@@ -95,195 +95,254 @@ Search
 Master Lock Company LLC Privacy Policy
 ======================================
 
-**Effective Date: October 27, 2022.**
+**Effective Date: June 2024.**
 
-Welcome! Thank you for visiting a Master Lock Company offering. To help inform you, we provide this notice explaining our online information practices and the choices you can make about the collection and use of information you submit or we collect through our website and our other related mobile websites, services, tools, mobile applications and other applications to which this Privacy Policy is linked (collectively, the "Site"). The Site is owned and operated by Master Lock Company LLC ("Master Lock," "us," "our").
+This Privacy Policy describes how Master Lock Company LLC, part of the Fortune Brands Innovations, Inc. family of companies (“we,” “us,” “our”), collects, uses, and shares your personal information as well as your rights in connection with your personal information. This Privacy Policy applies to personal information you submit to us or we collect through our website and our other related mobile websites (“Sites”); social media pages; services, tools; mobile applications; other applications; and hardware products and associated software (“Devices”) that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with our services (collectively, the "Services"), or when you interact with us through the Services or otherwise, including making transactions, inquiring about our products or services, posting product reviews, or requesting assistance. If you are a California resident and a current or prospective employee or contractor of Master Lock, please see our separate Job Applicant and Employee Privacy Policy [here](https://www.fbin.com/job-applicant-and-employee-privacy-notice-fbin/).
+
+We may provide different or additional privacy notices in connection with certain products, services, programs, and offerings. We may also provide additional “just-in-time” notices that may supplement or clarify our privacy practices or provide you with additional choices regarding your personal information.
+
+We encourage you to read this Privacy Policy regularly to stay informed about our information practices and the choices available to you. This Policy DOES NOT apply to information you provide to or is collected by any third party, including social media sites, websites, and mobile apps not operated by us.
 
 Contents
 --------
 
-1. [Scope and Consent](#scope-and-consent)
-2. [Information We Collect](#information-we-collect)
-3. [Uses and Retention of Information](#uses-and-retention)
-4. [Your Choices](#your-choices)
-5. [Disclosure of Information to Third Parties](#disclosure)
-6. [Information You Share on the Site](#information-you-share)
-7. [Communication Preferences and Marketing (opt-out)](#communication)
-8. [Tracking Technologies (Cookies)](#tracking)
-9. [Accessing, Reviewing, and Changing your Personal Information](#accessing-reviewing)
-10. [Notice to California Residents](#california)
-11. [EU Data Subject Rights](#eu-data-subject-rights)
-12. [Notice to Canadian Residents](#canadian-residents)
-13. [Links to Third Party Sites](#third-parties)
-14. [Children's Privacy](#children-privacy)
-15. [International Transfer of Information](#international-transfer)
-16. [Notification Regarding Updates](#notification-regarding-updates)
-17. [How to Contact Us](#contact-us)
+1. [Information We Collect](#information-we-collect)
+2. [Why We Collect Your Information](#why-we-collect-your-information)
+3. [Targeted Advertising and Analytics](#targeted-advertising-and-analytics)
+4. [Disclosure of Information](#disclosure-of-information)
+5. [Retention of Information](#retention-of-information)
+6. [Your Privacy Rights and Choices](#your-privacy-rights-and-choices)
+7. [Transfer of Information to the United States and Other Countries](#transfer-of-information-to-the-united-states-and-other-countries)
+8. [Contact Us](#contact-us)
+9. [State-Specific Disclosures](#state-specific-disclosures)
+10. [Notice to Canadian Residents](#notice-to-canadian-residents)
+11. [Notice to Individuals in Europe](#notice-to-individuals-in-europe)
 
 Privacy Policy
 --------------
 
-### 1\. Scope and Consent
+### I. Information We Collect
 
-When you use the Site, you are contracting with Master Lock Company LLC located at 6744 South Howell Avenue, Oak Creek, WI 53154. If you reside outside of the United States, Master Lock Company LLC is your data controller. This Privacy Policy applies to Master Lock customers, guests, and Site visitors. Please note that this Privacy Policy does not apply to end users of Master Lock's customers or to end users of the Vault Enterprise product. If you are an end user of a Master Lock customer using the Vault Enterprise product, please consult your employer or the Vault Enterprise customer, as applicable, to learn how information about you will be collected, used, shared, and otherwise processed.
+We collect information directly from you when you provide it to us.
 
-### 2\. Information We Collect
+If you register an account, create a profile, purchase Services, register products, or otherwise engage with us, you may provide personal information such as name, home address, email address, phone number, payment information (credit card information, bank account information, PIN), username, date of birth, and other similar identifiers. We also may collect information relating to the business you represent and demographic information such as domain information, zip codes, trade group association, and areas of interest. We may collect any other information you choose to provide.
 
-**(a) Registration and Account Information:** You can browse the Site without telling us who you are or revealing any personal information about yourself. If you choose to register for an account with us, we require you to create a username and password, you choose to give us your personal information and are not anonymous to us. When you register an account, create a profile, purchase products, or otherwise engage with our Site, you may provide personal information such as name, physical address, email address, phone number, mobile telephone number, payment information (processed through a third-party payment processor), zip codes, and other relevant information. Personal information is only associated with your account/profile when you sign in as a registered user. We also collect information relating to the business you represent and demographic information such as domain information, zip codes and areas of interest.
+We may receive the aforementioned personal information from third-party sources such as payment processors, product registration services, other service providers, and social media sites with which you interact to obtain or inquire about Services.
 
-**(b) Information to respond to your requests:** You may give us your personal information so we can respond to your requests, send you newsletters and other communications you request. Details of how you can opt-out of receiving any commercial communications from us are detailed in the section headed "[Your Choices](#your-choices)" below.
+We also collect personal information about you when you use or interact with the Services:
 
-**(c) Information From Other Sources:** The information we collect may be combined with information from outside records that we have acquired in accordance with the law and/or your permission. For example, we may obtain information about you from events we attend together and through partnerships with third parties.
+* **Access and Usage Information:** We collect information about how you access our Services, including data about the device and network you use, such as your hardware model, operating system version, mobile network, IP address, unique device identifiers, browser type, and app version. We also collect information about your activity on our Sites and Devices, including device information, access times, pages viewed, links clicked, referral channel, items added to shopping cart, and the page you visited before navigating to our Services.
+* **Precise Geolocation:** If you use certain of our connected Devices, we may collect your geolocation data, including information that permits us to determine your location, such as if you provide location information or enable your mobile device to send us location information when using the Services. You may stop the collection of precise location information at any time, but please note that the functionality or availability of the Services may be affected should you choose to do so (see the [Your Privacy Rights and Choices](#your-privacy-rights-and-choices) section below for details).
+* **Transactional Information:** When you make, exchange, or return a purchase, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
+* **Audio Recordings, Photos, and Chat Content:** If you contact customer service through our chat feature or by phone, we may monitor and retain those conversations, including for training purposes.
+* **Usage Information Collected By Devices:** If you use our Devices, we may collect telemetry data associated with use of the Device. We may collect GPS location data to pair your Device with the associated mobile app or other Services. When you have a Device connected to our Services, we will collect various Device event data, such as information required to provide the Services to you, when the Device is used, whether the Device is turned on or off, whether certain features on the mobile app or Device are used and how, and aggregate Device activity information.
+* **Your Content:** With your permission, we may collect information and content stored on your mobile device, such as your contact list for use with our Services.
+* **Information Collected by Cookies and Similar Technologies:** We use cookies, pixels, web beacons, device identifiers, and other similar technologies to collect information about your interaction with the Services. These technologies help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. For more information about the cookies and other tracking technologies we use, and the choices available to you, see the [Your Privacy Rights and Choices](#your-privacy-rights-and-choices) section below.
 
-**(d) Mobile Information:** If you access the Site through a mobile device we may collect additional information from you (e.g. your unique device identifier or a mobile number).
+We may derive information or draw inferences about you based on the information we collect. For example, we may make inferences about your approximate location based on your IP address or infer that you are looking to purchase certain products based on your browsing behavior and past purchases.
 
-**(e) Technical Usage Information:** When you visit our Site, we collect usage information sent to us by your computer, mobile, or other access device that tells us how you are using the Sites ("usage information"). We use tracking technologies, such as (including pixel tags, cookies, flash cookies, clear GIFs, embedded scripts, Javascript, local storage and e-tags/cache browsers) to collect usage information. During some visits we may use software tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information.
+### II. Why We Collect Your Information
 
-**(f) Location Information:** As a feature of one or more of our connected products, we collect location information on the precise location of the device you use to connect to the product at the time of use. This may include information about your device's location derived from your device gps, Bluetooth identifiers, and WiFi signal. We provide this information to you in reports and audit trails, as you request.
+We process your personal information for various purposes, including to:
 
-### 3\. Uses and Retention
+* Provide, maintain, and improve our products, Devices, and services;
+* Develop new products and services;
+* Process transactions and send you related information, including confirmations, receipts, invoices, customer experience surveys, product information and recall notices;
+* Better understand your interests in order to personalize and improve your experience with our Services;
+* Send you technical notices, security alerts, and support and administrative messages;
+* Respond to your comments and questions and provide customer service;
+* Provide support and services to you, including related to our limited and lifetime warranties (as applicable);
+* Communicate with you about products, services, and events offered by us and our affiliates and provide news and information that we think will interest you;
+* Monitor and analyze trends, usage, and activities in connection with our Services;
+* Personalize the advertisements you see on third-party platforms and websites (for more information, see the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section below);
+* Create customer profiles to personalize and enhance your experience across our affiliated brands;
+* Facilitate trade programs, rebates, discounts, contests, sweepstakes, and promotions and process and deliver entries and rewards;
+* Detect, investigate, and prevent security incidents and other malicious, deceptive, fraudulent, or illegal activity and protect our rights and property and those of others;
+* Debug to identify and repair errors in our Services;
+* Comply with our legal and financial obligations; and
+* Carry out any other purpose described to you at the time the information was collected.
 
-**(a)** We collect information about you for our legitimate business interests, in order to better understand your interests, and improve your experience of using the Site. To learn more about how we use tracking technologies and cookies, see [Section 8 of this Privacy Policy](#tracking).
+### III. Targeted Advertising and Analytics
 
-**(b)** We collect information about you to provide, maintain, and improve the Site and our products. In some cases, if you do not provide the information to us, it will prevent us from being able to provide services you request or otherwise inhibit our ability to operate the Site.
+We engage others to provide analytics services, serve advertisements, and perform related marketing and analytics services across the web and in mobile applications. These entities may use cookies, pixels, web beacons, SDKs, device identifiers, and other technologies to collect information about your use of our Services and other websites and mobile apps, including your IP address, web browser and mobile network information, device fingerprint, pages viewed, time spent on pages or in mobile apps, links clicked, and conversion information. This information is used to deliver advertising targeted to your interests on other companies’ sites or mobile apps and to analyze and track data, determine the popularity of certain content, and better understand your activity. In addition, we may share identifiers, like email addresses and phone numbers, with some of our advertising partners. These advertising partners translate that information into a unique identifier that can then be used to show ads that are more relevant to you across the web and in mobile apps. Some of the activities described in this section may constitute “targeted advertising,” “sharing,” or “selling” under certain laws. To learn more about the choices available to you with respect to these practices, see the [Your Privacy Rights and Choices](#your-privacy-rights-and-choices) section below.
 
-**(c) Operate Our Site:** We use the information collected to (i) respond to your requests or orders; (ii) provide customer service (e.g., to resolve disputes, address feedback, or fix problems with your account/profile or the Site); (iii) personalize your experience by providing content on the Site, including targeted advertising/communications, that we believe may be of the most interest to you; (iv) improve the Site; and (v) give you information about your account.
+You can also learn more about interest-based ads or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices, or, if you reside in the European Union, by visiting www.youronlinechoices.eu. Your device may also include a feature that allows you to opt out of having certain information collected through mobile apps used for behavioral advertising purposes.
 
-**(d) Analyze and Aggregate Non-Personal Information:** We use aggregate information about our users and non-personal information to analyze Site and user behavior and prepare aggregated reports.
+### IV. Disclosure of Information
 
-**(e) Prevent Fraud:** We use information from the Site to prevent, detect, and investigate fraud, security breaches, and potentially prohibited or illegal activities, and enforce the [Terms of Use](https://www.masterlock.com/legal-statement) applicable to the Master Lock product or Site you are using.
+We may disclose your personal information in the following situations:
 
-**(f) Communicate With You:** We use your information to contact you to maintain the Site, your account, or to comply with your stated communication preferences, or to provide other services requested by you, as described at the time when we collect the information from you, or to contact you for other purposes authorized by law.
+* With vendors, service providers, and consultants that perform services for us, such as companies that assist us with web hosting, site analytics, shipping and delivery, payment processing, bill collection, fraud prevention, customer service, product development and maintenance, research, customer reviews, and marketing and advertising.
+* If you submit a product review or post content in another public area of our Services, we disclose this information publicly on our Services.
+* If you choose to use or implement third party integrations we facilitate on our Services or with other third parties, such as a smart home platform, voice assistant, map service or a weather provider, we may disclose certain information to the entity and/or device integrated with our Services. If you choose to use or implement integrations we offer on our Services or with our Devices or to logon to our Services using credentials from a third-party platform, such as a smart home platform, voice assistant, map service or a weather provider, we may receive certain information from the third party and/or Device integrated with our Services. When such third parties allow for deletion of data collected from their platform, you may request us to delete personal information we collected from such third party by contacting us. Personal information collected by such third parties or third-party platforms are governed by the applicable third party’s privacy policy.
+* If you choose to participate in a program we have with third parties, such as insurance companies, non-profit environmental organizations, or installation or repair service providers, we may disclose information about you, including certain information captured by your Device(s), to the third party with your consent.
+* We may disclose personal information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.
+* We may disclose personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, or safety of us, our users, the public, or others.
+* We disclose personal information to our lawyers and other professional advisers where necessary to obtain advice or otherwise protect and manage our business interests.
+* We may disclose personal information in connection with, or during negotiations concerning, any merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company.
+* Between and among our current and future parents, affiliates, and subsidiaries and other companies under common control and ownership.
+* With your consent or at your direction.
 
-**(g) Marketing Analysis:** We may use the information (including personal data) to understand how users use the Site and our products and to improve our Site and products.
+We also disclose aggregated or de-identified information that cannot reasonably be used by the recipients to identify you.
 
-**(h) Data Retention:** Your information will be retained by us for as long as needed for us to comply with our contractual obligations, and other business purposes, including global legal obligations to retain data.
+### V. Retention of Information
 
-### 4\. Your Choices
+We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it, or for other legitimate business purposes, including to meet our legal, regulatory, contractual, and warranty (to you and to third parties), or other compliance obligations. For example, we may retain some information from closed accounts so that we can comply with the law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot service, enforce our agreements, facilitate your ability to reactivate your account or take other actions permitted by law. Likewise, if your account is terminated or suspended by us, we may maintain some information to prevent re-registration.
 
-You can control how and when you want to receive commercial notifications from Master Lock on the Site or by following instructions within the notices. If you have consented to our collection of your personal data or explicitly consented to our collection of special/sensitive categories of personal data your consent can be withdrawn at any time. For more information about how to opt-out of marketing communications go to [Section 7 (Communication Preferences and Marketing (Opt-out))](#communication), and for information about how to change or update your personal information, or to withdraw your consent, go to [Section 9 (Accessing, Reviewing, and Changing Your Personal Information)](#accessing-reviewing). For more information about the rights of European Economic Area (EEA) residents go to [Section 11 (Residents of the European Economic Area and Switzerland)](#eu-data-subject-rights).
+### VI. Your Privacy Rights and Choices
 
-**Mobile Push Notifications/Alerts**  
-With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device when you use certain of our products and services. You can deactivate promotional messages at any time by changing the notification settings on your mobile device or contacting us at the email provided below at Section 16.
+#### Access, Correction, and Deletion
 
-**Device Content on the Mobile Application**  
-With your consent, certain of our products and services with mobile applications may access information on your mobile device such as your SMS and email functionality. You can always withdraw such access by not allowing our products to access the SMS and email functionality for a specific task or, if for multiple tasks, going into your device settings and removing the application's access to that information. Please note that if you enable access and then remove that access, this could affect the availability and functionality of the product or service and of certain features of the mobile application.
+Depending on where you reside, you may have the right to:
 
-### 5\. Disclosure
+* Request to know more about and access your personal information we have processed, including in a portable format,
+* Request deletion of your personal information, and
+* Request correction of inaccurate personal information.
 
-Information collected on the Site may be shared with:
+To request access, correction, or deletion of your personal information, visit [this page](https://masterlock.custhelp.com/app/ccpa?_gl=1*1qq7j22*_ga*MTIxMDE1MTQzMi4xNjkwMjExMTUw*_ga_S4DWP2FDLH*MTcxNjMxNTgxOC4zNi4wLjE3MTYzMTU4MTguMC4wLjA.) or call our toll-free number at [1-800-308-9244](tel:1-800-308-9244).
 
-**(a) The Fortune Brands Home & Security, Inc. Corporate Family:** We may share the information we collect about you with the Fortune Brands corporate family and its and our affiliates and subsidiaries, as well as with third-party suppliers and service providers. The information may be disclosed (i) to provide joint content and our services (e.g., registration, transactions, analytics and customer support); (ii) to help detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches; (iii) to guide decisions about Fortune Brands Home & Security or third-party's business, assets, operations, rights, products, sites, applications, services, tools, and communications and (iv) processing and storage of information.
+We may verify your request by asking you to provide information related to your recent interactions with us, such as your name, email address, or phone number.
 
-**(b) Service Providers and Other Third Parties** We may disclose your information to service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, payment processing, shipment; recruitment, employment, research, and site analytics and operations). We may also share your information with third parties to defend against legal claims; to investigate, prevent, or act against illegal activities, suspected fraud, situations involving potential threats to safety, or violations of Master Lock terms of use; to protect our operations, assets, and intellectual property; to allow us to pursue appropriate legal remedies or limit damages; to pursue any reorganization, merger, sale, joint venture, assignment, transfer of assets, or other disposition of all or any portion of our business, assets, or stock; or as otherwise required by law.
+#### Account Information
 
-**(c) Other Entities with your Consent** Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
+Registered users may update and correct certain account information at any time by logging into their account at the website where you created the account. If you wish to delete your account, please log into your account at the same Site you created the account and select the options to delete the account, but note that we may retain certain information (see [Retention of Information](#retention-of-information) section above).
 
-**(d) Legal and Law Enforcement** Law enforcement, governmental agencies, or authorized third parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other Master Lock user to legal liability. In such events, we will only disclose information relevant and necessary to the investigation or inquiry.
+#### Opting Out of Targeted Advertising, Sharing, and Sales
 
-**(e) Change of Control - New Owners** Other business entities, should we plan to merge with or be acquired by that business entity. Should such a combination occur, we will make reasonable efforts to request that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information would be used contrary to this Policy, you will receive prior notice.
+As described in the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section above, we process personal information to understand and improve your experience with our Services and to serve you advertisements on third party properties. Some of these activities may be considered “sales” or “sharing” of your personal information or “targeted advertising” under certain privacy laws.
 
-**(f) Ad Networks** On the Site, we may work with third parties to serve advertisement, provide us with data collection, reporting, ad response measurement and site analytics and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://www.aboutads.info/choices) or, for EU users, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/) or for Canadian users: [https://youradchoices.ca/](https://youradchoices.ca/).
+Depending on where you reside, you may have the right to opt out of targeted advertising, sharing, and sales of your personal information. You can do so by following the prompts when first visiting our Sites, by [clicking here](https://www.moen.com/privacy-settings), or by visiting our Sites with a legally-recognized opt-out preference signal enabled (such as the Global Privacy Control).
 
-**(g) Companies In The Mobile Industry** If you access the Site through a mobile device, we may also share your information with carriers, operating systems and platforms.
+#### Cookies & Other Tracking Technologies
 
-**(h) Violation of Terms** We may disclose information about you if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property, and safety of Master Lock or others.
+Most web browsers are set to accept cookies and other tracking technologies by default. If you prefer, you can usually adjust your browser settings to remove or reject browser cookies. You can also adjust certain cookie settings by selecting the appropriate option on the banner that appears when first visiting our website or by accessing the “Privacy Settings” link at the bottom of our website at any time and selecting the appropriate options. Please note that removing or rejecting cookies could affect the availability and functionality of our Services.
 
-### 6\. Information You Share on the Site
+#### Communications Preferences
 
-If you post information or content, such as by posting photos, commenting on a blog, or participating in online forums or communities, or when you interact with our Site through social media sites, plug-ins or other applications, depending upon your privacy settings, this information may become public on the Internet. We cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party sites' privacy policies and terms of use to learn more about their privacy practices, which we do not control.
+You may opt out of receiving promotional emails from us by following the instructions in those communications or, as applicable, by adjusting the communications options associated with your account. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
-### 7\. Communication Preferences and Marketing (Opt-out)
+#### Mobile Push Notifications
 
-We may combine your information with information we collect from other companies and use it to improve and personalize the Site. If you do not wish to receive marketing communications from us, you can indicate your communications preference within the direct communication from us or through your account/profile settings. You may not opt-out of administrative emails (for example, emails about your transactions or policy changes) for your registered account.
+With your consent, we may send push notifications to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
 
-### 8\. Tracking Technologies (Cookies)
+#### Mobile Device Access
 
-When you visit the Site, we and our business partners may use tracking technologies to enhance your online experience or customize our offerings.
+With your consent, certain of our products and services with mobile applications may access information on your mobile device such as your camera or contact list. You can always withdraw such access by not allowing our products to access features on your device for a specific task or, if for multiple tasks, going into your device settings and removing the application’s access to that information. Please note that if you deny or revoke this access, it could affect the availability and functionality of the product or Service and of certain features of the mobile application.
 
-A few additional important things you should know about our use of tracking technologies (cookies):
+### VII. Transfer of Information to the United States and Other Countries
 
-* We offer certain features that are available only through the use of tracking technologies.
-* We use both session and persistent tracking technologies. Tracking technologies (e.g., cookies) can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). You are always free to decline tracking technologies if your browser permits, although doing so may interfere with your use of the Site. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling tracking technologies such as cookies.
-* If you are a registered user and you specifically request that our Site remembers your login information, you are allowing us to place a permanent cookie onto your computer.
-* You may encounter tracking technologies/cookies from our third-party service providers, that we have allowed on our site that assist us with various aspects of our web site operations and services, such as [Google Analytics](https://www.google.com/analytics/); for more information about Google Analytics, see: [https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies).
-* You also may encounter tracking technologies from third parties on certain pages of the websites that we do not control and have not authorized. (For example, if you view a web page created by another user, there may be a cookie placed by that web page).
+We are headquartered in the United States and we have operations and vendors in the United States and other countries. Therefore, we and those that perform work for us may transfer your personal information to, or store or access it in, jurisdictions that may not provide levels of data protection that are equivalent to those of your home jurisdiction. Where required by law, we provide adequate protection for the transfer of personal data in accordance with applicable law, such as by obtaining your consent, relying on the European Commission’s adequacy decisions, or executing Standard Contractual Clauses. Where relevant, you may request a copy of these Standard Contractual Clauses by contacting us at [customerservice@mlock.com](mailto:customerservice@mlock.com).
 
-### 9\. Accessing, Reviewing, and Changing Your Personal Information
+### VIII. Contact Us
 
-Registered members can review and change personal information at any time by accessing their accounts on the Site. You should promptly update your personal information if it changes or becomes inaccurate. We may retain some information from closed accounts so that we can comply with the law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law. Likewise if your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. If you do not have an account with us, you can email us at the email provided below at [Section 16 with questions](#notification-regarding-updates).
+If you need information or have any questions or concerns about this Privacy Policy or our use of your Personal Information, you may contact our Customer Care via e-mail at [customerservice@mlock.com](mailto:customerservice@mlock.com), or via mail at:
 
-### 10\. Notice to California Residents
+Master Lock Company LLC Attn: Customer Care
 
-If you are a California resident, the California Consumer Privacy Act (“**CCPA**”) requires us to disclose the following information with respect to our collection, use, and disclosure of personal data, as these terms are defined by the CCPA.
+6744 S Howell Avenue Oak Creek, WI 53154
 
-* **Categories of Personal Data Collected**: In the preceding 12 months, we may have collected one or more of the following categories of personal data: identifiers, characteristics of protected classifications under California or U.S. law, commercial information, internet and electronic network activity, geolocation data, audio and visual information, inferences drawn about your preferences, and other categories of personal data that relates to or is reasonably capable of being associated with you.
-* **Business or Commercial Purpose for Collecting and Using Data**: We may collect personal data for one or more of the following business purposes: to provide, maintain and improve our product services; to monitor and analyze trends, usage and activity related to our products; to detect, investigate and prevent fraudulent transactions and other illegal activities as well as protect the rights and property of Us and others; facilitate contests, sweepstakes and promotions and process and deliver entries and rewards; product warranty support; product service and functionality support; product registration; to complete product order requests; to respond to product inquiries; to respond to requests about product information or where and how to have products installed; to respond to product complaints; legal defenses; and, sales related purposes.
-* **Categories of Sources of Personal Data**: We may have collected personal data from you from one or more of the sources described here: mobile applications which you downloaded onto your phone; our connected products; customer requests made by you, for example on-line, through customer service or by mail; social media; emails received from you; shipping companies; product distributors and installers; and third party marketing related companies.
-* **Categories of Personal Data Disclosed**: In the preceding 12 months, we may have disclosed the following categories of personal data for business or commercial purposes: identifiers, internet and electronic network activity information, commercial information, audio and visual information, and demographic information.
-* **Categories of Third Parties With Whom We Share Personal Data**: We may share your personal data with one or more of the third parties described here: between and among companies which are under common ownership with Us; vendors, service providers and consultants that perform services on our behalf; companies which store and process data on our behalf; companies which perform data analytics for us; companies which help service and install our products; companies which help deliver and track our products that are ordered, replaced or repaired; companies which provide information to you about where to find or have installed our products and services; law firms; companies which send to you information about products on our behalf; and, companies which you request Us to share your Personal Data with.
+### IX. State-Specific Disclosures
 
-**Your Consumer Rights**
+California, Colorado, Connecticut, Oregon, Texas, Virginia, and Utah have enacted consumer privacy laws that grant their residents certain rights and require additional disclosures (“State Laws”). If you are a resident of one of these states, this section applies to you and describes our data practices today and in the preceding 12 months, and you may have certain rights with respect to your personal information depending on the state in which you reside.
 
-California consumers have the right to request access to their personal data, additional details about our information practices and deletion of their personal data, subject to certain exceptions. California consumers also have the right to opt out of sales of personal data, if a company is selling their data. We describe how California consumers can exercise their rights under the CCPA below. Please note that you may designate an authorized agent to exercise these rights on your behalf; however, we will need proof that the agent is authorized by you and will need to confirm your identity. We will not discriminate against you if you choose to exercise your rights under the CCPA. Note, however, for your protection, we will be unable to fulfill some of the requests summarized below if we or a third party verification service we employ is unable to verify your identity.
+#### Categories of Personal Information Collected
 
-**Right to Know**: You may request access to the specific pieces of personal data we have collected about you in the last 12 months. You may also request additional details about our information practices, including the categories of personal data we have collected about you, the sources of such collection, the categories of personal data we share for a business or commercial purpose, and the categories of third parties with whom we share your personal data. You may make these requests by [visiting this page](https://masterlock.custhelp.com/app/ccpa) or calling [1-800-308-9244](tel:+1-800-308-9244) or e-mailing us your request to [customerservice@mlock.com](mailto:customerservice@mlock.com). We will verify your request by using a third party identity verification service. Please note that, for your safety, we cannot fulfill certain requests if we cannot verify your identity.
+We have collected the following categories of personal information: identifiers such as name, alias, postal address, unique personal identifier, online identifier, device identifier, Internet Protocol address, email address, or account name; commercial information such as records of products or services purchased; internet and electronic network activity; geolocation data; audio and visual information; professional or employment-related information; inferences drawn about your consumer preferences; and Characteristics of protected classifications under California or U.S. federal law such as age and gender. For more details about the personal data points we collect, the categories of sources of such collection, and the business or commercial purposes for processing such data, please see the [Information We Collect](#information-we-collect) and [Why We Collection Your Information](#why-we-collect-your-information) sections above.
 
-**Deletion**: You may request that we delete the personal data we have collected about you. Please note that we may retain certain information as required or permitted by applicable law. You may make these requests by calling [1-800-308-9244](tel:+1-800-308-9244) or e-mailing us your request to [customerservice@mlock.com](mailto:customerservice@mlock.com). We will verify your request by using a third party identity verification service. Please note that, for your safety, we cannot fulfill certain requests if we cannot verify your identity.
+#### Categories of Third Parties to Whom We Disclose Personal Information
 
-### 11\. Residents of the European Economic Area and Switzerland
+In the preceding 12 months, we have disclosed the following categories of personal information for certain business purposes (see [Why We Collection Your Information](#why-we-collect-your-information) section above) to the following categories of recipients:
 
-**Legal Basis for Processing**  
-If you are in the EEA or Switzerland, when we process personal data about you, we do so in accordance with the following lawful bases:
+| **Category of Personal Information** | **Categories of Recipients** |
+| --- | --- |
+| Identifiers | Between and among companies which are under common ownership with us (affiliates); vendors, service providers and consultants that perform services on our behalf; companies which store and process data on our behalf; companies which perform data analytics for us; companies which help service and install our products; companies which help deliver and track our products that are ordered, replaced or repaired; companies which provide information to you about where to find or have installed our products and services; law firms; companies which perform marketing and advertising services for us; companies which send you information about products on our behalf; and companies which you have requested or authorized us to share your personal information with |
+| Internet and electronic network activity information | Between and among companies which are under common ownership with us (affiliates); Companies which store and process data on our behalf; companies which perform data analytics for us; companies which perform marketing and advertising services for us |
+| Commercial information | Between and among companies which are under common ownership with us; service providers and consultants that perform services on our behalf; companies which store and process data on our behalf; companies which perform data analytics for us; companies which help service and install our products; companies which help deliver and track our products that are ordered, replaced or repaired; companies which provide information to you about where to find or have installed our products and services; law firms; companies which send you information about products on our behalf; and companies which you have requested or authorized us to share your personal information with |
+| Audio and visual information (e.g., recorded customer service calls) | Companies which store and process data on our behalf; companies which help service and install our products |
+| Characteristics of protected classifications under California or U.S. federal law (such as age and gender) | Between and among companies which are under common ownership with us (affiliates); Vendors, service providers and consultants that perform services on our behalf; companies which store and process data on our behalf; companies which perform data analytics for us; companies which provide information to you about where to find or have installed our products and services; and companies which send to you information about products on our behalf |
 
-* We need to use personal data about you to perform our responsibilities under our contract with you. For example, we may use your payment information to process payments, through a third-party payment processor, for providing the products or services you have requested as well as your contact information as present in your user profile in order to properly bill you and associate products and services with your account. In addition, we may also process information about your device in order to provide you with software updates and provide you with product support.
-* We have your consent to do so. For example, with your consent we will send you commercial emails relating to our products and services.
-* We have a legitimate interest in processing personal data about you. For example, we may process personal data about you to provide, secure, and improve our Site as well as to improve our products and services.
-* We need to process personal data about you in accordance with legal obligations we have. For example, we may need to retain some personal data about you to prove that we comply with applicable law such as retaining sales information about your transactions with us and certain emails you may send us as evidence of our compliance with your requests, if applicable.
+#### Categories of Personal Information Sold or Shared
 
-**Data Subject Rights**  
-If you are a resident of the European Economic Area (EEA), you have the right to: (a) request access to your personal data and rectification of inaccurate personal data; (b) erasure of your personal data; (c) request restrictions on the processing of your personal data; (d) object to processing your personal data; and/or (e) the right to data portability.
+In the preceding 12 months, we have disclosed the following categories of personal information to third parties to engage in targeted advertising and other marketing activities, including to expand the reach and effectiveness of our own marketing campaigns. These disclosures may be considered “sales” or “sharing” or use of personal information for “targeted advertising” under certain State Laws.
 
-For information about how to get access to personal data and for exercising your rights, please refer to the [Contact section](#contact-us) of this Privacy Policy.
+| **Category of Personal Information** | **Categories of Recipients** |
+| --- | --- |
+| Internet and electronic network activity information | Companies which provide advertising and marketing services may use such information to serve advertisements on our behalf that are determined to be relevant to you based on your online behavior |
 
-You also have the right to lodge a complaint with a supervisory authority.
+#### Other Details About Our Information Practices
 
-### 12\. Notice to Canadian Residents
+* As described in more detail in the [Information We Collect](#information-we-collect) section above, we collect personal information from different sources, including: directly from you, automatically when you access or use our Services, and from third-party sources.
+* We do not knowingly collect, sell, or share personal information about consumers under the age of 16.
+* We retain personal information for as long as is necessary for the purpose(s) for which we originally collected it, or for other legitimate business purposes. See the [Retention of Information](#retention-of-information) section above for more detail.
+
+#### Sensitive Personal Information
+
+By using our Services in connection with certain connected Devices offered by us or another company within the FBIN family of companies, we may collect your precise geolocation in order to provide you with the Services you purchased or requested. You may provide your consent to provide such information through settings on your mobile phone at the point of collection. You may withdraw your consent to collection of such information by toggling off GPS or other location tracking on the Site or your mobile device. However, by doing so, some features and functionality of our Site or Services may not be available or perform as intended. We do not disclose this information, or any other sensitive personal information, with third parties, including for the purpose of inferring characteristics about you, without receiving your express consent.
+
+#### Financial Incentives
+
+We may provide discounts, coupons, and other benefits for customers who sign up to receive our marketing emails or join certain discount programs. When you participate in such a program, we collect personal information from you, such as identifiers like your name and email address and commercial information like your purchase history. You can opt into such a program by following the sign-up instructions, and you have the ability to opt-out of the incentive at any time by following the instructions in the emails received. In some cases, we may provide additional terms and conditions, which we will provide to you when you sign up. The value of your personal information is reasonably related to the value of the offer or discount presented to you.
+
+#### Your Rights
+
+##### Access, Correction, and Deletion
+
+Please see the [Your Privacy Rights and Choices](#your-privacy-rights-and-choices) section above for more information about the privacy rights you have under applicable State Laws and how to exercise your rights.
+
+##### Authorized Agents
+
+If you are from California, Colorado, or Connecticut and submitting a rights request as an authorized agent, we may ask you to submit proof of your authorization to make the request, such as a valid power of attorney or proof that you have signed permission from the individual who is the subject of the request. Please do not provide any sensitive personal information in connection with this request, such as a driver's license or other government-issued ID. In some cases, we may contact the individual who is the subject of the request to verify their own identity or confirm you have permission to submit this request.
+
+If you are an authorized agent seeking to make an access, correction, or deletion request on behalf of a California resident, please fill out this [form](https://masterlock.custhelp.com/app/ccpa?_gl=1*14rvzu7*_ga*MTIxMDE1MTQzMi4xNjkwMjExMTUw*_ga_S4DWP2FDLH*MTcxNjMxNTgxOC4zNi4wLjE3MTYzMTU4MTguMC4wLjA.).
+
+##### Right to Opt Out of Sales, Sharing, Targeted Advertising
+
+Some of the activities described in the [Targeted Advertising and Analytics](#targeted-advertising-and-analytics) section above may be considered “sales” or “sharing” of your personal information or use of your information for “targeted advertising” under the law that applies to you. You may opt out of these activities by following the prompts at [Privacy Settings](https://www.moen.com/privacy-settings). You may also opt out by broadcasting the Global Privacy Control (GPC) (to the extent your browser supports such a signal). If you choose to use the GPC signal, you will need to turn it on for each browser you use. If you opt out, we will not be able to offer you personalized ads and some features and functionality of our Services may not be available or perform as intended.
+
+##### Nondiscrimination
+
+We do not discriminate against any individual who exercises the rights described above.
+
+##### Appeals
+
+If we deny your privacy request, you may to appeal our decision by contacting us at [customerservice@mlock.com](mailto:customerservice@mlock.com). If you have concerns about the result of an appeal, you may contact the attorney general in the state where you reside.
+
+### X. Notice to Canadian Residents
 
 If you are a resident of Canada, these additional terms apply to our collection, use and disclosure of personal information. Any reference in this Privacy Policy to “personal data” should be understood to refer to “personal information” under applicable Canadian privacy laws.
 
-**Consent:** By submitting personal data to Master Lock, or our service providers and agents, you consent to the collection use, disclosure, and transfer of your personal data for the purposes described in this this Privacy Policy or as communicated to you at the relevant time, and as permitted or required by law.
+**Consent:** By submitting personal data to us, or our service providers and agents, you consent to the collection use, disclosure, and transfer of your personal data, including transfers outside of Quebec, for the purposes described in this Privacy Policy and as permitted or required by law.
 
-**Access and Correction:** Upon your written request, and subject to certain exceptions provided by law, we will inform you of the existence, use, and disclosure of your personal data and give you access to that information. We may charge a minimal fee for providing such access to you. If you are able to establish that the information is not accurate or complete, we may take reasonable steps to delete and/or correct the information so that it is accurate, complete, and up-to-date. You may make these requests by calling [1-800-308-9244](tel:+1-800-308-9244) or e-mailing us your request to [customerservice@mlock.com](mailto:customerservice@mlock.com). We may verify your request by using a third party identity verification service. Any such information will only be used for the purpose of confirming your identity and will not be retained by Master Lock. Please note that, for your safety and to protect your privacy, we cannot fulfill certain requests if we cannot verify your identity. Further, please make any privacy related requests or inquiries by calling [1-800-308-9244](tel:+1-800-308-9244) or e-mailing us your request to [customerservice@mlock.com](mailto:customerservice@mlock.com).
+**Access and Correction:** Upon your written request, and subject to certain exceptions provided by law, we will inform you of the existence, use, and disclosure of your personal data and give you access to that information. We may charge a minimal fee for providing such access to you. If you are able to establish that the information is not accurate or complete, we will take reasonable steps to delete and/or correct the information so that it is accurate, complete, and up-to-date. You may make these requests by calling [1-800-308-9244](tel:1-800-308-9244) or e-mailing us your request to [customerservice@mlock.com](mailto:customerservice@mlock.com). We may verify your request by using a third party identity verification service. Any such information will only be used for the purpose of confirming your identity and will not be retained by us. Please note that, for your safety and to protect your privacy, we cannot fulfill certain requests if we cannot verify your identity. Further, please make any privacy related requests or inquiries by calling [1-800-308-9244](tel:1-800-308-9244) or e-mailing us your request to [customerservice@mlock.com](mailto:customerservice@mlock.com).
 
-**Canada’s Anti Spam Law (“CASL”)**  
+#### Canada’s Anti Spam Law (“CASL”)
+
 We will only send you commercial electronic messages (“CEMs”) where we have your express or implied consent to do so. Your consent to receive CEMs is implied where we have an existing business relationship with you, or you have reached out to us and made an inquiry within a certain time frame. You may unsubscribe from receiving CEMs at any time, by clicking the unsubscribe button on an email or following the direction provided in a text message.
 
-### 13\. Third Parties
+### XI. Notice to Individuals in Europe
 
-Our Site may contain links to other third party websites. We are not responsible for the privacy practices or the content of these third party sites.
+If you are located in the European Economic Area (“EEA”), the United Kingdom, or Switzerland, the following section applies to you.
 
-### 14\. Children's Privacy
+#### Legal Basis for Processing
 
-The Site is a general audience site and it is not intended for children under the age of 13. We do not knowingly collect personal information via our websites, applications, services, or tools from users in this age group.
+When we process your personal data as described above, we do so in reliance on the following lawful bases:
 
-### 15\. International Transfer
+* To perform our responsibilities under our contract with you (e.g., processing payments for and providing the products and services you requested).
+* When we have a legitimate interest in processing your personal data to operate our business or protect our interests (e.g., to provide, maintain, and improve our products and services, conduct data analytics, and communicate with you).
+* To comply with our legal obligations (e.g., to maintain a record of your consents and track those who have opted out of marketing communications).
+* When we have your consent to do so (e.g., when you opt in to receive marketing communications from us). When consent is the legal basis for our processing your personal data, you may withdraw such consent at any time.
 
-As we operate internationally, and many of our computer systems are currently based in the U.S. Your personal information may be processed in the U.S. and elsewhere where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. You understand that the U.S. government may obtain access to the personal data you submit if necessary for investigative purposes. We use adequate means to transfer data under applicable laws.
+#### Data Subject Requests
 
-If you are in the EEA, we provide adequate protection for the transfer of personal data to countries outside of the EEA, including through a series of intercompany agreements based on the Standard Contractual Clauses authorized under EU law. You are entitled to obtain a copy of these agreements by contacting us using the contact information below.
+Please see the [Your Privacy Rights and Choices](#your-privacy-rights-and-choices) section above for more information about your privacy rights and how to exercise them. In addition, you may have the right to object to certain processing or request we restrict certain processing. To exercise any of these rights, please contact us at [1-800-308-9244](tel:1-800-308-9244).
 
-### 16\. Notification Regarding Updates
+If you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the Data Protection Authority where you reside. Contact details for your Data Protection Authority can be found using the links below:
 
-From time to time, we may update this Privacy Policy. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on the Site. You should check the Site frequently for updates. We will also notify you of any material changes in the way that we collect or use your personal data.
+For individuals in the EEA: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
 
-### 17\. Contact Us
+For individuals in the UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
 
-If your questions are not answered online, you may email us at [masterlock@mlock.com](mailto:masterlock@mlock.com) or write to us at:
-
-Master Lock Company LLC World Headquarters Attn: Customer Care
-
-6744 S Howell Avenue Oak Creek, WI 53154 Phone: 1-800-308-9244
+For individuals in Switzerland: [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
 
 © 2024 Master Lock Company LLC. All rights reserved.
 
