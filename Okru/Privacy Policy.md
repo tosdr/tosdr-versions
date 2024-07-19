@@ -14,7 +14,7 @@ Close
 
 English
 
-[русский](https://ok.ru/dk?cmd=lang&st.lang=ru&st.cmd=helpEUPrivacyPolicy)English[Беларуская](https://ok.ru/dk?cmd=lang&st.lang=be&st.cmd=helpEUPrivacyPolicy)[ქართული](https://ok.ru/dk?cmd=lang&st.lang=ka&st.cmd=helpEUPrivacyPolicy)[українська](https://ok.ru/dk?cmd=lang&st.lang=uk&st.cmd=helpEUPrivacyPolicy)[Татар теле](https://ok.ru/dk?cmd=lang&st.lang=tt&st.cmd=helpEUPrivacyPolicy)[Қазақ тілі](https://ok.ru/dk?cmd=lang&st.lang=kk&st.cmd=helpEUPrivacyPolicy)[Հայերեն](https://ok.ru/dk?cmd=lang&st.lang=hy&st.cmd=helpEUPrivacyPolicy)[O'zbek tili](https://ok.ru/dk?cmd=lang&st.lang=uz&st.cmd=helpEUPrivacyPolicy)[Română (MD)](https://ok.ru/dk?cmd=lang&st.lang=mo&st.cmd=helpEUPrivacyPolicy)[Azərbaycan dili](https://ok.ru/dk?cmd=lang&st.lang=az&st.cmd=helpEUPrivacyPolicy)[Română (RO)](https://ok.ru/dk?cmd=lang&st.lang=ro&st.cmd=helpEUPrivacyPolicy)[Türkçe](https://ok.ru/dk?cmd=lang&st.lang=tr&st.cmd=helpEUPrivacyPolicy)
+русскийEnglishБеларускаяქართულიукраїнськаТатар телеҚазақ тіліՀայերենO'zbek tiliRomână (MD)Azərbaycan diliRomână (RO)Türkçe
 
 [Help](https://ok.ru/help?st.cmd=helpFaq&st.origin=TA)
 
