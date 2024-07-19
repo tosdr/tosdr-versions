@@ -70,21 +70,28 @@ Terms and Conditions
     * **Non-Refundable Deposit Policy:** Reservation deposits for the Early Saver promotion are subject to a non-refundable deposit after the time of booking. Reservation deposits for cabanas are considered earned and non-refundable if the reservation is canceled by Guest within 48 hours of check-in. Notwithstanding, in the event of cancelation of Cabana by Hotel at any time due to inclement weather, unavailability, or any other reason, the deposit will be refunded.   
           
         
-    * **Standard Change and Cancellation Policy**: Guests making a reservation eight or more days from their arrival date have 24 hours in which to modify or cancel a reservation with no penalties or fees. After that point, guests who wish to modify their reservation are subject to the following change fees:  
-                    $25 if reservation is modified 8 or more days from arrival  
-                    $50 if reservation is modified less than 8 days from arrival
+    * **Standard Change and Cancellation Policy:** Guests making a reservation 8 or more days from their arrival date have 24 hours in which to modify the reservation with no penalties or fees. After that point, guests who wish to modify their reservation are subject to the following change fees:   
+          
+        * $25 if reservation is modified 8 or more days from arrival
+        * $50 if reservation is modified less than 8 days from arrival
+        * Great Wolf Lodge, Niagara Falls does not charge change fees  
+              
+            After applying the change fee, we can place the remaining balance on a deposit hold for up to 12 months to allow guests additional time to determine a future stay date if a change in their reservation is needed.  
+              
+            
+        * Guests who wish to cancel their stay are subject to the below cancellation fees. 
+            * For reservations at all California locations (Anaheim and San Francisco/Manteca), guests have 24 hours from the creation of the reservation in which to cancel with no penalties or fees, so long as the reservation is canceled 3 or more days from arrival. Otherwise, the following fees apply:
+                * $50 if canceled 8 or more days from arrival
+                * $100 if canceled 3-7 days from arrival, or the cost of a one-night stay if rate is under $100
+                * First night’s deposit if cancellation is received less than 3 days from arrival
+            * For reservations at all other, non-California locations:
+                * $50 if canceled 8 or more days from arrival
+                * $100 if canceled 3-7 days from arrival, or the cost of a one-night stay if rate is under $100
+                * First night’s deposit if cancellation is received less than 3 days from arrival for Great Wolf Lodge US properties, or 50% of the first night’s deposit if cancellation is received less than 3 days from arrival for Great Wolf Lodge, Niagara Falls
     
-    After applying the change fee, we can place the remaining balance on a deposit hold for up to 12 months to allow guests additional time to determine a future stay date if a change in their reservation is needed.
-    
-    \*Great Wolf Lodge, Niagara Falls does not charge change fees
-    
-    Guests who wish to cancel their stay are subject to the following cancellation fees:
-    
-    $50 if canceled 8 or more days from arrival  
-    $100 if canceled 3-7 days from arrival, or the cost of a one-night stay if rate is under $100  
-    First night’s deposit if cancellation is received less than 3 days from arrival for Great Wolf Lodge US properties, or 50% of the first night’s deposit if cancellation is received less than 3 days from arrival for Great Wolf Lodge, Niagara Falls.
-    
-    We recognize some guests booked using a special, one-time discount not transferable to other calendar dates. While we cannot guarantee our ability to match discounts exactly, we are committed to helping you find another available date where we can offer a comparable rate.
+      
+    We recognize some guests booked using a special, one-time discount not transferable to other calendar dates. While we cannot guarantee our ability to match discounts exactly, we are committed to helping you find another available date where we can offer a comparable rate.  
+     
     
     * Check-in time is at 4 p.m. or, in our discretion, as your room becomes available. We require guest checking in to be at least 21 years of age and to present the credit card used at time of booking (in case of incidental charges) and a photo ID upon check-in.  
           
