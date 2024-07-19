@@ -134,7 +134,7 @@ With respect to Software that is made available for your use in connection with 
 * Dutchie and you acknowledge that Dutchie, not Apple, is responsible for addressing any claims of you or any third party relating to the Apple-Enabled Software or your possession and/or use of that Apple-Enabled Software, including, but not limited to: (i) product liability claims; (ii) any claim that the Apple-Enabled Software fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
 * In the event of any third party claim that the Apple-Enabled Software or the end-user’s possession and use of that Apple-Enabled Software infringes that third party’s intellectual property rights, as between Dutchie and Apple, Dutchie, not Apple, will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
 * You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
-* If you have any questions, complaints or claims with respect to the Apple-Enabled Software, they should be directed to Dutchie, at [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection).
+* If you have any questions, complaints or claims with respect to the Apple-Enabled Software, they should be directed to Dutchie, at [support@dutchie.com](mailto:support@dutchie.com).
 
 Dutchie and you acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of these Terms of Service with respect to the Apple-Enabled Software, and that, upon your acceptance of the terms and conditions of these Terms of Service, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms of Service against you with respect to the Apple-Enabled Software as a third party beneficiary thereof.
 
@@ -156,7 +156,7 @@ You acknowledge and agree that Dutchie may preserve content and may also disclos
 
 Copyright Complaints: Dutchie respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Dutchie of your infringement claim in accordance with the procedure set forth below.
 
-Dutchie will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Dutchie’s Copyright Agent at [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection) (Subject line: “DMCA Takedown Request”). You may also contact us by mail at:
+Dutchie will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Dutchie’s Copyright Agent at [support@dutchie.com](mailto:support@dutchie.com) (Subject line: “DMCA Takedown Request”). You may also contact us by mail at:
 
 2728 NW Potts Ct. Ste 100, Bend, OR 97703
 
@@ -234,7 +234,7 @@ IF YOU ARE A USER FROM NEW JERSEY, THE FOREGOING SECTIONS TITLED “DISCLAIMER O
     
 3. Pre-Arbitration Dispute Resolution
     
-    Dutchie is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support at [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection). If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Dutchie should be sent to 2728 NW Potts Ct. Ste 100, Bend, OR 97703 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Dutchie and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Dutchie may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Dutchie or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Dutchie is entitled.
+    Dutchie is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support at [support@dutchie.com](mailto:support@dutchie.com). If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Dutchie should be sent to 2728 NW Potts Ct. Ste 100, Bend, OR 97703 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Dutchie and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Dutchie may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Dutchie or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Dutchie is entitled.
     
 4. Arbitration Procedures
     
@@ -293,13 +293,13 @@ Under California Civil Code Section 1789.3, users of the Service from California
 
 ### Questions? Concerns? Suggestions?
 
-Please contact us at [\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection) to report any violations of these Terms of Service or to pose any questions regarding this Terms of Service or the Service.
+Please contact us at [support@dutchie.com](mailto:support@dutchie.com) to report any violations of these Terms of Service or to pose any questions regarding this Terms of Service or the Service.
 
   
 
 Company
 
-[About](https://dutchie.com/about)[Careers](https://dutchie.com/careers)[Customer Support](https://help.dutchie.com/)[Product Support](https://support.dutchie.com/)[\[email protected\]](https://dutchie.com/cdn-cgi/l/email-protection)
+[About](https://dutchie.com/about)[Careers](https://dutchie.com/careers)[Customer Support](https://help.dutchie.com/)[Product Support](https://support.dutchie.com/)[Press & Media](mailto:press@dutchie.com)
 
 Solutions for Dispensaries
 
