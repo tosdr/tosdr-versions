@@ -37,7 +37,7 @@
             * [Diploma Services](https://www.parchment.com/platform/higher-education/diploma-services/)
             * [Digital Badge Services](https://www.parchment.com/platform/higher-education/issuing/#digital-badges)
             * [Certificate Services](https://www.parchment.com/platform/higher-education/certificate-services/)
-            * [CLR Services](https://www.parchment.com/platform/higher-education/issuing/#clrs)
+            * [CLR Services](https://www.parchment.com/platform/higher-education/clr-services/)
             * [Verification Services](https://www.parchment.com/platform/higher-education/issuing/#verifications)
             * [Closed School Records Services](https://www.parchment.com/platform/higher-education/issuing/#closed-school-records)
             * [Records Digitization](https://www.parchment.com/platform/higher-education/issuing/#records-digitization)
@@ -104,7 +104,7 @@
     *  ![icon](https://www.parchment.com/wp-content/uploads/2023/01/platform6.svg) International
         * [Issuing
             
-            Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/digitary/core/)
+            Streamline issuing with a single platform for every credential you need, from diplomas to digital badges.](https://www.parchment.com/platform/international/)
             * [CORE](https://www.parchment.com/platform/international/digitary/core/)
             * [Digital Badges](https://www.parchment.com/platform/international/digitary/digital-badges/)
         * [Admissions & Enrollment
@@ -136,9 +136,9 @@
         
         [Events & Webinars
         
-        ![2024-InstructureCon-LasVegas](https://www.parchment.com/wp-content/uploads/2024/05/2024-InstructureCon-LasVegas-320x180.jpg)
+        ![WaACRAO-2024](https://www.parchment.com/wp-content/uploads/2024/07/WaACRAO-2024-320x192.jpg)
         
-        InstructureCon 2024](https://www.parchment.com/resources/events-webinars/)
+        2024 WACRAO Conference](https://www.parchment.com/resources/events-webinars/)
         
     *  [![Chat icon](https://www.parchment.com/wp-content/uploads/2023/04/resources3.svg) Podcast](https://www.parchment.com/resources/podcast/)
         
@@ -172,7 +172,7 @@ Menu
 Privacy Policy
 ==============
 
-##### Last Updated: 01/24/2024
+##### Last Updated: 06/24/2024
 
 © 2024 Parchment, an Instructure company (“Parchment”) we take your privacy seriously. We have developed this Privacy Policy to clearly describe how we collect, use, and disclose your personal information as we provide our services and tools on or via this website, [www.parchment.com](https://www.parchment.com/), and its affiliated websites (“the Site”), and in the Parchment applications accessed via the Site, collectively referred to herein as “Services.” The Services include the electronic ordering, fulfillment, and delivery of academic credentials and data, including without limitation, transcripts and related admissions documents, diplomas, test score reports, certificates and certifications (collectively, “Credentials”) and the electronic awarding of Credentials.
 
@@ -533,27 +533,21 @@ Parchment may receive personal information from individuals that visit or Site a
 
 Parchment is based in and operates in the United States.  As a result, we and our service providers will process personal information in the United States and in other locations outside of the European Economic Area, where there may be different data protection standards than in the EEA.  By using the Services, you acknowledge that personal information will be processed in outside of the EEA.
 
-**EU-U.S. Privacy Shield**
-
-Parchment is accountable for personal information that it receives and subsequently transfers to third parties. If third parties that process personal information on our behalf as an authorized agent of Parchment, do so in a manner that does not comply with this Privacy Policy, we are accountable, unless we prove that we are not responsible for the event giving rise to the damage.
-
-Parchment commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding this Policy should first contact us at: privacy@parchment.com.
-
-Parchment commits to cooperate with the panel established by the EU data protection authorities (DPAs) and comply with the advice given by the panel with regard to personal information transferred from the EU. Please contact us to be directed to the relevant DPA contacts.
-
 **Data Privacy Framework**
 
-Parchment complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, as set forth by the U.S. Department of Commerce. Parchment is certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+Parchment complies with the EU-U.S. Data Privacy Framework (“**EU-U.S. DPF**”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“**Swiss-U.S. DPF**”), as set forth by the U.S. Department of Commerce. Parchment is certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (“**EU-U.S. DPF Principles**”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Parchment has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“**Swiss-U.S. DPF Principles**”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (“**DPF**”) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 
-Parchment commits to subject to the DPF Principles all personal data received from the EU, and UK in reliance on the relevant DPF.
+Parchment commits to subject to the EU-U.S. DPF Principles and the Swiss-U.S. DPF Principles (collectively, “**DPF Principles**”) all personal data received from the EU, UK, and Switzerland in reliance on the relevant DPF.
 
-Parchment is accountable for the processing of personal data it receives under the EU-U.S. DPF Principles and subsequently transfers to a third party. Parchment complies with the DPF Principles for all onward transfers of personal data from the EU, and UK, including the onward transfer liability provisions. The Federal Trade Commission has jurisdiction over Parchment’s compliance with the EU-U.S. DPF, UK Extension to the EU-U.S. DPF.
+Parchment is accountable for the processing of personal data it receives under the DPF Principles and subsequently transfers to a third party. Parchment complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions. The Federal Trade Commission has jurisdiction over Parchment’s compliance with the EU-U.S. DPF, UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
 
 Parchment may be required to disclose personal data in response to law requests by public authorities, including to meet national security and law enforcement requirements.
 
-Residents of the EU, and UK have the right to access the personal data that Parchment maintains, and in some cases, have choices to limit the use and disclosure of personal data. These rights are described more fully in the Product Privacy Policy: the Your Rights section of the European Union Region Product Privacy Notice Addendum. To exercise these rights, contact us at privacy@parchment.com.
+Residents of the EU, UK, and Switzerland have the right to access the personal data that Parchment maintains, and in some cases, have choices to limit the use and disclosure of personal data. To the extent required by the EU-U.S. DPF Principles and the Swiss-U.S. DPF Principles, Parchment will offer individuals the opportunity to opt-out when personal data is (a) to be disclosed to certain third parties, or (b) to be used for a purpose that is materially different from the purpose for which it was originally collected or subsequently authorized by the individual. These rights are described more fully in the “Your Rights and Choices” section of this Privacy Policy. To exercise these rights, contact us at [privacy@parchment.com](mailto:privacy@parchment.com).
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Parchment commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Please contact Parchment to be directed to the relevant DPA contacts at: [privacy@parchment.com](mailto:privacy@parchment.com).
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Parchment commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Parchment as described in the “Contact Us” section above.
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Parchment commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://feedback-form.truste.com/watchdog/request for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. Under certain conditions, more fully described on the [DPF website](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 [Order](https://www.parchment.com/students/order-status/) [Check Status](https://www.parchment.com/u/order/track) [Book a Demo](https://www.parchment.com/book-a-demo/)
 
@@ -605,7 +599,7 @@ Higher Education
 * [Diploma Services](https://www.parchment.com/platform/higher-education/diploma-services/)
 * [Digital Badge Services](https://www.parchment.com/platform/higher-education/issuing/#digital-badges)
 * [Certificate Services](https://www.parchment.com/platform/higher-education/certificate-services/)
-* [CLR Services](https://www.parchment.com/platform/higher-education/issuing/#clrs)
+* [CLR Services](https://www.parchment.com/platform/higher-education/clr-services/)
 * [Verification Services](https://www.parchment.com/platform/higher-education/issuing/#verifications)
 * [Closed School Records Services](https://www.parchment.com/platform/higher-education/issuing/#closed-school-records)
 * [Records Digitization](https://www.parchment.com/platform/higher-education/issuing/#records-digitization)
@@ -704,7 +698,7 @@ Platform
     * [Industries](https://www.parchment.com/platform/workforce/industries/)
 * [Power of the Network](https://www.parchment.com/platform/power-of-the-network/)
 * [ ]  International
-    * [Issuing](https://www.parchment.com/platform/international/digitary/core/)
+    * [Issuing](https://www.parchment.com/platform/international/)
     * [Admissions & Enrollment](https://www.parchment.com/platform/international/digitary/receive/)
     * [Verifications](https://www.parchment.com/platform/international/digitary/via/)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
