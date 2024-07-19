@@ -425,16 +425,16 @@ If you have any questions about the service, please contact us at [mayoclinicsup
 
 [Privacy policy](https://www.mayoclinic.org/about-this-site/privacy-policy)
 
-![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
+![](https://assets.mayoclinic.org/content/dam/media/global/images/2024/04/12/cancer-ribbon.svg)
 
-Your gift holds great power – donate today!
--------------------------------------------
+Double your impact on fighting cancer
+-------------------------------------
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
 
-Make your tax-deductible gift and be part of the cutting-edge research and care that's changing medicine.
+Make a gift before July 31 and it can go twice as far to fight cancer.
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Give Now](https://philanthropy.mayoclinic.org/page.aspx?pid=1830&sourcecode=24R071WC1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devsummerdigitalonly)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
