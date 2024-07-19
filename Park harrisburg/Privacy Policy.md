@@ -21,6 +21,15 @@ Menu
     * [RIVER ST GARAGE](https://parkharrisburg.com/garages-and-lots/river-st-garage/)
     * [SOUTH ST GARAGE](https://parkharrisburg.com/garages-and-lots/south-st-garage/)
     * [WALNUT ST GARAGE](https://parkharrisburg.com/garages-and-lots/walnut-st-garage/)
+* [Rates](https://parkharrisburg.com/rates/)
+    
+    * [Parking Rates](https://parkharrisburg.com/rates/)
+    * [Parking Discounts](https://parkharrisburg.com/parking-discounts/)
+* [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
+    
+    * [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
+    * [Pay Monthly Parking](https://parkcentral.spplus.com/)
+    * [Pre-Tax Programs](https://parkharrisburg.com/pre-tax-programs/)
 * [On Street Meters](https://parkharrisburg.com/on-street-meters/)
     
     * [On Street Meters](https://parkharrisburg.com/on-street-meters/)
@@ -28,15 +37,6 @@ Menu
     * [Free 15 Minute Parking Zones](https://parkharrisburg.com/free-on-street-parking/)
     * [Report a Meter Problem](https://parkharrisburg.com/report-a-meter-problem/)
     * [Park Harrisburg Smart Card](https://parkharrisburg.com/on-street-meters/park-harrisburg-smart-card/)
-* [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
-    
-    * [Monthly Parking](https://parkharrisburg.com/monthly-parking/)
-    * [Pay Monthly Parking](https://parkcentral.spplus.com/)
-    * [Pre-Tax Programs](https://parkharrisburg.com/pre-tax-programs/)
-* [Rates](https://parkharrisburg.com/rates/)
-    
-    * [Parking Rates](https://parkharrisburg.com/rates/)
-    * [Parking Discounts](https://parkharrisburg.com/parking-discounts/)
 * [Violations](https://parkharrisburg.com/violations/)
     
     * [Violations](https://parkharrisburg.com/violations/)
@@ -113,7 +113,7 @@ Menu
 
 @2024 [SP Plus Corporation](https://www.spplus.com/) | [Privacy Policy](https://parkharrisburg.com/privacy-policy/) | [Terms of Use](https://parkharrisburg.com/terms-of-use/) | [California Consumer Privacy Policy Requests](https://ccpa.spplus.com/) | [Automated License Plate Recognition Usage and Privacy Policy](https://parkharrisburg.com/sp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy/)
 
-![](https://parkharrisburg.com/wp-content/uploads/2022/09/copyrightlogo-1.png)
+![](https://parkharrisburg.com/wp-content/uploads/2022/09/spplus-metropolis-footer-white.png)
 
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fparkharrisburg.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F&t=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy "Share on Facebook")
 * [](https://x.com/intent/tweet?text=SP%20Plus%20Automated%20License%20Plate%20Recognition%20%28%22ALPR%22%29%20Usage%20and%20Privacy%20Policy&url=https%3A%2F%2Fparkharrisburg.com%2Fsp-plus-automated-license-plate-recognition-alpr-usage-and-privacy-policy%2F "Share on X")
