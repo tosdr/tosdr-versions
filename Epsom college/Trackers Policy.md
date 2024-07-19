@@ -18,7 +18,7 @@
 * [What’s On](https://www.epsomcollege.org.uk/cookies/menu-id-257)
 
 * [Information for Parents](https://www.epsomcollege.org.uk/information-for-parents/)
-* [Extranet](https://home.epsomcollege.org.uk/)
+* [Parent Portal](https://epsomcollege.parents.isamshosting.cloud/)
 * [Royal Medical Foundation](https://www.royalmedicalfoundation.org/)
 * [Pupil Portal](https://pupilp.epsomcollege.org.uk/)
 * [Epsom College in Malaysia](https://www.epsomcollege.edu.my/)
@@ -51,11 +51,6 @@
     * [Help with Fees](https://www.epsomcollege.org.uk/admissions/help-with-fees/)
     * [Fees](https://www.epsomcollege.org.uk/admissions/fees/)
     * [Scholarships](https://www.epsomcollege.org.uk/admissions/scholarships-awards/)
-        * [Scholarships](https://www.epsomcollege.org.uk/admissions/scholarships-awards/overview/)
-        * [Academic](https://www.epsomcollege.org.uk/admissions/scholarships-awards/academic/)
-        * [Drama](https://www.epsomcollege.org.uk/admissions/scholarships-awards/drama/)
-        * [Music](https://www.epsomcollege.org.uk/admissions/scholarships-awards/music/)
-        * [Sport](https://www.epsomcollege.org.uk/admissions/scholarships-awards/sport/)
     
 
 * [Back](#)
@@ -64,9 +59,6 @@
     * [Year 9 & GCSEs](https://www.epsomcollege.org.uk/learning/year-9-and-gcse/)
     * [Sixth Form](https://www.epsomcollege.org.uk/learning/sixth-form/)
     * [Art & Design](https://www.epsomcollege.org.uk/learning/art-design/)
-        * [Art](https://www.epsomcollege.org.uk/learning/art-design/art/)
-        * [Design & Technology](https://www.epsomcollege.org.uk/learning/art-design/dt/)
-        * [Photography](https://www.epsomcollege.org.uk/learning/art-design/photography/)
     * [Drama](https://www.epsomcollege.org.uk/learning/drama/)
     * [Music](https://www.epsomcollege.org.uk/learning/music/)
     * [Sport](https://www.epsomcollege.org.uk/learning/sport/)
@@ -93,13 +85,6 @@
     * [Service in the Community](https://www.epsomcollege.org.uk/community/service/)
     * [Chapel](https://www.epsomcollege.org.uk/community/chapel/)
     * [Old Epsomians](https://www.epsomcollege.org.uk/community/the-oe-club/)
-        * [History of the OE Club & OE Merchandise](https://www.epsomcollege.org.uk/community/the-oe-club/history-whos-who/)
-        * [Forthcoming events](https://www.epsomcollege.org.uk/community/the-oe-club/oe-forthcoming-events/)
-        * [Past Events & OE News](https://www.epsomcollege.org.uk/community/the-oe-club/oe-news/)
-        * [OE Clubs, Societies & Overseas Chapters](https://www.epsomcollege.org.uk/community/the-oe-club/clubs-chapters-societies/)
-        * [Careers & Mentoring](https://www.epsomcollege.org.uk/community/the-oe-club/careers-mentoring/)
-        * [OE Trust Fund](https://www.epsomcollege.org.uk/community/the-oe-club/trust-fund/)
-        * [Staying Connected](https://www.epsomcollege.org.uk/community/the-oe-club/staying-connected/)
     
 
 * [Back](#)
@@ -109,10 +94,6 @@
     * [Fixtures](https://www.epsomcollege.org.uk/whats-on/fixtures/)
     * [Results](https://www.epsomcollege.org.uk/whats-on/results/)
     * [Conferences](https://www.epsomcollege.org.uk/whats-on/conferences/)
-        * [AI in Education: Cut Through The Noise](https://www.epsomcollege.org.uk/whats-on/conferences/ai-in-education-cut-through-the-noise/)
-        * [AI In Education](https://www.epsomcollege.org.uk/whats-on/conferences/ai-in-education/)
-        * [Character Education](https://www.epsomcollege.org.uk/whats-on/conferences/character-education/)
-        * [Mental Health & Wellbeing Conference](https://www.epsomcollege.org.uk/whats-on/conferences/mental-health-wellbeing-conference/)
     * [Summer Camps](https://www.epsomcollege.org.uk/whats-on/summer-camps/)
     
 
@@ -123,8 +104,6 @@
     * [Legacy Gifts](https://www.epsomcollege.org.uk/support-the-college/legacy-gifts/)
     * [Donating from overseas](https://www.epsomcollege.org.uk/support-the-college/donating-from-overseas/)
     * [The Mermaid](https://www.epsomcollege.org.uk/support-the-college/the-mermaid/)
-        * [Capital Campaign](https://www.epsomcollege.org.uk/support-the-college/the-mermaid/capital-campaign/)
-        * [The Mermaid Build](https://www.epsomcollege.org.uk/support-the-college/the-mermaid/the-mermaid-build/)
     * [The Development Department: Who’s Who](https://www.epsomcollege.org.uk/support-the-college/whos-who/)
     
 
