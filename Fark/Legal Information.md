@@ -220,11 +220,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -324,16 +325,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [23 pairs of twins graduate from same middle school. Mirror Maze to follow at prom](https://www.fark.com/goto/13296562) ( [msn.com](https://www.fark.com/goto/13296562) ) » [(2 comments)](https://www.fark.com/comments/13296562/-23-pairs-of-twins-graduate-from-same-middle-school-Mirror-Maze-to-follow-at-prom) |
-| [Discussion](https://www.fark.com/discussion/) | [And it's all your fault I screen my phone calls. No matter who calls I gotta screen the MSNBC Discussion Thread, live at 7:00 PM ET](https://www.fark.com/goto/13297034) ( [msnbc.com](https://www.fark.com/goto/13297034) ) » [(0 comments)](https://www.fark.com/comments/13297034/And-its-all-your-fault-I-screen-my-phone-calls-No-matter-who-calls-I-gotta-screen-MSNBC-Discussion-Thread-live-at-700-PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Meh: Jeff Fisher goes 8-8 again. Fark: it's AFL teams folded / teams still playing](https://www.fark.com/goto/13296834) ( [timesunion.com](https://www.fark.com/goto/13296834) ) » [(3 comments)](https://www.fark.com/comments/13296834/Meh-Jeff-Fisher-goes-8-8-again-Fark-its-AFL-teams-folded-teams-still-playing) |
-| [Business](https://www.fark.com/business/) | [Today in "I am Jack's complete lack of surprise": IRS warns vast majority of $86 billion in Employee Retention Credit claims are clearly erroneous or have unacceptable risk. How bootstrappy of those business owners](https://www.fark.com/goto/13296098) ( [apnews.com](https://www.fark.com/goto/13296098) ) » [(4 comments)](https://www.fark.com/comments/13296098/Today-in-I-am-Jacks-complete-lack-of-surprise-IRS-warns-vast-majority-of-$86-billion-in-Employee-Retention-Credit-claims-are-clearly-erroneous-have-unacceptable-risk-How-bootstrappy-of-those-business-owners) |
-| [STEM](https://www.fark.com/stem/) | [Gravitational waves carry much, much more energy than almost anyone realizes. Could they themselves possibly create a black hole?](https://www.fark.com/goto/13296538) ( [bigthink.com](https://www.fark.com/goto/13296538) ) » [(6 comments)](https://www.fark.com/comments/13296538/Gravitational-waves-carry-much-much-more-energy-than-almost-anyone-realizes-Could-they-themselves-possibly-create-a-black-hole) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Shatner speaks out - politely - about salmon net fishing](https://www.fark.com/goto/13296886) ( [youtube.com](https://www.fark.com/goto/13296886) ) » [(2 comments)](https://www.fark.com/comments/13296886/Shatner-speaks-out-politely-about-salmon-net-fishing) |
-| [Fandom](https://www.fark.com/fandom/) | [Game developers are clamoring for jobs. Then sauna man, a Polish game designer, offers them a job designing a sauna-related game, including naked sauna sessions, and they decline. Perhaps he spent too much time in the heat](https://www.fark.com/goto/13296902) ( [eurogamer.net](https://www.fark.com/goto/13296902) ) » [(8 comments)](https://www.fark.com/comments/13296902/Game-developers-are-clamoring-for-jobs-Then-sauna-man-a-Polish-game-designer-offers-them-a-job-designing-a-sauna-related-game-including-naked-sauna-sessions-they-decline-Perhaps-he-spent-too-much-time-in-heat) |
-| [D'awww](https://www.fark.com/dawww/) | [Perhaps Diesel should be renamed Diarzan after running away from home in 2019 and only recently been spotted living with a herd of wild elk. The owner has been notified, but they letting him live his best life out on the range](https://www.fark.com/goto/13295626) ( [cnn.com](https://www.fark.com/goto/13295626) ) » [(8 comments)](https://www.fark.com/comments/13295626/Perhaps-Diesel-should-be-renamed-Diarzan-after-running-away-from-home-in-2019-only-recently-been-spotted-living-with-a-herd-of-wild-elk-The-owner-has-been-notified-but-they-letting-him-live-his-best-life-out-on-range) |
-| [Food](https://www.fark.com/food/) | [Shatner speaks out - politely - about salmon net fishing](https://www.fark.com/goto/13296886) ( [youtube.com](https://www.fark.com/goto/13296886) ) » [(2 comments)](https://www.fark.com/comments/13296886/Shatner-speaks-out-politely-about-salmon-net-fishing) |
-| [Politics](https://www.fark.com/politics/) | [GOP to push early and mail-in voting, because when they do it it's fine](https://www.fark.com/goto/13296022) ( [cbsnews.com](https://www.fark.com/goto/13296022) ) » [(3 comments)](https://www.fark.com/comments/13296022/GOP-to-push-early-mail-in-voting-because-when-they-do-it-its-fine) |
+| [Main](https://www.fark.com/) | [After further review, United Airlines apologizes to Terrell Davis after he was accused of assault and taken off of a plane in handcuffs. No word on how the flight attendant who accused him will be penalized for a fake injury](https://www.fark.com/goto/13327130) ( [bbc.com](https://www.fark.com/goto/13327130) ) » [(0 comments)](https://www.fark.com/comments/13327130/After-further-review-United-Airlines-apologizes-to-Terrell-Davis-after-he-was-accused-of-assault-taken-off-of-a-plane-in-handcuffs-No-word-on-how-flight-attendant-who-accused-him-will-be-penalized-for-a-fake-injury) |
+| [Discussion](https://www.fark.com/discussion/) | [Gold teeth, Grey Goose, trippin' in the bathroom, blood stains, ball gowns, trashin' the hotel room, we don't care , we're driving Cadillacs in the MSNBC Discussion Thread, live at 7:00 PM ET](https://www.fark.com/goto/13326806) ( [msnbc.com](https://www.fark.com/goto/13326806) ) » [(378 comments)](https://www.fark.com/comments/13326806/Gold-teeth-Grey-Goose-trippin-in-bathroom-blood-stains-ball-gowns-trashin-hotel-room-we-dont-care-were-driving-Cadillacs-in-MSNBC-Discussion-Thread-live-at-700-PM-ET) |
+| [Sports](https://www.fark.com/sports/) | [The Kansas City Royals ask, "Hot dog, cheeseburger, quesadilla, brisket, fries, and Cracker Jacks? Now that's what I call a taco"](https://www.fark.com/goto/13326760) ( [espn.com](https://www.fark.com/goto/13326760) ) » [(6 comments)](https://www.fark.com/comments/13326760/The-Kansas-City-Royals-ask-Hot-dog-cheeseburger-quesadilla-brisket-fries-Cracker-Jacks-Now-thats-what-I-call-a-taco) |
+| [Business](https://www.fark.com/business/) | [Healthy-fast-food chain goes under as Americans say, "It's just what we asked for but not what we want"](https://www.fark.com/goto/13326876) ( [msn.com](https://www.fark.com/goto/13326876) ) » [(15 comments)](https://www.fark.com/comments/13326876/Healthy-fast-food-chain-goes-under-as-Americans-say-Its-just-what-we-asked-for-but-not-what-we-want) |
+| [STEM](https://www.fark.com/stem/) | [Hello, IT, have you tried turning it off and on again? Asking for the world](https://www.fark.com/goto/13327160) ( [dailymail.co.uk](https://www.fark.com/goto/13327160) ) » [(29 comments)](https://www.fark.com/comments/13327160/Hello-IT-have-you-tried-turning-it-off-on-again-Asking-for-world) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Halo. Goodbye](https://www.fark.com/goto/13326828) ( [variety.com](https://www.fark.com/goto/13326828) ) » [(33 comments)](https://www.fark.com/comments/13326828/Halo-Goodbye) |
+| [Fandom](https://www.fark.com/fandom/) | [The appropriate final lines and fate of \*the\* Batman and \*the\* Joker. Tag is for the good kind of Sad. Obvious Spoilers](https://www.fark.com/goto/13327056) ( [youtube.com](https://www.fark.com/goto/13327056) ) » [(0 comments)](https://www.fark.com/comments/13327056/The-appropriate-final-lines-fate-of-Batman-the-Joker-Tag-is-for-good-kind-of-Sad-Obvious-Spoilers) |
+| [D'awww](https://www.fark.com/dawww/) | [HEY. I wasn't done telling you off](https://www.fark.com/goto/13326924) ( [youtube.com](https://www.fark.com/goto/13326924) ) » [(6 comments)](https://www.fark.com/comments/13326924/HEY-I-wasnt-done-telling-you-off) |
+| [Food](https://www.fark.com/food/) | [When you buy eel ramen, are you eely tasting eel?](https://www.fark.com/goto/13327036) ( [soranews24.com](https://www.fark.com/goto/13327036) ) » [(1 comment)](https://www.fark.com/comments/13327036/When-you-buy-eel-ramen-are-you-eely-tasting-eel) |
+| [Politics](https://www.fark.com/politics/) | [Who invited comrade Tucker to the RNC?](https://www.fark.com/goto/13327050) ( [hollywoodreporter.com](https://www.fark.com/goto/13327050) ) » [(8 comments)](https://www.fark.com/comments/13327050/Who-invited-comrade-Tucker-to-RNC) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -343,7 +344,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Jun 21 2024 18:43:36  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Jul 19 2024 04:42:45  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
