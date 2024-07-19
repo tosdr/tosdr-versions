@@ -527,4 +527,7 @@ Sourcing the best Mac apps and software for over a million users since 1997.
 * [Change privacy settings](#)
 * [RSS Feed](https://feeds.feedburner.com/macupdate/apps)
 
+* [Terms of Use for MacUpdate Notifier](https://www.macupdate.com/macupdate-notifier-terms-of-use)
+* [Privacy Notice for MacUpdate Notifier](https://www.macupdate.com/macupdate-notifier-privacy-notice)
+
 © 1997\-2024 Tekkie OU. All rights reserved.
