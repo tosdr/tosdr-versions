@@ -2,7 +2,7 @@
 
 Students
 
-[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)[Student Scores](https://www.amboss.com/us/usmle/scores)[Group Discounts](https://www.amboss.com/us/group-discounts)
+[AMBOSS for Students](https://www.amboss.com/us/students)[Study Aid](https://www.amboss.com/us/students/study)[Exam Preparation](https://www.amboss.com/us/students/exams)[Clerkships](https://www.amboss.com/us/students/clerkships)
 
 [USMLE](https://www.amboss.com/us/usmle)[Step 1](https://www.amboss.com/us/usmle/step1)[Step 2 CK](https://www.amboss.com/us/usmle/step2)[Self-assessment](https://www.amboss.com/us/usmle/self-assessment)[Score Predictor](https://www.amboss.com/us/usmle/score-predictor)
 
@@ -10,7 +10,7 @@ Students
 
 [Anki](https://www.amboss.com/us/anki)[Anki meets Qbank](https://www.amboss.com/us/anki/qbank)[Crash Course](https://www.amboss.com/us/anki/crash-course)
 
-[Success Stories](https://www.amboss.com/us/reviews)[AnKing](https://www.amboss.com/us/students/reviews/anking)[Osose](https://www.amboss.com/us/students/reviews/osose)
+[Success Stories](https://www.amboss.com/us/reviews)
 
 Clinicians
 
@@ -32,7 +32,15 @@ Platform
 
 [Free Chrome Extension](https://chromewebstore.google.com/detail/amboss-medical-knowledge/hnlpidgbnmikgkmccephgaljihheckii?hl=en&pli=1)
 
-[Institutions](https://www.amboss.com/us/institutions)[Pricing](https://www.amboss.com/us/pricing)
+Institutions
+
+[Institutional Licenses](https://www.amboss.com/us/institutions)
+
+[Usage Report](https://www.amboss.com/us/institutions/usage-report)
+
+[Step 2 Impact](https://www.amboss.com/us/usmle/scores)
+
+[Pricing](https://www.amboss.com/us/pricing)
 
 [5 days free trial](https://www.amboss.com/us/account/register)[login](https://www.amboss.com/us/account/login)
 
@@ -145,7 +153,7 @@ The hosting as well as the use of a content delivery network are technically nec
 3.3.1 We process inventory data (e.g. names, addresses and other contact data), contract data (e.g. payment information, service used) for the fulfillment of our contractual obligations and services pursuant to Art. 6 (1) lit. b GDPR as well as for the fulfillment of a legal obligation to which we are subject pursuant to Art. 6 (1) lit. c GDPR in connection with commercial, trade or tax law, insofar as we are obliged to record and store your data.  
 ‍
 
-3.3.2 In order to be able to use our offer to the full extent, registration is required. As part of setting up a corresponding user account, you must provide a password in addition to your e-mail address. This information is used for login and secure identification on our site. If the registration and/or login takes place via a single sign-on procedure (SSO) of an institution (e.g. university or clinic), we will forward you to the respective website of the institution for the purpose of logging in and will transmit the e-mail address entered by you on our website for this purpose to the institution. After a successful login, information about you, namely your first and last name, affiliation with the institution and e-mail address, will be transmitted to us by the institution for the purpose of identification and processed by us for the provision and use of our offer on the basis of Art. 6 para. 1 lit. b GDPR. This data is linked to the Amboss user account.  
+3.3.2 In order to be able to use our offer to the full extent, registration is required. As part of setting up a corresponding user account, you must provide a password in addition to your e-mail address. This information is used for login and secure identification on our site. If the registration and/or login takes place via a single sign-on procedure (SSO) of an institution (e.g. university or clinic), we will forward you to the respective website of the institution for the purpose of logging in and will transmit the e-mail address entered by you on our website for this purpose to the institution. After a successful login, information about you, namely your first and last name, affiliation with the institution and e-mail address, will be transmitted to us by the institution for the purpose of identification and processed by us for the provision and use of our offer on the basis of Art. 6 para. 1 lit. b GDPR. This data is linked to the AMBOSS user account.  
 ‍
 
 3.3.3 We may also ask you for additional personal data such as first and last name, intended specialty, university, address or gender, e.g. as part of a survey or within your user account. Unless this information is necessary to provide our services, it is always voluntary. We use this information on the basis of Art. 6 para. 1 lit. f GDPR to tailor our services to you.  
@@ -191,28 +199,36 @@ For questions of any kind, we offer you the possibility to contact us via a prov
 3.6.3 If you (partially) activate your profile for the AMBOSS network and can thus be found by other users under the released data, we will inform you by e-mail or via the user account in case of a contact request by another user.  
 ‍
 
-3.7 Comments and contributions  
+3.7 AMBOSS Score Predictor
+
+‍
+
+The AMBOSS Score Predictor gives you the option of submitting your practice exam scores to us so that we can provide you with your expected USMLE score. The release of your practice exam scores and other related personal data is always on a voluntary basis. We use this data to predict your USMLE score. We may also use this data to improve our score prediction algorithm. In both cases, the legal basis for the processing is our legitimate interest of providing you the score prediction service according to Art. 6 para. 1 lit. f GDPR.
+
+‍
+
+3.8 Comments and contributions  
 ‍
 
 When users enter comments or other contributions, their IP addresses are stored on the basis of our legitimate interests according to Art. 6 (1) lit. f GDPR. This is done for our security, in case someone posts illegal content.  
 ‍
 
-3.8 Consent Management  
+3.9 Consent Management  
 ‍
 
-3.8.1 We use cookies on our site. Cookies are pieces of information that are transmitted from our web server or third-party web servers to users’ web browsers, where they are stored for later retrieval. Cookies may be small files or other types of information storage. In addition, we use comparable storage and access technologies, such as local storage and web beacons, among others (hereinafter collectively referred to as “cookies”).  
+3.9.1 We use cookies on our site. Cookies are pieces of information that are transmitted from our web server or third-party web servers to users’ web browsers, where they are stored for later retrieval. Cookies may be small files or other types of information storage. In addition, we use comparable storage and access technologies, such as local storage and web beacons, among others (hereinafter collectively referred to as “cookies”).  
 ‍
 
-3.8.2 The use of cookies serves the purpose to make the use of our offer attractive for you. We use so-called session cookies to recognize that you have already visited individual pages of our website/apps. These are automatically deleted after you leave our website/app. In addition, to optimize user-friendliness, we use temporary cookies that are stored on your end device for a certain specified period of time. If you visit our website/apps again to use our services, it is automatically recognized that you have already been with us and which entries and settings you have made so that you do not have to enter them again.  
+3.9.2 The use of cookies serves the purpose to make the use of our offer attractive for you. We use so-called session cookies to recognize that you have already visited individual pages of our website/apps. These are automatically deleted after you leave our website/app. In addition, to optimize user-friendliness, we use temporary cookies that are stored on your end device for a certain specified period of time. If you visit our website/apps again to use our services, it is automatically recognized that you have already been with us and which entries and settings you have made so that you do not have to enter them again.  
 ‍
 
-3.8.3 We offer you the option to decide for yourself which cookies you would like to allow. The privacy settings feature ensures that only technically necessary cookies are set when you first visit the website/app. In the cookie banner, you can then either allow the use of cookies that require consent, reject them or call up the advanced cookie settings. In the cookie settings, you can select which cookies you want to allow. It is not possible to block the technically necessary cookies, these are always set. Other cookies are only set when you click on “Accept all” in the cookie banner or activate them in the cookie settings.  
+3.9.3 We offer you the option to decide for yourself which cookies you would like to allow. The privacy settings feature ensures that only technically necessary cookies are set when you first visit the website/app. In the cookie banner, you can then either allow the use of cookies that require consent, reject them or call up the advanced cookie settings. In the cookie settings, you can select which cookies you want to allow. It is not possible to block the technically necessary cookies, these are always set. Other cookies are only set when you click on “Accept all” in the cookie banner or activate them in the cookie settings.  
 ‍
 
-3.8.4 We process your personal data for cookie management of our website/apps to fulfill a legal obligation to which we are subject as the controller pursuant to Art. 6 (1) lit. c GDPR. There is a legal obligation to obtain and document your consent to access your terminal device and to process data based on this consent.  
+3.9.4 We process your personal data for cookie management of our website/apps to fulfill a legal obligation to which we are subject as the controller pursuant to Art. 6 (1) lit. c GDPR. There is a legal obligation to obtain and document your consent to access your terminal device and to process data based on this consent.  
 ‍
 
-3.8.5 Insofar as the processing of information on your terminal device is absolutely necessary to enable the use of our website or apps expressly requested by you, the storage or access is carried out on the basis of Section 25 (2) No. 2 TTDSG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementation regulation for Article 5 (3) Sentence 1 of the ePrivacy Directive (2002/58/EC, amended by 2009/136/EC). Any further processing of information on your terminal device will be based on your consent in accordance with Section 25 (1) of the TTDSG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementing provision for Article 5 (3) sentence 2 of the ePrivacy Directive (2002/58/EC, as amended by 2009/136/EC). The aforementioned legal bases of the GDPR then apply to the further processing of the personal data obtained through this. Companies located in third countries are also involved in the processing of your data in accordance with section 2.4. Insofar as companies located in the EU or companies located in third countries are also involved in the provision of services in the case of data hosted in the EU, this will also take place in accordance with section 2.4. You can revoke your consent in the data protection settings in the footer of this website at any time. The revocation does not affect the lawfulness of the processing until the revocation.
+3.9.5 Insofar as the processing of information on your terminal device is absolutely necessary to enable the use of our website or apps expressly requested by you, the storage or access is carried out on the basis of Section 25 (2) No. 2 TDDDG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementation regulation for Article 5 (3) Sentence 1 of the ePrivacy Directive (2002/58/EC, amended by 2009/136/EC). Any further processing of information on your terminal device will be based on your consent in accordance with Section 25 (1) of the TDDDG (New German Telecommunications-Telemedia Data Protection Act) or the corresponding European Union member state implementing provision for Article 5 (3) sentence 2 of the ePrivacy Directive (2002/58/EC, as amended by 2009/136/EC). The aforementioned legal bases of the GDPR then apply to the further processing of the personal data obtained through this. Companies located in third countries are also involved in the processing of your data in accordance with section 2.4. Insofar as companies located in the EU or companies located in third countries are also involved in the provision of services in the case of data hosted in the EU, this will also take place in accordance with section 2.4. You can revoke your consent in the data protection settings in the footer of this website at any time. The revocation does not affect the lawfulness of the processing until the revocation.
 
 ‍
 
@@ -298,8 +314,6 @@ Further information can be found in the provider's privacy policy at https://clo
 
 ‍
 
-‍
-
 **Datadog**
 
 On our website, we use the service Datadog of the company of the same name Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018, USA.
@@ -353,7 +367,21 @@ Further information is available in the Provider’s privacy policy at https://w
 
 We use the podcast hosting service Podigee of the provider Podigee GmbH, Schlesische Straße 20, 10997 Berlin, Germany. The podcasts are thereby loaded by Podigee or transmitted via Podigee. Podigee processes IP addresses and device information to enable podcast downloads/playbacks and to determine statistical data, such as retrieval figures. This data is anonymized or pseudonymized before being stored in Podigee’s database, unless it is necessary for the provision of the podcasts.
 
-Further information is available in the provider’s privacy policy at https://www.podigee.com/en/about/privacy.  
+Further information is available in the provider’s privacy policy at https://www.podigee.com/en/about/privacy.
+
+‍
+
+**ProductFruits**
+
+We use ProductFruits from the company Product Fruits s.r.o., Rozdělovská 1999/7, Břevnov, 169 00 Praha 6, Czech Republic.
+
+The legal basis for the processing is Art. 6 para. 1 s. 1 lit. f GDPR. Users cannot use the platform reliably without this functionality.
+
+The provider processes user data (email address, full name and role) on servers in the EU.
+
+We use ProductFruits as an onboarding  service which supports the onboarding  journey with platform tours, tooltips and checklists.
+
+Further information can be found in the provider's privacy policy at https://productfruits.com/policies/privacy.  
 ‍
 
 **Segment**
@@ -727,7 +755,7 @@ We reserve the right to change this privacy policy from time to time to reflect 
 
 AMBOSS
 
-[For Medical Students](https://www.amboss.com/us/students)[For Clinicians](https://www.amboss.com/us/clinicians)[For Institutions](https://www.amboss.com/us/institutions)[Platform Tour](https://www.amboss.com/us/tour)[Pricing](https://www.amboss.com/us/pricing)
+[For Medical Students](https://www.amboss.com/us/students)[For Clinicians](https://www.amboss.com/us/clinicians)[For Institutions](https://www.amboss.com/us/institutions)[Group Discounts](https://www.amboss.com/us/group-discounts)[Platform Tour](https://www.amboss.com/us/tour)[Pricing](https://www.amboss.com/us/pricing)
 
 Company
 
