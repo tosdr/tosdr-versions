@@ -8,7 +8,7 @@ Open menu
 
 \[gb\] English <-> \[de\] German \[gb\] English ---> \[de\] German \[de\] German ---> \[gb\] English \[gb\] English <-> \[fr\] French \[gb\] English <-> \[es\] Spanish \[gb\] English <-> \[pt\] Portuguese \[gb\] English <-> \[it\] Italian \[gb\] English <-> \[ru\] Russian \[gb\] English <-> \[jp\] Japanese \[gb\] English <-> \[cn\] Chinese \[gb\] English <-> \[pl\] Polish \[gb\] English <-> \[nl\] Dutch \[gb\] English <-> \[se\] Swedish \[gb\] English <-> \[dk\] Danish \[gb\] English <-> \[fi\] Finnish \[gb\] English <-> \[gr\] Greek \[gb\] English <-> \[cz\] Czech \[gb\] English <-> \[ro\] Romanian \[gb\] English <-> \[hu\] Hungarian \[gb\] English <-> \[sk\] Slovak \[gb\] English <-> \[bg\] Bulgarian \[gb\] English <-> \[si\] Slovene \[gb\] English <-> \[lt\] Lithuanian \[gb\] English <-> \[lv\] Latvian \[gb\] English <-> \[ee\] Estonian \[gb\] English <-> \[mt\] Maltese More languages
 
-[ä](javascript:addLetter('%C3%A4');)[ö](javascript:addLetter('%C3%B6');)[ü](javascript:addLetter('%C3%BC');)[ß](javascript:addLetter('%C3%9F');)
+[ä](javascript:addLetter('%C3%A4');)[ß](javascript:addLetter('%C3%9F');)[ü](javascript:addLetter('%C3%BC');)[ö](javascript:addLetter('%C3%B6');)
 
 EN
 
