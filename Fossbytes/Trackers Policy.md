@@ -63,6 +63,8 @@ Hopefully that has clarified things for you and as was previously mentioned if t
 * [Jobs](https://fossbytes.com/jobs/)
 * [Privacy Policy](https://fossbytes.com/privacy-policy/)
 * [Cookie Policy](https://fossbytes.com/cookie-policy-for-fossbytes/)
+* [Editorial Policy](https://fossbytes.com/editorial-policy/)
+* [Terms of Service](https://fossbytes.com/terms-of-service/)
 
 © 2024 [Fossbytes Media](https://fossbytes.com/)
 
