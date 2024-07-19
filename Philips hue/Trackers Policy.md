@@ -7,7 +7,7 @@
     * [Philips-hue.com exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
     * [What's new?](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Last chance sale](https://www.philips-hue.com/en-us/products/promotions/last-chance-sale)
-    * [Create your own starter kit](https://www.philips-hue.com/en-us/products/promotions/create-your-own-starter-kit)
+    * [Summer Sale](https://www.philips-hue.com/en-us/products/promotions/us)
     * [Go to shop](https://www.philips-hue.com/en-us/products)
     
     Popular
@@ -91,83 +91,62 @@
 Cookies Notice
 ==============
 
+**Last updated June 2024** [see previous versions](https://www.philips-hue.com/en-us/support/legal/cookie-notice#prev_versions)
+
+[Download](https://www.assets.signify.com/is/content/Signify/Assets/hue/united-states/20240619-cookie-notice-hue-june-2024-en-us.pdf "Download")
+
 We aim to make your online experience and interaction with us as informative, relevant, and supportive as possible. One way of achieving this is to use cookies or similar technologies. We use these technologies in our websites, electronic communications, and mobile applications.
 
-Please note that this Cookie Notice supplements the applicable [Privacy Notice](https://www.signify.com/privacynotice). We protect your personal data in line with our [Binding Corporate Rules (“Signify Privacy Rules”)](https://www.signify.com/global/legal/privacy/legal-information).
+Please note that this Cookie Notice supplements the applicable [Privacy Notice](https://www.philips-hue.com/en-us/support/legal/privacy-policy). We protect your personal data in line with our [Binding Corporate Rules (“Signify Privacy Rules”)](https://www.signify.com/global/legal/privacy/legal-information).  
+ 
 
-1. [What technologies do we use?](#more_information_about_cookies)
-2. [What are these technologies used for?](#cookie_transparency_table)
-3. [What are your choices and how to exercise them?](#cookies_from_third_parties)
-4. [Browser Controls](#browser_controls)
-5. [Updates to this Notice](#updates_to_this_notice)
-6. [Contact us](#contact_us)
+1. [What technologies do we use?](https://www.philips-hue.com/en-us/support/legal/cookie-notice?wcmmode=disabled#more_information_about_cookies)
 
-**What technologies do we use?**  
+2. [What are these technologies used for?](https://www.philips-hue.com/en-us/support/legal/cookie-notice#cookie_transparency_table)
 
------------------------------------
+3. [What are your choices and how to exercise them?](https://www.philips-hue.com/en-us/support/legal/cookie-notice#cookies_from_third_parties)
 
-  
+4. [Browser Controls](https://www.philips-hue.com/en-us/support/legal/cookie-notice#browser_controls)  
 
- 
+5. [Updates to this Notice](https://www.philips-hue.com/en-us/support/legal/cookie-notice#updates_to_this_notice)
 
-**Type of technology**
+6. [Contact us](https://www.philips-hue.com/en-us/support/legal/cookie-notice#contact_us)
 
-**Cookies**
+What technologies do we use?
+============================
 
-**Description**
-
-A cookie is a small file placed onto your device which enables certain features and functionalities.
-
-* Cookies can be divided into two categories depending on how long they remain active:
-
- 
+| Type of technology | Description |     |
+| --- | --- |
+| Cookies | A cookie is a small file placed onto your device which enables certain features and functionalities.<br><br>*  Cookies can be divided into two categories depending on how long they remain active: |     |
 | **Session Cookies** | These are temporary cookies that are deleted when your web browser is closed. |
-| --- | --- |
 | **Persistent Cookies** | These are cookies which remain on your device for a set period. |
-
-* Cookies can be divided into two categories depending on which websites are loading them:
-
- 
+| *    Cookies can be divided into two categories depending on which websites are loading them: |     |
 | **First-party cookies** | These are cookies set through the domain you are visiting. |
-| --- | --- |
 | **Third-party cookies** | These are cookies set by a different domain than the one you are visiting. |
+| Pixels / Web beacons | A pixel is a tiny image included in web pages and emails. To download this image, your device needs to request it from a webserver. When your device requests it, certain information is shared, including your device’s IP Address, browser information, and a timestamp.<br><br>We use pixels to learn more about your interactions with email content or web content, such as whether you interact with ads or posts. |     |
+| Local storage | Local storage enables a website or application to store information locally on your device(s). Local storage may be used to improve the user’s experience, for example, by enabling features, remembering your preferences, and speeding up load times. |     |
+| Other similar technologies | We also use other tracking technologies, such as mobile tags for similar purposes as described in this notice. |     |
 
-**Pixels / Web beacons**
+Please check the cookie transparency table below for further information about the concrete technologies used. This list is updated from time to time.
 
-A pixel is a tiny image included in web pages and emails. To download this image, your device needs to request it from a webserver. When your device requests it, certain information is shared, including your device’s IP Address, browser information, and a timestamp.
+[Cookie Transparency Table](https://www.philips-hue.com/content/hue/us/en/support/legal/cookie-notice/transparency-table).
 
-We use pixels to learn more about your interactions with email content or web content, such as whether you interact with ads or posts.
+[Top of page](https://www.philips-hue.com/en-us/support/legal/cookie-notice#top_of_page)
 
-**Local storage**
+What are these technologies used for?
+=====================================
 
-Local storage enables a website or application to store information locally on your device(s). Local storage may be used to improve the user’s experience, for example, by enabling features, remembering your preferences, and speeding up load times.
-
-**Other similar technologies**
-
-We also use other tracking technologies, such as mobile tags for similar purposes as described in this notice.
-
-The technologies used depend on the domain you are visiting. Please check the cookie transparency tables below for further information about the concrete technologies used per domain. The lists are updated from time to time.
-
-[Cookie Transparency Table](https://www.signify.com/en-us/cookies-notice/transparency-table "Cookie Transparency Table")
-
-[Top of page](#top_of_page "Top of page")
-
-**What are these technologies used for?**  
-
---------------------------------------------
-
-  
-
- 
-| **Purpose**<br><br>**Strictly Necessary or Required** | **Description**<br><br>These technologies are strictly necessary for security purposes (including authentication), for the transmission of communication over an electronic communications network, or to provide an “information society service” (e.g., a service over the internet or via an app). We will automatically use these technologies.<br><br>These technologies are necessary, for example, to add products to a shopping cart, for security and authentication purposes, or to ensure that the content of a page loads quickly.<br><br>You cannot opt out as they are strictly necessary for the provision of the service. |
+| Purpose | Description |
 | --- | --- |
-| **Social Media** | These technologies allow you to connect to your social network and read reviews.<br><br>Where necessary, we will ask for your consent before using these technologies. |
-| **Analytics and research** | These technologies allow us to learn more about how you use and navigate through our services. We use this information to improve and research products, features, and relevant services by understanding amongst others how long a visitor stays on our website, what pages are most useful, how you arrived at our websites, etc.<br><br>As an example, when you visit or use our websites or use our mobile applications we may register your browser type, operating system, referring website, web-browsing behaviour, app behaviour, and whether and how you interact with the content available on our websites and within our apps.<br><br>Where necessary, we will ask for your consent before using these technologies. |
-| **Targeted Advertising** | These technologies help us show relevant advertising to you more effectively, both on and off our services and to measure the performance of such ads. We use these technologies to learn whether content has been shown to you or whether someone who was presented with an ad later came back and took an action on another site. Similarly, our partners or service providers may use these technologies to determine whether we've shown an ad or a post and how it performed or provide us with information about how you interact with ads.<br><br>Where necessary, we will ask for your consent before using these technologies. |
+| Strictly Necessary or Required | These technologies are strictly necessary for security purposes (including authentication), for the transmission of communication over an electronic communications network, or to provide an “information society service” (e.g., a service over the internet or via an app). We will automatically use these technologies.<br><br>These technologies are necessary, for example, to add products to a shopping cart, for security and authentication purposes, or to ensure that the content of a page loads quickly.  <br><br>You cannot opt out as they are strictly necessary for the provision of the service. |
+| Social Media | These technologies allow you to connect to your social network and read reviews.<br><br>Where necessary, we will ask for your consent before using these technologies. |
+| Analytics and research | These technologies allow us to learn more about how you use and navigate through our services. We use this information to improve and research products, features, and relevant services by understanding amongst others how long a visitor stays on our website, what pages are most useful, how you arrived at our websites, etc.<br><br>As an example, when you visit or use our websites or use our mobile applications we may register your browser type, operating system, referring website, web-browsing behaviour, app behaviour, and whether and how you interact with the content available on our websites and within our apps.<br><br>Where necessary, we will ask for your consent before using these technologies. |
+| Targeted Advertising | These technologies help us show relevant advertising to you more effectively, both on and off our services and to measure the performance of such ads. We use these technologies to learn whether content has been shown to you or whether someone who was presented with an ad later came back and took an action on another site. Similarly, our partners or service providers may use these technologies to determine whether we've shown an ad or a post and how it performed or provide us with information about how you interact with ads.<br><br>Where necessary, we will ask for your consent before using these technologies. |
 
-[Top of page](#top_of_page "Top of page")
+[Top of page](https://www.philips-hue.com/en-us/support/legal/cookie-notice#top_of_page)  
 
-### **What are your choices and how to exercise them?**  
+What are your choices and how to exercise them?
+===============================================
 
 Where necessary, we will ask for your consent to store cookies or make use of similar technologies.
 
@@ -175,37 +154,40 @@ To make changes to your cookie settings, please click on the “Cookie Preferenc
 
 Do you want to change your cookie settings? Please note that once placed, cookies and similar technologies that are locally present in your computer cannot be fully removed via changes on the cookie banner. To delete these cookies or similar tracking technologies, you will need to use your device’s browser controls (see the section below).
 
-[Top of page](#top_of_page "Top of page")
+[Top of page](https://www.philips-hue.com/en-us/support/legal/cookie-notice#top_of_page)  
 
-**Browser Controls**  
-
------------------------
+Browser Controls
+================
 
 Most browsers allow you to control cookies through their settings, which may be adapted to reflect your preferences around the use of cookies. Most browsers also enable you to review and erase cookies. Please consult the documentation provided by your browser. Additionally, our mobile applications might provide you with ways to control any similar technology that is used.  
 
-[Top of page](#top_of_page "Top of page")
+[Top of page](https://www.philips-hue.com/en-us/support/legal/cookie-notice#top_of_page)  
 
-**Updates to this notice**  
+Updates to this notice
+======================
 
------------------------------
+We may update this cookie notice from time to time, for example, because the technologies or the rules regulating cookies change. We reserve the right to change the content of this cookie notice and the cookies listed at any time without prior notice, where the new cookie notice is effective after placement. If you do not agree with the amended cookie notice, you should change your preferences or consider discontinuing the use of our services. By continuing to access or use our services after the changes take effect, you agree to the revised cookie notice. The latest version can be found on this webpage.
 
-  
-We may update this cookie notice from time to time, for example, because the technologies or the rules regulating cookies change. We reserve the right to change the content of this cookie notice and the cookies listed at any time without prior notice, where the new cookie notice is effective after placement. If you do not agree with the amended cookie notice, you should change your preferences or consider discontinuing the use of our services. By continuing to access or use our services after the changes take effect, you agree to the revised cookie notice. The latest version can be found on this webpage.
+[Top of page](https://www.philips-hue.com/en-us/support/legal/cookie-notice#top_of_page)  
 
-[Top of page](#top_of_page "Top of page")
-
-**Contact us**  
-
------------------
+Contact us
+==========
 
 For any questions related to the protection of your personal data by us or regarding this notice in general, you can contact the Signify Privacy Office:
 
-* ****Mail: Signify - Attn: Privacy Office – Basisweg 10, 1043 AP Amsterdam, the Netherlands; or****
-* ****Online: [Signify Privacy Center](https://www.signify.com/global/legal/privacy/privacy-request), “Privacy request” section.****
+* Mail: Signify - Attn: Privacy Office – Basisweg 10, 1043 AP Amsterdam, the Netherlands; or
+* Online: [Signify Privacy Centre](https://www.signify.com/global/legal/privacy/privacy-request), “Privacy request” section.
 
 Please keep in mind that certain communication channels are not always secure. Therefore, please do not include sensitive information in your communications to us.
 
-[Top of page](#top_of_page "Top of page")
+[Top of page](https://www.philips-hue.com/en-us/support/legal/cookie-notice#top_of_page)  
+
+Terms of Use version history
+----------------------------
+
+|     |     |
+| --- | --- |
+| January 2019 | [View >](https://www.assets.signify.com/is/content/Signify/Assets/hue/united-states/20240205-philips-hue-cookie-notice_en-us-january-2019.pdf) |
 
 _\*When a bulb displays "Up to" a certain number of lumens in its specifications, it displays the maximum lumen output of the bulb. It shows how bright the bulb can get at 2700 K (White bulbs) or 4000 K (White ambiance or White and color ambiance bulbs). [Learn more about brightness](https://www.philips-hue.com/en-us/products/smart-light-bulbs/how-bright-are-hue-bulbs)._ 
 
