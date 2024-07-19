@@ -1,6 +1,6 @@
 [](javascript:void(0);)
 
-[![Navy SEAL Museum SHIP Store](https://cdn11.bigcommerce.com/s-czgbro7ki0/images/stencil/original/navysealmuseum.org-logo-main_1502475694__22947.original.png "Navy SEAL Museum SHIP Store")](https://shop.navysealmuseum.org/)
+[![Navy SEAL Museum SHIP Store](https://cdn11.bigcommerce.com/s-czgbro7ki0/images/stencil/original/nsmfl-logo-gold-01_1721155353__14977.original.png "Navy SEAL Museum SHIP Store")](https://shop.navysealmuseum.org/)
 
 * [Accessories](https://shop.navysealmuseum.org/accessories/)
     * [Jewelry](https://shop.navysealmuseum.org/accessories/jewelry/)
