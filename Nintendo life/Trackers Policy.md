@@ -1,5 +1,5 @@
-* [Menu](https://www.nintendolife.com/)
-* [Search](https://www.nintendolife.com/search)
+* [Menu](https://www.nintendolife.com/ "Topics")
+* [Search](https://www.nintendolife.com/search "Search")
 
 * [Share](https://www.nintendolife.com/share "Share This Page")
     * [](# "Share this page on WhatsApp")
@@ -8,14 +8,14 @@
     * [](# "Share this page on Twitter")
     * [](# "Share this page on Skype")
     * [](# "Share this page on reddit")
-* [![Guest](https://static.nintendolife.com/themes/nl.v10/images/avatar.jpg)](https://www.nintendolife.com/login)
+* [Guest](https://www.nintendolife.com/login)
     
     Guest
     
-    [Login](https://www.nintendolife.com/login) or [Sign Up](https://www.nintendolife.com/register)
+    [Login](https://www.nintendolife.com/login) | [Sign Up](https://www.nintendolife.com/register)
     
 
-[![Nintendo Life](https://images.nintendolife.com/site/logo.svg?colour=e60012)](https://www.nintendolife.com/)
+[Nintendo Life](https://www.nintendolife.com/)
 
 Keywords  
 
@@ -85,10 +85,10 @@ _Last Updated: Mon 3rd Apr 2023 11:25_
 
 Follow Nintendo Life
 
-* [769k Subscribers](https://www.youtube.com/nintendolife?sub_confirmation=1)
-* [296.4k Followers](https://twitter.com/nintendolife)
+* [772k Subscribers](https://www.youtube.com/nintendolife?sub_confirmation=1)
+* [296.1k Followers](https://twitter.com/nintendolife)
 * [264k Followers](https://www.instagram.com/nintendolife/)
-* [119.1k Fans](https://www.facebook.com/nintendolife)
+* [119k Fans](https://www.facebook.com/nintendolife)
 
 * [A](https://www.nintendolife.com/letter/a)
 * [B](https://www.nintendolife.com/letter/b)
@@ -133,70 +133,22 @@ Follow Nintendo Life
 
 Popular Right Now
 
-* ![Every Nintendo Switch Online Game Boy Advance (GBA) Game Ranked](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Every Nintendo Switch Online Game Boy Advance (GBA) Game Ranked](https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-advance-gba-game-ranked)
-    
-    1d ago
-* ![Switch Online's "Mature" Nintendo 64 App Is Now Available In The West](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Switch Online's "Mature" Nintendo 64 App Is Now Available In The West](https://www.nintendolife.com/news/2024/06/switch-onlines-mature-nintendo-64-app-is-now-available-in-the-west)
-    
-    1d ago
-* ![Luigi's Mansion 2 HD Pre-Orders Are Now Being Cancelled (US)](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Luigi's Mansion 2 HD Pre-Orders Are Now Being Cancelled (US)](https://www.nintendolife.com/news/2024/06/luigis-mansion-2-hd-pre-orders-are-now-being-cancelled-us)
-    
-    12h ago
-* ![Luigi’s Mansion 2 HD: Best Pre-Order Deals And Bonuses](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Luigi’s Mansion 2 HD: Best Pre-Order Deals And Bonuses](https://www.nintendolife.com/guides/luigirs-mansion-2-hd-best-pre-order-deals-and-bonuses)
-    
-    5h ago
-* ![No, The Metroid Prime 4: Beyond Trailer Was Not Running On 'Switch 2'](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [No, The Metroid Prime 4: Beyond Trailer Was Not Running On 'Switch 2'](https://www.nintendolife.com/news/2024/06/no-the-metroid-prime-4-beyond-trailer-was-not-running-on-switch-2)
-    
-    3h ago
-* ![Feature: 25 Things You Might Have Missed In The Zelda: Echoes Of Wisdom Reveal Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Feature: 25 Things You Might Have Missed In The Zelda: Echoes Of Wisdom Reveal Trailer](https://www.nintendolife.com/features/25-things-you-might-have-missed-in-the-zelda-echoes-of-wisdom-reveal-trailer)
-    
-    19h ago
-* ![Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Best Star Wars Video Games, Ranked - Switch And Nintendo Systems](https://www.nintendolife.com/guides/best-star-wars-video-games-ranked-switch-and-nintendo-systems)
-    
-    Sun 9th Jun 2024
-* ![First Pre-Orders Appear For Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [First Pre-Orders Appear For Zelda: Echoes Of Wisdom And Hyrule Edition Switch Lite](https://www.nintendolife.com/news/2024/06/first-pre-orders-appear-for-zelda-echoes-of-wisdom-and-hyrule-edition-switch-lite)
-    
-    1d ago
-* ![Talking Point: What We Expect From The Upcoming June Nintendo Direct](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Talking Point: What We Expect From The Upcoming June Nintendo Direct](https://www.nintendolife.com/features/talking-point-what-we-expect-from-the-upcoming-june-nintendo-direct)
-    
-    3d ago
-* ![Review: Dicefolk (Switch) - An Incredibly Fresh-Feeling, Monster-Catching Roguelite](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Review: Dicefolk (Switch) - An Incredibly Fresh-Feeling, Monster-Catching Roguelite](https://www.nintendolife.com/reviews/switch-eshop/dicefolk)
-    
-    1h ago
-* ![Nintendo Direct June 2024: Time, Where To Watch, What To Expect](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Nintendo Direct June 2024: Time, Where To Watch, What To Expect](https://www.nintendolife.com/news/2024/06/nintendo-direct-june-2024-time-where-to-watch-what-to-expect)
-    
-    2d ago
-* ![Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMzAgMTAwIj48L3N2Zz4=)
-    
-    [Nintendo Direct June 2024: Every Announcement, Game Reveal, Trailer](https://www.nintendolife.com/guides/nintendo-direct-june-2024-every-announcement-game-reveal-trailer)
-    
-    2d ago
+* [![Best Nintendo Switch Flight Sim And Space Combat Games](https://images.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games/130x100.jpg)Best Nintendo Switch Flight Sim And Space Combat Games56m ago](https://www.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games)
+* [![Amazon Prime Day 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And More](https://images.nintendolife.com/guides/amazon-prime-day-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more/130x100.jpg)Amazon Prime Day 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And MoreWed, 9am](https://www.nintendolife.com/guides/amazon-prime-day-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more)
+* [![Nintendo Announces Official Switch Joy-Con Charging Stand](https://images.nintendolife.com/news/2024/07/nintendo-announces-official-switch-joy-con-charging-stand/130x100.jpg)Nintendo Announces Official Switch Joy-Con Charging Stand2:30am](https://www.nintendolife.com/news/2024/07/nintendo-announces-official-switch-joy-con-charging-stand)
+* [![Best Nintendo Switch Football Games](https://images.nintendolife.com/guides/best-nintendo-switch-football-games/130x100.jpg)Best Nintendo Switch Football GamesThu 11th Jul 2024](https://www.nintendolife.com/guides/best-nintendo-switch-football-games)
+* [![Switch Online NES Controller Limited-Time Sale Now Live (North America)](https://images.nintendolife.com/news/2024/07/switch-online-nes-controller-limited-time-sale-now-live-north-america/130x100.jpg)Switch Online NES Controller Limited-Time Sale Now Live (North America)4:30am](https://www.nintendolife.com/news/2024/07/switch-online-nes-controller-limited-time-sale-now-live-north-america)
+* [![Surprise! New Splatoon 3 amiibo Are On The Way](https://images.nintendolife.com/news/2024/07/surprise-new-splatoon-3-amiibo-are-on-the-way/130x100.jpg)Surprise! New Splatoon 3 amiibo Are On The Way6:14am](https://www.nintendolife.com/news/2024/07/surprise-new-splatoon-3-amiibo-are-on-the-way)
+* [![Ex Chibi-Robo Devs Announce Spiritual Successor 'koROBO'](https://images.nintendolife.com/news/2024/07/ex-chibi-robo-devs-announce-spiritual-successor-korobo/130x100.jpg)Ex Chibi-Robo Devs Announce Spiritual Successor 'koROBO'8am](https://www.nintendolife.com/news/2024/07/ex-chibi-robo-devs-announce-spiritual-successor-korobo)
+* [![Random: "Let Them Play, First Thing!" - Sakurai Is Tired Of Slow Game Openings](https://images.nintendolife.com/news/2024/07/random-let-them-play-first-thing-sakurai-is-tired-of-slow-game-openings/130x100.jpg)Random: "Let Them Play, First Thing!" - Sakurai Is Tired Of Slow Game Openings4:15pm](https://www.nintendolife.com/news/2024/07/random-let-them-play-first-thing-sakurai-is-tired-of-slow-game-openings)
+* [!['Emio - The Smiling Man: Famicom Detective Club' Launches On Switch Next Month](https://images.nintendolife.com/news/2024/07/emio-the-smiling-man-famicom-detective-club-launches-on-switch-next-month/130x100.jpg)'Emio - The Smiling Man: Famicom Detective Club' Launches On Switch Next MonthWed, 2:30pm](https://www.nintendolife.com/news/2024/07/emio-the-smiling-man-famicom-detective-club-launches-on-switch-next-month)
+* [![Review: Teenage Mutant Ninja Turtles: Splintered Fate (Switch) - Hades In A Half-Shell](https://images.nintendolife.com/reviews/switch-eshop/teenage-mutant-ninja-turtles-splintered-fate/130x100.jpg)Review: Teenage Mutant Ninja Turtles: Splintered Fate (Switch) - Hades In A Half-ShellTue 16th Jul 2024](https://www.nintendolife.com/reviews/switch-eshop/teenage-mutant-ninja-turtles-splintered-fate)
+* [![Inti Creates' New Project Is A Pixel Art Adventure Inspired By Zelda And '90s Anime](https://images.nintendolife.com/news/2024/07/inti-creates-new-project-is-a-pixel-art-adventure-inspired-by-zelda-and-90s-anime/130x100.jpg)Inti Creates' New Project Is A Pixel Art Adventure Inspired By Zelda And '90s Anime4am](https://www.nintendolife.com/news/2024/07/inti-creates-new-project-is-a-pixel-art-adventure-inspired-by-zelda-and-90s-anime)
+* [![Crocs And Pokémon Are Teaming Up Again With Four New Designs](https://images.nintendolife.com/news/2024/07/crocs-and-pokemon-are-teaming-up-again-with-four-new-designs/130x100.jpg)Crocs And Pokémon Are Teaming Up Again With Four New DesignsWed, 12:30pm](https://www.nintendolife.com/news/2024/07/crocs-and-pokemon-are-teaming-up-again-with-four-new-designs)
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,448,511** people following **Nintendo Life**:
+Join **1,451,088** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
@@ -219,7 +171,7 @@ Join **1,448,511** people following **Nintendo Life**:
 * [VG247](https://www.vg247.com/ "Up to the minute news coverage for all formats - VG24/7")
 * [GamesIndustry.biz](https://www.gamesindustry.biz/ "Stay on the pulse with industry news with the #1 resource - GamesIndustry.biz")
 
-All the latest Nintendo goodness straight to your inbox
+All the latest Nintendo goodness straight to your inbox 
 
  
 
