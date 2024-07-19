@@ -1,4 +1,4 @@
-**Enrollment is now open for the 2023-24 school year. [Enroll Now](https://www.connectionsacademy.com/enroll/)**
+**Enrollment is now open for the 2024-25 school year. [Enroll Now](https://www.connectionsacademy.com/enroll/)**
 
 [Skip Navigation](#skip-navigation-target)
 
@@ -226,6 +226,8 @@
         
         Show your Connections Academy pride!](https://www.connectionsacademy.com/support/school-store/)
         
+
+ 
 
 [Login
 -----
