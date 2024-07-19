@@ -74,14 +74,12 @@ For the information about the privacy policy and the opt-out of behavioral targe
 
 * [Google Inc.](https://www.google.com/intl/ja/policies/technologies/ads/)
 * [FreakOut, inc.](https://js.fout.jp/info/privacy.html)
-* [Yahoo Japan Corporation](https://about.yahoo.co.jp/common/terms/chapter1/#cf2nd)
-* [Twitter, Inc.](https://help.twitter.com/ja/rules-and-policies/twitter-cookies)
+* [X Corp.](https://help.x.com/ja/rules-and-policies/x-cookies-japan)
 * [Ninja Tools Inc.](https://corp.ninja.co.jp/isplaw/privacy/)
 * [Adobe Inc.](https://www.adobe.com/jp/privacy/cookies.html)
 * [Criteo](https://www.criteo.com/jp/privacy/)
 * [The Trade Desk, Inc.](https://thetradedesk.com/general/privacy-policy)
 * [Supership Inc.](https://supership.jp/optout/)
-* [ORACLE, Inc.](https://www.oracle.com/jp/legal/privacy/privacy-choices.html)
 * [SMN Corporation](https://www.so-netmedia.jp/cookie/dsp_optout.html)
 * [NewsTV Inc.](https://newstv.co.jp/privacy/)
 * [salesforce.com Co.,Ltd.](https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-consumer-choice/)
@@ -223,7 +221,7 @@ Please [click here](https://intimatemerger.com/r/privacy-inquiry-en) for any inq
 
 **Last updated**
 
-October 3, 2023
+July 16, 2024
 
 運営メディア
 
