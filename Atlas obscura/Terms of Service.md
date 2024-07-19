@@ -1,5 +1,3 @@
-   
-
 [](https://www.atlasobscura.com/)
 
 [Trips](https://www.atlasobscura.com/adventures/) [Experiences](https://www.atlasobscura.com/events) [Courses](https://www.atlasobscura.com/online-courses) [Places](https://www.atlasobscura.com/articles/all-places-in-the-atlas-on-one-map) [Foods](https://www.atlasobscura.com/gastro) [Stories](https://www.atlasobscura.com/articles) [Newsletters](https://www.atlasobscura.com/newsletters)
@@ -16,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Abu Simbel](https://img.atlasobscura.com/QZKziLX8cPdJ6hB72G-N9ohpD0YCU9t2PBkGQGzNdN4/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy80Yzk2/MmY4ZC03NTllLTQ5/YTEtOThiMy04ZThl/NmNjN2E1NTJhZmQx/ZjUzZGMyZDZkMGI1/NTRfQWJ1IFNpbWJl/bC5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/egypt-nile)
+
+Egypt • 11 days, 10 nights
+
+[Ancient Wonders: Egypt & The Nile](https://www.atlasobscura.com/adventures/trips/egypt-nile)
+
+from
+
+   [![The waterfalls in Plitvice National Park, Croatia.](https://img.atlasobscura.com/ByzbbKjMXGbEL_5PhptkwQ6-51w3ycxz2EsUw7Z6pd0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9iZDZj/ODgxNS0yNjhmLTRj/MTgtODg0ZC1hY2Q5/NTE3MmNhZDYyY2Nm/NzdmMzA2NTRkNzQw/MjFfQmFsa2FuczIu/anBn.jpg)](https://www.atlasobscura.com/adventures/trips/balkans-road-trip)
+
+Bosnia and Herzegovina • 9 days, 8 nights
+
+[Balkans Road Trip: Serbia, Croatia, and Bosnia and Herzegovina](https://www.atlasobscura.com/adventures/trips/balkans-road-trip)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
@@ -197,7 +222,6 @@ Get the app
 
 * [About](https://www.atlasobscura.com/about)
 * [FAQ](https://www.atlasobscura.com/faq)
-* [Invest In Us](https://invest.atlasobscura.com/)
 * [Advertise With Us](https://studio-obscura.atlasobscura.com/)
 * [Advertising Guidelines](https://www.atlasobscura.com/advertising-acceptability-guidelines)
 * [Privacy Policy](https://www.atlasobscura.com/privacy)
