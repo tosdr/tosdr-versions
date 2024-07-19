@@ -1,4 +1,4 @@
-Toggle navigation [![Porkbun Logo](/partners/logos/porkbun.comphpPkl2eU.svg) porkbun](https://porkbun.com/) [$0.00](https://porkbun.com/checkout/cart)
+Toggle navigation [![Porkbun Logo](/partners/logos/porkbun.comphpPkl2eU.svg) porkbun](https://porkbun.com/) [$0.00 (0)](https://porkbun.com/checkout/cart)
 
 * products
     * [Domains](https://porkbun.com/products/domains)
@@ -23,7 +23,7 @@ Toggle navigation [![Porkbun Logo](/partners/logos/porkbun.comphpPkl2eU.svg) por
 * [About Us](https://porkbun.com/about)
 * [Help](javascript:void(0);)
 
-[$0.00](https://porkbun.com/checkout/cart)
+[$0.00 (0)](https://porkbun.com/checkout/cart)
 
 * [sign in](https://porkbun.com/account)
 
