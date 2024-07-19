@@ -8,13 +8,9 @@
 * [Partners](#)
 * [Support](#)
 
-Discover the latest trends for fashion ecommerce: [Fashion Lookbook](https://www.klevu.com/ebook/current-trends-for-fashion-ecommerce-success/)
+Klevu has been positioned in the inaugural [2024 Gartner® Magic Quadrant™ for Search and Product Discovery](https://www.klevu.com/magic-quadrant-for-search-and-product-discovery/)
 
-Boost your Home & Garden ecommerce strategy: [Home, Garden & DIY Lookbook](https://www.klevu.com/ebook/current-trends-for-home-ecommerce-success/)
-
-Discover the latest trends for fashion ecommerce: [Fashion Lookbook](https://www.klevu.com/ebook/current-trends-for-fashion-ecommerce-success/)
-
-Boost your Home & Garden ecommerce strategy: [Home, Garden & DIY Lookbook](https://www.klevu.com/ebook/current-trends-for-home-ecommerce-success/)
+Klevu has been positioned in the inaugural [2024 Gartner® Magic Quadrant™ for Search and Product Discovery](https://www.klevu.com/magic-quadrant-for-search-and-product-discovery/)
 
 [![Klevu Logo](https://www.klevu.com/wp-content/uploads/2022/07/klevu-color.svg)](https://www.klevu.com/)
 
@@ -354,7 +350,7 @@ We also may need to share your personal information in the following situation
 **5\. SHOPPER PERSONAL DATA IN KLEVU DISCOVERY SUITE**
 ------------------------------------------------------
 
-Nothing in this policy contradicts the following statement: Except for the subdomains [kleviyo.klevu.com](http://kleviyo.klevu.com/), Klevu does not collect, retain or share any data regarding a particular user or device (including user identifiers) on sites or apps not owned by Klevu. Klevu collects shopper IP addresses from request headers only to derive the country and city of the shopper using an IP to geolocation database. Immediately after this, the IP address is encrypted irreversibly. This is encrypted using HMAC SHA-256.  The original IP address is never stored or logged. The encrypted value is used to identify click to checkout conversions and to report the overall Klevu-led conversion to the merchants.
+Nothing in this policy contradicts the following statement: Except for the subdomains [klaviyo.klevu.com](https://klaviyo.klevu.com/) and [statsjs.klevu.com](https://statsjs.klevu.com/), Klevu does not collect, retain or share any data regarding a particular user or device (including IP ADDRESSES AND user identifiers) on sites or apps not owned by Klevu.
 
 6\. **WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?**
 ---------------------------------------------------
