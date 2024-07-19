@@ -38,26 +38,22 @@ Install App
 
  ![](/img/hamburger.svg)[![101soundboards.com — Have Fun Playing Sound Clips site logo. Click to return to homepage](https://www.101soundboards.com/img/101soundboards-logo.svg)](https://www.101soundboards.com/)
 
-[* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/?sort=funny#sort_filters)[* Hot](https://www.101soundboards.com/?sort=hits_random#sort_filters)[* Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters)* Categories
+[* Home](https://www.101soundboards.com/)[* Search](https://www.101soundboards.com/search)[* Funny](https://www.101soundboards.com/?sort=funny#sort_filters)[* Hot](https://www.101soundboards.com/?sort=hits_random#sort_filters)[* Popular](https://www.101soundboards.com/?sort=hits_recent#sort_filters)[* Categories](https://www.101soundboards.com/tags)[* AI Voices](https://www.101soundboards.com/boards/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
     
-    [Anime, Comics & Cartoons](https://www.101soundboards.com/tags/anime-comics-cartoons) [Celebrities](https://www.101soundboards.com/tags/celebrities) [Comedy](https://www.101soundboards.com/tags/comedy) [Games](https://www.101soundboards.com/tags/games) [Memes & Funny](https://www.101soundboards.com/tags/memes-funny) [Movies](https://www.101soundboards.com/tags/movies) [Music & Musicians](https://www.101soundboards.com/tags/music-musicians) [Nature](https://www.101soundboards.com/tags/nature) [Other](https://www.101soundboards.com/tags/other) [Politics](https://www.101soundboards.com/tags/politics) [Sound FX](https://www.101soundboards.com/tags/sound-fx) [Sports](https://www.101soundboards.com/tags/sports) [Streamers, Twitch & Podcasts](https://www.101soundboards.com/tags/streamers-twitch-podcasts) [TTS Voices](https://www.101soundboards.com/boards/tts) [TV](https://www.101soundboards.com/tags/tv) [United Kingdom](https://www.101soundboards.com/tags/united-kingdom) [United States](https://www.101soundboards.com/tags/united-states) [Walk-Ups for Baseball](https://www.101soundboards.com/search/walkups)
+    [Text-to-Speech AI Voices](https://www.101soundboards.com/boards/tts) [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [Ghostface Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice) [TikTok Song Generators](https://www.101soundboards.com/boards/tts#song_generators)
     
-    [All Categories](https://www.101soundboards.com/tags)
+    [iOS and Android Apps](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Donate](https://www.101soundboards.com/pages/donate) [Sticker Shop](https://shop.101soundboards.com/) [Merch](https://www.101soundboards.com/pages/donate#merch)
     
-[* AI Voices](https://www.101soundboards.com/boards/tts)[* New](https://www.101soundboards.com/?sort=created#sort_filters)[* Help](https://www.101soundboards.com/pages/about)* More
-    
-    [iOS App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Android App](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Alexa](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [Google Home](https://www.101soundboards.com/pages/app?referrer=https%3A%2F%2Fwww.101soundboards.com%2Fpages%2Fabout) [![Twitter](/img/twitter-round.svg) Twitter](https://twitter.com/101soundboards "Twitter") [Discord Bot](https://www.101soundboards.com/pages/discordbot) [Free Audio Editor](https://www.101soundboards.com/pages/editor) [Donate](https://www.101soundboards.com/pages/donate) [Privacy](https://www.101soundboards.com/pages/about#privacy) [Merch](https://www.101soundboards.com/pages/donate#merch)
-    
-    [TikTok TTS Voice](https://www.101soundboards.com/boards/72272-tiktok-tts-official-tiktok-lady-computer-voice) [TikTok Song Generators](https://www.101soundboards.com/boards/tts#song_generators) [No-Queue TTS Voices](https://www.101soundboards.com/boards/tts#noqueue_tts_boards)
-    
-    [Latest Boards](https://www.101soundboards.com/?sort=updated#sort_filters "Most recently added and updated soundboards") [Random NSFW](https://www.101soundboards.com/?sort=nsfw#sort_filters "<strong>Not Safe For Work</strong><br>Show random boards with objectionable content") [Most Popular NSFW](https://www.101soundboards.com/?sort=nsfw_popular#sort_filters "<strong>Not Safe For Work</strong><br>Show the most popular boards with objectionable content") [Recent NSFW](https://www.101soundboards.com/?sort=nsfw_recent#sort_filters "<strong>Not Safe For Work</strong><br>Show recently updated or added boards with objectionable content")
+    [Latest Boards](https://www.101soundboards.com/?sort=updated#sort_filters "Most recently added and updated soundboards")
     
     [Feature Suggestions & Bugs](https://www.101soundboards.com/pages/about#feature-suggestions-and-bugs "<strongSsuggest a new feature or report a bug")
+    
+    Back
     
 * [Login/Register](https://www.101soundboards.com/login)
 
 × Your AdBlocker was detected as enabled 😔😞😭 Ads fund this site. It costs money to run.  
-Consider disabling or [donating](https://www.101soundboards.com/pages/support)  
+Consider disabling or [buying a sticker pack (with free shipping)](https://shop.101soundboards.com/) so we can continue running this awesome service!  
   
  [![Ko-fi](/img/kofi_cup.png) Support Us on Ko-fi](https://ko-fi.com/B0B8H3JMY) [![CashApp](/img/cashapp-2.svg) CashApp](https://cash.app/$101soundboards) [![PayPal](/img/paypal-2.svg) PayPal](https://www.paypal.com/donate/?hosted_button_id=7FBV3YC5ZMJT8)
 
@@ -74,15 +70,21 @@ Help
 
 ##### How can I download sounds?
 
-To download a sound, right click on the sound and press 'download sound'. You can earn free download credits by waching an advert.
+To download a sound, right click on the sound and press 'download sound'. You can get free download credits by waching an advert.
 
-Skipping the advert or using an advertising blocker may prevent receiving your free download credits. These adverts help fund this free site. It wouldn't exist otherwise. This site makes lots of people happy.
+##### Why are there adverts?
 
-Your AdBlocker status is: Unknown.
+Advertising helps support this free site. It costs money in hosting, and a lot of time and effort making and maintaining the site.
 
-Your AdBlocker status is: Active/Blocked.
+We've tried many different ways over the years to fund this site, including charging for downloads, donations, selling merchandise and stickers, but there was little to no support.
 
-Your AdBlocker status is: Inactive/Not Blocked.
+##### Why is my AdBlocker stopping downloads?
+
+Ask your AdBlocker to stop blocking downloads.
+
+##### How do I make a sound into a ringtone?
+
+Download the MP3 sound (see above for instructions), and then follow [this guide for iOS](https://www.techadvisor.co.uk/how-to/apple/custom-ringtone-iphone-3622959/) or this [guide for Android](https://www.androidauthority.com/set-own-music-mp3-custom-notification-ringtone-166052/).
 
 ##### Do you have a smartphone or desktop app?
 
@@ -90,21 +92,13 @@ We have smartphone apps available for Android and iOS available on the [Apps pag
 
 If you have Google Chrome for desktop, you can also install 101soundboards. Just go to the menu in the top right (three dots) and press 'Install 101soundboards'.
 
-##### How do I make a sound into a ringtone?
-
-Download the MP3 sound (see above for instructions), and then follow [this guide for iOS](https://www.techadvisor.co.uk/how-to/apple/custom-ringtone-iphone-3622959/) or this [guide for Android](https://www.androidauthority.com/set-own-music-mp3-custom-notification-ringtone-166052/).
-
-##### Why did my text-to-speech sound get deleted?
-
-We use Artificial Intelligence and Machine Learning to block phrases that include hate, harrassment and sexual content. Except for [Ghostface (Scream) TTS Computer AI Voice](https://www.101soundboards.com/boards/72298-ghostface-scream-tts-computer-ai-voice), because his character is a serial killer.
-
-##### How do I delete a Text-To-Speech phrase I created? I no longer want it to appear on the site.
-
-Right-click the sound (or press and hold on mobile) and press 'Report sound'.
-
 ##### Why soundboards?
 
 Read about the unexpected benefits of soundboards on the [Have Fun Playing Sounds](https://www.101soundboards.com/pages/have-fun-playing-sounds) page.
+
+##### Can I use my keyboard to play sounds?>
+
+Yes! You can use the keyboard to play sounds. Just press the key that corresponds to the sound you want to play. You can see the key on the top left of sound buttons.
 
 ##### How can I create a soundboard?
 
@@ -125,6 +119,58 @@ Yes you can. Sign up or log in to your account. Right-click any sound on any sou
 ##### What file format do my sounds need to be?
 
 You can upload files in any format, including MP3, WAV, OGG, MKV and MP4. They will be automatically converted.
+
+##### What is Text-to-Speech?
+
+Text-to-Speech (TTS) is a technology that converts text into spoken voice output. It is used in a variety of applications, including voice assistants, navigation systems, and accessibility tools for people with visual impairments. On 101soundboards you can use TTS to create custom sounds in the voices of celebrities, streamers, cartoon characters and more, then share them with others.
+
+##### How does the TTS feature work on this site?
+
+When you submit a phrase to be converted into speech, our system sends the text to a TTS engine, which generates an audio file of the spoken text. The audio file is then added to the soundboard for you to play and share with others.
+
+To use the TTS feature, simply enter your desired phrase in the text box on the voice of your choice. Click the "Generate" button to create your custom sound. The TTS engine will process your request and generate an audio file of the spoken text, which will be added to the top of the soundboard in green for you to play and share with others.
+
+You can find a list of available voices and song generators on the [TTS page](https://www.101soundboards.com/boards/tts). Explore a variety of voices and create unique sounds to share with your friends.
+
+##### Why does it take time for my TTS request to be processed?
+
+The time it takes for your TTS request to be processed depends on the current queue size and the TTS engine being used. Some voices have no queue and are processed immediately, while others may take a few minutes to generate the audio file.
+
+##### What should I do while waiting for my TTS request to be processed?
+
+If there is a queue, while waiting for your TTS request to be processed you can bookmark the page and check back later. You can also explore other voices and song generators on the site to create more sounds, or explore the millions of sounds already available on 101soundboards.
+
+##### Can I queue multiple sounds for generation at the same time?
+
+Yes, you can queue multiple sounds for generation at the same time. Each sound will be processed in the order it was submitted, and you can check the status of each request on the soundboard.
+
+##### What happens if my TTS request contains inappropriate content?
+
+Phrases with extreme inappropriate language, hate speech, self-harm, violence, or bullying may be blocked and not displayed on the soundboard. Please keep your requests fun, friendly, and respectful.
+
+##### How do I delete a TTS sound I created?
+
+To delete a TTS sound you created, right click on the sound (press and hold on mobile) and select "Report" from the context menu. The sound will typically be removed from the soundboard within a few minutes.
+
+##### Where can I find more voices and song generators?
+
+You can find more voices and song generators on the [TTS Voices List](https://www.101soundboards.com/boards/tts). Explore a variety of voices and create unique sounds to share with your friends.
+
+##### Why did another similar sound get generated?
+
+Sometimes we use AI to generate a phrase in the style of the character or voice you requested. This is a bonus and can be fun to explore.
+
+##### How can I learn more about the TTS feature?
+
+If you have more questions about the TTS feature or need help with a specific request, please contact us through the [contact page](https://www.101soundboards.com/pages/contact). We are here to help you create awesome sounds!
+
+##### Can I create my own TTS voice from a custom recording?
+
+While we would love to offer custom TTS voices from custom recordings, this feature is not currently available on the site due to the prohibitive cost. However, we are always looking for ways to improve the TTS feature and add new voices and features. If you have a suggestion or request, please contact us through the [contact page](https://www.101soundboards.com/pages/contact). We appreciate your feedback!
+
+##### Can I suggest new voices or features for the TTS feature?
+
+We are always looking for ways to improve the TTS feature and add new voices and features to the site. If you have a suggestion or request, please contact us through the [contact page](https://www.101soundboards.com/pages/contact). We appreciate your feedback!
 
 ##### Downloading a sound with the app failed
 
@@ -149,16 +195,6 @@ We recognize that many of our users are autistic. Here is a great [list of resou
 ##### How do I hide the banner adverts?
 
 If you create and log in to a free account, the banner adverts will be hidden. The download adverts are still required for earning your free download credits.
-
-##### Why are there adverts when downloading?
-
-Advertising helps support this free site. It costs money in hosting, and a lot of time and effort making and maintaining the site. This site was created to help people have fun playing sounds.
-
-Your AdBlocker status is: Unknown.
-
-Your AdBlocker status is: Active/Blocked.
-
-Your AdBlocker status is: Inactive/Not Blocked.
 
 ##### How do I hide the adverts when downloading?
 
@@ -452,3 +488,5 @@ If you have any questions about this Privacy Policy, please contact us:
 [Search](https://www.101soundboards.com/search) [Your Favorites Soundboard](https://www.101soundboards.com/favorites/me)
 
 Dark Mode Light Mode
+
+[](# "Back to top")
