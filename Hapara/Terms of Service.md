@@ -12,7 +12,7 @@ Hapara TOS
 
 ### Version 1.2
 
-##### Effective June 6th 2024
+##### Effective June 3rd 2024
 
 [Download](https://cordance.pactsafe.io/versions/66622e5fc129f559af0d0b85.pdf)
 
