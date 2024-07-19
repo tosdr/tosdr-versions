@@ -54,6 +54,7 @@ Main navigation
     * [Conferences & Events Home](https://www.ala.org/conferencesevents "Conferences & Events")
     * [Events Calendar](https://www.ala.org/events "Conferences & Events")
     * [Past & Future ALA Conferences](https://www.ala.org/conferencesevents/past "Conferences & Events")
+    * [Criteria for Conference Site Selection](https://www.ala.org/conferencesevents/ala-conference-site-selection "Conferences & Events")
     * [Library Celebration Days](https://www.ala.org/conferencesevents/celebrationdays "Conferences & Events")
     
 * [Awards & Grants](https://www.ala.org/awards "Awards & Grants")
@@ -293,7 +294,7 @@ Page last updated 8/16/2022
     [](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.ala.org%2Fprivacypolicy&title=ALA%20Privacy%20Policy)
     
 
-[ALA Logo](https://www.ala.org/)
+[![ site logo](/themes/custom/ala/assets/images/svg/ala-footer-logo.svg)](https://www.ala.org/)
 
 225 N Michigan Ave., Ste 1300
 
@@ -323,6 +324,7 @@ Footer Utility
 * [youtube](https://www.youtube.com/americanlibraryassocaition)
 
 * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
+* [Accessibility](https://www.ala.org/accessibility "Accessibility")
 * [Privacy Policy](https://www.ala.org/privacypolicy "Privacy Policy")
 * [User Guidelines](https://www.ala.org/user-guidelines "User Guidelines")
 * [Site Index](https://www.ala.org/sitemap.xml "Site Index")
