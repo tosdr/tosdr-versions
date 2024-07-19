@@ -36,10 +36,6 @@ Muy Pronto
 
 Muy Pronto
 
-[Caja de seguridad](http://www.brubank.com/caja-de-seguridad)
-
-Muy Pronto
-
 [#### Pagos](#)
 
 [Pago QR](https://brubank.com/pago-con-qr)
@@ -64,7 +60,7 @@ Muy Pronto
 
 [#### Inversiones](#)
 
-[Dólar ahorro](https://brubank.com/#dolar-ahorro)
+[Caja de ahorro USD](http://www.brubank.com/caja-de-ahorro-en-dolares)
 
 Muy Pronto
 
@@ -91,6 +87,10 @@ Muy Pronto
 Muy Pronto
 
 [Biometría](https://brubank.com/seguridad#biometria)
+
+Muy Pronto
+
+[Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
 
 Muy Pronto
 
@@ -210,8 +210,6 @@ Facilidades
 
 [#### Préstamos Hipotecarios UVA](http://www.brubank.com/prestamos-hipotecarios-uva)
 
-[#### Caja de seguridad](http://www.brubank.com/caja-de-seguridad)
-
 Promociones
 
 [#### Promociones](https://brubank.com/promociones)
@@ -230,7 +228,7 @@ Pagos
 
 Inversiones
 
-[#### Dólar ahorro](https://brubank.com/#dolar-ahorro)
+[#### Caja de ahorro USD](http://www.brubank.com/caja-de-ahorro-en-dolares)
 
 [#### Dólar MEP](https://brubank.com/dolar-mep)
 
@@ -245,6 +243,8 @@ Inversiones
 [#### Pausar tarjeta](https://brubank.com/seguridad#pausar-tarjeta)
 
 [#### Biometría](https://brubank.com/seguridad#biometria)
+
+[#### Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
 
 Pensando para tu desarrollo 💼
 
@@ -285,19 +285,19 @@ Términos y condiciones
 
 #### **Términos y condiciones**
 
-‍[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6668b0ba2aa7615be7823731_Te%CC%81rminos%20y%20Condiciones.pdf)**‍**
+‍[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b23219ae34bb7ea27dee_Te%CC%81rminos%20y%20Condiciones.pdf)**‍**
 
 #### [**Términos y condiciones - Patear**](https://www.brubank.com/terms-patear)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6633f1f4b035f765da337cd4_Te%CC%81rminos%20y%20Condiciones%20-%20Patear.pdf)
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b24b2be27921d67767ad_Te%CC%81rminos%20y%20Condiciones%20-%20Patear.pdf)
 
 #### [**Términos y condiciones - BruPlus**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6633f2212f0b16f3e80f2fab_Te%CC%81rminos%20y%20Condiciones%20-%20BruPlus.pdf)
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b2c9a101ad8f4be96aa3_Te%CC%81rminos%20y%20Condiciones%20-%20BruPlus.pdf)
 
 #### [**Términos y condiciones - Tarjeta de crédito**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6633f12c14c5d12ca32d1ed3_Te%CC%81rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cre%CC%81dito.pdf)**‍**
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6682b2d971d64ff9a90cde75_Te%CC%81rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cre%CC%81dito.pdf)**‍**
 
 #### [**Resumen informativo del contrato**](#)
 
@@ -441,8 +441,6 @@ Términos y condiciones
 
 [Pausar tarjeta](#)[Biometria](#)[Atención 24/7](#)
 
-[Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
-
 [#### Pagos](#)
 
 [Pagos QR](https://www.brubank.com/pago-con-qr)[Tarjeta de crédito](https://www.brubank.com/tarjeta-de-credito)[Pago Apple Pay](https://www.brubank.com/pago-apple-pay)[Pago Google Pay](https://www.brubank.com/pago-google-pay)[Pago de servicios](https://www.brubank.com/pago-de-servicios)
@@ -450,7 +448,7 @@ Términos y condiciones
 [#### Inversiones](#)
 
 [Dólar MEP](https://www.brubank.com/dolar-mep)[Fondos Comunes  
-de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Dólar ahorro](https://www.brubank.com/#dolar-ahorro)[CEDEARs](https://www.brubank.com/cedears)
+de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Caja de ahorro USD](https://www.brubank.com/caja-de-ahorro-en-dolares)[CEDEARs](https://www.brubank.com/cedears)
 
 [#### Ayuda](#)
 
@@ -469,6 +467,8 @@ de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Dólar ahorr
 [#### Seguridad](https://www.brubank.com/sobre-brubank)
 
 [Recomendaciones](https://www.brubank.com/seguridad)[Biometría](https://www.brubank.com/seguridad#biometria)[Pausar tarjeta](https://www.brubank.com/seguridad#pausar-tarjeta)
+
+[Caja de seguridad](https://www.brubank.com/caja-de-seguridad)
 
 [#### Estructura](https://www.brubank.com/sobre-brubank)
 
