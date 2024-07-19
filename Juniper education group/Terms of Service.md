@@ -7,7 +7,7 @@
     * [Secondary schools](https://junipereducation.org/secondary-schools/)
     * [MATs](https://junipereducation.org/multi-academy-trusts/)
 * [About us](https://junipereducation.org/about-us/)
-    * [Careers](https://junipereducation.org/careers/)
+    * [Careers](https://careers.junipereducation.org/)
     * [Contact us](https://junipereducation.org/contact-us)
 * [Resources](https://junipereducation.org/resource)
     * [Case studies](https://junipereducation.org/resource#a-casestudies)
@@ -971,7 +971,7 @@ Each party irrevocably agrees that the courts of England and Wales shall have ex
 ##### About us
 
 * [About us](https://junipereducation.org/about-us/)
-* [Careers](https://junipereducation.org/careers/)
+* [Careers](https://careers.junipereducation.org/)
 * [Contact us](https://junipereducation.org/contact-us)
 
 [![besa](https://junipereducation.org/hubfs/Juniper%20-%20Theme/besa.svg)](https://junipereducation.org/terms/?hsLang=en)
