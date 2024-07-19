@@ -19,61 +19,69 @@
 
 [Nina](https://onehack.us/u/Nina)  February 21, 2019, 1:16pm  1
 
-**BINDING EFFECT.**  
-This is a binding agreement between you and this website (us, we, Non-Profit Organization). By using this Internet site, you agree to abide by these Terms of Use. If at any time you find these Terms of Use unacceptable, you must immediately leave the Site and cease all use of it.
+#### [](#h-1-welcome-1)1\. Welcome! ![:wave:](https://onehack.us/images/emoji/apple/wave.png?v=12 ":wave:")
 
-**PRIVACY POLICY.**  
-We respect your privacy and permit you to control the treatment of your personal information. A complete statement of our current privacy policy can be found on our website Our privacy policy is expressly incorporated into this Agreement by this reference.
+**Agreement Time:** By using our site, you’re agreeing to these terms. If you don’t like them, please leave immediately. ![:door:](https://onehack.us/images/emoji/apple/door.png?v=12 ":door:")
 
-**MINIMUM AGE.**  
-You must be at least 18 years old to access and participate on this site. You guarantee and warrant you are at least 18 years old and are able to enter into this Agreement from a legal perspective.
+#### [](#h-2-privacy-policy-2)2\. Privacy Policy ![:scroll:](https://onehack.us/images/emoji/apple/scroll.png?v=12 ":scroll:")
 
-**SIGNUPS AND MAILINGS.**  
-You have the option, but not obligation, to subscribe or signup from us. Should you do so, you are agreeing to receive further emailing from us of a commercial nature.
+**Your Privacy:** We care about your privacy. Check out our Privacy Policy on the site. It’s part of these terms!
 
-**EMAIL COMMUNICATIONS.**  
-When you contact us, you expressly consent and agree to receive email responses from us. These email communications may be commercial or non-commercial in nature. Non-commercial emails may include, but are not limited to, administrative issues and announcements of changes to these Terms, the Privacy Policy or other site documentation.
+#### [](#h-3-age-limit-3)3\. Age Limit ![:birthday:](https://onehack.us/images/emoji/apple/birthday.png?v=12 ":birthday:")
 
-**COMPLIANCE WITH INTELLECTUAL PROPERTY LAWS.**  
-When accessing the site, you agree to respect the intellectual property rights of others. Your use of the site is at all times governed by and subject to laws regarding copyright ownership and use of intellectual property. You agree not to perform, transmit, or otherwise distribute any information or content (collectively, Content) in violation of any third party’s copyrights, trademarks, or other intellectual property or proprietary rights. You agree to abide by laws regarding copyright ownership and use of intellectual property, and you shall be solely responsible for any violations of any relevant laws and for any infringements of third party rights caused by any Content you provide or transmit, or that is provided or transmitted using your User ID. The burden of proving that any Content does not violate any laws or third party rights rests solely with you. It is impossible for us to monitor every post made by our crawler bot from various sources, however our policy to respond to VALID infringement notices and take appropriate actions under the copyright laws that we are in compliance with, copyright matters are processed pursuant to our COPYRIGHT POLICY, which you may access via the COPYRIGHT POLICY link at the sub- menu of the page.
+**Adults Only:** You must be at least 18 to hang out here. By being here, you promise you’re old enough. ![:tada:](https://onehack.us/images/emoji/apple/tada.png?v=12 ":tada:")
 
-**INAPPROPRIATE CONTENT.**  
-You agree not to perform, transmit, or otherwise distribute any Content that (a) is libelous, defamatory, obscene, pornographic, abusive, or threatening; (b) advocates or encourages conduct that could constitute a criminal offense, give rise to civil liability, or otherwise violate any applicable local, state, national, or foreign law or regulation; (c) advertises or otherwise solicits funds or is a solicitation for goods or services; or (d) provides medical advice to other users. We reserves the right to terminate your receipt, transmission, or other distribution of any such material using the site, and, if applicable, to delete any such material from its servers. We intends to cooperate fully with any law enforcement officials or agencies in the investigation of any violation of these Terms or of any applicable laws.
+#### [](#h-4-signups-and-emails-4)4\. Signups and Emails ![:email:](https://onehack.us/images/emoji/apple/email.png?v=12 ":email:")
 
-**COMPLIANCE WITH INTELLECTUAL PROPERTY LAWS.**  
-When accessing the Site, you agree to obey the law and to respect the intellectual property rights of others. Your use of the Site is at all times governed by and subject to laws regarding copyright ownership and use of intellectual property. You agree not to perform, transmit, or otherwise distribute any information or content (collectively, Content) in violation of any third party’s copyrights, trademarks, or other intellectual property or proprietary rights. You agree to abide by laws regarding copyright ownership and use of intellectual property, and you shall be solely responsible for any violations of any relevant laws and for any infringements of third party rights caused by any Content you provide or transmit, or that is provided or transmitted using your account. The burden of proving that any Content does not violate any laws or third party rights rests solely with you.
+**Join the Club:** If you sign up, you agree to get our emails. They could be about cool stuff or important updates.
 
-**NO WARRANTIES.**  
-WE HEREBY DISCLAIM ALL WARRANTIES. WE ARE MAKING THE SITE AVAILABLE AS IS WITHOUT WARRANTY OF ANY KIND. YOU ASSUME THE RISK OF ANY AND ALL DAMAGE OR LOSS FROM USE OF, OR INABILITY TO USE, THE SITE OR THE SERVICE. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE SITE, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON INFRINGEMENT. WE DO NOT WARRANT THAT THE SITE OR THE SERVICE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SITE OR THE SERVICE WILL BE UNINTERRUPTED OR ERROR-FREE.
+#### [](#h-5-email-chats-5)5\. Email Chats ![:mailbox_with_mail:](https://onehack.us/images/emoji/apple/mailbox_with_mail.png?v=12 ":mailbox_with_mail:")
 
-**LIMITED LIABILITY.**  
-OUR LIABILITY TO YOU IS LIMITED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL WE BE LIABLE FOR DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, LOST PROFITS, OR LOST DATA, REGARDLESS OF THE FORESEE ABILITY OF THOSE DAMAGES) ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SITE OR ANY OTHER MATERIALS OR SERVICES PROVIDED TO YOU BY US. This limitation shall apply regardless of whether the damages arise out of breach of contract, tort, or any other legal theory or form of action.
+**Say Hi:** When you email us, you agree to get our replies. They might be about site updates or just saying hello.
 
-**AFFILIATED SITES.**  
-We have no control over and no liability for any third party websites or materials. We work with a number of partners whose Internet sites may be linked with the Site. Because we have no control over the content and performance of these partner and affiliate sites, we make no guarantees about the accuracy, currency, content, or quality of the information provided by such sites, and we assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful content that may reside on those sites. Similarly, from time to time in connection with your use of the Site, you may have access to content items (including, but not limited to, websites) that are owned by third parties. You acknowledge and agree that we make no guarantees about, and assumes no responsibility for, the accuracy, currency, content, or quality of this third party content, and that, unless expressly provided otherwise, these Terms of Use shall govern your use of any and all third party content.
+#### [](#h-6-respect-the-law-6)6\. Respect the Law ![:books:](https://onehack.us/images/emoji/apple/books.png?v=12 ":books:")
 
-**PROHIBITED USES.**  
-We impose certain restrictions on your permissible use of the Site. You are prohibited from violating or attempting to violate any security features of the Site, including, without limitation, (a) accessing content or data not intended for you, or logging onto a server or account that you are not authorized to access; (b) attempting to probe, scan, or test the vulnerability of the Site, or any associated system or network, or to breach security or authentication measures without proper authorization; (c) interfering or attempting to interfere with service to any user, host, or network, including, without limitation, by means of submitting a virus to the Site, overloading, flooding, spamming, mail bombing, crashing or instituting a DDOS attack on the Site; (d) using the Site to send unsolicited e-mail, including, without limitation, promotions, or advertisements for products or services; (e) forging any TCP/IP packet header or any part of the header information in any e-mail or in any posting using the Site; or (f) attempting to modify, reverse-engineer, decompile, disassemble, or otherwise reduce or attempt to reduce to a human-perceivable form any of the source code used by us in providing the Site. Any violation of system or network security may subject you to civil and/or criminal liability.
+**Play Nice:** Respect copyright laws. Don’t share stuff that isn’t yours. If you do, it’s your responsibility.
 
-**INDEMNITY.**  
-You agree to indemnify us for certain of your acts and omissions. You agree to indemnify, defend, and hold harmless us, its affiliates, officers, directors, employees, consultants, agents, and representatives from any and all third party claims, losses, liability, damages, and/or costs (including reasonable attorney fees and costs) arising from your access to or use of the Site, your violation of these Terms of Use, or your infringement, or infringement by any other user of your account, of any intellectual property or other right of any person or entity. We will notify you promptly of any such claim, loss, liability, or demand, and will provide you with reasonable assistance, at your expense, in defending any such claim, loss, liability, damage, or cost.
+#### [](#h-7-keep-it-clean-7)7\. Keep It Clean ![:no_entry_sign:](https://onehack.us/images/emoji/apple/no_entry_sign.png?v=12 ":no_entry_sign:")
 
-**SEVERABILITY; WAIVER.**  
-If, for whatever reason, a court of competent jurisdiction finds any term or condition in these Terms of Use to be unenforceable, all other terms and conditions will remain unaffected and in full force and effect. No waiver of any breach of any provision of these Terms of Use shall constitute a waiver of any prior, concurrent, or subsequent breach of the same or any other provisions hereof, and no waiver shall be effective unless made in writing and signed by an authorized representative of the waiving party.
+**No Nasty Stuff:** Don’t share anything offensive, illegal, or nasty. We can remove it and might report it.
 
-**NO LICENSE.**  
-Nothing contained on the Site should be understood as granting you a license to use any of the trademarks, service marks, or logos owned by us or by any third party.
+#### [](#h-8-no-guarantees-8)8\. No Guarantees ![:x:](https://onehack.us/images/emoji/apple/x.png?v=12 ":x:")
 
-**AMENDMENTS.**  
-We reserves the right to amend these Terms. Should we seek to make such an amendment, which we determine is material in our sole discretion, we shall:
+**As-Is:** We offer the site as-is with no promises it’ll work perfectly. Use at your own risk.
 
-Publish on the website the fact an amendment will be made.
+#### [](#h-9-limited-liability-9)9\. Limited Liability ![:balance_scale:](https://onehack.us/images/emoji/apple/balance_scale.png?v=12 ":balance_scale:")
 
-Should a court of competent jurisdiction rule this Amendment provision invalid, then this Amendment clause shall be terminated as part of this agreement. All amendments to the Terms shall be forward looking.
+**Our Liability:** We’re not responsible for any damages from using our site. Use it wisely!
 
-  17 Likes
+#### [](#h-10-third-party-links-10)10\. Third-Party Links ![:link:](https://onehack.us/images/emoji/apple/link.png?v=12 ":link:")
 
- 
+**Other Sites:** We link to other sites but aren’t responsible for their content. Check their policies.
+
+#### [](#h-11-prohibited-uses-11)11\. Prohibited Uses ![:no_entry_sign:](https://onehack.us/images/emoji/apple/no_entry_sign.png?v=12 ":no_entry_sign:")
+
+**No Hacking:** Don’t mess with our site’s security. No hacking, spamming, or anything illegal.
+
+#### [](#h-12-indemnity-12)12\. Indemnity ![:shield:](https://onehack.us/images/emoji/apple/shield.png?v=12 ":shield:")
+
+**Your Responsibility:** If you cause problems or break these rules, you agree to cover any costs we incur.
+
+#### [](#h-13-severability-and-waiver-13)13\. Severability and Waiver ![:scissors:](https://onehack.us/images/emoji/apple/scissors.png?v=12 ":scissors:")
+
+**Legal Talk:** If one part of these terms is invalid, the rest still apply. No waivers unless in writing.
+
+#### [](#h-14-no-license-14)14\. No License ![:stop_sign:](https://onehack.us/images/emoji/apple/stop_sign.png?v=12 ":stop_sign:")
+
+**Trademarks:** You don’t get any rights to our trademarks or logos by using our site.
+
+#### [](#h-15-amendments-15)15\. Amendments ![:memo:](https://onehack.us/images/emoji/apple/memo.png?v=12 ":memo:")
+
+**Changes:** We can change these terms anytime. We’ll let you know on the site if we do.
+
+Thanks for being part of OneHack! ![:tada:](https://onehack.us/images/emoji/apple/tada.png?v=12 ":tada:")
+
+  18 Likes
 
 * [Home](https://onehack.us/)
 * [Categories](https://onehack.us/categories)
