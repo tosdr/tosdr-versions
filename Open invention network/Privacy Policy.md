@@ -112,23 +112,7 @@
         * [OIN License Agreement](https://openinventionnetwork.com/joining-oin/join-now/license-agreement/)
         * [Linux System Definition & Components](https://openinventionnetwork.com/linux-system/)
         * [Linux System Definition Nominations](https://openinventionnetwork.com/media/linux-system-nominations/)
-        
-    
-    * * [Linux Packages](#)
-        * [Tables 1 & 2](https://openinventionnetwork.com/linux-system/tables-1-2/)
-        * [Table 3](https://openinventionnetwork.com/linux-system/table-3/)
-        * [Table 4](https://openinventionnetwork.com/linux-system/table-4/)
-        * [Table 5](https://openinventionnetwork.com/old-linux-system/table-5/)
-        * [Table 6](https://openinventionnetwork.com/linux-system/table-6/)
-        * [Table 7](https://openinventionnetwork.com/linux-system/table-7/)
         * [](#)
-        
-    * * 
-        * [Table 8](https://openinventionnetwork.com/linux-system/table-8/)
-        * [Table 9](https://openinventionnetwork.com/linux-system/table-9/)
-        * [Table 10](https://openinventionnetwork.com/linux-system/table-10/)
-        * [Table 11](https://openinventionnetwork.com/linux-system/table-11/)
-        * [Table 12](https://openinventionnetwork.com/linux-system/table-12/)
         
     
 * [Join the OIN Community](https://openinventionnetwork.com/joining-oin/join-now/)
@@ -138,8 +122,6 @@ Search for:
 
 Privacy Policy
 ==============
-
-[Home](https://openinventionnetwork.com/)|Privacy Policy
 
 Privacy Policy[oin-admin](https://openinventionnetwork.com/author/oin-admin/ "Posts by oin-admin")2024-01-17T21:23:38-05:00
 
@@ -189,8 +171,6 @@ This website contains links to other sites. Please be aware that we are not resp
 
 Welcome to our Newest Members!
 
-![Newlink | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/newlink-china-energy-oin-community-member.png)
-
 ![NaaS | OIN Community Member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
 
 ![NaaS | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/04/naas-logo.jpg)
@@ -215,47 +195,51 @@ Welcome to our Newest Members!
 
 ![China Mobile Limited | OIN Community Member](https://openinventionnetwork.com/wp-content/uploads/2024/06/china-mobile-oin-community-member.jpg)
 
+![Fresenius Medical Care | OIN community member](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20250'%3E%3C/svg%3E)
+
+![Fresenius Medical Care | OIN community member](https://openinventionnetwork.com/wp-content/uploads/2024/06/fresenius-medical-care-oin-community-member-1.jpg)
+
 Testimonials
+
+> Since its inception 15 years ago, OIN has provided unprecedented protection to enable the incredible growth and adoption of Linux and other related open source software around the world. As the OIN community has grown to over 3,000 members and the Linux definition has matured, that protection has only grown stronger. IBM and Red Hat have been two of the leading proponents and drivers of Linux and open source software for over 20 years and have been founding members of OIN since its inception.… [Read more](https://openinventionnetwork.com/testimonial/ken-king-openpower-ibm/ "Complete testimonial by Ken King")
+
+Ken KingGeneral ManagerOpenPower at IBM
+
+> Linux is a critical enabler of Guest-Tek’s systems as it helps the company to provide its industry leading solutions to the hospitality industry. By becoming an Open Invention Network licensee, we encourage ongoing Linux development which ensures the continued improvement of our technology and services. This relationship will be very beneficial for Guest-Tek and our customers and partners worldwide.  
+
+Arnon LevyPresident & CEOGuest-Tek
+
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+
+Robert DiCosmoFounder & CEOSoftware Heritage
+
+> We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
+
+Hongyi JiaGeneral CounselKuaishou Group
+
+> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
+
+Norihiro SuzukiVice President and Executive Officer - CTOHitachi
+
+> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
+
+Yandex
+
+> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
+
+Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
 
 > “Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.”  
 
 Lynn WuChief IP CounselByteDance
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
 
-Todd MooreCTO, Developer EcosystemsIBM
+Luke IbbetsonHead of Group R&DVodaphone
 
-> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
-
-Yugo KanazawaChief Digital OfficerLIXIL
-
-> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
-
-Yang JiejingHead of Legal DepartmentUNISOC
-
-> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://openinventionnetwork.com/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
-
-Jim ZemlinExecutive DirectorThe Linux Foundation
-
-> Huawei is committed to offering the highest-quality ICT and smart devices. Linux and OSS are critical elements of technologies we are developing and integrating with carriers and enterprises around the globe. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux and other core open source projects.  
-
-Jianxin DingHead of Global Intellectual PropertyHuawei
-
-> _“Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. … [Read more](https://openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")_
-
-Koichi TsukuiChief Technology Officer, Advantest
-
-> Philips is proud to be a founder of the Open Invention Network. Over the years, OSS has been an important building block for many of our businesses and is increasingly important for the medical and health tech industries. OSS enables faster development of monitoring, imaging, diagnostic, and informatic platforms, while driving down costs. With more than 3,900 community members, OIN is ensuring that OSS innovation continues its rapid pace, in a safe environment enabled by licensing.  
+> Philips is proud to be a founder of the Open Invention Network. Over the years, OSS has been an important building block for many of our businesses and is increasingly important for the medical and health tech industries. OSS enables faster development of monitoring, imaging, diagnostic, and informatic platforms, while driving down costs. With more than 4,000 community members, OIN is ensuring that OSS innovation continues its rapid pace, in a safe environment enabled by licensing.  
 
 Jako EleveldHead of IP LicensingRoyal Philips
-
-> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
-
-Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
-
-> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
-
-Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -327,7 +311,7 @@ This field is for validation purposes and should be left unchanged.
     * [ ]  I agree to join OIN's INSIDER eNews and to receive other relevant OIN communications.
     
 * You may unsubscribe from OIN's communications at any time. For more information on how to unsubscribe, our privacy practices, and how we are committed to protecting and respecting your privacy, please review our [Privacy Policy](https://openinventionnetwork.com/privacy-policy).
-* Phone
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
