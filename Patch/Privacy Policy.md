@@ -104,6 +104,7 @@ Some of the Partners that may use cookies and similar technologies on the Servic
 * Bankrate
 * CBS Local
 * Clipcentric
+* Comscore
 * Cordless
 * [Criteo](http://www.criteo.com/privacy/)
 * [Facebook Audience Network](https://www.facebook.com/audiencenetwork/solutions)
