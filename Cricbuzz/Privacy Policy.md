@@ -8,7 +8,7 @@
 
 [Series](https://www.cricbuzz.com/cricket-schedule/series)
 
-[ICC Mens T20 World Cup 2024](https://www.cricbuzz.com/cricket-series/7476/icc-mens-t20-world-cup-2024 "ICC Mens T20 World Cup 2024") [Indian Premier League 2024](https://www.cricbuzz.com/cricket-series/7607/indian-premier-league-2024 "Indian Premier League 2024") [India tour of Zimbabwe, 2024](https://www.cricbuzz.com/cricket-series/7546/india-tour-of-zimbabwe-2024 "India tour of Zimbabwe, 2024") [T20 Blast 2024](https://www.cricbuzz.com/cricket-series/7336/t20-blast-2024 "T20 Blast 2024") [Major League Cricket 2024](https://www.cricbuzz.com/cricket-series/8098/major-league-cricket-2024 "Major League Cricket 2024") [The Hundred Mens Competition 2024](https://www.cricbuzz.com/cricket-series/7525/the-hundred-mens-competition-2024 "The Hundred Mens Competition 2024") [West Indies tour of England, 2024](https://www.cricbuzz.com/cricket-series/6780/west-indies-tour-of-england-2024 "West Indies tour of England, 2024") [South Africa Women tour of India, 2024](https://www.cricbuzz.com/cricket-series/8069/south-africa-women-tour-of-india-2024 "South Africa Women tour of India, 2024") [Womens Asia Cup T20, 2024](https://www.cricbuzz.com/cricket-series/7765/womens-asia-cup-t20-2024 "Womens Asia Cup T20, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series)
+[Major League Cricket 2024](https://www.cricbuzz.com/cricket-series/8098/major-league-cricket-2024 "Major League Cricket 2024") [India tour of Zimbabwe, 2024](https://www.cricbuzz.com/cricket-series/7546/india-tour-of-zimbabwe-2024 "India tour of Zimbabwe, 2024") [Lanka Premier League, 2024](https://www.cricbuzz.com/cricket-series/7873/lanka-premier-league-2024 "Lanka Premier League, 2024") [West Indies tour of England, 2024](https://www.cricbuzz.com/cricket-series/6780/west-indies-tour-of-england-2024 "West Indies tour of England, 2024") [Tamil Nadu Premier League 2024](https://www.cricbuzz.com/cricket-series/7862/tamil-nadu-premier-league-2024 "Tamil Nadu Premier League 2024") [The Hundred Mens Competition 2024](https://www.cricbuzz.com/cricket-series/7525/the-hundred-mens-competition-2024 "The Hundred Mens Competition 2024") [T20 Blast 2024](https://www.cricbuzz.com/cricket-series/7336/t20-blast-2024 "T20 Blast 2024") [India tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/8528/india-tour-of-sri-lanka-2024 "India tour of Sri Lanka, 2024") [South Africa tour of West Indies, 2024](https://www.cricbuzz.com/cricket-series/8238/south-africa-tour-of-west-indies-2024 "South Africa tour of West Indies, 2024") [Womens Asia Cup T20, 2024](https://www.cricbuzz.com/cricket-series/7765/womens-asia-cup-t20-2024 "Womens Asia Cup T20, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series)
 
 [Teams](https://www.cricbuzz.com/cricket-team)
 
@@ -48,504 +48,367 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs ENG - RSA Won](https://www.cricbuzz.com/live-cricket-scores/87808/rsa-vs-eng-45th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "South Africa v England, 45th Match, Super 8 Group 2 - RSA Won")[USA vs WI - Preview](https://www.cricbuzz.com/live-cricket-scores/87815/usa-vs-wi-46th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v West Indies, 46th Match, Super 8 Group 2 - Preview")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/87822/ind-vs-ban-47th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Bangladesh, 47th Match, Super 8 Group 1 - Preview")[BAN vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/87801/ban-vs-aus-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Bangladesh v Australia, 44th Match, Super 8 Group 1 - AUS Won")[IND vs AFG - IND Won](https://www.cricbuzz.com/live-cricket-scores/87794/ind-vs-afg-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Afghanistan, 43rd Match, Super 8 Group 1 - IND Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SFU vs MINY - SFU Won](https://www.cricbuzz.com/live-cricket-scores/94993/sfu-vs-miny-16th-match-major-league-cricket-2024 "San Francisco Unicorns v MI New York, 16th Match - SFU Won")[ENG vs WI - Stumps](https://www.cricbuzz.com/live-cricket-scores/76493/eng-vs-wi-2nd-test-west-indies-tour-of-england-2024 "England v West Indies, 2nd Test - Stumps")[TSK vs WAF - Preview](https://www.cricbuzz.com/live-cricket-scores/95002/tsk-vs-waf-17th-match-major-league-cricket-2024 "Texas Super Kings v Washington Freedom, 17th Match - Preview")[INDW vs PAKW - Preview](https://www.cricbuzz.com/live-cricket-scores/91915/indw-vs-pakw-2nd-match-group-a-womens-asia-cup-t20-2024 "India Women v Pakistan Women, 2nd Match, Group A - Preview")[CLS vs KFS - KFS Won](https://www.cricbuzz.com/live-cricket-scores/93110/cls-vs-kfs-eliminator-lanka-premier-league-2024 "Colombo Strikers v Kandy Falcons, Eliminator - KFS Won")
 
 AllLive NowToday
 
 * INTERNATIONAL
     
-    ICC Mens T20 World Cup 2024
+    England v West Indies, 2024
     
-    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/87787/wi-vs-eng-42nd-match-super-8-group-2-icc-mens-t20-world-cup-2024 "West Indies v England, 42nd Match, Super 8 Group 2 - ENG Won")
+    [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/76493/eng-vs-wi-2nd-test-england-v-west-indies-2024 "England v West Indies, 2nd Test - Stumps")
     
-    42nd Match, Super 8 Group 2
+    2nd Test
     
-* [India vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/87794/ind-vs-afg-43rd-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Afghanistan, 43rd Match, Super 8 Group 1 - IND Won")
+* ICC CWC League Two 2023-27
     
-    43rd Match, Super 8 Group 1
+    [Oman vs Namibia](https://www.cricbuzz.com/live-cricket-scores/94287/oman-vs-nam-14th-match-icc-cwc-league-two-2023-27 "Oman v Namibia, 14th Match - Complete")
     
-* [Bangladesh vs Australia](https://www.cricbuzz.com/live-cricket-scores/87801/ban-vs-aus-44th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Bangladesh v Australia, 44th Match, Super 8 Group 1 - AUS Won")
+    14th Match
     
-    44th Match, Super 8 Group 1
+* [Scotland vs Namibia](https://www.cricbuzz.com/live-cricket-scores/94296/sco-vs-nam-15th-match-icc-cwc-league-two-2023-27 "Scotland v Namibia, 15th Match - Upcoming")
     
-* [South Africa vs England](https://www.cricbuzz.com/live-cricket-scores/87808/rsa-vs-eng-45th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "South Africa v England, 45th Match, Super 8 Group 2 - RSA Won")
+    15th Match
     
-    45th Match, Super 8 Group 2
+* Kenya v Nigeria 2024
     
-* [United States vs West Indies](https://www.cricbuzz.com/live-cricket-scores/87815/usa-vs-wi-46th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v West Indies, 46th Match, Super 8 Group 2 - Preview")
+    [Nigeria vs Kenya](https://www.cricbuzz.com/live-cricket-scores/101498/nga-vs-ken-5th-t20i-kenya-v-nigeria-2024 "Nigeria v Kenya, 5th T20I - KEN Won")
     
-    46th Match, Super 8 Group 2
-    
-* [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/87822/ind-vs-ban-47th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "India v Bangladesh, 47th Match, Super 8 Group 1 - Preview")
-    
-    47th Match, Super 8 Group 1
-    
-* [Afghanistan vs Australia](https://www.cricbuzz.com/live-cricket-scores/87829/afg-vs-aus-48th-match-super-8-group-1-icc-mens-t20-world-cup-2024 "Afghanistan v Australia, 48th Match, Super 8 Group 1 - Upcoming")
-    
-    48th Match, Super 8 Group 1
-    
-* [United States vs England](https://www.cricbuzz.com/live-cricket-scores/87836/usa-vs-eng-49th-match-super-8-group-2-icc-mens-t20-world-cup-2024 "United States v England, 49th Match, Super 8 Group 2 - Upcoming")
-    
-    49th Match, Super 8 Group 2
+    5th T20I
     
 * T20 LEAGUE
     
-    T20 Blast
+    MLC 2024
     
-    [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/84742/glam-vs-gloucs-south-group-t20-blast "Glamorgan v Gloucestershire, South Group - GLOUCS Won")
+    [Seattle Orcas vs Los Angeles Knight Riders](https://www.cricbuzz.com/live-cricket-scores/94989/sor-vs-lakr-15th-match-mlc-2024 "Seattle Orcas v Los Angeles Knight Riders, 15th Match - LAKR Won")
     
-    South Group
+    15th Match
     
-* [Surrey vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/84728/sur-vs-mdx-south-group-t20-blast "Surrey v Middlesex, South Group - SUR Won")
+* [San Francisco Unicorns vs MI New York](https://www.cricbuzz.com/live-cricket-scores/94993/sfu-vs-miny-16th-match-mlc-2024 "San Francisco Unicorns v MI New York, 16th Match - SFU Won")
     
-    South Group
+    16th Match
     
-* [Sussex vs Kent](https://www.cricbuzz.com/live-cricket-scores/84763/sus-vs-kent-south-group-t20-blast "Sussex v Kent, South Group - SUS Won")
+* [Texas Super Kings vs Washington Freedom](https://www.cricbuzz.com/live-cricket-scores/95002/tsk-vs-waf-17th-match-mlc-2024 "Texas Super Kings v Washington Freedom, 17th Match - Preview")
     
-    South Group
+    17th Match
     
-* [Hampshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/84756/ham-vs-ess-south-group-t20-blast "Hampshire v Essex, South Group - ESS Won")
+* [San Francisco Unicorns vs Seattle Orcas](https://www.cricbuzz.com/live-cricket-scores/95007/sfu-vs-sor-18th-match-mlc-2024 "San Francisco Unicorns v Seattle Orcas, 18th Match - Upcoming")
     
-    South Group
+    18th Match
     
-* [Warwickshire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/84749/warks-vs-nhnts-north-group-t20-blast "Warwickshire v Northamptonshire, North Group - WARKS Won")
+* LPL 2024
+    
+    [Jaffna Kings vs Galle Marvels](https://www.cricbuzz.com/live-cricket-scores/93108/jks-vs-gam-qualifier-1-lpl-2024 "Jaffna Kings v Galle Marvels, Qualifier 1 - GAM Won")
+    
+    Qualifier 1
+    
+* [Colombo Strikers vs Kandy Falcons](https://www.cricbuzz.com/live-cricket-scores/93110/cls-vs-kfs-eliminator-lpl-2024 "Colombo Strikers v Kandy Falcons, Eliminator - KFS Won")
+    
+    Eliminator
+    
+* [Jaffna Kings vs Kandy Falcons](https://www.cricbuzz.com/live-cricket-scores/93112/jks-vs-kfs-qualifier-2-lpl-2024 "Jaffna Kings v Kandy Falcons, Qualifier 2 - Upcoming")
+    
+    Qualifier 2
+    
+* TNPL 2024
+    
+    [IDream Tiruppur Tamizhans vs Dindigul Dragons](https://www.cricbuzz.com/live-cricket-scores/92626/itt-vs-dgd-16th-match-tnpl-2024 "IDream Tiruppur Tamizhans v Dindigul Dragons, 16th Match - DGD Won")
+    
+    16th Match
+    
+* [Chepauk Super Gillies vs Salem Spartans](https://www.cricbuzz.com/live-cricket-scores/92633/csg-vs-slst-17th-match-tnpl-2024 "Chepauk Super Gillies v Salem Spartans, 17th Match - CSG Won")
+    
+    17th Match
+    
+* [Trichy Grand Cholas vs Nellai Royal Kings](https://www.cricbuzz.com/live-cricket-scores/92640/trichy-vs-nrk-18th-match-tnpl-2024 "Trichy Grand Cholas v Nellai Royal Kings, 18th Match - Upcoming")
+    
+    18th Match
+    
+* T20 Blast
+    
+    [Nottinghamshire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/85106/notts-vs-lancs-north-group-t20-blast "Nottinghamshire v Lancashire, North Group - LANCS Won")
     
     North Group
     
-* [Yorkshire vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84735/yorks-vs-lancs-north-group-t20-blast "Yorkshire v Lancashire, North Group - YORKS Won")
+* [Worcestershire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85113/worcs-vs-derby-north-group-t20-blast "Worcestershire v Derbyshire, North Group - Complete")
     
     North Group
     
-* [Worcestershire vs Warwickshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84770/worcs-vs-warks-north-group-t20-blast "Worcestershire v Warwickshire, North Group - Live")
-    
-    North Group
-    
-* [Somerset vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/84784/som-vs-gloucs-south-group-t20-blast "Somerset v Gloucestershire, South Group - Ings Break")
+* [Gloucestershire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85141/gloucs-vs-mdx-south-group-t20-blast "Gloucestershire v Middlesex, South Group - Complete")
     
     South Group
     
-* [Durham vs Yorkshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84777/dur-vs-yorks-north-group-t20-blast "Durham v Yorkshire, North Group - Live")
-    
-    North Group
-    
-* [Northamptonshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/84812/nhnts-vs-leic-north-group-t20-blast "Northamptonshire v Leicestershire, North Group - Ings Break")
-    
-    North Group
-    
-* [Nottinghamshire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/84805/notts-vs-derby-north-group-t20-blast "Nottinghamshire v Derbyshire, North Group - Ings Break")
-    
-    North Group
-    
-* [Glamorgan vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84798/glam-vs-sur-south-group-t20-blast "Glamorgan v Surrey, South Group - Ings Break")
+* [Sussex vs Somerset](https://www.cricbuzz.com/live-cricket-scores/85134/sus-vs-som-south-group-t20-blast "Sussex v Somerset, South Group - SOM Won")
     
     South Group
     
-* [Kent vs Essex](https://www.cricbuzz.com/live-cricket-scores/84791/kent-vs-ess-south-group-t20-blast "Kent v Essex, South Group - Ings Break")
+* [Northamptonshire vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/85127/nhnts-vs-warks-north-group-t20-blast "Northamptonshire v Warwickshire, North Group - Complete")
+    
+    North Group
+    
+* [Hampshire vs Surrey](https://www.cricbuzz.com/live-cricket-scores/85120/ham-vs-sur-south-group-t20-blast "Hampshire v Surrey, South Group - SUR Won")
     
     South Group
     
-* [Sussex vs Hampshire  LIVE](https://www.cricbuzz.com/live-cricket-scores/84819/sus-vs-ham-south-group-t20-blast "Sussex v Hampshire, South Group - Live")
+* [Hampshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/85169/ham-vs-ess-south-group-t20-blast "Hampshire v Essex, South Group - Preview")
     
     South Group
     
-* DOMESTIC
+* [Sussex vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/85162/sus-vs-mdx-south-group-t20-blast "Sussex v Middlesex, South Group - Preview")
     
-    County Division 1
+    South Group
     
-    [Nottinghamshire vs Somerset](https://www.cricbuzz.com/live-cricket-scores/84359/notts-vs-som-38th-match-county-division-1 "Nottinghamshire v Somerset, 38th Match - Upcoming")
+* [Lancashire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85155/lancs-vs-nhnts-north-group-t20-blast "Lancashire v Northamptonshire, North Group - Preview")
     
-    38th Match
+    North Group
     
-* [Kent vs Lancashire](https://www.cricbuzz.com/live-cricket-scores/84352/kent-vs-lancs-37th-match-county-division-1 "Kent v Lancashire, 37th Match - Upcoming")
+* [Glamorgan vs Somerset](https://www.cricbuzz.com/live-cricket-scores/85148/glam-vs-som-south-group-t20-blast "Glamorgan v Somerset, South Group - Preview")
     
-    37th Match
+    South Group
     
-* [Essex vs Durham](https://www.cricbuzz.com/live-cricket-scores/84348/ess-vs-dur-36th-match-county-division-1 "Essex v Durham, 36th Match - Upcoming")
+* [Warwickshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/95854/warks-vs-leic-north-group-t20-blast "Warwickshire v Leicestershire, North Group - Preview")
     
-    36th Match
+    North Group
     
-* [Worcestershire vs Surrey](https://www.cricbuzz.com/live-cricket-scores/84369/worcs-vs-sur-40th-match-county-division-1 "Worcestershire v Surrey, 40th Match - Upcoming")
+* [Derbyshire vs Durham](https://www.cricbuzz.com/live-cricket-scores/85197/derby-vs-dur-north-group-t20-blast "Derbyshire v Durham, North Group - Preview")
     
-    40th Match
+    North Group
     
-* [Warwickshire vs Hampshire](https://www.cricbuzz.com/live-cricket-scores/84366/warks-vs-ham-39th-match-county-division-1 "Warwickshire v Hampshire, 39th Match - Upcoming")
+* [Yorkshire vs Nottinghamshire](https://www.cricbuzz.com/live-cricket-scores/85183/yorks-vs-notts-north-group-t20-blast "Yorkshire v Nottinghamshire, North Group - Preview")
     
-    39th Match
+    North Group
     
-* County Division 2
+* [Kent vs Surrey](https://www.cricbuzz.com/live-cricket-scores/85176/kent-vs-sur-south-group-t20-blast "Kent v Surrey, South Group - Preview")
     
-    [Yorkshire vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/85440/yorks-vs-gloucs-32nd-match-county-division-2 "Yorkshire v Gloucestershire, 32nd Match - Upcoming")
-    
-    32nd Match
-    
-* [Sussex vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/85437/sus-vs-leic-31st-match-county-division-2 "Sussex v Leicestershire, 31st Match - Upcoming")
-    
-    31st Match
-    
-* [Middlesex vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/85433/mdx-vs-derby-30th-match-county-division-2 "Middlesex v Derbyshire, 30th Match - Upcoming")
-    
-    30th Match
-    
-* [Glamorgan vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85430/glam-vs-nhnts-29th-match-county-division-2 "Glamorgan v Northamptonshire, 29th Match - Upcoming")
-    
-    29th Match
+    South Group
     
 * WOMEN
     
-    India Women v South Africa Women, 2024
+    Womens Asia Cup
     
-    [India Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94505/indw-vs-rsaw-3rd-odi-icc-championship-match-india-women-v-south-africa-women-2024 "India Women v South Africa Women, 3rd ODI (ICC Championship Match) - Upcoming")
+    [United Arab Emirates Women vs Nepal Women](https://www.cricbuzz.com/live-cricket-scores/91911/uaew-vs-nepw-1st-match-group-a-womens-asia-cup "United Arab Emirates Women v Nepal Women, 1st Match, Group A - Preview")
     
-    3rd ODI (ICC Championship Match)
+    1st Match, Group A
     
-* Sri Lanka Women v West Indies Women
+* [India Women vs Pakistan Women](https://www.cricbuzz.com/live-cricket-scores/91915/indw-vs-pakw-2nd-match-group-a-womens-asia-cup "India Women v Pakistan Women, 2nd Match, Group A - Preview")
     
-    [Sri Lanka Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/96269/slw-vs-wiw-3rd-odi-icc-championship-match-sri-lanka-women-v-west-indies-women "Sri Lanka Women v West Indies Women, 3rd ODI (ICC Championship Match) - SLW Won")
+    2nd Match, Group A
     
-    3rd ODI (ICC Championship Match)
+* [Malaysia Women vs Thailand Women](https://www.cricbuzz.com/live-cricket-scores/91924/mlyw-vs-thaiw-3rd-match-group-b-womens-asia-cup "Malaysia Women v Thailand Women, 3rd Match, Group B - Upcoming")
+    
+    3rd Match, Group B
+    
+* [Sri Lanka Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/91933/slw-vs-banw-4th-match-group-b-womens-asia-cup "Sri Lanka Women v Bangladesh Women, 4th Match, Group B - Upcoming")
+    
+    4th Match, Group B
+    
+* ENGW v NZW, 2024
+    
+    [England Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/76675/engw-vs-nzw-5th-t20i-engw-v-nzw-2024 "England Women v New Zealand Women, 5th T20I - ENGW Won")
+    
+    5th T20I
     
 
 Privacy Policy
---------------
+==============
 
-Last Update: \[21-03-2024\]
+### Introduction
 
-You can see our previous Privacy Policy [here](https://cricbuzz.com/info/privacy-old).
+TIMES INTERNET LTD, ("CricBuzz") having its registered office at Express Building, 9-10, Bahadurshah Zafar Marg, New Delhi - 110002, India. CIN: U64202DL2004PTC349760, PAN: AAFCA4337A, GSTIN: 27AAFCA4337A1Z5
 
-This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our policies and procedures regarding the collection, use and disclosure of the information we receive when you access and use the website (the “**Site**”), services, software, mobile applications, content, and all other products and services (all of the foregoing collectively, the “**Services**”) referencing this Privacy Policy. We are TIMES INTERNET LTD, with offices at Regd. Office:Express Building, 9-10, Bahadurshah Zafar Marg, New Delhi - 110002, India. CIN: U64202DL2004PTC349760, PAN: AAFCA4337A, GSTIN: 27AAFCA4337A1Z5; Corp. Office: No. 190-B, 2nd Floor, HN Plaza,100 Ft Ring road, 6th Main, BSK 3rd Stage, Bangalore - 560085, INDIA, Phone : 080-26790623 . With respect to the Services, we are the data controller. We believe that the privacy of our users is paramount and strive to use Personal Information (as defined below) only in ways outlined in this Privacy Policy. The Privacy Policy is incorporated by reference into our Terms of Service, currently available here (the “**Terms of Service**”). Any terms used herein and not defined will have the meanings given to them in the Terms of Service.
+This Privacy Policy is a part of the [Terms and Conditions](https://www.cricbuzz.com/info/termsofuse) and all terms defined in the Terms and Conditions have the same meaning used here in this Privacy Policy.
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY TO UNDERSTAND HOW WE HANDLE YOUR INFORMATION. BY USING THE SERVICES, YOU HEREBY WARRANT AND REPRESENT THAT YOU HAVE READ, UNDERSTAND AND AGREE TO THIS PRIVACY POLICY AND THE TERMS OF SERVICE, THAT YOU ARE A RESIDENT OF THE UNITED STATES OR CANADA AND THAT YOU ARE OVER 16 YEARS OF AGE.**
+This Privacy Policy statement shall apply to all users who visit and access Cricbuzz's website and mobile application (collectively referred to as "Website"). The users unconditionally agree that browsing the Website and/or using its services signifies their unconditional assent to this Privacy Policy.
 
-**PLEASE DO NOT USE, INSTALL OR ACCESS THE SERVICES IF YOU DO NOT AGREE TO THIS PRIVACY POLICY.**
+Cricbuzz/we respect the privacy of it's users and is committed to protect it in all respects. Any dispute with Cricbuzz over privacy matters are subject to this Privacy Policy read in conjunction with the Terms and Conditions.
 
-1. #### What We Mean by Personal Information
-    
-    For purposes of this Privacy Policy, “Personal Information” means any information from or about a person that either identifies that person directly or that makes that person identifiable when it is combined with other information from or about that person from any source.
-    
-2. #### Information We Collect
-    
-    **Information You Provide To Us**
-    
-    When you use the Services or otherwise communicate with us, we collect any and all information that you provide to us directly. For example, we collect information in the following circumstances: you (i) use our Site or App, (ii) register for the Services or create an account or profile or accept the creation of an account or profile on your behalf (an “Account”), (iii) access the Services through social networking sites or third party services, (iv) subscribe to newsletters; (v) purchase a product or service on the Site or in our App; (vi) invite your friends to join the Services, “share” the Services on social networking sites or perform other similar actions; (vii) request technical support; (viii) otherwise use our App or online Services where Personal Information is required for such use and/or participation, (ix) when you sign up for a newsletter, and (x) when you contact us via the Site, App or when you otherwise communicate with us. You can choose not to provide information that is requested of you by us; however, this may limit your ability to use or access the Services.
-    
-    The information you provide to us directly may include, without limitation, the following information that may, alone or in combination with other data, constitute Personal Information:
-    
-    * Information you provide in connection with creating an account, subscribing to our Services, or completing a transaction or purchase using the Services, including your name, e-mail address, phone number, postal address, age or date of birth, gender, username, password, location, pin code or area code, and any other information you decide to provide;
-    * Information you provide via email, through the “Contact Us” section on the Site or App or by using the contact details listed on various parts of the Site or App, including your name, company name, e-mail, phone number, inquiry, and any other information you decide to provide;
-    * Information you provide in order to subscribe to our newsletters and updates, including your email address, the topic for which you wish to receive updates, or any other information you decide to provide us with. You may opt out of receiving updates and other emails from us at any time by following the unsubscribe instructions in the applicable email or by contacting us using the contact information provided below under “Contacting Us.” Note that, even if you opt out of receiving promotional communications from Cricbuzz, you may still receive administrative communications from us with respect to your use of the Services;
-    * Information you provide in order to apply for a position or opportunity with us, including your name, contact information, your resume, job application, or related materials. We may use that information to evaluate your qualifications and consider or respond to your inquiry or application. Your submission of a resume, job application, or related information does not in any way require Cricbuzz to review that information or consider you for employment;
-    * If you are one of our customers, suppliers or prospects, we may process limited Personal Information in the course of our business relation with you, for example when you request a demo or vice versa. Such Personal Information may include your name, company, title, e-mail address, telephone number, postal address, order details, and where applicable and relevant, credit registrations and credit limits;
-    * Transaction and limited (non-PCI) payment data. Payments submitted in connection with the Subscription and any other expenses must be paid through third party payment processing systems (“PSP”). Such PSPs may include, without limitation, Stripe, iTunes, Google Play, Roku, or Amazon Fire TV. The PSP will use your payment-related information in accordance with its privacy policy. We encourage you to review the PSPs posted terms and privacy policies. This Privacy Policy does not apply to such third party’s collection and use of your information.; and
-    * Any other information you may want to share with us, such as Personal Information related to recruitment / job applications.
-    
-    Moreover, if you contact us, a record of such correspondence may be kept.
-    
-    Additionally, if another user refers you to us by providing us with your e-mail address, we may send you a message. However, we will use your e-mail address only to send such other user’s message unless you otherwise affirmatively provide your information to us.
-    
-    You can choose not to provide Cricbuzz with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of the Services.
-    
-    **Automatically Collected Information**
-    
-    Most of the data we collect in and through the Site, App and the Services is technical in nature and is collected and processed automatically through so-called application programming interfaces, software development kits, cookies and similar software-based technologies. Alone or in combination with other data, such automatically collected data may constitute Personal Information. The data we may collect by automated means may include, without limitation:
-    
-    * Device Data and other Technical Information: including, but not limited to, data and information about your hardware, operating system, browser type, browser settings, your mobile carrier, or internet service provider, and unique ID’s and identifiers associated with your device, including IP address, and location data.
-    * Usage and Viewing Data: including, but not limited to, videos and programming viewed or streamed, webpages, apps and ads you see and interact with, search terms entered, mouse clicks, mouse movements, page scrolling, and pages viewed.
-    * Network and Internet Information: including, but not limited to, URLs, Internet Protocol addresses, bounce rates, use of spoofing, active (TCP/IP) ports, number of sessions initiated, click streams, location information and network/Wi-Fi access points.
-    * Information we collect on the use of the Site via cookies: please see the “How We Use Cookies and Other Technologies” section below for more information.
-    
-    We may use, depending on the Services, (i) location based on the IP address presented by you and (ii) network-based geo-location data based on proximity of network towers or the location of Wi-Fi networks. Please note that disabling location service will not anonymize data already collected and uploaded to our servers.
-    
-    **Analytics**
-    
-    The Services may use third-party analytics tools (e.g., Google Analytics) to collect and process data about your use of the Services, including when you visit the Website, URLs of the websites that you visit prior to visiting the Services and when you visit those websites, and IP addresses assigned to the devices from where you access the Internet. Our analytics providers may set and read cookies to collect this data and your web browser will automatically send data collected by those cookies to our analytics providers. Our analytics providers use this data to provide us with reports that we will use to improve the Services’ structure and content.
-    
-    For more information on how Google uses this data, visit Google’s Privacy Policy and Google’s page on How Google uses data when you use our partners' sites or apps. To prevent this data from being used by Google Analytics, follow the instructions to download and install the Google Analytics Opt-out Browser Add-on for each browser you use. Using the Google Analytics Opt-out Browser Add-on will not prevent us from using other analytics tools and will not prevent data from being sent to the Services itself or to Google. For more information about how Google Analytics uses cookies to measure user interactions on websites, visit Google Analytics Cookie Usage on Websites. You may disable cookies as discussed below, but that may impact your use and enjoyment of the Services.
-    
-    **Advertising Networks, Personalized Advertising, Remarketing & Retargeting**
-    
-    From time to time the Services may use or participate in advertising networks and related advertising services that are managed and provided by third-party advertising servers, advertising agencies, technology vendors, or research firms.
-    
-    These services collect information about your visits to and interactions with the Services and other websites and will use that information to target advertisements for goods and services and to display those advertisements on other websites. The information collected may be associated with your personal information.
-    
-    Advertising networks often gather data about consumers who view advertisements to make inferences about a consumer’s interests and preferences, which enables their computers to deliver advertisements directly targeted to the consumer’s specific interests. This practice is often referred to as “online behavioral advertising.” For example, a third-party advertising network might collect the type of web browser you use, the type of computer operating system you use, the domain name of a website you visit, whether or not you visit specific pages of the website and other websites, the location of your Internet service provider, the date and time of a visit to a website, and other interactions between you and a website.
-    
-    We use Google Analytics and Campaign Manager advertising features on our Services, which we use for the purposes set forth in this Privacy Policy. Through Google Analytics and Campaign Manager, Google uses your Internet searches, cookies, and similar identifiers (e.g., pixel tags) to collect information about your visits to the Services and your interaction with our products and services to generate targeted advertisements to you on other websites that you visit across the Internet.
-    
-    To opt out of remarketing advertising provided through Google, to customize your ad preferences, or to limit Google’s collection or use this information, visit Google’s Safety Center and Google’s Ad Settings and follow Google’s personalized ad opt-out instructions. Opting out will not affect your use of the Site.
-    
-    We may also use the advertising services and networks offered by social media platforms to deliver advertising content. Use of these services requires social media platforms to implement cookies or pixel tags to deliver ads to you while you are logged into the applicable social media platformIf you do not want social media platforms (e.g., Facebook, Instagram, X, etc.) to collect information relating to you via the Services or to link information collected via the Services to your social media accounts, we suggest that you: (a) do not connect to or share information with social media platforms using the Services; (b) hide social media platform plug-ins using an ad blocker; (c) always log off completely from social media platforms before visiting the Services or other websites and delete all related cookies; and, (d) where the option is made available by a social media platform, disable the advertising services and networks operated by that platform.
-    
-    **To change your preferences with respect to certain online ads and to obtain more information about third-party ad networks and online behavioral advertising, please visit the National Advertising Initiative Consumer opt-out page or the Digital Advertising Alliance Self-Regulatory Program.**Please remember that changing your settings with individual web browsers or ad networks will not necessarily carry over to other browsers or ad networks. As a result, depending on the opt-outs you request, you may still see our ads from time to time. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
-    
-    **Information You Post on the Services**
-    
-    We will collect all data, information, and other content that you enter into, submit to, upload to, or transmit using our Services. The Services may provide chat, forum or bulletin board tools to users and or other customized profile and Account information. You are responsible for any and all text, images, video, audio, comments, data, information, and other content and material that you submit, create, post, upload, embed, display, communicate, distribute, or transmit using our Services and all such content and material are provided at your own risk. This includes any content or material provided that is intended to be made accessible or viewable by other users of our Services, including, as applicable, the general public. We cannot guarantee that such user-generated content will not be viewed by unauthorized persons. Cricbuzz has no obligation to keep private any user-generated content that you disclose to other users or the public using these functions. You understand that, even after removal, copies of user-generated content you have provided may remain viewable in cached and archived pages and may have been copied or stored by Internet archives and other users of the Services. Cricbuzz will make user-generated content available to other users of the Services and to the public, as applicable, and will use and disclose user-generated content for the purpose for which it was provided (including as may be indicated at the point of collection).
-    
-    You should exercise caution when deciding to disclose Personal Information through the use of these tools or functions. We strongly recommend that you do not post any information through the Services that allows strangers to identify or locate you or that you otherwise do not want to share with the public.
-    
-    **Information You Share on Third Party Websites or through Social Media Platforms**
-    
-    The Services may include links to third party websites and social media platforms where you will be able to post comments, stories, reviews, images, recordings or other information. Your use of these third party websites and social media services may result in the collection or sharing of information about you by these third party websites and social media platforms, whether through cookies, registration information, or otherwise. Third party websites and social media platforms may track your online activity even when you do not choose to interact with the website, social media platform or its widgets or other features. We encourage you to review the privacy policies and settings on the third party websites and social media platforms with which you use or interact to make sure you understand the information that may be collected, used, and shared by those third party websites and social media platforms, as those websites and platforms’ respective privacy policies will govern their collection, use, and disclosure of information they collect from you. Cricbuzz cannot control any policies or terms of such third-party websites or platforms. As a result, we cannot be responsible for any use or disclosure of your information of content by third party websites or platforms, which you use at your own risk.
-    
-    You hereby acknowledge that Cricbuzz makes no guarantee that exercising the foregoing options is guaranteed to prevent applicable third-party websites and social media platforms from tracking you and, further, you acknowledge that Cricbuzz is not responsible for a third party website or social media platform’s tracking of you.
-    
-    **How We Use Cookies and Other Technologies**
-    
-    Some of the features on the Site and App, and the Services, require the use of “cookies” - small text files or code that are stored on your device’s hard drive, browser or device to help websites remember you and collect information about your use of the website or services. We use cookies to measure which pages are being accessed, and which features are most frequently used. This enables us to continuously improve the Site and App to meet the needs of our visitors.
-    
-    The following sets out how we may use different categories of cookies and your options for managing cookie settings:
-    
-    | Type of Cookies | Description | Managing Settings |
-    | --- | --- | --- |
-    | **Required cookies** | Required cookies enable you to navigate the Site and/or App and use their features, such as accessing secure areas of the Site and /or App and using the Services. If you have chosen to identify yourself to us, we use cookies containing encrypted information to allow us to uniquely identify you. These cookies allow us to uniquely identify you when you are logged into the Site and to process your online transactions and requests. | Because required cookies are essential to operate the Site and/or App, there is no option to opt out of these cookies. |
-    | **Performance cookies** | These cookies collect information about how you use our Site and/or App, including which pages you go to most often and if they receive error messages from certain pages. These cookies do not collect information that individually identifies you. Information is only used to improve how the Site and/or App functions and performs. From time-to-time, we may engage third parties to track and analyze usage and volume statistical information relating to individuals who visit the Site and/or App. We may also utilize Flash cookies for these purposes. | To learn how to opt out of performance cookies using your browser settings, [click here](https://www.aboutcookies.org.uk/managing-cookies). To learn how to manage privacy and storage settings for Flash cookies, [click here](https://www.privacypolicyonline.com/flash-cookies/). |
-    | **Functionality cookies** | Functionality cookies allow our Site and/or App to remember information you have entered or choices you make (such as your username, password, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Site and/or App after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. We may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on the Site and/or App to personalize your visit. | To learn how to opt out of functionality cookies using your browser settings, [click here](https://www.aboutcookies.org.uk/managing-cookies). To learn how to manage privacy and storage settings for Flash cookies, [click here](https://www.privacypolicyonline.com/flash-cookies/). |
-    | **Targeting or advertising cookies** | From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit the Site. We sometimes use cookies delivered by third parties to track the performance of our advertisements. For example, these cookies remember which browsers have visited the Site. By way of example, as you browse the Site, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with the Site. Third parties, with whom we partner to provide certain features on the Site or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. | To learn more about these and other advertising networks and their opt out instructions, [click here](https://www.aboutcookies.org.uk/managing-cookies). To learn how to manage privacy and storage settings for Flash cookies, [click here](https://www.privacypolicyonline.com/flash-cookies/). |
-    
-    We and our service providers may also use “pixel tags,” “web beacons,” “clear GIFs,” or similar tracking technologies in connection with the Services and HTML-formatted email messages to, among other things, track the actions of users, to determine the success of marketing campaigns and to compile aggregate statistics about Site usage and response rates. Our advertisement partners may use a “pixel tag” or “beacon,” which can be embedded in web pages, videos, or emails, to collect certain types of information from your browser or device, check whether you have viewed a particular web page, ad, or email message and determine, among other things, the time and date on which you viewed the content, the IP address of your computer, and the URL of the web page from which the content was viewed.
-    
-    We may use or work with third parties including our business partners and service providers who use mobile SDKs to collect information, such as advertising identifiers (e.g., “ad-ID” or “IDFA”) and information related to how mobile devices interact with Services. A mobile SDK is akin to the mobile app version of the pixel tag or beacon discussed above. We may use this technology, for example, to analyze how you interact with the content and ads and to enable analytics or other features through mobile devices.
-    
-    For more information about cookies, including about advertising cookies and your choices regarding cookies, we recommend visiting the following websites: https://www.consumer.ftc.gov/articles/0042-online-tracking and http://www.allaboutcookies.org.
-    
-3. #### Use of Collected Information
-    
-    We use the information you provide to us for the following purposes: (i) to further our legitimate interests in providing the Services, including without limitation, to collect and remit payment for paid features, (ii) to administer your use of the Services and any Accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you Service announcements or inform you of new releases and features, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, (vi) to perform tasks on behalf of and according to instructions of a third party, such as payment processors, third party-service providers or our advertising partners, (vii) to enforce our Terms of Service, (viii) to resolve any disputes between users of the Site and/or App or between such users and us, (ix) comply with applicable law, or a legal or regulatory requirement, request or process, including, but not limited to, civil and criminal subpoenas, court orders, law enforcement requests, governmental agency requests, emergency services, or other compulsory disclosures; (x) to further our legitimate interest in protecting our rights, property, safety, and security and the rights, property safety and security of the Services, our users or the public, (xi) to model, segment, offer market and advertise our Services, and (xii) to contact you to obtain feedback from you regarding the Site and/or App and the Services.
-    
-4. #### Use of Collected Information
-    
-    We use the information you provide to us for the following purposes: (i) to further our legitimate interests in providing the Services, including without limitation, to collect and remit payment for paid features, (ii) to administer your use of the Services and any Accounts you may have with us, (iii) to personalize your experience, (iv) to provide to you Service announcements or inform you of new releases and features, (v) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, such as newsletters, marketing or promotional materials, (vi) to perform tasks on behalf of and according to instructions of a third party, such as payment processors, third party-service providers or our advertising partners, (vii) to enforce our Terms of Service, (viii) to resolve any disputes between users of the Site and/or App or between such users and us, (ix) comply with applicable law, or a legal or regulatory requirement, request or process, including, but not limited to, civil and criminal subpoenas, court orders, law enforcement requests, governmental agency requests, emergency services, or other compulsory disclosures; (x) to further our legitimate interest in protecting our rights, property, safety, and security and the rights, property safety and security of the Services, our users or the public, (xi) to model, segment, offer market and advertise our Services, and (xii) to contact you to obtain feedback from you regarding the Site and/or App and the Services.
-    
-5. In addition to the purposes described above, we use the information collected automatically to (i) further our legitimate interests in monitoring, measuring and analyzing the use of the Services and for the technical administration of the Site, (ii) operate, improve and develop the Site, App and the Services, (iii) generate and derive useful data and information concerning the interests, characteristics and website and application use behavior of our users, and (iv) verify that users of the Services meet the criteria required to process their requests. We and or our advertising partners may use demographic and geo-location, as well as information logged from your hardware or device, including data such as IP address, device model and ID, MAC address, operating system, application usage data, device time zone, region and language, and click ID, to ensure relevant advertising is presented within the Services. Third Parties We Share Personal Information With
-    
-    We may disclose Personal Information you provide to us or that we collect automatically on the Site and/or App and in and through the Services with the following categories of third parties:
-    
-    * Business partners. We work with a number of partners who help us offer our Services. We may share information collected from or about you with such partners.
-    * Social network services. When you choose to share information with social networking services about your activities on Cricbuzz, information about you and your activities will be shared with that social network.
-        * Sharing with Facebook. If you visit Cricbuzz while logged onto Facebook, then Facebook may be able to identify your browser and associate technical information provided by your web browser with other information that Facebook already has about you. Facebook may make that information visible to Facebook users in accordance with applicable law, Facebook’s data policy, and your Facebook privacy settings. We recommend that you familiarize yourself with Facebook’s data policy and privacy controls.
-    * Service providers, such as payment processors, marketing service providers, communication service providers, analytic providers, and web hosting and data storage service providers helping us deliver and develop the Services. Our service providers are authorized to and may use and disclose your information as necessary for them to provide the applicable products and services to us and as provided by their own privacy policies and our agreements with the third parties.
-    * Advertising partners. We may share information collected from or about you with advertisers and service providers that perform advertising-related services for us and our business partners in order to tailor ads and/or campaigns and measure their effectiveness. This information may include, but is not limited to, the use of our Services, the websites you visit, ads you viewed, and your other online activities.
-    * Audience measurement providers. At times, our business and advertising partners seek to measure the performance of their content across our Services. Accordingly, Cricbuzz may permit the use of third-party measurement software that enables third parties (such as Nielsen) to include your viewing of our Services in calculating measurement statistics such as TV ratings.
-    * Legal & Law Enforcement Authorities. We may disclose information collected from or about you in response to a legal or regulatory process, such as a court order, subpoena, or in response to a law enforcement or regulatory agency request, if legally required to do so. We may also disclose information to authorities for fraud prevention, to investigate or prevent illegal activities, and to protect our rights and safety or the rights and safety of third parties.
-    * Affiliates. Our subsidiaries and affiliates (including, without limitation, Tclub Inc.); or a subsequent owner, co-owner or operator of the Site and/or App, and the Services and their advisors in connection with a change in control, acquisition, merger, consolidation, restructuring, the sale of substantially all of our stock and/or assets, or in connection with bankruptcy proceedings, or other corporate reorganization, in accordance with this Privacy Policy. We may also disclose information collected from or about you in connection with the evaluation of those transactions. The subsequent owner(s), operator(s), successor(s), and other recipients will be bound by this Privacy Policy as it applies to the information disclosed.
-    * With Your Consent. With your consent, we may use, disclose and share your Personal Information in ways not specifically described in this Privacy Policy.
-6. #### Links to Other Websites
-    
-    We frequently make content or services from other websites available to you from links located on the Site. We may present links in a format that enables us to keep track of whether these links have been followed. This Privacy Policy applies only to the Site, the App and the Services. We do not exercise control over third party services or other websites that provide information, banners, advertisements or links. Your interactions with these third party services are governed by the privacy policy of the company providing it. These other websites and services may place their own cookies or other files on your computer’s browser, collect data or solicit Personal Information from you. Other websites and services follow different rules regarding the use or disclosure of the Personal Information that you submit, and the collection and use of such information, and access of any third party websites are subject to such third party’s privacy policy. We encourage you to read the privacy policies and other terms of such third parties before using their services.
-    
-7. #### Security
-    
-    We understand the importance of privacy and security of Personal Information to our users and have made them a priority. We use a variety of industry-standard security technologies, measures and procedures to help protect Personal Information about you from unauthorized access, use, or disclosure and train our employees and affiliates on privacy and security issues. However, we cannot guarantee that unauthorized third parties will never be able to overcome those measures or use your Personal Information for improper purposes, and we do not promise that Personal Information about you or private communications will be protected from unauthorized disclosure or use. Please refer to the U.S. Federal Trade Commission’s Website for information on how to protect yourself from identity theft.
-    
-8. #### Children
-    
-    While we allow teenagers to use our Services, only parents, legal guardians, or other adults, persons 18 or older, are allowed to make purchases through our Services; and children under 16 are not authorized to make use of our Services.
-    
-    Cricbuzz does not knowingly collect or use information from children under 16 through the Services. If a parent or legal guardian becomes aware that their child under the age of 16 has provided information to Cricbuzz through the Services, the parent or legal guardian, should contact Cricbuzz at grievance@cricbuzz.com, and with proper authentication, has the right to review the Personal Information we may have collected and stored about their child and request deletion of such Personal Information. We will use commercially reasonable efforts to delete the information. Please keep in mind that a request to delete such information may limit your or the child’s access to all or a portion of the Services. We urge parents to monitor their children’s use of all digital media.
-    
-9. #### Managing Your Privacy
-    
-    We keep your data on your behalf and for your benefit. You can access, copy, correct, terminate or delete your Account information or data by following the instructions on the Site and/or App, or by e-mail at grievance@cricbuzz.com, which you may also contact for further assistance and questions regarding the Privacy Policy. If you cancel your Account or request us to delete your information, we will limit our access to your Personal Information to perform what is requested by you and will delete information accessible to us within thirty (30) days.
-    
-10. #### California Privacy Rights
-    
-    If you are a resident of California, you have certain rights pursuant to the California Consumer Privacy Act (“CCPA”), as amended by the California Privacy Rights Act of 2020 (“CPRA”) (collectively “CCPA” unless identified individually).
-    
-    Your privacy rights may include, to the extent applicable and to the extent granted under applicable law: (i) the right to know and access your Personal Information that we collected, disclosed, sold, used or shared, the categories of sources from which your Personal Information was collected, the business or commercial purpose for collection or selling your Personal Information, the categories of third parties with whom we shared your Personal Information, and the right to ask for a copy of your Personal Information (i.e., data portability); (ii) the right to delete your Personal Information, subject to certain legally permissible exceptions; (iii) the right to correct inaccuracies in your Personal Information; (iv) the right to non-discrimination for exercising your privacy rights; and (v) the right to appeal a refusal to act on your data rights request.
-    
-    **Authorized Agents**
-    
-    The above rights are only exercisable by you where the applicable law grants you the right being exerted and where no exception or exemption under applicable law applies. You may also have an agent (if and only as permitted under applicable law) that you authorize to act on your behalf. If you have an agent act on your behalf, we have the right to authenticate such agent’s authority to act. You must provide an authorized agent with signed written permission that authorizes the agent to submit a request on your behalf, and we may require that you verify your identity directly with us. Alternatively, an authorized agent that has been provided power of attorney pursuant to California Probate Code Sections 4000-4465 may submit a request on your behalf. To exercise the rights described herein (only to the extent applicable), you may submit a request to us by the methods set forth under the “Methods for Submitting Consumer Requests and Our Response to Requests” section below.
-    
-    **Requests to Know**
-    
-    You have the right to request that we disclose to you what Personal Information we have collected, used, disclosed, shared, or sold about you, and why we collected, used, disclosed, shared or sold your personal information over the last twelve (12) months preceding your request. Specifically, you may request that we disclose:
-    
-    * The categories and/or specific pieces of Personal Information we have collected about you;
-    * The categories of Personal Information about you we have disclosed for a business or commercial purpose;
-    * The categories of sources from which we have collected Personal Information about you;
-    * The business or commercial purposes for which we use the Personal Information about you;
-    * The categories of third parties with whom we shared your Personal Information;
-    * The categories of Personal Information that we sold or disclosed to third parties; and
-    * If we have not disclosed your personal information in the preceding 12 months, we will disclose that upon request.
-    * The specific pieces of Personal Information collected.
-    
-    **Requests to Delete**
-    
-    You have the right to request that we delete any Personal Information about you that we have collected. Upon receiving a verified request to delete Personal Information, we will do so unless otherwise required or authorized by law or an exception applies.
-    
-    **Requests to Correct Personal Information**
-    
-    You have the right to request that we correct inaccuracies in your Personal Information that we collect and maintain about you. Upon receiving a verified request to correct inaccurate Personal Information, we will use commercially reasonable efforts to correct any inaccurate personal information as directed by you.
-    
-    **No Sensitive Personal Information.**
-    
-    We do not knowingly collect any Personal Information that would be considered “sensitive” under applicable law.
-    
-    **Right to Opt-Out of Sale or Sharing of Personal Information or Targeted Advertising/DO NOT SELL OR SHARE MY PERSONAL INFORMATION**
-    
-    We do not sell your personal data as the concept of “selling” is traditionally understood as being the exchange of something for money. However, we sell your personal data to, and share your personal data with, third parties for the purpose of cross-contextual behavioral advertising purposes (e.g., targeted advertising and remarketing). Applicable U.S. state date protection laws hold such disclosures and sharing to be considered “selling” or “sharing.” Therefore, you have the right to opt out of such selling and sharing. In the preceding twelve (12) months, we have sold or shared the following categories of personal data with the following categories of third parties and for the following purposes:
-    
-    | Category of Personal Data Sold or Shared | Category of Third-Party Recipient | Purpose |
-    | --- | --- | --- |
-    | Identifiers | Analytics, marketing, advertising, and remarketing partners and services providers | Analytical and targeted advertising purposes (including, without limitation, cross-contextual behavioral advertising). Specifically, to target advertisements for goods and services and to display those advertisements on other websites. |
-    | Internet or other electronic network activity information | Analytics, marketing, advertising, and remarketing partners and services providers | Analytical and targeted advertising purposes (including, without limitation, cross-contextual behavioral advertising). Specifically, to target advertisements for goods and services and to display those advertisements on other websites. |
-    
-    You have the right to opt out of the selling or sharing of your personal data as described herein. You may exercise this right to opt out by contacting us through the methods set forth below under the “**Methods for Submitting Consumer Requests and Our Response to Requests**” section of the Privacy policy.
-    
-    We do not knowingly sell or share for cross-contextual behavioral advertising purposes, the personal data of anyone under the age of 16 years old. See the “Children” section of this Privacy Policy for more information.
-    
-    Under applicable data protection laws, you may have the right to opt-out of our “sale” or “sharing” of personal information to third parties. If you wish to opt-out of such “sales” please follow the opt-out instructions below. This is a limited opt-out that does not apply to information sold or shared prior to Cricbuzz receiving your request. Additionally, this opt-out is specific to us and does not apply to any third party activity.
-    
-    **Methods for Submitting Consumer Requests and Our Response to Requests**
-    
-    You may submit a request to us via:
-    
-    * Postal mail at TIMES INTERNET LTD, No. 190-B, 2nd Floor, HN Plaza,100 Ft Ring road, 6th Main, BSK 3rd Stage, Bangalore - 560085, INDIA, Phone: 080-26790623
-    * email at support@cricbuzz.com
-    * https://www.cricbuzz.com/info/contact
-    
-    Only you or an authorized agent (if and only as permitted under applicable law) that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information. Upon receipt of a request, we may ask you for additional information to verify your identity, or if you have a registered agent act on your behalf, we have the right to authenticate such agent’s authority to act. Without limiting the foregoing, the verifiable consumer request must:
-    
-    * Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
-    * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-    
-    We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a verifiable consumer request does not require you to create an account with us. We will only use personal information provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
-    
-    Subject to our ability to verify your identity, we will respond to your request within the timeframe required under applicable law. If we require more time, we will inform you of the reason and extension period in writing. Notwithstanding, we will respond to any requests to opt out as soon as feasibly possible, but no later than the timeframe required by law.
-    
-    The delivery of our response may take place electronically or by mail.
-    
-    Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request's receipt. The response we provide will also explain the reasons we cannot comply with a request, if applicable.
-    
-    We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a reasonable fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
-    
-    **Right to Data Portability**
-    
-    You have the right to have a copy of the Personal Information that we collected and maintain about you transferred to you or to your authorized agent.
-    
-    **Right to Non-Discrimination**
-    
-    You have the right not to be discriminated against for the exercise of your privacy rights described above. Unless permitted by applicable law, we will not:
-    
-    * Deny you goods or services;
-    * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
-    * Provide you a different level or quality of goods or services; or
-    * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
-    
-    **Right to Appeal**
-    
-    If we deny your request to exercise any of the data rights described above, under applicable law, you may have the right to appeal our decision within a reasonable period of time after your receipt of our decision.
-    
-    You may appeal our decision by sending an email to grievance@cricbuzz.com. Your email should include “Appeal” in the subject line. We will respond to an appeal within the timeframe required under applicable law. Our response to your appeal will inform you of decisions and actions in response to your appeal, including an explanation of the reasons for the decisions.
-    
-    If you have concerns about the results of your appeal, you have the right to contact your state Attorney General, or if applicable, your state’s Division of Consumer Protection.
-    
-    **Personal Information we Collect, Disclose, or Share**
-    
-    Pursuant to and consistent with the purposes of collecting your information as set forth in this Privacy Policy we disclose or share certain categories of Personal Information to parties for a business or commercial purpose. Cricbuzz does not knowingly share the Personal Information of minors under the age of 16 without affirmative authorization.
-    
-    These are the general categories of user Personal Information that Cricbuzz has collected in the last 12 months, the sources from which that information was collected, the business purpose for which the information was collected, and the categories of parties with whom Cricbuzz disclosed or shared Personal Information.
-    
-    | Category of Personal Information Collected | Source(s) from which the Personal Information may be collected | Business Purpose | Categories of Companies to whom we disclose this Personal Information | Categories of Third Parties to whom we share this Personal Information |
-    | --- | --- | --- | --- | --- |
-    | Full name | Registration; Your communication with us; Our Services | * Subscription management<br>* To administer the Services and customer support<br>* Personalization<br>* Communicate with user | * Data processing and analytics vendors<br>* Fulfillment vendors<br>* Service providers<br>* Business partners | Tclub Inc. |
-    | Email Address | Login/Registration; Your communication with us; Our Services | * Subscription management<br>* To administer the Services and customer support<br>* Personalization<br>* Communicate with user and send information about products and services, or respond to request for information or the Services<br>* Marketing | * Service providers<br>* Business partners | Tclub Inc. |
-    | Password | Login/Registration; Our Services | * Subscription management<br>* To administer the Services and customer support<br>* Personalization<br>* Communicate with user and respond to requests for information or the Services | None | None |
-    | Street Address (City, State, Zip Code) | Optional | None | None | None |
-    | Telephone Number | Optional | None | None | TClub Inc. |
-    | Birth date/age | Optional | None | None | None |
-    | Credit Card Details (Card Number, CVV, Expiry, Zip code) | Payment Processor | * Subscription management<br>* To administer the Services | Service Providers | TClub Inc. |
-    | Approximate Geolocation | Login/Registration; IP address or network-based geo-location data based on proximity of network towers or the location of Wi-Fi networks; Our Services | * Subscription management<br>* To administer the Services<br>* Comply with applicable law<br>* Enforce terms of service | * Service partners<br>* Advertising partners<br>* Business partners |     |
-    | Device data & technical information; usage and viewing data; network and internet information | Login; IP Address; Cookies; Hardware or Device; Your communications with us; Our Services | * Analytical purposes, including, without limitation, to help us improve access to the Site, App and Services, to help display certain information on the Services, to learn the interests, characteristics, and website and application use behavior of users, and to improve your enjoyment of the Services<br>* To administer the Services<br>* Personalization<br>* To provide you with information and offers from us or third parties<br>* To perform tasks on behalf of or according to third parties (e.g., payment processors, service providers, advertising partners, etc.)<br>* Comply with applicable law<br>* Enforce Terms of Service | * Service Providers<br>* Advertising partners<br>* Audience measurement providers<br>* Business partners |     |
-    
-    **California Privacy Rights Report of Metrics**
-    
-    Below reflects the number of requests from individuals related to the California Consumer Privacy Act received and processed by Cricbuzz during the period of time noted below. These numbers will be updated at least annually (with the date of such update and prior update):
-    
-    | Requests | Metrics |
-    | --- | --- |
-    | Requests to Know Personal Information | * Received: 0<br>* Complied with: 0<br>* Denied: 0 |
-    | Requests to Delete Personal Information | * Received: 0<br>* Complied with: 0<br>* Denied: 0 |
-    | Requests to Correct Personal Information | * Received: 0<br>* Complied with: 0<br>* Denied: 0 |
-    | Requests to Opt-Out of the Selling and Sharing of Personal Information | * Received: 0<br>* Complied with: 0<br>* Denied: 0 |
-    | The median number of days within which Cricbuzz substantively responded to requests to know, delete, limit and opt-out is: 0 |     |
-    | * Most recent update: 21/03/2024<br>* Prior update: 21/03/2024 |     |
-    
-11. #### International Transfers of Personal Information
-    
-    We are based in the United States. As a result, Personal Information that we collect in and through the Services and on the Site or App may be transferred to our U.S. offices. In addition, we may work with third-party service providers in the U.S. and in other countries to support our business activities. Thus, Personal Information may be transferred to, stored on servers in, and accessed from the United States and countries other than the country in which the Personal Information was initially collected. By accessing, receiving, or using the Services or by providing consent to us (where consent is required by applicable law), you specifically acknowledge and agree that information may be transferred outside of the country from which you access the Services (including, for example, to the United States, Canada, and India) and that such countries’ data protection and related laws, regulations, and rules may be different than, and may not be as protective as, those of the jurisdiction from where you access the Services. In all such instances, we use, transfer, and disclose Personal Information solely for the purposes described in this Privacy Notice and in compliance with applicable laws.
-    
-12. #### Data Retention
-    
-    We keep Personal Information related to your Account for as long as reasonably needed to fulfill the purposes for which it was collected, to provide our services, to deal with possible legal claims, to comply with our business interests and/or as otherwise required by applicable laws. Thereafter, we either safely delete Personal Information about you or de-identify it. Please note that even if you request the deletion of Personal Information about you, we may be required (by law or otherwise) to retain the Personal Information and not delete it. However, once those requirements are removed, we will safely delete Personal Information about you in accordance with your request.
-    
-13. #### Additional Information for Canadian Residents
-    
-    The following section of this Privacy Policy only applies to Canadian residents. Under Canadian laws and regulations, you may have certain rights in regard to our collection of Personal Information (subject to all exemptions and exceptions, as applicable). These rights include:
-    
-    * The right to request access to your Personal Information;
-    * The right to request corrections to your Personal Information; and
-    * The right to lodge a complaint with the Office of the Privacy Commissioner of Canada and/or the applicable Canadian provincial regulatory body if you consider that the collection and use of your personal information violates this Privacy Policy or applicable law.
-    
-    The above rights are only exercisable by you where applicable law in the jurisdiction in which you reside actually grant you the right being exerted.
-    
-14. #### Passwords
-    
-    You are the sole authorized user of your Account, and you agree not to share your password, account information or access to the Services with any other person. Each user is required to have a separate username and password. You are responsible for maintaining the confidentiality of any log-in, password, and Account number provided by you or given to you by us for accessing the Services. You are solely and fully responsible for all activities that occur through the use of or under your password or Account, even if not authorized by you. Cricbuzz has no control over the use of any user’s Account and expressly disclaims any liability derived therefrom. Should you suspect that any unauthorized party may be using your password or Account or you suspect any other breach of security, you agree to contact us immediately.
-    
-15. #### Changes to the Privacy Policy
-    
-    Our security and Privacy Policy are periodically reviewed and enhanced as necessary. This Privacy Policy might change as we update and expand the Services. You can tell when this Privacy Policy was last updated by reviewing the Last Updated-legend on top of this page. We will endeavor to notify you of these changes by email, but will not be liable for any failure to do so. We also encourage you to review this Privacy Policy periodically. If you do not understand any of the terms or conditions of any of our policies, you may inquire regarding the same via email at privacy@cricbuzz.com. Your continued use of the Services after any change in this Privacy Policy will constitute your acceptance of such change.
-    
-16. #### Contacting Us
-    
-    If you have any concerns or questions about this Privacy Policy, please contact us by email at privacy@cricbuzz.com, by telephone at \[080-40965631\], or by mail at
-    
-    No. 190-B, 2nd Floor,  
-    HN Plaza,100 Ft Ring road,  
-    6th Main, BSK 3rd Stage,  
-    Bangalore - 560085, INDIA  
-    Phone : 080-26790623.
-    
+### Personal Information
+
+This Privacy Policy is published in compliance of:
+
+* Section 43A of the Information Technology Act, 2000; and
+
+* Regulation 4 of the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Information) Rules, 2011 (the "SPI Rules")
+
+"Personal Information" is defined under the SPI Rules to mean any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.
+
+The SPI Rules further define "sensitive personal data or information" of a person to mean Personal Information about that person relating to:
+
+* passwords;
+
+* financial information such as bank accounts, credit and debit card details or other payment instrument details;
+
+* physical, physiological and mental health condition;
+
+* name, age, address, e-mail, phone number, date of birth, sexual orientation;
+
+* medical records and history;
+
+* biometric information;
+
+* information received by body corporate under lawful contract or otherwise;
+
+* visitor details as provided at the time of registration or thereafter; and
+
+* call data records.
+
+All the aforementioned information is collectively referred to as "Personal Information."
+
+The information about the users as collected by Cricbuzz is: (a) information supplied by the users and (b) information automatically tracked while navigation (Information).
+
+By using Cricbuzz's Website or its services, you consent to collection, storage, and use of the Personal Information you provide (including any changes thereto as provided by you) for any of the services that we offer.
+
+To avail certain sites/ services on our Websites, the users may be required to provide certain information for the registration process that may include but not limited to :- a) your name, b) email address, c) sex, d) age, e) PIN code, f) credit card or debit card details, g) medical records and history, h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.
+
+We may collect additional information at other times, including but not limited to, when you provide feedback, comments, change your content or email preferences, respond to a survey, or any communications with us.
+
+Cricbuzz presumes adequate and lawful parental consent in case the Personal Information is shared by a user under the age of 18 years.
+
+The information as supplied by the users enables us to improve our Website and Apps and provide you the most user-friendly experience. All required information is service dependent and Cricbuzz may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services.
+
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force.
+
+The primary reason for gathering information is to improve our products, deals, services, website content and navigation.
+
+### Subscription or Paid Service Information
+
+When you choose any subscription or paid service provided as part of our Services, we or our payment gateway provider may collect your purchase, address or billing information, including your credit card number and expiration date etc. However, when you order using an in-app purchase option on any of the applications of the Company, same are handled by such mobile operating system platform providers. The subscriptions or paid services may be on auto renewal mode unless cancelled. If at any point you do not wish to auto-renew your subscription, you may cancel your subscription before the end of the subscription term
+
+### Cookies
+
+To improve the responsiveness for our users, we may use "cookies", or similar electronic tools to collect information to assign each user a unique, random number as a user Identification (user ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only Personal Information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. We receive and store certain types of information whenever you interact with us via Website, application or service though your computer/laptop/netbook or mobile/tablet/pad/handheld device etc.
+
+Once the User permits, we may obtain additional information such as list of apps installed on your device, device information, location, network carrier ("Information") available on your device, to personalise your experience and improve the app suggestions. This data may be shared within Times Internet Limited and its group portals/applications including Times Internet Limited ad portal "Colombia". Please be informed that the data collection is handled securely, including transmitting it using modern cryptography (secure HTTPS connection). Please note that the Information shall not be shared with any third party and shall be purely utilized for enhancing the user experience and personalising the services within Cricbuzz networks.
+
+### Opting out
+
+If a user opts out using the [Ads Settings](https://www.google.com/settings/u/0/ads/authenticated?hl=en), the unique DoubleClick cookie ID on the user's browser is overwritten with the phrase "OPT\_OUT". Because there is no longer a unique cookie ID, the opt-out cookie can't be associated with a particular browser.
+
+### Log file information
+
+We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our Website, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. We automatically receive and log information from your browser, including your IP address, your computer's name, your operating system, browser type and version, CPU speed and connection speed. We may also collect log information from your device, including your location, IP address, your device's name, device's serial number or unique identification number (e.g. UDiD on your iOS device), your device operating system, browser type and version, CPU speed, and connection speed etc.
+
+### Information from other sources
+
+We may receive information about you from other sources, add it to our account information and treat it in accordance with this Privacy Policy. If you provide information to the platform provider or other partner, whom we provide services, your account information and order information may be passed on to us. We may obtain updated contact information from third parties in order to correct our records and fulfil the services or to communicate with you.
+
+### Demographic and purchase information
+
+We may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We use Google Analytics, among others, to track the user behaviour on our Website. Google Analytics specifically has been enable to support display advertising towards helping us gain understanding of our users' Demographics and Interests. The reports are anonymous and cannot be associated with any individual personally identifiable information that you may have shared with us. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout).
+
+### Links to third party sites/ad-servers
+
+The Website or application may include links to other websites or applications. Such websites or applications are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the application, you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the application's homepage, you should contact the application or website owners directly for more information. When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our Websites or applications -- it is usually in the form of aggregated statistics on traffic to various pages / content within our Websites or applications.
+
+We use third-party advertising companies to serve ads when you visit our Websites or applications. These companies may use information (not including your name, address, email address or telephone number or other personally identifiable information) about your visits to this and other Websites or application, in order to provide advertisements about goods and services of interest to you. We do not provide any Personally Information to third party websites/ advertisers/ ad-servers without your consent, except in the circumstance mentioned in below clause.
+
+### Information Sharing
+
+Cricbuzz may share the sensitive Personal Information to any third party/Service Provider/Alliance Partner without obtaining the prior consent of the user in the following limited circumstances:
+
+* When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms and Conditions; for complying with the applicable laws and regulations.
+
+* Cricbuzz proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing Personal Information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+
+* Cricbuzz may use third-party advertising companies to serve ads when the user visits the Website. These companies may use Personal Information about the user’s visit to the Website and other websites in order to provide advertisements about goods and services of interest to the user.
+
+* Cricbuzz shall transfer information about the user in case Cricbuzz is acquired by or merged with another company.
+
+### Accessing and Updating Personal Information
+
+When you use Cricbuzz's Websites, we make good faith efforts to provide you, as and when requested by you, with access to your Personal Information and shall further ensure that any Personal Information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such Personal Information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+
+### Information Security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+
+All information gathered on Cricbuzz is securely stored within the Cricbuzz controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with internet access.
+
+However the internet is an ever evolving medium. We may change our Privacy Policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
+
+### Consent Withdrawal, Data Download & Data Removal Requests
+
+To withdraw your consent, or to request the download or to delete your data with us for any or all our services at any time, please email to grievance@cricbuzz.com
+
+### Grievance Redressal
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to .
+
+Mr. Harsha Kishan (Grievance Officer)
+
+TIMES INTERNET LTD.
+
+www.cricbuzz.com
+
+Regd. Office: Express Building,
+
+9-10, Bahadurshah Zafar Marg,
+
+New Delhi, - 110002, INDIA
+
+Corp. Office: No. 190-B, 1st Floor,
+
+HN Plaza,100 Ft Ring road,
+
+6th Main, BSK 3rd Stage,
+
+Bangalore . 560085, INDIA
+
+Ph: 080-40965631
+
+Email: [grievance@cricbuzz.com](mailto:grievance@cricbuzz.com)
+
+We request you to please provide the following information in your complaint:
+
+* A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+
+* Identification of the copyrighted work claimed to have been infringed.
+
+* Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+
+* The address, telephone number or e-mail address of the complaining party.
+
+* A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+
+* A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/130818/buttler-not-always-a-nice-man-to-know "Buttler, not always a nice man to know")
+  [](https://www.cricbuzz.com/cricket-news/131085/resilient-san-francisco-unicorns-overcome-mi-new-york-qualify-for-playoffs "Resilient San Francisco Unicorns overcome MI New York, qualify for playoffs")
 
-[Buttler, not always a nice man to know](https://www.cricbuzz.com/cricket-news/130818/buttler-not-always-a-nice-man-to-know "Buttler, not always a nice man to know")
+[Resilient San Francisco Unicorns overcome MI New York, qualify for playoffs](https://www.cricbuzz.com/cricket-news/131085/resilient-san-francisco-unicorns-overcome-mi-new-york-qualify-for-playoffs "Resilient San Francisco Unicorns overcome MI New York, qualify for playoffs")
 
-22m ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130817/athapaththu-nisansala-power-sls-cleansweep-of-odis-against-wi "Athapaththu, Nisansala power SL's cleansweep of ODIs against WI")
+  [](https://www.cricbuzz.com/cricket-news/131084/usmani-khawaja-vallipuram-elected-as-associate-member-directors "Usmani, Khawaja, Vallipuram elected as Associate Member directors")
 
-[Athapaththu, Nisansala power SL's cleansweep of ODIs against WI](https://www.cricbuzz.com/cricket-news/130817/athapaththu-nisansala-power-sls-cleansweep-of-odis-against-wi "Athapaththu, Nisansala power SL's cleansweep of ODIs against WI")
+[Usmani, Khawaja, Vallipuram elected as Associate Member directors](https://www.cricbuzz.com/cricket-news/131084/usmani-khawaja-vallipuram-elected-as-associate-member-directors "Usmani, Khawaja, Vallipuram elected as Associate Member directors")
 
-3h ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130816/bangladesh-remain-unsure-about-afghanistan-tour "Bangladesh remain unsure about Afghanistan series")
+  [](https://www.cricbuzz.com/cricket-news/131083/renewed-focus-on-internationals-playing-domestic-games-under-gambhirs-watch "Renewed focus on internationals playing domestic games under Gambhir's watch")
 
-[Bangladesh remain unsure about Afghanistan series](https://www.cricbuzz.com/cricket-news/130816/bangladesh-remain-unsure-about-afghanistan-tour "Bangladesh remain unsure about Afghanistan series")
+[Renewed focus on internationals playing domestic games under Gambhir's watch](https://www.cricbuzz.com/cricket-news/131083/renewed-focus-on-internationals-playing-domestic-games-under-gambhirs-watch "Renewed focus on internationals playing domestic games under Gambhir's watch")
 
-4h ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130815/openers-in-focus-as-india-look-to-close-in-on-semis-berth "Openers in focus as India look to close in on semis berth")
+  [](https://www.cricbuzz.com/cricket-news/131082/icc-to-discuss-ct-25-budget-amid-talk-of-overspend-for-ny-games-of-t20-wc " ICC to discuss CT 25 budget amid talk of overspend for NY games of T20 WC")
 
-[Openers in focus as India look to close in on semis berth](https://www.cricbuzz.com/cricket-news/130815/openers-in-focus-as-india-look-to-close-in-on-semis-berth "Openers in focus as India look to close in on semis berth")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/130814/russell-narine-and-warner-headline-ilt20s-retention-list "Russell, Narine and Warner headline ILT20's retention list")
-
-[Russell, Narine and Warner headline ILT20's retention list](https://www.cricbuzz.com/cricket-news/130814/russell-narine-and-warner-headline-ilt20s-retention-list "Russell, Narine and Warner headline ILT20's retention list")
+[ICC to discuss CT 25 budget amid talk of overspend for NY games of T20 WC](https://www.cricbuzz.com/cricket-news/131082/icc-to-discuss-ct-25-budget-amid-talk-of-overspend-for-ny-games-of-t20-wc " ICC to discuss CT 25 budget amid talk of overspend for NY games of T20 WC")
 
 6h ago
 
-  [](https://www.cricbuzz.com/cricket-news/130813/india-to-tour-south-africa-for-short-t20i-series-in-november "India to tour South Africa for short T20I series in November")
+  [](https://www.cricbuzz.com/cricket-news/131081/pope-ton-headlines-englands-dominance-on-day-1 "Pope ton headlines England's dominance on Day 1")
 
-[India to tour South Africa for short T20I series in November](https://www.cricbuzz.com/cricket-news/130813/india-to-tour-south-africa-for-short-t20i-series-in-november "India to tour South Africa for short T20I series in November")
+[Pope ton headlines England's dominance on Day 1](https://www.cricbuzz.com/cricket-news/131081/pope-ton-headlines-englands-dominance-on-day-1 "Pope ton headlines England's dominance on Day 1")
 
-10h ago
+13h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131080/ollie-pope-ton-keeps-england-on-top "Ollie Pope ton keeps England on top")
+
+[Ollie Pope ton keeps England on top](https://www.cricbuzz.com/cricket-news/131080/ollie-pope-ton-keeps-england-on-top "Ollie Pope ton keeps England on top")
+
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
