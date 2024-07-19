@@ -1,8 +1,8 @@
 [Jump to content](#content)
 
-Toggle sidebar [![](/logo_50x50.svg) **postmarketOS**](https://wiki.postmarketos.org/wiki/Main_Page)
+Toggle sidebar [![](/logo_50x50.svg) **postmarketOS Wiki**](https://wiki.postmarketos.org/wiki/Main_Page)
 
-[Search](https://wiki.postmarketos.org/wiki/Special:Search "Search postmarketOS [f]")
+[Search](https://wiki.postmarketos.org/wiki/Special:Search "Search postmarketOS Wiki [f]")
 
    
 
@@ -55,7 +55,7 @@ PostmarketOS:Terms of Service
 * [View source](https://wiki.postmarketos.org/index.php?title=PostmarketOS:Terms_of_Service&action=edit)
 * [View history](https://wiki.postmarketos.org/index.php?title=PostmarketOS:Terms_of_Service&action=history)
 
-From postmarketOS
+From postmarketOS Wiki
 
 No spam, hijacking, or vandalism, please. [Follow the CoC](https://postmarketos.org/coc/)
 
@@ -67,7 +67,7 @@ Retrieved from "[https://wiki.postmarketos.org/index.php?title=PostmarketOS:Term
 * Content is available under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
 
 * [Privacy policy](https://wiki.postmarketos.org/wiki/PostmarketOS:Privacy_policy)
-* [About postmarketOS](https://wiki.postmarketos.org/wiki/PostmarketOS:About)
+* [About postmarketOS Wiki](https://wiki.postmarketos.org/wiki/PostmarketOS:About)
 * [Disclaimers](https://wiki.postmarketos.org/wiki/PostmarketOS:General_disclaimer)
 
 * [![Creative Commons Attribution-ShareAlike](/resources/assets/licenses/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
