@@ -284,7 +284,7 @@ Do not hesitate to contact us](https://mega.io/contact)[Bug Bounty
 
 Report any bugs or issues](https://mega.io/bug-bounty)
 
-Switch to dark mode Languages
+Switch to dark mode EN
 
 [Log in](https://mega.nz/login)[Sign up](https://mega.nz/register)
 
