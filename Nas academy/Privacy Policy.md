@@ -1,14 +1,12 @@
-[![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)](https://nasacademy.com/)
+![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)
 
-[Creator Accelerator Program](https://nasacademy.com/cap)
+For Organizations
 
-[Challenges](https://nasacademy.com/challenges)
-
-[AI](https://nasacademy.com/ai)
+For Individuals
 
 [###### Connect with us](https://nasacademy.com/nas-academy#contact-form)
 
-[![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)](https://nasacademy.com/)
+![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)
 
 Our Privacy Policy
 ==================
@@ -75,8 +73,6 @@ We may revise this Notice from time to time without any prior notice. You may de
 
 [Challenges](https://nasacademy.com/challenges)
 
-[Artificial Intelligence](https://nasacademy.com/ai)
-
 [About us](https://www.nas.co/)
 
 [Privacy T&C](https://nasacademy.com/privacy)
@@ -93,8 +89,6 @@ Copyright©2023 All Rights Reserved by Nas Education
 
 [Challenges](https://nasacademy.com/challenges)
 
-[Artificial Intelligence](https://nasacademy.com/ai)
-
 [About us](https://www.nas.co/)
 
 [Privacy T&C](https://nasacademy.com/privacy)
@@ -110,8 +104,6 @@ Copyright©2023 All Rights Reserved by Nas Education
 [Creator Accelerator Program](https://nasacademy.com/)
 
 [Challenges](https://nasacademy.com/challenges)
-
-[Artificial Intelligence](https://nasacademy.com/ai)
 
 [About us](https://www.nas.co/)
 
