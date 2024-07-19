@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Enter the realm of shadow and fall from grace in the expansion ELDEN RING SHADOW OF THE ERDTREE, available now](https://en.bandainamcoent.eu/elden-ring/news/enter-the-realm-of-shadow-and-fall-grace-the-expansion-elden-ring-shadow-of-the)
-* [Elden Ring - How to enter the Realm of Shadow](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-how-enter-the-realm-of-shadow)
+* [Unknown 9: Awakening Gameplay Walkthrough Highlights](https://en.bandainamcoent.eu/unknown-9/news/unknown-9-awakening-gameplay-walkthrough-highlights)
+* [ARMORED CORE VI FIRES OF RUBICON - Ranked Match Season Update Notice (July 2024)](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-ranked-match-season-update-notice-july-2024)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
