@@ -220,7 +220,7 @@ _Within Neighborly Corporate Family._ We may share information collected through
 
 _With our Franchisees_. We may share information collected through this Site with our franchisees, which may be permitted to use your information for their own marketing purposes and in any manner otherwise consistent with this Policy.
 
-_With Other, Carefully Selected Business Partners_. From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law.
+_With Other, Carefully Selected Business Partners_. From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. We do not share your SMS opt-in data and consent with external third parties for their own marketing purposes without your express consent.
 
 _In Aggregate or De-Identified Form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so they can better understand our user base. We may also share, with third parties, information about how particular individuals use this Site, but only on a de-identified basis (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively.
 
@@ -365,6 +365,7 @@ Call us directly at [![phone wam](/us/en-us/_assets/images/phone-wam.svg)Call ph
 * [Services List](#services-list-screen)
 * [Contact Information](#contact-information-screen)
 * [Service Address](#service-address-screen)
+* [ScheduleDay and Time](#address-change-calendar-screen)
 * [About Your Service Needs](#about-service-needs-screen)
 * [Vehicle Information](#vehicle-information-screen)
 * [Service Details](#service-details-screen)
@@ -552,6 +553,8 @@ Phone Number \*
 
  Mobile
 
+By entering your email address, you agree to receive emails about services, updates or promotions, and you agree to the [Terms](https://www.neighborly.com/terms-of-use) and [Privacy Policy](https://www.neighborly.com/privacy-policy). You may unsubscribe at any time.
+
 ![back](/us/en-us/_assets/images/left-arrow-white.svg)Back Next![next](/us/en-us/_assets/images/right-arrow-white.svg)
 
 Service Address
@@ -670,6 +673,8 @@ Service Details
 
 Please describe your service needs:
 
+What floor is the appliance located? Select Basement 1st Floor 2nd Floor 3rd Floor 4th Floor or Higher
+
 Show us the issue. Attach up to 3 images:
 
 xxxxxxxx.jpg[Remove](#)
@@ -681,6 +686,28 @@ Where did you hear about us? \* Where did you hear about us?
 **Diagnostic Fee** - Our in-home service professionals will look at your appliance, diagnose the problem, and give you an exact quote. If you choose not to have the repair done, you pay only the $ diagnostic fee.
 
 ![back](/us/en-us/_assets/images/left-arrow-white.svg)Back Submit![next](/us/en-us/_assets/images/right-arrow-white.svg)
+
+Alert
+-----
+
+Your updated address is serviced by another location. Please re-select your preferred date and time and proceed to the next steps to verify your information for the new location.
+
+Alert
+-----
+
+Based on your updated address, your request will be sent to the appropriate service location.
+
+Alert
+-----
+
+Your updated address is serviced by a new location. However, the new location does not currently offer a scheduling option. Someone will contact you to setup your appointment date and time.
+
+Alert
+-----
+
+Your updated address is serviced by another location. The new location offers a scheduling option.
+
+Please select your preferred date and time and verify your information for your appointment.
 
 ![close Dialog Icon](/us/en-us/_assets/images/closedialogicon.svg)
 
