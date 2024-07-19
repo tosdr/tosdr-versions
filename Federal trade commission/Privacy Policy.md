@@ -151,11 +151,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [Global Perspectives from the International Competition Network Tech Forum](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/06/global-perspectives-international-competition-network-tech-forum)
+    ### [On Open-Weights Foundation Models](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/open-weights-foundation-models)
     
     Staff in the Office of Technology
     
-    June 13, 2024
+    July 10, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -226,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Annual Report on Refunds to Consumers; Agency Returned $324M in 2023](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-issues-annual-report-refunds-consumers-agency-returned-324m-2023)
+    ### [FTC and FDA Send Second Set of Cease-and-Desist Letters to Companies Selling Products Containing Delta-8 THC in Packaging Designed to Look Like Children’s Snacks](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-fda-send-second-set-cease-desist-letters-companies-selling-products-containing-delta-8-thc)
     
-    June 21, 2024
+    July 16, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Nov14
+    Jul19
     
-    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
+    ### [Prehearing Scheduling Conference In the Matter of Tempur Sealy International, Inc. and Mattress Firm Group, Inc.](https://www.ftc.gov/news-events/events/2024/07/prehearing-scheduling-conference-matter-tempur-sealy-international-inc-mattress-firm-group-inc)
     
-    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
+    Friday, July 19, 2024 | 3:00PM - 3:30PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
@@ -259,7 +259,17 @@ Main Menu Mega
     Follow us on social media
     -------------------------
     
-     [](https://www.facebook.com/federaltradecommission)  [](https://twitter.com/FTC)  [](https://www.linkedin.com/company/163780/)  [](https://www.youtube.com/ftcvideos)  [](https://www.ftc.gov/news-events/stay-connected#RSS)
+     [](https://www.facebook.com/federaltradecommission)
+    
+     [](https://www.instagram.com/federaltradecommission)
+    
+     [](https://twitter.com/FTC)
+    
+     [](https://www.linkedin.com/company/163780/)
+    
+     [](https://www.youtube.com/ftcvideos)
+    
+     [](https://www.ftc.gov/news-events/stay-connected#RSS)
     
     Feature
     -------
