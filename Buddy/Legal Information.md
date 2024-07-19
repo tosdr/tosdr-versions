@@ -2,6 +2,8 @@
 
 ### Scan with your camera to download
 
+[ Download now](https://apps.apple.com/app/buddy-budget-save-money/id936422955)
+
 [](https://buddy.download/)
 
 * * *
