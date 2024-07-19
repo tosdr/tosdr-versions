@@ -85,7 +85,7 @@
         
     * Business
         
-        * Business [**Small business** insurance](https://www.confused.com/business-insurance)[**Public liability** insurance](https://www.confused.com/business-insurance/public-liability-insurance)[**Employer trade** insurance](https://www.confused.com/business-insurance/employers-insurance)[**Professional indemnity** insurance](https://www.confused.com/business-insurance/professional-indemnity-insurance)
+        * Business [**Small business** insurance](https://www.confused.com/business-insurance)[**Public liability** insurance](https://www.confused.com/business-insurance/public-liability-insurance)[**Employer trade** insurance](https://www.confused.com/business-insurance/employers-insurance)[**Professional indemnity** insurance](https://www.confused.com/business-insurance/professional-indemnity-insurance)[**Self employed** insurance](https://www.confused.com/business-insurance/self-employed-insurance)[**Start up** insurance](https://www.confused.com/business-insurance/start-up-business-insurance)
         
     * Close
     
@@ -256,10 +256,10 @@ Confused.com is a trading name of Inspop.com Limited and is authorised and regul
 
 ![RVU logo](/-/media/confused/redesign/images/logos/rvu_horizontal_white.svg?la=en-GB&hash=FC9583FBB7FE421777AEF81A22CE96E5)
 
-* [Facebook](https://www.facebook.com/confused "Facebook")
-* [Twitter](https://twitter.com/confused_com "Twitter")
-* [LinkedIn](https://www.linkedin.com/company/confused-com/ "LinkedIn")
-* [YouTube](https://www.youtube.com/user/Confuseddotcomonline "YouTube")
+* [Facebook](https://www.facebook.com/confused)
+* [Twitter](https://twitter.com/confused_com)
+* [LinkedIn](https://www.linkedin.com/company/confused-com/)
+* [YouTube](https://www.youtube.com/user/Confuseddotcomonline)
 
 Download our app to help manage your car dates, running costs and insurance
 
