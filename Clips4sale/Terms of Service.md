@@ -222,9 +222,9 @@ It is important to us that you and other visitors have the best experience while
     15. **English Language.** We drafted this agreement in the English language. No translation into any other language will be used to interpret or construe this agreement. All services, support, notices, designations, specifications, and communications will be provided in English.
     16. **Your Comments and Concerns.** The Website is operated in the US by Tropical Sun Corp., 253 Main Street #222, Matawan, New Jersey 07747, and in the EEA/UK by Tropical Sun Ltd., Gladstonos & Evangelistrias, 1, Agathangelou Business Center, 3032, Limassol, Cyprus. All notices of copyright infringement claims should be sent to the copyright agent designated in our [DMCA Policy](https://www.clips4sale.com/clips/page/dmca) in the manner and by the means stated in it. All abuse notices, including alleged child exploitative material and sex trafficking, should be directed to [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection). You should direct all other feedback, comments, requests for technical support, and other communications relating to the Website to us by email at [\[email protected\]](https://www.clips4sale.com/cdn-cgi/l/email-protection) or by phone at +1-877-312-8559 (USA only) or +1-727-498-8515 (Outside USA).
 
-Join thousands of Creators already selling on Clips4Sale and turn your passion into profit!
+[Join thousands of Creators already selling on Clips4Sale and turn your passion into profit!
 
-[Learn More](https://www.clips4sale.com/clips/page/openastudio)
+Learn More](https://www.clips4sale.com/clips/page/openastudio)
 
 Discover
 
