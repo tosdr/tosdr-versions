@@ -261,7 +261,7 @@ Contact Us. To contact us with any questions or concerns in connection with thes
 now.gg, Inc. Privacy Policy
 ---------------------------
 
-### Effective Date: January 1, 2021
+### Effective Date: July 11, 2024
 
 We at now.gg know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our [Privacy Policy](https://now.gg/terms-and-privacy.html#privacy). By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this [Privacy Policy](https://now.gg/terms-and-privacy.html#privacy), and you hereby consent that we will collect, use, and share your information in the following ways.
 
@@ -360,6 +360,21 @@ Please keep your information up to date and accurate. Through your account setti
 
 The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at privacy at now.gg.
 
+How do I request deletion of my Personal Data?
+----------------------------------------------
+
+You have the right to request that we delete the Personal Data that we have collected about you. This right is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.
+
+To request deletion of your Personal Data as described above, you or your Authorized Agent (defined below) must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, and (2) describes your request in sufficient detail to allow us to understand, evaluate and respond to it. Each request that meets both of these criteria will be considered a “Valid Request.” We may not respond to requests that do not meet these criteria. We will only use Personal Data provided in a Valid Request to verify your identity and complete your request. You do not need an account to submit a Valid Request.
+
+We will work to respond to your Valid Request within 30 days of receipt. We will not charge you a fee for making a Valid Request unless your Valid Request(s) is excessive, repetitive or manifestly unfounded. If we determine that your Valid Request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
+
+You may submit a Valid Request using the following method:
+
+* Email us at: [privacy@now.gg](mailto:privacy@now.gg)
+
+You may also authorize an agent (an “Authorized Agent”) to exercise your rights on your behalf. To do this, you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf.
+
 California Resident Rights
 --------------------------
 
@@ -381,19 +396,7 @@ If we have disclosed your Personal Data to any third parties for a business purp
 
 **Deletion**
 
-You have the right to request that we delete the Personal Data that we have collected about you. Under the CCPA, this right is subject to certain exceptions: for example, we may need to retain your Personal Data to provide you with the Services or complete a transaction or other action you have requested. If your deletion request is subject to one of these exceptions, we may deny your deletion request.
-
-**Exercising Your Rights**
-
-To exercise the rights described above, you or your Authorized Agent (defined below) must send us a request that (1) provides sufficient information to allow us to verify that you are the person about whom we have collected Personal Data, and (2) describes your request in sufficient detail to allow us to understand, evaluate and respond to it. Each request that meets both of these criteria will be considered a “Valid Request.” We may not respond to requests that do not meet these criteria. We will only use Personal Data provided in a Valid Request to verify your identity and complete your request. You do not need an account to submit a Valid Request.
-
-We will work to respond to your Valid Request within 45 days of receipt. We will not charge you a fee for making a Valid Request unless your Valid Request(s) is excessive, repetitive or manifestly unfounded. If we determine that your Valid Request warrants a fee, we will notify you of the fee and explain that decision before completing your request.
-
-You may submit a Valid Request using the following method:
-
-* Email us at: privacy at now.gg
-
-You may also authorize an agent (an “Authorized Agent”) to exercise your rights on your behalf. To do this, you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf.
+You have the right to request that we delete the Personal Data that we have collected about you. Please see section How can I request deletion of my Personal Data? above for the deletion request process.
 
 Personal Data Sales Opt-Out and Opt-In
 
