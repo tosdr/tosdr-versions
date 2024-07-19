@@ -129,33 +129,33 @@ SIM Card Setup
 
 [Back to Dashboard](https://www.cricketwireless.com/amazon/dashboard.html) | [Español](https://www.cricketwireless.com/amazon/dashboard.html)
 
-Cricket Wireless Privacy Policy
-===============================
+Customer Privacy Choices & State Specific Privacy Laws
+======================================================
 
  [![Print Icon](/uiassets/cr_icon_print_rgb_pos.png) Print](# "Print this Page")
 
 [Email](# "Email this Page")
 
-[![Ver en español](https://www.cricketwireless.com/uiassets/lang-espanol.png)](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish") | [![閱讀中文](https://www.cricketwireless.com/uiassets/lang-chinese.png)](https://www.cricketwireless.com/entassets/Cricket%20Wireless%20Privacy%20Policy%20doc_Chinese_rev%20081222.pdf "privacy policy in Chinese") | [![한국에서](https://www.cricketwireless.com/uiassets/lang-korean.png)](https://www.cricketwireless.com/entassets/Cricket%20Wireless%20Privacy%20Policy%20doc_Korean_rev%20081222.pdf "privacy policy in Korean") | [![Przeczytaj po polsku](https://www.cricketwireless.com/uiassets/lang-polish.png)](https://www.cricketwireless.com/entassets/Cricket%20Wireless%20Privacy%20Policy%20doc_Polish_rev%20081222.pdf "privacy policy in Polish") | [![Lido em português](https://www.cricketwireless.com/uiassets/lang-portuguese.png)](https://www.cricketwireless.com/entassets/Cricket%20Wireless%20Privacy%20Policy%20doc_Portuguese_rev%20081222.pdf "privacy policy in Portuguese") | [![Đọc bằng tiếng Việt](https://www.cricketwireless.com/uiassets/lang-vietnamese.png)](https://www.cricketwireless.com/entassets/Cricket%20Wireless%20Privacy%20Policy%20doc_Vietnamese_rev%20081222.pdf "privacy policy in Vietnamese") | [![Pananaw sa Tagalog](https://www.cricketwireless.com/uiassets/lang-tagalog.png)](https://www.cricketwireless.com/entassets/Cricket%20Wireless%20Privacy%20Policy%20doc_Tagalong_rev%20081222.pdf "privacy policy in Tagalog")
+[![Ver en español](https://www.cricketwireless.com/uiassets/lang-espanol.png)](https://espanol.cricketwireless.com/privacy "privacy policy in Spanish")
 
 Application of Policy
 ---------------------
 
 Application of Policy  
   
-Effective: January 1, 2023 [Previous Version](https://www.cricketwireless.com/legal-info/privacy-policy-previous-version.html)  
+Effective: July 1, 2024 [Previous Version](https://www.cricketwireless.com/legal-info/privacy-policy-previous-version.html)  
   
 Your information and your privacy are important – to you and to us. This policy explains how we use your information and how we keep it safe. Importantly, it explains the choices you can make at any time about how your information is used. Below links can be used to go directly to the different policy sections.  
  
 
-* [When this Policy Applies](https://www.cricketwireless.com/privacy#Applies)
-* [The Information we Collect](https://www.cricketwireless.com/privacy#Collect)
-* [How We Collect Information](https://www.cricketwireless.com/privacy#HowCollect)
-* [How We Use your Information](https://www.cricketwireless.com/privacy#HowUse)
-* [How We Share your Information](https://www.cricketwireless.com/privacy#HowShare)
+* [When this Policy Applies](#Applies)
+* [The Information we Collect](#Collect)
+* [How We Collect Information](#HowCollect)
+* [How We Use your Information](#HowUse)
+* [How We Share your Information](#HowShare)
 * [Your Privacy Choices & Controls](https://www.cricketwireless.com/privacy#Privacy)
-* [Security](https://www.cricketwireless.com/privacy#Security)
-* [Other Privacy Information](https://www.cricketwireless.com/privacy#OtherPriv)  
+* [Security](#Security)
+* [Other Privacy Information](#OtherPriv)  
       
     **When this Policy Applies**  
     This Cricket Wireless Privacy Policy (“Policy”) covers the information generated when you use or subscribe to Cricket Wireless products, services, apps, websites or networks to which this Policy is linked. In the Policy, we call them “Products or Services” for short. They include voice, data, mobile broadband and other products, services, and apps.  
@@ -175,7 +175,7 @@ We collect information about you and how you’re using our Products or Services
   
 Here are detailed examples of types of information we collect from our Products or Services:
 
-* Account information includes things like contact and payment information, service-related details and history and similar information, including [Customer Proprietary Network Information](https://www.cricketwireless.com/privacy#CPNI). It also includes technical, equipment and usage information that relate to the services, products, websites, and networks we provide you. 
+* Account information includes things like contact and payment information, service-related details and history and similar information, including [Customer Proprietary Network Information](#CPNI). It also includes technical, equipment and usage information that relate to the services, products, websites, and networks we provide you. 
 * Web browsing and app information includes things like the websites you visit or mobile apps you use, on or off our network.  It includes internet protocol addresses and URLs, pixels, cookies and similar technologies, and identifiers such as advertising IDs and device IDs. It can also include information about the time you spend on websites or apps, the links or advertisements you see, search terms you enter, items identified in your online shopping carts and other similar information.
 * Equipment Information includes information that identifies or relates to equipment on our networks, such as type, identifier, status, settings, configuration, software or use.
 * Network performance and usage information includes information about our networks, including your use of Products or Services or equipment on the networks, and how they are performing.
@@ -210,7 +210,7 @@ Here are examples of ways we use your information:
 
 * We share it with your permission.
 * We share it across affiliate companies.
-* We share it with non-affiliate companies or entities as explained in this Policy. For more details about how your information may be shared for advertising and marketing see [Your Privacy Choices and Controls](https://www.cricketwireless.com/privacy#Privacy).
+* We share it with non-affiliate companies or entities as explained in this Policy. For more details about how your information may be shared for advertising and marketing see [Your Privacy Choices and Controls](#Privacy).
 
   
 Sharing information across the affiliates: Cricket is an AT&T company, and we share your information with AT&T and other companies in the AT&T family for a variety of purposes, including the marketing of Products and Services to you. Cricket already offers you certain choices and controls about Marketing and Advertising. Our affiliates are required to honor your choices and controls elections in order to use information they may receive from Cricket for their advertising or marketing purposes. If you are also an AT&T customer, making a choice per this Policy will not change any existing choices you may have made separately with AT&T.  For information collected under this Policy, we require the affiliate to use, share, and protect the information consistent with this Policy including honoring your communications preferences for first-party marketing of their products and services, your advertising consents and your State Data Rights and Choices.  We may also combine information from your Cricket Products or Services that identifies you personally with data that comes from an app or affiliate that has a different privacy policy. When we do that, our Policy applies to the combined data set.  
@@ -276,7 +276,9 @@ The Personalized program may place you into general categories of interest, such
 * Use automated decision-making, such as artificial intelligence, for things like marketing and advertising.
 * Use some types of your Sensitive Personal Information, like your ethnic or racial origin, for things like marketing and advertising, except as noted above.
 
-Most customers will be included in the Personalized program unless you opt out at [Limit the Use of My Personal Information](https://www.cricketwireless.com/cmp/ccpa/dnscricket). Customers in Colorado, Connecticut, Maine, and Virginia will not be included in the Personalized program. At this time, we do not offer the ability for customers in these states to opt-in to Personalized.  
+You can choose to participate or not. You are automatically enrolled in the Personalized program, but you can always opt out. Choices can be made at [Limit the Use of My Personal Information](https://www.cricketwireless.com/cmp/ccpa/dnscricket). If you live in certain states, we won’t collect, use, store or share your sensitive personal information for marketing and advertising. This includes information like ethnicity and racial origin. The states are Colorado, Connecticut, Delaware, Indiana, Iowa, Maine, Montana, Oregon, Tennessee, Texas, Utah, and Virginia.  
+  
+  
   
 Other Choices
 
@@ -497,8 +499,6 @@ Biometric Information Privacy Notice
 In addition to the information provided in the [Cricket Privacy Policy](https://www.cricketwireless.com/privacy), we want to help you better understand how Cricket treats Biometric Information. Biometric information is a unique biological pattern or characteristic or other unique physical or digital representation of biometric data, like a fingerprint, voiceprint, or scan of face geometry, that is used to identify a specific individual. We may use Biometric Information for purposes that include verifying or authenticating your identity, detecting, and preventing fraud and safety or other security purposes. Cricket will only retain Biometric Information until the initial purpose for collecting it has been satisfied or within three years of the individual’s last interaction with Cricket, whichever occurs first, unless legally required to keep it for a different period.  
   
 If you have a question about how this notice applies, contact [privacypolicy@cricketwireless.com.](mailto:privacypolicy@cricketwireless.com.)
-
-<\\p>
 
  
 
