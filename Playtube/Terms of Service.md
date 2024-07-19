@@ -596,26 +596,6 @@ Genre: [Horror](https://playtube.pk/category/horror/), [Mystery](https://playtub
 
 HD
 
- [![Ghostbusters: Frozen Empire](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ghostbusters-frozen-empire/)6.6
-
-### [Ghostbusters: Frozen Empire](https://playtube.pk/ghostbusters-frozen-empire/)
-
-2024 115 min _Movie_
-
-Ghostbusters: Frozen Empire
-
-6.6 2024 115 min HD
-
-The Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters, who've developed a top-secret research lab to take ...
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Adventure](https://playtube.pk/category/adventure/), [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/ghostbusters-frozen-empire/)
-
-HD
-
  [![Arthur the King](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/arthur-the-king/)6.1
 
 ### [Arthur the King](https://playtube.pk/arthur-the-king/)
@@ -633,6 +613,26 @@ Country: [Canada](https://playtube.pk/country/canada/)
 Genre: [Adventure](https://playtube.pk/category/adventure/), [Drama](https://playtube.pk/category/drama/)
 
 [](#)[Watch Now](https://playtube.pk/arthur-the-king/)
+
+HD
+
+ [![Ghostbusters: Frozen Empire](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ghostbusters-frozen-empire/)6.6
+
+### [Ghostbusters: Frozen Empire](https://playtube.pk/ghostbusters-frozen-empire/)
+
+2024 115 min _Movie_
+
+Ghostbusters: Frozen Empire
+
+6.6 2024 115 min HD
+
+The Spengler family returns to where it all started – the iconic New York City firehouse – to team up with the original Ghostbusters, who've developed a top-secret research lab to take ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Adventure](https://playtube.pk/category/adventure/), [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/ghostbusters-frozen-empire/)
 
 HD
 
@@ -741,459 +741,477 @@ Latest Movies
 
 HD
 
- [![Swollen](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/swollen/)10
+ [![The Gardener’s Year](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-gardeners-year/)0
 
-### [Swollen](https://playtube.pk/swollen/)
+### [The Gardener’s Year](https://playtube.pk/the-gardeners-year/)
 
-2024 33 min _Movie_
+2024 104 min _Movie_
 
-Swollen
+The Gardener’s Year
 
-10 2024 33 min HD
+0 2024 104 min HD
 
-Featuring five live performances of tracks from Dejima's EP, Swollen centers on the relationship of two brothers and the complications that come in tandem.
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/swollen/)
-
-HD
-
- [![Chelsea Wolfe: She Reaches Out](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/chelsea-wolfe-she-reaches-out/)0
-
-### [Chelsea Wolfe: She Reaches Out](https://playtube.pk/chelsea-wolfe-she-reaches-out/)
-
-2024 27 min _Movie_
-
-Chelsea Wolfe: She Reaches Out
-
-0 2024 27 min HD
-
-A look inside Chelsea Wolfe's 2024 tour, including live performances of songs from her album 'She Reaches Out To She Reaches Out To She'.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/chelsea-wolfe-she-reaches-out/)
-
-HD
-
- [![2024 EXO FAN MEETING : ONE](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/2024-exo-fan-meeting-one/)0
-
-### [2024 EXO FAN MEETING : ONE](https://playtube.pk/2024-exo-fan-meeting-one/)
-
-2024 129 min _Movie_
-
-2024 EXO FAN MEETING : ONE
-
-0 2024 129 min HD
-
-This fan meeting, happening one year after the 2023 'EXO' CLOCK', will feature six members, from leader Suho to Xiumin, Baekhyun, Chen, Chanyeol, and D.O. (Do Kyungsoo), excluding Kai ...
-
-Genre: [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/2024-exo-fan-meeting-one/)
-
-HD
-
- [![Rome Streetz Wuz Here: The Documentary](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rome-streetz-wuz-here-the-documentary/)0
-
-### [Rome Streetz Wuz Here: The Documentary](https://playtube.pk/rome-streetz-wuz-here-the-documentary/)
-
-2024 17 min _Movie_
-
-Rome Streetz Wuz Here: The Documentary
-
-0 2024 17 min HD
-
-For the first time, Rome Streetz makes his way Tokyo, Japan to leave his mark as one of the best to do it in hip hop. This short doc embodies how far Rome Streetz has come, and how ...
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/rome-streetz-wuz-here-the-documentary/)
-
-HD
-
- [![Maria Becerra Live: River](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/maria-becerra-live-river/)10
-
-### [Maria Becerra Live: River](https://playtube.pk/maria-becerra-live-river/)
-
-2024 156 min _Movie_
-
-Maria Becerra Live: River
-
-10 2024 156 min HD
-
-Between March 22 and 23, more than 130 thousand people will witness a new milestone for argentinian music: Maria Becerra will be the first female argentinian musician to play in River, ...
-
-Country: [Argentina](https://playtube.pk/country/argentina/)
-
-Genre: [Family](https://playtube.pk/category/family/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/maria-becerra-live-river/)
-
-HD
-
- [![Bass Impact](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/bass-impact/)0
-
-### [Bass Impact](https://playtube.pk/bass-impact/)
-
-2024 109 min _Movie_
-
-Bass Impact
-
-0 2024 109 min HD
-
-Details the unlikely path sound took from the illegal 90's British pirate radio airwaves and raves, to the dawn of dubstep's royal family in the London suburb Croydon, and on to the ...
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/bass-impact/)
-
-HD
-
- [![Powołany 2](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/powolany-2/)0
-
-### [Powołany 2](https://playtube.pk/powolany-2/)
-
-2024 0 min _Movie_
-
-Powołany 2
-
-0 2024 0 min HD
-
-Country: [Poland](https://playtube.pk/country/poland/)
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/powolany-2/)
-
-HD
-
- [![Invisible Friend](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/invisible-friend/)0
-
-### [Invisible Friend](https://playtube.pk/invisible-friend/)
-
-2024 0 min _Movie_
-
-Invisible Friend
-
-0 2024 0 min HD
-
-During Christmas, a group of friends get together to commemorate the suicide of their friend and celebrate a party with drinks, music and gifts. But maybe there is an invisible friend ...
-
-Country: [Spain](https://playtube.pk/country/spain/)
-
-Genre: [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/invisible-friend/)
-
-HD
-
- [![Yugodrom](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/yugodrom/)8
-
-### [Yugodrom](https://playtube.pk/yugodrom/)
-
-2024 90 min _Movie_
-
-Yugodrom
-
-8 2024 90 min HD
-
-A team of friends Alice, Pavla and Crvena run the YUGODROM hostel in an old apartment, dedicated to Yugoslavian nostalgia and done in the manner of socialism, full of details that ...
-
-Country: [Serbia](https://playtube.pk/country/serbia/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/yugodrom/)
-
-HD
-
- [![The Freshly Cut Grass](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-freshly-cut-grass/)0
-
-### [The Freshly Cut Grass](https://playtube.pk/the-freshly-cut-grass/)
-
-2024 114 min _Movie_
-
-The Freshly Cut Grass
-
-0 2024 114 min HD
-
-Pablo, professor at the University of Buenos Aires, has an affair with Luciana, one of his students. When the affair is discovered, he is threatened with losing his job and a family. ...
-
-Country: [Germany](https://playtube.pk/country/germany/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/the-freshly-cut-grass/)
-
-HD
-
- [![Hakeem](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/hakeem/)0
-
-### [Hakeem](https://playtube.pk/hakeem/)
-
-2024 55 min _Movie_
-
-Hakeem
-
-0 2024 55 min HD
-
-Troubled Eastender Hak Baker's life takes an unexpected turn after he wins a guitar in a prison raffle.
-
-Genre: [Documentary](https://playtube.pk/category/documentary/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/hakeem/)
-
-HD
-
- [![Britain’s Forgotten Prisoners](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/britains-forgotten-prisoners/)0
-
-### [Britain’s Forgotten Prisoners](https://playtube.pk/britains-forgotten-prisoners/)
-
-2024 80 min _Movie_
-
-Britain’s Forgotten Prisoners
-
-0 2024 80 min HD
-
-There are over three thousand forgotten prisoners languishing in jail in England and Wales, held indefinitely with no idea when they’ll be released, even though they completed their ...
-
-Genre: [Documentary](https://playtube.pk/category/documentary/)
-
-[](#)[Watch Now](https://playtube.pk/britains-forgotten-prisoners/)
-
-HD
-
- [![Pulang](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/pulang/)6
-
-### [Pulang](https://playtube.pk/pulang/)
-
-2024 90 min _Movie_
-
-Pulang
-
-6 2024 90 min HD
-
-A well-meaning but impulsive father takes his teenage daughter to the Moluccan neighbourhood of his youth, where unprocessed family trauma's put their relationship on edge.
-
-Country: [Netherlands](https://playtube.pk/country/netherlands/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/pulang/)
-
-HD
-
- [![Silent Introduction](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/silent-introduction/)0
-
-### [Silent Introduction](https://playtube.pk/silent-introduction/)
-
-2024 7 min _Movie_
-
-Silent Introduction
-
-0 2024 7 min HD
-
-A pretentious record store clerk must defend her music taste after a finance bro tries to purchase a rare used record.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/silent-introduction/)
-
-HD
-
- [![Geister](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/geister/)0
-
-### [Geister](https://playtube.pk/geister/)
-
-2024 83 min _Movie_
-
-Geister
-
-0 2024 83 min HD
-
-Country: [Germany](https://playtube.pk/country/germany/)
+Country: [Czech Republic](https://playtube.pk/country/czech-republic/)
 
 Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
 
-[](#)[Watch Now](https://playtube.pk/geister/)
+[](#)[Watch Now](https://playtube.pk/the-gardeners-year/)
 
 HD
 
- [![Protecting Paradise: The Story of Niue](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/protecting-paradise-the-story-of-niue/)10
+ [![Le Larbin](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/le-larbin/)0
 
-### [Protecting Paradise: The Story of Niue](https://playtube.pk/protecting-paradise-the-story-of-niue/)
-
-2024 45 min _Movie_
-
-Protecting Paradise: The Story of Niue
-
-10 2024 45 min HD
-
-The documentary follows leaders and community members from the tropical Pacific island nation who are making bold changes to move the needle on marine protection. With a population of ...
-
-Genre: [Documentary](https://playtube.pk/category/documentary/)
-
-[](#)[Watch Now](https://playtube.pk/protecting-paradise-the-story-of-niue/)
-
-HD
-
- [![The Boy and the Suit of Lights](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-boy-and-the-suit-of-lights/)0
-
-### [The Boy and the Suit of Lights](https://playtube.pk/the-boy-and-the-suit-of-lights/)
-
-2024 80 min _Movie_
-
-The Boy and the Suit of Lights
-
-0 2024 80 min HD
-
-A young boy grows up in a Spanish town with dreams of being a bullfighter in an age when tradition and modernity are in constant conflict.
-
-Genre: [Documentary](https://playtube.pk/category/documentary/)
-
-[](#)[Watch Now](https://playtube.pk/the-boy-and-the-suit-of-lights/)
-
-HD
-
- [![Kıyma: Orman Kanunları](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/kiyma-orman-kanunlari/)0
-
-### [Kıyma: Orman Kanunları](https://playtube.pk/kiyma-orman-kanunlari/)
+### [Le Larbin](https://playtube.pk/le-larbin/)
 
 2024 0 min _Movie_
 
-Kıyma: Orman Kanunları
+Le Larbin
 
 0 2024 0 min HD
 
-Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/kiyma-orman-kanunlari/)
-
-HD
-
- [![Unexpected Duet](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/unexpected-duet/)10
-
-### [Unexpected Duet](https://playtube.pk/unexpected-duet/)
-
-2024 5 min _Movie_
-
-Unexpected Duet
-
-10 2024 5 min HD
-
-A young woman is set up on a blind date after a long day.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Music](https://playtube.pk/category/music/)
-
-[](#)[Watch Now](https://playtube.pk/unexpected-duet/)
-
-HD
-
- [![The Habit Breakers](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-habit-breakers/)10
-
-### [The Habit Breakers](https://playtube.pk/the-habit-breakers/)
-
-2024 10 min _Movie_
-
-The Habit Breakers
-
-10 2024 10 min HD
-
-A vibrant and bold reality show crew dives into the life of a man whose attempt to preserve his father's legacy through Charlie Chaplin memorabilia spirals into a chaotic and troubling ...
+Country: [France](https://playtube.pk/country/france/)
 
 Genre: [Comedy](https://playtube.pk/category/comedy/)
 
-[](#)[Watch Now](https://playtube.pk/the-habit-breakers/)
+[](#)[Watch Now](https://playtube.pk/le-larbin/)
 
 HD
 
- [![Cirque de Mortel](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/cirque-de-mortel/)0
+ [![3391 Kilometre](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/3391-kilometre/)7.2
 
-### [Cirque de Mortel](https://playtube.pk/cirque-de-mortel/)
+### [3391 Kilometre](https://playtube.pk/3391-kilometre/)
 
-2024 5 min _Movie_
+2024 109 min _Movie_
 
-Cirque de Mortel
+3391 Kilometre
 
-0 2024 5 min HD
+7.2 2024 109 min HD
 
-At Cirque de Mortel, the circus artists perform thrilling acts where their lives are constantly put on the line. One day, Death arrives to finally bring them all down to the Underworld. ...
+Would you fall in love with a person whose voice you haven't heard for months, whose face you haven't touched, you can't smell, you don't even have the chance to pass by the same ...
+
+Country: [Turkey](https://playtube.pk/country/turkey/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/3391-kilometre/)
+
+HD
+
+ [![Sommartider](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sommartider/)0
+
+### [Sommartider](https://playtube.pk/sommartider/)
+
+2024 0 min _Movie_
+
+Sommartider
+
+0 2024 0 min HD
+
+A story about how the legendary Swedish band Gyllene Tider became one of Sweden's biggest pop sensations. Per is the ambitious outsider at school, who discovers friends for life through ...
 
 Country: [Sweden](https://playtube.pk/country/sweden/)
 
-Genre: [Animation](https://playtube.pk/category/animation/), [Comedy](https://playtube.pk/category/comedy/)
+Genre: [Drama](https://playtube.pk/category/drama/), [Music](https://playtube.pk/category/music/)
 
-[](#)[Watch Now](https://playtube.pk/cirque-de-mortel/)
+[](#)[Watch Now](https://playtube.pk/sommartider/)
 
 HD
 
- [![The Haters](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-haters/)0
+ [![Eat the Night](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/eat-the-night/)0
 
-### [The Haters](https://playtube.pk/the-haters/)
+### [Eat the Night](https://playtube.pk/eat-the-night/)
 
-2024 7 min _Movie_
+2024 106 min _Movie_
 
-The Haters
+Eat the Night
 
-0 2024 7 min HD
+0 2024 106 min HD
 
-A downbeat detective takes on a case, which leads him to a nihilistic cult that challenges his beliefs.
+Young drug dealer Pablo and his sister Appoline bond over an online game called Darknoon. Pablo falls for Night, neglecting his sister. While Appoline finishes the game, Pablo and Night ...
+
+Country: [France](https://playtube.pk/country/france/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Thriller](https://playtube.pk/category/thriller/)
+
+[](#)[Watch Now](https://playtube.pk/eat-the-night/)
+
+HD
+
+ [![Quad Gods](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/quad-gods/)0
+
+### [Quad Gods](https://playtube.pk/quad-gods/)
+
+2024 90 min _Movie_
+
+Quad Gods
+
+0 2024 90 min HD
+
+As the world’s first all quadriplegic esports gaming team, the Quad Gods are fierce competitors in this captivating story that challenges assumptions about disability, and spotlights ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Documentary](https://playtube.pk/category/documentary/)
+
+[](#)[Watch Now](https://playtube.pk/quad-gods/)
+
+HD
+
+ [![Love All Over Your Face](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/love-all-over-your-face/)4
+
+### [Love All Over Your Face](https://playtube.pk/love-all-over-your-face/)
+
+2024 0 min _Movie_
+
+Love All Over Your Face
+
+4 2024 0 min HD
+
+Dani, a Spaniard with an English mother, and Ana, an American woman with Mexican parents, are friends with benefits. Dani travels to Spain, but cannot return to the USA, so he has to ...
+
+Country: [Spain](https://playtube.pk/country/spain/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/love-all-over-your-face/)
+
+HD
+
+ [![Tyler Perry’s Divorce in the Black](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/tyler-perrys-divorce-in-the-black/)6.6
+
+### [Tyler Perry’s Divorce in the Black](https://playtube.pk/tyler-perrys-divorce-in-the-black/)
+
+2024 121 min _Movie_
+
+Tyler Perry’s Divorce in the Black
+
+6.6 2024 121 min HD
+
+Ava, a young bank professional is devastated when her husband Dallas abandons a marriage she is determined to fight for until fate intervenes, revealing Dallas' wicked deeds that have ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Mystery](https://playtube.pk/category/mystery/)
+
+[](#)[Watch Now](https://playtube.pk/tyler-perrys-divorce-in-the-black/)
+
+HD
+
+ [![The Dry](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-dry/)6.8
+
+### [The Dry](https://playtube.pk/the-dry/)
+
+2021 117 min _Movie_
+
+The Dry
+
+6.8 2021 117 min HD
+
+Aaron Falk returns to his drought-stricken hometown to attend a tragic funeral. But his return opens a decades-old wound - the unsolved death of a teenage girl.
+
+Country: [Australia](https://playtube.pk/country/australia/)
+
+Genre: [Crime](https://playtube.pk/category/crime/), [Mystery](https://playtube.pk/category/mystery/)
+
+[](#)[Watch Now](https://playtube.pk/the-dry/)
+
+HD
+
+ [![Mírame](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/mirame/)6.8
+
+### [Mírame](https://playtube.pk/mirame/)
+
+2021 96 min _Movie_
+
+Mírame
+
+6.8 2021 96 min HD
+
+Lalo is a teenager tormented by the recent death of his dad, and being forced to move to an old house with his grandmother Elena. After taking his dad's old wristwatch, the ghost of a ...
+
+Country: [Mexico](https://playtube.pk/country/mexico/)
+
+Genre: [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/mirame/)
+
+HD
+
+ [![Christmas Is Canceled](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/christmas-is-canceled/)5.5
+
+### [Christmas Is Canceled](https://playtube.pk/christmas-is-canceled/)
+
+2021 95 min _Movie_
+
+Christmas Is Canceled
+
+5.5 2021 95 min HD
+
+A father begins dating his 29-year-old daughter Emma's high school frenemy soon after his wife passes away. His daughter embarks on a mission to break up the happy couple.
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/christmas-is-canceled/)
+
+HD
+
+ [![Compartment No. 6](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/compartment-no-6/)7.0
+
+### [Compartment No. 6](https://playtube.pk/compartment-no-6/)
+
+2021 106 min _Movie_
+
+Compartment No. 6
+
+7.0 2021 106 min HD
+
+A young Finnish woman escapes an enigmatic love affair in Moscow by boarding a train to the arctic port of Murmansk. Forced to share the long ride and a tiny sleeping car with a larger ...
+
+Country: [Estonia](https://playtube.pk/country/estonia/)
+
+Genre: [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/compartment-no-6/)
+
+HD
+
+ [![The Eyes of Tammy Faye](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-eyes-of-tammy-faye/)6.5
+
+### [The Eyes of Tammy Faye](https://playtube.pk/the-eyes-of-tammy-faye/)
+
+2021 126 min _Movie_
+
+The Eyes of Tammy Faye
+
+6.5 2021 126 min HD
+
+From the 1960's to the 1980's, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to to build an empire based on big-time evangelical ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [History](https://playtube.pk/category/history/)
+
+[](#)[Watch Now](https://playtube.pk/the-eyes-of-tammy-faye/)
+
+HD
+
+ [![The Bitch Who Stole Christmas](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-bitch-who-stole-christmas/)5.1
+
+### [The Bitch Who Stole Christmas](https://playtube.pk/the-bitch-who-stole-christmas/)
+
+2021 86 min _Movie_
+
+The Bitch Who Stole Christmas
+
+5.1 2021 86 min HD
+
+A workaholic big-city fashion journalist is sent to a Christmas-obsessed small town to dig up a story when she finds herself in the middle of cut-throat housewives, a high-stakes ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/the-bitch-who-stole-christmas/)
+
+HD
+
+ [![The Year Earth Changed](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-year-earth-changed/)7.9
+
+### [The Year Earth Changed](https://playtube.pk/the-year-earth-changed/)
+
+2021 48 min _Movie_
+
+The Year Earth Changed
+
+7.9 2021 48 min HD
+
+Never-before-seen footage shows how our living in lockdown opened the door for nature to bounce back and thrive. Across the seas, skies, and lands, Earth found its rhythm when we came ...
+
+Country: [UK](https://playtube.pk/country/uk/)
+
+Genre: [Documentary](https://playtube.pk/category/documentary/)
+
+[](#)[Watch Now](https://playtube.pk/the-year-earth-changed/)
+
+HD
+
+ [![Queenpins](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/queenpins/)6.5
+
+### [Queenpins](https://playtube.pk/queenpins/)
+
+2021 110 min _Movie_
+
+Queenpins
+
+6.5 2021 110 min HD
+
+Bored and frustrated suburban homemaker Connie and her best pal JoJo, a vlogger with dreams, turn a hobby into a multi-million-dollar counterfeit coupon caper. After firing off a letter ...
 
 Country: [USA](https://playtube.pk/country/usa/)
 
 Genre: [Comedy](https://playtube.pk/category/comedy/), [Crime](https://playtube.pk/category/crime/)
 
-[](#)[Watch Now](https://playtube.pk/the-haters/)
+[](#)[Watch Now](https://playtube.pk/queenpins/)
 
 HD
 
- [![Romeo è Giulietta](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/romeo-e-giulietta/)8
+ [![Summer Ghost](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/summer-ghost/)7.2
 
-### [Romeo è Giulietta](https://playtube.pk/romeo-e-giulietta/)
+### [Summer Ghost](https://playtube.pk/summer-ghost/)
 
-2024 112 min _Movie_
+2021 40 min _Movie_
 
-Romeo è Giulietta
+Summer Ghost
 
-8 2024 112 min HD
+7.2 2021 40 min HD
 
-Country: [Italy](https://playtube.pk/country/italy/)
+An urban legend says that lighting fireworks at an abandoned airfield will beckon the "summer ghost," a spirit that can answer any question. Three teenagers, Tomoya, Aoi, and Ryo, each ...
+
+Country: [Japan](https://playtube.pk/country/japan/)
+
+Genre: [Animation](https://playtube.pk/category/animation/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/summer-ghost/)
+
+HD
+
+ [![The Empty Chair: Final Exam](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-empty-chair-final-exam/)3.6
+
+### [The Empty Chair: Final Exam](https://playtube.pk/the-empty-chair-final-exam/)
+
+2023 86 min _Movie_
+
+The Empty Chair: Final Exam
+
+3.6 2023 86 min HD
+
+Dozens of students died gruesomely during the last school exams. It started with one of the students being possessed and harming the others. The devil's power threatens their lives.
+
+Country: [Indonesia](https://playtube.pk/country/indonesia/)
+
+Genre: [Horror](https://playtube.pk/category/horror/), [Thriller](https://playtube.pk/category/thriller/)
+
+[](#)[Watch Now](https://playtube.pk/the-empty-chair-final-exam/)
+
+HD
+
+ [![Our Tiny Little Wedding](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/our-tiny-little-wedding/)4.3
+
+### [Our Tiny Little Wedding](https://playtube.pk/our-tiny-little-wedding/)
+
+2023 82 min _Movie_
+
+Our Tiny Little Wedding
+
+4.3 2023 82 min HD
+
+Max and Lou have made a promise to each other. For their wedding it will be only them and their witnesses. But that... That was without counting on the HUGE surprise party that awaits ...
+
+Country: [France](https://playtube.pk/country/france/)
 
 Genre: [Comedy](https://playtube.pk/category/comedy/)
 
-[](#)[Watch Now](https://playtube.pk/romeo-e-giulietta/)
+[](#)[Watch Now](https://playtube.pk/our-tiny-little-wedding/)
 
 HD
 
- [![Apple Music Live: SZA](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/apple-music-live-sza/)0
+ [![Pilecki’s Report](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/pileckis-report/)6.6
 
-### [Apple Music Live: SZA](https://playtube.pk/apple-music-live-sza/)
+### [Pilecki’s Report](https://playtube.pk/pileckis-report/)
 
-2024 60 min _Movie_
+2023 119 min _Movie_
 
-Apple Music Live: SZA
+Pilecki’s Report
 
-0 2024 60 min HD
+6.6 2023 119 min HD
 
-A live concert from SZA at the Barclays Center, Brooklyn, New York from the SOS Tour.
+The heroic story of Captain Witold Pilecki, a WWII soldier who exposed the atrocities committed at Auschwitz, comes alive in this sweeping biopic.
 
-Country: [USA](https://playtube.pk/country/usa/)
+Country: [Poland](https://playtube.pk/country/poland/)
 
-Genre: [Music](https://playtube.pk/category/music/)
+Genre: [Drama](https://playtube.pk/category/drama/), [History](https://playtube.pk/category/history/)
 
-[](#)[Watch Now](https://playtube.pk/apple-music-live-sza/)
+[](#)[Watch Now](https://playtube.pk/pileckis-report/)
+
+HD
+
+ [![Apocalipsis Z: El principio del fin](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/apocalipsis-z-el-principio-del-fin/)0
+
+### [Apocalipsis Z: El principio del fin](https://playtube.pk/apocalipsis-z-el-principio-del-fin/)
+
+2024 0 min _Movie_
+
+Apocalipsis Z: El principio del fin
+
+0 2024 0 min HD
+
+Manel sheltering from a rabies-like disease which sweeps the planet, until forced to leave and meet unlikely but essential traveling companions.
+
+Country: [Spain](https://playtube.pk/country/spain/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
+
+[](#)[Watch Now](https://playtube.pk/apocalipsis-z-el-principio-del-fin/)
+
+HD
+
+ [![For Alice](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/for-alice/)0
+
+### [For Alice](https://playtube.pk/for-alice/)
+
+2024 82 min _Movie_
+
+For Alice
+
+0 2024 82 min HD
+
+Chow Kam Wing’s intricate, suspenseful neo-noir charts an unlikely bond between grizzled veteran Tai Bo and rising star Kuku So—he a mysterious rescuer, she a teenager running away from ...
+
+Genre:
+
+[](#)[Watch Now](https://playtube.pk/for-alice/)
+
+HD
+
+ [![Cultural Comedy](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/cultural-comedy/)0
+
+### [Cultural Comedy](https://playtube.pk/cultural-comedy/)
+
+2024 95 min _Movie_
+
+Cultural Comedy
+
+0 2024 95 min HD
+
+Cynical Perm official Viktor Letaev oversees road construction and is used to always getting his way. He knows and loves his job, but is not interested in anything else. His credo: "I ...
+
+Country: [Russia](https://playtube.pk/country/russia/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/cultural-comedy/)
+
+HD
+
+ [![Waiting for the Night](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/waiting-for-the-night/)5.9
+
+### [Waiting for the Night](https://playtube.pk/waiting-for-the-night/)
+
+2024 104 min _Movie_
+
+Waiting for the Night
+
+5.9 2024 104 min HD
+
+The day they move into a new neighborhood, the Feral family plans to look as normal and friendly as possible. But their son, Philemon, is no ordinary teenager. When he gets closer to ...
+
+Country: [Belgium](https://playtube.pk/country/belgium/)
+
+Genre: [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/waiting-for-the-night/)
 
 Latest TV Series
 ----------------
@@ -1612,21 +1630,19 @@ Genre: [Drama](https://playtube.pk/category/drama/)
 
 HD
 
- [![Lex Africana](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/lex-africana/)0
+ [![بيت أم الغلام](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/%d8%a8%d9%8a%d8%aa-%d8%a3%d9%85-%d8%a7%d9%84%d8%ba%d9%84%d8%a7%d9%85/)0
 
-### [Lex Africana](https://playtube.pk/lex-africana/)
+### [بيت أم الغلام](https://playtube.pk/%d8%a8%d9%8a%d8%aa-%d8%a3%d9%85-%d8%a7%d9%84%d8%ba%d9%84%d8%a7%d9%85/)
 
-SS 1 EP 2 _TV_
+SS 1 EP 30 _TV_
 
-Lex Africana
+بيت أم الغلام
 
-0 2024 52 min HD
+0 2024 n/a HD
 
-Country: [Senegal](https://playtube.pk/country/senegal/)
+Genre: [Drama](https://playtube.pk/category/drama/)
 
-Genre: [Mystery](https://playtube.pk/category/mystery/)
-
-[](#)[Watch Now](https://playtube.pk/lex-africana/)
+[](#)[Watch Now](https://playtube.pk/%d8%a8%d9%8a%d8%aa-%d8%a3%d9%85-%d8%a7%d9%84%d8%ba%d9%84%d8%a7%d9%85/)
 
 PlayTube Movies - Watch Free HD Movies And TV Series
 ====================================================
@@ -1703,11 +1719,11 @@ Pages
 
 Recent Posts
 
-* [Swollen](https://playtube.pk/swollen/)
-* [Chelsea Wolfe: She Reaches Out](https://playtube.pk/chelsea-wolfe-she-reaches-out/)
-* [2024 EXO FAN MEETING : ONE](https://playtube.pk/2024-exo-fan-meeting-one/)
-* [Rome Streetz Wuz Here: The Documentary](https://playtube.pk/rome-streetz-wuz-here-the-documentary/)
-* [Maria Becerra Live: River](https://playtube.pk/maria-becerra-live-river/)
+* [The Gardener’s Year](https://playtube.pk/the-gardeners-year/)
+* [3391 Kilometre](https://playtube.pk/3391-kilometre/)
+* [Le Larbin](https://playtube.pk/le-larbin/)
+* [Sommartider](https://playtube.pk/sommartider/)
+* [Eat the Night](https://playtube.pk/eat-the-night/)
 
 Meta
 
