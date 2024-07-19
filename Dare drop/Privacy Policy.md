@@ -178,7 +178,7 @@ _Updated: Nov 2023_
 
 [Contact us](mailto:support@DareDrop.com)[Terms of Service](https://daredrop.com/terms)[Cookie Policy](https://daredrop.com/cookie-policy)[Privacy Policy](https://daredrop.com/privacy-policy)
 
-[Get Press Kit](https://daredrop.com/files/Dare_Drop_Brand_Kit.pdf)[Job Openings](https://boards.greenhouse.io/daredrop)
+[Get Press Kit](https://daredrop.com/files/Dare_Drop_Brand_Kit.pdf)
 
 EN
 
