@@ -243,12 +243,60 @@ _Notices_. Any communication(s) or notice (and any related materials or informat
 _Contact_. If you have questions regarding the Plex Solution or if you are interested in obtaining more information concerning Plex or its products, services, or solutions, please [contact Plex](https://www.plex.tv/contact/).
 
 * [Privacy Policy](https://www.plex.tv/about/privacy-legal/)
-* [Privacy Preferences](https://www.plex.tv/about/privacy-legal/privacy-preferences/)
 * [Terms](https://www.plex.tv/about/privacy-legal/plex-terms-of-service/)
 * [Copyright](https://www.plex.tv/about/privacy-legal/plex-copyright-policy/)
 * [Trademarks](https://www.plex.tv/about/privacy-legal/plex-trademarks-and-guidelines/)
 * [Subscriptions and Rentals](https://www.plex.tv/about/privacy-legal/subscriptions-and-rentals/)
 * [Content Guidelines](https://www.plex.tv/about/privacy-legal/content-guidelines/)
+
+#### We value your privacy.
+
+Plex and our partners use standard Web technologies, such as browser cookies, which may be necessary to make our site work and enable core functionality, such as security, network management, and accessibility. You may disable these by changing your browser settings, but note that it may affect how our site functions.
+
+We’d also like to enable analytics cookies, optional to you, to improve our website by collecting and reporting information on how you use it; we specifically use Google and Facebook analytics to derive insights about who is doing what on our site and to help us improve your experience. We won’t set these optional cookies unless you agree to and enable them. This tool will set a cookie on your device to remember your preferences once you have accepted.
+
+I Accept
+
+I Reject
+
+More Options
+
+#### We value your privacy.
+
+Plex and our partners use standard Web technologies, such as browser cookies, which may be necessary to make our site work and enable core functionality, such as security, network management, and accessibility. You may disable these by changing your browser settings, but note that it may affect how our site functions.
+
+We’d also like to enable analytics cookies, optional to you, to improve our website by collecting and reporting information on how you use it; we specifically use Google and Facebook analytics to derive insights about who is doing what on our site and to help us improve your experience. We won’t set these optional cookies unless you agree to and enable them. This tool will set a cookie on your device to remember your preferences once you have accepted.
+
+I Accept I Reject More Options
+
+Plex’s use of cookies
+---------------------
+
+Necessary cookies make our site work. We’d also like to enable analytics cookies, optional to you, to help us improve the site and your experience. This tool will set a cookie on your device to remember your preferences once you have accepted. You can change your mind and change your consent choices at any time by returning to this site.
+
+For more information on how these cookies work please see our [Tracking Technologies page](https://www.plex.tv/about/privacy-legal/tracking-technologies/).
+
+### Necessary cookies
+
+Necessary cookies enable core functionality on our site, such as security, network management, and accessibility. You may disable these by changing your browser settings, but it may affect how the site functions.
+
+### Analytics cookies
+
+Analytics cookies help us improve our website by collecting and reporting information on how you use it; we specifically use Google analytics to derive insights about who is doing what on our site. These cookies collect information anonymously.
+
+OFF
+
+### Third Party Cookies
+
+Third-party cookies enable us to correctly attribute traffic driven to our site; specifically, we use Facebook cookies to measure performance of Facebook campaigns, as well as cookies from Commission Junction, which help us see traffic directed to our site by affiliates we work with in marketing.
+
+OFF
+
+Accept All
+
+Reject All
+
+Save & Exit
 
 {{#if (or isSignedIn isSigninIn) }}
 
@@ -306,8 +354,9 @@ No credit card required.
     * [Discover on Plex](https://www.plex.tv/discover/)
     * [TV Channel Finder](https://www.plex.tv/live-tv-channels/)
     * [What to Watch](https://www.plex.tv/what-to-watch/)
+    * [What To Watch on Netflix](https://www.plex.tv/what-to-watch/netflix/)
     * [What To Watch on Hulu](https://www.plex.tv/what-to-watch/hulu/)
-    * [A24 collection](https://www.plex.tv/a24-movies/)
+    * [A24 movies](https://www.plex.tv/a24-movies/)
 
 Copyright © 2024 Plex
 
