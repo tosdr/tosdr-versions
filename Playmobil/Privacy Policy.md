@@ -12,7 +12,7 @@ Menu
     
     * Toddler
         
-        [1.2.3](https://www.playmobil.us/en-us/web-shop/1.2.3/ "1.2.3")
+        [Junior](https://www.playmobil.com/en-us/content/junior_themepage/junior_themepage.html "Junior")
         
     * Your World
         
@@ -22,7 +22,7 @@ Menu
         
         [Miraculous](https://www.playmobil.com/en-us/content/miraculous_themepage/miraculous_themepage.html "Miraculous")[Princess Magic](https://www.playmobil.com/en-us/content/princess_magic_themepage/princess_magic_themepage.html "Princess Magic")[Pirates](https://www.playmobil.com/en-us/content/pirates_themepage/pirates_themepage.html "Pirates")[Western](https://www.playmobil.us/en-us/web-shop/western/ "Western")[Novelmore](https://www.playmobil.us/en-us/web-shop/novelmore/ "Novelmore")
         
-        [Ghostbusters](https://www.playmobil.us/en-us/web-shop/ghostbusters/ "Ghostbusters")[Ayuma](https://www.playmobil.us/en-us/web-shop/ayuma/ "Ayuma")[Dino Rise](https://www.playmobil.us/en-us/web-shop/dino-rise/ "Dino Rise")[Dinos](https://www.playmobil.us/en-us/web-shop/dinos/ "Dinos")[SCOOBY-DOO!](https://www.playmobil.us/en-us/web-shop/scooby-doo%21/ "SCOOBY-DOO!")
+        [Ayuma](https://www.playmobil.us/en-us/web-shop/ayuma/ "Ayuma")[Dino Rise](https://www.playmobil.us/en-us/web-shop/dino-rise/ "Dino Rise")[Dinos](https://www.playmobil.us/en-us/web-shop/dinos/ "Dinos")[SCOOBY-DOO!](https://www.playmobil.us/en-us/web-shop/scooby-doo%21/ "SCOOBY-DOO!")
         
     * Fans & Collectors
         
@@ -132,9 +132,9 @@ Subscribe to our PLAYMOBIL newsletter and receive a 15% off Welcome Coupon.
     
 * Catalog
     
-    * [Online Catalog](https://playmobil.a.bigcontent.io/v1/static/NEW_WEB_Consumercatalog_USA_1_2024)
-    * [PLAYMOBIL PLUS Catalog](https://playmobil.a.bigcontent.io/v1/static/FINAL_WEB_DS_USA_2024)
-    * [1.2.3 Catalog](https://playmobil.a.bigcontent.io/v1/static/FINAL_USA_123Katalog_2023_Online)
+    * [Online Catalog](https://playmobil.a.bigcontent.io/v1/static/FINAL_WEB_Cosumer%20Catalog_2%202024_USA_MEX)
+    * [PLAYMOBIL PLUS Catalog](https://playmobil.a.bigcontent.io/v1/static/FiNAL_WEB_USA_Mexico_DS_2024_from_04.04.2024)
+    * [JUNIOR Catalog](https://playmobil.a.bigcontent.io/v1/static/FINAL_WEB_USA_Junior_Katalog_2024_ONLINE_ohne_Tinti_1)
     
 * More
     
