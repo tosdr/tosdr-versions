@@ -336,7 +336,6 @@ Toggle Navigation
         ![](/assets/images/article/ip_cores.jpg)
         
     * [7130 Connect Series](https://www.arista.com/en/products/7130-connect)
-    * [7130B Series](https://www.arista.com/en/products/7130b-series)
     * [7130E Series](https://www.arista.com/en/products/7130e-series)
     * [7130L Series](https://www.arista.com/en/products/7130l-series)
     * [7130LBR Series](https://www.arista.com/en/products/7130lbr-series)
