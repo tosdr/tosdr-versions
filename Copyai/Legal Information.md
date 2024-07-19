@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://www.copy.ai/)
+[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
 Product
 
@@ -104,7 +104,7 @@ Learn
 
 Get Support
 
-[Help Center](https://support.copy.ai/en/)[Contact Support](https://copy.ai/contact-us)
+[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)
 
 Tools and Templates
 
@@ -240,7 +240,7 @@ Learn
 
 Get Support
 
-[Help Center](https://support.copy.ai/en/)[Contact Support](https://copy.ai/contact-us)
+[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)
 
 Tools and Templates
 
