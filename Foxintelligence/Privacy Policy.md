@@ -342,11 +342,11 @@ Check our last articles of blog
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
-[![](https://www.foxintelligence.io/wp-content/uploads/2024/06/pexels-karolina-grabowska-5706273-1024x683.jpg)](https://www.foxintelligence.io/the-vinted-tidal-wave-a-second-hand-essential/)
+[![](https://www.foxintelligence.io/wp-content/uploads/2024/07/temu-1024x619.png)](https://www.foxintelligence.io/exploring-temus-first-year-in-france-key-ecommerce-trends-and-insights/)
 
-[The Vinted Tidal Wave: A Second-Hand Essential](https://www.foxintelligence.io/the-vinted-tidal-wave-a-second-hand-essential/)
+[Exploring TEMU’s first year in France: Key eCommerce trends and insights](https://www.foxintelligence.io/exploring-temus-first-year-in-france-key-ecommerce-trends-and-insights/)
 
-The second-hand market is experiencing a meteoric rise, transforming from a mere trend into a crucial economic pillar. Once marginalized, …
+TEMU, the Chinese e-commerce platform, has quickly captivated French consumers since its launch at the end of April 2023. Offering …
 
 [Other articles](https://www.foxintelligence.io/insights/blog)
 
