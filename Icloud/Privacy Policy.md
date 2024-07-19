@@ -175,7 +175,7 @@ About third-party data centers
 
 Both Apple and third-party data centers may be used to store and process your data. When processing data stored in a third-party data center, encryption keys are accessed only by Apple software running on secure servers, and only while conducting the necessary processing. The keys are always stored and secured in Apple data centers. Apple doesn't access or store keys for any end-to-end encrypted data.
 
-Information about products not manufactured by Apple, or independent websites not controlled or tested by Apple, is provided without recommendation or endorsement. Apple assumes no responsibility with regard to the selection, performance, or use of third-party websites or products. Apple makes no representations regarding third-party website accuracy or reliability. [Contact the vendor](http://support.apple.com/kb/HT2693) for additional information.
+Information about products not manufactured by Apple, or independent websites not controlled or tested by Apple, is provided without recommendation or endorsement. Apple assumes no responsibility with regard to the selection, performance, or use of third-party websites or products. Apple makes no representations regarding third-party website accuracy or reliability. [Contact the vendor](https://support.apple.com/103190) for additional information.
 
 Published Date: January 10, 2024
 
