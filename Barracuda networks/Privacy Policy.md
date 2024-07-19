@@ -48,7 +48,7 @@ MENU [](https://www.barracuda.com/)
 
 * * *
 
-[![Barracuda provides a comprehensive cybersecurity platform that includes Email Protection, Application Protection, Network Protection, Data Protection, and Managed XDR.](/content/experience-fragments/barracuda-corp/us/en/site/header/master/_jcr_content/root/container/header/mega-menu/tabItem-mega-menu-0-1635182815730/horizontal_tab/tab0-1694733144258/container/image.coreimg.svg/1717005033350/platform-diagram.svg)](https://www.barracuda.com/products)
+[![Barracuda provides a comprehensive cybersecurity platform that includes Email Protection, Application Protection, Network Protection, Data Protection, and Managed XDR.](/content/experience-fragments/barracuda-corp/us/en/site/header/master/_jcr_content/root/container/header/mega-menu/tabItem-mega-menu-0-1635182815730/horizontal_tab/tab0-1694733144258/container/image.coreimg.svg/1721083570400/platform-diagram.svg)](https://www.barracuda.com/products)
 
 [EXPLORE THE PLATFORM](https://www.barracuda.com/products)
 
@@ -56,37 +56,43 @@ MENU [](https://www.barracuda.com/)
 
 * * *
 
-THREAT PREVENTION
------------------
+**Threat Prevention**
 
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/spam-malware)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/account-takeover-protection)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/domain-fraud-protection)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/web-security)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/zero-trust-access-for-microsoft-365)
+[\[email protected\]](https://www.barracuda.com/products/email-protection/spam-malware)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/account-takeover-protection)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/domain-fraud-protection)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/web-security)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/zero-trust-access-for-microsoft-365)
 
 [Email Threat Scan](https://www.barracuda.com/products/email-scan)
 
-POST-DELIVERY DETECTION AND RESPONSE
-------------------------------------
+**Post-Delivery Detection and Response**
 
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/incident-response)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/security-awareness-training)
+[\[email protected\]](https://www.barracuda.com/products/email-protection/incident-response)
 
-DATA PROTECTION AND COMPLIANCE
-------------------------------
+[\[email protected\]](https://www.barracuda.com/products/email-protection/security-awareness-training)
 
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/email-encryption)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/cloud-to-cloud-backup)
-* [\[email protected\]](https://www.barracuda.com/products/email-protection/cloud-archiving)
-* [Data Inspector](https://www.barracuda.com/products/data-protection/data-inspector?from=email)
+**Data Protection and Compliance**
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/email-encryption)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/cloud-to-cloud-backup)
+
+[\[email protected\]](https://www.barracuda.com/products/email-protection/cloud-archiving)
+
+[Data Inspector](https://www.barracuda.com/products/data-protection/data-inspector?from=email)
 
 [Application Protection Protect all your web apps and APIs with one comprehensive platform.](https://www.barracuda.com/products/application-protection)
 
 * * *
 
-**USE CASES**
+**Use Cases**
 
 [Web Application Protection](https://www.barracuda.com/products/application-protection/web-application-protection)
 
@@ -102,7 +108,7 @@ DATA PROTECTION AND COMPLIANCE
 
 [Free Website Vulnerability Scan](https://bvm.barracudanetworks.com/appscan_signup?barracuda_web_visitor_id=51703651&session_id=1d4f26cc77464a90368749630261edda)
 
-**DEPLOYMENT OPTIONS**
+**Deployment Options**
 
 [Web Application Firewall](https://www.barracuda.com/products/application-protection/web-application-firewall)
 
@@ -112,7 +118,7 @@ DATA PROTECTION AND COMPLIANCE
 
 * * *
 
-**USE CASES**
+**Use Cases**
 
 [Secure Access Service Edge](https://www.barracuda.com/products/network-protection/secureedge)
 
@@ -128,7 +134,7 @@ DATA PROTECTION AND COMPLIANCE
 
 [VPN Replacement](https://www.barracuda.com/products/network-protection/vpn-replacement)
 
-**PRODUCTS**
+**Products**
 
 [SecureEdge](https://www.barracuda.com/products/network-protection/secureedge)
 
@@ -174,7 +180,7 @@ Barracuda’s cloud-first SASE Platform
 
 [TECHNOLOGIES](#)
 
-[![Featured: Ransomware Protection](/adobe/dynamicmedia/deliver/dm-aid--02caa0fa-b2db-47e0-b0cc-5e0d144ca12c/solutions-ransomware-protection.jpg?quality=95&preferwebp=true)](https://www.barracuda.com/solutions/ransomware)
+[![Ransomware Protection](/adobe/dynamicmedia/deliver/dm-aid--02caa0fa-b2db-47e0-b0cc-5e0d144ca12c/solutions-ransomware-protection.jpg?quality=95&preferwebp=true)](https://www.barracuda.com/solutions/ransomware)
 
 **Ransomware Protection**
 
@@ -182,15 +188,15 @@ Protect your business and users from ransomware attacks in three easy steps.
 
 [**LEARN MORE**](https://www.barracuda.com/solutions/ransomware)
 
-[\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
+[![AI in Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--e14a8b44-bfd1-44c3-9717-1c62e7ab30fd/technology-ai-cybersecurity.jpg?quality=95&preferwebp=true)](https://www.barracuda.com/solutions/ai-in-cybersecurity)
 
-**Phishing Protection**
+**AI in Cybersecurity**
 
-Our advanced AI blocks the most advanced email impersonation attacks from reaching your users.
+While AI is accelerating cybersecurity risks, find out how you can harness its power to stay ahead.
 
-[\[email protected\]](https://www.barracuda.com/products/email-protection/phishing-protection)
+[**LEARN MORE**](https://www.barracuda.com/solutions/ai-in-cybersecurity)
 
-[![Featured: Zero Trust Access](/adobe/dynamicmedia/deliver/dm-aid--09c85f36-d6bf-47e8-9c6e-015672fd48e7/featured-zero-trust-access.png?quality=95&preferwebp=true)](https://www.barracuda.com/products/network-protection/secureedge/zero-trust-access)
+[![Zero Trust Access](/adobe/dynamicmedia/deliver/dm-aid--09c85f36-d6bf-47e8-9c6e-015672fd48e7/featured-zero-trust-access.png?quality=95&preferwebp=true)](https://www.barracuda.com/products/network-protection/secureedge/zero-trust-access)
 
 **Zero Trust Access**
 
@@ -222,6 +228,8 @@ Secure access to your applications and data from any device – safer than VPN!
 
 [Google Cloud Platform (GCP) Check out our security products for Google Cloud Platform.](https://www.barracuda.com/solutions/google-cloud)
 
+[AI in Cybersecurity While AI is accelerating cybersecurity risks, find out how you can harness its power to stay ahead.](https://www.barracuda.com/solutions/ai-in-cybersecurity)
+
 [Barracuda Security Insights Check out our real-time view of global cyber threats, collected from millions of data points.](https://www.barracuda.com/solutions/cyber-security-insights)
 
 [Top 13 Email Threat Types Learn how to protect your organization from all 13 types of email attacks.](https://www.barracuda.com/solutions/13-email-threat-types)
@@ -234,15 +242,15 @@ Secure access to your applications and data from any device – safer than VPN!
 
 [Build your Ransomware Protection](https://www.barracuda.com/solutions/ransomware/configurator)
 
-**SERVICES**
+**Services**
 
 [Support Plans and Packages](https://www.barracuda.com/support/plans-and-packages)[Energize Updates](https://www.barracuda.com/support/energize-updates)[Instant Replacement](https://www.barracuda.com/support/instant-replacement)[Barracuda Campus Training](https://campus.barracuda.com/)
 
-**TECHNICAL INFORMATION**
+**Technical Information**
 
 [Documentation](https://campus.barracuda.com/)[Knowledgebase](https://campus.barracuda.com/knowledgebase)[Glossary](https://www.barracuda.com/support/glossary)[Barracuda Security Policies](https://www.barracuda.com/support/security)
 
-**QUICK LINKS**
+**Quick Links**
 
 [Join the Barracuda Community](https://www.barracuda.com/support/join-community)[Contact Support](https://www.barracuda.com/support/contact)[Downloads](https://www.barracuda.com/support/download)[Free Trials](https://www.barracuda.com/support/free-trials)
 
@@ -254,15 +262,15 @@ Secure access to your applications and data from any device – safer than VPN!
 
 [FIND A PARTNER](#)
 
-ENGAGE WITH BARRACUDA
+**Engage with Barracuda**
 
 [PARTNER PORTAL LOGIN](https://partners.barracuda.com/login)
 
-PARTNER PROGRAMS
+**Partner Programs**
 
 [Program Overview](https://www.barracuda.com/partners)[Resale Partners](https://www.barracuda.com/partners/channel)[MSP Partners](https://www.barracuda.com/partners/msp)[Technology Partners](https://www.barracuda.com/partners/technology)
 
-BECOME A PARTNER
+**Become a Partner**
 
 [Program Overview We are a trusted partner and leading provider of cloud-enabled security solutions. We listen closely to understand what’s most important to our partners and customers. Unlike any other security company, we provide solutions and support that grow and adapt to their journey. Grow your business, boost profits, and protect customers throughout their journey.​](https://www.barracuda.com/partners)
 
@@ -270,7 +278,7 @@ BECOME A PARTNER
 
 [Partner Application Form](https://www.barracuda.com/partners/become-a-partner)
 
-FIND A PARTNER
+**Find a Partner**
 
 By working with a Barracuda partner, you get the knowledge and expertise you need to find just the right products and solutions to protect and support your business. As an extension of the Barracuda sales and support organization, our partners provide you with hands-on guidance, service and support to help meet your IT-security needs.​
 
@@ -278,15 +286,15 @@ By working with a Barracuda partner, you get the knowledge and expertise you nee
 
 [Find a Partner](https://www.barracuda.com/partners/find)
 
-**WHO WE ARE**
+**Who We Are**
 
 [About Us](https://www.barracuda.com/company)[Leadership](https://www.barracuda.com/company/leadership)[Customers](https://www.barracuda.com/company/customers)[Barracuda Insiders](https://www.barracuda.com/company/customers/insider-program)[Careers](https://www.barracuda.com/company/careers)[Engineering](https://www.barracuda.com/company/engineering)[Contact Us](https://www.barracuda.com/company/contact)
 
-**NEWS AND EVENTS**
+**News and Events**
 
 [News Room](https://www.barracuda.com/company/news)[Blog](https://blog.barracuda.com/)[Awards](https://www.barracuda.com/company/awards)[Events](https://www.barracuda.com/company/events)[Webcast: Below the Surface](https://www.barracuda.com/company/news/below-the-surface)
 
-**LEGAL**
+**Legal**
 
 [Trust Center](https://www.barracuda.com/company/legal)[Privacy Policy](https://www.barracuda.com/company/legal/data-privacy/privacy-policy)[Legal Terms, Conditions and Warranties](https://www.barracuda.com/company/legal/terms-and-conditions)[Supplier Terms](https://www.barracuda.com/company/legal/supplier-terms)
 
