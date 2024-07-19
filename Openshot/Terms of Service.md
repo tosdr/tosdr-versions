@@ -135,21 +135,21 @@ Questions about the Terms of Service should be sent to us at [terms@openshot.org
 Latest **Posts**
 ----------------
 
-2 Jan
+11 Jul
 
-#### [Unlock Your Creativity with OpenShot Video Editing Cloud API!](https://www.openshot.org/blog/2024/01/02/unlock-your-creativity-openshot-cloud-api-free-demo/)
+#### [OpenShot 3.2.1 Released | Enhanced Stability, Numerous Fixes, and Smoother Launches!](https://www.openshot.org/blog/2024/07/11/new_openshot_release_321/)
 
-Welcome to a world where video editing meets automation and customization. OpenShot Video Editing Cloud API offers an unparalleled opportunity to automate your video production, allowing you to create...
+Experience the smoothest video editing yet with OpenShot 3.2.1! This update focuses on improving stability, fixing numerous bugs, and ensuring a seamless launch every time. Dive into your video editin...
 
-[Read More](https://www.openshot.org/blog/2024/01/02/unlock-your-creativity-openshot-cloud-api-free-demo/)
+[Read More](https://www.openshot.org/blog/2024/07/11/new_openshot_release_321/)
 
-20 Apr
+24 Jun
 
-#### [OpenShot 3.1.1 Released | Improved Tracker & Object Detection, Bug Fixes & Quality-of-Life Improvements](https://www.openshot.org/blog/2023/04/20/new_openshot_release_311/)
+#### [OpenShot 3.2.0 Released | New Themes, Enhanced Timeline, and Improved Performance!](https://www.openshot.org/blog/2024/06/24/new_openshot_release_320/)
 
-Download OpenShot Video Editor 3.1.1 - now with improved stability and quality-of-life improvements! Highlights & Features: Fixes and Improvements to Tracker and Object Detection effects (fix propert...
+Get ready to revolutionize your video editing experience with the most exciting OpenShot update yet! This release is packed with powerful new features, new themes, and significant performance enhancem...
 
-[Read More](https://www.openshot.org/blog/2023/04/20/new_openshot_release_311/)
+[Read More](https://www.openshot.org/blog/2024/06/24/new_openshot_release_320/)
 
 About OpenShot
 
