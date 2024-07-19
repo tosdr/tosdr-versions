@@ -427,4 +427,4 @@ Contact email: [\[email protected\]](https://www.eatthismuch.com/cdn-cgi/l/emai
 [Instagram](https://www.instagram.com/eatthismuch/)  
 [Twitter](https://twitter.com/EatThisMuch)  
 [\[email protected\]](https://www.eatthismuch.com/cdn-cgi/l/email-protection)  
-©2023 Eat This Much Inc.
+©2024 Eat This Much Inc.
