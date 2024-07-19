@@ -78,11 +78,13 @@ How to Raise a Healthy Gamer](https://www.healthygamer.gg/how-to-raise-a-healthy
 
 ![Large "X" | Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/63f698a568216b5c64099ffd_62f5ade7764027587d0ea444_close%201.svg)
 
-[✨ NEW! Trauma Module Available Now ✨
+[‍‍
 
-✨ NEW! Trauma Module Available Now ✨
+Which Coaching type is right for you? Take the quiz
 
-![Up arrow in a white circle - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6613fbb8a92d34ad63711101_Group%2037135%20(3).svg)](https://www.healthygamer.gg/about/guide#journey)
+Which Coaching type is right for you? Take the quiz
+
+![Up arrow in a white circle - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6613fbb8a92d34ad63711101_Group%2037135%20(3).svg)](https://healthygamer.typeform.com/to/nZneKvDw)
 
 Terms of Service
 ================
