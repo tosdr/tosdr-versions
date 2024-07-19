@@ -32,6 +32,8 @@
 
 [Models](https://dezgo.com/info/models)
 
+[Blog](https://blog.dezgo.com/)
+
 [API](https://dev.dezgo.com/)
 
 [Affiliate](https://app.impact.com/campaign-campaign-info-v2/Dezgocom-Affiliation.brand)
