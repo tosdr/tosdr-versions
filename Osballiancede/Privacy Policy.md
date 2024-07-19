@@ -14,6 +14,7 @@
         * [WG Cloud](https://osb-alliance.de/ueber-uns/working-groups/cloud)
         * [WG Continuous License Compliance](https://osb-alliance.de/ueber-uns/working-groups/wg-continuous-lincense-compliance)
         * [WG Events](https://osb-alliance.de/ueber-uns/working-groups/wg-veranstaltungen)
+        * [WG Open Source Adaption](https://osb-alliance.de/ueber-uns/working-groups/open-source-adaption)
         * [WG Public Affairs](https://osb-alliance.de/ueber-uns/working-groups/wg-public-affairs)
         * [WG Security](https://osb-alliance.de/ueber-uns/working-groups/wg-security)
     * [Mitgliedschaften und Kooperationen](https://osb-alliance.de/mitglieder/kooperationen)
@@ -58,14 +59,17 @@ Pariser Platz 6a
 D-70117 Berlin  
 Tel: +49 (0) 30 / 300 149-3377  
 Fax: +49 (0) 30 / 300 149-3030  
-E-Mail: info(at)osb-alliance.com  
-Vorsitzender: Peter H. Ganten, Univention GmbH  
-Stellv. Vorsitzende:  
-Anja Stock  
-Hong Phuc Dang  
-Timo Levi, Telekom Deutschland GmbH  
-Finanzvorstand: Diego Calvo de Nó, Proventa AG  
-Ehrenvorsitzender: Dr. Karl-Heinz Strassemeyer  
+E-Mail: info(at)osb-alliance.com
+
+Vorstandsvorsitzender: Peter H. Ganten, Univention GmbH
+
+Stellvertretende Vorsitzende:  
+Timo Levi, Deutsche Telekom AG  
+Lisa Seifert, DMK E-BUSINESS GmbH  
+Stefan Zosel, Capgemini Deutschland GmbH  
+Finanzvorstand: Diego Calvo de Nó, Proventa AG
+
+Ehrenvorsitzender: Dr. Karl Heinz Strassemeyer  
 Registergericht: Amtsgericht Charlottenburg  
 Registernummer: VR 39675 B
 
@@ -153,6 +157,7 @@ Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, u
     * [WG Cloud](https://osb-alliance.de/ueber-uns/working-groups/cloud)
     * [WG Continuous License Compliance](https://osb-alliance.de/ueber-uns/working-groups/wg-continuous-lincense-compliance)
     * [WG Events](https://osb-alliance.de/ueber-uns/working-groups/wg-veranstaltungen)
+    * [WG Open Source Adaption](https://osb-alliance.de/ueber-uns/working-groups/open-source-adaption)
     * [WG Public Affairs](https://osb-alliance.de/ueber-uns/working-groups/wg-public-affairs)
     * [WG Security](https://osb-alliance.de/ueber-uns/working-groups/wg-security)
 * [Mitgliedschaften und Kooperationen](https://osb-alliance.de/mitglieder/kooperationen)
