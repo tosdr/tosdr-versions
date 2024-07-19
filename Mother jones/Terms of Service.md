@@ -8,10 +8,10 @@
 
 *  
     
-* [2024 Presidential Election](https://www.motherjones.com/politics/2024/06/trump-vp-byron-donald-tim-scott-sunday-television/)
-* [Biden](https://www.motherjones.com/politics/2024/06/biden-campaign-fundraiser-30-million-hollywood-clooney-obama/)
-* [Big Tech](https://www.motherjones.com/politics/2024/06/big-tech-ai-energy-electricity-use-growing-power-grid-restraints/)
-* [Trump](https://www.motherjones.com/politics/2024/06/christian-nationalists-are-opening-private-schools-taxpayers-are-funding-them/)
+* [DNC](https://www.motherjones.com/politics/2024/07/the-dnc-just-launched-its-first-paid-media-ad-against-jd-vance/)
+* [SCOTUS](https://www.motherjones.com/politics/2024/07/supreme-court-loper-bright-corner-post-irs-tax-policy/)
+* [Moms for Liberty](https://www.motherjones.com/politics/2024/07/moms-for-liberty-have-had-a-rough-year-theyre-still-rnc-darlings/)
+* [Steve Bannon](https://www.motherjones.com/politics/2024/07/miles-guo-wengui-verdict-guilty/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [2024 Presidential Election](https://www.motherjones.com/politics/2024/06/trump-vp-byron-donald-tim-scott-sunday-television/)
-* [Biden](https://www.motherjones.com/politics/2024/06/biden-campaign-fundraiser-30-million-hollywood-clooney-obama/)
-* [Big Tech](https://www.motherjones.com/politics/2024/06/big-tech-ai-energy-electricity-use-growing-power-grid-restraints/)
-* [Trump](https://www.motherjones.com/politics/2024/06/christian-nationalists-are-opening-private-schools-taxpayers-are-funding-them/)
+* [DNC](https://www.motherjones.com/politics/2024/07/the-dnc-just-launched-its-first-paid-media-ad-against-jd-vance/)
+* [SCOTUS](https://www.motherjones.com/politics/2024/07/supreme-court-loper-bright-corner-post-irs-tax-policy/)
+* [Moms for Liberty](https://www.motherjones.com/politics/2024/07/moms-for-liberty-have-had-a-rough-year-theyre-still-rnc-darlings/)
+* [Steve Bannon](https://www.motherjones.com/politics/2024/07/miles-guo-wengui-verdict-guilty/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
@@ -53,19 +53,6 @@ Smart, Fearless Journalism
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=desktop_header_nav)
 *  
     
-
-Membership Ticker
------------------
-
-[Donate](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPR55|PAHPR55)
-
-_Mother Jones_ NEEDS YOUR HELP
-
-We have about a $170,000 funding gap and less than a week to go in our hugely important First $500,000 fundraising campaign that ends Saturday. We urgently need your help, and a lot of help, so we can pay for the one-of-a-kind journalism you get from us. Learn more in “[Less Dreading, More Doing](https://www.motherjones.com/media/2024/05/mother-jones-cir-merger-update/?keycode=7AHPR55|PAHPR55),” where we lay out this wild moment and how we can keep charging hard for you. And please help if you can: $5, $50, or $500—[every gift from every person](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPR55|PAHPR55) truly matters right now.
-
-We have about a $170,000 funding gap and less than a week to go in our hugely important fundraising campaign that ends Saturday. We urgently need your help so we can pay for the journalism you get from us. [Learn more](https://www.motherjones.com/media/2024/05/mother-jones-cir-merger-update/?keycode=7AHPMRS|PAHPMRS) about this wild moment and how _Mother Jones_ can keep charging hard for you, and please help if you can: [Every gift from every person](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPMRS|PAHPMRS) matters right now.
-
-[Donate](https://secure.motherjones.com/flex/mj/key/7LIGHTR/src/7AHPMRS|PAHPMRS)
 
 Terms of Service
 ================
