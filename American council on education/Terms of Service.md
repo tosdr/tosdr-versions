@@ -38,17 +38,17 @@ Spotlight
 
 Women's Leadership Speaker Series
 
-Join us on June 27 for Lessons in Leadership: Mentorship, Sponsorship, and Allyship.
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Explore previous Women’s Leadership Speaker Series events, featuring inspiring woman leaders discussing their accomplishments, challenges, and insights in higher education.
 
-[Register Now](https://www.acenet.edu/Events/Pages/Womens-Leadership-Speaker-Series.aspx)
+[Learn More](https://www.acenet.edu/Events/Pages/Womens-Leadership-Speaker-Series.aspx)
 
 ![Two women sit at a table in an office setting holding a conversation with each other.](/PublishingImages/Interior-Page-Heroes/Womens-Network-Speaker-Series.jpg?RenditionID=12)
 
-​​​  
+​​​​  
 
 Professional Learning & Communities
 
-[ACE Fellows Program](https://www.acenet.edu/Programs-Services/Pages/Professional-Learning/ACE-Fellows-Program.aspx) [Council of Fellows](https://www.acenet.edu/Programs-Services/Pages/Communities/Council-of-Fellows.aspx) [ACE Learning Circles](https://www.acenet.edu/Programs-Services/Pages/Learning-Circles.aspx) [ACE Women's Network](https://www.acenet.edu/Programs-Services/Pages/Communities/ACE-Womens-Network.aspx)
+[ACE Fellows Program](https://www.acenet.edu/Programs-Services/Pages/Professional-Learning/ACE-Fellows-Program.aspx) [Council of Fellows](https://www.acenet.edu/Programs-Services/Pages/Communities/Council-of-Fellows.aspx) [ACE Women's Network](https://www.acenet.edu/Programs-Services/Pages/Communities/ACE-Womens-Network.aspx) [Dual Mission Institutions](https://www.acenet.edu/Programs-Services/Pages/Communities/Dual-Mission-Institutions.aspx)
 
 [Institutional Transformation](https://www.acenet.edu/Programs-Services/Pages/Professional-Learning/Transformation-Labs.aspx)
 
@@ -147,13 +147,13 @@ Contact Public Affairs
 
 Spotlight
 
-ACE Member Partnership Makes Transferring Seamless
+ACE MEMBER INITIATIVE INSPIRES ACTIVE CITIZENSHIP
 
-The transfer program ADVANCE at Northern Virginia Community College and George Mason University merges student support services for transfer students.
+Wesleyan University is making civic education a priority through an initiative called Democracy 2024, or D2024.
 
-[Read More](https://www.acenet.edu/News-Room/Pages/Member-Spotlight-NOVA-Mason-ADVANCE.aspx)
+[Read More](https://www.acenet.edu/News-Room/Pages/Member-Spotlight-Wesleyan-D2024.aspx)
 
-![Students wearing ADVANCE tshirts sit outside looking at reading material.](/PublishingImages/Photo-Library/ADVANCE%20students%20on%20bench.jpg?RenditionID=12)
+![Anand Giridharadas (left) with Wesleyan President Michael S. Roth at the Democracy in Action convening.](/PublishingImages/Photo-Library/1200x660-anand.jpg?RenditionID=12)
 
 [Joining ACE](https://www.acenet.edu/Membership-Advancement/Pages/Membership/Membership.aspx)
 
