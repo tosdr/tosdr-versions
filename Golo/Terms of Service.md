@@ -1,16 +1,18 @@
 ![](https://data.adxcel-ec2.com/pixel/?ad_log=referer&action=lead&pixid=d5689b79-c3a6-491b-94f3-275ce7700e52)      ![](https://pt.ispot.tv/v2/TC-3561-1.gif?app=web&type=visit) ![](https://pt.ispot.tv/v2/TC-3561-1.gif?app=web&type=)  ![](https://jadserve.postrelease.com/rt.gif?ntv_tg=CQAAAEAAAASV0YAQ%3D%3D&ord=[cache_buster]) [Skip to content](#MainContent)
 
-[GOLO](https://www.golo.com/account/logout)
-
-[GOLO Foods](https://www.golo.com/pages/golo-foods)
-
-[myGOLO](https://www.golo.com/pages/resources-myg1)
+* [GOLO](https://www.golo.com/)
+* [GOLO Foods](https://www.golo.com/pages/golo-foods)
+* [myGOLO](https://www.golo.com/pages/resources-myg1)
 
 [Return to GOLO Homepage](https://www.golo.com/)
 
-* [1-888-530-GOLO (4656)](tel:18885304656)
+* [1-888-530-GOLO (4656)](tel:+18885304656)
 * [Already a Customer? Login](https://www.golo.com/account/login)
 * [Cart](https://www.golo.com/cart)
+
+* [Home](https://www.golo.com/)
+* [More Information](https://www.golo.com/pages/more-information)
+* [Blog](https://www.golo.com/blogs/golo)
 
 * Go to Menu
 * [GOLO](https://www.golo.com/account/logout)
@@ -23,10 +25,6 @@
 * [More Information](https://www.golo.com/pages/more-information)
 * [Blog](https://www.golo.com/blogs/golo)
 * [My Account](https://www.golo.com/account)
-
-* [Home](https://www.golo.com/)
-* [More Information](https://www.golo.com/pages/more-information)
-* [Blog](https://www.golo.com/blogs/golo)
 
 **GOLO Terms of Sale and Use**
 ==============================
@@ -350,6 +348,11 @@ Notices. You agree that we may provide you with notices, including those regardi
 Contact Us. Our contact information is GOLO, LLC, 4051 Ogletown Stanton Road, Third Floor, Newark, DE 19713, Attn: Customer Support; Email: [support@golo.com](mailto:support@golo.com); or Phone: 1-800-730-GOLO (4656). You may also visit our “Contact Us” website page at [https://www.golo.com/pages/contacts](https://www.golo.com/pages/contacts).
 
 [Return to the homepage](https://www.golo.com/ "Home")
+
+Lose weight and keep it off without crash dieting!
+--------------------------------------------------
+
+[Shop GOLO](https://www.golo.com/pages/shop-golo)
 
 * [Home](https://www.golo.com/)
 * [Shop GOLO](https://www.golo.com/pages/shop-golo)
