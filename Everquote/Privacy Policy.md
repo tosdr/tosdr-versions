@@ -1,8 +1,8 @@
-![EverQuote](https://consumer-assets.everquote.com/static-assets/domains/auto/auto.everquote.com/logo.webp)
+[![EverQuote](https://consumer-assets.everquote.com/static-assets/domains/auto/auto.everquote.com/logo.webp)](https://www.everquote.com/)
 
 menu
 
-* [Auto](https://auto.everquote.com/)down
+* [Auto](https://auto.everquote.com/?tid=2818)down
 * [Home](https://home.everquote.com/)down
 * [Renters](https://renters.everquote.com/)down
 * [Life](https://life.everquote.com/)down
@@ -26,6 +26,22 @@ shield No junk mail. Instant results. Always free.
 ![Progressive](https://cdn.everquote.com/static-assets/seo_assets/carrier_logos/progressive-white.svg)![Liberty Mutual](https://cdn.everquote.com/static-assets/seo_assets/carrier_logos/liberty-white.svg)![Root](https://cdn.everquote.com/static-assets/seo_assets/carrier_logos/root-white.svg)
 
 ![The General](https://cdn.everquote.com/static-assets/seo_assets/carrier_logos/thegeneral-white.svg)![American Family](https://cdn.everquote.com/static-assets/seo_assets/carrier_logos/americanfamily-white.svg)![Elephant](https://cdn.everquote.com/static-assets/seo_assets/carrier_logos/elephant-white.svg)
+
+shield
+
+Updated May 2nd, 2019
+
+Share
+
+* [![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+    
+    ![Share on Facebook](/static/505df85fe231773bae5c30fabcd24dd4/2391d/facebook.png)](https://www.facebook.com/sharer/sharer.php?u=undefined)
+* [![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+    
+    ![Share on X](/static/a340bebc381dd1cd616d1e41ff468b85/2391d/x.png)](https://twitter.com/intent/tweet?url=undefined)
+* [![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
+    
+    ![Share on LinkedIn](/static/3ab94e8392d653ef577a1aae1cb94fc9/2391d/linkedin.png)](https://www.linkedin.com/sharing/share-offsite/?url=undefined)
 
 EverQuote Website and EverDrive Application Privacy Policy – Your Privacy Rights
 ================================================================================
@@ -168,6 +184,16 @@ Phone: (855) 522-3444
 From time to time we may change our privacy policies. We will notify you by email or by means of a notice on the website or app of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
 © 2017 EverQuote. All rights reserved.
+
+### Article Contents
+
+1. [This Privacy Policy applies to the sites and apps where it appears.](#This-Privacy-Policy-applies-to-the-sites-and-apps-where-it-appears.)
+
+### Fast, Free Auto Insurance Quotes
+
+Zip Code
+
+checkContinue
 
 Company
 
