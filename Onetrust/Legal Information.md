@@ -21,7 +21,7 @@
         Flexible pricing options to meet your organization’s size and requirements.](https://www.onetrust.com/pricing/)
         
     
-* * [Privacy Management](https://www.onetrust.com/content/onetrust/us/en/platform/privacy-management)
+* * [Privacy Automation](https://www.onetrust.com/content/onetrust/us/en/platform/privacy-management)
         
     * [Data Discovery & Security](https://www.onetrust.com/content/onetrust/us/en/platform/data-discovery-and-security)
         
@@ -68,6 +68,10 @@
     * [Preserve and enrich your first-party data](https://www.onetrust.com/content/onetrust/us/en/solutions/preserve-and-enrich-your-first-party-data)
         
     * [Optimize your risk and compliance lifecycle](https://www.onetrust.com/content/onetrust/us/en/solutions/optimize-your-risk-and-compliance-lifecycle)
+        
+    * [Understand and secure your sensitive data](https://www.onetrust.com/content/onetrust/us/en/solutions/understand-and-secure-your-sensitive-data)
+        
+    * [Advance your ethics program](https://www.onetrust.com/content/onetrust/us/en/solutions/advance-your-ethics-program)
         
     
 * Explore by regulation
@@ -224,7 +228,7 @@
 
 [Request demo](https://www.onetrust.com/forms/demo/)
 
-[Free trial](https://www.onetrust.com/forms/free-trial/)
+[Contact sales](https://www.onetrust.com/forms/get-started/)
 
 Choose a site language:
 -----------------------
@@ -247,7 +251,7 @@ On-demand webinar coming soon...
 OneTrust Privacy Notice
 =======================
 
-Effective March 18, 2024
+Effective July 12th, 2024
 
 * * *
 
@@ -275,15 +279,15 @@ Your partner in trust transformation
 ### Top Searches
 
 * [Trust Center](https://www.onetrust.com/trust/)
-* [Data Discovery](https://www.onetrust.com/data-discovery/)
-* [CPRA](https://www.onetrust.com/solutions/cpra-compliance/)
+* [Consent and Preferences](https://www.onetrust.com/platform/consent-and-preferences/)
+* [Third-Party Risk](https://www.onetrust.com/platform/third-party-risk/)
 * [Training & Certifications](https://www.onetrust.com/certifications/)
 
 ### Resources
 
-* [The future of PCI DSS: Prepare your organization for v4.0](https://www.onetrust.com/resources/the-future-of-pci-dss-prepare-your-organization-for-v4-0-ebook/)
-* [Trust matters: Building consumer confidence in a cookieless world](https://www.onetrust.com/resources/trust-matters-building-consumer-confidence-in-a-cookieless-world-webinar/)
-* [Consent-based advertising: Connecting with customers in a privacy-centric world](https://www.onetrust.com/resources/consent-based-advertising-connecting-with-customers-in-a-privacy-centric-world-webinar/)
+* [The road to 50 states: Rhode Island joins the US privacy landscape with a new law](https://www.onetrust.com/resources/the-road-to-50-states-rhode-island-joins-the-us-privacy-landscape-with-a-new-law-webinar/)
+* [Ensuring compliance and operational readiness under the EU AI Act](https://www.onetrust.com/resources/ensuring-compliance-and-operational-readiness-under-the-eu-ai-act-webinar/)
+* [OneTrust Live: Complying with US Privacy Laws Effective July 2024](https://www.onetrust.com/resources/onetrust-live-complying-with-us-privacy-laws-effective-july-2024-webinar/)
 
 ### Platform
 
@@ -302,9 +306,9 @@ Your partner in trust transformation
 
 ### Latest News
 
+* [OneTrust Appoints Former VMware and Docker Executive Roger Egan to Lead Worldwide Sales](https://www.onetrust.com/news/onetrust-appoints-roger-egan-to-lead-worldwide-sales/)
 * [Newsroom | Awards](https://www.onetrust.com/news/awards/)
 * [OneTrust Reaches New Heights with Recent Awards and Accolades](https://www.onetrust.com/news/onetrust-reaches-new-heights-with-recent-awards-and-accolades/)
-* [OneTrust Integrates with the IAB Diligence Platform, Powered by SafeGuard Privacy](https://www.onetrust.com/news/onetrust-integrated-with-the-iab-diligence-platform/)
 
 ### Contact Us
 
