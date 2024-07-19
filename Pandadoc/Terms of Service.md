@@ -1,182 +1,288 @@
+[Help center](https://support.pandadoc.com/hc/en-us) [Log in](https://app.pandadoc.com/login/?lng=en-US) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+
+English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+
 [PandaDocPandaDoc](https://www.pandadoc.com/)
 
-* Why PandaDoc?
+* Product
     
-    * * [Product overview
-            
-            What makes PandaDoc different](https://www.pandadoc.com/product-overview/)
-        * [Create documents
-            
-            Professional, error free docs that wow everyone](https://www.pandadoc.com/document-generation/)
-        * [Sign documents securely
-            
-            Get peace of mind with advanced secure e-sign](https://www.pandadoc.com/electronic-signature-software/?pd_nav)
-        * [Track & Monitor documents
-            
-            Maintain momentum by knowing when to act](https://www.pandadoc.com/document-tracking-software/)
+    * Platform
         
-    * * [Collaborate
+        * [Product overview](https://www.pandadoc.com/product-overview/)
+        * [Security & compliance](https://www.pandadoc.com/security/)
+        * [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
+        * [Notary](https://notary.pandadoc.com/)
+        * [API](https://www.pandadoc.com/api/)
+        
+    * Features
+        
+        * [Document generation
             
-            Gather feedback fast and keep everyone on the same page](https://www.pandadoc.com/workflow-approval-software/)
-        * [Store & Organize
+            Automate document creation with customizable templates](https://www.pandadoc.com/document-generation/)
+        * [CPQ configure price quote
             
-            Centralize your documents and find them instantly](https://www.pandadoc.com/features/report-and-track/document-repository/)
-        * [Quote, Sell & Pay
+            Generate error-free quotes tailored for every buyer](https://www.pandadoc.com/cpq-software/)
+        * [Rooms
             
-            Win more deals by delivering an amazing buying experience](https://www.pandadoc.com/cpq-software/)
-        * [PandaDoc VS
+            Collaborate and close deals in one personalized deal room](https://www.pandadoc.com/rooms/)
+        * [Smart content
             
-            Save time and money by making the switch](https://www.pandadoc.com/alternatives/)
+            Adapt documents to the recipient's requirements](https://www.pandadoc.com/features/create/smart-content/)
+        * [All features](https://www.pandadoc.com/features/)
+        
+    * * [Automations
+            
+            Streamline your workflow  
+            and reduce manual tasks](https://www.pandadoc.com/workflow-automation-software/)
+        * [Approval workflow
+            
+            Simplify internal sign-offs before document delivery](https://www.pandadoc.com/workflow-approval-software/)
+        * [Workspaces
+            
+            Distribute content across teams and departments](https://www.pandadoc.com/features/collaborate/workspaces/)
+        * [Tracking & analytics
+            
+            Get insights into how users interact with your document](https://www.pandadoc.com/document-tracking-software/)
         
     
-    Introducing PandaDoc Rooms for fast, easy sales
+    * [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_top-menu)
+    * [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_terms-of-use_top-menu)
     
-    A collaborative space where deals get done.
+    ![Product](https://public-site.marketing.pandadoc-static.com/app/uploads/advanced-quotes-copy-2.png)
     
-    [See how](https://www.pandadoc.com/rooms/?ss=page_terms-of-use_header-nav-demo-banner)
+    Compare
     
-    ![rooms welcome](https://public-site.marketing.pandadoc-static.com/app/uploads/rooms-welcome-2x-copy-2.png)
+    * [vs DocuSign](https://www.pandadoc.com/alternatives/docusign/)
+    * [vs Dropbox Sign](https://www.pandadoc.com/alternatives/hellosign/)
+    * [vs Adobe Sign](https://www.pandadoc.com/alternatives/adobe-sign/)
+    * [vs Proposify](https://www.pandadoc.com/alternatives/proposify/)
+    * [View more](https://www.pandadoc.com/alternatives/)
     
 * Solutions
     
-    * By use case
+    * Use case
         
-        * [Proposals](https://www.pandadoc.com/proposal-software/)
         * [eSignatures](https://www.pandadoc.com/electronic-signature-software/)
-        * [Quotes](https://www.pandadoc.com/quoting-software/)
+        * [Proposals](https://www.pandadoc.com/proposal-software/)
         * [Contracts](https://www.pandadoc.com/contract-management-software/)
+        * [Quotes](https://www.pandadoc.com/quoting-software/)
         * [Payments](https://www.pandadoc.com/payments/)
         * [All use cases](https://www.pandadoc.com/use-cases/)
         
-    * By company size
+    * Industry
         
-        * [Enterprise Scale](https://www.pandadoc.com/pandadoc-for-enterprise/)
-        * [Teams and Departments](https://www.pandadoc.com/pandadoc-for-smb/)
-        * [Individuals](https://www.pandadoc.com/pandadoc-for-microbusinesses/)
+        * [Software & technology](https://www.pandadoc.com/industries/technology/)
+        * [Professional services](https://www.pandadoc.com/industries/professional-services/)
+        * [Education](https://www.pandadoc.com/industries/education/)
+        * [Healthcare](https://www.pandadoc.com/industries/healthcare/)
+        * [Construction](https://www.pandadoc.com/industries/construction/)
+        * [All industries](https://www.pandadoc.com/industries/)
         
-    
-    PandaDoc Rooms makes closing deals even easier
-    
-    From prospecting to post-sale, all under one roof.
-    
-    [How it works](https://www.pandadoc.com/rooms/?ss=page_terms-of-use_header-nav-demo-banner)
-    
-    ![rooms-steps](https://public-site.marketing.pandadoc-static.com/app/uploads/rooms-steps-2x-copy.png)
-    
-* Resources
-    
-    * Get inspired
+    * Team
         
-        * [Customer stories](https://www.pandadoc.com/customer-stories/)
-        * [Blog](https://www.pandadoc.com/blog/)
-        * [Webinars](https://www.pandadoc.com/library/webinars/)
-        * [Podcasts](https://www.pandadoc.com/library/podcasts/)
-        * [Templates](https://www.pandadoc.com/templates/)
-        * [Explore all content](https://www.pandadoc.com/library/)
-        
-    * Get support
-        
-        * [PandaDoc Q&A](https://www.pandadoc.com/ask/)
-        * [Help center](https://support.pandadoc.com/hc/en-us?__hstc=149726313.c068d78ce51fd3577889c56e5ceb8409.1659002682403.1704881971903.1704887309662.101&__hssc=149726313.1.1704887309662&__hsfp=2851389664)
-        * [API](https://www.pandadoc.com/api/)
-        * [Developer center](https://developers.pandadoc.com/)
+        * [Sales](https://www.pandadoc.com/pandadoc-for-sales/)
+        * [HR](https://www.pandadoc.com/pandadoc-for-hr/)
+        * [Marketing](https://www.pandadoc.com/pandadoc-for-marketers/)
+        * [Customer success](https://www.pandadoc.com/pandadoc-for-customer-success/)
+        * [Legal](https://www.pandadoc.com/pandadoc-for-legal/)
+        * [All teams](https://www.pandadoc.com/teams/)
         
     
-    Featured content
+    * [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_top-menu)
+    * [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_terms-of-use_top-menu)
     
-    [![Introducing Rooms, a collaborative space for faster, easier deals](https://public-site.marketing.pandadoc-static.com/app/uploads/BP_Rooms-Product-Update-2.png)
+    ![Solutions](https://public-site.marketing.pandadoc-static.com/app/uploads/security-copy.png)
     
-    Blog
+    Security & Сompliance
     
-    Introducing Rooms, a collaborative space for faster, easier deals](https://www.pandadoc.com/blog/pandadoc-rooms-update/)
-    
-    [![How to write a business proposal (The modern way)](https://public-site.marketing.pandadoc-static.com/app/uploads/business-proposal.png)
-    
-    Blog
-    
-    How to write a business proposal (The modern way)](https://www.pandadoc.com/blog/how-to-write-a-proposal/)
-    
-    [![How to create proposals and quotes in Salesforce](https://public-site.marketing.pandadoc-static.com/app/uploads/salesforce-quotes.png)
-    
-    Blog
-    
-    How to create proposals and quotes in Salesforce](https://www.pandadoc.com/blog/how-to-create-a-proposal-quote-in-salesforce/)
+    * [Signature certificate](https://support.pandadoc.com/hc/en-us/articles/360007915133--Signature-certificate-of-completed-documents)
+    * [Two-factor authentication](https://support.pandadoc.com/hc/en-us/articles/16804817099927-Two-factor-authentication-2FA-)
+    * [GDPR compliance](https://www.pandadoc.com/gdpr/)
+    * [HIPAA compliance](https://www.pandadoc.com/hipaa/)
+    * [View more](https://www.pandadoc.com/security/)
     
 * Integrations
     
-    * Most popular
+    * Sales and CRM
         
+        * [Hubspot](https://www.pandadoc.com/integrations/crm/hubspot/)
         * [Salesforce](https://www.pandadoc.com/integrations/crm/salesforce/)
         * [Pipedrive](https://www.pandadoc.com/integrations/crm/pipedrive/)
+        * [Salesforce CPQ](https://www.pandadoc.com/integrations/crm/salesforce-cpq/)
+        * [Zoho](https://www.pandadoc.com/integrations/crm/zoho/)
+        * [Monday](https://www.pandadoc.com/integrations/crm/mondaydotcom/)
+        
+    * Payment gateways
+        
+        * [Square](https://www.pandadoc.com/integrations/payment/square-payment-gateway/)
         * [Stripe](https://www.pandadoc.com/integrations/payment/stripe/)
+        * [Authorize.net](https://www.pandadoc.com/integrations/payment/authorize-net-payment-gateway/)
         * [PayPal](https://www.pandadoc.com/integrations/payment/paypal/)
-        * [HubSpot CRM](https://www.pandadoc.com/integrations/crm/hubspot/)
+        * [QuickBooks Payments](https://www.pandadoc.com/integrations/payment/quickbooks-payment-gateway/)
+        * [FreshBooks](https://www.pandadoc.com/integrations/payment/freshbooks-new/)
+        
+    * Collaboration and more
+        
+        * [Zapier](https://www.pandadoc.com/integrations/integration-platforms/zapier/)
+        * [Greenhouse](https://www.pandadoc.com/integrations/hr-systems/greenhouse/)
+        * [Google Workspace](https://www.pandadoc.com/integrations/productivity/google-workspace/)
+        * [QuickBooks](https://www.pandadoc.com/integrations/payment/quickbooks-online/)
+        * [Microsoft Word](https://www.pandadoc.com/integrations/productivity/microsoft-word-online/)
+        * [Slack](https://www.pandadoc.com/integrations/productivity/slack-for-pandadoc/)
         * [All integrations](https://www.pandadoc.com/integrations/)
         
-    * Categories
+    
+    * [API](https://www.pandadoc.com/api/?ss=page_terms-of-use_top-menu)
+    * [Documentation](https://developers.pandadoc.com/docs/getting-started/?ss=page_terms-of-use_top-menu)
+    
+* Resources
+    
+    * Learn
         
-        * [Sales integrations](https://www.pandadoc.com/integrations/sales-teams/)
-        * [CRM integrations](https://www.pandadoc.com/integrations/crm/)
-        * [Payment integrations](https://www.pandadoc.com/integrations/payment/)
+        * [Customer stories](https://www.pandadoc.com/customer-stories/)
+        * [Blog](https://www.pandadoc.com/blog/)
+        * [Templates](https://www.pandadoc.com/templates/)
+        * [Webinars](https://www.pandadoc.com/library/webinars/)
+        * [Learning academy](https://learn.pandadoc.com/)
+        * [Security](https://www.pandadoc.com/security/)
         
+    * Support
+        
+        * [Help center](https://support.pandadoc.com/hc/en-us/)
+        * [Contact us](https://www.pandadoc.com/contact/)
+        * [Onboarding services](https://www.pandadoc.com/customer-experience/onboarding/)
+        * [Professional services](https://www.pandadoc.com/customer-experience/services/)
+        * [Premium support](https://www.pandadoc.com/customer-experience/premium-support/)
+        
+    * Developers
+        
+        * [API](https://www.pandadoc.com/api/)
+        * [Document embedding](https://www.pandadoc.com/api/embedded-editing/)
+        * [Documentation](https://developers.pandadoc.com/docs/getting-started/)
+        
+    
+    * [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_top-menu)
+    * [Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_terms-of-use_top-menu)
+    
+    Customer stories
+    
+    [![Autodesk now tracks sales metrics across its entire org](https://public-site.marketing.pandadoc-static.com/app/uploads/autodesk-copy-1.png)
+    
+    Autodesk now tracks sales metrics across its entire org](https://www.pandadoc.com/customers-case-study/autodesk/)
+    
+    [![Nomad cut customer acquisition costs by 20%](https://public-site.marketing.pandadoc-static.com/app/uploads/nomad-copy-3.png)
+    
+    Nomad cut customer acquisition costs by 20%](https://www.pandadoc.com/customers-case-study/nomad/)
+    
+    [![TheKey saves 3,000 hours per year using PandaDoc](https://public-site.marketing.pandadoc-static.com/app/uploads/the-key-copy-1.png)
+    
+    TheKey saves 3,000 hours per year using PandaDoc](https://www.pandadoc.com/customers-case-study/thekey/)
+    
+    * [All customer stories](https://www.pandadoc.com/customer-stories/)
     
 * [Pricing](https://www.pandadoc.com/pricing/)
 
-[Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_terms-of-use_header-nav) [Log in](https://app.pandadoc.com/login/?ss=page_terms-of-use_header-nav&lng=en-US) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_header-nav)
+[Contact sales](https://www.pandadoc.com/contact-sales/?ss=page_terms-of-use_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_header-nav) [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_terms-of-use_header-nav)
 
-* Why PandaDoc?
+* Product
     
-    * [Product Overview](https://www.pandadoc.com/product-overview/)
-    * [Create documents](https://www.pandadoc.com/document-generation/)
-    * [Sign documents securely](https://www.pandadoc.com/electronic-signature-software/?pd_nav)
-    * [Track & Monitor documents](https://www.pandadoc.com/document-tracking-software/)
-    * [Collaborate](https://www.pandadoc.com/workflow-approval-software/)
-    * [Store & Organize](https://www.pandadoc.com/features/report-and-track/document-repository/)
-    * [Quote, Sell & Pay](https://www.pandadoc.com/cpq-software/)
-    * [PandaDoc VS](https://www.pandadoc.com/alternatives/)
+    * Platform
+        * [Product overview](https://www.pandadoc.com/product-overview/)
+        * [Security & compliance](https://www.pandadoc.com/security/)
+        * [Enterprise](https://www.pandadoc.com/pandadoc-for-enterprise/)
+        * [Notary](https://notary.pandadoc.com/)
+        * [API](https://www.pandadoc.com/api/)
+    * Features
+        * [Document generation](https://www.pandadoc.com/document-generation/)
+        * [CPQ configure price quote](https://www.pandadoc.com/cpq-software/)
+        * [Rooms](https://www.pandadoc.com/rooms/)
+        * [Smart content](https://www.pandadoc.com/features/create/smart-content/)
+        * [Automations](https://www.pandadoc.com/workflow-automation-software/)
+        * [Approval workflow](https://www.pandadoc.com/workflow-approval-software/)
+        * [Workspaces](https://www.pandadoc.com/features/collaborate/workspaces/)
+        * [Tracking & analytics](https://www.pandadoc.com/document-tracking-software/)
+        * [All features](https://www.pandadoc.com/features/)
+    * Compare
+        * [vs DocuSign](https://www.pandadoc.com/alternatives/docusign/)
+        * [vs Dropbox Sign](https://www.pandadoc.com/alternatives/hellosign/)
+        * [vs Adobe Sign](https://www.pandadoc.com/alternatives/adobe-sign/)
+        * [vs Proposify](https://www.pandadoc.com/alternatives/proposify/)
+        * [View more](https://www.pandadoc.com/alternatives/)
     
 * Solutions
     
-    * By Use Case
-        * [Proposals](https://www.pandadoc.com/proposal-software/)
+    * Use case
         * [eSignatures](https://www.pandadoc.com/electronic-signature-software/)
-        * [Quotes](https://www.pandadoc.com/quoting-software/)
+        * [Proposals](https://www.pandadoc.com/proposal-software/)
         * [Contracts](https://www.pandadoc.com/contract-management-software/)
+        * [Quotes](https://www.pandadoc.com/quoting-software/)
         * [Payments](https://www.pandadoc.com/payments/)
         * [All use cases](https://www.pandadoc.com/use-cases/)
-    * By company size
-        * [Enterprise Scale](https://www.pandadoc.com/pandadoc-for-enterprise/)
-        * [Teams and Departments](https://www.pandadoc.com/pandadoc-for-smb/)
-        * [Individuals](https://www.pandadoc.com/pandadoc-for-microbusinesses/)
-    
-* Resources
-    
-    * Get inspired
-        * [Customer stories](https://www.pandadoc.com/customer-stories/)
-        * [Blog](https://www.pandadoc.com/blog/)
-        * [Webinars](https://www.pandadoc.com/library/webinars/)
-        * [Podcasts](https://www.pandadoc.com/library/podcasts/)
-        * [Templates](https://www.pandadoc.com/templates/)
-        * [Explore all content](https://www.pandadoc.com/library/)
-    * Get help
-        * [PandaDoc Q&A](https://www.pandadoc.com/ask/)
-        * [Help center](https://support.pandadoc.com/hc/en-us?__hstc=149726313.c068d78ce51fd3577889c56e5ceb8409.1659002682403.1704881971903.1704887309662.101&__hssc=149726313.1.1704887309662&__hsfp=2851389664)
-        * [API](https://www.pandadoc.com/api/)
-        * [Developer center](https://developers.pandadoc.com/)
+    * Industry
+        * [Software & technology](https://www.pandadoc.com/industries/technology/)
+        * [Professional services](https://www.pandadoc.com/industries/professional-services/)
+        * [Education](https://www.pandadoc.com/industries/education/)
+        * [Healthcare](https://www.pandadoc.com/industries/healthcare/)
+        * [Construction](https://www.pandadoc.com/industries/construction/)
+        * [All industries](https://www.pandadoc.com/industries/)
+    * Team
+        * [Sales](https://www.pandadoc.com/pandadoc-for-sales/)
+        * [HR](https://www.pandadoc.com/pandadoc-for-hr/)
+        * [Marketing](https://www.pandadoc.com/pandadoc-for-marketers/)
+        * [Customer success](https://www.pandadoc.com/pandadoc-for-customer-success/)
+        * [Legal](https://www.pandadoc.com/pandadoc-for-legal/)
+        * [All teams](https://www.pandadoc.com/teams/)
+    * Security & Сompliance
+        * [Signature certificate](https://support.pandadoc.com/hc/en-us/articles/360007915133--Signature-certificate-of-completed-documents)
+        * [Two-factor authentication](https://support.pandadoc.com/hc/en-us/articles/16804817099927-Two-factor-authentication-2FA-)
+        * [GDPR compliance](https://www.pandadoc.com/gdpr/)
+        * [HIPAA compliance](https://www.pandadoc.com/hipaa/)
+        * [View more](https://www.pandadoc.com/security/)
     
 * Integrations
     
-    * Most popular
-        * [Salesforce](https://www.pandadoc.com/integrations/crm/salesforce-cpq/)
+    * Sales and CRM
+        * [Hubspot](https://www.pandadoc.com/integrations/crm/hubspot/)
+        * [Salesforce](https://www.pandadoc.com/integrations/crm/salesforce/)
         * [Pipedrive](https://www.pandadoc.com/integrations/crm/pipedrive/)
+        * [Salesforce CPQ](https://www.pandadoc.com/integrations/crm/salesforce-cpq/)
+        * [Zoho](https://www.pandadoc.com/integrations/crm/zoho/)
+        * [Monday](https://www.pandadoc.com/integrations/crm/mondaydotcom/)
+    * Payment gateways
+        * [Square](https://www.pandadoc.com/integrations/payment/square-payment-gateway/)
         * [Stripe](https://www.pandadoc.com/integrations/payment/stripe/)
+        * [Authorize.net](https://www.pandadoc.com/integrations/payment/authorize-net-payment-gateway/)
         * [PayPal](https://www.pandadoc.com/integrations/payment/paypal/)
-        * [HubSpot CRM](https://www.pandadoc.com/integrations/crm/hubspot/)
+        * [QuickBooks Payments](https://www.pandadoc.com/integrations/payment/quickbooks-payment-gateway/)
+        * [FreshBooks](https://www.pandadoc.com/integrations/payment/freshbooks-new/)
+    * Collaboration and more
+        * [Zapier](https://www.pandadoc.com/integrations/integration-platforms/zapier/)
+        * [Greenhouse](https://www.pandadoc.com/integrations/hr-systems/greenhouse/)
+        * [Google Workspace](https://www.pandadoc.com/integrations/productivity/google-workspace/)
+        * [QuickBooks](https://www.pandadoc.com/integrations/payment/quickbooks-online/)
+        * [Microsoft Word](https://www.pandadoc.com/integrations/productivity/microsoft-word-online/)
+        * [Slack](https://www.pandadoc.com/integrations/productivity/slack-for-pandadoc/)
         * [All integrations](https://www.pandadoc.com/integrations/)
-    * Categories
-        * [Sales integrations](https://www.pandadoc.com/integrations/sales-teams/)
-        * [CRM integrations](https://www.pandadoc.com/integrations/crm/)
-        * [Payment integrations](https://www.pandadoc.com/integrations/payment/)
+    
+* Resources
+    
+    * Learn
+        * [Customer stories](https://www.pandadoc.com/customer-stories/)
+        * [Blog](https://www.pandadoc.com/blog/)
+        * [Templates](https://www.pandadoc.com/templates/)
+        * [Webinars](https://www.pandadoc.com/library/webinars/)
+        * [Learning academy](https://learn.pandadoc.com/)
+        * [Security](https://www.pandadoc.com/security/)
+    * Support
+        * [Help center](https://support.pandadoc.com/hc/en-us?__hstc=149726313.c068d78ce51fd3577889c56e5ceb8409.1659002682403.1704881971903.1704887309662.101&__hssc=149726313.1.1704887309662&__hsfp=2851389664)
+        * [Contact us](https://www.pandadoc.com/contact/)
+        * [Onboarding services](https://www.pandadoc.com/customer-experience/onboarding/)
+        * [Professional services](https://www.pandadoc.com/customer-experience/services/)
+        * [Premium support](https://www.pandadoc.com/customer-experience/premium-support/)
+    * Developers
+        * [API](https://www.pandadoc.com/api/)
+        * [Document embedding](https://www.pandadoc.com/api/embedded-editing/)
+        * [Documentation](https://developers.pandadoc.com/docs/create-send-document)
     
 * [Pricing](https://www.pandadoc.com/pricing/)
     
@@ -474,7 +580,7 @@ Company
 
 * [LinkedIn](https://www.linkedin.com/company/pandadoc/ "LinkedIn")
 * [Facebook](https://www.facebook.com/PandaDoc/ "Facebook")
-* [Twitter](https://twitter.com/pandadoc "Twitter")
+* [X](https://twitter.com/pandadoc "Twitter")
 * [Instagram](https://www.instagram.com/pandadochq/ "Instagram")
 * [YouTube](https://www.youtube.com/user/thePandaDoc "Youtube")
 
