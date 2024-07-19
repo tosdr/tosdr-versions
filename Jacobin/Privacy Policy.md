@@ -6,7 +6,7 @@ Jacobin
 =======](https://jacobin.com/)
 
 * [Subscribe](https://jacobin.com/subscribe)
-* [Magazine](https://jacobin.com/issue/religion)
+* [Magazine](https://jacobin.com/issue/town-and-country)
 * [Donate](https://jacobin.com/donate)
 * [Catalyst](http://catalyst-journal.com/)
 
@@ -24,7 +24,7 @@ Jacobin
 * [Donate](https://jacobin.com/donate)
 * [Store](https://jacobin.com/store)
 
-* [Magazine](https://jacobin.com/issue/religion)
+* [Magazine](https://jacobin.com/issue/town-and-country)
 * [Blog](https://jacobin.com/blog)
 * [Catalyst](http://catalyst-journal.com/)
 
