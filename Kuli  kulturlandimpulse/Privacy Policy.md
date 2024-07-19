@@ -1,7 +1,7 @@
 [](https://facebook.com/kulturlandimpulse)[](https://www.kulturlandimpulse.at/feed/)
 
 * [](tel:+43 650 7909484)
-* [office@kulturlandimpulse.at](mailto:o%66%66i%63e@%6bult%75r%6can%64%69%6dp%75%6cse.%61t)
+* [office@kulturlandimpulse.at](mailto:%6fffice@k%75lturl%61nd%69mpul%73e.at)
 
 [![kuli -  Kultur.Land.Impulse  Gemeinsam gestalten](https://www.kulturlandimpulse.at/wp-content/uploads/2020/07/kuliLogo_klein-e1594027797115.png)](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[kuli - Kultur.Land.Impulse](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[Gemeinsam gestalten](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")
 
@@ -100,17 +100,23 @@ https://www.dsb.gv.at/
 Kommende Veranstaltungen
 ------------------------
 
-Jul 3
-
-13:30 - 16:30
-
-### [Repair Café Braunau am Mittwoch, 3. Juli 2024](https://www.kulturlandimpulse.at/veranstaltung/repair-cafe-braunau-2023-2-3/ "Repair Café Braunau am Mittwoch, 3. Juli 2024")
-
 Jul 19
+
+20:30 - 22:00
+
+### [Sommerkino im Schärdinger Schlosspark](https://www.kulturlandimpulse.at/veranstaltung/sommerkino-am-hof-the-ants-and-the-grasshopper-2/ "Sommerkino im Schärdinger Schlosspark")
+
+Aug 6
 
 19:00 - 22:00
 
-### [Sommerkino im Schärdinger Schlosspark](https://www.kulturlandimpulse.at/veranstaltung/sommerkino-am-hof-the-ants-and-the-grasshopper-2/ "Sommerkino im Schärdinger Schlosspark")
+### [Stammtisch von Stadt.Land.Inn im August 2024 in Ried im Innkreis](https://www.kulturlandimpulse.at/veranstaltung/stammtisch-der-stadt-landler-2-2-2-2/ "Stammtisch von Stadt.Land.Inn im August 2024 in Ried im Innkreis")
+
+Sep 4
+
+13:30 - 16:30
+
+### [SOMMERPAUSE IM AUGUST! nächstes Repair Café Braunau: 4. September 2024](https://www.kulturlandimpulse.at/veranstaltung/repair-cafe-braunau-2023-2-3/ "SOMMERPAUSE IM AUGUST! nächstes Repair Café Braunau: 4. September 2024")
 
 [Kalender anzeigen](https://www.kulturlandimpulse.at/veranstaltungen/ "Weitere Veranstaltungen anzeigen.")
 
