@@ -582,7 +582,9 @@ The best social media marketing app, influencer marketing management platform & 
     
     Tools
     
+    * [Influencer Database](https://www.mavrck.co/influencer-marketing-tools/influencer-database/)
     * [Find Influencers](https://www.mavrck.co/influencer-marketing-tools/find-influencers/)
+    * [Influencer Outreach](https://www.mavrck.co/influencer-marketing-tools/influencer-outreach/)
     * [Influencer Campaigns](https://www.mavrck.co/influencer-marketing-tools/influencer-campaign-platform/)
     * [Manage Influencers](https://www.mavrck.co/influencer-marketing-tools/influencer-management-platform/)
     * [Pay Influencers](https://www.mavrck.co/influencer-marketing-tools/influencer-payments/)
@@ -593,6 +595,7 @@ The best social media marketing app, influencer marketing management platform & 
     
     Influencers
     
+    * [Micro Influencers](https://www.mavrck.co/micro-influencers/)
     * [Brand Ambassadors](https://www.mavrck.co/brand-ambassadors/)
     * [UGC Creators](https://www.mavrck.co/ugc-creators/)
     * [YouTubers](https://www.mavrck.co/youtubers/)
@@ -606,6 +609,8 @@ The best social media marketing app, influencer marketing management platform & 
     Use Cases
     
     * [CPG](https://www.mavrck.co/cpg-influencers/)
+    * [Retail](https://www.mavrck.co/retail-influencers/)
+    * [Food & Beverage](https://www.mavrck.co/food-beverage-influencers/)
     * [E-Commerce](https://www.mavrck.co/ecommerce-influencers/)
     
     Demo
