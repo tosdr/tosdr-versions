@@ -1,5 +1,7 @@
 ![](https://px.ads.linkedin.com/collect/?pid=3724420&fmt=gif)        Online Curricula and Solutions | Imagine Learning - Imagine Learning                                                        
 
+[![](https://www.imaginelearning.com/wp-content/uploads/2024/07/IL-logo_monogram-W.svg)](https://www.imaginelearning.com/)
+
 * [![](https://www.imaginelearning.com/wp-content/uploads/2023/08/IL-tagline-standard_Web.svg)](https://www.imaginelearning.com/)
 * [Solutions](https://www.imaginelearning.com/solutions/)
     * * * [SolutionsTeaching solutions to drive better student outcomes](https://www.imaginelearning.com/solutions/)
@@ -41,6 +43,8 @@
                 * [Imagine Science Corner](https://www.imaginelearning.com/products/science/imagine-science-corner/)
         * * [AssessmentPre-built and customizable benchmark and formative assessments](https://www.imaginelearning.com/solutions/assessment/)
                 * [Imagine Galileo](https://www.imaginelearning.com/solutions/assessment/imagine-galileo/)
+            * Special EducationEquitably drive success for students with disabilities
+                * [Imagine Sonday System](https://www.imaginelearning.com/products/special-education/sonday-system/)
 * [Services](https://www.imaginelearning.com/services/)
     * * * [ServicesPersonalized support, certified instructors, and custom solutions for schools, educators, and students](https://www.imaginelearning.com/services/)
         * * [Instructional ServicesCertified teachers improve student performance with communication, dynamic curriculum, and live instruction](https://www.imaginelearning.com/services/instructional-services/)
@@ -84,6 +88,8 @@
 * [Login](https://portal.imaginelearning.com/)
 * [Contact](https://www.imaginelearning.com/about/contact-us/)
 * [Search](https://www.imaginelearning.com/)
+
+[Privacy Policy updates take effect **August 15, 2024**: generative AI, data collection, and more](https://www.edgenuity.com/support/privacy/policy/)
 
 [Imagine Learning announces Imagine IM, the certified Illustrative Mathematics curriculum fully enhanced for engagement, accessibility, and usability.](https://www.imaginelearning.com/in-the-news/imagine-learning-announces-core-math-imagine-im-partnership-illustrative-mathematics/)
 
@@ -290,6 +296,7 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 * [Spanish Language Arts and Literacy](https://www.edgenuity.com/products/spanish-language-arts)
 * [Social and Emotional Learning](https://www.edgenuity.com/solutions/social-emotional-learning)
 * [Products By Grade Level](https://www.edgenuity.com/products/grade-level)
+* [Product Updates](https://www.edgenuity.com/product-updates)
 
 [Support](https://www.edgenuity.com/support)[](#collapse-support)
 
