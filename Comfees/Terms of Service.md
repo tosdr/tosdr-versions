@@ -233,33 +233,33 @@ Legal Department/Paralegal
 
 8020 Arco Corporate Drive, Raleigh, North Carolina, US, 27167.
 
-![FAQ](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/Group.svg) Help
+![FAQ](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/Group.svg) Help
 
- [![FAQ](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/faq-q.svg) FAQ](https://www.mycomfees.com/faq/)
+ [![FAQ](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/faq-q.svg) FAQ](https://www.mycomfees.com/faq/)
 
- [![Contact us](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/contact.svg) Contact us](https://www.mycomfees.com/contactus/)
+ [![Contact us](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/contact.svg) Contact us](https://www.mycomfees.com/contactus/)
 
-![Call](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
+![Call](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
 
-![Call](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
+![Call](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
 
-![Close](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/close.svg)
+![Close](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/close.svg)
 
-![agent-img](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/attindas/default/images/floating-contact/agent-image-desktop.jpg)
+![agent-img](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/attindas/default/images/floating-contact/agent-image-desktop.jpg)
 
 Call us
 
 Support agent
 
-[![Logo](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/footer/logo_white.png)](https://www.mycomfees.com/)
+[![Logo](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/comfees/default/images/footer/logo_white.png)](https://www.mycomfees.com/)
 
- [![aria-label="facebook"](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/facebook.svg)](https://www.facebook.com/mycomfees/)[![Instagram](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/instagram.svg)](https://www.instagram.com/Mycomfees_USA/?hl=en)[![Twitter](https://www.mycomfees.com/static/version1718689898/frontend/Attindas/comfees/default/images/twitter.svg)](https://twitter.com/mycomfees)
+ [![aria-label="facebook"](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/comfees/default/images/facebook.svg)](https://www.facebook.com/mycomfees/)[![Instagram](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/comfees/default/images/instagram.svg)](https://www.instagram.com/Mycomfees_USA/?hl=en)[![Twitter](https://www.mycomfees.com/static/version1721194707/frontend/Attindas/comfees/default/images/twitter.svg)](https://twitter.com/mycomfees)
 
 **Contact Us:** [800-351-1538](tel:800-351-1538)
 
 **Email Us:** [mycomfees@attindas.com](mailto:mycomfees@attindas.com)
 
-© 2024 Comfees, by Attindas Hygiene Partners [Privacy Policy](https://www.mycomfees.com/comfees-privacy-policy/) | [Global Privacy Statement](https://www.mycomfees.com/global-privacy-statement/) | [Terms of service](https://www.mycomfees.com/comfees-terms-of-service/) | [Satisfaction Gaurenteed Policy](https://www.mycomfees.com/comfees-satisfaction-gauranteed-policy/) | [Spring Giveway Rules](https://www.mycomfees.com/spring-giveaway-rules/)
+© 2024 Comfees, by Attindas Hygiene Partners [Privacy Policy](https://www.mycomfees.com/comfees-privacy-policy/) | [Global Privacy Statement](https://www.mycomfees.com/global-privacy-statement/) | [Terms of service](https://www.mycomfees.com/comfees-terms-of-service/) | [Satisfaction Guarantee Policy](https://www.mycomfees.com/comfees-satisfaction-guarantee-policy/) | [Spring Giveway Rules](https://www.mycomfees.com/spring-giveaway-rules/)
 
 Technical
 
