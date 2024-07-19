@@ -1,11 +1,5 @@
 [Skip to content](#content "Skip to content")
 
-![LIPA Bell Alert Icon 24x24px for Announcement Bar top of page.](https://www.lipower.org/wp-content/uploads/2024/01/bell-icon-24x24-1.svg) Alert Icon
-
-Upcoming Event:
-
-Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee Meeting](https://www.lipower.org/board-of-trustees/board-meetings/2024-06-26/06-26-24-finance-and-audit-committee-meeting/) – LIPA, 333 Earle Ovington Blvd. 4th Floor, Uniondale, NY 11553
-
 [](https://www.lipower.org/ "Return to the homepage")
 
 * [About Us](#0)
@@ -67,6 +61,7 @@ Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee
     * [Reformed Management Contract with PSEG Long Island](https://www.lipower.org/operational-partners/reformed-management-contract-with-pseg-long-island/ "Reformed Management Contract with PSEG Long Island")
     * [Contracts & Reports](https://www.lipower.org/contracts-and-reports/ "Contracts & Reports")
     * [Performance Metrics](https://www.lipower.org/operational-partners/performance-metrics/ "Performance Metrics")
+    * [Management and Operations Audits](https://www.lipower.org/procurement/management-and-operations-audits/ "Management and Operations Audits")
     
     ![Missing ALT Text](https://www.lipower.org/wp-content/uploads/2024/01/vendormanagement.jpg)
     
@@ -105,11 +100,12 @@ Wednesday, June 26, 2024 | 9:00 AM – 10:00 AM – [Finance and Audit Committee
     
     ### Contact Us
     
-    Want to get in touch with LIPA? You can email, call, or use our chat service to contact our staff.​
+    Want to get in touch with LIPA?
     
     [Learn More](https://www.lipower.org/contact-us/ "Learn More")
     
     * [FOIL](https://www.lipower.org/contact-us/foil/ "FOIL")
+    * [Ethics Reporting](https://www.lipower.org/ethics-reporting/ "Ethics Reporting")
     * [Media Relations](https://www.lipower.org/contact-us/media-relations/ "Media Relations")
     * [Consumer Affairs](https://www.lipower.org/contact-us/consumer-affairs/ "Consumer Affairs")
     * [Frequently Asked Questions](https://www.lipower.org/frequently-asked-questions/ "Frequently Asked Questions")
@@ -151,7 +147,7 @@ Our Website is not intended for children under 16 years of age. No one under age
 **Information We Collect About You and How We Collect It**  
 We collect several types of information from and about users of our Website, including information:
 
-* By which you may be personally identified, such as name, postal address, email address, telephone number, or any other identifier by which you may be contacted online or offline\] (“**personal information**”);
+* By which you may be personally identified, such as name, postal address, email address, telephone number, or any other identifier by which you may be contacted online or offline (“**personal information**”);
 * That is about you but individually does not identify you; and/or
 * About your internet connection, the equipment you use to access our Website, and usage details, including the following:
     * The Internet Protocol (IP) address and domain name of your internet service provider. The IP address is a numerical identifier assigned either to your internet service provider or directly to your computer, which can be used to direct internet traffic to you;
@@ -160,13 +156,14 @@ We collect several types of information from and about users of our Website, inc
     * The webpages or services you accessed at this site and the files that you downloaded; and
     * The URL or address of the website you visited prior to coming to this website and from which any webpage on this site was linked.
 
-We collect this information:
+**We collect this information:**
 
 * Directly from you when you provide it to us.
-* Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons,\] \[and other tracking technologies\].
-* \[From third parties, for example, our business partners.\]  
-    Information You Provide to Us  
-    The information we collect on or through our Website may include:
+* Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies and web beacons.
+* Information You Provide to Us
+
+**The information we collect on or through our Website may include:**
+
 * Information that you provide by filling in forms on our Website. We may also ask you for information if you report a problem with our Website or send us a question.
 * Records and copies of your correspondence (including email addresses), if you contact us.
 * Details of transactions you carry out through our Website.
@@ -177,7 +174,7 @@ We collect this information:
 
 You also may provide information to be published or displayed (hereinafter, “**posted**”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “**User Contributions**”). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-_**Information We Collect Through Automatic Data Collection Technologies**_  
+**Information We Collect Through Automatic Data Collection Technologies**  
 As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
 * Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website.
@@ -195,7 +192,7 @@ The information we collect automatically may include personal information. It he
 The technologies we use for this automatic data collection may include:
 
 * **Cookies (or browser cookies)**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. For information about managing your privacy and security settings for cookies, see ‘Choices About How We Use and Disclose Your Information’ (below).
-* **Web Beacons.** Pages of our Website and our emails\] may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+* **Web Beacons.** Pages of our Website and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 **Third-Party Use of Cookies and Other Tracking Technologies**  
 Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
