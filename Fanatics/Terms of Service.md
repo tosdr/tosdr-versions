@@ -15,7 +15,7 @@ SIGN UP & SAVE!
 
 [](https://www.fanatics.com/)
 
-[![365-Day Returns](/content/ws/all/73e57857-dcc5-4e18-a3ee-3773599ec162.svg)](https://www.fanatics.com/easy-365-day-returns/x-1512+z-906149967-1353725028)[![Fanatics MVP Deals](/content/ws/all/ff9ac435-7404-42cf-a7b2-37e6183a607c.svg)](https://www.fanatics.com/fancash-rewards/x-197134+z-98696788-1839531665)[![FanCash Rewards Card](/content/ws/all/6a722aa0-239a-4412-9a72-8f5808d4683d.svg)](https://www.fanatics.com/fancash-rewards-card/x-308451+z-90450390-335087125?SiteCode=FAHPPLP)
+[![365-Day Returns](/content/ws/all/73e57857-dcc5-4e18-a3ee-3773599ec162.svg)](https://www.fanatics.com/easy-365-day-returns/x-1512+z-906149967-1353725028)[![Fanatics MVP Deals](/content/ws/all/ff9ac435-7404-42cf-a7b2-37e6183a607c.svg)](https://www.fanatics.com/fancash-rewards/x-197134+z-98696788-1839531665)[![FanCash Rewards Card](/content/ws/all/6a722aa0-239a-4412-9a72-8f5808d4683d.svg)](https://www.fanatics.com/fancash-rewards-card/x-308451+z-90450390-335087125?SiteCode=FAHPPLP)[![Download the App](/content/ws/all/ed3ffc43-e198-4828-b329-a247c77e837e.svg)](https://www.fanatics.com/mobile/x-2852+z-83964446-2215009846)
 
 [](https://www.fanatics.com/account)[](https://www.fanatics.com/cart?_ref=cart-icon&qty=0)
 
@@ -387,14 +387,14 @@ Follow Us
 * [](https://www.instagram.com/fanatics "Instagram")
 
 * [Privacy Policy](https://www.fanatics.com/what-is-your-privacy-policy/ch-2349 "Privacy Policy")
-* [Your Privacy Choices](https://www.fanatics.com/user-prefs/data-subject-request?_ref=do_not_sell "Your Privacy Choices")
+* [Your Privacy Choices](https://www.fanatics.com/user-prefs/cookies "Your Privacy Choices")
 * [Terms of Use](https://www.fanatics.com/terms-and-conditions/ch-2323 "Terms of Use")
 * [Interest-Based Advertisement](https://www.fanatics.com/what-is-your-privacy-policy/ch-2349#-6.-interest-based-advertising- "Interest-Based Advertisement")
 * [CA Supply Chains Act/UK Modern Slavery Act](https://www.fanaticsinc.com/ca-transparency-uk-modern-slavery-act "CA Supply Chains Act/UK Modern Slavery Act")
 * [Site Map](https://www.fanatics.com/sitemap "Site Map")
 * [Shopping Internationally? Visit fanatics.co.uk](https://www.fanatics.co.uk/stores/fanatics/en "Shopping Internationally? Visit fanatics.co.uk")
 
-© Fanatics, Inc., 2024. All Rights Reserved. No portion of this site may be reproduced or duplicated without the express permission of Fanatics, Inc.
+© Fanatics, LLC., 2024. All Rights Reserved. No portion of this site may be reproduced or duplicated without the express permission of Fanatics, LLC.
 
 * Visa
 * Master Card
@@ -405,16 +405,15 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: fa0235c85623e7c5
+rc: adebeedb6e2ba388
 
-vid: 5135f780-3021-11ef-8cb8-35fbc7704fc6
+vid: 9e1d8f40-45b1-11ef-85a9-adf58f93a4ec
 
-version: 1.1.0-rc-20240617-1.91665
+version: 1.1.0-rc-20240717.93414
 
 +
 
 Qualified Experiments #:* 12635:A:0:1
-* 13246:B:1:1
-* 13324:B:1:1
-* 13353:C:2:1
+* 13800:A:0:1
+* 13832:C:2:1
 Namespaces:
