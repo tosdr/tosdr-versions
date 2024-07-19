@@ -12,13 +12,13 @@ Back to
 
 Back
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2776%27%20height=%2776%27/%3e)![guaranteed rate logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2776%27%20height=%2776%27/%3e)![Rate logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![guaranteed rate logo](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blt3314b77483e33a5f/662289f6a02ad76a34ee7705/default-profile.svg)
+![Rate logo](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blt3314b77483e33a5f/662289f6a02ad76a34ee7705/default-profile.svg)
 
 Loan expert
 
-* [(866) 934-7283](tel:8669347283 "Call Guaranteed Rate at (866) 934-7283")
+* [(866) 934-7283](tel:8669347283 "Call Rate at (866) 934-7283")
 * [\[email protected\]](https://www.rate.com/cdn-cgi/l/email-protection)
 
 Talk to an insurance expert today
@@ -27,7 +27,7 @@ Talk to an insurance expert today
 
 ContactEnglish
 
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27140%27%20height=%2735%27/%3e)![Guaranteed Rate Home](https://dih4lvql8rjzt.cloudfront.net/cms/76e3fdb8-253a-49d8-8195-116f7fbc8b25_gr-logo3x.svg)](https://www.rate.com/)
+[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2770%27%20height=%2728%27/%3e)![Rate Home](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blte08c31bfeb347f39/65027cfd9bcd1bdc631d027c/5min_rateLogo.svg)](https://www.rate.com/)
 
 * Mortgage
 * [HELOC](https://www.rate.com/redirect?dest=https://www.rate.com/heloc)
@@ -39,13 +39,13 @@ ContactEnglish
 2. English
 3. Contact
     
-    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2776%27%20height=%2776%27/%3e)![guaranteed rate logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2776%27%20height=%2776%27/%3e)![Rate logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![guaranteed rate logo](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blt3314b77483e33a5f/662289f6a02ad76a34ee7705/default-profile.svg)
+    ![Rate logo](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blt3314b77483e33a5f/662289f6a02ad76a34ee7705/default-profile.svg)
     
     Loan expert
     
-    * [(866) 934-7283](tel:8669347283 "Call Guaranteed Rate at (866) 934-7283")
+    * [(866) 934-7283](tel:8669347283 "Call Rate at (866) 934-7283")
     * [\[email protected\]](https://www.rate.com/cdn-cgi/l/email-protection)
     
     Talk to an insurance expert today
@@ -73,7 +73,7 @@ Receive funds within days.](https://www.rate.com/personal-loans)
 
 Fund your life if you’re near retirement.](https://www.rate.com/hecm-reverse-mortgage)
 
-[**Guaranteed Rate Insurance\***
+[**Rate Insurance\***
 
 100+ top carriers.
 
