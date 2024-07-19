@@ -2,8 +2,9 @@
 
 * [DbModeller.net (BETA)](https://dbmodeller.net/)
 
+* [Pricing](https://dbmodeller.net/pricing)
 * [Login](https://dbmodeller.net/login)
-* [Register for free](https://dbmodeller.net/registrations/new)
+* [Register](https://dbmodeller.net/registrations/new)
 
 DbModeller.net Terms of Service
 ===============================
