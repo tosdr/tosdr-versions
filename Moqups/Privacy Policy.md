@@ -1,61 +1,86 @@
-[![Moqups Logo](https://landing.moqups.com/img/logo.svg)
+[Skip to content](#main)
 
-![Moqups Logo](https://landing.moqups.com/img/logo.svg)](https://moqups.com/ "Go to Moqups Homepage")
+[Moqups Logo](https://moqups.com/)
 
-* [Tour](https://moqups.com/#tour)
-* [Product](https://moqups.com/#features)
+* Product
     
-    * [Wireframe Tool](https://moqups.com/wireframe-tool/ "Moqups Wireframe Tool")
-    * [Flowchart Maker](https://moqups.com/flowchart-maker/ "Moqups Flowchart Maker")
-    * [Graph Maker](https://moqups.com/graph-maker/ "Moqups Graph Maker")
-    * [Online Whiteboard](https://moqups.com/online-whiteboard/ "Moqups Online Whiteboard")
-    * [UML Diagram Tool](https://moqups.com/uml-diagram-tool/ "Moqups UML Diagram Tool")
+    * [Wireframe Tool](https://moqups.com/wireframe-tool/)
+    * [Flowchart Maker](https://moqups.com/flowchart-maker/)
+    * [Graph Maker](https://moqups.com/graph-maker/)
+    * [Online Whiteboard](https://moqups.com/online-whiteboard/)
+    * [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
     
-* [Templates](https://moqups.com/templates/)
+* Templates
     
-    * [Wireframes & Mockups](https://moqups.com/templates/wireframes-mockups/ "Online UX Wireframe & UI Mockup Tools – Free Templates | Moqups")
-    * [Admin Dashboard](https://moqups.com/templates/wireframes-mockups/admin-dashboard-wireframe/ "Free Admin Dashboard Wireframe Templates – Online with Moqups")
-    * [Ecommerce Website](https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/ "Free Ecommerce Website Wireframe Templates – Online with Moqups")
-    * [Landing Page](https://moqups.com/templates/wireframes-mockups/landing-page-wireframe/ "Free Landing Page Wireframe Templates – Online with Moqups")
+    * [All Templates](https://moqups.com/templates/)
+    * [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+    * [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
+    * [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
+    * [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
     
-    * [Diagrams & Flows](https://moqups.com/templates/diagrams-flowcharts/ "Online Diagram and Flowchart Maker –  Free Templates | Moqups")
-    * [Mind Maps](https://moqups.com/templates/diagrams-flowcharts/mind-maps/ "Beautiful Mind Maps Online –  Free Templates | Moqups")
-    * [Site Maps](https://moqups.com/templates/diagrams-flowcharts/site-maps/ "Custom Visual Site Maps Online –  Free Templates | Moqups")
-    * [Process Maps](https://moqups.com/templates/diagrams-flowcharts/process-flows/ "Stunning Process Flowcharts Online –  Free Templates | Moqups")
+* Resources
     
-    * [Charts & Graphs](https://moqups.com/templates/charts-graphs/ "Online Chart & Graph Maker | Charts and Graphs Templates | Moqups")
-    * [Line Charts & Graphs](https://moqups.com/templates/charts-graphs/line-graph/ "Stunning Line Graph Templates | Edit Your Line Chart | Moqups")
-    * [Bar Charts & Graphs](https://moqups.com/templates/charts-graphs/bar-graph/ "Stunning Bar Graphs and Charts | Edit Bar Graph Templates | Moqups")
-    * [Pie & Donut Charts](https://moqups.com/templates/charts-graphs/pie-donut-chart/ "Stunning Pie Chart Templates | Edit Donut Chart Templates | Moqups")
+    * [Help Center](https://moqups.com/hc/)
+    * [Contact Support](https://moqups.com/support/)
+    * [FAQ](https://moqups.com/faq/)
     
-    * [Business Strategy](https://moqups.com/templates/business-strategy/ "Business Strategy Templates | Moqups")
-    * [Gantt Chart](https://moqups.com/templates/business-strategy/gantt-chart/ "Gantt Chart Template | Moqups")
-    * [Empathy Map](https://moqups.com/templates/business-strategy/empathy-map/ "Empathy Map Template | Moqups")
-    * [User Story Mapping](https://moqups.com/templates/business-strategy/user-story-mapping/ "User Story Mapping Template")
+    * [Get Started](https://moqups.com/blog/get-started-with-moqups/)
+    * [Blog](https://moqups.com/blog/)
+    * [What's New](https://moqups.com/blog/release-notes/)
     
-* [Benefits](https://moqups.com/#benefits)
-* [Testimonials](https://moqups.com/#testimonials)
 * [Pricing](https://moqups.com/pricing/)
+
+* en
+    
+    * [Español](https://moqups.com/es/privacy/)
+    * [Italiano](https://moqups.com/it/privacy/)
+    * [Deutsch](https://moqups.com/de/privacy/)
+    * [Français](https://moqups.com/fr/privacy/)
+    
 * [Log In](https://app.moqups.com/login/)
 
-[Log In](https://app.moqups.com/login/ "Moqups Log In") [Sign up for free](https://app.moqups.com/)
+[Sign up](https://app.moqups.com/sign-up/)
 
-[![Open navigation menu](https://landing.moqups.com/img/icons/navigation/hamburger-menu.png "Open navigation menu")
-
-![Open navigation menu](https://landing.moqups.com/img/icons/navigation/hamburger-menu.png)](#js-menu "Open navigation menu")
-
-* [Tour](https://moqups.com/#tour)
-* [Product](https://moqups.com/#features)
-* [Templates](https://moqups.com/templates/)
-* [Benefits](https://moqups.com/#benefits)
-* [Testimonials](https://moqups.com/#testimonials)
-* [Pricing](https://moqups.com/pricing/)
 * [Log In](https://app.moqups.com/login/)
+* [Sign up](https://app.moqups.com/sign-up/)
+* [Pricing](https://moqups.com/pricing/)
+
+Product
+
+* [Wireframe Tool](https://moqups.com/wireframe-tool/)
+* [Flowchart Maker](https://moqups.com/flowchart-maker/)
+* [Graph Maker](https://moqups.com/graph-maker/)
+* [Online Whiteboard](https://moqups.com/online-whiteboard/)
+* [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
+
+Templates
+
+* [All Templates](https://moqups.com/templates/)
+* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+* [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
+* [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
+* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+
+Resources
+
+* [Help Center](https://moqups.com/hc/)
+* [Contact Support](https://moqups.com/support/)
+* [FAQ](https://moqups.com/faq/)
+* [Get Started](https://moqups.com/blog/get-started-with-moqups/)
+* [Blog](https://moqups.com/blog/)
+* [What's New](https://moqups.com/blog/release-notes/)
+
+Language
+
+* [Español](https://moqups.com/es/privacy/)
+* [Italiano](https://moqups.com/it/privacy/)
+* [Deutsch](https://moqups.com/de/privacy/)
+* [Français](https://moqups.com/fr/privacy/)
 
 Privacy Policy
 ==============
 
-**_Effective starting: May 22, 2018_**
+_Effective starting: May 22, 2018_
 
 What this policy covers
 -----------------------
@@ -240,6 +265,7 @@ List of data sub-processors
 | REFINER SAS | Customer Surveys | France | [https://refiner.io/](https://refiner.io/) |
 | Amplitude, Inc. | Analytics | USA | [https://www.amplitude.com/](https://www.amplitude.com/) |
 | Google, Inc. | Analytics, Online Advertising, Cloud Drive Integration, Authentication Provider | USA | [https://www.google.com/](https://www.google.com/) |
+| Baremetrics | Analytics | USA | [https://baremetrics.com/](https://baremetrics.com/) |
 | Dropbox, Inc. | Cloud Drive | USA | [https://dropbox.com](https://dropbox.com/) |
 | Box, Inc. | Cloud Drive | USA | [https://www.box.com/](https://www.box.com/) |
 | Facebook, Inc. | Online Advertising, Social Media | USA | [https://facebook.com](https://facebook.com/) |
@@ -255,56 +281,58 @@ List of data sub-processors
 Contacting Moqups
 -----------------
 
-If you have any questions about Moqups’ Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [dpo@moqups.com](mailto:dpo@moqups.com)
+If you have any questions about Moqups' Privacy Policy, or want to make a request with regard to your information, please contact our Data Protection Officer at [dpo@moqups.com](mailto:dpo@moqups.com).
 
-> S.C. Evercoder Software S.R.L.
-
-> Str. Dimitrie Cantemir nr. 5
-
-> Cluj-Napoca, Cluj
-
-> Romania
-
+> S.C. Evercoder Software S.R.L.  
+> Str. Dimitrie Cantemir nr. 5  
+> Cluj-Napoca, Cluj  
+> Romania  
 > [support@moqups.com](mailto:support@moqups.com)
 
-* MOQUPS
-* [Tour](https://moqups.com/#tour "Tour")
-* [Features](https://moqups.com/#features "Features")
-* [Benefits](https://moqups.com/#benefits "Benefits")
-* [Testimonials](https://moqups.com/#testimonials "Testimonials")
-* [Pricing](https://moqups.com/pricing/ "Pricing")
-* [Wireframe Tool](https://moqups.com/wireframe-tool/ "Wireframe Tool")
-* [Flowchart Maker](https://moqups.com/flowchart-maker/ "Flowchart Maker")
-* [Graph Maker](https://moqups.com/graph-maker/ "Graph Maker")
-* [Online Whiteboard](https://moqups.com/online-whiteboard/ "Online Whiteboard")
-* [Moqups for JIRA & Confluence](https://marketplace.atlassian.com/vendors/1212376/moqups/ "Moqups for JIRA & Confluence")
+Back to top
 
-* TEMPLATES
-* [Wireframes & Mockups](https://moqups.com/templates/wireframes-mockups/ "Wireframes & Mockups")
-* [Diagrams & Flowcharts](https://moqups.com/templates/diagrams-flowcharts/ "Diagrams & Flowcharts")
-* [Mind Maps](https://moqups.com/templates/diagrams-flowcharts/mind-maps/ "Mind Maps")
-* [Process Flowcharts](https://moqups.com/templates/diagrams-flowcharts/process-flows/ "Process Flowcharts")
-* [Site Maps](https://moqups.com/templates/diagrams-flowcharts/site-maps/ "Site Maps")
-* [Charts & Graphs](https://moqups.com/templates/charts-graphs/ "Charts & Graphs")
-* [Business Strategy](https://moqups.com/templates/business-strategy/ "Business Strategy")
+Product
 
-* RESOURCES
-* [What's New](https://moqups.com/blog/release-notes/ "What's New")
-* [Blog](https://moqups.com/blog/ "Blog")
-* [Sitemap](https://moqups.com/sitemap/ "Sitemap")
-* [Moqups Chrome Extension](https://chrome.google.com/webstore/detail/moqups-extension/fkfehdnondfhgkechihgejkcnkhdbfna?hl=en "Moqups Chrome Extension")
-* [Moqups Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/moqups-extension/ "Moqups Firefox Add-on")
+* [Wireframe Tool](https://moqups.com/wireframe-tool/)
+* [Flowchart Maker](https://moqups.com/flowchart-maker/)
+* [Graph Maker](https://moqups.com/graph-maker/)
+* [Online Whiteboard](https://moqups.com/online-whiteboard/)
+* [UML Diagram Tool](https://moqups.com/uml-diagram-tool/)
 
-* SUPPORT
-* [Help Center](https://support.moqups.com/hc/en-us "Help Center")
-* [Contact Us](https://moqups.com/support/ "Contact Us")
-* [FAQ](https://moqups.com/faq/ "FAQ")
-* [](https://www.facebook.com/moqups "Moqups on Facebook")[](https://twitter.com/moqups "Moqups on Twitter")
+Templates
 
-![Moqups Logo Light](https://landing.moqups.com/img/logo-light@2x.png)
+* [Wireframe & UI Mockup Templates](https://moqups.com/templates/wireframes-mockups/)
+* [Mapping & Diagramming Templates](https://moqups.com/templates/mapping-and-diagramming/)
+* [Mind Map Templates](https://moqups.com/templates/mapping-and-diagramming/mind-maps/)
+* [Flowchart Templates](https://moqups.com/templates/mapping-and-diagramming/flowcharts/)
+* [Sitemap Templates](https://moqups.com/templates/mapping-and-diagramming/site-maps/)
+* [Chart, Graph & Infographic Templates](https://moqups.com/templates/charts-graphs/)
+* [Planning & Ideation Templates](https://moqups.com/templates/planning-and-ideation/)
 
-© 2024 - S.C Evercoder Software S.R.L.
+Resources
 
-[Terms of Service](https://moqups.com/terms/ "Terms of Service") [Privacy Policy](https://moqups.com/privacy/ "Privacy Policy")
+* [Blog](https://moqups.com/blog/)
+* [Pricing](https://moqups.com/pricing/)
+* [Get Started](https://moqups.com/blog/get-started-with-moqups/)
+* [What's New](https://moqups.com/blog/release-notes/)
+* [Moqups Browser Add-ons](https://moqups.com/blog/our-new-google-chrome-extension/)
+* [Moqups for JIRA & Confluence](https://marketplace.atlassian.com/vendors/1212376/moqups/)
 
-English [Deutsch](https://moqups.com/de/privacy/) [Italiano](https://moqups.com/it/privacy/) [Español](https://moqups.com/es/privacy/)
+Support
+
+* [Help Center](https://moqups.com/hc/)
+* [Contact Support](https://moqups.com/support/)
+* [FAQ](https://moqups.com/faq/)
+
+Moqups logo
+
+2024 © Moqups by Evercoder Software SRL
+
+* [Terms of Service](https://moqups.com/terms/)
+* [Privacy Policy](https://moqups.com/privacy/)
+
+* [Twitter logo](https://twitter.com/moqups "Moqups on X / Twitter")
+* [LinkedIn logo](https://www.linkedin.com/company/moqups "Moqups on Linkedin")
+* [Facebook logo](https://www.facebook.com/moqups "Moqups on Facebook")
+* [Instagram logo](https://www.instagram.com/moqups/ "Moqups on Instagram")
+* [Pinterest logo](https://www.pinterest.com/moqups/ "Moqups on Pinterest")
