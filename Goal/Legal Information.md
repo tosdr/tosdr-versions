@@ -3,11 +3,6 @@
 [![Goal.com](/img/logo.svg)](https://www.goal.com/en)
 
 * [SCORES](https://www.goal.com/en/live-scores)
-* EURO 2024
-    * Euro 2024
-        * [News](https://www.goal.com/en/european-championship/news/8tddm56zbasf57jkkay4kbf11)
-        * [Fixtures](https://www.goal.com/en/european-championship/fixtures-results/8tddm56zbasf57jkkay4kbf11)
-        * [Tables](https://www.goal.com/en/european-championship/table/8tddm56zbasf57jkkay4kbf11)
 * LATEST
     * Latest
         * [News](https://www.goal.com/en/news)
@@ -29,10 +24,8 @@
         * [UEFA Champions League](https://www.goal.com/en/uefa-champions-league/4oogyu6o156iphvdvphwpck10)
         * [UEFA Europa League](https://www.goal.com/en/uefa-europa-league/4c1nfi2j1m731hcay25fcgndq)
         * [UEFA Europa Conference League](https://www.goal.com/en/uefa-europa-conference-league/c7b8o53flg36wbuevfzy3lb10)
-        * [Copa America](https://www.goal.com/en/copa-america/45db8orh1qttbsqq9hqapmbit)
         * [MLS](https://www.goal.com/en/mls/287tckirbfj9nb8ar2k9r60vn)
         * [Saudi Pro League](https://www.goal.com/en/saudi-league/ea0h6cf3bhl698hkxhpulh2zz)
-        * [All competitions](https://www.goal.com/en/all-competitions)
     * Clubs
         * [![teams](/img/team-crest-placeholder.webp)Manchester United](https://www.goal.com/en/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh)
         * [![teams](/img/team-crest-placeholder.webp)Liverpool](https://www.goal.com/en/team/liverpool/c8h9bw1l82s06h77xxrelzhur)
@@ -46,7 +39,6 @@
         * [![teams](/img/team-crest-placeholder.webp)Juventus](https://www.goal.com/en/team/juventus/bqbbqm98ud8obe45ds9ohgyrd)
         * [![teams](/img/team-crest-placeholder.webp)Inter Miami](https://www.goal.com/en/team/inter-miami/7a7uyvix8axi28h7d3bwl4tbe)
         * [![teams](/img/team-crest-placeholder.webp)Al-Nassr](https://www.goal.com/en/team/al-nassr/57jcqe38hakh2hfit2zsogsb)
-        * [Other clubs](https://www.goal.com/en/teams)
     * International
         * [![teams](/img/team-crest-placeholder.webp)England](https://www.goal.com/en/team/england/ck8m1cn23sukwsurgx5qakttk)
         * [![teams](/img/team-crest-placeholder.webp)Argentina](https://www.goal.com/en/team/argentina/ak48fkypnql8y4n69cvcq5ghc)
