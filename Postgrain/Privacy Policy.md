@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![campanhas no Instagram - na imagem tem uma mão, segurando um celular com a logo e nome do Instagram abertos na tela. De fundo, tem uma sala de estar, onde aparece um sofá pequeno e uma mesa de centro.](https://postgrain.com/wp-content/uploads/2024/06/THUMB-BLOG-O-que-voce-deve-acompanhar-na-gestao-de-suas-campanhas-no-Instagram-580x290.jpg)](https://postgrain.com/?post_type=post&p=12135)
+[![Imagem de uma mão segurando uma lampada.](https://postgrain.com/wp-content/uploads/2024/07/THUMB-BLOG-Estrategias-para-fortalecer-sua-reputacao-de-marca-580x290.jpg)](https://postgrain.com/?post_type=post&p=12335)
 
-[O que você deve acompanhar na gestão de suas campanhas no Instagram?](https://postgrain.com/?post_type=post&p=12135)
+[Construindo uma marca inabalável: Estratégias para fortalecer sua reputação de marca](https://postgrain.com/?post_type=post&p=12335)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12135)
+[Leia mais](https://postgrain.com/?post_type=post&p=12335)
 
 Ilustração de um dos personagens do Postgrain
 
