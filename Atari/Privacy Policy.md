@@ -62,7 +62,7 @@
         * [Games Blog](https://www.atari.com/blogs/atari)
         
     
-* [Club](https://www.atari.com/pages/club)
+* [Camp](https://www.atari.com/collections/summer-camp)
 * About
     
     About
@@ -76,7 +76,7 @@
         
     
 
-[Sign in](https://www.atari.com/account/login) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
+[Sign in](https://atari.com/customer_identity/redirect?locale=en) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
 * [Twitter](https://www.twitter.com/atari)
 * [Facebook](https://www.facebook.com/atari)
@@ -291,7 +291,7 @@
     
     Enter the Yar-niverse
     
-* [Club](https://www.atari.com/pages/club)
+* [Camp](https://www.atari.com/collections/summer-camp)
 * [About](https://www.atari.com/pages/about)
     
     * ###### Company
@@ -306,7 +306,7 @@
     Since 1972
     
 
- [Log in](https://www.atari.com/account/login)
+ [Log in](https://atari.com/customer_identity/redirect?locale=en)
 
 Bag (0) Cart 0 items
 
@@ -320,6 +320,15 @@ Item added to your cart
 Checkout
 
 Continue shopping
+
+ 
+
+NeoSprint
+=========
+
+The exhilarating Atari racing classic “Sprint” series returns with NeoSprint.
+
+[Play Now](https://www.atari.com/products/neosprint)
 
  
 
@@ -338,33 +347,6 @@ Yars Rising
 New Metroidvania from Atari and WayForward
 
 [Coming Soon](https://www.atari.com/products/yars-rising)
-
- 
-
-RollerCoaster Tycoon 25th Anniversary
-=====================================
-
-This 25th Anniversary collection celebrates Chris Sawyer's genre-defining RollerCoaster Tycoon.
-
-[Shop Now](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)
-
- 
-
-Introducing the Atari 2600+
-===========================
-
-Just dropped: new games and accessories, including the all new CX78+ Gamepad!
-
-[Shop Now](https://www.atari.com/collections/atari-2600-plus)
-
- 
-
-Atari 400 Mini
-==============
-
-Includes 25 8-bit classic games. Act fast, supplies are limited!
-
-[Join Waitlist](https://www.atari.com/collections/atari-400-mini-collection)
 
 [![](files/Atari_VCS.jpg)
 
@@ -395,6 +377,32 @@ Regular price $129.99
 Regular price $129.99 Sale price $129.99
 
 Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
+
+[![Yars' Revenge 2600 Tee](files/ProductImage-C_16.jpg)
+
+Add to cart
+
+ S
+
+ M
+
+ L
+
+ XL
+
+ 2XL
+
+ 3XL
+
+ 4XL
+
+##### Yars' Revenge 2600 Tee
+
+Regular price $30
+
+Regular price Sale price $30.00
+
+Unit price /  per](https://www.atari.com/products/yars-revenge-2600-tee) 
 
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
@@ -574,15 +582,7 @@ Regular price $28
 
 Regular price $28 Sale price $28.00
 
-Unit price /  per 
-
-  
-
-  
-
- Violet
-
- Bay](https://www.atari.com/products/rct-25th-anniversary-retro-pixel-art-tee)
+Unit price /  per](https://www.atari.com/products/rct-25th-anniversary-retro-pixel-art-tee)         
 
 [![RollerCoaster Tycoon x errornogo Disc Tee](files/disc_t_pdp_01.webp)
 
@@ -657,27 +657,32 @@ Comes with a 10-in-1 cartridge so you can dive into your favorite titles right a
 
 Easily connects via HDMI so you can enjoy every last pixel.
 
-NEW RELEASES
-------------
+[![](files/summercamp2024-6.jpg)
 
-[![](files/rct-bg-big-2.webp)
+### ATARI SUMMER CAMP
 
-### RCT 25TH ANNIVERSARY Collection
+An eight week celebration with games, competitions, merch and more.
 
-New merch to celebrate 25 years of the ultimate theme park sim.
+Become a camper](https://www.atari.com/collections/summer-camp)[![](files/neosprint-screens-08.webp)
 
-Shop Now](https://www.atari.com/collections/rollercoaster-tycoon-25th-anniversary)[![](files/1920px_1080px.jpg)
+### NeoSprint: For speed demons and track builders
 
-### Blue Kazoo Puzzles: Asteroids & Missile Command
+NeoSprint zooms back to life as a single screen arcade racer.
 
-Pixels on puzzles: Quite possibly the best jigsaw puzzles In the world!
-
-Shop Now](https://www.atari.com/collections/blue-kazoo-puzzles)
+Play Now](https://www.atari.com/products/neosprint)
 
 FEATURED GAMES
 --------------
 
 [View All](https://www.atari.com/collections/games)
+
+![NeoSprint](files/neosprint-gamebox.webp)
+
+Available on
+
+[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
+
+#### NeoSprint
 
 ![Lunar Lander: Beyond](files/lunarlander-gamebox.webp)
 
@@ -691,17 +696,9 @@ Available on
 
 Available on
 
-[](https://store.steampowered.com/app/2534370/Yars_Rising)[](https://www.nintendo.com/us/store/)[](https://store.playstation.com/concept/10010102)[](https://www.xbox.com/games/store/yars-rising/9nm99mvp8qt9)[](https://store.epicgames.com/p/yars-rising-e591ca)[](https://atari.com/pages/atari-vcs)
+[](https://store.steampowered.com/app/2534370/Yars_Rising)[](https://www.nintendo.com/us/store/products/yars-rising-switch/)[](https://store.playstation.com/concept/10010102)[](https://www.xbox.com/games/store/yars-rising/9nm99mvp8qt9)[](https://store.epicgames.com/p/yars-rising-e591ca)[](https://atari.com/pages/atari-vcs)
 
 #### Yars Rising
-
-![NeoSprint](files/neosprint-gamebox.webp)
-
-Available on
-
-[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
-
-#### NeoSprint
 
 ![qomp2](files/qomp2-gamebox_3fd896cb-aafc-4cd6-8098-251d40438d36.webp)
 
@@ -726,14 +723,6 @@ Available on
 [](https://store.steampowered.com/app/1942330/Haunted_House)[](https://www.nintendo.com/us/store/products/haunted-house-switch/)[](https://www.xbox.com/en-us/games/store/haunted-house/9npl1wsclwq5)[](https://store.playstation.com/concept/10005049)[](https://atari.com/pages/atari-vcs)[](https://store.epicgames.com/en-US/p/haunted-house-c5a71b)
 
 #### Haunted House
-
-![NeoSprint](files/neosprint-gamebox.webp)
-
-Available on
-
-[](https://atari.com/pages/atari-vcs)[](https://store.playstation.com/concept/10008586?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.xbox.com/games/store/neosprint/9NLK47RJWKP7?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://store.steampowered.com/app/2217910/NeoSprint?utm_source=Klaviyo&utm_medium=email&utm_campaign=NeoSprint+Announce&utm_id=01HTD5A5Q4NYH6KYVVSJJ18ZHT&_kx=)[](https://www.nintendo.com/store/products/neosprint-switch/)
-
-#### NeoSprint
 
 ![Atari 50: the Anniversary Celebration](products/gamebox-atari50-celebration.webp)
 
@@ -767,19 +756,23 @@ Acquisitions 04.02.2024
 
 Read More](https://www.atari.com/blogs/newsroom/atari-acquires-rollercoaster-tycoon-3)
 
- 
-
-### Get 15% off your first order
-
-Sign up for our mailing list to be the first to hear about new games, limited releases, and special offers.
-
-  
-
   
 
 ##### Anything Else ?
 
-[![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
+[![CX40+ Joystick](files/ProductImage-A_1_e56ae0f0-3526-4f45-b93a-df2994106fa2.jpg)
+
+![CX40+ Joystick](files/ProductImage-BV2.jpg)
+
+Available Worldwide
+
+##### CX40+ Joystick
+
+Regular price $24.99
+
+Regular price Sale price $24.99
+
+Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
 
