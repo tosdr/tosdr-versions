@@ -17,7 +17,7 @@ Sluit menu
 * [Slim leven](https://www.nrc.nl/index/slim-leven/)
 * [In Beeld](https://www.nrc.nl/index/inbeeld/)
 * [Carrière](https://www.nrc.nl/index/carriere/)
-* [Klimaat](https://www.nrc.nl/index/klimaat/)
+* [Klimaat](https://www.nrc.nl/onderwerp/klimaatverandering/)
 * [Recht](https://www.nrc.nl/index/recht/)
 * [Podcast](https://www.nrc.nl/index/podcast/)
 * [Archief](https://www.nrc.nl/index/archief/)
@@ -48,7 +48,7 @@ Sluit menu
 
 Menu [NRC](https://www.nrc.nl/)
 
-[Abonneren](https://abonnementen.nrc.nl/nrc-nl/step/1/?utm_intern=menu-button) [Mijn nieuws](https://www.nrc.nl/mijn-nrc/nieuws/) [Podcasts](https://www.nrc.nl/index/podcast/) [Digitale krant](https://www.nrc.nl/de/) [Puzzels](https://www.nrc.nl/puzzels/)
+[Abonneren](https://abonnementen.nrc.nl/) [Mijn nieuws](https://www.nrc.nl/mijn-nrc/nieuws/) [Podcasts](https://www.nrc.nl/index/podcast/) [Digitale krant](https://www.nrc.nl/de/) [Puzzels](https://www.nrc.nl/puzzels/)
 
 Mijn NRC Terug
 
@@ -74,7 +74,7 @@ Service
 
 [Terug naar de krant](https://www.nrc.nl/de/) Lijst
 
-Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fleveringsvoorwaarden%2F%3Ft%3D1718913566)
+Al abonnee? [Inloggen](https://www.nrc.nl/login/?return_to=%2Fleveringsvoorwaarden%2F%3Ft%3D1721420050)
 
 N.B. Het kan zijn dat elementen ontbreken aan deze printversie.
 
@@ -339,7 +339,7 @@ Toevoegen aan
 * [Adverteren](https://adverteren.nrc.nl/)
 
 * [Mijn NRC](https://www.nrc.nl/mijn-nrc/)
-* [Neem een abonnement](https://abonnementen.nrc.nl/?utm_intern=nrc-web-footer)
+* [Neem een abonnement](https://abonnementen.nrc.nl/)
 * [Inloggen](https://www.nrc.nl/login/)
 * [Account aanmaken](https://login.nrc.nl/create?service=https://www.nrc.nl/login/)
 * [Digitale krant](https://www.nrc.nl/de/)
@@ -347,6 +347,7 @@ Toevoegen aan
 * [Mijn abonnementen](https://login.nrc.nl/login?service=https://service.nrc.nl/index.php%3Fmodule%3Dabonnement)
 * [Service & bezorging](https://service.nrc.nl/)
 * [Nieuwsbrieven](https://www.nrc.nl/nieuwsbrieven/)
+* [Privacyvoorkeuren](#modal=consent-preferences)
 
 * [Contact](https://www.nrc.nl/contact/ "Contact met de redactie")
 * [Redactie](https://www.nrc.nl/contact/ "Contact met de redactie")
