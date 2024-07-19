@@ -1,4 +1,4 @@
-![loading data icon](//cdn.boarddocs.com/static/images/ajax/ajax-loader.gif)
+loading![loading data icon](//cdn.boarddocs.com/static/images/ajax/ajax-loader.gif)
 
 ![loading boarddocs](//cdn.boarddocs.com/static/logos/BoardDocs_DIL_logo.png)
 
