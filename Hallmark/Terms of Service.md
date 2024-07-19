@@ -57,6 +57,105 @@ We found suggestions
 
   [![Hallmark logo](https://www.hallmark.com/on/demandware.static/-/Sites-hmk-onesite-Library/default/dw13b1a67d/images/icons/logo-desktop.svg)](https://www.hallmark.com/ "Home page")
 
+* Ornaments
+    
+    [View all Ornaments](https://www.hallmark.com/ornaments/)
+    
+    [View all Ornaments](https://www.hallmark.com/ornaments/)
+    
+    [Ornament Central](#)
+    ---------------------
+    
+    [View all Ornament Central](#)
+    
+    [Ornament Premiere](https://www.hallmark.com/keepsake-ornament-events/ornament-premiere/)
+    
+    [2024 Dream Book](https://www.hallmark.com/digital-dream-book/)
+    
+    [About Keepsakes](https://www.hallmark.com/about-keepsake-ornaments/)
+    
+    [Keepsake Ornament Club](https://www.hallmark.com/ornaments/keepsake-ornament-club)
+    
+    [Ornament Events](https://www.hallmark.com/keepsake-ornament-events/)
+    
+    [Collection](#)
+    ---------------
+    
+    [View all Collection](#)
+    
+    [Keepsake Ornaments](https://www.hallmark.com/ornaments/keepsake-ornaments/)
+    
+    [Personalized Ornaments](https://www.hallmark.com/ornaments/personalized-ornaments/)
+    
+    [Hallmark Ornaments](https://www.hallmark.com/ornaments/hallmark-ornaments/)
+    
+    [Specialty Ornaments](https://www.hallmark.com/ornaments/specialty-ornaments/)
+    
+    [Archives](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=collections&prefv1=Keepsake+Archives#productgrid)
+    
+    [Feature](#)
+    ------------
+    
+    [View all Feature](#)
+    
+    [Lights](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Lights#productgrid)
+    
+    [Magic](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Magic#productgrid)
+    
+    [Miniature](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Miniature#productgrid)
+    
+    [Motion](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Motion-Activated%7CMotion#productgrid)
+    
+    [Plays Song/Sound](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Plays+Song%2FSound#productgrid)
+    
+    [Storytellers](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Storytellers#productgrid)
+    
+    [Tabletops & Tree Decor](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Tabletops+%26+Tree+Decor#productgrid)
+    
+    [Year Dated](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Year+Dated#productgrid)
+    
+    [Theme](#)
+    ----------
+    
+    [View all Theme](#)
+    
+    [Childhood Favorites](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Childhood+Favorites#productgrid)
+    
+    [Family](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Family#productgrid)
+    
+    [Gaming](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Gaming#productgrid)
+    
+    [Hobbies & Interests](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Hobbies+%26+Interests#productgrid)
+    
+    [Movies & TV](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Movies%7CTV+Shows#productgrid)
+    
+    [Santa Claus](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Santa+Claus#productgrid)
+    
+    [Sci-Fi](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Sci-Fi#productgrid)
+    
+    [Snowmen](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Snowmen#productgrid)
+    
+    [Pop Culture](#)
+    ----------------
+    
+    [View all Pop Culture](#)
+    
+    [Barbie](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Barbie#productgrid)
+    
+    [Disney](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Disney#productgrid)
+    
+    [Harry Potter™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Harry+Potter)
+    
+    [Marvel](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Marvel#productgrid)
+    
+    [Nintendo](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Nintendo)
+    
+    [Peanuts®](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Peanuts#productgrid)
+    
+    [Star Wars™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Star+Wars#productgrid)
+    
+    [The Haunted Mansion](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=The+Haunted+Mansion#productgrid)
+    
 * Occasions
     
     [View all Occasions](https://www.hallmark.com/occasions/)
@@ -86,8 +185,6 @@ We found suggestions
     -----------------
     
     [View all Celebrations](#)
-    
-    [Pride Month (6/1-6/30)](https://www.hallmark.com/lgbtqia/)
     
     [Anniversary](https://www.hallmark.com/anniversary/)
     
@@ -280,6 +377,19 @@ We found suggestions
     
     [Wedding](https://www.hallmark.com/wedding/wedding-gifts/)
     
+    [Holiday Gifts](#)
+    ------------------
+    
+    [View all Holiday Gifts](#)
+    
+    [Keepsakes Better Together Gnaughty & Gnice](https://www.hallmark.com/stuffed-animals/classic-stuffed-animals/keepsakes-better-together-gnaughty-and-gnice-magnetic-plush-1KCX1099.html?q=1KCX1099)
+    
+    [Playful Penguins Plush and Accessories](https://www.hallmark.com/stuffed-animals/interactive-stuffed-animals/playful-penguins-all-decked-out-musical-plush-penguin-with-light-and-motion-1KCX1100.html?q=1KCX1100)
+    
+    [Wrapped in Joy Singing Snowman Plush](https://www.hallmark.com/stuffed-animals/interactive-stuffed-animals/wrapped-in-joy-singing-snowman-plush-with-motion-10-1KCX2004.html?q=1KCX2004)
+    
+    [Dr. Seuss™ Grinch Gifts](https://www.hallmark.com/dr-seuss/)
+    
     [Category](#)
     -------------
     
@@ -292,6 +402,8 @@ We found suggestions
     [Baby & Kids](https://www.hallmark.com/baby-and-kids/)
     
     [Books](https://www.hallmark.com/lifestyle/books/)
+    
+    [Candles](https://www.hallmark.com/house-and-home/candles/)
     
     [Figurines](https://www.hallmark.com/house-and-home/figurines/)
     
@@ -346,122 +458,6 @@ We found suggestions
     [Vera Bradley](https://www.hallmark.com/vera-bradley/)
     
     [Willow Tree](https://www.hallmark.com/willow-tree/)
-    
-    [Recipient](#)
-    --------------
-    
-    [View all Recipient](#)
-    
-    [Gifts for Her](https://www.hallmark.com/gifts-for-her/)
-    
-    [Gifts for Him](https://www.hallmark.com/gifts-for-him/)
-    
-    [Gifts for Couple](https://www.hallmark.com/gifts-for-couple/)
-    
-    [Gifts for Baby](https://www.hallmark.com/baby-and-kids/?prefn1=recipient&prefv1=For+Baby)
-    
-    [Gifts for Kids](https://www.hallmark.com/baby-and-kids/?prefn1=recipient&prefv1=For+Kids)
-    
-    [Gifts for Grandparents](https://www.hallmark.com/grandparents-day/grandparents-day-gifts/)
-    
-    [Gifts for LGBTQ+](https://www.hallmark.com/lgbtqia/?prefn1=classificationCategory&prefv1=Gifts)
-    
-* Ornaments
-    
-    [View all Ornaments](https://www.hallmark.com/ornaments/)
-    
-    [View all Ornaments](https://www.hallmark.com/ornaments/)
-    
-    [Ornament Central](#)
-    ---------------------
-    
-    [View all Ornament Central](#)
-    
-    [2024 Dream Book](https://www.hallmark.com/digital-dream-book/)
-    
-    [About Keepsakes](https://www.hallmark.com/about-keepsake-ornaments/)
-    
-    [Keepsake Ornament Club](https://www.hallmark.com/ornaments/keepsake-ornament-club)
-    
-    [Ornament Events](https://www.hallmark.com/keepsake-ornament-events/)
-    
-    [Collection](#)
-    ---------------
-    
-    [View all Collection](#)
-    
-    [Keepsake Ornaments](https://www.hallmark.com/ornaments/keepsake-ornaments/)
-    
-    [Personalized Ornaments](https://www.hallmark.com/ornaments/personalized-ornaments/)
-    
-    [Hallmark Ornaments](https://www.hallmark.com/ornaments/hallmark-ornaments/)
-    
-    [Specialty Ornaments](https://www.hallmark.com/ornaments/specialty-ornaments/)
-    
-    [Archives](https://www.hallmark.com/ornaments/?prefn1=collections&prefv1=Keepsake+Archives#productgrid)
-    
-    [Feature](#)
-    ------------
-    
-    [View all Feature](#)
-    
-    [Lights](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Lights#productgrid)
-    
-    [Magic](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Magic#productgrid)
-    
-    [Miniature](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Miniature#productgrid)
-    
-    [Motion](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Motion-Activated%7CMotion#productgrid)
-    
-    [Plays Song/Sound](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Plays+Song%2FSound#productgrid)
-    
-    [Storytellers](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Storytellers#productgrid)
-    
-    [Tabletops & Tree Decor](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Tabletops+%26+Tree+Decor#productgrid)
-    
-    [Year Dated](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=feature&prefv1=Year+Dated#productgrid)
-    
-    [Theme](#)
-    ----------
-    
-    [View all Theme](#)
-    
-    [Childhood Favorites](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Childhood+Favorites#productgrid)
-    
-    [Family](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Family#productgrid)
-    
-    [Gaming](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Gaming#productgrid)
-    
-    [Hobbies & Interests](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Hobbies+%26+Interests#productgrid)
-    
-    [Movies & TV](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Movies%7CTV+Shows#productgrid)
-    
-    [Santa Claus](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Santa+Claus#productgrid)
-    
-    [Sci-Fi](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Sci-Fi#productgrid)
-    
-    [Snowmen](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=theme&prefv1=Snowmen#productgrid)
-    
-    [Pop Culture](#)
-    ----------------
-    
-    [View all Pop Culture](#)
-    
-    [Barbie](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=characters&prefv1=Barbie#productgrid)
-    
-    [Disney](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Disney#productgrid)
-    
-    [Harry Potter™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Harry+Potter#productgrid)
-    
-    [Marvel](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Marvel#productgrid)
-    
-    [Nintendo](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Nintendo#productgrid)
-    
-    [Peanuts®](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Peanuts#productgrid)
-    
-    [Star Wars™](https://www.hallmark.com/ornaments/?prefn1=characters&prefv1=Star+Wars#productgrid)
-    
-    [The Haunted Mansion](https://www.hallmark.com/ornaments/keepsake-ornaments/?prefn1=characters&prefv1=The+Haunted+Mansion#productgrid)
     
 * Gift Wrap
     
@@ -652,7 +648,7 @@ We found suggestions
     [Contact Us](https://care.hallmark.com/)
     
 
-Buy two, get one free Hallmark Celebrate! [Shop party supplies](https://www.hallmark.com/party-supplies/?prefn1=collections&prefv1=Hallmark+Celebrate%21&icid=glbl_rib_061724_bogo-hallmarkcelebrate#productgrid)
+Ornament Premiere ends Sunday [Shop now](https://www.hallmark.com/keepsake-ornament-events/ornament-premiere/?icid=glbl_rib_071824_op-urgency)
 
 Hallmark Terms of Use
 ---------------------
@@ -996,12 +992,12 @@ Be There.
 
   However.  Whenever.  Forever.
 
-Customer Care Customer Care
+Consumer Care Consumer Care
 ---------------------------
 
 * [Contact us](https://care.hallmark.com/s/)
 * [Store locator](https://www.hallmark.com/stores/)
-* [Gift cards](https://www.hallmark.com/gift-cards/)
+* [Gift cards](https://www.hallmark.com/gift-cards)
 
 Memberships Memberships & Services
 ----------------------------------
@@ -1014,7 +1010,7 @@ Order Information Order Information
 
 * [Order status](https://www.hallmark.com/order-history/)
 * [Shipping & delivery](https://www.hallmark.com/shipping-and-delivery/)
-* [Returns](https://www.hallmark.com/return-policy/)
+* [Returns](https://www.hallmark.com/return-policy)
 
 About Hallmark About Hallmark
 -----------------------------
@@ -1023,8 +1019,7 @@ About Hallmark About Hallmark
 * [Careers](https://careers.hallmark.com/?utm_source=careersite)
 * [Hallmark Channel](https://www.hallmarkchannel.com/)
 * [Hallmark Movies Now](https://www.hmnow.com/)
-* [Hallmark Christmas Experience](https://experiencehallmarkchristmas.com/)
-* [More from Hallmark](https://www.hallmark.com/more-from-hallmark/)
+* [More from Hallmark](https://www.hallmark.com/more-from-hallmark)
 
 Connect with us
 ---------------
