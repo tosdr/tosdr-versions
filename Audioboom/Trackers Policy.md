@@ -5,10 +5,10 @@
 * [Podcasts](https://audioboom.com/podcasts)
 * [Advertisers](https://audioboom.com/advertisers)
 * [Creators](https://audioboom.com/hosting)
-* [Help & Support](https://audioboom.com/support)
+* [Help & support](https://audioboom.com/support)
 
-* [Sign Up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
-* [Sign In](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
+* [Sign up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
+* [Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
 * 
 
 [](#)
@@ -21,15 +21,15 @@
 
 [Creators](https://audioboom.com/hosting)
 
-[Help & Support](https://audioboom.com/support)
+[Help & support](https://audioboom.com/support)
 
 Search podcasts
 
-[Sign Up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
+[Sign up](https://audioboom.com/signup?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
 
-[Sign In](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
+[Sign in](https://audioboom.com/login?redirect=https%3A%2F%2Faudioboom.com%2Fabout%2Fcookies)
 
-Cookie Policy
+Cookie policy
 =============
 
 Introduction
