@@ -1,6 +1,6 @@
 If you're seeing this message, it means we're having trouble loading external resources on our website.
 
-If you're behind a web filter, please make sure that the domains **\*.kastatic.org** and **\*.kasandbox.org** are unblocked.
+If you're behind a web filter, please make sure that the domains \*.kastatic.org and \*.kasandbox.org are unblocked.
 
 To log in and use all the features of Khan Academy, please enable JavaScript in your browser.
 
