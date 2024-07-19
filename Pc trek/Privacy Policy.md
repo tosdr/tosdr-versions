@@ -40,6 +40,8 @@ We collect the following types of information from site visitors:
 
 ###### USAGE OF COLLECTED DATA
 
+Any information collected is anonymous. We do not sell or otherwise market this information to third parties. We may from time to time share with advertisers non-personally identifiable information for them to improve the performance of their products. We may share information if required to:
+
 * (1) comply with law, regulation, subpoena or court order;
     
 * (2) detect, prevent or otherwise address fraud, security or technical issues;
