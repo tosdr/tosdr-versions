@@ -8,8 +8,8 @@
 
 [Login](https://gamcore.com/login) [Register](https://gamcore.com/register)
 
-* [Sex Games](https://gamcore.com/fuckyou/636)
-* [Sex Simulator](https://gamcore.com/fuckyou/637)
+* [Sex Games](https://gamcore.com/fuckyou/670)
+* [Sex Simulator](https://gamcore.com/fuckyou/671)
 * [Cartoon Porn](https://porcore.com/)
 * [Favourites](https://gamcore.com/favourites)
 * [History](https://gamcore.com/history)
@@ -224,10 +224,6 @@ Terms and Conditions
   
   
 [Adults Forum](https://forum.69games.xxx/) or [Specific Gamcore forum](https://forum.69games.xxx/gamcore/)
-
-> [View this post on Instagram](https://www.instagram.com/p/C65-G6BIXR6/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Screenshots from Gamcore (@gamcore.screenshots)](https://www.instagram.com/p/C65-G6BIXR6/?utm_source=ig_embed&utm_campaign=loading)
 
 Sponsored
 
