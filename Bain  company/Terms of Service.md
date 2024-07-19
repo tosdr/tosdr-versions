@@ -312,9 +312,9 @@
     * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
     * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
     
+    * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
     * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
     * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
-    * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
     * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
     * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
     
@@ -696,9 +696,9 @@
         * [The Talent Imperative](https://www.bain.com/insights/topics/ceo-agenda/talent/)
         * [Macro Trends](https://www.bain.com/insights/topics/macro-trends/)
         
+        * [Midyear M&A Report](https://www.bain.com/insights/m-and-a-midyear-report-2024-dealmakers-mine-multiple-sources-of-value/)
         * [Machinery & Equipment Report](https://www.bain.com/insights/topics/global-machinery-equipment-report/)
         * [Midyear Private Equity Report](https://www.bain.com/insights/private-equity-midyear-report-2024/)
-        * [M&A Report](https://www.bain.com/insights/topics/m-and-a-report/)
         * [Healthcare Private Equity Report](https://www.bain.com/insights/topics/global-healthcare-private-equity-report/)
         * [CEO's Guide to Sustainability](https://www.bain.com/insights/topics/ceo-sustainability-guide/)
         
@@ -843,6 +843,10 @@ The Site may contain additional proprietary notices and copyright information, t
 * [Entire agreement](#)
     
     These Terms and Conditions constitute the entire agreement between you and Bain with respect to the subject matter of these Terms and Conditions and supersedes and replaces all prior or contemporaneous understandings or agreements, written or oral, regarding that subject matter. Any waiver of any provision of these Terms and Conditions shall be effective only if in writing and signed by Bain. Any failure to enforce any provision of these Terms and Conditions shall not constitute a waiver of a future breach of that or any other provision of these Terms and Conditions.
+    
+* [UK Gender Pay Gap](#)
+    
+    [Read Bain & Company, Inc.'s Gender Pay Gap statement.](https://www.bain.com/about/gender-pay-gap/ "Gender Pay Gap")
     
 
 ### Ready to talk?
