@@ -35,7 +35,7 @@ Search
 
 * [International students](https://www.internationalstudents.cam.ac.uk/?ucam-ref=global-header)
 * [Continuing education](https://www.ice.cam.ac.uk/?ucam-ref=global-header)
-* [Executive and professional education](https://www.cam.ac.uk/study-at-cambridge/executive-and-professional-education?ucam-ref=global-header&ucam-ref=global-header)
+* [Executive and professional education](https://www.cam.ac.uk/study-at-cambridge/executive-and-professional-education?ucam-ref=global-header)
 * [Courses in education](https://www.educ.cam.ac.uk/?ucam-ref=global-header)
 
 * [About the University](https://www.cam.ac.uk/about-the-university)
