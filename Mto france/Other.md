@@ -46,7 +46,7 @@ PUBLIC - Menu principal
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/ "DRIAS, les futurs de l'eau")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
-        * [Climadiag Chaleur en ville](https://services.meteofrance.com/changement-climatique/ilot-de-chaleur-urbain)
+        * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
         * [Climat HD](https://meteofrance.com/climathd "Climat HD")
     * [Comprendre le climat](https://meteofrance.com/comprendre-climat "Comprendre le climat")
@@ -118,7 +118,7 @@ PUBLIC - Menu burger
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/)
         * [Climadiag Commune](https://meteofrance.com/climadiag-commune "Climadiag Commune")
-        * [Climadiag Chaleur en ville](https://services.meteofrance.com/changement-climatique/ilot-de-chaleur-urbain)
+        * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
         * [Climat HD](https://meteofrance.com/climathd "Climat HD")
     * [Comprendre le Climat](https://meteofrance.com/comprendre-climat "Comprendre le Climat")
@@ -202,7 +202,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-20/06/2024
+19/07/2024
 
 Décharge de responsabilité
 --------------------------
@@ -250,8 +250,6 @@ Météo-France se réserve cependant le droit de
 * Modifier ou de corriger le contenu de ce site à tout moment et sans préavis.
 
 Tous les droits qui ne sont pas expressément concédés aux termes des présentes sont réservés par Météo-France. 
-
-[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
 
 Top 20 des villes les plus consultées
 
