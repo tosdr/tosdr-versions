@@ -180,7 +180,7 @@ Save Cancel
 * [ ]  Sustainability
     * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
 * [ ]  EXPERIENCES
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=23b5bf4d-69bf-4d20-8113-68866f542ba7)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=e49d5ce7-60fd-4a02-83a5-b9bbcc056dba)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar)
@@ -225,8 +225,6 @@ Save Cancel
 * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
 * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
 * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
-
- Sale
 
 *  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
 * [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
@@ -343,7 +341,7 @@ Save Cancel
     
     * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
     
-* [EXPERIENCES](https://experience.fjallraven.com/us/en-us?id=23b5bf4d-69bf-4d20-8113-68866f542ba7)
+* [EXPERIENCES](https://experience.fjallraven.com/us/en-us?id=e49d5ce7-60fd-4a02-83a5-b9bbcc056dba)
     
     * [Foxtrail](https://foxtrail.fjallraven.com/) [Classic](https://classic.fjallraven.com/) [Polar](https://experience.fjallraven.com/polar) [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
     
@@ -397,8 +395,6 @@ Main Content Starts Here
 * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
 * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
 * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
-
- Sale
 
 **FJÄLLRÄVEN** **RETAIL USA**
 
@@ -549,7 +545,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=23b5bf4d-69bf-4d20-8113-68866f542ba7)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=e49d5ce7-60fd-4a02-83a5-b9bbcc056dba)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * [Do Not Sell or Share My Personal Information](#)
