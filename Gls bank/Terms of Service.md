@@ -460,11 +460,11 @@ _BIC:_ GENODEM1GLS
 
 [**GLS Bank-Blog**
 
-Geschichten, Menschen, Ideen](https://blog.gls.de/ "GLS Bank-Blog")
+Geschichten, Menschen, Ideen](https://blog.gls.de/%20_blank%20-%20%22GLS%20Bank%20Blog%22 "GLS Bank-Blog")
 
 [**GLS Treuhand e. V.**
 
-Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Bank-Blog")
+Schenken, Stiften und Vererben](https://www.gls-treuhand.de/%20-%20-%20%22GLS%20Treuhand%20e.V.%22 "GLS Bank-Blog")
 
 [**GLS Bank Stiftung**
 
@@ -472,7 +472,7 @@ Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS B
 
 [**GLS Mobility GmbH**
 
-Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Bank-Blog")
+Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/%20_blank%20-%20%22GLS%20Mobility%22 "GLS Bank-Blog")
 
 [**GLS Crowdfunding GmbH**
 
