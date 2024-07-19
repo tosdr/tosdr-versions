@@ -18,7 +18,7 @@
 
 [Log in](https://www.fitatu.com/app/login)
 
-![flag](/_nuxt/img/en.c5ad5c1.png) DeutschEnglishEspañolFrançaisItalianoNederlandsPolski
+![flag](/img/flags/en.png)DeutschEnglishEspañolFrançaisItalianoNederlandsPolski
 
 [](https://www.fitatu.com/app/order-and-payment)
 
@@ -57,7 +57,7 @@ I. Basic information. Who, what and how
     5. Collecting training activity data based on data entered by the User or downloaded from other programmes or devices connected to the Application.
 3. Fitatu's business also consists in providing the paid service described in Section VII (**“Paid Service”** or **“Paid Services”**) by making it available electronically.
 4. The Free Services and the Paid Services will be referred to collectively as the **“Services”**.
-5. These Rules set out the rules for the provision of the Services by Fitatu to you, the user (**“User”** or **“Users”**). By using the Application, you accept the terms of use set out below, also referred to as the **“Rules”**, as well as [Privacy Policy.](https://www.fitatu.com/en_GB/privacy-policy)
+5. These Rules set out the rules for the provision of the Services by Fitatu to you, the user (**“User”** or **“Users”**). By using the Application, you accept the terms of use set out below, also referred to as the **“Rules”**, as well as [Privacy Policy.](https://www.fitatu.com/privacy-policy)
 
 Scroll to top
 
@@ -78,7 +78,7 @@ Within these Rules, we use certain (capitalized) terms to which we give a specif
 10. **ACCOUNT:** a set of resources in Fitatu's ICT system designated with a unique name (login) and password assigned to the User, in which the User's data is collected, in particular information on available Services and Subscriptions, the creation of which requires the User to fill in a relevant registration form on the Website or in the Application.
 11. **CONSUMER or USER:** a natural person, who are at least 16 years of age, with full legal capacity or, in cases provided for by law, with limited capacity to act, as referred to in Article 22(1) of the Act of 23 April 1964 on the Civil Code, and an entrepreneur within the meaning of Article 385(5) of the Civil Code, who concludes a Contract without direct connection to their business or professional activity.
 12. **MATERIALS** any data or information generated or provided (photos, recipes, descriptions, opinions, comments, audio files, etc.) by the User as part of the use of the Platforms, in particular opinions and comments.
-13. **PRIVACY POLICY** is a document in which we explain what personal data of Users we collect and process for the purpose of providing a comfortable service and under what conditions this data is processed and used by us. In addition, the document sets out the rules for the collection and processing of so-called [cookies](https://www.fitatu.com/en_GB/cookies-policy).
+13. **PRIVACY POLICY** is a document in which we explain what personal data of Users we collect and process for the purpose of providing a comfortable service and under what conditions this data is processed and used by us. In addition, the document sets out the rules for the collection and processing of so-called [cookies](https://www.fitatu.com/cookies-policy).
 14. **REGISTRATION** is the procedure for setting up an Account in the Application.
 15. **DIGITAL CONTENT** is data produced and delivered in digital form.
 16. **DIGITAL SERVICE** is a service that allows:
@@ -250,7 +250,7 @@ X. Privacy and Confidentiality
 
 1. By using the Services, the User acknowledges that the basis for the processing of his/her personal data is the performance of the concluded contract for the provision of electronic services or taking action at the request of the User prior to its conclusion, in accordance with the provisions of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons in relation to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC (General Data Protection Regulation, referred to in the Polish implementation as RODO), the act of 10 May 2018 on the protection of personal data and other relevant data protection legislation.
 2. The controller of the personal data is Fitatu.
-3. The detailed data protection rules for Users of our Platforms are provided for in the [Privacy Policy.](https://www.fitatu.com/en_GB/privacy-policy)
+3. The detailed data protection rules for Users of our Platforms are provided for in the [Privacy Policy.](https://www.fitatu.com/privacy-policy)
 
 Scroll to top
 
@@ -410,6 +410,7 @@ Annexes
 * [Privacy policy](https://www.fitatu.com/en/privacy-policy)
 * [Cookie policy](https://www.fitatu.com/en/cookies-policy)
 * [Contact](https://www.fitatu.com/en/contact)
+* Manage cookies
 
 [](https://www.facebook.com/FitatuUK)
 
@@ -423,8 +424,8 @@ Annexes
 
 © Fitatu 2024. All rights reserved
 
-![](/_nuxt/img/en_GB.f827643.jpg)
+![](/img/footer/intelligent/en_GB.jpg)
 
 Donations for innovations
 
-![](/_nuxt/img/en_GB.cfd06ba.jpg)
+![](/img/footer/regional/en_GB.jpg)
