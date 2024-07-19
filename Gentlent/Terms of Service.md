@@ -2,7 +2,8 @@
 
 [Blog](https://www.gentlent.com/blog)[Products](https://www.gentlent.com/_sites/g-website/policies/terms#) 
 
-Products[Dynamic DNS  
+Products[Domains  
+Domains are like the phone book of the internet. Each website, email server, and digital service has an IP (Internet Protocol) address assigned to it. Because it's difficult for visitors to remember these numerical IP addresses, domain names like "yourname.xyz" were created and can since be registered.](https://www.gentlent.com/domains)[Dynamic DNS  
 Dynamic DNS allows you to access your home network from anywhere in the world. We connect a subdomain to your synced home IP.](https://www.gentlent.com/dynamic-dns)[Gentlent SafeSurf  
 SafeSurf shows you security indicators in the omnibar for post-EV safer surfing.](https://www.gentlent.com/safesurf)[Coming soon  
 Coming soon](https://www.gentlent.com/)
@@ -227,11 +228,11 @@ Get in touch today.
 
 #### Products
 
-[Pricing Soon](https://www.gentlent.com/_sites/g-website/policies/terms#)[Dynamic DNS](https://www.gentlent.com/dynamic-dns)[Gentlent for Resellers](https://resellers.gentlent.com/)[Gentlent SafeSurf](https://www.gentlent.com/safesurf)[Yourname.xyz](https://www.yourname.xyz/)[GL-IX](https://www.glix.net/)
+[Pricing Soon](https://www.gentlent.com/_sites/g-website/policies/terms#)[Domains](https://www.gentlent.com/domains)[Dynamic DNS](https://www.gentlent.com/dynamic-dns)[Gentlent for Resellers](https://resellers.gentlent.com/)[Gentlent SafeSurf](https://www.gentlent.com/safesurf)[Yourname.xyz](https://www.yourname.xyz/)[GL-IX](https://www.glix.net/)
 
 #### Products
 
-[Pricing Soon](https://www.gentlent.com/_sites/g-website/policies/terms#)[Dynamic DNS](https://www.gentlent.com/dynamic-dns)[Gentlent for Resellers](https://resellers.gentlent.com/)[Gentlent SafeSurf](https://www.gentlent.com/safesurf)[Yourname.xyz](https://www.yourname.xyz/)[GL-IX](https://www.glix.net/)
+[Pricing Soon](https://www.gentlent.com/_sites/g-website/policies/terms#)[Domains](https://www.gentlent.com/domains)[Dynamic DNS](https://www.gentlent.com/dynamic-dns)[Gentlent for Resellers](https://resellers.gentlent.com/)[Gentlent SafeSurf](https://www.gentlent.com/safesurf)[Yourname.xyz](https://www.yourname.xyz/)[GL-IX](https://www.glix.net/)
 
 #### Resources
 
