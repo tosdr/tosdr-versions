@@ -1,6 +1,6 @@
 [Skip navigation](#skip-nav)
 
-[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-pride.svg)](https://www.bmo.com/en-ca/main/personal/)
+[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg)](https://www.bmo.com/en-ca/main/personal/)
 
 ![](/dist/icons/lock-blue.svg)![](/dist/icons/close-blue.svg)closeSign In![](/dist/icons/chevron-down-blue.svg)
 
@@ -179,7 +179,7 @@ ENEnglish
         * [Variable or Fixed Rate Calculator](https://www.bmo.com/main/personal/mortgages/mortgage-rates/compare/?icid=tl-FEAT2953BRND4-AJBMOH389)
         * [Mortgage Pre-Payment Calculator](https://www.bmo.com/main/personal/mortgages/calculators/prepayment-calculator/?icid=tl-FEAT2953BRND4-AJBMOH387)
         * [Homeowner ReadiLine® Calculator](https://www.bmo.com/main/personal/mortgages/calculators/homeowner-readiline-calculator/)
-        * [Mortgage Renewal Calculator](https://bmomortgagerenewalcalculator.paralucent.com/en)
+        * [Mortgage Renewal Calculator](https://bmomortgagerenewalcalculator.paralucent.com/en?ecid=dw-DMDBAU3266MTG5-GFBMO26)
         
     * Tips and Advice
         
@@ -341,6 +341,7 @@ ENEnglish
         * [Bank Accounts](https://www.bmo.com/main/personal/bank-accounts/newcomers-banking/?icid=tl-FEAT2953BRND4-AJBMOH242)
         * [Permanent Resident or Foreign Worker](https://www.bmo.com/main/personal/newcomers-to-canada/foreign-worker-permanent-resident/?icid=tl-FEAT2953BRND4-AJBMOH244)
         * [Credit Cards](https://www.bmo.com/main/personal/credit-cards/newcomers-to-canada/?icid=tl-FEAT2953BRND4-AJBMOH243)
+        * [International Students](https://www.bmo.com/main/personal/newcomers-to-canada/international-students-in-canada/?icid=tl-FEAT2953BRND4-AJBMOH251)
         * [Talent Program](https://jobs.bmo.com/ca/en/leadpage?formId=eum5lam9l4m33l46mld8kuvc4h&eventScheduleId=6298f11352faff0007122c55&icid=tl-FEAT2953BRND4-AJBMOH245)
         * [Newcomer mortgage options](https://www.bmo.com/en-ca/main/personal/mortgages/newcomers-to-canada/)
         
@@ -441,7 +442,7 @@ ENEnglish
 * [简体中文](https://www.bmo.com/chinese/)
 * [繁體中文](https://www.bmo.com/chinese/)
 
-[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-pride.svg)](https://www.bmo.com/en-ca/main/personal/)
+[![Bank of Montreal logo](https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg)](https://www.bmo.com/en-ca/main/personal/)
 
 * Bank Accounts
     
@@ -549,7 +550,7 @@ ENEnglish
         * [![](/dist/icons/house-speedometer-plus.svg)Variable or Fixed Rate CalculatorStart comparing your mortgage payments](https://www.bmo.com/main/personal/mortgages/mortgage-rates/compare/?icid=tl-FEAT2953BRND4-AJBMOH389)
         * [![](/dist/icons/house-money-bag-plus.svg)Mortgage Pre-Payment CalculatorEstimate your pre-payment charge](https://www.bmo.com/main/personal/mortgages/calculators/prepayment-calculator/?icid=tl-FEAT2953BRND4-AJBMOH387)
         * [![](/dist/icons/readiLine-calculator.svg)Homeowner ReadiLine® CalculatorExplore a flexible borrowing option](https://www.bmo.com/main/personal/mortgages/calculators/homeowner-readiline-calculator/)
-        * [![](/dist/icons/readiLine-calculator.svg)Mortgage Renewal CalculatorEstimate your payment at renewal](https://bmomortgagerenewalcalculator.paralucent.com/en)
+        * [![](/dist/icons/readiLine-calculator.svg)Mortgage Renewal CalculatorEstimate your payment at renewal](https://bmomortgagerenewalcalculator.paralucent.com/en?ecid=dw-DMDBAU3266MTG5-GFBMO26)
     * Tips and Advice![](/dist/icons/chevron-right.svg)
         * [![](/dist/icons/house-moneybag.svg)Buying a homeTips for your home-buying journey](https://www.bmo.com/main/personal/mortgages/buying-a-home/?icid=tl-FEAT2953BRND4-AJBMOH92)
         * [![](/dist/icons/house-one-cycle.svg)Renew vs. refinanceCompare your options](https://www.bmo.com/main/personal/mortgages/renewal-vs-refinance/?icid=tl-FEAT2953BRND4-AJBMOH98)
@@ -687,6 +688,7 @@ ENEnglish
         * [![](/dist/icons/bank-account.svg)Bank AccountsSave on everyday banking](https://www.bmo.com/main/personal/bank-accounts/newcomers-banking/?icid=tl-FEAT2953BRND4-AJBMOH242)
         * [![](/dist/icons/permanent-resident.svg)Permanent Resident or Foreign WorkerBanking for your new life in Canada](https://www.bmo.com/main/personal/newcomers-to-canada/foreign-worker-permanent-resident/?icid=tl-FEAT2953BRND4-AJBMOH244)
         * [![](/dist/icons/credit-card.svg)Credit CardsNo credit history required](https://www.bmo.com/main/personal/credit-cards/newcomers-to-canada/?icid=tl-FEAT2953BRND4-AJBMOH243)
+        * [![](/dist/icons/international-student.svg)International Students International banking options](https://www.bmo.com/main/personal/newcomers-to-canada/international-students-in-canada/?icid=tl-FEAT2953BRND4-AJBMOH251)
         * [![](/dist/icons/maple-leaf-talent.svg)Talent ProgramExplore BMO career opportunities](https://jobs.bmo.com/ca/en/leadpage?formId=eum5lam9l4m33l46mld8kuvc4h&eventScheduleId=6298f11352faff0007122c55&icid=tl-FEAT2953BRND4-AJBMOH245)
         * [![](/dist/icons/house-dollar.svg)Newcomer mortgage optionsHome financing tips for newcomers](https://www.bmo.com/en-ca/main/personal/mortgages/newcomers-to-canada/)
     * Students![](/dist/icons/chevron-right.svg)
