@@ -106,7 +106,7 @@ Information collected by us and how we use it?
     * Contract
     * Legitimate Interest
     
-    More Information
+    ### More Information
     
     We use your **name** and **email address** to register your account and send you service communications about how to access and manage your account (available within the “My Auto Trader“ section of the Website). Where you have provided a **telephone number**, we may also use this to contact you about your account. You can access the “My Auto Trader“ area at any time to update your details and can also also change your options regarding marketing communications from Auto Trader and/or third parties that you have selected in this area.
     
@@ -126,7 +126,7 @@ Information collected by us and how we use it?
     
     [Click here](https://www.autotrader.co.uk/privacy-notice) for an explanation regarding the legal basis.
     
-    More Information
+    ### More Information
     
     We use your **name** and **email address** to register your account and your your advert, confirm that your advert has been published and send you service communications about how to access and manage your account (available within the “My Auto Trader“ section of the Website) and your advert. You can access the “My Auto Trader“ area at any time to update your details and can also change your options regarding marketing communications from Auto Trader and/or third parties that you have selected in this area.
     
@@ -162,7 +162,7 @@ Information collected by us and how we use it?
     * Legitimate interest
     * Contract
     
-    More Information
+    ### More Information
     
     You may provide your personal data to us for one of the following reasons:
     
@@ -184,7 +184,7 @@ Information collected by us and how we use it?
     * Consent
     * Legitimate Interest
     
-    More Information
+    ### More Information
     
     **Valuation** - You will need to provide details details regarding your vehicle in order to obtain a valuation. This may be the**vehicle registration number** and **mileage** and/or other details regarding your vehicle such as the **make** and **model**.
     
@@ -345,7 +345,7 @@ Information collected by us and how we use it?
     * Legitimate Interest
     * Consent
     
-    More Information
+    ### More Information
     
     Most mobile devices allow you to control or disable location services within the mobile device’s settings. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or the manufacturer of your device.
     
@@ -358,7 +358,7 @@ Information collected by us and how we use it?
     * Legitimate Interest
     * Consent
     
-    More Information
+    ### More Information
     
     We will use your **contact details** such as **name, telephone number, email address and postcode, details of adverts you have published, details with the My Auto Trader section of the Website and details of your activity on the Website and your interactions with us** in order to:
     
@@ -405,7 +405,7 @@ Information collected by us and how we use it?
     
     [Click here](https://www.autotrader.co.uk/privacy-notice) for an explanation regarding the legal basis.
     
-    More Information
+    ### More Information
     
     Where you make an application to lease a vehicle on [https://www.vanarama.com/](https://www.vanarama.com/), which belongs to our group company Vanarama, your personal data will be stored on the shared Auto Trader Group infrastructure and we may use the personal data in order to assist Vanarama in providing the products and services to you and/or where there is a legitimate interest to help us work together to improve our products and services across the Auto Trader Group. Auto Trader and Vanarama act as joint data controllers in respect of their processing of your personal data for the purpose of progressing your leasing application.
     
@@ -466,7 +466,7 @@ The Legal Basis we rely on for processing your information
     
     Auto Trader will take all reasonable steps to ensure that your data is is treated securely and in accordance with this Policy. All information you provide to us is stored securely within the UK or EEA, and not transferred outside the UK or EEA unless specifically detailed in this Policy.
     
-    More Information
+    ### More Information
     
     Payment card information, details you provide when requesting dealer or other third party services through the Website and information you provide when using the Chat Service is handled in accordance with the relevant service providers’ privacy policies and may be transferred and stored or processed by them outside of the UK and EEA in accordance with their privacy policies.
     
@@ -480,7 +480,7 @@ The Legal Basis we rely on for processing your information
     
     Auto Trader will process personal data for as long as necessary to fulfil the purpose we collected it for, including the purpose of legal, accounting and reporting requirements, and for as long as necessary for the prevention and detection of criminal activity.
     
-    More Information
+    ### More Information
     
     The period for which we process and store the personal data for varies depending on the use you make of the Website and the products and/or services we offer. Where you register an account or place an advert we will retain your data for as long as your account and/or advert is live and a period after your account is closed or advert ends to enable us to satisfy our legal, accounting and reporting requirements.
     
@@ -502,7 +502,7 @@ The Legal Basis we rely on for processing your information
     
     Some of these rights may not always apply. You can read more about your rights below.
     
-    More Information
+    ### More Information
     
     You may be able to exercise the following rights:
     
@@ -552,7 +552,6 @@ Auto Trader Logo
     
 * ### addBuying advice
     
-    * [Owner reviews](https://www.autotrader.co.uk/owner-reviews)
     * [Buying & selling guides](https://www.autotrader.co.uk/content/advice)
     * [Retailer awards](https://www.autotrader.co.uk/retailer-awards)
     * [New car awards](https://www.autotrader.co.uk/cars/new/awards)
