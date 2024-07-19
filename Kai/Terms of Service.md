@@ -1,9 +1,5 @@
 [Skip to content](#content)
 
-[![](https://kai.ai/wp-content/uploads/2022/11/Kai-white-logo-.svg)](https://kai.ai/)
-
-Sign up for a free demo
-
 Terms & Condition
 -----------------
 
@@ -585,7 +581,7 @@ At any time, you may contact us with any question, request, comment or complaint
 
 **Last updated:** November 16th, 2020.
 
-[![](https://kai.ai/wp-content/uploads/2023/07/spark-lighter-bckg@4x-1024x1024.png)](https://kai.ai/)
+[![](https://kai.ai/wp-content/uploads/2024/07/Group-1707478362-svg.svg)](https://kai.ai/)
 
 Copyright © 2024 Kai. All rights reserved.
 ------------------------------------------
@@ -596,22 +592,18 @@ Delaware, 850 New Burton Road, Suite 201, Dover, DE 19904
 * [Terms & Conditions](https://kai.ai/terms/)
 * [Privacy Policy](https://kai.ai/privacy-policy/)
 * [Practitioners Terms + Conditions](https://kai.ai/terms-conditions-for-coaches/)
-* [FAQ 2024](https://kai.ai/faq-2024/)
 
 * [Terms & Conditions](https://kai.ai/terms/)
 * [Privacy Policy](https://kai.ai/privacy-policy/)
 * [Practitioners Terms + Conditions](https://kai.ai/terms-conditions-for-coaches/)
-* [FAQ 2024](https://kai.ai/faq-2024/)
 
 * [Terms & Conditions](https://kai.ai/terms/)
 * [Privacy Policy](https://kai.ai/privacy-policy/)
 * [Practitioners Terms + Conditions](https://kai.ai/terms-conditions-for-coaches/)
-* [FAQ 2024](https://kai.ai/faq-2024/)
 
 * [Terms & Conditions](https://kai.ai/terms/)
 * [Privacy Policy](https://kai.ai/privacy-policy/)
 * [Practitioners Terms + Conditions](https://kai.ai/terms-conditions-for-coaches/)
-* [FAQ 2024](https://kai.ai/faq-2024/)
 
 [](https://www.instagram.com/meetkaiai/)
 
