@@ -129,21 +129,13 @@ Menu
         
     * [Betty Crocker™ Mug Treats](https://www.bettycrocker.com/products/betty-crocker-mug-treats)
         
-    * [Betty Crocker™ Cookie Cups](https://www.bettycrocker.com/products/betty-crocker-cookie-cups)
-        
     * [Betty Crocker™ Gluten Free Baking Mixes](https://www.bettycrocker.com/products/gluten-free-baking-mix)
         
     * [Betty Crocker Co-Branded Desserts](https://www.bettycrocker.com/products/betty-crocker-co-branded-desserts)
         
-    * [Betty Crocker™ No-Bake Bites Cookie Dough](https://www.bettycrocker.com/products/betty-crocker-no-bake-cookie-dough-bites)
-        
-    * [Betty Crocker™ Kid Fun Kits](https://www.bettycrocker.com/products/kid-fun-kits)
-        
     * [Bisquick™](https://www.bettycrocker.com/products/bisquick)
         
     * [Betty Crocker™ Dessert Decorating](https://www.bettycrocker.com/products/dessert-decorating-products)
-        
-    * [Oat-Tastic](https://www.bettycrocker.com/products/oat-tastic)
         
     * [Gold Medal Oat Flour](https://www.bettycrocker.com/products/gold-medal-oat-flour)
         
