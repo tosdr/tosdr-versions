@@ -4,7 +4,7 @@ Plans![arrow icon](/sg/assets/header-arrow.svg)Travel![arrow icon](/sg/assets/he
 
 [Get Started](https://pages.circles.life/sg/terms-conditions/)
 
-[4G SIM-Only](https://pages.circles.life/sg/plans/)[5G SIM-Only](https://pages.circles.life/sg/5g/)[eSIMs](https://pages.circles.life/sg/esim/)[Borderless](https://pages.circles.life/sg/borderless-plan/)[Family Plan](https://pages.circles.life/sg/familyplan/)[Data Only Plans](https://pages.circles.life/sg/data-only-plan/)[Phone Combo Plans](https://pages.circles.life/sg/combo-plan-black/)[Golden Village](https://pages.circles.life/sg/golden-village/)
+[4G SIM-Only](https://pages.circles.life/sg/plans/)[5G SIM-Only](https://pages.circles.life/sg/5g/)[eSIMs](https://pages.circles.life/sg/esim/)[Borderless](https://pages.circles.life/sg/borderless-plan/)[Family Plan](https://pages.circles.life/sg/familyplan/)[Data Only Plans](https://pages.circles.life/sg/data-only-plan/)[Phone Combo Plans](https://pages.circles.life/sg/combo-plan-black/)[TADA](https://pages.circles.life/sg/tada/)[Golden Village](https://pages.circles.life/sg/golden-village/)
 
 20GB
 
@@ -119,6 +119,16 @@ From $1649](https://pages.circles.life/sg/combo-plan-black/iphone_15_pro/)[iPhon
 eSIM
 
 From $1449](https://pages.circles.life/sg/combo-plan-black/iphone_15_plus/)[See all phones](https://pages.circles.life/sg/combo-plan-black/)
+
+200GB
+
+$14/mo
+
+500GB
+
+$20/mo
+
+[More info](https://pages.circles.life/sg/tada/)
 
 250GB
 
