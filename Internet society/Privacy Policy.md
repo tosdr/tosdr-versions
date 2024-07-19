@@ -25,9 +25,10 @@
     * [Start a fundraiser](https://donate.internetsociety.org/start-a-fundraiser/)
     * [Become an organization member](https://www.internetsociety.org/about-internet-society/organization-members/)
     * [Become an individual member](https://www.internetsociety.org/become-a-member/)
-    * [Member login](https://community.internetsociety.org/s/home-community)
     * [Attend an event](https://www.internetsociety.org/events/upcoming/)
     
+
+[Member Login](https://community.internetsociety.org/s/home-community "Visit the isoc member portal")
 
 en
 
