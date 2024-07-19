@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjoxh8gnPQKqU4HFhNrK8TUFL5BzupFoVbuD8ePbcyBqtSwc9ShDPMMxJk93lim7UwLVRJuXKNgZWh7n1k5w:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjoxh8gnPQKqU4HFhNrK8TUFL5BzupFoVbuD8ePbcyBqtSwc9ShDPMMxJk93lim7UwLVRJuXKNgZWh7n1k5w:0&docurl=https://docs.google.com/a/ecosia.org/document/d/1x31-MsVMcl17dK3k80IRPxIj5ZKQEHZPXRhU01H_Xfw/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 TOS
 
@@ -25,7 +25,7 @@ Ecosia is a work in progress, meaning that a lot will change in the near future.
 
 We are working hard on improving Ecosia, but we can't guarantee that the Website will be up and running 24/7. We also reserve the right to suspend or restrict access to some features to users. In any case, we will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period, nor for any data loss.
 
-To access certain features of the Website you have to register by entering your email and choosing a password as part of our security procedures. You must treat such information as confidential, not disclosing it to any third party and only using Ecosia in person. There is a password reset procedure in case you forget your password, but please notify us of any breach of security. We highly recommend to choose a strong password (e.g. "[correcthorse](https://www.google.com/url?q=http://xkcd.com/936/&sa=D&source=editors&ust=1719009413809549&usg=AOvVaw1M5ASxbj_3i664enoEIjv8)?12") and that you log out from your account at the end of every session.
+To access certain features of the Website you have to register by entering your email and choosing a password as part of our security procedures. You must treat such information as confidential, not disclosing it to any third party and only using Ecosia in person. There is a password reset procedure in case you forget your password, but please notify us of any breach of security. We highly recommend to choose a strong password (e.g. "[correcthorse](https://www.google.com/url?q=http://xkcd.com/936/&sa=D&source=editors&ust=1721381874599441&usg=AOvVaw2Ua3012pvsTpQe6t0ggNNV)?12") and that you log out from your account at the end of every session.
 
 It is a condition of your use of the Website that all the information you provide on the Website is correct, current and complete. As custom for internet websites, we reserve the right to disable any user account, at any time in our sole discretion for any or no reason, including, if in our opinion you have failed to comply with any provision of these Terms of Service.
 
