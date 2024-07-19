@@ -93,7 +93,7 @@
 * [Pricing](https://cypress.io/pricing)
 * [Log in](https://cloud.cypress.io/login) [Sign up](https://cloud.cypress.io/signup)
 
-Contact Sales [Log In](https://cloud.cypress.io/login) Install
+Contact sales [Log in](https://cloud.cypress.io/login) [Sign up](https://cloud.cypress.io/signup)
 
 Open navigation
 
