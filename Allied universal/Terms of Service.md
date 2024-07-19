@@ -12,131 +12,189 @@
 *  [![Contact us icon](/themes/custom/aus/images/top-navigation/icon-contact.png) Contact Us](https://www.aus.com/contact-us "Contact Us")
 * [Login ![Login icon](/themes/custom/aus/images/top-navigation/icon-login.png)](https://www.aus.com/login-portal "Login") 
 
- [![Allied Universal logo](/sites/default/files/Allied%20Universal%20Tagline_1.png)](https://www.aus.com/ "Home")Toggle navigation
+[![Allied Universal There for Your - Home](/themes/custom/aus/build/assets/images/allied-logo.svg)](https://www.aus.com/)
 
-Main navigation
----------------
-
-* Our Services
-    * [Security Services](https://www.aus.com/our-services/security-services "Security Services")
-        * * [Our Approach](https://www.aus.com/our-services/security-services/our-approach "Our Approach")
-            * [Security Personnel](https://www.aus.com/our-services/security-services/security-personnel "Security Personnel")
-                * [Site Services](https://www.aus.com/our-services/security-services/security-personnel/site-services "Site Services")
-                * [Patrol Services](https://www.aus.com/our-services/security-services/security-personnel/patrol-services "Patrol Services")
-                * [Enterprise Accounts](https://www.aus.com/our-services/security-services/security-personnel/enterprise-accounts "National Accounts")
-                * [Canine Security Services](https://www.msasecurity.net/)
-            * [Value-Added Programs](https://www.aus.com/our-services/security-service/value-added-programs "Value-Added Programs")
-                * [Fire / Life Safety Training System](https://www.aus.com/our-services/security-services/value-added-programs/fire-life-safety-training-system "Fire / Life Safety Training System")
-            
-    * [Technology Services](https://www.aus.com/our-services/technology-services "Technology Services")
-        * * [Security Solutions](https://www.aus.com/our-services/technology-services/security-solutions)
-                * [Electronic Access Control](https://www.aus.com/our-services/technology-services/security-solutions/electronic-access-control)
-                * [Video Surveillance Systems](https://www.aus.com/our-services/technology-services/security-solutions/video-surveillance)
-                * [Intrusion Detection](https://www.aus.com/our-services/technology-services/security-solutions/intrusion-detection)
-                * [Fire & Life Safety](https://www.aus.com/our-services/technology-services/security-solutions/fire-life-safety)
-                * [Body Temperature Screening](https://www.aus.com/our-services/technology-services/security-solutions/body-temperature-screening)
-                * [Emergency Communications](https://www.aus.com/our-services/technology-services/security-solutions/emergency-communications)
-                * [Augmented Technology (Robots & Drone Security Solutions)](https://www.aus.com/our-services/technology-services/security-solutions/augmented-technology-robots-drones)
-                * [A Michigan Court Services Program](https://www.aus.com/our-services/technology-services/security-solutions/a-michigan-court-services-program)
-                * [Alyssa's Law](https://www.aus.com/our-services/technology-services/security-solutions/alyssas-law)
-            * [Monitoring, Hosting, & Managed Services](https://www.aus.com/our-services/technology-services/monitoring-hosting-managed-services)
-                * [Video Monitoring](https://www.aus.com/our-services/technology-services/monitoring-hosting-managed-services/video-monitoring)
-                * [Fire & Intrusion Monitoring](https://www.aus.com/our-services/technology-services/monitoring-hosting-managed-services/fire-intrusion-monitoring)
-                * [GSOC as a Service](https://www.aus.com/our-services/technology-services/monitoring-hosting-managed-services/gsoc-as-a-service)
-                * [Threat Awareness and Situational Intelligence](https://www.aus.com/our-services/technology-services/monitoring-hosting-managed-services/threat-intelligence-situational-awareness)
-                * [Hosted Security Systems](https://www.aus.com/our-services/technology-services/monitoring-hosting-managed-services/hosted-system)
-                * [SmartTech® X-ray Remote Services](https://www.msasecurity.net/smarttech-x-ray-screener-support)
-            * [Security Lifecycle Services](https://www.aus.com/our-services/technology-services/security-lifecycle-services)
-                * [Security Strategy](https://www.aus.com/our-services/technology-services/security-lifecycle-services/security-strategy)
-                * [Design & Installation](https://www.aus.com/our-services/technology-services/security-lifecycle-services/design-installation)
-                * [Program Management](https://www.aus.com/our-services/technology-services/security-lifecycle-services/program-management)
-                * [Monitor & Response Center](https://www.aus.com/our-services/technology-services/security-lifecycle-services/monitor-and-response-center)
-                * [Service & Maintenance](https://www.aus.com/our-services/technology-services/security-lifecycle-services/service-maintenance)
-            * [HELIAUS®](https://www.aus.com/our-services/technology-services/heliaus)
-            * [Electronic Monitoring](https://www.aus.com/our-services/technology-services/electronic-monitoring "Electronic Monitoring")
-                * [GPS Tracking](https://www.aus.com/our-services/technology-services/electronic-monitoring/gps-tracking "GPS Tracking")
-                * [RF Monitoring](https://www.aus.com/our-services/technology-services/electronic-monitoring/rf-monitoring "RF Monitoring")
-                * [Alcohol Monitoring](https://www.aus.com/our-services/technology-services/electronic-monitoring/alcohol-monitoring "Alcohol Monitoring")
-                * [Mobile App Monitoring](https://www.aus.com/our-services/technology-services/electronic-monitoring/mobile-app-monitoring "Mobile App Monitoring")
-                * [Monitoring Software](https://www.aus.com/our-services/technology-services/electronic-monitoring/monitoring-software "Monitoring Software")
-                * [Monitoring Center and Services](https://www.aus.com/our-services/technology-services/electronic-monitoring/monitoring-center-and-services "Monitoring Center and Services")
-                * [Careers](https://www.aus.com/our-services/technology-services/electronic-monitoring/careers "Electronic Monitoring Careers")
-            * [Customer Links](https://www.aus.com/our-services/technology-services/customer-links)
-                * [Request Sales / Service (by Branch)](https://www.aus.com/our-services/technology-services/customer-links/request-sales-service-branch)
-                * [HMS Login Links](https://www.aus.com/our-services/technology-services/customer-links/hms-login-links)
-                * [GSA Services](https://www.aus.com/our-services/technology-services/customer-links/general-services-administration-gsa-services-and-contracts)
-            * Other Services
-                * [Audio/Visual](https://www.aus.com/our-services/technology-services/other-services/audiovisual)
-                * [Network Cabling](https://www.aus.com/our-services/technology-services/other-services/network-cabling)
-                * [Paging/Sound Masking](https://www.aus.com/our-services/technology-services/other-services/pagingsound-masking)
-            
-    * Professional Services
-        * * [Risk Advisory and Consulting Services](https://www.aus.com/our-services/professional-services/risk-advisory-consulting-services)
-            * [Executive Protection and Intelligence Services](https://www.aus.com/our-services/professional-services/executive-protection-and-intelligence-services)
-            * [Compliance and Investigations](https://www.aus.com/our-services/professional-services/compliance-and-investigations)
-            * [Event Services](https://www.aus.com/our-services/professional-services/event-services)
-            * [Janitorial Services](https://www.aus.com/our-services/professional-services/janitorial-services)
-                * [Meet the Team](https://www.aus.com/our-services/professional-services/janitorial-services/meet-the-team)
-                * [Technology](https://www.aus.com/our-services/professional-services/janitorial-services/technology)
-                * [Green Cleaning](https://www.aus.com/our-services/professional-services/janitorial-services/green-cleaning)
-                * [PRO-Techs Antimicrobial Solution](https://www.aus.com/our-services/professional-services/pro-techs-antimicrobial-solution)
-                * [Malls & Retail](https://www.aus.com/our-services/professional-services/janitorial-services/malls-and-retail)
-                * [Window Cleaning](https://www.aus.com/our-services/professional-services/janitorial-services/window-cleaning)
-                * [Metal Maintenance](https://www.aus.com/our-services/professional-services/janitorial-services/metal-maintenance)
-                * [Quality Assurance](https://www.aus.com/our-services/professional-services/janitorial-services/quality-assurance)
-                * [Transition Planning](https://www.aus.com/our-services/professional-services/janitorial-services/transition-planning)
-            * [Landscaping Services](https://www.aus.com/our-services/professional-services/landscaping-services)
-            * [PEOPLEMARK® Staffing](https://www.aus.com/our-services/professional-services/staffing-services)
-            
-* Industry Expertise
-    * [Industry Expertise Overview](https://www.aus.com/industry-expertise)
-    * [Chemical / Petrochemical](https://www.aus.com/industry-expertise/chemical-petrochemical-utilities)
-    * [Commercial Real Estate](https://www.aus.com/industry-expertise/commercial-real-estate)
-    * [Condominium & High-Rise](https://www.aus.com/industry-expertise/condominium-and-high-rise)
-    * [Construction](https://www.aus.com/industry-expertise/construction)
-    * [Defense & Aerospace](https://www.aus.com/industry-expertise/defense-aerospace)
-    * [Distribution & Logistics](https://www.aus.com/industry-expertise/distribution-and-logistics)
-    * [Education](https://www.aus.com/industry-expertise/education "Education")
-        * * [K-12](https://www.aus.com/industry-expertise/education/k-12)
-            * [Higher Education](https://www.aus.com/industry-expertise/education/higher-education)
-            
-    * [Financial Institutions](https://www.aus.com/industry-expertise/financial-institutions)
-    * [Government Institutions](https://www.aus.com/industry-expertise/government-institutions "Government Institutions")
-        * * [Aviation](https://www.aus.com/industry-expertise/government-institutions/aviation)
-            * [Ports](https://www.aus.com/industry-expertise/government-institutions/ports)
-            
-    * [Healthcare](https://www.aus.com/industry-expertise/healthcare)
-    * [High Tech & Telecom](https://www.aus.com/industry-expertise/high-tech-telecom)
-    * [Hotel & Hospitality](https://www.aus.com/industry-expertise/hotel-and-hospitality)
-    * [Manufacturing & Industrial](https://www.aus.com/industry-expertise/manufacturing-industrial)
-    * [Residential](https://www.aus.com/industry-expertise/residential)
-    * [Retail](https://www.aus.com/industry-expertise/retail)
-    * [Transit](https://www.aus.com/industry-expertise/public-transportation)
-    * [Utilities](https://www.aus.com/industry-expertise/utility-security-services)
-* [Security Resources](https://www.aus.com/security-resources "Security Resources")
+* Services
+    
+    Back
+    
+    #### Services
+    
+    * [Security Professionals](https://www.aus.com/security-professionals)
+        
+        Back[#### Security Professionals](https://www.aus.com/security-professionals)
+        
+        Discover unparalleled security solutions that blend service expertise with cutting-edge technology. Enhance your asset protection and ensure comprehensive site safety with our tailored services.
+        
+        * [Security Guards](https://www.aus.com/security-services/security-professionals/security-guards)
+        * [HELIAUS® AI Security​](https://www.aus.com/security-services/security-professionals/ai-security-heliaus)
+        * [Government Security Services](https://www.aus.com/security-services/security-professionals/government-security-services)
+        * [Custom Protection Officers](https://www.aus.com/security-services/security-professionals/custom-protection-officers)
+        * [Vehicle and Bike Patrol](https://www.aus.com/security-services/security-professionals/vehicle-and-bike-patrol)
+        * [Visitor and Concierge Management](https://www.aus.com/security-services/security-professionals/visitor-management-and-concierge)
+        * [Weapons and Explosive Detection](https://www.aus.com/security-services/security-professionals/weapons-and-explosive-detection)
+        
+    * [Enhanced Protection Services](https://www.aus.com/security-services/enhanced-protection-services)
+        
+        Back[#### Enhanced Protection Services](https://www.aus.com/security-services/enhanced-protection-services)
+        
+        Discover unparalleled security solutions that blend service expertise with cutting-edge technology. Enhance your asset protection and ensure comprehensive site safety with our tailored services.
+        
+        * [Active Law Enforcement](https://www.aus.com/security-services/enhanced-protection-services/active-law-enforcement)
+        * [K9 Security](https://www.aus.com/security-services/enhanced-protection-services/k9-security)
+        * [Disaster and Emergency Response](https://www.aus.com/security-services/enhanced-protection-services/disaster-and-emergency-response)
+        * [Executive Protection](https://www.aus.com/security-services/enhanced-protection-services/executive-protection)
+        * [Intelligence as a Service](https://www.aus.com/security-services/enhanced-protection-services/intelligence-service)
+        * [Investigations](https://www.aus.com/security-services/enhanced-protection-services/investigations)
+        * [Risk and Vulnerability Consulting](https://www.aus.com/security-services/enhanced-protection-services/risk-and-vulnerability-consulting)
+        * [SmartTech and CBRNE Screening](https://www.aus.com/security-services/enhanced-protection-services/smarttech-and-cbrne-screening)
+        
+    * [Integrated Technology Services](https://www.aus.com/security-services/integrated-technology-services)
+        
+        Back[#### Integrated Technology Services](https://www.aus.com/security-services/integrated-technology-services)
+        
+        Safeguard your people, assets, and reputation by leveraging a combination of trained professionals and consultants who understand the full security life cycle and the latest technology innovations. 
+        
+        * [Security Lifecycle Services](https://www.aus.com/security-services/integrated-technology-services/security-lifecycle-services)
+        * [Security Assessments](https://www.aus.com/security-services/integrated-technology-services/security-assessments)
+        * [Video Surveillance](https://www.aus.com/security-services/video-surveillance-combined-reliable-monitoring-solutions)
+        * [Access Control](https://www.aus.com/security-services/integrated-technology-services/access-control)
+        * [Intrusion Detection](https://www.aus.com/security-services/integrated-technology-services/intrusion-detection-systems-and-solutions)
+        * [Identity Management](https://www.aus.com/security-services/integrated-technology-services/identity-and-visitor-management-systems)
+        * [GSOC as a Service](https://www.aus.com/security-services/integrated-technology-services/global-security-operations-center-gsoc)
+        * [Hosted and Managed Services](https://www.aus.com/security-services/integrated-technology-services/hosted-and-managed-security-services)
+        * [Fire Alarm Services](https://www.aus.com/security-services/integrated-technology-services/fire-alarm-services)
+        * [Robotics and Autonomous Technology](https://www.aus.com/security-services/integrated-technology-services/robotics-and-autonomous-technology)
+        * [Emergency Communication](https://www.aus.com/security-services/integrated-technology-services/emergency-communication-systems)
+        * [Security Program Analytics by HELIAUS®](https://www.aus.com/security-services/security-professionals/ai-security-heliaus)
+        
+    * [Event Services](https://www.aus.com/security-services/event-services)
+        
+        Back[#### Event Services](https://www.aus.com/security-services/event-services)
+        
+        Comprehensive event security, crowd management, and guest services capabilities tailored for the vent and venue. Specialists across sports, entertainment, convention, corporate, and large-scale or high-profile events.
+        
+        * [Crowd Management](https://www.aus.com/security-services/event-services/crowd-management-services)
+        * [Event Security Staffing](https://www.aus.com/security-services/event-services/event-security-staffing)
+        * [Event Special Services](https://www.aus.com/security-services/event-services/event-special-services)
+        * [Corporate Events](https://www.aus.com/security-services/event-services/corporate-event-security-services)
+        * [Red Team Audits](https://www.aus.com/security-services/event-services/event-red-team-security-audits-and-quality-control)
+        
+    * [Professional Services](https://www.aus.com/our-services/security-services/professional-services)
+        
+        Back[#### Professional Services](https://www.aus.com/our-services/security-services/professional-services)
+        
+        A trusted partner that offers diverse professional services to meet your needs, ensuring excellence and reliability in every aspect of your business operation and brand experience.
+        
+        * [Janitorial Services](https://www.aus.com/professional-services/commercial-janitorial-services-and-software-solutions)
+        * [Facility Maintenance Services](https://www.aus.com/professional-services/comprehensive-commercial-facility-maintenance-services)
+        * [Insurance Claim Solutions](https://www.aus.com/professional-services/comprehensive-insurance-claim-investigation-and-compliance)
+        * [Workforce Solutions](https://www.aus.com/professional-services/professional-workforce-and-staffing-solutions)
+        * [Cash Inventory Management Solutions](https://www.aus.com/professional-services/cash-management-solutions-and-technology)
+        * [Electronic Monitoring](https://www.aus.com/professional-services/electronic-monitoring)
+        
+    
+    ![World security report pamphlet.](/sites/default/files/2024-06/nav-services.png)
+    
+    #### 
+    
+    Insights and priorities of 1,775 Chief Security Officers
+    
+    [Download Report](https://www.aus.com/world-security-report)
+    
+* Industries
+    
+    Back
+    
+    #### Industries
+    
+    * [Aviation](https://www.aus.com/industry-expertise/aviation-0)
+    * [Biotechnology](https://www.aus.com/industry-expertise/biotechnology)
+    * [Chemical and Petrochemical](https://www.aus.com/industry-expertise/chemical-and-petrochemical)
+    * [Commercial Real Estate](https://www.aus.com/industry-expertise/commercial-real-estate-0)
+    * [Condominium and High Rise](https://www.aus.com/industry-expertise/condominium-and-high-rise-0)
+    * [Construction](https://www.aus.com/industry-expertise/construction-0)
+    * [Corporate Campuses](https://www.aus.com/industry-expertise/corporate-campuses)
+    * [Cultural Institutions](https://www.aus.com/industry-expertise/cultural-institutions)
+    * [Data Centers](https://www.aus.com/industry-expertise/data-centers)
+    * [Defense and Aerospace](https://www.aus.com/industry-expertise/defense-and-aerospace)
+    * [Distribution and Logistics​](https://www.aus.com/industry-expertise/distribution-and-logistics-0)
+    * [Entertainment](https://www.aus.com/industry-expertise/entertainment)
+    * [Financial](https://www.aus.com/industry-expertise/financial)
+    * [Governmental​](https://www.aus.com/industry-expertise/governmental)
+    * [Healthcare](https://www.aus.com/industry-expertise/healthcare-0)
+    * [High Tech and Telecommunications](https://www.aus.com/industry-expertise/high-tech-and-telecommunications)
+    * [Higher Education](https://www.aus.com/industry-expertise/higher-education)
+    * [Hotel and Hospitality](https://www.aus.com/industry-expertise/hotel-and-hospitality-0)
+    * [K-12 Education](https://www.aus.com/industry-expertise/k-12-education)
+    * [Manufacturing and Industrial](https://www.aus.com/industry-expertise/manufacturing-and-industrial)
+    * [Maritime and Port](https://www.aus.com/industry-expertise/maritime-and-port)
+    * [Pharmaceutical](https://www.aus.com/industry-expertise/pharmaceutical)
+    * [Residential​](https://www.aus.com/industry-expertise/residential-0)
+    * [Retail](https://www.aus.com/industry-expertise/retail-0)
+    * [Sports Complexes](https://www.aus.com/industry-expertise/sports-complexes)
+    * [Transit](https://www.aus.com/industry-expertise/transit)
+    * [Utility](https://www.aus.com/industry-expertise/utility)
+    
+    ![Risk 360 report.](/sites/default/files/2024-06/nav-industries.png)
+    
+    #### 
+    
+    Recognize your unique vulnerabilities.
+    
+    [Schedule Now](https://risk360.aus.com/)
+    
+* Resources
+    
+    Back
+    
+    #### Resources
+    
+    * [All Resources](https://www.aus.com/security-resources)
+    * [eBooks & White Papers](https://www.aus.com/security-resources?type=41)
+    * [On-Demand Webinars](https://www.aus.com/security-resources?type=16)
+    * [Safety & Security Insights](https://www.aus.com/security-resources?type=26)
+    * [Tools & Templates](https://www.aus.com/security-resources?type=31)
+    
+    ![Heliaus report computer.](/sites/default/files/2024-06/nav-resources.png)
+    
+    #### 
+    
+    Receive a personalized demo of the Heliaus technology.
+    
+    [Schedule Now](https://pages.aus.com/Contact-Us-Heliaus-Demo.html)
+    
 * [Offices](https://www.aus.com/offices)
-* [About Us](https://www.aus.com/our-story "About Us")
-    * [Our Story](https://www.aus.com/our-story)
-    * [Our Purpose](https://www.aus.com/our-purpose)
-    * [Our People](https://www.aus.com/our-people)
-    * [Our Heroes](https://www.aus.com/our-heroes)
-    * [At A Glance](https://www.aus.com/about-us/at-a-glance)
+* [About Us](https://www.aus.com/about-us)
+    
+    Back
+    
+    #### About Us
+    
+    * [At a Glance](https://www.aus.com/about-us)
+    * [Contact Us](https://www.aus.com/contact-us)
+    * [Story](https://www.aus.com/our-story)
+    * [Purpose](https://www.aus.com/our-purpose)
+    * [People](https://www.aus.com/our-people)
+    * [Heroes](https://www.aus.com/our-heroes)
     * [Corporate Governance](https://www.aus.com/corporate-governance)
-    * [Social Responsibility](https://www.aus.com/about-us/social-responsibility "Social Responsibility")
-        * * [Our Priorities](https://www.aus.com/our-priorities)
-            
+    * [Social Responsibility](https://www.aus.com/social-responsibility)
     * [Blog](https://www.aus.com/blog)
     * [Media Center](https://ausnewsroom.aus.com/)
-* [Careers](https://ad.doubleclick.net/ddm/clk/435397650;274797481;a?https%3A%2F%2Fjobs_aus_com%3Futm_source=aus.com&utm_campaign=national_cross_business&utm_medium=career_site&utm_content=&ss=paid "Careers")
+    
+    ![About us report.](/sites/default/files/2024-06/nav-about.png)
+    
+    #### 
+    
+    Insightful security blogs & resources.
+    
+    [Explore Resources](https://www.aus.com/security-resource)
+    
+* [Careers](https://www.aus.com/careers)
 
-  
+[Contact Us](https://www.aus.com/contact-us)
 
-*  [![Contact Us icon](/themes/custom/aus/images/top-navigation/icon-contact.png) Contact Us](https://www.aus.com/contact-us "Contact Us")
-* [Login ![Login icon](/themes/custom/aus/images/top-navigation/icon-login.png)](https://www.aus.com/user/login/ "Home") 
-
- [![Hiring icon](/themes/custom/aus/images/top-navigation/hiring-icon.png) We're hiring - Apply for a job](https://jobs.aus.com/ "Home")
-
-[BACK TO TOP](javascript:;)
+[](https://www.youtube.com/channel/UCqiWfOvqHHDp2eUC7MF1xQg)[](https://www.linkedin.com/company/allied-universal/mycompany/)[](https://www.facebook.com/AlliedUniversal/)[](https://twitter.com/AlliedUniversal?lang=en)[](https://www.instagram.com/allieduniversal/)
 
 1. [Home](https://www.aus.com/ "Home")
 2. Terms of Use
@@ -326,6 +384,8 @@ This website is operated by Allied Universal:  450 Exchange, Irvine, CA 92602.
 
 You should contact our support department with all feedback, comments, requests for technical support, and other communications relating to the Website.  
  
+
+[](https://www.addtoany.com/share#url=https%3A%2F%2Fwww.aus.com%2Fterms-of-use&title=Terms%20of%20Use)
 
 [![Contact us icon](/sites/default/files/contact-us_0.png)
 
