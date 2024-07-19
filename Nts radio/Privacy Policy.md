@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=508554002829968&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=1071656873904973&ev=PageView&noscript=1)
 
 Privacy and cookie notice
 =========================
@@ -286,7 +286,7 @@ Play
 
 [My NTS](https://www.nts.live/my-nts/favourites/shows)
 
-[Events](https://www.nts.live/events)[Podcasts](https://www.nts.live/podcasts)[Videos](https://www.nts.live/videos)[News](https://www.nts.live/incoming)[About](https://www.nts.live/about)[NTS Supporters](https://www.nts.live/supporters)
+[Events](https://www.nts.live/events)[Podcasts](https://www.nts.live/podcasts)[Videos](https://www.nts.live/videos)[News](https://www.nts.live/incoming)[About](https://www.nts.live/about)[NTS Supporters](https://www.nts.live/supporters)[Help and Feedback](https://ntslive.freshdesk.com/support/home)
 
 [iOS App](https://apps.apple.com/us/app/nts-radio/id1204567739?platform=iphone&ct=website_desktop_header)[Android App](https://play.google.com/store/apps/details?id=com.ntslive.ntsradio&referrer=install_source%3Dnotifications_website_desktop_header)[Join the Chat](https://discord.gg/nts-chat)[Newsletter](https://www.nts.live/newsletter)
 
