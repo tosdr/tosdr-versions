@@ -13,7 +13,7 @@ English
 
 New
 
-**Sign up as a Food Waste Hero with Olio this month to win some mega prizes 🤩 !**  [Find out more here](https://olioapp.com/en/campaigns/olios-10k-community-challenge/).
+Introducing… Events on Olio! Find events happening near you on Olio, or post about events you’re organising. Read our explainer blog **[here](https://olioapp.com/en/olio-updates/introducing-olio-events/).**
 
 [Volunteer Hub sign-in](http://volunteers.olioex.com/)
 
