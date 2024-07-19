@@ -140,7 +140,7 @@ Classes Start Next Week!
 
 Live 8-week Online Certification Classes for:
 
-* [Logic Pro X
+* [Logic Pro
     
     Learn More](https://macprovideo.com/classrooms/?nleloc=classrooms)
 * [Ableton Live
