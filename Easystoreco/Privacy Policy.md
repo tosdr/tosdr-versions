@@ -237,5 +237,3 @@ Persiaran Wawasan, Pusat Bandar Puchong,
     * [Thailand (English)](http://www.easystore.co/en-th)
     * [Thailand (ภาษาไทย)](http://www.easystore.co/th-th)
     * [United States (English)](http://www.easystore.co/en-us)
-
-[](https://www.easystore.co/redirect/whatsapp?url=https://www.easystore.co/en-us/legal/privacy)
