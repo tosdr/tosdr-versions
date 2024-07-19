@@ -14,8 +14,6 @@ Menu
     
 * [Live Sex Cams](https://engine.blueistheneworanges.com/?510997579)
     
-* [Amouranth x Jerkmate](https://t.ajrkm3.com/42821/8780/35500?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG000007Wd73&source=Tab)
-    
 * [AI Sex Chat](https://f95zone.to/link-forums/aisexchattablink.140)
     
 * [ThePornDude](https://theporndude.com/)
@@ -129,19 +127,19 @@ F95zone is an adult community where you can find tons of great adult games and c
 
 Threads
 
-197,853
+201,485
 
 Messages
 
-13,097,616
+13,325,016
 
 Members
 
-7,353,473
+7,475,773
 
 Latest member
 
-[SnackScale](https://f95zone.to/members/snackscale.7597258/)
+[Fakes91](https://f95zone.to/members/fakes91.7723282/)
 
 [](https://f95zone.to/)
 
@@ -158,7 +156,7 @@ This site provides links to other sites/services, and does not store any files
 * [](#top "Top")
 * [RSS](https://f95zone.to/forums/-/index.rss "RSS")
 
-Served by: \[NUMA||GB\]-\[S2|7.63/9.75/10.53\] \[1903cfbf1a7\] (ba93c7e1)
+Served by: \[NUMA||GB\]-\[S1|6.77/7.59/7.65\] \[190ca4e8010\] (6f9b1add)
 
 * [](https://twitter.com/f95zoneofficial "Twitter")
 
