@@ -1,7 +1,4 @@
-![](~/media/ECG/1105Media/design/header_bg.ashx)
-
 [![1105 Media Your Growth Our Business](~/media/ECG/1105Media/1105medialogowhite.ashx)](https://1105media.com/home.aspx)
-========================================================================================================================
 
 * [Our Brands](https://1105media.com/home.aspx#bigbrand)
     * [![](~/media/ECG/1105media/brands/adtmag.ashx)](https://1105media.com/pages/ecg.aspx#adtmag)
