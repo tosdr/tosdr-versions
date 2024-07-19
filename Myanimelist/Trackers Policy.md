@@ -104,11 +104,11 @@ And of course, if you have installed our mobile app on your mobile device and yo
 
 ### [More](https://myanimelist.net/topanime.php?type=airing)Top Airing Anime
 
-1. 1 [One Piece](https://myanimelist.net/anime/21/One_Piece)
-2. 2 [Hibike! Euphonium 3](https://myanimelist.net/anime/39894/Hibike_Euphonium_3)
-3. 3 [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/55888/Mushoku_Tensei_II__Isekai_Ittara_Honki_Dasu_Part_2)
-4. 4 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
-5. 5 [Kaijuu 8-gou](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
+1. 1 [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864/Monogatari_Series__Off___Monster_Season)
+2. 2 [One Piece](https://myanimelist.net/anime/21/One_Piece)
+3. 3 [Doupo Cangqiong: Nian Fan](https://myanimelist.net/anime/51039/Doupo_Cangqiong__Nian_Fan)
+4. 4 ["Oshi no Ko" 2nd Season](https://myanimelist.net/anime/55791/Oshi_no_Ko_2nd_Season)
+5. 5 [Tunshi Xingkong 4th Season](https://myanimelist.net/anime/56524/Tunshi_Xingkong_4th_Season)
 
 ### [More](https://myanimelist.net/character.php)Most Popular Characters
 
