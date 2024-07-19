@@ -14,23 +14,11 @@ Career Paths
 
 Launch or advance your career with curated collections of courses, labs, and more.](https://www.cybrary.it/career-path)
 
-![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
+[![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6459f64833fa1f466669ce29_Vectors-Wrapper.svg)
 
-![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
+Skill Paths
 
-Back
-
-Foundations
-
-Defensive Security
-
-Offensive Security
-
-Engineering and Operations
-
-Governance, Risk Management & Compliance
-
-Leadership & Management
+Launch or advance your career with curated collections of courses, labs, and more.](https://www.cybrary.it/skill-paths)
 
 [![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b8011b935ffdc4f24_Exam.svg)
 
@@ -38,39 +26,11 @@ Certification Prep
 
 Prepare for and maintain leading cybersecurity certifications](https://www.cybrary.it/certifications)
 
-![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
-
-![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
-
-Back
-
-Beginner
-
-Intermediate
-
-Advanced
-
 [![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645bff6b5538eddcd9f4f19b_Chalkboard.svg)
 
 Mission Readiness
 
 Learn how to detect and mitigate the latest threats and vulnerabilities.](https://www.cybrary.it/mitre-attack)
-
-![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603abf9e8b1cbd2a4cc808_Vectors-Wrapper.svg)![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64603ac0191f0817ca0ec0c2_Vectors-Wrapper.svg)
-
-![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/646052a00d31bc5cef844f6d_Vectors-Wrapper.svg)
-
-Back
-
-[Threat Actor Campaigns](https://www.cybrary.it/threat-actor-campaign)
-
-CVE Series
-
-Cybrary Challenges
-
-[MITRE ATT&CK](https://www.cybrary.it/mitre-attack)
-
-[MITRE ATT&CK](https://www.cybrary.it/mitre-attack)
 
 [![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/647447f1c78ce7bb4465e579_Article.svg)
 
@@ -186,7 +146,7 @@ Back
 
 [Success Stories](https://www.cybrary.it/success-stories)
 
-For Teams
+For Business
 
 ![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/645b477d89482a992ae754da_down-chevron.svg)
 
@@ -255,6 +215,10 @@ Learn how Cybrary can help your team thrive.](https://www.cybrary.it/business-re
 Back
 
 [Case Studies](https://www.cybrary.it/business-resources#case-studies)[Research Papers](https://www.cybrary.it/business-resources#research-papers)[Articles](https://www.cybrary.it/business-resources#articles)[White Pages](https://www.cybrary.it/business-resources#white-papers)
+
+[Framework Alignment
+
+Learn how Cybrary aligns to established industry frameworks](https://www.cybrary.it/industry)
 
 [![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bee7697e6b0c0c20758_SubtractSquare.svg)
 
