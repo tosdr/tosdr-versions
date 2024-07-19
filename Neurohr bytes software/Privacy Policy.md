@@ -256,11 +256,11 @@ When you visit our portal you will receive some cookies necessary for the provis
 
   
 
-**Several cookies for vimeo.com:** This cookies are set when a Vimeo video or preview is loaded on the page. [Vimeo's Cookie Policy](https://vimeo.com/cookie_policy)
+**Several cookies for vimeo.com:** These cookies are set when a Vimeo video or preview is loaded on the page. [Vimeo's Cookie Policy](https://vimeo.com/cookie_policy)
 
   
 
-**Several cookies for youtube.com:** This cookies are set when a YouTube video or preview is loaded on the page. [YouTube data security notice](https://policies.google.com/privacy?hl=en)
+**Several cookies for youtube.com:** These cookies are set when a YouTube video or preview is loaded on the page. [YouTube data security notice](https://policies.google.com/privacy?hl=en)
 
   
 
