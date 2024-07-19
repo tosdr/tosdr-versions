@@ -117,7 +117,7 @@ If you have any questions regarding this Privacy Policy you may contact us using
 * [About](https://anydayguide.com/about)
 * [Support](https://anydayguide.com/tools/contact)
 
-Powered by [AnydayLife](http://anydaylife.com/calendar/ "Календарь праздников")
+Powered by [AnydayLife](https://anydaylife.com/ "Праздники сегодня")
 
 * [Terms](https://anydayguide.com/terms)
 * [Privacy](https://anydayguide.com/privacy)
