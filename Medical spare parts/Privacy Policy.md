@@ -10,7 +10,7 @@ Customer Service: [\+ 31 88 0531000](tel:+3188 0531000)
 
 [![Go to homepage](https://msp-medical.com/media/2c/48/82/1639650665/msp-logo.svg)](https://www.medicalspareparts.com/ "Go to homepage")
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1718196896)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721294226)
 
 EN
 
@@ -45,8 +45,6 @@ Your account
 [Log in](https://www.medicalspareparts.com/account/login "Log in")
 
 or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
-
-[Overview](https://www.medicalspareparts.com/account "Overview") [Your profile](https://www.medicalspareparts.com/account/profile "Your profile") [Addresses](https://www.medicalspareparts.com/account/address "Addresses") [Payment methods](https://www.medicalspareparts.com/account/payment "Payment methods") [Orders](https://www.medicalspareparts.com/account/order "Orders") [Subscriptions](https://www.medicalspareparts.com/account/mollie/subscriptions "Subscriptions")
 
 [Shopping cart €0.00\*](https://www.medicalspareparts.com/checkout/cart "Shopping cart")
 
@@ -401,15 +399,11 @@ or [sign up](https://www.medicalspareparts.com/account/login "Sign up")
 * close
     
 
-About MSP
-
-[About MSP](https://msp-medical.com/general/about-msp/ "About MSP") [Terms & Conditions](https://msp-medical.com/general/terms-conditions/ "Terms & Conditions ") [Privacy](https://msp-medical.com/general/privacy/ "Privacy") [Right of rescission](https://msp-medical.com/general/right-of-rescission/ "Right of rescission") [News](https://msp-medical.com/general/news/ "News") [Our assortment](https://msp-medical.com/general/our-assortment/ "Our assortment") [Careers](https://msp-medical.com/general/careers/ "Careers")
-
 We are your partner in Reliable Spare Parts
 
 Close menu
 
-![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1718196896)
+![language flag](https://msp-medical.com/theme/a8836e05a2694e89855145d497ca3d13/assets/images/flag.svg?1721294226)
 
 Language: EN
 
@@ -605,15 +599,19 @@ Subscribe to newsletter Unsubscribe from newsletter
 
 Email address\* 
 
+Subscribe
+
 Privacy \*
 
  By selecting continue you confirm that you have read our [data protection information](https://www.medicalspareparts.com/widgets/cms/bd97d78a319043d69c4241acb837f744 "Data protection information") and accepted our [general terms and conditions](https://www.medicalspareparts.com/widgets/cms/b453a7477de949b4adcb37f018d2ffea "general terms and conditions").
+
+Reviews
 
 * [Facebook](https://www.facebook.com/MSP-Group-105409932037027 "Facebook")
 * [Instagram](https://www.instagram.com/msp_medical/ "Instagram")
 * [Twitter](https://twitter.com/MedicalMsp "Twitter")
 * [YouTube](https://www.youtube.com/channel/UCeFLTe6Aqj8KWrctuVvjXew "YouTube")
-* [WhatsApp](https://wa.me/31683508900 "WhatsApp")
+* [WhatsApp](https://wa.me/31630943796 "WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/msp-medical/about/ "LinkedIn")
 
 * [About MSP](https://msp-medical.com/general/about-msp/ "About MSP")
