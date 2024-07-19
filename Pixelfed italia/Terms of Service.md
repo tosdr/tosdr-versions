@@ -73,4 +73,4 @@ Pixelfed è gestito dal gruppo [devol](https://devol.it/), gestore anche delle i
 
 [Informazioni](https://pixelfed.uno/site/about) [Aiuto](https://pixelfed.uno/site/help) [Termini](https://pixelfed.uno/site/terms) [Privacy](https://pixelfed.uno/site/privacy) [Lingua](https://pixelfed.uno/site/language)
 
-© 2024 pixelfed.uno · [Powered by Pixelfed](https://pixelfed.org/) · v0.12.1
+© 2024 pixelfed.uno · [Powered by Pixelfed](https://pixelfed.org/) · v0.12.3
