@@ -436,8 +436,8 @@ Customer Services
 * [Shipping Policy](https://gentleherd.com/shipping-policy/)
 * [Exchange & Return](https://gentleherd.com/return-policy/)
 * [Recyclable Package](https://gentleherd.com/recyclable-package/)
-* [Gift Card](https://gentleherd.com/product-category/card/)
 * [Klarna FAQ](https://gentleherd.com/klarnafaq/)
+* [Intellectual Property Rights](https://www.gentleherd.com/intellectual-property-rights/)
 
 Company
 
@@ -445,7 +445,6 @@ Company
 * [FAQs](https://gentleherd.com/faqs/)
 * [Terms Of Service](https://gentleherd.com/terms-of-service/)
 * [Privacy Policy](https://gentleherd.com/privacy-policy/)
-* [Wholesale](https://gentleherd.com/wholesale/)
 * [Affiliate](https://gentleherd.com/affiliate/)
 * [Influencer](https://gentleherd.com/influencer/)
 
@@ -647,4 +646,4 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427509f553d-7533-4efe-8f7e-669fdfe15b9f&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427254219ed-2df3-4fcd-8d43-a2767acd5472&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fprivacy-policy%2F&cd%5Buser_role%5D=guest)
