@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Awesome, great service as always!
+I have always appreciated the responsiveness and helpfulness of you guys at FoxyProxy. That's why I have stayed with you as a customer for so long. The new service is an excellent example of your helpfulness. I wish pharmaceutical and insurance companies were as helpful!
 
-Guy Cracknell
+Tim Coutts
