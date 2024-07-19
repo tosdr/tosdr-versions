@@ -50,7 +50,9 @@ Reviewing NHS services (including hospitals, GP practices and dentists)
 
 You can leave an anonymous review. You should respect the anonymity of other patients and staff at the service you are reviewing by not mentioning their names or anything that may identify them.
 
-The "Leave a review" feature available on many NHS service provider profiles on the NHS website allows you to review the service you received, or the service you witnessed a friend or a family member receiving. This is not a formal complaint procedure. [Find out how to complain to the NHS](https://www.nhs.uk/give-feedback-about-the-nhs-website/how-to-complain-to-the-nhs/).
+The "Leave a review" feature available on many NHS service provider profiles on the NHS website allows you to review the service you received, or the service you witnessed a friend or a family member receiving. This is not a formal complaint procedure.
+
+[Find out feedback and complaints about NHS services on the NHS England website](https://www.england.nhs.uk/contact-us/feedback-and-complaints/complaint/)
 
 NHS trusts and the service providers are not obliged to read or respond to reviews, though many do. If you want a reply to your feedback you should contact the provider of the NHS service directly or alternatively contact the commissioner of the service, such as NHS England or your local integrated care board (ICB)..
 
