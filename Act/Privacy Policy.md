@@ -62,7 +62,7 @@ Main Notice
 
 **Scope of this Notice**
 
-At ACT\* (“ACT,” “we,” “us”) we recognize the importance of protecting the privacy of your personal information.
+At ACT Education Corp. (“ACT,” “we,” “us”) we recognize the importance of protecting the privacy of your personal information.
 
 This Notice explains how ACT collects, uses, maintains, and shares your information when you:
 
@@ -130,6 +130,8 @@ Each category of personal information collected by ACT may be used to:
     * Investigate, prevent, act on, or respond to suspected or actual test security or score validity concerns;
 * Conduct internal research and analysis, including to inform public policy and advocacy; provided that if such research is published or reported, for example to educational institutions, state agencies, or businesses, this use only includes information that ACT maintains in an aggregate or de-identified form, such that it does not constitute personal information.
 
+ACT only processes your sensitive data to administer, review, or improve ACT’s Products and communicate with you about the same, for its internal operations, and to conduct internal research and analysis, including to inform public policy and advocacy.
+
 #### Marketing
 
 ACT uses your contact information, education and job information, and device information to contact you regarding ACT Products. If you receive a marketing email from ACT, you will be provided instructions on how to opt out of receiving further marketing communications by email. If you opt-out of receiving marketing communications, you will still receive transactional communications by email about your use of ACT Products, for example, confirmation of your registration and receipt of your scores.  
@@ -184,25 +186,6 @@ If you are an EEA resident and you wish to report a complaint or if you feel tha
 
 here: [https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
 
-**Sensitive Data Consent**
-
-With your consent, ACT processes your sensitive data to administer, review, or improve ACT’s Products and communicate with you about the same, and to conduct internal research and analysis, including to inform public policy and advocacy.
-
-Your race/ethnicity is not required for ACT to provide the ACT Products to you.  If you do not consent to the processing of  
-this information, ACT will not collect it.
-
-All personal information from children under 13 is sensitive data and some of this information is required for ACT to provide the ACT Products to you (or your child).  In connection with collecting this information, ACT will indicate information that is mandatory and the information that is optional. If you do not provide mandatory personal information, such as your contact information, you may not be able to use, access or benefit from ACT’s Products.
-
-Consent may be withdrawn by contacting ACT Customer Service at 1-800-498-6065 or [customerservices@act.org](mailto:customerservices@act.org).
-
-Only you, or someone legally authorized to act on your behalf, may withdraw consent related to processing of your sensitive personal information. 
-
-If you would like to designate an agent to act on your behalf, you and the agent will be required to provide us with proof of the agent’s identity and proof that you gave the agent signed permission to submit a request on your behalf. Additionally, you will be required to verify your identity by providing us with certain personal information as described above in the Access, Correction, and Deletion section or provide us with written confirmation that you have authorized the agent to act on your behalf. 
-
-We cannot respond to your withdrawal of consent if we cannot verify your identity or authority to make the request and confirm that the personal information relates to you.
-
-We will only use personal information provided in the withdrawal to verify the requestor’s identity or authority to make it.
-
 #### Retention of Information
 
 ACT will retain your information for as long as necessary to fulfill any of the uses identified in this Privacy Notice or to comply with applicable legal obligations.  
@@ -248,9 +231,7 @@ ACT collects your personal information so that we can use the information as des
 
 ACT may use automated means to make decisions about you, including scoring assessments, assigning you a testing location, and carrying out test security. ACT will only use such automated means as (1) necessary for the performance of its contract with you to provide the ACT Products, or (2) as explicitly consented to by you.
 
-\*Impact Asset Corp., a Delaware Corporation and wholly owned indirect subsidiary of Gateway Impact Corp., a Delaware Public Benefit Corporation (“ACT”)
-
-_Last Updated: May 1, 2024_
+_Last Updated: July 12, 2024_
 
 [![Link to Home Page](/etc/designs/act/clientlibs/act-base/img/logo-act-rev-300.png)](https://www.act.org/)
 
