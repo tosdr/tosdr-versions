@@ -1,8 +1,4 @@
-We use cookies to improve your journey and to personalize your web experience. By clicking “Accept All”, you consent to our website’s use of cookies to give the most relevant experience by remembering your preferences and repeat visits. You can use “Customize” to set up your cookie preferences. You can read our cookie policy to understand more about how we use cookies.  [Read More](https://www.inmobi.com/cookie-policy/)
-
-DeclineCustomizeAccept All
-
-[![InMobi](https://web.inmobicdn.net/website/website/6.0.1/ui/uploads/misc/InMobi_Logo_Colour.svg)](https://www.inmobi.com/)
+[InMobi Advertising![InMobi Advertising Logo](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/inmobi-adv-logo.svg)](https://www.inmobi.com/)
 
 * For Advertisers
     
@@ -13,22 +9,19 @@ DeclineCustomizeAccept All
         Reach audiences programmatically on in-app inventory](https://www.inmobi.com/exchange)
     * [### DSP
         
-        Scale mobile growth with an outcome-driven platform](https://www.inmobi.com/dsp)
+        Managed Service DSP for Performance](https://www.inmobi.com/dsp)
     
     * ### UNDERSTAND AND IDENTIFY
         
     * [### Audiences
         
         Fuel campaign performance with laser-focused targeting](https://www.inmobi.com/audiences)
-    * [### Pulse
-        
-        Uncover market and customer insights](https://www.inmobi.com/pulse)
     
 * For Publishers
     
     * [### Mobile Monetization
         
-        \`Monetize your mobile apps and websites effortlessly with InMobi](https://www.inmobi.com/mobile-in-app-monetization)
+        Monetize your mobile apps and websites effortlessly with InMobi](https://www.inmobi.com/mobile-in-app-monetization)
     * [### UnifID
         
         Maximize your addressability through our industry-first identity solution](https://www.inmobi.com/unifid)
@@ -38,7 +31,7 @@ DeclineCustomizeAccept All
     
     * [### Ad Formats
         
-        Minimize churn with InMobi’s high-impact ad formats](https://www.inmobi.com/ad-experience)
+        Minimize churn with InMobi's high-impact ad formats](https://www.inmobi.com/ad-experience)
     * [### InMobi SDK
         
         Monetize with InMobi's lightweight ad SDK](https://www.inmobi.com/sdk)
@@ -46,30 +39,21 @@ DeclineCustomizeAccept All
         
         Foster trust and unlock revenue with our CMP](https://www.inmobi.com/cmp)
     
-* For Retail Media
+* Company
     
-    * [### Retailers
+    * [### About Us
         
-        Monetize your media and your secured data](https://www.inmobi.com/retail-media)
-    
-* For Telcos
-    
-    * [### Telco Solutions
+        Hear our story](https://www.inmobi.com/company)
+    * [### Leadership Team
         
-        Technology and products for growth](https://www.inmobi.com/telco-solutions)
+        Meet our management team](https://www.inmobi.com/company/leadership/)
     
-* Our Consumers
-    
-    * [### Glance![Glance](/_next/image?url=https%3A%2F%2Fweb.inmobicdn.net%2Fwebsite%2Fwebsite%2F6.0.1%2Fuploads%2Fmisc%2Fglance_logo.png&w=3840&q=75)
+    * [### Press Center
         
-        The smart lock screen platform](https://www.glance.com/?utm_source=InMobiweb&utm_medium=Referral+)
-    * [### Roposo![Glance Roposo](https://web.inmobicdn.net/website/website/6.0.1/ui/uploads/misc/roposo_logo_latest.png)
+        News and media content for press](https://www.inmobi.com/company/press)
+    * [### Careers
         
-        Live entertainment platform](https://www.roposo.com/?utm_source=InMobiweb&utm_medium=Referral+)
-    
-    * [### Nostra![Nostra](https://web.inmobicdn.net/website/website/6.0.1/ui/uploads/misc/nostra_logo_latest.png)
-        
-        Mobile gaming platform](https://nostra.gg/?utm_source=InMobiweb&utm_medium=Referral+)
+        Join our growing team](https://www.inmobi.com/company/careers/)
     
 * Resources
     
@@ -78,58 +62,55 @@ DeclineCustomizeAccept All
         Ideas and insights for marketing success](https://www.inmobi.com/resources)
     * [### InMobi University
         
-        Education platform for marketers and publishers](https://www.inmobi.com/inmobiu/)
+        Education platform for marketers and publishers](https://www.inmobi.com/inmobiu)
     
     * [### Support Center
         
         Find articles, help and advice](https://support.inmobi.com/)
-    * [### Contact us
+    * [### Contact Us
         
-        Get in touch](https://www.inmobi.com/company/contact/)
+        Get in touch](https://www.inmobi.com/company/contact)
     
 
-* [GET STARTED](https://www.inmobi.com/products)
-* 
-* ![Navigation Menu](https://web.inmobicdn.net/website/website/6.0.1/v6/img/app-drawer.svg)Login  
-    
-    * [Pulse](https://pulse.inmobi.com/)
-    * [In-App Monetization](https://publisher.inmobi.com/signup)
-    
-
-[Terms & Conditions](https://www.inmobi.com/exchange-terms)[Terms & Conditions](https://www.inmobi.com/exchange-terms)
+[Terms & Conditions](https://www.inmobi.com/exchange-terms)
 
 #### General
 
-* [Content Guidelines Advertisers](https://www.inmobi.com/content-guidelines-advertisers/)
-* [Privacy Policy](https://www.inmobi.com/privacy-policy/)
-* [Cookie Policy](https://www.inmobi.com/cookie-policy/)
-* [COPPA](https://www.inmobi.com/coppa-terms/)
-* [Security](https://www.inmobi.com/security/)
-* [Trust and Safety](https://www.inmobi.com/trust-and-safety/)
+* [Content Guidelines Advertisers](https://advertising.inmobi.com/content-guidelines-advertisers/)
+* [Privacy Policy](https://advertising.inmobi.com/privacy-policy/)
+* [Cookie Policy](https://advertising.inmobi.com/cookie-policy/)
+* [COPPA](https://advertising.inmobi.com/coppa-terms/)
+* [Security](https://www.inmobi.com/security)
+* [Trust and Safety](https://advertising.inmobi.com/trust-and-safety/)
 * [Opt-Out](https://www.inmobi.com/page/opt-out/)
 
-#### [Publisher Policy](https://www.inmobi.com/publisher-policy/)
+#### [Publisher Policy](https://advertising.inmobi.com/publisher-policy/)
 
-* [InMobi CMP Terms of Service](https://www.inmobi.com/cmp-terms/)
-* [Content Guidelines Publishers](https://www.inmobi.com/content-guidelines-publishers/)
-* [InMobi Sanctions Compliance](https://www.inmobi.com/sanctions-compliance/)
+* [InMobi CMP Terms of Service](https://advertising.inmobi.com/cmp-terms/)
+* [Content Guidelines Publishers](https://advertising.inmobi.com/content-guidelines-publishers/)
+* [InMobi Sanctions Compliance](https://advertising.inmobi.com/sanctions-compliance/)
 
 #### GDPR
 
-* [Privacy Policy for EEA](https://www.inmobi.com/privacy-policy-for-eea/)
-* [Data Subject / Consumer Request Policy](https://www.inmobi.com/data-subject-consumer-request-policy/)
+* [Privacy Policy for EEA](https://advertising.inmobi.com/privacy-policy-for-eea/)
+* [Data Subject / Consumer Request Policy](https://advertising.inmobi.com/data-subject-consumer-request-policy/)
 
 InMobi Exchange Participation Program Terms ("Exchange Terms")
 --------------------------------------------------------------
 
-#### For Advertisers
+Follow Us[Facebook![Facebook](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/fb_button.svg)](https://www.facebook.com/inmobi)[Youtube![Youtube](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/yt_button.svg)](https://www.youtube.com/@inmobitv/)[Linkedin![Linkedin](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/linkedin_button.svg)](https://www.linkedin.com/company/272972?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A272972%2Cidx%3A2-1-4%2CtarId%3A1473328119417%2Ctas%3Ainmobi)
 
-* [Pulse](https://www.inmobi.com/pulse)
+[InMobi Advertising![InMobi Advertising](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/InMobi_Advertising_logo_grey.svg)](https://www.inmobi.com/)
+
+[IAB![iab](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/iab.svg)](http://www.iab.net/)[MMA![MMA](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/MMA.svg)](http://www.mmaglobal.com/)[IAB Tech Lab![IAB Tech Lab](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/iab_tech_labs.svg)](https://iabtechlab.com/)[Fraud Defence![Fraud Defence](https://web.inmobicdn.net/website/website/6.0.1/advertising-inmobi-images/tag.svg)](https://www.tagtoday.net/certified-against-fraud-program/)[Adjust Partner Benchmarks![Adjust Partner Benchmarks](/_next/image?url=https%3A%2F%2Fweb.inmobicdn.net%2Fwebsite%2Fwebsite%2F6.0.1%2Fadvertising-inmobi-images%2Fadjust-benchmark.png&w=96&q=100)](https://insights.adjust.com/network-rankings/)
+
+For Advertisers
+
 * [Audiences](https://www.inmobi.com/audiences)
 * [Exchange](https://www.inmobi.com/exchange)
 * [DSP](https://www.inmobi.com/dsp)
 
-#### For Publishers
+For Publishers
 
 * [Mobile Monetization](https://www.inmobi.com/mobile-in-app-monetization)
 * [UnifID](https://www.inmobi.com/unifid)
@@ -138,41 +119,34 @@ InMobi Exchange Participation Program Terms ("Exchange Terms")
 * [InMobi SDK](https://www.inmobi.com/sdk)
 * [InMobi CMP](https://www.inmobi.com/cmp)
 
-#### Company
+Company
 
-* [About Us](https://www.inmobi.com/company/)
+* [About Us](https://www.inmobi.com/company)
 * [Leadership Team](https://www.inmobi.com/company/leadership/)
-* [Advisory Board](https://www.inmobi.com/company/customer-advisory-board/)
 * [Press Center](https://www.inmobi.com/company/press)
 * [Careers](https://www.inmobi.com/company/careers/)
 * [InMobi University](https://www.inmobi.com/inmobiu/)
 
-#### Resources
+Resources
 
 * [Resources](https://www.inmobi.com/resources)
 * [Case Studies](https://www.inmobi.com/case-study)
 * [Blog](https://www.inmobi.com/blog)
-* [Webinars](https://www.inmobi.com/insights/webinars)
-* [Reports](https://www.inmobi.com/insights/reports)
+* [Webinars](https://www.inmobi.com/webinars)
+* [Reports](https://www.inmobi.com/reports)
 
-#### Support
+Support
 
 * [Support Center](https://support.inmobi.com/)
 * [Contact Us](https://www.inmobi.com/company/contact/)
 
-* [Facebook](https://www.facebook.com/inmobi)
-* [Youtube](https://www.youtube.com/@inmobitv/)
-* [Linkedin](https://www.linkedin.com/company/272972?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A272972%2Cidx%3A2-1-4%2CtarId%3A1473328119417%2Ctas%3Ainmobi)
+* [InMobi Privacy Policy (Advertising)](https://www.inmobi.com/privacy-policy/)
+* [Opt-Out](https://www.inmobi.com/page/opt-out/)
+* [InMobi Cookie Policy (Ad network and channels)](https://www.inmobi.com/cookie-policy/)
 
-[IAB](http://www.iab.net/)[MMA](http://www.mmaglobal.com/)
-
-[IAB Tech Lab](https://iabtechlab.com/)[Fraud Defence](https://www.tagtoday.net/certified-against-fraud-program/)
-
-[Adjust Partner Benchmarks](https://insights.adjust.com/network-rankings/)
-
-[Privacy Policy](https://www.inmobi.com/privacy-policy/)|[Supplier Code of Conduct](https://www.inmobi.com/supplier-code-of-conduct)|[Website Privacy Policy](https://www.inmobi.com/website-privacy-policy/)|[Opt-Out](https://www.inmobi.com/page/opt-out/)|[Do Not Sell My Personal Data](https://www.inmobi.com/page/opt-out/#data-based-opt-out)|[Security](https://www.inmobi.com/security/)|[Cookie Policy](https://www.inmobi.com/cookie-policy/)|[Advertiser Terms](https://www.inmobi.com/advertiser-terms/)
-
-[](https://www.inmobi.com/)
+* [Supplier Code of Conduct](https://www.inmobi.com/supplier-code-of-conduct)
+* [Do Not Sell My Personal Data](https://www.inmobi.com/page/opt-out/#data-based-opt-out)
+* [Advertiser Terms](https://www.inmobi.com/advertiser-terms/)
 
 © 2024 InMobi
 
