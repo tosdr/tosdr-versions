@@ -49,13 +49,6 @@ Your internet provider can monitor what you do online.
 Privacy Policy
 ==============
 
-The below privacy policy is effective as of July 12, 2024. Previous policy may be found [here](https://www.ovpn.com/en/old-privacy-policy).
-
-* * *
-
-  
-  
-
 Last Updated: June 2024
 
 At OVPN Integritet AB (“**OVPN**”, “**we**”, “**our**”, or “**us**”), your privacy is of the utmost importance. In 2023, OVPN was acquired by the Pango Group (“**Pango**”). You can learn more about Pango at www.pangoholdingcompany.com
