@@ -1202,6 +1202,12 @@ CHANCE Get Yours SAS
 
 22 avenue Blaise Pascal 60000 BEAUVAIS
 
+CHANCE Get Yours SAS
+
+809 500 663 RCS BEAUVAIS
+
+22 avenue Blaise Pascal 60000 BEAUVAIS
+
 
 
 NOM DU COOKIE FINALITÉ DURÉE DE CONSERVATION
@@ -1224,13 +1230,105 @@ de nos sites internet et de faire
 
 des analyses
 
+comportementales pour
+
+améliorer l’expérience
+
+utilisateur et identifier les bugs
+
+de navigation.
+
+
+
 1 an
 
-CHANCE Get Yours SAS
 
-809 500 663 RCS BEAUVAIS
 
-22 avenue Blaise Pascal 60000 BEAUVAIS
+Google Ads Permet de mesurer la
+
+performance de nos
+
+campagnes publicitaires et
+
+effectuer du re-ciblage.
+
+
+
+390 jours
+
+
+
+Google Analytics Permet de mesurer l’audience
+
+de nos sites internet et de faire
+
+des analyses
+
+comportementales pour
+
+améliorer l’expérience
+
+utilisateur et identifier les bugs
+
+de navigation.
+
+
+
+390 jours
+
+
+
+Calendly Cookie fonctionnel.
+
+21 jours
+
+
+
+Facebook / Meta Permet de mesurer la
+
+performance de nos
+
+campagnes publicitaires et
+
+effectuer du re-ciblage.
+
+
+
+260 jours
+
+
+
+Segment Permet de mesurer l’audience
+
+de nos sites internet et de faire
+
+des analyses
+
+comportementales pour
+
+améliorer l’expérience
+
+utilisateur et identifier les bugs
+
+de navigation.
+
+
+
+1 an
+
+
+
+Tiktok Permet de mesurer la
+
+performance de nos
+
+campagnes publicitaires et
+
+effectuer du re-ciblage.
+
+
+
+390 jours
 
 10\. Sécurité des données personnelles
 
@@ -1277,3 +1375,15 @@ CHANCE Get Yours SAS
 809 500 663 RCS BEAUVAIS
 
 22 avenue Blaise Pascal 60000 BEAUVAIS
+
+
+
+Typeform Cookie fonctionnel.
+
+7 jours
+
+
+
+Youtube Cookie fonctionnel.
+
+6 mois
