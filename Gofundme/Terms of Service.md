@@ -28,7 +28,7 @@
 
 [Start a GoFundMe](https://www.gofundme.com/create/fundraiser) [Sign In](https://www.gofundme.com/sign-in)
 
-[Search](https://www.gofundme.com/s?q=)[](https://www.gofundme.com/s?q=)
+[Search](https://www.gofundme.com/s)[](https://www.gofundme.com/s)
 
 For Individuals
 
@@ -79,6 +79,8 @@ GoFundMe Terms of Service
 
 Questions about our terms? [Contact Us](https://support.gofundme.com/hc)
 ------------------------------------------------------------------------
+
+Our Terms of Service will be updated, and our updated Terms of Service will be effective starting on August 1, 2024. To view the updated Terms of Service, [click here](https://www.gofundme.com/c/gofundme-terms-of-service).
 
 **Date of Last Revision: January 11, 2024**
 
