@@ -93,7 +93,7 @@ Tools & Services
 * [PrepWise](https://www.cna.com/web/guest/cna/risk-control/prepwise)
 * [Allied Vendors](https://www.cna.com/web/guest/cna/risk-control/allied-vendors)
 * [Lawyers Allied Vendor Program](https://www.cna.com/web/guest/cna/risk-control/lawyers-allied-vendor-program)
-* [Beyond HR](http://www.cnabeyondhr.com/)
+* [Beyond HR](https://cnabeyondhr.portal.zywave.com/Landing)
 * [e-Talks](https://www.cna.com/web/guest/cna/microsite/risk-control-e-talks/welcome)
 
 Education
@@ -219,7 +219,7 @@ Tools & Services
 * [PrepWise](https://www.cna.com/web/guest/cna/risk-control/prepwise)
 * [Allied Vendors](https://www.cna.com/web/guest/cna/risk-control/allied-vendors)
 * [Lawyers Allied Vendor Program](https://www.cna.com/web/guest/cna/risk-control/lawyers-allied-vendor-program)
-* [Beyond HR](http://www.cnabeyondhr.com/)
+* [Beyond HR](https://cnabeyondhr.portal.zywave.com/Landing)
 * [e-Talks](https://www.cna.com/web/guest/cna/microsite/risk-control-e-talks/welcome)
 
 Education
