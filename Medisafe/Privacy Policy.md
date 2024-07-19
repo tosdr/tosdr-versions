@@ -47,7 +47,7 @@
 
 ![](https://medisafe.com/wp-content/uploads/2021/12/close.svg)
 
-*   
+*  
     
     ##### [Technology & Innovation](https://www.medisafe.com/technology-innovation/ "Technology & Innovation")
     
@@ -459,7 +459,5 @@ Boston, MA
     * [Infographics](https://www.medisafe.com/education-resources/?_categories=infographics)
     * [Mediscoveries](https://www.medisafe.com/education-resources/?_categories=mediscoveries)
 * [Download App](https://www.medisafe.com/download-medisafe-app)
-
-                
 
 ![](https://px.ads.linkedin.com/collect/?pid=46097&fmt=gif)
