@@ -1,65 +1,107 @@
-M
+[###### Faria Education Group](https://www.faria.org/)
 
-Search
+[Book Demo](#)
 
-[![FariaOne](https://www.faria.org/wp-content/uploads/2021/03/cropped-feg_icon-01.png)](https://www.faria.org/)
+[ManageBac](https://www.managebac.com/?title=schedule-demo&tab-modal=nonmb) [OpenApply](https://www.openapply.com/?title=schedule-demo) [Atlas](https://www.onatlas.com/schedule-demo) [SchoolsBuddy](https://www.schoolsbuddy.com/?title=schedule-demo) [Pamoja](https://pamojaeducation.com/?title=book-a-free-consultant)
 
-* [Learning](https://www.faria.org/learning)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/dp-icon-1.svg)Diploma](https://www.faria.org/learning/diploma)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/cp-icon.png)Career-Related](https://www.faria.org/learning/career)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/myp-icon.svg)Middle Years](https://www.faria.org/learning/middle)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/pyp-icon.svg)Primary Years](https://www.faria.org/learning/primary)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/igcse-icon.svg)Cambridge](https://www.faria.org/learning/c1)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/A-Levels.svg)Advanced Level](https://www.faria.org/learning/c1)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/ap-icon.svg)AP](https://www.faria.org/learning/c1)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/c1.png)Build-your-Own Curriculum](https://www.faria.org/learning/buildyourown)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/7B740977-FE7A-4F5F-87BD-4188E3702D8D.png)Mobile](https://www.faria.org/learning/mobile)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/6B8AA6C5-0FD4-43C8-A8F2-F662805A71F4.png)AssessPrep](https://www.faria.org/learning/exams)
-* [Admissions](https://www.faria.org/admissions)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Admissions.png)Admissions Management](https://www.faria.org/admissions/management)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/oa-crm-icon.png)CRM](https://www.faria.org/admissions/crm)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/oa-directory-ico.png)Schools Directory](https://www.faria.org/admissions/directory)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/idat-logo.png)Admissions Testing](https://www.faria.org/admissions/testing)
-* [School-to-Home](https://www.faria.org/schoolhome)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/icon-active-management.png)Activities Management](https://www.faria.org/schoolhome/activities-management)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/icon-micropayment.png)Micropayments & Billing](https://www.faria.org/schoolhome/online-payments)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Event-Sport-And-Trip-Management-1.png)Events, Sports & Trips](https://www.faria.org/schoolhome/event-management)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Parent-Teacher-Conferences-1.png)Parent Teacher Conferences](https://www.faria.org/schoolhome/parent-conferences)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Transport-System-1.png)Transport & Dismissal](https://www.faria.org/schoolhome/school-transport-system)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Parent-Communications-1.png)Parent Communications](https://www.faria.org/schoolhome/parent-communications-software)
-    * [![](https://www.faria.org/wp-content/uploads/2021/05/Booking-SB-ico.png)School Bookings](https://www.faria.org/schoolhome/school-bookings)
-    * [![](https://www.faria.org/wp-content/uploads/2022/01/icon-mobile.png)Mobile](https://www.faria.org/schoolhome/mobile)
-* [Online Courses](https://www.faria.org/online)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/214E3799-D07E-4207-A64E-7FFBD7E288B9.png)IB Diploma](https://www.faria.org/online/ib)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Group-64.png)IB Diploma Lesson Suite](https://www.faria.org/online/lesson-suite)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Pamoja-icon@2x.png)About Pamoja](https://pamojaeducation.com/about)
-* [Study](https://www.faria.org/study)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/osc-study-ico-1.png)OSC Study](https://www.faria.org/study)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Tutor.png)OSC Tutor](https://www.faria.org/study/tutor)
-    * [![](https://www.faria.org/wp-content/uploads/2021/03/Courses.png)OSC Courses](https://www.faria.org/study/courses)
-* [Help![](https://www.faria.org/wp-content/uploads/2021/03/icon-help-blue.svg)](https://help.faria.org/)
-* [Contact Sales](https://www.faria.org/contactsales)
-* Login
-    * [ManageBac](https://www.managebac.com/login)
-    * [OpenApply](http://openapply.com/login)
-    * [SchoolsBuddy](https://www.schoolsbuddy.com/login)
-    * [Pamoja](https://pamojaeducation.com/login)
-    * [OSC](https://oxfordstudycourses.openapply.com/parents/sign_in)
+[Book Demo](#)
 
-Select Page
+[ManageBac](https://www.managebac.com/?title=schedule-demo&tab-modal=nonmb) [OpenApply](https://www.openapply.com/?title=schedule-demo) [Atlas](https://www.onatlas.com/schedule-demo) [SchoolsBuddy](https://www.schoolsbuddy.com/?title=schedule-demo) [Pamoja](https://pamojaeducation.com/?title=book-a-free-consultant)
+
+Solutions About Us
+
+[###### Learning
+
+auto\_stories
+
+All-in-one learning platform.
+
+ManageBac](https://www.faria.org/#managebac)[###### Curriculum Management
+
+local\_library
+
+Plan, manage and analyse curriculum and lessons.
+
+Atlas](https://www.faria.org/#onatlas)
+
+[###### Admissions
+
+pending\_actions
+
+School admissions, advancement and CRM.
+
+OpenApply](https://www.faria.org/#openapply)[###### School-to-Home
+
+departure\_board
+
+Activities bookings, billing and transport.
+
+SchoolsBuddy](https://www.faria.org/#schools-buddy)
+
+###### Online Courses cast\_for\_education
+
+[###### Learning
+
+auto\_stories
+
+Full IB Diploma online courses for schools. Approved by the IB.
+
+Pamoja](https://www.faria.org/#pamoja)[###### Curriculum Planing
+
+local\_library
+
+Full Cambridge online courses for schools and homeschooling. Established in 1894.
+
+Wolsey Hall](https://www.faria.org/#wolsey-hall)
+
+ABOUT US
+
+* [Company](https://www.faria.org/company)
+* [Faria Leadership](https://www.faria.org/team)
+* [Faria Community](https://community.faria.org/)
+* [Newsroom](https://www.faria.org/news)
+* [Contact Us](#)
+
+RESOURCES
+
+* [Events, PD & Workshop](https://events.faria.org/)
+* [Help & Support](https://help.faria.org/hc/en-us)
+* [Security & Data Protection](https://www.faria.org/secure)
+* [AI Acceptable Usage Policy](https://www.faria.org/ai-acceptable-usage-policy)
+* [Case Studies](#)
+    
+    * [ManageBac](https://www.managebac.com/resource-library?c=case-study)
+    * [OpenApply](https://www.openapply.com/resource-library?c=case-studies)
+    * [Atlas](https://www.onatlas.com/resource-library?c=case-studies)
+    * [SchoolsBuddy](https://www.schoolsbuddy.com/resource-library?c=case-studies)
+    * [Pamoja](https://pamojaeducation.com/resource-library?c=case-studies)
+    
+
+WHAT'S NEW
+
+###### IB Global Conference
+
+We at ManageBac are excited to be a Global Sponsor of the IB Global Conference hosted in Washington, D.C.
+
+[_Register Now_ call\_made](https://www.managebac.com/global-conference)
 
 Terms, Policies & Agreements
 ============================
 
 These terms & policies explain our legal relationship with you.
 
-* [![](/wp-content/uploads/2021/04/FariaOne@2x.png)](https://www.faria.org/terms-of-service)
+* [![](https://faria.s3.amazonaws.com/Marketing/public-site/images/FariaOne%402x.png)](https://www.faria.org/terms-of-service)
 * [![](https://www.faria.org/wp-content/uploads/2022/03/ManageBac@2x-1-1.png)](https://www.faria.org/terms/managebac/terms/terms-of-service)
 * [Terms of Service](https://www.faria.org/terms/managebac/terms/terms-of-service)
+* [Services Addendum](https://www.faria.org/terms/managebac/terms/services-addendum)
+* [Customer Obligations](https://www.faria.org/terms/managebac/terms/customer-obligations)
 * [Terms of Use](https://www.faria.org/terms/managebac/terms/terms-of-use)
 * [Privacy Policy](https://www.faria.org/terms/managebac/terms/privacy-policy)
-    * [GDPR Privacy & Data Protection Addendum](https://www.faria.org/terms/managebac/terms/privacy-policy/gdpr-privacy-data-protection-addendum)
-    * [FERPA Privacy & Data Protection Addendum](https://www.faria.org/terms/managebac/terms/privacy-policy/ferpa-privacy-data-protection-addendum)
+
+* [GDPR Privacy & Data Protection Addendum](https://www.faria.org/terms/managebac/terms/privacy-policy/gdpr-privacy-data-protection-addendum)
+* [FERPA Privacy & Data Protection Addendum](https://www.faria.org/terms/managebac/terms/privacy-policy/ferpa-privacy-data-protection-addendum)
+
+* [KCSIE Compliance](https://www.faria.org/terms/managebac/terms/kcsie-compliance)
 * [COPPA Disclosure](https://www.faria.org/terms/managebac/terms/coppa-disclosure)
 * [Parental Consent](https://www.faria.org/terms/managebac/terms/parental-consent)
 * [Service Level Agreement](https://www.faria.org/terms/managebac/terms/service-level-agreement)
@@ -68,10 +110,10 @@ These terms & policies explain our legal relationship with you.
 * [Cookie Policy](https://www.faria.org/terms/managebac/terms/cookie-policy)
 * [AI Acceptable Usage Policy](https://www.faria.org/terms/managebac/terms/ai-acceptable-usage-policy)
 
-[Terms](https://www.faria.org/terms) [ManageBac](https://www.faria.org/terms/managebac) Privacy Policy
+[Terms](https://www.faria.org/terms-of-service) arrow\_right [ManageBac](https://www.faria.org/terms/managebac/terms/terms-of-service) arrow\_right [Privacy Policy](https://www.faria.org/terms/managebac/terms/privacy-policy) arrow\_right Privacy Policy
 
-**Global Privacy Notice**
-=========================
+Global Privacy Notice
+---------------------
 
 As a leading provider of integrated education systems, the privacy and security of individuals about whom we process personal data is critical to us. This Global Privacy Notice (“notice”) explains how we manage and protect your personal data (referred to as “data”) when you visit our website (“Visitor”) or use our learning platform services either as a representative of a School to which we provide services (“School User”) or a student or parent of a school which uses our services (a “Service User”). If you are a Service User, for the majority of personal data we process about you, we are a processor and therefore act on behalf of your school and as directed by them. We recommend that you review your school’s privacy notice to understand how your school manages your personal data.
 
@@ -262,191 +304,189 @@ _If you would like to receive a copy of the information relating to the safeguar
 
 Last modified on April 2nd 2021.
 
-**[FariaOne](https://www.faria.org/)**
+Begin your Faria journey today and join over 10,000 leading schools worldwide.
+------------------------------------------------------------------------------
 
-* [Systems](https://www.faria.org/)
+[Book Demo](#)
 
-**[Admissions](https://openapply.com/)**
+[ManageBac](https://www.managebac.com/?title=schedule-demo&tab-modal=nonmb) [OpenApply](https://www.openapply.com/?title=schedule-demo) [Atlas](https://www.onatlas.com/schedule-demo) [SchoolsBuddy](https://www.schoolsbuddy.com/?title=schedule-demo) [Pamoja](https://pamojaeducation.com/?title=book-a-free-consultant)
 
-* [International Schools](https://openapply.com/international-schools)
-* [Independent Schools](https://openapply.com/independent-schools)
-* [New Schools](https://openapply.com/new-schools)
-* [Greater China](https://openapply.com/greater-china)
-* [School Groups](https://openapply.com/school-groups)
-* [CRM](https://www.openapply.com/crm-features)
-* [Admissions Benchmarking](https://openapply.com/admissions-benchmarking)
-* [Admissions Bulletin](https://openapply.com/bulletin)
-* [Admissions Testing (IDAT)](https://openapply.com/idat)
-* [Schools Directory](https://search.openapply.com/for_schools) New
+[Contact Us](#)
 
-**[Learning](https://www.managebac.com/)**
+[###### Faria Education Group](https://www.faria.org/)
 
-* [IB Diploma](https://www.managebac.com/diploma)
-* [IB Career-Related](https://www.managebac.com/career-programme)
-* [IB Middle Years](https://www.managebac.com/ib-myp)
-* [IB Primary Years](https://www.managebac.com/ib-pyp)
-* [IGCSE & A Levels](https://www.managebac.com/multicurricula)
-* [Advanced Placement](https://www.managebac.com/multicurricula)
-* [Curriculum First](https://www.managebac.com/multicurricula)
-* [Mobile](https://www.managebac.com/mobile)
-* [Online Exams](https://www.managebac.com/assessprep)
-* [Remote Learning](https://www.managebac.com/integrated-remote-learning)
-* [Atlas](https://www.onatlas.com/)
+Products
 
-**[School-to-Home](https://www.schoolsbuddy.com/)**
+[ManageBac](https://www.managebac.com/)
 
-* [Activities Management](https://www.schoolsbuddy.com/activities-management/)
-* [Micropayments & Billing](https://www.schoolsbuddy.com/online-payments)
-* [Events, Sports & Trips](https://www.schoolsbuddy.com/event-management)
-* [Parent Teacher Conferences](https://www.schoolsbuddy.com/parent-conferences)
-* [Transport System](https://www.schoolsbuddy.com/transport-system)
-* [Parent Communications](https://www.schoolsbuddy.com/parent-communications)
+[OpenApply](https://www.openapply.com/)
 
-**[Study](https://oxfordstudycourses.com/)**
+[SchoolsBuddy](https://www.schoolsbuddy.com/)
 
-* [OSC Study App](https://oxfordstudycourses.com/student/study)
-* [OSC Revision Courses](https://oxfordstudycourses.com/student/courses)
-* [OSC Tutor](https://oxfordstudycourses.com/student/tutor)
+[Pamoja](https://www.pamojaeducation.com/)
 
-**[Online Courses](https://pamojaeducation.com/)**
+[OSC](https://www.oxfordstudycourses.com/)
 
-* [IB Online Courses](https://pamojaeducation.com/)
-* [Homeschool](https://wolseyhalloxford.org.uk/)
+[Atlas](https://www.onatlas.com/)
 
-**Support Centre**
+[Wolsey Hall](https://wolseyhalloxford.org.uk/)
 
-* [Help & Support](https://help.faria.org/hc/en-us)
-* [Events, PD & Workshops](https://events.faria.org/)
+About Us
 
-**About Faria**
+[Company](https://www.faria.org/company)
 
-* [About Faria](https://www.faria.org/about)
-* [Leadership](https://www.faria.org/team)
-* [Contact](https://www.faria.org/office-locations)
-* [Careers at Faria](https://www.faria.org/careers)
-* [Newsroom](https://www.faria.org/news)
-* [Brand Guidelines & Media Kit](#)
-* [Writing](https://www.faria.org/writing)
-* [Terms](https://www.faria.org/terms-of-service)
-* [Security & Data Protection](https://www.faria.org/secure)
-* [AI Acceptable Usage Policy](https://www.faria.org/ai-acceptable-usage-policy)
+[Faria Leadership](https://www.faria.org/team)
+
+[Faria Community](https://community.faria.org/)
+
+[Newsroom](https://www.faria.org/news)
+
+[Contact Us](#)
+
+Resources
+
+[Events, PD & Workshop](https://events.faria.org/)
+
+[Help & Support](https://help.faria.org/hc/en-us)
+
+[Security & Data Protection](https://www.faria.org/secure)
+
+[AI Acceptable Usage Policy](https://www.faria.org/ai-acceptable-usage-policy)
+
+[Case Studies](#)
+
+* [ManageBac](https://www.managebac.com/resource-library?c=case-study)
+* [OpenApply](https://www.openapply.com/resource-library?c=case-studies)
+* [Atlas](https://www.onatlas.com/resource-library?c=case-studies)
+* [SchoolsBuddy](https://www.schoolsbuddy.com/resource-library?c=case-studies)
+* [Pamoja](https://pamojaeducation.com/resource-library?c=case-studies)
+
+Ensuring you're staying up-to-date.
 
 Subscribe
 
-© 2024 Faria Education Group Limited. All Rights Reserved.
-
-* [Terms](https://www.faria.org/terms-of-service)
-* [Privacy](https://www.faria.org/terms-of-service)
-* [Security](https://www.faria.org/secure)
-* [![](/wp-content/uploads/2021/03/globe-ico.png)Global](https://www.faria.org/)
+Loading...
 
 [Share](#)
 
 Share
 
-[![](/wp-content/uploads/2023/02/facebook-logo.png)Facebook](#) [![](/wp-content/uploads/2023/02/twitter-logo.png)Twitter](#) [\[email protected\]](https://www.faria.org/cdn-cgi/l/email-protection)
+[Facebook](#)[Twitter](#) [\[email protected\]](https://www.faria.org/cdn-cgi/l/email-protection)
 
 Click to copy link
 
  Text has been copied
 
-![](https://www.faria.org/wp-content/uploads/2023/07/faria-logo-1.png)
+Our _Digests_  
+Ensuring you're staying up-to-date.
+---------------------------------------------------
 
-Your resource is just a click away!
------------------------------------
+Thanks for Subscribing  
+We can’t wait to be in touch.
+------------------------------------------------------
 
-#### Complete the form for free ![](https://managebacstage.wpengine.com/wp-content/uploads/2023/05/Vector.png)  access
+Subscribe today to receive our latest resources, events, updates and so much more – specially curated for you, and delivered straight to your inbox.
 
-[Share](#)
+The Learning Management _Digest_
 
-Share
+by[](https://www.managebac.com/)
 
-[![](/wp-content/uploads/2023/02/facebook-logo.png)Facebook](#) [![](/wp-content/uploads/2023/02/twitter-logo.png)Twitter](#) [\[email protected\]](https://www.faria.org/cdn-cgi/l/email-protection)
+Monthly
 
-Click to copy link
+IB DP & CP
 
- Text has been copied
+Quarterly
 
-![](https://www.faria.org/wp-content/uploads/2023/07/faria-logo-1.png)
+IB MYP
 
-Explore the World of Faria
---------------------------
+Quarterly
 
-Faria Education Group is the trusted partner of more than 10,000 schools and 4 million students in 155 countries worldwide. A leader in international education systems and services, Faria offers integrated support across all aspects of curriculum management, teaching and learning, admissions, school-to-home, online courses, revision and professional development.
+IB PYP
 
-#### ![](https://www.faria.org/wp-content/uploads/2022/11/ManageBac-icon.png) Teaching and Learning
+The Admissions _Digest_
 
-[Learn More](https://www.managebac.com/)
+by[](https://www.openapply.com/)
 
-[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-mb.png)
+Bi-monthly
 
-##### ManageBac Brochure](https://www.managebac.com/resource-library?title=mb-brochure)[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-mb2.png)
+The School-to-Home _Digest_
 
-##### ManageBac Report Cards Guide](https://www.managebac.com/resource-library?title=mb-brochure-reporting)
+by[](https://www.schoolsbuddy.com/)
 
-#### ![](https://www.faria.org/wp-content/uploads/2022/11/Pamoja-icon.png) IB-Approved DP Online Courses
+Bi-monthly
 
-[Learn More](https://pamojaeducation.com/)
+The Online Learning _Digest_
 
-[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-pmj.png)
+by[](https://pamojaeducation.com/)
 
-##### Pamoja for Educators Brochure](https://pamojaeducation.com/resource-library?title=pmj-brochure-educators)[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-pmj2.png)
+Quarterly
 
-##### Pamoja for Students Brochure](https://pamojaeducation.com/resource-library?title=pmj-brochure-students-parents)
+The Study _Digest_
 
-#### ![](https://www.faria.org/wp-content/uploads/2022/11/OpenApply-icon.png) Admissions, CRM and Advancement
+by[](https://oxfordstudycourses.com/educator/)
 
-[Learn More](https://www.openapply.com/)
+Quarterly
 
-[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-oa.png)
+The Curriculum Planning _Digest_
 
-##### OpenApply Brochure](https://www.openapply.com/resource-library?title=openapply-brochure)
+Monthly
 
-[Explore All Faria Systems & Services](https://www.faria.org/)
+ Subscribe
 
-[分享](#)
+By clicking **Subscribe** I agree to the [Terms & Conditions](https://www.faria.org/terms-of-service) and [Privacy Policy](https://www.faria.org/terms-of-service).
 
-分享
+© Copyright 2024 - All Right Reserved
 
-[![](/wp-content/uploads/2023/02/facebook-logo.png)Facebook](#) [![](/wp-content/uploads/2023/02/twitter-logo.png)Twitter](#) [\[email protected\]](https://www.faria.org/cdn-cgi/l/email-protection)
+[Terms, Policies & Agreements](https://www.faria.org/terms-of-service)
 
-点击复制链接
+ [](https://web.facebook.com/fariaone/?_rdc=1&_rdr)[](https://www.linkedin.com/company/fariaedu/)
 
- Text has been copied
+Loading...
 
-![](https://www.faria.org/wp-content/uploads/2023/07/faria-logo-1.png)
+![](https://www.faria.org/wp-content/uploads/2023/02/one-check.gif)
 
-探索Faria智慧校园新生态
---------------
+Thank you for reaching out to us.  
+We will be in touch shortly.
+----------------------------------------------------------------
 
-Faria教育集团作为国际教育系统与服务行业的引领者，是全球155个国家，10,000多所学校的4,000,000名学生的信赖之选。Faria为学校提供一体化支持，涵盖课程管理、教学与学习、市场与招生、家校管理、在线课程、复习备考和专业发展等方方面面。
+###### Learning
 
-#### ![](https://www.faria.org/wp-content/uploads/2022/11/ManageBac-icon.png) 教学与学习
+auto\_stories
 
-[了解更多](https://www.managebac.cn/)
+All-in-one learning platform.
 
-[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-CN-MB-Brochure.png)
+ManageBac
 
-##### ManageBac手册](https://www.managebac.cn/resource-library?title=managebac-brochure-cn)[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-CN-MB-Report-Cards-Brochure.png)
+###### Curriculum Management
 
-##### ManageBac报告单指南](https://www.managebac.cn/resource-library?title=managebac-report-cards-guide)
+local\_library
 
-#### ![](https://www.faria.org/wp-content/uploads/2022/11/Pamoja-icon.png) IB官方授权的DP在线课程
+Plan, manage and analyse curriculum and lessons.
 
-[了解更多](https://www.pamojaeducation.cn/)
+Atlas
 
-[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-CN-PMJ-Educator.png)
+###### Admissions
 
-##### Pamoja学校手册](https://www.managebac.cn/resource-library?title=pamoja-for-educators-brochure-cn)[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-CN-PMJ-Student.png)
+pending\_actions
 
-##### Pamoja学生手册](https://www.managebac.cn/resource-library?title=pamoja-for-students-parents-brochure-cn)
+School admissions, advancement and CRM.
 
-#### ![](https://www.faria.org/wp-content/uploads/2022/11/OpenApply-icon.png) 市场营销、招生管理与联络拓展
+OpenApply
 
-[了解更多](https://www.openapply.cn/)
+###### School-to-Home
 
-[![](https://www.faria.org/wp-content/uploads/2023/07/Thumb-img-CN-OA-Brochure.png)
+departure\_board
 
-##### OpenApply手册](https://www.managebac.cn/resource-library?title=openapply-brochure-cn)
+Activities bookings, billing and transport.
 
-[探索Faria旗下所有系统和服务](https://www.faria.org/)
+SchoolsBuddy
+
+##### Online Courses cast\_for\_education
+
+Full IB Diploma online courses for schools. Approved by the IB.
+
+Pamoja
+
+Full Cambridge online courses for schools and homeschooling. Established in 1894.
+
+Wolsey Hall
