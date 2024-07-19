@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[![Mars logo](/themes/custom/mars_acss/assets/images/logo-main.svg)](https://www.mars.com/)
+[![Mars logo](/themes/custom/mars_acss/assets/images/logo-main.svg)](https://www.mars.com/global-petcare-food-nutrition-and-snacking-brands)
 
 * [All About Mars](https://www.mars.com/about "For over a century, we’ve been driven by a belief that the world we want tomorrow starts with how we do business today.") Main Menu
     
@@ -44,9 +44,13 @@
         
     
     * [Facebook(Opens a new window)](https://www.facebook.com/Mars)
+        
     * [Instagram(Opens a new window)](https://www.instagram.com/marsglobal/)
+        
     * [LinkedIn(Opens a new window)](https://www.linkedin.com/company/mars)
+        
     * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
+        
     
 * [Our Brands](https://www.mars.com/our-brands "For generations, families and their four-legged friends have enjoyed our brands, products and services.") Main Menu
     
@@ -84,9 +88,13 @@
         
     
     * [Facebook(Opens a new window)](https://www.facebook.com/Mars)
+        
     * [Instagram(Opens a new window)](https://www.instagram.com/marsglobal/)
+        
     * [LinkedIn(Opens a new window)](https://www.linkedin.com/company/mars)
+        
     * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
+        
     
 * [Sustainability Plan](https://www.mars.com/sustainability-plan "We’re committed to helping create a safe, healthy and sustainable world for our partners and the communities in which we operate.") Main Menu
     
@@ -141,9 +149,13 @@
         
     
     * [Facebook(Opens a new window)](https://www.facebook.com/Mars)
+        
     * [Instagram(Opens a new window)](https://www.instagram.com/marsglobal/)
+        
     * [LinkedIn(Opens a new window)](https://www.linkedin.com/company/mars)
+        
     * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
+        
     
 * [News & Stories](https://www.mars.com/news-and-stories) Main Menu
     
@@ -179,16 +191,244 @@
         
     
     * [Facebook(Opens a new window)](https://www.facebook.com/Mars)
+        
     * [Instagram(Opens a new window)](https://www.instagram.com/marsglobal/)
+        
     * [LinkedIn(Opens a new window)](https://www.linkedin.com/company/mars)
+        
     * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
+        
     
 
 * [Contact Us](https://www.mars.com/contact-us)
 * [Media Inquiries](https://www.mars.com/news-and-stories/media-contacts)
 * [Careers(Opens a new window)](https://careers.mars.com/ "Search for open job opportunities in any of our many locations with Mars around the world.")
 
-Global Markets
+Global
+
+You are currently viewing _Mars Global_ in _English_
+
+Main Menu Close
+
+Choose a Market & Language
+
+Mars Global
+
+[English](https://www.mars.com/privacy)
+
+[English](https://www.mars.com/privacy)
+
+Africa
+
+South Africa
+
+[English](https://zaf.mars.com/)
+
+[English](https://zaf.mars.com/)
+
+Americas
+
+Argentina
+
+[Spanish](https://arg.mars.com/)
+
+[Spanish](https://arg.mars.com/)
+
+Brazil
+
+[Português](https://bra.mars.com/)
+
+[Português](https://bra.mars.com/)
+
+Canada
+
+[English](https://can.mars.com/en/)
+
+[Français](https://can.mars.com/fr/)
+
+Mexico
+
+[Spanish](https://mex.mars.com/)
+
+[Spanish](https://mex.mars.com/)
+
+Asia & Pacific
+
+Australia
+
+[English](https://aus.mars.com/)
+
+[English](https://aus.mars.com/)
+
+China
+
+[English](https://chn.mars.com/en/)
+
+[中文](https://chn.mars.com/)
+
+India
+
+[English](https://ind.mars.com/)
+
+[English](https://ind.mars.com/)
+
+Indonesia
+
+[English](https://idn.mars.com/en/)
+
+[Bahasa](https://idn.mars.com/)
+
+Japan
+
+[Japanese](https://jpn.mars.com/)
+
+[Japanese](https://jpn.mars.com/)
+
+Korea
+
+[Korean](https://kor.mars.com/)
+
+[Korean](https://kor.mars.com/)
+
+Taiwan, China
+
+[English](https://twn.mars.com/en/)
+
+[中文](https://twn.mars.com/)
+
+Europe
+
+Austria
+
+[Deutsch](https://aut.mars.com/)
+
+[Deutsch](https://aut.mars.com/)
+
+Belgium
+
+[English](https://bel.mars.com/)
+
+[English](https://bel.mars.com/)
+
+Czech Republic
+
+[English](https://cze.mars.com/en/)
+
+[Česky](https://cze.mars.com/)
+
+Denmark
+
+[English](https://dnk.mars.com/en/)
+
+[English](https://dnk.mars.com/en/)
+
+Finland
+
+[English](https://fin.mars.com/en/)
+
+[English](https://fin.mars.com/en/)
+
+France
+
+[Français](https://fra.mars.com/)
+
+[Français](https://fra.mars.com/)
+
+Germany
+
+[Deutsch](https://deu.mars.com/)
+
+[Deutsch](https://deu.mars.com/)
+
+Greece
+
+[English](https://grc.mars.com/en/)
+
+[Greece](https://grc.mars.com/)
+
+Hungary
+
+[English](https://hun.mars.com/en/)
+
+[Magyar](https://hun.mars.com/)
+
+Ireland
+
+[English](https://ire.mars.com/)
+
+[English](https://ire.mars.com/)
+
+Italy
+
+[Italiano](https://ita.mars.com/)
+
+[Italiano](https://ita.mars.com/)
+
+Lithuania
+
+[English](https://ltu.mars.com/en/)
+
+[Lietuvių](https://ltu.mars.com/)
+
+Netherlands
+
+[Nederlands](https://nld.mars.com/)
+
+[Nederlands](https://nld.mars.com/)
+
+Norway
+
+[English](https://nor.mars.com/en)
+
+[English](https://nor.mars.com/en)
+
+Poland
+
+[Polski](https://pol.mars.com/)
+
+[Polski](https://pol.mars.com/)
+
+Portugal
+
+[English](https://prt.mars.com/en/)
+
+[Português](https://prt.mars.com/)
+
+Slovakia
+
+[English](https://svk.mars.com/en/)
+
+[Slovensky](https://svk.mars.com/)
+
+Spain
+
+[English](https://esp.mars.com/en/)
+
+[Español](https://esp.mars.com/)
+
+Sweden
+
+[English](https://swe.mars.com/en)
+
+[English](https://swe.mars.com/en)
+
+Switzerland
+
+[Deutsch](https://che.mars.com/)
+
+[Deutsch](https://che.mars.com/)
+
+United Kingdom
+
+[English](https://gbr.mars.com/)
+
+[English](https://gbr.mars.com/)
+
+Ukraine
+
+[Ukrainian](https://www.mars.com/ukraine)
+
+[Ukrainian](https://www.mars.com/ukraine)
 
 Your Current Selection Global
 
@@ -323,10 +563,15 @@ Sort by Date: Newest to OldestDate: Oldest to NewestRelevance
 #### Featured Search Terms
 
 * [Skittles](https://www.mars.com/search?keywords=Skittles&sort_by=search_api_relevance)
+    
 * [Starburst](https://www.mars.com/search?keywords=Starburst&sort_by=search_api_relevance)
+    
 * [altoids](https://www.mars.com/search?keywords=altoids&sort_by=search_api_relevance)
+    
 * [annual report](https://www.mars.com/search?keywords=annual%20report&sort_by=search_api_relevance)
+    
 * [snickers](https://www.mars.com/search?keywords=snickers&sort_by=search_api_relevance)
+    
 
 Breadcrumb
 ----------
@@ -336,7 +581,7 @@ Breadcrumb
 
 View our Privacy Statement in a specific language
 
-Select a Language
+English
 
 * [Arabic](https://www.mars.com/privacy-policy-arabic)
     
@@ -353,8 +598,6 @@ Select a Language
 * [Danish](https://www.mars.com/privacy-policy-danish)
     
 * [Dutch](https://www.mars.com/privacy-policy-dutch)
-    
-* [English](https://www.mars.com/privacy)
     
 * [Estonian](https://www.mars.com/privacy-policy-estonian)
     
@@ -775,31 +1018,49 @@ The world we want tomorrow
 
 starts with how we do business today
 
-[![Mars Home](/themes/custom/mars_acss/assets/images/logo-white.svg)](https://www.mars.com/)
+[![Mars Home](/themes/custom/mars_acss/assets/images/logo-white.svg)](https://www.mars.com/global-petcare-food-nutrition-and-snacking-brands)
 
 * [Contact Us](https://www.mars.com/contact-us)
+    
 * [Careers(Opens a new window)](https://careers.mars.com/)
+    
 * [Media](https://www.mars.com/news-and-stories/media-contacts)
+    
 * [Policies & Practices](https://www.mars.com/about/policies-and-practices "Policies & Practices")
+    
 * Cookie Settings
+    
 
 Follow Us
 
 * [Facebook(Opens a new window)](https://www.facebook.com/Mars)
+    
 * [Instagram(Opens a new window)](https://www.instagram.com/marsglobal/)
+    
 * [LinkedIn(Opens a new window)](https://www.linkedin.com/company/mars)
+    
 * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
+    
 
 * [Privacy Policy(Opens a new window)](https://www.mars.com/privacy)
+    
 * [Cookies Notice](https://www.mars.com/cookies-english)
+    
 * [Legal](https://www.mars.com/legal)
+    
 * [AdChoices](https://www.mars.com/mars-incorporated-adchoices-united-states)
-* [Site Map](https://www.mars.com/sitemap)
+    
 * [Accessibility](https://www.mars.com/accessibility)
+    
 * [Mars Alumni(Opens a new window)](https://www.linkedin.com/groups/86867/)
+    
 * [CA Supply Chain Transparency Act](https://www.mars.com/about/policies-and-practices/ca-supply-chain-transparency-act)
-* [Modern Slavery Act](https://www.mars.com/about/policies-and-practices/modern-slavery-act)
+    
+* [Global Human Rights Disclosure](https://www.mars.com/about/policies-and-practices/modern-slavery-act)
+    
 * [Mars Supplier Gateway(Opens a new window)](https://supplier.mars.com/)
+    
 * [Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)
+    
 
 © 2024 Mars, Incorporated and its Affiliates. All Rights Reserved
