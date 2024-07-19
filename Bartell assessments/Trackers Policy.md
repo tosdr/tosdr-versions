@@ -37,6 +37,8 @@
         * [Lyte](http://lytebot.com/)
 * [Blog](https://bartellbartell.com/radiance/)
 * [Who we are](https://bartellbartell.com/who-we-are/)
+    * [About Us](http://bartellbartell.com/who-we-are/#aboutus)
+    * [Our Team](http://bartellbartell.com/who-we-are/#executiveteam)
     * [Careers](http://bartellbartell.com/who-we-are/#careers)
 * [Contact Us](https://bartellbartell.com/contact-us/)
 
