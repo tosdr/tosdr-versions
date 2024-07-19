@@ -88,7 +88,7 @@ Resources
 
 Learn more
 
-[Blog](https://www.openphone.com/blog)[Customers](https://www.openphone.co/customers)
+[Blog](https://www.openphone.com/blog/)[Customers](https://www.openphone.co/customers)
 
 [Partners](https://www.openphone.co/partners)
 
@@ -100,11 +100,15 @@ New
 
 New
 
+[Podcast](https://www.openphone.co/podcast)
+
+New
+
 ![Nav Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64479580be53ba594e9a299c_Icon%20(5).svg)
 
 Get help
 
-[Help Center](https://support.openphone.com/hc/en-us?_ga=2.236975105.181286898.1682416582-1464969308.1675698708&_gl=1*1vdo45x*_ga*MTQ2NDk2OTMwOC4xNjc1Njk4NzA4*_ga_WX1XYTKSR5*MTY4MjQxNjU4Mi4yMS4xLjE2ODI0MTY3OTMuMC4wLjA.)[What’s new](https://updates.openphone.com/?_gl=1*1pz0hq6*_ga*MTQ2NDk2OTMwOC4xNjc1Njk4NzA4*_ga_WX1XYTKSR5*MTY4MjQxNjU4Mi4yMS4xLjE2ODI0MTY4MjguMC4wLjA.&_ga=2.208024594.181286898.1682416582-1464969308.1675698708)[Downloads](https://www.openphone.co/downloads)[Port your number](https://www.openphone.co/porting)[Carrier registration](https://www.openphone.co/webinars/office-hours-carrier-registration-a2p-webinar)[System status](https://status.openphone.co/?_ga=2.228416797.181286898.1682416582-1464969308.1675698708&_gl=1*1uigpbj*_ga*MTQ2NDk2OTMwOC4xNjc1Njk4NzA4*_ga_WX1XYTKSR5*MTY4MjQxNjU4Mi4yMS4xLjE2ODI0MTY4ODUuMC4wLjA.)
+[Help Center](https://support.openphone.com/hc/en-us?_ga=2.236975105.181286898.1682416582-1464969308.1675698708&_gl=1*1vdo45x*_ga*MTQ2NDk2OTMwOC4xNjc1Njk4NzA4*_ga_WX1XYTKSR5*MTY4MjQxNjU4Mi4yMS4xLjE2ODI0MTY3OTMuMC4wLjA.)[What’s new](https://updates.openphone.com/?_gl=1*1pz0hq6*_ga*MTQ2NDk2OTMwOC4xNjc1Njk4NzA4*_ga_WX1XYTKSR5*MTY4MjQxNjU4Mi4yMS4xLjE2ODI0MTY4MjguMC4wLjA.&_ga=2.208024594.181286898.1682416582-1464969308.1675698708)[Downloads](https://www.openphone.co/downloads)[Port your number](https://www.openphone.co/porting)[Carrier registration](https://www.openphone.co/webinars/office-hours-carrier-registration-a2p-webinar)[System status](https://status.openphone.co/)
 
 ![icons](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/644f9c08a473117e6d2187f7_Icon%20(19).svg)
 
@@ -122,7 +126,7 @@ Join our partner community and grow your business](https://www.openphone.co/part
 
 Blog
 
-Everything from product updates to industry insights](https://www.openphone.co/blog)
+Everything from product updates to industry insights](https://www.openphone.co/blog/)
 
 [Try for free](https://my.openphone.com/signup)[Talk to Sales](https://www.openphone.co/sales)[Login](https://my.openphone.com/login)
 
@@ -641,6 +645,10 @@ Popular
 
 New
 
+[Podcast](https://www.openphone.co/podcast)
+
+New
+
 Product
 
 ![arrow footer](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/644112c7ec5a6526f9a1b0d7_down.svg)
@@ -701,6 +709,10 @@ Popular
 
 New
 
+[Podcast](https://www.openphone.co/podcast)
+
+New
+
 Product
 
 [Phone numbers](https://www.openphone.co/product/phone-numbers)[Teams](https://www.openphone.co/product/teams)[Calling](https://www.openphone.co/product/calling)[Messaging](https://www.openphone.co/product/messaging)[Contacts](https://www.openphone.co/product/contacts)
@@ -715,7 +727,7 @@ New
 
 VoIP features
 
-[Call forwarding](https://www.openphone.co/features/call-forwarding)[Call routing](https://www.openphone.co/features/call-routing)[Simultaneous ring](https://www.openphone.co/features/simultaneous-ring)[Auto attendant](https://www.openphone.co/features/auto-attendant)[Cloud VoIP](https://www.openphone.co/features/cloud-voip)[Hubspot phone integrations](https://www.openphone.co/features/hubspot-phone-integration)[Voicemail to text](https://www.openphone.co/features/voicemail-to-text)[Small business VoIP](https://www.openphone.co/features/small-business-voip)[Business SMS & MMS](https://www.openphone.co/features/business-sms-mms)[Slack VoIP integration](https://www.openphone.co/features/slack-voip)[Text messaging CRM](https://www.openphone.co/features/crm-with-text-messaging)[Salesforce call tracking](https://www.openphone.co/features/salesforce-call-tracking)[Three-way calling](https://www.openphone.co/features/three-way-calling)[Call summaries](https://www.openphone.co/features/call-summary)[Call transcriptions](https://www.openphone.co/features/call-transcriptions)[VoIP phone system](https://www.openphone.co/features/voip-phone-system)[AI text messages](https://www.openphone.co/features/text-message-response-generator)
+[Call forwarding](https://www.openphone.co/features/call-forwarding)[Call routing](https://www.openphone.co/features/call-routing)[Simultaneous ring](https://www.openphone.co/features/simultaneous-ring)[Auto attendant](https://www.openphone.co/features/auto-attendant)[Cloud VoIP](https://www.openphone.co/features/cloud-voip)[Hubspot phone integrations](https://www.openphone.co/features/hubspot-phone-integration)[Voicemail to text](https://www.openphone.co/features/voicemail-to-text)[Small business VoIP](https://www.openphone.co/features/small-business-voip)[Business SMS & MMS](https://www.openphone.co/features/business-sms-mms)[Slack VoIP integration](https://www.openphone.co/features/slack-voip)[Text messaging CRM](https://www.openphone.co/features/crm-with-text-messaging)[Salesforce call tracking](https://www.openphone.co/features/salesforce-call-tracking)[Three-way calling](https://www.openphone.co/features/three-way-calling)[Call summaries](https://www.openphone.co/features/call-summary)[Call transcriptions](https://www.openphone.co/features/call-transcriptions)[VoIP phone system](https://www.openphone.co/features/voip-phone-system)[AI text messages](https://www.openphone.co/features/text-message-response-generator)[Ring Groups](https://www.openphone.co/features/ring-groups)
 
 Solutions
 
@@ -737,11 +749,11 @@ Compare
 
 From the blog
 
-[How to get a virtual phone number](https://www.openphone.com/blog/how-to-get-virtual-phone-number/)[How to get a second phone number](https://www.openphone.com/blog/how-to-get-a-second-phone-number/)[The best second phone number apps](https://www.openphone.com/blog/second-phone-number-app/)[The best Google Voice alternatives](https://www.openphone.com/blog/the-best-google-voice-alternatives/)[The best small business phone systems](https://www.openphone.com/blog/best-small-business-phone-systems/) [The best business text messaging services for business](https://www.openphone.com/blog/best-business-texting-services/)[The best toll-free number service providers](https://www.openphone.com/blog/best-toll-free-number-service/)[How does Google Voice work?](https://www.openphone.com/blog/how-does-google-voice-work/)[Check out all posts ->](https://www.openphone.com/blog)
+[How to get a virtual phone number](https://www.openphone.com/blog/how-to-get-virtual-phone-number/)[How to get a second phone number](https://www.openphone.com/blog/how-to-get-a-second-phone-number/)[How to get a Canada phone number](https://www.openphone.com/blog/canadian-phone-number/)[The best Google Voice alternatives](https://www.openphone.com/blog/the-best-google-voice-alternatives/)[How to get 2 phone numbers on 1 phone](https://www.openphone.com/blog/2-phone-numbers-on-1-phone/)[Best SMS messaging services for small businesses](https://www.openphone.com/blog/best-business-texting-services/)[How to share phone numbers wih your team](https://www.openphone.com/blog/how-to-share-a-business-phone-number-with-your-team/)[The best toll-free number service providers](https://www.openphone.com/blog/best-toll-free-number-service/)[How to add a business line to your cell phone](https://www.openphone.com/blog/add-business-line-to-cell-phone/)[Check out all posts ->](https://www.openphone.com/blog/)
 
 [![Logo](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a83508190483b7e00f0_Logo%20(1).svg)](https://www.openphone.com/)
 
-[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a894ada4b72ecb93436_LinkedIn.svg)](https://www.linkedin.com/company/openphone)[![](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/6542bcca4e73a14f22fe0276_Reddit.png)](https://www.reddit.com/r/openphone/)[![](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/6542bcb836e60d97ffebb371_X.png)](https://twitter.com/OpenPhone)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a89fbf2140ef9951657_YouTube.svg)](https://www.youtube.com/@OpenPhone)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a8a318da81d326c1bfb_Instagram.svg)](https://www.instagram.com/openphone)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a8affaac12a9444c646_Facebook.svg)](https://www.facebook.com/openphoneapp)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a89d027f9bc3d8f56a1_Dribbble.svg)](https://dribbble.com/openphone)
+[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a894ada4b72ecb93436_LinkedIn.svg)](https://www.linkedin.com/company/openphone)[![A black background with a white outline of a person.](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/6542bcca4e73a14f22fe0276_Reddit.png)](https://www.reddit.com/r/openphone/)[![A black background with a white outline of a person.](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/6542bcb836e60d97ffebb371_X.png)](https://twitter.com/OpenPhone)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a89fbf2140ef9951657_YouTube.svg)](https://www.youtube.com/@OpenPhone)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a8a318da81d326c1bfb_Instagram.svg)](https://www.instagram.com/openphone)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a8affaac12a9444c646_Facebook.svg)](https://www.facebook.com/openphoneapp)[![Social Icon](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410a89d027f9bc3d8f56a1_Dribbble.svg)](https://dribbble.com/openphone)
 
 ![AICPA SOC](https://cdn.prod.website-files.com/6384fdd9fd42380b529fc942/64410c19bf1ec257afa6e89d_637b6ee03490d8052bd71659_badge%201.png)
 
