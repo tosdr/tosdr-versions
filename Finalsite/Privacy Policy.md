@@ -196,7 +196,7 @@ Quick Links
 Finalsite Privacy Policy
 ========================
 
-**Last Updated** **October 10, 2023**
+**Last Updated** **July 15, 2024**
 
 We at Active Internet Technologies LLC, dba Finalsite, our affiliates and subsidiaries (“Finalsite”, “us”, “we”, or “our”) take your privacy seriously. This Privacy Policy (“Policy”) is designed to help you understand how we collect, use, safeguard, share, and disclose your personal information in connection with our online services. It also explains your rights and choices with respect to your personal information. 
 
@@ -249,6 +249,8 @@ Finalsite and third parties on our behalf, may use cookies or similar tracking t
     •    Identify whether you already visited our Sites  
     •    Store information about your preferences  
     •    To recognize when you return to our Sites
+
+Some of our sites may utilize a YouTube API Client in order to show videos. The YouTube API Client uses YouTube API Services. By using this YouTube API Client, you agree to be bound by the YouTube Terms of Service. For more information, please visit Google’s Privacy Policy, which can be found [here](http://www.google.com/policies/privacy).
 
 [**More Information About Our Cookie Policy**](https://www.finalsite.com/fs/pages/7965)
 
