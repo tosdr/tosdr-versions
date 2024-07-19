@@ -10,8 +10,8 @@
 
 * Product
     
-    * [Analysis](https://mixpanel.com/analysis)
-    * [Scale](https://mixpanel.com/scale)
+    * [Features](https://mixpanel.com/features)
+    * [Enterprise](https://mixpanel.com/enterprise)
     * [Developer](https://mixpanel.com/developer)
     * [Integrations](https://mixpanel.com/partners/integrations)
     * [Security & Privacy](https://mixpanel.com/security-privacy)
@@ -40,15 +40,15 @@
     
 * [Pricing](https://mixpanel.com/pricing)
 
-[Talk to Sales](https://mixpanel.com/contact-us/sales)
+[Contact Sales](https://mixpanel.com/contact-us/sales)
 
-[Log In](https://mixpanel.com/login)
+[Login](https://mixpanel.com/login)
 
-[Get Started](https://mixpanel.com/register)
+[Get Started Free](https://mixpanel.com/register)
 
 * Product
-    * [Analysis](https://mixpanel.com/analysis)
-    * [Scale](https://mixpanel.com/scale)
+    * [Features](https://mixpanel.com/features)
+    * [Enterprise](https://mixpanel.com/enterprise)
     * [Developer](https://mixpanel.com/developer)
     * [Integrations](https://mixpanel.com/partners/integrations)
     * [Security & Privacy](https://mixpanel.com/security-privacy)
@@ -60,6 +60,7 @@
     * [Industries](https://mixpanel.com/industries)
 * Community
     * [Customers](https://mixpanel.com/customers)
+    * [Startups](https://mixpanel.com/startups)
     * [Events](https://eventhub.goldcast.io/?eventHubId=b183a53e-dd6e-4f0b-9a23-dd274f39d78d)
     * [Slack](https://mixpanel.com/community-slack)
     * [Expert Directory](https://mixpanel.com/partners/experts)
@@ -71,7 +72,7 @@
 
 [Login](https://mixpanel.com/login)
 
-[Talk to Sales](https://mixpanel.com/contact-us/sales)
+[Contact Sales](https://mixpanel.com/contact-us/sales)
 
 legal
 
@@ -337,11 +338,15 @@ All notices to be provided by Mixpanel to Customer under this Agreement may be d
 
 Product
 
-[Analysis](https://mixpanel.com/analysis)[Scale](https://mixpanel.com/scale)[Developer](https://mixpanel.com/developer)[Integrations](https://mixpanel.com/partners/integrations)[Security & Privacy](https://mixpanel.com/security-privacy)[Docs](https://docs.mixpanel.com/)[Pricing](https://mixpanel.com/pricing)[What's New](https://mixpanel.com/product-releases)
+[Features](https://mixpanel.com/features)[Enterprise](https://mixpanel.com/enterprise)[Developer](https://mixpanel.com/developer)[Integrations](https://mixpanel.com/partners/integrations)[Security & Privacy](https://mixpanel.com/security-privacy)[Docs](https://docs.mixpanel.com/)[Pricing](https://mixpanel.com/pricing)[What's New](https://mixpanel.com/product-releases)
 
 Solutions
 
 [Teams](https://mixpanel.com/teams)[Industries](https://mixpanel.com/industries)
+
+Templates
+
+[Company KPIs](https://mixpanel.com/p/QLBHa24vdYuK2MJLiNUA1S)[Feature Launch](https://mixpanel.com/p/5dbqyToAtFMaDJVJNzUeuG)[Lifecycle Cohort Analysis](https://mixpanel.com/p/CEngFwLvPa5zvTSLvFTHNH)[Ecommerce](https://mixpanel.com/p/2cv24kB3k5n9reXr9bSJKU)[Marketing KPIs](https://mixpanel.com/p/MKDgQSoYBZciN4AGgY7Mgh)[Web Analytics](https://mixpanel.com/p/BkaDwovdEpEcMJp33R6sah)
 
 Community
 
