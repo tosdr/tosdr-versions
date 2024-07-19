@@ -10,7 +10,7 @@
 
 [Contact us](https://meraki.cisco.com/form/contact/)[Log In](https://account.meraki.com/login)
 
-[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/06/cisco-meraki-logo-pride.png)](https://meraki.cisco.com/)
+[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/04/cisco-meraki-logo-1024x200.png)](https://meraki.cisco.com/)
 
 [Experiences](#)
 
@@ -214,11 +214,11 @@ Podcast](https://community.meraki.com/t5/Meraki-Unboxed-Podcast/bg-p/unboxed)
 
 [](# "Close")
 
-[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/06/cisco-meraki-logo-pride.png)](https://meraki.cisco.com/)
+[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/04/cisco-meraki-logo-1024x200.png)](https://meraki.cisco.com/)
 
   
 
-[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/06/cisco-meraki-logo-pride.png)](https://meraki.cisco.com/)
+[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/04/cisco-meraki-logo-1024x200.png)](https://meraki.cisco.com/)
 
 [](#)
 
@@ -1334,7 +1334,7 @@ SM Free 100 is only for internal use by your company. It is not for resale, dist
 
 Your use of Systems Manager is governed by our [End Customer Agreement](https://meraki.cisco.com/support/policies#end-customer-agreement). By accepting the SM Free 100 you represent that you are authorized by your employer to accept the SM Free 100 and that you will disclose receipt of the SM Free 100 to your employer as and if required. Notwithstanding the End Customer Agreement, Cisco Meraki may terminate the Free 100 program at any time, including managing up to 100 devices at no cost – but if we do that, we’ll give you plenty of notice. The recipient is responsible for taxes and duties, if any. Please contact your Cisco Meraki rep if you have any questions.
 
-[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/06/cisco-meraki-logo-pride.png)](https://meraki.cisco.com/)
+[![Cisco Meraki](https://meraki.cisco.com/wp-content/uploads/2020/04/cisco-meraki-logo-1024x200.png)](https://meraki.cisco.com/)
 
 * COMPANY
 * [About Meraki](https://meraki.cisco.com/about/)
