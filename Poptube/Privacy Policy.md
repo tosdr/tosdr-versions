@@ -51,6 +51,22 @@ Misrepresent the source or ownership; or
 
 Remove, obscure, or alter any copyright, trademark, or other proprietary rights notices; or falsify or delete any author attributions, legal notices, or other labels of the origin or source of material.
 
+​
+
+Use of Third-party Services  
+We use third-party services, including the Gemini API, to enhance functionality. These services may access data processed within our app. As of our last update:
+
+* The Gemini API does not save the data you submit.
+    
+* The Gemini API does not use this data to improve its models.
+    
+
+For more details and updates on their data practices, we recommend reviewing Gemini API's data usage policy:  
+[https://ai.google.dev/gemini-api/terms](https://ai.google.dev/gemini-api/terms)
+
+Data Deletion and Access  
+Currently, data related to video content summaries and chat content will not be stored in the cloud but will be stored directly on your device. We allow you to easily remove this content. Note: This action is irreversible.
+
 ### Information Collection
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Android advertising ID. The information that I request will be retained on your device and is not collected by me in any way.
