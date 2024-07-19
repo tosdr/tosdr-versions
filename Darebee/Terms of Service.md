@@ -50,11 +50,11 @@ The DAREBEE team
 
 Funding Level
 
-54%
+40%
 
 [What Does This Mean?](https://darebee.com/funding.html)
 
-[![100 HIIT workouts](/images/promo/books/abs.jpg "100 HIIT workouts")](https://darebee.com/abs-100-workouts.html "FEATURED BOOK")
+[![400 no-equipment workouts](/images/promo/books/400wods.jpg "400 no-equipment workouts")](https://darebee.com/no-equipment-workouts.html "FEATURED BOOK")
 
 * * *
 
