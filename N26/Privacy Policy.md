@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.3., Date 10.06.2024)
+(Version 9.5., Date 09.07.2024)
 
 
 
@@ -248,9 +248,11 @@ customers and improving the customer experience.
 
 N26 to inform customers about updates to existing products, the launch of new products as
 
-well as products which are offered together with partners, including marketing or market and
+well as products which are offered together with partners and promotions, including
 
-opinion analysis.
+marketing or market and opinion analysis. For this purpose, we use customer segmentation.
+
+In individual cases, the processing may constitute profiling.
 
 ● Improving the user experience for our Fan Page visitors on our Social Media Pages (as defined
 
@@ -283,6 +285,16 @@ the financial risk that it can take with regard to performing financial services
 interest of N26 to conduct research and analysis regarding the use customers make of the
 
 products and features provided by N26.
+
+● Product analysis which may include the analysis of your user behaviour in relation to certain
+
+products and promotional offers, based on the legitimate interest of N26 to develop, test and
+
+optimise products and services. If possible, the data is anonymised in the first step, i.e.
+
+personal data is no longer processed afterwards. In individual cases, the processing may
+
+constitute profiling.
 
 
 
@@ -359,6 +371,8 @@ and recipients) based on products and services contracted with N26.
 Please note that it is not possible to open an account, if you do not provide your personal data as mentioned
 
 above.
+
+
 
 In order to process transactions, N26 receives personal data and transfers personal data according to the
 
@@ -550,6 +564,8 @@ better customer experience. For more information on legitimate interest as a leg
 
 please see section II. above.
 
+
+
 6\. Data processing in the framework of Shared Spaces
 
 In order to facilitate Shared Spaces, we have to process data to identify the members of a Shared Space and
@@ -629,8 +645,6 @@ process the data to detect and prevent fraud and criminal acts and to manage ris
 interests under Art. 6 (1) f) GDPR. For more information on our legitimate interest as a legal basis for processing
 
 data, please see section II. above.
-
-
 
 Wise also processes the data above as a separate data controller for their own purposes, namely satisfying
 
@@ -830,7 +844,93 @@ your agreement with Bitpanda, in accordance with Art. 6 (1) b) GDPR.
 
 
 
-15\. Data processing in the framework of the Insights feature
+15\. N26 Stocks \& ETFs
+
+In order to be able to make the N26 Stocks \& ETFs available to you, so you can use the trading services provided
+
+by Upvest Securities GmbH, Schlesische Straße 33/34, 10997 Berlin (“Upvest”) within your N26 App, N26 and
+
+Upvest will process your personal data.
+
+
+
+Upvest is the controller for the processing of your personal data for executing the orders and transactions you
+
+place through the N26 App. The Upvest’s Terms and Conditions and Privacy Policy apply. In this context, N26
+
+will process the following personal data on behalf of Upvest as a processor (Art. 28 GDPR) for the following
+
+purposes:
+
+
+
+● Eligibility check: The usage of the N26 Stocks \& ETFs is entirely voluntary for eligible customers. The
+
+eligibility check is done in accordance with the terms and conditions applicable to this product and is a
+
+step necessary prior to entering into those terms and conditions. For this purpose we process
+
+information such as your tax residency and your N26 account status. The required legal basis for this is
+
+Art. 6 (1) b) GDPR.
+
+● Creation of an account with Upvest, as per Upvest’s Terms and Conditions. The required legal basis
+
+for this is Art. 6 (1) b) GDPR. For this purpose we process the following information:
+
+○ Information that was collected from you when you opened your N26 account and which is
+
+necessary to set up your account with Upvest: date of your identification procedure, your full
+
+name, email address, mobile phone number, date of birth, place of birth, legal address, your
+
+tax residence, gender, nationality(ies), copy of your ID and ID type, number, issuance date and
+
+expiration date, pictures taken within the identification procedure.
+
+○ Confirmation of the following information for tax purposes: tax residency(ies) and tax ID(s).
+
+Please note that, if your tax residency and/or tax ID are not correct or if your identification
+
+procedure was performed over 24 months ago, we might request additional information from
+
+you.
+
+● Execution of your orders and transactions by Upvest: Processing of the necessary information
+
+related to your orders and transactions, namely the amount, type and frequency (specially in case of
+
+investment plans) of your placed orders and transactions. The required legal basis for this is Art. 6 (1)
+
+b) GDPR.
+
+● Compliance with legal obligations: Processing of personal data for compliance with legal obligations
+
+applicable to Upvest like monitoring fraudulent payment transactions, know-your-customer obligations
+
+and anti-money-laundering screening (mainly deriving from the Regulation (EU) No 600/2014 of the
+
+European Parliament and of the Council of 15 May 2014 on markets in financial instruments and
+
+amending Regulation (EU) No 648/2012 (“MiFIR”) and the GwG). The required legal basis for this is Art.
+
+6 (1) c) GDPR.
+
+
+
+N26 remains the controller for the processing of your personal data for providing you with this feature on your
+
+N26 App and ensuring that you can place orders and transactions directly from your main account to your
+
+Upvest’s account, according to Art. 6 (1) b) GDPR, as per the terms and conditions you signed with N26. The
+
+information provided in this Privacy Policy related to the usage of your main account applies to this processing
+
+of personal data by N26 as a controller. N26 will also process your data as a controller to comply with legal
+
+obligations applicable directly to N26, deriving from the MiFIR and the GWG, according to Art. 6 (1) c) GDPR.
+
+16\. Data processing in the framework of the Insights feature
 
 The Insights feature is available within the App. The feature sorts your transactions/payments and visualizes
 
@@ -848,7 +948,7 @@ spending categorization), as part of your contract with N26 and the respective d
 
 
 
-16\. Data processing when displaying in-App updates
+17\. Data processing when displaying in-App updates
 
 If you use the App, so-called in-App updates will be displayed. The purpose of the in-App updates is to inform
 
@@ -880,7 +980,7 @@ see section II. above.
 
 
 
-17\. Data processing when using the Customer Chat
+18\. Data processing when using the Customer Chat
 
 When discussing any contractual matters (such as account related information or your transactions) with us on
 
@@ -904,7 +1004,7 @@ information on the legitimate interest as a legal basis for processing data, ple
 
 
 
-18\. Data processing in the framework of informational communication
+19\. Data processing in the framework of informational communication
 
 We use informational emails, in-App updates and push notifications to inform you about transactions,
 
@@ -926,7 +1026,9 @@ usage of our App, as far as necessary to provide such information, based on Art.
 
 information on the legitimate interest as a legal basis for processing data, please see section II. above.
 
-19\. Data transmission in the framework of N26 “Insurance”
+
+
+20\. Data transmission in the framework of N26 “Insurance”
 
 In cooperation with simplesurance GmbH, Hallesches Ufer 60, 10963 Berlin (hereinafter: “Simplesurance”), we
 
@@ -944,7 +1046,7 @@ information in the Simplesurance privacy policy here.
 
 
 
-20\. Preparing anonymised statistical datasets
+21\. Preparing anonymised statistical datasets
 
 We use your personal data to prepare anonymised statistical datasets about our customers’ spending patterns
 
@@ -974,7 +1076,7 @@ Deposit Guarantee Act (Einlagensicherungsgesetz).
 
 
 
-21. Data transmission in the framework of Mastercard Automatic Billing
+22. Data transmission in the framework of Mastercard Automatic Billing
 
 Updater Program
 
@@ -998,7 +1100,7 @@ authorization requests against the ABU database.
 
 
 
-22\. Data processing in the framework of the Waiting Lists
+23\. Data processing in the framework of the Waiting Lists
 
 When you ask us to add you to our waiting list for information on when we’re able to provide our banking
 
@@ -1036,7 +1138,7 @@ information about how to sign up
 
 
 
-23\. Data processing when participating in In-App surveys
+24\. Data processing when participating in In-App surveys
 
 When you share your feedback with us in the App by participating in surveys, on a voluntary basis, we process
 
@@ -1078,7 +1180,7 @@ For more information on legitimate interest as a legal basis for processing data
 
 
 
-24\. Data processing when using the iDEAL Payment Scheme
+25\. Data processing when using the iDEAL Payment Scheme
 
 iDEAL is a payment method that you can use to make online payments through your N26 App or Web App, for
 
@@ -1158,7 +1260,7 @@ binding measures related to financial matters, based on Art. 6 (1) c) GDPR.
 
 
 
-25\. Data processing when using the “Share your ideas” Feature
+26\. Data processing when using the “Share your ideas” Feature
 
 When sharing your ideas using the designated “Share your ideas” feature, we process the information that is
 
@@ -1842,27 +1944,29 @@ transfer, if applicable:
 
 ● A decision of the European Commission deciding that the third country ensures an adequate level of
 
-protection, pursuant to Art. 45 (1) GDPR - the existing adequacy decisions can be found here;
+protection, pursuant to Art. 45 (1) GDPR - the existing adequacy decisions can be found here (this
+
+includes commercial organisations participating in the EU-US Data Privacy Framework);
+
+● Binding Corporate Rules (“BCRs”) approved as per Art. 47 GDPR, pursuant to Art. 46 (2) b) GDPR;
 
 ● Standard data protection clauses for the transfer of personal data to third countries (“SCCs”), as
 
 adopted by the European Commission, pursuant to Art. 46 (2) c) GDPR - the most recent version of the
 
-SCCs can be found here.
+SCCs can be found here;
 
+● Your explicit consent under Art. 49 (1) a) GDPR, when we transmit data to entities located outside the
 
+European Economic Area and in third countries that don't provide an adequate level of protection of
+
+personal data in the terms of the GDPR and none of the other transfer mechanisms apply.
 
 You can obtain a detailed copy of the transfer mechanism and more information in this regard by sending a
 
-request to N26 to the addresses indicated in section XI. below.
+request to N26 to the addresses indicated in section XII. below.
 
 
-
-Insofar as we transmit data to entities located outside the European Economic and in third countries that do
-
-not provide an adequate level of protection of personal data in the terms of the GDPR, we do so upon your
-
-explicit consent under Art. 49 (1) a) GDPR.
 
 IX. Data collected in the framework of phone call recordings
 
