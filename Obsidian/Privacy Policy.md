@@ -9,11 +9,8 @@
 
 [Community](https://obsidian.md/community) [Account](https://obsidian.md/account)
 
-* [Download the app](https://obsidian.md/download)
+* [Get the app](https://obsidian.md/download)
 * [Account](https://obsidian.md/account)
-
-Add-ons
-
 * [Sync](https://obsidian.md/sync)
 * [Publish](https://obsidian.md/publish)
 * [Pricing](https://obsidian.md/pricing)
