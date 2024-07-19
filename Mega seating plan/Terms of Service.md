@@ -15,7 +15,7 @@ Close menu
 
 ### Terms and Conditions ("Terms")
 
-**Last updated: 7th May 2020**
+**Last updated: 30th June 2024**
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://www.seatingplan.com website (the "Service") operated by Mega Seating Plan Ltd ("us", "we", or "our").
 
@@ -29,7 +29,9 @@ We take data protection very seriously. You agree not to upload sensitive studen
 
 ##### Subscriptions
 
-Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed monthly or annually for this optional service and may cancel at any time.
+Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed monthly or annually on an auto-renewal basis and may cancel at any time.
+
+The standard EULA for Apple apps is available [here](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
 ##### Links To Other Web Sites
 
@@ -66,6 +68,10 @@ If you have any questions about these Terms, please email [rob@seatingplan.com](
 [English (UK)](https://www.seatingplan.com/switch_language/en_GB?redirect=/terms)
 
 [English (US)](https://www.seatingplan.com/switch_language/en_US?redirect=/terms)
+
+Download the Mega Seating Plan app to your phone to learn student names fast
+
+ [![Download on the App Store](/static/img/app_icons/apple.svg)](https://apps.apple.com/us/app/mega-seating-plan/id6503652608)[![Get it on Google Play](/static/img/app_icons/google_play.png)](https://play.google.com/store/apps/details?id=com.robcowen.msp&pcampaignid=web_share)
 
 [Facebook](https://www.facebook.com/megaseatingplan) [Twitter](https://www.twitter.com/megaseatingplan) [LinkedIn](https://www.linkedin.com/in/robcowen-teacher/) [Email](mailto:rob@seatingplan.com)
 
