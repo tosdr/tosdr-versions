@@ -273,6 +273,7 @@ Archive
 * [Sellers](https://author.envato.com/)
 * [Contact Us](https://envato.com/contact/)
 * [Privacy](https://envato.com/privacy/)
+* [Cookie Settings](https://www.envato.com/#cookieSettings)
 * [Do not sell or share my personal information](https://envato.com/privacy/#my-personal-information)
 
 [![bcorp logo](/static/media/bcorp.f0c1a23c.svg)](https://www.bcorporation.net/en-us/find-a-b-corp/company/envato)
