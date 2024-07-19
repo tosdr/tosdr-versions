@@ -12,11 +12,11 @@ Saving
 
 [Movies](https://www.newgrounds.com/movies)[Games](https://www.newgrounds.com/games)[Audio](https://www.newgrounds.com/audio)[Art](https://www.newgrounds.com/art)[Portal](https://www.newgrounds.com/portal)[Community](https://www.newgrounds.com/community)[Your Feed](https://www.newgrounds.com/social)
 
-![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/998bbbd41718662371.webp?1718662447)
+![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/135542fe1721394594.webp?1721394619)
 
-[](https://voidovoiderino.newgrounds.com/)
+[](https://glorpis.newgrounds.com/)
 
-[VoidoVoiderino](https://voidovoiderino.newgrounds.com/) just joined the crew!
+[Glorpis](https://glorpis.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -292,21 +292,21 @@ If you have any questions about this privacy policy, the practices of this site,
 
 GamesMoviesAudioArtChannelsUsers
 
-[chillzozen **WOAH WOAH WOAH!!! PEOPLE!**](https://chillzozen.newgrounds.com/news/post/1453643)
+[Cosmiccookie2000 **Coming to terms**](https://cosmiccookie2000.newgrounds.com/news/post/1460782)
 
-[Creeperforce24 **THIS IS A HORRIBLE ATROCITY!**](https://creeperforce24.newgrounds.com/news/post/1453642)
+[SchultzV2 **game possibility...**](https://schultzv2.newgrounds.com/news/post/1460781)
 
-[DICExMICE **HEAVENLY ANGEL**](https://dicexmice.newgrounds.com/news/post/1453641)
+[Chipsoapart **It would be nice**](https://chipsoapart.newgrounds.com/news/post/1460780)
 
-[ChillsStudi0 **I'll make less depressing songs in the future**](https://chillsstudi0.newgrounds.com/news/post/1453640)
+[alt3rEgo **Check out this artist!!**](https://alt3rego.newgrounds.com/news/post/1460779)
 
-[DICExMICE **SUPAH SUPAH SONIK**](https://dicexmice.newgrounds.com/news/post/1453639)
+[ralph2320 **two weeks in artfight**](https://ralph2320.newgrounds.com/news/post/1460778)
 
-[gamers30 **new sprite pack**](https://gamers30.newgrounds.com/news/post/1453638)
+[MiklipiGD **BACK TO NG!!!!**](https://miklipigd.newgrounds.com/news/post/1460776)
 
 [**Wall Art by**
 
-**IvanAlmighty**](https://ivanalmighty.newgrounds.com/)
+**Broly**](https://broly.newgrounds.com/)
 
 #### Main Sections
 
