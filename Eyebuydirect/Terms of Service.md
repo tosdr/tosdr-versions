@@ -26,21 +26,21 @@
     
     [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
     
-    [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
+    [Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
     
-    [![Grandpa Core](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Future Classic](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Grandpa Core](https://img.ebdcdn.com/cms/Top_Nav_320_424_2a47d98da6.jpg?q=85&seo=grandpa-core)
+    ![Future Classic](https://img.ebdcdn.com/cms/Top_Nav_320_424_fc5de74910.jpg?q=85&seo=future-classic)
     
-    Grandpa Core](https://www.eyebuydirect.com/collections/grandpa-core "Grandpa Core")[![Pride On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Future Classic](https://www.eyebuydirect.com/collections/future-classic "Future Classic")[![5 TO SEE®](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Pride On](https://img.ebdcdn.com/cms/Top_Nav_320_424_1f6285a91e.jpg?q=85&seo=pride-on)
+    ![5 TO SEE®](https://img.ebdcdn.com/cms/Top_Nav_320_424_7c616eb2c8.jpg?q=85&seo=5-to-see®)
     
-    Pride On](https://www.eyebuydirect.com/collections/pride-on "Pride On")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    5 TO SEE®](https://www.eyebuydirect.com/collections/5-to-see "5 TO SEE®")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Transitions® GEN S™](https://img.ebdcdn.com/cms/Top_Nav_320_424_73b18d42b5.jpg?q=85&seo=transitions®-gen-s™)
+    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
     
-    Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
+    New Designer Brands](https://www.eyebuydirect.com/campaign/new-brands "New Designer Brands")
     
 * Sunglasses
     
@@ -72,33 +72,47 @@
     
     ![Oakley Sunglasses](https://img.ebdcdn.com/cms/topp_nav_oak_sun_0ed9d64229.jpg?q=85&seo=oakley-sunglasses)
     
-    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Eco Friendly](https://img.ebdcdn.com/cms/topp_nav_CSR_501391cdf0.jpg?q=85&seo=eco-friendly)
+    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
     
-    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
+    New Designer Brands](https://www.eyebuydirect.com/campaign/brands "New Designer Brands")
     
 * Premium Brands
     
     [![Ray-Ban](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Ray-Ban](https://img.ebdcdn.com/cms/rb_top_nav_collections_desktop_79a71a4584.jpg?q=85&seo=ray-ban)
+    ![Ray-Ban](https://img.ebdcdn.com/cms/ray_ban_03cec9205b.jpg?q=85&seo=ray-ban)
     
-    Ray-Ban](https://www.eyebuydirect.com/brands/ray-ban "Ray-Ban")[![Oakley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Ray-Ban](https://www.eyebuydirect.com/brands/ray-ban "Ray-Ban")[![Coach](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Oakley](https://img.ebdcdn.com/cms/oakley_top_nav_collections_d_917935cbfd.jpg?q=85&seo=oakley)
+    ![Coach](https://img.ebdcdn.com/cms/coach_4d30014a8c.jpg?q=85&seo=coach)
     
-    Oakley](https://www.eyebuydirect.com/brands/oakley "Oakley")[![ARNETTE](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Coach](https://www.eyebuydirect.com/brands/coach "Coach")[![Vogue Eyewear](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![ARNETTE](https://img.ebdcdn.com/cms/arnette_top_nav_collections_d_097a264e10.jpg?q=85&seo=arnette)
+    ![Vogue Eyewear](https://img.ebdcdn.com/cms/vogue_baae66800f.jpg?q=85&seo=vogue-eyewear)
     
-    ARNETTE](https://www.eyebuydirect.com/brands/arnette "ARNETTE")[![Vogue Eyewear](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Vogue Eyewear](https://www.eyebuydirect.com/brands/vogue "Vogue Eyewear")[![Ralph](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Vogue Eyewear](https://img.ebdcdn.com/cms/vogue_top_nav_collections_d_591af112a8.jpg?q=85&seo=vogue-eyewear)
+    ![Ralph](https://img.ebdcdn.com/cms/ralph_3a20dba2d9.jpg?q=85&seo=ralph)
     
-    Vogue Eyewear](https://www.eyebuydirect.com/brands/vogue "Vogue Eyewear")[![RFLKT®](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Ralph](https://www.eyebuydirect.com/brands/ralph "Ralph")
     
-    ![RFLKT®](https://img.ebdcdn.com/cms/rflkt_top_nav_collections_d_4f072dbb6a.jpg?q=85&seo=rflkt®)
+    [![Oakley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Oakley](https://img.ebdcdn.com/cms/oakley_0a290f75b7.jpg?q=85&seo=oakley)
+    
+    Oakley](https://www.eyebuydirect.com/brands/oakley "Oakley")[![Armani Exchange](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Armani Exchange](https://img.ebdcdn.com/cms/ax_4b50084290.jpg?q=85&seo=armani-exchange)
+    
+    Armani Exchange](https://www.eyebuydirect.com/brands/armani-exchange "Armani Exchange")[![ARNETTE](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![ARNETTE](https://img.ebdcdn.com/cms/arnette_bcec33057d.jpg?q=85&seo=arnette)
+    
+    ARNETTE](https://www.eyebuydirect.com/brands/arnette "ARNETTE")[![RFLKT®](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![RFLKT®](https://img.ebdcdn.com/cms/rflkt_f6bdd6a76c.jpg?q=85&seo=rflkt®)
     
     RFLKT®](https://www.eyebuydirect.com/brands/rflkt "RFLKT®")
     
