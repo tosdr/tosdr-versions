@@ -4,7 +4,7 @@ IXL uses cookies to ensure that you get the best experience on our website. See 
 
 [IXL Learning](https://www.ixl.com/)
 
-![Search for skill](/dv3/Md6X9XE-wgaJx2yivV0n3aF2Hys/yui3/site-nav/assets/icon-mag-glass-white.svg)
+![Search for skill](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/icon-mag-glass-white.svg)
 
 Sign inRemember
 
@@ -21,11 +21,11 @@ Sign inRemember
     * [Maths](https://www.ixl.com/maths)
         
         * [Skills](https://www.ixl.com/maths)
-        ![](/dv3/Md6X9XE-wgaJx2yivV0n3aF2Hys/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/maths/games)
+        ![](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/maths/games)
     * [English](https://www.ixl.com/english)
         
         * [Skills](https://www.ixl.com/english)
-        ![](/dv3/Md6X9XE-wgaJx2yivV0n3aF2Hys/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/english/games)
+        ![](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/english/games)
     
     * [Recommendations](https://www.ixl.com/recommendations)
         
@@ -317,4 +317,4 @@ Fax 020 3318 5968
 
 [Company](https://www.ixl.com/company) | [Membership](https://www.ixl.com/membership) | [Blog](https://blog.ixl.com/) | [Help centre](https://www.ixl.com/help-center) | [User guides](https://www.ixl.com/userguides) | [Tell us what you think](https://www.ixl.com/feedback) | [Testimonials](https://www.ixl.com/testimonials) | [Careers](https://www.ixl.com/company/careers) | [Contact us](https://www.ixl.com/contact) | [Terms of service](https://www.ixl.com/termsofservice) | [**Privacy policy**](https://www.ixl.com/privacypolicy)
 
-[![IXL Learning](/dv3/Md6X9XE-wgaJx2yivV0n3aF2Hys/yui3/site-nav/assets/footer-logo.svg "IXL Learning")](https://www.ixl.com/company/) © 2024 IXL Learning. All rights reserved. Follow us [![Facebook](/dv3/WGtsh5fm_hJDv37GhiohVlxyaKY/yui3/home-page/assets/home-2019/facebook-icon.svg)](https://www.facebook.com/IXL)[![Twitter](/dv3/WGtsh5fm_hJDv37GhiohVlxyaKY/yui3/home-page/assets/home-2019/twitter-icon.svg)](https://twitter.com/IXLLearning)[![Pinterest](/dv3/WGtsh5fm_hJDv37GhiohVlxyaKY/yui3/home-page/assets/home-2019/pinterest-icon.svg)](https://www.pinterest.com/IXL/)[![Instagram](/dv3/WGtsh5fm_hJDv37GhiohVlxyaKY/yui3/home-page/assets/home-2019/instagram-icon.svg)](https://www.instagram.com/ixl/)[![Youtube](/dv3/WGtsh5fm_hJDv37GhiohVlxyaKY/yui3/home-page/assets/home-2019/youtube-icon.svg)](https://www.youtube.com/ixl/)[![LinkedIn](/dv3/WGtsh5fm_hJDv37GhiohVlxyaKY/yui3/home-page/assets/home-2019/linkedin-icon.svg)](https://www.linkedin.com/company/ixl-learning)
+[![IXL Learning](/dv3/woAI2pJtPxzizMsjEoTE7c_AWjs/yui3/site-nav/assets/footer-logo.svg "IXL Learning")](https://www.ixl.com/company/) © 2024 IXL Learning. All rights reserved. Follow us [![Facebook](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/facebook-icon.svg)](https://www.facebook.com/IXL)[![X](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/x-icon.svg)](https://x.com/IXLLearning)[![Pinterest](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/pinterest-icon.svg)](https://www.pinterest.com/IXL/)[![Instagram](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/instagram-icon.svg)](https://www.instagram.com/ixl/)[![Youtube](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/youtube-icon.svg)](https://www.youtube.com/ixl/)[![LinkedIn](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/linkedin-icon.svg)](https://www.linkedin.com/company/ixl-learning)
