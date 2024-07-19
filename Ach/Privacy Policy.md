@@ -16,7 +16,7 @@ Utility Navigation
 * [Search](https://www.nacha.org/search)
 * [Risk Resources](https://www.nacha.org/risk-resource)
 
-[![TPI OnCampus 2024](/sites/default/files/2024-04/2024-TPIOC.png)](https://tpi.nacha.org/oc-experience)
+[![AAP logo](/sites/default/files/2024-07/2024-AAP-exam_0.png)](https://www.nacha.org/content/become-aap)
 
 [Nacha](https://www.nacha.org/ "Nacha")
 =======================================
