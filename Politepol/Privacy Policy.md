@@ -2,6 +2,7 @@
 
 * [Prices](https://politepol.com/en/prices)
 * [FAQ](https://politepol.com/en/faq)
+* [About](https://politepol.com/en/about)
 
 * [Sign Up](https://politepol.com/en/accounts/signup/)
 
