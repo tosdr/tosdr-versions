@@ -84,7 +84,7 @@ Terms & Policies
 
 Terms of Service
 
-Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing AddendumProduct Privacy NoticeIntercom Regional Data Hosting AddendumSupport PolicyPremier Services PolicyCookie PolicySecurity PolicySubprocessors ListData Privacy Framework NoticeIntercom Website Terms of UseAcademy TermsService Level AgreementAcceptable Use PolicyCode of ConductTrademark UsageIntercom Global Anti-Corruption StatementIntercom Partner Code of ConductIntercom DMCA PolicyLaw Enforcement Guidelines
+Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing AddendumProduct Privacy NoticeIntercom Regional Data Hosting AddendumSupport PolicyPremier Services PolicyCookie PolicySecurity PolicySubprocessors ListData Privacy Framework NoticeIntercom Website Terms of UseAcademy TermsService Level AgreementAcceptable Use PolicyCode of ConductTrademark UsageIntercom Global Anti-Corruption StatementIntercom Partner Code of ConductIntercom DMCA PolicyLaw Enforcement GuidelinesEuropean Digital Services Act Notice
 
 * [Terms of Service](https://www.intercom.com/legal/terms-and-policies)
     
@@ -120,7 +120,7 @@ Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing A
     
     [General Terms](#general-terms)
     
-* [Intercom Additional Product Terms](https://www.intercom.com/terms-and-policies/additional-product-terms)
+* [Intercom Additional Product Terms](http://www.intercom.com/legal/terms-and-policies/additional-product-terms)
     
 * [Privacy Policy](https://www.intercom.com/legal/privacy)
     
@@ -363,6 +363,8 @@ Terms of ServiceIntercom Additional Product TermsPrivacy PolicyData Processing A
 * [Intercom DMCA Policy](https://www.intercom.com/legal/dmca-policy)
     
 * [Law Enforcement Guidelines](https://www.intercom.com/legal/law-enforcement-guidelines)
+    
+* [European Digital Services Act Notice](https://www.intercom.com/legal/european-digital-services-act)
     
 
 Terms of Service
@@ -674,7 +676,7 @@ Sitemap
     * [Watch a Demo](https://www.intercom.com/resources/demos?on_pageview_event=demos_footer)
     * [Glossary](https://www.intercom.com/glossary)
     * [Academy](https://academy.intercom.com/?on_pageview_event=academy_footer)
-    * [Webinars](https://www.intercom.com/webinars?on_pageview_event=webinars_footer)
+    * [Events](https://www.intercom.com/webinars?on_pageview_event=webinars_footer)
     * [Product Changes](https://www.intercom.com/changes?on_pageview_event=change_log_footer)
     * [App Store](https://www.intercom.com/app-store?on_pageview_event=app_store_footer)
     * [Docs](https://www.intercom.com/help?on_pageview_event=docs_footer)
