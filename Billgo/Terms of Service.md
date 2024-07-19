@@ -93,111 +93,6 @@ Last Updated: 01/11/2023
       
     C.     **Entire Agreement**. These TOS, and any applicable documents referenced herein (such as Our [Privacy Policy](https://billgo.com/privacy-policy?hsLang=en)), form the complete and exclusive statement of the mutual understanding between You and BillGO with regard to the Websites, and supersede and cancel all prior written and oral agreements and communications relating to the Websites.
 
-‍
-
-##### State Specific Information
-
-‍
-
-**FOR ALASKA RESIDENTS ONLY**
-
-If your issue is unresolved by BillGO MT, Inc. 1-888-535-5205, please submit formal complaints with the State of Alaska, Division of Banking & Securities.  
-
-Please download the form here: [https://www.commerce.alaska.gov/web/portals/3/pub/DBSGeneralComplaintFormupdated.pdf](https://8440447.fs1.hubspotusercontent-na1.net/hubfs/8440447/Billgo_January2023/pdf/DBSGeneralComplaintFormupdated.pdf)  
-
-Submit formal complaint form with supporting documents:
-
-Division of Banking & Securities [PO Box 110807 Juneau, AK  99811-0807](http://webextlink//PO%20Box%20110807%20Juneau,%20AK%20%2099811-0807)
-
-If you are an Alaska resident with questions regarding formal complaints, please email us at [dbs.licensing@alaska.gov](mailto:dbs.licensing@alaska.gov) or call Nine Zero Seven Four Six Five Two Five Two One.
-
-‍
-
-**COLORADO**
-
-Entities other than FDIC insured financial institutions that conduct money transmission activities in Colorado, including the sale of money orders, transfer of funds, and other instruments for the payment of money or credit, are required to be licensed by the Colorado Division of Banking pursuant to the Money Transmitters Act, Title 11, Article 110, Colorado Revised Statutes.
-
-If you have a Question about or Problem with YOUR TRANSACTION – THE MONEY YOU SENT.
-
-You must contact BillGO MT, Inc. at (888) 535-5202 number or email support@prismmoney.com for assistance. The
-
-Division of Banking does not have access to this information.
-
-If you are a Colorado Resident and have a Complaint about THE MONEY TRANSMITTER – THE COMPANY THAT SENT YOUR MONEY.
-
-ALL complaints must be submitted in writing. Please fill out the Complaint Form provided on the Colorado Division of Banking’s website and return it and any documentation supporting the complaint via mail or email to the Division of Banking at:
-
-Colorado Division of Banking  
-1560 Broadway, Suite 975  
-Denver, CO 80202  
-email: DORA\_BankingWebsite@state.co.us  
-website: [www.dora.colorado.gov/dob](http://www.dora.colorado.gov/dob)    
-
-‍
-
-**ILLINOIS RESIDENTS**
-
-If you have a complaint, please contact BillGO MT, Inc. Customer Service at : (888) 535-5205. If you still have an unresolved complaint regarding BillGO MT, Inc. money transmission activity, you may file it by contacting the Illinois Division of Banking at:
-
-Illinois Division of Banking  
-320 West Washington Street, Springfield, IL 62786  
-Toll-Free Number: 1-888-473-4858
-
-‍
-
-**MARYLAND RESIDENTS**
-
-The Commissioner of Financial Regulation for the State of Maryland will accept all questions or complaints from Maryland residents regarding BillGO MT, Inc. License number, NMLS#2005089  at:
-
-Commissioner of Financial Regulation  
-Attention Complaint Unit  
-500 North Calvert Street, Suite 402  
-Baltimore, MD 21202  
-Toll-Free number: 1-888-784-0134
-
-‍
-
-**PENNSYLVANIA**
-
-If you have a complaint, please contact BillGO MT, Inc.  Customer Service at : (888) 535-5205.
-
-If you still have an unresolved complaint regarding BillGO MT, Inc. money transmission activity, you may file it by contacting the Pennsylvania Department of Banking and Securities at the following address:
-
-Pennsylvania Department of Banking and Securities  
-Market Square Plaza  
-17 N. Second Street, Suite 1300  
-Harrisburg, PA 17101  
-Toll-free in Pennsylvania 1.800.PA.BANKS (800.722.2657).  
-Out of state: 717.787.1854.
-
-If the consumer receives a paper receipt this information should appear on the receipt.
-
-If the consumer receives a receipt through a website/mobile app; the information should appear on the website/mobile app.
-
-‍
-
-**TEXAS RESIDENTS**
-
-If you have a complaint, first contact the consumer assistance of BillGO MT, Inc. at : (888) 535-5202. If you still have an unresolved complaint regarding BillGO MT, Inc. money transmission activity, please direct your complaint to:  
-
-Texas Department of Banking  
-2601 North Lamar Boulevard  
-Austin, Texas 78705  
-1-877-276-5554 (toll free)  
-[www.dob.texas.gov](http://www.dob.texas.gov/)
-
-‍
-
-**WASHINGTON RESIDENTS**
-
-If you have a complaint, first contact the consumer assistance of BillGO MT, Inc. at : (888) 535-5205. If you still have an unresolved complaint regarding BillGO MT, Inc. money transmission activity, please direct your complaint to the Washington Division of Consumer Services at:
-
-Washington Division of Consumer Services  
-Online: [https://dfi.wa.gov/file-complaint](https://dfi.wa.gov/file-complaint)    
-Mail or fax: [DOWNLOAD PDF](https://8440447.fs1.hubspotusercontent-na1.net/hubfs/8440447/Billgo_January2023/pdf/money-services-complaint.pdf)  
-Call: (360) 902-8703 or 1-877-RING DFI (1-877-746-4334).  
-Email us: CSEnforceComplaints@dfi.wa.gov.
-
 * [](javascript:;)
     * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
     * [Blog](https://billgo.com/blog)
@@ -208,7 +103,7 @@ Email us: CSEnforceComplaints@dfi.wa.gov.
     * [Contact](https://billgo.com/contact)
     * [Legal](https://billgo.com/legal)
     * [Privacy Policy](https://billgo.com/privacy-policy)
-    * [Licenses](https://billgo.com/licenses)
+    * [Licenses](https://billgo.com/licenses-new)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
 * [Bill Pay](https://billgo.com/billpay)
@@ -224,7 +119,7 @@ Email us: CSEnforceComplaints@dfi.wa.gov.
     * [Contact](https://billgo.com/contact)
     * [Legal](https://billgo.com/legal)
     * [Privacy Policy](https://billgo.com/privacy-policy)
-    * [Licenses](https://billgo.com/licenses)
+    * [Licenses](https://billgo.com/licenses-new)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
 [](https://www.facebook.com/BillGOPayments)[](https://twitter.com/BillGOPayments)[](https://www.linkedin.com/company/billgopayments)
