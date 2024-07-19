@@ -237,14 +237,15 @@ Non-Emergency Police Department
 Footer
 ======
 
-Get Help
---------
+Find Information
+----------------
 
 * [Live Chat with State Information Center](#)
-* [Email State Information Center](https://faqs.in.gov/hc/en-us/requests/new)
+* [Email State Information Center](https://in.accessgov.com/idoa/Forms/Page/idoa/ask-sic-a-question/)
 * [Find a Person](https://www.in.gov/apps/iot/find-a-person/)
 * [Find an Agency](https://www.in.gov/core/find_agency.html)
 * [Call: 1-800-457-8283](tel:1-800-457-8283)
+* [Text: 1-888-311-1846](tel:1-888-311-1846)
 
 Quick Information
 -----------------
