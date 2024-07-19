@@ -89,15 +89,15 @@ Recent Blog Posts
 
 ##### [Understanding the Role of Pedodontists](https://sandiegokidsdentist.com/understanding-the-role-of-pedodontists/)
 
-Jun 4, 2024 62 Comments Off on Understanding the Role of Pedodontists
+Jun 4, 2024 138 Comments Off on Understanding the Role of Pedodontists
 
 ##### [Should My Teen Get Braces or Invisalign?](https://sandiegokidsdentist.com/should-my-teen-get-braces-or-invisalign/)
 
-Mar 13, 2024 431 Comments Off on Should My Teen Get Braces or Invisalign?
+Mar 13, 2024 507 Comments Off on Should My Teen Get Braces or Invisalign?
 
 ##### [Guardians of Grins: Unveiling Common Pediatric Dental Emergencies](https://sandiegokidsdentist.com/common-pediatric-dental-emergencies/)
 
-Dec 28, 2023 605 Comments Off on Guardians of Grins: Unveiling Common Pediatric Dental Emergencies
+Dec 28, 2023 673 Comments Off on Guardians of Grins: Unveiling Common Pediatric Dental Emergencies
 
 Quick Links
 -----------
