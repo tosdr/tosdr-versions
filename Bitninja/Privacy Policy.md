@@ -537,7 +537,7 @@ Proactive server protection from a centralized, easy-to-use console. Secure your
 
 ![Hexa BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/02/Eszkoz-4-1.png)![Hexa BitNinja Server Security](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://bitninja.com/wp-content/uploads/2023/02/Eszkoz-4-1.png)
 
-closearrow-rightbarsangle-rightcross
+closearrow-rightbarsangle-rightcross        
 
 Close GDPR Cookie Settings
 
