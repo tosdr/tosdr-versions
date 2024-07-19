@@ -378,3 +378,7 @@ EIN: 62-1348105
 Copyright © 2018 Dolly Parton's Imagination Library
 
 ![fb](https://www.facebook.com/tr?id=2301946913258314&ev=PageView%0D%0A&noscript=1)
+
+                        
+
+Our site uses a limited amount of cookies to provide essential website functions, added security measures, analytics, reporting, and program awareness. Please accept our cookie policy by clicking the “Accept” button. If you prefer not to allow cookies, you may do this using your browser’s tools. Also please note that Dolly Parton's Imagination Library adheres to the guidelines set forth by the General Data Protection Regulation (GDPR).[Ok](#)
