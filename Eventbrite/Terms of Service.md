@@ -13,7 +13,7 @@ Help Center](https://www.eventbrite.com/help/en-us/)
 Eventbrite Terms of Service
 ===========================
 
-**Last updated: December 20, 2023**.
+**Last updated: July 3, 2024**.
 
 In this article
 
@@ -204,17 +204,19 @@ All provisions of these Terms that by their nature should survive termination of
 
 ### 5\. Export Controls and Restricted Countries We’re not allowed to provide our Services to certain people.
 
-As a global company based in the United States with operations in other countries, we comply with certain export controls and economic sanctions laws. You should familiarize yourself with these restrictions, regardless of your location or the location of the events hosted by you on the Services (“Your Eventbrite Events”). You represent and warrant that:
+As a global company based in the United States, we are subject to and must comply with applicable export controls and economic sanctions laws and regulations, including those imposed by the United States and similar laws and regulations of the other jurisdictions where we operate (collectively, "Trade Controls"). You should familiarize yourself with these restrictions, regardless of your location or the location of the events hosted by you on the Services (“Your Eventbrite Events”). You represent and warrant, on a continuing basis, that:
 
-1\. you are not located in, and you are not a national or resident of, any country to which the United States, United Kingdom, European Union, Australia, or Canada has embargoed goods and/or services of the same type as the Services, including Cuba, Iran, North Korea, Syria or the Crimea region of Ukraine; and
+1\. your use of the Services will at all times comply with all applicable Trade Controls; and
 
-2\. you are not a person or entity, or owned by, under the control of, or affiliated with, a person or entity that:
+2\. you are not a person or entity that:
 
-A. appears on the U.S. Office of Foreign Assets Control's Specially Designated Nationals List, Foreign Sanctions Evaders List or Palestinian Legislative Council List; the U.S. Department of State's Terrorist Exclusion List; the Bureau of Industry and Security's Denied Persons, Entity or Unverified List; the Consolidated List of Targets published by the U.K. HM Treasury; the Consolidated List published by the A.U. Department of Foreign Affairs and Trade;
+A. is the target of applicable Trade Controls restrictions, including that you are not a person or entity that:
 
-B. is subject to sanctions in any other country; or
+i. is listed on, or 50% or more owned or controlled by one or more persons or entities listed on, an applicable list of restricted or denied persons maintained by Trade Controls authorities, including without limitation the U.S. Office of Foreign Assets Control's Specially Designated Nationals List or Foreign Sanctions Evaders List; the U.S. Department of State's Terrorist Exclusion List; the Bureau of Industry and Security's Denied Persons List, the Entity List, or the Unverified List; the Consolidated List of Financial Sanctions Targets and the Investment Ban List maintained by His Majesty’s Treasury of the United Kingdom; the Consolidated List of Asset Freeze targets maintained by the European Union; and the Consolidated List published by the Australian Government Department of Foreign Affairs and Trade; or
 
-C. is engaged in the design, development or production of nuclear, biological or chemical weapons, missiles or unmanned aerial vehicles. 
+ii. is located, organized, resident in, or the government of, any country or territory that is, at any time, the target of country- or territory-wide sanctions (currently, Cuba, Iran, North Korea, Syria the Crimea region of Ukraine, the so-called Donetsk People’s Republic, and the so-called Luhansk People’s Republic) (collectively, “Restricted Areas”) (any such persons in (i) and (ii) a “Restricted Party”); and
+
+3\. you will not use the Services in connection with any direct or indirect activities or dealings with or involving any Restricted Area or Restricted Party, and will not otherwise use the Services in any manner that would cause Eventbrite to be in violation of applicable Trade Controls. 
 
 ### 6\. Release and Indemnification
 
