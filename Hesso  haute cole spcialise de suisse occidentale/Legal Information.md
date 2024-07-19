@@ -276,11 +276,11 @@ Si vous avez des questions ou des commentaires sur nos informations légales ou 
 
 [![](https://www.hes-so.ch/fileadmin/user_upload/equal-salary_logo_web.svg)](https://www.equalsalary.org/)
 
-[![](https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/master/Logo_footer/logo-unita.svg)](http://www.univ-unita.eu/)
+[![](https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/HES-SO_Master/Logo_footer/logo-unita.svg)](http://www.univ-unita.eu/)
 
-[![](https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/master/Logo_footer/logo-eua.svg)](https://eua.eu/)
+[![](https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/HES-SO_Master/Logo_footer/logo-eua.svg)](https://eua.eu/)
 
-[![](https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/master/Logo_footer/logo-swissuniversities.svg)](https://www.swissuniversities.ch/fr)
+[![](https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/HES-SO_Master/Logo_footer/logo-swissuniversities.svg)](https://www.swissuniversities.ch/fr)
 
 * [Contact](https://www.hes-so.ch/contact)
 * [Carrières](https://www.hes-so.ch/la-hes-so/carrieres)
