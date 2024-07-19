@@ -51,6 +51,10 @@ By clicking the **Send** button, you agree to our [Privacy Policy.](https://www.
 
 Send
 
+ [![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) 25% OFF 4K Pro Bundle ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Only till July 21 ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Hot Sale ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) 25% OFF 4K Pro Bundle ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Only till July 21 ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Hot Sale
+
+![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) 25% OFF 4K Pro Bundle ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Only till July 21 ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Hot Sale ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) 25% OFF 4K Pro Bundle ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Only till July 21 ![](https://static.4kdownload.com/main/img/redesign-v2/running-line/palm.1e1618c9aa4d.svg) Hot Sale](https://www.4kdownload.com/buy/bundle/11?utm_source=websiteline_hotsale&utm_medium=websiteline&utm_campaign=hotsale)
+
 4K Download — amazing solutions for your needs
 ==============================================
 
@@ -239,9 +243,28 @@ Open Media reserves the right to dissolve this agreement with the user of the pr
 * As used in these Terms, the term “including” is illustrative and not limitative.
 * If this agreement is translated and executed in any language other than English and there is any conflict as between the translation and the English version, the English version shall control.
 
-We use cookies to ensure you get the best experience on our website. If you continue to browse, we will assume you are happy with it. [Read more.](https://www.4kdownload.com/privacy/1)
+Cookies
+-------
 
-[![reminder window close button](https://static.4kdownload.com/main/img/redesign/ic-cross.acbcd4668eab.svg)](#)
+For magic to happen, we use cookies. Read our [Privacy Policy](https://www.4kdownload.com/privacy/1) to learn more.
+
+### Necessary
+
+These cookies ensure basic functions such as navigation and authentication. Without them, the website cannot work properly.
+
+### Preferences
+
+They enhance your experience by personalizing the site based on your choices, such as your preferred language or region.
+
+### Analytics
+
+They provide valuable insights into site traffic, user behavior, and performance, allowing us to make informed improvements.
+
+### Marketing
+
+They gather data to provide customized ads. These cookies enable us to present you with relevant and engaging content.
+
+OK Allow Selected
 
 Products
 
@@ -257,7 +280,7 @@ Legal info
 
 Company
 
-[About us](https://www.4kdownload.com/about/1) [News](https://www.4kdownload.com/blog/) [Contribute](https://www.4kdownload.com/contribute/recommend) [Affiliate](https://www.4kdownload.com/affiliate/8) [Non-Profit and Educational Discount Program](https://www.4kdownload.com/non-profit-and-educational-discount-program)
+[About us](https://www.4kdownload.com/about/1) [News](https://www.4kdownload.com/blog/) [Contacts](https://www.4kdownload.com/contacts/8) [Contribute](https://www.4kdownload.com/contribute/recommend) [Affiliate](https://www.4kdownload.com/affiliate/8) [Non-Profit and Educational Discount Program](https://www.4kdownload.com/non-profit-and-educational-discount-program)
 
 Get product updates
 
