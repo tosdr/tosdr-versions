@@ -21,14 +21,13 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
     * [Balance Trainers](https://www.bosu.com/collections/balance-trainers)
         * [Original](https://www.bosu.com/collections/balance-trainers/Original)
         * [NexGen](https://www.bosu.com/collections/balance-trainers/NexGen)
-        * [Limited Edition Pink NexGen](https://www.bosu.com/products/limited-edition-pink-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
-        * [Limited Edition Black Nex Gen](https://www.bosu.com/products/black-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
         * [Build Your Own BOSU®](https://www.bosu.com/products/build-your-own-bosu%C2%AE-home-unit)
         * [Sport](https://www.bosu.com/collections/balance-trainers/Sport)
+        * [Limited Edition Black Nex Gen](https://www.bosu.com/collections/limited-edition-black-nexgen)
+        * [Limited Edition Pink NexGen](https://www.bosu.com/products/limited-edition-pink-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
         * [ELITE](https://www.bosu.com/products/bosu%C2%AE-elite)
-        * [Accessories & Storage](https://www.bosu.com/collections/accessories-storage/Balance-Trainer)
-        * [Bundles](https://www.bosu.com/collections/combo-packs/Balance-Trainer)
-    * [CorLok System](https://www.bosu.com/collections/bosu%C2%AE-corlok-system)
+    * [Balance Pods](https://www.bosu.com/collections/balance-pods)
+    * [CorLok™ System](https://www.bosu.com/collections/bosu%C2%AE-corlok-system)
         * [CorLok Balance Trainer](https://www.bosu.com/products/bosu-corlok-balance-trainer-with-wall-mount)
         * [Wedge](https://www.bosu.com/products/the-wedge)
         * [Omni-Deck](https://www.bosu.com/products/bosu%C2%AE-omni-deck%E2%84%A2)
@@ -37,23 +36,19 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
     * [Exercise Balls](https://www.bosu.com/collections/exercise-balls)
         * [Exercise Balls](https://www.bosu.com/products/bosu%C2%AE-exercise-ball)
         * [Ballast Ball](https://www.bosu.com/collections/ballast-balls)
-        * [Bundles](https://www.bosu.com/collections/combo-packs/Exercise-Ball)
+    * [Helm](https://www.bosu.com/collections/the-helm)
     * [Hydro Trainers](https://www.bosu.com/collections/hydro-trainers)
         * [Hydro Balls](https://www.bosu.com/collections/hydro-trainers/Water-Filled-Kettlebell)
-        * [Surge](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
-        * [Storage](https://www.bosu.com/collections/storage/Hydro-Trainer)
-    * [Balance Pods](https://www.bosu.com/collections/balance-pods)
-    * [Helm](https://www.bosu.com/collections/the-helm)
-    * [Gym Must-Haves](https://www.bosu.com/collections/gym-must-haves)
+        * [Surge®](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
+    * [Gym Accessories](https://www.bosu.com/collections/gym-must-haves)
         * [Resistance Bands](https://www.bosu.com/collections/resistance-bands)
         * [Toning Ball](https://www.bosu.com/collections/toning-ball)
         * [Core Sliders](https://www.bosu.com/products/bosu%C2%AE-core-sliders)
-        * [Speed Jump Rope](https://www.bosu.com/products/bosu%C2%AE-speed-jump-rope)
         * [Balance Bar](https://www.bosu.com/products/bosu-balance-bar-with-wall-mount)
         * [Exercise Dice](https://www.bosu.com/collections/exercise-dice)
-        * [Must-Haves Bundle](https://www.bosu.com/products/accessory-bundle)
         * [Weighted Bar](https://www.bosu.com/products/bosu%C2%AE-balance-bar)
-        * [CorLok Wall Mount + Balance Bar bundle](https://www.bosu.com/products/bosu%C2%AE-corlok-wall-mount-balance-bar-bundle)
+    * [Bundles](https://www.bosu.com/collections/bundles)
+    * [Storage](https://www.bosu.com/collections/storage)
     * [Replacement Parts](https://www.bosu.com/collections/replacement-parts)
     * [Downloadable Workouts](https://www.bosu.com/collections/downloadable-workouts)
 * [Compare](https://www.bosu.com/)
@@ -93,15 +88,14 @@ Back
     
     * [Original](https://www.bosu.com/collections/balance-trainers/Original)
     * [NexGen](https://www.bosu.com/collections/balance-trainers/NexGen)
-    * [Limited Edition Pink NexGen](https://www.bosu.com/products/limited-edition-pink-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
-    * [Limited Edition Black Nex Gen](https://www.bosu.com/products/black-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
     * [Build Your Own BOSU®](https://www.bosu.com/products/build-your-own-bosu%C2%AE-home-unit)
     * [Sport](https://www.bosu.com/collections/balance-trainers/Sport)
+    * [Limited Edition Black Nex Gen](https://www.bosu.com/collections/limited-edition-black-nexgen)
+    * [Limited Edition Pink NexGen](https://www.bosu.com/products/limited-edition-pink-bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer)
     * [ELITE](https://www.bosu.com/products/bosu%C2%AE-elite)
-    * [Accessories & Storage](https://www.bosu.com/collections/accessories-storage/Balance-Trainer)
-    * [Bundles](https://www.bosu.com/collections/combo-packs/Balance-Trainer)
     
-* CorLok System
+* [Balance Pods](https://www.bosu.com/collections/balance-pods)
+* CorLok™ System
     
     * [CorLok Balance Trainer](https://www.bosu.com/products/bosu-corlok-balance-trainer-with-wall-mount)
     * [Wedge](https://www.bosu.com/products/the-wedge)
@@ -113,28 +107,24 @@ Back
     
     * [Exercise Balls](https://www.bosu.com/products/bosu%C2%AE-exercise-ball)
     * [Ballast Ball](https://www.bosu.com/collections/ballast-balls)
-    * [Bundles](https://www.bosu.com/collections/combo-packs/Exercise-Ball)
     
+* [Helm](https://www.bosu.com/collections/the-helm)
 * Hydro Trainers
     
     * [Hydro Balls](https://www.bosu.com/collections/hydro-trainers/Water-Filled-Kettlebell)
-    * [Surge](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
-    * [Storage](https://www.bosu.com/collections/storage/Hydro-Trainer)
+    * [Surge®](https://www.bosu.com/collections/hydro-trainers/Surge+Storm)
     
-* [Balance Pods](https://www.bosu.com/collections/balance-pods)
-* [Helm](https://www.bosu.com/collections/the-helm)
-* Gym Must-Haves
+* Gym Accessories
     
     * [Resistance Bands](https://www.bosu.com/collections/resistance-bands)
     * [Toning Ball](https://www.bosu.com/collections/toning-ball)
     * [Core Sliders](https://www.bosu.com/products/bosu%C2%AE-core-sliders)
-    * [Speed Jump Rope](https://www.bosu.com/products/bosu%C2%AE-speed-jump-rope)
     * [Balance Bar](https://www.bosu.com/products/bosu-balance-bar-with-wall-mount)
     * [Exercise Dice](https://www.bosu.com/collections/exercise-dice)
-    * [Must-Haves Bundle](https://www.bosu.com/products/accessory-bundle)
     * [Weighted Bar](https://www.bosu.com/products/bosu%C2%AE-balance-bar)
-    * [CorLok Wall Mount + Balance Bar bundle](https://www.bosu.com/products/bosu%C2%AE-corlok-wall-mount-balance-bar-bundle)
     
+* [Bundles](https://www.bosu.com/collections/bundles)
+* [Storage](https://www.bosu.com/collections/storage)
 * [Replacement Parts](https://www.bosu.com/collections/replacement-parts)
 * [Downloadable Workouts](https://www.bosu.com/collections/downloadable-workouts)
 
@@ -170,36 +160,16 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 * Free shipping over $100 📦
-* ⚡ 72-HR FLASH SALE ⚡
-* $99 [BOSU BALL](https://www.bosu.com/products/bosu%C2%AE-nexgen%E2%84%A2-home-balance-trainer "BOSU® NexGen™ Home Balance Trainer")
 
 Refund policy
 =============
