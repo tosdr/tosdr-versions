@@ -110,6 +110,7 @@ Dart 3.4 is live! Check out the [blog post](https://medium.com/dartlang/dart-3-4
         * [Verified publishers](https://dart.dev/tools/pub/verified-publishers)
         * [Security advisories](https://dart.dev/tools/pub/security-advisories)
         * [Versioning](https://dart.dev/tools/pub/versioning)
+    * [What not to commit](https://dart.dev/guides/libraries/private-files)
 * [Development](#sidenav-5)
     * [JSON](https://dart.dev/guides/json)
     * [Number representation](https://dart.dev/guides/language/numbers)
@@ -179,7 +180,6 @@ Dart 3.4 is live! Check out the [blog post](https://medium.com/dartlang/dart-3-4
     * [Testing & optimization](#sidenav-7-5)
         * [Testing](https://dart.dev/guides/testing)
         * [Debugging web apps](https://dart.dev/web/debugging)
-    * [What not to commit](https://dart.dev/guides/libraries/private-files)
 
 * [Resources](#sidenav-9)
     * [Language cheatsheet](https://dart.dev/resources/dart-cheatsheet)
