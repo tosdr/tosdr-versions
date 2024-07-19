@@ -52,7 +52,7 @@ Privacy & Cookies Policy
 
 [https://www.cobblestonesoftware.com](https://www.cobblestonesoftware.com/)
 
-**Last Updated: October 5th, 2023**
+**Last Updated: July 9th, 2024**
 
 CobbleStone Software ("CobbleStone," “we,” “us,” “our”) takes your privacy seriously. This privacy policy explains CobbleStone’s handling processes regarding the collection, use, and disclosure of personal information that you may provide to us through using this website (www.cobblestonesoftware.com) (the “Website”), by using any of our products or services such as our Contract Insight® software (“Software”), or engaging with us in other ways (collectively with the Website and Software, the “Services”).  
 
@@ -71,7 +71,7 @@ CobbleStone may collect personal information about you such as: 
 * Communications with us such as emails, comments, or suggestions 
 * Payment and billing information 
 * Geographic location 
-* Cookie and site usage (unless blocked by your browser
+* Cookie and site usage (unless blocked by your browser)
 * Device type, mobile ID, and screen size
 * IP Address, browser information, and domain
 * Sites that referred you to us
@@ -92,10 +92,19 @@ At CobbleStone, we pride ourselves on offering user-friendly products and outsta
 
    
 
- **Can I control my personal data that CobbleStone has collected?** 
---------------------------------------------------------------------
+ **What choices can I make about my personal information?** 
+------------------------------------------------------------
 
 CobbleStone acknowledges the right of individuals to access and control their personal information. You can contact us at any time to review, amend, or delete your personal information in our possession as allowed by applicable law. 
+
+CobbleStone also provides many choices about the use, disclosure, storage, and other processing of your personal information, such as:
+
+* Your Information: You are not required to complete a profile or enter your personal information to the Website. If you do, you can ask us for a copy of your personal data and ask us to change any incorrect information.
+* Device Location: To prevent us from collecting your device location, you can turn off location sharing on your device, change your device privacy settings, or decline to share location on your browser.
+* Cookies: If your web browser allows, you may disable the placement of cookies on your hard drive. Disabling the placement of cookies may prevent you from accessing or using portions of the site.
+* Marketing: You can opt out of any marketing messages we send you by clicking “unsubscribe” in the email message. We may continue to send you transactional emails if you purchase or use any CobbleStone Software or Services.  
+      
+    
 
 **Will CobbleStone share my personal information with others?** 
 ----------------------------------------------------------------
@@ -138,6 +147,8 @@ Occasionally, we may update this privacy policy by making material changes (such
 ----------------------------
 
 **Governing Law**. If you are a resident of North America, the laws of New Jersey and the United States apply. If you reside outside of North America, CobbleStone may act as controller and/or processor with regard to your personal information and the laws of Ireland apply. 
+
+**FTC Powers**. CobbleStone is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
 
 **Other Websites**. This policy only applies to your use of our Website and does not extend to the practices of other websites that we may link to, companies that we do not own or control, or people that we do not employ or manage. 
 
