@@ -79,9 +79,9 @@
     
     Featured Resources
     
-    [Analyst Reports
+    [E-books
     
-    The Forrester Wave™: Supplier Value Management Platforms, Q1 2022](https://www.coupa.com/resources/analyst-reports/Forrester/2022/SVM)
+    2024 Total Spend Management Benchmark Report](https://www.coupa.com/benchmark/2024)
     
 * Resources
     
@@ -103,6 +103,10 @@
     [Analyst Reports
     
     2024 Gartner® Magic Quadrant™ Source-to-Pay Suites](https://www.coupa.com/analyst-report/lp_all-24-gartner-mq-s2p)
+    
+    [E-books
+    
+    2024 Total Spend Management Benchmark Report](https://www.coupa.com/benchmark/2024)
     
 * Partner
     
@@ -455,7 +459,6 @@ To see Coupa’s full DPF Statement and learn about how Coupa complies with the 
         * [White Papers](https://www.coupa.com/resources?resource=3832#resources)
         * [Upcoming Webinars](https://www.coupa.com/events?field_event_type=4361#resources)
         * [Events](https://www.coupa.com/events?field_event_type=4356#resources)
-        * [Inspire](https://www.coupa.com/inspire)
         * [Suppliers](https://supplier.coupa.com/)
         * [The Community Forums](https://coupa-external.okta.com/)
 * * Partners
