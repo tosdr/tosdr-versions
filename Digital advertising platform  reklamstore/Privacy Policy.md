@@ -361,6 +361,7 @@ You have rights under data protection laws in relation to your personal data.
 * **Request restriction of processing your personal data:** This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
 * **Request transfer of your personal data:** To you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format.
 * **Right to withdraw consent:** Where we are relying on consent to process your personal data.
+* **Deletion of your account in the application**: If you want to request the deletion of your user account in the application, you can ensure the deletion of your account by sending an email titled ‘I Want to Delete My Account’ from the email address you registered with to info@reklamstore.com. In this case, your account and membership information will be deleted.
 
 If you wish to exercise any of the rights set out above, please contact us at privacy@reklamstore.com.
 
