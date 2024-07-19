@@ -42,6 +42,21 @@ Browse
         * [CR2 Batteries](https://www.maplin.co.uk/collections/lithium-cr2-batteries)
         * [2CR5 Batteries](https://www.maplin.co.uk/collections/lithium-2cr5-batteries)
         
+    * Coin Cell Batteries
+        
+        * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
+        * [CR1632 Batteries](https://www.maplin.co.uk/collections/cr1632-batteries)
+        * [CR2016 Batteries](https://www.maplin.co.uk/collections/cr2016-batteries)
+        * [CR2025 Batteries](https://www.maplin.co.uk/collections/cr2025-batteries)
+        * [CR2032 Batteries](https://www.maplin.co.uk/collections/cr2032-batteries)
+        * [S72 Batteries](https://www.maplin.co.uk/collections/s72-batteries)
+        * [SR57/S74 Batteries](https://www.maplin.co.uk/collections/sr57-s74-batteries)
+        * [SR58/S40 Batteries](https://www.maplin.co.uk/collections/sr58-s40-batteries)
+        * [SR60 Batteries](https://www.maplin.co.uk/collections/sr60-batteries)
+        * [SR63 Batteries](https://www.maplin.co.uk/collections/sr63-batteries)
+        * [SR66/S53 Batteries](https://www.maplin.co.uk/collections/sr66-s53-batteries)
+        * [SR69/S47 Batteries](https://www.maplin.co.uk/collections/sr69-s47-batteries)
+        
     * Specialist Batteries
         
         * [Specialist Batteries](https://www.maplin.co.uk/collections/specialist-batteries)
@@ -49,7 +64,6 @@ Browse
         * [A27 Batteries](https://www.maplin.co.uk/collections/a27-batteries)
         * [AGM Batteries](https://www.maplin.co.uk/collections/agm-batteries)
         * [Camera Batteries](https://www.maplin.co.uk/collections/camera-batteries)
-        * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
         * [E-Bike Batteries](https://www.maplin.co.uk/collections/e-bike-batteries)
         * [Golf Trolley Batteries](https://www.maplin.co.uk/collections/golf-trolley-batteries)
         * [Lithium LiFePO4 Batteries](https://www.maplin.co.uk/collections/lithium-lifepo4-batteries)
@@ -113,6 +127,7 @@ Browse
         * [to Lightning](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
         * [to HDMI](https://www.maplin.co.uk/collections/usb-c-to-hdmi-cables)
         * [to DisplayPort](https://www.maplin.co.uk/collections/usb-c-to-displayport)
+        * [to VGA](https://www.maplin.co.uk/collections/usb-c-to-vga-cables)
         * [USB-C Extension Cables](https://www.maplin.co.uk/collections/usb-c-extension-cables)
         * [USB-C Adapters](https://www.maplin.co.uk/collections/usb-c-adapters)
         
@@ -146,7 +161,6 @@ Browse
         * [Lightning](https://www.maplin.co.uk/collections/lightning-cables-adapters)
         * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
         * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-lightning-cables)
-        * [Lightning Adapters](https://www.maplin.co.uk/collections/lightning-adapters)
         
     * Hubs
         
@@ -203,6 +217,15 @@ Browse
         * [RJ45 Ethernet Adapters](https://www.maplin.co.uk/collections/rj45-adapters)
         * [RJ11 Telephone Cables](https://www.maplin.co.uk/collections/telephone-cables)
         
+    * Tech Kits
+        
+        * [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+        * [USB-C Charging Cable Kit](https://www.maplin.co.uk/products/maplin-usb-c-charging-cable-kit)
+        * [Lightning to USB-C Charging Cable Kit](https://www.maplin.co.uk/products/maplin-lighting-to-usb-c-charging-cable-kit)
+        * [Lightning to USB-A Charging Cable Kit](https://www.maplin.co.uk/products/maplin-lightning-charging-cable-kit)
+        * [HDMI Switch Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-switch-starter-kit)
+        * [HDMI Splitter Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-splitter-starter-kit)
+        
     * Shop by Brand
         
         * [Shop by Brand](https://www.maplin.co.uk/pages/cables)
@@ -239,7 +262,7 @@ Browse
         * [PC & Laptop](https://www.maplin.co.uk/collections/pc-laptop-accessories)
         * [Laptop Chargers](https://www.maplin.co.uk/collections/laptop-chargers)
         * [Webcams](https://www.maplin.co.uk/collections/webcams)
-        * [Computer Headsets](https://www.maplin.co.uk/collections/computer-headsets)
+        * [Computer Headsets](https://www.maplin.co.uk/collections/headsets)
         * [Gaming Headsets](https://www.maplin.co.uk/collections/gaming-headsets)
         * [Laptop Stands](https://www.maplin.co.uk/collections/laptop-stands)
         * [Monitor Mounts](https://www.maplin.co.uk/collections/monitor-mounts)
@@ -257,6 +280,15 @@ Browse
         * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
         * [SIM Cards](https://www.maplin.co.uk/collections/sim-cards)
         * [Styluses](https://www.maplin.co.uk/collections/styluses)
+        
+    * Tech Kits
+        
+        * [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+        * [Everyday Charging Kit](https://www.maplin.co.uk/products/everyday-charging-kit)
+        * [Home Office Charging Kit](https://www.maplin.co.uk/products/maplin-home-office-charging-kit)
+        * [Multi-Charging Kit](https://www.maplin.co.uk/products/maplin-multi-charging-kit)
+        * [Travel Charging Kit](https://www.maplin.co.uk/products/maplin-travel-charging-kit)
+        * [Power Bank Kit](https://www.maplin.co.uk/products/maplin-powerbank-kit)
         
     * Shop by Brand
         
@@ -288,7 +320,9 @@ Browse
         * [Compact Cameras](https://www.maplin.co.uk/collections/compact-cameras)
         * [Tough Compact Cameras](https://www.maplin.co.uk/collections/tough-cameras)
         * [360 Cameras](https://www.maplin.co.uk/collections/360-cameras)
+        * [Action Cameras](https://www.maplin.co.uk/collections/action-cameras)
         * [Disposable Cameras](https://www.maplin.co.uk/collections/disposable-cameras)
+        * [Film Cameras](https://www.maplin.co.uk/collections/block-1)
         
     * Video
         
@@ -315,9 +349,9 @@ Browse
         * [Tripods & Mounts](https://www.maplin.co.uk/collections/tripods-mounts)
         * [Digital Photo Frames](https://www.maplin.co.uk/collections/digital-photo-frames)
         
-    * Shop By Use
+    * Shop by Use
         
-        * [Shop By Use](https://www.maplin.co.uk/pages/photo-video)
+        * [Shop by Use](https://www.maplin.co.uk/pages/photo-video)
         * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
         * [Parties & Events](https://www.maplin.co.uk/collections/parties-events)
         * [Bird Watching](https://www.maplin.co.uk/collections/binoculars)
@@ -378,6 +412,8 @@ Browse
         * [Amplifiers](https://www.maplin.co.uk/collections/amplifiers)
         * [Stage Lighting & Effects](https://www.maplin.co.uk/collections/stage-lighting)
         * [Karaoke Systems](https://www.maplin.co.uk/collections/karaoke-systems)
+        * [PA Systems](https://www.maplin.co.uk/collections/pa-systems)
+        * [DI Boxes](https://www.maplin.co.uk/collections/di-boxes)
         
     * Speakers
         
@@ -392,6 +428,16 @@ Browse
         * [TV Brackets & Trolleys](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
         * [TV Brackets](https://www.maplin.co.uk/collections/tv-brackets)
         * [TV & Projector Trolleys](https://www.maplin.co.uk/collections/tv-projector-trolleys)
+        
+    * Tech Kits
+        
+        * [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+        * [Headphone Combo Kit](https://www.maplin.co.uk/products/maplin-headphone-combo-kit)
+        * [In-Ear Headphone Kit](https://www.maplin.co.uk/products/in-ear-headphone-kit)
+        * [Over-Ear Headphone Kit](https://www.maplin.co.uk/products/maplin-over-ear-headphone-kit)
+        * [Bluetooth Speaker Kit](https://www.maplin.co.uk/products/maplin-bluetooth-speaker-kit)
+        * [Earphones & Speaker Kit](https://www.maplin.co.uk/products/maplin-earphones-speaker-kit)
+        * [Headphones & Speaker Kit](https://www.maplin.co.uk/products/maplin-headphones-speaker-kit)
         
     * Shop by Use
         
@@ -427,7 +473,10 @@ Browse
     * Solar Power
         
         * [Solar Power](https://www.maplin.co.uk/collections/solar-power)
-        * [Solar Panels & Kits](https://www.maplin.co.uk/collections/solar-panels)
+        * [Rigid Solar Panels & Kits](https://www.maplin.co.uk/collections/rigid-solar-panels-kits)
+        * [Flexi Solar Panels & Kits](https://www.maplin.co.uk/collections/flexi-solar-panels-kits)
+        * [Fold Up Solar Panels](https://www.maplin.co.uk/collections/fold-up-solar-panels)
+        * [Hubi Solar Kits](https://www.maplin.co.uk/collections/hubi-solar-kits)
         * [Charge Controllers](https://www.maplin.co.uk/collections/solar-charge-controllers)
         * [Power Inverters](https://www.maplin.co.uk/collections/power-inverters)
         
@@ -486,17 +535,6 @@ Browse
         * [Humidifiers](https://www.maplin.co.uk/collections/humidifiers)
         * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
         
-    * Car
-        
-        * [Car](https://www.maplin.co.uk/pages/car)
-        * [Dash Cams](https://www.maplin.co.uk/collections/dash-cams)
-        * [Car Power](https://www.maplin.co.uk/collections/car-power)
-        * [EV Chargers](https://www.maplin.co.uk/collections/ev-chargers)
-        * [Battery Maintenance](https://www.maplin.co.uk/collections/car-battery-maintenance)
-        * [Jump Starters](https://www.maplin.co.uk/collections/jump-starters)
-        * [Tyre Inflators](https://www.maplin.co.uk/collections/tyre-inflators)
-        * [In-Car Accessories](https://www.maplin.co.uk/collections/car-accessories)
-        
     * [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
     * [Security](https://www.maplin.co.uk/collections/security)
     * Shop by Brand
@@ -517,9 +555,45 @@ Browse
     * Learn More
         
         * [Learn More](https://www.maplin.co.uk/blogs/expert-advice)
-        * [What are power stations?](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
-        * [Why go solar?](https://www.maplin.co.uk/blogs/expert-advice/benefits-of-switching-to-solar)
-        * [How do solar charge controllers work?](https://www.maplin.co.uk/blogs/expert-advice/how-do-solar-charge-controllers-work)
+        * [What are the benefits of LED lighting?](https://www.maplin.co.uk/blogs/expert-advice/benefits-of-led-lighting)
+        * [Light up your garden](https://www.maplin.co.uk/blogs/expert-advice/garden-lighting-guide)
+        * [Which bulb fitting do I need?](https://www.maplin.co.uk/blogs/expert-advice/which-bulb-fitting-do-i-need)
+        
+    
+* Car
+    
+    * [Car](https://www.maplin.co.uk/pages/car)
+    * Car Maintenance
+        
+        * [Car Maintenance](https://www.maplin.co.uk/collections/car-maintenance)
+        * [EV Chargers](https://www.maplin.co.uk/collections/ev-chargers)
+        * [Battery Maintenance](https://www.maplin.co.uk/collections/car-battery-maintenance)
+        * [Jump Starters](https://www.maplin.co.uk/collections/jump-starters)
+        * [Tyre Inflators](https://www.maplin.co.uk/collections/tyre-inflators)
+        
+    * Car Accessories
+        
+        * [Car Accessories](https://www.maplin.co.uk/collections/car-accessories)
+        * [In-Car Chargers](https://www.maplin.co.uk/collections/in-car-chargers)
+        * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
+        
+    * [Dash Cams](https://www.maplin.co.uk/collections/dash-cams)
+    * Shop by Brand
+        
+        * [Shop by Brand](https://www.maplin.co.uk/collections/car)
+        * [Maplin](https://www.maplin.co.uk/collections/maplin)
+        * [Ring Automotive](https://www.maplin.co.uk/collections/ring-automotive)
+        * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
+        * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+        * [Transcend](https://www.maplin.co.uk/collections/transcend)
+        * [Targus](https://www.maplin.co.uk/collections/targus)
+        
+    * Learn More
+        
+        * [Learn More](https://www.maplin.co.uk/blogs/expert-advice)
+        * [Understanding EV Charging Cables In The UK](https://www.maplin.co.uk/blogs/expert-advice/understanding-ev-charging-cables-in-the-uk)
+        * [A Beginner's Guide To Dash Cams](https://www.maplin.co.uk/blogs/expert-advice/a-beginners-guide-to-dash-cams)
+        * [What Is MagSafe?](https://www.maplin.co.uk/blogs/expert-advice/what-is-magsafe)
         
     
 * Furniture & Storage
@@ -528,21 +602,21 @@ Browse
     * Desks
         
         * [Desks](https://www.maplin.co.uk/collections/desks)
-        * [Office](https://www.maplin.co.uk/collections/office-desks)
-        * [Corner](https://www.maplin.co.uk/collections/corner-desks)
-        * [Standing](https://www.maplin.co.uk/collections/standing-desks)
-        * [Gaming](https://www.maplin.co.uk/collections/gaming-desks)
-        * [Storage](https://www.maplin.co.uk/collections/storage)
+        * [Standing Desks](https://www.maplin.co.uk/collections/standing-desks)
+        * [Gaming Desks](https://www.maplin.co.uk/collections/gaming-desks)
+        * [Computer Desks](https://www.maplin.co.uk/collections/office-desks)
+        * [Corner Desks](https://www.maplin.co.uk/collections/corner-desks)
+        * [Storage Desks](https://www.maplin.co.uk/collections/storage)
         * [Desk Accessories](https://www.maplin.co.uk/collections/desk-accessories)
         
     * Chairs
         
         * [Chairs](https://www.maplin.co.uk/collections/chairs)
-        * [Ergonomic](https://www.maplin.co.uk/collections/ergonomic-chairs)
-        * [Mesh](https://www.maplin.co.uk/collections/mesh-chairs)
-        * [Executive](https://www.maplin.co.uk/collections/executive-chairs)
-        * [Mid-Back](https://www.maplin.co.uk/collections/mid-back-chairs)
-        * [Gaming](https://www.maplin.co.uk/collections/gaming-chairs)
+        * [Ergonomic Chairs](https://www.maplin.co.uk/collections/ergonomic-chairs)
+        * [Gaming Chairs](https://www.maplin.co.uk/collections/gaming-chairs)
+        * [Executive Chairs](https://www.maplin.co.uk/collections/executive-chairs)
+        * [Mesh Chairs](https://www.maplin.co.uk/collections/mesh-chairs)
+        * [Mid-Back Chairs](https://www.maplin.co.uk/collections/mid-back-chairs)
         * [Chair Accessories](https://www.maplin.co.uk/collections/chair-accessories)
         
     * Brackets & Mounts
@@ -560,6 +634,11 @@ Browse
         * [Aluminium Flight Cases](https://www.maplin.co.uk/collections/aluminium-flight-cases)
         * [Plastic Flight Cases](https://www.maplin.co.uk/collections/plastic-flight-cases)
         * [Tool Boxes](https://www.maplin.co.uk/collections/tool-boxes)
+        
+    * Tech Kits
+        
+        * [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+        * [Standing Desk Kit](https://www.maplin.co.uk/products/maplin-standing-desk-kit)
         
     * Shop by Brand
         
@@ -759,13 +838,26 @@ Browse
     * [CR2 Batteries](https://www.maplin.co.uk/collections/lithium-cr2-batteries)
     * [2CR5 Batteries](https://www.maplin.co.uk/collections/lithium-2cr5-batteries)
     
+    [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
+    
+    * [CR1632 Batteries](https://www.maplin.co.uk/collections/cr1632-batteries)
+    * [CR2016 Batteries](https://www.maplin.co.uk/collections/cr2016-batteries)
+    * [CR2025 Batteries](https://www.maplin.co.uk/collections/cr2025-batteries)
+    * [CR2032 Batteries](https://www.maplin.co.uk/collections/cr2032-batteries)
+    * [S72 Batteries](https://www.maplin.co.uk/collections/s72-batteries)
+    * [SR57/S74 Batteries](https://www.maplin.co.uk/collections/sr57-s74-batteries)
+    * [SR58/S40 Batteries](https://www.maplin.co.uk/collections/sr58-s40-batteries)
+    * [SR60 Batteries](https://www.maplin.co.uk/collections/sr60-batteries)
+    * [SR63 Batteries](https://www.maplin.co.uk/collections/sr63-batteries)
+    * [SR66/S53 Batteries](https://www.maplin.co.uk/collections/sr66-s53-batteries)
+    * [SR69/S47 Batteries](https://www.maplin.co.uk/collections/sr69-s47-batteries)
+    
     [Specialist Batteries](https://www.maplin.co.uk/collections/specialist-batteries)
     
     * [AAAA Batteries](https://www.maplin.co.uk/collections/aaaa-batteries)
     * [A27 Batteries](https://www.maplin.co.uk/collections/a27-batteries)
     * [AGM Batteries](https://www.maplin.co.uk/collections/agm-batteries)
     * [Camera Batteries](https://www.maplin.co.uk/collections/camera-batteries)
-    * [Coin Cell Batteries](https://www.maplin.co.uk/collections/coin-cell-batteries)
     * [E-Bike Batteries](https://www.maplin.co.uk/collections/e-bike-batteries)
     * [Golf Trolley Batteries](https://www.maplin.co.uk/collections/golf-trolley-batteries)
     * [Lithium LiFePO4 Batteries](https://www.maplin.co.uk/collections/lithium-lifepo4-batteries)
@@ -805,7 +897,7 @@ Browse
     * [Lifos](https://www.maplin.co.uk/collections/lifos)
     * [TBB Power](https://www.maplin.co.uk/collections/tbb-power)
     
-    [![Different Battery Types and Sizes at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/battery-sizes-and-types)
+    [![Different Battery Types and Sizes at Maplin](//www.maplin.co.uk/cdn/shop/files/pexels-photo-698485_1194x.jpg?v=1681893586)](https://www.maplin.co.uk/blogs/expert-advice/battery-sizes-and-types)
     
     #### [What are the different battery sizes and types?](https://www.maplin.co.uk/blogs/expert-advice/battery-sizes-and-types)
     
@@ -829,6 +921,7 @@ Browse
     * [to Lightning](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
     * [to HDMI](https://www.maplin.co.uk/collections/usb-c-to-hdmi-cables)
     * [to DisplayPort](https://www.maplin.co.uk/collections/usb-c-to-displayport)
+    * [to VGA](https://www.maplin.co.uk/collections/usb-c-to-vga-cables)
     * [USB-C Extension Cables](https://www.maplin.co.uk/collections/usb-c-extension-cables)
     * [USB-C Adapters](https://www.maplin.co.uk/collections/usb-c-adapters)
     
@@ -859,7 +952,6 @@ Browse
     
     * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
     * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-lightning-cables)
-    * [Lightning Adapters](https://www.maplin.co.uk/collections/lightning-adapters)
     
     [Hubs](https://www.maplin.co.uk/collections/usb-hubs)
     
@@ -910,6 +1002,14 @@ Browse
     * [RJ45 Ethernet Adapters](https://www.maplin.co.uk/collections/rj45-adapters)
     * [RJ11 Telephone Cables](https://www.maplin.co.uk/collections/telephone-cables)
     
+    [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+    
+    * [USB-C Charging Cable Kit](https://www.maplin.co.uk/products/maplin-usb-c-charging-cable-kit)
+    * [Lightning to USB-C Charging Cable Kit](https://www.maplin.co.uk/products/maplin-lighting-to-usb-c-charging-cable-kit)
+    * [Lightning to USB-A Charging Cable Kit](https://www.maplin.co.uk/products/maplin-lightning-charging-cable-kit)
+    * [HDMI Switch Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-switch-starter-kit)
+    * [HDMI Splitter Starter Kit](https://www.maplin.co.uk/products/maplin-hdmi-splitter-starter-kit)
+    
     [Shop by Brand](https://www.maplin.co.uk/pages/cables)
     
     * [Maplin](https://www.maplin.co.uk/collections/maplin)
@@ -919,13 +1019,13 @@ Browse
     * [On-Stage](https://www.maplin.co.uk/collections/on-stage)
     * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
     
-    [![Cables at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cables)
+    [![Cables at Maplin](//www.maplin.co.uk/cdn/shop/files/pexels-photo-4219862_1125x.jpg?v=1681898052)](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cable-types)
     
-    #### [Confused about cables?](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cables)
+    #### [Confused about cables?](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cable-types)
     
     A cable is just a cable, right? Well, it isn’t quite that simple. There are all sorts of features and tech details that are important to understand to make sure you get the ideal cable for your needs.
     
-    [Read more](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cables)
+    [Read more](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cable-types)
     
     * 
     * [Confused about cables?](https://www.maplin.co.uk/blogs/expert-advice/confused-about-cable-types)
@@ -947,7 +1047,7 @@ Browse
     
     * [Laptop Chargers](https://www.maplin.co.uk/collections/laptop-chargers)
     * [Webcams](https://www.maplin.co.uk/collections/webcams)
-    * [Computer Headsets](https://www.maplin.co.uk/collections/computer-headsets)
+    * [Computer Headsets](https://www.maplin.co.uk/collections/headsets)
     * [Gaming Headsets](https://www.maplin.co.uk/collections/gaming-headsets)
     * [Laptop Stands](https://www.maplin.co.uk/collections/laptop-stands)
     * [Monitor Mounts](https://www.maplin.co.uk/collections/monitor-mounts)
@@ -965,6 +1065,14 @@ Browse
     * [SIM Cards](https://www.maplin.co.uk/collections/sim-cards)
     * [Styluses](https://www.maplin.co.uk/collections/styluses)
     
+    [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+    
+    * [Everyday Charging Kit](https://www.maplin.co.uk/products/everyday-charging-kit)
+    * [Home Office Charging Kit](https://www.maplin.co.uk/products/maplin-home-office-charging-kit)
+    * [Multi-Charging Kit](https://www.maplin.co.uk/products/maplin-multi-charging-kit)
+    * [Travel Charging Kit](https://www.maplin.co.uk/products/maplin-travel-charging-kit)
+    * [Power Bank Kit](https://www.maplin.co.uk/products/maplin-powerbank-kit)
+    
     [Shop by Brand](https://www.maplin.co.uk/pages/pc-mobile-accessories)
     
     * [Maplin](https://www.maplin.co.uk/collections/maplin)
@@ -974,7 +1082,7 @@ Browse
     * [ProSound](https://www.maplin.co.uk/collections/prosound)
     * [Praktica](https://www.maplin.co.uk/collections/praktica)
     
-    [![USB Hubs at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/why-use-a-usb-hub)
+    [![USB Hubs at Maplin](//www.maplin.co.uk/cdn/shop/files/MAP386_LS_0_2130x.jpg?v=1681898872)](https://www.maplin.co.uk/blogs/expert-advice/why-use-a-usb-hub)
     
     #### [Why use a USB hub?](https://www.maplin.co.uk/blogs/expert-advice/why-use-a-usb-hub)
     
@@ -997,7 +1105,9 @@ Browse
     * [Compact Cameras](https://www.maplin.co.uk/collections/compact-cameras)
     * [Tough Compact Cameras](https://www.maplin.co.uk/collections/tough-cameras)
     * [360 Cameras](https://www.maplin.co.uk/collections/360-cameras)
+    * [Action Cameras](https://www.maplin.co.uk/collections/action-cameras)
     * [Disposable Cameras](https://www.maplin.co.uk/collections/disposable-cameras)
+    * [Film Cameras](https://www.maplin.co.uk/collections/block-1)
     
     [Video](https://www.maplin.co.uk/collections/video)
     
@@ -1021,7 +1131,7 @@ Browse
     * [Tripods & Mounts](https://www.maplin.co.uk/collections/tripods-mounts)
     * [Digital Photo Frames](https://www.maplin.co.uk/collections/digital-photo-frames)
     
-    [Shop By Use](https://www.maplin.co.uk/pages/photo-video)
+    [Shop by Use](https://www.maplin.co.uk/pages/photo-video)
     
     * [Content Creation](https://www.maplin.co.uk/collections/content-creation)
     * [Parties & Events](https://www.maplin.co.uk/collections/parties-events)
@@ -1039,7 +1149,7 @@ Browse
     * [Transcend](https://www.maplin.co.uk/collections/transcend)
     * [Agfa](https://www.maplin.co.uk/collections/agfa)
     
-    [![Portable Photo Printers at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/what-are-portable-photo-printers)
+    [![Portable Photo Printers at Maplin](//www.maplin.co.uk/cdn/shop/files/FUJ2036_LS_3_1_4500x.jpg?v=1694163726)](https://www.maplin.co.uk/blogs/expert-advice/what-are-portable-photo-printers)
     
     #### [What are portable photo printers?](https://www.maplin.co.uk/blogs/expert-advice/what-are-portable-photo-printers)
     
@@ -1082,6 +1192,8 @@ Browse
     * [Amplifiers](https://www.maplin.co.uk/collections/amplifiers)
     * [Stage Lighting & Effects](https://www.maplin.co.uk/collections/stage-lighting)
     * [Karaoke Systems](https://www.maplin.co.uk/collections/karaoke-systems)
+    * [PA Systems](https://www.maplin.co.uk/collections/pa-systems)
+    * [DI Boxes](https://www.maplin.co.uk/collections/di-boxes)
     
     [Speakers](https://www.maplin.co.uk/collections/speakers)
     
@@ -1094,6 +1206,15 @@ Browse
     
     * [TV Brackets](https://www.maplin.co.uk/collections/tv-brackets)
     * [TV & Projector Trolleys](https://www.maplin.co.uk/collections/tv-projector-trolleys)
+    
+    [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+    
+    * [Headphone Combo Kit](https://www.maplin.co.uk/products/maplin-headphone-combo-kit)
+    * [In-Ear Headphone Kit](https://www.maplin.co.uk/products/in-ear-headphone-kit)
+    * [Over-Ear Headphone Kit](https://www.maplin.co.uk/products/maplin-over-ear-headphone-kit)
+    * [Bluetooth Speaker Kit](https://www.maplin.co.uk/products/maplin-bluetooth-speaker-kit)
+    * [Earphones & Speaker Kit](https://www.maplin.co.uk/products/maplin-earphones-speaker-kit)
+    * [Headphones & Speaker Kit](https://www.maplin.co.uk/products/maplin-headphones-speaker-kit)
     
     [Shop by Use](https://www.maplin.co.uk/pages/audio)
     
@@ -1112,7 +1233,7 @@ Browse
     * [ProSound](https://www.maplin.co.uk/collections/prosound)
     * [Xvive](https://www.maplin.co.uk/collections/xvive)
     
-    [![Microphones at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/different-types-of-microphones)
+    [![Microphones at Maplin](//www.maplin.co.uk/cdn/shop/files/MAO021_LS_1_2400x.jpg?v=1681897257)](https://www.maplin.co.uk/blogs/expert-advice/different-types-of-microphones)
     
     #### [What are the different types of microphones?](https://www.maplin.co.uk/blogs/expert-advice/different-types-of-microphones)
     
@@ -1130,7 +1251,10 @@ Browse
     
     [Solar Power](https://www.maplin.co.uk/collections/solar-power)
     
-    * [Solar Panels & Kits](https://www.maplin.co.uk/collections/solar-panels)
+    * [Rigid Solar Panels & Kits](https://www.maplin.co.uk/collections/rigid-solar-panels-kits)
+    * [Flexi Solar Panels & Kits](https://www.maplin.co.uk/collections/flexi-solar-panels-kits)
+    * [Fold Up Solar Panels](https://www.maplin.co.uk/collections/fold-up-solar-panels)
+    * [Hubi Solar Kits](https://www.maplin.co.uk/collections/hubi-solar-kits)
     * [Charge Controllers](https://www.maplin.co.uk/collections/solar-charge-controllers)
     * [Power Inverters](https://www.maplin.co.uk/collections/power-inverters)
     
@@ -1182,16 +1306,6 @@ Browse
     * [Humidifiers](https://www.maplin.co.uk/collections/humidifiers)
     * [Patio Heaters](https://www.maplin.co.uk/collections/patio-heaters)
     
-    [Car](https://www.maplin.co.uk/pages/car)
-    
-    * [Dash Cams](https://www.maplin.co.uk/collections/dash-cams)
-    * [Car Power](https://www.maplin.co.uk/collections/car-power)
-    * [EV Chargers](https://www.maplin.co.uk/collections/ev-chargers)
-    * [Battery Maintenance](https://www.maplin.co.uk/collections/car-battery-maintenance)
-    * [Jump Starters](https://www.maplin.co.uk/collections/jump-starters)
-    * [Tyre Inflators](https://www.maplin.co.uk/collections/tyre-inflators)
-    * [In-Car Accessories](https://www.maplin.co.uk/collections/car-accessories)
-    
     [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
     
     [Security](https://www.maplin.co.uk/collections/security)
@@ -1210,7 +1324,7 @@ Browse
     * [Hubi](https://www.maplin.co.uk/collections/hubi)
     * [SMJ](https://www.maplin.co.uk/collections/smj-electrical)
     
-    [![Power Stations at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
+    [![Power Stations at Maplin](//www.maplin.co.uk/cdn/shop/files/MAP533_LS_2_2_808x.jpg?v=1681900152)](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
     
     #### [What are power stations?](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
     
@@ -1219,28 +1333,66 @@ Browse
     [Read more](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
     
     * 
-    * [What are power stations?](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-power-station)
-    * [Why go solar?](https://www.maplin.co.uk/blogs/expert-advice/benefits-of-switching-to-solar)
-    * [How do solar charge controllers work?](https://www.maplin.co.uk/blogs/expert-advice/how-do-solar-charge-controllers-work)
+    * [What are the benefits of LED lighting?](https://www.maplin.co.uk/blogs/expert-advice/benefits-of-led-lighting)
+    * [Light up your garden](https://www.maplin.co.uk/blogs/expert-advice/garden-lighting-guide)
+    * [Which bulb fitting do I need?](https://www.maplin.co.uk/blogs/expert-advice/which-bulb-fitting-do-i-need)
+    
+* [Car](https://www.maplin.co.uk/pages/car)
+    
+    [Car Maintenance](https://www.maplin.co.uk/collections/car-maintenance)
+    
+    * [EV Chargers](https://www.maplin.co.uk/collections/ev-chargers)
+    * [Battery Maintenance](https://www.maplin.co.uk/collections/car-battery-maintenance)
+    * [Jump Starters](https://www.maplin.co.uk/collections/jump-starters)
+    * [Tyre Inflators](https://www.maplin.co.uk/collections/tyre-inflators)
+    
+    [Car Accessories](https://www.maplin.co.uk/collections/car-accessories)
+    
+    * [In-Car Chargers](https://www.maplin.co.uk/collections/in-car-chargers)
+    * [In-Car Phone & Tablet Holders](https://www.maplin.co.uk/collections/in-car-phone-holders)
+    
+    [Dash Cams](https://www.maplin.co.uk/collections/dash-cams)
+    
+    [Shop by Brand](https://www.maplin.co.uk/collections/car)
+    
+    * [Maplin](https://www.maplin.co.uk/collections/maplin)
+    * [Ring Automotive](https://www.maplin.co.uk/collections/ring-automotive)
+    * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
+    * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
+    * [Transcend](https://www.maplin.co.uk/collections/transcend)
+    * [Targus](https://www.maplin.co.uk/collections/targus)
+    
+    [![Understanding EV Electric Vehicle Charging Cables in the UK at Maplin](//www.maplin.co.uk/cdn/shop/files/img-1716309268272_1200x_43b02144-ee1e-461d-b415-8614dd2187d0_866x.webp?v=1718009721)](https://www.maplin.co.uk/blogs/expert-advice/understanding-ev-charging-cables-in-the-uk)
+    
+    #### [Understanding EV Charging Cables In The UK](https://www.maplin.co.uk/blogs/expert-advice/understanding-ev-charging-cables-in-the-uk)
+    
+    Electric vehicles (EVs) are gaining popularity around the world, including in the United Kingdom. As more people switch to EVs, the need for reliable and efficient charging solutions becomes paramount.
+    
+    [Read more](https://www.maplin.co.uk/blogs/expert-advice/understanding-ev-charging-cables-in-the-uk)
+    
+    * 
+    * [Understanding EV Charging Cables In The UK](https://www.maplin.co.uk/blogs/expert-advice/understanding-ev-charging-cables-in-the-uk)
+    * [A Beginner's Guide To Dash Cams](https://www.maplin.co.uk/blogs/expert-advice/a-beginners-guide-to-dash-cams)
+    * [What Is MagSafe?](https://www.maplin.co.uk/blogs/expert-advice/what-is-magsafe)
     
 * [Furniture & Storage](https://www.maplin.co.uk/pages/furniture-storage)
     
     [Desks](https://www.maplin.co.uk/collections/desks)
     
-    * [Office](https://www.maplin.co.uk/collections/office-desks)
-    * [Corner](https://www.maplin.co.uk/collections/corner-desks)
-    * [Standing](https://www.maplin.co.uk/collections/standing-desks)
-    * [Gaming](https://www.maplin.co.uk/collections/gaming-desks)
-    * [Storage](https://www.maplin.co.uk/collections/storage)
+    * [Standing Desks](https://www.maplin.co.uk/collections/standing-desks)
+    * [Gaming Desks](https://www.maplin.co.uk/collections/gaming-desks)
+    * [Computer Desks](https://www.maplin.co.uk/collections/office-desks)
+    * [Corner Desks](https://www.maplin.co.uk/collections/corner-desks)
+    * [Storage Desks](https://www.maplin.co.uk/collections/storage)
     * [Desk Accessories](https://www.maplin.co.uk/collections/desk-accessories)
     
     [Chairs](https://www.maplin.co.uk/collections/chairs)
     
-    * [Ergonomic](https://www.maplin.co.uk/collections/ergonomic-chairs)
-    * [Mesh](https://www.maplin.co.uk/collections/mesh-chairs)
-    * [Executive](https://www.maplin.co.uk/collections/executive-chairs)
-    * [Mid-Back](https://www.maplin.co.uk/collections/mid-back-chairs)
-    * [Gaming](https://www.maplin.co.uk/collections/gaming-chairs)
+    * [Ergonomic Chairs](https://www.maplin.co.uk/collections/ergonomic-chairs)
+    * [Gaming Chairs](https://www.maplin.co.uk/collections/gaming-chairs)
+    * [Executive Chairs](https://www.maplin.co.uk/collections/executive-chairs)
+    * [Mesh Chairs](https://www.maplin.co.uk/collections/mesh-chairs)
+    * [Mid-Back Chairs](https://www.maplin.co.uk/collections/mid-back-chairs)
     * [Chair Accessories](https://www.maplin.co.uk/collections/chair-accessories)
     
     [Brackets & Mounts](https://www.maplin.co.uk/collections/brackets-mounts)
@@ -1257,6 +1409,10 @@ Browse
     * [Plastic Flight Cases](https://www.maplin.co.uk/collections/plastic-flight-cases)
     * [Tool Boxes](https://www.maplin.co.uk/collections/tool-boxes)
     
+    [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+    
+    * [Standing Desk Kit](https://www.maplin.co.uk/products/maplin-standing-desk-kit)
+    
     [Shop by Brand](https://www.maplin.co.uk/pages/furniture-storage)
     
     * [ProperAV Extra](https://www.maplin.co.uk/collections/properav)
@@ -1264,7 +1420,7 @@ Browse
     * [Next Level Racing](https://www.maplin.co.uk/collections/next-level-racing)
     * [Targus](https://www.maplin.co.uk/collections/targus)
     
-    [![Chairs at Maplin](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.maplin.co.uk/blogs/expert-advice/which-chair-is-best-for-home-office)
+    [![Chairs at Maplin](//www.maplin.co.uk/cdn/shop/files/iai90f1847a84f498_jpg_800x.jpg?v=1682342475)](https://www.maplin.co.uk/blogs/expert-advice/which-chair-is-best-for-home-office)
     
     #### [Which chair is best for my home or office space?](https://www.maplin.co.uk/blogs/expert-advice/which-chair-is-best-for-home-office)
     
@@ -1388,7 +1544,7 @@ Browse
     * [Test & Measure Equipment](https://pro.maplin.co.uk/collections/test-measurement-equipment)
     * [Explore Full Range](https://pro.maplin.co.uk/collections/tools-equipment)
     
-    [![MPS Maplin Professional Supplies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://pro.maplin.co.uk/)
+    [![MPS Maplin Professional Supplies](//www.maplin.co.uk/cdn/shop/files/120423_mobile_MPS-2new_800x.jpg?v=1693474121)](https://pro.maplin.co.uk/)
     
 * [Offers](https://www.maplin.co.uk/collections/deals)
     
@@ -1400,16 +1556,23 @@ Browse
     * [Vouchers & Discount Codes](https://www.maplin.co.uk/pages/discount-codes)
     
 
-### Item added to your cart
+[![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-batteries.jpg?v=1719851873)
 
-[](https://www.maplin.co.uk/cart)
+Batteries](https://www.maplin.co.uk/pages/batteries)[![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-cables.jpg?v=1719852523)
 
-Check out
+Cables & Adapters](https://www.maplin.co.uk/pages/cables)[![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-pc.jpg?v=1719853267)
 
-Continue shopping
+Computing & Mobile](https://www.maplin.co.uk/pages/pc-mobile-accessories)[![](//www.maplin.co.uk/cdn/shop/files/mobile-photo.jpg?v=1720449619)
 
-* [Home](https://www.maplin.co.uk/)
-* Refund policy
+Photo & Video](https://www.maplin.co.uk/pages/photo-video)[![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-tv-audio_b0d468f1-83da-4afa-9acf-8989b77728ae.jpg?v=1719934689)
+
+TV, Audio & Stage](https://www.maplin.co.uk/pages/audio)[![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-electricals-lighting.jpg?v=1719935252)
+
+Electricals & Lighting](https://www.maplin.co.uk/pages/electricals)[![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-car.jpg?v=1719935511)
+
+Car](https://www.maplin.co.uk/pages/car)[![](//www.maplin.co.uk/cdn/shop/files/mobile-furniture_e9a07896-4e2f-4065-a4b7-741e0d8942a0.jpg?v=1720453744)
+
+Furniture & Storage](https://www.maplin.co.uk/pages/furniture-storage)
 
 Refund policy
 =============
@@ -1519,6 +1682,22 @@ If we are unable to offer a repair or exchange, we may offer a refund of the ful
 
 We reserve the right to reduce the amount of refund or return the item to you if the item or the packaging has been handled excessively, the condition does not meet our quality requirements (I.e. damaged packaging, cosmetic defects) or is incomplete (not as sold, missing parts or accessories). In this instance, you will be liable for carriage, and handling costs.
 
+#### UK Trusted Brand
+
+Your electronics specialist since 1972
+
+#### Free UK Shipping
+
+On most items when you spend over £35
+
+#### Easy Returns
+
+Our returns portal makes things quick & easy
+
+#### Support
+
+Our friendly support team is here to help
+
   
 
 ##### Expert Advice
@@ -1567,11 +1746,11 @@ Be the first to hear about our latest offers, promotions and expert advice.
 
 Please enter your email
 
-_By submitting you agree to our [Privacy Policy](https://www.maplin.co.uk/policies/privacy-policy)_
+_By submitting you agree to our_ [_Privacy Policy_](https://www.maplin.co.uk/policies/privacy-policy "Privacy Policy")
 
 [![Feefo logo](https://api.feefo.com/api/logo?merchantidentifier=digital-first-retail "See what our customers say about us")](https://www.feefo.com/reviews/maplin)
 
-Copyright © 2024 Digital-First Retail Ltd, All rights reserved.  
+© 2024 Digital-First Retail Ltd, All rights reserved.  
 Maplin & MPS are registered trademarks of OYOD Holdings Ltd.
 
 Payment methods
