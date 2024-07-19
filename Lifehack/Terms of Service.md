@@ -1,8 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![Lifehack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203521%201484'%3E%3C/svg%3E "Lifehack")
+[![LifeHack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203521%201484'%3E%3C/svg%3E "LifeHack")
 
-![Lifehack](https://cdn.lifehack.org/wp-content/uploads/2023/02/Lifehack_Master_Reversed.png "Lifehack")](https://www.lifehack.org/ "Lifehack")
+![LifeHack](https://cdn.lifehack.org/wp-content/uploads/2023/02/Lifehack_Master_Reversed.png "LifeHack")](https://www.lifehack.org/ "LifeHack")
 
 Menu
 
