@@ -396,6 +396,7 @@ How To Order
 * [CSOS Controlled Substance Ordering](https://www.buyemp.com/csos "CSOS Controlled Substance Ordering")
 * [License Authorization Form](https://cdn.boundtree.com/assets/btm/pdfs/Bound_Tree_License_Authorization_Form.pdf "License Authorization Form")
 * [Paper 222 Class II Ordering](https://cdn.boundtree.com/assets/btm/pdfs/Bound_Tree_Controlled_Substances_Ordering_Guidelines.pdf "Paper 222 Class II Ordering")
+* [Navigating Pharmaceutical Ordering](https://www.buyemp.com/navigating-pharma "Navigating Pharmaceutical Ordering")
 
 Resources
 
