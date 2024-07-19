@@ -46,7 +46,6 @@ Toggle menu
     * [CERTIFICATION](https://www.maxon.net/en/certification)
     * [CINEVERSITY](https://cineversity.maxon.net/)
     * [ZCLASSROOM](https://zclassroom.com/zclassroom/)
-    * [CINEVERSITY (LEGACY)](https://www.cineversity.com/)
 * [SUPPORT](https://www.maxon.net/en/support-center)
 * [TRY](https://www.maxon.net/en/try)
 * [BUY](https://www.maxon.net/en/buy)
@@ -87,7 +86,6 @@ Toggle menu
     * [CERTIFICATION](https://www.maxon.net/en/certification)
     * [CINEVERSITY](https://cineversity.maxon.net/)
     * [ZCLASSROOM](https://zclassroom.com/zclassroom/)
-    * [CINEVERSITY (LEGACY)](https://www.cineversity.com/)
 * [SUPPORT](https://www.maxon.net/en/support-center)
 * [TRY](https://www.maxon.net/en/try)
 * [BUY](https://www.maxon.net/en/buy)
@@ -119,12 +117,6 @@ LEGAL
 
 LEGAL
 
-* [IMPRINT](https://www.maxon.net/en/legal)
-* [PRIVACY](https://www.maxon.net/en/legal/privacy-policy)
-* [TERMS](https://www.maxon.net/en/legal/terms-of-use)
-* [LICENSE TRANSFER](https://www.maxon.net/en/legal/license-transfer)
-* [EULA](https://www.maxon.net/en/legal/eula)
-
 ![](https://maxonassets.imgix.net/images/Vladislav_Solovjov_4.jpg?fm=webp&auto=format,compress&w=1920&h=800&ar=16:9&fit=clip&crop=faces&q=10&blur=100)
 
 Artist: Vladislav Solovjov
@@ -134,8 +126,9 @@ PRIVACY POLICY
 
 ##### Data Protection Declaration for the processing of personal data in the European Economic Area
 
-****Effective Date:** **August 2022  
-****  
+**Effective Date: July 2024**  
+  
+ 
 
 **Name and address of controller**
 
@@ -148,14 +141,12 @@ Basler Str. 5
 With respect to certain processing activities, we jointly determine the purposes and means of processing together with other companies, i.e., as so-called joint controllers:
 
 * With respect to the transfer of personal data within the company group or to partner companies, Maxon and Recipients are joint controllers as further detailed in the section on “Transfer of personal data to other external recipients (third parties)” below.
-    
 * With respect to Facebook Custom Audience, Maxon and Meta Platforms Ireland Limited are joint controllers as further detailed in the section on "Facebook Custom Audience" below.
-    
 * In the context of email marketing towards event and raffle participants, Maxon and the relevant event organizers/raffle co-operation partners are joint controllers as further detailed in the section on "Other advertising" within the "By email" subsection below.
-    
 
 You may contact the controller at [\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection) with respect to questions about this Data Protection Declaration, the processing of your personal data in general and to exercise your rights towards the controller as outlined in the section on the rights of data subjects below.  
   
+ 
 
 **Name and address of data protection officer**
 
@@ -165,19 +156,20 @@ FPS Consult GmbH
 Eschersheimer Landstraße 27  
 60322 Frankfurt am Main, Germany  
 Phone: +49 69 90550530  
-E-Mail: [\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)[\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)
+E-Mail: [\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)  
+  
+ 
 
 General Data Processing
 
-**Scope of processing of personal data**  
+**Scope of processing of personal data**
 
 We process personal data that we receive in the course of your visit to our Website, if you contact us or use our services.  
   
-
 **Legal basis for the processing of personal data**
 
 When processing personal data, we rely on the following legal bases:  
-  
+ 
 
 * the performance of a contract to which the affected person (the "**data subject**") is a party, Art. 6 para. 1 sentence 1 lit. b GDPR (this also applies to processing operations that are necessary for the implementation of pre-contractual measures)
 * legitimate interests of our company or a third party, Art. 6 para. 1 sentence 1 lit. f GDPR, provided that the interests, fundamental rights and freedoms of the data subject do not override the former mentioned interests
@@ -186,14 +178,13 @@ When processing personal data, we rely on the following legal bases:
 
 The purposes for which we process personal data, relevant legal bases and specific legitimate interests (where legitimate interests are the basis for processing) are stated further below.
 
-**  
-Data processing by processors  
   
-**
+**Data processing by processors**  
+ 
 
 * In some cases, we use external service providers to process personal data (e.g., service providers for customer management, service providers for invoice management, IT service providers). These have been carefully selected by us and commissioned in accordance with data protection requirements, are bound by our instructions and are regularly monitored.  
       
-    
+     
 
 **Transfer of personal data to other external recipients (third parties)**
 
@@ -218,14 +209,14 @@ Legal basis for the processing of personal data in this context is consent (Art.
 
   
 Transfer of personal data to partner companies (resellers/distributors)  
-  
+ 
 
 * For contractual purposes  
       
     A transfer of your personal data to third parties may be necessary for the provision of the service. Your personal data will then be transferred to the authorized distributor or reseller who is responsible for your geographic region and for the provision of services. According to your language selection on the website, your personal data will be forwarded to one of these [distributors or resellers](https://www.maxon.net/en/resellers).  
       
-    The legal basis for the transfer of your personal data in this case is performance of a contract (Art. 6 para. 1 sentence 1 lit. b GDPR).
-
+    The legal basis for the transfer of your personal data in this case is performance of a contract (Art. 6 para. 1 sentence 1 lit. b GDPR).  
+     
 * For advertising purposes  
       
     Your personal data will only be transferred to third parties for advertising purposes with your express consent. Your personal data will then be transferred to the authorized distributor or reseller who is responsible for your geographic region. This distributor will then send you general information in connection with Maxon products via email. According to your language selection on the website, your personal data will be forwarded to one of these [distributors or resellers](https://www.maxon.net/en/resellers).  
@@ -236,19 +227,19 @@ Transfer of personal data to partner companies (resellers/distributors)
 
   
 Other external third party recipients  
-  
+ 
 
 * We may transfer personal data to third parties (e.g. authorities, courts, lawyers, auditors, external agencies to combat piracy) where necessary to safeguard our rights or comply with legal obligations to which we are subject.  
       
     The legal basis for the forwarding of your personal data for the purpose of safeguarding our rights is our legitimate interest (Art. 6 para. 1 sentence 1 lit. f GDPR) in establishing, exercising and defending legal claims. The legal basis for the forwarding of your personal data for the purpose of complying with legal obligations to which we are subject is compliance with the respective legal obligations (Art. 6 para. 1 sentence 1 lit. c GDPR).
 
-**  
-Transfer to third countries**
+  
+**Transfer to third countries**
 
 A transfer of personal data to countries outside the European Economic Area (EEA) only takes place if the requirements of Art. 44 et seq. GDPR are met. A third country is a country outside the European Economic Area (EEA) in which the GDPR is not directly applicable.
 
 We transfer your personal data to the USA or other third countries only if either  
-  
+ 
 
 * An adequacy decision has been adopted by the EU Commission with respect to the relevant third country (Art. 45 para. 1 GDPR), which particularly is the case for Canada (regarding commercial organizations), Japan and the United Kingdom;
 * sufficient guarantees are provided by the recipient in accordance with Art. 46 GDPR for the protection of the personal data – for example, the conclusion of standard contractual clauses between us and the recipient with appropriate additional security measures (Art. 46 para. 2 lit. c GDPR) or binding internal data protection rules approved by the competent data protection authorities (Art. 46 para. 2 lit. b GDPR); in this way, the recipient assures us that it will provide sufficient protection for the data and thus ensure a level of protection comparable to the GDPR; or
@@ -261,9 +252,11 @@ If you would like to receive further information on international transfers of p
 Specific purposes of processing (including legal bases and legitimate interests)
 
 **Functions of the website**  
+ 
 
 If the user visits or uses our website purely for informational purposes, i.e., if they do not register or otherwise transmit information to us, we only collect the personal data that the user's browser or device transmits to our server. If the user wishes to view our website, we collect the following data, that is technically necessary for us to display our website to the user and to ensure stability and security:  
   
+ 
 
 * IP address,
 * Date, time and duration of the visit,
@@ -277,20 +270,21 @@ The legal basis for the processing of personal data for the use of our website a
 
 The processing of personal data is technically necessary for us to display our website to the user and to ensure stability and security.
 
-**  
-Registration on our website**
+  
+**Registration on our website**
 
 On our website, we offer users the opportunity to register by providing personal data. The data is entered and transmitted to us and stored. Mandatory data for registration on our website are the user's first and last name, the user's email address and the country in which the user is located.
 
 **a.** At the time of registration, the following personal data is processed:  
   
+ 
 
 * First and last name,
 * Email address,
 * Country in which user is located,
 * (optional) Phone number,
 * (optional) Language.  
-    
+     
 
 Various external recipients may receive your personal data. These may be recipients within the company group and/or certified partner companies. Further information on this can be found under "Data processing by Processors" and "Transfer of personal data to external recipients".
 
@@ -302,13 +296,14 @@ The personal data will be deleted as soon as it is no longer required to achieve
 
 **b.** The personal data collected during the registration process for a MyMaxon account will in individual cases be linked to personal data collected in other systems. Detailed information on the linking of personal data can be found further down in this data protection declaration for the respective system.
 
-**  
-Downloading and activating a trial version**
+  
+**Downloading and activating a trial version**
 
 Users can download and activate a trial version of our products on our website. To do so, the user must register on our website.
 
 In addition to the data processed during registration on our website, the following personal data is processed:  
   
+ 
 
 * System/Machine ID.
 
@@ -324,27 +319,30 @@ In order to activate the trial version, users must consent to receiving advertis
 
 Further information on data processing in connection with the granting of advertising consent by the user can be found under "Other advertising". Further information on the transfer of data to distributors/resellers can be found under "Transfer of personal data to external recipients".
 
-**  
-Purchase of licenses online**
+  
+**Purchase of licenses online**
 
 Users can purchase licenses of our products online. The prerequisite for this is registration on our website.
 
-**_Note:_** _The purchase itself as well as the payment will be processed accordingly by the external service providers Digital River Ireland Limited, with offices at Unit 153, Shannon Free Zone, Shannon, Co. Clare, Ireland or Digital River, Inc., with offices at 10380 Bren Road West, Minnetonka, MN 55343, USA or Digital River Japan KK, with offices at 160-0023_ _東京都_ _Tokyo, Shinjuku Mitsui Building #2, 3-2-11, Nishi-Shinjuku, depending on the country in which the customer is located; customers from the US and South America are processed by Digital River, Inc., customers from Japan are processed by Digital River Japan KK, Customers from the rest of world are processed by Digital River Ireland Limited. The latter will also be the contractual partner. Digital River Ireland Limited respectively Digital River, Inc. respectively Digital River Japan KK are each a separate controller with respect to processing of your personal data in the context of the purchase._
+_**Note:** The purchase itself as well as the payment will be processed accordingly by the external service providers Digital River Ireland Limited, with offices at Unit 153, Shannon Free Zone, Shannon, Co. Clare, Ireland or Digital River, Inc., with offices at 10380 Bren Road West, Minnetonka, MN 55343, USA or Digital River Japan KK, with offices at 160-0023 東京都 Tokyo, Shinjuku Mitsui Building #2, 3-2-11, Nishi-Shinjuku, depending on the country in which the customer is located; customers from the US and South America are processed by Digital River, Inc., customers from Japan are processed by Digital River Japan KK, Customers from the rest of world are processed by Digital River Ireland Limited. The latter will also be the contractual partner. Digital River Ireland Limited respectively Digital River, Inc. respectively Digital River Japan KK are each a separate controller with respect to processing of your personal data in the context of the purchase._
 
 In addition to the data processed during registration on our website, the following personal data is processed:  
   
+ 
 
 * First and last name of the customer,
 * Address.
 
 With respect to purchases on [http://pixologic.com/](http://pixologic.com/), the following personal data may additionally be processed:  
   
+ 
 
 * Billing address,
 * Credit card information (however, after a transaction, the financial information (credit cards, CVC, etc.) will not be stored on our servers).
 
 When requesting support with respect to our products, the following personal data may additionally be processed:  
   
+ 
 
 * Software details,
 * Hardware details,
@@ -358,13 +356,14 @@ The processing of personal data during the purchase of licenses of our products 
 
 The personal data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected (or otherwise processed) and there are no legal – in particular trade and tax law – retention obligations and they are not required for the establishment, exercise or defense of legal claims.
 
-**  
-Purchase of licenses via telephone/email**
+  
+**Purchase of licenses via telephone/email**
 
 It is also possible to purchase licenses for our products directly from us by email or telephone.
 
 In doing so, the following personal data will be processed:  
   
+ 
 
 * First and last name of the purchaser,
 * Company, if applicable,
@@ -381,18 +380,19 @@ The processing of personal data in the context of a direct purchase serves the f
 
 The personal data is deleted as soon as it is no longer required for the purpose for which it was collected and there are no legal – in particular trade and tax law – retention obligations and they are not required for the establishment, exercise or defense of legal claims.
 
-**  
-Contact via contact form or email**
+  
+**Contact via contact form or email**
 
 Users can contact us via the contact form or via the email address provided.
 
 In doing so, the following personal data is processed:  
   
+ 
 
 * Contact data, in particular email address,
 * Other personal data provided by the user himself,
 * Time of form submission.  
-    
+     
 
 Various external recipients within the company group may receive your personal data. Further information on this can be found under "Data processing by processors" and "Transmission of personal data to external recipients".
 
@@ -400,13 +400,14 @@ The legal basis for the processing of personal data in this context is performan
 
 The personal data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected and there are no legal – in particular trade and tax – retention obligations and they are not required for the establishment, exercise or defense of legal claims.
 
-**  
-Contact due to important changes to our services (including our websites)**
+  
+**Contact due to important changes to our services (including our websites)**
 
 We may contact you to alert you regarding important changes to our services (including our websites), for example due to substantial changes to this data protection declaration or changes to our terms and conditions.
 
 In doing so, the following personal data is processed:  
   
+ 
 
 * Contact data, in particular email address
 
@@ -414,36 +415,38 @@ Various external recipients within the company group may receive your personal d
 
 The legal basis for the processing of personal data in this context is performance of a contract if the contact purpose is related to a contract with you (Art. 6 para. 1 sentence 1 lit. b GDPR). Otherwise, the legal basis for the processing of personal data in this context generally is our legitimate interest (Art. 6 para. 1 sentence 1 lit. f GDPR) in informing you about important changes to our services.
 
-**  
-Educational license for students**
+  
+**Educational license for students and teachers**
 
-Students can download and activate a free license of our products for educational purposes on our website. This requires registration on our website.
+Students and teachers can download and activate the license of our products for educational purposes from our website at the discounted price indicated on the website. This requires registration on our website..
 
-**_Note:_** _Verification of whether the interested party meets the requirements as a student is handled by the external service provider SheerID, Inc., 1300 SW Fifth Avenue, Suite 2100, Portland, Oregon 97201 USA (“SheerID”) with its sub-processors including but not limited to Onfido Ltd, 14-18 Finsbury Square, 3rd Floor, London EC2A 1AH. United Kingdom (“Onfido”). SheerID and its processors are responsible for processing your personal data as part of the verification process._
+_**Note:** Verification of whether the interested party meets the requirements as a student or teacher is handled by the external service provider SheerID, Inc., 1300 SW Fifth Avenue, Suite 2100, Portland, Oregon 97201 USA (“SheerID”) with its sub-processors including but not limited to Onfido Ltd, 14-18 Finsbury Square, 3rd Floor, London EC2A 1AH. United Kingdom (“Onfido”). SheerID and its processors are responsible for processing your personal data as part of the verification process._
 
 In addition to the data processed during registration on our website, the following personal data is processed:  
   
+ 
 
 * System/Machine ID.
-* Verification documents related to your student status (e.g., university/college enrolment papers).
-* Biometrics data (e.g., government ID, passport and facial scanning that enables to verify you as a student).
+* Verification documents related to your student or teacher status (e.g., university/college enrolment papers of students, academic institution ID card of teachers). 
+* Biometrics data (e.g., government ID, passport and facial scanning that enables to verify you as a student or a teacher).
 
 SheerID and its processors shall be responsible for processing the biometrics data and verification documents listed above. The company will not receive any sensitive personal data collected and processed by SheerID nor its processors.
 
 Various external recipients within the company group may receive your personal data. Further information on this can be found under "Data processing by processors" and "Transfer of personal data to external recipients".
 
-The legal basis for the processing of personal data for downloading and activating the license for educational purposes and support related thereto is performance of a contract (Art. 6 para. 1 sentence 1 lit. b GDPR) and legitimate interest of the company in order to verify student status accurately (Art. 6 para. 1 sentence 1 lit. f GDPR).
+The legal basis for the processing of personal data for downloading and activating the license for educational purposes and support related thereto is performance of a contract (Art. 6 para. 1 sentence 1 lit. b GDPR) and legitimate interest of the company in order to verify student or teacher status accurately (Art. 6 para. 1 sentence 1 lit. f GDPR).
 
 The processing of personal data when purchasing licenses of our products via our website serves to execute the purchase and License Agreement and to make the software available for download. We also process your personal data to contact you about support issues.
 
 The personal data will be deleted as soon as it is no longer required to achieve the purpose for which it was collected and there are no legal – in particular trade and tax – retention obligations and they are not required for the establishment, exercise or defense of legal claims. Verification documents collected and processed by SheerID shall be deleted after 7 days after the completion of the verification process. Biometrics data collected and processed by SheerID’s sub-processor Onfido shall be deleted after 48 hours after completion of the verification process.
 
-Please find more information in SheerID’s and Ondifo’s processes in their Privacy Policies by clicking the following links:  
+Please find more information in SheerID’s and Ondifo’s processes in their Privacy Policies by clicking the following links:   
 SheerID: [https://www.sheerid.com/global-privacy-policy/](https://www.sheerid.com/global-privacy-policy/)  
 Onfido: [https://onfido.com/privacy/](https://onfido.com/privacy/)  
+ 
 
-**  
-Data collection within the scope of the software – technical protection functions**
+  
+**Data collection within the scope of the software – technical protection functions**
 
 The prerequisite for using the software is registration on our website.
 
@@ -451,6 +454,7 @@ The software contains technical protection functions against piracy, unauthorize
 
 **a.** The following personal data is processed as part of the technical protection functions:  
   
+ 
 
 * IP address,
 * Computer ID,
@@ -469,6 +473,7 @@ The processing of your data serves the purpose of being able to trace unauthoriz
 
 Your data will be deleted as soon as the purpose for which they were saved has been achieved and they are no longer needed and no legal obligations for retention – in particular with regard to trade or tax law retention provisions – exist and the data are not required for the establishment, exercise or defense of legal claims. In accordance with this, your data will be saved at least as long as Maxon can pursue the unauthorized use of the software or license infringement.  
   
+ 
 
 **b.** The personal data collected within the scope of the technical protection functions, in particular the computer ID, can be linked with personal data that was collected within the scope of registration for a MyMaxon account. Conclusions can therefore be made regarding an individual that has or is using the software in a manner contrary to the License Agreement.
 
@@ -828,12 +833,13 @@ Changes to data protection notices
 
 We continuously develop and optimize the services we offer. It can therefore occur that we add new functionalities. If this affects the way in which we process your personal data we will inform you accordingly in due time in our data protection notices (e.g. in this data protection declaration).
 
-The last update of this data protection declaration was August 2022.
+The last update of this data protection declaration was July 2024.
 
 ##### Data Protection Declaration for the processing of personal data outside of the European Economic Area
 
-****Effective Date:** **August 2022  
-****  
+**Effective Date: July 2024**  
+  
+ 
 
 This Privacy Policy (“Policy”) supplements the information contained in Maxon Computer Inc.’s (515 Marin Street, Suite 322, Thousand Oaks, CA 91360, United States) (“Company,” “we,” “our,” or “us”) Data Protection Declaration and applies to all visitors and users of our website, our Web Shop, any of our group company websites and applications where this Policy is posted (each, a “Site”), whether on our digital properties or on applications we make available on third-party sites or platforms, and the services available through our Site, Web Shop, and any such websites and applications (collectively, the “Services”). This Policy describes the types of information, including personal information (which term includes sensitive personal information, as defined under certain applicable laws, when used in the Policy), we collect from visitors and users of our Site and Services, and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
@@ -841,6 +847,7 @@ By visiting a Site and using the Services, or providing consent where required b
 
 Please keep in mind that when you provide information to us on a third-party site or platform, the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this Policy, and the information the third-party site or platform collects is subject to the privacy practices of the third-party site or platform.  
   
+ 
 
 Information We Collect About You and How We Collect it
 
@@ -921,8 +928,9 @@ Categories of Personal Information Under the CCPA and Other Applicable Laws
 
 While our collection, use, and disclosure of personal information varies based upon our relationship and interactions with you, in this section we describe, generally, how we have collected and disclosed personal information about consumers in the prior twelve (12) months (from the Last Updated date above with your consent, where required under applicable laws).
 
-**_Sources of Personal Information._** As further described in the **Information We Collect About You and How We Collect It** section above, we may collect personal information from the following sources:  
+_**Sources of Personal Information.**_ As further described in the **Information We Collect About You and How We Collect It** section above, we may collect personal information from the following sources:  
   
+ 
 
 * directly from the individual
 * advertising networks
@@ -933,8 +941,9 @@ While our collection, use, and disclosure of personal information varies based u
 * government entities
 * business customers/clients
 
-**_Categories of Personal Information Collected and Disclosed._** In the table below, we identify the categories of personal information (as defined by the CCPA) we have collected and disclosed for a business purpose, and/or “sold” as defined by the CCPA (where required under applicable laws), as well as the categories of third parties to whom we may disclose and/or sell such personal information. For more information about the business and commercial purposes for which we may disclose and sell personal information, as defined by the CCPA, please see the **How We Share Your Personal Information** section above. Under the CCPA, a “sale” includes disclosing or making available to a third-party personal information, in exchange for monetary compensation or other benefits or value. While we do not disclose personal information in exchange for monetary compensation, we may make certain categories of personal information available in order to receive certain benefits or services, such as when we make browsing information available to third party ad companies (through third party tags on our Sites) in order to improve and measure our ad campaigns and reach users with more relevant ads and content.  
+_**Categories of Personal Information Collected and Disclosed.**_ In the table below, we identify the categories of personal information (as defined by the CCPA) we have collected and disclosed for a business purpose as defined by the CCPA (where required under applicable laws), as well as the categories of third parties to whom we may disclose such personal information. For more information about the business and commercial purposes for which we may disclose personal information, as defined by the CCPA, please see the **How We Share Your Personal Information** section above.  
   
+ 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -946,7 +955,7 @@ While our collection, use, and disclosure of personal information varies based u
 
 |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| _Identifiers_ |     | Includes direct identifiers, such as name, alias, salutation, user ID, username, account number or unique personal identifier; email address, phone number, address and other contact information; IP address and other online identifiers; and other similar identifiers. |     | YES |     | YES |     | * service providers<br>* government entities and law enforcement<br>* affiliates and subsidiaries<br>* advertising networks<br>* data analytics providers<br>* social networks<br>* internet service providers<br>* operating systems and platforms<br>* business customers/clients |
+| _Identifiers_ |     | Includes direct identifiers, such as name, alias, salutation, user ID, username, account number or unique personal identifier; email address, phone number, address and other contact information; IP address and other online identifiers; and other similar identifiers. |     | YES |     | NO  |     | * service providers<br>* government entities and law enforcement<br>* affiliates and subsidiaries<br>* advertising networks<br>* data analytics providers<br>* social networks<br>* internet service providers<br>* operating systems and platforms<br>* business customers/clients |
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -964,7 +973,7 @@ While our collection, use, and disclosure of personal information varies based u
 
 |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| _Usage Data_ |     | Includes browsing history, clickstream data, search history, access logs and other usage data and information regarding an individual’s interaction with our websites, mobile apps and other Services, and our marketing emails and online ads. |     | YES |     | YES |     | * service providers<br>* government entities and law enforcement<br>* affiliates and subsidiaries<br>* advertising networks<br>* data analytics providers<br>* social networks<br>* internet service providers<br>* operating systems and platforms<br>* business customers/clients |
+| _Usage Data_ |     | Includes browsing history, clickstream data, search history, access logs and other usage data and information regarding an individual’s interaction with our websites, mobile apps and other Services, and our marketing emails and online ads. |     | YES |     | NO  |     | * service providers<br>* government entities and law enforcement<br>* affiliates and subsidiaries<br>* advertising networks<br>* data analytics providers<br>* social networks<br>* internet service providers<br>* operating systems and platforms<br>* business customers/clients |
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1000,8 +1009,9 @@ Your Consumer Rights Under the CCPA and Other Applicable Laws
 
 You may have the following rights where permitted under the CCPA and other applicable laws:
 
-**_Right to Request Disclosure._** The right to request, free of charge, that we disclose information about our collection and use of your personal information over the past twelve (12) months or longer period where permitted under applicable laws, including:  
+_**Right to Request Disclosure.**_ The right to request, free of charge, that we disclose information about our collection and use of your personal information over the past twelve (12) months or longer period where permitted under applicable laws, including:  
   
+ 
 
 * The categories of personal information we collect about you;
 * What personal information we collect, use, or disclose about you;
@@ -1013,25 +1023,25 @@ You may have the following rights where permitted under the CCPA and other appli
   
 You may request a copy of the personal information we hold about you. For more information on how to request information about our collection, use, and disclosure of your personal information, please see the **Submitting Your Requests** section below.
 
-**_Right to Request Deletion._** The right to request the deletion of your personal information that we collected. For more information on how to request deletion, please see the **Submitting Your Requests** below. Once we receive your request and verify your identity, we will review your request to see if an exception allowing us to retain the information applies. We will delete or de-identify personal information not subject to an applicable exception from our records and where required by applicable law, and will direct our service providers to take similar action.
+_**Right to Request Deletion.**_ The right to request the deletion of your personal information that we collected. For more information on how to request deletion, please see the **Submitting Your Requests** below. Once we receive your request and verify your identity, we will review your request to see if an exception allowing us to retain the information applies. We will delete or de-identify personal information not subject to an applicable exception from our records and where required by applicable law, and will direct our service providers to take similar action.
 
 You do not need to create an account with us to exercise your deletion rights. We will only use personal information provided in a deletion request to review and comply with the request.
 
-**_Right to Request Opt-Out of the Sale of Your Personal Information._** If you are age 16 or older, the right to direct us to not sell your personal information at any time. We do not sell the personal information of consumers we actually know are less than 16 years old.
+_**Right to Request Opt-Out of the Sale of Your Personal Information.**_ If you are age 16 or older, the right to direct us to not sell your personal information at any time. Please note that we do not sell the personal information of consumers of any age.
 
 To exercise the right to opt-out, you or your authorized representative may submit an opt-out request by following the procedures specified in the **Submitting Your Requests** section below. Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorized personal information sales. However, you may change your mind and opt back in to personal information sales at any time by clicking this [link](https://cloud.news.maxon.net/email_preferences?qs=543813771a446c8d62e18d34a7f58a35604f2f433d3760c5f35236ffac8294a2445763bcdaef0fd5c9b00170d77719fbe23fdf07854dc172).
 
 You do not need to create an account with us to exercise your opt-out rights. We will only use personal information provided in an opt-out request to review and comply with the request.
 
-**_Right of Non-Discrimination._** The right to be free from discriminatory adverse treatment for exercising these rights. We will not discriminate against you for exercising any of your CCPA rights, or your rights under other applicable laws where we are not permitted to do so. Under certain applicable laws, you also may have the right to refuse decisions based solely on automated decision making technology that materially affects you.
+_**Right of Non-Discrimination.**_ The right to be free from discriminatory adverse treatment for exercising these rights. We will not discriminate against you for exercising any of your CCPA rights, or your rights under other applicable laws where we are not permitted to do so. Under certain applicable laws, you also may have the right to refuse decisions based solely on automated decision making technology that materially affects you.
 
 You may have the following rights under applicable laws:
 
-**_Right to correct._** The right to request correction of personal information we hold about you that is incorrect or inaccurate.
+_**Right to correct.**_ The right to request correction of personal information we hold about you that is incorrect or inaccurate.
 
-**_Right to withdraw consent or deregister your account._** The right to withdraw your consent to processing of your personal information. Processing prior to the withdrawal of your consent will be not affected. You also may have the right to deregister your account that you registered on any Site or any Services (if any).
+_**Right to withdraw consent or deregister your account.**_ The right to withdraw your consent to processing of your personal information. Processing prior to the withdrawal of your consent will be not affected. You also may have the right to deregister your account that you registered on any Site or any Services (if any).
 
-**_Right to Transfer._** The right to request transfer of your personal information to another organisation.
+_**Right to Transfer.**_ The right to request transfer of your personal information to another organisation.
 
 Submitting Your Requests
 
@@ -1098,7 +1108,7 @@ United States
 Phone: 805-376-3333  
 E-mail: [\[email protected\]](https://www.maxon.net/cdn-cgi/l/email-protection)
 
-* [ABOUT](https://www.maxon.net/en/about-maxon/history)
+* [ABOUT](https://www.maxon.net/en/about-maxon/executive-leadership)
 * [CAREERS](https://www.maxon.net/en/about-maxon/careers)
 * [TEAMS PROGRAM](https://www.maxon.net/en/teams)
 * [GET EMAIL UPDATES](https://www.maxon.net/en/email-updates)
