@@ -719,6 +719,8 @@ Any notices to Freelancer must be given by registered ordinary post (or if poste
 
 This Agreement will be governed in all respects by the laws of New South Wales, Australia. We encourage you to try and resolve disputes using certified mediation (such as online dispute resolution processes). If a dispute cannot be resolved then you and Freelancer irrevocably submit to the non-exclusive jurisdiction of the courts of New South Wales, Australia.
 
+When Freelancer Outsourcing UK Limited is the Payment Administration Agent, then any claim related to the payment administered by the Payment Administration Agent will be governed in all respects by the laws of the United Kingdom.
+
 43\. Severability
 -----------------
 
@@ -758,7 +760,11 @@ Each of these policies may be changed from time to time. Changes take effect whe
 48\. General
 ------------
 
+Address for correspondence and legal notices depends on your Payment Administration Agent:
+
 Freelancer International Pty Limited is located at Level 37, Grosvenor Place, 225 George Street, Sydney NSW 2000, Australia.
+
+Freelancer Outsourcing UK Limited is located at Level 1, 345 Old Street, London, EC1V 9LL, United Kingdom.
 
 This Agreement contains the entire understanding and agreement between you and Freelancer. The following Sections survive any termination of this Agreement: Fees And Services (with respect to fees owed for our services), Release, Content, No Warranty As To Content, Limitation Of Liability, Indemnity, Bar To Action, No Class Actions, Legal Limitations, and Disputes With Us.
 
