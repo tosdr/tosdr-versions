@@ -35,9 +35,27 @@ We use cookies to give you the best experience. By continuing to use our site, y
 
 Got It
 
-Medifab Limited
+ [![Wheelchairs.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Wheelchairs_White.svg) Wheelchairs](https://www.medifab.co.nz/product?categories=wheelchairs)
 
-Privacy Policy
+ [![Wheelchair seating.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Wheelchair-Seating_White.svg) Wheelchair Seating](https://www.medifab.co.nz/product?categories=wheelchair-seating)
+
+ [![Vehicle seating.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Vehicle-Seating_White.svg) Car Seats & Harnesses](https://www.medifab.co.nz/product?categories=car-seats-harnesses)
+
+ [![Pushchairs.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Pushchairs_White.svg) Strollers & Pushchairs](https://www.medifab.co.nz/product?categories=strollers-pushchairs)
+
+ [![Indoor seating.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Indoor-Seating.svg) Indoor Seating](https://www.medifab.co.nz/product?categories=indoor-seating)
+
+ [![Therapy.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Therapy_White.svg) Therapy](https://www.medifab.co.nz/product?categories=therapy)
+
+ [![Standing aids.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Standing-Aid_White.svg) Standing Aids](https://www.medifab.co.nz/product?categories=standing-aids)
+
+ [![Walking aids.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Walking-Aid_White.svg) Walking Aids](https://www.medifab.co.nz/product?categories=walking-aids)
+
+ [![Bathroom](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Bathroom_White-test.svg) Bathroom Aids](https://www.medifab.co.nz/product?categories=bathroom-aids)
+
+ [![Sleep.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Sleep_White.svg) Sleep Systems](https://www.medifab.co.nz/product?categories=sleep-systems)
+
+ [![Sleep.](https://medifab.com/nz/wp-content/uploads/2022/08/Medifab-Category-Icons-Positive-Sleep_White.svg) Beds](https://www.medifab.co.nz/product?categories=beds)
 
 Medifab Limited, a New Zealand company, is part of the Medifab Global Group which includes Medifab Limited and Spex Limited.
 
@@ -239,6 +257,8 @@ New Zealand
 East Devonport  
 TAS 7310  
 Australia
+
+[Read more Read less](#)
 
 Experience a
 
