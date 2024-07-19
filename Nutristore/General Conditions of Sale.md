@@ -1,4 +1,4 @@
-[FREE VEGGIE BUCKET WHEN YOU SPEND $350+ | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/bulk)
+[SAVE 30% ON ULTIMATE VARIETY PACK | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
 
 [![Nutristore](//nutristorefoods.com/cdn/shop/t/8/assets/logo.png?v=5092338648562814141647639854)](https://nutristorefoods.com/)
 
