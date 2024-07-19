@@ -252,7 +252,7 @@ Popular Resources
 
 * [![label icon](https://cdn1.papercut.com/web/cloudcannon/G2_Logo_Red_RGB.svg)
     
-    Grid® Report for Print Management | Spring 2024](https://www.papercut.com/resources/reports/grid-report-for-print-management-spring-2024/)
+    Grid® Report for Print Management | Summer 2024](https://www.papercut.com/resources/reports/grid-report-for-print-management-summer-2024/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-higher-education.svg)
     
@@ -540,7 +540,7 @@ Popular Resources
 
 * [![label icon](https://cdn1.papercut.com/web/cloudcannon/G2_Logo_Red_RGB.svg)
     
-    Grid® Report for Print Management | Spring 2024](https://www.papercut.com/resources/reports/grid-report-for-print-management-spring-2024/)
+    Grid® Report for Print Management | Summer 2024](https://www.papercut.com/resources/reports/grid-report-for-print-management-summer-2024/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-higher-education.svg)
     
@@ -816,10 +816,11 @@ Discover
 * [Best practices](https://www.papercut.com/discover/best-practices/)
 * [Forest Positive](https://www.papercut.com/about/forest-positive/)
 
-Have a Read
+Learn more
 
 * [Blog](https://www.papercut.com/blog/)
 * [Resources](https://www.papercut.com/resources/)
+* [Interactive demos](https://www.papercut.com/products/demo/)new!
 
 Support
 
@@ -828,11 +829,13 @@ Support
 Get PaperCut
 
 * [Contact Sales](https://www.papercut.com/get/speak-with-sales/)
+* [Book a demo](https://www.papercut.com/book-a-demo/)new!
 
 About
 
 * [About us](https://www.papercut.com/about/)
 * [Careers](https://www.papercut.com/about/life-at-papercut/)
+* [B Corp](https://www.papercut.com/about/b-corp/)
 
 Misc
 
