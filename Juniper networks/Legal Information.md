@@ -643,7 +643,7 @@ In our role as a service provider/supplier, our contracts generally restrict us 
 
 **Our Commitment to Privacy**
 
-Juniper Networks respects and is committed to protecting the privacy of individuals. Together with the additional information at the links available above, this Privacy Notice (the “Notice”) describes our personal data processing, including in connection with the Juniper Products. This Notice is provided to current and prospective customers, channel partners, service providers, OEMs, distributors, end users of any Juniper Products, job applicants, visitors to, and users of, Our Websites, and other third parties. Additional license terms, terms of use, contracts, agreements, and privacy statements may also apply to particular Juniper Products. If there are contradictions between this Notice and the more specific information for a particular Juniper Product, the more specific information shall prevail to the extent permitted under applicable law.
+Juniper Networks respects and is committed to protecting the privacy of individuals. Together with the additional information at the links available above, this Privacy Notice (the “Notice”) describes our personal data processing, including in connection with the Juniper Products. This Notice is provided to current and prospective customers, channel partners, service providers, OEMs, distributors, end users of any Juniper Products, visitors to, and users of, Our Websites, and other third parties. Information on the protection of privacy relating to job applicants is provided in our [Recruiting Privacy Notice](https://www.juniper.net/us/en/privacy-policy/recruiting-privacy-policy.html). Additional license terms, terms of use, contracts, agreements, and privacy statements may also apply to particular Juniper Products. If there are contradictions between this Notice and the more specific information for a particular Juniper Product, the more specific information shall prevail to the extent permitted under applicable law.
 
 **Information We May Collect**
 
@@ -662,10 +662,8 @@ Juniper Networks may collect the following categories of personal data through O
 * Any other personal data that our customers or channel partners elect to collect and share with Juniper Networks using Juniper Products.
 * Usage data and feedback
 * Information needed to answer a request or provide information and services to an individual.
-* Any information Juniper Networks is required to collect, or that is appropriate to collect, in order to comply with applicable laws or regulations.  
-    
-
-While we do collect some “sensitive personal information” (as defined by certain privacy laws), this is limited to location information collected and processed for the purposes of providing our network management services, subject to our customers’ prompting their end users for permission to enable location-sharing.
+* Any information Juniper Networks is required to collect, or that is appropriate to collect, in order to comply with applicable laws or regulations.
+* While we do collect some “sensitive personal information” (as defined by certain privacy laws), this is limited to location information collected and processed for the purposes of providing our network management services, subject to our customers’ prompting their end users for permission to enable location-sharing.
 
 **Sources of Personal Data**
 
@@ -694,7 +692,7 @@ Examples of processing activities may include:
 * Working with our service providers, resellers, OEMs, distributors, and other third parties.
 * Responding to and communicating with you regarding your inquiries to Juniper Networks (whether in-person or online).
 * Analyzing, improving, and developing Our Websites, Juniper Products, and internal business processes.
-* The use of artificial intelligence and machine learning technologies for purposes including providing customer assistance, support and Juniper Products; the analyzing, developing, and improving Juniper Products and Our Websites; for talent acquisition and other human resources purposes; and for marketing purposes.
+* The use of artificial intelligence and machine learning technologies for purposes including, for example, providing customer assistance and support, for Juniper Products as described in the applicable product documentation, and for HR- and marketing-related purposes.
 * As necessary for compliance purposes, including ethics reporting and investigation.
 * Other legitimate purposes as required or permitted by applicable law.
 
@@ -767,7 +765,6 @@ Individuals may have certain rights related to the processing of their personal 
 * Opt Out of Processing. You may opt out of our processing of some personal data about you.
 * Portability. You may request, to the extent feasible, the transfer of your personal data to another entity.
 * Consent Withdrawal. You may withdraw consents you previously granted to us.
-* Automated Decision-Making/Profiling. You have the right not to be subject to automated decision-making, including profiling, which produces legal effects concerning you or similarly significantly affects you, with certain exceptions. Juniper Networks does not engage in such automated decision-making on Our Websites or in Juniper Products, and if it does, Juniper Networks will comply with the applicable legal requirements in connection with such personal data processing.
 
 The rights described above are based upon those provided to individuals in the European Union as required under the EU General Data Protection Regulation (GDPR): Regulation (EU) 2016/679 of the European Parliament. Residents of certain countries and states may have specific, different, or additional rights in relation to their personal data.
 
