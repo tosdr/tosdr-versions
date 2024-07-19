@@ -240,11 +240,11 @@ The use of Google Maps is in the interest of making our website appealing and to
 
 Further information about handling user data, can be found in the data protection declaration of Google at [https://www.google.de/intl/de/policies/privacy/ (opens new window)](https://www.google.de/intl/de/policies/privacy/).
 
-### [#](#twitter) Twitter
+### [#](#x-fka-twitter) X (fka Twitter)
 
-Functions of the Twitter service have been integrated into our website and app. These features are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. When you use Twitter and the “Retweet” function, the websites you visit are connected to your Twitter account and made known to other users. In doing so, data will also be transferred to Twitter. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by Twitter. For more information on Twitter's privacy policy, please go to [https://twitter.com/privacy (opens new window)](https://twitter.com/privacy).
+Functions of the X service have been integrated into our website and app. These features are offered by X Corp., Suite 900, 1355 Market Street, San Francisco, California, 94103, USA. When you use X and the repost function, the websites you visit are connected to your X account and made known to other users. In doing so, data will also be transferred to X. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by X. For more information on X's privacy policy, please go to [https://x.com/privacy (opens new window)](https://x.com/privacy).
 
-Your privacy preferences with Twitter can be modified in your account settings at [https://twitter.com/account/settings (opens new window)](https://twitter.com/account/settings).
+Your privacy preferences with X can be modified in your account settings at [https://x.com/account/settings (opens new window)](https://x.com/account/settings).
 
 [#](#payment-service-providers) Payment service providers
 ---------------------------------------------------------
@@ -260,4 +260,4 @@ If you select donation via PayPal, the payment data you provide will be supplied
 Copyright © 2024 by the openHAB Community and the openHAB Foundation e.V.  
 [Privacy policy](https://www.openhab.org/privacy) | [Imprint](https://www.openhab.org/imprint)
 
-[](https://twitter.com/openhab)[](https://github.com/openhab)[](https://www.youtube.com/channel/UC7OK88DW0La_BJlcXZg8ydQ)
+[](https://x.com/openhab)[](https://github.com/openhab)[](https://www.youtube.com/channel/UC7OK88DW0La_BJlcXZg8ydQ)
