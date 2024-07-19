@@ -10,6 +10,10 @@
 
 Dark mode
 
+English
+
+[Español](https://apkvision.es/dmca/) [Russian](https://apkvision.ru/dmca/)
+
 [Home](https://apkvision.org/)»DMCA Copyright Infringement Notification
 
 DMCA Copyright Infringement Notification
