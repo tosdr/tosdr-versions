@@ -34,6 +34,8 @@
 * [Entertainment](https://www.foxnews.com/entertainment)
 * [Lifestyle](https://www.foxnews.com/lifestyle)
 * [Games](https://www.foxnews.com/games)
+* [Politics](https://www.foxnews.com/politics)
+* [True Crime](https://www.foxnews.com/category/us/true-crime)
 
  
 
