@@ -1,8 +1,8 @@
-[![FreeBSD The Power to Serve](https://www.freebsd.org/images/logo-red.png)](https://www.freebsd.org/ "FreeBSD")
+[![FreeBSD The Power to Serve](https://www.freebsd.org/images/banner-red.png)](https://www.freebsd.org/ "FreeBSD")
 
 [Donate to FreeBSD](https://www.freebsdfoundation.org/donate/ "Donate to FreeBSD")
 
-       
+     
 
 * [Home](https://www.freebsd.org/)
 
