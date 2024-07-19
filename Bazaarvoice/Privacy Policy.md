@@ -1,3 +1,5 @@
+[**Ready to boost your holiday strategy? Discover the key tactics to help you thrive this holiday season.** Register now!](https://resources.bazaarvoice.com/FY25-Q1-GL-GL-SAAS-WB-GE-EcommerceTuneUp07-24-24_RegistrationPage.html)
+
 [](https://www.bazaarvoice.com/)
 
 * [Platform](https://www.bazaarvoice.com/products/)
@@ -26,6 +28,7 @@
             * [Bazaarvoice affable.ai
                 
                 Unleash the incredible power of creator marketing.](https://www.bazaarvoice.com/products/bazaarvoice-affable-ai/)
+                * [Creator Marketing for Agencies](https://www.bazaarvoice.com/products/creator-marketing-services-agencies/)
     * [2nd](#)
         * [DRIVE CONVERSION](#)
             * [Ratings & Reviews
