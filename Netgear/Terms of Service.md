@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[LIMITED TIME OFFERS **\>>**](https://store.netgear.com/home/?lang=en_us)
+[PRIME-TIME SAVINGS **\>>**](https://store.netgear.com/home/?lang=en_us)
 
 [UPGRADE TO ORBI WIFI 7 **\>>**](https://www.netgear.com/home/wifi/mesh/rbe973sb/)
 
@@ -310,7 +310,7 @@ Checkout
 
 [Skip to main content](#main)
 
-[LIMITED TIME OFFERS **\>>**](https://store.netgear.com/home/?lang=en_us)
+[PRIME-TIME SAVINGS **\>>**](https://store.netgear.com/home/?lang=en_us)
 
 [UPGRADE TO ORBI WIFI 7 **\>>**](https://www.netgear.com/home/wifi/mesh/rbe973sb/)
 
@@ -320,7 +320,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.42/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.48/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -595,7 +595,7 @@ Sign up and enjoy these benefits!
 * [Management Team](https://www.netgear.com/about/management/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Releases](https://www.netgear.com/about/press-releases/)
-* [Careers](https://www.netgear.com/about/careers/)
+* [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
 * [Regulatory/Export Compliance](https://www.netgear.com/about/regulatory/)
 * [Security Advisory](https://www.netgear.com/about/security/)
 * [Privacy Policy](https://www.netgear.com/about/privacy-policy/)
@@ -1216,6 +1216,7 @@ MyNETGEAR
 * [Returns](https://store.netgear.com/returns)
 * [Register Product](https://my.netgear.com/register.aspx)
 * [My Support](https://www.netgear.com/mynetgear/portal/mysupport.aspx)
+* [First Responder Discount](https://www.netgear.com/home/discover/first-responder-discount/)
 
 CUSTOMER CARE
 
@@ -1230,7 +1231,7 @@ CUSTOMER CARE
 COMPANY
 
 * [About Us](https://www.netgear.com/about/)
-* [Careers](https://www.netgear.com/about/careers/)
+* [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
 * [Social Responsibility](https://www.netgear.com/about/esg-environmental-social-governance/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Room](https://www.netgear.com/hub/pressroom/)
