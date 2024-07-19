@@ -1,4 +1,4 @@
-Free U.S. Shipping on Orders over $25
+[Build Your Own Bundle & Save Up To 30%](https://lumedeodorant.com/products/build-your-own-bundle)
 
 [Lume Deodorant | Outrageously Effective Whole Body Deodorant](https://lumedeodorant.com/)
 ==========================================================================================
@@ -7,6 +7,11 @@ Free U.S. Shipping on Orders over $25
     --------](https://lumedeodorant.com/shop)
 * [Best Sellers
     ------------](https://lumedeodorant.com/collections/most-popular-products)
+* Shop By Concern
+    ---------------
+    
+    [](https://lumedeodorant.com/collections/tubes)
+    
 * Deodorant
     ---------
     
