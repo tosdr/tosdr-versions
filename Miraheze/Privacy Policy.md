@@ -117,7 +117,7 @@ Other languages:
 * [Tiếng Việt](https://meta.miraheze.org/wiki/Privacy_Policy/vi "Quy định về quyền riêng tư (2% translated)")
 * [Türkçe](https://meta.miraheze.org/wiki/Privacy_Policy/tr "Gizlilik Politikası (2% translated)")
 * [dansk](https://meta.miraheze.org/wiki/Privacy_Policy/da "Privatlivspolitik (2% translated)")
-* [español](https://meta.miraheze.org/wiki/Privacy_Policy/es "Política de Privacidad (2% translated)")
+* [español](https://meta.miraheze.org/wiki/Privacy_Policy/es "Política de Privacidad (22% translated)")
 * [français](https://meta.miraheze.org/wiki/Privacy_Policy/fr "Politique de confidentialité (2% translated)")
 * [galego](https://meta.miraheze.org/wiki/Privacy_Policy/gl "Política de Privacidade (2% translated)")
 * [italiano](https://meta.miraheze.org/wiki/Privacy_Policy/it "Informativa sulla privacy (2% translated)")
