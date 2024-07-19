@@ -18,8 +18,6 @@ Creating an account or logging in via facebook/email will let you save your appl
 
 No Thanks
 
-![](https://d2rmi16dbt0qpu.cloudfront.net/assets/canvas_template/custom/preloader_logo-53110e3e07d95891dec0d25c46a4ce12e1f36add8b6bd22c4890c50c3aa07103.svg)
-
 [](#)
 
 ### Sign in
