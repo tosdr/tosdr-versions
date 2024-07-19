@@ -24,8 +24,9 @@
     * [Presenters S – Z](https://www.lingerielowdown.com/browse-by-presenters-s-z/)
     * [Presenter galleries](https://www.lingerielowdown.com/galleries/)
 * Browse by…
-    * [Product categories](https://www.lingerielowdown.com/browse-our-categories/)
+    * [Product categories](https://www.lingerielowdown.com/browse-categories/)
     * [High 5 reviews](https://www.lingerielowdown.com/high-5/)
+    * [Most popular reviews](https://www.lingerielowdown.com/our-most-popular-reviews/)
 * [Log In](https://www.lingerielowdown.com/login/)
 
 [](#)
