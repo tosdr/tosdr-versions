@@ -20,11 +20,11 @@
 CHIPOTLE’S U.S. PRIVACY POLICY, INCLUDING CALIFORNIA PRIVACY RIGHTS
 ===================================================================
 
-##### (LAST UPDATED APRIL 30, 2024) 
+##### (LAST UPDATED JUNE 24, 2024) 
 
 ###### _**PARA VER NUESTRA POLÍTICA DE PRIVACIDAD EN ESPAÑOL, [HAGA CLIC AQUÍ](https://www.chipotle.com/about-us/privacy-policy-es)**_
 
-This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers.  The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.”  Please note, this Privacy Policy is applicable to consumers in the United States (US). We maintain separate privacy policies for our US employees, [job applicants](https://www.chipotle.com/recruitingnotice), and contractors and for customers, employees, contractors and job applicants in the European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our Employee Privacy Policy by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
+This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers.  The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.”  Please note, this Privacy Policy is applicable to consumers in the United States (US). We maintain separate privacy policies for our US employees, job applicants, and contractors and for customers, employees, contractors and job applicants in the European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our Employee Privacy Policy by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
 
 **Notice at Collection**
 
@@ -47,7 +47,7 @@ We collect personal information as detailed below and in our [Privacy Policy](ht
 | Fundraising and Donations | To provide you with products and services<br><br>To operate our businesses<br><br>To communicate with you<br><br>To conduct business analytics<br><br>For safety and security purposes<br><br>To improve our customer service and other internal business purposes<br><br>To fulfill our legal obligations and other notified purposes<br><br>To fulfill or meet the request | Government Agencies (if necessary to meet legal obligations)<br><br>Vendors providing services to us | No<br><br>No |
 | Contests, Promotions, Surveys, Focus Groups, or other Market Research | To operate our businesses<br><br>To conduct business analytics<br><br>To conduct marketing, personalization, and advertising<br><br>For research purposes<br><br>For safety and security purposes<br><br>To improve our customer service and other internal business purposes<br><br>To fulfill our legal obligations and other notified purposes | Government Agencies (if necessary to meet legal obligations)<br><br>Vendors providing services to us | No<br><br>No |
 
-We retain personal information to achieve the purposes for which the information was collected. In certain cases, we may need to retain personal information for purposes required under applicable law, for tax or audit purpos, or for other purposes permitted under law.
+We retain personal information to achieve the purposes for which the information was collected. In certain cases, we may need to retain personal information for purposes required under applicable law, for tax or audit purps, or for other purposes permitted under law.
 
 This Privacy Policy includes the following sections:
 
@@ -65,7 +65,7 @@ This Privacy Policy includes the following sections:
 
  **1. COLLECTION OF INFORMATION**
 
-For the purposes of this policy, “personal information” means any information about an identifiable individual including, without limitation, your name, address, telephone number, and email address. Personal information does not include publicly available information from government records or deidentified or aggregated consumer information that Chipotle does not attempt to reidentify. We collect and use your personal information when you:
+For the purposes of this policy, “personal information” means any information about an identifiable individual including, without limitation, your name, address, telephone number, and email address. Personal information does not include publicly available information from government records or deidentified or aggregated consumer information that Chipotle does not attempt to reidentify. We collect and use yo personal information when you:
 
 * Visit one of our restaurants
 * Order through our Website or App, or otherwise use the Services
@@ -139,7 +139,7 @@ Additionally, for certain features of the online Services, you may log in throug
 
 We may combine information that we collect from and about you. When you submit information to a third party, you are subject to that third party’s terms of use and privacy policies, for which we are not responsible.
 
-**2. USE OF INFORMATION**
+**2.  USE OF INFORMATION**
 
 We may use personal information we obtain about you for the following purposes:
 
@@ -167,7 +167,7 @@ _Commercial Purposes_
 
 We may also use any of the personal information we collect to generate and use deidentified or aggregated information about our customers for commercial purposes.
 
-**3. SHARING OF INFORMATION**
+**3.  SHARING OF INFORMATION**
 
 **Information Shared By You**
 
@@ -185,25 +185,25 @@ We may also disclose personal information when required by subpoena, search warr
 
 We may share your information for other purposes as disclosed at the time you provide your information or otherwise with your consent.
 
-**4. RETENTION OF INFORMATION**
+**4.  RETENTION OF INFORMATION**
 
 We retain personal information to achieve the purposes for which the information was collected. In certain cases, we may need to retain personal information for purposes required under applicable law, for tax or audit purposes, or for other purposes permitted under law.
 
-**5. SECURITY**
+**5.  SECURITY**
 
 We are committed to the protection of your personal information from unauthorized access or use. We will use reasonable organizational, physical, technical and administrative measures to protect personal information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with is no longer secure, please notify us by sending an email to [privacy@chipotle.com](mailto:privacy@chipotle.com).
 
-**6. CHILDREN’S PRIVACY**
+**6.  CHILDREN’S PRIVACY**
 
 The online Services are not intended for, and are not intentionally targeted to, children under 13, and we do not knowingly request or seek to collect personal information from any person under 13 years of age through the Services. If we learn that the online Services have received personal information directly from a child who is under the age of 13, we will delete the information in accordance with applicable law.
 
-**7. INTEREST-BASED ADVERTISING - YOUR CHOICES**
+**7.  INTEREST-BASED ADVERTISING - YOUR CHOICES**
 
 Our Website may store or retrieve information on your browser, mostly in the form of cookies. A cookie is a small piece of data (text file) that a website – when visited by a user – places on the user’s device to remember information about the user, such as the user’s language preference or login information. This type of cookie is set by us and is referred to as a “first-party cookies.” Chipotle uses first-party cookies primarily to make the Website work as you expect it to. For example, we use the information we collect through first-party cookies to allow you to navigate between pages efficiently, analyze how well our Website is performing, and understand the content that you spent the most time reviewing. In some cases, we use first-party cookies to store information that we use for targeted advertising.
 
-We also incorporate cookies and similar technologies, such as pixels, tags, and web beacons, from outside Chipotle’s domain (“third-party cookies”).  Third-party cookies gather information to enable our vendors to provide a range of services to us, including targeted advertising and measuring the success of our advertising campaigns. 
+We also incorporate cookies and similar technologies, such as pixels, tags, and web beacons, from outside Chipotle’s domain (“third-party cookies”). Third-party cookies gather information to enable our vendors to provide a range of services to us, including targeted advertising and measuring the success of our advertising campaigns. 
 
-Please review our Cookie Policy for a detailed list of the categories of first- and third-party cookies we use on our Website and additional information related to your ability to control cookies. You can prevent the collection of data by Non Essential Targeting, Social Media, Analytics & Functional Cookies by clicking on “Your Privacy Choices ![](https://www.chipotle.com/content/dam/chipotle/icons-and-animations/privacyoptions29x14.png)” in our Website footer and toggling off the related functionality. 
+Please review our [Cookie Policy](https://www.chipotle.com/cookie-policy) for a detailed list of the categories of first- and third-party cookies we use on our Website and additional information related to your ability to control cookies. You can prevent the collection of data by Non Essential Targeting, Social Media, Analytics & Functional Cookies by clicking on “Your Privacy Choices ![](https://www.chipotle.com/content/dam/chipotle/icons-and-animations/privacyoptions29x14.png)” in our Website footer and toggling off the related functionality. 
 
 We honor the following universal opt out mechanism: Global Privacy Control supported by [Take Control Of Your Privacy](https://globalprivacycontrol.org/). To download and use a browser supporting the GPC browser signal, click here: [https://globalprivacycontrol.org/orgs](https://globalprivacycontrol.org/orgs).
 
@@ -215,13 +215,13 @@ If you would like to be removed from the Chipotle mobile text program, text STOP
 
 If you no longer want us to collect information through the App, please uninstall it.
 
-**8. YOUR STATE PRIVACY RIGHTS AND ADDITIONAL DISCLOSURES**
+**8.  YOUR STATE PRIVACY RIGHTS AND ADDITIONAL DISCLOSURES**
 
 Depending on the state in which you reside, you may have certain privacy rights regarding your personal data as explained in the following sections.
 
 **_Collection, Use, and Disclosure of Personal Information_**
 
-During the 12 months leading up to the effective date of this Privacy Policy, we have collected the following categories of personal information as described in more detail in Section 1, [Collection of Information](#Collection_of_Information), of this Privacy Policy:  Identifiers/contact information, protected classifications such as your age range, marital status and other demographic information, commercial information, payment details, visual information, internet or other electronic network activity information, precise geolocation data, general geolocation data, other information you provide to us, including user-generated content and information provided via surveys, focus groups, and/or other marketing research efforts, sensory data such as recordings of customer care calls or CCTV footage, health, nutrition, fundraising and donations, and inferences based on the above categories.
+During the 12 months leading up to the effective date of this Privacy Policy, we have collected the following categories of personal information as described in more detail in Section 1, [Collection of Information,](#Collection_of_Information) of this Privacy Policy:  Identifiers/contact information, protected classifications such as your age range, marital status and other demographic information, commercial information, payment details, visual information, internet or other electronic network activity information, precise geolocation data, general geolocation data, other information you provide to us, including user-generated content and information provided via surveys, focus groups, and/or other marketing research efforts, sensory data such as recordings of customer care calls or CCTV footage, health, nutrition, fundraising and donations, and inferences based on the above categories.
 
 We collect personal information directly from you and from advertising networks, internet service providers, data analytics providers, government entities, operating systems and platforms, social networks, and data brokers. We do not collect all categories of personal information from each source.
 
@@ -233,16 +233,17 @@ Chipotle permits individuals 13 years of age and older to join our Rewards progr
 
 We do not “sell” or “share” personal information if we have actual knowledge that the consumer is less than 18 years of age. We do not use sensitive personal information for purposes other than those allowed by the California Consumer Privacy Act (CCPA) and its regulations.
 
-**_Deletion & Correction Rights_**
+**_Consumer Rights_**
 
 You may request that we:
 
 * Inform you about the categories of personal information we collect or disclose about you; the categories of sources of such information; the business or commercial purpose for collecting, selling or sharing your personal information; and the categories of third parties with whom we share/disclose personal information.
-* Provide access to and/or a copy of certain personal information we hold about you.
-* Delete certain personal information we have about you.  Note that there are some reasons we will not be able to fully address your request, such as if we need to complete a transaction for you, for our internal purposes, or to comply with a legal obligation.
+* Confirm whether we are processing your personal information and provide access to and/or a copy of certain personal information we hold about you.
+* Obtain, our choice of either, a list of specific third parties, other than natural persons, to which we have disclosed your personal information or any personal information.
+* Delete certain personal information we have about you. Note that there are some reasons we will not be able to fully address your request, such as if we need to complete a transaction for you, for our internal purposes, or to comply with a legal obligation.
 * Correct certain personal information we have about you.
 
-If you would like to exercise your right to know, access, delete or correct your personal information you may submit your request by completing our [**Data Request Form**](https://www.chipotle.com/datarequest).  Alternatively, you submit your data subject request by phone at 833-506-0473.
+If you would like to exercise your right to know, access, delete or correct your personal information you may submit your request by completing our [**Data Request Form**](https://www.chipotle.com/datarequest). Alternatively, you submit your data subject request by phone at 833-506-0473.
 
 We will take reasonable steps verify your identity before responding to your request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name, email address, and other information regarding your use of the Services (e.g., date of last purchase or last 4 digits of a payment/gift card).  
 
@@ -250,15 +251,15 @@ We will take reasonable steps verify your identity before responding to your req
 
 You may direct us not to “sell” or “share” certain personal information or use your personal information for targeted advertising as these terms are defined in state privacy laws.  You can exercise these rights by:
 
-* Clicking on “Your Privacy Choices ![](https://www.chipotle.com/content/dam/chipotle/icons-and-animations/privacyoptions29x14.png)”  in our Website footer and toggle off Non Essential Targeting, Social Media, Analytics, & Functional Cookies.  Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” facilitated through web-initiated device tracking.    
-* Selecting “Opt-Out of Sale, Sharing, or Targeted Advertising” when you complete and submit a [**Data Request Form**](https://www.chipotle.com/data-request). Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” of your personal information directly with third parties; or
+* Clicking on “Your Privacy Choices ![](https://www.chipotle.com/content/dam/chipotle/icons-and-animations/privacyoptions29x14.png)” in our Website footer and either toggling off Non Essential Targeting, Social Media, Analytics, & Functional Cookies or clicking “Reject All” and then clicking “Save choices.”  Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” facilitated through web-initiated device tracking.    
+* Selecting “Opt-Out of Sale, Sharing, or Targeted Advertising” when you complete and submit a [**Data Request Form**](https://www.chipotle.com/datarequest). Completing this step will opt out you out of targeted advertising or the “sale” or “sharing” of your personal information directly with third parties; or
 * Contacting us by phone at 833-506-0473 to make a general request.
 
 Note that Chipotle limits how some of our advertising partners use your personal information after you opt out of sale, sharing, or targeted advertising. These partners may continue to collect your personal information, including by using cookies and similar technologies on our Websites, but we prohibit them from using your information in a way that conflicts with your opt-out choice.
 
 **_Requests Made by Agents_**
 
-If you are an agent making a request on behalf of a consumer, we reserve the right to take steps to verify that you are authorized to make that request, which may include requiring you to provide us with written proof, such as a power of attorney.  As part of the process, we may additionally require the consumer to verify their identity directly with us. For security and legal reasons, Chipotle will reject requests that require us to access third-party websites or services.
+If you are an agent making a request on behalf of a consumer, we reserve the right to take steps to verify that you are authorized to make that request, which may include requiring you to provide us with written proof, such as a power of attorney. As part of the process, we may additionally require the consumer to verify their identity directly with us. For security and legal reasons, Chipotle will reject requests that require us to access third-party websites or services.
 
 **_Privacy Metrics_**
 
@@ -301,7 +302,7 @@ The Chipotle Rewards Program lets participants earn or otherwise receive rewards
 * Discounts and free products offered for frequent visitors 
 * Periodic promotional discounts and offers
 
-You can sign up for the Rewards Program by [**registering on our Website**](https://www.chipotle.com/order/rewards), iframe, or through the App.  Registration requires you to provide your first name, last name, email address (required in order to receive all eligible Chipotle Rewards), delivery address, password used to create the account, telephone number, marketing preferences, device settings, country, and you may also elect to provide other information, including your birthday (month / day only), payment card or gift card information, accessibility preferences for pick up orders, and nutrition preferences.  We will then associate that and other categories of personal information with your Rewards Program account, such as other unique identifiers, purchase history, geolocation data, preferences you provide (e.g., favorite Chipotle restaurants), and stored payment methods.  Note that we also may collect all of this information outside the context of the Rewards Program.
+You can sign up for the Rewards Program by [**registering on our Website**](https://www.chipotle.com/order/rewards), iframe, or through the App. Registration requires you to provide your first name, last name, email address (required in order to receive all eligible Chipotle Rewards), delivery address, password used to create the account, telephone number, marketing preferences, device settings, country, and you may also elect to provide other information, including your birthday (month / day only), payment card or gift card information, accessibility preferences for pick up orders, and nutrition preferences. We will then associate that and other categories of personal information with your Rewards Program account, such as other unique identifiers, purchase history, geolocation data, preferences you provide (e.g., favorite Chipotle restaurants), and stored payment methods.  Note that we also may collect all of this information outside the context of the Rewards Program.
 
 Full terms for the Rewards Program are available [**here**](https://www.chipotle.com/about-us/rewards-terms).
 
@@ -329,7 +330,11 @@ Subject to certain limitations under California’s Shine the Light law, Califor
 
 Your request should indicate that you are a California resident, and you must provide your full current California address, to which we will send our response. Your inquiry must specify “Shine the Light Request” in the subject line of the email or the first line of the letter, and include your California address. We are only required to respond to one such request per individual each year.  We may take reasonable steps to verify your identity and the authenticity of the request.
 
-**9. LINKS TO OTHER WEBSITES AND SERVICES**
+**_Oregon Residents_**
+
+We are registered with the Oregon Secretary of State under the following business names: Chipotle Mexican Grill, Chipotle Mexican Grill of Colorado, LLC, Chipotle Mexican Grill Service Co., LLC, Chipotle Mexican Grill, Inc., Chipotle Services, LLC.
+
+**9.  LINKS TO OTHER WEBSITES AND SERVICES**
 
 The Services may offer links to websites and other services that are not maintained by Chipotle. By visiting one of these linked websites or services, you are subject to their privacy and other policies. We are not responsible for, or able to monitor or control, the policies and practices of other companies.
 
@@ -398,17 +403,17 @@ JOIN NOW
 
 ### DOWNLOAD OUR APP
 
- [![Apple App Store](/adobe/dynamicmedia/deliver/dm-aid--42a81337-7092-4971-b02e-63cf5b94fc2b/footer-app-download.png?preferwebp=true&quality=85 "Apple App Store")](https://itunes.apple.com/us/app/chipotle/id327228455?mt=8)
+ [![Apple App Store](/adobe/dynamicmedia/deliver/dm-aid--42a81337-7092-4971-b02e-63cf5b94fc2b/footer-app-download.png?quality=85&preferwebp=true "Apple App Store")](https://itunes.apple.com/us/app/chipotle/id327228455?mt=8)
 
- [![Google Play](/adobe/dynamicmedia/deliver/dm-aid--a9995df0-b5d5-403b-a6d7-03a8bb0c74fa/footer-google-play.png?preferwebp=true&quality=85 "Google Play")](https://play.google.com/store/apps/details?id=com.chipotle.ordering)
+ [![Google Play](/adobe/dynamicmedia/deliver/dm-aid--a9995df0-b5d5-403b-a6d7-03a8bb0c74fa/footer-google-play.png?quality=85&preferwebp=true "Google Play")](https://play.google.com/store/apps/details?id=com.chipotle.ordering)
 
 ### CONNECT WITH US
 
- [![instagram social icon ](/adobe/dynamicmedia/deliver/dm-aid--66cfe770-ad76-4a66-a07c-e6b3111e2371/social-icon-insta.png?preferwebp=true&quality=85 "instagram image")](https://www.instagram.com/chipotle/)
+ [![instagram social icon ](/adobe/dynamicmedia/deliver/dm-aid--66cfe770-ad76-4a66-a07c-e6b3111e2371/social-icon-insta.png?quality=85&preferwebp=true "instagram image")](https://www.instagram.com/chipotle/)
 
- [![twitter x social icon ](/adobe/dynamicmedia/deliver/dm-aid--1ca1feab-ec90-4002-8fee-88c10766910b/social-icon-twitter.png?preferwebp=true&quality=85 "twitter x image")](https://www.twitter.com/chipotletweets)
+ [![twitter x social icon ](/adobe/dynamicmedia/deliver/dm-aid--1ca1feab-ec90-4002-8fee-88c10766910b/social-icon-twitter.png?quality=85&preferwebp=true "twitter x image")](https://www.twitter.com/chipotletweets)
 
- [![facebook social icon](/adobe/dynamicmedia/deliver/dm-aid--5ddd6649-c2c5-455b-932b-0ceb4f8e2546/social-icon-facebook.png?preferwebp=true&quality=85 "facebook image")](https://www.facebook.com/chipotle)
+ [![facebook social icon](/adobe/dynamicmedia/deliver/dm-aid--5ddd6649-c2c5-455b-932b-0ceb4f8e2546/social-icon-facebook.png?quality=85&preferwebp=true "facebook image")](https://www.facebook.com/chipotle)
 
 © 2024 Chipotle Mexican Grill
 
