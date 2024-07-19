@@ -5,17 +5,12 @@ Privacy Policy
 
   
   
-Playata GmbH, Vordere Sterngasse 4/6, Nürnberg, D-90402, +49 911 18092338, [mail@playata.com](mailto:mail@playata.com) (“Playata”)  
+European Games Group GmbH, Vordere Sterngasse 4/6, Nürnberg, D-90402, +49 (0) 911 23735056, [contact@gamesgroup.eu](mailto:contact@gamesgroup.eu) (“European Games Group”)  
 Privacy Policy  
-Last Updated: May 21st, 2018  
-Effective Date: May 21st, 2018  
+Last Updated: July 2nd, 2024  
+Effective Date: July 2nd, 2024  
   
-Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information Playata collects when you use the mobile, online and downloadable products and services ("products") offered by Playata. By using our products, you consent to this policy.  
-  
-Due to the nature of our close cooperation with European Games Group GmbH, Schellingstraße 21, 80799 Munich, Germany (“EGG”), as publisher, please consider all your information to be shared with EGG. Please review EGG’s Privacy Policy at [http://gamesgroup.eu/data-protection/](http://gamesgroup.eu/data-protection/) and their sub-processors. By using our product, you consent to EGG’s policy as well.  
-  
-Sharing of personal data with EGG is limited to the following products:  
-\- Big Bang Empire  
+Your privacy is important to us, and we take our responsibility of caring for it seriously. This policy describes what information European Games Group collects when you use the mobile, online and downloadable products and services ("products") offered by European Games Group. By using our products, you consent to this policy.  
   
 **TABLE OF CONTENTS**  
 1\. Information We Collect  
@@ -34,7 +29,7 @@ Sharing of personal data with EGG is limited to the following products:
   
 **1\. Information We Collect**  
   
-The information we collect depends on what products you use and how you use them. The controller of the personal information collected is Playata GmbH, Vordere Sterngasse 4/6, Nürnberg, D-90402, +49 911 18092338, [mail@playata.com](mailto:mail@playata.com) (“Playata”).  
+The information we collect depends on what products you use and how you use them. The controller of the personal information collected is European Games Group GmbH, Vordere Sterngasse 4/6, Nürnberg, D-90402, +49 (0) 911 23735056, [contact@gamesgroup.eu](mailto:contact@gamesgroup.eu) (“European Games Group”).  
   
 A. Information You Give Us Directly  
 We collect information you provide us, including for example:  
@@ -65,15 +60,15 @@ hardware settings and components, software and updates you have installed or use
 We also may collect and store information locally on your device, using mechanisms like cookies, browser web storage (including HTML 5) and application data caches.  
   
 C. Information Provided to Us by Third Parties  
-PlayStation®3 & PlayStation®4 Computer Entertainment Systems. By signing up to play our products on a PlayStation®3 or PlayStation®4 computer entertainment system, you agree your Sony Entertainment Network account information will be provided to Playata GmbH so we can establish an Playata GmbH Account for you. You need an Playata GmbH Account to play Playata GmbH's products online. From Sony, we receive information including your name, email address, Online ID, your country, state or province, language and date of birth. We do not receive your credit card number or other financial information.  
+PlayStation®3 & PlayStation®4 Computer Entertainment Systems. By signing up to play our products on a PlayStation®3 or PlayStation®4 computer entertainment system, you agree your Sony Entertainment Network account information will be provided to European Games Group GmbH so we can establish an European Games Group GmbH Account for you. You need an European Games Group GmbH Account to play European Games Group GmbH's products online. From Sony, we receive information including your name, email address, Online ID, your country, state or province, language and date of birth. We do not receive your credit card number or other financial information.  
   
-Xbox Live. By signing up to play our products on Microsoft's Xbox Live Service, you agree that Microsoft may provide us with your Microsoft user account information so we can establish an Playata Account for you. You need an Playata Account to play Playata products online. From Microsoft, we receive information including your Gamertag, email address, state or province, country, language and age. We do not receive your credit card number or other financial information.  
+Xbox Live. By signing up to play our products on Microsoft's Xbox Live Service, you agree that Microsoft may provide us with your Microsoft user account information so we can establish an European Games Group Account for you. You need an European Games Group Account to play European Games Group products online. From Microsoft, we receive information including your Gamertag, email address, state or province, country, language and age. We do not receive your credit card number or other financial information.  
   
-Wii / Wii U. By signing up to play our products on a Nintendo Wii or Wii U console, you agree that Nintendo may provide us with your Nintendo user account information so we can establish an Playata Account for you. You need an Playata Account to play Playata‘s products online. From Nintendo, the data we receive includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
+Wii / Wii U. By signing up to play our products on a Nintendo Wii or Wii U console, you agree that Nintendo may provide us with your Nintendo user account information so we can establish an European Games Group Account for you. You need an European Games Group Account to play European Games Group‘s products online. From Nintendo, the data we receive includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
   
-Nintendo Switch™. By signing up to play our products on a Nintendo Switch™ console, you agree that Nintendo may provide us with your Nintendo Account information so we can establish an Playata Account for you. You need an Playata Account to play Playata's products online. From Nintendo, the data we receive includes your nickname, email address, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
+Nintendo Switch™. By signing up to play our products on a Nintendo Switch™ console, you agree that Nintendo may provide us with your Nintendo Account information so we can establish an European Games Group Account for you. You need an European Games Group Account to play European Games Group's products online. From Nintendo, the data we receive includes your nickname, email address, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
   
-Steam™. By signing up to play our products on via Steam™, you agree that Valve Corporation may provide us with your Steam™ Account information so we can establish an Playata Account for you. You need an Playata Account to play Playata‘s products online. From Valve, the data we receive includes your nickname, email address, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
+Steam™. By signing up to play our products on via Steam™, you agree that Valve Corporation may provide us with your Steam™ Account information so we can establish an European Games Group Account for you. You need an European Games Group Account to play European Games Group‘s products online. From Valve, the data we receive includes your nickname, email address, friend list, country, language and date of birth. We do not receive your credit card number or other financial information.  
   
 Mobile Platforms. If you play or purchase our product on your mobile device and/or tablet, we receive information about you from the app stores and other mobile platform providers. This information includes your username and/or device ID and the fact that you made a purchase, for instance, but does not include any sensitive or financial information. Some of our mobile platforms also may send information to us that you authorize them to provide. Our mobile products also may request additional personal information from you, such as push notification tokens, your precise location or contact list, and we will collect this information only if you give us your explicit consent.  
   
@@ -96,12 +91,12 @@ We also use Analytics, Advertising, Anti-Cheat and Anti-Fraud technologies in ou
 B. Analytics Technologies  
 We use our own servers and internal and third party analytic technologies to collect information about how you use our products, your computer or device and the health of our products.  
   
-For instance, Playata may collect and store data from your computer or device when you use our products. This information includes technical and related information about your computer or device and operating system (such as IP Address and device ID), information about your feature usage, gameplay and usage statistics, system interactions and peripheral hardware for purposes described in section 3, below. If you play a game offline, this data will be stored on your device and transmitted to Playata when your device connects to the Internet. If you participate in online services, Playata also may collect, use, store, transmit and publicly display statistical data regarding game play (including scores, rankings and accomplishments), or identify content that is created and shared by you with other players.  
+For instance, European Games Group may collect and store data from your computer or device when you use our products. This information includes technical and related information about your computer or device and operating system (such as IP Address and device ID), information about your feature usage, gameplay and usage statistics, system interactions and peripheral hardware for purposes described in section 3, below. If you play a game offline, this data will be stored on your device and transmitted to European Games Group when your device connects to the Internet. If you participate in online services, European Games Group also may collect, use, store, transmit and publicly display statistical data regarding game play (including scores, rankings and accomplishments), or identify content that is created and shared by you with other players.  
   
-Third party analytics services integrated into our products may combine the information they collect in connection with Playata's services with information they have independently collected over time and across different websites. Many of these companies collect and use information under their own privacy policies. A representative list of third party analytics companies that operate in our products can be found at [Appendix](https://us5.bigbangempire.com/policy/appendix.php).  
+Third party analytics services integrated into our products may combine the information they collect in connection with European Games Group's services with information they have independently collected over time and across different websites. Many of these companies collect and use information under their own privacy policies. A representative list of third party analytics companies that operate in our products can be found at [Appendix](https://us5.bigbangempire.com/policy/appendix.php).  
   
 C. Advertising Serving Technologies  
-Some of our products employ advertising serving technologies that use cookies, clear GIFs, web beacons, tracking pixels, and other similar technologies like identifiers to deliver offers to you. Some of these technologies can sync or connect behavior across different websites, mobile apps and devices. The ads can be tailored to your interests. For instance, you may be presented with an offer for a game we think you might enjoy. Or if you express interest in a game, you might receive an advertisement later for that game or similar products from Playata GmbH or third party sites. Other in-game advertising technologies enable advertising to be temporarily uploaded to your game, web browser, or mobile device and later replaced while you are online.  
+Some of our products employ advertising serving technologies that use cookies, clear GIFs, web beacons, tracking pixels, and other similar technologies like identifiers to deliver offers to you. Some of these technologies can sync or connect behavior across different websites, mobile apps and devices. The ads can be tailored to your interests. For instance, you may be presented with an offer for a game we think you might enjoy. Or if you express interest in a game, you might receive an advertisement later for that game or similar products from European Games Group GmbH or third party sites. Other in-game advertising technologies enable advertising to be temporarily uploaded to your game, web browser, or mobile device and later replaced while you are online.  
   
 These technologies collect and use information so we can serve appropriate advertising to you and help track results and measure effectiveness. In addition to identifiers, this information includes:  
   
@@ -115,7 +110,7 @@ Third party advertising companies may combine the information collected in the c
 To learn more about some of these ad networks' practices, or to opt out of third party targeted advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/), [https://www.aboutads.info/choices/,](https://www.aboutads.info/choices/,) [http://youradchoices.ca/,](http://youradchoices.ca/,) or [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/). Note that opting out does not mean you won't see ads; it just means that the advertising you see may be less relevant to your interests.  
   
 D. Anti-Cheat and Fraud Prevention Technologies  
-Playata strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an Playata Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use other anti-cheat or fraud prevention technology with our products.  
+European Games Group strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an European Games Group Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use other anti-cheat or fraud prevention technology with our products.  
   
   
 **3\. How We Use Your Information**  
@@ -126,7 +121,7 @@ To operate our business and to enhance and personalize your game experience incl
 – Operate, improve, and develop our games and services;  
 – Populate online leaderboards and enable online matchmaking;  
 – Provide replays to you and other players via spectator modes;  
-– Help you find your friends or tell your friends about an Playata product or service;  
+– Help you find your friends or tell your friends about an European Games Group product or service;  
 – Facilitate sharing on social networks;  
 – Serve and measure the effectiveness of advertising;  
 – Measure the health of our services;  
@@ -166,11 +161,11 @@ We do not control information sent from your browser to third parties, such as a
   
   
 **5\. Where We Hold Your Information**  
-Personal Information we collect may be stored and processed for the purposes set out in this Privacy Policy in the Germany or any other country in which Playata, its subsidiaries, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the Germany and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.  
+Personal Information we collect may be stored and processed for the purposes set out in this Privacy Policy in the Germany or any other country in which European Games Group, its subsidiaries, or third party agents operate. By using our products, you consent that your personal information may be transferred to recipients in the Germany and other countries that may not offer the same level of privacy protection as the laws in your country of residence or citizenship.  
   
   
 **6\. How We Protect Your Personal Information**  
-Security of our players' information is a priority at Playata, and we take a range of measures to help protect it. Even so, no security measure is 100% perfect. This means we cannot guarantee the security of your information and do not assume any responsibility for the unauthorized use or access to your information under our control. We process the information collected from you according to the European data protection law. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations, and that received.  
+Security of our players' information is a priority at European Games Group, and we take a range of measures to help protect it. Even so, no security measure is 100% perfect. This means we cannot guarantee the security of your information and do not assume any responsibility for the unauthorized use or access to your information under our control. We process the information collected from you according to the European data protection law. All employees are obliged and have been advised to maintain data confidentiality and privacy obligations, and that received.  
   
   
 **7\. Duration of Storage, storage periods**  
@@ -178,9 +173,9 @@ We store your data only as long as this is necessary for the provision of our on
   
   
 **8\. Your Choices and Controls**  
-We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of Playata marketing emails and choose whether to share your information with select Playata partners. If you would like to opt out at any time after granting approval, use the provided controls within the product or contact us directly.  
+We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of European Games Group marketing emails and choose whether to share your information with select European Games Group partners. If you would like to opt out at any time after granting approval, use the provided controls within the product or contact us directly.  
   
-You may deactivate your Playata Account or delete the personal information associated with your account by using the provided controls within the product or by contacting us directly. If you do so, you will no longer have access to the Playata games or services associated with your account. Note that Playata may retain information needed to resolve disputes, enforce our user agreements, protect our legal and tax rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our products, comply with the law, and to run our business.  
+You may deactivate your European Games Group Account or delete the personal information associated with your account by using the provided controls within the product or by contacting us directly. If you do so, you will no longer have access to the European Games Group games or services associated with your account. Note that European Games Group may retain information needed to resolve disputes, enforce our user agreements, protect our legal and tax rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our products, comply with the law, and to run our business.  
   
 You can access the personal information we hold about you. To request access, contact us directly. Before we process any request, we may ask you for certain personal information in order to verify your identity and we may request payment where allowed by law. Where permitted by local law, we may reject requests that are unreasonable or impractical. We will respond to your requests in a reasonable timeframe.  
   
@@ -192,32 +187,32 @@ You also may adjust your browser settings to block certain online tracking, such
   
   
 **9\. Third Party Services**  
-Our websites and products may contain advertising or third party services (such as the Facebook Like button or links to third-party websites). If you click on those links, including an advertisement, you will leave the Playata website and go to the site you selected. If you visit a third party website or use a third party service, you should consult that site's or service's privacy policy. Playata does not verify the data protection conditions of third parties.  
+Our websites and products may contain advertising or third party services (such as the Facebook Like button or links to third-party websites). If you click on those links, including an advertisement, you will leave the European Games Group website and go to the site you selected. If you visit a third party website or use a third party service, you should consult that site's or service's privacy policy. European Games Group does not verify the data protection conditions of third parties.  
   
   
 **10\. Job application**  
-This Privacy Policy sets out how Playata uses data from candidates that apply for or that Playata considers for a position at Playata. Candidates may interacting with Playata human resources department verbally or in writing (“Application”).  
+This Privacy Policy sets out how European Games Group uses data from candidates that apply for or that European Games Group considers for a position at European Games Group. Candidates may interacting with European Games Group human resources department verbally or in writing (“Application”).  
   
-Personal data which you submit on registration when applying for a particular position at Playata, such as your name, e-mail address, date of birth, telephone number, IP address, device ID, curriculum vitae, photograph, references and certificates or other information from which your identity is discernible.  
+Personal data which you submit on registration when applying for a particular position at European Games Group, such as your name, e-mail address, date of birth, telephone number, IP address, device ID, curriculum vitae, photograph, references and certificates or other information from which your identity is discernible.  
 Information we collect from third party public sources, such as LinkedIn or Xing or other career networking services.  
   
-By applying, you explicitly confirm that you are interested in an employment at Playata. You therefore voluntarily provide your personal data to be used for recruiting purposes, in particular for filing and matching your profile with any and all open positions at Playata, including beyond those for which you specifically applied.  
+By applying, you explicitly confirm that you are interested in an employment at European Games Group. You therefore voluntarily provide your personal data to be used for recruiting purposes, in particular for filing and matching your profile with any and all open positions at European Games Group, including beyond those for which you specifically applied.  
   
-If there is a job opportunity at Playata which matches your profile, Playata may forward your data to the responsible Playata managers in order to contact you for interviews. The personal data will be processed in the form of databases and will be collected in secured personal files.  
+If there is a job opportunity at European Games Group which matches your profile, European Games Group may forward your data to the responsible European Games Group managers in order to contact you for interviews. The personal data will be processed in the form of databases and will be collected in secured personal files.  
   
 You have the option of withdrawing your application at any time.  
   
-Playata will use your personal data:  
+European Games Group will use your personal data:  
   
 \- to manage your relationship with us and process your job application(s),  
 \- to contact you (including by e-mail) about suitable job opportunities as they arise.  
-\- to assess your eligibility for the particular position you have applied for or for available positions at Playata.  
-\- to invite you to Playata recruitment events (including by e-mail).  
-We use reasonable safeguards to limit access to your personal data to those employees at Playata seeking/considering a candidate for a position  
+\- to assess your eligibility for the particular position you have applied for or for available positions at European Games Group.  
+\- to invite you to European Games Group recruitment events (including by e-mail).  
+We use reasonable safeguards to limit access to your personal data to those employees at European Games Group seeking/considering a candidate for a position  
   
 As part of the application process and for successful candidates during your employment, we may share your data as follows:  
   
-\- With third parties that work with Playata to organize and manage data on our behalf (“Service Providers”). In these circumstances your personal data will not be used by Service Providers for any other purpose and Service Providers will use reasonable security precautions.  
+\- With third parties that work with European Games Group to organize and manage data on our behalf (“Service Providers”). In these circumstances your personal data will not be used by Service Providers for any other purpose and Service Providers will use reasonable security precautions.  
   
 \- In circumstances where we are legally required to do so.  
   
@@ -226,9 +221,9 @@ As part of the application process and for successful candidates during your emp
 Your data will be deleted in accordance with the applicable laws once the application process ends or if you withdraw your application.  
 On deletion of your personal data we may retain limited personal information to ensure that we do not contact you again in the future and where there is a legal requirement to do so.  
   
-You may choose to submit digital materials demonstrating your skills and abilities for review by Playata (“Material(s)”). Please note that Materials are not generally required. If submitted, we will use your Material only for evaluation purposes and will not distribute any copies of the Material to any third parties. We will return or destroy all copies of your Material upon completion of our review or upon your earlier request.  
+You may choose to submit digital materials demonstrating your skills and abilities for review by European Games Group (“Material(s)”). Please note that Materials are not generally required. If submitted, we will use your Material only for evaluation purposes and will not distribute any copies of the Material to any third parties. We will return or destroy all copies of your Material upon completion of our review or upon your earlier request.  
   
-Playata engages in a continuous program to develop new products and ideas internally and we also regularly receive other submissions for consideration. The games, ideas or concepts that Playata develops internally or that others submit may be similar to your Material. As a result, we cannot agree to treat as confidential any Material you submit, even if it is marked as confidential or proprietary. Our acceptance or review of your Material does not imply that we will use, develop or market your Material. Our review of your Material does not prevent us from using, developing, or marketing technologies, ideas or games that may be similar in concept or idea to your Material.  
+European Games Group engages in a continuous program to develop new products and ideas internally and we also regularly receive other submissions for consideration. The games, ideas or concepts that European Games Group develops internally or that others submit may be similar to your Material. As a result, we cannot agree to treat as confidential any Material you submit, even if it is marked as confidential or proprietary. Our acceptance or review of your Material does not imply that we will use, develop or market your Material. Our review of your Material does not prevent us from using, developing, or marketing technologies, ideas or games that may be similar in concept or idea to your Material.  
   
   
 **11\. Changes to Our Policy**  
@@ -237,4 +232,4 @@ We may update this policy from time to time, so please review it frequently. We'
   
 **12\. Contact Us**  
 If you have a complaint or question about this policy, you may contact us:  
-[mail@playata.com](mailto:mail@playata.com). (Data Protection Officer: Maximilian Hartung (eDSB der Datenschutz Agentur))
+[contact@gamesgroup.eu](mailto:contact@gamesgroup.eu). (Data Protection Officer: Maximilian Hartung (eDSB der Datenschutz Agentur))
