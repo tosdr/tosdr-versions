@@ -24,7 +24,7 @@ The following are Terms and Conditions specific to Aloha Cloud Customers.
 
 [United States - Standard Hardware Warranty and Extended Maintenance Policy. (Aloha Cloud)](https://assets.website-files.com/65b3ea55ed6b77d8d773168f/65f0bad2b9e5c6492ccd5f1e_ncr-us-merchant-hw-maintenance-policy-ac.pdf)
 
-[Aloha Cloud Merchant Agreement](https://assets.website-files.com/65b3ea55ed6b77d8d773168f/65f0ba3d2e5e4c85bfe92398_merchant-agreement-ac.pdf)
+[Aloha Cloud Merchant Agreement](https://www.ncrvoyix.com/dam/restaurant/docs/merchant-agreement-ac.pdf)
 
 [Aloha Cloud Hardware Maintenance](https://assets.website-files.com/65b3ea55ed6b77d8d773168f/663deb146b8c23a019928792_ncr-us-merchant-hw-maintenance-policy-ac.pdf.pdf)
 
