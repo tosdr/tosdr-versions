@@ -1,4 +1,4 @@
-[![Blind recruiting within your ATS](//images.squarespace-cdn.com/content/v1/5f17078674945e486d7b4b02/1612552813232-ZK46GYUTUYB0YRVAX9E1/Updated+logo.png)](https://www.mevitae.com/)
+[![Blind recruiting within your ATS](//images.squarespace-cdn.com/content/v1/5f17078674945e486d7b4b02/55176bac-25b8-4a04-8c54-717c3b061fb1/MeVitae+-+transparent+%2B+purple.jpg)](https://www.mevitae.com/)
 
 [](https://www.mevitae.com/search)
 
@@ -16,7 +16,7 @@ Back [Blogs](https://www.mevitae.com/blogs) [Infographics](https://www.mevitae.c
 
 [Solutions](https://www.mevitae.com/solutions) [Our Solutions](https://www.mevitae.com/our-solutions) [Blind Recruiting](https://www.mevitae.com/blind-recruiting) [Talent Screening](https://www.mevitae.com/talent-screening) [DE&I Analytics](https://www.mevitae.com/diversity-analytics) [DE&I Decision Making Training](https://www.mevitae.com/dei-decision-making-training) [Company](https://www.mevitae.com/company) [About Us](https://www.mevitae.com/about-us) [Diversity](https://www.mevitae.com/diversity-matters) [Careers](https://www.mevitae.com/careers) [Press](https://www.mevitae.com/press) [Partners](https://www.mevitae.com/partners) [Resources](https://www.mevitae.com/resource) [Blogs](https://www.mevitae.com/blogs) [Infographics](https://www.mevitae.com/infographics) [White paper](https://www.mevitae.com/whitepaper) [Case studies](https://www.mevitae.com/case-studies) [Videos](https://www.mevitae.com/videos) [Podcasts](https://www.mevitae.com/podcasts) [Events](https://www.mevitae.com/events) [Why Blind Recruiting?](https://www.mevitae.com/why-blind-recruiting) [Labs](https://www.mevitae.com/labs)
 
-[![Blind recruiting within your ATS](//images.squarespace-cdn.com/content/v1/5f17078674945e486d7b4b02/1612552813232-ZK46GYUTUYB0YRVAX9E1/Updated+logo.png)](https://www.mevitae.com/)
+[![Blind recruiting within your ATS](//images.squarespace-cdn.com/content/v1/5f17078674945e486d7b4b02/55176bac-25b8-4a04-8c54-717c3b061fb1/MeVitae+-+transparent+%2B+purple.jpg)](https://www.mevitae.com/)
 
 Fairer Hiring
 
