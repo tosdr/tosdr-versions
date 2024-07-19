@@ -158,20 +158,21 @@ Free standard shipping on orders over $29.00
         * [Made for iPad®](https://www.logitech.com/en-us/apple/for-ipad.html)
         * [Made for Mac®](https://www.logitech.com/en-us/apple/for-mac.html)
         * [On the Go](https://www.logitech.com/en-us/mobility/mobile-solutions.html)
+        * [Ultimate Ears Speakers](https://www.logitech.com/en-us/ue/ultimate-ears.html)
         
     
 * Deals
     
     Deals Close
     
-    * [Current Offers](https://www.logitech.com/en-us/sales.html#current-deals)
-        -------------------------------------------------------------------------
+    * [Current Offers](https://www.logitech.com/en-us/sales.html)
+        -----------------------------------------------------------
         
         [![Multiple product images with discount tags](https://resource.logitech.com/w_316,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/deals-current-offers.png?v=1)](https://www.logitech.com/en-us/sales.html#current-deals)
         
         Current Offers
         
-        * [Current Offers](https://www.logitech.com/en-us/sales.html#current-deals)
+        * [Current Offers](https://www.logitech.com/en-us/sales.html)
         
         [Gifts with Purchase](https://www.logitech.com/en-us/sales.html#gift)
         ---------------------------------------------------------------------
@@ -726,7 +727,7 @@ CUSTOMERS
 
  [![](/content/dam/logitech/common/facebook.svg)](http://www.facebook.com/Logitech)[![](/content/dam/logitech/common/twitter.svg)](http://www.twitter.com/Logitech)[![](/content/dam/logitech/common/instagram-logo.svg)](http://instagram.com/logitech?ref=badge)
 
-   
+    
 
  Yes, I want to receive news and product emails. Read our [privacy policy](https://www.logitech.com/en-us/legal/web-privacy-policy.html).
 
