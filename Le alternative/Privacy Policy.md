@@ -176,6 +176,9 @@ Questa politica sulla privacy si applica solo alle nostre attività online ed è
 
 Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accetti i suoi termini. Se desideri ulteriori informazioni o hai domande sulla nostra politica sulla privacy non esitare a contattarci.
 
+Se l'articolo ti è piaciuto puoi parlarne su [Feddit](https://feddit.it/c/lealternative). **Feddit** fa parte del Fediverso, interagisci con **Mastodon**, **Friendica** o altre realtà del Fediverso!  
+In alternativa vieni a trovarci su [Le Alternative | Forum](https://lealternative.forum/)!
+
 [Condividi](javascript:shareURL())
 
 [🩵 donazioni](https://www.lealternative.net/donazioni/)
