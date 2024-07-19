@@ -406,7 +406,6 @@ Last updated : 11/03/2022
 ![](https://www.criteo.com/wp-content/uploads/2024/05/card-6.png)
 
 Criteo Trend Tracker
---------------------
 
 Data & Insights to Know and Share
 
@@ -451,7 +450,7 @@ Legal
 
 UK notices
 
-* [UK Modern Slavery Act](https://www.criteo.com/wp-content/uploads/2023/06/20230419-Modern-Slavery-Statement-2023-TDAP.pdf)
+* [UK Modern Slavery Act](https://www.criteo.com/wp-content/uploads/2024/06/Modern-Slavery-Statement-2024.pdf)
 * [Tax Strategy](https://www.criteo.com/wp-content/uploads/2023/12/Criteo-2023-UK-Tax-strategy-report.pdf)
 
 About
