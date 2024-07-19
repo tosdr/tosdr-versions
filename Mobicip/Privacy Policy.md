@@ -98,14 +98,14 @@ Mobicip, LLC., DBA Mobicip.com, (the ‘Company’) is a California Limited Liab
     * Additional Questions
         * For additional inquiries about the privacy of your information, contact Mobicip at [support@mobicip.com](mailto:support@mobicip.com).
 
-Build Better Digital Habits With Mobicip
-----------------------------------------
+Secure your child's digital world and protect their innocence
+-------------------------------------------------------------
 
 * 7-day Free Trial
 * Upgrade Anytime
 * Fast & Friendly Support
 
-[Start Free Trial](https://www.mobicip.com/pricing)
+[Start your 7-day free trial today!](https://www.mobicip.com/pricing)
 
 #### Platforms
 
