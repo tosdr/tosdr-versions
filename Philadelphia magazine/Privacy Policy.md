@@ -264,12 +264,12 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [Bistrot La Minette Announces Closure After 16 Years](https://www.phillymag.com/foobooz/2024/06/18/bistrot-la-minette-closing/)
+1. ### [Delco Pol Swears Her “A for Effort” Post Was Not About Trump](https://www.phillymag.com/news/2024/07/16/jess-branas-trump-shooting/)
     
-2. ### [Philly’s Best Ice Cream Shops](https://www.phillymag.com/foobooz/best-ice-cream-philadelphia/)
+2. ### [Josh Shapiro Outperforms Joe Biden In New Poll](https://www.phillymag.com/news/2024/07/18/joe-biden-poll-josh-shapiro/)
     
 3. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
     
-4. ### [Public Pools Where You Can Swim for Free in Philadelphia](https://www.phillymag.com/be-well-philly/public-pools/)
+4. ### [Where to Eat in Old City Philadelphia](https://www.phillymag.com/foobooz/old-city-restaurants-philadelphia/)
     
-5. ### [We Tracked Down Kylie Kelce Shore Bully Andrée Goldberg](https://www.phillymag.com/news/2024/05/30/andree-goldberg-kylie-kelce-teuscher/)
+5. ### [Our Favorite Philly Takeout Windows for Grab-and-Go Food](https://www.phillymag.com/foobooz/takeout-windows-philadelphia/)
