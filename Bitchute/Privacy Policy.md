@@ -27,7 +27,7 @@ Description (details)
 Privacy Policy
 ==============
 
-**Latest Update: October 2, 2023**
+**Latest Update: July 11, 2024**
 
 This Privacy Policy governs the manner in which BitChute collects, uses, maintains and discloses information collected from Users (each, a "User") of the BitChute website and associated services (collectively known as the "Service"). This privacy policy applies to all elements of the Service. Please ensure that you read this Privacy Policy, the [**Terms & Conditions**](https://support.bitchute.com/policy/terms) and the [**Cookie Policy**](https://support.bitchute.com/policy/cookie) carefully. These are collectively known as the "Terms".
 
@@ -72,7 +72,7 @@ How we use the information
 We may collect and use Users information for the following purposes:
 
 1. To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
-2. To improve the Service. We may use feedback you provide to improve our products and services.
+2. To improve the Service. We may use feedback you provide to perform site traffic analysis and improve our products and services.
 3. To run a promotion, contest, survey or other feature. To send Users information they agreed to receive about topics we think will be of interest to them.
 4. To send periodic emails. We may use the email address to send User information and updates pertaining to their subscriptions, activity and/or orders. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -105,12 +105,12 @@ Many advertisers and service providers performing advertising-related services f
 
 Note that opting-out of interest-based advertising via the above programs (or similar) means only that those selected, voluntarily participating program members should no longer deliver such advertising to you, but it does not mean you will no longer receive any targeted content and/or ads. In addition, if your browsers are configured to reject cookies generally at the time when you visit the websites of these opt-out programs, or if you subsequently erase the cookies installed by them, or use a different device or web browser, your browser-based opt-out may no longer be effective.
 
-We may use third-party services such as Google Ad Manager to help us deliver advertising messages to you. You may exercise your choices regarding the use of cookies by Google Ad Manager by using options provided in the messages displayed to you on our site. You can also install the Google Analytics Opt-out Browser Add-on by going [**here**](https://tools.google.com/dlpage/gaoptout/) and following the instructions. Alternatively, BitChute offers the ability for Registered Users to opt out of advertising entirely with the effect that this code will not be running on the version of the Service delivered to them. Go under Settings > Interface and scroll down to uncheck the "Show Adverts" box to exercise this option. Note, however, that advertising helps us cover the cost of delivering the Service. So if you decide to exercise this option, please consider supporting the platform with a [**BitChute Membership**](https://www.bitchute.com/membership/) package.
+We may use third-party services to help us deliver advertising messages to you. You may exercise your choices regarding the use of cookies by using options provided in the messages displayed to you on our site. Note that BitChute offers the ability for Registered Users to opt out of advertising entirely with the effect that this code will not be running on the version of the Service delivered to them. Go under Settings > Interface and scroll down to uncheck the "Show Adverts" box to exercise this option. Note, however, that advertising helps us cover the cost of delivering the Service. So if you decide to exercise this option, please consider supporting the platform with a [**BitChute Membership**](https://www.bitchute.com/membership/) package.
 
 How long we keep your information
 ---------------------------------
 
-We keep the categories of personal information described above for as long as is necessary for the purposes described in this Privacy Policy or otherwise authorized by law. Specifically, we will continue to hold the information as long as any of the following is still applicable:
+We keep the categories of personal information described above for as long as is necessary for the purposes described in this Privacy Policy or otherwise authorized by law. Generally, we will keep the data we collect when you use our products or services for a maximum of one year. However, note that we will continue to hold the information as long as any of the following is still applicable:
 
 * Your personal information is reasonably necessary to manage our operations, to manage your relationship with us, or to satisfy another purpose for which we collected the information;
 * The information is reasonably required to protect or defend our rights or property (which will generally relate to applicable laws that limit actions in a particular case); or
@@ -160,7 +160,7 @@ If you have any questions or concerns about our Privacy Policy or its implementa
 
 #### Was this article helpful?
 
-[7457](#) [2118](#)
+[7472](#) [2172](#)
 
 #### Related Questions:
 
@@ -185,3 +185,7 @@ Our customer support team is here for you.
 [Contact Support](https://support.bitchute.com/contact-us?contact_query=Please%20enter%20your%20question)
 
 BitChute is a peer-to-peer content sharing platform. Creators are allowed to post content they produce to the platform, so long as they comply with our [policies](https://support.bitchute.com/policy). The content posted to the platform is not reflective or representative of the views of Bit Chute Limited, its staff or owners. © 2017-2023 Bit Chute Limited, Box 813, Andover House, George Yard, Andover, Hampshire, SP10 1PB. United Kingdom. Company number 10637289.
+
+  
+
+[Knowledge Base Software powered by Helpjuice](https://helpjuice.com/?utm_campaign=customer_kb)
