@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjowt85y8uTmLFKV3QvDqsJ6gO6Rd8bz-HBOdw8qYiPs5kH26Hpx-P7AZ_CvOD3XjzZ3JSFTkxwXputwItDU:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjowt85y8uTmLFKV3QvDqsJ6gO6Rd8bz-HBOdw8qYiPs5kH26Hpx-P7AZ_CvOD3XjzZ3JSFTkxwXputwItDU:0&docurl=https://docs.google.com/document/d/e/2PACX-1vRElyQc_yvJhZftReA0jVv7UnvC0HqopeSITNkne1yckZIWhqfhBjb26H_I55aovoykFPT15SE0CR_C/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 CMG TERMS OF USE - Revisions 4-8-2019
 
@@ -12,7 +12,7 @@ Terms of Use
 
 The following Terms of Use cover all websites and associated content, including, without limitation: any and all mobile or desktop applications, apps, email, over-the-top-platforms, streaming services, software, social media accounts, RSS services, mobile services (as defined below) and other products, materials, or services made available on, from, or through websites of Resignation Holdings, LLC (“Resignation”), including without limitation, that of the related entity, Rarefied Atmosphere, Inc. (“Rarefied Atmosphere”)  (collectively, the “Websites”) and any subsidiary or affiliate owned or operated by Chive Media Group (collectively, “Chive Media Group”) or Rarefied Atmosphere.  Please carefully read these Terms of Use before accessing any of the Websites.
 
-These Terms of Use, together with Chive Media Group’s Privacy Policy at [http://www.chivemediagroup.com/legal/privacy](https://www.google.com/url?q=http://www.chivemediagroup.com/legal/privacy&sa=D&source=editors&ust=1718991861666845&usg=AOvVaw0jxJdYJr6T0y_3tjqHQC8u) and Chive Media Group’s Copyright Policy at [http://chivemediagroup.com/legal/copyright](https://www.google.com/url?q=http://chivemediagroup.com/legal/copyright&sa=D&source=editors&ust=1718991861667106&usg=AOvVaw1fy8OsDwKnF1C7l2YWeXpD), (collectively, with these Terms of Use, referred to herein as “Terms”), and any other legal notices published by Chive Media Group on the Websites, constitute the entire agreement between you and Chive Media Group.
+These Terms of Use, together with Chive Media Group’s Privacy Policy at [http://www.chivemediagroup.com/legal/privacy](https://www.google.com/url?q=http://www.chivemediagroup.com/legal/privacy&sa=D&source=editors&ust=1721369474810497&usg=AOvVaw0_e4JBR9tAYOlDYhse9PtY) and Chive Media Group’s Copyright Policy at [http://chivemediagroup.com/legal/copyright](https://www.google.com/url?q=http://chivemediagroup.com/legal/copyright&sa=D&source=editors&ust=1721369474810898&usg=AOvVaw12xPXBAK0ORe-QajT-yoAn), (collectively, with these Terms of Use, referred to herein as “Terms”), and any other legal notices published by Chive Media Group on the Websites, constitute the entire agreement between you and Chive Media Group.
 
 By visiting any Website or downloading, installing, or using any Chive Media Group service, you signify your agreement to the conditions set forth in these Terms.  If you do not agree to these Terms, including the Chive Media Group Privacy Policy and Copyright Policy, please do not use the Websites.
 
@@ -105,7 +105,7 @@ The above licenses granted by you terminate within a reasonable time after your 
 
 Copyright Policy
 
-If you believe that any Material made available on any of the Website is in violation of your copyright, please see Resignation’s Copyright Policy at [http://chivemediagroup.com/legal/copyright](https://www.google.com/url?q=http://chivemediagroup.com/legal/copyright&sa=D&source=editors&ust=1718991861671640&usg=AOvVaw28CrP6t31tR6pUUwBGRvmr) for instructions on how to proceed.  Applicable portions of the Copyright Policy are provided pursuant to the Digital Millennium Copyright Act (the “DMCA”).
+If you believe that any Material made available on any of the Website is in violation of your copyright, please see Resignation’s Copyright Policy at [http://chivemediagroup.com/legal/copyright](https://www.google.com/url?q=http://chivemediagroup.com/legal/copyright&sa=D&source=editors&ust=1721369474818012&usg=AOvVaw2TlSQ8iKU8c2DLrP8ao5aj) for instructions on how to proceed.  Applicable portions of the Copyright Policy are provided pursuant to the Digital Millennium Copyright Act (the “DMCA”).
 
 Additional Terms for Apple App Store Applications
 
