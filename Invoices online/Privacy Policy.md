@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Henry Venter
 
-![valued client Taairatel](https://www.invoicesonline.co.za/scripts/image.php?bid=8419&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=100228236)  
-Taairatel
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=129176720)  
-M's Frozen Delights
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=65316819)  
-Skinz Printing & Branding
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=40096531)  
-Chiron Medical Solutions
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=76243318)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=48025488)  
-Stories4Kids (Pty) Ltd t/a Storietyd
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=184226787)  
-All Trucking Solutions
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=2326081)  
-National Elite Security Services (PTY) LTD
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=145018586)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=11363861)  
-Atalie Scented Candles Pty Ltd
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=174388127)  
-Itroniq (Pty) Ltd
-
-![valued client Camwaves Internet PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8503&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=134010335)  
-Camwaves Internet PTY Ltd
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=40088013)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=4939281)  
 Nogana Events and Decor
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=122984268)  
-Lizzy Pop PTY(Ltd)
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=73037812)  
+Oak Tree Immigration
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=4b9f00674b4aea16e307973dffa925b58c7b0c7ebc1dbe9b60ae9ff3740f6cfd&c=129683004)  
-Kaylas Creations
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=181927106)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=42305846)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=127647150)  
+Vplay Grafix
+
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=38581731)  
+Super Sound Man (PTY) Ltd
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=125179885)  
+MONSTER SECURITY GUARDING
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=38553029)  
+Lindani Protection Services & Projects
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=66066870)  
+Salvage Genie
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=113835030)  
+TIGERDSL
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=135146400)  
+Little Nutty Professors
+
+![valued client Etienne Du Plessis T/A  Armme Security Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8512&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=104793492)  
+Etienne Du Plessis T/A Armme Security Solutions
+
+![valued client Reliable Store](https://www.invoicesonline.co.za/scripts/image.php?bid=6792&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=31553855)  
+Reliable Store
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=199928771)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=64329f7987568a3bb515374bc7bf8c63723b6462f16e6cb5059ba2153d4bbec1&c=33304608)  
+Durbanville Classifieds (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
