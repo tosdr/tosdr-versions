@@ -118,7 +118,7 @@ Search
     * [Overview](https://www.lagardere-tr.com/en/activities)
     * [Travel Essentials](https://www.lagardere-tr.com/en/activities/travel-essentials)
     * [Duty free & fashion](https://www.lagardere-tr.com/en/activities/duty-free-and-fashion)
-    * [Foodservice](https://www.lagardere-tr.com/en/activities/foodservice)
+    * [Dining](https://www.lagardere-tr.com/en/activities/dining)
 * [Brands](https://www.lagardere-tr.com/en/brands)
 * [Locations](https://www.lagardere-tr.com/en/locations)
 * [NEWS](https://www.lagardere-tr.com/en/news)
