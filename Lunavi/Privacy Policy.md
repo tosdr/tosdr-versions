@@ -1,8 +1,8 @@
-![search icon](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f64bbac92b01341736453e6_search-icon.svg)
+![search icon](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f64bbac92b01341736453e6_search-icon.svg)
 
 [**866.995.3282**](tel:866-995-3282)[Customer Support](https://www.lunavi.com/customer-support)
 
-[![lunavi logo](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f3af43df9b9758023312f38_lunavi-logo.svg)](https://www.lunavi.com/)
+[![lunavi logo](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f3af43df9b9758023312f38_lunavi-logo.svg)](https://www.lunavi.com/)
 
 [Customer Success](https://www.lunavi.com/customer-success)[Our Approach](https://www.lunavi.com/our-approach)[Solutions](https://www.lunavi.com/solutions)[Expertise](https://www.lunavi.com/expertise)[Resources](https://www.lunavi.com/resources)[About](https://www.lunavi.com/about)
 
@@ -133,7 +133,7 @@
 5. [Press Releases](https://www.lunavi.com/about/press-releases)
 6. [Contact Us](https://www.lunavi.com/contact)
 
-![boat navigating open water](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f5eb392928994fb526fe5a2_boat-wake-ocean.jpg)
+![boat navigating open water](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f5eb392928994fb526fe5a2_boat-wake-ocean.jpg)
 
 Privacy Policy
 ==============
@@ -252,17 +252,17 @@ Contact
 
 Follow Lunavi
 
-* [![](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f3af44331dc35c5e10349c4_shape_12.svg)](https://www.linkedin.com/company/lunavi)
-* [![](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/655bb4cbe371c37ec918b3f7_x-logo.png)](https://www.twitter.com/wearelunavi)
-* [![facebook icon](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f3af446122a43cf4c24a687_white-1.svg)](https://www.facebook.com/wearelunavi)
-* [![](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f3af443725ac7144ebc5f8f_shape_10.svg)](https://www.youtube.com/channel/UCoow747QStz_B6YJ_k2nupw)
-* [![rss icon](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f3af43badc80455d34df4b3_combined-shape_18.svg)](#)
+* [![](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f3af44331dc35c5e10349c4_shape_12.svg)](https://www.linkedin.com/company/lunavi)
+* [![](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/655bb4cbe371c37ec918b3f7_x-logo.png)](https://www.twitter.com/wearelunavi)
+* [![facebook icon](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f3af446122a43cf4c24a687_white-1.svg)](https://www.facebook.com/wearelunavi)
+* [![](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f3af443725ac7144ebc5f8f_shape_10.svg)](https://www.youtube.com/channel/UCoow747QStz_B6YJ_k2nupw)
+* [![rss icon](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f3af43badc80455d34df4b3_combined-shape_18.svg)](#)
 
-![](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/637d6ef33042ad2218b7e66c_Azure-Expert-MSP-New-Color-Transparent-BG.png)
+![](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/637d6ef33042ad2218b7e66c_Azure-Expert-MSP-New-Color-Transparent-BG.png)
 
-![](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/661d82f08c3d47ac537fa456_Premier%20VCSP_Final-100.png)
+![](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/661d82f08c3d47ac537fa456_Premier%20VCSP_Final-100.png)
 
-![HIPAA and SOC 1 and 2 audited](https://assets-global.website-files.com/5ee3c9151829ab5cd0428a88/5f3bf17659e34420cc8190ef_HIPAA-SOC-Audit-Badge.png)
+![HIPAA and SOC 1 and 2 audited](https://cdn.prod.website-files.com/5ee3c9151829ab5cd0428a88/5f3bf17659e34420cc8190ef_HIPAA-SOC-Audit-Badge.png)
 
 © 2024 Lunavi, Inc. All Rights Reserved.
 
