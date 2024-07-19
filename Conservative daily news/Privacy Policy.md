@@ -1,15 +1,15 @@
-Friday, June 21 2024
+Friday, July 19 2024
 
 Breaking News
 
-* [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
-* [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
-* [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
-* [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
-* [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
-* [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
-* [Huge Percentage Of EV Owners Want To Go Back To Normal Cars, Study Finds](https://www.conservativedailynews.com/2024/06/huge-percentage-of-ev-owners-want-to-go-back-to-normal-cars-study-finds/)
-* [Wealthy Liberals Barrel Ahead With Plans To Block The Sun](https://www.conservativedailynews.com/2024/06/wealthy-liberals-barrel-ahead-with-plans-to-block-the-sun/)
+* [NBC Has Now Interrupted Two Prayers At The RNC, And The Second Time Didn’t Go Well](https://www.conservativedailynews.com/2024/07/nbc-has-now-interrupted-two-prayers-at-the-rnc-and-the-second-time-didnt-go-well/)
+* [Hulk Hogan To Speak At RNC Before Trump Accepts Nomination](https://www.conservativedailynews.com/2024/07/hulk-hogan-to-speak-at-rnc-before-trump-accepts-nomination/)
+* [Vast Majority Of Democrats Would Accept Harris If Biden Bowed Out: Poll](https://www.conservativedailynews.com/2024/07/vast-majority-of-democrats-would-accept-harris-if-biden-bowed-out-poll/)
+* [American Auto Giant to Produce Heavy-Duty Pickups at Plant Intended to Build Electric Vehicles](https://www.conservativedailynews.com/2024/07/american-auto-giant-to-produce-heavy-duty-pickups-at-plant-intended-to-build-electric-vehicles/)
+* [Van Jones Notes That COVID Has ‘Stopped’ Biden, While A ‘Bullet Couldn’t Stop Trump’](https://www.conservativedailynews.com/2024/07/van-jones-notes-that-covid-has-stopped-biden-while-a-bullet-couldnt-stop-trump/)
+* [To Call Them Journalists Is An Misnomer](https://www.conservativedailynews.com/2024/07/to-call-them-journalists-is-an-misnomer/)
+* [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/)
+* [Trump Didn’t Choose His Fate, Fate Chose Him](https://www.conservativedailynews.com/2024/07/trump-didnt-choose-his-fate-fate-chose-him/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -27,6 +27,8 @@ Breaking News
 
 * [Home](https://www.conservativedailynews.com/)
 * [2024 Election](https://www.conservativedailynews.com/the-2024-presidential-election/)
+    * [Donald Trump](https://www.conservativedailynews.com/tag/donald-trump/)
+    * [Joe Biden](https://www.conservativedailynews.com/tag/joe-biden/)
 * [Sections](https://conservativedailynews.com/)
     * [News and Politics](https://www.conservativedailynews.com/category/trending-topics/breaking-news/ "Breaking News")
     * [Editorial Cartoons](https://www.conservativedailynews.com/category/trending-topics/political-cartoons/ "The Best Political Cartoons")
@@ -103,82 +105,82 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/)
     
-    [The Democratic Subversion of Democracy](https://www.conservativedailynews.com/2024/06/the-democratic-subversion-of-democracy/)
+    [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/)
     
-    June 19, 2024
+    July 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/jill-biden-220x150.jpg)](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/stg072523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/jd-vances-vp-nod-could-be-final-nail-in-coffin-of-the-forever-war-wing-of-gop-experts-say/)
     
-    [America In The Age Of Stupidity: Jill Biden is America’s Worst Wife](https://www.conservativedailynews.com/2024/06/america-in-the-age-of-stupidity-jill-biden-is-americas-worst-wife/)
+    [JD Vance’s VP Nod Could Be Final Nail In Coffin Of The ‘Forever War’ Wing](https://www.conservativedailynews.com/2024/07/jd-vances-vp-nod-could-be-final-nail-in-coffin-of-the-forever-war-wing-of-gop-experts-say/)
     
-    June 19, 2024
+    July 17, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+* [![NBC Nightly News](https://www.conservativedailynews.com/wp-content/uploads/2017/04/NBC-Nightly-News.jpg)](https://www.conservativedailynews.com/2024/07/nbc-has-now-interrupted-two-prayers-at-the-rnc-and-the-second-time-didnt-go-well/)
     
-    [CNN’s Elie Honig Dumps Cold Water On Narrative Of SCOTUS Dragging Feet In Trump Case](https://www.conservativedailynews.com/2024/06/cnns-elie-honig-dumps-cold-water-on-narrative-of-scotus-dragging-feet-in-trump-case/)
+    [NBC Has Now Interrupted Two Prayers At The RNC, And The Second Time Didn’t Go Well](https://www.conservativedailynews.com/2024/07/nbc-has-now-interrupted-two-prayers-at-the-rnc-and-the-second-time-didnt-go-well/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![Joe Biden wind energy renewable green](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-60-220x150.png)](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/2024-RNC-220x150.jpg)](https://www.conservativedailynews.com/2024/07/hulk-hogan-to-speak-at-rnc-before-trump-accepts-nomination/)
     
-    [European Newspaper Says Citizens Better Get Used To Not Having Electricity All The Time](https://www.conservativedailynews.com/2024/06/european-newspaper-says-citizens-better-get-used-to-not-having-electricity-all-the-time/)
+    [Hulk Hogan To Speak At RNC Before Trump Accepts Nomination](https://www.conservativedailynews.com/2024/07/hulk-hogan-to-speak-at-rnc-before-trump-accepts-nomination/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/IMG_5144-220x150.jpeg)](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+* [![Kamala Harris president measuring drapes](https://www.conservativedailynews.com/wp-content/uploads/2024/02/gv021424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/vast-majority-of-democrats-would-accept-harris-if-biden-bowed-out-poll/)
     
-    [Voter ID For ME Is Half Way Home](https://www.conservativedailynews.com/2024/06/voter-id-for-me-is-half-way-home/)
+    [Vast Majority Of Democrats Would Accept Harris If Biden Bowed Out: Poll](https://www.conservativedailynews.com/2024/07/vast-majority-of-democrats-would-accept-harris-if-biden-bowed-out-poll/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Gavin-Newsom-2.png)](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/04-missed-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/07/heres-to-missing-you/)
     
-    [California’s Gavin Newsom Angry Louisiana is not like California](https://www.conservativedailynews.com/2024/06/californias-gavin-newsom-angry-louisiana-is-not-like-california/)
+    [Here’s To Missing You](https://www.conservativedailynews.com/2024/07/heres-to-missing-you/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![Mayorkas illegal immigration](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv062124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/06/victims/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/10/Ford-car-dealership-auto-sales.jpg)](https://www.conservativedailynews.com/2024/07/american-auto-giant-to-produce-heavy-duty-pickups-at-plant-intended-to-build-electric-vehicles/)
     
-    [Victims](https://www.conservativedailynews.com/2024/06/victims/)
+    [American Auto Giant to Produce Heavy-Duty Pickups at Plant Intended to Build Electric Vehicles](https://www.conservativedailynews.com/2024/07/american-auto-giant-to-produce-heavy-duty-pickups-at-plant-intended-to-build-electric-vehicles/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-Van-Jones.jpg)](https://www.conservativedailynews.com/2024/07/van-jones-notes-that-covid-has-stopped-biden-while-a-bullet-couldnt-stop-trump/)
     
-    [Why the Left Hates It When You Point Out We’re ‘a Republic, Not a Democracy’](https://www.conservativedailynews.com/2024/06/why-the-left-hates-it-when-you-point-out-were-a-republic-not-a-democracy/)
+    [Van Jones Notes That COVID Has ‘Stopped’ Biden, While A ‘Bullet Couldn’t Stop Trump’](https://www.conservativedailynews.com/2024/07/van-jones-notes-that-covid-has-stopped-biden-while-a-bullet-couldnt-stop-trump/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![Camp David](https://www.conservativedailynews.com/wp-content/uploads/2017/06/Camp-David.jpg)](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5231-220x150.jpeg)](https://www.conservativedailynews.com/2024/07/to-call-them-journalists-is-an-misnomer/)
     
-    [President Joe Biden’s Schedule for Friday, June 21, 2024](https://www.conservativedailynews.com/2024/06/president-joe-bidens-schedule-for-friday-june-21-2024/)
+    [To Call Them Journalists Is An Misnomer](https://www.conservativedailynews.com/2024/07/to-call-them-journalists-is-an-misnomer/)
     
-    June 21, 2024
+    July 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/mrz071824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/sphinx-in-stripes/)
     
-    [Gavin Newsom Wants Phones Out Of School, After He Brought AI to Schools](https://www.conservativedailynews.com/2024/06/gavin-newsom-wants-phones-out-of-school-after-he-brought-ai-to-schools/)
+    [Sphinx in Stripes](https://www.conservativedailynews.com/2024/07/sphinx-in-stripes/)
     
-    June 20, 2024
+    July 18, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [New: Federal Field & Range Gun Cases](https://www.thegunpage.com/new-federal-field-range-gun-cases/10608901)
-* [NRA President Bob Barr To Speak At 2024 Daisy BB Gun Nationals Opening Ceremony](https://www.thegunpage.com/nra-president-bob-barr-to-speak-at-2024-daisy-bb-gun-nationals-opening-ceremony/10608897)
-* [New: Smith & Wesson Model 1854 With Walnut Furniture](https://www.thegunpage.com/new-smith-wesson-model-1854-with-walnut-furniture/10608894)
-* [An Abbreviated Competition Program: 1941 National Matches](https://www.thegunpage.com/an-abbreviated-competition-program-1941-national-matches/10608893)
-* [USA Shooting: Shotgun Team Claims Four Medals At Final World Cup Before Paris 2024 Olympics](https://www.thegunpage.com/usa-shooting-shotgun-team-claims-four-medals-at-final-world-cup-before-paris-2024-olympics/10608890)
-* [Violent crime skyrocketing under Biden, according to Biden’s favorite data source](https://www.thegunpage.com/violent-crime-skyrocketing-under-biden-according-to-bidens-favorite-data-source/10608886)
-* [NRA World Shooting Championship: The Experience](https://www.thegunpage.com/nra-world-shooting-championship-the-experience/10608885)
-* [ISSF Lonato World Cup: Vincent Hancock, Austen Smith Win Skeet Mixed Team Gold](https://www.thegunpage.com/issf-lonato-world-cup-vincent-hancock-austen-smith-win-skeet-mixed-team-gold/10608882)
-* [Even the CDC admits its latest anti-gun report is misleading and full of holes](https://www.thegunpage.com/even-the-cdc-admits-its-latest-anti-gun-report-is-misleading-and-full-of-holes/10608875)
-* [Hillsdale College, USA Shooting Celebrate Partnership](https://www.thegunpage.com/hillsdale-college-usa-shooting-celebrate-partnership/10608881)
+* [TFB Review: Simtek StealthALERT System](https://www.thegunpage.com/tfb-review-simtek-stealthalert-system/10609313)
+* [POTD: U.S. Marine With M27 Reconnaissance Weapons Kit](https://www.thegunpage.com/potd-u-s-marine-with-m27-reconnaissance-weapons-kit/10609314)
+* [Concealed Carry Corner: Carrying In Tricky Situations](https://www.thegunpage.com/concealed-carry-corner-carrying-in-tricky-situations/10609315)
+* [TFB at 17: Greetings from Your New Editor in Chief](https://www.thegunpage.com/tfb-at-17-greetings-from-your-new-editor-in-chief/10609309)
+* [TFB Behind The Gun Podcast #124: What is SOWW? With Roy Hill](https://www.thegunpage.com/tfb-behind-the-gun-podcast-124-what-is-soww-with-roy-hill/10609308)
+* [Springfield M1A Tanker vs. Aero M5 AR-10: DMR Showdown](https://www.thegunpage.com/springfield-m1a-tanker-vs-aero-m5-ar-10-dmr-showdown/10609304)
+* [Olympic Gold Medalist Launi Meili Speaks At CMP First Shot Ceremony](https://www.thegunpage.com/olympic-gold-medalist-launi-meili-speaks-at-cmp-first-shot-ceremony/10609307)
+* [NRA Conducts Pistol, Smallbore ‘Championship Of Champions’ At Quantico: 1948 National Matches](https://www.thegunpage.com/nra-conducts-pistol-smallbore-championship-of-champions-at-quantico-1948-national-matches/10609303)
+* [Wheelgun Wednesday: Gun Presented to The Man Who Killed Billy The Kid](https://www.thegunpage.com/wheelgun-wednesday-gun-presented-to-the-man-who-killed-billy-the-kid/10609302)
+* [TFB Review: Springfield Armory SA-35](https://www.thegunpage.com/tfb-review-springfield-armory-sa-35/10609300)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -220,15 +222,15 @@ Contact Us
 
 Recent Comments
 
-* James Martin on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775837)
-* KayCee on [America’s Education System Is Crumbling In Plain Sight](https://www.conservativedailynews.com/2024/06/americas-education-system-is-crumbling-in-plain-sight/#comment-775781)
-* KayCee on [If You Don’t Want To Be Killed, Don’t Take Hostages](https://www.conservativedailynews.com/2024/06/if-you-dont-want-to-be-killed-dont-take-hostages/#comment-775704)
-* Jeff L. on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775675)
-* [Capt. Bligh](https://obbop.wordpress.com/) on [Psychology Professor Jordan Peterson on Trump Derangement Syndrome](https://www.conservativedailynews.com/2024/06/psychology-professor-jordan-peterson-on-trump-derangement-syndrome/#comment-775668)
-* KayCee on [Cortez Claims Trump Will Throw Her In Jail](https://www.conservativedailynews.com/2024/06/cortez-claims-trump-will-throw-her-in-jail/#comment-775642)
-* KayCee on [Wise Guys](https://www.conservativedailynews.com/2024/06/wise-guys/#comment-775638)
-* KayCee on [Major Automaker Throws Hail Mary As It Hemorrhages Cash On Electric Vehicles](https://www.conservativedailynews.com/2024/06/major-automaker-throws-hail-mary-as-it-hemorrhages-cash-on-electric-vehicles/#comment-775637)
-* KayCee on [Red Lights Are Flashing As Biden Ignores Them](https://www.conservativedailynews.com/2024/06/red-lights-are-flashing-as-biden-ignores-them/#comment-775636)
+* Jeff L. on [The Democrat “News”-media Storyline that Trump is a Liar](https://www.conservativedailynews.com/2024/07/the-democrat-news-media-storyline-that-trump-is-a-liar/#comment-777157)
+* Tommy Hall on [God Has Interfered In The Election](https://www.conservativedailynews.com/2024/07/god-has-interfered-in-the-election/#comment-777140)
+* KayCee on [Former Volunteer Fire Chief Identified By Family As Crowd Member Killed At Trump Rally](https://www.conservativedailynews.com/2024/07/former-volunteer-fire-chief-identified-by-family-as-crowd-member-killed-at-trump-rally/#comment-777116)
+* KayCee on [President Biden Delivers Remarks on Attempted Assassination of Trump – 7/14/24](https://www.conservativedailynews.com/2024/07/president-biden-delivers-remarks-on-attempted-assassination-of-trump-7-14-24/#comment-777115)
+* James Nolan on [President Biden Addresses the Nation – 7/14/24](https://www.conservativedailynews.com/2024/07/president-biden-addresses-the-nation-7-14-24/#comment-777113)
+* Cooper on [Rudy Giuliani’s Bankruptcy Case Thrown Out By Federal Judge](https://www.conservativedailynews.com/2024/07/rudy-giulianis-bankruptcy-case-thrown-out-by-federal-judge/#comment-777099)
+* KayCee on [Gruelling 6-Hour Days](https://www.conservativedailynews.com/2024/07/gruelling-6-hour-days/#comment-777057)
+* Jeff L. on [The Expected Consequences of the Democrat-Media Hate Trump Campaign](https://www.conservativedailynews.com/2024/07/the-expected-consequences-of-the-democrat-media-hate-trump-campaign/#comment-777056)
+* KayCee on [Time to Reflect](https://www.conservativedailynews.com/2024/07/time-to-reflect-2/#comment-777055)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
