@@ -75,3 +75,5 @@ MyTruGreenLawn.com is an authorized retailer of TruGreen and powered by Home Med
 
 * [Do Not Sell My Information](https://privacyportal.onetrust.com/webform/b120638d-a94e-4643-abb9-0f63a17cb2b7/a6ebde9e-95f0-45ae-8de7-97335a80a298)
 * [Cookie Settings](#)
+
+![](http://api.trustedform.com/ns.gif)
