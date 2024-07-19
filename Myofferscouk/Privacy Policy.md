@@ -12,7 +12,7 @@ View 'About Us' Topics
 MyOffers Company Information
 ============================
 
-Effective as from: 07-05-2024
+Effective as from: 10-07-2024
 
 
 
@@ -22,11 +22,11 @@ We are a direct marketing organisation called MyOffers 2019 Limited "MyOffers" r
 
 We are registered with the Information Commissioners Office under registration number ZA560068.
 
-We operate under the brand names MyOffers Testers Keepers and SwitchMyUtility. We run a competition website and utility-switch website where we promote and run marketing questionnaires on behalf of some of the leading UK brands to help them target their products and services better.
+We operate under the brand names MyOffers, Testers Keepers, ImproveMyHearing and SwitchMyUtility. We run a competition website and utility-switch website where we promote and run marketing questionnaires on behalf of some of the leading UK brands to help them target their products and services better.
 
 For those of you that enter competitions and prize-draws by using MyOffers and Tester Keepers, our website incorporates privacy controls which affect how we will process your personal data. By using the privacy controls, you can specify whether you would like to receive communications including (but not limited to) direct marketing communications. You can access the privacy controls via our Website at [https://www.myoffers.co.uk/account](https://www.myoffers.co.uk/account), by signing in and clicking on 'My Account'. You can also at any time amend or update your personal data and other details via our Website at [https://www.myoffers.co.uk/account](https://www.myoffers.co.uk/account), by signing in and clicking on 'My Account'.
 
-For those customers that register with SwitchMyUtility.com, your personal data is used for limited purposes which are detailed in section 2 of this document. You will always remain in control of your data and can contact us on the details below at any time.
+For those customers that register with SwitchMyUtility.com and ImproveMyHearing, your personal data is used for limited purposes which are detailed in section 2 of this document. You will always remain in control of your data and can contact us on the details below at any time.
 
 Our offices are at Sunningdale, The Belfry Business Park, 13 Colonial Way, Watford, Hertfordshire, WD24 4WH and you can contact us by phone on 01923 478075 where you can speak to the Compliance Department or email [compliance@myoffersltd.co.uk](mailto:compliance@myoffersltd.co.uk) with your questions.
 
@@ -42,7 +42,7 @@ The data that you provide us is for the following purposes:
 
 **ID Protection & Tracing** - we will also share your details with credit reference and identity verification organisations which help other organisations verify your identity and prevent others from misusing your details.
 
-For SwitchMyUtility.com customers, we will use your details for direct marketing purposes only. Selected companies will only ever contact you by telephone or post. We will not use your data for any other purpose, including profiling, ID Protection & Tracing or Marketing Service Providers.
+For SwitchMyUtility.com and ImproveMyHearing customers, we will use your details for direct marketing purposes only. Selected companies will only ever contact you by telephone or post. We will not use your data for any other purpose, including profiling, ID Protection & Tracing or Marketing Service Providers.
 
 You can ask us to stop processing or sharing your details at any time now or in the future.
 
@@ -153,12 +153,13 @@ You always have the right to refuse to answer any question.
 3. [**C.** Marketing Service Providers](#5C)
 4. [**D.** Named clients](#5D)
 5. [**E.** Credit Reference Agencies](#5E)
+6. [**F.** Organisations regulated by the Financial Conduct Authority (FCA)](#5F)
 
 **A. Our Group Companies and brands;**
 
-* MyOffers 2019 Ltd – and its brand names MyOffers, Testers Keepers and SwitchMyUtility.com
+* MyOffers 2019 Ltd – and its brand names MyOffers, Testers Keepers, ImproveMyHearing and SwitchMyUtility.com
 * Data Locator Group Ltd and its brands Surveys.co.uk, ThePrizeFinder.com and Consumer Lifestyles™
-* PDV Ltd - PDV is a Data Processor working on behalf of Data Controllers to store, prepare and share data with reputable UK businesses for marketing purposes. PDV works under instruction of the Data Controllers, such as Data Locator Group, who collect information directly from you. To object to the processing of your information please contact PDV by telephone on 0800 093 1551 or by email at [client.services@pdvltd.com](mailto:client.services@pdvltd.com)
+* PDV Ltd - PDV is a Data Processor working on behalf of Data Controllers to store, prepare and share data with reputable UK businesses for marketing purposes. PDV works under instruction of the Data Controllers, such as Data Locator Group, who collect information directly from you. To object to the processing of your information please contact PDV by telephone on 0800 093 1551 or by email at [client.services@pdv.agency](mailto:client.services@pdvltd.com)
 * Transactis (2017) Ltd
 
 **B. Groups of recipients within specific industry sectors listed below;**
@@ -210,6 +211,10 @@ Whilst the majority of our business is with clients resident in the UK we do hav
 **E. Credit Reference and Other Agencies**
 
 When you register with MyOffers and Testers Keepers, we will collect your data and share it with third parties. These organisations will have a relationship with you or need to use your information where they have a lawful reason, which will include these organisations’ own legitimate interest. Use includes tracing of individuals, verification and/or validation of the identity of individuals for the purposes of, but not limited to, anti-money laundering regulations, national security, crime prevention and detection, anti-fraud processes, asset recovery and asset reunification. You have the right to object to this processing at any time by contacting us at [compliance@myoffersltd.co.uk](mailto:compliance@myoffersltd.co.uk). To understand more please [click through to the websites](https://www.myoffers.co.uk/credit-reference-agencies).
+
+**F. Credit Reference and Other Agencies**
+
+In addition to organisations that fall within the industry sectors listed in section B, we may also supply data to organisations that are regulated by the FCA. This includes organisations that offer pre-paid funeral plans. Data is supplied using the legal basis legitimate interests and clients will use your information in line with our privacy policy for marketing purposes only. In supplying this information, we in no way advise, recommend, arrange, or distribute financial services provided by an FCA authorised firm, nor are we incentivised on the basis of how many financial policies are sold. If you have any concerns you should always take independent advice. Please see [www.fca.org.uk](https://www.fca.org.uk/) for further information.
 
 
 
