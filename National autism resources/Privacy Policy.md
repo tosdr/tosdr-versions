@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-181737128860)                        [Skip to main content](#main-content)
+![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183272850199)                        [Skip to main content](#main-content)
 
 Free U.s. Shipping On Orders Over $59 (Excludes items with truck symbol, AK & HI)
 
@@ -10,13 +10,13 @@ Search
 
 [![National Autism Resources](https://cdn11.bigcommerce.com/s-wkp9y2ej/images/stencil/266x109/national-logo_1717482994__30968.original.png "National Autism Resources")](https://nationalautismresources.com/)
 
-[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/7ecf6aa0-0461-013d-2ca7-764b5cae34d1/e/92393d40-091f-013d-0473-2eb8930433ec/img/header-stk-lg.png)](https://nationalautismresources.com/)
+[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/header-stk-lg.png)](https://nationalautismresources.com/)
 
 * [Teaching](https://nationalautismresources.com/classroom-materials-teaching-supplies/)
     
     ### teaching
     
-    [shop all teaching](https://nationalautismresources.com/classroom-materials-teaching-supplies/)
+    [shop all teaching](https://nationalautismresources.com/social-emotional-learning-sel/)
     
     * [Social Emotional Learning](https://nationalautismresources.com/social-emotional-learning-sel/)
     * [Visual Supports](https://nationalautismresources.com/visual-supports/)
@@ -28,7 +28,7 @@ Search
     * [Math](https://nationalautismresources.com/teaching-supplies/math/)
     * [Speech & Communication](https://nationalautismresources.com/speech-language/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/7ecf6aa0-0461-013d-2ca7-764b5cae34d1/e/92393d40-091f-013d-0473-2eb8930433ec/img/cat-1.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-1.png)
     
     ### social emotional learning
     
@@ -40,7 +40,7 @@ Search
     
     ### Toys & Gifts
     
-    [SHOP ALL TOYS & GIFTS](https://nationalautismresources.com/autism-toys/)
+    [SHOP ALL TOYS & GIFTS](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
     
     * [Top Toys & Gifts](https://nationalautismresources.com/gifts/this-weeks-top-toys-gifts/)
     * [Teens & Adults](https://nationalautismresources.com/gifts/teens-adults/)
@@ -55,7 +55,7 @@ Search
     * [Reinforcer Toys](https://nationalautismresources.com/toys/reinforcer-toys/)
     * [Manipulatives](https://nationalautismresources.com/manipulatives/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/7ecf6aa0-0461-013d-2ca7-764b5cae34d1/e/92393d40-091f-013d-0473-2eb8930433ec/img/cat-2.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-2.png)
     
     ### Top Toys & Gifts
     
@@ -69,23 +69,24 @@ Search
     
     [SHOP ALL CALMING](https://nationalautismresources.com/calming-products/)
     
-    * [Weighted Blankets](https://nationalautismresources.com/sensory-ot/weighted-products/)
+    * [Calming Favorites](https://nationalautismresources.com/calming-products/calming-favorites/)
+    * [Weighted Products](https://nationalautismresources.com/sensory-ot/weighted-products/)
     * [Headphones](https://nationalautismresources.com/headphones/)
-    * [Swings](https://nationalautismresources.com/ot-swings/)
+    * [Calm Lighting](https://nationalautismresources.com/calming/calm-lighting/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/7ecf6aa0-0461-013d-2ca7-764b5cae34d1/e/92393d40-091f-013d-0473-2eb8930433ec/img/cat-3.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-3.png)
     
     ### Calming Favorites
     
     Browse some of our favorite, most popular calming products
     
-    SHOP NOW](https://nationalautismresources.com/calming-products/)
+    SHOP NOW](https://nationalautismresources.com/calming-products/calming-favorites/)
     
 * [Sensory & OT](https://nationalautismresources.com/sensory-ot/)
     
     ### Sensory & OT
     
-    [SHOP ALL SENSORY & OT](https://nationalautismresources.com/sensory-ot/)
+    [SHOP ALL SENSORY & OT](https://nationalautismresources.com/sensory-ot/sensory-room-furniture/)
     
     * [Sensory Room Furniture](https://nationalautismresources.com/sensory-ot/sensory-room-furniture/)
     * [Swings](https://nationalautismresources.com/ot-swings/)
@@ -93,7 +94,7 @@ Search
     * [Fine Motor](https://nationalautismresources.com/fine-motor/)
     * [Self Regulation](https://nationalautismresources.com/self-regulation/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/7ecf6aa0-0461-013d-2ca7-764b5cae34d1/e/92393d40-091f-013d-0473-2eb8930433ec/img/cat-4.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-4.png)
     
     ### Sensory Room Furniture
     
@@ -102,6 +103,30 @@ Search
     SHOP NOW](https://nationalautismresources.com/sensory-ot/sensory-room-furniture/)
     
 * [Resources](https://nationalautismresources.com/resources/)
+    
+    ### Resources
+    
+    [View all resources](https://nationalautismresources.com/resources/)
+    
+    * [School Sensory Room FAQs](https://nationalautismresources.com/school-sensory-rooms/)
+    * [Our Blog](https://nationalautismresources.com/blog/)
+    * [iTalkDoc App](https://nationalautismresources.com/italkdoc/)
+    * [2024 Catalog](https://nationalautismresources.com/content/2023NARCatalog.pdf)
+    * [Gift Guide](https://nationalautismresources.com/toys-for-autistic-children-and-teens/)
+    
+    * [Picture Exchange Communication System](https://nationalautismresources.com/the-picture-exchange-communication-system-pecs/)
+    * [Wilbarger Protocol](https://nationalautismresources.com/the-wilbarger-protocol-brushing-therapy-for-sensory-integration/)
+    * [Weighted Vest FAQs](https://nationalautismresources.com/weighted-vest-faqs/)
+    * [Weighted Blanket](https://nationalautismresources.com/blog/how-much-weight-should-your-weighted-blanket-have/)
+    
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-5.png)
+    
+    ### 2024 Catalog
+    
+    See what's new for 2024! Browse our digital version of our catalog.
+    
+    Download .pdf](https://nationalautismresources.com/content/2023NARCatalog.pdf)
+    
 
 Search  
 
@@ -166,9 +191,10 @@ Search
     
     Go Back
     
-    * [Weighted Blankets](https://nationalautismresources.com/sensory-ot/weighted-products/)
+    * [Calming Favorites](https://nationalautismresources.com/calming-products/calming-favorites/)
+    * [Weighted Products](https://nationalautismresources.com/sensory-ot/weighted-products/)
     * [Headphones](https://nationalautismresources.com/headphones/)
-    * [Swings](https://nationalautismresources.com/ot-swings/)
+    * [Calm Lighting](https://nationalautismresources.com/calming/calm-lighting/)
     
 * [Sensory & OT](javascript:void(0);)
     
@@ -182,7 +208,22 @@ Search
     * [Fine Motor](#)
     * [Self Regulation](https://nationalautismresources.com/self-regulation/)
     
-* [Resources](https://nationalautismresources.com/resources/)
+* [Resources](javascript:void(0);)
+    
+    ### Resources
+    
+    Go Back
+    
+    * [School Sensory Room FAQs](https://nationalautismresources.com/school-sensory-rooms/)
+    * [Our Blog](https://nationalautismresources.com/blog/)
+    * [iTalkDoc App](https://nationalautismresources.com/italkdoc/)
+    * [2024 Catalog](https://nationalautismresources.com/content/2023NARCatalog.pdf)
+    * [Gift Guide](https://nationalautismresources.com/toys-for-autistic-children-and-teens/)
+    * [Picture Exchange Communication System](https://nationalautismresources.com/the-picture-exchange-communication-system-pecs/)
+    * [Wilbarger Protocol](https://nationalautismresources.com/the-wilbarger-protocol-brushing-therapy-for-sensory-integration/)
+    * [Weighted Vest FAQs](https://nationalautismresources.com/weighted-vest-faqs/)
+    * [Weighted Blanket](https://nationalautismresources.com/blog/how-much-weight-should-your-weighted-blanket-have/)
+    
 
 [My Account](https://nationalautismresources.com/login.php)
 
@@ -282,7 +323,7 @@ Join our eNewsletter for updates, tips, and news!
 
 Email Address
 
-![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/7ecf6aa0-0461-013d-2ca7-764b5cae34d1/e/92393d40-091f-013d-0473-2eb8930433ec/img/footer-logo.png)
+![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/footer-logo.png)
 
 ### Account
 
