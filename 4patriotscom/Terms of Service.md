@@ -1,6 +1,6 @@
-[🇺🇸 \[July 4th Event\] Best-Selling Solar Generator + $1,511.89 in FREE Gifts
+[🆘 NEW Generator 2000X: Lifeline in Emergencies
 
-Shop Now >>](https://products.4patriots.com/holiday/july-4th/2x-weight-in-gold?afid=mkt&aff_sub=20240614_cam_4p_ecom_announce_ppg-2kx-4pevent&utm_campaign=mkt_ecom_ppg-2kx-4pevent_20240614&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&nb_klid=%7B%7B)
+Shop Now >>](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20240709var6_cam_4p_ecom_announce_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_splittest_variation6_20240709&utm_medium=ecom&utm_source=cam&utm_content=announce&utm_term=4p&position=announce&product=ppg2kx-nsp)
 
 [![Black company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)![White company logo](//4patriots.com/cdn/shop/files/4Pats_Logo_300x.png?v=1631246972)](https://4patriots.com/)
 
@@ -17,7 +17,6 @@ We Champion Freedom & Self-Reliance
     
     Best Sellers
     
-    * [🇺🇸 July 4th Celebration Event](https://4patriots.com/products/patriot-power-generator-2000x)
     * [$500.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [3-Month Survival Food Kit](https://4patriots.com/products/3-month-survival-food-kit)
@@ -28,23 +27,23 @@ We Champion Freedom & Self-Reliance
     * [Patriot Power Sidekick](https://4patriots.com/products/patriot-power-sidekick)
     * [Shop All Best-Sellers](https://4patriots.com/collections/best-sellers)
     
-    * [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
+    * [![ "Supercharge" Patriot Power Generator 1800 + Sidekick Package](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
         
-        ###### Super-Charged Solar Generator Bundle
+        ###### "Supercharge" Patriot Power Generator 1800 + Sidekick Package
         
-        688 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        682 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
-        [![ Patriot Power Generator 2000K as seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-PPG-2KX-NEW-FOX-FRIENDS-1024x1024_360x.png?v=1689169558)
+        [![ Patriot Power Solar Generator 2000X & Solar Panel](//4patriots.com/cdn/shop/files/PPG-2KX-2406-PDP-ARRAY-1024X1024_360x.jpg?v=1720536148)
         
-        ###### Patriot Power Generator 2000X
+        ###### Patriot Power Solar Generator 2000X & Solar Panel
         
-        82 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        62 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
         
-        ###### 3-Month Survival Food Kit
+        ###### 3-Month Emergency Survival Food Kit
         
-        3298 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3302 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -59,23 +58,23 @@ We Champion Freedom & Self-Reliance
     * [Patriot Pure Air Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
     * [Shop All New Arrivals](https://4patriots.com/collections/newly-added)
     
-    * [![ The Ultimate Car Safety Kit. Power, Food & Safety All-In-1. Array of Patriot Power All-in-1 Emergency Car Kit with bonuses.](//4patriots.com/cdn/shop/files/STOREFRONT-ARRAY-CAR-ALL-BONUSES_647x547_a32bfc2b-f129-4331-b5b1-f38e3d1f5464_360x.png?v=1717437588)
+    * [![ "Ultracharge" Patriot Power Generator 2000X + Sidekick Package](//4patriots.com/cdn/shop/files/PPGSX-2406-PDP-ARRAY-1024x1024_360x.jpg?v=1720623565)
         
-        ###### Patriot Power All-in-1 Emergency Car Kit
+        ###### "Ultracharge" Patriot Power Generator 2000X + Sidekick Package
         
-        9 reviews](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
+        5 reviews](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
         
         [![ 4Patriots 3-Month PlatinumXL Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/ARRAY-3MO-PLAT-1024x1024_360x.png?v=1716225013)
         
-        ###### 3-Month Survival Food Kit PlatinumXL
+        ###### 3-Month PlatinumXL Emergency Survival Food Kit
         
-        20 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
+        24 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
         
         [![ 4Patriots Ultimate Meat Medley Jumbo Survival Food Kit.](//4patriots.com/cdn/shop/files/MAIN-ARRAY-1-UMM-1024x1024_360x.jpg?v=1684934486)
         
-        ###### Ultimate Meat Medley Jumbo Survival Food Kit
+        ###### Ultimate Meat Medley Jumbo Meat - Jumbo Can
         
-        29 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
+        33 reviews](https://4patriots.com/products/ultimate-meat-medley-jumbo-survival-food-kit)
         
     
 * [Survival Food](https://4patriots.com/collections/food)
@@ -94,21 +93,21 @@ We Champion Freedom & Self-Reliance
     
     * [![ 4Patriots Gold Medallion All-Meat Survival Food Kit.](//4patriots.com/cdn/shop/products/ARRAY-MEA1-WHITE-BG_360x.png?v=1670943255)
         
-        ###### Gold Medallion All-Meat Survival Food Kit
+        ###### Gold Medallion All-Meat Emergency Survival Kit
         
         141 reviews](https://4patriots.com/products/gold-medallion-all-meat-survival-food-kit)
         
         [![ 4Patriots 3-Month Survival Food Kit shown with all pouches.](//4patriots.com/cdn/shop/files/3MO-ECOM-SQUARE-ARRAY-3MO_360x.jpg?v=1716224921)
         
-        ###### 3-Month Survival Food Kit
+        ###### 3-Month Emergency Survival Food Kit
         
-        3298 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3302 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
-        ###### 4-Week Survival Food Kit
+        ###### 4-Week Emergency Survival Food Kit
         
-        1026 reviews](https://4patriots.com/products/4-week-survival-food-kit)
+        1030 reviews](https://4patriots.com/products/4-week-survival-food-kit)
         
     
 * [Power & Solar](https://4patriots.com/collections/power-solar)
@@ -123,23 +122,23 @@ We Champion Freedom & Self-Reliance
     * [Solar Generator Upgrade Packs](https://4patriots.com/collections/solar-generator-upgrade-packs)
     * [Shop All Power & Solar](https://4patriots.com/collections/power-solar)
     
-    * [![ Patriot Power Generator 2000K as seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-PPG-2KX-NEW-FOX-FRIENDS-1024x1024_360x.png?v=1689169558)
+    * [![ Patriot Power Solar Generator 2000X & Solar Panel](//4patriots.com/cdn/shop/files/PPG-2KX-2406-PDP-ARRAY-1024X1024_360x.jpg?v=1720536148)
         
-        ###### Patriot Power Generator 2000X
+        ###### Patriot Power Solar Generator 2000X & Solar Panel
         
-        82 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
+        62 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
         [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
         
-        ###### Portable Power Station - Patriot Power Cell CX
+        ###### Patriot Power Cell-CX Portable Solar Power Bank
         
-        1694 reviews](https://4patriots.com/products/patriot-power-cell)
+        1711 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
-        ###### HaloXT Tactical Solar Flashlight
+        ###### HaloXT Tactical 9-in-1 Solar Flashlight
         
-        571 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
+        577 reviews](https://4patriots.com/products/haloxt-tactical-solar-flashlights)
         
     
 * [Water](https://4patriots.com/collections/water)
@@ -154,21 +153,21 @@ We Champion Freedom & Self-Reliance
     
     * [![ Patriot Pure Outdoor Filtration System is made in the USA. As seen on Fox and Friends.](//4patriots.com/cdn/shop/files/ARRAY-OFC-NO-BONUSES-FOX-FRIENDS_360x.png?v=1689248740)
         
-        ###### Patriot Pure Outdoor Filtration Water Cooler System
+        ###### Patriot Pure Outdoor Filtration Cooler - 5-Gallon Water System
         
-        17 reviews](https://4patriots.com/products/patriot-pure-outdoor-filtration-cooler)
+        20 reviews](https://4patriots.com/products/patriot-pure-outdoor-filtration-cooler)
         
         [![ Patriot Pure Ultimate Water Filtration System with NEW Advanced Nanomesh™ Filter!](//4patriots.com/cdn/shop/files/ARRAY-UWF-NAN-F_360x.png?v=1710259655)
         
-        ###### Patriot Pure Ultimate Water Filtration System
+        ###### Patriot Pure Ultimate Water Filtration System & Nanomesh Filter
         
-        214 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
+        213 reviews](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
         
         [![ 1 Patriot Pure Nanomesh Water Filter](//4patriots.com/cdn/shop/files/1-PS-ARRAY-SHOP-ARRAY-NAN-_24x1024_1_360x.png?v=1694450490)
         
-        ###### Patriot Pure Nanomesh™ Water Filter
+        ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        39 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        43 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -185,19 +184,19 @@ We Champion Freedom & Self-Reliance
     
     * [![ StarFire Camp Stove](//4patriots.com/cdn/shop/products/ARRAY-SFC-1024_360x.jpg?v=1667421213)
         
-        ###### StarFire Camp Stove
+        ###### StarFire Portable Camp Stove
         
-        86 reviews](https://4patriots.com/products/starfire-camp-stove)
+        89 reviews](https://4patriots.com/products/starfire-camp-stove)
         
         [![ Freedom fridge](//4patriots.com/cdn/shop/products/FRIDGE-1_1_360x.jpg?v=1642003425)
         
-        ###### Freedom Fridge
+        ###### Freedom Fridge Electric Cooler & Warmer
         
         107 reviews](https://4patriots.com/products/freedom-fridge-1)
         
         [![ BugOUT Solar Lantern](//4patriots.com/cdn/shop/products/ARRAY-1BUG-1024x1024_360x.jpg?v=1664803167)
         
-        ###### BugOUT Solar Lantern
+        ###### BugOUT 2-in-1 Solar Lantern & Bug Zapper
         
         152 reviews](https://4patriots.com/products/bugout-solar-lantern)
         
@@ -215,57 +214,50 @@ We Champion Freedom & Self-Reliance
     
     * [![ NEW Patriot Pure Air Advanced Purification System](//4patriots.com/cdn/shop/files/SHOPIFY-AIR-ARRAY-AIR-ADV-1024x1024_1_360x.png?v=1697642982)
         
-        ###### Patriot Pure Air Advanced Purification System
+        ###### Patriot Pure Air Advanced Filtration System
         
         1 review](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
         
         [![ The brand-NEW 4Patriots Emergency Go-Tote array](//4patriots.com/cdn/shop/files/SHOPIFY-GOT-ARRAY-1024x1024_1_360x.png?v=1695653044)
         
-        ###### Emergency Go-Tote
+        ###### Emergency Bug Out Go-Tote
         
-        5 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
+        8 reviews](https://4patriots.com/products/4patriots-emergency-go-tote)
         
         [![ Patriot Power Greens - 1Canister Double Size.](//4patriots.com/cdn/shop/products/ARRAY-PGR1-DS-1024x1024_360x.png?v=1681143255)
         
-        ###### Patriot Power Greens - Double Size
+        ###### Patriot Power Greens Energy & Nutrition Powder Blend - Double Size
         
-        49 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
+        52 reviews](https://4patriots.com/products/patriot-power-greens-1-double-size-can)
         
     
 * [Deals](https://4patriots.com/collections/deal-of-the-week)
     
     Deals
     
-    * [🇺🇸 July 4th Celebration Event](https://4patriots.com/products/patriot-power-generator-2000x)
-    * [$500.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
-    * [$100.00 OFF Food & Fire Cooking Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
-    * [FREE Patriot Power Greens](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
-    * [$100.00 OFF Ultimate Generator Bundle](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
-    * [$50.00 OFF Solar Go-Fridge](https://4patriots.com/products/solar-go-fridge)
-    * [$50.00 OFF All-in-1 Emergency Car Kit](https://4patriots.com/products/patriot-power-all-in-1-emergency-car-kit)
     * [$20.00 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
     * [Subscribe & Save](https://4patriots.com/collections/subscriptions)
     * [Last Chance](https://4patriots.com/collections/last-chance)
     * [Shop All Deals](https://4patriots.com/collections/deal-of-the-week)
     
-    * [![ Super-Charged Solar Generator Bundle](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
+    * [![ "Supercharge" Patriot Power Generator 1800 + Sidekick Package](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
         
-        ###### Super-Charged Solar Generator Bundle
+        ###### "Supercharge" Patriot Power Generator 1800 + Sidekick Package
         
-        688 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
+        682 reviews](https://4patriots.com/products/super-charged-solar-generator-bundle)
         
         [![ Food & Fire Emergency Cooking Bundle](//4patriots.com/cdn/shop/files/FOOD-FIRE-BUNDLE-PDP-ARRAY-2000x2000_64a9088f-0bdd-49ae-9e3a-222825d212e7_360x.jpg?v=1714588231)
         
         ###### Food & Fire Emergency Cooking Bundle
         
-        8 reviews](https://4patriots.com/products/food-fire-survival-cooking-bundle)
+        9 reviews](https://4patriots.com/products/food-fire-survival-cooking-bundle)
         
-        [![ Patriot Power Greens - 1 canister](//4patriots.com/cdn/shop/products/ARRAY-PGR1-1024x1024-STOREFRONT-1-CAN-WHITE_360x.png?v=1680712018)
+        [![ Solar Go-Fridge 3-in-1 Portable Fridge With Battery & Solar Panel](//4patriots.com/cdn/shop/files/1-ARRAY-SGF-FAF-1024x1024-WB_dfde2a53-12f2-4908-a092-01eec6c7568b_360x.png?v=1717536617)
         
-        ###### Patriot Power Greens - 1 Regular Size Can
+        ###### Solar Go-Fridge 3-in-1 Portable Fridge With Battery & Solar Panel
         
-        7 reviews](https://4patriots.com/products/patriot-power-greens-1-regular-size-can)
+        78 reviews](https://4patriots.com/products/solar-go-fridge)
         
     
 * [Learn](https://4patriots.com/blogs/news)
@@ -288,6 +280,12 @@ We Champion Freedom & Self-Reliance
 * [Contact Us](https://4patriots.com/pages/contact-us)
 
  [](#)
+
+[⚡ \[Limited-Time\] Buy 1, Get 2 FREE 72-Hour Food Kits
+
+Shop Now >>](https://products.4patriots.com/food/72hour-b1g2/perfect-starter?afid=mkt&aff_sub=20240708_cam_4p_ecom_hello_72hr-b1g2&utm_campaign=mkt_ecom_72hr-b1g2_20240708&utm_medium=ecom&utm_source=cam&utm_content=hello&utm_term=4p&nb_klid=%7B%7B)
+
+Enter some text...
 
 [Home](https://4patriots.com/) / Terms Of Service
 
