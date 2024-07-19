@@ -299,6 +299,7 @@ Get Started by Finding a Local Center
 
 * [Accessibility](https://www.mathnasium.com/accessibility)
 * [Privacy Policy](https://www.mathnasium.com/privacy-policy)
+* Cookie Settings
 * [Terms of Use](https://www.mathnasium.com/terms-of-use)
 
 * [](https://www.facebook.com/mathnasium)
