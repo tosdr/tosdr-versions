@@ -57,7 +57,7 @@ Resources
     
 * Tools
     
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://grader.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
+    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://www.algolia.com/ai-search-grader/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
     
 
 Quick Access
@@ -134,7 +134,7 @@ Inspiration[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434320/ui
 
 Learn[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Customer Hub](https://www.algolia.com/customer-hub/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Newsroom](https://www.algolia.com/about/news/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
 
-Tools[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://grader.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
+Tools[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://www.algolia.com/ai-search-grader/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
 
 Privacy Policy
 ==============
