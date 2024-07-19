@@ -283,16 +283,16 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 #### Latest blog articles
 
-* 20.06.2024[What is Domain Privacy? Why is it Important?](https://www.eurodns.com/blog/what-is-domain-privacy-why-is-it-important)
-* 19.06.2024[13 popular domain extensions for tech businesses](https://www.eurodns.com/blog/13-popular-domain-extensions-for-tech-businesses)
-* 13.06.2024[The Power of ccTLDs in Local and Regional Branding](https://www.eurodns.com/blog/boost-local-branding-with-cctlds)
-* 06.06.2024[Branding and Domain Names: Impact of Domain Name on Brand Identity and Customer Perception](https://www.eurodns.com/blog/domain-names-brand-identity)
+* 18.07.2024[Top 4 Benefits of Using a Custom Email Domain](https://www.eurodns.com/blog/benefits-of-personalised-domain-email)
+* 17.07.2024[What is a Domain Name Redirect or URL Forwarding? How does it work?](https://www.eurodns.com/blog/redirect-domain-names-with-url-forwarding)
+* 11.07.2024[What are IDN domains? How to register them?](https://www.eurodns.com/blog/internationalised-domain-names-global-market)
+* 08.07.2024[Price change for multiple domain extensions as of 10th July](https://www.eurodns.com/blog/price-change-for-multilple-tlds)
 
 #### Domain Name Discounts
 
-* [.INFO €4.99 ~€32.00~](https://www.eurodns.com/domain-extensions/info-domain-registration)
-* [.LIVE €3.99 ~€45.00~](https://www.eurodns.com/domain-extensions/live-domain-registration)
-* [.ONLINE €3.00 ~€49.00~](https://www.eurodns.com/domain-extensions/online-domain-registration)
+* [.INFO €4.99 ~€34.00~](https://www.eurodns.com/domain-extensions/info-domain-registration)
+* [.LIVE €3.99 ~€47.50~](https://www.eurodns.com/domain-extensions/live-domain-registration)
+* [.ONLINE €3.00 ~€51.50~](https://www.eurodns.com/domain-extensions/online-domain-registration)
 
 #### Receive our newsletter
 
