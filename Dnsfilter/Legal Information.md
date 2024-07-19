@@ -1,6 +1,6 @@
-[GET THE LATEST G2 COMPARISON REPORT
+[TRY THE FASTEST PROTECTIVE DNS SOLUTION TODAY
 
-COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
+START FREE TRIAL](https://www.dnsfilter.com/free-trial)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
@@ -39,6 +39,7 @@ COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
     * [API Documentation](http://apidocs.dnsfilter.com/)
     * [Blog](https://www.dnsfilter.com/blog)
     * [Webinars](https://www.dnsfilter.com/resources/webinars)
+    * [dnsUNFILTERED](https://www.dnsfilter.com/resources/dnsunfiltered)
     * [Events](https://www.dnsfilter.com/events)
     * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
@@ -92,6 +93,7 @@ COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
     * [API Documentation](http://apidocs.dnsfilter.com/)
     * [Blog](https://www.dnsfilter.com/blog)
     * [Webinars](https://www.dnsfilter.com/resources/webinars)
+    * [dnsUNFILTERED](https://www.dnsfilter.com/resources/dnsunfiltered)
     * [Events](https://www.dnsfilter.com/events)
     * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
@@ -331,6 +333,26 @@ Cross-Border Data Transfer. If we transfer your personal information to a countr
 
 If you have any questions or concerns about our Privacy Policy or any other privacy matters, please contact us at [privacy@dnsfilter.com](mailto:privacy@dnsfilter.com).
 
+[![Traversing the World of AI with Judy Security](https://www.dnsfilter.com/hs-fs/hubfs/blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp?width=500&height=190&name=blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp)
+
+Posted on June 28, 2024 by Anvesha Tiwary
+
+ **
+
+Traversing the World of AI with Judy Security
+
+**](https://www.dnsfilter.com/blog/traversing-the-world-of-ai-with-judy-security)
+
+[![Exploring the Security of Free Public Wi-Fi with eero](https://www.dnsfilter.com/hs-fs/hubfs/blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp?width=500&height=190&name=blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp)
+
+Posted on June 26, 2024 by Anvesha Tiwary
+
+ **
+
+Exploring the Security of Free Public Wi-Fi with eero
+
+**](https://www.dnsfilter.com/blog/exploring-the-security-of-free-public-wi-fi-with-eero)
+
 [![Why Securing Public Wi-Fi is More Important Than Ever](https://www.dnsfilter.com/hs-fs/hubfs/blog_whysecuringpublicwi_fiismoreimportantthanever1.webp?width=500&height=190&name=blog_whysecuringpublicwi_fiismoreimportantthanever1.webp)
 
 Posted on June 17, 2024 by Anvesha Tiwary
@@ -340,26 +362,6 @@ Posted on June 17, 2024 by Anvesha Tiwary
 Why Securing Public Wi-Fi is More Important Than Ever
 
 **](https://www.dnsfilter.com/blog/why-securing-public-wi-fi-is-more-important-than-ever)
-
-[![DNS Endpoint Security Management: Protecting Your Network's Frontline](https://www.dnsfilter.com/hs-fs/hubfs/blog_dnsendpointsecuritymanagementprotectingyournetworksfrontline1.webp?width=500&height=190&name=blog_dnsendpointsecuritymanagementprotectingyournetworksfrontline1.webp)
-
-Posted on June 14, 2024 by Kory Underdown
-
- **
-
-DNS Endpoint Security Management: Protecting Your Network's Frontline
-
-**](https://www.dnsfilter.com/blog/understanding-endpoint-management-security-services)
-
-[![An Interview With DNSFilter’s New CTO, TK Keanini](https://www.dnsfilter.com/hs-fs/hubfs/blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp?width=500&height=190&name=blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp)
-
-Posted on June 10, 2024 by Serena Raymond
-
- **
-
-An Interview With DNSFilter’s New CTO, TK Keanini
-
-**](https://www.dnsfilter.com/blog/cto-tk-keanini-interview)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
