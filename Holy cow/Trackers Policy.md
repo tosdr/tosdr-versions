@@ -136,15 +136,13 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
-[In the heart of the game, England reigns supreme. ![In the heart of the game, England reigns supreme.  Order takeaway and enjoy every moment of England's match today at 5:00 pm www.holycowonline.com  #Delivery  #UEFA2024 #ConvenienceCuisine #TasteAtHome #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[Travel through India with our diverse menu, featur ![Travel through India with our diverse menu, featuring dishes from every region.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![In the heart of the game, England reigns supreme.  Order takeaway and enjoy every moment of England's match today at 5:00 pm www.holycowonline.com  #Delivery  #UEFA2024 #ConvenienceCuisine #TasteAtHome #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8bvFipIari/) 
+![Travel through India with our diverse menu, featuring dishes from every region.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9mhAXiIhW-/) 
 
-[Winning flavours that will leave you cheering for ![Winning flavours that will leave you cheering for more!  Order here at: www.holycowonline.com  #KickstartYourCravings #SizzleAndSavour #WinningRecipes #TasteTheChampion #HolyCowFinelndianFood #AuthenticIndianCuisine
-#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[Experience the rich and vibrant tastes of India, p ![Experience the rich and vibrant tastes of India, perfect for summertime dining.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Winning flavours that will leave you cheering for more!  Order here at: www.holycowonline.com  #KickstartYourCravings #SizzleAndSavour #WinningRecipes #TasteTheChampion #HolyCowFinelndianFood #AuthenticIndianCuisine
-#IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8WlfpioMFV/) 
+![Experience the rich and vibrant tastes of India, perfect for summertime dining.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf  #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9hXatxIUEm/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
