@@ -23,6 +23,8 @@ My Messages
 
 My Coupons
 
+My Account
+
 Sign in
 
 JLCPCB Help Center
@@ -235,7 +237,7 @@ JLCPCB has the right to judge whether your behavior complies with the terms of t
 
   
 
-You will indemnify, release and hold harmless JLCPCB, its parent, subsidiaries and affiliates, and all officers, directors, agents and employees thereof, and any party acting on JLCPCB’s behalf, from and against any and all third party claims, actions, liabilities, losses, damages, judgments, costs and expenses, including reasonable attorneys’ fees (collectively, "Claims") arising out of (i) any use of the JLCPCB Services or products appearing on the JLCPCB Services by you or by any person that is not in accordance with the terms of this Agreement; (ii) any breach of this Agreement by you or by any person that you allow to use the JLCPCB Services; or (iii) any violation of any laws, regulations or the rights of any third party by you or by any person that you allow to use the JLCPCB Services or products appearing on the JLCPCB Services.
+You will indemnify, release and hold harmless JLCPCB, its parent, subsidiaries and affiliates, and all officers, directors, agents and employees thereof, and any party acting on JLCPCB’s behalf, from and against any and all third party claims, actions, liabilities, losses, damages, judgments, costs and expenses, including reasonable attorneys’ fees (collectively, "Claims") arising out of (i) any use of the JLCPCB Services or products appearing on the JLCPCB Services by you or by any person that you allow is not in accordance with the terms of this Agreement; (ii) any breach of this Agreement by you or by any person that you allow to use the JLCPCB Services; or (iii) any violation of any laws, regulations or the rights of any third party by you or by any person that you allow to use the JLCPCB Services or products appearing on the JLCPCB Services.
 
   
 
@@ -313,7 +315,7 @@ If you have any questions or comments about this Agreement, please contact us at
 
 Unit 21 on 28th Floor, Metropole Square, No.2 On Yiu Street, Shatin, New Territories, HONG KONG, China
 
-Last updated on Apr 23, 2024
+Last updated on July 18, 2024
 
 * Company
 * [About JLCPCB](https://jlcpcb.com/aboutUs)
