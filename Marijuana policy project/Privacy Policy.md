@@ -77,7 +77,7 @@
     * [Federal Policy](https://www.mpp.org/policy/federal/)
     * [State Policy](https://www.mpp.org/states/)
     * [U.S. Territory Policy](https://www.mpp.org/policy/us-territories/)
-    * [2022 Ballot Initiatives](https://www.mpp.org/policy/ballot-initiatives/)
+    * [Ballot Initiatives](https://www.mpp.org/policy/ballot-initiatives/)
 * [Issues](https://www.mpp.org/issues/)
     * [Criminal Justice](https://www.mpp.org/issues/criminal-justice/)
     * [Decriminalization](https://www.mpp.org/issues/decriminalization/)
@@ -102,7 +102,6 @@
 * [Take Action](https://www.mpp.org/takeaction/)
     * [Spread the Word](https://www.mpp.org/takeaction/#spread)
     * Register to Vote
-    * [Surveys](https://www.mpp.org/takeaction/surveys/)
 
 *  Search
     
@@ -132,7 +131,7 @@ Menu
     * [Federal Policy](https://www.mpp.org/policy/federal/)
     * [State Policy](https://www.mpp.org/states/)
     * [U.S. Territory Policy](https://www.mpp.org/policy/us-territories/)
-    * [2022 Ballot Initiatives](https://www.mpp.org/policy/ballot-initiatives/)
+    * [Ballot Initiatives](https://www.mpp.org/policy/ballot-initiatives/)
 * [Issues](https://www.mpp.org/issues/)
     * [Criminal Justice](https://www.mpp.org/issues/criminal-justice/)
     * [Decriminalization](https://www.mpp.org/issues/decriminalization/)
@@ -157,7 +156,6 @@ Menu
 * [Take Action](https://www.mpp.org/takeaction/)
     * [Spread the Word](https://www.mpp.org/takeaction/#spread)
     * Register to Vote
-    * [Surveys](https://www.mpp.org/takeaction/surveys/)
 
 * 
 
@@ -290,6 +288,12 @@ From time to time, MPP may work with third-party consultants or other service pr
 Recent news
 -----------
 
+[![Cannabis Across the Country: A Look at Regional Legalization Trends](/assets/components/phpthumbof/cache/CannabisAcrosstheCountry.72bc7dc6c8a934771e11aaa56c861ea1.png)](https://blog.mpp.org/general/cannabis-across-the-country-a-look-at-regional-legalization-trends/)
+
+[Cannabis Across the Country: A Look at Regional Legalization Trends ...](https://blog.mpp.org/general/cannabis-across-the-country-a-look-at-regional-legalization-trends/)
+
+Jul 10, 2024
+
 [![Ask your lawmakers to vote “yes” on HB 1633](/assets/components/phpthumbof/cache/nh.92a04c188f5f7482ea2f39cb9de73ed0.jpg)](https://blog.mpp.org/general/ask-your-lawmakers-to-vote-yes-on-hb-1633/)
 
 [Ask your lawmakers to vote “yes” on HB 1633 ...](https://blog.mpp.org/general/ask-your-lawmakers-to-vote-yes-on-hb-1633/)
@@ -314,16 +318,10 @@ May 15, 2024
 
 Apr 25, 2024
 
-[![N.H. Senate hearings on legalization and annulment scheduled for April 25th, 2024!](/assets/components/phpthumbof/cache/nh.92a04c188f5f7482ea2f39cb9de73ed0.jpg)](https://blog.mpp.org/general/nh-senate-hearings-on-legalization-and-annulment-scheduled-for-april-25th-2024/)
-
-[N.H. Senate hearings on legalization and annulment scheduled for April 25th, 2024! ...](https://blog.mpp.org/general/nh-senate-hearings-on-legalization-and-annulment-scheduled-for-april-25th-2024/)
-
-Apr 23, 2024
-
 Tags
 ----
 
-[Medical Marijuana (489)](https://blog.mpp.org/archive/tags/medical-marijuana/ "Medical Marijuana") [legalization (387)](https://blog.mpp.org/archive/tags/legalization/ "legalization") [Tax and Regulate (351)](https://blog.mpp.org/archive/tags/tax-and-regulate/ "Tax and Regulate") [medical cannabis (319)](https://blog.mpp.org/archive/tags/medical-cannabis/ "medical cannabis") [decriminalization (256)](https://blog.mpp.org/archive/tags/decriminalization/ "decriminalization") [patients (203)](https://blog.mpp.org/archive/tags/patients/ "patients") [California (195)](https://blog.mpp.org/archive/tags/california/ "California") [New Hampshire (162)](https://blog.mpp.org/archive/tags/new-hampshire/ "New Hampshire") [Colorado (156)](https://blog.mpp.org/archive/tags/colorado/ "Colorado") [cannabis legalization (153)](https://blog.mpp.org/archive/tags/cannabis-legalization/ "cannabis legalization") [cannabis regulation (128)](https://blog.mpp.org/archive/tags/cannabis-regulation/ "cannabis regulation") [marijuana (126)](https://blog.mpp.org/archive/tags/marijuana/ "marijuana") [Vermont (109)](https://blog.mpp.org/archive/tags/vermont/ "Vermont") [dispensaries (104)](https://blog.mpp.org/archive/tags/dispensaries/ "dispensaries") [possession (100)](https://blog.mpp.org/archive/tags/possession/ "possession") [Congress (99)](https://blog.mpp.org/archive/tags/congress/ "Congress") [Maryland (94)](https://blog.mpp.org/archive/tags/maryland/ "Maryland") [DEA (91)](https://blog.mpp.org/archive/tags/dea/ "DEA") [NH (90)](https://blog.mpp.org/archive/tags/nh/ "NH") [Prohibition (90)](https://blog.mpp.org/archive/tags/prohibition/ "Prohibition")
+[Medical Marijuana (489)](https://blog.mpp.org/archive/tags/medical-marijuana/ "Medical Marijuana") [legalization (388)](https://blog.mpp.org/archive/tags/legalization/ "legalization") [Tax and Regulate (351)](https://blog.mpp.org/archive/tags/tax-and-regulate/ "Tax and Regulate") [medical cannabis (320)](https://blog.mpp.org/archive/tags/medical-cannabis/ "medical cannabis") [decriminalization (256)](https://blog.mpp.org/archive/tags/decriminalization/ "decriminalization") [patients (203)](https://blog.mpp.org/archive/tags/patients/ "patients") [California (195)](https://blog.mpp.org/archive/tags/california/ "California") [New Hampshire (162)](https://blog.mpp.org/archive/tags/new-hampshire/ "New Hampshire") [Colorado (156)](https://blog.mpp.org/archive/tags/colorado/ "Colorado") [cannabis legalization (153)](https://blog.mpp.org/archive/tags/cannabis-legalization/ "cannabis legalization") [cannabis regulation (128)](https://blog.mpp.org/archive/tags/cannabis-regulation/ "cannabis regulation") [marijuana (126)](https://blog.mpp.org/archive/tags/marijuana/ "marijuana") [Vermont (109)](https://blog.mpp.org/archive/tags/vermont/ "Vermont") [dispensaries (104)](https://blog.mpp.org/archive/tags/dispensaries/ "dispensaries") [possession (100)](https://blog.mpp.org/archive/tags/possession/ "possession") [Congress (99)](https://blog.mpp.org/archive/tags/congress/ "Congress") [Maryland (94)](https://blog.mpp.org/archive/tags/maryland/ "Maryland") [DEA (91)](https://blog.mpp.org/archive/tags/dea/ "DEA") [Prohibition (90)](https://blog.mpp.org/archive/tags/prohibition/ "Prohibition") [NH (90)](https://blog.mpp.org/archive/tags/nh/ "NH")
 
 [![MPP 25th Anniversary T-Shirt](/assets/components/phpthumbof/cache/mpp25_tshirt_sb_ad.8718aeb6c426ee505bcb0f81dc0e7488.jpg)](https://www.kannabiskingsapparel.com/products/mpp-25th-anniversary-tshirt)
 
