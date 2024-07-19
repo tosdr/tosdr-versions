@@ -45,7 +45,7 @@ Money Dashboard Ltd is authorised and regulated by the Financial Conduct Authori
 
 If there’s anything you don’t understand, please get in touch with us by:
 
-* Emailing us at [**info@moneydashboard.com**](mailto:info@moneydashboard.com)
+* Emailing us at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection)
 * Writing to the Chief Executive Officer, at our registered address (above)
 
 **Our Agreement with you**
@@ -109,13 +109,13 @@ Alerts will be sent to the email address you have provided as your primary email
 
 Please let us know if any of your user details change (including any Personal data), particularly your email address, mobile phone number, or address including postcode. If you do not do this, we will not be able to deliver any alerts or notifications to you, and your ability to access the service may be compromised if your details cannot be verified at the account provider.
 
-You agree and understand that you are responsible for maintaining the confidentiality of your username which, together with your password and or biometric ID (Face ID or fingerprint), allows you to access the Service. If you become aware of any unauthorised use of your user information, you agree to notify us immediately at [**security@moneydashboard.com**](mailto:security@moneydashboard.com).
+You agree and understand that you are responsible for maintaining the confidentiality of your username which, together with your password and or biometric ID (Face ID or fingerprint), allows you to access the Service. If you become aware of any unauthorised use of your user information, you agree to notify us immediately at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection).
 
 For further details about how your User Information is handled, see our [**Privacy Policy**](https://www.moneydashboard.com/privacy)
 
 **Complaints Policy**
 
-If you wish to complain about any of the services provided by Money Dashboard, please email us at [**support@moneydashboard.com**](mailto:support@moneydashboard.com) or you can write directly to the Chief Executive Officer, Money Dashboard Limited, 5th Floor, 125 Princes Street, Edinburgh, EH2 4AD, explaining the nature of the complaint and what you would like us to do to put it right.
+If you wish to complain about any of the services provided by Money Dashboard, please email us at [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection) or you can write directly to the Chief Executive Officer, Money Dashboard Limited, 5th Floor, 125 Princes Street, Edinburgh, EH2 4AD, explaining the nature of the complaint and what you would like us to do to put it right.
 
 In addition:
 
@@ -179,7 +179,7 @@ ARISING IN WHOLE OR IN PART FROM YOUR ACCESS TO THE SERVICE, YOUR USE OF THE SER
 
 **Ending the Agreement**
 
-This Agreement will continue to apply until terminated by either you or us as set out below. If you want to terminate your agreement, email [**support@moneydashboard.com**](mailto:support@moneydashboard.com) with details of your account (username, email address, first name and last name). For security we will confirm to you by email before closing your account. When confirmed your account will be closed and your ability to login deactivated. Your account data will be removed subject to and as explained in our Privacy Policy.
+This Agreement will continue to apply until terminated by either you or us as set out below. If you want to terminate your agreement, email [\[email protected\]](https://www.moneydashboard.com/cdn-cgi/l/email-protection) with details of your account (username, email address, first name and last name). For security we will confirm to you by email before closing your account. When confirmed your account will be closed and your ability to login deactivated. Your account data will be removed subject to and as explained in our Privacy Policy.
 
 We may at any time, terminate our agreement with you:
 
