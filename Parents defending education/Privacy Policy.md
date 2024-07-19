@@ -10,6 +10,7 @@
 * Toggle search modal
 * [IndoctriNation Map](https://defendinged.org/map/)
 * [Contact](https://defendinged.org/join-the-movement/)
+* [Donate](https://defendinged.org/donate/)
 
 Menu
 
