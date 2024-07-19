@@ -198,6 +198,8 @@ Developers
 
 [Pricing](https://www.browserstack.com/pricing "Pricing")
 
+Contact Sales
+
 [Sign in](https://www.browserstack.com/users/sign_in "Sign in")
 
 [Free Trial](https://www.browserstack.com/users/sign_up "Free Trial")
@@ -434,11 +436,11 @@ Products
 * [Percy](https://www.browserstack.com/percy)
 * [App Live](https://www.browserstack.com/app-live)
 * [App Automate](https://www.browserstack.com/app-automate)
-* [App Percy New](https://www.browserstack.com/app-percy)
-* [Test Management New](https://www.browserstack.com/test-management)
-* [Test Observability New](https://www.browserstack.com/test-observability)
-* [Accessibility Testing New](https://www.browserstack.com/accessibility-testing)
-* [Accessibility Automation New](https://www.browserstack.com/accessibility-testing/features/automated-tests)
+* [App Percy](https://www.browserstack.com/app-percy)
+* [Test Management](https://www.browserstack.com/test-management)
+* [Test Observability](https://www.browserstack.com/test-observability)
+* [Accessibility Testing](https://www.browserstack.com/accessibility-testing)
+* [Accessibility Automation](https://www.browserstack.com/accessibility-testing/features/automated-tests)
 * [App Accessibility Testing Beta](https://www.browserstack.com/app-accessibility-testing)
 * [Low Code Automation Beta](https://www.browserstack.com/low-code-automation)
 * [Nightwatch.js](https://nightwatchjs.org/)
@@ -495,78 +497,6 @@ Company
 * [Open Source](https://www.browserstack.com/open-source)
 * [Partners](https://www.browserstack.com/partners)
 * [Press](https://www.browserstack.com/press)
-
-PRODUCTS
-
-* [Live](https://www.browserstack.com/live)
-* [Automate](https://www.browserstack.com/automate)
-* [Automate TurboScale](https://www.browserstack.com/automate-turboscale)
-* [Percy](https://www.browserstack.com/percy-product)
-* [App Live](https://www.browserstack.com/app-live-product)
-* [App Automate](https://www.browserstack.com/app-automate-product)
-* [App Percy](https://www.browserstack.com/app-percy-product)
-* [Test Management](https://www.browserstack.com/test-management)
-* [Test Observability](https://www.browserstack.com/test-observability)
-* [Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
-* [Accessibility Automation](https://www.browserstack.com/accessibility-automation)
-* [Low Code Automation](https://www.browserstack.com/low-code-automation)
-
-WHY BROWSERSTACK
-
-* [Customers](https://www.browserstack.com/customers)
-* [Case Studies](https://www.browserstack.com/case-study)
-* [Browsers & Devices](https://www.browserstack.com/list-of-browsers-and-platforms/live)
-* [Enterprise](https://www.browserstack.com/enterprise?ref=footer)
-* [Data Centers](https://www.browserstack.com/data-centers)
-* [Real Device Features](https://www.browserstack.com/real-device-features)
-* [Security](https://www.browserstack.com/security)
-
-FREE TOOLS
-
-* [SpeedLab](https://www.browserstack.com/speedlab/home)
-* [Screenshots](https://www.browserstack.com/screenshots)
-* [Responsive](https://www.browserstack.com/responsive)
-* [Nightwatch.js](https://nightwatchjs.org/)
-
-RESOURCES
-
-* [Support](https://www.browserstack.com/support)
-* [Status](https://status.browserstack.com/)
-* [Release Notes](https://www.browserstack.com/release-notes)
-* [Blog](https://www.browserstack.com/blog)
-* [Events](https://www.browserstack.com/events)
-* [Champions](https://www.browserstack.com/browserstack-champions)
-* [Guide](https://www.browserstack.com/guide)
-* [Partners](https://www.browserstack.com/partners)
-* [Find a partner](https://www.browserstack.com/partners/find-a-partner)
-* [Test University Beta](https://www.browserstack.com/test-university)
-
-COMPANY
-
-* [About Us](https://www.browserstack.com/company)
-* [Careers](https://www.browserstack.com/careers)
-* [Open Source](https://www.browserstack.com/open-source)
-* [Press](https://www.browserstack.com/press)
-* [NewsLetter](https://www.browserstack.com/blog/tag/newsletter)
-
-More Resources
-
-* [Cross Browser Testing](https://www.browserstack.com/cross-browser-testing)
-* [Selenium](https://www.browserstack.com/selenium)
-* [Test Management](https://www.browserstack.com/test-management/what-is-test-management)
-* [Emulators vs Real Device](https://www.browserstack.com/emulators-simulators)
-* [Mobile App Testing](https://www.browserstack.com/mobile-app-testing)
-
-Test on Devices
-
-* [Test on iPhone](https://www.browserstack.com/test-on-iphone)
-* [Test on iPad](https://www.browserstack.com/test-on-ipad)
-* [Test on Galaxy](https://www.browserstack.com/test-on-galaxy)
-* [Test In IE](https://www.browserstack.com/test-in-internet-explorer)
-* [Test on Android](https://www.browserstack.com/android-testing)
-* [Test on iOS](https://www.browserstack.com/ios-testing)
-* [Test on Right Devices](https://www.browserstack.com/test-on-the-right-mobile-devices)
-* [Mobile Emulators](https://www.browserstack.com/mobile-browser-emulator)
 
 [![BrowserStack Logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzIDInPjwvc3ZnPg==)
 
