@@ -11,7 +11,7 @@ GET THE APP
 **Jackpocket Terms of Service**
 ===============================
 
-**Last Modified: April 1, 2024** 
+**Last Modified: June 26, 2024** 
 
 **PLEASE READ THE BINDING ARBITRATION CLAUSE IN SECTION 18. IT AFFECTS HOW DISPUTES ARE RESOLVED.**
 
@@ -262,7 +262,7 @@ Upon registering with Jackpocket, you will be able to utilize the Application to
     
 8. Jackpocket imposes a daily funding and Ticket purchase limit per Account holder and may in its sole discretion change the daily funding or purchase limit on an individual basis. Users may also adjust their daily funding or purchase limit within the App or by contacting Customer Support ([support@jackpocket.com](mailto:support@jackpocket.com)).
     
-9. Jackpocket does not honor free Ticket promotions offered by the state Lotteries. For example, sometimes the state Lottery will offer a promotion stating that if you buy a ticket with five Drawing Entries for a given Lottery, you will get an additional quick pick for free. If you make an order with Jackpocket with five Drawing Entries, you will get the Drawing Entries you order, but you will not receive the additional quick pick.
+9. Jackpocket honors free Ticket promotions conducted by the New York State Lottery. Jackpocket may honor free Ticket promotions offered by other state Lotteries, but is not required to do so. For example, sometimes the state Lottery will offer a promotion stating that if you buy a ticket with five Drawing Entries for a given Lottery, you will get an additional quick pick for free. If you make an order with Jackpocket with five Drawing Entries related to an unsupported promotion, you will get the Drawing Entries you order, but you will not receive the additional quick pick. You can contact customer support at [support@jackpocket.com](mailto:support@jackpocket.com) to determine if Jackpocket supports a particular promotion. Jackpocket is not responsible for any loss or damage relating to or otherwise arising from any promotion.
     
 10. **New Jersey Lottery**: For those New Jersey residents/visitors ordering tickets for the New Jersey Lottery games, we are required to disclose to you the following terms of service, prior to the creation of an Account and before the placement of any order:
     
@@ -638,7 +638,7 @@ If you need additional support, the National Council on Problem Gambling (NCPG) 
 
 These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any applicable Limited Power of Attorney constitute the sole and entire agreement between you and the Company with respect to the Application and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Application. Nothing in the Terms of Service, express or implied, shall be deemed to confer any rights or remedies upon, nor obligate any of the parties hereto, to any person or entity other than such parties, unless so stated to the contrary.
 
-© 2023 Jackpocket, Inc.
+© 2024 Jackpocket, Inc.
 
 ![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
 
@@ -656,7 +656,7 @@ These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any
 * [Careers](https://www.jackpocket.com/careers)
 * [Press](https://www.jackpocket.com/press)
 * [Sweepstakes](https://www.jackpocket.com/sweepstakes)
-* [Contact](https://jackpocket.com/contact/)
+* [Contact](https://www.jackpocket.com/contact)
 
 * Blog
 * [What's New](https://blog.jackpocket.com/announcements/home)
@@ -672,6 +672,6 @@ These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any
 
 © 2024 Jackpocket, Inc.
 
-Number one ranked lottery app according to data from AppFollow. Must be 18 or older to play the lottery. 21+ in AZ. 19+ in NE. Jackpocket is not affiliated with any State Lottery. If you or someone you know has a gambling problem and wants help, residents of NY call 1-877-8-HOPE-NY or text HOPENY (467369); residents of MA call 1-800-327-5050; residents of OR call 1-877-MYLIMIT; residents of PR call 1-800-981-0023; all others, call 1-800-GAMBLER. Please visit [Terms of Service](https://jackpocket.com/tos) for full terms of service.
+GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY). 18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com](https://www.jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Number one lottery app based on iOS download data collected by Sensor Tower.
 
-[Terms of Service](https://jackpocket.com/tos/)[Privacy Policy](https://jackpocket.com/privacy/)[Accessibility Statement](https://jackpocket.com/accessibility/)[State Fundraising Notices](https://jackpocket.com/tos/our-change-foundation/)
+[Terms of Service](https://www.jackpocket.com/tos)[Privacy Policy](https://www.jackpocket.com/privacy)[Accessibility Statement](https://www.jackpocket.com/accessibility)[State Fundraising Notices](https://www.jackpocket.com/tos/our-change-foundation)
