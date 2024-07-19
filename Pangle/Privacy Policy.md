@@ -1,7 +1,7 @@
-![logo](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/goofy-sg/ad/pangle/homepage_overseas/assets/pangle_overseas.jpg "Pangle")
-------------------------------------------------------------------------------------------------------------------------
+![logo](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/ad-media-static-sg/ad/pangle/homepage_overseas/assets/pangle_overseas.jpg "Pangle")
+----------------------------------------------------------------------------------------------------------------------------------
 
-[![Pangle: A global platform dedicated to developer growth.](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/goofy-sg/ad/pangle/homepage_overseas/_next/static/assets/images/pangle-text.491fcc7f.svg)](https://www.pangleglobal.com/)
+[![Pangle: A global platform dedicated to developer growth.](//sf16-scmcdn-sg.i18n-pglstatp.com/obj/ad-media-static-sg/ad/pangle/homepage_overseas/_next/static/assets/images/pangle-text.491fcc7f.svg)](https://www.pangleglobal.com/)
 
 * ···
     
@@ -17,6 +17,9 @@
     
 * [Help Center](https://www.pangleglobal.com/knowledge)
     
+* ···
+    
+* [Brand Safety Center](https://www.pangleglobal.com/brandsafety)
 * ···
     
 
