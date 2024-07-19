@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[**Just dropped: 4ocean graphic t-shirts >>**](https://www.4ocean.com/collections/graphic-t-shirt)
+[July is for Reef Sharks. Snag yours now >>](https://www.4ocean.com/products/reef-shark-2024-bracelet-of-the-month)
 
     
 
@@ -444,6 +444,7 @@ WHOLESALE
 
 * [Twitter](https://twitter.com/4Ocean)
 * [Facebook](https://www.facebook.com/4OceanBracelets/)
+* [LinkedIn](https://www.linkedin.com/company/4oceanpbc)
 * [Pinterest](https://www.pinterest.com/4oceanbracelets/)
 * [Instagram](https://www.instagram.com/4ocean/)
 * [TikTok](https://www.tiktok.com/@4ocean)
