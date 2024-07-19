@@ -1,6 +1,6 @@
 [FABTCG.COM](https://fabtcg.com/)
 
-[![Flesh and Blood TCG](https://dhhim4ltzu1pj.cloudfront.net/static/947569ad/fabsite/img/fab_logo_reg.png)](https://fabtcg.com/)
+[![Flesh and Blood TCG](https://dhhim4ltzu1pj.cloudfront.net/static/7a4b50d8/fabsite/img/fab_logo_reg.png)](https://fabtcg.com/)
 
 * [Welcome](https://fabtcg.com/resources/learn-to-play/)
 * [Articles](https://fabtcg.com/articles/)
@@ -192,9 +192,9 @@ _This terms of service document was last updated on 22 September 2019._
 * [Facebook](https://facebook.com/fabtcg)
 * [FAB Rules](https://www.facebook.com/groups/426675531382222/)
 
-[![](https://dhhim4ltzu1pj.cloudfront.net/static/947569ad/fabsite/img/retailer_icon.png)](https://b2b.legendstory.com/)
+[![](https://dhhim4ltzu1pj.cloudfront.net/static/7a4b50d8/fabsite/img/retailer_icon.png)](https://b2b.legendstory.com/)
 
 © 2024 [Legend Story Studios](https://legendstory.com/)  
-Made with love, by  ![](https://dhhim4ltzu1pj.cloudfront.net/static/947569ad/fabsite/img/icons/kiwiz.png)
+Made with love, by  ![](https://dhhim4ltzu1pj.cloudfront.net/static/7a4b50d8/fabsite/img/icons/kiwiz.png)
 
 X By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively. [Privacy Policy](https://fabtcg.com/resources/privacy-policy/) and [Terms of Service](https://fabtcg.com/resources/terms-of-service/).
