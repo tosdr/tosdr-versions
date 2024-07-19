@@ -38,10 +38,10 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google�
 Recent Soundboards
 ------------------
 
+* [Klaus Heissler Soundboard: American Dad – Seasons 1 and 2](https://www.cartoonsoundboards.com/ad-klaus/)
 * [Sam Bocquelet Soundboard: Stella and Sam](https://www.cartoonsoundboards.com/sas-sam/)
 * [Peter Griffin Soundboard: Family Guy – Season 4](https://www.cartoonsoundboards.com/fg-peter-3/)
 * [Stewie Griffin Soundboard: Family Guy – Season 4](https://www.cartoonsoundboards.com/fg-stewie-3/)
 * [Brian Griffin Soundboard: Family Guy – Season 4](https://www.cartoonsoundboards.com/fg-brian-3/)
-* [Lois Griffin Soundboard: Family Guy – Season 4](https://www.cartoonsoundboards.com/fg-lois-3/)
 
 © 2018- • [Cartoon Soundboards.com](https://www.cartoonsoundboards.com/) • Division of [Realm of Darkness.net](https://www.realmofdarkness.net/) • [Contact](https://www.cartoonsoundboards.com/contact) • [Privacy](https://www.cartoonsoundboards.com/privacy) • Soundboards are for parody and personal entertainment only [Frontier Theme](https://ronangelo.com/frontier/)
