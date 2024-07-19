@@ -247,8 +247,6 @@ CentOS would not be possible without the support of our sponsors. We would like 
 
 [![](/assets/img/sponsors/colocation-america.png)](http://www.colocationamerica.com/dedicated_servers)
 
-[![](/assets/img/sponsors/cpanel.png)](http://www.cpanel.com/)
-
 [![](/assets/img/sponsors/dedicatedsolutions.png)](https://www.dedicatedsolutions.com/)
 
 [![](/assets/img/sponsors/dtsnet.png)](https://dts-net.com/portal/link.php?id=3)
@@ -286,8 +284,6 @@ CentOS would not be possible without the support of our sponsors. We would like 
 [![](/assets/img/sponsors/NDCHost.png)](https://www.ndchost.com/)
 
 [![](/assets/img/sponsors/nexcess.png)](http://www.nexcess.net/)
-
-[![](/assets/img/sponsors/PSW_Banner_240x60.jpg)](http://www.psw.net/)
 
 [![](/assets/img/sponsors/PNAP_Banner.gif)](http://www.securedservers.com/landing/linux-hosting/)
 
@@ -348,7 +344,7 @@ CentOS would not be possible without the support of our sponsors. We would like 
 
 Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon.
 
-[](https://www.facebook.com/groups/centosproject/)[](https://twitter.com/CentOS)[](https://youtube.com/TheCentOSProject)[](https://www.linkedin.com/groups/22405)[](https://www.reddit.com/r/CentOS/)
+[](https://youtube.com/TheCentOSProject)[](https://fosstodon.org/@centos)[](https://www.facebook.com/CentOSProject)[](https://www.linkedin.com/company/centos-project/)[](https://x.com/centos)[](https://discussion.fedoraproject.org/c/neighbors/centos/)[](https://www.reddit.com/r/CentOS/)
 
 Copyright © 2024 The CentOS Project | [Legal](https://www.centos.org/legal) | [Privacy](https://www.centos.org/legal/privacy) | [Site source](https://git.centos.org/centos/centos.org)
 
