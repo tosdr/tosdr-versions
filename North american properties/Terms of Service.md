@@ -194,9 +194,9 @@ NAP reserves the right to modify or discontinue the Sites with or without notice
 
 If you have any questions regarding the Sites, or these Terms please contact NAP by sending an email to: [\[email protected\]](https://www.naproperties.com/cdn-cgi/l/email-protection).
 
-[![NAP_logo_horizontal_white](https://www.naproperties.com/wp-content/uploads/2022/03/NAP_logo_horizontal_white.svg "NAP_logo_horizontal_white")](https://www.naproperties.com/)
+[![NAP_70Year_Logo_Primary_White_logo_only](https://www.naproperties.com/wp-content/uploads/NAP_70Year_Logo_Primary_White_logo_only.png "NAP_70Year_Logo_Primary_White_logo_only")](https://www.naproperties.com/)
 
-[![NAP_logo_circular_white_rgb](https://www.naproperties.com/wp-content/uploads/NAP_logo_circular_white_rgb.png "NAP_logo_circular_white_rgb")](https://www.naproperties.com/)
+[![NAP_70Year_Logo_Primary_brown_70](https://www.naproperties.com/wp-content/uploads/NAP_70Year_Logo_Primary_brown_70.png "NAP_70Year_Logo_Primary_brown_70")](https://www.naproperties.com/)
 
  [](https://twitter.com/NAP1954) [](https://www.linkedin.com/company/293843/) [](https://www.instagram.com/naprop1954/?hl=en)[](https://www.youtube.com/@northamericanproperties "YouTube")
 
