@@ -59,7 +59,7 @@ If you decide to create an account for and invite a third party to join our netw
 
 In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the ways set out in the table below where we also detail the legal bases we rely on to do so:
 
-| Purpose/Activity | Type of Data | Bases for Processing including basis of legitimate interest | Third Party Recipients (further details provided in Section 5 of this document |
+| Purpose/Activity | Type of Data | Bases for Processing including basis of legitimate interest | Third Party Recipients (further details provided in Section 5 of this document) |
 | --- | --- | --- | --- |
 | To register you as a new customer and provide administration of our website and Products | (a) Identifiers  <br>(b) Financial Information | (a) Performance of a contract with you  <br>(b) Necessary for our legitimate interests | Our affiliates  <br>Service Providers  <br>Third parties |
 | To manage our relationship with you which will include:  <br>(a) Notifying you about changes to our terms or privacy policy  <br>(b) Asking you to leave a review or take a survey  <br>(c) Engaging with you through online chat applications | (a) Identifiers  <br>(b) Contact  <br>(c) Profile  <br>(d) Marketing and Commercial Communications (including chat transcripts) | (a) Performance of a contract with you  <br>(b) Necessary to comply with a legal obligation  <br>(c) Necessary for our legitimate interests | Our affiliates  <br>Service Providers  <br>Third parties |
