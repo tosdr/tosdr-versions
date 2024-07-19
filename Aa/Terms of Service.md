@@ -63,6 +63,10 @@ Close
     * [Home insurance claim](https://www.theaa.com/home-insurance/claims)
     * [Manage your policy](https://auth.theaa.com/login/?RelayState=https:%2F%2Fwww.theaa.com%2Fproducts)
     
+* [Accident Assist
+    
+    * * *](https://www.theaa.com/breakdown-cover/accident-assist)
+    
 * Vehicle maintenance
     
     * * *
@@ -283,8 +287,8 @@ Users of Route Planner and Traffic information from the AA are bound by the [Goo
 * [Financial services privacy notice](https://www.theaa.com/privacy-notice-financial-services "Financial services privacy notice")
 * [Insurance privacy notice](https://www.theaa.com/privacy-notice-insurance "Insurance privacy notice")
 * [AA underwriting privacy notice](https://www.theaa.com/privacy-notice-aauicl "AA underwriting privacy notice")
-* [AA-X app privacy notice](https://www.theaa.com/privacy-notice-aa-x-app)
-* [AA-X repair service privacy notice](https://www.theaa.com/privacy-notice-aa-x-repair-service)
+* [Vixa app privacy notice](https://www.theaa.com/privacy-notice-vixa-app)
+* [Vixa repair service privacy notice](https://www.theaa.com/privacy-notice-vixa-repair-service)
 * [Safety cameras privacy notice](https://www.theaa.com/privacy-notice-safety-cameras)
 * [Wimbledon parking privacy notice](https://www.theaa.com/privacy-notice-wimbledon-parking)
 * [Social media terms of use](https://www.theaa.com/terms-and-conditions/social-media)
@@ -296,7 +300,7 @@ Users of Route Planner and Traffic information from the AA are bound by the [Goo
 
 * [About us](https://www.theaa.com/about-us)
 * [Gender pay gap](https://www.theaa.com/about-us/gender-pay-gap)
-* [Contact us](https://www.theaa.com/help-support)
+* [Help and support](https://www.theaa.com/help-support "help-and-support")
 * [Apps](https://www.theaa.com/apps "Apps")
 * [Careers](https://www.theaacareers.co.uk/)
 * [Modern slavery](https://www.theaa.com/~/media/the-aa/pdf/modern-slavery-act-statement-2023.pdf?rev=56f6ae15be214bd5ba5824e154e04d7d&hash=1C92ADEF3EFD6B81F7ADC69AA4B541C9)
