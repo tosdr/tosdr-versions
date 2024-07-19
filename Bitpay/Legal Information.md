@@ -7,7 +7,7 @@ For Individuals For Businesses
 
 [Developers](https://bitpay.com/docs)
 
-[Help](https://bitpay.com/request-help)
+[Help](https://support.bitpay.com/)
 
 [Buy Crypto ![Arrow Right](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTVweCIgaGVpZ2h0PSIxNHB4IiB2aWV3Qm94PSIwIDAgMTUgMTQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CiAgICA8dGl0bGU+QlAtQXJyb3ctUmlnaHQ8L3RpdGxlPgogICAgPGcgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTUyLjAwMDAwMCwgLTUuMDAwMDAwKSIgc3Ryb2tlPSIjMDI1MEM1Ij4KICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTUzLjAwMDAwMCwgNi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLDYgTDEzLDYiIHN0cm9rZS13aWR0aD0iMiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgIDxwb2x5bGluZSBzdHJva2Utd2lkdGg9IjIiIHBvaW50cz0iNyAwIDEzIDYgNyAxMiI+PC9wb2x5bGluZT4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==)](https://bitpay.com/buy-crypto/) 
 
@@ -322,7 +322,7 @@ Other rights are as follows:
 
 How to exercise your rights. The exercise of the aforementioned rights is free of charge and can be carried out by visiting our Data Subject Rights Portal. (You can also contact us by email via the contact details below, but you will receive a reply email directing you to our Data Subject Rights Portal so it is easier to go straight to our portal).
 
-Merchants can review and edit their personal data by logging into their account and reviewing their personal data under the Settings tab on their Merchant dashboard. If you wish to change information relating to your industry or company website, or if you wish to close your account, you can submit a request at https://bitpay.com/request-help/wizard. If you choose to close your BitPay account, we will mark your account in our database as "closed". We will retain the information in the account in accordance with the record retention principles outlined in this Privacy Notice and as required by applicable law.
+Merchants can review and edit their personal data by logging into their account and reviewing their personal data under the Settings tab on their Merchant dashboard. If you wish to change information relating to your industry or company website, or if you wish to close your account, you can submit a request at https://support.bitpay.com. If you choose to close your BitPay account, we will mark your account in our database as "closed". We will retain the information in the account in accordance with the record retention principles outlined in this Privacy Notice and as required by applicable law.
 
 ### Marketing
 
@@ -344,15 +344,15 @@ Phone +44 808 169 7186
 We're here to help
 ------------------
 
-[Support is just a few taps away. Get your questions answered by using our help library.](https://bitpay.com/request-help "Help Center")
+[Support is just a few taps away. Get your questions answered by using our help library.](https://support.bitpay.com/ "Help Center")
 
-[Get help](https://bitpay.com/request-help "Help Center")
+[Get help](https://support.bitpay.com/ "Help Center")
 
 ![BitPay Logo - White](/_nuxt/img/bitpay-logo-white.712bdcb.svg)
 
 [For Businesses](https://bitpay.com/business/)[Online Crypto Payments](https://bitpay.com/online-payments/)[Email Billing](https://bitpay.com/billing/)[Crypto Payouts](https://bitpay.com/send/)[In-store Payments](https://bitpay.com/retail/)[Crypto Donations](https://bitpay.com/nonprofits/)[NFTs](https://bitpay.com/nfts/)[Exchange Rates](https://bitpay.com/exchange-rates/)[Business FAQs](https://support.bitpay.com/hc/en-us "FAQ")[Pricing](https://bitpay.com/pricing/)[Resources](https://bitpay.com/resources/ "Resources")
 
-[For Individuals](https://bitpay.com/)[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://bitpay.com/request-help/wizard "Help")
+[For Individuals](https://bitpay.com/)[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://support.bitpay.com/ "Help")
 
 [Developers](https://bitpay.com/docs)[Integrations](https://bitpay.com/integrations "Integrations")[Bitcore](https://bitcore.io/ "Bitcore")[Insight](https://bitpay.com/insight/#/BTC/mainnet/home "Insight")[Open Source](https://github.com/bitpay "BitPay Github")[PGP Keys](https://bitpay.com/pgp-keys)[Status](https://status.bitpay.com/ "Status")
 
@@ -366,7 +366,7 @@ Do Not Sell My Personal Information under CCPA
 
 NMLS ID#1496848
 
-BiPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
+BitPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
 
 * * *
 
@@ -382,7 +382,7 @@ For Businesses ![add icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d
 
 For Individuals ![add icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48dGl0bGU+QWRkPC90aXRsZT48ZyBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjZmZmZmZmIj48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjEyIiB5MT0iNyIgeDI9IjEyIiB5Mj0iMTciLz4gPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHgxPSIxNyIgeTE9IjEyIiB4Mj0iNyIgeTI9IjEyIi8+PC9nPjwvc3ZnPgo=) 
 
-[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://bitpay.com/request-help/wizard "Help")
+[Crypto Debit Card](https://bitpay.com/card/)[Crypto Wallet](https://bitpay.com/wallet/)[Browser Extension](https://bitpay.com/extension/)[Spend Crypto](https://bitpay.com/spend-crypto/)[Merchant Directory](https://bitpay.com/directory/)[Buy Gift Cards](https://bitpay.com/gift-cards/)[Buy Crypto](https://bitpay.com/buy-crypto/)[Bill Pay](https://bitpay.com/bill-pay/)[Blog](https://bitpay.com/blog/ "BitPay blog")[Support](https://support.bitpay.com/hc/en-us "Support")[Help](https://support.bitpay.com/ "Help")
 
 Developers ![add icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48dGl0bGU+QWRkPC90aXRsZT48ZyBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjZmZmZmZmIj48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjEyIiB5MT0iNyIgeDI9IjEyIiB5Mj0iMTciLz4gPGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHgxPSIxNyIgeTE9IjEyIiB4Mj0iNyIgeTI9IjEyIi8+PC9nPjwvc3ZnPgo=) 
 
@@ -400,7 +400,7 @@ Do Not Sell My Personal Information under CCPA
 
 NMLS ID#1496848
 
-BiPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
+BitPay is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services.
 
 * * *
 
