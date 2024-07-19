@@ -305,7 +305,7 @@ We collect and receive the following categories of information:
 * [Snapchat](https://www.snapchat.com/add/nhl)
 * [Twitch](https://www.twitch.tv/nhl)
 * [X](https://www.twitter.com/nhl)
-* [Tik Tok](https://www.tiktok.com/@nhl?lang=en)
+* [TikTok](https://www.tiktok.com/@nhl?lang=en)
 
 * [Terms of Service](https://www.nhl.com/info/terms-of-service)
 * [NHL.com Privacy Policy](https://www.nhl.com/info/privacy-policy)
