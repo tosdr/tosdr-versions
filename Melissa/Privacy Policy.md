@@ -586,7 +586,7 @@ Read Privacy Notice for Residents of California](https://www.melissa.com/califor
 [State Law Privacy Notice
 ------------------------
 
-Consumer privacy laws for Colorado, Connecticut, Virginia, & Utah.
+Consumer privacy notice for residents of states with data privacy laws in place.
 
 Read State Law Privacy Notice](https://www.melissa.com/state-law-privacy-notice "Read State Law Privacy Notice")
 
