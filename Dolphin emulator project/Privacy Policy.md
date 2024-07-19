@@ -1,4 +1,4 @@
-[![Dolphin Emulator](https://dolphin-emu.org/m/static/img/logo.fefed4054d1c.png)](https://dolphin-emu.org/)
+[![Dolphin Emulator](https://dolphin-emu.org/m/static/img/logo.72ba8e6312af.png)](https://dolphin-emu.org/)
 
 * [Download](https://dolphin-emu.org/download/)
 * [Blog](https://dolphin-emu.org/blog/)
