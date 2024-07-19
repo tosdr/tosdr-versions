@@ -394,6 +394,7 @@ Reach massive audiences through their favorite content in a safe and reliable wa
 * [Website Privacy Notice](https://www.azerion.com/website-privacy-notice/)
 * [Azerion Global Corporate Privacy Notice](https://www.azerion.com/azerion-global-corporate-privacy-notice/)
 * [Investor Relations Privacy Policy](https://www.azerion.com/investor-relations-privacy-policy/)
+* [Azerion Platform Privacy Notices](https://www.azerion.com/azerion-platform-privacy-notices/)
 * [Disclaimer](https://www.azerion.com/disclaimer/)
 
 * [](https://www.linkedin.com/company/azerion/)
