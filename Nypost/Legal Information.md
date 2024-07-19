@@ -11,6 +11,7 @@ Primary Menu Sections
 * [Sports](https://nypost.com/sports/)
     * [NFL](https://nypost.com/nfl/)
     * [MLB](https://nypost.com/mlb/)
+    * [Olympics](https://nypost.com/olympics/)
     * [NBA](https://nypost.com/nba/)
     * [NHL](https://nypost.com/nhl/)
     * [College Football](https://nypost.com/college-football/)
@@ -54,7 +55,7 @@ Primary Menu Sections
     * [Crosswords & Games](https://nypost.com/games/)
     * [Sports Odds](https://nypost.com/odds/)
     * [Podcasts](https://nypost.com/podcasts/)
-    * [Careers](https://nypost.com/careers/)
+    * [Careers](https://careers.nypost.com/)
 * * [Email Newsletters](https://email.nypost.com/)
     * [Official Store](https://shop.nypost.com/)
     * [Home Delivery](https://subscribe.nypost.com/)
@@ -72,12 +73,12 @@ Search
 
 #### Breaking News
 
-[Legendary actor Donald Sutherland dead at 88, son Kiefer pays tribute: 'A life well lived'](https://nypost.com/2024/06/20/entertainment/donald-sutherland-dead-at-88-kiefer-pays-tribute-a-life-well-lived/)
+[Martin Heinrich becomes third Dem senator to call on Biden to drop out of race, joins 24 House reps](https://nypost.com/2024/07/19/us-news/third-dem-senator-martin-heinrich-calls-on-biden-to-drop-out-of-race-joining-24-house-reps/)
 
 Privacy Notice Highlights
 =========================
 
-**Last Modified: December 27, 2023**
+**Last Modified: June 27, 2024**
 
 NYP Holdings, Inc. (“Company,” “we,” “us,” or “our”), publisher of the New York Post, understands and respects that you care about your personal data and how it is used. We respect your privacy, as further described in our full [Privacy Notice](https://nypost.com/privacy-notice). These highlights set out some points about how we treat your personal data.
 
@@ -159,9 +160,9 @@ New York, NY 10036
 
 The Californian Shine the Light Law, the California Consumer Privacy Protection Act (CCPA) and the California Privacy Rights Act (CPRA) provide certain rights to residents of California. For additional information for California residents, [click here](https://nypost.com/ca-privacy-rights).
 
-**COLORADO, CONNECTICUT, UTAH AND VIRGINIA PRIVACY RIGHTS**
+**OTHER US STATE PRIVACY RIGHTS**
 
-The Colorado Privacy Act (CPA), Connecticut Data Privacy Act (CDPA), Utah Consumer Privacy Act (UCPA) and Virginia Consumer Data Protection Act (VCDPA) provide certain rights to residents of Colorado, Connecticut, Utah and Virginia, respectively. For additional information for residents of those states, [click here](https://nypost.com/va-privacy-notice).
+The laws of certain US States each provide certain rights to their respective residents. For additional information for those residents, [click here](https://nypost.com/for-other-us-state-residents-privacy-rights).
 
 **UK/EU/EEA PRIVACY RIGHTS**
 
@@ -227,7 +228,7 @@ Please click here to review the full [Privacy Notice](https://nypost.com/privacy
         * [Newsroom](https://nypost.com/contact/)
         * [Letters to the Editor](https://nypost.com/contact/)
         * [Licensing & Reprints](https://info.wrightsmedia.com/new-york-post-licensing)
-        * [Careers](https://nypost.com/careers/)
+        * [Careers](https://careers.nypost.com/)
         * [Vulnerability Disclosure Program](https://nypost.com/vulnerability-disclosure-program/)
 * [Apps](#)
     * [iPhone App](https://itunes.apple.com/us/app/new-york-post-iphone-edition/id410094240?mt=8)
@@ -236,7 +237,7 @@ Please click here to review the full [Privacy Notice](https://nypost.com/privacy
     * [Android Tablet](https://play.google.com/store/apps/details?id=com.nypost.tablet&hl=en)
     * [Advertise](#)
         * [Media Kit](https://advertising.nypost.com/)
-        * [Contact](https://advertising.nypost.com/#contact)
+        * [Contact](https://advertising.nypost.com/contact-us/)
 
 © 2024 NYP Holdings, Inc. All Rights Reserved [Terms of Use](https://nypost.com/terms/) [Membership Terms](https://nypost.com/membership-terms/) [Privacy Notice](https://nypost.com/privacy/) [Sitemap](https://nypost.com/sitemap/)
 
