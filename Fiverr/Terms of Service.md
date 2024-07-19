@@ -138,7 +138,6 @@
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
     * [Discord](https://www.fiverr.com/categories/programming-tech/buy/chatbots/discord?source=category_tree&ref=messaging_platform%3Adiscord)
     * [Telegram](https://www.fiverr.com/categories/programming-tech/buy/chatbots/telegram?source=category_tree&ref=messaging_platform%3Atelegram)
-    * [Botpress](https://www.fiverr.com/categories/programming-tech/buy/chatbots/botpress?source=category_tree&ref=messaging_platform%3Abotpress)
     * [TikTok](https://www.fiverr.com/categories/programming-tech/buy/chatbots/tiktok?source=category_tree&ref=messaging_platform%3Atiktok)
     * [Facebook Messenger](https://www.fiverr.com/categories/programming-tech/buy/chatbots/facebook-messenger?source=category_tree&ref=messaging_platform%3Afacebook_messenger)
     
@@ -146,7 +145,6 @@
     * [Gameplay Experience & Feedbacknew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
     * [PC Games](https://www.fiverr.com/categories/programming-tech/buy/game-development/full-game-creation/pc?source=category_tree)
     * [Mobile Games](https://www.fiverr.com/categories/programming-tech/buy/game-development/full-game-creation/mobile?source=category_tree)
-    * [Console Games](https://www.fiverr.com/categories/programming-tech/buy/game-development/full-game-creation/console?source=category_tree)
     
     * [Mobile App Development](https://www.fiverr.com/categories/programming-tech/mobile-app-services?source=category_tree)
     * [Cross-platform Development](https://www.fiverr.com/categories/programming-tech/mobile-app-services/custom-app?source=category_tree)
@@ -154,40 +152,40 @@
     * [IOS App Development](https://www.fiverr.com/categories/programming-tech/mobile-app-services/ios-development?source=category_tree)
     * [Website to App](https://www.fiverr.com/categories/programming-tech/mobile-app-services/convert-site-to-app?source=category_tree)
     * [Mobile App Maintenance](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance?source=category_tree)
-    
     * [Wearable App Development](https://www.fiverr.com/categories/programming-tech/wearable-app-development?source=category_tree)
-    * [Smartwatch Development](https://www.fiverr.com/categories/programming-tech/wearable-app-development/smartwatch-development?source=category_tree)
-    * [VR Headset Developmentnew](https://www.fiverr.com/categories/programming-tech/wearable-app-development/vr-development?source=category_tree)
     
-    * Support & Cybersecurity
+    * Cloud & Cybersecurity
         
-    * [Support & IT](https://www.fiverr.com/categories/programming-tech/support-it-services?source=category_tree)
     * [Cloud Computing](https://www.fiverr.com/categories/programming-tech/cloud?source=category_tree)
-    * [DevOps Engineeringnew](https://www.fiverr.com/categories/programming-tech/devops?source=category_tree)
+    * [DevOps Engineering](https://www.fiverr.com/categories/programming-tech/devops?source=category_tree)
     * [Cybersecurity](https://www.fiverr.com/categories/programming-tech/cybersecurity-data-protection?source=category_tree)
-    * [Convert Files](https://www.fiverr.com/categories/programming-tech/file-conversion-services?source=category_tree)
+    
+    * [Data Science & ML](https://www.fiverr.com/categories/data/data-science?source=category_tree)
+    * [Machine Learningnew](https://www.fiverr.com/categories/data/data-science/machine-learning?source=category_tree)
+    * [Computer Vision](https://www.fiverr.com/categories/data/data-science/computer-vision?source=category_tree)
+    * [NLP](https://www.fiverr.com/categories/data/data-science/text-analysis-nlp?source=category_tree)
+    * [Deep Learning](https://www.fiverr.com/categories/data/data-science/deep-learning?source=category_tree)
     
     * [Software Development](https://www.fiverr.com/categories/programming-tech/software-development?source=category_tree)
     * [Web Applications](https://www.fiverr.com/categories/programming-tech/software-development/web-application?source=category_tree)
     * [Desktop Applications](https://www.fiverr.com/categories/programming-tech/software-development/desktop-applications?source=category_tree)
     * [APIs & Integrations](https://www.fiverr.com/categories/programming-tech/software-development/api-integrations?source=category_tree)
+    * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
     * [Scripting](https://www.fiverr.com/categories/programming-tech/software-development/scripting?source=category_tree)
     * [Browser Extensions](https://www.fiverr.com/categories/programming-tech/software-development/browser-extension?source=category_tree)
     * [QA & Review](https://www.fiverr.com/categories/programming-tech/qa-services?source=category_tree)
     * [User Testing](https://www.fiverr.com/categories/programming-tech/user-testing-services?source=category_tree)
     
     * [Blockchain & Cryptocurrency](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency?source=category_tree)
-    * [Decentralized Apps](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/decentralized-application?source=category_tree)
+    * [Decentralized Apps (dApps)](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/decentralized-application?source=category_tree)
     * [Cryptocurrencies & Tokens](https://www.fiverr.com/categories/programming-tech/cryptocurrencies-tokens?source=category_tree)
-    * [Blockchain Protocol Developmentnew](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/protocol?source=category_tree)
-    * [Chain Analysisnew](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/chain-analysis?source=category_tree)
     * [Exchange Platforms](https://www.fiverr.com/categories/programming-tech/cryptocurrencies-tokens/cryptocurrency-trading-platforms?source=category_tree)
-    * [Blockchain Security & Auditing](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/security-audits?source=category_tree)
     
     * Miscellaneous
         
     * [Electronics Engineering](https://www.fiverr.com/categories/programming-tech/electronics-engineering?source=category_tree)
-    * [Development for Streamers](https://www.fiverr.com/categories/programming-tech/development-for-streamers?source=category_tree)
+    * [Support & IT](https://www.fiverr.com/categories/programming-tech/support-it-services?source=category_tree)
+    * [Convert Files](https://www.fiverr.com/categories/programming-tech/file-conversion-services?source=category_tree)
     
     * ### Seeking a full suite of services?
         
@@ -235,7 +233,7 @@
     
     * Channel Specific new
         
-    * [TikTok Shop](https://www.fiverr.com/categories/online-marketing/buy/social-commerce/setup-and-integration/tiktok?source=category_tree)
+    * [TikTok Shop](https://www.fiverr.com/categories/online-marketing/buy/social-commerce/setup-and-integration/tiktok-shop?source=category_tree)
     * [Facebook Ads Campaign](https://www.fiverr.com/categories/online-marketing/buy/social-marketing/paid-social-media/facebook?source=category_tree)
     * [Instagram Marketing](https://www.fiverr.com/categories/online-marketing/buy/social-marketing/instagram?source=category_tree&ref=platform_type%3Ainstagram)
     * [Google SEM](https://www.fiverr.com/categories/online-marketing/buy/search-engine-marketing/google?source=category_tree&ref=search_engine%3Agoogle)
@@ -463,13 +461,34 @@
     
 * [Business](https://www.fiverr.com/categories/business?source=category_tree)
     
-    * General & Administrative
+    * [Financial Services](https://www.fiverr.com/categories/business/financial-consulting-services?source=category_tree)
+    * [Accounting & Bookkeeping](https://www.fiverr.com/categories/business/financial-consulting-services/accounting-bookkeeping?source=category_tree)
+    * [Tax Consulting](https://www.fiverr.com/categories/business/financial-consulting-services/tax-consulting?source=category_tree)
+    * [Financial Forecasting & Modeling](https://www.fiverr.com/categories/business/financial-consulting-services/financial-forecasting-and-modeling?source=category_tree)
+    * [Analysis, Valuation & Optimization](https://www.fiverr.com/categories/business/financial-consulting-services/analysis?source=category_tree)
+    * [Personal Finance & Wealth Management](https://www.fiverr.com/categories/business/financial-consulting-services/personal-finance-wealth-management?source=category_tree)
+    
+    * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
+    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
+    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
+    * [Legal Review](https://www.fiverr.com/categories/business/legal-consulting-services/legal-review?source=category_tree)
+    * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
+    
+    * Business Management
         
-    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
-    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
+    * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
+    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
+    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
+    * [Sustainability Consulting](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
     * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree)
-    * [Online Investigationsnew](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
+    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
+    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
     * [Supply Chain Management](https://www.fiverr.com/categories/business/supply-chain-management?source=category_tree)
+    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
+    
+    * [AI for Businesses](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
+    * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
+    * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
     * [E-Commerce Management](https://www.fiverr.com/categories/business/ecommerce-management?source=category_tree)
     * [Product Research](https://www.fiverr.com/categories/business/ecommerce-management/product-research?source=category_tree)
@@ -478,36 +497,13 @@
     * [Shopify Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/shopify?source=category_tree&ref=platform%3Ashopify)
     * [Etsy Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/store-management/etsy?source=category_tree)
     
-    * Business Management
-        
-    * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
-    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
-    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
-    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
-    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
-    * [Sustainability Consultingnew](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
-    
-    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
-    * [CRM Management](https://www.fiverr.com/categories/business/software-management/crm-management?source=category_tree)
-    * [ERP Management](https://www.fiverr.com/categories/business/software-management/erp-management?source=category_tree)
-    
-    * [AI for Businesses](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
-    * [AI Strategynew](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
-    * [AI Lessonsnew](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
-    
-    * Accounting & Finance
-        
-    * [Accounting & Bookkeeping](https://www.fiverr.com/categories/business/financial-consulting-services/accounting-bookkeeping?source=category_tree)
-    * [Tax Consulting](https://www.fiverr.com/categories/business/financial-consulting-services/tax-consulting?source=category_tree)
-    * [Financial Forecasting & Modeling](https://www.fiverr.com/categories/business/financial-consulting-services/financial-forecasting-and-modeling?source=category_tree)
-    * [Financial Consulting](https://www.fiverr.com/categories/business/financial-consulting-services?source=category_tree)
-    
-    * Legal Services
-        
-    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
-    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
-    * [Legal Reviewnew](https://www.fiverr.com/categories/business/legal-consulting-services/legal-review?source=category_tree)
-    * [Legal Consulting](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
+    * [Data & Business Intelligence](https://www.fiverr.com/categories/data?source=category_tree)
+    * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
+    * [Data Analytics](https://www.fiverr.com/categories/data/data-analytics?source=category_tree)
+    * [Data Processing](https://www.fiverr.com/categories/data/data-processing?source=category_tree)
+    * [Data Entry](https://www.fiverr.com/categories/data/data-entry?source=category_tree)
+    * [Data Scraping](https://www.fiverr.com/categories/data/data-mining?source=category_tree)
+    * [Data Cleaning](https://www.fiverr.com/categories/data/data-cleaning?source=category_tree)
     
     * Sales & Customer Care
         
@@ -516,14 +512,16 @@
     * [Call Center & Calling](https://www.fiverr.com/categories/business/virtual-assistant-services/call-center-and-calling?source=category_tree)
     * [Customer Care](https://www.fiverr.com/categories/business/customer-care?source=category_tree)
     
-    * [Professional Development](https://www.fiverr.com/categories/lifestyle?source=category_tree)
-    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree)
-    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree)
+    * General & Administrative
+        
+    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
+    * [Online Investigationsnew](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
+    * [Fact Checking](https://www.fiverr.com/categories/business/fact-checking?source=category_tree)
     
     * Miscellaneous
         
+    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
     * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
-    * [Fact Checking](https://www.fiverr.com/categories/business/fact-checking?source=category_tree)
     * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
     
 * [Consulting](https://www.fiverr.com/categories/consulting-services)
@@ -580,39 +578,6 @@
     * [Video Mentorship](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     * [Music Mentorship](https://www.fiverr.com/categories/music-audio/advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     
-* [Data](https://www.fiverr.com/categories/data?source=category_tree)
-    
-    * [Data Science & ML](https://www.fiverr.com/categories/data/data-science?source=category_tree)
-    * [Machine Learningnew](https://www.fiverr.com/categories/data/data-science/machine-learning?source=category_tree)
-    * [Computer Vision](https://www.fiverr.com/categories/data/data-science/computer-vision?source=category_tree)
-    * [NLP](https://www.fiverr.com/categories/data/data-science/text-analysis-nlp?source=category_tree)
-    * [Deep Learning](https://www.fiverr.com/categories/data/data-science/deep-learning?source=category_tree)
-    * [Generative Models](https://www.fiverr.com/categories/data/data-science/ai-models?source=category_tree)
-    * [Time Series Analysis](https://www.fiverr.com/categories/data/data-science/time-series-analysis?source=category_tree)
-    
-    * Data Analysis
-        
-    * [Data Analytics](https://www.fiverr.com/categories/data/data-analytics?source=category_tree)
-    * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
-    * [Data Annotation](https://www.fiverr.com/categories/data/data-labeling-annotation?source=category_tree)
-    * [Dashboards](https://www.fiverr.com/categories/data/data-visualization/dashboards?source=category_tree)
-    
-    * Data Collection
-        
-    * [Data Entry](https://www.fiverr.com/categories/data/data-entry?source=category_tree)
-    * [Data Typing](https://www.fiverr.com/categories/data/data-entry/data-typing?source=category_tree)
-    * [Data Scraping](https://www.fiverr.com/categories/data/data-mining?source=category_tree)
-    * [Data Formatting](https://www.fiverr.com/categories/data/data-formatting?source=category_tree)
-    * [Data Cleaning](https://www.fiverr.com/categories/data/data-cleaning?source=category_tree)
-    * [Data Enrichmentnew](https://www.fiverr.com/categories/data/data-enrichment?source=category_tree)
-    
-    * Data Management
-        
-    * [Data Processing](https://www.fiverr.com/categories/data/data-processing?source=category_tree)
-    * [Data Engineering](https://www.fiverr.com/categories/data/data-engineering?source=category_tree)
-    * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
-    * [Data Governance & Protection](https://www.fiverr.com/categories/data/data-governance?source=category_tree)
-    
 * [AI Services](https://www.fiverr.com/categories/ai-services)
     
     * AI Development
@@ -640,8 +605,8 @@
     * AI for Businesses
         
     * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
-    * [AI Strategynew](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
-    * [AI Lessonsnew](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
+    * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
+    * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
     * AI Video
         
@@ -658,6 +623,52 @@
         
     * [AI Content Editing](https://www.fiverr.com/categories/writing-translation/proofreading-editing/ai-content-editing?source=category_tree)
     * [Custom Writing Promptsnew](https://www.fiverr.com/categories/writing-translation/custom-writing-prompts?source=category_tree)
+    
+* [Personal Growth](https://www.fiverr.com/categories/lifestyle?source=category_tree)
+    
+    * Self Improvement
+        
+    * [Online Tutoring](https://www.fiverr.com/categories/lifestyle/online-tutoring?source=category_tree)
+    * [Language Lessons](https://www.fiverr.com/categories/lifestyle/language-lessons?source=category_tree)
+    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree)
+    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree)
+    * [Generative AI Lessons](https://www.fiverr.com/categories/lifestyle/generative-ai-lessons?source=category_tree)
+    
+    * Fashion & Style
+        
+    * [Modeling & Acting](https://www.fiverr.com/categories/lifestyle/modeling-acting?source=category_tree)
+    * [Styling & Beauty](https://www.fiverr.com/categories/lifestyle/personal-stylists?source=category_tree)
+    * [Trend Forecastingnew](https://www.fiverr.com/categories/lifestyle/trend-forecasting?source=category_tree)
+    
+    * Wellness & Fitness
+        
+    * [Fitness](https://www.fiverr.com/categories/lifestyle/fitness?source=category_tree)
+    * [Nutrition](https://www.fiverr.com/categories/lifestyle/nutrition?source=category_tree)
+    * [Wellness](https://www.fiverr.com/categories/lifestyle/wellness?source=category_tree)
+    
+    * [Gaming](https://www.fiverr.com/categories/lifestyle/gaming?source=category_tree)
+    * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree)
+    * [eSports Management & Strategynew](https://www.fiverr.com/categories/lifestyle/gaming/esports-management-strategy?source=category_tree)
+    * [Game Matchmakingnew](https://www.fiverr.com/categories/lifestyle/recreational-gaming/game-matchmaking?source=category_tree)
+    * [Ingame Creation](https://www.fiverr.com/categories/lifestyle/ingame-creation?source=category_tree)
+    * [Gameplay Experience & Feedbacknew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
+    * [Game Recordings & Guides](https://www.fiverr.com/categories/lifestyle/gameplay-recording?source=category_tree)
+    
+    * Leisure & Hobbies
+        
+    * [Astrology & Psychics](https://www.fiverr.com/categories/lifestyle/astrology-psychics?source=category_tree)
+    * [Arts & Crafts](https://www.fiverr.com/categories/lifestyle/arts-crafts-gifts?source=category_tree)
+    * [Puzzle & Game Creation](https://www.fiverr.com/categories/lifestyle/puzzle-game-creation?source=category_tree)
+    * [Traveling](https://www.fiverr.com/categories/lifestyle/traveling?source=category_tree)
+    * [Collectibles](https://www.fiverr.com/categories/lifestyle/collectibles?source=category_tree)
+    
+    * Miscellaneous
+        
+    * [Family & Genealogy](https://www.fiverr.com/categories/lifestyle/family-genealogy?source=category_tree)
+    * [Cosmetics Formulation](https://www.fiverr.com/categories/lifestyle/formulation?source=category_tree)
+    * [Greeting Cards & Videos](https://www.fiverr.com/categories/lifestyle/greeting-cards-videos-online?source=category_tree)
+    * [Embroidery Digitizingnew](https://www.fiverr.com/categories/lifestyle/embroidery-digitizing?source=category_tree)
+    * [Other](https://www.fiverr.com/categories/lifestyle/lifestyle-services?source=category_tree)
     
 
 [Join Fiverr](https://www.fiverr.com/join)
@@ -787,7 +798,6 @@ Browse categories
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
     * [Discord](https://www.fiverr.com/categories/programming-tech/buy/chatbots/discord?source=category_tree&ref=messaging_platform%3Adiscord)
     * [Telegram](https://www.fiverr.com/categories/programming-tech/buy/chatbots/telegram?source=category_tree&ref=messaging_platform%3Atelegram)
-    * [Botpress](https://www.fiverr.com/categories/programming-tech/buy/chatbots/botpress?source=category_tree&ref=messaging_platform%3Abotpress)
     * [TikTok](https://www.fiverr.com/categories/programming-tech/buy/chatbots/tiktok?source=category_tree&ref=messaging_platform%3Atiktok)
     * [Facebook Messenger](https://www.fiverr.com/categories/programming-tech/buy/chatbots/facebook-messenger?source=category_tree&ref=messaging_platform%3Afacebook_messenger)
     
@@ -795,7 +805,6 @@ Browse categories
     * [Gameplay Experience & FeedbackNew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
     * [PC Games](https://www.fiverr.com/categories/programming-tech/buy/game-development/full-game-creation/pc?source=category_tree)
     * [Mobile Games](https://www.fiverr.com/categories/programming-tech/buy/game-development/full-game-creation/mobile?source=category_tree)
-    * [Console Games](https://www.fiverr.com/categories/programming-tech/buy/game-development/full-game-creation/console?source=category_tree)
     
     * [Mobile App Development](https://www.fiverr.com/categories/programming-tech/mobile-app-services?source=category_tree)
     * [Cross-platform Development](https://www.fiverr.com/categories/programming-tech/mobile-app-services/custom-app?source=category_tree)
@@ -803,38 +812,38 @@ Browse categories
     * [IOS App Development](https://www.fiverr.com/categories/programming-tech/mobile-app-services/ios-development?source=category_tree)
     * [Website to App](https://www.fiverr.com/categories/programming-tech/mobile-app-services/convert-site-to-app?source=category_tree)
     * [Mobile App Maintenance](https://www.fiverr.com/categories/programming-tech/mobile-app-maintenance?source=category_tree)
-    
     * [Wearable App Development](https://www.fiverr.com/categories/programming-tech/wearable-app-development?source=category_tree)
-    * [Smartwatch Development](https://www.fiverr.com/categories/programming-tech/wearable-app-development/smartwatch-development?source=category_tree)
-    * [VR Headset DevelopmentNew](https://www.fiverr.com/categories/programming-tech/wearable-app-development/vr-development?source=category_tree)
     
-    * Support & Cybersecurity
-    * [Support & IT](https://www.fiverr.com/categories/programming-tech/support-it-services?source=category_tree)
+    * Cloud & Cybersecurity
     * [Cloud Computing](https://www.fiverr.com/categories/programming-tech/cloud?source=category_tree)
-    * [DevOps EngineeringNew](https://www.fiverr.com/categories/programming-tech/devops?source=category_tree)
+    * [DevOps Engineering](https://www.fiverr.com/categories/programming-tech/devops?source=category_tree)
     * [Cybersecurity](https://www.fiverr.com/categories/programming-tech/cybersecurity-data-protection?source=category_tree)
-    * [Convert Files](https://www.fiverr.com/categories/programming-tech/file-conversion-services?source=category_tree)
+    
+    * [Data Science & ML](https://www.fiverr.com/categories/data/data-science?source=category_tree)
+    * [Machine LearningNew](https://www.fiverr.com/categories/data/data-science/machine-learning?source=category_tree)
+    * [Computer Vision](https://www.fiverr.com/categories/data/data-science/computer-vision?source=category_tree)
+    * [NLP](https://www.fiverr.com/categories/data/data-science/text-analysis-nlp?source=category_tree)
+    * [Deep Learning](https://www.fiverr.com/categories/data/data-science/deep-learning?source=category_tree)
     
     * [Software Development](https://www.fiverr.com/categories/programming-tech/software-development?source=category_tree)
     * [Web Applications](https://www.fiverr.com/categories/programming-tech/software-development/web-application?source=category_tree)
     * [Desktop Applications](https://www.fiverr.com/categories/programming-tech/software-development/desktop-applications?source=category_tree)
     * [APIs & Integrations](https://www.fiverr.com/categories/programming-tech/software-development/api-integrations?source=category_tree)
+    * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
     * [Scripting](https://www.fiverr.com/categories/programming-tech/software-development/scripting?source=category_tree)
     * [Browser Extensions](https://www.fiverr.com/categories/programming-tech/software-development/browser-extension?source=category_tree)
     * [QA & Review](https://www.fiverr.com/categories/programming-tech/qa-services?source=category_tree)
     * [User Testing](https://www.fiverr.com/categories/programming-tech/user-testing-services?source=category_tree)
     
     * [Blockchain & Cryptocurrency](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency?source=category_tree)
-    * [Decentralized Apps](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/decentralized-application?source=category_tree)
+    * [Decentralized Apps (dApps)](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/decentralized-application?source=category_tree)
     * [Cryptocurrencies & Tokens](https://www.fiverr.com/categories/programming-tech/cryptocurrencies-tokens?source=category_tree)
-    * [Blockchain Protocol DevelopmentNew](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/protocol?source=category_tree)
-    * [Chain AnalysisNew](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/chain-analysis?source=category_tree)
     * [Exchange Platforms](https://www.fiverr.com/categories/programming-tech/cryptocurrencies-tokens/cryptocurrency-trading-platforms?source=category_tree)
-    * [Blockchain Security & Auditing](https://www.fiverr.com/categories/programming-tech/blockchain-cryptocurrency/security-audits?source=category_tree)
     
     * Miscellaneous
     * [Electronics Engineering](https://www.fiverr.com/categories/programming-tech/electronics-engineering?source=category_tree)
-    * [Development for Streamers](https://www.fiverr.com/categories/programming-tech/development-for-streamers?source=category_tree)
+    * [Support & IT](https://www.fiverr.com/categories/programming-tech/support-it-services?source=category_tree)
+    * [Convert Files](https://www.fiverr.com/categories/programming-tech/file-conversion-services?source=category_tree)
     
 * Digital Marketing
     
@@ -873,7 +882,7 @@ Browse categories
     * [Conversion Rate Optimization (CRO)New](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
     
     * Channel Specific
-    * [TikTok Shop](https://www.fiverr.com/categories/online-marketing/buy/social-commerce/setup-and-integration/tiktok?source=category_tree)
+    * [TikTok Shop](https://www.fiverr.com/categories/online-marketing/buy/social-commerce/setup-and-integration/tiktok-shop?source=category_tree)
     * [Facebook Ads Campaign](https://www.fiverr.com/categories/online-marketing/buy/social-marketing/paid-social-media/facebook?source=category_tree)
     * [Instagram Marketing](https://www.fiverr.com/categories/online-marketing/buy/social-marketing/instagram?source=category_tree&ref=platform_type%3Ainstagram)
     * [Google SEM](https://www.fiverr.com/categories/online-marketing/buy/search-engine-marketing/google?source=category_tree&ref=search_engine%3Agoogle)
@@ -1077,12 +1086,33 @@ Browse categories
     
     Business
     
-    * General & Administrative
-    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
-    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
+    * [Financial Services](https://www.fiverr.com/categories/business/financial-consulting-services?source=category_tree)
+    * [Accounting & Bookkeeping](https://www.fiverr.com/categories/business/financial-consulting-services/accounting-bookkeeping?source=category_tree)
+    * [Tax Consulting](https://www.fiverr.com/categories/business/financial-consulting-services/tax-consulting?source=category_tree)
+    * [Financial Forecasting & Modeling](https://www.fiverr.com/categories/business/financial-consulting-services/financial-forecasting-and-modeling?source=category_tree)
+    * [Analysis, Valuation & Optimization](https://www.fiverr.com/categories/business/financial-consulting-services/analysis?source=category_tree)
+    * [Personal Finance & Wealth Management](https://www.fiverr.com/categories/business/financial-consulting-services/personal-finance-wealth-management?source=category_tree)
+    
+    * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
+    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
+    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
+    * [Legal Review](https://www.fiverr.com/categories/business/legal-consulting-services/legal-review?source=category_tree)
+    * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
+    
+    * Business Management
+    * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
+    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
+    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
+    * [Sustainability Consulting](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
     * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree)
-    * [Online InvestigationsNew](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
+    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
+    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
     * [Supply Chain Management](https://www.fiverr.com/categories/business/supply-chain-management?source=category_tree)
+    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
+    
+    * [AI for Businesses](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
+    * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
+    * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
     * [E-Commerce Management](https://www.fiverr.com/categories/business/ecommerce-management?source=category_tree)
     * [Product Research](https://www.fiverr.com/categories/business/ecommerce-management/product-research?source=category_tree)
@@ -1091,33 +1121,13 @@ Browse categories
     * [Shopify Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/shopify?source=category_tree&ref=platform%3Ashopify)
     * [Etsy Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/store-management/etsy?source=category_tree)
     
-    * Business Management
-    * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
-    * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
-    * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
-    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
-    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
-    * [Sustainability ConsultingNew](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
-    
-    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
-    * [CRM Management](https://www.fiverr.com/categories/business/software-management/crm-management?source=category_tree)
-    * [ERP Management](https://www.fiverr.com/categories/business/software-management/erp-management?source=category_tree)
-    
-    * [AI for Businesses](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
-    * [AI StrategyNew](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
-    * [AI LessonsNew](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
-    
-    * Accounting & Finance
-    * [Accounting & Bookkeeping](https://www.fiverr.com/categories/business/financial-consulting-services/accounting-bookkeeping?source=category_tree)
-    * [Tax Consulting](https://www.fiverr.com/categories/business/financial-consulting-services/tax-consulting?source=category_tree)
-    * [Financial Forecasting & Modeling](https://www.fiverr.com/categories/business/financial-consulting-services/financial-forecasting-and-modeling?source=category_tree)
-    * [Financial Consulting](https://www.fiverr.com/categories/business/financial-consulting-services?source=category_tree)
-    
-    * Legal Services
-    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
-    * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
-    * [Legal ReviewNew](https://www.fiverr.com/categories/business/legal-consulting-services/legal-review?source=category_tree)
-    * [Legal Consulting](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
+    * [Data & Business Intelligence](https://www.fiverr.com/categories/data?source=category_tree)
+    * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
+    * [Data Analytics](https://www.fiverr.com/categories/data/data-analytics?source=category_tree)
+    * [Data Processing](https://www.fiverr.com/categories/data/data-processing?source=category_tree)
+    * [Data Entry](https://www.fiverr.com/categories/data/data-entry?source=category_tree)
+    * [Data Scraping](https://www.fiverr.com/categories/data/data-mining?source=category_tree)
+    * [Data Cleaning](https://www.fiverr.com/categories/data/data-cleaning?source=category_tree)
     
     * Sales & Customer Care
     * [Sales](https://www.fiverr.com/categories/business/sales?source=category_tree)
@@ -1125,13 +1135,14 @@ Browse categories
     * [Call Center & Calling](https://www.fiverr.com/categories/business/virtual-assistant-services/call-center-and-calling?source=category_tree)
     * [Customer Care](https://www.fiverr.com/categories/business/customer-care?source=category_tree)
     
-    * [Professional Development](https://www.fiverr.com/categories/lifestyle?source=category_tree)
-    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree)
-    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree)
+    * General & Administrative
+    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
+    * [Online InvestigationsNew](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
+    * [Fact Checking](https://www.fiverr.com/categories/business/fact-checking?source=category_tree)
     
     * Miscellaneous
+    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
     * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
-    * [Fact Checking](https://www.fiverr.com/categories/business/fact-checking?source=category_tree)
     * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
     
 * Consulting
@@ -1184,38 +1195,6 @@ Browse categories
     * [Video Mentorship](https://www.fiverr.com/categories/video-animation/video-advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     * [Music Mentorship](https://www.fiverr.com/categories/music-audio/advice?source=category_tree&ref=seller_level%3Atop_rated_seller%2Clevel_two_seller)
     
-* Data
-    
-    Data
-    
-    * [Data Science & ML](https://www.fiverr.com/categories/data/data-science?source=category_tree)
-    * [Machine LearningNew](https://www.fiverr.com/categories/data/data-science/machine-learning?source=category_tree)
-    * [Computer Vision](https://www.fiverr.com/categories/data/data-science/computer-vision?source=category_tree)
-    * [NLP](https://www.fiverr.com/categories/data/data-science/text-analysis-nlp?source=category_tree)
-    * [Deep Learning](https://www.fiverr.com/categories/data/data-science/deep-learning?source=category_tree)
-    * [Generative Models](https://www.fiverr.com/categories/data/data-science/ai-models?source=category_tree)
-    * [Time Series Analysis](https://www.fiverr.com/categories/data/data-science/time-series-analysis?source=category_tree)
-    
-    * Data Analysis
-    * [Data Analytics](https://www.fiverr.com/categories/data/data-analytics?source=category_tree)
-    * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
-    * [Data Annotation](https://www.fiverr.com/categories/data/data-labeling-annotation?source=category_tree)
-    * [Dashboards](https://www.fiverr.com/categories/data/data-visualization/dashboards?source=category_tree)
-    
-    * Data Collection
-    * [Data Entry](https://www.fiverr.com/categories/data/data-entry?source=category_tree)
-    * [Data Typing](https://www.fiverr.com/categories/data/data-entry/data-typing?source=category_tree)
-    * [Data Scraping](https://www.fiverr.com/categories/data/data-mining?source=category_tree)
-    * [Data Formatting](https://www.fiverr.com/categories/data/data-formatting?source=category_tree)
-    * [Data Cleaning](https://www.fiverr.com/categories/data/data-cleaning?source=category_tree)
-    * [Data EnrichmentNew](https://www.fiverr.com/categories/data/data-enrichment?source=category_tree)
-    
-    * Data Management
-    * [Data Processing](https://www.fiverr.com/categories/data/data-processing?source=category_tree)
-    * [Data Engineering](https://www.fiverr.com/categories/data/data-engineering?source=category_tree)
-    * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
-    * [Data Governance & Protection](https://www.fiverr.com/categories/data/data-governance?source=category_tree)
-    
 * AI Services
     
     AI Services
@@ -1241,8 +1220,8 @@ Browse categories
     
     * AI for Businesses
     * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
-    * [AI StrategyNew](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
-    * [AI LessonsNew](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
+    * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
+    * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
     
     * AI Video
     * [AI Music Videos](https://www.fiverr.com/categories/video-animation/buy/music-videos/ai-generated?source=category_tree&ref=video_type%3Aai_generated)
@@ -1256,6 +1235,49 @@ Browse categories
     * AI Content
     * [AI Content Editing](https://www.fiverr.com/categories/writing-translation/proofreading-editing/ai-content-editing?source=category_tree)
     * [Custom Writing PromptsNew](https://www.fiverr.com/categories/writing-translation/custom-writing-prompts?source=category_tree)
+    
+* Personal Growth
+    
+    Personal Growth
+    
+    * Self Improvement
+    * [Online Tutoring](https://www.fiverr.com/categories/lifestyle/online-tutoring?source=category_tree)
+    * [Language Lessons](https://www.fiverr.com/categories/lifestyle/language-lessons?source=category_tree)
+    * [Life Coaching](https://www.fiverr.com/categories/lifestyle/life-coaching?source=category_tree)
+    * [Career Counseling](https://www.fiverr.com/categories/lifestyle/career-counseling?source=category_tree)
+    * [Generative AI Lessons](https://www.fiverr.com/categories/lifestyle/generative-ai-lessons?source=category_tree)
+    
+    * Fashion & Style
+    * [Modeling & Acting](https://www.fiverr.com/categories/lifestyle/modeling-acting?source=category_tree)
+    * [Styling & Beauty](https://www.fiverr.com/categories/lifestyle/personal-stylists?source=category_tree)
+    * [Trend ForecastingNew](https://www.fiverr.com/categories/lifestyle/trend-forecasting?source=category_tree)
+    
+    * Wellness & Fitness
+    * [Fitness](https://www.fiverr.com/categories/lifestyle/fitness?source=category_tree)
+    * [Nutrition](https://www.fiverr.com/categories/lifestyle/nutrition?source=category_tree)
+    * [Wellness](https://www.fiverr.com/categories/lifestyle/wellness?source=category_tree)
+    
+    * [Gaming](https://www.fiverr.com/categories/lifestyle/gaming?source=category_tree)
+    * [Game Coaching](https://www.fiverr.com/categories/lifestyle/gaming/game-coaching?source=category_tree)
+    * [eSports Management & StrategyNew](https://www.fiverr.com/categories/lifestyle/gaming/esports-management-strategy?source=category_tree)
+    * [Game MatchmakingNew](https://www.fiverr.com/categories/lifestyle/recreational-gaming/game-matchmaking?source=category_tree)
+    * [Ingame Creation](https://www.fiverr.com/categories/lifestyle/ingame-creation?source=category_tree)
+    * [Gameplay Experience & FeedbackNew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
+    * [Game Recordings & Guides](https://www.fiverr.com/categories/lifestyle/gameplay-recording?source=category_tree)
+    
+    * Leisure & Hobbies
+    * [Astrology & Psychics](https://www.fiverr.com/categories/lifestyle/astrology-psychics?source=category_tree)
+    * [Arts & Crafts](https://www.fiverr.com/categories/lifestyle/arts-crafts-gifts?source=category_tree)
+    * [Puzzle & Game Creation](https://www.fiverr.com/categories/lifestyle/puzzle-game-creation?source=category_tree)
+    * [Traveling](https://www.fiverr.com/categories/lifestyle/traveling?source=category_tree)
+    * [Collectibles](https://www.fiverr.com/categories/lifestyle/collectibles?source=category_tree)
+    
+    * Miscellaneous
+    * [Family & Genealogy](https://www.fiverr.com/categories/lifestyle/family-genealogy?source=category_tree)
+    * [Cosmetics Formulation](https://www.fiverr.com/categories/lifestyle/formulation?source=category_tree)
+    * [Greeting Cards & Videos](https://www.fiverr.com/categories/lifestyle/greeting-cards-videos-online?source=category_tree)
+    * [Embroidery DigitizingNew](https://www.fiverr.com/categories/lifestyle/embroidery-digitizing?source=category_tree)
+    * [Other](https://www.fiverr.com/categories/lifestyle/lifestyle-services?source=category_tree)
     
 
 Explore
@@ -2415,7 +2437,7 @@ Our Terms constitute the entire agreement concerning the subject matter therein,
 * [Programming & Tech](https://www.fiverr.com/categories/programming-tech)
 * [Data](https://www.fiverr.com/categories/data)
 * [Business](https://www.fiverr.com/categories/business)
-* [Lifestyle](https://www.fiverr.com/categories/lifestyle)
+* [Personal Growth & Hobbies](https://www.fiverr.com/categories/lifestyle)
 * [Photography](https://www.fiverr.com/categories/photography)
 * [End-to-End Projects](https://www.fiverr.com/categories/end-to-end-projects)
 * [Sitemap](https://www.fiverr.com/categories)
@@ -2434,6 +2456,7 @@ Our Terms constitute the entire agreement concerning the subject matter therein,
 
 * [Help & Support](https://help.fiverr.com/hc/en-us)
 * [Trust & Safety](https://www.fiverr.com/trust_safety?source=footer)
+* [Quality Guide](https://help.fiverr.com/hc/en-us/articles/25616781230481-Fiverr-s-guide-to-quality-and-trust)
 * [Selling on Fiverr](https://help.fiverr.com/hc/en-us/articles/360010451297-How-to-start-selling-on-Fiverr)
 * [Buying on Fiverr](https://www.fiverr.com/cp/how-fiverr-works?show_join&source=footer)
 * [Fiverr Guides](https://www.fiverr.com/resources/guides?source=footer)
