@@ -18,17 +18,15 @@ COPYRIGHT POLICY
 
 (e) include your name, mailing address, telephone number and email address.
 
-You may submit your notice of alleged copyright infringement to our designated copyright agent by fax, mail, or email as set forth below:
+You may submit your notice of alleged copyright infringement to our designated copyright agent by mail, or email as set forth below:
 
 Built In, Inc.
 
 Attn: Built In Designated Copyright Agent
 
-203 N. LaSalle, Suite 2300
+222 Merchandise Mart Plaza, Suite 2010
 
-Chicago, Illinois 60601
-
-Telephone: 312-476-8478
+Chicago, IL 60654 
 
 Email: [\[email protected\]](https://builtin.com/cdn-cgi/l/email-protection)
 
