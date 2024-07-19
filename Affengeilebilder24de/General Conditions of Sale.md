@@ -1,10 +1,10 @@
-![icon](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)             [Direkt zum Inhalt](#main)
+[Direkt zum Inhalt](#main)
 
 Zurück
 
 FOLGE UNSEREM WHATSAPP-KANAL und verpasse keine Neuigkeiten und Rabattaktionen mehr
 
-AFFENGEILE WOCHEN: spare zusätzlich 25% auf reduziertes >>Code: AFG20<< (MBW 80€)
+SUMMER SALE: spare bis zu 20% mit dem >>Code: SUMMER20<< (MBW 80€) + kostenloser Versand
 
 Weiter
 
@@ -20,7 +20,7 @@ Sprache
 
 English Deutsch
 
-Newsletter
+Newsletter[](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
 
 [0](https://affengeilebilder24.de/apps/wishlist)
 
@@ -108,11 +108,10 @@ Newsletter
     * [Nilo](https://affengeilebilder24.de/blogs/kuenstler/nilo)
     * [Patrice Murciano](https://affengeilebilder24.de/blogs/kuenstler/patrice-murciano)
     * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
-    * [Robert Kohlhuber](https://affengeilebilder24.de/blogs/kuenstler/robert-kohlhuber)
+    * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
-    * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
     * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
     * [Sean Flores](https://affengeilebilder24.de/blogs/kuenstler/sean-flores)
     * [Spanjer](https://affengeilebilder24.de/blogs/kuenstler/spanjer)
@@ -242,7 +241,6 @@ Newsletter
     * [Nilo](https://affengeilebilder24.de/blogs/kuenstler/nilo)
     * [Patrice Murciano](https://affengeilebilder24.de/blogs/kuenstler/patrice-murciano)
     * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
-    * [Robert Kohlhuber](https://affengeilebilder24.de/blogs/kuenstler/robert-kohlhuber)
     * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
     * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
     * [Sean Flores](https://affengeilebilder24.de/blogs/kuenstler/sean-flores)
@@ -304,6 +302,8 @@ Newsletter
     
 * [Personalisiert](https://affengeilebilder24.de/products/dein-unikat)
 * [Für Unternehmen](https://affengeilebilder24.de/pages/business)
+
+[Account](https://affengeilebilder24.de/customer_identity/redirect?locale=de)
 
  Sprache Deutsch
 
@@ -368,7 +368,6 @@ English Deutsch
 * [Nilo](https://affengeilebilder24.de/blogs/kuenstler/nilo)
 * [Patrice Murciano](https://affengeilebilder24.de/blogs/kuenstler/patrice-murciano)
 * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
-* [Robert Kohlhuber](https://affengeilebilder24.de/blogs/kuenstler/robert-kohlhuber)
 * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
 * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
 * [Sean Flores](https://affengeilebilder24.de/blogs/kuenstler/sean-flores)
@@ -490,7 +489,7 @@ Folge uns
 
 Partner
 
-[![](https://api.lionshome.de/seal/seal.png)](https://www.lionshome.de/) [![](https://affengeilebilder24.brands-unique.com/moebelde/siegel-de-m.png)](https://www.moebel.de/)
+[![partner lionshome](https://api.lionshome.de/seal/seal.png)](https://www.lionshome.de/) [![partner moebel.de](https://affengeilebilder24.brands-unique.com/moebelde/siegel-de-m.png)](https://www.moebel.de/)
 
  Sprache Deutsch
 
