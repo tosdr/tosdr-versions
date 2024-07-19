@@ -1,4 +1,4 @@
-     
+      
 
 [INTERNAL FEEDBACK](https://pages.lazada.sg/wow/gcp/route/lazada/sg/upr_1000345_lazada/channel/sg/upr-router/sg?wx_navbar_transparent=true&disable_smb=true&lzd_pc_navbar_hidden=true&hybrid=1&data_prefetch=true&prefetch_replace=1&at_iframe=1&wh_pid=/lazada/channel/sg/feedback/internal-feedback)
 
@@ -61,7 +61,7 @@ Categories
 * [How to Buy](https://www.lazada.sg/helpcenter/payments/)
 * [Shipping & Delivery](https://www.lazada.sg/helpcenter/shipping_delivery/)
 * [International Product Policy](https://www.lazada.sg/helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans)
-* [How to Return](https://www.lazada.sg/helpcenter/returns-refunds/#answer-faq-return-ans)
+* [How to Return](https://www.lazada.sg/helpcenter/how-do-i-return-an-item-13301.html)
 * [Contact Lazada](https://www.lazada.sg/contact/)
 * [Contact RedMart](https://redmart.lazada.sg/support/contact-us)
 
