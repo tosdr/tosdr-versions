@@ -17,7 +17,7 @@ Privacy Policy
 
 (_Last Updated on April 2, 2024_; _Version 2024/1.0_)
 
-Your privacy is important to us. Therefore, we are committed to respecting Your privacy and the confidentiality of Your personal data and content. This Privacy Policy is designed to assist You in understanding how BasisTech LLC (“BasisTech,” “We,” “Our” or “Us”) uses and safeguards the information You provide in the course of purchasing and/or using Basis products, services and websites (the “Services”).
+Your privacy is important to us. Therefore, we are committed to respecting Your privacy and the confidentiality of Your personal data and content. This Privacy Policy is designed to assist You in understanding how BasisTech LLC (“BasisTech,” “We,” “Our” or “Us”) uses and safeguards the information You provide in the course of purchasing and/or using BasisTech products, services and websites (the “Services”).
 
 This document (“Privacy Policy”) describes Our policies concerning the use of personal information of users collected during the course of providing the Services as in effect from the date last updated, as set forth above.
 
