@@ -4,11 +4,11 @@
 
 Mobile
 
-![donwloadimg](https://static.moomoo.com/upload/onelink/us_download_surl_qcode-92981b306d33a283e2a06b25f5bc3fbf.png?_=1714274457065)
+![donwloadimg](https://cdn.futustatic.com/upload/onelink/us_download_surl_qcode-92981b306d33a283e2a06b25f5bc3fbf.png?_=1714274457065)
 
 Desktop
 
-![appLogo](https://static.moomoo.com/moomoo_common/dist/img/mm_nx_app_logo-dd00f.svg)
+![appLogo](https://cdn.futustatic.com/moomoo_common/dist/img/mm_nx_app_logo-dd00f.svg)
 
 [Download now](#)
 
@@ -294,7 +294,7 @@ The moomoo app is an online trading platform offered by Moomoo Technologies Inc.
 
 For further information about Moomoo Financial Inc., please visit [Financial Industry Regulatory Authority (FINRA)’s BrokerCheck](https://brokercheck.finra.org/firm/summary/283078). Brokerage accounts with Moomoo Financial Inc. are protected by the Securities Investor Protection Corporation (SIPC). Moomoo Financial Inc. is a member of Securities Investor Protection Corporation (SIPC), which protects securities customers of its members up to $500,000 (including $250,000 for claims for cash). It is important to understand that SIPC protects customer accounts against losses caused by the financial failure of the broker-dealer, but not against an increase or decrease in the market value of securities in customers' accounts. SIPC does not protect against market risk, which is the risk inherent in a fluctuating market. For further information about SIPC coverage for accounts with Moomoo Financial Inc., see [www.sipc.org](https://www.sipc.org/) or request an explanatory brochure from Moomoo Financial Inc.
 
-Options trading entails significant risk and is not appropriate for all customers. It is important that investors read [Characteristics and Risks of Standardized Options](https://j.us.moomoo.com/00xBBz) before engaging in any options trading strategies. Options transactions are often complex and may involve the potential of losing the entire investment in a relatively short period of time. Certain complex options strategies carry additional risk, including the potential for losses that may exceed the original investment amount. Supporting documentation for any claims, if applicable, will be furnished upon request.
+Options trading entails significant risk and is not appropriate for all customers. It is important that investors read [Characteristics and Risks of Standardized Options](https://j.us.moomoo.com/017Phl) before engaging in any options trading strategies. Options transactions are often complex and may involve the potential of losing the entire investment in a relatively short period of time. Certain complex options strategies carry additional risk, including the potential for losses that may exceed the original investment amount. Supporting documentation for any claims, if applicable, will be furnished upon request.
 
 Investments in stocks, options, ETFs and other instruments are subject to risks, including possible loss of the amount invested. The value of investments may fluctuate and as a result, clients may lose the value of their investment. Past performance should not be viewed as an indicator of future results.
 
