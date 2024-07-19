@@ -17,9 +17,9 @@ Main Navigation
     * [eTapestry
         
         Fundraising built for smaller orgs](https://www.blackbaud.com/products/blackbaud-etapestry)
-    * [Data Intelligence
+    * [ResearchPoint
         
-        Prospect research, data health, insights](https://www.blackbaud.com/solutions/analytics)
+        Powerful insights for prospect research](https://www.blackbaud.com/products/blackbaud-researchpoint)
     * [Luminate Online
         
         Comprehensive online fundraising campaigns](https://www.blackbaud.com/products/blackbaud-luminate-online)
@@ -64,7 +64,7 @@ Main Navigation
     
     * [Fundraising and Advancement](https://www.blackbaud.com/solutions/fundraising)
     * [Peer-to-Peer Fundraising](https://www.blackbaud.com/solutions/fundraising/peer-to-peer-fundraising)
-    * [Donor and Prospect Data Intelligence](https://www.blackbaud.com/solutions/analytics/modeling-and-prospect-research)
+    * [Donor and Prospect Data Intelligence](https://www.blackbaud.com/solutions/analytics)
     * [Marketing Campaigns and Websites](https://www.blackbaud.com/solutions/marketing)
     
     Education Solutions
@@ -153,11 +153,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/06/bbcon2024-sessions-resources-megamenu-275X135.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/07/bbcon2024-keynote-Sheryl-resources-megamenu-275X135.png)
     
     bbcon 2024 | Sept. 24–26
     
-    [Our lineup of 150+ bbcon sessions is live! Explore Sessions.](https://www.bbconference.com/2024/sessions?ICID=bbwebsite-mega-menu-tile-bbcon2024-sessions)
+    [Sheryl Lee Ralph to join the bbcon mainstage as keynote! Register now.](https://www.bbconference.com/?icid=_p-megamenu_t-homepage_c-keynote1)
     
     * * *
     
