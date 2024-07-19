@@ -1,8 +1,8 @@
 We’re sorry, but our website doesn’t work properly without JavaScript enabled. Please enable JavaScript in order to continue using our website.
 
-           Privacy Policy                                   
+            Privacy Policy                                   
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwc30b0daf/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd6edcbbe/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
 Products Education 
 
@@ -13,13 +13,6 @@ Popular Searches
 * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html)
 * [Cat Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Cat)
 * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html)
-
-[![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw094a5cb7/images/banner-flea40-promo-search.jpg)](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?campaign=flea40_promo "Save up to 40% OFF on Flea, Tick and Heartworm Products")
-
-Applied
-
-Popular on PetMeds
-------------------
 
   
 
@@ -38,7 +31,7 @@ Popular on PetMeds
 
 MENU CLOSE
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwc30b0daf/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd6edcbbe/images/newlogo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
 [Sign In](https://www.1800petmeds.com/login)
 
@@ -53,15 +46,6 @@ Popular Searches
 * [Flea & Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html)
 * [Cat Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Cat)
 * [Heartworm](https://www.1800petmeds.com/heartworm-cat11.html)
-
-Popular on PetMeds
-------------------
-
- ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw16e6761f/images/dark-blue-caret-left.svg) Swipe
-
-[![](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw094a5cb7/images/banner-flea40-promo-search.jpg)](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?campaign=flea40_promo "Save up to 40% OFF on Flea, Tick and Heartworm Products")
-
-Applied
 
  
 
@@ -120,7 +104,7 @@ Applied
         * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Dog)
         * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Dog)
         
-        [![Save up to 40% OFF Flea, Tick and Heartworm Products](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw2b983dc7/images/nav-submenu-flea40-promo.jpg "Save up to 40% OFF Flea, Tick and Heartworm Products")](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html?prefn1=species&prefv1=Dog&campaign=flea40_promo)
+        [![Hills & Royal Canin Prescription Food Now Available](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw70b11795/images/hillsroyal_shopbypet.png "Hills & Royal Canin Prescription Food Now Available")](https://www.1800petmeds.com/royal-canin-hills-rx?prefn1=species&prefv1=Dog&campaign=RXDIET10001)
         
     * [Cat](#)
         
@@ -176,7 +160,7 @@ Applied
         * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Cat)
         * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Cat)
         
-        [![Save 35% on Cat Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw1572fb05/images/nav-submenu-food35-promo.jpg "Save 35% on Cat Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?prefn1=species&prefv1=Cat&campaign=food35_promo)
+        [![Hills & Royal Canin Prescription Food Now Available](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw70b11795/images/hillsroyal_shopbypet.png "Hills & Royal Canin Prescription Food Now Available")](https://www.1800petmeds.com/royal-canin-hills-rx?prefn1=species&prefv1=Cat&campaign=RXDIET10001)
         
     * [Horse](#)
         
@@ -223,13 +207,13 @@ Applied
     
     [![Hill's](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw2043b4ef/images/popularbrands/brand-hills-science-diet.png)](https://www.1800petmeds.com/hills.html) [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwca665f24/images/popularbrands/brand-royal-canin.png)](https://www.1800petmeds.com/royal-canin.html) [![Blue Buffalo](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw75d60799/images/popularbrands/brand-blue-buffalo.png)](https://www.1800petmeds.com/search?searchType=product&q=blue%20buffalo) [![Purina Pro Plan](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe8f62f36/images/popularbrands/brand-purina.png)](https://www.1800petmeds.com/purina.html) [![Diamond Naturals](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw9ac7fda0/images/popularbrands/brand-diamond-naturals.png)](https://www.1800petmeds.com/diamond-pet-food.html) [![Wellness](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5459337c/images/popularbrands/brand-dr-marty.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty) [![Forza10](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwdd68b4bb/images/popularbrands/brand-forza10.png)](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10)
     
-    [![Save 35% on Pet Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw93d176e5/images/banner-shop-pet-food35.jpg "Save 35% on Pet Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
+    [![Hills & Royal Canin Prescription Food Now Available](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwae4a25be/images/hillsroyal_shopbyfood.png "Hills & Royal Canin Prescription Food Now Available")](https://www.1800petmeds.com/royal-canin-hills-rx?campaign=RXDIET10001)
     
 * [Shop By Brand](#)
     
     * [View All Brands](https://www.1800petmeds.com/all-brands?cgid=root)
     
-    [![Save 35% on Pet Food with AutoShip](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwd97a5b85/images/banner-shop-by-brand-food35-promo.jpg "Save 35% on Pet Food with AutoShip")](https://www.1800petmeds.com/get-35-off-food-with-autoship.html?campaign=food35_promo)
+    [![Hills & Royal Canin Prescription Food Now Available](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dwc1f1cdec/images/hillsroyal_shopbybrand.png "Hills & Royal Canin Prescription Food Now Available")](https://www.1800petmeds.com/royal-canin-hills-rx?campaign=RXDIET10001)
     
 * [Shop By Condition](#)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html)
@@ -254,14 +238,12 @@ Applied
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
-    * [FLASH SALE - Up to $50 OFF](https://www.1800petmeds.com/flash-sale-promo240603.html)
-    * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
+    * [Save 10% with Autoship on Hills & Royal Canin Rx products](https://www.1800petmeds.com/royal-canin-hills-rx)
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
-    * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
     
 * [Pet Health Resources](#)
     * [Pet Health Advice](https://www.1800petmeds.com/education)
-    * [Talk to a Vet](https://www.1800petmeds.com/vetlive)
+    * [Talk to a Vet](https://www.1800petmeds.com/vetster)
     * [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
 
 Back
@@ -480,7 +462,7 @@ Close ×
 
 Navigation [×](javascript:void(0))
 
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw53c92329/images/dog.svg)[Dog](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw9364f90a/images/dog.svg)[Dog](#)
     * [BackDog](#)
     * [All Dog Products](https://www.1800petmeds.com/search?prefn1=species&prefv1=Dog)
     * [Flea & Tick](#)
@@ -632,7 +614,7 @@ Navigation [×](javascript:void(0))
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Dog)
     * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Dog)
     * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Dog)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwcf0b2d61/images/cat.svg)[Cat](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw43d3cb87/images/cat.svg)[Cat](#)
     * [BackCat](#)
     * [All Cat Products](https://www.1800petmeds.com/search?prefn1=species&prefv1=Cat)
     * [Flea & Tick](#)
@@ -784,7 +766,7 @@ Navigation [×](javascript:void(0))
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html?prefn1=species&prefv1=Cat)
     * [Dog](https://www.1800petmeds.com/dog-cat5060012.html?prefn1=species&prefv1=Cat)
     * [Cat](https://www.1800petmeds.com/cat-cat5060011.html?prefn1=species&prefv1=Cat)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb78b03f3/images/horse.svg)[Horse](https://www.1800petmeds.com/horse-cat5160032.html)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw0d99a00b/images/horse.svg)[Horse](https://www.1800petmeds.com/horse-cat5160032.html)
     * [BackHorse](#)
     * [All Horse Products](https://www.1800petmeds.com/horse-cat5160032.html)
     * [Anxiety](https://www.1800petmeds.com/horse+anxiety-cat5160028.html)
@@ -798,7 +780,7 @@ Navigation [×](javascript:void(0))
     * [Training Aids](https://www.1800petmeds.com/horse+training+aids-cat5160027.html)
     * [Vitamins & Supplements](https://www.1800petmeds.com/horse+vitamins+++supplements-cat5160035.html)
     * [Dewormers](https://www.1800petmeds.com/horse+wormers-cat5160022.html)
-* ![food-icon](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw87676ff0/images/food-icon.svg) [Shop Food](#)
+* ![food-icon](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw1150a1da/images/food-icon.svg) [Shop Food](#)
     * [BackShop Food](#)
     * [Dog Food](https://www.1800petmeds.com/food-cat78.html?prefn1=species&prefv1=Dog)
         * [BackDog Food](#)
@@ -838,11 +820,11 @@ Navigation [×](javascript:void(0))
         * [Dr. Marty](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Dr.%20Marty)
         * [Forza10](https://www.1800petmeds.com/food-cat78.html?prefn1=brand&prefv1=Forza10)
         
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwc40dc826/images/brands.svg) [Shop By Brand](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb9f23204/images/brands.svg) [Shop By Brand](#)
     * [BackShop By Brand](#)
     
     * [View All Brands](https://www.1800petmeds.com/all-brands?cgid=root)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwcada5be6/images/conditions.svg) [Shop By Condition](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw38c64ea4/images/conditions.svg) [Shop By Condition](#)
     * [BackShop By Condition](#)
     * [Allergy Relief](https://www.1800petmeds.com/allergy+relief-cat71.html)
     * [Anxiety](https://www.1800petmeds.com/anxiety-cat75.html)
@@ -865,16 +847,14 @@ Navigation [×](javascript:void(0))
     * [Urinary Tract & Kidneys](https://www.1800petmeds.com/urinary+tract+++kidneys-cat94.html)
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe502a907/images/shoppingtag.svg) [Today's Deals](#)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw4fa67eec/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
-    * [FLASH SALE - Up to $50 OFF](https://www.1800petmeds.com/flash-sale-promo240603.html)
-    * [40% OFF Flea, Tick & Heartworm](https://www.1800petmeds.com/save-on-flea-tick-heartworm-promo240503.html)
+    * [Save 10% with Autoship on Hills & Royal Canin Rx products](https://www.1800petmeds.com/royal-canin-hills-rx)
     * [Save 35% on Food with AutoShip](https://www.1800petmeds.com/get-35-off-food-with-autoship.html)
-    * [35% OFF Badlands Ranch Food](https://www.1800petmeds.com/badlands-ranch-promo240506.html)
     
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw4dabddd8/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw1708a9e3/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
-* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw2ffa569a/images/pumpkin/pet-insurance.svg) [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw8b9622c2/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw1bc8b9cf/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
+* ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwf7c10a07/images/pumpkin/pet-insurance.svg) [Learn About Pet Insurance](https://www.1800petmeds.com/petmeds-insurance-services)
 
 [Contact Us](https://www.1800petmeds.com/help.html) [My Account](https://www.1800petmeds.com/mypetmed) [My Appointments](https://www.1800petmeds.com/appointments) [Quick Reorder](https://www.1800petmeds.com/home) [Cart](https://www.1800petmeds.com/cart) [Already a customer? Sign In](https://www.1800petmeds.com/login)
 
@@ -892,7 +872,7 @@ SAVE AN EXTRA $5 - $20 OFFUse code PETS in cart ([Exclusions apply](https://www.
 
 Who We Are
 
-[About Us](https://www.1800petmeds.com/company.html "About Us") [Contact Us](https://www.1800petmeds.com/help.html "Contact Us") [Privacy Policy](https://www.1800petmeds.com/privacy.html "Privacy Policy") [Testimonials](https://www.1800petmeds.com/testimonials.html "Testimonials") [Mobile App](https://www.1800petmeds.com/app.html "Mobile App") [Affiliate Program](https://www.1800petmeds.com/affiliateprogram.html "Affiliate Program") [PetMeds® Cares](https://www.petmeds.org/) [Pharmacy Team](https://www.1800petmeds.com/online-pet-pharmacy.html "Pharmacy Team") [Press Releases](https://www.1800petmeds.com/press-releases.html "PetMeds Press Releases") [PetMeds® Reviews](https://www.1800petmeds.com/reviews.html "PetMeds Reviews") [PetMeds® Cultural Values](https://www.1800petmeds.com/our-core-values.html "PetMeds Cultural Values") [PetMeds® Sustainability](https://www.1800petmeds.com/petmeds-sustainability.html "PetMeds Sustainability") [Vetster](https://vetster.com/en-us/support "Vetster") [Dr. Lindsay Butzer, DVM](https://www.1800petmeds.com/searchcontent/bio_lindsay_butzer.html "Dr. Lindsay Butzer, DVM")
+[About Us](https://www.1800petmeds.com/company.html "About Us") [Contact Us](https://www.1800petmeds.com/help.html "Contact Us") [Privacy Policy](https://www.1800petmeds.com/privacy.html "Privacy Policy") [Testimonials](https://www.1800petmeds.com/testimonials.html "Testimonials") [Mobile App](https://www.1800petmeds.com/app.html "Mobile App") [Affiliate Program](https://www.1800petmeds.com/affiliateprogram.html "Affiliate Program") [PetMeds® Cares](https://www.petmeds.org/) [Pharmacy Team](https://www.1800petmeds.com/online-pet-pharmacy.html "Pharmacy Team") [Press Releases](https://www.1800petmeds.com/press-releases.html "PetMeds Press Releases") [PetMeds® Reviews](https://www.1800petmeds.com/reviews.html "PetMeds Reviews") [PetMeds® Cultural Values](https://www.1800petmeds.com/our-core-values.html "PetMeds Cultural Values") [PetMeds® Sustainability](https://www.1800petmeds.com/petmeds-sustainability.html "PetMeds Sustainability") [Vetster](https://vetster.com/en-us/support "Vetster")
 
 * * *
 
@@ -936,7 +916,7 @@ We do not share your personal information with third parties without your consen
 
 * Third Party Service Providers. With third parties who work on our behalf, including among other things service providers who may help us to administer our website, collect data for analysis purposes, conduct surveys, provide technical support, process payments, provide marketing research and assistance (including email and mobile marketing), deliver packages, and assist in the fulfillment of orders;
   
-* Vetster for fulfillment of our VetLive telehealth/telemedicine service. If you utilize our VetLive service we will share your information with our partner, Vetster, for fulfillment of the service. Their privacy policy will apply and is available at [![](https://cloud.vetster.com/images/icons/favicon-16x16.png)Privacy Policy - Vetster](https://vetster.com/en-us/legal/privacy) ;
+* Vetster for fulfillment of our Vetster telehealth/telemedicine service. If you utilize our Vetster service we will share your information with our partner, Vetster, for fulfillment of the service. Their privacy policy will apply and is available at [![](https://cloud.vetster.com/images/icons/favicon-16x16.png)Privacy Policy - Vetster](https://vetster.com/en-us/legal/privacy) ;
   
 * Pumpkin Insurance Services Inc. (“Pumpkin”) for fulfillment of pet insurance needs. If you utilize the services of our fully licensed insurance broker, PetMeds Insurance Services, LLC, for pet insurance products, then we will share your information with Pumpkin, our partner for obtaining insurance quotes. Pumpkin’s privacy policy will apply to all your information we, or you, provide to them and is available at [![](https://www.pumpkin.care/wp-content/uploads/2022/06/Pumpkin_Favicon_Red.png)Privacy Policy](https://www.pumpkin.care/privacy-center/privacy-policy/) ;
   
@@ -1062,18 +1042,18 @@ Prior to honoring your request, the Company will make a reasonable attempt to ve
 
 Last updated February 13, 2024
 
- [![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwed893f1a/images/white-caret-up.svg) TOP](#top-of-page)
+ [![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw4c46cf44/images/white-caret-up.svg) TOP](#top-of-page)
 
 Contact Us
 ----------
 
 ![Contact Us Number](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwa5678054/images/textbubble.svg)
 
-Toll Free Number (Call or [Text](sms:18007386337)):
+Toll Free Number (Call):
 
 1-800-PetMeds®
 
-[(1-800-738-6337)](sms:+18007386337)
+[(1-800-738-6337)](tel:+18007386337)
 
 Due to unusually high call volumes, we are experiencing longer wait times. We sincerely apologize, and thank you for your patience.
 
@@ -1116,11 +1096,11 @@ Delray Beach, FL 33445
 
 ### PetMeds® Partnerships
 
-[VetLive (powered by Vetster)](https://www.1800petmeds.com/vetlive) [Dr. Lindsay Butzer, DVM](https://www.1800petmeds.com/bio_lindsay_butzer.html)
+[Vetster](https://www.1800petmeds.com/vetster)
 
 #### [PetMeds® Partnerships](#collapse4) 
 
-[VetLive (powered by Vetster)](https://www.1800petmeds.com/vetlive) [Dr. Lindsay Butzer, DVM](https://www.1800petmeds.com/bio_lindsay_butzer.html)
+[Vetster](https://www.1800petmeds.com/vetster)
 
 ### Verified Pet Pharmacy
 
