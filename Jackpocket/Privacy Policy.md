@@ -1,26 +1,12 @@
-[![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)](https://jackpocket.com/)
+![Jackpocket Logo](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
 
-* [About](#)
-* [Winners](https://blog.jackpocket.com/featured-winners/)
-* [News](https://blog.jackpocket.com/)
-* [Lottery Results](https://jackpocket.com/lottery-results/)
-* [Sweepstakes](https://jackpocket.com/sweepstakes/)
+About
 
-Get The App
+[About Us](https://jackpocket.com/team)[FAQ](https://support.jackpocket.com/hc/en-us)[Careers](https://jackpocket.com/careers)[Press](https://jackpocket.com/press)
 
-* [About Us](https://jackpocket.com/team/)
-* [FAQ](https://support.jackpocket.com/hc/en-us)
-* [Careers](https://jackpocket.com/careers/)
-* [Press](https://jackpocket.com/press/)
+[Winners](https://blog.jackpocket.com/featured-winners/)[News](https://blog.jackpocket.com/)[Lottery Results](https://jackpocket.com/lottery-results)[Sweepstakes](https://jackpocket.com/sweepstakes)
 
-* [About Us](https://jackpocket.com/team/)
-* [FAQ](https://support.jackpocket.com/hc/en-us)
-* [Careers](https://jackpocket.com/careers/)
-* [Press](https://jackpocket.com/press/)
-* [Winners](https://blog.jackpocket.com/featured-winners/)
-* [News](https://blog.jackpocket.com/)
-* [Lottery Results](https://jackpocket.com/lottery-results/)
-* [Sweepstakes](https://jackpocket.com/sweepstakes/)
+GET THE APP
 
 Privacy Policy
 ==============
@@ -327,49 +313,38 @@ To the extent any provision of this Privacy Policy is found by a competent tribu
   
 Please contact Jackpocket with any questions or comments about this Privacy Policy by emailing: privacyrequests@jackpocket.com. 
 
-* ![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
-*  [![Facebook Icon](https://7j66bvtd.media.zestyio.com/facebook-icon.svg) Facebook](https://www.facebook.com/jackpocket/)
-*  [![Instagram Icon](https://7j66bvtd.media.zestyio.com/instagram-icon.svg) Instagram](https://www.instagram.com/jackpocket/)
-*  [![Twitter Icon](https://7j66bvtd.media.zestyio.com/twitter-icon.svg) Twitter](https://twitter.com/jackpocket)
-*  [![YouTube Icon](https://7j66bvtd.media.zestyio.com/youtube-icon.svg) YouTube](https://www.youtube.com/c/jackpocket)
-*  [![LinkedIn Icon](https://7j66bvtd.media.zestyio.com/linkedin-icon.svg) LinkedIn](https://www.linkedin.com/company/jackpocket)
-*  [![TikTok](https://7j66bvtd.media.zestyio.com/tiktok-icon.svg) TikTok](https://www.tiktok.com/@jackpocket)
+![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
+
+* [Facebook](https://www.facebook.com/jackpocket/)
+* [Instagram](https://www.instagram.com/jackpocket/)
+* [Twitter](https://twitter.com/jackpocket)
+* [YouTube](https://www.youtube.com/c/jackpocket)
+* [LinkedIn](https://www.linkedin.com/company/jackpocket)
+* [TikTok](https://www.tiktok.com/@jackpocket)
 
 * Jackpocket
 * [Home](https://jackpocket.com/)
-* [About](https://jackpocket.com/team/)
+* [About](https://jackpocket.com/team)
 * [Support](https://support.jackpocket.com/hc/en-us)
-* [Careers](https://jackpocket.com/careers/)
-* [Press](https://jackpocket.com/press/)
-* [Sweepstakes](https://jackpocket.com/sweepstakes/)
-* [Contact](https://jackpocket.com/contact/)
+* [Careers](https://jackpocket.com/careers)
+* [Press](https://jackpocket.com/press)
+* [Sweepstakes](https://jackpocket.com/sweepstakes)
+* [Contact](https://jackpocket.com/contact)
 
 * Blog
-* [What's New](https://blog.jackpocket.com/whats-new/)
-* [Winners](https://blog.jackpocket.com/winners/)
-* [Tips & Tricks](https://blog.jackpocket.com/tips-and-tricks/)
-* [Meet the Team](https://blog.jackpocket.com/meet-the-team/)
+* [What's New](https://blog.jackpocket.com/announcements/home)
+* [Winners](https://blog.jackpocket.com/winners-wall/home)
+* [Tips & Tricks](https://blog.jackpocket.com/tips-and-tricks/home)
+* [Meet the Team](https://blog.jackpocket.com/team/home)
 
 * Resources
 * [Download Jackpocket](https://jackpocketapp.app.link/bUZHX55yk3)
-* [Responsible Play](https://jackpocket.com/responsible-play/)
-* [Avoid Lottery Scams](https://jackpocket.com/avoid-lottery-scams/)
-* [Become a Partner](https://jackpocket.com/partners/)
+* [Responsible Play](https://jackpocket.com/responsible-play)
+* [Avoid Lottery Scams](https://jackpocket.com/avoid-lottery-scams)
+* [Become a Partner](https://jackpocket.com/partners)
 
 © 2024 Jackpocket, Inc.
 
-GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY).  18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com/tos](http://jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Number one lottery app based on iOS download data collected by Sensor Tower.
+GAMBLING PROBLEM? CALL 1-800-GAMBLER, Call 877-8-HOPENY/text HOPENY (467369) (NY). 18+ (19+ in NE, 21+ in AZ). Physically present where Jackpocket operates. Jackpocket is not affiliated with any State Lottery. Eligibility Restrictions apply. Void where prohibited. Terms: [jackpocket.com](https://jackpocket.com/tos). The Winners Corner brand is owned by Jackpocket and operates as a licensed lottery retailer in various states. Number one lottery app based on iOS download data collected by Sensor Tower.
 
-* [Terms of Service](https://jackpocket.com/tos/)
-* [Privacy Policy](https://jackpocket.com/privacy/)
-* [State Fundraising Notices](https://jackpocket.com/tos/our-change-foundation/)
-* [Accessibility Statement](https://jackpocket.com/accessibility/)
-* [](https://www.levelaccess.com/a/jackpocket/)
-
-### Try Jackpocket for free
-
-Scan this QR code with your phone's camera to download the Jackpocket app.
-
-![QR Code](https://7j66bvtd.media.zestyio.com/get_the_app_qr_code.png)
-
-Or just visit jackpocket.com on your mobile device to download.
+[Terms of Service](https://jackpocket.com/tos)[Privacy Policy](https://jackpocket.com/privacy)[Accessibility Statement](https://jackpocket.com/accessibility)[State Fundraising Notices](https://jackpocket.com/tos/our-change-foundation)
