@@ -172,8 +172,6 @@ Share this page
 * [LinkedIn](# "share link with linked in")
 * [Twitter](# "share link with twitter")
 
-[Start of content](#)
-
 [petitions](https://petitions.ourcommons.ca/petitions)
 
 * [Search](https://petitions.ourcommons.ca/petitions/en/Petition/Search)
@@ -182,8 +180,6 @@ Share this page
 * [Contact](https://petitions.ourcommons.ca/petitions/en/Home/Contact)
 
 * [Sign In](https://petitions.ourcommons.ca/petitions/en/Account/Login)
-
-Start of content
 
 ELECTRONIC PETITIONS – GUIDE AND TERMS OF USE
 =============================================
