@@ -1,11 +1,12 @@
-Menu [![BFMTV](/assets/v5/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
+Menu [![BFMTV](/assets/v6/images/BFMTV-header.030eba2d277d5b5fc0df00daebd9ff70.svg "BFMTV")](https://www.bfmtv.com/ "BFMTV")
 
-[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v5/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
+[Replay](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay")[![Direct Radio](/assets/v6/images/radio.dee6a7c951465a8cbb208e64f4c09ff6.svg)
 
-Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v5/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
+Radio](https://www.bfmtv.com/en-direct/bfm-radio/ "Direct Radio")[![Direct tv](/assets/v6/images/direct_tv.a04f54365fdb12eef5ce900c03db08d4.svg)
 
 DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 
+*  [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Politique](https://www.bfmtv.com/politique/ "Politique")
 * [Police-Justice](https://www.bfmtv.com/police-justice/ "Police-Justice")
@@ -13,7 +14,6 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Société](https://www.bfmtv.com/societe/ "Société")
 * [Économie](https://www.bfmtv.com/economie/ "Économie")
 * [Tech](https://www.bfmtv.com/tech/ "Tech")
-* [Auto](https://www.bfmtv.com/auto/ "Auto")
 * [Sport](https://rmcsport.bfmtv.com/ "Sport")
 * [Santé](https://www.bfmtv.com/sante/ "Santé")
 * [People](https://www.bfmtv.com/people/ "People")
@@ -22,17 +22,23 @@ DirectTV](https://www.bfmtv.com/en-direct/ "Direct tv")
 * [Newsletters](https://www.bfmtv.com/newsletters/ "Newsletters")
 * [Code promo](https://www.bfmtv.com/code-promo/ "Code promo")
 
-[![Regarder le direct](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
+[![Regarder le direct](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg)
 
 Regarder le direct](https://www.bfmtv.com/en-direct/ "Regarder le direct")
 
-![Écouter la radio](/assets/v5/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
+![Écouter la radio](/assets/v6/images/BFM-Radio.2afb246578899c5f8d87d1f216c22953.svg)
 
 Écouter la radio
 
-[![Replay BFMTV](/assets/v5/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
+[![Replay BFMTV](/assets/v6/images/RMC-BFM-Play-radio.62cafa0ab4419da4ac6039b204f52a3e.svg)
 
 Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rmcgo_home_bfmtv "Replay BFMTV")
+
+À la une
+
+* [JO Paris 2024](https://rmcsport.bfmtv.com/jeux-olympiques/ "JO Paris 2024")
+
+Parcourir
 
 * [Vidéos](https://www.bfmtv.com/videos/ "Vidéos")
 * [Émissions](https://www.bfmtv.com/replay-emissions/ "Émissions")
@@ -62,16 +68,16 @@ BFM Régions
 
 Précédent
 
-* [![BFM Paris IDF](/assets/v5/images/Pastille_nav_Paris.ba9d0f215aa5c8585dca98cd6342bce6.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
-* [![BFM Marseille](/assets/v5/images/Pastille_nav_Marseille.70134d30153853c59269388107e85c2e.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
-* [![BFM Lyon](/assets/v5/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
-* [![BFM Lille](/assets/v5/images/Pastille_nav_GrandLille.e4871ac139e03ab9b038231e61d5a931.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
-* [![BFM Littoral](/assets/v5/images/Pastille_nav_GrandLittoral.36b5c41c02a0a3fa12ea0f3fbb7164cb.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
-* [![BFM DICI](/assets/v5/images/Pastille_nav_DICI.a467ebae031cbe9c7bae57a89ab11f14.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
-* [![BFM Var](/assets/v5/images/Pastille_nav_Var.a0496df25a5e9d14cb62692fa2e20fb5.svg)](https://www.bfmtv.com/var/ "BFM Var")
-* [![BFM Côte d'Azur](/assets/v5/images/Pastille_nav_Nice.801f32ab6b349a1c0bca1559da5d2d33.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
-* [![BFM Alsace](/assets/v5/images/Pastille_nav_Alsace.90de4ea87417683f49c8fa3575bb572f.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
-* [![BFM Normandie](/assets/v5/images/Pastille_nav_Normandie.a5a3c5a27b813f589050ec8d6a83dd16.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
+* [![BFM Paris IDF](/assets/v6/images/Pastille_nav_Paris.ba9d0f215aa5c8585dca98cd6342bce6.svg)](https://www.bfmtv.com/paris/ "BFM Paris IDF")
+* [![BFM Marseille](/assets/v6/images/Pastille_nav_Marseille.70134d30153853c59269388107e85c2e.svg)](https://www.bfmtv.com/marseille/ "BFM Marseille")
+* [![BFM Lyon](/assets/v6/images/Pastille_nav_Lyon.2476b5ad68ee714438b8a95ba338ddbc.svg)](https://www.bfmtv.com/lyon/ "BFM Lyon")
+* [![BFM Lille](/assets/v6/images/Pastille_nav_GrandLille.e4871ac139e03ab9b038231e61d5a931.svg)](https://www.bfmtv.com/grand-lille/ "BFM Lille")
+* [![BFM Littoral](/assets/v6/images/Pastille_nav_GrandLittoral.36b5c41c02a0a3fa12ea0f3fbb7164cb.svg)](https://www.bfmtv.com/grand-littoral/ "BFM Littoral")
+* [![BFM DICI](/assets/v6/images/Pastille_nav_DICI.a467ebae031cbe9c7bae57a89ab11f14.svg)](https://www.bfmtv.com/bfm-dici/ "BFM DICI")
+* [![BFM Var](/assets/v6/images/Pastille_nav_Var.a0496df25a5e9d14cb62692fa2e20fb5.svg)](https://www.bfmtv.com/var/ "BFM Var")
+* [![BFM Côte d'Azur](/assets/v6/images/Pastille_nav_Nice.801f32ab6b349a1c0bca1559da5d2d33.svg)](https://www.bfmtv.com/cote-d-azur/ "BFM Côte d'Azur")
+* [![BFM Alsace](/assets/v6/images/Pastille_nav_Alsace.90de4ea87417683f49c8fa3575bb572f.svg)](https://www.bfmtv.com/alsace/ "BFM Alsace")
+* [![BFM Normandie](/assets/v6/images/Pastille_nav_Normandie.a5a3c5a27b813f589050ec8d6a83dd16.svg)](https://www.bfmtv.com/normandie/ "BFM Normandie")
 
 Suivant
 
@@ -102,7 +108,7 @@ Rubriques
 
 Suivez-nous sur
 
-[](https://www.facebook.com/BFMTV "Facebook")[](https://twitter.com/bfmtv "Twitter") [![Instagram](/assets/v5/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v5/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v5/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v5/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
+[](https://www.facebook.com/BFMTV "Facebook")[](https://twitter.com/bfmtv "Twitter") [![Instagram](/assets/v6/images/instagram.6a7fd7797c667fbd899cd2a960baf714.svg)](https://www.instagram.com/bfmtv/?hl=fr "Instagram")[](https://www.youtube.com/c/Bfmtv-actu/videos "Youtube")[](https://fr.linkedin.com/company/bfmtv/ "Linkedin") [![Newsletters](/assets/v6/images/newsletter.3977615e993db64e69a0a169632178b9.svg)](https://www.bfmtv.com/newsletters/ "Newsletters")[![IOS](/assets/v6/images/apple.e139f47f38d27653ceffcdd25f755d51.svg)](https://app.adjust.com/2dnslix "IOS")[![Android](/assets/v6/images/android.1f1231e1f7b43ca8c61115c3a81a4529.svg)](https://app.adjust.com/dsokfy1 "Android")
 
 Les sites du groupe
 
@@ -112,7 +118,7 @@ Précédent
 * BFM Régions
 * BFM Bourse
 * Tech&Co
-*  ![Iconic Business](/assets/v5/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
+*  ![Iconic Business](/assets/v6/images/BFM-iconic-business-menu.6fef2e09b7e6a3a4855e7a6f10f328e4.svg) Iconic Business
 * RMC
 * RMC Sport
 * RMC Conso
@@ -322,17 +328,17 @@ _Date dernière mise à jour : Juin 2024_
 Les plus lus
 ------------
 
-1. [![Le Rassemblement national, le Front populaire et Ensemble pour la République sont les trois principaux blocs en lice pour obtenir une majorité à l'Assemblée lors des élections législatives des 30 juin et 7 juillet.](https://images.bfmtv.com/OD4XOm26JmYJMcDTxQaE_m9_Dd0=/0x0:1920x1080/300x0/images/RN-NFP-Ensemble-Legislatives-1888204.jpg)
+1. [![L'Assemblée, le 8 juillet 2024 à Paris](https://images.bfmtv.com/zG5mgI8MSIZhNpWjI_wUW5os5uQ=/0x40:768x472/300x0/images/L-Assemblee-le-8-juillet-2024-a-Paris-1900768.jpg)
     
-    ![Le Rassemblement national, le Front populaire et Ensemble pour la République sont les trois principaux blocs en lice pour obtenir une majorité à l'Assemblée lors des élections législatives des 30 juin et 7 juillet.](https://images.bfmtv.com/OD4XOm26JmYJMcDTxQaE_m9_Dd0=/0x0:1920x1080/300x0/images/RN-NFP-Ensemble-Legislatives-1888204.jpg)
+    ![L'Assemblée, le 8 juillet 2024 à Paris](https://images.bfmtv.com/zG5mgI8MSIZhNpWjI_wUW5os5uQ=/0x40:768x472/300x0/images/L-Assemblee-le-8-juillet-2024-a-Paris-1900768.jpg)
     
-    ### Smic à 1.600 euros, baisse de la TVA… Combien coûtent les promesses électorales des trois grands blocs?](https://www.bfmtv.com/economie/economie-social/smic-a-1-600-euros-baisse-de-la-tva-combien-coutent-les-promesses-electorales-des-trois-grands-blocs_AV-202406200791.html "Smic à 1.600 euros, baisse de la TVA… Combien coûtent les promesses électorales des trois grands blocs?")
-2. [### "Va à la niche": indignation à gauche après des images d'une femme subissant le racisme de ses voisins partisans du RN](https://www.bfmtv.com/politique/elections/legislatives/va-a-la-niche-divine-filmee-subissant-le-racisme-de-ses-voisins-partisans-du-rn-la-gauche-s-insurge_AN-202406210050.html ""Va à la niche": indignation à gauche après des images d'une femme subissant le racisme de ses voisins partisans du RN")
-3. [### "Les mêmes symptômes": de nouvelles intoxications dans la Marne où le mystère reste entier](https://www.bfmtv.com/sante/ce-sont-toujours-les-memes-symptomes-de-nouvelles-intoxications-dans-la-marne-le-mystere-reste-entier_AV-202406210243.html ""Les mêmes symptômes": de nouvelles intoxications dans la Marne où le mystère reste entier")
-4. [### "Les touristes, on leur vend plus cher": les dealers marseillais veulent tirer profit des Jeux olympiques](https://www.bfmtv.com/marseille/les-touristes-on-leur-vend-plus-cher-les-dealers-marseillais-veulent-tirer-profit-des-jeux-olympiques_AN-202406210104.html ""Les touristes, on leur vend plus cher": les dealers marseillais veulent tirer profit des Jeux olympiques")
-5. [### Euro 2024: le masque bleu-blanc-rouge de Mbappé ne devrait pas être validé par l'UEFA... mais les Bleus ont d'autres solutions](https://rmcsport.bfmtv.com/football/euro/euro-2024-le-masque-bleu-blanc-rouge-de-mbappe-ne-devrait-pas-etre-valide-par-l-uefa-mais-les-bleus-ont-d-autres-solutions_AV-202406200985.html "Euro 2024: le masque bleu-blanc-rouge de Mbappé ne devrait pas être validé par l'UEFA... mais les Bleus ont d'autres solutions")
+    ### Député, président, questeur... Combien gagnent les parlementaires?](https://www.bfmtv.com/economie/economie-social/france/depute-president-questeur-combien-gagnent-les-parlementaires_AV-202407180053.html "Député, président, questeur... Combien gagnent les parlementaires?")
+2. [### Victimes, conducteur interpellé...Ce que l'on sait après qu'un automobiliste a foncé sur la terrasse d'un restaurant à Paris](https://www.bfmtv.com/paris/victimes-conducteur-interpelle-ce-que-l-on-sait-du-drame-survenu-sur-la-terrasse-d-un-restaurant-a-paris_AV-202407170841.html "Victimes, conducteur interpellé...Ce que l'on sait après qu'un automobiliste a foncé sur la terrasse d'un restaurant à Paris")
+3. [### "État amoureux", "relations passagères": lorsque l'Abbé Pierre évoquait son vœu de chasteté](https://www.bfmtv.com/societe/religions/etat-amoureux-relations-passageres-lorsque-l-abbe-pierre-evoquait-son-v-u-de-chastete_AV-202407180061.html ""État amoureux", "relations passagères": lorsque l'Abbé Pierre évoquait son vœu de chasteté")
+4. [### Pansement sur l'oreille, poing levé… Les nouveaux signes de ralliement des militants pro-Trump](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/pansement-sur-l-oreille-poing-leve-les-nouveaux-signes-de-ralliement-des-militants-pro-trump_AV-202407180206.html "Pansement sur l'oreille, poing levé… Les nouveaux signes de ralliement des militants pro-Trump")
+5. [### Une "chaleur notable" s'installe en France en fin de semaine](https://www.bfmtv.com/meteo/une-chaleur-notable-s-installe-en-france-en-fin-de-semaine_AV-202407170607.html "Une "chaleur notable" s'installe en France en fin de semaine")
 
-![BFMTV](/assets/v5/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
+![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
 première sur l'info
 
