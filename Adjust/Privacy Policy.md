@@ -1,4 +1,4 @@
-[AdAttributionKit replaces SKAdNetwork? Get the details.](https://www.adjust.com/blog/adattributionkit/) [AdAttributionKit explained: Apple's new framework!](https://www.adjust.com/blog/adattributionkit/)
+[Lorem ipsum dolor sit amet, consectetur adipiscing elit.](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/) [Download Japan app trends 2024](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/)
 
 [![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
 
