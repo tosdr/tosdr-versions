@@ -8,7 +8,7 @@
 
 [search](#searchbox)
 
-[Menu](#sidewidgetarea)
+[Menu](#slide-out-widget-area)
 
 * [ABOUT](https://www.hitn.org/)
     * [–](#)
@@ -27,7 +27,7 @@
 * [Español](https://www.hitn.org/es/politica-de-privacidad/ "Español")
 * [search](#searchbox)
     
-* [Menu](#sidewidgetarea)
+* [Menu](#slide-out-widget-area)
     
 
 * [twitter](https://www.twitter.com/hitn/) [facebook](https://www.facebook.com/HITNtv/) [youtube](https://www.youtube.com/hitntelevision/) [instagram](https://www.instagram.com/hitntv/)
