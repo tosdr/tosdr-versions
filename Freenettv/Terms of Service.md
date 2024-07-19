@@ -10,7 +10,7 @@ Menü
 * [Hilfecenter](https://www.freenet.tv/hilfe "Gehe zu den Hilfeseiten von freenet TV")
 * [Shop](https://www.freenet.tv/shop "Gehe zum Online-Shop von freenet TV")
 
-* [Mein Konto](https://www.freenet.tv/meinkonto "Registrieren oder Anmelden")
+* [Mein Konto](https://www.freenet.tv/mein-konto "Registrieren oder Anmelden")
 * [Warenkorb](https://www.freenet.tv/shop "Gehe zum Shop")
     
     ### Zum Warenkorb hinzugefügt
@@ -183,9 +183,9 @@ Version vom 01.08.2021
     4. Der Käufer hat die reklamierte Ware ordnungsgemäß und vollständig inklusive aller gelieferten Teile und Zubehörteile, wenn möglich originalverpackt, an folgende Adresse zurückzuschicken:
         
         freenet Logistik GmbH  
-        freenet TV  
-        Gewerbestraße 7  
-        16727 Oberkrämer
+        c/o Media Broadcast GmbH  
+        Fehmernstraße 2  
+        24782 Büdelsdorf
         
         Der Kunde trägt die unmittelbaren Kosten der Rücksendung der Waren. Wendet er sich jedoch telefonisch an den Kundenservice der MB (Telefonnummer und Erreichbarkeit unter [www.freenet.tv/kontakt](https://www.freenet.tv/kontakt)), erhält der Kunde eine E-Mail mit einem Link, über den er ein für ihn kostenloses DHL Retourenlabel erstellen, ausdrucken und für die Rücksendung verwenden kann; in diesem Fall trägt der Kunde für die Rücksendung keine Portokosten.  
         Um eine reibungslose Bearbeitung zu gewährleisten, ist der Rücksendung der Ware eine Kopie der Rechnung/ des Lieferscheines und eine detaillierte Fehlerbeschreibung beizufügen. Für aufgrund nicht ordnungsgemäßer Verpackung durch den Käufer verursachte Schäden kann eine Haftung nicht übernommen werden.
@@ -290,9 +290,9 @@ Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von 
 Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an
 
 freenet Logistik GmbH  
-freenet TV  
-Gewerbestraße 7  
-16727 Oberkrämer  
+c/o Media Broadcast GmbH  
+Fehmernstraße 2  
+24782 Büdelsdorf  
 zurückzusenden oder zu übergeben.
 
 Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.
