@@ -1,6 +1,6 @@
-[GET THE LATEST G2 COMPARISON REPORT
+[TRY THE FASTEST PROTECTIVE DNS SOLUTION TODAY
 
-COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
+START FREE TRIAL](https://www.dnsfilter.com/free-trial)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
@@ -39,6 +39,7 @@ COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
     * [API Documentation](http://apidocs.dnsfilter.com/)
     * [Blog](https://www.dnsfilter.com/blog)
     * [Webinars](https://www.dnsfilter.com/resources/webinars)
+    * [dnsUNFILTERED](https://www.dnsfilter.com/resources/dnsunfiltered)
     * [Events](https://www.dnsfilter.com/events)
     * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
@@ -92,6 +93,7 @@ COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
     * [API Documentation](http://apidocs.dnsfilter.com/)
     * [Blog](https://www.dnsfilter.com/blog)
     * [Webinars](https://www.dnsfilter.com/resources/webinars)
+    * [dnsUNFILTERED](https://www.dnsfilter.com/resources/dnsunfiltered)
     * [Events](https://www.dnsfilter.com/events)
     * [Help Center](https://help.dnsfilter.com/hc/en-us?_gl=1*1g8fbu4*_ga*ODA5MDI4OTU3LjE2ODAyMzcyNTA.*_ga_MMR27NNV7M*MTY4MDQ5MjEyMy42LjEuMTY4MDUwMDE2OC4wLjAuMA..)
     * [Newsroom](https://www.dnsfilter.com/newsroom)
@@ -110,44 +112,64 @@ COMPARE NOW](https://explore.dnsfilter.com/g2-comparison-report)
 
 [![Book a Demo](https://no-cache.hubspot.com/cta/default/23609470/d1cf6edb-b5f7-488f-bbcc-ca0507322f6f.png)](https://cta-redirect.hubspot.com/cta/redirect/23609470/d1cf6edb-b5f7-488f-bbcc-ca0507322f6f)
 
-WHISTLEBLOWER POLICY
-====================
+DNSFILTER LEGAL HUB
+===================
 
-DNSFilter requires all its directors, officers, employees, and contractors to observe the highest standards of business and ethics while conducting their duties and responsibilities as outlined in our Ethics Code. As employees and representatives of DNSFilter, we must practice honesty and integrity in fulfilling all our responsibilities and complying with all applicable laws and regulations.
+At DNSFilter, we prefer to do things the right way. We care an awful lot about your security, and we prefer to be transparent about what we do and why we do it. We also care a lot about our own security, because _protecting us_ means _protecting_ _you_ \- and sometimes that involves reading the fine print.  
+‍  
+Here’s everything our attorneys asked us to share with you.
 
-#### Reporting Responsibility
+ [](https://www.dnsfilter.com/compliance-policy)
 
-It is the responsibility of all directors, officers, contractors, and employees to report concerns about violations of DNSFilter’s Ethics Code or suspected violations of law or regulations that govern DNSFilter’s operations. This Whistleblower Policy is intended to encourage and enable employees and others to raise ethical and other serious concerns internally so that DNSFilter can address and correct inappropriate conduct and actions.
+[](https://www.dnsfilter.com/compliance-policy)[ACCEPTABLE USE POLICY 🡲](https://www.dnsfilter.com/acceptable-use-policy)
 
-#### No Retaliation
+[DATA PROCESSING ADDENDUM](https://www.dnsfilter.com/data-processing-addendum) [🡲](https://www.dnsfilter.com/compliance-policy)
 
-It is contrary to the values of DNSFilter for anyone to retaliate against any director, officer, contractor, or employee who makes a good-faith report of an ethics violation, or a suspected violation of law.
+[PRIVACY POLICY 🡲](https://www.dnsfilter.com/privacy-policy)
 
-Any whistleblower who believes he/she is being retaliated against must contact the VP - Human Resources immediately. The right of a whistleblower for protection against retaliation does not include immunity for any personal wrongdoing that is alleged and investigated.An employee who retaliates against someone who has reported a violation in good faith is subject to disciplinary action up to and including termination of employment.
+[RESPONSIBLE DISCLOSURE POLICY 🡲](https://www.dnsfilter.com/responsible-disclosure-policy)
 
-#### Reporting Procedure
+[TERMS OF SERVICE 🡲](https://www.dnsfilter.com/terms-of-service)
 
-DNSFilter has an open-door policy and suggests that employees share their questions, concerns, suggestions, or complaints with their supervisor. If you are not comfortable speaking with your supervisor or you are not satisfied with your supervisor’s response, you are encouraged to follow the chain of command or speak with another member of the Executive Team. Alternatively, you may submit an [Whistleblower Complaint Form](https://docs.google.com/forms/d/1bY_rkKnW-cgr9GoJFgmAWvJaO9SXEa4pwmjdmVGZL6k/edit?ts=62742230) (may be completed anonymously).
+[THIRD PARTY SOFTWARE LICENSE ATTRIBUTION 🡲**‍**](https://www.dnsfilter.com/third-party-license-attribution)
 
-Supervisors and managers are required to report complaints or concerns about suspected ethical and legal violations in writing to [legal@dnsfilter.com](mailto:legal@dnsfilter.com). DNSFilter’s Legal Department is responsible for ensuring that all complaints about unethical or illegal conduct are investigated and resolved.
+[CONTACT LEGAL](mailto:Legal@dnsfilter.com)
 
-Individuals who do not feel comfortable reporting their concerns internally are encouraged to contact their state’s Attorney General’s office to report their concerns.
+![634db28f1c7895334c1ab7c1_woman-smartphone 3](https://www.dnsfilter.com/hs-fs/hubfs/634db28f1c7895334c1ab7c1_woman-smartphone%203.png?width=765&height=1080&name=634db28f1c7895334c1ab7c1_woman-smartphone%203.png)
 
-#### Acting in Good Faith
+Join over 15,000 brands that trust DNSFilter  
+to keep them secure
+------------------------------------------------------------------
 
-Anyone filing a complaint concerning a violation or suspected violation must be acting in good faith and have reasonable grounds for believing the information disclosed indicates a violation. Any allegations which have been made maliciously or while knowing such allegations to be false may be viewed as a serious disciplinary offense.
+![Usarmy](https://www.dnsfilter.com/hubfs/usarmysvg.svg)
 
-#### Confidentiality
+![Belgioioso](https://www.dnsfilter.com/hs-fs/hubfs/belgioioso--whitelogo.png?width=306&height=150&name=belgioioso--whitelogo.png)
 
-Any person submitting a report may choose to do so on an anonymous basis. Reports of violations or suspected violations will be kept confidential to the extent possible, consistent with the need to conduct an adequate investigation.
+![nvidia](https://www.dnsfilter.com/hubfs/nvidia.svg)
 
-#### Handling of Reported Violations
+![Oetker-collection](https://www.dnsfilter.com/hs-fs/hubfs/oetker-collection-logo-white-p-500.png?width=500&height=271&name=oetker-collection-logo-white-p-500.png)
 
-DNSFilter will acknowledge receipt of the reported violation or suspected violation. All reports will be promptly investigated, and appropriate corrective action will be taken if warranted by the investigation.
+![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
-#### **Contact Us**
+[![Traversing the World of AI with Judy Security](https://www.dnsfilter.com/hs-fs/hubfs/blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp?width=500&height=190&name=blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp)
 
-If you have any questions about this policy, please email [HR@dnsfilter.com](mailto:HR@dnsfilter.com)
+Posted on June 28, 2024 by Anvesha Tiwary
+
+ **
+
+Traversing the World of AI with Judy Security
+
+**](https://www.dnsfilter.com/blog/traversing-the-world-of-ai-with-judy-security)
+
+[![Exploring the Security of Free Public Wi-Fi with eero](https://www.dnsfilter.com/hs-fs/hubfs/blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp?width=500&height=190&name=blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp)
+
+Posted on June 26, 2024 by Anvesha Tiwary
+
+ **
+
+Exploring the Security of Free Public Wi-Fi with eero
+
+**](https://www.dnsfilter.com/blog/exploring-the-security-of-free-public-wi-fi-with-eero)
 
 [![Why Securing Public Wi-Fi is More Important Than Ever](https://www.dnsfilter.com/hs-fs/hubfs/blog_whysecuringpublicwi_fiismoreimportantthanever1.webp?width=500&height=190&name=blog_whysecuringpublicwi_fiismoreimportantthanever1.webp)
 
@@ -158,26 +180,6 @@ Posted on June 17, 2024 by Anvesha Tiwary
 Why Securing Public Wi-Fi is More Important Than Ever
 
 **](https://www.dnsfilter.com/blog/why-securing-public-wi-fi-is-more-important-than-ever)
-
-[![DNS Endpoint Security Management: Protecting Your Network's Frontline](https://www.dnsfilter.com/hs-fs/hubfs/blog_dnsendpointsecuritymanagementprotectingyournetworksfrontline1.webp?width=500&height=190&name=blog_dnsendpointsecuritymanagementprotectingyournetworksfrontline1.webp)
-
-Posted on June 14, 2024 by Kory Underdown
-
- **
-
-DNS Endpoint Security Management: Protecting Your Network's Frontline
-
-**](https://www.dnsfilter.com/blog/understanding-endpoint-management-security-services)
-
-[![An Interview With DNSFilter’s New CTO, TK Keanini](https://www.dnsfilter.com/hs-fs/hubfs/blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp?width=500&height=190&name=blog_aninterviewwithdnsfilter%E2%80%99snewcto_tkkeanini1.webp)
-
-Posted on June 10, 2024 by Serena Raymond
-
- **
-
-An Interview With DNSFilter’s New CTO, TK Keanini
-
-**](https://www.dnsfilter.com/blog/cto-tk-keanini-interview)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
