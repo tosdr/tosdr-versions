@@ -504,7 +504,7 @@ There are no third-party beneficiaries under this Agreement.
 | **1.1** | 2023-11-29 | * Updated link to Upsun documentation. |
 | **1.2** | 2024-05-13 | * Highlighting up-to-date billing information required. |
 
-[](https://github.com/platformsh)[](https://twitter.com/platformsh)[](https://www.linkedin.com/company/platformsh)[](https://www.facebook.com/platform.sh/)[](https://www.youtube.com/channel/UCkFKfPy8Cqpuv4Iif6UNuow)
+[](https://github.com/platformsh)[](https://x.com/platformsh)[](https://www.linkedin.com/company/platformsh)[](https://www.facebook.com/platform.sh/)[](https://www.youtube.com/channel/UCkFKfPy8Cqpuv4Iif6UNuow)
 
 [![Leader Winter 2023](/static/b50094c0c8e00fa563f85bf071f8b10c/medal_2_727a7d9bd6.png)](https://www.g2.com/products/platform-sh/reviews?utm_source=rewards-badge)
 
