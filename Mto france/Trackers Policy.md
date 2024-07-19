@@ -46,7 +46,7 @@ PUBLIC - Menu principal
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias, les futurs du climat")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/ "DRIAS, les futurs de l'eau")
         * [Climadiag Commune](https://meteofrance.com/le-changement-climatique/climadiag-commune "Climadiag Commune")
-        * [Climadiag Chaleur en ville](https://services.meteofrance.com/changement-climatique/ilot-de-chaleur-urbain)
+        * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
         * [Climat HD](https://meteofrance.com/climathd "Climat HD")
     * [Comprendre le climat](https://meteofrance.com/comprendre-climat "Comprendre le climat")
@@ -118,7 +118,7 @@ PUBLIC - Menu burger
         * [DRIAS, les futurs du climat](http://www.drias-climat.fr/ "Drias")
         * [DRIAS-Eau, les futurs de l'eau](https://www.drias-eau.fr/)
         * [Climadiag Commune](https://meteofrance.com/climadiag-commune "Climadiag Commune")
-        * [Climadiag Chaleur en ville](https://services.meteofrance.com/changement-climatique/ilot-de-chaleur-urbain)
+        * [Climadiag Chaleur en ville](https://meteofrance.com/le-changement-climatique/climadiag-chaleur-en-ville)
         * [Climadiag Entreprise](https://meteofrance.com/climadiag-entreprise "Climadiag Entreprise")
         * [Climat HD](https://meteofrance.com/climathd "Climat HD")
     * [Comprendre le Climat](https://meteofrance.com/comprendre-climat "Comprendre le Climat")
@@ -202,7 +202,7 @@ Suivez-nous
 Gestion des Cookies
 ===================
 
-20/06/2024
+19/07/2024
 
 Météo-France s'engage à ce que la collecte et le traitement de vos données, effectués à partir de ses sites Internet, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
@@ -253,8 +253,6 @@ Sur ces sites Internet, votre consentement est requis pour l’envoi de publicit
 **Voir la page concernant les** [cookies strictement nécessaires au fonctionnement](https://meteofrance.com/gestion-des-cookies-necessaires-au-fonctionnement)
 
 **Voir la page concernant les** [cookies soumis à votre consentement](https://meteofrance.com/gestion-des-cookies-soumis-consentement)
-
-[![Participez au concours photo l'oeil du climat](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Concours photo l'oeil du climat")](https://www.geo.fr/page/concours-photo-climat)
 
 Top 20 des villes les plus consultées
 
