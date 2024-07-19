@@ -12,7 +12,7 @@ Privacy Policy
 ==============
 
   
-This Privacy Policy was last updated on January 11, 2024.
+This Privacy Policy was last updated on July 17, 2024.
 
 Welcome to the home of Frost Giant Studios!   We’re on a mission to bring you the best in real time strategy games.
 
@@ -136,7 +136,6 @@ If you participate in one of our esports competitions, we may share via API pers
 
 * Steam
 * Epic Online Services
-* Xsolla
 * RallyCry
 * Hathora
 * Brevo
@@ -145,6 +144,9 @@ If you participate in one of our esports competitions, we may share via API pers
 * Sentry.io 
 * Google
 * Easy Anti-Cheat 
+* GGWP
+* Untapped
+* Kakao Games
 
 We authorize such service providers to use or disclose your personal information only as necessary to perform the relevant services on our behalf or to comply with legal obligations. We require our service providers to contractually commit to protecting the security and confidentiality of the personal information they process on our behalf and not use your data for anything other than to provide services on our behalf.
 
