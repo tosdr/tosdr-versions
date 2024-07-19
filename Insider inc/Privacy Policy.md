@@ -19,23 +19,23 @@ Please ensure Javascript is enabled for purposes of [website accessibility](http
 Insider Privacy Policy
 ======================
 
-**Last Updated/Effective Date: May 13, 2024**
+**Last Updated/Effective Date: March 11, 2024**
 
 1\. OVERVIEW
 ------------
 
-Please review this Privacy Policy carefully as it describes how Insider, Inc. d/b/a Business Insider (“Business Insider”) and its affiliates and subsidiaries, including eMarketer, Inc. (“**EMARKETER**,” and collectively with Business Insider the “**Company**”, “**we**”, “**our**”, or “**us**”) collect, use, and disclose information about you when you interact with us online, via our websites and apps, and offline, in person (collectively, the “**Service**”).
+Please review this Privacy Policy carefully as it describes how Insider, Inc. d/b/a Business Insider (“Business Insider”) and its affiliates and subsidiaries, including eMarketer, Inc. (“**EMARKETER**,” and collectively with Business Insider the “**Company**”, “**we**”, “**our**”, or “**us**”) collect, use, and disclose information about you when you interact with us online, via our websites and apps, and offline, in person (collectively, the “**Service**”). 
 
-If you have any questions about our privacy practices, please contact us as set forth in the “Contact Us” section below. If you are a resident of certain jurisdictions, including California, Virginia, Connecticut, Colorado, Utah, and other U.S. States with Similar Privacy Laws, or located in Europe or the United Kingdom, please see the additional disclosures at the end of this Privacy Policy.
+If you have any questions about our privacy practices, please contact us as set forth in the “Contact Us” section below. If you are a resident of certain jurisdictions, including California, Virginia, Connecticut, Colorado, Utah, Texas, Oregon, and other U.S. States with Similar Privacy Laws, or located in Europe or the United Kingdom, please see the additional disclosures at the end of this Privacy Policy. 
 
-To learn more about our privacy practices with respect to personal information collected by Business Insider and EMARKETER for employment-related purposes, please refer to our **Business Insider Employee Privacy Policy** and **EMARKETER Employee Privacy Policy**, respectively. Our Service is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age
+To learn more about our privacy practices with respect to personal information collected by Business Insider and EMARKETER for employment-related purposes, please refer to our **Business Insider Employee Privacy Policy** and **EMARKETER Employee Privacy Policy**, respectively. Our Service is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
 If you have a disability and would like to access this Privacy Policy in an alternative format, please review the **Insider Inc. Accessibility Statement**.
 
 2\. INFORMATION COLLECTION
 --------------------------
 
-For purposes of this Privacy Policy, “personal information” means information that relates to an identified or identifiable individual. Depending on how you interact with our Service, this may include collection and processing of personal information including, but not limited to, the categories and types of personal information listed below.
+For purposes of this Privacy Policy, “personal information” means information that relates to an identified or identifiable individual, household, and/or, depending on your state of residence, device. Depending on how you interact with our Service, this may include collection and processing of personal information including, but not limited to, the categories and types of personal information listed below. 
 
 **INFORMATION YOU PROVIDE**
 
@@ -134,7 +134,7 @@ To conduct internal business purposes, including for data analysis, audits, and 
 
 To enhance and personalize our website, products and our marketing efforts;
 
-To develop and serve advertisements on our Service or through e-mails or other communications; and
+To develop and serve advertisements on our website or through e-mails or other communications; and
 
 To conduct marketing research.
 
@@ -183,7 +183,7 @@ In some cases, we may use an unaffiliated payment service to allow you to purcha
 
 ### Vendors and Other Parties
 
-We may disclose personal information to vendors and other parties, for business and commercial purposes, including analytics and advertising technology companies that measure and improve our service, advertising effectiveness and enable other enhancements on our website. Our app does not disclose personal information to vendors and other parties for purposes of targeted advertising or advertising measurement purposes. Vendors or such other parties may act as our Service Providers, or in certain contexts, independently decide how to process your information. For more information on practices related to advertising and analytics, see the “Analytics and Advertising Technology” section below.
+We may disclose personal information to vendors and other parties, for business and commercial purposes, including analytics and advertising technology companies that measure and improve our service, advertising effectiveness and enable other enhancements on our website. Our app does not disclose personal information to vendors and other parties for purposes of targeted advertising or advertising measurement purposes. Vendors or such other parties may act as our Service Providers, or in certain contexts, independently decide how to process your information.  For more information on practices related to advertising and analytics, see the “Analytics and Advertising Technology” section below.
 
 ### Compliance with Laws, Legal Process, and Authorities
 
@@ -227,9 +227,9 @@ We are not responsible for and make no representations regarding the policies or
 
 Our Service may contain tracking technologies owned and operated by other parties. For example, we use tracking technologies from analytics services, for example Google Analytics, to help us understand how users access and use the Service. Our app does not use these technologies for targeted advertising or advertising measurement purposes.
 
-We may also work with ad networks, advertisers, agencies, and other technology services to place advertisements on our website and/or other websites and services. These parties may set and access cookies and other technologies on your personal computer and/or device and track certain behavioral information regarding users of your personal computer and/or device. As noted above, these website cookies and other technologies are set to, among other things: (a) track your activities across time and services for purposes of measuring conversions or actions you take, associating different devices you use, and serving ads and/or other content targeted to your interests (“**Interest-based Advertising**”); (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you.
+We may also work with ad networks, advertisers, agencies, and other technology services to place advertisements on our website and/or other websites and services. These parties may set and access cookies and other technologies on your personal computer and/or device and track certain behavioral information regarding users of your personal computer and/or device. As noted above, these website cookies and other technologies are set to, among other things: (a) track your activities across time and services for purposes of measuring conversions or actions you take, associating different devices you use, and serving ads and/or other content targeted to your interests (“**Interest-based Advertising**”); (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. 
 
-We may also use audience matching services (which is a type of Interest-Based Advertising) to reach people (or similar audiences) who have visited our website or are identified in one or more of our databases. For example, we may disclose hashed email addresses to an ad partner to determine if there are common matching factors between our data and their data in order to serve you more personalized ads.
+We may also use audience matching services (which is a type of Interest-Based Advertising) to reach people (or similar audiences) who have visited our website or are identified in one or more of our databases. For example, we may disclose hashed email addresses to an ad partner to determine if there are common matching factors between our data and their data in order to serve you more personalized ads. 
 
 As discussed above, vendors and ad partners may act as our Service Providers, or in certain contexts, independently decide how to process your information. We encourage you to familiarize yourself with and consult their privacy policies and terms of use. For further information on your choices regarding these third party tracking technologies, please see the section entitled “Your Advertising Choices” below.
 
@@ -246,11 +246,15 @@ Your browser settings may allow you to automatically transmit a “Do Not Track�
 
 ### Analytics and Advertising Tracking Technologies
 
-You may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout and downloading the Google Analytics Opt-out Browser Add-on.
+ou may exercise choices regarding the use of cookies from Google Analytics by going to https://tools.google.com/dlpage/gaoptout and downloading the Google Analytics Opt Out Browser Add-on.
 
-Some of the advertisers and vendors that perform advertising-related services for us and our partners participate in the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit http://www.aboutads.info/choices, and http://www.aboutads.info/appchoices for information on the DAA’s opt-out program for mobile applications. Some of these companies are also members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see http://www.networkadvertising.org/choices/.
+Some of the advertisers and vendors that perform advertising-related services for us and our partners participate in the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit http://www.aboutads.info/choices, and http://www.aboutads.info/appchoices for information on the DAA’s opt out program for mobile applications. Some of these companies are also members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt out options for their members, see http://www.networkadvertising.org/choices/. 
 
-Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Business Insider is not responsible for effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
+Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Business Insider is not responsible for effectiveness of, or compliance with, any third parties’ opt out options or programs or the accuracy of their statements regarding their programs.
+
+Additionally, we may collaborate with our service providers and identity partners ("Identity Resolution Partners") to deliver targeted advertising and identify the different devices and browsers you may use to access our Services. We and our Identity Resolution Partners may facilitate identity resolution by creating probabilistic and deterministic identifiers. These identifiers may use personal information, including your name, email address, phone number, and Activity Information to generate an online identifier reasonably linkable to you and/or your device or browser. For example, we may disclose hashed email address, phone number, or other information about your device to our Identity Resolution Partners, whom may, in turn, return an online identifier that we may store in a first party cookie or similar technology and disclose to our advertising partners to provide you a more personalized advertising experience. These identifiers also help us with fraud detection and security, enforce our Terms of Service, among other things. We are not responsible for the privacy practices of our Identity Resolution Partners, which are separate from our own and not covered by this Privacy Policy. 
+
+You may have additional rights related to these technologies depending on you
 
 ### Communications
 
@@ -258,7 +262,7 @@ If you decide at any time that you no longer wish to receive newsletters or prom
 
 ### Other Rights Specific to Your Location
 
-Residents of certain jurisdictions, including, California, Virginia, Connecticut, Colorado, Utah, other U.S. states with similar privacy laws, the European Economic Area, and the United Kingdom, have specific rights with respect to our collection, use, and disclosure of personal information. Please review our location-specific sections below for more information about those rights.
+Residents of certain jurisdictions, including, California, Virginia, Connecticut, Colorado, Utah, Texas, Oregon, other U.S. states with similar privacy laws, the European Economic Area, and the United Kingdom, have specific rights with respect to our collection, use, and disclosure of personal information. Please review our location-specific sections below for more information about those rights. 
 
 8\. SECURITY AND DATA RETENTION
 -------------------------------
@@ -272,9 +276,9 @@ We will retain your information for the period necessary to fulfill the purposes
 9\. LOCATION OF DATA
 --------------------
 
-Our Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States or in any other country in which we have facilities or in which we engage service providers. The United States and other countries’ data protection laws may not be the same as those in your jurisdiction. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access your personal information..
+Our Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States or in any other country in which we have facilities or in which we engage service providers. The United States and other countries’ data protection laws may not be the same as those in your jurisdiction. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access your personal information.
 
-To the extent that the Company offers products and services to individuals located in the European Economic Area or United Kingdom, or to the extent the Service is deliberately made available to such individuals, please review the section titled “Additional Disclosures for Data Subjects in Europe” below for more information about disclosures and privacy rights associated with that activity.
+To the extent that the Company offers products and services to individuals located in the European Economic Area or United Kingdom, or to the extent the Service is deliberately made available to such individuals, please review the section titled “Additional Disclosures for Data Subjects in Europe” below for more information about disclosures and privacy rights associated with that activity. 
 
 10\. CHANGES TO THIS PRIVACY POLICY
 -----------------------------------
@@ -298,16 +302,16 @@ For EU specific questions, please email us at euprivacy@insider-inc.com.
 
 If you have a disability and would like to access this Privacy Policy in an alternative format, please review the Insider Inc. Accessibility Statement.
 
-12\. ADDITIONAL DISCLOSURES FOR RESIDENTS OF CALIFORNIA, VIRGINIA, COLORADO, CONNECTICUT, UTAH, AND OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS
------------------------------------------------------------------------------------------------------------------------------------------------
+12\. ADDITIONAL DISCLOSURES FOR RESIDENTS OF CALIFORNIA, VIRGINIA, COLORADO, CONNECTICUT, UTAH, TEXAS, OREGON, AND OTHER U.S. STATES WITH SIMILAR PRIVACY LAWS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Depending on where you live, you may have certain additional rights regarding your personal information. This section provides information for consumers residing in California, Virginia, Colorado, Connecticut, and Utah in connection with the laws in those states, and other states with similar privacy laws (“Applicable Laws”). Under these Applicable Laws, and for purposes of this Section, “Personal Data” and/or “Personal Information” generally mean information that identifies, relates to, or describes a resident in one of the Applicable States. Personal information does not include publicly available information; lawfully obtained, truthful information that is a matter of public concern; information that has been deidentified or aggregated; or other information covered by certain sector-specific privacy laws, as consistent with state law. We and our advertising partners use certain Personal Data and/or Personal Information to deliver online advertisements to you on your devices tailored to your interests when you visit our website. This may be considered “sharing” or “selling” under California law, "selling" under Colorado and Connecticut law, and "targeted advertising" under Virginia, Colorado, and Connecticut, and Utah law. This Section provides details about the categories of Personal Data and/or Personal Information of consumers in California, Virginia, Colorado, Connecticut, Utah, and other U.S. states with similar privacy laws that we have collected, disclosed, processed for purposes of targeted advertising, “shared”, or “sold” during the last 12 months, as well as rights consumers have under Applicable Laws.
+Depending on where you live, you may have certain additional rights regarding your personal information. This section provides information for consumers residing in California, Virginia, Colorado, Connecticut, Utah, Texas, and Oregon in connection with the laws in those states, and other states with similar privacy laws (“Applicable Laws”). Under these Applicable Laws, and for purposes of this Section, “Personal Data” and/or “Personal Information” generally mean information that identifies, relates to, or describes a resident in one of the Applicable States and, depending on the state of residency, may also include information that is linkable or linked to a device. Personal information does not include publicly available information; lawfully obtained, truthful information that is a matter of public concern; information that has been deidentified or aggregated; or other information covered by certain sector-specific privacy laws, as consistent with state law. We do not reidentify Personal Data and/or Personal Information that has been deidentified. We and our advertising partners use certain Personal Data and/or Personal Information to deliver online advertisements to you on your devices tailored to your interests when you visit our website. This may be considered “sharing” or “selling” under California law, "selling" under Colorado, Connecticut, Texas, and Oregon law, and "targeted advertising" under Virginia, Colorado, and Connecticut, Utah, Texas, and Oregon law. This Section provides details about the categories of Personal Data and/or Personal Information of consumers in California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, and other U.S. states with similar privacy laws that we have collected, disclosed, processed for purposes of targeted advertising, “shared”, or “sold” during the last 12 months, as well as rights consumers have under Applicable Laws.
 
 Any capitalized term used and not otherwise defined below has the meaning assigned to it in our Privacy Policy.
 
 ### a. Categories of Personal Data and/or Personal Information Collected, Disclosed, “Shared”, “Sold”, or Processed for Targeted Advertising
 
-The categories of Personal Data and/or Personal Information that we collected, disclosed, “shared” (under the California law), processed for purposes of targeted advertising (under the Virginia and Utah laws) or “sold” (under the California, Colorado, and Connecticut laws) are below, along with the purposes for processing, and categories of third parties to whom each category of Personal Data and/or Personal Information was disclosed, “shared”, “sold”, or processed for the purpose of targeted advertising. Please note that we process some categories of Personal Data and/or Personal Information in connection with targeted advertising, which could be considered “sharing” under the California law or “selling” under the California, Colorado, or Connecticut laws. Additionally, depending on your interactions with us, we may not have collected, disclosed, processed, “shared”, processed for purposes of targeted advertising, or “sold”, each (or any) of these categories of Personal Data and/or Information for each listed purpose. Please note, since our mobile application requires a paid subscription after accessing three complementary articles, our mobile application does not sell, share, or process Personal Information and/or Personal Data for targeted advertising purposes. Additionally, we do not knowingly sell or share Personal Data and/or Personal Information of children under 16 years of age.
+The categories of Personal Data and/or Personal Information that we collected, disclosed, “shared” (under the California law), processed for purposes of targeted advertising (under the Virginia and Utah laws) or “sold” (under the California, Colorado, Connecticut, Texas, and Oregon laws) are below, along with the purposes for processing, and categories of third parties to whom each category of Personal Data and/or Personal Information was disclosed, “shared”, “sold”, or processed for the purpose of targeted advertising. Please note that we process some categories of Personal Data and/or Personal Information in connection with targeted advertising, which could be considered “sharing” under the California law or “selling” under the California, Colorado, Connecticut, Texas, or Oregon laws. Depending on how you interact with us, we may not have processed Personal Information about you for each (or any) of these purposes. Please note, since our mobile application requires a paid subscription after accessing three complementary articles, our mobile application does not sell, share, or process Personal Information and/or Personal Data for targeted advertising purposes. Additionally, we do not knowingly sell or share Personal Data and/or Personal Information of children under 16 years of age. 
 
 We have provided detailed descriptions below on the data collection, use, and disclosure practices of our companies depending on which service you use.
 
@@ -324,13 +328,13 @@ We have provided detailed descriptions below on the data collection, use, and di
 | **Professional or employment-related information**, such as job title and company name, size, email address, phone number, postal address, and related information regarding employees and other representatives of our enterprise clients. | Service providers, Company Affiliates, and other providers or partners that support our operational business purposes | AdTech partners; Company Affiliates; advertisers <br><br>For the purpose of targeted advertising | Virginia and Utah: Processed for targeted advertising <br><br> <br><br>Colorado and Connecticut: “Sold” for purposes of targeted advertising |
 | **Inferences drawn from any of the Personal Information listed above** to create a profile or summary about, for example, an individual’s preferences and characteristics | Service providers, Company Affiliates, and other providers or partners that support our operational business purposes | AdTech partners; Company Affiliates; advertisers <br><br>For the purpose of targeted advertising | Virginia and Utah: Processed for targeted advertising <br><br> <br><br>Colorado and Connecticut: “Sold” for purposes of targeted advertising |
 
-Please note that we may process Personal Data and/or Personal Information in each of the above categories in order to protect ours and others’ rights, and/or to complete a merger or sale of assets or other corporate transaction.
+Please note that we may process Personal Data and/or Personal Information in each of the above categories in order to protect ours and others’ rights, and/or to complete a merger or sale of assets or other corporate transaction. Please note that we do not sell Personal Data and/or Personal Information for monetary consideration. 
 
-Under California, Colorado, Virginia, Connecticut, and Utah laws, “sale” (and “share” in California) does not include, for example, the transfer of Personal Data and/or Personal Information as an asset that is part of a merger, bankruptcy, or other similar transaction involving all or any portion of our business.
+Under California, Colorado, Virginia, Connecticut, Utah, Texas, and Oregon laws, “sale” (and “share” in California) does not include, for example, the transfer of Personal Data and/or Personal Information as an asset that is part of a merger, bankruptcy, or other similar transaction involving all or any portion of our business.
 
 ### b. Sources of Collected Personal Information
 
-We collect this Personal Data and/or Personal Information directly from California, Virginia, Colorado, Utah, and Connecticut residents themselves, as well as from social media platforms (e.g., if the individual has connected a social media account to our website); referrals; joint marketing, co-branding, co-promotional, or advertising partners; and sources of demographic and other information, including through devices you used to interact with us through our Services. All sources of personal information collected are noted in the “Information Collection” section above.
+In general, we only collect Personal Data and/or Personal Information that is reasonably necessary for and proportional to the purposes for which we process it. We collect this Personal Data and/or Personal Information directly from California, Virginia, Colorado, Utah, Connecticut, Texas, and Oregon residents themselves, as well as from social media platforms (e.g., if the individual has connected a social media account to our website); referrals; joint marketing, co-branding, co-promotional, or advertising partners; and sources of demographic and other information, including through devices you used to interact with us through our Services. All sources of personal information collected are noted in the “Information Collection” section above.
 
 ### c. Data Retention
 
@@ -383,7 +387,7 @@ Depending on your interactions with us, we may not have used Personal Data and/o
 
 ### f. Your Privacy Rights Under Applicable State Law
 
-If you are a resident of California, Virginia, Connecticut, Utah, Colorado, or other U.S. states with similar privacy laws, you may have the following rights with respect to any information about you that constitutes “Personal Information” under California law and “Personal Data” under other state laws, as described below.
+If you are a resident of California, Virginia, Connecticut, Utah, Colorado, Texas, Oregon, or other U.S. states with similar privacy laws, you may have the following rights with respect to any information about you that constitutes “Personal Information” under California law and “Personal Data” under other state laws, as described below.
 
 We are required by law to verify your identity in connection with any request in order to prevent unauthorized access of your data. Failure to verify your identity may result in your request not being processed. Where required by applicable law, we will notify you if we deny your request and notify you of the reasons we are unable to honor your request.
 
@@ -395,14 +399,14 @@ We are required by law to verify your identity in connection with any request in
     
 * The business or commercial purpose for collecting, disclosing, or selling Personal Data and/or Personal Information about you; and,
     
-* The categories of Personal Data and/or Personal Information about you that we sold, shared, or otherwise disclosed and the categories of third parties to whom we sold, shared, or otherwise disclosed that Personal Data and/or Personal Information.
+* The categories of Personal Data and/or Personal Information about you that we sold, shared, or otherwise disclosed and the categories of third parties (or, depending on your state of residence, a list of specific third parties) to whom we sold, shared, or otherwise disclosed that Personal Data and/or Personal Information.
     
 
 Please note that, in some instances, we may decline to honor your request or only honor your request in part, where, for example, we are unable to verify your identity or an exception to this right applies.
 
 **Right to Delete:** You may request that we delete the Personal Data and/or Personal Information we have collected from you. Please note that, in some instances, we may decline to honor your request or only honor your request in part, where, for example, we are unable to verify your identity or an exception to this right applies.
 
-**Opt Out of “Sale”, “Shares”, and Targeted Advertising:** Depending on the state you reside in, website users have the right to opt out of the “sale” of your data and the disclosure of your data for cross-context behavioral advertising/targeted advertising (known as a “share” in California). We also honor alternative opt-out signals, such as the GPC. We process opt-out preference signals in a frictionless manner. Since our mobile application requires a paid subscription after accessing three complementary articles, our mobile application does not sell, share, or process Personal Information and/or Personal Data for targeted advertising purposes. Please note that we do not sell Personal Information for monetary consideration.
+**Opt Out of “Sale”, “Shares”, and Targeted Advertising:** Depending on the state you reside in, website users have the right to opt out of the “sale” of your data and the disclosure of your data for cross-context behavioral advertising/targeted advertising (known as a “share” in California).  We also honor alternative opt out signals, such as the GPC. We process opt out preference signals in a frictionless manner. Since our mobile application requires a paid subscription after accessing three complementary articles, our mobile application does not sell, share, or process Personal Information and/or Personal Data for targeted advertising purposes. Please note that we do not sell Personal Information for monetary consideration. 
 
 **Right to Correction:** You have a right to request the correction of inaccurate Personal Data and/or Personal Information that we may have on file about you. Please note that, in some instances, we may decline to honor your request or only honor your request in part, where, for example, we are unable to verify your identity or an exception to this right applies.
 
@@ -416,9 +420,9 @@ In order to exercise your Right to Opt Out of “Sales”, “Shares”, and Tar
 
 To exercise to exercise your other rights described above, please submit a request in one of the following ways:
 
-For Business Insider, click [here](https://www.insider.com/your-privacy-choices) and follow the instructions. You can also email us at [**privacy@insider-inc.com**](mailto:privacy@insider-inc.com?) with details of your request.
+For Business Insider, you can email us at [**privacy@insider-inc.com**](mailto:privacy@insider-inc.com?) with details of your request.
 
-For EMARKETER, click [here](https://www.insiderintelligence.com/privacy/your-privacy-choices/) and follow the instructions. You can also email us at [**privacy@emarketer.com**](mailto:privacy@emarketer.com?) with details of your request.
+For EMARKETER, you can email us at [**privacy@emarketer.com**](mailto:privacy@emarketer.com?) with details of your request.
 
 We may require, or provide you with the opportunity to provide, additional information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know, correct, or delete.
 
@@ -428,7 +432,7 @@ If you are a Virginia resident and wish to appeal our decision with regard to a 
 
 ### h. Requests by authorized agents
 
-Depending on your state of residence, you have the right to submit a request through an authorized agent. If you are an authorized agent acting on behalf of a resident to communicate with us or to exercise a privacy right discussed above, you must be able to demonstrate that you have the requisite authorization to act on behalf of the resident and have sufficient access to their laptop, desktop, or mobile device to exercise these rights digitally. If you are an authorized agent trying to exercise rights on behalf of a consumer, please contact us at the contact information below with supporting verification information, which includes proof that you have access to the consumer’s interface and proof of your own identify
+Depending on your state of residence, you have the right to submit a request through the methods detailed above through an authorized agent. If you are an authorized agent acting on behalf of a resident to communicate with us or to exercise a privacy right discussed above, you must be able to demonstrate that you have the requisite authorization to act on behalf of the resident and have sufficient access to their laptop, desktop, or mobile device to exercise these rights digitally. If you are an authorized agent trying to exercise rights on behalf of a consumer, please contact us at the contact information below with supporting verification information, which includes proof that you have access to the consumer’s interface and proof of your own identify.
 
 ### i. Notice of Financial Incentives
 
@@ -452,7 +456,7 @@ Number of requests to delete that were received, complied with in whole or in pa
 
 Number of requests to correct that were received, complied with in whole or in part, and denied: 9
 
-Number of requests to opt-out of sale/sharing that were received, complied with in whole or in part, and denied: 37
+Number of requests to opt out of sale/sharing that were received, complied with in whole or in part, and denied: 37
 
 The median or mean number of days it took to substantively respond (i.e not the 10 day “confirmation of receipt” window); 13.25 days
 
