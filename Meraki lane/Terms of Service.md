@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![18 Prom Hairstyle Looks & Tutorials for All Hair Lengths | With spring upon us, you’ll find no shortage of prom hair inspo all over social media. Once you have your dress or outfit picked out, you can start thinking about hair and makeup. Whether you prefer simple, classy looks, formal updos, elegant half up half down styles, or something a little more unique, this post is for you. We've curated 18 ideas for short hair, medium length hair, and long hair. Click for step-by-step tutorials!](https://www.merakilane.com/wp-content/uploads/2024/04/Prom-Hairstyle-Looks-FI.png)](https://www.merakilane.com/18-prom-hairstyle-looks-tutorials-for-all-hair-lengths/)
+    [![10 Myths and Facts About Cellulite | There is a lot of misinformation about cellulite, but one thing is for certain: everyone has it. Yes, contrary to popular belief, it doesn't just affect people who are overweight! In this post, we are debunking common myths about cellulite and equipping you with the facts so you can determine what's normal, what's not, how to get rid of cellulite naturally through lifestyle changes, the best cellulite removal products to invest in, and treatment options.](https://www.merakilane.com/wp-content/uploads/2024/07/5-1.png)](https://www.merakilane.com/10-myths-and-facts-about-cellulite/)
     
-    ### [18 Prom Hairstyle Looks & Tutorials for All Hair Lengths](https://www.merakilane.com/18-prom-hairstyle-looks-tutorials-for-all-hair-lengths/)
+    ### [10 Myths and Facts About Cellulite](https://www.merakilane.com/10-myths-and-facts-about-cellulite/)
     
-    [![6 Light Blue Prom Makeup Looks & Step-By-Step Tutorials | Blue makeup is in for spring, and it's sure to make an appearance at this year's prom. Prom night is one of the best times to express your personal style - your dress, hair, jewelry, and of course your eyeshadow. Whether you’re getting your makeup done professionally or DIYing it yourself at home, we've curated 6 light blue makeup looks that wow. From easy baby blue, to vintage pastel, to bold glitter, click for our fav looks & products!](https://www.merakilane.com/wp-content/uploads/2024/04/Light-Blue-Prom-Makeup-Looks-FI.png)](https://www.merakilane.com/6-light-blue-prom-makeup-looks-and-tutorials/)
+    [![6 Easy Postpartum Haircare Routine Tips for New Moms | While your hair grows faster and falls out less while you are pregnant, significant hair shedding is common post-childbirth. Hair fall tends to peak when your babe is 4 months old, with normal hair growth back on track 12 months postpartum. In the meantime, there are things you can do to help your hair look and feel it's best as your hormones balance, and they don't take a ton of time. Click for quick and easy postpartum haircare tips!](https://www.merakilane.com/wp-content/uploads/2024/07/3-1.png)](https://www.merakilane.com/6-easy-postpartum-haircare-routine-tips-for-new-moms/)
     
-    ### [6 Light Blue Prom Makeup Looks and Tutorials](https://www.merakilane.com/6-light-blue-prom-makeup-looks-and-tutorials/)
+    ### [6 Easy Postpartum Haircare Routine Tips for New Moms](https://www.merakilane.com/6-easy-postpartum-haircare-routine-tips-for-new-moms/)
     
-    [![6 Beautiful DIY Quinceanera Makeup Tutorials | A "quinceanera" is the celebration of a girls 15th birthday in Mexico and Latin America. Girls wear gorgeous quince dresses, with elaborate hairstyles and makeup to go along with it. The eye makeup often compliments the color of the dress (but it doesn't need to), and we're excited to share our favorite step-by-step quince makeup tutorials to help you/your daughter bring your quince vision to life!](https://www.merakilane.com/wp-content/uploads/2024/04/Quinceanera-Makeup-Tutorials-FI.png)](https://www.merakilane.com/6-beautiful-diy-quinceanera-makeup-tutorials/)
+    [![12 Skin Firming Tips for Your Face and Neck | Does your skincare routine include the skin under your chin? If not, it should! Wrinkles, creasing, and sun spots can occur on your face AND your neck, and as can loose and sagging skin. From sunscreen to retinol, and everything in between, there are lots of exercises and skincare products you can use to help tighten the skin on your face and get rid of the dreaded 'turkey neck.' Click for our best skin tightening remedies for youthful skin!](https://www.merakilane.com/wp-content/uploads/2024/07/1-3.png)](https://www.merakilane.com/12-skin-firming-tips-for-your-face-and-neck/)
     
-    ### [6 Beautiful DIY Quinceañera Makeup Tutorials](https://www.merakilane.com/6-beautiful-diy-quinceanera-makeup-tutorials/)
+    ### [12 Skin Firming Tips for Your Face and Neck](https://www.merakilane.com/12-skin-firming-tips-for-your-face-and-neck/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,17 +67,17 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
-    [![7 Ways to Cope with Perimenopause Fatigue | There are a number of perimenopause symptoms, with almost half of women reporting feelings of fatigue. It can become a vicious cycle -- changes in estrogen can cause night sweats, which lead to interrupted sleep, which makes you feel tired, which causes you to drink more caffeine...wash, rinse, repeat. If you're tired of feeling tired, this post has lots of tips and lifestyle changes for women in their 40s and 50s to help you beat exhaustion.](https://www.merakilane.com/wp-content/uploads/2024/04/Perimenopause-Fatigue-FI.png)](https://www.merakilane.com/7-ways-to-cope-with-perimenopause-fatigue/)
+    [![20 Healthy Tips for Night Shift Workers | It can be hard to figure out and stick to a healthy sleep routine as a shift worker, let alone commit to a regular workout schedule and make the time to plan and prep healthy meals and snacks. If this resonates with you, this post is just what you need. We're sharing practical tips to help you make the most of your schedule so you can find time for all of it -- quality time with friends and loved ones, quality sleep, exercise, balanced meals, and more!](https://www.merakilane.com/wp-content/uploads/2024/07/6-1.png)](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
     
-    ### [7 Ways to Cope with Perimenopause Fatigue](https://www.merakilane.com/7-ways-to-cope-with-perimenopause-fatigue/)
+    ### [20 Healthy Tips for Night Shift Workers](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
     
-    [![6 Soft Workouts for Women (and Why They Work) | Ideal for beginners, active recovery days, and if you're coming back from an injury, soft workouts are less intense, low impact workouts that emphasize mindful practice and overall well-being while also improving balance, mobility, and flexibility. They are less dramatic than classic HIIT or tabata workouts, but you can still make them intense. Click for a list of soft exercises to add to your weekly workout routine for consistent results!](https://www.merakilane.com/wp-content/uploads/2024/04/Soft-Workouts-for-Women-FI.png)](https://www.merakilane.com/6-soft-workouts-for-women-and-why-they-work/)
+    [![62 Quotes For Overwhelmed Moms Who Are Having a Tough Day | Being a mother is the best, most difficult job in the world, am I right? It is exciting, terrifying, exhausting and fulfilling all at the same time. And let's be honest - some days are just downright OVERWHELMING. Whether you're a stay at home or working mom with a newborn, toddler, school-aged kids, tweens, teens, or college bound kids, a few positive words are always welcome. Click for our favorite quotes for moms who are struggling.](https://www.merakilane.com/wp-content/uploads/2024/07/2-1.png)](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
     
-    ### [6 Soft Workouts for Women (and Why They Work)](https://www.merakilane.com/6-soft-workouts-for-women-and-why-they-work/)
+    ### [63 Quotes For Overwhelmed Moms Who Are Having a Tough Day](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
     
-    [![5 Beginner Karate Workouts for Women | Karate workouts are a great full-body fitness option for women who want to improve their balance, posture, flexibility, and strength while also learning self-defence moves. Through kicking and punching, this form of martial arts offers a full body workout while also getting your heart rate up and burning calories. Not sure how to get started? Click for our favorite at-home karate workouts for women that you can also do at the gym!](https://www.merakilane.com/wp-content/uploads/2024/04/Beginner-Karate-Workouts-for-Women-FI.png)](https://www.merakilane.com/5-beginner-karate-workouts-for-women/)
+    [![20 Things to Do When You Can't Sleep | There are tons of sleep tips and hacks for people who struggle with chronic insomnia and other sleep disturbances which focus on the building blocks of deep, restorative, and restful sleep - regular exercise, less caffeine, balanced blood sugar, stress management, and more. But what about those one-off nights when you just cannot switch your brain off and fall asleep? In this post, we share our best tips to fall asleep when you're tired but wired.](https://www.merakilane.com/wp-content/uploads/2024/07/1-1.png)](https://www.merakilane.com/20-things-to-do-when-you-cant-sleep/)
     
-    ### [5 Beginner Karate Workouts for Women](https://www.merakilane.com/5-beginner-karate-workouts-for-women/)
+    ### [20 Things to Do When You Can’t Sleep](https://www.merakilane.com/20-things-to-do-when-you-cant-sleep/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -91,17 +91,17 @@ Main Menu
     
     [Everything Else](https://www.merakilane.com/category/mental-health/)
     
-    [![6 Soft Workouts for Women (and Why They Work) | Ideal for beginners, active recovery days, and if you're coming back from an injury, soft workouts are less intense, low impact workouts that emphasize mindful practice and overall well-being while also improving balance, mobility, and flexibility. They are less dramatic than classic HIIT or tabata workouts, but you can still make them intense. Click for a list of soft exercises to add to your weekly workout routine for consistent results!](https://www.merakilane.com/wp-content/uploads/2024/04/Soft-Workouts-for-Women-FI.png)](https://www.merakilane.com/6-soft-workouts-for-women-and-why-they-work/)
+    [![20 Healthy Tips for Night Shift Workers | It can be hard to figure out and stick to a healthy sleep routine as a shift worker, let alone commit to a regular workout schedule and make the time to plan and prep healthy meals and snacks. If this resonates with you, this post is just what you need. We're sharing practical tips to help you make the most of your schedule so you can find time for all of it -- quality time with friends and loved ones, quality sleep, exercise, balanced meals, and more!](https://www.merakilane.com/wp-content/uploads/2024/07/6-1.png)](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
     
-    ### [6 Soft Workouts for Women (and Why They Work)](https://www.merakilane.com/6-soft-workouts-for-women-and-why-they-work/)
+    ### [20 Healthy Tips for Night Shift Workers](https://www.merakilane.com/20-healthy-tips-for-night-shift-workers/)
     
-    [![51 Motivating Atomic Habits Quotes | James Clear's "Atomic Habits" is popular in the personal development space, and for good reason! In our journey towards self-improvement, he argues that the focus shouldn't be on making huge life transformations. Instead, we should create systems that make good habits easier and bad habits more difficult. When we focus on getting 1% better everyday, these habits compound, leading to remarkable results. Click for the best James Clear quotes to inspire you!](https://www.merakilane.com/wp-content/uploads/2024/03/Motivating-Atomic-Habits-Quotes-FI.png)](https://www.merakilane.com/51-motivating-atomic-habits-quotes-by-james-clear/)
+    [![62 Quotes For Overwhelmed Moms Who Are Having a Tough Day | Being a mother is the best, most difficult job in the world, am I right? It is exciting, terrifying, exhausting and fulfilling all at the same time. And let's be honest - some days are just downright OVERWHELMING. Whether you're a stay at home or working mom with a newborn, toddler, school-aged kids, tweens, teens, or college bound kids, a few positive words are always welcome. Click for our favorite quotes for moms who are struggling.](https://www.merakilane.com/wp-content/uploads/2024/07/2-1.png)](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
     
-    ### [51 Motivating Atomic Habits Quotes by James Clear](https://www.merakilane.com/51-motivating-atomic-habits-quotes-by-james-clear/)
+    ### [63 Quotes For Overwhelmed Moms Who Are Having a Tough Day](https://www.merakilane.com/63-quotes-for-overwhelmed-moms-who-are-having-a-tough-day/)
     
-    [![18 Ways to Help Kids Deal with Mean Comments Online | Navigating the world of social media with tweens and teens can be...challenging. While we can teach them everything they need to know about online safety and put parental controls in place, we can never fully control what they see and do on social media. And unfortunately, cyberbullying is more common than we'd like to believe. Also? Sometimes friends can make mean comments. Click for our best tips to help you and your child deal with this.](https://www.merakilane.com/wp-content/uploads/2024/03/Help-Kids-Deal-with-Mean-Comments-Online-FI.png)](https://www.merakilane.com/18-ways-to-help-kids-deal-with-mean-comments-online/)
+    [![8 Ways to Stop Feeling Sorry For Yourself | From relationship break-ups and divorce, to illness, and grief, we all go through difficult moments throughout our lives. Some are harder to overcome than others leading to feelings of self-doubt and self-pity. These feelings manifest differently for everyone but tend to cause negative thoughts of being a failure, that no one likes you and that change is impossible. Sound familiar? Click for tips to help you get out of the cycle of self-destruction.](https://www.merakilane.com/wp-content/uploads/2024/07/1-2.png)](https://www.merakilane.com/8-ways-to-stop-feeling-sorry-for-yourself/)
     
-    ### [18 Ways to Help Kids Deal with Mean Comments Online](https://www.merakilane.com/18-ways-to-help-kids-deal-with-mean-comments-online/)
+    ### [8 Ways to Stop Feeling Sorry For Yourself](https://www.merakilane.com/8-ways-to-stop-feeling-sorry-for-yourself/)
     
 * [Family](https://www.merakilane.com/category/family/)
     
@@ -117,17 +117,17 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
-    [![24 Last Day of School Party Ideas that Don't Suck | Looking for classroom party ideas for kids in elementary school, middle school, or high school? We've got you covered. Finding fun and creative ways to connect with and celebrate the hard work of your students is a great way to close out the year. Of course, the games and activities kids in second and third grade enjoy will look much different than the things that interest tweens and teens. In this post, we have ideas for every age and grade!!](https://www.merakilane.com/wp-content/uploads/2024/04/Last-Day-of-School-Party-Ideas-FI.png)](https://www.merakilane.com/24-last-day-of-school-party-ideas-that-dont-suck/)
+    [![Amusement Park Survival Guide: 18 Theme Park Tips for Parents | From games, to rides, to water park fun and everything in between, planning a trip to an indoor or outdoor amusement park is exciting and overwhelming, particularly for parents of small children. Juggling excited kids, managing long lines, and ensuring everyone stays safe and happy requires a bit of strategy. From knowing what to wear, what to pack, how to handle meltdowns and motion sickness (!!) this post has everything you need.](https://www.merakilane.com/wp-content/uploads/2024/06/2-3.png)](https://www.merakilane.com/amusement-park-survival-guide-18-theme-park-tips-for-parents/)
     
-    ### [24 Last Day of School Party Ideas that Don’t Suck](https://www.merakilane.com/24-last-day-of-school-party-ideas-that-dont-suck/)
+    ### [Amusement Park Survival Guide: 18 Theme Park Tips for Parents](https://www.merakilane.com/amusement-park-survival-guide-18-theme-park-tips-for-parents/)
     
-    [![16 Easy Shell Crafts for Kids | Collecting sea shells on the beach is a core childhood memory for many, but what do you do with them when you get home? If you're looking for fun art projects to do with your kids, grab your shells and give some of these ideas a try! Perfect for all ages and stages, these arts and crafts are a great way to let younger kids practice their fine motor skills and they give older kids an outlet for creative expression while allowing you to spend some QT together.](https://www.merakilane.com/wp-content/uploads/2024/04/Shell-Crafts-for-Kids-FI.png)](https://www.merakilane.com/16-easy-and-beautiful-shell-crafts-for-kids/)
+    [![66 Fun Things to Do When It's Too Hot to Go Outside | While the summer months offer a much-needed reprieve from the cold and miserable weather that keeps us inside and causes kids cabin fever, there are days when the heat reaches dangerous temperatures for kids. In this post, we share everything you need to know and we've also curated tons of indoor summer activities to beat boredom when you're stuck at home. Click for ideas for kids in preschool and elementary school, and for tweens and teens!](https://www.merakilane.com/wp-content/uploads/2024/06/2-2.png)](https://www.merakilane.com/66-fun-things-to-do-when-its-too-hot-to-go-outside/)
     
-    ### [16 Easy and Beautiful Shell Crafts for Kids](https://www.merakilane.com/16-easy-and-beautiful-shell-crafts-for-kids/)
+    ### [66 Fun Things to Do When It’s Too Hot to Go Outside](https://www.merakilane.com/66-fun-things-to-do-when-its-too-hot-to-go-outside/)
     
-    [![15 Scrap Wood Projects to Make with Your Kids | If you're looking for small woodworking projects you can do with your kids, this post is for you! Woodworking projects are a great way to spend quality time with your children on bad weather days (hello, winter!), and they double as keepsakes and gifts for family, friends, and teachers. In this post, we're sharing tips and essentials to help you get started and we've also curated a list of kid-friendly and kid-safe projects to try.](https://www.merakilane.com/wp-content/uploads/2024/04/Scrap-Wood-Projects-FI.png)](https://www.merakilane.com/15-scrap-wood-projects-to-make-with-your-kids/)
+    [![42 Funky Crochet Patterns and Projects for Beginners & Beyond | Whether you're new to crocheting or on the hunt for fresh ideas, you'll want to bookmark this post! We're sharing tons of great crochet tips and ideas for beginners and beyond. We've included simple step by step tutorials to teach you how to do funky crochet stitches, and we've also curated our favorite crochet patterns to inspire your next project. From blankets, to hats, to scarves, to sweaters, there's a pattern here for you!](https://www.merakilane.com/wp-content/uploads/2024/06/2-1.png)](https://www.merakilane.com/34-funky-crochet-patterns-and-projects-for-beginners-beyond/)
     
-    ### [15 Scrap Wood Projects to Make with Your Kids](https://www.merakilane.com/15-scrap-wood-projects-to-make-with-your-kids/)
+    ### [34 Funky Crochet Patterns and Projects for Beginners & Beyond](https://www.merakilane.com/34-funky-crochet-patterns-and-projects-for-beginners-beyond/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -233,50 +233,34 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
-[own your journey 🫶🏻 . . . . . . #MerakiLane ![own your journey 🫶🏻
-.
-.
-.
-.
-.
-.
-#MerakiLane #friendlyreminder #powerfulwords #bossquotes #powerfulthoughts #thoughtsarepowerful #deepthoughts #affirmationoftheday #inspirationalwords #latenightthoughts #showerthoughts #pondering #itbelikethatsometimes #thoughtsoftheday #justathought #quotes4life #ťhoughtoftheday #empoweringquotes #spilledthoughts #originalwriting #transformyourmind #healthythoughts #positiveaffirmations #lifeonpurpose #courageovercomfort #gentlereminders #dailyreminders #personaldevelopmentcoach #positvethinking #mindsetmatters](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C5LywBWL0P9/) 
+[unapologetic ☕️🚫 🎥 @wildmediaco 📸 @t ![unapologetic ☕️🚫
+🎥 @wildmediaco
+📸 @thisismaxpower
+#unapologetic #unbothered #mindingmybusiness #adulting101 #torontomom #canadianmoms #mylifemyrules #40andfabulous #womenover40 #getoutofyourownway](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9VL-PBuKLu/) 
 
-[thirteen. how did THAT happen? it feels like just ![thirteen. how did THAT happen? it feels like just yesterday that your dad and i were meeting you for the first time with so many memories and milestones ahead of us, and now it feels like life is moving way too quickly. 
-looking back at these photos and videos has reminded me of all the things you and i have been through together. and as i was trying to find the perfect song to capture all of the feels i am feeling right now, i remembered a conversation i had with my dad when I was leaving home. he told me he was proud of me and when i rolled my eyes, he looked around my university dorm room and said something like, “you could drop out of school tomorrow and i would still be just as proud.”
-i’ve thought about that conversation a lot over the years. in the moment, it sounded crazy. up until that point in my life, i’m not sure i had ever really done anything simply because i wanted to — the goal was always to do what i thought was expected of me in order to make my parents proud. and it worked. i knew they were proud of me. but now that i am a parent, i know exactly what my dad was trying to say to me before I started living on my own.
-it isn’t the grades, awards, achievements, etc. that make me proud of you C. yes, they make me happy and i enjoy seeing you do the things that interest you and are important to you, and i will take advantage of every opportunity you give me to show you off to the world. but it is YOU that makes me proud. all of those other things are just a bonus, and i could take them or leave them. you are enough.
-my wish for you on your 13th birthday is that you have the courage to live life on your terms. it should never be about fitting in or doing things to make other people happy. the goal is to create a life that YOU are proud of, and you must learn not to let the opinions of other people get in the way of going after the things that are important to you. if you can do that, you can do anything. ❤️
-happy birthday sweet bear.
-i love you more than everything.
-EVERYTHING.
-xoxo](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C5I90MwrbLU/) 
+[i was a guest on the @simplepinmedia podcast last ![i was a guest on the @simplepinmedia podcast last month, discussing how i started meraki lane, and one of the questions kate asked me was ‘what advice would you give to someone who is just starting out?’ i get asked this a lot, and my biggest advice is this: be yourself and don’t listen to what other people say. what works for them will not necessarily work for you, and pretending to be someone you’re not isn’t sustainable and will effect the quality of what you produce. if you pursue something that interests you and that you are 100% yourself with, it will pay off in the long run. the key is to put your blinders on, focus on the things that are authentic to you, and remember that the people with the most to say are usually the ones who feel the most threatened by you. their opinions don’t pay your bills so wish them well and keep going.
+if you’re interested in hearing more about my story, i’ve linked to the podcast in my bio. ❤️
+🎥 @wildmediaco
+📸 @thisismaxpower
+#mombloggers #mombloggersofig #lifestyleinfluencer #buildingmybrand #beingboss #bossmoms #buildalifeyoulove #getoutofyourownway #workingmothers #startwhereyouare #womanentrepreneur](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9SkXbDOpY0/) 
 
-[also: a bad day only lasts 24 hours 🫶🏻 . . . ![also: a bad day only lasts 24 hours 🫶🏻
-.
-.
-.
-.
-.
-.
-#powerfulthoughts #powerfulwords #positiveintentions #friendlyreminder #lifelessonslearned #healthymindset #powerofthought #positivemindset #positiveaffirmations #changeyourthoughtschangeyourlife #quotesandnotes #inspirationalposts #spilledthoughts #personaldevelopmentcoach #thoughtsoftheday #changeyourthoughts #showerthoughts #latenightthoughts #quotesilove #inspirationalwords #affirmationoftheday #deepthoughts #motivationalwords #badday #baddays #roughday #hardday](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C5GcN7pr1Vb/) 
+[we unplugged and enjoyed a week in aruba and it wa ![we unplugged and enjoyed a week in aruba and it was everything we had hoped for (and more). if you’ve never been and want to go, here are the details of our trip plus some thoughts and notes. 
+we stayed at @bucutitara which is an adults-only resort and an absolutely gorgeous property. it is located on eagle beach which is less crowded, and we were able to get lounge chairs with an umbrella everyday. the breakfast buffet is included and had everything — i looked forward to it each morning. 😋 they only have one restaurant at the hotel but i would have happily eaten every lunch and dinner there. the food was fabulous.
+we explored palm beach both in the day and at night and loved it. it was a totally different vibe from where we were staying with lots of fabulous restaurants and beautiful hotels for families. the beach was just as stunning as eagle beach but definitely more crowded.
+we rented a car for 2 days and explored the island. it was really cool to kick around but not necessary. taxis are affordable and easy to find.
+the only downside is that there is not a lot to do in the way of shopping outside of renaissance mall (which is all high end stores), a few random stores in palm beach, and lots of stalls selling touristy things. the selection of local jewelry was 👌🏻 though so it was a success from my pov.
+oh and huge bonus: you can drink the tap water in aruba and there are water fountains everywhere to fill up your water bottle.
+aruba was a 10/10 for us. we’re already planning our next trip. ✨
+#aruba #arubalife #caribbeanvibes #caribbeanvacation #borntotravel #lovetheview #crashingwaves #turquoisewaters #sandandsea #traveltipsandtricks #travelwithus #beachpics](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9P20n5sQDm/) 
 
-[complaining isn’t a strategy ✌🏻 . . . . . # ![complaining isn’t a strategy ✌🏻
-.
-.
-.
-.
-.
-#merakilane #stopcomplaining #makemoves #mindsetmatters #mindsetreset #personaldevelopmentcoach #dailyreminders #liveonpurpose #positiveaffirmations #gentlereminders #courageovercomfort #lifeonpurpose #friendlyreminders #makechangesnotexcuses #healthythoughts #transformyourmind #stopmakingexcuses #noexcusesjustresults #spilledthoughts #empoweringquotes #thoughtsoftheday #showerthoughts #latenightthoughts #inspirationalwords #affirmationoftheday #deepthoughts #powerfulthoughts #powerfulwords #friendlyreminder](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C5D8Ar-snN3/) 
+[focus on what you can control. let go of the rest. ![focus on what you can control. let go of the rest. ✨
+(video taken in the Cayman Islands last summer.)
+#stayinyourlane #controlwhatyoucan #adulting101 #friendlyreminder #gentlereminder #thingsiwanttoremember #letgoofthepast #lessonslearnedinlife #lifelessonslearned #ceoofmylife #createalifeyoulove](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9NaV_lufZH/) 
 
-[worthiness comes from within 🫶🏻 . . . . . . ![worthiness comes from within 🫶🏻
-.
-.
-.
-.
-.
-.
-#MerakiLane #loveyoufirst #losehatenotweight #thoughtsarepowerful #bodykindness #positivebodyimage #powerfulthoughts #transformyourmind #powerfulwords #personalgrowthanddevelopment #spilledthoughts #mindsetcoachforwomen #radicalselflove #beyourbestyou #livewithintention #allbodiesaregoodbodies #personaldevelopmentcoach #haes #lovetheskinyourein #latenightthoughts #foodfreedom #bodyacceptance #empoweredwomenempowerwomen #healthymindset #powerofthought #loveyourselffirst #deepthoughts #selfworthmovement #selfworth #selfworthjourney](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C5BRG7FM8_1/) 
+[monday mood. ✌🏻 🎥 @wildmediaco 📸 @this ![monday mood. ✌🏻
+🎥 @wildmediaco
+📸 @thisismaxpower
+#unbothered #unapologetic #canyourelate #torontomom #canadianmom #mylifemyrules #thankyounext #adulting101 #mindingmybusiness](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9KmcboMCh8/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
