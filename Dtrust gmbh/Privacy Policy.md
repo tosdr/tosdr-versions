@@ -99,7 +99,7 @@ General Data and Information
 
 We therefore provide you with the following information about the processing of your personal data for the associated business processes.
 
-### Telephone Campaign
+#### Telephone Campaign
 
 As part of a telephone campaign, we contact the digitisation managers of counties and municipalities for marketing purposes. To do this, we use the contact information published on the website.  The legal basis for this is our legitimate interest (Art. 6 (1) (f) GDPR). After consent has been given by telephone, we send an email with the product information we discussed on the subject or with a meeting date agreed with you. You will receive this email at the email address you have confirmed. This is a double opt-in procedure. Further confirmation is necessary so that we can reach you at the correct email address you have specified. We store your consent with time stamps in the call history. The legal basis for this storage is our legitimate interest (Art. 6 (1) (f) GDPR), such as our legitimate interest in proving in cases of doubt that consent has been given to use the data to receive product information.
 
@@ -107,7 +107,7 @@ The legal base for sending product and service information and for processing yo
 
 **Service Partner**: In our telephone campaign, we are supported by our service partner, especially in contacting those responsible for digitisation: Sales People GmbH, Mallaustr. 75, 68219 Mannheim, [Sales People GmbH (sales-people.de)](https://sales-people.de/index.html).
 
-### Transfer and Dissemination of Data
+#### Transfer and Dissemination of Data
 
 If there is collaboration, such as support services, D-Trust will transfer personal data to service providers (data processors). These service providers only act on the instructions of D-Trust and are contractually obliged to comply with data protection requirements. D-Trust will continue to be responsible for the data processing.
 
@@ -116,7 +116,7 @@ In addition, we will share your personal information with courts, regulatory age
 * if we are required to do so by law or court order or
 * if this is legally permissible and necessary to maintain or assert valid legal claims.
 
-### Whistleblowing System
+#### Whistleblowing System
 
 Ensuring compliance with legal regulations and internal rules, such as our Code of Conduct, and also with our Code of Conduct for Business Partners is a top priority for the Bundesdruckerei Group. This applies to our own business unit as well as to our supply chains.
 
@@ -174,11 +174,11 @@ Personal data that proves to be irrelevant for the processing of a reported case
 
 Reports and personal data collected in the course of processing a report form the basis for further processing and are anonymised as soon as possible. However, if the need for follow-up measures within the meaning of Sec. 3 (8) and Sec. 18 HinSchG arises, it is possible that the anonymisation must be deviated from due to an official order or in order to secure legal claims. In this case, pseudonymisation is generally striven for unless something else has been specified (e.g., by a court order). The documentation will be deleted three years after completion of the procedure. The documentation may be kept for longer to fulfil the requirements of this Act or other legislation, as long as this is necessary and proportionate.
 
-### Retention Periods
+#### Retention Periods
 
 If the collection of data is not based on consent and an explicit retention period has been specified, your personal data will be deleted as soon as it is no longer required to achieve the stated purposes and no statutory retention periods (e.g., the obligation to provide proof of certification) prevent their erasure.
 
-### Rights of the Data Subject
+#### Rights of the Data Subject
 
 The following is a list of the rights to which you as the data subject are entitled vis-à-vis D-Trust with regard to the processing of your personal data.
 
@@ -191,7 +191,7 @@ The following is a list of the rights to which you as the data subject are entit
 
 If the processing of your personal data is based on your consent, you can withdraw this consent at any time with future effect. The withdrawal of your consent will not affect the legality of the processing carried out prior to the withdrawal. You can withdraw your consent by sending an email to [datenschutz@d-trust.de](mailto:datenschutz@d-trust.de) or by using the contact details above.
 
-### Right of Appeal to a Supervisory Authority for Data Protection
+#### Right of Appeal to a Supervisory Authority for Data Protection
 
 You have the right to lodge a complaint with a data protection supervisory authority pursuant to Art. 77 GDPR.
 
