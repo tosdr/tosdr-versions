@@ -30,7 +30,7 @@ Open navigation menu [Open search](https://mezeaudio.com/search)
 * COMMUNITY
     
     * [Artists](https://mezeaudio.com/blogs/artists)
-    * [Journal](https://mezeaudio.com/blogs/news)
+    * [News](https://mezeaudio.com/blogs/news)
     * [Distributors & Dealers](https://mezeaudio.com/pages/dealers)
     
 * [PHILOSOPHY](https://mezeaudio.com/pages/philosophy)
@@ -84,7 +84,7 @@ Country
 
 * COMMUNITY
 * [Artists](https://mezeaudio.com/blogs/artists)
-* [Journal](https://mezeaudio.com/blogs/news)
+* [News](https://mezeaudio.com/blogs/news)
 * [Distributors & Dealers](https://mezeaudio.com/pages/dealers)
 
 * Open-back
@@ -103,6 +103,10 @@ Country
 
 * Limited edition
 * [109 PRO Primal](https://mezeaudio.com/pages/109-pro-primal)
+
+LIMITED TIME OFFER: 30% OFF 99 SERIES HEADPHONES FROM JULY 15TH TO 21ST
+
+[SHOP NOW](https://mezeaudio.com/collections/limited-offer)
 
 Close
 
@@ -227,6 +231,68 @@ If you want to file a complaint about how we process your personal data, please 
 
 You can also contact the Romanian National Supervisory Authority for the processing of personal data at [www.dataprotection.ro](http://www.dataprotection.ro/) and you can file a complaint.
 
+  
+
+Social Media Privacy Notice
+---------------------------
+
+### 1\. Who we are
+
+MEZE AUDIO SRL is a company registered in Romania responsible for producing, marketing and selling of Meze Audio products.
+
+### 2\. What personal data do we process
+
+MEZE AUDIO SRL is a personal data controller together with Facebook as Joint Controllers. Our relationship is based on a joint controller agreement which is available here:
+
+[https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum)
+
+We process the following types of personal data from you:
+
+* Name and surname
+* Facebook ID
+* Phone number
+* Delivery Address
+* Post on Hotel Stil Page
+
+For more details regarding the personal data processed by Facebook please visit [https://www.facebook.com/policy.php.](https://www.facebook.com/policy.php)
+
+### 3\. Why do we need them
+
+We need your personal data to provide you with the following services:
+
+On the legal basis of necessity to process personal data for the performance of a contract to which you are party (namely, the Terms and Conditions for a Contest or a Lucky Draw):
+
+* Name and surname – we need this info to know who we are talking with.
+* Facebook ID – we need this info to know who we are talking with.
+* Phone number - we need this information to contact you.
+* Delivery address - we need this information to be able to deliver your prize
+* National Identification Number (CNP) – this information is collected for the payment of the tax on prizes over 600 lei, according to the fiscal code.
+* Post on Meze Audio page – here you might add unsolicited personal data of other persons. The post must adhere to Facebook rules. For the personal data of other persons that might be in your post (name, images, etc) you are a data controller, and you are directly responsible to make sure you took all necessary technical and organizational measures to prove compliance to GDPR.
+
+On the legal basis of controller’s legitimate interest to answer your posts on the Meze Audio Facebook page:
+
+* Name and surname – we need this info to know who we are talking with.
+* Facebook ID – we need this info to know who we are talking with.
+* Post on Meze Audio Page – here you might add unsolicited personal data of other persons. The post must adhere to Facebook rules. For the personal data of other persons that might be in your post (name, images etc) you are a data controller and you are directly responsible to make sure you took all necessary technical and organizational measures to prove compliance to GDPR.
+
+### 5\. How long do we keep personal data
+
+Personal data from your posts or evaluations on Meze Audio page will be kept till you decide to delete your post or till you ask us to delete your personal data.
+
+Your personal data from the competitions will be kept for 3 months from the end of the contests, unless you are a winner. If you are a winner we will keep your personal data for five years as required by the fiscal code and if you win a prize which has a value of over 600 lei we will keep your personal data for 10 year as required by the fiscal code.
+
+As a Data Controller Facebook has its own data retention policy which can be consulted here: [https://www.facebook.com/policy.php.](https://www.facebook.com/policy.php)
+
+### 6\. What are your rights?
+
+If you have reasons to believe that any personal data that we have about you is incorrect or incomplete you have the right to ask to see your personal data, to correct it, to request to be deleted, to request restriction of processing or to object to the processing. You also have the right to data portability. To exercise these rights please contact us at [support@mezeaudio.com](mailto:support@mezeaudio.com)
+
+If you want to file a complaint about how we process your personal data please contact us at [support@mezeaudio.com](mailto:support@mezeaudio.com). We will contact you to solve the problem raised.
+
+In order to exercise your privacy rights with Facebook please check their privacy policy: [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)
+
+You can also contact the Romanian Data Protection Authority at [www.dataprotection.ro](https://www.dataprotection.ro/) in order to file a complaint.
+
 ![](//mezeaudio.com/cdn/shop/files/Meze-Audio-Partners-icon-01.svg?v=1709227202&width=240)
 
 [WHERE TO BUY?](https://mezeaudio.com/pages/dealers "Authorized Dealers & Distributors")
@@ -280,6 +346,6 @@ Subscribe
 * [](https://www.tiktok.com/@mezeaudio)
 * [](https://www.linkedin.com/company/meze-headphones)
 
-American Express Apple Pay MastercardPayPalVisa  [![](https://cdn.shopify.com/shopifycloud/checkout-web/assets/1bf3da747615450e4b293760dc70186b.svg) Klarna](https://mezeaudio.com/pages/about-klarna)
+Apple Pay Google Pay PayPal  [![](https://cdn.shopify.com/shopifycloud/checkout-web/assets/1bf3da747615450e4b293760dc70186b.svg) Klarna](https://mezeaudio.com/pages/about-klarna)
 
 © 2024, Meze Audio - Sound. Comfort. Design. True high-end.
