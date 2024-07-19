@@ -13,11 +13,9 @@ PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SITE
 
 #### What's in these terms?
 
-These terms tell you the rules for using our website [www.ntegra.com](http://www.ntegra.com/) (our site). Who we are and how to contact us: [www.ntegra.com](http://www.ntegra.com/) is a site operated by Ntegra Limited ("We"). We are registered in England and Wales under company number 04758534 and have our registered office at 12 New Fetter Lane, London, EC4A 1JP. Our main trading address is Regus - Swindon Windmill Hill Business Park, Whitehill Way, Swindon, Wiltshire, United Kingdom, SN5 6QR. Our VAT number is 811 468539.
+These terms tell you the rules for using our website [www.ntegra.com](http://www.ntegra.com/) (our site). Who we are and how to contact us: [www.ntegra.com](http://www.ntegra.com/) is a site operated by Ntegra Limited ("We"). We are registered in England and Wales under company number 04758534 and have our registered office at 12 New Fetter Lane, London, EC4A 1JP. Our main trading address is Ntegra Ltd, Suites 41-42, Rombourne Kingston House, Lydiard Fields Business Park, Great Western Way, Swindon, Wiltshire, United Kingdom, SN5 8UB. Our VAT number is 811 468539.
 
-We are a limited company.
-
-To contact us, please email [hello@ntegra.com](mailto:hello@ntegra.com)
+We are a limited company.To contact us, please email [hello@ntegra.com](mailto:hello@ntegra.com)
 
 ‍
 
@@ -159,8 +157,6 @@ If you are a business, these terms of use, their subject matter and their format
 #### Our trade marks
 
 Ntegra is a trade mark of Ntegra Ltd. You are not permitted to use it without our approval unless it is part of material you are using as permitted under How you may use material on our site [www.ntegra.com/terms/](https://www.ntegra.com/terms).
-
-‍
 
 ‍
 
