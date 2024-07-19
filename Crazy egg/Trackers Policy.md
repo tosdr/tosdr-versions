@@ -28,13 +28,18 @@ Close modal
 
 ![G2 Best Estimate ROI Mid-Market 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-roi-midmarket-e1e2c7aa8403ee04a35fef9c3b4f593c.svg?vsn=d) ![G2 Fastest Implementation for Small Business 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-fi-smallbusiness-1b1c98e5d28073806fba4a26586f5031.svg?vsn=d) ![G2 High Performer Winter 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-hp-winter-216655471f3bb70a1d7f0eab9060289a.svg?vsn=d) ![G2 Easiest To Use Mid-Market Winter 2024](https://w3-assets.crazyeggcdn.com/images/svg/badge-g2-medal-2024-eou-midmarket-57088d578a50dc09936b85551f2f177a.svg?vsn=d)
 
-### Request a personalized demo of Crazy Egg
+### Request a personalized  
+demo of Crazy Egg
 
-email subject  Full name  Your work email  Job Title  Company name 
+ email subject 
 
-Website URL  What are the average pageviews per month for your site(s)?  What brings you to Crazy Egg?
+Your name\*  Company name\* 
 
-Next Back Request my demo
+Your work email\*  Website URL\* 
+
+Average pageviews per month Select pageviewsLess than 75,00075,001 - 150,000150,001 - 500,000500,001 - 1,000,0001,000,000+ What brings you to Crazy Egg?
+
+Send
 
 ![Crazy Egg will be in touch with you shortly](https://w3-assets.crazyeggcdn.com/images/svg/illustration-enterprise-modal-success-690e41bbf02cb8ecbd8ebcfdbdeaf795.svg?vsn=d)
 
