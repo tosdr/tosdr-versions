@@ -17,7 +17,7 @@ Germany
 
 If you have questions specifically about data privacy, you can contact us using [contact@crayon.games](mailto:contact@crayon.games), or you can reach out to our data protection officer:
 
-Viktor Pulz  
+Alejandro Manuel Suárez Cronauer  
 Kronacher Straße 41  
 96052 Bamberg  
 Germany  
