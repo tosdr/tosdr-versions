@@ -99,6 +99,6 @@ Follow us to stay up to date
 
 * [![BrokerCheck by FINRA](/sites/default/files/acquiadam/2020-09/brokercheck-by-finra-vector-logo%202%402x.png)](https://brokercheck.finra.org/)
 
-Copyright © 2024 Edward Jones. All rights reserved. Member [SIPC](https://www.sipc.org/ "SIPC"). 
+Copyright © 2024 Edward Jones. All rights reserved. Member [SIPC](https://www.sipc.org/). 
 
 This site is designed for U.S. residents only. The services offered within this site are available exclusively through our U.S. financial advisors. Edward Jones' U.S. financial advisors may only conduct business with residents of the states for which they are properly registered. Please note that not all of the investments and services mentioned are available in every state.
