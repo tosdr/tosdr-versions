@@ -16,11 +16,11 @@ I. General Policy
 
 ### A. Acceptance of Terms
 
-MedBridge Inc. (“MedBridge”) is committed to protecting Your privacy when You visit the MedBridge website located at the URL www.medbridgeeducation.com, the MedBridge mobile application, and other websites owned by MedBridge, including personalized white label websites (collectively, the “MedBridge Website”, as defined below). This Privacy Policy explains to You how we collect and use Your information. This document should be read in conjunction with the MedBridge Terms and Conditions, and we reserve the right to append or otherwise modify this privacy statement at any time.
+MedBridge Inc. (“MedBridge”) is committed to protecting Your privacy when You visit the MedBridge website located at the URL www.medbridge.com, the MedBridge mobile application, and other websites owned by MedBridge, including personalized white label websites (collectively, the “MedBridge Website”, as defined below). This Privacy Policy explains to You how we collect and use Your information. This document should be read in conjunction with the MedBridge Terms and Conditions, and we reserve the right to append or otherwise modify this privacy statement at any time.
 
 ### B. Term Definitions
 
-1\. The term “MedBridge Website” refers to the MedBridge website accessible through the URL [www.medbridgeeducation.com](https://www.medbridgeeducation.com/), the MedBridge mobile application, and other websites owned by MedBridge, including personalized white label websites.
+1\. The term “MedBridge Website” refers to the MedBridge website accessible through the URL [www.medbridge.com](https://www.medbridge.com/), the MedBridge mobile application, and other websites owned by MedBridge, including personalized white label websites.
 
 2\. The term “MedBridge” refers to MedBridge, Inc.
 
