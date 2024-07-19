@@ -11,7 +11,6 @@
     * [Renaissance Orlando Resort & Spa](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
-    * [Magic Sale](https://disneyspringshotels.com/magic/ "Stay Steps From The Most Magical Place on Earth")
     * [Teacher Appreciation](https://disneyspringshotels.com/teachers/)
     * [All Offers](http://disneyspringshotels.com/special-offers/ "All Special Hotel Offers from Disney Springs Hotels")
 * [Disney Advantage](https://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
@@ -84,7 +83,7 @@ Sign Up for Special Offers
 
   
 
-[![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-Promotional-Ticket_4-Park.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-FL-Resident-Ticket_4-Day.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2024/04/WDW_FY24_CFL-DSRAH_Unique-HPA-Co-Op-Campaign.jpg)](https://disneyspringshotels.com/magic/)
+[![](https://disneyspringshotels.com/wp-content/uploads/2024/03/WDW_FY24_Summer-Promotional-Ticket_4-Park.jpg)](https://disneyurl.com/hotelplaza) [![](https://disneyspringshotels.com/wp-content/uploads/2016/05/300x250-teachers.jpg)](https://disneyspringshotels.com/teachers/) [![](https://disneyspringshotels.com/wp-content/uploads/2024/04/WDW_FY24_CFL-DSRAH_Unique-HPA-Co-Op-Campaign.jpg)](https://disneyspringshotels.com/magic/)
 
 _Disney Springs®_ Resort Area Hotels
 
@@ -156,7 +155,6 @@ Sign Up for Special Offers
     * [Renaissance Orlando Resort & Spa](http://disneyspringshotels.com/hotels/renaissance-orlando-resort-spa-disney-springs-resort-area/ "Renaissance Orlando Resort & Spa – Disney Springs® Area")
     * [Wyndham Garden](http://disneyspringshotels.com/hotels/wyndham-lake-buena-vista-disney-springs-resort-area/ "Wyndham Garden Lake Buena Vista Resort at Disney Springs® Area")
 * [Special Offers](https://disneyspringshotels.com/special-offers/ "Special Hotel Offers from Disney Springs Hotels")
-    * [Magic Sale](https://disneyspringshotels.com/magic/ "Stay Steps From The Most Magical Place on Earth")
     * [Teacher Appreciation](https://disneyspringshotels.com/teachers/)
     * [All Offers](http://disneyspringshotels.com/special-offers/ "All Special Hotel Offers from Disney Springs Hotels")
 * [Disney Advantage](https://disneyspringshotels.com/disney-advantage/ "Why Disney Springs Hotels")
