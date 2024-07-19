@@ -1,10 +1,12 @@
 Point finders for Google's Find My Device app Preorder now
 
+Chipolo Fruit LIMITED edition - 4x Chipolo ONE key finder More
+
 [](https://chipolo.net/en-us/)
 
 Products Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Login](https://app.chipolo.net/) [Download free app](https://chipolo.net/en-us/pages/freeapp) [Cart](https://chipolo.net/en-us/shop/cart) [Chipolo app](https://app.chipolo.net/)
 
-[Store](https://chipolo.net/en-us/pages/chipolo-collection) [Cart](https://chipolo.net/en-us/shop/cart) [Hamburger button - to toggle mobile menu](javascript:)
+[Store](https://chipolo.net/en-us/pages/chipolo-collection) [Cart](https://chipolo.net/en-us/shop/cart) [Hamburger button - to toggle mobile menu](javascript:;)
 
 Products
 
