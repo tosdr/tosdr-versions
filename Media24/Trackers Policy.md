@@ -20,7 +20,7 @@
     
     [Investor Centre](https://www.media24.com/company/investor-centre/)
     
-    [BEE Scorecard](https://www.media24.com/wp-content/uploads/2023/06/ELC12011_Media24-Pty-Ltd-and-Subsidiaries-BEE-Condensed-Report_Final.pdf)
+    [BEE Scorecard](https://www.media24.com/wp-content/uploads/2024/07/ELC13038_Media-24_BEE-Certificate_Final.pdf)
     
 * [Brands](# "Brands")
     
