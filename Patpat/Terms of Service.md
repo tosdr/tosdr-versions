@@ -1,13 +1,13 @@
-Free Shipping Over €36.00 | Free Return
+Free Shipping Over €36.00 | Easy Returns
 
 [](https://eur.patpat.com/)
 
 * [New In](https://eur.patpat.com/category/new-in.html)
 * [Characters](https://eur.patpat.com/category/characters.html)
-* [Baby](https://eur.patpat.com/category/baby.html)
-* [Toddler](https://eur.patpat.com/category/toddler.html)
-* [Kids](https://eur.patpat.com/category/kids.html)
-* [Matching Outfits](https://eur.patpat.com/category/matching-outfits.html)
+* [Baby](https://eur.patpat.com/category/baby-clothes.html)
+* [Toddler](https://eur.patpat.com/category/toddler-clothes.html)
+* [Kids](https://eur.patpat.com/category/kids-clothing.html)
+* [Family Matching](https://eur.patpat.com/category/family-matching-outfits.html)
 * [About](https://eur.patpat.com/about)
 
 Search[](https://eur.patpat.com/account/login)
