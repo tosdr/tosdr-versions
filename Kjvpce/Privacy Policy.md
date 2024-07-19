@@ -1,7 +1,7 @@
 * [](javascript:void(0))
 
 * [](https://kjvpce.com/)
-* [Articles](https://kjvpce.com/article-list)
+* [Faith & Current Events](https://kjvpce.com/article-list)
 * [Dictionary](#)
     
     [Webster's 1828](https://kjvpce.com/dictionary) [Easton's 1897](https://kjvpce.com/eastons)
