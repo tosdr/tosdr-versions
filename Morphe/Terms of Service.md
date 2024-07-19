@@ -1,4 +1,4 @@
-![](//www.morphe.com/cdn/shop/t/845/assets/close-icon-dark.svg?v=112145037037702411761718303180)
+![Close icon](//www.morphe.com/cdn/shop/t/856/assets/close-icon-dark.svg?v=112145037037702411761721320352)
 
 ![](//www.morphe.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_400x.gif)
 
@@ -12,489 +12,206 @@ We'll notify you as soon as we're back in stock.
 
 Map of Australia Map of Canada Map of European Union United States United Kingdom
 
-### Your Bag
+     
+
+### Your Bag (0)
 
 Close×
 
-### WE THINK YOU'LL ALSO LOVE THESE
+![icon](//www.morphe.com/cdn/shop/t/856/assets/checkmark_cart.svg?v=32248314250182966831721324849)
 
-Add to cart for $15 and under.
+![icon](//www.morphe.com/cdn/shop/t/856/assets/gift_icon.svg?v=3524224353090864161721324871)
 
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/bake-set-soft-focus-setting-powder-translucent-mini "Mini Bake & Set Soft Focus Setting Powder - Translucent")
+![](//www.morphe.com/cdn/shop/t/856/assets/shipping_icon.svg?v=127807994505907103401721324917)
 
-Morphe
+   
 
-### Mini Bake & Set Soft Focus Setting Powder
+Close you may also like popup
 
-Translucent
+Added to your bag
+=================
 
-$8
+Complete the Look
+-----------------
 
-ADD TO BAG
+Still shopping View bag
 
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/mini-continuous-setting-mist "Mini Continuous Setting Mist")
-
-Morphe
-
-### Mini Continuous Setting Mist
-
-Mini - 1.3 oz
-
-$12
-
-ADD TO BAG
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/morphe-x-meredith-duxbury-brow-sculpting-wax-and-brush-duo "Morphe X Meredith Duxbury Brow Sculpting Wax And Brush Duo")
-
-Morphe
-
-### Morphe X Meredith Duxbury Brow Sculpt & Brush...
-
-Clear
-
-Current price: $9.75
-
-Original price: $13
-
-($16 Value)
-
-Add to Bag
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/sun-done-smooth-gliding-bronzer-stick-caramel-cove "Sun & Done Smooth Gliding Bronzer Stick - Caramel Cove")
-
-[Morphe 2](https://www.morphe.com/collections/morphe-2)
-
-### Sun & Done Smooth-Gliding Bronzer Stick
-
-Caramel Cove
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/m101-lightform-dual-ended-complexion-brush "M101 Lightform Dual Ended Complexion Brush")
-
-Morphe
-
-### M101 Lightform Dual Ended Complexion Brush
-
-Creator Series
-
-$15
-
-Add to Bag
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/m625-three-in-one-brow-sculpting-brush "M625 Three-In-One Brow Sculpting Brush")
-
-Morphe
-
-### M625 Three-In-One Brow Sculpting Brush
-
-Creator Brush Series
-
-$6
-
-Add to Bag
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/supreme-brow-sculpting-and-shaping-wax-latte "Supreme Brow Sculpting And Shaping Wax - Latte")
-
-Morphe
-
-### Supreme Brow Sculpting & Shaping Wax
-
-Latte
-
-$9
-
-ADD TO BAG
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-stargaze "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Stargaze")
-
-Morphe
-
-### Aurascape Dripglass Glazed Lip Gloss
-
-Stargaze
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-cosmic-coral "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Cosmic Coral")
-
-Morphe
-
-### Aurascape Dripglass Glazed Lip Gloss
-
-Cosmic Coral
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/aurascape-dripglass-glazed-highshine-pearlized-lip-gloss-frose-bliss "Aurascape Dripglass Glazed Highshine Pearlized Lip Gloss - Frose Bliss")
-
-Morphe
-
-### Aurascape Dripglass Glazed Lip Gloss
-
-Frose Bliss
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-whipped "Soulmatte Filling Gel Lip Liner - Whipped")
-
-Morphe
-
-### Soulmatte Filling Gel Lip Liner
-
-Whipped
-
-$8
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-wifey "Soulmatte Filling Gel Lip Liner - Wifey")
-
-Morphe
-
-### Soulmatte Filling Gel Lip Liner
-
-Wifey
-
-$8
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-hydra-fill-gel-lip-liner-quick-crush "Soulmatte Filling Gel Lip Liner - Quick Crush")
-
-Morphe
-
-### Soulmatte Filling Gel Lip Liner
-
-Quick Crush
-
-$8
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-quick-crush "Soulmatte Velvet Lip Mousse - Quick Crush")
-
-Morphe
-
-### Soulmatte Velvet Lip Mousse
-
-Quick Crush
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-whipped "Soulmatte Velvet Lip Mousse - Whipped")
-
-Morphe
-
-### Soulmatte Velvet Lip Mousse
-
-Whipped
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/soulmatte-velvet-lip-mousse-my-boo "Soulmatte Velvet Lip Mousse - My Boo")
-
-Morphe
-
-### Soulmatte Velvet Lip Mousse
-
-My Boo
-
-$12
-
-View Shades
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/mini-continuous-prep-set-mist "Mini Continuous Prep & Set Mist+")
-
-Morphe
-
-### Mini Continuous Prep & Set Mist+
-
-Mini - 1.3 oz
-
-$14
-
-ADD TO BAG
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/9g-sunrise-glow-artistry-palette "9G Sunrise Glow Artistry Palette")
-
-Morphe
-
-### 9G Sunrise Glow
-
-Artistry Palette
-
-$14
-
-Add to Bag
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/9m-midnight-dune-artistry-palette "9M Midnight Dune Artistry Palette")
-
-Morphe
-
-### 9M Midnight Dune
-
-Artistry Palette
-
-$14
-
-Add to Bag
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/9w-smoke-shadow-artistry-palette "9W Smoke & Shadow Artistry Palette")
-
-Morphe
-
-### 9W Smoke & Shadow
-
-Artistry Palette
-
-$14
-
-Add to Bag
-
-   [![](//www.morphe.com/cdn/shop/t/845/assets/blank_100x.gif?v=164826798765693215961718303169)](https://www.morphe.com/products/make-it-big-xxl-lip-plumping-serum "Make It Big XXL Lip Plumping Serum")
-
-Morphe
-
-### Make It Big XXL Lip Plumping Serum
-
-Clear
-
-Current price: $10.50
-
-Original price: $14
-
-Add to Bag
-
-Terms & Conditions
-==================
+Terms of Use
+============
 
 [Skip to Content](#maincontent)
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free shipping on US orders $35+
 
-#### Free shipping on orders $35+
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free Make It Big Mini Mascara with $45+ orders
+#### Free shipping on US orders $35+
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free shipping on orders $35+
+#### Free shipping on US orders $35+
 
-#### Free Make It Big Mini Mascara with $45+ orders
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free shipping on US orders $35+
 
-#### Free shipping on orders $35+
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free Make It Big Mini Mascara with $45+ orders
+#### Free shipping on US orders $35+
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free shipping on orders $35+
+#### Free shipping on US orders $35+
 
-#### Free Make It Big Mini Mascara with $45+ orders
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free shipping on US orders $35+
 
-#### Free shipping on orders $35+
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free Make It Big Mini Mascara with $45+ orders
+#### Free shipping on US orders $35+
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free shipping on orders $35+
+#### Free shipping on US orders $35+
 
-#### Free Make It Big Mini Mascara with $45+ orders
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### 25% OFF SUMMER ESSENTIALS
+#### Free shipping on US orders $35+
 
-#### Free shipping on orders $35+
+#### Free Mini Bake & Set - Brightening Pink with $45+ orders
 
-#### Free Make It Big Mini Mascara with $45+ orders
-
-#### 25% OFF SUMMER ESSENTIALS
-
-#### Free shipping on orders $35+
-
-#### Free Make It Big Mini Mascara with $45+ orders
-
-#### 25% OFF SUMMER ESSENTIALS
-
-#### Free shipping on orders $35+
-
-#### Free Make It Big Mini Mascara with $45+ orders
-
-#### 25% OFF SUMMER ESSENTIALS
-
-#### Free shipping on orders $35+
-
-#### Free Make It Big Mini Mascara with $45+ orders
-
-* [![toggle mobile menu](//www.morphe.com/cdn/shop/t/845/assets/hamburger-icon-black.svg?v=37398962526372985731718303205)](#)
-* ![Search](//www.morphe.com/cdn/shop/t/845/assets/search-icon-black.svg?v=109393770938569529511718303270)
+* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/856/assets/hamburger-icon-black.svg?v=37398962526372985731721320376)
+* ![Search](//www.morphe.com/cdn/shop/t/856/assets/search-icon-black.svg?v=109393770938569529511721320440)
 
 [![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new.png?v=1704369663)](https://www.morphe.com/)
 
 * [Login](https://www.morphe.com/account/login)
-* ![Bag](//www.morphe.com/cdn/shop/t/845/assets/cart-icon-new.svg?v=164380968832671469731718303176)
+* ![Bag](//www.morphe.com/cdn/shop/t/856/assets/cart-icon-new.svg?v=164380968832671469731721320348)
     
     Items in cart 0
     
 
 [![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new.png?v=1704369663)](https://www.morphe.com/)
 
-New
-
-Featured
-
-[Shop All](https://www.morphe.com/collections/shop-new-arrivals) [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n) [Aurascape](https://www.morphe.com/pages/aurascape) [Supreme Brow](https://www.morphe.com/pages/supreme-brow)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
-
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
-
-Makeup
-
-Featured
-
-[Shop All](https://www.morphe.com/collections/all-makeup) [Best Sellers](https://www.morphe.com/collections/best-sellers) [Exclusive Offers](https://www.morphe.com/collections/summer-glow)
-
-Eyes
-
-[Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes) [Eyeliner](https://www.morphe.com/collections/eyeliner) [Brow](https://www.morphe.com/collections/brow) [Mascara](https://www.morphe.com/collections/mascara) [Eye Primers](https://www.morphe.com/collections/eye-primer) [All Eye](https://www.morphe.com/collections/eye-makeup)
-
-Lips
-
-[Lipstick](https://www.morphe.com/collections/lipstick) [Lip Gloss](https://www.morphe.com/collections/lip-gloss) [Lip Liner](https://www.morphe.com/collections/lip-liner) [All Lip](https://www.morphe.com/collections/all-lip)
-
-Face
-
-[Complexion](https://www.morphe.com/collections/face-complexion) [Prime & Set](https://www.morphe.com/collections/prime-set) [Cheek](https://www.morphe.com/collections/cheek) [All Face](https://www.morphe.com/collections/face)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
-
-Brushes & Tools
-
-Featured
-
-[Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes) [Shop All](https://www.morphe.com/collections/shop-all-brushes) [Best Sellers](https://www.morphe.com/collections/best-brush-sets) [Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel) [Exclusive Offers](https://www.morphe.com/collections/makeup-brush-sale)
-
-Makeup Brushes
-
-[Brush Sets](https://www.morphe.com/collections/makeup-brush-sets) [Eye Brushes](https://www.morphe.com/collections/all-eye-brushes) [Face Brushes](https://www.morphe.com/collections/all-face-brushes) [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
-
-Makeup Tools
-
-[Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators) [Accessories](https://www.morphe.com/collections/makeup-tools-accessories)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
-
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
-
-Discover
-
-[Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries)
-
-[Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
-
-[Rewards](https://www.morphe.com/pages/morphe-rewards)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
-
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
-
-Gifts & Sets
-
-Featured
-
-[Shop All](https://www.morphe.com/collections/best-gifts) [Gift Sets](https://www.morphe.com/collections/kit-sets)
-
-Gift By Price
-
-[$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
-
-Gift Guides
-
-[Neutral Beauty](https://www.morphe.com/collections/neutral-beauty) [Minimalist](https://www.morphe.com/collections/makeup-minimalist) [Beauty Beginner](https://www.morphe.com/collections/beauty-beginner) [Statement Maker](https://www.morphe.com/collections/statement-maker) [Avid Traveler](https://www.morphe.com/collections/avid-traveler)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
-
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
-
-Edits
-
-Trending Now
-
-[Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin) [Mob Wife Aesthetic](https://www.morphe.com/collections/mob-wife-aesthetic)
-
-Conscious Beauty
-
-[Vegan Makeup](https://www.morphe.com/collections/vegan) [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes) [Clean Beauty](https://www.morphe.com/collections/morphe2)
-
-Collabs
-
-[Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel) [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
-
-Best Sellers
-
-[Palettes](https://www.morphe.com/collections/best-palettes) [Brush Sets](https://www.morphe.com/collections/best-brush-sets) [Under $10](https://www.morphe.com/collections/10-and-under)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)
-
-[Summer Offers](https://www.morphe.com/collections/summer-glow)
+* New Show submenu for New
+    
+    Featured
+    
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals) [NEW Hot Shot Drops](https://www.morphe.com/pages/cheeks) [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured) [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection) [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    
+    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    
+    How Do I Apply Blush Drops? Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+    
+    Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+    
+* Makeup Show submenu for Makeup
+    
+    Featured
+    
+    [Shop All](https://www.morphe.com/collections/all-makeup) [Best Sellers](https://www.morphe.com/collections/best-sellers) [Exclusive Offers](https://www.morphe.com/collections/sale-items)
+    
+    Eyes
+    
+    [Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes) [Eyeliner](https://www.morphe.com/collections/eyeliner) [Brow](https://www.morphe.com/collections/brow) [Mascara](https://www.morphe.com/collections/mascara) [Eye Primers](https://www.morphe.com/collections/eye-primer) [All Eye](https://www.morphe.com/collections/eye-makeup)
+    
+    Lips
+    
+    [Lipstick](https://www.morphe.com/collections/lipstick) [Lip Gloss](https://www.morphe.com/collections/lip-gloss) [Lip Liner](https://www.morphe.com/collections/lip-liner) [All Lip](https://www.morphe.com/collections/all-lip)
+    
+    Face
+    
+    [Complexion](https://www.morphe.com/collections/face-complexion) [Prime & Set](https://www.morphe.com/collections/prime-set) [Cheek](https://www.morphe.com/pages/cheeks) [All Face](https://www.morphe.com/collections/face)
+    
+    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    
+    How Do I Apply Blush Drops? Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)
+    
+* Brushes & Tools Show submenu for Brushes & Tools
+    
+    Featured
+    
+    [Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes) [Shop All](https://www.morphe.com/collections/shop-all-brushes) [Best Sellers](https://www.morphe.com/collections/best-brush-sets) [Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel)
+    
+    Makeup Brushes
+    
+    [Brush Sets](https://www.morphe.com/collections/makeup-brush-sets) [Eye Brushes](https://www.morphe.com/collections/all-eye-brushes) [Face Brushes](https://www.morphe.com/collections/all-face-brushes) [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
+    
+    Makeup Tools
+    
+    [Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators) [Accessories](https://www.morphe.com/collections/makeup-tools-accessories)
+    
+    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    
+    How Do I Apply Blush Drops? Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+    
+    Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+    
+* Discover Show submenu for Discover
+    
+    Artistry
+    
+    [Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries) [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes) [Rewards](https://www.morphe.com/pages/morphe-rewards) [Who we are](https://www.morphe.com/pages/about-morphe)
+    
+    Collabs
+    
+    [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel) [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
+    
+    Conscious Beauty
+    
+    [Vegan Makeup](https://www.morphe.com/collections/vegan) [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes) [Clean Beauty](https://www.morphe.com/collections/morphe2)
+    
+    Trending Now
+    
+    [Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin) [Mob Wife Aesthetic](https://www.morphe.com/collections/mob-wife-aesthetic)
+    
+    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    
+    How Do I Apply Blush Drops? Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)
+    
+* Gifts & Sets Show submenu for Gifts & Sets
+    
+    Featured
+    
+    [Shop All](https://www.morphe.com/collections/best-gifts) [Gift Sets](https://www.morphe.com/collections/kit-sets) [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
+    
+    Gift By Price
+    
+    [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
+    
+    [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
+    
+    How Do I Apply Blush Drops? Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
+    
+    Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
+    
+    ![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
+    
+* [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
+* [35% Off Meredith Anniversary](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
 
 [MORPHE2](https://www.morphe.com/collections/morphe-2)
 
 Choose your region USD$  [Stores](https://www.morphe.com/pages/store-locator) [Login](https://www.morphe.com/account/login)
 
-![Search](//www.morphe.com/cdn/shop/t/845/assets/dt-search-icon.svg?v=101893264991972337941718303193)
+![Search](//www.morphe.com/cdn/shop/t/856/assets/dt-search-icon.svg?v=101893264991972337941721320365)
 
-![Bag](//www.morphe.com/cdn/shop/t/845/assets/dt-cart-icon.svg?v=143133360700128768681718303193)
+![Bag](//www.morphe.com/cdn/shop/t/856/assets/dt-cart-icon.svg?v=143133360700128768681721320364)
 
 Items in cart 0
 
@@ -514,393 +231,533 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
 * [Stores](https://www.morphe.com/pages/store-locator)
 * Choose your region USD$ 
 
- New
-
-Featured
-
-[Shop All](https://www.morphe.com/collections/shop-new-arrivals)
-
-[Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured)
-
-[Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection)
-
-[Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
-
-[Aurascape](https://www.morphe.com/pages/aurascape)
-
-[Supreme Brow](https://www.morphe.com/pages/supreme-brow)
-
- Makeup
-
-Featured
-
-[Shop All](https://www.morphe.com/collections/all-makeup)
-
-[Best Sellers](https://www.morphe.com/collections/best-sellers)
-
-[Exclusive Offers](https://www.morphe.com/collections/summer-glow)
-
-Eyes
-
-[Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes)
-
-[Eyeliner](https://www.morphe.com/collections/eyeliner)
-
-[Brow](https://www.morphe.com/collections/brow)
-
-[Mascara](https://www.morphe.com/collections/mascara)
-
-[Eye Primers](https://www.morphe.com/collections/eye-primer)
-
-[All Eye](https://www.morphe.com/collections/eye-makeup)
-
-Lips
-
-[Lipstick](https://www.morphe.com/collections/lipstick)
-
-[Lip Gloss](https://www.morphe.com/collections/lip-gloss)
-
-[Lip Liner](https://www.morphe.com/collections/lip-liner)
-
-[All Lip](https://www.morphe.com/collections/all-lip)
-
-Face
-
-[Complexion](https://www.morphe.com/collections/face-complexion)
-
-[Prime & Set](https://www.morphe.com/collections/prime-set)
-
-[Cheek](https://www.morphe.com/collections/cheek)
-
-[All Face](https://www.morphe.com/collections/face)
-
- Brushes & Tools
-
-Featured
-
-[Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes)
-
-[Shop All](https://www.morphe.com/collections/shop-all-brushes)
-
-[Best Sellers](https://www.morphe.com/collections/best-brush-sets)
-
-[Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel)
-
-[Exclusive Offers](https://www.morphe.com/collections/makeup-brush-sale)
-
-Makeup Brushes
-
-[Brush Sets](https://www.morphe.com/collections/makeup-brush-sets)
-
-[Eye Brushes](https://www.morphe.com/collections/all-eye-brushes)
-
-[Face Brushes](https://www.morphe.com/collections/all-face-brushes)
-
-[Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
-
-Makeup Tools
-
-[Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators)
-
-[Accessories](https://www.morphe.com/collections/makeup-tools-accessories)
-
- Discover
-
-[Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries)
-
-[Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
-
-[Rewards](https://www.morphe.com/pages/morphe-rewards)
-
- Gifts & Sets
-
-Featured
-
-[Shop All](https://www.morphe.com/collections/best-gifts)
-
-[Gift Sets](https://www.morphe.com/collections/kit-sets)
-
-Gift By Price
-
-[$10 and Under](https://www.morphe.com/collections/10-and-under)
-
-[Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20)
-
-[Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
-
-Gift Guides
-
-[Neutral Beauty](https://www.morphe.com/collections/neutral-beauty)
-
-[Minimalist](https://www.morphe.com/collections/makeup-minimalist)
-
-[Beauty Beginner](https://www.morphe.com/collections/beauty-beginner)
-
-[Statement Maker](https://www.morphe.com/collections/statement-maker)
-
-[Avid Traveler](https://www.morphe.com/collections/avid-traveler)
-
- Edits
-
-Trending Now
-
-[Festival Shop](https://www.morphe.com/pages/festival-shop)
-
-[Travel Sized/Mini](https://www.morphe.com/collections/travel-ready)
-
-[Cloud Skin](https://www.morphe.com/collections/cloud-skin)
-
-[Mob Wife Aesthetic](https://www.morphe.com/collections/mob-wife-aesthetic)
-
-Conscious Beauty
-
-[Vegan Makeup](https://www.morphe.com/collections/vegan)
-
-[Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
-
-[Clean Beauty](https://www.morphe.com/collections/morphe2)
-
-Collabs
-
-[Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel)
-
-[Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
-
-Best Sellers
-
-[Palettes](https://www.morphe.com/collections/best-palettes)
-
-[Brush Sets](https://www.morphe.com/collections/best-brush-sets)
-
-[Under $10](https://www.morphe.com/collections/10-and-under)
-
-[Summer Offers](https://www.morphe.com/collections/summer-glow)
-
-[![Master the Artistry of Applying Cream Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Application-1020x580_600x.jpg?v=1717346114)
-
-Master the Artistry of Applying Cream Blush Jun 05, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/master-the-artistry-of-applying-cream-blush)[![Behind the Collection: Huephoric Rush 3-in-1 Silk Blush](//www.morphe.com/cdn/shop/articles/Morphe-2024-May-Blog-Thumbail-Behind-the-Blush-1020x580_600x.jpg?v=1717345820)
-
-Behind the Collection: Huephoric Rush 3-in-1 Silk Blush Jun 11, 24
-
-![clock icon](//www.morphe.com/cdn/shop/t/845/assets/clock-icon.svg?v=42723469760392072181718303179) 4 min. read](https://www.morphe.com/blogs/artistry-diaries/behind-the-collection-huephoric-rush-3-in-1silk-blush)
-
-Terms & Conditions
-==================
-
-Morphe Terms and Conditions
----------------------------
-
-These terms and conditions (these “**Terms and Conditions**”) govern your use of the www.morphe.com website (“**Website**”) as accessed from within the United States of America and any order which you place through the Website from the United States to be delivered within the United States of America, and apply to any Website visitor (collectively, “**you**”). You should read these Terms and Conditions carefully before you use the Website or buy our products from the Website. These Terms and Conditions tell you who we are, how you can use the Website, how you can buy our products, what to do if there is a problem and other important information.
-
-1.               HOW YOU CAN CONTACT US
-
-* The terms “**Morphe**”, “**we**”, “**our**”, and “**us**” as used in these Terms and Conditions refer to Morphe LLC, with its principal address at 22 4th Street 4th Floor, San Francisco, CA 94103.
-* 1.1            **Our Contact Information**. You can contact us by emailing us at [info@morphe.com](mailto:info@morphe.com).
-* 1.2            **Contacting You**. If we have to contact you, we'll give you a call or email you using the details you give us in your order.
-
-3.               USE OF THE WEBSITE
-
-* 2.1            **Your Agreement**. Your use of the Website, and the services available on the Website (“**Services**”), is covered by these Terms and Conditions and our privacy policy [https://www.morphe.com/pages/privacy-policy](https://www.morphe.com/pages/privacy-policy) (our “**Privacy Policy**”). The Privacy Policy deals with how we use your personal data. We recommend that you read this.
-* 2.2            **Registration**. You can register an account with us to help you order our products more quickly. When you create an account, you confirm that:
-
-* 2.2.1         the details which you provide (e.g. your name) are real and accurate;
-* 2.2.2         you'll notify us immediately of any changes to your details by updating these details on your online account; and
-* 2.2.3         you won't impersonate any other person or use any details that you're not authorised to use.
-
-* 2.3            **Access** **Credentials**. If you register an account with us, please keep in mind that we will treat anyone who uses your username and password as "you." We will provide this user with all of the rights and privileges that we provide to you, and we will hold you responsible for the activities of a person using your password. Therefore, we recommend that you keep your account details safe and that you refrain from disclosing this information to anyone who might "pretend" to be you with respect to the Website and your participation in the Services. You should tell us immediately if you become aware of any unusual or unauthorised activity on your account.
-
-5.               OTHER IMPORTANT INFORMATION ABOUT YOUR USE OF THE WEBSITE
-
-* 3.1            **Ownership of Morphe** **Content**. The aesthetic, content, software, video, audio, pictures, trademarks, trade dress, and other information on the Website (collectively, “**Morphe Content**”) are very important to us. We own or have a right to use all of the Morphe Content, and copyright, trademarks and other intellectual property rights embodied in such Morphe Content available on the Website, and these materials are protected by U.S. and international copyright and other intellectual property laws, or are used under the principles of fair use. We, and our licensors, retain all rights with respect to the Website and the Morphe Content except those expressly granted to you in these Terms and Conditions.
-* 3.2            **Our Grant of Rights to You**. Subject to your compliance with these Terms and Conditions, we grant to you a limited, non-exclusive, non-transferrable, right to access, execute, perform, and otherwise use the Website and Morphe Content solely for your personal purposes, and provided that you shall not: (i) license, sublicense, sell, resell, distribute, or otherwise commercially exploit the Website or Morphe Content; (ii) modify or make derivative works based upon the Website or Morphe Content; or (iii) reverse engineer, reverse compile, or access the Website or Morphe Content in order to build a competitive product or service. You may use these materials to browse our Website and place orders for your personal use only (and at all times in compliance with these Terms and Conditions and our Privacy Policy), but you're not allowed to use them for any other reason. This means that you're not allowed to duplicate, publish, display, distribute, modify, or create derivative works from the material presented through the Website (including any Morphe Content) unless specifically authorized in writing by us.
-* 3.3            **Your Grant of Rights to Us**. By submitting any information when interacting with the Website, submitting product reviews as set forth in Section 9 (How Can I Leave a Review About Morphe Products), uploading files, or through other means (collectively, “**User Content**”), you grant to us a perpetual right to use, copy, reformat, index, modify, display, and distribute your User Content for the purposes of providing Services to you and for our operations. No compensation will be paid with respect to our use of your User Content. You represent and warrant that you own all rights needed to provide the grant set out in this section.
-
-7.               CODE OF CONDUCT
-
-* AS A CONDITION TO YOUR USE OF THE WEBSITE, YOU AGREE TO FOLLOW OUR CODE OF CONDUCT (“**CODE**”), SET OUT BELOW:
-* 4.1            You must not modify the page or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.
-* 4.2            Our status (and that of any identified contributors) as the authors of content on our Website must always be acknowledged.
-* 4.3            You must not use any part of the content on our Website for commercial purposes without obtaining a licence to do so from us or our licensors.
-* 4.4            If you print off, copy or download any part of our Website in breach of these terms of use, your right to use our Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
-* 4.5            You must not misuse our Website or introduce any viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You also shouldn't attempt to gain unauthorised access to the Website or any server, computer or database connected to the Website. You must not attempt to gain unauthorised access to our Website, the server on which our Website is stored or any server, computer or database connected to our Website. You must not attack our Website via a denial-of-service attack or a distributed denial-of-service attack. 
-* 4.6            You may link to our Website, Twitter, Instagram, Facebook, SnapChat and Pinterest, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. When you're linking to our website or social media, you may not do so in a way that suggests we're approving or endorsing you.
-* 4.7            Except in the situations listed in clause 4.6 above, you must not establish a link to our Website on any website that is not owned by you.
-* 4.8            Our Website must not be framed on any other site, nor may you create a link to any part of our Website other than the home page. We reserve the right to withdraw linking permission without notice.
-* 4.9            You must not upload, email, or otherwise transmit User Content that is unlawful, obscene, harmful, hateful, invades the privacy of any third party, contains nudity or pornography, or is otherwise objectionable.
-* 4.10          You must not disseminate material that impacts or invades the privacy of others, such as photographs, video clips, sound recordings, personal data, or other materials that reveal personal, private, or sensitive information about another person, without that person's consent.
-* 4.11          You must not submit material that is intentionally false, defamatory, unlawfully threatening, or unlawfully harassing.
-* 4.12          You must not infringe any third party's copyright, patent, trademark, trade secret, or other proprietary rights or rights of publicity or privacy. Electronic materials – such as music, videos, images, and text in electronic form – can easily be copied, modified, and sent over networks (such as the Internet). These electronic materials are thus extremely vulnerable to unauthorized distribution and copyright infringement. These materials may not be transmitted over the Website without the copyright owner's permission, or without a legitimate "fair use" justification for the transmittal.
-* 4.13          You must not use the Website for any purpose that is unlawful or prohibited by these Terms. For example, you will not use the Website to violate any law, statute, or regulation (including, without limitation, those governing export control, consumer protection, unfair competition, anti-discrimination, or false advertising).
-
-9.               MONITORING; REVOCATION OR SUSPENSION OF USE PRIVILEGES
-
-* 5.1            **Monitoring; Violation of the Code**. We reserve the right at any time to (i) monitor your use of the Website, and (ii) terminate or suspend your use of some or all portions of the Website if you engage in activities that we conclude, in our discretion, breach our Code of Conduct or otherwise violate these Terms and Conditions or our Privacy Policy.
-* 5.2            **Objectionable Content.** Although we have no – and assume no – obligation to monitor activities on the Website, please understand that we may employ filters designed to detect and block inappropriate content under our Code of Conduct. We reserve the right to request edits to remove any information or material, in whole or in part, that we believe, in our sole discretion, is incompatible with our Code of Conduct. IF YOU DO NOT REMOVE OBJECTIONABLE CONTENT IN RESPONSE TO OUR REASONABLE REQUESTS, THEN WE WILL TERMINATE YOUR USE OF SOME OR ALL OF THE WEBSITE OR SERVICES AT ISSUE AND REMOVE THE CONTENT AT ISSUE.
-* 5.3            **Applicable Law**; **Disclosure**. Our Code of Conduct is based in many instances on principles of applicable law. Accordingly, users who violate our Code of Conduct may be exposed under these laws to criminal charges, and civil liability to harmed parties for compensatory damages and attorney's fees. We reserve the right at all times to disclose information that it deems necessary to satisfy any applicable law, regulation, legal process, or governmental request, consistent with our Privacy Policy.
-* 5.4            **Reporting**. If you believe that a user has acted inappropriately, such as by violating our Code of Conduct, then you may report your concerns by contacting us at i[info@morphe.com](mailto:info@morphe.com).
-
-11.               LINKS TO THIRD-PARTY SITES
-
-* The Website may contain links to third-party websites (collectively, the “**Linked Sites**”). Linked Sites may include websites operated by third-parties that we may engage to provide certain Services to you on our behalf. We do not own these Linked Sites and we do not assume any responsibility or liability for any content, opinions, material available on Linked Sites, or such Linked Sites' privacy practices with respect to information that you provide to the Linked Sites. We do not endorse the content of any Linked Site, nor do we warrant that a Linked Site will be free of computer viruses or other harmful code that can impact your computer or other web-access device. By using the Website to link to another site (including Linked Sites), you agree and understand that such use is at your own risk. For example, if you submit personal data to a Linked Site, then the personal data that you submit shall be governed by the Linked Site's privacy policy and terms of use, and not by our Privacy Policy or these Terms and Conditions.
-
-13.               HOW CAN I BE FEATURED ON THE WEBSITE?
-
-* 7.1            **Conditions**. If you would like to be featured on the Website:
-
-* 7.1.1         you need to make sure you meet our requirements [https://morphe.com/pages/social-pin-board](https://morphe.com/pages/social-pin-board);
-* 7.1.2         you promise us that any User Content you submit is yours or that you've got permission to submit it to us in accordance with Section 3.3 (Your Grant of Rights to Us);
-* 7.1.3         you're happy for us to publicly share your content on the Website and social media channels, and so you're happy for us to have a right to use, store, copy, distribute your photo and make it available to third parties; and
-* 7.1.4         you tag #MorpheBabe.
-
-* 7.2            **Use and Removal of User** **Content**. It is completely in our discretion as to whether we will use any User Content submitted to us and we can take down any content at any time. However, before we use any User Content you submit on social media using #morphe babe, we will always ask your permission before we use it.
-* 7.3            **Compliance with Our Standards**. You confirm that any such contribution of User Content does comply with those standards, and you may be liable to us if your contribution doesn't comply with those standards. This means you will be responsible for any loss or damage we suffer as a result of your contribution failing to comply with those standards.
-* 7.4            **Your Disputes with Others**. We are not responsible or liable for User Content or user conduct. You are solely responsible for your User Content, conduct, and interaction with other site visitors, both online or offline. We have no obligation to become involved in disputes between Website users. If you have a dispute with another user, then you release us (and our officers, directors, agents, employees, subsidiaries, and affiliates) from claims, demands, and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such dispute.
-
-15.               CONTACT FOR ALLEGED COPYRIGHT INFRINGEMENT
-
-* We respect the intellectual property rights of others and require that its users do the same. If you believe that any content (including User Content and Morphe Content) on the Website or other activity taking place on the Website constitutes infringement of a work protected by copyright, please notify us as at [info@morphe.com](mailto:info@morphe.com)
-* Your notice must comply with the Digital Millennium Copyright Act (17 U.S.C. §512) (the “**DMCA**”). Upon receipt of a compliant notice, we will respond and proceed in accordance with the DMCA.
-
-17.               HOW CAN I LEAVE A REVIEW ABOUT MORPHE PRODUCTS?
-
-* 9.1            **Submission of Reviews**. You can leave a review about a Morphe product by clicking on the "leave a review" button under a particular product.
-
-* 9.1.1         Any review must:
-* (a)             be accurate (where it states facts); and
-* (b)            be genuinely held (where it states opinions).
-* 9.1.2         Any review must not:
-* (a)             contain a reference to any other company, website or individual;
-* (b)            be defamatory or discriminatory of any person;
-* (c)             be obscene, offensive, hateful or inflammatory.
-* (d)            promote violence; or
-* (e)             breach the law.
-* 9.1.3         By leaving a review, you agree that:
-* (a)             we can publish your review on the Website;
-* (b)            we can moderate your review;
-* (c)             we can remove your review from the Website at any time, if we think that your review isn't in line with these terms, and that we don't need to tell you that we're going to remove it; and
-* (d)            we won't be liable to you if we do remove your review from the Website.
-
-19.             HOW CAN I BUY FROM THE MORPHE WEBSITE?
-
-* The sale and purchase terms and conditions included in this Section 10 (How Can I Buy from the Morphe Website) through 16 (Your Remedies in Connection with Sale and Purchase Terms) (together, these “**Sale and Purchase Terms**”) shall only apply if you place an order on our Website to purchase our product(s).
-* 10.1          **Ordering**. In order to buy any of the products on our Website you need to:
-
-* 10.1.1      click on any product that you'd like to buy, click the quantity that you'd like to buy and then click "Add To Bag";
-* 10.1.2      click the shopping bag icon at the top of the Website;
-* 10.1.3      the order process will show you our acceptable payment methods;
-* 10.1.4      you'll be asked to provide your contact, shipping and payment information during the order process;
-* 10.1.5      you'll be shown a breakdown of the product price and any applicable delivery costs; and
-* 10.1.6      you'll place your order by pressing the "Complete Order" button at the end of the checkout process.
-
-* 10.2          **Order Limit**. There is a limit of $500 per order per person. If you try to buy more than $500 worth of products, we won't be able to accept your order. If we think or know that you're trying to get around our limit, we may also refuse to accept your orders.
-* 10.3          **Personal Use Only**. We want you to enjoy your Morphe products yourself and so we're only offering them to you for personal use; you can't resell them onto other people.
-* 10.4          **Order Confirmation**. We'll send you an order confirmation email setting out the details of the products you've ordered. This e-mail does not mean your order has been accepted.
-* 10.5          **Payment**. We'll take payment from you once your order has been placed.
-* 10.6          **Inability to Accept Orders**. There are times when we're not able to accept your order. This might happen if:
-
-* 10.6.1      the product you're looking to buy is out of stock;
-* 10.6.2      we're not able to take payment from you;
-* 10.6.3      you don't comply with these Sale and Purchase Terms (particularly if you're ordering more than the permitted amount of products per order or we think you're not ordering the products for personal use);
-* 10.6.4      there is a technological failure and we can't process your order;
-* 10.6.5      you haven't provided us with all the information we need to fulfil your order; or
-* 10.6.6      we've spotted an error in the price or description of the product.
-
-* If we can't accept your order, we'll let you know as soon as we can and won't charge you for your order.
-* 10.7          **Order Numbers**. We'll give you an order number when we accept your order. If you contact us about your order, we may ask you for this order number so keep it safe.
-
-21.             OUR PRODUCTS
-
-* 11.1          **Product Images**. The images of the products on the Website are for illustrative purposes only and we can't guarantee that what you see from your phone, tablet, laptop or computer accurately reflects the colour of the products. This means that what you buy (including any product packaging) may vary slightly from those images.
-* 11.2          **Product Availability**. The products sold by us are those featured on the Website on the day on which you access the Website, subject to availability. We shall try to report any permanent or temporary unavailability of our products on the Website's information page describing each product or at the time you place the order.
-* 11.3          **Prices**. The price of our products will be the price indicated on the order page when you place your order. Although we try to make sure that the price shown on the Website and order page are accurate, some of the prices may be incorrect. If we find a mistake in the price of a product you have ordered, we won't be able to accept your order and we'll contact you as soon as possible to give you the choice of continuing with the order or cancelling it. If we can't reach you we'll treat your order for the incorrectly priced product as cancelled.
-
-23.             WHAT TO DO IF YOU'VE MADE A MISTAKE
-
-* 12.1          **Order Changes**. Unfortunately once an order is submitted it is not possible to make any changes. Please refer to Section 14.1.
-
-25.             WHEN WILL I GET MY ORDER?
-
-* 13.1          **Delivery Date**. We work with a delivery company to send you your order and we'll deliver your order according to the estimated delivery date shown when you're placing your order and the order despatch email.
-* 13.2          **Shipping or Delivery Delays**. Sometimes your order might be delayed for a reason outside of our control. If this happens, we'll let you know as soon as possible, and we'll try to get your order to you as soon as we can. Even though we'll be trying to fix the situation, we won't be responsible or liable to you for any delays to your order. If your order is going to be significantly delayed, you can contact us at [info@morphe.com](mailto:info@morphe.com) and we can discuss the options available to you, as per 14 (How Can I Cancel or Return My Order?).
-* 13.3          **Delivery Failures**. If no one's around to accept delivery of your order, our delivery company will leave you a note telling you how to rearrange delivery or collect your order from them. If they cannot deliver your order for any reason, it will be returned to Morphe and your payment method will be credited for the products purchased less any shipping fees.
-* 13.4          **Our Right to Stop Orders**. Sometimes we might have to stop your order if we need to change our products to comply with any relevant laws or if our products are subject to any recall order. If we have to stop your order, we'll let you know in advance (unless the problem's urgent or an emergency) and we'll refund any money you've paid for the affected products (including delivery charges).
-
-27.             HOW CAN I RETURN OR EXCHANGE MY ORDER?
-
-* 14.1          **Cancelling Orders**. To serve you better, Morphe begins processing your order upon receipt and we are unable to modify or cancel an order once it has been placed. If you have any additional questions or concerns, please email us at [info@morphe.com](mailto:info@morphe.com).  
+* [ ] 
     
-* 14.2          **Returns or Exchanges**. Returns or exchanges can be made for any reason within 30 days. Email us at [info@morphe.com](mailto:info@morphe.com) telling us that you'd like a refund or exchange and giving us your name, order number, date of order, delivery address and your contact details.
-* 14.3          **Reimbursement of Delivery Costs**. We'll only reimburse you the delivery costs of returning the products to us if the products are faulty or mis-described or because we were supposed to do something and we can't do it.
-* 14.4          **Method of Reimbursement.** We'll reimburse you by the same method you used for payment.
-* 14.5          **Timing of Refund**. We'll make any refunds due to you as soon as possible but we'll try to reimburse you within 14 days from when we receive your returned products.
+    New
+    
+    
+    -----
+    
+    Featured
+    ----------
+    
+    [Shop All](https://www.morphe.com/collections/shop-new-arrivals)
+    
+    [NEW Hot Shot Drops](https://www.morphe.com/pages/cheeks)
+    
+    [Huephoric Blush](https://www.morphe.com/products/huephoric-rush-3-in-1-silk-blush-pleasured)
+    
+    [Morphe X Ariel](https://www.morphe.com/collections/ariel-makeup-artist-makeup-brush-collection)
+    
+    [Lightform Foundation](https://www.morphe.com/products/lightform-extended-hydration-foundation-medium-13n)
+    
+* [ ] 
+    
+    Makeup
+    
+    
+    --------
+    
+    Featured
+    ----------
+    
+    [Shop All](https://www.morphe.com/collections/all-makeup)
+    
+    [Best Sellers](https://www.morphe.com/collections/best-sellers)
+    
+    [Exclusive Offers](https://www.morphe.com/collections/sale-items)
+    
+    Eyes
+    ------
+    
+    [Eyeshadow & Palettes](https://www.morphe.com/collections/eyeshadow-palettes)
+    
+    [Eyeliner](https://www.morphe.com/collections/eyeliner)
+    
+    [Brow](https://www.morphe.com/collections/brow)
+    
+    [Mascara](https://www.morphe.com/collections/mascara)
+    
+    [Eye Primers](https://www.morphe.com/collections/eye-primer)
+    
+    [All Eye](https://www.morphe.com/collections/eye-makeup)
+    
+    Lips
+    ------
+    
+    [Lipstick](https://www.morphe.com/collections/lipstick)
+    
+    [Lip Gloss](https://www.morphe.com/collections/lip-gloss)
+    
+    [Lip Liner](https://www.morphe.com/collections/lip-liner)
+    
+    [All Lip](https://www.morphe.com/collections/all-lip)
+    
+    Face
+    ------
+    
+    [Complexion](https://www.morphe.com/collections/face-complexion)
+    
+    [Prime & Set](https://www.morphe.com/collections/prime-set)
+    
+    [Cheek](https://www.morphe.com/pages/cheeks)
+    
+    [All Face](https://www.morphe.com/collections/face)
+    
+* [ ] 
+    
+    Brushes & Tools
+    
+    
+    -----------------
+    
+    Featured
+    ----------
+    
+    [Morphe Brush Guide](https://www.morphe.com/pages/the-morphe-guide-to-makeup-brushes)
+    
+    [Shop All](https://www.morphe.com/collections/shop-all-brushes)
+    
+    [Best Sellers](https://www.morphe.com/collections/best-brush-sets)
+    
+    [Morphe x Ariel](https://www.morphe.com/pages/morphe-x-ariel)
+    
+    Makeup Brushes
+    ----------------
+    
+    [Brush Sets](https://www.morphe.com/collections/makeup-brush-sets)
+    
+    [Eye Brushes](https://www.morphe.com/collections/all-eye-brushes)
+    
+    [Face Brushes](https://www.morphe.com/collections/all-face-brushes)
+    
+    [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
+    
+    Makeup Tools
+    --------------
+    
+    [Sponges & Applicators](https://www.morphe.com/collections/makeup-sponges-applicators)
+    
+    [Accessories](https://www.morphe.com/collections/makeup-tools-accessories)
+    
+* [ ] 
+    
+    Discover
+    
+    
+    ----------
+    
+    Artistry
+    ----------
+    
+    [Artistry Diaries](https://www.morphe.com/blogs/artistry-diaries)
+    
+    [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
+    
+    [Rewards](https://www.morphe.com/pages/morphe-rewards)
+    
+    [Who we are](https://www.morphe.com/pages/about-morphe)
+    
+    Collabs
+    ---------
+    
+    [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel)
+    
+    [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
+    
+    Conscious Beauty
+    ------------------
+    
+    [Vegan Makeup](https://www.morphe.com/collections/vegan)
+    
+    [Vegan Brushes](https://www.morphe.com/collections/vegan-pro-brushes)
+    
+    [Clean Beauty](https://www.morphe.com/collections/morphe2)
+    
+    Trending Now
+    --------------
+    
+    [Festival Shop](https://www.morphe.com/pages/festival-shop)
+    
+    [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready)
+    
+    [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
+    
+    [Mob Wife Aesthetic](https://www.morphe.com/collections/mob-wife-aesthetic)
+    
+* [ ] 
+    
+    Gifts & Sets
+    
+    
+    --------------
+    
+    Featured
+    ----------
+    
+    [Shop All](https://www.morphe.com/collections/best-gifts)
+    
+    [Gift Sets](https://www.morphe.com/collections/kit-sets)
+    
+    [Exclusive Bundles](https://www.morphe.com/collections/exclusive-bundles)
+    
+    Gift By Price
+    ---------------
+    
+    [$10 and Under](https://www.morphe.com/collections/10-and-under)
+    
+    [Gifts Under $20](https://www.morphe.com/collections/gift-guide-under-20)
+    
+    [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
+    
+* [Find Your Shade](https://www.morphe.com/pages/makeup-quizzes)
+* [35% Off Meredith Anniversary](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
 
-29.             YOUR REMEDIES IN CONNECTION WITH SALE AND PURCHASE TERMS.
+[![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
 
-* 15.1          **Our Failure to Comply**. If we fail to comply with these Sale and Purchase Terms, we are responsible for loss or damage you suffer that is a foreseeable or obvious result of us breaking this contract, at the time we accept your order.
-* 15.2          **Limitation of Our Liabilities Relating to Sales**. We only supply the products for personal use. We will not, in connection with these Sale and Purchase Terms, be liable to you in any way for:
+How Do I Apply Blush Drops? Jul 11, 24
 
-* 15.2.1      any loss of revenue, profit, business or sales that you suffer; or
-* 15.2.2      any losses which are not foreseeable or are not obvious when we accept your order.
+![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/how-do-i-apply-blush-drops)[![Meet Hot Shot Blush & Bronzer Drops](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-MeetHotShot-1020x580_baee9229-00ff-429d-a780-88bbd0f2dfb7_600x.jpg?v=1720706595)
 
-* 15.3          **No Third-Party Rights**. Nobody else has any rights under these Sale and Purchase Terms.
+Meet Hot Shot Blush & Bronzer Drops Jul 11, 24
 
-31.             OUR RESPONSIBILITY FOR LOSS OR DAMAGE SUFFERED BY YOU
+![clock icon](//www.morphe.com/cdn/shop/t/856/assets/clock-icon.svg?v=42723469760392072181721320351) 4 Min. read](https://www.morphe.com/blogs/artistry-diaries/meet-hot-shot-blush-bronzer-drops)
 
-* 16.1          **Warranty Disclaimer**. WE DO NOT PROMISE THAT THE WEBSITE OR SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED. THE WEBSITE, MORPHE CONTENT, AND SERVICES ARE DELIVERED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WHEN YOU ACCESS THE WEBSITE, OR USE THE SERVICES, YOU DO SO AT YOUR OWN RISK. WE DO NOT WARRANT OR REPRESENT THAT MATERIALS YOU DOWNLOAD FROM THE SITE WILL BE FREE OF VIRUSES OR OTHER HARMFUL FEATURES. THE WEBSITE, MORPHE CONTENT, AND SERVICES ARE DELIVERED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WHEN YOU ACCESS THE WEBSITE, OR USE THE SERVICES, YOU DO SO AT YOUR OWN RISK. WE DISCLAIM: (i) ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT; (ii) ANY RESPONSIBILITY OR LIABILITY FOR THE ACCURACY, CONTENT, COMPLETENESS, OR LEGALITY OF INFORMATION AVAILABLE THROUGH THE WEBSITE OR SERVICES; AND (iii) ANY RESPONSIBILITY OR LIABILITY FOR HARM RESULTING FROM DOWNLOADING OR ACCESSING INFORMATION THROUGH THE WEBSITE, INCLUDING HARM CAUSED BY VIRUSES OR SIMILAR DESTRUCTIVE FEATURES. YOU EXPRESSLY AGREE THAT USE OF THE WEBSITE, SERVICES, AND CONTENT IS AT YOUR SOLE RISK.
-* 16.2          **Limitation of Liability**. UNDER NO CIRCUMSTANCES INCLUDING, BUT NOT LIMITED TO, BREACH OF CONTRACT, TORT, OR NEGLIGENCE, WILL WE BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS) THAT ARISE OUT OF OR ARE RELATED TO YOUR USE OF THE WEBSITE, SERVICES, AND MORPHE CONTENT.
-* 16.3          **Accuracy of Website Content**. Although we make reasonable efforts to update the information on the Website, we can't guarantee that the content on the Website is accurate, complete or up to date. If you have a question about any information on the Website, let us know by calling or emailing us.
+Terms of Use
+============
 
-33.             YOUR RESPONSIBILITY FOR LOSS OR DAMAGE SUFFERED BY US
+**Last Updated: July 4, 2024.**
 
-* You agree to defend, indemnify, and hold us and our subsidiaries, affiliates, officers, directors, agents, and employees harmless from any liability to third-parties, including reasonable attorneys' fees, arising from or related to your breach of these terms and conditions or our Privacy Policy.
+Welcome to the Morphe LLC (“Morphe”, “us”) website, [www.morphe.com](https://www.morphe.com/pages/www.morphe.com) (the “Website”). These Terms of Use and any amendments or supplements to it (this “Agreement”) tell you who we are, how you can use the Website, how you can buy our products, what to do if there is a problem and other important information.
 
-35.             GENERAL
+This Agreement forms a legally binding agreement between you and Morphe. This Agreement governs your access to and use the Website and the data or other content displayed on, maintained or uploaded by or onto the Website, including but not limited to the aesthetic, content, software, video, audio, pictures, trademarks, trade dress, and other information on the Website (collectively, the “Content”) and the services provided through this Website (collectively, the “Services”).
 
-* 18.1          **Suspension of Website or Services**. We may suspend, take down or stop the availability of all or any part of the Website or the Services for business or operation reasons. We'll try to give you reasonable notice if this happens but this might not always be possible.
-* 18.2          **Third**\-**Party Website Terms**. Where the Website contains links to websites and resources provided by third parties, and not Morphe, we have no control over this information and your use of these websites and resources is at your own risk. In order to be safe, we recommend that you read any terms and conditions for these websites and resources.
-* 18.3          **Severability.** If any provision of these Terms and Conditions is held to be invalid or unenforceable, then such provision shall be struck and the remaining provisions shall be enforced.
-* 18.4          **Headings.** Headings are for reference purposes only and in no way define, limit, construe, or describe the scope or extent of such section.
-* 18.5          **No Waiver of Rights.** Our failure to act with respect to a breach by you or others does not waive its right to act with respect to subsequent or similar breaches.
-* 18.6          **Entire Agreement.** Subject to Section 19.7 (Other Agreements), these Terms and Conditions set forth the entire understanding and agreement between you and us with respect to the subject matter hereof and supersede any prior or contemporaneous understanding, whether written or oral.
-* 18.7          **Other** **Agreements**. Certain portions of the Website or Services offered through it may be subject to additional or different terms and conditions. We will notify you if the Service or portion of the Site is subject to terms and conditions that differ from these terms and conditions, and you will have the opportunity to decline to participate in such Service or Website if you do not agree with the differing terms and conditions. These Terms and Conditions must be read in conjunction (i) with other agreements into which you and Morphe enter concerning the Website (if any), and (ii) with our Privacy Policy. The provisions of our Privacy Policy are incorporated herein. To the extent these Terms and Conditions conflict with the terms of our Privacy Policy, the terms of our Privacy Policy shall control. Similarly, to the extent these Terms and Conditions conflict with the terms and conditions of any specific agreement you enter with us, the terms and conditions of such specific agreement shall control.
-* 18.8          **Assignment.** These Terms and Conditions shall not be assignable by you, either in whole or in part. We reserve the right to assign its rights and obligations under these Terms and Conditions.
-* 18.9          **Governing Law**. These Terms and Conditions shall be governed in all respects by the laws of the State of California without giving effect to its conflicts of law provisions. Both parties submit to the personal jurisdiction of and venue in the state and federal courts in the judicial district that includes San Francisco, California. The parties further agree that any cause of action arising under these Terms shall exclusively be brought in such courts.
-* 18.10       **Modifications.** We can change these Terms and Conditions from time to time. We shall try to ensure that any new version of these Terms and Conditions shall be announced in advance on our Website. The version that is on the Website will always take precedence over all the other versions of these Terms and Conditions. However, the applicable Terms and Conditions are those accepted by you at the time of placing the order.
-* 18.11       **Survival.** In addition to any right or obligation that by its nature or intent is intended to survive the termination or expiration of these Terms and Conditions, the following sections shall survive any termination or expiration of these Terms and Conditions and shall apply indefinitely: Sections 3.1 (Ownership of Morphe Content); 17.1 (Warranty Disclaimer); 17.2 (Limitation of Liability); 18 (Your Responsibility for Loss or Damage Suffered by Us); and 19 (General).
+Notice Regarding Dispute Resolution: **This Agreement contains provisions that govern how claims you and us may have against each other are resolved, including an agreement to arbitrate disputes, which will require you to submit claims you have against us to binding arbitration, and waiver of class actions and jury trial. Please read the arbitration provision (Section “Dispute Resolution”) in this agreement as it affects your rights under this Agreement.**
 
-37.             SMS
+Your use of the Services shall be deemed to constitute your consent to be bound by this Agreement and shall be enforceable in the same way as if you had signed this Agreement. IF YOU DO NOT AGREE TO BE BOUND BY THIS AGREEMENT, PLEASE DO NOT USE THE SERVICES OR WEBSITE. This Agreement applies to all users of the Services, whether you are a “visitor” or a “registered user.” By clicking “accept” during registration, or accessing any part of the Website, you agree to this Agreement. If you breach any part of this Agreement, we may revoke your license to access the Services, block your access, and suspend or cancel your account (if you have one).
 
-* 19.1          **Wunderkind.** Morphe uses a third party performance marketing technology company called Wunderkind Corporation. ("**Wunderkind**") to send marketing and promotional SMS text messages to its customers. These may include cart reminder messages.
-* 19.2          **Receiving Text Messages.** You can choose to receive promotional text messages from Morphe by signing up on our Website or by sending a text message indicating your consent to 689-08. If you consent to receiving recurring marketing or promotional SMS text messages from us (each, a “**Text Message**”), these will be sent by Wunderkind through an automatic telephone dialing system. This service is optional and is not a condition for purchase. Where you consent to receiving Text Messages from Morphe, you are also consenting to Morphe sharing the information that we collect from you with Wunderkind (please see section 19.6 below).
-* 19.3           **Opting out of Text Messages.** You can opt out of receiving any further Text Messages from us at any time by replying “STOP” to any Text Message you receive from us. For help, reply “HELP” to any Text Message you receive from us or email [info@morphe.com](mailto:info@morphe.com) or [textsupport@wunderkind.co](mailto:textsupport@wunderkind.co).
-* 19.4          **Charges.** Your service carrier's standard message and data rates may apply to our Text Messages and any SMS text messages you send to us or Wunderkind. Please check your service carrier's pricing plan to work out the charges for browsing data and sending and receiving Text Messages. Under no circumstances will Wunderkind, Morphe or our affiliates be responsible for any SMS messaging, data or wireless charges incurred by you or by a person that has access to your device or telephone number. If your service carrier does not permit SMS messages, you may not receive Text Messages.
-* 19.5          **Our liability.** We are not responsible for any delays in the receipt of, or failure to deliver, any Text Messages. Delivery of Text Messages depends on effective transmission from your network operator. We do not promise that your receipt of Text Messages will be error free. Our Text Message services are on an "as is" and "as available” basis. We may stop sending Text Messages to you at any time at our sole discretion.
-* 19.6          **Information we will collect from you.** If you sign up to receive Text Messages, we may collect the following information from you:
+We may modify the terms of this Agreement at any time, in our sole discretion; provided that with respect to the terms of an order of product, the applicable terms are those accepted by you at the time of placing the order. You should check the Site and this Agreement periodically for modifications. If we do so, we’ll let you know by posting the Agreement on the Website. It’s important that you review the Agreement whenever we modify it because if you continue to use the Services after we have posted a modified Agreement on the Website, you are indicating to us that you agree to be bound by the modified Agreement. If you don’t agree to be bound by the modified Agreement, then you may not use the Services anymore. Because our Services are evolving over time we may change or discontinue all or any part of the Services, at any time and without notice, at our sole discretion.
 
-* 19.6.1          your phone number;
-* 19.6.2          your service carrier’s name; and
-* 19.6.3          the date, time and content of your text messages.
+**Using the Services**
 
-* We may use this information in accordance with our Privacy Policy to contact you and to provide the services you request from us. This information will also be given to Wunderkind to enable them to send you Text Messages and provide services to you. For more information on how we use your information, please read our Privacy Policy.
-* 19.7          **Updating your phone number.** If you change or deactivate your phone number, you must update your account information and the phone number(s) attached to your account to prevent us from accidentally communicating with anyone who takes over your old phone number(s).
-* 19.8          **Disputes.** If you're not happy with any of these terms of this SMS Marketing Policy or your receipt of Text Messages, you and Morphe agree that any disagreement or dispute will be resolved through mandatory final and binding arbitration. Arbitration is often less formal than a lawsuit. Instead of a judge deciding a case, a neutral arbitrator is appointed. The arbitration will be governed by the laws of the State of California.
-* 19.9          **No class actions.** By agreeing to the terms of this SMS Marketing Policy, you agree only to resolve disputes with us on an individual basis and not to bring any claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations are not allowed.
+_Accessing the Services._ We may withdraw or amend our Website and any Services, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Services is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Services, or the entire Services, to users, including registered users. You’re responsible for making all arrangements necessary for you to have access to the Website and its Content.
 
-39.             CONTACT US.
+_Account Creation and Registration._ To access many of the Services’ features, you must create an account. Registration is free. To register, you must complete the registration process by providing accurate information as prompted by the registration form. You also must choose a password and a username. You must not choose a username that is offensive or that infringes a person’s service mark, trademark, or trade name. You can register an account with us to help you order our products more quickly. When you create an account, you confirm that: (i) the details which you provide (e.g. your name) are real and accurate; (ii) you'll notify us immediately of any changes to your details by updating these details on your online account; (iii) you won't impersonate any other person or use any details that you're not authorized to use; (iv) if you previously had an account on the Services, we did not suspend or terminate that account for breach of this agreement; and (v) you’re creating an account for your own personal use, and you will not sell, rent, or transfer your account to any third party.
 
-* If you have any questions, comments, or complaints about these Terms and Conditions, our products, the practices of this Website, or your dealings with this Website, please contact us at [info@morphe.com](mailto:info@morphe.com).
+_Responsibility for Account._ You’re responsible for keeping your password and account confidential. Further, you’re responsible for all activities that occur under your account. You must promptly notify us of any unauthorized use of your account or any other security breach. You must not sell, rent, lease, share, or provide access to your account to anyone else, including charging anyone for access to administrative rights on your account. We may disable any username, password, or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any reason or no reason, including if, in our opinion, you have breached any part of this agreement. If you register an account with us, please keep in mind that we will treat anyone who uses your username and password as "you." We will provide this user with all of the rights and privileges that we provide to you, and we will hold you responsible for the activities of a person using your password.
 
-41.             EFFECTIVE DATE.
+_Liability for Account Misuse._ We will not be liable for any loss that you may incur because of someone else using your password or account, either with or without your knowledge. You could be held liable for losses incurred by us or another person because of someone else using your password or account.
 
-* The effective date of these Terms and Conditions is October 18, 2020.
+_Use of Other Accounts._ You must not use anyone else’s account at any time.
 
-43.             COPYRIGHT AND LEGAL NOTICE.
+_Account Security._ We care about the integrity and security of your personal information. But we cannot guarantee that unauthorized persons will never be able to defeat the Website’s security measures or use any personal information you provide to us for improper purposes. You acknowledge that you provide your personal information at your own risk.
 
-* Copyright © 2021 Morphe LLC. All Rights Reserved.
+_Communication and Preferences._ By registering for an account, you consent to receive electronic communications from us relating to your account. These communications may involve sending emails to the email address you provided during registration or posting communications on the Website and will include notices about your account (e.g., change in password, confirmation emails, and other transactional information) and are part of your relationship with us. You acknowledge that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that those communications be in writing. We recommend that you keep copies of electronic communications by printing a paper copy or saving an electronic copy. You also consent to receive certain other communications from us, including newsletters about new features and content, special offers, promotional announcements, and customer surveys via email or other methods. We do not provide facilities for sending or receiving confidential electronic communications. You should consider all messages sent to us or from us as open communications readily accessible to the public. You should not use the Website to send or receive messages you only intend the sender and named recipients to read. Users or operators of the Website may read all messages you send to or through the Website regardless of whether they are the intended recipients.
 
-#69161119\_v3
+_Site Features._ For a better user experience, we may use AI to recommend products and other areas of the site that You may be interested in.
+
+**Access Outside the United States**
+
+We control and operate the Website from our offices in the United States of America, and all information is processed within the United States. We do not represent that materials on the Website are appropriate or available for use in other locations. Persons who choose to access and use the Services from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable. You agree to comply with all applicable laws, rules and regulations in connection with your use of the Services.
+
+**Privacy Policy**
+
+Please refer to our Privacy Policy [https://www.morphe.com/pages/privacy-policy](https://www.morphe.com/pages/privacy-policy) for information on how we collect, use and disclose information from our users. You acknowledge and agree that your use of the Services is subject to our Privacy Policy.
+
+**Proprietary Rights**
+
+You acknowledge and agree that the Content on the Website is protected by copyright, patent, trademark, trade secret, or other proprietary rights and laws. All right, title, and interest in the Website, Services and the Content are and will remain the exclusive property of Morphe, its affiliates, and its licensors. The technology and software underlying the Website are the property of Morphe, our affiliates and our partners (the “Software”). Except as expressly authorized by Morphe, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute, or create derivative works based on the Website, the Content or the Software, in whole or in part. Any use of the Website, the Services, the Content or the Software other than as specifically authorized herein is strictly prohibited. Any rights not expressly granted herein are reserved by Morphe.
+
+You may not use or display any Morphe trademarks or service marks (collectively the “Morphe Trademarks”) without Morphe’s prior written consent. You have no right to use any of Morphe Trademarks, without our prior written permission. All goodwill generated from the use of Morphe Trademarks will inure to our exclusive benefit. Other company, product and service names and logos displayed via the Website may be trademarks or service marks of their respective owners, which may or may not be affiliated with or connected to Morphe.
+
+**User Conduct Standards**
+
+You agree not to do, or encourage or enable anyone else to do, any of the following:
+
+* Use, display, mirror or frame the Website or any individual element within the Website, Morphe’s name, any Morphe trademark, logo or other proprietary information, or the layout and design of any page or form contained on a page, without Morphe’s express written consent;
+* Access, tamper with, or use non-public areas of the Website, Morphe’s computer systems, or the technical delivery systems of Morphe’s providers;
+* Attempt to probe, scan or test the vulnerability of any Morphe system or network or breach any security or authentication measures;
+* Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by Morphe or any of Morphe’s providers or any other third party (including another user) to protect the Website;
+* Attempt to access or search the Website through the use of any engine, software, tool, agent, device or mechanism (including spiders, robots, crawlers, data mining tools or the like) other than the software and/or search agents provided by Morphe or other generally available third-party web browsers;
+* Use any meta tags or other hidden text or metadata utilizing a Morphe trademark, logo URL without Morphe’s express written consent;
+* Use the Services for any commercial purpose or for the benefit of any third party or in any manner not permitted by this Agreement;
+* Transmit, or procure the sending of, any advertising or promotional material without our prior written consent, including any “junk mail,” “chain letter,” or “spam” or any other similar solicitation
+* In any way use the Services to send altered, deceptive or false source-identifying information;
+* To send, knowingly receive, upload, download, use, or re-use any material which does not comply with the User Content Standards stated below in this Agreement;
+* Attempt to decipher, decompile, disassemble or reverse engineer any of the software used on the Website;
+* Interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, worm, overloading, flooding, spamming, or mail-bombing the Website, or attacking the Website via a denial-of-service attack or a distributed denial-of-service attack;
+* Use any device, software, or routine that interferes with the proper working of the Website;
+* Use the Website in any way that could disable, overburden, damage, or impair the Website or interfere with any other person’s use of the Website, including their ability to engage in real-time activities through the Website;
+* Modify the page or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text;
+* Collect or store any personally identifiable information from the Website from other users of the Website without their express permission;
+* Impersonate or misrepresent your affiliation with any person or entity;
+* Violate any applicable law or regulation;
+* Engage in any activity that poses or creates a privacy or security risk to any person, or any activity which in the sole judgment of Morphe, is objectionable or which may expose Morphe or its users to any harm or liability, or interfere with or disrupt the Services, including but not limited to dissemination of material that impacts or invades the privacy of others, such as photographs, video clips, sound recordings, personal data, or other materials that reveal personal, private, or sensitive information about another person, without that person's consent; or
+* Engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Services, or which, as we decide, may harm us or our Services’ users or expose them or us to liability.
+
+You must acknowledge our status (and that of any identified contributors) as the authors of Content on our Website.
+
+If you print off, copy or download any part of our Website in breach of this Agreement, your right to use our Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
+
+You may link to our Website, Twitter, Instagram, Facebook, SnapChat and Pinterest, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. When you're linking to our website or social media, you may not do so in a way that suggests we're approving or endorsing you. Except in the situations listed in the prior sentence, you must not establish a link to our Website on any website that is not owned by you.
+
+**Monitoring; Revocation or Suspension of Use Privileges**
+
+Although we’re not obligated to monitor access to or use of the Services, we have the right to do so for the purpose of operating the Website, to ensure compliance with this Agreement, and to comply with applicable law. We have the right to investigate violations of this Agreement or conduct that affects the Services. We may also consult and cooperate with law enforcement authorities to prosecute users who violate the law. You hereby waive and hold harmless Morphe and its affiliates, licensees, and service providers from any claims resulting from any action taken during, or taken as a consequence of, investigations by either Morphe or law enforcement authorities.
+
+We reserve the right at any time to terminate or suspend your use of some or all portions of the Website if you engage in activities that we conclude, in our discretion, breach our Code of Conduct or otherwise violate this Agreement or our Privacy Policy.
+
+Although we have no – and assume no – obligation to monitor activities on the Website, please understand that we may employ filters designed to detect and block inappropriate content under our Code of Conduct. We reserve the right to request edits to remove any information or material, in whole or in part, that we believe, in our sole discretion, is incompatible with our Code of Conduct. IF YOU DO NOT REMOVE OBJECTIONABLE CONTENT IN RESPONSE TO OUR REASONABLE REQUESTS, THEN WE WILL TERMINATE YOUR USE OF SOME OR ALL OF THE WEBSITE OR SERVICES AT ISSUE AND REMOVE THE CONTENT AT ISSUE.
+
+Our Code of Conduct is based in many instances on principles of applicable law. Accordingly, users who violate our Code of Conduct may be exposed under these laws to criminal charges, and civil liability to harmed parties for compensatory damages and attorney's fees. We reserve the right at all times to disclose information that it deems necessary to satisfy any applicable law, regulation, legal process, or governmental request, consistent with our Privacy Policy.
+
+If you believe that a user has acted inappropriately, such as by violating our Code of Conduct, then you may report your concerns by contacting us at [info@morphe.com.](mailto:info@morphe.com).
+
+**User Content**
+
+Any Content you provide to or upload through the Website or share, including but not limited to product reviews as set forth in Section below entitled “How Can I Leave a Review About Morphe Products”, is collectively referred to as “User Content”. You are solely responsible for all User Content. Other Users are able to see your User Content. By sharing User Content, you represent and warrant that you own all right, title and interest in and to such User Content, including all copyrights, and that the User Content is accurate, complete, in compliance with all applicable laws, does not infringe any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity, does not violate any contractual duty, does not include any viruses, adware, spyware, worms, or other harmful or malicious code, and otherwise comply with this Agreement. You shall not take any action or upload, post, or otherwise distribute any User Content that infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity or violates any contractual duty. All User Content must comply with the User Content Standards and the User Conduct Standards.
+
+By uploading any User Content you hereby grant and will grant Morphe and its affiliated companies, successors and assigns a nonexclusive, worldwide, royalty free, fully paid up, transferable, sub-licensable, perpetual, irrevocable license to reproduce, adapt, publish, reformat, index, create derivative works from, copy, display, upload, publicly perform, distribute, store, modify and otherwise use your User Content in connection with our operation, including but not limited to the operation of the of the Services, and to commercially exploit such User Content, even if such User Content has been contributed and subsequently removed by you, without compensation to you. You acknowledge and agree that any User Content that you provide to us are non-confidential and we will be entitled to the unrestricted use and dissemination of User Content for any purpose, commercial or otherwise, without your acknowledgment or compensation to you. You agree that we may, in our sole discretion, may remove and discard any User Content. You agree that any such removal may be effected without prior notice, and that Morphe will not be liable to you or any third party for any such action.
+
+You acknowledge that you are responsible for any User Content you post, and you, not us, have full responsibility for that User Content, including its legality, reliability, accuracy, and appropriateness. We are not responsible or liable to any person for the content or accuracy of (or use of) any User Content posted by you or any other user. We do not monitor, control or endorse any User Content and make no representation or warranties about User Content, including their content, completeness, truthfulness, or accuracy. Without derogating from the prior sentence, we emphasize that we do not provide any medical, legal or other professional advice or information, and we do not endorse, or take any responsibility for, any such advice or information provided in the Services. You further acknowledge that your participation in the Services and submission of User Content is voluntary and that you will not receive financial compensation of any type associated with User Content or the licenses, waivers, and releases set forth herein (or our exploitation thereof). You acknowledge that we do not pre-screen or monitor User Content, but that we and our designees will have the right (but not the obligation) in our sole discretion to refuse or remove any User Content that is available via the Services.
+
+We welcome feedback, comments and suggestions for improvements to the Services (“Feedback”). You can submit Feedback by emailing us at [info@morphe.com](mailto:info@morphe.com) You grant to us a non-exclusive, worldwide, perpetual, irrevocable, fully-paid, royalty-free, sublicensable and transferable license under all intellectual property rights that you own or control to use, copy, modify, create derivative works based upon and otherwise exploit the Feedback for any purpose.
+
+**User Content Standards**
+
+Morphe is a community, and we expect each user to treat every other user with respect. User Content must, in their entirety, comply with all applicable federal, state, local, and international laws and regulations.
+
+User Content must not:
+
+1. Contain any material that is intentionally false, defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, unlawfully threatening, or unlawfully harassing, divisive, or otherwise objectionable.
+2. Promote violence or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age.
+3. Infringe any copyright, patent, trademark, trade secret, or other intellectual property or other rights of any other person.
+4. Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with this Agreement or our Privacy Policy.
+5. Infringe any third party's copyright, patent, trademark, trade secret, or other proprietary rights or rights of publicity or privacy. Electronic materials – such as music, videos, images, and text in electronic form – can easily be copied, modified, and sent over networks (such as the Internet). These electronic materials are thus extremely vulnerable to unauthorized distribution and copyright infringement. These materials may not be transmitted over the Website without the copyright owner's permission, or without a legitimate "fair use" justification for the transmittal.
+6. Upload, email, or otherwise transmit User Content that is unlawful, obscene, harmful, hateful, invades the privacy of any third party, contains nudity or pornography, or is otherwise objectionable.
+7. Be likely to deceive any person.
+8. Promote or solicit any illegal activity, or advocate, promote, or assist any unlawful ac.
+9. Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person.
+10. Impersonate any person or misrepresent your identity or affiliation with any person or organization.
+11. Involve commercial activities or sales, such as contests, sweepstakes, and other sales promotions, barter, or advertising.
+12. Give the impression that they emanate from or are endorsed by us or any other person or entity, if that is not the case.
+13. Contain viruses, worms, Trojan horses, or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software, hardware, mobile device, or telecommunications equipment.
+14. Depict private or personal information of any person without their written consent.
+15. Request personal information from or share personal information with any user, including financial information, email address, telephone number, or mailing address without the written consent of that user.
+16. Request money from, or otherwise defraud Services users.
+
+**Copyright Complaints**
+
+Morphe respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Morphe of your infringement claim in accordance with the procedure set forth below.
+
+Morphe will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Morphe's Copyright Agent at [info@morphe.com](mailto:info@morphe.com) (Subject line: “DMCA Takedown Request”). You may also contact us by mail at:
+
+Morphe Copyright Agent: \*  
+10303 Norris Avenue,  
+Pacoima, CA 91331 
+
+Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
+
+In accordance with DMCA and other applicable law, Morphe has adopted a policy of terminating, in appropriate circumstances and at the discretion of Morphe, account holders who are deemed to be repeat infringers. Morphe may also at our discretion limit access to the Services and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
+
+**How Can I Leave a Review About Morphe Products?**
+
+_Submission of Reviews._ You can leave a review about a Morphe product by clicking on the "leave a review" button under a particular product.
+
+Any review must:
+
+1. be accurate (where it states facts); and
+2. be genuinely held (where it states opinions).
+
+Any review must not:
+
+1. contain a reference to any other company, website or individual;
+2. be defamatory or discriminatory of any person;
+3. be obscene, offensive, hateful or inflammatory.
+4. promote violence; or
+5. breach the law.
+
+By leaving a review, you agree that:
+
+1. we can publish your review on the Website;
+2. we can moderate your review;
+3. we can remove your review from the Website at any time, if we think that your review isn't in line with this Agreement, and that we don't need to tell you that we're going to remove it; and
+4. we won't be liable to you if we do remove your review from the Website.
+
+**Links to Third Party Websites; Third-Party Content**
+
+The Website may contain links to third-party websites or resources. We provide these links only as a convenience and are not responsible for the content, products or services on or available from those websites or resources or links displayed on such websites. We are not responsible for or such linked sites' privacy practices with respect to information that you provide to them, nor do we warrant that a linked site will be free of computer viruses or other harmful code that can impact your computer or other web-access device. You also may be subject to additional terms and conditions that may apply when you use third-party websites or resources. You acknowledge sole responsibility for and assume all risk arising from, your use of any third-party websites or resources. Further, your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Services are solely between you and that advertiser.
+
+In addition to the User Content, we may provide other third-party content on the Website (collectively, “Third-Party Content”). We do not control or endorse any Third-Party Content and make no representation or warranties about the Third-Party Content, including its accuracy or completeness. We do not create Third-Party Content, update it, or monitor it. Thus, we’re not responsible for any Third-Party Content on the Website.
+
+Where the Website contains links to websites and resources provided by third parties, and not Morphe, we have no control over this information and your use of these websites and resources is at your own risk. In order to be safe, we recommend that you read any terms and conditions for these websites and resources.
+
+**How Can I Buy From the Morphe Website?**
+
+The sale and purchase terms and conditions included in this Section “How Can I Buy from the Morphe Website” through the below Section entitled “Your Remedies in Connection with Sale and Purchase Terms” (together, these “Sale and Purchase Terms”) shall only apply if you place an order on our Website to purchase our product(s).
+
+_Ordering._ In order to buy any of the products on our Website you need to:
+
+1. click on any product that you'd like to buy, click the quantity that you'd like to buy and then click "Add To Bag";
+2. click the shopping bag icon at the top of the Website;
+3. the order process will show you our acceptable payment methods;
+4. you'll be asked to provide your contact, shipping and payment information during the order process;
+5. you'll be shown a breakdown of the product price and any applicable delivery costs; and
+6. you'll place your order by pressing the "Complete Order" button at the end of the checkout process.
+
+_Order Limit._ There is a limit of $500 per order per person. If you try to buy more than $500 worth of products, we won't be able to accept your order. If we think or know that you're trying to get around our limit, we may also refuse to accept your orders.
+
+_Personal Use Only._ We want you to enjoy your Morphe products yourself and so we're only offering them to you for personal use; you can't resell them to other people.
+
+_Order Confirmation._ We'll send you an order confirmation email setting out the details of the products you've ordered. This e-mail does not mean your order has been accepted.
+
+_Payment._ We'll take payment from you once your order has been placed.
+
+_Inability to Accept Orders._ There are times when we're not able to accept your order. This might happen if:
+
+1. the product you're looking to buy is out of stock;
+2. we're not able to take payment from you;
+3. you don't comply with these Sale and Purchase Terms (particularly if you're ordering more than the permitted amount of products per order or we think you're not ordering the products for personal use);
+4. there is a technological failure and we can't process your order;
+5. you haven't provided us with all the information we need to fulfil your order; orterms
+6. we've spotted an error in the price or description of the product.
+
+If we can't accept your order, we'll let you know as soon as we can and won't charge you for your order.
+
+_Order Numbers._ We'll give you an order number when we accept your order. If you contact us about your order, we may ask you for this order number so keep it safe.
+
+**Our Products**
+
+_Product Images._ The images of the products on the Website are for illustrative purposes only and we can't guarantee that what you see from your phone, tablet, laptop or computer accurately reflects the color of the products. This means that what you buy (including any product packaging) may vary slightly from those images.
+
+_Product Availability._ The products sold by us are those featured on the Website on the day on which you access the Website, subject to availability. We shall try to report any permanent or temporary unavailability of our products on the Website's information page describing each product or at the time you place the order.
+
+_Prices._ The price of our products will be the price indicated on the order page when you place your order. Although we try to make sure that the price shown on the Website and order page are accurate, some of the prices may be incorrect. If we find a mistake in the price of a product you have ordered, we won't be able to accept your order and we'll contact you as soon as possible to give you the choice of continuing with the order or cancelling it. If we can't reach you we'll treat your order for the incorrectly priced product as cancelled.
+
+**What to Do if You Have Made a Mistake**
+
+Unfortunately, once an order is submitted it is not possible to make any changes. Please refer to the below Section entitled “Canceling Orders”.
+
+**When Will I Receive My Order?**
+
+_Delivery Date._ We work with a delivery company to send you your order and we'll deliver your order according to the estimated delivery date shown when you're placing your order and the order email.
+
+_Shipping or Delivery Delays._ Sometimes your order might be delayed for a reason outside of our control. If this happens, we'll let you know as soon as possible, and we'll try to get your order to you as soon as we can. Even though we'll be trying to fix the situation, we won't be responsible or liable to you for any delays to your order. If your order is going to be significantly delayed, you can contact us at [info@morphe.com](mailto:info@morphe.com) and we can discuss the options available to you, as per the Section below entitled “How Can I Cancel or Return My Order?”.
+
+_Delivery Failures._ If no one's around to accept delivery of your order, our delivery company will leave you a note telling you how to rearrange delivery or collect your order from them. If they cannot deliver your order for any reason, it will be returned to Morphe and your payment method will be credited for the products purchased less any shipping fees.
+
+_Our Right to Stop Orders._ Sometimes we might have to stop your order if we need to change our products to comply with any relevant laws or if our products are subject to any recall order. If we have to stop your order, we'll let you know in advance (unless the problem's urgent or an emergency) and we'll refund any money you've paid for the affected products (including delivery charges).
+
+**How Can I Return or Exchange my Order?**
+
+_Cancelling Orders._ To serve you better, Morphe begins processing your order upon receipt and we are unable to modify or cancel an order once it has been placed. If you have any additional questions or concerns, please email us at [info@morphe.com](mailto:info@morphe.com).
+
+_Returns or Exchanges._ Returns or exchanges can be made for any reason within 30 days. Email us at [info@morphe.com](mailto:info@morphe.com) telling us that you'd like a refund or exchange and giving us your name, order number, date of order, delivery address and your contact details.
+
+_Reimbursement of Delivery Costs._ We'll only reimburse you the delivery costs of returning the products to us if the products are faulty or mis-described or because we were supposed to do something and we can't do it.
+
+_Method of Reimbursement._ We'll reimburse you by the same method you used for payment.
+
+_Timing of Refund._ We'll make any refunds due to you as soon as possible but we'll try to reimburse you within 14 days from when we receive your returned products.
+
+**Your Remedies in Connection with Sale and Purchase Terms**
+
+_Our Failure to Comply._ If we fail to comply with these Sale and Purchase Terms, we are responsible for loss or damage you suffer that is a foreseeable or obvious result of us breaking this contract, at the time we accept your order.
+
+_Limitation of Our Liabilities Relating to Sales._ We only supply the products for personal use. We will not, in connection with these Sale and Purchase Terms, be liable to you in any way for:
+
+1. any loss of revenue, profit, business or sales that you suffer; or
+2. any losses which are not foreseeable or are not obvious when we accept your order.
+
+_No Third-Party Rights._ Nobody else has any rights under these Sale and Purchase Terms.
+
+**No Warranties**
+
+WE DO NOT PROMISE THAT THE WEBSITE OR SERVICES WILL BE ERROR-FREE OR UNINTERRUPTED. THE WEBSITE, MORPHE CONTENT, AND SERVICES ARE DELIVERED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WHEN YOU ACCESS THE WEBSITE, OR USE THE SERVICES, YOU DO SO AT YOUR OWN RISK. WE DO NOT WARRANT OR REPRESENT THAT MATERIALS YOU DOWNLOAD FROM THE SITE WILL BE FREE OF VIRUSES OR OTHER HARMFUL FEATURES. THE WEBSITE, MORPHE CONTENT, AND SERVICES ARE DELIVERED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WHEN YOU ACCESS THE WEBSITE, OR USE THE SERVICES, YOU DO SO AT YOUR OWN RISK. WE DISCLAIM: (i) ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT; (ii) ANY RESPONSIBILITY OR LIABILITY FOR THE ACCURACY, CONTENT, COMPLETENESS, OR LEGALITY OF INFORMATION AVAILABLE THROUGH THE WEBSITE OR SERVICES; AND (iii) ANY RESPONSIBILITY OR LIABILITY FOR HARM RESULTING FROM DOWNLOADING OR ACCESSING INFORMATION THROUGH THE WEBSITE, INCLUDING HARM CAUSED BY VIRUSES OR SIMILAR DESTRUCTIVE FEATURES. YOU EXPRESSLY AGREE THAT USE OF THE WEBSITE, SERVICES, AND CONTENT IS AT YOUR SOLE RISK.
+
+**Indemnification**
+
+You agree to release, defend, indemnify, and hold harmless Morphe, its affiliates and licensors and their respective officers, directors, employees, contractors, agents, licensors and suppliers from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys’ fees) resulting from your violation of this Agreement, your User Content, or your use of the Services, or any User Content or other information obtained from the Services.
+
+**Limitations of Liability**
+
+Although we make reasonable efforts to update the information on the Website, we can't guarantee that the content on the Website is accurate, complete or up to date. If you have a question about any information on the Website, let us know by calling or emailing us.
+
+We do not undertake to review material before it is posted on the Website and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions, communications, or content provided by any user or third party.
+
+We are not liable for anything that you post or say while you are on the Website. We don’t monitor the content posted to the Website, but if we do see, or someone tells us that you’ve posted, something that we consider inappropriate or offensive, we will remove it and may take appropriate action against you. If you post content that belongs to someone else and they get annoyed (or even call in their lawyers), we’re not in the firing line. You have to take responsibility for what you post.
+
+You hereby release Morphe, its members, managers, officers, employees, agents, subsidiaries, affiliates, licensors, content providers, and service providers from all liability arising out of your User Content or the conduct of other users or third parties, including disputes between you and one or more other users or third parties.
+
+NEITHER MORPHE NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE CONTENT WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, LOSS OF DATA OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE OR THE COST OF SUBSTITUTE SERVICES ARISING OUT OF OR IN CONNECTION WITH THESE THIS AGREEMENT OR FROM THE USE OF OR INABILITY TO USE THE WEBSITE OR SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT MORPHE HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, EVEN IF A LIMITED REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IN NO EVENT WILL MORPHE’S TOTAL LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT EXCEED ONE HUNDRED DOLLARS ($100), IF YOU HAVE NOT HAD ANY PAYMENT OBLIGATIONS TO MORPHE. THE EXCLUSIONS AND LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN MORPHE AND YOU.
+
+_Waiver of California Civil Code Section 1542—California Residents Only._ If you are a California resident, you waive California Civil Code Section 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor.” If you are a resident of another jurisdiction, in or outside of the United States, you waive any comparable statute or doctrine.
+
+_Scope of Disclaimers, Exclusions, and Limitations._ The disclaimers, exclusions, and limitations stated in this Agreement apply to the greatest extent allowed by law, but no more. We do not intend to deprive you of any mandatory protections provided to you by law. Because some jurisdictions may prohibit the disclaimer of some warranties, the exclusion of some damages, or other matters, one or more of the disclaimers, exclusions, or limitations will not apply to you.
+
+**Termination**
+
+We may suspend or terminate your access to and use of the Services, at our sole discretion, at any time and without notice to you. Upon any termination, discontinuation or cancellation, all provisions of this Agreement which by their nature should survive will survive, including, without limitation, ownership provisions, warranty disclaimers, limitations of liability, indemnification, and dispute resolution provisions. You agree that any such suspension or termination may be effected without prior notice, and that we will not be liable to you or any third party for any such action.
+
+**Governing Law; Jurisdiction**
+
+This Agreement and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions. Except for disputes subject to arbitration, all disputes arising out of or relating to the Services or this agreement will be subject to the exclusive jurisdiction and venue of the United States District Court for the Northern District of California or any state court of competent jurisdiction in San Francisco, CA. Each party submits to the personal jurisdiction of the United States District Court for the Northern District of California and the state courts of competent jurisdiction in San Francisco, CA to resolve all disputes not subject to arbitration. Each party waives any right to seek another forum or venue because of improper or inconvenient forum.
+
+**Dispute Resolution**
+
+_Arbitration._ Please read this “Dispute Resolution” section carefully. It is an integral part of this Agreement and affects your rights with respect to dispute resolution and the remedies you may have. It also contains a class action waiver.
+
+For any dispute you may have with Morphe, you agree to first contact us at [help@morphe.com](mailto:help@morphe.com) and to work with us in good faith to resolve the dispute informally. In the event we are not able to resolve your dispute within sixty (60) calendar days after you brought it to our attention, you and Morphe mutually agree to resolve any claim, dispute, or controversy (excluding claims that qualify for small claims court and claims for equitable relief, as provided below) arising out of or in connection with this Agreement or your access or use of Morphe, the Website, and/or Services (collectively, “Claims”) by binding arbitration by JAMS, under the Optional Expedited Arbitration Procedures then in effect for JAMS, except as provided herein. Information about JAMS, including contact information, can be found at [www.jamsadr.com](https://www.morphe.com/pages/www.jamsadr.com).
+
+The arbitrator, and not any federal, state, or local court or agency, will have exclusive authority to resolve any Claims relating to the interpretation, applicability, enforceability or formation of the Arbitration Section in this Agreement, including but not limited to any claim that all or any part of this Arbitration Section is void or voidable. The judgment of the arbitrator and the award of the arbitrator is final and binding on you and Morphe.
+
+The arbitration will be conducted in San Francisco, CA, unless you and Morphe agree otherwise. JAMS may require you to pay a fee for the initiation of your case, unless you apply for and obtain a fee waiver from JAMS. The award rendered by the arbitrator may include your costs of arbitration, your reasonable attorney’s fees, and your reasonable costs for expert and other witnesses.
+
+Nothing in this Arbitration Section will be deemed as preventing you or Morphe from seeking equitable relief from the courts as necessary and applicable, nor for adjudicating a Claim in small claims court if that Claim qualifies so long as the Claim remains in such court and advanced only on an individual basis, not a class or representative basis.
+
+_Jury Trial Waiver._ Each party waives its right to a jury trial in proceedings arising out of or relating to this Agreement. Either party may enforce this waiver up to and including the first day of trial.
+
+_Class Action Waiver._ All claims must be brought in the parties’ individual capacity, and not as a plaintiff or class member in any purported class or representative proceeding, and, unless we agree otherwise, the arbitrator will not consolidate more than one person’s claims. Both parties acknowledge that each party is waiving the right to participate in a class action.
+
+_Limitation on Time to Bring Claims._ A party will not file a claim arising out of or relating to the Services or this Agreement more than one year after the cause of action arose. Any claim brought after one year is barred.
+
+**SMS**
+
+_Wunderkind._ Morphe uses a third party performance marketing technology company called Wunderkind Corporation. ("Wunderkind") to send marketing and promotional SMS text messages to its customers. These may include cart reminder messages.
+
+_Receiving Text Messages._ You can choose to receive promotional text messages from Morphe by signing up on our Website or by sending a text message indicating your consent to 689-08. If you consent to receiving recurring marketing or promotional SMS text messages from us (each, a “Text Message”), these will be sent by Wunderkind through an automatic telephone dialing system. This service is optional and is not a condition for purchase. Where you consent to receiving Text Messages from Morphe, you are also consenting to Morphe sharing the information that we collect from you with Wunderkind (please see the Section below entitled “Information we will collect from you”),
+
+_Opting out of Text Messages._ You can opt out of receiving any further Text Messages from us at any time by replying “STOP” to any Text Message you receive from us. For help, reply “HELP” to any Text Message you receive from us or email [info@morphe.com](mailto:info@morphe.com) or [textsupport@wunderkind.co](mailto:textsupport@wunderkind.co).
+
+_Charges._ Your service carrier's standard message and data rates may apply to our Text Messages and any SMS text messages you send to us or Wunderkind. Please check your service carrier's pricing plan to work out the charges for browsing data and sending and receiving Text Messages. Under no circumstances will Wunderkind, Morphe or our affiliates be responsible for any SMS messaging, data or wireless charges incurred by you or by a person that has access to your device or telephone number. If your service carrier does not permit SMS messages, you may not receive Text Messages.
+
+_Our liability._ We are not responsible for any delays in the receipt of, or failure to deliver, any Text Messages. Delivery of Text Messages depends on effective transmission from your network operator. We do not promise that your receipt of Text Messages will be error free. Our Text Message services are on an "as is" and "as available” basis. We may stop sending Text Messages to you at any time at our sole discretion.
+
+_Information we will collect from you._ If you sign up to receive Text Messages, we may collect the following information from you:
+
+1. your phone number;
+2. your service carrier’s name; and
+3. date, time and content of your text messages.
+
+We may use this information in accordance with our Privacy Policy to contact you and to provide the services you request from us. This information will also be given to Wunderkind to enable them to send you Text Messages and provide services to you. For more information on how we use your information, please read our Privacy Policy.
+
+_Updating your phone number._ If you change or deactivate your phone number, you must update your account information and the phone number(s) attached to your account to prevent us from accidentally communicating with anyone who takes over your old phone number(s).
+
+_Disputes._ If you're not happy with any of these terms of this SMS Marketing Policy or your receipt of Text Messages, you and Morphe agree that any disagreement or dispute will be resolved through mandatory final and binding arbitration. Arbitration is often less formal than a lawsuit. Instead of a judge deciding a case, a neutral arbitrator is appointed. The arbitration will be governed by the laws of the State of California.
+
+_No class actions._ By agreeing to the terms of this SMS Marketing Policy, you agree only to resolve disputes with us on an individual basis and not to bring any claim as a plaintiff or a class member in a class, consolidated, or representative action. Class arbitrations, class actions, private attorney general actions, and consolidation with other arbitrations are not allowed.
+
+**Other Agreements**
+
+Certain portions of the Website or Services offered through it may be subject to additional or different terms and conditions. We will notify you if the Service or portion of the Site is subject to terms and conditions that differ from this Agreement, and you will have the opportunity to decline to participate in such Service or Website if you do not agree with the differing terms and conditions. This Agreement must be read in conjunction (i) with other agreements into which you and Morphe enter concerning the Website (if any), and (ii) with our Privacy Policy. The provisions of our Privacy Policy are incorporated herein. To the extent this Agreement conflicts with the terms of our Privacy Policy, the terms of our Privacy Policy shall control. Similarly, to the extent this Agreement conflicts with the terms and conditions of any specific agreement you enter with us, the terms and conditions of such specific agreement shall control.
+
+**General Terms**
+
+This Agreement constitutes the entire and exclusive understanding and agreement between Morphe and you regarding the Services, and this Agreement supersede and replace any and all prior oral or written understandings or agreements between Morphe and you regarding the Services. If any provision of this Agreement is held invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of this Agreement will remain in full force and effect. Headings are for reference purposes only and in no way define, limit, construe, or describe the scope or extent of such section. You may not assign or transfer this Agreement, by operation of law or otherwise, without Morphe’s prior written consent. Any attempt by you to assign or transfer this Agreement, without such consent, will be null. Morphe may freely assign or transfer this Agreement without restriction. Subject to the foregoing, this Agreement will bind and inure to the benefit of the parties, their successors and permitted assigns. Any notices or other communications provided by Morphe under this Agreement, including those regarding modifications to this Agreement, will be given: (i) via email; or (ii) by posting to the Website. For notices made by e-mail, the date of receipt will be deemed the date on which such notice is transmitted. You consent to receive any notice from us in electronic form either (1) by email to the last known email address we have for you or (2) by posting the notice on a place on the Website chosen for this purpose.  Morphe’s failure to enforce any right or provision of this Agreement will not be considered a waiver of such right or provision. The waiver of any such right or provision will be effective only if in writing and signed by a duly authorized representative of Morphe. Except as expressly set forth in this Agreement, the exercise by either party of any of its remedies under this Agreement will be without prejudice to its other remedies under this Agreement or otherwise.
+
+**Questions?**
+
+If you have any questions about this Agreement or the Services, or to report any violations of this Agreement, please contact Morphe at [help@morphe.com](mailto:help@morphe.com), or at its principal address at 10303 Norris Avenue, Pacoima, CA 91331.
 
 Newsletter
 ----------
@@ -980,7 +837,7 @@ Follow Morphe For product launches, tips, and more.
 * [](https://www.facebook.com/MorpheBrushesCosmetics/)
 * [](https://www.youtube.com/channel/UC2xzcSVv3Tculr8Znpzc5Rg/featured)
 
-* [Terms & Conditions](https://www.morphe.com/pages/terms-conditions)
+* [Terms of Use](https://www.morphe.com/pages/terms-of-use)
 * [Privacy Policy](https://www.morphe.com/pages/privacy-policy)
 * [\*Promos Terms](https://www.morphe.com/pages/sale-details)
 * [Accessibility](https://www.morphe.com/pages/website-accessibility-statement)
