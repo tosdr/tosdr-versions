@@ -6,8 +6,7 @@ FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
 **Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
 
-**We apologize for the inconvenience! Our email server has been down since 10 PM (EST) on May 23rd. Our Team has been working all day to resolve the issue. We plan to respond to all emails next week beginning on Tuesday the 28th when we return from the Memorial Day Holiday.**  
-**We hope you all enjoy the holiday weekend and we look forward to serving you as soon as it our email server is fuctional! Thank you for your patience!**
+ **Please note that we are switching our email server today to provide better service to you. There may be a slight interruption in email service but know that we are diligently working on it! Thank you for your patience!**
 
 * [About Us](https://www.adaptivemall.com/aboutus)
 * [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
@@ -356,8 +355,7 @@ FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
 **Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
 
-**We apologize for the inconvenience! Our email server has been down since 10 PM (EST) on May 23rd. Our Team has been working all day to resolve the issue. We plan to respond to all emails next week beginning on Tuesday the 28th when we return from the Memorial Day Holiday.**  
-**We hope you all enjoy the holiday weekend and we look forward to serving you as soon as it our email server is fuctional! Thank you for your patience!**
+ **Please note that we are switching our email server today to provide better service to you. There may be a slight interruption in email service but know that we are diligently working on it! Thank you for your patience!**
 
 [Account](#store.links)
 
