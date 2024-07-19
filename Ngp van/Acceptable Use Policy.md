@@ -30,6 +30,7 @@
 * About
     * [About Us](https://www.ngpvan.com/about/)
     * [Careers](https://www.ngpvan.com/careers/)
+    * [Support](https://www.ngpvan.com/support/)
 * [Get a Demo](https://www.ngpvan.com/get-elected/)
     
 
