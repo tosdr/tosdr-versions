@@ -237,7 +237,7 @@
 Privacy Policy
 ==============
 
-Last Updated on May 14, 2024
+Last Updated on July 16, 2024
 
 This Privacy Policy describes how DigitalOcean, LLC and its affiliates (“DigitalOcean,” “we,” “our” or “us”) collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the “Services”). This Privacy Policy (the “Privacy Policy”) does not apply to information our customers may process when using our Services.
 
@@ -477,7 +477,6 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
@@ -553,7 +552,6 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Code of Conduct](https://www.digitalocean.com/community/pages/code-of-conduct)
 * [Newsletter Signup](https://www.digitalocean.com/community/newsletter)
-* [Meetups](https://www.meetup.com/pro/digitalocean/?utm_source=do_www)
 
 ###### Solutions
 
