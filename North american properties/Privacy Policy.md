@@ -267,9 +267,9 @@ NAP reserves the right, at any time, to modify, alter, or update this Policy wit
 
 NAP may change this Policy periodically by updating this Sites. It is your responsibility to check this page from time to time to ensure that you continue to agree with the terms of this Policy. 
 
-[![NAP_logo_horizontal_white](https://www.naproperties.com/wp-content/uploads/2022/03/NAP_logo_horizontal_white.svg "NAP_logo_horizontal_white")](https://www.naproperties.com/)
+[![NAP_70Year_Logo_Primary_White_logo_only](https://www.naproperties.com/wp-content/uploads/NAP_70Year_Logo_Primary_White_logo_only.png "NAP_70Year_Logo_Primary_White_logo_only")](https://www.naproperties.com/)
 
-[![NAP_logo_circular_white_rgb](https://www.naproperties.com/wp-content/uploads/NAP_logo_circular_white_rgb.png "NAP_logo_circular_white_rgb")](https://www.naproperties.com/)
+[![NAP_70Year_Logo_Primary_brown_70](https://www.naproperties.com/wp-content/uploads/NAP_70Year_Logo_Primary_brown_70.png "NAP_70Year_Logo_Primary_brown_70")](https://www.naproperties.com/)
 
  [](https://twitter.com/NAP1954) [](https://www.linkedin.com/company/293843/) [](https://www.instagram.com/naprop1954/?hl=en)[](https://www.youtube.com/@northamericanproperties "YouTube")
 
