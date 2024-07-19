@@ -1,6 +1,6 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13200)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13200)en](https://www.cyberghostvpn.com/privacypolicy) 
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=13301)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13301)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -25,7 +25,7 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/privacypolicy)
         * [한국어](https://www.cyberghostvpn.com/ko/privacypolicy)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13200)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=13301)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -63,7 +63,7 @@
 * [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13200)en](https://www.cyberghostvpn.com/privacypolicy) 
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=13301)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -92,7 +92,7 @@
 * [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13200)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=13301)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -347,7 +347,7 @@ You can contact us:
 
 ### Data protection officer
 
-Our data protection officer's contact details are: \[Venetia Argyropoulou - [venetia.argyropoulou@cyberghost.ro](mailto:venetia.argyropoulou@cyberghost.ro)\]
+Our data protection officer's contact details are: \[Venetia Argyropoulou - [](mailto:venetia.argyropoulou@cyberghost.ro)**[dpo@cyberghost.ro](mailto:dpo@cyberghost.ro)**\]
 
 Last Updated On: Mar 18, 2024
 
@@ -395,30 +395,14 @@ Connect with us
 
 ×
 
-![](https://assets.cyberghostvpn.com/photos/cg/campaigns/sport24/exit-intent/eisport24-cg-goalkeeper.svg)
+![](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/ei-default-image.png)
 
-### Score Big with Online Privacy
+### Time to Step up Your Digital Protection
 
-Enjoy 2 Years  
-\+ 4 Months Free
---------------------------------
+The 2-Year Plan Is Now  
+Available for only /mo
+-----------------------------------------------
 
-**Get It Now | Off**
+**Save Now**
 
-![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
-
-×
-
-A WINNING OFFER
-
-OFF
----
-
-Defend your data like a goalkeeper:  
-**4 months FREE!**
-
-**Get It Now | Off**
-
-![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg) 45-Day Money-Back Guarantee
-
-![](https://assets.cyberghostvpn.com/photos/cg/experiments/exit-intent/ei-cg-sport24-experiment.svg)
+![undefined](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/cg-fp-small-shield.svg) 45-Day Money-Back Guarantee
