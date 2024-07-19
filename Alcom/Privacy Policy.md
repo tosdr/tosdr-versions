@@ -12,7 +12,7 @@ Enter City and State or Zip Code
 
 Submit
 
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1321)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1321)](https://www.al.com/)
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1344)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1344)](https://www.al.com/)
 
 Alabama
 
@@ -27,18 +27,71 @@ Alabama
 
 SubscribeSubscribeBirmingham News | the LedeHuntsville Times | the LedePress-Register | the Lede
 
+Advance Local Privacy Notice Overview
+=====================================
+
+When you access, use, subscribe to, sign-up for, or register to use any of the websites, mobile apps, products, services, publications, or other [Products and Services](https://www.al.com/user-agreement/#glossary) owned or operated by Advance Local or one of our [brands](https://www.advancelocal.com/our-businesses/?_categories=media), [Personal Information](#categories_top) about you. In this section we provide an overview of our privacy practices. You'll find the full [Advance Local Privacy Policy](#static__privacy-policy) (the “Privacy Policy”) below. We encourage you to read the full Privacy Policy in addition to this overview. All Capitalized terms used in this overview are defined in the full Privacy Policy below.
+
+Personal Information We Collect
+-------------------------------
+
+In general, we only collect the Personal Information that is reasonably necessary for and proportional to the purposes for which we process it.
+
+We collect Personal Information:
+
+* when you provide it to us, such as when you register with or subscribe to one of our websites, mobile apps, digital or print publications, or email newsletters; sign up for one of our events; enter a contest or sweepstakes; participate in a survey; or register for, purchase or engage with, any of our other online or offline activities, offerings, Products, or Services;
+* through the use of various [Tracking Technologies](#tracking_top) that we and authorized third parties implement on our websites, mobile apps, and emails;
+* from third parties, such as data brokers, data enrichment providers, industry cooperatives (“co-ops”), advertising networks, data analytics providers, browsers, operating systems and platforms, social media companies, and publicly available sources.
+
+Why We Collect and How We Use Your Personal Information
+-------------------------------------------------------
+
+* provide you with our Products and Services;
+* personalize your experience with our Products and Services;
+* improve our Products and Services;
+* develop and deliver marketing and advertising, including [Targeted Advertising](#targeting_top);
+* comply with our legal obligations;
+* protect our business and the rights and safety of others.
+
+We and our [Identity Resolution Partners](#identity_top) may use Personal Information, including your name, email address, phone number, and [Activity and Device Information](#senitive_info) to deliver Targeted Advertising and identify the different devices and browsers you may use to access our Products and Services. Where required by applicable law, we and/or our Identity Resolution Partners will obtain your consent, provide you with the opportunity to opt out of such use, or take other appropriate action. Please note we are not responsible for the privacy practices and policies of our Identity Resolution Partners, which are separate from our own and not covered by this Privacy Policy.
+
+Where We May Share Your Personal Information
+--------------------------------------------
+
+To fulfill all the purposes described in our Privacy Policy, we may need to share your Personal Information with our subsidiaries, service providers, social media companies such as Meta (Facebook & Instagram), YouTube, TikTok, Pinterest, LinkedIn, Snap and X, third-party consumer marketing, advertising, and business partners, including those referenced in the [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top) section of this Privacy Policy, and others who support our business operations, as well with organizations and our parent company that may be involved in an acquisition or other substantive change of our business.
+
+If you have an account with a social media company you may have agreed to allow them to use tools, features, or other technologies that collect Personal Information about your activities across the internet, including in connection with your use of our Products and Services.
+
+The activities of social media companies and their collection and use of your Personal Information is subject to their privacy policies, and we encourage you to review those privacy policies.
+
+Your Rights
+-----------
+
+You may have rights related to your Personal Information, including the right to access, delete, correct, transfer, and opt out of the use of it for certain purposes. Those rights vary, depending on your relationship with us, where you are located, and the laws that apply in your location.
+
+For example, residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, and certain other states have a variety of privacy rights, including, but not limited to, the right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; and limit, opt-out, or opt-in, as applicable, to the use and disclosure of your [Sensitive Personal Information](#senitive_info). For a more detailed description of these and other rights that may be available to you, please see these sections below:
+
+* [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top)
+* [Opting-out of Third-Party Tracking Technologies](#optout_tracking_top)
+* [Understanding Your Privacy Rights and Choices](#rights_top)
+* [Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising](#optout_top)
+
+There is more detail, including on the topics above, in the Privacy Policy, and we encourage you to read it.
+
 Advance Local Privacy Policy
 ============================
 
-Last Updated: December 31, 2023
+Last Updated: July 1, 2024
 
-Note for California Residents: This Policy describes how we collect, use, disclose, sell, share, and retain your personal information on our websites, in our apps, when you participate in one of our events, and your rights and choices over our processing of your personal information. The [Your Privacy Choices And Rights; Submitting Requests Under Applicable Local Laws](#rights_top) section below contains specific details related to your rights under California law, including your right to opt-out of "sales" and/or "sharing" of personal information and to limit the use and disclosure of your sensitive personal information.
+Note for Residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas and Montana: : This Privacy Policy describes how we collect, use, disclose, sell, share, and retain your Personal Information in connection with our Products and Services and your rights and choices over our processing of your Personal Information. The [Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising](#optout_top) section below contains specific details related to your rights under California and other applicable laws, including your right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; limit, opt-out, or opt-in, as applicable, to the use and disclosure of your Sensitive Personal Information and know, access, correct, delete, restrict, object, and/or have portability of, your Personal Information.
 
-This Privacy Policy ("Policy") describes how Advance Local Media LLC and its Local Media Groups ("Advance Local" "we," "us," or "our") collect, use, disclose, and retain personal information about individuals that interact with each website, mobile site, application, marketing campaign, event, email, newsletter, and other online or offline activity, offering, or publication that links to or references this Policy (collectively, the "Services"). This Policy also describes the rights that you may have regarding our processing of your personal information under applicable local law.
+This Advance Local Privacy Policy ("Privacy Policy") describes how Advance Local Media LLC and its Local Media Groups (“Advance Local” “we,” “us,” or “our”) collect, use, disclose, and retain [Personal Information](#categories_top) about the individuals and the devices and browsers that interact with each website, mobile site, application, email/text/SMS campaign, event, and/or other activity, offering, or publication (regardless of how distributed, transmitted, published, or broadcast) provided by us that links to, or references, his document, including without limitation all Content, features and functionality thereof, such as widgets, plug-ins, and embeddable players (collectively, the “Services”), as well as any merchandise, item, product and/or service, or other online or offline activity, offering, product or services that links to or references this Privacy Policy, including without limitation Content, sweepstakes, contests, surveys, events, email newsletters, newspapers, magazines and other publications that may be featured, mentioned, reviewed, described, auctioned, given away, rented, sold, distributed, or otherwise available on or through the Services either by us or third parties (collectively, the “Products”). This Privacy Policy also describes the rights that you may have regarding our processing of your Personal Information under applicable local law.
 
-By accessing or using any of our Services, you acknowledge and agree that your personal information will be handled as described in this Policy. Your use of the Services, and any dispute over privacy, is subject to this Policy and our User Agreement, including its applicable limitations of liability and the resolution of disputes. Our [User Agreement](https://www.al.com/user-agreement/) is incorporated by reference into this Policy.
+By accessing or using any of our Products and Services, you acknowledge that your Personal Information will be processed in accordance with this Privacy Policy. Your use of the Products and Services, and any dispute over privacy, is subject to this Privacy Policy and our [User Agreement](https://www.al.com/user-agreement/), including its applicable limitations of liability and the resolution of disputes by Arbitration, absent an appropriate exception or if you opt-out. The Advance Local [User Agreement](https://www.al.com/user-agreement/) is incorporated by reference into this Privacy Policy.
 
 You may download a printable copy of this Policy (PDF): [here](https://www.advancelocal.com/advancelocalUserAgreement/privacy-policy.pdf).
+
+All Capitalized terms not defined in this section are defined or described below.
 
 * * *
 
@@ -46,217 +99,456 @@ Table of Contents
 -----------------
 
 1. [Categories of Personal Information We Collect About You](#categories_top)
-2. [How We Use Your Information And The Basis On Which We Use It](#use_information_top)
-3. [How We Disclose the Information We Collect](#disclose_top)
-4. [Our Use of Cookies and Related Technologies](#cookies_top)
-5. [Online Behavioral Advertising (OBA) and How to Opt-Out Of OBA](#oba_top)
-6. [Your Privacy Choices And Rights; Submitting Requests Under Applicable Local Laws](#rights_top)
-7. [Opt-Out of Marketing Communications](#optout_top)
-8. [Security of My Information](#security_top)
-9. [Third Party Links](#third_top)
-10. [Be Careful Publicly Posting Personal Information](#posting_top)
-11. [International Transfers](#international_top)
-12. [Children](#children_top)
-13. [Contact Us](#contact_top)
-14. [Changes to this Policy](#changes_top)
+2. [How We Use Your Personal Information](#use_information_top)
+3. [How We Disclose the Personal Information We Collect](#disclose_top)
+4. [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top)
+5. [Opting-Out of Third-Party Tracking Technologies](#optout_tracking_top)
+6. [Understanding Your Privacy Rights and Choices](#rights_top)
+7. [Exercising Your Privacy Rights, Including Opting Out of Targeted Advertising](#optout_top)
+8. [Opting Out of Marketing Communications](#optout_marketing_top)
+9. [Retention](#retention_top)
+10. [Security of Your Personal Information](#security_top)
+11. [Third-Party Links](#third_party_top)
+12. [Publicly Posting Personal Information](#public_posting_top)
+13. [International Transfers](#international_top)
+14. [Children](#children_top)
+15. [CCTV](#cctv_top)
+16. [Contact Us](#contact_us_top)
+17. [Changes to this Privacy Policy](#policy_changes_top)
+18. [Additional Information Under Applicable Local Law](#additional_info_top)
 
 * * *
 
 1. Categories of Personal Information We Collect About You
     -------------------------------------------------------
     
-    Personal information is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly to you. Depending on the Services you use, we may collect the following categories of personal information about you directly from you, automatically through your use of the Services, and from third parties.
+    For purposes of this Privacy Policy, Personal Information means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly to you or to devices and browsers reasonably linked to you. Anonymous, de-identified, or aggregate information is not Personal Information as the term is used in this Privacy Policy.
     
-    * Identifiers, such as your name, signature, postal address, zip code, email address, telephone number, unique online identifier, IP address, user ID, device ID, or similar identifier.
-    * Characteristics of protected classification under applicable law, such as your gender, age (over 40), marital status, nationality, and country of origin.
-    * Commercial information, such as your purchase, registration, log-in and Services usage history.
-    * Payment records, such as your financial account information, credit card number, debit card number, or other payment card information, when necessary for the Services.
-    * Internet or other electronic network activity, such as your browser type and operating system; browsing history, clickstream data, search history on the Services, and information regarding your interaction with an internet website, application, email, newsletter, or advertisement, including access logs and other activity information related to your use of our Services; the length of time you visit our Services; and the referring URL, or the website or application that led you to our Services.
+    Depending on the Products and Services you use, we may collect the following categories of Personal Information directly from you, automatically through your use of the Products and Services, and from third parties:
+    
+    * Identifiers, such as your name, zip code, postal and email address, telephone number, IP address, user ID, and online identifiers generated by us or our [Identity Resolution Partners](#targeting_top) when you use or engage with our Products and Services. For more information, please refer to the section [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top) below.
+    * Sensitive Personal Information and information that may be subject to additional protections under applicable laws, , such as your precise geolocation data and/or, as applicable, information that reveals or is used to develop inferences about your race, gender, age, marital status, nationality, ethnicity, sexual orientation, religious beliefs, and health condition.
+    * Payment records, uch as the records of your purchase transactions with us and the associated financial account information, credit card number, debit card number, or other payment information.
+    * Activity and Device Information, including browser and device identifiers, model type, and settings; operating system; clickstream data such as the sections, links, and features of the website or mobile application you interact with and use; cookies, localStorage, and similar technologies; Content, search and browsing histories within our Products and Services; Content and advertisements you view, click, access, or engage with; and other similar information related to your interaction with our Products and Services. For more information, please refer to the section [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top) below.
     * Geolocation data, such as the general physical location of your device.
-    * Audio, electronic, visual, thermal, olfactory, or similar information, such as voice recordings, video recordings, physical characteristics or description, and photos.
-    * Professional information, such as occupation, employment history, professional contact information, education history, or other information provided by you in connection with the Services.
-    * Inferences, such as inferences drawn to create a profile reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes.
-    * Sensitive personal information, as defined under applicable local law, such as certain characteristics of protected classifications as defined above, account login credentials and passwords, and financial account information, credit card number, debit card number, or other payment card information.
+    * Audio, electronic, visual, or similar information, such as when you submit information to us as part of a contest, sweepstakes, or similar activity: voice recordings, video recordings, physical characteristics or description, and photos.
+    * Professional information, such as occupation, employment history, professional contact information, education history, or other information provided by you in connection with the Products and Services.
+    * Inferences, such as those drawn to create a profile reflecting your preferences, characteristics, interests, predispositions, behavior, attitudes, abilities, or aptitudes.
     
-    Information We Collect Directly From You. We collect personal information directly from you when you use our Services, such as when you provide us with information online or at an in-person event (e.g., enter a contest, submit a survey, upload or otherwise provide content or comments). If you register for an account or set up a profile through our Services, we may collect your name, login credentials and password information, telephone number(s), postal address, email address, and information regarding your age, gender, or preferences (such as whether you want to receive newsletters). If you make a purchase through our Services, we may collect your financial account information, credit card number, debit card number, or other payment card information. If you contact us, we may collect information such as your name, email address, social media handles, the contents of a message or attachments that you may send to us, and other information that you choose to provide. We also may collect information that you provide about other people, for example, when you purchase one of our products as a gift.
+    Information We Collect Directly From You  
+    We collect Personal Information directly from you when you provide it to us in connection with your use of the Products and Services. For example, you may provide us with Personal Information:
     
-    Information We Collect From Other Sources. We collect personal information about you from other sources, such as third party consumer data suppliers/resellers, data enrichment providers and aggregators, advertising networks, data analytics providers, internet service providers, operating systems and platforms, data brokers, social networks, business contact databases, government entities, other users, and our parent, subsidiaries, affiliates and other related entities.
+    * to subscribe to, sign-up for or register with, one of our Products or Services, in which case we may collect your name, login credentials and password information, telephone number(s), postal and/or email address, payment records, social media handles and additional information you may provide such as your age, gender, and preferences (such as whether you want to receive newsletters);
+    * when you contact us, we may collect the above information, as well as other information that you choose to provide, including information about other people you may share with us, for example, when you indicate that you are purchasing one of our Products or Services as a gift;
+    * if the Product or Service you engage with is a contest, sweepstakes, survey or similar activity, we may also collect any Content, including writings, photos, videos, sound recordings, responses, comments, or other information that you provide in connection with the activity.
     
-    Social Network Integration. If you choose to interact with us on social networking services or use features, such as plugins, widgets, or other tools made available by third party social networking services in connection with our Service, we may collect personal information that has been made available to those services, including personal information about your contacts on those services. For example, some social networking services allow you to push content from our Service to your contacts or to pull information about your contacts so you can connect with them on or through our Service. Some social networking services also will facilitate your registration for our Service or enhance or personalize your experience on our Service.
+    Information We Collect From Other Sources  
+    We collect Personal Information about you from other sources, such as data brokers, data enrichment providers, industry co-ops, consumer marketing providers, advertising networks, data analytics providers, social media companies, publicly available sources, other users, and our affiliates and other related entities.
     
-    Information We Collect Automatically. We, and our third party business partners, automatically collect personal information when you use our Services using cookies, pixel tags, clear GIFs, or similar technologies. This may include information such as your IP address and the types of personal information described above as "Internet or other electronic network activity." Please review our section below on "Our Use of Cookies and Related Technologies" for additional information regarding our use of cookies and related technologies.
+    Social Media Company Integration  
+    If you choose to interact with our Products and Services on third-party social media company platforms such as Meta (Facebook & Instagram), TikTok, Pinterest, LinkedIn, Snap, and X, we may receive Personal Information that the social media companies make available to us, including Personal Information about your activities and contacts on those platforms.
     
-2. How We Use Your Information
-    ---------------------------
+    Additionally, if you have an account with a social media company you may have agreed to allow them to use tools, features or other technologies that collect Personal Information about your activities across the internet, including in connection with your use of our Products and Services. Some social media companies also will facilitate your registration for our Products and Services, such as through social sign-on, or will enhance or personalize your experience on our Products and Services, such as through technologies that enable you to easily share Content from our Products and Services on their platforms. For more information, please refer to the [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top) section below.
     
-    We use the categories of personal information described above for the following business and commercial purposes:
+    We encourage you to review the privacy policies of the social media companies you engage with as we are not responsible for their privacy practices or their collection and use of your Personal Information.
     
-    * To Provide Our Services and Fulfill Your Requests. We use your information to provide and maintain our Services, to process and fulfill your requests or orders, to communicate with you about your use of our Services, to respond to your inquiries, and for other customer service and business administration purposes.
-    * To Improve Our Services. We use your information to understand and analyze our user base and how you use the Services, to improve and enhance the Services, and to develop new products, services, features and functionality.
-    * Identification and Authentication Purposes. We may use your information for identification and authentication purposes. For example, when you enter your login ID and/or password to enter one of our registration or login portals, we use your credentials and password for authentication purposes.
-    * Personalization. We use your information to tailor the content and information that we may send or display to you, to offer location customization, to provide personalized offers, personalized help and instructions, and to otherwise personalize your experiences while using the Services.
-    * Marketing and Promotional Purposes. We may use your information to send you news and newsletters, event updates, and to communicate with you about new features, events, or products offered by us or our third party business partners, including our advertising, marketing, and sponsorship clients. We may also use your information to gather broad demographic information, to analyze trends, to seek compatible advertisers, sponsors, clients and customers, and to track users' movements around the Service and elsewhere on the internet or across apps or devices (including for "OBA" as described below). Your general geolocation data may specifically be used to show you content (including advertising and sponsored messaging) based on your general geographic location. Where required by applicable law, we will obtain your prior consent before using your personal information for marketing and promotional purposes.
-    * Combining Information. We (and our third party business partners) may merge, co-mingle, or otherwise combine information, including your personal information, in furtherance of the purposes described above.
-    * To Comply With Legal Obligations. We may use your information where we believe necessary to comply with our legal obligations or to exercise or defend our rights or the rights of a third party, including complying with law enforcement or government authority requests and participating in compliance audits.
-    * To Protect Us and Others. We may use your information where we believe necessary to investigate, prevent, or take action regarding suspected or actual illegal activities, fraud, situations involving potential threats to the safety of any person or to otherwise enforce this Policy or the integrity of the Services.
-    * Deidentified Data. We may also deidentify or anonymize your data in such a way that you may not reasonably be re-identified by us or another party, and we may use this deidentified data for any purpose permitted under applicable law. To the extent we deidentify any data originally based on personal information, we will maintain and use such data in deidentified form and will not attempt to reidentify the data.
-3. How We Disclose the Information We Collect
-    ------------------------------------------
+    Information We Collect Automatically  
+    We and our partners use various tools and technologies such as cookies, pixels, localStorage, web beacons, software development kits, and similar technologies to collect data when you interact with our Products and Services, including our websites, mobile applications, and email communications. This data may also include information about your operating system(s), device(s) and browsers. For more information, please refer to the [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top) section below.
     
-    We may disclose each of the categories of personal information described above for our business and commercial purposes as follows:
+2. How We Use Your Personal Information
+    ------------------------------------
     
-    * Related Entities. We may disclose the personal information we collect about you to our parent, subsidiaries, affiliates, and related entities, such as those listed at [https://www.advance.com/](https://www.advance.com/%22).
-    * Service Providers. We may disclose the personal information we collect about you to service providers, contractors, and agents who perform functions and business operations on our behalf, for the purposes set out above. For example, we engage service providers to help us with technical maintenance, database management, fraud prevention, market research, community and forums management, auctions, e-commerce, list rental, data coop management, audience authentication, our products and product recommendations, and other advertising and marketing functionality, as well as credit/debit card or other payment processing, order fulfillment, credit pre-authorization, and address verification.
-    * Third Parties. We may disclose the personal information we collect about you through areas of the Services that may be managed or participated in by one or more of our third party business partners. We may also disclose the personal information we collect about you to third party business partners, such as (i) list buyers who market their goods and services (commonly known as "list rental"); (ii) our advertising, marketing and sponsorship clients to market their goods and services; (iii) "data coops," which are pooled databases containing the customer information of multiple publishers to enable the marketing use of such customer information by participating publishers; (iv) consumer data suppliers/resellers, data enrichment providers and aggregators, and other entities in the online behavioral advertising ecosystem for purposes of OBA (as described below in this Policy), data optimization, lead generation and other data driven projects; (v) social media and social networking services; (vi) companies that help us with our products and product recommendations; and (vii) lawyers, auditors, accountants, consultants and other professional advisors.
+    We and our third-party business partners may combine the Personal Information we collect from you with Personal Information we collect from other sources. Where required by applicable law, we obtain your consent before using your Personal Information for the purposes described below. We may also collect non-Personal Information for the purposes described below. However, when we combine it with Personal Information, we treat it as Personal Information.
     
-    We may also disclose your personal information in the following circumstances:
+    * To Provide Our Products and Services and Fulfill Your Requests. We use your Personal Information to provide and maintain our Products and Services; process and fulfill your requests or orders; communicate with you about your use of our Products and Services; provide you with customer support and respond to your inquiries, which may include the use of chatbots; and for other customer service and business administration purposes. Please note that when utilizing chatbots on our Products and Services, we may transcribe and retain your inquiries and responses.
+    * To Improve Our Products and Services. We use your information to understand and analyze our user base and how you use the Services, to improve and enhance the Services, and to develop new products, services, features and functionality.
+    * Identification and Authentication Purposes. We use your Personal Information to identify and authenticate whether you subscribe to or have registered for one of our Products and Services so that you have access to the Product or Service. We also use your Personal Information and Activity and Device Information to help us identify you across different devices and browsers that you might use to access our Products and Services.
+    * Personalization, Marketing, and Promotional Purposes. We use your Personal Information to tailor the Content and information, including advertising and marketing that we may send or display to you, to provide Content, advertising, and marketing in the local language (based on your general geographic location), to provide personalized offers, personalized help and instructions, and to otherwise personalize your experiences while using the Products and Services. We may also use your Personal Information to:
+        * communicate with you and send you news, information, offers, and opportunities about or related to our Products and Services or those offered by our third-party business partners, including our advertising, marketing, and sponsorship clients;
+        * compile broad demographic information, to analyze trends, to seek compatible advertisers, sponsors, clients and customers;
+        * track your activities within the Products and Services and connect information about your activities within our Products and Services across the browsers and devices you use to access our Products and Services, including for [Targeted Advertising](#targeting_top) and in coordination with Identity Resolution Partners.
+    * To Comply With Legal Obligations.. We may use your Personal Information where we believe necessary to comply with our legal obligations or to exercise or defend our rights or the rights of a third party, including complying with law enforcement or government authority requests and participating in compliance audits.
+    * To Protect Us and Others. We may use your Personal Information where we believe necessary to investigate, prevent, or take action regarding suspected or actual illegal activities, fraud, situations involving potential threats to the safety of any person or to otherwise enforce this Privacy Policy, including as to access to, or the integrity and/or security of the Products and Services.
+    * Deidentified Data. We may also deidentify or anonymize your Personal Information in such a way that you may not reasonably be re-identified by us or another party, and we may use this deidentified data for those purposes permitted under applicable law. To the extent we deidentify any data, we will maintain and use such data in deidentified form and will not attempt to reidentify it.
+3. How We Disclose the Personal Information We Collect
+    ---------------------------------------------------
     
-    * Business Transfers. If (i) we or our affiliates are or may be acquired by, merged with, or invested in by another company, or (ii) if any of our assets are or may be transferred to another company, whether as part of a bankruptcy or insolvency proceeding or otherwise, we may transfer the information we have collected about you to the other company. As part of the business transfer process, we may disclose certain of your information to lenders, auditors, and third party advisors, including attorneys and consultants.
-    * In Response to Legal Process. We may disclose your personal information where we believe necessary to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
-    * To Protect Us and Others. We disclose your personal information where we believe it is appropriate to do so to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our User Agreement or this Policy, or as evidence in litigation in which we are involved.
-    * Aggregate and Deidentified Information. We may disclose aggregate, anonymized, or deidentified information about you for any purpose permitted under applicable law.
+    We may disclose each of the categories of Personal Information described above for our business and commercial purposes as follows:
+    
+    * Related Entities. We may disclose Personal Information we collect about you to our affiliates, subsidiaries, and related entities, such as those listed [here](https://www.advancelocal.com/our-businesses/).
+    * Service Providers. We may disclose Personal Information we collect about you to service providers, who perform certain functions and business operations on our behalf. For example, we may engage service providers to help us with technical maintenance, database management, fraud prevention, market research, payment processing, order fulfillment, address verification, community and forums management, auctions, e-commerce, list rental, data co-op management, audience, website and mobile application authentication, and similar business functions. We may disclose some of the Personal Information that we collect from or about you to process and fulfill your requests for video Content offered through our Products and Services, including to provide you with access to localized Content and video Content recommendations.
+    * Third-Party Business Partners.. Some aspects of our Products and Services are supported by third-party business partners, such as, for example, a sponsor of one of our events or an advertising network on our websites, who may obtain your Personal Information when you use the Products and Services. We may also disclose Personal Information we collect about you:
+        * in connection with our use of “list rental” and “data co-ops” each of which involve contractual arrangements to enable other businesses to send direct marketing to you, provided, however, that those other businesses don't receive your Personal Information;
+        * to consumer data suppliers/resellers, data enrichment providers and aggregators, and other businesses that support our consumer and events marketing and advertising practices, including for purposes of Targeted Advertising, Identity Resolution, data optimization, lead generation and other data driven projects;
+        * to social media companies; to companies that help us with our Products and Services, and product recommendations; and
+        * lawyers, auditors, accountants, consultants and other professional advisors.
+    * Business Transfers. If (i) we or our subsidiaries or affiliates are or may be acquired by, merged with, or invested in by another company, or (ii) if any of our assets are or may be transferred to another company, whether as part of a bankruptcy or insolvency proceeding or other reorganization of our business, we may transfer the Personal Information we have collected about you to the other company. As part of the business transfer process, we may also disclose certain of your Personal Information to our parent company, lenders, auditors, and third-party advisors, including attorneys and consultants.
+    * In Response to Legal Process. We may disclose your Personal Information where we believe necessary to comply with a law, regulation, judicial proceeding, court order, or other legal event or process, such as in response to a subpoena.
+    * To Protect Us and Others. We disclose your Personal Information where we believe it is appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or the security of our Products and Services, violations of our [User Agreement](https://www.al.com/user-agreement/) or this Privacy Policy, or as evidence in a litigation or arbitration in which we are involved.
     * Consent. We may disclose your personal information with your consent.
-4. Our Use of Cookies and Related Technologies
-    -------------------------------------------
-    
-    Cookies/Local Device Storage. The Service will at times place and/or store code or other types of information and/or software on your device or within your browser, such as cookies, locally shared objects, and HTML5 (collectively, "Local Device Storage"). We and third party business partners may independently or in conjunction use Local Device Storage in connection with the Service in a way that collects personal information for the purposes described in the respective privacy policies, including without limitation to determine whether you have seen a particular advertisement before on the same or different device and to otherwise control and tailor the display of ads to you based on your perceived preferences by collecting data to track the movements of individual users through the Service and elsewhere on the internet over time and across unaffiliated websites, apps, and devices, as well as to help diagnose problems with servers, to gather broad demographic information, to conduct research, to deliver editorial content, to record registration and personalization information, to inform offers that we may make to you, and to otherwise administer the Service. For example, if you register on any part of the Service and are given the option to save your username and password, we may provide this convenience to you via Local Device Storage.
-    
-    * You May Disable Local Device Storage. If you do not want Local Device Storage, your device, browser, or the settings menu within an application may include an option that allows you to not accept it. However, if you disable Local Device Storage, some portions of the Service may not function properly.
-    * Tracking Technologies. In addition to Local Device Storage, we and/or our third party business partners may use web beacons, web bugs, internet or pixel tags, clear gifs, digital fingerprinting (aka "Machine Identification") and similar technologies (collectively, together with Local Device Storage, the "Tracking Technologies") on the Service, including in our communications with you, such as within e-mail and text messages, in-application push notifications, videos, and throughout your use of the Services. We and our third party business partners use Tracking Technologies to determine which messages have been opened by recipients, and for all or some of the same lawful purposes described above for use of Local Device Storage. For additional information see the Online Behavioral Advertising (OBA) section below.
-    * Do Not Track (DNT). Your browser setting may allow you to automatically transmit a "Do Not Track" (DNT) signal to websites and online services that you visit. There is no consensus as to what DNT means in this context, and since some browsers apply DNT signals by default it does not necessarily reflect our visitors' choice as to whether they wish to receive advertisements tailored to their interests. As a result, like many websites, we do not alter our practices when the Service receives a DNT signal from a visitor's browser. As discussed below, you may opt out of the use of your personal information for online behavioral advertising by third parties at any time. To find out more about DNT, please visit [http://allaboutdnt.com](http://allaboutdnt.com/).
-    * Global Privacy Control (GPC) and similar privacy preference signals. Where required by applicable local law, and as further described in the [Your Privacy Choices and Rights; Submitting Requests Under Applicable Local Laws](#rights_top) section below, we honor user-initiated browser based opt-out preference signals recognized under applicable local law, such as the Global Privacy Control (GPC). To find out more about GPC, please visit [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/).
-5. Online Behavioral Advertising (OBA) and How to Opt-Out Of OBA
+    * Aggregate and Deidentified Information. We may disclose aggregated, anonymized, or deidentified information for any purpose permitted under applicable law.
+
+Where required by applicable law, we enable you to opt out of or provide you with the ability to consent to the disclosure of your Personal Information to these third parties or related parties.
+
+5. Tracking Techniques and Technologies and Targeted Advertising
     -------------------------------------------------------------
     
-    * How OBA Works. We and our third party business partners, use Tracking Technologies on the Service for purposes of "online behavioral advertising" (OBA). OBA allows the serving of advertisements tailored to perceived interests inferred by your browsing on the Service and on other sites, applications, destinations, and services, over time and across unaffiliated websites, apps, and services, using the same or a different device. To enable OBA, we and our third party business partners, independently use Tracking Technologies to collect certain information, some of which may be deemed personal information, including for example the make, model, settings, specifications (e.g., CPU speed, connection speed, browser type, operating system, device identifier, online identifier) and geographic location of your device, as well as date/time stamp, IP address, pages visited, time of visits, content viewed, ads viewed, the site(s), application(s), destination(s), and/or service(s) you arrived from, and other clickstream data. Your email address may also be used by us, in coordination with third party audience authentication service providers to enable OBA.
-    * Opt-Out of OBA. If you do not want OBA, you may be able to opt-out by visiting [www.aboutads.info](https://www.aboutads.info/), [www.networkadvertising.org](https://www.networkadvertising.org/), [www.youronlinechoices.com](https://www.youronlinechoices.com/), and/or by clicking the "Ad Choices" icon that appears in advertising served through OBA. Please note that these opt-out options only apply to tracking by third party business partners using cookie-based OBA across this Service and other sites, applications, destinations, and services, and not tracking among pages within the Service itself. As may be required under applicable law, to opt-out of OBA enabled by use of your email address in coordination with audience authentication providers, visit [https://optout.liveramp.com/opt\_out](https://optout.liveramp.com/opt_out), or see the [Your Privacy Choices and Rights; Submitting Requests Under Applicable Local Laws](#rights_top) section below.
-6. Your Privacy Choices And Rights; Submitting Requests Under Applicable Local Laws
-    --------------------------------------------------------------------------------
+    Tracking Techniques and Technologies  
+    We and our third-party business partners use various tools and technologies such as cookies, pixels, localStorage, web beacons, software development kits, and similar technologies (collectively, “Tracking Technologies”) to collect data when you interact with our Products and Services, including our websites, mobile applications, and email communications. Some of these technologies store data in the browser or on your device. Other technologies may use network-related or other information to recognize your device (e.g., IP address).
     
-    You may have certain rights regarding our processing of your personal information under applicable local law, including if you are a consumer in California, Colorado, Connecticut, Utah, or Virginia. If our processing of your personal information is governed by such laws, this section provides you with additional information regarding your rights and our processing of your personal information under applicable local law.
+    Our Products and Services use Tracking Technologies, for example, when you first request a web page and data is then stored on your computer or other device so the website can access Personal Information when you make subsequent requests for pages from that Product or Service. These technologies may also be used to collect and store information about your usage of the Products and Services, such as pages you have visited, and Content you viewed or searched for. We may also use these technologies to save your preferences, consent, and choices; determine if you opened or interacted with our emails or newsletters; troubleshoot and resolve technical issues or outages; conduct research; deliver editorial Content and advertising; maintain subscription and registration information; and store information you may want to retrieve on a regular basis. Additionally, we may use these technologies to collect analytics and measure the use of our Products and Services.
     
-    ### Our processing of your personal information
+    The use of these Tracking Technologies helps us serve you better by understanding what you are interested in, track trends, measure the effectiveness of ads, conduct frequency capping, and tailor offers about our Products and Services to you. We also allow specific, approved third-party business partners and/or service providers, including Google Analytics, to collect data from your browser or device for Targeted Advertising, analytics, and measurement purposes using their own similar tools. For more information about Google Analytics including how to opt out, visit [How Google Uses Information](https://policies.google.com/technologies/partner-sites?hl=en-US) and to [Opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
     
-    As may be required under applicable local law, below is a chart that describes our business and commercial purposes for processing your personal information, as well as the categories of third parties to whom we may disclose, "sell," or "share" for cross-contextual behavioral advertising (as those terms are defined under applicable law) the categories of personal information described above for our business and commercial purposes.
+    We and our third-party business partners may also use these Tracking Technologies to gather Personal Information, including Sensitive Personal Information, about how you view and use our Products and Services and to connect your activity with other data we maintain about you.
     
-    | Category of personal information | Our business or commercial purposes for processing | Categories of third parties to whom we may disclose personal information for a business purpose | Categories of third parties to whom we may "sell" or "share" personal information |
-    | --- | --- | --- | --- |
-    | Identifiers | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Payment processors<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales and advertising facilitating companies<br>* List rental providers, data coops<br>* Audience authentication providers<br>* Community & forum management providers<br>* Market research & data enrichment providers<br>* E-commerce providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* Data cooperatives, suppliers, providers, and aggregators<br>* E-commerce providers<br>* Companies that help with our products and product recommendations |
-    | Protected characteristics | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing, advertising, and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* Community & forum management providers<br>* Market research & data enrichment providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* Companies that help with our products and product recommendations |
-    | Commercial information | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Payment processors<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* List rental providers, data coops<br>* Community & forum management providers<br>* Market research & data enrichment providers<br>* E-commerce providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* Data cooperatives, suppliers, providers, and aggregators<br>* E-Commerce providers<br>* Companies that help with our products and product recommendations |
-    | Payment Records | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* To comply with legal obligations<br>* To protect us and others | * Payment processors<br>* Order fulfillment providers | None. |
-    | Internet or other electronic network activity | * To provide our services and fulfill your requests><br>* To improve our services<br>* Identification and authentication purposes<br>* ersonalization<br>* Marketing and promotional purposes \\<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Payment processors<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* List rental providers, data coops<br>* Community & forum management providers<br>* Market research & data enrichment providers<br>* E-commerce providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* Data cooperatives, suppliers, providers, and aggregators<br>* E-commerce providers<br>* Companies that help with our products and product recommendations |
-    | Geolocation data | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Payment processors<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* Community & forum management providers<br>* Market research & data enrichment providers<br>* E-commerce providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* Data cooperatives, suppliers, providers, and aggregators<br>* E-commerce providers<br>* Companies that help with our products and product recommendations |
-    | Audio, electronic, visual, thermal, olfactory, or similar information | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Payment processors<br>* Database management providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | None. |
-    | Professional informtation | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* Market research & data enrichment providers<br>* E-commerce providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* E-commerce providers |
-    | Inferences | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* Community & forum management providers<br>* Market research & data enrichment providers<br>* E-commerce providers<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* E-commerce providers<br>* Companies that help with our products and product recommendations |
-    | Information that may be treated as sensitive under applicable local law | * To provide our services and fulfill your requests<br>* To improve our services<br>* Identification and authentication purposes<br>* Personalization<br>* Marketing and promotional purposes<br>* To comply with legal obligations<br>* To protect us and others | * Data storage and security providers<br>* Order fulfillment providers<br>* Payment processors<br>* Database management providers<br>* Advertising, marketing, social media, subscription sales, and advertising facilitating companies<br>* Companies that help with our products and product recommendations<br>* Related entities, such as our parent, subsidiaries and affiliates<br>* Professional advisors (such as lawyers, accountants, and consultants)<br>* Governmental and law enforcement officials, or parties to legal proceedings | * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients)<br>* E-commerce providers<br>* Companies that help with our products and product recommendations |
+    Targeted Advertising and Identity Resolution Partners  
+    We and our third-party business partners may collect and share Personal Information about your online and offline activities over time and across unaffiliated websites and mobile applications to predict your preferences and interests, and, in conjunction with third parties, may use your Personal Information for cross-context behavioral advertising and to serve advertising believed to be of interest to you ("Targeted Advertising").
     
-    To opt-out of our "sale" or "sharing" of your personal information under applicable local law, please see our section below on Your Privacy Choices and Rights; Submitting Requests for additional details.
+    We may collaborate with our service providers and our third-party Identity Resolution Partners to deliver Targeted Advertising and identify the different devices and browsers you may use to access our Products and Services. We and these Identity Resolution Partners facilitate identity resolution by creating probabilistic and deterministic identifiers. These identifiers may use Personal Information, including your name, email address, phone number, and Activity and Device Information to generate an online identifier reasonably linkable to you and/or your device or browser.
     
-    ### Retention
+    For example, we may disclose hashed email address, phone number, or other information about your device to our Identity Resolution Partners, who may, in turn, return an online identifier that we may store in a first party cookie or similar technology and disclose to our advertising partners to provide you a more personalized advertising experience. These identifiers may also help us with fraud detection and security, to enforce our User Agreement, verify user authentication for accessing Content behind a paywall, and to determine eligibility for offers available exclusively to new subscribers, among other things. We are not responsible for the privacy practices of our Identity Resolution Partners, which are separate from our own and which are not covered by this Privacy Policy. You can Opt-Out of Identity Resolution Partner LiveRamp’s use of your Personal Information for these purposes by visiting [https://optout.liveramp.com/opt\_out](https://optout.liveramp.com/opt_out), or, as described in the [Opting Out of a “Sale” or “Sharing” of Your Personal Information or of its Use for Targeted Advertising](#sale_opt_out) section below.
     
-    Your personal information will be held for only so long as it is necessary for the purpose for which it was originally collected, and in accordance with applicable local law. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Policy. When assessing retention periods, we first examine whether it is necessary to retain the personal information collected and, if retention is required, work to retain the personal information for the shortest possible period permissible under applicable law.
+    As noted in the Social Media Company Integration section above, we may utilize Tracking Technologies to disclose information about your use of our Products and Services to social media companies and other third-party business partners to serve you and other segments of users Targeted Advertising and to facilitate marketing communications.
     
-    ### Your Privacy Choices and Rights; Submitting Requests Under Applicable Local Laws
+    We and our advertising partners may make inferences about your interests and these inferences may be used for Targeted Advertising. In certain U.S. states, these inferences may be considered Sensitive Personal Information. When we obtain this information from our third-party business partners, we will, where required by law, contractually ensure that they have obtained your consent or offered you an opportunity to opt out before sharing it with us. Similarly, if we collect Sensitive Personal Information directly from you, where required by law, we will obtain your consent, provide you an opportunity to opt out, or take other appropriate action. For more information about your rights regarding Sensitive Personal Information under local laws, please refer to the [Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising](#optout_top) section below.
     
-    Depending on the jurisdiction in which you live, including if you are a consumer in California, Colorado, Connecticut, Utah, or Virginia, you may have the following rights under applicable local law:
+6. Opting Out of Third-Party Tracking Technologies
+    -----------------------------------------------
     
-    * request information about our processing of your personal information (right to know);
-    * request a copy of your personal information (right to access);
-    * rectify, correct, or update the personal information we hold about you (collectively right to correct);
-    * request deletion of your personal information;
-    * opt-out of "sales" of personal information or "sharing" of personal information for cross-contextual behavioral advertising purposes (as these terms are defined under applicable law);
-    * opt-out of targeted advertising;
-    * restrict or limit our use of your personal information or your sensitive personal information (right to restrict);
-    * object to our use of your personal information;
-    * where you have provided consent, withdraw such consent to our processing of your personal information at any time;
-    * ask that we transfer the personal information we maintain about you to another organization, or to you, in certain circumstances (right to portability);
+    As noted above, when you use our Products and Services, our third-party advertising partners, social media companies, and analytics providers may collect Personal Information about your online activity on our Products and Services and on third-party websites. These providers may use Tracking Technologies to deliver advertisements to you when you visit third-party websites within their networks.
+    
+    There are a variety of methods available to you to opt out of certain third-party Tracking Technologies, including using tools provided within your device, browser, or the settings menu within a mobile application which may include an option that allows you to refuse the placement of certain Tracking Technologies.
+    
+    If you would like more information about this practice and your choices with respect to it, please visit [YourAdChoices.com](https://youradchoices.com/), [NAI Opt Out of Interest-Based Advertising](https://optout.networkadvertising.org/?c=1), or [Your Online Choices](https://youronlinechoices.eu/), and/or click the “Ad Choices” icon that appears in Targeted Advertising on our websites. Please note that if you exercise these choices, you may continue to receive ads that are not based on your preferences.
+    
+7. Understanding Your Privacy Rights and Choices
+    ---------------------------------------------
+    
+    The states of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, and Montana provide its residents certain rights regarding our processing of your Personal Information, including the right to opt-out of Targeted Adverting and/or what is sometimes called “sales” or “sharing” of your Personal Information, and other rights detailed immediately below.
+    
+    * request information about our processing of your Personal Information (right to know), including, depending on your state of residence, a list of specific third parties to whom we have disclosed your Personal Information;
+    * request a copy of your Personal Information (right to access);
+    * request to rectify, correct, or update the Personal Information we hold about you (collectively right to correct);
+    * request deletion of your Personal Information;
+    * opt-out of “sales” of Personal Information or “sharing” of Personal Information for cross-contextual behavioral advertising and/or Targeted Advertising purposes (as these terms are defined under applicable law);
+    * restrict or limit our use of your Personal Information or your Sensitive Personal Information (right to limit);
+    * object to our use of your Personal Information;
+    * where you have provided consent, withdraw such consent to our processing of your Personal Information at any time;
+    * ask that we transfer the Personal Information we maintain about you to another organization, or to you, in certain circumstances (right to portability);
     * not be unlawfully discriminated against for exercising your rights;
-    * lodge a complaint.
+    * lodge a complaint with your local data protection authority.
     
-    These rights may be limited or denied in some circumstances. For example, we may retain your personal information where required or permitted by applicable law.
+    You may also have additional rights related to our use and disclosure of your Sensitive Personal Information. To learn more, please see [Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising](#optout_top) below.
     
-    We may "sell" or "share" for cross-contextual behavioral advertising your personal information (as these terms are defined under applicable local law). We do not have actual knowledge of selling or sharing the personal information of consumers that are at least 13 and less than 16 years of age. To the extent we have actual knowledge that a consumer is at least 13 and less than 16 years of age, we will request affirmative authorization from the individual before selling or sharing the personal information, to the extent required under applicable local law.
+    Note that these rights are not always absolute and may be limited or denied where required or under applicable law. For example, if you are an active subscriber to one of our Products or Services and you make a deletion request, we will retain Personal Information to enable your subscription to continue, and in other circumstances may retain a record of your request and our response.
     
-    We use and disclose certain of your sensitive personal information for OBA and cross-contextual behavioral advertising. To learn more about your rights to limit our use and disclosure of sensitive personal information under applicable local law, please see the section below on Submitting Requests.
+8. Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising
+    --------------------------------------------------------------------------------------
     
-    ### Submitting Requests
+    To exercise your rights under applicable local law, or if, in accordance with applicable local law in California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, and Montana, you are an authorized agent, or a parent or guardian seeking to exercise rights on behalf of a minor, please follow the instructions provided below.
     
-    To exercise your rights under applicable local law or if you are an authorized agent or parent or guardian seeking to exercise rights on behalf of a minor in accordance with applicable local law (specifically, including California, Colorado, Connecticut, Utah, and Virginia) please follow the instructions provided below.
+    Opting Out of a “Sale” or “Sharing” of Your Personal Information or of its Use for Targeted Advertising  
+    Please note that when following the processes described below, you may need to make your Opt-Out choices on each website, mobile application, browser, and device that you use, and if your browser's cookies are cleared, you may need to repeat the process. However, if you have created an account to log in across several of our apps and/or websites, we will make reasonable efforts to apply your opt-out request to each of those apps and websites.
     
-    * To exercise your right to opt-out of our "sale" or "sharing" of your personal information, to opt out of the use of your personal information for targeted advertising purposes, or to limit our use of your sensitive personal information (collectively "Opt-Out"), as may be available to you under applicable local law please see the below.
-        
-        * To Opt-Out of such uses through online sales and shares on or in connection with the Services, click this [Your Privacy Choices](#) link (which can also generally be found in the Service’s footer (if a website) or settings/about menu (if an application)). You will need to flip a toggle or take other action, such as submitting a form, as described in the Your Privacy Choices webpage. Toggle settings are generally browser-, Service-, and device-specific and may reset if cookies are cleared. If you have any questions or need assistance exercising your rights, please contact our Privacy Policy Coordinator by [email](mailto:Privacy_inquiry@advance.net) or as described at the end of this document.
-        * To Opt-Out of other sales shares, on or in connection with the Services such as by using your email address to identify you online for targeted advertising or, as applicable, by our sharing your name and mailing address with third parties for their marketing purposes\], fill out this [form](https://privacyportal-cdn.onetrust.com/dsarwebform/57316691-7a35-4427-b868-f6c059de9bc0/49b8f00f-7426-4ae6-9561-6efd1d14ba34.html) or call 1-888-914-9661 and use PIN 981105
-    * To exercise your rights to know, access, correct, delete, restrict, object, or portability, under applicable local law as described above, contact us at 1-888-914-9661, using the PIN 981105, or submit a request by completing this [form](https://privacyportal-cdn.onetrust.com/dsarwebform/57316691-7a35-4427-b868-f6c059de9bc0/49b8f00f-7426-4ae6-9561-6efd1d14ba34.html)
+    * To exercise your right to opt-out of our “sale” or “sharing” of your Personal Information, the use of your Personal Information for Targeted Advertising purposes, or to limit our use and disclosure of your Sensitive Personal Information (collectively "Opt-Out") on our websites and mobile applications, where such choices are available to you under applicable local law:
+        * Click on the “Your Privacy Choices” button/link, typically located in the footer of our websites or in the settings/about menu of our mobile applications. Please then follow the instructions on the applicable “Your Privacy Choices” webpage, which may request that you slide a toggle switch or submit a form to effectuate your choice.
+        * As noted above, your choices are specific to the browser, website, mobile application, and device you are using. Although we will make reasonable efforts to apply your opt-out request across several of our apps and/or websites if you have created an account to log in across several of ours apps and/or websites, this generally means that:
+            * If you accessed the “Your Privacy Choices” button/link from the website or mobile application of an Advance Local market (e.g., NJ.com), when you make your Opt-Out choice following the process described above, the Opt-Out will only be applied on the specific market's website. If you want to Opt-Out on our other websites, you will need to go to that website, access the “Your Privacy Choices” button/link and follow the Opt-Out process described above.
+    * We also recognize Global Privacy Control as a valid opt-out method. Certain browsers and browser extensions support [Global Privacy Control](https://globalprivacycontrol.org/) which sends a signal to websites indicating your choice to Opt-out of the use of your Personal Information for Targeted Advertising and “sales” or “shares” as defined under applicable law. We honor the GPC and where required by law, similar user-initiated browser based opt-out preference signals. Note that the Global Privacy Control is currently only applicable to opt-outs from websites. For mobile apps, please follow the instructions above.
+    * To Opt-Out of Targeted Advertising enabled by other uses of your Personal Information, such as by LiveRamp, an Identity Resolution partner, visit [https://optout.liveramp.com/opt\_out](https://optout.liveramp.com/opt_out).
+    * To Opt-out of “sales” or “sharing” such as if your name and mailing address is used in connection with list rental and data co-ops, fill out this [form](https://privacyportal.onetrust.com/webform/57316691-7a35-4427-b868-f6c059de9bc0/49b8f00f-7426-4ae6-9561-6efd1d14ba34) or call 1-888-914-9661 and use PIN 981105.
+    * Do Not Track (DNT). Your browser setting may allow you to automatically transmit a "Do Not Track" (DNT) signal to websites and online services that you visit. Since there is no consensus about what DNT means in this context and how to implement DNT signals, like many other businesses, our websites do not respond to these DNT signals, but you have the options noted above and below to make choices about how your Personal Information is used.
     
-    California residents may view metrics for California Consumer Privacy Act ("CCPA")-related requests we have received during calendar year 2021, by clicking [here](https://www.advancelocal.com/advancelocal_reporting.html).
+    California residents may view metrics for California Consumer Privacy Act (“CCPA”)-related requests we have received during calendar year 2023, by clicking [here](https://www.advancelocal.com/advancelocal_reporting.html).
     
-    ### Verification
+    In certain regions, including California, we are also required by applicable local law to provide information, including as described above, about our business and commercial purposes for processing your Personal Information, and the categories of third parties with whom we may disclose, “sell,” or “share” your Personal Information for cross-contextual behavioral advertising (Targeted Advertising) in a manner that is highlighted for residents of those regions. That presentation of information is available in the section, [Additional Information Under Applicable Local Law](#additional_info_top), below.
     
-    We reserve the right to take reasonable steps to verify your identify before fulfilling your requests to know, correct, or delete. For example, we may seek to establish your identity to a reasonable or a reasonably high degree of certainty by matching information that you submit alongside your request with information that we have in our records. We may ask you or your authorized agent for supplemental information as needed to establish your identity. Authorized agents may also be required to provide a copy of the consumer's signed permission authorizing the agent to submit requests on the consumer’s behalf under applicable local law.
+    Additional Rights Requests  
+    To exercise your rights to know, access, correct, delete, restrict, object, or portability, under applicable local law as described above, contact us at 1-888-914-9661, using the PIN 981105, or submit a request by completing this [form](https://privacyportal.onetrust.com/webform/57316691-7a35-4427-b868-f6c059de9bc0/49b8f00f-7426-4ae6-9561-6efd1d14ba34).
     
-    ### Appeals
+    If you have any questions or need assistance exercising your rights, please contact our Privacy Policy Coordinator by [email](mailto: privacy_inquiry@advancelocal.com) or as described in the [Contact Us](#contact_us_top) section of this Privacy Policy.
     
-    You may have a right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please contact us our Privacy Policy Coordinator by [email](mailto:Privacy_inquiry@advance.net) or as described at the end of this document.
+    Verification  
+    We reserve the right, and in some cases may be required by law, to take reasonable steps to verify your identity before fulfilling your requests to know, correct, or delete. For example, we may seek to establish your identity to a reasonable or a reasonably high degree of certainty by matching information that you submit alongside your request with information that we have in our records. We may ask you or your authorized agent for supplemental information as needed to establish your identity. Authorized agents may also be required to provide a copy of the consumer's signed permission authorizing the agent to submit requests on the consumer's behalf under applicable local law.
     
-    **_California Online Erasure._** California's "Online Erasure" law, Business and Professions Code §§ 22580-22582, requires operators of certain websites and online services to allow registered users who are under the age of 18 and residents of California to request removal of content they post. If you fit that description and posted content on a section of our Service that is directed to California residents at least 13 and younger than 18 years of age, you may request removal of the content by contacting our Privacy Policy Coordinator by [email](mailto:Privacy_inquiry@advance.net) or as described at the end of this document. In response to your request, we may elect to make the content invisible to other users and the public (rather than deleting it entirely), in which case the content may remain on servers we control and/or may be publicly available elsewhere if a third party copied and reposted the content.
+    Appeals  
+    You may have a right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please contact us our Privacy Policy Coordinator by email or as described in the [Contact Us](#contact_us_top) section of this Privacy Policy.
     
-7. Opt-Out of Marketing Communications
-    -----------------------------------
+    Financial Incentive  
+    By providing us your Personal Information, such as your email address, to register or otherwise create an account on our websites or mobile apps we may give you access to Content that would otherwise require a paid subscription (“Program”). California and other states may consider this Program to be a financial incentive or loyalty program. Personal Information you provide to us as part of this Program may be used for Targeted Advertising and disclosed to our Identity Resolution Partners, as described in this Privacy Policy. You retain all rights that you otherwise have, including to Opt-Out of Targeted Advertising, and to make requests about your Personal Information, and any such requests will not affect your access to or participation in the Program, including if you leave the Program. You may withdraw from the Program at any time by logging into your account or emailing our Privacy Policy Coordinator at [Privacy\_inquiry@advance.com](mailto: privacy_inquiry@advancelocal.com).
     
-    If you do not wish to receive future marketing or other commercial messages from us, simply follow the unsubscribe instructions contained within the message you receive. Note, however, that you may continue to receive certain communications from us that are necessary for the Service, such as renewal notifications, invoices, technical notices, updates, security alerts, and support and administrative service bulletins.
+    The value of the Personal Information you provided is reasonably related to the benefits you get from the Program and includes the value of your access to our Content; our costs to provide you with the Content and to collect and process your Personal Information; and the potential benefits, such as additional advertising revenue and improvements we can make to our Products and Services through the Program.
     
-8. Security of My Information
-    --------------------------
+    California Online Erasure  
+    California's "Online Erasure" law, Business and Professions Code §§ 22580-22582, requires operators of certain websites and online services to allow registered users who are under the age of 18 and residents of California to request removal of content they post. If you fit that description and posted Content on a section of our Products and Services that is directed to California residents at least 13 and younger than 18 years of age, you may request removal of the content by contacting our Privacy Policy Coordinator by email or as described below. In response to your request, we may elect to make the content invisible to other users and the public (rather than deleting it entirely), in which case the content may remain on servers we control and/or may be publicly available elsewhere if a third party copied and reposted the content.
     
-    We implement physical, technical, and organizational security measures designed to safeguard personal information. These measures are aimed to protect the personal information we collect from loss, misuse, and unauthorized access, disclosure alteration, and destruction. Please be aware that despite our efforts, no data security measures can guarantee security.
+9. Opting Out of Marketing Communications
+    --------------------------------------
     
-9. Third Party Links
+    If you do not wish to receive future marketing or other commercial messages from us, follow the unsubscribe instructions contained within the message you receive. Note, however, that you may continue to receive certain communications from us that are necessary for the Products and Services, such as renewal notifications, invoices, technical notices, updates, security alerts, and support and administrative service bulletins.
+    
+10. Retention
+    ---------
+    
+    We will retain Personal Information from or about you as reasonably necessary and proportionate to achieve the purpose(s) for which the Personal Information was collected or processed as outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+    
+11. Security of Your Personal Information
+    -------------------------------------
+    
+    We implement physical, technical, and organizational security measures designed to safeguard Personal Information. These measures aim to protect the Personal Information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our efforts, no measures can guarantee security.
+    
+12. Third-Party Links
     -----------------
     
-    Our Services may contain links to third-party websites and applications. Any access to and use of such linked websites and applications is not governed by this Policy, but is instead governed by the privacy policies of those third-party websites and applications. We are not responsible for the information practices of such third party websites and applications. We encourage you to review the privacy policies of any third-party websites or applications that you choose to visit.
+    Our Services may contain links to third-party websites and applications. Any access to and use of such linked websites and applications is not governed by this Privacy Policy but is instead governed by the privacy policies of those third-party websites and applications. We are not responsible for the information practices of such third-party websites and applications. We encourage you to review the privacy policies of any third-party websites or applications that you choose to visit
     
-10. Be Careful Publicly Posting Personal Information
-    ------------------------------------------------
+13. Publicly Posting Personal Information
+    -------------------------------------
     
-    Please be aware that content and personal information that you disclose in publicly accessible portions of the Service may be available to other users, and may also be made available outside the Service by third parties, so you should be mindful of all personal information, especially sensitive personal information, that you may wish to post. To the extent required by applicable local law, we may require that you obtain the consent of any individual whose personal information you post on our Services.
+    Please be aware that Personal Information and Content that you disclose in publicly accessible portions of the Products and Services may be available to other users and may also be made available outside the Products and Services by third parties, so you should be mindful of all Personal Information, especially Sensitive Personal Information, that you may wish to post. Where required by applicable local law, we may ask you to obtain consent from any individual before posting that individual’s Personal Information on our Products and Services.
     
-11. International Transfers
+14. International Transfers
     -----------------------
     
-    Your personal information may be processed, transferred to, and maintained on servers and databases located outside of the jurisdiction in which you are based and where the privacy laws may not be as protective as your jurisdiction. Where required by applicable law, we have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to ensure that your data is adequately protected. For more information on the appropriate safeguards in place, please contact us at the details below in the "Contact Us" section of this Policy.
+    Your Personal Information may be processed, transferred to, and maintained on servers and databases located outside of the jurisdiction in which you are based and where the privacy laws may not be as protective as your jurisdiction. Where required by applicable law, we have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to ensure that your Personal Information is adequately protected. For more information on the appropriate safeguards in place, please contact us as noted in the [Contact Us](#contact_us_top) section of this Privacy Policy.
     
-12. Children
+15. Children
     --------
     
-    Our Services are not designed for children under the age of 13. If we discover that a child under the age of 13 has provided us with personal information, we will delete such information from our systems.
+    As noted above, our Products and Services are not designed for or directed to, children under the age of 13. If we discover that a child under the age of 13 has provided us with Personal Information, we will delete such information from our systems.
     
-13. Contact Us
+    We do not have actual knowledge of selling or sharing the Personal Information of consumers that are younger than 16 years of age. To the extent we have actual knowledge that a consumer is at least 13 and less than16 years of age, we will request affirmative authorization from the individual before selling or sharing the Personal Information, to the extent required under applicable local law.
+    
+16. CCTV
+    ----
+    
+    We may use CCTV video recording to protect the physical security of our property and Products and Services in line with applicable laws. We do this to comply with our contractual obligations (e.g., with customers and insurers) and our internal physical security policies to safeguard our properties, workplaces, people, and data.
+    
+17. Contact Us
     ----------
     
-    If you have any questions about the privacy aspects of our Services or would like to make a complaint, request, or have a question about your rights under this policy please contact our Privacy Policy Coordinator:
+    Advance Local is the controller of your Personal Information. If you have any questions about the privacy aspects of our Products or Services or would like to make a complaint, request, or have a question about your rights under this Privacy Policy please contact our Privacy Policy Coordinator as follows:
     
     Privacy Policy Coordinator  
     Advance Local Media LLC  
     30 Montgomery Street  
     Suite 430  
     Jersey City, NJ 07302  
-    [Privacy\_inquiry@advance.net](mailto:Privacy_inquiry@advance.net)
+    [Privacy\_inquiry@advance.com](mailto:Privacy_inquiry@advance.com)
     
     Make sure to include enough information for us to help you, including for example your name, contact information, and the specific website, mobile site, application, and/or other service you’re contacting us about.
     
-14. Changes to this Policy
-    ----------------------
+18. Changes to This Privacy Policy
+    ------------------------------
     
-    This Policy is current as of the Last Updated date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Services. If we make any changes to this Policy that materially affect our practices with regard to the information we have previously collected about you, we will endeavor to provide you with notice in advance of such change by highlighting the change on the Service.
+    This Privacy Policy is current as of the Last Updated date set forth above. We may change this Privacy Policy from time to time, so please be sure to check back periodically. We will post any changes to this Privacy Policy on our Products and Services. If we make any changes to this Privacy Policy that materially affect our practices with regard to the Personal Information, we have previously collected about you, we will endeavor to provide you with notice in advance of such change by highlighting the change on the Product or Service or otherwise communicating such change to you.
+    
+19. Additional Information Under Applicable Local Law
+    -------------------------------------------------
+    
+    As may be required under applicable local law, below is a chart that describes our business and commercial purposes for processing your Personal Information, as well as the categories of third parties to whom we may disclose, “sell,” or “share” for cross-contextual behavioral advertising (Targeted Advertising), as those terms are defined under applicable law.
+    
+    Depending on how you interact with our Products and Services, we may have processed Personal Information about you for each (or any) of these purposes:
+    
+    * To provide our Products and Services and fulfill your requests;
+    * To improve our Products and Services;
+    * Identification and authentication purposes;
+    * Personalization;
+    * Marketing and promotional purposes, including Targeted Advertising;
+    * To comply with the law, legal process, and internal policies;
+    * To exercise and defend legal claims;
+    * To protect us and others;
+    * To operate, manage, and maintain our business;
+    * To accomplish our business purposes and objectives;
+    * To develop, improve, repair, and maintain our Products and Services;
+    * To conduct research and analytics;
+    * To take quality assurance and safety assurance measures;
+    * To conduct risk assessments and effectuate security controls;
+    * To detect and prevent fraud;
+    * To conduct audits and other internal functions;
+    * To maintain records.
+    
+    In addition, we use and disclose certain Personal Information as described below:
+    
+    Category of Personal Information: Identifiers
+    
+    Categories of third parties to whom we may disclose identifiers for a business purpose:
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Payment processors;
+    * Database management providers;
+    * Advertising, marketing, social media, subscription sales and advertising facilitating companies;
+    * Identity Resolution Partners;
+    * List rental providers, data co-ops;
+    * Audience authentication providers;
+    * Community & forum management providers;
+    * Market research & data enrichment providers;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
+    
+    Categories of third parties to whom we may “sell” or “share” identifiers:
+    
+    * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients);
+    * Data co-ops, suppliers, providers, and aggregators;
+    * E-commerce providers;
+    * Identity Resolution Partners;
+    * Companies that help with our products and product recommendations.
+    
+    Category of Personal Information: Activity and Device Information
+    
+    Categories of third parties to whom we may disclose Activity and Device Information, for a business purpose:
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Payment processors;
+    * Database management providers;
+    * Advertising, marketing, social media, subscription sales, and advertising facilitating companies;
+    * List rental providers, data co-ops;
+    * Community & forum management providers;
+    * Market research & data enrichment providers;
+    * E-commerce providers;
+    * Identity Resolution Partners;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
+    
+    Categories of third parties to whom we may “sell” or “share” commercial information or Activity and Device information:
+    
+    * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients);
+    * Data co-op, suppliers, providers, and aggregators;
+    * Identity Resolution Partners;
+    * E-Commerce providers;
+    * Companies that help with our products and product recommendations.
+    
+    Category of Personal Information: Payment Information
+    
+    Categories of third parties to whom we may disclose payment information for a business purpose:
+    
+    * Payment processors
+    * Order fulfillment providers
+    
+    Categories of third parties to whom we may “sell” or “share” payment information: None.
+    
+    Category of Personal Information: Audio, electronic, visual, or similar information
+    
+    Categories of third parties to whom we may disclose Personal Information for a business purpose:
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Payment processors;
+    * Identity Resolution Partners;
+    * Database management providers;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
+    
+    Categories of third parties to whom we may “sell” or “share” audio, electronic, visual, or similar information: None.
+    
+    Category of Personal Information: Professional information
+    
+    Categories of third parties to whom we may disclose professional information for a business purpose
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Advertising, marketing, social media, subscription sales, and advertising facilitating companies;
+    * Identity Resolution Partners;
+    * Market research & data enrichment providers;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
+    
+    Categories of third parties to whom we may “sell” or “share” payment information: None.
+    
+    * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients);
+    * Identity Resolution Partners;
+    * E-commerce providers.
+    
+    Category of Personal Information: Inferences
+    
+    Categories of third parties to whom we may disclose inferences for a business purpose:
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Database management providers;
+    * Advertising, marketing, social media, subscription sales, and advertising facilitating companies;
+    * Community & forum management providers;
+    * Identity Resolution Partners;
+    * Market research & data enrichment providers;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
+    
+    Categories of third parties to whom we may “sell” or “share” inferences:
+    
+    * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients);
+    * Identity Resolution Partners;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations.
+    
+    Category of Personal Information: Information that may be treated as sensitive or otherwise protected under applicable local law
+    
+    Categories of third parties to whom we may disclose Personal Information that may be treated as sensitive or otherwise protected under applicable law for a business purpose:
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Payment processors;
+    * Database management providers;
+    * Identity Resolution Partners;
+    * Advertising, marketing, social media, subscription sales, and advertising facilitating companies;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
+    
+    Categories of third parties to whom we may “sell” or “share” Personal Information that may be treated as sensitive or otherwise protected under applicable law:
+    
+    * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients);
+    * Identity Resolution Partners;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations.
+    
+    Category of Personal Information: Geolocation data
+    
+    Categories of third parties to whom we may disclose geolocation data for a business purpose:
+    
+    * Data storage and security providers;
+    * Order fulfillment providers;
+    * Payment processors;
+    * Identity Resolution Partners;
+    * Database management providers;
+    * Advertising, marketing, social media, subscription sales, and advertising facilitating companies;
+    
+    Categories of third parties to whom we may “sell” or “share” geolocation data:
+    
+    * Advertising, marketing, social media and advertising facilitating companies (including list buyers and advertising clients);
+    * Identity Resolution Partners;
+    * Data co-ops, suppliers, providers, and aggregators;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations;
+    * Community & forum management providers;
+    * Market research & data enrichment providers;
+    * E-commerce providers;
+    * Companies that help with our products and product recommendations;
+    * Related entities, such as our parent, subsidiaries and affiliates;
+    * Professional advisors (such as lawyers, accountants, and consultants);
+    * Governmental and law enforcement officials, or parties to legal proceedings.
     
 
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1321)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1344)
 
 About Us
 
@@ -330,7 +622,7 @@ Customer Service
 More on AL.com
 
 * [Videos](https://www.youtube.com/user/aldotcom/videos)
-* [Weather](https://www.al.com/weather/)
+* [Weather News](https://www.al.com/weather/)
 * [Site Map & search](https://www.al.com/search/)
 * [Sponsor Content](https://www.al.com/sponsor-content-index/?prx_adpz=1111)
 * [Post a job](https://jobs.al.com/AdminNet/Employer/Marketing/3315)
@@ -338,11 +630,11 @@ More on AL.com
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1321)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1344)](https://www.advancelocal.com/)
 
-Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/) (updated 4/18/2024), [Privacy Policy and Cookie Statement](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 12/31/2023).
+Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/) (updated 7/1/2024), [Privacy Policy and Cookie Statement](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
 
-Cookie Settings/Do Not Sell My Personal Information![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1321)
+Cookie Settings![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions29x14.png?d=1344)
 
 © 2024 Advance Local Media LLC. All rights reserved ([About Us](https://www.al.com/aboutus/)).  
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Advance Local.
@@ -351,4 +643,4 @@ The material on this site may not be reproduced, distributed, transmitted, cache
 
 **YouTube’s privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube’s terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1321)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1344)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
