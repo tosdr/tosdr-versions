@@ -76,7 +76,11 @@ In order to access certain features on the Site, you must register and establish
 
 You acknowledge and agree that Mountain Mike’s may access, preserve, and disclose your account information, all content submitted by you, all communications to and from you, all information relating to your use of this Site, and all information relating to the use of this Site (collectively “User Communications”) under your account or account password if Mountain Mike’s is required to do so by law or legal process or if Mountain Mike’s determines, in its sole discretion, that such action is necessary to protect the rights of Mountain Mike’s, third parties, and other users of the Site, or for purposes of administering transactions through the Site or responding to your request for customer service. You further acknowledge and agree that Mountain Mike’s has the right to monitor and review your use of the Site and all of your User Communications.
 
-Mountain Mike’s may terminate your account if we believe, using our sole discretion, that you have violated any of these Terms or any law.
+Mountain Mike’s may terminate your account if we believe, using our sole discretion, that you have violated any of these Terms or any law..
+
+As a Mountain Rewards® member, you can only earn points on purchases made by you. Any attempt to earn points for other guests’ orders (by scanning receipts, at the POS or any other methods) is prohibited. Violators will be terminated or banned from the Mountain Rewards® loyalty program altogether.
+
+Upon termination of your account for any reason, all points and banked $ rewards or any program benefits that you have accumulated in Mountain Rewards® will immediately be void.
 
 7\. CHILDREN AND OUR SITE
 -------------------------
@@ -270,5 +274,40 @@ You are about to place an order for:
 Change Location Close Ordering Dialog
 
 Enable JavaScript to ensure [website accessibility](https://userway.org/)
+
+HOW TO REDEEM OFFERS
+--------------------
+
+**Redeem Online:**
+
+1. Visit MountainMikesPizza.com and select a restaurant to begin your order.
+2. Sign in with your Mountain Rewards® email and password.
+3. Ensure you’ve selected eligible item(s).
+4. Select **MY OFFERS**, find the offer you’d like to use and select **REDEEM**.
+5. Tap **CHECKOUT** to review order details & submit payment details.
+
+**Redeem In-App:**
+
+1. Visit the REWARDS section, find the offer you’d like to use and select **REDEEM NOW VIA MOBILE ORDER**.
+2. Select a restaurant to begin your order.
+3. Ensure you’ve selected eligible item(s) and head to checkout by tapping on the shopping cart located in the top right corner to review your order details.
+4. Select **MY OFFERS**, find the offer you’d like to use and select **REDEEM**.
+5. Tap **CHECKOUT** to review order details & submit payment details.
+
+**Redeem In-Restaurant:**
+
+1. Before checkout, let the cashier know you will be redeeming an offer.
+2. Visit the **REWARDS** section.
+3. Find the offer you’d like to use and select **REDEEM IN-RESTAURANT**.
+4. Present the phone number listed to the cashier to redeem the specified offer.
+5. Done!
+
+**Have Questions? Visit our** [**FAQ page**](https://www.mountainmikespizza.com/mobile-app-faq/)**.**
+
+×
+
+×
+
+×
 
 ×
