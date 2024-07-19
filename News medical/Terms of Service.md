@@ -346,94 +346,94 @@ Last Updated: May 26, 2022
 * [Top Health  
     Articles](#tabs-3)
 
-* [![Study reveals the effects of protein-rich diets on the gut microbiome and overall health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240616/Study-reveals-the-effects-of-protein-rich-diets-on-the-gut-microbiome-and-overall-health.aspx)
+* [![COVID-19 leads to long-term changes in the immune system, study shows](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
     
-    [Study reveals the effects of protein-rich diets on the gut microbiome and overall health](https://www.news-medical.net/news/20240616/Study-reveals-the-effects-of-protein-rich-diets-on-the-gut-microbiome-and-overall-health.aspx)
+    [COVID-19 leads to long-term changes in the immune system, study shows](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
     
-* [![New recommendations on vitamin D intake for children, pregnant people, adults over 75 and those with high-risk prediabetes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240614/New-recommendations-on-vitamin-D-intake-for-children-pregnant-people-adults-over-75-and-those-with-high-risk-prediabetes.aspx)
+* [![Research reveals optimal magnesium levels could lower dementia risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240715/Research-reveals-optimal-magnesium-levels-could-lower-dementia-risk.aspx)
     
-    [New recommendations on vitamin D intake for children, pregnant people, adults over 75 and those with high-risk prediabetes](https://www.news-medical.net/news/20240614/New-recommendations-on-vitamin-D-intake-for-children-pregnant-people-adults-over-75-and-those-with-high-risk-prediabetes.aspx)
+    [Research reveals optimal magnesium levels could lower dementia risk](https://www.news-medical.net/news/20240715/Research-reveals-optimal-magnesium-levels-could-lower-dementia-risk.aspx)
     
-* [![New link between sulfur metabolites in gut microbiome and neurodegenerative diseases revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240616/New-link-between-sulfur-metabolites-in-gut-microbiome-and-neurodegenerative-diseases-revealed.aspx)
+* [![J.D. Vance, Trump’s VP pick, says media twisted his remarks on abortion and domestic violence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240716/JD-Vance-Trumpe28099s-VP-pick-says-media-twisted-his-remarks-on-abortion-and-domestic-violence.aspx)
     
-    [New link between sulfur metabolites in gut microbiome and neurodegenerative diseases revealed](https://www.news-medical.net/news/20240616/New-link-between-sulfur-metabolites-in-gut-microbiome-and-neurodegenerative-diseases-revealed.aspx)
+    [J.D. Vance, Trump’s VP pick, says media twisted his remarks on abortion and domestic violence](https://www.news-medical.net/news/20240716/JD-Vance-Trumpe28099s-VP-pick-says-media-twisted-his-remarks-on-abortion-and-domestic-violence.aspx)
     
-* [![Safety-focused summary of GLP-1 receptor agonists in diabetes, obesity, and beyond](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240618/Safety-focused-summary-of-GLP-1-receptor-agonists-in-diabetes-obesity-and-beyond.aspx)
+* [![What is the association of Mediterranean diet–based interventions with cardiometabolic biomarkers in children and adolescents?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240716/What-is-the-association-of-Mediterranean-diete28093based-interventions-with-cardiometabolic-biomarkers-in-children-and-adolescents.aspx)
     
-    [Safety-focused summary of GLP-1 receptor agonists in diabetes, obesity, and beyond](https://www.news-medical.net/news/20240618/Safety-focused-summary-of-GLP-1-receptor-agonists-in-diabetes-obesity-and-beyond.aspx)
+    [What is the association of Mediterranean diet–based interventions with cardiometabolic biomarkers in children and adolescents?](https://www.news-medical.net/news/20240716/What-is-the-association-of-Mediterranean-diete28093based-interventions-with-cardiometabolic-biomarkers-in-children-and-adolescents.aspx)
     
-* [![AI-based liquid biopsy technology promises early detection of cancer recurrence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240614/AI-based-liquid-biopsy-technology-promises-early-detection-of-cancer-recurrence.aspx)
+* [![Groundbreaking mRNA vaccine administered to captive elephant to fight EEHV](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240713/Groundbreaking-mRNA-vaccine-administered-to-captive-elephant-to-fight-EEHV.aspx)
     
-    [AI-based liquid biopsy technology promises early detection of cancer recurrence](https://www.news-medical.net/news/20240614/AI-based-liquid-biopsy-technology-promises-early-detection-of-cancer-recurrence.aspx)
+    [Groundbreaking mRNA vaccine administered to captive elephant to fight EEHV](https://www.news-medical.net/news/20240713/Groundbreaking-mRNA-vaccine-administered-to-captive-elephant-to-fight-EEHV.aspx)
     
 
-[### Revolutionizing Life Science: An Interview with SCIEX on ASMS, the SCIEX 7500+ System, and AI-Driven Quantitation
+[### The Future is Wearable: Advancing Human Health Through Portable Spectroscopy
 
-Jose Castro-Perez and Chris Lock, SCIEX
+Richard Crocombe
 
-In our latest interview, News Medical speaks with SCIEX, a global leader in life science analytical technologies, about their exciting announcements at ASMS, the SCIEX 7500+ System, and how they utilize AI quantitation software to streamline solutions.
+In this interview conducted at Pittcon 2024 in San Diego, we spoke to Richard Crocombe about his journey in the field of spectroscopy, focusing on the development of portable spectrometers and their transformative potential in wearable health and fitness technologies.
 
-![Revolutionizing Life Science: An Interview with SCIEX on ASMS, the SCIEX 7500+ System, and AI-Driven Quantitation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240614/Revolutionizing-Life-Science-An-Interview-with-SCIEX-on-ASMS-the-SCIEX-75002b-System-and-AI-Driven-Quantitation.aspx)
+![The Future is Wearable: Advancing Human Health Through Portable Spectroscopy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240718/The-Future-is-Wearable-Advancing-Human-Health-Through-Portable-Spectroscopy.aspx)
 
-[### From Discovery Biology to ELRIG Chair
+[### Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson
 
-Melanie Leveridge
+Prof. Martin Cowie & Dr. Lisa Anderson
 
-In this interview, we speak with Melanie Leveridge, Vice President of Discovery Biology at AstraZeneca and Chair of the Board for ELRIG UK, to discuss her extensive career in the pharmaceutical industry, her role in fostering scientific innovation, and her vision for ELRIG's future.
+The future of heart failure treatment with AstraZeneca's Prof. Martin Cowie and Heart Failure Specialist and Consultant Cardiologist at St George’s Hospital Dr. Lisa Anderson.
 
-![From Discovery Biology to ELRIG Chair](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240613/From-Discovery-Biology-to-ELRIG-Chair-A-Conversation-with-Melanie-Leveridge.aspx)
+![Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240717/Heart-of-the-Matter-Early-Diagnosis-and-Intervention-in-Heart-Failure-with-Prof-Martin-Cowie-Dr-Lisa-Anderson.aspx)
 
-[### Breathing New Life into Diagnostics: Plasmion's SICRIT Technology
+[### Accelerate Your Research: Harness the Power of 3D Models with Dispen3D
 
-Jan Wolf
+Charlotte Broennimann
 
-Revolutionizing Non-Invasive Diagnostics with Plasmion’s SICRIT Breath Analysis.
+Dispen3D is setting new standards in single-cell biology, enabling researchers to conduct high-precision experiments that drive advancements in drug discovery, personalized medicine, and regenerative therapies.
 
-![Breathing New Life into Diagnostics: Plasmion's SICRIT Technology](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240611/Breathing-New-Life-into-Diagnostics-Plasmions-SICRITc2ae-Technology.aspx)
+![Accelerate Your Research: Harness the Power of 3D Models with Dispen3D](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240712/Accelerate-Your-Research-Dispen3D-Harnesses-the-Power-of-3D-Models.aspx)
 
-* [![Is There a Brain Microbiome?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Is-there-a-brain-microbiome.aspx)
+* [![Sudden Dizziness and Loss of Balance: Potential Underlying Issues](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
     
-    [Is There a Brain Microbiome?](https://www.news-medical.net/health/Is-there-a-brain-microbiome.aspx)
+    [Sudden Dizziness and Loss of Balance: Potential Underlying Issues](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
     
-* [![What is the Role of Melatonin in Sleep Regulation?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/What-is-the-Role-of-Melatonin-in-Sleep-Regulation.aspx)
+* [![Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
     
-    [What is the Role of Melatonin in Sleep Regulation?](https://www.news-medical.net/health/What-is-the-Role-of-Melatonin-in-Sleep-Regulation.aspx)
+    [Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
     
-* [![The Potential of Peptide Therapeutics in Treating Chronic Diseases](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Potential-of-Peptide-Therapeutics-in-Treating-Chronic-Diseases.aspx)
+* [![The Role of Vitamin D in Hormonal Balance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
     
-    [The Potential of Peptide Therapeutics in Treating Chronic Diseases](https://www.news-medical.net/health/The-Potential-of-Peptide-Therapeutics-in-Treating-Chronic-Diseases.aspx)
+    [The Role of Vitamin D in Hormonal Balance](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
     
-* [![Excessive Nighttime Urination (Nocturnal Polyuria)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
+* [![The Connection Between Vitamin D and Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Connection-Between-Vitamin-D-and-Mental-Health.aspx)
     
-    [Excessive Nighttime Urination (Nocturnal Polyuria)](https://www.news-medical.net/health/Excessive-Nighttime-Urination-(Nocturnal-Polyuria).aspx)
+    [The Connection Between Vitamin D and Mental Health](https://www.news-medical.net/health/The-Connection-Between-Vitamin-D-and-Mental-Health.aspx)
     
-* [![Lung Cancer in Women: Understanding the Increasing Risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Lung-Cancer-in-Women-Understanding-the-Increasing-Risk.aspx)
+* [![Understanding the Glycemic Index](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Understanding-the-Glycemic-Index.aspx)
     
-    [Lung Cancer in Women: Understanding the Increasing Risk](https://www.news-medical.net/health/Lung-Cancer-in-Women-Understanding-the-Increasing-Risk.aspx)
+    [Understanding the Glycemic Index](https://www.news-medical.net/health/Understanding-the-Glycemic-Index.aspx)
     
 
 Latest News
 -----------
 
-* [![Combining JAK inhibitors with checkpoint inhibitors improves cancer immunotherapy response](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Combining-JAK-inhibitors-with-checkpoint-inhibitors-improves-cancer-immunotherapy-response.aspx)
+* [![Physical modulation of the tumor microenvironment to enhance cancer therapy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Physical-modulation-of-the-tumor-microenvironment-to-enhance-cancer-therapy.aspx)
     
-    [Combining JAK inhibitors with checkpoint inhibitors improves cancer immunotherapy response](https://www.news-medical.net/news/20240620/Combining-JAK-inhibitors-with-checkpoint-inhibitors-improves-cancer-immunotherapy-response.aspx)
+    [Physical modulation of the tumor microenvironment to enhance cancer therapy](https://www.news-medical.net/news/20240719/Physical-modulation-of-the-tumor-microenvironment-to-enhance-cancer-therapy.aspx)
     
-* [![Noninvasive urine test enhances early detection of bladder cancer in patients with hematuria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Noninvasive-urine-test-enhances-early-detection-of-bladder-cancer-in-patients-with-hematuria.aspx)
+* [![Pharmacists and community health workers lead successful hypertension interventions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Pharmacists-and-community-health-workers-lead-successful-hypertension-interventions.aspx)
     
-    [Noninvasive urine test enhances early detection of bladder cancer in patients with hematuria](https://www.news-medical.net/news/20240620/Noninvasive-urine-test-enhances-early-detection-of-bladder-cancer-in-patients-with-hematuria.aspx)
+    [Pharmacists and community health workers lead successful hypertension interventions](https://www.news-medical.net/news/20240719/Pharmacists-and-community-health-workers-lead-successful-hypertension-interventions.aspx)
     
-* [![Breakthrough in enzyme communication could pave the way for new drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Breakthrough-in-enzyme-communication-could-pave-the-way-for-new-drugs-A-Mechanism-T.aspx)
+* [![Study reveals a promising approach to developing universal influenza vaccine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Study-reveals-a-promising-approach-to-developing-universal-influenza-vaccine.aspx)
     
-    [Breakthrough in enzyme communication could pave the way for new drugs](https://www.news-medical.net/news/20240620/Breakthrough-in-enzyme-communication-could-pave-the-way-for-new-drugs-A-Mechanism-T.aspx)
+    [Study reveals a promising approach to developing universal influenza vaccine](https://www.news-medical.net/news/20240719/Study-reveals-a-promising-approach-to-developing-universal-influenza-vaccine.aspx)
     
-* [![Simple test could revolutionize diagnosis of life-threatening genetic arrhythmia](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Simple-test-could-revolutionize-diagnosis-of-life-threatening-genetic-arrhythmia.aspx)
+* [![At Trump’s GOP convention, there’s little to be heard on health care](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/At-Trumpe28099s-GOP-convention-theree28099s-little-to-be-heard-on-health-care.aspx)
     
-    [Simple test could revolutionize diagnosis of life-threatening genetic arrhythmia](https://www.news-medical.net/news/20240620/Simple-test-could-revolutionize-diagnosis-of-life-threatening-genetic-arrhythmia.aspx)
+    [At Trump’s GOP convention, there’s little to be heard on health care](https://www.news-medical.net/news/20240719/At-Trumpe28099s-GOP-convention-theree28099s-little-to-be-heard-on-health-care.aspx)
     
-* [![Role of SMIM1 gene in obesity uncovered](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240620/Role-of-SMIM1-gene-in-obesity-uncovered.aspx)
+* [![Misleading ads play key role in schemes to gin up unauthorized ACA sign-ups, lawsuit alleges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Misleading-ads-play-key-role-in-schemes-to-gin-up-unauthorized-ACA-sign-ups-lawsuit-alleges.aspx)
     
-    [Role of SMIM1 gene in obesity uncovered](https://www.news-medical.net/news/20240620/Role-of-SMIM1-gene-in-obesity-uncovered.aspx)
+    [Misleading ads play key role in schemes to gin up unauthorized ACA sign-ups, lawsuit alleges](https://www.news-medical.net/news/20240719/Misleading-ads-play-key-role-in-schemes-to-gin-up-unauthorized-ACA-sign-ups-lawsuit-alleges.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -507,7 +507,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Thursday 20 Jun 2024
+Last Updated: Friday 19 Jul 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
