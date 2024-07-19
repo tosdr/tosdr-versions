@@ -4,8 +4,6 @@ We’re sorry, but Coda doesn’t work properly without JavaScript enabled.
 
 Skip to content
 
-[Introducing Coda Brain: Coda's new AI platform, powered by Snowflake. Learn more.](https://coda.io/blog/about-coda/introducing-coda-brain)
-
 [](https://coda.io/welcome)
 
 Product
@@ -97,8 +95,6 @@ How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
 [Get started](https://coda.io/signup?continueTo=%2Ftrust%2Fprivacy)
-
-[Introducing Coda Brain: Coda's new AI platform, powered by Snowflake. Learn more.](https://coda.io/blog/about-coda/introducing-coda-brain)
 
 [](https://coda.io/welcome)
 
@@ -629,7 +625,7 @@ or 888 Villa Street, Floor 4, Mountain View, CA 94041.
 
 Company[About us](https://coda.io/about)[Blog](https://coda.io/blog)[Coda on Coda](https://coda.io/about/coda-on-coda)[Careers](https://coda.io/about/jobs)[Press](mailto:press@coda.io)[Partner with us](https://coda.io/partners)
 
-Product[Compare Coda](https://coda.io/compare)[Case studies](https://coda.io/solutions/case-studies)[Coda AI](https://coda.io/product/ai)[Packs](https://coda.io/product/packs)[API](https://coda.io/developers/apis/v1)[Explore Coda](https://coda.io/product)
+Product[Compare Coda](https://coda.io/compare)[Case studies](https://coda.io/solutions/case-studies)[Packs](https://coda.io/product/packs)[API](https://coda.io/developers/apis/v1)[Beta program](https://coda.io/product/beta-program)[Explore Coda](https://coda.io/product)
 
 Solutions[For PMs](https://coda.io/solutions/role/product-teams)[For sales teams](https://coda.io/solutions/role/sales)[For enterprise](https://coda.io/solutions/team-size/enterprise)[For meetings](https://coda.io/solutions/scenario/meetings)[For OKRs](https://coda.io/solutions/scenario/okrs)[All solutions](https://coda.io/solutions)
 
@@ -644,7 +640,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/6e4290da0c2f/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/1a7f828e5005/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
