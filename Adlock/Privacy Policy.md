@@ -289,6 +289,10 @@ Definitions and legal references
 Latest news
 -----------
 
+[![How to Block YouTube Ads on iPhone, iOS &amp; iPad](/wp-content/uploads/2020/11/4-How-to-Block-Ads-on-YouTube-in-iOS-1.png)
+
+### How to Block YouTube Ads on iPhone, iOS & iPad](https://adlock.com/blog/how-to-block-youtube-ads-on-iphone/)
+
 [![How to Stop Annoying Fox News Ads &amp; Pop-ups](/wp-content/uploads/2024/06/Fox-news.png)
 
 ### How to Stop Annoying Fox News Ads & Pop-ups](https://adlock.com/blog/fox-news-ad-blocker/)
@@ -308,28 +312,6 @@ Latest news
 [![How to Stop Redirects on iPhone in Safari Browser](/wp-content/uploads/2024/06/How-to-Fix-Too-Many-Redirects-on-iPhone-Safari.png)
 
 ### How to Stop Redirects on iPhone in Safari Browser](https://adlock.com/blog/stop-too-many-redirects-on-iphone/)
-
-[![How to Easily Block Ads on Android Devices](/wp-content/uploads/2024/06/How-to-Block-Ads-on-Android-Phone.png)
-
-### How to Easily Block Ads on Android Devices](https://adlock.com/blog/how-to-block-ads-on-android-phone/)
-
-GET ADLOCK FOR YOUR DEVICE
-
-[![AdLock for Android](/wp-content/uploads/2022/06/Group-267.png)
-
-#### AdLock for Android](https://adlock.com/adlock-for-android/)[Download](https://adlock.com/apk/)
-
-[![AdLock for Windows](/wp-content/uploads/2022/06/Group-268.png)
-
-#### AdLock for Windows](https://adlock.com/adlock-for-windows/)[Download](https://adlock.com/exe/)
-
-[![AdLock for iOS](/wp-content/uploads/2022/06/Group-265-e1687768853626.png)
-
-#### AdLock for iOS](https://adlock.com/adlock-for-ios/)[Download](https://apps.apple.com/us/app/ad-blocker-for-safari-adlock/id1506604517/)
-
-[![AdLock for macOS](/wp-content/uploads/2022/06/Group-266.png)
-
-#### AdLock for macOS](https://adlock.com/adlock-for-macos/)[Download](https://adlock.com/dmg/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adlock-for-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
