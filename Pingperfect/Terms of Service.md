@@ -1,4 +1,4 @@
-             [![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
+           [![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
 
 * [HOME](https://pingperfect.com/)
 * [BLOG](https://blog.pingperfect.com/)
@@ -81,7 +81,7 @@ PingPerfect
 [Knowledgebase
 =============
 
-##### Click me!](https://pingperfect.com/knowledgebase.php)
+##### Click me!](https://pingperfect.com/index.php/knowledgebase)
 
 #### PINGPERFECT
 
@@ -96,7 +96,7 @@ PingPerfect
 
 * [Game Developers](https://pingperfect.com/game_developers)
 * [Content Creators](https://pingperfect.com/content_creators)
-* [Affiliate Program](https://pingperfect.com/affiliates)
+* [Affiliate Program](https://pingperfect.com/affil)
 
 #### Gameservers
 
@@ -111,7 +111,7 @@ PingPerfect
 
 * [Submit a Ticket](https://pingperfect.com/submitticket.php?step=2&deptid=2)
 * [email us](mailto: support@pingperfect.com)
-* [Knowledgebase](https://pingperfect.com/knowledgebase)
-* [FAQ](https://pingperfect.com/faq)
+* [Knowledgebase](https://pingperfect.com/index.php/knowledgebase)
+* [FAQ](https://pingperfect.com/faqs)
 
 © Copyright 2013 - 2024 |[PINGPERFECT](https://pingperfect.com/)| All Rights Reserved
