@@ -222,13 +222,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/June_Craft.png?auto=format&w=280)
         
-        [Advanced Features You Need to Know](https://companycam.com/classes/advanced-features-you-need-to-know)
+        [CompanyCam's Communication Class](https://companycam.com/classes/companycams-communication-class)
         
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/April_Craft-Header.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/June-Spanish-Class-Craft.jpg?auto=format&w=280)
         
-        [CompanyCam Feature Refresher](https://companycam.com/classes/feature-refresher)
+        [CompanyCam en la Aplicación Móvil en Español](https://companycam.com/classes/companycam-en-la-aplicaci%C3%B3n-m%C3%B3vil-en-espa%C3%B1ol)
         
     
     ### Contact Support
@@ -518,13 +518,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/advanced-features-you-need-to-know.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/June_Craft.png?auto=format&w=280)
         
-        [Advanced Features You Need to Know](https://companycam.com/classes/advanced-features-you-need-to-know)
+        [CompanyCam's Communication Class](https://companycam.com/classes/companycams-communication-class)
         
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/April_Craft-Header.png?auto=format&w=280)
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/June-Spanish-Class-Craft.jpg?auto=format&w=280)
         
-        [CompanyCam Feature Refresher](https://companycam.com/classes/feature-refresher)
+        [CompanyCam en la Aplicación Móvil en Español](https://companycam.com/classes/companycam-en-la-aplicaci%C3%B3n-m%C3%B3vil-en-espa%C3%B1ol)
         
     
     ### Contact Support
