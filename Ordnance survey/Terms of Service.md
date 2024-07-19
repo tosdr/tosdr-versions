@@ -54,14 +54,12 @@ Governance and legal
 
 ##### Governance and legal
 
-* [Governance home](https://www.ordnancesurvey.co.uk/governance)
-* [Request information](https://www.ordnancesurvey.co.uk/governance/information)
-* [Public task statement](https://www.ordnancesurvey.co.uk/governance/public-task)
+* [Privacy policy](https://www.ordnancesurvey.co.uk/governance/policies/privacy)
+* [Information requests](https://www.ordnancesurvey.co.uk/governance/public-information)
 * [Policies](https://www.ordnancesurvey.co.uk/governance/policies)
-* [Annual report](https://www.ordnancesurvey.co.uk/about/annual-reports)
+* [Governance](https://www.ordnancesurvey.co.uk/governance)
+* [Public task statement](https://www.ordnancesurvey.co.uk/governance/public-task)
 * [Procurement](https://www.ordnancesurvey.co.uk/procurement)
-* [Gifts and hospitality](https://www.ordnancesurvey.co.uk/governance/gifts-hospitality)
-* [Modern slavery statement](https://www.ordnancesurvey.co.uk/governance/policies/anti-slavery)
 
 Contact
 
@@ -93,4 +91,4 @@ Additional links
 * [Instagram](https://www.instagram.com/ordnancesurvey/?hl=en)
 * [Facebook](https://en-gb.facebook.com/osmapping/)
 
-© Ordnance Survey 2024[Privacy Policy](https://www.ordnancesurvey.co.uk/governance/policies/privacy)[Cookies](https://www.ordnancesurvey.co.uk/cookies)[Terms and conditions](https://www.ordnancesurvey.co.uk/legal)[Accessibility](https://www.ordnancesurvey.co.uk/accessibility)Ordnance Survey Limited, Explorer House, Adanac Drive, Nursling, Southampton, SO16 0AS, Registration No: 09121572
+© Ordnance Survey 2024[Accessibility](https://www.ordnancesurvey.co.uk/accessibility)[Cookies](https://www.ordnancesurvey.co.uk/cookies)[Terms and conditions](https://www.ordnancesurvey.co.uk/legal)Ordnance Survey Limited, Explorer House, Adanac Drive, Nursling, Southampton, SO16 0AS, Registration No: 09121572
