@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-134 Views
+164 Views
 
 Report
 
@@ -287,241 +287,239 @@ You may also like
 
 HD
 
- [![The Secret Scripture](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-secret-scripture/)7.4
+ [![A Frog in Winter](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-frog-in-winter/)8
 
-### [The Secret Scripture](https://playtube.pk/the-secret-scripture/)
+### [A Frog in Winter](https://playtube.pk/a-frog-in-winter/)
 
-2017 108 min _Movie_
+2011 18 min _Movie_
 
-The Secret Scripture
+A Frog in Winter
 
-7.4 2017 108 min HD
+8 2011 18 min HD
 
-The hidden memoir of an elderly woman confined to a mental hospital reveals the history of her passionate yet tortured life, and of the religious and political upheavals in Ireland ...
-
-Country: [Ireland](https://playtube.pk/country/ireland/)
+Benjamin's wife died in his arms after a long fight against a disease. He can't take suicide off his mind but a young Japanese woman will help him though his mourning.
 
 Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
 
-[](#)[Watch Now](https://playtube.pk/the-secret-scripture/)
+[](#)[Watch Now](https://playtube.pk/a-frog-in-winter/)
 
 HD
 
- [![Project Ithaca](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/project-ithaca/)6.2
+ [![2012: Ice Age](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/2012-ice-age/)4.5
 
-### [Project Ithaca](https://playtube.pk/project-ithaca/)
+### [2012: Ice Age](https://playtube.pk/2012-ice-age/)
 
-2019 85 min _Movie_
+2011 91 min _Movie_
 
-Project Ithaca
+2012: Ice Age
 
-6.2 2019 85 min HD
+4.5 2011 91 min HD
 
-Five strangers awaken to find themselves trapped aboard an alien spaceship that seems to be harnessing their terror to power the ship. They begin to understand that these species have ...
-
-Country: [Canada](https://playtube.pk/country/canada/)
-
-Genre: [Science Fiction](https://playtube.pk/category/science-fiction/), [Thriller](https://playtube.pk/category/thriller/)
-
-[](#)[Watch Now](https://playtube.pk/project-ithaca/)
-
-HD
-
- [![Noukadubi](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/noukadubi/)7
-
-### [Noukadubi](https://playtube.pk/noukadubi/)
-
-2011 146 min _Movie_
-
-Noukadubi
-
-7 2011 146 min HD
-
-Rameshchandra Chaudhry, a lawyer by profession, is in love with Hemnalini, and is displeased when he finds that his father wants him to marry Sushilla, the daughter of a widow. He ...
-
-Country: [India](https://playtube.pk/country/india/)
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/noukadubi/)
-
-HD
-
- [![Terror Phone](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/terror-phone/)0
-
-### [Terror Phone](https://playtube.pk/terror-phone/)
-
-2008 14 min _Movie_
-
-Terror Phone
-
-0 2008 14 min HD
-
-A film, which is also about the production of itself, in which a mysterious phone is given to a man to fund a high school football team.
+A volcanic eruption in Iceland sends a glacier towards North America, causing everything in it's path to freeze. A family man struggles to escape the onslaught of the coming ice age.
 
 Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/terror-phone/)
-
-HD
-
- [![Tormented](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/tormented/)5.2
-
-### [Tormented](https://playtube.pk/tormented/)
-
-2009 91 min _Movie_
-
-Tormented
-
-5.2 2009 91 min HD
-
-Darren Mullet, a bullied asthmatic, is driven to suicide by his tormented life - ignored by his parents, ridiculed by his teachers and bullied at school. He returns from the dead to pay ...
-
-Country: [UK](https://playtube.pk/country/uk/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/tormented/)
-
-HD
-
- [![The Little Polar Bear: Lars and the Little Tiger](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-little-polar-bear-lars-and-the-little-tiger/)7.5
-
-### [The Little Polar Bear: Lars and the Little Tiger](https://playtube.pk/the-little-polar-bear-lars-and-the-little-tiger/)
-
-2002 76 min _Movie_
-
-The Little Polar Bear: Lars and the Little Tiger
-
-7.5 2002 76 min HD
-
-Hans der Beer's beloved polar bear Lars returns for more adventures, with a new feline friend.
-
-Country: [Germany](https://playtube.pk/country/germany/)
-
-Genre: [Animation](https://playtube.pk/category/animation/), [Family](https://playtube.pk/category/family/)
-
-[](#)[Watch Now](https://playtube.pk/the-little-polar-bear-lars-and-the-little-tiger/)
-
-HD
-
- [![Ultraman Gaia: Once Again Gaia](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ultraman-gaia-once-again-gaia/)8
-
-### [Ultraman Gaia: Once Again Gaia](https://playtube.pk/ultraman-gaia-once-again-gaia/)
-
-2001 60 min _Movie_
-
-Ultraman Gaia: Once Again Gaia
-
-8 2001 60 min HD
-
-After the battle against Zogu was over, both Gamu and Fujimiya began to live normal lives until another threat arrives on Earth - a surviving monster soldier of Zogu's army named Gakuzom.
-
-Country: [Japan](https://playtube.pk/country/japan/)
 
 Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
 
-[](#)[Watch Now](https://playtube.pk/ultraman-gaia-once-again-gaia/)
+[](#)[Watch Now](https://playtube.pk/2012-ice-age/)
 
 HD
 
- [![Diamond Heat](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/diamond-heat/)0
+ [![Junk Space Berlin](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/junk-space-berlin/)0
 
-### [Diamond Heat](https://playtube.pk/diamond-heat/)
+### [Junk Space Berlin](https://playtube.pk/junk-space-berlin/)
 
-2022 76 min _Movie_
+2023 108 min _Movie_
 
-Diamond Heat
+Junk Space Berlin
 
-0 2022 76 min HD
+0 2023 108 min HD
 
-Disaster strikes an overly ambitious soap opera production in 1985... but with sock puppets.
+Welcome to the marginal deviation of reality. An inexplicable rift runs through the dystopian Berlin of tomorrow, where four outsiders venture on a mission to find their missing friend ...
+
+Country: [Germany](https://playtube.pk/country/germany/)
+
+Genre: [Mystery](https://playtube.pk/category/mystery/), [Science Fiction](https://playtube.pk/category/science-fiction/)
+
+[](#)[Watch Now](https://playtube.pk/junk-space-berlin/)
+
+HD
+
+ [![Rock-A-Doodle](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rock-a-doodle/)6.2
+
+### [Rock-A-Doodle](https://playtube.pk/rock-a-doodle/)
+
+1991 77 min _Movie_
+
+Rock-A-Doodle
+
+6.2 1991 77 min HD
+
+Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm ...
+
+Country: [Ireland](https://playtube.pk/country/ireland/)
+
+Genre: [Animation](https://playtube.pk/category/animation/), [Comedy](https://playtube.pk/category/comedy/)
+
+[](#)[Watch Now](https://playtube.pk/rock-a-doodle/)
+
+HD
+
+ [![Purchè finisca bene – Se mi lasci ti sposo](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/purche-finisca-bene-se-mi-lasci-ti-sposo/)6.8
+
+### [Purchè finisca bene – Se mi lasci ti sposo](https://playtube.pk/purche-finisca-bene-se-mi-lasci-ti-sposo/)
+
+2022 0 min _Movie_
+
+Purchè finisca bene – Se mi lasci ti sposo
+
+6.8 2022 0 min HD
+
+Country: [Italy](https://playtube.pk/country/italy/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [TV Movie](https://playtube.pk/category/tv-movie/)
+
+[](#)[Watch Now](https://playtube.pk/purche-finisca-bene-se-mi-lasci-ti-sposo/)
+
+HD
+
+ [![What Separates Us](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/what-separates-us/)6.3
+
+### [What Separates Us](https://playtube.pk/what-separates-us/)
+
+2016 90 min _Movie_
+
+What Separates Us
+
+6.3 2016 90 min HD
+
+A young brawler falls in love with a beautiful artist and must choose between his support system and his dreams.
 
 Country: [USA](https://playtube.pk/country/usa/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/)
+Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
 
-[](#)[Watch Now](https://playtube.pk/diamond-heat/)
-
-HD
-
- [![Third Generation Successor Sara: Lustful Nightshade](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/third-generation-successor-sara-lustful-nightshade/)0
-
-### [Third Generation Successor Sara: Lustful Nightshade](https://playtube.pk/third-generation-successor-sara-lustful-nightshade/)
-
-2019 72 min _Movie_
-
-Third Generation Successor Sara: Lustful Nightshade
-
-0 2019 72 min HD
-
-Sara spends peaceful days as an OL of a first-class company, but her life is turned upside down and she ends up in a fierce conflict, fighting off the dirty desires of the men from the ...
-
-Country: [Japan](https://playtube.pk/country/japan/)
-
-Genre: [Action](https://playtube.pk/category/action/)
-
-[](#)[Watch Now](https://playtube.pk/third-generation-successor-sara-lustful-nightshade/)
+[](#)[Watch Now](https://playtube.pk/what-separates-us/)
 
 HD
 
- [![Blood Pact](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/blood-pact/)5
+ [![Smile with heart](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/smile-with-heart/)8
 
-### [Blood Pact](https://playtube.pk/blood-pact/)
+### [Smile with heart](https://playtube.pk/smile-with-heart/)
 
-1990 92 min _Movie_
+2019 92 min _Movie_
 
-Blood Pact
+Smile with heart
 
-5 1990 92 min HD
+8 2019 92 min HD
 
-Mexican horror / thriller involves cockfighting and a cursed rooster. And no, I'm not joking.
+Paco is a young man who has gone through many difficulties since he was orphaned, he had to work hard as a clown in the streets of Guanajuato to be able to stay. One day, Paco meets ...
 
-Genre: [Horror](https://playtube.pk/category/horror/)
+Country: [Mexico](https://playtube.pk/country/mexico/)
 
-[](#)[Watch Now](https://playtube.pk/blood-pact/)
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/smile-with-heart/)
 
 HD
 
- [![Badlapur](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/badlapur/)6.9
+ [![Simple Passion](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/simple-passion/)4.9
 
-### [Badlapur](https://playtube.pk/badlapur/)
+### [Simple Passion](https://playtube.pk/simple-passion/)
 
-2015 128 min _Movie_
+2021 99 min _Movie_
 
-Badlapur
+Simple Passion
 
-6.9 2015 128 min HD
+4.9 2021 99 min HD
 
-After his wife and son are killed, a young man finds out the man behind the murder and fights against him, along committing some big mistakes.
+A man and a woman are brought together by chance for several months. He is younger than she is, married, Russian, officially a diplomat stationed in Paris. She is a beautiful teacher ...
 
-Country: [India](https://playtube.pk/country/india/)
+Country: [Belgium](https://playtube.pk/country/belgium/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/simple-passion/)
+
+HD
+
+ [![Padre Pio](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/padre-pio/)5
+
+### [Padre Pio](https://playtube.pk/padre-pio/)
+
+2023 104 min _Movie_
+
+Padre Pio
+
+5 2023 104 min HD
+
+It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the ...
+
+Country: [Germany](https://playtube.pk/country/germany/)
+
+Genre: [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/padre-pio/)
+
+HD
+
+ [![Hearth](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/hearth/)0
+
+### [Hearth](https://playtube.pk/hearth/)
+
+2019 13 min _Movie_
+
+Hearth
+
+0 2019 13 min HD
+
+An arsonist-for-hire faces moral complications while on a difficult job, exacerbated when another criminal chooses the same house and same night for his crimes.
+
+Country: [USA](https://playtube.pk/country/usa/)
 
 Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
 
-[](#)[Watch Now](https://playtube.pk/badlapur/)
+[](#)[Watch Now](https://playtube.pk/hearth/)
 
 HD
 
- [![Ang Kuya Kong Siga](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ang-kuya-kong-siga/)0
+ [![Lajjpal](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/lajjpal/)0
 
-### [Ang Kuya Kong Siga](https://playtube.pk/ang-kuya-kong-siga/)
+### [Lajjpal](https://playtube.pk/lajjpal/)
 
-1993 116 min _Movie_
+2024 203 min _Movie_
 
-Ang Kuya Kong Siga
+Lajjpal
 
-0 1993 116 min HD
+0 2024 203 min HD
 
-Due to an accident, Johnny is forced by his adoptive parents to leave their province. He moves to Manila together with his younger brother Utoy. Johnny is hired to replace Boogey as the ...
+"Lajjpal" is a compelling narrative following the journey of an ordinary individual seeking divine empowerment to combat the malevolence of evil forces. Fueled by a deep sense of ...
 
-Country: [Philippines](https://playtube.pk/country/philippines/)
+Country: [India](https://playtube.pk/country/india/)
 
-Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
+Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
 
-[](#)[Watch Now](https://playtube.pk/ang-kuya-kong-siga/)
+[](#)[Watch Now](https://playtube.pk/lajjpal/)
+
+HD
+
+ [![Le principal](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/le-principal/)5.5
+
+### [Le principal](https://playtube.pk/le-principal/)
+
+2023 82 min _Movie_
+
+Le principal
+
+5.5 2023 82 min HD
+
+Sabri Lahlali, the assistant principal of a local high school, is ready to do anything to ensure that his son, who is about to take his high school diploma, has the ideal academic ...
+
+Country: [France](https://playtube.pk/country/france/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/le-principal/)
 
 Report Content
 
@@ -554,11 +552,11 @@ Pages
 
 Recent Posts
 
-* [Swollen](https://playtube.pk/swollen/)
-* [Chelsea Wolfe: She Reaches Out](https://playtube.pk/chelsea-wolfe-she-reaches-out/)
-* [2024 EXO FAN MEETING : ONE](https://playtube.pk/2024-exo-fan-meeting-one/)
-* [Rome Streetz Wuz Here: The Documentary](https://playtube.pk/rome-streetz-wuz-here-the-documentary/)
-* [Maria Becerra Live: River](https://playtube.pk/maria-becerra-live-river/)
+* [The Gardener’s Year](https://playtube.pk/the-gardeners-year/)
+* [3391 Kilometre](https://playtube.pk/3391-kilometre/)
+* [Le Larbin](https://playtube.pk/le-larbin/)
+* [Sommartider](https://playtube.pk/sommartider/)
+* [Eat the Night](https://playtube.pk/eat-the-night/)
 
 Meta
 
