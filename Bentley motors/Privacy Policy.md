@@ -31,7 +31,9 @@ Introduction**
 Welcome to the Bentley Motors Limited (“Bentley”) privacy policy.
 
   
-For visitors to the Bentley Motors website browsing from the United States, please view the Bentley Motors Inc. privacy statement which can be found [here](https://americas.bentleymotors.com/en/misc/bmi-privacy-statement.html?utm_medium=referral&utm_source=bmwebsite). This privacy statement also includes information about California privacy rights.
+For visitors to the Bentley Motors website browsing from the United States, please view the Bentley Motors Inc. privacy policy which can be found [here](https://americas.bentleymotors.com/en/misc/bmi-privacy-statement.html?utm_medium=referral&utm_source=bmwebsite). This privacy statement also includes information about California privacy rights.
+
+For visitors to the Bentley Motors website browsing from Korea, please view the Bentley Motors Korea privacy policy which can be found [here.](https://www.bentleymotors.com/en/pages/korean-privacy-policy.html)
 
   
 Bentley respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data and tell you about your privacy rights and how the law protects you.
@@ -691,13 +693,15 @@ If you wish to exercise any of the rights set out above, please contact our DPO:
 **Time limit to respond  
 **We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.  
 
- ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_light.png/_jcr_content/renditions/original./logo_3d_wings_light.png) ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_dark.png/_jcr_content/renditions/original./logo_3d_wings_dark.png)
+[Newsletter](https://www.bentleymotors.com/en/pages/newsletter.by_form.html)
 
-* [Newsletter](https://www.bentleymotors.com/en/pages/newsletter.by_form.html)
-* [Configurator](https://www.bentleymotors.com/en/misc/car-configurator.html)
-* ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_light.png/_jcr_content/renditions/original./logo_3d_wings_light.png) ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_dark.png/_jcr_content/renditions/original./logo_3d_wings_dark.png)
-* [LOCATE DEALER](https://www.bentleymotors.com/en/apps/dealer-locator.html)
-* [DOWNLOAD BROCHURE](https://www.bentleymotors.com/en/pages/brochure.by_form.html)
+[Configurator](https://www.bentleymotors.com/en/misc/car-configurator.html)
+
+![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_light.png/_jcr_content/renditions/original./logo_3d_wings_light.png) ![Bentley Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/logo_3d_wings_dark.png/_jcr_content/renditions/original./logo_3d_wings_dark.png)
+
+[LOCATE DEALER](https://www.bentleymotors.com/en/apps/dealer-locator.html)
+
+[DOWNLOAD BROCHURE](https://www.bentleymotors.com/en/pages/brochure.by_form.html)
 
 *   [![Instagram Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Instagram_white.svg/_jcr_content/renditions/original./Instagram_white.svg) ![Instagram Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Instagram.svg/_jcr_content/renditions/original./Instagram.svg) Instagram Logo"](https://www.instagram.com/bentleymotors/)
 *   [![X Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Twitter_white.svg/_jcr_content/renditions/original./Twitter_white.svg) ![X Logo](/content/dam/bm/websites/bmcom/bentleymotors-com/logos/Twitter.svg/_jcr_content/renditions/original./Twitter.svg) X Logo"](https://twitter.com/BentleyMotors)
