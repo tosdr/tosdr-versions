@@ -1,65 +1,82 @@
 [Skip to main content](#main) [Skip to footer navigation](#footer)
 
-[](https://www.firstam.com/index.html "First American Home")
+[](https://www.firstam.com/ "First American Home")
 
-* [Find an Office](https://www.firstam.com/title/find-an-office/)
-* [Contact Us](https://www.firstam.com/contact-us/index.html)
-* [Sign In/Order](#)
+* [FAF](http://investors.firstam.com/)
+
+* [Our Services](#)
+    
+    * [Title Insurance and Settlement Services](https://www.firstam.com/title-insurance-and-settlement-services/)
+    * [Mortgage Lender and Servicer Solutions](https://www.firstam.com/mortgage-lender-solutions/)
+    * [Real Estate Data Solutions](https://www.firstam.com/real-estate-data-and-recorded-documents/)
+    * [Home Warranty and Insurance](https://www.firstam.com/home-warranty-and-insurance/)
+    * [Trust Services](https://www.firstam.com/trust-services/)
+    * [International Services](https://www.firstam.com/international-services/)
+    
+    * [Find an Office](https://www.firstam.com/title/find-an-office/)
+    * [Title Fee Calculator](https://www.firstam.com/title/resources/calculators/title-fee-calculator.html)
+    * [Why is Title Insurance Important?](https://www.firstam.com/value-of-title/)
+* [About Us](#)
+    
+    * [Who We Are](https://www.firstam.com/about-us/)
+    * [News](https://www.firstam.com/news/)
+    * [FirstAmCares](https://www.firstam.com/cares/)
+    * [Company History](https://www.firstam.com/company-history/)
+    * [Supplier Information](https://www.firstam.com/supplier-information/)
+    * [Sustainability](https://www.firstam.com/sustainability/)
+    
+    * [eClosing Center](https://www.firstam.com/title/eclosing/)
+    * [Economic Center](https://www.firstam.com/economics/)
+    * [Innovation Center](https://blog.firstam.com/innovation)
+    * [Ownership Center](https://www.firstam.com/ownership/)
+    * [Security and Privacy Center](https://www.firstam.com/security-and-privacy/)
+* [Careers](#)
+    * [Careers Home](https://careers.firstam.com/?r=fa)
+    * [Leadership for Tomorrow](https://www.firstam.com/leadership-for-tomorrow/)
+* [For Investors](#)
+    * [Investors Home](http://investors.firstam.com/)
+    * [Stock Information(opens in a new tab/window)](http://investors.firstam.com/investors/stock-information/stock-quote-and-chart/default.aspx)
+    * [Financial Information(opens in a new tab/window)](http://investors.firstam.com/investors/financial-information/financial-document-library/default.aspx)
+    * [News and Events(opens in a new tab/window)](http://investors.firstam.com/investors/news-and-events/news/default.aspx)
+    * [Corporate Governance(opens in a new tab/window)](http://investors.firstam.com/investors/corporate-governance/executive-management/default.aspx)
+    * [Statutory Reporting(opens in a new tab/window)](http://investors.firstam.com/investors/financial-information/statutory-reporting/default.aspx)
+    * [Title Order Counts(opens in a new tab/window)](http://investors.firstam.com/investors/financial-information/title-order-counts/default.aspx)
+* [Sign In](#)
+    
     * [#### Transactions Portal
         
-        Secure communication for your residential real estate transaction.](https://transactions.firstam.com/)
+        Secure communication for your residential real estate transaction.
+        
+        (opens in a new tab/window)](https://transactions.firstam.com/)
     * [#### FirstAm IgniteRE™
         
-        Securely access our suite of premier real estate-focused tools.](https://ignitere.firstam.com/)
+        Securely access our suite of premier real estate-focused tools.
+        
+        (opens in a new tab/window)](https://ignitere.firstam.com/)
     * [#### ClarityFirst®
         
         Commercial real estate transaction management and property data.](https://www.clarityfirst.com/)
     * [#### AgentNet®
         
-        eJackets, closing protection letters, back title, bulletins and more.](https://agency.myfirstam.com/)
+        eJackets, closing protection letters, back title, bulletins and more.
+        
+        (opens in a new tab/window)](https://agency.myfirstam.com/)
+    
     * [#### Home Warranty
         
-        Coverage for a home's major systems and appliances.](https://homewarranty.firstam.com/)
+        Coverage for a home's major systems and appliances.
+        
+        (opens in a new tab/window)](https://homewarranty.firstam.com/)
     * [#### DataTree.com
         
-        Access the nation's largest land record database.](https://web.datatree.com/Account/Login)
+        Access the nation's largest land record database.
+        
+        (opens in a new tab/window)](https://web.datatree.com/Account/Login)
     * [#### myFirstAm®
         
-        Title and escrow orders, property information, and more.](https://myfirstam.com/)
-* [FAF](http://investors.firstam.com/)
-
-* [About First American](#)
-    
-    * [Title and Insurance Services](https://www.firstam.com/title-insurance-and-settlement-services/index.html)
-    * [Lender and Servicer Solutions](https://www.firstam.com/mortgage-lender-solutions/index.html)
-    * [Real Estate Data Solutions](https://www.firstam.com/real-estate-data-and-recorded-documents/index.html)
-    * [Home Warranty and Insurance](https://www.firstam.com/home-warranty-and-insurance/index.html)
-    * [Trust Services](https://www.firstam.com/trust-services/index.html)
-    * [International Services](https://www.firstam.com/international-services/index.html)
-    * [The Value of Title Insurance](https://www.firstam.com/value-of-title/index.html)
-    
-    * [FirstAmCares](https://www.firstam.com/cares)
-    * [Company History](https://www.firstam.com/company-history/index.html)
-    * [eClosing Center](https://www.firstam.com/title/eclosing/)
-    * [Economic Center](https://www.firstam.com/economics/)
-    * [Ownership Center](https://www.firstam.com/ownership/)
-    * [Innovation Center](https://blog.firstam.com/innovation)
-    * [Security and Privacy Center](https://www.firstam.com/security-and-privacy/)
-    * [Supplier Information](https://www.firstam.com/supplier-information/index.html)
-    * [Sustainability](https://www.firstam.com/sustainability/index.html)
-* [Careers](https://careers.firstam.com/?r=fa)
-    * [Careers Home](https://careers.firstam.com/)
-    * [Leadership for Tomorrow](https://www.firstam.com/leadership-for-tomorrow/index.html)
-
-* [News](https://www.firstam.com/news/index.html)
-* [Investors](http://investors.firstam.com/)
-    * [Investors Home](http://investors.firstam.com/)
-    * [Stock Information](http://investors.firstam.com/investors/stock-information/stock-quote-and-chart/default.aspx)
-    * [Financial Information](http://investors.firstam.com/investors/financial-information/financial-document-library/default.aspx)
-    * [News and Events](http://investors.firstam.com/investors/news-and-events/news/default.aspx)
-    * [Corporate Governance](http://investors.firstam.com/investors/corporate-governance/executive-management/default.aspx)
-    * [Statutory Reporting](http://investors.firstam.com/investors/financial-information/statutory-reporting/default.aspx)
-    * [Title Order Counts](http://investors.firstam.com/investors/financial-information/title-order-counts/default.aspx)
+        Title and escrow orders, property information, and more.
+        
+        (opens in a new tab/window)](https://myfirstam.com/)
 
 Privacy Policy
 ==============
@@ -324,56 +341,64 @@ Contact Us
 
 [First American](https://www.firstam.com/)
 
-About First American
---------------------
+Our Services
+------------
 
-* ### Our Operations
-    
-    * [Title and Insurance Services](https://www.firstam.com/title-insurance-and-settlement-services/index.html "Title and Insurance Services")
-    * [Lender and Servicer Solutions](https://www.firstam.com/mortgage-lender-solutions/index.html "Lender and Servicer Solutions")
-    * [Real Estate Data Solutions](https://www.firstam.com/real-estate-data-and-recorded-documents/index.html "Real Estate Data Solutions")
-    * [Home Warranty & Insurance](https://www.firstam.com/home-warranty-and-insurance/index.html "Home Warranty & Insurance")
-    * [Trust Services](https://www.firstam.com/trust-services/index.html "Trust Services")
-    * [International Services](https://www.firstam.com/international-services/index.html "International Services")
-    * [The Value of Title Insurance](https://www.firstam.com/value-of-title "Value of Title")
-* ### Company Information
-    
-    * [FirstAmCares](https://www.firstam.com/cares/ "FirstAmCares")
-    * [eClosing Center](https://www.firstam.com/title/eclosing "eClosing Center")
-    * [Economic Center](https://www.firstam.com/economics "Economic Center")
-    * [Ownership Center](https://www.firstam.com/ownership "Ownership Center")
-    * [Company History](https://www.firstam.com/company-history/index.html "Company History")
-    * [Supplier Information](https://www.firstam.com/supplier-information/index.html "Supplier Information")
-    * [Sustainability](https://www.firstam.com/sustainability/index.html "Sustainability")
+* [Title and Insurance Services](https://www.firstam.com/title-insurance-and-settlement-services/index.html)
+* [Mortgage Lender and Servicer Solutions](https://www.firstam.com/mortgage-lender-solutions/index.html)
+* [Real Estate Data Solutions](https://www.firstam.com/real-estate-data-and-recorded-documents/index.html)
+* [Home Warranty and Insurance](https://www.firstam.com/home-warranty-and-insurance/index.html)
+* [Trust Services](https://www.firstam.com/trust-services/index.html)
+* [International Services](https://www.firstam.com/international-services/index.html)
+* [Find an Office](https://www.firstam.com/title/find-an-office/index.html)
+* [Title Fee Calculator](https://www.firstam.com/title/resources/calculators/title-fee-calculator.html)
+* [The Value of Title Insurance](https://www.firstam.com/value-of-title/index.html)
+
+About Us
+--------
+
+* [Who We Are](https://www.firstam.com/about-us/)
+* [News](https://www.firstam.com/news/index.html)
+* [FirstAmCares](https://www.firstam.com/cares)
+* [Company History](https://www.firstam.com/company-history/index.html)
+* [Supplier Information](https://www.firstam.com/supplier-information/index.html)
+* [Sustainability](https://www.firstam.com/sustainability/index.html)
+* [eClosing Center](https://www.firstam.com/title/eclosing/)
+* [Economic Center](https://www.firstam.com/economics/)
+* [Innovation Center](https://blog.firstam.com/innovation)
+* [Ownership Center](https://www.firstam.com/ownership/)
+* [Security and Privacy Center](https://www.firstam.com/security-and-privacy/)
 
 Careers
 -------
 
-* [Career Opportunities](http://careers.firstam.com/)
-
-News
-----
-
-* [Company News](https://www.firstam.com/news/index.html "Company News")
-* [Financial News](http://investors.firstam.com/phoenix.zhtml?c=233852&p=irol-news&nyo=0 "Financial News")
+* [Careers Home](https://careers.firstam.com/)
+* [Leadership for Tomorrow](https://www.firstam.com/leadership-for-tomorrow/index.html)
 
 Investors
 ---------
 
-* [Stock Information](http://investors.firstam.com/investors/stock-information/stock-quote-and-chart/default.aspx "Stock Information")
-* [Financial Information](http://investors.firstam.com/investors/financial-information/financial-document-library/default.aspx "Financial Information")
-* [News & Events](http://investors.firstam.com/investors/news-and-events/news/default.aspx "News & Events")
-* [Corporate Governance](http://investors.firstam.com/investors/corporate-governance/executive-management/default.aspx "Corporate Governance")
+* [Investors Home](http://investors.firstam.com/)
+* [Stock Information](http://investors.firstam.com/investors/stock-information/stock-quote-and-chart/default.aspx)
+* [Financial Information](http://investors.firstam.com/investors/financial-information/financial-document-library/default.aspx)
+* [News and Events](http://investors.firstam.com/investors/news-and-events/news/default.aspx)
+* [Corporate Governance](http://investors.firstam.com/investors/corporate-governance/executive-management/default.aspx)
+* [Statutory Reporting](http://investors.firstam.com/investors/financial-information/statutory-reporting/default.aspx)
+* [Title Order Counts](https://investors.firstam.com/investors/financial-information/title-order-counts/default.aspx)
 
-Connect With Us
+Connect
+-------
+
+* [Find an Office](https://www.firstam.com/title/find-an-office/)
+* [Contact Us](https://www.firstam.com/contact-us/)
+
+* [](https://www.linkedin.com/company/first-american)
+* [](https://www.facebook.com/First.American.Financial)
+* [](https://www.youtube.com/user/FirstAmTV)
+
+Legal & Support
 ---------------
 
-* [Facebook](https://www.facebook.com/First.American.Financial)
-* [Twitter](http://twitter.com/FirstAmNews)
-* [LinkedIn](https://www.linkedin.com/company/first-american)
-* [Youtube](https://www.youtube.com/user/FirstAmTV)
-
-* [Contact Us](https://www.firstam.com/contact-us/index.html)
 * [Privacy Policy](https://www.firstam.com/privacy-policy/index.html)
 * [Cookie Preferences](#)
 * [Accessibility](https://www.firstam.com/accessibility/index.html)
@@ -381,11 +406,24 @@ Connect With Us
 
 © 2020 First American Financial Corporation and/or its affiliates. All rights reserved.
 
+* [Privacy Policy](https://www.firstam.com/privacy-policy/index.html)
+* [Cookie Preferences](#)
+* [Accessibility](https://www.firstam.com/accessibility/index.html)
+* [Terms of Use](https://www.firstam.com/terms-of-use/index.html)
+
+* [](https://www.linkedin.com/company/first-american)
+* [](https://www.facebook.com/First.American.Financial)
+* [](https://www.youtube.com/user/FirstAmTV)
+
+© 2023 First American Financial Corporation and/or its affiliates. All rights reserved.
+
 First American Title Insurance Company makes no express or implied warranty respecting the information presented and assumes no responsibility for errors or omissions.
 
 First American, the eagle logo, firstam.com, and First American Title are registered trademarks or trademarks of First American Financial Corporation and/or its affiliates.
 
 FORTUNE, FORTUNE 100 Best Companies to Work For, FORTUNE Best Workplaces for Women, and FORTUNE Best Workplaces in Financial Services & Insurance are registered trademarks of FORTUNE Media IP Limited. Other products and services are or may be trademarks of their respective owners. References to third parties and their products and services are not intended to imply affiliation with or sponsorship of or by First American Financial Corporation and/or its affiliates.
+
+Back to top
 
 **PRIVACY NOTICE**
 
