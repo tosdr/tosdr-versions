@@ -62,4 +62,4 @@ BUY ONLINE WITH OUR NEW ONLINE STORE – [COMING SOON >](https://www.thepeopleso
 
 We use cookies to improve your experience on our website. By browsing this website, you agree to our use of cookies.
 
-[More info](https://www.thepeoplesoperator.com/privacy-policy/) [Accept](#)
+[More info More info](https://www.thepeoplesoperator.com/privacy-policy/) [Accept](#)
