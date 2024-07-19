@@ -46,5 +46,3 @@ We may provide links to third-party websites, and some of the content appearing 
 ### 9\. Governing law; jurisdiction
 
 These Terms are governed by the laws of the State of New York without reference to the principles of conflicts of laws thereof.
-
---
