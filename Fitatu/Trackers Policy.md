@@ -18,7 +18,7 @@
 
 [Log in](https://www.fitatu.com/app/login)
 
-![flag](/_nuxt/img/en.c5ad5c1.png) DeutschEnglishEspañolFrançaisItalianoNederlandsPolski
+![flag](/img/flags/en.png)DeutschEnglishEspañolFrançaisItalianoNederlandsPolski
 
 [](https://www.fitatu.com/app/order-and-payment)
 
@@ -141,6 +141,7 @@ V. DETAILED INFORMATION ON COOKIES
 * [Privacy policy](https://www.fitatu.com/en/privacy-policy)
 * [Cookie policy](https://www.fitatu.com/en/cookies-policy)
 * [Contact](https://www.fitatu.com/en/contact)
+* Manage cookies
 
 [](https://www.facebook.com/FitatuUK)
 
@@ -154,8 +155,8 @@ V. DETAILED INFORMATION ON COOKIES
 
 © Fitatu 2024. All rights reserved
 
-![](/_nuxt/img/en_GB.f827643.jpg)
+![](/img/footer/intelligent/en_GB.jpg)
 
 Donations for innovations
 
-![](/_nuxt/img/en_GB.cfd06ba.jpg)
+![](/img/footer/regional/en_GB.jpg)
