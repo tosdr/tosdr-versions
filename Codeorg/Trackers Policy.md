@@ -10,7 +10,7 @@ Your browser is not supported. Please upgrade your browser to [one of our suppor
 * [Incubator](https://studio.code.org/incubator)
 * [About](https://code.org/about)
 
-Create  
+New project  
 
 [![](/shared/images/fill-70x70/courses/logo_spritelab.png)
 
