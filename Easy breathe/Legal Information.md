@@ -192,13 +192,13 @@ We primarily use the personal information you provide and any general informatio
 
 The Check Your Insurance link opens a Typeform that collects your insurance information. This feature is optional. You can also fill out the “Check Your Insurance Coverage Today” form. These forms collect you first and last name, email address, phone number, zip code, and insurance carrier.  You may be given the choice to complete your sign-up online, which prompts you to enter your Insurance Member ID and date of birth, or submit the form immediately, in which case you will be called to obtain that information.
 
-Once we have your complete insurance information, it is verified by one of our team members. You will then receive an email and/or phone call letting you know that we have your coverage information and are ready to discuss it with you. If we do not receive a response, we may send your basic coverage summary to you via email.
+Once we have your complete insurance information, it is verified by one of our team members. You will then receive an email and/or phone call letting you know that we have your coverage information and are ready to discuss it with you. By requesting a call from Easy Breathe, you agree to be contacted by either a human caller or by an AI outbond phone system.  If we do not receive a response, we may send your basic coverage summary to you via email.
 
 ### How does our Site interact with third party services and content?
 
 For your convenience, we may link to third party sites and services, or otherwise display third party content through our Site. Here are some examples of third party content and services available through or via our Site:
 
-* Mailchimp: We may automate our marketing and newsletters.
+* Third party email providers: We may automate our marketing and newsletters.
 * YouTube or Vimeo: We may embed content on our Site from other online services, such as a recorded video.
 * Social Media: We may facilitate easy access to third party sites and online services, like social networks and other services that host user-generated content such as Facebook, Twitter, and Pinterest.
 * Payment Processing: We work with third party vendors to process payments. These include, but are not limited to: Stripe, Authorize.net, and PayPal.
@@ -217,7 +217,9 @@ _Disclosure of your information for security purposes:_ easybreathe.com fully c
 
 ### What choices do you have over how your information is used?
 
-* Email: Those who wish to opt-out from receiving email offers will have their address removed within 1-10 days of receipt of their request to opt-out or to unsubscribe at info@easybreathe.com or by calling our customer service team at (866) 564-2252. If you have multiple email addresses you will need to opt-out for each address in order to be removed from our active database.
+* Email: Those who wish to opt-out from receiving email offers will have their address removed within 1-10 days of receipt of their request to opt-out or to unsubscribe at info@easybreathe.com or by calling our customer service team at (866) 564-2252. If you have multiple email addresses you will need to opt-out for each address in order to be removed from our active database.  
+    
+* Telephone/Text:  Those who wish to opt out from telephone/text/automated dialing technologies may email info@easybreathe.com or by calling our customer service team at (866) 564-2252. If you have multiple telephone numbers you will need to opt-out for each number in order to be removed from our active database.
 * Location information: You may have the ability to turn location-based services on and off by adjusting the settings of your Internet browser or mobile device or, for some devices, by revoking permission for our mobile apps to access your location information.
 * Cookies and web beacons: Your browser may offer the ability to block or delete cookies from your device. Please follow your individual browser’s instructions on how to block and clear cookies.
 
@@ -345,7 +347,7 @@ If you have any questions or comments relating to the easybreathe.com Site or th
 
 ### When was this notice last updated?
 
-February 14, 2020.
+June 28, 2024
 
 Subscribe to our newsletter for tips, discounts and more!
 
