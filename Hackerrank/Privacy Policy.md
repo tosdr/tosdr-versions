@@ -1,14 +1,14 @@
 [Skip to content](#main)
 
+Join the AI Skills Survey and share your thoughts [Take the survey](https://www.surveymonkey.com/r/2CHCWFW)
+
 HackerRank Launches Two New Products: SkillUp and Engage [Read now](https://www.hackerrank.com/blog/hackerrank-launches-two-new-products?utm_campaign=product-launch&utm_source=banner&utm_medium=web)
 
 The 2024 Developer Skills Report is here! [Read now](https://www.hackerrank.com/research/developer-skills/2024?utm_campaign=dev-skills-2024&utm_source=web-promo-popup&utm_medium=web)
 
-Stream HackerRank AI Day, featuring new innovations and industry thought leaders. [Watch now](https://www.hackerrank.com/resources/ai-day/?utm_campaign=ai-day-invite&utm_source=web-promo-popup&utm_medium=web)
-
 [](# "Previous Notification")[](# "Next Notification")
 
-[![](https://www.hackerrank.com/wp-content/uploads/2020/05/hackerrank_logo-Pride-1.gif)](https://www.hackerrank.com/ "Hackerrank")
+[![HackerRank Logo](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)](https://www.hackerrank.com/ "Hackerrank")
 
 [Back](#)
 
