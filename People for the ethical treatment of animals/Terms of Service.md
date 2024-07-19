@@ -37,7 +37,7 @@
 
 [Report Cruelty to Animals](https://www.peta.org/about-peta/contact-peta/report-cruelty/)
 
-[](https://www.peta.org/ "PETA | People for the Ethical Treatment of Animals")
+[![PETA](https://www.peta.org/wp-content/themes/peta/src/assets/images/svgs/peta-logo.svg)](https://www.peta.org/ "PETA | People for the Ethical Treatment of Animals")
 
 [Animals are not ours](https://www.peta.org/features/what-peta-really-stands-for/)
 
@@ -98,12 +98,12 @@
     
 * [Shop](https://shop.peta.org/ "Shop")
     
+    * [PETA SHOP](https://shop.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA SHOP")
     * [Cruelty-Free Database](https://crueltyfree.peta.org/?en_txn7=Navigation::Shop-Subnav "Cruelty-Free Database")
     * [Literature](https://www.petaliterature.com/?en_txn7=Navigation::Shop-Subnav "Literature")
     * [PETA Shopping Guide](https://www.petashoppingguide.com/?en_txn7=Navigation::Shop-Subnav "PETA Shopping Guide")
     * [PETA Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
     * [PETA Presents](https://presents.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA Presents")
-    * [PETA SHOP](https://shop.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA SHOP")
     
 * [About](https://www.peta.org/about-peta/ "About")
     
@@ -121,12 +121,12 @@
     
 * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
+    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     * [Vanguard Society](https://www.peta.org/donate/vanguard/ "Vanguard Society")
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/ "‘In Honor of’ and Memorial Gifts")
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/ "More Ways to Support")
     * [Membership Services](https://www.peta.org/donate/membership-services/ "Membership Services")
     * [Gifts in Wills](https://legacy.peta.org/?en_txn7=Navigation%3A%3ADonation%20SubnavigationPETAorg-Support-PETA-Dropdown-Monthly&supporter.appealCode=IXXXWBXXXXG "Your Legacy for Animals")
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
 
 [](https://www.peta.org/)
@@ -186,12 +186,12 @@
     
 * [Shop](https://shop.peta.org/ "Shop")
     
+    * [PETA SHOP](https://shop.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA SHOP")
     * [Cruelty-Free Database](https://crueltyfree.peta.org/?en_txn7=Navigation::Shop-Subnav "Cruelty-Free Database")
     * [Literature](https://www.petaliterature.com/?en_txn7=Navigation::Shop-Subnav "Literature")
     * [PETA Shopping Guide](https://www.petashoppingguide.com/?en_txn7=Navigation::Shop-Subnav "PETA Shopping Guide")
     * [PETA Approved Vegan](https://petaapprovedvegan.peta.org/?en_txn7=Navigation::shop-subnav "PETA Approved Vegan")
     * [PETA Presents](https://presents.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA Presents")
-    * [PETA SHOP](https://shop.peta.org/?en_txn7=Navigation::Shop-Subnav "PETA SHOP")
     
 * [About](https://www.peta.org/about-peta/ "About")
     
@@ -209,12 +209,12 @@
     
 * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
+    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     * [Vanguard Society](https://www.peta.org/donate/vanguard/ "Vanguard Society")
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/ "‘In Honor of’ and Memorial Gifts")
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/ "More Ways to Support")
     * [Membership Services](https://www.peta.org/donate/membership-services/ "Membership Services")
     * [Gifts in Wills](https://legacy.peta.org/?en_txn7=Navigation%3A%3ADonation%20SubnavigationPETAorg-Support-PETA-Dropdown-Monthly&supporter.appealCode=IXXXWBXXXXG "Your Legacy for Animals")
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button "Donate Now")
     
 
 [Next Article »](https://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/personalize-enews-ty/)
@@ -271,7 +271,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA E-News
 
-Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
+Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -332,7 +332,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News PETA Living
 
-Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
+Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -346,7 +346,7 @@ Sign me up for the following e-mail:
 
  Membership Updates PETA News PETA Living
 
-Current subscribers: You will continue to receive e-mail unless you explicitly opt out by clicking [here](https://support.peta.org/page/921/action/1).
+Current subscribers: You will continue to receive e-mails unless you explicitly [opt out here](https://support.peta.org/page/53017/data/1).
 
 By submitting this form, you’re acknowledging that you have read and agree to our [privacy policy](https://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/) and agree to receive e-mails from us.
 
@@ -381,6 +381,7 @@ About PETA
 * [Sign Up for E-Mails](https://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/ "Subscribe to E-News")
 * [Join PETA’s Text List](https://www.peta.org/about-peta/learn-about-peta/subscribe-to-mobile-alerts/ "Join PETA’s Text List")
 * [Contact PETA](https://www.peta.org/about-peta/contact-peta/ "Contact PETA")
+* [Chat provider: LiveChat](https://www.livechat.com/ "LiveChat")
 * [International Publications](https://petaglobal.cld.bz/)
 
 Help Animals
