@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/6604526310f4c7f24d8e3435/660459db481b7a8d807740a4_moon-logo-black.webp)](https://paywithmoon.com/)
+[![Moon Logo](https://cdn.prod.website-files.com/6604526310f4c7f24d8e3435/66911057e49b9ed3c0e6ffa9_MoonLogoThin.svg)](https://paywithmoon.com/)
 
 [Home](https://paywithmoon.com/)[FAQ](https://paywithmoon.com/faqs)[Careers](https://wellfound.com/company/moon-13/jobs)[About Us](https://paywithmoon.com/about)
 
@@ -21,17 +21,18 @@
 Privacy Policy
 ==============
 
-Effective date: February 09, 2022
+Effective date: January 01, 2024
 
 Commitment
 ----------
 
   
-Moon Technologies, Inc. (“Moon,” “us,” “we,” or “our”) operates the website, accessible at paywithmoon.com, as well as extensions, apps, and websites (“services”) managed by Moon Technologies, Inc., as well as products, goods, or services accessed while using said services.  
-  
-Moon is committed to protecting your personal information. We take security seriously, and your privacy is our utmost concern. The information and material you share with Moon is intended to help us provide you with the best experience while using our service and is needed primarily for functionality and features.  
-  
-This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our service, as well as the choices you have regarding your data and Moon. Earning your trust is paramount, and we believe the best way to do so is to maintain transparency in our privacy and data collection practices.  
+Moon LLC doing business as “Moon” (“Pay with Moon,” “us,” “we,” or “our”) operates the website, accessible at paywithmoon.com, as well as extensions, apps, and websites (“services”) managed by Moon, as well as products, goods, or services accessed while using said services.
+
+Moon is committed to protecting your personal information. We take security seriously, and your privacy is our utmost concern. The information and material you share with Moon is intended to help us provide you with the best experience while using our service and is needed primarily for functionality and features.
+
+This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our service, as well as the choices you have regarding your data and Moon. Earning your trust is paramount, and we believe the best way to do so is to maintain transparency in our privacy and data collection practices.
+
   
 If you have further questions, don’t hesitate to reach out to us at [\[email protected\]](https://paywithmoon.com/cdn-cgi/l/email-protection).  
   
@@ -49,12 +50,12 @@ While using Moon, we may ask you to provide us with some personally identifiable
 
 * Email address
 * First and last name
-* IP address
 * Your Moon account name
 * Identifiers associated with federated login providers, such as Google or Facebook
 
 Additionally, we may collect data that is received when you interact with us, such as:  
 
+* Your IP address, data related to the device by which you interact with Moon, and data related to your use of that device
 * Information generated when you use our service from collection methods like cookies and tracking analytics software (For more information, please read the section, “Cookies, Tracking, and Links”)
 * Information received when you log in via a federated authentication provider like Google, Facebook, or Coinbase
 * Information you submit as part of promotions, contests, or sweepstakes
@@ -84,7 +85,7 @@ Additionally, we may use information for the following reasons:
 * To send operational emails related to your use of Moon, such as product update and transaction confirmation emails
 * To run surveys
 * To run promotions, contests, or sweepstakes that may require reaching out to a winner or winners
-* To meet business requirements like website management, security updates, and fraud prevention
+* To meet business requirements like website management, security updates, compliance and fraud prevention
 * To create anonymized data for internal analytics like transaction volume and activity trend tracking which is used for things like forecasting, determining business growth, and planning marketing, promotional, and sales campaigns
 * To understand how you use our products and services for product development purposes
 
@@ -158,7 +159,7 @@ We may use third-party service providers to monitor and analyze the use of our p
 * **Google Analytics** – Google Analytics is an analytics service offered by Google that tracks and reports information like website traffic and ad conversions. Google may use the collected data to contextualize and personalize the ads on its own advertising network. For more information on Google’s privacy practices, please visit the Google Privacy & Terms page here: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 * **Mixpanel** – Mixpanel is an analytics service offered by Mixpanel Inc. that tracks and reports information about user interactions with web and mobile applications. You can prevent Mixpanel from using your information. Learn more about opting out here: [https://help.mixpanel.com/hc/en-us/articles/360000679006-Managing-Personal-Information#optout-users](https://help.mixpanel.com/hc/en-us/articles/360000679006-Managing-Personal-Information#optout-users)
 * **The Facebook pixel** – The Facebook pixel is a tracking tool offered by Facebook Inc. that helps us track conversions and analyze other data from ads on services like Facebook and Instagram. For more information on Facebook’s privacy practices, please visit the Facebook Data Policy page here: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
-* **tawk.to** – tawk.to is a customer service chat application. We use session cookies with tawk.to to provide a better customer service experience. For more information on tawk.to’s privacy practices, please visit the Tawk.to privacy policy here:[https://www.tawk.to/privacy-policy/](https://www.tawk.to/privacy-policy/)
+* **Zendesk –** Zendesk is a customer service application. We use session cookies with Zendesk to provide a better customer service experience. For more information on Zendesk’s privacy practices, please visit the Zendesk privacy policy here: [https://www.zendesk.com/company/agreements-and-terms/](https://www.zendesk.com/company/agreements-and-terms/)
 * **Hotjar** – Hotjar is an analytics service offered by Hotjar Ltd. Hotjar tracks user behavior on our web pages. For more information about Hotjar’s privacy practices, please visit the Hotjar Privacy Policy here: [https://www.hotjar.com/legal/policies/privacy](https://www.hotjar.com/legal/policies/privacy)
 * **Fullstory** – Fullstory is a visual analytics service. Fullstory tracks user behavior on our web pages. For more information about Fullstory’s privacy practices, as well as how to opt out of Fullstory tracking, please visit the Fullstory Privacy Policy here: [https://www.fullstory.com/legal/privacy-policy/](https://www.fullstory.com/legal/privacy-policy/)
 
@@ -178,7 +179,7 @@ We may disclose information that is personally identifiable under certain circum
 
 * To comply with a legal obligation on a court order
 * To protect the personal safety of users of our service or the public
-* To protect and defend the rights or property of Moon Technologies, Inc.
+* To protect and defend the rights or property of Moon LLC
 * To protect against legal liability where applicable
 
 Data Transfer
@@ -274,8 +275,6 @@ Schellinggasse 3/10
 
 © 2024 Moon LLC All Rights Reserved
 
-The Moon Visa® Prepaid Card is issued by our partner Financial Institutions, pursuant to a license from Visa U.S.A. Inc.
+The Moon Visa® Card is issued by our partner Financial Institutions, pursuant to a license from Visa.
 
-1Moon will automatically convert all cryptocurrency to U.S. dollars for use in purchases.
-
-2Available at US based ecommerce merchants that accept Visa cards. Some restrictions apply. See [Terms & Conditions](https://paywithmoon.com/terms-conditions) for details.
+Cards may be spent across 40M+ merchants that accept Visa cards. Some restrictions apply. See [Terms & Conditions](https://paywithmoon.com/terms-conditions) for details.
