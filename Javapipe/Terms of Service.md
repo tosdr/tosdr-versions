@@ -65,7 +65,7 @@
     
 * [Support](https://javapipe.com/support)
 
-[Get Started](https://clients.mochahost.com/order/product)[Login](https://clients.mochahost.com/login)
+[Login](https://clients.mochahost.com/login)
 
 [+1 518 250 6166](tel:+1 518 250 6166)
 
@@ -84,7 +84,7 @@
 
 [Facebook](https://www.facebook.com/mochahost)[Twitter](https://twitter.com/mochahost)
 
-[Get Started](https://clients.mochahost.com/order/product)Open main menu
+Open main menu
 
 ![](https://cms.mochahost.com/uploads/BG_Javapipe_4_9fb44bb89e.webp)
 
@@ -308,7 +308,7 @@ Mochahost is a WHG Company
 
 [World Host Group US Inc](https://worldhost.group/)  
 200 Continental Drive, Suite 401  
-Newark, New Jersey, 19713
+Newark, Delaware, 19713
 
 World Host Group is the world's best hosting group. With clients in over 180 countries, every brand we run is dedicated to offering excellent reliable hosting backed by friendly expert technical support.
 
