@@ -392,7 +392,7 @@ Resources
         
 * [Domain Name System Abuse](https://www.icann.org/resources/pages/dns-security-threat-mitigation-2021-07-19-en)
     
-* [Contractual Compliance](https://www.icann.org/resources/pages/compliance-2012-02-25-en)
+* [Contractual Compliance](https://www.icann.org/resources/pages/compliance-2024-06-28-en)
     
     * [About](https://www.icann.org/resources/pages/about-2014-10-10-en)
         
