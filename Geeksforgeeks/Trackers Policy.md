@@ -216,21 +216,6 @@
         * [Mensuration](https://www.geeksforgeeks.org/mensuration/?ref=outind)
         * [Logarithms](https://www.geeksforgeeks.org/logarithms/?ref=outind)
         * [Calculus](https://www.geeksforgeeks.org/math-calculus/?ref=outind)
-    * Commerce
-        * [Business Studies](https://www.geeksforgeeks.org/business-studies/?ref=outind)
-        * [Accountancy](https://www.geeksforgeeks.org/accountancy/?ref=outind)
-        * [Microeconomics](https://www.geeksforgeeks.org/microeconomics/?ref=outind)
-        * [Statistics for Economics](https://www.geeksforgeeks.org/statistics-for-economics/?ref=outind)
-        * [Macroeconomics](https://www.geeksforgeeks.org/macroeconomics/?ref=outind)
-        * [Human Resource Management (HRM)](https://www.geeksforgeeks.org/human-resource-management-hrm/?ref=outind)
-        * [Management](https://www.geeksforgeeks.org/management/?ref=outind)
-        * [Finance](https://www.geeksforgeeks.org/finance/?ref=outind)
-        * [Commerce Complete Guide](https://www.geeksforgeeks.org/commerce/?ref=outind)
-    * Aptitude
-        * [Aptitude Question and Answers](https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=outind)
-        * [Quantitative Aptitude](https://www.geeksforgeeks.org/quantitative-aptitude/?ref=outind)
-        * [Logical Reasoning](https://www.geeksforgeeks.org/logical-reasoning/?ref=outind)
-        * [Verbal Ability](https://www.geeksforgeeks.org/verbal-ability/?ref=outind)
 * DSA
     * Data Structures
         * [Arrays](https://www.geeksforgeeks.org/complete-guide-to-arrays-data-structure/?ref=outind)
@@ -334,8 +319,7 @@
         * [FAANG Coding Sheet](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=outind)
         * [Product-Based Coding Sheet](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=outind)
         * [Company-Wise Preparation Sheet](https://www.geeksforgeeks.org/must-coding-questions-company-wise/?ref=outind)
-    * Top Interview Questions
-        * [Top 100 DSA Interview Questions Topic-wise](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outind)
+    * [Top Interview Questions](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outind)
     * Puzzles
         * [All Puzzles](https://www.geeksforgeeks.org/puzzles/?ref=outind)
         * [Top 100 Puzzles Asked In Interviews](https://www.geeksforgeeks.org/top-100-puzzles-asked-in-interviews/?ref=outind)
@@ -388,7 +372,6 @@
         * [Angular Cheat Sheet](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/?ref=outind)
         * [jQuery Cheat Sheet](https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/?ref=outind)
         * [Bootstrap Cheat Sheet](https://www.geeksforgeeks.org/bootstrap-cheatsheet-a-basic-guide-to-bootstrap/?ref=outind)
-    * [JavaScript Projects](https://www.geeksforgeeks.org/top-javascript-projects/?ref=outind)
     * [Learn Complete Web Development](https://www.geeksforgeeks.org/web-development/?ref=outind)
 * Courses
     * [Coding for Everyone](https://www.geeksforgeeks.org/courses/coding-for-everyone?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
@@ -1038,21 +1021,12 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * Company
 * [About Us](https://www.geeksforgeeks.org/about/?ref=outindfooter)
 * [Legal](https://www.geeksforgeeks.org/legal/?ref=outindfooter)
-* [Careers](https://geeksforgeeks.zohorecruit.in/careers?ref=outindfooter)
 * [In Media](https://www.geeksforgeeks.org/press-release/?ref=outindfooter)
 * [Contact Us](https://www.geeksforgeeks.org/about/contact-us/?ref=outindfooter)
 * [Advertise with us](https://www.geeksforgeeks.org/advertise-with-us/?ref=outindfooter)
 * [GFG Corporate Solution](https://www.geeksforgeeks.org/gfg-corporate-solution/?ref=outindfooter)
 * [Placement Training Program](https://www.geeksforgeeks.org/campus-training-program/?ref=outindfooter)
-
-* Explore
-* [Hack-A-Thons](https://www.geeksforgeeks.org/events/rec/gfg-hackathon/?ref=outindfooter)
-* [GfG Weekly Contest](https://practice.geeksforgeeks.org/events/rec/gfg-weekly-coding-contest?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=gfgweekly/?ref=footer)
-* [DSA in JAVA/C++](https://www.geeksforgeeks.org/courses/dsa-self-paced?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=course/?ref=footer)
-* [Master System Design](https://www.geeksforgeeks.org/courses/mastering-system-design-low-level-to-high-level-solutions?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=course/?ref=footer)
-* [Master CP](https://www.geeksforgeeks.org/courses/competitive-programming-cp?utm_source=geeksforgeeks&utm_medium=footer&utm_campaign=course)
-* [GeeksforGeeks Videos](https://www.geeksforgeeks.org/videos/?ref=outindfooter)
-* [Geeks Community](https://www.geeksforgeeks.org/community/?ref=outindfooter)
+* [GeeksforGeeks Community](https://www.geeksforgeeks.org/community/?ref=outindfooter)
 
 * [Languages](https://www.geeksforgeeks.org/introduction-to-programming-languages/?ref=outindfooter)
 * [Python](https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter)
@@ -1075,7 +1049,7 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * [DSA Roadmap by Sandeep Jain](https://www.geeksforgeeks.org/dsa-roadmap-for-beginner-to-advanced-by-sandeep-jain/?ref=outindfooter)
 * [All Cheat Sheets](https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/?ref=outindfooter)
 
-* Data Science & ML
+* [Data Science & ML](https://www.geeksforgeeks.org/ai-ml-ds/?ref=outindfooter)
 * [Data Science With Python](https://www.geeksforgeeks.org/data-science-tutorial/?ref=outindfooter)
 * [Data Science For Beginner](https://www.geeksforgeeks.org/data-science-for-beginners/?ref=outindfooter)
 * [Machine Learning Tutorial](https://www.geeksforgeeks.org/machine-learning/?ref=outindfooter)
@@ -1086,15 +1060,14 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * [NLP Tutorial](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=outindfooter)
 * [Deep Learning Tutorial](https://www.geeksforgeeks.org/deep-learning-tutorial/?ref=outindfooter)
 
-* [HTML & CSS](https://www.geeksforgeeks.org/html-css/?ref=outindfooter)
+* [Web Technologies](https://www.geeksforgeeks.org/web-technology/?ref=outindfooter)
 * [HTML](https://www.geeksforgeeks.org/html/?ref=outindfooter)
 * [CSS](https://www.geeksforgeeks.org/css/?ref=outindfooter)
-* [Web Templates](https://www.geeksforgeeks.org/html-and-css-template/?ref=outindfooter)
-* [CSS Frameworks](https://www.geeksforgeeks.org/css-framework/?ref=outindfooter)
+* [JavaScript](https://www.geeksforgeeks.org/javascript/?ref=outindfooter)
+* [TypeScript](https://www.geeksforgeeks.org/typescript/?ref=outindfooter)
+* [ReactJS](https://www.geeksforgeeks.org/learn-reactjs/?ref=outindfooter)
+* [NextJS](https://www.geeksforgeeks.org/nextjs/?ref=outindfooter)
 * [Bootstrap](https://www.geeksforgeeks.org/bootstrap/?ref=outindfooter)
-* [Tailwind CSS](https://www.geeksforgeeks.org/tailwind-css/?ref=outindfooter)
-* [SASS](https://www.geeksforgeeks.org/sass/?ref=outindfooter)
-* [LESS](https://www.geeksforgeeks.org/less/?ref=outindfooter)
 * [Web Design](https://www.geeksforgeeks.org/web-design/?ref=outindfooter)
 
 * [Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter)
@@ -1106,31 +1079,25 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * [Python Interview Question](https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter)
 * [Django](https://www.geeksforgeeks.org/django-tutorial/?ref=outindfooter)
 
-* [Computer Science](https://www.geeksforgeeks.org/gate-cs-notes-gq/?ref=outindfooter)
+* Computer Science
 * [Operating Systems](https://www.geeksforgeeks.org/operating-systems/?ref=outindfooter)
 * [Computer Network](https://www.geeksforgeeks.org/computer-network-tutorials/?ref=outindfooter)
 * [Database Management System](https://www.geeksforgeeks.org/dbms/?ref=outindfooter)
 * [Software Engineering](https://www.geeksforgeeks.org/software-engineering/?ref=outindfooter)
 * [Digital Logic Design](https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/?ref=outindfooter)
 * [Engineering Maths](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/?ref=outindfooter)
+* [Software Development](https://www.geeksforgeeks.org/software-development/?ref=outindfooter)
+* [Software Testing](https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outindfooter)
 
 * [DevOps](https://www.geeksforgeeks.org/devops-tutorial/?ref=outindfooter)
 * [Git](https://www.geeksforgeeks.org/git-tutorial/?ref=outindfooter)
+* [Linux](https://www.geeksforgeeks.org/linux-tutorial/?ref=outindfooter)
 * [AWS](https://www.geeksforgeeks.org/aws-tutorial/?ref=outindfooter)
 * [Docker](https://www.geeksforgeeks.org/docker-tutorial/?ref=outindfooter)
 * [Kubernetes](https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=outindfooter)
 * [Azure](https://www.geeksforgeeks.org/microsoft-azure/?ref=outindfooter)
 * [GCP](https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=outindfooter)
 * [DevOps Roadmap](https://www.geeksforgeeks.org/devops-roadmap/?ref=outindfooter)
-
-* [Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=outindfooter)
-* [Top DS or Algo for CP](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/?ref=outindfooter)
-* [Top 50 Tree](https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews?ref=outindfooter)
-* [Top 50 Graph](https://www.geeksforgeeks.org/top-50-graph-coding-problems-for-interviews/?ref=outindfooter)
-* [Top 50 Array](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/?ref=outindfooter)
-* [Top 50 String](https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/?ref=outindfooter)
-* [Top 50 DP](https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/?ref=outindfooter)
-* [Top 15 Websites for CP](https://www.geeksforgeeks.org/top-15-websites-for-coding-challenges-and-competitions/?ref=outindfooter)
 
 * [System Design](https://www.geeksforgeeks.org/system-design-tutorial/?ref=outindfooter)
 * [High Level Design](https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter)
@@ -1142,22 +1109,13 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * [System Design Bootcamp](https://www.geeksforgeeks.org/system-design-interview-bootcamp-guide/?ref=outindfooter)
 * [Interview Questions](https://www.geeksforgeeks.org/most-commonly-asked-system-design-interview-problems-questions/?ref=outindfooter)
 
-* [JavaScript](https://www.geeksforgeeks.org/javascript/?ref=outindfooter)
-* [JavaScript Examples](https://www.geeksforgeeks.org/javascript-examples/?ref=outindfooter)
-* [TypeScript](https://www.geeksforgeeks.org/typescript/?ref=outindfooter)
-* [ReactJS](https://www.geeksforgeeks.org/learn-reactjs/?ref=outindfooter)
-* [NextJS](https://www.geeksforgeeks.org/nextjs/?ref=outindfooter)
-* [AngularJS](https://www.geeksforgeeks.org/angularjs/?ref=outindfooter)
-* [NodeJS](https://www.geeksforgeeks.org/nodejs/?ref=outindfooter)
-* [Lodash](https://www.geeksforgeeks.org/lodash/?ref=outindfooter)
-* [Web Browser](https://www.geeksforgeeks.org/web-browser-a-complete-overview/?ref=outindfooter)
-
-* [Preparation Corner](https://www.geeksforgeeks.org/technical-interview-preparation/?ref=outindfooter)
+* [Inteview Preparation](https://www.geeksforgeeks.org/technical-interview-preparation/?ref=outindfooter)
+* [Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=outindfooter)
+* [Top DS or Algo for CP](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/?ref=outindfooter)
 * [Company-Wise Recruitment Process](https://www.geeksforgeeks.org/company-wise-recruitment-process/?ref=outindfooter)
-* [Resume Templates](https://www.geeksforgeeks.org/free-resume-templates/?ref=outindfooter)
+* [Company-Wise Preparation](https://www.geeksforgeeks.org/company-preparation/?ref=outindfooter)
 * [Aptitude Preparation](https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=outindfooter)
 * [Puzzles](https://www.geeksforgeeks.org/puzzles/?ref=outindfooter)
-* [Company-Wise Preparation](https://www.geeksforgeeks.org/company-preparation/?ref=outindfooter)
 
 * School Subjects
 * [Mathematics](https://www.geeksforgeeks.org/maths/?ref=outindfooter)
@@ -1166,32 +1124,8 @@ A-143, 9th Floor, Sovereign Corporate Tower, Sector-136, Noida, Uttar Pradesh - 
 * [Biology](https://www.geeksforgeeks.org/biology/?ref=outindfooter)
 * [Social Science](https://www.geeksforgeeks.org/social-science/?ref=outindfooter)
 * [English Grammar](https://www.geeksforgeeks.org/english-grammar/?ref=outindfooter)
+* [Commerce](https://www.geeksforgeeks.org/commerce/?ref=outindfooter)
 * [World GK](https://www.geeksforgeeks.org/tag/world-general-knowledge/?ref=outindfooter)
-
-* Management & Finance
-* [Management](https://www.geeksforgeeks.org/management/?ref=outindfooter)
-* [HR Management](https://www.geeksforgeeks.org/human-resource-management-hrm/?ref=outindfooter)
-* [Finance](https://www.geeksforgeeks.org/finance/?ref=outindfooter)
-* [Organisational Behaviour](https://www.geeksforgeeks.org/organisational-behaviour-ob/?ref=outindfooter)
-* [Marketing](https://www.geeksforgeeks.org/marketing/?ref=outindfooter)
-
-* Free Online Tools
-* [Typing Test](https://www.geeksforgeeks.org/free-typing-test/?ref=outindfooter)
-* [Image Editor](https://www.geeksforgeeks.org/online-image-editor/?ref=outindfooter)
-* [Code Formatters](https://www.geeksforgeeks.org/online-code-formatter/?ref=outindfooter)
-* [Code Converters](https://www.geeksforgeeks.org/online-file-converters/?ref=outindfooter)
-* [Currency Converter](https://www.geeksforgeeks.org/currency-converter/?ref=outindfooter)
-* [Random Number Generator](https://www.geeksforgeeks.org/random-number-generator/?ref=outindfooter)
-* [Random Password Generator](https://www.geeksforgeeks.org/random-password-generator/?ref=outindfooter)
-
-* More Tutorials
-* [Software Development](https://www.geeksforgeeks.org/software-development/?ref=outindfooter)
-* [Software Testing](https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outindfooter)
-* [Product Management](https://www.geeksforgeeks.org/product-management/?ref=outindfooter)
-* [SEO - Search Engine Optimization](https://www.geeksforgeeks.org/project-management-tutorial/?ref=outindfooter)
-* [Linux](https://www.geeksforgeeks.org/linux-tutorial/?ref=outindfooter)
-* [Excel](https://www.geeksforgeeks.org/excel-tutorial/?ref=outindfooter)
-* [All Cheatsheets](https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/?ref=outindfooter)
 
 * [GeeksforGeeks Videos](https://www.geeksforgeeks.org/videos/?ref=outindfooter)
 * [DSA](https://www.geeksforgeeks.org/videos/category/sde-sheet/?ref=outindfooter)
