@@ -330,7 +330,7 @@ ABOUT
 * [Security](https://www.pnc.com/en/security-privacy.html)
 * [Terms & Conditions](https://www.pnc.com/en/terms-and-conditions.html)
 * [Privacy Policy](https://www.pnc.com/en/privacy-policy.html)
-* [Cookie Preferences](javascript:void(0))
+* Cookie Preferences
     
 * [Do Not Sell or Share My Personal Information](#)
 
