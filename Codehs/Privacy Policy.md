@@ -1,6 +1,6 @@
 ### Please [enable JavaScript](https://enable-javascript.com/) to use CodeHS
 
-                                         
+                                          
 
 Toggle navigation [![](https://static1.codehs.com/img/brand_logo.png)](https://codehs.com/)
 
