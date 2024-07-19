@@ -20,12 +20,10 @@
 * [Home Page](https://lawandcrime.com/)
 * [Live](https://lawandcrime.com/live-trials/)
     * [Watch Live: Law & Crime Network](https://lawandcrime.com/stream/)
-    * [Watch the Karen Read trial: An angry girlfriend callously leaving cop to die in a blizzard — or a grand conspiracy?](https://lawandcrime.com/live-trials/live-trials-current/watch-the-karen-read-trial-an-angry-girlfriend-callously-leaving-cop-to-die-in-a-blizzard-or-a-grand-conspiracy/)
     * [WATCH LIVE: Young Thug YSL racketeering trial](https://lawandcrime.com/live-trials/live-trials-current/watch-live-young-thug-ysl-racketeering-trial/)
     * [9 Shocking Times Defendants Testified at Trial](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/groves-loyd-and-more-9-shocking-times-defendants-testified-at-trial/)
     * [10 Most Memorable Law&Crime Network Trials](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/godejohn-nelson-and-more-10-most-memorable-lawcrime-network-trials/)
     * [Watch Live: Brevard County Bond Court](https://lawandcrime.com/live-trials/live-trials-current/brevard-county-bond-court/brevard-county-bond-court/)
-    * [View All Live Trials](https://lawandcrime.com/live-trials)
 * [Where to Watch](https://lawandcrime.com/where-to-watch/)
 * [TV Schedule](https://lawandcrime.com/schedule)
 * [Bodycam Videos](https://www.youtube.com/playlist?list=PLoW1SIeAWaWYnLs3HdjyU9MTTAV9Ve982)
@@ -60,12 +58,10 @@
 * [Home Page](https://lawandcrime.com/)
 * [Live](https://lawandcrime.com/live-trials/)
     * [Watch Live: Law & Crime Network](https://lawandcrime.com/stream/)
-    * [Watch the Karen Read trial: An angry girlfriend callously leaving cop to die in a blizzard — or a grand conspiracy?](https://lawandcrime.com/live-trials/live-trials-current/watch-the-karen-read-trial-an-angry-girlfriend-callously-leaving-cop-to-die-in-a-blizzard-or-a-grand-conspiracy/)
     * [WATCH LIVE: Young Thug YSL racketeering trial](https://lawandcrime.com/live-trials/live-trials-current/watch-live-young-thug-ysl-racketeering-trial/)
     * [9 Shocking Times Defendants Testified at Trial](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/groves-loyd-and-more-9-shocking-times-defendants-testified-at-trial/)
     * [10 Most Memorable Law&Crime Network Trials](https://lawandcrime.com/live-trials/live-trials-current/lawcrime-network/godejohn-nelson-and-more-10-most-memorable-lawcrime-network-trials/)
     * [Watch Live: Brevard County Bond Court](https://lawandcrime.com/live-trials/live-trials-current/brevard-county-bond-court/brevard-county-bond-court/)
-    * [View All Live Trials](https://lawandcrime.com/live-trials)
 * [Where to Watch](https://lawandcrime.com/where-to-watch/)
 * [TV Schedule](https://lawandcrime.com/schedule)
 * [Bodycam Videos](https://www.youtube.com/playlist?list=PLoW1SIeAWaWYnLs3HdjyU9MTTAV9Ve982)
@@ -117,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Hunter Biden, Garrett Ziegler](https://lawandcrime.com/wp-content/uploads/2024/03/Hunter-Biden-Garrett-Ziegler-432x243.jpg)](https://lawandcrime.com/lawsuit/judge-rules-trump-wh-policy-analyst-turned-biden-laptop-report-poster-must-face-hunters-hacking-lawsuit-after-failed-recusal-bid/)
+1. [![Sergio Pino raid](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Sergio-Pino-432x243.jpg)](https://lawandcrime.com/crime/how-the-feds-unfurled-a-high-powered-real-estate-developers-multiple-plots-to-kill-his-wife-via-fentanyl-poisoning-hit-and-runs-and-fake-armed-robberies/)
     
-    ### [Judge rules Trump WH policy analyst turned 'Biden Laptop Report' poster must face Hunter's 'hacking' lawsuit after failed recusal bid](https://lawandcrime.com/lawsuit/judge-rules-trump-wh-policy-analyst-turned-biden-laptop-report-poster-must-face-hunters-hacking-lawsuit-after-failed-recusal-bid/)
+    ### [How the feds unfurled a high-powered real estate developer's multiple plots to kill his wife via fentanyl poisoning, hit-and-runs and fake armed robberies](https://lawandcrime.com/crime/how-the-feds-unfurled-a-high-powered-real-estate-developers-multiple-plots-to-kill-his-wife-via-fentanyl-poisoning-hit-and-runs-and-fake-armed-robberies/)
     
-2. [![Jamie Komoroski, on the left; Aric Hutchinson and Samantha Miller, on the right](https://lawandcrime.com/wp-content/uploads/2023/05/Jamie-Komoroski-432x243.jpg)](https://lawandcrime.com/high-profile/husband-of-bride-killed-by-alleged-drunk-driver-after-wedding-reception-reaches-1-37-million-wrongful-death-settlement-with-local-bars-and-other-businesses/)
+2. [![Tyler Campanella faces misdemeanor charges in the Jan. 6, 2021, riots at the U.S. Capitol. (Court documents)](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Campanella-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-defendant-and-stepson-of-real-housewives-star-allowed-to-travel-to-hamptons-while-awaiting-trial/)
     
-    ### [Husband of bride killed by alleged drunk driver after wedding reception reaches $1.37 million wrongful death settlement with local bars and other businesses](https://lawandcrime.com/high-profile/husband-of-bride-killed-by-alleged-drunk-driver-after-wedding-reception-reaches-1-37-million-wrongful-death-settlement-with-local-bars-and-other-businesses/)
+    ### [Jan. 6 defendant and stepson of 'Real Housewives' star allowed to travel to Hamptons while awaiting trial](https://lawandcrime.com/high-profile/jan-6-defendant-and-stepson-of-real-housewives-star-allowed-to-travel-to-hamptons-while-awaiting-trial/)
     
-3. [![Supreme Court Justice Clarence Thomas](https://lawandcrime.com/wp-content/uploads/2021/04/GettyImages-1232480534-432x243.jpg)](https://lawandcrime.com/supreme-court/justice-thomas-stands-alone-against-major-gun-ruling-disarming-accused-domestic-abusers-puts-at-risk-the-2nd-amendment-rights-of-many-more/)
+3. [![Kerilyn Johnson and Olin Johnson](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Johnson-432x243.jpg)](https://lawandcrime.com/crime/i-cant-go-back-in-that-room-chilling-moments-distraught-son-called-911-from-million-dollar-home-where-dad-shot-mom-himself-after-recent-drama/)
     
-    ### [Justice Thomas stands alone against major gun ruling: Disarming accused domestic abusers 'puts at risk the 2nd Amendment rights of many more'](https://lawandcrime.com/supreme-court/justice-thomas-stands-alone-against-major-gun-ruling-disarming-accused-domestic-abusers-puts-at-risk-the-2nd-amendment-rights-of-many-more/)
+    ### ['I can't go back in that room': Chilling moments distraught son called 911 from million-dollar home where dad shot mom, himself after recent 'drama'](https://lawandcrime.com/crime/i-cant-go-back-in-that-room-chilling-moments-distraught-son-called-911-from-million-dollar-home-where-dad-shot-mom-himself-after-recent-drama/)
     
-4. [![Kuachua Brillion Xiong (Cass County Sheriff's Office) and Joe Biden ((Photo by OLIVIER DOULIERY / AFP)](https://lawandcrime.com/wp-content/uploads/2024/06/Kuachua-Brillion-Xiong-Cass-County-Sheriffs-Office-and-Joe-Biden-Photo-by-OLIVIER-DOULIERY-AFP-432x243.jpg)](https://lawandcrime.com/crime/he-plans-on-dying-while-fighting-evil-demons-at-the-white-house-man-with-carload-of-weapons-and-hit-list-that-included-biden-obama-and-clinton-gets-years-in-prison/)
+4. [![Dominique Side, on the left; Vgn Bae Studios, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Dominique-Side-1-432x243.jpg)](https://lawandcrime.com/lawsuit/surrogacy-company-owner-stole-millions-from-parents-to-fund-lavish-lifestyle-vegan-clothing-line-music-career-lawsuit/)
     
-    ### ['He plans on dying while fighting evil demons at the White House': Man with carload of weapons and 'hit list' that included Biden, Obama and Clinton gets years in prison](https://lawandcrime.com/crime/he-plans-on-dying-while-fighting-evil-demons-at-the-white-house-man-with-carload-of-weapons-and-hit-list-that-included-biden-obama-and-clinton-gets-years-in-prison/)
+    ### [Surrogacy company owner stole millions from parents to fund 'lavish' lifestyle, vegan clothing line, music career: Lawsuit](https://lawandcrime.com/lawsuit/surrogacy-company-owner-stole-millions-from-parents-to-fund-lavish-lifestyle-vegan-clothing-line-music-career-lawsuit/)
     
-5. [![Dominick Taylor mug shots](https://lawandcrime.com/wp-content/uploads/2024/06/Dominick-Taylor-432x243.jpg)](https://lawandcrime.com/crime/full-time-caregiver-who-strangled-blind-unable-to-walk-nephew-in-bedroom-and-bought-one-way-amtrak-ticket-from-chicago-wont-get-out-of-prison-now/)
+5. [![A man calls out to his girlfriend after a high-speed chase in Los Angeles](https://am24.mediaite.com/lc/cnt/uploads/2024/07/High-Speed-Chase-LA-2024-432x243.jpg)](https://lawandcrime.com/crime/its-over-bro-its-over-man-allegedly-leads-police-on-lengthy-high-speed-chase-throughout-los-angeles-during-rush-hour-while-livestreaming-with-infant-girl-in-the-back-seat/)
     
-    ### ['Full-time' caregiver who strangled blind, 'unable to walk' nephew in bedroom and bought one-way Amtrak ticket from Chicago won't get out of prison now](https://lawandcrime.com/crime/full-time-caregiver-who-strangled-blind-unable-to-walk-nephew-in-bedroom-and-bought-one-way-amtrak-ticket-from-chicago-wont-get-out-of-prison-now/)
+    ### ['It's over, bro, it's over': Man allegedly leads police on lengthy high-speed chase throughout Los Angeles during rush hour while livestreaming with infant girl in the back seat](https://lawandcrime.com/crime/its-over-bro-its-over-man-allegedly-leads-police-on-lengthy-high-speed-chase-throughout-los-angeles-during-rush-hour-while-livestreaming-with-infant-girl-in-the-back-seat/)
     
 
 [](http://eepurl.com/c89Jdb)
