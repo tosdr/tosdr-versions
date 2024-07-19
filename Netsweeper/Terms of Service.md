@@ -22,7 +22,7 @@ Search for:  Search
                 * [nFilter – Web Content Filtering](https://www.netsweeper.com/solutions/products/nfilter-content-web-filtering-monitoring)
                 * [nClient – Remote Filtering](https://www.netsweeper.com/solutions/products/nclient-remote-filtering-monitoring)
                 * [onGuard – Digital Safety Monitoring](https://www.netsweeper.com/solutions/products/onguard-digital-safety-monitoring)
-                * [Classroom Management](https://www.netsweeper.com/solutions/products/classroom-management)
+                * [Classroom Management Software](https://www.netsweeper.com/solutions/products/classroom-management)
 * [SUPPORT](https://www.netsweeper.com/support)
 * [RESOURCES](https://www.netsweeper.com/resources)
     * * * [News](https://www.netsweeper.com/resources/news)
@@ -72,7 +72,7 @@ REGIONREGION
 * [Português](https://www.netsweeper.com/portugues)
 
 * [Solutions](#) Menu Toggle
-    * [Telecom – Value-Added Serivces](https://www.netsweeper.com/solutions/industries/telecommunications-carrier-grade-web-filtering-value-added-service)
+    * [Telecom – Value-Added Services](https://www.netsweeper.com/solutions/industries/telecommunications-carrier-grade-web-filtering-value-added-service)
     * [Countrywide – Regulatory Compliance](https://www.netsweeper.com/solutions/industries/countrywide-web-filtering-compliance-digital-sovereignty)
     * [Education – Web Filtering for Schools](https://www.netsweeper.com/solutions/industries/education-web-filtering-schools)
     * [nFilter – Web Content Filtering](https://www.netsweeper.com/solutions/products/nfilter-content-web-filtering-monitoring)
