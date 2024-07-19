@@ -27,7 +27,6 @@ Navigation Menu
     * [Kids](http://www.nhl.com/shop/link.html?id=NHLSubNavKids)
     * [Photos.com](https://photos.com/art/nhl)
     * [NHL Shop - NYC](https://www.nhl.com/fans/nhl-shop-nyc)
-    * [Get NHL Credit Card](https://www.discovercard.com/application/displayLanding?pageFileId=double-display-nhl&sc=GAXW&cmpgnid=affinity-pl-nhl-shtb)
     
 * [Tickets](https://www.nhl.com/tickets)
 
@@ -376,11 +375,10 @@ Last Updated: March 8, 2023
 * [Instagram](https://www.instagram.com/nhl)
 * [Discord](https://discord.gg/nhlbreakaway)
 * [Facebook](https://www.facebook.com/NHL)
-* [Threads](https://www.threads.net/@nhl)
 * [Snapchat](https://www.snapchat.com/add/nhl)
 * [Twitch](https://www.twitch.tv/nhl)
 * [X](https://www.twitter.com/nhl)
-* [Tik Tok](https://www.tiktok.com/@nhl?lang=en)
+* [TikTok](https://www.tiktok.com/@nhl?lang=en)
 
 * [Terms of Service](https://www.nhl.com/info/terms-of-service)
 * [NHL.com Privacy Policy](https://www.nhl.com/info/privacy-policy)
