@@ -1,47 +1,7 @@
-My Cart
-
-×
-
-* [Login](#loginPopup)
-* [Register](#registerPopup)
-
- 
-
-Email 
-
-Password 
-
-You are successfully logged in
-
-Log in
-
-[Reset Password](#resetPasswordPopup)
-
- 
-
-Your Email 
-
- 
-
-Confirm [Back to Login](#loginPopup)
-
- 
-
-Your Email 
-
-Your Name 
-
-Phone 
-
-Password 
-
-Confirm Password 
-
-You are successfully register your account
-
- 
-
-Sign up
+* [0](https://www.iscream-shop.com/shop/cart)
+* [0](https://www.iscream-shop.com/shop/wishlist)
+* [](https://www.iscream-shop.com/web/login)
+    
 
 Hello Anonymous Websi...
 
@@ -49,9 +9,7 @@ Hello Anonymous Websi...
 
 [Logout](https://www.iscream-shop.com/web/session/logout?redirect=/)
 
-We Make The Ordinary Extraordinary
-
-[![Iscream](/web/image/website/2/logo/Iscream?unique=2ebf294)](https://www.iscream-shop.com/)
+[![Iscream](/web/image/website/2/logo/Iscream?unique=ec289c8)](https://www.iscream-shop.com/)
 
 [](#)
 
@@ -59,12 +17,11 @@ We Make The Ordinary Extraordinary
 
 * [0](https://www.iscream-shop.com/shop/cart)
 * [0](https://www.iscream-shop.com/shop/wishlist)
-
-[](javascript:void(0);)
+* [](https://www.iscream-shop.com/web/login)
+    
 
 x
 
-* [×](#top_menu_collapse)
 * [Products](#)
     
     Fashion
@@ -100,7 +57,6 @@ x
 * [What's New](https://www.iscream-shop.com/shop/category/new-235)
 * [Clearance](https://www.iscream-shop.com/shop/category/clearance-3)
 
-* [![Iscream](/web/image/website/2/logo/Iscream?unique=2ebf294)](https://www.iscream-shop.com/)
 * [0](https://www.iscream-shop.com/shop/wishlist)
 
 Shipping & Returns
@@ -221,8 +177,4 @@ Copyright © Mines Press, Inc.
 
    
 
-Added to cart
-
-[View cart](https://www.iscream-shop.com/shop/cart) [Checkout](https://www.iscream-shop.com/shop/checkout?express=1)
-
-* [Sign in](javascript:void(0);)
+* [Sign in](https://www.iscream-shop.com/web/login)
