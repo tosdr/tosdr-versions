@@ -29,7 +29,7 @@ Toggle navigation
     * [Matrix](https://openrouteservice.org/dev/#/api-docs/v2/matrix/%7Bprofile%7D/post)
     * [Snap](https://openrouteservice.org/dev/#/api-docs/v2/snap/%7Bprofile%7D/post)
     * [Geocode](https://openrouteservice.org/dev/#/api-docs/geocode)
-    * [Pois](https://openrouteservice.org/dev/#/api-docs/pois)
+    * [Pois](https://openrouteservice.org/dev/#/api-docs/pois/post)
     * [Elevation](https://openrouteservice.org/dev/#/api-docs/elevation)
     * [Optimization](https://openrouteservice.org/dev/#/api-docs/optimization)
 * [Log in](https://openrouteservice.org/dev/#/login)
@@ -169,53 +169,8 @@ API results obtained from openrouteservice in any context (also MapSurfer maps) 
 * [Contact](https://openrouteservice.org/contact/)
 * [Team](https://heigit.org/smart-mobility-team/)
 
-[openrouteservice.org (ORS) Follow
+### News
 
-![ors_news](https://pbs.twimg.com/profile_images/952551296506134528/u0DkjfzD_normal.jpg)](https://twitter.com/ors_news/ "@ors_news")
-
-[Retweet on Twitter](https://twitter.com/intent/user?screen_name=ors_news) [openrouteservice.org (ORS) Retweeted](https://twitter.com/ors_news)
-
- [![ktstiftung](https://pbs.twimg.com/profile_images/1562805519492042752/Lrl71Qm4_normal.jpg)](https://twitter.com/ktstiftung)[Klaus Tschira Stiftung](https://twitter.com/ktstiftung) [@ktstiftung](https://twitter.com/ktstiftung) ·
-
-[13 Jul](https://twitter.com/ktstiftung/status/1679491268009684995)
-
-Ungleiche Verteilung von #OpenStreetMap 🗺️ Daten weltweit. Forschende von @GIScienceHD haben sich damit und mit den möglichen Auswirkungen auf Forschung und humanitäre Einsätze beschäftigt. Der Artikel erschien in @NatureComms.  
-Hier geht es zur Medieninfo: https://ow.ly/Bv0450Paq7f
-
-[Retweet on Twitter](https://twitter.com/intent/user?screen_name=ors_news) [openrouteservice.org (ORS) Retweeted](https://twitter.com/ors_news)
-
- [![gisciencehd](https://pbs.twimg.com/profile_images/668905724899037184/t8mS7kpE_normal.png)](https://twitter.com/gisciencehd)[GIScienceHD + HeiGIT](https://twitter.com/gisciencehd) [@gisciencehd](https://twitter.com/gisciencehd) ·
-
-[12 Jul](https://twitter.com/gisciencehd/status/1679149218194128896)
-
-You have probably seen that last week, Benjamin Herfort et al. published an article on the uneven distribution of building data in #OSM in @NatureComms 🎉  
-  
-👀But did you know that you can easily access completeness data for 13.189 cities in #ohsomeHeX?  
-  
-👉https://tinyurl.com/heinature
-
-[Retweet on Twitter](https://twitter.com/intent/user?screen_name=ors_news) [openrouteservice.org (ORS) Retweeted](https://twitter.com/ors_news)
-
- [![gisciencehd](https://pbs.twimg.com/profile_images/668905724899037184/t8mS7kpE_normal.png)](https://twitter.com/gisciencehd)[GIScienceHD + HeiGIT](https://twitter.com/gisciencehd) [@gisciencehd](https://twitter.com/gisciencehd) ·
-
-[12 Jul](https://twitter.com/gisciencehd/status/1679149222237487106)
-
-🏙️They calculated the amount of buildings in urban areas world-wide and compared these data to the building data available in #OpenStreetMap  
-  
-You can click through the results of this completeness analysis for yourselves on ohsome HeX here:  
-👉https://hex.ohsome.org/#/urban\_building\_completeness/2023-01-01T00:00:00Z/6/49.728484075919056/10.195223568808009
-
-[Retweet on Twitter](https://twitter.com/intent/user?screen_name=ors_news) [openrouteservice.org (ORS) Retweeted](https://twitter.com/ors_news)
-
- [![gisciencehd](https://pbs.twimg.com/profile_images/668905724899037184/t8mS7kpE_normal.png)](https://twitter.com/gisciencehd)[GIScienceHD + HeiGIT](https://twitter.com/gisciencehd) [@gisciencehd](https://twitter.com/gisciencehd) ·
-
-[12 Jul](https://twitter.com/gisciencehd/status/1679149223852363776)
-
-Here's what they found:  
-👉Building data are unevenly spaced! 🗺️  
-👉For regions with high actual building density (East/South East Asia, Latin America) (medium & high #HDI), only limited data is available.  
-👉For regions with low HDI, #HumanitarianMapping led to better coverage 🤝
-
-[Load More](javascript:void(0);)
+Loading Mastodon feed...
 
  © 2024 **openrouteservice** | Services developed by **[HeiGIT gGmbH](http://www.heigit.org/).**
