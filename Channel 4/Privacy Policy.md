@@ -61,7 +61,6 @@
     * [Take Part](https://www.channel4.com/4viewers/take-part)
         
         * [Bake Off: The Professionals](https://www.channel4.com/4viewers/take-part/Bake-off-the-professionals)
-        * [The Channel 4 Health Debate](https://www.channel4.com/4viewers/take-part/channel-4-health-debate)
         * [Come Dine With Me](https://www.channel4.com/4viewers/take-part/come-dine-me)
         * [Countdown](https://www.channel4.com/4viewers/take-part/countdown)
         * [First Dates](https://www.channel4.com/4viewers/take-part/first-dates)
@@ -70,7 +69,6 @@
         * [George Clarke's Old House New Home](https://www.channel4.com/4viewers/take-part/george-clarkes-old-house-new-home)
         * [Grand Designs](https://www.channel4.com/4viewers/take-part/grand-designs)
         * [Help! We Bought A Village](https://www.channel4.com/4viewers/take-part/bought-a-village)
-        * [Location, Location, Location](https://www.channel4.com/4viewers/take-part/location-location-location)
         * [Love It or List It](https://www.channel4.com/4viewers/take-part/love-it-or-list-it)
         * [Love Triangle](https://www.channel4.com/4viewers/take-part/love-triangle)
         * [Married at First Sight UK](https://www.channel4.com/4viewers/takepart/married-at-first-sight)
@@ -80,7 +78,6 @@
         * [The Piano](https://www.channel4.com/4viewers/take-part/the-piano)
         * [A Place in the Sun](https://www.channel4.com/4viewers/take-part/apits)
         * [Stacey Solomon's Renovation Rescue](https://www.channel4.com/4viewers/take-part/renovation-rescue)
-        * [Tempting fortune](https://www.channel4.com/4viewers/take-part/adventure)
         
     
 * [Blog](#)
