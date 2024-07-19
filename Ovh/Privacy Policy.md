@@ -115,7 +115,7 @@ Log in to order, manage your products and services, and track your orders.
         * Products [Discover our dedicated servers](https://www.ovhcloud.com/en/bare-metal/)
             
             * [Rise Servers](https://www.ovhcloud.com/en/bare-metal/rise/) The most affordable bare-metal servers offered by OVHcloud
-            * [Advance Servers New in Singapore](https://www.ovhcloud.com/en/bare-metal/advance/) Versatile servers for small and medium businesses.
+            * [Advance Servers New](https://www.ovhcloud.com/en/bare-metal/advance/) Versatile servers for small and medium businesses.
             * [Game servers](https://www.ovhcloud.com/en/bare-metal/game/) For video games and streaming platforms.
             * [Storage Servers](https://www.ovhcloud.com/en/bare-metal/storage/) Servers for archiving, backup, and distributed storage.
             * [Scale Servers New](https://www.ovhcloud.com/en/bare-metal/scale/) Specifically designed for complex, high-resilience infrastructures.
@@ -307,7 +307,7 @@ Log in to order, manage your products and services, and track your orders.
             * [General Purpose](https://www.ovhcloud.com/en/public-cloud/general-purpose/) Deploy multi-purpose instances, adapted to your needs
             * [Compute Optimized](https://www.ovhcloud.com/en/public-cloud/compute-optimized/) Deploy instances suited for compute-intensive processing
             * [Memory Optimized](https://www.ovhcloud.com/en/public-cloud/memory-optimized/) Deploy instances designed for memory-intensive processing
-            * [GPU](https://www.ovhcloud.com/en/public-cloud/gpu/) Try out our instances that are up to 1,000 times faster than a CPU
+            * [GPU](https://www.ovhcloud.com/en/solutions/nvidia/) Try out our instances that are up to 1,000 times faster than a CPU
             * [Storage Optimized](https://www.ovhcloud.com/en/public-cloud/iops/) Get ultra-fast IOPS with direct NVMe access
             * [Discovery](https://www.ovhcloud.com/en/public-cloud/sandbox/) Get started with Public Cloud instances with shared resources
             * [Metal Instances](https://www.ovhcloud.com/en/public-cloud/metal-instances/) Combine the power of Bare Metal with cloud automation
@@ -347,7 +347,7 @@ Log in to order, manage your products and services, and track your orders.
             * [MongoDB](https://www.ovhcloud.com/en/public-cloud/mongodb/) Run MongoDB as-a-Service on our trusted cloud
             * [MySQL](https://www.ovhcloud.com/en/public-cloud/mysql/) Deploy MySQL as a managed service in just a few clicks
             * [PostgreSQL](https://www.ovhcloud.com/en/public-cloud/postgresql/) Create your business applications with PostgreSQL
-            * [Redis™](https://www.ovhcloud.com/en/public-cloud/redis/) Add a cache to your architecture with Redis™
+            * [Caching](https://www.ovhcloud.com/en/public-cloud/redis/) Add a cache to your architecture
             * [Kafka](https://www.ovhcloud.com/en/public-cloud/apache-kafka/) Develop and deploy an event-driven architecture with Kafka
             * [OpenSearch](https://www.ovhcloud.com/en/public-cloud/opensearch/) NoSQL indexing, content search & analytics engine
             * [Kafka MirrorMaker](https://www.ovhcloud.com/en/public-cloud/kafka-mirrormaker/) Replicate data between your Kafka clusters
@@ -385,6 +385,7 @@ Log in to order, manage your products and services, and track your orders.
             
         * Data Platform Browse all our Data Platform products
             
+            * [Discover Data Platform Beta](https://www.ovhcloud.com/en/public-cloud/data-platform/) Collaborative data and analytics solution for accelerating your data journey: collect, process and store data to generate insights and make sound business decisions.
             * [Data Catalog Beta](https://www.ovhcloud.com/en/public-cloud/data-catalog/) Data Platform central repository for managing all data sources: connect, analyse and add blueprint rules.
             * [Data Processing Engine Beta](https://www.ovhcloud.com/en/public-cloud/data-processing-engine/) Data Platform automation service: transform data, run and orchestrate production-grade ETL/ELT workflows.
             * [Lakehouse Manager Beta](https://www.ovhcloud.com/en/public-cloud/lakehouse-manager/) Data Platform serverless data lake and warehouse service, designed for organising and storing analytics data.
@@ -522,7 +523,7 @@ Log in to order, manage your products and services, and track your orders.
         * Use Cases
         * Use Cases
             
-            * [Migrate to the cloud](https://www.ovhcloud.com/en/solutions/uc-cloud-migration/)
+            * [Migrate to the cloud](https://www.ovhcloud.com/en/hosted-private-cloud/uc-cloud-migration/)
             * [Hybrid cloud & Multi Cloud](https://www.ovhcloud.com/en/solutions/uc-hybrid-multi-cloud/)
             * [App Modernization](https://www.ovhcloud.com/en/solutions/uc-app-modernization/)
             * [Cloud Native App](https://www.ovhcloud.com/en/solutions/uc-cloud-native-app/)
@@ -574,7 +575,7 @@ Log in to order, manage your products and services, and track your orders.
         * Technology
         * Technology
             
-            * [VMware by Broadcom](https://www.ovhcloud.com/en/solutions/vmware/) VMware by Broadcom and OVHcloud solutions for all your projects
+            * [VMware by Broadcom](https://www.ovhcloud.com/en/solutions/uc-cloud-migration/) VMware by Broadcom and OVHcloud solutions for all your projects
             * [Nutanix](https://www.ovhcloud.com/en/solutions/nutanix/) Nutanix and OVHcloud solutions for your hybrid and multi-cloud environments
             * [SAP](https://www.ovhcloud.com/en/solutions/sap/) SAP on OVHcloud solutions for your ERP delivering a smooth, optimal experience
             * [NetApp](https://www.ovhcloud.com/en/solutions/netapp/) NetApp storage solutions with cost control and high performance
