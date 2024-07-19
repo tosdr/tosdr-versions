@@ -73,17 +73,6 @@
 
 **Info!** Please note that this translation has been provided at best effort, for your convenience. The English page remains the official version.
 
-### Policy
-
-* [Policy Development](https://afrinic.net/policy)
-    * [Consolidated Policy Manual](https://afrinic.net/policy/manual)
-        * [CPM Archive](https://afrinic.net/policy/manual/archive)
-    * [Current Proposals](https://afrinic.net/policy/proposals)
-    * [Policy Discussion](https://afrinic.net/policy/discussion)
-    * [Appeal Committee](https://afrinic.net/policy/appeal-committee)
-    * [PDWG](https://afrinic.net/policy/development-working-group)
-    * [Policy Archive](https://afrinic.net/policy/archive)
-
 ### Participate
 
 * [Participate](https://afrinic.net/participate)
@@ -392,7 +381,7 @@ Last Modified on - 20 January 2023
 * [](https://www.flickr.com/photos/afrinic/)
 * [](https://afrinic.net/news/feed?format=feed&type=rss)
 
-Date and time in Mauritius - 2024/06/21
+Date and time in Mauritius - 2024/07/19
 
 [Service Status](http://status.afrinic.net/ "AFRINIC Online Services Status") | [Changelog](https://afrinic.net/changelog) |  [](https://afrinic.net/support?lang=en)[Disclaimer](https://afrinic.net/website-use-terms?lang=en-GB) |  [Privacy](https://afrinic.net/privacy)
 
