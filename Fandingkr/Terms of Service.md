@@ -1117,7 +1117,7 @@ Terms of service
 
 Log In & Sign Up
 
-Log in now and connect with your favorite creators in a closer and more special way!
+Log in now and connect with your favorite creators in a closer, more special way!
 
 Log In
 
