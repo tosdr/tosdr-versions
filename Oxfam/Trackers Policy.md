@@ -120,6 +120,8 @@ Non-essential cookies are those which add features to the site, but aren't consi
 | NID | google.com (Ads via maps) | 6 months | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. |
 | usbl.#.c.# | Usabilla | Persistent | Used to track user feedback and aids us  in shaping the user journey on the website by getting to know the  user experiences |
 
+Share this page
+
 [social-facebook Facebook](https://facebook.com/sharer/sharer.php?u=https://www.oxfam.org/node/18357)
 
 [social-twitter Twitter](https://twitter.com/intent/tweet/?text=Cookies%20via%20@Oxfam&url=https://www.oxfam.org/node/18357)
