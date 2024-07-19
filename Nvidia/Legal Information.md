@@ -890,7 +890,7 @@ NVIDIA NVIDIA logo
 Our Work
 
 * [AI Computing Leadership](https://www.nvidia.com/en-eu/about-nvidia/i-am-ai/)
-* [Corporate Responsibility](https://www.nvidia.com/en-us/csr/)
+* [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
 * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
 * [Research](https://www.nvidia.com/en-us/research/)
 * [Technologies](https://www.nvidia.com/en-eu/technologies/)
@@ -928,7 +928,7 @@ Events
     * [Diversity and Inclusion](https://www.nvidia.com/en-eu/about-nvidia/careers/diversity-and-inclusion/)
 * Our Work
     * [AI Computing Leadership](https://www.nvidia.com/en-eu/about-nvidia/i-am-ai/)
-    * [Corporate Responsibility](https://www.nvidia.com/en-us/csr/)
+    * [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
     * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
     * [Research](https://www.nvidia.com/en-us/research/)
     * [Technologies](https://www.nvidia.com/en-eu/technologies/)
@@ -962,7 +962,7 @@ Events
 * Our Work
     * Our Work
     * [AI Computing Leadership](https://www.nvidia.com/en-eu/about-nvidia/i-am-ai/)
-    * [Corporate Responsibility](https://www.nvidia.com/en-us/csr/)
+    * [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
     * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
     * [Research](https://www.nvidia.com/en-us/research/)
     * [Technologies](https://www.nvidia.com/en-eu/technologies/)
@@ -1113,7 +1113,7 @@ Company Information
 * [Venture Capital (NVentures)](https://www.nventures.ai/)
 * [NVIDIA Foundation](https://www.nvidia.com/en-eu/foundation/)
 * [Research](https://www.nvidia.com/en-eu/research/)
-* [Social Responsibility](https://www.nvidia.com/en-eu/csr/)
+* [Corporate Sustainability](https://www.nvidia.com/en-eu/csr/)
 * [Technologies](https://www.nvidia.com/en-eu/technologies/)
 * [Careers](https://www.nvidia.com/en-eu/about-nvidia/careers/)
 
