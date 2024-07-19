@@ -359,7 +359,7 @@ Privacy Notice
 ==============
 
 **_Published on: 23 May 2018  
-Last updated on: 8 November 2023_**
+Last updated on: 8 July 2024_**
 
 This is the Privacy Notice for the F5 and NGINX brands. It explains the way that F5, Inc. and its affiliates (collectively "F5") handle information about you that is collected in the contexts described below. 
 
@@ -551,11 +551,11 @@ United Kingdom
 
 Data Protection Officer:  
 Dr. Felix Wittern  
-Fieldfisher  
-Am Sandtorkai 68  
+Fieldfisher Tech Rechtsanwaltsgesellschaft mbH  
+Amerigo Vespucci Platz 1  
 20457 Hamburg  
 Germany  
-[f5.dpo@fieldfisher.com](mailto:f5.dpo@fieldfisher.com) 
+f5.dpo@fieldfisher.com
 
 _(vi) Independent dispute resolution_
 
@@ -689,11 +689,11 @@ United Kingdom
 
 Data Protection Officer:  
 Dr. Felix Wittern  
-Fieldfisher  
-Am Sandtorkai 68  
+Fieldfisher Tech Rechtsanwaltsgesellschaft mbH  
+Amerigo Vespucci Platz 1  
 20457 Hamburg  
 Germany  
-[f5.dpo@fieldfisher.com](mailto:f5.dpo@fieldfisher.com) 
+f5.dpo@fieldfisher.com
 
 **13. Special details for California residents**
 
