@@ -38,7 +38,7 @@ Menu
 * Resources for You
     * [For Researchers](https://www.nlm.nih.gov/portals/researchers.html)
     * [For Publishers](https://www.nlm.nih.gov/portals/publishers.html)
-    * [For Librarians](ttps://www.nlm.nih.gov/portals/librarians.html)
+    * [For Librarians](https://www.nlm.nih.gov/portals/librarians.html)
     * [For Educators/Trainers](https://www.nlm.nih.gov/training.html)
     * [For Health care Professionals](https://www.nlm.nih.gov/portals/healthcare.html)
     * [For the Public](https://www.nlm.nih.gov/portals/public.html)
@@ -246,7 +246,7 @@ Transmission or reproduction of copyrighted items (beyond that allowed by [fair 
 **NLM Resources with Further Guidance:** Some NLM resources also have additional copyright and licensing policies and information, including:
 
 * [Copyright Information & Downloading National Library of Medicine Data](https://www.nlm.nih.gov/databases/download.html)
-* [Historical Collections Copyright Information](https://www.nlm.nih.gov/hmd/copyright/index.html) and [History of Medicine Division Patron Guide to Copyright and Historical Materials](https://www.nlm.nih.gov/hmd/copyright/patron-guide.html)
+* [Historical Collections Copyright Information](https://www.nlm.nih.gov/hmd/copyright/index.html) and [Patron Guide to Copyright and Historical Materials](https://www.nlm.nih.gov/hmd/copyright/patron-guide.html)
 * [MedlinePlus Copyright Information](https://medlineplus.gov/copyright.html)
 * [National Center for Biotechnology Information (NCBI) Website and Data Usage Policies and Disclaimers](https://www.ncbi.nlm.nih.gov/home/about/policies/)
 * [MedPix® Licensing Information](https://medpix.nlm.nih.gov/licensing)
@@ -286,13 +286,13 @@ Please use the following language to cite source materials:
 
 Source: National Library of Medicine; National Institutes of Health; U.S. Department of Health and Human Services.
 
-Last Reviewed: October 5, 2023
+Last Reviewed: June 26, 2024
 
 [Connect with NLM](https://www.nlm.nih.gov/socialmedia/index.html)
 
 * [![Facebook](https://www.nlm.nih.gov/images/facebook.svg)](https://www.facebook.com/nationallibraryofmedicine)
 * [![LinkedIn](//www.nlm.nih.gov/images/linkedin.svg)](https://www.linkedin.com/company/national-library-of-medicine-nlm/ "External link: please review our privacy policy.")
-* [![Twitter](//www.nlm.nih.gov/images/twitter.svg)](https://twitter.com/NLM_NIH "External link: please review our privacy policy.")
+* [![Twitter](https://www.nlm.nih.gov/images/twitter.svg)](https://twitter.com/NLM_NIH "External link: please review our privacy policy.")
 * [![You Tube](//www.nlm.nih.gov/images/youtube.svg)](https://www.youtube.com/user/NLMNIH "External link: please review our privacy policy.")
 * [![Government Delivery](//www.nlm.nih.gov/images/mail.svg)](https://public.govdelivery.com/accounts/USNLMOCPL/subscriber/new?preferences=true "External link: please review our privacy policy.")
 
