@@ -599,12 +599,12 @@ Get news and updates
 
 Enter your email
 
-#### Canary
+![](https://cdn.sanity.io/images/8iokmtkl/production/d4a90276f5218180e147b5a2d47f462e11af0b2e-155x56.svg?auto=format)
 
 © 2014-2024 Canary Connect, Inc.  
 Designed in NYC
 
-[![facebook icon](https://cdn.sanity.io/images/8iokmtkl/production/9df9633fbab9268db5b1ca9899b9747dbc8c5288-13x24.svg?auto=format)](https://www.facebook.com/canary.is)[![twitter](https://cdn.sanity.io/images/8iokmtkl/production/5a5babc07a15aec3d1e83f53c46fe4e833d143c3-26x20.svg?auto=format)](https://twitter.com/canary)[![instagram icon](https://cdn.sanity.io/images/8iokmtkl/production/d17f85c0387ec0589eaa7edaffe300704d7fe582-24x24.svg?auto=format)](https://www.instagram.com/caughtbycanary/)[![youtube icon](https://cdn.sanity.io/images/8iokmtkl/production/38e4d8dc9be49962e790fb581e433494ef436aed-30x22.svg?auto=format)](https://www.youtube.com/c/CanarySmartCameras/featured)
+[![facebook icon](https://cdn.sanity.io/images/8iokmtkl/production/9df9633fbab9268db5b1ca9899b9747dbc8c5288-13x24.svg?auto=format)](https://www.facebook.com/canary.is)[![x](https://cdn.sanity.io/images/8iokmtkl/production/a235421125afe95e8c4f33efd53612cb7f8dd60d-25x23.svg?auto=format)](https://x.com/canary)[![instagram icon](https://cdn.sanity.io/images/8iokmtkl/production/d17f85c0387ec0589eaa7edaffe300704d7fe582-24x24.svg?auto=format)](https://www.instagram.com/caughtbycanary/)[![youtube icon](https://cdn.sanity.io/images/8iokmtkl/production/38e4d8dc9be49962e790fb581e433494ef436aed-30x22.svg?auto=format)](https://www.youtube.com/c/CanarySmartCameras/featured)
 
 [Terms of Service](https://canary.is/legal)
 
