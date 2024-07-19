@@ -85,7 +85,7 @@ Privacy Policies
 
 -------------------
 
-These Services are provided in accordance with our Privacy Policy, which can be found at [http://platoapp.com/privacy](http://platoapp.com/privacy). You agree to the use of your User Content and personal information in accordance with these Terms and Plato’s Privacy Policy.  
+These Services are provided in accordance with our Privacy Policy, which can be found at [https://platoapp.com/privacy](https://platoapp.com/privacy). You agree to the use of your User Content and personal information in accordance with these Terms and Plato’s Privacy Policy.  
 
 Modification and Termination of Services  
 
