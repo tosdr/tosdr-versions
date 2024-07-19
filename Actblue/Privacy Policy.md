@@ -11,6 +11,8 @@
 Privacy Policy
 --------------
 
+**\*\*\* We've updated this policy. Please see the [newer version](https://secure.actblue.com/legal-privacy) which takes effect on August 1, 2024. \*\*\***
+
 This privacy policy describes how we use your personal information. It applies to activity on our site related to ActBlue and all of its associated entities (including ActBlue Civics and ActBlue Charities). As used in this policy, the term “personal information” means information that can be directly associated with an individual and includes names, addresses, telephone numbers, email addresses, etc.
 
 ### E-mail addresses
