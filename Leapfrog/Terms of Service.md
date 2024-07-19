@@ -67,7 +67,6 @@
     * [Music](https://store.leapfrog.com/en-us/app-center/c?content_type=493 "Music")
     * [Expansion Packs](https://store.leapfrog.com/en-us/app-center/c?content_type=614 "Expansion Packs")
     * [Flash Cards](https://store.leapfrog.com/en-us/app-center/c?content_type=620 "Flash Cards")
-    * [Foreign Language](https://store.leapfrog.com/en-us/app-center/c?content_type=597 "Foreign Language")
     
     * SHOP APPS BY PRICE
     * [$5 and under](https://store.leapfrog.com/en-us/app-center/c?price_filter=83 "$5 and under")
