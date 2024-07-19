@@ -1,10 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)    
-
-    
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)            
 
                   
-
-Men's Health Month - [Save 15% Off Today](https://omaxhealth.com/discount/HEALTH2024?redirect=%2Fproducts%2Fflomentum)
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -228,7 +224,6 @@ FOLLOW US
 * [Instagram](http://instagram.com/omaxhealth)
 * [Youtube](https://www.youtube.com/omaxhealth)
 * [Facebook](https://facebook.com/omaxhealth)
-* [Affiliate Program](https://omaxhealth.leaddyno.com/)
 
 [Terms of Use](https://omaxhealth.com/pages/terms) | [Privacy Policy](https://omaxhealth.com/pages/privacy-policy) | [SMS Terms & Conditions](https://omax-health.myklpages.com/p/mobile-terms-of-service)
 
@@ -305,21 +300,21 @@ Go to product page
 
 ### Let customers speak for us
 
-[3322 reviews](https://omaxhealth.com/pages/reviews)
+[3338 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3012)
+(3024)
 
 5%
 
-(170)
+(172)
 
 2%
 
-(65)
+(67)
 
 1%
 
@@ -329,34 +324,34 @@ Go to product page
 
 (49)
 
-2133
+2148
 
-T
+Y
 
-[CryoFreeze® CBD Oil Rapid Relief Drops](https://omaxhealth.com/products/cryofreeze-cbd-rapid-relief-drops#judgeme_product_reviews)
+[CryoFreeze® X-Strength Roll-On & Cream Duo](https://omaxhealth.com/products/cryofreeze-x-strength-roll-on-cream-duo#judgeme_product_reviews)
 
-Teri C.
+Yvonne L.
 
-Husband loves. Relieves pain without feeling hazy.
+**This Combo is 5 STAR**
 
-T
+The cream is fantastic. It is a wonderful compliment to the roll on. The menthol cooling effect of the cream is soothing to my 76 yo aches and pains.
+
+G
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+GWEN C.
+
+Product is superb and customer service is superior!
+
+L
 
 [Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
 
-Terry T.
+Lea B.
 
-**Fish oil**
+**Neck pain**
 
-Just what the doctor ordered.
-
-M
-
-[CryoFreeze® CBD Roll-On & Cream Duo](https://omaxhealth.com/products/cryofreeze-cooling-relief-duo#judgeme_product_reviews)
-
-Michael B.
-
-**Aches and pains**
-
-I am 56 years old and have my share aches and pains. Bad rotator cuff etc. I love the cryofreeze products. Goes to work right away and really penetrates and relieves the pain.
+I’m an active 61 and since I was 31 I’ve had electric pain shocks in my neck due to injury and have two herniated discs. I started omax around 3 years ago and It took about a month of omax but my electric pain has been gone. So for me, it’s Truely improved my life. Also my cardiologist is very happy with the quality of this product
 
 Load More
