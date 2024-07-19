@@ -8,9 +8,6 @@
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refill Packs](https://www.blueland.com/collections/refills)
-    * [Subscribe & Save
-        
-        Save up to 20%](https://www.blueland.com/collections/subscriptions)
     
     Offset
     
@@ -40,9 +37,6 @@ Toggle navigation menu
 0
 
 * [Shop All](https://www.blueland.com/collections/all)
-* [Subscribe & Save
-    
-    Up to 20% off](https://www.blueland.com/collections/subscriptions)
 * [Bestsellers](https://www.blueland.com/collections/bestsellers)
 * [Starter Kits](https://www.blueland.com/collections/starter-kits)
 * [Refills](https://www.blueland.com/collections/refills)
@@ -399,7 +393,6 @@ Oops, something went wrong
 * ### Shop
     
     * [All](https://www.blueland.com/collections/all)
-    * [Subscribe & Save](https://www.blueland.com/collections/subscriptions)
     * [Starter Kits](https://www.blueland.com/collections/starter-kits)
     * [Refills](https://www.blueland.com/collections/refills)
     * [Bestsellers](https://www.blueland.com/collections/bestsellers)
@@ -428,7 +421,7 @@ Oops, something went wrong
 * ### Good Stuff
     
     * ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png)
-    * ![Climate Neutral Certification Badge](https://cdn.sanity.io/images/d864s8gp/production/bde1fd0819f54535144aa85f9ba2b6bccb38c516-300x431.jpg)
+    * ![Climate Neutral Certification](https://cdn.sanity.io/images/d864s8gp/production/642db334d2cdcb0946903582cc92647213cb1f49-300x430.png)
 
 Shop
 
@@ -457,7 +450,7 @@ Help
 * [Accessibility Tool](#accessibility-tools)
 
 * ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png)
-* ![Climate Neutral Certification Badge](https://cdn.sanity.io/images/d864s8gp/production/bde1fd0819f54535144aa85f9ba2b6bccb38c516-300x431.jpg)
+* ![Climate Neutral Certification](https://cdn.sanity.io/images/d864s8gp/production/642db334d2cdcb0946903582cc92647213cb1f49-300x430.png)
 
 * [hello@blueland.com](https://help.blueland.com/en-US/contact)
 * [Terms & Conditions](https://www.blueland.com/terms-and-conditions)
@@ -481,9 +474,9 @@ Copyright 2024 Blueland
     
     ![B Corp Certification](https://cdn.sanity.io/images/d864s8gp/production/abd9e30d9f0f3d79d061f4c297ff3fe94b858a6c-261x400.png?w=60&q=100&fit=clip&auto=format)
     
-* ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![Climate Neutral Certification Badge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2760%27%20height=%2791%27/%3e)![Climate Neutral Certification](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Climate Neutral Certification Badge](https://cdn.sanity.io/images/d864s8gp/production/bde1fd0819f54535144aa85f9ba2b6bccb38c516-300x431.jpg?w=60&q=100&fit=clip&auto=format)
+    ![Climate Neutral Certification](https://cdn.sanity.io/images/d864s8gp/production/642db334d2cdcb0946903582cc92647213cb1f49-300x430.png?w=60&q=100&fit=clip&auto=format)
     
 
 Your Cart
@@ -540,6 +533,10 @@ Quick Add
 [![Laundry Starter Set](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
+
+![Blueland: Eco-Friendly Cleaning Products](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/847fff37b437c589680f7172ac66be994245d177-1790x1790.jpg?w=900&q=100&fit=clip&auto=format)
 
 Bestseller](https://www.blueland.com/products/laundry-starter-set)
 
