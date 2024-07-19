@@ -25,8 +25,6 @@ Header Buttons
 * [Member Sign In](https://members.lacare.org/)
 * [Provider Sign in](https://www.lacare.org/providers)
 
-IMPORTANT: Medi-Cal renewals have begun. Your local Medi-Cal office will send you a letter or a renewal form to complete. Complete your renewal by the due date printed on the form. If you don’t, you could lose your Medi-Cal coverage. Go to [benefitscal.com](https://benefitscal.com/) or call the Los Angeles County Department of Public Social Services at [1-866-613-3777](tel:+1-866-613-3777)
-
 Main navigation
 ---------------
 
@@ -324,27 +322,27 @@ We may amend this Policy from time to time. We will publically post such changes
 
 Resources
 
-[Notice of Privacy Practices (English)](https://www.lacare.org/sites/default/files/la0875_nopp_en_202405.pdf "la0875_nopp_en_202405.pdf")
+[Notice of Privacy Practices (English)](https://www.lacare.org/sites/default/files/la0875_nopp_en_202405_0.pdf "la0875_nopp_en_202405.pdf")
 
-[Notice of Privacy Practices (Spanish)](https://www.lacare.org/sites/default/files/la0875_nopp_sp_202405.pdf "la0875_nopp_sp_202405.pdf")
+[Notice of Privacy Practices (Spanish)](https://www.lacare.org/sites/default/files/la0875_nopp_sp_202405_0.pdf "la0875_nopp_sp_202405.pdf")
 
-[Notice of Privacy Practices (Chinese)](https://www.lacare.org/sites/default/files/la0875_nopp_ch_202405.pdf "la0875_nopp_ch_202405.pdf")
+[Notice of Privacy Practices (Chinese)](https://www.lacare.org/sites/default/files/la0875_nopp_ch_202405_0.pdf "la0875_nopp_ch_202405.pdf")
 
-[Notice of Privacy Practices (Korean)](https://www.lacare.org/sites/default/files/la0875_nopp_ko_202405.pdf "la0875_nopp_ko_202405.pdf")
+[Notice of Privacy Practices (Korean)](https://www.lacare.org/sites/default/files/la0875_nopp_ko_202405_0.pdf "la0875_nopp_ko_202405.pdf")
 
-[Notice of Privacy Practices (Armenian)](https://www.lacare.org/sites/default/files/la0875_nopp_ar_202405.pdf "la0875_nopp_ar_202405.pdf")
+[Notice of Privacy Practices (Armenian)](https://www.lacare.org/sites/default/files/la0875_nopp_ar_202405_0.pdf "la0875_nopp_ar_202405.pdf")
 
-[Notice of Privacy Practices (Russian)](https://www.lacare.org/sites/default/files/la0875_nopp_ru_202405.pdf "la0875_nopp_ru_202405.pdf")
+[Notice of Privacy Practices (Russian)](https://www.lacare.org/sites/default/files/la0875_nopp_ru_202405_0.pdf "la0875_nopp_ru_202405.pdf")
 
-[Notice of Privacy Practices (Tagalog)](https://www.lacare.org/sites/default/files/la0875_nopp_ta_202405.pdf "la0875_nopp_ta_202405.pdf")
+[Notice of Privacy Practices (Tagalog)](https://www.lacare.org/sites/default/files/la0875_nopp_ta_202405_0.pdf "la0875_nopp_ta_202405.pdf")
 
-[Notice of Privacy Practices (Vietnamese)](https://www.lacare.org/sites/default/files/la0875_nopp_vi_202405.pdf "la0875_nopp_vi_202405.pdf")
+[Notice of Privacy Practices (Vietnamese)](https://www.lacare.org/sites/default/files/la0875_nopp_vi_202405_0.pdf "la0875_nopp_vi_202405.pdf")
 
-[Notice of Privacy Practices (Farsi)](https://www.lacare.org/sites/default/files/la0875_nopp_fa_202405.pdf "la0875_nopp_fa_202405.pdf")
+[Notice of Privacy Practices (Farsi)](https://www.lacare.org/sites/default/files/la0875_nopp_fa_202405_0.pdf "la0875_nopp_fa_202405.pdf")
 
-[Notice of Privacy Practices (Khmer/Cambodian)](https://www.lacare.org/sites/default/files/la0875_nopp_kh_202405.pdf "la0875_nopp_kh_202405.pdf")
+[Notice of Privacy Practices (Khmer/Cambodian)](https://www.lacare.org/sites/default/files/la0875_nopp_kh_202405_0.pdf "la0875_nopp_kh_202405.pdf")
 
-[Notice of Privacy Practices (Arabic)](https://www.lacare.org/sites/default/files/la0875_nopp_ab_202405.pdf "la0875_nopp_ab_202405.pdf")
+[Notice of Privacy Practices (Arabic)](https://www.lacare.org/sites/default/files/la0875_nopp_ab_202405_0.pdf "la0875_nopp_ab_202405.pdf")
 
 Have Questions? [Contact us](https://www.lacare.org/about/contact-us).
 
