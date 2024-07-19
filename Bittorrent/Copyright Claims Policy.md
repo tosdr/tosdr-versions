@@ -159,6 +159,6 @@ Would you like to download BitTorrent Web for Windows?
 
 * * *
 
-Version 1.2.24 © 2024 BitTorrent Limited All Rights Reserved.
+Version 1.2.25 © 2024 BitTorrent Limited All Rights Reserved.
 
 [EULA](https://www.bittorrent.com/legal/eula/) | [Copyright](https://www.bittorrent.com/legal/copyright/) | [Terms of Use](https://www.bittorrent.com/legal/terms-of-use/) | [Privacy](https://www.bittorrent.com/legal/privacy-policy/)
