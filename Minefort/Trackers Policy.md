@@ -1,6 +1,6 @@
 Open main menu
 
-[Minefort.com![](https://cdn.minefort.com/img/logo-white.svg)![](https://cdn.minefort.com/img/icon.svg)](https://minefort.com/)
+[Minefort.com![Minefort Logo](https://cdn.minefort.com/img/logo-white.svg)![Minefort Icon Logo](https://cdn.minefort.com/img/icon.svg)](https://minefort.com/)
 
 [Features](https://minefort.com/#features)[Server List](https://minefort.com/server-list)[Pricing](https://minefort.com/pricing)[Blog](https://minefort.com/blog)[Support](https://minefort.com/support)
 
@@ -261,7 +261,6 @@ Minefort.com
 
 ### About Us
 
-* [General](https://minefort.com/about-us)
 * [Blog](https://minefort.com/blog)
 * [Pricing](https://minefort.com/pricing)
 * [Affiliate Program](https://minefort.com/support/general/affiliate-program)
@@ -316,4 +315,4 @@ Minefort.com
 
 Not affiliated with Mojang, AB. Nor should we be considered a company endorsed by Mojang, AB.
 
-Email: info@minefort.com - Phone: +31 970 102 07076
+Email: [info@minefort.com](mailto:info@minefort.com) - Phone: [+31 970 102 07076](tel:+3197010207076)
