@@ -4,9 +4,7 @@
 
 [Skip to content](#content)
 
-[![ABS Kids](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20100'%3E%3C/svg%3E)
-
-![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
+[![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
 
 * [Portal Login](https://www.abskids.com/portal-login/)
     * [Payment Portal](https://www.patientnotebook.com/abskids/Enhanced/StatementLookup/Home)
@@ -46,7 +44,7 @@
     * [Board-Certified Behavior Analyst (BCBA)](https://www.abskids.com/careers/board-certified-behavior-analyst-bcba/)
     * [Tuition Assistance](https://www.abskids.com/careers/tuition-assistance/)
 * [Get Started](https://www.abskids.com/contact/)
-* [Apply Now](https://careers-abskids.icims.com/jobs/intro)
+* [Apply Now](https://www.abskids.com/careers/job-openings/)
 
 * [Services](https://www.abskids.com/services/)
     * [Services](https://www.abskids.com/services/)
@@ -77,7 +75,7 @@
     * [Board-Certified Behavior Analyst (BCBA)](https://www.abskids.com/careers/board-certified-behavior-analyst-bcba/)
     * [Tuition Assistance](https://www.abskids.com/careers/tuition-assistance/)
 * [Get Started](https://www.abskids.com/contact/)
-* [Apply Now](https://careers-abskids.icims.com/jobs/intro)
+* [Apply Now](https://www.abskids.com/careers/job-openings/)
 
 * [Portal Login](https://www.abskids.com/portal-login/)
     * [Payment Portal](https://www.patientnotebook.com/abskids/Enhanced/StatementLookup/Home)
@@ -121,7 +119,7 @@ Notice of Privacy Practices
     * [Board-Certified Behavior Analyst (BCBA)](https://www.abskids.com/careers/board-certified-behavior-analyst-bcba/)
     * [Tuition Assistance](https://www.abskids.com/careers/tuition-assistance/)
 * [Get Started](https://www.abskids.com/contact/)
-* [Apply Now](https://careers-abskids.icims.com/jobs/intro)
+* [Apply Now](https://www.abskids.com/careers/job-openings/)
 
 THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN ACCESS THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.  
 
@@ -190,9 +188,7 @@ Find a Location
 
 [View Locations](https://www.abskids.com/locations/)
 
-[![ABS Kids](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20100'%3E%3C/svg%3E)
-
-![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
+[![ABS Kids](https://www.abskids.com/wp-content/uploads/ABS-Kids_VF_Screen.svg)](https://www.abskids.com/)
 
 * [Services](https://www.abskids.com/services/)
 * [Locations](https://www.abskids.com/locations/)
