@@ -2,6 +2,8 @@
 
   
 
+[Out with the old, IN WITH THE BOLD! We're making room for new things. Enjoy up to 50% off!](https://georgenotfound.shop/collections/summer-blowout)
+
     
 
 * Shop
@@ -328,7 +330,7 @@ USD $ | United States
     * [Skeppy](https://skeppyshop.com/)
     
 
- Search[![](//georgenotfound.shop/cdn/shop/t/55/assets/cart-sad.svg?v=99485669083633826651718114125 )](https://georgenotfound.shop/cart)Cart
+ Search[![](//georgenotfound.shop/cdn/shop/t/56/assets/cart-sad.svg?v=99485669083633826651719604014 )](https://georgenotfound.shop/cart)Cart
 
 Item added to your cart
 -----------------------
