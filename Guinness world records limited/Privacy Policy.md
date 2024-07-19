@@ -111,16 +111,16 @@ Privacy Policy
 
 ### Introduction
 
-THESE TERMS & CONDITIONS WERE LAST UPDATED ON 1st SEPTEMBER 2017
+THESE TERMS & CONDITIONS WERE LAST UPDATED ON 27 June 2024
 
 Are you under 18? [See our kids friendly Privacy summary here >](https://kids.guinnessworldrecords.com/using-this-website/privacy-policy)
 
 Guinness World Records Limited (**“GWR”** or **“us”** or **“we”** or **“our”**) respects the privacy of individuals and is committed to providing and maintaining a safe, secure and transparent environment to protect the personal data you supply to us. This Privacy Policy relates to our use of any personal data we collect from you via the following means:
 
-* guinnessworldrecords.com, related sub-domains, counterpart sites in other languages and any other GWR website that links to this Privacy Policy (the/ this “Site”);
-* digital applications made available through third party platforms (the “Apps”);
+* guinnessworldrecords.com, gwrstore.com, related sub-domains, counterpart sites in other languages and any other GWR website that links to this Privacy Policy (the/ this “Site”);
+* the GWR Events app and other GWR digital applications (the “Apps”);
 * telephone and written correspondence including email, text and letters; and
-* directly from you in person, for example at a GWR event, challenge fair or third party event in which GWR participates (the “Events”).
+* directly from you in person, for example at a GWR event, challenge fair or third party event in which GWR participates (the “Events”), whether collected via the GWR Events app or by other means.
 
 (the Site, the Apps and the Events are collectively known as the “GWR Products & Services”).
 
@@ -161,9 +161,10 @@ Certain of the GWR Products & Services may request personal data from the user. 
 With under-13s, our collection of personal data is limited to the following areas:
 
 * **Submitting a record attempt application:** A child can submit a claim for a record attempt to us by creating a personal account. As part of this process, an email address for verifying the account and the name and date of birth of the user will need to be provided. However, the child will be asked to have a parent or guardian to get in touch with us by email. Where consent is subsequently received, personal data collected as part of this process will be used in accordance with the terms of a separate agreement that we require all applicants to enter into;
-* **Email updates:** A child can sign up to receive updates from us. For this they will need to create a personal account as detailed in the above section. Where they are under 13, the user will then be asked to have a parent or guardian to get in touch with us by email. A parent will then be asked to provide their consent to their child signing up. At any time, the parent or child can unsubscribe. In relation to your email address, we only store this for the purposes of contacting you about your child’s wish to sign up for email updates;
+* **Email updates:** A child can sign up to receive updates from us. For this they will need to create a personal account as detailed in the above section. Where they are under 13, the user will then be asked to have a parent or guardian to get in touch with us by email. A parent or guardian will then be asked to provide their consent to their child signing up. At any time, the parent or child can unsubscribe. In relation to your email address, we only store this for the purposes of contacting you about your child’s wish to sign up for email updates;
 * **Competitions:** We provide competitions through the GWR Products & Services from time to time. The terms of each competition will govern whether or not under-13s may enter. Where an under-13 may enter the competition, we will ask for an email address. We will also require an email address of the child's parent or legal guardian to be provided as well. A child's email address will only be collected by us to administer the competition and will be immediately deleted after the winning name has been chosen or the winning person has collected his/ her prize; and
 * **Quizzes:** From time to time through the GWR Products & Services we may feature quizzes for a child to compete in, and we may publish the child's scores on our global quiz scoreboard together with the child’s name and their country of domicile.
+* **GWR Events**: If a child takes part in a record attempt or other GWR event, we may require their personal information as part of their registration for the event.  If they are under 13, a parent or guardian will be asked sign-up on their child’s behalf or to provide their consent to their child signing-up
 
 THIRD PARTY ADVERTISEMENTS 
 
@@ -171,21 +172,20 @@ We may include on the GWR Products & Services advertisements from third parties,
 
 These third parties may use information (not including your name, address, email address or telephone number) about your visits to this Site and other GWR Products & Services in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see details in our [Cookie Policy](https://www.guinnessworldrecords.com/using-this-website/cookie-policy.html "Cookie policy"). 
 
-We use the services of Ezoic Limited (“Ezoic”) to deliver interest-based ads, content and services to you on our site. To enable this service to work, we allow Ezoic to collect certain anonymous information from our website users (e.g., online identifiers and browsing activity) so that Ezoic can serve ads that are more likely to interest you. For more information about what information Ezoic collects and how they store and use it, please see [Ezoic’s privacy policy here.](https://www.guinnessworldrecords.com/)
-
 In relation to children’s use of the GWR Products & Services, we do not permit interest-based advertising on elements of a product or service specifically directed to children under 13 or where we have actual knowledge that a child is under 13.
 
 ### How will GWR use the information it collects about me?
 
 GWR will use your personal data for the following purposes:
 
-* to ensure that the GWR Database is accurate and kept up to date;
+* to ensure that the Guinness World Records Database is accurate and kept up to date;
 * to personalise and enhance the GWR Products & Services and your user-experience of them;
 * for internal marketing and demographic studies;
-* to comply with applicable laws or requests by law enforcement agencies; and
-* to protect the rights, property or safety of the GWR Products & Services and those that use them.
+* to comply with applicable laws or requests by law enforcement agencies;
+* to protect the rights, property or safety of the GWR Products & Services and those that use them; and
+* if applicable, to confirm your participation in an Event.
 
-In the event that GWR proposes to use your personal data for any use not referenced above, we will ensure we have your consent in order to do.
+If GWR proposes to use your personal data for any use not referenced above, we will ensure we have your consent in order to do.
 
 The GWR Database acts as a unique repository of the world’s superlative facts and feats. Due to the archiving nature of GWR’s activities, we may store your personal data for a significant period of time. This ensures that, for example, in the event of a broken record, we are able to draw on the knowledge kept in the GWR Database to inform our audiences of the most current record-holder.
 
@@ -194,6 +194,7 @@ The GWR Database acts as a unique repository of the world’s superlative facts 
 GWR may contact you:
 
 * as part of your record attempt application, including any evidence you have submitted to us;
+* to inform you whether a record attempt in which you have participated has been successful;
 * for “service administration purposes” – for example, to provide you with notifications on service updates, changes to this Privacy Policy, our Terms & Conditions, or a matter relating to an account you have created or material you have uploaded to the Site;
 * for marketing purposes, where you have provided us with your consent;
 * for non-marketing purposes, such as to gather feedback or as part of our customer service to you;
@@ -206,6 +207,10 @@ If you have previously consented to receive marketing emails from GWR and no lon
 ### Will GWR share my data with anyone else?
 
 As GWR has several international offices, GWR representatives may be required to share your personal data between these offices. For example your record attempt application may be processed by a New York-based GWR representative with a specific expertise in a subject which is not covered by our London office. We may also share personal data collected from one of the GWR Products & Services with any other of the GWR Products & Services.
+
+If you buy any products from GWR’s online shop, we will share any personal data that you provide to us during your purchase with our third-party fulfilment and distribution partners so that they can process your order and send your products to you.
+
+If you submit your information to us using the GWR Events app, this information may be stored by the app’s operator vFairs LLC in its servers.  If you have consented to it, we may transfer your personal data to the GWR client who organised the Event that you attended.
 
 More generally, we will keep your personal data within GWR except where disclosure is required or permitted by law, or where you have given your consent for it to be shared with a third party. 
 
@@ -302,6 +307,7 @@ From time to time, and at any time, this Privacy Policy may be revised or change
 * [Life at GWR](https://www.guinnessworldrecords.com/about-us/life-at-gwr/index.html)
 * [Careers](https://www.guinnessworldrecords.com/about-us/life-at-gwr/careers.html)
 * [Our purpose, vision, mission and values](https://www.guinnessworldrecords.com/about-us/our-purpose-vision-mission-and-values/index.html)
+* Our policies
 * [Sustainability & the environment](https://www.guinnessworldrecords.com/about-us/our-commitments/sustainability-and-the-environment.html)
 * [Diversity & inclusion](https://www.guinnessworldrecords.com/about-us/our-commitments/diversity-and-inclusion.html)
 * [GWR Tax strategy](https://www.guinnessworldrecords.com/about-us/our-story/gwr-tax-strategy.html)
