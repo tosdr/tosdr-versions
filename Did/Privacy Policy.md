@@ -1,4 +1,4 @@
-Want to learn how OUR team uses GenAI to create engaging marketing campaigns? Join our webinar>> [Register now!](https://us02web.zoom.us/webinar/register/1217126465034/WN_m4C9Sp1iT4OJlmiNjtGtKg)
+How can AI avatars be used for good? Find out on July 24th >> [Register now](https://www.d-id.com/resources/webinars/d-id-academy-webinar-leveraging-avatars-for-good/)
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2066%2053'%3E%3C/svg%3E)
 
@@ -48,7 +48,7 @@ D-ID Privacy Policy
 * [Studio EULA](https://www.d-id.com/studio-end-user-license-agreement/)
 * [End User Agreement](https://www.d-id.com/eua/)
 
-_Last Updated: April 4th, 2024_
+_Last Updated: June 24th, 2024_
 
 This privacy policy (“**Privacy Policy**”) governs how we, De-Identification Ltd. and De-Identification Inc. (together, “**D-ID**”, “**we**”, “**our**” or “**us**”) use, collect and store Personal Data we collect or receive from or about you (“**you**”) such as in the following use cases:
 
@@ -70,11 +70,13 @@ e) When you interact with us on our social media profiles (e.g., Facebook, Insta
 f) When you make use of, or interact with, our web application, mobile software applications or the D-ID plugins (including AI Presenters for PowerPoint) or our application programming interface software that is called or queried under an API Call (collectively, the “**Software**“): 
 
 (i) When you create an account and when you log in;  
-(ii) When you upload photos, text and/or audio, for creating video animations (“**Animation(s)**”) and/or receiving an output;   
+(ii) When you upload photos, text, video and/or audio, for creating video animations (“**Animation(s)**”) and/or receiving an output;   
 (iii) When you connect to get and/or share your Animations; and  
 (iv) When you upgrade to become a Paying User.
 
-Please read this Privacy Policy carefully, so you can understand our practices and your rights in relation to personal data. “**Personal Data**” means any information that can be used, alone or together with other data, to uniquely identify any living human being and any information deemed as Personally Identifiable Information by privacy laws. Please note that this is a master privacy policy and some of its provisions only apply to individuals in certain jurisdictions. For example, the legal basis in the table below is only relevant to GDPR-protected individuals. “**Applicative Data**” means any data submitted to the Software for processing. **Important note**: Nothing in this Privacy Policy is intended to limit in any way your statutory right, including your rights to a remedy or means of enforcement.
+Please read this Privacy Policy carefully, so you can understand our practices and your rights in relation to personal data. “**Personal Data**” means any information that can be used, alone or together with other data, to uniquely identify any living human being and any information deemed as Personally Identifiable Information by privacy laws and including but not limited to, email address, phone number, mailing address, and other contact information as well as IP addresses, device identifiers and other unique identifiers. Please note that this is a master privacy policy and some of its provisions only apply to individuals in certain jurisdictions. For example, the legal basis in the table below is only relevant to GDPR-protected individuals.
+
+“**Applicative Data**” means any data submitted to the Software for processing and including but not limited to, usage data such as features used, time spent, interaction data, system logs, referral data, content interactions and creation (including voice cloning) and performance data. In this respect please note the following: Nothing in this Privacy Policy is intended to limit in any way your statutory right, including your rights to a remedy or means of enforcement. You further acknowledge that D-ID is unaware of Personal Data, if any, that you may or may not include as part of the Applicative Data uploaded for processing and D-ID hereby advises you to follow the Privacy by Design methodologies and to minimize, if not to eliminate, providing any unnecessary Personal Data.
 
 **Table** **of** **contents**: 
 
@@ -208,7 +210,7 @@ We may share your Personal Data as follows:
 
 4. **ADDITIONAL INFORMATION REGARDING TRANSFERS OF PERSONAL DATA** 
 
-4. 1\. Storage: We store the Personal Data with the following storing companies: Salesforce and Hubspot with servers located in the US (with respect to the Website); AWS with servers located in Oregon, USA (with respect to the Software and Applicative Data). 
+4. 1\. Storage: We store the Personal Data with the following storing companies: Salesforce, Hubspot and ZenDesk with servers located in the US (with respect to the Website); AWS with servers located in Oregon, USA (with respect to the Software and Applicative Data). 
 
 4. 2\. External transfers: Where we transfer your Personal Data outside of EU/EEA (for example to third parties who provide us with services), we will generally obtain contractual commitments from them to protect your Personal Data. When D-ID engages in such transfers of Personal Data, it relies on i) Adequacy Decisions as adopted by European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR) (for example, when we access from Israel), or ii) Standard Contractual Clauses issued by the European Commission. D-ID also continually monitors the circumstances surrounding such transfers in order to ensure that these maintain, in practice, a level of protection that is essentially equivalent to the one guaranteed by the GDPR. 
 
@@ -244,6 +246,7 @@ We may share your Personal Data as follows:
 * **Firebase Analytics**. We also use “**Google Analytics for Firebase**” with respect to the Software. By enabling this tool, we enable the collection of data about Software Users, including via [identifiers for mobile devices](https://www.google.com/policies/technologies/ads/), cookies and similar technologies. We use the information we get from Google Analytics for Firebase to maintain and improve our App(s). We do not facilitate the merging of personally-identifiable information with non-personally identifiable information unless we have robust notice of, and your prior affirmative (i.e., opt-in) consent to, that merger. Finally, please note that Google Analytics for Firebase’s terms (available at [https://firebase.google.com/terms/](https://firebase.google.com/terms/)) shall also apply. 
 * **Mixpanel**. As part of the Software, we collect Personal Data such as your email address and your user activity through the use of Mixpanel. Mixpanel’s ability to use and share information is governed by the Mixpanel Terms of Use, available at [https://mixpanel.com/terms/](https://mixpanel.com/terms/), and the Mixpanel Privacy Policy, available at [https://mixpanel.com/privacy/](http://www.cooladata.com/privacy/). You can opt-out of Mixpanel’s services by clicking on the following link: [https://mixpanel.com/optout/](https://mixpanel.com/optout/).
 * **Hubspot**. As part of the Software, some Personal Data may be used on Hubspot, such as support tickets and contact details.
+* **ZenDesk**. As part of the Software, some Personal Data may be used on ZenDesk, such as support tickets and contact details.
 
 We reserve the right to remove or add new analytic tools.
 
@@ -263,21 +266,24 @@ We use commercially reasonable efforts to retain non-customer Personal Data and 
 
 11. 2.  While in the storage, awaiting processing or deletion, the Applicative Data is not accessed for any purpose, including not accessed for model training.
 
-11. 3.  Users may set a “persist” flag when uploading the data via the API in which case it will be kept, on an encrypted AWS S3 storage, until erased by the user (See the delete function for every entry in the api doc).
+11. 3.  Users may set a “persist” flag when uploading the data via the API in which case it will be kept, on an encrypted AWS S3 storage, until erased by the user (See the delete function for every entry in the api doc https://docs.d-id.com/reference/get-started). Knowledge Documents which are uploaded to the Agent, in order to constitute a knowledge base for such Agent and in turn serves as the basis for the response for such Agent’s users, are persistent.
 
-11. 4.  You may optionally provide via the API a signed URL pointing to the input data at their AWS S3 storage and optionally provide a signed URL pointing to their AWS S3 storage for placing the result in which case the result is not stored in D-ID’s system.
+11. 4.  Users may optionally provide via the API a signed URL pointing to the input data at their AWS S3 storage and optionally provide a signed URL pointing to their AWS S3 storage for placing the result in which case the result is not stored in D-ID’s system.
 
 11. 5.  Applicative Data uploaded through the web [https://studio.d-id.com/](https://studio.d-id.com/) is kept as persistent until erased by the user at the studio website. Data uploaded to the studio will be visible in the studio’s webpage and may be deleted by the user at any time.
 
 11. 6.  The user may query the SaaS API for all persistent data elements. Those can be erased via the Delete APIs at any time.
 
-11. 7.  D-ID may delete the information 14 days after contract expiration and after sending an email notification.
+11. 7.  D-ID may delete the information 14 days after contract expiration (including a specific service) and after sending an email notification.
 
 11. 8.  Data of inactive users, i.e. users who did not log in for a consecutive period of 180 days, will be deleted after 14 days and after sending an email notification.
 
+11. 9.  Applicative Data may be accessed by authorized operators as a result of a customer support ticket or an operational case service ticket.
+
 12\. **CONTACT US**.
 
-If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at support@d-id.com. De-Identification Ltd. 84 Hahashmonaim St., Tel Aviv, Israel.
+If you have any questions, concerns or complaints regarding our compliance with this notice and the data protection laws, or if you wish to exercise your rights, we encourage you to first contact us at support@d-id.com. De-Identification Ltd. 84 Hahashmonaim St., Tel Aviv, Israel.  
+  
 
 * Products
     * [AI Agents](https://www.d-id.com/agents/)
