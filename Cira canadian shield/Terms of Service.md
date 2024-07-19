@@ -267,14 +267,6 @@ Read
 
 Report](https://www.cira.ca/en/resources/documents/about/fy25-corporate-plan/)
 
-[![Fiscal Year 2023 <i>Annual Report to Members</i>](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 375'%3E%3C/svg%3E)
-
-Fiscal Year 2023 _Annual Report to Members_
-
-Read
-
-Report](https://www.cira.ca/en/resources/documents/about/fiscal-year-2023-annual-report-to-members/)
-
 [![FY24 Corporate plan](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 375'%3E%3C/svg%3E)
 
 FY24 Corporate plan
@@ -306,6 +298,14 @@ Registrant Agreement
 Read
 
 Policy document](https://www.cira.ca/en/resources/documents/about/registrant-agreement/)
+
+[![FY23 Corporate Plan](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 375'%3E%3C/svg%3E)
+
+FY23 Corporate Plan
+
+Read
+
+Report](https://www.cira.ca/en/resources/documents/about/fy23-corporate-plan/)
 
 [Stay tuned
 
@@ -359,7 +359,7 @@ Need assistance about a service or product?
 
 Read](https://www.cira.ca/en/support/)
 
-3,390,538
+3,387,339
 
 Domains registered
 
