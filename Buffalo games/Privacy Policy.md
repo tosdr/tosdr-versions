@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-182397088287)                              
+![null](https://www.facebook.com/tr?id=1010709999020775&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-1-prd-us-central1-183826715151)                              
 
 [Toggle Menu](#)
 
@@ -470,7 +470,7 @@ OK
 
 ##### Careers
 
-Check out our job openings at [Indeed](https://www.indeed.com/cmp/Buffalo-Games,-Inc/jobs)
+[Check out our job openings](https://buffalogames.com/careers-at-buffalo-games-ceaco-eastpoint-sports/)
 
 ##### Jigsaw Puzzles
 
