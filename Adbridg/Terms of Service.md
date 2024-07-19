@@ -2,20 +2,19 @@ top of page
 
 [![AdBridg_logo](https://static.wixstatic.com/media/b723fc_0a7cbdf6f63f45d3a62cd17b9430556e~mv2.png/v1/fill/w_246,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AdBridg_IDworkingart1_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png)](https://www.adbridg.com/)
 
-* [Publishers Solutions](https://www.adbridg.com/)
-* [Calculator](https://www.adbridg.com/)
-* [Testimonials](https://www.adbridg.com/)
-* [About](https://www.adbridg.com/)
-* [Insights](https://www.adbridg.com/)
+* [Publisher Solutions](https://www.adbridg.com/top-publisher-solutions)
+* [Calculator](https://www.adbridg.com/calculator)
+* [Testimonials](https://www.adbridg.com/testimonials)
+* [About](https://www.adbridg.com/aboutus)
+* [Insights](https://www.adbridg.com/insights)
 * Еще...
     
 
 Use tab to navigate through the menu items.
 
-[CONTACT US](https://www.adbridg.com/)
+[CONTACT US](https://www.adbridg.com/contact-us)
 
-1. [](https://www.adbridg.com/)/
-2. Legal terms and conditions/
+1. Legal terms and conditions/
 
 ##### AdBridg Terms and Conditions
 
