@@ -67,7 +67,6 @@
     * [Music](https://store.leapfrog.com/en-us/app-center/c?content_type=493 "Music")
     * [Expansion Packs](https://store.leapfrog.com/en-us/app-center/c?content_type=614 "Expansion Packs")
     * [Flash Cards](https://store.leapfrog.com/en-us/app-center/c?content_type=620 "Flash Cards")
-    * [Foreign Language](https://store.leapfrog.com/en-us/app-center/c?content_type=597 "Foreign Language")
     
     * SHOP APPS BY PRICE
     * [$5 and under](https://store.leapfrog.com/en-us/app-center/c?price_filter=83 "$5 and under")
@@ -149,13 +148,15 @@
 * [Legal](https://www.leapfrog.com/en-us/legal)
 * Privacy
 
-### LeapFrog Privacy Policy
+LeapFrog Privacy Policy
+=======================
 
 _Last Updated: March 8, 2023._
 
 LeapFrog is passionate about education and dedicated to enriching the lives of children and adults through learning. We believe that learning and personal development are best achieved in a fun and safe atmosphere, and your confidence in our privacy practices is essential to our success. This Privacy Policy (“Policy”) describes how we collect, use, and disclose information through the websites, software, applications, online services, and products that link to or post this Policy and are operated by LeapFrog Enterprises, Inc. or its related corporate entities and through our Customer Support services (“LeapFrog”) (collectively, the “Services”).
 
-**1\. Information We Collect**
+1\. Information We Collect
+--------------------------
 
 The circumstances in which parents may provide information include, without limitation, when they register for the Services, access various content or features, sign up to receive emails or other communications, use community features such as our parent community blogs and discussion forums, participate in promotions, use a send-to-a-friend feature, or directly contact us with questions or feedback. The information that parents may provide includes:
 
@@ -183,11 +184,12 @@ We also may collect certain information automatically when parents or children u
     
 * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded.
 
-LeapFrog may use cookies, tags, web beacons, and similar Internet technologies in connection with the Services. For a complete description of how we and third parties may use these technologies and how you may opt-out or disable certain cookies, please consult our [**Cookie Policy**](https://www.leapfrog.com/en-us/legal/cookie-policy.html).
+LeapFrog may use cookies, tags, web beacons, and similar Internet technologies in connection with the Services. For a complete description of how we and third parties may use these technologies and how you may opt-out or disable certain cookies, please consult our [**Cookie Policy**](https://www.leapfrog.com/content/site/en-us/legal/cookie-policy/).
 
 We also may obtain additional data, or enhance, update, or add to our existing records with information we acquire from third-party sources, such as data aggregators and third party promotional partners. When parents access third-party services, such as Facebook or Twitter, through the Services to share information about the Services with others, we may collect information from these third-party services. 
 
-**2\. Use of Information**
+2\. Use of Information
+----------------------
 
 We may use information that we collect through the Services or from third-party sources for a variety of business purposes, including to:
 
@@ -203,22 +205,24 @@ We may use information that we collect through the Services or from third-party 
     \- sell or merge part of our business.
 * To meet our legal obligations, for example, under accounting and tax laws, and to respond to an enforcement or legal process.
 * **With your consent to:  
-    \- use cookies as explained in our [Cookie Policy](https://www.leapfrog.com/en-us/legal/cookie-policy.html);  
+    \- use cookies as explained in our [Cookie Policy](https://www.leapfrog.com/content/site/en-us/legal/cookie-policy/);  
     \- provide you with product news and special offers;  
     \- transfer your information to the U.S. and Hong Kong, as explained below; and  
     \- as otherwise described to you at the point of collection or pursuant to your consent.**
 * To provide you with targeted advertisements and offers and promotions that you may be interested in.  
     
 
-**3\. Data Retention**
+3\. Data Retention
+------------------
 
 We only retain your information for as long as it is necessary for the purposes for which it was collected.
 
-**4\. Disclosure of Information**
+4\. Disclosure of Information
+-----------------------------
 
-We do not knowingly sell your information or the information of minors under 16 years of age to third parties for money, but we share your personal information with advertising partners for purposes of targeted advertising. To opt out of such sharing, please click “Do Not Sell or Share My Personal Information.” We do disclose to third parties and service providers the information described below for business purposes, or we permit them to collect the information through our services, as further discussed in the [Cookie Policy](https://www.leapfrog.com/en-us/legal/cookie-policy.html) and this Privacy Policy.
+We do not knowingly sell your information or the information of minors under 16 years of age to third parties for money, but we share your personal information with advertising partners for purposes of targeted advertising. To opt out of such sharing, please click “Do Not Sell or Share My Personal Information.” We do disclose to third parties and service providers the information described below for business purposes, or we permit them to collect the information through our services, as further discussed in the [Cookie Policy](https://www.leapfrog.com/content/site/en-us/legal/cookie-policy/) and this Privacy Policy.
 
-* _Corporate Parents, Affiliates, and Subsidiaries_. We may disclose the information we collect to our corporate parent (including VTech), subsidiaries, and other affiliated entities for a variety of business purposes, such as facilitating provision of the Services, marketing and advertising on our behalf, communicating with you, providing customer service, improving the Services, personalizing your experience, and completing a purchase. If you reside in the European Economic Area, please see the [**VTech Privacy Policy**](https://www.leapfrog.com/en-us/legal/vtech-privacy-policy.html) for details on how VTech processes your information.
+* _Corporate Parents, Affiliates, and Subsidiaries_. We may disclose the information we collect to our corporate parent (including VTech), subsidiaries, and other affiliated entities for a variety of business purposes, such as facilitating provision of the Services, marketing and advertising on our behalf, communicating with you, providing customer service, improving the Services, personalizing your experience, and completing a purchase. If you reside in the European Economic Area, please see the [**VTech Privacy Policy**](https://www.leapfrog.com/content/site/en-us/legal/vtech-privacy-policy/) for details on how VTech processes your information.
 * _Other Entities._ We may disclose the identifiers, commercial information, electronic and network activity, audio information and inferences we collect to the following entities for business purposes:  
       
     \- Vendors that perform certain functions or services on our behalf (such as to host the Services, manage databases, process payment information, perform analyses, or send communications for us);  
@@ -233,15 +237,17 @@ We do not knowingly sell your information or the information of minors under 16 
 * _Other Parties with Your Consent_. We may disclose your information to third parties when you consent to such disclosure, including when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool. When parents choose to access third-party services, such as Facebook or Twitter, through the Services, these third-party services may be able to collect information and notify connections on the third-party services about the parent’s use of the Services, in accordance with their own privacy policies. Parents also consent to the disclosure of information when they use password-protected parts of the Services to transfer content to cloud storage, social media, or other recipients.
 * _Aggregate Information_. We may disclose to third parties information that does not identify individual users, such as aggregate website usage data or demographic reports.
 
-**5\. Data Security**
+5\. Data Security
+-----------------
 
 We maintain reasonable security procedures to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you provide to us. While we strive to protect your information and privacy, please note that no data transmission or storage can be guaranteed to be 100% secure.
 
 For your protection, before selling or otherwise transferring ownership of a LeapFrog-connected device, please be sure to securely remove all information from the device itself, including any play data. For more information, please contact LeapFrog Consumer Service using the information provided below.
 
-**6\. Children’s Privacy**
+6\. Children’s Privacy
+----------------------
 
-As a leading manufacturer of children’s educational toy products, LeapFrog recognizes the importance of protecting children’s information and strongly encourages parents to be actively involved in their children’s online activities. [Here is a video](https://www.leapfrog.com/en-us/support/privacy_and_smart_toys.html) describing how we design our products to safeguard children's personal information and to protect children online. You may like to watch along with your child, so that you can both understand how we handle their personal information and online safety.
+As a leading manufacturer of children’s educational toy products, LeapFrog recognizes the importance of protecting children’s information and strongly encourages parents to be actively involved in their children’s online activities. [Here is a video](https://www.leapfrog.com/content/site/en-us/support/privacy_and_smart_toys/) describing how we design our products to safeguard children's personal information and to protect children online. You may like to watch along with your child, so that you can both understand how we handle their personal information and online safety.
 
 We take steps to avoid collecting personal information from children. For example, while children may use some of our products to take photographs, create artwork, and record voice memos or video, this content is stored locally on the device and is not transferred to LeapFrog’s server. In addition, children may access child-friendly activities or play areas using only a username (such as a nickname or character name) or similar non-personal login information. Chat functionality and similar interactive features are designed to help prevent children from revealing their full names, email addresses, or similar information that could identify the child. For example, interactive chats may require children to choose from a pre-selected menu of short phrases or emoticons that do not contain personally identifiable information. We do not knowingly collect, use, or disclose personal information from children without prior parental consent, except as permitted by law.
 
@@ -249,19 +255,23 @@ Parents can access and control their children’s information and activities. Fo
 
 If you have questions concerning our information practices with respect to children, or if you would like to review, have deleted, or stop the further collection of your child’s personal information, you may email us at [support@leapfrog.com](mailto:support@leapfrog.com).
 
-**7\. Privacy Policy Updates**
+7\. Privacy Policy Updates
+--------------------------
 
 We reserve the right to modify this Privacy Policy at any time by posting revisions here. Your continued use of the Services after any modification to the Privacy Policy constitutes your acceptance of the new terms and conditions.
 
-**8\. Links to Third Party Sites and Services**
+8\. Links to Third Party Sites and Services
+-------------------------------------------
 
 The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by LeapFrog. Such links do not constitute an endorsement by LeapFrog of those other websites, the content displayed therein, or the persons or entities associated therewith. This Privacy Policy does not apply to such third-party content or services. We encourage you to review the privacy policies of these third parties before using their websites or services.
 
-**9\. International Data Transfers**
+9\. International Data Transfers
+--------------------------------
 
 By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States and Hong Kong, or other countries and territories. While some of these countries may not offer the same level of privacy protection as your own, LeapFrog commits to uphold the privacy protections as explained in this Policy.
 
-**10\. Rights and Choices**
+10\. Rights and Choices
+-----------------------
 
 LeapFrog provides you with the ability to review and correct certain information that you have provided to us. If you wish to access or update your information, you may do so by logging in to an account management section on the Service. These areas are usually marked clearly as “My Account,” “Your Account,” “Edit Profile,” “Settings,” or similar names, and may offer a variety of options that allow you to update information, delete accounts or profiles, or otherwise maintain control over how your information is collected, stored, used, or disclosed by LeapFrog.
 
@@ -313,11 +323,13 @@ We will not discriminate against you for exercising your rights and choices, alt
 
 Some mobile and web browsers transmit "do-not-track" signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.  
 
-**11\. Communications Preferences**
+11\. Communications Preferences
+-------------------------------
 
 You may choose to receive promotional emails, newsletters, and similar communications from us. You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive. Please note that opt-out requests may take up to 5 business days to be effective. Your opt-out request will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
-**12\. Contact Us**
+12\. Contact Us
+---------------
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
