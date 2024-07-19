@@ -106,13 +106,13 @@ Categories
 
 Recent Articles
 
-* [ACSL Junior Finals Run-Length Encoding Problem](https://aruljohn.com/blog/acsl-finals-run-length-encoding/)
-* [What to Pack When Traveling to The Philippines: The Ultimate Checklist](https://aruljohn.com/blog/philippines-packing-list/)
-* [Codeforces Maximum Multiple Sum Problem in Python and C++](https://aruljohn.com/blog/maximum-multiple-sum-problem/)
-* [How to Set Up Planted Tanks for Japanese Rice Fish Medaka メダカ](https://aruljohn.com/blog/japanese-ricefish-medaka/)
-* [10 Gallon Natural Planted Tank](https://aruljohn.com/blog/natural-planted-tank/)
-* [How to Identify Poison Ivy, Oak and Sumac and Protect Yourself](https://aruljohn.com/blog/poison-ivy-oak-sumac/)
+* [How to Run or Execute Remote Linux Commands over SSH](https://aruljohn.com/blog/run-linux-commands-over-ssh/)
+* [How to find MD5, SHA1, SHA256 and SHA512 Checksums Of String](https://aruljohn.com/blog/find-md5-checksum/)
+* [How to Remove File Attribute 'Where From' After Downloading on Mac](https://aruljohn.com/blog/remove-file-attribute-where-from-mac/)
+* [How to encrypt and decrypt text files using Vim editor](https://aruljohn.com/blog/vim-encrypt-decrypt-file/)
 * [How to Install Python 3.12.3 on the Raspberry Pi](https://aruljohn.com/blog/python-raspberrypi/)
+* [How to Make the Fastest Awana Grand Prix Pinewood Derby Car](https://aruljohn.com/blog/fastest-pinewood-derby-car/)
+* [Comprehensive List of 50 Job Interview Questions](https://aruljohn.com/blog/job-interview-questions/)
 
 Popular Articles
 
@@ -189,6 +189,7 @@ Text/Math Utilities
 Miscellaneous
 
 * [⛽ Costco gas prices DC area](https://aruljohn.com/gas/)
+* [⛽ Costco gas prices California](https://aruljohn.com/gas/ca)
 * [👶 Baby Names ranking](https://aruljohn.com/babynames/)
 * [🗣 Word pronunciation](https://aruljohn.com/voice.pl)
 * [👾 User-Agent database](https://aruljohn.com/ua/)
@@ -196,6 +197,10 @@ Miscellaneous
 * [🕸 Detect Browser Language](https://aruljohn.com/language/)
 * [🦹 Proxy Server check](https://aruljohn.com/proxy/)
 * [🤐 Gzip Compression test](https://aruljohn.com/gziptest/)
+
+Costco Gas Prices
+
+* ⛽ [California](https://aruljohn.com/gas/ca), [Hawaii](https://aruljohn.com/gas/hi), [Illinois](https://aruljohn.com/gas/il), [Ohio](https://aruljohn.com/gas/oh), [Pennsylvania](https://aruljohn.com/gas/pa), [Washington](https://aruljohn.com/gas/wa),
 
 SEO and Others
 
