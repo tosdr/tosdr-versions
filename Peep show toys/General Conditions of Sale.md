@@ -547,9 +547,9 @@ SHARE WISHLIST
 
 ##### Or Share Via
 
-* [![Facebook Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_facebook_1.svg)](#)
-* [![Twitter Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_twitter_1.svg)](#)
-* [![Copy text](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/ic_email_1.svg "Copy wishlist link")](#)
+* [![Facebook Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/meta1.svg)](#)
+* [![Twitter Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/twitter1.svg)](#)
+* [![Copy text](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy wishlist link")](#)
 
 ##### Subscribe and get alerts about your Wishlist
 
@@ -584,3 +584,21 @@ Yes Cancel
 #### You will no longer receive emails about wishlist activities from this store.
 
 Close
+
+##### Guest shopper
+
+You are currently shopping anonymously!
+
+Login to save your wishlist.
+
+[Login](https://www.peepshowtoys.com/account/login)
+
+[Copy link to share ![Email Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy guest wishlist link")](#) 
+
+##### SHARE THIS CREATION
+
+##### Or Share Via
+
+* [![Facebook Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/meta1.svg.svg)](#)
+* [![Twitter Share](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/twitter1.svg)](#)
+* [![Copy text](https://hulkapps-wishlist.nyc3.digitaloceanspaces.com/assets/images/share_link.svg "Copy wishlist link")](#)
