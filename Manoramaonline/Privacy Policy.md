@@ -1,8 +1,8 @@
 ADVERTISEMENT
 
-Skip ads.[Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
+Skip ads. [Subscribe now.](https://www.manoramaonline.com/myaccount/subscribe-plan.html)
 
-SUBSCRIBE
+Activate your premium subscription today
 
 [SUBSCRIBE](https://www.manoramaonline.com/myaccount/subscribe-plan.html "SUBSCRIBE")
 
@@ -42,7 +42,7 @@ SUBSCRIBE
 
  [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manorama Online") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manorama Online")](https://www.manoramaonline.com/)
 
-[Mobile E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Mobile E-paper")
+[Today's E-paper](https://epaper.manoramaonline.com/MMPortalUI/ "Today's E-paper")
 
 * [SIGN IN](javascript:void(0) "SIGN IN")
     
@@ -197,6 +197,7 @@ SUBSCRIBE
     * [Children](https://www.manoramaonline.com/youth-and-kids/children.html "Children")
     * [YUVA](https://www.manoramaonline.com/youth-and-kids/youth.html "YUVA")
     * [SPECIALS](https://www.manoramaonline.com/youth-and-kids/specials.html "SPECIALS")
+    * [MKID](https://www.manoramaonline.com/tagresults.html?tag=mo:children/mkid "MKID")
     
 * [FACT CHECK](https://www.manoramaonline.com/fact-check.html "FACT CHECK")
     
@@ -222,10 +223,10 @@ SUBSCRIBE
     * [INSURANCE](https://www.manoramaonline.com/sampadyam/insurance.html "INSURANCE")
     * [Specials](https://www.manoramaonline.com/sampadyam/indepth.html "Specials")
     
-* [Videos](https://www.manoramaonline.com/videos.html "Videos")
+* [VIDEOS](https://www.manoramaonline.com/videos.html "VIDEOS")
 * [Shortz](https://www.manoramaonline.com/shortz.html "Shortz")
 * [Podcasts](https://www.manoramaonline.com/podcast.html "Podcasts")
-* [Visual Stories](https://www.manoramaonline.com/web-stories.html "Visual Stories")
+* [Web Stories](https://www.manoramaonline.com/web-stories.html "Web Stories")
 * [PHOTOS](https://www.manoramaonline.com/photogallery.html "PHOTOS")
 * [Games](https://www.manoramaonline.com/games.html "Games")
 * [Infographics](https://www.manoramaonline.com/news/infographics.html "Infographics")
@@ -396,10 +397,10 @@ Activate your premium subscription today.
 * [YOUTH & KIDS](https://www.manoramaonline.com/youth-and-kids.html "YOUTH & KIDS")
 * [FACT CHECK](https://www.manoramaonline.com/fact-check.html "FACT CHECK")
 * [BUSINESS](https://www.manoramaonline.com/sampadyam.html "BUSINESS")
-* [Videos](https://www.manoramaonline.com/videos.html "Videos")
+* [VIDEOS](https://www.manoramaonline.com/videos.html "VIDEOS")
 * [Shortz](https://www.manoramaonline.com/shortz.html "Shortz")
 * [Podcasts](https://www.manoramaonline.com/podcast.html "Podcasts")
-* [Visual Stories](https://www.manoramaonline.com/web-stories.html "Visual Stories")
+* [Web Stories](https://www.manoramaonline.com/web-stories.html "Web Stories")
 * [PHOTOS](https://www.manoramaonline.com/photogallery.html "PHOTOS")
 
  [![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-main-logo-web.svg "Manoramaonline") ![Manorama Online](https://img-mm.manoramaonline.com/content/dam/mm/mo/revamp-logos/2023/manoramaonline-web-dark-mode-logo.svg "Manoramaonline")](https://www.manoramaonline.com/)
@@ -418,7 +419,7 @@ Activate your premium subscription today.
 
 © Copyright 2024 Manoramaonline. All rights reserved.
 
-* [Home](https://www.manoramaonline.com/home.html)
+* [Home](https://www.manoramaonline.com/)
 * Search
 * [Obituary](https://www.manoramaonline.com/district-news/thiruvananthapuram/obituary.html)
 * [Shortz](https://www.manoramaonline.com/shortz.html)
@@ -464,5 +465,7 @@ Activate your premium subscription today.
     
 
 [View More](https://www.manoramaonline.com/services.html)
+
+ 
 
 6iqnrupk339uji4fu572vi8geq
