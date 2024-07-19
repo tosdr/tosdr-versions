@@ -55,7 +55,7 @@ Ready for the new **Google Consent Mode v2**? [Learn more »](https://www.consen
     * [Whistleblower software](https://www.consentmanager.net/whistleblower-software/ "Whistleblower software")
     
     * [GDPR](https://www.consentmanager.net/gdpr/ "GDPR")
-    * [TTDSG](https://www.consentmanager.net/tdddg/ "TTDSG")
+    * [TDDDG](https://www.consentmanager.net/tdddg/ "TDDDG")
     * [FADP Switzerland](https://www.consentmanager.net/dsg/ "FADP Switzerland")
     * [US Privacy](https://www.consentmanager.net/us-privacy/ "US Privacy")
     * [PIPEDA/CPPA](https://www.consentmanager.net/pipeda/ "PIPEDA/CPPA")
@@ -463,7 +463,7 @@ Navigation
     * [Features](https://www.consentmanager.net/features/)
     * [Pricing](https://www.consentmanager.net/pricing/)
     * [GDPR](https://www.consentmanager.net/gdpr/)
-    * [TTDSG](https://www.consentmanager.net/tdddg/)
+    * [TDDDG](https://www.consentmanager.net/tdddg/)
     * [FADP Switzerland](https://www.consentmanager.net/dsg/)
     * [CCPA](https://www.consentmanager.net/ccpa/)
     * [PIPEDA/CPPA (Canada)](https://www.consentmanager.net/pipeda/)
@@ -553,6 +553,7 @@ See also …
     * [Onetrust alternative](https://www.consentmanager.net/cookie-notice/onetrust-alternative/)
     * [Quantcast alternative](https://www.consentmanager.net/cookie-notice/quantcast-alternative/)
     * [Usercentrics alternative](https://www.consentmanager.net/cookie-notice/usercentrics-alternative/)
+    * [consentmanager – Switch now offer](https://www.consentmanager.net/switch-now/)
 
 © 2024 consentmanager
 
