@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[MT3 BOGO is Back
+[Signature Series Ryokucha Keyboard
 
-Seeing double? Try saving double.
+Careful—it’s still hot.
 
-BOGO NOW
+Shop Now
 
-_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/MT3BOGO)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-ryokucha-keyboard)
 
 Free Standard Shipping in the US on orders over $99
 
