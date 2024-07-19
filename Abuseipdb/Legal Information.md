@@ -1,6 +1,11 @@
 [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagespeed.ce.CI8T6WsXU7.png)](https://www.abuseipdb.com/)
 
+[Login](https://www.abuseipdb.com/login) [Sign Up](https://www.abuseipdb.com/pricing)
+
 Toggle navigation [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagespeed.ce.CI8T6WsXU7.png)](https://www.abuseipdb.com/)
+
+* [Login](https://www.abuseipdb.com/login)
+* [Sign Up](https://www.abuseipdb.com/pricing)
 
 * [Home](https://www.abuseipdb.com/ "AbuseIPDB")
 * [**Report IP**](https://www.abuseipdb.com/report "Report Abusive IP")
@@ -9,17 +14,20 @@ Toggle navigation [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagesp
 * [About](https://www.abuseipdb.com/about.html "About AbuseIPDB")
 * [FAQ](https://www.abuseipdb.com/faq.html "Frequently Asked Questions")
 * [Documentation](#)
-    * [APIv2 Documentation ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://docs.abuseipdb.com/ "APIv2 Documentation") 
-    * [Fail2Ban Integration](https://www.abuseipdb.com/fail2ban.html "Fail2Ban Integration")
-    * [CSF Integration](https://www.abuseipdb.com/csf "CSF Integration")
-    * [Suricata Integration](https://www.abuseipdb.com/suricata "Suricata Integration")
-    * [ArGoSoft Integration](https://www.abuseipdb.com/argosoft "ArGoSoft Integration")
-    * [Splunk© Integration](https://www.abuseipdb.com/splunk "Splunk© Integration")
-    * [Fortinet Integration](https://www.abuseipdb.com/fortinet "Fortinet Integration")
-    * [OpenCTI Connectors](https://www.abuseipdb.com/opencti "OpenCTI Connectors")
-    * [PolarityCE Integration](https://www.abuseipdb.com/polarityce "Polarity Integration")
-    * [Laravel Integration](https://packagist.org/packages/abuseipdb/laravel "Laravel Integration (PHP)")
-    * [Report Categories](https://www.abuseipdb.com/categories "Report Categories")
+    1. [APIv2 Documentation ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://docs.abuseipdb.com/ "APIv2 Documentation") 
+    2. [Report Categories](https://www.abuseipdb.com/categories "Report Categories")
+    
+    4. [Fail2Ban Integration](https://www.abuseipdb.com/fail2ban.html "Fail2Ban Integration")
+    5. [CSF Integration](https://www.abuseipdb.com/csf "CSF Integration")
+    6. [Suricata Integration](https://www.abuseipdb.com/suricata "Suricata Integration")
+    7. [ArGoSoft Integration](https://www.abuseipdb.com/argosoft "ArGoSoft Integration")
+    8. [Splunk© Integration](https://www.abuseipdb.com/splunk "Splunk© Integration")
+    9. [Fortinet Integration](https://www.abuseipdb.com/fortinet "Fortinet Integration")
+    10. [OpenCTI Integration](https://www.abuseipdb.com/opencti "OpenCTI Integration")
+    11. [PolarityCE Integration](https://www.abuseipdb.com/polarityce "Polarity Integration")
+    
+    13. [Laravel Integration ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://packagist.org/packages/abuseipdb/laravel "Laravel Integration (PHP)") 
+    14. [Node.js Integration ![](/img/external_link.png.pagespeed.ce.TODVDENQ6W.png)](https://www.npmjs.com/package/abuseipdb-client "Node.js Integration (JS)") 
 * [Statistics](https://www.abuseipdb.com/statistics "Statistics")
 * [IP Tools](#)
     * [Convert IP Address Format](https://www.abuseipdb.com/tools/ip-address-converter)
@@ -28,8 +36,6 @@ Toggle navigation [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagesp
     * [Ping IP](https://www.abuseipdb.com/tools/ping)
     * [DNS Lookup](https://www.abuseipdb.com/tools/dns-lookup)
 * [Contact](https://www.abuseipdb.com/contact "Contact Us")
-
-[Login](https://www.abuseipdb.com/login) [Sign Up](https://www.abuseipdb.com/pricing)
 
 1. [AbuseIPDB](https://www.abuseipdb.com/)
 2. Legal Information
