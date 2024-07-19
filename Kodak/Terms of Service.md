@@ -180,7 +180,6 @@ Arrow Down
 * [Printing Plates](https://www.kodak.com/en/print/products/offset/plates/ "Printing Plates")
 * [Platesetters](https://www.kodak.com/en/print/products/offset/ctp-systems/ "Platesetters")
 * [Workflow Solutions](https://www.kodak.com/en/print/page/prinergy-platform/ "Workflow Solutions")
-* [Partner Place Portal](https://partnerplace.kodak.com/ "Partner Place Portal")
 * [Email Subscribe](https://www.kodak.com/en/print/page/email-subscribe/ "Email Subscribe")
 * [Contact Sales](https://www.kodak.com/en/print/page/contact-sales/ "Contact Sales")
 * [Service & Support](https://www.kodak.com/en/print/page/support/ "Service & Support")
