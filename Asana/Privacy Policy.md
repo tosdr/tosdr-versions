@@ -12,6 +12,8 @@ x icon
 
 Bahasa IndonesiaDeutschEnglishEspañolFrançaisItaliano日本語한국어NederlandsPolskiPortuguêsРусскийSvenska繁體中文
 
+Choose your preferred language
+
 [Contact sales](https://asana.com/sales)
 
 [Log In](https://app.asana.com/-/login)
@@ -43,6 +45,7 @@ Featureschevron-down icon
 * [Forms](https://asana.com/features/workflow-automation/forms/)
 * [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
 * [portfolio iconResource management](https://asana.com/features/resource-management)
+* [Capacity planning](https://asana.com/features/resource-management/capacity-planning)
 * [Workload](https://asana.com/features/resource-management/workload)
 * [Time tracking](https://asana.com/features/resource-management/time-tracking)
 * [my-task iconAdmin and security](https://asana.com/features/admin-security/)
@@ -51,9 +54,9 @@ Featureschevron-down icon
 
 ### ALL PLANS
 
-* [list iconPersonal](https://asana.com/pricing)
-* [premium iconStarter](https://asana.com/plan/starter)
-* [briefcase iconAdvanced](https://asana.com/plan/advanced)
+* [list iconStarter](https://asana.com/plan/starter)
+* [premium iconAdvanced](https://asana.com/plan/advanced)
+* [briefcase iconEnterprise](https://asana.com/enterprise)
 
 Solutionschevron-down icon
 
@@ -176,6 +179,7 @@ CAPABILITIES
 * [Forms](https://asana.com/features/workflow-automation/forms/)
 * [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
 * [portfolio iconResource management](https://asana.com/features/resource-management)
+* [Capacity planning](https://asana.com/features/resource-management/capacity-planning)
 * [Workload](https://asana.com/features/resource-management/workload)
 * [Time tracking](https://asana.com/features/resource-management/time-tracking)
 * [my-task iconAdmin and security](https://asana.com/features/admin-security/)
@@ -184,9 +188,9 @@ CAPABILITIES
 
 ALL PLANS
 
-* [list iconPersonal](https://asana.com/pricing)
-* [premium iconStarter](https://asana.com/plan/starter)
-* [briefcase iconAdvanced](https://asana.com/plan/advanced)
+* [list iconStarter](https://asana.com/plan/starter)
+* [premium iconAdvanced](https://asana.com/plan/advanced)
+* [briefcase iconEnterprise](https://asana.com/enterprise)
 
 Teams
 
@@ -497,7 +501,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/site-map)
+* [Sitemap](https://asana.com/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
