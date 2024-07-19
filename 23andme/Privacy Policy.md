@@ -8,8 +8,7 @@
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fancestry.c4158c43.png&w=640&q=100)
         
-        [Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-ancestry/)
+        [Ancestry Service](https://www.23andme.com/en-gb/dna-ancestry/)
         
         The most comprehensive ancestry breakdown on the market.
         
@@ -17,8 +16,7 @@
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhealth-ancestry.e39301b0.png&w=640&q=100)
         
-        [Health +plus Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
+        [Health +plus Ancestry Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
         
         Everything in Ancestry Service, plus a more complete picture of your health with insights from your genetic data.
         
@@ -26,28 +24,12 @@
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpremium-uk.03a9cb8a.png&w=640&q=100)
         
-        [![23andMe plus](/_next/static/media/ttam-plus.e477b869.svg)  
-        Premium](https://www.23andme.com/en-gb/membership/)
+        [23andMe![plus](/_next/static/media/plus-sign-plain.5b78af43.svg) Premium](https://www.23andme.com/en-gb/membership/)
         
         Everything in Health +plus Ancestry, plus access to new premium reports and features throughout the year.
         
     
     [Compare our services](https://www.23andme.com/en-gb/compare-dna-tests/)
-    
-* Learn![](/_next/static/media/caret.d8c670e4.svg)
-    
-    * [How it works](https://www.23andme.com/en-gb/howitworks/)
-    * [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
-    * [Blog](https://blog.23andme.com/)
-    
-* About![](/_next/static/media/caret.d8c670e4.svg)
-    
-    * [Our story](https://www.23andme.com/en-gb/about/)
-    * [Science](https://www.23andme.com/en-gb/genetic-science/)
-    * [Privacy](https://www.23andme.com/en-gb/privacy/)
-    * [Research](https://www.23andme.com/en-gb/research/)
-    * [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
-    * [Investors](https://investors.23andme.com/)
     
 
 * [Sign In](https://you.23andme.com/)
@@ -69,8 +51,7 @@ Open Menu
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fancestry.c4158c43.png&w=640&q=100)
         
-        [Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-ancestry/)
+        [Ancestry Service](https://www.23andme.com/en-gb/dna-ancestry/)
         
         The most comprehensive ancestry breakdown on the market.
         
@@ -78,8 +59,7 @@ Open Menu
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhealth-ancestry.e39301b0.png&w=640&q=100)
         
-        [Health +plus Ancestry  
-        Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
+        [Health +plus Ancestry Service](https://www.23andme.com/en-gb/dna-health-ancestry/)
         
         Everything in Ancestry Service, plus a more complete picture of your health with insights from your genetic data.
         
@@ -87,28 +67,12 @@ Open Menu
         
         ![](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fpremium-uk.03a9cb8a.png&w=640&q=100)
         
-        [![23andMe plus](/_next/static/media/ttam-plus.e477b869.svg)  
-        Premium](https://www.23andme.com/en-gb/membership/)
+        [23andMe![plus](/_next/static/media/plus-sign-plain.5b78af43.svg) Premium](https://www.23andme.com/en-gb/membership/)
         
         Everything in Health +plus Ancestry, plus access to new premium reports and features throughout the year.
         
     
     [Compare our services](https://www.23andme.com/en-gb/compare-dna-tests/)
-    
-* Learn![](/_next/static/media/caret.d8c670e4.svg)
-    
-    * [How it works](https://www.23andme.com/en-gb/howitworks/)
-    * [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
-    * [Blog](https://blog.23andme.com/)
-    
-* About![](/_next/static/media/caret.d8c670e4.svg)
-    
-    * [Our story](https://www.23andme.com/en-gb/about/)
-    * [Science](https://www.23andme.com/en-gb/genetic-science/)
-    * [Privacy](https://www.23andme.com/en-gb/privacy/)
-    * [Research](https://www.23andme.com/en-gb/research/)
-    * [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
-    * [Investors](https://investors.23andme.com/)
     
 * [Sign In](https://you.23andme.com/)
 * [Register Kit](https://www.23andme.com/en-gb/start/)
