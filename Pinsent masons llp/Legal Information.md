@@ -122,7 +122,6 @@ Please enter a search term
     * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
         * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
         * [Construction advisory & disputes](https://www.pinsentmasons.com/what-we-do/your-assets/construction-advisory-disputes)
-        * [Intellectual property](https://www.pinsentmasons.com/what-we-do/your-assets/intellectual-property)
         * [Planning & environment](https://www.pinsentmasons.com/what-we-do/your-assets/planning-environment)
         * [Projects](https://www.pinsentmasons.com/what-we-do/your-assets/projects)
         * [Property](https://www.pinsentmasons.com/what-we-do/your-assets/property)
@@ -131,6 +130,7 @@ Please enter a search term
         * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
         * [Commercial](https://www.pinsentmasons.com/what-we-do/your-company/commercial)
         * [Corporate](https://www.pinsentmasons.com/what-we-do/your-company/corporate)
+        * [Intellectual property](https://www.pinsentmasons.com/what-we-do/your-company/intellectual-property)
         * [Pensions & long-term savings](https://www.pinsentmasons.com/what-we-do/your-company/pensions-long-term-savings)
         * [Public policy](https://www.pinsentmasons.com/what-we-do/your-company/public-policy)
         * [Restructuring](https://www.pinsentmasons.com/what-we-do/your-company/restructuring)
@@ -172,13 +172,13 @@ Please enter a search term
     * [Alteria - brand management and enforcement](https://www.pinsentmasons.com/solutions/alteria)
     * [AutoMATE - Documents automated, rapidly](https://www.pinsentmasons.com/solutions/automate)
     * [Biotech Express - biotech startup documentation](https://www.pinsentmasons.com/solutions/biotech-express)
-    * [Carry scheme automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
+    * [Carry Scheme Automation](https://www.pinsentmasons.com/solutions/carry-scheme-automation)
     * [CLM Maturity Assessment - contract management maturity](https://www.pinsentmasons.com/solutions/clm-assessment)
     * [CSRD Self Check](https://www.pinsentmasons.com/solutions/csrd-self-check)
     * [Cyturion - cyber readiness](https://www.pinsentmasons.com/solutions/cyturion)
     * [Datalis](https://www.pinsentmasons.com/solutions/datalis)
     * [Dawn Raid and Critical Incident Tools](https://www.pinsentmasons.com/solutions/dawn-raids-critical-incidents)
-    * [D&I maturity assessment](https://www.pinsentmasons.com/solutions/d-i-maturity-assessment)
+    * [ED&I maturity assessment](https://www.pinsentmasons.com/solutions/d-i-maturity-assessment)
     * [Electrify - multi-site development](https://www.pinsentmasons.com/solutions/electrify)
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
     * [Human Cyber Index - security culture development](https://www.pinsentmasons.com/solutions/human-cyber-index)
@@ -187,7 +187,6 @@ Please enter a search term
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
     * [Vario](https://www.pinsentmasons.com/solutions/vario)
-    * [Vaultare – Compliance readiness](https://www.pinsentmasons.com/solutions/vaultare)
     * [All Solutions](https://www.pinsentmasons.com/solutions)
 * [Locations](https://www.pinsentmasons.com/locations)
     * [Locations](https://www.pinsentmasons.com/locations)
@@ -489,13 +488,13 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
 * [### Ireland](#)
     
-    We operate in Ireland through our affiliated entity, Pinsent Masons, trading as Pinsent Masons (Ireland).
+    We operate in Ireland through our affiliated entity, Pinsent Masons Ireland LLP. 
     
-    Pinsent Masons (Ireland) is a general partnership with its principal place of business at 1 Windmill Lane, Dublin 2, DO2 F206.
+    Pinsent Masons Ireland LLP is a limited liability partnership registered in Ireland (registration number 1262499) with its principal place of business at 1 Windmill Lane, Dublin 2, DO2 F206.
     
-    Pinsent Masons (Ireland) is regulated by the [Law Society of Ireland](https://www.lawsociety.ie/).
+    Pinsent Masons Ireland LLP is regulated by the [Law Society of Ireland](https://www.lawsociety.ie/).
     
-    All requests for further information or any client complaints about Pinsent Masons (Ireland) (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Ireland office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
+    All requests for further information or any client complaints about Pinsent Masons Ireland LLP (including complaints concerning our fees and charges) should be addressed in the first instance with your client partner or head of our Ireland office, failing which, they should be addressed to the Senior Partner of Pinsent Masons LLP at 30 Crown Place, London, EC2A 4ES, United Kingdom.
     
     If you are not satisfied with our response, then the Law Society of Ireland may help to resolve your complaint for you. For details see: [https://www.lawsociety.ie/Public/Complaints-against-solicitors/](https://www.lawsociety.ie/Public/Complaints-against-solicitors/)
     
@@ -503,7 +502,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     We operate in Germany through our affiliated entity Pinsent Masons Rechtsanwälte Steuerberater Solicitors Partnerschaft mbB.
     
-    Pinsent Masons Rechtsanwälte Steuerberater Solicitors Partnerschaft mbB is the successor business to Pinsent Masons Germany LLP (a limited liability partnership registered in England & Wales (registered number: OC373389) which had a German branch registered in the register of partnerships of the Local Court of Munich (registered number: PR 1154)). Pinsent Masons Rechtsanwälte Steuerberater Solicitors Partnerschaft mbB is an affiliated entity of Pinsent Masons LLP and is licensed to use the Pinsent Masons trade mark and branding.
+    Pinsent Masons Rechtsanwälte Steuerberater Solicitors Partnerschaft mbB is an affiliated entity of Pinsent Masons LLP and is licensed to use the Pinsent Masons trade mark and branding.
     
     The partnership is registered at the partnership register the Local Court of Munich, PR 1953, with its principal place of business at Ottostraße 21, 80333 Munich. It operates in Munich, Frankfurt and Düsseldorf.
     
@@ -654,7 +653,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     #### Register of Legal areas
     
-    The lawyers [listed in this file](https://www.pinsentmasons.com/-/media/pdfs/legal-notices/registration-practice-areas---pinsent-masons-netherlands-llp.pdf) have registered in the Netherlands Bar’s register of legal areas.
+    The lawyers [listed in this file](https://www.pinsentmasons.com/-/media/pdfs/legal-notices/registration-practice-areas---pinsent-masons-netherlands-llp.pdf?rev=672b7b934ce047299fcf13386b76857d&hash=02F0005BD9FE92444F46E23904872727) have registered in the Netherlands Bar’s register of legal areas.
     
     Based on this registration, they are required to obtain ten training credits per calendar year in each registered principal legal practice area in accordance with the standards set by the Netherlands Bar.
     
@@ -726,7 +725,7 @@ See our [Terms and Conditions](https://www.pinsentmasons.com/legal-notices/term
     
     If you are not satisfied with our response, then The Law Society of The Northern Provinces may help to resolve your complaint for you. For details see: [http://www.northernlaw.co.za/Public/Disciplinary?section=public](http://www.northernlaw.co.za/Public/Disciplinary?section=public&AspxAutoDetectCookieSupport=1).
     
-    [The PAIA and POPIA Manual](https://www.pinsentmasons.com/-/media/pdfs/legal-notices/paia-popia-manual.pdf) has been prepared in accordance with section 51 of the Promotion of Access to Information Act 2 of 2000 ("PAIA") as read with the Protection of Personal Information Act 4 of 2013 ("POPIA"). It provides an overview of the records (information and documents) held by our South Africa entities and details of how such records may be accessed.
+    [The PAIA and POPIA Manual](https://www.pinsentmasons.com/-/media/pdfs/legal-notices/paia-popia-manual.pdf?rev=8d2e480426c9471291a071e68ead7ce6&hash=6A020D922305E50B94A0B00AD8894B04) has been prepared in accordance with section 51 of the Promotion of Access to Information Act 2 of 2000 ("PAIA") as read with the Protection of Personal Information Act 4 of 2013 ("POPIA"). It provides an overview of the records (information and documents) held by our South Africa entities and details of how such records may be accessed.
     
 * [### PRC](#)
     
@@ -821,7 +820,7 @@ Other notices and information
 
 ### We have over 27 offices across 4 continents
 
-![carte du monde](/-/media/images/footer-map.png?h=308&w=597&hash=D732A3369301B9877AB4EBBACDECDCFE)
+![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=045c074fac11430daa17b706aa5d540d&hash=5FF54396C1D1C58C956BBE00BF48A792)
 
 [Find your nearest office](https://www.pinsentmasons.com/office-finder)
 
