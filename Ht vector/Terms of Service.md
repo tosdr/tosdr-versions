@@ -9,6 +9,7 @@
     * [HT Work Focus](https://ht-vector.com/ht-work-focus)
     * [HT System Administrator](https://ht-vector.com/system-administrator)
     * [HT Task Vector](https://ht-vector.com/ht-task-vector)
+    * [Smart Time Tracker](https://ht-vector.com/smart-time-tracker)
 * [Downloads](https://ht-vector.com/download)
 * [Pricing](https://ht-vector.com/order)
 * [Support](https://ht-vector.com/support)
@@ -16,6 +17,7 @@
 * [Log in](#)
     * [HT Family Shield](https://family.ht-vector.com/)
     * [HT Task Vector](https://manage.ht-vector.com/)
+    * [Smart Time Tracker](https://time.smartfishsoft.com/)
 
 Terms of Service
 ================
@@ -131,6 +133,8 @@ All rights reserved
 [HT System Administrator](https://ht-vector.com/system-administrator)
 
 [HT Task Vector](https://ht-vector.com/ht-task-vector)
+
+[Smart Time Tracker](https://ht-vector.com/smart-time-tracker)
 
   
 
