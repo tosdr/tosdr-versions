@@ -2,7 +2,7 @@
 
 [Home](#)[About](#)[Careers](#)[Get Started](#)
 
-[Home](https://www.freetelly.com/)[About](https://www.freetelly.com/about)[Careers](https://telly.rippling-ats.com/jobs)[Get Started](https://www.freetelly.com/getstarted)[Support](https://telly.zendesk.com/) [Press](https://www.freetelly.com/press)[Works with Telly](https://www.freetelly.com/products)[Contact](https://www.freetelly.com/contact)
+[Home](https://www.freetelly.com/)[About](https://www.freetelly.com/about)[Careers](https://telly.rippling-ats.com/jobs)[Get Started](https://www.freetelly.com/getstarted)[Support](https://telly.zendesk.com/) [Press](https://www.freetelly.com/press)[Contact](https://www.freetelly.com/contact)
 
 Terms of Service
 ----------------
@@ -248,7 +248,7 @@ Except as expressly set forth in the sections above regarding the Apple Applicat
 
 [![Telly Logo](https://cdn.prod.website-files.com/64590480193ff815a2915c19/653a6a472b6123098f4de581_Telly_Logosheet_vector%204.png)](https://www.freetelly.com/old-home)
 
-[Home](https://www.freetelly.com/)[About](https://www.freetelly.com/about)[Careers](https://telly.rippling-ats.com/jobs)[Get Started](https://www.freetelly.com/getstarted)[Support / FAQ](https://telly.zendesk.com/)[Press](https://www.freetelly.com/press)[Works with Telly](https://www.freetelly.com/products)[Contact](https://www.freetelly.com/contact-old)
+[Home](https://www.freetelly.com/)[About](https://www.freetelly.com/about)[Careers](https://telly.rippling-ats.com/jobs)[Get Started](https://www.freetelly.com/getstarted)[Support / FAQ](https://telly.zendesk.com/)[Press](https://www.freetelly.com/press)[Contact](https://www.freetelly.com/contact-old)
 
 [![Instagram Logo](https://cdn.prod.website-files.com/64590480193ff815a2915c19/6460b48f690df7d5dc36e65c_5296765_camera_instagram_instagram%20logo_icon%201.svg)](https://www.instagram.com/tellytv/)[![Twitter / X Logo](https://cdn.prod.website-files.com/64590480193ff815a2915c19/6553b5cd1ce39ccf316f6481_twitter%20icon%20(1).svg)](http://www.x.com/itsfreetelly)
 
