@@ -1,6 +1,6 @@
 [Skip to main content](#main_content)
 
-* [Partners](#)
+* Partners
     * [Agency Partner](https://www.cookieyes.com/agency/)
     * [Affiliate Partner](https://www.cookieyes.com/affiliates/)
 * [Company](#)
@@ -14,7 +14,7 @@
 
  [![CookieYes Logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/cookieyes-logo.svg) ![CookieYes Logo](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/cy-favicon.svg)](https://www.cookieyes.com/)
 
-[View plans](https://www.cookieyes.com/pricing/?ref=CYTR) [Try for free](https://app.cookieyes.com/trial?plan=basic-monthly&ref=CYHPTR_PG_94)
+[View plans](https://www.cookieyes.com/pricing/?ref=CYTR) [Try for free](https://app.cookieyes.com/trial?plan=pro-monthly&ref=CYHPTR_PG_94)
 
 * [Solutions](#)
     
@@ -23,6 +23,7 @@
     * [Founder](https://www.cookieyes.com/founder-use-cases/)
     * [Developer](https://www.cookieyes.com/developer-use-cases/)
     * [Marketer](https://www.cookieyes.com/marketer-use-cases/)
+    * [Agency](https://www.cookieyes.com/agency-use-cases/)
     
     BY REGULATIONS
     
@@ -91,7 +92,7 @@
     * [Cookie Checker](https://www.cookieyes.com/cookie-checker/)
     
 
-* [Partners](#)
+* Partners
     * [Agency Partner](https://www.cookieyes.com/agency/)
     * [Affiliate Partner](https://www.cookieyes.com/affiliates/)
 * [Company](#)
@@ -103,7 +104,7 @@
 * |
 * [Log in](https://app.cookieyes.com/login)
 
-[View plans](https://www.cookieyes.com/pricing/?ref=CYTR) [Try for free](https://app.cookieyes.com/trial?plan=basic-monthly&ref=CYHPTR_PG_94)
+[View plans](https://www.cookieyes.com/pricing/?ref=CYTR) [Try for free](https://app.cookieyes.com/trial?plan=pro-monthly&ref=CYHPTR_PG_94)
 
 Terms and Conditions
 ====================
