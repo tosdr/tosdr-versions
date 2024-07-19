@@ -183,7 +183,7 @@ With the exception of gross negligence or willful misconduct by a party, in no e
 * [Contact Us](https://www.media.net/contact)
 
 * [OPT OUT](https://www.media.net/optout)
-* CookieSettings
+* [Do Not Sell or Share My Personal Information](#)
 * [terms of service](https://www.media.net/legal/tos)
 
 * Policies:
