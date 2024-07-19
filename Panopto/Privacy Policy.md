@@ -34,11 +34,12 @@ English Français Deutsch 日本語 한국어 Italiano Español
     
     Turn data into action, identify top creators, and assess the impact of lectures and training with Panopto’s latest product add-on for your VCMS.
     
-    [Register Now](https://www.panopto.com/resource/webinar-panopto-knowledge-insights)
+    [Watch On-Demand](https://www.panopto.com/resource/webinar-panopto-knowledge-insights)
     
     * Product Add-Ons
-        * [Panopto Access AI](https://www.panopto.com/add-ons/access-ai/)
-        * [Panopto Knowledge Insights](https://www.panopto.com/add-ons/knowledge-insights/)
+        * [Panopto Access AI](https://www.panopto.com/product-add-ons/access-ai/)
+        * [Panopto Knowledge Insights](https://www.panopto.com/product-add-ons/knowledge-insights/)
+        * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
     
 * Industries
     
@@ -107,15 +108,15 @@ Ready to **see Panopto in action?**
 
 * * *
 
-![](https://www.panopto.com/wp-content/uploads/2024/01/logo-light.png)
+![](https://www.panopto.com/wp-content/uploads/2024/06/Panoptor-white@2x-Logo-Registered-Trademark.png)
 
 We believe in the power of learning, and we built an intelligent platform to help enterprise organizations improve the way they train, teach, and share knowledge.
 
-![](https://www.panopto.com/wp-content/uploads/2024/06/VideoCMS_Leader_Enterprise_Leader.png)
+![](https://www.panopto.com/wp-content/uploads/2024/07/VirtualClassroom_HighestUserAdoption_Enterprise_Adoption.png)
 
-![](https://www.panopto.com/wp-content/uploads/2024/06/VirtualClassroom_HighPerformer_Enterprise_HighPerformer.png)
+![](https://www.panopto.com/wp-content/uploads/2024/07/VirtualClassroom_HighPerformer_Enterprise_HighPerformer.svg)
 
-![](https://www.panopto.com/wp-content/uploads/2024/06/VideoCMS_BestSupport_Mid-Market_QualityOfSupport.png)
+![](https://www.panopto.com/wp-content/uploads/2024/07/LiveStream_BestSupport_Mid-Market_QualityOfSupport.png)
 
 * Platform
     * [Create Content](https://www.panopto.com/features/create-content/)
