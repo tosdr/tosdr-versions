@@ -88,7 +88,6 @@
     
 * [Customers](https://www.perimeter81.com/customers)
 * Resources
-    
     * Feature Overview
         * [Corporate VPNComing Soon](https://www.perimeter81.com/resources/corporate-vpn-solution)
         * [Monitioring Dashboard](https://www.perimeter81.com/monitoring-dashboard)
@@ -108,17 +107,6 @@
     * [Blog](https://www.perimeter81.com/blog)
     * [Glossary](https://www.perimeter81.com/glossary)
     * [What’s New](https://www.perimeter81.com/whats-new)
-    
-    ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-    
-    ![](https://assets.perimeter81.com/uploads/2023/12/banner_report.png)
-    
-    Report
-    
-    2023 Gartner Market Guide for Zero Trust Network Access
-    
-    [Get the Report](https://www.perimeter81.com/gartner-2023-market-guide-ztna)
-    
 * Company
     
     * [About Us](https://www.perimeter81.com/about-us)
