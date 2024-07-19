@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-Last updated on February 5, 2020.
+Last updated on July 1, 2024.
 
 Overview
 ========
@@ -18,13 +18,13 @@ There are only four pieces of information that we care about:
 
 Personally identifiable information is never collected, unless you explicitly provide it to us via the website contact form or the Feedback button in our apps. Feedback is sent via e-mail to our mail server, which is administered by [Fastmail](https://www.fastmail.fm/).
 
-To collect usage statistics, we use an anonymous beacon system rather than third-party analytics. The first time you access our website, or launch an app, we generate a universally unique identifier. This identifier, along with your web browser version, operating system version, application version, and/or mobile device model is periodically transmitted to our server. The identifier is never sent to a third-party. The identifier is not sent to us via the contact form nor the Feedback button in our apps.
+To collect usage statistics, we use an anonymous beacon system rather than third-party analytics. The first time you access our website or launch our apps, we generate a non-unique random number. This number, along with your web browser version, operating system version, application version, and/or mobile device model is periodically transmitted to our server. As each random number can be shared by several users, it cannot be used to track individual access. This approach gives us broad usage estimates while also preserving privacy.
+
+When a crash or error occurs, our crash reporting system collects the following pieces of information: location of the error, type of error, events preceding the error, web page on which the error occurred, web browser version, operating system version, mobile device model, and/or other non-personally identifiable information. This information is stored on our servers and not shared with third-parties.
 
 Our exercises feature a homework verification system where students enter text to “sign” a Progress Report. The signature text is embedded inside the resulting verification code. While this system is explicitly designed such that codes do not have to be stored on our servers, we may need to do so in order to diagnose and fix errors. To protect privacy, we strongly recommend that students use their initials or a unique identifier rather than their names.
 
-To help fix crashes and errors, we use [Sentry](https://sentry.io/) as our crash report aggregator. Information sent to them may include: location of the error, type of error, events preceding the error, web page on which the error occurred, web browser version, operating system version, mobile device model, and/or other non-personally identifiable information. Sentry removes non-aggregated event information after 90 days.
-
-We use [Linode](https://www.linode.com/) for server hosting and distribute our applications via [Apple](https://www.apple.com/)'s App Store.
+We use [Akamai](https://www.akamai.com/) for server hosting and distribute our applications via [Apple](https://www.apple.com/)'s App Store.
 
 * * *
 
@@ -45,18 +45,16 @@ Our applications periodically poll our servers to check for updates to lesson an
 
 In the event that our website or an application encounters an error, non-personally identifiable information pertaining to the error may be sent to our servers. We use this information to fix the error.
 
-We may keep data indefinitely. We try to follow good practices for log rotation, but we also make gratuitous backups, which may inadvertently store data.
+We may keep data indefinitely. We try to follow good practices for log rotation, but we also make copious backups, which may inadvertently store data.
 
 * * *
 
 Do we use cookies?
 ==================
 
-Our website generates a unique identifier upon your first visit and saves it as a cookie. This identifier is anonymous, contains no personally identifiable information, and is included in communications with our anonymous beacon system.
+Our website generates a non-unique random number upon the first visit and saves it as a cookie. This number is periodically included in communications with our anonymous beacon system. This approach allows us to estimate web browser usage share while preserving user privacy.
 
 Our website uses HTML5 Web Storage to persist information such as: lesson view mode, exercise scores, and calculator settings.
-
-Our applications generate a unique identifier when the application is installed. This identifier is anonymous, contains no personally identifiable information, and is included in communications with our servers.
 
 * * *
 
@@ -113,6 +111,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 [FAQ](https://www.musictheory.net/faq) [Legal](https://www.musictheory.net/legal) [Privacy](https://www.musictheory.net/privacy)
 
-© 2000-2023 musictheory.net, LLC  
-Apple, the Apple logo, iPhone, iPad, and iPod are trademarks of Apple Inc.,  
+© 2000-2024 musictheory.net, LLC  
+Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc.,  
 registered in the U.S. and other countries. App Store is a service mark of Apple Inc.
