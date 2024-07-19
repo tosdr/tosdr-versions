@@ -114,7 +114,7 @@ The following Terms and Conditions apply to all orders based on relevance and sc
 
 8.3. The transmission of spam mail is prohibited. This includes in particular the sending of unauthorized, unsolicited advertising to third parties. When sending emails, it is also prohibited to provide false sender data or to disguise the identity of the sender in any other way. The operation of applications for mining cryptocurrencies remains prohibited. These include, but are not limited to, mining, farming and plotting of cryptocurrencies. We are entitled to lock the Customer’s access to their Hetzner services or account in the event of non-compliance.
 
-8.4. If we become aware of illegal activities, we are obligated under § 10 Telemedia Act (TMG) to request that the Customer immediately removes the offending content and we are entitled to lock the Customer’s access to their Hetzner services or account.
+8.4. If we become aware of illegal activities, we are obligated under Art. 6 Abs. 1 DSA (Digital Services Act) to request that the Customer immediately removes the offending content and we are entitled to lock the Customer’s access to their Hetzner services or account.
 
 #### 9\. Liability
 
