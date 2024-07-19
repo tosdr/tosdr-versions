@@ -122,7 +122,7 @@ No matter what kind of domain you want to buy, we make the transfer simple and s
 
 [See more domains](https://dan.com/domain-seller/domain-seller-c925e8ee-aa86-480f-8a66-12b55f90775b?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)
 
-[Privacy policy](https://dan.com/privacy?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·[Do not sell my personal information](https://openplacereviews.org/cookies)·Manage cookies·[Terms of use](https://dan.com/terms_of_use?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·[Disclaimer](https://dan.com/disclaimer?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·[Sitemap](https://dan.com/sitemap?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·© 2024 Dan.com an Undeveloped BV subsidiary. All Rights Reserved.
+[Privacy policy](https://dan.com/privacy?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·[Do not sell my personal information](https://openplacereviews.org/privacy)·Manage cookies·[Terms of use](https://dan.com/terms_of_use?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·[Disclaimer](https://dan.com/disclaimer?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·[Sitemap](https://dan.com/sitemap?utm_campaign=Parking&utm_medium=parking&utm_source=.org&utm_term=openplacereviews.org)·© 2024 Dan.com an Undeveloped BV subsidiary. All Rights Reserved.
 
 English
 
