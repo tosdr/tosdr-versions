@@ -37,7 +37,7 @@ All Products Messageboards Blogs Users PRD
     * [ ]  [Beginner Box▾▾](https://paizo.com/starfinder/beginnerbox "Starfinder > Beginner Box")
     * [ ]  [Rulebooks▾▾](https://paizo.com/starfinder/rulebooks "Starfinder > Rulebooks")
     * [ ]  [Adventures▾▾](https://paizo.com/starfinder/adventures "Starfinder > Adventures")
-        * [Adventure Path](https://paizo.com/store/starfinder/adventures/adventurePath "Store > Starfinder > Adventures > Adventure Path")
+        * [Adventures](https://paizo.com/store/starfinder/adventures/adventures "Store > Starfinder > Adventures > Adventures")
         * [Standalone Adventures](https://paizo.com/store/starfinder/adventures/standaloneAdventures "Store > Starfinder > Adventures > Standalone Adventures")
         * [Organized Play Scenarios](https://paizo.com/store/starfinder/adventures/organizedPlay "Store > Starfinder > Adventures > Organized Play Scenarios")
     * [ ]  [Accessories▾▾](https://paizo.com/starfinder/accessories "Starfinder > Accessories")
@@ -512,9 +512,9 @@ If you have questions or concerns about this privacy policy, or about your deali
 
 #### Need Help?
 
-Mon–Fri, 10:00 a.m. to 5:00 p.m. Pacific
+Mon–Fri, 10:00 a.m. to 4:00 p.m. Pacific
 
-[customer.service@paizo.com](mailto:customer.service@paizo.com)
+Phone: [425-215-1442](tel:425-215-1442)
 
 * [![Like Paizo on Facebook](https://cdn.paizo.com/image/navigation/Social-Facebook.png)](https://www.facebook.com/paizo/)
 * [![Follow Paizo on Twitter](https://cdn.paizo.com/image/navigation/Social-Twitter.png)](https://www.twitter.com/paizo/)
