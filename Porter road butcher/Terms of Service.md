@@ -2,15 +2,15 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-Become a co-owner [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
+Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
-20% off chuck eye [go](https://porterroad.com/products/chuck-eye-steak)
+20% off bone-in ribeye [save](https://porterroad.com/products/bone-in-ribeye)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-Become a co-owner [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
+Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
-20% off chuck eye [go](https://porterroad.com/products/chuck-eye-steak)
+20% off bone-in ribeye [save](https://porterroad.com/products/bone-in-ribeye)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
@@ -41,7 +41,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     -------](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Cookout Classics](https://porterroad.com/collections/cookout-classics)
+* [Best Sellers](https://porterroad.com/pages/best-sellers-se)
 
 [![Porter Road logo](//porterroad.com/cdn/shop/t/145/assets/pr-logo.svg?v=109538801025733471761695148435)](https://porterroad.com/)
 
@@ -93,7 +93,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Dry Aged
     
-    $39 ~ $31/LB
+    On Sale for $31 Regular price ~$39~ ~ $25/LB
     
     You can prepare this by cooking
     
@@ -120,7 +120,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     #### Chicken](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Cookout Classics](https://porterroad.com/collections/cookout-classics)
+* [Best Sellers](https://porterroad.com/pages/best-sellers-se)
 * [Our Story](https://porterroad.com/pages/about)
 * [Our Process](https://porterroad.com/pages/our-process)
 * [Invest](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=topnav&utm_campaign=launch)
