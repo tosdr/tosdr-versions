@@ -13,9 +13,7 @@ Close this search box.
 
 [Request Info](https://pmi.edu/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20462'%3E%3C/svg%3E)
-
-![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
+[![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
 
 * [Campus Programs](https://pmi.edu/on-campus-programs/)
     * [Certificate](https://pmi.edu/on-campus-programs/certificate/)
@@ -105,9 +103,7 @@ Close this search box.
     * [Hybrid Education](https://pmi.edu/why-pima-medical/hybrid-education/)
     * [Success Stories](https://pmi.edu/why-pima-medical/success-stories/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20462'%3E%3C/svg%3E)
-
-![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
+[![](https://pmi.edu/wp-content/uploads/2022/03/Pima-Medical-Institute-Logo-No_TRP-M-blue.png)](https://pmi.edu/)
 
 [](tel:800-477-7462)
 
@@ -312,6 +308,7 @@ Request More Information here and a member of our team will get back to you as s
 
 * [Privacy Policy](https://pmi.edu/privacy-policy)
 * [Accessibility](https://pmi.edu/accessibility)
+* [WA Consumer Health Data Privacy Policy](https://pmi.edu/wp-content/uploads/2024/06/WA-Consumer-Health-Data-Privacy-Policy-Pima-Medical-Institute.pdf)
 * [Sitemap](https://pmi.edu/site-map)
 
 [Facebook-f](https://www.facebook.com/pimamedicalinstitute) [Linkedin-in](https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGw5s_PHDf6HAAAAX5XjjqwYMvbCfdBDcjizv8g4ukQo13tHNsGlr4_P12YTzAjvpXRXoNC6q3On7Ck7wnTMbUXyBsWuNQjwV5Rf6NLoQ74rODdTmy4y9Ptghcc5jcvoj92dX8=&originalReferer=https://pmi.edu/&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fschool%2Fpima-medical-institute) [Tiktok](https://www.tiktok.com/@pima_medical?_t=8ZZxChf3QsQ&_r=1) [Youtube](https://www.youtube.com/user/pimamedicalinst) [Instagram](https://instagram.com/pimamedical)
