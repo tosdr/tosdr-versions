@@ -135,7 +135,7 @@
     * [Mobile app](https://www.dropbox.com/mobile)
     
 
-English (United States)
+Language
 
 [Get started](https://www.dropbox.com/plans)
 
