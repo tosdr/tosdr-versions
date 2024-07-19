@@ -181,8 +181,6 @@ Please check this page frequently to see any updates or changes to this Privacy 
 
 **The entity responsible for the processing of your Personal Information is: ZAM Network LLC (doing business as Fanbyte), 12777 West Jefferson Blvd – Building E, Los Angeles, CA 90066, USA [privacy@zam.com](mailto:privacy@zam.com). Our representative in the EU is Achieved Compliance Advocacy, Ltd., which can be contacted at Singel 250, 1016 AB Amsterdam, Netherlands or by email at [zam@gdprrepresentative.eu](mailto:zam@gdprrepresentative.eu). Our representative in the UK is Achieved Compliance Advocacy Ltd, which can be contacted at Princess House, Princess Way, Swansea, UK SA1 3LW or by email at [zam@gdprrepresentative.eu](mailto:zam@gdprrepresentative.eu).**
 
-**
-
 ### Privacy Policy Addendum for California Residents
 
 The California Consumer Privacy Act (“CCPA”) contains additional terms for California residents using the Services, which are set out in this section.
@@ -237,16 +235,4 @@ We aim to fulfill all verified requests within 45 days pursuant to the CCPA.  I
 
 First, you may wish to log into your account and manage your data from there. If you are a California resident to whom the CCPA applies, you may exercise your rights, if any, to other data by contacting us at [privacy@zam.com](mailto:privacy@zam.com) or [completing this form](https://help.zam.com/support/tickets/new).
 
-
-
-**
-
-**
-
-[terms of service](https://corp.fanbyte.com/legal-terms) [privacy policy](https://corp.fanbyte.com/legal-privacy) [support portal](https://help.zam.com/support/home)
-
-
-
-
-
-**
+[terms of service](https://corp.fanbyte.com/legal/terms) [privacy policy](https://corp.fanbyte.com/legal/privacy) [support portal](https://help.zam.com/support/home)
