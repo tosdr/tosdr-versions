@@ -253,4 +253,18 @@ Power awesome digital learning anywhere, anytime.
 
 © 2010- Hāpara. All rights reserved. [Privacy](https://hapara.com/privacy-policy/) and [Legal](https://legal.cordance.co/hapara). Hāpara is a business unit of Cordance Operations LLC 16 W Martin Street, Raleigh, NC 27601
 
+×
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MTYgMTA1NiIgd2lkdGg9IjgxNiIgaGVpZ2h0PSIxMDU2IiBkYXRhLXU9Imh0dHBzJTNBJTJGJTJGaGFwYXJhLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGRS1Cb29rLUhvdy10by12ZXQtZWR0ZWNoLXRvb2xzLXRvLXByb21vdGUtc3VjY2Vzcy1hdC1zY2hvb2wtZm9yLWFsbC1sZWFybmVycy5wbmciIGRhdGEtdz0iODE2IiBkYXRhLWg9IjEwNTYiIGRhdGEtYmlwPSIiPjwvc3ZnPg== "E-Book - How to vet edtech tools to promote success at school for all learners")
+
+×
+
+**FREE E-BOOK FOR EDUCATORS**
+
+### **Want to find the right edtech tools for your classroom?**
+
+Being an active digital citizen means practicing a set of concrete skills that learners need to navigate the digital landscape’s unbridled potential and power.
+
+[Download now](https://hapara.com/how-to-vet-edtech-tools-ebook/)
+
 ### Pin It on Pinterest
