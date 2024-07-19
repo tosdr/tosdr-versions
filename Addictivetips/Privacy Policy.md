@@ -272,7 +272,7 @@ Chances are, we can find what you're looking for:
  SEARCH
 
 * [Company](#)
-* [About Us](https://www.addictivetips.com/about/)
+* [About Us](https://www.addictivetips.com/about//)
 * [Editorial Process](https://www.addictivetips.com/editorial-process/)
 * [Content Integrity](https://www.addictivetips.com/content-integrity/)
 * [Join the team](https://www.addictivetips.com/join-the-team/)
