@@ -5,215 +5,221 @@
 * Product
     
     Close Product Open Product
+    
+    Platform
+    
+    Experiences
+    
+    Platform
+    --------
+    
+    [##### Help Center
+    
+    Central knowledge hub enabling self-serve, proactive user support.
+    
+    Learn More](https://www.helpshift.com/help-center/)[##### Messaging
+    
+    AI-guided, enriched messaging for seamless customer support.
+    
+    Learn More](https://www.helpshift.com/messaging/)[##### AI and Automation
+    
+    Efficiently manages routine tasks, freeing agents for personalized support.
+    
+    Learn More](https://www.helpshift.com/ai-and-automation/)[##### Agent Workspace
+    
+    Centralized AI-enhanced workspace for streamlined support operations.
+    
+    Learn More](https://www.helpshift.com/agent-workspace/)
+    
+    [##### Platform Overview
+    
+    Comprehensive AI-powered platform for multi-device customer support.
+    
+    Learn More](https://www.helpshift.com/helpshift-platform/)
+    
+    ![Platform Overview](https://www.helpshift.com/wp-content/uploads/2024/02/Platform-Overview.png)
+    
+    ![](https://www.helpshift.com/wp-content/uploads/2024/02/product-menu-overlay.svg)
+    
+    Experiences
+    -----------
+    
+    [##### Self-Help Experience
+    
+    Empower users with quick solutions through self-service tools.
+    
+    Learn More](https://www.helpshift.com/self-help-experience/)[##### Guided Experience
+    
+    Intuitive AI-driven guidance with a personal touch for superior service.
+    
+    Learn More](https://www.helpshift.com/guided-experience/)[##### Global Experience
+    
+    Enhance game support with seamless, real-time problem resolution.
+    
+    Learn More](https://www.helpshift.com/global-experience/)[##### Console and PC Experience​
+    
+    Seamless and cost-effective 24/7 multilingual customer support solution.
+    
+    Learn More](https://www.helpshift.com/console-and-pc-experience/)
+    
+    #### Platform
+    
+    * [Help Center](https://www.helpshift.com/help-center/)
+    * [Messaging](https://www.helpshift.com/messaging/)
+    * [AI and Automation](https://www.helpshift.com/ai-and-automation/)
+    * [Agent Workspace](https://www.helpshift.com/agent-workspace/)
+    * [Platform Overview](https://www.helpshift.com/helpshift-platform/)
+    
+    * [Help Center](https://www.helpshift.com/help-center/)
+    * [Messaging](https://www.helpshift.com/messaging/)
+    * [AI and Automation](https://www.helpshift.com/ai-and-automation/)
+    * [Agent Workspace](https://www.helpshift.com/agent-workspace/)
+    * [Platform Overview](https://www.helpshift.com/helpshift-platform/)
+    
+    #### Experiences
+    
+    * [Self Help Experience](https://www.helpshift.com/self-help-experience/)
+    * [Guided Experience](https://www.helpshift.com/guided-experience/)
+    * [Global Experience](https://www.helpshift.com/global-experience/)
+    * [Console and PC Experience](https://www.helpshift.com/console-and-pc-experience/)
+    
+    * [Self Help Experience](https://www.helpshift.com/self-help-experience/)
+    * [Guided Experience](https://www.helpshift.com/guided-experience/)
+    * [Global Experience](https://www.helpshift.com/global-experience/)
+    * [Console and PC Experience](https://www.helpshift.com/console-and-pc-experience/)
+    
 * Services
     
     Close Services Open Services
+    
+    [#### Customer Engagement Services
+    
+    ### Customer Support
+    
+    Dedicated Human Support Specialists.
+    
+    ### Trust and Safety
+    
+    Expert Content Moderation Specialists.
+    
+    ### Community Management
+    
+    Dedicated Community Engagement Specialists.
+    
+    ### VIP Engagement and Growth
+    
+    Personalized VIP Support Experts.](https://www.helpshift.com/customer-engagement-services/)[](https://www.helpshift.com/customer-engagement-services/)[#### Professional and Managed Services
+    
+    ### Professional Services
+    
+    Tailored Project Implementation Specialists.
+    
+    ### Managed Services
+    
+    Continuous Improvement and Support Specialists.](https://www.helpshift.com/professional-and-managed-services/)
+    
+    ![](https://www.helpshift.com/wp-content/uploads/2024/02/services-mega-menu-lines-bg.svg)
+    
+    #### Featured Case Study
+    
+    [![Case Study Hero](https://www.helpshift.com/wp-content/uploads/2024/05/Subway-Surfers-Key-art-landscape-640x456-1.jpg)](https://www.helpshift.com/customers/sybo/)
+    
+    ![SYBO](https://www.helpshift.com/wp-content/uploads/2024/05/SYBO.png)
+    
+    ### [SYBO’s Subway Surfers Achieves 4.3 CSAT and 77% Automation Rate with Helpshift in Under 3 Months](https://www.helpshift.com/customers/sybo/)
+    
+    [Read their story](https://www.helpshift.com/customers/sybo/)
+    
+    * [Customer Engagement Services](https://www.helpshift.com/customer-engagement-services/)
+    * [Professional and Managed Services](https://www.helpshift.com/professional-and-managed-services/)
+    
+    * [Customer Engagement Services](https://www.helpshift.com/customer-engagement-services/)
+    * [Professional and Managed Services](https://www.helpshift.com/professional-and-managed-services/)
+    
 * [Pricing](https://www.helpshift.com/pricing/)
+    
 * [Case Studies](https://www.helpshift.com/customers/)
+    
 * Company
     
     Close Company Open Company
+    
+    ![](https://www.helpshift.com/wp-content/uploads/2024/02/Company-mega-menu-lines.svg)
+    
+    ![](https://www.helpshift.com/wp-content/uploads/2024/02/Company-menu-icon.png)
+    
+    * [Company](https://www.helpshift.com/company/)
+    * [Leadership](https://www.helpshift.com/leadership/)
+    * [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
+    
+    * [Company](https://www.helpshift.com/company/)
+    * [Leadership](https://www.helpshift.com/leadership/)
+    * [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
+    
+    #### Featured News
+    
+    [5 Mar 2024
+    
+    Three CX Trends Coming To Your Industry In 2024
+    -----------------------------------------------](https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/04/three-cx-trends-coming-to-your-industry-in-2024/?sh=4a6a55a4695f#new_tab)
+    
+    [10 Jan 2024
+    
+    AI cooling off period projected by Helpshift in 2024
+    ----------------------------------------------------](https://appdevelopermagazine.com/ai-cooling-off-period-projected-by-helpshift-in-2024/#new_tab)
+    
 * Resources
     
     Close Resources Open Resources
-
-Platform
-
-Experiences
-
-Platform
---------
-
-[##### Help Center
-
-Central knowledge hub enabling self-serve, proactive user support.
-
-Learn More](https://www.helpshift.com/help-center/)[##### Messaging
-
-AI-guided, enriched messaging for seamless customer support.
-
-Learn More](https://www.helpshift.com/messaging/)[##### AI and Automation
-
-Efficiently manages routine tasks, freeing agents for personalized support.
-
-Learn More](https://www.helpshift.com/ai-and-automation/)[##### Agent Workspace
-
-Centralized AI-enhanced workspace for streamlined support operations.
-
-Learn More](https://www.helpshift.com/agent-workspace/)
-
-[##### Platform Overview
-
-Comprehensive AI-powered platform for multi-device customer support.
-
-Learn More](https://www.helpshift.com/helpshift-platform/)
-
-![Platform Overview](https://www.helpshift.com/wp-content/uploads/2024/02/Platform-Overview.png)
-
-![](https://www.helpshift.com/wp-content/uploads/2024/02/product-menu-overlay.svg)
-
-Experiences
------------
-
-[##### Self-Help Experience
-
-Empower users with quick solutions through self-service tools.
-
-Learn More](https://www.helpshift.com/self-help-experience/)[##### Guided Experience
-
-Intuitive AI-driven guidance with a personal touch for superior service.
-
-Learn More](https://www.helpshift.com/guided-experience/)[##### Global Experience
-
-Enhance game support with seamless, real-time problem resolution.
-
-Learn More](https://www.helpshift.com/global-experience/)[##### Console and PC Experience​
-
-Seamless and cost-effective 24/7 multilingual customer support solution.
-
-Learn More](https://www.helpshift.com/console-and-pc-experience/)
-
-#### Platform
-
-* [Help Center](https://www.helpshift.com/help-center/)
-* [Messaging](https://www.helpshift.com/messaging/)
-* [AI and Automation](https://www.helpshift.com/ai-and-automation/)
-* [Agent Workspace](https://www.helpshift.com/agent-workspace/)
-* [Platform Overview](https://www.helpshift.com/helpshift-platform/)
-
-* [Help Center](https://www.helpshift.com/help-center/)
-* [Messaging](https://www.helpshift.com/messaging/)
-* [AI and Automation](https://www.helpshift.com/ai-and-automation/)
-* [Agent Workspace](https://www.helpshift.com/agent-workspace/)
-* [Platform Overview](https://www.helpshift.com/helpshift-platform/)
-
-#### Experiences
-
-* [Self Help Experience](https://www.helpshift.com/self-help-experience/)
-* [Guided Experience](https://www.helpshift.com/guided-experience/)
-* [Global Experience](https://www.helpshift.com/global-experience/)
-* [Console and PC Experience](https://www.helpshift.com/console-and-pc-experience/)
-
-* [Self Help Experience](https://www.helpshift.com/self-help-experience/)
-* [Guided Experience](https://www.helpshift.com/guided-experience/)
-* [Global Experience](https://www.helpshift.com/global-experience/)
-* [Console and PC Experience](https://www.helpshift.com/console-and-pc-experience/)
-
-[#### Customer Engagement Services
-
-### Customer Support
-
-Dedicated Human Support Specialists.
-
-### Trust and Safety
-
-Expert Content Moderation Specialists.
-
-### Community Management
-
-Dedicated Community Engagement Specialists.
-
-### VIP Engagement and Growth
-
-Personalized VIP Support Experts.](https://www.helpshift.com/customer-engagement-services/)[](https://www.helpshift.com/customer-engagement-services/)[#### Professional and Managed Services
-
-### Professional Services
-
-Tailored Project Implementation Specialists.
-
-### Managed Services
-
-Continuous Improvement and Support Specialists.](https://www.helpshift.com/professional-and-managed-services/)
-
-![](https://www.helpshift.com/wp-content/uploads/2024/02/services-mega-menu-lines-bg.svg)
-
-#### Featured Case Study
-
-[![Case Study Hero](https://www.helpshift.com/wp-content/uploads/2024/05/Subway-Surfers-Key-art-landscape-640x456-1.jpg)](https://www.helpshift.com/customers/sybo/)
-
-![SYBO](https://www.helpshift.com/wp-content/uploads/2024/05/SYBO.png)
-
-### [SYBO’s Subway Surfers Achieves 4.3 CSAT and 77% Automation Rate with Helpshift in Under 3 Months](https://www.helpshift.com/customers/sybo/)
-
-[Read their story](https://www.helpshift.com/customers/sybo/)
-
-* [Customer Engagement Services](https://www.helpshift.com/customer-engagement-services/)
-* [Professional and Managed Services](https://www.helpshift.com/professional-and-managed-services/)
-
-* [Customer Engagement Services](https://www.helpshift.com/customer-engagement-services/)
-* [Professional and Managed Services](https://www.helpshift.com/professional-and-managed-services/)
-
-![](https://www.helpshift.com/wp-content/uploads/2024/02/Company-mega-menu-lines.svg)
-
-![](https://www.helpshift.com/wp-content/uploads/2024/02/Company-menu-icon.png)
-
-* [Company](https://www.helpshift.com/company/)
-* [Leadership](https://www.helpshift.com/leadership/)
-* [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
-
-* [Company](https://www.helpshift.com/company/)
-* [Leadership](https://www.helpshift.com/leadership/)
-* [Careers](https://www.keywordsstudios.com/en/careers/browse-careers/)
-
-#### Featured News
-
-[5 Mar 2024
-
-Three CX Trends Coming To Your Industry In 2024
------------------------------------------------](https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/04/three-cx-trends-coming-to-your-industry-in-2024/?sh=4a6a55a4695f#new_tab)
-
-[10 Jan 2024
-
-AI cooling off period projected by Helpshift in 2024
-----------------------------------------------------](https://appdevelopermagazine.com/ai-cooling-off-period-projected-by-helpshift-in-2024/#new_tab)
-
-#### Learn
-
-* [Resource Library](https://www.helpshift.com/resources/)
-* [Blog](https://www.helpshift.com/blog/)
-* [Press](https://www.helpshift.com/press/)
-* [Glossary](https://www.helpshift.com/glossary/)
-* [Engineering Blog](https://medium.com/helpshift-engineering)
-* [Product Announcements](https://www.helpshift.com/announcements)
-
-* [Resource Library](https://www.helpshift.com/resources/)
-* [Blog](https://www.helpshift.com/blog/)
-* [Press](https://www.helpshift.com/press/)
-* [Glossary](https://www.helpshift.com/glossary/)
-* [Engineering Blog](https://medium.com/helpshift-engineering)
-* [Product Announcements](https://www.helpshift.com/announcements)
-
-#### Participate
-
-* [Webinar](https://www.helpshift.com/webinar/)
-* [Podcast](https://playerengage.com/)
-
-* [Webinar](https://www.helpshift.com/webinar/)
-* [Podcast](https://playerengage.com/)
-
-#### Get Support
-
-* [Knowledge Base](https://support.helpshift.com/kb/)
-* [Developer Guides](https://developers.helpshift.com/)
-* [Contact Us](https://www.helpshift.com/contact-us/)
-
-* [Knowledge Base](https://support.helpshift.com/kb/)
-* [Developer Guides](https://developers.helpshift.com/)
-* [Contact Us](https://www.helpshift.com/contact-us/)
-
-![](https://www.helpshift.com/wp-content/uploads/2024/02/resources-mega-menu-lines-bg.svg)
-
-#### Featured Resource
-
-[![Multilingual Support Guide](https://www.helpshift.com/wp-content/uploads/2024/06/Multilingual-Support-Guide-1024x649.png)](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
-
-**read**
-
-### [How Multilingual Support Improves Global Customer Experiences](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
-
-[Read more](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
-
-[Free Trial](https://get.helpshift.com/evaluation-sign-up)
+    
+    #### Learn
+    
+    * [Resource Library](https://www.helpshift.com/resources/)
+    * [Blog](https://www.helpshift.com/blog/)
+    * [Press](https://www.helpshift.com/press/)
+    * [Glossary](https://www.helpshift.com/glossary/)
+    * [Engineering Blog](https://medium.com/helpshift-engineering)
+    * [Product Announcements](https://www.helpshift.com/announcements)
+    
+    * [Resource Library](https://www.helpshift.com/resources/)
+    * [Blog](https://www.helpshift.com/blog/)
+    * [Press](https://www.helpshift.com/press/)
+    * [Glossary](https://www.helpshift.com/glossary/)
+    * [Engineering Blog](https://medium.com/helpshift-engineering)
+    * [Product Announcements](https://www.helpshift.com/announcements)
+    
+    #### Participate
+    
+    * [Webinar](https://www.helpshift.com/webinar/)
+    * [Podcast](https://playerengage.com/)
+    
+    * [Webinar](https://www.helpshift.com/webinar/)
+    * [Podcast](https://playerengage.com/)
+    
+    #### Get Support
+    
+    * [Knowledge Base](https://support.helpshift.com/kb/)
+    * [Developer Guides](https://developers.helpshift.com/)
+    * [Contact Us](https://www.helpshift.com/contact-us/)
+    
+    * [Knowledge Base](https://support.helpshift.com/kb/)
+    * [Developer Guides](https://developers.helpshift.com/)
+    * [Contact Us](https://www.helpshift.com/contact-us/)
+    
+    ![](https://www.helpshift.com/wp-content/uploads/2024/02/resources-mega-menu-lines-bg.svg)
+    
+    #### Featured Resource
+    
+    [![Multilingual Support Guide](https://www.helpshift.com/wp-content/uploads/2024/06/Multilingual-Support-Guide-1024x649.png)](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
+    
+    **read**
+    
+    ### [How Multilingual Support Improves Global Customer Experiences](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
+    
+    [Read more](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
+    
+
+[Free Trial](https://get.helpshift.com/experience-helpshift)
 
 [Request Demo](https://www.helpshift.com/schedule-your-demo/)
 
@@ -222,7 +228,7 @@ Enterprise Terms
 
 Effective date:  **9 December 2021**
 
-##### Privacy Notice Table of Contents
+##### Table of Contents
 
 PLEASE READ THESE ENTERPRISE TERMS (“TERMS”) CAREFULLY BEFORE USING THE SERVICES OFFERED BY HELPSHIFT, INC. (“HELPSHIFT”). BY MUTUALLY EXECUTING ONE OR MORE ORDER FORMS WITH HELPSHIFT WHICH REFERENCE THESE TERMS (EACH, AN “ORDER FORM”), YOU (“CUSTOMER”) AGREE TO BE BOUND BY THESE TERMS (TOGETHER WITH ALL ORDER FORMS, THE “AGREEMENT”) TO THE EXCLUSION OF ALL OTHER TERMS. IN ADDITION, ANY ONLINE ORDER FORM WHICH YOU SUBMIT VIA HELPSHIFT’S STANDARD ONLINE PROCESS AND WHICH IS ACCEPTED BY HELPSHIFT SHALL BE DEEMED TO BE MUTUALLY EXECUTED. IF THE TERMS OF THIS AGREEMENT ARE CONSIDERED AN OFFER, ACCEPTANCE IS EXPRESSLY LIMITED TO SUCH TERMS.
 
@@ -376,7 +382,7 @@ Company
 * [Legal](https://www.helpshift.com/legal/)
 * [Privacy](https://www.helpshift.com/legal/privacy/)
 * [Security](https://www.helpshift.com/security/)
-* Cookie Settings
+* [Cookie Settings](https://www.helpshift.com/legal/cookie-notice/)
 
 * [](https://www.facebook.com/helpshift)
 * [](https://www.instagram.com/helpshift/)
