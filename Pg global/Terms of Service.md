@@ -330,8 +330,12 @@ Legal
 
 [Terms and Conditions](https://termsandconditions.pg.com/en-us/)
 
+[AdChoices![adchoice](/static/images/adchoice.png)](https://privacypolicy.pg.com/en/#iba)
+
 [Your Privacy Choices![your privacy choices](/static/images/privacyChoices.png)](https://preferencecenter.pg.com/en-us/)
 
 [Do Not Sell or Share My Personal Information / Opt-Out of Targeted Advertising](javascript:void(0))
+
+NOTICE: We may sell your sensitive personal data
 
 © 2024 Procter & Gamble
