@@ -6,7 +6,7 @@
 Privacy policy
 ==============
 
-Last updated: 21 March 2024
+Last updated: 3 July 2024
 
 About this policy
 -----------------
@@ -20,7 +20,7 @@ The OAIC will update this privacy policy when its information handling practices
 Overview
 --------
 
-The OAIC collects, uses and discloses and holds personal information to exercise its powers and perform its functions under the [_Australian Information Commissioner Act 2010_](https://www.legislation.gov.au/Details/C2012C00126),  Privacy Act,  [_Freedom of Information Act 1982_](https://www.legislation.gov.au/Details/C2012C00904) (FOI Act), [_My Health Records Act 2012_](https://www.legislation.gov.au/Series/C2012A00063) (My Health Records Act), [_Competition and Consumer Act 2010_](https://www.legislation.gov.au/Details/C2020C00352) (CC Act) and [other legislation that confer powers, functions or duties on the OAIC](https://www.oaic.gov.au/_old/privacy/other-legislation).
+The OAIC collects, uses and discloses and holds personal information to exercise its powers and perform its functions under the [_Australian Information Commissioner Act 2010_](https://www.legislation.gov.au/Details/C2012C00126),  Privacy Act,  [_Freedom of Information Act 1982_](https://www.legislation.gov.au/Details/C2012C00904) (FOI Act), [_My Health Records Act 2012_](https://www.legislation.gov.au/Series/C2012A00063) (My Health Records Act), [_Competition and Consumer Act 2010_](https://www.legislation.gov.au/Details/C2020C00352) (CC Act) and [other legislation that confer powers, functions or duties on the OAIC](https://www.oaic.gov.au/_old/privacy/other-legislation).
 
 Some of these powers, functions and duties include:
 
@@ -35,7 +35,7 @@ Some of these powers, functions and duties include:
 
 The OAIC also collects, uses and discloses and holds personal information to carry out certain business functions, such as assessing suitable candidates for career opportunities within the OAIC.
 
-### **Collection of sensitive information**
+### Collection of sensitive information
 
 The OAIC also collects sensitive information. The Privacy Act defines ‘sensitive information’ as:
 
@@ -52,10 +52,10 @@ The OAIC also collects sensitive information. The Privacy Act defines ‘sensiti
 
 that is also personal information; or
 
-2. health information about an individual; or
-3. genetic information about an individual that is not otherwise health information; or
-4. biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or
-5. biometric templates.
+1. health information about an individual; or
+2. genetic information about an individual that is not otherwise health information; or
+3. biometric information that is to be used for the purpose of automated biometric verification or biometric identification; or
+4. biometric templates.
 
 Sometimes the OAIC may need to collect sensitive information about you to, for example, handle a complaint.
 
@@ -96,7 +96,7 @@ The OAIC would ordinarily collect your personal information in this way to, for 
 
 Individuals have the option, to interact with the OAIC anonymously or using a pseudonym. where reasonably possible. For example, if you contact the OAIC enquiries line with a general question, you will not be asked for your name unless it is required to adequately handle your enquiry.
 
-However, for most of your interactions with the OAIC your name, contact information and enough information about the particular matter will be required to enable the OAIC to deal with the matter fairly and efficiently .
+However, for most of your interactions with the OAIC your name, contact information and enough information about the particular matter will be required to enable the OAIC to deal with the matter fairly and efficiently.
 
 Collecting through the OAIC website
 -----------------------------------
@@ -104,6 +104,7 @@ Collecting through the OAIC website
 The OAIC’s public website, www.oaic.gov.au, is hosted in Australia. There are a number of ways in which the OAIC collects information though its website, including via numerous online tools:
 
 * Google Analytics, a website analytics tool;
+* Google reCAPTCHA, an anti-spam tool;
 * Vision6, a mailing list tool; and
 * TryBooking, an event management tool
 
@@ -123,6 +124,21 @@ The OAIC uses Google Analytics as a website analytics tool to collect data about
 This information will not ordinarily be personal information, because you will not be identified, or reasonably identifiable from it.
 
 View [Google Analytics privacy policy](https://policies.google.com/privacy?hl=en).
+
+### Google reCAPTCHA
+
+The OAIC uses Google reCAPTCHA (version 2) as a means to eliminate spam attacks and to be able to distinguish users from bots. The tool may collect data about how you interact with the website’s smart forms, including:
+
+* mouse movements;
+* device IP address;
+* date and time when pages were accessed;
+* device type, operating system and browser information;
+* device screen size; and
+* geographic location (city).
+
+This information will be stored on Google’s servers outside of Australia. Content that you enter in the OAIC’s web forms will not be collected through the use of this tool.
+
+View Google’s [Cloud Data Processing Addendum](https://cloud.google.com/terms/data-processing-addendum) and [Google’s privacy policy](https://policies.google.com/privacy?hl=en).
 
 ### Mailing lists
 
@@ -146,7 +162,7 @@ The OAIC uses TryBooking to manage event registrations. You can access TryBookin
 
 ### Surveys
 
-The OAIC uses Qualtrics XM to conduct surveys and may collect certain personal information you provide in your survey responses, such as your name, email, job role, place of work and other information that may be relevant in the context of particular surveys. Qualtrics XM’s privacy statement is available [here](https://www.qualtrics.com/privacy-statement).
+The OAIC uses Qualtrics XM to conduct surveys and may collect certain personal information you provide in your survey responses, such as your name, email, job role, place of work and other information that may be relevant in the context of particular surveys. Qualtrics XM’s privacy statement is available [here](https://www.qualtrics.com/privacy-statement).
 
 ### Embedded YouTube videos
 
@@ -154,7 +170,7 @@ The OAIC uses YouTube to host videos which are embedded on its website. Such emb
 
 When you play an embedded video from the OAIC’s website, the video and associated assets will load from the domain www.youtube-nocookie.com, and other domains associated with the YouTube player.
 
-YouTube collects information about user activity including videos watched and interactions with content and ads. This information is not made available to the OAIC and is instead handled in accordance with the [YouTube privacy policy](https://policies.google.com/privacy?hl=en).
+YouTube collects information about user activity including videos watched and interactions with content and ads. This information is not made available to the OAIC and is instead handled in accordance with the [YouTube privacy policy](https://policies.google.com/privacy?hl=en).
 
 ### Cookies
 
@@ -164,21 +180,25 @@ Most browsers allow you to choose whether to accept cookies or not. If you do no
 
 The information collected about you using cookies will not ordinarily be your personal information, because you will not be identified or reasonably identifiable to the OAIC from it.
 
-If you want to opt out, download and install the add-on for your web browser. The [Google Analytics opt-out add-on](https://tools.google.com/dlpage/gaoptout) is designed to be compatible with Chrome, Safari, Firefox and Microsoft Edge. Download and install the [Google Analytics Opt-out Browser add-on.](https://tools.google.com/dlpage/gaoptout)
-
 ### Social networking services
 
 The OAIC uses Twitter, Facebook, Instagram, YouTube and LinkedIn to communicate with the public about its work. When you communicate with the OAIC using these services, the OAIC collects the personal information you provide to it by engaging in that communication.
 
-[Twitter](https://twitter.com/privacy?lang=en), [Facebook](https://www.facebook.com/privacy/explanation), Instagram, [YouTube](https://policies.google.com/privacy?hl=en) and [LinkedIn](https://www.linkedin.com/legal/privacy-policy) each have their own privacy policies.
+[Twitter](https://twitter.com/privacy?lang=en), [Facebook](https://www.facebook.com/privacy/explanation), Instagram, [YouTube](https://policies.google.com/privacy?hl=en) and [LinkedIn](https://www.linkedin.com/legal/privacy-policy) each have their own privacy policies.
 
-### **SmartForm service**
+### SmartForm service
 
 The OAIC uses the Australian Government’s [SmartForm service](https://www.industry.gov.au/government-to-government/smartforms) to enable you to, for example, lodge a privacy complaint, application, data breach notification, enquiry or apply for a job. The OAIC collects personal information that you provide to it in the course of using SmartForms.
 
-The SmartForm service is currently provided by the Department of Industry, Science and Resources (and up to 30 June 2024). Further information about the SmartForms services can be found [here](https://www.industry.gov.au/government-government/smartforms).
+The SmartForm service is currently provided by the Department of Industry, Science and Resources (and up to 15 July 2024). Further information about the SmartForms services can be found [here](https://www.industry.gov.au/government-government/smartforms).
 
-### **CDR forms**
+### Web Forms
+
+The OAIC uses web forms to enable you to, for example, lodge a privacy or FOI complaint, application, review, data breach notification, enquiry or request to opt-in to the Privacy Act. The OAIC collects personal information that you provide to it in the course of using web forms.
+
+Web Forms are hosted under MOU by Department of Education and Workplace Relations on behalf of the OAIC.
+
+### CDR forms
 
 The OAIC collects the information you provide to it, including your personal information, using the webforms made available on the [CDR website](https://www.oaic.gov.au/_old/consumer-data-right) for CDR enquiries, reports and complaints. When you save and submit these forms, the user credentials are encrypted and stored in a secure server located in Australia and controlled by the OAIC.
 
@@ -209,6 +229,7 @@ Some examples of where the OAIC uses your personal information for the purpose o
 The OAIC collects your information using its various analytics tools and survey platforms, namely:
 
 * Google Analytics;
+* Google reCAPTCHA;
 * Vision6; and
 * Trybooking.
 
@@ -276,13 +297,14 @@ The OAIC discloses personal information for purposes other than the purpose for 
 * to participate in merit or judicial review proceedings in tribunals or courts or to institute proceedings in courts
 * where the information is biometric information, or biometric templates, to be disclosed to an enforcement body in accordance with guidelines made by the Information Commissioner for these purposes.
 
-### Disclosure as required or authorised by law
+Disclosure as required or authorised by law
+-------------------------------------------
 
-#### External reporting
+### External reporting
 
 The OAIC is required by law to produce certain external reports, usually for government oversight of its activities. The OAIC may use your personal information to generate these reports, usually by way of the OAIC Data Warehouse and its business intelligence system, however, your personal information will be in the form of either aggregated data that does not identify you or will be de-identified before release of such reports.
 
-#### **Statutory information sharing**
+### Statutory information sharing
 
 Under the Privacy Act the OAIC may share your personal information in certain circumstances where it has acquired your personal information in the course of exercising powers or performing functions or duties under the Privacy Act (e.g., in response to a request for information under section 44 of the Privacy Act).
 
@@ -295,35 +317,35 @@ Sharing under section 33A may occur where the OAIC holds information, including 
 
 Subject to certain mandatory considerations, the OAIC may share information or documents containing your personal information with other entities or the public under section 33B of that Act if it is in the public interest to do so.
 
-#### **Complaints and reviews**
+### Complaints and reviews
 
 If you make a privacy, FOI, or CDR complaint, or apply for an FOI IC review, the OAIC will usually give a copy of the complaint or application to the respondent and, where relevant, affected third parties, in circumstances where a requirement to afford procedural fairness arises.
 
-#### **Data breach notifications**
+### Data breach notifications
 
 If you notify the OAIC about a data breach then the OAIC will not disclose personal information about you provided to it via that notification unless you agree, or would reasonably expect,  the OAIC to do so. If the breach relates to the My Health Records Act, the OAIC may disclose your personal information to the My Health Records System Operator under section 73A of that Act.
 
-#### **Review of OAIC decisions**
+### Review of OAIC decisions
 
 The OAIC may disclose personal information to another review body, if a complainant, applicant or respondent seeks an external review of the OAIC’s decision or makes a complaint about the OAIC’s practices, for example the Commonwealth Ombudsman, or the Australian Human Rights Commission.
 
-#### **Publication of decisions and reports**
+### Publication of decisions and reports
 
 Generally, when the OAIC publishes decisions, determinations or reports (on the OAIC website and on the [Australasian Legal Information Institute website](http://www.austlii.edu.au/au/cases/cth/AICmr)) if you are a party who is an individual then the OAIC will not publish your name unless you ask for it to be published.
 
 The OAIC may also publish other information about cases that it has resolved without a formal decision.
 
-#### **Disclosure to the media**
+### Disclosure to the media
 
 Subject to any circumstances under which the OAIC may disclose information in accordance with its information sharing powers, the OAIC generally only provides the media with personal information relating to a complaint if you have agreed for it to do so.
 
-#### **CDR and EDR schemes**
+### CDR and EDR schemes
 
 As part of the OAIC’s CDR functions, the OAIC may disclose personal information contained in enquiries or complaints to the ACCC in its capacity as a co-regulator of the CDR Scheme under section 50 of the Privacy Act.
 
 The OAIC may also transfer CDR complaints directly to EDR schemes in accordance with that section. The OAIC will notify you where  this occurs.
 
-#### **Disclosure of personal information overseas**
+### Disclosure of personal information overseas
 
 Generally, the OAIC only discloses personal information overseas so that it can properly handle a complaint or application. For example, if:
 
@@ -334,14 +356,16 @@ Generally, the OAIC only discloses personal information overseas so that it can 
 
 When you communicate with the OAIC through a social network service such as Facebook or Twitter, the social network provider and its partners may collect and hold your personal information overseas.
 
-#### **Disclosure of sensitive information**
+Certain tools, such as Google Analytics and Google reCAPTCHA will require data collected by these tools to be sent overseas and stored on Google’s servers. [Google’s Cloud Data Processing Addendum](https://cloud.google.com/terms/data-processing-addendum) provides that when collecting, using and storing data, it will comply with applicable laws, including Australian privacy laws.
+
+### Disclosure of sensitive information
 
 Sometimes the OAIC may need to disclose your sensitive information. The OAIC will generally only disclose your sensitive information with your consent.
 
-There are some limited exceptions that permit disclosure of sensitive information for a secondary purpose without your consent, including where it is required or authorised by or under law, or where a permitted general situation exists, like where the entity reasonably believes that the disclosure is necessary to lessen or prevent a serious threat to the life, health or safety of an individual or the public.
+There are some limited exceptions that permit disclosure of sensitive information for a secondary purpose without your consent, including where it is required or authorised by or under law, or where a permitted general situation exists, like where the entity reasonably believes that the disclosure is necessary to lessen or prevent a serious threat to the life, health or safety of an individual or the public
 
-**Quality of personal information**
------------------------------------
+Quality of personal information
+-------------------------------
 
 To ensure that the personal information the OAIC collects is accurate, up-to-date and complete, the OAIC:
 
@@ -350,20 +374,20 @@ To ensure that the personal information the OAIC collects is accurate, up-to-dat
 * promptly adds updated or new personal information to existing records; and
 * audits its contact lists to check their accuracy from time to time and where necessary.
 
-The OAIC also reviews the quality of personal information before it uses or discloses it.
+The OAIC also reviews the quality of personal information before it uses or discloses it
 
-**Storage and security of personal information**
-------------------------------------------------
+Storage and security of personal information
+--------------------------------------------
 
-### **General storage and security**
+### General storage and security
 
 All personal information collected digitally by the OAIC is held on servers located in Australia. The OAIC retains effective control over any personal information held on those servers.
 
-Some data collected by tools such as Google Analytics will be stored in cloud-based servers in the United States. Data will be de-identified and anonymised so that individuals cannot be identified or re-identified from the data, before such data is sent overseas for storage.
+Some data collected by tools such as Google Analytics and Google reCAPTCHA will be stored in cloud-based servers located across North America, Europe, South America and Asia . Data may be de-identified and anonymised so that individuals cannot be identified or re-identified from the data, before such data is sent overseas for storage. When data is not de-identified or anonymised, it will be stored and handled in a way that complies with Australian privacy laws.
 
 Hard copy documents are generally held on site, in a mixture of tambours, locked cabinets, and safes, depending on the nature of the document.
 
-### **OAIC information technology security practices**
+### OAIC information technology security practices
 
 Department of Employment and Workplace Relations (DEWR) provides information technology services to the OAIC, including the provision of servers on which the OAIC stores much of the personal information it holds.
 
@@ -371,7 +395,7 @@ In providing information technology services to the OAIC, DEWR as well as the OA
 
 For the list of mandatory requirements that cover governance, personnel, information and physical security, please visit the [Protective Security Policy Framework website](https://www.protectivesecurity.gov.au/governance/Pages/default.aspx).
 
-### **Reasonable steps to protect personal information**
+### Reasonable steps to protect personal information
 
 In addition to Information and Communications Technology (ICT) security and physical security measures,  the OAIC takes reasonable steps to protect the security of the personal information it holds from both internal and external threats through access security and monitoring controls, including :
 
@@ -381,15 +405,15 @@ In addition to Information and Communications Technology (ICT) security and phys
 * by implementing and regularly updating the OAIC’s data breach response plan to ensure that the OAIC meets its obligations under the notifiable data breach (NDB) scheme under the Privacy Act; and
 * by undertaking privacy impact assessments when information handling practices change, or new practices are introduced.
 
-The OAIC is required to maintain a Privacy Impact Assessment Register in accordance with section 15(1) of the Privacy Code. These privacy impact assessments, as well as the OAIC’s privacy threshold assessments can be found on the OAIC’s PIA Register [here](https://www.oaic.gov.au/about-the-OAIC/access-our-information/our-privacy-impact-assessment-register).
+The OAIC is required to maintain a Privacy Impact Assessment Register in accordance with section 15(1) of the Privacy Code. These privacy impact assessments, as well as the OAIC’s privacy threshold assessments can be found on the OAIC’s PIA Register [here](https://www.oaic.gov.au/about-the-OAIC/access-our-information/our-privacy-impact-assessment-register).
 
-### **Destruction/deletion of personal information**
+### Destruction/deletion of personal information
 
 The OAIC destroys personal information in a secure manner or takes steps to de-identify personal information it holds when it is no longer needed and when it is lawfully authorised or required to do so.
 
-The storage of personal information held by the OAIC which is contained in a Commonwealth record is subject to the requirements of _the_ [_Archives Act 1983_](https://www.legislation.gov.au/Details/C2023C00281), the OAIC’s Records Disposal Authority and the OAIC’s normal administrative practice (NAP). For example, the OAIC generally destroys complaint records after three years, in accordance with the [OAIC’s Records Disposal Authority](https://www.naa.gov.au/sites/default/files/2019-12/agency-ra-2012-00305243.pdf) .
+The storage of personal information held by the OAIC which is contained in a Commonwealth record is subject to the requirements of _the_ [_Archives Act 1983_](https://www.legislation.gov.au/Details/C2023C00281), the OAIC’s Records Disposal Authority and the OAIC’s normal administrative practice (NAP). For example, the OAIC generally destroys complaint records after three years, in accordance with the [OAIC’s Records Disposal Authority](https://www.naa.gov.au/sites/default/files/2019-12/agency-ra-2012-00305243.pdf)  .
 
-### **Human resources information**
+### Human resources information
 
 The OAIC stores personal information collected or created for human resources purposes (human resources information,) including:
 
@@ -399,11 +423,11 @@ The OAIC stores personal information collected or created for human resources pu
 * Australian Public Service (APS) Employment Database data for the APS Commission, and
 * diversity information including, age, sexual orientation, ethnicity, employment history information, code and investigation history and medical certificates.
 
-\-The OAIC uses a SAP software solution provided by the Shared Delivery Office (SDO) and hosted on DEWR servers within Australia. The SDO is part of the Department of Finance (DOF).
+The OAIC uses a SAP software solution provided by the Shared Delivery Office (SDO) and hosted on DEWR servers within Australia. The SDO is part of the Department of Finance (DOF).
 
 The OAIC has entered memorandums of understanding with both DEWR and DOF to ensure it maintains control of and secures human resources information stored under this arrangement.
 
-### **Accessing and correcting your personal information**
+### Accessing and correcting your personal information
 
 Under APPs 12 and 13, you have the right to ask for access to personal information that the OAIC holds about you, and to ask that it is corrected. You can ask for access or correction by contacting the OAIC. Once contacted, the OAIC must respond to you in relation to your request within 30 days. The OAIC will aim to make its decision about your request as soon as practicable.
 
@@ -417,12 +441,14 @@ If the OAIC makes a correction about information it has already disclosed to oth
 
 If the OAIC refuses to correct your personal information, you can ask it to associate (for example, attach or link) a statement with your personal information,  to the effect that you believe the information is incorrect and why.
 
-You also have the right under the FOI Act to request access to documents that the OAIC holds and ask for information that the OAIC holds about you to be changed or annotated if it is incomplete, incorrect, out-of- date or misleading. For further information see the [Access the OAIC information](https://www.oaic.gov.au/_old/about-us/access-our-information) page on the OAIC website or see the [OAIC contact details](https://www.oaic.gov.au/contact-us) below.
+You may follow the above process if you wish to access or correct personal information about you collected by third party providers, such as Google through use of the reCAPTACHA tool, by sending a request to the OAIC.
 
-**How to make a complaint**
----------------------------
+You also have the right under the FOI Act to request access to documents that the OAIC holds and ask for information that the OAIC holds about you to be changed or annotated if it is incomplete, incorrect, out-of- date or misleading. For further information see the [Access the OAIC information](https://www.oaic.gov.au/_old/about-us/access-our-information) page on the OAIC website or see the [OAIC contact details](https://www.oaic.gov.au/contact-us) below
 
-If you wish to complain to the OAIC about how it has handled your personal information you should first complain to the OAIC in writing. If you need help lodging a complaint, you can [contact the OAIC](https://www.oaic.gov.au/contact-us) for assistance  - see ‘How to contact the OAIC’ below.
+How to make a complaint
+-----------------------
+
+If you wish to complain to the OAIC about how it has handled your personal information you should first complain to the OAIC in writing. If you need help lodging a complaint, you can [contact the OAIC](https://www.oaic.gov.au/contact-us) for assistance  - see ‘How to contact the OAIC’ below.
 
 If the OAIC receives a complaint from you about how it has handled your personal information, the OAIC will determine what (if any) should be taken to resolve the complaint.
 
@@ -430,12 +456,12 @@ If the OAIC decides that a complaint should be investigated further, the complai
 
 The OAIC will assess and handle complaints about the conduct of an OAIC officer using the [APS Values](http://www.apsc.gov.au/working-in-the-aps/your-rights-and-responsibilities-as-an-aps-employee/aps-values), [Code of Conduct](http://www.apsc.gov.au/working-in-the-aps/your-rights-and-responsibilities-as-an-aps-employee/code-of-conduct) and the [guidelines issued by the Australian Public Service Commission](http://www.apsc.gov.au/publications-and-media/current-publications/handling-misconduct-a-human-resource-managers-guide-2015).
 
-If you are dissatisfied with the outcome of the complaint or the way in which the complaint was handled, then you may contact the Commonwealth Ombudsman [https://www.ombudsman.gov.au/](https://www.ombudsman.gov.au/)for advice about your complaint, or [lodge a complaint](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us) under s 36 of the Privacy Act to the regulatory arm of the OAIC, to complain about the OAIC’s information handling practices as an agency.
+If you are dissatisfied with the outcome of the complaint or the way in which the complaint was handled, then you may contact the Commonwealth Ombudsman [https://www.ombudsman.gov.au/](https://www.ombudsman.gov.au/)for advice about your complaint, or [lodge a complaint](https://www.oaic.gov.au/privacy/privacy-complaints/lodge-a-privacy-complaint-with-us) under s 36 of the Privacy Act to the regulatory arm of the OAIC, to complain about the OAIC’s information handling practices as an agency.
 
-**Contact the OAIC**
---------------------
+Contact the OAIC
+----------------
 
-If you would like to make an enquiry or complaint about how the OAIC has handled your personal information, or if you wish to request access or correction to your personal information, or you have questions or comments about this privacy policy, please email [legal@oaic.gov.au](mailto:legal@oaic.gov.au).
+If you would like to make an enquiry or complaint about how the OAIC has handled your personal information, or if you wish to request access or correction to your personal information, or you have questions or comments about this privacy policy, please email [legal@oaic.gov.au](mailto:legal@oaic.gov.au).
 
 You may also write to:
 
@@ -445,12 +471,12 @@ Office of the Australian Information Commissioner
 GPO Box 5218  
 Sydney NSW 2000
 
-**Privacy Policy Update**
--------------------------
+Privacy Policy Update
+---------------------
 
 The OAIC may update this privacy policy from time to time. Revised versions of the OAIC privacy policy will be posted here. The OAIC will notify you by other means (for example, by placing a notice on its website) if it makes material changes to this policy.
 
-This privacy policy is effective as of 21 March 2024.
+This privacy policy is effective as of 3 July 2024.
 
 Related pages
 -------------
