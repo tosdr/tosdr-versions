@@ -4,7 +4,7 @@
 
 [Facebook](https://www.facebook.com/govchristie) [Twitter](https://twitter.com/GovChristie) [Instagram](https://www.instagram.com/chrischristie/) [Youtube](https://www.instagram.com/chrischristie/)
 
-[![](https://chrischristie.com/wp-content/uploads/2023/06/logo_blue-1.png)](https://chrischristie.com/)
+ [![](https://chrischristie.com/wp-content/uploads/2023/06/logo_blue-1.png)](https://chrischristie.com/)
 
 [DONATE](https://secure.winred.com/chris-christie-for-president/donate-today/)
 
