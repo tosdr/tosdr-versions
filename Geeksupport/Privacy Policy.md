@@ -71,11 +71,11 @@ Welke rechten je hebt over je gegevens
 
 Je kan verzoeken om een exportbestand van je persoonlijke gegevens die we van je hebben, inclusief alle gegevens die je ons opgegeven hebt. Je kan ook verzoeken dat we alle persoonlijke gegevens die we van je hebben wissen. Dit bevat geen gegevens die we verplicht moeten bewaren in verband met administratieve, wettelijke of beveiligingsdoeleinden.
 
-[Neve](https://themeisle.com/themes/neve/) | Mogelijk gemaakt door [WordPress](http://wordpress.org/)
+[Neve](https://themeisle.com/themes/neve/) | Mogelijk gemaakt door [WordPress](https://wordpress.org/)
 
 * [Privacybeleid](https://geeksupport.nl/privacybeleid/)
     
 
-[Neve](https://themeisle.com/themes/neve/) | Mogelijk gemaakt door [WordPress](http://wordpress.org/)
+[Neve](https://themeisle.com/themes/neve/) | Mogelijk gemaakt door [WordPress](https://wordpress.org/)
 
 * [Privacybeleid](https://geeksupport.nl/privacybeleid/)
