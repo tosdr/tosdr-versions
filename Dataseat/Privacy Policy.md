@@ -2,7 +2,7 @@
 
 [](#)
 
-[![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2024/06/dataseat@4x.png)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2022/08/Dataseat-logo.png)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2022/08/Dataseat-logo.png)](https://dataseat.com/)
+[![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2024/06/dataseat-logo-1.png)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2022/08/Dataseat-logo.png)![Dataseat Mobile DSP](https://dataseat.com/wp-content/uploads/2022/08/Dataseat-logo.png)](https://dataseat.com/)
 
 [](#sidewidgetarea)
 
@@ -19,7 +19,7 @@
 Privacy Policy
 ==============
 
-[Home](https://dataseat.com/) » **Privacy Policy**
+[Home](https://dataseat.com/) ﹥ **Privacy Policy**
 
 **COOKIES**
 
@@ -149,32 +149,31 @@ Last updated: 28th February 2022
 
 **Address:** 1st Floor, 33 Hyde Park Square, London, W22NW
 
-**Email:** [\*protected email\*](javascript:;)
+**Email:** [\[email protected\]](https://www.dataseat.com/cdn-cgi/l/email-protection)
 
 **Telephone:** +44 (0) 845 838 5284
 
 **OUR DATA PROTECTION OFFICER**
 
 Fieldfisher Tech Rechtsanwaltsgesellschaft mbH  
-Amerigo-Vespucci-Platz 1  
+Am Sandtorkai 68  
 20457 Hamburg, Germany
 
 #### Solutions
 
-* [User Acquisition](https://dataseat.wpengine.com/#solutions)
-* [Retargeting](https://dataseat.wpengine.com/#solutions)
-* [SKAN campaigns](https://dataseat.com/#solutions)
+* [User Acquisition](https://dataseat.com/#solutions)
+* [Retargeting](https://dataseat.com/#solutions)
+* [AdKit/SKAN campaigns](https://dataseat.com/#solutions)
 
 #### Company
 
 * [About](https://dataseat.com/about)
-* [Careers](https://dataseat.com/careers)
 * [Mobile DSP](https://dataseat.com/mobile-dsp)
+* [Careers](https://vervegroup.recruitee.com/)
 * [Privacy Policy](https://dataseat.com/privacy-policy)
 * [EU Applicant Privacy Policy](https://dataseat.com/eu-applicant-privacy-policy)
 * [California Applicant Privacy Notice](https://dataseat.com/california-applicant-privacy-notice)
 * [Contact Us](https://dataseat.com/contact-us)
-* [Cookie Policy](https://dataseat.com/cookie-policy)
 
 #### Resources
 
@@ -182,9 +181,9 @@ Amerigo-Vespucci-Platz 1
 
 #### Memberships
 
-![](https://dataseat.com/wp-content/uploads/2020/05/iab-blue-background-footer-logo.png)
+![](https://dataseat.com/wp-content/uploads/2024/05/footer_logo_1.png)
 
-![](https://dataseat.com/wp-content/uploads/2020/05/iab-membership.png)
+![](https://dataseat.com/wp-content/uploads/2024/05/footer_logo_2.png)
 
 © 2024 Dataseat Mobile DSP. All Rights Reserved.
 
