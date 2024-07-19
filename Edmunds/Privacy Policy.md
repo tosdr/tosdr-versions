@@ -20,7 +20,7 @@ Privacy Statement
 
 Print
 
-_Effective Date: October 16, 2023_
+_Effective Date: June 26, 2024_
 
 See [State Consumer Privacy Rights and Disclosures](#consumer-privacy-disclosures) for additional disclosures about our collection and use of your "Personal Information" and "Personal Data" under applicable state consumer privacy laws and information about submitting privacy requests.
 
@@ -317,12 +317,13 @@ We retain the Personal Information we collect for as long as reasonably necessar
 * Service, product and network security and integrity purposes; and
 * The need to resolve inquiries or complaints
 
-The following metrics are for the verifiable requests submitted by California Consumers during calendar year 2022:
+The following metrics are for the verifiable requests submitted by California Consumers during calendar year 2023:
 
-* Requests to opt-out: 181 received and complied with in whole or in part
-* Requests to delete: 12 received and complied with in whole or in part, and 20 received and denied due to not being verifiable
-* Requests to know: 3 received and denied due to not being verifiable
-* Average days to respond: 2.2 days
+* Requests to opt-out: 97 received and complied with in whole or in part
+* Requests to delete: 7 received and complied with in whole or in part, and 19 received and denied due to not being verifiable
+* Requests to know: 2 received and complied with in whole or in part, and 5 received and denied due to not being verifiable
+* Requests for correction: 0 received
+* Average days to respond: 3.1 days
 
 If you have questions or concerns about Edmunds' privacy policies and practices, please email [GeneralCounsel@edmunds.com](mailto:GeneralCounsel@edmunds.com).
 
