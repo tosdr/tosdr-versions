@@ -15,7 +15,10 @@ It Looks Like Your Browser Does Not Support Javascript. This may impact differen
 [](#none)
 
 * [Solutions](https://about.citiprogram.org/solutions/)
-* [Courses](https://about.citiprogram.org/courses/?reset=true)
+* [Catalog](#)
+    * [Courses](https://about.citiprogram.org/courses/)
+    * [Webinars](https://about.citiprogram.org/webinars/)
+    * [All Content](https://about.citiprogram.org/course-catalog/)
 * [Organizations](#)
     * [Benefits](https://about.citiprogram.org/advantages-for-organizations/)
     * [New Subscribers](https://about.citiprogram.org/solutions/)
