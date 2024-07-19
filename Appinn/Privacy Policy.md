@@ -107,9 +107,7 @@
 来这里看看
 -----
 
-[![](https://www.appinn.com/wp-content/uploads/2024/06/3691718697678.avif)](https://ibiling.cn/paper?from=xzrjpaper)
-
-[![](https://www.appinn.com/wp-content/uploads/2024/05/ibiling.pic_.avif)](https://baoyueai.com/channel?utm_id=227201)
+![](https://www.appinn.com/wp-content/uploads/2024/06/kaisouai.avif)
 
 2023年度 TOP 榜单
 -------------
@@ -120,7 +118,7 @@
 
 [![](https://www.appinn.com/wp-content/uploads/2023/04/windows.jpg)](https://www.appinn.com/windows-11-and-office-2021/)
 
-[![](https://www.appinn.com/wp-content/uploads/2024/06/upyun63.avif)](https://www.houdeyun.cn/?from=appinn.com)
+[![](https://www.appinn.com/wp-content/uploads/2024/07/houdeyun.avif)](https://www.houdeyun.cn/?from=appinn)
 
 ### 精选推荐
 
@@ -128,7 +126,7 @@
     
     [Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能\[Android\]](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
-    6 月 19, 2024 0
+    6 月 19, 2024 2
     
 * [![Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 2](https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-13T193401.913-115x115.jpg "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕 2")](https://www.appinn.com/kodi-v21-omega/ "Kodi v21 (Omega)发布，可能是门槛最低的家庭影音中心：集中一处播放本地视频、海报墙、自动刮削、字幕")
     
@@ -157,35 +155,35 @@
 
 ### 最近 30 天的热门内容
 
-* [![siftrss - 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具] 6](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-25T155342.642-115x115.jpg "siftrss - 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具] 6")](https://www.appinn.com/siftrss/ "siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具]")
+* [![ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 6](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-30T153109.195-115x115.jpg "ChromeAI - 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高 6")](https://www.appinn.com/chrome-ai-for-gemini-nano/ "ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高")
     
-    [siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址\[在线工具\]](https://www.appinn.com/siftrss/ "siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具]")
+    [ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini …](https://www.appinn.com/chrome-ai-for-gemini-nano/ "ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型｜门槛颇高")
     
-    5 月 25, 2024 4
+    6 月 30, 2024 2
     
-* [![超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！ 7](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-15T182447.070-115x115.jpg "超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！ 7")](https://www.appinn.com/bandizip-618/ "超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！")
+* [![Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 7](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-19T142357.854-115x115.jpg "Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 7")](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
-    [超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！](https://www.appinn.com/bandizip-618/ "超多人点赞的 Win 解压缩工具 Bandizip，618 惊喜优惠 9 折抢购！")
+    [Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能\[Android\]](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
     
-    6 月 15, 2024 3
+    6 月 19, 2024 2
     
-* [![Lima - macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样 8](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-29T200128.051-115x115.jpg "Lima - macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样 8")](https://www.appinn.com/lima-vm/ "Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样")
+* [![EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 8](https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-01T142048.410-115x115.jpg "EverythingToolbar - 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单 8")](https://www.appinn.com/everything-toolbar-2/ "EverythingToolbar – 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单")
     
-    [Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 …](https://www.appinn.com/lima-vm/ "Lima – macOS 上的 Linux 虚拟机、Docker 容器，像 WSL2 一样")
+    [EverythingToolbar – 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 …](https://www.appinn.com/everything-toolbar-2/ "EverythingToolbar – 将秒级文件搜索工具 Everything 无缝集成到 Windows 10/11 开始菜单")
     
-    5 月 29, 2024 2
+    7 月 1, 2024 2
     
-* [![KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用 9](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-13T132915.953-115x115.jpg "KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用 9")](https://www.appinn.com/kinestop/ "KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用")
+* [![窗口洞洞波 - 让鼠标穿透当前窗口，到桌面操作文件[Windows] 9](https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-09T174414.983-115x115.jpg "窗口洞洞波 - 让鼠标穿透当前窗口，到桌面操作文件[Windows] 9")](https://www.appinn.com/winhole/ "窗口洞洞波 – 让鼠标穿透当前窗口，到桌面操作文件[Windows]")
     
-    [KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用](https://www.appinn.com/kinestop/ "KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用")
+    [窗口洞洞波 – 让鼠标穿透当前窗口，到桌面操作文件\[Windows\]](https://www.appinn.com/winhole/ "窗口洞洞波 – 让鼠标穿透当前窗口，到桌面操作文件[Windows]")
     
-    6 月 13, 2024 1
+    7 月 9, 2024 1
     
-* [![有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ 10](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-07T165420.705-115x115.jpg "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？ 10")](https://www.appinn.com/fake-app-uploaded-app-store/ "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？")
+* [![俄罗斯方块字体 - Tetris Font 10](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-22T171511.433-115x115.jpg "俄罗斯方块字体 - Tetris Font 10")](https://www.appinn.com/tetris-font/ "俄罗斯方块字体 – Tetris Font")
     
-    [有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？](https://www.appinn.com/fake-app-uploaded-app-store/ "有人制作假冒 App 还上架到了应用商店，开发者很生气，但又能做什么呢？")
+    [俄罗斯方块字体 – Tetris Font](https://www.appinn.com/tetris-font/ "俄罗斯方块字体 – Tetris Font")
     
-    6 月 7, 2024 1
+    6 月 22, 2024 1
     
 
 ### 分类
