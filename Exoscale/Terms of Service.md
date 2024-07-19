@@ -154,7 +154,7 @@ Supplier shall maintain appropriate safeguards for protection of the security, c
 
 ### 5.1.2 Sub-contractors
 
-Supplier may engage sub-contractors to fulfil its contractual obligations. Supplier will obtain the sub-contractor’s written confirmation that the sub-contractor complies with the provisions of data protection law.
+Supplier may engage sub-contractors to fulfill its contractual obligations. Supplier will obtain the sub-contractor’s written confirmation that the sub-contractor complies with the provisions of data protection law.
 
 ### 5.2 Data Storage
 
