@@ -171,7 +171,7 @@ Copyright © 2014-2024 Pl@ntNet™
 
 [X](https://twitter.com/plantnetproject)[Facebook](https://www.facebook.com/PlantNetProject/)[Instagram](https://www.instagram.com/plantnet/)
 
-buk:3.1,snoop:6.0,pn:7.1,cnn:2024-02-22,engine:7.1
+buk:3.1,snoop:6.0,pn:7.1,cnn:2024-05-30,engine:7.1
 
 We use cookies for user analysis and website configuration (language, authentication). [Learn more about cookies](https://www.cookiesandyou.com/)
 
