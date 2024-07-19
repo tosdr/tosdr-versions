@@ -240,7 +240,7 @@ Datenschutzbeauftragter
 Telefon +49 234 5797 100  
 E-Mail: [datenschutz@gls.de](mailto:datenschutz@gls.de "E-Mail-Adresse des Datenschutzbeauftragten")   
   
-**Wichtiger Hinweis:** Unsere Angebote Webseite (https://www.gls.de), Onlinebanking ([https://www.gls-online-filiale.de](https://www.gls-online-filiale.de/ "GLS Online-Filiale - GLS Onlinebanking")), Kontoeröffnung ([https://kontoeroeffnung.gls.de)](https://kontoeroeffnung.gls.de)/ "GLS Kontoeröffnung") und Blog ([https://blog.gls.de](https://blog.gls.de/ "GLS Bank Blog")) sind technisch voneinander getrennt.
+**Wichtiger Hinweis:** Unsere Angebote Webseite (https://www.gls.de), Onlinebanking ([https://www.gls-online-filiale.de](https://www.gls-online-filiale.de/ "GLS Online-Filiale - GLS Onlinebanking")), Kontoeröffnung ([https://kontoeroeffnung.gls.de](https://kontoeroeffnung.gls.de/ "GLS Kontoeröffnung")) und Blog ([https://blog.gls.de](https://blog.gls.de/ "GLS Bank Blog")) sind technisch voneinander getrennt.
 
 Ihre persönliche Privatsphäre: Cookies einstellen, deaktivieren und löschen
 ---------------------------------------------------------------------------
@@ -772,10 +772,6 @@ Gilt auch für: wp.com / pixel.wp.com
 
 Wir binden Schriftarten ("Google Fonts") des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, **lokal** ein, so das **keine** Serververbindung zu Google besteht.
 
-[Shariff Wrapper](#q4052340521)
-
-Shariff stellt Teilen (Sharing)-Buttons bereit, die die Privatsphäre der Besucher\*innen schützen und im Einklang mit der Datenschutzgrundverordnung (DSGVO) stehen.
-
 Newsletter, eBankspiegel, Veranstaltungen, Kontoeröffnung etc
 -------------------------------------------------------------
 
@@ -851,12 +847,6 @@ Erbringung vertraglicher Leistungen und Kundenservice; Kontaktanfragen und Komm
 **Rechtsgrundlagen**  
 Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO)
 
-**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten**
-
-**GoToMeeting**  
-Konferenz-Software; Dienstanbieter: LogMeIn Ireland Limited, Bloodstone Building Block C 70, Sir John Rogerson’s Quay Dublin 2, Irland;  
-Website: [https://www.gotomeeting.com/de-de](https://www.gotomeeting.com/de-de); Datenschutzerklärung: [https://www.logmeininc.com/de/legal/privacy](https://www.logmeininc.com/de/legal/privacy); Auftragsverarbeitungsvertrag: [https://www.logmein.com/de/legal#other-agreements](https://www.logmein.com/de/legal#other-agreements) (Datenverarbeitungsnachtrag); Standardvertragsklauseln (Gewährleistung Datenschutzniveau bei Verarbeitung in Drittländern): [https://www.logmein.com/de/legal#other-agreements](https://www.logmein.com/de/legal#other-agreements) (Datenverarbeitungsnachtrag).
-
 [Umfragen](#q4051540709)
 
 Die von uns durchgeführten Umfragen und Befragungen (nachfolgend "Befragungen") werden anonym ausgewertet. Eine Verarbeitung personenbezogener Daten erfolgt nur insoweit, als dies  zur Bereitstellung und technischen Durchführung der Umfragen erforderlich ist (z.B. Verarbeitung der IP-Adresse, um die Umfrage im Browser des Nutzers/der Nutzerin darzustellen oder mithilfe eines temporären Cookies (Session-Cookie) eine Wiederaufnahme der Umfrage zu ermöglichen) oder der/die Nutzer\*in eingewilligt haben.
@@ -910,7 +900,35 @@ Aufgrund der von Matomo generierten Auswertungen ist es uns möglich, die Seiten
 
 Die Auswertung Ihrer Daten durch Matomo können Sie entweder durch die Aktivierung des Matomo **Opt-out-Plug-ins** oder über die **Do-Not-Track**\-Einstellung in Ihrem Browser verhindern. Wie Sie die Do-Not-Track-Einstellung aktivieren, entnehmen Sie bitte den Angaben des jeweiligen Browser-Herstellers.
 
-VR international verwendet Matomo mit der Erweiterung "AnonymizeIP". Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine direkte Personenbeziehbarkeit kann damit ausgeschlossen werden. Die mittels Matomo von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen von uns erhobenen Daten zusammengeführt. Das Programm Matomo ist ein Open-Source-Projekt. Informationen des Drittanbieters zum Datenschutz erhalten Sie unter [https://matomo.org/privacy-policy/](https://matomo.org/privacy-policy/) 
+[Verwendung von Maptoolkit](#q4051584435)
+
+**Art und Umfang der Datenverarbeitung**
+
+Wir nutzen den Kartendienst Maptoolkit zur Erstellung von Anfahrtsbeschreibungen und zur Darstellung von Karten auf unserer Website. Maptoolkit wird von der Toursprung GmbH, Mariahilfer Str. 93/20, 1060 Wien, Österreich, bereitgestellt. Wenn Sie auf die Inhalte unserer Website zugreifen, werden Sie mit den Servern der Toursprung GmbH verbunden. Dabei werden Ihre IP-Adresse und Browserdaten wie Ihr User-Agent übertragen. Diese Daten werden ausschließlich für die oben genannten Zwecke und zur Aufrechterhaltung der Sicherheit und Funktionalität von Maptoolkit verarbeitet. Die IP-Adresse wird bereits vor jeder weiteren Verarbeitung technisch anonymisiert, indem die letzten drei Zeichen auf "000" gesetzt werden. Eine Rückverfolgung auf einzelne Personen ist nicht möglich.
+
+**Zweck und Rechtsgrundlage**
+
+Die Nutzung von Maptoolkit erfolgt auf der Grundlage unserer berechtigten Interessen gemäß Art. 6 Abs. 1 lit. f DSGVO, nämlich unserem Interesse daran, Ihnen unsere Inhalte kartografisch aufbereitet anzeigen zu können.
+
+**Speicherdauer**
+
+[Die genannten Daten werden in anonymisierter Form bis zu 30 Tagen in sogenannten "Logfiles" gespeichert. Weitere Informationen finden Sie in der Datenschutzerklärung unter https://www.maptoolkit.com/de/privacy/](https://www.maptoolkit.com/de/privacy/ "Website von Maptoolkit") 
+
+[Eye-Able®](#q4051586233)
+
+Eye-Able® ist eine Software der Web Inclusion GmbH, um allen Menschen einen barriere-reduzierten Zugang zu Informationen im Internet zu gewährleisten. Die dafür notwendigen Dateien wie JavaScript, Stylesheets und Bilder müssen dafür von einem externen Server geladen werden.
+
+Nur für diese Zwecke nutzt die Software Eye-Able® Dienste von IONOS (Anbieter: 1&1 IONOS SE, Elgendorfer Str. 57, 56410 Montabaur, Germany). Um Angriffe abzuwehren und unseren Service in nahezu Echtzeit zu Verfügung zu stellen, nutzt Eye-Able® das Content Delivery Network (CDN) von BunnyWay d.o.o. (Cesta komandanta Staneta 4A, 1215 Medvode, Slovenia).
+
+Der Einsatz erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO). Alle übermittelnden Daten und Server verbleiben zu jedem Zeitpunkt in der EU, um eine datenschutzkonforme Verarbeitung nach DSGVO zu ermöglichen. Die Web Inclusion GmbH erfasst oder analysiert dabei zu keinem Zeitpunkt Nutzerverhalten oder andere personenbezogenen Daten.
+
+Um die datenschutzkonforme Verarbeitung zu gewährleisten, hat die Web Inclusion GmbH einen Vertrag über eine Auftragsverarbeitung mit unserem Hoster IONOS abgeschlossen.
+
+Weitere Informationen finden Sie in der IONOS-Datenschutzerklärung:
+
+[https://www.ionos.de/terms-gtc/terms-privacy](https://www.ionos.de/terms-gtc/terms-privacy "https://www.ionos.de/terms-gtc/terms-privacy") 
+
+[https://bunny.net/privacy](https://bunny.net/privacy "https://bunny.net/privacy") 
 
 [Angebote Dritter](#q4051540514)
 
@@ -919,10 +937,6 @@ Das Internetangebot entspricht den in Deutschland gesetzlich geregelten Datensch
 Sollten aus unserem Angebot über Verweise (Hyperlinks) Angebote Dritter erreichbar sein, so betrifft dieser Hinweis diese verlinkten Angebote nicht.
 
 Externe Links kennzeichnen wir mit diesem [Icon](http://www.gls.de/). Wenn Sie auf einen in dieser Weise gekennzeichneten Link klicken, verlassen Sie die GLS Website. Für die Inhalte von Drittanbietern haftet die GLS Bank nicht. 
-
-**Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten**
-
-Bei **Matomo** handelt es sich um eine Software, die zu Zwecken der Webanalyse und Reichweitenmessung eingesetzt wird. Im Rahmen der Nutzung von Matomo werden Cookies erzeugt und auf dem Endgerät der Nutzer\*in gespeichert. Die im Rahmen der Nutzung von Matomo erhobenen Daten der Nutzer\*innen werden nur von uns verarbeitet und nicht mit Dritten geteilt. Die Cookies werden für einen maximalen Zeitraum von 13 Monaten gespeichert: [https://matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/); **Löschung von Daten:** Die Cookies haben eine Speicherdauer von maximal 13 Monaten.
 
 Social Media
 ------------
@@ -1068,8 +1082,6 @@ Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung
 
 Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.
 
-Laden Sie sich hier unsere [Datenschutzhinweise](https://www.gls.de/media/PDF/Broschueren/GLS_Bank/Datenschutz/87923192350_Datenschutzhinweise_1.18_20220111.pdf "Datenschutzerklärung") herunter.
-
 * [Privatkunden](https://www.gls.de/privatkunden/)
 * [Datenschutz](https://www.gls.de/privatkunden/datenschutz/)
 
@@ -1149,11 +1161,11 @@ _BIC:_ GENODEM1GLS
 
 [**GLS Bank-Blog**
 
-Geschichten, Menschen, Ideen](https://blog.gls.de/ "GLS Bank-Blog")
+Geschichten, Menschen, Ideen](https://blog.gls.de/%20_blank%20-%20%22GLS%20Bank%20Blog%22 "GLS Bank-Blog")
 
 [**GLS Treuhand e. V.**
 
-Schenken, Stiften und Vererben](https://www.gls-treuhand.de/ "GLS Bank-Blog")
+Schenken, Stiften und Vererben](https://www.gls-treuhand.de/%20-%20-%20%22GLS%20Treuhand%20e.V.%22 "GLS Bank-Blog")
 
 [**GLS Bank Stiftung**
 
@@ -1161,7 +1173,7 @@ Für ein menschliches Bankwesen](https://glsbankstiftung.gls-treuhand.de/ "GLS B
 
 [**GLS Mobility GmbH**
 
-Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/ "GLS Bank-Blog")
+Für eine bedarfsgerechte, ökologische Mobilität](https://www.gls-mobility.de/%20_blank%20-%20%22GLS%20Mobility%22 "GLS Bank-Blog")
 
 [**GLS Crowdfunding GmbH**
 
