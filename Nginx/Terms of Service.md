@@ -359,6 +359,8 @@ Terms of Use - TOU
 ==================
 
   
+**Last updated: July 8, 2024**
+
   
 Welcome to the web site for F5 Networks, Inc. (“F5”). F5’s web site is comprised of various web pages, collectively the “web site”. You may use the F5 web site subject to the following notices, terms, and conditions, as well as F5’s Privacy Policy, which is incorporated into these Terms of Use by this reference. As these terms and conditions affect your legal rights, please read them carefully. Your use of the web site constitutes your agreement to all such terms, conditions, and notices. If you do not agree to these terms, do not use the web site.
 
@@ -376,9 +378,45 @@ All content included on this site, such as text, graphics, logos, button icons, 
 
 All contents of the web site are Copyright 2014 by F5 and/or its suppliers. The trademarks listed on the [F5 Trademarks Webpage](https://f5.com/about-us/policies/trademarks) are registered trademarks or trademarks of F5 Networks, Inc. in the U.S. and certain other countries. All other trademarks mentioned in this document are the property of their respective owners. F5 Networks’ trademarks may not be used in connection with any product or service except as permitted in writing by F5. Any rights not expressly granted herein are reserved.
 
+**Digital Services Act**
+
+Certain F5 services constitute “intermediary services” under Regulation (EU) 2022/2065 (“Digital Services Act”). For the purpose of communications with Member States’ authorities, the European Commission, and the European Board for Digital Services, F5 has appointed as our single point of contact:
+
+Dr. Felix Wittern  
+Fieldfisher Tech Rechtsanwaltsgesellschaft mbH  
+Amerigo Vespucci Platz 1  
+20457 Hamburg  
+Germany  
+f5.dpo@fieldfisher.com
+
+Information on the policies and procedures are set forth for each qualifying service (see below for information on DevCentral).
+
 **Notices and Procedures for Making Claims of Copyright Infringement**
 
-Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement under United States copyright law should be sent to Service Provider’s Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE. See Notice and Procedure for Making Claims of Copyright Infringement.
+Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement under United States copyright law should be sent to Service Provider’s Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE.
+
+F5’s Designated Agent for receiving claims of copyright infringement is:
+
+F5 Inc Legal Department  
+F5, Inc.  
+801 Fifth Ave  
+Seattle, WA 98104-1663  
+Phone: 206-272-5555  
+Email: DMCA@F5.com
+
+Notifications of copyright infringement must include:
+
+**(i)** Your physical or electronic signature as the owner, or a person authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.
+
+**(ii)** Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
+
+**(iii)** Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit F5 to locate the material.
+
+**(iv)** Information reasonably sufficient to permit F5 to contact you, such as an address, telephone number, and email address.
+
+**(v)** A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+
+**(vi)** A statement that the information in the notification is accurate, and under penalty of perjury, that you are the owner, or are authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.
 
 **Disclaimer**
 
@@ -400,7 +438,7 @@ This site is created and controlled by F5 in the State of Washington, United Sta
 
 F5 reserves the right to change the terms, conditions, and notices under which the web site is offered at any time, including but not limited to the charges associated with the use of the web site. Your continued use of the web site indicates your agreement to the modified terms, conditions, and notices.
 
-**No Unlawful or Prohibited use**
+**No Unlawful or Prohibited Use**
 
 As a condition of your use of the web site, you warrant to F5 that you will not use the web site for any purpose that is unlawful or prohibited by these terms, conditions, and notices. You may not use the web site in any manner that could damage, disable, overburden, or impair the web site or interfere with any other party’s use and enjoyment of the web site. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the web site.
 
@@ -449,6 +487,15 @@ Termination/Access Restriction
 
 DevCentral reserves the right, in its sole discretion, to terminate your access to the DevCentral Web Site and the related services or any portion thereof at any time, without notice.
 
+**Transparency**
+
+For DevCentral during the period of July 1st, 2023 to June 30th, 2024:
+
+* F5 received no orders from EU Member States’ authorities concerning illegal content.
+* F5 received no notices from users or trusted flaggers concerning illegal content.
+* F5 received no complaints to our internal complaint-handling system.
+* F5 utilized automated tools to detect content that violates our policies against advertising or offering to buy or sell goods or services, conducting or forwarding surveys, contests, pyramid schemes or chain letters, or publishing inappropriate, profane, obscene, indecent or unlawful material. These tools flag potentially offending content for review and possible removal by DevCentral administrators.
+
 **General**
 
 Use of the web site is unauthorized in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph. You agree that no joint venture, partnership, employment, or agency relationship exists between you and F5 as a result of these terms or use of the F5 web site. F5’s performance under these terms is subject to existing laws and legal process, and nothing contained in these terms is in derogation of F5’s right to comply with governmental, court and law enforcement requests or requirements relating to your use of the web site or information provided to or gathered by F5 with respect to such use. If any part of these terms is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the terms shall continue in effect. Unless otherwise specified herein, these terms constitutes the entire agreement between the user and F5 with respect to the web site and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and F5 with respect to the web site. A printed version of these terms and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these terms to the same extent an d subject to the same conditions as other business documents and records originally generated and maintained in printed form. It is the express wish to the parties that these terms and all related documents be drawn up in English.
@@ -459,7 +506,6 @@ F5 Networks, Inc.
 801 5th Ave  
 Seattle, WA 98104  
   
- 
 
 ### Secure and Deliver Extraordinary Digital Experiences
 
