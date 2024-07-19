@@ -1,6 +1,6 @@
-[![hCaptcha logo (horizontal)](/hosted-assets/3u1Osx9BvMjYSHbCn6ECWNM27toZY1eqxXveJVL4mMNGUtMZu2Yc6GAid43jA_TmZApJ6djyh0iqvu-YNhOB9hGmvfdy4M_Fr1Y61EZQ-j1oIjD1MF0khIR93gXHUaUySMF3kWYmCPgmL0S3U6yn_gD8hkfQ1xykymQlWChrf_alnJJhjgAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64da82f6bf67de1b127890b5_hcaptcha-logo-landscape.svg)](https://www.hcaptcha.com/)
+[![hCaptcha logo (horizontal)](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfWpwai76VxvsuU_VFtgEAGqDQzI2D3Vwx3h8FW1Q7HDL0-R893kWgvA6YpL1q2Dryw6ZZdREuixR8C6HZe0eiId7YAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64da82f6bf67de1b127890b5_hcaptcha-logo-landscape.svg)](https://www.hcaptcha.com/)
 
-![close menu](/hosted-assets/3u1Osx9BvMjYSHbCn6ECWNM27toZY1eqxXveJVL4mMNGUtMZu2Yc6GAid43jA_TmZApJ6djyh0iqvu-YNhOB9hGmvfUl6J_FrwVrhEQFqmkyIWbxOVEkgNd91QrJUrR8ScM1kyRzU6UyYFq9R7UBEPHzbFJ4E6TqHn4_TSYAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f60bf617f515e82d3150ff_close-icon-24px.png)![menu button](/hosted-assets/3u1Osx9BvMjYSHbCn6ECWNM27toZY1eqxXveJVL4mMNGUtMZu2Yc6GAid43jA_TmZApJ6djyh0iqvu-YNhOB9hGmvfUmvs3H-1Zu0kcArDk5cjegblV3hIR92wPIVP8iVse0dTowbRlm4xROpdHDblVZAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f5f0dbb2064353a5bf1cb5_menu.svg)
+![close menu](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfU8A7y76Ui75uWqAE52kNQrD0_I2SkVwd4icJHmw_FTr98EpQqhScxCbL-4qVhokQF_scYXtSu5KtMAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f60bf617f515e82d3150ff_close-icon-24px.png)![menu button](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfU81ig7fFx6s2VrQdp0RAB_Wo7cGD3VwlxiMQMxRDBmu5W0NERWIyu0ZtXybH8lgAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f5f0dbb2064353a5bf1cb5_menu.svg)
 
 [Plans](https://www.hcaptcha.com/pricing)[Pro](https://www.hcaptcha.com/pro)[Enterprise](#)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog)
 
@@ -18,7 +18,7 @@ From the blog:
 
 [Sign Up](https://www.hcaptcha.com/pricing)[Log In](https://dashboard.hcaptcha.com/login)
 
-[DE](https://assets-global.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789215_IMI-Terms-04.13.2021%20DE.docx) - [ES](https://assets-global.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789212_IMI-Terms-04.13.2021%20ES.docx) - [FR](https://assets-global.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789221_IMI-Terms-04.13.2021%20FR.docx) - [PT](https://assets-global.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789216_IMI-Privacy-04.13.2021%20pt.docx) - [PT (BR)](https://assets-global.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b1278921d_IMI-Privacy-04.13.2021%20pt-br.docx)
+[DE](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789215_IMI-Terms-04.13.2021%20DE.docx) - [ES](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789212_IMI-Terms-04.13.2021%20ES.docx) - [FR](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789221_IMI-Terms-04.13.2021%20FR.docx) - [PT](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789216_IMI-Privacy-04.13.2021%20pt.docx) - [PT (BR)](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b1278921d_IMI-Privacy-04.13.2021%20pt-br.docx)
 
 Privacy Policy
 ==============
