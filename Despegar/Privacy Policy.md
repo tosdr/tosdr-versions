@@ -19,48 +19,6 @@ _Entendí_
 
 * Español
 
-Inicia sesión y descubre beneficios
-
-Inicia sesión y descubre beneficios
-
-_Inicia sesión con Facebook_
-
- _Acepto los [términos y condiciones](https://www.us.despegar.com/legales/primeracompra-terminos-condiciones) de los beneficios_
-
-\*Campo obligatorio para obtener beneficios
-
- _Quiero recibir ofertas y recomendaciones en mi email_
-
-_No quiero beneficios_ _No quiero beneficios_
-
-Inicia sesión y descubre beneficios
-
-Inicia sesión y descubre beneficios
-
-Al iniciar sesión ahora tienes descuentos exclusivos en alojamientos y más.
-
-Al iniciar sesión ahora tienes descuentos exclusivos en alojamientos y más.
-
-Inicia sesión y descubre beneficios
-
-Inicia sesión y descubre beneficios
-
-Al iniciar sesión ahora tienes descuentos exclusivos en alojamientos y más.
-
-Al iniciar sesión ahora tienes descuentos exclusivos en alojamientos y más.
-
-_Inicia sesión con Facebook_
-
-_Inicia sesión con tu email_
-
- _Acepto los [términos y condiciones](https://www.us.despegar.com/legales/primeracompra-terminos-condiciones) de los beneficios_
-
-\*Campo obligatorio para obtener beneficios
-
- _Quiero recibir ofertas y recomendaciones en mi email_
-
-_No quiero beneficios_ _No quiero beneficios_
-
 ![](https://media.staticontent.com/media/pictures/d828265c-f1fa-4a48-be89-f1adbf577d6d/400x400?op=TRUNCATE)
 
 ¿Vas para {destination}?
