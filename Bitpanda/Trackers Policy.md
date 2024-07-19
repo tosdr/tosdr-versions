@@ -216,9 +216,9 @@
         * [![<small>ASSET MANAGEMENT</small> Your investment, your assets: Why your money is safe with Bitpanda](https://cdn.bitpanda.com/media/your-investment-your-assets-why-your-money-is-safe-with-bitpanda-bitpanda-blog-en.png)
             
             ASSET MANAGEMENT Your investment, your assets: Why your money is safe with Bitpanda](https://blog.bitpanda.com/en/your-investment-your-assets-why-your-money-safe-bitpanda)
-        * [![BTC halving 2024 <small>The next Bitcoin halving event is almost here and we have everything you need to understand and prepare for this pivotal moment in crypto history.</small>](https://cdn.bitpanda.com/media/BTC-halving/spotlight_icon_menu.svg)
+        * [![BTC halving 2024 <small>The Bitcoin halving is complete - we have everything you need to understand this pivotal moment in crypto history.</small>](https://cdn.bitpanda.com/media/BTC-halving/spotlight_icon_menu.svg)
             
-            BTC halving 2024 The next Bitcoin halving event is almost here and we have everything you need to understand and prepare for this pivotal moment in crypto history.](https://www.bitpanda.com/en/bitcoin-halving-countdown)
+            BTC halving 2024 The Bitcoin halving is complete - we have everything you need to understand this pivotal moment in crypto history.](https://www.bitpanda.com/en/bitcoin-halving-countdown)
         * [![<small>COUNTDOWN</small>Bitcoin Halving Countdown 2024](https://cdn.bitpanda.com/media/BTC-halving/bitpanda-bitcoin-halving-countdown.jpg)
             
             COUNTDOWNBitcoin Halving Countdown 2024](https://www.bitpanda.com/en/bitcoin-halving-countdown)
@@ -318,7 +318,7 @@ English Deutsch Français Español Italiano Polski
 * Learn
     * [Bitpanda Academy Learn how to invest, all about personal finance, Bitcoin and cryptocurrencies](https://www.bitpanda.com/academy/en/)
     * [Bitpanda Blog Be the first to learn the latest news, announcements, and stories from the world of investing, cryptocurrencies, stocks and precious metals](https://blog.bitpanda.com/en?utm_referrer=https://www.bitpanda.com)
-    * [BTC halving 2024 The next Bitcoin halving event is almost here and we have everything you need to understand and prepare for this pivotal moment in crypto history.](https://www.bitpanda.com/en/bitcoin-halving-countdown)
+    * [BTC halving 2024 The Bitcoin halving is complete - we have everything you need to understand this pivotal moment in crypto history.](https://www.bitpanda.com/en/bitcoin-halving-countdown)
 * Business
     * [Bitpanda Technology Solutions Use our tech infrastructure to offer a trading experience to your users](https://www.bitpanda.com/en/tech)
     * [Bitpanda Custody Insured, user-friendly custodial wallet platform for institutional-grade security, automation and management of cryptoassets](https://custody.bitpanda.com/)
@@ -377,8 +377,17 @@ English Deutsch Français Español Italiano Polski
 * [Sign-up](https://account.bitpanda.com/en/register)
 * [Log in](https://account.bitpanda.com/login)
 
-Legal
------
+  
+
+===
+
+Legal & Privacy
+===============
+
+LEGAL
+
+Terms and Conditions
+--------------------
 
 [Bitpanda GmbH & BAM T&Cs](https://www.bitpanda.com/en/legal/bitpanda-general-terms-conditions)
 
@@ -394,13 +403,49 @@ Legal
 
 [Financial Services T&C](https://www.bitpanda.com/en/legal/general-terms-conditions-bitpanda-financial-services)
 
-[Bitpanda Group privacy policy](https://www.bitpanda.com/en/legal/bitpanda-privacy-policy)
-
 [Contis T&C](https://www.bitpanda.com/en/legal/bitpanda-card-account-terms-conditions)
 
-[Contis Privacy Policy](https://www.bitpanda.com/en/legal/contis-privacy-policy)
-
 [Cookies policy](https://www.bitpanda.com/en/legal/bitpanda-cookie-policy)
+
+* * *
+
+Regulatory
+
+Regulatory Documents
+--------------------
+
+#### A-Token
+
+|     |     |
+| --- | --- |
+| [Prospectus](https://cdn.bitpanda.com/media/documents/securities/en-prospectus.pdf) | [Cost transparency document](https://cdn.bitpanda.com/media/documents/securities/en-cost-transparency-document.pdf) |
+| [Derivative contract](https://cdn.bitpanda.com/media/documents/securities/en-derivative-contract.pdf) | [Investor information document](https://cdn.bitpanda.com/media/documents/securities/en-investors-information-document.pdf) |
+
+#### Bitpanda Crypto Index BCI
+
+[Prospectus (DE)](https://cdn.bitpanda.com/media/bci/legal-docs/20240508_Prospekt_Bitpanda-Crypto-Index_DE.pdf)
+
+#### Leverage
+
+|     |     |
+| --- | --- |
+| [Cost Transparency Document](https://cdn.bitpanda.com/media/documents/leverage-assets/Cost_Transparency_EN.pdf) | [Investor Information Document](https://cdn.bitpanda.com/media/documents/securities/en-investors-information-document.pdf) |
+| [L-Token-Long Framework Agreement](https://cdn.bitpanda.com/media/documents/leverage-assets/CFD_Framework_Agreement_Long_L-Token_Framework_Agreement_EN.pdf) | [L-Token-Short Framework Agreement](https://cdn.bitpanda.com/media/documents/leverage-assets/CFD_Framework_Agreement_Short_L-Token_Framework_Agreement_EN.pdf) |
+
+  
+
+_To view older versions of these documents, click_ [_here_](https://www.bitpanda.com/en/legal/documents/securities)
+
+* * *
+
+Privacy
+
+Privacy Policies
+----------------
+
+[Bitpanda Group privacy policy](https://www.bitpanda.com/en/legal/bitpanda-privacy-policy)
+
+[Contis Privacy Policy](https://www.bitpanda.com/en/legal/contis-privacy-policy)
 
 _Bitpanda GmbH ve grup şirketleri (Bitpanda) Türk Parasının Kıymetini’nin Korunması Hakkında 32 sayılı Karar’ın 2/b maddesine göre Türkiye’de yerleşik sayılan hiçbir kişiye yönelik olarak 6362 sayılı Sermaye Piyasası Kanunu başta olmak üzere Türkiye Cumhuriyeti Devleti mevzuatı hükümleri gereği Türkiye’de faaliyet izni gerektiren hiçbir sermaye piyasası faaliyetine dair hizmet sunmamaktadır. Şayet Bitpanda’nın yabancı sermaye piyasalarında vermiş olduğu hizmetlerden Türkiye’de yerleşik kişilerin faydalandığı tespit edilecek olursa tüm zararları kullanıcıya ait olmak üzere bu hizmetler ivedilikle sona erdirilecektir._
 
