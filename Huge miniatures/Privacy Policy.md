@@ -213,3 +213,5 @@ Links
     * [Green Stuff](https://hugeminis.com/shop/modeling-tools/green-stuff/)
     * [Display Racks](https://hugeminis.com/shop/modeling-tools/desktop-display-racks/)
 * [Merch](https://hugeminis.com/shop/merch/)
+
+Orders placed today will ship on July 22nd. Use coupon code HISTORIA for 10% off. [Dismiss](#)
