@@ -1,4 +1,4 @@
-WebinarUnlocking growth outside the US - 24 July   [Join us](https://www.paddle.com/events/webinars/unlocking-growth-outside-the-us?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q2_core_us_upmarket_webinar_jul24&utm_content=top-page-banner "Unlocking growth outside the US")
+WebinarUnlocking growth outside the US - 24 July   [Join us](https://paddle.com/events/webinars/unlocking-growth-outside-the-us?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q2_core_us_upmarket_webinar_jul24&utm_content=top-page-banner "Unlocking growth outside the US - 24 July")
 
 [](https://www.paddle.com/)
 
@@ -263,7 +263,7 @@ If you do not agree to this Agreement, you do not have our permission to, and ma
 
 **“Paddle Invoicing”**  means Paddle invoicing Invoiced Businesses and Invoiced Consumers for the Product and collecting payment in full, by bank transfer or other agreed payment method;
 
-**“Payment Currency”** means the currency which you select for you Supplier Account, typically in USD, EUR or GBP;
+**“Payment Currency”** means the currency which you select for you Supplier Account, being USD, EUR, GBP, CAD or AUD;
 
 **"Payment Scheme Rules"** means the collective set of by-laws, rules, regulations, operating regulations, procedures and/or waivers issued by the Card Schemes, as amended and/or supplemented from time to time;
 
