@@ -1,14 +1,6 @@
 Toggle navigation ☰
 
-[gamehitzone](http://www.gamehitzone.com/)
-
-[PC Games](http://www.gamehitzone.com/all-free-games/)
-
-[Online Games](http://www.gamehitzone.com/play-online/)
-
-[Software](http://www.gamehitzone.com/download-free-software/)
-
-[Giveaways](http://www.gamehitzone.com/game-giveaways/)
+[gamehitzone](http://www.gamehitzone.com/) [PC Games](http://www.gamehitzone.com/all-free-games/) [Online Games](http://www.gamehitzone.com/play-online/) [Software](http://www.gamehitzone.com/download-free-software/) [Giveaways](http://www.gamehitzone.com/game-giveaways/)
 
      ![Search](/static/mobile/media/images/search.png)
 
@@ -73,8 +65,8 @@ Follow Us
 [![Facebook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
 Facebook](https://www.facebook.com/GameHitZone)
 
-[![X (Twitter)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
-X (Twitter)](https://twitter.com/GameHitZone)
+[![X (ex Twitter)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
+X (Twitter)](https://x.com/GameHitZone)
 
 [![YouTube](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
 YouTube](https://www.youtube.com/user/GameHitZone/)
