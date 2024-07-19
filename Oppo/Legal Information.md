@@ -7,7 +7,6 @@
 * [Smartphones](https://www.oppo.com/uk/smartphones/) [Smartphones](https://www.oppo.com/uk/smartphones/)
     
     * [OPPO Reno12 Pro 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
-    * [OPPO Reno12 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12)
     * [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
     * [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     * [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
@@ -25,6 +24,7 @@
     
 * [Audio](https://www.oppo.com/uk/audio/) [Audio](https://www.oppo.com/uk/audio/)
     
+    * [OPPO Enco Air4 Pro _New_](https://www.oppo.com/uk/accessories/enco-air4-pro/)
     * [OPPO Enco Air3 Pro](https://www.oppo.com/uk/accessories/enco-air3-pro/)
     * [OPPO Enco Buds2](https://www.oppo.com/uk/accessories/oppo-enco-buds2/)
     * [OPPO Enco Air2 Pro](https://www.oppo.com/uk/accessories/oppo-enco-air2-pro/)
@@ -35,6 +35,7 @@
     
 * [Wearables](https://www.oppo.com/uk/wearables/) [Wearables](https://www.oppo.com/uk/wearables/)
     
+    * [OPPO Watch X _New_](https://www.oppo.com/uk/accessories/watch-x/)
     * [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
     * [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
     * [OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
@@ -84,9 +85,6 @@ Quick Links
     * [OPPO Reno12 Pro 5G
         
         New](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
-    * [OPPO Reno12 5G
-        
-        New](https://www.oppo.com/uk/smartphones/series-reno/reno12)
     * [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
     * [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     * [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
@@ -98,7 +96,6 @@ Quick Links
     * [A Series](https://www.oppo.com/uk/smartphones/?tab4)
     
     *  [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
-    *  [OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12)
     *  [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
     *  [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     *  [OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
@@ -116,12 +113,16 @@ Quick Links
     
 * Audio
     
+    * [OPPO Enco Air4 Pro
+        
+        New](https://www.oppo.com/uk/accessories/enco-air4-pro/)
     * [OPPO Enco Air3 Pro](https://www.oppo.com/uk/accessories/enco-air3-pro/)
     * [OPPO Enco Buds2](https://www.oppo.com/uk/accessories/oppo-enco-buds2/)
     * [OPPO Enco Air2 Pro](https://www.oppo.com/uk/accessories/oppo-enco-air2-pro/)
     * [OPPO Enco X2](https://www.oppo.com/uk/accessories/oppo-enco-x2/)
     * [OPPO Enco Free2](https://www.oppo.com/uk/accessories/enco-free2/)
     
+    *  [OPPO Enco Air4 Pro](https://www.oppo.com/uk/accessories/enco-air4-pro/)
     *  [OPPO Enco Air3 Pro](https://www.oppo.com/uk/accessories/enco-air3-pro/)
     *  [OPPO Enco Buds2](https://www.oppo.com/uk/accessories/oppo-enco-buds2/)
     *  [OPPO Enco Air2 Pro](https://www.oppo.com/uk/accessories/oppo-enco-air2-pro/)
@@ -132,11 +133,15 @@ Quick Links
     
 * Wearables
     
+    * [OPPO Watch X
+        
+        New](https://www.oppo.com/uk/accessories/watch-x/)
     * [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
     * [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
     * [OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
     * [OPPO Watch](https://www.oppo.com/uk/accessories/watch/)
     
+    *  [OPPO Watch X](https://www.oppo.com/uk/accessories/watch-x/)
     *  [OPPO Band2](https://www.oppo.com/uk/accessories/band2/)
     *  [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
     *  [OPPO Band](https://www.oppo.com/uk/accessories/oppo-band/)
@@ -622,8 +627,6 @@ Smartphones
 
 [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
 
-[OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12)
-
 [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
 
 [OPPO Find X5 Lite](https://www.oppo.com/uk/smartphones/series-find-x/find-x5-lite/)
@@ -649,6 +652,10 @@ Tablet
 [OPPO Pad Air](https://www.oppo.com/uk/accessories/oppo-pad-air)
 
 IoT Products
+
+[OPPO Watch X](https://www.oppo.com/uk/accessories/watch-x/)
+
+[OPPO Enco Air4 Pro](https://www.oppo.com/uk/accessories/enco-air4-pro/)
 
 [OPPO Watch Free](https://www.oppo.com/uk/accessories/watch-free/)
 
@@ -707,6 +714,19 @@ OPPO Community
 [OPPO Community](https://community.oppo.com/)
 
 Get Support From OPPO
+
+*  [WhatsApp](https://wa.me/message/WTNHAI5WIKEKA1)
+    
+    Mon-Fri 9:00-18:00
+    
+*  [Livechat](https://chat-eu.oppo.com/chat/h5/v2/index.html?sysnum=5015ad22498b422ebf02d18e9a3f2111&channelid=3)
+    
+    Mon-Fri 9:00-18:00
+    
+*  Hotline _0800 917 6121_
+    
+    Mon-Fri 9:00-18:00
+    
 
 *  [WhatsApp](https://wa.me/message/WTNHAI5WIKEKA1)
     
