@@ -1,3 +1,42 @@
+[![logo image](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
+
+1. [Home](https://galaxy4games.com/)
+2. Terms of Use
+
+* [Services](#)
+    * [Game Development](https://galaxy4games.com/services/game-development/)
+    * [Game Production](https://galaxy4games.com/services/game-production/)
+    * [Metaverse](https://galaxy4games.com/services/metaverse/)
+    * [Brands Gamification](https://galaxy4games.com/services/brands-gamification/)
+    * [Blockchain](https://galaxy4games.com/services/blockchain/)
+    * [Tokenomics](https://galaxy4games.com/services/tokenomics/)
+    * [NFT Creation and Mint](https://galaxy4games.com/services/nft-marketing/)
+* [Portfolio](#)
+    * [Projects](https://galaxy4games.com/our-work/projects/)
+    * [Gallery](https://galaxy4games.com/our-work/gallery/)
+* [Use Cases](#)
+    * [Our Game Solutions](https://galaxy4games.com/knowledgebase/game-solutions/)
+    * [Modular Solutions](https://galaxy4games.com/knowledgebase/modular-solutions/)
+* [About us](https://galaxy4games.com/about-us/)
+* [Contact](https://galaxy4games.com/contact/)
+
+* [Services](#)
+    * [Game Development](https://galaxy4games.com/services/game-development/)
+    * [Game Production](https://galaxy4games.com/services/game-production/)
+    * [Metaverse](https://galaxy4games.com/services/metaverse/)
+    * [Brands Gamification](https://galaxy4games.com/services/brands-gamification/)
+    * [Blockchain](https://galaxy4games.com/services/blockchain/)
+    * [Tokenomics](https://galaxy4games.com/services/tokenomics/)
+    * [NFT Creation and Mint](https://galaxy4games.com/services/nft-marketing/)
+* [Portfolio](#)
+    * [Projects](https://galaxy4games.com/our-work/projects/)
+    * [Gallery](https://galaxy4games.com/our-work/gallery/)
+* [Use Cases](#)
+    * [Our Game Solutions](https://galaxy4games.com/knowledgebase/game-solutions/)
+    * [Modular Solutions](https://galaxy4games.com/knowledgebase/modular-solutions/)
+* [About us](https://galaxy4games.com/about-us/)
+* [Contact](https://galaxy4games.com/contact/)
+
 **Terms of Use**
 
 Last updated July 22, 2020
@@ -164,14 +203,16 @@ Get in touch
 
      
 
-Please prove you are human by selecting the Car. 
+Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
+
+Please prove you are human by selecting the Heart. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
 * [About us](https://galaxy4games.com/about-us/)
 * [Gallery](https://galaxy4games.com/gallery/)
 * [Our Projects](https://galaxy4games.com/our-work/projects/)
-* [Our Game Solutions](https://galaxy4games.com/knowledgebase/our-game-solutions/)
+* [Our Game Solutions](https://galaxy4games.com/knowledgebase/game-solutions/)
 * [Sitemaps](https://galaxy4games.com/sitemap/)
 
 [](tel:)[general@galaxy4games.com](mailto:general@galaxy4games.com)
@@ -188,4 +229,6 @@ Get In Touch
 
      
 
-Please prove you are human by selecting the Car.
+Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
+
+Please prove you are human by selecting the Heart.
