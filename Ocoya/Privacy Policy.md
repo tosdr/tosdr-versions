@@ -5,7 +5,7 @@
 
 Features
 
-[Content](https://www.ocoya.net/content)[Scheduling](https://www.ocoya.net/scheduler)[Copywriting](https://www.ocoya.net/copywriter)[AI assist](https://www.ocoya.net/ai-assist)[Automation](https://www.ocoya.net/automation)[Ecommerce](https://www.ocoya.net/ecommerce)[API](https://www.ocoya.net/api)
+[Content](https://www.ocoya.net/content)[Scheduling](https://www.ocoya.net/scheduler)[Copywriting](https://www.ocoya.net/copywriter)[AI assist](https://www.ocoya.net/ai-assist)[Automation](https://www.ocoya.net/automation)[Ecommerce](https://www.ocoya.net/ecommerce)[Professionals](https://www.ocoya.net/hire-a-professional)[API](https://www.ocoya.net/api)
 
 [Pricing](https://www.ocoya.net/pricing)[Integrations](https://www.ocoya.net/integrations)[Travis AI](https://www.ocoya.net/copywriter)[Get Paid!](https://www.ocoya.net/affiliates)
 
