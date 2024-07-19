@@ -2,7 +2,7 @@
 
 [Official Parking Guide](https://mccormick.parkingguide.com/)
 
-[Powered By ![SP Plus logo](/wp-content/uploads/spplus-logo.png)](https://www.spplus.com/) 
+![](https://mccormick.parkingguide.com/wp-content/uploads/spplus-metropolis-footer-white.png)
 
 [![McCormick Place](https://mccormick.parkingguide.com/wp-content/uploads/McCormick-Place-logo-transparent.png)](https://mccormick.parkingguide.com/)
 
