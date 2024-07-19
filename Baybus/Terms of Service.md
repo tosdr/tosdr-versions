@@ -91,31 +91,29 @@ To
 
   Plan Journey    
 
-* [##### Detour Routes 2B, 2W & 5 - Night Closure of Dive Crescent
+* [##### Youth concession fares are changing 29 July. Top up your Bee Card, tag on and tag off the bus, don't get caught short!
     
-    Sun 23 Jun 06:00 pm - Mon 24 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-2b-2w-5-night-closure-of-dive-crescent/)
-* [##### Detour Route CT - Night Closure of Baypark to Bayfair
+    Mon 29 Jul 06:00 am - Mon 01 Jan 12:00 am](https://www.baybus.co.nz/latest-updates/service-updates/youth-concession-fares-are-changing-29-july-top-up-your-bee-card-tag-on-and-tag-off-the-bus-dont-get-caught-short/)
+* [##### Permanent Bus Stop Closure for Routes 2, 20, 21: Girven Rd - Baywave
     
-    Sun 23 Jun 07:00 pm - Thu 27 Jun 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-ct-night-closure-of-baypark-to-bayfair/)
-* [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road (Junction of Girven Rd)
+    Mon 22 Jul 06:00 am - Mon 01 Jan 12:00 am](https://www.baybus.co.nz/latest-updates/service-updates/permanent-bus-stop-closure-for-routes-2-20-21-girven-rd-baywave/)
+* [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road
     
-    Now until Thu 04 Jul 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-21-closure-of-maranui-street-oceanbeach-road-junction-of-girven-rd/)
+    Now until Mon 30 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-21-closure-of-maranui-street-oceanbeach-road/)
+* [##### Temporary Bus Stop Closures, Routes 1 & 105 - Fraser Street
+    
+    Now until Sun 15 Sept 11:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/temporary-bus-stop-closures-routes-1-105-fraser-street/)
+* [##### Detour Route 40 - Temporary Traffic Lights on Welcome Bay Road](https://www.baybus.co.nz/latest-updates/service-updates/detour-route-40-temporary-traffic-lights-on-welcome-bay-road/)
 * [##### Detour, Bus Stop Closures Route 60 - Long-term Closure of St Andrews Drive Roundabout
     
     Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-60-long-term-closure-of-st-andrews-drive-roundabout/)
 * [##### Detour, Bus Stop Closures Route 814a - Long-term Closure of St Andrews Drive Roundabout
     
     Now until Mon 02 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-814a-long-term-closure-of-st-andrews-drive-roundabout/)
-* [##### Routes 122 and 135 - Kakahoroa Drive, Whakatane - Detour - Project Future Proof
+* [##### Detour Routes 122 & 135 - Kakahoroa Drive, Whakatāne - Project Future Proof
     
-    Now until Wed 31 Jul 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/routes-122-and-135-kakahoroa-drive-whakatane-detour-project-future-proof/)
-* [##### Routes 2 & 5 - Harington Street closed one way. Permanent change.](https://www.baybus.co.nz/latest-updates/service-updates/routes-2-5-harington-street-closed-one-way-permanent-change/)
-* [##### Permanent Detour Outbound Service - Routes 60, 70, 72A & 72B](https://www.baybus.co.nz/latest-updates/service-updates/permanent-detour-outbound-service-routes-60-70-72a-72b/)
-* [##### Routes 2B, 2W & 5 - Permanent Outbound Detour - From Monday 08 April](https://www.baybus.co.nz/latest-updates/service-updates/routes-2b-2w-5-permanent-outbound-detour-from-monday-08-april/)
-* [##### Route 101 - Permanent Outbound Detour - From Monday 08 April](https://www.baybus.co.nz/latest-updates/service-updates/route-101-permanent-outbound-detour-from-monday-08-april/)
-* [##### Route Name Change to Route 2
-    
-    Mon 24 Jun 06:00 am - Mon 01 Jan 12:00 am](https://www.baybus.co.nz/latest-updates/service-updates/route-name-change-to-route-2/)
+    Now until Thu 31 Oct 08:00 pm](https://www.baybus.co.nz/latest-updates/service-updates/detour-routes-122-135-kakahoroa-drive-whakatane-project-future-proof/)
+* [##### Route Name Change to Route 2](https://www.baybus.co.nz/latest-updates/service-updates/route-name-change-to-route-2/)
 
 Search 
 
