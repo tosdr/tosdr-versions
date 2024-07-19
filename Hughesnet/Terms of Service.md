@@ -31,8 +31,6 @@ Residential Customers
 
 [International Calling Plan Countries](https://legal.hughesnet.com/InternationalCallingPlanCountries/index.cfm)
 
-[Subscriber Privacy Policy](https://legal.hughesnet.com/SubscriberPolicies.cfm)
-
 [Installation Guidelines](https://legal.hughesnet.com/InstallationGuidelines.cfm)
 
 [Relocation Program](https://legal.hughesnet.com/RelocationProgram.cfm)
@@ -68,11 +66,9 @@ Business Customers
 
 [Business Voice Reasonable Use Policy](https://legal.hughesnet.com/BusinessVoiceReasonableUsePolicy.cfm)
 
-[Business Voice Subscriber Agreement](https://legal.hughesnet.com/BusinessVoiceSubAgree.cfm)
-
 [SMS Terms and Conditions](https://legal.hughesnet.com/business-sms-term-conditions)
 
-[Subscriber Privacy Policy](https://legal.hughesnet.com/SubscriberPoliciesBI.cfm)
+[Business Voice Subscriber Agreement](https://legal.hughesnet.com/BusinessVoiceSubAgree.cfm)
 
 [Installation Guidelines](https://legal.hughesnet.com/InstallationGuidelinesBI.cfm)
 
@@ -93,9 +89,9 @@ Hughes Presenter
 [Hosting Agreement](https://legal.hughesnet.com/Host-agreement.cfm)
 
 ###   
-Public Website
+Privacy Policy
 
-[Public Website Privacy Policy](https://legal.hughesnet.com/PublicWebsitePrivacyPolicy.cfm)
+[Privacy Policy](https://legal.hughesnet.com/PrivacyPolicy.cfm)
 
 [Hughes Website Terms of Use](https://legal.hughesnet.com/TermsOfUse.cfm)
 -------------------------------------------------------------------------
@@ -114,7 +110,7 @@ Hughes reserves the right, in its sole discretion, to modify or change these Ter
 
 **Privacy Policy and Notice Regarding Children**
 
-Please see our [Privacy Policy](https://legal.hughesnet.com/PublicWebsitePrivacyPolicy.cfm) regarding the collection, use and disclosure of information collected on the Website. By using the Website, you are consenting to the terms of our Privacy Policy.
+Please see our [Privacy Policy](https://legal.hughesnet.com/PrivacyPolicy.cfm) regarding the collection, use and disclosure of information collected on the Website. By using the Website, you are consenting to the terms of our Privacy Policy.
 
 **Notice Regarding Children**
 
