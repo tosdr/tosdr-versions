@@ -20,9 +20,7 @@
     * [Annual Meeting Information](https://newscorp.com/annual-meeting-information/)
     * [Contact Us](https://newscorp.com/investor-contact-info/)
 
-**Privacy Notice Highlights**
-
-****Last Modified: 01/01/2023****
+****Last Modified: 07/01/2024****
 
 News Corporation (“Company,” “News Corp,” “we,” “us”) understands and respects that you care about your personal information and how it is used. We respect your privacy, as further described in our full [Privacy Notice](https://newscorp.com/news-corp-privacy-notice/). These highlights set out some points about how we treat your personal information.
 
@@ -101,8 +99,8 @@ The California Shine the Light Law, the California Consumer Privacy Act (CCPA) a
 
 The UK Data Protection Act of 2018 (DPA 2018) and the EU General Protection Data Regulation (GDPR) provide certain rights for United Kingdom and European Union/EEA residents. For such additional information, [click here](https://newscorp.com/eu-privacy/).  
 
-**COLORADO, CONNECTICUT, VIRGINIA & UTAH PRIVACY RIGHTS**  
-The Colorado Privacy Act (“CPA”), Connecticut Data Privacy Act (“CDPA”), Virginia Consumer Data Protection Act (“VCDPA”) and Utah Consumer Privacy Act (“UCPA”) each provide certain rights to residents of Colorado, Connecticut, Virginia and Utah, respectively. For additional information for those residents, [click here](https://newscorp.com/colorado-connecticut-virginia-utah-privacy/).
+**OTHER U.S. STATE PRIVACY RIGHTS  
+**The data privacy and/or protection acts of the following states: Colorado, Connecticut, Montana, Oregon, Tennessee, Texas, Utah and Virginia each provide certain rights to their respective residents. For additional information for those residents, [click here](https://newscorp.com/for-other-us-states/).
 
 [Please click here to review the full Privacy Notice.](https://newscorp.com/news-corp-privacy-notice/)
 
