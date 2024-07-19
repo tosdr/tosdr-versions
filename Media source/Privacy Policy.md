@@ -324,7 +324,3 @@ Marketing & graphic design assistant at [Fixthephoto](https://fixthephoto.com/es
 * [Política de privacidad](https://www.mediasource.mx/privacidad/)
 
 [](#header)
-
-![](https://www.facebook.com/tr?id=1112983885727284&ev=PageView&noscript=1)
-
-![](https://dc.ads.linkedin.com/collect/?pid=352921&fmt=gif)
