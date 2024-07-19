@@ -110,13 +110,13 @@ Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihr
 9\. OPENSTREETMAP
 -----------------
 
-Wir binden die Landkarten des Dienstes “OpenStreetMap” ein ([https://www.openstreetmap.org](https://www.openstreetmap.org/)), die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. [Datenschutzerklärung der OSMF](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
+Wir binden die Landkarten des Dienstes “OpenStreetMap” ein ([https://www.openstreetmap.org/](https://www.openstreetmap.org/)), die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. [Datenschutzerklärung der OSMF](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
 
 Nach unserer Kenntnis werden die Daten der Nutzer durch OpenStreetMap ausschließlich zu Zwecken der Darstellung der Kartenfunktionen und Zwischenspeicherung der gewählten Einstellungen verwendet. Zu diesen Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden.
 
 [![OpenStreetMap Logo](/logos/osm.png)](https://www.openstreetmap.de/) Der FOSSGIS e.V. ist offizielles Local Chapter und Ansprechpartner für das OpenStreetMap-Projekt in Deutschland.
 
-[![](/logos/FOSSGIS24_Standortlogo.png)](https://fossgis-konferenz.de/2024) Die nächste FOSSGIS-Konferenz findet vom 20.-23. März 2024 in Hamburg statt.
+[![](/logos/FOSSGIS24_Standortlogo.png)](https://fossgis-konferenz.de/2024/) Die nächste FOSSGIS-Konferenz findet vom 20.-23. März 2024 in Hamburg statt.
 
 [![OSGEO Logo](/logos/osgeo.png)](https://www.osgeo.org/) Der FOSSGIS e.V. vertritt die OSGeo Foundation als Local-Chapter im deutschsprachigen Raum.
 
