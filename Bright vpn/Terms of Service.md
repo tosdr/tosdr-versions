@@ -221,7 +221,7 @@ You are 1 click away from being fully secure with FREE Premium VPN!
 Here is what you need to do:
 
 1. **Step 1** Bright VPN is downloading in top-right browser corner…
-2. **Step 2** Once finished, click on the file and complete installation
+2. **Step 2** Once finished, complete installation
 
 ![AppEsteem_Seal_Logo](https://brightvpn.com/wp-content/uploads/2022/05/AppEsteem_Seal_Logo-1-1.svg)
 
