@@ -4,11 +4,9 @@
     
     Learning Library
     
-    Cyber workforce resilience and career development with hands-on, real-world training
+    Cyber workforce resilience and career development with hands-on, real-world training Cyber Ranges
     
-    Cyber Ranges
-    
-    Live-fire simulations to train your team and stay ahead of the latest threats
+    Live-fire simulations to train your team and stay ahead of the latest threats 
     
     [Courses & Certifications
     
@@ -24,14 +22,14 @@
     
     [Explore Learning Library](https://portal.offsec.com/)
     
-    [New Release
+    [New course
     
-    OffSec MITRE D3FEND Learning Paths
-    ----------------------------------
+    SEC-100: CyberCore - Security Essentials
+    ----------------------------------------
     
-    Build your team's defensive skill sets
+    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
     
-    ![OffSec MITRE D3FEND Learning Paths](https://manage.offsec.com/app/uploads/2024/05/mitre_defend_lp.png)](https://www.offsec.com/learning/paths/mitre-defend-training/)
+    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
     
     [Enterprise Cyber Range & Versus
     
@@ -41,7 +39,7 @@
     
     Prepare for the next attack with simulated real-world training environments](https://www.offsec.com/enterprise/cyber-range/defensive/)
     
-    [Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus?utm_source=offsec)
+    [Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus/?utm_source=offsec)
     
     [Exclusive
     
@@ -56,11 +54,9 @@
     
     Organizations
     
-    Continuous learning & skill development to build cyber workforce resilience
+    Continuous learning & skill development to build cyber workforce resilience Individuals
     
-    Individuals
-    
-    Get industry leading training and reinforce learning with hands-on labs
+    Get industry leading training and reinforce learning with hands-on labs 
     
     [Teams & Enterprises
     
@@ -89,26 +85,24 @@
     
     Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
     
-    [Buy now](https://portal.offsec.com/registration?utm_source=offsec)
+    [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
-    [Recommended
+    [New course
     
-    Learn One
-    ---------
+    SEC-100: CyberCore - Security Essentials
+    ----------------------------------------
     
-    Get access to a course and labs for one full year. Balance life and learning while reducing stress and time pressure
+    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
     
-    ![Learn One](https://manage.offsec.com/app/uploads/2024/05/learn_one_nav_icon.png)](https://www.offsec.com/products/learn-one/)
+    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
     
 * Pricing Plans & Pricing
     
     Organizations
     
-    Flexible solutions designed for organizations across industries and sizes
+    Flexible solutions designed for organizations across industries and sizes Individuals
     
-    Individuals
-    
-    Find the right training plan for your unique learning needs
+    Find the right training plan for your unique learning needs 
     
     [Subscription Pricing
     
@@ -147,16 +141,16 @@
     
     OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/)
     
-    [Buy now](https://portal.offsec.com/registration?utm_source=offsec)
+    [Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
     
-    [Recommended
+    [New course
     
-    Learn One
-    ---------
+    SEC-100: CyberCore - Security Essentials
+    ----------------------------------------
     
-    Get access to a course and labs for one full year. Balance life and learning while reducing stress and time pressure
+    Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
     
-    ![Learn One](https://manage.offsec.com/app/uploads/2024/05/learn_one_nav_icon.png)](https://www.offsec.com/products/learn-one/)
+    ![SEC-100: CyberCore - Security Essentials](https://manage.offsec.com/app/uploads/2024/06/flag.svg)](https://www.offsec.com/courses/sec-100/)
     
 * Partners
     
@@ -185,10 +179,10 @@
     * Read
         
     
-    * [Blog](https://www.offsec.com/blog)
-    * [Case Studies](https://www.offsec.com/resources/case-study)
-    * [Guides](https://www.offsec.com/resources/guides)
-    * [White Papers](https://www.offsec.com/resources/whitepaper)
+    * [Blog](https://www.offsec.com/blog/)
+    * [Case Studies](https://www.offsec.com/resources/case-study/)
+    * [Guides](https://www.offsec.com/resources/guides/)
+    * [White Papers](https://www.offsec.com/resources/whitepaper/)
     
     * Watch
         
@@ -231,7 +225,7 @@
     ![OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft](https://manage.offsec.com/wp-content/uploads/2023/08/Homepage-default-preview.jpg)](https://www.offsec.com/press-room/)
     
 
-[Buy now](https://www.offensive-security.com/pre-registration) [Sign In](https://portal.offensive-security.com/sign-in) [Contact](https://www.offensive-security.com/contact-us)
+[Buy now](https://www.offensive-security.com/pre-registration/) [Sign In](https://portal.offensive-security.com/sign-in/) [Contact](https://www.offensive-security.com/contact-us/)
 
 Learning Solutions
 
@@ -261,7 +255,7 @@ Train on the latest attack vectors to address vulnerabilities](https://www.offse
 
 Prepare for the next attack with simulated real-world training environments](https://www.offsec.com/enterprise/cyber-range/defensive/)
 
-[Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus?utm_source=offsec)
+[Watch a demo](https://learn.offsec.com/webinar-cyber-drills-versus/?utm_source=offsec)
 
 Why OffSec
 
@@ -287,7 +281,7 @@ Challenge yourself in real-world lab environments](https://www.offsec.com/labs/)
 
 Ready yourself for the next step in your cybersecurity career](https://www.offsec.com/products/)
 
-[Buy now](https://portal.offsec.com/registration?utm_source=offsec)
+[Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
 
 Plans & Pricing
 
@@ -323,7 +317,7 @@ Learn Fundamentals
 
 OffSec-curated private labs to practice and perfect your pentesting skills](https://www.offsec.com/labs/)
 
-[Buy now](https://portal.offsec.com/registration?utm_source=offsec)
+[Buy now](https://portal.offsec.com/registration/?utm_source=offsec)
 
 Partners
 
@@ -352,10 +346,10 @@ Resources
 * Read
     
 
-* [Blog](https://www.offsec.com/blog)
-* [Case Studies](https://www.offsec.com/resources/case-study)
-* [Guides](https://www.offsec.com/resources/guides)
-* [White Papers](https://www.offsec.com/resources/whitepaper)
+* [Blog](https://www.offsec.com/blog/)
+* [Case Studies](https://www.offsec.com/resources/case-study/)
+* [Guides](https://www.offsec.com/resources/guides/)
+* [White Papers](https://www.offsec.com/resources/whitepaper/)
 
 * Watch
     
@@ -386,21 +380,21 @@ Resources
 
 * [Swag Store](https://offsec.usa.dowlis.com/?utm_source=offsec)
 
-![](/_astro/cybercore.C3lrBLvZ_Z22aMeo.svg)
+![](/_astro/cybercore.bGheRKum_25hhDp.svg)
 
 SEC-100: CyberCore - Security Essentials
 ----------------------------------------
 
-OffSec's new course and certification opens doors to an exciting cybersecurity career.
+OffSec's new course and certification helps open doors to an exciting cybersecurity career.
 
-[Learn more](https://www.offensive-security.com/learning/paths/cybercore/)
+[Learn more](https://www.offensive-security.com/courses/sec-100/)
 
 Legal
 =====
 
 Review Offensive Security’s privacy policy, terms and conditions, trademark policy, and academic policy.
 
-OffSec Terms and ConditionsAcademic PolicyPrivacy Policy [Cookie Policy](https://www.offensive-security.com/cookie-policy/)
+OffSec Terms and Conditions Academic Policy Privacy Policy [Cookie Policy](https://www.offensive-security.com/cookie-policy/)
 
 Table of Contents
 -----------------
