@@ -1,6 +1,4 @@
-[![Flipboard Logo](https://about.flipboard.com/wp-content/themes/flipboard/dist/img/flipboard-logo.svg)](https://about.flipboard.com/)
-
-[Open Flipboard](https://flipboard.com/)
+ [![Flipboard Logo](https://about.flipboard.com/wp-content/themes/flipboard/dist/img/flipboard-logo.svg) ![Flipboard Logo](https://about.flipboard.com/wp-content/themes/flipboard/dist/img/logomark.png)](https://about.flipboard.com/)
 
 ![Flipboard Logo](https://about.flipboard.com/wp-content/themes/flipboard/dist/img/badge-white.svg)
 
