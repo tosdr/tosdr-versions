@@ -1,5 +1,3 @@
-                                                                      
-
 * [Privacy Policy](https://www.playstation.com/en-ie/legal/privacy-policy/)
 * [Cookies](https://www.playstation.com/en-ie/legal/cookies/)
 * [Privacy for younger children](https://www.playstation.com/en-ie/legal/privacy-for-younger-children/)
