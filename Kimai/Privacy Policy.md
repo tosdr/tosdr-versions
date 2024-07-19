@@ -1,4 +1,4 @@
- [![Kimai - Open Source time-tracker](/images/kimai_logo.png) Kimai](https://www.kimai.org/)
+ [![Kimai - Open Source time-tracker](/images/kimai_logo.webp) Kimai](https://www.kimai.org/)
 
 ##### Menu
 
@@ -217,7 +217,7 @@ English
 * [Privacy policy](https://www.kimai.org/en/privacy-policy.html)
 * [Status](https://uptime.kimai.cloud/)
 
-[](https://github.com/kimai/kimai)[](https://www.youtube.com/@kimai_org)[](https://www.linkedin.com/company/kimai-timetracker/)[](https://www.instagram.com/kimai_org)[](https://twitter.com/kimai_org)[](https://www.facebook.com/people/Kimai/61557684102167/)[](https://phpc.social/@kimai)
+[](https://github.com/kimai/kimai)[](https://www.youtube.com/@kimai_org)[](https://www.instagram.com/kimai_org)[](https://twitter.com/kimai_org)[](https://www.facebook.com/people/Kimai/61557684102167/)[](https://phpc.social/@kimai)
 
 Developed by [Kevin Papst](https://www.kevinpapst.de/)
 
