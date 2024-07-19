@@ -298,8 +298,6 @@ Repository
 * [Cloud Security ISO 27017:2015 - BSI Certificate of Registration](https://www.globalsign.com/en/repository/27017.pdf "Cloud Security ISO 27017:2015 - BSI Certificate of Registration")
 * [eIDAS certificate for qualified certificates for electronic signatures, seals and website authentication](https://www.globalsign.com/en/repository/eidas.pdf "eIDAS certificate for qualified certificates for electronic signatures, seals and website authentication")
 * [eIDAS certificate for qualified timestamping](https://www.globalsign.com/en/repository/eidastsa.pdf "eIDAS certificate for qualified timestamping")
-* [UK eIDAS certificate for qualified certificates for electronic signatures, seals, website authentication](https://www.globalsign.com/en/repository/ukeidas.pdf "UK eIDAS certificate for qualified certificates for electronic signatures, seals, website authentication")
-* [UK eIDAS certificate for qualified timestamping](https://www.globalsign.com/en/repository/ukeidastsa.pdf "UK eIDAS certificate for qualified timestamping")
 
 ### Security & Compliance whitepapers
 
