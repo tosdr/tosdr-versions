@@ -68,11 +68,11 @@ Institute
 
 Latest news
 
-![](/content/dam/jpmc/jpmorgan-chase-and-co/institute/banners/banner-retail-investors.jpg)
+![](/content/dam/jpmorganchase/images/institute/banner-how-households-manage-high-air-condit.png)
 
-The changing demographics of retail investors
+Feeling the Heat: How Households Manage High Air Conditioning Bills
 
-[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/the-changing-demographics-of-retail-investors)
+[Learn more](https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/how-households-manage-high-air-conditioning-bills)
 
 Careers
 
@@ -118,17 +118,28 @@ Annual Report 2023
 
 [Newsroom](https://www.jpmorganchase.com/newsroom)
 
-* [Legal](https://www.jpmorganchase.com/legal)
-* Privacy and security
-
 Privacy and security
 ====================
 
 Please use the links below for information regarding the privacy policies of Chase and J.P. Morgan, respectively.
 
-[J.P. Morgan Privacy Policy](http://www.jpmorgan.com/pages/jpmorgan/privacy) [Chase Privacy & Security](https://www.chase.com/digital/resources/privacy-security/privacy/online-privacy-policy)
+J.P. Morgan Privacy Policy
 
-![JPMorganChase logo links to homepage](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
+[Learn more](http://www.jpmorgan.com/pages/jpmorgan/privacy)
+
+Chase Privacy & Security
+
+[Learn more](https://www.chase.com/digital/resources/privacy-security/privacy/online-privacy-policy)
+
+JPMC Institute Public Data Privacy Notice
+
+[Learn more](https://www.jpmorganchase.com/about/governance/data-privacy-protocols)
+
+System Requirements
+
+[Learn more](https://www.jpmorganchase.com/legal/privacy/system-requirements)
+
+![JPMorganChase logo](/content/dam/jpmorganchase/images/logos/jpmc-logo-white.svg)
 
 [](https://www.linkedin.com/company/jpmorgan-chase/)[](https://www.facebook.com/jpmorganchase)[](https://instagram.com/jpmorgan)[](https://www.youtube.com/jpmorgan)
 
