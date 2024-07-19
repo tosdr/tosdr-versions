@@ -1,12 +1,3 @@
-Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account! \*Valid for new accounts only
-
-Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account! \*Valid for new accounts only
-
-[Use code **igsummit23** to claim Manychat Pro FREE for 30 days\* for one account!  
-\*Valid for new accounts only
-
-Learn more](https://manychat.com/)
-
 [Get Started](https://manychat.com/signup)[Sign In](https://manychat.com/signin)
 
 Product
@@ -29,6 +20,14 @@ by Business Type
 
 [for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)[for Restaurants](https://restaurants.manychat.com/)
 
+[### Grow your followers
+
+Learn more](https://get.manychat.com/grow?utm_source=google&utm_medium=pmax&utm_id=20738073809&utm_campaign=pmax-global-instagram&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbwmanltghVojC7BN-iwiMt9k7X-gkx4cbwgJt72EIr4jTWuGJfpFeBoCdOoQAvD_BwE)
+
+[### Link in bio’ is soooo 2016. Use DMs instead
+
+Learn more](https://get.manychat.com/rip-link-in-bio?utm_source=google&utm_medium=search&utm_id=21316176890&utm_campaign=LIB&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb-JxDM2SKIeu1yceQR6p29jucrNz1d1C-0YEG24wRaJY1BiEgwZ_zRoCQZsQAvD_BwE)
+
 Agencies
 
 [![](https://mccdn.me/martech/next-lp//_next/static/media/find_agency.9a9db1ea.svg)
@@ -43,13 +42,17 @@ Resources
 
 Learn
 
-[Blog](https://manychat.com/blog/)[Help Center](https://support.manychat.com/support/home)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
+[Blog](https://manychat.com/blog/)[Help Center](https://help.manychat.com/)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
 
 Get Inspired
 
 [Chatbot Examples](https://manychat.com/messenger-marketing-examples)[Community](https://community.manychat.com/)
 
+[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-01.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-02.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)[![banner-image](https://mccdn.me/martcdn/mc-land/constants/top-banner/banner-03.png)Join Top Instagram Creators at One Huge Event — Only $10 For Now!![arrow image](https://mccdn.me/martech/next-lp//_next/static/media/ArrowRight-black.7c561375.svg)](https://igsummit.manychat.com/?utm_source=website_banner&utm_medium=warm&utm_campaign=summit2024)
+
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-with-text.274e5e81.svg)](https://manychat.com/)
+
+[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
 
 EnEsPt
 
@@ -85,6 +88,14 @@ by Business Type
 
 [for Creators](https://manychat.com/creators)[for eCommerce](https://manychat.com/meet-chatmarketing-for-ecommerce)[for Agencies](https://manychat.com/product/for-agencies)[for Restaurants](https://restaurants.manychat.com/)
 
+[### Grow your followers
+
+Learn more](https://get.manychat.com/grow?utm_source=google&utm_medium=pmax&utm_id=20738073809&utm_campaign=pmax-global-instagram&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrbwmanltghVojC7BN-iwiMt9k7X-gkx4cbwgJt72EIr4jTWuGJfpFeBoCdOoQAvD_BwE)
+
+[### Link in bio’ is soooo 2016. Use DMs instead
+
+Learn more](https://get.manychat.com/rip-link-in-bio?utm_source=google&utm_medium=search&utm_id=21316176890&utm_campaign=LIB&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb-JxDM2SKIeu1yceQR6p29jucrNz1d1C-0YEG24wRaJY1BiEgwZ_zRoCQZsQAvD_BwE)
+
 Agencies
 
 [![](https://mccdn.me/martech/next-lp//_next/static/media/find_agency.9a9db1ea.svg)
@@ -103,7 +114,7 @@ Resources
 
 Learn
 
-[Blog](https://manychat.com/blog/)[Help Center](https://support.manychat.com/support/home)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
+[Blog](https://manychat.com/blog/)[Help Center](https://help.manychat.com/)[How To Guides](https://manychat.com/resources/how-to)[Webinars](https://events.manychat.com/)[Video Course](https://manychat.com/resources/video-course)[eBooks](https://manychat.com/resources/ebooks)
 
 Get Inspired
 
@@ -236,7 +247,7 @@ We disclose personal data to third parties under the following circumstances:
     
 * **Professional Advisors.** We may disclose your personal data to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us.
     
-* **Third-party Applications and Integrations.** For the provision of the Service we receive and share data with integrations and apps linked by customers (Facebook, Instagram, Stripe, Paypal, etc.), as well as applications developed through “[Manychat Developer Program](https://support.manychat.com/support/solutions/articles/36000228026-dev-program-quick-start)”.
+* **Third-party Applications and Integrations.** For the provision of the Service we receive and share data with integrations and apps linked by customers (Facebook, Instagram, Stripe, Paypal, etc.), as well as applications developed through “[Manychat Developer Program](https://help.manychat.com/hc/en-us/articles/14281299586972-Dev-Program-Quick-Start)”.
     
 * **Business Transfers.** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal data may be part of the transferred assets. You acknowledge and agree that any successor to or acquirer of Manychat (or its assets) will continue to have the right to use your personal data and other information in accordance with the terms of this Privacy Policy. Further, Manychat may also disclose aggregated personal data in order to describe our Service to prospective acquirers or business partners.
     
@@ -250,7 +261,7 @@ We disclose personal data to third parties under the following circumstances:
 You have the following rights:
 
 * If you wish to **access** your personal data that Manychat collects, you can do so at any time by contacting us.
-* You can also contact us to **update, correct or delete** information in your account. See more details on [how to delete your account](https://support.manychat.com/en/support/solutions/articles/36000390813-how-to-delete-an-account).
+* You can also contact us to **update, correct or delete** information in your account. See more details on [how to delete your account](https://help.manychat.com/hc/en-us/articles/14281086263324-How-to-Delete-an-Account).
 * If you are in the European Economic Area (“EEA”), the UK, or Switzerland, you can **object to processing** of your personal data, ask us to **restrict processing** of your personal data or **request portability** of your personal data where it is technically possible.
 * Similarly, if you are in the EEA, the UK, or Switzerland, and provided we have collected and processed your personal data under your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal data conducted in reliance on other lawful processing grounds.
 * You have the **right to complain to a data protection authority** about our collection and use of your personal data. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the U.S. and Canada) are available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
@@ -389,6 +400,8 @@ Transform more conversations into sales, leads, and conversions today
 
 [![Manychat logo](https://mccdn.me/martech/next-lp//_next/static/media/logo-white.93c1c234.svg)](https://manychat.com/)
 
+[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/save-svg.c526402e.svg)save logo as svg](https://mccdn.me/martcdn/logo.svg)[![AI ico](https://mccdn.me/martech/next-lp//_next/static/media/become-partner.fd6c29b3.svg)become a partner](https://manychat.com/affiliate/)
+
 Manychat
 
 * [About](https://manychat.com/about)
@@ -413,7 +426,7 @@ Product
 Resources
 
 * [Status Page](https://status.manychat.com/)
-* [Help Center](https://support.manychat.com/support/home)
+* [Help Center](https://help.manychat.com/)
 * [Community](https://community.manychat.com/)
 * [Video Course](https://manychat.com/resources/video-course)
 * [How To](https://manychat.com/resources/how-to)
