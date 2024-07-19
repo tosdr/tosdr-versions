@@ -1,3 +1,5 @@
+×
+
 [![Newsweek logo](https://g.newsweek.com/www/images/newsweek-desktop-tablet.svg)](https://www.newsweek.com/)
 
 * [U.S.](https://www.newsweek.com/us)
@@ -11,7 +13,7 @@
 * [Fact Check](https://www.newsweek.com/fact-check)
 * [My Turn](https://www.newsweek.com/my-turn)
 * [Education](https://www.newsweek.com/education)
-* [Sports](https://www.newsweek.com/sports)[Podcasts](https://www.newsweek.com/podcasts)[Better Planet](https://www.newsweek.com/better-planet)[Vault](https://www.newsweek.com/vault)[Mightier](https://www.newsweek.com/mightier)[Autos](https://www.newsweek.com/autos)[Newsletters](https://www.newsweek.com/preference-center)[Unconventional](https://www.newsweek.com/unconventional/naveedjamali)[Vantage](https://www.newsweek.com/topic/vantage)[Experts](https://www.newsweek.com/experts)[Voices](https://www.newsweek.com/voices)
+* [Sports](https://www.newsweek.com/sports)[Podcasts](https://www.newsweek.com/podcasts)[Better Planet](https://www.newsweek.com/better-planet)[Vault](https://www.newsweek.com/vault/)[Mightier](https://www.newsweek.com/mightier)[Autos](https://www.newsweek.com/autos)[Newsletters](https://www.newsweek.com/preference-center)[Unconventional](https://www.newsweek.com/unconventional/naveedjamali)[Vantage](https://www.newsweek.com/topic/vantage)[Experts](https://www.newsweek.com/experts)[Voices](https://www.newsweek.com/voices)
     
 
 * [Subscribe for $1](https://subscribe.newsweek.com/product/2 "Subscribe to our service")
@@ -37,7 +39,7 @@
 * [Sports](https://www.newsweek.com/sports)
 * [Podcasts](https://www.newsweek.com/podcasts)
 * [Better Planet](https://www.newsweek.com/better-planet)
-* [Vault](https://www.newsweek.com/vault)
+* [Vault](https://www.newsweek.com/vault/)
 * [Mightier](https://www.newsweek.com/mightier)
 * [Autos](https://www.newsweek.com/autos)
 * [Newsletters](https://www.newsweek.com/preference-center)
@@ -45,8 +47,6 @@
 * [Vantage](https://www.newsweek.com/topic/vantage)
 * [Experts](https://www.newsweek.com/experts)
 * [Voices](https://www.newsweek.com/voices)
-
-×
 
 * [About Us](https://www.newsweek.com/about-newsweek)
 * [Masthead](https://www.newsweek.com/about-newsweek#masthead)
@@ -173,7 +173,7 @@ You may unsubscribe at any time.
 
  [![newsweek logo](https://g.newsweek.com/img/footer/NW-LOGO-001.svg)](https://www.newsweek.com/ "home")[![](https://g.newsweek.com/img/footer/linkedin.svg)](https://www.linkeding.com/company/newsweek "Linkedin")[![](https://g.newsweek.com/img/footer/instagram.svg)](https://www.instagram.com/newsweek "Instagram")[![](https://g.newsweek.com/www/images/twitter-icon-white.svg)](https://www.twitter.com/Newsweek "X")[![](https://g.newsweek.com/img/footer/facebook.svg)](https://www.facebook.com/Newsweek "Facebook")
 
-[U.S.](https://www.newsweek.com/us)[World](https://www.newsweek.com/world)[Science](https://www.newsweek.com/tech-science)[Health](https://www.newsweek.com/health)[Rankings](https://www.newsweek.com/rankings)[Opinion](https://www.newsweek.com/opinion)[Entertainment](https://www.newsweek.com/entertainment)[Fact Check](https://www.newsweek.com/fact-check)[My Turn](https://www.newsweek.com/my-turn)[Education](https://www.newsweek.com/education)[Sports](https://www.newsweek.com/sports)[Podcasts](https://www.newsweek.com/podcasts)[Better Planet](https://www.newsweek.com/better-planet)[Vault](https://www.newsweek.com/vault)[Mightier](https://www.newsweek.com/mightier)[Autos](https://www.newsweek.com/autos)[Newsletters](https://www.newsweek.com/preference-center)[Unconventional](https://www.newsweek.com/unconventional/naveedjamali)[Vantage](https://www.newsweek.com/topic/vantage)[Experts](https://www.newsweek.com/experts)[Voices](https://www.newsweek.com/voices)
+[U.S.](https://www.newsweek.com/us)[World](https://www.newsweek.com/world)[Science](https://www.newsweek.com/tech-science)[Health](https://www.newsweek.com/health)[Rankings](https://www.newsweek.com/rankings)[Opinion](https://www.newsweek.com/opinion)[Entertainment](https://www.newsweek.com/entertainment)[Fact Check](https://www.newsweek.com/fact-check)[My Turn](https://www.newsweek.com/my-turn)[Education](https://www.newsweek.com/education)[Sports](https://www.newsweek.com/sports)[Podcasts](https://www.newsweek.com/podcasts)[Better Planet](https://www.newsweek.com/better-planet)[Vault](https://www.newsweek.com/vault/)[Mightier](https://www.newsweek.com/mightier)[Autos](https://www.newsweek.com/autos)[Newsletters](https://www.newsweek.com/preference-center)[Unconventional](https://www.newsweek.com/unconventional/naveedjamali)[Vantage](https://www.newsweek.com/topic/vantage)[Experts](https://www.newsweek.com/experts)[Voices](https://www.newsweek.com/voices)
 
 * * *
 
@@ -195,21 +195,19 @@ The Bulletin (Daily)[See Sample](https://www.newsweek.com/thebulletin)
 
 The Gist of It (Daily)
 
+Geoscape (Twice a Week)
+
 The Josh Hammer Report (Weekly)[See Sample](https://www.newsweek.com/newsletter/josh-hammer-report)
-
-The Frontlines (Weekly)[See Sample](https://www.newsweek.com/newsletter/the-frontlines)
-
-Israel at War (Twice a Week)
 
 For The Culture (Three Times a Week)[See Sample](https://www.newsweek.com/newsletter/the-culture)
 
-Discoveries (Daily.)See Sample
+Discoveries (Daily)
 
-Like & Subscribe (3 Times a Week.)See Sample
+Like & Subscribe (3 Times a Week)
 
-Breaking News (As it Breaks.)
+Breaking News (As it Breaks)
 
-The Debate (Twice a Week.)
+The Debate (Twice a Week)
 
 Pawsitively (Daily)
 
@@ -223,8 +221,8 @@ Newsweek Pulse (2x3 Times a Month)
 
 You can unsubscribe at any time. By signing up you are agreeing to our [Terms of Service](https://www.newsweek.com/terms-service) and [Privacy Policy](https://www.newsweek.com/privacy-policy "terms and conditions")
 
- In The Magazine [![Newsweek magazine cover](https://d.newsweek.com/en/full/2408458/cover-june-21-28-2024.jpg?w=400&f=f74818af5400e589cbd859098d0c3560)June 28  
-2024 Issue](https://www.newsweek.com/2024/06/28/issue.html "newsweek magazine")
+ In The Magazine [![Newsweek magazine cover](https://d.newsweek.com/en/full/2429850/cover-july-26-2024.jpg?w=400&f=6bd65bfb54233c9a9e324fbe6802ff4b)July 26  
+2024 Issue](https://www.newsweek.com/2024/07/26/issue.html "newsweek magazine")
 
 * * *
 
@@ -242,6 +240,6 @@ Contact
 
 Terms of Use
 
-[Cookie Policy](https://www.newsweek.com/cookie-policy)[Copyright](https://www.newsweek.com/copyright)[Privacy Policy](https://www.newsweek.com/privacy-policy)[Terms & Conditions](https://www.newsweek.com/terms-service)[Terms of Sale](https://www.newsweek.com/terms-sale) Privacy Settings Do Not Sell My Personal Information
+[Cookie Policy](https://www.newsweek.com/cookie-policy)[Copyright](https://www.newsweek.com/copyright)[Privacy Policy](https://www.newsweek.com/privacy-policy)[Terms & Conditions](https://www.newsweek.com/terms-service)[Terms of Sale](https://www.newsweek.com/terms-sale) Privacy Settings
 
 © 2024 NEWSWEEK DIGITAL LLC
