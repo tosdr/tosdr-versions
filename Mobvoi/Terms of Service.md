@@ -1,4 +1,4 @@
-[![](https://d1yt8qkhp8oydd.cloudfront.net/ticbuy/./img/common-logo.0.svg?a5e1de06afa9a42da8aa4644de1cad6c)](https://www.mobvoi.com/)
+[![](https://growth-cdn.ticwear.com/ticbuy/./img/common-logo.0.svg?a5e1de06afa9a42da8aa4644de1cad6c)](https://www.mobvoi.com/)
 
 * [](https://www.mobvoi.com/cart)
 * [US](javascript:void(0))
@@ -144,7 +144,7 @@ Follow us
 
 Copyright © HK SMARTMV LIMITED. All rights reserved.
 
-[![](https://d1yt8qkhp8oydd.cloudfront.net/ticbuy/./img/page-top-arrow-icon.0.png?1b3fb34af5d2fa9525dadf4fd312bd94)](javascript:void(0))
+[![](https://growth-cdn.ticwear.com/ticbuy/./img/page-top-arrow-icon.0.png?1b3fb34af5d2fa9525dadf4fd312bd94)](javascript:void(0))
 
 Help
 
