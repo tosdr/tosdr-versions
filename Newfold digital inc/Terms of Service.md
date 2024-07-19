@@ -22,44 +22,44 @@ Newfold Digital is a leading web presence solutions provider serving millions of
   
 With our extensive product offerings and personalized support, we take pride in collaborating with our customers to serve their online presence needs.
 
-![](https://www.newfold.com/_jcr_content/root/section_306921688/responsivecolumns/column-2/image.coreimg.jpeg/1621369423410/content.jpeg)
+![](https://newfold.scene7.com/is/image/NewfoldDigital/content?ts=1685529187325&dpr=off&fmt=png-alpha)
 
 ![](https://newfold.scene7.com/is/content/NewfoldDigital/dots?ts=1685650426473&dpr=off)
 
 ### Our Solutions
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns/column-0/itl.coreimg.svg/1612906255342/icon-domains.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-domains?ts=1685529176178&dpr=off)
 
 Domains
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns/column-1/itl_copy.coreimg.svg/1612906054108/icon-websites.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-websites?ts=1685529175419&dpr=off)
 
 DIY Website Builder  
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns/column-2/itl_copy.coreimg.svg/1612758895143/icon-hosting.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-hosting?ts=1685529177593&dpr=off)
 
 Hosting
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns/column-3/itl_copy.coreimg.svg/1612758907536/icon-ssl.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-ssl?ts=1685529172768&dpr=off)
 
 Security
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns_2001943999/column-0/itl_copy.coreimg.svg/1612906418032/icon-onlinemarketing.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-onlinemarketing?ts=1685529173512&dpr=off)
 
 Online  
 Marketing
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns_2001943999/column-1/itl_copy_487334545.coreimg.svg/1612910160651/icon-professionalwebsites.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-professionalwebsites?ts=1685529176897&dpr=off)
 
 Professional  
 Website Design
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns_2001943999/column-2/itl_copy_1473752176.coreimg.svg/1612905920927/icon-seo.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-seo?ts=1685529172035&dpr=off)
 
 SEO  
 Services
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002/responsivecolumns_2001943999/column-3/itl_copy_853944041.coreimg.svg/1612910028927/icon-support.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-support?ts=1685529174699&dpr=off)
 
 Customer  
 Support
@@ -75,45 +75,45 @@ A Newfold Digital é uma provedora líder de soluções de presença na web, ate
 
 Com nossa ampla oferta de produtos e suporte personalizado, temos orgulho em colaborar com nossos clientes para atender às suas necessidades de presença online.
 
-![](https://www.newfold.com/_jcr_content/root/section_306921688_co/responsivecolumns/column-2/image.coreimg.jpeg/1621369423410/content.jpeg)
+![](https://newfold.scene7.com/is/image/NewfoldDigital/content?ts=1685529187325&dpr=off&fmt=png-alpha)
 
 ![](https://newfold.scene7.com/is/content/NewfoldDigital/dots?ts=1685650426473&dpr=off)
 
 ### Nossas Soluções
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns/column-0/itl.coreimg.svg/1643217238250/icon-domains.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-domains?ts=1685529176178&dpr=off)
 
 Domínios
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns/column-1/itl_copy.coreimg.svg/1643217423588/icon-websites.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-websites?ts=1685529175419&dpr=off)
 
 Construa o seu  
 próprio site
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns/column-2/itl_copy.coreimg.svg/1643217295360/icon-hosting.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-hosting?ts=1685529177593&dpr=off)
 
 Hospedagem
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns/column-3/itl_copy.coreimg.svg/1643217314129/icon-ssl.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-ssl?ts=1685529172768&dpr=off)
 
 Segurança
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns_2001943999/column-0/itl_copy.coreimg.svg/1612906418032/icon-onlinemarketing.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-onlinemarketing?ts=1685529173512&dpr=off)
 
 Online  
 Marketing
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns_2001943999/column-1/itl_copy_487334545.coreimg.svg/1643217411129/icon-professionalwebsites.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-professionalwebsites?ts=1685529176897&dpr=off)
 
 Profissional   
 Design do site
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns_2001943999/column-2/itl_copy_1473752176.coreimg.svg/1643217377101/icon-seo.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-seo?ts=1685529172035&dpr=off)
 
 Serviços  
 de SEO
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop/responsivecolumns_2001943999/column-3/itl_copy_853944041.coreimg.svg/1643217402223/icon-support.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-support?ts=1685529174699&dpr=off)
 
 Suporte  
 ao cliente
@@ -129,45 +129,45 @@ Newfold Digital es un proveedor líder de soluciones de presencia web que presta
 
 Con nuestra amplia oferta de productos y soporte personalizado, nos enorgullecemos de colaborar con nuestros clientes para satisfacer sus necesidades de presencia online.
 
-![](https://www.newfold.com/_jcr_content/root/section_306921688_co_808207359/responsivecolumns/column-2/image.coreimg.jpeg/1621369423410/content.jpeg)
+![](https://newfold.scene7.com/is/image/NewfoldDigital/content?ts=1685529187325&dpr=off&fmt=png-alpha)
 
 ![](https://newfold.scene7.com/is/content/NewfoldDigital/dots?ts=1685650426473&dpr=off)
 
 ### **Nuestras soluciones**
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns/column-0/itl.coreimg.svg/1643217683535/icon-domains.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-domains?ts=1685529176178&dpr=off)
 
 Dominios
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns/column-1/itl_copy.coreimg.svg/1643217706694/icon-websites.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-websites?ts=1685529175419&dpr=off)
 
 Crea tu  
 propio sitio web
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns/column-2/itl_copy.coreimg.svg/1643217726373/icon-hosting.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-hosting?ts=1685529177593&dpr=off)
 
 Alojamiento
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns/column-3/itl_copy.coreimg.svg/1643217750078/icon-ssl.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-ssl?ts=1685529172768&dpr=off)
 
 Seguridad
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns_2001943999/column-0/itl_copy.coreimg.svg/1643217774044/icon-onlinemarketing.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-onlinemarketing?ts=1685529173512&dpr=off)
 
 Online  
 Márketing
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns_2001943999/column-1/itl_copy_487334545.coreimg.svg/1643217812542/icon-professionalwebsites.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-professionalwebsites?ts=1685529176897&dpr=off)
 
 Profesional Diseño  
 de páginas web
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns_2001943999/column-2/itl_copy_1473752176.coreimg.svg/1643217833311/icon-seo.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-seo?ts=1685529172035&dpr=off)
 
 Servicios  
 de SEO
 
-![](https://www.newfold.com/_jcr_content/root/section_35469002_cop_1434663617/responsivecolumns_2001943999/column-3/itl_copy_853944041.coreimg.svg/1643217890573/icon-support.svg)
+![](https://newfold.scene7.com/is/content/NewfoldDigital/icon-support?ts=1685529174699&dpr=off)
 
 Atención  
 al cliente
