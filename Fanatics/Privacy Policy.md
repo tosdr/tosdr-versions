@@ -15,9 +15,45 @@ SIGN UP & SAVE!
 
 [](https://www.fanatics.com/)
 
-[![365-Day Returns](/content/ws/all/73e57857-dcc5-4e18-a3ee-3773599ec162.svg)](https://www.fanatics.com/easy-365-day-returns/x-1512+z-906149967-1353725028)[![Fanatics MVP Deals](/content/ws/all/ff9ac435-7404-42cf-a7b2-37e6183a607c.svg)](https://www.fanatics.com/fancash-rewards/x-197134+z-98696788-1839531665)[![FanCash Rewards Card](/content/ws/all/6a722aa0-239a-4412-9a72-8f5808d4683d.svg)](https://www.fanatics.com/fancash-rewards-card/x-308451+z-90450390-335087125?SiteCode=FAHPPLP)
+[![365-Day Returns](/content/ws/all/73e57857-dcc5-4e18-a3ee-3773599ec162.svg)](https://www.fanatics.com/easy-365-day-returns/x-1512+z-906149967-1353725028)[![Fanatics MVP Deals](/content/ws/all/ff9ac435-7404-42cf-a7b2-37e6183a607c.svg)](https://www.fanatics.com/fancash-rewards/x-197134+z-98696788-1839531665)[![FanCash Rewards Card](/content/ws/all/6a722aa0-239a-4412-9a72-8f5808d4683d.svg)](https://www.fanatics.com/fancash-rewards-card/x-308451+z-90450390-335087125?SiteCode=FAHPPLP)[![Download the App](/content/ws/all/ed3ffc43-e198-4828-b329-a247c77e837e.svg)](https://www.fanatics.com/mobile/x-2852+z-83964446-2215009846)
 
 [](https://www.fanatics.com/account)[](https://www.fanatics.com/cart?_ref=cart-icon&qty=0)
+
+* [Teams](#top-nav0)
+    
+    [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)[College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)[MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
+    
+    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
+    
+    [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+    
+    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)[Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
+    
+* [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
+* [College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
+* [MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
+* [Teams](#top-nav4)
+    
+    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
+    
+    [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+    
+    [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    
+    [Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
+    
+* [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
+* [NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
+* [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
+* [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+* [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+* [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+* [Olympics](https://www.fanatics.com/olympics/o-4610+z-84741900-1515210254)
+* [More](#top-nav12)
+* [Sale](#top-nav13)
+* [Players](#top-nav14)
+* [](#top-nav15)
+    
 
 How can we help you?
 
@@ -512,14 +548,14 @@ Follow Us
 * [](https://www.instagram.com/fanatics "Instagram")
 
 * [Privacy Policy](https://www.fanatics.com/what-is-your-privacy-policy/ch-2349 "Privacy Policy")
-* [Your Privacy Choices](https://www.fanatics.com/user-prefs/data-subject-request?_ref=do_not_sell "Your Privacy Choices")
+* [Your Privacy Choices](https://www.fanatics.com/user-prefs/cookies "Your Privacy Choices")
 * [Terms of Use](https://www.fanatics.com/terms-and-conditions/ch-2323 "Terms of Use")
 * [Interest-Based Advertisement](https://www.fanatics.com/what-is-your-privacy-policy/ch-2349#-6.-interest-based-advertising- "Interest-Based Advertisement")
 * [CA Supply Chains Act/UK Modern Slavery Act](https://www.fanaticsinc.com/ca-transparency-uk-modern-slavery-act "CA Supply Chains Act/UK Modern Slavery Act")
 * [Site Map](https://www.fanatics.com/sitemap "Site Map")
 * [Shopping Internationally? Visit fanatics.co.uk](https://www.fanatics.co.uk/stores/fanatics/en "Shopping Internationally? Visit fanatics.co.uk")
 
-© Fanatics, Inc., 2024. All Rights Reserved. No portion of this site may be reproduced or duplicated without the express permission of Fanatics, Inc.
+© Fanatics, LLC., 2024. All Rights Reserved. No portion of this site may be reproduced or duplicated without the express permission of Fanatics, LLC.
 
 * Visa
 * Master Card
@@ -530,16 +566,15 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: d81b9e741faedb25
+rc: 290b660b40c8ca17
 
-vid: 5264da90-3021-11ef-8f64-5934b5677d0f
+vid: 9f421210-45b1-11ef-a27f-8de51a599703
 
-version: 1.1.0-rc-20240617-1.91665
+version: 1.1.0-rc-20240717.93414
 
 +
 
 Qualified Experiments #:* 12635:A:0:1
-* 13246:C:2:1
-* 13324:B:1:1
-* 13353:C:2:1
+* 13800:A:0:1
+* 13832:C:2:1
 Namespaces:
