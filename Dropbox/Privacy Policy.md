@@ -64,6 +64,8 @@ The Dropbox Privacy Policy: frequently asked questions
 
 Updated Apr 09, 2024
 
+![person icon](https://paper-attachments.dropboxusercontent.com/s_20ECF084CA2978F4008D6E0DFF8CFF48214CBD33165009395DA333A536AE1544_1679690140929_person.png "person icon") The information in this article applies to all Dropbox customers.
+
 1\. How long does Dropbox keep my files after I delete my account?
 ------------------------------------------------------------------
 
@@ -229,15 +231,15 @@ Dropbox has collected and disclosed the categories described above to trusted th
 11\. How many personal data requests does Dropbox get, and how does Dropbox respond to them?
 --------------------------------------------------------------------------------------------
 
-Dropbox has a team of specialists dedicated to responding to personal data requests received via privacy@dropbox.com from users all over the world. You can find information on the volume of personal data requests Dropbox received and processed in the 12 months preceding June 30, 2023, in the table below:
+Dropbox has a team of specialists dedicated to responding to personal data requests received via privacy@dropbox.com from users all over the world. You can find information on the volume of personal data requests Dropbox received and processed in the 12 months preceding June 30, 2024, in the table below:
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Type of request** | **Received** | **Complied with (in whole or in part)** | **Denied (due to failure to verify or no account)** | **Average response time** |
-| Access | 165 | 67  | 98  | 2.54 days |
-| Deletion | 37,300 | 37,296 | 4   | 0.31 days |
-| Objection to processing | 645 | 645 | 0   | 1.06 days |
-| Do not sell | 250 | Dropbox does not sell personal data | Dropbox does not sell personal data | 0.43 days |
+| Access | 172 | 75  | 97  | 0.45 days |
+| Deletion | 3,810 | 3,800 | 10  | 0.25 days |
+| Objection to processing | 758 | 758 | 0   | 0.30 days |
+| Do not sell | 620 | Dropbox does not sell personal data | Dropbox does not sell personal data | 0.20 days |
 
 12\. What data does Dropbox collect when I use the Dash browser extension and desktop app?
 ------------------------------------------------------------------------------------------
