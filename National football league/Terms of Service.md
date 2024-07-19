@@ -65,7 +65,7 @@ Primary nav
         
         * NFC West
         *  [![Arizona Cardinals](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Arizona Cardinals](https://www.nfl.com/teams/arizona-cardinals/)
-        *  [![Los Angeles Rams](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Los Angeles Rams](https://www.nfl.com/teams/los-angeles-rams/)
+        *  [![Los Angeles Rams](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==) Los Angeles Rams](https://www.nfl.com/teams/los-angeles-rams/)
         *  [![San Francisco 49ers](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)San Francisco 49ers](https://www.nfl.com/teams/san-francisco-49ers/)
         *  [![Seattle Seahawks](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Seattle Seahawks](https://www.nfl.com/teams/seattle-seahawks/)
         
@@ -105,7 +105,7 @@ Primary nav
         
         *  [![Los Angeles Chargers](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Los Angeles Chargers](https://www.nfl.com/teams/los-angeles-chargers/)
         
-        *  [![Los Angeles Rams](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Los Angeles Rams](https://www.nfl.com/teams/los-angeles-rams/)
+        *  [![Los Angeles Rams](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==) Los Angeles Rams](https://www.nfl.com/teams/los-angeles-rams/)
         
         *  [![Miami Dolphins](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)Miami Dolphins](https://www.nfl.com/teams/miami-dolphins/)
         
@@ -157,7 +157,7 @@ Primary nav
         * [NFL Pride](https://www.nfl.com/causes/pride/ "NFL Pride")
         * [Football and Flow](https://www.nfl.com/causes/football-and-flow "Football and Flow")
         
-* [Schedule Release](https://www.nfl.com/schedules/nfl-schedule-release/ "Schedule Release")
+* [Flag Football](https://www.nfl.com/flag-football/ways-to-watch/ "Flag Football")
 * [](#2ndlevel "...")
     * [Players](https://www.nfl.com/players/ "Players")
     * [Videos](https://www.nfl.com/videos/ "Videos")
@@ -197,6 +197,15 @@ Action related nav
 * [Terms & Conditions](https://www.nfl.com/legal/terms "Terms & Conditions")
 * [Clubs Game Ticket Policy](https://www.nfl.com/legal/clubs-game-ticket-policy "Clubs Game Ticket Policy")
 * [Clear Bag Policy](https://www.nfl.com/legal/clear-bag-policy "Clear Bag Policy")
+* [Vulnerability Disclosure Program](https://www.nfl.com/legal/responsible-disclosure "Vulnerability Disclosure Program")
+
+BREAKING NEWS
+
+Watch Flag Championships
+
+The 2024 NFL Flag Championships are live! Here's how to tune in.
+
+[More](https://www.nfl.com/news/how-to-watch-the-2024-nfl-flag-championships)
 
 Terms and Conditions | NFL.com
 ==============================
