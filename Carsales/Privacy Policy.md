@@ -111,7 +111,7 @@
     Recent Notifications
     
 * [Sign up/Log in](https://www.carsales.com.au/auth)
-[Get an Instant Offer](https://www.carsales.com.au/sell-my-car/?ret=internal-carsales-desktop-top-nav&driver_crosssell=carsales.sell_get_an_instant_offer_top_nav)
+[Get an Instant Offer](https://www.carsales.com.au/instant-offer/?ret=internal-carsales-desktop-top-nav&driver_crosssell=carsales.sell_get_an_instant_offer_top_nav)
 
 Privacy
 =======
@@ -127,7 +127,7 @@ Privacy Policy
 What is a privacy policy and what is personal information?
 ----------------------------------------------------------
 
-This policy sets out how CAR Group Limited (formerly carsales.com Limited), CS Marketplace Pty Ltd, carsales Services Pty Ltd, Tyresales Pty Ltd, Tyreconnect Pty Ltd and Appraisal Solutions Pty Ltd (“carsales”) collect, use, disclose and manage your personal information. Other group companies of carsales have their own privacy policies which can be found on their websites.
+This policy sets out how carsales.com.au Pty Ltd, CAR Group Limited (formerly carsales.com Limited), CS Marketplace Pty Ltd, carsales Services Pty Ltd, Tyresales Pty Ltd, Tyreconnect Pty Ltd and Appraisal Solutions Pty Ltd (“carsales”) collect, use, disclose and manage your personal information. Other group companies of carsales have their own privacy policies which can be found on their websites.
 
 Personal information is information or an opinion about an identified individual, or an individual who is reasonably identifiable.
 
@@ -136,7 +136,7 @@ By accessing or using the network of websites, apps and related services operate
 * [www.carsales.com.au](https://www.carsales.com.au/)
 * [www.bikesales.com.au](https://www.bikesales.com.au/)
 * [www.boatsales.com.au](https://www.boatsales.com.au/)
-* [www.caravancampingsales.com.au](https://www.caravancampingsales.com.a/)
+* [www.caravancampingsales.com.au](https://www.caravancampingsales.com.au/)
 * [www.trucksales.com.au](https://www.trucksales.com.au/)
 * [www.farmmachinerysales.com.au](https://www.farmmachinerysales.com.au/)
 * [www.constructionsales.com.au](https://www.constructionsales.com.au/)
@@ -144,6 +144,7 @@ By accessing or using the network of websites, apps and related services operate
 * [www.tyreconnect.com.au](https://www.tyreconnect.com.au/)
 * [www.appraisalsolutions.com.au](https://www.appraisalsolutions.com.au/)
 * [www.autogate.co](https://www.autogate.co/)
+* [cargroup.com](https://cargroup.com/)
 * the carsales vehicle search engine, including where hosted by carsales on manufacturer or dealer websites; and
 * the carsales e-commerce stores;
 
@@ -338,7 +339,7 @@ Does this policy change?
 
 This policy may change over time. All changes will be published on this website and will only apply to personal information that has been collected after the date you accept the new privacy policy. If the changes will impact personal information collected prior to the date the changes are made then we will provide 30 days’ written notice to you of the relevant changes, where reasonably possible.
 
-_Version 12.0 (May 2024)_
+_Version 13.0 (July 2024)_
 
 Contact
 
@@ -383,12 +384,12 @@ Download the carsales app
 * [](https://play.google.com/store/apps/details?id=au.com.carsales&ret=carsales-desktop-footer)
 * App Store and the Apple logo are trademarks of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.
 
-© CAR Group Ltd 1999-2024
+© carsales.com.au Pty Ltd 1999-2024
 
-* [](http://www.facebook.com/carsales.com.au "Visit our facebook page")
-* [](http://twitter.com/carsales "Read our Twitter feed")
+* [](https://www.facebook.com/carsales.com.au "Visit our facebook page")
+* [](https://twitter.com/carsales "Read our Twitter feed")
 * [](https://www.instagram.com/carsalescomau/ "Visit our Instagram page")
-* [](http://www.youtube.com/user/carsaleschannel "Visit our Youtube Channel")
+* [](https://www.youtube.com/user/carsaleschannel "Visit our Youtube Channel")
 
 In the spirit of reconciliation we acknowledge the Traditional Custodians of Country throughout Australia and their connections to land, sea and community. We pay our respect to their Elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
 
