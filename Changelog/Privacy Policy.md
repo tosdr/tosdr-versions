@@ -152,8 +152,8 @@ This is a living document and is [open source](https://github.com/thechangelog/c
 * [Request For Commits](https://changelog.com/rfc "Request For Commits")
 * [Brain Science](https://changelog.com/brainscience "Brain Science")
 * [Away from Keyboard](https://changelog.com/afk "Away from Keyboard")
-* [Backstage](https://changelog.com/backstage "Backstage")
 * [Spotlight](https://changelog.com/spotlight "Spotlight")
+* [Backstage](https://changelog.com/backstage "Backstage")
 
 #### Social
 
