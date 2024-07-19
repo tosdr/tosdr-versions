@@ -851,16 +851,16 @@ owayo® custom sports®
 
 Sports
 
-* [Soccer](https://www.owayo.com/custom-soccer-jerseys.htm)
+* [Soccer](https://www.owayo.com/soccer-us.htm)
 * [Handball](https://www.owayo.com/design-customized-handball-jerseys.htm)
 * [Basketball](https://www.owayo.com/custom-basketball-jerseys.htm)
-* [Hockey](https://www.owayo.com/custom-hockey-jerseys.htm)
-* [Cycling](https://www.owayo.com/custom-cycling-jerseys.htm)
+* [Hockey](https://www.owayo.com/hockey-us.htm)
+* [Cycling](https://www.owayo.com/cycling-us.htm)
 * [Running](https://www.owayo.com/custom-running-shirts.htm)
 * [Esports](https://www.owayo.com/custom-esports-jerseys.htm)
 * [Yoga](https://www.owayo.com/custom-yoga-pants.htm)
 * [Motocross](https://www.owayo.com/design-custom-motocross-jerseys.htm)
-* [Darts](https://www.owayo.com/custom-dart-shirts.htm)
+* [Darts](https://www.owayo.com/darts-us.htm)
 * [Print T-shirts](https://www.owayo.com/custom-t-shirts.htm)
 * [Print Hoodies](https://www.owayo.com/custom-hoodie-us.htm)
 
