@@ -23,7 +23,7 @@ Terms of Use
 
 #### **OKWOW TERMS OF SERVICE**
 
-These Terms of Use are effective as of May 10, 2021.
+These Terms of Use are effective as of June 12th, 2024.
 
 Welcome to OkWow’s website, owned and operated by OkWow ("OkWow", "we", "us" and "our"). Please read the following Terms of Use as they, together with all the other Terms and Conditions referred to below, govern your access and use of our Site.
 
@@ -45,13 +45,21 @@ These Terms of Use include our [Privacy Policy](https://okwow.com/privacy) and
 
 By using our Site you are acknowledging you have read, understand and accept as binding, all of the rights and obligations, terms and conditions in our Terms of Use which constitute the legal agreement you have with us. If you do not agree with, cannot comply with or are unwilling to accept our Terms of Use, please discontinue your use of our Site immediately because continued use shall constitute acceptance of these Terms of Use.
 
-### **WE CAN CHANGE OUR TERMS OF USE AND SITE**
+**OFFER REDEEMING TERMS** 
 
-We reserve the right, at any time, to add to, delete or modify our Terms of Use, as well as all or any part of our Site in our sole discretion. We will notify you of changes to our Terms of Use by posting the new Terms of Use on this website, or by sending you a notice via e-mail. Your continued use of the Site following the posting of revised Terms of Use means that you accept and agree to the changes. The date at the top of the Site indicates when these Terms of User were last updated. You agree to review these Terms of Use and other online policies posted on our Site periodically to be aware of any revisions.
+From time to time we may distribute deals, sweepstakes, contests, freebies, samples or other similar promotions (collectively, “Offers”). The availability of the Offers may vary based on location and timing. Promotions vary and may require you to submit information about yourself to us. Each Promotion has its own Terms and Conditions, which govern your participation in the Promotion. You must read and agree to these separate Terms and Conditions before entering into any such Promotion, and they are incorporated here by reference.
 
-### **OUR PRIVACY POLICY**
+NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO RECEIVE A FREE SAMPLE.
 
-Your privacy is important to us. We have developed a [Privacy Policy](https://okwow.com/privacy) in order to inform you of how we collect and use information we obtain from you. All information we collect on the Site is subject to our Privacy Policy, and our Privacy Policy is incorporated into and is a part of these Terms of Use.
+By redeeming your free sample, you accept and agree to be bound by these Terms and Conditions, as they apply to your redemption of the free sample offered by OkWow (the “Offer”).
+
+**THE OFFER:** The Offer will vary based on product availability and based on the sample you choose, however, it will most often consist of a trial size or sample size of a particular product. The offer is available to you for your personal use only.  You may not sell any of the samples sent to you by OkWow.
+
+**TO REDEEM:** The Offer is subject to liability, and once all samples are redeemed for the day, you will be unable to redeem the Offer until the following day.  If a sample is available for redemption, you must complete the online offer form with your complete mailing address and contact information.  Check the box next to the submit screen to indicate your agreement to these Terms and Conditions.  The Offer will be mailed to the mailing address specified on the online offer form.  Please allow between six to eight weeks from the date of submission of your completed online offer form for delivery.  Should you fail to complete the online offer form, OkWow will not ship your Offer. OkWow reserves the right to substitute a similar Offer for the one that you have requested.
+
+**GENERAL CONDITIONS**: This Offer is only open to legal residents of the United States, 18 years of age or older, and is void outside of the United States and where restricted or prohibited by law.  Only one (1) Offer may be redeemed per household, and only one (1) time per month.  This Offer is not transferable and cannot be redeemed for cash.  Each Offer is provided “as is” with no warranty or guarantee by OkWow. Furthermore, tokens used to redeem an Offer are only valid for 30 days from the date of issuance, thus requests for redemption that extend this time will be denied. OkWow reserves the right, in its sole discretion, to determine that a person is not eligible for the Offer for any reason, including, but not limited to, an incomplete form, suspected fraud, or breach of these Terms and Conditions. OkWow also reserves the right, in its sole discretion, to terminate the Offer at any time, for any reason. 
+
+**ADMINISTRATOR:** The Administrator of the Free Sample Offer is Tibrio LLC d/b/a OkWow, 3131 West Bolt Street Unit A19, Fort Worth, TX 76110.  This Offer is not endorsed, sponsored, administered by, or associated with the any of the companies or entities from which the Offer may be derived. Any reference you may see relating to any products or samples by their trade name, trademark, supplier, or manufacturer does not imply or constitute endorsement or sponsorship by such entities.  All trademarks, product names, or logos referred to within the offer are the property of their respective owners. 
 
 ### **RULES OF CONDUCT**
 
@@ -72,28 +80,32 @@ You may never use, allow or enable others to use our Site or knowingly condone u
 
 We intend to cooperate fully with any law enforcement officials or agencies in the investigation of any violation of these Terms of Use or of any applicable laws. Any violation of system or network security may subject you to civil and/or criminal liability.
 
+**POSTING AND SUBMITTING USER CONTENT**
+
+Our Site may allow you to register, create a profile or account and enable you to submit, provide, furnish, transmit, exchange, communicate and/or display to other users (referred to as Posting”) content or materials (collectively, “User Content”). By Posting, you represent that you own or have the right to engage in or submit, display or use the User Content and you specifically agree your User Content shall not violate any law or regulation, our Terms of Use or the rights of others.
+
+We have no obligation, nor do we verify, review for accuracy, completeness or otherwise, any User Content. We also have no obligation to monitor or continue to monitor your use of the Site or your User Content, but we reserve the right to do so and to confirm and request confirmation of any information you submit to us or on our Website, at any time for any reason or no reason at all. We do not endorse User Content, nor do we screen them.
+
+Your User Content and/or your account are your responsibility, although we ask that you notify us if you know or suspect the security of your user identification, log-in and password may have been compromised so that we can take responsive action. But, in general, you are solely responsible for activities undertaken through your registration, profile, user account or login identification or password and you will defend and indemnify us (see the Section entitled “You Indemnify Us”) for any User Content submitted, displayed, use, or transferred under the foregoing. In accordance with the foregoing, if you suspect that your log-in identification or password may have been compromised, please notify us immediately at [\[email protected\]](https://okwow.com/cdn-cgi/l/email-protection).
+
+**OUR RIGHT TO USER CONTENT**
+
+User Content will be considered non-confidential and non-proprietary and may be used by our affiliates, Our Companies, or Finderish. Content that is yours, remains yours and neither our Terms of Use, nor your use of our Site is intended to deprive you or anyone of any existing rights to Content. By posting, downloading, displaying, performing, transmitting, or otherwise distributing Content to Finderish or the Site, you are:
+
+* Giving us a non-exclusive, irrevocable, unconditional, transferable, perpetual, worldwide, royalty free license and right to use, display, reproduce, perform, adapt, translate, modify, create derivative works from, publish, distribute, disseminate and broadcast the User Content in connection with your use of the Site without additional accounting to you or notifying you in any way; and
+* Representing and warranting to us you have the right to submit the User Content and grant the rights and license described above.
+
+If anyone else has or may have rights to the User Content you are submitting, it is your responsibility to find out and obtain whatever agreements, licenses and rights you need from them to do so, because if and when you submit Content to us, you will be solely responsible and liable and you will defend and indemnify us (See the Section entitled “You Indemnify Us”).
+
 ### **INTELLECTUAL PROPERTY RIGHTS**
 
 The Site and its entire contents, features and functionality, including, but not limited to all information, text, displays, photographs, graphics, video and audio, and the design, selection and arrangement thereof ("OkWow Content"), are owned by, licensed by, or provided to OkWow. The Site is protected by copyright, trademark, trade secret, and other intellectual property or proprietary rights laws, and thus, we own and retain all rights in the OkWow Content and the Service.
 
 These Terms of Use permit you to use the Site for your own personal, non-commercial use only. Except as otherwise provided in these Terms of Use, you may not reproduce, modify, publish, prepare derivative works, or distribute copies of the OkWow Content in whole or in part. You acknowledge and agree that if you use any Content in violation of our Terms of Use, any other party’s rights, or any laws or regulations, including laws relating to the protection of intellectual property, you may be subject to civil liability, criminal prosecution or both under the laws and regulations of the United States, as well as any other state, national, provincial or other laws, regulations and treaties that may apply.
 
-### **POSTING AND SUBMITTING USER CONTENT**
+### OUR PRIVACY POLICY
 
-Our Site may allow you to register, create a profile or account and enable you to submit, provide, furnish, transmit, exchange, communicate and/or display to other users (referred to as Posting") content or materials (collectively, "User Content"). By Posting, you represent that you own or have the right to engage in or submit, display or use the User Content and you specifically agree your User Content shall not violate any law or regulation, our Terms of Use or the rights of others.
-
-We have no obligation, nor do we verify, review for accuracy, completeness or otherwise, any User Content. We also have no obligation to monitor or continue to monitor your use of the Site or your User Content, but we reserve the right to do so and to confirm and request confirmation of any information you submit to us or on our Website, at any time for any reason or no reason at all. We do not endorse User Content, nor do we screen them.
-
-Your User Content and/or your account are your responsibility, although we ask that you notify us if you know or suspect the security of your user identification, log-in and password may have been compromised so that we can take responsive action. But, in general, you are solely responsible for activities undertaken through your registration, profile, user account or login identification or password and you will defend and indemnify us (see the Section entitled "You Indemnify Us") for any User Content submitted, displayed, use, or transferred under the foregoing. In accordance with the foregoing, if you suspect that your log-in identification or password may have been compromised, please notify us immediately at [\[email protected\]](https://okwow.com/cdn-cgi/l/email-protection).
-
-### **OUR RIGHT TO USER CONTENT**
-
-User Content will be considered non-confidential and non-proprietary and may be used by our affiliates, Our Companies, or OkWow. Content that is yours, remains yours and neither our Terms of Use, nor your use of our Site is intended to deprive you or anyone of any existing rights to Content. By posting, downloading, displaying, performing, transmitting, or otherwise distributing Content to OkWow or the Site, you are:
-
-* Giving us a non-exclusive, irrevocable, unconditional, transferable, perpetual, worldwide, royalty free license and right to use, display, reproduce, perform, adapt, translate, modify, create derivative works from, publish, distribute, disseminate and broadcast the User Content in connection with your use of the Site without additional accounting to you or notifying you in any way; and
-* Representing and warranting to us you have the right to submit the User Content and grant the rights and license described above.
-
-If anyone else has or may have rights to the User Content you are submitting, it is your responsibility to find out and obtain whatever agreements, licenses and rights you need from them to do so, because if and when you submit Content to us, you will be solely responsible and liable and you will defend and indemnify us (See the Section entitled "You Indemnify Us").
+### Your privacy is important to us. We have developed a [Privacy Policy](https://scoredit.com/privacy) in order to inform you of how we collect and use information we obtain from you. All information we collect on the Site is subject to our Privacy Policy, and our Privacy Policy is incorporated into and is a part of these Terms of Use.
 
 ### **MOBILE SERVICES**
 
@@ -102,16 +114,6 @@ The Site may offer certain tools or services that are available to you via your 
 ### **COPYRIGHT INFRINGEMENT**
 
 On notice, we will act expeditiously to remove Content that infringes the copyright rights of others and we will use reasonable efforts to disable use of our Site by anyone who repeatedly infringes the rights of others. If you believe our Site contains elements that infringe any copyright of yours or anyone else’s, please follow the procedures set forth below in our Notice and Procedure for Making Claims of Copyright Infringement.
-
-### **PRODUCT REDEMPTION**
-
-From time to time we may distribute deals, freebies, or samples (collectively, "Offers"). The availability of the Offers may vary based on location and timing. In redeeming an Offer, you further agree to the OkWow Sample Offer Terms and Conditions, which are incorporated into these Terms of Use.
-
-### **PROMOTIONS**
-
-From time to time we may offer sweepstakes, contests, or other similar promotions ("Promotions"). Promotions vary and may require you to submit information about yourself to us.
-
-Each Promotion has its own Terms and Conditions, which govern your participation in the Promotion. You must read and agree to these separate Terms and Conditions before entering into any such Promotion.
 
 ### **THIRD PARTY CONTENT AND LINKS FROM THE SITE**
 
@@ -122,6 +124,10 @@ Similarly, from time to time in connection with your use of the Site, you may ha
 ### **THIRD PARTY MERCHANTS**
 
 OkWow contains many Offers from third party partners and affiliates which may allow you to order, receive, or redeem various products and services by business that are not owned or operated by us. The delivery, guarantee, maintenance, and all other matters concerning your transactions with these businesses are solely between you and such businesses. We do not endorse, warrant, or guarantee any such third party Offers and we are not liable for the accuracy, completeness, or usefulness of such information or the availability of any Offers.
+
+### WE CAN CHANGE OUR TERMS OF USE AND SITE
+
+### We reserve the right, at any time, to add to, delete or modify our Terms of Use, as well as all or any part of our Site in our sole discretion. We will notify you of changes to our Terms of Use by posting the new Terms of Use on this website, or by sending you a notice via e-mail. Your continued use of the Site following the posting of revised Terms of Use means that you accept and agree to the changes. The date at the top of the Site indicates when these Terms of User were last updated. You agree to review these Terms of Use and other online policies posted on our Site periodically to be aware of any revisions.
 
 ### **TERM AND TERMINATION**
 
@@ -171,7 +177,7 @@ Nothing contained on the Site should be understood as granting you a license to 
 
 ### **THIS SITE IS FOR UNITED STATES USE ONLY**
 
-We control and operate the Site from our offices in the State of California. We make no representation that any of the materials or the services to which you have been given access are available or appropriate for use outside the United States and access to the Site from territories where its contents are illegal or restricted is prohibited. If you choose to access the Site from outside the United States, you do so on your own initiative and are responsible for compliance with applicable laws, rules and regulations.
+### This Site is intended solely for American consumers, and any use by individuals outside the United States is strictly prohibited. We do not represent that any of the materials or services accessible through this Site are available or appropriate for use outside the United States. Accessing the Site from territories where its content is illegal or restricted is forbidden. If you choose to access the Site from outside the United States, you do so at your own risk and are responsible for complying with all applicable laws, rules, and regulations. Offers on this Site cannot be redeemed by non-US residents or individuals not living in the United States.
 
 ### **FEEDBACK AND SUBMISSIONS**
 
@@ -193,7 +199,7 @@ Service Provider(s): OkWow
 
 Name of Designated Agent to Receive Notification of Claimed Infringement: Copywrite Manager
 
-Full Address of Designated Agent to Which Notification Should Be Sent: P.O. Box 120726 San Diego, CA 92112-0726
+Full Address of Designated Agent to Which Notification Should Be Sent: 3131 West Bolt Street Unit A19, Fort Worth, TX 76110
 
 Email Address of Designated Agent: [\[email protected\]](https://okwow.com/cdn-cgi/l/email-protection)
 
