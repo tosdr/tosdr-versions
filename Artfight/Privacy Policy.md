@@ -11,13 +11,17 @@ ART FIGHT](https://artfight.net/)
     
     GUIDES
     
-    [Attack Categorization](https://artfight.net/info/guide-attacks) [Filters](https://artfight.net/info/guide-filters) [BBCode](https://artfight.net/info/guide-bbcode)
+    [Attack Categorization](https://artfight.net/info/guide-attacks) [Filtering Guide](https://artfight.net/info/guide-filters) [BBCode](https://artfight.net/info/guide-bbcode)
     
     [News](https://artfight.net/news)
     
 * Shopnew!
     
-    [Support Art Fight](https://artfight.net/donate) [Merchnew!](https://shop.artfight.net/)
+    [Support Art Fight](https://artfight.net/donate)
+    
+    * * *
+    
+    [Merch](https://shop.artfight.net/) [Wormston Plushnew!limited!!](https://www.makeship.com/products/art-fight-wormston-plush) [Vampires vs Werewolves Pinsnew!limited!!](https://www.makeship.com/products/art-fight-werewolves-vs-vampires-enamel-pins)
     
 
 * * *
@@ -233,8 +237,8 @@ If there are any questions regarding this privacy policy, you may contact us at 
 
   
 
-2024 Contributions: **$70567.14**  
-Goal (tier 1): $98000[](https://artfight.net/donate)
+2024 Contributions: **$133771.86**  
+Goal (tier 2): $150000[](https://artfight.net/donate)
 
 Support
 
