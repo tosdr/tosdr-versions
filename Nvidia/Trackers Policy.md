@@ -390,7 +390,7 @@ Main Menu
         * [Data Center & IT Resources](https://www.nvidia.com/en-gb/data-center/resources/)
         * [Technical Training and Certification](https://academy.nvidia.com/en/)
         * [Enterprise Support](https://www.nvidia.com/en-gb/support/enterprise/)
-        * [Drivers](https://www.nvidia.co.uk/Download/index.aspx?lang=en-uk)
+        * [Drivers](https://www.nvidia.com/en-gb/drivers/)
         * [Security](https://www.nvidia.com/en-gb/product-security/)
         * [Product Documentation](https://docs.nvidia.com/)
         * [Forums](https://forums.developer.nvidia.com/)
@@ -828,7 +828,7 @@ NVIDIA NVIDIA logo
             * [Data Center & IT Resources](https://www.nvidia.com/en-gb/data-center/resources/)
             * [Technical Training and Certification](https://academy.nvidia.com/en/)
             * [Enterprise Support](https://www.nvidia.com/en-gb/support/enterprise/)
-            * [Drivers](https://www.nvidia.co.uk/Download/index.aspx?lang=en-uk)
+            * [Drivers](https://www.nvidia.com/en-gb/drivers/)
             * [Security](https://www.nvidia.com/en-gb/product-security/)
             * [Product Documentation](https://docs.nvidia.com/)
             * [Forums](https://forums.developer.nvidia.com/)
@@ -899,7 +899,7 @@ Our Work
 * [AI Computing Leadership](https://www.nvidia.com/en-gb/about-nvidia/i-am-ai/)
 * [Technologies](https://www.nvidia.com/en-gb/technologies/)
 * [Research](https://www.nvidia.com/en-us/research/)
-* [Corporate Responsibility](https://www.nvidia.com/en-us/csr/)
+* [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
 * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
 
 [Careers](https://www.nvidia.com/en-gb/about-nvidia/careers/)
@@ -936,7 +936,7 @@ Events
     * [AI Computing Leadership](https://www.nvidia.com/en-gb/about-nvidia/i-am-ai/)
     * [Technologies](https://www.nvidia.com/en-gb/technologies/)
     * [Research](https://www.nvidia.com/en-us/research/)
-    * [Corporate Responsibility](https://www.nvidia.com/en-us/csr/)
+    * [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
     * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
 * Careers
     * [Life at NVIDIA](https://www.nvidia.com/en-gb/about-nvidia/careers/life-at-nvidia/)
@@ -969,7 +969,7 @@ Events
     * [AI Computing Leadership](https://www.nvidia.com/en-gb/about-nvidia/i-am-ai/)
     * [Technologies](https://www.nvidia.com/en-gb/technologies/)
     * [Research](https://www.nvidia.com/en-us/research/)
-    * [Corporate Responsibility](https://www.nvidia.com/en-us/csr/)
+    * [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
     * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
 * Careers
     * Careers
@@ -1773,7 +1773,7 @@ Corporate Information
 * [Technologies](https://www.nvidia.com/en-gb/technologies/)
 * [Research](https://www.nvidia.com/en-us/research/)
 * [Investors](https://investor.nvidia.com/home/default.aspx)
-* [Social Responsibility](https://www.nvidia.com/en-us/csr/)
+* [Corporate Sustainability](https://www.nvidia.com/en-us/csr/)
 * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
 
 Get Involved
