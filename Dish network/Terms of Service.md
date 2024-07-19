@@ -19,6 +19,7 @@
     * [TV Packages ![More information icon](/content/dam/dish/navelements/carat-red.svg)](https://wwwprod.dish.com/programming/packages) 
         
         * [America's Top 120](https://wwwprod.dish.com/programming/packages/americas-top-120)
+        * [America's Top 120 Plus](https://wwwprod.dish.com/content/dish/us/en/home/programming/packages/americas-top-120-plus)
         * [America's Top 200](https://wwwprod.dish.com/programming/packages/americas-top-200)
         * [America's Top 250](https://wwwprod.dish.com/programming/packages/americas-top-250)
         * [Latino TV Packages](https://wwwprod.dish.com/programming/channels/?category=latino)
@@ -77,7 +78,8 @@
     
     * [All Special Offers](https://wwwprod.dish.com/offers)
     * [DISH & Hughesnet Internet Bundle](https://wwwprod.dish.com/internet/hughesnet)
-    * [Boost Infinite Offer](https://wwwprod.dish.com/offers/boost-infinite1)
+    * [Boost Mobile Offer](https://wwwprod.dish.com/offers/boost-mobile)
+    * [Pick Your Pack](https://wwwprod.dish.com/offers/pick-your-pack)
     * [55+ Offer](https://wwwprod.dish.com/offers/dish55-offer)
     * [Military Offer](https://wwwprod.dish.com/offers/military-offer)
     * [First Responders Offer](https://wwwprod.dish.com/offers/first-responder-offer)
@@ -119,43 +121,43 @@ TV Plan Agreements
 
 Change Receiver Plan Agreement
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/2a3-+Change+Receiver+Plan+Agreement+(Direct)+-+English+4.11.24.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a3-+Change+Receiver+Plan+Agreement+(Direct)+-+English+7.11.24.pdf)
 
-[Greek](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Greek-4.11.24-Change%20Receiver%20Plan%20Agreement.pdf)
+[Greek](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a13%20-%20Change%20Receiver%20Plan%20Agreement%20(Direct)%20-%20Greek%207.11.24.pdf.pdf)
 
-[Portuguese](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Portuguese-4.11.24-Change%20Receiver%20Plan%20Agreement.pdf)
+[Portuguese](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a15%20-%20Change%20Receiver%20Plan%20Agreement%20(Direct)%20-%20Portuguese%207.11.24.pdf)
 
-[Chinese (Simplified)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Chinese(simplified)-4.11.24-Change%20Receiver%20Program%20Agreement.pdf)
+[Chinese (Simplified)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a17%20-%20Change%20Receiver%20Program%20Agreement%20(Direct)%20-%20Chinese%20(Simplified)%207.11.24.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/2a4+-+Change+Receiver+Plan+Agreement+(Direct)+-+Spanish+4.11.24.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a4+-+Change+Receiver+Plan+Agreement+(Direct)+-+Spanish+7.11.24.pdf)
 
-[Polish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Polish-4.11.24-Change%20Receiver%20Plan%20Agreement.pdf)
+[Polish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a14%20-%20Change%20Receiver%20Plan%20Agreement%20(Direct)%20-%20Polish%207.11.24.pdf)
 
-[Arabic](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Arabic-4.11.24-Change%20Receiver%20Plan%20Agreement.pdf)
+[Arabic](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a16%20-%20Change%20Receiver%20Plan%20Agreement%20(Direct)%20-%20Arabic%207.11.24.pdf)
 
-[Chinese (Traditional)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Chinese(traditional)-4.11.24-Change%20Receiver%20Plan%20Agreement.pdf)
+[Chinese (Traditional)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a18%20-%20Change%20Receiver%20Plan%20Agreement%20(Direct)%20-%20Chinese%20(Traditional)%207.11.24.pdf)
 
 **Change Receiver Plan Agreement -**
 
 **No Commitment**
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/2a5+-+Change+Receiver+Plan+Agreement+No+Commitment+(Direct)+-+English+4.11.24.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a5+-+Change+Receiver+Plan+Agreement+No+Commitment+(Direct)+-+English+7.11.24.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/2a6-+Change+Recevier+Plan+Agreement+No+Commitment+(Direct)+-+Spanish+4.11.24.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/2a6-+Change+Receiver+Plan+Agreement+No+Commitment+(Direct)+-+Spanish+7.11.24%20(1).pdf)
 
 Digital Home Advantage Plan
 
 Agreement
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a1+-+DHA+Agreement+(Direct)+-+English+4.11.24.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a1+-+DHA+Agreement+(Direct)+-+English+7.11.24.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a2+-+DHA+Agreement+(Direct)+-+Spanish+4.11.24.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a2+-+DHA+Agreement+(Direct)+-+Spanish+7.11.24.pdf)
 
 Digital Home Advantage Plan Agreement: Right to Rescind
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a5+-+DHA+Agreement+3+Day+Right+to+Rescind+(Direct)+-+English+4.11.24.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a5+-+DHA+Agreement+3+Day+Right+to+Rescind+(Direct)+-+English+7.11.24.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a6+-+DHA+Agreement+3+Day+Right+to+Rescind+(Direct)+-+Spanish+4.11.24.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a6+-+DHA+Agreement+3+Day+Right+to+Rescind+(Direct)+-+Spanish+7.11.24.pdf)
 
 Dispute Resolution Notice Form
 
@@ -173,17 +175,17 @@ Offer
 
 Flex 24 Plan Agreement
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a3-+FLEX24+Agreement+(Direct)+-+English+4.11.24.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a3-%20FLEX24%20Agreement%20(Direct)%20-%20English%207.11.24.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a4-%20FLEX24%20Agreement%20(Direct)%20-%20Spanish%204.11.24.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a4-+FLEX24+Agreement+(Direct)+-+Spanish+7.11.24.pdf)
 
 Flex 24 Plan Agreement: Right to
 
 Rescind
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a7+-+FLEX24+Agreement+3+Day+Right+to+Rescind+(Direct)+-+English+4.11.24.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a7+-+FLEX24+Agreement+3+Day+Right+to+Rescind+(Direct)+-+English+7.11.24.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/1a8+-+FLEX24+Agreement+3+Day+Right+to+Rescind+(Direct)+-+Spanish+4.11.24.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/1a8+-+FLEX24+Agreement+3+Day+Right+to+Rescind+(Direct)+-+Spanish+7.11.24.pdf)
 
 Integrated OTA Solution Agreement
 
@@ -228,57 +230,27 @@ Existing Customer 2 Year TV Price Guarantee Renewal Offer
 
 Existing Customer Price Lock Offer
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/Existing-customer-2-year-price-guarantee-2-15-24-English.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a11%20-%20Existing%20Customer%20(Price%20Lock)%20(24%20mo)%20Residential%20-%20English%2010.12.23%20.pdf)
 
-[Greek](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Greek-4.11.24-Existing%20Customer%20Price%20Lock%20Offer.pdf)
-
-[Portuguese](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Portuguese-4.11.24-Existing%20Customer%20Price%20Lock%20Offer.pdf)
-
-[Chinese (Simplified)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Chinese(simplified)-4.11.24-Existing%20Customer%20Price%20Lock%20Offer.pdf)
-
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/Existing-customer-2-year-price-guarantee-2-15-24-Spanish.pdf)
-
-[Polish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Polish-4.11.24-Existing%20Customer%20Price%20Lock%20Offer.pdf)
-
-[Arabic](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Arabic-4.11.24-Existing%20Customer%20Price%20Lock%20Offer.pdf)
-
-[Chinese (Traditional)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Chinese(traditional)-4.11.24-Existing%20Customer%20Price%20Lock%20Offer.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a12%20-%20Existing%20Customer%20(Price%20Lock)%20(24%20mo)%20Residential%20-%20Spanish%2010.12.23.pdf)
 
 Existing Customer Price Lock Advantage Offer
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/5a4_existing-customer-price-lock-advantage-residential--English.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a4-%20Existing%20Customer%20(PLA)%20(24%20mo)%20Residential%20-%20English%2010.12.23%20.pdf)
 
-[Greek](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Greek-4.11.24-Existing%20Customer%20Price%20Lock%20Advantage%20Offer.pdf)
-
-[Portuguese](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Portuguese-4.11.24-Existing%20Customer%20Price%20Lock%20Advantage%20Offer.pdf)
-
-[Chinese (Simplified)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Chinese(simplified)-4.11.24-Existing%20Customer%20Price%20Lock%20Advantage%20Offer.pdf)
-
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/5a5_existing-customer-price-lock-advantage-residential--Espanol.pdf)
-
-[Polish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Polish-4.11.24-Existing%20Customer%20Price%20Lock%20Advantage%20Offer.pdf)
-
-[Arabic](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Arabic-4.11.24-Existing%20Customer%20Price%20Lock%20Advantage%20Offer.pdf)
-
-[Chinese (Traditional)](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/foreign-language-service-agreements/Chinese(traditional)-4.11.24-Exisiting%20Customer%20Price%20Lock%20Advantage%20Offer.pdf)
-
-Limited 2 Year Price Guarantee Offer
-
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/oct-12-2023-agreements/2-year-tv-price-agreements/5a1%20-%20Existing%20Customer%20(PCO)%20(Price_Guarantee)%20(24%20mo)%20Residential%20-%20English.pdf)
-
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/oct-12-2023-agreements/2-year-tv-price-agreements/5a2%20-%20Existing%20Customer%20(PCO)%20(Price%20Guarantee)%20(24%20mo)%20Residential%20Spanish.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a5-%20Existing%20Customer%20(PLA)%20(24%20mo)%20Residential%20-%20Spanish%2010.12.23df.pdf)
 
 New Customer 2 Year TV Price Guarantee Offer
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/5a3_new-customer-2-year--English.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a3%20-%20New%20Customer%20Notice%20of%202-Year%20TV%20Price%20Guarantee%20Residential%20-%20English%2010.31.23.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/5a7_new-customer-2-year--Espanol.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a7%20-%20New%20Customer%20Notice%20of%202-Year%20TV%20Price%20Guarantee%20Residential%20-%20Spanish%2010.31.23.pdf)
 
 Notice of Price Lock Offer
 
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/5a6_notice-of-price-lock-residential--English.pdf)
+[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a6%20-%20Existing%20Customer%20Notice%20of%20Price%20Lock%20Residential%20-%20English%2010.12.23.pdf)
 
-[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/2-year-tv-price-guarantee/5a12_existing-customer-price-lock-residential--Espanol.pdf)
+[Spanish](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/july-11-2024-agreements/5a8%20-%20Existing%20Customer%20Notice%20of%20Price%20Lock%20Residential%20-%20Spanish%2010.12.23.pdf)
 
 Existing Customer Premier Savings Offer
 
@@ -348,14 +320,6 @@ Movies for Purchase
 
 Privacy & Security Agreements
 -----------------------------
-
-Facebook Set-top Box Application
-
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/privacy---security-agreements/privacypolicy-fb.pdf)
-
-Fixed Wireless Internet Privacy Notice
-
-[English](https://wwwprod.dish.com/content/dam/dish/pdfs/service-agreements/privacy---security-agreements/fixedwirelessinternetprivacynotice.pdf)
 
 High-Speed Internet Privacy Notice
 
