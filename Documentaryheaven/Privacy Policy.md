@@ -108,59 +108,59 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![The Trouble With Atheism](/wp-content/thumbnails/3469-100x70.jpg?x53432)
+* [![Extraordinary People: The Boy Who Lived Before](/wp-content/thumbnails/861-100x70.jpg?x53432)
     
-    The Trouble With Atheism
+    Extraordinary People: The Boy Who Lived Before
     
-    The Trouble with Atheism is an hour-long documentary on atheism, presented by Rod Liddle. It aired on Channel 4 in December 2006. The documentary focuses on criticizing atheism, as well as science, fo...](https://documentaryheaven.com/the-trouble-with-atheism/ "The Trouble With Atheism")
-* [![Catastrophe: The Day The Sun Went Out](/wp-content/thumbnails/16660-100x70.jpg?x53432)
+    Ever since he could talk, Cameron has been telling stories of his life on Barra, a remote island in the Outer Hebrides, some 220 miles from his current home in Glasgow. He describes in detail his chil...](https://documentaryheaven.com/extraordinary-people-the-boy-who-lived-before/ "Extraordinary People: The Boy Who Lived Before")
+* [![Ball of Light](/wp-content/thumbnails/5709-100x70.jpg?x53432)
     
-    Catastrophe: The Day The Sun Went Out
+    Ball of Light
     
-    Just under 1500 years ago something terrifying happened to the world's climate something nobody could understand the sun began to go dark and rain the color of blood poured from the skies. Clouds of ...](https://documentaryheaven.com/catastrophe-day-sun-went-out/ "Catastrophe: The Day The Sun Went Out")
-* [![The Struggle For Oil](/wp-content/thumbnails/16534-100x70.jpg?x53432)
+    This 15 minute documentary tells the story of Denis Smith, professional light painter. Two years ago, Denis was in a high pressure sales job, struggling with drink, debt and depression. His family lif...](https://documentaryheaven.com/ball-of-light/ "Ball of Light")
+* [![Homo Futurus](/wp-content/thumbnails/2808-100x70.jpeg?x53432)
     
-    The Struggle For Oil
+    Homo Futurus
     
-    In April 2010, the drilling rig deepwater horizon blew up in the Gulf of Mexico, approximately 780 million liters of crude oil poured into the Gulf, unleashing the most severe ecological disaster in ...](https://documentaryheaven.com/struggle-for-oil/ "The Struggle For Oil")
-* [![The Mary Bell Case](/wp-content/thumbnails/4753-100x70.jpg?x53432)
+    An interesting documentary about the future of the human species.This is a documentary about a controversial theory regarding the mechanism that drove the evolution of humans from primates to mode...](https://documentaryheaven.com/homo-futurus/ "Homo Futurus")
+* [![The Dark Side of Porn: Diary of a Porn Virgin](/wp-content/thumbnails/872-100x70.jpg?x53432)
     
-    The Mary Bell Case
+    The Dark Side of Porn: Diary of a Porn Virgin
     
-    On 25 May 1968, the day before her 11th birthday, Mary Flora Bell strangled four-year-old Martin Brown. She was believed to have committed this crime alone. Between that time and the second killing, s...](https://documentaryheaven.com/the-mary-bell-case/ "The Mary Bell Case")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
+* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
     
-    The new world order – Illuminati, Freemasons and other secret societies
+    Hillsborough Disaster
     
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being injur...](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
 
 ###### Throwback Documentaries
 
-* [![The Terror of Zimbabwe Documentary](/wp-content/thumbnails/614-100x70.png?x53432)
+* [![Inside LSD](/wp-content/thumbnails/5954-100x70.jpg?x53432)
     
-    The Terror of Zimbabwe Documentary
+    Inside LSD
     
-    This documentary shows us stories about people like Tonderai Ndira was a shrewd choice for assassination: young, courageous and admired. Kill him and fear would pulse through a thousand spines. He was](https://documentaryheaven.com/the-terror-of-zimbabwe-documentary/ "The Terror of Zimbabwe Documentary")
-* [![Cashing In On Degrees](/wp-content/thumbnails/6345-100x70.jpg?x53432)
+    Could LSD be the next drug in your doctor's arsenal? New experiments have a few researchers believing that this trippy drug could become a pharmaceutical of the future.Outlawed in 1970, the street](https://documentaryheaven.com/inside-lsd/ "Inside LSD")
+* [![Louis Theroux: Survivalists](/wp-content/thumbnails/3439-100x70.jpg?x53432)
     
-    Cashing In On Degrees
+    Louis Theroux: Survivalists
     
-    With students facing massive increases in their fees, Dispatches investigates the pay, perks and privileges enjoyed by universities’ top earners. Journalist Laurie Penny reveals the increasing commer](https://documentaryheaven.com/cashing-in-on-degrees/ "Cashing In On Degrees")
-* [![Tokyo Time](/wp-content/thumbnails/3742-100x70.jpg?x53432)
+    In Idaho, Louis meets military enthusiasts and right-wing patriots who are preparing for a global catastrophe, including trips to survivalists’ store Safetrek and a mountain refuge for conspiracy theo](https://documentaryheaven.com/louis-theroux-survivalists/ "Louis Theroux: Survivalists")
+* [![Africa’s Moonshine Epidemic](/wp-content/thumbnails/6794-100x70.jpg?x53432)
     
-    Tokyo Time
+    Africa’s Moonshine Epidemic
     
-    This is a short documentary about two college students on a journey through Japan. From the serene temples of Kyoto to the bloody Tsukiji fish market, Tokyo Time is an account of culture shock and per](https://documentaryheaven.com/tokyo-time/ "Tokyo Time")
-* [![Female Fighters of Kurdistan](/wp-content/thumbnails/7593-100x70.jpg?x53432)
+    Ugandans are the hardest drinking Africans in the motherland, both in terms of per capita consumption and the hooch they choose to chug. Waregi, or "war gin," is what they call the local moonshine, an](https://documentaryheaven.com/africas-moonshine-epidemic/ "Africa’s Moonshine Epidemic")
+* [![Breaking Inequality: Why You Will Always Be Poor](/wp-content/thumbnails/7085-100x70.jpg?x53432)
     
-    Female Fighters of Kurdistan
+    Breaking Inequality: Why You Will Always Be Poor
     
-    From Boudica of the British Celts to Corporal Klinger, few things unsettle the male mind like a lady in arms. The Kurds of Northern Iraq have long recognized this principle and incorporated it into th](https://documentaryheaven.com/female-fighters-kurdistan/ "Female Fighters of Kurdistan")
-* [![Football Beasts](/wp-content/thumbnails/13931-100x70.jpg?x53432)
+    "This is one of the most important issues our country faces right now and it demands everyone's attention or else the consequences could be catastrophic.Breaking Inequality is a documentary film a](https://documentaryheaven.com/breaking-inequality-why-you-will-always-be-poor/ "Breaking Inequality: Why You Will Always Be Poor")
+* [![A Mathematical Mystery Tour](/wp-content/thumbnails/7760-100x70.jpg?x53432)
     
-    Football Beasts
+    A Mathematical Mystery Tour
     
-    This is a tale of the age old hooliganism which has surrounded the sport of football for decades, these are the people who relish in the violence and formulate plans of attack weeks in advance of matc](https://documentaryheaven.com/football-beasts/ "Football Beasts")
+    A fascinating BBC Horizon program from 1984 looking at the greatest unsolved problems in mathematics including Fermat’s Last Theorem (since solved), The Goldback Conjecture, The Riemann hypothesis, th](https://documentaryheaven.com/mathematical-mystery-tour/ "A Mathematical Mystery Tour")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
