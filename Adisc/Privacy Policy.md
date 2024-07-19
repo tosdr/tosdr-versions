@@ -8,7 +8,7 @@
     
 * [What's new](https://www.adisc.org/forum/whats-new/)
     
-    [New posts](https://www.adisc.org/forum/whats-new/posts/) [New media](https://www.adisc.org/forum/whats-new/media/) [New media comments](https://www.adisc.org/forum/whats-new/media-comments/) [New profile posts](https://www.adisc.org/forum/whats-new/profile-posts/) [Latest activity](https://www.adisc.org/forum/whats-new/latest-activity)
+    [Featured content](https://www.adisc.org/forum/featured/) [New posts](https://www.adisc.org/forum/whats-new/posts/) [New media](https://www.adisc.org/forum/whats-new/media/) [New media comments](https://www.adisc.org/forum/whats-new/media-comments/) [New profile posts](https://www.adisc.org/forum/whats-new/profile-posts/) [Latest activity](https://www.adisc.org/forum/whats-new/latest-activity)
     
 * [Media](https://www.adisc.org/forum/media/)
     
@@ -31,11 +31,11 @@
 
  Everywhere Threads This forum This thread
 
-Search titles only
+Search titles only _Note_
 
 By: 
 
-Search [Advanced search…](https://www.adisc.org/forum/search/)
+Search Advanced search…
 
 * [New posts](https://www.adisc.org/forum/whats-new/posts/)
     
@@ -68,10 +68,10 @@ You should upgrade or use an [alternative browser](https://www.google.com/chrome
 Privacy Policy
 ==============
 
-* Thread starter [Moo](https://www.adisc.org/forum/members/moo.1/)
-* Start date [May 26, 2018](https://www.adisc.org/forum/threads/privacy-policy.116261/)
+* _Thread starter_ Thread starter [Moo](https://www.adisc.org/forum/members/moo.1/)
+* _Start date_ Start date [May 26, 2018](https://www.adisc.org/forum/threads/privacy-policy.116261/)
 
-[![Moo](/forum/data/avatars/m/0/1.jpg?1547859760)](https://www.adisc.org/forum/members/moo.1/)
+[![Moo](/forum/data/avatars/m/0/1.jpg?1547859759)](https://www.adisc.org/forum/members/moo.1/)
 
 #### [Moo](https://www.adisc.org/forum/members/moo.1/)
 
@@ -81,7 +81,7 @@ Privacy Policy
 
 Messages
 
-3,489
+3,521
 
 * May 26, 2018
 
@@ -151,7 +151,7 @@ We collect the following categories of information:
 * We only share data about you in limited circumstances, such as:
     * The data is public, such as your posts to public forums, or the public information on your profile. Visitors to this site, including Google, can see public data.
     * It is necessary in order to fulfill your wishes/requests. For example, if you are gifting us money, we may have to share limited information about the gift with our payment processor, in order for them to process the gift.
-    * It is necessary in order for ADISC's services and infrastructure to work. For example, if, we route our outgoing 'please verify your email address' email through a third party email service, then we will have to share your email with them for that to work.
+    * It is necessary in order for ADISC's services and infrastructure to work. For example, if, we route our outgoing 'please verify your email address' email through a third party email service, then we will have to share your email address with them for that to work. Another example: If we're using a web analytics platform, we have to share information on page view requests with them in order for that to work.
     * Exceptional circumstances apply. This would include, but is not limited to, situations where doing so is required in order to comply with the law, alert authorities to a suicidal person needing help, report a serious crime, or similarly deal with a vital emergency. This also covers situations where we are defending ourselves, our reputation, or our rights.
 
 **Google Analytics**  
@@ -184,14 +184,16 @@ Automated Decision-Making**
     * We may decide to block you from accessing or participating in our community in future. We're a support community run by volunteers. Our staff doesn't get paid for the work they do here. Members who create disproportionately large amounts of administrative hassle for us (such as by submitting extremely time-consuming GDPR requests, especially invalid ones) are just not worth the trouble to have as members. ADISC is private property, and we are under no obligation to let someone use it if we don't want to.
 
   
-**Gifts / Donations**  
-We are funded by gifts of money to our admin.  
-Our payment processor must retain records of money we are sent, just as they retain records for all other money transfers on their platform.  
-  
+**Gifts, Donations, Etc**  
+
+* If you gift us money, you also agree to the privacy policy of whichever payment processor you use to send us the money.
+* The payment processor may retain a record of it, just as they retain records for all other money transfers on their platform.
+
   
 **Effective Date**  
 
 * This privacy policy is effective from Mar 31st, 2019.
+* The latest clarifying update to this policy was made June 25th, 2024.
 
 **Country**  
 
@@ -209,18 +211,18 @@ Our payment processor must retain records of money we are sent, just as they ret
 
 * Please use the [requests forum](https://www.adisc.org/forum/forumdisplay.php?f=10) to contact us.
 
-Last edited: Jan 1, 2022
+Last edited: Jun 25, 2024
 
-* ![Like](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Like")
-* ![Wow](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wow")
+* ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
+* ![Wow](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f632.png "Wow")
 
-Reactions: LittleRobbie, Woncrinklz, Ellie and 1 other person
+Reactions: LostMyShy, Robbie2Rosie, Woncrinklz and 2 others
 
 [You must log in or register to reply here.](https://www.adisc.org/forum/login/)
 
 Share:
 
-X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
+[X (Twitter)](#_xfUid-1-1721351572) [LinkedIn](#_xfUid-1-1721351572) [Reddit](#_xfUid-1-1721351572) [Pinterest](#_xfUid-1-1721351572) [Tumblr](#_xfUid-1-1721351572) [WhatsApp](#_xfUid-1-1721351572) [Email](#_xfUid-1-1721351572) [Share](#_xfUid-1-1721351572) [Link](#_xfUid-1-1721351572)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -234,7 +236,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
 * [Help](https://www.adisc.org/forum/help/)
 * [RSS](https://www.adisc.org/forum/forums/-/index.rss "RSS")
 
-[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
+[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
 
@@ -245,7 +247,7 @@ X (Twitter) Reddit Pinterest Tumblr WhatsApp Email Share Link
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1718968642%2C5284374116188f095ad989b827a6db83) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1718968642%2C5284374116188f095ad989b827a6db83)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1721351572%2Ccfdda6353f295c58e19278e03fab6bc0) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1721351572%2Ccfdda6353f295c58e19278e03fab6bc0)
     
     * Essential cookies
     
