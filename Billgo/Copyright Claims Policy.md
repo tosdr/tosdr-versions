@@ -94,7 +94,7 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
     * [Contact](https://billgo.com/contact)
     * [Legal](https://billgo.com/legal)
     * [Privacy Policy](https://billgo.com/privacy-policy)
-    * [Licenses](https://billgo.com/licenses)
+    * [Licenses](https://billgo.com/licenses-new)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
 * [Bill Pay](https://billgo.com/billpay)
@@ -110,7 +110,7 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
     * [Contact](https://billgo.com/contact)
     * [Legal](https://billgo.com/legal)
     * [Privacy Policy](https://billgo.com/privacy-policy)
-    * [Licenses](https://billgo.com/licenses)
+    * [Licenses](https://billgo.com/licenses-new)
     * [Copyright Policy](https://billgo.com/copyright-policy)
 
 [](https://www.facebook.com/BillGOPayments)[](https://twitter.com/BillGOPayments)[](https://www.linkedin.com/company/billgopayments)
