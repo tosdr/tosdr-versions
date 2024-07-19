@@ -1,1 +1,1 @@
-Javascript is required to sign in. Enable Javascript in your browser or use one which supports it. [Learn more](https://9now.zendesk.com/hc/en-us/articles/217116387)
+Javascript is required to sign in. Enable Javascript in your browser or use one which supports it. [Learn more](https://help.9now.com.au/hc/en-au/articles/34280894735385-Do-I-need-to-enable-JavaScript-in-my-web-browser-and-if-so-how-do-I-do-that)
