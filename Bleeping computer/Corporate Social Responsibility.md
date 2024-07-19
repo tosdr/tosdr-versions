@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft announces new Windows 'checkpoint' cumulative updates](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        "Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
-    * [![CDK Global hacked again while recovering from first cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft announces new Windows 'checkpoint' cumulative updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-windows-checkpoint-cumulative-updates/)
+    * [![Email addresses of 15 million Trello users leaked on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
-    * [![Microsoft says bug causes Windows 10 apps to display Open With dialogs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Email addresses of 15 million Trello users leaked on hacking forum](https://www.bleepingcomputer.com/news/security/email-addresses-of-15-million-trello-users-leaked-on-hacking-forum/)
+    * [![June Windows Server updates break Microsoft 365 Defender features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
-    * [![ONNX phishing service targets Microsoft 365 accounts at financial firms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        June Windows Server updates break Microsoft 365 Defender features](https://www.bleepingcomputer.com/news/microsoft/june-windows-server-updates-break-microsoft-365-defender-features/)
+    * [![Over 400,000 Life360 user phone numbers leaked via unsecured API](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
+        Over 400,000 Life360 user phone numbers leaked via unsecured API](https://www.bleepingcomputer.com/news/security/over-400-000-life360-user-phone-numbers-leaked-via-unsecured-android-api/)
     
-    * [![Automate Windows tasks with $58 off this PowerShell training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Here's how to get 1TB of Koofr cloud storage for life for $120](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Automate Windows tasks with $58 off this PowerShell training bundle](https://www.bleepingcomputer.com/offer/deals/automate-windows-tasks-with-58-off-this-powershell-training-bundle/)
-    * [![CDK warns: threat actors are calling customers, posing as support](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Here's how to get 1TB of Koofr cloud storage for life for $120](https://www.bleepingcomputer.com/offer/deals/heres-how-to-get-1tb-of-koofr-cloud-storage-for-life-for-120/)
+    * [![SolarWinds fixes 8 critical bugs in access rights audit software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CDK warns: threat actors are calling customers, posing as support](https://www.bleepingcomputer.com/news/security/cdk-warns-threat-actors-are-calling-customers-posing-as-support/)
-    * [![Biden bans Kaspersky antivirus software in US over security concerns](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        SolarWinds fixes 8 critical bugs in access rights audit software](https://www.bleepingcomputer.com/news/security/solarwinds-fixes-8-critical-bugs-in-access-rights-audit-software/)
+    * [![Microsoft fixes bug blocking Windows 11 Photos from starting](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Biden bans Kaspersky antivirus software in US over security concerns](https://www.bleepingcomputer.com/news/security/biden-bans-kaspersky-antivirus-software-in-us-over-security-concerns/)
-    * [![Phoenix UEFI vulnerability impacts hundreds of Intel PC models](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft fixes bug blocking Windows 11 Photos from starting](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-blocking-windows-11-photos-from-starting/)
+    * [![Critical Cisco bug lets hackers add root users on SEG devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Phoenix UEFI vulnerability impacts hundreds of Intel PC models](https://www.bleepingcomputer.com/news/security/phoenix-uefi-vulnerability-impacts-hundreds-of-intel-pc-models/)
+        Critical Cisco bug lets hackers add root users on SEG devices](https://www.bleepingcomputer.com/news/security/critical-cisco-bug-lets-hackers-add-root-users-on-seg-devices/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,24 +302,32 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/mwise_registration-early_last-chance-almost-gone.jpg)](https://www.bleepingcomputer.com/mgo/44/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-discount_smartest-minds_cta-2.jpg)](https://www.bleepingcomputer.com/mgo/48/)
 
 Popular Stories
 
-* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Trello](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
-* [![CDK](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Email addresses of 15 million Trello users leaked on hacking forum](https://www.bleepingcomputer.com/news/security/email-addresses-of-15-million-trello-users-leaked-on-hacking-forum/)
+* [![Kaspersky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
+    Kaspersky offers free security software for six months in U.S. goodbye](https://www.bleepingcomputer.com/news/security/kaspersky-offers-free-security-software-for-six-months-in-us-goodbye/)
 
 Latest Downloads
 
+* ![AdwCleaner Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    [AdwCleaner](https://www.bleepingcomputer.com/download/adwcleaner/)
+    
+    Version: 8.4.2.0
+    
+    **56M+ _Downloads_**
+    
 * ![Malwarebytes Anti-Malware Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     [Malwarebytes Anti-Malware](https://www.bleepingcomputer.com/download/malwarebytes-anti-malware/)
     
-    Version: 5.1.5.116
+    Version: 5.1.6.117
     
     **5M+ _Downloads_**
     
@@ -329,7 +337,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,059 _Downloads_**
+    **54,499 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -337,7 +345,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **41,822 _Downloads_**
+    **42,191 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,15 +353,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,135 _Downloads_**
-    
-* ![Malwarebytes Support Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [Malwarebytes Support Tool](https://www.bleepingcomputer.com/download/malwarebytes-support-tool/)
-    
-    Version: NA
-    
-    **150,173 _Downloads_**
+    **103,477 _Downloads_**
     
 
 ##### Follow us:
