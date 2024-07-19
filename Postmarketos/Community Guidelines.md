@@ -18,7 +18,7 @@ and other mobile devices
 
 [For Linux enthusiasts](https://postmarketos.org/state/)
 
-Latest news: [v24.06](https://postmarketos.org/blog/2024/06/16/v24.06-release/)
+Latest news: [pmOS selected for NGI0 Core funding](https://postmarketos.org/blog/2024/07/17/news-on-grant-applications/)
 
 Code of Conduct
 ===============
