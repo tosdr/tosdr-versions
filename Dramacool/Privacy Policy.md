@@ -1,32 +1,31 @@
-[![Dramacool](https://dramacool.sh/wp-content/themes/dramacool9/images/logo.jpg)](https://dramacool.sh/ "Dramacool")
+* [](#)
+* [](https://dramanice.ws/)
 
-[](# "Menu")
-
-[![Dramacool](https://dramacool.sh/wp-content/themes/dramacool9/images/logo-mob.png)](https://dramacool.sh/ "Dramacool")
-
-Search for:  Search
-
-* [Home](https://ww2.dramacool9.ac/home)
-* [Latest Updates](https://dramacool.sh/category/latest-asian-drama-releases/)
-    * [Drama Updates](https://dramacool.sh/category/latest-asian-drama-releases/)
-    * [KShow Updates](https://dramacool.sh/category/latest-kshow-release/)
-* [Drama](https://dramacool.sh/category/asian-drama/)
-    * [Korean Drama](https://ww2.dramacool9.ac/category/asian-drama/?country=korean)
-    * [Japanese Drama](https://ww2.dramacool9.ac/category/asian-drama/?country=japanese)
-    * [Taiwanese Drama](https://ww2.dramacool9.ac/category/asian-drama/?country=taiwanese)
-    * [Chinese Mainland Drama](https://ww2.dramacool9.ac/category/asian-drama/?country=chinese)
-    * [Thailand Drama](https://ww2.dramacool9.ac/category/asian-drama/?country=thailand)
-* [Movies](https://dramacool.sh/category/movies/)
+* [Drama Nice](https://dramanice.ws/)
+* [Daily Updates](https://dramanice.ws/category/recent-updates/)
+    * [Drama Updates](https://dramanice.ws/category/recent-updates/)
+    * [KShow Updates](https://dramanice.ws/category/recent-kshow-updates/)
+* [Drama List](https://dramanice.ws/category/drama/)
+    * [Korean Drama](https://ww2.dramacool9.ac/category/drama/?country=korean)
+    * [Japanese Drama](https://ww2.dramacool9.ac/category/drama/?country=japanese)
+    * [Taiwanese Drama](https://ww2.dramacool9.ac/category/drama/?country=taiwanese)
+    * [Chinese Drama](https://ww2.dramacool9.ac/category/drama/?country=chinese)
+    * [Thailand Drama](https://ww2.dramacool9.ac/category/drama/?country=thailand)
+    * [A-Z Index](https://ww2.dramacool9.ac/asian-drama-list)
+* [Movie List](https://dramanice.ws/category/movies/)
     * [Korean Movies](https://ww2.dramacool9.ac/category/movies/?country=korean)
     * [Japanese Movies](https://ww2.dramacool9.ac/category/movies/?country=japanese)
+    * [Chinese Movies](https://ww2.dramacool9.ac/category/movies/?country=chinese)
     * [Taiwanese Movies](https://ww2.dramacool9.ac/category/movies/?country=taiwanese)
-    * [Chinese Mainland Movies](https://ww2.dramacool9.ac/category/movies/?country=chinese)
-* [KShow](https://dramacool.sh/category/k-show/)
-* [A-Z Index](https://ww2.dramacool9.ac/asian-dramas-list/)
-    * [Drama List](https://ww2.dramacool9.ac/asian-dramas-list)
-    * [Movie List](https://ww2.dramacool9.ac/asian-movie-list)
+    * [Hong Kong Movies](https://ww2.dramacool9.ac/category/movies/?country=hong-kong)
+    * [A-Z Index](https://ww2.dramacool9.ac/asian-movie-list)
+* [Kshow List](https://dramanice.ws/category/kshow/)
 * [Popular Dramas](https://ww2.dramacool9.ac/tag/most-popular/)
-* [Upcoming Dramas](https://dramacool.sh/upcoming-asian-dramas/)
+* [Upcoming Dramas](https://dramanice.ws/upcoming-asian-dramas/)
+
+ Search
+
+[](javascript:void(0))
 
 Privacy Policy
 ==============
@@ -34,7 +33,7 @@ Privacy Policy
 Who we are
 ----------
 
-Our website address is: https://dramacool.sh.
+Our website address is: https://dramanice.ws.
 
 What personal data we collect and why we collect it
 ---------------------------------------------------
@@ -92,152 +91,105 @@ Visitor comments may be checked through an automated spam detection service.
 If you have any more questions regarding privacy matters while using our site, please contact us here.
 ------------------------------------------------------------------------------------------------------
 
-[Follow @Dramacool](https://twitter.com/RealDramacool?ref_src=twsrc%5Etfw)
-
-* [![](https://dramacool.sh/wp-content/uploads/2024/02/wJlQ5N_4c.jpg)
-    
-    ### Queen of Tears & 11 New K-dramas on Dramacool (March 2024)](https://dramacool.sh/queen-of-tears-new-k-dramas-dramacool-march-2024/ "Queen of Tears & 11 New K-dramas on Dramacool (March 2024)")
-* [![](https://dramacool.sh/wp-content/uploads/2024/02/Rqp66_4c.jpg)
-    
-    ### Top 17 Song Joong Ki Dramas & Movies on DramaCool](https://dramacool.sh/17-best-song-joong-ki-dramas-and-movies/ "Top 17 Song Joong Ki Dramas & Movies on DramaCool")
-* [![](https://dramacool.sh/wp-content/uploads/2024/01/D2X7Dc.jpg)
-    
-    ### Top 10 Korean Dramas Starring Lee Jung Suk, Ranked on Dramacool](https://dramacool.sh/10-best-lee-jong-suk-dramas-dramacool/ "Top 10 Korean Dramas Starring Lee Jung Suk, Ranked on Dramacool")
-
-[View More](https://ww2.dramacool9.ac/category/blog/ "View More Articles")
-
 * [Ads](#ads)
 * [Ongoing](#popular)
 * [Upcoming](#upcoming)
 
-* ### [The Whirlwind (2024)](https://dramacool.sh/the-whirlwind-2024/)
+* ### [Serendipity’s Embrace (2024)](https://dramanice.ws/serendipity-s-embrace-2024/)
     
-* ### [Hierarchy (2024)](https://dramacool.sh/hierarchy-2024/)
+* ### [No Way Out: The Roulette (2024)](https://dramanice.ws/no-way-out-the-roulette-2024/)
     
-* ### [Dreaming of a Freaking Fairytale (2024)](https://dramacool.sh/dreaming-of-a-freaking-fairytale-2024/)
+* ### [Romance in the House (2024)](https://dramanice.ws/romance-in-the-house-2024/)
     
-* ### [Wonderland (2024)](https://dramacool.sh/wonderland-2024/)
+* ### [Bad-Memory Eraser (2024)](https://dramanice.ws/bad-memory-eraser-2024/)
     
-* ### [Fox Spirit Matchmaker: Red-Moon Pact (2024)](https://dramacool.sh/fox-spirit-matchmaker-red-moon-pact-2024/)
+* ### [Lost You Forever Season 2 (2024)](https://dramanice.ws/lost-you-forever-season-2-2024/)
     
-* ### [Joy of Life: Season 2 (2024)](https://dramacool.sh/joy-of-life-season-2-2024/)
+* ### [Red Swan (2024)](https://dramanice.ws/red-swan-2024/)
     
-* ### [The 8 Show (2024)](https://dramacool.sh/the-8-show-2024/)
+* ### [Good Partner (2024)](https://dramanice.ws/good-partner-2024/)
     
-* ### [Pyramid Game (2024)](https://dramacool.sh/pyramid-game-2024/)
+* ### [Sweet Home Season 3 (2024)](https://dramanice.ws/sweet-home-season-3-2024/)
     
-* ### [The Atypical Family (2024)](https://dramacool.sh/the-atypical-family-2024/)
+* ### [The Whirlwind (2024)](https://dramanice.ws/the-whirlwind-2024/)
     
-* ### [Lovely Runner (2024)](https://dramacool.sh/lovely-runner-2024/)
+* ### [Just For Meeting You (2023)](https://dramanice.ws/just-for-meeting-you-2023/)
     
-* ### [Uncle Samsik (2024)](https://dramacool.sh/uncle-samsik-2024/)
+* ### [Hierarchy (2024)](https://dramanice.ws/hierarchy-2024/)
     
-* ### [Crash (2024)](https://dramacool.sh/crash-2024/)
+* ### [Dreaming of a Freaking Fairytale (2024)](https://dramanice.ws/dreaming-of-a-freaking-fairytale-2024/)
     
-* ### [The Player 2: Master of Swindlers (2024)](https://dramacool.sh/the-player-2-master-of-swindlers-2024/)
+* ### [Wonderland (2024)](https://dramanice.ws/wonderland-2024/)
     
-* ### [What If (2024)](https://dramacool.sh/what-if-2024/)
+* ### [Fox Spirit Matchmaker: Red-Moon Pact (2024)](https://dramanice.ws/fox-spirit-matchmaker-red-moon-pact-2024/)
     
-* ### [Goodbye Earth (2024)](https://dramacool.sh/goodbye-earth-2024/)
+* ### [Joy of Life: Season 2 (2024)](https://dramanice.ws/joy-of-life-season-2-2024/)
     
-* ### [Blood Free (2024)](https://dramacool.sh/blood-free-2024/)
+* ### [Uncle Samsik (2024)](https://dramanice.ws/uncle-samsik-2024/)
     
-* ### [Dare to Love Me (2024)](https://dramacool.sh/dare-to-love-me-2024/)
+* ### [The 8 Show (2024)](https://dramanice.ws/the-8-show-2024/)
     
-* ### [The Midnight Romance in Hagwon (2024)](https://dramacool.sh/the-midnight-romance-in-hagwon-2024/)
+* ### [Crash (2024)](https://dramanice.ws/crash-2024/)
     
-* ### [Connection (2024)](https://dramacool.sh/connection-2024/)
+* ### [The Player 2: Master of Swindlers (2024)](https://dramanice.ws/the-player-2-master-of-swindlers-2024/)
     
-* ### [Bitter Sweet Hell (2024)](https://dramacool.sh/bitter-sweet-hell-2024/)
+* ### [What If (2024)](https://dramanice.ws/what-if-2024/)
     
-* ### [Girls High School Mystery Class Season 3 (2024)](https://dramacool.sh/girls-high-school-mystery-class-season-3-2024/)
+* ### [Connection (2024)](https://dramanice.ws/connection-2024/)
     
-* ### [Chief Detective 1958 (2024)](https://dramacool.sh/chief-detective-1958-2024/)
+* ### [Bitter Sweet Hell (2024)](https://dramanice.ws/bitter-sweet-hell-2024/)
     
-* ### [The Escape of the Seven: Resurrection (2024)](https://dramacool.sh/the-escape-of-the-seven-resurrection-2024/)
+* ### [Begins Youth (2024)](https://dramanice.ws/begins-youth-2024/)
     
-* ### [Hide (2024)](https://dramacool.sh/hide-2024/)
+* ### [Dare to Love Me (2024)](https://dramanice.ws/dare-to-love-me-2024/)
     
-* ### [Parasyte: The Grey (2024)](https://dramacool.sh/parasyte-the-grey-2024/)
+* ### [Exhuma (2024)](https://dramanice.ws/exhuma-2024/)
     
-* ### [The Brave Yong Soo Jung (2024)](https://dramacool.sh/the-brave-yong-soo-jung-2024/)
+* ### [The Atypical Family (2024)](https://dramanice.ws/the-atypical-family-2024/)
     
-* ### [Shooting Stars (2024)](https://dramacool.sh/shooting-stars-2024/)
+* ### [Girls High School Mystery Class Season 3 (2024)](https://dramanice.ws/girls-high-school-mystery-class-season-3-2024/)
     
-* ### [Nothing Uncovered (2024)](https://dramacool.sh/nothing-uncovered-2024/)
+* ### [The Brave Yong Soo Jung (2024)](https://dramanice.ws/the-brave-yong-soo-jung-2024/)
     
-* ### [Best Choice Ever (2024)](https://dramacool.sh/best-choice-ever-2024/)
+* ### [Shooting Stars (2024)](https://dramanice.ws/shooting-stars-2024/)
     
-* ### [Frankly Speaking (2024)](https://dramacool.sh/frankly-speaking-2024/)
-    
-* ### [Blossoms in Adversity (2024)](https://dramacool.sh/blossoms-in-adversity-2024/)
-    
-* ### [Hard to Find (2024)](https://dramacool.sh/hard-to-find-2024/)
-    
-* ### [Fry Me to the Moon (2024)](https://dramacool.sh/fry-me-to-the-moon-2024/)
-    
-* ### [Love at First Night (2024)](https://dramacool.sh/love-at-first-night-2024/)
-    
-* ### [Jazz for Two (2024)](https://dramacool.sh/jazz-for-two-2024/)
-    
-* ### [Guess Who I Am (2024)](https://dramacool.sh/guess-who-i-am-2024/)
-    
-* ### [Five Kings of Thieves (2024)](https://dramacool.sh/five-kings-of-thieves-2024/)
-    
-* ### [Troll Factory (2024)](https://dramacool.sh/troll-factory-2024/)
-    
-* ### [In Blossom (2024)](https://dramacool.sh/in-blossom-2024/)
-    
-* ### [The Legend of Shen Li (2024)](https://dramacool.sh/the-legend-of-shen-li-2024/)
+* ### [Best Choice Ever (2024)](https://dramanice.ws/best-choice-ever-2024/)
     
 
 [View More](https://ww2.dramacool9.ac/tag/most-popular/ "View More Popular Dramas")
 
-* ### [Branding in Seongsu (2024) Episode 15](https://dramacool.sh/branding-in-seongsu-2024-episode-15/)
+* ### [LTNS (2024) Ep 14](https://dramanice.ws/ltns-2024-episode-14/ "LTNS (2024) Ep 14")
     
-* ### [The Impossible Heir (2024) Episode 7](https://dramacool.sh/the-impossible-heir-2024-episode-7/)
+* ### [LTNS (2024) Ep 15](https://dramanice.ws/ltns-2024-episode-15/ "LTNS (2024) Ep 15")
     
-* ### [Branding in Seongsu (2024) Episode 16](https://dramacool.sh/branding-in-seongsu-2024-episode-16/)
+* ### [LTNS (2024) Ep 16](https://dramanice.ws/ltns-2024-episode-16/ "LTNS (2024) Ep 16")
     
-* ### [The Impossible Heir (2024) Episode 8](https://dramacool.sh/the-impossible-heir-2024-episode-8/)
+* ### [Wuju Bakery (2023) Ep 1](https://dramanice.ws/wuju-bakery-2023-episode-1/ "Wuju Bakery (2023) Ep 1")
     
-* ### [Branding in Seongsu (2024) Episode 1](https://dramacool.sh/branding-in-seongsu-2024-episode-1/)
+* ### [Wuju Bakery (2023) Ep 2](https://dramanice.ws/wuju-bakery-2023-episode-2/ "Wuju Bakery (2023) Ep 2")
     
-* ### [Branding in Seongsu (2024) Episode 17](https://dramacool.sh/branding-in-seongsu-2024-episode-17/)
+* ### [Wuju Bakery (2023) Ep 3](https://dramanice.ws/wuju-bakery-2023-episode-3/ "Wuju Bakery (2023) Ep 3")
     
-* ### [The Impossible Heir (2024) Episode 9](https://dramacool.sh/the-impossible-heir-2024-episode-9/)
+* ### [Wuju Bakery (2023) Ep 4](https://dramanice.ws/wuju-bakery-2023-episode-4/ "Wuju Bakery (2023) Ep 4")
     
-* ### [Branding in Seongsu (2024) Episode 2](https://dramacool.sh/branding-in-seongsu-2024-episode-2/)
+* ### [Wuju Bakery (2023) Ep 5](https://dramanice.ws/wuju-bakery-2023-episode-5/ "Wuju Bakery (2023) Ep 5")
     
-* ### [Branding in Seongsu (2024) Episode 18](https://dramacool.sh/branding-in-seongsu-2024-episode-18/)
+* ### [Wuju Bakery (2023) Ep 6](https://dramanice.ws/wuju-bakery-2023-episode-6/ "Wuju Bakery (2023) Ep 6")
     
-* ### [The Impossible Heir (2024) Episode 10](https://dramacool.sh/the-impossible-heir-2024-episode-10/)
-    
-* ### [Branding in Seongsu (2024) Episode 3](https://dramacool.sh/branding-in-seongsu-2024-episode-3/)
-    
-* ### [Branding in Seongsu (2024) Episode 19](https://dramacool.sh/branding-in-seongsu-2024-episode-19/)
-    
-* ### [The Impossible Heir (2024) Episode 11](https://dramacool.sh/the-impossible-heir-2024-episode-11/)
-    
-* ### [Branding in Seongsu (2024) Episode 4](https://dramacool.sh/branding-in-seongsu-2024-episode-4/)
-    
-* ### [Branding in Seongsu (2024) Episode 20](https://dramacool.sh/branding-in-seongsu-2024-episode-20/)
-    
-* ### [The Impossible Heir (2024) Episode 12](https://dramacool.sh/the-impossible-heir-2024-episode-12/)
-    
-* ### [Branding in Seongsu (2024) Episode 5](https://dramacool.sh/branding-in-seongsu-2024-episode-5/)
-    
-* ### [Branding in Seongsu (2024) Episode 21](https://dramacool.sh/branding-in-seongsu-2024-episode-21/)
-    
-* ### [Branding in Seongsu (2024) Episode 6](https://dramacool.sh/branding-in-seongsu-2024-episode-6/)
-    
-* ### [Branding in Seongsu (2024) Episode 22](https://dramacool.sh/branding-in-seongsu-2024-episode-22/)
+* ### [LTNS (2024) Ep 7](https://dramanice.ws/ltns-2024-episode-7/ "LTNS (2024) Ep 7")
     
 
 [View More](https://ww2.dramacool9.ac/category/upcoming-episodes/ "View All Upcoming Episodes")
 
-© 2023 [Dramacool](https://ww2.dramacool9.ac/)
+* [### Top 9 Upcoming K-dramas on Dramanice (October 2023)](https://dramanice.ws/upcoming-kdramas-dramanice-october-2023/ "Top 9 Upcoming K-dramas on Dramanice (October 2023)")
+* [### Upcoming 11 K-dramas to watch in September 2023](https://dramanice.ws/11-new-korean-dramas-september-2023/ "Upcoming 11 K-dramas to watch in September 2023")
+* [### Top 10 Korean Dramas of the Decade (2020) – Part 1](https://dramanice.ws/top-10-korean-dramas-decade-2020/ "Top 10 Korean Dramas of the Decade (2020) – Part 1")
+* [### 5 Highly Popular Medical J-dramas of 2019](https://dramanice.ws/5-popular-medical-j-dramas-2019/ "5 Highly Popular Medical J-dramas of 2019")
+* [### 7 Best Suspense Thriller Japanese Dramas (2019 Edition)](https://dramanice.ws/7-best-suspense-japanese-dramas-2019/ "7 Best Suspense Thriller Japanese Dramas (2019 Edition)")
 
-* [About Us](https://ww2.dramacool9.ac/about-us "Contact Us")
-* [Contact Us](https://ww2.dramacool9.ac/contact-us "Contact Us")
+[View More](https://ww2.dramacool9.ac/category/blog/ "View More Articles")
+
 * [Privacy](https://ww2.dramacool9.ac/privacy-policy "Privacy Policy")
+* [Contact Us](https://ww2.dramacool9.ac/contact-us "Contact Us")
+
+© 2023 [Dramanice](https://ww2.dramacool9.ac/)
