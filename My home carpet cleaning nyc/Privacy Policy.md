@@ -26,6 +26,7 @@
     * [Yacht Cleaning Service](https://carpetcleaningnyc.com/yacht-cleaning-service/)
     * [Private Jet Cleaning](https://carpetcleaningnyc.com/private-jet-cleaning-service/)
     * [Rug Pad Installation](https://carpetcleaningnyc.com/rug-pad-installation/)
+    * [Ruggable Rug Cleaning](https://carpetcleaningnyc.com/ruggable-rug-cleaning-nyc/)
 * [Upholstery Dry Cleaning](https://carpetcleaningnyc.com/service/upholstery-care/)
     * [Sofa Cleaning](https://carpetcleaningnyc.com/service/upholstery-care/sofa-cleaning-company-nyc)
     * [Scotch Guard](https://carpetcleaningnyc.com/service/carpet-cleaning/scotch-guard-protection-NYC)
@@ -89,11 +90,11 @@ service@carpetcleaningnyc.com
 
 #### Recent Posts
 
+* [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 * [Cleaning Your Home During Allergy Season: Dos and Don'ts](https://carpetcleaningnyc.com/cleaning-your-home-during-allergy-season-dos-and-donts/)
 * [How to Remove Odors From Your Home Naturally](https://carpetcleaningnyc.com/how-to-remove-odors-from-your-home-naturally/)
 * [Cleaning Tips for a Move-in/Move-out Situation](https://carpetcleaningnyc.com/cleaning-tips-for-a-move-inmove-out-situation/)
 * [Green Cleaning: Tips for a Healthier Home and Environment](https://carpetcleaningnyc.com/green-cleaning-tips-for-a-healthier-home-and-environment/)
-* [How to Clean and Organize Your Garage](https://carpetcleaningnyc.com/how-to-clean-and-organize-your-garage/)
 
 #### Our Locations
 
@@ -141,11 +142,11 @@ Phone:(212) 658-0618
 
 #### Recent Posts
 
+* [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 * [Cleaning Your Home During Allergy Season: Dos and Don'ts](https://carpetcleaningnyc.com/cleaning-your-home-during-allergy-season-dos-and-donts/)
 * [How to Remove Odors From Your Home Naturally](https://carpetcleaningnyc.com/how-to-remove-odors-from-your-home-naturally/)
 * [Cleaning Tips for a Move-in/Move-out Situation](https://carpetcleaningnyc.com/cleaning-tips-for-a-move-inmove-out-situation/)
 * [Green Cleaning: Tips for a Healthier Home and Environment](https://carpetcleaningnyc.com/green-cleaning-tips-for-a-healthier-home-and-environment/)
-* [How to Clean and Organize Your Garage](https://carpetcleaningnyc.com/how-to-clean-and-organize-your-garage/)
 
 #### BUSINESS HOURS
 
