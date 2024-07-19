@@ -173,7 +173,6 @@ Más información
 
 * [Nivel 6](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
 * [Disney+](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
-* [Star+](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=footer_ml)
 * [Max](https://www.mercadolibre.com.ar/suscripciones/max#origin=footer_ml)
 * [Paramount+](https://www.mercadolibre.com.ar/suscripciones/paramount#origin=footer_ml)
 
@@ -188,7 +187,7 @@ Copyright © 1999-2024 MercadoLibre S.R.L.
 * [Ayuda](https://www.mercadolibre.com.ar/ayuda)
 * [Defensa del Consumidor](https://www.mercadolibre.com.ar/ayuda/Defensa-del-Consumidor_s20014)
 * [Información sobre seguros](https://www.mercadolibre.com.ar/ayuda/23303)
-* [Hot Sale](https://www.mercadolibre.com.ar/hot-sale)
+* [Libro de quejas online](https://www.mercadolibre.com.ar/ayuda/4623)
 
 Av. Caseros 3039, Piso 2, CP 1264, Parque Patricios, CABA
 
