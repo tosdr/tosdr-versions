@@ -1,5 +1,6 @@
 [![OpenCritic Logo](https://img.opencritic.com/logo-light.png)](https://opencritic.com/)
 
+* [News](https://opencritic.com/news)
 * Browse Games
     
     [PlayStation 5](https://opencritic.com/browse/ps5)[Xbox Series X/S](https://opencritic.com/browse/xbxs)[PlayStation 4](https://opencritic.com/browse/ps4)[Xbox One](https://opencritic.com/browse/xb1)[PC](https://opencritic.com/browse/pc)[Nintendo Switch](https://opencritic.com/browse/switch)[All Platforms](https://opencritic.com/browse/all)[Other Platforms](https://opencritic.com/browse)
