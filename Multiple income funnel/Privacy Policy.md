@@ -9,7 +9,7 @@ Our Multiple Income Funnel ("MIF") Privacy Policy has been developed as an exten
 
 **THE INFORMATION WE COLLECT**
 
-When you visit our site ("Site"), we collect two types of information: personal information you actively choose to disclose ("Active Information") and information not visible to you that arises out of your browsing of our Site ("Passive Information"). Please note that Passive Information is collected on an aggregate and anonymous basis.
+When you visit our site ("Site"), we collect two types of information: personal information you actively choose to disclose ("Active Information") and information not visible to you that arises out of your browsing of our Site ("Passive Information"). Please note that Passive Information is collected on an aggregate and anonymous basis. We may collect other Personal Information you provide us through your use of our services.
 
 **1\. Personally Identifiable Information**
 
@@ -17,7 +17,7 @@ Personally Identifiable Information ("PII") is information that identifies and i
 
 **A. Registration**
 
-When you register to become an authorized reseller of our products or services, we will collect PII (which may include, but not limited to, names, address, email address, and telephone numbers). This PII is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
+When you register to become an authorized user or reseller of our products or services, we will collect PII (which may include, but not limited to, names, address, email address, and telephone numbers). This PII is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information. Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided.
 
 **B. Ordering**
 
@@ -30,6 +30,10 @@ Credit and debit card information collected at registration or for product order
 **D. Surveys and Promotions**
 
 Occasionally, you may voluntarily provide PII to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services and to ensure that we're providing accurate disclosures. We may also use your PII to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
+
+**E. Information Collected Automatically**
+
+Whenever you interact with our Website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, potential email information, and the page you requested.
 
 **Active Information You Choose to Provide**
 
@@ -104,6 +108,14 @@ Links to third-party websites may be provided solely for your information and co
 **Children's Privacy Protection**
 
 We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child's online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect PII from them. If we discover personal data from a child through our Site, we will eliminate that data. You may learn more about protecting children's privacy online by visiting: [https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
+
+**Opting Out**
+
+If you would like to opt-out of (E) Information Collected Automatically, visit [https://untitledfirm.com/do-not-sell-my-info/](https://untitledfirm.com/do-not-sell-my-info/)
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: [http://optout.aboutads.info/](http://optout.aboutads.info/).
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below. Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
 **CHANGES TO THIS POLICY**
 
