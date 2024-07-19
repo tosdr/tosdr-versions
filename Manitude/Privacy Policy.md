@@ -60,7 +60,7 @@ Informationen zum Datenschutz
 
 für die Website und externe Seiten der manitu GmbH
 
-Stand: 2024-02-09 07:13
+Stand: 2024-07-11 09:07
 
 I. Allgemeines
 --------------
@@ -123,7 +123,7 @@ Sie haben als betroffene Person das Recht auf Auskunft nach Art. 15 DSGVO, das R
 
 Sie haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren (Art. 77 DSGVO in Verbindung mit § 19 BDSG).
 
-Die für uns/ für unsere Hauptniederlassung zuständige Datenschutzaufsichtsbehörde ist:
+Die für uns/für unsere Hauptniederlassung zuständige Datenschutzaufsichtsbehörde ist:
 
 Unabhängiges Datenschutzzentrum Saarland  
 Landesbeauftragte für Datenschutz und Informationsfreiheit  
