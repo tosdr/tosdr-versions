@@ -1,8 +1,8 @@
-[**Summer Sale! - Up to 40% Off 🦍**](https://www.gorillagrowtent.com/pages/deals)
+[**710 Sale! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients)
 
-[Menu](#nav)[![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/logo_400x.webp?v=1663273727)
+[Menu](#nav)[![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/Lotus-W_copy_400x.webp?v=1721263128)
 
-![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/logo_2000x.webp?v=1663273727)](https://lotusnutrients.com/ "Lotus Premium Plant Nutrients")
+![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/Lotus-W_copy_2000x.webp?v=1721263128)](https://lotusnutrients.com/ "Lotus Premium Plant Nutrients")
 
 * [SHOP](https://lotusnutrients.com/pages/best-cannabis-nutrients)
 * [CANNABIS NUTRIENTS](https://lotusnutrients.com/pages/best-cannabis-nutrients)
