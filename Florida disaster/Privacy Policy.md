@@ -83,6 +83,7 @@ Search
                 * [Timber FAQs and Presentation](https://www.floridadisaster.org/dem/recovery/florida-agribusiness-recovery/timber/timber-faqs-and-presentation/)
         * [CARES Act](https://www.floridadisaster.org/dem/recovery/cares-act/)
         * [Disaster Mental Health Resources](https://www.floridadisaster.org/dem/recovery/Disaster-Mental-Health-Resources/)
+        * [Regional Response Coordinators](https://www.floridadisaster.org/dem/recovery/regional-response-coordinators/)
     * [Response](https://www.floridadisaster.org/dem/response/)
         * [Infrastructure](https://www.floridadisaster.org/dem/response/infrastructure/)
             * [Shelter Development Reports](https://www.floridadisaster.org/dem/response/infrastructure/shelter-Development-report/)
@@ -201,9 +202,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, June 21, 2024**
+**Thursday, July 18, 2024**
 
-**...Invest 92L to Reach the Northeast Florida/Southeast Georgia Coast By Tonight; A Short-Lived Tropical Depression May Develop Prior To Reaching the Coast (60% Chance of Development)...Regardless of Development, Heavy Rainfall, Gusty Winds (Near 30 MPH), and Coastal Impacts Possible...Scattered Showers and Embedded Thunderstorm Across the Northern Peninsula Today And Tonight…Marginal Risk For Flash Flooding Across the Northern Peninsula As Training Bands Producing Heavy Rainfall May Lead To Instances of Flooding…Relatively Drier Conditions Elsewhere Today…High Surf Advisories In Effect Along the Northeast Coast Through This Afternoon For Large Breaking Waves and Hazardous Beach and Boating Conditions...Localized Minor Coastal Flooding and Minor Coastal Erosion Possible At Times Of High Tide Along the East Coast...Heat Indices In The Upper 90s And Triple Digits (100-104) Nearly Statewide...Locally Sensitive Wildfire Conditions In the Panhandle...High Risk For Rip Currents Along Panhandle and East Coast…Another Tropical Disturbance in the Southwest Gulf This Weekend (60% Chance of Development); Nor Direct Threat To Florida...**
+**...Scattered Showers and Thunderstorms Along the Florida Panhandle This Morning To Move Eastward and Become More Numerous Later Today As An Approaching Frontal Boundary and Abundant Moisture Interact With Sea Breeze Activity...Scattered Showers and Thunderstorms Across the Peninsula With the Sea Breezes This Afternoon and Evening...Locally Strong to Severe Thunderstorms Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Cannot Be Ruled Out...Heavy Downpours and Slow-Moving Or Training Showers and Thunderstorms May Give Way to Instances of Localized Flooding; Marginal Risk For Flash Flooding Along the Florida Panhandle...Heat Indices In the Upper 90s And Triple Digits Statewide Today...Heat Advisories Issued For the Southeastern Peninsula...Moderate Risk For Rip Currents Along Panhandle and East Coast...Showers and Thunderstorms to Dissipate Nearly Statewide Overnight But Persist Along the Panhandle...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
