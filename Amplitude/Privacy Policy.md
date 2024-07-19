@@ -2,29 +2,32 @@
 
 [Platform](https://amplitude.com/digital-analytics-platform)
 
-#### Platform
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
+
+One platform, countless insights
+
+Get fast and easy access to customer insights at every step of their journey
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+#### Analytics
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/e7e8301bed83cf1ae9cb14d6a216e168c1c544b6-24x24.svg)
+    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
     
-    Analytics
+    Product Analytics
     
     Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Experiment icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Experiment icon](https://cdn.sanity.io/images/l5rq9j6r/production/e764eeb42db7600e0d0cdc301718d5a30bf6ee8f-24x24.svg)
+    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
     
-    Experiment
+    Web Analytics
     
-    Test, analyze, and optimize at scale](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customer Data Platform icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customer Data Platform icon](https://cdn.sanity.io/images/l5rq9j6r/production/c6ed4d447df50deb37de00961e79836c1c953fe4-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
+    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
@@ -32,73 +35,119 @@
     Session Replay
     
     Visualize sessions based on events in your product](https://amplitude.com/session-replay)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
+    
+    Warehouse-native Amplitude
+    
+    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
 
-* [Analytics](https://amplitude.com/amplitude-analytics)
-* [Experiment](https://amplitude.com/amplitude-experiment)
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Product Analytics](https://amplitude.com/amplitude-analytics)
+* [Web Analytics](https://amplitude.com/web-analytics)
 * [Session Replay](https://amplitude.com/session-replay)
+* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
 
-#### Capabilities
+#### Experiment
 
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
+    
+    Feature Experimentation
+    
+    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
+    
+    Web Experimentation
+    
+    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
+    
+    Feature Management
+    
+    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+
+* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
+* [Web Experimentation](https://amplitude.com/web-experimentation)
+* [Feature Management](https://amplitude.com/feature-management)
+
+#### Data
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
+    
+    Customer Data Platform
+    
+    Unite data across teams](https://amplitude.com/customer-data-platform)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
+    
+    Data Governance
+    
+    Complete data you can trust](https://amplitude.com/data-management)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/0018a0a8a98ff37ba0273d18065c38fb7678c24c-24x24.svg)
+    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
     
     Integrations
     
     Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/78936a55c386402b8b88f54e6ce175752fc69246-24x24.svg)
+    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
     
-    Data Management
-    
-    Complete data you can trust](https://amplitude.com/data-governance)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Trust icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Trust icon](https://cdn.sanity.io/images/l5rq9j6r/production/c82c6a96cbeea954714def3451017a8ceeb033b7-24x24.svg)
-    
-    Trust & privacy
+    Security & Privacy
     
     Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![AI Icon](https://cdn.sanity.io/images/l5rq9j6r/production/cea7182bdb8df3256bedfdcd20973ae669ad4dbb-24x24.svg)
+    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
     
     AI
     
     Self-service data meets self-service intelligence](https://amplitude.com/ai)
 
+* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Data Governance](https://amplitude.com/data-management)
 * [Integrations](https://amplitude.com/integrations)
-* [Data Management](https://amplitude.com/data-governance)
-* [Trust & privacy](https://amplitude.com/trust)
+* [Security & Privacy](https://amplitude.com/trust)
 * [AI](https://amplitude.com/ai)
 
 [Platform](https://amplitude.com/digital-analytics-platform)
 
-#### Platform
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
+
+One platform, countless insights
+
+Get fast and easy access to customer insights at every step of their journey
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+#### Analytics
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/e7e8301bed83cf1ae9cb14d6a216e168c1c544b6-24x24.svg)
+    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
     
-    Analytics
+    Product Analytics
     
     Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Experiment icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Experiment icon](https://cdn.sanity.io/images/l5rq9j6r/production/e764eeb42db7600e0d0cdc301718d5a30bf6ee8f-24x24.svg)
+    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
     
-    Experiment
+    Web Analytics
     
-    Test, analyze, and optimize at scale](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customer Data Platform icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customer Data Platform icon](https://cdn.sanity.io/images/l5rq9j6r/production/c6ed4d447df50deb37de00961e79836c1c953fe4-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
+    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
@@ -106,50 +155,103 @@
     Session Replay
     
     Visualize sessions based on events in your product](https://amplitude.com/session-replay)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
+    
+    Warehouse-native Amplitude
+    
+    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
 
-* [Analytics](https://amplitude.com/amplitude-analytics)
-* [Experiment](https://amplitude.com/amplitude-experiment)
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Product Analytics](https://amplitude.com/amplitude-analytics)
+* [Web Analytics](https://amplitude.com/web-analytics)
 * [Session Replay](https://amplitude.com/session-replay)
+* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
 
-#### Capabilities
+#### Experiment
 
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
+    
+    Feature Experimentation
+    
+    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
+    
+    Web Experimentation
+    
+    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
+    
+    Feature Management
+    
+    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+
+* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
+* [Web Experimentation](https://amplitude.com/web-experimentation)
+* [Feature Management](https://amplitude.com/feature-management)
+
+#### Data
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
+    
+    Customer Data Platform
+    
+    Unite data across teams](https://amplitude.com/customer-data-platform)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
+    
+    Data Governance
+    
+    Complete data you can trust](https://amplitude.com/data-management)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/0018a0a8a98ff37ba0273d18065c38fb7678c24c-24x24.svg)
+    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
     
     Integrations
     
     Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/78936a55c386402b8b88f54e6ce175752fc69246-24x24.svg)
+    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
     
-    Data Management
-    
-    Complete data you can trust](https://amplitude.com/data-governance)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Trust icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Trust icon](https://cdn.sanity.io/images/l5rq9j6r/production/c82c6a96cbeea954714def3451017a8ceeb033b7-24x24.svg)
-    
-    Trust & privacy
+    Security & Privacy
     
     Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![AI Icon](https://cdn.sanity.io/images/l5rq9j6r/production/cea7182bdb8df3256bedfdcd20973ae669ad4dbb-24x24.svg)
+    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
     
     AI
     
     Self-service data meets self-service intelligence](https://amplitude.com/ai)
 
+* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Data Governance](https://amplitude.com/data-management)
 * [Integrations](https://amplitude.com/integrations)
-* [Data Management](https://amplitude.com/data-governance)
-* [Trust & privacy](https://amplitude.com/trust)
+* [Security & Privacy](https://amplitude.com/trust)
 * [AI](https://amplitude.com/ai)
 
 [Solutions](https://amplitude.com/solutions)
 
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+
+Solutions that drive business results
+
+Deliver customer value and drive business outcomes
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
 #### Industry
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -260,6 +362,16 @@
 
 [Solutions](https://amplitude.com/solutions)
 
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+
+Solutions that drive business results
+
+Deliver customer value and drive business outcomes
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
 #### Industry
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -374,18 +486,25 @@
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/6edec72e0d3af5533063242aa2dc03d94daa90be-24x24.svg)
+    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
     
     Blog
     
     Thought leadership from industry experts](https://amplitude.com/blog)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/57a6f02b7db2e440febf612d72d1d1f999aef359-24x24.svg)
+    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
     
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
+    
+    Glossary
+    
+    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
@@ -393,18 +512,11 @@
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
-    
-    Product Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
-* [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
 
@@ -422,19 +534,27 @@
     Events
     
     Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
     
     Customers
     
     Discover why customers love Amplitude](https://amplitude.com/customers)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    
+    Partners
+    
+    Accelerate business value through our ecosystem](https://amplitude.com/partners)
 
 * [Community](https://amplitude.com/community)
 * [Events](https://amplitude.com/events)
 * [Customers](https://amplitude.com/customers)
+* [Partners](https://amplitude.com/partners)
 
-#### Support
+#### Support & Services
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -457,10 +577,30 @@
     Academy & Training
     
     Become an Amplitude pro](https://academy.amplitude.com/)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
+    
+    Professional Services
+    
+    Drive business success with expert guidance and support](https://amplitude.com/services)
 
 * [Help Center](https://help.amplitude.com/hc/en-us)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
+* [Professional Services](https://amplitude.com/services)
+
+#### Tools
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
+    
+    Benchmarks
+    
+    Understand how your product compares](https://amplitude.com/benchmarks)
+
+* [Benchmarks](https://amplitude.com/benchmarks)
 
 [Resources](https://amplitude.com/blog)
 
@@ -468,18 +608,25 @@
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/6edec72e0d3af5533063242aa2dc03d94daa90be-24x24.svg)
+    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
     
     Blog
     
     Thought leadership from industry experts](https://amplitude.com/blog)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/57a6f02b7db2e440febf612d72d1d1f999aef359-24x24.svg)
+    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
     
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
+    
+    Glossary
+    
+    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
@@ -487,18 +634,11 @@
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
-    
-    Product Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
-* [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
 
@@ -516,19 +656,27 @@
     Events
     
     Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
     
     Customers
     
     Discover why customers love Amplitude](https://amplitude.com/customers)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    
+    Partners
+    
+    Accelerate business value through our ecosystem](https://amplitude.com/partners)
 
 * [Community](https://amplitude.com/community)
 * [Events](https://amplitude.com/events)
 * [Customers](https://amplitude.com/customers)
+* [Partners](https://amplitude.com/partners)
 
-#### Support
+#### Support & Services
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -551,10 +699,30 @@
     Academy & Training
     
     Become an Amplitude pro](https://academy.amplitude.com/)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
+    
+    Professional Services
+    
+    Drive business success with expert guidance and support](https://amplitude.com/services)
 
 * [Help Center](https://help.amplitude.com/hc/en-us)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
+* [Professional Services](https://amplitude.com/services)
+
+#### Tools
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
+    
+    Benchmarks
+    
+    Understand how your product compares](https://amplitude.com/benchmarks)
+
+* [Benchmarks](https://amplitude.com/benchmarks)
 
 [Pricing](https://amplitude.com/pricing)
 
@@ -564,29 +732,32 @@
 
 [Platform](https://amplitude.com/digital-analytics-platform)
 
-#### Platform
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
+
+One platform, countless insights
+
+Get fast and easy access to customer insights at every step of their journey
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+#### Analytics
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/e7e8301bed83cf1ae9cb14d6a216e168c1c544b6-24x24.svg)
+    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
     
-    Analytics
+    Product Analytics
     
     Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Experiment icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Experiment icon](https://cdn.sanity.io/images/l5rq9j6r/production/e764eeb42db7600e0d0cdc301718d5a30bf6ee8f-24x24.svg)
+    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
     
-    Experiment
+    Web Analytics
     
-    Test, analyze, and optimize at scale](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customer Data Platform icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customer Data Platform icon](https://cdn.sanity.io/images/l5rq9j6r/production/c6ed4d447df50deb37de00961e79836c1c953fe4-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
+    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
@@ -594,73 +765,119 @@
     Session Replay
     
     Visualize sessions based on events in your product](https://amplitude.com/session-replay)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
+    
+    Warehouse-native Amplitude
+    
+    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
 
-* [Analytics](https://amplitude.com/amplitude-analytics)
-* [Experiment](https://amplitude.com/amplitude-experiment)
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Product Analytics](https://amplitude.com/amplitude-analytics)
+* [Web Analytics](https://amplitude.com/web-analytics)
 * [Session Replay](https://amplitude.com/session-replay)
+* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
 
-#### Capabilities
+#### Experiment
 
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
+    
+    Feature Experimentation
+    
+    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
+    
+    Web Experimentation
+    
+    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
+    
+    Feature Management
+    
+    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+
+* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
+* [Web Experimentation](https://amplitude.com/web-experimentation)
+* [Feature Management](https://amplitude.com/feature-management)
+
+#### Data
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
+    
+    Customer Data Platform
+    
+    Unite data across teams](https://amplitude.com/customer-data-platform)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
+    
+    Data Governance
+    
+    Complete data you can trust](https://amplitude.com/data-management)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/0018a0a8a98ff37ba0273d18065c38fb7678c24c-24x24.svg)
+    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
     
     Integrations
     
     Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/78936a55c386402b8b88f54e6ce175752fc69246-24x24.svg)
+    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
     
-    Data Management
-    
-    Complete data you can trust](https://amplitude.com/data-governance)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Trust icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Trust icon](https://cdn.sanity.io/images/l5rq9j6r/production/c82c6a96cbeea954714def3451017a8ceeb033b7-24x24.svg)
-    
-    Trust & privacy
+    Security & Privacy
     
     Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![AI Icon](https://cdn.sanity.io/images/l5rq9j6r/production/cea7182bdb8df3256bedfdcd20973ae669ad4dbb-24x24.svg)
+    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
     
     AI
     
     Self-service data meets self-service intelligence](https://amplitude.com/ai)
 
+* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Data Governance](https://amplitude.com/data-management)
 * [Integrations](https://amplitude.com/integrations)
-* [Data Management](https://amplitude.com/data-governance)
-* [Trust & privacy](https://amplitude.com/trust)
+* [Security & Privacy](https://amplitude.com/trust)
 * [AI](https://amplitude.com/ai)
 
 [Platform](https://amplitude.com/digital-analytics-platform)
 
-#### Platform
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
+
+One platform, countless insights
+
+Get fast and easy access to customer insights at every step of their journey
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+
+#### Analytics
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/e7e8301bed83cf1ae9cb14d6a216e168c1c544b6-24x24.svg)
+    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
     
-    Analytics
+    Product Analytics
     
     Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Experiment icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Experiment icon](https://cdn.sanity.io/images/l5rq9j6r/production/e764eeb42db7600e0d0cdc301718d5a30bf6ee8f-24x24.svg)
+    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
     
-    Experiment
+    Web Analytics
     
-    Test, analyze, and optimize at scale](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customer Data Platform icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customer Data Platform icon](https://cdn.sanity.io/images/l5rq9j6r/production/c6ed4d447df50deb37de00961e79836c1c953fe4-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
+    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
@@ -668,50 +885,103 @@
     Session Replay
     
     Visualize sessions based on events in your product](https://amplitude.com/session-replay)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
+    
+    Warehouse-native Amplitude
+    
+    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
 
-* [Analytics](https://amplitude.com/amplitude-analytics)
-* [Experiment](https://amplitude.com/amplitude-experiment)
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Product Analytics](https://amplitude.com/amplitude-analytics)
+* [Web Analytics](https://amplitude.com/web-analytics)
 * [Session Replay](https://amplitude.com/session-replay)
+* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
 
-#### Capabilities
+#### Experiment
 
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
+    
+    Feature Experimentation
+    
+    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
+    
+    Web Experimentation
+    
+    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
+    
+    Feature Management
+    
+    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+
+* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
+* [Web Experimentation](https://amplitude.com/web-experimentation)
+* [Feature Management](https://amplitude.com/feature-management)
+
+#### Data
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
+    
+    Customer Data Platform
+    
+    Unite data across teams](https://amplitude.com/customer-data-platform)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
+    
+    Data Governance
+    
+    Complete data you can trust](https://amplitude.com/data-management)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/0018a0a8a98ff37ba0273d18065c38fb7678c24c-24x24.svg)
+    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
     
     Integrations
     
     Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/78936a55c386402b8b88f54e6ce175752fc69246-24x24.svg)
+    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
     
-    Data Management
-    
-    Complete data you can trust](https://amplitude.com/data-governance)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Trust icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Trust icon](https://cdn.sanity.io/images/l5rq9j6r/production/c82c6a96cbeea954714def3451017a8ceeb033b7-24x24.svg)
-    
-    Trust & privacy
+    Security & Privacy
     
     Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![AI Icon](https://cdn.sanity.io/images/l5rq9j6r/production/cea7182bdb8df3256bedfdcd20973ae669ad4dbb-24x24.svg)
+    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
     
     AI
     
     Self-service data meets self-service intelligence](https://amplitude.com/ai)
 
+* [Customer Data Platform](https://amplitude.com/customer-data-platform)
+* [Data Governance](https://amplitude.com/data-management)
 * [Integrations](https://amplitude.com/integrations)
-* [Data Management](https://amplitude.com/data-governance)
-* [Trust & privacy](https://amplitude.com/trust)
+* [Security & Privacy](https://amplitude.com/trust)
 * [AI](https://amplitude.com/ai)
 
 [Solutions](https://amplitude.com/solutions)
 
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+
+Solutions that drive business results
+
+Deliver customer value and drive business outcomes
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
 #### Industry
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -822,6 +1092,16 @@
 
 [Solutions](https://amplitude.com/solutions)
 
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+
+Solutions that drive business results
+
+Deliver customer value and drive business outcomes
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
+[Amplitude Solutions](https://amplitude.com/solutions)
+
 #### Industry
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -936,18 +1216,25 @@
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/6edec72e0d3af5533063242aa2dc03d94daa90be-24x24.svg)
+    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
     
     Blog
     
     Thought leadership from industry experts](https://amplitude.com/blog)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/57a6f02b7db2e440febf612d72d1d1f999aef359-24x24.svg)
+    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
     
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
+    
+    Glossary
+    
+    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
@@ -955,18 +1242,11 @@
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
-    
-    Product Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
-* [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
 
@@ -984,19 +1264,27 @@
     Events
     
     Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
     
     Customers
     
     Discover why customers love Amplitude](https://amplitude.com/customers)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    
+    Partners
+    
+    Accelerate business value through our ecosystem](https://amplitude.com/partners)
 
 * [Community](https://amplitude.com/community)
 * [Events](https://amplitude.com/events)
 * [Customers](https://amplitude.com/customers)
+* [Partners](https://amplitude.com/partners)
 
-#### Support
+#### Support & Services
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -1019,10 +1307,30 @@
     Academy & Training
     
     Become an Amplitude pro](https://academy.amplitude.com/)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
+    
+    Professional Services
+    
+    Drive business success with expert guidance and support](https://amplitude.com/services)
 
 * [Help Center](https://help.amplitude.com/hc/en-us)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
+* [Professional Services](https://amplitude.com/services)
+
+#### Tools
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
+    
+    Benchmarks
+    
+    Understand how your product compares](https://amplitude.com/benchmarks)
+
+* [Benchmarks](https://amplitude.com/benchmarks)
 
 [Resources](https://amplitude.com/blog)
 
@@ -1030,18 +1338,25 @@
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/6edec72e0d3af5533063242aa2dc03d94daa90be-24x24.svg)
+    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
     
     Blog
     
     Thought leadership from industry experts](https://amplitude.com/blog)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/57a6f02b7db2e440febf612d72d1d1f999aef359-24x24.svg)
+    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
     
     Resource Center
     
     Expertise to guide your growth](https://amplitude.com/resources)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
+    
+    Glossary
+    
+    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
@@ -1049,18 +1364,11 @@
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmark icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmark icon](https://cdn.sanity.io/images/l5rq9j6r/production/fd05129a1decfcbe6580c64213fe040a4de32e23-64x64.svg)
-    
-    Product Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
+* [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
-* [Product Benchmarks](https://amplitude.com/benchmarks)
 
 #### Connect
 
@@ -1078,19 +1386,27 @@
     Events
     
     Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
     
     Customers
     
     Discover why customers love Amplitude](https://amplitude.com/customers)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
+    
+    Partners
+    
+    Accelerate business value through our ecosystem](https://amplitude.com/partners)
 
 * [Community](https://amplitude.com/community)
 * [Events](https://amplitude.com/events)
 * [Customers](https://amplitude.com/customers)
+* [Partners](https://amplitude.com/partners)
 
-#### Support
+#### Support & Services
 
 * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
@@ -1113,10 +1429,30 @@
     Academy & Training
     
     Become an Amplitude pro](https://academy.amplitude.com/)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
+    
+    Professional Services
+    
+    Drive business success with expert guidance and support](https://amplitude.com/services)
 
 * [Help Center](https://help.amplitude.com/hc/en-us)
 * [Developer Hub](https://www.docs.developers.amplitude.com/)
 * [Academy & Training](https://academy.amplitude.com/)
+* [Professional Services](https://amplitude.com/services)
+
+#### Tools
+
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
+    
+    Benchmarks
+    
+    Understand how your product compares](https://amplitude.com/benchmarks)
+
+* [Benchmarks](https://amplitude.com/benchmarks)
 
 [Pricing](https://amplitude.com/pricing)
 
@@ -1460,7 +1796,7 @@ Support
 
 Partners
 
-* [Find a Partner](https://amplitude.com/integrations)
+* [Find a Partner](https://amplitudeape.impartner.org/English/directory/)
 
 Company
 
