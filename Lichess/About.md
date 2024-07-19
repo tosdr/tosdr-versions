@@ -60,13 +60,13 @@ A site the size of Lichess requires many people to maintain it. It also [require
 Press Kit
 ---------
 
-* [9-slide overview of Lichess (PDF)](https://lichess.cdn.prismic.io/lichess/c0245cdd-1fc1-495d-936a-3993848ab90d_PressKit2020.pdf)
-* [Graphics including screenshots, icons, logo, and photos (ZIP)](https://lichess.cdn.prismic.io/lichess/1599c13f-65c0-432d-8545-511cd8f5b0bd_Press+Kit+2020+Images.zip)
+* [9-slide overview of Lichess (PDF)](https://github.com/lichess-org/files/blob/lichess/Press%20Kit/PressKit2020.pdf)
+* [Graphics including screenshots, icons, logo, and photos (GitHub folder)](https://github.com/lichess-org/files/tree/lichess/Press%20Kit)
 
 Streamer Kit
 ------------
 
-* [Overlay, logo, background, and fonts (ZIP)](https://lichess.cdn.prismic.io/lichess/67aa7495-e581-4328-bb67-070f12535648_Streamer-Kit.zip)
+* [Overlay, logo, background, and fonts (GitHub folder)](https://github.com/lichess-org/files/tree/lichess/Streamer%20Kit)
 
 Links
 -----
