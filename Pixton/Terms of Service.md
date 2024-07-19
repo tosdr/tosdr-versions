@@ -9,18 +9,18 @@
 
 [![Pixton](https://www.pixton.com/hubfs/Identity/logos/svg/Pixton%20Logo%20Wht.svg "Pixton")](https://www.pixton.com/)
 
-Terms of Use – Educator / Student version
-=========================================
+Terms of Use - Educator version
+===============================
 
-_Last Update: August, 2023_
+_Last Update: July, 2024_
 
-Welcome to Pixton EDU (Educator version)! The following terms of use and end user license agreement (the “Terms of Use”) constitute an agreement between you, or if you are under the age of majority in your local jurisdiction, you, with the consent of your parent or legal guardian (collectively, “user”, “you” or “your”) and Pixton Comics Inc. and its affiliates and subsidiaries (collectively, “Pixton”, “our”, “us” or “we”). These Terms of Use govern your use of and access to the Site, Content and/or Services (each as specified below).
+Welcome to Pixton (Educator version)! The following terms of use and end user license agreement (the “Terms of Use”) constitute an agreement between you, or if you are under the age of majority in your local jurisdiction, you, with the consent of your parent or legal guardian (collectively, “user”, “you” or “your”) and Pixton Comics Inc. and its affiliates and subsidiaries (collectively, “Pixton”, “our”, “us” or “we”). These Terms of Use govern your use of and access to the Site, Content and/or Services (each as specified below).
 
 For the purposes of these Terms of Use:
 
 “Content” means any expression fixed in a tangible medium and includes, without limitation, ideas, text, graphics, avatars, designs, presets (including but not limited to: backgrounds, scene configurations, characters, outfits, body poses, facial expressions, color filters, overlays, effects), combinations of presets, drawings, logos, images, trademarks, copyrights, information, software, and any intellectual property therein, any of which may be created, submitted, or otherwise made accessible on or through the Site and/or Services.
 
-“Educator” means a teacher or individual employed by an educational institution, or the educational institution itself.
+“Educator” means a teacher or individual employed by an educational institution or otherwise acting in the official capacity of a teacher, or the educational institution itself.
 
 “Pixton Content” means all Content that is not User Generated Content.
 
@@ -62,13 +62,75 @@ You agree that any and all feedback that you may provide to Pixton, whether soli
 
 ### DATA COLLECTION AND OWNERSHIP
 
-Pixton may collect data which is anonymous and associated with your computer which includes, but is not limited to, your city, actions you take within and outside the Content and Services, your hardware/software/firmware, the browser you use, the date and time of your use of the Content and Services, your in-media time, activities and/or purchases (“Usage Data”). You agree that your contribution to the Usage Data will be owned by Pixton without providing compensation to you or any other person and without any liability whatsoever. Usage Data does not include any personal information.
+Pixton may collect data which is anonymous and associated with your computer which includes, but is not limited to, your country, actions you take within the Content and Services, your operating system, the browser you use, the date and time of your use of the Content and Services, activities and/or purchases (“Usage Data”). You agree that your contribution to the Usage Data will be owned by Pixton without providing compensation to you or any other person and without any liability whatsoever. Usage Data does not include any personal information.
 
 ### LAWS AND REGULATIONS
 
 Your access to and use of the Site, Content and/or Services is subject to all applicable international, federal, provincial, state and local laws and regulations.
 
-Specifically, Pixton intends to comply with relevant privacy laws in the jurisdiction of any particular user, including: the _Personal Information Protection and Electronic Documents Act_; the _Personal Information Protection Act_ (“PIPA”) within British Columbia; the _Family Educational Rights and Privacy Act_ (“FERPA”); the California Consumer Privacy Act (“CCPA”) within California; and the _Children’s Online Privacy Protection Act_ (“COPPA”).
+Specifically, Pixton intends to comply with relevant privacy laws in the jurisdiction of any particular user, including:
+
+### Canada
+
+* **Canada**: the Personal Information Protection and Electronic Documents Act (“PIPEDA”)
+* **Alberta**: the Freedom of Information and Protection of Privacy Act (“FOIP”)
+* **British Columbia**: the Personal Information Protection Act (“PIPA”)
+* **Manitoba**: the Freedom of Information and Protection of Privacy Act (“FIPPA”)
+* **Newfoundland**: the Access to Information and Protection of Privacy Act
+* **New Brunswick**: the Right to Information and Protection of Privacy Act
+* **Northwest Territories**: the NWT Access to Information and Protection of Privacy Act
+* **Nova Scotia**: the Freedom of Information and Protection of Privacy Act (“FOIPOP”)
+* **Nunavut**: the Nunavut Access to Information and Protection of Privacy Act
+* **Ontario**: the Municipal Freedom of Information and Protection of Privacy Act (“MFIPPA”)
+* **Prince Edward Island**: the Freedom of Information and Protection of Privacy Act
+* **Québec**: Law 25 / Bill 64
+* **Yukon**: the Access to Information and Protection of Privacy (“ATIPP”)
+* **Saskatchewan**: the Freedom of Information and Protection of Privacy Act (“FOIP”)
+
+### The United States
+
+* **United States**: the Children’s Online Privacy Protection Act (“COPPA”); the Family Educational Rights and Privacy Act (“FERPA”)
+* **California**: the California Consumer Privacy Act (“CCPA”); the Student Online Personal Information Protection Act (“SOPIPA”)
+* **Colorado**: the Colorado Privacy Act (“CPA”)
+* **Connecticut**: the Connecticut Data Privacy Act (“CTDPA”)
+* **Delaware**: the Delaware Personal Data Privacy Act
+* **Georgia**: the Georgia Consumer Privacy Protection Act
+* **Hawaii**: the Hawaii Consumer Data Protection Act
+* **Illinois**: the Student Online Personal Protection Act (“SOPPA”)
+* **Indiana**: the Indiana Consumer Data Protection Act
+* **Iowa**: the Iowa Consumer Data Protection Act
+* **Kentucky**: the Kentucky Consumer Data Act
+* **Louisiana**: the Louisiana Consumer Privacy Act
+* **Maine**: the Maine Consumer Privacy Act; Data Privacy and Protection Act
+* **Maryland**: the Maryland Online Data Privacy Act
+* **Massachusetts**: the Massachusetts Data Privacy Act
+* **Michigan**: the Michigan Personal Data Privacy Act
+* **Minnesota**: the Minnesota Consumer Data Privacy Act
+* **Montana**: the Montana Consumer Data Privacy Act
+* **Nebraska**: the Nebraska Data Privacy Act
+* **New Hampshire**: the New Hampshire Privacy Act
+* **New Jersey**: the New Jersey Privacy Act
+* **New York**: Education Law Section 2-D (“Ed 2d”)
+* **North Carolina**: the North Carolina Consumer Privacy Act
+* **Ohio**: the Ohio Personal Privacy Act
+* **Oregon**: the Oregon Consumer Privacy Act
+* **Pennsylvania**: the Pennsylvania Consumer Data Privacy Act
+* **Rhode Island**: the Rhode Island Data Transparency and Privacy Protection Act
+* **Tennessee**: the Tennessee Information Protection Act
+* **Texas**: the Texas Data Privacy and Security Act
+* **Utah**: the Utah Consumer Privacy Act (“UCPA”)
+* **Vermont**: the Vermont Data Privacy Act
+* **Virginia**: the Virginia Consumer Data Protection Act (“VCDPA”)
+* **West Virginia**: the Consumer Data Protection Act
+* **Washington**: the Student User Privacy in Education Rights (“SUPER”) Act
+* **Wisconsin**: the Wisconsin Data Privacy Act
+
+### International
+
+* **European Union**: GDPR
+* **United Kingdom**: UK GDPR
+* **Australia**: the Privacy Act 1988 and Privacy Principles of Australia (“APP”)
+* **New Zealand**: the Privacy Act 2020 and Privacy Principles of New Zealand
 
 INTELLECTUAL PROPERTY RIGHTS
 ----------------------------
@@ -80,7 +142,7 @@ LIMITED LICENSE
 
 ### GRANT OF LIMITED LICENSE
 
-Subject to your strict compliance with these Terms of Use, Pixton hereby grants you a limited, revocable, non-exclusive, personal, non-transferable license, without the right to sublicense, to access and use the (i) Site, and (ii) Content and/or Services which you have downloaded, installed, purchased or subscribed for, as applicable, only for non-commercial purposes unless otherwise specified in the documentation accompanying the Content and/or Services (“License”). You and your Students shall retain ownership of your User Generated Content, such as original storylines and text. Otherwise, you shall not acquire any ownership rights in any of the Pixton Content, Services or the Site. Except as expressly permitted under these Terms of Use, you will have no rights to, either directly or indirectly, own, use, loan, sell, rent, lease, license, sublicense, assign, copy, translate, transmit, modify, adapt, enhance, improve, create any derivative works from the Site, Content and/or Services, disclose any part or feature of the Site, Content and/or Services that Pixton has not publicly disclosed, or to display, distribute, publicly perform or any other way exploit the Site, Content, Services or the Content in whole or in part. You acknowledge and agree that we may modify, suspend or remove any Content or features of the Site, Content and/or Services at any time and from time to time acting in our sole and absolute discretion. Both Educator Account holders and Student Sub-Account holders are granted a License.
+Subject to your strict compliance with these Terms of Use, Pixton hereby grants you a limited, revocable, non-exclusive, personal, non-transferable license, without the right to sublicense, to access and use the (i) Site, and (ii) Content and/or Services which you have downloaded, installed, purchased or subscribed for, as applicable, only for non-commercial purposes unless you have received permission in writing from Pixton. YOU AND YOUR STUDENTS SHALL RETAIN OWNERSHIP OF YOUR USER GENERATED CONTENT, SUCH AS ORIGINAL STORYLINES AND TEXT. Otherwise, you shall not acquire any ownership rights in any of the Pixton Content, Services or the Site. Except as expressly permitted under these Terms of Use, you will have no rights to, either directly or indirectly, own, use, loan, sell, rent, lease, license, sublicense, assign, copy, translate, transmit, modify, adapt, enhance, improve, create any derivative works from the Site, Content and/or Services, disclose any part or feature of the Site, Content and/or Services that Pixton has not publicly disclosed, or to display, distribute, publicly perform or any other way exploit the Site, Content, Services or the Content in whole or in part. You acknowledge and agree that we may modify, suspend or remove any Content or features of the Site, Content and/or Services at any time and from time to time acting in our sole and absolute discretion. Both Educator Account holders and Student Sub-Account holders are granted a License.
 
 ### LICENSE TERM
 
@@ -89,7 +151,7 @@ The term of your License commences on the date of your acceptance of these Terms
 USER ACCOUNTS
 -------------
 
-In order to access and use certain features of the Site, Content and/or Services you will be required to register an account (the “Account”) through the Site, Content or Services as an Educator, or a Student Sub-Account as a Student user. When you register or update an Educator Account, you will be required to provide us with certain personal information, which may include your name and e-mail address. This information will be retained and used by Pixton in accordance with its Privacy Policy (as amended from time to time, the “Privacy Policy”), which is incorporated by reference into and forms part of these Terms of Use. You agree that all information provided by you will be accurate and complete and that you will promptly update such information if and when it changes.
+In order to access and use certain features of the Site, Content and/or Services you will be required to register an account (the “Account”) through the Site, Content or Services as an Educator, or a Student Sub-Account as a Student user. When you register or update an Educator Account, you will be required to provide us with certain personal information, which may include your name and email address. This information will be retained and used by Pixton in accordance with its Privacy Policy (as amended from time to time, the “Privacy Policy”), which is incorporated by reference into and forms part of these Terms of Use. You agree that all information provided by you will be accurate and complete and that you will promptly update such information if and when it changes.
 
 DESPITE ANY OTHER PROVISION IN THESE TERMS OF USE TO THE CONTRARY, YOU ACKNOWLEDGE AND AGREE THAT YOU DO NOT ACQUIRE ANY OWNERSHIP OR OTHER PROPERTY RIGHT IN YOUR ACCOUNT(S) OR STUDENT SUB-ACCOUNT(S), AS SUCH.
 
@@ -97,15 +159,15 @@ YOU MAY NOT SELL, ASSIGN, TRANSFER, SUBLICENSE, CONVEY OR SHARE WITH ANY OTHER P
 
 ### TYPES OF ACCOUNTS
 
-There are two types of account you can register on the Site. An educator Account (“Educator Account”) which allows a user to access all of the Services, including creating a classroom on the Site and managing the accounts of your students (the “Student Sub-Accounts”). To register a Student Sub-Account, you must receive a registration code or link (the “Classroom Code”) from an Educator Account user. Permitted Minors are only permitted to register Student Sub-Accounts. ANY EDUCATOR WHO PRESENTS A CLASSROOM CODE TO A STUDENT FOR A STUDENT TO REGISTER A STUDENT SUB-ACCOUNT LINKED TO THE EDUCATOR'S ACCOUNT (AND ALL SUCH STUDENT SUB-ACCOUNTS ARE LINKED TO AN EDUCATOR'S ACCOUNT) HEREBY REPRESENTS AND WARRANTS THAT THE EDUCATOR HAS OBTAINED THE NECESSARY CONSENTS FROM THE PARENT OR LEGAL GUARDIAN OF EACH STUDENT AS REQUIRED UNDER THIS TERMS OF USE AND PIXTON'S PRIVACY POLICY.
+There are two types of account you can register on the Site. An educator Account (“Educator Account”) which allows a user to access all of the Services, including creating a classroom on the Site and managing the accounts of your students (the “Student Sub-Accounts”). To register a Student Sub-Account, you must receive a registration code or link (the “Student Login Link”) from an Educator Account user. Permitted Minors are only permitted to register Student Sub-Accounts. ANY EDUCATOR WHO PRESENTS A CLASSROOM CODE TO A STUDENT FOR A STUDENT TO REGISTER A STUDENT SUB-ACCOUNT LINKED TO THE EDUCATOR'S ACCOUNT (AND ALL SUCH STUDENT SUB-ACCOUNTS ARE LINKED TO AN EDUCATOR'S ACCOUNT) HEREBY REPRESENTS AND WARRANTS THAT THE EDUCATOR HAS OBTAINED THE NECESSARY CONSENTS FROM THE PARENT OR LEGAL GUARDIAN OF EACH STUDENT AS REQUIRED UNDER THIS TERMS OF USE AND PIXTON'S PRIVACY POLICY.
 
 ### LOGIN INFORMATION
 
-When you register an Educator Account, you will use Google Single Sign-on and you will be required to permit the Site to access basic information about you, including your name (if any provided to Google Single Sign-on) and email address, and to grant express consent to Pixton to contact you by way of the e-mail address provided (the “Login Information”).
+When you register an Educator Account, you will use Google, Microsoft, or Clever Single Sign-on and you will be required to permit the Site to access basic information about you, including your name (if any provided through Single Sign-on) and email address, and to grant express consent to Pixton to contact you by way of the email address provided (the “Login Information”).
 
-When you register a Student Sub-Account, you will do so upon the provision of a Classroom Code by your teacher. You will use Google Single Sign-on, and the name (if any provided to Google Single Sign-on) and email address associated with your Google account will be shared with the Site. If you register a Student Sub-Account you will not be required to provide your name or any personal information.
+When you register a Student Sub-Account, you will do so upon the provision of a Student Login Link by your teacher. You will use Google or Microsoft Single Sign-on, or the unique username provided to you by your teacher, and the name (if any provided through Single Sign-on) and email address associated with your Google or Microsoft account, if applicable, will be shared with the Site. If you register a Student Sub-Account you will not be required to provide your real name or any personal information. PIXTON WILL NEVER ATTEMPT TO CONTACT STUDENT SUB-ACCOUNT HOLDERS BY EMAIL.
 
-You are responsible for protecting the confidentiality of your Account password and elected Classroom Code(s), and for restricting access to your computer, device or media system platform, and you agree to accept responsibility for all activities that occur under your Account. You are not permitted to share your Account(s) or Login Information or to allow any other person to access to your Account(s). You agree to notify us immediately if you suspect or become aware of any unauthorized use of your password(s), elected Classroom Code(s) or your Account(s), or any other security breach involving your Account(s) or the Site, Content and/or Services at edu@pixton.com. We are not responsible for any unauthorized access of your Account(s) or password(s) even if you have advised us of such. You are responsible for all activities that occur under your Account(s), including but not limited to purchases, whether or not such activities have been authorized by you.
+You are responsible for protecting the confidentiality of your Account password and elected Student Login Link(s), and for restricting access to your computer, device or media system platform, and you agree to accept responsibility for all activities that occur under your Account. You are not permitted to share your Account(s) or Login Information or to allow any other person to access to your Account(s). You agree to notify us immediately if you suspect or become aware of any unauthorized use of your password(s), elected Student Login Link(s) or your Account(s), or any other security breach involving your Account(s) or the Site, Content and/or Services at support@pixton.com. We are not responsible for any unauthorized access of your Account(s) or password(s) even if you have advised us of such. You are responsible for all activities that occur under your Account(s), including but not limited to purchases, whether or not such activities have been authorized by you.
 
 ### ACCESSING YOUR ACCOUNT(S)
 
@@ -117,7 +179,7 @@ Each time that you and/or a Permitted Minor log into and access an Account or St
 
 (c) you and/or the Permitted Minor are accessing the Site and using the Content and/or Services solely for lawful purposes and in strict compliance with these Terms of Use;
 
-(d) you and/or any Permitted Minor are accessing the Site, Content and/or Services solely for your own personal, non-commercial purposes;
+(d) you and/or any Permitted Minor are accessing the Site, Content and/or Services solely for your own personal, non-commercial purposes, unless you have written permission otherwise from Pixton;
 
 (e) you are not, and are not acting on behalf of, any competitor or prospective competitor of Pixton or its affiliates or subsidiaries;
 
@@ -150,7 +212,7 @@ Pixton reserves the right to store information on a user’s computer in the for
 
 ### USER GENERATED CONTENT
 
-You may choose to share UGC outside of the Site through the “Share”, “Print, and/or Download” links on the Site.
+You may choose to share UGC outside of the Site through the “Share”, “Print”, and/or “Download” links on the Site.
 
 Pixton is under no obligation to review any material whatsoever including but not limited to information, images, comics or other user generated content shared by you or any other users and assumes no responsibility or liability relating to any such UGC. Notwithstanding the above, Pixton may from time to time monitor, and/or engage a third party to monitor, the UGC and it shall be a material violation of these Terms of Use for you and/or any Permitted Minor to share or attempt to share any UGC that contains or represents, as determined by Pixton acting in its sole discretion:
 
@@ -173,9 +235,9 @@ Pixton is under no obligation to review any material whatsoever including but no
 E-COMMERCE TRANSACTIONS
 -----------------------
 
-You acknowledge and agree that only an adult (a person who has attained the age of majority in their local jurisdiction) can enter into and complete a transaction involving the payment of money. Payments can only be made by users with Educator Accounts. Student Sub-Account users are not permitted to make purchases, even if the Student is of the age of majority. All payments must be remitted through an account of a payment provider or processor approved by Pixton and you agree to abide by the terms and conditions applicable to that payment method. When you provide any payment account information to Pixton, you represent to Pixton that you are the authorized user of that payment account. Pixton’s approved third party payment provider or processor will automatically charge your chosen method of payment on a recurring basis for applicable fees in relation to your Account(s) or automatically for any additional in-media purchases, plus any applicable taxes we are required to collect, where you authorize us to do so. YOU ARE FULLY LIABLE FOR ALL CHARGES TO YOUR PAYMENT ACCOUNT(S). YOU UNDERSTAND AND AGREE THAT ONCE YOU AUTHORIZE US AND/OR OUR APPROVED PAYMENT PROVIDER OR PROCESSOR TO CHARGE YOUR PAYMENT ACCOUNT(S) AND/OR THE ASSOCIATED CREDIT CARD FOR A CERTAIN AMOUNT, SUCH AMOUNT IS NOT REFUNDABLE IN WHOLE OR IN PART AND UNDER ANY CIRCUMSTANCES, INCLUDING, WITHOUT LIMITATION, UPON TERMINATION OR SUSPENSION OF YOUR ACCOUNT(S) FOR ANY REASON, TERMINATION OF THESE TERMS OF USE AND/OR INTERRUPTION OR DISCONTINUATION OF THE SITE, SOME OR ALL OF THE CONTENT AND/OR SERVICES, EXCEPT AT THE SOLE DISCRETION OF PIXTON. If you choose a recurring subscription or membership to the Site, Content and/or Services, you acknowledge that payments will be processed automatically until you cancel the subscription or the applicable Account(s). In all cases, your order will represent your offer to Pixton to acquire a license to the Content and/or Services ordered, which offer will be deemed to have been accepted by Pixton on the earlier of (i) the appearance and availability for use of that Content and/or Service through your Account(s) or (ii) when your payment account is charged.
+You acknowledge and agree that only an adult (a person who has attained the age of majority in their local jurisdiction) can enter into and complete a transaction involving the payment of money. Payments can only be made by users with Educator Accounts. Student Sub-Account users are not permitted to make purchases, even if the Student is of the age of majority. All payments must be remitted through an account of a payment provider or processor approved by Pixton and you agree to abide by the terms and conditions applicable to that payment method. When you provide any payment account information to Pixton, you represent to Pixton that you are the authorized user of that payment account. Pixton’s approved third party payment provider or processor will automatically charge your chosen method of payment on a recurring basis for applicable fees in relation to your Account(s), plus any applicable taxes we are required to collect, where you authorize us to do so. YOU ARE FULLY LIABLE FOR ALL CHARGES TO YOUR PAYMENT ACCOUNT(S). YOU UNDERSTAND AND AGREE THAT ONCE YOU AUTHORIZE US AND/OR OUR APPROVED PAYMENT PROVIDER OR PROCESSOR TO CHARGE YOUR PAYMENT ACCOUNT(S) AND/OR THE ASSOCIATED CREDIT CARD FOR A CERTAIN AMOUNT, SUCH AMOUNT IS NOT REFUNDABLE IN WHOLE OR IN PART AND UNDER ANY CIRCUMSTANCES, INCLUDING, WITHOUT LIMITATION, UPON TERMINATION OR SUSPENSION OF YOUR ACCOUNT(S) FOR ANY REASON, TERMINATION OF THESE TERMS OF USE AND/OR INTERRUPTION OR DISCONTINUATION OF THE SITE, SOME OR ALL OF THE CONTENT AND/OR SERVICES, EXCEPT AT THE SOLE DISCRETION OF PIXTON. If you choose a recurring subscription or membership to the Site, Content and/or Services, you acknowledge that payments will be processed automatically until you cancel the subscription or the applicable Account(s). In all cases, your order will represent your offer to Pixton to acquire a license to the Content and/or Services ordered, which offer will be deemed to have been accepted by Pixton on the earlier of (i) the appearance and availability for use of that Content and/or Service through your Account(s) or (ii) when your payment account is charged.
 
-**When you sign up for a recurring subscription, membership or other ongoing Content and/or Services, you have the right to cancel the recurring arrangement in writing within seven (7) calendar days after you first entered into the recurring arrangement and you will receive a full refund of any fees paid within thirty (30) days. The period for any auto-renewal or recurring arrangement will be the same as the period you originally ordered unless otherwise disclosed to you at the time of purchase. The charges made in connection with any auto-renewal or recurring arrangements will also be at the same rates as were in effect at the time of your original order unless Pixton gives you prior notice of any change to such charges before such charges are made for any subsequent renewal period. If you cancel an auto-renewal or recurring arrangement after the seven (7) day cancellation period or after you have accessed, downloaded, installed or used the Content and/or Services you ordered, you will not be entitled to a refund and the cancellation will be effective at the end of the then current recurring period unless you request an earlier termination date in writing. Cancellation requests must be submitted by email to Pixton at: edu@pixton.com.**
+**When you sign up for a recurring subscription, membership or other ongoing Content and/or Services, you have the right to cancel the recurring arrangement in writing within seven (7) calendar days after you first entered into the recurring arrangement and you will receive a full refund of any fees paid within thirty (30) days. The period for any auto-renewal or recurring arrangement will be the same as the period you originally ordered unless otherwise disclosed to you at the time of purchase. The charges made in connection with any auto-renewal or recurring arrangements will also be at the same rates as were in effect at the time of your original order unless Pixton gives you prior notice of any change to such charges before such charges are made for any subsequent renewal period. If you cancel an auto-renewal or recurring arrangement after the seven (7) day cancellation period or after you have accessed, downloaded, installed or used the Content and/or Services you ordered, you will not be entitled to a refund and the cancellation will be effective at the end of the then current recurring period unless you request an earlier termination date in writing. Cancellation requests must be submitted by email to Pixton at: support@pixton.com.**
 
 WARRANTIES AND LIMITATION OF LIABILITY
 --------------------------------------
@@ -321,8 +383,8 @@ Schools and Districts
 
 Choose the one that best describes you :
 
-[Student](https://app.pixton.com/#/solo) [Educator](https://app.pixton.com/#/edu) [Parent](https://app.pixton.com/#/parent)
+[Student](https://app.pixton.com/#/solo) [Educator](https://app.pixton.com/#/edu)
 
-**Important!** If you’re a grade school student and you create anything other than a Student account, we will have to delete it.
+**Important!** If you’re a grade school student and you create an Educator account, we will have to delete it.
 
 [?](https://help.pixton.com/ "Pixton Help Center")
