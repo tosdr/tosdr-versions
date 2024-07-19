@@ -26,7 +26,7 @@ My Page
 
 Pearl Abyss Terms of Service Privacy Policy How to Delete the Data Provided at Sign Up Youth Protection Policy Black Desert Terms of Service Operational Policy Event Rules Fan Content Guidelines DokeV, PLAN 8 Privacy Policy Changes
 
-Mar 27, 2024 (UTC) Nov 2, 2022 (UTC) Sep 21, 2022 (UTC) Aug 24, 2022 (UTC) May 25, 2022 (UTC) Apr 27, 2022 (UTC) Mar 18, 2022 (UTC) Feb 9, 2022 (UTC) Nov 24, 2021 (UTC) Oct 29, 2021 (UTC) Oct 20, 2021 (UTC) Sep 10, 2021 (UTC) Sep 1, 2021 (UTC) Apr 29, 2021 (UTC) Jan 27, 2021 (UTC) Aug 6, 2020 (UTC) May 21, 2020 (UTC) Feb 24, 2020 (UTC) Feb 10, 2020 (UTC) Jan 1, 2020 (UTC)
+Mar 27, 2024 (UTC) Nov 2, 2022 (UTC) Sep 21, 2022 (UTC) Aug 24, 2022 (UTC) May 25, 2022 (UTC) Apr 27, 2022 (UTC) Mar 18, 2022 (UTC) Feb 9, 2022 (UTC) Nov 24, 2021 (UTC) Oct 29, 2021 (UTC) Oct 20, 2021 (UTC) Sep 10, 2021 (UTC) Sep 1, 2021 (UTC) Apr 29, 2021 (UTC) Jan 27, 2021 (UTC) Aug 6, 2020 (UTC) May 21, 2020 (UTC) Feb 24, 2020 (UTC) Feb 10, 2020 (UTC) Mar 27, 2024 (UTC)
 
 Privacy Policy
 --------------
