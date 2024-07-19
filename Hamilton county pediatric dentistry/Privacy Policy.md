@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-Get Directions (open in new window) [Call Our Office](tel:317-846-5893) [Open or Close Menu](#sidr-main) [![Hamilton Pediatric Dentistry Logo](data:image/svg+xml;nitro-empty-id=MjUzOjE1Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3MSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.hcpdent.com/)
+[Get Directions (open in new window)](https://www.google.com/maps/place/Hamilton+County+Pediatric+Dentistry/@39.982118,-86.145809,16z/data=!4m5!3m4!1s0x0:0x211d6a521fd48a7f!8m2!3d39.9821182!4d-86.1458087?hl=en-US) [Call Our Office](tel:317-846-5893) [Open or Close Menu](#sidr-main) [![Hamilton Pediatric Dentistry Logo](data:image/svg+xml;nitro-empty-id=MjUzOjE1Mg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE3MSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxNzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.hcpdent.com/)
 
 [317-846-5893](tel:317-846-5893)
 
@@ -214,6 +214,8 @@ Links
 
 Stay Connected
 
+[Facebook Page (open in new window)](https://www.facebook.com/hcpdent/)[Google Page (open in new window)](http://search.google.com/local/writereview?placeid=ChIJ1dHhYDesFIgRf4rUH1JqHSE)[Instagram Page (open in new window)](https://www.instagram.com/hcpdent/)
+
 ### Request An Appointment
 
 * Name\*
@@ -228,7 +230,7 @@ Stay Connected
     
 * How can we help you?
     
-* Name
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
