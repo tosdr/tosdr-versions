@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🐳 [Moby v2024.06.07](https://www.mobygames.com/#n3790)
+🐳 Featured Group: [Gameplay feature: Auto-mapping](https://www.mobygames.com/group/8836/gameplay-feature-auto-mapping/)
 
 Terms of Service
 ================
@@ -132,4 +132,4 @@ In addition to any other available relief, MobyGames and You agree that any comm
 
 © 1999–2024 MobyGames ™
 
-v2024.06.07c
+v2024.07.17a
