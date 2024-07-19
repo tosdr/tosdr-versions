@@ -133,29 +133,29 @@
 
 #### Latest news
 
-[![Outside a polling station in Wales](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/polling-station-web.jpg?width=1920&height=1085&quality=80)
+[![Man on tablet looking at bills](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/man-on-tablet-looking-at-bills.png?width=1920&height=1085&quality=80)
 
-### Helping to dismiss disinformation around the General Election
+### Ofcom bans mid-contract price rises linked to inflation
 
-19 June 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/helping-to-dismiss-disinformation-around-the-general-election/?language=en)
+19 July 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ofcom-bans-mid-contract-price-rises-linked-to-inflation/)
 
-[![Professional cameraman with headphones with HD camcorder in live television](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bulletin-500-web.jpg?width=1920&height=1085&quality=80)
+[![Listed-Events-2024-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/listed-events-2024-web.jpg?width=1920&height=1085&quality=80)
 
-### Marking 500 Broadcast Bulletins
+### What will future rules around showing major sporting events look like?
 
-17 June 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/marking-500-broadcast-bulletins/)
+18 July 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/listed-sporting-events/what-will-future-rules-around-showing-major-sporting-events-look-like/)
 
-[![election-web](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/election-web.jpg?width=1920&height=1085&quality=80)
+[![A person looking at the Welsh BBC news site on a tablet device](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ol-web.jpg?width=1920&height=1085&quality=80)
 
-### Ofcom’s role in a General Election – what you need to know
+### Review of the BBC’s materiality assessment of proposed new music streams on BBC Sounds
 
-29 May 2024](https://www.ofcom.org.uk/about-ofcom/what-we-do/ofcoms-role-in-a-general-election--what-you-need-to-know/)
+16 July 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/review-of-the-bbcs-materiality-assessment-of-proposed-new-music-streams-on-bbc-sounds/)
 
-[![Global Online Safety Regulators Network logo](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/gosrn-web.jpg?width=1920&height=1085&quality=80)
+[![The Glastonbury festival 2024](/siteassets/resources/images/-news-centre/thumbnail-images/spectrum/glasto-2024-web.jpg?width=1920&height=1085&quality=80)
 
-### Global online safety regulators map out vision to improve international coordination
+### Ofcom at Glastonbury 2024
 
-24 May 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-map-out-vision-to-improve-international-coordination/)
+5 July 2024](https://www.ofcom.org.uk/spectrum/radio-equipment/ofcom-at-glastonbury-2024/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
@@ -441,21 +441,21 @@ Should you wish to confirm whether or not Ofcom holds personal data about you, r
 
 If it would be helpful, you can use the form below to make your request:
 
-**[Request form (PDF, 138.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.pdf)**
+**[Request form (PDF, 138.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.pdf?v=331405)**
 
-**[Request form (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.rtf)**
+**[Request form (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-protection-subject-request-form.rtf?v=215414)**
 
 You can also make a subject access request over the phone by speaking to Ofcom's Consumer Contact Team on 0300 123 3333 or 020 7981 3040.
 
 Should you wish to make a request for personal data that we may hold about someone other than yourself, for example because you are carrying out an investigation under statutory powers, you may wish to use one of the following forms:
 
-**[Request form - Law enforcement agencies (PDF, 104.7 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.pdf)**
+**[Request form - Law enforcement agencies (PDF, 104.7 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.pdf?v=334279)**
 
-**[Request form - Law enforcement agencies (RTF, 745.2 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.rtf)**
+**[Request form - Law enforcement agencies (RTF, 745.2 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-.rtf?v=215762)**
 
-**[Request form - Law enforcement agencies (Marine division) (PDF, 105.6 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-marine-division.pdf)**
+**[Request form - Law enforcement agencies (Marine division) (PDF, 105.6 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-marine-division.pdf?v=334786)**
 
-**[Request form - Law enforcement agencies (Marine division) (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-marine-division.rtf)**
+**[Request form - Law enforcement agencies (Marine division) (RTF, 748.1 KB)](https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/request-forms/data-request-form-law-enforcement-agencies-marine-division.rtf?v=215811)**
 
 Ofcom’s handing of personal data is overseen by our Corporation Secretary, who is Ofcom’s Data Protection Officer. Should you wish to query the way Ofcom is handling your personal data or submit a complaint about this you should address this to our Data Protection Officer at:
 
