@@ -1,66 +1,106 @@
-      
+[Skip to content](#main-content)
 
-[![Martinez Tool Company](https://martineztools.com/wp-content/uploads/2021/06/cropped-MARTINEZ-LOGO-2-300x226w.png)](https://martineztools.com/) [![Logo](https://martineztools.com/wp-content/uploads/2021/05/MARTINEZ-LOGO-2.png)](https://martineztools.com/)
+ [![Martinez Tool Company logo -  Martinez Tool Co.](//martineztools.com/cdn/shop/files/MartinezLogo.svg?v=1718976597&width=90)](https://martineztools.com/)
 
-###### [Martinez Tool Company](https://martineztools.com/)
+ 
 
-* Products search 
-    
-     
-    
-* [Customize Your Martinez Titanium Hammer](https://martineztools.com/build/)
-* [Customize Your Martinez Rapid Square](https://martineztools.com/build-your-custom-square/)
+Search Search Reset 
+
+[Log in](https://martineztools.com/customer_identity/redirect?locale=en) [Cart](https://martineztools.com/cart)
+
+Menu
 
 * [Home](https://martineztools.com/)
-* [About](#)
-    * [About our Workmanship](https://martineztools.com/about-our-workmanship/)
-    * [Meet Mark Martinez](https://martineztools.com/meet-mark-martinez/)
-    * [Spec Sheets + Videos](https://martineztools.com/product-information-and-videos/)
-    * [Martinez Tool Co. Blog](https://martineztools.com/martinez-tool-co-blog/)
-    * [Charitable Giving](https://martineztools.com/charitable-giving/)
-* [Shop All](https://martineztools.com/shop/)
+* [Shop All](https://martineztools.com/pages/shop-all)
 * [Hammers](#)
-    * [M1 15oz Framing Hammers](https://martineztools.com/product-category/m1-15oz-framing-hammer/)
-    * [M4 12oz Finish Hammers](https://martineztools.com/product-category/m4-12oz-finish-hammer/)
-    * [Build Your Customized Martinez Hammer](https://martineztools.com/build/)
-    * [Best Sellers – Custom Hammers](https://martineztools.com/product-category/best-sellers-custom-hammers/)
-* [Hammer Parts + Accessories](#)
-    * [Heads](https://martineztools.com/product-category/hammer-parts-and-accessories/heads/)
-    * [Hammer Accessories](https://martineztools.com/product-category/hammer-parts-and-accessories/hammer-accessories)
-    * [Replacement Grips](https://martineztools.com/product-category/hammer-parts-and-accessories/replacement-grips/)
-    * [Titanium Handles – M1 16″ Framing](https://martineztools.com/product-category/titanium-handles-m1)
-    * [Titanium Handles – M4 14″ Finishing](https://martineztools.com/product-category/titanium-handles-m4)
-* [Squares + Other Tools](https://martineztools.com/product-category/other-tools/)
-    * [Build Your Customized Martinez Rapid Square](https://martineztools.com/build-your-custom-square/)
-    * [Rapid Square Heels & Accessories](https://martineztools.com/product-category/other-tools/rapid-square-heels-and-accessories/)
-    * [Large Framing Squares](https://martineztools.com/product-category/other-tools/large-framing-squares/)
-    * [12-inch Rapid Square](https://martineztools.com/product/precision-12-inch-aluminum-rapid-square/)
-    * [Micro Squares](https://martineztools.com/product-category/micro-squares/)
-    * [Stair Gauges](https://martineztools.com/product-category/other-tools/stair-gauge/)
-    * [Titanium Pry Bar](https://martineztools.com/product/martinez-tool-co-titanium-pry-bar/)
-    * [Pencils and Keel Holder](https://martineztools.com/product-category/other-tools/pencils-keel/)
-    * [STICKER PACK](https://martineztools.com/product/martinez-tool-co-sticker-pack/)
-* [Apparel](https://martineztools.com/product-category/apparel/)
-    * [Hats & Shirts](https://martineztools.com/product-category/apparel/hats/)
-* [Contact Us](https://martineztools.com/contact-us/)
-    * [Contact Us Now](https://martineztools.com/contact-us/)
-    * [Product Informational Videos](https://martineztools.com/product-information-and-videos-2/)
-    * [Product Spec Sheets, Instructions and Videos](https://martineztools.com/product-information-and-videos/)
-    * [Shipping and Returns](https://martineztools.com/shipping-returns/)
-    * [Warranty Policy](https://martineztools.com/warranty-policy/)
-    * [FAQ](https://martineztools.com/faq/)
-    * [Military Discount](https://martineztools.com/military-discount/)
-    * [Order Tracking](https://martineztools.com/order-tracking/)
-    * [Your Cart](https://martineztools.com/cart/)
+    
+    * Back
+        
+    * [Hammers](#)
+    * [Build Your Custom Hammer](https://martineztools.com/products/hammer-configurator)
+    * [Best Sellers Hammers](https://martineztools.com/collections/best-sellers-hammers)
+    * [Assembled Hammers](https://martineztools.com/collections/assembled-hammers)
+        
+        * [M1 15oz Framing Hammers](https://martineztools.com/collections/m1-15oz-framing-hammers)
+        * [M4 12oz Finish Hammers](https://martineztools.com/collections/m4-12oz-finish-hammers)
+        * [Polished Hammers](https://martineztools.com/collections/polished-hammers)
+        * [All Assembled Hammers](https://martineztools.com/collections/assembled-hammers)
+        
+    * [Hammer Parts](https://martineztools.com/collections/hammer-parts)
+        
+        * [Replacement Hammer Grips](https://martineztools.com/collections/replacement-hammer-grips)
+        * [Hammer Heads](https://martineztools.com/collections/hammer-heads)
+        * [Titanium Handles – M1 16” Framing](https://martineztools.com/collections/titanium-handles-m1-16-framing)
+        * [Titanium Handles – M4 14” Finishing](https://martineztools.com/collections/titanium-handles-m4-14-finishing)
+        * [All Hammer Parts](https://martineztools.com/collections/hammer-parts)
+        
+    * [Hammer Accessories](https://martineztools.com/collections/hammer-accessories)
+    * [All Hammers, Parts & Accessories](https://martineztools.com/collections/hammers-parts-accessories)
+    
+* [Squares](#)
+    
+    * Back
+        
+    * [Squares](#)
+    * [Build Your Custom Rapid Square](https://martineztools.com/products/mtc-square-configurator)
+    * [Best Sellers Squares](https://martineztools.com/collections/best-sellers-squares)
+    * [Micro Squares](https://martineztools.com/collections/micro-squares)
+    * [Large Framing Squares](https://martineztools.com/collections/large-framing-squares)
+    * [Rapid Squares](https://martineztools.com/collections/rapid-squares)
+    * [Rapid Square Blades & Accessories](https://martineztools.com/collections/rapid-square-blades-accessories)
+    * [All Squares & Accessories](https://martineztools.com/collections/squares)
+    
+* [Specialty Tools](#)
+    
+    * Back
+        
+    * [Specialty Tools](#)
+    * [Titanium Pry Bars](https://martineztools.com/collections/titanium-pry-bars)
+    * [Pencils & Keel Holders](https://martineztools.com/collections/pencils-keel-holders)
+    * [Stair Gauges](https://martineztools.com/collections/stair-gauges)
+    * [Stickers](https://martineztools.com/collections/stickers)
+    * [All Specialty Tools](https://martineztools.com/collections/specialty-tools)
+    
+* [Apparel](#)
+    
+    * Back
+        
+    * [Apparel](#)
+    * [Hats](https://martineztools.com/collections/hats)
+    
+* [About Us](#)
+    
+    * Back
+        
+    * [About Us](#)
+    * [Our Workmanship](https://martineztools.com/pages/about-our-workmanship)
+    * [Meet Mark Martinez](https://martineztools.com/pages/meet-mark-martinez)
+    * [Charitable Giving](https://martineztools.com/pages/charitable-giving)
+    * [Martinez Tool Co. Blog](https://martineztools.com/blogs/martinez-tool-co-blog)
+    
+* [Support](#)
+    
+    * Back
+        
+    * [Support](#)
+    * [Contact Us](https://martineztools.com/pages/contact)
+    * [Track Your Order](https://martineztools.myshopify.com/tools/ordertracking)
+    * [Shipping Policy](https://martineztools.com/policies/shipping-policy)
+    * [Warranty Policy](https://martineztools.com/pages/warranty-policy)
+    * [Return Policy](https://martineztools.com/pages/return-policy)
+    * [FAQ](https://martineztools.com/pages/faq)
+    * [Military Discount](https://martineztools.com/pages/military-discount)
+    * [Product Informational Videos](https://martineztools.com/blogs/videos)
+    
 
-[USD $0.00 0](https://martineztools.com/cart/ "View your shopping cart")
+* Customize
+* [Hammer](https://martineztools.com/products/hammer-configurator)
+* [Square](https://martineztools.com/products/mtc-square-configurator)
 
-[](#sidr)
-
-Terms of Service
+Terms of service
 ================
 
-OVERVIEW
+#### Overview
 
 This website is operated by Martinez Tool Co. Throughout the site, the terms “we”, “us” and “our” refer to Martinez Tool Co.. Martinez Tool Co. offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 
@@ -70,9 +110,10 @@ Please read these Terms of Service carefully before accessing or using our websi
 
 Any new features or tools which are added to the current store shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.
 
-Our store is hosted on WooCommerce. They provide us with an online e-commerce platform that allows us to sell our products and Services to you.
+Our store is hosted on Shopify. They provide us with an online e-commerce platform that allows us to sell our products and Services to you.
 
-SECTION 1 – ONLINE STORE TERMS
+##### SECTION 1  
+Online store terms
 
 By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
@@ -82,7 +123,8 @@ You must not transmit any worms or viruses or any code of a destructive nature.
 
 A breach or violation of any of the Terms will result in an immediate termination of your Services.
 
-SECTION 2 – GENERAL CONDITIONS
+##### SECTION 2  
+General conditions
 
 We reserve the right to refuse service to anyone for any reason at any time.
 
@@ -92,13 +134,15 @@ You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion
 
 The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.
 
-SECTION 3 – ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION
+##### SECTION 3  
+Accuracy, completeness and timeliness of information
 
 We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.
 
 This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.
 
-SECTION 4 – MODIFICATIONS TO THE SERVICE AND PRICES
+##### SECTION 4  
+Modifications to the service and prices
 
 Prices for our products are subject to change without notice.
 
@@ -106,9 +150,10 @@ We reserve the right at any time to modify or discontinue the Service (or any pa
 
 We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
 
-SECTION 5 – PRODUCTS OR SERVICES (if applicable)
+##### SECTION 5  
+Products or services (if applicable)
 
-Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our Return Policy. To view our Return Policy, please visit [https://martineztools.com/shipping-returns/](https://martineztools.com/shipping-returns/)
+Certain products or Services may be available exclusively online through the website. These products or Services may have limited quantities and are subject to return or exchange only according to our [Return Policy](https://martineztools.com/pages/return-policy "Return Policy").
 
 We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor’s display of any color will be accurate.
 
@@ -116,7 +161,8 @@ We reserve the right, but are not obligated, to limit the sales of our products 
 
 We do not warrant that the quality of any products, Services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
 
-SECTION 6 – ACCURACY OF BILLING AND ACCOUNT INFORMATION
+##### SECTION 6  
+Accuracy of billing and account information
 
 We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
 
@@ -124,7 +170,8 @@ You agree to provide current, complete and accurate purchase and account informa
 
 For more detail, please review our Returns Policy.
 
-SECTION 7 – OPTIONAL TOOLS
+##### SECTION 7  
+Optional tools
 
 We may provide you with access to third-party tools over which we neither monitor nor have any control nor input.
 
@@ -134,7 +181,8 @@ Any use by you of the optional tools offered through the site is entirely at you
 
 We may also, in the future, offer new Services and/or features through the website (including, the release of new tools and resources). Such new features and/or Services shall also be subject to these Terms of Service.
 
-SECTION 8 – THIRD-PARTY LINKS
+##### SECTION 8  
+Third-party links
 
 Certain content, products and Services available via our Service may include materials from third-parties.
 
@@ -142,7 +190,8 @@ Third-party links on this site may direct you to third-party websites that are n
 
 We are not liable for any harm or damages related to the purchase or use of goods, Services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party’s policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
 
-SECTION 9 – USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS
+##### SECTION 9  
+User comments, feedback and other submissions
 
 If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, ‘comments’), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.
 
@@ -150,17 +199,20 @@ We may, but have no obligation to, monitor, edit or remove content that we deter
 
 You agree that your comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e-mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third-party.
 
-SECTION 10 – PERSONAL INFORMATION
+##### SECTION 10  
+Personal information
 
-Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy, please see [\[LINK TO PRIVACY POLICY\]](https://martineztools.com/privacy-policy/)
+Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy, please see our [Privacy Policy](https://martineztools.com/policies/privacy-policy "Privacy Policy").
 
-SECTION 11 – ERRORS, INACCURACIES AND OMISSIONS
+##### SECTION 11  
+Errors, inaccuracies and omissions
 
 Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).
 
 We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.
 
-SECTION 12 – PROHIBITED USES
+##### SECTION 12  
+Prohibited uses
 
 In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content:
 
@@ -168,7 +220,8 @@ In addition to other prohibitions as set forth in the Terms of Service, you are 
 
 (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
 
-SECTION 13 – DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+##### SECTION 13  
+Disclaimer of warranties; limitation of liability
 
 We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.
 
@@ -182,15 +235,18 @@ In no case shall Martinez Tool Co., our directors, officers, employees, affiliat
 
 Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
 
-SECTION 14 – INDEMNIFICATION
+##### SECTION 14  
+Indemnification
 
 You agree to indemnify, defend and hold harmless Martinez Tool Co. and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
 
-SECTION 15 – SEVERABILITY
+##### SECTION 15  
+Severability
 
 In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.
 
-SECTION 16 – TERMINATION
+##### SECTION 16  
+Termination
 
 The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.
 
@@ -198,7 +254,8 @@ These Terms of Service are effective unless and until terminated by either you o
 
 If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).
 
-SECTION 17 – ENTIRE AGREEMENT
+##### SECTION 17  
+Entire agreement
 
 The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.
 
@@ -206,104 +263,86 @@ These Terms of Service and any policies or operating rules posted by us on this 
 
 Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.
 
-SECTION 18 – GOVERNING LAW
+##### SECTION 18  
+Governing law
 
 These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of United States.
 
-SECTION 19 – CHANGES TO TERMS OF SERVICE
+##### SECTION 19  
+Changes to terms of service
 
 You can review the most current version of the Terms of Service at any time at this page.
 
 We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
 
-SECTION 20 – CONTACT INFORMATION
+Have any questions?
+-------------------
 
-Questions about the Terms of Service should be sent to us at [info@martineztools.com](mailto:info@martineztools.com).
+For further details or inquiries, please feel free to contact us if you have any questions.
 
-###### PREMIUM TOOLS
+[Contact Us](https://martineztools.com/pages/contact)
 
-![](https://martineztools.com/wp-content/uploads/2021/05/veteran-150x150.png)
-
-###### MANUFACTURED IN THE USA
-
-![](https://martineztools.com/wp-content/uploads/2021/05/3394772-e1625083953339.png)
-
-###### WORKMANSHIP 100% GUARANTEED
-
-![](https://martineztools.com/wp-content/uploads/2021/05/guarantee-e1625084168108.png)
-
-![](https://martineztools.com/wp-content/uploads/2021/05/MARTINEZ-favicon-300x300.png)
-
-Copyright © 2024 · All Rights Reserved · Martinez Tool Company
-
-Site by [Wallace Design](https://wallacedesign.net/)  
-  
-[Privacy Policy](https://martineztools.com/privacy-policy/) | [Terms of Service](https://martineztools.com/terms-of-service/) | [Returns Policy](https://martineztools.com/return-policy/) | [Sweepstakes Rules](https://martineztools.com/sweepstakes-rules/)
-
-* [Instagram](https://www.instagram.com/martineztools/)
-* [YouTube](https://www.youtube.com/channel/UCiSMcLzGeebQMdHSeZnfpeA)
-
-We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.
-
-Cookie settingsACCEPT
-
-Manage consent
+Your cart
+---------
 
 Close
 
-#### Privacy Overview
+Your cart is empty
 
-This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+[Start shopping](https://martineztools.com/pages/shop-all)
 
-Necessary
+Subtotal:$0.00 USD
 
- Necessary
+Loading...
 
-Always Enabled
+![Martinez Tool Company footer logo -  Martinez Tool Co.](//martineztools.com/cdn/shop/files/MartinezLogoBlack.svg?v=1718958835&width=150)
 
-Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+* [Instagram](https://www.instagram.com/martineztools/ "Martinez Tool Co. on Instagram")
+* [YouTube](https://www.youtube.com/@MartinezToolCompany/ "Martinez Tool Co. on YouTube")
 
-| Cookie | Duration | Description |
-| --- | --- | --- |
-| cookielawinfo-checbox-analytics | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". |
-| cookielawinfo-checbox-functional | 11 months | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional". |
-| cookielawinfo-checbox-others | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other. |
-| cookielawinfo-checkbox-necessary | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary". |
-| cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
-| viewed\_cookie\_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
+About Us
+--------
 
-Functional
+* [Our Workmanship](https://martineztools.com/pages/about-our-workmanship)
+* [Meet Mark Martinez](https://martineztools.com/pages/meet-mark-martinez)
+* [Charitable Giving](https://martineztools.com/pages/charitable-giving)
+* [Martinez Tool Co. Blog](https://martineztools.com/blogs/martinez-tool-co-blog)
 
- Functional
+Delivery & Warranty
+-------------------
 
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+* [Shipping Policy](https://martineztools.com/policies/shipping-policy)
+* [Warranty Policy](https://martineztools.com/pages/warranty-policy)
+* [Return Policy](https://martineztools.com/pages/return-policy)
+* [FAQ](https://martineztools.com/pages/faq)
+* [Contact Us](https://martineztools.com/pages/contact)
 
-Performance
+Sign Up to Our Newsletter
+-------------------------
 
- Performance
+Sign up for exclusive offers, original stories, events and more.
 
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+ 
 
-Analytics
+Email
 
- Analytics
+ Subscribe
 
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+* * *
 
-Advertisement
+Copyright © 2024 · All Rights Reserved · Martinez Tool Company
 
- Advertisement
+[Privacy Policy](https://martineztools.com/policies/privacy-policy) [Terms of Service](https://martineztools.com/policies/terms-of-service) [Sweepstakes Rules](https://martineztools.com/pages/sweepstakes-rules)
 
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Back
 
-Others
+Choose options
+--------------
 
- Others
+Close
 
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+Close
 
-SAVE & ACCEPT
+Item added to your cart.
 
-🇺🇸 Free US shipping over $149 🇺🇸
-
-CLOSE
+[View Сart](https://martineztools.com/cart)
