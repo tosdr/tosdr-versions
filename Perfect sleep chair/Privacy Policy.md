@@ -1,4 +1,4 @@
-![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                           
+![](https://p.alocdn.com/c/mm7och2x/a/etarget/p.gif?label=journeyhlthlife)                       
 
 [Skip to content](#MainContent)
 
@@ -62,7 +62,7 @@ Search
     
     [![](//www.shopjourney.com/cdn/shop/files/UPWalker_Premium_Lite_Hero.webp?v=1685629891)](https://www.perfectsleepchair.com/products/upwalker-premium-lite)
     
-    #### [UPWalker Premium Lite Drk Luster Silver](https://www.perfectsleepchair.com/products/upwalker-premium-lite)
+    #### [UPWalker Premium Lite (New Model)](https://www.perfectsleepchair.com/products/upwalker-premium-lite)
     
     Expand your mobility options and enjoyment with the...
     
@@ -180,7 +180,6 @@ Search
     
     Free Shipping
     
-* [New Deals](https://www.perfectsleepchair.com/collections/2024-new-year-specials "New Deals")
 * [Clearance](https://www.perfectsleepchair.com/collections/clearance "Clearance")
 * [About Us](https://www.shopjourney.com/pages/about-our-company "About Us")
 
@@ -240,7 +239,7 @@ Search
         
         [![](//www.shopjourney.com/cdn/shop/files/UPWalker_Premium_Lite_Hero.webp?v=1685629891)](https://www.perfectsleepchair.com/products/upwalker-premium-lite)
         
-        #### [UPWalker Premium Lite Drk Luster Silver](https://www.perfectsleepchair.com/products/upwalker-premium-lite)
+        #### [UPWalker Premium Lite (New Model)](https://www.perfectsleepchair.com/products/upwalker-premium-lite)
         
         Expand your mobility options and enjoyment with the...
         
@@ -373,7 +372,6 @@ Search
         
         Free Shipping
         
-* [New Deals](https://www.perfectsleepchair.com/collections/2024-new-year-specials)
 * [Clearance](https://www.perfectsleepchair.com/collections/clearance)
 * [About Us](https://www.shopjourney.com/pages/about-our-company)
 
@@ -420,7 +418,7 @@ Perfect Sleep Chair
 
 Rated 4.8 out of 5 stars
 
-55 Reviews
+56 Reviews
 
 Build your Perfect Sleep Chair in these 2 easy steps below!
 
@@ -455,7 +453,7 @@ Zone Comparison
 
 Two Zones of Relaxation for Classic Comfort
 
-![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?25924)
+![Two Zones](//www.shopjourney.com/cdn/shop/t/75/assets/two_zones.png?27647)
 
 Five Zones of Relaxation for Ultimate Enjoyment
 
@@ -763,15 +761,15 @@ Zero gravity (also called neutral body posture) was first discovered by NASA to 
 
 Rated 4.8 out of 5 stars
 
-Based on 55 reviews
+Based on 56 reviews
 
 5
 
 Rated out of 5 stars
 
-45
+46
 
-Total 5 star reviews: 45
+Total 5 star reviews: 46
 
 4
 
@@ -807,23 +805,49 @@ Total 1 star reviews: 0
 
 **100%**would recommend this product
 
-Product QualityRated 5.0 on a scale of 1 to 5
+Product QualityRated 4.9 on a scale of 1 to 5
 
 Poor Excellent
 
 * 
 * 
 
-Reviews 55(tab expanded) Questions (tab collapsed)
+Reviews 56(tab expanded) Questions (tab collapsed)
 
 Filters
 
 [Write a Review (Opens in a new window)](https://okendo.reviews/?subscriberId=8621a839-7b05-4bd3-a484-ab0b23489b38&productId=shopify-7199302877267&locale=en)
 
-55 reviews
+56 reviews
 
 Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeast Helpful
 
+* **Patti P.**
+    
+    Verified Reviewer
+    
+    I recommend this product
+    
+    **Product Standouts** Easy to Sleep in, Comfort, Independence
+    
+    Rated 5 out of 5 stars
+    
+    July 2, 2024
+    
+    Leather look is peeling:(
+    
+    I bought the perfect sleeper lift chair for my husband in 2017. We love it… but didn’t get real leather… and it flaking off and looks horrible… seat, arms, and foot rest. I bought it when they were carried by First Street. Do they make a slip cover for it? I imagine having it recovered would be pretty costly:(. Any ideas? Patti P
+    
+    Read More
+    
+    Product QualityRated 4.0 on a scale of 1 to 5
+    
+    Poor Excellent
+    
+    Was this helpful?
+    
+    Yes, this review was helpful. 3 people voted yesNo, this review was not helpful 2 people voted no
+    
 * **Dale E. W.**
     
     Verified Reviewer
@@ -852,7 +876,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful. 17 people voted yesNo, this review was not helpful 2 people voted no
+    Yes, this review was helpful. 24 people voted yesNo, this review was not helpful 3 people voted no
     
     **JH** 
     
@@ -888,7 +912,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful. 33 people voted yesNo, this review was not helpful 4 people voted no
+    Yes, this review was helpful. 37 people voted yesNo, this review was not helpful 4 people voted no
     
 * **Ray P.**
     
@@ -914,7 +938,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful. 4 people voted yesNo, this review was not helpful 10 people voted no
+    Yes, this review was helpful. 6 people voted yesNo, this review was not helpful 10 people voted no
     
 * **Terri B.**
     
@@ -940,42 +964,14 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful. 10 people voted yesNo, this review was not helpful 14 people voted no
-    
-* **Phyllis**
-    
-    Verified Reviewer
-    
-    I recommend this product
-    
-    **Product Standouts** Quality Fabric, Easy to Sleep in, Comfort, Independence
-    
-    Rated 5 out of 5 stars
-    
-    September 10, 2023
-    
-    Satisfied Customer
-    
-    It’s been absolutely perfect for our mother. It was purchased, because she refused to sleep in a bed, thus causing pressure areas. We were extremely concerned about skin breakdown and her comfort. We chose the top of the line materials. She has used the chair for one year in a dementia unit. Once delivered, we chose not to connect the vibration/heat components for safety reasons. There has been no breakdown, it cleans easily. The therapy department is going to recommend your chair to other families who need one for their family member.
-    
-    Read More
-    
-    Product QualityRated 5.0 on a scale of 1 to 5
-    
-    Poor Excellent
-    
-    * 
-    
-    Was this helpful?
-    
-    Yes, this review was helpful. 35 people voted yesNo, this review was not helpful 11 people voted no
+    Yes, this review was helpful. 15 people voted yesNo, this review was not helpful 14 people voted no
     
 
 Loading...
 
 Loading...
 
-[Show More](https://www.perfectsleepchair.com/privacy-policy/?okeReviewsNextUrl=https%253A%252F%252F5i27ysv3j8.execute-api.us-west-2.amazonaws.com%252Fprod%252Fstores%252F8621a839-7b05-4bd3-a484-ab0b23489b38%252Fproducts%252Fshopify-7199302877267%252Freviews%253Flimit%253D5%2526orderBy%253Ddate%252520desc%2526lastEvaluated%253D%25257B%252522subscriberId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%252522%25252C%252522dateCreated%252522%25253A%2525222023-09-10T21%25253A55%25253A06.290Z%252522%25252C%252522subscriberId_productId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%25253Ashopify-7199302877267%252522%25252C%252522reviewId%252522%25253A%252522ced4c86b-41e7-4822-9e88-d0ece263cfc4%252522%25257D&okeReviewsPageNum=2)
+[Show More](https://www.perfectsleepchair.com/privacy-policy/?okeReviewsNextUrl=https%253A%252F%252F5i27ysv3j8.execute-api.us-west-2.amazonaws.com%252Fprod%252Fstores%252F8621a839-7b05-4bd3-a484-ab0b23489b38%252Fproducts%252Fshopify-7199302877267%252Freviews%253Flimit%253D5%2526orderBy%253Ddate%252520desc%2526lastEvaluated%253D%25257B%252522subscriberId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%252522%25252C%252522dateCreated%252522%25253A%2525222023-09-14T16%25253A33%25253A18.218Z%252522%25252C%252522subscriberId_productId%252522%25253A%2525228621a839-7b05-4bd3-a484-ab0b23489b38%25253Ashopify-7199302877267%252522%25252C%252522reviewId%252522%25253A%25252286ba3952-ec15-45e1-90b2-d06ff78105f6%252522%25257D&okeReviewsPageNum=2)
 
 Reviews LoadedReviews Added
 
@@ -1007,12 +1003,12 @@ Reviews LoadedReviews Added
     * [M-F 9am - 7pm EST  
         Sat 10am - 6pm EST  
         Sunday closed  
-        Closed Christmas, Thanksgiving, and New Year's Day](#)
+        Closed 4th of July, Christmas, Thanksgiving, and New Year's Day](#)
     * [**Customer Service hours:**](#)
     * [M-F 9am - 6pm EST  
         Sat 12pm to 4pm EST  
         Sunday closed  
-        Closed Christmas, Thanksgiving, and New Year's Day](#)
+        Closed 4th of July, Christmas, Thanksgiving, and New Year's Day](#)
 
 ![Purchase Security Protection](//www.shopjourney.com/cdn/shop/files/purchase-protection.png?v=1651090548)
 
