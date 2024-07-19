@@ -33,6 +33,8 @@
 General Terms and Conditions
 ============================
 
+Last update: March 10, 2022
+
 Contents
 --------
 
@@ -52,7 +54,7 @@ Contents
 14. [Art. 14 Availability](#section14)
 15. [Art. 15 Warranty for defects and limitation of liability](#section15)
 16. [Art. 16 Data protection](#section16)
-17. [Art 17 Dispute Resolution outside of the Court](#section17)
+17. [Art. 17 Dispute Resolution outside of the Court](#section17)
 18. [Art. 18 Choice of law / Place of jurisdiction](#section18)
 
 Art. 1 Validity of the GTC, changes to the GTC
@@ -268,5 +270,4 @@ Art. 18 Choice of law / Place of jurisdiction
 1. **18.1** This agreement is subject to the laws of the Federal Republic of Germany with the exclusion of the UN Convention on Contracts for the International Sale of Goods (CISG) and the exclusion of the rules on conflict of laws.
 2. **18.2** For disputes with you, the legal place of jurisdiction shall apply as far as you have a general place of jurisdiction in the Federal Republic of Germany. For disputes arising from legal business transactions with merchants, legal entities under public law or special funds under public law, the exclusive competence of the place of jurisdiction Hamburg is considered agreed for all cases.
 
-Last update: 23 May 2018  
 © Copyright InnoGames 2009 – 2024. All rights reserved.
