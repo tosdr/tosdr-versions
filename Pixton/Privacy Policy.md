@@ -221,8 +221,8 @@ Schools and Districts
 
 Choose the one that best describes you :
 
-[Student](https://app.pixton.com/#/solo) [Educator](https://app.pixton.com/#/edu) [Parent](https://app.pixton.com/#/parent)
+[Student](https://app.pixton.com/#/solo) [Educator](https://app.pixton.com/#/edu)
 
-**Important!** If you’re a grade school student and you create anything other than a Student account, we will have to delete it.
+**Important!** If you’re a grade school student and you create an Educator account, we will have to delete it.
 
 [?](https://help.pixton.com/ "Pixton Help Center")
