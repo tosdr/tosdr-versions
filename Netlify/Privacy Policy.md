@@ -1,4 +1,4 @@
-Excited about the future of the web and AI? Check out the discussions from our latest event. [Watch now!](https://www.netlify.com/compose/web-ai/)
+Netlify + Astro are partnering! [Read more](https://www.netlify.com/blog/netlify-astro-are-partnering/?utm_content=eyebrow)
 
 Close announcement bar
 
@@ -30,7 +30,6 @@ Toggle main menu
     * [Edge Functions](https://www.netlify.com/platform/core/edge/#edge-functions)
     * [Deploy Previews](https://www.netlify.com/platform/core/deploy-previews/)
     * [Forms](https://www.netlify.com/platform/core/forms/)
-    * [Identity](https://docs.netlify.com/visitor-access/identity/)
     * [Security](https://www.netlify.com/security/)
     * [Analytics](https://www.netlify.com/platform/core/analytics/)
     * [Split Testing](https://docs.netlify.com/site-deploys/split-testing/)
@@ -348,7 +347,6 @@ If you believe that we have not been able to assist with your complaint or conce
     
     * [Analytics](https://www.netlify.com/platform/core/analytics/)
     * [Functions](https://www.netlify.com/platform/core/functions/)
-    * [Identity](https://docs.netlify.com/visitor-access/identity/)
     * [Forms](https://www.netlify.com/platform/core/forms/)
     * [Large Media](https://www.netlify.com/platform/core/large-media/)
     
@@ -415,7 +413,6 @@ If you believe that we have not been able to assist with your complaint or conce
     
     * [Analytics](https://www.netlify.com/platform/core/analytics/)
     * [Functions](https://www.netlify.com/platform/core/functions/)
-    * [Identity](https://docs.netlify.com/visitor-access/identity/)
     * [Forms](https://www.netlify.com/platform/core/forms/)
     * [Large Media](https://www.netlify.com/platform/core/large-media/)
     
