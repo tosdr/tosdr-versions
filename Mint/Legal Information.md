@@ -282,8 +282,8 @@ How Intuit powers prosperity for customers
 
 ![Image Alt Text](https://www.intuit.com/oidam/intuit/ic/en_us/images/01-g/customer-jarrett-steiber-hero-photo-icom-square-20230911-478x478.jpg)
 
-How Intuit helps communities prosper
-------------------------------------
+Intuit news
+-----------
 
 Please add children elements
 
