@@ -62,25 +62,25 @@ Suggested Searches
 
 ### Featured
 
-[![A man in a flannel shirt and jeans accesses a control panel in a room full of wires, cables, and other equipment.](https://www.nasa.gov/wp-content/uploads/2024/06/grc-2024-c-03780.jpg?w=1024)
+[![Visualization of Earth](https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024)
 
-4 min read
+6 min read
 
-### NASA, MagniX Altitude Tests Lay Groundwork for Hybrid Electric Planes
+### NASA-Funded Studies Explain How Climate Is Changing Earth’s Rotation
 
-article2 days ago](https://www.nasa.gov/aeronautics/nasa-magnix-test-hybrid-electric-planes/)[![Perseverance Finds Popcorn on Planet Mars](https://science.nasa.gov/wp-content/uploads/2024/06/mars-perseverance-zr0-1175-0771256323-081eby-n0530000zcam09211-0630lmj.jpg)
+article3 hours ago](https://www.nasa.gov/science-research/earth-science/nasa-funded-studies-explain-how-climate-is-changing-earths-rotation/)[![Buzz and Neil set up the flag](https://www.nasa.gov/wp-content/uploads/2024/07/moon-landing-37-armstrong-aldrin-setting-up-flag-frame-from-16-mm-jul-20-1969-ap11-s69-40308.jpg?w=576)
 
-2 min read
+8 min read
 
-### Perseverance Finds Popcorn on Planet Mars
+### 55 Years Ago: Apollo 11’s One Small Step, One Giant Leap
 
-article2 days ago](https://science.nasa.gov/blogs/perseverance-finds-popcorn-on-planet-mars/)[![](https://www.nasa.gov/wp-content/uploads/2024/06/hall-shoreline-of-gsl-2019.jpg?w=1024)
+article3 days ago](https://www.nasa.gov/history/55-years-ago-apollo-11s-one-small-step-one-giant-leap/)[![Hubble Studies a Potential Galactic Merger](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-ngc5238-potw2429a.jpg)
 
-4 min read
+3 min read
 
-### NASA Satellites Find Snow Didn’t Offset Southwest US Groundwater Loss
+### Hubble Studies a Potential Galactic Merger
 
-article3 days ago](https://www.nasa.gov/science-research/earth-science/nasa-satellites-find-snow-didnt-offset-southwest-us-groundwater-loss/)
+article8 hours ago](https://science.nasa.gov/missions/hubble/hubble-studies-a-potential-galactic-merger/)
 
 Back
 
@@ -97,6 +97,7 @@ Back
 * [James Webb Space Telescope](https://science.nasa.gov/mission/webb/)
 * [Hubble Space Telescope](https://science.nasa.gov/mission/hubble/)
 * [International Space Station](https://www.nasa.gov/international-space-station/)
+* [OSIRIS-Rex](https://science.nasa.gov/mission/osiris-rex/)
 
 [### Humans in Space](https://www.nasa.gov/humans-in-space/)
 
@@ -122,7 +123,7 @@ Back
 * [The Sun](https://science.nasa.gov/sun/)
 * [Mercury](https://science.nasa.gov/mercury/)
 * [Venus](https://science.nasa.gov/venus)
-* [Earth](https://science.nasa.gov/earth/)
+* [Earth](https://science.nasa.gov/earth/facts/)
 * [The Moon](https://science.nasa.gov/moon/)
 * [Mars](https://science.nasa.gov/mars)
 * [Jupiter](https://science.nasa.gov/jupiter)
@@ -190,7 +191,7 @@ Back
 
 [### About NASA](https://www.nasa.gov/about/)
 
-* [NASA's Impacts](https://www.nasa.gov/nasa-impacts/)
+* [NASA's Impacts](https://www.nasa.gov/nasa-impact/)
 * [Centers and Facilities](https://www.nasa.gov/centers-and-facilities/)
 * [Directorates](https://www.nasa.gov/directorates/)
 * [Organizations](https://www.nasa.gov/organization/)
@@ -202,13 +203,13 @@ Back
 * [Get Involved](https://www.nasa.gov/get-involved/)
 * [Contact](https://www.nasa.gov/contact/)
 
-[### Español](https://www.nasa.gov/es/)
+[### NASA en Español](https://www.nasa.gov/es/)
 
-* [Ciencia](https://beta.ciencia.nasa.gov/)
+* [Ciencia](https://ciencia.nasa.gov/)
 * [Aeronáutica](https://www.nasa.gov/nasa-en-espanol/aeronautica-en-espanol/)
-* [Ciencias Terrestres](https://beta.ciencia.nasa.gov/tierra/)
-* [Sistema Solar](https://beta.ciencia.nasa.gov/sistema-solar)
-* [Universo](https://beta.ciencia.nasa.gov/universo)
+* [Ciencias Terrestres](https://ciencia.nasa.gov/tierra/)
+* [Sistema Solar](https://ciencia.nasa.gov/sistema-solar)
+* [Universo](https://ciencia.nasa.gov/universo)
 
 [### News & Events](https://www.nasa.gov/news/)
 
@@ -236,179 +237,179 @@ Back
 
 ### Highlights
 
-[![Earth’s horizon curves across this image, with a band of reddish light above it and waves of green light across the planet visible below the horizon. Two distinct green streaks of light run from the right side of the image to the middle of the horizon. One of the space station’s solar panels extends down from the top of the image.](https://www.nasa.gov/wp-content/uploads/2024/06/iss044e012986large.jpg?w=1024)
+[![Amendment 34: A.14 Integrated Water Field Campaign Final Text and Due Dates](https://science.nasa.gov/wp-content/uploads/2024/06/1-pia25623-swot-orbit-cnes-stampedforjpl.jpg)
 
-5 min read
+2 min read
 
-### Studying the Sun
+### Amendment 34: A.14 Integrated Water Field Campaign Final Text and Due Dates
 
-article 2 hours ago](https://www.nasa.gov/missions/station/iss-research/studying-the-sun/)[![First of Its Kind Detection Made in Striking New Webb Image](https://science.nasa.gov/wp-content/uploads/2024/06/webb-stsci-01hygj40m03m78wnacjtjmp73r-2k.png)
+article 1 hour ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-34-a-14-integrated-water-field-campaign-final-text-and-due-dates/)[![Visualization of Earth](https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024)
 
 6 min read
 
-### First of Its Kind Detection Made in Striking New Webb Image
+### NASA-Funded Studies Explain How Climate Is Changing Earth’s Rotation
 
-article 3 hours ago](https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/)[![](https://www.nasa.gov/wp-content/uploads/2024/06/ksc-20240528-ph-mwc01-0018orig.jpg?w=1024)
-
-4 min read
-
-### NASA Preserves Its Past at Kennedy While Building Future of Space
-
-article 4 hours ago](https://www.nasa.gov/centers-and-facilities/nasa-preserves-its-past-at-kennedy-while-building-future-of-space/)
-
-### Highlights
-
-[![A woman with long, wavy hair and a bright smile sits at a round table during a formal event, surrounded by other attendees. She is wearing a brown cardigan and a patterned blouse.](https://www.nasa.gov/wp-content/uploads/2024/06/lakita-issrdc-2022.jpg?w=500)
-
-5 min read
-
-### Lakita Lowe: Leading Space Commercialization Innovations and Fostering STEM Engagement 
-
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/lakita-lowe-leading-space-commercialization-innovations-and-fostering-stem-engagement/)[![Portrait of Rusty Schweickart in 1971](https://images-assets.nasa.gov/image/S71-51265/S71-51265~large.jpg?w=1535&h=1920&fit=clip&crop=faces%2Cfocalpoint)
+article 3 hours ago](https://www.nasa.gov/science-research/earth-science/nasa-funded-studies-explain-how-climate-is-changing-earths-rotation/)[![The crew of NASA’s SpaceX Crew-9 mission to the International Space Station poses for a photo during training in Hawthorne, California.](https://www.nasa.gov/wp-content/uploads/2024/07/crew-9-in-cockpit.jpg?w=1024)
 
 1 min read
 
-### Former Astronaut Russell L. “Rusty” Schweickart
+### NASA’s SpaceX Crew-9
 
-article 1 week ago](https://www.nasa.gov/former-astronaut-russell-l-rusty-schweickart/)[![NASA’s Repository Supports Research of Commercial Astronaut Health  ](https://science.nasa.gov/wp-content/uploads/2024/06/51472315354-c49f4aa62a-k.jpg)
-
-2 min read
-
-### NASA’s Repository Supports Research of Commercial Astronaut Health  
-
-article 1 week ago](https://science.nasa.gov/humans-in-space/nasas-repository-supports-research-of-commercial-astronaut-health/)
+article 3 hours ago](https://www.nasa.gov/mission/nasas-spacex-crew-9/)
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/06/hall-shoreline-of-gsl-2019.jpg?w=1024)
+[![NASA astronaut Engle poses in front of space shuttle Enterprise during its first rollout in 1976](https://www.nasa.gov/wp-content/uploads/2023/10/x-15-rollout-29-engle-w-enterprise-s76-29560.jpg?w=1024)
 
-4 min read
+1 min read
 
-### NASA Satellites Find Snow Didn’t Offset Southwest US Groundwater Loss
+### Remembering Joe Engle: Astronaut, Test Pilot, Legend
 
-article 3 days ago](https://www.nasa.gov/science-research/earth-science/nasa-satellites-find-snow-didnt-offset-southwest-us-groundwater-loss/)[![A large propeller plane takes off from a runway, surrounded by brown and green grasses with low buildings out of focus in the background. The plane is white with a blue stripe down the middle, and has a NASA logo on the tail. The sky is a hazy blue with some clouds.](https://www.nasa.gov/wp-content/uploads/2024/06/8p1a5473.jpeg?w=1024)
+article 6 days ago](https://www.nasa.gov/feature/joe-engle-special-report/)[![NASA astronaut Engle poses in front of space shuttle Enterprise during its first rollout in 1976](https://www.nasa.gov/wp-content/uploads/2023/10/x-15-rollout-29-engle-w-enterprise-s76-29560.jpg?w=1024)
 
-2 min read
+1 min read
 
-### NASA-Led Mission to Map Air Pollution Over Both U.S. Coasts
+### Joe H. Engle Oral History Interviews
 
-article 6 days ago](https://www.nasa.gov/earth/nasa-led-mission-to-map-air-pollution-over-both-u-s-coasts/)[![NASA Announces New System to Aid Disaster Response](https://science.nasa.gov/wp-content/uploads/2024/06/prturkiyeeq-020624a.jpg)
+article 6 days ago](https://www.nasa.gov/joe-h-engle-oral-history-interviews/)[![Four people in black NASA jumpsuits are standing in front of a building with NASA logos and mission patches on the wall. They are smiling and holding mission patches, posing for a group photo.](https://www.nasa.gov/wp-content/uploads/2024/07/jsc2024e044208.jpg?w=1024)
 
-4 min read
+6 min read
 
-### NASA Announces New System to Aid Disaster Response
+### Voyagers of Mars: The First CHAPEA Crew’s Yearlong Journey 
 
-article 7 days ago](https://science.nasa.gov/earth/natural-disasters/nasa-announces-new-system-to-aid-disaster-response/)
+article 1 week ago](https://www.nasa.gov/missions/voyagers-of-mars-the-first-chapea-crews-yearlong-journey/)
 
 ### Highlights
 
-[![Perseverance Finds Popcorn on Planet Mars](https://science.nasa.gov/wp-content/uploads/2024/06/mars-perseverance-zr0-1175-0771256323-081eby-n0530000zcam09211-0630lmj.jpg)
+[![Visualization of Earth](https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024)
 
-2 min read
+6 min read
 
-### Perseverance Finds Popcorn on Planet Mars
+### NASA-Funded Studies Explain How Climate Is Changing Earth’s Rotation
 
-article 2 days ago](https://science.nasa.gov/blogs/perseverance-finds-popcorn-on-planet-mars/)[![Tropical Solstice Shadows](https://science.nasa.gov/wp-content/uploads/2024/04/solstice-comparison-horz-notext.webp)
+article 3 hours ago](https://www.nasa.gov/science-research/earth-science/nasa-funded-studies-explain-how-climate-is-changing-earths-rotation/)[![Registration Opens for the 2024 NASA International Space Apps Challenge](https://science.nasa.gov/wp-content/uploads/2024/07/2024-spaceapps-announcement-feature.jpg)
+
+3 min read
+
+### Registration Opens for the 2024 NASA International Space Apps Challenge
+
+article 1 day ago](https://science.nasa.gov/earth/registration-opens-2024-nasa-international-space-apps-challenge/)[![NASA Celebrates 20 Years of Earth-Observing Aura Satellite](https://science.nasa.gov/wp-content/uploads/2024/07/pia18178orig.jpg)
 
 4 min read
 
-### Tropical Solstice Shadows
+### NASA Celebrates 20 Years of Earth-Observing Aura Satellite
 
-article 5 days ago](https://science.nasa.gov/solar-system/skywatching/night-sky-network/tropical-solstice-shadows/)[![](https://www.nasa.gov/wp-content/uploads/2024/06/ce6-after-notext.png?w=1024)
+article 3 days ago](https://science.nasa.gov/earth/nasa-celebrates-20-years-of-earth-observing-aura-satellite/)
 
-2 min read
+### Highlights
 
-### NASA’s LRO Spots China’s Chang’e 6 Spacecraft on Lunar Far Side
+[![Visualization of Earth](https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024)
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/goddard/nasas-lro-spots-chinas-change-6-spacecraft-on-lunar-far-side/)
+6 min read
+
+### NASA-Funded Studies Explain How Climate Is Changing Earth’s Rotation
+
+article 3 hours ago](https://www.nasa.gov/science-research/earth-science/nasa-funded-studies-explain-how-climate-is-changing-earths-rotation/)[![New Evidence Adds to Findings Hinting at Network of Caves on Moon](https://science.nasa.gov/wp-content/uploads/2024/07/lunar-pits.webp)
+
+3 min read
+
+### New Evidence Adds to Findings Hinting at Network of Caves on Moon
+
+article 1 day ago](https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/)[![NASA: Life Signs Could Survive Near Surfaces of Enceladus and Europa](https://science.nasa.gov/wp-content/uploads/2024/02/pia11688.jpg)
+
+5 min read
+
+### NASA: Life Signs Could Survive Near Surfaces of Enceladus and Europa
+
+article 1 day ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-life-signs-could-survive-near-surfaces-of-enceladus-and-europa/)
 
 ### Featured
 
-[![First of Its Kind Detection Made in Striking New Webb Image](https://science.nasa.gov/wp-content/uploads/2024/06/webb-stsci-01hygj40m03m78wnacjtjmp73r-2k.png)
+[![Hubble Studies a Potential Galactic Merger](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-ngc5238-potw2429a.jpg)
 
-6 min read
+3 min read
 
-### First of Its Kind Detection Made in Striking New Webb Image
+### Hubble Studies a Potential Galactic Merger
 
-article 3 hours ago](https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/)[![NASA Releases Hubble Image Taken in New Pointing Mode](https://science.nasa.gov/wp-content/uploads/2024/06/hubble-ngc1546-stsci-h-p24026a-f-4032x3701-1.jpg)
-
-2 min read
-
-### NASA Releases Hubble Image Taken in New Pointing Mode
-
-article 2 days ago](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)[![Investigating the Origins of the Crab Nebula With NASA’s Webb](https://science.nasa.gov/wp-content/uploads/2024/06/webb-stsci-01j04ajb8zf5kwsnd3jnj0x9hb-3k.png)
-
-6 min read
-
-### Investigating the Origins of the Crab Nebula With NASA’s Webb
-
-article 3 days ago](https://science.nasa.gov/missions/webb/investigating-the-origins-of-the-crab-nebula-with-nasas-webb/)
-
-### Highlights
-
-[![Earth’s horizon curves across this image, with a band of reddish light above it and waves of green light across the planet visible below the horizon. Two distinct green streaks of light run from the right side of the image to the middle of the horizon. One of the space station’s solar panels extends down from the top of the image.](https://www.nasa.gov/wp-content/uploads/2024/06/iss044e012986large.jpg?w=1024)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-studies-a-potential-galactic-merger/)[![NASA: Life Signs Could Survive Near Surfaces of Enceladus and Europa](https://science.nasa.gov/wp-content/uploads/2024/02/pia11688.jpg)
 
 5 min read
 
-### Studying the Sun
+### NASA: Life Signs Could Survive Near Surfaces of Enceladus and Europa
 
-article 2 hours ago](https://www.nasa.gov/missions/station/iss-research/studying-the-sun/)[![First of Its Kind Detection Made in Striking New Webb Image](https://science.nasa.gov/wp-content/uploads/2024/06/webb-stsci-01hygj40m03m78wnacjtjmp73r-2k.png)
+article 1 day ago](https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-life-signs-could-survive-near-surfaces-of-enceladus-and-europa/)[![Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!](https://science.nasa.gov/wp-content/uploads/2024/07/5500-exoplanets-graphic.jpeg)
 
-6 min read
+4 min read
 
-### First of Its Kind Detection Made in Striking New Webb Image
+### Discovery Alert: With Six New Worlds, 5,500 Discovery Milestone Passed!
 
-article 3 hours ago](https://science.nasa.gov/missions/webb/first-of-its-kind-detection-made-in-striking-new-webb-image/)[![NASA Releases Hubble Image Taken in New Pointing Mode](https://science.nasa.gov/wp-content/uploads/2024/06/hubble-ngc1546-stsci-h-p24026a-f-4032x3701-1.jpg)
+article 3 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-with-six-new-worlds-5500-discovery-milestone-passed/)
+
+### Highlights
+
+[![Amendment 34: A.14 Integrated Water Field Campaign Final Text and Due Dates](https://science.nasa.gov/wp-content/uploads/2024/06/1-pia25623-swot-orbit-cnes-stampedforjpl.jpg)
 
 2 min read
 
-### NASA Releases Hubble Image Taken in New Pointing Mode
+### Amendment 34: A.14 Integrated Water Field Campaign Final Text and Due Dates
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
+article 1 hour ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-34-a-14-integrated-water-field-campaign-final-text-and-due-dates/)[![Visualization of Earth](https://www.nasa.gov/wp-content/uploads/2024/07/1-arctic-ams-2010246-lrg.jpg?w=1024)
 
-### Highlights
+6 min read
 
-[![A woman wearing glasses and a blue NASA polo holds up two small cubes, one black and one yellow.](https://www.nasa.gov/wp-content/uploads/2024/06/koch-with-acoustic-materials.jpg?w=1024)
+### NASA-Funded Studies Explain How Climate Is Changing Earth’s Rotation
 
-4 min read
+article 3 hours ago](https://www.nasa.gov/science-research/earth-science/nasa-funded-studies-explain-how-climate-is-changing-earths-rotation/)[![Hubble Studies a Potential Galactic Merger](https://science.nasa.gov/wp-content/uploads/2024/07/hubble-ngc5238-potw2429a.jpg)
 
-### NASA Engineer Honored as Girl Scouts ‘Woman of Distinction’
+3 min read
 
-article 2 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-honored-as-girl-scouts-woman-of-distinction/)[![A man in a flannel shirt and jeans accesses a control panel in a room full of wires, cables, and other equipment.](https://www.nasa.gov/wp-content/uploads/2024/06/grc-2024-c-03780.jpg?w=1024)
+### Hubble Studies a Potential Galactic Merger
 
-4 min read
-
-### NASA, MagniX Altitude Tests Lay Groundwork for Hybrid Electric Planes
-
-article 2 days ago](https://www.nasa.gov/aeronautics/nasa-magnix-test-hybrid-electric-planes/)[![A silver-colored airplane research model sits in a wind tunnel facility. The model consists of a section of a scaled-down fuselage on the floor, with a single wing mounted vertically on it. The metallic wall of the wind tunnel is visible in the background.](https://www.nasa.gov/wp-content/uploads/2024/06/20230608-144923-nasa-ldg-full-model-ls.png?w=1024)
-
-4 min read
-
-### Globetrotting NASA Research Model Increases Accuracy
-
-article 3 days ago](https://www.nasa.gov/aeronautics/research-model-increases-accuracy/)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-studies-a-potential-galactic-merger/)
 
 ### Highlights
 
-[![Two boxes with university and NASA stickers stacked inside spaceplane mounted under circular window](https://www.nasa.gov/wp-content/uploads/2024/06/virggal-ucb-purdue-payloads-sp16-t0241-t0293-20240607.jpg?w=1024)
+[![NASA astronaut Engle poses in front of space shuttle Enterprise during its first rollout in 1976](https://www.nasa.gov/wp-content/uploads/2023/10/x-15-rollout-29-engle-w-enterprise-s76-29560.jpg?w=1024)
 
 1 min read
 
-### Flight Test Sheds New Light on In-Space 3D Printing, Propellant Slosh
+### Remembering Joe Engle: Astronaut, Test Pilot, Legend
 
-article 3 days ago](https://www.nasa.gov/stmd-flight-opportunities/flight-summaries/flight-test-sheds-new-light-on-in-space-3d-printing-propellant-slosh/)[![Simulated Roman image full of synthetic galaxies](https://www.nasa.gov/wp-content/uploads/2024/06/roman-simulation-banner.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/feature/joe-engle-special-report/)[![NASA astronaut Engle poses in front of space shuttle Enterprise during its first rollout in 1976](https://www.nasa.gov/wp-content/uploads/2023/10/x-15-rollout-29-engle-w-enterprise-s76-29560.jpg?w=1024)
+
+1 min read
+
+### Joe H. Engle Oral History Interviews
+
+article 6 days ago](https://www.nasa.gov/joe-h-engle-oral-history-interviews/)[![A computer display of a map shows several lines which represent possible air traffic routes for an airplane to follow.](https://www.nasa.gov/wp-content/uploads/2024/07/dip-1.png?w=1024)
+
+4 min read
+
+### NASA Cloud-Based Platform Could Help Streamline, Improve Air Traffic
+
+article 7 days ago](https://www.nasa.gov/aeronautics/digital-information-platform-could-help-improve-air-traffic/)
+
+### Highlights
+
+[![PIXL Viewed on Mars](https://www.nasa.gov/wp-content/uploads/2024/07/e1-pia24467.jpg?w=1024)
 
 6 min read
 
-### NASA’s Roman Mission Gets Cosmic ‘Sneak Peek’ From Supercomputers
+### Here’s How AI Is Changing NASA’s Mars Rover Science
 
-article 1 week ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-gets-cosmic-sneak-peek-from-supercomputers/)[![Ed Stone, former director of JPL and project scientist for the Voyager mission, died on June 9, 2024. A friend, mentor, and colleague to many, he was known for his straightforward leadership and commitment to communicating with the public.](https://www.nasa.gov/wp-content/uploads/2024/06/1-ed-stone-portrait-voyager-model.webp?w=1024)
+article 3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/heres-how-ai-is-changing-nasas-mars-rover-science/)[![The Apollo spacecraft orbiting the Moon](https://www.nasa.gov/wp-content/uploads/2024/07/hyaxiom-1-edit.jpg?w=1024)
 
-5 min read
+2 min read
 
-### Ed Stone, Former Director of JPL, Voyager Project Scientist, Dies
+### Tech Today: NASA’s Moonshot Launched Commercial Fuel Cell Industry 
 
-article 1 week ago](https://www.nasa.gov/missions/voyager-program/ed-stone-former-director-of-jpl-and-voyager-project-scientist-dies/)
+article 4 days ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-nasas-moonshot-launched-commercial-fuel-cell-industry/)[![A series of images showing different rotational views of asteroid 4179 Toutatis taken from radar data, against a black background. The asteroid appears irregular in shape.](https://www.nasa.gov/wp-content/uploads/2024/07/1-2024mk-16.jpg?w=1024)
+
+4 min read
+
+### NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches
+
+article 2 weeks ago](https://www.nasa.gov/solar-system/asteroids/near-earth-asteroid/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches/)
 
 ### Featured
 
@@ -418,29 +419,29 @@ article 1 week ago](https://www.nasa.gov/missions/voyager-program/ed-stone-forme
 
 ### Slow Your Student’s ‘Summer Slide’ and Beat Boredom With NASA STEM
 
-article 3 days ago](https://www.nasa.gov/learning-resources/slow-your-students-summer-slide/)
+article 1 month ago](https://www.nasa.gov/learning-resources/slow-your-students-summer-slide/)
 
 ### Featured
 
-[![Lunar Reconnaissance Orbiter (LRO), top, silver, and Lunar Crater Observation and Sensing Satellite (LCROSS), bottom, gold, spacecraft during placement inside the launch shroud](https://www.nasa.gov/wp-content/uploads/2024/06/lro-1-lro-and-lcross-before-fairing-installation.jpg?w=720)
+[![Registration Opens for the 2024 NASA International Space Apps Challenge](https://science.nasa.gov/wp-content/uploads/2024/07/2024-spaceapps-announcement-feature.jpg)
 
-7 min read
+3 min read
 
-### 15 Years Ago: Lunar Reconnaissance Orbiter Begins Moon Mapping Mission
+### Registration Opens for the 2024 NASA International Space Apps Challenge
 
-article 2 days ago](https://www.nasa.gov/history/15-years-ago-lunar-reconnaissance-orbiter-begins-moon-mapping-mission/)[![200 interns pose on stage and on the floor in an auditorium. There is a NASA meatball logo projected behind them and on two TVs, one on each side of the stage.](https://www.nasa.gov/wp-content/uploads/2024/06/goddard-orientation.jpeg?w=1024)
+article 1 day ago](https://science.nasa.gov/earth/registration-opens-2024-nasa-international-space-apps-challenge/)[![](https://images-assets.nasa.gov/image/KSC-20240226-PH-SPX02_0005/KSC-20240226-PH-SPX02_0005~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
-4 min read
+5 min read
 
-### NASA Interns Blast Off for Their First Week at Goddard 
+### Experience the Launch of NASA’s SpaceX Crew-9 Mission
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/goddard/nasa-interns-blast-off-for-their-first-week-at-goddard/)[![A sign with NASA's Student Launch is in the foreground with two students carrying a rocket in a grassy field.](https://www.nasa.gov/wp-content/uploads/2024/06/sl24.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-9-mission/)[![A group of people testing out their “cereal box” pin-hole viewers to study the sun](https://www.nasa.gov/wp-content/uploads/2024/07/3-cerealboxviewer.jpg?w=1024)
 
-4 min read
+3 min read
 
-### NASA Announces Winners of 2024 Student Launch Competition
+### NASA Awards Launch Excitement for STEM Learning Nationwide
 
-article 6 days ago](https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2024-student-launch-competition/)
+article 3 hours ago](https://www.nasa.gov/learning-resources/nasa-awards-for-stem-learning/)
 
 ### Highlights
 
@@ -450,19 +451,19 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/marshall/nasa-an
 
 ### Astronauta de la NASA Frank Rubio
 
-article 6 days ago](https://www.nasa.gov/people/astronauta-de-la-nasa-frank-rubio/)[![2021 Astronaut Candidates Stand in Recognition](https://www.nasa.gov/wp-content/uploads/2024/03/51732141513-ebd913d411-k.jpg?w=1024)
+article 1 month ago](https://www.nasa.gov/people/astronauta-de-la-nasa-frank-rubio/)[![2021 Astronaut Candidates Stand in Recognition](https://www.nasa.gov/wp-content/uploads/2024/03/51732141513-ebd913d411-k.jpg?w=1024)
 
 6 min read
 
 ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas
 
-article 3 months ago](https://www.nasa.gov/learning-resources/diez-maneras-en-que-los-estudiantes-pueden-prepararse-para-serastronautas/)[![Astronaut Marcos Berrios](https://www.nasa.gov/wp-content/uploads/2021/12/astronaut_candidate_marcos_berrios.jpg?w=819)
+article 4 months ago](https://www.nasa.gov/learning-resources/diez-maneras-en-que-los-estudiantes-pueden-prepararse-para-serastronautas/)[![Astronaut Marcos Berrios](https://www.nasa.gov/wp-content/uploads/2021/12/astronaut_candidate_marcos_berrios.jpg?w=819)
 
 4 min read
 
 ### Astronauta de la NASA Marcos Berríos
 
-article 4 months ago](https://www.nasa.gov/people/astronauta-de-la-nasa-marcos-berrios/)
+article 5 months ago](https://www.nasa.gov/people/astronauta-de-la-nasa-marcos-berrios/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
