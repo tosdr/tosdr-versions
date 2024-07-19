@@ -10,6 +10,10 @@
 
 Dark mode
 
+English
+
+[Español](https://apkvision.es/privacy-policy/) [Russian](https://apkvision.ru/privacy-policy/)
+
 [Home](https://apkvision.org/)»Privacy Policy
 
 Privacy Policy
