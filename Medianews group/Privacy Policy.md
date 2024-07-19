@@ -17,7 +17,7 @@
 Privacy Policy
 ==============
 
-**_This Privacy Policy Was Last Updated on_** \[March 4, 2024\]
+**_This Privacy Policy Was Last Updated on_** \[July 16, 2024\]
 
 This Privacy Policy (the “**Privacy Policy**”) explains how MediaNews Group, Inc. and its Affiliates (“**MNG**”, “**we**”, “**our**” or “**us**”) collect, use, process, and share information about you when you use our Services or otherwise interact with us or receive a communication from us related to the Services.  For certain Services, we may provide you with additional privacy policies and information that supplement this Privacy Policy.
 
@@ -28,55 +28,66 @@ If you do not agree with this Privacy Policy, do not access or use our Services 
 This Privacy Policy is intended to help you understand:
 
 * [1. Overview: What This Privacy Policy Covers.](#eb-table-content-0)
-* [1.1 What Does the Term “Personal Information” Mean in this Privacy Policy?](#11-what-does-the-term-personal-information-mean-in-this-privacy-policy)
-* [1.2 What Does the Term “Services” Mean in This Privacy Policy?](#12-what-does-the-term-services-mean-in-this-privacy-policy)
-* [1.3 What do the Terms “Affiliates”, “Applications” “Websites”, and “Platform” Mean in This Privacy Policy?](#13-what-do-the-terms-affiliates-applications-websites-and-platform-mean-in-this-privacy-policy)
+    * [1.1 What Does the Term “Personal Information” Mean in this Privacy Policy?](#11-what-does-the-term-personal-information-mean-in-this-privacy-policy)
+    * [1.2 What Does the Term “Services” Mean in This Privacy Policy?](#12-what-does-the-term-services-mean-in-this-privacy-policy)
+    * [1.3 What do the Terms “Affiliates”, “Applications” “Websites”, and “Platform” Mean in This Privacy Policy?](#13-what-do-the-terms-affiliates-applications-websites-and-platform-mean-in-this-privacy-policy)
 * [2\. Overview: When This Privacy Policy Applies.](#2-overview-when-this-privacy-policy-applies)
 * [3\. The Information We Collect About You and How We Collect It.](#3-the-information-we-collect-about-you-and-how-we-collect-it)
-* [3.1. Information That You Provide to Us Voluntarily.](#31-information-that-you-provide-to-us-voluntarily)
-* [3.1.1. For Subscription Registrations.](#311-for-subscription-registrations)
-* [3.1.2. For Billing & Payment Matters.](#312-for-billing-payment-matters)
-* [3.1.3. Registration for Newsletters, Contests, Sweepstakes, or Promotion Offers.](#313-registration-for-newsletters-contests-sweepstakes-or-promotion-offers)
-* [3.1.4. For Participating in Voting, Polling, Surveys, or Similar Activities.](#314-for-participating-in-voting-polling-surveys-or-similar-activities)
-* [3.1.5. For Customer Service Matters & Subscriptions by Phone.](#315-for-customer-service-matters-subscriptions-by-phone)
-* [3.1.6. For User-Generated Content.](#eb-table-content-12)
-* [3.1.7. If You Apply to a Job Posting Offered by Us or Become Our Employee.](#317-if-you-apply-to-a-job-posting-offered-by-us-or-become-our-employee)
-* [3.1.8. If You Provide Your Personal Information to Us For Any Other Reason.](#318-if-you-provide-your-personal-information-to-us-for-any-other-reason)
-* [3.2. Information That We Collect Automatically.](#32-information-that-we-collect-automatically)
-* [3.2.1 Device/Usage Information.](#321-deviceusage-information)
-* [3.2.2. Location Information.](#322-location-information)
-* [3.2.3. Cookies & Other Information Technologies.](#323-cookies-other-information-technologies)
-* [3.2.4. Personal Information About You That We Collect From Other Sources](#324-personal-information-about-you-that-we-collect-from-other-sources)
-* [3.2.5. Collection of Personal Information Across Devices & Applications.](#325-collection-of-personal-information-across-devices-applications)
-* [4\. How Do We Use The Information We Collect About You?](#4-how-do-we-use-the-information-we-collect-about-you)
-* [4.1. Our Use of Aggregated & De-Identified Information Based On Your Personal Information](#41-our-use-of-aggregated-de-identified-information-based-on-your-personal-information)
+    * [3.1. Information That You Provide to Us Voluntarily.](#31-information-that-you-provide-to-us-voluntarily)
+        *   [3.1.1. For Subscription Registrations.](#eb-table-content-7)
+        * [3.1.2. For Billing & Payment Matters.](#312-for-billing-payment-matters)
+        * [3.1.3. Registration for Newsletters, Contests, Sweepstakes, or Promotion Offers.](#313-registration-for-newsletters-contests-sweepstakes-or-promotion-offers)
+        * [3.1.4. For Participating in Voting, Polling, Surveys, or Similar Activities.](#314-for-participating-in-voting-polling-surveys-or-similar-activities)
+        * [3.1.5. For Customer Service Matters & Subscriptions by Phone.](#315-for-customer-service-matters-subscriptions-by-phone)
+        * [3.1.6. For User-Generated Content.](#eb-table-content-12)
+        * [3.1.7. If You Apply to a Job Posting Offered by Us or Become Our Employee.](#317-if-you-apply-to-a-job-posting-offered-by-us-or-become-our-employee)
+        * [3.1.8. If You Provide Your Personal Information to Us For Any Other Reason.](#318-if-you-provide-your-personal-information-to-us-for-any-other-reason)
+    * [3.2. Information That We Collect Automatically.](#32-information-that-we-collect-automatically)
+        * [3.2.1 Device/Usage Information.](#321-deviceusage-information)
+        * [3.2.2. Location Information.](#322-location-information)
+        * [3.2.3. Cookies & Other Information Technologies.](#323-cookies-other-information-technologies)
+        * [3.2.4. Personal Information About You That We Collect from Other Sources](#324-personal-information-about-you-that-we-collect-from-other-sources)
+        * [3.2.5. Collection of Personal Information Across Devices & Applications.](#325-collection-of-personal-information-across-devices-applications)
+* [4\. How Do We Use the Information We Collect About You?](#4-how-do-we-use-the-information-we-collect-about-you)
+    * [4.1. Our Use of Aggregated & De-Identified Information Based on Your Personal Information](#41-our-use-of-aggregated-de-identified-information-based-on-your-personal-information)
 * [5\. With Whom Do We Share Your Information?](#5-with-whom-do-we-share-your-information)
 * [6\. How Do We Use Online Analytics & Interest-Based Advertising?](#6-how-do-we-use-online-analytics-interest-based-advertising)
-* [6.1. Our Use of Online Analytics.](#eb-table-content-25)
-* [6.2. Our Use of Interest-Based Advertising.](#eb-table-content-26)
+    * [6.1. Our Use of Online Analytics.](#eb-table-content-25)
+    * [6.2. Our Use of Interest-Based Advertising.](#eb-table-content-26)
 * [7\. How Do Third Parties Collect & Use Your Information Through Our Services?](#7-how-do-third-parties-collect-use-your-information-through-our-services)
 * [8\. What Are Your Rights & Choices?](#8-what-are-your-rights-choices)
-* [8.1. Managing Your Account, Privacy Rights, & Choices.](#81-managing-your-account-privacy-rights-choices)
-* [8.2. Your Additional Rights & Choices For Third Parties & Our Online Analytics & Interest-Based Advertising Practices.](#82-your-additional-rights-choices-for-third-parties-our-online-analytics-interest-based-advertising-practices)
-* [9\. Your California Privacy Rights](#9-your-california-privacy-rights)
-* [10\. Use of The Services By Users From Outside The United States](#10-use-of-the-services-by-users-from-outside-the-united-states)
-* [10.1. Your EU, EEA, UK, & Switzerland Rights & Choices.](#101-your-eu-eea-uk-switzerland-rights-choices)
-* [11\. Your Nevada Rights & Choices.](#11-your-nevada-rights-choices)
-* [12\. Your Virginia Rights & Choices.](#12-your-virginia-rights-choices)
-* [13\. Your Colorado Rights & Choices.](#13-your-colorado-rights-choices)
-* [14\. Your Connecticut Rights & Choices](#14-your-connecticut-rights-choices)
-* [15\. Your Utah Rights & Choices](#15-your-utah-rights-choices)
-* [16\. How Can You Access, Correct, Or Update Your Personal Information?](#16-how-can-you-access-correct-or-update-your-personal-information)
-* [17\. What About Linked Third-Party Services, Sites, & Advertisements That I See Via The Services?](#17-what-about-linked-third-party-services-sites-advertisements-that-i-see-via-the-services)
-* [18\. How Do We Protect Your Personal Information?](#18-how-do-we-protect-your-personal-information)
-* [19\. How Long Do We Retain Your Personal Information?](#19-how-long-do-we-retain-your-personal-information)
-* [20\. What Are The Requirements Or Guidelines For The Use of Our Services By Children?](#20-what-are-the-requirements-or-guidelines-for-the-use-of-our-services-by-children)
-* [21\. Changes To This Privacy Policy.](#21-changes-to-this-privacy-policy)
-* [22\. No Rights of Third Parties.](#22-no-rights-of-third-parties)
-* [23\. Complaints.](#eb-table-content-46) 
-* [24\. How Can You Contact Us?](#24-how-can-you-contact-us)
+    * [8.1. Managing Your Account, Privacy Rights, & Choices.](#81-managing-your-account-privacy-rights-choices)
+        * [i. Email](#eb-table-content-30)
+        * [ii. Promotions Via Mail or Telephone](#eb-table-content-31)
+        * [iii. SMS/Text Message Alerts](#eb-table-content-32)
+        * [iv. Push Notifications](#eb-table-content-33)
+        * [v. Platform & Web Browser Controls](#eb-table-content-34)
+    * [8.2. Your Additional Rights & Choices for Third Parties & Our Online Analytics & Interest-Based Advertising Practices.](#82-your-additional-rights-choices-for-third-parties-our-online-analytics-interest-based-advertising-practices)
+* [9\. Additional Privacy Rights and Choices of U.S. Residents](#9-additional-privacy-rights-and-choices-of-us-residents)
+    * [9.1 Your California Privacy Rights](#91-your-california-privacy-rights)
+    * [9.2 Your Nevada Rights & Choices.](#92-your-nevada-rights-choices)
+    * [9.3 Your Virginia Rights & Choices.](#93-your-virginia-rights-choices)
+    * [9.4 Your Colorado Rights & Choices.](#94-your-colorado-rights-choices)
+    * [9.5 Your Connecticut Rights & Choices](#95-your-connecticut-rights-choices)
+    * [9.6 Your Utah Rights & Choices](#96-your-utah-rights-choices)
+    * [9.7 Your Texas Rights & Choices](#97-your-texas-rights-choices)
+    * [9.8 Your Oregon Rights & Choices](#98-your-oregon-rights-choices)
+    * [9.9 Your Montana Rights & Choices](#99-your-montana-rights-choices)
+* [10\. Use of The Services by Users from Outside The United States](#10-use-of-the-services-by-users-from-outside-the-united-states)
+    * [10.1 Your EU, EEA, UK, & Switzerland Rights & Choices.](#101-your-eu-eea-uk-switzerland-rights-choices)
+* [11\. How Can You Access, Correct, Or Update Your Personal Information?](#11-how-can-you-access-correct-or-update-your-personal-information)
+* [12\. What About Linked Third-Party Services, Sites, & Advertisements That I See Via The Services?](#12-what-about-linked-third-party-services-sites-advertisements-that-i-see-via-the-services)
+* [13\. How Do We Protect Your Personal Information?](#13-how-do-we-protect-your-personal-information)
+* [14\. How Long Do We Retain Your Personal Information?](#14-how-long-do-we-retain-your-personal-information)
+* [15\. What Are the Requirements or Guidelines for The Use of Our Services By Children?](#15-what-are-the-requirements-or-guidelines-for-the-use-of-our-services-by-children)
+* [16\. Changes to This Privacy Policy.](#16-changes-to-this-privacy-policy)
+* [17\. No Rights of Third Parties.](#17-no-rights-of-third-parties)
+* [18\. Complaints.](#eb-table-content-55) 
+* [19\. How Can You Contact Us?](#19-how-can-you-contact-us)
+    * [](#eb-table-content-57)
 
-### **1. Overview: What This Privacy Policy Covers.**
+**1. Overview: What This Privacy Policy Covers.**
+=================================================
 
 This Privacy Policy sets out how we collect, use, disclose, share, sell, and protect your Personal Information when you use any of our Services.  Additionally, this Privacy Policy explains your legal rights and choices that you have with respect to our collection, use, processing, sharing, and protection of your Personal Information. Furthermore, this Privacy Policy explains how you may exercise those legal rights and choices regarding how we use your Personal Information in connection with your receipt of the Services. 
 
@@ -84,11 +95,13 @@ This Privacy Policy is a separate document from our Terms of Use, which are avai
 
 MNG takes this Privacy Policy and the task of protecting and appropriately handling your information very seriously.  We believe strongly in being open and transparent about our privacy-related policies and practices.  If you have any questions about this Privacy Policy, or about exercising privacy-related rights and choices that may apply to you about your use of the Services, please let us know at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
 
-### **1.1 What Does the Term “Personal Information” Mean in this Privacy Policy?**
+**1.1 What Does the Term “Personal Information” Mean in this Privacy Policy?**
+------------------------------------------------------------------------------
 
 In this Privacy Policy, the term “**Personal Information**” means any information about you that can personally identify you, either on its own or when combined with other information. 
 
-### **1.2 What Does the Term “Services” Mean in This Privacy Policy?**
+**1.2 What Does the Term “Services” Mean in This Privacy Policy?**
+------------------------------------------------------------------
 
 In this Privacy Policy, the term “**Services**” means any of our:
 
@@ -101,7 +114,8 @@ In this Privacy Policy, the term “**Services**” means any of our:
 * SMS/Text Alerts and Mobile Web services; and
 * All other services that we provide to you, together with all of the content, functionalities, and advertising services associated with these services.
 
-### **1.3 What do the Terms “Affiliates”, “Applications” “Websites”, and “Platform” Mean in This Privacy Policy?**
+**1.3 What do the Terms “Affiliates”, “Applications” “Websites”, and “Platform” Mean in This Privacy Policy?**
+--------------------------------------------------------------------------------------------------------------
 
 In this Privacy Policy, the following capitalized terms also have the following meanings:
 
@@ -113,7 +127,8 @@ In this Privacy Policy, the following capitalized terms also have the following 
 
 “**Platform**” means, collectively, any of our Applications and/or Websites through which you may receive the Services from us. 
 
-### **2\. Overview: When This Privacy Policy Applies.**
+**2\. Overview: When This Privacy Policy Applies.**
+===================================================
 
 This Privacy Policy applies when you use or access any of our Services. This Privacy Policy also applies regardless of how you use or access the Services. For example, this Privacy Policy would apply when:
 
@@ -127,17 +142,19 @@ This Privacy Policy applies when you use or access any of our Services. This Pri
 
 This Privacy Policy may also apply in other circumstances when you use any of our Services.  Some Services and Affiliates may have a specific, separate privacy policy that will govern use of those Services.
 
-### **3\. The Information We Collect About You and How We Collect It.**
+**3\. The Information We Collect About You and How We Collect It.**
+===================================================================
 
 The information that we collect about you, and whether or not that information includes your Personal Information, depends on the Services you use, context, and any preferences that you have communicated to us.  In order to make your visits to our Platform and use of the Services as worthwhile as possible, we may ask you to provide your Personal Information to us. Similarly, we may automatically collect your Personal Information when you use or access the Services via the Websites, Applications, or Platform.  
 
 We also may collect certain information – other than your Personal Information – from your web browser, computer, mobile device, or tablet each time you visit any of our Websites, Applications, or Platform or receive Services, such as, non-user specific, de-identified, or aggregated data about web traffic patterns on our Websites. For more information about non-user specific, de-identified, or aggregated information that we may collect when you use the Services, please see [Section 4.1](https://www.medianewsgroup.com/privacy-policy/#section-4-1) of this Privacy Policy.
 
-### **3.1. Information That You Provide to Us Voluntarily.**
+**3.1. Information That You Provide to Us Voluntarily.**
+--------------------------------------------------------
 
 We collect Personal Information about you when you provide it to us voluntarily, in order for you to use the Services and during your use of the Services.  The types of Personal Information that you may provide to us voluntarily depends on context and how you use the Services. However, examples of the types of Personal Information that you may provide to us voluntarily include, but are not necessarily limited to, your: name, mailing address, home phone number, mobile phone number, email address, username, password, payment information, gender, and date of birth.  In Sections 3.1.1 – 3.1.8 below, this Privacy Policy describes circumstances where we collect Personal Information about you, which you voluntarily provide to us. 
 
-### **3.1.1. For Subscription Registrations.**
+###   **3.1.1. For Subscription Registrations.**
 
 When you register for a print, digital, electronic, or online subscription to any of our newspapers or other publications, you will voluntarily provide us with your Personal Information to enable us to set up your subscription. Once you are registered for a subscription, we will assign you an internal account ID number, which we will use in connection with the Services that we provide to you.
 
@@ -181,7 +198,8 @@ We will also collect and use any other Personal Information that you voluntarily
 * When you navigate any of our Websites and Applications; or
 * When you connect with the Services via your “Social Media” (i.e., Facebook) or “Third-Party Services” (i.e., Apple or Google) accounts or otherwise allow us to access certain information about you via your Social Media or Third-Party Services accounts. 
 
-### **3.2. Information That We Collect Automatically.**
+**3.2. Information That We Collect Automatically.**
+---------------------------------------------------
 
 We may automatically collect information about you, including your Personal Information, when you use the Services.  The Personal Information that we collect automatically when you use the Services may include, but is not necessarily limited to:
 
@@ -193,7 +211,7 @@ We may automatically collect information about you, including your Personal Info
 * Your browser, browser profile, and web browsing history;
 * Your browser language;
 * Your browser’s Cookies;
-* Behavioral data about your interaction with the Services on Websites or Applications;
+* Behavioral data about your interaction with the Services on Websites or Applications, including but not limited to information about articles you read or videos you watch on the Platform;
 * The URLs of any pages you visit on our Platform, Websites, or Applications; and
 * Other usage information.
 
@@ -221,11 +239,11 @@ We may collect different types of information about your location, including gen
 
 * Depending on the jurisdiction in which you reside, cookies may constitute your Personal Information under applicable laws.
 * For additional information about how we, and our third-party advertising partners, may use your cookies when you access the Services via the Internet, please refer to the following sections of our Privacy Policy: [Section 6 (How Do We Use Online Analytics & Interest-Based Advertising?)](https://www.medianewsgroup.com/privacy-policy/#section-6) and [Section 7 (How Do Third Parties Collect & Use Your Personal Information Via The Services?)](https://www.medianewsgroup.com/privacy-policy/#section-7).
-* For additional information about your legal rights and choices regarding our and our third-party advertising partners’ collection and use of your cookies when you use the Services – including how you can opt-out or block the collection and use of your cookies by us and third parties –  please refer to [Section 8 (What Are Your Rights & Choices?)](https://www.medianewsgroup.com/privacy-policy/#section-8), [Section 9 (Your California Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9), [Section 10 (Use of The Services By Users From Outside The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10), [Section 11 (Your Nevada Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-11), [Section 12 (Your Virginia Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-12), [Section 13 (Your Colorado Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-13), [Section 14 (Your Connecticut Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-14), and Section 15 (Your Utah Rights & Choices).
+* For additional information about your legal rights and choices regarding our and our third-party advertising partners’ collection and use of your cookies when you use the Services – including how you can opt-out or block the collection and use of your cookies by us and third parties –  please refer to [Section 8 (What Are Your Rights & Choices?)](https://www.medianewsgroup.com/privacy-policy/#section-8), [Section 9 (Additional Privacy Rights and Choices of U.S. Residents)](https://www.medianewsgroup.com/privacy-policy/#section-9), and [Section 10 (Use of The Services By Users From Outside The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10).
 * We may sometimes target ads to you through ‘onboarded’ audiences: to do this, we may share information you have provided to us with service providers, who will de-identify the information and associate it with cookies that enable us to reach you with display media. We may also help these service providers place their own cookies, by deploying a cookie that is associated with a ‘hashed’ value associated with interest-based or demographic data, to permit advertising to be directed to you on other websites, applications, or services.
 * We also may use cookies to collect information around and about abandoned shopping carts for purchases made by you on our services.  A shopping cart is considered to be abandoned within one hour of inactivity/lack of purchase.  For certain services and users, once a cart is considered abandoned, an SMS message will be sent as a reminder.
 
-### **3.2.4. Personal Information About You That We Collect From Other Sources**
+### **3.2.4. Personal Information About You That We Collect from Other Sources**
 
 i. _Social Media Networks & Other Third-Party Services_
 
@@ -245,7 +263,7 @@ iii. _Schools and Workplaces_.
 
 If your school or employer purchases a subscription to the Services that allows everyone within your organization, or certain people within your organization, to use the Services, your school or employer may provide us with your Personal Information to grant you access to the Services as a user (e.g., your name, work or school email address, and username). 
 
-iv. _Information From Other Third Parties_.
+iv. _Information from Other Third Parties_.
 
 We may obtain additional Personal Information about you from other third parties, such as partners, researchers, data services companies (e.g., for data enhancement), and others. We may combine information that we collect from you with information about you that we obtain from such third parties and information derived from any other subscription, product, or Services we provide.
 
@@ -253,7 +271,8 @@ We may obtain additional Personal Information about you from other third parties
 
 Sometimes, we (or our service providers) may use the Personal Information we collect about you – for instance, log-in credentials, IP addresses, hashed email addresses, and unique mobile device identifiers – to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or computers), or work with providers that do this, in order to better tailor content, features, and advertising, and provide you with a seamless experience across the devices you use to access the Services.
 
-### **4\. How Do We Use The Information We Collect About You?**
+**4\. How Do We Use the Information We Collect About You?**
+===========================================================
 
 We use the Personal Information and other information that we collect about you for the following purposes:
 
@@ -283,15 +302,17 @@ We use the Personal Information and other information that we collect about you 
 * To enforce the legal terms that govern your use of the Services; and/or
 * For any other lawful purposes that we deem necessary or appropriate.
 
-### **4.1. Our Use of Aggregated & De-Identified Information Based On Your Personal Information**
+**4.1. Our Use of Aggregated & De-Identified Information Based on Your Personal Information**
+---------------------------------------------------------------------------------------------
 
 We also may aggregate and de-identify the Personal Information that we collect about you via the Services or other sources, so that the aggregated and de-identified information derived from your Personal Information no longer constitutes Personal Information under applicable laws.  To the maximum extent permitted by applicable laws, we may process, share, disclose, and otherwise use any aggregated and/or de-identified information based on your Personal Information in any manner that we see fit in our discretion.
 
-### **5\. With Whom Do We Share Your Information?**
+**5\. With Whom Do We Share Your Information?**
+===============================================
 
 MNG may share your information, including your Personal Information, with our employees, agents, and Affiliates, in order to provide you with the Services and for the other purposes described in Section 4 of this Privacy Policy. 
 
-We may share or otherwise disclose your Personal Information to our non-affiliated third-party service providers, (a) in order to provide you with the Services or products that you have requested from us, (b) when we have your permission, or (c) as is otherwise described in this Privacy Policy.  We work with non-affiliated third-party service providers to provide certain services and perform certain functions on our behalf, such as:
+We may share or otherwise disclose your Personal Information to our service providers, (a) in order to provide you with the Services or products that you have requested from us, (b) when we have your permission, or (c) as is otherwise described in this Privacy Policy.  We work with service providers to provide certain services and perform certain functions on our behalf, such as:
 
 * Delivering your newspapers
 * Shipping and fulfillment
@@ -312,9 +333,11 @@ We may share or otherwise disclose your Personal Information to our non-affiliat
 * Legal services
 * For other lawful purposes relating to our business and the Services
 
-When performing the functions above, these non-affiliated third-party service providers often have access to, and process, your Personal Information.  We also may allow these non-affiliated third-party Service Providers to use aggregated or de-identified information derived from your Personal Information for other purposes pursuant to applicable laws. When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
+When performing the functions above, these service providers often have access to, and process, your Personal Information.  We also may allow these  service providers to use aggregated or de-identified information derived from your Personal Information for other purposes pursuant to applicable laws. When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
 
-We may share your information with non-affiliated third parties with whom we have a contractual relationship, including without limitation third-party advertisers and advertising and list brokering networks, for their own and sometimes our own advertising and marketing purposes.
+We may share your information with non-affiliated third parties with whom we have a contractual relationship, including without limitation our event sponsors, if you attend an event, third-party advertisers, and advertising and list brokering networks, for their own and sometimes our own advertising and marketing purposes. Those third parties may combine Personal Information they receive from us with other information about you that they obtained from other sources or directly from you.
+
+As described in this Privacy Policy, we may collect and share information about materials you accessed on the Platform, including but not limited to searches you conducted and articles and videos you requested and/or viewed. We may share this information with third parties, including our service providers, advertising networks, and business partners. By accessing these materials on the Platform, you consent to the collection and disclosure of information related to your searches on the Platform and your interaction with articles and videos on the Platform. In some situations, you may be able to limit disclosure of this information to third parties as described in this Policy.
 
 We may access, disclose, transfer, and preserve your information when we have a good faith belief that doing so is necessary to:
 
@@ -327,13 +350,16 @@ We may share your information in connection with any proposed or actual merger, 
 
 To the maximum extent permitted by applicable laws, we may disclose any aggregated and/or de-identified information derived from the Personal Information that we collect about you to any third party for any purpose we deem necessary or appropriate.
 
-### **6\. How Do We Use Online Analytics & Interest-Based Advertising?**
+**6\. How Do We Use Online Analytics & Interest-Based Advertising?**
+====================================================================
 
-### **6.1. Our Use of Online Analytics.**
+**6.1. Our Use of Online Analytics.**
+-------------------------------------
 
-We may use third-party web analytics services on our Services, such as those provided by Google Analytics, Adobe Omniture, The Trade Desk, and similar providers.  These service providers use the sort of technology described in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) and [Section 3.2.3](https://www.medianewsgroup.com/privacy-policy/#section-3-2-3) of this Privacy Policy  to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information (including your IP address) collected by these technologies will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in [Section 6.2](https://www.medianewsgroup.com/privacy-policy/#section-6-2) and [Section 8.1](https://www.medianewsgroup.com/privacy-policy/#section-8-1) of this Privacy Policy and in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/).
+We may use third-party web analytics services on our Services, such as those provided by Google Analytics, Adobe Omniture, The Trade Desk, and similar providers.  These service providers use the sort of technology described in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) and [Section 3.2.3](https://www.medianewsgroup.com/privacy-policy/#section-3-2-3) of this Privacy Policy  to help us analyze how users use the Services, including by noting the third-party website from which you arrive. The information (including your IP address) collected by these technologies will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. We also use Google Analytics for certain purposes related to advertising, as described in [Section 6.2](https://www.medianewsgroup.com/privacy-policy/#section-6-2) and [Section 8.1](https://www.medianewsgroup.com/privacy-policy/#section-8-1) of this Privacy Policy and in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/). You can opt-out of Google Analytics as described in Section 8.2 of this Privacy Policy.
 
-### **6.2. Our Use of Interest-Based Advertising.**
+**6.2. Our Use of Interest-Based Advertising.**
+-----------------------------------------------
 
 When you use the Services, we may serve you with ads based on various factors such as the content of the page you are visiting, Personal Information and other information that you provide, such as, your age or gender, your searches, demographic and geographic data, User-Generated Content, and other information that you provide to us. These ads may be based on your current activity or your activity over time and may be based on your interests.
 
@@ -341,67 +367,64 @@ When you use the Services, we may share information about you, such as a hashed 
 
 Also, third parties, including without limitation those whose products or services are accessible or advertised via the Services, may place cookies, web beacons or pixel tags, or other similar tracking technologies (such as mobile ‘SDKs,’ which function like a mobile version of a browser cookie and are embedded in mobile applications) on your computer browser, mobile phone applications, or other device to collect information about your use of the Services, including your Personal Information, in order to: (i) inform, optimize, and serve ads based on past visits to our websites and other sites and mobile applications; and (ii) report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Websites, Applications, Platform, and the use of our Services. We also allow other third parties to serve interest-based ads to you via the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services so that interest-based ads may be delivered to you when you are using other websites and mobile applications. We also may share with third-party advertisers a hashed version of your email address, your IP address, and/or information about your browser or operating system, which may be identified by a service provider for purposes of delivering interest-based advertising on the Services, other websites, and/or mobile applications. We likewise may work with platform providers who serve advertising across devices. For instance, we may want to reach our web-based customers when they are on their mobile devices. This is done, generally, by correlating common attributes (such as IP addresses, other browser or device information, hashed email addresses, or unique ID) across devices, to infer a common identity across multiple channels.
 
-The third parties that use these technologies may offer you a way to opt-out of interest-based ad targeting, as is described in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) and in Section 8 (What are Your Rights & Choices?) of this Privacy Policy. We do not maintain or control these opt-opt mechanisms, which are provided by non-affiliated third parties. Further, we do not control which third parties choose to participate in these opt-out mechanisms. Please note that opting out of interest-based advertising does not mean that you will no longer see advertising on the Services, but these ads may be less relevant to your interests.
+Where a third party advertiser assigns you a unique ID, we may place this unique ID in our first party cookie, or use a partner that places a third party cookie and allows it to be used for online and interest based ad targeting. Your unique ID may be shared by us or on our behalf with third party advertisers for interest based ad targeting.
 
-For additional information about your legal rights regarding our collection and sharing, selling, or other disclosure of your Personal Information to third parties, please refer to the following Sections of this Privacy Policy: [Section 8 (What Are Your Rights & Choices?)](https://www.medianewsgroup.com/privacy-policy/#section-8), [Section 9 (Your California Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9), [Section 10 (Use of The Services By Users From Outside The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10), [Section 11 (Your Nevada Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-11), [Section 12 (Your Virginia Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-12), [Section 13 (Your Colorado Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-13),  [Section 14 (Your Connecticut Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-14), and Section 15 (Your Utah Rights & Choices).
+The third parties that use these technologies may offer you a way to opt-out of interest-based ad targeting, as is described in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) and in Section 8 (What are Your Rights & Choices?) [\[LN1\]](#_msocom_1) of this Privacy Policy. We do not maintain or control these opt-opt mechanisms, which are provided by non-affiliated third parties. Further, we do not control which third parties choose to participate in these opt-out mechanisms. Please note that opting out of interest-based advertising does not mean that you will no longer see advertising on the Services, but these ads may be less relevant to your interests.
 
-### **7\. How Do Third Parties Collect & Use Your Information Through Our Services?**
+You can opt-out of targeted or cross-contextual advertising, as those terms are defined in applicable privacy laws, by visiting our [Do Not Sell/Share My Information page](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77). For additional information about your legal rights regarding our collection and sharing, selling, or other disclosure of your Personal Information to third parties, please refer to the following Sections of this Privacy Policy: [Section 8 (What Are Your Rights & Choices?)](https://www.medianewsgroup.com/privacy-policy/#section-8), [Section 9 (Additional Privacy Rights and Choices of U.S. Residents)](https://www.medianewsgroup.com/privacy-policy/#section-9), and [Section 10 (Use of The Services By Users From Outside The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10)[\[LN2\]](#_msocom_2) [\[LN3\]](#_msocom_3) [\[LN4\]](#_msocom_4) .[\[LN5\]](#_msocom_5) 
+
+**7\. How Do Third Parties Collect & Use Your Information Through Our Services?**
+=================================================================================
 
 As is described elsewhere in this Privacy Policy, for certain advertising, analytics, and other features that appear in the Services or that we provide via the Services, a third party, such as an advertiser, search engine, or other partner may collect your Personal Information, such as, your name, mailing address, device information, IP address, etc., in accordance with applicable laws.  Subject to applicable laws, these third-party entities may use your Personal Information in any way they choose, including to market to you or to share your Personal Information with others. Subject to applicable laws, in those instances, your Personal Information may be covered by those third-party entities’ privacy policies. In some cases, these third-party entities may not have any online presence. Therefore, you should only submit your Personal Information in these cases when you are comfortable doing so given the conditions.  If you have questions about the privacy practices of these third-party entities, we encourage you to contact them and review their privacy policies. 
 
-For additional information about third-party entities that may collect and use your Personal Information in connection with your use of the Services, and the rights and choices you have to control or limit the collection and use of your Personal Information by these third-party entities, please refer to our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) and the following Sections of this Privacy Policy: [Section 8 (Your Privacy Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-8), [Section 9 (Your California Privacy Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9), [Section 10 (Use of The Services By Users From Outside The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10), [Section 11 (Your Nevada Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-11), [Section 12 (Your Virginia Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-12), [Section 13 (Your Colorado Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-13), [Section 14 (Your Connecticut Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-14), and Section 15 (Your Utah Rights & Choices).  
+For additional information about third-party entities that may collect and use your Personal Information in connection with your use of the Services, and the rights and choices you have to control or limit the collection and use of your Personal Information by these third-party entities, please refer to our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) and the following Sections of this Privacy Policy: [Section 8 (Your Privacy Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-8), [Section 9 (Additional Privacy Rights of U.S. Residents)](https://www.medianewsgroup.com/privacy-policy/#section-9), and [Section 10 (Use of The Services By Users From Outside The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10)[\[LN6\]](#_msocom_6) .  
 
-### **8\. What Are Your Rights & Choices?**
+**8\. What Are Your Rights & Choices?**
+=======================================
 
 This Section 8 of the Privacy Policy describes your legal rights and choices regarding how we use your Personal Information. This Section 8 of the Privacy Policy also describes how you exercise those rights and choices. We respect your privacy, and we will never discriminate against you for electing to exercise any privacy rights or choices that apply to you.
 
 We provide a variety of ways for you to control the Personal Information we maintain about you, including choices about how we collect and use your Personal Information.  In some jurisdictions, these controls and choices are enforceable as rights under applicable law. In addition to the privacy rights and choices detailed below in this Section 8 of this Privacy Policy, additional information about jurisdiction-specific privacy rights and choices that may apply to you can be found in the following Sections of this Privacy Policy:
 
-* If you are a California resident, please see additional detail below in [Section 9 of this Privacy Policy (Your California Privacy Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9);
+* If you are a resident of certain U.S. states, you may have additional rights. Please see additional detail below in [Section 9 of this Privacy Policy (Additional Privacy Rights and Choices of U.S. Residents)](https://www.medianewsgroup.com/privacy-policy/#section-9);
 * If you are a resident of the European Union, European Economic Area, the UK, or Switzerland, please see additional detail below in [Section 10 of this Privacy Policy (Use of the Services By Uses From Outside of The United States)](https://www.medianewsgroup.com/privacy-policy/#section-10);
-* If you are a resident of Nevada, please see addition detail below in [Section 11 of this Privacy Policy (Your Nevada Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-11);
-* If you are a resident of Virginia, please see additional detail below in [Section 12 of this Privacy Policy (Your Virginia Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-12);
-* If you are a resident of Colorado, please see additional detail below in [Section 13 (Your Colorado Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-13); and
-* If you are a resident of Connecticut, please see additional detail below in [Section 14 (Your Connecticut Rights & Choices)](https://www.medianewsgroup.com/privacy-policy/#section-14).
-* If you are a resident of Utah, please see additional detail below in Section 15 (Your Utah Rights & Choices).
 
 If you are a California resident and (1) an employee of MNG or an Affiliate, (2) an independent contractor of MNG or an Affiliate, or (3) are applying for a job with MNG or an Affiliate, please refer to our [California Resident Employee Privacy Policy.](https://myworkdaycenter.wd5.myworkdayjobs.com/MNG)
 
-### **8.1. Managing Your Account, Privacy Rights, & Choices.**
+**8.1. Managing Your Account, Privacy Rights, & Choices.**
+----------------------------------------------------------
 
-i. _Email_
+### i. _Email_
 
 As part of the Services, we may offer customers like you a variety of different email newsletters and other commercial emails. The Services are supported by advertising revenue. We may send you commercial emails on behalf of ourselves, our Affiliates, and our third-party advertisers. You can unsubscribe to these emails by either following the instructions in the email for opting-out of receiving future emails, or by calling the official customer service number listed in the “Contact Us” webpage of the Website of the newspaper publication from which you are receiving emails and making a request to no longer receive emails.
 
-ii. _Promotions Via Mail or Telephone_
+### ii. _Promotions Via Mail or Telephone_
 
 Sometimes, we may contact you via mail or telephone with promotions for our Services.  You can ask us to opt-out these mail or telephone solicitations. In certain jurisdictions, as is discussed elsewhere in this Privacy Policy, you may also have the right to instruct us to not share your Personal Information with third parties for direct marketing purposes.  To opt-out of future mail or telephone solicitations regarding the Services, please call the official customer service number listed in the “Contact Us” webpage of the Website of the newspaper publication from which you are receiving mail or telephone solicitations and make a request to no longer receive them.
 
-iii. _SMS/Text Message Alerts_
+### iii. _SMS/Text Message Alerts_
 
 If you receive marketing-related SMS/text message alerts from us in connection with the Services, you can opt-out of receiving them by replying “STOP” or any alternate keyword that we have shared with you. We will work to implement your opt-out request quickly and within the timeframes required by applicable laws. However, please note that your opt-out request will not prohibit us from sending you important non-marketing SMS/text message alerts about your account or use of the Services.  
 
-iv. _Push Notifications_
+### iv. _Push Notifications_
 
 You can opt-out of receiving push notifications from us by changing your settings on the device that is sending you push notifications from us, or by uninstalling the Application that is sending you push notifications from us.
 
-v. _Platform & Web Browser Controls_
+### v. _Platform & Web Browser Controls_
 
 * **Cookie Controls & Settings** 
 
 As is discussed in [Section 3.2.3 of this Privacy Policy](https://www.medianewsgroup.com/privacy-policy/#section-3-2-3) in and our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/), when you access the Services via the Internet or an Internet-connected device, we may place or collect “cookies” from your web browser or device, and we may use these cookies for various purposes.  Depending on the jurisdiction in which you reside, some of these cookies may constitute your Personal Information under applicable law. 
 
-Most web browsers are set to accept cookies by default.  However, you can go to the settings menu of your web browser to learn how to delete or reject cookies.  Additionally, the Websites on which we provide the Services offer you the capability to choose certain cookie preferences about whether or not your web browser will accept – or instead will block/reject – certain cookies from our Website. To implement your personal cookie preferences for a Website on which you access the Services, you first need to open the cookie preferences menu for that particular Website.  The cookie preferences menu can be opened by clicking on the icon below that is located in the bottom-right corner of each page on our Websites:
+Most web browsers are set to accept cookies by default.  However, you can configure the settings of your web browser to delete or reject cookies.  Additionally, the Websites on which we provide the Services offer you the capability to choose certain cookie preferences about whether or not your web browser will accept – or instead will block/reject – certain cookies from our Website. To implement your personal cookie preferences on our Websites, you first need to open the cookie preferences menu for that particular Website.  The cookie preferences menu can be opened by clicking on the icon below that is located in the bottom-right corner of each page on our Websites:
 
-![A blue and green logo
-Description automatically generated](https://lh7-us.googleusercontent.com/zfdovR0LpDjg9lQxUnY3wpNnFL1rwbH0WAUll00yDspdalNXhcUN2ByyGOFMoU5xjnb0dQ3CBDx7hZXPASV82dPQbWCFx6XRdb3ShfVygR9TyZ_Mb-IjC5sO1GHa4fISEurISdEO0Ryc-NztxduZio64I6Fk3fgV)
-
-Once you have opened the cookie preferences menu, you can choose whether your web browser will accept or block/reject certain types of cookies from the Website.  In the cookie preferences menu, you can also opt-out of our “sale” or “share” to third parties of the “Personal Information” (as these quoted terms are defined by the California Consumer Privacy Act) that we collect about you via cookies on that Website.  For additional information about opting-out of our “sales” or “shares” of your Personal Information, please refer to [Section 9 of this Privacy Policy (Your California Privacy Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9). 
+Once you have opened the cookie preferences menu, you can choose whether your web browser will accept or block/reject certain types of cookies from the Website.  In the cookie preferences menu, you can also opt-out of certain uses of Personal Information we collect about you via cookies, such as our “sale” or use in targeted advertising.  For additional information about opting-out of our “sales” or targeted advertising, please refer to Section 9 of this Privacy Policy (Additional Privacy Rights and Choices of U.S. Residents). [\[LN7\]](#_msocom_7) 
 
 Please review, and be aware of, the following regarding your choice to delete, reject, or otherwise opt-out of cookies in connection with your use of the Services:
 
 * If you choose to delete or reject cookies on your web browser or device, this could affect certain features or Services that we provide via our Websites and Applications;
-* These cookie blocking and opt-out mechanisms are unique to your computer, tablet, device, and web browser, which means that you will need to re-implement your cookie blocking our opt-out preferences on each such computer, tablet, device, and web browser that you use;  
+* These cookie-blocking and opt-out mechanisms are unique to your computer, tablet, device, and web browser, which means that you will need to re-implement your cookie blocking our opt-out preferences on each such computer, tablet, device, and web browser that you use;  
 * If you clear or delete your cookies on your device or web browser after opting-out of cookies or configuring our cookie preferences menu to block or reject cookies, this will result in the deletion of the opt-out or blocking cookie on your web browser or device, meaning you will need to opt-out or configure our cookie preferences menu again after clearing or deleting the cookies (this may also apply to “Do Not Sell/Share My Personal Information” signals/preferences that you implement via our cookies preferences menu on our Websites); and
 * After you opt-out of cookies or configure your personalized cookie preferences on our Websites to block/reject cookies, you may continue to receive advertising via our Services, but those ads may be less relevant to you.  
 
@@ -419,7 +442,8 @@ Some web browsers offer a “Do Not Track” (“DNT”) setting that can send a
 
 Mobile devices running on iOS and Android operating systems provide options about how to limit tracking and/or reset advertising IDs. You may be able to implement these options on your iOS or Android mobile device that you use to access the Services. For more information about advertising IDs and how to implement advertising ID controls and choices on your iOS or Android mobile device in connection with your use of the Services, please click [here](https://thenai.org/opt-out/mobile-opt-out/).  Please refer to the bullet titled “Mobile Device Settings” under Section 8.2 of this Privacy Policy below for additional information.
 
-### **8.2. Your Additional Rights & Choices For Third Parties & Our Online Analytics & Interest-Based Advertising Practices.**
+**8.2. Your Additional Rights & Choices for Third Parties & Our Online Analytics & Interest-Based Advertising Practices.**
+--------------------------------------------------------------------------------------------------------------------------
 
 As is discussed above in [Section 6](https://www.medianewsgroup.com/privacy-policy/#section-6) of this Privacy Policy, we use Google Analytics on our Services for various purposes, including for online analytics and interest-based advertising purposes. To prevent Google Analytics from using your Personal Information for analytics purposes, you may install the Google Analytics Opt-out Browser Add-on by [clicking here](https://tools.google.com/dlpage/gaoptout). Click [here](https://policies.google.com/technologies/partner-sites) for additional information about Google Analytics, and click [here](https://policies.google.com/) to view Google’s Privacy Policy and Terms of Service.
 
@@ -428,26 +452,30 @@ As is discussed elsewhere in this Privacy Policy and in our [Cookie Policy](htt
 To maximize the effectiveness of your opt-out for interest-based advertising, you should register your choice through all of these mechanisms and on each web browser and/or mobile device that you use to access the Services:
 
 * **General Third Party Opt-Out Mechanisms (Browser/Cookie-based)**. If you would like more information about interest-based advertising enabled via cookies and web browsers and how you can generally control cookies from being put on your computer for such advertising, please refer to our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/).  In addition to the steps described above in this Privacy Policy and in our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/), you may opt out of certain targeted advertising from participating companies and entities as follows:
-    1. **US Based Opt-Outs.** For US based opt-outs, you may visit and use the Network Advertising Initiative’s (NAI) Consumer Opt-out link ([www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)), the [Digital Advertising Alliance’s (DAA) Consumer Opt-Out link](about:blank) ([https://optout.aboutads.info/?c=2&lang=EN](https://optout.aboutads.info/?c=2&lang=EN)), and [TrustArc’s Advertising Choices Page](https://preferences-mgr.truste.com/) ([https://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/))  
+    1. **US Based Opt-Outs.** For US based opt-outs, you may visit and use the Network Advertising Initiative’s (NAI) Consumer Opt-out link ([www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)), the [Digital Advertising Alliance’s (DAA) Consumer Opt-Out link](file:///C:/Users/lnakagawa/Documents/Data%20Privacy/MNG-Trib-Internal/Privacy%20Policy/MNG/Digital%20Advertising%20Alliance%E2%80%99s%20(DAA)%20Consumer%20Opt-Out%20link) ([https://optout.aboutads.info/?c=2&lang=EN](https://optout.aboutads.info/?c=2&lang=EN)), and [TrustArc’s Advertising Choices Page](https://preferences-mgr.truste.com/) ([https://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/))  
     2. **Canadian Based Opt-Outs.** For Canadian based opt-outs, you may visit and use the opt-out mechanisms at [https://youradchoices.ca/choices](https://youradchoices.ca/choices).
     3. **European Based Opt-Outs**.  For European based opt-outs, you may visit and use the opt-out mechanisms at [https://www.youronlinechoices.com/](https://www.youronlinechoices.com/).
 * **LiveRamp**. To opt-out of data collection, sharing, and use by our partner, LiveRamp, please [click here](https://liveramp.com/opt_out/).  
 * **Criteo**. To opt-out of data collection, sharing, and use by our partner, Criteo, please [click here](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/). You can read Criteo’s privacy policy [here](https://www.criteo.com/privacy/).
 * **Connatix**. For information about how to opt-out of data collection, sharing, and use by our partner, Connatix, please visit Connatix’s Privacy Policy [here](https://www.connatix.com/privacy-policy).
 * **ID5.** For information about how to opt-out of data collection, sharing, and use by our partner, ID5, [click here](https://id5-sync.com/privacy). You can read ID5’s privacy policy [here.](https://id5.io/platform-privacy-policy/)
-* **Taboola**.  To opt-out of data collection, sharing, and use by our partner, Taboola, please [click here](https://www.taboola.com/policies/privacy-policy#user-choices-and-opting-out).
+* **The Trade Desk.** To opt-out of data collection, sharing, and use by our partner, The Trade Desk, please click [here](https://www.adsrvr.org/).
 * **Facebook**. For information about how to manage interest-based advertising and data collection, sharing, and use by our partner, Facebook, please click [here](https://www.facebook.com/help/568137493302217).
 * **Google Analytics/Google Ads**. If you have a Google account, we may use Google Analytics to serve and display advertising to you. You can opt-out of Google Analytics for display advertising or customize your Google display network ads by visiting the [Google Ads Settings](https://adssettings.google.com/anonymous?hl=en) page.  You will need to log in to Google via the Sign In link if you are not already logged in when you visit that page.
 * **Microsoft**. Microsoft may also collect or receive your Personal Data to provide targeted advertising to you via the Services. For information about how to manage and control data collection, sharing and use by Microsoft, please refer to the “How to access and control your personal data” section of [Microsoft’s Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement).  To opt-out of data collection, use, and sharing by Microsoft, please click [here](https://account.microsoft.com/privacy/ad-settings/signedout?refd=privacy.microsoft.com&ru=https%3A%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%3Frefd%3Dprivacy.microsoft.com).   For information about Microsoft’s data collection and interest-based advertising practices, please visit Microsoft’s Privacy Policy  
-* **Mobile Device Settings**. You can also opt-out of “cross-app” advertising – interest-based advertising that is associated with your use of our or other mobile applications.  To do so, please go to your device settings and opt-out through the controls provided through Google/Android or iOS, as applicable.  Each operating system (iOS for Apple devices, Android for Android devices, and Windows for Microsoft devices) provides its own instructions on how to prevent the delivery of interest-based in-application advertisements.  We cannot guarantee that these instructions will not change, or that they will continue to be available, as they are controlled by each mobile platform and not us.  For any other devices and/or operating systems, please visit the privacy settings for the applicable device or operating system or contact the applicable platform operator.   Please also refer to the discussion above under the paragraph titled “**Mobile Advertising ID Controls for iOS and Android Users**” for additional information about your privacy rights and choices for iOS and Android mobile devices.
+* **Mobile Device Settings**. You can also opt-out of “cross-app” advertising – interest-based advertising that is associated with your use of our or other mobile applications.  To do so, please go to your device settings and opt-out through the controls provided through Google/Android or iOS, as applicable.  Each operating system (iOS for Apple devices, Android for Android devices, and Windows for Microsoft devices) provides its own instructions on how to prevent the delivery of interest-based in-application advertisements.  We cannot guarantee that these instructions will not change, or that they will continue to be available, as they are controlled by each mobile platform and not us.  For any other devices and/or operating systems, please visit the privacy settings for the applicable device or operating system or contact the applicable platform operator. Please also refer to the discussion above under the paragraph titled “**Mobile Advertising ID Controls for iOS and Android Users**” for additional information about your privacy rights and choices for iOS and Android mobile devices.
 
 Please refer to Section 2 of our [Cookie Policy](https://www.medianewsgroup.com/cookie-policy/) for important information that you should review before choosing to opt-out, delete, or block cookies.
 
-### **9\. Your California Privacy Rights**
+**9\. Additional Privacy Rights and Choices of U.S. Residents**
+===============================================================
+
+**9.1 Your California Privacy Rights**
+--------------------------------------
 
 **Notice For California Residents**
 
-The California Consumer Privacy Act (“**CCPA**”), as amended by the California Privacy Rights Act (“**CPRA**”) (the CPPA and CPRA, collectively the “**California Privacy Laws**”) gives California residents certain rights and choices about how we collect, use, and disclose their Personal Information. This Section 9 of this Privacy Policy (the “**California Notice**”) describes these additional rights and choices and provides disclosures required by the California Privacy Laws about how we collect, use, and disclose California residents’ Personal Information.
+The California Consumer Privacy Act (“**CCPA**”), as amended by the California Privacy Rights Act (“**CPRA**”) (the CPPA and CPRA, collectively the “**California Privacy Laws**”) gives California residents certain rights and choices about how we collect, use, and disclose their Personal Information. This Section 9.1 of this Privacy Policy (the “**California Notice**”) describes these additional rights and choices and provides disclosures required by the California Privacy Laws about how we collect, use, and disclose California residents’ Personal Information.
 
 This California Notice applies to information of California residents that constitutes “Personal Information” under the California Privacy Laws to the extent that we handle such California Personal Information in our capacity as a business under the California Privacy Laws. For purposes of this California Notice Section of this Privacy Policy, the capitalized term “Personal Information” refers to information of California residents that constitutes “personal information” under the California Privacy Laws, as distinguished from the general definition of Personal Information set forth under Section 1.1 of this Privacy Policy. As a practical matter, if you are a California resident that uses the Services, there is likely little or no difference between Personal Information as used in this California Notice Section of the Privacy Policy and the definition of Personal Information provided above in Section 1.1. This California Notice does not apply to information exempt from, or otherwise not subject to, the requirements of the California Privacy Laws. 
 
@@ -464,7 +492,7 @@ We currently collect, and within the 12 months prior to the “Last Updated” d
 * Commercial and financial information, such as, credit and debit card numbers, bank account numbers, payment information, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
 * Audio, electronic, visual, thermal, olfactory, or other similar information.
 * Inferences drawn from Personal Information to create a profile about a consumer.
-* Sensitive Personal Information, such as social security number, driver’s license number, state identification card number, passport number, or a consumer’s precise geolocation.
+* Sensitive Personal Information, such as a government-issued ID number or payment account information.
 
 We also collect public content that you may provide to us voluntarily, such as, your comments, posts, reviews, survey responses, and User-Generated Content.
 
@@ -498,13 +526,13 @@ The table below identifies the categories of Personal Information that we disclo
 |     |     |
 | --- | --- |
 | **Categories of Personal Information** | **Categories of Other Recipients** |
-| Identifiers, such as, a real name, alias, postal address, shipping address, email address, IP address, account name/number, online username, telephone number, an individual’s written or electronic signature, and driver’s license or state identification card number | Our Affiliates; our newspaper delivery distributors; customer service providers; debt collectors; payment processors; telemarketers; Social Media platforms and Third-Party Services providers (e.g., Apple, Google, Facebook); advertising networks; advertising platforms; advertising technology providers; data analytics providers; list brokering networks; our security, fraud, and legal compliance partners and other individuals, entities, or service providers at your request. |
+| Identifiers, such as, a real name, alias, postal address, shipping address, email address, IP address, account name/number, online username, telephone number, an individual’s written or electronic signature, and driver’s license or state identification card number | Our Affiliates; our newspaper delivery distributors; customer service providers; event sponsors; debt collectors; payment processors; telemarketers; Social Media platforms and Third-Party Services providers (e.g., Apple, Google, Facebook); advertising networks; advertising platforms; advertising technology providers; data analytics providers; list brokering networks; our security, fraud, and legal compliance partners and other individuals, entities, or service providers at your request. |
 | Unique personal identifiers (device identifiers, cookies, web beacons, pixel tags, mobile identifiers, or similar technology); Internet Protocol (IP) addresses, online identifiers; Geolocation data; Internet or other electronic network activity information (search history; browsing history; and information regarding a consumer’s interaction with any of our Services, Websites, Applications, Platform, or advertisements served to you via the Services, Websites, Applications, or Platform); inferences drawn from Personal Information to create a profile about a consumer. | Our Affiliates; Social Media platforms and Third-Party Services providers (e.g., Apple, Google, Facebook); advertising networks; advertising platforms; advertising technology providers; data analytics providers; list brokering networks; IT service providers; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
 | Characteristics of protected classifications under California or Federal law, such as, age or gender. | Our Affiliates; payment processors; debt collectors; customer service providers, telemarketers; our newspaper delivery providers; our contest, sweepstakes, survey, or polling providers; Social Media platforms and Third-Party Services providers (e.g., Apple, Google, Facebook); advertising networks; advertising platforms; data analytics providers; list brokering networks; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
 | Commercial and financial information, such as, credit and debit card numbers, bank account numbers, payment information, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | Our Affiliates; payment processors debt collectors; customer service providers; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
 | Physical characteristics or descriptions (i.e., photos of you that you provide to us as User-Generated Content). | Our Affiliates; our third-party content licensing partners; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
 | Audio, electronic, visual, thermal, olfactory, or other similar information (such as that included in User-Generated Content that you submit to us via the Services) | Our Affiliates; our third-party content licensing partners; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
-| Sensitive Personal Information allowed for under California law, such as, social security number, driver’s license number, state identification card number, passport number, or a consumer’s racial origin, religious beliefs, or union membership; a consumer’s debit or credit card numbers. | Our Affiliates; customer service providers; payment processors; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
+| Sensitive Personal Information allowed for under California law, such as a government-issued ID number or a consumer’s debit or credit card numbers. | Our Affiliates; customer service providers; payment processors; our security, fraud, and legal compliance partners; and other individuals, entities, or service providers at your request. |
 |     |     |
 
 We do not knowingly collect, sell, share, or otherwise disclose Personal Information of consumers under 16 years of age.  We currently do not use “Sensitive Personal Information” (as that term is defined by the California Privacy Laws) for purposes other than those the California Privacy Laws allow for.
@@ -513,7 +541,7 @@ We do not knowingly collect, sell, share, or otherwise disclose Personal Informa
 
 We retain each of the above categories of Personal Information for as long as is necessary to: (1) fulfill the purposes for which we collect it (for example, for as long as is necessary to provide you with the Services that you have requested); and (2) satisfy any legal, accounting, contractual, record keeping, or reporting requirements that apply to us.
 
-Please refer to Section 19 (How Long Do We Retain Your Personal Information?) of this Privacy Policy for additional information about our Personal Information retention practices.
+Please refer to Section 14 (How Long Do We Retain Your Personal Information?) of this Privacy Policy for additional information about our Personal Information retention practices.
 
 **CCPA Rights**
 
@@ -534,14 +562,14 @@ You will not receive any discriminatory treatment from us for exercising any of 
 
 For more information or to opt-out of any future selling or sharing of your Personal Information for the purposes above, please click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
 
-Additionally, if your browser supports it, you can turn on the [Global Privacy Control](https://globalprivacycontrol.org/) (GPC) to opt-out of the “sale” or “sharing” of your Personal Information. Please refer to the “Global Privacy Control (GCP)” discussion above in Section 8.1 of this Privacy Policy for additional information.  
+Additionally, if your browser supports it, you can turn on the [Global Privacy Control](https://globalprivacycontrol.org/) (GPC) to opt-out of the “sale” or “sharing” of your Personal Information. Please refer to the “Global Privacy Control (GPC)” discussion above in Section 8.1 of this Privacy Policy for additional information.  
 
 **Authorized Agent.**  If you are submitting a request on behalf of a California resident, please submit the request through one of the designated methods discussed in this Privacy Policy.  After submitting the request, if the request is not subject to an exemption or exception, we will require additional information to verify that you have the authority to act on behalf of the California resident.
 
 **Methods for submitting requests under the CCPA/CPRA**
 
 * For additional information or to submit a CCPA/CPRA request, please fill out this [form](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77).
-* You may also submit a request by sending us an email to this address: [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) with “California Privacy Rights” in the subject.
 
 **Identity verification**
 
@@ -549,7 +577,7 @@ We will need to verify your identity to process your information, access, correc
 
 **Shine the Light**
 
-It is our policy not to disclose Personal Information (as defined in California’s Shine the Light Law, California Civil Code Section 1798.83) provided to us by our customers (as defined in the Shine the Light Law) to third parties for their direct marketing purposes if the customer has exercised an option that prevents that information from being disclosed to third parties for those purposes. Such customers may exercise this option by submitting a CCPA opt-out request [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77).
+It is our policy not to disclose Personal Information (as defined in California’s Shine the Light Law, California Civil Code § 1798.83) provided to us by our customers (as defined in the Shine the Light Law) to third parties for their direct marketing purposes if the customer has exercised an option that prevents that information from being disclosed to third parties for those purposes. Such customers may exercise this option by submitting a CCPA opt-out request [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77).
 
 **Accessibility**
 
@@ -571,25 +599,237 @@ We offer programs, benefits, and other offerings to consumers that use the Servi
 
 **How to Contact Us**
 
-To contact us for questions or concerns about our privacy policies or practices please complete a submit an email to the following address: [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). You may also contact us by sending postal mail to:
+To contact us for questions or concerns about our privacy policies or practices, please contact us using the contact information in Section 19 [\[LN8\]](#_msocom_8) of this Policy.
 
-                        MediaNews Group, Inc.
+**9.2 Your Nevada Rights & Choices.**
+-------------------------------------
 
-                        5990 N. Washington Street
+Under Nevada law, if you are a resident of Nevada, you may opt-out of our “sale” of your “covered information”, as these terms are defined under Nevada law.  For purposes of Nevada law, “covered information” includes your first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. 
 
-                        Denver, Colorado 80216
+If you are a Nevada resident and have purchased or leased goods or services from us, you may submit a request to opt-out of any potential future “sales” by us of your “covered information” by clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.  Please note that we will take reasonable steps to verify your identity and the authenticity of your request.  Once verified, we will maintain your request in the event our practices change. 
 
-                        United States of America
+**9.3 Your Virginia Rights & Choices.**
+---------------------------------------
 
-                        Attention: Legal Department
+This Section 9.3 applies to residents of Virginia. Virginia residents have the right to receive certain disclosures regarding the Personal Information we collect and use about them.  For a discussion of the categories of Personal Information about that we collect and use, the categories of Personal Information that we share with third parties, and the categories of third parties with whom we share Virginia residents’ Personal Information, please refer Section 9.1 (Your California Rights) [\[LN9\]](#_msocom_9) of this Privacy Policy.
 
-### **10\. Use of The Services By Users From Outside The United States**
+If you are a Virginia resident, you have the right to: (1) confirm whether or not we are processing your Personal Information and to access such Personal Information; (2) correct inaccuracies in your Personal Information, taking into account the nature of the Personal Information and the purposes of the processing of your Personal Information; (3) delete Personal Information you have provided or we have obtained about you; (4) obtain a copy of your Personal Information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another controller without hindrance, where the processing is carried out by automated means; and (5) opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the sale of Personal Information, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. Although we do not “sell” your Personal Information in the traditional sense (i.e., for money), our use of interest-based advertising cookies and tracking technologies could be considered a sale of your Personal Information under Virginia law. In some instances, it also may qualify as targeted advertising.
+
+To exercise your rights, please click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.  If we refuse to take action regarding your request to exercise your rights under Virginia law, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
+
+**9.4 Your Colorado Rights & Choices.**
+---------------------------------------
+
+This Section 9.4 of this Privacy Policy describes Colorado residents’ privacy-related rights and choices.
+
+You have the right to:
+
+* **Right to Opt-Out**. As is described in greater detail below in this Section 9.4, you have the right to opt out of our processing of your Personal Information, if we process your Personal Information for any of the following three purposes: (A) targeted advertising, (B) the “sale” of your Personal Information, or (C) or profiling in furtherance of decisions that produce legal or similarly significant effects.
+* **Right to Confirm**. You have the right to request our confirmation about whether we process Personal Information about you.
+* **Right to Access**.  If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
+* **Right** **to Data Portability**.  If you exercise your right to access your Personal Information that we collect about you, you have the right to obtain the Personal Information we maintain about you in a portable (and to the extent technically feasible) readily available format that allows you to transmit that Personal Information to another entity without hinderance, subject to certain exceptions. You may exercise this “right to data portability” no more than twice per calendar year.
+* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
+* **Right to Deletion**. If we process Personal Information about you, you have the right to instruct us to permanently delete that Personal Information, subject to certain exceptions.
+* **Right to Consent to Processing of Sensitive Data**.  We do not currently process sensitive Personal Information, as defined in Colorado law. If we process your sensitive Personal Information, we will first obtain your consent.
+
+You will not receive any discriminatory or retaliatory treatment from us for exercising any of the privacy rights granted to you.
+
+If you are a Colorado resident, your authorized agent (i.e., a third party acting on your behalf with your express consent) may submit a request to us on your behalf to exercise any of the privacy-related rights above. If you are submitting a request on behalf of a Colorado resident, please submit the request through one of the designated methods discussed in this Privacy Policy.  After submitting the request, if the request is not subject to an exemption or exception, we may require additional information to verify that you have the authority to act on behalf of the Colorado resident.
+
+For a general discussion of the categories of Personal Information that we collect and use (i.e., process) about Colorado residents, the categories of Personal Information that we disclose to third parties, and the categories of third parties with whom we disclose Colorado residents’ Personal Information, please refer to Section 9.1 (Your California Rights) [\[LN10\]](#_msocom_10) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
+
+**Colorado Residents: More Information About Your Right to Opt Out**
+
+As a Colorado resident, you have you have the right to opt out of our processing of your Personal Information, if we process your Personal Information for any of the following three purposes: (A) targeted advertising, (B) the “sale” of your Personal Information, or (C) or profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.  As is discussed in this Privacy Policy above, we do not “sell” the Personal Information of Colorado residents in the traditional sense (i.e., for money). However, in some instances, our use of interest-based advertising cookies and tracking technologies could be considered a “Sale” of your Personal Information under Colorado law. We do not use your Personal Information for profiling, as defined in Colorado law.
+
+**Colorado Residents: Methods for Exercising Your Rights**
+
+If you are a Colorado resident, to exercise your rights under the CPA, please:
+
+* Click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) with “Colorado Privacy Rights” in the subject.
+
+**Colorado Residents: Appeal Process for Exercising Your Rights**
+
+If we refuse to take action regarding your request to exercise your rights, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). Your appeal of our refusal must include the words “PRIVACY RIGHTS APPEAL” in the subject line of the email and the following information to be deemed valid: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) your mailing address, (4) the right or rights under the CPA that you initially requested to exercise, (5) the date of your initial request, and (6) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal. 
+
+Upon receipt of a valid written appeal from you, we will provide you with a written explanation in support of our response to your appeal within 45 days. Where permitted by law, we may extend our deadline for officially responding to your appeal by an additional 60 days. If you have concerns about the results of your appeal with us regarding your privacy rights and choices, you may contact the Colorado Attorney General. Information about how to contact the Colorado Attorney General about your appeal can be found on the Colorado Attorney General’s website [here](https://coag.gov/resources/colorado-privacy-act/).
+
+**9.5 Your Connecticut Rights & Choices**
+-----------------------------------------
+
+This Section 9.5 of this Privacy Policy describes the privacy-related rights and choices available to Connecticut residents.
+
+You have the right to”
+
+* **Right to Opt Out**. As is described in greater detail below in this Section 9.5, you have the right to opt out of our processing of your Personal Information, if we process your Personal Information for any of the following three purposes: (A) targeted advertising, (B) the “sale” of your Personal Information, or (C) or profiling in furtherance of decisions that produce legal or similarly significant effects.
+* **Right to Confirm**. You have the right to request our confirmation about whether we process Personal Information about you.
+* **Right to Access**.  If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
+* **Right to Data Portability**.  If you exercise your right to access your Personal Information that we collect about you, you have the right to obtain the Personal Information we maintain about you in a portable (and to the extent technically feasible) readily available format that allows you to transmit that Personal Information to another entity without hinderance, subject to certain exceptions.
+* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
+* **Right to Deletion**. If we process Personal Information about you, you have the right to instruct us to permanently delete that Personal Information, subject to certain exceptions.
+* **Right to Consent to Processing of Sensitive Data**.  We do not currently process sensitive Personal Information, as defined in Connecticut law. If we process your sensitive Personal Information, we will first obtain your consent. If you have given us your prior informed consent to the processing of your sensitive Personal Information, you will have the right to revoke this consent.
+
+You will not receive any discriminatory or retaliatory treatment from us for exercising any of the privacy rights granted to you.
+
+Your authorized agent (i.e., a third party acting on your behalf with your express consent) may submit a request to us on your behalf for you to exercise any of the privacy-related rights above. If you are submitting a request on behalf of a Connecticut resident, please submit the request through one of the designated methods discussed in this Privacy Policy.  After submitting the request, if the request is not subject to an exemption or exception, we may require additional information to verify that you have the authority to act on behalf of the Connecticut resident.
+
+For a discussion of the categories of Personal Information that we collect and use (i.e., process) about Connecticut residents, the categories of Personal Information that we disclose to third parties, and the categories of third parties with whom we disclose your Personal Information, please refer to Section 9.1 (Your California Rights) [\[LN11\]](#_msocom_11) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
+
+**Connecticut Residents: Methods for Exercising Your Rights**
+
+If you are a Connecticut resident, to exercise your rights, please:
+
+* Click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) with “Connecticut Privacy Rights” in the subject.
+
+**Connecticut Residents: Appeal Process for Exercising Your Rights**
+
+If we refuse to take action regarding your request to exercise your rights, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). Your appeal of our refusal must include the following information: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) your mailing address, (4) the right or rights that you initially requested to exercise, (5) the date of your initial request, and (6) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal.  Upon receipt of a valid written appeal from you, we will provide you with a written explanation in support of our response to your appeal within 60 days. If you have concerns about the results of your appeal with us regarding your privacy rights and choices, you may contact the Connecticut Attorney General. Information about how to contact the Connecticut Attorney General about your appeal can be found on the Connecticut Attorney General’s website [here](https://portal.ct.gov/AG/Sections/Privacy/The-Privacy-and-Data-Security-Department).
+
+**9.6 Your Utah Rights & Choices**
+----------------------------------
+
+This Section 9.6 of the Privacy Policy describes the privacy-related rights and choices available to Utah residents.
+
+If you are a Utah resident, you have the following rights:
+
+* **Right to Know:** You have the right to confirm whether or not we are processing your Personal Information.
+* **Right to Access:** If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
+* **Right to Data Portability:** If you exercise your right to access the Personal Information that we maintain about you, you have the right to obtain such Personal Information in a format that is (to the extent technically feasible) portable and readily usable, and that allows you to transmit that Personal Information to another entity without impediment, subject to certain exceptions.
+* **Right to Deletion:** If we have collected Personal Information from you, you have the right to instruct us to delete that Personal Information.  
+    **Right to Opt-Out:** You have the right to opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the sale of Personal Information, or (iii) the processing of sensitive Personal Information.
+
+You will not receive any discriminatory or retaliatory treatment from us for exercising any of your privacy rights.
+
+For information about the categories of Personal Information that we collect and use (i.e., process) about Utah residents, the categories of Personal Information that we disclose to third parties, and the categories of third parties to whom we disclose Personal Information, please refer to Section 9.1 (Your California Rights) [\[LN12\]](#_msocom_12) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
+
+**Utah Residents: More Information About Your Right to Opt-Out**
+
+As a Utah resident, you have the right to opt-out of our processing of your Personal Information for the following purposes: (1) targeted advertising, (2) the “sale” of your Personal Information, or (3) the processing of your sensitive Personal Information. We do not sell your Personal Information, nor do we process your sensitive Personal Information, as defined in Utah privacy law.
+
+**Methods of Exercising Your Rights**
+
+If you are a Utah resident, you can exercise your rights by:
+
+* Clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
+
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) with “Utah Privacy Rights” in the subject.
+
+**9.7** **Your Texas Rights & Choices**
+---------------------------------------
+
+This Section 9.7 of the Privacy Policy describes the privacy-related rights and choices that apply to residents of Texas.
+
+If you are a Texas resident, you have the following rights:
+
+* **Right to Know:** You have the right to confirm whether or not we are processing your Personal Information.
+* **Right to Access:** If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
+* **Right to Data Portability:** If you exercise your right to access the Personal Information that we maintain about you, you have the right to obtain such Personal Information in a format that is (to the extent technically feasible) portable and readily usable, if we maintain your Personal Information in a digital format.
+* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
+* **Right to Deletion:** You have the right to instruct us to delete certain Personal Information we maintain about you.
+* **Right to Opt-Out:** You have the right to opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the sale of Personal Information, or (iii) use of your Personal Information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+* **Right to Consent to Processing of Sensitive Data**.  We do not currently process sensitive Personal Information, as defined in Texas law. If we process your sensitive Personal Information, we will first obtain your consent.
+
+You will not receive any discriminatory or retaliatory treatment from us for exercising your privacy rights.
+
+For information about the categories of Personal Information that we collect and use (i.e., process), the categories of Personal Information that we disclose to third parties, and the categories of third parties to whom we disclose Personal Information, please refer to Section 9.1 (Your California Rights) [\[LN13\]](#_msocom_13) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
+
+**Texas Residents: More Information About Your Right to Opt-Out**
+
+You have the right to opt-out of our processing of your Personal Information for the following purposes: (1) targeted advertising, (2) the “sale” of your Personal Information, or (3) the use of your Personal Information in profiling, if it produces a significant legal effect. We do not engage in profiling as defined by Texas privacy law.
+
+**Methods of Exercising Your Rights**
+
+If you are a Texas resident, you can exercise your rights by:
+
+* Clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
+
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) with “Texas Privacy Rights” in the subject.
+
+**Texas Residents: Appeal Process for Exercising Your Rights**
+
+If we refuse to take action regarding your request to exercise your rights, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). Your appeal of our refusal must include the following information: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) the right or rights that you initially requested to exercise, (4) the date of your initial request, and (5) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal. If you have concerns about the results of your appeal regarding your privacy rights and choices, you may contact the Texas Attorney General. Information about how to contact the Texas Attorney General about your appeal can be found on the Texas Attorney General’s website [here](https://www.texasattorneygeneral.gov/consumercomplaintportal/).
+
+**9.8 Your Oregon Rights & Choices**
+------------------------------------
+
+This Section 9.8 of the Privacy Policy describes the privacy-related rights and choices that apply to residents of Oregon.
+
+If you are an Oregon resident, you have the following rights:
+
+* **Right to Know:** You have the right to confirm whether or not we are processing your Personal Information. You also have the right to know: (i) the categories of Personal Information that we process, and (ii) a list of specific third parties to which we disclose Personal Information.
+* **Right to Access:** If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
+* **Right to Data Portability:** If you exercise your right to access the Personal Information that we maintain about you, you have the right to obtain such Personal Information in a format that is (to the extent technically feasible) portable and readily usable.
+* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
+* **Right to Deletion:** You have the right to instruct us to delete certain Personal Information we maintain about you.
+* **Right to Opt-Out:** You have the right to opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the “sale” of Personal Information, or (iii) use of your Personal Information for profiling in furtherance of decisions that produce legal or similarly significant effects.
+* **Right to Consent to Processing of Sensitive Data**.  We do not currently process sensitive Personal Information, as defined in Oregon law. If we process your sensitive Personal Information, we will first obtain your consent.
+
+You will not receive any discriminatory or retaliatory treatment from us for exercising your privacy rights.
+
+For information about the categories of Personal Information that we collect and use (i.e., process), the categories of Personal Information that we disclose to third parties, and the categories of third parties to whom we disclose Personal Information, please refer to Section 9.1 (Your California Rights) [\[LN14\]](#_msocom_14) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
+
+**Oregon Residents: More Information About Your Right to Opt-Out**
+
+You have the right to opt-out of our processing of your Personal Information for the following purposes: (1) targeted advertising, (2) the “sale” of your Personal Information, or (3) the use of your Personal Information in profiling, if it produces a significant legal effect. We do not engage in profiling as defined by Oregon privacy law.
+
+**Methods of Exercising Your Rights**
+
+If you are an Oregon resident, you can exercise your rights by:
+
+* Clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
+
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com?subject=Oregon%20Privacy%20Rights) with “Oregon Privacy Rights” in the subject.
+
+**Oregon Residents: Appeal Process for Exercising Your Rights**
+
+If we refuse to take action regarding your request to exercise your rights, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com?subject=Oregon%20Privacy%20Appeal). Your appeal of our refusal must include the following information: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) the right or rights that you initially requested to exercise, (4) the date of your initial request, and (5) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal. If you have concerns about the results of your appeal regarding your privacy rights and choices, you may contact the Texas Attorney General. Information about how to contact the Oregon Attorney General about your appeal can be found on the Oregon Attorney General’s website [here](https://www.doj.state.or.us/consumer-protection/id-theft-data-breaches/privacy/).
+
+**9.9** **Your Montana Rights & Choices**
+-----------------------------------------
+
+This Section 9.9 of the Privacy Policy describes the privacy-related rights and choices that apply to residents of Montana.
+
+If you are a Montana resident, you have the following rights:
+
+* **Right to Know:** You have the right to confirm whether or not we are processing your Personal Information.
+* **Right to Access:** If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
+* **Right to Data Portability:** If you exercise your right to access the Personal Information that we maintain about you, you have the right to obtain such Personal Information in a format that is (to the extent technically feasible) portable and readily usable, if we maintain your Personal Information in a digital format.
+* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
+* **Right to Deletion:** You have the right to instruct us to delete certain Personal Information we maintain about you.
+* **Right to Opt-Out:** You have the right to opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the “sale” of Personal Information, or (iii) use of your Personal Information for profiling in furtherance of decisions that produce legal or similarly significant effects.
+* **Right to Consent to Processing of Sensitive Data**.  We do not currently process sensitive Personal Information, as defined in Montana law. If we process your sensitive Personal Information, we will first obtain your consent.
+
+You will not receive any discriminatory or retaliatory treatment from us for exercising your privacy rights.
+
+For information about the categories of Personal Information that we collect and use (i.e., process), the categories of Personal Information that we disclose to third parties, and the categories of third parties to whom we disclose Personal Information, please refer to Section 9.1 (Your California Rights) [\[LN15\]](#_msocom_15) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
+
+**Montana Residents: More Information About Your Right to Opt-Out**
+
+You have the right to opt-out of our processing of your Personal Information for the following purposes: (1) targeted advertising, (2) the “sale” of your Personal Information, or (3) the use of your Personal Information in profiling, if it produces a significant legal effect. We do not engage in profiling as defined by Montana privacy law.
+
+**Methods of Exercising Your Rights**
+
+If you are a Montana resident, you can exercise your rights by:
+
+* Clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
+
+* You may also submit a request by sending an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) with “Montana Privacy Rights” in the subject.
+
+**Montana Residents: Appeal Process for Exercising Your Rights**
+
+If we refuse to take action regarding your request to exercise your rights, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). Your appeal of our refusal must include the following information: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) the right or rights that you initially requested to exercise, (4) the date of your initial request, and (5) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal. If you have concerns about the results of your appeal regarding your privacy rights and choices, you may contact the Montana Attorney General. Information about how to contact the Montana Attorney General about your appeal can be found on the Montana Attorney General’s website [here](https://dojmt.gov/agooffice/).
+
+**10\. Use of The Services by Users from Outside The United States**
+====================================================================
 
 We have worked hard to ensure that our business complies with applicable international consumer data privacy laws, such as the European Union’s General Data Protection Regulation (“**GDPR**”), the United Kingdom’s General Data Protection Regulation (the “**UK GDPR”),** and others.  Under applicable law in the European Economic Area, UK, and Switzerland, MNG is considered a “data controller” of the Personal Information that we handle under this Privacy Policy.  In other words, MNG is responsible for deciding how to collect, use, and disclose this Personal Information, subject to applicable law. Our contact information appears at the end of this Privacy Policy.  Under applicable laws, if you are a resident of certain jurisdictions outside of the United States and use the Services, you may be able to request one or more individual rights set forth in the “Your EU, EEA, UK, and Switzerland Rights & Choices” Section of this Privacy Policy below.  
 
-### **10.1. Your EU, EEA, UK, & Switzerland Rights & Choices.**
+**10.1 Your EU, EEA, UK, & Switzerland Rights & Choices.**
+----------------------------------------------------------
 
-We are headquartered in the United States, where we store and process information relating to the use of the Services, including your Personal Information.  If you are located outside of the United States, your Personal Information is collected in your country and then transferred to the United States – or another country in which we (or our service providers) operate. 
+For purposes of this Privacy Policy, we are a data controller of your Personal Information. We are headquartered in the United States, where we store and process information relating to the use of the Services, including your Personal Information.  If you are located outside of the United States, your Personal Information is collected in your country and then transferred to the United States – or another country in which we (or our service providers) operate. 
 
 If we transfer your Personal Information outside of the European Economic Area, we implement at least one of the following safeguards:
 
@@ -629,132 +869,26 @@ In certain jurisdictions, like the European Union and the European Economic Area
 
 We have legitimate interests in gathering and processing Personal Information.  Our legitimate interests include, but are not necessarily limited to: administering and conducting business within MNG; ensuring that our networks, Services, Websites, Applications, Platform, and information are secure; conducting our marketing activities; and preventing fraud. 
 
-### **11\. Your Nevada Rights & Choices.**
+**IAB EU Transparency and Consent Framework**
 
-Under Nevada law, if you are a resident of Nevada, you may opt-out of our “sale” of your “covered information”, as these terms are defined under Nevada law.  For purposes of Nevada law, “covered information” includes your first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. 
+We participate in the IAB Europe Transparency & Consent Framework and comply with its Specifications and Policies. We use the Consent Management Platform with the identification number 279.
 
-If you are a Nevada resident and have purchased or leased goods or services from us, you may submit a request to opt-out of any potential future “sales” by us of your “covered information” by clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.  Please note that we will take reasonable steps to verify your identity and the authenticity of your request.  Once verified, we will maintain your request in the event our practices change. 
-
-### **12\. Your Virginia Rights & Choices.**
-
-This Section 12 of the Privacy Policy describes the privacy-related rights and choices that residents of Virginia have, effective January 1, 2023, under the Virginia Consumer Data Protection Act (“**VCDPA**”). 
-
-Effective January 1, 2023, the VCDPA provides Virginia residents with the right to receive certain disclosures regarding the Personal Information we collect and use about them.  For a discussion of the categories of Personal Information about that we collect and use, the categories of Personal Information that we share with third parties, and the categories of third parties with whom we share Virginia residents’ Personal Information, please refer [Section 9 (Your California Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9) of this Privacy Policy.
-
-If you are a Virginia resident, the VCDPA also grants you the right to: (1) confirm whether or not we are processing your Personal Information and to access such Personal Information; (2) correct inaccuracies in your Personal Information, taking into account the nature of the Personal Information and the purposes of the processing of your Personal Information; (3) delete Personal Information you have provided or we have obtained about you; (4) obtain a copy of your Personal Information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another controller without hindrance, where the processing is carried out by automated means; and (5) opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the sale of Personal Information, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. Although we do not “sell” your Personal Information in the traditional sense (i.e., for money), our use of interest-based advertising cookies and tracking technologies could be considered a sale of your Personal Information under Virginia law. In some instances, it also may qualify as targeted advertising.
-
-If you are a Virginia resident, to exercise your rights under the VCDPA, please click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.  If we refuse to take action regarding your request to exercise your rights under the VCDPA, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
-
-### **13\. Your Colorado Rights & Choices.**
-
-This Section 13 of this Privacy Policy describes the privacy-related rights and choices that residents of Colorado have, effective July 1, 2023, under the Colorado Privacy Act (“**CPA**”).
-
-Effective July 1, 2023, if you are a Colorado resident, the CPA grants you the privacy-related rights described below. These rights are not absolute and are subject to certain exemptions.  As such, in certain cases, we may deny your requests regarding these rights as permitted by law.
-
-* **Right to Opt Out**. As is described in greater detail below in this Section 13, you have the right to opt out of our processing of your Personal Information, if we process your Personal Information for any of the following three purposes: (A) “Targeted Advertising” (as defined by the CPA), (B) the “Sale” (as defined by the CPA) of your Personal Information, or (C) or “Profiling” in furtherance of “Decisions That Produce Legal or Similarly Significant Effects For a Consumer” (i.e., for you) (as defined by the CPA).
-* **Right to Confirm**. You have the right to request our confirmation about whether we process Personal Information about you.
-* **Right to Access**.  If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
-* **Right** **to Data Portability**.  If you exercise your right to access your Personal Information that we collect about you, you have the right to obtain the Personal Information we maintain about you in a portable (and to the extent technically feasible) readily available format that allows you to transmit that Personal Information to another entity without hinderance, subject to certain exceptions. Under the CPA, you may exercise this “right to data portability” no more than twice per calendar year.
-* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
-* **Right to Deletion**. If we process Personal Information about you, you have the right to instruct us to permanently delete that Personal Information, subject to certain exceptions.
-
-You will not receive any discriminatory or retaliatory treatment from us for exercising any of the privacy rights granted to you by the CPA.
-
-If you are a Colorado resident, your authorized agent (i.e., a third party acting on your behalf with your express consent) may submit a request to us on your behalf for you to exercise any of the privacy-related rights above under the CPA. If you are submitting a request on behalf of a Colorado resident, please submit the request through one of the designated methods discussed in this Privacy Policy.  After submitting the request, if the request is not subject to an exemption or exception, we may require additional information to verify that you have the authority to act on behalf of the Colorado resident.
-
-For a general discussion of the categories of Personal Information that we collect and use (i.e., process) about Colorado residents, the categories of Personal Information that we disclose to third parties, and the categories of third parties with whom we disclose Colorado residents’ Personal Information, please refer to [Section 9 (Your California Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
-
-**Colorado Residents: More Information About Your Right To Opt Out**
-
-As a Colorado resident, you have you have the right to opt out of our processing of your Personal Information, if we process your Personal Information for any of the following three purposes: (A) “Targeted Advertising” (as defined by the CPA), (B) the “Sale” (as defined by the CPA) of your Personal Information, or (C) or “Profiling” in furtherance of “Decisions That Produce Legal or Similarly Significant Effects For a Consumer” (i.e., for you) (as defined by the CPA). As is discussed in this Privacy Policy above, we do not “Sell” the Personal Information of Colorado residents in the traditional sense (i.e., for money). However, in some instances, our use of interest-based advertising cookies and tracking technologies could be considered a “Sale” of your Personal Information under Colorado law. In some instances, under Colorado law, it also may qualify as “Targeted Advertising” or as “Profiling” in furtherance of “Decisions That Produce Legal or Similarly Significant Effects For a Consumer” (i.e., for you).
-
-**Colorado Residents: Methods for Exercising Your Rights Under The CPA**
-
-If you are a Colorado resident, to exercise your rights under the CPA, please:
-
-* Click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
-* You may also submit a request by sending us an email to this address: [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
-
-**Colorado Residents: Appeal Process for Exercising Your CPA Rights**
-
-If we refuse to take action regarding your request to exercise your rights under the CPA, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). Your appeal of our refusal must include the words “PRIVACY RIGHTS APPEAL” in the subject line of the email and the following information to be deemed valid: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) your mailing address, (4) the right or rights under the CPA that you initially requested to exercise, (5) the date of your initial request, and (6) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal. 
-
-Upon receipt of a valid written appeal from you, we will provide you with a written explanation in support of our response to your appeal within 45 days. Where permitted by law, we may extend our deadline for officially responding to your appeal by an additional 60 days. If you have concerns about the results of your appeal with us regarding your privacy rights and choices under the CPA, you may contact the Colorado Attorney General. Information about how to contact the Colorado Attorney General about your CPA appeal can be found on the Colorado Attorney General’s website [here](https://coag.gov/resources/colorado-privacy-act/).
-
-### **14\. Your Connecticut Rights & Choices**
-
-This Section 14 of this Privacy Policy describes the privacy-related rights and choices that residents of Connecticut have, effective July 1, 2023, under the Connecticut Data Privacy Act (“**CTDPA**”).
-
-Effective July 1, 2023, if you are a Connecticut resident, the CTDPA grants you the privacy-related rights described below. These rights are not absolute and are subject to certain exemptions.  As such, in certain cases, we may deny your requests regarding these rights as permitted by law.
-
-* **Right to Opt Out**. As is described in greater detail below in this Section 14, you have the right to opt out of our processing of your Personal Information, if we process your Personal Information for any of the following three purposes: (A) “Targeted Advertising” (as defined by the CTDPA), (B) the “Sale” (as defined by the CTDPA) of your Personal Information, or (C) or “Profiling” in furtherance of “Decisions That Produce Legal or Similarly Significant Effects For a Consumer” (i.e., for you) (as defined by the CTDPA).
-* **Right to Confirm**. You have the right to request our confirmation about whether we process Personal Information about you.
-* **Right to Access**.  If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
-* **Right to Data Portability**.  If you exercise your right to access your Personal Information that we collect about you, you have the right to obtain the Personal Information we maintain about you in a portable (and to the extent technically feasible) readily available format that allows you to transmit that Personal Information to another entity without hinderance, subject to certain exceptions.
-* **Right to Correction**. You have the right to correct inaccuracies in the Personal Information that we process about you, subject to certain exceptions.
-* **Right to Deletion**. If we process Personal Information about you, you have the right to instruct us to permanently delete that Personal Information, subject to certain exceptions.
-* **Right to Revoke Consent**.  Under the CTDPA, in certain circumstances, we are only permitted to process your Personal Information if you have given us your prior informed consent to the processing. For example, we may only process your “Sensitive Data” (as defined by the CTDPA) under the CTDPA if you have given us your prior informed consent to the processing of your Sensitive Data. In circumstances where your prior informed consent is required to allow us to process your Personal Information, and you have previously granted us your prior informed consent, the CTDPA gives you the right to revoke this prior consent. Depending on the circumstances, where applicable, we may treat your revocation of your prior consent like a request to delete your Personal Information and cease further processing activities.
-
-You will not receive any discriminatory or retaliatory treatment from us for exercising any of the privacy rights granted to you by the CTDPA.
-
-If you are a Connecticut resident, your authorized agent (i.e., a third party acting on your behalf with your express consent) may submit a request to us on your behalf for you to exercise any of the privacy-related rights above under the CTDPA. If you are submitting a request on behalf of a Connecticut resident, please submit the request through one of the designated methods discussed in this Privacy Policy.  After submitting the request, if the request is not subject to an exemption or exception, we may require additional information to verify that you have the authority to act on behalf of the Connecticut resident.
-
-For a discussion of the categories of Personal Information that we collect and use (i.e., process) about Connecticut residents, the categories of Personal Information that we disclose to third parties, and the categories of third parties with whom we disclose Colorado residents’ Personal Information, please refer to [Section 9 (Your California Rights)](https://www.medianewsgroup.com/privacy-policy/#section-9) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
-
-**Connecticut Residents: Methods for Exercising Your Rights Under The CTDPA**
-
-If you are a Connecticut resident, to exercise your rights under the CTDPA, please:
-
-* Click [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
-* You may also submit a request by sending us an email to this address: [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
-
-**Connecticut Residents: Appeal Process for Exercising Your CTDPA Rights**
-
-If we refuse to take action regarding your request to exercise your rights under the CTDPA, you may appeal our decision by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). Your appeal of our refusal must include the words “PRIVACY RIGHTS APPEAL” in the subject line of the email and the following information to be deemed valid: (1) your name, (2) the email address associated with the privacy rights request to us that you are appealing, (3) your mailing address, (4) the right or rights under the CPA that you initially requested to exercise, (5) the date of your initial request, and (6) a sufficiently detailed explanation of the legal grounds or other reasons as to why we should grant your appeal.  Upon receipt of a valid written appeal from you, we will provide you with a written explanation in support of our response to your appeal within 60 days. If you have concerns about the results of your appeal with us regarding your privacy rights and choices under the CTDPA, you may contact the Connecticut Attorney General. Information about how to contact the Connecticut Attorney General about your CTDPA appeal can be found on the Connecticut Attorney General’s website [here](https://portal.ct.gov/AG/Sections/Privacy/The-Privacy-and-Data-Security-Department).
-
-### **15\. Your Utah Rights & Choices**
-
-This Section 15 of the Privacy Policy describes the privacy-related rights and choices that residents of Utah have, effective December 31, 2023, under the Utah Consumer Privacy Act (“UCPA”). 
-
-Effective December 31, 2023, if you are a Utah resident, the UCPA grants you the privacy-related rights described below. These rights are not absolute and are subject to certain exemptions.  As such, in certain cases, we may deny your requests regarding these rights as permitted by law. 
-
-If you are a Utah resident, the UCPA grants to you the following rights:
-
-* **Right to Know:** You have the right to confirm whether or not we are processing your Personal Information.
-* **Right to Access:** If we process Personal Information about you, you have the right to access the Personal Information about you that we process.
-* **Right to Data Portability:** If you exercise your right to access the Personal Information that we maintain about you, you have the right to obtain such Personal Information in a format that is (to the extent technically feasible) portable and readily usable, and that allows you to transmit that Personal Information to another entity without impediment, subject to certain exceptions.
-* **Right to Deletion:** If we have collected Personal Information from you, you have the right to instruct us to delete that Personal Information, where the processing is carried out by automated means.  
-    **Right to Opt-Out:** You have the right to opt-out of the processing of your Personal Information for purposes of (i) targeted advertising, (ii) the sale of Personal Information, or (iii) the processing of Sensitive Data (as defined in the UCPA). 
-
-You will not receive any discriminatory or retaliatory treatment from us for exercising any of the privacy rights granted to you by the UCPA.
-
-For information about the categories of Personal Information that we collect and use (i.e., process) about Utah residents, the categories of Personal Information that we disclose to third parties, and the categories of third parties to whom we disclose Utah residents’ Personal Information, please refer to Section 9 (Your California Rights) of this Privacy Policy. Additional relevant information about the Personal Information that we collect about you when you use the Services, the purposes for which we process that Personal Information, and to whom we may disclose your Personal information can be found in Sections 3 – 8 of this Privacy Policy.
-
-**Utah Residents: More Information About Your Right to Opt-Out**
-
-As a Utah resident, you have the right to opt-out of our processing of your Personal Information for the following purposes: (1) “targeted advertising,” as defined by the UCPA, (2) the “sale” (as defined by the UCPA) of your Personal Information, or (3) the processing of your sensitive Personal Information (as defined by the UCPA). We do not sell (as defined in the UCPA) your Personal Information, nor do we process your Sensitive Data (as that term is defined in the UCPA).
-
-**Methods of Exercising Your Rights Under the UCPA**
-
-If you are a Utah resident, you can exercise your rights under the UCPA by:
-
-* Clicking [here](https://my.datasubject.com/16A1AnRt2Fn8i1unj/77) or the “Do Not Sell/Share My Personal Information” link on the bottom of the webpage where your Personal Information is being collected.
-
-* You may also submit a request by sending us an email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com)
-
-### **16\. How Can You Access, Correct, Or Update Your Personal Information?**
+**11\. How Can You Access, Correct, Or Update Your Personal Information?**
+==========================================================================
 
 You may request that we provide you with access to the Personal Information that we have about you, or that we update or correct the Personal Information that we have about you.  Depending on the jurisdiction in which you reside, you may have a legal right to request access to the Personal Information we have about you under applicable laws.  Depending on the jurisdiction in which you reside, you also may have a legal right under applicable laws to request that we correct or update certain Personal Information that we have about you.  Some of our Websites may allow you to access, correct, or update some of your Personal Information directly (i.e., user profile information) by logging in to the relevant portions of the Services where such information may be updated. In accordance with applicable laws, you may also request access to the Personal Information that we have about you and/or request that we correct or update certain Personal Information that we have about you by emailing us at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com). 
 
-Unless otherwise prohibited by applicable laws, even if you request that we update, correct, or delete Personal Information that we hold about you, we may need to retain certain of your Personal Information to comply with our legal obligations or otherwise for our legitimate record-keeping and business purposes. Please refer to Section 19 of this Privacy Policy (How Long Do We Retain Your Information?) for additional information.  
+Unless otherwise prohibited by applicable laws, even if you request that we update, correct, or delete Personal Information that we hold about you, we may need to retain certain of your Personal Information to comply with our legal obligations or otherwise for our legitimate record-keeping and business purposes. Please refer to Section 14 of this Privacy Policy (How Long Do We Retain Your Information?) for additional information.  
 
-### **17\. What About Linked Third-Party Services, Sites, & Advertisements That I See Via The Services?**
+**12\. What About Linked Third-Party Services, Sites, & Advertisements That I See Via The Services?**
+=====================================================================================================
 
 Some of the Services may sometimes contain links to third-party websites, resources, vendors, advertisers, and other products and services. These are not part of the Services we provide to you. We do not control (and are not responsible for) the privacy practices, websites, content, and goods or services of these third parties. 
 
 As is discussed elsewhere in this Privacy Policy, these third parties may independently collect and solicit Personal Information about you directly from you. The Personal Information that you provide to them directly is not covered by this Privacy Policy.  These third parties have their own privacy policies and practices, which may include what (if any) of your Personal Information they share with us, your privacy rights and choices with respect to their services and devices, and whether they process and store information in the United States or outside of the United States. As such, we encourage you to familiarize yourself with their privacy policies, practices, and terms of use and to contact them if you have any questions, concerns, or want to opt-out or limit how they collect or use your Personal Information.   
 
-### **18\. How Do We Protect Your Personal Information?**
+**13\. How Do We Protect Your Personal Information?**
+=====================================================
 
 We have endeavored to protect the privacy, security, and integrity of your Personal Information using what we believe to be appropriate administrative, technical, organizational, and physical security controls and measures (collectively, “**Security Measures**”). These Security Measures may vary based on a variety of factors, including, the sensitivity of the Personal Information about you that we process and maintain, the state of technology, and applicable laws.
 
@@ -764,7 +898,8 @@ The purpose of our Security Measures is to protect your Personal Information fro
 
 From time to time, via the Services, we may send you emails, text messages, mobile device push notifications, or other communications, which communications may contain your Personal Information or Sensitive Personal Information (such as your name, email address, password to your account for the Services, or billing or payment information).  Safeguarding any such Personal Information or Sensitive Personal Information contained in any such communications by us to you is solely your responsibility.  We are not responsible for safeguarding any such communications once they are sent to you.  
 
-### **19\. How Long Do We Retain Your Personal Information?**
+**14\. How Long Do We Retain Your Personal Information?**
+=========================================================
 
 We retain your Personal Information for as long as is necessary to: (1) fulfil the purposes for which we collect it (for example, for as long as is necessary to provide you with the Services that you have requested); and (2) satisfy any legal, accounting, contractual, record keeping, or reporting requirements that apply to us. This means that we might retain your Personal Information even after you close your account with us. 
 
@@ -772,27 +907,32 @@ After the applicable retention period for your Personal Information, we will eit
 
 If you stop visiting our Websites for at least 13 months, we may mark your account for removal.  In that case, your account information will remain for another 12 months and then may be removed. 
 
-### **20\. What Are The Requirements Or Guidelines For The Use of Our Services By Children?**
+**15\. What Are the Requirements or Guidelines for The Use of Our Services By Children?**
+=========================================================================================
 
-We are committed to protecting the privacy of children.  The Services are not intended to be accessed or used by persons under the age of 18.  By using the Services, you hereby represent that you are at least 18 years of age. We will not knowingly or intentionally collect or solicit any Personal Information online from children under the age of 18.  If you are under the age of 18, please do not attempt to register for an account or other subscription to the Services from us. Some third parties, such as platform providers like the iTunes Store or Google Play may provide age-based ratings on some of the Services.  These ratings shall have no bearing on this limitation.  Third parties may also provide content categories on some of the Services.  These categories likewise shall have no bearing on this limitation.
+We are committed to protecting the privacy of children.  The Services are not intended to be accessed or used by persons under the age of 18.  By using the Services, you hereby represent that you are at least 18 years of age. We will not knowingly or intentionally collect or solicit any Personal Information online from children under the age of 18.  If you are under the age of 18, please do not attempt to register for an account or other subscription to the Services from us. Some third parties, such as platform providers like the iTunes Store or Google Play may provide age-based ratings on some of the Services.  These ratings shall have no bearing on this limitation.  Third parties may also provide content categories on some of the Services.  These categories likewise shall have no bearing on this limitation.
 
-If you believe that a child under age 16 has provided us with Personal Information, please contact us immediately via email at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).  Once received, we will take appropriate action with respect to that child’s Personal Information in accordance with our obligation under applicable laws. 
+If you believe that a child under age 16 has provided us with Personal Information, please contact us immediately via email at [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).  Once received, we will take appropriate action with respect to that child’s Personal Information in accordance with our obligation under applicable laws. 
 
-### **21\. Changes To This Privacy Policy.**
+**16\. Changes to This Privacy Policy.**
+========================================
 
-MNG may update this Privacy Policy at any time without prior notice to you. Changes or additions to this Privacy Policy will be available in this section of the Website.  Please check this Privacy Policy periodically to review any changes or updates to this Privacy Policy and our privacy-related practices.  You may always come to this section of the Website to learn what Personal Information we gather, how we might use that Personal Information, and whether we will disclose it to anyone.  If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page.  In the event of any such changes or material updates, we will update the “Last Updated” date at the top of this Privacy Policy. 
+MNG may update this Privacy Policy at our discretion at any time. Please check this Privacy Policy periodically to review any changes or updates to this Privacy Policy and our privacy-related practices. In the event of any material changes or updates, we will post the updated version here and will update the “Last Updated” date at the top of this Privacy Policy. 
 
-### **22\. No Rights of Third Parties.**
+**17\. No Rights of Third Parties.**
+====================================
 
 This Privacy Policy does not create rights for the benefit of, or enforceable by, any third parties. 
 
-### **23\. Complaints.** 
+**18\. Complaints.** 
+=====================
 
 We take your privacy very seriously.  Depending on the jurisdiction in which you reside, if you believe we have violated your privacy rights, you may have the right to lodge a complaint against us with the appropriate data protection supervisory authority in the jurisdiction in which you reside.  However, we encourage you to first contact us via email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com) should you have any questions, concerns, or complaints about our privacy-related practices. 
 
-Additional information about how to contact us about matters concerning this Privacy Policy and our privacy-related practices is provided in the following Section 24 of this Privacy Policy. 
+Additional information about how to contact us about matters concerning this Privacy Policy and our privacy-related practices is provided in the following Section 19 of this Privacy Policy. 
 
-### **24\. How Can You Contact Us?**
+**19\. How Can You Contact Us?**
+================================
 
 If you have any questions or complaints concerning this Privacy Policy, or about exercising privacy-related rights and choices that may apply to you, please do not hesitate to contact us via email to [MNGPrivacy@medianewsgroup.com](mailto:MNGPrivacy@medianewsgroup.com).
 
@@ -809,6 +949,8 @@ You may also contact us by postal mail at the following address:
                         United States of America
 
                         Attention: Legal Department
+
+* * *
 
 * [Privacy Policy](https://www.medianewsgroup.com/privacy-policy/)
 * [Terms of Use](https://www.medianewsgroup.com/terms-of-use/)
