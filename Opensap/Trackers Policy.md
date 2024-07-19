@@ -15,9 +15,9 @@
         * [English](https://open.sap.com/pages/cookies?locale=en)
         * [Deutsch](https://open.sap.com/pages/cookies?locale=de)
 
-* ###### Don’t forget to save your documents!
+* ###### We’ve moved!
     
-    The openSAP platform will be discontinued in July 2024. Please make sure to download your records of achievement, confirmations of participation, and digital badges from [your profile](https://open.sap.com/dashboard/documents) and save them for future reference.
+    You can now find us on the [SAP Learning site](https://learning.sap.com/opensap-course-migration?url_id=text-openSAP-migration-alert). The openSAP platform will be discontinued at the end of July 2024. Don’t forget to download your documents from [your profile](https://open.sap.com/dashboard/documents) and save them for future reference.
     
 
 [![openSAP logo](https://imgproxy.services.openhpi.de/33OFxsYj2nUL2CQnb1aozzabwlWZ0jsCr5rmoelazKc/rs:fit:0:0:0/g:ce/plain/https://imgproxy.services.openhpi.de/4nN2JUWNU66D1K11Pm4lVJsSvOp-SSVhGVQ-UjewtyQ/rs:fit:0:0:0/g:ce/plain/https://open.sap.com/assets/logo-ff870778f3d37cecdd09095c95933d97b6a457c363934e2ce1882afb1a90c33c.png)](https://open.sap.com/)
@@ -26,9 +26,9 @@
 
 [![openSAP logo](https://imgproxy.services.openhpi.de/33OFxsYj2nUL2CQnb1aozzabwlWZ0jsCr5rmoelazKc/rs:fit:0:0:0/g:ce/plain/https://imgproxy.services.openhpi.de/4nN2JUWNU66D1K11Pm4lVJsSvOp-SSVhGVQ-UjewtyQ/rs:fit:0:0:0/g:ce/plain/https://open.sap.com/assets/logo-ff870778f3d37cecdd09095c95933d97b6a457c363934e2ce1882afb1a90c33c.png)](https://open.sap.com/)
 
-* ###### Don’t forget to save your documents!
+* ###### We’ve moved!
     
-    The openSAP platform will be discontinued in July 2024. Please make sure to download your records of achievement, confirmations of participation, and digital badges from [your profile](https://open.sap.com/dashboard/documents) and save them for future reference.
+    You can now find us on the [SAP Learning site](https://learning.sap.com/opensap-course-migration?url_id=text-openSAP-migration-alert). The openSAP platform will be discontinued at the end of July 2024. Don’t forget to download your documents from [your profile](https://open.sap.com/dashboard/documents) and save them for future reference.
     
 
 * [About openSAP](https://open.sap.com/pages/about)
@@ -170,16 +170,13 @@ This page was last changed at Thu, 14 Sep 2023 07:18:10 +0000.
 * [Peer Assessment](https://open.sap.com/pages/p_a "Peer Assessment")
 * [Helpdesk](https://open.sap.com/helpdesk "Helpdesk")
 
-#### Follow us
-
-* [X, formerly Twitter](https://twitter.com/SAPLearning)
-* [SAP Community Network](https://blogs.sap.com/tag/opensap/)
-
 #### About openSAP
 
 openSAP is SAP’s free learning platform for everyone interested in learning about SAP’s latest innovations and how to survive in the digital economy. openSAP Enterprise MOOCs are complete courses, and learners can earn a certificate to demonstrate the knowledge they’ve acquired. Complementary learning opportunities exist in the form of openSAP Podcasts and openSAP Microlearning.
 
-* * *
+#### Follow us
+
+* [](https://twitter.com/SAPLearning)
 
 © 2013 - 2024
 
@@ -197,4 +194,4 @@ Powered by
 * [HPI](https://hpi.de/en "HPI")
 * [openHPI](https://open.hpi.de/?locale=en "openHPI")
 
-(r8684)
+r8748
