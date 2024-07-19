@@ -226,7 +226,7 @@ Terms of Service, Privacy Policy and Data Policy
 
 ###### Terms of Service
 
-* Updated: June 18, 2024
+* Updated: February 1, 2022
 * Thank you for choosing Animaker!
 * These Terms of Service (“Terms” or “Agreement”) are an agreement between you (if signing as an individual or the legal entity you represent) ("you," or “Subscriber,” which term shall mean the user of the Animaker Services (as defined herein) and shall include such user’s executors, assigns, administrators and legal representatives) and Animaker, Inc., a Delaware corporation with a principal address of 1160 Battery Street Suite 100, San Francisco, CA 94111, USA. United States of America ("Animaker", “us” or “we”) that governs your rights to use the services identified in this Agreement.
 * You should read the entire Agreement carefully because all of the terms are important and together create a legal agreement that, once accepted by you, applies to you.
@@ -550,7 +550,7 @@ Please see our Privacy Policy for detail on what confidential information we col
 
 ###### Privacy Policy
 
-* LAST UPDATED : July 25 , 2023.
+* LAST UPDATED : June 18, 2024.
 * 1\. INTRODUCTION
     ----------------
     
@@ -715,7 +715,9 @@ Please see our Privacy Policy for detail on what confidential information we col
     We will respond to your inquiry within thirty (30) days of the receipt.
 * ### b. EU -US Data Privacy Program Framework
     
-* Animaker complies with the EU-U.S. Data Privacy program Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy program Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Animaker has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework program Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. Animaker has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework program Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+* Animaker complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Animaker has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Animaker has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+* Animaker is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+* Animaker may be liable in accordance with the DPF Principles for onward transfers of personal data governed by the DPF program to third parties processing personal data on its behalf.
 * ### Complaints:
     
     In compliance with the EU-US Data Privacy Framework Principles, Animaker commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles. European Union and Swiss individuals with DPF inquiries or complaints should first contact
