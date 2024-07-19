@@ -57,4 +57,4 @@ Find your suggested products upgrades for your system.
 
 ![back to top](/images/share/arrow-top-white.svg)
 
-Copyright© 2023 ADATA Technology Co., Ltd. All rights reserved.
+Copyright© 2024 ADATA Technology Co., Ltd. All rights reserved.
