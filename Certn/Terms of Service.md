@@ -64,10 +64,10 @@ Error
 * [Wise Inc - FCRA Authorization](#contract-o2dypmiqm)
 * [ACIC Consent (Dnata)](#contract-ztnheanmt)
 * [FCRA Authorization (Copy) -- Formatting Test](#contract-qmz3rwayu)
-* [Data Processing Addendum - FR](#contract-by0avvng2)
-* [Service Agreement - FR](#contract-hjhswi2g2)
-* [Privacy Policy - FR](#contract-bylz4uhm3)
-* [Website Terms - FR](#contract-by4mivhzn)
+* [ADDENDA SUR LE TRAITEMENT DES DONNÉES - FR](#contract-by0avvng2)
+* [CONDITIONS DE SERVICE - FR](#contract-hjhswi2g2)
+* [POLITIQUE DE CONFIDENTIALITÉ - FR](#contract-bylz4uhm3)
+* [Modalités d’utilisation du site Web - FR](#contract-by4mivhzn)
 * [OneID Consent - Portal Version (EN)](#contract-hjmqplc8h)
 * [Canadian Criminal Consent - HR](#contract-i0-s91kkv)
 * [Canadian Criminal Consent - PM](#contract-xmiyhtsct)
@@ -93,11 +93,12 @@ Error
 * [Colorado Disclosure](#contract-bjp91uy0t)
 * [Oklahoma Free Copy Disclosure Notice](#contract-rjzqwuyct)
 * [New York Article 23-A](#contract-h1cycvy0p)
-* [Biometric Notice - FR](#contract-sjl9lwojr)
+* [Avis biométrique - FR](#contract-sjl9lwojr)
 * [Roomies Custom Criminal Consent](#contract-r13kih61a)
-* [Matt's New Contract](#contract-bkeqnnqlr)
+* [mg-testing gen auth (en)](#contract-bkeqnnqlr)
 * [FCRA Authorization (Supernal,LLC)](#contract-jx9omk4aa)
 * [Canadian Criminal Record Consent Form NEW\*](#contract-s11zu-f7r)
+* [mg-testing gen auth (fr)](#contract-pkwokjnuw)
 
 Test Contract 2
 ---------------
@@ -2631,7 +2632,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective June 6th 2024
+##### Effective July 18th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -2683,11 +2684,11 @@ To withdraw your consent whilst the application is in progress you can contact t
 Tokenized Authorization (B2B) - EN
 ----------------------------------
 
-### Version 24.0
+### Version 25.0
 
-##### Effective February 20th 2024
+##### Effective June 26th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65d56b866500ef3ce874f67c.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65df63639f66dd42050c7690.pdf)
 
 * * *
 
@@ -2705,7 +2706,7 @@ We will collect the following personal information for the purpose of completing
 
   
 
-It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees in Canada, Australia, the United States, or the United Kingdom. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
   
 
@@ -3633,8 +3634,8 @@ By signing below, I also authorize **{{{company\_name}}}** to obtain "**consumer
 
   
 
-Data Processing Addendum - FR
------------------------------
+ADDENDA SUR LE TRAITEMENT DES DONNÉES - FR
+------------------------------------------
 
 ### Version 1.1
 
@@ -3784,14 +3785,14 @@ Le présent Addenda sur le Traitement des données (« **ATD** ») fait partie d
 | **Sous-traitants ultérieurs** | Les Sous-traitants ultérieurs doivent respecter les mêmes normes que celles énoncées dans l’Annexe II dans sa version actuelle. |
 | --- | --- |
 
-Service Agreement - FR
-----------------------
+CONDITIONS DE SERVICE - FR
+--------------------------
 
-### Version 1.3
+### Version 1.4
 
-##### Effective October 24th 2023
+##### Effective June 25th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65383f0550065c60611f6a86.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667af5630606fe01b9c7a272.pdf)
 
 * * *
 
@@ -3973,14 +3974,14 @@ Certn peut réviser le présent Contrat à tout moment sans préavis. Le Contrat
 
 Certn : [compliance@certn.co](mailto:compliance@certn.co) ou par la poste au 1006 Fort St Suite 300, Victoria, BC V8V 3K4.
 
-Privacy Policy - FR
--------------------
+POLITIQUE DE CONFIDENTIALITÉ - FR
+---------------------------------
 
-### Version 1.1
+### Version 1.2
 
-##### Effective August 1st 2023
+##### Effective June 25th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/64c93148198b1fae7c202800.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667adf4baded0c575d36dea3.pdf)
 
 * * *
 
@@ -4498,14 +4499,14 @@ Cette politique de confidentialité s’applique à la loi de 2002 de la Commiss
 
 Si vous avez besoin de renseignements supplémentaires sur la protection des Renseignements personnels, veuillez visiter le site suivant : [www.privacy.gov.au/](http://www.privacy.gov.au/).
 
-Website Terms - FR
-------------------
+Modalités d’utilisation du site Web - FR
+----------------------------------------
 
-### Version 1.2
+### Version 1.3
 
-##### Effective October 24th 2023
+##### Effective June 25th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65383e5e6cc512ae4b65d3d0.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6538415450065c60612002d0.pdf)
 
 * * *
 
@@ -5130,11 +5131,11 @@ If you have any questions about the collection, use, disclosure, or storage of y
 Tokenized Authorization (B2B) - FR (In Progress)
 ------------------------------------------------
 
-### Version 3.0
+### Version 4.0
 
-##### Effective April 1st 2024
+##### Effective June 26th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/660b1e9817b630d6825a95da.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667c2a843574d5cfb05e5007.pdf)
 
 * * *
 
@@ -5149,7 +5150,7 @@ Afin d'évaluer votre aptitude à participer à {{{purpose}}} , l'entreprise a d
 Nous collecterons les informations personnelles suivantes dans le but de fournir les services : {{{personal\_information\_list}}}. Nous pouvons collecter des informations personnelles directement auprès de vous, de la société ou de tiers tels que {{{data\_providers\_list}}}.  
 Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
 
-Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, en fonction des services et de la localisation de l'entreprise, vos informations personnelles peuvent être traitées par nos employés au Canada, en Australie, aux États-Unis ou au Royaume-Uni. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
+Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, en fonction des services et de la localisation de l'entreprise, vos informations personnelles peuvent être traitées par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
 
 Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos informations personnelles sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
 
@@ -5540,14 +5541,14 @@ where a mandatory forfeiture, disability or bar to employment is imposed by law,
 
   
 
-Biometric Notice - FR
+Avis biométrique - FR
 ---------------------
 
-### Version 1.0
+### Version 1.1
 
-##### Effective April 1st 2024
+##### Effective June 25th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/660ae68eb6aff381309ff419.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667aee573574d5cfb0386ec8.pdf)
 
 * * *
 
@@ -5628,14 +5629,14 @@ By clicking “**I understand and agree**” I consent to Certn collecting, proc
 
 _You can request more information about the nature and scope of your criminal record check by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co)_.
 
-Matt's New Contract
--------------------
+mg-testing gen auth (en)
+------------------------
 
-### Version 16.0
+### Version 23.0
 
-##### Effective April 24th 2024
+##### Effective July 1st 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6628d2571011aa3d819cfc83.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/668264e9b6466d0366758431.pdf)
 
 * * *
 
@@ -5643,39 +5644,23 @@ Matt's New Contract
 
 * * *
 
-  
+**AUTHORIZATION**
 
-Hello {{name}},  
-Thank you for your business with {{company}}. We are very excited to work with you.
-
-Please sign below for our records.
+To evaluate your suitability for {{{purpose}}}, the Company has asked Certn and its parent, affiliates and subsidiaries, as applicable ("**Certn**", “**we**" or "**us**”) to verify your identity, and create and return a consumer report {{{usa\_report}}}(your "**Report(s)**") consisting of: {{{services\_list}}} (the " **Services**”).
 
   
 
-Signature(Lucida Handwriting): {{name}}  
-Signature(Snell Roundhand): {{name}}  
-Signature(cursive): {{name}}
+We will collect the following personal information for the purpose of completing the Services: {{{personal\_information\_list}}}. {{#if data\_providers\_list}}We may collect Personal Information directly from you, the Company, or third parties such as {{{data\_providers\_list}}}{{else}}We may collect Personal Information directly from you or the Company{{/if}}. We will compare information received from different sources for consistency.
 
   
+
+It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Further, depending on the Services, and the location of the Company, your Personal Information may be processed by our employees and contractors in Canada, Australia, the United States, the United Kingdom, South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
+
   
+
+You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
+
   
-  
-
-bla bla:
-
-{{#each test}}* name: {{this.full\_name}}
-* email: {{this.email}}
-{{/each}}
-
-{{test2}}
-
-{{#each test}}
-
-| name | email |
-| --- | --- |
-| {{this.full\_name}} | {{this.email}} |
-
-{{/each}}
 
   
 
@@ -5729,11 +5714,11 @@ Date: {{{date}}}
 Canadian Criminal Record Consent Form NEW\*
 -------------------------------------------
 
-### Version 14.0
+### Version 18.0
 
-##### Effective June 6th 2024
+##### Effective July 18th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66619805ef457b594f7d02f9.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/669902af9df571b0417140f2.pdf)
 
 * * *
 
@@ -5750,68 +5735,103 @@ Personal Information on this form is collected under the authority of the Federa
 | ID Type: {{id\_type}} |
 | Your Criminal Record Check will review all available law enforcement systems, including any local police records. This check will NOT include overseas or US records, traffic tickets, Motor Vehicle Act offences or municipal bylaw offences. The results of this check will not be forwarded to any third party without your prior written consent, subject to applicable privacy and data protection laws. |
 
-|     |     |
-| --- | --- |
-| Criminal Record Check | Criminal Record and Judicial Matters Check (Enhanced) |
-| The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; and findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period. Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* | The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; outstanding entries uch as charges, warrants, judicial orders, probation and prohibition orders; findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period; and Absolute and Conditional Discharges (for 1 or 3 years respectively). Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* |
+|     |
+| --- |
+| {{#if (matchesValues check\_type 'BASIC\_CANADIAN\_CRIMINAL\_RECORD\_REPORT')}} |
+| Criminal Record Check |
+| The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; and findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period. Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* |
+| {{/if}} |
+| {{#if (matchesValues check\_type 'ENHANCED\_CANADIAN\_CRIMINAL\_RECORD\_REPORT')}} |
+| Criminal Record and Judicial Matters Check (Enhanced) |
+| The search will include: criminal convictions from CPIC and/or local databases; summary convictions (previous 5 years) when identified; outstanding entries uch as charges, warrants, judicial orders, probation and prohibition orders; findings of guilt under the Youth Criminal Justice Act (YCJA) within the applicable disclosure period; and Absolute and Conditional Discharges (for 1 or 3 years respectively). Records for applicants under the age of 18 will only be provided to agencies that fall within Sec 119 (1)(o) of the YCJA. (e.g. Federal, Provincial and Municipal agencies)\*\* |
+| {{/if}} |
 
-|     |     |
-| --- | --- |
-| PERSONAL INFORMATION |     |
-| LAST NAME: | {{last\_name}} |
-| FIRST NAME: | {{first\_name}} |
-| MIDDLE NAME(S): | {{middle\_names}} |
-| ALL PREVIOUS NAMES -LAST NAME, FIRST NAME: (including any name changes and birth/maiden name) | {{#each previous\_names}} {{this.last\_name}}, {{this.first\_name}}  <br>{{/each}} |
-| GENDER: | {{gender}} |
-| DATE OF BIRTH | {{date\_of\_birth}} |
-| PLACE OF BIRTH: | {{place\_of\_birth}} |
-| CURRENT ADDRESS: | {{current\_address.street\_address}} |
-| CITY: | {{current\_address.locality}} |
-| PROV: | {{current\_address.administrative\_division\_1}} |
-| POSTAL CODE: | {{current\_address.postal\_code}} |
-| PHONE NUMBER: | {{phone\_number}} |
-| E-MAIL ADDRESS: | {{email\_address}} |
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| PERSONAL INFORMATION |     |     |     |     |     |
+| LAST NAME: | {{last\_name}} | FIRST NAME: | {{first\_name}} | MIDDLE NAME(S): | {{middle\_name}} |
+| ALL PREVIOUS NAMES -LAST NAME, FIRST NAME: (including any name changes and birth/maiden name) |     |     | {{#each previous\_names}}{{this.last\_name}}, {{this.first\_name}}  <br>{{/each}} |     |     |
+| GENDER: | {{gender}} | DATE OF BIRTH | {{date\_of\_birth}} | PLACE OF BIRTH: | {{place\_of\_birth}} |
+| CURRENT ADDRESS - STREET ADDRESS, CITY, PROV, POSTAL CODE, COUNTRY: |     |     | {{current\_address.street\_address}}, {{current\_address.locality}}, {{current\_address.administrative\_division\_1}}, {{current\_address.postal\_code}}, {{current\_address.country}} |     |     |
+| PHONE NUMBER: | {{phone\_number}} |     | E-MAIL ADDRESS: | {{email\_address}} |     |
 
 |     |     |
 | --- | --- |
 | PREVIOUS ADDRESSES: (LIST ALL ADDRESSES WITHIN THE LAST 5 YEARS - INCLUDING OUT OF COUNTRY) |     |
+| {{#if previous\_addresses}} |
 | {{#each previous\_addresses}} |
-| ADDRESS:  <br>CITY:  <br>PROV:  <br>POSTAL CODE: | {{this.street\_address}}  <br>{{this.locality}}  <br>{{this.administrative\_division\_1}}  <br>{{this.postal\_code}} |
+| STREET ADDRESS, CITY, PROV, POSTAL CODE, COUNTRY: | {{this.street\_address}}, {{this.locality}}, {{this.administrative\_division\_1}}, {{this.postal\_code}}, {{this.country}} |
 | {{/each}} |
+| {{/if}} |
+| {{#unless previous\_addresses}} |
+| STREET ADDRESS, CITY, PROV, POSTAL CODE, COUNTRY: |     |
+| {{/unless}} |
 
 |     |     |
 | --- | --- |
 | DECLARATION OF A CRIMINAL RECORD (if applicable) |     |
-| By declaring any offences of which you have been convicted, your criminal convictions record can be confirmed without needing to submit your fingerprints for verification of your identity and the processing delay that this causes.  <br>  <br>Please list below all offences of which a judge has convicted you (whether indictable or summary) and specifically identify the offence, date you were convicted, and place where the offence was committed.  <br>  <br>Do not disclose convictions for which you have received a pardon pursuant to the Criminal Records Act, or charges that were dismissed, stayed, or resulted in absolute or conditional discharges.  <br>  <br>Do not disclose offence convictions where you were found guilty of an offence committed while you were a “young person” (younger than eighteen years), pursuant to the Youth Criminal Justice Act. |     |
+| By declaring any offences of which you have been convicted, your criminal convictions record can be confirmed without needing to submit your fingerprints for verification of your identity and the processing delay that this causes.  <br>Please list below all offences of which a judge has convicted you (whether indictable or summary) and specifically identify the offence, date you were convicted, and place where the offence was committed.  <br>Do not disclose convictions for which you have received a pardon pursuant to the Criminal Records Act, or charges that were dismissed, stayed, or resulted in absolute or conditional discharges.  <br>Do not disclose offence convictions where you were found guilty of an offence committed while you were a "young person" (younger than eighteen years), pursuant to the Youth Criminal Justice Act. |     |
 | List convictions or write N/A if nothing to declare and sign below |     |
+| {{#if convictions}} |
 | {{#each convictions}} |
-| DATE OF CONVICTION:  <br>NATURE OF OFFENCE:  <br>JURISDICTION: | {{this.date}}  <br>{{this.nature}}  <br>{{this.jurisdiction}} |
+| DATE OF CONVICTION, NATURE OF OFFENCE, JURISDICTION: | {{this.date}}, {{this.nature}}, {{this.jurisdiction}} |
 | {{/each}} |
+| {{/if}} |
+| {{#unless convictions}} |
+| DATE OF CONVICTION, NATURE OF OFFENCE, JURISDICTION: | N/A |
+| {{/unless}} |
 
-|     |     |
-| --- | --- |
-| Signature: | {{first\_name}} {{last\_name}} |
-| Date: | {{todays\_date}} |
-| Name: | {{first\_name}} {{last\_name}} |
-| Date of Birth (YYYY/MM/DD): | {{date\_of\_birth}} |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
+| Name: | {{first\_name}} {{last\_name}} | Date of Birth (YYYY/MM/DD): | {{date\_of\_birth}} |
 
-|     |     |
-| --- | --- |
-| REASON FOR APPLICATION:  <br>Volunteer / Employment/ \*Other | {{reason\_for\_application}} |
-| Key Contact Name: | {{key\_contact\_name}} |
-| Requesting Organization Name: | {{requesting\_organization\_name}} |
-| Requesting Organization Phone Number: | {{requesting\_organization\_phone\_number}} |
-| \*Other - Details: | {{other\_details}} |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| REASON FOR APPLICATION:  <br>Volunteer / Employment/ \*Other | {{reason\_for\_application}} | Requesting Organization Name: | {{requesting\_organization\_name}} |
+| Key Contact Name: | {{key\_contact\_name}} | Requesting Organization Phone Number: | {{requesting\_organization\_phone\_number}} |
+| \*Other - Details: |     | {{other\_details}} |     |
 
 |     |
 | --- |
 | CONSENT TO SEARCH AND DISCLOSE AND LIABILITY RELEASE |     |
-| I request and consent to the police partner, and its employees (the “Police Partner”), designated by Certn (Canada) Inc. (“Certn”), as a third party agency, to search any policing agency or court databases based on the information I have provided in order to locate any records and information in which I am referred to, and to confirm and report any criminal convictions (summary and indictable) and, if an enhanced check is ordered, any other relevant records including: absolute and conditional discharges; cases of not criminally responsible for reasons of mental disorder; and outstanding entries such as charges, judicial orders, probation and prohibition orders.  <br>  <br>I understand that information collected as a result of this Criminal Record Check will only be released to Certn and the third party organization referenced above, if any. If applicable, I understand that the organization referenced above, and not the Police Partner, will determine the impact of any reported search results. I understand that the accuracy of the reported information to be disclosed to me is not and cannot be guaranteed and may include errors or omissions.  <br>  <br>By my signature below, and for and in consideration of this Criminal Record Check being completed for me, the receipt and sufficiency of which I hereby acknowledge, I agree not to bring any legal actions, claims or demands, for losses or damages, including indirect or consequential, that I might sustain by reason of the Criminal Record Check being performed for me, against the respective municipality or Police Partner that completed the Criminal Record Check, its associated Police Board and any employees thereof, and to release them each from any and all liability and any actions, claims or demands, even if arising from their negligence or even gross negligence.  <br>  <br>I understand that I may be required to provide my fingerprints to confirm my identity before I can obtain results of my Criminal Record Check.  <br>  <br>I have read and understood this form, and in particular this section, and by signing below I am consenting to the above terms. By signing, I also certify that the information that I have provided is true and correct to the best of my knowledge and belief.  <br>  <br>I authorize the Police Partner to provide the results of the Criminal Record Check directly to Certn and the organization or Person requesting the Criminal Record Check referenced above. |     |
+| I request and consent to the police partner, and its employees (the "Police Partner"), designated by Certn (Canada) Inc. ("Certn"), as a third party agency, to search any policing agency or court databases based on the information I have provided in order to locate any records and information in which I am referred to, and to confirm and report any criminal convictions (summary and indictable) and, if an enhanced check is ordered, any other relevant records including: absolute and conditional discharges; cases of not criminally responsible for reasons of mental disorder; and outstanding entries such as charges, judicial orders, probation and prohibition orders.  <br>I understand that information collected as a result of this Criminal Record Check will only be released to Certn and the third party organization referenced above, if any. If applicable, I understand that the organization referenced above, and not the Police Partner, will determine the impact of any reported search results. I understand that the accuracy of the reported information to be disclosed to me is not and cannot be guaranteed and may include errors or omissions.  <br>By my signature below, and for and in consideration of this Criminal Record Check being completed for me, the receipt and sufficiency of which I hereby acknowledge, I agree not to bring any legal actions, claims or demands, for losses or damages, including indirect or consequential, that I might sustain by reason of the Criminal Record Check being performed for me, against the respective municipality or Police Partner that completed the Criminal Record Check, its associated Police Board and any employees thereof, and to release them each from any and all liability and any actions, claims or demands, even if arising from their negligence or even gross negligence.  <br>I understand that I may be required to provide my fingerprints to confirm my identity before I can obtain results of my Criminal Record Check.  <br>I have read and understood this form, and in particular this section, and by signing below I am consenting to the above terms. By signing, I also certify that the information that I have provided is true and correct to the best of my knowledge and belief.  <br>I authorize the Police Partner to provide the results of the Criminal Record Check directly to Certn and the organization or Person requesting the Criminal Record Check referenced above. |     |
 
-|     |     |
-| --- | --- |
-| Signature: | {{first\_name}} {{last\_name}} |
-| Date: | {{todays\_date}} |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
+
+mg-testing gen auth (fr)
+------------------------
+
+### Version 3.0
+
+##### Effective June 27th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667d4bbccf91ba1ac1356791.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**AUTORISATION**  
+
+Afin d'évaluer votre aptitude à participer à {{purpose}} , l'entreprise a demandé au Certn et à ses sociétés mères, affiliées et filiales, le cas échéant (" Certn ", " nous " ou " notre ") de vérifier votre identité, de créer et de vous renvoyer un rapport de consommation (votre " Rapport(s) ") composé de : {{services\_list}} (les " Services ").
+
+Nous collecterons les informations personnelles suivantes dans le but de fournir les services: {{personal\_information\_list}}. {{#if data\_providers\_list}}Nous pouvons collecter des informations personnelles directement auprès de vous, de la société ou de tiers tels que {{data\_providers\_list}}{{else}}Nous pouvons collecter des informations personnelles directement auprès de vous ou de la Société{{/if}}. Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
+
+Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, en fonction des services et de la localisation de l'entreprise, vos informations personnelles peuvent être traitées par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
+
+Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos informations personnelles sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
+
+  
+
+  
+  
+  
+  
 
 * * *
 
