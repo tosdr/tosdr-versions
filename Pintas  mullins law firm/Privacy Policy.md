@@ -261,7 +261,7 @@ Select State(Required)
 
 Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNewJerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingAmerican SamoaGuamThe Northern Mariana IslandsPuerto RicoU.S. Virgin Islands
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
+Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
 Phone
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do you get lung cancer without smoking?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-do-you-get-lung-cancer-without-smoking.jpg "How Do You Get Lung Cancer without Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-get-lung-cancer-without-smoking/ "How Do You Get Lung Cancer without Smoking?")
+[![How quickly does lung cancer develop?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-quickly-does-lung-cancer-develop.jpg "How Quickly Does Lung Cancer Develop?")](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/ "How Quickly Does Lung Cancer Develop?")
 
-[#### How Do You Get Lung Cancer without Smoking?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-get-lung-cancer-without-smoking/)
+[#### How Quickly Does Lung Cancer Develop?](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/)
 
-[![Can you settle a car accident without a lawyer?](https://www.pintas.com/wp-content/uploads/2020/10/can-you-settle-a-car-accident-without-a-lawyer.jpg "Can You Settle a Car Accident without a Lawyer?")](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/ "Can You Settle a Car Accident without a Lawyer?")
+[![Is roundup harmful to dogs?](https://www.pintas.com/wp-content/uploads/2021/02/dog-watching-owner-spray-weeds-300x225.jpg "Is Roundup Harmful to Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-harmful-to-dogs/ "Is Roundup Harmful to Dogs?")
 
-[#### Can You Settle a Car Accident without a Lawyer?](https://www.pintas.com/practice-areas/personal-injury/can-you-settle-a-car-accident-without-a-lawyer/)
+[#### Is Roundup Harmful to Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-harmful-to-dogs/)
 
-[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
+[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
 
-[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
+[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
 
 ### Injured?  
 Tell Us What Happened.
@@ -304,9 +304,9 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 message
 
-Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by my email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). My own message and data rates may apply. I know my consent to such contact is not required for use of these services.
+Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -320,7 +320,7 @@ This field is for validation purposes and should be left unchanged.
 
 FREE NATIONWIDE CONSULTATION
 
-REPRESENTING CLIENTS IN EVERY STATE
+REPRESENTING CLIENTS IN EVERY STATE\*
 
 MAIN OFFICE  
 368 W Huron St, Suite 100  
@@ -335,31 +335,25 @@ Chicago, IL 60654
 
 #### Popular Cities
 
-* [San Francisco](https://www.pintas.com/near-me/california/san-francisco/nursing-home-abuse-lawyer)
-* [Kansas City](https://www.pintas.com/near-me/missouri/kansas-city/nursing-home-abuse-lawyer)
-* [Newark](https://www.pintas.com/near-me/new-jersey/newark/nursing-home-abuse-lawyer)
-* [New York](https://www.pintas.com/near-me/new-york/new-york-city/nursing-home-abuse-lawyer)
-* [Nashville](https://www.pintas.com/near-me/tennessee/nashville/nursing-home-abuse-lawyer)
+* [Austin](https://www.pintas.com/near-me/texas/austin/nursing-home-abuse-lawyer)
+* [Charlotte](https://www.pintas.com/near-me/north-carolina/charlotte/dog-bite-lawyer)
+* [Chicago](https://www.pintas.com/near-me/illinois/chicago/nursing-home-abuse-lawyer)
+* [Columbus](https://www.pintas.com/near-me/ohio/columbus/nursing-home-abuse-lawyer)
 * [Dallas](https://www.pintas.com/near-me/texas/dallas/nursing-home-abuse-lawyer)
 * [Fort Worth](https://www.pintas.com/near-me/texas/fort-worth/nursing-home-abuse-lawyer)
 * [Houston](https://www.pintas.com/near-me/texas/houston/personal-injury-lawyer)
 * [Jacksonville](https://www.pintas.com/near-me/florida/jacksonville/nursing-home-abuse-lawyer)
+
+* [Los Angeles](https://www.pintas.com/near-me/california/los-angeles/nursing-home-abuse-lawyer)
+* [New York](https://www.pintas.com/lung-cancer-lawyer/new-york/)
+* [Philadelphia](https://www.pintas.com/near-me/pennsylvania/philadelphia/nursing-home-abuse-lawyer)
 * [Phoenix](https://www.pintas.com/near-me/arizona/phoenix/nursing-home-abuse-lawyer)
 * [San Antonio](https://www.pintas.com/near-me/texas/san-antonio/nursing-home-abuse-lawyer)
-
-* [Chicago](https://www.pintas.com/near-me/illinois/chicago/nursing-home-abuse-lawyer)
-* [Philadelphia](https://www.pintas.com/near-me/pennsylvania/philadelphia/nursing-home-abuse-lawyer)
-* [Los Angeles](https://www.pintas.com/near-me/california/los-angeles/nursing-home-abuse-lawyer)
-* [Atlanta](https://www.pintas.com/near-me/georgia/atlanta/nursing-home-abuse-lawyer)
-* [Detroit](https://www.pintas.com/near-me/detroit/michigan/nursing-home-lawyer)
-* [Austin](https://www.pintas.com/near-me/texas/austin/nursing-home-abuse-lawyer)
-* [Charlotte](https://www.pintas.com/near-me/north-carolina/charlotte/dog-bite-lawyer)
-* [Columbus](https://www.pintas.com/near-me/ohio/columbus/nursing-home-abuse-lawyer)
 * [San Jose](https://www.pintas.com/near-me/california/san-jose/clergy-abuse-lawyer)
 * [San Diego](https://www.pintas.com/near-me/california/san-diego/nursing-home-abuse-lawyer)
 
-© 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms of Use](https://www.pintas.com/website-terms-of-use/)
+© 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms of Use](https://www.pintas.com/website-terms-of-use/) | [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)
 
 The information on this website is for general information purposes only. Nothing on this site should be taken as legal advice for  
 any individual case or situation. This information is not intended to create, and receipt or viewing does not constitute, an  
-attorney-client relationship.
+attorney-client relationship. \*Pintas & Mullin's attorneys are licensed in Arizona, Colorado, Illinois, New York, Puerto Rico and co-counsel with attorneys licensed throughout the country. Attorney Advertising.
