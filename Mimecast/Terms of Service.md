@@ -36,7 +36,7 @@
         
         Security Awareness Training
         
-        Award-winning training, real-life phish testing, employee and organizational risk scoring](https://www.mimecast.com/products/security-awareness-training/)
+        Human risk assessment & scoring, award-winning training, and effortless administration.](https://www.mimecast.com/products/security-awareness-training/)
     
     [All Products](https://www.mimecast.com/products/)
     
@@ -72,7 +72,7 @@
         
         Protect People
         
-        Create security-savvy employees and surround them with protection](https://www.mimecast.com/solutions/protect-people/)
+        Revolutionize security awareness with a human-centric approach](https://www.mimecast.com/solutions/protect-people/)
     
     [All Solutions](https://www.mimecast.com/solutions/)
     
