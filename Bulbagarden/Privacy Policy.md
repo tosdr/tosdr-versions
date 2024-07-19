@@ -10,8 +10,8 @@
         * [Mythical](https://bulbapedia.bulbagarden.net/wiki/Mythical_Pok%C3%A9mon)
         * [Event Pokémon](https://bulbapedia.bulbagarden.net/wiki/Event_Pok%C3%A9mon)
         * [Noble Pokémon](https://bulbapedia.bulbagarden.net/wiki/Noble_Pok%C3%A9mon)
+        * [Gigantamax](https://bulbapedia.bulbagarden.net/wiki/Gigantamax)
         * [Alpha Pokémon](https://bulbapedia.bulbagarden.net/wiki/Alpha_Pok%C3%A9mon)
-        * [Titan Pokémon](https://bulbapedia.bulbagarden.net/wiki/Titan_Pok%C3%A9mon)
         * [more...](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon)
     * * Mechanics
         * [Types](https://bulbapedia.bulbagarden.net/wiki/Type)
@@ -21,41 +21,28 @@
         * [Status Conditions](https://bulbapedia.bulbagarden.net/wiki/Status_condition)
         * [Moves](https://bulbapedia.bulbagarden.net/wiki/Category:Moves)
         * [Items](https://bulbapedia.bulbagarden.net/wiki/Category:Items)
-        * [Terastal Phenomenon](https://bulbapedia.bulbagarden.net/wiki/Terastal_phenomenon)
         * [more...](https://bulbapedia.bulbagarden.net/wiki/Category:Game_mechanics)
     * * Games
         * [Walkthroughs](https://bulbapedia.bulbagarden.net/wiki/Category:Walkthroughs)
-        * [Scarlet and Violet](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Scarlet_and_Violet)
         * [Pokémon Legends: Arceus](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Legends:_Arceus)
         * [Pokémon Brilliant Diamond and Shining Pearl](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Brilliant_Diamond_and_Shining_Pearl)
         * [Sword & Shield](https://bulbapedia.bulbagarden.net/wiki/Category:Pok%C3%A9mon_Sword_and_Shield)
         * [Spin Offs](https://bulbapedia.bulbagarden.net/wiki/Spin-off_Pok%C3%A9mon_games)
         * [GO](https://bulbapedia.bulbagarden.net/wiki/Category:Pok%C3%A9mon_GO)
-        * [Masters EX](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Masters_EX)
         * [all games...](https://bulbapedia.bulbagarden.net/wiki/Category:Games)
     * * TCG
         * [About](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game)
         * [How to Play](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trading_Card_Game#How_to_play)
         * [Rotation](https://bulbapedia.bulbagarden.net/wiki/Rotation_(TCG))
         * [Promotional Cards](https://bulbapedia.bulbagarden.net/wiki/Promotional_cards_(TCG))
-        * [Scarlet and Violet](https://bulbapedia.bulbagarden.net/wiki/Scarlet_%26_Violet_(TCG))
-        * [Paldea Evolved](https://bulbapedia.bulbagarden.net/wiki/Paldea_Evolved_(TCG))
-        * [Obsidian Flames](https://bulbapedia.bulbagarden.net/wiki/Obsidian_Flames_(TCG))
-        * [151](https://bulbapedia.bulbagarden.net/wiki/151_(TCG))
-        * [Paradox Rift](https://bulbapedia.bulbagarden.net/wiki/Paradox_Rift_(TCG))
-        * [Paldean Fates](https://bulbapedia.bulbagarden.net/wiki/Paldean_Fates_(TCG))
-        * [Temporal Forces](https://bulbapedia.bulbagarden.net/wiki/Temporal_Forces_(TCG))
+        * [Brilliant Stars](https://bulbapedia.bulbagarden.net/wiki/Brilliant_Stars_(TCG))
+        * [Fusion Strike](https://bulbapedia.bulbagarden.net/wiki/Fusion_Strike_(TCG))
         * [all expansions...](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Trading_Card_Game_expansions)
     * * Anime & Manga
-        * [Anime](https://bulbapedia.bulbagarden.net/wiki/Category:Anime)
-        * [Pokémon Horizons](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Horizons:_The_Series)
-        * [Pokémon Concierge](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Concierge)
-        * [Anime Characters](https://bulbapedia.bulbagarden.net/wiki/List_of_anime_characters)
         * [Ash Ketchum](https://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum)
-        * [Liko](https://bulbapedia.bulbagarden.net/wiki/Liko)
-        * [Haru](https://bulbapedia.bulbagarden.net/wiki/Haru)
+        * [Anime](https://bulbapedia.bulbagarden.net/wiki/Category:Anime)
+        * [Anime Characters](https://bulbapedia.bulbagarden.net/wiki/List_of_anime_characters)
         * [Journeys Episodes](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Journeys:_The_Series_episodes)
-        * [Horizons Episodes](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Horizons:_The_Series_episodes)
         * [Movies](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_movie#List_of_movies)
         * [Manga](https://bulbapedia.bulbagarden.net/wiki/Category:Manga)
 * [Forums](https://forums.bulbagarden.net/)
@@ -96,8 +83,6 @@
 Menu
 
    
-
- Bulbapedia:Privacy policy - Bulbapedia, the community-driven Pokémon encyclopedia                   
 
 Please remember to follow the [manual of style](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Manual_of_style "Bulbapedia:Manual of style") and [code of conduct](https://bulbapedia.bulbagarden.net/wiki/Bulbapedia:Code_of_conduct "Bulbapedia:Code of conduct") at all times.  
 Check the [Bulbagarden home page](https://bulbagarden.net/) for up-to-date Pokémon news and discuss it on the [forums](https://forums.bulbagarden.net/index.php) or in the [Bulbagarden Discord server](https://discord.gg/bulbagarden).
