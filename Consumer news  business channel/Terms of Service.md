@@ -228,6 +228,8 @@ Menu
 * [USA](https://www.cnbc.com/?region=usa)
 * [INTL](https://www.cnbc.com/world/)
 
+* [watchlive](https://www.cnbc.com/live-tv/)
+
 Search quotes, news & videos
 
 [Watchlist](https://www.cnbc.com/watchlist/)
