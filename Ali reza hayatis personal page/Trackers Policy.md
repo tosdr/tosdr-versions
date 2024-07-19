@@ -26,7 +26,7 @@ The web site address is hyti.org. Ali Reza Hayati is the author and owner of hyt
 Copyright
 ---------
 
-Material on hyti.org is published under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/), except where otherwise noted.
+Original material on hyti.org is published under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/), except where otherwise noted.
 
 This means you are free to:
 
@@ -43,6 +43,8 @@ Appropriate credit means you must provide the name of the creator and attributio
 And you must indicate if changes were made. This means you must indicate if you modified the material and retain an indication of previous modifications.
 
 A copy of the license is included at [https://hyti.org/files/licenses/cc-by-sa-04.txt](https://hyti.org/files/licenses/cc-by-sa-04.txt).
+
+All material that is not original to hyti.org may require permission from the copyright holder to redistribute.
 
 ### Reporting privacy violations
 
@@ -96,8 +98,18 @@ Policy updates
 
 These policies may get updated without prior notice.
 
+* [Home](https://alirezahayati.com/)
+* [About](https://hyti.org/about/)
+* [Asides](https://hyti.org/category/asides/)
+* [Digitality](https://hyti.org/category/digitality/)
+* [General](https://hyti.org/category/general/)
+* [Regards](https://hyti.org/category/regards/)
+* [Society](https://hyti.org/category/society/)
+
+[![I support free software badge](https://hyti.org/wp-content/uploads/2021/05/i-support-fs_red-bg.png)](https://gnu.org/)
+
 ![CC BY-SA 4.0](/wp-content/uploads/2023/08/cc-by-sa-80x15-1.png)  
-Material on hyti.org is published under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), except where otherwise noted.  
+Original material on hyti.org is published under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), except where otherwise noted.  
 Check the [policies page](https://alirezahayati.com/policies) for more information.
 
 [Policies](https://hyti.org/policies/) [Proudly powered by WordPress](https://wordpress.org/ "Semantic Personal Publishing Platform")
