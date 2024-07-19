@@ -1,10 +1,47 @@
 [Skip to main content](#main-content)
 
- [![logo](/hc/theming_assets/01HZH483AFP40K6C397WVA97SZ) ![logo](/hc/theming_assets/01HZH483EMG5ACQN09F3CQ9JF0)](https://fastmail.com/)
+[Home](https://www.fastmail.com/)
 
-[Help Center](https://www.fastmail.com/hc/en-us)
+ Open menu Hide menu
 
-[View or create a support ticket](https://fastmail.com/support) [Try for free](https://www.fastmail.com/signup/)
+* [Product tour](https://www.fastmail.com/features/)
+* [For business](https://www.fastmail.com/business/)
+* Support & Resources
+    
+    * Support
+        
+        * [Help center](https://fastmail.help/hc/en-us/)
+        * [Contact us](https://support.fastmail.com/support/)
+        * [System status](https://fastmailstatus.com/)
+        * [Report a security issue](https://www.fastmail.com/bug-bounty/)
+    * How to
+        
+        * [Move from Gmail](https://www.fastmail.com/how-to/move-from-gmail/)
+        * [Move from Outlook](https://www.fastmail.com/how-to/move-from-outlook/)
+        * [Move from Yahoo](https://www.fastmail.com/how-to/move-from-yahoo/)
+        * [Move from Proton](https://www.fastmail.com/how-to/move-from-proton/)
+        * [Move from HEY](https://www.fastmail.com/how-to/move-from-hey/)
+        * [Get email for your domain](https://www.fastmail.com/how-to/email-for-your-domain/)
+        * [Stop spam](https://www.fastmail.com/how-to/stop-spam/)
+        * [Achieve inbox zero](https://www.fastmail.com/how-to/inbox-zero/)
+    * Resources
+        
+        * [Blog](https://www.fastmail.com/blog/)
+        * [Podcast](https://www.fastmail.com/digitalcitizen/)
+        * [About us](https://www.fastmail.com/company/about/)
+        * [Our values](https://www.fastmail.com/company/values/)
+        * [API Documentation](https://www.fastmail.com/dev/)
+        * [Policies](https://www.fastmail.com/policies/)
+    * Download the app
+        
+        * [App Store Download Fastmail on the App Store](https://apps.apple.com/us/app/fastmail-email-calendar/id931370077)
+        * [Google Play Download Fastmail on Google Play](https://play.google.com/store/apps/details?id=com.fastmail.app)
+    
+* [Pricing](https://www.fastmail.com/pricing/)
+* [Log in](https://app.fastmail.com/)[Try for free](https://app.fastmail.com/signup/)
+
+* [Try for free](https://app.fastmail.com/signup/)
+* [Log in](https://app.fastmail.com/)
 
 How can we help?
 
@@ -159,17 +196,61 @@ Was this article helpful?
 
 Yes No
 
-211 out of 288 found this helpful
+215 out of 296 found this helpful
 
-Need help? [Contact our support team](https://fastmail.com/support)
+Need help? [Contact our support team](https://support.fastmail.com/support)
 
-##### Get Support
+Footer navigation
+-----------------
 
-* [Help center](https://www.fastmail.help/)
-* [Contact us](https://www.fastmail.com/support/)
-* [System status](https://www.fastmailstatus.com/)
-* [Report a security issue](https://www.fastmail.com/about/bugbounty/)
+Email and calendar made better
 
-[](https://www.fastmail.com/)
+### Product
 
-[Privacy policy](https://www.fastmail.com/about/privacy/) [Terms of service](https://www.fastmail.com/about/tos/)
+* [Product tour](https://www.fastmail.com/features/)
+* [For business](https://www.fastmail.com/business/)
+* [Pricing](https://www.fastmail.com/pricing/)
+* [Security](https://www.fastmail.com/features/security/)
+* [Privacy](https://www.fastmail.com/features/privacy/)
+
+### How to
+
+* [Move from Gmail](https://www.fastmail.com/how-to/move-from-gmail/)
+* [Move from Outlook](https://www.fastmail.com/how-to/move-from-outlook/)
+* [Move from Yahoo](https://www.fastmail.com/how-to/move-from-yahoo/)
+* [Move from Proton](https://www.fastmail.com/how-to/move-from-proton/)
+* [Move from HEY](https://www.fastmail.com/how-to/move-from-hey/)
+* [Get email for your domain](https://www.fastmail.com/how-to/email-for-your-domain/)
+* [Stop spam](https://www.fastmail.com/how-to/stop-spam/)
+* [Achieve inbox zero](https://www.fastmail.com/how-to/inbox-zero/)
+
+### Support & Resources
+
+* [Blog](https://www.fastmail.com/blog/)
+* [Podcast](https://www.fastmail.com/digitalcitizen/)
+* [Help center](https://fastmail.help/hc/en-us/)
+* [Contact us](https://support.fastmail.com/support/)
+* [API Documentation](https://www.fastmail.com/dev/)
+* [Report a security issue](https://www.fastmail.com/bug-bounty/)
+
+### Company
+
+* [About us](https://www.fastmail.com/company/about/)
+* [Our values](https://www.fastmail.com/company/values/)
+* [Careers](https://apply.workable.com/fastmail-1/)
+* [Open source and standards](https://www.fastmail.com/company/open-source/)
+* [Partner with us](https://www.fastmail.com/company/partners/)
+* [Policies](https://www.fastmail.com/policies/)
+* [Media kit](https://www.fastmail.com/media-kit/)
+
+* © 2024 Fastmail Pty Ltd. All rights reserved.
+* [System status](https://fastmailstatus.com/)
+* [Terms of service](https://www.fastmail.com/policies/terms-of-service/)
+
+* [Mastodon](https://mastodon.social/@fastmail)
+* [X](https://twitter.com/Fastmail)
+* [LinkedIn](https://www.linkedin.com/company/fastmail)
+* [Facebook](https://www.facebook.com/Fastmail/)
+
+* [Download Fastmail on Google Play](https://play.google.com/store/apps/details?id=com.fastmail.app)
+* [Download Fastmail on the App Store](https://apps.apple.com/us/app/fastmail-email-calendar/id931370077)
