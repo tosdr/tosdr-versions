@@ -88,6 +88,8 @@ Access requests made under this Policy for grades where the release date for suc
 
 To safeguard your personal data from unauthorized access, collection, use, disclosure, copying, modification, disposal or similar risks, we have introduced appropriate administrative, physical and technical measures such as encryption, disclosing personal data both internally and to our authorized third party service providers and agents only on a need-to-know basis, and use of secure hosting.
 
+"[Nas.io](http://nas.io/) does not share any user data obtained from Google with third party tools, including AI models."
+
 You should be aware, however, that no method of transmission over the Internet or method of electronic storage is completely secure. While security cannot be guaranteed, we strive to protect the security of your information and are constantly reviewing and enhancing our information security measures.
 
 ### F. Accuracy Of Personal Data
