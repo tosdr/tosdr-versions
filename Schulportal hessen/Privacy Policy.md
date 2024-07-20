@@ -50,14 +50,14 @@ Datenschutzerklärung
 
 Diese Datenschutzerklärung bezieht sich auf die Seite https://schulportal.hessen.de. Die Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
-Hessisches Kultusministerium  
+Hessisches Ministerium für Kultus, Bildung und Chancen  
 Referat IV.1.1  
 Luisenplatz 10  
-65185 Wiesbaden  
-  
+65185 Wiesbaden
+
 Tel.: 0611 368-0  
-Fax.: 0611 368-2099  
-  
+Fax.: 0611 368-2099
+
 E-Mail: poststelle.hkm@kultus.hessen.de  
 Internet: www.kultusministerium.hessen.de
 
@@ -158,6 +158,6 @@ E-Mail:[datenschutzbeauftragter.hkm@kultus.hessen.de](mailto:datenschutzbeauftra
 
 [![Logo](https://schulportal.hessen.de/wp-content/uploads/elementor/thumbs/HM_LA-Marke_366x140_transp-p7i9ek0y7v55gj8swcv2d58l58lbvmc9v0vxspegp8.png "HM_LA-Marke_366x140_transp")](https://lehrkraefteakademie.hessen.de/)
 
-* [Hessisches Kultusministerium](https://hkm.hessen.de/)
+* [kultus.hessen.de](https://kultus.hessen.de/)
 * [Impressum](https://schulportal.hessen.de/impressum/)
 * [Datenschutz](https://schulportal.hessen.de/datenschutzerklaerung/)
