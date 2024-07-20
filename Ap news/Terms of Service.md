@@ -265,15 +265,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live updates: RNC Day 4](https://apnews.com/live/rnc-trump-biden-election-updates)
+[Live updates: Election 2024](https://apnews.com/live/rnc-trump-biden-election-updates)
 
-[Biden and Democrats](https://apnews.com/article/biden-democrats-drop-out-election-2024-3f9e3d15431fd4974771a54e1d0e4ea7)
+[CrowdStrike](https://apnews.com/article/what-is-crowdstrike-worldwide-outage-94b4fc5ac6eed46ddcd565a5f1e4b916)
 
-[Netflix Q2 results](https://apnews.com/article/netflix-video-streaming-subscribers-earnings-second-quarter-d77c9a1f7ce29d1647354a7acf70a7ea)
+[Biden and Democratic Party](https://apnews.com/article/biden-election-trump-democrats-329071c25dfaaae583b5f06184586267)
 
-[Bob Newhart](https://apnews.com/article/bob-newhart-dead-799460b72b3c47e7aaf4eeb246f00b8c)
+[Tel Aviv strike](https://apnews.com/article/israel-palestinians-tel-aviv-strike-daa70aa0f6a3248a00997a281c3731ab)
 
-[Lou Dobbs](https://apnews.com/article/lou-dobbs-obituary-76c799df42c6b7d4912dece5d180b2de)
+[Listeria deaths](https://apnews.com/article/listeria-deli-meat-cdc-deaths-916ee047b0df234d860afc406928ee86)
 
 The Associated Press
 ====================
