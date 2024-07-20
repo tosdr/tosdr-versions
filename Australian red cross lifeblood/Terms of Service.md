@@ -3,6 +3,12 @@
 Terms and conditions
 ====================
 
+![positive icon](/themes/custom/arcbs/assets/images/alert-bar/positive-icon.svg)
+
+Our donor centres are open and operating as normal. Your donations are essential.
+
+![alert close icon](/themes/custom/arcbs/assets/images/alert-bar/alert-close.svg)
+
  [![Home](/themes/custom/arcbs/logo-desktop.svg) ![Home](/themes/custom/arcbs/logo-mobile.svg)](https://www.lifeblood.com.au/ "Home")
 
 [Show — Main navigation](#show-block-arcbs-main-menu) [Hide — Main navigation](#hide-block-arcbs-main-menu)
