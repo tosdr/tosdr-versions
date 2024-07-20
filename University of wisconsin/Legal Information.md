@@ -163,7 +163,7 @@ Footer links
 * [Support UW](https://www.supportuw.org/?utm_source=wisc&utm_medium=referral&utm_content=footer&utm_campaign=campus)
 * [Title IX](https://compliance.wisc.edu/titleix/)
 
-[Footer Crest](https://www.wisc.edu/)
+[Footer Crest](https://www.wisc.edu/) [Part of the Universities of Wisconsin](https://www.wisconsin.edu/)
 
 ### [envelopeContact us](https://www.wisc.edu/contact-us/)
 
