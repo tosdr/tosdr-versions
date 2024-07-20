@@ -1,6 +1,6 @@
 [Skip to Main Content](#maincontent)
 
-MyVirginiaMason will be down for scheduled maintenance on June 26, at 6 p.m. to June 27, at 6 a.m. We apologize for the inconvenience.
+Some VMFH facilities have been affected by a global technology outage. Appointments may be impacted. [Learn more](https://www.vmfh.org/content/vmfhorg/en/global-it-outage "Learn more").
 
 * [Ways to give](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
 * [Refer a patient](https://www.vmfh.org/content/vmfhorg/en/resources/refer-a-patient)
