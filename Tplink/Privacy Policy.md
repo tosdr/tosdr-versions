@@ -66,6 +66,7 @@ Where to Buy
     * [WiFi 7 Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=6271)
     * [WiFi 6 Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=5730)
     * [VPN Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=AND%7C6111%7C6112)
+    * [Gaming Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=5748)
     
     [](https://www.tp-link.com/us/home-networking/all-network-expansion/)
     
@@ -201,12 +202,6 @@ Where to Buy
     * [Accessories](https://www.tp-link.com/us/business-networking/omada/accessory/)
     * [All Products](https://www.tp-link.com/us/business-networking/all-omada/)
     
-    [](https://www.tp-link.com/us/landing/festa/)
-    
-    [Festa](https://www.tp-link.com/us/landing/festa/)
-    
-    The Networking Solution Built for Small Businesses and Prosumers
-    
     [](https://www.tp-link.com/us/business-networking/all-omada-pro/)
     
     [Omada Pro](https://www.tp-link.com/us/business-networking/all-omada-pro/)
@@ -276,6 +271,7 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
+* [HOT DEALS](https://www.tp-link.com/us/promotion/)
 * [Community](https://community.tp-link.com/)
     
     [For Home](https://community.tp-link.com/us/home)
@@ -317,6 +313,8 @@ Where to Buy
         * [WiFi 6 Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=5730)
             
         * [VPN Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=AND%7C6111%7C6112)
+            
+        * [Gaming Routers](https://www.tp-link.com/us/home-networking/wifi-router/?filterby=5748)
             
         
     * Network Expansion
@@ -431,8 +429,6 @@ Where to Buy
             
         * [All Products](https://www.tp-link.com/us/business-networking/all-omada/)
             
-        
-    * [Festa](https://www.tp-link.com/us/landing/festa/)
         
     * Omada Pro
         
@@ -551,6 +547,8 @@ Where to Buy
         
     * [Solution Partners](https://www.tp-link.com/us/where-to-buy/#Solution%20Partners)
         
+    
+* [HOT DEALS](https://www.tp-link.com/us/promotion/)
     
 * Community
     
