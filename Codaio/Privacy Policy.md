@@ -58,9 +58,9 @@ By team size
 
 [Case studies](https://coda.io/solutions/case-studies)
 
-[![](https://sanity-images.imgix.net/production/737fd2b4c642a785393e51e12f244d03a35562ea-1201x481.png?w=1200&auto=format%2Ccompress)
+[![](https://sanity-images.imgix.net/production/54e838140010ee3b4aa587b56eb348973008f66d-2400x1091.png?w=1200&auto=format%2Ccompress)
 
-How Oportun merged two cultures with Coda](https://coda.io/solutions/case-studies/oportun)[See all →](https://coda.io/solutions/case-studies)
+How Qualtrics saves money with Coda](https://coda.io/solutions/case-studies/qualtrics)[See all →](https://coda.io/solutions/case-studies)
 
 Resources
 
@@ -373,7 +373,7 @@ enclosing a copy of our decision so that we can adequately address your appeal.
 
 Right to complain. If you are located in the European Economic Area or the United Kingdom, you have the right to lodge a complaint with your local data protection authority. You can find contact information for data protection authorities in the European Economic Area
 
-[here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm)
+[here](https://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm)
 
 ⁠
 
@@ -640,7 +640,7 @@ Copyright © 2024 Coda. All rights reserved.[Privacy](https://coda.io/trust/priv
 Want to print your doc?  
 This is not the way.
 
-![](https://cdn.coda.io/assets/1a7f828e5005/img/import_google_docs.png)
+![](https://cdn.coda.io/assets/b6edae6cc79b/img/import_google_docs.png)
 
 Try clicking the ⋯ next to your doc name or using a keyboard shortcut (
 
