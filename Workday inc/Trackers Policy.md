@@ -95,13 +95,15 @@ Skip to main content
                     
                 * #### [Workday Extend](https://www.workday.com/en-us/products/platform-product-extensions/app-development.html "Workday Extend")
                     
-        * * ### [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday")
-                
-            * ### [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business")
+        * * ### [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
                 
             * ### [Enterprise Management Cloud](https://www.workday.com/en-us/products/suite.html "Enterprise Management Cloud")
                 
             * ### [Marketplace](https://marketplace.workday.com/en-US/home "Marketplace")
+                
+            * ### [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business")
+                
+            * ### [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday")
                 
     * Industries
         ----------
@@ -430,6 +432,7 @@ Products Products
 * [For HR](https://www.workday.com/en-us/solutions/role/enterprise-hr/overview.html "For HR ")
 * [For Planning](https://www.workday.com/en-us/products/adaptive-planning/overview.html "For Planning ")
 * [Platform](https://www.workday.com/en-us/solutions/role/enterprise-technology/overview.html "Platform ")
+* [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence ")
 * [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday ")
 * [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business ")
 * [Enterprise Management Cloud](https://www.workday.com/en-us/products/suite.html "Enterprise Management Cloud ")
