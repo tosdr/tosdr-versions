@@ -104,6 +104,8 @@ January 2021
 
 * [Magazine](https://www.veygo.com/veygo-magazine/)
 * [Help](https://www.veygo.com/help/)
+* [Refer a friend](https://www.veygo.com/refer/)
+* [Student discount](https://www.veygo.com/student-discount/)
 
 ##### Legal
 
