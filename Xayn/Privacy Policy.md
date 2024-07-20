@@ -268,12 +268,14 @@ This Privacy Policy may be modified from time to time, so please review it frequ
 
 ![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/587ad9dc-fe7e-4f36-8001-94c874f21c22/Footer+Logo.png)
 
-![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/e9e1f65a-7390-4472-bede-e3a33da8a88a/Footer+Logos-03.png)
-
 ![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/245d18fd-697e-4813-ba6d-5391d5a48724/Footer+Logos-02.png)
 
-[![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/99a7991c-e5cc-421c-b2ae-a7c86d9e11c5/stempel_iso_27001_visocert.png)](https://www.xayn.com/s/VC-10202-Zertifikat-E-27001-03_2024.pdf)
+[![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/cffc83f0-deda-4591-acea-b4967b830d26/tranp+stempel_iso_27001_2024_visocert.png)](https://www.xayn.com/s/VC-10202-Zertifikat-E-27001-06_2024.pdf)
 
 ![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/cc60507b-af60-4376-8020-ed661e50e91f/Footer+Logos+AI+Made+in+Germany.png)
 
 [![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/2d6361aa-3dd2-41b8-be0b-9108441f4432/stempel_iso_9001_visocert.png)](https://www.xayn.com/s/VC-10202-Zertifikat-E-9001-05_2024.pdf)
+
+![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/e9e1f65a-7390-4472-bede-e3a33da8a88a/Footer+Logos-03.png)
+
+[![](https://images.squarespace-cdn.com/content/v1/64887e954b6c782765a45285/8738fc63-6bfa-49be-8d32-54b8ba9b1834/Footer+Badges+Logos.png)](https://www.xayn.com/s/Social-Media-Banner.png)
