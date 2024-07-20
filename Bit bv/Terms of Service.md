@@ -168,7 +168,7 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[01-08-24 Periodiek onderhoud brandmeldinstallatie BIT-1](https://www.bit.nl/news/3566/92/Periodiek-onderhoud-brandmeldinstallatie-BIT-1)
+[01-08-24 Periodiek onderhoud brandmeldinstallatie BIT-1](https://www.bit.nl/news/3566/92/Periodiek-onderhoud-brandmeldinstallatie-BIT-1) [14-08-24 Onderhoud blusgasinstallatie BIT-2BCD.](https://www.bit.nl/news/3569/92/Onderhoud-blusgasinstallatie-BIT-2BCD.)
 
 [](https://www.bit.nl/onderhoud)
 
