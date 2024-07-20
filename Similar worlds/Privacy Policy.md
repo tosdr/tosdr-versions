@@ -31,7 +31,11 @@ By accessing, browsing, using or registering with the similarworlds.com website,
 2. You acknowledge that you have read, understood and agree with the [Terms of Service](https://similarworlds.com/legal/terms), the [Privacy Policy](https://similarworlds.com/legal/privacy) and the [Cookies Policy](https://similarworlds.com/legal/cookies).
 3. You will comply and be bound by the Terms of Service and the Privacy Policy, including any future modifications.
 
-If you do not agree to be bound by the Terms of Service or the Privacy Policy in their entirety or you are under 13 years of age, you are not authorized to use the similarworlds.com website, SimilarWorlds or SimilarWorlds Mobile App.
+If you do not agree to be bound by the Terms of Service or the Privacy Policy in their entirety or you are under 13 years of age, you are not authorized to use the similarworlds.com website, SimilarWorlds or SimilarWorlds Mobile App.  
+  
+While we attempt to remove any posts, replies, or messages containing inappropriate material that violates our Terms of Service or any applicable law (and in extreme cases, we report to law enforcement), it is impossible for us to review every message posted on this website. For this reason, you acknowledge that all posts, replies, and messages express the views and opinions of the original author and not necessarily the views of the owners and moderators of the website. Therefore, we take no responsibility and cannot be held liable for any messages posted. We do not vouch for or warrant the accuracy and completeness of any message.  
+  
+By registering on this website, you agree to follow our Terms of Service and will not post any material that is knowingly false, inaccurate, abusive, hateful, harassing, sexually explicit, threatening, or invasive of a person's privacy, or any other material that may violate any applicable laws.
 
 What information we collect
 
