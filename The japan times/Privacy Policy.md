@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[June 21, 2024](https://www.japantimes.co.jp/archive/2024/06/21/ "archive page")
+[July 20, 2024](https://www.japantimes.co.jp/archive/2024/07/20/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Tokyo governor race](https://www.japantimes.co.jp/tag/2024-tokyo-gubernatorial-election/ "Tokyo governor race")
-* [Kim-Putin summit](https://www.japantimes.co.jp/tag/north-korea/ "Kim-Putin summit")
-* [Japan economy](https://www.japantimes.co.jp/tag/japanese-economy/ "Japan economy")
+* [Donald Trump](https://www.japantimes.co.jp/tag/donald-trump/ "Donald Trump")
+* [Extreme heat](https://www.japantimes.co.jp/tag/heat-waves/ "Extreme heat")
+* [Yen volatility](https://www.japantimes.co.jp/tag/yen/ "Yen volatility")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive Podcast](https://www.japantimes.co.jp/podcast/deep-dive/ "Deep Dive Podcast")
 
@@ -463,68 +463,68 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japan study downplays complex grammar in improving English writing skills](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+[Triple whammy takes Japan bankruptcies to decade high](https://www.japantimes.co.jp/business/2024/07/18/economy/japan-bankruptcies-rising/ "Triple whammy takes Japan bankruptcies to decade high")
 
-  [![While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404164.jpg&w=400&q=100&f=jpg&t=1.2 "While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.")](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+  [![More Japanese firms have gone bankrupt in the first half of this year due to soaring costs, labor shortages and the end of pandemic-related support.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/18/410076.jpg&w=400&q=100&f=jpg&t=1.2 "More Japanese firms have gone bankrupt in the first half of this year due to soaring costs, labor shortages and the end of pandemic-related support.  ")](https://www.japantimes.co.jp/business/2024/07/18/economy/japan-bankruptcies-rising/ "Triple whammy takes Japan bankruptcies to decade high")
 
-[Flood of tourists prompts call to charge foreign visitors more](https://www.japantimes.co.jp/news/2024/06/19/japan/may-foreign-visitors/ "Flood of tourists prompts call to charge foreign visitors more")
+[Japan mostly spared in global IT meltdown despite reports of some bugs](https://www.japantimes.co.jp/news/2024/07/19/japan/worldwide-tech-issues/ "Japan mostly spared in global IT meltdown despite reports of some bugs")
 
-  [![People wait to cross a street in Kyoto in April. The number of foreign visitors to Japan came to 3.04 million in May, marking the third straight month at more than 3 million.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404284.jpg&w=400&q=100&f=jpg&t=1.2 "People wait to cross a street in Kyoto in April. The number of foreign visitors to Japan came to 3.04 million in May, marking the third straight month at more than 3 million.")](https://www.japantimes.co.jp/news/2024/06/19/japan/may-foreign-visitors/ "Flood of tourists prompts call to charge foreign visitors more")
+  [![A screen displays an error message at a self-checkout terminal of a supermarket in Sydney on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410275.jpg&w=400&q=100&f=jpg&t=1.2 "A screen displays an error message at a self-checkout terminal of a supermarket in Sydney on Friday. ")](https://www.japantimes.co.jp/news/2024/07/19/japan/worldwide-tech-issues/ "Japan mostly spared in global IT meltdown despite reports of some bugs")
 
-[Rare tissue-damaging bacteria spreads in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
+[How to prevent and respond to heatstroke in Japan this summer](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
 
-  [![Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/15/403395.jpg&w=400&q=100&f=jpg&t=1.2 "Group A Streptococcus typically causes swelling and a sore throat in children, but some types of the bacteria can lead to symptoms developing rapidly.")](https://www.japantimes.co.jp/news/2024/06/15/japan/science-health/stss-japan-spread/ "Rare tissue-damaging bacteria spreads in Japan")
+  [![A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410148.jpg&w=400&q=100&f=jpg&t=1.2 "A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.")](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
 
-[Japan’s rainy season is significantly late this year](https://www.japantimes.co.jp/news/2024/06/20/japan/science-health/rainy-season-delay/ "Japan’s rainy season is significantly late this year")
+[Japanese gymnast Shoko Miyata leaves Olympic team over drinking and smoking](https://www.japantimes.co.jp/olympics/2024/07/19/miyata-smoking-olympics/ "Japanese gymnast Shoko Miyata leaves Olympic team over drinking and smoking")
 
-  [![Pedestrians shelter from the sun in Tokyo's Ginza district on Sunday. On average, the rainy season begins on June 7 in the Kanto region where Tokyo is situated, but as of Thursday, the Meteorological Agency has yet to declare the start of the season in the capital.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/20/404555.jpg&w=400&q=100&f=jpg&t=1.2 "Pedestrians shelter from the sun in Tokyo's Ginza district on Sunday. On average, the rainy season begins on June 7 in the Kanto region where Tokyo is situated, but as of Thursday, the Meteorological Agency has yet to declare the start of the season in the capital.")](https://www.japantimes.co.jp/news/2024/06/20/japan/science-health/rainy-season-delay/ "Japan’s rainy season is significantly late this year")
+  [![Shoko Miyata had been set to lead the Japanese women's gymnastics team at the Paris Games. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410262.jpg&w=400&q=100&f=jpg&t=1.2 "Shoko Miyata had been set to lead the Japanese women's gymnastics team at the Paris Games. ")](https://www.japantimes.co.jp/olympics/2024/07/19/miyata-smoking-olympics/ "Japanese gymnast Shoko Miyata leaves Olympic team over drinking and smoking")
 
-[CDP's Izumi challenges Kishida to dissolve Lower House](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/kishida-izumi-election/ "CDP's Izumi challenges Kishida to dissolve Lower House")
+[Yen rally shakes markets, sending dollar to weakest level since May](https://www.japantimes.co.jp/business/2024/07/18/markets/yen-rally-against-dollar/ "Yen rally shakes markets, sending dollar to weakest level since May")
 
-  [![Constitutional Democratic Party of Japan leader Kenta Izumi (left) faces off against Prime Minister Fumio Kishida in a debate in parliament on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404277.jpg&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party of Japan leader Kenta Izumi (left) faces off against Prime Minister Fumio Kishida in a debate in parliament on Wednesday.")](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/kishida-izumi-election/ "CDP's Izumi challenges Kishida to dissolve Lower House")
+  [![The yen rose to the ¥155 range against the dollar, the highest in almost two months, in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/18/409887.jpg&w=400&q=100&f=jpg&t=1.2 "The yen rose to the ¥155 range against the dollar, the highest in almost two months, in Tokyo on Thursday.")](https://www.japantimes.co.jp/business/2024/07/18/markets/yen-rally-against-dollar/ "Yen rally shakes markets, sending dollar to weakest level since May")
 
-[Germany laser-focused on Indo-Pacific despite hurdles, top envoy to Japan says](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/german-ambassador-japan-interview/ "Germany laser-focused on Indo-Pacific despite hurdles, top envoy to Japan says")
+[How to prevent and respond to heatstroke in Japan this summer](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
 
-  [![German and Japanese fighter jets take part in an exercise over Japan. Germany's air force plans to send three of the fighters to Japan next month for the first-ever joint aerial exercise between the Luftwaffe and Air Self-Defense Force.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404311.png&w=400&q=100&f=jpg&t=1.2 "German and Japanese fighter jets take part in an exercise over Japan. Germany's air force plans to send three of the fighters to Japan next month for the first-ever joint aerial exercise between the Luftwaffe and Air Self-Defense Force.")](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/german-ambassador-japan-interview/ "Germany laser-focused on Indo-Pacific despite hurdles, top envoy to Japan says")
+  [![A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410148.jpg&w=400&q=100&f=jpg&t=1.2 "A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.")](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
 
-[Japan study downplays complex grammar in improving English writing skills](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+[Households struggle as Japan’s inflation rises near U.S. levels](https://www.japantimes.co.jp/business/2024/07/19/economy/japan-inflation-rises-near-us/ "Households struggle as Japan’s inflation rises near U.S. levels")
 
-  [![While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404164.jpg&w=400&q=100&f=jpg&t=1.2 "While the education ministry recently introduced a new subject called “logic and expression” in its new curriculum guidelines, experts say that many teachers, in practice, are still focusing on grammar acquisition.")](https://www.japantimes.co.jp/news/2024/06/19/japan/society/japan-essay-writing-english/ "Japan study downplays complex grammar in improving English writing skills")
+  [![The Nishiki market in Kyoto. June’s inflation report shows extraordinary jumps in the prices of some items favored by households, including cabbage (27.6%), potatoes (28.5%) and tomatoes (15.6%).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410184.jpg&w=400&q=100&f=jpg&t=1.2 "The Nishiki market in Kyoto. June’s inflation report shows extraordinary jumps in the prices of some items favored by households, including cabbage (27.6%), potatoes (28.5%) and tomatoes (15.6%).")](https://www.japantimes.co.jp/business/2024/07/19/economy/japan-inflation-rises-near-us/ "Households struggle as Japan’s inflation rises near U.S. levels")
 
-[Onosato heads slim field of sumo wrestlers with ozeki potential](https://www.japantimes.co.jp/sports/2024/06/19/sumo/sumo-rankings-ozeki-potential/ "Onosato heads slim field of sumo wrestlers with ozeki potential")
+[As risk of heatstroke rises in Japan, so does that of COVID-19](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/covid-summer-heatstroke/ "As risk of heatstroke rises in Japan, so does that of COVID-19")
 
-  [![After his Emperor's Cup triumph in Tokyo last month, Onosato (right) is the clear favorite to be the next wrestler to earn promotion to ozeki.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404202.jpg&w=400&q=100&f=jpg&t=1.2 "After his Emperor's Cup triumph in Tokyo last month, Onosato (right) is the clear favorite to be the next wrestler to earn promotion to ozeki.")](https://www.japantimes.co.jp/sports/2024/06/19/sumo/sumo-rankings-ozeki-potential/ "Onosato heads slim field of sumo wrestlers with ozeki potential")
+  [![People hold umbrellas while watching baseball to deal with the heat in the city of Shizuoka on July 7.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410261.jpg&w=400&q=100&f=jpg&t=1.2 "People hold umbrellas while watching baseball to deal with the heat in the city of Shizuoka on July 7.")](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/covid-summer-heatstroke/ "As risk of heatstroke rises in Japan, so does that of COVID-19")
 
-[Japanese Communist Party's shadow looms over Renho in Tokyo race](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/renho-rengo-jcp/ "Japanese Communist Party's shadow looms over Renho in Tokyo race")
+[German, French and Spanish fighter aircraft arrive in Japan for joint drills](https://www.japantimes.co.jp/news/2024/07/19/japan/fighters-drill-germany-france-spain/ "German, French and Spanish fighter aircraft arrive in Japan for joint drills")
 
-  [![Renho attends a news conference in Tokyo on Friday. Renho needs to appeal to a wide range of voters in a race that has over 50 candidates, especially CDP and JCP supporters who don’t like incumbent Tokyo Gov. Yuriko Koike.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/19/404203.jpg&w=400&q=100&f=jpg&t=1.2 "Renho attends a news conference in Tokyo on Friday. Renho needs to appeal to a wide range of voters in a race that has over 50 candidates, especially CDP and JCP supporters who don’t like incumbent Tokyo Gov. Yuriko Koike.")](https://www.japantimes.co.jp/news/2024/06/19/japan/politics/renho-rengo-jcp/ "Japanese Communist Party's shadow looms over Renho in Tokyo race")
+  [![Two Air Self-Defense Force F-15s (right) escort two German Air Force Eurofighter jets and an A330MRTT aerial tanker on their arrival in Japan Friday. The ASDF is conducting training exercises with the German, French and Spanish air forces this weekend.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410183.png&w=400&q=100&f=jpg&t=1.2 "Two Air Self-Defense Force F-15s (right) escort two German Air Force Eurofighter jets and an A330MRTT aerial tanker on their arrival in Japan Friday. The ASDF is conducting training exercises with the German, French and Spanish air forces this weekend.")](https://www.japantimes.co.jp/news/2024/07/19/japan/fighters-drill-germany-france-spain/ "German, French and Spanish fighter aircraft arrive in Japan for joint drills")
 
-[Man who sprung Ghosn challenges depiction of Fuchu Prison](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
+[How to beat Japan’s summer heat in ways better for the planet](https://www.japantimes.co.jp/environment/2024/07/14/sustainability/sustainable-cooling/ "How to beat Japan’s summer heat in ways better for the planet")
 
-  [![Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/18/403199.jpg&w=400&q=100&f=jpg&t=1.2 "Michael Taylor, former U.S. Green Beret and architect of the 2019 Carlos Ghosn escape plot, said that other inmates deported from Fuchu Prison to a detention center in Los Angeles were so traumatized that they ended up with psychological problems.")](https://www.japantimes.co.jp/news/2024/06/18/japan/crime-legal/michael-taylor-fuchu-prison/ "Man who sprung Ghosn challenges depiction of Fuchu Prison")
+  [![Tenugui towels hang up to dry at a dyeing company in Sakai, Osaka Prefecture, on May 8. The durable and versatile tenugui, which many people have in their homes, can be used in many ways to cool one’s body.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/14/408909.jpg&w=400&q=100&f=jpg&t=1.2 "Tenugui towels hang up to dry at a dyeing company in Sakai, Osaka Prefecture, on May 8. The durable and versatile tenugui, which many people have in their homes, can be used in many ways to cool one’s body.")](https://www.japantimes.co.jp/environment/2024/07/14/sustainability/sustainable-cooling/ "How to beat Japan’s summer heat in ways better for the planet")
 
 Podcast
 -------
 
-  [![A person walks among the giant columns supporting the Metropolitan Area Outer Underground Discharge Channel in Saitama Prefecture.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/20/404580.jpg&w=400&q=100&f=jpg&t=1.2 "A person walks among the giant columns supporting the Metropolitan Area Outer Underground Discharge Channel in Saitama Prefecture.")](https://www.japantimes.co.jp/podcast/2024/06/20/deep-dive/tokyo-underground-longform/ "Tokyo underground: The city beneath our feet")
+  [![You can often see generations of families enjoying performances together at Fuji Rock Festival.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/04/407344.jpg&w=400&q=100&f=jpg&t=1.2 "You can often see generations of families enjoying performances together at Fuji Rock Festival.")](https://www.japantimes.co.jp/podcast/2024/07/04/deep-dive/summer-festivals-climate-change/ "Japan’s summer music festivals are feeling the heat in more ways than one")
 
-[Tokyo underground: The city beneath our feet](https://www.japantimes.co.jp/podcast/2024/06/20/deep-dive/tokyo-underground-longform/ "Tokyo underground: The city beneath our feet")
+[Japan’s summer music festivals are feeling the heat in more ways than one](https://www.japantimes.co.jp/podcast/2024/07/04/deep-dive/summer-festivals-climate-change/ "Japan’s summer music festivals are feeling the heat in more ways than one")
 
 Longform
 --------
 
-  [![Father's Day is said to have come to Japan around 1950, shortly after the establishment of Mother's Day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/06/14/402581.jpg&w=400&q=100&f=jpg&t=1.2 "Father's Day is said to have come to Japan around 1950, shortly after the establishment of Mother's Day. ")](https://www.japantimes.co.jp/news/2024/06/15/japan/society/japan-fathers-marriage-depopulation/ "The evolving nature of fatherhood in Japan")
+  [![Akiko Trush says her experience with the neurological disorder dystonia left her feeling like she wanted to chop her own hand off. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/13/408481.jpg&w=400&q=100&f=jpg&t=1.2 "Akiko Trush says her experience with the neurological disorder dystonia left her feeling like she wanted to chop her own hand off. ")](https://www.japantimes.co.jp/news/2024/07/14/japan/science-health/focal-dystonia-musician-health/ "The neurological disorder that 'kills culture'")
 
-[The evolving nature of fatherhood in Japan](https://www.japantimes.co.jp/news/2024/06/15/japan/society/japan-fathers-marriage-depopulation/ "The evolving nature of fatherhood in Japan")
+[The neurological disorder that 'kills culture'](https://www.japantimes.co.jp/news/2024/07/14/japan/science-health/focal-dystonia-musician-health/ "The neurological disorder that 'kills culture'")
 
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[Vol. 36: Destination Restaurants 2024](https://sustainable.japantimes.com/magazine/vol36?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Vol. 36: Destination Restaurants 2024")
+[World’s top homebuilder acts on its responsibility](https://sustainable.japantimes.com/magazine/vol37/37-05?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "World’s top homebuilder acts on its responsibility")
 
-[![Vol. 36: Destination Restaurants 2024](https://wp.japantimes.co.jp/wp-content/uploads/2024/05/SJM_Archivelist_Thumbnail_36-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol36?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Vol. 36: Destination Restaurants 2024")
+[![World’s top homebuilder acts on its responsibility](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_37_05_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol37/37-05?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "World’s top homebuilder acts on its responsibility")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. and China held first informal nuclear talks in five years in March](https://www.japantimes.co.jp/news/2024/06/21/asia-pacific/politics/us-china-informal-nuclear-talks/ "U.S. and China held first informal nuclear talks in five years in March")
+[LDP plans to launch leadership election board next week](https://www.japantimes.co.jp/news/2024/07/20/japan/politics/ldp-leadership-election-board/ "LDP plans to launch leadership election board next week")
 
-44 mins ago
+2 hours ago
 
-[Shogi star Sota Fujii loses major title for first time](https://www.japantimes.co.jp/news/2024/06/21/japan/shogi-fujii-loses-title/ "Shogi star Sota Fujii loses major title for first time")
+[Japan eyes new law to introduce 'active cyberdefense'](https://www.japantimes.co.jp/news/2024/07/20/japan/politics/active-cyberdefense-law/ "Japan eyes new law to introduce 'active cyberdefense'")
 
-1 hours ago
+2 hours ago
 
-[Warnings of heavy rain, flooding and landslides issued for Kagoshima](https://www.japantimes.co.jp/news/2024/06/21/japan/heavy-rain-kagoshima/ "Warnings of heavy rain, flooding and landslides issued for Kagoshima")
+[Nippon Steel hires Mike Pompeo to help clinch purchase of U.S. Steel](https://www.japantimes.co.jp/business/2024/07/20/companies/nippon-steel-mike-pompeo/ "Nippon Steel hires Mike Pompeo to help clinch purchase of U.S. Steel")
 
-1 hours ago
+2 hours ago
 
-[Energy costs drove up inflation in May, backing case for BOJ rate hike](https://www.japantimes.co.jp/business/2024/06/21/economy/consumer-prices/ "Energy costs drove up inflation in May, backing case for BOJ rate hike")
+[U.K. defense chief to discuss joint fighter program with Italy and Japan](https://www.japantimes.co.jp/news/2024/07/20/japan/gcap-uk-japan-italy/ "U.K. defense chief to discuss joint fighter program with Italy and Japan")
 
-1 hours ago
+2 hours ago
 
-[Sudan one of world's 'worst crises' in decades: Doctors Without Borders](https://www.japantimes.co.jp/news/2024/06/21/world/sudan-humanitarian-crisis/ "Sudan one of world's 'worst crises' in decades: Doctors Without Borders")
+[U.S.-Japan Patriot missile production plan hits Boeing component snag](https://www.japantimes.co.jp/news/2024/07/20/japan/us-japan-patriots-component-roadblock/ "U.S.-Japan Patriot missile production plan hits Boeing component snag")
 
-1 hours ago
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
