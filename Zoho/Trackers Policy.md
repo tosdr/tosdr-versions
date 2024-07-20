@@ -23,7 +23,7 @@ Strictly Necessary cookies are necessary for our website to function and cannot 
 
 | Cookie Name | Purpose | Validity |
 | --- | --- | --- |
-| zalb\_alphanumeric cookies of length 10 characters(e.g., zalb\_467aef24c7) | Load balancing and session stickiness | Session |
+| zalb\_ followed by a 10-character sequence of numbers or alphanumeric characters. | Load balancing and session stickiness | Session |
 | csr\* / \*csr\* / \*csr, zmpncc, zfccn | Website security | Session |
 | dcl\_pfx\_lcnt | Navigation through cross-domains | Session |
 | JSESSIONID | HTTP session token identifier | Session |
@@ -168,6 +168,7 @@ For information regarding cookies set by our products, please check the specific
 * [**Zoho Campaigns**](https://www.zoho.com/campaigns/cookie-policy.html)
 * [**Zoho SalesIQ**](https://www.zoho.com/salesiq/cookies-policy.html)
 * [**Zoho Marketing Automation**](https://www.zoho.com/marketingautomation/cookie-policy.html)
+* [**Zoho Sign**](https://www.zoho.com/sign/cookie-policy.html)
 
   
 
