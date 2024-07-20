@@ -80,6 +80,8 @@ Privacy policy : [https://rakutenadvertising.com/legal-notices/services-privacy-
 
 Your rights : [https://rakutenadvertising.com/legal-notices/services-privacy-rights-request-form/](https://rakutenadvertising.com/legal-notices/services-privacy-rights-request-form/)
 
+When you visit or log in to our website, cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or home address. We (or service providers on our behalf) may then send communications and marketing to these email or home addresses. You may opt out of receiving this advertising by visiting [https://app.retention.com/optout](https://app.retention.com/optout)
+
 2\. Changes to your personal information
 ----------------------------------------
 
