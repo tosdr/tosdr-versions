@@ -2,6 +2,8 @@ Popup calculator Copy a link to this page Print this page Email a link to this p
 
 [![The Calculator Site logo](/images/logos/original.png)](https://www.thecalculatorsite.com/)
 
+[](https://www.thecalculatorsite.com/math/percentage-calculator.php)
+
 Quick Search: 
 
 * [Finance](https://www.thecalculatorsite.com/finance/)
@@ -147,6 +149,7 @@ Quick Search:
     * [Gravel Calculator](https://www.thecalculatorsite.com/construction/gravel-calculator.php)
     * [How Much Flooring](https://www.thecalculatorsite.com/construction/how-much-flooring)
     * [LED Savings Calculator](https://www.thecalculatorsite.com/energy/led-savings-calculator.php)
+    * [Miles Per kWh Calculator](https://www.thecalculatorsite.com/energy/miles-per-kwh.php)
     * [MPGe Calculator](https://www.thecalculatorsite.com/energy/mpge-calculator.php)
     * [Mulch Calculator](https://www.thecalculatorsite.com/construction/mulch-calculator.php)
     * [Square Footage](https://www.thecalculatorsite.com/misc/square-footage-calculator.php)
