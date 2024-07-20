@@ -41,8 +41,7 @@ MENU[](#)
 * [Contact Us](https://www.wilbooks.com/contact-wilbooks)
 * [My Account](https://www.wilbooks.com/index.php?p=account)
 
-[Live Chat
----------](javascript: void(0))
+[Customer Login](https://www.wilbooks.com/customer-login)
 
 ![](https://www.wilbooks.com/images/browse-by.png)
 
@@ -67,9 +66,6 @@ Spanish Books ▼
 Series
 
 [Larkin's Little Readers](https://www.wilbooks.com/larkins-little-readers-books)[Mike's Easy Readers](https://www.wilbooks.com/mikes-easy-readers-books)[Photo Books](https://www.wilbooks.com/reading-books-with-photos)[Brain Busters](https://www.wilbooks.com/brain-busters-quiz-books)[Joke Books](https://www.wilbooks.com/joke-books)[Moon People](https://www.wilbooks.com/moon-people/)[Poetry](https://www.wilbooks.com/poetry-books-for-children)[Facts Books](https://www.wilbooks.com/facts-books-for-children)[Abby's Alphabet](https://www.wilbooks.com/abbys-alphabet/)
-
-  
-[Customer Login](https://www.wilbooks.com/customer-login)
 
 Privacy Policy
 ==============
@@ -117,14 +113,16 @@ ABOUT WILBOOKS
 
 CONTACT WILBOOKS
 
-929 South High Street  
-Suite 17, Box 155  
+1311 West Chester Pike  
+West Chester, PA 19382  
 Tel: 610-436-8755  
 Fax: 610-436-6288  
 [EMAIL US](https://www.wilbooks.com/contact-wilbooks)  
 [UNSUBSCRIBE](https://www.wilbooks.com/unsubscribe)
 
 Our Customers Say...
+
+Your books are the perfect size and length for my kindergarten students. They don't feel overwhelmed and look forward to choosing new books.
 
 [Read More »](https://www.wilbooks.com/testimonials)
 
