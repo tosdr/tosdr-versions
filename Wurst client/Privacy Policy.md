@@ -1,13 +1,18 @@
 [![Wurst Client logo](https://images.wurstclient.net/_media/logo/wurst_253x64_ll.webp)](https://www.wurstclient.net/)
 
 * [Download](https://www.wurstclient.net/download/)
-* [Install](https://www.wurstclient.net/tutorials/how-to-install/)
-* [Wiki](https://wurst.wiki/)
-* [Forum](https://wurstforum.net/)
-* [Source Code](https://github.com/Wurst-Imperium/Wurst7)
-* [Tutorials](https://www.wurstclient.net/tutorials/)
+* Resources
+    
+    [How to Install](https://www.wurstclient.net/tutorials/how-to-install/) [Tutorials](https://www.wurstclient.net/tutorials/) [Wurst Wiki](https://wurst.wiki/) [Source Code](https://github.com/Wurst-Imperium/Wurst7)
+    
+* Community
+    
+    [WurstForum](https://wurstforum.net/) [GitHub](https://github.com/Wurst-Imperium) [Ko-fi](https://ko-fi.com/wurst) [YouTube](https://www.youtube.com/@Alexander01998) [Twitter (X)](https://x.com/Wurst_Imperium)
+    
 * [Contact](https://www.wurstclient.net/contact/)
 * [Donate](https://www.wurstclient.net/donate/)
+
+☰
 
 Privacy Policy
 ==============
