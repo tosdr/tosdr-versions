@@ -1,4 +1,4 @@
-[Lorem ipsum dolor sit amet, consectetur adipiscing elit.](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/) [Download Japan app trends 2024](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/)
+[Adjust x Sensor Tower: Mobile app trends 2024 Japan edition - Download now!](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/) [Download Mobile app trends 2024: Japan edition!](https://www.adjust.com/resources/ebooks/japan-app-trends-2024/)
 
 [![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
 
