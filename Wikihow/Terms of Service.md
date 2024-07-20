@@ -15,7 +15,7 @@ Skip to Content
     
     [Tech Help Pro](https://www.wikihow.com/Tech-Help-Pro)[About Us](https://www.wikihow.com/wikiHow:About-wikiHow)[Random Article](https://www.wikihow.com/Special:Randomizer)[Quizzes](https://www.wikihow.com/Quizzes)
     
-    [Request a New Article](https://www.wikihow.com/Special:RequestTopic)[Community Dashboard](https://www.wikihow.com/Special:CommunityDashboard)[This Or That Game](https://www.wikihow.com/Games/This-Or-That)
+    [Request a New Article](https://www.wikihow.com/Special:RequestTopic)[Community Dashboard](https://www.wikihow.com/Special:CommunityDashboard)[This Or That Game](https://www.wikihow.com/Games/This-Or-That)[Happiness Hub](https://www.wikihow.com/Academy/Shawn-Achor)
     
     [Popular Categories](https://www.wikihow.com/Special:CategoryListing)
     
@@ -71,6 +71,7 @@ Skip to Content
 * Learn Something New
 * [QuizzesHot](https://www.wikihow.com/Quizzes)
 * [Courses](https://www.wikihow.com/Course/Explore)
+* [Happiness Hub](https://www.wikihow.com/Academy/Shawn-Achor)
 * Play Games
 * [This Or That Game](https://www.wikihow.com/Games/This-Or-That)
 * [Train Your Brain](https://www.wikihow.com/Games/Train-Your-Brain)
@@ -154,7 +155,7 @@ You understand that “wikiHow Confidential Information” means information and
 User Content
 --------------
 
-The Service allows Users to post content such as profile information, instructional and informational materials, photographs, images, comments, questions, and other content or information (any such materials a User submits, posts, displays, or otherwise makes available on the Service “User Content”). We claim no ownership rights over User Content created by you. The User Content you create remains yours; however, by sharing User Content through the Service, you agree to allow others to view, edit, and/or share your User Content in accordance with this Agreement (see “User Content License Grants” below). wikiHow has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the Service.
+The Service allows Users to post content such as profile information, instructional and informational materials, photographs, images, comments, questions, and other content or information (any such materials a User submits, posts, displays, or otherwise makes available on the Service “User Content”). Unless governed by other, case-specific terms provided to you, the User Content you create remains yours; however, by sharing User Content through the Service, you agree to allow others to view, edit, and/or share your User Content in accordance with this Agreement (see “User Content License Grants” below). wikiHow has the right (but not the obligation) in its sole discretion to remove any User Content that is shared via the Service.
 
 You agree not to post User Content that: (i) may create a risk of harm, loss, physical or mental injury, emotional distress, death, disability, disfigurement, or physical or mental illness to you, to any other person, or to any animal; (ii) may create a risk of any other loss or damage to any person or property; (iii) seeks to harm or exploit children by exposing them to inappropriate content, asking for personally identifiable details or otherwise; (iv) may constitute or contribute to a crime or tort; (v) contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libelous, threatening, profane, obscene, or otherwise objectionable; (vi) contains any information or content that is illegal (including, without limitation, the disclosure of insider information under securities law or of another party’s trade secrets); (vii) contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or (viii) contains any information or content that you know is not correct and current. You agree that any User Content that you post does not and will not violate third-party rights of any kind, including without limitation any Intellectual Property Rights (as defined below) or rights of privacy. wikiHow reserves the right, but is not obligated, to reject and/or remove any User Content that wikiHow believes, in its sole discretion, violates these provisions or is otherwise inappropriate for the Service. You understand that publishing your User Content on the Service is not a substitute for registering it with the U.S. Copyright Office, the Writer’s Guild of America, or any other rights organization.
 
@@ -177,12 +178,12 @@ User Content License Grants
 
 A. License Grant to wikiHow.
 
-By posting any User Content on the Service, you expressly grant, represent, and warrant that you have all rights necessary to grant to wikiHow a royalty-free, sublicensable, assignable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content and your name, voice, and/or likeness as contained in your User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and wikiHow’s (and its successors’ and affiliates’) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels. You will continue to own any User Content you post to the Service, and you are free to distribute it in any way you please, whether for commercial or non-commercial purposes.
+By posting any User Content on the Service, you expressly grant, represent, and warrant that you have all rights necessary to grant to wikiHow a royalty-free, sublicensable, assignable, transferable, perpetual, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, list information regarding, edit, sell, monetize, translate, distribute, syndicate, publicly perform, publicly display, and make derivative works of all such User Content and your name, voice, and/or likeness as contained in your User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed, for use in connection with the Service and wikiHow’s (and its successors’ and affiliates’) business, including without limitation for promoting and redistributing part or all of the Service (and derivative works thereof) in any media formats and through any media channels.
 
 B. License Grants to Users
 
   
-(1) Text Content. All text posted by Users to the Service is sub-licensed by wikiHow to other Users under a Creative Commons license as provided herein. The Creative Commons license allows such user generated text content to be used freely for personal, non-commercial purposes, so long as it is used and attributed to the original author as specified under the terms of the license. Allowing free republication of our articles helps wikiHow achieve its mission by providing instruction on solving the problems of everyday life to more people for free. In order to support this goal, wikiHow hereby grants each User of the Service a license to all text content that Users contribute to the Service under the terms and conditions of a Creative Commons [CC BY-NC-SA 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/). Please be sure to read the terms of the license carefully. You continue to own all right, title, and interest in and to your User Content, and you are free to distribute it as you wish, whether for commercial or non-commercial purposes.
+(1) Text Content. All text posted by Users to the Service is sub-licensed by wikiHow to other Users under a Creative Commons license as provided herein. The Creative Commons license allows such user generated text content to be used freely for personal, non-commercial purposes, so long as it is used and attributed to the original author as specified under the terms of the license. wikiHow hereby grants each User of the Service a license to all text content that Users contribute to the Service under the terms and conditions of a Creative Commons [CC BY-NC-SA 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/). Please be sure to read the terms of the license carefully.
 
 (2) Image Content. When you upload images to the Service, you may select among various licenses under which wikiHow may distribute and sublicense your image-based User Content. wikiHow hereby grants to Users of the Service all rights specified under the terms of the license under which any image-based User Content is licensed to wikiHow.
 
@@ -190,6 +191,27 @@ Third Party Content: YouTube Videos
 -------------------------------------
 
 Certain wikiHow pages contain third party content in the form of embedded videos from the YouTube API Service. Your use of these videos is governed by YouTube's Terms of Service, which you may read in full at [YouTube Terms of Service](https://www.youtube.com/t/terms).
+
+wikiHow Pro
+-------------
+
+A. wikiHow Pro General Terms
+
+We may offer a paid subscription that provides access to certain premium features within the Service ("wikiHow Pro"). wikiHow Pro is still governed by the general provisions of this Agreement with additional special terms as defined in this section. wikiHow Pro may be available through annual, monthly, and lifetime (see "Lifetime Subscription Terms" below for more details) subscription plans. Fees are billed automatically on a recurring basis and you agree to pay all charges at the prices then in effect for your chosen subscription plan.
+
+You may cancel your subscription by contacting [support@wikihow.pro](mailto:support@wikihow.pro) at any time. Cancellations will take effect at the end of the current billing cycle. wikiHow reserves the right to terminate or suspend your subscription at any time. If we terminate your subscription, we may provide a prorated refund for the remaining period of your subscription.
+
+wikiHow reserves the right to discontinue the wikiHow Pro service, as well as to add, remove, or modify features and content of the wikiHow Pro service at any time. wikiHow makes no claims or guarantees related to the exclusive nature of the wikiHow Pro offerings. Certain features or content may be made available to non-subscribers.
+
+The wikiHow Pro service is intended for personal, non-commercial use only. The free PDF download feature of the wikiHow Pro subscription is not unlimited, and excessive downloads of PDFs or abuse of this feature, defined at wikiHow's sole discretion, may result in the termination of your subscription.
+
+B. Lifetime Subscription Terms
+
+The term “Lifetime Subscription” refers to the duration of the wikiHow Pro service as long as it is provided by wikiHow. This does not guarantee that the service will be available for the actual lifetime of the subscriber. wikiHow reserves the right to discontinue the wikiHow Pro service at any time at its discretion. In the event of such discontinuation, Lifetime Subscriptions will terminate with no obligation or refunds due to the subscriber. wikiHow does not make any guarantee about the uninterrupted continuation of the wikiHow Pro service and wikiHow shall not be liable for any indirect, incidental, special, or consequential damages arising from the use or inability to use the wikiHow Pro service.
+
+If you choose to cancel your Lifetime Subscription within seven (7) calendar days of its start, you may receive a refund of the total subscription fee, though this refund mechanism may be canceled by wikiHow at any time. Any cancellations after seven (7) calendar days may not receive refunds.
+
+By purchasing a subscription to wikiHow Pro, you acknowledge and agree to these terms.
 
 Mobile Software
 -----------------
@@ -205,7 +227,7 @@ The following applies to any Mobile Software you acquire from the iTunes Store (
 Our Proprietary Rights
 ------------------------
 
-Except for your User Content, any User contributed article text, or as expressly provided herein, the Service and all materials therein or transferred thereby, including, without limitation, software, images, graphics, illustrations, text, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music, and User Content belonging to other Users (the “wikiHow Content”), and all Intellectual Property Rights related thereto, are the exclusive property of wikiHow and its licensors (including other Users who post User Content to the Service). Except as explicitly provided herein, nothing in this Agreement shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any wikiHow Content. Use of the wikiHow Content for any purpose not expressly permitted by this Agreement is strictly prohibited.
+Except for your User Content, any User contributed article text, or as expressly provided herein, the Service and all materials therein or transferred thereby, including, without limitation, software, images, graphics, illustrations, text, logos, patents, trademarks, service marks, copyrights, photographs, audio, videos, music, and User Content belonging to other Users (the “wikiHow Content”), and all Intellectual Property Rights related thereto, are the exclusive property of wikiHow and its licensors. However, by posting any User Content, you grant wikiHow the rights to such content under the aforementioned license (see “User Content License Grants” above for details). Except as explicitly provided herein, nothing in this Agreement shall be deemed to create a license in or under any such Intellectual Property Rights, and you agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any wikiHow Content. Use of the wikiHow Content for any purpose not expressly permitted by this Agreement is strictly prohibited.
 
   
 You may choose to or we may invite you to submit comments or ideas about the Service, including without limitation about how to improve the Service or our products (“Ideas”). By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place wikiHow under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone. You further acknowledge that, by acceptance of your submission, wikiHow does not waive any rights to use similar or related ideas previously known to wikiHow, or developed by its employees, or obtained from sources other than you.
@@ -368,24 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
-[![Mental Age Test](https://www.wikihow.com/images/thumb/d/d0/Mental_age_test.png/-crop-126-120-126px-Mental_age_test.png)
+[![Are You Smarter than a 5th Grader Quiz](https://www.wikihow.com/images/thumb/7/76/Are_you_smarter_than_a_fifth_grader_quiz.png/-crop-126-120-126px-Are_you_smarter_than_a_fifth_grader_quiz.png)
 
-What Is My Mental Age Quiz](https://www.wikihow.com/Mental-Age-Test)
+Am I Smarter than a 5th Grader Quiz](https://www.wikihow.com/Are-You-Smarter-than-a-5th-Grader-Quiz)
 
-[![Do the Worm](https://www.wikihow.com/images/thumb/6/63/Do-the-Worm-Step-13-Version-2.jpg/-crop-126-120-126px-Do-the-Worm-Step-13-Version-2.jpg)
-
-How to  
-Do the Worm](https://www.wikihow.com/Do-the-Worm)
-
-[![Look Your Best](https://www.wikihow.com/images/thumb/3/33/Look-Your-Best-Step-20.jpg/-crop-126-120-126px-Look-Your-Best-Step-20.jpg)
+[![Write a Diary](https://www.wikihow.com/images/thumb/0/04/Write-a-Diary-Step-17-Version-4.jpg/-crop-126-120-126px-Write-a-Diary-Step-17-Version-4.jpg)
 
 How to  
-Look Your Best](https://www.wikihow.com/Look-Your-Best)
+Write a Diary](https://www.wikihow.com/Write-a-Diary)
 
-[![Make Paper Look Old](https://www.wikihow.com/images/thumb/4/43/Make-Paper-Look-Old-Step-15-Version-6.jpg/-crop-126-120-126px-Make-Paper-Look-Old-Step-15-Version-6.jpg)
+[![Be Elegant](https://www.wikihow.com/images/thumb/b/b6/Be-Elegant-Step-23.jpeg/-crop-126-120-126px-Be-Elegant-Step-23.jpeg)
 
 How to  
-Make Paper Look Old](https://www.wikihow.com/Make-Paper-Look-Old)
+Be Elegant](https://www.wikihow.com/Be-Elegant)
+
+[![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
+
+How to Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
 
   
 
@@ -426,4 +447,4 @@ Follow Us
 
 \-
 
-850
+222
