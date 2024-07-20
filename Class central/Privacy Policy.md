@@ -412,9 +412,9 @@ Most common
 
 1. java
     
-2. hacking
+2. machine learning
     
-3. French
+3. html
     
 
 Popular subjects
@@ -423,25 +423,25 @@ Popular subjects
 1. [Artificial Intelligence
     
     6,021 courses](https://www.classcentral.com/subject/ai)
-2. [Web Development
+2. [Python
     
-    9,935 courses](https://www.classcentral.com/subject/web-development)
-3. [Data Analysis
+    7,253 courses](https://www.classcentral.com/subject/python)
+3. [Entrepreneurship
     
-    6,490 courses](https://www.classcentral.com/subject/data-analysis)
+    2,570 courses](https://www.classcentral.com/subject/entrepreneurship)
 
 Popular courses
 ---------------
 
-1. [Nutrition and Health: Human Microbiome
+1. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms
     
-    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-9565)
-2. [Modern & Contemporary American Poetry (“ModPo”)
+    Stanford University](https://www.classcentral.com/course/algorithms-divide-conquer-374)
+2. [Medicine and the Arts: Humanising Healthcare
     
-    University of Pennsylvania](https://www.classcentral.com/course/modpo-356)
-3. [The Bible's Prehistory, Purpose, and Political Future
+    University of Cape Town](https://www.classcentral.com/course/medicine-and-the-arts-3015)
+3. [Bioseguridad y equipo de protección para la prevención de COVID-19
     
-    Emory University](https://www.classcentral.com/course/biblefuture-1406)
+    Galileo University](https://www.classcentral.com/course/coronavirus-universidad-galileo-bioseguridad-y-eq-20375)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
