@@ -1,4 +1,4 @@
-![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/6125949472454a3775e325ad_blue_right.svg)![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/61259419336ed78fa4dd3444_orange_left.svg)
+![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/6125949472454a3775e325ad_blue_right.svg)![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/61259419336ed78fa4dd3444_orange_left.svg)
 
 Terms of Service
 ================
@@ -55,7 +55,7 @@ IF YOU ARE USING THE SURF EXTENSION ON BEHALF OF ANOTHER PERSON OR A CORPORATE E
 * How do I Earn Points?  
     The Rewards Program is a digital, online-only, points-based program where members with the Surf Extension may earn points by using the Surf Extension.  You can earn points in the following ways:
     
-    ![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/6335f18fd547031219d56589_Points%20Table.png)
+    ![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/6335f18fd547031219d56589_Points%20Table.png)
     
     A maximum of 300 points may be earned per week from browsing. The Rewards Program works on a rolling basis, where browsing related points for missed days can be earned retroactively, up to the daily and weekly maximums.  
       
@@ -207,8 +207,8 @@ IF YOU ARE USING THE SURF EXTENSION ON BEHALF OF ANOTHER PERSON OR A CORPORATE E
 
 [Earn $5 in Less Than 5 Minutes!](https://app.joinsurf.com/signup/)
 
-[![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/61243c497b0643841db3629d_Surf_logo_full_dark.svg)](https://www.joinsurf.com/extension)
+[![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/61243c497b0643841db3629d_Surf_logo_full_dark.svg)](https://www.joinsurf.com/extension)
 
 [FAQ](https://www.joinsurf.com/extension/#faq_section)[FAQ](https://www.joinsurf.com/extension#faq_section)[Blog](https://www.joinsurf.com/archived/surf-blog)[For Brands](https://www.joinsurf.com/)
 
-[Install Surf, It's Free!](https://app.joinsurf.com/signup/)
+[Install Surf, It's Free!](mailto:swish@joinsurf.com)
