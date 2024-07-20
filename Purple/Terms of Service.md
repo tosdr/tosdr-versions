@@ -440,6 +440,7 @@ Footer menu
     * [Discount Programs](https://purple.com/coupons)
     * [Influencer Program](https://purple.com/ambassador)
     * [Refer a Friend](https://purple.com/invite?traffic_source=site_footer)
+    * [Become a Purple Retailer](https://purple.com/become-purple-retailer)
 * Learn
     
     * [About](https://purple.com/about-us)
@@ -453,26 +454,6 @@ Footer menu
     * [Mattress Types](https://purple.com/blog/types-of-mattresses)
     * [Patents](https://purple.com/patents)
     * [Videos](https://purple.com/videos)
-
-×
-
-#### 
-
-Sign Up for $50 off Your First Mattress Purchase
-
-Don’t lose sleep over missing deals. Sign up for email updates and receive $50 off your first mattress purchase.
-
-Email 
-
- Sign up for SMS updates and make it $75!
-
-Phone Number 
-
-Send
-
-By signing up, you agree to receive recurring automated marketing messages from Purple at the phone number provided. Max X msgs/wk. Consent is not a condition of purchase. Reply STOP to unsubscribe. Msg & data rates may apply. View our Privacy Policy and Terms of Service.
-
-Continue Shopping
 
 Stay Informed, Sleep Better
 
