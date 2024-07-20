@@ -13,11 +13,11 @@ All purchases sold by 2DollarWave is sold as is without any guarantee. By making
 
   
 
-[![](http://pays4ever.com/b468.gif)](https://www.2dollarwave.com/trr.php?id=3)
+[![](https://static.bnbfree.in/banners/468x60-3.png)](https://www.2dollarwave.com/trr.php?id=12)
 
   
 
-[![](https://coinpayu.com/static/uploads/468X60.gif)](https://www.2dollarwave.com/trr.php?id=6)
+[![](https://www.25centsclub.com/images/468.gif)](https://www.2dollarwave.com/trr.php?id=7)
 
   
   
