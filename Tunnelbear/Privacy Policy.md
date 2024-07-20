@@ -33,8 +33,8 @@ Privacy Policy
 
 ![](/static/img/privacy_bear.555fb76.svg)
 
-May 10, 2024
-------------
+June 21, 2024
+-------------
 
 This Privacy Policy describes how TunnelBear LLC. ("TunnelBear") handles your Personal Data when you use our services ("Services").
 
@@ -206,6 +206,8 @@ Some data is used to prevent purchase fraud.
 [### 1.5 Cookies and Persistent Trackers](https://www.tunnelbear.com/privacy-policy#1.5)
 
 In building our website and apps, we have tried to limit the number of services with access to store cookies in your browser. There are currently three third-party services with this ability. These services store data for as short a time as possible.
+
+You may reject cookies through the use of browser settings and plugins, however this may affect how our website or apps appear to you and some functions may not work properly.
 
 Cookie name
 
@@ -556,7 +558,7 @@ Should you have any concerns about how your Personal Data is handled or question
 
 Except as described below, TunnelBear will NOT disclose any Personal Data to other commercial parties under any circumstance:
 
-We may send data to third-party service providers who operate services that help us with: customer support; email; hosting, protecting, and securing the TunnelBear infrastructure; DDoS prevention; payment processing; as well as understanding website analytics, app analytics, account and payment related service usage.
+We may send data to third-party service providers who operate services that help us with: customer support; email; hosting, protecting, and securing the TunnelBear infrastructure; DDoS prevention; payment processing; as well as understanding website analytics, app analytics, account and payment related service usage. We will not transfer your personal data to any third-party service providers outside of Canada.
 
 In the event TunnelBear is served with a valid subpoena, warrant or other legal document and applicable law requires TunnelBear to comply, the extent of disclosure is limited to the Personal Data listed within this Privacy Notice.
 
@@ -568,7 +570,7 @@ TunnelBear does NOT store users' originating IP addresses when connected to our 
 
 [### 2.3 Consent and Legitimate Interest](https://www.tunnelbear.com/privacy-policy#2.3)
 
-When you sign up for our Service and provide us Personal Data, you allow us to process that information in accordance with this Privacy Policy. We rely on legitimate interest for marketing, research, and fraud prevention. We will obtain your consent where required by law.
+When you sign up for our Service and provide us Personal Data, you allow us to process that information in accordance with this Privacy Policy. We rely on contractual necessity to process your Personal Data to the extent reasonably linked to the purposes for which it is collected. We also rely on legitimate interest, including for marketing, research, and fraud prevention. We will obtain your consent where required by law.
 
 You have the right to ask us not to contact you. To exercise your choices or ask questions about your Personal Data, please contact us by [visiting our privacy center](https://www.tunnelbear.com/account/privacy).
 
@@ -582,7 +584,9 @@ We will not use your Personal Data for any purpose that you have not consented t
 
 Only TunnelBear's employees with a business need to know or whose duties require, are granted access to our customers' Personal Data. All such employees will be required as a condition of employment to respect the confidentiality of our customers' Personal Data.
 
-We store your Personal Data only as long as is necessary for the purposes for which it is collected, to provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws. We erase or destroy the records containing Personal Data when they are no longer required; this will be done in ways that will ensure your continued privacy.
+We store your Personal Data only as long as is necessary for the purposes for which it is collected, to provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws. We erase or destroy the records containing Personal Data when they are no longer required, with the involvement of relevant TunnelBear employees; this will be done in ways that will ensure your continued privacy, such that the records cannot be recovered, including the shredding of physical documents or the secure deletion of electronic data.
+
+Unless legally required to keep it, we will delete your account data on the earlier of 1) 30 days after you cancel your subscription or 2) when you request deletion through our [privacy center](https://www.tunnelbear.com/account/privacy); see section 2.11 for more information on how you can request that we delete your data.
 
 [### 2.6 Accuracy](https://www.tunnelbear.com/privacy-policy#2.6)
 
