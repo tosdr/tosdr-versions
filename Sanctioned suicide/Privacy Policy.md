@@ -36,16 +36,15 @@ Install
 *  Light/Dark
     
 
-* [](https://sanctioned-suicide.net/account/dismiss-notice?notice_id=30 "Dismiss notice")
+* [](https://sanctioned-suicide.net/account/dismiss-notice?notice_id=51 "Dismiss notice")Hey Guest,
     
-    New TOR Mirror: **suicidff**bey666ur5gspccbcw2zc7yoat34wbybqa3b  
-    oei6bysflbvqd.onion
+    If you would still like to donate, you still can. We have more than enough funds to cover operating expenses for quite a while, so don't worry about donating if you aren't able. If you want to donate something other than what is listed, you can contact RainAndSadness.
     
-* [](https://sanctioned-suicide.net/account/dismiss-notice?notice_id=45 "Dismiss notice")
+    Bitcoin Address (BTC): 39deg9i6Zp1GdrwyKkqZU6rAbsEspvLBJt
     
-    Hey Guest,
+    Ethereum (ETH): 0xd799aF8E2e5cEd14cdb344e6D6A9f18011B79BE9
     
-    If you want to donate, we have a thread with updated donation options here at this link: [About Donations](https://sanctioned-suicide.net/threads/about-donations.88545)
+    Monero (XMR): 49tuJbzxwVPUhhDjzz6H222Kh8baKe6rDEsXgE617DVSDD8UKNaXvKNU8dEVRTAFH9Av8gKkn4jDzVGF25snJgNfUfKKNC8
     
 
 Privacy policy
