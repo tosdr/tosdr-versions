@@ -11,6 +11,7 @@
     * [Five Analytics Problems Solved by TWIPLA](https://www.visitor-analytics.io/en/why-us/five-web-analytics-problems-solved-by-twipla "Five Analytics Problems Solved by TWIPLA")
     * [Cookieless Tracking](https://www.visitor-analytics.io/en/why-us/cookieless-tracking "Cookieless Tracking")
     * [Maximum Data Privacy Mode](https://www.visitor-analytics.io/en/why-us/maximum-data-privacy-mode "Maximum Data Privacy Mode")
+    * [Dual Tracking Code Options](https://www.visitor-analytics.io/en/why-us/dual-tracking-code-options "Dual Tracking Code Options")
 * [Features](https://www.visitor-analytics.io/en/features)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
     [Website Statistics](https://www.visitor-analytics.io/en/features/website-statistics)
@@ -52,11 +53,11 @@
     * [SaaS Platforms](https://www.visitor-analytics.io/en/white-label/saas-platforms "SaaS Platforms")
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
+    * [Data Anonymization vs Pseudonymization](https://www.visitor-analytics.io/en/blog/data-anonymization-vs-pseudonymization "Data Anonymization vs Pseudonymization")
+    * [How to Write a Privacy Policy](https://www.visitor-analytics.io/en/blog/how-to-write-a-privacy-policy "How to Write a Privacy Policy")
+    * [Website Intelligence News Roundup June 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-june-2024 "Website Intelligence News Roundup June 2024")
+    * [Safari Browser Blocks Adobe Tracking Pixels](https://www.visitor-analytics.io/en/blog/safari-browser-blocks-adobe-tracking-pixels "Safari Browser Blocks Adobe Tracking Pixels")
     * [Sleep Tight, Data Safe: Secure Data Storage Guide](https://www.visitor-analytics.io/en/blog/secure-data-storage "Sleep Tight, Data Safe: Secure Data Storage Guide")
-    * [Website Intelligence News Roundup May 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-may-2024 "Website Intelligence News Roundup May 2024")
-    * [Data Detox: Mastering the Principles of Data Minimization](https://www.visitor-analytics.io/en/blog/data-minimization "Data Detox: Mastering the Principles of Data Minimization")
-    * [What Is Eco-Friendly Sustainable Marketing? \[+Strategies & Examples\]](https://www.visitor-analytics.io/en/blog/sustainable-marketing-explained "What Is Eco-Friendly Sustainable Marketing? [+Strategies & Examples]")
-    * [Product-Led Growth and Marketing: Teach Your Platform to Do The Talking](https://www.visitor-analytics.io/en/blog/product-led-growth "Product-Led Growth and Marketing: Teach Your Platform to Do The Talking")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
@@ -87,6 +88,7 @@
         * [Hotjar](https://www.visitor-analytics.io/en/compare-with-other-tools/alternative-to-hotjar)
         * [Google Analytics](https://www.visitor-analytics.io/en/compare-with-other-tools/alternative-to-google-analytics)
     * [Book a Free Product Demo](https://www.visitor-analytics.io/en/book-a-free-demo "Book a Free Product Demo")
+    * [Events Calendar](https://www.visitor-analytics.io/en/features/upcoming-features/roadmap-1 "Events Calendar")
     
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
@@ -98,13 +100,15 @@
 
 Login as existing user](https://app.twipla.com/login?utm_campaign=visaWebsite&utm_source=headerButton&utm_term=login)
 
-[Get started free![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)](https://app.twipla.com/register/step2)
+[Get started free![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)](https://app.twipla.com/register)
 
 * [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/home.svg)](https://www.visitor-analytics.io/en/)
 * [Support](https://www.visitor-analytics.io/en/support "Support")
 * [Legal, Data Privacy & Certificates](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates "Legal, Data Privacy & Certificates")
 * [Standard Integration](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration "Standard Integration")
 * Terms of Use
+
+[](javascript:;)[](javascript:;)
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/primary_icon.svg)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/primary_icon.svg)](javascript:;)
 
@@ -244,264 +248,371 @@ Terms of Use
 * [Affiliate Program](https://www.visitor-analytics.io/en/support/affiliate-program)
 * [Contact](https://www.visitor-analytics.io/en/contact-us)
 
-Terms and Conditions - TWIPLA ("Terms of Service")
-==================================================
+Terms of use for the standard integration
+=========================================
 
-Terms & Conditions – “Service Terms”
-------------------------------------
+General Terms and Conditions - TWIPLA ("Terms of Service")
+----------------------------------------------------------
 
-1. **Contracting Parties and Structure of these Terms of Service**  
+1. **Contracting parties and structure of these Terms of Service**  
      
-    1. The business customer of the Services ("**Customer**") enters into a service agreement ("**Agreement**") with Visitor Analytics GmbH, Seestraße 76, 82235 Berg registered under commercial register number HRB 214117 Local Court Munich ("**TWIPLA**"; TWIPLA and Customer hereinafter together the "**Parties**" and each a "**Party**").  
+    1. Parties  
+          
+        The business customer ("**Customer**") concludes a service contract ("**Contract**") with Visitor Analytics GmbH, Seestraße 76, 82235 Berg registered under commercial register number HRB 214117 Amtsgericht München ("**TWIPLA**"; TWIPLA and Customer hereinafter together the "**Parties**" and each a "Party") for the use of the Platform.  
          
-    2. TWIPLA only concludes Agreements with Customers who are companies, i.e. natural or legal persons acting in connection with their business or self-employed activity.  
+    2. Customer as a company  
+          
+        TWIPLA only concludes contracts with customers who are companies, i.e. natural or legal persons acting in connection with their commercial or self-employed activity. By concluding the contract, the customer confirms that they are concluding the contract in connection with their commercial or self-employed activity.  
          
-    3. The Agreement consists of the online order form completed by Customer on the Website [https://www.twipla.com](https://www.visitor-analytics.io/en/) ("**Website**"), these Terms of Service and the Data Processing Agreement ([https://www.twipla.com/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy))("**DPA**").  
+    3. Contract components  
+          
+        The contract consists of the online order form, which is completed by the customer on the website [https://www.twipla.com/de](https://www.visitor-analytics.io/en/)("**Website**"), these Terms of Service and the Data Processing Contract (Annex 2) ([https://www.twipla.com/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy)).  
          
 2. **Definitions**  
       
-    "Agreement" as defined under Section 1 'Contracting Parties and Structure of these Terms of Service'.  
-    "Customer(s)" means TWIPLA's Customer(s) who have integrated the Services on their website.  
-    "Customer Website" means Customer's website where the Services (if ordered) are used.  
-    "Online Order Form" as defined in Section 3 'Conclusion of the Agreement' of these Terms of Service.  
-    "Personal Data" means any information relating to an identified, or identifiable, natural person.  
-    "Personal Usage Data" means Personal Data collected by the Services from Visitors, Customers, employees/authorized persons of Customers, or employees/authorized personnel of TWIPLA, upon input or automatically.  
-    "Platform" means the web-based interface with charts, graphs and maps available for most of the Services' functions.   
-    "Premium Plan" refers to the pricing plans described in Section 15 'Description of Services and fees'.  
-    "Premium Plan Switching" means a change from one Premium Plan to another, or from one payment cycle to another.  
-    "Service(s)" means the Services defined in Section 4 'Services' of these Terms of Service.   
-    "Statistical Data" means the Personal Usage Data and anonymous Website usage data collected by specific features of the Services and provided to Customer through the Platform.  
-    "Subprocessor" means any subprocessor engaged by TWIPLA or by any other subprocessor of TWIPLA.  
-    "Term" means the period of time during which Customer may use the Services.  
-    "Visitors" means those visitors who use the Customer website.   
-    "Website" refers to the TWIPLA website at [https://www.twipla.com](https://www.visitor-analytics.io/en/)  
-     
-3. **Conclusion of the Agreement**  
+    "**Contract**" has the meaning as defined in Section 1.1  of these Terms of Service.  
       
-    The content of the Website is not a binding offer. By registering online on the Website ([https://app.twipla.com/register/](https://app.twipla.com/register/step1)), Customer sends a binding offer ("**Online Order Form**") to conclude a contract with TWIPLA. After receiving Customer's registration data via the Website, TWIPLA will validate Customer's email address. If the validation is successful, TWIPLA will send Customer an email that also contains these Terms of Service. This email constitutes acceptance of Customer's offer and the conclusion of the Agreement.  
+    "**Contract term**" is the term of this contract.   
+      
+    "**Customer(s)**" means the business customer(s) of TWIPLA, as defined in Section 1.1.  
+      
+    "**Customer website**" is the customer's website on which the services (if ordered) are used.  
+      
+    "**DPA**" is the Data Processing Contract in Annex 2 to these Terms of Service and on our website [https://www.twipla.com/en/support/legal-data-privacy-  
+    certificates/standard-integration/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy).  
+      
+    "**Online Order Form**" has the meaning as defined in Section 1.3 and 3 "Conclusion of the Contract" of these Terms of Service.  
+      
+    "**Personal data**" means any information relating to an identified or identifiable natural person, as defined in the EU General Data Protection Regulation (EU) 2016/679 ("**GDPR**").  
+      
+    "**Personal Usage Data**" means Personal Data collected by the Services from visitors, customers, employees/authorized persons of customers, or  
+    employees/authorized persons of TWIPLA, at the time of entry or automatically on behalf of the customer.  
+      
+    "**Platform**" is the web-based Twipla interface with diagrams, graphics and maps that is available for most functions of the services.  
+      
+    "**Premium Edition**" refers to the price plans described in Section 7 "Fees" of these Terms of Service.  
+      
+    "**Premium Edition Change**" is the change from one Premium Edition to another, or from one payment cycle to another.  
+      
+    "**Service(s)**" refers to the TWIPLA Services described in Section 4 "Services" of these Terms of Service and ordered by the customer.  
+      
+    "**Statistical Data**" means the Personal Usage Data and anonymous website usage data collected by specific functions of the Services on behalf of the Customer and made available to the Customer via the Platform.  
+      
+    "**Subcontractor**" means any subcontractor engaged by TWIPLA or by another subcontractor of TWIPLA to assist in the provision of the Services to the Customer.  
+      
+    "**Visitors**" are the visitors who use the customer website.  
+      
+    "**Website**" refers to the TWIPLA website at [https://www.twipla.com/en](https://www.visitor-analytics.io/en/).  
+     
+3. **Conclusion of the contract**  
+      
+    Information on the website does not constitute a binding offer. By registering online on the website ([https://app.twipla.com/register](https://app.twipla.com/register)), the customer sends a binding offer ("**online order form**") to conclude a contract with TWIPLA. After successful validation of the customer's e-mail address, TWIPLA shall send the customer an e-mail with the acceptance of the contract and the underlying conditions.  
      
 4. **Services**  
      
-    1. The Services to be provided during the Term under this Agreement are listed and described at [https://www.twipla.com/en/support/legal-data-privacy-certificates/standard-integration/service-description](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/service-description). The specific Services available will depend on the subscription selected by Customer. Please note that in some cases, not all Services described and/or all features of the Services may be available from the beginning of the Initial Term. Any changes to Services made available by us during the Term are subject to Section 10 'Changes to the Services and to the Agreement'.
-    2. The Services may be integrated into the Customer Website after registration on the Website in the form of the creation of a customer account ("**Customer Account**") at [https://app.twipla.com/register/](https://app.twipla.com/register/step1) and can be used on computers, laptops and mobile devices.  
+    1. Service description  
+          
+        The services to be provided by TWIPLA during the term of this contract are listed and described under [https://www.twipla.com/en/features](https://www.visitor-analytics.io/en/features). The specific services available and their scope shall depend on the subscription selected by the customer. In some cases, not all described services and/or all functions of the services may be available from the start of the initial term. TWIPLA endeavours to continuously develop and improve the Services. This also includes updating and modifying the Services offered. Any changes to the Services provided by TWIPLA during the Term shall be subject to Section 10 "1Changes to the terms of service and the contract" of these Terms of Service.  
          
-5. **Rights of use of the Services**
-    1. Subject to the terms, conditions and limitations contained in the Agreement, TWIPLA hereby grants, on or immediately after the commencement date, a non-exclusive, limited, non-transferable and non-sublicensable right to access the Services online during the Term and to use the Services internally for the purposes of the Agreement, including without limitation to collect and store Personal Usage Data from Customer's Website using the Tracking Code and/or other technologies to measure and record, for example, Visitor's interactions (if ordered or part of the subscription). Customer shall not copy or otherwise reproduce the Services or parts thereof, except as required technically to use the Services online.  
+    2. Various editions  
+          
+        Customers can choose a free basic version ("Free Basic Version") of the Services or a paid Premium Edition of the Services. The Free Basic Version does not include all functionalities of the platform and the available functionalities are limited in terms of their scope. A detailed description of the scope of services can be found at [https://www.twipla.com/en/pricing?fp\_ref=european-alternatives](https://www.visitor-analytics.io/en/pricing).  
          
-    2. Subject to the foregoing, Customer hereby grants TWIPLA and its Subprocessors a non-exclusive, non-transferable right and license to use Customer's trademark and content during the Term of the Agreement and for a maximum of three (3) months after termination of the Agreement, for the limited purposes of fulfilling TWIPLA's obligations under this Agreement.  
+    3. Use of the services  
+          
+        The services can be integrated into the customer website and used on computers, laptops and mobile devices on the customer website after registering on the website by creating a customer account ("**customer account**") from TWIPLA at [https://app.twipla.com/register](https://app.twipla.com/register).  
+          
+        A TWIPLA contact person can be reached by e-mail at [support@twipla.io](mailto:support@twipla.io) if you have any questions.  
          
-    3. Subject to the rights granted in the Agreement, TWIPLA retains all right, title and interest in and to the Services and Customer acknowledges that it neither owns nor acquires any additional rights in and to the foregoing not expressly granted by the Agreement. Customer further acknowledges that TWIPLA retains the right to use the foregoing for any purpose in our sole discretion.  
-         
-6. **Term of the Agreement**  
+5. **Rights of use of the customer**  
      
-    1. The Initial Term of the Agreement shall start with its conclusion and lasts:  
+    1. Right to use the services  
+          
+        Subject to the terms, conditions and restrictions contained in the Contract, TWIPLA hereby grants a worldwide, non-exclusive, limited, non-transferable and non-sublicensable right to access the Services online during the term of the Contract and to use them internally for the purposes of the Contract, in particular to process Personal Usage Data from the Customer Website using the Tracking Code and/or other technologies, for example to measure and record the interactions of visitors (if ordered or part of the Subscription). The Customer may not copy or otherwise reproduce the Services or parts thereof, unless this is technically necessary for the online use of the Services.  
          
-        1. indefinitely for the Free Basic Version (as defined in Section 15.2 below),
-        2. until the expiry of the subscription after conclusion of the Agreement ("**Initial Term**"),
-        3. until the integration of the Services is removed from the Customer Website,
-        4. until one Party gives notice to the other, or
-        5. until Customer's Account with TWIPLA is deleted by Customer, which equals termination;  
-            (in each case: "**Term**").  
+    2. Right to use customer content  
+          
+        The Customer hereby grants TWIPLA and its subcontractors a worldwide, non-exclusive, non-transferable right, during the term of the Contract and for a maximum of three (3) months after termination of the Contract, to use the Customer's content and data processed in connection with the Services for the purposes of performing this Contract, including to convert them into a different format and type of use specifically for mobile devices.  
+         
+    3. Reservation of rights  
+          
+        Subject to the rights granted in the Contract, TWIPLA reserves all right, title and interest in and to the Services, and Customer acknowledges that it does not own or acquire any additional rights in the Services not expressly granted in the Contract. Customer further acknowledges that TWIPLA reserves the right to use the foregoing for any purpose at TWIPLA's sole discretion.  
+         
+6. **Contract term**  
+     
+    1. Contract term  
+          
+        The contract term begins with the conclusion of the contract or an agreed later start and runs:  
+         
+        1. indefinitely for the free basic version,
+        2. until expiry of the subscription after conclusion of the contract,
+        3. until the integration of the services is removed from the customer website,
+        4. until one party terminates, or
+        5. until the customer account with TWIPLA is deleted by the customer, which is equivalent to termination;  
+              
+            (in each case: "**initial term**").  
              
-    2. After the Initial Term, the Agreement will automatically renew for one (1) additional month in the case of a subscription to a monthly Premium Plan and for an additional twelve (12) months in the case of a subscription to a yearly Premium Plan, unless the Agreement is terminated by either TWIPLA or Customer beforehand. Termination by Customer is possible at any time with one (1) month's notice to the end of the respective Term  
+    2. Extension period  
+          
+        After the initial term, the contract term is automatically extended by a further one (1) month in the case of a subscription to a monthly Premium Edition and by a further twelve (12) months in the case of a subscription to an annual Premium Edition, unless the Contract is terminated by either party with one (1) month's notice to the end of the respective contract term.  
          
-    3. The right of the Parties to terminate the Agreement for cause remains unaffected. Cause is given, for example, if a Party materially violates its obligations under the Agreement despite a notice by the other Party to cease the violation within a reasonable period of time, or in case insolvency proceedings are initiated with respect to the other Party’s assets.  
+    3. Right to terminate for good cause  
+          
+        The right of the parties to terminate the contract for good cause remains unaffected. Good cause exists, for example, if one party is in material breach of its obligations under the contract despite a request by the other party to end the breach within a reasonable period of time, or if insolvency proceedings are opened against the assets of the other party.  
          
-    4. If Customer is in default of payment of the subscription fees for the selected Premium Plan for more than five (5) calendar days, TWIPLA retains the right to suspend the provision of the Services without further notice until all outstanding amounts are paid. In such event, the Agreement shall remain in effect and shall not be terminated. Customer's payment obligations shall remain unaffected during the period in which the Services are suspended for Customer.  
+    4. Suspension of services in the event of late payment  
+          
+        If the customer is in arrears with the payment of the subscription fees for the selected Premium Edition for more than five (5) calendar days; TWIPLA reserves the right to suspend the provision of the Services without further notice until all outstanding amounts have been paid. In this case, the contract shall remain effective and shall not be terminated. The customer's payment obligations shall remain unaffected during the period in which the services are blocked for the customer.  
          
-    5. At the end of the Term, TWIPLA will either delete all data and information (including any application and/or Personal Usage Data) stored by Customer on TWIPLA's server system, if any, or upon written notice from Customer prior to termination of the Agreement return such data and information to Customer. Customer may export all information and data received from TWIPLA under the Agreement from the Services prior to the expiration of the Term.  
+    5. Export of data at the end of the contract term  
+          
+        At the end of the contract term, TWIPLA shall either delete all data and information (including all applications and/or personal usage data) stored by the customer on TWIPLA's server system, unless TWIPLA is subject to longer statutory retention obligations. The customer may independently export all information and data that it has received from TWIPLA within the scope of the contract from the services before the end of the contract term and upon termination of the contract.  
          
-    6. Any termination of the Agreement must be made either by email by TWIPLA to Customer or by Customer using the cancellation button in the subscription area of the Customer Website (or, if applicable, in the Customer Account).  
+    6. Form of termination  
+          
+        Any termination of the contract must be made either by TWIPLA to the customer by e-mail or by the customer via the termination button in the subscription area of the customer website (or - if applicable - in the customer account).  
          
-    7. Customers may be refunded upon termination of the Agreement under the following conditions, while the payment fees charged by the (third party) payment provider cannot be refunded:  
+    7. Possible refund after termination  
+          
+        Customers can only receive a refund upon termination of the contract under the following conditions, while the fees charged by the (third-party) payment provider cannot be refunded:  
          
-        1. monthly payment plan: until the 3rd day of the first payment cycle, so only in the first 3 days of being a paying Customer.
-        2. yearly payment plan: until the 10th day of the first payment, so only in the first 10 days of being a paying user.
-        3. Except as per the above, refunds are not granted under any condition  
+        1. Monthly payment plan: until the 3rd day of the first payment cycle, i.e. only in the first 3 days in which the customer is liable to pay.
+        2. Annual payment plan: until the 10th day of the first payment, i.e. only in the first 10 days in which the customer is liable to pay.
+        3. With the exception of the cases mentioned above, refunds will not be granted under any conditions.  
              
-    8. Customers that installed the Services from the Wix App Market on a Wix website and use the “Activate direct access” procedure to check the stats for their Wix website on [https://app.twipla.com/login](https://app.twipla.com/login) are governed by the terms and conditions applicable for the Wix Integration [https://www.twipla.com/en/support/legal-data-privacy-certificates/wix-integration/terms-of-use](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/terms-of-use) and [https://www.twipla.com/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy).
+    8. Special features when downloading via Wix App Market  
+          
+        Customers who have installed the services from the Wix app market on a Wix website and use the "Enable direct access" procedure to check the statistics for their Wix website at [https://app.twipla.com/login](https://app.twipla.com/login) are subject to the terms and conditions applicable to the Wix integration at [https://www.twipla.com/en/support/legal-data-privacy-certificates/wix-integration/terms-of-use](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/wix-integration/terms-of-use) and [https://www.twipla.com/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy).  
+         
 7. **Fees**  
      
-    1. Customer shall pay the Premium Plan Fees defined in Section 15 'Description of Services and fees' for use of the Services.  
+    1. Fees  
+          
+        The customer shall pay the Premium Edition fees for the use of the services, which are explained at [https://www.twipla.com/en/pricing?fp\_ref=european-alternatives](https://www.visitor-analytics.io/en/pricing) at the time the contract is concluded.  TWIPLA shall offer at least one of the following two payment methods: Monthly or annual payment for booked Services or fees for Credits, which are used to pay for booked Services based on consumption. Use of the free basic version is free of charge.  
          
-    2. The corresponding subscription fee is due for the first time at the time the Agreement is concluded. The monthly subscription fees shall thereafter be payable on the same day of each of the following months. If the Agreement was concluded on the last day of a month, payment is due on the respective last day of the following month, regardless of the number of days in each month. The subscription fee for yearly subscriptions is payable on the same day each year.  
+    2. Maturity  
+          
+        The corresponding subscription fee is due for the first time at the time the contract is concluded. The monthly subscription fees are then due on the same day of the following months. If the contract was concluded on the last day of a month, payment is due on the last day of the following month, regardless of the number of days in each month. The subscription fee for annual subscriptions is payable on the same day each year.  
          
-    3. Payments are processed by payment service providers for which Customer must submit the required information to TWIPLA during the registration or Premium Plans Switching process.  
+    3. Change of editions  
+        Customers can choose between different Premium Editions with different fees depending on the edition, based on the traffic quota and additional functions. Customers can change their subscription to another edition at any time as required. The available Premium Editions can be found at: [https://www.twipla.com/en/pricing?fp\_ref=european-alternatives](https://www.visitor-analytics.io/en/pricing).  
+          
+        The customer's subscription is automatically renewed on the last day of the following month/year. The fees are invoiced each month/year on the calendar day corresponding to the day on which the contract commenced (see also section 6.2).  
          
-    4. Customer's invoices will be automatically made available in Customer's Account prior to the subscription fee due date and may be downloaded at any time for a period of one (1) year. If Customer fails to make payment within five (5) calendar days after the payment due date, Customer will be in default of payment and the consequences described in Section 15 'Description of Services and fees' of these Terms of Service will apply. Statutory interest rates apply.  
+    4. **Changing the Premium Edition**
+        
+        |     |     |
+        | --- | --- |
+        | **Premium Edition Interchangeable type** | **Description** |
+        | Conversion of the same Premium Edition from the annual billing cycle to the monthly billing cycle | The change will take effect immediately. Your new Premium Edition will be automatically renewed unless you cancel it. If you do nothing, your credit/debit card or payment account will be charged. |
+        | Conversion of the same Premium Edition from the monthly billing cycle to the annual billing cycle | The change will take effect immediately. Your new Premium Edition will be automatically renewed unless you cancel. If you do nothing, your credit/debit card or payment account will be charged |
+        | Switch to an edition with higher fees: Monthly to monthly or annual to annual billing cycle | The new Premium Edition will start immediately and the corresponding billing amount will apply to the payment of the new Premium Edition, if applicable. Your new Premium Edition will automatically renew upon expiration unless you cancel. If you do nothing, your credit/debit card or payment account will be charged. |
+        | Switch to an edition with higher fees: Monthly to annual billing cycle | The new Premium Edition will start immediately and the corresponding billing amount will apply to the payment of the new Premium Edition, if applicable. Your new Premium Edition will automatically renew upon expiration unless you cancel. If you do nothing, your credit/debit card or payment account will be charged. |
+        | Switch to an edition with higher fees: Annual to monthly billing cycle | The new Premium Edition will start immediately and the corresponding billing amount will apply to the payment of the new Premium Edition, if applicable. Your new Premium Edition will automatically renew upon expiration unless you cancel. If you do nothing, your credit/debit card or payment account will be charged. |
+        | Switch to a cheaper Premium Edition | The new Premium Edition with a lower price starts after the billing cycle of the higher-priced Premium Edition that has already started has expired and the corresponding service quota has been used up. Your new edition will be automatically renewed after expiry unless you cancel. If you do nothing, your credit/debit card or payment account will be charged. |
+        
+          
          
-    5. Customer may not set off any amounts owed to TWIPLA under this Agreement against any other liabilities of TWIPLA unless the amount is undisputed by TWIPLA or has been finally and non-appealable established by a court.  
+    5. Use of payment service providers  
+          
+        Payments are processed by payment service providers, for which the customer must provide TWIPLA with the necessary information when registering or changing to the Premium Edition.  
          
-    6. All fees payable under the Agreement are exclusive of all applicable taxes, which shall be borne by Customer.  
+    6. Invoices  
+          
+        A customer's invoices are automatically made available in the customer's account prior to the subscription fee due date and can be downloaded at any time for a period of one (1) year. If the Customer fails to make payment within five (5) calendar days of the payment due date, the Customer shall be in default of payment and the statutory interest rates set out in Section 6.4 shall apply.  
          
-8. **Obligations of Customer**  
+    7. Offsetting against other receivables  
+          
+        The customer may not set off amounts owed to TWIPLA under this Contract against other liabilities of TWIPLA unless the amount is undisputed by TWIPLA or has been finally and conclusively determined by a court of law.  
+         
+    8. Taxes  
+          
+        All fees payable under the contract are exclusive of all applicable taxes, which shall be borne by the customer.  
+         
+8. **Obligations of the customer**  
      
-    1. Customer is solely responsible for ensuring that Customer's use of the Services through Customer's Website or Customer's employees/authorized persons does not violate any applicable laws or the rights of third parties, including but not limited to intellectual property or proprietary rights of third parties worldwide. Customer shall not interfere with or disrupt TWIPLA's Services or server system. This includes, but is not limited to, Customer's Website and Personal Usage Data:  
+    1. Use of the Services in accordance with applicable law  
+          
+        Depending on the setting of the Services, they may assist the Customer in complying with applicable law (e.g. data protection law). The customer is solely responsible for ensuring that the customer's use of the Services and/or the termination of the Services complies with or does not violate applicable laws or the rights of third parties, including but not limited to intellectual property or proprietary rights of third parties worldwide. The customer shall not interfere with or disrupt the Services or TWIPLA's server system. This includes, but is not limited to, the Customer Website and Personal Usage Data:  
          
         * do not violate any laws relating to data protection and data security;
         * are in no way connected with theft, fraud, drug trafficking, money laundering and/or terrorism;
-        * are not known, intended or suspected to be infected with viruses; or
-        * not be used to send unsolicited emails or other messages.  
+        * are not known, intended or suspected to be infected with viruses; and
+        * cannot be used to send unsolicited e-mails or other messages.  
              
-    2. Notwithstanding the foregoing, TWIPLA may suspend the Services, with or without prior notice to Customer, if TWIPLA has reasonable grounds to believe that Customer's Website and Customer's Personal Usage Data do not comply with the requirements of Section 8.1 above.  
+    2. Suspension of services in the event of non-compliance  
+          
+        Notwithstanding the foregoing, TWIPLA may suspend the Services with or without prior notice to the Customer if TWIPLA has reasonable grounds to believe that the Customer Website and/or the Customer's Personal Usage Data does not comply with the requirements of Section 8.1 of these Terms of Service.  
          
-    3. Customer shall maintain confidentiality of all access data and passwords to its personal Customer Account and shall not disclose the same to any third parties. Customer shall promptly give notice to TWIPLA and change all passwords if Customer reasonably suspects that any unauthorized third party has obtained information about Customer’s access data or passwords.  
+    3. Confidentiality of access data  
+          
+        The customer must treat all access data and passwords to their personal customer account confidentially and may not disclose them to third parties. The customer shall be obliged to notify TWIPLA immediately and change all passwords if the customer has reasonable grounds to suspect that an unauthorized third party has obtained information about the customer's access data or passwords.  
          
-    4. Customer shall update accordingly in the Customer Account, under the website subscription settings, any change of its name or company name, its residence or business address, its billing address, legal form or, if applicable, banking particulars. Customer will only be allowed to employ administrative users who have been assigned an internal unique user identification by Customer themselves to access the Services.  
+    4. Updating customer data  
+          
+        The customer must enter any changes to his name or company name, his residential or business address, his billing address, his legal form or, if applicable, his bank details accordingly in the customer account under the settings for the website subscription.  
          
-    5. Customer shall grant us all use and exploitation rights in any content, application or other material of Customer necessary for us to provide the Services under the Agreement during the Term, including arranging the application and/or content, to convert them into a different format and use type specifically for mobile devices.  
-         
-    6. In order to use and access the Website, Customer must have internet access as well as a common state of the art internet browser as well as any additional technical prerequisites set out on the Website. Customer is solely responsible for bearing the costs and for ensuring the functioning of its internet access as well as of the computer and the software used to access the Services.  
+    5. Conditions of use  
+          
+        In order to use and access the Services, the Customer must have Internet access and a current state-of-the-art Internet browser and fulfill the additional technical requirements specified on the Website. The Customer is solely responsible for bearing the costs and ensuring the functioning of its Internet access and the computer and software used to access the Services.  
          
 9. **Confidentiality**  
      
-    1. During the Term of the Agreement and for a period of two (2) years thereafter, the Parties undertake to maintain confidentiality of all documents, information and data, which became available to the Parties due to and in the course of their cooperation (“**Confidential Information**”).  
+    1. Confidential information  
+          
+        The parties are aware that they have access to certain confidential information of the other party or confidential information of third parties, which the disclosing party is obliged to keep confidential, during the term of the contract. "Confidential Information" means any written, electronic or oral information that (i) has been disclosed by one party to the other, (ii) is not generally known or publicly available, either in its entirety or in the precise arrangement and composition of its components, (iii) relates to the activities of a party or a third party, (iv) is subject to the disclosing party's reasonable technical and organizational safeguards, and (v) has either been designated as confidential or should reasonably be treated as confidential because of the nature of the circumstances under which the disclosure is made.  
+          
+        Each party undertakes (i) to use the Confidential Information disclosed by the other party only to the extent permitted by this Contract, (ii) to treat the Confidential Information obtained from the other party in strict confidence and to protect it from disclosure to and use by third parties by implementing appropriate technical and organizational measures, and (iii) to restrict access to the Confidential Information disclosed by the other party to those of its employees, agents, subcontractors and/or any consultants who need to know such information. The contractual confidentiality obligations shall continue to apply for two (2) years after termination of the contract.  
          
-    2. Disclosure of Confidential Information of the disclosing Party by the receiving Party to third parties requires a prior written or email consent of the disclosing Party. No consent is required for the disclosure of Confidential Information by us to their subcontractors and contractors if and to the extent required to assist us in performing the Contract. The receiving Party shall also commit to the agreed obligations to maintain confidentiality to all persons and companies that receive Confidential Information of the disclosing Party.  
+    2. Confidentiality obligations  
+          
+        Each party undertakes (i) to use the Confidential Information disclosed by the other party only to the extent permitted by this Contract, (ii) to treat the Confidential Information obtained from the other party in strict confidence and to protect it from disclosure to and use by third parties by implementing appropriate technical and organizational measures, (iii) to limit access to the Confidential Information disclosed by the other party to those of its employees, agents, subcontractors and/or consultants, if any, who need to know such information and who have been bound in writing to keep such information confidential in accordance with this Contract, and (iv) to keep all Confidential Information disclosed by the other party strictly confidential, (iii) to restrict access to Confidential Information disclosed by the other party to those of its employees, agents, subcontractors and/or any consultants who need to know such information and who have been obligated in writing to keep such information confidential in accordance with this Contract; and (iv) to return or destroy any Confidential Information disclosed by the other party that is in its possession upon termination or expiration of this Contract. The contractual confidentiality obligations shall survive for two (2) years after termination of this Contract.  
          
-    3. The confidentiality obligation of the receiving Party does not cover Confidential Information (i) which became known to a Party publicly without a breach of confidentiality, (ii) which was developed independently by the receiving Party without reliance in any way on Confidential Information disclosed by the disclosing Party or (iii) which must be made available to third parties pursuant to legal, judicial or public orders or mandatory law.  
+    3. Exceptions  
+          
+        Notwithstanding the foregoing, the provisions of Sections 9.1 and 9.2 of the General Terms and Conditions shall not apply to Confidential Information which (i) is freely accessible or generally known at the time of its disclosure, (ii) becomes freely accessible or generally known through no fault of the recipient, (iii) was lawfully communicated to the recipient by persons who were not bound by confidentiality obligations in this respect, (iv) is already in the possession of the recipient at the time of disclosure without any obligation to maintain confidentiality. (iii) was lawfully communicated to the recipient by persons who were not bound by confidentiality obligations in this respect, (iv) is already in the possession of the recipient at the time of disclosure without any confidentiality obligations attached thereto, (v) was independently developed by the recipient, or (vi) is authorized for release or disclosure by the disclosing party without restriction.  
+          
+        Notwithstanding the foregoing, either party may disclose Confidential Information to the extent necessary (i) to comply with a court or governmental order or otherwise to comply with the requirements of mandatory law, provided that the party disclosing the Confidential Information pursuant to the order shall give prior written notice to the other party and use reasonable efforts to obtain a protective order, or (ii) to have a court determine a party's rights under this Contract, including any motions necessary to do so.  
          
-10. **Changes to the Services and the Agreement**  
+10. **Changes to the terms of service and the contract**  
      
-    1. TWIPLA may change the terms of the Agreement at any time in order to take account of changes to user preferences, the internet economy, applicable laws and industry practices, or similar reasons, with no modification having an adverse effect for Customer (“**Changes**”). Customer will be informed about Changes by email. Unless Customer objects to such Change within two (2) weeks after receipt of information of such Change, the changed terms apply after lapse of this two-week period. In case Customer objects to the Change within the two-week period in written form, the Agreement can be terminated and Customer must cancel the active Premium Plans and stop using the Services.  
-         
-    2. With respect to any modifications to the terms of the Agreement other than a Change, above all modifications that are adverse or disadvantageous to Customer, like higher fees, such modifications will not apply to Customer unless Customer actively consented to such modification. Until Customer consents, the then agreed terms of the Agreement will continue to apply and TWIPLA may allow Customer to terminate the Agreement early subject to a pro-rated refund of prepaid fees at Customer’s choice.  
-         
-    3. Customer has the right to perform Premium Plan Switching at any time by using the Change Subscription button provided within the subscription section of Customer Website’s settings in the Services (or – if applicable – in the Customer Account) and by declaring acceptance of the then current terms of the Agreement for Premium Plan Switching.  
+    1. Changes and possibility of objection  
+          
+        TWIPLA may change the Terms of Service at any time to reflect changes in user preferences, Internet economics, applicable laws and industry practices, or similar reasons, without the change having a material adverse effect on the customer ("**Changes**"). The Customer will be informed of any Changes by e-mail. If the customer does not object to such a change within two (2) weeks of receipt of the information about the change, the amended terms and conditions shall be deemed accepted after the expiry of this two-week period. If the customer rejects the change in writing within the two-week period, the contract may be terminated and the customer should cancel the active Premium Editions and cease using the Services.  
          
 11. **Data protection and privacy**  
      
-    1. The Privacy Policy at [https://www.twipla.com/en/support/legal-data-privacy-certificates/homepage/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy) applies.
-    2. With respect to the protection of Personal Data, the Parties agree to comply with applicable local data protection laws, including those that impose the corresponding obligations on their service providers, employees and business partners.  
+    1. Data processing  
+          
+        The TWIPLA privacy policy at [https://www.twipla.com/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy)applies.  
          
-    3. TWIPLA will only process Personal Data on behalf of Customer in accordance with written instructions provided by Customer. Customer shall remain the controller in respect of all personal data processed by TWIPLA in connection with the provision of the Services described herein and TWIPLA shall act solely as a processor. Details may be found in the DPA entered into between the Parties ([https://www.twipla.com/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy)). After installing the Services and/or inserting the TWIPLA tracking code snippet into the source code of the Customer's Website, Customer is obliged to conclude the DPA with TWIPLA by electronically signing the DPA in the Customer's Account in the settings section.  
+    2. Compliance with data protection laws  
+          
+        With regard to the protection of personal data, the parties undertake to comply with the data protection laws applicable to them in the performance of the contract. TWIPLA shall only process personal data on behalf of the customer in accordance with the written instructions issued by the customer. TWIPLA is a processor. The customer shall remain the controller in respect of all Personal Data processed by TWIPLA in connection with the provision of the services described herein. Details are contained in the data processing Contract concluded between the parties ([https://www.twipla.com/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/twipla-website/privacy-policy); "**DPA**").  
          
 12. **Defects**  
       
-    If and to the extent that the Agreement qualifies as a contract for work and services or a rental contract, Customer shall have the statutory rights in the event of a defect. The following applies to Premium Plans: The right to a reduction of the subscription fee is excluded, with the exception of reductions in the form of Credits in accordance with Appendix 1, Clause 2 'Rights in the event of non-compliance with the Service Levels'.  
+    If and insofar as the contract is to be qualified as a contract for work and services or a rental contract, the customer has the statutory rights in the event of a defect. The following applies to Premium Editions: The right to a reduction in the subscription fee is excluded, with the exception of reductions in the form of credit notes in accordance with Annex 1, Section 2 "Rights in the event of non-compliance with the service levels".  
+    The free basic version is provided "as is" with certain downtimes. TWIPLA does not promise any specific service levels as part of the Free Basic Version. TWIPLA shall use its best efforts to minimize downtime when using the Free Basic Version. TWIPLA excludes any warranty for the Free Basic Version and shall only be liable for fraudulently concealed defects. The service levels listed below in Annex 1 Service Levels shall not apply.  
      
 13. **Limitation of liability**  
      
-    1. TWIPLA's liability for damages caused by slight negligence shall, irrespective of its legal ground, be limited as follows:  
+    1. Limitation of liability  
+          
+        TWIPLA's liability for damages caused by slight negligence, regardless of the legal grounds, shall be limited as follows:  
          
-        1. For each claim, TWIPLA shall be liable up to the amount of the yearly fee for yearly subscriptions and up to the amount of the monthly fee for monthly subscriptions.
-        2. TWIPLA shall not be liable for any slightly negligent breach of any other applicable duty of care.  
+        1. For each case of damage, TWIPLA shall be liable for annual subscriptions up to the amount of the typically foreseeable damage, which the parties shall set at a maximum of the amount of the annual fee volume, and for monthly subscriptions up to the amount of the monthly fee.
+        2. TWIPLA shall not be liable for slightly negligent breach of any other applicable duty of care.  
              
-    2. The aforesaid limitations of liability shall not apply to any mandatory statutory liability and liability for culpably caused personal injuries. In addition, such limitations of liability shall not apply if and to the extent TWIPLA has assumed a specific guarantee.  
-         
-    3. Customer shall be obligated to take appropriate measures to avert and mitigate damages.  
-         
-14. **Force Majeure**  
-     
-    1. Neither Party shall be liable to the other for non-performance (either wholly or in part), nor for any delay or failure in performance, to the extent that such delay or failure is caused by a force majeure event whereat force majeure is any external, unpredictable, absolutely invincible and inevitable event such as an earthquake, a volcano eruption, a storm, a tsunami, a flood, a fire, a typhoon, a pandemic, a war, a terrorist attack or a state crisis unless these calamities are a common phenomenon in the area where the Party is located.  
-         
-    2. While a force majeure event subsists, the Party so affected shall be relieved of liability to the other for failure to perform its obligations under the Agreement and such obligations shall be suspended until such time as performance can be resumed (provided that the relevant affected Party could not have prevented the failure or delay by taking reasonable precautions or measures). The affected Party shall immediately notify the other Party as soon as it becomes aware that it is unable to perform any Service to be rendered hereunder as a consequence of any force majeure event.  
-         
-    3. If a force majeure event lasts for more than one (1) subsequent month, either Party may withdraw from the Agreement.  
-         
-15. **Description of Services and fees**  
-     
-    1. **Services**  
+    2. Unlimited liability  
           
-        Detailed descriptions of our Services can be found here: [https://www.twipla.com/en/features](https://www.visitor-analytics.io/en/features).  
+        The above limitations of liability shall not apply to mandatory statutory liability and liability for culpably caused personal injury. Furthermore, these limitations of liability shall not apply if and insofar as TWIPLA has assumed a special guarantee.  
          
-    2. **Free Basic Version**  
+    3. Damage minimization  
           
-        Customers can use a free basic version ("**Free Basic Version**") of the Services. This does not include all the functionalities of TWIPLA and is limited to the analysis of 400 server touch points on the Customer's Website ("**STPs**") per month. Once the 400 STPs are reached in a month, further visits to the Customer Website will not be analysed and the representations on the Platform Dashboard may be incomplete for that month. In the following month, Customer can then use the Services again to the extent of the Free Basic Version until the 400 STPs are reached. Customer has the option to switch to a Premium Plan for a fee at any time, and thus continue to use the Services even after reaching the 400 STPs.  
+        The customer is obliged to take appropriate measures to avert and minimize damage.  
+         
+14. **Force majeure**  
+     
+    1. Cases of force majeure  
           
-        The Free Basic Version is provided "as is" with certain downtime. TWIPLA does not promise any specific Service Levels as part of the Basic Free Version. TWIPLA will use its best efforts to minimize downtime when using the Free Basic Version. TWIPLA disclaims all warranties with respect to the Free Basic Version and shall only be liable for fraudulently concealed defects. The Service Levels listed below in Appendix 1 'Service Levels' do not apply.  
+        Neither party shall be liable to the other party for any failure to perform (in whole or in part) or for any delay or failure in performance to the extent that such delay or failure is caused by a force majeure event, such force majeure being external, unforeseeable events, an absolutely insurmountable and unavoidable event such as an earthquake, volcanic eruption, storm, tsunami, flood, fire, typhoon, pandemic, war, terrorist attack or national crisis, unless these disasters are a common phenomenon in the territory in which the contracting party is located.  
          
-    3. **Fees**  
+    2. Consequences  
           
-        Customers may choose between different Premium Plans with different fees based on the package, traffic quota and additional features. Customer can change their subscription to a different package at any time depending on their needs.  
+        For so long as a Force Majeure Event continues, the affected party shall be relieved from liability to the other party for failure to perform its obligations under the Contract and the contractual obligations of both parties shall be suspended until performance can be resumed (provided that the affected party could not have prevented the failure or delay by reasonable precautions or measures). The affected party shall immediately notify the other party as soon as it becomes aware that it is unable to perform under this Contract as a result of a Force Majeure Event.  
+         
+    3. Right of termination  
           
-        Available Premium Plans can be found at: [https://www.twipla.com/en/pricing](https://www.visitor-analytics.io/en/pricing)  
+        If a force majeure event lasts longer than one (1) consecutive month, either party may terminate the contract with four (4) weeks' notice.  
+         
+15. **Choice of law and place of jurisdiction**  
+     
+    1. Choice of law  
           
-        Customer’s subscription will automatically renew at the day of the new calendar month/calendar year equivalent to the day on which the Agreement was concluded. The fees will be charged each month/each year on the calendar day corresponding to the commencement of the Agreement. (See Section 6.b)  
+        The contract shall be governed exclusively by the law of the country in which TWIPLA has its registered office, excluding conflict of laws principles and the United Nations Convention on Contracts for the International Sale of Goods.  
+         
+    2. Place of jurisdiction  
+        The exclusive place of jurisdiction for all disputes arising from this contract shall be the competent court at TWIPLA's registered office.  
+         
+16. **Other provisions**  
+     
+    1. Invalid regulations  
           
-        If a payment is not successfully settled, due to expiration, insufficient funds, or otherwise, and Customer does not change Customer’s payment method or cancel Customer’s account, TWIPLA may suspend Customer’s access to the Service until TWIPLA has obtained a valid payment method. When Customer updates Customer’s payment method, Customer authorizes us to continue charging the updated payment method, and Customer remains responsible for any uncollected amounts. Section 6.d of these Terms of Service shall remain unaffected.  
+        Should any provision of this contract be or become invalid in whole or in part, this shall not affect the validity of the remaining provisions.  
          
-16. **Premium Plan Switching**  
-     
-    
-    |     |     |
-    | --- | --- |
-    | **Premium plan switch type** | **Description** |
-    | Switching the same Premium Plan from the yearly billing cycle to the monthly billing cycle | The change will take effect immediately. Customer new Premium Plan will automatically renew unless Customer cancels it. If Customer does nothing, Customer’s credit/debit card or payment account will be charged. |
-    | Switching the same Premium Plan from monthly billing cycle to yearly billing cycle | The change will take effect immediately. Customer new Premium Plan will automatically renew unless Customer cancels it. If Customer does nothing, Customer’s credit/debit card or payment account will be charged. |
-    | Switching to a plan with higher fees: monthly to monthly or yearly to yearly billing cycle | The new Premium Plan will begin immediately and the applicable billing amount will apply toward payment of the new Premium Plan, if applicable. Customer’s new Premium Plan will automatically renew when it expires unless Customer cancels. If Customer does nothing, Customer’s credit/debit card or payment account will be charged. |
-    | Switching to a plan with higher fees: monthly to yearly billing cycle | The new Premium Plan will begin immediately and the applicable billing amount will apply toward payment of the new Premium Plan, if applicable. Customer’s new Premium Plan will automatically renew when it expires unless Customer cancels. If Customer does nothing, Customer’s credit/debit card or payment account will be charged. |
-    | Switching to a plan with higher fees: yearly to monthly billing cycle | The new Premium Plan will begin immediately and the applicable billing amount will apply toward payment of the new Premium Plan, if applicable. Customer’s new Premium Plan will automatically renew when it expires unless Customer cancels. If Customer does nothing, Customer’s credit/debit card or payment account will be charged. |
-    | Switching to a lower priced Premium Plan | The new Premium Plan will begin immediately and the applicable billing amount will apply toward payment of the new Premium Plan, if applicable. Customer’s new Premium Plan will automatically renew when it expires unless Customer cancel. If Customer does nothing, Customer’s credit/debit card or payment account will be charged. |
-    
-      
-     
-17. **Other provisions**  
-     
-    1. The Agreement shall be governed exclusively by the laws of Romania, excluding its conflict of laws principles and the United Nations Convention on Contracts for the International Sale of Goods.  
+    2. General terms and conditions of the customer  
+          
+        General terms and conditions provided by the customer as part of an order, invoice or purchase order shall not apply and are hereby rejected by TWIPLA.  
          
-    2. The exclusive place of jurisdiction for all disputes arising from this Agreement is the competent court in Cluj-Napoca, Romania.  
+    3. Use of subcontractors  
+          
+        TWIPLA may commission subcontractors to provide the contractually agreed services. In this case, TWIPLA shall be responsible for ensuring the proper performance of these subcontractors in accordance with the Terms of Service. Provisions in the DPA shall remain unaffected by this.  
          
-    3. Should any provision of this Agreement be or become invalid in whole or in part, this shall not affect the validity of the remaining provisions.  
+    4. Compliance with laws  
+          
+        Each party agrees to comply with all applicable laws, rules and regulations in the performance of its obligations under the Contract.  
          
-    4. Any general terms and conditions provided by Customer as part of an order, invoice or purchase order shall not apply and are hereby rejected by TWIPLA.  
+    5. Complete Contract  
+          
+        Except as stated in this section or as expressly agreed in writing between the Customer and TWIPLA, the Contract constitutes all terms and conditions agreed between the Customer and TWIPLA and supersedes all prior Contracts, whether written or oral, relating to the subject matter of these Terms.  
          
-    5. TWIPLA may engage Subprocessors to provide the contracted Services. In this case, TWIPLA is responsible for ensuring the proper performance of these Subprocessors in accordance with the Terms of Service. Provisions in the DPA remain unaffected.  
+    6. Possible additional Contract  
+          
+        The customer shall note that certain aspects of the use of the TWIPLA Services and their Visitor Recordings function (if ordered) may be governed by additional Contracts. This may be the case, for example, in the case of access to the TWIPLA Service via a gift voucher or by using it together with other services. If an offer for such use is made to the customer, a corresponding additional Contract shall be presented to the customer and the customer may have the opportunity to agree to additional terms and conditions. Some of these additional terms are listed on TWIPLA's website. To the extent that there is an irreconcilable conflict between additional terms and these Terms of Service, the additional terms shall prevail.  
          
-    6. Each Party agrees to comply with all applicable laws, rules and regulations in the performance of its obligations under the Agreement.  
-         
-18. **Entire Agreement**  
-     
-    1. Except as set forth in this section or to the extent expressly agreed to in writing between Customer and TWIPLA, the Agreement constitutes all of the terms and conditions agreed to between Customer and TWIPLA and supersedes all prior agreements with respect to the subject matter of these Terms of Service, whether written or oral.  
-         
-    2. Customer shall note, however, that certain aspects of the use of the TWIPLA Services and its Visitor Recordings feature (if ordered) may be governed by additional agreements. This may include, for example, access to the TWIPLA Service through a gift voucher or use in conjunction with other services. If Customer is offered such use, Customer will be presented with a respective supplemental agreement, and Customer may have the opportunity to agree to additional terms. Some of these additional terms are set forth on the TWIPLA Website. To the extent there is an irreconcilable conflict between additional terms and these Terms of Service, the additional terms will prevail.  
-         
-19. **TWIPLA Data Protection Officer**  
-      
-    Name, first name: Veit, Alexander  
-    Email: [dpo@twipla.com](mailto:dpo@twipla.com)  
-     
-20. **Contact TWIPLA**  
-      
-    Email: [support@twipla.com](mailto:support@twipla.com)  
-     
 
-**Appendix 1**
+**Annex 1 to the TWIPLA Service Contract - Service Levels**
 
-1. **Service Levels**  
+1. Service level description  
      
-    1. The Service Levels for the Platform and other available features of the Services are defined as follows:  
-          
-        System availability of the Platform per month \[average availability\].
+    1. The service levels of the platform and other available functions are defined as follows:  
+         
         
         |     |     |
         | --- | --- |
+        | System availability of the platform per month \[average availability\] |     |
         | Service level | 99.75% availability |
-        | Calculation | The availability is calculated as follows:<br><br>"Availability" means the ability of Customer to access the features of the   <br>Platform as agreed in the Agreement.  <br>  <br>"Scheduled Downtime" means the total time (in minutes) in a calendar year  <br>that the Platform is unavailable due to Scheduled System Maintenance or  <br>other Scheduled Downtime. TWIPLA will use reasonable efforts to  <br>ensure that Scheduled System Maintenance occurs between 1:00 a.m. and  <br>5:00 a.m. CEST and that reasonable notice of such System Maintenance  <br>is given.  <br>  <br>"System Availability" relative to availability in a calendar year is the ratio  <br>expressed as a percentage when Customer subtracts the unscheduled  <br>downtime in that calendar year from the annual total time in that year and  <br>then divides that difference by the annual total time in that year (see formula  <br>above).  <br>  <br>"Total Annual Time" includes all minutes in the applicable calendar year during  <br>the term of the Agreement.  <br>  <br>"Unscheduled Downtime" means the total time (in minutes) of unavailability  <br>in a calendar year, excluding Planned Downtime and excluding Downtime that  <br>occurs due to circumstances beyond TWIPLA's control. Such circumstances  <br>include, without limitation,  <br>(i) Customer's breach of the terms of this Agreement,  <br>(ii) Customer's failure to comply with the terms of this SLA,  <br>(iii) incompatibility of Customer's hardware or software with the agreed requirements  <br>relating to use of the Services, including the requirements set forth in the Access Protocols,  <br>(iv) poor or inadequate performance of the Systems or Customer,  <br>(v) Customer's use of the Services significantly in excess of the agreed volume, or  <br>(vi) Force Majeure (as defined in the Agreement). |
-        | Measuring point | TWIPLA Service - Delivery point for the Platform and/or other available  <br>functionality for the Services. |
-        | Measuring time | Calendar month during the Term of the SaaS Contract |
+        | Calculation | Availability is calculated as follows:<br><br>System availability (%) = (Annual total time - Unplanned downtime)/Annual total time<br><br>"Availability" is the customer's ability to access the functions of the platform as agreed in the contract.<br><br>"Scheduled Downtime" means the total time (in minutes) in a calendar year during which the Platform is unavailable due to scheduled system maintenance or other scheduled downtime. TWIPLA shall make all reasonable efforts to ensure that the scheduled system maintenance takes place between 1:00 a.m. and 5:00 a.m. CEST and that such system maintenance is announced in a reasonable time.<br><br>The "system availability" in relation to the availability in a calendar year is the ratio expressed as a percentage when the customer subtracts the unplanned downtime in that calendar year from the total annual downtime in that year and then divides this difference by the total annual downtime in that year (see formula above).<br><br>"Total annual time" includes all minutes of the relevant calendar year during the term of the contract.<br><br>"Unplanned Downtime" means the total time (in minutes) of unavailability in a calendar year excluding planned downtime and downtime caused by circumstances beyond TWIPLA's control. Such circumstances include, without limitation, (i) breaches of the terms of this Contract by the Customer, (ii) non-compliance by the Customer with the terms of this SLA, (iii) incompatibility of the Customer's hardware or software with the agreed requirements relating to the use of the Services, including the requirements set out in the Access Protocols, (iv) poor or inadequate performance of the Systems or the Customer, (v) use of the Services by the Customer that significantly exceeds the agreed volume, or (vi) Force Majeure (as defined in the Contract). |
+        | Measuring point | TWIPLA Service - handover point for the platform and/or other available functions for the Services |
+        | Timekeeping | calendar year during the term of the contract |
         
-    2. TWIPLA provides daily email support, 8 hours a day, worldwide. Email support can be reached at [support@twipla.com](mailto:support@twipla.com).  
+          
          
-2. **Rights in the event of non-compliance with the Service Levels**  
+    2. Support  
+          
+        TWIPLA offers worldwide support by e-mail. Email support can be reached at [support@twipla.com](mailto:support@twipla.com). We endeavor to respond to your request within 48 hours on weekdays.  
+         
+2. **Rights in the event of non-compliance with the service levels**  
      
-    1. In the event of **Unscheduled Downtime,** TWIPLA agrees to use economically reasonable efforts to remedy the Unscheduled Downtime within a reasonable time period.  
+    1. Unplanned downtime  
+          
+        In the event of an **Unplanned Downtime,** Visitors Analytics undertakes to use commercially reasonable efforts to remedy the Unplanned Downtime within a reasonable period of time.  
          
-    2. If TWIPLA fails to meet the Service Levels set forth in Appendix 1 'Service Levels', Customer shall be entitled to the service credits set forth below ("**Credits**"), provided that Credits for Unscheduled Downtime shall not exceed 5% of the total charges paid by Customer to TWIPLA for all Services provided during the applicable Service Month.  
+    2. Credits  
+          
+        If TWIPLA fails to meet the service levels set out in Annex 1 - Service Levels, the customer shall be entitled to the service credits listed below ("**Credits**"), whereby the Credits for Unplanned Downtime shall not exceed 5% of the total costs for all ordered Services paid by the customer to TWIPLA for all Services provided in the respective Service Month. The entitlement to a credit note of 10.0% of the monthly fees in the event that the availability of individual services is not met shall remain unaffected by this.  
          
         
         |     |     |
         | --- | --- |
-        | Availability of services | Credit (% of the monthly fees for the services) |
+        | **Availability of services** | **Credit (% of the monthly fees for the service)** |
         | < 99.0% | 2.5% |
         | < 98.0% | 5.0% |
         | < 97.0% | 10.0% |
         
-    3. Receipt of Credits. In order to receive a credit, Customer must request such credit in writing from TWIPLA within five (5) business days of receipt of a report describing the Unscheduled Downtime ("**Service Level Report**") for the period for which the credit is alleged to have occurred. Customer's written request must detail the date(s), time(s), and duration(s) of any Unscheduled Downtime claimed by Customer. If TWIPLA approves Customer's written request for a credit after review, TWIPLA will notify Customer of this fact and how to receive the credit. Credits cannot be applied retroactively. Any Customer who fails to timely submit a written request for a credit will forfeit all rights to receive a credit for that month. Credits payable by TWIPLA will be credited against any claim for damages Customer may have under the Agreement based on such Service Level violation.  
+          
          
-    4. Customer must notify TWIPLA immediately if any Unscheduled Downtime occurs. Unscheduled Downtime shall be deemed to have occurred when TWIPLA receives sufficient notice to that effect from Customer or when TWIPLA first becomes aware of such Unscheduled Downtime, whichever occurs first.
+    3. Service level report  
+          
+        Receipt of Credits. In order to receive a credit, the Customer must submit a written request to TWIPLA within five (5) business days of receipt of a report describing the Unplanned Downtime ("**Service Level Report**") for the period for which the credit is claimed to have been incurred. The Customer's written request shall specify the date(s), time(s) and duration(s) of each Unplanned Downtime claimed by the Customer. If TWIPLA approves the customer's written request for a credit after review, TWIPLA shall inform the customer of this fact and how the customer will receive the credit. Credit notes cannot be applied retroactively. Any customer who fails to submit a timely written request for a credit note shall lose all rights to receive a credit note for the month in question. Credits payable by TWIPLA shall be applied to any claim for damages that the customer may assert under the Contract as a result of such breach of service level.  
+         
+    4. Customer's obligation to notify  
+          
+        The customer shall notify TWIPLA immediately if an Unplanned Downtime occurs. Unplanned Downtime shall be deemed to have occurred when TWIPLA receives sufficient notice thereof from the customer or when TWIPLA first becomes aware of such Unplanned Downtime, whichever occurs first.
 
-**April 2024**
+  
+**Status as of: June 2024**
 
 ### Do you need more help?
 
