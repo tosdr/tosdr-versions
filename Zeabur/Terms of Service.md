@@ -26,6 +26,8 @@
 * Template
     
     * [Create Template](https://docs.zeabur.com/docs/template/create-template)
+    * [Creating Templates from YAML](https://docs.zeabur.com/docs/template/template-in-code)
+    * [Fork Code from Template Services](https://docs.zeabur.com/docs/template/fork-git-repo-from-template)
     
 * Guides
     
@@ -61,6 +63,7 @@
         
         * [Django](https://docs.zeabur.com/docs/guides/python/django)
         * [Flask](https://docs.zeabur.com/docs/guides/python/flask)
+        * [Reflex](https://docs.zeabur.com/docs/guides/python/reflex)
         
     * [Go](https://docs.zeabur.com/docs/guides/go)
     * Deno
@@ -168,6 +171,8 @@
 * Template
     
     * [Create Template](https://docs.zeabur.com/docs/template/create-template)
+    * [Creating Templates from YAML](https://docs.zeabur.com/docs/template/template-in-code)
+    * [Fork Code from Template Services](https://docs.zeabur.com/docs/template/fork-git-repo-from-template)
     
 * Guides
     
@@ -203,6 +208,7 @@
         
         * [Django](https://docs.zeabur.com/docs/guides/python/django)
         * [Flask](https://docs.zeabur.com/docs/guides/python/flask)
+        * [Reflex](https://docs.zeabur.com/docs/guides/python/reflex)
         
     * [Go](https://docs.zeabur.com/docs/guides/go)
     * Deno
