@@ -82,6 +82,20 @@ Sections
     * [Policy FAQs](https://www.opm.gov/policy-data-oversight/policy-faqs/)
     * [Contact Policymakers](https://www.opm.gov/policy-data-oversight/contact-policymakers/)
     * [FY 2023 Human Capital Reviews](https://www.opm.gov/policy-data-oversight/fy-2023-human-capital-reviews/)
+    * [Introduction](https://www.opm.gov/policy-data-oversight/career-paths-guide/introduction/)
+    * [Purpose and Objectives](https://www.opm.gov/policy-data-oversight/career-paths-guide/purpose-and-objectives/)
+    * [Data and Methodology](https://www.opm.gov/policy-data-oversight/career-paths-guide/data-and-methodology/)
+    * [Differentiating Job Titles for Program and Project Managers](https://www.opm.gov/policy-data-oversight/career-paths-guide/differentiating-job-titles-for-program-and-project-managers/)
+    * [Understanding the Career Path](https://www.opm.gov/policy-data-oversight/career-paths-guide/understanding-the-career-path/)
+    * [Success Factors](https://www.opm.gov/policy-data-oversight/career-paths-guide/success-factors/)
+    * [Competency Development Framework Part I](https://www.opm.gov/policy-data-oversight/career-paths-guide/federal-program-and-project-management-competency-development-framework-part-i/)
+    * [Competency Development Framework Part II](https://www.opm.gov/policy-data-oversight/career-paths-guide/federal-program-and-project-management-competency-development-framework-part-ii/)
+    * [Credentials and Certifications](https://www.opm.gov/policy-data-oversight/career-paths-guide/credentials-and-certifications/)
+    * [Appendix A: Key Terminology](https://www.opm.gov/policy-data-oversight/career-paths-guide/appendix-a/)
+    * [Appendix B: Subject Matter Expert (SME) Workshops List of Participating Agencies](https://www.opm.gov/policy-data-oversight/career-paths-guide/appendix-b/)
+    * [Appendix C: List of Designated Title & Number for Each Job Series](https://www.opm.gov/policy-data-oversight/career-paths-guide/appendix-c/)
+    * [Appendix D: Program and Project Competency Model and Competency Definitions](https://www.opm.gov/policy-data-oversight/career-paths-guide/appendix-d/)
+    * [Appendix E: Program and Project Management Competency Model Proficiency Level](https://www.opm.gov/policy-data-oversight/career-paths-guide/appendix-e/)
     
 * Insurance Toggle submenu
     
