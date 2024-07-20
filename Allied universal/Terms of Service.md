@@ -77,6 +77,8 @@
         * [Crowd Management](https://www.aus.com/security-services/event-services/crowd-management-services)
         * [Event Security Staffing](https://www.aus.com/security-services/event-services/event-security-staffing)
         * [Event Special Services](https://www.aus.com/security-services/event-services/event-special-services)
+        * [Event Unified Command Center](https://www.aus.com/security-services/event-services/event-unified-command-center)
+        * [Temporary Video Surveillance](https://www.aus.com/security-services/event-services/mobile-security-video-surveillance-services)
         * [Corporate Events](https://www.aus.com/security-services/event-services/corporate-event-security-services)
         * [Red Team Audits](https://www.aus.com/security-services/event-services/event-red-team-security-audits-and-quality-control)
         
