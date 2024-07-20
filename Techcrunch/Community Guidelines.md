@@ -37,7 +37,7 @@ Code of Conduct
 
 ![](https://techcrunch.com/wp-content/uploads/2016/02/16758204214_218dd14c1c_o.jpg "TechCrunch Disrupt NY 2015 - Day 2")
 
-#### **Report incidents to TechCrunch staff by calling +1 (415) 579-3838 or emailing [codeofconduct@techcrunch.com](mailto:codeofconduct@techcrunch.com). If you are experiencing an emergency, dial 911.**
+#### **Report incidents to TechCrunch staff by calling +1 (415) 579-3838 or emailing [codeofconduct@techcrunch.com](mailto:codeofconduct@techcrunch.com/). If you are experiencing an emergency, dial 911.**
 
 **TechCrunch will not tolerate any type of harassment of attendees, including the following but not limited to:**
 
@@ -63,7 +63,7 @@ Code of Conduct
 
 **As an attendee, you are expected to abide by the guidelines set above.** At TechCrunch’s discretion, those deemed in violation will be removed from the venue immediately without a refund and barred from future TechCrunch events.
 
-If you experience or witness a Code of Conduct violation, report it to TechCrunch staff by calling +1 (415) 579-3838 or emailing [codeofconduct@techcrunch.com](mailto:codeofconduct@techcrunch.com). You may also report it directly to:
+If you experience or witness a Code of Conduct violation, report it to TechCrunch staff by calling +1 (415) 579-3838 or emailing [codeofconduct@techcrunch.com](mailto:codeofconduct@techcrunch.com/). You may also report it directly to:
 
 * Security staff stationed throughout the venue
 * TechCrunch volunteers, identifiable by their TechCrunch T-shirts
@@ -97,13 +97,12 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Fisker Bankruptcy](https://techcrunch.com/2024/06/19/the-fall-of-ev-startup-fisker-a-comprehensive-timeline/)
-* [YouTube Ad Blockers](https://techcrunch.com/2024/06/16/youtube-is-testing-another-way-to-combat-ad-blockers/)
-* [DOJ Takes On Adobe](https://techcrunch.com/2024/06/17/us-sues-adobe-for-hiding-termination-fees-and-making-it-difficult-to-cancel-subscriptions/)
-* [iOS 18](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/)
-* [Meta AI](https://techcrunch.com/2024/06/19/meta-ai-removes-block-on-election-related-queries-in-india-while-google-still-applying-limits/)
-* [Tech Layoffs](https://techcrunch.com/2024/05/22/tech-layoffs-2023-list)
-* [ChatGPT](https://techcrunch.com/2024/06/04/chatgpt-everything-to-know-about-the-ai-chatbot)
+* [Fandango Founder](https://techcrunch.com/2024/07/18/fandango-founder-dies-in-fall-from-manhattan-skyscraper/)
+* [Musk and Biden](https://techcrunch.com/2024/07/18/elon-musk-is-now-a-villain-in-joe-bidens-presidential-campaign/)
+* [CrowdStrike](https://techcrunch.com/2024/07/19/what-we-know-about-crowdstrikes-update-fail-thats-causing-global-outages-and-travel-chaos/)
+* [USPS](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
+* [Tech Layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/)
+* [ChatGPT](https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
 * [X](https://twitter.com/techcrunch)
