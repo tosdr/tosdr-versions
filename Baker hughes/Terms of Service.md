@@ -2045,7 +2045,6 @@ More Baker Hughes
 -----------------
 
 * [Rig Count](https://rigcount.bakerhughes.com/)
-* [BakerHughesC3.ai](https://www.bakerhughesc3.ai/)
 * [Shop Baker Hughes](https://www.shopbakerhughes.com/)
 * [Baker Hughes Store](https://store.bakerhughes.com/)
 
