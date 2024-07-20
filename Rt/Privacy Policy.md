@@ -9,7 +9,7 @@
 * [FR](https://francais.rt.com/ "RT ")
 * [RS](https://rt.rs/ "RT ")
 
-[](https://russian.rt.com/inotv "RT ")[](https://rtd.rt.com/ "RT ")[](https://www.rbth.com/ "RT ")[](https://ruptly.tv/ "RT ")[](https://academy.rt.com/ "RT ")
+[](https://russian.rt.com/inotv "RT ")[](https://en.arteldoc.tv/ "RT ")[](https://www.rbth.com/ "RT ")[](https://ruptly.tv/ "RT ")[](https://academy.rt.com/ "RT ")
 
 [Where to watch](https://www.rt.com/where-to-watch/)[Schedule](https://www.rt.com/schedule/)
 
@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[US-supplied F-16s to be stationed inside Ukraine – White House: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[China supports Hungary’s peace mission | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,9 +64,7 @@
 
 [](https://odysee.com/@RT:fd)
 
-[US-supplied F-16s to be stationed inside Ukraine – White House: Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
-
-[Putin’s visit to Vietnam: From historical friendship to future plans](https://www.rt.com/news/599675-putin-visit-vietnam-recap/)
+[China supports Hungary’s peace mission | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [Home](https://www.rt.com/)
 
@@ -545,7 +543,7 @@ New legal requirements, business decisions or technical developments may require
 
 [العربية](https://arabic.rt.com/)[esp](https://actualidad.rt.com/)[рус](https://russian.rt.com/)[de](https://de.rt.com/)[fr](https://francais.rt.com/)[rs](https://rt.rs/)
 
-[](https://russian.rt.com/inotv "RT ")[](https://rtd.rt.com/ "RT ")[](https://www.rbth.com/ "RT ")[](https://ruptly.tv/ "RT ")[](https://academy.rt.com/ "RT ")
+[](https://russian.rt.com/inotv "RT ")[](https://en.arteldoc.tv/ "RT ")[](https://www.rbth.com/ "RT ")[](https://ruptly.tv/ "RT ")[](https://academy.rt.com/ "RT ")
 
 [](https://t.me/rtnews)
 
