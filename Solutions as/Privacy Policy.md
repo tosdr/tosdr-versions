@@ -132,6 +132,8 @@ E-mail: [info@skidsolutions.eu](mailto:info@skidsolutions.eu)
 * [Timestamping](https://www.skidsolutions.eu/services/timestamping/)
 * [Certificates](https://www.skidsolutions.eu/services/certificates/)
 
+###### [Eesti keeles](https://skidsolutions.eu/eesti-keeles)
+
 © 2001-2024 SK ID Solutions AS. All rights reserved. [Data Protection](https://www.skidsolutions.eu/resources/data-protection/) | [Copyright](https://www.skidsolutions.eu/resources/copyright/) | [Cookie Policy](https://www.skidsolutions.eu/resources/data-protection/)
 
 ![KPMG](https://www.skidsolutions.eu/wp-content/themes/skidsolutions/img/kpmg-iso-logo.svg)
