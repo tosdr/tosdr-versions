@@ -1,3 +1,11 @@
+New!
+
+We've made HUGE updates to the Node course
+
+[Learn more →](https://dev.to/theodinproject/updates-to-the-node-course-postgresql-prisma-and-more-4dl3)
+
+Dismiss dismissdismiss icon
+
 Close sidebar
 
 [Odin Logo](https://theodinproject.com/)
@@ -69,7 +77,7 @@ The Odin Project respects the intellectual property of others and asks that user
 * a statement that you have a good faith belief that use of the objectionable material is not authorized by the copyright owner, its agent, or under the law; and
 * a statement that the information in the notification is accurate, and under penalty of perjury, that you are either the owner of the copyright that has allegedly been infringed or that you are authorized to act on behalf of the copyright owner.
 
-Such correspondences can be sent to [theodinprojectcontact@gmail.com](mailto:theodinprojectcontact@gmail.com).
+Such correspondences can be sent to [\[email protected\]](https://theodinproject.com/cdn-cgi/l/email-protection).
 
 Please note that, pursuant to 17 U.S.C. § 512(f), any misrepresentation of material fact in a written notification automatically subjects the complaining party to liability for any damages, costs and attorney's fees incurred by us in connection with the written notification and allegation of copyright infringement.
 
@@ -79,7 +87,7 @@ These Terms are subject to occasional revision, and if we make any substantial c
 
 **Applicability of Arbitration Agreement.** All claims and disputes in connection with the Terms or the use of any product or service provided by the The Odin Project that cannot be resolved informally or in small claims court shall be resolved by binding arbitration on an individual basis under the terms of this Arbitration Agreement. Unless otherwise agreed to, all arbitration proceedings shall be held in English. This Arbitration Agreement applies to you and The Odin Project, and to any subsidiaries, affiliates, agents, employees, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services or goods provided under the Terms.
 
-**Notice Requirement and Informal Dispute Resolution.** Before either party may seek arbitration, the party must first send to the other party a written Notice of Dispute describing the nature and basis of the claim or dispute, and the requested relief. A Notice to the The Odin Project should be sent to [theodinprojectcontact@gmail.com](mailto:theodinprojectcontact@gmail.com). After the Notice is received, you and The Odin Project may attempt to resolve the claim or dispute informally. If you and The Odin Project do not resolve the claim or dispute within thirty (30) days after the Notice is received, either party may begin an arbitration proceeding. The amount of any settlement offer made by any party may not be disclosed to the arbitrator until after the arbitrator has determined the amount of the award to which either party is entitled.
+**Notice Requirement and Informal Dispute Resolution.** Before either party may seek arbitration, the party must first send to the other party a written Notice of Dispute describing the nature and basis of the claim or dispute, and the requested relief. A Notice to the The Odin Project should be sent to [\[email protected\]](https://theodinproject.com/cdn-cgi/l/email-protection). After the Notice is received, you and The Odin Project may attempt to resolve the claim or dispute informally. If you and The Odin Project do not resolve the claim or dispute within thirty (30) days after the Notice is received, either party may begin an arbitration proceeding. The amount of any settlement offer made by any party may not be disclosed to the arbitrator until after the arbitrator has determined the amount of the award to which either party is entitled.
 
 **Arbitration Rules.** Arbitration shall be initiated through the American Arbitration Association, an established alternative dispute resolution provider that offers arbitration as set forth in this section. If AAA is not available to arbitrate, the parties shall agree to select an alternative ADR Provider. The rules of the ADR Provider shall govern all aspects of the arbitration except to the extent such rules are in conflict with the Terms. The AAA Consumer Arbitration Rules governing the arbitration are available online at adr.org or by calling the AAA at 1-800-778-7879. The arbitration shall be conducted by a single, neutral arbitrator. Any claims or disputes where the total amount of the award sought is less than Ten Thousand U.S. Dollars (US $10,000.00) may be resolved through binding non-appearance-based arbitration, at the option of the party seeking relief. For claims or disputes where the total amount of the award sought is Ten Thousand U.S. Dollars (US $10,000.00) or more, the right to a hearing will be determined by the Arbitration Rules. Any hearing will be held in a location within 100 miles of your residence, unless you reside outside of the United States, and unless the parties agree otherwise. If you reside outside of the U.S., the arbitrator shall give the parties reasonable notice of the date, time and place of any oral hearings. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. If the arbitrator grants you an award that is greater than the last settlement offer that the The Odin Project made to you prior to the initiation of arbitration, the The Odin Project will pay you the greater of the award or $2,500.00. Each party shall bear its own costs and disbursements arising out of the arbitration and shall pay an equal share of the fees and costs of the ADR Provider.
 
@@ -124,7 +132,7 @@ If you are a California resident, you may report complaints to the Complaint Ass
 ### Contact Information
 
 * Address: [https://www.theodinproject.com](https://theodinproject.com/home)
-* Email: [theodinprojectcontact@gmail.com](mailto:theodinprojectcontact@gmail.com)
+* Email: [\[email protected\]](https://theodinproject.com/cdn-cgi/l/email-protection)
 
 Support us!
 ===========
