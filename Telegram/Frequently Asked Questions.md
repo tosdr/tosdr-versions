@@ -269,12 +269,6 @@ Users whose publications were taken down in connection with the TCO Regulation c
 * by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium, or
 * by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
 
-#### [](#q-is-telegram-a-very-large-online-platform-according-to-the-eu-d)Q: Is Telegram a “very large online platform” according to the EU Digital Services Act?
-
-No. As of February 2024, Telegram had an estimated average of 41 million EU users over the preceding 6 months. This is lower than the threshold of 45 million users required for designation as a “very large online platform.”
-
-The number of active users relevant for calculating this threshold is believed to be even lower, since only some of Telegram’s functions may qualify as “online platforms” under the Digital Services Act.
-
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
 All Telegram chats and group chats are private amongst their participants. We do not process any requests related to them. But **sticker sets**, **channels**, and **bots** on Telegram are _publicly available_.
