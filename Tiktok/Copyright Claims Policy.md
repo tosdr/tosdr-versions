@@ -1,8 +1,12 @@
-[![TikTok](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-93845f7e22d70516c472881f45a035a68956548f.svg)](https://www.tiktok.com/ "TikTok")
+[![TikTok](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-f9c321e807add751e891c2c1d5f79bd691f4616c.svg)](https://www.tiktok.com/ "TikTok")
 
 Intellectual Property Policy
 
 _Last updated: June 7, 2021_
+
+  
+
+  
 
 TikTok respects the intellectual property rights of others, and we expect you to do the same. TikTok’s [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) do not allow posting, sharing, or sending any content that violates or infringes someone else’s copyrights, trademarks or other intellectual property rights.
 
@@ -109,7 +113,7 @@ You may also provide us with a counter-notification via our online [Counter Noti
 
 As a TikTok user, you are responsible for the content you post. If you have questions about copyright law or trademark law, such as questions about whether your content or your use of another person’s name or brand infringes or otherwise violates another person’s rights, you may want to contact an attorney. If you are unsure whether the material you plan to report to us is infringing or otherwise violating another person’s right, you may also want to first seek legal advice before reporting such content to us.
 
-[![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-93845f7e22d70516c472881f45a035a68956548f.svg)![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logotext-969cd3ed892da756e59b-93845f7e22d70516c472881f45a035a68956548f.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
+[![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logo-27d6cf4b2491ddf10a58-f9c321e807add751e891c2c1d5f79bd691f4616c.svg)![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/legal/static/build/_assets/logotext-969cd3ed892da756e59b-f9c321e807add751e891c2c1d5f79bd691f4616c.svg)](https://www.tiktok.com/ "TikTok")**TikTok**
 
 #### Company
 
@@ -169,8 +173,10 @@ As a TikTok user, you are responsible for the content you post. If you have ques
 
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
 
+[Impressum](https://www.tiktok.com/legal/impressum?lang=en)
+
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
-[Modern Slavery and Human Trafficking Statement](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
+[TikTok UK Modern Slavery Statement 2023](https://www.tiktok.com/legal/modern-slavery-statement?lang=en)
 
 © 2024 TikTok
