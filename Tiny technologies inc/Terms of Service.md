@@ -26,19 +26,19 @@ Docs
 
 In-depth documentation to help you develop with and customize Tiny products.](https://www.tiny.cloud/docs/tinymce/latest/)  
 
-* [Getting Started](https://www.tiny.cloud/docs/tinymce/latest/basic-setup/)
+* [Getting Started](https://www.tiny.cloud/docs/tinymce/latest/getting-started/)
+* [Basic Setup](https://www.tiny.cloud/docs/tinymce/latest/basic-setup/)
 * [API Reference](https://www.tiny.cloud/docs/tinymce/latest/apis/tinymce.root/)
 * [Migrating to TinyMCE](https://www.tiny.cloud/migrate-to-tinymce/)
-* [Cloud Deployment](https://www.tiny.cloud/docs/tinymce/latest/cloud-quick-start/)
-* [Get TinyMCE Free](https://www.tiny.cloud/get-tiny/)
+* [Download TinyMCE Free](https://www.tiny.cloud/get-tiny/)
 
-[Support
+[Support](https://www.tiny.cloud/docs/tinymce/latest/support/)  
 
-Submit, track and manage all your support tickets and requests.](https://support.tiny.cloud/hc/en-us/)
+* [License Keys](https://www.tiny.cloud/docs/tinymce/latest/license-key/)
+* [Editor Loads](https://www.tiny.cloud/docs/tinymce/latest/understanding-editor-loads/)
+* [Submit a Support Request](https://support.tiny.cloud/hc/en-us/)
 
-[Join our community
-
-Our open core product has thousands of Q&As on Stack Overflow and Github.](https://github.com/tinymce/tinymce)
+[Start trial](https://www.tiny.cloud/auth/signup/ "Start trial")
 
 Solutions
 
@@ -127,19 +127,23 @@ Docs
 
 [Documentation
 
-In-depth documentation to help you develop with and customize Tiny products.](https://www.tiny.cloud/docs/tinymce/latest/)  
+In-depth documentation to help you develop with and customize Tiny products.](https://www.tiny.cloud/docs/tinymce/latest/)
 
-* [Getting Started](https://www.tiny.cloud/docs/tinymce/latest/basic-setup/)
+  
+
+* [Getting Started](https://www.tiny.cloud/docs/tinymce/latest/getting-started/)
+* [Basic Setup](https://www.tiny.cloud/docs/tinymce/latest/basic-setup/)
 * [API Reference](https://www.tiny.cloud/docs/tinymce/latest/apis/tinymce.root/)
 * [Migrating to TinyMCE](https://www.tiny.cloud/migrate-to-tinymce/)
-* [Cloud Deployment](https://www.tiny.cloud/docs/tinymce/latest/cloud-quick-start/)
-* [Get TinyMCE Free](https://www.tiny.cloud/get-tiny/)
+* [Download TinyMCE Free](https://www.tiny.cloud/get-tiny/)
 
-[Support
+[Support](https://www.tiny.cloud/docs/tinymce/latest/support/)
 
-Submit, track and manage all your support tickets and requests.](https://support.tiny.cloud/hc/en-us/)[Join our community
+* [License Keys](https://www.tiny.cloud/docs/tinymce/latest/license-key/)
+* [Editor Loads](https://www.tiny.cloud/docs/tinymce/latest/understanding-editor-loads/)
+* [Submit a Support Request](https://support.tiny.cloud/hc/en-us/)
 
-Our open core product has thousands of Q&As on Stack Overflow and Github.](https://github.com/tinymce/tinymce)
+[Start trial](https://www.tiny.cloud/auth/signup/ "Start trial")
 
 Solutions
 
@@ -208,7 +212,7 @@ Discover why industry leaders and scaling start-ups love, use and trust Tiny pro
 
 * * *
 
-[Overview](https://www.tiny.cloud/legal/)[Privacy](https://www.tiny.cloud/legal/privacy/)[Terms](https://www.tiny.cloud/legal/terms/)[Cloud Services](https://www.tiny.cloud/legal/cloud-use-subscription-agreement/)[Research](https://www.tiny.cloud/legal/research-program-agreement/)[Attribution](https://www.tiny.cloud/legal/attribution-requirements/)[Enterprise](https://www.tiny.cloud/legal/tiny-self-hosted-enterprise-agreement/)[OEM & SaaS](https://www.tiny.cloud/legal/tiny-self-hosted-oem-saas-agreement/)[Setka](https://www.tiny.cloud/legal/setka/)[Plupload](https://www.tiny.cloud/legal/plupload/)[Blog](https://www.tiny.cloud/legal/blog/)
+[Overview](https://www.tiny.cloud/legal/)[Privacy](https://www.tiny.cloud/legal/privacy/)[Terms](https://www.tiny.cloud/legal/terms/)[Cloud Services](https://www.tiny.cloud/legal/cloud-use-subscription-agreement/)[Research](https://www.tiny.cloud/legal/research-program-agreement/)[Attribution](https://www.tiny.cloud/legal/attribution-requirements/)[Enterprise](https://www.tiny.cloud/legal/tiny-self-hosted-enterprise-agreement/)[OEM & SaaS](https://www.tiny.cloud/legal/tiny-self-hosted-oem-saas-agreement/)[Setka](https://www.tiny.cloud/legal/setka/)[Plupload](https://www.tiny.cloud/legal/plupload/)
 
 Tiny Technologies Website Terms of Use
 ======================================
