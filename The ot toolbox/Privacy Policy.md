@@ -1,6 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-ou7ammxyc2z4dwsar7dbuv2el24qamlc9leth579ui.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
+[![cropped-logo-2.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "cropped-logo-2.png")
+
+![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-ou7ammxyc2z4dwsar7dbuv2el24qamlc9leth579ui.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
 
 Search  Search
 
@@ -72,11 +74,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Free ice cream I spy worksheet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![benefits of playing with stickers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Free ice cream I spy worksheet](https://www.theottoolbox.com/wp-content/uploads/2024/06/free-ice-cream-I-spy.png)](https://www.theottoolbox.com/i-spy-ice-cream/)
+                ![benefits of playing with stickers](https://www.theottoolbox.com/wp-content/uploads/2024/07/stickers.png)](https://www.theottoolbox.com/benefits-of-playing-with-stickers-occupational-therapy/)
                 
-                #### [I Spy Ice Cream](https://www.theottoolbox.com/i-spy-ice-cream/)
+                #### [10 Reasons Why Every Kid Needs to Play With Stickers](https://www.theottoolbox.com/benefits-of-playing-with-stickers-occupational-therapy/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
