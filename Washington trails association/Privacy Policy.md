@@ -44,6 +44,7 @@ Menu
     * [Volunteer](https://www.wta.org/get-involved/volunteer "Volunteer opportunities at Washington Trails Association, including work parties, Volunteer Vacations, Youth Vacations and outreach/office volunteering opportunities. ")
     * [Take Action](https://www.wta.org/get-involved/action "Current hiking-related issues that Washington Trails Association is working on and how you can help.")
     * [Events](https://www.wta.org/get-involved/events)
+    * [Hike-a-Thon](https://give.wta.org/campaign/hike-a-thon-2024/c590332)
 * [Donate](https://www.wta.org/donate)
 * [News](https://www.wta.org/news)
     * [Blog](https://www.wta.org/news/signpost)
@@ -57,7 +58,7 @@ Menu
 
   [![Home](https://www.wta.org/++theme++plonetheme.wta/images/svg/home-icon.svg)](https://www.wta.org/) ![](https://www.wta.org/++theme++plonetheme.wta/images/svg/arrow-right.svg)[Our Work](https://www.wta.org/our-work) ![](https://www.wta.org/++theme++plonetheme.wta/images/svg/arrow-right.svg)  [About Us](https://www.wta.org/our-work/about) ![](https://www.wta.org/++theme++plonetheme.wta/images/svg/arrow-right.svg)  Privacy Policy
 
-[link](https://www.wta.org/portlets/washington_trails_day_2024/embedded)
+[link](https://www.wta.org/portlets/support_resources_71824/embedded)
 
 Privacy Policy WTA's privacy policy, including collection of personal information and cookies. https://www.wta.org/our-work/about/privacy https://www.wta.org/@@site-logo/wta-logo.png
 
@@ -129,6 +130,7 @@ _Updated 5.24.18_
     * [Volunteer](https://www.wta.org/get-involved/volunteer "Volunteer opportunities at Washington Trails Association, including work parties, Volunteer Vacations, Youth Vacations and outreach/office volunteering opportunities. ")
     * [Take Action](https://www.wta.org/get-involved/action "Current hiking-related issues that Washington Trails Association is working on and how you can help.")
     * [Events](https://www.wta.org/get-involved/events)
+    * [Hike-a-Thon](https://give.wta.org/campaign/hike-a-thon-2024/c590332)
 * [News](https://www.wta.org/news)
     * [Blog](https://www.wta.org/news/signpost)
     * [Magazine](https://www.wta.org/news/magazine)
