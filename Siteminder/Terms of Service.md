@@ -98,8 +98,9 @@
         2023 Report
         
         [Read now](https://www.siteminder.com/hotel-booking-trends/)
-* English
+* EN
     * [ไทย](https://www.siteminder.com/th/legal/website-terms/)
+* [Contact us](https://www.siteminder.com/contact-sales/)
 * [Start free trial](https://www.siteminder.com/start-free-trial/)[Login](https://authx.siteminder.com/login)
 
 Website terms and conditions
