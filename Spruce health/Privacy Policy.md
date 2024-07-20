@@ -1,7 +1,7 @@
 Spruce Health, Inc. – Privacy Policy
 ====================================
 
-Last Modified: 17 May 2024
+Last Modified: 17 July 2024
 
 IF YOU ARE (OR SOMEONE ELSE IS) EXPERIENCING A MEDICAL EMERGENCY, CALL 911 IMMEDIATELY.
 
@@ -100,6 +100,7 @@ We, or health care providers with respect to their patients, may disclose Person
 * To anyone authorized under this Privacy Policy or pursuant to any other consent or authorization that you may provide.
 * To service providers that assist us in the maintenance, improvement, and optimization of our Platform, such as service providers that help us run and maintain the technology and security infrastructure that support our Platform or that provide services such as email delivery, auditing and similar services.
 * To medical providers, including without limitation, physicians, health care facilities, and organizations, pharmacies, and laboratories, that provide any services to you, including medical providers with whom you communicate and/or medical providers who review your information in providing health care services to you. If applicable to you, you acknowledge and agree that when medical providers provide services to you, the medical providers and all personnel of their professional entities may see any information you provide.
+* To our affiliates and their employees, including for the purpose of posting information or notifications about health care services in your account.
 * To fulfill the purpose for which you provide it. For example, if you sign up for certain services, we may share your information in order to provide those services.
 * To third-party credit card processors via an encrypted connection so that they can process any payments by you.
 * To any third parties we believe necessary or appropriate to comply with applicable laws.
