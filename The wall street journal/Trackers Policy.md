@@ -54,11 +54,11 @@ Cookie Notice Sections
 **THE DOW JONES COOKIE NOTICE**
 ===============================
 
-**Effective Date: December 20, 2023**
+**Effective Date: July 1, 2024**
 
 1\. INTRODUCTION
 
-Dow Jones & Company, Inc., and its subsidiaries ("Dow Jones") want you to be familiar with how we collect, use and disclose information from and about you because we respect your concerns about privacy, and we want to maintain your trust. We and our service providers collect information by automated means when you visit, access, or use our websites, mobile sites, applications (“apps”), electronic newsletters or widgets (collectively the “Dow Jones Services”) that link to this Cookie Notice. We collect information through cookies (including Flash cookies), web beacons, pixels, server calls, web server logs, JavaScript, and other tracking technologies (collectively “Cookies”) to deliver and improve the Dow Jones Services, and to display relevant content, products, services and advertising. A list of Dow Jones subsidiaries is available in annual reports accessible [here](https://investors.newscorp.com/node/14306/html#ex-211xfy23listofsubsidiar.htm).
+Dow Jones & Company, Inc., and its subsidiaries (collectively,"Dow Jones", “we”, “us”, and “our”) want you to be familiar with how we collect, use and disclose information from and about you because we respect your concerns about privacy, and we want to maintain your trust. We and our service providers collect information by automated means when you visit, access, or use our websites, mobile sites, applications (“apps”), electronic newsletters or emails, or widgets (collectively the “Dow Jones Services”) that link to this Cookie Notice. We collect information through cookies (including Flash cookies), web beacons, pixels, server calls, web server logs, JavaScript, and other tracking technologies (collectively “Cookies”) to deliver and improve the Dow Jones Services, and to display relevant content, products, services and advertising. A list of Dow Jones subsidiaries is available in annual reports accessible [here](https://investors.newscorp.com/node/14306/html#ex-211xfy23listofsubsidiar.htm).
 
 This Cookie Notice describes the information we obtain from Cookies, how we use Cookies, and how you can manage them. By using the Dow Jones Services, you acknowledge you have read and accept this Cookie Notice. We may periodically update this Cookie Notice without prior notice to reflect changes in our practices. Please take a look at the Effective Date at the top of this page to see when this Cookie Notice was last revised.
 
@@ -87,9 +87,6 @@ Below we list the different types of Cookies we may use on the Dow Jones Service
 5.1 Strictly Necessary Cookies
 
 These Cookies are essential to the Dow Jones Services in order to facilitate our authentication, registration or log-in process and enable you to navigate and use the features of the Dow Jones Services. Without these Cookies, you may not be able to take full advantage of our services or features, and the Dow Jones Services will not perform as smoothly for you as we would like. The Strictly Necessary Cookies on the Dow Jones Services may include:
-
-  
-  
 
 |     |     |
 | --- | --- |
@@ -181,9 +178,9 @@ Sections 5.4, 5.5 and 5.6 above include links with information on how to opt out
 
 For more information on how to opt out of targeted advertising or Advertising Cookies, please take the following actions:
 
-* * if you are a resident of California, Colorado, Connecticut, Utah or Virginia, please go to the homepage of the Dow Jones publication you use (e.g., WSJ, Barron’s, MarketWatch, Mansion Global, Financial News or Private Equity News) and click on the “Do Not Sell or Share My Personal Information” link in the footer of the site or in the profile or settings page of the app
-    * all other U.S. state residents, click [here](https://www.aboutads.info/choices/) or [here](https://www.networkadvertising.org/choices/)
-    * click [here](https://youradchoices.ca/choices) in Canada
+* if you are a resident of any of these specific U.S. [states](https://www.dowjones.com/list-of-us-states-with-privacy-rights-july2024/), please go to the homepage of the Dow Jones publication you use (e.g., WSJ, Barron’s, MarketWatch, Mansion Global, Financial News or Private Equity News) and click on the “Do Not Sell or Share My Personal Information” link in the footer of the site or in the profile or settings page of the app
+* all other U.S. state residents, click [here](https://www.aboutads.info/choices/) or [here](https://www.networkadvertising.org/choices/)
+* click [here](https://youradchoices.ca/choices) in Canada
 
 Note that opting out of Advertising Cookies is a device-based action, and it will not remove advertising from the pages you visit; instead it means the ads you will see may not be matched to your interests.
 
