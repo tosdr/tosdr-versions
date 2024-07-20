@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Toys: A Reality](https://www.somethingawful.com/comedy-goldmine/toys-a-reality/1/)
-* [Counter-Strike, Yahoo, Library of Castle Kenyon, and Something Awful](https://www.somethingawful.com/weekend-web/counterstrike-yahoo-library/1/)
-* [Dungeons & Dragons: The Book of Wondrous Inventions](https://www.somethingawful.com/dungeons-and-dragons/wtf-wondrous-items/1/)
-* [Swap grandparents and babies heads!](https://www.somethingawful.com/comedy-goldmine/swap-grandparents-babies/1/)
-* [Thundra](https://www.somethingawful.com/game-reviews/thundra/1/)
+* [Dragon Ball: The Magic Begins](https://www.somethingawful.com/movie-reviews/dragon-ball-magic/1/)
+* [Carliving.info (Thanks, just some guy!)](https://www.somethingawful.com/awful-links/car-living-vandwellers/)
+* [MoonStones... (Thanks, Sniperzombies!)](https://www.somethingawful.com/awful-links/moonstones-store-pittsburgh/)
+* [MANDAMUS: VOID Orders/Judgments (Thanks, blarzgh!)](https://www.somethingawful.com/awful-links/paul-chen-mandamus/)
+* [Tumblr's lifting community (Thanks, EgoEgress!)](https://www.somethingawful.com/awful-links/tumblr-lifting-community/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Combine Movies to Make Them Better](http://forums.somethingawful.com/showthread.php?threadid=4063342 "Combine Movies to Make Them Better")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Whats your pettiest food elitism related opinion?](http://forums.somethingawful.com/showthread.php?threadid=4063348 "Whats your pettiest food elitism related opinion?")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Anyone else get a BIG WIN on the swift case?](http://forums.somethingawful.com/showthread.php?threadid=4065985 "Anyone else get a BIG WIN on the swift case?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tech.png) [Something I never got about the game StarCraft brood war. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4065951 "Something I never got about the game StarCraft brood war. Spoilers")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tech.png) [So some computer program ate shit and fucked itself today?](http://forums.somethingawful.com/showthread.php?threadid=4065941 "So some computer program ate shit and fucked itself today?")
 
 ### Random Articles
 
-* [Revelation 13](https://www.somethingawful.com/awful-links/awful-link-3991/)
-* [This Beyonce Photo No Longer Exists!](https://www.somethingawful.com/comedy-goldmine/beyonce-superbowl-grimace/1/)
-* [Foundation for the Law of Time](https://www.somethingawful.com/awful-links/awful-link-2348/)
-* [There Used to be an Update Here](https://www.somethingawful.com/news/there-used-be/)
-* [Betty's Pub, BlizzHackers, and Emokid](https://www.somethingawful.com/weekend-web/bettys-pub-blizzhackers/1/)
+* [Tetsuko,](https://www.somethingawful.com/awful-links/awful-link-1224/)
+* [Advanced Dungeons & Dragons: 1st Edition Fiend Folio (part 1)](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-1/1/)
+* [More Dogs???](https://www.somethingawful.com/mooflogs/daily-combtracking/)
+* [The Hottest Tech Deals Made at Burning Man 2013](https://www.somethingawful.com/feature-articles/tech-burning-man/1/)
+* [I Hate You Page 94](https://www.somethingawful.com/cliff-yablonski/i-hate-you-94/)
 
 [Random!](https://www.somethingawful.com/random/)
 
