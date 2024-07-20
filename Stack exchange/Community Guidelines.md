@@ -8,12 +8,12 @@
 2. [Products](#)
 3. [OverflowAI](https://stackoverflow.co/teams/ai/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav-bar&utm_content=overflowai)
 
-1. [Stack Overflow Public questions & answers](https://stackexchange.com/questions)
-2. [Stack Overflow for Teams Where developers & technologists share private knowledge with coworkers](https://stackoverflow.co/teams/)
-3. [Talent Build your employer brand](https://stackoverflow.co/talent/)
-4. [Advertising Reach developers & technologists worldwide](https://stackoverflow.co/advertising/)
-5. [Labs The future of collective knowledge sharing](https://stackoverflow.co/labs/)
-6. [About the company](https://stackoverflow.co/)
+1. [Stack Overflow for Teams Where developers & technologists share private knowledge with coworkers](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=stack-overflow-for-teams)
+2. [Advertising & Talent Reach devs & technologists worldwide about your product, service or employer brand](https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=stack-overflow-advertising)
+3. [OverflowAI GenAI features for Teams](https://stackoverflow.co/teams/ai/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=overflow-ai)
+4. [OverflowAPI Train & fine-tune LLMs](https://stackoverflow.co/api-solutions/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=overflow-api)
+5. [Labs The future of collective knowledge sharing](https://stackoverflow.co/labs/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=labs)
+6. [About the company](https://stackoverflow.co/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=about-the-company) [Visit the blog](https://stackoverflow.blog/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=top-nav&utm_content=blog)
 
 Loading…
 
@@ -37,10 +37,6 @@ Loading…
 3. [Log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2facceptable-use-policy)
 4. [Sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2facceptable-use-policy)
 
-2024 Developer survey is here and we would like to hear from you! [Take the 2024 Developer Survey](https://stackexchange.com/dev-survey/start?utm_medium=referral&utm_source=stackexchange-community&utm_campaign=dev-survey-2024&utm_content=announcement-banner)
-
-[](# "dismiss")
-
 1. 1. [Home](https://stackexchange.com/)
     2. [Questions](https://stackexchange.com/questions)
     3. [Tags](https://stackexchange.com/tags)
@@ -56,11 +52,11 @@ Loading…
         
 2. Teams
     
-    ![](https://cdn.sstatic.net/Img/teams/teams-promo.svg?v=e507948b81bf)
+    ![](https://cdn.sstatic.net/Img/teams/overflowai.svg?v=d706fa76cdae)
     
-    Ask questions, find answers and collaborate at work with Stack Overflow for Teams.
+    Now available on Stack Overflow for Teams! AI features where you work: search, IDE, and chat.
     
-    [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams) [Create a free Team](https://stackoverflowteams.com/teams/create/free/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams)
+    [Learn more](https://stackoverflow.co/teams/ai/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=overflowai-learn-more) [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams)
     
 3. [Teams](javascript:void(0))
 4. Ask questions, find answers and collaborate at work with Stack Overflow for Teams. [Explore Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=side-bar&utm_content=explore-teams-compact)
@@ -160,13 +156,14 @@ Your usage of automated data-gathering means is exempt from this policy if eithe
 
 * [Questions](https://stackexchange.com/questions)
 * [Help](https://stackexchange.com/help)
+* [Chat](https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com)
 
 ##### [Products](https://stackoverflow.co/)
 
-* [Teams](https://stackoverflow.co/teams/)
-* [Advertising](https://stackoverflow.co/advertising/)
-* [Collectives](https://stackoverflow.co/collectives/)
-* [Talent](https://stackoverflow.co/talent/)
+* [Teams](https://stackoverflow.co/teams/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=teams)
+* [Advertising](https://stackoverflow.co/advertising/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=advertising)
+* [Collectives](https://stackoverflow.co/collectives/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=collectives)
+* [Talent](https://stackoverflow.co/advertising/employer-branding/?utm_medium=referral&utm_source=stackoverflow-community&utm_campaign=footer&utm_content=talent)
 
 ##### [Company](https://stackoverflow.co/)
 
@@ -197,4 +194,4 @@ Your usage of automated data-gathering means is exempt from this policy if eithe
 * [LinkedIn](https://linkedin.com/company/stack-overflow)
 * [Instagram](https://www.instagram.com/thestackoverflow)
 
-Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.6.20.11233
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.7.18.12879
