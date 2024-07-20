@@ -37,7 +37,7 @@ By using the Simplenote app or web app (“Service”), you are agreeing to be b
 * [Developers](https://simplenote.com/developers/)
 * [Terms & Conditions](https://simplenote.com/terms/)
 * [Privacy](https://automattic.com/privacy/)
-* [Press](https://simplenoteblog.files.wordpress.com/2021/09/simplenote_press_kit_2021.zip)
+* [Press](https://automattic.com/press/)
 * [Privacy Notice for California Users](https://automattic.com/privacy/#california-consumer-privacy-act-ccpa)
 * [© Automattic](https://automattic.com/)
 
