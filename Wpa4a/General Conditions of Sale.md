@@ -131,7 +131,7 @@ Password
 
  
 
-* * *
+Show Password
 
 [Register](https://wpa4a.org/register/?itsec-hb-token=wp-signup.php) | [Lost Password?](https://wpa4a.org/login/?itsec-hb-token=wp-manage&action=reset_pass)
 
