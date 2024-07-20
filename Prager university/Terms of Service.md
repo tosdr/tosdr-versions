@@ -65,11 +65,13 @@ Main Menu
     
     [PragerU in Schools Petition](https://www.prageru.com/prageru-in-schools-petition)
     
+    [Parent Alert](https://www.prageru.com/series/parent-alert)
+    
     [Cash Course E-learning](https://www.prageru.com/cashcourse)
     
     [Educator Resources](https://www.prageru.com/prageru-in-your-school)
     
-    [Parent Resources](https://www.prageru.com/kids/resources)
+    [Watch Challenge](https://www.prageru.com/prageru-kids-red-white-and-you)
     
     [Grades K - 5th:](https://www.prageru.com/kids/browse?refinementList%5BgradeLevel%5D%5B0%5D=K-2nd&refinementList%5BgradeLevel%5D%5B1%5D=3rd-5th&page=1&configure%5BhitsPerPage%5D=12)
     
@@ -153,7 +155,7 @@ Main Menu
     
     [PragerU Merch](https://shop.prageru.com/)
     
-    [Kids Books](https://www.prageru.com/kids/read)
+    [Kids Books](https://shop.prageru.com/collections/prageru-kids-book-bundles)
     
 * Login
 * [Search](https://www.prageru.com/search)
