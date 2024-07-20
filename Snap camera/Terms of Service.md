@@ -4,4 +4,4 @@ Oops! Something went wrong…
 
 Try [another browser](https://www.google.com/chrome/), reload the page, or visit [Snapchat Support](https://help.snapchat.com/hc/?utm_source=sc&utm_medium=source_code&utm_campaign=error_message) for help.
 
-Snapchat v12.89.0 (prod 24226e4e)
+Snapchat v12.92.0 (prod 4d39f7b0)
