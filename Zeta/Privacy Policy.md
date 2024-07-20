@@ -251,6 +251,10 @@ Join Our Community
 
 © 2024 Zeta Help Inc. All rights reserved.
 
+2261 Market Street #4718
+
+San Francisco, CA 94114
+
 [About](https://www.askzeta.com/aboutus)
 
 [Diversity |](https://www.askzeta.com/diversity) 
@@ -310,6 +314,10 @@ Join Our Community
 [](https://www.tiktok.com/@askzeta)
 
 © 2024 Zeta Help Inc. All rights reserved.
+
+2261 Market Street #4718
+
+San Francisco, CA 94114
 
 * * *
 
