@@ -98,13 +98,14 @@
         2023 Report
         
         [Read now](https://www.siteminder.com/hotel-booking-trends/)
-* English
+* EN
     * [Français](https://www.siteminder.com/fr/legal/politique-de-confidentialite/)
     * [Deutsch](https://www.siteminder.com/de/legal/datenschutzrichtlinien/)
     * [Español](https://www.siteminder.com/es/legal/politica-de-privacidad/)
     * [Italiano](https://www.siteminder.com/it/legale/politica-sulla-privacy/)
     * [Português](https://www.siteminder.com/pt/legal/politica-de-privacidade/)
     * [ไทย](https://www.siteminder.com/th/legal/privacy/)
+* [Contact us](https://www.siteminder.com/contact-sales/)
 * [Start free trial](https://www.siteminder.com/start-free-trial/)[Login](https://authx.siteminder.com/login)
 
 Privacy Policy
