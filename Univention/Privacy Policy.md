@@ -1,6 +1,4 @@
-[![Univention Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20160%2039'%3E%3C/svg%3E)
-
-![Univention Logo](https://www.univention.com/wp-content/uploads/2024/01/univention-logo.svg)](https://www.univention.com/)
+[![Univention Logo](https://www.univention.com/wp-content/uploads/2024/01/univention-logo.svg)](https://www.univention.com/)
 
 Toggle navigation
 
@@ -41,16 +39,8 @@ Toggle navigation
 
 Get started
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2027%2029'%3E%3C/svg%3E)
-    
-    ![](https://www.univention.com/wp-content/uploads/2024/03/download-white.svg)
-    
-    UCS Download VMware, Virtual Box, ESX, KVM](https://www.univention.com/download-ucs/)
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2027%2020'%3E%3C/svg%3E)
-    
-    ![](https://www.univention.com/wp-content/uploads/2024/03/portal-white.svg)
-    
-    Book an Appointment Individual Online Appointment](https://www.univention.com/get-appointment/)
+*  [![](https://www.univention.com/wp-content/uploads/2024/03/download-white.svg) UCS Download VMware, Virtual Box, ESX, KVM](https://www.univention.com/download-ucs/)
+*  [![](https://www.univention.com/wp-content/uploads/2024/03/portal-white.svg) Book an Appointment Individual Online Appointment](https://www.univention.com/get-appointment/)
 
 Search 
 
@@ -421,19 +411,13 @@ E-Mail: [office@datenschutz-nord.de](mailto:office@datenschutz-nord.de)
 
 If you do contact our data protection officer, please also specify the controller as named in the [Imprint](https://www.univention.com/imprint/).
 
-* [![Chat](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2025'%3E%3C/svg%3E)
-    
-    ![Chat](https://www.univention.com/wp-content/uploads/2024/02/bubbles.svg)
+* [![Chat](https://www.univention.com/wp-content/uploads/2024/02/bubbles.svg)
     
     Write us](https://www.univention.com/contact/)
-* [![Icon Demo Termin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2037'%3E%3C/svg%3E)
-    
-    ![Icon Demo Termin](https://www.univention.com/wp-content/uploads/2024/04/icon-demo-termin.svg)
+* [![Icon Demo Termin](https://www.univention.com/wp-content/uploads/2024/04/icon-demo-termin.svg)
     
     Book appointment](https://www.univention.com/get-appointment/)
-* [![Download](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2027%2029'%3E%3C/svg%3E)
-    
-    ![Download](https://www.univention.com/wp-content/uploads/2024/02/download.svg)
+* [![Download](https://www.univention.com/wp-content/uploads/2024/02/download.svg)
     
     UCS Download](https://www.univention.com/download-ucs/)
 
