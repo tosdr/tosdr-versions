@@ -133,8 +133,8 @@ If you believe that your work has been copied and is accessible on this site in 
 6. A physical, electronic or digital signature, in a form reasonably acceptable to Slashdot Media, of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 7. Send the written communication to the following contact:  
     Slashdot Media  
-    PO Box 2452  
-    La Jolla, CA 92038  
+    PO Box 12190  
+    San Diego, CA 92112  
     Attention: Vice President Business Affairs & General Counsel.
 8. Send electronically-signed communication to [\[email protected\]](https://slashdotmedia.com/cdn-cgi/l/email-protection). A copy of your notice (with your personal contact information removed) may be forwarded to Chilling Effects (https://www.chillingeffects.org) for publication. A link to your published notice may also be displayed in our Site search results in place of the removed material.
 
@@ -147,13 +147,13 @@ DMCA Counter-Notification Procedure: After receiving a notification of alleged i
 5. Sign the paper or affix an electronic or digital signature to the communication in a form reasonably acceptable to Slashdot Media.
 6. Send written communication to the following address:  
     Slashdot Media  
-    PO Box 2452  
-    La Jolla, CA 92038  
+    PO Box 12190  
+    San Diego, CA 92112  
     Attention: Vice President Business Affairs & General Counsel.
 7. Send the written communication to the following contact:  
     Slashdot Media  
-    PO Box 2452  
-    La Jolla, CA 92038  
+    PO Box 12190  
+    San Diego, CA 92112  
     Attention: Vice President Business Affairs & General Counsel.
 8. Send electronically- or digitally-signed communication to [\[email protected\]](https://slashdotmedia.com/cdn-cgi/l/email-protection). Upon receipt of a counter notification in substantial compliance with the DMCA, Slashdot Media will provide the person who provided the initial notification of claimed infringement with a copy of the counter notification promptly. After receipt of the counter notification, Slashdot Media will generally replace the removed material and cease disabling access to it, unless Slashdot Media’s designated agent first receives notice from the person who submitted the initial notification that such person has filed an action seeking a court order regarding the removed material.
 
