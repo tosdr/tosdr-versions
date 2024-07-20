@@ -44,7 +44,7 @@ Menu
         * [Remote access and management](https://www.realvnc.com/en/discover/remote-desktop/)
         * [Remote work from home access](https://www.realvnc.com/en/discover/remote-work-from-home-access/)
         * [Mobile access and management](https://www.realvnc.com/en/discover/ios-and-android-remote-access-software/)
-        * [Learning and Training](https://www.realvnc.com/en/discover/remote-learning-and-training/)
+        * [On-Demand Assist](https://www.realvnc.com/en/connect/on-demand-assist/)
         * [Remote Support](https://www.realvnc.com/en/discover/remote-access-instant-customer-support/)
         * [On-Premise Solution](https://www.realvnc.com/en/discover/on-premise-solution/)
         * [Remote vendor access](https://www.realvnc.com/en/discover/remote-vendor-access/)
@@ -86,6 +86,26 @@ Menu
 
 [Buy now](https://www.realvnc.com/en/connect/pricing/)
 
+[View Pricing](https://www.realvnc.com/en/connect/pricing/)
+
+[Contact Sales](https://www.realvnc.com/en/contact-us/)
+
+[Request Demo](https://www.realvnc.com/en/request-demo)
+
+[Compare options](https://www.realvnc.com/en/discover/webinar/deep-dive-comparison-remote-access-tools/)
+
+[Buy now](https://www.realvnc.com/en/connect/pricing/)
+
+[Get Started](https://manage.realvnc.com/trial)
+
+[View Pricing](https://www.realvnc.com/en/connect/pricing/)
+
+[Contact Sales](https://www.realvnc.com/en/contact-us/)
+
+[Request Demo](https://www.realvnc.com/en/request-demo)
+
+[Compare options](https://www.realvnc.com/en/discover/webinar/deep-dive-comparison-remote-access-tools/)
+
 * [Products](#products)
     * [RealVNC Connect
         
@@ -106,7 +126,7 @@ Menu
         * [Remote access and management](https://www.realvnc.com/en/discover/remote-desktop/)
         * [Remote work from home access](https://www.realvnc.com/en/discover/remote-work-from-home-access/)
         * [Mobile access and management](https://www.realvnc.com/en/discover/ios-and-android-remote-access-software/)
-        * [Learning and Training](https://www.realvnc.com/en/discover/remote-learning-and-training/)
+        * [On-Demand Assist](https://www.realvnc.com/en/connect/on-demand-assist/)
         * [Remote Support](https://www.realvnc.com/en/discover/remote-access-instant-customer-support/)
         * [On-Premise Solution](https://www.realvnc.com/en/discover/on-premise-solution/)
         * [Remote vendor access](https://www.realvnc.com/en/discover/remote-vendor-access/)
@@ -166,7 +186,7 @@ Menu
         * [Remote access and management](https://www.realvnc.com/en/discover/remote-desktop/)
         * [Remote work from home access](https://www.realvnc.com/en/discover/remote-work-from-home-access/)
         * [Mobile access and management](https://www.realvnc.com/en/discover/ios-and-android-remote-access-software/)
-        * [Learning and Training](https://www.realvnc.com/en/discover/remote-learning-and-training/)
+        * [On-Demand Assist](https://www.realvnc.com/en/connect/on-demand-assist/)
         * [Remote Support](https://www.realvnc.com/en/discover/remote-access-instant-customer-support/)
         * [On-Premise Solution](https://www.realvnc.com/en/discover/on-premise-solution/)
         * [Remote vendor access](https://www.realvnc.com/en/discover/remote-vendor-access/)
@@ -290,7 +310,7 @@ We are RealVNC Limited, an English company with company number 04446945 (RealVNC
 
 Our registered address is 50-60 Station Road, Cambridge, CB1 2JH, United Kingdom.
 
-RealVNC has appointed Mishcon de Reya LLP as our Data Protection Officer.
+We have appointed a representative in the EU. You can contact them by post at Mishcon de Reya Representative Services (Europe) Limited, 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, D04 XN32, Ireland, or by email at [\[email protected\]](https://www.realvnc.com/cdn-cgi/l/email-protection).
 
 ### How do we use your data?
 
@@ -598,11 +618,11 @@ Secure remote access trusted by professionals
 
 ###### Partners
 
-* [Become a partner](https://www.realvnc.com/en/contact-us/?enquiry_type=Channel%20Partner%20enquiry&message=Channel%20Partner%20Inquiry%20-)
+* [Become a Partner](https://www.realvnc.com/en/partner-program/)
 * [Resellers](https://www.realvnc.com/en/connect/reseller/americas/)
 * [Distributors](https://www.realvnc.com/en/connect/distributor/americas/)
 
-* [Become a partner](https://www.realvnc.com/en/contact-us/?enquiry_type=Channel%20Partner%20enquiry&message=Channel%20Partner%20Inquiry%20-)
+* [Become a Partner](https://www.realvnc.com/en/partner-program/)
 * [Resellers](https://www.realvnc.com/en/connect/reseller/americas/)
 * [Distributors](https://www.realvnc.com/en/connect/distributor/americas/)
 
