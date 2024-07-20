@@ -133,6 +133,7 @@ To contact us, please use the contact information in the table below. You may al
 | Orlando Sentinel | 407-420-5353 | [orlandosentinel.com/customerservice](http://orlandosentinel.com/customerservice) |
 | Sun Sentinel | 954-375-2018 | [sunsentinel.com/customerservice](http://sunsentinel.com/customerservice) |
 | The Virginian-Pilot | 757-446-9000 | [pilotonline.com/customerservice](http://pilotonline.com/customerservice) |
+| The Baltimore Sun | 443-692-9011 | [baltimoresun.com/customerservice](http://baltimoresun.com/customerservice) |
 
 * [Privacy Policy](https://www.tribpub.com/privacy-policy/)
 * [Terms and Conditions](https://www.tribpub.com/terms-and-conditions/)
