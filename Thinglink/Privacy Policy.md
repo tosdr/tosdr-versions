@@ -263,11 +263,9 @@ Sign up
 
  OR
 
-[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=XDRN8vofirgBE4UeZ98qff&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/architecture "Login with Microsoft.")   [](# "Login with Google.")8-pelp7DNyqsb0tOh2NVbgCKa-vA6lp5H127vOZkkm3Q4xzhxQe4yd-cAOizCSdg
+[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=4fjjs9UqUT5dbMfem388R3&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/architecture "Login with Microsoft.")   [](# "Login with Google.")m98Ed87iGDn3r17LHwEXSw9uIJh9LVDOAif7EOIOdENI3E4-t0c9jd-cAOizCSdg
 
-  [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/architecture "Login with Facebook.") [Login with X](https://www.thinglink.com/action/twitter_login?destination=/architecture "Login with X")
-
-[Login with MPASSid](https://www.thinglink.com/auth/mpassid/login "Login with MPASSid")
+  [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/architecture "Login with Facebook.") [Login with MPASSid](https://www.thinglink.com/auth/mpassid/login "Login with MPASSid")
 
 Already have an account? [Log in](https://www.thinglink.com/login)
 
