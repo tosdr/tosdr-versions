@@ -1,6 +1,7 @@
 [![Sessionslive](https://sessionslive.com/wp-content/uploads/2024/03/Sessions_Live_Logo_svg.svg)](https://sessionslive.com/ "Sessionslive")
 
 * [카지노 사이트](https://sessionslive.com/)
+* [회사 소개](https://sessionslive.com/about-us/)
 * [에볼루션 바카라](https://sessionslive.com/evolution-baccarat/)
 * [카지노 게임](https://sessionslive.com/casino-game/)
 * [홀덤사이트](https://sessionslive.com/holdem-site/)
@@ -498,6 +499,7 @@ RTP를 공개하지 않는 사이트는 신뢰성이 떨어집니다. 비디오 
 [![Sessionslive](https://sessionslive.com/wp-content/uploads/2024/03/Sessions_Live_Logo_svg.svg)](https://sessionslive.com/ "Sessionslive")
 
 * [카지노 사이트](https://sessionslive.com/)
+* [회사 소개](https://sessionslive.com/about-us/)
 * [에볼루션 바카라](https://sessionslive.com/evolution-baccarat/)
 * [카지노 게임](https://sessionslive.com/casino-game/)
 * [홀덤사이트](https://sessionslive.com/holdem-site/)
