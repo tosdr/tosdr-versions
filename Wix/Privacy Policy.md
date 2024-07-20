@@ -105,7 +105,7 @@
         
         Build sites & apps and offer dev services.
         
-    * [Enterprise](https://www.wix.com/enterprise)
+    * [Enterprise](https://www.wix.com/studio/enterprise)
         
         Discover solutions for large-scale businesses.
         
@@ -129,7 +129,7 @@
     
     SUPPORT
     
-    * [Help Center](https://support.wix.com/en/)
+    * [Help Center](https://support.wix.com/en)
         
         Find the answers and support you need.
         
@@ -153,12 +153,12 @@
         Explore tools to help you run & grow your business.
         
     
-    FEATURED ARTICLE[Learn how to create a website →![](https://static.wixstatic.com/media/4d3d85_84d8a9f7cd544212ab5c88117dcca70b~mv2.jpg)](https://www.wix.com/blog/how-to-build-website-from-scratch-guide)
+    FEATURED ARTICLE[Learn how to create a website →![](https://static.wixstatic.com/media/22a917_59b1d50700814897907e44537d9eea19~mv2.webp)](https://www.wix.com/blog/how-to-build-website-from-scratch-guide)
     
 * [Pricing](https://www.wix.com/plans)
 
 * [Wix Studio](https://www.wix.com/studio)
-* [Enterprise](https://www.wix.com/enterprise)
+* [Enterprise](https://www.wix.com/studio/enterprise)
 
 top of page
 
@@ -774,7 +774,7 @@ Solutions
 * [Portfolio Website](https://www.wix.com/portfolio-website)
 * [eCommerce Website](https://www.wix.com/ecommerce/website)
 * [Wix Studio](https://www.wix.com/studio)
-* [Enterprise Solutions](https://www.wix.com/enterprise)
+* [Enterprise Solutions](https://www.wix.com/studio/enterprise)
 * [Student Website](https://www.wix.com/students)
 * [Professional Tools](https://www.wix.com/tools)
 * [Logo Maker](https://www.wix.com/logo/maker)
