@@ -322,7 +322,7 @@ uk
 
 America
 
-[United States (English)](https://www.bitrix24.com/terms/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/terms/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/terms/?moved_from=AE) [México (Español)](https://www.bitrix24.mx/terms/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/terms/?moved_from=CO)
+[United States (English)](https://www.bitrix24.com/terms/?moved_from=US) [América Latina (Español)](https://www.bitrix24.es/terms/?moved_from=ES) [Brasil (Português)](https://www.bitrix24.com.br/terms/?moved_from=BR) [México (Español)](https://www.bitrix24.mx/terms/?moved_from=MX) [Colombia (Español)](https://www.bitrix24.co/terms/?moved_from=CO)
 
 Europe
 
