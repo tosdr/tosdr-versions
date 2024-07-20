@@ -2,33 +2,62 @@
 
 Yelp for Business
 
-[Write a Review](https://www.yelp.com/writeareview)[Log In](https://www.yelp.com/login?return_url=http%3A%2F%2Fwww.yelp.com%2Fguidelines)[Sign Up](https://www.yelp.com/signup?return_url=http%3A%2F%2Fwww.yelp.com%2Fguidelines)
+[Write a Review](https://www.yelp.com/writeareview)
 
-[Restaurants](https://www.yelp.com/search?find_desc=Restaurants&find_loc=San%20Francisco%2C%20CA)
+Start a Project
 
-[Delivery](https://www.yelp.com/search?find_desc=Delivery&find_loc=San%20Francisco%2C%20CA)[Burgers](https://www.yelp.com/search?find_desc=Burgers&find_loc=San%20Francisco%2C%20CA)[Chinese](https://www.yelp.com/search?find_desc=Chinese&find_loc=San%20Francisco%2C%20CA)[Italian](https://www.yelp.com/search?find_desc=Italian&find_loc=San%20Francisco%2C%20CA)
+[Log In](https://www.yelp.com/login?return_url=http%3A%2F%2Fwww.yelp.com%2Fguidelines)[Sign Up](https://www.yelp.com/signup?return_url=http%3A%2F%2Fwww.yelp.com%2Fguidelines)
 
-[Reservations](https://www.yelp.com/search?find_desc=Reservations&find_loc=San%20Francisco%2C%20CA)[Japanese](https://www.yelp.com/search?find_desc=Japanese&find_loc=San%20Francisco%2C%20CA)[Mexican](https://www.yelp.com/search?find_desc=Mexican&find_loc=San%20Francisco%2C%20CA)[Thai](https://www.yelp.com/search?find_desc=Thai&find_loc=San%20Francisco%2C%20CA)
-
-[Home Services](https://www.yelp.com/search?find_desc=Home%20Services&find_loc=San%20Francisco%2C%20CA)
-
-[Contractors](https://www.yelp.com/search?find_desc=Contractors&find_loc=San%20Francisco%2C%20CA)[Electricians](https://www.yelp.com/search?find_desc=Electricians&find_loc=San%20Francisco%2C%20CA)[Home Cleaners](https://www.yelp.com/search?find_desc=Home%20Cleaners&find_loc=San%20Francisco%2C%20CA)[HVAC](https://www.yelp.com/search?find_desc=HVAC&find_loc=San%20Francisco%2C%20CA)
-
-[Landscaping](https://www.yelp.com/search?find_desc=Landscaping&find_loc=San%20Francisco%2C%20CA)[Locksmiths](https://www.yelp.com/search?find_desc=Locksmiths&find_loc=San%20Francisco%2C%20CA)[Movers](https://www.yelp.com/search?find_desc=Movers&find_loc=San%20Francisco%2C%20CA)[Plumbers](https://www.yelp.com/search?find_desc=Plumbers&find_loc=San%20Francisco%2C%20CA)
-
-[Auto Services](https://www.yelp.com/search?find_desc=Auto%20Services&find_loc=San%20Francisco%2C%20CA)
-
-[Auto Repair](https://www.yelp.com/search?find_desc=Auto%20Repair&find_loc=San%20Francisco%2C%20CA)[Auto Detailing](https://www.yelp.com/search?find_desc=Auto%20Detailing&find_loc=San%20Francisco%2C%20CA)[Body Shops](https://www.yelp.com/search?find_desc=Body%20Shops&find_loc=San%20Francisco%2C%20CA)[Car Wash](https://www.yelp.com/search?find_desc=Car%20Wash&find_loc=San%20Francisco%2C%20CA)
-
-[Car Dealers](https://www.yelp.com/search?find_desc=Car%20Dealers&find_loc=San%20Francisco%2C%20CA)[Oil Change](https://www.yelp.com/search?find_desc=Oil%20Change&find_loc=San%20Francisco%2C%20CA)[Parking](https://www.yelp.com/search?find_desc=Parking&find_loc=San%20Francisco%2C%20CA)[Towing](https://www.yelp.com/search?find_desc=Towing&find_loc=San%20Francisco%2C%20CA)
-
-More
-
-[Dry Cleaning](https://www.yelp.com/search?find_desc=Dry%20Cleaning&find_loc=San%20Francisco%2C%20CA)[Phone Repair](https://www.yelp.com/search?find_desc=Phone%20Repair&find_loc=San%20Francisco%2C%20CA)[Bars](https://www.yelp.com/search?find_desc=Bars&find_loc=San%20Francisco%2C%20CA)[Nightlife](https://www.yelp.com/search?find_desc=Nightlife&find_loc=San%20Francisco%2C%20CA)
-
-[Hair Salons](https://www.yelp.com/search?find_desc=Hair%20Salons&find_loc=San%20Francisco%2C%20CA)[Gyms](https://www.yelp.com/search?find_desc=Gyms&find_loc=San%20Francisco%2C%20CA)[Massage](https://www.yelp.com/search?find_desc=Massage&find_loc=San%20Francisco%2C%20CA)[Shopping](https://www.yelp.com/search?find_desc=Shopping&find_loc=San%20Francisco%2C%20CA)
-
-More
+1. [Restaurants](https://www.yelp.com/search?find_desc=Restaurants&find_loc=San+Francisco%2C+CA)
+    
+    * [Delivery](https://www.yelp.com/search?find_desc=Delivery&find_loc=San+Francisco%2C+CA)
+    * [Burgers](https://www.yelp.com/search?find_desc=Burgers&find_loc=San+Francisco%2C+CA)
+    * [Chinese](https://www.yelp.com/search?find_desc=Chinese&find_loc=San+Francisco%2C+CA)
+    * [Italian](https://www.yelp.com/search?find_desc=Italian&find_loc=San+Francisco%2C+CA)
+    
+    * [Reservations](https://www.yelp.com/search?find_desc=Reservations&find_loc=San+Francisco%2C+CA)
+    * [Japanese](https://www.yelp.com/search?find_desc=Japanese&find_loc=San+Francisco%2C+CA)
+    * [Mexican](https://www.yelp.com/search?find_desc=Mexican&find_loc=San+Francisco%2C+CA)
+    * [Thai](https://www.yelp.com/search?find_desc=Thai&find_loc=San+Francisco%2C+CA)
+    
+2. [Home Services](https://www.yelp.com/search?find_desc=Home+Services&find_loc=San+Francisco%2C+CA)
+    
+    * [Contractors](https://www.yelp.com/search?find_desc=Contractors&find_loc=San+Francisco%2C+CA)
+    * [Electricians](https://www.yelp.com/search?find_desc=Electricians&find_loc=San+Francisco%2C+CA)
+    * [Home Cleaners](https://www.yelp.com/search?find_desc=Home+Cleaners&find_loc=San+Francisco%2C+CA)
+    * [HVAC](https://www.yelp.com/search?find_desc=HVAC&find_loc=San+Francisco%2C+CA)
+    
+    * [Landscaping](https://www.yelp.com/search?find_desc=Landscaping&find_loc=San+Francisco%2C+CA)
+    * [Locksmiths](https://www.yelp.com/search?find_desc=Locksmiths&find_loc=San+Francisco%2C+CA)
+    * [Movers](https://www.yelp.com/search?find_desc=Movers&find_loc=San+Francisco%2C+CA)
+    * [Plumbers](https://www.yelp.com/search?find_desc=Plumbers&find_loc=San+Francisco%2C+CA)
+    
+3. [Auto Services](https://www.yelp.com/search?find_desc=Auto+Services&find_loc=San+Francisco%2C+CA)
+    
+    * [Auto Repair](https://www.yelp.com/search?find_desc=Auto+Repair&find_loc=San+Francisco%2C+CA)
+    * [Auto Detailing](https://www.yelp.com/search?find_desc=Auto+Detailing&find_loc=San+Francisco%2C+CA)
+    * [Body Shops](https://www.yelp.com/search?find_desc=Body+Shops&find_loc=San+Francisco%2C+CA)
+    * [Car Wash](https://www.yelp.com/search?find_desc=Car+Wash&find_loc=San+Francisco%2C+CA)
+    
+    * [Car Dealers](https://www.yelp.com/search?find_desc=Car+Dealers&find_loc=San+Francisco%2C+CA)
+    * [Oil Change](https://www.yelp.com/search?find_desc=Oil+Change&find_loc=San+Francisco%2C+CA)
+    * [Parking](https://www.yelp.com/search?find_desc=Parking&find_loc=San+Francisco%2C+CA)
+    * [Towing](https://www.yelp.com/search?find_desc=Towing&find_loc=San+Francisco%2C+CA)
+    
+4. More
+    
+    * [Dry Cleaning](https://www.yelp.com/search?find_desc=Dry+Cleaning&find_loc=San+Francisco%2C+CA)
+    * [Phone Repair](https://www.yelp.com/search?find_desc=Phone+Repair&find_loc=San+Francisco%2C+CA)
+    * [Bars](https://www.yelp.com/search?find_desc=Bars&find_loc=San+Francisco%2C+CA)
+    * [Nightlife](https://www.yelp.com/search?find_desc=Nightlife&find_loc=San+Francisco%2C+CA)
+    
+    * [Hair Salons](https://www.yelp.com/search?find_desc=Hair+Salons&find_loc=San+Francisco%2C+CA)
+    * [Gyms](https://www.yelp.com/search?find_desc=Gyms&find_loc=San+Francisco%2C+CA)
+    * [Massage](https://www.yelp.com/search?find_desc=Massage&find_loc=San+Francisco%2C+CA)
+    * [Shopping](https://www.yelp.com/search?find_desc=Shopping&find_loc=San+Francisco%2C+CA)
+    
+5. More
+    
 
 About Yelp
 
@@ -116,6 +145,8 @@ Yelp for Business
 * [Business Success Stories](https://business.yelp.com/resources/case-studies)
 * [Business Support](https://www.yelp-support.com/Yelp_for_Business?l=en_US)
 * [Yelp Blog for Business](https://www.yelpblog.com/section/business)
+* [Yelp Data for B2B](https://knowledge.yelp.com/)
+* [Yelp Data for B2C](https://fusion.yelp.com/)
 
 Languages
 
@@ -138,4 +169,4 @@ United States
 * [Your Privacy Choices](https://www.yelp-support.com/article/Your-Privacy-Choices?l=en_US)
     
 
-Copyright © 2004–2024 Yelp Inc. Yelp, ![Yelp logo](https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/7ef71bf77a33/assets/img/brand/logo_desktop.svg),  ![Yelp burst](https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_design_cdn/cabcef1daea2/assets/img/brand/burst_red.svg) and related marks are registered trademarks of Yelp.
+Copyright © 2004–2024 Yelp Inc. Yelp, ![Yelp logo](https://s3-media0.fl.yelpcdn.com/assets/public/default.yji-0a2bf1d9c330d8747446.svg),  ![Yelp burst](https://s3-media0.fl.yelpcdn.com/assets/public/burst_red.yji-cd2b52be86fc0d429af5.svg) and related marks are registered trademarks of Yelp.
