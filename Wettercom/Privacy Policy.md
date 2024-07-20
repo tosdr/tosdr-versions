@@ -2,7 +2,7 @@
 
 Menü
 
-  [![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202406201023 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")  ![Progress Pride Flagge](https://cs3.wettercomassets.com/wcomv5/images/logo_pride_addition.svg?202406201023)](https://www.wetter.com/)
+[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202407181245 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
 
 [](javascript:void(0);)
 
@@ -197,7 +197,7 @@ Menü
     * [Reisen & Freizeit](https://www.wetter.com/reise/)
     * [Reiseplanung](https://www.wetter.com/reise/urlaubswetter/)
     * [Urlaubswetter](https://www.wetter.com/reise/urlaubswetter/)
-    * [Reisezeit](https://www.wetter.com/reise/klima/)
+    * [Reisezeit](https://www.wetter.com/reise/)
     * [Outdoor Spaß](https://www.wetter.com/freizeit/)
     * [Grillwetter](https://www.wetter.com/freizeit/grillwetter/)
     * [Gartenwetter](https://www.wetter.com/freizeit/gartenwetter/)
@@ -1126,7 +1126,7 @@ Reichenaustraße 19a
 78467 Konstanz  
 [contact@wetter.com](mailto:contact@wetter.com)
 
-![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202406201023 "wetter.com")
+![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202407181245 "wetter.com")
 
 [Zurück](#) [Schließen ✕](#)
 
@@ -1144,10 +1144,10 @@ Mehr Informationen zu Werbung und Tracking findest du in unseren [Datenschutzhin
 
 Nutze wetter.com und viele weitere Websites ganz ohne Werbebanner, personalisiertes Tracking und Werbespots für nur 3,99€ / Monat.
 
- ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202406201023 "contentpass") Werbefrei für 3,99€ / Monat
+ ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202407181245 "contentpass") Werbefrei für 3,99€ / Monat
 
 Bereits contentpass-Mitglied?  
- [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202406201023 "contentpass") Hier einloggen](#).
+ [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202407181245 "contentpass") Hier einloggen](#).
 
 Wir nutzen ausschließlich Cookies und andere Technologien, die zur Bereitstellung unseres Angebotes unbedingt erforderlich sind. Details zum Abo findest du [hier](https://my.contentpass.net/) und in unseren [Datenschutzhinweisen (contentpass-Abo)](https://www.wetter.com/datenschutz/pay/).
 
