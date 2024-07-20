@@ -142,7 +142,7 @@ This site Global search
         * [Joint Teaching & Degrees](https://english.tau.ac.il/joint-teaching-and-degrees)
         * [Mobility Programs](https://english.tau.ac.il/mobility-programs)
         * [Customized & Faculty-Led Programs](https://international.tau.ac.il/Customized_FacultyLed_Programs)
-        * [Current Joint Funding Opportunities](https://international.tau.ac.il/programs-TAU-partners)
+        * [Current Joint Funding Opportunities](https://international.tau.ac.il/research-collaboration-opportunities)
 
 You are here
 
@@ -483,7 +483,7 @@ Quick Links
     * [Emergency Contacts](http://english.tau.ac.il/emergency_numbers)
     * [Phone Directory](http://www.tau.ac.il/dirsearch-eng.html)
     * [Dean of Students](http://english.tau.ac.il/dean_of_students)
-    * [Sexual Harassment Prevention](https://harassment-prevention.tau.ac.il/safe-campus/english)
+    * [Sexual Harassment Prevention](https://harassment-prevention.tau.ac.il/safe-campus/main)
     * [Student Union](http://english.tau.ac.il/student_union)
     * [Computer Services](http://www.tau.ac.il/cc/)
     * [Academic Calendar](http://english.tau.ac.il/academic_calendar)
