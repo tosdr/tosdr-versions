@@ -34,6 +34,8 @@
 * [Policies and reports](https://about.open.ac.uk/strategy-and-policies)
 * [Teaching and research](https://about.open.ac.uk/teaching-and-research)
 
+[Accessiblity statement](https://about.open.ac.uk/accessibility-statement)
+
 You are here
 ------------
 
