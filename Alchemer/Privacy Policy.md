@@ -499,7 +499,11 @@ Effective: May 25, 2018
 
 Updated:  July 2, 2024
 
-[![](https://www.alchemer.com/wp-content/uploads/2023/01/alchemer_logo_100.webp)](https://www.alchemer.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20100'%3E%3C/svg%3E)
+
+![](https://www.alchemer.com/wp-content/uploads/2023/01/alchemer_logo_100.webp)](https://www.alchemer.com/)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201520%20473'%3E%3C/svg%3E)
 
 ![](https://www.alchemer.com/wp-content/uploads/2024/05/G2-Spring-2024-Badges-Repeated.webp)
 
@@ -584,6 +588,8 @@ Request a demo so you can see what’s possible for your organization.
                                
 
 Close GDPR Cookie Settings
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2054'%3E%3C/svg%3E)
 
 ![](https://www.alchemer.com/wp-content/uploads/2021/10/alchemer_logotype_gold_formerly_big-e1634230833418-300x54.png)
 
