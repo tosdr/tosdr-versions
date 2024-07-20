@@ -227,6 +227,12 @@ You can see how this popup was set up in our step-by-step guide: https://wppopup
 
 ×
 
+Our Spring Sale Has Started
+
+You can see how this popup was set up in our step-by-step guide: https://wppopupmaker.com/guides/auto-opening-announcement-popups/
+
+×
+
 ##### Categories
 
  [Better Sleep](https://www.thinkrightme.com/category/better-sleep/) [Clean Beauty](https://www.thinkrightme.com/category/clean-beauty/) [Compassion](https://www.thinkrightme.com/category/compassion/) [Culture](https://www.thinkrightme.com/category/culture/) [Fitness](https://www.thinkrightme.com/category/fitness/) [Inspiration](https://www.thinkrightme.com/category/inspiration/) [Love & Relationships](https://www.thinkrightme.com/category/love-relationships/) [Meditation](https://www.thinkrightme.com/category/meditation/) [Meditation Music](https://www.thinkrightme.com/category/meditation-music/) [Meditation news](https://www.thinkrightme.com/category/meditation-news/) [Mental Health 101](https://www.thinkrightme.com/category/mental-health-101/) [Mindful Eating](https://www.thinkrightme.com/category/mindful-eating/) [Mindfulness](https://www.thinkrightme.com/category/mindfulness/) [Parenting](https://www.thinkrightme.com/category/parenting/) [Self-Improvement](https://www.thinkrightme.com/category/self-improvement/) [Special Features](https://www.thinkrightme.com/category/special-features/) [Stress Release & Anxiety](https://www.thinkrightme.com/category/stress-release-anxiety/) [Sustainable Fashion](https://www.thinkrightme.com/category/sustainable-fashion/) [Travel](https://www.thinkrightme.com/category/travel/) [Work-Life Balance](https://www.thinkrightme.com/category/work-life-balance/) [Yoga](https://www.thinkrightme.com/category/yoga/)
