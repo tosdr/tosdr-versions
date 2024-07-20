@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=330872206193652&ev=PageView&noscript=1)      
+![fbpx](https://www.facebook.com/tr?id=330872206193652&ev=PageView&noscript=1)       
 
 [Skip to content](#content)
 
@@ -43,6 +43,7 @@
         * [Leave A Legacy](https://uwncnm.org/leave-a-legacy/)
         * [Corporate & Workplace Giving](https://uwncnm.org/corporate-giving/)
     * [Volunteer](https://uwncnm.org/volunteer/)
+        * [Week of Caring](https://uwncnm.org/week-of-caring/)
     * [Events](https://uwncnm.org/events/)
 * [Community Grants](https://uwncnm.org/community-investment-grants/)
     * [Emergency Food & Shelter Program](https://uwncnm.org/efsp/)
@@ -88,6 +89,7 @@ Menu
         * [Leave A Legacy](https://uwncnm.org/leave-a-legacy/)
         * [Corporate & Workplace Giving](https://uwncnm.org/corporate-giving/)
     * [Volunteer](https://uwncnm.org/volunteer/)
+        * [Week of Caring](https://uwncnm.org/week-of-caring/)
     * [Events](https://uwncnm.org/events/)
 * [Community Grants](https://uwncnm.org/community-investment-grants/)
     * [Emergency Food & Shelter Program](https://uwncnm.org/efsp/)
