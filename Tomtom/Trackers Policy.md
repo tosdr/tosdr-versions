@@ -24,10 +24,10 @@ Cookies make sure our website and services perform essential functions. They als
 * move.tomtom.com
 * developer.tomtom.com
 * help.tomtom.com
-* discussions.tomtom.com
-* mydrive.tomtom.com
-* mysports.tomtom.com
 * plan.tomtom.com
+* mapexplorer.tomtom.com
+* samplemaps.tomtom.com
+* mapmaker.tomtom.com
 
 What are cookies?
 
@@ -67,19 +67,17 @@ Also helps us with targeted advertising, based on criteria such as web pages vie
 
 Functional and analytical cookies
 
-We use our own TomTom cookies to perform essential functionalities, and Google Analytics, SiteSpect, Hotjar, Contentsquare, Salesforce, Pardot, and Tealium to collect site analytics to constantly improve our website.
+We use our own TomTom cookies to perform essential functionalities, and Google Analytics, Mopinion, Contentsquare, Salesforce, HubSpot, VWO, and Tealium to collect site analytics to constantly improve our website.
 
   
 
 * Contentsquare: With Contentsquare we analyze improvements on our web pages. We use this knowledge to determine whether the improvements on our websites actually work.
-* Salesforce: We use Salesforce solely for our business-to-business related services. It gives us a better understanding of our 'business customers' intentions and needs.
-* Hotjar: With Hotjar we analyze improvements on our web pages. We use this knowledge to determine whether the improvements on our websites actually work.
+* Salesforce: We use Salesforce solely for our business-to-business related services. It gives us a better understanding of our ‘business customers’ intentions and needs.
 * Mopinion: Through the online surveys by Mopinion we collect information about the use of our website and services.
-* SiteSpect: With SiteSpect we test improvements on our web pages. We use this knowledge to determine whether the improvements on our websites actually work.
-* Pardot: We use Pardot solely for our business-to-business related services, to understand what our business customers are interested in when visiting our website.
+* VWO: With VWO we test improvements on our web pages. We use this knowledge to determine whether the improvements on our websites actually work.
 * Tealium: Tealium makes it possible to place and manage other cookies on the website, as well as scripts that are necessary for the website to function.
 * Google Analytics: By implementing this cookie in a privacy-friendly way we collect anonymized web visitor data to help us understand visitor behavior. The insights help us to improve our website.
-* HubSpot: We use HubSpot solely for our business-to-business related services, to understand what our business customers are interested in when visiting our website.
+* Hubspot: We use Hubspot solely for our business-to-business related services, to understand what our business customers are interested in when visiting our website.
 
 Cookie details
 
@@ -111,10 +109,6 @@ The table below explains each individual cookie in terms of what it does, how lo
     
 * campaign\_<utm>
     
-* zarget\_user\_id
-    
-* zarget\_visitor\_info
-    
 * \_ga
     
 * \_gat\_ua\_tracker\_tomtom
@@ -129,14 +123,6 @@ The table below explains each individual cookie in terms of what it does, how lo
     
 * \_cs\_s
     
-* SSID
-    
-* SSLB
-    
-* SSRT
-    
-* SSSC
-    
 * Pastease.passive.chance.
     
 * Pastease.passive.activated.
@@ -148,18 +134,6 @@ The table below explains each individual cookie in terms of what it does, how lo
 * AWSALB
     
 * AWSALBCORS
-    
-* pardot
-    
-* visitor\_id<accounted>
-    
-* visitor\_id<accounted>-hash
-    
-* ipv<accountid>
-    
-* \_hjid
-    
-* \_hjIncludedInSample
     
 * \_hjUserAttributesHash
     
@@ -181,27 +155,86 @@ The table below explains each individual cookie in terms of what it does, how lo
     
 * cookie\_order\_voucher\_code
     
+* vis\_opt\_exp\_{CAMPAIGNID}\_combi
+    
+* vis\_opt\_exp\_{CAMPAIGNID}\_combi\_choose
+    
+* vis\_opt\_exp\_{CAMPAIGNID}\_exclude
+    
+* vis\_opt\_exp\_{CAMPAIGNID}\_goal\_{GOALID}
+    
+* vis\_opt\_exp\_{CAMPAIGNID}\_split
+    
+* vis\_opt\_out
+    
+* vis\_opt\_s
+    
+* vis\_opt\_test\_cookie
+    
+* \_vwo
+    
+* \_vwo\_ds
+    
+* \_vwo\_global\_opt\_out
+    
+* \_vwo\_referrer
+    
+* \_vwo\_sn
+    
+* \_vwo\_ssm
+    
+* \_vwo\_uuid
+    
+* \_vwo\_uuid\_{CAMPAIGNID}
+    
+* \_vwo\_uuid\_v2
+    
+* \_\_hstc
+    
+* hubspotutk
+    
+* \_\_hssc
+    
+* \_\_hssrc
+    
+* \_abck
+    
+* \_ga\_
+    
+* allUtmValues
+    
+* bm\_sz
+    
+* hsConsent
+    
+* mop\_ga
+    
+* mop\_ga\_gid
+    
+* Mp\_\*\_mixpanel
+    
+* RT
+    
+* session\_info
+    
+* tt\_basket\_data
+    
+* tt\_languagepref
+    
 
 Personalization & advertisement cookies
 
-When you visit our website or see our advertisements, we would like to give you a more relevant, personalized experience. In order to do this, we use personalization and advertisement cookies. With these cookies we collect information about your interests and use this information to give you a more personalized experience. Third parties may be able to collect certain data from you as well, such as when you navigate to TomTom websites while you are logged in to your account from that third party. We do not have control over this activity and will not share your data actively with any third party. 
+When you visit our website or see our advertisements, we would like to give you a more relevant, personalized experience. In order to do this, we use personalization and advertisement cookies. With these cookies we collect information about your interests and use this information to give you a more personalized experience. Third parties may be able to collect certain data from you as well, for example when you navigate to TomTom websites while you are logged in to your account from that third party. We do not have control over this activity and will not share your data actively with any third party. 
 
   
 
 * Google Ads: Google Ads tracking makes it possible to display advertisements with the search results of the Google search engine. It is also placed to measure clicks and requests in order to optimize our advertising campaigns.
-* Bing: Bing is a service from Microsoft that makes it possible to display advertisements in the search results of the Bing search engine.
-* Roku: This tracking starts after you visit our website through a partner website. We use these cookies to recognize visitors of our partners.
 * DoubleClick: DoubleClick tracking is used to measure clicks and requests in order to optimize our advertising campaigns.
 * Facebook: This tracking helps deliver our advertising to people who have already visited our website when they are on Facebook or a digital platform powered by Facebook Advertising.
 * LinkedIn: LinkedIn tracking sees which products you are viewing. This allows us to show you relevant advertisements on LinkedIn.
-* Quantcast: This tracking sees which pages you viewed, so we can show you relevant advertisements on partner websites.
-* Twitter: Enables us to track visitor activity from our Twitter ads on our website, and also to allow users to share content from our websites.
-* Unidays: This tracking is placed after you visit our website through a partner website. We use these cookies to recognize visitors of our partners.
-* Lead Forensics: Enables B2B lead generation. Lead Forensics can provide non-personal data in relation to website visits such as business name, address, phone number, industry, turnover, and employee numbers, as well as the pages viewed on our website. Lead Forensics does not use cookies, instead the IP address is used to track and identify relevant business.
-* Yahoo! Japan: Yahoo! Japan ads is a service from Yahoo! Japan that allows you to display ads in the search results of the search engine Yahoo! Japan.
-* ZoomInfo: Enables B2B intent data generation. ZoomInfo can provide non-personal data in relation to website visits such as business name, address, phone number, industry, turnover, and employee numbers, as well as the pages viewed on our website. ZoomInfo does not use cookies; instead, the IP address is used to track and identify relevant businesses.
-
-For test purposes, we use tools such as DemandBase and Lean Onion. Only firmographic data, i.e. business name, address, number of employees, and industry are captured by those tools, and will be deleted accordingly upon termination of the testing period.
+* X (formerly known as Twitter): Enables us to track visitor activity from our X (Twitter) ads on our website, and also to allow users to share content from our websites.
+* ZoomInfo: Enables B2B intent data generation. ZoomInfo can provide non-personal data in relation to website visits such as business name, address, phone number, industry, turnover, and employee numbers, as well as the pages viewed on our website. ZoomInfo does not use cookies, instead the IP address is used to track and identify relevant businesses.
+* DemandBase: This tool assists us in comprehensive Account Based Marketing. It enables B2B lead generation by identifying companies browsing the website.
 
 Advertising platform details
 
@@ -247,52 +280,20 @@ The table below explains each advertising platform in terms of what they do, how
     
 * HSID
     
-* SSID
-    
-* APISID
-    
-* SID
-    
-* SIDCC
-    
-* ANID
-    
-* NID
-    
-* 1P\_JAR
-    
 * twitter\_sess
     
 * \_\_gcl
     
 * SEARCH\_SAMESITE
     
-* MUID
+* tuuid
     
-* MUIDB
-    
-* SRCHUSR
-    
-* SRCHUID
-    
-* SRCHD
-    
-* Dataxu
-    
-* d
-    
-* mc
-    
-* cref
-    
-* UNiDAYS
-    
-* Lead Forensics
+* tuuid\_lu
     
 
 Social plug ins
 
-The ‘Blog articles’, ‘Explore’ and ‘Careers’ sections of the TomTom website make use of third-party applications and services to enhance the experience of website visitors. These include social media platforms such as Facebook, Twitter, LinkedIn, YouTube, and WhatsApp through the use of sharing buttons, and embedded content from YouTube. As a result, when logged-in on one of these social media platforms, cookies that were set by these third parties when logging in will be used to collect the ‘share’ activity. This is an automated data collection method set by the social media platforms.
+The ‘Blog articles’, ‘Explore’ and ‘Careers’ sections of the TomTom website make use of third-party applications and services to enhance the experience of website visitors. These include social media platforms such as Facebook, X (formerly known as Twitter), LinkedIn, YouTube, and WhatsApp through the use of sharing buttons, and embedded content from YouTube. As a result, when logged-in on one of these social media platforms, cookies that were set by these third parties when logging in will be used to collect the ‘share’ activity. This is an automated data collection method set by the social media platforms.
 
 Social custom audience targeting
 
