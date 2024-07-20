@@ -63,7 +63,8 @@ For questions regarding the organization of processing and protection of persona
 Processed Personal Data:  
 
 * Name;
-* Email.
+* Email;
+* Unique identifier of the User used on the Platform (ID).
 
   
 Processing is carried out automatically/with the User's participation:  
@@ -372,7 +373,7 @@ If you have any questions, comments or complaints about this Privacy Policy, ple
   
 If you are not an authorized User of the Platform, please contact us by sending an email to [legal@tilda.cc](mailto:legal@tilda.cc) — on legal issues and [dpo@tilda.cc](mailto:dpo@tilda.cc) — on issues related to the organisation of processing and protection of personal data.
 
-_The current version of the Privacy Policy is dated 31.05.2024_
+_The current version of the Privacy Policy is dated 24.06.2024_
 
 The website you've been dreaming of is just one click away
 
@@ -489,4 +490,4 @@ MORE
 
 ![](https://static.tildacdn.com/img/tildacopy.png)
 
-Tilda](https://tilda.cc/)
+Tilda](https://tilda.ru/)
