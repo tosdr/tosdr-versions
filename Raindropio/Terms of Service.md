@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/raindropio)
 * [Suggest new feature](https://better.raindrop.io/)
 
-Contact us
+[Contact us](https://help.raindrop.io/contact-us)
 
 Search
 
