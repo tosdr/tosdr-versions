@@ -156,7 +156,7 @@ Please note that merchandise may include logos or brand elements that are owned 
 
 **Colorado delivery fees**
 
-1\. Effective July 1, 2022, Colorado imposes a $0.27 retail delivery fee on all deliveries by motor vehicle to a location in Colorado with at least one item of tangible personal property subject to state sales or use tax.
+1\. Effective July 1, 2024, Colorado imposes a $0.29 retail delivery fee on all deliveries by motor vehicle to a location in Colorado with at least one item of tangible personal property subject to state sales or use tax.
 
 2\. The retailer or marketplace facilitator that collects the sales or use tax on the tangible personal property sold and delivered, including delivery by a third party, is liable to collect and remit the retail delivery fee. Deliveries include when any taxable goods are mailed, shipped, or otherwise delivered by motor vehicle to a purchaser in Colorado.
 
