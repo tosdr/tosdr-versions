@@ -1121,6 +1121,8 @@ Vad söker du?
             
     * [Nordsamiska](https://www.svenskakyrkan.se/davvisamigiella-nordsamiska)
         
+        * [Ipmilbálvalus lea rabas buohkaide](https://www.svenskakyrkan.se/ipmilbalvalus-lea-rabas-buohkaide)
+            
         * [Biibbal](https://www.svenskakyrkan.se/biibbal)
             
             * [Boares testameanta](https://www.svenskakyrkan.se/boares-testameanta)
@@ -1155,8 +1157,6 @@ Vad söker du?
             
             * [Vuosttaš veahkki morrašis](https://www.svenskakyrkan.se/vuostta-veahkki-morrais)
                 
-        * [Ipmilbálvalus lea rabas buohkaide](https://www.svenskakyrkan.se/ipmilbalvalus-lea-rabas-buohkaide)
-            
         * [Ná sáhttá girku doarjut du](https://www.svenskakyrkan.se/na-sahtta-girku-doarjut-du)
             
         * [Bargat Ruoŧa girkus mearkkaša bargat juoidá mas berošta](https://www.svenskakyrkan.se/bargat-ruoa-girkus-mearkkaa-bargat-juoida-mas-berota)
