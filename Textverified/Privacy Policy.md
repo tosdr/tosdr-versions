@@ -1,6 +1,14 @@
-[Textverified](https://www.textverified.com/app)
+[](https://www.textverified.com/app)
 
 Open main menu
+
+[](https://www.textverified.com/app)Close main menu
+
+[Overview](https://www.textverified.com/products) [Verifications](https://www.textverified.com/verifications) [Rentals](https://www.textverified.com/rentals) [API](https://www.textverified.com/automate) [Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms) [Contact](https://www.textverified.com/contact-us)
+
+[Sign Up](https://www.textverified.com/register)
+
+Existing customer? [Sign in](https://www.textverified.com/login)
 
 Products
 
@@ -11,14 +19,6 @@ Products
 [Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms)[Contact](https://www.textverified.com/contact-us)
 
 [Sign in](https://www.textverified.com/login) [Sign up](https://www.textverified.com/register)
-
-[Textverified](https://www.textverified.com/app) Close main menu
-
-[Overview](https://www.textverified.com/products) [Verifications](https://www.textverified.com/verifications) [Rentals](https://www.textverified.com/rentals) [API](https://www.textverified.com/automate) [Blog](https://www.textverified.com/blog) [FAQ](https://www.textverified.com/faq) [Terms](https://www.textverified.com/terms) [Contact](https://www.textverified.com/contact-us)
-
-[Sign Up](https://www.textverified.com/register)
-
-Existing customer? [Sign in](https://www.textverified.com/login)
 
 Terms and Conditions
 ====================
