@@ -23,44 +23,121 @@
     * [Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)
 
 ![Illustration of the 20th anniversary celebration with visuals of the
-different Tactical Tech projects.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-hero.jpg)
+different Tactical Tech projects.](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-hero-2.jpg)
 
 20 years building communities’ capacity to tackle the challenges created by technology
 ======================================================================================
 
 [Explore our projects →](https://tacticaltech.org/projects/)
 
-[Donate](https://tacticaltech.org/donate/)[Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)[Subscribe to our newsletter](https://news.tacticaltech.org/subscription/form)
+[Donate](https://tacticaltech.org/donate/)[Shop](https://www.shirtee.com/en/store/everythingwillbefinebytacticaltech/)[Subscribe to our newsletter](https://tacticaltech.org/newsletter-subscription/in-the-loop/)
 
-Our work with partners worldwide focuses on:
---------------------------------------------
-
-Building capacity through collaboration and co-creation
-
-Promoting critical thinking via digital literacy interventions
-
-Field building and advancing specialised knowledge
-
-Highlights
+What we do
 ----------
 
-* ![Marek Tuszynski explaining the Data Detox Bar](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/news/Mozilla-rise25.jpg)
+The intersection of technology with society creates solutions but also intensifies social, political, and environmental crises. We work to enable individuals and communities to navigate these challenges and the impacts of digital technologies. Collaborating with an international network, we co-develop creative public interventions, exhibitions, resources, and training to advance understanding, build capacity, and promote critical thinking.
+
+Public Interventions, exhibitions and experiencesExperiences designed to start conversations and promote critical thinking about technologies' impacts.
+
+Training, Workshops and Masterclasses Our training sessions are designed to advance skills and create spaces for exchange and collaboration.
+
+Research, resources and toolkitsOur creative resources provide evidence-based information and practical tools at the intersection of technology and society
+
+Our projects
+------------
+
+* ![Glass Room exhibit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-gr-card5.jpg)
     
-    [Marek Tuszynski, Executive Director of Tactical Tech, is recognised by Mozilla as one of the 25 leaders worldwide shaping the future of the internet
-    ----------------------------------------------------------------------------------------------------------------------------------------------------](https://tacticaltech.org/news/latest/marek-tuszynski-mozilla-rise-25-awards/)
+    [### The Glass Room: experiences that invite people to examine their digital lives](https://tacticaltech.org/projects/the-glass-room/)
     
-    Our Executive Director and co-founder, Marek Tuszynski, has been recognised by **Mozilla's Rise 25 Awards** as one of the artists and visionary leaders actively shaping a more ethical, responsible, and inclusive future for the internet. The five artists recognised, including Tuszynski, “are being honored for creating innovative and thought-provoking digital artwork, using the internet as their canvas to inspire others and re-think what's possible online”.
+    This public intervention and interactive experience invites visitors to reflect on how technology impacts their lives and society. Available in multiple formats, from large-scale exhibitions to low-cost self-print formats, it is easily used and adapted. It features printed and digital poster exhibitions, animations, apps, workshop curricula, and other assets in around 30 languages.
     
-    [Read more →](https://tacticaltech.org/news/latest/marek-tuszynski-mozilla-rise-25-awards/)
+    [Read more →](https://tacticaltech.org/projects/the-glass-room/)
+    
+* ![people interacting wuth the data detox kit resources](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-ddk-card3.jpg)
+    
+    [### Data Detox Kit: Practical steps and tool to improve your online life](https://tacticaltech.org/projects/data-detox-kit/)
+    
+    The Data Detox Kit, available in over 45 languages, offers tips, tools, and concrete steps to improve your online life, enabling informed choices and personalized digital habits. It includes over 30 guides, workshop outlines for educators, an alternative App Centre, and a resources page on digital privacy, security, environmental impact, wellbeing, and tackling misinformation.
+    
+    [Read more →](https://tacticaltech.org/projects/data-detox-kit/)
+    
+* ![Young people interacting the What The Future Wants cards](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-wtfw-card5.jpg)
+    
+    [### What The Future Wants: Educational resources to empower young people](https://tacticaltech.org/projects/what-the-future-wants/)
+    
+    This youth initiative from Tactical Tech aims to empower young people to take control of their digital futures through education, co-creation, and capacity building. It features playful, youth-focused exhibitions, interactive activities, learning resources, and tools and methodologies for educators to engage young people in conversations about AI, technology, and their impacts.
+    
+    [Read more →](https://tacticaltech.org/projects/what-the-future-wants/)
+    
+* ![user exploring the Digital Enquirer Kit website](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-dek-card3.jpg)
+    
+    [### Digital Enquirer Kit: An E-learning platform to navigate the internet safely](https://tacticaltech.org/projects/Digital-Enquirer-Kit/)
+    
+    This e-learning interactive course advances and disseminates knowledge on media literacy, verification, and safe Internet navigation. The course contains simple explanations and real-world examples illustrating secure research and information-gathering methods. The modules feature engaging and creative formats, such as tutorials, quizzes, and interactive games.
+    
+    [Read more →](https://tacticaltech.org/projects/Digital-Enquirer-Kit/)
+    
+* ![Picture of the Everything Will Be Fine exhibition in Berlin.](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-ewfb-card1.jpg)
+    
+    [### Everything Will Be Fine: An intervention exploring the intersection of technology and crises](https://tacticaltech.org/projects/everything-will-be-fine/)
+    
+    How do you respond in a crisis? Everything Will Be Fine is a public intervention and interactive experience that explores how people understand and respond to global crises like climate change and pandemics through the lens of technology. This hybrid intervention includes the work of more than 60 artists, technologists, researchers and investigators.
+    
+    [Read more →](https://tacticaltech.org/projects/everything-will-be-fine/)
+    
+* ![People using the Exposing The Invisible kit](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/2our-projects-eti-card4.jpg)
+    
+    [### Exposing The Invisible: Advancing the investigative community's capacity](https://tacticaltech.org/projects/exposing-the-invisible/)
+    
+    The project offers comprehensive resources, workshops, and institutes on investigative tools and methodologies for civil society actors such as media organizations, experts, researchers, academics, investigators, and journalists. It fosters spaces for collaboration and exchange to enhance the capacity of today’s global community of digital and OSINT investigators.
+    
+    [Read more →](https://tacticaltech.org/projects/exposing-the-invisible/)
+    
+* ![User exploring The Influence Industry Project website](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/our_projects/our-projects-tiip-card4.jpg)
+    
+    [### The Influence Industry Project: Understanding the industry behind our opinions](https://tacticaltech.org/projects/the-influence-industry/)
+    
+    This project produces research, resources and masterclasses on digital influence, focusing on its impact on public opinion, particularly in politics. It examines the global industry companies that use digital technologies and personal data to shape opinions. The project offers an accessible database of industry actors, case studies, and research methodologies.
+    
+    [Read more →](https://tacticaltech.org/projects/the-influence-industry/)
     
 
-Our latest news and impact stories
-----------------------------------
+Our latest news
+---------------
 
 Shifting the conversation around the impacts of digital technologies
 
 [See our latest news](https://tacticaltech.org/news/latest/)
 
+* ![Participants of the workshops hosted by CITE](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/cite_story.jpg)
+    
+    * Impact Stories
+    
+    [### Centre for Innovation & Technology - CITE: empowering citizen journalists and civil society organisations to safely tell stories that matter](https://tacticaltech.org/news/stories/cite-eti-partner-workshops/)
+    
+    Through a series of knowledge-exchange workshops conducted by our partner CITE in Bulawayo, Zimbabwe, 45 participants, including citizen journalists and civil society organisations, were equipped with skills in identifying information disorders, encryption methods, and secure communication channels.
+    
+    [Read more →](https://tacticaltech.org/news/stories/cite-eti-partner-workshops/)
+    
+* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-june.png)
+    
+    [### In The Loop, Half-year edition 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-half-year-2024/)
+    
+    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
+    
+    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-half-year-2024/)
+    
+* ![Illustration with green background and some shapes. Information
+    Literacy for Societal Resilience A new creative intervention about the
+    effects of AI on our online lives](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/information-literacy-societal-resilience_banner_2.jpg)
+    
+    [### Information Literacy for Societal Resilience: A new creative intervention about the effects of AI on our online lives](https://tacticaltech.org/news/project-launches/information-literacy-for-societal-resilience/)
+    
+    A new creative intervention produced by Tactical Tech and DensityDesign Lab at Politecnico di Milano, in collaboration with the International Federation of Library Associations and Institutions (IFLA),  will address how AI is impacting the ways that media and information are produced, distributed and perceived.
+    
+    [Read more →](https://tacticaltech.org/news/project-launches/information-literacy-for-societal-resilience/)
+    
 * ![What the Future Wants: Digital Literacy for Youth Workshop Series
     text and illustrations of a face and an arrow](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/WTFW_Workshop_Series.jpg)
     
@@ -70,87 +147,58 @@ Shifting the conversation around the impacts of digital technologies
     
     [Read more →](https://tacticaltech.org/news/latest/digital-literacy-workshops-educators/)
     
-* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-may.png)
-    
-    [### In The Loop, May 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-may-2024/)
-    
-    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
-    
-    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-may-2024/)
-    
-* ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-august.jpg)
-    
-    [### In The Loop, April 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-april-2024/)
-    
-    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
-    
-    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-april-2024/)
-    
-* ![Abstract image of a human being](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/Everywhere_All_The_Banner2(1).jpg)
-    
-    [### Everywhere, All the Time: A digital literacy intervention for teens that fosters critical conversions about technology and AI](https://tacticaltech.org/news/project-launches/everywhere-all-the-time-digital-literacy-youth/)
-    
-    ”Everywhere, All the Time” is a creative and playful digital literacy intervention designed for teens. Educators can use it to promote critical conversations about technology, AI, and their impacts.
-    
-    [Read more →](https://tacticaltech.org/news/project-launches/everywhere-all-the-time-digital-literacy-youth/)
-    
-* ![Marek Tuszynski headshot](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/moz_Rise25Winners_1200x800_Marek-Tuszynski-1000x666.png)
-    
-    [### \[Interview\] Our Executive Director Marek Tuszynski talks with Mozilla about Tactical Tech's thought-provoking experiences and work](https://tacticaltech.org/news/latest/marek-tuszynski-winner-rise-25-awards-interview-mozilla/)
-    
-    Our Executive Director and co-founder, Marek Tuszynski, who was one of the winners of Mozilla's Rise 25 Awards in 2023, talked with Mozilla's team about his inspiration, Tactical Tech's work and the future challenges we face online.
-    
-    [Read more →](https://tacticaltech.org/news/latest/marek-tuszynski-winner-rise-25-awards-interview-mozilla/)
-    
-* ![Illustration Inform](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/Inform_landscape_1.png)
-    
-    [### Inform: A voter literacy resource center for navigating online political influence and digital election campaigns](https://tacticaltech.org/news/project-launches/inform-voter-literacy-resource-center/)
-    
-    Introducing Inform: A voter literacy resource center designed to empower voters, educators, facilitators, and organisations involved in voter education to explore the ways digital and data-driven technologies play a key role in political campaigns and elections.
-    
-    [Read more →](https://tacticaltech.org/news/project-launches/inform-voter-literacy-resource-center/)
-    
-* ![Visual Open Cal lfor Partnerships](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/news/Open_call_Germany.png)
-    
-    [### Open Call for Partnership: Organisations in Germany Working on Critical Literacy for Youth](https://tacticaltech.org/news/open-calls/open-call-critical-literacy-youth-germany/)
-    
-    We are looking to partner with a formal or non-formal learning institution and organisation based in Germany on a three-year project funded by the European Union’s Horizon Europe project.
-    
-    [Read more →](https://tacticaltech.org/news/open-calls/open-call-critical-literacy-youth-germany/)
-    
-* ![Background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-july.png)
-    
-    [### In The Loop, March 2024](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-march-2024/)
-    
-    In the Loop, Tactical Tech’s monthly newsletter, includes new releases, open calls, job opportunities, information about our partners, events, recommended resources and more.
-    
-    [Read more →](https://tacticaltech.org/news/in-the-loop-newsletters/in-the-loop-march-2024/)
-    
 
-How we do it
-------------
+Impact stories
+--------------
 
-Discover our methodology, collaborative approach and creative processes.
+Impact stories from our partners in the field.
 
-* ![](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-card-1.jpg)
+[See all stories](https://tacticaltech.org/news/stories/)
+
+* ![Participants of the workshops hosted by CITE](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/cite_story.jpg)
     
-    [Our educational tools and methodologies are accessible for use by diverse audiences
-    -----------------------------------------------------------------------------------](https://tacticaltech.org/resources/)
+    * Impact Stories
     
-    Our digital and media literacy resources, tools and interventions combine design and pedagogical methodologies into diverse and interactive formats such as tool-kits, guides, workshop curricula, and exhibition objects. They are adaptable, scalable, localisable and translatable, and their Creative Commons license makes them freely accessible to all. Our partners worldwide adopt and adapt them to reach the goals and needs of their communities.
+    [### Centre for Innovation & Technology - CITE: empowering citizen journalists and civil society organisations to safely tell stories that matter](https://tacticaltech.org/news/stories/cite-eti-partner-workshops/)
     
-    [Explore our resources →](https://tacticaltech.org/resources/)
+    Through a series of knowledge-exchange workshops conducted by our partner CITE in Bulawayo, Zimbabwe, 45 participants, including citizen journalists and civil society organisations, were equipped with skills in identifying information disorders, encryption methods, and secure communication channels.
     
-* ![People attending The Glass Room Exhbition](https://cdn.ttc.io/i/fit/16/0/sm/0/plain/tacticaltech.org/website2023/Homepage/home-card-2.jpg)
+    [Read more →](https://tacticaltech.org/news/stories/cite-eti-partner-workshops/)
     
-    [We collaborate with partners across the world to create sustainable impact
-    --------------------------------------------------------------------------](https://tacticaltech.org/partners/)
+* ![An activity from the What the Future Wants exhibition, children
+    pointing at bubble quotes from the activity.](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/IYCS-AFRICA-Impact-Story-Cover-Update.jpg)
     
-    We work with partners worldwide - organisations which are already embedded in and trusted by their communities, who understand the local realities and challenges, and who are engaged in the topics we work on. This approach supports long-term and sustainable impact and allows our projects to scale globally while responding effectively to local cultural and social dynamics.
+    * Impact Stories
     
-    Our partners also build the capacity of other organisations and individuals within their local networks, creating a multiplier effect which allows our educational initiatives to reach communities that couldn't be reached otherwise.
+    [### International Young Catholic Students Africa: igniting digital transformation in Zimbabwe, Rwanda and Zambia](https://tacticaltech.org/news/stories/partners-impact-story-IYCS-AFRICA/)
     
-    [Explore our partners directory →](https://tacticaltech.org/partners/)
+    Our partners International Young Catholic Students (IYCS) Africa are a non-profit organisation that, since 1937, have been empowering students across African countries to work for solidarity, freedom, justice and peace in the world.
+    
+    [Read more →](https://tacticaltech.org/news/stories/partners-impact-story-IYCS-AFRICA/)
+    
+* ![Photo by Fundación Internet Bolivia taken during the workshop with
+    journalist to build a guide about safeguarding personal data in their
+    workspace](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/Internet-Bolivia-Cover.jpg)
+    
+    * Impact Stories
+    
+    [### Fundación Internet Bolivia.org: equipping decision-makers and citizens to advance personal data protection in Bolivia](https://tacticaltech.org/news/stories/partners-impact-story-fundacion-internet-bolivia/)
+    
+    Our partners Fundación Internet Bolivia.org work to raise public consciousness and stimulate discourse through learning platforms, both in the digital and the physical world, to enhance digital inclusion and data protection at the local level
+    
+    [Read more →](https://tacticaltech.org/news/stories/partners-impact-story-fundacion-internet-bolivia/)
+    
+* ![One of the team leaders of Development Three Sixty opening up
+    discussion around misinformation and digital rights at the Ngwenya Community
+    in Livingstone](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/impact_stories/DevelopmentThreeSixtyCover2.jpg)
+    
+    * Impact Stories
+    
+    [### Development Three Sixty: engaging policy makers and communities to protect citizens' digital rights in Zambia](https://tacticaltech.org/news/stories/partners-impact-story-development-three-sixty/)
+    
+    Our partners Development Three Sixty are a vibrant NGO on a mission to address issues of misinformation, digital safety disinformation and hate speech in Zambia.
+    
+    [Read more →](https://tacticaltech.org/news/stories/partners-impact-story-development-three-sixty/)
     
 
 Technology & Society Insights
@@ -263,7 +311,7 @@ www.tacticaltech.org
 
 [ttc@tacticaltech.org](mailto:ttc@tacticaltech.org)
 
-* [Newsletter](https://news.tacticaltech.org/subscription/form)
+* [Newsletter](https://tacticaltech.org/newsletter-subscription/in-the-loop/)
 * [RSS Feed](https://tacticaltech.org/rss.xml)
 
 #### About
