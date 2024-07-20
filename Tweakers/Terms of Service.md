@@ -12,6 +12,7 @@
     * [Desktops](https://tweakers.net/best-buy-guide/desktops/)
     * [Televisies](https://tweakers.net/best-buy-guide/televisies/)
     * [Tablets](https://tweakers.net/best-buy-guide/tablets/)
+    * [Smartwatches](https://tweakers.net/best-buy-guide/smartwatches/)
     * [Monitors](https://tweakers.net/best-buy-guide/monitors/)
     * [Videokaarten](https://tweakers.net/best-buy-guide/videokaarten/)
     * [Processors](https://tweakers.net/best-buy-guide/processors/)
@@ -235,7 +236,7 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 ### 11 Privacy
 
-11.1 Tweakers verwerkt de persoonsgegevens van het Lid die nodig zijn voor het in stand houden van de Website en het verlenen van diensten aan het Lid. Tweakers heeft haar privacybeleid nader uitgewerkt in haar [privacybeleid](https://tweakers.net/info/algemene-voorwaarden/privacy/ "Privacybeleid Tweakers.net")\-document. Het Lid geeft door registratie toestemming voor de verwerking van zijn persoonsgegevens zoals beschreven in het privacybeleid.
+11.1 Het privacybeleid van DPG Media is van toepassing op de verwerking van persoonsgegevens via de website van Tweakers en maakt integraal deel uit van deze voorwaarden. Klik [hier](https://privacy.dpgmedia.nl/document/privacystatement) om naar het privacybeleid te gaan.
 
 11.2 Het Lid staat er voor in dat hij volledig in overeenstemming handelt met alle toepasselijke wet- en regelgeving op het gebied van de bescherming van persoonsgegevens en ongevraagde communicatie. In het bijzonder staat het Lid er voor in dat hij de benodigde toestemmingen van derden heeft verkregen om persoonsgegevens van derden op de Website te publiceren.
 
@@ -243,11 +244,7 @@ De voorwaarden voor Vraag & Aanbod zijn onderbracht in [losse aanvullende voorwa
 
 ### 12 Opheffen Account
 
-12.1 Het Lid heeft het recht om zijn persoonsgegevens in te zien, te corrigeren of te verwijderen. Leden kunnen dit voor het grootste deel zelf, bijvoorbeeld via de My Tweakers pagina. In de gevallen dat dit op deze manier niet mogelijk is, kan er een gespecificeerd verzoek tot DPG Media worden gericht om persoonsgegevens in te zien, te corrigeren of te verwijderen. Hiervoor kun je een email sturen naar: privacy@tweakers.net.
-
-DPG Media zal in beginsel binnen vier weken op een verzoek tot inzage of correctie verzoek reageren. In geval van een verzoek tot verwijdering zal DPG Media de betreffende persoonsgegevens zo spoedig mogelijk verwijderen, tenzij en voor zover de wet verplicht om de betreffende persoonsgegevens te bewaren of er (andere) dringende redenen zijn die zich tegen verwijdering verzetten. DPG Media stuurt na uitvoering van een verzoek tot verwijdering een bevestigingsbericht. Indien DPG Media de betreffende persoonsgegevens (gedeeltelijk) niet heeft verwijderd, stuurt DPG Media het Lid een bericht waarin zij toelicht waarom niet (volledig) aan het verzoek kon worden voldaan.
-
-Indien DPG Media niet of niet volledig kan vaststellen op welke persoonsgegevens een verzoek tot inzage, correctie of verwijdering betrekking heeft, kan DPG Media het Lid vragen om zijn verzoek (nader) te specificeren. De uitvoering van het verzoek wordt dan opgeschort op totdat de bezoeker de (nadere) specificatie heeft verstrekt.
+12.1 Het Lid heeft het recht om zijn persoonsgegevens in te zien, te corrigeren of te verwijderen. Leden kunnen dit voor het grootste deel zelf, bijvoorbeeld via de My Tweakers pagina. In de gevallen dat dit op deze manier niet mogelijk is, kan er een gespecificeerd verzoek tot DPG Media worden gericht via [deze link](https://privacy.dpgmedia.nl/nl/privacy-rights). Wil je enkel je account verwijderen, stuur dan een e-mail naar: [privacy@tweakers.net](https://tweakers.net/info/algemene-voorwaarden/privacy@tweakers.net). Vermeld duidelijk de vraag om je account te verwijderen en stuur je e-mail vanuit het e-mailadres dat gekoppeld is aan het te verwijderen account.
 
 12.2 Door het Lid geplaatste Content kan bij de opheffing van het Account niet worden verwijderd. Tweakers zal de aan het Account gekoppelde persoonsgegevens anonimiseren zodat de Content niet langer naar het Lid herleidbaar zijn.
 
@@ -279,7 +276,7 @@ Indien DPG Media niet of niet volledig kan vaststellen op welke persoonsgegevens
 
 15.5 Op deze Algemene Voorwaarden, alle overeenkomsten, abonnementen en (rechts)handelingen tussen Tweakers en het Lid, is bij uitsluiting Nederlands recht van toepassing.
 
-_Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 6 februari 2023._
+_Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 18 juli 2024._
 
 * * *
 
@@ -290,9 +287,9 @@ _Deze Algemene Voorwaarden zijn voor het laatst gewijzigd op 6 februari 2023._
 * [Over Tweakers](https://tweakers.net/info/over-tweakers/)
 * [Huisregels](https://tweakers.net/info/algemene-voorwaarden/huisregels/)
 * [Algemene voorwaarden](https://tweakers.net/info/algemene-voorwaarden/)
-* [Privacy](https://tweakers.net/info/algemene-voorwaarden/privacy/)
-* [Cookies](https://tweakers.net/info/algemene-voorwaarden/cookies/)
-* [Cookievoorkeuren wijzigen](https://tweakers.net/info/algemene-voorwaarden/cookies/)
+* [Privacy](https://privacy.dpgmedia.nl/nl/document/privacy-policy)
+* [Cookies](https://privacy.dpgmedia.nl/nl/document/cookie-policy)
+* Cookievoorkeuren wijzigen
 
 * [Volg @tweakers](https://twitter.com/tweakers) 75,4k
 * [Like Tweakers](https://www.facebook.com/Tweakers.net) 39,2k
