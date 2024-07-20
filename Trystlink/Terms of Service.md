@@ -32,8 +32,8 @@ By using Tryst.link, you are agreeing to the [Terms of Service](https://tryst.li
 You can send us postal mail that is monitored to the following address;
 
 Assembly Four  
-141 Cardigan St  
-Melbourne, VIC 3053  
+Suite 84, 135 Cardigan St  
+Carlton, Victoria 3053  
 Australia
 
 If you have any issues, questions or concerns with our [Terms of Service](https://tryst.link/terms), [Advertising Policy](https://tryst.link/advertising-policy), [Code of Conduct](https://tryst.link/code-of-conduct), or [Privacy Policy](https://tryst.link/privacy) please contact us through hello@tryst.link. Please be advised that any explanation we provide _can not be considered legal advice_.
@@ -99,17 +99,21 @@ We may terminate or suspend access to your Tryst.link account immediately, witho
 
 If you wish to terminate your account, you may simply discontinue using the platform, [delete your account](https://help.tryst.link/en-gb/14/142), or request your account to be removed from the platform. It is your responsibility to take a copy of all your content from your account prior to termination as we are not able to restore it.
 
+Accounts are considered inactive if the most recent Tryst Love Credit was purchased or issued over 12 months (365 days) ago, and there has been no account activity for more than 6 months (180 days). This definition aids in identifying inactive accounts for notification and potential closure if no action is taken within 30 days of notification.
+
 Upon termination of your account, in accordance with our [Privacy Policy](https://tryst.link/privacy), the platform will remove your profile and photos but we will keep data required for business operations such as but not limited to; verification information, payment information, support conversations, and audit history.
 
-8\. Billing and Payments
-------------------------
+8\. Billing, Payments and Credits
+---------------------------------
 
-You can purchase Tryst Love Credits through supported purchase methods;
+To activate a paid subscription, you can purchase Tryst Love Credits (”TLC”) through supported purchase methods;
 
 * A single Tryst Love Credit is equivalent to 1 Euro.
 * All sales are final.
 * Transaction fee(s) may apply.
 * Tryst is not responsible for any transaction fees incurred.
+
+**Tryst Love Credit provided by the site, and not purchased, will expire 12 months from the date of issue.**
 
 9\. Membership services
 -----------------------
@@ -189,7 +193,7 @@ For non material modifications, your continued use of the website constitutes ag
 
 You are responsible for reviewing and becoming familiar with any such modifications. By continuing to use the platform that will constitute your acceptance of the terms as modified.
 
-Last updated: 2022-08-29
+Last updated: 2024-07-03
 
 ### This website contains adult content
 
@@ -231,7 +235,7 @@ Language: English (International)    Change
 
 [Help / Support](https://help.tryst.link/)[About](https://tryst.link/about)[Social](https://tryst.link/social)[Terms](https://tryst.link/terms)[Privacy](https://tryst.link/privacy)[Legal Notices](https://tryst.link/legal-notices)[Anti-Exploitation Policy](https://tryst.link/anti-exploitation)
 
-[Melbourne escorts](https://tryst.link/au/escorts/victoria/melbourne)[Sydney escorts](https://tryst.link/au/escorts/new-south-wales/sydney)[Brisbane escorts](https://tryst.link/au/escorts/queensland/brisbane)[Perth escorts](https://tryst.link/au/escorts/western-australia/perth)[Adelaide escorts](https://tryst.link/au/escorts/south-australia/adelaide)[Canberra escorts](https://tryst.link/au/escorts/australian-capital-territory/canberra)[Gold Coast escorts](https://tryst.link/au/escorts/queensland/gold-coast)[Newcastle escorts](https://tryst.link/au/escorts/new-south-wales/newcastle)[Hobart escorts](https://tryst.link/au/escorts/tasmania/hobart)[Cairns escorts](https://tryst.link/au/escorts/queensland/cairns)[Byron Bay escorts](https://tryst.link/au/escorts/new-south-wales/byron-bay)[Sunshine Coast escorts](https://tryst.link/au/escorts/queensland/sunshine-coast)
+[Melbourne escorts](https://tryst.link/au/escorts/victoria/melbourne)[Sydney escorts](https://tryst.link/au/escorts/new-south-wales/sydney)[Brisbane escorts](https://tryst.link/au/escorts/queensland/brisbane)[Perth escorts](https://tryst.link/au/escorts/western-australia/perth)[Adelaide escorts](https://tryst.link/au/escorts/south-australia/adelaide)[Canberra escorts](https://tryst.link/au/escorts/australian-capital-territory/canberra)[Gold Coast escorts](https://tryst.link/au/escorts/queensland/gold-coast)[Newcastle escorts](https://tryst.link/au/escorts/new-south-wales/newcastle)[Hobart escorts](https://tryst.link/au/escorts/tasmania/hobart)[Cairns escorts](https://tryst.link/au/escorts/queensland/cairns)[Sunshine Coast escorts](https://tryst.link/au/escorts/queensland/sunshine-coast)[Byron Bay escorts](https://tryst.link/au/escorts/new-south-wales/byron-bay)
 
 © 2018–2024, Assembly Four
 
