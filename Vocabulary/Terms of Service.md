@@ -1,6 +1,6 @@
 [SKIP TO CONTENT](#pageContent)
 
-[![Vocabulary.com](//cdn.vocab.com/images/header/logo-1wobq9i.png)![](//cdn.vocab.com/images/logo-sar2cf.svg)](https://www.vocabulary.com/ "Vocabulary.com")
+[![Vocabulary.com](https://cdn.vocabulary.com/images/header/logo-1wobq9i.png)![](https://cdn.vocabulary.com/images/logo-sar2cf.svg)](https://www.vocabulary.com/ "Vocabulary.com")
 
 * [Learn](https://www.vocabulary.com/vocabtrainer/)
 * [Dictionary](https://www.vocabulary.com/dictionary/)
@@ -305,7 +305,7 @@ Whether you’re a teacher or a learner, Vocabulary.com can put you or your clas
 
 [Get started](https://www.vocabulary.com/signup/)
 
-### Learn with us
+Learn with us
 
 * [Learner subscriptions](https://www.vocabulary.com/learner-subscription/)
 * [Vocabulary lists](https://www.vocabulary.com/lists/)
@@ -315,7 +315,7 @@ Whether you’re a teacher or a learner, Vocabulary.com can put you or your clas
 * [Commonly confused words](https://www.vocabulary.com/articles/chooseyourwords/)
 * [Word of the day](https://www.vocabulary.com/word-of-the-day/)
 
-### [Teach with us](https://www.vocabulary.com/for-educators/)
+[Teach with us](https://www.vocabulary.com/for-educators/)
 
 * [For educators](https://www.vocabulary.com/for-educators/)
 * [For schools and districts](https://www.vocabulary.com/for-administrators/)
@@ -325,7 +325,7 @@ Whether you’re a teacher or a learner, Vocabulary.com can put you or your clas
 * [Professional development](https://www.vocabulary.com/professional-development/)
 * [Contact sales](https://www.vocabulary.com/membership/quote/)
 
-### [Resources](https://www.vocabulary.com/help/)
+[Resources](https://www.vocabulary.com/help/)
 
 * [Help articles/FAQ](https://www.vocabulary.com/help/)
 * [Teaching resources](https://www.vocabulary.com/teaching-resources/)
@@ -335,14 +335,14 @@ Whether you’re a teacher or a learner, Vocabulary.com can put you or your clas
 * [IPA Pronunciation](https://www.vocabulary.com/resources/ipa-pronunciation/)
 * [Contact support](https://www.vocabulary.com/help/contactus)
 
-### [Leaderboards](https://www.vocabulary.com/leaderboards/thisweek/)
+[Leaderboards](https://www.vocabulary.com/leaderboards/thisweek/)
 
 * [Vocabulary Bowl](https://www.vocabulary.com/bowl/)
 * [Today's leaders](https://www.vocabulary.com/leaderboards/today/)
 * [Weekly leaders](https://www.vocabulary.com/leaderboards/thisweek/)
 * [Monthly leaders](https://www.vocabulary.com/leaderboards/thismonth/)
 
-### [About](https://www.vocabulary.com/about/)
+[About](https://www.vocabulary.com/about/)
 
 * [Our Mission](https://www.vocabulary.com/about/)
 * [Blog](https://www.vocabulary.com/blog/)
@@ -350,52 +350,52 @@ Whether you’re a teacher or a learner, Vocabulary.com can put you or your clas
 * [Privacy Policy](https://www.vocabulary.com/privacy/)
 * [Terms of Use](https://www.vocabulary.com/terms/)
 
-[![IXL Learning](//cdn.vocab.com/images/footer/logo-ixl-for-ftr-190h5m.svg)
+[![IXL Learning](https://cdn.vocabulary.com/images/footer/logo-ixl-for-ftr-190h5m.svg)
 
 Comprehensive K-12  
 personalized learning](https://www.ixl.com/)
 
-[![Rosetta Stone](//cdn.vocab.com/images/footer/logo-rosetta-stone-for-ftr-cnz0xb.svg)
+[![Rosetta Stone](https://cdn.vocabulary.com/images/footer/logo-rosetta-stone-for-ftr-cnz0xb.svg)
 
 Immersive learning  
 for 25 languages](https://www.rosettastone.com/)
 
-[![Wyzant](//cdn.vocab.com/images/footer/logo-wyzant-for-ftr-92dn93.svg)
+[![Wyzant](https://cdn.vocabulary.com/images/footer/logo-wyzant-for-ftr-92dn93.svg)
 
 Trusted tutors for  
 300 subjects](https://www.wyzant.com/)
 
-[![](//cdn.vocab.com/images/footer/logo-education-com-for-ftr-a3xg4c.svg)
+[![Education.com](https://cdn.vocabulary.com/images/footer/logo-education-com-for-ftr-a3xg4c.svg)
 
 35,000 worksheets, games,  
 and lesson plans](https://www.education.com/)
 
-[![TPT](//cdn.vocab.com/images/footer/logo-tpt-for-ftr-pa6bkm.svg)
+[![TPT](https://cdn.vocabulary.com/images/footer/logo-tpt-for-ftr-pa6bkm.svg)
 
 Marketplace for millions of  
 educator-created resources](https://www.teacherspayteachers.com/)
 
-[![ABCya](//cdn.vocab.com/images/footer/logo-abcya-for-ftr-1or2r2i.svg)
+[![ABCya](https://cdn.vocabulary.com/images/footer/logo-abcya-for-ftr-1or2r2i.svg)
 
 Fun educational  
 games for kids](https://www.abcya.com/)
 
-[![SpanishDictionary.com](//cdn.vocab.com/images/footer/logo-spanish-dictionary-for-ftr-df6e8l.svg)
+[![SpanishDictionary.com](https://cdn.vocabulary.com/images/footer/logo-spanish-dictionary-for-ftr-df6e8l.svg)
 
 Spanish-English dictionary,  
 translator, and learning](https://www.spanishdict.com/)
 
-[![Inglés.com](//cdn.vocab.com/images/footer/logo-ingles-for-ftr-w00ql8.svg)
+[![Inglés.com](https://cdn.vocabulary.com/images/footer/logo-ingles-for-ftr-w00ql8.svg)
 
 Diccionario inglés-español,  
 traductor y sitio de aprendizaje](https://www.ingles.com/)
 
-[![Emmersion](//cdn.vocab.com/images/footer/logo-emmersion-for-ftr-1m00b4j.svg)
+[![Emmersion](https://cdn.vocabulary.com/images/footer/logo-emmersion-for-ftr-1m00b4j.svg)
 
 Fast and accurate  
 language certification](https://emmersion.ai/)
 
-![vocabulary.com logo](//cdn.vocab.com/images/footer/logo-vocab-green-check-for-ftr-4lic3k.svg)
+![vocabulary.com logo](https://cdn.vocabulary.com/images/footer/logo-vocab-green-check-for-ftr-4lic3k.svg)
 
 Copyright © 2024  
 Vocabulary.com, Inc.
@@ -403,11 +403,11 @@ Vocabulary.com, Inc.
 A division of IXL Learning •  
 All Rights Reserved.
 
-![IXL logo](//cdn.vocab.com/images/footer/logo-ixl-learning-ab1nek.svg)
+![IXL logo](https://cdn.vocabulary.com/images/footer/logo-ixl-learning-ab1nek.svg)
 
-[![Facebook logo](//cdn.vocab.com/images/footer/facebook-fff-on-000-1djwcsu.svg)](https://www.facebook.com/vocabularycom/ "Facebook") [![X.com logo](//cdn.vocab.com/images/footer/x-fff-on-000-r417h3.svg)](https://x.com/VocabularyCom/ "x.com") [![Instagram logo](//cdn.vocab.com/images/footer/instagram-fff-on-000-1nomn10.svg)](https://www.instagram.com/vocabcom/ "Instagram") [![LinkedIn logo](//cdn.vocab.com/images/footer/linkedin-fff-on-000-rszenv.svg)](https://www.linkedin.com/company/vocabulary-com/ "LinkedIn")
+[![Facebook logo](https://cdn.vocabulary.com/images/footer/facebook-fff-on-000-1djwcsu.svg)](https://www.facebook.com/vocabularycom/ "Facebook") [![X.com logo](https://cdn.vocabulary.com/images/footer/x-fff-on-000-r417h3.svg)](https://x.com/VocabularyCom/ "x.com") [![Instagram logo](https://cdn.vocabulary.com/images/footer/instagram-fff-on-000-1nomn10.svg)](https://www.instagram.com/vocabcom/ "Instagram") [![LinkedIn logo](https://cdn.vocabulary.com/images/footer/linkedin-fff-on-000-rszenv.svg)](https://www.linkedin.com/company/vocabulary-com/ "LinkedIn")
 
-### Learn with us
+Learn with us
 
 * [Learner subscriptions](https://www.vocabulary.com/learner-subscription/)
 * [Vocabulary lists](https://www.vocabulary.com/lists/)
@@ -417,7 +417,7 @@ All Rights Reserved.
 * [Commonly confused words](https://www.vocabulary.com/articles/chooseyourwords/)
 * [Word of the day](https://www.vocabulary.com/word-of-the-day/)
 
-### [Teach with us](https://www.vocabulary.com/for-educators/)
+[Teach with us](https://www.vocabulary.com/for-educators/)
 
 * [For educators](https://www.vocabulary.com/for-educators/)
 * [For schools and districts](https://www.vocabulary.com/for-administrators/)
@@ -427,7 +427,7 @@ All Rights Reserved.
 * [Professional development](https://www.vocabulary.com/professional-development/)
 * [Contact sales](https://www.vocabulary.com/membership/quote/)
 
-### [Resources](https://www.vocabulary.com/help/)
+[Resources](https://www.vocabulary.com/help/)
 
 * [Help articles/FAQ](https://www.vocabulary.com/help/)
 * [Teaching resources](https://www.vocabulary.com/teaching-resources/)
@@ -437,14 +437,14 @@ All Rights Reserved.
 * [IPA Pronunciation](https://www.vocabulary.com/resources/ipa-pronunciation/)
 * [Contact support](https://www.vocabulary.com/help/contactus)
 
-### [Leaderboards](https://www.vocabulary.com/leaderboards/thisweek/)
+[Leaderboards](https://www.vocabulary.com/leaderboards/thisweek/)
 
 * [Vocabulary Bowl](https://www.vocabulary.com/bowl/)
 * [Today's leaders](https://www.vocabulary.com/leaderboards/today/)
 * [Weekly leaders](https://www.vocabulary.com/leaderboards/thisweek/)
 * [Monthly leaders](https://www.vocabulary.com/leaderboards/thismonth/)
 
-### [About](https://www.vocabulary.com/about/)
+[About](https://www.vocabulary.com/about/)
 
 * [Our Mission](https://www.vocabulary.com/about/)
 * [Blog](https://www.vocabulary.com/blog/)
@@ -452,11 +452,11 @@ All Rights Reserved.
 * [Privacy Policy](https://www.vocabulary.com/privacy/)
 * [Terms of Use](https://www.vocabulary.com/terms/)
 
-### [My Account](https://www.vocabulary.com/account/)
+[My Account](https://www.vocabulary.com/account/)
 
 [Log in](https://www.vocabulary.com/login/) [Sign up](https://www.vocabulary.com/signup/)
 
-### [My Account](https://www.vocabulary.com/account/)
+[My Account](https://www.vocabulary.com/account/)
 
 * [Log Out](https://www.vocabulary.com/auth/logout)
 * [My Learning](https://www.vocabulary.com/learner/)
@@ -477,52 +477,52 @@ All Rights Reserved.
 * [User Authentication](https://www.vocabulary.com/account/authentication)
 * [My Account](https://www.vocabulary.com/account/)
 
-[![IXL Learning](//cdn.vocab.com/images/footer/logo-ixl-for-ftr-190h5m.svg)
+[![IXL Learning](https://cdn.vocabulary.com/images/footer/logo-ixl-for-ftr-190h5m.svg)
 
 Comprehensive K-12  
 personalized learning](https://www.ixl.com/)
 
-[![Rosetta Stone](//cdn.vocab.com/images/footer/logo-rosetta-stone-for-ftr-cnz0xb.svg)
+[![Rosetta Stone](https://cdn.vocabulary.com/images/footer/logo-rosetta-stone-for-ftr-cnz0xb.svg)
 
 Immersive learning  
 for 25 languages](https://www.rosettastone.com/)
 
-[![Wyzant](//cdn.vocab.com/images/footer/logo-wyzant-for-ftr-92dn93.svg)
+[![Wyzant](https://cdn.vocabulary.com/images/footer/logo-wyzant-for-ftr-92dn93.svg)
 
 Trusted tutors for  
 300 subjects](https://www.wyzant.com/)
 
-[![](//cdn.vocab.com/images/footer/logo-education-com-for-ftr-a3xg4c.svg)
+[![Education.com](https://cdn.vocabulary.com/images/footer/logo-education-com-for-ftr-a3xg4c.svg)
 
 35,000 worksheets, games,  
 and lesson plans](https://www.education.com/)
 
-[![TPT](//cdn.vocab.com/images/footer/logo-tpt-for-ftr-pa6bkm.svg)
+[![TPT](https://cdn.vocabulary.com/images/footer/logo-tpt-for-ftr-pa6bkm.svg)
 
 Marketplace for millions of  
 educator-created resources](https://www.teacherspayteachers.com/)
 
-[![ABCya](//cdn.vocab.com/images/footer/logo-abcya-for-ftr-1or2r2i.svg)
+[![ABCya](https://cdn.vocabulary.com/images/footer/logo-abcya-for-ftr-1or2r2i.svg)
 
 Fun educational  
 games for kids](https://www.abcya.com/)
 
-[![SpanishDictionary.com](//cdn.vocab.com/images/footer/logo-spanish-dictionary-for-ftr-df6e8l.svg)
+[![SpanishDictionary.com](https://cdn.vocabulary.com/images/footer/logo-spanish-dictionary-for-ftr-df6e8l.svg)
 
 Spanish-English dictionary,  
 translator, and learning](https://www.spanishdict.com/)
 
-[![Inglés.com](//cdn.vocab.com/images/footer/logo-ingles-for-ftr-w00ql8.svg)
+[![Inglés.com](https://cdn.vocabulary.com/images/footer/logo-ingles-for-ftr-w00ql8.svg)
 
 Diccionario inglés-español,  
 traductor y sitio de aprendizaje](https://www.ingles.com/)
 
-[![Emmersion](//cdn.vocab.com/images/footer/logo-emmersion-for-ftr-1m00b4j.svg)
+[![Emmersion](https://cdn.vocabulary.com/images/footer/logo-emmersion-for-ftr-1m00b4j.svg)
 
 Fast and accurate  
 language certification](https://emmersion.ai/)
 
-![vocabulary.com logo](//cdn.vocab.com/images/footer/logo-vocab-green-check-for-ftr-4lic3k.svg)
+![vocabulary.com logo](https://cdn.vocabulary.com/images/footer/logo-vocab-green-check-for-ftr-4lic3k.svg)
 
 Copyright © 2024  
 Vocabulary.com, Inc.
@@ -530,8 +530,8 @@ Vocabulary.com, Inc.
 A division of IXL Learning •  
 All Rights Reserved.
 
-![IXL logo](//cdn.vocab.com/images/footer/logo-ixl-learning-ab1nek.svg)
+![IXL logo](https://cdn.vocabulary.com/images/footer/logo-ixl-learning-ab1nek.svg)
 
-[![Facebook logo](//cdn.vocab.com/images/footer/facebook-fff-on-000-1djwcsu.svg)](https://www.facebook.com/vocabularycom/ "Facebook") [![X.com logo](//cdn.vocab.com/images/footer/x-fff-on-000-r417h3.svg)](https://x.com/VocabularyCom/ "x.com") [![Instagram logo](//cdn.vocab.com/images/footer/instagram-fff-on-000-1nomn10.svg)](https://www.instagram.com/vocabcom/ "Instagram") [![LinkedIn logo](//cdn.vocab.com/images/footer/linkedin-fff-on-000-rszenv.svg)](https://www.linkedin.com/company/vocabulary-com/ "LinkedIn")
+[![Facebook logo](https://cdn.vocabulary.com/images/footer/facebook-fff-on-000-1djwcsu.svg)](https://www.facebook.com/vocabularycom/ "Facebook") [![X.com logo](https://cdn.vocabulary.com/images/footer/x-fff-on-000-r417h3.svg)](https://x.com/VocabularyCom/ "x.com") [![Instagram logo](https://cdn.vocabulary.com/images/footer/instagram-fff-on-000-1nomn10.svg)](https://www.instagram.com/vocabcom/ "Instagram") [![LinkedIn logo](https://cdn.vocabulary.com/images/footer/linkedin-fff-on-000-rszenv.svg)](https://www.linkedin.com/company/vocabulary-com/ "LinkedIn")
 
-[![](//cdn.vocab.com/images/clear-16y9b5d.gif)](https://www.vocabulary.com/auth/admin)
+[![](https://cdn.vocabulary.com/images/clear-16y9b5d.gif)](https://www.vocabulary.com/auth/admin)
