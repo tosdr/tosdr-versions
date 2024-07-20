@@ -6,7 +6,7 @@
 * [Terms](https://wakelet.com/terms)
 * [Rules](https://wakelet.com/rules)
 
-**Last updated:** 04th July 2023
+**Last updated:** 16th July 2024
 
 * [About this Privacy Policy](#content_1)
 * [Wakelet is a Curation and Collaboration Platform](#content_2)
@@ -220,17 +220,16 @@ We share data with the following service providers:
 | Service Provider | Details |
 | --- | --- |
 | AWS Cloud Services | holds our main data store and hosts our Website. |
-| Redislabs | holds cached versions of processed data as sent to clients, including private data. |
-| Algolia | holds data in a form suitable for performing search operations |
-| DotDigital | holds email subscriptions, including email addresses and summarised public Wakelet information |
-| embed.ly | receives the url of any link you enter, but no link to account |
+| DotDigital | holds email subscriptions, including email addresses and summarised public Wakelet information. |
 | Google Analytics | holds aggregated user data for monitoring site usage, in order to enable us to continue improving the Services based on trends observed in behaviours. |
+| Google Cloud | customer identity and access management (CIAM) platform to help manage and protect user accounts. Also provides access to AI models for classifying and understanding content. |
+| Hotjar | is used to observe anonymized users interacting with Wakelet pages and features in order to understand pain points and make improvements. |
+| Hubspot | CRM platform, used to house contact information for Wakelet users, community members, inbound contacts from marketing activity, and support tickets. No student data is stored in our CRM. |
+| Microsoft Azure | uploaded images are scanned for inappropriate content and filtered appropriately. Also provides access to various AI models for content understanding. |
+| OpenAI | provides access to AI models for various use cases. Receives (but does not store or train on) content in order to provide better suggestions and results. |
+| Pinecone | stores public content in a format suitable for searching. |
 | Slack | is used for team messaging and may include information necessary to handle support requests. Any content older than 30 days is automatically removed. |
-| Microsoft Azure | uploaded images are scanned for inappropriate content and filtered appropriately |
-| Google Identity Cloud | customer identity and access management (CIAM) platform to help manage and protect user accounts |
-| User Flow | provides on-site prompts and tours for onboarding, to highlight changes and new features and events/webinars that users may wish to attend |
-| Hotjar | is used to observe anonymized users interacting with Wakelet pages and features in order to understand pain points and make improvements |
-| Hubspot | CRM platform, used to house contact information for Wakelet users, community members, inbound contacts from marketing activity, and support tickets. No student data is stored in our CRM |
+| User Flow | provides on-site prompts and tours for onboarding, to highlight changes and new features and events/webinars that users may wish to attend. |
 
 The School/District understands that Wakelet will rely on one or more subcontractors to perform services under this Agreement. Wakelet has shared the names of these subcontractors within our Privacy Policy. All subcontractors and successor entities of Wakelet will be subject to the terms of this Agreement. Wakelet ensures on an annual basis that the data collection and privacy practices of their third parties are in alignment with Wakelet's.
 
