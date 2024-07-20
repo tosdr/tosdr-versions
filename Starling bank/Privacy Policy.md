@@ -532,12 +532,6 @@ Connect with us
 * [](https://www.pinterest.co.uk/StarlingBank/)
 * [](https://www.starlingbank.com/rss.xml)
 
-Subscribe to Starling
-
-Subscribe
-
-We'd love to let you know about our products, Starling news and offers via email. You may withdraw your consent at any time by following the unsubscribe link. See our Privacy Notice for how we process your personal data.
-
 [![FSCS protected. Select this to go to our Financial Services Compensation Scheme page to find out more.](/static/2d672d5c195b4e02f59c72c06215ae6a/e693a/fscsWhite.png)](https://www.starlingbank.com/legal/account/fscs-protection/)
 
 Starling Bank is registered in England and Wales as Starling Bank Limited (No. 09092149), 5th Floor, London Fruit And Wool Exchange, 1 Duval Square, London, E1 6PW. We are authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority under registration number 730166.
