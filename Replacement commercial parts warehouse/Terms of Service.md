@@ -2,7 +2,7 @@
 
 Join our mailing list and save $10 off your next $150+ order!
 
-Toggle Nav Toggle Nav [![](https://www.rcpw.com/static/version1705030260/frontend/Ecommerce121/Rcpw/en_US/images/logo.svg)](https://www.rcpw.com/)
+Toggle Nav Toggle Nav [![](https://www.rcpw.com/static/version1720758201/frontend/Ecommerce121/Rcpw/en_US/images/logo.svg)](https://www.rcpw.com/)
 
 [Skip to Content](#contentarea)
 
