@@ -1,4 +1,4 @@
-         
+        
 
 [![](https://cdn.prod.website-files.com/61120cb2509e011efcf0b1e4/65b1f7d21718190360e96ebb_Tactiq-logo.svg)](https://tactiq.io/)
 
@@ -44,7 +44,7 @@ Install the bot-free Tactiq extension](https://tactiq.io/chrome-extension)
 
 #### AI Tools
 
-[GPT-4 Note Taker](https://tactiq.io/ai-tools/gpt4-note-taker)
+[GPT-4o Note Taker](https://tactiq.io/ai-tools/gpt-4o-note-taker)
 
 [AI Note Taker](https://tactiq.io/ai-tools/ai-note-taker)
 
@@ -58,7 +58,7 @@ Solutions
 
 [ChatGPT Summary](https://tactiq.io/solutions/summarize-meetings-with-chatgpt)
 
-[Transcribe Zoom](https://tactiq.io/solutions/transcribe-zoom)
+[Transcribe Zoom](https://tactiq.io/transcribe/zoom)
 
 [Transcribe MS Teams](https://tactiq.io/solutions/transcribe-ms-teams)
 
@@ -108,6 +108,8 @@ Resources
 
 [Blog](https://tactiq.io/learn)
 
+[Download](https://tactiq.io/download)
+
 [Vision](https://tactiq.io/vision)
 
 [Impact](https://tactiq.io/impact)
@@ -120,11 +122,11 @@ Resources
 
 [Log in](https://app.tactiq.io/#/signin)[Get started](https://tactiq.io/chrome)
 
-[Privacy Policy](https://tactiq.io/privacy/privacy)
-
 [Terms of Use](https://tactiq.io/privacy/terms)
 
 [Privacy Center](https://tactiq.io/privacy/privacy-center)
+
+[Privacy Policy](https://tactiq.io/privacy/privacy)
 
 Privacy Policy
 ==============
@@ -244,7 +246,7 @@ We may employ third party companies and individuals to perform functions on our 
 
 #### Questions about GPT, ChatGPT, LLM, OpenAI integrations?  
 
-If you are looking for information about privacy of GPT/ChatGPT/LLM/OpenAI integrations, please go to [**https://tactiq.io/gpt**](https://tactiq.io/gpt)
+If you are looking for information about privacy of GPT/ChatGPT/LLM/OpenAI integrations, please go to [https://help.tactiq.io/en/articles/7907775-large-language-models-gpt-openai-privacy-and-tactiq](https://help.tactiq.io/en/articles/7907775-large-language-models-gpt-openai-privacy-and-tactiq)
 
 #### Cookies and web beacons
 
