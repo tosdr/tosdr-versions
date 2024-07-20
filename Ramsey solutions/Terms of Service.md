@@ -241,9 +241,9 @@ Search Ramsey Solutions Search Ramsey Solutions
 Ramsey Solutions Terms of Use
 =============================
 
-MAY 10, 2024
+JULY 15, 2024
 
-Welcome to Ramsey Solutions! These Terms of Use (“Terms”) govern your access to and use of the our websites, web services, and mobile applications, including but not limited to EveryDollar, Ramsey Network, and Ramsey Audiobooks, and any other products or services (collectively, the “Site”) owned and operated by The Lampo Group, LLC d/b/a Ramsey Solutions.
+Welcome to Ramsey Solutions! These Terms of Use (“Terms”) govern your access to and use of our websites, web services, and mobile applications, including but not limited to EveryDollar, Ramsey Network, and Ramsey Audiobooks, and any other products or services (collectively, the “Site”) owned and operated by The Lampo Group, LLC d/b/a Ramsey Solutions.
 
 **Your Acceptance of These Terms of Use**
 
@@ -323,7 +323,9 @@ We may elect to offer free or discounted pricing for use of paid account levels 
 
 **Cancellation**
 
-You may cancel your account or subscription at any time by logging into your Ramsey Solutions account, going to your account preferences, and clicking on the "Manage Account Settings" link. Then click the following links: “Subscriptions,” “Manage Subscriptions,” and “View and Modify Subscriptions” to cancel. If you cancel before the last day of your current paid month, your cancellation will take effect immediately and you will not be charged again.
+You may cancel your Ramsey Solutions account or subscription at any time by going to [www.ramseysolutions.com](http://www.ramseysolutions.com/). Choose the “Sign In” link at the top right of the page.  Sign in to your Ramsey Solutions account.  Go to the account menu at the top right of the page. Click on the “Manage your Ramsey Account” link.  Click “Subscriptions,” then click “Manage Subscriptions.” Here you can cancel your active subscription(s).
+
+If you cancel before the last day of your current paid month, your cancellation will take effect immediately and you will not be charged again.
 
 **Disclaimers**
 
@@ -421,7 +423,7 @@ If you downloaded an App from the ©Google Play Store, the following term also a
 
 **Maintenance and Support**: Ramsey Solutions, and not Google Play, is solely responsible for providing any maintenance and support services, for which additional fees may apply, with respect to the Apps. You acknowledge that Google Play has no obligation whatsoever to furnish any maintenance and support services with respect to the Apps and you will contact Ramsey Solutions concerning any defects or performance issues with respect to the Apps.
 
-_**Terms\_of\_Use\_Gen\_05.10.2024v02**_
+_**Terms\_of\_Use\_Gen\_07.15.2024v03**_
 
 [![Ramsey Solutions](https://cdn.ramseysolutions.net/media/rscom/logos/footer-logo-ramsey-blue.svg)](https://www.ramseysolutions.com/)
 
@@ -431,7 +433,7 @@ _**Terms\_of\_Use\_Gen\_05.10.2024v02**_
 * [Newsletter](https://www.ramseysolutions.com/newsletter)
 * [Newsroom](https://www.ramseysolutions.com/company/newsroom)
 * [Ramsey Press](https://www.ramseysolutions.com/company/ramsey-press)
-* [About](https://www.ramseysolutions.com/company)
+* [About](https://www.ramseysolutions.com/about)
 
 [](https://www.facebook.com/daveramsey)[](https://www.twitter.com/daveramsey)[](https://www.youtube.com/c/TheRamseyShow)[](https://www.instagram.com/daveramsey)
 
