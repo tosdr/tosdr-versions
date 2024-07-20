@@ -6,32 +6,32 @@ Experiment with 200+ high-quality presets
 
 [Download](https://vs.co/download)
 
-_We’re updating our Privacy Policy, effective July 10, 2024. To read our updated Privacy Policy,_ [_click here._](https://vsco.co/about/privacy-policy-effective-10-july-2024)
-
 Privacy Policy
 
-Effective as of May 29, 2024
+Effective as of July 10, 2024.  
+  
+Please click [**here**](https://vsco.co/about/privacy-policy-old) to view the previous version of our Privacy Policy.
 
 At VSCO, it’s important to us to be open and transparent with the creators who trust us with their data. This Privacy Policy describes our privacy practices and how we handle your data that we collect through our websites, products, services, social media, marketing activities, and other ways described in this Privacy Policy (collectively, our **“Services”**). This Privacy Policy supplements our [Terms of Use](https://vsco.co/about/terms-of-use). All provisions of our Terms of Use likewise apply to this Privacy Policy.
 
-If you’re a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, check out the [U.S. State Law Privacy Rights section below](#11-state-law-privacy-rights) for some additional information about your personal information and rights under state law.
+If you’re a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, check out the [U.S. State Law Privacy Rights section below](#) for some additional information about your personal information and rights under state law.
 
 Table of Contents
 -----------------
 
-1. [Data we collect](#1-data-we-collect)
-2. [How we use your data](#2-how-we-use-your-data)
-3. [How we share your data](#3-how-we-share-your-data)
-4. [How long we keep your data](#4-how-long-we-keep-your-data)
-5. [Your choices](#5-your-choices)
-6. [How we secure your data](#6-how-we-secure-your-data)
-7. [International data transfer](#7-international-data-transfer)
-8. [General audience service](#8-general-audience-service)
-9. [Changes to this Privacy Policy](#9-changes-to-this-privacy-policy)
-10. [How to contact us](#10-how-to-contact-us)
-11. [U.S. State Law Privacy Rights](#11-state-law-privacy-rights)
-12. [Privacy Notice to European Creators](#12-privacy-notice-to-european-countires)
-13. [**Privacy Notice for China Residents**](#13-privacy-notice-for-china-residents)
+1. [Data we collect](#)
+2. [How we use your data](#)
+3. [How we share your data](#)
+4. [How long we keep your data](#)
+5. [Your choices](#)
+6. [How we secure your data](#)
+7. [International data transfer](#)
+8. [General audience service](#)
+9. [Changes to this Privacy Policy](#)
+10. [How to contact us](#)
+11. [U.S. State Law Privacy Rights](#)
+12. [Privacy Notice to European Creators](#)
+13. [**Privacy Notice for China Residents**](#)
 
 #### Data we collect
 
@@ -64,14 +64,14 @@ The communications between us when you contact us with questions, comments, or s
 Any feedback that you provide in any questionnaires, surveys, interviews, beta tests, or other scenarios in which we request your feedback
 
 **Payment and Transactional Data  
-**We need certain information about you so we can process your payments
+**We need certain information about you so we can process your payments.
 
 Name, country, payment card information, bank account number, billing information, subscription information, purchase history
 
 **Marketing Data  
-**We want to honor your choices regarding our marketing efforts, and to understand how our marketing campaigns are performing.
+**We want to honor your choices regarding marketing efforts, and to understand how marketing campaigns are performing.
 
-Your preferences for receiving our marketing communications and details about your engagement with them
+Your preferences for receiving marketing communications and details about your engagement with marketing communications
 
 **User-Generated Content  
 **You’ll get to interact with other creators and generate your own content when you use our Services.
@@ -83,17 +83,12 @@ Profile information, images, music, videos, collages, montages, comments, tags, 
 
 Contacts that you share with us
 
-**Non-fungible token (“NFT”) Data  
-**We might need NFT data related to artists and their content, curators, exhibitions, and collections if we offer NFT-related products.
-
-Artist or artwork information, cryptocurrency wallet address and accounts, cryptocurrency transactions, cryptocurrency balance, keys, the content of the NFT, information on the related blockchain
-
 Date We Collect From Third Parties
 
 Examples
 
 **Data from Social Media Platforms  
-**Sometimes you might connect with us on social media
+**Sometimes you might connect with us on social media.
 
 Your interactions with our social media posts, your mentions of VSCO or VSCO related hashtags in your social media posts
 
@@ -105,9 +100,15 @@ Contact lists that other creators sync with our Services
 **Data from your Single Sign On (SSO) Provider  
 **We try to make the login process simpler for you by providing you with some SSO options.
 
-Information related to your account with the SSO provider, such as your name, picture, username, email address, or phone number
+**Data from your Single Sign On (SSO) Provider  
+**We try to make the login process simpler for you by providing you with some SSO options.
 
-**Data from Partners**
+**Data from Advertising Partners and Intermediaries  
+**
+
+We may receive information about you from third-party advertising partners and intermediaries, such as event data (e.g actions taken on a third party property, like purchases or downloads), email addresses, phone numbers, or other identifiers (e.g., cookie IDs, mobile advertising IDs, alternative IDs like LiveRamp RampIDs), or demographic or other analytical data.
+
+**Data from Other Partners**
 
 You might access VSCO through a partnership we have with another party. If so, that partner may share analytics information with us, error reporting, or other information needed for us to improve our Services or facilitate the partnership.
 
@@ -123,14 +124,14 @@ Operating system type and version, device type, device model, browser type, IP a
 **Online Activity Data  
 **We learn about how you’re engaging with us and our Services online.
 
-Your interactions with different parts of our Services, including information you provide, mouse movements, scrolling, keystroke and click activity, browsing and search behavior, the website that referred you to us, your interactions with us through our push notifications or other communications channels, whether you opened our marketing emails or clicked links within them
+Your interactions with different parts of our Services, including information you provide, the pages or profiles you are on, the content or ads you view or interact with, mouse movements, scrolling, keystroke and click activity, browsing and search behavior, the website that referred you to us, your interactions with us through our push notifications or other communications channels, whether you opened our marketing emails or clicked links within them.
 
 **Metadata about Your Content  
 **We get data about the content you contribute to our Services.
 
 How, when, and where you created your content, how you edited your content, and other information you provide to us through comments, chat features, or other communications
 
-We may automatically collect the data outlined above when you use our Services, read our emails or otherwise interact with our Services through a computer or mobile device. We typically collect this information through a variety of tracking technologies, including cookies, web beacons, embedded scripts, mobile SDKs, location-identifying tools, and similar technologies, and we may use third-party partners or technologies to collect, monitor or record this information. You may be able to configure your browser and device settings to limit or disable the use of cookies and similar technologies. You can learn more in the “Your choices” section of this Privacy Policy. 
+We may automatically collect the data outlined above when you use our Services, read our emails, or otherwise interact with our Services through a computer or mobile device. We typically collect this information through a variety of first- or third-party tracking technologies, including cookies, web beacons, embedded scripts, APIs, mobile SDKs, location-identifying tools, and similar technologies, and we may otherwise use third-party partners to collect, monitor, or record this information. This information may be combined, either via such technologies or through another process, with information that you provided to us directly or information that we receive from a third party. You may be able to configure your browser and device settings to limit or disable the use of cookies or similar technologies. You can learn more in the “Your choices” section of this Privacy Policy.
 
 #### How we use your data
 
@@ -143,9 +144,10 @@ What this means
 **Delivering our Services  
 **We’ll use your data to provide our Services to you.
 
-We use your data to provide and enhance our Services and our business, establish, and maintain your account and profile, facilitate the display and transfer of NFTs (if we offer this functionality) and related content, promote and facilitate business between yourself and businesses, enable security features, communicate with you about our Services, understand your needs and interests as they relate to our Services, personalize your experience with our Services, respond to your requests, questions, and comments, and invite your contacts that you invite to join our Services.
+We use your data to provide and enhance our Services and our business, establish, and maintain your account and profile, and related content, promote and facilitate business between yourself and businesses, enable security features, communicate with you about our Services, understand your needs and interests as they relate to our Services, personalize your experience with our Services, respond to your requests, questions, and comments, and invite your contacts that you invite to join our Services.
 
-**Improving our Services**
+**Improving our Services  
+**We may use your data to help us improve our products and services.
 
 We use your data to monitor our Services, and to improve the performance and effectiveness of our Services, offers, advertising, communications features (such as live and automated chat), and customer service functionality. We may also use analytics tools to help us measure traffic and usage trends for our Services and to understand more about the demographics and behaviors of our creators.
 
@@ -157,14 +159,19 @@ We may use your data for research and development so we can understand and impro
 As part of these activities, we may also create aggregated, de-identified, or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you.
 
 **Marketing  
-‍**Depending on your choices, you might get marketing communications about our Services.
+**Depending on your choices, you might get marketing communications about our Services or other services.
 
 **Direct marketing**. We may send you direct marketing communications about our Services or products or services that we offer with our marketing partners.  
   
 If you would rather not receive our marketing emails, you can follow the steps in the “[Opt-Out of Marketing](https://vsco.co/about/privacy-policy#l5)” section later in this Privacy Policy.  
 ‍  
-**Interest-based advertising**. We may engage third-party advertising technology partners to display ads on other online services.  These companies may use cookies and similar technologies with our Services, our communications, and on other online services, and use that information to serve online ads that they think will interest you. This is called interest-based advertising. We may also share information about our creators with these companies to facilitate interest-based advertising to those users or similar users on other online platforms. You can learn more about your choices for limiting interest-based advertising in the “Your choices” section of this Privacy Policy.  
-We will also disclose information to advertising technology partners for purposes of measuring the effectiveness of our ads, such as actions that you take on our Services.
+**Interest-based advertising**. We may engage third-party advertising partners to display ads on our Services and on third-party properties. These companies may use cookies and similar technologies in connection with our Services, our communications, and on other services, and use the information collected via such technologies to serve ads on our Services that they think will interest you (e.g., ads from third-party advertisers) or on other third-party properties (e.g., ads from VSCO or other ads that may interest you). This activity is typically called interest-based advertising or targeted advertising.  
+  
+We may also receive information about our creators from third-party advertising partners, which we then use to match to, and better understand, those creators or similar creators within our Services to serve targeted advertising to those creators on an advertiser’s behalf. Similarly, we may upload information about our creators to advertising partners to facilitate interest-based advertising to those users, or similar users, on our or other services. You can learn more about your choices for limiting interest-based advertising in the “Your choices” section of this Privacy Policy.  
+  
+We may also disclose information, such as event data, ad view/click data, and user identifiers, to advertising partners for purposes of measuring the effectiveness of ads (e.g., whether actions that you take on or off our Services were a result of ads that you may have seen or clicked on).  
+‍  
+Note that information we may receive from other sources may also be used for interest-based advertising purposes, such as information we receive that helps us better understand our users.
 
 **Compliance and Protection  
 **We may need to use your data in certain ways to make sure we provide our Services legally and safely.
@@ -185,27 +192,29 @@ Affiliates
 
 We might share your data with our corporate affiliates or subsidiaries to do the things mentioned in this Privacy Policy.
 
-Service providers and partners
+Service Providers and Partners
 
 We lean on certain companies and individuals that provide services on our behalf or help us operate our Services or our business. These service providers perform services like data hosting, email delivery and marketing activities, and provide or support features like chat and communications tools, information technology, customer service and website monitoring and analytics. We may also collaborate with other companies on partnerships intended to help distribute, enhance, or extend our Services or to bring you co-branded product experiences.
 
-Advertising technology companies
+Advertising Partners and Intermediaries
 
-We may work with advertising networks, social media networks, or other adtech providers to advertise to you or to measure the effectiveness of our advertising.  You can learn about the options you have to opt-out of interest-based advertising in the “[Your Choices](#5-your-choices)” section of this Privacy Policy.
+We work with third-party advertising partners and intermediaries (e.g., ad networks, retargeters, sell-side or demand-side platforms, ad servers, clean rooms, identity resolution providers, measurement providers, publishers such as social media platforms or digital/print content providers, advertisers, agencies) to facilitate the delivery of advertising to you on VSCO or on third-party properties or to measure the effectiveness of those ads.  
+  
+You can learn about the options you have to opt-out of interest-based advertising in the “[Your Choices](#)” section of this Privacy Policy.
 
-Professional advisors
+Professional Advisors
 
 We may need to share your data with our professional advisors, like our lawyers, auditors, bankers, and insurers if it’s necessary for them to provide their services.
 
-Authorities and others
+Authorities and Others
 
 We may need to share your data with law enforcement, government authorities, and private parties if we need to do so for the compliance or protection purposes described above.
 
-Business transferees
+Business Transferees
 
 If we go through a business transaction like a merger, acquisition, corporate divestiture, or dissolution (including bankruptcy), or a sale of all or some of our assets, we may share or transfer your data to the parties (or their advisors) to the transaction during the transaction or in contemplation of the transaction (including during due diligence).
 
-Other creators, companies, and the public
+Other Creators, Companies and the Public
 
 Your profile and content are publicly visible and can be seen and used by others.  
   
@@ -213,7 +222,7 @@ We may create other ways you can interact and communicate with other creators, i
   
 We may also offer ways for you to interact with businesses that may wish to work with you, and your contact details may be made available to facilitate such potential interactions. More broadly, certain data relating to these interactions may be visible b businesses, other creators, and the public. 
 
-We make commercially reasonable efforts to verify that any third parties who we share personal information with provide a level of protection of personal information that is consistent with this Privacy Policy. Except for service providers and affiliates, any such third parties may use personal information as described in their own privacy policies to the extent permitted by law.
+We make commercially reasonable efforts to verify that any third parties who we share personal information with provide a level of protection of personal information that is consistent with this Privacy Policy. Except for service providers and affiliates, any such third parties may use such personal information as described in their own privacy policies or otherwise pursuant to their own practices. 
 
 #### How Long We Keep Your Data
 
@@ -225,7 +234,7 @@ Remember that it is impossible to ensure that anything on the internet is ever c
 
 #### Your choices
 
-You have control over your data in several ways. This table summarizes your choices concerning your data. If you’re located in California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia, you can find additional information in the [U.S. State Law Privacy Rights](#11-state-law-privacy-rights) section below.
+You have control over your data in several ways. This table summarizes your choices concerning your data. If you’re located in California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia, you can find additional information in the [U.S. State Law Privacy Rights](#) section below.
 
 What you can do with your data
 
@@ -295,7 +304,9 @@ From time to time, we may update this Privacy Policy. If we make any material ch
 U.S. State Privacy Rights
 -------------------------
 
-This section provides additional disclosures to California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia residents under their respective state privacy laws, including further information on their rights under such laws. In this section, when we use the term “personal information,” we mean as such term (or similar term, such as “personal data”) is defined under those laws.
+This section provides additional disclosures to California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia residents under their respective state privacy laws, including further information on their rights under such laws.
+
+In this section, when we use the term “personal information” we mean it (or similar term, such as “personal data”) as it is defined under those laws. 
 
 **Verification.** We’ll need enough detail to understand and respond to your request. We may need to verify your identity to process your requests and may also need to confirm your state residency. To verify your identity, we may require a combination of government identification, a copy of the receipt for your VSCO membership, or other information. We may also require you to login from a verified valid device or verify that the device you’re logging in from is valid.
 
@@ -319,21 +330,15 @@ You have certain rights regarding your personal information under the state cons
 
 **Opting out of “sales,” “sharing,” and processing for “targeted advertising” purposes.**
 
-Like many companies, we use advertising technology companies (e.g., ad networks, retargeters, demand-side platforms, identity resolution providers, measurement partners, publishers such as social media platforms or digital/print content providers) to help deliver targeted ads to you based on your activity across unrelated properties (e.g., your activity on VSCO and other social media networks) and to measure the effectiveness of such ads. 
+Like many companies, we work with advertising partners and intermediaries (e.g., ad networks, retargeters, sell-side or demand-side platforms, ad servers, clean rooms, identity resolution providers, measurement providers, publishers such as social media platforms or digital/print content providers, advertisers, agencies) to help deliver targeted ads to you on VSCO or other properties based on your activity across unrelated properties (e.g., your activity on VSCO and social media networks or other digital properties) and to measure the effectiveness of such ads.  
 
-Through the use of cookies or other tracking technologies, we make personal information (e.g., device data tied to online activity data) available to adtech companies for such purposes. We may also upload information (e.g. email address) about our creators to these companies to facilitate interest-based advertising to those or similar creators on other online platforms. In either case, under certain state consumer privacy laws, these disclosures of personal information may be considered a“sale”/”share” (or processing for “targeted advertising” more generally) unless certain exceptions apply (e.g., disclosing personal information to a “service provider” or “processor,” where applicable).
+Through the use of cookies or other tracking technologies, we make personal information (e.g., device data tied to online activity data, identity data such as email addresses or phone numbers) available to such partners or intermediaries for such purposes. We may also upload information (e.g., email address, phone number) about our creators to these partners or intermediaries to facilitate such purposes. In either case, under certain state consumer privacy laws, these disclosures of personal information may be considered a “sale” or “share” (or processing for “targeted advertising” more generally) unless certain exceptions apply (e.g., disclosing personal information to a “service provider” or “processor,” where applicable).
 
 If we know that you’re 13-15 years of age, we won’t “sell”or “share” your Personal Information unless we get your consent to do so.
 
 ‍_Opting out of “Sales,” “Shares,” and“Targeted Advertising” Involving Cookies or Other Tracking Technologies_
 
-You can opt-out of "sales,” “shares,” and processing for “targeted advertising” that occur via cookies or other tracking technologies by clicking **Your Privacy Choices** in our website footer below and opting out of “Targeting Cookies”. Your request to opt-out will apply only to the browser on the device from which you submit the request, and, if you delete your cookies, you will need to opt-out again in a subsequent session on this website.
-
-You can opt-out of these "sales,” “shares,” and processing for “targeted advertising” by clicking **Your Privacy Choices** in our website footer below. Your request to opt-out will apply only to the browser on the device from which you submit the request, and, if you delete your cookies, you will need to opt-out again in a subsequent session on this website.
-
-Alternatively, for this opt-out in relation to cookies and other tracking technologies, you can also broadcast the Global Privacy Control (GPC) to opt-out on each participating browser on the device that you’re using. Learn more at the [**Global Privacy Control website**](https://globalprivacycontrol.org/).
-
-To opt-out of “sales/shares” or processing for “targeted advertising” that do not rely on adtech tracking technologies on this website (e.g., upload of users’ email addresses to other social media platforms to target them with ads), you must also opt out by submitting a request [**here**](https://vsco.formstack.com/forms/vsco_data_request) (also accessible via our **Your Privacy Choices** link).
+To opt-out of “sales/shares” or processing for “targeted advertising” that do not rely on third-party advertising partners or intermediaries’ tracking technologies on this website (e.g., upload of users’ email addresses to other social media platforms to target them with ads), you must also opt out by submitting a request [here](https://vsco.formstack.com/forms/vsco_data_request) (also accessible via our **Your Privacy Choices** link).
 
 **Appeals.** If you are a Colorado, Connecticut, Motana, Oregon, Texas, or Virginia resident, you may appeal our refusal to take action on a request exercising one of your rights mentioned above by contacting our [Support Team.](https://support.vsco.co/hc/en-us)
 
@@ -353,7 +358,7 @@ Categories of recipients to whom we “disclose” PI for a business purpose
 
 Identifiers
 
-Account data, profile data, data about others, our communications with you, identifiers, data about others, and non-fungible token data
+Account data, profile data, data about others, our communications with you, identifiers, data about others
 
 You or Third party sources
 
@@ -361,11 +366,11 @@ Delivering our Services, Research and development, Marketing, and Compliance and
 
 Affiliates, Service Providers, Professional advisors, Authorities and others, Business transferees, and other creators and the public
 
-Advertising technology companes
+Advertising Partners and Intermediaries
 
 California Customer Records (as defined in California Civil Code section 1798.80)
 
-Account data, profile data, our communications with you, feedback, payment and transactional data, your content, data about others, and non-fungible token data
+Account data, profile data, our communications with you, feedback, payment and transactional data, your content, data about others
 
 You
 
@@ -373,11 +378,11 @@ Delivering our Services, Research and development, Marketing, and Compliance and
 
 Service Providers, Professional advisors, Authorities and others, Business transferees, and other creators and the public
 
-Advertising technology companies
+Advertising Partners and Intermediaries
 
 Commercial Information
 
-Payment and transactional data, marketing data, feedback, online activity data, and non-fungible token data
+Payment and transactional data, marketing data, feedback, online activity data
 
 You or Automatic collection
 
@@ -385,11 +390,11 @@ Delivering our Services, Research and development, Marketing, and Compliance and
 
 Service Providers, Professional advisors, Authorities and others, and Business transferees
 
-Advertising technology comanies
+Advertising Partners and Intermediaries
 
 Online Identifiers
 
-Profile data, device data, and non-fungible token data
+Profile data, device data
 
 You or Automatic collection
 
@@ -397,7 +402,7 @@ Delivering our Services, Research and development, Marketing, and Compliance and
 
 Service Providers, Professional advisors, Authorities and others, Business transferees, and other creators and the public
 
-Advertising technology companies
+Advertising Partners and Intermediaries
 
 Internet or Network Information
 
@@ -409,7 +414,7 @@ Delivering our Services, Research and Development, Marketing, and Compliance and
 
 Service Providers, Professional advisors, Authorities and others, and Business transferees
 
-Advertising technology companies
+Advertising Partners and Intermediaries
 
 Geolocation Data
 
@@ -421,11 +426,11 @@ Delivering our Services, Research and development, Marketing, and Compliance and
 
 Business partners, Service Providers, Professional advisors, Authorities and others, Business transferees, and other creators & the public
 
-Advertising technology companies
+Advertising Partners and Intermediaries
 
 Inferences
 
-May be derived from your: Payment & transactional data, marketing data, content of creators, device data, online activity data, non-fungible token data
+May be derived from your: Payment & transactional data, marketing data, content of creators, device data, online activity data
 
 N/A
 
@@ -433,7 +438,7 @@ Delivering our Services, Research and development, Marketing, and Compliance and
 
 Business partners, Service Providers, Authorities and others, and Business transferees
 
-Advertising technology companies
+Advertising Partners and Intermediaries
 
 Protected Classification Characteristics
 
@@ -495,17 +500,17 @@ The information provided in this notice applies only to individuals in the Europ
 
 Legal basis
 
-[**Delivering our Services**](#delivering-our-services)
+[**Delivering our Services**](#)
 
 Processing is necessary to perform the contract governing our provision of our Services or to take steps that you request prior to signing up for our Services. If we have not entered into a contract with you, we process your personal data based on our legitimate interest in providing our Services you access and request.
 
 [**Research and development  
 ‍  
-‍**](#research-and-development)[**Marketing  
+‍**](#)[**Marketing  
 ‍  
-‍**](#marketing)[**Compliance and protection  
+‍**](#)[**Compliance and protection  
 ‍  
-‍**](#compliance-and-protection)**As otherwise described in the Privacy Policy**
+‍**](#)**As otherwise described in the Privacy Policy**
 
 These activities constitute our legitimate interests. We do not use your personal data for these activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 
