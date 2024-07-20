@@ -1,99 +1,75 @@
-You have JavaScript disabled
+[Skip to main content](#maincontent)[Skip to search](#navigation-search)
 
-For the best experience, please turn JavaScript on. [Here's how](https://enable-javascript.com/)
+[Ideas change everything](https://www.ted.com/)
 
-[Menu Main menu](#)
+* WATCH
+    
+    [TED Talks
+    
+    Browse the library of TED talks and speakers](https://www.ted.com/talks)[Playlists
+    
+    100+ collections of TED Talks, for curious minds](https://www.ted.com/playlists)[TED Series
+    
+    Go deeper into fascinating topics with original video series from TED](https://www.ted.com/series)[TED-Ed videos
+    
+    Watch, share and create lessons with TED-Ed](https://www.ted.com/watch/ted-ed)[TEDx Talks
+    
+    Talks from independently organized local events](https://www.ted.com/watch/tedx-talks)
+    
+* DISCOVER
+    
+    [Topics
+    
+    Explore TED offerings by topic](https://www.ted.com/topics)[Podcasts
+    
+    Explore the TED Audio Collective](https://audiocollective.ted.com/)[Ideas Blog
+    
+    Our daily coverage of the world of ideas](https://ideas.ted.com/)[Newsletters
+    
+    Inspiration delivered straight to your inbox](https://www.ted.com/newsletters)
+    
+* ATTEND
+    
+    [Conferences
+    
+    Take part in our events: TED, TEDGlobal and more](https://www.ted.com/attend/conferences)[TEDx Events
+    
+    Find and attend local, independently organized events](https://www.ted.com/tedx/events)[TED on Screen
+    
+    Experience TED from home](https://www.ted.com/attend/ted-on-screen)[TED Courses
+    
+    Learn from TED speakers who expand on their world-changing ideas](https://courses.ted.com/)
+    
+* PARTICIPATE
+    
+    [Nominate
+    
+    Recommend speakers, TED Prize recipients, Fellows and more](https://www.ted.com/participate/nominate)[Organize a local TEDx Event
+    
+    Rules and resources to help you plan a local TEDx event](https://www.ted.com/participate/organize-a-local-tedx-event)[Translate
+    
+    Bring TED to the non-English speaking world](https://www.ted.com/participate/translate)[TED Fellows
+    
+    Join or support innovators from around the globe](https://www.ted.com/participate/ted-fellows-program)
+    
+* ABOUT
+    
+    [Our Organization
+    
+    Our mission, history, team, and more](https://www.ted.com/about)[Conferences
+    
+    TED Conferences, past, present, and future](https://www.ted.com/about/conferences)[Programs & Initiatives
+    
+    Details about TED's world-changing initiatives](https://www.ted.com/about/programs-initiatives)[Partner with TED
+    
+    Learn how you can partner with us](https://www.ted.com/about/partner-with-ted)[TED Blog
+    
+    Updates from TED and highlights from our global community](https://blog.ted.com/)
+    
 
-[TED
+[SIGN IN](https://auth.ted.com/users/new)[JOIN TED](https://www.ted.com/membership?utm_medium=website&utm_source=main-nav-header&utm_campaign=membership-ted)[JOIN TED](https://giving.ted.com/page/fru-member)
 
-Ideas change everything](https://www.ted.com/)
-
-* [Watch](#)
-    * [TED Talks
-        
-        Browse the library of TED talks and speakers](https://www.ted.com/talks)
-    * [Playlists
-        
-        100+ collections of TED Talks, for curious minds](https://www.ted.com/playlists)
-    * [TED Series
-        
-        Go deeper into fascinating topics with original video series from TED.](https://www.ted.com/series)
-    * [TED-Ed videos
-        
-        Watch, share and create lessons with TED-Ed](https://www.ted.com/watch/ted-ed)
-    * [TEDx Talks
-        
-        Talks from independently organized local events](https://www.ted.com/watch/tedx-talks)
-* [Discover](#)
-    * [Topics
-        
-        Explore TED offerings by topic](https://www.ted.com/topics)
-    * [Podcasts
-        
-        TED's original podcast initiatives](https://audiocollective.ted.com/)
-    * [TED Books
-        
-        Short books to feed your craving for ideas](https://www.ted.com/read/ted-books)
-    * [Ideas Blog
-        
-        Our daily coverage of the world of ideas](https://ideas.ted.com/)
-    * [Newsletter
-        
-        Inspiration delivered straight to your inbox](https://www.ted.com/newsletter)
-* [Attend](#)
-    * [Conferences
-        
-        Take part in our events: TED, TEDGlobal and more](https://www.ted.com/attend/conferences)
-    * [TEDx events
-        
-        Find and attend local, independently organized events](https://www.ted.com/tedx/events)
-    * [TED on screen
-        
-        Experience TED from home](https://www.ted.com/attend/ted-on-screen)
-    * [TED Courses
-        
-        Learn from TED speakers who expand on their world-changing ideas](https://courses.ted.com/)
-* [Participate](#)
-    * [Nominate
-        
-        Recommend speakers, Audacious Projects, Fellows and more](https://www.ted.com/participate/nominate)
-    * [Organize a local TEDx event
-        
-        Rules and resources to help you plan a local TEDx event](https://www.ted.com/participate/organize-a-local-tedx-event)
-    * [Translate
-        
-        Bring TED to the non-English speaking world](https://www.ted.com/participate/translate)
-    * [TED Fellows
-        
-        Join or support innovators from around the globe](https://www.ted.com/participate/ted-fellows-program)
-* [About](#)
-    * [Our organization
-        
-        Our mission, history, team, and more](https://www.ted.com/about)
-    * [Conferences
-        
-        TED Conferences, past, present, and future](https://www.ted.com/about/conferences)
-    * [Programs & Initiatives
-        
-        Details about TED's world-changing initiatives](https://www.ted.com/about/programs-initiatives)
-    * [Partner with TED
-        
-        Learn how you can partner with us](https://www.ted.com/about/partner-with-ted)
-    * [TED Blog
-        
-        Updates from TED and highlights from our global community](https://blog.ted.com/)
-    * [TED Guide to Public Speaking
-        
-        An insider’s guide to creating talks that are unforgettable](https://www.ted.com/read/ted-talks-the-official-ted-guide-to-public-speaking)
-[Membership](https://www.ted.com/membership?utm_medium=website&utm_source=main-nav-header&utm_campaign=membership-ted)
-
-[](https://www.ted.com/dashboard "Your account")
-
-[Sign in](https://www.ted.com/session/new?context=ted.www%2Fmain-nav&referer=https%3A%2F%2Fwww.ted.com%2Fabout%2Four-organization%2Four-policies-terms%2Fted-talks-usage-policy)
-
-[Search](https://www.ted.com/search)
-
-Search:  [Cancel search](#)
+Type to search
 
 ### [Our Organization](https://www.ted.com/about/our-organization)
 
@@ -101,7 +77,6 @@ Search:  [Cancel search](#)
     * [TED’s Curation Guidelines](https://www.ted.com/about/our-organization/how-ted-works/ted-s-curation-guidelines)
     * [Giving to TED](https://www.ted.com/about/our-organization/how-ted-works/giving-to-ted)
 * [History of TED](https://www.ted.com/about/our-organization/history-of-ted)
-    
 * [Jobs at TED](https://www.ted.com/about/our-organization/jobs-at-ted)
 * [Our policies + terms](https://www.ted.com/about/our-organization/our-policies-terms)
     * [TED Talks Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy)
@@ -110,7 +85,7 @@ Search:  [Cancel search](#)
     * [Privacy Policy](https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy)
     * [TED Science Standards](https://www.ted.com/about/our-organization/our-policies-terms/ted-science-standards)
     * [TED Content Guidelines](https://www.ted.com/about/our-organization/our-policies-terms/ted-content-guidelines)
-* [Contact us](https://www.ted.com/about/our-organization/contact-us)
+* [Contact us](https://help.ted.com/hc/en-us)
     * [Press and media information](https://www.ted.com/about/our-organization/contact-us/press-and-media-information)
 
 About  ›  [Our Organization](https://www.ted.com/about/our-organization)  ›  [Our policies + terms](https://www.ted.com/about/our-organization/our-policies-terms)  ›  
@@ -179,7 +154,7 @@ If you are a for-profit company seeking to: create a TED-branded video offering,
 * TV or Film Creator (including documentaries)
 * Other Commercial Entity
 
-If you'd like to learn more about corporate partnerships with TED, read about how to [partner with us](https://www.ted.com/about/partner-with-ted) or email [partnerships@ted.com](mailto:partnerships@ted.com).
+If you'd like to learn more about corporate partnerships with TED, read about how to [partner with us](https://www.ted.com/about/partner-with-ted) or email partnerships@ted.com.
 
 * * *
 
@@ -246,63 +221,79 @@ For press information, images and media resources about TED conferences, TED.com
 **Can I translate TED content for my YouTube channel?**  
 We do not permit individuals and/or organizations to translate or dub outside of the official TED Translator community, as modifying the content in this way is not covered under TED's Creative Commons license. Please also note TED and TED-Ed have official channels on YouTube, and our distribution policy does not permit re-uploading TED content onto other YouTube channels. If you are interested in making ideas more accessible to your community, join our [TED Translator community](https://www.ted.com/participate/translate/our-translators)!
 
-[TED](https://www.ted.com/)
-
-### Programs & initiatives
+Explore
 
 * [TEDx](https://www.ted.com/about/programs-initiatives/tedx-program)
+    
 * [TED Fellows](https://www.ted.com/about/programs-initiatives/ted-fellows-program)
+    
 * [TED Ed](https://www.ted.com/about/programs-initiatives/ted-ed)
+    
 * [TED Translators](https://www.ted.com/about/programs-initiatives/ted-translators)
+    
 * [TED Institute](https://www.ted.com/about/programs-initiatives/ted-institute)
+    
 * [The Audacious Project](https://www.ted.com/about/programs-initiatives/the-audacious-project)
+    
 * [TED@Work](https://tedatwork.ted.com/)
-* [TED Courses](https://courses.ted.com/)
-
-### Ways to get TED
-
+    
 * [Podcasts](https://www.ted.com/podcasts)
-* [More ways to get TED](https://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks)
-
-### Follow TED
-
-* [Facebook](https://www.facebook.com/TED)
-* [Twitter](https://twitter.com/tedtalks)
-* [Instagram](https://instagram.com/ted)
-* [YouTube](https://www.youtube.com/ted)
-* [LinkedIn](https://www.linkedin.com/company/ted-conferences/)
+    
 * [TED Blog](https://blog.ted.com/)
+    
+* [More ways to get TED](https://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks)
+    
 
-### Our community
+Our community
 
 * [TED Speakers](https://www.ted.com/people/speakers)
+    
 * [TED Fellows](https://www.ted.com/people/fellows)
+    
 * [TED Translators](https://www.ted.com/people/translators)
+    
 * [TEDx Organizers](https://www.ted.com/people/tedx)
+    
 * [TED Community](https://www.ted.com/people)
+    
 
-### TED Newsletters
+Newsletters
 
-Get the latest TED Talks delivered daily, right to your inbox
+Get the latest talks
 
-[Sign up now](https://www.ted.com/newsletters)
+Get a daily email featuring the latest talk, plus a quick mix of trending content.
 
-### Language Selector
+Subscribe
 
-TED.com translations are made possible by volunteer translators. Learn more about the [Open Translation Project](https://www.ted.com/pages/open_translation_project).
+By subscribing, you understand and agree that we will store, process and manage your personal information according to our [Privacy Policy](https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy)
 
-English
+Follow TED
+
+[](https://www.linkedin.com/company/ted-conferences/)[](https://twitter.com/tedtalks)[](https://instagram.com/ted)[](https://www.youtube.com/ted)[](https://www.facebook.com/TED)
+
+Download the TED App
+
+[](https://play.google.com/store/apps/details?id=com.ted.android&utm_medium=email&utm_source=ted_talks_daily_newsletter&utm_campaign=daily&user_email_address=f325af12e52a26ff58bb171ffc448307)[](https://apps.apple.com/app/apple-store/id376183339?user_email_address=f325af12e52a26ff58bb171ffc448307&utm_campaign=daily&utm_medium=email&utm_source=ted_talks_daily_newsletter)
+
+Download the TED App
+
+[](https://play.google.com/store/apps/details?id=com.ted.android&utm_medium=email&utm_source=ted_talks_daily_newsletter&utm_campaign=daily&user_email_address=f325af12e52a26ff58bb171ffc448307)[](https://apps.apple.com/app/apple-store/id376183339?user_email_address=f325af12e52a26ff58bb171ffc448307&utm_campaign=daily&utm_medium=email&utm_source=ted_talks_daily_newsletter)
 
 * [TED Talks Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy)
+    
 * [Privacy Policy](https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy)
+    
 * [Advertising / Partnership](https://www.ted.com/about/partner-with-ted)
+    
 * [TED.com Terms of Use](https://www.ted.com/about/our-organization/our-policies-terms/ted-com-terms-of-use)
+    
 * [Jobs](https://www.ted.com/about/our-organization/jobs-at-ted)
+    
 * [Press](https://www.ted.com/about/our-organization/contact-us/press-and-media-information)
+    
 * [Help](https://support.ted.com/)
+    
 * Privacy Preferences
-* [Membership](https://www.ted.com/membership?utm_medium=website&utm_source=footer&utm_campaign=membership-ted)
+    
 
 © TED Conferences, LLC. All rights reserved.
-
-[](#)
