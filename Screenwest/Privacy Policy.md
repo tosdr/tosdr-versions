@@ -48,6 +48,7 @@ Search this website  Search
     * [From Here to the World: Film and TV made in WA](https://www.screenwest.com.au/made-in-wa/production-highlights/)
 * [News](https://www.screenwest.com.au/news/)
     * [Latest News](https://www.screenwest.com.au/news/latest-news/)
+    * [Expressions of Interest – WA Crew](https://www.screenwest.com.au/news/expressions-of-interest-wa-crew/)
     * [Funding Approvals](https://www.screenwest.com.au/news/funding-approvals/)
     * [Sign Up to the Screenwest Newsletter](https://www.screenwest.com.au/news/subscribe/)
 
@@ -239,6 +240,8 @@ Screenwest acknowledges and pays respect to all Traditional Owners of Country ac
 [News](https://www.screenwest.com.au/news/)
 
 [Latest News](https://www.screenwest.com.au/news/latest-news/)
+
+[Expressions of Interest – WA Crew](https://www.screenwest.com.au/news/expressions-of-interest-wa-crew/)
 
 [Funding Approvals](https://www.screenwest.com.au/news/funding-approvals/)
 
