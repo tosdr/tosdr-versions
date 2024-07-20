@@ -318,7 +318,6 @@ Get in Touch with Our Sales Team
 * [About Us](https://www.vidyard.com/about/)
 * [CareersNow Hiring](https://www.vidyard.com/careers/)
 * [Press](https://www.vidyard.com/press/)
-* [Media Kit](https://www.vidyard.com/media-kit/)
 * [Our Customers](https://www.vidyard.com/case-studies/)
 * [Contact Us](https://www.vidyard.com/contact/)
 
@@ -334,6 +333,7 @@ Get in Touch with Our Sales Team
 * [Cam Test](https://www.vidyard.com/cam-test/)
 * [Developers](https://www.vidyard.com/developers/)
 * [Partners Directory](https://www.vidyard.com/partners-directory/)
+* [Our Security Program](https://trust.vidyard.com/)
 * [Knowledge Base](https://knowledge.vidyard.com/hc/en-us)
 
 * * *
