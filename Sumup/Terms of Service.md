@@ -3,7 +3,7 @@
 * [EN](https://www.sumup.com/en-us/terms/)
 * [ES](https://www.sumup.com/es-us/terms/)
 
-![](https://images.ctfassets.net/txhaodyqr481/3tKFvo6occQCny3zAE18gr/de8850fca4ac354840bf36264c1618be/Ts_Cs_hero_illustration-Desktop.svg?q=85)
+![](https://images.ctfassets.net/txhaodyqr481/73mTNrxI9T7W0RR3I9tiQ6/ae41ee10a1806fcb1fe4574e443679cb/SumUp_TermsAndConditions_Hero_US_Desktop_V01.png?q=85&w=1440)
 
 Terms and Conditions
 ====================
@@ -13,6 +13,8 @@ The following terms and conditions (“Terms”) are a legal agreement between y
 SumUp, Inc. is a Delaware corporation, with its registered office at 1209 Orange Street, Wilmington, DE 19801.
 
 This agreement is separated into three parts:  Part One contains terms relating to your use of the Services in general. Part Two contains terms relating to payment processing as part of the Services. Part Three contains additional terms relating to the legal relationship between you and SumUp.
+
+For SumUp Kiosk terms and conditions, please click here.
 
 **PART ONE - The Services**
 
