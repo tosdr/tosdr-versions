@@ -203,7 +203,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eew/Wirtschaft/lidx/1/ "T
 * [Graduate Recruiting](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~eln/Absolventinnen-Absolventen-anwerben/lidx/1/ "Corporate Relations > Recruiting > Graduate Recruiting")
 * [Career Days and Fairs](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~qnms/Career-Days-und-Messen/lidx/1/ "Corporate Relations > Recruiting > Career Days and Fairs")
 * [Company Presentations](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~bjdn/Unternehmenspraesentationen/lidx/1/ "Corporate Relations > Recruiting > Company Presentations")
-* [Dean’s List – Offerings for Companies](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~bdedfv/Dean-s-List-Angebote-fuer-Unternehmen/lidx/1/ "Corporate Relations > Recruiting > Dean’s List – Offerings for Companies")
+* [Dean’s List – Opportunities for Companies](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~bdedfv/Dean-s-List-Angebote-fuer-Unternehmen/lidx/1/ "Corporate Relations > Recruiting > Dean’s List – Opportunities for Companies")
 * [Employer Branding and Year-Round Visibility](https://www.rwth-aachen.de/cms/root/Wirtschaft/Recruiting/~qnmx/Employer-Branding/lidx/1/ "Corporate Relations > Recruiting > Employer Branding and Year-Round Visibility")
 * [More ...](https://www.rwth-aachen.de/cms/root/Wirtschaft/~eku/Recruiting/lidx/1/ "Corporate Relations > Recruiting > More ...")
 
@@ -236,8 +236,8 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "To 
 * [Events](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~ulx/Veranstaltungen/lidx/1/ "About RWTH > News > Events")
 * [Spotlight](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~bbnqse/Im-Fokus/lidx/1/ "About RWTH > News > Spotlight")
 * [Donation Campaign: RWTH and Uniklinik RWTH Aachen Help Ukraine](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~trwsa/Spendenaktion-RWTH-und-UKA-helfen-in-de/lidx/1/ "About RWTH > News > Donation Campaign: RWTH and Uniklinik RWTH Aachen Help Ukraine")
-* [Information on Coronavirus / Covid-19](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~gybjo/Informationen-zu-Corona-Covid-19/lidx/1/ "About RWTH > News > Information on Coronavirus / Covid-19")
-* [Information on the Energy Situation](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~wyvwf/Informationen-zur-Energiesituation/lidx/1/ "About RWTH > News > Information on the Energy Situation")
+* [Next Generation University](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~wsqil/Next-Generation-University/lidx/1/ "About RWTH > News > Next Generation University")
+* [Publications](https://www.rwth-aachen.de/cms/root/Die-RWTH/Aktuell/~emw/Magazine-Periodika/lidx/1/ "About RWTH > News > Publications")
 * [More ...](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emo/Aktuell/lidx/1/ "About RWTH > News > More ...")
 
 #### [Profile](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emp/Profil/lidx/1/ "About RWTH > Profile")
