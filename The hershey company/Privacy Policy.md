@@ -82,7 +82,7 @@ Hershey Website Privacy Policy / Ad & Cookie Policy
 Privacy Policy
 ==============
 
-**Effective Date (last updated 5/15/23)**
+**Effective Date (last updated 7/01/2024)**
 
 [![](/en_us/home/privacy-policy/_jcr_content/root/container/section_869273549_co/col1/section_copy/col2/image.coreimg.svg/1628811012005/caruseal.svg)](https://caru.bbbprograms.org/seal/Confirmation/1680181193)
 
@@ -100,8 +100,7 @@ This Privacy Policy should be read in conjunction with our Cookie & Ads Policy, 
 
 Depending on how you interact with us or where you are located, different sections of this Privacy Policy may apply to you and include additional information relating to our data collection and use practices and your legal rights. Please review this Privacy Policy carefully to understand how we handle your Personal Data, and where applicable, the following sections:
 
-* **Residents of Europe**: If you are located in the European Economic Area (“**EEA**”), the United Kingdom (“**UK**”), or Switzerland, please review the “Additional Information for Residents of the EEA, UK, and Switzerland” section below for additional disclosures and a description of your rights under Regulation (EU) 2016/679 General Data Protection Regulation (GDPR) or other applicable data protection legislation.
-* **Residents of Brazil**: If you are located in Brazil, please review the “Additional Information for Residents of Brazil” section below for additional disclosures and a description of your rights under the Law No. 13.709 of 14 August 2018, General Personal Data Protection Law (as amended by Law No. 13.853 of 8 July 2019) (LGPD).
+* **Non-US Residents**: If you are located in the European Economic Area (“EEA”), the United Kingdom (“UK”), or Switzerland: please review the “Additional Information for non-US Residents” section below for additional disclosures and a description of your rights under Regulation (EU) 2016/679 General Data Protection Regulation (GDPR) or other applicable data protection legislation If you are located in Brazil, Canada, Mexico, or India please review the “Additional Information for Residents of Brazil, Canada, Mexico, or India” section below for additional disclosures and a description of your rights under applicable laws.
 * **Residents of California**: Please read the following “Notice at Collection”:
 
 We collect the categories of “personal information” (as defined in the California Consumer Privacy Act (CCPA)) listed in the table below.
@@ -130,7 +129,7 @@ More information, including a description of your legal rights, can be found in 
 
 * **Residents of Other U.S. States**: Depending on your U.S. state residency, under applicable law, you may have certain rights in relation to your Personal Data. Additional information can be found in the “Additional Information for Residents of Other U.S. States” section below.
 
-[Download a copy of this full privacy policy](https://www.thehersheycompany.com/content/dam/hershey-corporate/documents/pdf/hershey-website-privacy-policy-ad-and-cookie-policy.pdf)
+[Download a copy of this full privacy policy](https://www.thehersheycompany.com/content/dam/corporate-us/documents/pdf/Web-Hershey-Website-Privacy-Policy.pdf)
 
 1\. Personal Data We Collect
 ----------------------------
@@ -160,20 +159,25 @@ The specific categories of Personal Data we may collect include:
 
 Depending on how you interact with us, we collect your Personal Data in the following ways:
 
-* **Directly from You**. When you visit and use the Website or otherwise interact with us, we collect Personal Data that you share with us. For example, we collect Personal Data directly from you when you:
-    * purchase our products;
-    * register for and participate in one of our promotions;
-    * submit a recipe review;
-    * use the Website’s “Submit an Idea” function or similar features;
-    * download a corporate report from the Website;
-    * sign up to receive communications from us, including newsletters or financial reports;
-    * contact us directly (via phone, email, etc.);
-    * interact with our social media pages; or
-    * interact with us in-person (e.g., visit one of our physical locations, engage with us at an in-person event, etc.).
-* **Through Automated Means**. When you access and engage with the Website or interact with our online media and content (including advertisements), we automatically collect information about your browser, device, and activity.  
-    We (and our partners) may use various tracking technologies (e.g.,  cookies, pixel tags (or web beacons), etc.) to collect information automatically. The information collected may include details about your behavior on the Website, including how you move and scroll through the Website, your keystrokes, the links you choose to click, and how you interact with forms. These technologies may also be used to collect information about you over time and across different websites, mobile applications, and devices.  
-    To learn more about our use of cookies and other similar technologies and how you can control them, please review our **Cookie & Ads Policy**.  
-    
+* **Directly from You**. 
+    * When you visit and use the Website or otherwise interact with us, we collect Personal Data that you share with us.    
+        
+    * When you purchase our products;
+    * When you register for and participate in one of our promotions;
+    * When you submit a recipe review;
+    * When you use the Website’s “Submit an Idea” function or similar features;
+    * When you download a corporate report from the Website;
+    * When you sign up to receive communications from us, including newsletters or financial reports;
+    * When you contact us directly (via phone, email, etc.);
+    * When you interact with our social media pages; or
+    * When you interact with us in-person (e.g., visit one of our physical locations, engage with us at an in-person event, etc.).
+
+* **Through Automated Means**. 
+
+When you access and engage with the Website or interact with our online media and content (including advertisements), we automatically collect information about your browser, device, and activity.   We (and our partners) may use various tracking technologies (e.g., cookies, pixel tags (or web beacons), etc.) to collect information automatically. The information collected may include details about your behavior on the Website, including how you move and scroll through the Website, your keystrokes, the links you choose to click, and how you interact with forms. These technologies may also be used to collect information about you over time and across different websites, mobile applications, and devices. 
+
+To learn more about our use of cookies and other similar technologies and how you can control them, please review our **Cookie & Ads Policy**.  
+
 * **From Third Parties**. We may receive your Personal Data from other sources, as permitted by law, including the following categories of parties:
     * Our service providers.
     * Our business partners, including companies that co-sponsor our promotions.
@@ -189,7 +193,7 @@ We generally use the Personal Data we collect for purposes associated with the g
 
 * **To Provide and Manage the Services**. We use your Personal Data to provide, administer, and manage the Website, including to maintain and service accounts (where applicable). We also use Personal Data as otherwise necessary to provide the Services and operate our business.
 * **To Process and Fulfill Your Order(s)**. Where applicable, we use your Personal Data to process and fulfill your orders and requests for our products or services. We may also use your Personal Data to process your returns or inform you of any product recall.
-* **To Communicate with You**. We use your Personal Data to communicate with you about your account, your order(s), and/or our relationship; to respond to your submissions, requests, and inquiries; and to request information or feedback from you. We may also use your Personal Data to invite you to and communicate with you about your participation in any promotions, surveys, or other activities administered by us or on our behalf. Additionally, from time to time, we may use your Personal Data to send you important updates and communications about this Privacy Policy, the Website’s Terms & Conditions, and/or other applicable terms.
+* **To Communicate with You**. We use your Personal Data to communicate with you about your account, your order(s), and/or our relationship; to respond to your submissions, requests, and inquiries; and to request information or feedback from you. We may also use your Personal Data to invite you to and communicate with you about your participation in any promotions, surveys, or other activities administered by us or on our behalf. Additionally, from time to time, we may use your Personal Data to send you important updates and communications about this Privacy Policy, the [Website’s Terms & Conditions](https://www.thehersheycompany.com/en_us/home/terms-and-conditions.html), and/or other applicable terms.
 * **To Send You Marketing and Promotional Communications**. We use your Personal Data to send you communications and other materials with  information about new products and special offers through email (if subscribed), postal mail, or other communication channels. These communications and materials may include third-party offers or products we think you might find interesting. Details on how to exercise your choices with respect to marketing and promotional communications from us can be found in the “Your Choices and Legal Rights” section below.
 * **To Identify Usage Trends and Make Improvements**. We use your Personal Data to understand how you use the Website and identify usage trends. We also use your Personal Data to identify issues; test new features or changes in our features; and improve the Website, the Services, and our products.
 * **To Understand Your Interests and Personalize Your Experience**. We use your Personal Data to help us understand which parts of the Website and/or which of our products are of interest to you. We also use your Personal Data to customize or personalize your experience with us.
@@ -222,8 +226,8 @@ If you reside in the United States, depending on your state of residence, some o
 
 Please note that we may de-identify or aggregate Personal Data so that it will no longer be considered “Personal Data” and disclose such information to other parties for purposes consistent with those described in this Privacy Policy.
 
-5\. Your Choices and Legal Rights
----------------------------------
+5\. Your Privacy Choices and Legal Rights
+-----------------------------------------
 
 #### **Your Choices**
 
@@ -231,13 +235,55 @@ We provide you with the ability to make certain choices about how we use your Pe
 
 * **Opt Out of Receiving Our Marketing and Promotional Communications**. You can opt out of receiving marketing and promotional communications from us at any time. Note that even if you opt out of receiving marketing and promotional communications from us, you will still receive non-marketing and transactional messages from us (e.g., messages about your account, responses to your inquiries and requests, etc.). To opt out of receiving marketing and promotional communications from us, follow the opt-out link in any marketing or promotional emails that you receive from us or call us at 1 (800) 468-1714.
 * **Control Cookies and Other Similar Technologies**. As described in the “How We Collect Personal Data” section above, we (and our partners) use cookies and other similar technologies to collect certain Personal Data automatically. To learn more about our use of cookies and other similar technologies and how to manage them, please read our Cookie & Ads Policy, available below.
-* **Access and Correct Your Personal Data**. You can request access to the Personal Data that we hold about you and to correct any data that is inaccurate or incomplete. You can make such a request by contacting us using the information in the “How to Contact Us” section below. Please note that we may not accommodate a request to change data if we believe the change would violate any law or legal requirement or cause the data to be incorrect.
 
 #### Your Legal Rights
 
-Depending on your country (or U.S. state) of residence, you may have certain legal rights in relation to your Personal Data. If you would like to submit a request to exercise your privacy rights under applicable laws, please contact us using the contact details in the “How to Contact Us” section below.
+Depending on your country of residence, you may have some or all of the following rights:  
 
-Depending on your location, additional information regarding your privacy rights may also be included below.
+* Receive information about the personal information we have collected about you; 
+* Receive information about the business purpose and who we have shared personal information we have collected and processed about you;   
+* Receive information about if we have sold or shared your personal information and to whom;  
+* Receive a copy of the personal information we have collected about you in the last (12) months;  
+* Correct inaccurate personal information that we maintain about you;  
+* Delete the personal information that we have collected from you, subject to certain exceptions; 
+* Request that we restrict the processing of your personal information in certain circumstances; 
+* Object to any processing where we rely upon legitimate interests as a lawful basis for processing;  
+* Limit the use and disclosure of any sensitive personal information we have collected from you;  
+* Challenge or opt out of any automated-decision making processes we may use to process your personal information if it has a material impact on you; and 
+* Opt out of the sale of your personal information;  
+* File an appeal or complaint with the relevant regulatory authority in your jurisdiction.  
+
+We will not discriminate against you if you decide to exercise your privacy rights. However, please note that some features and services may not be available to you if you choose to restrict or otherwise opt out of the sharing of personal information where the services rely on that information. Please note that certain rights are subject to applicable exceptions by law.   
+
+**How to Exercise Your Legal Rights** 
+
+You can submit a request to exercise your rights by:  
+
+* Calling us at 1-800-468-1714 
+* Completing and submitting the form available [here](https://www.hersheyland.com/home/personal-data-request.html) (note that the form is also accessible via the “Do Not Sell or Share My Personal Information” link in the footer of the Website).
+
+All requests must be verified. To protect your privacy, we will require the matching of up to three pieces of personal information provided with your request with information we maintain to verify that it is you making the request. Where applicable, we will use the requested information for verification purposes only. Please note that we may decline a request where we are unable to verify your identity and confirm the personal information we maintain relates to you.  
+
+Exercising your rights does not require you to create an account with us.  
+
+**How to Exercise Your Sale and Sharing Opt-Out Right**  
+
+As detailed in the chart above, we “sell” and “share” certain categories of personal information to and with third parties. If you are 16 years of age or older, in addition to the rights described above, you have the right to direct us to not “sell” or “share” your personal information at any time. To exercise your opt-out right, you may submit a request to us by:   
+
+* Completing and submitting the form available [here](https://www.hersheyland.com/home/personal-data-request.html) (note that the form is also accessible via the “Do Not Sell or Share My Personal Information” link in the footer of the Website).  
+* Calling us at 1-800-468-1714.  
+
+Upon receipt of your request, we will endeavor to honor it based on the information that we collect and maintain.  
+
+Alternatively, where available, you can use certain preference signals to exercise your opt-out right automatically with all businesses that you interact with online, including Hershey. If you enable a browser-based opt-out preference signal that complies with the CCPA and other U.S. state privacy laws, such as the Global Privacy Control (GPC), upon receipt or detection, we will treat the signal as a valid request to opt out of the sale or sharing of personal information linked to that browser and any consumer profile we have associated with that browser. Please note that if you use different browsers or browser profiles, you will have to enable the signal on each once that you use.   
+
+**Authorized Agents**  
+
+You may authorize someone to submit a request on your behalf (an “authorized agent”). An authorized agent will need to demonstrate that you’ve authorized them to act on your behalf, unless you have provided the agent with power of attorney pursuant to applicable probate law. Depending on the evidence provided, we may also contact you to verify your identity with us or request confirmation from you that the agent is authorized to submit the request on your behalf.   
+
+**Appealing Privacy Rights Decisions**  
+
+You have the right to appeal a decision we have made in connection with your privacy rights request. To appeal a decision, please contact privacy@hersheys.com.  If you are unsatisfied with the way that we have handled your appeal, you may have the right to complain to your state’s Attorney General or other agency that regulates privacy.
 
 6\. Links to Other Websites
 ---------------------------
@@ -291,10 +337,10 @@ If you live outside of the United States, you understand and agree that we may t
 
 If you are located in the EEA, UK, or Switzerland, please note that we may need to transfer your Personal Data to countries that have not been recognized as providing an adequate level of data protection. We generally use EU Standard Contractual Clauses (or other government-approved contracts) or other lawful data transfer mechanisms that provide appropriate safeguards for Personal Data that is transferred to countries that have not been recognized as providing an adequate level of protection. To learn more about the cross-border transfer of your Personal Data and the transfer mechanism(s) we use to lawfully carry out such transfers, please [contact us online](https://www.thehersheycompany.com/en_us/home/contact-us.html).
 
-11. Additional Information for Residents of the EEA, UK, and Switzerland
-------------------------------------------------------------------------
+11. Additional Information for non-US Residents
+-----------------------------------------------
 
-If you are located in the EEA, UK, or Switzerland, The Hershey Company acts as the “Controller” (as defined in applicable data protection law) of your Personal Data, and the following disclosures are provided in accordance with applicable law.
+In certain countries, The Hershey Company acts as the “Controller” (as defined in applicable data protection law) of your Personal Data, and the following disclosures are provided in accordance with applicable law.   
 
 #### **Our Legal Basis for Processing Your Personal Data**
 
@@ -303,28 +349,10 @@ Below are the legal bases that we rely on to process your Personal Data:
 * **Consent**. We may rely on the consent that you provide us at the point of data collection or disclosure to process your Personal Data. You have the right to withdraw the consent you have provided us at any time and may do so by contacting us using the contact information below. Additionally, if you have consented to our use of cookies, you can review and change your preferences and opt out of our use of cookies (other than those that are “strictly necessary”) through the cookie management tool available at the link on the bottom of the webpage.
 * **Contractual Necessity**. We may process your Personal Data where it is either necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract. This may include Personal Data used to provide you with our products and related services and related transaction information.
 * **Compliance with a Legal Obligation**. We are subject to various legal requirements in the jurisdictions in which we operate, and we may process your Personal Data if necessary for us to comply with a legal or regulatory obligation to which we are subject. In particular, we may be required to retain your Personal Data for extended periods of time and to provide copies of such data to law enforcement, governmental, or other regulatory authorities and/or third parties.
+* **Exercise of Our Rights**. We may need to process your Personal Data to exercise our legal rights in judicial, administrative, or arbitration procedures. 
 * **Legitimate Interests**. We may rely on one or more of our legitimate interests to process your Personal Data, provided that our interests are not overridden by your interests or fundamental rights and freedoms. For example, we may collect and use your Personal Data in reliance on a legitimate interest in managing our relationship with you; conducting and managing our business; providing you with customer support; conducting market research; developing and enhancing the Website and the Services; detecting and preventing fraud and other harmful activities; and monitoring and maintaining the security of our data, systems, and networks.
 
-#### Your Legal Rights
-
-Under applicable law and subject to relevant exceptions, you have the right to:
-
-* Request confirmation as to whether we are processing your Personal Data, and if so, to request access to your Personal Data and details regarding our processing.
-* Request correction of inaccurate or incomplete Personal Data that we hold about you.
-* Request deletion of your Personal Data.
-* Request that we restrict our processing of your Personal Data in certain circumstances.
-* Request that we transmit your Personal Data to a third party (where technically feasible).
-* Object to our processing of your Personal Data under certain circumstances, including where we are using your Personal Data for our legitimate interests and for direct marketing purposes.
-* Withdraw the consent you have provided us to process your Personal Data (note that this will not affect the lawfulness of any processing carried out before you withdrew your consent).
-* Lodge a complaint about the way we process your Personal Data with the Dutch Data Protection Authority or your national data protection regulator.
-
-Where applicable, you also have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you.
-
-#### How to Exercise Your Legal Rights
-
-You can exercise the above-listed rights by contacting us using the information in the “How to Contact Us” section below. In order to protect your privacy and confirm that you are entitled to exercise the above-listed rights, we may need to request specific information from you to help us confirm your identity. Where applicable, we will use the requested information for verification purposes only.
-
-#### How to Contact Our EU Representative
+#### How Residents in the EEA, UK, or Switzerland Can Contact Our EU Representative   
 
 If you have questions about this Privacy Policy or our data handling and privacy practices, please contact our EU representative by sending an email to [GDPR-hershey@intertrustgroup.com](mailto:GDPR-hershey@intertrustgroup.com. "Email our EU GDPR Rep"). or writing to:
 
@@ -334,39 +362,16 @@ Basisweg 10,
 1043 AP Amsterdam,  
 The Netherlands
 
-12. Additional Information for Residents of Brazil
---------------------------------------------------
+12. Additional Information for Residents of Brazil, Canada, Mexico, or India
+----------------------------------------------------------------------------
 
-If you are located in Brazil, The Hershey Company acts as the “Controller” (as defined in applicable data protection law) of your Personal Data, and the following disclosures are provided in accordance with applicable law.
+If you are located in Brazil, Canada, Mexico, or India, please review the following privacy policies, for additional information.  
 
-#### Our Legal Basis for Processing Your Personal Data
-
-Below are the legal bases that we rely on to process your Personal Data:
-
-* **Consent**. We may rely on the consent that you provide us at the point of data collection or disclosure to process your Personal Data. You have the right to withdraw the consent you have provided us at any time and may do so by contacting us using the contact information below. Additionally, if you have consented to our use of cookies, you can review and change your preferences and opt out of our use of cookies (other than those that are “strictly necessary”) through the cookie management tool available at the link on the bottom of the webpage.
-* **Compliance with a Legal or Regulatory Obligation**. We are subject to various legal requirements in the jurisdictions in which we operate, and we may process your Personal Data if necessary for us to comply with a legal or regulatory obligation to which we are subject. In particular, we may be required to retain your Personal Data for extended periods of time and to provide copies of such data to law enforcement, governmental, or other regulatory authorities and/or third parties.
-* **Execution of a Contract or Preliminary Procedures Related to a Contract**. We may process your Personal Data where it is either necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract. This may include Personal Data used to provide you with our products and related services and related transaction information.
-* **Exercise of Our Rights**. We may need to process your Personal Data in order to exercise our legal rights in judicial, administrative, or arbitration procedures.
-* **Legitimate Interests**. We may rely on one or more of our legitimate interests to process your Personal Data, provided that our interests are not overridden by your interests or fundamental rights and freedoms. For example, we may collect and use your Personal Data in reliance on a legitimate interest in managing our relationship with you; conducting and managing our business; providing you with customer support; conducting market research; developing and enhancing the Website and the Services; detecting and preventing fraud and other harmful activities; and monitoring and maintaining the security of our data, systems, and networks.
-
-#### Your Legal Rights
-
-Under applicable law and subject to relevant exceptions, you have the right to:
-
-* Request confirmation as to whether we are processing your Personal Data, and if so, to request access to your Personal Data.
-* Request correction of incomplete, inaccurate, or outdated Personal Data that we hold about you.
-* Request anonymization, blocking, or deletion of your Personal Data.
-* Request that we transmit your Personal Data to another service or product provider.
-* Request deletion of Personal Data processed with your consent.
-* Request information about the public and private entities with which we have shared your Personal Data.
-* Refuse to provide your consent, in which case we will inform you of the consequences of your refusal.
-* Withdraw the consent you have provided us to process your Personal Data (note that this will not affect the lawfulness of any processing carried out before you withdrew your consent).
-
-Where applicable, you also have the right to request the review of decisions made solely on the basis of automated processing of your Personal Data that affects your interests.
-
-#### How to Exercise Your Legal Rights
-
-You can exercise the above-listed rights by contacting us using the information in the “How to Contact Us” section below. In order to protect your privacy and confirm that you are entitled to exercise the above-listed rights, we may need to request specific information from you to help us confirm your identity. Where applicable, we will use the requested information for verification purposes only.
+* [Brazil](https://www.hersheyland.com.br/politica-e-termos) 
+* [Canada](https://www.hersheyland.ca/en_ca/privacy-policy) 
+* [Mexico](https://www.hersheyland.mx/legal/aviso-de-privacidad.html)  
+    
+* [India](https://www.hersheyland.in/privacy-policy) 
 
 13. Additional Information for Residents of California
 ------------------------------------------------------
@@ -407,51 +412,6 @@ We do not knowingly “sell” or “share” the personal information of indivi
 
 As detailed in the chart above, we collect certain “sensitive personal information” (as defined in the CCPA). However, we do not use or disclose such information for any purpose outside of the limited permissible purposes set forth in the regulations implementing the CCPA. Such purposes include providing the Services and verifying, maintaining the quality of, and improving the Services.
 
-#### Your Legal Rights
-
-You have the right to request that we:
-
-* Disclose to you the following information covering the twelve (12) months preceding your request:
-    * the categories of personal information we have collected about you and the categories of sources from which we collected such information;
-    * the specific pieces of personal information we have collected about you;
-    * the business or commercial purpose for collecting, selling, or sharing personal information about you;
-    * the categories of third parties to whom we disclosed such personal information; and
-    * if we sold, shared, or disclosed your personal information for a business purpose, two separate lists disclosing:
-        * sales and shares, identifying the personal information categories that each category of recipient received; and
-        * disclosures for a business purpose, identifying the personal information categories that each category of recipient obtained.
-* Correct inaccurate personal information that we maintain about you, taking into account the nature of the personal information and the purposes of the processing.
-* Delete the personal information that we have collected from you, subject to certain exceptions.
-
-We will not discriminate against you if you decide to exercise your rights under the CCPA. Please note that certain rights are subject to applicable exceptions under the CCPA.
-
-#### How to Exercise Your Legal Rights
-
-You can submit a request to exercise your rights under the CCPA by:
-
-* Calling us at 1-800-468-1714.
-* Completing and submitting the form available [here](https://privacyportal.onetrust.com/webform/8d63d436-e043-400a-9774-e8e30a15446a/308fa746-fa9b-4cc2-9967-96097ab22c29).
-
-To protect your privacy, we will require the matching of up to three pieces of personal information provided with your request with information we maintain to verify that it is you making the request. Where applicable, we will use the requested information for verification purposes only. Please note that we may decline a request where we are unable to verify your identity and confirm the personal information we maintain relates to you.
-
-Exercising your rights does not require you to create an account with us.
-
-#### Authorized Agents
-
-You may authorize someone to submit a request on your behalf (an “**authorized agent**”). An authorized agent will need to demonstrate that you’ve authorized them to act on your behalf, unless you have provided the agent with power of attorney pursuant to applicable probate law. Depending on the evidence provided, we may also contact you to verify your identity with us or request confirmation from you that the agent is authorized to submit the request on your behalf.
-
-#### How to Exercise Your Sale and Sharing Opt-Out Right
-
-As detailed in the chart above, we “sell” and “share” certain categories of personal information to and with third parties. If you are 16 years of age or older, in addition to the rights described above, you have the right to direct us to not “sell” or “share” your personal information at any time. To exercise your opt-out right, you may submit a request to us by:
-
-* Completing and submitting the form available [here](https://www.hersheyland.com/home/personal-data-request.html) (note that the form is also accessible via the “Do Not Sell or Share My Personal Information” link in the footer of the Website).
-* Calling us at 1-800-468-1714.
-
-Upon receipt of your request, we will endeavor to honor it based on the information that we collect and maintain.
-
-Alternatively, where available, you can use certain preference signals to exercise your opt-out right automatically with all businesses that you interact with online, including Hershey. If you enable a browser-based opt-out preference signal that complies with the CCPA, such as the Global Privacy Control (GPC), upon receipt or detection, we will treat the signal as a valid request to opt out of the sale or sharing of personal information linked to that browser and any consumer profile we have associated with that browser. Please note that if you use different browsers or browser profiles, you will have to enable the signal on each once that you use.
-
-An authorized agent may also use the methods described above to submit a request to opt out on your behalf if you provide the agent with signed permission to do so. Please note that we may request from the agent documentation demonstrating that they have your authority to act on your behalf.
-
 #### Notice of Financial Incentive
 
 We may provide discounts or promotions when you agree to receive marketing and promotional communications from us or claim a specific offer when you interact with us and/or the Website (each, an “**Offer**”). The terms of each Offer will be provided to you when it is made available. You may opt out of marketing and promotional communications from us at any time as described in our messages to you and as described in the “Your Choices and Legal Rights” section above.
@@ -463,7 +423,7 @@ We collect and retain personal information to support and fulfill certain Offers
 * Commercial information (like your purchase history)
 * Internet or other electronic network activity information
 * Geolocation data
-* Inferences
+* Inferences based on the personal information we collect about you 
 
 The personal information we collect and retain may also be used to make your account or to supplement your account information (where applicable). Additional details regarding our use of personal information can be found in the “How We Use Personal Data” section above.
 
@@ -477,38 +437,7 @@ In addition to the rights described above, California’s “Shine the Light” 
 
 To make such a request, please [click here](https://www.thehersheycompany.com/en_us/home/contact-us.html), follow the onscreen prompts to send us an email, select “Privacy Policy/Ad and Cookie Policy” as the subject of your message, and indicate in your message that you are a California resident making a “Shine the Light” inquiry. This request may be made no more than once per calendar year. We will respond to your request in accordance with applicable law.
 
-14. Additional Information for Residents of Other U.S. States
--------------------------------------------------------------
-
-Depending on your U.S. state residency, under applicable law, you may have certain rights in relation to your Personal Data, including the right to:
-
-* Request details about our handling of your Personal Data and to access, or receive a copy of, your Personal Data in a readily usable format that allows you to transmit the data to another entity.
-* Request that we correct inaccuracies in the Personal Data that we hold (taking into account the nature of the data and the purpose(s) for which we are processing it).
-* Request that we delete the Personal Data we hold about you (subject to certain exceptions prescribed by law).
-* Opt out of: (i) the “sale” of your Personal Data; (ii) the processing of your Personal Data for “targeted advertising” purposes; and (iii) certain forms of “profiling” (as these terms are defined in the applicable law).
-* Withdraw the consent that you have given us to process your Personal Data (where applicable).
-
-We will not discriminate against you if you decide to exercise your legal rights.
-
-If you reside in Colorado, Connecticut, Utah, or Virginia and are interested in exercising one or more of the rights outlined above, you can do so by contacting us using the information in the “How to Contact Us” section below.
-
-To protect your privacy, we may require you to provide certain information to verify that it is you making the request. Where applicable, we will use the requested information for verification purposes only. We may decline certain requests if we cannot verify your identity and confirm the Personal Data we maintain relates to you.
-
-Exercising your rights does not require you to create an account with us.
-
-Upon receipt of your request, we will endeavor to honor it based on the information that we collect and maintain.
-
-Additionally, where available, you can use certain preference signals to exercise your opt-out rights automatically with all businesses that you interact with online, including Hershey. If you enable a browser-based opt-out preference signal that complies with applicable law, upon receipt or detection, we will treat the signal as a valid opt-out request linked to that browser and any consumer profile we have associated with that browser. Please note that if you use different browsers or browser profiles, you will have to enable the signal on each once that you use.
-
-#### Authorized Agents
-
-You may authorize someone to submit a privacy rights request on your behalf (an “**authorized agent**”) using the submission methods outlined above. An authorized agent will need to demonstrate that you have authorized them to act on your behalf, unless you have provided the agent with power of attorney pursuant to applicable law. Depending on the evidence provided, we may also contact you to verify your identity directly with us or request confirmation from you that the agent is authorized to submit the request on your behalf.
-
-#### Appealing Privacy Rights Decisions
-
-Depending on your U.S. state residency, you may have the right to appeal a decision we have made in connection with your privacy rights request. To appeal a decision, please contact [privacy@hersheys.com](mailto:privacy@hersheys.com) If you are unsatisfied with the way that we have handled your appeal, you may have the right to complain to your state’s Attorney General.
-
-15\. How to Contact Us
+14\. How to Contact Us
 ----------------------
 
 If you have any questions or concerns about this Privacy Policy or our data handling and privacy practices or would like to submit a request relating your Personal Data, please feel free to [contact us online](https://www.thehersheycompany.com/en_us/home/contact-us.html), call us at 1-800-468-1714, or write to us at:
@@ -518,8 +447,8 @@ The Hershey Company
 19 E. Chocolate Ave.  
 Hershey, PA 17033
 
-16. We May Updates to this Privacy Policy
------------------------------------------
+15. We May Add Updates to this Privacy Policy
+---------------------------------------------
 
 From time to time, we may update this Privacy Policy to reflect changes in our practices with respect to the collection, use, and disclosure of Personal Data and/or changes in applicable law.
 
