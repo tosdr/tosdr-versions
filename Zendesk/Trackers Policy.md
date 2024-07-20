@@ -122,6 +122,8 @@ Resources
 
 [](https://www.zendesk.com/)
 
+[Start free trial](https://www.zendesk.com/register/)
+
 [Agreements and Terms
 --------------------](https://www.zendesk.com/company/agreements-and-terms/)
 
@@ -247,7 +249,7 @@ Individuals located outside the EEA, Switzerland, or the UK: You may control the
 Additionally, you may generally activate or later deactivate the use of cookies through functionality built into your web browser. To learn more about how to control cookie settings through your browser:
 
 * [Click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about the “Private Browsing” setting and managing cookie settings in Firefox;
-* [Click here](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) to learn more about “Incognito” and managing cookie settings in Chrome;
+* [Click here](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647) to learn more about “Incognito” and managing cookie settings in Chrome;
 * [Click here](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies) to learn more about “InPrivate” and managing cookie settings in Internet Explorer; or
 * [Click here](https://support.apple.com/guide/safari/browse-privately-ibrw1069/mac) and [here](https://support.apple.com/guide/safari/privacy-sfri35610/16.1/mac/13.0) to learn more about “Private Browsing” and managing cookie settings in Safari.
 
