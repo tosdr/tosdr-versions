@@ -251,6 +251,9 @@ This Policy may be amended from time to time, consistent with applicable laws. W
 **Contact Wunderkind Regarding Our Privacy Practices.**  
 If you have any questions or concerns regarding this Privacy Policy, please contact us at privacyrequests@wunderkind.co.  We will make every effort to resolve your concerns. Alternatively, you may contact us at the address below:
 
+**TCF Compliance Statement.**  
+We participate in the Transparency and Consent Framework (TCF) v2.2, developed by IAB Europe, and adhere to its policies. Our Vendor ID is 256. The TCF is designed to help ensure transparency, choice, and control over how data is used for online behavioral advertising purposes. For more information about the TCF, please visit [https://iabeurope.eu/transparency-consent-framework/.](https://iabeurope.eu/transparency-consent-framework/)
+
 **Wunderkind Corporation**
 
 Attn: Privacy Officer  
@@ -273,7 +276,7 @@ Email: privacyrequests@wunderkind.co
 
 ![](https://wkd.wpengine.com/wp-content/uploads/2020/04/logo-black.svg)
 
-* [Company](https://www.wunderkind.co/about-us)
+* [Wunderkind vs Bluecore](https://www.wunderkind.co/wunderkind-vs-bluecore/)
 * [About Us](https://www.wunderkind.co/about-us)
 * [Culture & Careers](https://www.wunderkind.co/culture)
 * [Diversity & Inclusion](https://www.wunderkind.co/diversity-and-inclusion)
@@ -285,7 +288,8 @@ NYC
 1 World Trade Center  
 FL 74  
 New York  
-NY 10007
+NY 10007  
+[contact@wunderkind.co](mailto:contact@wunderkind.co)
 
 [View Map](https://www.google.com/maps/place/Wunderkind/@40.7130122,-74.0153576,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258534c8e840d:0xad80db4f46794508!8m2!3d40.7130082!4d-74.0131689)
 
@@ -323,7 +327,8 @@ NYC
 1 World Trade Center  
 FL 74  
 New York  
-NY 10007
+NY 10007  
+[contact@wunderkind.co](mailto:contact@wunderkind.co)
 
 [View Map](https://www.google.com/maps/place/Wunderkind/@40.7130122,-74.0153576,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258534c8e840d:0xad80db4f46794508!8m2!3d40.7130082!4d-74.0131689)
 
