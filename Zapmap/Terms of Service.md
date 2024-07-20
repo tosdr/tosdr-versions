@@ -51,6 +51,7 @@ User account menu
 * [Help](https://www.zap-map.com/faqs)
 * [Contact us](https://www.zap-map.com/business/contact)
 * [Download app](https://www.zap-map.com/download-app "Download the app")
+* [Zapmap for business](https://www.zap-map.com/for-business)
 * [Zapmap for EV drivers](https://www.zap-map.com/)
 * [About us](https://www.zap-map.com/our-story)
     * [Our story](https://www.zap-map.com/our-story)
