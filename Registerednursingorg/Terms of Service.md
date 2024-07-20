@@ -389,10 +389,12 @@ Updated: December 16, 2023
 
 ##### [Nursing Degrees](https://www.registerednursing.org/degree/)
 
+* [Online Nursing Programs](https://www.registerednursing.org/online-nursing-programs/)
+* [](#)[ADN](https://www.registerednursing.org/degree/adn/), [BSN](https://www.registerednursing.org/degree/bsn/), [MSN](https://www.registerednursing.org/degree/msn/), [DNP](https://www.registerednursing.org/degree/dnp/)
+* [RN to BSN Programs](https://www.registerednursing.org/rn-to-bsn/)
 * [APRN Programs](https://www.registerednursing.org/aprn/programs/)
 * [Nurse Practitioner Programs](https://www.registerednursing.org/nurse-practitioner/programs/)
 * [Nursing Bridge Programs](https://www.registerednursing.org/bridge-programs/)
-* [Online Nursing Programs & Schools](https://www.registerednursing.org/online-nursing-programs/)
 
 ##### [Nursing Careers](https://www.registerednursing.org/nursing-careers/)
 
@@ -407,11 +409,13 @@ Updated: December 16, 2023
 * [RN Jobs](https://www.registerednursing.org/jobs/)
 * [RN Salary](https://www.registerednursing.org/rn-salary/)
 
-##### Mission
+##### Why You Can Trust RegisteredNursing.org
 
-Promote excellence in nursing by enabling future and current nurses with the education and employment resources they need to succeed.
+RegisteredNursing.org has been a trusted resource for over 10 years, and we are proudly featured by the country's top nursing schools. Our team, alongside nurse collaborators, are dedicated to delivering prospective students the most current and precise information. Our rankings are created using objective data from reputable sources such as the Integrated Postsecondary Education Data System (IPEDS), the U.S. Department of Education, and Nursing Boards from all 50 states.
 
 [![](https://www.registerednursing.org/wp-content/uploads/2016/06/footer_logo-1.png)](https://www.registerednursing.org/)
+
+Share This:[Facebook](https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F)[Twitter](https://twitter.com/intent/tweet/?text=Website+Terms+of+Use&url=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F&title=Website+Terms+of+Use&source=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F)[Reddit](https://reddit.com/submit/?url=https%3A%2F%2Fwww.registerednursing.org%2Fwebsite-terms-of-use%2F&resubmit=true&title=Website+Terms+of+Use)
 
 © 2024 Registered Nursing.org All Rights Reserved | [About](https://www.registerednursing.org/about-us/) | [Privacy](https://www.registerednursing.org/privacy-policy/) | [Terms](https://www.registerednursing.org/website-terms-of-use/) | [Contact Us](https://www.registerednursing.org/contact-us/)
 
