@@ -12,7 +12,7 @@ Today](https://thankandpraise.com/say-thank-you/)
 Open Menu
 
 Terms of use
-------------
+============
 
 TAP commits to use any form of communication to ensure that the messages are delivered to the intended recipients.
 
@@ -35,7 +35,7 @@ Feel inspired by reading messages people have sent. Simply search for an organiz
 ### Download the  
 TAP Mobile App
 
-[![Download on the App Store](/_next/static/media/app-store-badge.a9f78ee2.svg)](https://apps.apple.com/gb/app/tap-thank-and-praise/id1578894506)[![Get it on Google Play](/_next/static/media/google-play-badge.448868e2.svg)](https://play.google.com/store/apps/details?id=com.thankandpraise.tap)
+[![Download on the App Store](/_next/static/media/app-store-badge.a9f78ee2.svg)](https://apps.apple.com/us/app/tap-thank-and-praise-usa/id1628373640)[![Get it on Google Play](/_next/static/media/google-play-badge.448868e2.svg)](https://play.google.com/store/apps/details?id=us.com.thankandpraise.tap)
 
 ![Download on the App Store](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fapp-ios.27a4a115.png&w=256&q=75)![Get it on Google Play](/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fapp-android.85719b3a.png&w=256&q=75)
 
