@@ -1,4 +1,4 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://about.webcatalog.io/en/)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://about.webcatalog.io/en/apps/)
 
 [Apps](https://about.webcatalog.io/en/apps/)[Games](https://about.webcatalog.io/en/games/)[Spaces](https://about.webcatalog.io/en/spaces/)[Download](https://about.webcatalog.io/en/desktop/)[Pricing](https://about.webcatalog.io/en/pricing/)[Help](https://about.webcatalog.io/en/help/)
 
@@ -46,7 +46,7 @@ Subscription Cancellation
 
 You can cancel your subscription at any time. Your cancellation will take effect at the end of the current paid term. We do not offer refunds or partial refunds.
 
-If you are unsatisfied with our services, please [contact us](https://about.webcatalog.io/contact/).
+If you are unsatisfied with our services, please [contact us](https://about.webcatalog.io/help/).
 
 User Generated Contributions
 ----------------------------
@@ -79,7 +79,7 @@ By submitting suggestions or other feedback regarding the App, you agree that we
 
 We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions.
 
-You agree that your Contributions will comply with the Digital Millennium Copyright Act (“DMCA”) and will act promptly to remove any infringing material from the Service if you or WebCatalog receives a notice qualifying under the DMCA. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim, you may [contact us](https://about.webcatalog.io/contact/).
+You agree that your Contributions will comply with the Digital Millennium Copyright Act (“DMCA”) and will act promptly to remove any infringing material from the Service if you or WebCatalog receives a notice qualifying under the DMCA. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim, you may [contact us](https://about.webcatalog.io/help/).
 
 We are not liable for any statements or representations in your Contributions provided by you in any area on the App. WebCatalog does not control or endorse user Contributions found in the App. You are solely responsible for your Contributions to the App and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your or other’s Contributions.
 
@@ -174,10 +174,11 @@ These Terms of Service and any policies or operating rules posted by us on the A
 Contact Us
 ----------
 
-In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please [contact us](https://about.webcatalog.io/contact/).
+In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please [contact us](https://about.webcatalog.io/help/).
 
 **WebCatalog, Inc.**  
-2261 Market St STE 10869  
+2261 Market St  
+Ste 10869  
 San Francisco, CA 94114, USA
 
 Explore
@@ -199,8 +200,6 @@ Products
 [Pricing](https://about.webcatalog.io/en/pricing/)
 
 [What's New](https://about.webcatalog.io/en/changelog/)
-
-[Switchbar](https://switchbar.com/)
 
 Download
 
@@ -228,7 +227,7 @@ Company
 
 [Careers](https://careers.webcatalog.io/)
 
-[Media Kit](https://drive.google.com/drive/folders/1HAiOVLm7oEgIldhGH7d_68hIDq8qvpA8?usp=sharing)
+[Media Kit](https://drive.google.com/drive/folders/1arApHk6u-YYsY_HBbty0ANlrfq8WHQMw?usp=sharing)
 
 [Affiliate Program](https://about.webcatalog.io/en/affiliates/)
 
