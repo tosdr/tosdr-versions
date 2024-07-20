@@ -440,7 +440,7 @@ If you have questions or concerns about this Policy or our information practices
 Terms of Service
 ----------------
 
-**MODIFIED ON: October 1, 2022**
+**MODIFIED ON: July 3, 2024**
 
 ##### Choose the Language
 
@@ -490,12 +490,11 @@ Português Brasileiro
 [6\. UPDATES TO OUR SERVICES](#section-6)  
 [7\. DISCLAIMER OF WARRANTIES](#section-7)  
 [8\. LIMITATION OF LIABILITY AND INDEMNIFICATION](#section-8)  
-[9\. DISPUTE RESOLUTION, GOVERNING LAW](#section-9)  
+[9\. DISPUTE RESOLUTION](#section-9)  
 [10\. GENERAL PROVISIONS](#section-10)  
   
   
-**Please read these Terms carefully before using or accessing our Services.**  
-  
+**Please read these Terms carefully before using or accessing our Services. THESE TERMS CONTAIN AN ARBITRATION AGREEMENT, A CLASS ACTION WAIVER, AND A JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION THERE IS NO JUDGE OR JURY AND THERE IS LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT. PLEASE REVIEW THESE PROVISIONS CAREFULLY.**  
   
 
 **1\. INTRODUCTION**
@@ -505,13 +504,13 @@ These Terms of Service (“**Terms of Service**,” “**Terms**,” or “**ToS
   
 In the event you are playing any of the following applications: TIKI SOLITAIRE TRIPEAKS, BINGO BASH, GSN CASINO, and GSN GRAND CASINO, these Terms govern the relationship between you and GSN Games, Inc., a wholly owned subsidiary of Scopely, regarding your access to and use of such related Services.  
   
-When you use or access our Services in any capacity, you represent that you are at least the minimum age to consent for data processing under the laws of your jurisdiction (e.g., 13 years old in the United States, and 16 in some EU territories), and not barred from accessing the Services under applicable law. Notwithstanding the foregoing, we may provide some Services that are available specifically to younger players as permitted under applicable law. Regardless, if you are under the age of 18, you hereby agree that you have gotten permission from a parent or guardian to use our Services, and your parent or guardian must agree to these Terms and accept them on your behalf. Parents and legal guardians are responsible for the acts of their children when they use our Services. If you access our Services through a third-party platform or site, you may be required to comply with their policies in addition to these Terms.  
+When you use or access our Services in any capacity, you represent that you are at least the minimum age to consent for data processing under the laws of your jurisdiction (e.g., 13 years old in the United States, and 16 in some EU territories), and not barred from accessing the Services under applicable law. Notwithstanding the foregoing, we may provide some Services that are available specifically to younger players as permitted under applicable law. Regardless, if you are under the age of 18, you hereby agree that you have permission from a parent or guardian to use our Services, and your parent or guardian must agree to these Terms and accept them on your behalf. Parents and legal guardians are responsible for the acts of their children when they use our Services. If you access our Services through a third-party platform or site, you may be required to comply with their policies in addition to these Terms.  
   
 Our collection and use of personal information in connection with the Services is described in our privacy policies, which are hereby incorporated by reference into these Terms. The Privacy Policy for all Scopely applications can be found here: [www.scopely.com/privacy.](https://www.scopely.com/en/legal?id=privacy)  
   
 We may amend these Terms by posting the amended versions on our website or in the supplemental terms of the applicable Service(s). By continuing to access or use our Services after we post amended versions, you confirm your agreement to the Terms, as amended. If you do not agree with any of the changes, you must immediately stop accessing our Services, and your license to use our Services will immediately terminate.  
   
-**This is a legally binding agreement, and you should read it carefully. By installing, using, or otherwise accessing our Services, you confirm your agreement to be bound by these Terms. If you do not agree with any of these terms, you may not install, use, or otherwise access our Services. Use of the Services is void where prohibited.**  
+**This is a legally binding agreement, and you should read it carefully. By installing, using, or otherwise accessing our Services, you confirm your agreement to be bound by these Terms. If you do not agree with any of these Terms, you may not install, use, or otherwise access our Services. Use of the Services is void where prohibited.**  
   
 **IMPORTANT NOTICE: For U.S. and Canadian players, disputes with Scopely must generally be resolved on an individual basis through final and binding arbitration. For more details, see the Arbitration Agreement in Section 9.**  
   
@@ -620,7 +619,7 @@ You acknowledge and agree that you will have no ownership or other property inte
   
 We may permit you or other users to submit, upload, publish, transmit, or otherwise make available to us materials, data, information, communications, pictures and sounds using the Services (“**User Content**”). Your User Content remains your property. However, once you make User Content available on the Services, you thereby grant to Scopely an irrevocable, perpetual, transferable, sublicensable, fully paid-up, royalty-free, worldwide right and license to copy, reproduce, fix, adapt, modify, create derivative works from, manufacture, commercialize, publish, distribute, sell, license, sublicense, transfer, lease, transmit, publicly display, publicly perform, provide access to electronically, broadcast, communicate to the public by telecommunication, display, perform, enter into computer memory, and use and practice, in any way, your User Content as well as all modified and derivative works thereof in connection with the Services, including marketing and promotion of the Services, without notice to or consent from you, and without compensation to you or any other person or entity. You further hereby grant to Scopely the unconditional, irrevocable right to use and exploit your name, likeness and any other information or material submitted or transmitted to Scopely in connection with any User Content, without any obligation to you. Except as prohibited by law, you waive any rights of attribution and/or any moral rights you may have in your User Content, regardless of whether User Content is altered or changed in any manner.  
   
-As a user, you are personally and solely responsible for all information you post and/or send, transmit, or provide to others in connection with our Services, including but not limited to User Content you post in forums, blogs, and player chat features. Please do not use these mediums to share or post information you wish to remain confidential. You represent, warrant, and affirm that your User Content is accurate, that it does not violate any applicable laws or rights of others, that you have the appropriate permissions or rights from any third parties whose information or intellectual property is comprised in the User Content, and that yourUser Content is free of malware, viruses, adware, spyware, or any malicious code. You agree not to submit and/or transmit any User Content that is unlawful, tortious, defamatory, libelous, obscene, threatening, harassing, abusive, violent, hateful, racist, or otherwise objectionable or inappropriate. We do not assume any liability or responsibility for any user behavior or for monitoring User Content or conduct in connection with the Services. We may, but are not obligated to review, monitor, reject, deny, or remove User Content, at our sole discretion and at any time and for any reason, without notice to you.  
+As a user, you are personally and solely responsible for all information you post and/or send, transmit, or provide to others in connection with our Services, including but not limited to User Content you post in forums, blogs, and player chat features. Please do not use these mediums to share or post information you wish to remain confidential. You represent, warrant, and affirm that your User Content is accurate, that it does not violate any applicable laws or rights of others, that you have the appropriate permissions or rights from any third parties whose information or intellectual property is comprised in the User Content, and that your User Content is free of malware, viruses, adware, spyware, or any malicious code. You agree not to submit and/or transmit any User Content that is unlawful, tortious, defamatory, libelous, obscene, threatening, harassing, abusive, violent, hateful, racist, or otherwise objectionable or inappropriate. We do not assume any liability or responsibility for any user behavior or for monitoring User Content or conduct in connection with the Services. We may, but are not obligated to review, monitor, reject, deny, or remove User Content, at our sole discretion and at any time and for any reason, without notice to you.  
   
 User Content may be processed by us in accordance with our Privacy Policy. Please contact us if you have questions regarding your User Content or Account by either: (i) opening a help ticket directly in-game via the Help section; or (ii) emailing us at support@scopely.com.  
   
@@ -642,14 +641,14 @@ If you choose to sign up for a subscription or VIP experience, you will be prese
 **6\. UPDATES TO OUR SERVICES**
 
   
-You understand that our Service is a developing and evolving one. Scopely may require that you accept updates to our Services. While Scopely will make all reasonable efforts to inform you of any such updates, you acknowledge and agree that Scopely may update our Services, with or without informing or otherwise notifying you. You may need to update third-party software from time to time in order to receive our Services and/or play our games.  
+You understand that our Services are developing and evolving. Scopely may require that you accept updates to our Services. While Scopely will make all reasonable efforts to inform you of any such updates, you acknowledge and agree that Scopely may update our Services, with or without informing or otherwise notifying you. You may need to update third-party software from time to time in order to receive our Services and/or play our games.  
   
   
 
 **7\. DISCLAIMER OF WARRANTIES**
 
   
-Without limiting Scopely’s liability under Section 8 below, the Services are provided on an “as is” and “as available” basis for your use, with no warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. Scopely does not warrant that you will be able to access or use our Service at the times or locations of your choosing; that our Services will be of a certain quality or suitability, or will be uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other harmful components.  
+Without limiting Scopely’s liability under Section 8 below, the Services are provided on an “as is” and “as available” basis for your use, with no warranties of any kind, express or implied, including without limitation the warranties of merchantability, fitness for a particular purpose, title, non-infringement, and those arising from course of dealing or usage of trade. Scopely does not warrant that you will be able to access or use our Services at the times or locations of your choosing; that our Services will be of a certain quality or suitability, or will be uninterrupted or error-free; that defects will be corrected; or that our Services are free of viruses or other harmful components.  
   
   
 
@@ -658,18 +657,23 @@ Without limiting Scopely’s liability under Section 8 below, the Services are p
   
 **Limitation of Liability**  
   
-Scopely will not be liable to you for any indirect, incidental, consequential, special, exemplary, punitive or other similar damages, including but not limited to loss of revenues, lost profits, lost data or business interruption or other intangible losses (however such losses are qualified), arising out of or relating in any way to these Terms or our Services, whether based on contract, tort or any other legal theory, and whether or not Scopely has been advised of the possibility of such damages. Scopely will not be liable to you for more than the amount you have paid to Scopely in accordance with these Terms in the six (6) months immediately preceding the date on which you first assert a claim. You acknowledge and agree that if you have not paid anything to Scopely during such time period, your sole remedy (and Scopely’s exclusive liability) for any dispute with Scopely is to stop using the Services and to cancel your Account. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for certain types of damages. Accordingly, some of the above disclaimers and limitations may not apply to you.  
+Scopely will not be liable to you for any indirect, incidental, consequential, special, exemplary, punitive or other similar damages, including but not limited to loss of revenues, lost profits, lost data or business interruption or other intangible losses (however such losses are qualified), arising out of or relating in any way to these Terms or our Services, whether based on contract, tort or any other legal theory, and whether or not Scopely has been advised of the possibility of such damages. Scopely will not be liable to you for more than the amount you have paid to Scopely in accordance with these Terms in the six (6) months immediately preceding the date on which you first assert a claim. You acknowledge and agree that if you have not paid anything to Scopely during such time period, your sole remedy (and Scopely’s exclusive liability) for any dispute with Scopely is to stop using the Services and to cancel your Account. To the fullest extent permitted under applicable law, you must provide notice of any dispute you have with Scopely within one (1) year of the dispute occurring, or it is forever waived and time barred. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for certain types of damages. Accordingly, some of the above disclaimers and limitations may not apply to you.  
   
 To the extent that Scopely may not, as a matter of applicable law, disclaim any warranty or limit its liability as set forth herein, the scope of such warranty and the extent of Scopely’s liability will be the minimum permitted under such applicable law. In particular, nothing in these Terms will affect the statutory rights of any consumer or exclude or restrict any liability for death or personal injury arising from any negligence or fraud of Scopely. This provision shall have no effect on the choice of law provision set forth below.  
   
 **Indemnification**  
   
-You agree to indemnify, save, and hold Scopely, its affiliated companies, officers, directors, contractors, employees, agents, third-party suppliers, licensors, and partners harmless from any and all claims, losses, damages, and liabilities, including legal fees and expenses, arising out of or relating to: (i) your use or misuse of our Services or goods or services obtained in connection therewith; (ii) your breach or violation of these Terms; (iii) our use of your User Content; or (iv) any breach of the representations, warranties, and covenants made by you herein. We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. We will use reasonable efforts to notify you of any such matter upon becoming aware of it. You agree that the provisions in this paragraph will survive any termination of your Account(s) or of our Services.  
-  
+You agree to indemnify, save, and hold Scopely, its affiliated companies, officers, directors, contractors, employees, agents, third-party suppliers, licensors, and partners harmless from any and all claims, losses, damages, and liabilities, including legal fees and expenses, arising out of or relating to: (i) your use or misuse of our Services or goods or services obtained in connection therewith; (ii) your breach or violation of these Terms; (iii) our use of your User Content; or (iv) any breach of the representations, warranties, and covenants made by you herein. We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. We will use reasonable efforts to notify you of any such matter upon becoming aware of it.  
   
 
-**9\. DISPUTE RESOLUTION, GOVERNING LAW**
+**9\. DISPUTE RESOLUTION**
 
+  
+Scopely values its players and their concerns, and we want to work with you to resolve any disputes as quickly and efficiently as possible for both of us. This Dispute Resolution section discusses how disputes between us will be resolved through our informal dispute resolution process, individual arbitration, or small claims court.  
+  
+Our informal dispute resolution process is designed to help you resolve issues early by working with our player care team to address the issue, without having to go any further. If we are unable to resolve the issue together informally, any dispute arising out of or relating to these Terms, your access or use of the Services, or your relationship with Scopely (or any of its past or future parents, subsidiaries, representatives, affiliates, officers, and directors) will be resolved through binding individual arbitration, except that either you or Scopely may take a dispute to small claims court so long as it isn’t removed or appealed to a court of general jurisdiction.  
+  
+Dispute shall be interpreted broadly and include, but not be limited to: (i) any claim that arose before the existence of these or any prior Terms (including, but not limited to, claims relating to advertising); (ii) any claim that is currently the subject of purported class action litigation in which you are not a member of a certified class; and (iii) any claim that may arise after termination of these Terms. Dispute, however, does not include the exceptions set forth below.  
   
 **Informal Dispute Resolution**  
   
@@ -680,17 +684,18 @@ If a dispute arises between you and us, we prefer amicable resolution to protrac
   
 4. 2\. IN-GAME SUPPORT: If our FAQs did not resolve the issue, please complete a help ticket in-game, and be sure to clearly state your issue in the ticket. All tickets are reviewed by our player care team, who will work with you to resolve the issue through the inbox message system in your Account. Please bear with us; we may need to research your issue to fully resolve the ticket, and this may require us to ask further questions and engage with you over several communications. Although most issues can be resolved in this way, certain issues may require further escalation, as reasonably determined by us.
   
-6. 3\. ESCALATION: If you have followed the above steps, but you feel that the issue remains unresolved after our agents have stated that a matter is closed, please email us at support@scopely.com and include a reference to the help ticket and specific issue you believe is unresolved. Our player care leads will work with you further to resolve your issue. In some cases, we may address the issue remotely. In others, we may ask to speak with you directly and will arrange a mutual time to discuss your matter. If you provide us with your phone number for this purpose, it will not be used for other purposes.
-  
+6. 3\. ESCALATION: If you have followed the above steps, but you feel that the issue remains unresolved after our player care team has stated that a matter is closed, please email us at support@scopely.com and include a reference to the help ticket and information sufficient to identify your Account, the specific issue you believe is unresolved, and the relief you are seeking. Our player care leads will work with you further to resolve your issue over the next sixty (60) days. In some cases, we may address the issue remotely. In others, we may ask to speak with you directly and will arrange a mutual time to discuss your matter. You agree that if a request if made to speak about the issue, you will personally participate. If you provide us with your phone number for this purpose, it will not be used for other purposes. Any applicable limitations periods (including statutes of limitations) will be tolled during the sixty (60) day Escalation process.
 
   
 **Arbitration Agreement**  
+
   
-\- If your issue remains unresolved after you have exhausted our informal dispute resolution system above, you may seek to resolve it through binding arbitration as follows:  
+* If your dispute remains unresolved after you have exhausted our informal dispute resolution process above, you may seek to resolve it through binding individual arbitration as follows:
   
-\- If you are a resident of the US or Canada, you and Scopely agree to resolve any dispute arising out of or related to these Terms or our Services on an individual basis through final and binding arbitration, provided you have exhausted the dispute resolution steps above and the dispute remains unresolved. This agreement precludes you from bringing any class action against Scopely. This agreement applies to all kinds of claims under any legal theory, except those described in the Exceptions to Agreement to Arbitrate subsection. It also applies even after you stop using your Account or have deleted it.  
+* If you are a resident of the US or Canada, you and Scopely agree to resolve any dispute on an individual basis through final and binding arbitration, provided you have exhausted the informal dispute resolution steps above and the dispute remains unresolved. This agreement precludes you from bringing any class action against Scopely. It applies even after you stop using your Account or have deleted it.
+
   
-An arbitration proceeding proceeds before a neutral arbitrator instead of a judge and jury, so we both agree to give up our right to a trial before a judge or jury. Arbitration proceedings have different rules than lawsuits in court. Arbitration is less formal, and provides limited opportunity to compel the other side to share information relevant to the dispute—a process called discovery. The arbitrator can award the same damages and relief on an individual basis that a court can award to an individual. But, if you or we do not like the arbitrator’s decision, the courts only have a limited ability to change the outcome of arbitration or make the arbitrator reconsider his or her decision. If we have a dispute about whether this agreement to arbitrate can be enforced or applies to our dispute, we all agree that the arbitrator will decide that too, rather than a court or other agency. Unless you and Scopely otherwise agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, consolidated, or representative proceeding.  
+An arbitration proceeding is before a single neutral arbitrator instead of a judge or jury. An arbitrator must follow and enforce these Terms as a court would. Arbitration proceedings have different rules than lawsuits in court. Arbitration is less formal, and provides limited opportunity to compel the other side to share information relevant to the dispute—a process called discovery. The arbitrator can award the same damages and relief on an individual basis that a court can award to an individual. But, if you or we do not like the arbitrator’s decision, the courts only have a limited ability to change the outcome of arbitration or make the arbitrator reconsider his or her decision. If we have a dispute about whether this agreement to arbitrate can be enforced or applies to our dispute, we all agree that the arbitrator will decide that too, rather than a court or other agency. Unless you and Scopely otherwise agree in writing, any arbitration will be conducted only on an individual basis and not in a class, collective, consolidated, private attorney general, or representative proceeding. If, after exhaustion of all appeals, any of these prohibitions on non-individualized injunctive or declaratory relief and class, collective, consolidated, private attorney general, or representative proceedings are found to be unenforceable with respect to a particular claim or request for relief (such as a request for public injunctive relief), then such a claim or request for relief will be decided by a court of competent jurisdiction, after all other claims and requests for relief are arbitrated.  
   
 **Exceptions to Agreement to Arbitrate**  
   
@@ -705,39 +710,75 @@ We all agree that we each still have the right to go to court to resolve dispute
   
 **No Class Actions**  
   
-We all agree that we can only bring claims against each other on an individual basis.  
+We all agree that we can only bring claims against each other on an individual basis whether in arbitration or in court.  
   
 That means:  
 
   
-* Neither you nor Scopely can bring a claim as a plaintiff or class member in a class, collective, consolidated, or representative action.
+* Neither you nor Scopely can bring a claim as a plaintiff or participate as a class member in a class, collective, consolidated, private attorney general, or representative action in arbitration or in court. However, you and we retain the right to participate in a class-wide settlement.
   
-* The arbitrator cannot combine more than one person’s claim into a single case, and cannot preside over any class, collective, consolidated, or representative arbitration proceeding (unless we both agree to change this).
+* The arbitrator cannot combine more than one person’s claim into a single case, and cannot preside over any class, collective, consolidated, private attorney general, or representative arbitration proceeding (unless we both agree to change this).
   
 
   
 The arbitrator’s decision or award in one person’s case can only impact the person who brought the claim, not other individuals, and cannot be used to decide other disputes with other users.  
   
-**The Arbitration Process, Rules, and Governing Law**  
+**The Arbitration Process, Rules, and Fees**  
   
-The American Arbitration Association (“**AAA**”) will run the arbitration between you and Scopely, in accordance with the AAA’s rules and procedures then in effect (including their Supplementary Procedures for Consumer-Related Disputes, if applicable) (“**AAA Rules**”), except as modified here. If something in these Terms is different than the AAA Rules, then we will follow these Terms instead. To review the AAA Rules or to start an arbitration proceeding, you can refer to AAA’s website ([www.adr.org](http://www.adr.org/)) or you can call AAA at 1-800-778-7879. If either of us decide to initiate arbitration, we agree to provide the other party with a written Demand for Arbitration as specified in the AAA Rules.  
+The American Arbitration Association (“**AAA**”) will run the arbitration between you and Scopely, in accordance with the AAA’s rules and procedures then in effect (including their Mass Arbitration Supplementary Rules, if applicable) (“**AAA Rules**”), as modified by these Terms. If something in these Terms is different than the AAA Rules, then we will follow these Terms instead. To review the AAA Rules or to start an arbitration proceeding, you can refer to AAA’s website ([www.adr.org](http://www.adr.org/)). If either you or we decide to initiate arbitration, we agree to provide the other party with a written Demand for Arbitration as specified in the AAA Rules.  
   
-You get to choose whether the arbitration will take place in the county or province where you live or in Los Angeles, California. We could also hold the arbitration in some other place, but we both have to agree to that. We also agree that during the arbitration process, members of our team may still work with you to resolve your issue informally.  
+A Demand for Arbitration must be accompanied by an attestation of compliance with the informal dispute resolution process described above and be personally signed by the party initiating arbitration (and their counsel, if represented). By submitting a Demand for Arbitration, the party and their counsel will represent that they are complying with the requirements of Federal Rule of Civil Procedure 11(b), like they would in court. The arbitrator is authorized to impose any sanctions available under Federal Rule of Civil Procedure 11 on represented parties and their counsel. You and we understand and agree that the AAA’s administrative determination that this arbitration agreement comports with the Consumer Due Process Protocol is final and that neither a court nor an arbitrator has the authority to revisit it. If the AAA is unavailable or unwilling to administer the arbitration consistent with these Terms, the parties shall agree on an administrator that will do so. If the parties cannot agree, they shall ask a court of competent jurisdiction to appoint an administrator that will do so.  
   
-Either of us involved in the arbitration can ask the arbitrator to put his or her decision or award, or his or her reasons for the decision or award, in writing. Also, either of us can take the arbitrator’s decision or award to a court to confirm it or enter a judgment on it (i.e., make it the same as a court judgment). Sometimes you can ask a court to change an arbitrator’s decision or award, but those circumstances are limited.  
+The arbitration will take place in the county, parish, or province where you live. We could also hold the arbitration in some other place, but we both have to agree to that. We also agree that during the arbitration process, members of our team may still work with you to resolve your issue informally.  
+  
+Either of us involved in the arbitration can ask the arbitrator to put his or her decision or award, or his or her reasons for the decision or award, in writing. Also, either of us can take the arbitrator’s decision or award to a court to confirm it or enter a judgment on it (i.e., make it the same as a court judgment), except an award that has been satisfied may not be entered in any court. Sometimes you can ask a court to change an arbitrator’s decision or award, but those circumstances are limited.  
   
 Notwithstanding any choice of law or other provisions in these Terms, we all agree that the Federal Arbitration Act (including its procedural provisions) will be applied to determine whether the provisions in this Section 9 can be enforced and how they should be interpreted.  
   
+Payment of arbitration fees will be governed by the AAA Rules and fee schedule. You and Scopely agree that we have a shared interest in reducing the costs and increasing the efficiencies associated with arbitration. Therefore, you or Scopely may elect to engage with the AAA regarding arbitration fees, and you and we agree that the parties (and counsel, if represented) will work together in good faith to ensure that arbitration remains cost-effective for all of us.  
+  
+**Additional Procedures for Mass Arbitration**  
+  
+You and we agree that these Additional Procedures for Mass Arbitration (in addition to the rest of Terms) will apply if you decide to participate in a Mass Arbitration. If 25 or more similar disputes (including yours) are asserted against us by the same or coordinated counsel or are otherwise coordinated (“**Mass Arbitration**”), you agree that the resolution of your dispute might be delayed and ultimately proceed in court. If you decide to bring your dispute as part of a Mass Arbitration, any applicable limitations periods (including statutes of limitations) will be tolled for your dispute from the time that your dispute is first submitted to the AAA until your dispute is selected to proceed as part of a stage (as explained below) or is settled, withdrawn, otherwise resolved, or opted out of arbitration as part of these procedures.  
+  
+A Process Arbitrator will be appointed through a rank-and-strike selection process to address any issues contemplated by the AAA Rules. In addition, should Scopely make such a request, the Process Arbitrator will determine whether each dispute brought as part of the Mass Arbitration (including yours) has been specifically authorized and whether each claimant (including you) has actual knowledge of the submission. The Process Arbitrator has the authority to: (i) grant any request for discovery to help the Process Arbitrator decide whether there was authorization and actual knowledge; and (ii) award relief if the Process Arbitrator finds the submissions were not specifically authorized or made with actual knowledge of the claimants.  
+  
+**STAGE ONE**: If at least 500 disputes are submitted as part of the Mass Arbitration, counsel for the claimants and counsel for Scopely will each select 250 disputes (500 total) to be filed and to proceed as cases in individual arbitrations as part of this initial staged process. If there are fewer than 500 disputes submitted, then each of them will proceed as cases in individual arbitrations at that time. Each of the cases will be assigned to a different arbitrator and proceed individually. If a case is withdrawn before an arbitration award is issued, another claim shall be selected to proceed as part of Stage One. The remaining disputes won’t be filed or deemed filed in arbitration nor shall any arbitration fees be assessed or collected in connection with those disputes. After this initial set of proceedings, counsel for the parties will participate in a global mediation to try to resolve all of the remaining disputes (including yours), and Scopely shall pay the mediator’s fee.  
+  
+**STAGE TWO**: If the remaining disputes have not been resolved at the conclusion of Stage One, the same staged process set forth for Stage One will repeat for Stage Two with 500 total disputes proceeding in individual arbitrations except that arbitrators who presided over a case in Stage One may be appointed to preside over a dispute that proceeds as part of Stage Two, unless either party objects. After this second set of staged proceedings, counsel for the parties will participate in a global mediation to try to resolve all of the remaining disputes (including yours), and Scopely shall again pay the mediator’s fee.  
+  
+Upon the completion of the mediation set forth in Stage Two, each remaining dispute (if any) that is not settled or not withdrawn will be opted out of arbitration and may proceed in a court of competent jurisdiction consistent with the remainder of the Terms. However, counsel for the parties may mutually agree in writing to proceed with the adjudication of some or all of the remaining disputes in individual arbitrations consistent with the staged process set forth above (except disputes to proceed in any later stages will be randomly chosen and mediation will be optional) or through another mutually-agreeable process. A court of competent jurisdiction will have the authority to enforce the Additional Procedures for Mass Arbitration, including the power to enjoin the filing or prosecution of arbitrations and the assessment or collection of arbitration fees.  
+  
+The Additional Procedures for Mass Arbitration and each of its requirements are essential parts of this arbitration agreement. If, after exhaustion of all appeals, a court of competent jurisdiction decides that the Additional Procedures for Mass Arbitration apply to your dispute and are not enforceable, then your dispute shall not proceed in arbitration and may only proceed individually in a court of competent jurisdiction consistent with the remainder of the Terms.  
+  
+**Future Changes to this Dispute Resolution Section**  
+  
+If we make any future changes to the Dispute Resolution Section (other than a change to our contact information), you may reject any such change by sending your personally signed, written notice within thirty (30) days of the changes to:  
+
+  
+Scopely, Inc.    
+Attn: Chief Legal Officer   
+3505 Hayden Ave.   
+Culver City, CA 90232  
+
+  
+Such written notice does not constitute an opt out of arbitration or the class action waiver. By rejecting any future change, you are agreeing that you will resolve any dispute between you and Scopely in accordance with this version of the Dispute Resolution Section, including the arbitration agreement and class action waiver.  
   
 
 **10\. GENERAL PROVISIONS**
 
   
 **Severability**  
-You and Scopely agree that if any portion of these Terms is found unlawful or unenforceable, in whole or in part, that provision will be ineffective only to the extent of such finding in such jurisdiction, without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of these Terms, which will be enforced to the fullest extent of the law.  
+Except as otherwise provided in these Terms, you and Scopely agree that if any portion of these Terms is found unlawful or unenforceable, in whole or in part, that provision will be ineffective only to the extent of such finding in such jurisdiction, without affecting the validity or enforceability thereof in any other manner or jurisdiction and without affecting the remaining provisions of these Terms, which will be enforced to the fullest extent of the law.  
   
-**Choice of Law**  
-If you are a US resident, these Terms and our relationship will be governed by California law, without giving effect to its conflicts of laws principles, except as otherwise provided above. As described in Section 9, the Federal Arbitration Act will apply to arbitrable disputes. If you reside outside the US, these Terms and our relationship will be governed by English law, without giving effect to its conflicts of laws principles.  
+**Choice of Law and Jurisdiction**  
+If you are a US resident, these Terms and our relationship will be governed by the laws of the state in which you reside, without giving effect to its conflicts of laws principles, except as otherwise provided above. As described in Section 9, the Federal Arbitration Act will apply to arbitrable disputes. If you reside outside the US, these Terms and our relationship will be governed by English law, without giving effect to its conflicts of laws principles.  
+  
+If you are a US resident and the arbitration agreement is ever deemed unenforceable or void as to your dispute, or a dispute between the parties is not subject to arbitration, you irrevocably consent to the exclusive jurisdiction of the federal and state courts encompassed by New York County, New York or New Castle County, Delaware and waive any objection as to personal jurisdiction or as to the laying of venue in such courts due to: (i) inconvenient forum; or (ii) any other basis or any right to seek to transfer or change venue of any such action to another court.  
+  
+**Jury Trial Waiver**  
+  
+To the fullest extent permitted under applicable law, you and we waive the right to a jury trial.  
   
 **Assignment**  
 Scopely may assign or delegate these Terms, in whole or in part, to any person or entity at any time with or without your approval. You may not assign and/or delegate any of the rights or obligations you have under the Terms unless you obtain Scopely’s prior written approval. Any such assignment and/or delegation without Scopely’s prior written approval is ineffective and in violation of these Terms.  
@@ -765,8 +806,6 @@ If you believe your copyright-protected work has been posted on the Services in 
   
 
   
-  
-  
 If you believe material that you have posted to the Services has been improperly taken down, you may file a written counter-notice with our DMCA Agent. Please include the following details:  
 
   
@@ -789,6 +828,9 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
   
 Scopely’s DMCA Agent should be contacted only for the purposes set forth in this Section. NON-DMCA INQUIRIES DIRECTED TO SCOPELY’S DMCA AGENT WILL NOT BE ANSWERED. MISUSE OF THE DMCA PROCESS CAN SUBJECT YOU TO LIABILITY.  
   
+**Survival**  
+In addition to other provisions that, by their terms, survive any termination of your Account, the Terms, or the Services, the following Sections shall survive any such termination: Section 3 (Ownership), Section 7 (Disclaimer of Warranties), Section 8 (Limitation of Liability and Indemnification), Section 9 (Dispute Resolution), and Section 10 (General Provisions).  
+  
 **Supplemental Terms**  
 Supplemental terms may apply to certain Services, such as forums, contests, or loyalty programs (including subscriptions or VIP experiences). Supplemental terms will be disclosed to you in connection with the applicable Service(s). Those supplemental terms are in addition to and shall be deemed a part of the Terms for purposes of the applicable Service(s), and your right to use such features is subject to those supplemental terms.  
   
@@ -799,9 +841,9 @@ These Terms, including any additional policies and documents referenced in this 
 Any failure of Scopely to enforce any right or provision in these Terms shall not constitute a waiver or relinquishment of such right or provision unless acknowledged and agreed to by us in writing. The express waiver by Scopely of any provision, condition, or requirement of these Terms will not constitute a waiver of any future obligation to comply with such provision, condition, or requirement. Except as expressly and specifically set forth in these Terms, no representations, statements, consents, waivers, or other acts or omissions by Scopely will be deemed a modification of these Terms or legally binding, unless documented in physical writing, hand signed by both you and a duly appointed officer of Scopely.  
   
 **Notices**  
-We may give notice to you via: (i) postings on the Services; (ii) email, telephone, or text message to any email address or phone number connected with your Account; (iii) written communication sent by mail to any address connected with your Account. All notices given by you or required from you under these Terms must be in writing and addressed to: Scopely, Inc. Attn: Chief Legal Officer, 3505 Hayden Ave., Culver City, CA 90232. Any notices that you provide without compliance with this subsection will have no legal effect.  
+We may give notice to you via: (i) postings on the Services; (ii) email, telephone, or text message to any email address or phone number connected with your Account; or (iii) written communication sent by mail to any address connected with your Account. All notices given by you or required from you under these Terms must be in writing and addressed to: Scopely, Inc. Attn: Chief Legal Officer, 3505 Hayden Ave., Culver City, CA 90232. Any notices that you provide without compliance with this subsection will have no legal effect.  
   
-**Additional Terms for Sony Playstation Users**  
+**Additional Terms for Sony PlayStation Users**  
   
 **For SIEA users**: Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America.  
   
