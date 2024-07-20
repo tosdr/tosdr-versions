@@ -16,7 +16,7 @@ RESOURCES
 
 [LOGIN](https://app.tuta.com/ "Mail. Done. Right. Login to Tutanota")
 
-[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tutanota")
+[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
 
 ![](/resources/images/background/writing-encrypted-email-laptop-mockup.jpg)
 
@@ -25,7 +25,7 @@ Same experience, better privacy.
 
 Welcome to a better web: Say "Hello" to privacy and freedom with Tuta!
 
-[CREATE FREE EMAIL ACCOUNT](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tutanota")
+[CREATE FREE EMAIL ACCOUNT](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
 
 Privacy must be yours.
 
@@ -91,7 +91,7 @@ As the Internet grows up, people understand that they have to stop feeding the s
 
 Get your encrypted Tuta account now.
 
-[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tutanota")
+[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
 
 [Terminate subscription](https://app.tuta.com/?r=/termination)
 
