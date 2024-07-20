@@ -51,13 +51,16 @@ Main Navigation
                 * [Rensselaer, IN](https://www.terrastaffinggroup.com/locations/rensselaer-in/)
         * * Wisconsin
                 * [Kenosha, WI](https://www.terrastaffinggroup.com/locations/kenosha-wi/)
+                * [WauWatosa, WI](https://www.terrastaffinggroup.com/locations/wauwatosa-wi)
             * Tennessee
                 * [Memphis, TN](https://www.terrastaffinggroup.com/locations/memphis-tn/)
+                * [Nashville, TN - coming soon](#)
             * Arizona
                 * [Goodyear, AZ](https://www.terrastaffinggroup.com/locations/goodyear-az/)
                 * [Tempe, AZ](https://www.terrastaffinggroup.com/locations/tempe-az/)
                 * [Phoenix, AZ](https://www.terrastaffinggroup.com/locations/phoenix-az/)
                 * [Scottsdale, AZ](https://www.terrastaffinggroup.com/locations/scottsdale-az/)
+                * [GILBERT, AZ - COMING SOON](#)
             * Oregon
                 * [Beaverton, OR](https://www.terrastaffinggroup.com/locations/beaverton-or/)
                 * [Clackamas, OR](https://www.terrastaffinggroup.com/locations/clackamas-or/)
@@ -277,6 +280,14 @@ Looking for practical guidance, real-world solutions and best practices for mana
 
 [SEE ALL WEBINARS](https://www.terrastaffinggroup.com/hr-hot-spot/)
 
+### Next Up:
+
+#### Performance as Narrative
+
+Join TERRA’s Chief Strategy Officer, Jen Lambert, and two seasoned HR HotSpot speakers for an insightful webinar on revolutionizing performance management. Discover strategies to build stronger relationships, enhance performance outcomes, and streamline the process. …
+
+[Read More from Performance as Narrative](https://www.terrastaffinggroup.com/resources/hr-hot-spot/performance-as-narrative/)
+
 * [Privacy Policy](https://www.terrastaffinggroup.com/privacy-policy/)
 * [Careers at TERRA](https://www.terrastaffinggroup.com/about/join-our-team)
 * [Contact Us](https://www.terrastaffinggroup.com/contact)
@@ -290,6 +301,7 @@ Looking for practical guidance, real-world solutions and best practices for mana
     * [Tempe, AZ](https://www.terrastaffinggroup.com/locations/tempe-az/)
     * [Phoenix, AZ](https://www.terrastaffinggroup.com/locations/phoenix-az/)
     * [Scottsdale, AZ](https://www.terrastaffinggroup.com/locations/scottsdale-az/)
+    * [GILBERT, AZ – COMING SOON](#)
 * Colorado
     * [Aurora-Denver, CO](https://www.terrastaffinggroup.com/locations/aurora-denver-co/)
     * [Broomfield, CO](https://www.terrastaffinggroup.com/locations/broomfield-co/)
@@ -311,10 +323,12 @@ Looking for practical guidance, real-world solutions and best practices for mana
     * [Rensselaer, IN](https://www.terrastaffinggroup.com/locations/rensselaer-in/)
 * Tennessee
     * [Memphis, TN](https://www.terrastaffinggroup.com/locations/memphis-tn/)
+    * [Nashville, TN – coming soon](#)
 * Texas
     * [Hurst, TX](https://www.terrastaffinggroup.com/locations/hurst-tx/)
     * [Irving, TX](https://www.terrastaffinggroup.com/locations/irving-tx/)
     * [Richardson, TX](https://www.terrastaffinggroup.com/locations/richardson-tx/)
+    * [Cedar Hill, TX](#)
 * Washington
     * [Everett, WA (Corporate Office)](https://www.terrastaffinggroup.com/locations/everett-wa-corporate-office/)
     * [Kirkland, WA](https://www.terrastaffinggroup.com/locations/kirkland-wa/)
@@ -323,5 +337,6 @@ Looking for practical guidance, real-world solutions and best practices for mana
     * [Tukwila, WA](https://www.terrastaffinggroup.com/locations/tukwila-wa/)
 * Wisconsin
     * [Kenosha, WI](https://www.terrastaffinggroup.com/locations/kenosha-wi/)
+    * [WauWatosa, WI](https://www.terrastaffinggroup.com/locations/wauwatosa-wi)
 
 [](https://www.facebook.com/terrastaffing/)[](https://twitter.com/TerraStaffing/)[](http://www.linkedin.com/company/terra-staffing-group/)[](https://www.youtube.com/terrastaffinggroup)
