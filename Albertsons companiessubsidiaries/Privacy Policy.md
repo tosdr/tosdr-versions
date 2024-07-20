@@ -25,7 +25,7 @@ Privacy Policy
 
 The Privacy Policy describes how Save Mart Supermarkets, LLC and its subsidiaries and affiliated entities (“Save Mart,” “Company,” “our,” “we,” and “us”) process personal information about you.  This Privacy Policy applies when you visit or use any websites owned or controlled by us (collectively, “Website”), access or use our mobile applications (“Apps” and together with the Website, the “Sites”), contact our customer service team, apply to or become a member of our loyalty program, engage with us on social media, communicate with us, apply for a job with us, purchase or use our products or services, or otherwise interact with us.  It also applies to personal information we collect in your capacity as an employee or contractor.
 
-If you have any questions, please contact us as provided below. You may download a copy of this Privacy Policy by clicking [here](http://savemart.cms.sandbox.ps.swiftlycontent.net/wp-content/uploads/sites/5/2023/08/Save-Mart-Privacy-Policy-07.11.23.pdf). If you have a disability and need to receive this Privacy Policy in a different format, please [contact us](https://www.luckysupermarkets.com/contact-us).
+If you have any questions, please contact us as provided below. You may download a copy of this Privacy Policy by clicking [here](http://savemart.swiftlycontent.net/wp-content/uploads/sites/5/2023/08/Save-Mart-Privacy-Policy-07.11.23.pdf). If you have a disability and need to receive this Privacy Policy in a different format, please [contact us](https://www.luckysupermarkets.com/contact-us).
 
 Please read this Privacy Policy carefully to understand our policies and practices. By using the Sites or providing your personal information to us, you consent to the use of your information in accordance with this Privacy Policy. If you do not agree with any term in this Privacy Policy, you should not access and use the Website or Apps and please do not otherwise provide us with any personal information.
 
@@ -283,7 +283,7 @@ If you have any questions about this Policy or our data practices, please email 
 
 From time to time we may change our privacy policy. We will notify you of any material changes to our privacy policy as required by law. We will also post an updated copy on the website where this appears. Please check our website periodically for updates.  The “Last Updated” legend above indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on any of our Sites. 
 
-[Download a PDF version of the Privacy Policy](http://savemart.cms.sandbox.ps.swiftlycontent.net/wp-content/uploads/sites/5/2023/08/Save-Mart-Privacy-Policy-07.11.23-1.pdf)
+[Download a PDF version of the Privacy Policy](http://savemart.swiftlycontent.net/wp-content/uploads/sites/5/2023/08/Save-Mart-Privacy-Policy-07.11.23-1.pdf)
 
 ##### Quick Links
 
@@ -298,7 +298,7 @@ From time to time we may change our privacy policy. We will notify you of any 
 * [SNAP EBT](https://www.luckysupermarkets.com/snap-ebt)
 * [Rewards](https://www.luckysupermarkets.com/rewards-login)
 * [Shopping List](https://www.luckysupermarkets.com/shopping-list)
-* [Made to Order](https://shop-prepared.luckysupermarkets.com/made-to-order-home)
+* [Made to Order](https://prepared.luckysupermarkets.com/)
 * [FAQ](https://www.luckysupermarkets.com/faq)
 
 ##### Policies
