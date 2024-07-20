@@ -46,6 +46,8 @@ More
 
 [Quiz](https://www.snopes.com/game/)
 
+[FactBot](https://www.snopes.com/factbot/)
+
 [About Us](https://www.snopes.com/about/)
 
 Categories
@@ -265,6 +267,8 @@ To ask questions or comment about this privacy policy and our privacy practices,
 Login
 
 [Game](https://www.snopes.com/game/)
+
+[FactBot](https://www.snopes.com/factbot/)
 
 [Like Us on Facebook](https://www.facebook.com/snopes) [Follow Us on Twitter](https://www.twitter.com/snopes)
 
