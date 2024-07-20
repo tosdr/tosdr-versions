@@ -58,7 +58,7 @@
 * [Spaces](#)
 * [Design Resources](#)
 * [Research](https://www.steelcase.com/insights-research/)
-* [About](#)
+* [About](https://www.steelcase.com/about/information/media/)
 * [Dealer Community](https://www.steelcase.com/about/steelcase/dealers/)
 
 Privacy Policy
@@ -192,8 +192,8 @@ Unless otherwise stated, Steelcase Inc. and, for those in the European Economic 
 * Steelcase S.A., Attn: Data Protection Officer, Espace Europeen de l’Enterprise, Schiltigheim 67300 France
 
 * [About Steelcase](https://www.steelcase.com/discover/steelcase/our-company/)
-    * [People + Planet](https://www.steelcase.com/discover/steelcase/esg-overview/)
-    * [Diversity + Inclusion](https://www.steelcase.com/corporate-information/diversity-equity-inclusion/)
+    * [People + Planet](https://www.steelcase.com/people-planet/)
+    * [Diversity + Inclusion](https://www.steelcase.com/people-planet/diversity-equity-inclusion/)
     * [Corporate Governance](https://www.steelcase.com/discover/information/corporate-governance-overview/)
     * [Careers](https://www.steelcase.com/about/steelcase/careers/)
     * [Steelcase Foundation](http://www.steelcasefoundation.org/)
