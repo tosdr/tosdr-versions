@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjoylEyV-_ZdMQGHWMy7a2GbF-bnUHr8CnDlAiIR6h-yn2epXAEVv8buZF7gkkd0Pnpd6a5jCGo4S3fX7TMs:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjoylEyV-_ZdMQGHWMy7a2GbF-bnUHr8CnDlAiIR6h-yn2epXAEVv8buZF7gkkd0Pnpd6a5jCGo4S3fX7TMs:0&docurl=https://docs.google.com/document/d/e/2PACX-1vSzR98HcSfgGp5PvZbh6J6BkcSIsbZ6FZnZ1dwxOc0COcfliSz62W30vUcnpH1Q_TmbEApie9V5XZu7/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 Soundtrap Cookie Policy (RW)
 
@@ -18,7 +18,7 @@ The objective of this Policy is to provide you, as a user of Soundtrap’s servi
 1\. What are cookies?
 ---------------------
 
-Cookies are files which are downloaded to your device, for example, when you visit a website. They are useful because they allow us and our partners to recognise a user's device and support the continuity of your experience. You can find more information about cookies at: [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org/&sa=D&source=editors&ust=1718940472700287&usg=AOvVaw1UYWYSwPnULrGt-vuJfK0T) or [www.youronlinechoices.eu](https://www.google.com/url?q=https://www.youronlinechoices.eu/&sa=D&source=editors&ust=1718940472700641&usg=AOvVaw2sAHmEK9HaME6FZcoKy5ea).
+Cookies are files which are downloaded to your device, for example, when you visit a website. They are useful because they allow us and our partners to recognise a user's device and support the continuity of your experience. You can find more information about cookies at: [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org/&sa=D&source=editors&ust=1721454750584873&usg=AOvVaw3qOP4EogWhs9ZKylvBBHWU) or [www.youronlinechoices.eu](https://www.google.com/url?q=https://www.youronlinechoices.eu/&sa=D&source=editors&ust=1721454750584993&usg=AOvVaw2v-VWUarK-8jsrfS3T6Agp).
 
 2\. How do we use cookies?
 --------------------------
@@ -65,7 +65,7 @@ When we make material changes to this Policy, we'll provide you with prominent n
 6\. How to contact us
 ---------------------
 
-Thank you for reading our Cookie Policy. If you want to find out more about how Soundtrap uses your personal data, please see our [Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_world&sa=D&source=editors&ust=1718940472705647&usg=AOvVaw3kcmuUF9TLVit4wvY8k7ZZ). If you have any questions about this Cookie Policy or our Privacy Policy, please contact our Data Protection Officer by emailing
+Thank you for reading our Cookie Policy. If you want to find out more about how Soundtrap uses your personal data, please see our [Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_world&sa=D&source=editors&ust=1721454750589883&usg=AOvVaw0MwFzGwcVYoWVRYo9AN8ew). If you have any questions about this Cookie Policy or our Privacy Policy, please contact our Data Protection Officer by emailing
 
 privacy@soundtrap.com or writing to us at the following address:
 
