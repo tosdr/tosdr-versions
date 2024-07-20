@@ -131,18 +131,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.narodnimuzej.rs](http://www.narodnimuzej.rs/)
     
-    [10:00 Biljka kao začin. U carstvu boja, mirisa i ukusa, BG](javascript:void(0);)
-    
-    **16.12.2023 | 10:00**
-    
-    Galerija Prirodnjačkog muzeja, Mali Kalamegdan 5, Beograd
-    
-    **BILJKA KAO ZAČIN. U CARSTVU BOJA, MIRISA I UKUSA** - izložba (15.12.2023.-30.6.2024.)
-    
-    autor: dr Uroš Buzurović
-    
-    [https://nhmbeo.rs](https://nhmbeo.rs/)
-    
     [10:00 Spekter. 70 let Zbirke UGM, MB](javascript:void(0);)
     
     **03.02.2024 | 10:00**
@@ -249,38 +237,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.cd-cc.si](https://www.cd-cc.si/)
     
-    [10:00 Umetniška zbirka Kroples, LJ](javascript:void(0);)
-    
-    **08.03.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **UMETNIŠKA ZBIRKA KROPLES** - razstava 66 umetnin avtorjev (7.3.-14.7.2024.)
-    
-    **Marko Pernhart**
-    
-    **Ivana Kobilca**
-    
-    **Anton Karinger**
-    
-    **Rihard Jakopič**
-    
-    **Ivan Grohar**
-    
-    **Matija Jama**
-    
-    **Hinko Smrekar**
-    
-    **Zoran Mušič**
-    
-    **Metka Krašovec**
-    
-    **…**
-    
-    kustosinja dr. Alenka Simončič
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Klavdij Sluban, LJ](javascript:void(0);)
     
     **20.03.2024 | 10:00**
@@ -317,14 +273,36 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **NEOPAŽENO OB CESTI. GRAFIČNA TEHNIKA MARJANA POGAČNIKA** - razstava (18.4.-20.10.2024.)
+    
+    avtorji razstave: Tina Buh, Admir Ganić, Andrej Smrekar
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos/35-godina-porodice-bistrih-potoka/stid-sumes-foto-zoranpopovic-2012_2.jpg?itok=p5Y8NsBy)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-fotografije-photos/35-godina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/slike/paitings/gospodin-leprsic.jpg?itok=UGCElPNa)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/slikepaitings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/23-beogradski-dzez-festival/gianluigi-trovesi-1.jpg?itok=oaikfaXw)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/23-beogradski-dzez-festival)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii/balkan-djiha.jpg?itok=7I1Slm81)](http://seecult.org/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -340,27 +318,27 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 * [Partibrejkers uveličali Zemun fest](http://seecult.org/vest/partibrejkers-uvelicali-zemun-fest)
 
-* [Pluća Nosova na Belefu](http://seecult.org/vest/pluca-nosova-na-belefu)
-* [Letnja akcija Arhipelaga](http://seecult.org/vest/letnja-akcija-arhipelaga)
-* [Francuski filmovi pod vedrim nebom](http://seecult.org/vest/francuski-filmovi-pod-vedrim-nebom)
-* [Bitoljski Hamlet pobednik 51. INFANT-a](http://seecult.org/vest/bitoljski-hamlet-pobednik-51-infant)
-* [Kejv solo u Beogradu na vodi](http://seecult.org/vest/kejv-solo-u-beogradu-na-vodi)
-* [11\. Šekspir festival - Ah, što luda nisam ja!](http://seecult.org/vest/11-sekspir-festival-ah-sto-luda-nisam-ja)
-* [Uži izbor za Vladana Desnicu](http://seecult.org/vest/uzi-izbor-za-vladana-desnicu)
-* [Poziv na protestnu akciju](http://seecult.org/vest/poziv-na-protestnu-akciju)
-* [Uži izbor za Šteficu Cvek](http://seecult.org/vest/uzi-izbor-za-steficu-cvek)
-* [Nepoželjni na otvaranju 6. Festivala francuskog filma](http://seecult.org/vest/nepozeljni-na-otvaranju-6-festivala-francuskog-filma)
+* [Bistre reke ponovo na staroj planini](http://seecult.org/vest/bistre-reke-ponovo-na-staroj-planini)
+* [Početak 31. Palića u slavu dobitnika Lifke](http://seecult.org/vest/pocetak-31-palica-u-slavu-dobitnika-lifke)
+* [Kraljevački festival antiratnog, angažovanog i akademskog filma](http://seecult.org/vest/kraljevacki-festival-antiratnog-angazovanog-i-akademskog-filma)
+* [Sećanje... Ivana Simeonović Ćelić](http://seecult.org/vest/secanje-ivana-simeonovic-celic)
+* [50 godina Derviša i smrti u Puli](http://seecult.org/vest/50-godina-dervisa-i-smrti-u-puli)
+* [7\. Dunav film fest u Smederevu](http://seecult.org/vest/7-dunav-film-fest-u-smederevu)
+* [Trijumf Proslave na 71. Puli](http://seecult.org/vest/trijumf-proslave-na-71-puli)
+* [Digitalni arhiv Pulskog filmskog festivala](http://seecult.org/vest/digitalni-arhiv-pulskog-filmskog-festivala)
+* [Nagrada Novica Tadić Tamari Radević](http://seecult.org/vest/nagrada-novica-tadic-tamari-radevic)
+* [Mekšanje otvara 58. Bitef](http://seecult.org/vest/meksanje-otvara-58-bitef)
 
 * [Konkursi](#tab1_1)
 
+* [Konkurs za filmove za 18. Festival srpskog filma fantastike](http://seecult.org/konkurs/konkurs-za-filmove-za-18-festival-srpskog-filma-fantastike)
+* [Konkurs za izlaganje u galeriji MiniTaur u 2024/25.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-minitaur-u-202425)
+* [Konkurs za Somborski salon 2024](http://seecult.org/konkurs/konkurs-za-somborski-salon-2024)
 * [Konkurs Fondacije i Galerije DOTS za mlade umetnike](http://seecult.org/konkurs/konkurs-fondacije-i-galerije-dots-za-mlade-umetnike)
 * [Konkurs Hartefakta za najbolji savremeni angažovani dramski tekst](http://seecult.org/konkurs/konkurs-hartefakta-za-najbolji-savremeni-angazovani-dramski-tekst-0)
 * [Konkurs za neobjavljeni rukopis prve knjige za ediciju Golub](http://seecult.org/konkurs/konkurs-za-neobjavljeni-rukopis-prve-knjige-za-ediciju-golub)
 * [Konkurs za izlaganje u Savremenoj galeriji Subotica u 2025.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-savremenoj-galeriji-subotica-u-2025)
 * [Konkurs za učešće na 2. Memorijalu Andrija Čikić](http://seecult.org/konkurs/konkurs-za-ucesce-na-2-memorijalu-andrija-cikic)
-* [Konkurs za učešće na novom festivalu MAPA 032 u Čačku](http://seecult.org/konkurs/konkurs-za-ucesce-na-novom-festivalu-mapa-032-u-cacku)
-* [Konkurs Galerije Doma omladine Beograda za izlaganje u 2025.](http://seecult.org/konkurs/konkurs-galerije-doma-omladine-beograda-za-izlaganje-u-2025)
-* [Konkurs za učešće na Beogradskom festivalu mozaika IV](http://seecult.org/konkurs/konkurs-za-ucesce-na-beogradskom-festivalu-mozaika-iv)
 
 * [Kritika](#tab2_1)
 
@@ -402,14 +380,14 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 Video
 
-08.04.2024 | 10:10
+21.06.2024 | 21:54
 
-[](#)[VOĐENJE: IRWIN – NSK State – It's a Beautiful Country](http://seecult.org/vest/vodenje-irwin-nsk-state-its-beautiful-country)
------------------------------------------------------------------------------------------------------------------------------------
+[](#)[VOĐENJE: Luka Marjanović – Nevolje u raju](http://seecult.org/vest/vodenje-luka-marjanovic-nevolje-u-raju)
+----------------------------------------------------------------------------------------------------------------
 
-IRWIN: _NSK State – It's a Beautiful Country_, Umetnički pav
+Luka Marjanović: Nevolje u raju, Galerija Doma omladine Beograda, 11-23. jun 2024.
 
-[![](http://seecult.org/sites/default/files/baner_desno/seecult-vodjenje.jpg)](https://www.youtube.com/playlist?list=PL27ADA311E59A5ADE) [![](http://seecult.org/sites/default/files/baner_desno/fff-2024.jpg)](https://www.institutfrancais.rs/) [![](http://seecult.org/sites/default/files/baner_desno/slobodna-zona-turneja-2024.png)](https://slobodnazona.rs/turneja/) [![](http://seecult.org/sites/default/files/baner_desno/kritika-na-delu_2019.png)](https://www.youtube.com/playlist?list=PLTjmwEw66acXw-tYvmNUOKLRjRt1_fC8U) [![](http://seecult.org/sites/default/files/baner_desno/ulus-iaa.gif)](https://ulus.rs/iaa-ulus-identifikaciona-kartica-za-profesionalne-umetnike/) [![](http://seecult.org/sites/default/files/baner_desno/sok-zadruga-exartklinika.jpg)](https://sokzadruga.com/) [![](http://seecult.org/sites/default/files/baner_desno/ju-kinoteka.gif)](http://www.kinoteka.org.rs/) [![](http://seecult.org/sites/default/files/baner_desno/abc.gif)](https://www.youtube.com/playlist?list=PLTjmwEw66acXe4xC_9CIfXym9G9M_PvhY) [![](http://seecult.org/sites/default/files/baner_desno/e-vodic-digitalizacija-kulture.jpg)](http://www.seecult.org/vodic-kroz-digitalizaciju) [![](http://seecult.org/sites/default/files/baner_desno/muzej-korupcije.gif)](http://www.seecult.org/tag/muzej-korupcije) [![](http://seecult.org/sites/default/files/baner_desno/criticize_this.jpg)](http://www.criticizethis.org/) [![](http://seecult.org/sites/default/files/baner_desno/zastodaneueu.jpg)](http://www.seecult.org/tag/zasto-da-ne-u-eu) [![](http://seecult.org/sites/default/files/baner_desno/seecult-wsa2013.jpg)](https://www.worldsummitawards.org/winner/culture-portal-seecult-org/) [![](http://seecult.org/sites/default/files/baner_desno/irf.png)](https://www.goethe.de/en/uun/auf/hlf.html)
+[![](http://seecult.org/sites/default/files/baner_desno/seecult-vodjenje.jpg)](https://www.youtube.com/playlist?list=PL27ADA311E59A5ADE) [![](http://seecult.org/sites/default/files/baner_desno/palic-2024.jpg)](https://www.palicfilmfestival.com/) [![](http://seecult.org/sites/default/files/baner_desno/kritika-na-delu_2019.png)](https://www.youtube.com/playlist?list=PLTjmwEw66acXw-tYvmNUOKLRjRt1_fC8U) [![](http://seecult.org/sites/default/files/baner_desno/ulus-iaa.gif)](https://ulus.rs/iaa-ulus-identifikaciona-kartica-za-profesionalne-umetnike/) [![](http://seecult.org/sites/default/files/baner_desno/sok-zadruga-exartklinika.jpg)](https://sokzadruga.com/) [![](http://seecult.org/sites/default/files/baner_desno/ju-kinoteka.gif)](http://www.kinoteka.org.rs/) [![](http://seecult.org/sites/default/files/baner_desno/abc.gif)](https://www.youtube.com/playlist?list=PLTjmwEw66acXe4xC_9CIfXym9G9M_PvhY) [![](http://seecult.org/sites/default/files/baner_desno/e-vodic-digitalizacija-kulture.jpg)](http://www.seecult.org/vodic-kroz-digitalizaciju) [![](http://seecult.org/sites/default/files/baner_desno/muzej-korupcije.gif)](http://www.seecult.org/tag/muzej-korupcije) [![](http://seecult.org/sites/default/files/baner_desno/criticize_this.jpg)](http://www.criticizethis.org/) [![](http://seecult.org/sites/default/files/baner_desno/zastodaneueu.jpg)](http://www.seecult.org/tag/zasto-da-ne-u-eu) [![](http://seecult.org/sites/default/files/baner_desno/seecult-wsa2013.jpg)](https://www.worldsummitawards.org/winner/culture-portal-seecult-org/) [![](http://seecult.org/sites/default/files/baner_desno/irf.png)](https://www.goethe.de/en/uun/auf/hlf.html)
 
 * [Impresum](http://seecult.org/impresum)
 * [O nama](http://seecult.org/o-udruzenju-gradana-seecultorg)
