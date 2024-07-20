@@ -7,7 +7,7 @@ Product
 * [The Matrix Standard](https://riot.im/matrix-benefits)
 * [Features](https://riot.im/features)
 * [Integrations](https://riot.im/integrations)
-* [Hosting](https://riot.im/solutions/self-hosted-or-cloud-collaboration)
+* [Hosting](https://riot.im/self-hosted-or-cloud)
 
 Solutions
 
@@ -44,7 +44,7 @@ Product
 * [The Matrix Standard](https://riot.im/matrix-benefits)
 * [Features](https://riot.im/features)
 * [Integrations](https://riot.im/integrations)
-* [Hosting](https://riot.im/solutions/self-hosted-or-cloud-collaboration)
+* [Hosting](https://riot.im/self-hosted-or-cloud)
 
 Solutions
 
@@ -363,7 +363,7 @@ If you want to make a complaint about the way we have processed your personal in
 
 #### Product
 
-[The Element App](https://riot.im/app-for-productivity) [Element Server Suite](https://riot.im/server-suite) [The Matrix Standard](https://riot.im/matrix-benefits) [Features](https://riot.im/features) [Integrations](https://riot.im/integrations) [Hosting](https://riot.im/solutions/self-hosted-or-cloud-collaboration) [Pricing](https://riot.im/pricing)
+[The Element App](https://riot.im/app-for-productivity) [Element Server Suite](https://riot.im/server-suite) [The Matrix Standard](https://riot.im/matrix-benefits) [Features](https://riot.im/features) [Integrations](https://riot.im/integrations) [Hosting](https://riot.im/self-hosted-or-cloud) [Pricing](https://riot.im/pricing)
 
 #### Solutions
 
@@ -379,7 +379,7 @@ If you want to make a complaint about the way we have processed your personal in
 
 ![](images/cyber-essentials-plus.webp)
 
-Copyright © 2024 Element • [Legal](https://riot.im/legal) • [Privacy](https://riot.im/privacy)
+Copyright © 2016–2024 Element • [Legal](https://riot.im/legal) • [Privacy](https://riot.im/privacy)
 
 All Rights Reserved. The Element name, logo and device are registered trade marks of New Vector Ltd
 
