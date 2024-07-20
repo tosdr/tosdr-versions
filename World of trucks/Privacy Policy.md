@@ -18,7 +18,7 @@ WORLD OF TRUCKS – PRIVACY POLICY
 
 |     |     |
 | --- | --- |
-| 1.1 | SCS Software s.r.o. with its registered office at Jihlavská 1558/21, Michle, 140 00 Praha 4, Czechia, Identification Number: 28181301, entered into Commercial Register maintained by the Prague City Court, Section C., Insert No. 131111(“Company”) operates a site called World of Trucks (“Site”) designed for users of the computer games developed by the Company (“Games”) where the users may share their experience with the Games and engage with other users to improve their Game experience. The purpose of this document is to provide users with information related to personal data processing in accordance with the requirements set out in Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation, “GDPR”). |
+| 1.1 | SCS Software s.r.o. with its registered office at Tomíčkova 2427/2, Chodov, 148 00 Praha 4, Czechia, Identification Number: 28181301, entered into Commercial Register maintained by the Prague City Court, Section C., Insert No. 131111(“Company”) operates a site called World of Trucks (“Site”) designed for users of the computer games developed by the Company (“Games”) where the users may share their experience with the Games and engage with other users to improve their Game experience. The purpose of this document is to provide users with information related to personal data processing in accordance with the requirements set out in Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation, “GDPR”). |
 | 1.2 | Any terms undefined in this document which are defined in GDPR shall have the same meaning as in GDPR. |
 
 2\. SCOPE OF DATA PROCESSING
@@ -100,7 +100,7 @@ In relation to the personal data provided to the Company, users have the followi
 7.9More information about cookies (including the administration and deletion of cookies) is available at: [www.allaboutcookies.org](https://www.allaboutcookies.org/)
 
   
-**This document was last updated on December 28, 2021**  
+**This document was last updated on July 1, 2024**  
 
 [](https://blog.scssoft.com/ "Check out our blog")[](https://forum.scssoft.com/ "Meet other players on our forum")[](https://www.youtube.com/SCSSoftware "Visit our YouTube channel")[](https://twitter.com/SCSsoftware "Follow us on Twitter")[](https://www.facebook.com/eurotrucksimulator2 "Like us on Facebook")[](https://www.instagram.com/scs.software/ "Follow us on Instagram")
 
