@@ -56,7 +56,7 @@ Follow Us
 
 Back to Main Menu About Verisign
 
-* [Overview](https://www.verisign.com/en_US/company-information/index.xhtml) [Mission and Values](https://www.verisign.com/en_US/company-information/mission-values/index.xhtml)\\ [Newsroom](https://www.verisign.com/en_US/internet-technology-news/index.xhtml) [Executive Team](https://www.verisign.com/en_US/company-information/jim-bidzos/index.xhtml) [Careers](https://www.verisign.com/en_US/company-information/verisign-careers/index.xhtml) [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) [Blog](https://blog.verisign.com/) [Contact Us](https://www.verisign.com/en_US/company-information/contact-us/index.xhtml) [Investors](https://investor.verisign.com/index.cfm)
+* [Overview](https://www.verisign.com/en_US/company-information/index.xhtml) [Mission and Values](https://www.verisign.com/en_US/company-information/mission-values/index.xhtml) [Newsroom](https://www.verisign.com/en_US/internet-technology-news/index.xhtml) [Executive Team](https://www.verisign.com/en_US/company-information/jim-bidzos/index.xhtml) [Careers](https://www.verisign.com/en_US/company-information/verisign-careers/index.xhtml) [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) [Blog](https://blog.verisign.com/) [Contact Us](https://www.verisign.com/en_US/company-information/contact-us/index.xhtml) [Investors](https://investor.verisign.com/index.cfm)
     
 
 Got a great website name? See if it's available:
@@ -145,7 +145,7 @@ Quicklinks
 Verisign Privacy Statement
 ==========================
 
-_Version 3.3 – Last Updated and Effective August 3, 2023_
+_Version 3.4 – Last Updated and Effective July 3, 2024_
 
 VeriSign, Inc. and its subsidiaries (collectively, “Verisign”) are committed to processing your personal information in a fair and lawful manner. We have developed this Privacy Statement to inform you about how we handle personal information and about our privacy practices currently, and during the past 12 months, for the [verisign.com](https://www.verisign.com/en_US/index.xhtml) website and any other Verisign websites that direct you to this Privacy Statement (the “Covered Sites”), and our other Verisign products and services, including but not limited to our registry services and when you may engage with us offline (the “Covered Products and Services”).
 
@@ -163,7 +163,7 @@ This Privacy Statement is organized into three primary sections:
     * Our security procedures.
     * Changes to this privacy statement.
 * The [second section](#section-2) describes specific rights for individuals subject to international privacy laws, including individuals located in the European Union (“EU”) and the People’s Republic of China (“China”).
-* The [third section](#section-3) provides notices to California residents, and describes specific rights for California residents and other information that is required under the California Consumer Privacy Act, as amended by the California Privacy Rights Act (“CCPA”).
+* The [third section](#section-3) provides notices to California and Texas residents, and describes specific rights for these individuals and other information that is required under applicable state laws.
 
 If you have questions regarding our Privacy Statement or privacy practices, please use one of the options listed in the “[CONTACT VERISIGN](#contact)” section at the end of Section I of this Privacy Statement.
 
@@ -229,7 +229,7 @@ We may disclose the following categories of personal information to entities oth
 * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback, survey responses, and any unsolicited personal information not otherwise covered by this Privacy Statement that you choose to submit in an enquiry or webchat, on a blog forum or otherwise on our Covered Sites or in person to a Verisign representative at an event.
 * **Usage Data** includes information about how you use the Covered Sites (for example time of day, duration of visit, pages visited, actions taken on pages, or other automatically collected meta-data), and/or our products and services.
 * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
-* **Social Media Application Data** iincludes, without limitation, your public profile, social media relationships, listed work and education history, listed hometown and current city, profile photos, personal description, and “likes.”
+* **Social Media Application Data** includes, without limitation, your public profile, social media relationships, listed work and education history, listed hometown and current city, profile photos, personal description, and “likes.”
 
 Below are the categories of entities to whom we may disclose personal information and why.
 
@@ -375,50 +375,31 @@ For users located in China, when you visit our overseas Covered Sites, such as [
 
 VeriSign, Inc. complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. VeriSign, Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Verisign, Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“Swiss-U.S. DPF Principles”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit [https://www.dataprivacyframework.gov.](https://www.dataprivacyframework.gov/s/) [Click here to view our EU/Swiss-U.S. Data Privacy Framework Privacy Policy.](https://www.verisign.com/verisign-privacy-statement/eu-privacy-shield/index.xhtml)
 
-### III. CCPA NOTICES AND RIGHTS
+### III. CALIFORNIA AND TEXAS NOTICES AND RIGHTS
 
-This section only applies to California residents. Where we collect, process, use, or disclose personal information that is subject to the CCPA, we are committed to processing your personal information in a transparent and fair manner and in compliance with the CCPA. This section describes the rights California residents have in relation to your personal information and provides the notices required by the CCPA.
+This section only applies to California and Texas residents. This section describes the rights California and Texas residents have in relation to your personal information and provides the notices by relevant state laws.
 
-#### A. YOUR CCPA RIGHTS
+#### A. YOUR RIGHTS (RESIDENTS OF CALIFORNIA AND TEXAS)
 
-The CCPA grants California residents the rights described below.
+If you are a resident of California or Texas, you have the rights described below.
 
-**Right to Know General Collection and Use of Personal Information (Access Request)**. Under the CCPA, California residents have the right to request that Verisign disclose what information we have collected, used, disclosed, or sold over the past 12 months. Once we receive and confirm your verifiable consumer request for such information, we will disclose to you, based on your specific request:
+**Right to Know General Collection and Use of Personal Information (Access Request).** You have the right to request that Verisign disclose what information we have collected, used, disclosed, or sold about you.
 
-* The categories of personal information we collected about you over the past 12 months;
-* The categories of sources from which the personal information is collected over the past 12 months;
-* The business or commercial purpose for collecting or selling that personal information over the past 12 months;
-* The categories of third parties with whom we shared your personal information over the past 12 months;
-* If we disclosed your personal information for a business purpose, the personal information categories that each category of recipients obtained; and/or
-* If we sold your personal information for a business purpose, the personal information categories that each category of recipients purchased.
-
-**Right to Know Specific Pieces of Personal Information (Data Portability)**. Upon your verified request for such information, we will disclose to you certain specific pieces of personal information we have collected about you over the past 12 months.
+**Right to Portability.** Upon your verified request for such information, we will provide you with a copy of your personal information if feasible.
 
 **Right to Correct Inaccurate Information**. You have the right to request that we correct any of your personal information that we have collected from you and retained if it is inaccurate. Once we receive your verifiable consumer request, we will make reasonable efforts to correct your personal information.
 
 **Right to Request Deletion**. You have the right to request that we delete any of your personal information that we have collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete your personal information from our records, and direct our service providers to do the same, unless an exception applies.
 
-Some of the exceptions that would allow us to deny a request for deletion include if the information is necessary for us or our service provider(s) to do the following:
-
-* Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract we have with you.
-* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
-* Debug products to identify and repair errors that impair existing intended functionality.
-* Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
-* Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et. seq.).
-* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent.
-* Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
-* Comply with a legal obligation.
-* Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
-
-**Right to Opt-Out of Sale or Sharing of Personal Information**. You have the right to direct businesses that sell personal information or share personal information for the purpose of cross-context behavioral advertising to not sell or share your personal information (the "right to opt-out"). Verisign does not sell or share (as defined by the CCPA) personal information of California residents to third parties, including the personal information of California residents who are under 16 years of age.
+**Right to Opt-Out of Sale or Sharing of Personal Information, Targeted Advertising or certain types of profiling.** You have the right to direct businesses that sell personal information or share personal information for the purpose of cross-context behavioral advertising to not sell or share your personal information (the "right to opt-out"). Verisign does not sell or share personal information, as defined by relevant laws, of California or Texas residents to third parties, including the personal information of California residents who are under 16 years of age. Verisign also does not engage in targeted advertising or certain types of profiling directed toward California or Texas residents.
 
 **Right to Limit the Use or Disclosure of Sensitive Personal Information**. If we used your Sensitive Personal Information for certain purposes, you would have the right to request that we limit that use. Verisign does not use Sensitive Personal Information in a manner that would activate this right.
 
-**Right to Non-Discrimination**. You have the right not to be discriminated against for having exercised the rights established by the CCPA. We will not discriminate against you for exercising any of your CCPA rights.
+**Right to Non-Discrimination**. You have the right not to be discriminated against for having exercised the rights. We will not discriminate against you for exercising any of your rights.
 
-#### B. EXERCISING YOUR CCPA RIGHTS
+#### B. EXERCISING YOUR RIGHTS
 
-This section of our Privacy Statement explains how a California resident can exercise their rights.
+This section of our Privacy Statement explains how a California or Texas resident can exercise their rights.
 
 To exercise your rights, you or your authorized agent may submit a verifiable consumer request in one of the following ways:
 
@@ -427,13 +408,13 @@ To exercise your rights, you or your authorized agent may submit a verifiable co
 
 Upon receipt of your request to exercise your rights, we will confirm receipt within 10 business days. If we are able to verify your identity, we will make our best effort to respond within forty-five (45) calendar days of our receipt of your request. If we require more time (up to 45 additional calendar days), we will inform you of the reason and extension period in writing.
 
-The CCPA allows a California resident to make a verifiable consumer request to know only twice within a 12-month period.
+If we decline your request to exercise a right, we will explain our reasons. You may appeal that decision by contacting us.
 
 #### C. DESIGNATING AN AUTHORIZED AGENT
 
-Only you as a California resident, or a person registered with the California Secretary of State that you authorize to act on your behalf (Authorized Agent), may make a verifiable request to know or a request for deletion. If you are using an Authorized Agent to exercise your CCPA rights, we require the Authorized Agent to provide us with written confirmation that you have authorized them to act on your behalf. We may also verify the identity of the Authorized Agent.
+Only you as a California or Texas resident, or a person that you authorize to act on your behalf (Authorized Agent), may make a verifiable request to know or a request for deletion. If you are using an Authorized Agent to exercise your rights, we require the Authorized Agent to provide us with written confirmation that you have authorized them to act on your behalf. We may also verify the identity of the Authorized Agent.
 
-#### D. HOW WE VERIFY CALIFORNIA RESIDENTS’ IDENTITY
+#### D. HOW WE VERIFY YOUR IDENTITY
 
 We will not respond to requests to exercise your rights unless we can verify your identity (and your Authorized Agent’s identity if relevant) to a reasonable degree of certainty. To verify your identity, when feasible, we will use information about you that we already have (such as your email address); however, on occasion we may need to request additional information, which we will use only for the purposes of verification. We may also use a third-party identify verification service.
 
