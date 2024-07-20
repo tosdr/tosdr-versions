@@ -1,4 +1,4 @@
-[![logo](https://titanprojects.co/asset/img/logo.svg)](https://titanprojects.co/)
+[![logo](asset/img/logo.svg)](https://titanprojects.co/)
 
 [](https://titanexplorer.co/ "Explorer 1")[](https://chainz.cryptoid.info/ttn/ "Explorer 2")[](https://github.com/titancoinproject/Titan)
 
@@ -74,8 +74,8 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 If you have any questions about this Privacy Policy [Contact Us.](https://titanprojects.co/#contact)
 
-[FAQs](https://titanprojects.co/faqs) [Privacy Policy](https://titanprojects.co/privacy_policy) [Terms and conditions](https://titanprojects.co/terms_condition) [Terms of use](https://titanprojects.co/terms_of_use) [Fees](https://titanprojects.co/fees) [\[email protected\]](https://titanprojects.co/cdn-cgi/l/email-protection)
+[FAQs](https://titanprojects.co/faqs) [Privacy Policy](https://titanprojects.co/privacy_policy) [Terms and conditions](https://titanprojects.co/terms_condition) [Terms of use](https://titanprojects.co/terms_of_use) [Fees](https://titanprojects.co/fees) [Support](https://titanprojects.co/#5b282e2b2b34292f1b2f322f3a352b2934313e382f28753834)
 
-Copyright © 2024 titanprojects.co
+Copyright © 2021 titanprojects.co
 
 [](# "Back to top")
