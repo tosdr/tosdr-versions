@@ -36,17 +36,16 @@ Select Network
 * [Ecology EcoRN](https://www.ssrn.com/index.cfm/en/ecorn/)
 * [Economics ERN](https://www.ssrn.com/index.cfm/en/ern/)
 * [Education EduRN](https://www.ssrn.com/index.cfm/en/edurn/)
-* [Energy EnergyRN](https://www.ssrn.com/index.cfm/en/energyrn/)
+* [Energy Preprints EnergyRN](https://www.ssrn.com/index.cfm/en/energyrn/)
 * [Engineering EngRN](https://www.ssrn.com/index.cfm/en/engrn/)
 * [Entrepreneurship Research & Policy Preprints ERPN](https://www.ssrn.com/index.cfm/en/erpn/)
 * [Environmental Science EnvironSciRN](https://www.ssrn.com/index.cfm/en/environscirn/)
+* [Financial & Investment Planning FIPRN](https://www.ssrn.com/index.cfm/en/finplanrn/)
 * [Financial Economics FEN](https://www.ssrn.com/index.cfm/en/fen/)
-* [Financial Planning FinPlanRN](https://www.ssrn.com/index.cfm/en/finplanrn/)
 * [Food Science FoodSciRN](https://www.ssrn.com/index.cfm/en/foodscirn/)
 * [Forensic Science ForensicSciRN](https://www.ssrn.com/index.cfm/en/forensicscirn/)
 * [Geography GeographyRN](https://www.ssrn.com/index.cfm/en/geographyrn/)
 * [Geology GeologyRN](https://www.ssrn.com/index.cfm/en/geologyrn/)
-* [Global Investment GlobalInvestRN](https://www.ssrn.com/index.cfm/en/globalinvestrn/)
 * [Health Economics HEN](https://www.ssrn.com/index.cfm/en/hen/)
 * [Hebrew Research HRN](https://www.ssrn.com/index.cfm/en/hrn/)
 * [History HistoryRN](https://www.ssrn.com/index.cfm/en/historyrn/)
@@ -316,7 +315,7 @@ EduRN](https://www.ssrn.com/index.cfm/en/edurn/)
 * [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=3118597)
 * [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=3118597)
 
-[Energy
+[Energy Preprints
 
 EnergyRN](https://www.ssrn.com/index.cfm/en/energyrn/)
 
@@ -360,6 +359,17 @@ EnvironSciRN](https://www.ssrn.com/index.cfm/en/environscirn/)
 * [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=3698378)
 * [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=3698378)
 
+[Financial & Investment Planning
+
+FIPRN](https://www.ssrn.com/index.cfm/en/finplanrn/)
+
+* [Partners in Publishing](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-partners-in-publishing/)
+* [Research Paper Series](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-research-paper-series/)
+* [Conference & Meetings](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-conferences-meetings/)
+* [Subject Matter eJournals](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-ejournals/)
+* [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=3468882)
+* [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=3468882)
+
 [Financial Economics
 
 FEN](https://www.ssrn.com/index.cfm/en/fen/)
@@ -370,17 +380,6 @@ FEN](https://www.ssrn.com/index.cfm/en/fen/)
 * [Subject Matter eJournals](https://www.ssrn.com/index.cfm/en/fen/fen-ejournals/)
 * [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=203)
 * [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=203)
-
-[Financial Planning
-
-FinPlanRN](https://www.ssrn.com/index.cfm/en/finplanrn/)
-
-* [Partners in Publishing](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-partners-in-publishing/)
-* [Research Paper Series](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-research-paper-series/)
-* [Conference & Meetings](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-conferences-meetings/)
-* [Subject Matter eJournals](https://www.ssrn.com/index.cfm/en/finplanrn/finplanrn-ejournals/)
-* [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=3468882)
-* [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=3468882)
 
 [Food Science
 
@@ -425,17 +424,6 @@ GeologyRN](https://www.ssrn.com/index.cfm/en/geologyrn/)
 * [Subject Matter eJournals](https://www.ssrn.com/index.cfm/en/geologyrn/geologyrn-ejournals/)
 * [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=3587982)
 * [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=3587982)
-
-[Global Investment
-
-GlobalInvestRN](https://www.ssrn.com/index.cfm/en/globalinvestrn/)
-
-* [Partners in Publishing](https://www.ssrn.com/index.cfm/en/globalinvestrn/globalinvestrn-partners-in-publishing/)
-* [Research Paper Series](https://www.ssrn.com/index.cfm/en/globalinvestrn/globalinvestrn-research-paper-series/)
-* [Conference & Meetings](https://www.ssrn.com/index.cfm/en/globalinvestrn/globalinvestrn-conferences-meetings/)
-* [Subject Matter eJournals](https://www.ssrn.com/index.cfm/en/globalinvestrn/globalinvestrn-ejournals/)
-* [Job Openings](https://www.ssrn.com/index.cfm/en/janda/job-openings/?jobsNet=4057758)
-* [Professional Announcements](https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=4057758)
 
 [Health Economics
 
@@ -948,7 +936,7 @@ All content on this site: Copyright © 2023 Elsevier Inc., its licensors, and co
 
 We use cookies to help provide and enhance our service and tailor content.
 
-To learn more, visit Cookie Settings. This page was processed by aws-apollo-l100 in 0.078 seconds
+To learn more, visit Cookie Settings. This page was processed by aws-apollo-l200 in 0.109 seconds
 
 [](http://www.relx.com/ "RELX")
 
