@@ -52,7 +52,7 @@
 Privacy
 =======
 
-![](//www.threatstop.com/hubfs/raw_assets/public/ThreatSTOP%202021/assets/img/line-bg--on-dark.svg)
+![background](//www.threatstop.com/hubfs/raw_assets/public/ThreatSTOP%202021/assets/img/line-bg--on-dark.svg)
 
 April 30 2010
 
@@ -128,11 +128,7 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o ThreatSTOP Inc., 2720 Loker Ave. West Suite G, Carlsbad, CA, 92010, USA.
 
-★★★★★
-
-ThreatSTOP works great. We are attacked every day and it stops them. It gives me the warm and fuzzies that I am protected. It's well worth every penny.
-
-Richard Gaustad - VP & CIO
+© threatSTOP Inc. 2024
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
