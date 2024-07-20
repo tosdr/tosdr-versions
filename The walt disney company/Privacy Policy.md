@@ -23,7 +23,6 @@ Search for
 
 * [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/ "Privacy Policy")
     * [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/ "Privacy Policy")
-    * [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/ "Your California Privacy Rights")
     * [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/ "Your US State Privacy Rights")
 * [For Parents](https://privacy.thewaltdisneycompany.com/en/for-parents/ "For Parents")
     * [For Parents](https://privacy.thewaltdisneycompany.com/en/for-parents/ "For Parents")
@@ -188,15 +187,6 @@ The Walt Disney Family of Companies (“TWDC”) is committed to protecting the 
 Learn More
 
 [Children’s Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/)
-
-Your California Privacy Rights
-------------------------------
-
-Learn about your California Privacy Rights.
-
-Learn More
-
-[Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/)
 
 ![Disney](https://privacy.thewaltdisneycompany.com/app/uploads/2024/02/disney700.png "Disney")
 
