@@ -32,7 +32,7 @@
     * [Blog](https://www.skytap.com/blog/ "Blog")
     * [Partners](https://www.skytap.com/tech-partners/ "Partners")
     * [Events](https://www.skytap.com/events/ "Events")
-    * [Careers](https://jobs.jobvite.com/skytap/ "Careers")
+    * [Careers](https://www.kyndryl.com/careers "Careers")
 * [Contact](https://www.skytap.com/contact-us/ "Contact")
 * [Login](https://cloud.skytap.com/login " Login")
 * [](#searchwp-modal-652ea0d21b1427a1bfa685e40d9bc1de)
@@ -244,7 +244,7 @@ Skytap may utilize one or more subcontractors or other third parties to perform 
 * [About Us](https://www.skytap.com/about-us/ "About Us")
 * [Press Releases](https://www.skytap.com/press-releases/ "Press Releases")
 * [Partners](https://www.skytap.com/tech-partners/ "Partners")
-* [Careers](https://jobs.jobvite.com/skytap/ "Careers")
+* [Careers](https://www.kyndryl.com/careers "Careers")
 * [Legal](https://www.skytap.com/terms/ "Legal")
 * [Privacy Policy](https://www.skytap.com/terms/privacy-policy/ "Privacy Policy")
 
