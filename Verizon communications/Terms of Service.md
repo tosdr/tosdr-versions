@@ -42,13 +42,11 @@ Shop
     * [Free phones](https://www.verizon.com/shop/online/free-cell-phones/)
     * [My offers](https://myvpostpay.verizon.com/ui/hub/ao/myoffers#/)
     * [Smartphones](https://www.verizon.com/deals/smartphones/)
-    * [Fios Home Internet](https://www.verizon.com/home/internet/fios-fastest-internet/bundles/)
+    * [Verizon Home Internet](https://www.verizon.com/deals/home-internet/)
     * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
     * [Accessories](https://www.verizon.com/deals/products/)
     * [Refer a Friend](https://www.verizon.com/referafriend/)
     * [Refer a Friend](https://www.verizon.com/digital/nsa/secure/ui/raf/)
-    * [Verizon Up](https://www.verizon.com/featured/verizon-up/)
-    * [Verizon Up](https://www.verizon.com/digital/nsa/secure/ui/vzup/)
     * [Verizon Visa® Card](https://www.verizon.com/solutions-and-services/verizon-visa-card/?origin=gnavHeader)
     
 * [Devices](https://www.verizon.com/smartphones/) [Devices](javascript:void(0))
@@ -179,6 +177,10 @@ Shop
     * [Deals](https://www.verizon.com/deals/prepaid/)
     * [Why Verizon Prepaid](https://www.verizon.com/featured/prepaid/why-verizon/)
     
+* [myAccess](https://www.verizon.com/my-access-rewards/)
+    
+* [myAccess](https://www.verizon.com/digital/nsa/secure/ui/vzup/)
+    
 * [+play](https://www.verizon.com/plusplay/)
     
 * [+play](https://www.verizon.com/digital/nsa/secure/ui/products/ehub/home)
@@ -274,13 +276,13 @@ Close
 
 [Personal](https://www.verizon.com/) [Business](https://www.verizon.com/business/)
 
-Get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/). Or get iPhone 15 on us. Online Only. No trade-in req'd. Limited time offer. [Buy](https://www.verizon.com/smartphones/apple-iphone-15/)  |  [Details.](javascript:void(0);)
+Get up to $540 when you [bring your own phone](https://www.verizon.com/bring-your-own-device/). Or get iPhone 15 on us. Online only. No trade-in req'd. Limited time offer. [Buy](https://www.verizon.com/smartphones/apple-iphone-15/)  |  [Details.](javascript:void(0);)
 
   
   
-Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers. Limited time offer  
+Bring your own device: Receive up to $540 promo credit ($360 on postpaid Unlimited Plus or $540 on Unlimited Ultimate) when you add a new smartphone line with your own 4G/5G smartphone. Promo credit applied over 36 months; promo credits end if eligibility requirements are no longer met. Offer may not be combined with other offers. Limited time offer.  
   
-iPhone: $829.99 (128 GB only) device payment or full retail purchase w/new or upgrade smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $830 trade-in/promo credit applied over 36 mos.; promo credit ends if eligibility req's are no longer met; 0% APR. For upgrades, phone must be active on account for 60 days prior to trade in. Trade-in terms apply.
+iPhone: $829.99 (128 GB only) device payment or full retail purchase w/ new smartphone line on Unlimited Ultimate or postpaid Unlimited Plus (min. $80/mo w/Auto Pay (+taxes/fees) for 36 mos) plan req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR.
 
 end of navigation menu
 
