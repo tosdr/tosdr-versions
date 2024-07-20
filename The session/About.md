@@ -7,6 +7,12 @@
 [The Session](https://thesession.org/)
 ======================================
 
+> “Everyone needs an elixir of life.  
+> For the followers of traditional music it’s the session,  
+> that exciting event that pulls people together and binds them with an invisible force.”
+> 
+> — Charlie Lennon
+
 The exchange of [tunes](https://thesession.org/tunes) is what keeps traditional Irish music alive. This website is one way of passing on jigs, reels and other dance tunes. Some of the tunes are well known, and some are more obscure. It’s this mixture of the familiar and the new that makes for a good session.
 
 Acknowledegments
