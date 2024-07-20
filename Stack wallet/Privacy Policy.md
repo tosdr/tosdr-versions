@@ -1,19 +1,73 @@
 [![Stack Wallet logo](/img/stack-logo-full.svg)](https://stackwallet.com/index.html)
 
-* [Download](#)
-    * [Apple Store](https://apps.apple.com/us/app/stack-wallet-by-cypher-stack/id1634811534)
-    * [Google Play](https://play.google.com/store/apps/details?id=com.cypherstack.stackwallet)
-    * [Android APK](https://github.com/cypherstack/stack_wallet/releases/latest)
-    * [F-Droid](https://fdroid.stackwallet.com/)
-* [Support](https://stackwallet.com/support.html)
+* [Download Stack](#)
+    
+    Mobile devices
+    
+    * [Stack on App Store
+        
+        Get the mobile app for your iPhone or iPad.](https://apps.apple.com/us/app/stack-wallet-by-cypher-stack/id1634811534)
+    * [Stack on Google Play
+        
+        Stack Wallet is available on Google Play for Android smartphones.](https://play.google.com/store/apps/details?id=com.cypherstack.stackwallet)
+    * [Stack on Android APK
+        
+        For advanced users, Stack Wallet is available on Android APK.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    * [![fdroid icon](/img/fdroid-sys.png)
+        
+        Stack on F-Droid
+        
+        Download Stack from  
+        F-Droid.](https://fdroid.stackwallet.com/)
+    
+    Desktop devices
+    
+    * [Stack on Windows
+        
+        Stack Wallet is available on Windows.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    * [Stack on macOS
+        
+        Download Stack Wallet on macOS.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    * [Stack on Linux
+        
+        Start using Stack Wallet on Linux.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    
+* [Features](https://stackwallet.com/index.html#features)
+* [Support](https://stackwallet.com/index.html#support)
 * [Donate](https://stackwallet.com/donate.html)
 * [Blog](https://stackwallet.com/blog/index.html)
 
 [![Stack Wallet logo](/img/stack-logo-full.svg)](https://stackwallet.com/index.html) 
 
-* [Support](https://stackwallet.com/support.html)
+* [ ]  Download Stack for mobile
+    * [Stack on App Store
+        
+        Get the mobile app for your iPhone or iPad.](https://apps.apple.com/us/app/stack-wallet-by-cypher-stack/id1634811534)
+    * [![fdroid icon](/img/google-sys.png)
+        
+        Stack on Google Play
+        
+        Stack Wallet is available on Google Play for Android smartphones.](https://play.google.com/store/apps/details?id=com.cypherstack.stackwallet)
+    * [Stack on Android APK
+        
+        For advanced users, Stack Wallet is available on Android APK.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    * [![fdroid icon](/img/fdroid-sys.png)
+        
+        Stack on F-Droid
+        
+        Download Stack from F-Droid.](https://fdroid.stackwallet.com/)
+* [ ]  Download Stack for desktop
+    * [Stack on Windows
+        
+        Stack Wallet is available on Windows.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    * [Stack on macOS
+        
+        Download Stack Wallet on macOS.](https://github.com/cypherstack/stack_wallet/releases/latest)
+    * [Stack on Linux
+        
+        Start using Stack Wallet on Linux.](https://github.com/cypherstack/stack_wallet/releases/latest)
+* [Support](https://stackwallet.com/index.html#support)
 * [Donate](https://stackwallet.com/donate.html)
-* [Blog](https://stackwallet.com/blog/index.html)
 
 Privacy Policy
 ==============
