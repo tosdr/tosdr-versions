@@ -575,13 +575,13 @@ Unsere Top-Angebote für jeden, der viel und gerne online kommuniziert!
   
 Bei [WEB.DE Homepage & Mail](https://produkte.web.de/homepage-mail/) stehen Ihnen unterschiedliche Produkte zur Verfügung. Sie können sich eine Domain-Adresse sichern, E-Mail-Adressen anlegen oder mit dem Homepage-Baukasten im Handumdrehen Ihre eigene Homepage erstellen – ganz ohne Programmierkenntnisse.  
   
-Sie benötigen keine Webseite, aber trotzdem unbegrenzten Speicherplatz und Premium-Funktionen für Ihre E-Mails? Dann ist wahrscheinlich der [WEB.DE Club](https://produkte.web.de/club/) schon längst Mittelpunkt Ihrer Online-Kommunikation. Der Tarif WEB.DE Club ist eine Erweiterung des WEB.DE FreeMail-Postfachs. Informationen zu WEB.DE FreeMail finden Sie [hier](https://web.de/datenschutz/freemail).  
-Und mit unseren [Unified Messaging Diensten](https://produkte.web.de/webde_sms/) bleiben Sie mit Ihren Kontakten auch in Verbindung, wenn es mal schnell gehen muss. Wollen Sie Grußkarten in Farbe verschicken, dann sind Sie bestimmt schon stolzer [WEB.DE Grußkarten](https://grusskarten.web.de/) Kunde. Deutscher Datenschutz ist hierbei selbstverständlich.  
+Sie benötigen keine Webseite, aber trotzdem unbegrenzten Speicherplatz und Premium-Funktionen für Ihre E-Mails? Dann ist wahrscheinlich der [WEB.DE Premium](https://produkte.web.de/club/) schon längst Mittelpunkt Ihrer Online-Kommunikation. Der Tarif WEB.DE Premium ist eine Erweiterung des WEB.DE FreeMail-Postfachs. Informationen zu WEB.DE FreeMail finden Sie [hier](https://web.de/datenschutz/freemail).  
+Und mit unseren [Unified Messaging Diensten](https://produkte.web.de/webde_sms/) bleiben Sie mit Ihren Kontakten auch in Verbindung, wenn es mal schnell gehen muss.   
   
 Die Daten, die wir im Zusammenhang mit unseren "Kommunikationspaketen" erheben, benötigen wir zur **Vertragserfüllung** – das bedeutet, um Ihnen den jeweiligen Dienst zu ermöglichen, abzurechnen und die Funktionen bereitzustellen. Rechtsgrundlage dieser Datenverarbeitung ist Art. 6 Abs. 1 b DSGVO.
 
 **4.3.2. Kategorien und Herkunft personenbezogener Daten**  
-Ihre **Bestandsdaten** – z. B. Ihren Namen und Ihre Adresse – haben Sie uns beim Vertragsabschluss mitgeteilt. Bei WEB.DE Club, Mail Domain & Hosting, den Grußkarten, sowie den Unified Messaging Diensten können wir ggf. auch auf die Bestandsdaten zurückgreifen, die Sie zuvor bei der [FreeMail-Registrierung](https://agb-server.web.de/datenschutz/#datenschutz_freemail) angegeben haben, mit Ihrer Erlaubnis natürlich.  
+Ihre **Bestandsdaten** – z. B. Ihren Namen und Ihre Adresse – haben Sie uns beim Vertragsabschluss mitgeteilt. Bei WEB.DE Premium, Mail Domain & Hosting, sowie den Unified Messaging Diensten können wir ggf. auch auf die Bestandsdaten zurückgreifen, die Sie zuvor bei der [FreeMail-Registrierung](https://agb-server.web.de/datenschutz/#datenschutz_freemail) angegeben haben, mit Ihrer Erlaubnis natürlich.  
   
 **Inhaltsdaten** sind die Inhalte, die Sie als Nutzer aktiv erstellen oder verwenden, zum Beispiel E-Mails, die Sie geschrieben haben. Diese Informationen speichern wir in Ihrem Postfach ab, damit sie Ihnen zur Nutzung zur Verfügung stehen. Die E-Mail-Inhalte sind rechtlich vor Fremdzugriff geschützt und unterliegen beispielsweise während des Kommunikationsvorgangs dem Fernmeldegeheimnis.  
   
@@ -643,12 +643,7 @@ Wenn unser Kunde zur Erstellung der Webseite den WEB.DE WebBaukasten verwendet, 
   
 **SSL-Zertifikate**  
 Bei der Beschaffung und/oder Pflege von SSL-Zertifikaten wird die 1&1 Mail & Media GmbH im Verhältnis zwischen dem Kunden und dem jeweiligen Zertifikatsaussteller lediglich als Vermittler tätig und reicht zur Zertifikatsausstellung Bestandsdaten des jeweiligen Kunden an DigiCert weiter.  
-  
-Damit wir Ihnen unsere WEB.DE Grußkarten anbieten können arbeiten wir erfolgreich mit unserem Dienstleister AKRA zusammen.  
-  
-AKRA GmbH  
-Domstraße 17  
-20095 Hamburg
+ 
 
 **4.3.5 Für die Erstellung der Online-Fotoprodukte bieten wir Ihnen den Foto-Druckservice von CEWE an.**  
 CEWE Stiftung & Co. KgaA  
