@@ -42,8 +42,10 @@ Menu
     * [Navigating Transitions](https://www.viacharacter.org/courses/navigating-transitions)
     * [Character Strengths At Work](https://www.viacharacter.org/courses/character-strengths-at-work)
     * [Character Strengths Interventions](https://www.viacharacter.org/courses/character-strengths-interventions)
-    * Programs ▾
-    * [Thriving Learning Communities](https://www.viacharacter.org/programs/thriving-learning-communities)
+    * For Workplaces ▾
+    * [Strength-Based Workplaces](https://www.viacharacter.org/strength-based-workplaces)
+    * For Educators ▾
+    * [Strengths-Based Education at VIA](https://www.viacharacter.org/programs/thriving-learning-communities)
     
 * [Wellbeing Insights](https://www.viacharacter.org/topics)
     
