@@ -305,6 +305,6 @@ Online Classifieds AG
 
 [](https://www.instagram.com/thepureapp_ru/)[](https://www.tiktok.com/@puredatingapp)[](https://twitter.com/thepureappru)[\[email protected\]](https://pure.app/cdn-cgi/l/email-protection)
 
-[Правила Пьюр-коммьюнити](https://pure.app/content/ru/guidelines)[Безопасность](https://pure.app/content/ru/security)[Условия и положения](https://pure.app/content/ru/terms)[Политика использования файлов cookie](https://pure.app/content/ru/legal/cookies)[Политика конфиденциальности](https://pure.app/content/ru/privacy)[FAQ](https://pure.app/content/ru/faq)[Связаться с нами](https://pure.app/content/ru/contact-us)
+[Правила Пьюр-коммьюнити](https://pure.app/content/ru/guidelines)[Безопасность](https://pure.app/content/ru/security)[Условия и положения](https://pure.app/content/ru/terms)[Политика использования файлов cookie](https://pure.app/content/ru/legal/cookies)[Политика конфиденциальности](https://pure.app/content/ru/privacy)[FAQ](https://pure.app/content/ru/faq)[Политика конфиденциальности данных о здоровье потребителей](https://pure.app/content/ru/legal/consumer-health-data-privacy-policy)[Связаться с нами](https://pure.app/content/ru/contact-us)
 
 © 2024 PURE. Online Classifieds AG, Switzerland
