@@ -1,6 +1,6 @@
 * [Home](http://www.private-eye.co.uk/)
     
-    [Issue 1625](https://www.private-eye.co.uk/) [1624](https://www.private-eye.co.uk/issue-1624) [1623](https://www.private-eye.co.uk/issue-1623)
+    [Issue 1628](https://www.private-eye.co.uk/) [1627](https://www.private-eye.co.uk/issue-1627) [1626](https://www.private-eye.co.uk/issue-1626)
 * [Subscribe](http://www.subsonline.co.uk/)
     
     [Log-In](https://account.private-eye.co.uk/) [Renew](https://checkout.private-eye.co.uk/renewal/login?item=PEY) [Open Account](https://account.private-eye.co.uk/) [Subscribe](http://www.subsonline.co.uk/) [Gift Subscriptions](http://www.subsonline.co.uk/)
@@ -71,8 +71,8 @@
 [Home](http://www.private-eye.co.uk/) [Subscribe](https://checkout.private-eye.co.uk/singleitem?item=PEY&prom=W37AAPEA) [Shop](http://www.private-eye.co.uk/shop) [Current Issue](http://www.private-eye.co.uk/current-issue) [Books](http://www.private-eye.co.uk/books) [Covers](http://www.private-eye.co.uk/covers) [Extras](http://www.private-eye.co.uk/extras) [About](http://www.private-eye.co.uk/about)
 
 * [Home](https://www.private-eye.co.uk/)
-    * [Issue 1624](https://www.private-eye.co.uk/issue-1624)
-    * [Issue 1623](https://www.private-eye.co.uk/issue-1623)
+    * [Issue 1627](https://www.private-eye.co.uk/issue-1627)
+    * [Issue 1626](https://www.private-eye.co.uk/issue-1626)
 * [Subscribe](http://www.subsonline.co.uk/)
     * [Subscribe](http://www.subsonline.co.uk/)
     * [Log-In](https://account.private-eye.co.uk/)
@@ -359,58 +359,58 @@ However, the GDPR and the DPA contain an exemption which allows us not to apply 
 
 MORE TOP STORIES ONLINE
 
-[![Closing act  ](https://www.private-eye.co.uk/pictures/hp_sauce/small/nadhim-zahawi-2.jpg)](http://www.private-eye.co.uk/issue-1624/hp-sauce)
+[![American psyche ](https://www.private-eye.co.uk/pictures/news/small/trump-shooting.jpg)](http://www.private-eye.co.uk/news)
 
-[Closing act](http://www.private-eye.co.uk/issue-1624/hp-sauce)  
-Nadhim Zahawi's theatrical exit
+[American psyche](http://www.private-eye.co.uk/news)  
+The blame game over Trump shooting
 
-HP Sauce, Issue 1624
+News, Issue 1628
 
-[![Social climbers ](https://www.private-eye.co.uk/pictures/news/small/tiktok.jpg)](http://www.private-eye.co.uk/news)
+[![Farm hands ](https://www.private-eye.co.uk/pictures/street_of_shame/small/clarkson.jpg)](http://www.private-eye.co.uk/issue-1627/street-of-shame)
 
-[Social climbers](http://www.private-eye.co.uk/news)  
-The major parties woo younger voters
+[Farm hands](http://www.private-eye.co.uk/issue-1627/street-of-shame)  
+The Sunday Times helps its own
 
-News, Issue 1625
+Street Of Shame, Issue 1627
 
-[![Praise the Lord!  ](https://www.private-eye.co.uk/pictures/street_of_shame/small/doctor-who.jpg)](http://www.private-eye.co.uk/issue-1624/street-of-shame)
+[![Bench press](https://www.private-eye.co.uk/pictures/hp_sauce/small/jo-white.jpg)](http://www.private-eye.co.uk/hp-sauce)
 
-[Praise the Lord!](http://www.private-eye.co.uk/issue-1624/street-of-shame)  
-How the Mail is trolling Doctor Who's showrunner
+[Bench press](http://www.private-eye.co.uk/hp-sauce)  
+Labour's ones to watch
 
-Street Of Shame, Issue 1624
+HP Sauce, Issue 1628
 
 ALSO IN THIS ISSUE
 
-[![Lookalikes](https://www.private-eye.co.uk/pictures/lookalikes/thumb/thumb.gif)](https://www.private-eye.co.uk/lookalikes) [Lookalikes](https://www.private-eye.co.uk/lookalikes)  
-[Are they related?](https://www.private-eye.co.uk/lookalikes)  
-[more »](https://www.private-eye.co.uk/lookalikes)
+[![In The Back](https://www.private-eye.co.uk/pictures/in_the_back/thumb/thumb.gif)](https://www.private-eye.co.uk/in-the-back) [In The Back](https://www.private-eye.co.uk/in-the-back)  
+[The latest stories](https://www.private-eye.co.uk/in-the-back)  
+[more »](https://www.private-eye.co.uk/in-the-back)
 
-[![Strips](https://www.private-eye.co.uk/pictures/strips/fashionistas/thumb/thumb.gif)](https://www.private-eye.co.uk/cartoons) [Strips](https://www.private-eye.co.uk/cartoons)  
-[Fashionistas](https://www.private-eye.co.uk/cartoons)  
-[more »](https://www.private-eye.co.uk/cartoons)
+[![Number](https://www.private-eye.co.uk/pictures/number_crunching/thumb/thumb.gif)](https://www.private-eye.co.uk/number-crunching) [Number](https://www.private-eye.co.uk/number-crunching)  
+[Crunching](https://www.private-eye.co.uk/number-crunching)  
+[more »](https://www.private-eye.co.uk/number-crunching)
 
-[![News](https://www.private-eye.co.uk/pictures/news/thumb/thumb.gif)](https://www.private-eye.co.uk/news) [News](https://www.private-eye.co.uk/news)  
-[Top Stories](https://www.private-eye.co.uk/news)  
-[more »](https://www.private-eye.co.uk/news)
+[![Crossword](https://www.private-eye.co.uk/pictures/crossword/thumb/thumb.gif)](https://www.private-eye.co.uk/crossword) [Crossword](https://www.private-eye.co.uk/crossword)  
+[Win a cash prize](https://www.private-eye.co.uk/crossword)  
+[more »](https://www.private-eye.co.uk/crossword)
 
 ONLY IN THE MAGAZINE
 
-[![Private Eye Issue 1625](https://www.private-eye.co.uk/pictures/covers/full/1625_big.jpg)](http://www.subsonline.co.uk/)
+[![Private Eye Issue 1628](https://www.private-eye.co.uk/pictures/covers/full/1628_big.jpg)](http://www.subsonline.co.uk/)
 
 In This Issue
 
-That all-purpose letter of resignation from a sinking ship… Blond liar who should be in jail defends blond liar who's heading for jail… Israel rejects Israel peace plan… TV highlights: Ms Vennells versus the Post Office… The Conversion of Saint Paula… Public desperate for election already sick of the election… A list of things you should boycott because they involve fossil fuels… Cleo Watson: general erection!, as told to Craig Brown.
+Election Night TV: What you missed… Liz Truss writes exclusively on why the Tories lost the election… Rats in sack disagree over best way forward… Why can't Labour just admit it lost the election, by Owen Jones… Those amusing notes left on the desk by outgoing Conservative ministers to welcome their Labour replacements, in full… Conspiracy update: Trump assassination attempt special… Gnomemart sale: Armchair conspiracy theorist armchair … Great speeches of our time No 94: Ex-president Trump on Nato… Giles Brandreth: my 9 secrets of happiness, as told to Craig Brown.
 
   
-[![](https://www.private-eye.co.uk/pictures/plus/gove.png)](http://www.subsonline.co.uk/) Taking a flyer  
-Yes, it's another onslaught of campaign leaflets…  
+[![](https://www.private-eye.co.uk/pictures/plus/hackwatch.png)](http://www.subsonline.co.uk/) Letby lessons  
+MD reviews the evidence on medical experts and fair trials  
   
-Mind the gap  
-How the Sun offered Rupert Murdoch helpful tips  
+Holy Ghosting  
+Seven years and counting for CofE review on sadist Smyth  
   
-Tears of a clown  
-Paula Vennells' Post Office inquiry appearance in depth
+Starmersexuality!  
+Fleet Street's finest get hot under the collar
 
   
 [Read these stories and much more - only in the magazine. Subscribe here to get delivery direct to your home and never miss an issue!](http://www.subsonline.co.uk/)
@@ -418,17 +418,17 @@ Paula Vennells' Post Office inquiry appearance in depth
  [![](https://www.private-eye.co.uk/grfx/stuff/gnitty-subs.png)](http://www.subsonline.co.uk/)[ONLY £2.99](http://www.subsonline.co.uk/)  
 [SUBSCRIBE HERE](http://www.subsonline.co.uk/)  
 NEXT ISSUE ON SALE  
-19th June 2024
+1st August 2024
 
 WHY SUBSCRIBE?
 
-[![Private Eye Issue 1624](https://www.private-eye.co.uk/pictures/covers/full/1624_big.jpg)](http://www.subsonline.co.uk/) 
+[![Private Eye Issue 1627](https://www.private-eye.co.uk/pictures/covers/full/1627_big.jpg)](http://www.subsonline.co.uk/) 
 
-[![](https://www.private-eye.co.uk/pictures/covers/full/1625_big.jpg)](https://www.private-eye.co.uk/current-issue)
+[![](https://www.private-eye.co.uk/pictures/covers/full/1628_big.jpg)](https://www.private-eye.co.uk/current-issue)
 
-VIEWING ISSUE 1625
+VIEWING ISSUE 1628
 
-[ISSUE 1624](https://www.private-eye.co.uk/issue-1624) [ISSUE 1623](https://www.private-eye.co.uk/issue-1623)
+[ISSUE 1627](https://www.private-eye.co.uk/issue-1627) [ISSUE 1626](https://www.private-eye.co.uk/issue-1626)
 
 [SUBSCRIBE](http://www.subsonline.co.uk/) [GIFT SUBSCRIPTIONS](http://www.subsonline.co.uk/)
 
@@ -436,28 +436,28 @@ VIEWING ISSUE 1625
 
 [![](https://www.private-eye.co.uk/pictures/adverts/mpu/overseas.png)](http://www.subsonline.co.uk/) 
 
-MORE FROM PRIVATE EYE
+ALSO AVAILABLE ONLINE
 
-[![](https://www.private-eye.co.uk/pictures/boxes/page-94.png)](https://www.private-eye.co.uk/podcast)[Page 94 Podcast](https://www.private-eye.co.uk/podcast)
+[![](https://www.private-eye.co.uk/pictures/boxes/covid-casebook.png)](https://www.private-eye.co.uk/books/dr-hammonds-covid-casebook)[Books](https://www.private-eye.co.uk/books/dr-hammonds-covid-casebook)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/paul-foot.png)](http://www.private-eye.co.uk/paul-foot-award)[Paul Foot Award](http://www.private-eye.co.uk/paul-foot-award)
+[![](https://www.private-eye.co.uk/pictures/boxes/covers.png)](https://www.private-eye.co.uk/covers)[Covers Library](https://www.private-eye.co.uk/covers)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/subscriptions.png)](http://www.subsonline.co.uk/)[Subscriptions](http://www.subsonline.co.uk/)
+[![](https://www.private-eye.co.uk/pictures/boxes/60-yearbook.png)](https://www.private-eye.co.uk/books/the-60-yearbook)[The 60 Yearbook](https://www.private-eye.co.uk/books/the-60-yearbook)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/gift.png)](http://www.subsonline.co.uk/)[Gift Subscriptions](http://www.subsonline.co.uk/)
+[![](https://www.private-eye.co.uk/pictures/boxes/eyeplayer.png)](https://www.private-eye.co.uk/eyeplayer)[EyePlayer](https://www.private-eye.co.uk/eyeplayer)
 
   
   
 
 [SPECIAL REPORTS](http://www.private-eye.co.uk/special-reports)
 
-[![The Queen And The Eye](https://www.private-eye.co.uk/pictures/special_reports/v-queen-covers.jpg)](https://www.private-eye.co.uk/special-reports/queen-covers) [The Queen And The Eye](https://www.private-eye.co.uk/special-reports/queen-covers)
-
-[![Lockerbie - The Flight From Justice](https://www.private-eye.co.uk/pictures/special_reports/v-lockerbie.jpg)](https://www.private-eye.co.uk/special-reports/lockerbie) [Lockerbie - The Flight From Justice](https://www.private-eye.co.uk/special-reports/lockerbie)
-
 [![Profits Of Doom](https://www.private-eye.co.uk/pictures/special_reports/v-profits-of-doom.jpg)](https://www.private-eye.co.uk/special-reports/profits-of-doom) [Profits Of Doom](https://www.private-eye.co.uk/special-reports/profits-of-doom)
 
-[![Justice Lost In The Post](https://www.private-eye.co.uk/pictures/special_reports/v-justice-lost-in-the-post.jpg)](https://www.private-eye.co.uk/special-reports/justice-lost-in-the-post) [Justice Lost In The Post](https://www.private-eye.co.uk/special-reports/justice-lost-in-the-post)
+[![Tax Havens](https://www.private-eye.co.uk/pictures/special_reports/v-tax-havens.jpg)](https://www.private-eye.co.uk/special-reports/tax-havens) [Tax Havens](https://www.private-eye.co.uk/special-reports/tax-havens)
+
+[![Shoot The Messenger](https://www.private-eye.co.uk/pictures/special_reports/v-shoot-the-messenger.jpg)](https://www.private-eye.co.uk/special-reports/shoot-the-messenger) [Shoot The Messenger](https://www.private-eye.co.uk/special-reports/shoot-the-messenger)
+
+[![London's Closed Courts](https://www.private-eye.co.uk/pictures/special_reports/v-closed-courts.jpg)](https://www.private-eye.co.uk/special-reports/londons-closed-courts) [London's Closed Courts](https://www.private-eye.co.uk/special-reports/londons-closed-courts)
 
 [![gnitty](https://www.private-eye.co.uk/grfx/logos/gnitty-footer.png)](http://www.private-eye.co.uk/contact)
 
