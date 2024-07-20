@@ -109,6 +109,8 @@ QuickLinks
 * [Copyright at UBC](http://copyright.ubc.ca/ "Copyright at UBC")
 * [Information Systems Policy (SC14)](https://universitycounsel.ubc.ca/policies/information-systems-policy/)
 
+We acknowledge that UBC’s two main campuses are situated within the ancestral and unceded territory of the Musqueam people, and in the traditional, ancestral, unceded territory of the Syilx Okanagan Nation and their peoples.
+
 **Vancouver Campus**
 
 2329 West Mall
