@@ -1,8 +1,7 @@
 [Skip to main content](#page-content)
 
-* [**BOGO 50% off select skin care and sun care**](https://www.walgreens.com/store/store/family_products.jsp?pluCode=4290&ban=dl_dl_Nav_06162024_BOG050suncare)
-* [**Extra 15% off $40+ select beauty & personal care with PRIDE15**](https://www.walgreens.com/topic/promotion/beauty-personal-care-deals.jsp?ban=dl_dl_Nav_06162024_BPCTierSale)
-* [**Up to 60% off clearance**](https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=dl_dl_Nav_06162024_Clearance)
+* [**Extra 20% off $40+ select beauty & personal care: HAUL20**](https://www.walgreens.com/topic/promotion/beauty-personal-care-deals.jsp?ban=dl_dl_Nav_07142024_BPCTierSale_HAUL20)
+* [**Up to 60% off clearance**](https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=dl_dl_Nav_07142024_Clearance)
 
 [![Walgreens: Trusted since 1901](/images/adaptive/livestyleguide/v5/icons/Branding.svg)](https://www.walgreens.com/)
 
@@ -99,7 +98,7 @@
     * [Back](javascript:void(0);)
     * Shop Products
     * [Allergy & Sinus](https://www.walgreens.com/store/c/allergy-and-sinus/ID=20003545-tier1)
-    * [Patriotic](https://www.walgreens.com/store/c/patriotic/ID=20005018-tier1)
+    * [Back to School](https://www.walgreens.com/store/c/back-to-school/ID=20000750-tier1)
     * [Summer Favorites](https://www.walgreens.com/store/c/summer-favorites/ID=20001875-tier1)
     * [Walgreens Brand](https://www.walgreens.com/store/c/walgreens-brand/ID=359461-tier1)
     * [Beauty](https://www.walgreens.com/store/c/beauty/ID=359434-tier1)
@@ -294,13 +293,17 @@ The Privacy Policy covers the type of data we collect and how we use it, as well
 
 [Information for California Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforCaliforniaConsumers)
 
-[Information for Virginia Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforVirginiaConsumers)
-
 [Information for Colorado Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InfoForColoradoConsumers)
 
 [Information for Connecticut Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationForConnecticutConsumers)
 
+[Information for Oregon Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforOregonConsumers)
+
+[Information for Texas Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforTexasConsumers)
+
 [Information for Utah Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforUtahConsumers)
+
+[Information for Virginia Consumers](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#InformationforVirginiaConsumers)
 
 [How To Contact Us](https://www.walgreens.com/topic/help/generalhelp/privacyandsecurity.jsp?foot=security#HowToContactUs)
 
@@ -308,9 +311,9 @@ The Privacy Policy covers the type of data we collect and how we use it, as well
 
 **Walgreens Privacy & Security Policy**
 
-Last Updated: December 29, 2023
+Last Updated: July 1, 2024
 
-This Privacy Policy lets you know how we collect, use, share, and protect information about you. By interacting with Walgreens through our stores, websites, mobile applications, and any other Walgreens affiliate websites where you may interact with Walgreens, you consent to the practices described in this Privacy Policy. Any changes in our Privacy Policy will appear on this page so that you are aware of the data we collect and how we use it. We will notify you of material changes to this Privacy Policy by posting on our websites notification that the Privacy Policy has been revised and by updating the effective date of the Privacy Policy. For California, Colorado, Connecticut, Virginia, and Utah residents, there is an ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Virginia Consumers"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers"](#InformationforUtahConsumers) section in this Privacy Policy.
+This Privacy Policy lets you know how we collect, use, share, and protect information about you. By interacting with Walgreens through our stores, websites, mobile applications, and any other Walgreens affiliate websites where you may interact with Walgreens, you consent to the practices described in this Privacy Policy. Any changes in our Privacy Policy will appear on this page so that you are aware of the data we collect and how we use it. We will notify you of material changes to this Privacy Policy by posting on our websites notification that the Privacy Policy has been revised and by updating the effective date of the Privacy Policy. For California, Colorado, Connecticut, Oregon, Texas, Virginia, and Utah residents, there is an ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Oregon Consumers"](#InformationforOregonConsumers), ["Information for Texas Consumers"](#InformationforTexasConsumers), ["Information for Virginia Consumers"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers"](#InformationforUtahConsumers) section in this Privacy Policy.
 
 In some circumstances, Walgreens' use of your information will be subject to the requirements of the Health Insurance Portability and Accountability Act (commonly known as "HIPAA"). For example, if you log in to your pharmacy account and submit information regarding a prescription order, that information is subject to HIPAA's requirements. In those circumstances, the Walgreens [Notice of Privacy Practices](https://www.walgreens.com/topic/help/general/noticeprivacypractices.jsp) and not this Privacy Policy will apply. If you have questions about which policy applies to the information you have submitted, please do not hesitate to [Contact Us.](mailto:privacy.office@walgreens.com)
 
@@ -338,7 +341,7 @@ We want you to understand how information you provide to us is collected and use
 **Identifiers:** such as name, address, telephone number, email address, age, date of birth, username and password for our websites, online identifiers, IP address.  
 **Commercial information:** such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies, payment information, health and medical information, health insurance information, loyalty program participation information.  
 **Inferences:** such as consumer preferences, characteristics, predispositions, and behavior.  
-**Biometric Information:** such as facial scans for safety and security purposes.
+**Biometric Information:** such as facial scans for safety, security, and product feature purposes.
 
 **Device Information**
 
@@ -352,7 +355,7 @@ We want you to understand how information you provide to us is collected and use
 **Precise Location Information**
 
 * When you use our services on your mobile phone or device and enable location services on your mobile phone or device browser, we may collect information about your physical location through satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols ("precise location information"). If you use our mobile application, your device may share precise location information when you enable location services for our application. To learn how to opt-out of sharing your precise location information with Walgreens, go to the ["Your Choices"](#YourChoices) section of this Privacy Policy. When you use our mobile application, we may also request access to your Bluetooth signal from your device. If you enable our mobile application to use your Bluetooth signal, we may be able to determine your device's in-store location. To learn how to opt-out of sharing your device's Bluetooth signal with Walgreens, go to the ["Your Choices"](#YourChoices) section of this Privacy Policy.
-* We may also collect certain precise location information that may be considered "precise geolocation" under state law. Please see the ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Virginia Consumers"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers"](#InformationforUtahConsumers) sections for additional information on precise geolocation.
+* We may also collect certain precise location information that may be considered "precise geolocation" under state law. Please see the ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Oregon Consumers"](#InformationforOregonConsumers), ["Information for Texas Consumers"](#InformationforTexasConsumers), ["Information for Virginia Consumers"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers"](#InformationforUtahConsumers) sections for additional information on precise geolocation.
 
 **Cameras**
 
@@ -418,7 +421,7 @@ Our primary purpose in collecting information is to provide you with a safe, smo
 
 **How We Share Your Information:**
 
-We do not directly sell, rent, or loan your personally identifiable information, except as described in the ‘When We Work On Business Transactions’ paragraph below. We may share your information with companies, organizations and individuals outside of Walgreens as described below. Please note that certain state laws have adopted a broad definition of a "sale" or "share" and may treat certain of these disclosures as sales or sharing under their definitions. Please see the ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Virginia Consumers"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers"](#InformationforUtahConsumers) sections for additional information.
+We do not directly sell, rent, or loan your personally identifiable information, except as described in the ‘When We Work On Business Transactions’ paragraph below. We may share your information with companies, organizations and individuals outside of Walgreens as described below. Please note that certain state laws have adopted a broad definition of a "sale" or "share" and may treat certain of these disclosures as sales or sharing under their definitions. Please see the ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Oregon Consumers"](#InformationforOregonConsumers), ["Information for Texas Consumers"](#InformationforTexasConsumers), ["Information for Virginia Consumers"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers"](#InformationforUtahConsumers) sections for additional information.
 
 **Internally**
 
@@ -433,7 +436,7 @@ We do not directly sell, rent, or loan your personally identifiable information,
 * We contract with partner companies to allow Walgreens customers to access one of their loyalty program accounts from those partners' websites and/or mobile applications. This may include the ability to join a loyalty program, add an existing membership, and/or access your account balance.
 * If you participate in a loyalty program component which permits you to connect your loyalty program accounts with websites, application and devices, including non-Walgreens partners and their websites, application and devices. Notwithstanding the uses and disclosures set forth above, Walgreens may use or disclose personally identifiable information gathered under one of its loyalty programs for improving health, health research, or with your consent.
 * Social Media: Our online services may use social media plugins (e.g., the Facebook "Like" button, "Share to Twitter" button) to enable you to easily interact with certain social media websites (e.g., Facebook, Twitter, Instagram) and share information with others. When you visit our services, the operators of the available social media plugins can place a cookie on your device enabling such operators to recognize individuals who have previously visited our services. If you are logged in to these social media websites while visiting our services, the social media plugins allow the relevant social media websites to receive information that you have visited our services or other information. The social media plugins also allow the applicable social media websites to share information about your activities on our services with other users of the social media website. We do not control any of the content from the social media plugins. We may also interact with you on social media platforms. If you contact us on one of our social media platforms, request services, or otherwise communicate directly with us on social media, we may contact you to interact with you. For more information about social media advertising and social media plugins from other social media websites, please refer to those websites' privacy and data sharing statements.
-* We may share your information with business partners who may offer services or products to you. For example, in connection with the myWalgreens credit card, we share some information with our partner so it can prescreen individuals to see if they qualify for offers. You can learn about your rights relating to prescreened offers including how to opt out by calling 1-888-567-8688 or by going to [https://www.optoutprescreen.com/.](https://www.optoutprescreen.com/) Certain state laws may also allow consumers the ability to opt out of processing activities that may be considered "profiling" under state law, such as prescreened credit card offers. Please see the ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers) and ["Information for Virginia Consumers"](#InformationforVirginiaConsumers) for additional information.
+* We may share your information with business partners who may offer services or products to you. For example, in connection with the myWalgreens credit card, we share some information with our partner so it can prescreen individuals to see if they qualify for offers. You can learn about your rights relating to prescreened offers including how to opt out by calling 1-888-567-8688 or by going to [https://www.optoutprescreen.com/.](https://www.optoutprescreen.com/) Certain state laws may also allow consumers the ability to opt out of processing activities that may be considered "profiling" under state law, such as prescreened credit card offers. Please see the ["Information for California Consumers"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers"](#InformationForConnecticutConsumers), ["Information for Oregon Consumers"](#InformationforOregonConsumers), ["Information for Texas Consumers"](#InformationforTexasConsumers) and ["Information for Virginia Consumers"](#InformationforVirginiaConsumers) sections for additional information.
 
 **When Sharing is Required by Law or Helps Us Protect Our Interests**
 
@@ -450,6 +453,14 @@ We do not directly sell, rent, or loan your personally identifiable information,
 **With Your Consent**
 
 * At your direction or request, or when you otherwise consent, we may share your information.
+
+* * *
+
+**How Long We Retain Information**
+
+We retain your information for the business and commercial purposes described in the ["How We Use Your Information"](#HowWeUseYourInformation) section. Retention of your information may also be required to provide products and services you requested, to maintain our business relationship with you, or for us to fulfill a legal obligation. Once no longer needed for these purposes, we will not retain your information in our systems.
+
+Biometric Destruction Schedule: We permanently destroy your biometric information when the first of the following occurs: (i) the initial purpose for collecting or obtaining such biometric information has been satisfied; or (ii) within three (3) years of your last interaction with us.
 
 * * *
 
@@ -523,7 +534,7 @@ If you are a California resident, we are required to provide additional informat
 * **Geolocation information:** including location data and precise location data such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols, when you are in or near a Walgreens store;
 * **Audio, visual, or similar information:** such as photographs you share, store security video, customer service audio recordings;
 * **Inferences drawn from the above categories of CA Personal Information:** such as consumer preferences, characteristics, predispositions, and behavior; and
-* **Sensitive Personal Information:** such as driver's license, state identification card, or passport number, precise geolocation (within a radius of 1,850 feet), information on racial or ethnic origin, and information concerning your health.
+* **Sensitive Personal Information:** such as driver's license, state identification card, or passport number, precise geolocation (within a radius of 1,850 feet), information on racial or ethnic origin, username and password for our websites, and information concerning your health.
 
 * **Sources.** We may collect certain categories of CA Personal Information from you and third parties as described in the ["Information We Collect"](#InformationWeCollect) section above. The categories of sources from which we collected CA Personal Information in the 12 months prior to the date of this Privacy Policy include the following:
 
@@ -554,7 +565,7 @@ We will continue to collect CA Personal Information from these same sources.
 * **Geolocation information:** including location data and precise location data, such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols. If you use our mobile application, your device may share location information when you enable location services. We may be able to recognize the location of a mobile device in stores through use of Bluetooth technology;
 * **Audio, visual, or similar information:** such as photographs you share, store security video, customer service audio recordings;
 * **Inferences drawn from the above categories of CA Personal Information:** such as consumer preferences, characteristics, predispositions, and behavior; and
-* **Sensitive Personal Information:** such as driver's license, state identification card, or passport number, precise geolocation (within a radius of 1,850 feet), information on racial or ethnic origin, and information concerning your health.
+* **Sensitive Personal Information:** such as driver's license, state identification card, or passport number, precise geolocation (within a radius of 1,850 feet), information on racial or ethnic origin, username and password for our websites,and information concerning your health.
 
 As described above, examples of business purposes include product and service fulfillment, internal operations, prevention of fraud and other harm, and legal compliance.
 
@@ -611,7 +622,7 @@ You also have the right to request correction or deletion of your CA Personal In
 
 * **Responding to Requests.** For requests for access, correction, deletion, or appeal, we will first acknowledge receipt of your request within 10 business days of receipt of your request. We provide a substantive response to your request as soon as we can, generally within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.  
       
-    For requests to opt out of the sale or sharing or to opt out of automated processing ("profiling") of your CA Personal Information or request to limit the use and disclosure of your Sensitive Personal Information, we will comply within 15 business days after receipt of your request.  
+    For requests to opt out of the sale or sharing or to opt out of automated processing ("profiling") of your CA Personal Information or requests to limit the use and disclosure of your Sensitive Personal Information, we will comply within 15 business days after receipt of your request.  
       
     We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
 * **Requests By Authorized Agents.** You may designate an agent to submit requests on your behalf. The agent must be a natural person or a business entity that is registered with the California Secretary of State.  
@@ -656,34 +667,20 @@ You also have the right to request correction or deletion of your CA Personal In
       
     Opt-Out Requests and Requests to Limit  
       
-    Requests to opt-out of profiling or sale and sharing of your CA Personal Information and requests to limit the use and disclosure of your Sensitive Personal Information do not require LexisNexis® verification.
+    Requests to opt-out of profiling or sale and sharing of your CA Personal Information and requests to limit the use and disclosure of your Sensitive Personal Information do not require LexisNexis® verification or email confirmation.
 
 **Nondiscrimination.** Should you wish to request the exercise of your rights as detailed above with regard to your CA Personal Information, we will not discriminate against you. To the extent you provide CA Personal Information in connection with programs such as myWalgreens, additional information about the terms applicable to those programs, including our use of CA Personal Information in exchange for the applicable financial incentives, can be found in the terms and conditions for those programs and in the Notice of Financial Incentive section above.
 
 **No Sale of Minors' Personal Information.** Additionally, California law requires California residents under the age of 16 to opt-in to the sale or sharing of CA Personal Information. We have protections in place to prevent the sale and sharing of, and do not intend to and have no actual knowledge that we "sell" or "share" the CA Personal Information of California residents under the age of 16. As a result, certain programs and services may be unavailable to California residents under the age of 16.
 
-**Metrics.** California law requires recording of metrics regarding requests for Access, Correction, Deletion, Opting-out of Sale/Sharing, and Limiting the use of Sensitive Personal Information submitted by California residents pursuant to the California Privacy Rights Act. The metrics below reflect the time period from January 1, 2022, to December 31, 2022, which does not include requests for Correction and Limiting the use of Sensitive Personal Information.
+**Metrics.** California law requires recording of metrics regarding requests for Access, Correction, Deletion, Opting-out of Sale/Sharing, and Limiting the use of Sensitive Personal Information submitted by California residents pursuant to the California Privacy Rights Act. The metrics below reflect the time period from January 1, 2023, to December 31, 2023.
 
-* Access Requests
-
-* Request Received: 29
-* Completed: 11
-* Expired/Rejected: 18
-* Median Days to Fulfill: 45
-
-* Deletion Requests
-
-* Requests Received: 117
-* Completed: 80
-* Expired/Rejected: 37
-* Median Days to Fulfill: 20
-
-* Opt-out Requests
-
-* Requests Received: 29,615
-* Completed: 28,665
-* Expired/Rejected: 950
-* Median Days to Fulfill: 0
+|     | **Access** | **Correction** | **Deletion** | **Opt out of Sale/Sharing** | **Request to Limit** |
+| --- | --- | --- | --- | --- | --- |
+| Requests Received | 107 | 17  | 265 | 82,182 | 148,055 |
+| Completed | 44  | 0   | 175 | 81,791 | 147,895 |
+| Expired/Rejected | 63  | 17  | 90  | 391 | 160 |
+| Median Days to Fulfill | 33  | 0   | 20  | 0   | 0   |
 
 * * *
 
@@ -853,7 +850,7 @@ You also have the right to request correction or deletion of your CO Personal Da
       
     Opt-Out Requests  
       
-    Requests to opt-out of targeted advertising, sale, or profiling of your CO Personal Data do not require LexisNexis® verification.
+    Requests to opt-out of targeted advertising, sale, or profiling of your CO Personal Data do not require LexisNexis® verification or email confirmation.
 
 * * *
 
@@ -971,9 +968,125 @@ You also have the right to request deletion of your UT Personal Data and to opt 
       
     We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
 
+* * *
+
+**Information for Oregon Consumers**
+
+If you are an Oregon resident, we are required to provide additional information to you about how we collect, use and disclose your information that may be considered "Personal Data" under Oregon Law (**"OR Personal Data"**), and you may have additional rights with regard to how we use and disclose your OR Personal Data. In addition, certain information about you may be considered “Sensitive Data” under Oregon Law, and, unless the processing falls under a legal exception, we cannot process Sensitive Data without obtaining your consent. We have included this Oregon-specific information below.
+
+* **Processing.** Consistent with the ["Information We Collect"](#InformationWeCollect) section above, we process certain categories and specific pieces of OR Personal Data about individuals who reside in Oregon. In the 12 months prior to the date of this Privacy Policy, we collected the following types of categories of OR Personal Data, which we will continue to collect:
+
+* **Identifiers:** such as name, address, telephone number, email address, age, date of birth, username and password for our websites, online identifiers, IP address;
+* **Commercial information:** such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies, payment information, health and medical information, health insurance information, loyalty program participation information;
+* **Internet or other electronic network activity information:** such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information;
+* **Geolocation information:** including location data and precise location data such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols, when you are in or near a Walgreens store;
+* **Audio, visual, or similar information:** such as photographs you share, store security video, customer service audio recordings;
+* **Inferences drawn from the above categories of OR Personal Data:** such as consumer preferences, characteristics, predispositions, and behavior; and
+* **Sensitive Data:** such as precise geolocation (within a radius of 1,750 feet).
+
+* **Deidentified Information.** We may also maintain and use information that does not identify an individual and cannot reasonably be used to identify an individual which is derived from OR Personal Data. We will not attempt to reidentify deidentified OR Personal Data unless permitted by law.
+* **Purposes.** We collect OR Personal Data for the business and commercial purposes described in the ["How We Use Your Information"](#HowWeUseYourInformation) section above. Specifically, we collect OR Personal Data to respond to your inquiries, fulfill your requests and improve your experience; for marketing, advertising and promotional purposes; for reporting and analytics; to improve the effectiveness of our services, conduct research and analysis, or for other internal operations purposes; to detect, prevent or investigate potential security breaches, fraudulent transactions and monitor against theft.
+
+**Profiling Activities.** We process certain categories of OR Personal Data from myWalgreens loyalty members in a manner that may be considered “profiling” under Oregon law, such as prescreened credit card offers. For myWalgreens loyalty members that have identifiers such as name and address populated in their loyalty account, our business partner, Synchrony Bank, may process those identifiers to complete a prequalification check for the myWalgreens credit card. This processing occurs at the point of sale, either in-store or online, and involves a soft credit check by Synchrony Bank to determine loyalty members’ eligibility for a credit card preapproval offer. If deemed eligible, you may receive a myWalgreens credit card preapproval offer at the point of sale. Those that are deemed ineligible may not receive a myWalgreens credit card preapproval offer at the point of sale but may still apply for a myWalgreens credit card online or in-person at any Walgreens or Duane Reade store. You may stop our processing of your OR Personal Data for these purposes by opting-out of profiling. You can do so by submitting an opt-out request through this link [here](https://privacyportal.onetrust.com/webform/e56ed7f6-6f9b-4d8c-b480-6fd18a73178b/2bf4e837-9c6c-4bdb-81fe-ef068f2008a0) or by contacting us at 800-925-4733.
+
+**Sale and Targeted Advertising.** As described above in the ["How We Share Your Information"](#HowWeShareYourInformation) section, we may share the following categories of OR Personal Data with third parties who are considered "third parties" as defined under Oregon law. In the 12 months prior to the date of this Privacy Policy, we shared your OR Personal Data with third parties for purposes of "targeted advertising," which may constitute a "sale" of OR Personal Data under Oregon law, and may continue to share the following categories of OR Personal Data for "targeted advertising":
+
+* **Identifiers:** such as online identifiers, IP address;
+* **Commercial information:** such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies;
+* **Internet or other electronic network activity information:** such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information; and
+* **Inferences drawn from OR Personal Data:** such as consumer preferences, characteristics, predispositions, and behavior.
+
+The categories of third parties to which we may share the above-described categories of OR Personal Data include online Advertising Networks, Marketing Companies, Financial Services Partners and Social Media Companies.
+
+**Opting Out of Sale and Targeted Advertising.** You may stop our disclosure of your OR Personal Data to these entities for purposes of targeted advertising by opting-out of the sale of your OR Personal Data. You can do so by submitting an opt-out request through this link [here](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or by contacting us at 800-925-4733.
+
+**Oregon Consumer Rights.** As a Oregon resident, you have the right to ask us for and access, including in a portable, readily usable format, any or all of following types of information regarding the OR Personal Data we have collected about you:
+
+* Specific pieces of OR Personal Data we have collected about you;
+* Categories of OR Personal Data we have collected about you; and
+* A list of specific third parties with whom we disclose OR Personal Data.
+
+You also have the right to request correction or deletion of your OR Personal Data and to opt out of the use of your OR Personal Data for purposes of targeted advertising, sale, and automated processing ("profiling"). In addition, you have the right to appeal our refusal to act on your request.
+
+* **Exercising Oregon Consumer Rights.** You or your authorized agent may submit a request to exercise your Oregon Consumer Rights by using one of the following specifically designated methods:
+
+* Self-service on our digital properties by logging on to your account and using the Customer Preference Center
+
+* Click the following links and confirm your choices:
+    
+    To submit a sale or targeted advertising opt out, click [here](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs)
+    
+    [Exercise Oregon Consumer Privacy Rights](http://datatrust.walgreens.com/consumerrights)
+    
+* Contacting our Customer Care Center at 800-WALGREENS (800-925-4733)
+
+* **Responding to Requests.** For requests for access, correction, deletion, or appeal, we will first acknowledge receipt of your request within 10 business days of receipt of your request. We provide a substantive response to your request as soon as we can, generally within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.  
+      
+    For requests to opt out of the use of your OR Personal Data for purposes of targeted advertising, sale, and automated processing ("profiling"), we will comply within 15 business days after receipt of your request.  
+      
+    We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
+
+* * *
+
+**Information for Texas Consumers**
+
+If you are an Texas resident, we are required to provide additional information to you about how we collect, use and disclose your information that may be considered "Personal Data" under Texas Law (**"TX Personal Data"**), and you may have additional rights with regard to how we use and disclose your TX Personal Data. In addition, certain information about you may be considered “Sensitive Data” under Texas Law, and, unless the processing falls under a legal exception, we cannot process Sensitive Data without obtaining your consent. We have included this Texas-specific information below.
+
+* **Processing.** Consistent with the ["Information We Collect"](#InformationWeCollect) section above, we process certain categories and specific pieces of TX Personal Data about individuals who reside in Texas. In the 12 months prior to the date of this Privacy Policy, we collected the following types of categories of TX Personal Data, which we will continue to collect:
+
+* **Identifiers:** such as name, address, telephone number, email address, age, date of birth, username and password for our websites, online identifiers, IP address;
+* **Commercial information:** such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies, payment information, health and medical information, health insurance information, loyalty program participation information;
+* **Internet or other electronic network activity information:** such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information;
+* **Geolocation information:** including location data and precise location data such as physical location information through the use of our services on your mobile phone or device by, for example using satellite, cell phone tower, WiFi signal, beacons, Bluetooth and near field communication protocols, when you are in or near a Walgreens store;
+* **Audio, visual, or similar information:** such as photographs you share, store security video, customer service audio recordings;
+* **Inferences drawn from the above categories of TX Personal Data:** such as consumer preferences, characteristics, predispositions, and behavior; and
+* **Sensitive Data:** such as precise geolocation (within a radius of 1,750 feet).
+
+* **Deidentified Information.** We may also maintain and use information that does not identify an individual and cannot reasonably be used to identify an individual which is derived from TX Personal Data. We will not attempt to reidentify deidentified TX Personal Data unless permitted by law.
+* **Purposes.** We collect TX Personal Data for the business and commercial purposes described in the ["How We Use Your Information"](#HowWeUseYourInformation) section above. Specifically, we collect TX Personal Data to respond to your inquiries, fulfill your requests and improve your experience; for marketing, advertising and promotional purposes; for reporting and analytics; to improve the effectiveness of our services, conduct research and analysis, or for other internal operations purposes; to detect, prevent or investigate potential security breaches, fraudulent transactions and monitor against theft.
+
+**Sale and Targeted Advertising.** As described above in the ["How We Share Your Information"](#HowWeShareYourInformation) section, we may share the following categories of TX Personal Data with third parties who are considered "third parties" as defined under Texas law. In the 12 months prior to the date of this Privacy Policy, we shared your TX Personal Data with third parties for purposes of "targeted advertising," which may constitute a "sale" of TX Personal Data under Texas law, and may continue to share the following categories of TX Personal Data for "targeted advertising":
+
+* **Identifiers:** such as online identifiers, IP address;
+* **Commercial information:** such as products or services purchased, obtained or considered, other purchasing or consuming histories or tendencies;
+* **Internet or other electronic network activity information:** such as computer and connection information, statistics on page views, traffic to and from the websites, ad data and other standard weblog information; and
+* **Inferences drawn from TX Personal Data:** such as consumer preferences, characteristics, predispositions, and behavior.
+
+The categories of third parties to which we may share the above-described categories of TX Personal Data include online Advertising Networks, Marketing Companies, Financial Services Partners and Social Media Companies.
+
+**Opting Out of Sale and Targeted Advertising.** You may stop our disclosure of your TX Personal Data to these entities for purposes of targeted advertising by opting-out of the sale of your TX Personal Data. You can do so by submitting an opt-out request through this link [here](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs) or by contacting us at 800-925-4733.
+
+**Texas Consumer Rights.** As a Texas resident, you have the right to ask us for and access, including in a portable, readily usable format, any or all of following types of information regarding the TX Personal Data we have collected about you:
+
+* Specific pieces of TX Personal Data we have collected about you;
+* Categories of TX Personal Data we have collected about you;
+* Categories of sources from which such TX Personal Data was collected;
+* Categories of TX Personal Data we sold or disclosed for a business purpose about you; and
+* The business or commercial purpose for collecting or selling your TX Personal Data.
+
+You also have the right to request correction or deletion of your TX Personal Data and to opt out of the use of your TX Personal Data for purposes of targeted advertising, sale, and automated processing ("profiling"). In addition, you have the right to appeal our refusal to act on your request.
+
+* **Exercising Texas Consumer Rights.** You or your authorized agent may submit a request to exercise your Texas Consumer Rights by using one of the following specifically designated methods:
+
+* Self-service on our digital properties by logging on to your account and using the Customer Preference Center
+
+* Click the following links and confirm your choices:
+    
+    To submit a sale or targeted advertising opt out, click [here](https://www.walgreens.com/topic/donotsellmyinfo.jsp?o=acs)
+    
+    [Exercise Texas Consumer Privacy Rights](http://datatrust.walgreens.com/consumerrights)
+    
+* Contacting our Customer Care Center at 800-WALGREENS (800-925-4733)
+
+* **Responding to Requests.** For requests for access, correction, deletion, or appeal, we will first acknowledge receipt of your request within 10 business days of receipt of your request. We provide a substantive response to your request as soon as we can, generally within 45 days from when we receive your request, although we may be allowed to take longer to process your request under certain circumstances. If we expect your request is going to take us longer than normal to fulfill, we will let you know.  
+      
+    For requests to opt out of the use of your TX Personal Data for purposes of targeted advertising, sale, and automated processing ("profiling"), we will comply within 15 business days after receipt of your request.  
+      
+    We usually act on requests and provide information free of charge, but we may charge a reasonable fee to cover our administrative costs of providing the information in certain situations. In some cases, the law may allow us to refuse to act on certain requests. When this is the case, we will endeavor to provide you with an explanation as to why.
+
 **How To Contact Us:**
 
-If you have questions about our Privacy Policy, or to exercise your rights as detailed above, except for California, Colorado, Connecticut, Virginia, and Utah Consumer Rights which you may exercise by using the designated methods identified in the ["Information for California Consumers, California Consumer Rights"](#InformationforCaliforniaConsumers), ["Information for Colorado Consumers, Colorado Consumer Rights"](#InfoForColoradoConsumers), ["Information for Connecticut Consumers, Connecticut Consumer Rights,"](#InformationForConnecticutConsumers), ["Information for Virginia Consumers, Virginia Consumer Rights"](#InformationforVirginiaConsumers), and ["Information for Utah Consumers, Utah Consumer Rights"](#InformationforUtahConsumers) sections above, contact us by:
+If you have questions about our Privacy Policy, or to exercise your rights as detailed above, except for California, Colorado, Connecticut, Oregon, Texas, Virginia, and Utah Consumer Rights which you may exercise by using the designated methods identified in the applicable sections above, contact us by:
 
 **Phone:** (877) 924-4472  
 **E-mail:**   [privacy.office@walgreens.com](mailto:privacy.office@walgreens.com)  
@@ -986,7 +1099,7 @@ Deerfield, IL 60015
 
 To request this Privacy Policy in an alternative accessible format, call our Customer Care Center at 800-WALGREENS (800-925-4733).
 
-**Effective Date:** 10/21/2016; **Last Updated:** 12/29/2023
+**Effective Date:** 10/21/2016; **Last Updated:** 7/1/2024
 
 [Sign up for deals and offers!](https://www.walgreens.com/register/regpersonalinfo?ban=dl_dlhp_11122023_Banner_EmailCaptureRedirect)
 
