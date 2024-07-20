@@ -56,6 +56,7 @@ zurückscrollen
         * [Tempelhof-Schöneberg](https://www.tagesspiegel.de/berlin/bezirke/tempelhof-schoeneberg)
         * [Treptow-Köpenick](https://www.tagesspiegel.de/berlin/bezirke/treptow-koepenick)
     * [Berliner Wirtschaft](https://www.tagesspiegel.de/berlin/berliner-wirtschaft/)
+    * [Berliner Sport](https://www.tagesspiegel.de/berlin/berliner_sport/)
     * [Polizei & Justiz](https://www.tagesspiegel.de/berlin/polizei-justiz/)
     * [Stadtleben](https://www.tagesspiegel.de/berlin/stadtleben/)
     * [Fahrrad & Verkehr](https://www.tagesspiegel.de/berlin/themen/fahrrad-und-verkehr-in-berlin)
@@ -127,8 +128,8 @@ zurückscrollen
     * [Gesund essen](https://www.tagesspiegel.de/gesundheit/themen/gesund-essen)
     * [Gut schlafen](https://www.tagesspiegel.de/gesundheit/themen/gut-schlafen)
     * [Achtsamkeit](https://www.tagesspiegel.de/gesundheit/themen/achtsamkeit)
-    * [Pflege](https://www.tagesspiegel.de/politik/themen/pflege)
-    * [Arztbriefe](https://www.tagesspiegel.de/gesundheit/themen/arztbriefe)
+    * [Pflege-Ratgeber](https://www.tagesspiegel.de/gesundheit/themen/pflege-ratgeber)
+    * [Beste Kliniken](https://www.tagesspiegel.de/gesundheit/themen/beste-kliniken)
     
     vorscrollen
     
@@ -136,15 +137,14 @@ zurückscrollen
     
     zurückscrollen
     
-    * [Nationalelf](https://www.tagesspiegel.de/sport/themen/nationalelf)
+    * [Fußball-EM 2024](https://www.tagesspiegel.de/sport/themen/fussball-em-2024)
     * [Hertha BSC](https://www.tagesspiegel.de/sport/themen/hertha-bsc)
     * [1\. FC Union Berlin](https://www.tagesspiegel.de/sport/themen/1-fc-union-berlin)
     * [Bundesliga](https://www.tagesspiegel.de/sport/themen/bundesliga)
     * [Champions League](https://www.tagesspiegel.de/sport/themen/champions-league)
     * [Eisbären Berlin](https://www.tagesspiegel.de/sport/themen/eisbaren-berlin)
     * [Alba Berlin](https://www.tagesspiegel.de/sport/themen/alba-berlin)
-    * [Füchse Berlin](https://www.tagesspiegel.de/sport/themen/fuchse-berlin)
-    * [BR Volleys](https://www.tagesspiegel.de/sport/themen/br-volleys)
+    * [Paralympics Zeitung](https://www.tagesspiegel.de/gesellschaft/medien/themen/paralympics-zeitung)
     
     vorscrollen
     
@@ -247,7 +247,6 @@ Tagesspiegel-Produkte
     * [Strom](https://www.tagesspiegel.de/themen/strom/?utm_source=tagesspiegel.de&utm_campaign=products&utm_medium=service-nav-header&utm_term=Strom)
     * [Stromvergleich](https://verbraucher.tagesspiegel.de/stromvergleich/)
     * [DSL-Vergleich](https://verbraucher.tagesspiegel.de/dsl-vergleich/)
-    * [Stellensuche](https://jobs.tagesspiegel.de/)
     * [Gutscheine](https://gutscheine.tagesspiegel.de/)
     
     Weitere Angebote
@@ -283,7 +282,7 @@ Telefon: 030 29021 0
 E-Mail: datenschutz@tagesspiegel.de
 
 **2. Rechtsgrundlagen**  
-Der datenschutzrechtliche Begriff „personenbezogene Daten“ bezeichnet alle Informationen, die sich auf einen bestimmten oder bestimmbaren Menschen beziehen. Wir verarbeiten personenbezogene Daten unter Beachtung der einschlägigen Datenschutzvorschriften, insbesondere der DSGVO und des BDSG. Eine Datenverarbeitung durch uns findet nur auf der Grundlage einer gesetzlichen Erlaubnis statt. Wir verarbeiten personenbezogene Daten nur mit Ihrer Einwilligung (§ 25 Abs. 1 TTDSG oder Art. 6 Abs. 1 Buchst. a DSGVO), zur Erfüllung eines Vertrages, dessen Vertragspartei Sie sind, oder auf Ihre Anfrage zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 Buchst. b DSGVO), zur Erfüllung einer rechtlichen Verpflichtung (Art. 6 Abs. 1 Buchst. c DSGVO) oder wenn die Verarbeitung zur Wahrung unserer berechtigten Interessen oder der berechtigten Interessen eines Dritten erforderlich ist, sofern nicht Ihre Interessen oder Grundrechte und Grundfreiheiten, die den Schutz personenbezogener Daten erfordern, überwiegen (Art. 6 Abs. 1 Buchst. f DSGVO). Wenn Sie sich auf eine offene Stelle in unserem Unternehmen bewerben, verarbeiten wir Ihre personenbezogenen Daten außerdem zur [Entscheidung](https://app.adjust.com/1bqh9ksg_1bbt1y75?adgroup=Display&fallback=https%3A%2F%2Fpicnic.app%2Fde%2F&redirect_macos=https%3A%2F%2Fpicnic.app%2Fde%2F) über die Begründung eines Beschäftigungsverhältnisses (§ 26 Abs. 1 S. 1 BDSG).
+Der datenschutzrechtliche Begriff „personenbezogene Daten“ bezeichnet alle Informationen, die sich auf einen bestimmten oder bestimmbaren Menschen beziehen. Wir verarbeiten personenbezogene Daten unter Beachtung der einschlägigen Datenschutzvorschriften, insbesondere der DSGVO und des BDSG. Eine Datenverarbeitung durch uns findet nur auf der Grundlage einer gesetzlichen Erlaubnis statt. Wir verarbeiten personenbezogene Daten nur mit Ihrer Einwilligung (§ 25 Abs. 1 TTDSG oder Art. 6 Abs. 1 Buchst. a DSGVO), zur Erfüllung eines Vertrages, dessen Vertragspartei Sie sind, oder auf Ihre Anfrage zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1 Buchst. b DSGVO), zur Erfüllung einer rechtlichen Verpflichtung (Art. 6 Abs. 1 Buchst. c DSGVO) oder wenn die Verarbeitung zur Wahrung unserer berechtigten Interessen oder der berechtigten Interessen eines Dritten erforderlich ist, sofern nicht Ihre Interessen oder Grundrechte und Grundfreiheiten, die den Schutz personenbezogener Daten erfordern, überwiegen (Art. 6 Abs. 1 Buchst. f DSGVO). Wenn Sie sich auf eine offene Stelle in unserem Unternehmen bewerben, verarbeiten wir Ihre personenbezogenen Daten außerdem zur [Entscheidung](https://sudoku.tagesspiegel.de/?bezuggrd=INT&utm_source=iqd&utm_medium=Banner&utm_campaign=INT-2024-07-Sodoku-fallback-iqd&utm_content=Sodoku-fallback-300x250) über die [Begründung](https://begriffel.tagesspiegel.de/?bezuggrd=INT&utm_source=iqd&utm_medium=Banner&utm_campaign=INT-2024-07-Begriffel-fallback-iqd&utm_content=Begriffel-fallback-300x600) eines Beschäftigungsverhältnisses (§ 26 Abs. 1 S. 1 BDSG).
 
 **3. Dauer der Speicherung**  
 Sofern sich aus den folgenden Hinweisen nichts anderes ergibt, speichern wir die Daten nur so lange, wie es zur Erreichung des Verarbeitungszwecks oder für die Erfüllung unserer vertraglichen oder gesetzlichen Pflichten erforderlich ist. Solche gesetzlichen Aufbewahrungspflichten können sich insbesondere aus handels- oder steuerrechtlichen Vorschriften ergeben. Ab dem Schluss des Kalenderjahres, in dem die Daten erhoben wurden, werden wir solche personenbezogenen Daten, die in unseren Buchhaltungsdaten enthalten sind, für zehn Jahre aufbewahren und in Handelsbriefen und Verträgen vorhandene personenbezogene Daten für sechs Jahre aufbewahren. Im Übrigen werden wir Daten im Zusammenhang mit nachweispflichtigen Einwilligungen sowie mit Reklamations- und Forderungsansprüchen für die Dauer der gesetzlichen Verjährungsfristen aufbewahren. Für Werbezwecke gespeicherte Daten werden wir löschen, wenn Sie der Verarbeitung zu diesem Zweck widersprechen.
