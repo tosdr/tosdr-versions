@@ -44,10 +44,11 @@ Search
 * [Home](https://theartofeducation.edu/)
 * Solutions
     
-    Visual Arts CurriculumLesson Ideas & ResourcesProfessional DevelopmentMove Up The Salary ScaleFurther My EducationEnhance My TeachingArt Teacher CommunityNavigating My First Year
+    Funding & AdvocacyVisual Arts CurriculumLesson Ideas & ResourcesProfessional DevelopmentMove Up The Salary ScaleFurther My EducationEnhance My TeachingArt Teacher CommunityNavigating My First Year
     
-    Visual Arts Curriculum
+    Funding & Advocacy
     
+    * Funding & Advocacy
     * Visual Arts Curriculum
     * Lesson Ideas & Resources
     * Professional Development
@@ -56,6 +57,114 @@ Search
     * Enhance My Teaching
     * Art Teacher Community
     * Navigating My First Year
+    
+    [Funding Solutions
+    
+    Discover various funding opportunities to support your art program.
+    
+    Learn More](https://theartofeducation.edu/funding-advocacy/#funding)
+    
+    [Advocacy Tools
+    
+    Resources to build a strong case for the value of visual arts in your district.
+    
+    Learn More](https://theartofeducation.edu/funding-advocacy/#advocacy)
+    
+    * * *
+    
+    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
+    
+    Art Curriculum Evaluation Rubric](https://theartofeducation.edu/funding-advocacy/#funding)
+    
+    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
+    
+    Alignment to Federal Funds](https://theartofeducation.edu/funding-advocacy/#funding)
+    
+    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
+    
+    How to Fund FLEX + PRO](https://theartofeducation.edu/funding-advocacy/#funding)
+    
+    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
+    
+    The Visual Arts Advantage](https://theartofeducation.edu/funding-advocacy/#advocacy)
+    
+    [![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![download icon](https://theartofeducation.edu/wp-content/uploads/2023/01/mega-menu-download-icon.png)
+    
+    The Unique Benefits of Fine Art Disciplines in K-12 Education](https://theartofeducation.edu/funding-advocacy/#advocacy)
+    
+    [![How to Advocate for Art Curriculum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![How to Advocate for Art Curriculum](https://theartofeducation.edu/wp-content/uploads/2024/07/curriculum-advocacy-webinar-300x169.png)
+    
+    How to Advocate for Art Curriculum](https://theartofeducation.edu/funding-advocacy/#webinars)
+    
+    [![Asking for Art-Specific PD](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Asking for Art-Specific PD](https://theartofeducation.edu/wp-content/uploads/2024/07/pd-advocacy-webinar-300x169.png)
+    
+    Asking for Art-Specific PD](https://theartofeducation.edu/funding-advocacy/#webinars)
+    
+    [](https://theartofeducation.edu/2022/09/sept-what-do-art-teachers-need-to-know-about-grant-writing/)
+    
+    ![day of the dead skulls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![day of the dead skulls](https://theartofeducation.edu/wp-content/uploads/2023/02/nick-fewings-I3C_eojFVQY-unsplash-768x512.jpg)
+    
+    [Advocacy](https://theartofeducation.edu/magazine/professionalism/advocacy/)
+    
+    #### What Do Art Teachers Need to Know About Grant Writing?
+    
+    ![Art of Education Magazine & Media](https://theartofeducation.edu/wp-content/themes/aoeu/dist/images/magazine-media-icon.svg) Article
     
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/flex-curriculum-icon.svg)FLEX Curriculum
     
@@ -117,6 +226,18 @@ Search
     
     Learn More](https://theartofeducation.edu/magazine/)
     
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)
+    
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-A.png)
+    
+    #### Back-to-School Success Starts Here
+    
+    Explore new teaching strategies and resources to spark creativity and growth in your students. Make this school year unforgettable!
+    
+    [Learn More](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu "Learn More")
+    
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/graduate-courses-icon.svg)Graduate Courses
     
     Earn graduate credit with 30+ online courses—including 9 hands-on studio courses.
@@ -163,6 +284,18 @@ Search
     
     Learn More](https://theartofeducation.edu/pro/)
     
+    [](https://theartofeducation.edu/2024/07/jul-why-art-teachers-stay-a-guide-for-longevity-in-art-education/)
+    
+    ![art teacher with student](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![art teacher with student](https://theartofeducation.edu/wp-content/uploads/2024/07/IMG_0676-768x512.jpg)
+    
+    [Professionalism](https://theartofeducation.edu/magazine/professionalism/)
+    
+    #### Why Art Teachers Stay: A Guide for Longevity in Art Education
+    
+    ![Art of Education Magazine & Media](https://theartofeducation.edu/wp-content/themes/aoeu/dist/images/magazine-media-icon.svg) Article
+    
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/masters-degree-icon.svg)Degree Programs
     
     Earn a master’s degree in as little as 22–24 months with ridiculously relevant courses that apply directly to your art room.
@@ -175,6 +308,28 @@ Search
     
     Learn More](https://theartofeducation.edu/courses/)
     
+    * * *
+    
+    Continuing Education Courses
+    
+    [](https://theartofeducation.edu/course/ai-in-art-education/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/06/aiinarteducation_rgb_circleNEW-1-300x300.png)
+    
+    ##### AI in Art Education
+    
+    [](https://theartofeducation.edu/course/advanced-2d-explorations/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/advanced_2D_Explorations_rgb-300x300.png)
+    
+    ##### Studio: Advanced 2D Explorations
+    
+    [](https://theartofeducation.edu/course/design-thinking-for-art-education/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/06/designthinkingforarteducation_rgb_circleNEW-1-300x300.png)
+    
+    ##### Design Thinking for Art Education
+    
     [](https://theartofeducation.edu/masters/masters-degree-return-on-investment-calculator/)
     
     [](https://theartofeducation.edu/masters/masters-degree-return-on-investment-calculator/)![woman's hands typing on a laptop](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -184,6 +339,8 @@ Search
     #### **Leverage Your Salary Schedule**
     
     Calculate the return on investment you—and your career—could see with a master's degree.
+    
+    * * *
     
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/flex-curriculum-icon.svg)FLEX Curriculum
     
@@ -343,15 +500,17 @@ Search
     
     Learn More](https://theartofeducation.edu/curriculum-suite?utm_source=aoeu-web&utm_medium=mega-menu&utm_campaign=flex%20evergreen&utm_content=offerings-f+p=c)
     
-    [](https://theartofeducation.edu/back-to-school-2023/?utm_campaign=BTS2023&utm_source=megamenu&utm_medium=offerings&utm_term=BTS%20Resource%20Hub)
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)
     
-    [](https://theartofeducation.edu/back-to-school-2023/?utm_campaign=BTS2023&utm_source=megamenu&utm_medium=offerings&utm_term=BTS%20Resource%20Hub)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/08/Elements-Principles-Posters@2x.png)
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-A.png)
     
-    #### Resources for Art Teachers: Save Time & Shine
+    #### Back-to-School Success Starts Here
     
-    Create an extraordinary school year with instructional resources that will support you and your students!
+    Explore new teaching strategies and resources to spark creativity and growth in your students. Make this school year unforgettable!
+    
+    [Learn More](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu "Learn More")
     
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/pro-learning-icon.svg)PRO Learning
     
@@ -379,15 +538,17 @@ Search
     
     Learn More](https://theartofeducation.edu/choose-your-state/)
     
-    [](https://artofed.info/41hYJYJ)
+    [](https://theartofeducation.edu/back-to-school-2024/?utm_source=aoeu-web&utm_medium=aoeu-ads&utm_campaign=bts24&utm_content=mega-menu)
     
-    [](https://artofed.info/41hYJYJ)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://theartofeducation.edu/wp-content/uploads/2023/03/pexels-andrea-piacquadio-914922-1.jpg)
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/BTS24-WP-Ad-Growth-Mindset.png)
     
-    ##### **PD That Interests You**
+    #### Cultivate a Year of Learning
     
-    Dive deep into your passions or focus on learning new skills. Each PRO Learning Pack features proven strategies and real-world tactics to get the most from your students.
+    Discover resources and support that will make this school year extraordinary. From lesson plans to professional development, we've got you covered!
+    
+    [Learn More](https://theartofeducation.edu/back-to-school-2024/ "Learn More")
     
     [![](https://theartofeducation.edu/wp-content/uploads/2023/01/masters-degree-icon.svg)Degree Programs
     
