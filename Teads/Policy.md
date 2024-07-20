@@ -114,7 +114,7 @@ Self-serve publishers are able to pause the delivery of the ads by logging onto 
 
 This Brand Safety Policy may be updated at Teads’ discretion from time to time and without notice.
 
-Last update: March 2021
+Last verified: July 2024
 
 Advertisers
 -----------
