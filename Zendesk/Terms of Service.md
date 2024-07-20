@@ -117,6 +117,8 @@ Resources
 
 [](https://www.zendesk.com/)
 
+[Start free trial](https://www.zendesk.com/register/)
+
 [Agreements and Terms
 --------------------](https://www.zendesk.com/company/agreements-and-terms/)
 
