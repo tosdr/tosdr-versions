@@ -47,11 +47,9 @@ You may view, download and print pages from our website for your own personal us
 
 Printing content from our website for personal use or for educational purposes, such as in a classroom, is permitted as long as credit is given to Safe Search Kids with full stated url _www.SafeSearchKids.com_.
 
-All articles on Safe Search Kids are protected by **Copyshield** to ensure that all content uploaded by us is 100% original and **not copied or paraphrased from other articles.**  We also use Copyshield to monitor when our written content may have been stolen or paraphrased, which is to say that an article of ours was re-written without the writer conducting their own personal research from a variety of sources to produce an original work.
+> All articles on Safe Search Kids are tested and protected by [**Copyleaks**](http://www.awin1.com/cread.php?awinmid=73962&awinaffid=1039603) to ensure that all content uploaded by us is 100% original and **not copied or paraphrased from other articles.**  We monitor when our written content may have been stolen or paraphrased, which is to say that an article of ours was re-written without the writer conducting their own personal research from a variety of sources to produce an original work. We also test articles at [https://originality.ai/](https://originality.ai/?via=ssk)
 
-We use [https://originality.ai](https://originality.ai/?lmref=fS84Yg) to test all articles posted on Safe Search Kids.
-
-> **A detailed exploration regarding the legalities of our copyright notice can be found at the bottom of this page.**
+**A detailed exploration regarding the legalities of our copyright notice can be found at the bottom of this page.**
 
 Terms of Service
 ----------------
@@ -140,11 +138,11 @@ Share This Article
 
  
 
-[![Online Coding for Kids](https://www.safesearchkids.com/wp-content/uploads/2022/01/online-coding-for-kids.jpg)](https://www.safesearchkids.com/coding-for-kids/)
+[![parental control app](https://www.safesearchkids.com/wp-content/uploads/2021/02/best-parental-control-app.jpg)](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### 
 
-[Online Summer Coding Classes](https://www.safesearchkids.com/coding-for-kids/)
+[Parental Control App](https://www.safesearchkids.com/best-parental-control-app/)
 
 ### Article Categories
 
@@ -159,25 +157,25 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
-[![Learning Apps to teach Critical Thinking](https://www.safesearchkids.com/wp-content/uploads/2022/11/Educational-Critical-Thinking-Apps-for-Students.jpg)](https://www.safesearchkids.com/free-learning-apps-to-help-students-develop-critical-thinking/)
+[![Online Coding for Kids](https://www.safesearchkids.com/wp-content/uploads/2022/11/Online-Coding-for-Boys-and-Girls.jpg)](https://www.safesearchkids.com/coding-for-kids/)
 
 ### 
 
-[Critical Thinking Learning Apps](https://www.safesearchkids.com/free-learning-apps-to-help-students-develop-critical-thinking/)
+[Online Coding for Kids](https://www.safesearchkids.com/coding-for-kids/)
 
-[![Roblox Parental Controls](https://www.safesearchkids.com/wp-content/uploads/2022/11/Parental-Controls-for-Roblox.jpg)](https://www.safesearchkids.com/roblox-parental-controls/)
+[![Scam Awareness Teaching Series](https://www.safesearchkids.com/wp-content/uploads/2024/04/Scam-Alert-Educational-Series.jpg)](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
 
 ### 
 
-[Roblox Parental Controls](https://www.safesearchkids.com/roblox-parental-controls/)
+[Scam Awareness Series - Part 1](https://www.safesearchkids.com/common-scams-to-be-aware-of-and-prepare-for-part-1/)
 
 ### Parenting and Well-Being
 
+* [Advisory on Social Media and Youth Mental Health](https://www.safesearchkids.com/advisory-on-social-media-and-youth-mental-health/)
 * [Creative Screen-Free Adventures for Kids](https://www.safesearchkids.com/creative-screen-free-adventures-keeping-kids-engaged-for-hours/)
 * [What Parents Should Know About Artificial Intelligence](https://www.safesearchkids.com/what-parents-should-know-about-artificial-intelligence/)
 * [10 Different Career Paths if You Love Working With Kids](https://www.safesearchkids.com/10-career-paths-to-consider-if-you-love-working-with-kids/)
 * [Child Developmental Delays To Look Out For](https://www.safesearchkids.com/child-developmental-delays-to-look-out-for/)
-* [Advisory on Social Media and Youth Mental Healt](https://www.safesearchkids.com/advisory-on-social-media-and-youth-mental-health/)
 * [How Parents Can Take Part in Their Child’s Eco-Education](https://www.safesearchkids.com/how-parents-can-take-part-in-their-childs-eco-education/)
 * [The Silent Educators: What Animals Can Teach Us](https://www.safesearchkids.com/what-animals-can-teach-us/)
 * [How Social Media Is Making Kids Grow Up Too Fast](https://www.safesearchkids.com/how-social-media-is-making-kids-grow-up-too-fast/)
@@ -370,21 +368,21 @@ Share This Article
 
  
 
-* [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
+* [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
+* [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
+* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
+* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
 * [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
 * [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
-* [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
-* [Parental Controls](https://www.safesearchkids.com/best-parental-control-app/)
-* [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
-* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
-* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
-* [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
-* [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
+* [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
+* [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
+* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
+* [Is Mastodon Safe?](https://www.safesearchkids.com/is-mastodon-safe/)
 * [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
 * [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
-* [Roblox Controls](https://www.safesearchkids.com/roblox-parental-controls/)
+* [Parental Control](https://www.safesearchkids.com/parental-control-software/)
 
 Safe and Secure Internet Browsing
 ---------------------------------
@@ -398,6 +396,7 @@ Visit each page to bookmark each resource:
 [Safe Games](https://www.safesearchkids.com/safe-online-game-search/#games)  
   
 
+* [Parental Control App](https://www.safesearchkids.com/best-parental-control-app/)
 * [Article Search](https://www.safesearchkids.com/article-search/)
 * [Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 * [Privacy Policy](https://www.safesearchkids.com/privacy-policy/)
@@ -405,4 +404,7 @@ Visit each page to bookmark each resource:
 * [About Us | Contact](https://www.safesearchkids.com/contact/)
 * [Home](https://www.safesearchkids.com/)
 
+Content protected by [Copyleaks](http://www.awin1.com/cread.php?awinmid=73962&awinaffid=1039603) | Articles screened by [originality.ai](https://originality.ai/?via=ssk)  
+  
+  
 [![Safe Web Search and Images](https://www.safesearchkids.com/wp-content/uploads/2021/12/Depositphotos.png)](https://depositphotos.com/?ref=62080158&utm_source=linkCopy&utm_medium=referral)
