@@ -1,5 +1,7 @@
 [Skip to content](#page-content)
 
+[Click Here - Custom TV Antenna Recommendation](https://www.channelmaster.com/pages/tv-antenna-recommendation)
+
 [Menu](#page-menu)
 
 [](https://www.channelmaster.com/)
