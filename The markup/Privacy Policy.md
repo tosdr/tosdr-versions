@@ -259,10 +259,11 @@ Questions and comments about this policy may be directed to privacy@themarkup.or
 Third Party Services
 --------------------
 
-As of February, 2023, The Markup uses the following third-party service providers:
+As of July, 2024, The Markup uses the following third-party service providers:
 
 * Amazon Web Services, for Website hosting and delivery ([privacy policy](https://aws.amazon.com/compliance/data-privacy-faq/))
 * Stripe, for payment processing of donations ([privacy policy](https://stripe.com/us/privacy/))
+* PayPal, for payment processing of donations ([privacy policy](https://www.paypal.com/us/legalhub/privacy-full))
 * EmailOctopus, for delivery of email newsletters ([privacy policy](https://emailoctopus.com/legal/privacy))
 * hCaptcha ([privacy policy](https://www.hcaptcha.com/privacy))
 * Bloomerang, for maintaining some donor records and soliciting some types of donations ([privacy policy](https://bloomerang.co/privacy-policy/))
