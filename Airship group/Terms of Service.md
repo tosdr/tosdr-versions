@@ -61,16 +61,16 @@
 * Solutions
     
     * [Lifecycle](https://www.airship.com/solutions/lifecycle/)
-    * [Welcome Series](https://www.airship.com/solutions/lifecycle/acquire/welcome-series/)
-    * [Onboarding](https://www.airship.com/solutions/lifecycle/acquire/onboarding/)
-    * [Cross-Channel Acquisition](https://www.airship.com/solutions/lifecycle/acquire/cross-channel-acquisition/)
-    * [Loyalty](https://www.airship.com/solutions/lifecycle/retain/loyalty/)
+    * [Welcome Series](https://www.airship.com/solutions/welcome-series/)
+    * [Onboarding](https://www.airship.com/solutions/onboarding/)
+    * [Cross-Channel Acquisition](https://www.airship.com/solutions/cross-channel-acquisition/)
+    * [Loyalty](https://www.airship.com/solutions/loyalty/)
     
-    * [Churn Prevention](https://www.airship.com/solutions/lifecycle/retain/churn-prevention/)
-    * [Win Back](https://www.airship.com/solutions/lifecycle/retain/win-back/)
-    * [Upsell / Cross Sell](https://www.airship.com/solutions/lifecycle/grow/upsell-cross-sell/)
-    * [Retargeting](https://www.airship.com/solutions/lifecycle/grow/retargeting/)
-    * [Abandoned Cart](https://www.airship.com/solutions/lifecycle/grow/abandoned-cart/)
+    * [Churn Prevention](https://www.airship.com/solutions/churn-prevention/)
+    * [Win Back](https://www.airship.com/solutions/win-back/)
+    * [Upsell / Cross Sell](https://www.airship.com/solutions/upsell-cross-sell/)
+    * [Retargeting](https://www.airship.com/solutions/retargeting/)
+    * [Abandoned Cart](https://www.airship.com/solutions/abandoned-cart/)
     
     * [Industries](https://www.airship.com/solutions/industries/)
     * [Airlines](https://www.airship.com/solutions/industries/airlines/)
