@@ -779,6 +779,7 @@ More
 * [Buy Issues](https://wsjshop.com/?mod=wsjfooter)
 * [WSJ Shop](https://wsjshop.com/collections/clothing?mod=wsjfooter)
 * [Dow Jones Press Room](https://www.dowjones.com/press-room/?mod=wsjfooter)
+* [Dow Jones Smart Money](https://www.dowjones.com/smartmoney)
 
 * [Facebook](https://www.facebook.com/wsj)
 * [Twitter](https://twitter.com/WSJ)
