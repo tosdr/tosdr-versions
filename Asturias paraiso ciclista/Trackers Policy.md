@@ -259,9 +259,7 @@ Registro de Empresas y Actividades Turísticas de Asturias, TA.326.AS
 * [Política de privacidad](https://asturiasparaisociclista.com/privacidad/politica-de-privacidad/)
 * [Política de cookies](https://asturiasparaisociclista.com/privacidad/politica-de-cookies/)
 
- 
-
-Esta web utiliza cookies propias y de terceros para su correcto funcionamiento y para fines analíticos. Al hacer clic en el botón Aceptar, acepta el uso de estas tecnologías y el procesamiento de tus datos para estos propósitos. [Configurar y más información](https://asturiasparaisociclista.com/privacidad/personalizar-cookies/)
+Esta web utiliza cookies propias y de terceros para su correcto funcionamiento y para fines analíticos. Contiene enlaces a sitios web de terceros con políticas de privacidad ajenas que podrás aceptar o no cuando accedas a ellos. Al hacer clic en el botón Aceptar, acepta el uso de estas tecnologías y el procesamiento de tus datos para estos propósitos. [Configurar y más información](https://asturiasparaisociclista.com/privacidad/personalizar-cookies/)
 
 Rechazar Aceptar
 
