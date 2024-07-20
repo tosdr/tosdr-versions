@@ -1,6 +1,6 @@
 ![fbpx](https://www.facebook.com/tr?id=2980429715595154&ev=PageView&noscript=1)      
 
-💥 Reach thousands of inboxes in minutes: All new 'Email Campaigns' is here! - [**Learn More**](https://www.salesmate.io/email-campaign-software/?utm_source=sm&utm_medium=landing_pages&utm_campaign=email_campaign_launch)
+**Salesmate Webinar:** Summer Release - Unveiling exciting updates & features on 18th Jul 2024, Thursday at 1:00 PM EST. [Reserve your spot.](https://events.teams.microsoft.com/event/49591b12-396f-4d74-9c43-f9235cd67139@5260ca83-794f-4236-9409-32e44c6d6781)
 
 [![salesmate](https://www.salesmate.io/wp-content/uploads/2024/03/sm-logo-crm-update.svg)](https://www.salesmate.io/)
 
