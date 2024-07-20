@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Videos](https://xhamster.com/)
     * [Best Videos](https://xhamster.com/best/weekly)
-    * [Moments](https://xhamster.com/moments/obscure-cult-ill-make-you-crave-for-have-more-let-yourself-be-enclosed-from-the-cult-serving-me-the-cult-in-the-darkbrat-depths-in-edge-from-today-live-in-your-mind-and-makes-your-dream-wet-show-xh1Gcaf)
+    * [Moments](https://xhamster.com/moments/hot-striptease-xhWuLe4)
     * [Watch History](https://xhamster.com/my/watch-history)
     
     * [British](https://xhamster.com/categories/british)
@@ -39,7 +39,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
     
     * [All categories](https://xhamster.com/categories)
 * [0](https://xhamster.com/my/subscriptions)
-* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22i%22%2C%22v%22%3A5%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6675443b3f5395.08779845031&xhSessionToken=6d4bc20e9bf8169e12dac102f987ca7646df0175&xhSessionStartedAt=1718961211)
+* [Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&exp=%7B%221802%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A11%7D%2C%223001%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A5%7D%2C%223002%22%3A%7B%22g%22%3A%22d%22%2C%22v%22%3A5%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%7D&xhStatsUid=669ba97b0fcec8.2605144122d&xhSessionToken=ebf1bb3bb9c14c9f52691db36382aa94400a1b97&xhSessionStartedAt=1721477499)
 * [Categories](https://xhamster.com/categories)
     * [British](https://xhamster.com/categories/british)
     * [Mature](https://xhamster.com/categories/mature)
@@ -72,7 +72,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
     
     * [All categories](https://xhamster.com/photos/categories)
 *  [![Sex Chat](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/flirtify.svg) Sex Chat](https://flirtify.com/?utm_source=xhamster&utm_medium=menu&utm_campaign=guest&utm_content=otherPages)
-*  [![Fap Porn - High-quality Porn Videos](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg) Paid Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
+*  [![Faphouse](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg) Paid Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
 * [Dating](https://xhamster.com/dating)
 * * [Channels](https://xhamster.com/channels)
     * [Photos](https://xhamster.com/photos)
@@ -83,14 +83,14 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[](https://faphouse.com/join?utm_source=xhamster-headline&utm_campaign=fathersday2024&utm_medium=desktop-headline)
+[](https://flirtify.com/?utm_source=xhamster-headline)
 
-[DAD'S SPECIAL DAY SALE! 🔥 Grab your exclusive discount](https://faphouse.com/join?utm_source=xhamster-headline&utm_campaign=fathersday2024&utm_medium=desktop-headline) [Join Faphouse • 50% OFF](https://faphouse.com/join?utm_source=xhamster-headline&utm_campaign=fathersday2024&utm_medium=desktop-headline)
+[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette](https://flirtify.com/?utm_source=xhamster-headline) [JOIN FOR FREE](https://flirtify.com/?utm_source=xhamster-headline)
 
 Privacy Policy
 ==============
 
-Effective Date: June 21, 2024
+Effective Date: July 20, 2024
 
 Last Modified: January 04, 2024
 
@@ -125,7 +125,7 @@ Last Modified: January 04, 2024
     1. ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-1.png) ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-2.png) ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-3.png) ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-4.png) ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-5.png) ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-6.png) ![Who we are 3.1](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_1-7.png)
         
     2. ![Who we are 3.2](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_2-1.png) ![Who we are 3.2](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_2-2.png) ![Who we are 3.2](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_2-3.png) ![Who we are 3.2](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_2-4.png) ![Who we are 3.2](https://static-ah.xhcdn.com/xh-desktop/images/privacy/3_2-5.png)
-    3. For any inquiries about this Privacy Policy or your personal data, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact), and select the 'Privacy/GDPR request' option.
+    3. For any inquiries about this Privacy Policy or your personal data, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact) and select the 'Privacy/GDPR Requests' option.
 4. When do we collect your personal data
     -------------------------------------
     
@@ -326,7 +326,7 @@ Last Modified: January 04, 2024
         4. Within our services and by using your account, we offer the possibility to conveniently create accounts on various platforms with whom we have contractual relationships, as described in clause 8 of this Privacy Policy. If you have created one or more accounts on third party platforms using the technology described above and wish to delete your account from our Website, you will also lose access to the services provided by those third parties (if applicable). In other words, if we delete your personal data and account on our Website, you will also lose access to services provided by such third party(ies) and any subscriptions or purchases made on such third party(ies) platforms (if applicable).
         5. To fulfill your request, we may need to request additional information from you to verify your identity. This is a security measure to ensure that we are acting upon the request of the correct natural person and in order to protect the privacy and security of your personal data.
     3. We will address your request regarding your rights within a maximum period of thirty (30) days, taking into account the specific circumstances and complexity of the request. Please note that this period may be extended by two (2) further months where necessary, taking into account the complexity and number of the requests.
-    4. If you wish to exercise any of your rights or if you have any questions regarding the use of your personal data, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact), and select the 'Privacy/GDPR request' option.
+    4. If you wish to exercise any of your rights or if you have any questions regarding the use of your personal data, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact) and select the 'Privacy/GDPR Requests' option.
 15. How to access or modify your personal data
     ------------------------------------------
     
@@ -343,7 +343,7 @@ Last Modified: January 04, 2024
     -------------------------
     
     1. Our Website is intended for use by individuals who are at least eighteen (18) years old or have reached the age of majority as defined by the jurisdiction from which they access the Website, whichever is higher. We do not knowingly collect any personal data from individuals who are considered minors.
-    2. If you become aware that a minor has attempted to provide us with their personal data in any way, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact), select the 'Report Violation of Our Rules' option and then select the 'Personal Data / Privacy Violation' option, and we will take immediate action to delete such information.
+    2. If you become aware that a minor has attempted to provide us with their personal data in any way, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact), select the 'Report Violation of Our Rules’ option and then select the ‘Personal Data / Privacy Violation’ option, and we will take immediate action to delete such information.
 17. Cookies
     -------
     
@@ -363,7 +363,7 @@ Last Modified: January 04, 2024
         5. The right to correct inaccurate personal information we have about you;
         6. The right to limit the use and disclosure of sensitive personal information collected about you.
         7. You also have the ability to designate an agent to exercise your CCPA rights, provided that a duly executed notarized power of attorney is provided and that the agent possesses sufficient information for us to verify the Consumer’s identity and locate their personal information within our systems.
-    2. This Website has not sold personal information to third parties for monetary or other valuable considerations in the past twelve (12) months. We respect the right of California residents to opt out of the sharing or selling their personal information. If you are subject to the CCPA and wish to communicate this choice, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact), and select the 'Privacy/GDPR request' option.
+    2. This Website has not sold personal information to third parties for monetary or other valuable considerations in the past twelve (12) months. We respect the right of California residents to opt out of the sharing or selling their personal information. If you are subject to the CCPA and wish to communicate this choice, please contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact) and select the 'Privacy/GDPR Requests' option.
 20. Notice regarding the Digital Millennium Copyright Act
     -----------------------------------------------------
     
@@ -374,7 +374,7 @@ Last Modified: January 04, 2024
 21. Your right to lodge a complaint
     -------------------------------
     
-    1. If you have any questions about this Privacy Policy or would like to lodge a complaint regarding the Company's use of your personal data, you may contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact), and select the 'Privacy/GDPR request' option. Once we receive your complaint, we will investigate and provide you with a response within a reasonable timeframe.
+    1. If you have any questions about this Privacy Policy or would like to lodge a complaint regarding the Company's use of your personal data, you may contact us through our [Contact us/Single point of contact](https://xhamster.com/info/contact) and select the 'Privacy/GDPR Requests' option. Once we receive your complaint, we will investigate and provide you with a response within a reasonable timeframe.
     2. You also have the right to lodge a complaint to the data protection supervisory authority of your country of residence, provided that it is a Member State of the European Union or located within the EEA.
 22. Changes to this Privacy Policy
     ------------------------------
@@ -393,6 +393,7 @@ Last Modified: January 04, 2024
 
 * [FAQ](https://xhamster.com/info/faq)
 * [Contact us](https://xhamster.com/info/contact)
+* [Content Removal](https://xhamster.com/info/contact?subject=abuse)
 * [Improve xHamster](https://xhamster.uservoice.com/)
 
 ### Legal
@@ -407,7 +408,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
