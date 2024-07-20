@@ -1,55 +1,5 @@
 [](#)
 
-**WE’VE GONE BACK TO GREAT!**To Celebrate Our Rebrand Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024.
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-**WE’VE GONE BACK TO GREAT!**Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-[](#)
-
-**WE’VE GONE BACK TO GREAT!**To Celebrate Our Rebrand Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024.
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-**WE’VE GONE BACK TO GREAT!**Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-[](#)
-
-**WE’VE GONE BACK TO GREAT!**To Celebrate Our Rebrand Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024.
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-**WE’VE GONE BACK TO GREAT!**Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-[](#)
-
-**WE’VE GONE BACK TO GREAT!**To Celebrate Our Rebrand Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024.
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-**WE’VE GONE BACK TO GREAT!**Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-[](#)
-
-**WE’VE GONE BACK TO GREAT!**To Celebrate Our Rebrand Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024.
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-**WE’VE GONE BACK TO GREAT!**Save More Than 50% Off the Monthly Plan with this Annual Plan Special Offer. Offer Ends 6/30/2024
-
-[Learn More](https://www.wondrium.com/customer/plans)
-
-[](#)
-
 You updated your password.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
@@ -1239,7 +1189,7 @@ Gifting Options
 
 © The Teaching Company Sales, LLC. All rights reserved.
 
-![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1718025815/frontend/Wondrium/default/en_US/images/logo.svg)
+![The Great Courses Plus](https://www.thegreatcoursesplus.com/static/version1721231583/frontend/Wondrium/default/en_US/images/logo.svg)
 
 New Password Required
 
