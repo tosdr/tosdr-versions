@@ -925,9 +925,9 @@ By submitting this form, I provide my signature, expressly consenting to calls, 
 
 Related Information
 
-* [How School Music Programs Enhance Child...](https://www.waldenu.edu/education-specialist/eds-in-early-childhood-education/resource/how-school-music-programs-enhance-child-development)
-* [Getting Ready to Apply? Here’s What You Need to Know](https://www.waldenu.edu/admissions/resource/getting-ready-to-apply)
-* [5 Traits of Great School Principals](https://www.waldenu.edu/education-specialist/resource/five-traits-of-great-school-principals)
+* [Walden University Consumer Information Summary...](https://www.waldenu.edu/legal/consumer-information)
+* [Net Price Calculator](https://www.waldenu.edu/financial-aid/price-calculator)
+* [MS in Data Science](https://www.waldenu.edu/online-masters-programs/ms-in-data-science)
 
 ![triangle background](/themes/custom/wal_base/images/svg/triangle.svg)
 
