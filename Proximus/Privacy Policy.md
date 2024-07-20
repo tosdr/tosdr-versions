@@ -47,7 +47,6 @@ Fermer la boîte de message
 Rechercher
 
 Recherches populaires
----------------------
 
 * [iphone 15](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=iphone%2015)
 * [doro](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=doro)
@@ -55,7 +54,6 @@ Recherches populaires
 * [facture](https://www.proximus.be/fr/id_search-private-ES/particuliers/p-orphans/pdr-part.html?q=facture)
 
 Aide
-----
 
 [Un problème avec la TV ?](https://www.proximus.be/support/fr/id_sfaqr_trouble_global_tv/particuliers/support/television/resoudre-un-probleme-tv/problemes-tv/un-probleme-pour-regarder-la-tv.html)  
 Vous avez un problème avec votre télévision ? Votre TV Box ne répond plus ou votre écran TV est noir ?
@@ -72,25 +70,22 @@ Consulter vos factures et les visualiser en détail dans MyProximus. Vous pouvez
 [Voir toute l'aide](https://www.proximus.be/support/fr/id_zwpr_support/particuliers/support.html)
 
 Top smartphones
----------------
 
-Samsung
+[Samsung
 
 ### Galaxy S24
 
 128 GB
 
 ~instead of €899.99~  
-€ 9 avec abonnement
+€ 9 avec abonnement](https://www.proximus.be/fr/id_cr_samsung-galaxy-s24-128gb-violet/personal/equipment/shop/samsung-galaxy-s24-128gb-violet.html?ot=JO)
 
-Apple
-
-### iPhone 15
+[### iPhone 15
 
 128 GB
 
 ~instead of €969.99~  
-€ 9 avec abonnement
+€ 9 avec abonnement](https://www.proximus.be/fr/id_cr_apple-iphone-15-128gb-black/personal/equipment/shop/apple-iphone-15-128gb-black.html?ot=JO)
 
 [Voir tous les smartphones](https://www.proximus.be/fr/id_cr_device_finder/particuliers/equipement/boutique.html#/?offerType=jointoffer)
 
@@ -480,7 +475,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
