@@ -6,11 +6,11 @@
 
 * [Flight](#)
     
-    [Book a Flight](https://mobile.southwest.com/air/booking/shopping)[Low Fare Calendar](https://mobile.southwest.com/air/booking/shopping?useLowFareCalendar=true&clk=GNAVLFC&ref=RESPONSIVE)[Check In](https://mobile.southwest.com/check-in)[Track Checked Bags](https://southwest-bags.com/?returnToURL=https%3A%2F%2Fmobile%2Esouthwest%2Ecom%2F&helpCenterURL=https%3A%2F%2Fsouthwest%2Ecom%2Fhelp%2Fbaggage%2Fchecked-baggage&clk=GNAVTRKBAGS) [Flight Status](https://mobile.southwest.com/flight-status)[Manage Reservations](https://mobile.southwest.com/view-reservation)[Upgrade to Business Select](https://mobile.southwest.com/air/upgrade)[Add EarlyBird Check-In®](https://mobile.southwest.com/earlybird/checkin)[Upgraded Boarding](https://mobile.southwest.com/upgraded-boarding/?clk=GNAVUPBRD)[Check Travel Funds](https://mobile.southwest.com/travel-funds/look-up?clearFormData=false&cleanFlow=true)[Route Map](https://www.southwest.com/route-map/?&ref=RESPONSIVE&clk=GNAVRTEMAP)[Buy Carbon Offsets](https://www.southwest.com/carbon-offset-program/?clk=GNAVCARBON&ref=RESPONSIVE)[Fare Types and Benefits](https://www.southwest.com/airfare-types-benefits/?clk=GNAVFARETYPES&ref=RESP)
+    [Book a Flight](https://mobile.southwest.com/air/booking/)[Low Fare Calendar](https://mobile.southwest.com/air/booking/?useLowFareCalendar=true&clk=GNAVLFC&ref=RESPONSIVE)[Check In](https://mobile.southwest.com/air/check-in/)[Track Checked Bags](https://southwest-bags.com/?returnToURL=https%3A%2F%2Fmobile%2Esouthwest%2Ecom%2F&helpCenterURL=https%3A%2F%2Fsouthwest%2Ecom%2Fhelp%2Fbaggage%2Fchecked-baggage&clk=GNAVTRKBAGS) [Flight Status](https://mobile.southwest.com/air/flight-status/)[Manage Reservations](https://mobile.southwest.com/air/manage-reservation/)[Upgrade to Business Select](https://mobile.southwest.com/air/upgrade/)[Add EarlyBird Check-In®](https://mobile.southwest.com/early-bird/)[Upgraded Boarding](https://mobile.southwest.com/upgraded-boarding/?clk=GNAVUPBRD)[Check Travel Funds](https://mobile.southwest.com/travel-funds/?clearFormData=false&cleanFlow=true)[Route Map](https://www.southwest.com/route-map/?ref=RESPONSIVE&clk=GNAVRTEMAP)[Buy Carbon Offsets](https://www.southwest.com/carbon-offset-program/?clk=GNAVCARBON&ref=RESPONSIVE)[Fare Types and Benefits](https://www.southwest.com/airfare-types-benefits/?clk=GNAVFARETYPES&ref=RESP)
     
 * [Car](#)
     
-    [Book a Car](https://mobile.southwest.com/car/booking)[Lookup Reservations](https://mobile.southwest.com/view-reservation)
+    [Book a Car](https://mobile.southwest.com/car/booking/)[Lookup Reservations](https://mobile.southwest.com/car/manage-reservation/)
     
 * [Hotel](#)
     
@@ -27,14 +27,14 @@
     
 * [Redeem Points](#)
     
-    [How to Redeem](https://www.southwest.com/rapid-rewards/points/how-to-redeem/?clk=GNAV-HOW-TO-REDEEM&ref=RESPONSIVE)[Redeem for Flights](https://mobile.southwest.com/air/booking/shopping?tripType=RT&clk=GNAV-REDEEM-FLIGHTS&currencyType=PTS&ref=RESPONSIVE)[Redeem for Hotels](http://hotels.redeemrapidrewards.com/?utm_source=mobile.southwest.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-hotel&utm_content=redeem-for-hotels) [Redeem for Car Rentals](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-CAR-RENTALS&ref=RESPONSIVE&Path=punchout%2F_%2FA-25714%3Fcid%3Dswa_car_rental_25714&)[Gift Cards & Merchandise](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-GIFTCARD&ref=RESPONSIVE)[Cardmember Events](https://www.southwest.com/rapidrewards/maritz-validate?Path=RapidRewards%3Fp%3DAuctions%26cid%3DSWArewardspotlight_may2022_events&clk=GNAV-REDEEM-CM-EVENTS&ref=RESPONSIVE)
+    [How to Redeem](https://www.southwest.com/rapid-rewards/points/how-to-redeem/?clk=GNAV-HOW-TO-REDEEM&ref=RESPONSIVE)[Redeem for Flights](https://mobile.southwest.com/air/booking/?tripType=RT&clk=GNAV-REDEEM-FLIGHTS&currencyType=PTS&ref=RESPONSIVE)[Redeem for Hotels](http://hotels.redeemrapidrewards.com/?utm_source=mobile.southwest.com&utm_medium=text-link&utm_campaign=partner-placement&utm_term=global-navigation-hotel&utm_content=redeem-for-hotels) [Redeem for Car Rentals](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-CAR-RENTALS&ref=RESPONSIVE&Path=punchout%2F_%2FA-25714%3Fcid%3Dswa_car_rental_25714&)[Gift Cards & Merchandise](https://www.southwest.com/rapidrewards/maritz-validate?clk=GNAV-REDEEM-GIFTCARD&ref=RESPONSIVE)[Cardmember Events](https://www.southwest.com/rapidrewards/maritz-validate?Path=RapidRewards%3Fp%3DAuctions%26cid%3DSWArewardspotlight_may2022_events&clk=GNAV-REDEEM-CM-EVENTS&ref=RESPONSIVE)
     
 
 * [Special Offers](https://www.southwest.com/special-offers/?clk=GNAVSPOFFERS&ref=RESPONSIVE)
 
 * [Flying Southwest](#)
     
-    [About Southwest](https://mobile.southwest.com/flying-southwest)[Flying With Us](https://www.southwest.com/flying-with-southwest/?clk=GNAVMOBFLYWITHUS)[Route Map](https://www.southwest.com/route-map/&ref=RESPONSIVE&clk=GNAVRTEMAP)[New Destinations](https://www.southwest.com/destinations/route-expansion?clk=gnavnewdest-mweb)[Enroll in Rapid Rewards®](https://mobile.southwest.com/rapid-rewards)[Get Email from Us](https://mobile.southwest.com/email-enroll?cleanFlow=true&clk=GNAVEMAIL)
+    [About Southwest](https://www.southwest.com/flying-with-southwest/)[Flying With Us](https://www.southwest.com/flying-with-southwest/?clk=GNAVMOBFLYWITHUS)[Route Map](https://www.southwest.com/route-map/?ref=RESPONSIVE&clk=GNAVRTEMAP)[New Destinations](https://www.southwest.com/destinations/route-expansion?clk=gnavnewdest-mweb)[Enroll in Rapid Rewards®](https://mobile.southwest.com/rapid-rewards/)[Get Email from Us](https://mobile.southwest.com/email-enroll?cleanFlow=true&clk=GNAVEMAIL)
     
 
 * [Business Travel](#)
