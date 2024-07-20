@@ -225,7 +225,7 @@ This policy was last modified on March 14, 2023.
 * [Terms](https://www.xfire.com/terms/)
 * [Contact](https://www.xfire.com/contact/)
 
-Contact Xfire: PO Box 67003, Mt Eden, Auckland 1349, NZ | +1 (401) 526-2881 | [\[email protected\]](https://www.xfire.com/cdn-cgi/l/email-protection)
+**Contact Xfire:** 4660 Cosley Dr, Las Vegas, NV 89147 | +1 (401) 526-2881 | [\[email protected\]](https://www.xfire.com/cdn-cgi/l/email-protection)
 
 Copyright © 2024 Xfire.com. "Xfire" is a trademark of Enoki Limited. [](https://www.facebook.com/xfiregaming/ "Facebook")| [](https://twitter.com/xfire_com "Twitter")| [](https://www.tiktok.com/@xfire.com "TikTok")| [](https://www.youtube.com/channel/UCQwDZ7LBviwRSJdRW1clayA "Youtube")| [](https://www.linkedin.com/company/enoki-ltd/ "LinkedIn")| [](https://news.google.com/publications/CAAqBwgKMN3Xnwsw6uG3Aw "Google News")| [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
 
