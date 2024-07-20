@@ -275,7 +275,7 @@ We may transfer the personal information we collect about you through our Servic
   
 We participate in the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the UK Extension to the EU-U.S. Data Privacy Framework for data received in the United States from the European Union, Switzerland, or the United Kingdom.
 
-For more information access our [Data Privacy Framework Policy.](https://www.footlocker-inc.com/content/flinc-aem-site/en/privacy-shield.html)
+For more information access our [Data Privacy Framework Policy.](https://www.footlocker-inc.com/content/flinc-aem-site/en/data-privacy-framework.html)
 
 Was this article helpful?
 
