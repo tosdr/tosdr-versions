@@ -337,7 +337,7 @@ Verywell Mind's content is for informational and educational purposes only. Our 
 
 Ⓒ 2024 Dotdash Media, Inc. — All rights reserved
 
-Verywell Mind is part of the [Dotdash Meredith](https://www.dotdashmeredith.com/) publishing family.
+Verywell Mind is part of the [Dotdash Meredith](https://www.dotdashmeredith.com/) publishing family.
 
 We Care About Your Privacy
 --------------------------
