@@ -137,6 +137,8 @@ If you need to get our attention about anything else security related, please do
 
 ![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/645d2ae6d9658d2cd3608470_Tree%20Logo%20Buttermilk.svg)
 
+![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/667c60faafec2b8470e5c372_20th_anniversary_logo_partial%20(1).svg)
+
 [Facebook Icon](https://www.facebook.com/ynabofficial)[The artist formerly known as Twitter](https://twitter.com/ynab)[Instagram Icon](https://www.instagram.com/youneedabudget/)[Pinterest Icon](https://www.pinterest.com/ynabofficial/)[TikTok Icon](https://www.tiktok.com/@ynabofficial)[YouTube Icon](https://www.youtube.com/@YNABofficial)[Apple Podcasts Icon](https://podcasts.apple.com/ca/podcast/you-need-a-budget-ynab/id477248343)[RSS Icon](https://www.youneedabudget.com/blog/rss.xml)
 
 Copyright © 2024, YNAB. All Rights Reserved.
