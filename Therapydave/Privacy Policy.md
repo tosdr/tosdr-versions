@@ -1,21 +1,21 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+[![TherapyDave – Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
 
-Dave Lechnyr, LCSW
+TherapyDave - Dave Lechnyr, LCSW
 
 Individual Therapy & Couples Counseling in Eugene, Oregon
 
 * [Home](https://therapydave.com/)
 * [About](https://therapydave.com/about-eugene-psychotherapist/)
 * [Eugene, Oregon](https://therapydave.com/therapist-eugene-oregon/)
-* [Therapist Services](https://therapydave.com/eugene-therapist-services/)
+* [Services](https://therapydave.com/eugene-therapist-services/)
     * [Couples Therapy](https://therapydave.com/couples-therapy/)
     * [Discernment Counseling](https://therapydave.com/discernment-counseling/)
     * [Toxic Relationship Recovery](https://therapydave.com/toxic-relationship-recovery/)
     * [Individual Therapy](https://therapydave.com/eugene-psychotherapy/)
-* [Rates](https://therapydave.com/therapist-rates-fees-insurance/)
+* [Rates](https://therapydave.com/rates-insurance/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
 * [Contact](https://therapydave.com/contact/)
 * [Request Appointment](https://therapydave.com/therapist-appointments/)
@@ -25,85 +25,110 @@ You are here: [Home](https://therapydave.com/) / Privacy Policy
 Privacy Policy
 ==============
 
-_Last updated: January 10, 2023_
+_Last updated: July 14, 2024_
 
-Welcome to the website, [therapydave.com](https://therapydave.com/)! This Privacy Policy explains how I (on behalf of TherapyDave) collect, use, and disclose information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service & Use](https://therapydave.com/terms/), which is hereby expressly incorporated into this document by reference.
+This Privacy Policy explains how TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms & Conditions](https://therapydave.com/terms/), which is hereby expressly incorporated into this document by reference.
 
 HIPAA Notice of Privacy Practices
 ---------------------------------
 
-**If you are considering receiving mental health services as a client, please refer to my [HIPAA Notice of Privacy Practices](https://therapydave.com/privacy.pdf) for the specific terms and rights that apply to you.**
+If you are considering receiving mental health services as a client, please refer to the [HIPAA Notice of Privacy Practices](https://therapydave.com/privacy.pdf) for the specific terms and rights that apply to you.
 
-How I Use Your Information
---------------------------
+How We Use Your Information
+---------------------------
 
-As you use this website, your personal information may be collected directly from you and automatically from your web browser’s information. Primarily, I use and collect the following information:
+As you use this website, your personal information may be collected directly from you and automatically from your web browser’s information. Primarily, we use and collect the following information:
 
-* When you sign up for a newsletter, waiting list, or fill out a form, I will store your name and email in order to be able to communicate with you. You can opt out of receiving these by contacting me directly.
-* I store any comments or feedback you provide me for the purpose of improving the content of this website.
-* I collect analytics with Google Analytics to measure site traffic and usage. You may [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
+* When you sign up for a newsletter, waiting list, or fill out a form, we will store your name and email in order to be able to communicate with you. You can opt out of receiving these by contacting me directly.
+* We store any comments or feedback you provide us for the purpose of improving the content of this website.
+* We collect analytics with Google Analytics to measure site traffic and usage. You may [opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
+* We use your information to personalize your experience on the website and to provide customer support.
 
-How I Share and Disclose Your Information
------------------------------------------
+How We Share and Disclose Your Information
+------------------------------------------
 
-I may share your information in the following circumstances:
+We may share your information in the following circumstances:
 
-* I may share your information publicly, but only with your permission. For example, with your permission, I may publicly post your photograph, your name, professional titles, and comments on this website.
-* I may share your information with companies that provide services for me, such as hosting, marketing and communication services, and payment processing (“Service Providers”). My policy is to authorize these Service Providers to use your information only as necessary to provide services for me, and require that they not use or disclose your information for any other purpose.
-* From time to time, I may be required to provide your information to a third party in order to comply with a subpoena, court order, government investigation, or similar legal process.
+* We may share your information publicly, but only with your permission. For example, with your permission, we may publicly post your photograph, your name, professional titles, and comments on this website.
+* We may share your information with companies that provide services for us, such as hosting, marketing and communication services, and payment processing (“Service Providers”). Our policy is to authorize these Service Providers to use your information only as necessary to provide services for us, and require that they not use or disclose your information for any other purpose.
+* From time to time, we may be required to provide your information to a third party in order to comply with a subpoena, court order, government investigation, or similar legal process.
+* We will not, under any circumstance, sell your personal information.
+* We may share aggregated or anonymized information that does not directly identify you.
 
-I will not, under any circumstance, sell your personal information.
+Data Retention
+--------------
+
+We retain your personal information for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or depersonalize it so that it cannot be linked back to you.
+
+User Rights and Choices
+-----------------------
+
+Depending on your location and applicable laws, you may have the following rights regarding your personal information:
+
+* The right to access the personal information we hold about you.
+* The right to request correction of inaccurate personal information we hold about you.
+* The right to request deletion of your personal information.
+* The right to object to our processing of your personal information.
+* The right to request the restriction of processing of your personal information.
+* The right to data portability.
+
+Children’s Privacy
+------------------
+
+Protecting the privacy of young children is especially important. Our website is not intended for children under the age of 18, and we do not knowingly collect or solicit personal data from anyone under the age of 18. If you are under 18, please do not use or provide any information on this website. If we learn that we have collected personal data from a child under 18 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us using the information provided below.
 
 Cookies
 -------
 
 A cookie is a small piece of text sent to your web browser by a website you visit. It helps a website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the internet would be much more frustrating.
 
-I use cookies for many purposes. I use them, for example, to remember your preferences, to count how many visitors I receive to a page, to help you sign up for my services, or to protect your data.
+We use cookies for many purposes. For example, we use them to remember your preferences, to count how many visitors we receive to a page, to help you sign up for our services, or to protect your data. You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](https://www.aboutcookies.org/).
 
 Security
 --------
 
-This website has reasonable security measures in place to protect against the loss, misuse or alteration of information under my control.
-
-Children’s Privacy (COPPA)
---------------------------
-
-This website is not directed at children under the age of 18. I am in compliance with the Children’s Online Privacy Protection Act and do not knowingly permit submission of any personal information by anyone under 18 years of age.
+This website has reasonable security measures in place to protect against the loss, misuse, or alteration of information under our control.
 
 Non-US Visitors
 ---------------
 
-I am committed to complying with this Privacy Policy and the data protection laws that apply to our collection and use of your personal information. I am located in the United States where the laws may be different and, in some cases, less protective than the laws of other countries. By providing me with your information and using this website, you acknowledge that your personal information will be transferred to and processed in the United States and other countries where I and my vendors operate.
+We are committed to complying with this Privacy Policy and the data protection laws that apply to our collection and use of your personal information. We are located in the United States where the laws may be different and, in some cases, less protective than the laws of other countries. By providing us with your information and using this website, you acknowledge that your personal information will be transferred to and processed in the United States and other countries where we and our vendors operate.
+
+You have the right to request access to, correction of, or deletion of your personal information as required by applicable law.
 
 Links to Other Sites
 --------------------
 
-This website contains links to other websites. These links are for your convenience, however I make no representations whatsoever regarding these other websites. You should review the privacy policies of these other websites carefully before providing any information to them. Not surprisingly, I am not responsible for the privacy policies or procedures or the content of any other site.
+This website contains links to other websites. These links are for your convenience, however, we make no representations whatsoever regarding these other websites. You should review the privacy policies of these other websites carefully before providing any information to them. We are not responsible for the privacy policies or procedures or the content of any other site.
 
 Embedded Content from Other Websites
 ------------------------------------
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if a visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
+Contact Information
+-------------------
+
+If you have any questions or concerns about this Privacy Policy or our data practices, or if you wish to exercise your rights regarding your personal data, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
+
 Changes to This Policy
 ----------------------
 
-I may change this Privacy Policy from time to time. If I make changes, I will notify you by revising the date on this policy. I encourage you to review my Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about my information practices and the ways you can help protect your privacy.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-Ready to get started? [Request an Appointment Today](https://therapydave.com/therapist-appointments/)
+[Get Started Now](https://therapydave.com/therapist-appointments/)
 
   
 
-“Dave asks questions that get to the root of the problem but doesn't stop there. He offers suggestions, options or will discuss pros and cons about solutions you might have in mind. He researches things and always gets back to you with an answer.”
+“To be honest, I was scared that couples therapy would just give us another place to fight and make things worse between us. But I was completely wrong. Instead, my wife and I learned how to really talk and listen to each other. We started working together as a team instead of always butting heads. Therapy didn't just help us fix our problems - it actually made our relationship stronger and showed us how to be better partners for each other. I'm really glad we gave it a chance because it's made a big difference in our marriage and our happiness together.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
- [![Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
+ [![TherapyDave - Dave Lechnyr, LCSW](https://therapydave.com/wp-content/uploads/therapydave_227x85w.png)](https://therapydave.com/)
 
 Dave Lechnyr, LCSW  
-2440 Willamette St #101-C  
-Eugene, OR 97405  
+2440 Willamette Street, Suite 101-C  
+Eugene, OR 97405-3170  
 541-705-4666  
   
 _If you are in a crisis or dangerous situation, you can [get immediate help](https://therapydave.com/mental-health-crisis-resources/)._
@@ -111,10 +136,11 @@ _If you are in a crisis or dangerous situation, you can [get immediate help](htt
 * [Terms](https://therapydave.com/terms/)
 * [Privacy](https://therapydave.com/privacy/)
 * [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
+* [Release of Information](https://therapydave.com/roi.pdf)
 * [Client Portal](https://clients.therapydave.com/)
 
-Certified Gottman Therapist in Eugene, Oregon.
+Helping you become the best version of yourself
 
-[More Info](https://therapydave.com/therapist-appointments/)
+[I'm Ready to Start Now](https://therapydave.com/therapist-appointments/)
 
 X
