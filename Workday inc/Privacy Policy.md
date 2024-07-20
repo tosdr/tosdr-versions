@@ -97,13 +97,15 @@ Skip to main content
                     
                 * #### [Workday Extend](https://www.workday.com/en-us/products/platform-product-extensions/app-development.html "Workday Extend")
                     
-        * * ### [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday")
-                
-            * ### [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business")
+        * * ### [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
                 
             * ### [Enterprise Management Cloud](https://www.workday.com/en-us/products/suite.html "Enterprise Management Cloud")
                 
             * ### [Marketplace](https://marketplace.workday.com/en-US/home "Marketplace")
+                
+            * ### [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business")
+                
+            * ### [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday")
                 
     * Industries
         ----------
@@ -362,7 +364,7 @@ Skip to main content
     * [Workday Careers](https://www.workday.com/en-us/company/careers/overview.html "Workday Careers")
     * [Workday Rising](https://rising.workday.com/us.html?eid=enus_evt_otrschref_wd_wd_wd_ev_22.3340&utm_medium=evt&utm_source=otrschref&productfocus=wd&aud=wd&assettype=ev&assetid=22.3340&pblr=wd&reference=wdqsrch "Workday Rising")
     * [How Workday Supports Diversity and Inclusion](https://www.workday.com/en-us/solutions/role/enterprise-hr/diversity-inclusion-belonging-solutions.html "How Workday Supports Diversity and Inclusion")
-    * [Artificial Intelligence](https://www.workday.com/en-us/why-workday/our-technology/artificial-intelligence.html "Artificial Intelligence")
+    * [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence")
     * [Workday Demos](https://www.workday.com/en-us/resources/workday-demos.html "Workday Demos")
     * [Why Choose Workday](https://www.workday.com/en-us/why-workday.html "Why Choose Workday")
     
@@ -655,6 +657,7 @@ Products Products
 * [For HR](https://www.workday.com/en-us/solutions/role/enterprise-hr/overview.html "For HR ")
 * [For Planning](https://www.workday.com/en-us/products/adaptive-planning/overview.html "For Planning ")
 * [Platform](https://www.workday.com/en-us/solutions/role/enterprise-technology/overview.html "Platform ")
+* [Artificial Intelligence](https://www.workday.com/en-us/artificial-intelligence.html "Artificial Intelligence ")
 * [Why Workday](https://www.workday.com/en-us/why-workday.html "Why Workday ")
 * [Solutions for Small & Midsize Business](https://www.workday.com/en-us/solutions/organization-size/medium-enterprise/overview.html "Solutions for Small & Midsize Business ")
 * [Enterprise Management Cloud](https://www.workday.com/en-us/products/suite.html "Enterprise Management Cloud ")
