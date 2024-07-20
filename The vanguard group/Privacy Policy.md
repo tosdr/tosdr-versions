@@ -110,7 +110,9 @@ We will notify you of our online privacy notice as required by law. We reserve t
 
 If you have questions about the way in which we have handled information about you, please do not hesitate to send us an email at [privacy@vanguard.com](mailto:privacy@vanguard.com).
 
-Last updated:  May 2024.
+This email link is for privacy related issues. If you need assistance with your existing account, please [click here](https://corporate.vanguard.com/content/corporatesite/us/en/corp/contact-us.html) for contact information.
+
+Last updated:  June 2024.
 
 We take your privacy seriously
 ------------------------------
