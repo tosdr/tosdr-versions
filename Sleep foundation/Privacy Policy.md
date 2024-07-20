@@ -23,7 +23,6 @@ SLEEP PRODUCTS
         * [Best Memory Foam Mattress](https://www.sleepfoundation.org/best-mattress/best-memory-foam-mattress)
         * [Best Hybrid Mattress](https://www.sleepfoundation.org/best-mattress/best-hybrid-mattress)
         * [Best Cooling Mattress](https://www.sleepfoundation.org/best-mattress/best-cooling-mattress)
-        * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
         * [Best Mattress in a Box](https://www.sleepfoundation.org/best-mattress/best-mattress-in-a-box)
         * [Best Cheap Mattress](https://www.sleepfoundation.org/best-mattress/best-cheap-mattress)
         * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
@@ -79,8 +78,8 @@ SLEEP PRODUCTS
     * [Get Sleep Tested](https://www.sleepfoundation.org/sleep-studies/at-home-sleep-apnea-test)
     * Sleep Therapy
         * [The Best CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines)
-        * [Best Travel CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines/best-travel-cpap-machines)
-        * [Top-Rated CPAP Masks](https://www.sleepfoundation.org/best-cpap-masks)
+        * [Best Travel CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines/best-travel-cpap-machine)
+        * [Top-Rated CPAP Masks](https://www.sleepfoundation.org/best-cpap-mask)
         * [The Best Anti-Snoring Mouthpieces](https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards)
         * [Mouth Taping](https://www.sleepfoundation.org/snoring/mouth-taping-for-sleep)
         * [CPAP Alternatives](https://www.sleepfoundation.org/sleep-apnea/alternatives-to-cpap)
@@ -115,7 +114,6 @@ SLEEP HEALTH & WELLNESS
             * [Best Memory Foam Mattress](https://www.sleepfoundation.org/best-mattress/best-memory-foam-mattress)
             * [Best Hybrid Mattress](https://www.sleepfoundation.org/best-mattress/best-hybrid-mattress)
             * [Best Cooling Mattress](https://www.sleepfoundation.org/best-mattress/best-cooling-mattress)
-            * [Best Firm Mattress](https://www.sleepfoundation.org/best-mattress/best-firm-mattress)
         * OTHER
             * [Best Mattress in a Box](https://www.sleepfoundation.org/best-mattress/best-mattress-in-a-box)
             * [Best Cheap Mattress](https://www.sleepfoundation.org/best-mattress/best-cheap-mattress)
@@ -202,8 +200,8 @@ SLEEP HEALTH & WELLNESS
         
         * CPAP
             * [The Best CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines)
-            * [Best Travel CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines/best-travel-cpap-machines)
-            * [Top-Rated CPAP Masks](https://www.sleepfoundation.org/best-cpap-masks)
+            * [Best Travel CPAP Machines](https://www.sleepfoundation.org/best-cpap-machines/best-travel-cpap-machine)
+            * [Top-Rated CPAP Masks](https://www.sleepfoundation.org/best-cpap-mask)
         * ANTI-SNORING
             * [The Best Anti-Snoring Mouthpieces](https://www.sleepfoundation.org/best-anti-snoring-mouthpieces-and-mouthguards)
             * [Mouth Taping](https://www.sleepfoundation.org/snoring/mouth-taping-for-sleep)
@@ -463,7 +461,7 @@ If you have questions regarding this privacy policy or wish to obtain additional
 
 _Last updated: March 3, 2023_
 
-[![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2023/08/SF_Icon.svg)](https://www.sleepfoundation.org/)
+[![Sleep Foundation Logo](https://www.sleepfoundation.org/wp-content/uploads/2024/07/SF-SD_Logo_Dark-BG.svg)](https://www.sleepfoundation.org/)
 
 * [](https://www.facebook.com/sleepisthefoundation/)
 * [](https://twitter.com/sleepisthefound)
