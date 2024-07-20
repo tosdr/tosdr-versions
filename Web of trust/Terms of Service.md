@@ -1,6 +1,6 @@
 Search
 
-![](/images/icons/flags/US.svg)
+![en-us-flag](/images/icons/flags/US.svg)
 
 English
 
@@ -145,6 +145,10 @@ Download
 © WOT Services LP. All rights reserved
 
 Also available on :
+
+[](https://chrome.google.com/webstore/detail/wot-website-security-brow/bhmmomiinigofkjcapegjjndpbikblnp)[](https://addons.mozilla.org/firefox/addon/wot-safe-browsing-tool)[](https://microsoftedge.microsoft.com/addons/detail/iiclaphjclecagpkkaacljnpcppnoibi)[](https://addons.opera.com/extensions/details/wot/)[](https://apps.apple.com/us/app/wot-safe-browsing/id1557101771)
+
+[](https://play.google.com/store/apps/details?id=com.wot.security&referrer=wot_product%3DWebsite)[](https://itunes.apple.com/app/apple-store/id1451498125?pt=119691152&ct=DownloadB&mt=8)
 
 This site uses cookies for analytics and personalization. By continuing, you agree to our [cookie policy.](https://www.mywot.com/privacy#cookies-&-third-party-tools)
 
