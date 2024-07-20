@@ -10,7 +10,7 @@ Hire Talent
 
 [Developers](https://www.toptal.com/developers)[Designers](https://www.toptal.com/designers)[Marketing Experts](https://www.toptal.com/marketing)[Product Managers](https://www.toptal.com/product-managers)[Project Managers](https://www.toptal.com/project-managers)[Finance Experts](https://www.toptal.com/finance)
 
-[Why](https://www.toptal.com/why)[Clients](https://www.toptal.com/clients)[Blog](https://www.toptal.com/blog)[About Us](https://www.toptal.com/about)
+[Capabilities](https://www.toptal.com/capabilities)[Clients](https://www.toptal.com/clients)[Blog](https://www.toptal.com/blog)[About Us](https://www.toptal.com/about)
 
 * [Apply as a Freelancer](https://www.toptal.com/talent/apply)
 * [Hire Top Talent](https://www.toptal.com/hire)
@@ -482,6 +482,7 @@ Toptal Connects the [Top 3%](https://www.toptal.com/top-3-percent) of Freelance
 Toptal Developers
 -----------------
 
+* [Adobe Commerce (Magento) Developers](https://www.toptal.com/magento)
 * [Algorithm Developers](https://www.toptal.com/algorithms)
 * [Angular Developers](https://www.toptal.com/angular)
 * [AWS Developers](https://www.toptal.com/aws)
@@ -500,7 +501,6 @@ Toptal Developers
 * [Kotlin Developers](https://www.toptal.com/kotlin)
 * [Kubernetes Developers](https://www.toptal.com/kubernetes)
 * [Machine Learning Engineers](https://www.toptal.com/machine-learning)
-* [Magento Developers](https://www.toptal.com/magento)
 * [.NET Developers](https://www.toptal.com/dot-net)
 * [R Developers](https://www.toptal.com/r)
 * [React Native Developers](https://www.toptal.com/react-native)
@@ -634,7 +634,6 @@ Toptal Product Managers
 * [E-commerce Product Managers](https://www.toptal.com/product-managers/ecommerce)
 * [Enterprise Product Managers](https://www.toptal.com/product-managers/enterprise)
 * [Enterprise Resource Planning Product Managers](https://www.toptal.com/product-managers/erp)
-* [Freelance Product Managers](https://www.toptal.com/product-managers/freelance)
 * [Interim CPOs](https://www.toptal.com/product-managers/interim-cpo-a)
 * [Jira Product Managers](https://www.toptal.com/product-managers/jira)
 * [Kanban Product Managers](https://www.toptal.com/product-managers/kanban)
@@ -671,7 +670,6 @@ Toptal Marketing Experts
 * [Influencer Marketers](https://www.toptal.com/marketing/influencer)
 * [Lead Generation Experts](https://www.toptal.com/marketing/lead-generation)
 * [Marketing Analytics Specialists](https://www.toptal.com/marketing/analytics)
-* [Marketing Researchers](https://www.toptal.com/marketing/market-researchers)
 * [Marketing Strategists](https://www.toptal.com/marketing/marketing-strategists)
 * [Mobile App Marketers](https://www.toptal.com/marketing/mobile-app)
 * [Performance Marketers](https://www.toptal.com/marketing/performance)
