@@ -1,6 +1,6 @@
 [![VPN.ac Homepage](/assets/images/logo.svg)](https://vpn.ac/)
 
-[Important OpenVPN / Apps update](https://vpn.ac/announcements/62/Important-OpenVPN-or-Apps-update.html "Important OpenVPN / Apps update")
+[Essential apps updates required](https://vpn.ac/announcements/63/Essential-Apps-updates-update-before-July-09.html "Essential updates: update before July, 09")
 
 [](#)
 
