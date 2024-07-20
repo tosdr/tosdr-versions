@@ -47,7 +47,7 @@ Our security is built to protect data from unauthorized access, theft, or loss w
 
 Do you have a disability that makes it difficult for you to read or use this Privacy Policy in its current form? If so, please do not hesitate to reach out to the Wyoming Registered Agent Services LLC Privacy Team for assistance by email or by phone:
 
-**Email:** agent@wyomingagents.com  
+**Email:** [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)  
 **Phone:** 1-888-704-7214
 
 ### Our Privacy Policy Agreement
@@ -153,7 +153,7 @@ If you exercise your rights under the California Consumer Privacy Act of 2018 (C
 
 In Texas, you have the right to appeal our denial of a request. If we reject your appeal, you may contact the Attorney General at [Consumer Protection | Office of the Attorney General](https://www.texasattorneygeneral.gov/consumer-protection).
 
-If you would like to submit a request about your data, obtain additional information, or appeal our denial of a request, you may do so by emailing agent@wyomingagents.com or by calling our toll free number at 1-888-704-7214.
+If you would like to submit a request about your data, obtain additional information, or appeal our denial of a request, you may do so by emailing [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection) or by calling our toll free number at 1-888-704-7214.
 
 After you submit the request, you will be asked to verify your email address and you may also be asked to provide additional information in order to verify your identity. We will attempt to verify your identity by asking for information that matches the information that we have previously collected about you. Where this is not possible, we may request that you submit additional documentation for verification. Please note that, in accordance with the CCPA, CPRA and or TDPSA we will not be able to satisfy your request until we have verified your identity.
 
@@ -164,7 +164,7 @@ You may designate an authorized agent to make a request on your behalf. In order
 We encourage you to contact us if you have any questions or comments about this Privacy Policy or our privacy practices in general:
 
 Wyoming Registered Agent Services LLC Privacy Team  
-Email: agent@wyomingagents.com  
+Email: [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)  
 Phone: 1-888-704-7214
 
 [Get a Registered Agent – $25](https://www.wyomingagents.com/order-agent) [Form a Company – $150](https://www.wyomingagents.com/order-new-company)
