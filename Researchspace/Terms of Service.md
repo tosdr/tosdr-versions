@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/old-home-2)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
 
 Our product
 
@@ -14,13 +14,13 @@ Your data
 
 [Case Studies](https://www.researchspace.com/case-studies)[Pricing](https://www.researchspace.com/pricing)
 
-Media
+Community
 
-[FAIR Data Podcast](https://www.researchspace.com/fair-data-podcast)[RSpace TV](https://www.researchspace.com/rspace-tv)[RSpace Blog](https://www.researchspace.com/blog)[Twitter](https://twitter.com/TheConnectedLab)
+[Community](https://www.researchspace.com/community)[FAIR Data Podcast](https://www.researchspace.com/fair-data-podcast)[RSpace TV](https://www.researchspace.com/rspace-tv)[RSpace Blog](https://www.researchspace.com/blog)[X / Twitter](https://twitter.com/TheConnectedLab)
 
 Company
 
-[About us](https://www.researchspace.com/about)[Careers](https://www.researchspace.com/careers)[Contact us](https://www.researchspace.com/contact)[Create a Support Request](https://www.researchspace.com/create-a-support-request)
+[About us](https://www.researchspace.com/about)[Careers](https://www.researchspace.com/careers)[Contact us](https://www.researchspace.com/contact)[Create a Support Request](https://support.researchspace.com/support/tickets/new)
 
 [Sign up](https://community.researchspace.com/signup)[Request a Demo](https://www.researchspace.com/request-a-demo)
 
@@ -160,13 +160,15 @@ Contact
 
 Have questions or concerns about RSpace, our Services and privacy? Contact us at [info@researchspace.com](mailto:info@researchspace.com).
 
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/old-home-2)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
 
-[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
+[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/668bfec151e7417522cb89cd_github_footer.svg)](https://github.com/rspace-os)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/668bfe44cc750f6b3c190f8f_linkedin_footer.svg)](https://www.linkedin.com/company/researchspace/)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc1399903d3470e02603a2_iconmonstr-twitter-3.svg)](https://twitter.com/TheConnectedLab)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/62cc139ae819846cb3c9bf87_iconmonstr-youtube-8.svg)](https://www.youtube.com/c/Researchspace/featured)
 
 [![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6470abbec22911c855a839a2_SOC_cert.svg)
 
-SOC 2 Type II Compliant](https://www.aicpa-cima.com/resources/download/get-description-criteria-for-your-organizations-soc-2-r-report)
+SOC2 Certified](https://www.aicpa-cima.com/resources/download/get-description-criteria-for-your-organizations-soc-2-r-report)[![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/65b29919af2367156be688a7_ISO_IEC%2027001_2022.png)
+
+ISO27001 Certified](https://www.iso.org/standard/27001)
 
 Our product
 -----------
@@ -197,20 +199,20 @@ Case studies
 Pricing
 -------
 
-* [RSpace Editions](https://www.researchspace.com/pricing)
+* [RSpace Solutions](https://www.researchspace.com/pricing)
 
-Media
------
+Community
+---------
 
-* [FAIR Data Podcast](https://www.researchspace.com/fair-data-podcast)
-* [RSpace TV](https://www.researchspace.com/rspace-tv)[RSpace Blog](https://www.researchspace.com/blog)[Twitter](https://twitter.com/TheConnectedLab)
+* [Community](https://www.researchspace.com/community)[FAIR Data Podcast](https://www.researchspace.com/fair-data-podcast)
+* [RSpace TV](https://www.researchspace.com/rspace-tv)[RSpace Blog](https://www.researchspace.com/blog)
 
 Company
 -------
 
 * [About us](https://www.researchspace.com/about)
 * [Careers](https://www.researchspace.com/careers)
-* [Contact us](https://www.researchspace.com/contact)[Create a Support Request](https://www.researchspace.com/create-a-support-request)
+* [Contact us](https://www.researchspace.com/contact)[Create a Support Request](https://support.researchspace.com/support/tickets/new)
 
 Copyright © 2024 Research Space. All rights reserved.
 
