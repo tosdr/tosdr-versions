@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.ypncdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/logo.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29)
+![Youporn Free Porn](https://ea.ypncdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/logo.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)
 
 Age Verification
 
@@ -8,7 +8,7 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Youporn 2024 [![rta](https://ea.ypncdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/rta.gif?v=986cce68bb302dce2c0e9286898f9cc749a37b29)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Youporn 2024 [![rta](https://ea.ypncdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/rta.gif?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
@@ -47,7 +47,7 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Youporn Free Porn](https://ea.ypncdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/logo.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29 "Youporn Free Porn")](https://www.youporn.com/)
+[![Youporn Free Porn](https://ea.ypncdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/logo.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8 "Youporn Free Porn")](https://www.youporn.com/)
 
 #### Recent Searches
 
@@ -55,13 +55,13 @@ Accept all cookies Accept only essential cookies Save and close
 
 * [Milf lesbian](https://www.youporn.com/porntags/milf-lesbian/)
 * [Hot milf](https://www.youporn.com/porntags/hot-milf/)
+* [Breastfeeding](https://www.youporn.com/porntags/breastfeeding/)
 * [Friends](https://www.youporn.com/porntags/friends/)
-* [Virtual sex](https://www.youporn.com/porntags/virtual-sex/)
-* [Friends wife](https://www.youporn.com/porntags/friends-wife/)
-* [Real amateur](https://www.youporn.com/porntags/real-amateur/)
-* [Hotel maid](https://www.youporn.com/porntags/hotel-maid/)
-* [Perfect ass](https://www.youporn.com/porntags/perfect-ass/)
-* [Only fans](https://www.youporn.com/porntags/only-fans/)
+* [Bbc dp](https://www.youporn.com/porntags/bbc-dp/)
+* [Sunny leone](https://www.youporn.com/porntags/sunny-leone/)
+* [Missionary creampie](https://www.youporn.com/porntags/missionary-creampie/)
+* [China](https://www.youporn.com/porntags/china/)
+* [Lisa ann](https://www.youporn.com/porntags/lisa-ann/)
 * [Turkish](https://www.youporn.com/porntags/turkish/)
 
 #### Recommended Categories For You
@@ -85,45 +85,49 @@ Accept all cookies Accept only essential cookies Save and close
 
 [More](https://www.youporn.com/pornstars/)
 
-[Dora Venter
+[Austin Andrews
 
-Pornstar](https://www.youporn.com/pornstar/dora-venter/)
+Pornstar](https://www.youporn.com/gay/pornstar/austin-andrews/)
 
-[Simone Valentino
+[Maggie Star
 
-Pornstar](https://www.youporn.com/pornstar/simone-valentino/)
+Pornstar](https://www.youporn.com/pornstar/maggie-star/)
 
-[Chocolate
+[Hope Howell
 
-Pornstar](https://www.youporn.com/pornstar/chocolate/)
+Pornstar](https://www.youporn.com/pornstar/hope-howell/)
+
+[Courtney Cummins
+
+Pornstar](https://www.youporn.com/pornstar/courtney-cummins/)
 
 #### Recommended Channels For You
 
 [More](https://www.youporn.com/channels/)
 
-[Massage Rooms Channel](https://www.youporn.com/channel/massage-rooms/)
-
-[Porn Pros Channel](https://www.youporn.com/channel/porn-pros/)
-
-[Dane Jones Channel](https://www.youporn.com/channel/dane-jones/)
+[la France a Poil Channel](https://www.youporn.com/channel/la-france-a-poil/)
 
 [Nubile Films Channel](https://www.youporn.com/channel/nubile-films/)
 
-[la France a Poil Channel](https://www.youporn.com/channel/la-france-a-poil/)
+[BangBrosNetwork Channel](https://www.youporn.com/channel/bangbrosnetwork/)
 
-[Jav HD Channel](https://www.youporn.com/channel/jav-hd/)
+[Babes Channel](https://www.youporn.com/channel/babes/)
 
-[Brazzers Channel](https://www.youporn.com/channel/brazzers/)
+[Dane Jones Channel](https://www.youporn.com/channel/dane-jones/)
 
-[Backroom Casting Couch Channel](https://www.youporn.com/channel/backroom-casting-couch/)
+[Massage Rooms Channel](https://www.youporn.com/channel/massage-rooms/)
 
 [Cum4K Channel](https://www.youporn.com/channel/cum4k/)
 
-[Puba Channel](https://www.youporn.com/channel/puba/)
+[Jav HD Channel](https://www.youporn.com/channel/jav-hd/)
+
+[Defloration TV Channel](https://www.youporn.com/channel/defloration-tv/)
+
+[Fake Taxi Channel](https://www.youporn.com/channel/fake-taxi/)
+
+[Brazzers Channel](https://www.youporn.com/channel/brazzers/)
 
 [Blacked Channel](https://www.youporn.com/channel/blacked/)
-
-[Public Agent Channel](https://www.youporn.com/channel/public-agent/)
 
 #### All videos
 
@@ -204,8 +208,7 @@ Pornstar](https://www.youporn.com/pornstar/chocolate/)
     
     * [Most Popular](https://www.youporn.com/pornstars/)
     * [Most Subscribed](https://www.youporn.com/pornstars/subscribers/)
-    * [Most Popular](https://www.youporn.com/pornstars/alphabetical/)
-    * [See All pornstars](https://www.youporn.com/pornstars/)
+    * [See All pornstars](https://www.youporn.com/pornstars/alphabetical/)
     
     Top Trending Pornstars
     ----------------------
@@ -729,7 +732,7 @@ Last Modified: May 23, 2024
 
 Introduction
 
-Aylo Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website [www.youporn.com/](https://www.youporn.com/information/www.youporn.com/) (hereinafter "**Youporn**") and is the controller of the information collected or provided via Youporn.
+Aylo Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website [www.youporn.com/](https://www.youporn.com/) (hereinafter "**Youporn**") and is the controller of the information collected or provided via Youporn.
 
 Please read this Privacy Notice carefully, as your access to and use of Youporn signifies that you have read and understand all terms within this Privacy Notice. We respect your privacy and are committed to protecting your personal data.
 
@@ -1271,23 +1274,21 @@ Can I create a Channel?
 
 At this time Channel pages are only available to Youporn Content Partners. If you run an adult website and would like to become a Content Partner, please visit [www.youporn.com/contentpartnerprogram/](https://www.youporn.com/contentpartnerprogram/) .
 
-How do I subscribe to a Channel/Pornstar/User? \*
+How do I subscribe to a Channel/Pornstar? \*
 
 To subscribe to a Channel, you can go to [www.youporn.com/channels/](https://www.youporn.com/channels/), search for the Channel you want, and then click the "Subscribe" button next to the channel name in the top right corner of the page, or if you're on a video player page, just click the "Subscribe" button next to the "By: Channel Name" below the video.
 
 To subscribe to a Pornstar, go to [www.youporn.com/pornstars/](https://www.youporn.com/pornstars/), select the pornstar you wish to subscribe to, and click the "Subscribe" button below their picture on the left side of the page.
 
-To subscribe to a User, click the "Subscribe" button beside their username found below the bottom right corner of any user submitted video.
-
 Where can I find my subscriptions? \*
 
 All of your subscriptions can be viewed, filtered, and managed from Your Subscriptions page. To access the page, click on your username in the top right corner of the site and select "Subscriptions" from the drop-down menu (or go to [www.youporn.com/subscriptions/](https://www.youporn.com/subscriptions/)).
 
-How do I unsubscribe from a Channel/Pornstar/User? \*
+How do I unsubscribe from a Channel/Pornstar? \*
 
-To unsubscribe from a Channel, Pornstar, or User, click on your username in the top right corner of the site, select "Subscriptions" from the drop-down menu, select the Channel, Pornstar, or User you would like to unsubscribe from under the subscriptions list on the left side of the page, then click on the "Unsubscribe" button to the right of the page above the list of videos.
+To unsubscribe from a Channel, Pornstar click on your username in the top right corner of the site, select "Subscriptions" from the drop-down menu, select the Channel, Pornstar you would like to unsubscribe from under the subscriptions list on the left side of the page, then click on the "Unsubscribe" button to the right of the page above the list of videos.
 
-You can also unsubscribe from Channels, Pornstars, and Users, by simply clicking the "Unsubscribe" button found on any Channel, Pornstar, or User pages.
+You can also unsubscribe from Channels, Pornstars by simply clicking the "Unsubscribe" button found on any Channel, Pornstar.
 
 _\* Note: you must be logged in to an existing Youporn.com account to complete these actions._
 
@@ -1699,7 +1700,7 @@ More options on how you can customize our recommendations
 
 On the homepage for Youporn, select the **User** icon, and you can turn on or off _Personalized Recommendations_. If you turn off this feature, the videos you watched and how you interacted with these videos don’t influence any content recommendations we show you.
 
-[![Youporn Free Porn](https://ea.ypncdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/pc/global/pc_youporn_black.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29 "Youporn Free Porn")](https://www.youporn.com/)
+[![Youporn Free Porn](https://ea.ypncdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/pc/global/pc_youporn_black.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8 "Youporn Free Porn")](https://www.youporn.com/)
 
 ### HELP & SUPPORT
 
@@ -1726,7 +1727,7 @@ On the homepage for Youporn, select the **User** icon, and you can turn on or of
 
 [Looking for gay porn?](https://www.youporn.com/gay/ "Youporn Gay")
 
-[![rta](https://ea.ypncdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/rta.gif?v=986cce68bb302dce2c0e9286898f9cc749a37b29)](https://www.youporn.com/information/#rating)
+[![rta](https://ea.ypncdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/rta.gif?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)](https://www.youporn.com/information/#rating)
 
 © Youporn 2006 - 2024
 
