@@ -523,9 +523,9 @@ Sign up to Participate in Challenge
 * [Sign Up](#)
     
 
-![](https://www.techgig.com/files/contest_upload_files/tg_logo_linkeding.svg) 
+![techgig logo](https://www.techgig.com/files/contest_upload_files/tg_logo_linkeding.svg) 
 
-[![](https://www.techgig.com/files/contest_upload_files/webinar_linkedin_cta.svg)](javascript:void(0);)
+[![linkedin logni cta](https://www.techgig.com/files/contest_upload_files/webinar_linkedin_cta.svg)](javascript:void(0);)
 
 Existing User? [Login With Email](https://www.techgig.com/register?tab=login&return=http://www.techgig.com/user/privacy?action=book-seat-bysxSlRtWjZsNHZNUThoNVlHdTBOZz09)
 
