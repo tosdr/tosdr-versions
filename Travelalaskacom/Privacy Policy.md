@@ -2,31 +2,31 @@
 
 [![Travel Alaska Logo](/themes/custom/mmg9/dist/images/ta-logo.png)](https://www.travelalaska.com/ "Travel Alaska:Home")
 
-* [Order a Vacation Planner](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Vacation-Planner)
+* [Order a Vacation Planner](https://www.travelalaska.com/plan-your-trip/planning-tools/vacation-planner)
 
 * [Alaska Travel Deals](https://www.travelalaska.com/special-offers)
-* [Sustainable Tourism](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Sustainable-Tourism)
+* [Sustainable Tourism](https://www.travelalaska.com/plan-your-trip/planning-tools/sustainable-tourism)
 * [North to Alaska](https://www.travelalaska.com/north-to-alaska)
 
-* [Explore Alaska](https://www.travelalaska.com/Explore-Alaska)
+* [Explore Alaska](https://www.travelalaska.com/explore-alaska)
     
-    * [Explore Alaska Overview](https://www.travelalaska.com/Explore-Alaska)
+    * [Explore Alaska Overview](https://www.travelalaska.com/explore-alaska)
         
-    * [Travel Articles](https://www.travelalaska.com/Explore-Alaska/Travel-Articles)
+    * [Travel Articles](https://www.travelalaska.com/explore-alaska/travel-articles)
         
-    * [Itineraries](https://www.travelalaska.com/Explore-Alaska/Itineraries)
+    * [Itineraries](https://www.travelalaska.com/explore-alaska/itineraries)
         
-    * [Local Tips](https://www.travelalaska.com/Explore-Alaska/Locals-Tips)
+    * [Local Tips](https://www.travelalaska.com/explore-alaska/locals-tips)
         
-    * [Mountains](https://www.travelalaska.com/Things-To-Do/Hiking-Outdoor-Recreation)
+    * [Mountains](https://www.travelalaska.com/things-to-do/hiking-outdoor-recreation)
         
-    * [Alaska Native Culture](https://www.travelalaska.com/Things-To-Do/Alaska-Native-Culture)
+    * [Alaska Native Culture](https://www.travelalaska.com/things-to-do/alaska-native-culture)
         
-    * [Glaciers](https://www.travelalaska.com/Things-To-Do/Hiking-Outdoor-Recreation/Glacier-Hiking-Climbing)
+    * [Glaciers](https://www.travelalaska.com/things-to-do/hiking-outdoor-recreation/glacier-hiking-climbing)
         
-    * [Wildlife](https://www.travelalaska.com/Things-To-Do/Wildlife-Viewing)
+    * [Wildlife](https://www.travelalaska.com/things-to-do/wildlife-viewing)
         
-    * [Northern Lights](https://www.travelalaska.com/Things-To-Do/Northern-Lights)
+    * [Northern Lights](https://www.travelalaska.com/things-to-do/northern-lights)
         
     * Alaska Travel Specials
         
@@ -37,35 +37,35 @@
             [Find Deals & Packages](https://www.travelalaska.com/special-offers)
         
     
-* [Things to do](https://www.travelalaska.com/Things-To-Do)
+* [Things to do](https://www.travelalaska.com/things-to-do)
     
-    * [Things to Do Overview](https://www.travelalaska.com/Things-To-Do)
+    * [Things to Do Overview](https://www.travelalaska.com/things-to-do)
         
-    * [Adventure](https://www.travelalaska.com/Things-To-Do/Adventure)
+    * [Adventure](https://www.travelalaska.com/things-to-do/adventure)
         
-    * [Alaska Native Culture](https://www.travelalaska.com/Things-To-Do/Alaska-Native-Culture)
+    * [Alaska Native Culture](https://www.travelalaska.com/things-to-do/alaska-native-culture)
         
-    * [Day Cruises](https://www.travelalaska.com/Things-To-Do/Day-Cruises)
+    * [Day Cruises](https://www.travelalaska.com/things-to-do/day-cruises)
         
-    * [Festivals & Events](https://www.travelalaska.com/Things-To-Do/Festivals-Events)
+    * [Festivals & Events](https://www.travelalaska.com/things-to-do/festivals-events)
         
-    * [Fishing](https://www.travelalaska.com/Things-To-Do/Fishing)
+    * [Fishing](https://www.travelalaska.com/things-to-do/fishing)
         
-    * [Food & Entertainment](https://www.travelalaska.com/Things-To-Do/Food-Entertainment)
+    * [Food & Entertainment](https://www.travelalaska.com/things-to-do/food-entertainment)
         
-    * [Hiking & Outdoor Recreation](https://www.travelalaska.com/Things-To-Do/Hiking-Outdoor-Recreation)
+    * [Hiking & Outdoor Recreation](https://www.travelalaska.com/things-to-do/hiking-outdoor-recreation)
         
-    * [Museums, Arts & History](https://www.travelalaska.com/Things-To-Do/Museums-Arts-History)
+    * [Museums, Arts & History](https://www.travelalaska.com/things-to-do/museums-arts-history)
         
-    * [Northern Lights](https://www.travelalaska.com/Things-To-Do/Northern-Lights)
+    * [Northern Lights](https://www.travelalaska.com/things-to-do/northern-lights)
         
-    * [Sightseeing & Tours](https://www.travelalaska.com/Things-To-Do/Sightseeing-Tours)
+    * [Sightseeing & Tours](https://www.travelalaska.com/things-to-do/sightseeing-tours)
         
-    * [Spas & Wellness Experiences](https://www.travelalaska.com/Things-To-Do/Spas-Wellness-Experiences)
+    * [Spas & Wellness Experiences](https://www.travelalaska.com/things-to-do/spas-wellness-experiences)
         
-    * [Wildlife Viewing](https://www.travelalaska.com/Things-To-Do/Wildlife-Viewing)
+    * [Wildlife Viewing](https://www.travelalaska.com/things-to-do/wildlife-viewing)
         
-    * [Winter Activities](https://www.travelalaska.com/Things-To-Do/Winter-Activities)
+    * [Winter Activities](https://www.travelalaska.com/things-to-do/winter-activities)
         
     * [Travel Specials & Discounts](https://www.travelalaska.com/special-offers)
         
@@ -76,13 +76,13 @@
         
     * [Maps](https://www.travelalaska.com/maps)
         
-    * [Cities & Towns](https://www.travelalaska.com/Destinations/Cities-Towns)
+    * [Cities & Towns](https://www.travelalaska.com/destinations/cities-towns)
         
-    * [National Parks & Public Lands](https://www.travelalaska.com/Destinations/Parks-Public-Lands)
+    * [National Parks & Public Lands](https://www.travelalaska.com/destinations/parks-public-lands)
         
-    * [Regions](https://www.travelalaska.com/Destinations/Regions)
+    * [Regions](https://www.travelalaska.com/destinations/regions)
         
-    * [Visitor Centers](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Visitors-Centers)
+    * [Visitor Centers](https://www.travelalaska.com/plan-your-trip/planning-tools/visitors-centers)
         
     * Alaska Travel Specials
         
@@ -95,21 +95,21 @@
     
 * [Home](https://www.travelalaska.com/)
     
-* [Getting Around](https://www.travelalaska.com/Getting-To-Around-Alaska)
+* [Getting Around](https://www.travelalaska.com/getting-to-around-alaska)
     
-    * [Getting Around Overview](https://www.travelalaska.com/Getting-To-Around-Alaska)
+    * [Getting Around Overview](https://www.travelalaska.com/getting-to-around-alaska)
         
     * [Fly](https://www.travelalaska.com/getting-to-around/fly)
         
-    * [Cruise](https://www.travelalaska.com/Getting-To-Around/By-Cruise)
+    * [Cruise](https://www.travelalaska.com/getting-to-around/by-cruise)
         
-    * [Train](https://www.travelalaska.com/Getting-To-Around/By-Train)
+    * [Train](https://www.travelalaska.com/getting-to-around/by-train)
         
-    * [Drive](https://www.travelalaska.com/Getting-To-Around/Drive)
+    * [Drive](https://www.travelalaska.com/getting-to-around/drive)
         
-    * [Motorcoach/Bus/Shuttle](https://www.travelalaska.com/Getting-To-Around/By-Motorcoach-Bus-Shuttle)
+    * [Motorcoach/Bus/Shuttle](https://www.travelalaska.com/getting-to-around/by-motorcoach-bus-shuttle)
         
-    * [Ferry](https://www.travelalaska.com/Getting-To-Around/By-Ferry)
+    * [Ferry](https://www.travelalaska.com/getting-to-around/by-ferry)
         
     * [Maps](https://www.travelalaska.com/maps)
         
@@ -126,19 +126,19 @@
     
     * [Plan Your Trip Overview](https://www.travelalaska.com/plan-your-alaska-vacation)
         
-    * [Packages & Tours](https://www.travelalaska.com/Plan-your-Trip/Packages-Tours)
+    * [Packages & Tours](https://www.travelalaska.com/plan-your-trip/packages-tours)
         
-    * [Places to Stay](https://www.travelalaska.com/Plan-your-Trip/Places-to-Stay)
+    * [Places to Stay](https://www.travelalaska.com/plan-your-trip/places-to-stay)
         
-    * [Alaska Weather](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Alaska-Weather)
+    * [Alaska Weather](https://www.travelalaska.com/plan-your-trip/planning-tools/alaska-weather)
         
-    * [Planning Tools](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools)
+    * [Planning Tools](https://www.travelalaska.com/plan-your-trip/planning-tools)
         
-    * [Vacation Planner](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Vacation-Planner)
+    * [Vacation Planner](https://www.travelalaska.com/plan-your-trip/planning-tools/vacation-planner)
         
     * [Accessible Travel](https://www.travelalaska.com/accessible-travel-alaska)
         
-    * [COVID-19 Travel Updates](https://www.travelalaska.com/COVID)
+    * [Travel Alerts](https://www.travelalaska.com/covid)
         
     * Alaska Travel Specials
         
@@ -150,10 +150,6 @@
         
     
 * [Search](https://www.travelalaska.com/search)
-    
-    Can we help you discover Alaska?
-    
-    Search 
     
 
 Can we help you discover Alaska?
@@ -246,7 +242,7 @@ Alaska: AKA Your Next Adventure
 
 Where will your Alaska adventure take you? Order our Official State of Alaska Vacation Planner and plot your course.
 
-[Get Yours Today](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Vacation-Planner)
+[Get Yours Today](https://www.travelalaska.com/plan-your-trip/planning-tools/vacation-planner)
 
 #### Stay Connected with the Travel Alaska Newsletter
 
@@ -265,11 +261,11 @@ Country Your CountryAfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguilla
 Leave this field blank 
 
 * [ADVERTISE WITH US](https://www.alaskatia.org/alaska-co-op-marketing-programs)
-* [FREE VACATION PLANNER](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Vacation-Planner)
-* [MEDIA CENTER](https://www.travelalaska.com/Media-Center)
-* [TRAVEL TRADE](https://www.travelalaska.com/Travel-Trade)
+* [FREE VACATION PLANNER](https://www.travelalaska.com/plan-your-trip/planning-tools/vacation-planner)
+* [MEDIA CENTER](https://www.travelalaska.com/media-center)
+* [TRAVEL TRADE](https://www.travelalaska.com/travel-trade)
 
-[![](/themes/custom/mmg9/images/AGA_logo_circle.png)](https://www.travelalaska.com/Plan-your-Trip/Planning-Tools/Sustainable-Tourism)
+[![](/themes/custom/mmg9/images/AGA_logo_circle.png)](https://www.travelalaska.com/plan-your-trip/planning-tools/sustainable-tourism)
 
 ##### Stay Connected
 
@@ -280,8 +276,8 @@ OFFICIAL STATE OF ALASKA VACATION AND TRAVEL INFORMATION
 [![](/themes/custom/mmg9/images/ta-logo-reg-white.svg)](https://www.travelalaska.com/)
 
 * [SITE MAP](https://www.travelalaska.com/sitemap)
-* [ACCESSIBILITY STATEMENT](https://www.travelalaska.com/Accessibility-Statement)
-* [PRIVACY POLICY](https://www.travelalaska.com/Privacy-Policy)
+* [ACCESSIBILITY STATEMENT](https://www.travelalaska.com/accessibility-statement)
+* [PRIVACY POLICY](https://www.travelalaska.com/privacy-policy)
 * [TERMS OF SERVICE](https://www.travelalaska.com/terms-of-service)
 
 Copyright 2024 Alaska Travel Industry Association
