@@ -1,6 +1,6 @@
 [![~V](/media/verntrans.svg)](https://vern.cc/eng/)
 
-[Status](https://status.vern.cc/) [Users](https://vern.cc/users) [SignUp](https://vern.cc/register) [Wiki](https://wiki.vern.cc/) [Blog](https://vern.cc/blog) [FAQ](https://vern.cc/faq) [Rules](https://vern.cc/rules) [Privacy](https://vern.cc/privpol) [Donate](https://vern.cc/donate)[](https://vern.cc/blog/feed.xml)
+[Status](https://status.vern.cc/) [Users](https://vern.cc/users) [SignUp](https://vern.cc/register) [Wiki](https://wiki.vern.cc/) [Blog](https://vern.cc/blog) [FAQ](https://vern.cc/faq) [Rules](https://vern.cc/rules) [Privacy](https://vern.cc/privpol) [Donate](https://vern.cc/donate) [![RSS Feed](/media/rss.svg)](https://vern.cc/blog/feed.xml)
 
   
 
@@ -46,4 +46,4 @@ Logo info can be found at [/logo](https://vern.cc/logo)
 
 Find the source code for this website on [~vern Git](https://git.vern.cc/vern/website)
 
-Commit Details: [9b47e53-2024-02-15 15:54:13 +0000](https://git.vern.cc/vern/website/commit/9b47e53f1175cacad924b3ea84f37a2e46f042d6)
+Commit Details: [12a3afe-2024-07-07 06:46:08 -0400](https://git.vern.cc/vern/website/commit/12a3afe9905278c32aab28b685b93159219dc6ab)
