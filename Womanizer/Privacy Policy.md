@@ -4,7 +4,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Sale - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[Prime Week Sale - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
 
 [Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
 
@@ -14,41 +14,31 @@ The store will not work correctly in the case when cookies are disabled.
 
 [](https://www.womanizer.com/eu/)
 
-* [Sex Toys](https://www.womanizer.com/eu/sex-toys)
+* [ALL SEX TOYS](https://www.womanizer.com/eu/sex-toys)
     
-    * [Next](https://www.womanizer.com/eu/next)
-    * [NEW
-        
-        Blend](https://www.womanizer.com/eu/blend)
-    * [Premium 2](https://www.womanizer.com/eu/premium-2)
-    * [DUO 2](https://www.womanizer.com/eu/duo2)
-    * [NEW
-        
-        Liberty 2](https://www.womanizer.com/eu/liberty-2)
-    * [LIBERTY](https://www.womanizer.com/eu/liberty)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
-    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
-    * [CLASSIC 2](https://www.womanizer.com/eu/classic-2)
-    * [STARLET 3](https://www.womanizer.com/eu/starlet-3)
-    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
-    * [Wave](https://www.womanizer.com/eu/wave-womanizer)
-    * [All Sex Toys](https://www.womanizer.com/eu/sex-toys)
+    * [Clitoral Stimulation](https://www.womanizer.com/eu/clitoral-stimulation)
+    * [G Spot Stimulation](https://www.womanizer.com/eu/g-spot-stimulation)
+    * [Sets](https://www.womanizer.com/eu/sextoy-sets)
+    * [We-Vibe Couple Toys](https://www.womanizer.com/eu/we-vibe)
+    * [Arcwave Male Toys](https://www.womanizer.com/eu/Arcwave)
+    * [Accessories](https://www.womanizer.com/eu/accessories)
+    * [All SEX TOYS](https://www.womanizer.com/eu/sex-toys)
     
-    [All Sex Toys](https://www.womanizer.com/eu/sex-toys)
+    [ALL SEX TOYS](https://www.womanizer.com/eu/sex-toys)
     
 * [Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-    * [Next](https://www.womanizer.com/eu/next)
+    * [NEW
+        
+        Next](https://www.womanizer.com/eu/next)
     * [NEW
         
         Blend](https://www.womanizer.com/eu/blend)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [DUO 2](https://www.womanizer.com/eu/duo2)
-    * [NEW
-        
-        Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
-    * [Marilyn Monroe™ Special Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
     * [LIBERTY](https://www.womanizer.com/eu/liberty)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
@@ -56,42 +46,39 @@ The store will not work correctly in the case when cookies are disabled.
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [Sale](https://www.womanizer.com/eu/sale)
+* [Prime week sale](https://www.womanizer.com/eu/sale)
     
+    * [Premium 2](https://www.womanizer.com/eu/premium-2)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
+    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+    * [CLASSIC 2](https://www.womanizer.com/eu/classic-2)
     * [LIBERTY](https://www.womanizer.com/eu/liberty)
-    * [Premium](https://www.womanizer.com/eu/premium)
-    * [DUO](https://www.womanizer.com/eu/duo)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [Pro40](https://www.womanizer.com/eu/pro-40)
+    * [DUO](https://www.womanizer.com/eu/duo)
     * [InsideOut](https://www.womanizer.com/eu/insideout)
+    * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [Wave](https://www.womanizer.com/eu/wave-womanizer)
     * [Starlet Snow](https://www.womanizer.com/eu/starlet)
+    * [Premium](https://www.womanizer.com/eu/premium)
+    * [STARLET 3](https://www.womanizer.com/eu/starlet-3)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
-    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
-    * [Classic - Muse Edition](https://www.womanizer.com/eu/classic-muse-edition)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
     
-* [WE-VIBE](https://www.womanizer.com/eu/we-vibe)
-* [Arcwave](https://www.womanizer.com/eu/arcwave)
-* [Accessories](https://www.womanizer.com/eu/accessories)
-    
-    * [Blend Stimulation Heads](https://www.womanizer.com/eu/blend-stimulation-heads)
-    * [Next Stimulation Heads](https://www.womanizer.com/eu/next-stimulation-heads)
-    * [Lovehoney Enjoy Water-Based Lubricant-100ml](https://www.womanizer.com/eu/catalog/product/view/id/205/)
-    * [Magnetic Charging Cable](https://www.womanizer.com/eu/charging-cable-magnetic)
-    * [Lovehoney Fresh Toy Cleaner 250ml](https://www.womanizer.com/eu/lovehoney-fresh-toy-cleaner-250ml)
-    * [Lovehoney Fresh Toy Cleaner 100ml](https://www.womanizer.com/eu/lovehoney-fresh-toy-cleaner-100m)
-    * [Type B Stimulation Heads](https://www.womanizer.com/eu/heads-w500-size-pro40-starlet-one)
-    * [Type A Stimulation Heads](https://www.womanizer.com/eu/heads-premium-classic-liberty-starlet2)
-    * [All Accessories](https://www.womanizer.com/eu/accessories)
-    
-    [All Accessories](https://www.womanizer.com/eu/accessories)
-    
+* [Katy Perry’s "Woman’s World" ![](/media/wysiwyg/WMZ_Katy_Perry_burger_menu_50x50.png)](https://www.womanizer.com/eu/katyperry) 
+* [HOW IT WORKS](https://www.womanizer.com/eu/how-it-works)
 * [About](#)
     
-    * [How it works](https://www.womanizer.com/eu/how-it-works)
     * [Testimonials](https://www.womanizer.com/eu/feeling)
     * [5 year warranty](https://www.womanizer.com/eu/5warranty)
+    * [Katy Perry’s "Woman’s World" ![](/media/wysiwyg/WMZ_Katy_Perry_burger_menu_50x50.png)](https://www.womanizer.com/eu/katyperry) 
+    * [100 day Pleasure Guarantee](https://www.womanizer.com/eu/satisfaction-guaranteed)
     * [Lily Allen & Womanizer](https://www.womanizer.com/eu/lilyallen)
     * [Blog](https://blog.womanizer.com/)
     * [The Pleasure Fund](https://www.womanizer.com/eu/pleasure-fund)
