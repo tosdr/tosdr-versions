@@ -1,4 +1,4 @@
-[![Home Real-Debrid](https://fcdn.real-debrid.com/0822/images/logo.png)](https://real-debrid.com/)
+[![Home Real-Debrid](https://fcdn.real-debrid.com/0830/images/logo.png)](https://real-debrid.com/)
 
 * [Home](https://real-debrid.com/)
 * [Help](https://real-debrid.com/support)
@@ -36,8 +36,8 @@ We may be required to disclose Users personal data in order to protect our legal
 
 Files links that Users download are stored in a database for legal concerns and our internal use. All saved links are erased within 1 month for security reasons and service needs. However all requests made on our site are stored for 1 year, the legal retention period.
 
-Language: [**![English (US)](https://fcdn.real-debrid.com/0822/images/flags/en.gif) English (US)**](#) [...](https://real-debrid.com/ajax/lang.php)
+Language: [**![English (US)](https://fcdn.real-debrid.com/0830/images/flags/en.gif) English (US)**](#) [...](https://real-debrid.com/ajax/lang.php)
 
-© 2009-2024 Real-Debrid, All Rights Reserved - [Privacy Policy](https://real-debrid.com/privacy) - [Legal](https://real-debrid.com/legal) - [Terms Of Services](https://real-debrid.com/terms)B5 (8.15ms)
+© 2009-2024 Real-Debrid, All Rights Reserved - [Privacy Policy](https://real-debrid.com/privacy) - [Legal](https://real-debrid.com/legal) - [Terms Of Services](https://real-debrid.com/terms)B2 (5.18ms)
 
 [](http://twitter.com/RealDebrid)[](http://www.facebook.com/realdeb)
