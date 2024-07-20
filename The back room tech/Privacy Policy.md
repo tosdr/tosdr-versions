@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2032'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/vpn-ipsec-1-80x45.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/05/13/how-to-configure-ipsec-on-windows/ "How to Configure IPSec on Windows")[How to Configure IPSec on Windows](https://thebackroomtech.com/2019/05/13/how-to-configure-ipsec-on-windows/ "How to Configure IPSec on Windows")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/03_task_manager_has_been_disabled_by_admin_thumb-80x32.png.webp)](https://thebackroomtech.com/2010/08/25/fix-task-manager-problems-in-windows/ "Fix Task Manager Problems in Windows")[Fix Task Manager Problems in Windows](https://thebackroomtech.com/2010/08/25/fix-task-manager-problems-in-windows/ "Fix Task Manager Problems in Windows")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/01-microsoft-remote-desktop-install-app-store-80x44.png)](https://thebackroomtech.com/2018/11/08/how-to-connect-to-a-windows-ec2-instance-from-mac/ "How to Connect to a Windows EC2 Instance from Mac")[How to Connect to a Windows EC2 Instance from Mac](https://thebackroomtech.com/2018/11/08/how-to-connect-to-a-windows-ec2-instance-from-mac/ "How to Connect to a Windows EC2 Instance from Mac")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-linux-1-80x37.png.webp)](https://thebackroomtech.com/2019/03/13/how-to-run-linux-on-windows-10/ "How to Run Linux on Windows 10")[How to Run Linux on Windows 10](https://thebackroomtech.com/2019/03/13/how-to-run-linux-on-windows-10/ "How to Run Linux on Windows 10")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/powershell-80x26.png)](https://thebackroomtech.com/2008/08/08/powershell-script-to-change-from-static-to-dynamic-ip-addressing/ "Powershell Script to Change from Static to Dynamic IP Addressing")[Powershell Script to Change from Static to Dynamic IP Addressing](https://thebackroomtech.com/2008/08/08/powershell-script-to-change-from-static-to-dynamic-ip-addressing/ "Powershell Script to Change from Static to Dynamic IP Addressing")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/00-80x52.png.webp)](https://thebackroomtech.com/2019/04/12/an-introduction-to-the-security-linux-distro-tails/ "An Introduction To The Security Linux Distro “Tails”")[An Introduction To The Security Linux Distro “Tails”](https://thebackroomtech.com/2019/04/12/an-introduction-to-the-security-linux-distro-tails/ "An Introduction To The Security Linux Distro “Tails”")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/code-80x44.jpeg.optimal.jpeg)](https://thebackroomtech.com/2007/06/12/howto-automatically-remove-files-older-than-x-days/ "HowTo: Automatically Remove Files Older Than ‘X’ Days")[HowTo: Automatically Remove Files Older Than ‘X’ Days](https://thebackroomtech.com/2007/06/12/howto-automatically-remove-files-older-than-x-days/ "HowTo: Automatically Remove Files Older Than ‘X’ Days")
+    ![](https://s11921.pcdn.co/wp-content/uploads/remote-desktop-80x50.png.webp)](https://thebackroomtech.com/2009/01/30/portable-remote-desktop-connection/ "A Portable Remote Desktop Connection (mstsc.exe)")[A Portable Remote Desktop Connection (mstsc.exe)](https://thebackroomtech.com/2009/01/30/portable-remote-desktop-connection/ "A Portable Remote Desktop Connection (mstsc.exe)")
 
 #### Our Publishing Family
 
