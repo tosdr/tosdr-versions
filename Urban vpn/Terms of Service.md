@@ -607,6 +607,7 @@ Download Urban VPN to enjoy complete online security and privacy while hiding IP
 * [Why free?](https://www.urban-vpn.com/about-us/why-free/)
 * [Glossary](https://www.urban-vpn.com/glossary/)
 * [Do not sell](https://www.urban-vpn.com/about-us/do-not-sell/)
+* [Cookie Settings](#)
 
 #### AMERICA
 
