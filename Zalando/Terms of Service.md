@@ -46,10 +46,10 @@ aanbod richt zich uitsluitend op consumenten die de aankoop doen voor privédoel
 4\. Over het gebruik van cadeaubonnen: Speciale cadeaubonnen, die tijdens reclamecampagnes worden verstrekt, of cadeaubonnen die worden gekocht, kunnen ook tijdens de bestelprocedure worden ingewisseld. De respectieve voorwaarden van de cadeaubon zijn daarbij van toepassing.  
 5\. Over het herroepingsrecht: Als consument hebt u een wettelijk herroepingsrecht. Dat houdt in dat u deze online-overeenkomst binnen 14 dagen na ontvangst van de goederen zonder opgave van redenen kunt annuleren door 1) ons mee te delen (bijv. per e-mail of post) dat u de overeenkomst niet langer wilt nakomen en 2) uw bestelling terug te sturen naar ons of onze partner. Alle overige informatie over de herroeping vindt u in de AV.  
 6\. Over het vrijwillige recht van teruggave: Wij bieden u een extra recht van teruggave, dat wij u vrijwillig en onafhankelijk van het recht van teruggave gedurende 14 dagen verlenen. Uw wettelijke herroeppingsrecht blijft hierdoor onaangetast. Meer informatie over de voorwaarden en de lengte van het vrijwillige recht van teruggave vindt u in de AV.  
-7\. Over terugbetalingen: Terugbetalingen vinden automatisch plaats op de manier dat u oorspronkelijk hebt betaald.  
+7\. Over terugbetalingen: Terugbetalingen vinden automatisch plaats op de manier dat u oorspronkelijk hebt betaald. Tenzij u uitdrukkelijk akkoord gaat met een andere methode.  
 8\. Over de klantenservice: Ga bij vragen naar onze hulppagina’s of neem [contact](https://www.zalando.nl/faq/) met ons op.  
 9\. Over mogelijke klachten: Wij hebben een meld- en klachtenprocedure opgezet om mogelijk illegale inhoud te beoordelen. Mocht u het niet eens zijn met onze beslissing, staan u verschillende rechtsmiddelen ter beschikking.  
-10\. Overig: De wettelijke rechten van de consument, waar u recht op hebt, zijn van toepassing. Meer informatie vindt u in de AV. [Hier](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/425740a4-ae7b-476a-9df7-13ccd2e75d7c.pdf) kunt u ook de AV downloaden en archiveren.  
+10\. Overig: De wettelijke rechten van de consument, waar u recht op hebt, zijn van toepassing. Meer informatie vindt u in de AV. [Hier](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/62e98c61-5e91-42ab-8875-7f1b140d27ee.pdf) kunt u ook de AV downloaden en archiveren.  
   
 **Kennisgevings- en klachtenprocedure; buitengerechtelijke geschillenbeslechting**
 
@@ -70,7 +70,7 @@ Deel I - ALGEMENE EN AANVULLENDE VOORWAARDEN
 Deel II - ALGEMENE VOORWAARDEN VOOR DE INRUILOPTIE
 --------------------------------------------------
 
-[**PDF Download**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/425740a4-ae7b-476a-9df7-13ccd2e75d7c.pdf)
+[**PDF Download**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/62e98c61-5e91-42ab-8875-7f1b140d27ee.pdf)
 
 **  
 Deel I:**
@@ -326,7 +326,7 @@ Besteld op\*/ontvangen op\* \[datum bestelling bij diensten of ontvangst bij pro
 
 **ALGEMENE EN AANVULLENDE VOORWAARDEN**
 
-[PDF](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/425740a4-ae7b-476a-9df7-13ccd2e75d7c.pdf)  
+[PDF](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/62e98c61-5e91-42ab-8875-7f1b140d27ee.pdf)  
 Aanvullende algemene voorwaarden (AV) voor bestellingen via www.zalando.nlHierna willen wij u onze Algemene Voorwaarden presenteren, die ten grondslag liggen aan alle diensten die op Zalando.de worden geleverd. Wij bieden u op [www.zalando.nl](https://www.zalando.nl/)  een gepersonaliseerde shopping- en service-ervaring, die is aangepast aan uw interesses en behoeften. Op [www.zalando.nl](https://www.zalando.nl/)  verkopen wij artikelen van Zalando en partners van Zalando.  
 **De aanbiedingen op onze websites www.zalando.nl zijn uitsluitend bedoeld voor consumenten die de aankoop doen met een doel dat noch aan hun commerciële noch aan hun professionele activiteiten kan worden toegeschreven.  
 **Zalando-artikelen zijn alle artikelen, die we u op www.zalando.nl aanbieden, inclusief Zalando pre-owned fashion-artikelen, voor zover wij u er niet op wijzen dat het om een Zalando-partner-artikel gaat. Zalando-partner-artikelen zijn artikelen, die we u op [www.zalando.nl](https://www.zalando.nl/) aanbieden en die wij daar als Zalando-partner-artikel aanduiden. Alle Zalando-partners zijn zakelijke handelaren. Zalando pre-owned fashion-artikelen zijn alle artikelen, die we u op [www.zalando.nl](http://www.zalando.nl/) aanbieden en die we daar als Zalando pre-owned fashion-artikelen aanduiden.
@@ -418,7 +418,7 @@ Het ontbindingsrecht is uitgesloten voor verzegelde producten, die om redenen va
 
 **9\. TERUGBETALINGEN**
 
-Elke terugbetaling voeren wij automatisch uit op de door u voor de betaling gebruikte rekening. Bij betaling op rekening en bij vooruitbetaling wordt teruggeboekt op de rekening waarvan wij de betaling hebben ontvangen. Heeft u met Paypal / creditcard betaald, dan volgt de terugboeking op de daaraan verbonden Paypal-/creditcardrekening. Indien u bij uw koop een cadeaubon heeft gebruikt, dan boeken wij het betreffende bedrag op uw cadeaubonrekening.
+Elke terugbetaling voeren wij automatisch uit op de door u voor de betaling gebruikte rekening. Let op: als je een of meer artikelen toevoegt aan het retourpakket die je niet hebt vermeld op het retourformulier, krijg je je geld terug via een cadeaubon voor alle artikelen in het pakket. Bij betaling op rekening en bij vooruitbetaling wordt teruggeboekt op de rekening waarvan wij de betaling hebben ontvangen. Heeft u met Paypal / creditcard betaald, dan volgt de terugboeking op de daaraan verbonden Paypal-/creditcardrekening. Indien u bij uw koop een cadeaubon heeft gebruikt, dan boeken wij het betreffende bedrag op uw cadeaubonrekening. Tenzij u uitdrukkelijk akkoord gaat met een andere methode.
 
 **10\. KWALITEIT ZALANDO PRE-OWNED FASHION ARTIKELEN**
 
@@ -431,7 +431,7 @@ De klantendienst kan worden gecontacteerd via onze [FAQs](https://www.zalando.nl
 **12\. TOEPASSELIJK RECHT EN VERDERE INFORMATIE**
 
 12.1 Op al onze overeenkomsten is het Nederlandse recht van toepassing.  
-12.2 U vindt deze Algemene Voorwaarden op www.zalando.nl Daarnaast kunt u dit document uitprinten of opslaan, door de gebruikelijke functie van uw internetprogramma (=browser: meestel als “document opslaan”) te gebruiken. U kunt dit document als pdf downloaden en archiveren, door [hier aanklikken.](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/425740a4-ae7b-476a-9df7-13ccd2e75d7c.pdf) Om een pdf te kunnen openen, heeft een gratis programma nodig van Adobe Reader (www.adobe.com/nl/) of een vergelijkbaar programma, die het pdf-format beheerst.  
+12.2 U vindt deze Algemene Voorwaarden op www.zalando.nl Daarnaast kunt u dit document uitprinten of opslaan, door de gebruikelijke functie van uw internetprogramma (=browser: meestel als “document opslaan”) te gebruiken. U kunt dit document als pdf downloaden en archiveren, door [hier aanklikken.](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a9314123-588f-4577-8ec6-e15a14137e40.pdf) Om een pdf te kunnen openen, heeft een gratis programma nodig van Adobe Reader (www.adobe.com/nl/) of een vergelijkbaar programma, die het pdf-format beheerst.  
 12.3 Het gebruik van het beschikbare aanbod op [www.zalando.nl](https://www.zalando.nl/) is mogelijk voor personen die minstens 18 jaar oud zijn.  
 12.4 Elke klant mag slechts één klantenaccount bij Zalando hebben. Wij behouden ons het recht voor, meerdere aanmeldingen van één persoon te wissen.  
 12.5 U kunt ook aanvullend de gegevens van uw bestelling archiveren, door de Algemene Voorwaarden te downloaden en de op de laatste pagina van het bestelproces weergegeven gegevens met behulp van uw browserfunctie op te slaan of te wachten op de ontvangstbevestiging van uw bestelling, welke wij u tevens per e-mail zullen sturen na afloop van uw bestelling. Deze bevestiging bevat nogmaals uw bestelgegevens en onze Algemene Voorwaarden. Deze kunt u eenvoudig uitprinten, dan wel met uw e-mailprogramma opslaan.  
@@ -444,7 +444,7 @@ Postadres: Zalando SE 11501 Berlijn (Duitsland)
 Bezoekadres: Zalando SE Valeska-Gert-Straße 5 10243 Berlijn (Duitsland)  
 Ingeschreven in het handelsregister van het kantongerecht Charlottenburg Berlijn (Duitsland), HRB 158855 B  
   
-Stand: 24.04.2024  
+Stand: 15.07.2024  
 
 **Deel II**
 
@@ -565,9 +565,9 @@ Aanbevelingen
 
 Jouw merken en creators
 
-Fashionupdates
-
 Aanbiedingen en sales
+
+Fashionupdates
 
 Bevestiging beschikbaarheidsupdate
 
