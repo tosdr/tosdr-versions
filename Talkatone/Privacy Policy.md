@@ -16,7 +16,7 @@ Privacy Policy
 Notice at Collection
 ====================
 
-Last Updated: June 30, 2023
+Last Updated: June 25, 2024
 
 We at Talkatone, LLC (“Talkatone”, “we” or “us”), know that you care about how your Personal Information is used and shared, and take your privacy seriously. Please read the following to learn more about our privacy policies. By using the [Talkatone calling app](https://www.talkatone.com/) services and/or visiting the [https://www.talkatone.com/](https://www.talkatone.com/) website or domain name (the “Website”), and any other linked pages, features, content, or other application services offered from time to time by Talkatone in connection therewith (collectively, the “Services”), you acknowledge the practices and policies regarding our collection, use, and sharing of your Personal Information as described below. For the avoidance of doubt, references to our Website or the Services shall include, where relevant, your downloading, registration with, use, or access of any Talkatone mobile applications.
 
