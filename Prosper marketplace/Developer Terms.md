@@ -12,7 +12,7 @@
     
     [Settings](https://www.prosper.com/settings)
     
-    [History](https://www.prosper.com/secure/account/common/history.aspx)
+    [Documents & History](https://www.prosper.com/account/documents-and-history)
     
     [Log Out](https://www.prosper.com/signout)
     
@@ -58,7 +58,7 @@
     
 * RESOURCES
     
-    ### Calculators
+    [Calculators & Guides](https://www.prosper.com/resources)
     
     [Personal Loan Calculator](https://www.prosper.com/personal-loans/prosper-personal-loan-calculator)
     
@@ -67,6 +67,8 @@
     [Home Equity Calculator](https://www.prosper.com/home-equity/calculator)
     
     [Home Equity Rate & Payment Calculator](https://www.prosper.com/home-equity/line-of-credit/calculator)
+    
+    [Debt Consolidation Guide](https://www.prosper.com/resources/debt-consolidation-guide)
     
     [Blog](https://www.prosper.com/blog)
     
@@ -117,11 +119,11 @@
     
     [My Account](https://www.prosper.com/myaccount)
     
-    [Messages](https://www.prosper.com/secure/account/common/messages.aspx)
+    [Messages](https://www.prosper.com/account/events/messages)
     
     [Settings](https://www.prosper.com/settings)
     
-    [History](https://www.prosper.com/secure/account/common/history.aspx)
+    [Documents & History](https://www.prosper.com/account/documents-and-history)
     
     [Log Out](https://www.prosper.com/auth/signout)
     
@@ -142,7 +144,9 @@ We reserve the right to amend the API Terms of Use at any time and posting the r
 LICENSE TO USE API SERVICE
 --------------------------
 
-Prosper grants you a limited, revocable, non-exclusive, non-transferable, non-assignable, non-sublicenseable license to use the API Service for any lawful use that does not compete with products and services offered by Prosper, its parent company, Prosper Marketplace, Inc., any affiliates or any subsidiaries, on the terms set forth in this Agreement. The license shall continue for as long as we make the API Service available to you; provided, however, that the license will terminate immediately if you violate any terms of this Agreement. We may, in our sole discretion, with or without cause, modify, enhance, suspend, terminate or discontinue this license, or restrict your access to all or any part of the API Service at any time without prior notice or liability to you or anyone else. The API Service may contain technical inaccuracies or typographical errors, and Prosper does not undertake any obligation or responsibility to update or amend the API Service, or to provide support for your use of the API Service.  
+Prosper grants you a limited, revocable, non-exclusive, non-transferable, non-assignable, non-sublicenseable license to use the API Service for any lawful use that does not compete with products and services offered by Prosper, its parent company, Prosper Marketplace, Inc., any affiliates or any subsidiaries, on the terms set forth in this Agreement. The license shall continue for as long as we make the API Service available to you; provided, however, that the license will terminate immediately if you violate any terms of this Agreement. We may, in our sole discretion, with or without cause, modify, enhance, suspend, terminate or discontinue this license, or restrict your access to all or any part of the API Service at any time without prior notice or liability to you or anyone else. The API Service may contain technical inaccuracies or typographical errors, and Prosper does not undertake any obligation or responsibility to update or amend the API Service, or to provide support for your use of the API Service.
+
+  
 All data obtained from or provided by Prosper, regardless of the method of delivery, is explicitly prohibited from publication and distribution. Moreover, you represent that all data provided by Prosper to a user, regardless of the method of delivery, is not used for any competing purposes and only used to permit investment using the products or services of Prosper.
 
 COMPLIANCE WITH LAW
