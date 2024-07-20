@@ -1,5 +1,3 @@
-                 
-
 [![WordReference Forums](https://cdnawsf.wordreference.net/WR/WR52x32.png)](https://forum.wordreference.com/)
 
 [WordReference.com](https://www.wordreference.com/) [Language Forums](https://forum.wordreference.com/)
