@@ -6,14 +6,10 @@
 
 Product![](/images/icons/icon-chevron-down-white.svg)
 
-* Lyro AI Chatbot
-    
-* Help Desk
-    
-* Flows
-    
-* Integrations
-    
+* [Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
+* [Help Desk & Live Chat](https://www.tidio.com/help-desk/)
+* [Flows](https://www.tidio.com/flows/)
+* [Integrations](https://www.tidio.com/integrations/)
 * [See all Tidio features](https://www.tidio.com/features/)
     
 
@@ -35,7 +31,7 @@ Resources
 
 [Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
 
-Help Desk
+Help Desk & Live Chat
 
 [Learn more about Help Desk](https://www.tidio.com/help-desk/)
 
@@ -223,18 +219,15 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Pricing](https://www.tidio.com/pricing/customer-service/ "Pricing")
 
+[Ecommerce](https://www.tidio.com/industry/ecommerce/ "Ecommerce")
+
 Resources![](/images/icons/icon-chevron-down-white.svg)
 
-* Customer Stories
-    
-* Learn
-    
-* Compare
-    
-* Help Center
-    
-* Blog
-    
+* [Customer Stories](https://www.tidio.com/resources/case-studies/)
+* [Learn](https://academy.tidio.com/)
+* [Compare](https://www.tidio.com/resources/comparisons/)
+* [Help Center](https://help.tidio.com/hc/en-us)
+* [Blog](https://www.tidio.com/blog/)
 * [See all Resources](https://www.tidio.com/resources/)
     
 
@@ -588,7 +581,7 @@ See Tidio in action
 
 [Get started free](https://www.tidio.com/panel/register)
 
-[Get a demo](https://www.tidio.com/contact-sales/)
+[Contact sales](https://www.tidio.com/contact-sales/)
 
 Terms
 =====
@@ -995,7 +988,7 @@ Product
 * [Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/ "Lyro AI Chatbot")
 * [Live Chat](https://www.tidio.com/live-chat/ "Live Chat")
 * [Flows](https://www.tidio.com/flows/ "Flows")
-* [Help desk](https://www.tidio.com/helpdesk/ "Help desk")
+* [Help Desk](https://www.tidio.com/helpdesk/ "Help Desk")
 * [Tidio+](https://www.tidio.com/tidio-plus/ "Tidio+")
 * [All features](https://www.tidio.com/features/ "All features")
 * [Product Updates](https://tidio.noticeable.news/ "Product Updates")
