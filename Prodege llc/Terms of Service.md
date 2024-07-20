@@ -1,9 +1,9 @@
 Terms of Use
 ============
 
-United States and Canada
+United States
 
-* [United States and Canada](https://www.prodege.com/terms-of-use)
+* [United States](https://www.prodege.com/terms-of-use)
 * [International](https://www.prodege.com/terms-of-use-intl)
 
 ### Looking for Customer Support?
@@ -12,7 +12,14 @@ Find the Help Centers Below:
 
 [Swagbucks](https://help.swagbucks.com/) [InboxDollars](https://support.inboxdollars.com/hc/en-us) [MyPoints](https://help.mypoints.com/) [Upromise](https://help.upromise.com/) [Tada](https://help.tada.com/hc/en-us/requests/new) [ySense](https://help.ysense.com/)
 
-* [Terms of Use](https://www.prodege.com/terms-of-use/)
-* [Privacy Policy](https://www.prodege.com/privacy-policy/)
+* © 2024 Prodege, LLC
+* [Terms of Use](https://link.prodege.com/terms)
+* [Privacy Policy](https://link.prodege.com/privacy)
+* [Your Privacy Choices](https://www.prodege.com/do-not-sell/)
+* [Your Cookie Choices](#)
+* [Notice of Financial Incentives](https://www.prodege.com/financial-incentives-notice/)
+* [Accessibility Statement](https://www.prodege.com/accessibility-statement/)
+* [Affiliate programs](https://www.prodege.com/affiliate-programs/)
+* [Advertising Disclosure](https://www.prodege.com/advertising-disclosure/)
 
 close popup
