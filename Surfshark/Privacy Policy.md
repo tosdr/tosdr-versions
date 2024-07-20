@@ -278,9 +278,13 @@ If you wish to implement any of the above-mentioned rights, please contact us at
 5\. Do we engage in automated individual decision-making, including profiling?
 ------------------------------------------------------------------------------
 
-No.
+We do not perform profiling. This means that we do not analyze an individual’s personality, behaviors, interests, and habits to make predictions or decisions about them. We may use automated decision-making to enhance your experience with our Services.
 
-Automated decision-making is the process of making a decision by automated means without any human involvement. Profiling analyses aspects of individual’s personality, behaviour, interests and habits to make predictions or decisions about them. We assure you that we do not make decisions based solely on automated processing, including profiling, which would produce legal effects concerning you.
+Automated decision-making is the process of making a decision by automated means without any human involvement. The system may automatically generate decisions using a very limited amount of your personal information (for example, information related to your subscription). For instance, we may use an automated decision-making process to evaluate whether to apply a discount to the price of the subscription you purchase.
+
+Please note that we will not engage in automated decision-making that involves a decision with legal or similarly significant effects solely based on automated processing of personal information, unless you explicitly consented to the processing, or the processing is necessary for entering into a contract, or when otherwise authorized by applicable law. Automated decision-making will not be used to increase the price of the subscription you want to purchase.
+
+Do not forget that You have rights in relation to automated decision making, including the ability to object to such processing and / or request a manual decision-making process instead or contest a decision based solely on automated processing.
 
 6\. Cookies and web beacons
 ---------------------------
@@ -407,7 +411,7 @@ While translations of this Privacy Policy may be provided in other languages, th
 
 Keep in mind that we can update this Policy in the future & check it regularly.
 
-June 17, 2023.
+July 16, 2024.
 
 ###### Products
 
