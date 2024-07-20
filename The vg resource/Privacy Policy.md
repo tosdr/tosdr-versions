@@ -120,8 +120,8 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [Sonic the Hedgehog C...](https://www.spriters-resource.com/custom_edited/sonicthehedgehogcustoms/)
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
-* [Osomatsu-san Hesokur...](https://www.spriters-resource.com/mobile/osomatsusanhesokuriwarsbattleoftheneets/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
+* [Metal Slug Attack](https://www.spriters-resource.com/mobile/metalslugattack/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
