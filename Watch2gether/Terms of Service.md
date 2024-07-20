@@ -127,8 +127,6 @@ Originally adapted from the [WordPress Terms of Use](https://en.wordpress.com/to
 
   3 Likes
 
- 
-
 * [Home](https://community.w2g.tv/)
 * [Categories](https://community.w2g.tv/categories)
 * [Guidelines](https://community.w2g.tv/guidelines)
