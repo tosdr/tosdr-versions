@@ -19,7 +19,7 @@
 
 * Capabilities
     
-    Capabilites
+    Capabilities
     
     * Testing
         
@@ -157,25 +157,25 @@
     
     Webinars
     
+    [![Ishan Goel](https://static.wingify.com/gcp/uploads/2023/12/speaker-17.png?tr=w-60,h-50)
+    
+    Fireside Chat: Evolution of Statistics and Experimentation with VWO’s Lead Data Scientist](https://vwo.com/webinars/fireside-chat-evolution-statistics-experimentation-vwos-lead-data-scientist/)
+    
+    [![Kanishk Mehta](https://static.wingify.com/gcp/uploads/2024/07/Photo-Kanishk-Mehta-1.jpeg?tr=w-60,h-50)
+    
+    Retention Mastery: Proven Strategies to Keep Your Mobile App Users Hooked](https://vwo.com/webinars/retention-mastery-proven-strategies-to-keep-your-mobile-app-users-hooked/)
+    
     [![Steven Waller](https://static.wingify.com/gcp/uploads/2024/06/steve-waller-headshot-1-scaled.jpg?tr=w-60,h-50)
     
     Cut Through the Noise to Drive More Conversions](https://vwo.com/webinars/cut-through-the-noise-to-drive-more-conversions/)
     
+    [![Eric Siu](https://static.wingify.com/gcp/uploads/2024/07/Eric-Headshot-1-scaled.jpeg?tr=w-60,h-50)
+    
+    AI-First Strategies to Drive Traffic and Conversions for 2024](https://vwo.com/webinars/mastering-traffic-conversion-ai-strategies-for-2024/)
+    
     [![Jyoti Malik](https://static.wingify.com/gcp/uploads/2024/06/Photoleap_03_01_2024_20_40_13_pDujm-2.png?tr=w-60,h-50)
     
     Navigation Optimization: The Overlooked Path to Higher Conversions](https://vwo.com/webinars/navigation-optimization-overlooked-path-higher-conversions/)
-    
-    [![Richard Joe](https://static.wingify.com/gcp/uploads/2024/06/Professional_Profile_Pic-copy-1-1.jpg?tr=w-60,h-50)
-    
-    The Crucial Role of Feedback Loops in A/B Testing](https://vwo.com/webinars/crucial-role-feedback-loops-a-b-testing/)
-    
-    [![Sarjak Patel](https://static.wingify.com/gcp/uploads/2024/05/1528342719984.jpeg?tr=w-60,h-50)
-    
-    AI-Powered Personalization: Principles, Use Cases, and Its Impact on CRO](https://vwo.com/webinars/ai-powered-personalization-principles-use-cases-its-impact-cro/)
-    
-    [![Alexandra Cîmpan](https://static.wingify.com/gcp/uploads/2023/06/Alexandra-C.jpg?tr=w-60,h-50)
-    
-    How to Run Landing Page Tests On and Off Paid Social Platforms](https://vwo.com/webinars/how-run-landing-page-tests-on-off-paid-social-platforms/)
     
     [View all webinars](https://vwo.com/webinars)
     
@@ -183,25 +183,25 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-Women-in-CRO_-Insights-from-Our-Conversation-with-Eden-Bidani-Head-of-Strategy-Copy-at-CAPE.Agency@2x-1.jpg?tr=w-60,h-50)
+    
+    Women in CRO: Insights from Eden Bidani, Head of Strategy & Copy at CAPE.Agency](https://vwo.com/blog/women-cro-insights-eden-bidani/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-How-to-Use-Mobile-App-Funnel-Analysis-to-Optimize-User-Journeys-A-Complete-Guide-1.jpg?tr=w-60,h-50)
+    
+    How to Use Mobile App Funnel Analysis to Optimize User Journeys – A Complete Guide](https://vwo.com/blog/mobile-app-funnel-analysis/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-Women-in-CRO_-Insights-from-Our-Conversation-with-Els-Aerts-co-founder-of-AGConsult-1.jpg?tr=w-60,h-50)
+    
+    Women in CRO: Insights from Our Conversation with Els Aerts, co-founder of AGConsult](https://vwo.com/blog/ux-cro-insights-els-aerts/)
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-CRO-Perspectives-Jared-Brown-1-1.jpg?tr=w-60,h-50)
+    
+    CRO’s Evolution from Silo to Business Strategy and Innovation: Insights from Ruben de Boer](https://vwo.com/blog/cro-insights-ruben-de-boer/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-Visitor-Behavior-Analysis-6-Must-Watch-Webinars-to-Improve-Website-Experience.jpg?tr=w-60,h-50)
     
     Visitor Behavior Analysis – 6 Must-Watch Webinars to Improve Website Experience](https://vwo.com/blog/6-must-watch-webinars-to-improve-website-experience/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/05/Feature-image-CRO-Perspectives-Jared-Brown-1.jpg?tr=w-60,h-50)
-    
-    Risks of Rushed Tests and Relying on Limited Data – Insights from Jared Brown](https://vwo.com/blog/insights-from-jared-brown-cro-perspectives/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/05/Feature-image-Quantitative-vs.-Qualitative-Visitor-Research_-Discover-How-They-Collaborate-Not-Compete-1.jpg?tr=w-60,h-50)
-    
-    Quantitative vs. Qualitative Visitor Research: Discover How They Collaborate, Not Compete](https://vwo.com/blog/quantitative-vs-qualitative-visitor-research/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/05/Feature-image-Understanding-Website-Personalization_-Examples-to-Help-You-Get-Started.jpg?tr=w-60,h-50)
-    
-    Understanding Website Personalization: Examples to Help You Get Started](https://vwo.com/blog/understanding-website-personalization-examples-to-help-you-get-started/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/04/Feature-image-CRO-Perspectives-Haley-Carpenter-1.jpg?tr=w-60,h-50)
-    
-    Test Result Analysis and Subsequent Action: Insights from Haley Carpenter](https://vwo.com/blog/test-result-analysis-and-subsequent-action-insights-from-haley-carpenter/)
     
     Featured Blogs
     
@@ -229,11 +229,13 @@
     
     Masters of conversion
     
-    Upcoming Webinars
-    
-    [![Personalization in Action: Maximizing Impact with What You've Got](https://static.wingify.com/gcp/uploads/2024/06/resources-menu-upcoming-image-Jonathan-Lansdown-600-by-483@1x-2.png?tr=w-300,h-240)](https://vwo.com/webcast/personalization-in-action-maximizing-impact-with-what-youve-got/)
-    
     Past Webinars
+    
+    [![Florent Buisson](https://static.wingify.com/gcp/uploads/2024/07/Florent-Buisson-speaker-photo.png?tr=w-60,h-60)
+    
+    Research to Results: A Behavioral Economist’s Guide to CRO
+    
+    \- Florent Buisson, Cars Commerce](https://vwo.com/webcast/research-results-behavioral-economists-guide-cro/)
     
     [![Craig Sullivan](https://static.wingify.com/gcp/uploads/2024/04/Craig-Sullivan-speaker-photo@2x.png?tr=w-60,h-60)
     
@@ -253,6 +255,18 @@
     
     \- Viket Benzesin, Mars](https://vwo.com/webcast/converting-with-comedy-research-parallels-for-cro/)
     
+    [![Rohan Singh Rajput](https://static.wingify.com/gcp/uploads/2024/01/Rohan-Singh-Rajput-speaker-photo.png?tr=w-60,h-60)
+    
+    Building Personalized Meditation Experiences
+    
+    \- Rohan Singh Rajput, Headspace](https://vwo.com/webcast/a-b-testing-personalized-meditation-recommendation-system/)
+    
+    [![Max Bradley](https://static.wingify.com/gcp/uploads/2023/11/Max-Bradley@1x.png?tr=w-60,h-60)
+    
+    Turning Business Challenges into Testable Ideas
+    
+    \- Max Bradley, Wiz](https://vwo.com/webcast/turning-business-challenges-testable-ideas/)
+    
     [View all webinars](https://vwo.com/webcast/)
     
     VWO Success Stories
@@ -267,7 +281,7 @@
     
     Serpent Forge Enhances Add-to-Cart Clicks Through Product Page Testing](https://vwo.com/success-stories/serpent-forge/)
     
-    [![Logo](https://static.wingify.com/gcp//uploads/2024/01/logo.png)
+    [![Logo](https://static.wingify.com/gcp/tr:h-50,w-60,c-at_max/uploads/2024/01/logo.png)
     
     Melbourne Innovation Centre Boosts Lead Conversion Through Homepage Testing](https://vwo.com/success-stories/melbourne-innovation-centre/)
     
@@ -347,6 +361,7 @@
     
     [VWO Knowledge Base](https://help.vwo.com/) [Product Updates](https://vwo.com/product-updates)
     
+* [Partners](https://vwo.com/partners/)
 * [Contact Us](https://vwo.com/contact-us/)
 * Login
     
@@ -379,7 +394,7 @@ Privacy Policy
 
 **Effective from: May 06, 2024, for New and Existing Customer**  
 **Current Version: 4.1**  
-**All previous Privacy Policy** [available here](https://vwo.com/compliance/archives)
+**All previous Privacy Policy** [available here](https://vwo.com/compliance/archives/)
 
 Non-legalese, Simple English Summary
 ------------------------------------
