@@ -114,7 +114,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -624,11 +623,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Football Manager 2024 PC (Steam)  (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/_/w/_wck_v.jpg)   No 7. \-67%](https://www.cdkeys.com/pc/football-manager-2024-pc-steam-eu)
+7.    [![Football Manager 2024 PC (Steam)  (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/_/w/_wck_v.jpg)   No 7. \-68%](https://www.cdkeys.com/pc/football-manager-2024-pc-steam-eu)
     
     **[Football Manager 2024 PC (Steam) (Europe & UK)](https://www.cdkeys.com/pc/football-manager-2024-pc-steam-eu "Football Manager 2024 PC (Steam)  (Europe & UK)")**
     
-    Special Price £14.99 RRP £44.99
+    Special Price £14.49 RRP £44.99
     
     [Add to Wish List](# "Add to Wish List")
     
