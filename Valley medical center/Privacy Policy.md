@@ -1,13 +1,6 @@
-**Apple Health Expansion for Immigrants:**  
-You may be eligible to sign up for Apple Health Expansion insurance if you live in the state of Washington, even if you immigrated to the United States and/or are undocumented. [Learn more](https://www.uwmedicine.org/patient-resources/billing-and-insurance/washington-health-benefit-exchange/apple-health-expansion).
-
-Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro médico si vive en el estado de Washington, incluso si usted inmigró a los Estados Unidos y/o es indocumentado. [Aprende más](https://www.uwmedicine.org/patient-resources/billing-and-insurance/washington-health-benefit-exchange/apple-health-expansion/es-us).
-
-![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
-
 [![uwm-vmc-logo.024c223a](/globalassets/valley-medical/images/uwm-vmc-logo.024c223a.svg)](https://www.valleymed.org/) [![uwm-vmc-logo.024c223a](/contentassets/061a7d3df7f84affbaf7a9d5f8e2ab18/uw-mobile-logo.png)](https://www.valleymed.org/)
 
-* [Urgent Care Wait Times](https://www.valleymed.org/wait-times)
+* [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
 * [About Us](https://www.valleymed.org/about-us)
 * [Support Valley](https://www.valleymed.org/support-valley)
 * [MyChart](https://mychart.valleymed.org/)
@@ -51,7 +44,7 @@ Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro m
 * [Outreach & Education ![](/assets/images/icon-forward-white.svg)](#submenu5) 
 * [Online Gift Shop](https://www.valleymed.org/patients--visitors/patient--guest-services/online-gift-shop)
 
-* [Urgent Care Wait Times](https://www.valleymed.org/wait-times)
+* [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
 * [About Us](https://www.valleymed.org/about-us)
 * [Support Valley](https://www.valleymed.org/support-valley)
 * [MyChart](https://mychart.valleymed.org/)
@@ -71,7 +64,7 @@ Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro m
 * [Surgery](https://www.valleymed.org/services/all-specialties/surgical-services)
 * [A-Z Directory](https://www.valleymed.org/services/all-specialties)
 
-* [Urgent Care Wait Times](https://www.valleymed.org/wait-times)
+* [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
 * [About Us](https://www.valleymed.org/about-us)
 * [Support Valley](https://www.valleymed.org/support-valley)
 * [MyChart](https://mychart.valleymed.org/)
@@ -86,7 +79,7 @@ Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro m
 * [Quality, Safety & Patient Rights](https://www.valleymed.org/patients--visitors/quality-safety--patient-rights)
 * [Recognize a Caregiver](https://www.valleymed.org/patients--visitors/recognize-a-caregiver)
 
-* [Urgent Care Wait Times](https://www.valleymed.org/wait-times)
+* [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
 * [About Us](https://www.valleymed.org/about-us)
 * [Support Valley](https://www.valleymed.org/support-valley)
 * [MyChart](https://mychart.valleymed.org/)
@@ -99,7 +92,7 @@ Puede que usted sea elegible para inscribirse en Apple Health Expansion seguro m
 * [Classes & Events](https://events-valleymed.force.com/s/events)
 * [Resources to Manage Your Health](https://www.valleymed.org/outreach--education)
 
-* [Urgent Care Wait Times](https://www.valleymed.org/wait-times)
+* [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
 * [About Us](https://www.valleymed.org/about-us)
 * [Support Valley](https://www.valleymed.org/support-valley)
 * [MyChart](https://mychart.valleymed.org/)
