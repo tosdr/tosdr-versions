@@ -1,4 +1,4 @@
-![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/6125949472454a3775e325ad_blue_right.svg)![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/61259419336ed78fa4dd3444_orange_left.svg)
+![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/6125949472454a3775e325ad_blue_right.svg)![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/61259419336ed78fa4dd3444_orange_left.svg)
 
 Surf Privacy Policy
 ===================
@@ -139,8 +139,8 @@ Swarochish Goswami (CEO & Co-Founder, Trufan)
 
 [Earn $5 in Less Than 5 Minutes!](https://app.joinsurf.com/signup/)
 
-[![](https://assets-global.website-files.com/60e37b6f70566d846693fa60/61243c497b0643841db3629d_Surf_logo_full_dark.svg)](https://www.joinsurf.com/extension)
+[![](https://cdn.prod.website-files.com/60e37b6f70566d846693fa60/61243c497b0643841db3629d_Surf_logo_full_dark.svg)](https://www.joinsurf.com/extension)
 
 [FAQ](https://www.joinsurf.com/extension/#faq_section)[FAQ](https://www.joinsurf.com/extension#faq_section)[Blog](https://www.joinsurf.com/archived/surf-blog)[For Brands](https://www.joinsurf.com/)
 
-[Install Surf, It's Free!](https://app.joinsurf.com/signup/)
+[Install Surf, It's Free!](mailto:swish@joinsurf.com)
