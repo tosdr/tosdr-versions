@@ -21,6 +21,7 @@ Close Search ×
     * [YouTube Channel](https://www.youtube.com/channel/UC1MNyOMWppnuQXiBDV0xjuQ)
     * [Terms & Conditions](https://starships.com/terms-conditions/)
     * [Contact](https://starships.com/contact/)
+* [Shop](https://shop.starships.com/)
 
 [![StarShips.com](https://starships.com/wp-content/uploads/logo-resized-removebg.png)](https://starships.com/ "StarShips.com")
 
