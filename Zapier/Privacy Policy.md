@@ -409,7 +409,7 @@ Description of Change: Updates made to the Privacy Statement to:
 * [](https://www.youtube.com/user/ZapierApp/videos?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier "See helpful Zapier videos on Youtube")
 * [](https://zapier.com/blog/feeds/latest/ "Subscribe to our blog")
 
-Zapier
+[](https://zapier.com/)
 
 © 2024 Zapier Inc.
 
