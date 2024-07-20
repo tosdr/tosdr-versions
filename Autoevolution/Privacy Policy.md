@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Unpopular Opinion: Top-Hinged Accelerator Pedals Suck, All Cars Should Go Bottom-Hinged](https://s1.cdn.autoevolution.com/images/news/unpopular-opinion-top-hinged-accelerator-pedals-suck-all-cars-should-go-bottom-hinged-237170-5.jpeg "Unpopular Opinion: Top-Hinged Accelerator Pedals Suck, All Cars Should Go Bottom-Hinged")
+[![Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions](https://s1.cdn.autoevolution.com/images/news/thieves-stealing-ev-charger-cables-for-scrap-copper-has-reached-epidemic-proportions-237250-5.jpeg "Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions")
 
-#### Unpopular Opinion: Top-Hinged Accelerator Pedals Suck, All Cars Should Go Bottom-Hinged](https://www.autoevolution.com/news/unpopular-opinion-top-hinged-accelerator-pedals-suck-all-cars-should-go-bottom-hinged-237170.html "Unpopular Opinion: Top-Hinged Accelerator Pedals Suck, All Cars Should Go Bottom-Hinged")
+#### Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions](https://www.autoevolution.com/news/thieves-stealing-ev-charger-cables-for-scrap-copper-has-reached-epidemic-proportions-237250.html "Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions")
 
 coverstory \_
 
-[![Don't Miss These Great Racing Games Discounts From the PlayStation Store Summer Sale](https://s1.cdn.autoevolution.com/images/news/don-t-miss-these-great-racing-games-discounts-from-the-playstation-store-summer-sale-237113-5.jpg "Don't Miss These Great Racing Games Discounts From the PlayStation Store Summer Sale")
+[![1988 Chevrolet Monte Carlo SS Rocks 8k 'Original Miles' and a Fair Asking Price ](https://s1.cdn.autoevolution.com/images/news/1988-chevrolet-monte-carlo-ss-rocks-8k-original-miles-and-a-fair-asking-price-237110-5.jpg "1988 Chevrolet Monte Carlo SS Rocks 8k 'Original Miles' and a Fair Asking Price ")
 
-Don't Miss These Great Racing Games Discounts From the PlayStation Store Summer Sale](https://www.autoevolution.com/news/don-t-miss-these-great-racing-games-discounts-from-the-playstation-store-summer-sale-237113.html)
+1988 Chevrolet Monte Carlo SS Rocks 8k 'Original Miles' and a Fair Asking Price](https://www.autoevolution.com/news/1988-chevrolet-monte-carlo-ss-rocks-8k-original-miles-and-a-fair-asking-price-237110.html) 
 
 how-to \_
 
