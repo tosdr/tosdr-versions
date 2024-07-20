@@ -3,17 +3,15 @@
 * Why Sift
     
     * [The Sift Difference](https://sift.com/why-sift)
-    * [EXPLORE WHY](https://sift.com/cookie-policy#)
     * [Market Leadership](https://sift.com/why-sift#leadership)
     * [Partnerships](https://sift.com/partnerships)
     * [Professional Services](https://sift.com/services)
     * [Patents](https://sift.com/patents)
-    * [EVEN MORE](https://sift.com/cookie-policy#)
     * [Sifters Community](https://sift.com/community)
 * Solutions
     
     * [Solutions Overview](https://sift.com/solutions)
-    * By Use case
+    * By Use Case
         
         * [Account Creation](https://sift.com/solutions/account-creation)
         * [Account Takeover (ATO)](https://sift.com/solutions/ato)
@@ -33,11 +31,11 @@
         * [Food & Delivery](https://sift.com/solutions/food-delivery)
     * By Role
         
-        * [Trust & Fraud](https://sift.com/solutions/trust-fraud-operations)
-        * [Product Management](https://sift.com/solutions/product-management)
-        * [Operations](https://sift.com/solutions/business-operations)
-        * [InfoSec & IT](https://sift.com/solutions/information-security)
-        * [Executives](https://sift.com/solutions/executives)
+        * [Fraud & Compliance](https://sift.com/solutions/trust-fraud-operations)
+        * [Product](https://sift.com/solutions/product-management)
+        * [IT Operations](https://sift.com/solutions/business-operations)
+        * [Cybersecurity](https://sift.com/solutions/information-security)
+        * [CFO](https://sift.com/solutions/cfo)
     * [Risk Assessment](https://sift.com/risk-assessment)
         
 * Platform
@@ -46,12 +44,12 @@
     * Products
         
         * [Payment Protection](https://sift.com/platform/payment-protection)
-        * [Content Integrity](https://sift.com/platform/content-integrity)
         * [Account Defense](https://sift.com/platform/account-defense)
         * [Dispute Management](https://sift.com/platform/dispute-management)
-    * Ecosystem
+        * [Content Integrity](https://sift.com/platform/content-integrity)
+    * Partner Ecosystem
         
-        * [Partner Ecosystem](https://sift.com/partner-ecosystem)
+        * [Overview](https://sift.com/partner-ecosystem)
         * [Payment & Fraud Orchestration](https://sift.com/partner-ecosystem/payment-fraud-orchestration)
         * [Payment Service Providers (PSPs)](https://sift.com/partner-ecosystem/payment-service-providers)
         * [Identity Verification & Proofing](https://sift.com/partner-ecosystem/identity-verification-proofing)
@@ -64,12 +62,11 @@
 * Resources
     
     * [All Resources](https://sift.com/resources)
-    * [BY TOPIC](https://sift.com/cookie-policy#)
+    * [BY USE CASE](https://sift.com/cookie-policy#)
     * [Payment Fraud](https://sift.com/resources?use_case=payment-fraud-type)
     * [Chargeback Fraud](https://sift.com/resources?use_case=chargeback-disputes-type)
     * [Account Fraud](https://sift.com/resources?use_case=ato-type)
     * [Content Abuse](https://sift.com/resources?use_case=spam-type)
-    * [EVEN MORE](https://sift.com/cookie-policy#)
     * [FIBR Fraud Center](https://sift.com/fibr-fraud-industry-benchmarking-resource)
     * [Blog](https://sift.com/blog)
     * [Trust & Safety University](https://sift.com/trust-safety-university)
@@ -90,7 +87,7 @@
 
 [.](https://sift.com/fibr-fraud-industry-benchmarking-resource)
 
-[Speak to an expert](https://sift.com/contact-us)
+[See Sift in Action](https://sift.com/demo)
 
 [](https://console.sift.com/login?_gl=1*4om7dj*_ga*MjEwNTQyODU2LjE2OTg2OTA0MjA.*_ga_R8SV2EK5NZ*MTcwNjYzODY3OC4zNC4xLjE3MDY2Mzg2OTAuMC4wLjA)
 
