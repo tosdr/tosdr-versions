@@ -1,6 +1,7 @@
 * [Privacy Notice](https://www.smallpdf.com/privacy)
 * [Terms & Conditions](https://www.smallpdf.com/terms)
 * [Data Processing Agreement](https://www.smallpdf.com/dpa)
+* [AI Products Terms](https://www.smallpdf.com/ai-products-supplementary-terms)
 * [Imprint](https://www.smallpdf.com/imprint)
 
 Terms & Conditions
@@ -256,25 +257,4 @@ We may update the DPA from time to time. If you have an active Smallpdf Team
 
 The term of this DPA will follow the term or our agreement under the Terms of Services. Terms not otherwise defined in this DPA will have the meaning as set forth in the Terms of Services.
 
-Smallpdf AI PDF Supplementary Terms
------------------------------------
-
-These Smallpdf AI PDF Supplementary Terms (“Smallpdf AI PDF Terms”) form a part of the Smallpdf Privacy Notice and Smallpdf Terms, as applicable, between you and Smallpdf (the “Agreement”). When individual terms are agreed between you and Smallpdf, those should also form part of the Agreement. These Smallpdf AI PDF Terms apply to your access and use of any Smallpdf AI PDF feature(s). Any terms used herein have the same meaning as in the Agreement. 
-
-“Smallpdf AI PDF” means any feature(s) or functionality made available by Smallpdf and labelled as Smallpdf AI PDF that utilize data models trained by machine learning. 
-
-Subscription Term and Subscriptions. Smallpdf AI PDF is not priced separately and comes with your standard Smallpdf subscription. Your use of Smallpdf AI PDF is subject to fair usage restrictions. You acknowledge and agree that if you exceed the permitted usage, Smallpdf may disable or degrade the performance of such Smallpdf AI PDF features. 
-
-Improving Smallpdf AI PDF. Smallpdf does not use your Customer Data or permit others to use your Customer Data to train the machine learning models used to provide the Smallpdf AI PDF. Your use of the Smallpdf AI PDF does not grant Smallpdf any right or license to your Customer Data to train our machine learning models. Artificial intelligence and machine learning models can improve over time to better address specific use cases. We keep your usage data in Smallpdf internal database to improve your experience, but we won’t share it with OpenAI to train their models, and we will delete your usage data from our internal database after 90 days. 
-
-Input and Output. You may provide input to be processed by Smallpdf AI PDF (“Input”), and receive output generated and returned by Smallpdf AI PDF based on the Input (“Output”). When you use Smallpdf AI PDF, Input and Output are your Customer Data. You are solely responsible for the development, content, operation, maintenance, and use of your Customer Data. You will ensure that your Input and use of Smallpdf AI PDF and Output will not (i) violate any applicable law; (ii) violate these Smallpdf AI PDF Terms and the Agreement; or (iii) infringe, violate, or misappropriate any of our rights or the rights of any third party. You acknowledge that due to the nature of machine learning and the technology powering Smallpdf AI PDF features, Output may not be unique, and Smallpdf AI PDF may generate the same or similar output to Smallpdf or a third party. 
-
-Smallpdf AI PDF Feature Use Restrictions. You may not use Smallpdf AI PDF or Output (i) to develop foundation models or other large-scale models that compete with Smallpdf or Smallpdf AI PDF; (ii) to mislead any person that Output from the Services was solely human generated; (iii) to generate spam or content for dissemination in electoral campaigns, or (iv) in a manner that violates any technical documentation, usage guidelines, or parameters.
-
-WARRANTY DISCLAIMER. SMALLPDF DOES NOT MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF SMALLPDF AI PDF OR THE ACCURACY OF ANY OTHER INFORMATION OBTAINED THROUGH SMALLPDF AI PDF. YOU UNDERSTAND AND AGREE THAT ANY MATERIAL AND/OR DATA OBTAINED THROUGH THE USE OF ANY SMALLPDF AI PDF FEATURE IS DONE AT YOUR SOLE RISK. YOU SHOULD NOT RELY ON FACTUAL ASSERTIONS IN OUTPUT WITHOUT INDEPENDENTLY CHECKING THEIR ACCURACY. OUTPUT THAT APPEAR ACCURATE BECAUSE OF THEIR DETAIL OF SPECIFICITY MAY STILL CONTAIN MATERIAL INACCURACIES. SMALLPDF AI PDF CANNOT DYNAMICALLY RETRIEVE INFORMATION, AND OUTPUT MAY NOT ACCOUNT FOR EVENTS OR CHANGES TO UNDERLYING FACTS OCCURRING AFTER THE AI MODEL WAS TRAINED. NO INFORMATION OR ADVICE, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM SMALLPDF OR THROUGH SMALLPDF AI PDF SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. SMALLPDF’S LIABILITY ARISING FROM OR IN RELATION TO THE USE OF SMALLPDF AI PDF IS EXCLUDED TO THE EXTENT PERMITTABLE BY APPLICABLE LAWS. 
-
-Service Level Terms Are Not Applicable. Notwithstanding anything to the contrary in your Agreement, downtime of Smallpdf AI PDF that results from a failure of a third-party service will not be included in the availability and downtime calculations. No service levels shall apply to Smallpdf AI PDF. 
-
-Third-Party Provider Policies. If you choose to use the Smallpdf AI PDF feature(s), you may not use the Smallpdf AI PDF features in a manner that violates any OpenAI Policy, including their Content Policy; Sharing and Publication Policy; and Community Guidelines. 
-
-Last updated: 06.12.2023.
+Last updated: 10.07.2024.
