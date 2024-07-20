@@ -1,13 +1,35 @@
+GET IT ON
+
 [Skip to content](#simon)
 
-[](https://www.simon.com/ "Simon")
+* [MALLS](https://www.simon.com/ "Simon Malls & Mills Centers")
+* |
+* [PREMIUM OUTLETS®](https://www.premiumoutlets.com/ "Simon Premium Outlets Centers")
 
-* [SHOPPERS](https://www.simon.com/ "Discover A Simon Mall®, The Mills® Or Premium Outlets® Shopping Center")
-* [BUSINESS](https://business.simon.com/ "Lease Space & Buy Advertising In A Simon Center")
-* [INVESTORS](https://investors.simon.com/ "Visit Simon Property Group's (NYSE: SPG) Investor Relations")
-* [CAREERS](https://careers.simon.com/ "Learn About Working At Simon & View Open Jobs")
-* [CONTACT](https://www.simon.com/contact "Contact The Simon Team")
+* [FIND A CENTER](https://www.simon.com/mall "Find A Simon Mall or Outlet Near You")
+* [MALL INSIDER](https://www.simon.com/mall-insider "Become A Mall Insider Today")
+* [CONTACT](https://www.simon.com/contact "Contact the Simon Team")
 * 
+
+[](https://www.simon.com/ "Simon Malls & Mills Home")
+
+* [Brands](https://www.simon.com/brands)
+* [Centers](https://www.simon.com/mall)
+* [Travel](https://www.simon.com/travel)
+
+Menu
+
+[Find Nearby Centers](https://www.simon.com/mall)
+
+Use your location to find centers near you
+
+* [About](https://business.simon.com/why-simon "About Simon")
+* [Brands](https://www.simon.com/brands "Brands")
+* [All Properties](https://www.simon.com/mall)
+* [Giftcards](https://www.simon.com/giftcard)
+* [Travel](https://www.simon.com/travel)
+* [Mall Insider](https://www.simon.com/mall-insider "Become a Mall Insider Today")
+* [Contact](https://www.simon.com/contact "Contact Us")
 
  
 
@@ -385,45 +407,86 @@ BECOME A MALL INSIDER
 #### DEALS. EVENTS.  
 EXCLUSIVE OFFERS!
 
-Become a Mall Insider today for the chance to win a $1,000 shopping spree!
+Become a Simon Mall Insider® today for the  
+chance to win a $1,000 shopping spree!
 
 EMAIL ADDRESS: Required  JOIN
 
-* [](https://facebook.com/shopsimon.us)
-* [](https://said.simon.com/)
-* [](https://instagram.com/shopsimon)
+* [](https://facebook.com/shopsimon.us "Follow Us on Facebook")
+* [](https://instagram.com/shopsimon "Follow Us on Instagram")
+* [](https://said.simon.com/ "Read Our Lifestyle Publication")
 
-[FIND A SIMON CENTER](https://www.simon.com/search "Find A Simon Shopping Center Near You")
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://apps.apple.com/app/apple-store/id395128180?pt=387909&ct=website-footer&mt=8 "Download on the Apple App Store") [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://play.google.com/store/apps/details?id=com.simon.app.simonmalls&referrer=utm_source%3Dwebsite%26utm_medium%3Dfooter "Download on Google Play")
 
 * * *
 
-Learn More
-
-* [About Simon](https://business.simon.com/why-simon "Experience Shopping the Simon Way")
-* [See All Properties](https://www.simon.com/mall "Discover Simon Worldwide")
-* [Travel & Tourism](https://www.simon.com/travel "Discover Simon's Shopping Destinations")
-* [Brands](https://www.simon.com/brands "Exceptional Simon Brands")
-
-More From Simon
-
-* [Shop Premium Outlets](https://shoppremiumoutlets.com/?utm_source=PO&utm_medium=Footer&utm_campaign=PO_Footer_SHOPPREMIUMOUTLETS "Shop Premium Outlets")
-* [Simon SAID](https://said.simon.com/ "Discover the Simon Lifestyle")
-* [Simon Credit Card](https://www.cardless.com/cards/simon?utm_source=simon_website "Simon Credit Card")
-* [Simon Youth Foundation](https://syf.org/ "Creating Academic Opportunities")
-
 Simon Giftcards®
 
-* [Purchase a Giftcard](https://www.simon.com/giftcard/ "Give the Gift They Really Want")
-* [Register Your Card](https://www.simon.com/giftcard/account_register.aspx "Register Your Visa® Simon Giftcard®")
-* [Check Your Balance](https://www.simon.com/giftcard/card_balance.aspx "View Balance for Visa® Simon Giftcard®")
-* [Account Sales](https://www.simon.com/volume/ "Bulk Orders for Simon Giftcard®")
+[Purchase a Giftcard](https://www.simon.com/giftcard/ "Give the Gift They Really Want")
+
+[Activate Your Card](https://www.simon.com/volume/activate " Activate Your Simon Giftcard")
+
+[Register Your Card](https://www.simon.com/giftcard/account_register.aspx "Register Your Simon Giftcard for Online Purchases")
+
+[Check Your Balance](https://www.simon.com/giftcard/card_balance.aspx "View Your Current Simon Giftcard Balance")
+
+[Account Sales](https://www.simon.com/volume/ "Bulk Orders for Simon Giftcard®")
 
 For Businesses
 
-* [Advertising](https://business.simon.com/media-experiences-overview "Advertise at a Simon Property")
-* [Leasing](https://business.simon.com/leasing "Lease at a Simon Property")
-* [Portfolio](https://business.simon.com/search "Learn About Property Services")
-* [Retailer Marketing](https://business.simon.com/retailer-marketing "Learn About Retailer Marketing")
+[Leasing](https://business.simon.com/ "Lease at a Simon Property")
+
+[Advertising](https://business.simon.com/media-experiences-overview "Advertise at a Simon Property")
+
+[Portfolio](https://business.simon.com/search "Discover Simon Worldwide")
+
+[Media | Experiences](https://business.simon.com/media-experiences-overview "Learn About Our Nationwide Media Network ")
+
+[Retailer Marketing](https://business.simon.com/retailer-marketing "Amplify Your Brand With Simon")
+
+[Innovation](https://business.simon.com/simon-innovation-group "Simon Innovation Group")
+
+[Ventures](https://business.simon.com/simon-ventures "Simon Ventures")
+
+For Investors
+
+[News & Events](https://investors.simon.com/news-events/press-releases "Press Releases")
+
+[Sustainability](https://investors.simon.com/sustainability "Creating Sustainable Customers, Communities, Environments and Employees")
+
+[Stock Info](https://investors.simon.com/stock-information/stock-quote-chart "Stock Quote & Chart")
+
+[Financials](https://investors.simon.com/financial-information/annual-reports "Annual Reports & Proxy Statements")
+
+[Governance](https://investors.simon.com/corporate-governance/highlights "Simon's Governance")
+
+[Stockholders](https://investors.simon.com/stockholders/investor-kit "Online Investor Kit")
+
+For Job Seekers
+
+[Discover Simon](https://careers.simon.com/why-simon "Learn about Simon and who we are.")
+
+[Discover Your Potential](https://careers.simon.com/core-values "Discover the core values that create the Simon Experience.")
+
+[Campus Recruiting](https://careers.simon.com/campus-recruiting "Explore campus recruiting here at Simon")
+
+[Portfolio](https://business.simon.com/search "Simon Portfolio")
+
+More From Simon
+
+[About Simon](https://business.simon.com/why-simon "Experience Shopping the Simon Way")
+
+[Simon SAID](https://said.simon.com/ "Discover the Simon Lifestyle")
+
+[Simon Credit Card](https://www.cardless.com/cards/simon?utm_source=simon_website " Apply for the Simon American Express® Credit Card")
+
+[Simon Youth Foundation](https://syf.org/ "Creating Academic Opportunities")
+
+[Send Feedback](https://spg.iad1.qualtrics.com/jfe/form/SV_eD5rbglNTlbJvet "Tell Us About Your Experience")
 
 COPYRIGHT© 1999-2024, SIMON MEDIA PROPERTIES, LLC ALL RIGHTS RESERVED.  
-By continuing past this page and/or using this site, you agree to abide by the [Terms of Use](https://www.simon.com/legal "View Our Website Terms Of Use") for this site, which prohibit commercial use of any information on this site. View our [Privacy Policy](https://www.simon.com/legal/privacy "Understand Our Privacy Policy"), [Cookie Policy](https://www.simon.com/legal/cookies "Understand Our Cookie Policy") & Cookie Settings
+By continuing past this page and/or using this site, you agree to abide by the [Terms of Use](https://www.simon.com/legal "View Simon's Terms of Use") for this site, which prohibit commercial use of any information on this site.
+
+* [Accessibility](https://www.simon.com/legal/web-accessibility "View Simon’s Web Accessibility Statement")
+* [Privacy Policy](https://www.simon.com/legal/privacy "View Simon’s Privacy Policy")
+* Do Not Sell or Share My Personal Information and Opt Out of Targeted Advertising
