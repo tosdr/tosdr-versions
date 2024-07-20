@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-172186583998)                     
+![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-173547758928)                     
 
 ![](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1)
 
@@ -81,6 +81,7 @@
     * [Legacy Manual Downloads](https://prompterpeople.com/manual-downloads/)
     * [Privacy Policy](https://prompterpeople.com/privacy-policy/)
     * [FAQ](https://prompterpeople.com/faq/)
+    * [Dealers](https://prompterpeople.com/dealers/)
 * [Blog](https://prompterpeople.com/blog/)
     
 * [Contact Us](https://prompterpeople.com/contact-us/)
@@ -108,6 +109,7 @@
     * [Legacy Manual Downloads](https://prompterpeople.com/manual-downloads/)
     * [Privacy Policy](https://prompterpeople.com/privacy-policy/)
     * [FAQ](https://prompterpeople.com/faq/)
+    * [Dealers](https://prompterpeople.com/dealers/)
 * [Blog](https://prompterpeople.com/blog/)
     
 * [Contact Us](https://prompterpeople.com/contact-us/)
