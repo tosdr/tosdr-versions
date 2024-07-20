@@ -12,17 +12,17 @@
 
 * [Mobilfunk](https://www.telekom.de/unterwegs "Mobilfunk")
     
-    *   [![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg)![Tarife](https://www.telekom.de/resources/images/974596/mobilfunk-tarife-optionen-hover.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/unterwegs/tarife-und-optionen "Tarife")  
-        * [Smartphone-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife "Smartphone-Tarife")
+    *   ![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg)![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
+        * [Handytarife](https://www.telekom.de/shop/tarife/smartphone-tarife "Handytarife")
         * [Prepaid-Tarife](https://www.telekom.de/unterwegs/prepaid-tarife "Prepaid-Tarife")
         * [Young-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young "Young-Tarife")
-        * [Young: GÖNN - Viel mobil, viel Deal](https://www.telekom.de/goenn "Young: GÖNN - Viel mobil, viel Deal")
         * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife "Daten-Tarife")
         * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet "Watch- & Tracker-Tarife")
+        * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten "Zusatzkarten")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/mobilfunk "Zubuchoptionen")
         * [Infos zu Roaming & Ausland](https://www.telekom.de/unterwegs/tarife-und-optionen/roaming "Infos zu Roaming & Ausland")
-    *   [![Geräte](https://www.telekom.de/resources/images/974636/mobilfunk-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974592/mobilfunk-geraete-hover.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/unterwegs/smartphones-und-tablets "Geräte")  
-        * [Smartphones](https://www.telekom.de/shop/geraete/smartphones "Smartphones")
+    *   ![Geräte](https://www.telekom.de/resources/images/974636/mobilfunk-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974636/mobilfunk-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
+        * [Handys](https://www.telekom.de/shop/geraete/smartphones "Handys")
         * [Tablets](https://www.telekom.de/shop/geraete/tablets "Tablets")
         * [Smartwatches](https://www.telekom.de/mobilfunk/geraete/smartwatch?pageFilter=promotion "Smartwatches")
         * [Mobile Router](https://www.telekom.de/shop/geraete/mobile-router "Mobile Router")
@@ -30,7 +30,7 @@
         * [Zubehör](https://www.telekom.de/mobilfunk/zubehoer "Zubehör")
         * [iPhone erleben](https://www.telekom.de/unterwegs/hersteller/apple/iphone-erleben "iPhone erleben")
         * [Android erleben](https://www.telekom.de/unterwegs/android-betriebssystem "Android erleben")
-    *   [![Netz](https://www.telekom.de/resources/images/974638/mobilfunk-netz.svg)![Netz](https://www.telekom.de/resources/images/974594/mobilfunk-netz-hover.svg) Netz ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/mobilfunk "Netz")  
+    *   ![Netz](https://www.telekom.de/resources/images/974638/mobilfunk-netz.svg)![Netz](https://www.telekom.de/resources/images/974638/mobilfunk-netz.svg) Netz ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [5G](https://www.telekom.de/netz/5g "5G")
         * [5G Ausbau](https://www.telekom.de/netz/mobilfunk-netzausbau "5G Ausbau")
         * [Grünes Netz](https://www.telekom.de/ueber-das-unternehmen/green-magenta?wt_mc=ii_sososoxx_navi-mobilfunk-netz-gruenes-netz "Grünes Netz")
@@ -46,22 +46,23 @@
     
 * [Internet](https://www.telekom.de/festnetz "Internet")
     
-    *   [![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974604/internet-tarife-hover.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/festnetz/tarife-und-optionen "Tarife")  
+    *   ![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl "Internet-Tarife")
         * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit "Internet-Tarife ohne Laufzeit")
         * [Für junge Leute unter 28](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute "Für junge Leute unter 28")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz "Zubuchoptionen")
         * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-tarife-verfuegbarkeitspruefung "Verfügbarkeitsprüfung")
-    *   [![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974600/internet-geraete-hover.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/festnetz/geraete "Geräte")  
+    *   ![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [WLAN & Router](https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router?wt_mc=ii_sososoxx_navi-internet-geraete-wlan-router "WLAN & Router")
         * [Festnetztelefone](https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone "Festnetztelefone")
         * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome "Smart Home Geräte")
-    *   [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974598/internet-vernetztes-zuhause-hover.svg) Vernetztes Zuhause ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/festnetz/heimvernetzung "Vernetztes Zuhause")  
+    *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
+        * [Vernetztes Zuhause](https://www.telekom.de/festnetz/heimvernetzung "Vernetztes Zuhause")
         * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete "WLAN Pakete")
         * [WLAN Optimierung](https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung "WLAN Optimierung")
         * [Mesh-Technologie](https://www.telekom.de/festnetz/heimvernetzung/mesh-technologie "Mesh-Technologie")
         * [Smart Home](https://www.telekom.de/smarte-produkte/smart-home "Smart Home")
-    *   [![Netz](https://www.telekom.de/resources/images/974630/internet-netz.svg)![Netz](https://www.telekom.de/resources/images/974602/internet-netz-hover.svg) Netz ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz "Netz")  
+    *   ![Netz](https://www.telekom.de/resources/images/974630/internet-netz.svg)![Netz](https://www.telekom.de/resources/images/974630/internet-netz.svg) Netz ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-netz-verfuegbarkeitspruefung "Verfügbarkeitsprüfung")
         * [Hybrid 5G](https://www.telekom.de/festnetz/tarife-und-optionen/magenta-zuhause-hybrid-5g "Hybrid 5G")
         * [DSL Ausbau](https://www.telekom.de/netz/breitbandausbau-deutschland "DSL Ausbau")
@@ -81,26 +82,26 @@
     
 * [TV](https://www.telekom.de/magenta-tv "TV")
     
-    *   [![Tarife](https://www.telekom.de/resources/images/974654/tv-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974582/tv-tarife-hover.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/magenta-tv/tarife-und-optionen "Tarife")  
+    *   ![Tarife](https://www.telekom.de/resources/images/974654/tv-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974654/tv-tarife.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [TV mit Telekom Internet](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz?wt_mc=ii_sososoxx_navi-tv-tarife-tv-mit-telekom-internet "TV mit Telekom Internet")
         * [TV ohne Telekom Internet](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-app "TV ohne Telekom Internet")
         * [TV für junge Leute unter 28](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz?ActiveTabID=young&wt_mc=ii_sososoxx_navi-tv-tarife-tv-fuer-junge-leute-unter-28 "TV für junge Leute unter 28")
         * [Alternative zum Kabel-TV](https://www.telekom.de/magenta-tv/wegfall-nebenkostenprivileg "Alternative zum Kabel-TV")
         * [Zubuchoptionen](https://www.telekom.de/zubuchoptionen/magenta-tv "Zubuchoptionen")
-    *   [![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)![Inhalte](https://www.telekom.de/resources/images/974580/tv-inhalte-hover.svg) Inhalte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/unterhaltung "Inhalte")  
+    *   ![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg) Inhalte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Sender](https://www.telekom.de/magenta-tv/inhalte/sender "Sender")
         * [Serien & Filme bei MagentaTV+](https://www.telekom.de/unterhaltung/serien-und-filme "Serien & Filme bei MagentaTV+")
         * [Sport](https://www.telekom.de/sport "Sport")
-        * [Mediatheken](https://www.telekom.de/magenta-tv/inhalte/mediatheken "Mediatheken")
         * [Fußball-EM 2024](https://www.telekom.de/sport/magenta-tv-fussball "Fußball-EM 2024")
-    *   [![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)![Inhalte](https://www.telekom.de/resources/images/974580/tv-inhalte-hover.svg) Streaming-Dienste ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner "Streaming-Dienste")  
+    *   ![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg) Entertainment ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
+        * [Streaming-Dienste](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner "Streaming-Dienste")
         * [Netflix](https://www.telekom.de/magenta-tv/inhalte/netflix "Netflix")
         * [Disney+](https://www.telekom.de/magenta-tv/inhalte/disney-plus "Disney+")
         * [RTL+](https://www.telekom.de/magenta-tv/inhalte/rtl-plus "RTL+")
         * [WOW](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/wow "WOW")
         * [DAZN](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner/dazn "DAZN")
         * [Paramount+](https://www.telekom.de/magenta-tv/inhalte/paramount-plus "Paramount+")
-    *   [![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974578/tv-geraete-hover.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/magenta-tv/geraete "Geräte")  
+    *   ![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [MagentaTV One](https://www.telekom.de/magenta-tv/geraete/magenta-tv-one "MagentaTV One")
         * [MagentaTV Stick](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-stick "MagentaTV Stick")
         * [Apple TV 4K](https://www.telekom.de/magenta-tv/tarife-und-optionen/apple-tv-4k "Apple TV 4K")
@@ -121,11 +122,16 @@
     
 * [Glasfaser](https://www.telekom.de/netz/glasfasernetz?wt_mc=ii_sososoxx_navi-glasfaser "Glasfaser")
     
-    *   [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974606/glasfaser-tarife-produkte-hover.svg) Tarife & Produkte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte "Tarife & Produkte")  
+    *   [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974606/glasfaser-tarife-produkte-hover.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte "Tarife")  
         * [Glasfaser-Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte-glasfaser-tarife "Glasfaser-Tarife")
+    *   [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974598/internet-vernetztes-zuhause-hover.svg) Glasfaservorteile ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser-vorteile "Glasfaservorteile")  
+        * [Glasfaser Vorteile](https://www.telekom.de/netz/glasfaser-vorteile "Glasfaser Vorteile")
         * [Glasfaserausbau](https://www.telekom.de/netz/glasfaser/glasfaserausbau "Glasfaserausbau")
         * [Was ist FTTH?](https://www.telekom.de/netz/glasfaser/ftth "Was ist FTTH?")
-        * [Für meinen Neubau](https://www.telekom.de/netz/glasfaser/neubauprojekte "Für meinen Neubau")
+    *   [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974598/internet-vernetztes-zuhause-hover.svg) Glasfaseranschluss ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/netz/glasfaser/glasfaserloesungen "Glasfaseranschluss")  
+        * [Für privates Eigentum](https://www.telekom.de/netz/glasfaser/neubauprojekte "Für privates Eigentum")
+        * [Für gewerbliches Eigentum](https://www.telekom.de/netz/glasfaser/glasfaser-gewerbe "Für gewerbliches Eigentum")
+        * [Für Immobilienwirtschaft](https://www.telekom.de/netz/glasfaser/glasfaser-immobilienwirtschaft "Für Immobilienwirtschaft")
     *   ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg) Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [ins Kundencenter](https://www.telekom.de/mein-kundencenter?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-ins-kundencenter "ins Kundencenter")
         * [Verfügbarkeit prüfen](https://www.telekom.de/netz/glasfaser?wt_mc=ii_sososoxx_navi-glasfaser-ich-moechte-verfuegbarkeit-pruefen "Verfügbarkeit prüfen")
@@ -136,9 +142,8 @@
     
 * [Junge Leute](https://www.telekom.de/start/magenta-tarife-young "Junge Leute")
     
-    *   [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974606/glasfaser-tarife-produkte-hover.svg) Junge Leute unter 28 ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)](https://www.telekom.de/start/magenta-tarife-young "Junge Leute unter 28")  
+    *   ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg) Junge Leute ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Young Mobilfunk-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young "Young Mobilfunk-Tarife")
-        * [GÖNN - Viel mobil, viel Deal](https://www.telekom.de/goenn "GÖNN - Viel mobil, viel Deal")
         * [Young Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=internet-tarife "Young Internet-Tarife")
         * [Young Internet-Tarife mit TV](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=mtv-tarife "Young Internet-Tarife mit TV")
     
@@ -177,7 +182,7 @@
         * [Tipps für Neukunden](https://www.telekom.de/hilfe/auftrag-erste-schritte/tipps-fuer-starter "Tipps für Neukunden")
         * [Termin vereinbaren](https://www.telekom.de/terminvereinbarung?wt_mc=ii_sososoxx_navi-service-ich-moechte-termin-vereinbaren "Termin vereinbaren")
         * [Magenta Moments erleben](https://www.telekom.de/magenta-moments "Magenta Moments erleben")
-        * [ins Senioren Portal](https://telekom.de/senioren "ins Senioren Portal")
+        * [ins Senioren Portal](https://www.telekom.de/senioren "ins Senioren Portal")
         * [im Telekom Shop beraten werden](https://www.telekom.de/telekom-shops?wt_mc=ii_sososoxx_navi-service-kontakt-telekom-shops "im Telekom Shop beraten werden")
     
       ![Schließen](https://www.telekom.de/resources/images/1080216/close.svg)![Schließen](https://www.telekom.de/resources/images/1080218/close-hover.svg) Menü schließen
@@ -258,36 +263,36 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  [![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg)Tarife](https://www.telekom.de/unterwegs/tarife-und-optionen) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Tarife](https://www.telekom.de/resources/images/974640/mobilfunk-tarife-optionen.svg)Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Tarife](https://www.telekom.de/unterwegs/tarife-und-optionen)
+            * Tarife
                 
-            * [Smartphone-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife)
+            * [Handytarife](https://www.telekom.de/shop/tarife/smartphone-tarife)
                 
             * [Prepaid-Tarife](https://www.telekom.de/unterwegs/prepaid-tarife)
                 
             * [Young-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young)
                 
-            * [Young: GÖNN - Viel mobil, viel Deal](https://www.telekom.de/goenn)
-                
             * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife)
                 
             * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet)
+                
+            * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten)
                 
             * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/mobilfunk)
                 
             * [Infos zu Roaming & Ausland](https://www.telekom.de/unterwegs/tarife-und-optionen/roaming)
                 
             
-        *  [![Geräte](https://www.telekom.de/resources/images/974636/mobilfunk-geraete.svg)Geräte](https://www.telekom.de/unterwegs/smartphones-und-tablets) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Geräte](https://www.telekom.de/resources/images/974636/mobilfunk-geraete.svg)Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Geräte](https://www.telekom.de/unterwegs/smartphones-und-tablets)
+            * Geräte
                 
-            * [Smartphones](https://www.telekom.de/shop/geraete/smartphones)
+            * [Handys](https://www.telekom.de/shop/geraete/smartphones)
                 
             * [Tablets](https://www.telekom.de/shop/geraete/tablets)
                 
@@ -304,11 +309,11 @@
             * [Android erleben](https://www.telekom.de/unterwegs/android-betriebssystem)
                 
             
-        *  [![Netz](https://www.telekom.de/resources/images/974638/mobilfunk-netz.svg)Netz](https://www.telekom.de/netz/mobilfunk) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Netz](https://www.telekom.de/resources/images/974638/mobilfunk-netz.svg)Netz ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Netz](https://www.telekom.de/netz/mobilfunk)
+            * Netz
                 
             * [5G](https://www.telekom.de/netz/5g)
                 
@@ -341,11 +346,11 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  [![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)Tarife](https://www.telekom.de/festnetz/tarife-und-optionen) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Tarife](https://www.telekom.de/festnetz/tarife-und-optionen)
+            * Tarife
                 
             * [Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/internet-dsl)
                 
@@ -358,11 +363,11 @@
             * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-tarife-verfuegbarkeitspruefung)
                 
             
-        *  [![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)Geräte](https://www.telekom.de/festnetz/geraete) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Geräte](https://www.telekom.de/festnetz/geraete)
+            * Geräte
                 
             * [WLAN & Router](https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router?wt_mc=ii_sososoxx_navi-internet-geraete-wlan-router)
                 
@@ -371,10 +376,12 @@
             * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome)
                 
             
-        *  [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Vernetztes Zuhause](https://www.telekom.de/festnetz/heimvernetzung) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
+            * Heimvernetzung
+                
             * [Vernetztes Zuhause](https://www.telekom.de/festnetz/heimvernetzung)
                 
             * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete)
@@ -386,11 +393,11 @@
             * [Smart Home](https://www.telekom.de/smarte-produkte/smart-home)
                 
             
-        *  [![Netz](https://www.telekom.de/resources/images/974630/internet-netz.svg)Netz](https://www.telekom.de/netz) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Netz](https://www.telekom.de/resources/images/974630/internet-netz.svg)Netz ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Netz](https://www.telekom.de/netz)
+            * Netz
                 
             * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-netz-verfuegbarkeitspruefung)
                 
@@ -431,11 +438,11 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  [![Tarife](https://www.telekom.de/resources/images/974654/tv-tarife.svg)Tarife](https://www.telekom.de/magenta-tv/tarife-und-optionen) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Tarife](https://www.telekom.de/resources/images/974654/tv-tarife.svg)Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Tarife](https://www.telekom.de/magenta-tv/tarife-und-optionen)
+            * Tarife
                 
             * [TV mit Telekom Internet](https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz?wt_mc=ii_sososoxx_navi-tv-tarife-tv-mit-telekom-internet)
                 
@@ -448,11 +455,11 @@
             * [Zubuchoptionen](https://www.telekom.de/zubuchoptionen/magenta-tv)
                 
             
-        *  [![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)Inhalte](https://www.telekom.de/unterhaltung) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)Inhalte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Inhalte](https://www.telekom.de/unterhaltung)
+            * Inhalte
                 
             * [Sender](https://www.telekom.de/magenta-tv/inhalte/sender)
                 
@@ -460,15 +467,15 @@
                 
             * [Sport](https://www.telekom.de/sport)
                 
-            * [Mediatheken](https://www.telekom.de/magenta-tv/inhalte/mediatheken)
-                
             * [Fußball-EM 2024](https://www.telekom.de/sport/magenta-tv-fussball)
                 
             
-        *  [![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)Streaming-Dienste](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Inhalte](https://www.telekom.de/resources/images/974652/tv-inhalte.svg)Entertainment ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
+            * Entertainment
+                
             * [Streaming-Dienste](https://www.telekom.de/magenta-tv/inhalte/streaming-dienste-partner)
                 
             * [Netflix](https://www.telekom.de/magenta-tv/inhalte/netflix)
@@ -484,11 +491,11 @@
             * [Paramount+](https://www.telekom.de/magenta-tv/inhalte/paramount-plus)
                 
             
-        *  [![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg)Geräte](https://www.telekom.de/magenta-tv/geraete) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Geräte](https://www.telekom.de/resources/images/974650/tv-geraete.svg)Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Geräte](https://www.telekom.de/magenta-tv/geraete)
+            * Geräte
                 
             * [MagentaTV One](https://www.telekom.de/magenta-tv/geraete/magenta-tv-one)
                 
@@ -525,19 +532,39 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Tarife & Produkte](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Tarife & Produkte](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte)
+            * [Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte)
                 
             * [Glasfaser-Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte-glasfaser-tarife)
+                
+            
+        *  [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaservorteile](https://www.telekom.de/netz/glasfaser-vorteile) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+            
+             ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
+            
+            * [Glasfaservorteile](https://www.telekom.de/netz/glasfaser-vorteile)
+                
+            * [Glasfaser Vorteile](https://www.telekom.de/netz/glasfaser-vorteile)
                 
             * [Glasfaserausbau](https://www.telekom.de/netz/glasfaser/glasfaserausbau)
                 
             * [Was ist FTTH?](https://www.telekom.de/netz/glasfaser/ftth)
                 
-            * [Für meinen Neubau](https://www.telekom.de/netz/glasfaser/neubauprojekte)
+            
+        *  [![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaseranschluss](https://www.telekom.de/netz/glasfaser/glasfaserloesungen) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+            
+             ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
+            
+            * [Glasfaseranschluss](https://www.telekom.de/netz/glasfaser/glasfaserloesungen)
+                
+            * [Für privates Eigentum](https://www.telekom.de/netz/glasfaser/neubauprojekte)
+                
+            * [Für gewerbliches Eigentum](https://www.telekom.de/netz/glasfaser/glasfaser-gewerbe)
+                
+            * [Für Immobilienwirtschaft](https://www.telekom.de/netz/glasfaser/glasfaser-immobilienwirtschaft)
                 
             
         *  ![Favoriten](https://www.telekom.de/resources/images/974624/ratings-default.svg)Ich möchte... ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
@@ -560,15 +587,13 @@
         
          ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
         
-        *  [![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Junge Leute unter 28](https://www.telekom.de/start/magenta-tarife-young) ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
+        *  ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)Junge Leute ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
              ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)Zurück
             
-            * [Junge Leute unter 28](https://www.telekom.de/start/magenta-tarife-young)
+            * Junge Leute
                 
             * [Young Mobilfunk-Tarife](https://www.telekom.de/shop/tarife/smartphone-tarife-young)
-                
-            * [GÖNN - Viel mobil, viel Deal](https://www.telekom.de/goenn)
                 
             * [Young Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=internet-tarife)
                 
@@ -666,7 +691,7 @@
                 
             * [Magenta Moments erleben](https://www.telekom.de/magenta-moments)
                 
-            * [ins Senioren Portal](https://telekom.de/senioren)
+            * [ins Senioren Portal](https://www.telekom.de/senioren)
                 
             * [im Telekom Shop beraten werden](https://www.telekom.de/telekom-shops?wt_mc=ii_sososoxx_navi-service-kontakt-telekom-shops)
                 
@@ -875,8 +900,9 @@ Datentransparenz](https://www.telekom.de/ueber-das-unternehmen/datenschutz/daten
     | Vereinigte Staaten von Amerika (Datenexporteur: Google Irland) | Google LLC | Nutzungsdaten | EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher |
     | Vereinigte Staaten von Amerika (Datenexporteur: LinkedIn Irland) | LinkedIn Inc. | Nutzungsdaten | EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher |
     | Vereinigte Staaten von Amerika (Datenexporteur: Facebook Irland) | Meta Platforms Inc. | Nutzungsdaten | EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher |
+    | Vereinigte Staaten von Amerika (Datenexporteur: Microsoft Irland) | Microsoft Corporation | Nutzungsdaten | EU-US Data Privacy Framework stellt ein angemessenes Datenschutzniveau für die Datenverarbeitung in den USA sicher |
     
-      
+    **Google**  
     Google Ads: Wir verwenden in unserem digitalen Dienst die Google Ads und Floodlight Funktion der Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irland („Google“). Diese Funktion dient dazu, Besuchern im Rahmen des Google-Werbenetzwerks interessenbezogene Werbeanzeigen zu präsentieren. Im digitalen Dienst können dem Besucher dann Werbeanzeigen präsentiert werden, die sich auf Inhalte beziehen, die der Besucher zuvor in anderen digitalen Diensten aufgerufen hat, die die Remarketing Funktion von Google verwenden. Sollten Sie die Remarketing Funktion von Google dennoch nicht wünschen, können Sie diese grundsätzlich deaktivieren, indem Sie die entsprechenden Einstellungen unter  [http://www.google.com/settings/ads](https://www.google.com/settings/ads) vornehmen. Alternativ können Sie den Einsatz von interessenbezogener Werbung über die Werbenetzwerkinitiative deaktivieren, indem Sie den Anweisungen unter [http://www.networkadvertising.org/managing/opt\_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) folgen. Weiterführende Informationen zu Google Ads und die Datenschutzerklärung von Google können Sie einsehen unter:[https://policies.google.com/technologies/ads?hl=de/](https://policies.google.com/technologies/ads?hl=de/).
     
     Wenn Sie über eine Google-Anzeige auf unseren digitalen Dienst gelangt sind, wird von Google AdWords ein Cookie auf Ihrem Endgerät gespeichert. Dieses Cookie verliert nach 90 Tagen seine Gültigkeit. Die mit Hilfe dieses sogenannten Conversion-Cookies eingeholten Informationen dienen dazu, Statistiken über unsere Konversionsrate zu erstellen. Das bedeutet, dass wir erfahren, wie viele Nutzer durch eine Google-Anzeige auf unsere Webseiten gekommen sind und innerhalb von 90 Tagen ein Produkt erwerben. Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie Cookies für Conversion-Tracking deaktivieren, indem Sie in Ihren Browser-Einstellungen festlegen, dass Cookies von der entsprechenden Domain blockiert werden: Google Ads: [googleadservices.com](https://www.googleadservices.com/)
@@ -902,6 +928,13 @@ Datentransparenz](https://www.telekom.de/ueber-das-unternehmen/datenschutz/daten
     
     **LinkedIn**  
     Das Re-Targeting und Conversion Tracking von LinkedIn ([LinkedIn Irland](https://about.linkedin.com/de-de), Wilton Plaza, Wilton Place, Dublin 2, Irland) mittels des LinkedIn Insight Tag ermöglicht die Erhebung von statistischen, pseudonymen Daten (Referrer URL, IP-Adresse (gekürzt), Geräte- und Browsereigenschaften) über den die Nutzung unseres Online-Dienstes und auf dieser Grundlage entsprechende aggregierte Statistiken zur Verfügung zu stellen. Außerdem dienen diese Angaben dazu, interessenspezifische und relevante Angebote und Empfehlungen anzeigen zu können, nachdem Sie sich auf unserem Online-Dienst für bestimmte Produkte, Informationen und Angebote interessiert haben. Diese anonyme Angaben werden in einem Cookie für 6 Monate gespeichert. Sie können sich jederzeit über die Datenverarbeitung durch LinkedIn unter [https://www.linkedin.com/legal/privacy-policy?trk=registration\_footer-privacy-policy](https://www.linkedin.com/legal/privacy-policy?trk=registration_footer-privacy-policy) informieren und dieser widersprechen oder Ihre Einwilligung über die [Cookie Einstellungen](javascript:utag.gdpr.showConsentPreferences();) widerrufen. Für diese Verarbeitung sind die Telekom Deutschland GmbH und LinkedIn gemeinsame Verantwortliche nach Art. 26 DSGVO. Bei Fragen können Sie sich an [datenschutz@telekom.de](mailto:datenschutz@telekom.de) wenden.
+    
+    **Microsoft Advertising**  
+    Auf unserem digitalen Dienst verwenden wir den Dienst Bing Ads und das UET-Tag von Microsoft (Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland, „Microsoft“), um Daten zu erfassen und zu speichern, aus denen wir unter Verwendung von Pseudonymen Nutzungsprofile erstellen. Mittels dieses Dienstes sind wir in der Lage, die Aktivitäten von Nutzern auf unserer Webseite nachzuvollziehen, wenn sie über Bing Ads-Anzeigen auf unseren digitalen Dienst gelangen. Wenn Sie über eine solche Anzeige auf unsere Webseite gelangen, wird ein Cookie auf Ihrem Gerät gespeichert.   
+    Zudem haben wir einen Bing UET-Tag in unserem digitalen Dienst integriert. Dieser Tag besteht aus einem Code, der in Verbindung mit dem Cookie einige Daten zur Nutzung unseres digitalen Dienstes erfasst. Dazu gehört beispielsweise die Verweildauer, die aufgerufenen Bereiche und die Anzeige, über die die Nutzer auf den digitalen Dienst gelangt sind. Diese Informationen helfen uns dabei, Conversion-Statistiken zu erstellen und zu erfassen, wie viele Nutzer nach dem Klick auf eine Werbeanzeige bei Microsoft Bing Ads zu einem späteren Zeitpunkt einen Kauf auf unserer Website ausgeführt haben. Die erfassten Informationen werden an Server von Microsoft in den USA übertragen und dort für maximal 180 Tage gespeichert.  
+    Microsoft kann möglicherweise Ihr Nutzungsverhalten über verschiedene Ihrer Geräte hinweg verfolgen, indem sie sogenanntes Cross-Device-Tracking verwenden. Dadurch sind sie in der Lage, personalisierte Werbung auf Microsoft-Webseiten und -Apps anzuzeigen. Wenn Sie dieses Verhalten deaktivieren möchten, können Sie dies unter [choice.microsoft.com/de-de/opt-out](https://www.telekom.de/choice.microsoft.com/de-de/opt-out) tun.
+    
+    Für weitere Informationen zum Datenschutz bei Microsoft und Bing finden Sie in den Datenschutzbestimmungen von Microsoft ([https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement)). 
     
     **emetriq GmbH**  
     emetriq ist Anbieter von Targeting-Dienstleistungen im Bereich der Online-Vermarktung von Werbeplätzen. Targeting steht für eine genaue Zielgruppenansprache in der Online-Vermarktung und eine Personalisierung von Inhalten. Zu diesem Zwecke betreibt emetriq einen Datenpool, dessen Ziel es ist, die Qualität von Targeting signifikant zu steigern, damit Werbetreibende relevante Werbung gemäß Ihren Interessen einblenden können. Um zu ermöglichen, dass nutzerspezifische Werbung und Inhalte angezeigt werden können, erfasst die emetriq GmbH, Vorsetzen 35, 20459 Hamburg, Informationen über das Surfverhalten bzw. die App Nutzung. Verwendet werden Cookies, Messpixel, APIs oder SDKs, die folgende Informationen erheben bzw. verarbeiten können:
