@@ -123,9 +123,9 @@ Eväste- ja laitetunnisteita sekä niiden avulla kerättyä dataa käytetään m
 
 Saatamme käyttää mainonnan kohdentamisen kohderyhmien luomisessa yhteistyökumppaneitamme, jolloin takaamme sopimusjärjestelyin sen, että yhteistyökumppani käyttää tietoja ainoastaan Sanoman lukuun, eikä hyödynnä tietoja omassa toiminnassaan taikka luovuta tietoja eteenpäin. Joissakin tapauksissa saatamme käyttää kohderyhmien luomisessa ja mainonnan kohdentamisessa myös Sanoman verkoston ulkopuolisilta sivustoilta kerättyjä tietoja.
 
-Koska käytämme omissa sisältöpalveluissamme upotuksina sisällönjakelukumppaneiden sisältöjä, nämä sisällönjakelukumppanit, kuten Facebook, Instagram, YouTube ja Twitter, voivat tallentaa upotusten kautta evästetunnisteita ja käyttää niiden avulla kerättyjä tietoja omiin tarkoituksiinsa evästekäytäntöjensä mukaisesti, kuten mainosten kohdentamiseksi sekä tuotekehitystä ja analytiikkaa varten. Sisällönjakelukumppanit voivat myös jakaa tietoja kumppaneilleen.
+Koska käytämme omissa sisältöpalveluissamme upotuksina sisällönjakelukumppaneiden sisältöjä, nämä sisällönjakelukumppanit, kuten Meta (Facebook, Instagram), YouTube ja X (Twitter), voivat tallentaa upotusten kautta evästetunnisteita ja käyttää niiden avulla kerättyjä tietoja omiin tarkoituksiinsa evästekäytäntöjensä mukaisesti, kuten mainosten kohdentamiseksi sekä tuotekehitystä ja analytiikkaa varten. Sisällönjakelukumppanit voivat myös jakaa tietoja kumppaneilleen.
 
-Hyödynnämme markkinoinnissamme mainosteknologiakumppaneiden, kuten Facebookin palveluita. Nämä markkinoinnissamme käyttämämme mainosteknologiakumppanit voivat käyttää tunnisteita ja niiden avulla kerättyjä tietoja muun muassa mainosten kohdentamiseksi ja analyysipalveluiden tarjoamiseksi.
+Hyödynnämme markkinoinnissamme mainosteknologiakumppaneiden kuten Metan palveluita. Nämä markkinoinnissamme käyttämämme mainosteknologiakumppanit voivat käyttää tunnisteita ja niiden avulla kerättyjä tietoja muun muassa mainosten kohdentamiseksi ja analyysipalveluiden tarjoamiseksi.
 
 Myös mainostajat ja mainosverkostot käyttävät evästetunnisteita ja vastaavia tekniikoita kohdentaakseen mainontaa käyttäjän todennäköisten kiinnostusalueiden perusteella.
 
@@ -220,7 +220,7 @@ Sanoman verkostoon kuuluvat kumppaneiden sivustot ja sovellukset, joilla eväste
 
 Sanoman verkostoon kuuluvilla sivustoilla on käytössä kolmansien osapuolten, kuten mainosteknologiatoimittajien ja sosiaalisen median palvelujen, evästetunnisteita. Sanoman käyttämät mainosteknologiatoimittajat listataan suostumusasetuksissa, joihin pääsee klikkaamalla sivustoilla ”evästeasetukset”.
 
-Osa kolmansista osapuolista, kuten esimerkiksi Google ja Facebook, käsittelee evästetunnisteita ja niihin liittyviä tietoja rekisterinpitäjinä.
+Osa kolmansista osapuolista, kuten esimerkiksi Google ja Meta (Facebook), käsittelee evästetunnisteita ja niihin liittyviä tietoja rekisterinpitäjinä.
 
 Voimme luovuttaa mainonnan kumppaneillemme tietoja havainnoiduista käyttäjistä mainostilan myymiseksi ja ostamiseksi sekä mainonnan kohdentamiseksi reaaliaikaisesti, mainonnan mittaamiseksi sekä kumppaneidemme tarjoamien palveluiden kehittämiseksi, väärinkäytösten ehkäisemiseksi ja tietoturvallisuuden varmistamiseksi.
 
