@@ -30,7 +30,7 @@ Related Articles
 
 [How to Join Rakuten](https://www.rakuten.com/help/article/how-to-join-rakuten-360002101108)
 
-[The Many Ways to Earn Cash Back With Rakuten](https://www.rakuten.com/help/article/the-many-ways-to-earn-cash-back-with-rakuten-360002100548)
+[All the Ways to Shop with Rakuten](https://www.rakuten.com/help/article/all-the-ways-to-shop-with-rakuten-360002100548)
 
 [Company Overview](https://www.rakuten.com/help/article/company-overview-360002116927)
 
@@ -65,6 +65,8 @@ Help Topics
 [Browser Extension Help](https://www.rakuten.com/help/category/browser-extension-help-26579223731603)
 
 [Account Questions](https://www.rakuten.com/help/category/account-questions-26578301675411)
+
+[More Features](https://www.rakuten.com/help/category/more-features-31315401553811)
 
 [Legal](https://www.rakuten.com/help/category/legal-115001470127)
 
@@ -102,7 +104,6 @@ About
 * Don’t Sell My Data
     
 * [Help](https://www.rakuten.com/help)
-* [Cash Back for Change](https://www.rakuten.com/cash-back-for-change)
 
 Stores & Brands
 
