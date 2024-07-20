@@ -14,7 +14,7 @@ RESOURCES
 
 [SUPPORT](https://tutanota.com/support)[JOBS](https://tutanota.com/jobs)
 
-[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tutanota")
+[SIGN UP](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
 
 ![](/resources/images/background/people-in-dunes-stock.jpeg)
 
@@ -177,11 +177,11 @@ Tuta terms: What is an account? What is a user?
 
 [](#account "Share this!")
 
-When you sign up for Tuta, you create an email **account**. This account initially has one user which is also an administrator. Free accounts only have one user. If you upgrade to a paid subscription, you can [add users](https://tutanota.com/support#settings-new-user) to your account. You [manage the users (deactivate a user, change password)](https://tutanota.com/support#settings-user) within your Tuta account with your administrator user. You may also allow multiple users to be administrators.
+When you sign up for Tuta, you create an email **account**. This account initially has one user which is also an administrator. Free, Revolutionary and Legend accounts only have one user. If you want to add users with Revolutionary or Legend, please [contact us](mailto:sales@tutao.de). If you are on a business subscription, you can [add users](https://tutanota.com/support#settings-new-user) to your account. You [manage the users (deactivate a user, change password)](https://tutanota.com/support#settings-user) within your Tuta account with your administrator user. You may also allow multiple users to be administrators.
 
  ![Tuta terms chart](/resources/images/faq/user-account-faq-diagram.svg)
 
-In the diagram, the '1' at the arrows means there is one item assigned. A user has one mailbox with one main email address, one (or more) calendar(s), and one address book. The '\*' means multiple items may be assigned, e.g. an account has one or more users, a user may have multiple calendars and a mailbox has one main email address and may have multiple email aliases (paid feature) on top.
+In the diagram, the '1' at the arrows means there is one item assigned. A user has one mailbox with one main email address, one (or more) calendar(s), and one address book. The '\*' means multiple items may be assigned, e.g. an account has one or more users, a user may have multiple calendars and a mailbox has one main email address and may have multiple email aliases on top.
 
 **To learn how to set up a user or create an alias, watch this [YouTube tutorial](https://youtu.be/ij20iiFVtec).**
 
@@ -2041,7 +2041,7 @@ Please forward the abusive message with a short explanation in English or German
 
 Please contact our [sales team in English or German](mailto:sales@tutao.de).
 
-Have a look at more articles to help you:
+Read more articles:
 
 * [What are email alias addresses](https://tutanota.com/blog/posts/secure-email-alias)
 * [How to send an encrypted email](https://tutanota.com/blog/posts/email-encryption-guide-how-send-encrypted-email)
