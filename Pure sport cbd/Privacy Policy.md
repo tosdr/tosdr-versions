@@ -1,4 +1,4 @@
-                       [Skip to content](#MainContent)       
+                        [Skip to content](#MainContent)       
 
 Your basket is empty
 --------------------
@@ -22,8 +22,6 @@ Update
 
 Check out
 
-15% OFF FIRST PURCHASE WITH CODE - NEW15
-
           
 
   Search 
@@ -35,8 +33,13 @@ Check out
     
     [ELECTROLYTES](https://puresportcbd.com/collections/electrolytes) [FREEZE ROLL & BALMS](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on) [PERFORMANCE SUPPLEMENTS](https://puresportcbd.com/collections/performance-nootropics) [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/collections/functional-mushrooms) [CBD OILS](https://puresportcbd.com/collections/cbd-tinctures) [SHOP ALL](https://puresportcbd.com/collections/all)
     
-* [APPAREL
-    -------](https://puresportcbd.com/collections/apparel-collection)
+* APPAREL
+    
+    
+    ---------
+    
+    [COLLECTION 01](https://puresport.co/collections/collection-01) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [SOCKS & CAPS](https://puresportcbd.com/collections/socks)
+    
 * SHOP BY GOAL
     
     
@@ -53,17 +56,25 @@ Check out
 
 * [ ]  [Supplements](https://puresportcbd.com/collections/all)
     
-    [![](//puresport.co/cdn/shop/files/Categories4.jpg?v=1717059749&width=900)](https://puresportcbd.com/collections/electrolytes)[![](//puresport.co/cdn/shop/files/Untitled_design_34.png?v=1706895313&width=900)](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Untitled_design_42.png?v=1707385723&width=900)](https://puresportcbd.com/collections/performance-nootropics)[![](//puresport.co/cdn/shop/files/Untitled_design_65.jpg?v=1707144506&width=900)](https://puresportcbd.com/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav.png?v=1707837599&width=900)](https://puresportcbd.com/collections/cbd-tinctures)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav_1.png?v=1707911548&width=900)](https://puresportcbd.com/collections/all)
+    [![](//puresport.co/cdn/shop/files/Categories4_0fd5bd8f-22c6-4b35-98f7-7560c6c69e2f.jpg?v=1719560420&width=900)](https://puresportcbd.com/collections/electrolytes)[![](//puresport.co/cdn/shop/files/Untitled_design_34_1a8bba73-47d2-48e2-9f4b-c2a5cb630164.png?v=1719560508&width=900)](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on)[![](//puresport.co/cdn/shop/files/Untitled_design_42_f059b954-2f21-4996-b70e-bd955d03968f.png?v=1719560550&width=900)](https://puresportcbd.com/collections/performance-nootropics)[![](//puresport.co/cdn/shop/files/Untitled_design_65_2668744a-8577-4a33-abb6-0cc14fc24043.jpg?v=1719560617&width=900)](https://puresportcbd.com/collections/functional-mushrooms)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav_edc8b5b8-69bf-4470-9aca-49cb2424e7f0.png?v=1719560646&width=900)](https://puresportcbd.com/collections/cbd-tinctures)[![](//puresport.co/cdn/shop/files/Collection_Cards_Nav_1_570a0bac-b49c-4cc2-9fcc-9ec24abbb15d.png?v=1719560583&width=900)](https://puresportcbd.com/collections/all)
     
     SHOP BY CATEGORY
     
-    [ELECTROLYTES](https://puresportcbd.com/collections/electrolytes) [Freeze Roll & Balms](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on) [Performance Supplements](https://puresportcbd.com/collections/performance-nootropics) [Functional Mushrooms](https://puresportcbd.com/collections/functional-mushrooms) [CBD Oils](https://puresportcbd.com/collections/cbd-tinctures) [SHOP ALL](https://puresportcbd.com/collections/all)
+    [Electrolytes](https://puresportcbd.com/collections/electrolytes) [Freeze Roll & Balms](https://puresportcbd.com/collections/cbd-balm-freeze-roll-on) [Performance Supplements](https://puresportcbd.com/collections/performance-nootropics) [Functional Mushroom](https://puresportcbd.com/collections/functional-mushrooms) [CBD oils](https://puresportcbd.com/collections/cbd-tinctures) [Shop All](https://puresportcbd.com/collections/all)
     
     SHOP BY GOAL
     
-    [Hydration](https://puresportcbd.com/collections/electrolytes) [Performance](https://puresportcbd.com/collections/performance-supplements) [Sleep](https://puresportcbd.com/collections/sleep-1) [Recovery](https://puresportcbd.com/collections/recovery) [Hormone Balance](https://puresportcbd.com/collections/hormone-support)
+    [Hydration](https://puresportcbd.com/collections/electrolytes) [Performance](https://puresportcbd.com/collections/performance-nootropics) [Sleep](https://puresportcbd.com/collections/sleep-1) [Recovery](https://puresportcbd.com/collections/recovery) [Hormone Balance](https://puresportcbd.com/collections/hormone-support)
     
-* [Apparel](https://puresportcbd.com/collections/apparel-collection)
+
+* [ ]  [Apparel](https://puresportcbd.com/collections/collection-01)
+    
+    [![](//puresport.co/cdn/shop/files/Collection_01.jpg?v=1719560352&width=900)](https://puresportcbd.com/collections/collection-01)[![](//puresport.co/cdn/shop/files/Performance.jpg?v=1719560391&width=900)](https://puresportcbd.com/collections/performance-wear)[![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/collections/socks)
+    
+    SHOP BY CATEGORY
+    
+    [Collection 01](https://puresportcbd.com/collections/collection-01) [Performance](https://puresportcbd.com/collections/performance-wear) [Socks & Caps](https://puresportcbd.com/collections/socks)
+    
 * [Our Story](https://puresportcbd.com/pages/our-story)
 * [Clubs](https://puresportcbd.com/pages/clubs)
 * [Events](https://puresportcbd.com/apps/events/calendar)
@@ -180,12 +191,12 @@ To opt out please click [here.](http://optout.networkadvertising.org/)
 
     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Sign up and receive 15% off
+Sign up and receive 10% off
 ---------------------------
 
-#### Get 15% off your first order, information on promotions and apparel drops.
+#### Get 10% off your first order, information on promotions and apparel drops.
 
-\*Discount applies to full price products only and excludes bundles, subscriptions, apparel.
+\*Discount applies to full price products only and excludes bundles & subscriptions.
 
       
 
@@ -206,6 +217,7 @@ Sign up and receive 15% off
 * [Privacy Policy](https://puresportcbd.com/pages/privacy-policy)
 * [Shipping & Returns](https://puresportcbd.com/pages/shipping-policy)
 * [Login](https://puresport.co/account/login)
+* [Reviews](https://puresportcbd.com/pages/reviews)
 
 © 2024 Puresport. All of our products are sold as food supplements and not intended to diagnose, cure, prevent or treat disease. Always consult your health professional before taking any food supplements.
 
