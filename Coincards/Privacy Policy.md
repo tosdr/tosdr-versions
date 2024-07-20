@@ -187,3 +187,7 @@ FOR PRESS ENQUIRIES ABOUT COINCARDS.COM PRODUCTS AND SERVICES, PLEASE CONTACT US
 * [Reviews](https://coincards.com/reviews/)
 * [In The Media](https://coincards.com/in-the-media/)
 * [Contact Us](https://coincards.com/contact-us/)
+
+[](javascript:void(0);)
+
+**Due to the Global Crowdstrike Issue, many gift card providers are offline and unable to issue new codes. Order processing may be delayed until systems are corrected.**
