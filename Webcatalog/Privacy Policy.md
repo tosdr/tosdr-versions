@@ -1,4 +1,4 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps/)
 
 [Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Spaces](https://webcatalog.io/en/spaces/)[Download](https://webcatalog.io/en/desktop/)[Pricing](https://webcatalog.io/en/pricing/)[Help](https://webcatalog.io/en/help/)
 
@@ -172,10 +172,11 @@ We change this Privacy Policy from time to time. We will not reduce your rights 
 11\. Contact Us
 ---------------
 
-If you have any questions feel free to [contact us](https://webcatalog.io/contact/).
+If you have any questions feel free to [contact us](https://webcatalog.io/help/).
 
 **WebCatalog, Inc.**  
-2261 Market St STE 10869  
+2261 Market St  
+Ste 10869  
 San Francisco, CA 94114, USA
 
 Explore
@@ -197,8 +198,6 @@ Products
 [Pricing](https://webcatalog.io/en/pricing/)
 
 [What's New](https://webcatalog.io/en/changelog/)
-
-[Switchbar](https://switchbar.com/)
 
 Download
 
@@ -226,7 +225,7 @@ Company
 
 [Careers](https://careers.webcatalog.io/)
 
-[Media Kit](https://drive.google.com/drive/folders/1HAiOVLm7oEgIldhGH7d_68hIDq8qvpA8?usp=sharing)
+[Media Kit](https://drive.google.com/drive/folders/1arApHk6u-YYsY_HBbty0ANlrfq8WHQMw?usp=sharing)
 
 [Affiliate Program](https://webcatalog.io/en/affiliates/)
 
