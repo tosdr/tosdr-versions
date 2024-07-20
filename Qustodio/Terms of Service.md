@@ -1,6 +1,4 @@
-[**SCHOOL BREAK |** Get Premium protection with 15% off today – **BUY NOW**](https://www.qustodio.com/en/premium/)
-
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.10.1)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.11.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
 * [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
@@ -15,9 +13,7 @@
 * [Log in](https://family.qustodio.com/)
 * [Sign up](https://www.qustodio.com/en/free-sign-up/)
 
-[**SCHOOL BREAK |** Get Premium protection with 15% off today – **BUY NOW**](https://www.qustodio.com/en/premium/)
-
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.10.1)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.11.0)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
