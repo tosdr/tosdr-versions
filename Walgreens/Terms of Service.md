@@ -1,8 +1,7 @@
 [Skip to main content](#page-content)
 
-* [**BOGO 50% off select skin care and sun care**](https://www.walgreens.com/store/store/family_products.jsp?pluCode=4290&ban=dl_dl_Nav_06162024_BOG050suncare)
-* [**Extra 15% off $40+ select beauty & personal care with PRIDE15**](https://www.walgreens.com/topic/promotion/beauty-personal-care-deals.jsp?ban=dl_dl_Nav_06162024_BPCTierSale)
-* [**Up to 60% off clearance**](https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=dl_dl_Nav_06162024_Clearance)
+* [**Extra 20% off $40+ select beauty & personal care: HAUL20**](https://www.walgreens.com/topic/promotion/beauty-personal-care-deals.jsp?ban=dl_dl_Nav_07142024_BPCTierSale_HAUL20)
+* [**Up to 60% off clearance**](https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=dl_dl_Nav_07142024_Clearance)
 
 [![Walgreens: Trusted since 1901](/images/adaptive/livestyleguide/v5/icons/Branding.svg)](https://www.walgreens.com/)
 
@@ -99,7 +98,7 @@
     * [Back](javascript:void(0);)
     * Shop Products
     * [Allergy & Sinus](https://www.walgreens.com/store/c/allergy-and-sinus/ID=20003545-tier1)
-    * [Patriotic](https://www.walgreens.com/store/c/patriotic/ID=20005018-tier1)
+    * [Back to School](https://www.walgreens.com/store/c/back-to-school/ID=20000750-tier1)
     * [Summer Favorites](https://www.walgreens.com/store/c/summer-favorites/ID=20001875-tier1)
     * [Walgreens Brand](https://www.walgreens.com/store/c/walgreens-brand/ID=359461-tier1)
     * [Beauty](https://www.walgreens.com/store/c/beauty/ID=359434-tier1)
