@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-stuff-sacks-to-help-you-pack-for-your-next-adventure/)
+    
+    [The Best Stuff Sacks to Help You Pack for Your Next Adventure](https://www.coolthings.com/the-best-stuff-sacks-to-help-you-pack-for-your-next-adventure/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
     
     [The Best Beach Totes for Hauling Your Summer Gear Around](https://www.coolthings.com/the-best-beach-totes-for-hauling-your-summer-gear-around/)
@@ -52,11 +57,6 @@
     
     [The Best Travel Cameras to Preserve All Your Memorable Adventures](https://www.coolthings.com/the-best-travel-cameras-to-preserve-all-your-memorable-adventures/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-standing-desk-mats-to-make-workdays-on-your-feet-more-comfortable/)
-    
-    [The Best Standing Desk Mats to Make Workdays on Your Feet More Comfortable](https://www.coolthings.com/the-best-standing-desk-mats-to-make-workdays-on-your-feet-more-comfortable/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
