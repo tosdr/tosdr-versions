@@ -34,7 +34,7 @@ Support student learning beyond the classroom](https://www.remind.com/families)
 
 Terms of Service
 
-![](https://assets-global.website-files.com/621ca7b5009267942f98301e/624d83d3b7135567c455488c_chevron-down.svg)
+![](https://cdn.prod.website-files.com/621ca7b5009267942f98301e/624d83d3b7135567c455488c_chevron-down.svg)
 
 ### Terms
 
@@ -519,11 +519,11 @@ We encourage you to contact us using the information provided here if you have a
 
 Effective date July 25, 2023  
 
-[![Remind Logo](https://assets-global.website-files.com/621ca7b5009267942f98301e/621cdc6ca19d547173882e94_Logo.svg)](https://www.remind.com/)
+[![Remind Logo](https://cdn.prod.website-files.com/621ca7b5009267942f98301e/621cdc6ca19d547173882e94_Logo.svg)](https://www.remind.com/)
 
 [](https://www.facebook.com/RemindHQ/)[](https://www.instagram.com/remindhq/)[](https://www.youtube.com/c/RemindHQ)[](https://twitter.com/remindhq)
 
-![Certified By i Keep Safe](https://assets-global.website-files.com/621ca7b5009267942f98301e/621cf73d0c4774104d285833_Certified%20By%20Ikeep%20Safe.png)
+![Certified By i Keep Safe](https://cdn.prod.website-files.com/621ca7b5009267942f98301e/621cf73d0c4774104d285833_Certified%20By%20Ikeep%20Safe.png)
 
 #### Products
 
@@ -545,4 +545,4 @@ Effective date July 25, 2023
 
 [About us](https://www.remind.com/about)[Careers](https://www.remind.com/careers)[Press](https://www.remind.com/press)[Partners](https://www.remind.com/partners)[Terms and policies](https://www.remind.com/terms-of-service)[Trust and safety](https://www.remind.com/trust-safety)
 
-![Certified By i Keep Safe](https://assets-global.website-files.com/621ca7b5009267942f98301e/621cf73d0c4774104d285833_Certified%20By%20Ikeep%20Safe.png)
+![Certified By i Keep Safe](https://cdn.prod.website-files.com/621ca7b5009267942f98301e/621cf73d0c4774104d285833_Certified%20By%20Ikeep%20Safe.png)
