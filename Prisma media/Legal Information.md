@@ -625,27 +625,27 @@ et a mis en place une organisation permettant l’amélioration continue de la c
     **Vous pouvez retirer votre consentement au traitement de vos données personnelles en refusant à tout moment en cliquant en bas de chaque page de nos sites sur “paramétrer vos cookies” puis « refuser et s’abonner » dans la CMP.  
     Consultez « [whatismyfirstID](https://whatismy.first-id.fr/) » pour connaître votre ID et retirer votre consentement.
     
-    **Service Utiq**
+    **Service Utiq :**
     
-    Le Groupe PRISMA MEDIA utilise le Service Utiq sur ce site internet. Le Service Utiq est opéré par Utiq SA/NV et fourni en partenariat avec votre opérateur téléphonique et des sites partenaires comme ce site.  
-    Le Groupe PRISMA MEDIA est responsable conjoint avec Utiq pour fournir le Service Utiq.  
-    Dans le cadre de notre accord de responsables conjoints:
+    Le Groupe PRISMA MEDIA utilise le Service Utiq sur ce site internet.  
+    La technologie Utiq est fournie par Utiq SA/NV, une société européenne d’Adtech, en collaboration avec [des opérateurs télécoms](https://consenthub.utiq.com/pages/privacy-statement) qui l’alimentent. Cette technologie contribue à réaliser nos activités de marketing digital.
     
-    – Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l’écosystème Utiq sur nos sites Web où nous intégrons le Service Utiq. 
+    Nous utilisons la technologie Utiq sur ce site web. Si vous consentez à son activation, nous l’utiliserons pour vous reconnaître en tant que même visiteur et collecter des informations sur votre navigation sur ce site web afin de vous offrir du contenu et de la publicité personnalisés et réaliser des analyses, dans le respect des consentements que vous nous avez donnés. Si vous activez la technologie Utiq sur certains de nos autres sites web, nous pourrons vous y reconnaître et lier vos activités sur ces sites web.
     
-    – Pour les sites où nous intégrons le Service Utiq, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, comment le gérer et vous informer de notre partenariat avec Utiq.
+    Cette technologie n’est pas activée par défaut et nécessite votre consentement pour être utilisée. Elle ne peut l’être que si vous êtes également client d’un des opérateurs télécom partenaires d’Utiq.
     
-    – Utiq met à votre disposition [un portail de confidentialité centralisé consenthub](https://consenthub.utiq.com/) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq. À tout moment. En un seul endroit.
+    Nous agissons en tant que responsable de traitement conjoint avec Utiq pour les traitements de données effectués dans le cadre de certaines finalités. Dans le cadre de notre accord de responsables conjoints :
     
-    – Nonobstant le fait que vous pouvez exercer vos droits à l’égard de l’un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
+    * Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation
+    * Nous vous offrons un lien dédié au bas de ce site web pour vous fournir des informations sur cette technologie et les contrôles qui vous sont offerts.
+    * Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq. À tout moment. En un seul endroit.
+    * Ainsi même si vous pouvez exercer vos droits à l’égard de l’un des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
     
-    Le Service Utiq vous offre un contrôle accru et une transparence sur l’utilisation de vos données lorsque vous activez une expérience personnalisée ou des analyses sur des sites partenaires d’Utiq.
+    Pour consulter et gérer tous les consentements Utiq que vous avez donné jusqu’à présent, accédez au [consenthub](https://consenthub.utiq.com/) d’Utiq.
     
-    Utiq est un service facultatif. Cela signifie qu’il n’est pas activé par défaut et qu’il est uniquement activé lorsque vous donnez votre consentement sur un site participant, via la fenêtre pop-up de consentement Utiq dédiée.
+    Vous pouvez également retirer votre consentement Utiq applicable au site web que vous consultez en cliquant sur le lien « gérer utiq » disponible au bas de chaque site web.
     
-    Si vous avez donné votre consentement pour activer le Service Utiq lors de votre première visite sur notre site, Utiq ne partagera avec nous que deux signaux sécurisés publicitaires. Ils sont appelés martechpass et adtechpass, ce sont des valeurs aléatoires générées par Utiq qui, sans révéler votre identité, nous permettent de vous reconnaître comme le même visiteur. Nous les utiliserons ensuite pour vous offrir une expérience personnalisée ou réaliser des analyses, en fonction des finalités pour lesquelles vous nous avez donné votre consentement. Le martechpass et adtechpass expirent respectivement après 90 jours ou 24 heures et sont stockées sur votre navigateur avec les cookies associés.
-    
-    Vous pouvez trouver plus d’informations sur le Service Utiq dans le [consenthub d’Utiq](https://consenthub.utiq.com/) ou dans la [https://consenthub.utiq.com/pages/privacy-statement](https://consenthub.utiq.com/pages/privacy-statement).
+    Pour plus d’informations, veuillez consulter la [Politique relative à l’utilisation des données personnelles d’Utiq](https://consenthub.utiq.com/pages/privacy-statement).
     
     **Core ID par la société Epsilon :** Quand vous visitez un des sites du Groupe PRISMA MEDIA, Epsilon a la possibilité de partager des données personnelles ou des informations collectées comme votre adresse électronique (dans ce cas elle serait cryptée et pseudonymisée), votre adresse IP, et/ou des informations à propos de votre navigateur.
     
@@ -918,7 +918,8 @@ et a mis en place une organisation permettant l’amélioration continue de la c
     ****Values Media  
     ****Procter & Gamble  
     ****TF1 Publicité  
-    ****M6 Publicité**
+    ****M6 Publicité  
+    Cdiscount**
     
     Havas : Havas est un annonceur acheteur d’espace publicitaire sur les différents supports digitaux du groupe Prisma Media. Le Groupe Prisma Media peut transmettre à cet annonceur des segments d’audience (désignent des groupes de l’Audience catégorisés en fonction de divers critères (âge, intérêts, ville…) et générés grâce aux informations collectées par les Cookies ou les identifiants publicitaires, le cas échéant, associés aux données de profil (email, nom, prénom, etc) de la base de données Prisma Media afin d’enrichir la connaissance client d’Havas à des fins publicitaires.
     
@@ -951,6 +952,10 @@ et a mis en place une organisation permettant l’amélioration continue de la c
     TF1 Publicité : TF1 Publicité est la régie publicitaire des médias du Groupe TF1 et notamment de ses services de télévision, en linéaire et digital. Le Groupe Prisma Media peut transmettre à cette régie publicitaire des segments d’audience (désignent des groupes de l’Audience catégorisés en fonction de divers critères (âge, intérêts, ville…) et générés grâce aux informations collectées par les Cookies ou les identifiants publicitaires, le cas échéant, associés aux données de la base de données Prisma Media) afin que TF1 Publicité propose aux annonceurs avec lesquels elle est en relation la possibilité de diffuser des campagnes publicitaires mieux ciblées sous réserve de votre consentement.
     
     Consultez la [politique de confidentialité](https://tf1pub.fr/politique-de-confidentialite-des-donnees) de TF1 Publicité.
+    
+    Cdiscount : Cdiscount est un annonceur acheteur d’espace publicitaire sur les différents supports digitaux du groupe Prisma Media. Le Groupe Prisma Media peut transmettre à cet annonceur des segments d’audience (désignent des groupes de l’Audience catégorisés en fonction de divers critères (âge, intérêts, ville…) et générés grâce aux informations collectées par les Cookies ou les identifiants publicitaires, le cas échéant, associés aux données de profil (email, nom, prénom, etc) de la base de données Prisma Media afin d’enrichir la connaissance client Cdiscount à des fins publicitaires.
+    
+    Consultez la [politique de confidentialité](https://www.cdiscount.com/vie-privee-et-cookies.html) de Cdiscount.
     
     Pour l’exercice des facultés de retrait de consentement et d’opposition, les utilisateurs peuvent se référer à [**l’ONGLET 7**](https://www.prismamedia.com/espace-confidentialite/?tab=7) ****SUPPRESSION, OPPOSITION, RETRAIT DE CONSENTEMENT.****
     
