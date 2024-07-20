@@ -338,7 +338,7 @@ Privacy & Security
 * [Online Privacy Notice](https://www.regions.com/about-regions/privacy-security/online-privacy-notice)
 * [California Consumer Privacy Act Disclosure](https://www.regions.com/about-regions/privacy-security/ccpa-disclosure)
 * [Website Terms of Use](https://www.regions.com/about-regions/privacy-security/terms-conditions)
-* [Social Media & Community Guidelines](https://www.regions.com/about-regions/privacy-security/social-media-community-guidelines)
+* [Social Media Community Guidelines](https://www.regions.com/about-regions/privacy-security/social-media-community-guidelines)
 * [Vulnerability Disclosure Program](https://www.regions.com/about-regions/privacy-security/vulnerability-disclosure-program)
 
 You are here:
@@ -407,7 +407,7 @@ Investments, Annuities and Insurance Products
 * Are Not Deposits
 * Are Not Insured by Any Federal Government Agency
 
-© 2022 Regions Bank. All Rights Reserved.
+© 2024 Regions Bank. All Rights Reserved.
 
 Regions, the Regions logo, the LifeGreen color, and the LifeGreen bike are registered trademarks of Regions Bank.
 
