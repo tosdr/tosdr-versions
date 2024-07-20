@@ -1,3 +1,5 @@
+[Accept Cookies](https://www.thetortoisetable.org.uk/home/privacy-policy/?ck=ok) | [Reject Cookies](https://www.thetortoisetable.org.uk/home/privacy-policy/?ck=no) | [Privacy](https://www.thetortoisetable.org.uk/home/privacy-policy)
+
 ![](https://www.thetortoisetable.org.uk/siteassets/designfiles/logo.png)
 
 * [Home](https://www.thetortoisetable.org.uk/index.php)
@@ -94,46 +96,42 @@ Cookies are files stored in your browser and are used by most websites to help p
 
 It is possible to change the cookie settings of your browser to allow or block cookies depending on your preference.  You can get more information on this at at http://www.aboutcookies.org
 
+  
+
+You can also opt to accept or reject cookies by clicking the appropriate link at the bottom of all pages.
+
 ### Cookies used on this site
 
-|     |     |
-| --- | --- |
-| Domain | Cookie Name |
-| General Site Cookies |     |
-| thetortoisetable.org.uk | DYNSRV, PHPSESSID, trflow |
-| Google Translate Cookies |     |
-| translate.googleapis.com | Channel ID |
-| Addthis Social Media Link Cookies |     |
-| addthis.com | bt2, di2, loc, uid, um, uvc, vc |
-| adbrn.com | rscscap, tuuid |
-| adxns.com | sess, uuid2 |
-| adsvrg.org | TDCPM, TDID |
-| adsymptotic.com | U   |
-| advertising.com | APID |
-| go.affec.tv | ck,pt |
-| audiencemanager.de | Nano, NmpAddThis |
-| bluekai.com | bkdc, bku |
-| crwdcntrl.net | \_cc\_aud, \_cc\_cc, \_cc\_dc, \_cc\_id |
-| demdex.net | demdex |
-| doubleclick.net | IDE, id |
-| mathtag.com | uuid |
-| media6degrees.com | acs, clid, vstcnt |
-| semasio.net | SEUNCY |
-| tapad.com | TapAd\_DID, PapAd\_TS |
-| tidaltv.com | tidal\_ttid |
-| tubemogul.com | \_tmid |
-| turn.com | uid |
-| visualdna.com | vdnaR, vdnaWidgetMC |
-| w55c.net | matchaddthis, wfivefivec |
-| yahoo.com | B   |
+**From thetortoisetable.org.uk**
 
-![](https://www.thetortoisetable.org.uk/siteassets/designfiles/sharebutton.png)
+All users of the website whether they have accepted or rejected cookies will have a PHP Session cookie stored, this is an essential cookie and necessary for the working of the site. 
 
-[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/facebookfollow.gif)](https://www.facebook.com/)[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/twitterfollow.gif)](https://www.twitter.com/) ![](https://www.thetortoisetable.org.uk/siteassets/designfiles/followbutton.png)
+  
+
+When cookies have been accepted or rejected a cookie called allowcookie will be saved that saves your choice. This cookie is also essential for the working of the website.
+
+  
+
+Users who have accepted cookies will also find another cookie saved which is for statistical purposes and is called trflow. 
+
+  
+
+If you use the Forum a seperate cookie control system will be shown. Currently the forum saves four essential cookies regardless of whether you accept or reject cookies.
+
+  
+
+**From Google** 
+
+If you accept cookies a number of cookies will be saved by Google. Some of these are for Google Analytics which we use to monitor our website use. Others saved by Google are for the translation widget at the bottom of every page. When cookies are rejected the translation widget will not show. Most browsers however now have in-built translation systems which you will be able to use to translate our pages.
+
+  
+
+**From NBN Atlas**
+
+If you have accepted cookies and go to a plant page in the database where an NBN Gateway Map is shown. If you click on the map an overlay of the full map will display and two cookies will be saved by nbnatlas.org. If you have rejected cookies then clicking on the map will take you to the appropriate NBN Atlas page in another window and no cookies will be saved by nbnatlas.org from this website.
+
+[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/facebookfollow.gif)](https://www.facebook.com/TheTortoiseTable)[![](https://www.thetortoisetable.org.uk/siteassets/designfiles/twitterfollow.gif)](https://twitter.com/TortoiseTable) ![](https://www.thetortoisetable.org.uk/siteassets/designfiles/followbutton.png)
 
 [Site Map](https://www.thetortoisetable.org.uk/resources/sitemap) | [Contact](https://www.thetortoisetable.org.uk/contact) | [Plant Database](https://www.thetortoisetable.org.uk/plant-database) | [Home](https://www.thetortoisetable.org.uk/)
 
-© Copyright 2017 - The Tortoise Table | [Beework Web Design](http://www.beework.net/)
-
-This website uses cookies in order to enhance your user experience.  
-By using this website you are agreeing to the use of cookies from this website. [More details](https://www.thetortoisetable.org.uk/home/privacy-policy).
+© Copyright 2017 - The Tortoise Table | [Web Designer](https://www.beework.net/ "Beework Web Design")
