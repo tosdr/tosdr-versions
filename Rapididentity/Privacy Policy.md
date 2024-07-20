@@ -1,82 +1,95 @@
-[![Identity Automation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20318%2079'%3E%3C/svg%3E)
+[Skip to content](#main-content)
 
-![Identity Automation](https://www.identityautomation.com/wp-content/uploads/2017/06/IA_color.svg)](https://www.identityautomation.com/)
+[Spear Phishing Attacks are on the rise. Learn more about Phishing Protection licenses for K-12 School Districts. Click to Learn More.](https://www.identityautomation.com/products/phishing-protection?hsLang=en)
 
-* [Contact Us](https://www.identityautomation.com/contact-us/)
-* [Request a Demo](https://info.identityautomation.com/identity-automation-demo)
-* [Support](https://identityautomation.force.com/support/s)
-* [Blog](https://blog.identityautomation.com/)
+* [Request a Demo](https://www.identityautomation.com/request-a-demo)
+* [Contact Us](https://www.identityautomation.com/contact-us)
 
-* [How We Help](https://www.identityautomation.com/how-we-help/)
-    * [Your Need](https://www.identityautomation.com/how-we-help/your-need/)
-    * [Upgrading Your IAM Solution](https://www.identityautomation.com/how-we-help/your-need/upgrading-your-iam-solution/)
-    * [Connection to All Apps with Single Sign-On](https://www.identityautomation.com/how-we-help/your-need/connecting-to-all-apps/)
-    * [Identity Lifecycle Management for All Users](https://www.identityautomation.com/how-we-help/your-need/identity-lifecycle-management-for-all-users/)
-    * [Picking the Right Authentication Methods](https://www.identityautomation.com/how-we-help/your-need/picking-the-right-authentication-methods/)
-    * [Preventing Your Upcoming Breach](https://www.identityautomation.com/how-we-help/your-need/prevent-upcoming-cybersecurity-breach/)
-* [RapidIdentity: IAM](https://www.identityautomation.com/iam-software/)
-    * [RapidIdentity: Identity & Access Management](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/)
-    * [Identity Lifecycle Management](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/identity-lifecycle-management/)
-    * [Authentication (MFA & SSO)](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/single-sign-on-multi-factor-authentication/)
-    * [PhishID Anti-Phishing Software](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/antiphishing-software-phishid/)
-    * [SafeID Credential Monitoring](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/safeid-credential-monitoring/)
-    * [Class Roster Synching for K-12](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/k12-class-rostering/)
-    * [Identity Governance](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/identity-governance/)
-    * [RapidIdentity Universal Identity](https://www.identityautomation.com/iam-software/rapididentity-universal-identity/)
-    * [Support Services](https://www.identityautomation.com/iam-software/support-services/)
-* [Your Industry](https://www.identityautomation.com/how-we-help/your-industry/)
-    * [K-12 EDU](https://www.identityautomation.com/how-we-help/your-industry/k-12-education/)
-    * [Higher Ed](https://www.identityautomation.com/how-we-help/your-industry/higher-education/)
-    * [Healthcare](https://www.identityautomation.com/how-we-help/your-industry/healthcare/)
-* [Why IA?](https://www.identityautomation.com/why-ia/)
-* [Resources](https://www.identityautomation.com/resources-2/)
-    * [Customer Success Stories](https://www.identityautomation.com/resources-2/customer-success-stories/)
-    * [White Papers & eBooks](https://www.identityautomation.com/resources-2/white-papers-ebooks/)
-    * [Brochures & Datasheets](https://www.identityautomation.com/resources-2/brochures-and-data-sheets/)
-    * [Videos & Webinars](https://www.identityautomation.com/resources-2/videos-webinars/)
-    * [K-12 Digital Readiness Assessment](https://info.identityautomation.com/k12-assessment)
-    * [Higher Ed IAM Maturity Assessment](https://info.identityautomation.com/identity-access-management-maturity-assessment)
-    * [Trust Center](https://www.identityautomation.com/trust-center/)
-    * [RapidIdentity Cloud Reference Architecture](https://www.identityautomation.com/rapididentity-cloud-reference-architecture/)
-    * [Blog](https://blog.identityautomation.com/)
-* [About Us](https://www.identityautomation.com/about-us/)
-    * [Our Story](https://www.identityautomation.com/about-us/our-story/)
-    * [Careers](https://www.identityautomation.com/about-us/careers/)
-    * [News](https://www.identityautomation.com/about-us/news/)
-    * [Events](https://www.identityautomation.com/about-us/events/)
-    * [Featured Customers](https://www.identityautomation.com/customers/)
-    * [Partner Program – VIP](https://www.identityautomation.com/about-us/partners-2/)
-    * [The Pathfinder Program](https://www.identityautomation.com/pathfinder/)
+[![id-auto-logo-mark-black](https://www.identityautomation.com/hubfs/Singularity/logos/id-auto-logo-mark-black.svg "id-auto-logo-mark-black")](https://www.identityautomation.com/?hsLang=en)
 
-Privacy Policy
+[Identity Automation](https://www.identityautomation.com/?hsLang=en)
+
+Menu
+
+* [Products](#) Show submenu for Products
+    * [Identity Solutions](#) Show submenu for Identity Solutions
+        * [Identity Lifecycle Management](https://www.identityautomation.com/products/identity-lifecycle-management)
+        * [Access Governance](https://www.identityautomation.com/products/access-governance)
+        * [Authentication & Assurance](https://www.identityautomation.com/products/authentication-and-assurance)
+        * [Threat Detection & Response](https://www.identityautomation.com/products/threat-detection-and-response)
+    * [Classroom Solutions](#) Show submenu for Classroom Solutions
+        * [Student-Teacher Portal](https://www.identityautomation.com/products/student-teacher-portal)
+        * [Rostering](https://www.identityautomation.com/products/rostering)
+        * [Insights](https://www.identityautomation.com/products/insights)
+        * [Phishing Protection](https://www.identityautomation.com/products/phishing-protection)
+* [Industries](#) Show submenu for Industries
+    * [K-12](https://www.identityautomation.com/industries/k-12-education)
+    * [Higher Ed](https://www.identityautomation.com/industries/higher-ed)
+    * [Healthcare](https://www.identityautomation.com/industries/healthcare)
+* [Resources](#) Show submenu for Resources
+    * [Knowledge Base](https://blog.identityautomation.com/)
+    * [Events](https://www.identityautomation.com/resources/events)
+    * [Support](https://help.rapididentity.com/)
+    * [Trust Center](https://www.identityautomation.com/trust-center)
+* [About Us](https://www.identityautomation.com/about-us) Show submenu for About Us
+    * [Why IA?](https://www.identityautomation.com/why-ia)
+    * [Careers](https://www.identityautomation.com/careers)
+    * [Partnerships](https://www.identityautomation.com/partnerships)
+
+* [Products](#) Show submenu for Products
+    * [Identity Solutions](#) Show submenu for Identity Solutions
+        * [Identity Lifecycle Management](https://www.identityautomation.com/products/identity-lifecycle-management)
+        * [Access Governance](https://www.identityautomation.com/products/access-governance)
+        * [Authentication & Assurance](https://www.identityautomation.com/products/authentication-and-assurance)
+        * [Threat Detection & Response](https://www.identityautomation.com/products/threat-detection-and-response)
+    * [Classroom Solutions](#) Show submenu for Classroom Solutions
+        * [Student-Teacher Portal](https://www.identityautomation.com/products/student-teacher-portal)
+        * [Rostering](https://www.identityautomation.com/products/rostering)
+        * [Insights](https://www.identityautomation.com/products/insights)
+        * [Phishing Protection](https://www.identityautomation.com/products/phishing-protection)
+* [Industries](#) Show submenu for Industries
+    * [K-12](https://www.identityautomation.com/industries/k-12-education)
+    * [Higher Ed](https://www.identityautomation.com/industries/higher-ed)
+    * [Healthcare](https://www.identityautomation.com/industries/healthcare)
+* [Resources](#) Show submenu for Resources
+    * [Knowledge Base](https://blog.identityautomation.com/)
+    * [Events](https://www.identityautomation.com/resources/events)
+    * [Support](https://help.rapididentity.com/)
+    * [Trust Center](https://www.identityautomation.com/trust-center)
+* [About Us](https://www.identityautomation.com/about-us) Show submenu for About Us
+    * [Why IA?](https://www.identityautomation.com/why-ia)
+    * [Careers](https://www.identityautomation.com/careers)
+    * [Partnerships](https://www.identityautomation.com/partnerships)
+
+![IA_Dot_Pattern_Right](https://www.identityautomation.com/hubfs/Singularity/patterns/IA_Dot_Pattern_Right.svg)
 
 Privacy Policy
 ==============
 
 Identity Automation Privacy Policy
-==================================
+----------------------------------
 
-Last Updated November 17, 2022
+Last Updated November 17, 2022
 
-Identity Automation is committed to protecting your privacy. This Privacy Policy describes how we collect, receive, use, store, share, transfer, and process your Personal Data when you visit and interact with our website ([www.identityautomation.com](http://www.identityautomation.com/)) and all other related sub-domains, including the Identity Automation Blog ([https://blog.identityautomation.com/](https://blog.identityautomation.com/)) and Identity Automation landing pages ([https://info.identityautomation.com](https://info.identityautomation.com/)). Our Privacy Policy also describes your choices and rights with respect to your Personal Data, including your rights of access and correction of your Personal Data. 
+Identity Automation is committed to protecting your privacy. This Privacy Policy describes how we collect, receive, use, store, share, transfer, and process your Personal Data when you visit and interact with our website ([www.identityautomation.com](https://www.identityautomation.com/?hsLang=en)) and all other related sub-domains, including the Identity Automation Blog ([https://blog.identityautomation.com/](https://blog.identityautomation.com/?hsLang=en)) and Identity Automation landing pages ([https://info.identityautomation.com](https://info.identityautomation.com/?hsLang=en)). Our Privacy Policy also describes your choices and rights with respect to your Personal Data, including your rights of access and correction of your Personal Data. 
 
 For the purposes of this Privacy Policy, Personal Data means any information relating to an identified or identifiable individual, including, but not limited to, a first and last name, a physical address, an email address, or other contact information, whether at work or at home. 
 
 The term “Visitors” in this Privacy Policy refers to individuals who visit our Website and is separate and distinct from “Users” of RapidIdentity. These differing use cases have separate policies related to Personal Data. Please reference our End-User License Agreement, linked below, for our policy relating to the Personal Data of RapidIdentity Users.
 
-**End-User License Agreement:**
+### End-User License Agreement:
 
-For information regarding our Terms and Conditions for RapidIdentity customers and their users, please reference our customer End-User License Agreement [**here**](https://www.identityautomation.com/terms-and-conditions/).
+For information regarding our Terms and Conditions for RapidIdentity customers and their users, please reference our customer End-User License Agreement [**here**](https://www.identityautomation.com/terms-and-conditions/?hsLang=en).
 
-**Trust Center:**
+### Trust Center:
 
-For more information regarding Identity Automation’s approach to compliance and security, please visit our Trust Center, [**here**](https://www.identityautomation.com/trust-center/).
+For more information regarding Identity Automation’s approach to compliance and security, please visit our Trust Center, [**here**](https://www.identityautomation.com/trust-center/?hsLang=en).
 
-**Our Privacy Pledge:**
+### Our Privacy Pledge:
 
 Identity Automation pledges to ensure consistent safeguards over the personal information that is required to perform the identity and access management that our customers and their users count on every day. Personal information will never be monetized beyond the delivery of the services to which our customers knowingly subscribe. Identity Automation will regularly review and update our information privacy practices to ensure compliance with specified disclosures about the collection, use, sharing, and protection of all users’ personal information. To preserve your trust, we pledge to protect your privacy by adhering to the practices described below.
 
-Concerns or questions about how we protect your data should be directed to [\[email protected\]](https://www.identityautomation.com/cdn-cgi/l/email-protection).
+Concerns or questions about how we protect your data should be directed to [privacy@identityautomation.com](mailto:privacy@identityautomation.com).
 
 1. Data Usage for Marketing Purposes 
 2. Cookies and Similar Technologies
@@ -142,7 +155,7 @@ Identity Automation complies with the principles of GDPR. The six overall guidin
 
 Your privacy and security is of the utmost importance to us. We will always follow these principles and ask how you would like us (or our partners) to communicate with you.
 
-Where Personal Data originates from the European Economic Area or Switzerland and is transferred to the United States, Identity Automation agrees to comply with the EU-General Data Protection Regulation. With respect to such Personal Data, to the extent of any conflict between the terms of this “Privacy Policy” and the “GDPR” Principles, the “GDPR” Principles govern. For more information on the General Data Protection Regulation please visit [https://gdpr-info.eu/](https://gdpr-info.eu/).
+Where Personal Data originates from the European Economic Area or Switzerland and is transferred to the United States, Identity Automation agrees to comply with the EU-General Data Protection Regulation. With respect to such Personal Data, to the extent of any conflict between the terms of this “Privacy Policy” and the “GDPR” Principles, the “GDPR” Principles govern. For more information on the General Data Protection Regulation please visit [https://gdpr-info.eu/](https://gdpr-info.eu/).
 
 #### Disclosures, Sharing and Onward Transfers of Your Information
 
@@ -174,7 +187,7 @@ In the event that Identity Automation is involved in a merger, reorganization, d
 
 Identity Automation owns the code, databases, and all rights to all Websites and any feedback You provide. 
 
-Identity Automation may store Personal Data up to six months that You provide to Identity Automation or any of its Affiliates through any Website and will destroy such information in accordance with any policy or directive of Identity Automation or any of its Affiliates for destruction of data or as applicable. For so long as Identity Automation stores such information, Identity Automation will comply. To request Identity Automation remove your data, submit the [Right to Erasure request form](https://info.identityautomation.com/right-to-erasure).
+Identity Automation may store Personal Data up to six months that You provide to Identity Automation or any of its Affiliates through any Website and will destroy such information in accordance with any policy or directive of Identity Automation or any of its Affiliates for destruction of data or as applicable. For so long as Identity Automation stores such information, Identity Automation will comply. To request Identity Automation remove your data, submit the [Right to Erasure request form](https://info.identityautomation.com/right-to-erasure?hsLang=en).
 
 #### Privacy Policies and Links to Third-Party Websites
 
@@ -184,13 +197,13 @@ In connection with Your use of any Website, You may be made aware of services, p
 
 #### US Privacy Shield Framework
 
-Identity Automation complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and/or Switzerland, to the United States.  Identity Automation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+Identity Automation complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and/or Switzerland, to the United States.  Identity Automation has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
 ### Contact Information and Right to Be Forgotten
 
 Identity Automation offers You certain choices in connection with the Personal Data collected from You. To update Your preferences, have Your information removed from Identity Automation mailing lists, or to submit a request, please contact Identity Automation as indicated below. To the extent provided by law, You may request access to the Personal Data we maintain about You or request that we correct, amend, delete or block the information by contacting Identity Automation at the contact addresses indicated below. 
 
-If You wish to access, modify or delete other Personal Data that You have provided to Identity Automation, such as Your address, please contact us at [\[email protected\]](https://www.identityautomation.com/cdn-cgi/l/email-protection) or (877) 221-8401 for assistance.
+If You wish to access, modify or delete other Personal Data that You have provided to Identity Automation, such as Your address, please contact us at [privacy@identityautomation.com](mailto:privacy@identityautomation.com) or (877) 221-8401 for assistance.
 
 For disputes regarding Identity Automation’s collection or use of Your Personal Data or for more information, or questions or comments concerning the Privacy Policy, please contact Identity Automation at:
 
@@ -204,60 +217,46 @@ USA
 
 Telephone: +1 (877) 221-8401
 
-Email: [\[email protected\]](https://www.identityautomation.com/cdn-cgi/l/email-protection)
+Email: [privacy@IdentityAutomation.com](mailto:privacy@IdentityAutomation.com)
 
 You may also stop email messages and other promotional mailings by contacting Identity Automation at the above address or email.
 
 Our goal is to resolve all disputes through our internal processes. If You have a complaint regarding our collection, use, disclosure or retention of Personal Data originating from the European Economic Area or Switzerland that cannot be resolved through those processes, You may (1) submit the complaint to the relevant data protection authorities, EU Data Protection Authorities and Swiss Federal Data Protection and Information Commissioner (FDPIC) (“DPAs”); (2) at no cost to You, resolve the complaint through JAMS using this link: https://www.jamsadr.com/eu-us-privacy-shield; or (3) provide notice to Identity Automation that You desire to resolve the complaint through binding arbitration. Identity Automation is subject to the enforcement powers of the U.S. Federal Trade Commission. In the event that we or such authorities determine that we did not comply with this Privacy Policy, we will take appropriate steps to address any adverse effects and to promote future compliance.
 
-* [Your Need](https://www.identityautomation.com/how-we-help/your-need/)
-    * [Upgrading Your IAM Solution](https://www.identityautomation.com/how-we-help/your-need/upgrading-your-iam-solution/)
-    * [Connection to All Apps with Single Sign-On](https://www.identityautomation.com/how-we-help/your-need/connecting-to-all-apps/)
-    * [Identity Lifecycle Management for All Users](https://www.identityautomation.com/how-we-help/your-need/identity-lifecycle-management-for-all-users/)
-    * [Picking the Right Authentication Methods](https://www.identityautomation.com/how-we-help/your-need/picking-the-right-authentication-methods/)
-    * [Preventing Your Upcoming Breach](https://www.identityautomation.com/how-we-help/your-need/prevent-upcoming-cybersecurity-breach/)
-* [Industry](https://www.identityautomation.com/how-we-help/your-industry/)
-    * [Healthcare](https://www.identityautomation.com/how-we-help/your-industry/healthcare/)
-    * [Higher Education](https://www.identityautomation.com/how-we-help/your-industry/higher-education/)
-    * [K-12 Education](https://www.identityautomation.com/how-we-help/your-industry/k-12-education/)
-* [RapidIdentity: IAM](https://www.identityautomation.com/iam-software/)
-    * [RapidIdentity IAM](https://www.identityautomation.com/iam-software/rapididentityidentity-access-management/)
-    * [Support Services](https://identityautomation.force.com/support/s)
-* [Resources](https://www.identityautomation.com/resources-2/)
-    * [IAM Maturity Assessment](https://info.identityautomation.com/identity-access-management-maturity-assessment)
-    * [RapidIdentity Cloud Reference Architecture](https://www.identityautomation.com/resources-2/rapididentity-cloud-reference-architecture/)
-    * [Success Stories](https://www.identityautomation.com/resources-2/customer-success-stories/)
-    * [White Papers & eBooks](https://www.identityautomation.com/resources-2/white-papers-ebooks/)
-    * [Brochures & Data Sheets](https://www.identityautomation.com/resources-2/brochures-and-data-sheets/)
-    * [Videos & Webinars](https://www.identityautomation.com/resources-2/videos-webinars/)
-    * [Blog](https://blog.identityautomation.com/)
+[![Identity Automation](https://www.identityautomation.com/hubfs/Singularity/logos/logo-white-full.svg "Identity Automation")](https://www.identityautomation.com/?hsLang=en)
 
-#### Contact
+* [Identity Solutions](javascript:;)
+    * [Identity Lifecycle Management](https://www.identityautomation.com/products/identity-lifecycle-management)
+    * [Access Governance](https://www.identityautomation.com/products/access-governance)
+    * [Authentication & Assurance](https://www.identityautomation.com/products/authentication-and-assurance)
+    * [Threat Detection & Response](https://www.identityautomation.com/products/threat-detection-and-response)
+* [Classroom Solutions](javascript:;)
+    * [Student-Teacher Portal](https://www.identityautomation.com/products/student-teacher-portal)
+    * [Rostering](https://www.identityautomation.com/products/rostering)
+    * [Insights](https://www.identityautomation.com/products/insights)
+    * [Phishing Protection](https://www.identityautomation.com/products/phishing-protection)
+* [Industries](javascript:;)
+    * [K-12](https://www.identityautomation.com/industries/k-12-education)
+    * [Higher Ed](https://www.identityautomation.com/industries/higher-ed)
+    * [Healthcare](https://www.identityautomation.com/industries/healthcare)
+* [Resources](javascript:;)
+    * [Knowledge Base](https://blog.identityautomation.com/)
+    * [Events](https://www.identityautomation.com/resources/events)
+    * [Support](https://help.rapididentity.com/)
+    * [Trust Center](https://www.identityautomation.com/trust-center)
+* [About Us](https://www.identityautomation.com/about-us)
+    * [Why IA?](https://www.identityautomation.com/why-ia)
+    * [Careers](https://www.identityautomation.com/careers)
+    * [Partnerships](https://www.identityautomation.com/partnerships)
 
-Toll Free: 877-221-8401
+[Contact Us](https://www.identityautomation.com/contact-us?hsLang=en)
 
-Voice: 281-220-0021
+[Request A Demo](https://www.identityautomation.com/request-a-demo?hsLang=en)
 
-[\[email protected\]](https://www.identityautomation.com/cdn-cgi/l/email-protection)
+[Privacy Policy](https://www.identityautomation.com/privacy-policy)
 
-[\[email protected\]](https://www.identityautomation.com/cdn-cgi/l/email-protection)
+[Terms & Conditions](https://www.identityautomation.com/terms-of-use?hsLang=en)
 
-[\[email protected\]](https://www.identityautomation.com/cdn-cgi/l/email-protection)
-
-#### Follow Us
-
-* [](https://www.facebook.com/identityautomation/)
-* [](https://twitter.com/identityauto/)
-* [](https://www.linkedin.com/company/identity-automation)
-* [](https://www.instagram.com/identityautomation/)
-* [](https://www.youtube.com/channel/UCZxWwMBIg2-EiCmIf8cCcTA)
-
-© 2024 Copyright Identity Automation. All Rights Reserved.
-
-* [Privacy Policy](https://www.identityautomation.com/privacy-policy/)
-* [Site Map](https://www.identityautomation.com/site-map/)
-* [Terms of Use](https://www.identityautomation.com/terms-of-use/)
-
-                      
+© 2024 | All Rights Reserved
 
 ![](https://px.ads.linkedin.com/collect/?pid=5438260&fmt=gif)
