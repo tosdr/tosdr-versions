@@ -199,7 +199,7 @@ Once you get notice of an update to these terms, you must agree to the new terms
 
 * [Home](https://scammer.info/)
 * [Categories](https://scammer.info/categories)
-* [FAQ/Guidelines](https://scammer.info/guidelines)
+* [Guidelines](https://scammer.info/guidelines)
 * [Terms of Service](https://scammer.info/tos)
 * [Privacy Policy](https://scammer.info/privacy)
 
