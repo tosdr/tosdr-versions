@@ -121,7 +121,7 @@ Data Privacy
 
 ### 1. Content  
 
-test iO GmbH (hereinafter “test IO”) is the operator of a testing service for websites, mobile applications, wearables, etc.  
+Test IO Inc. (hereinafter “test IO”) is the operator of a testing service for websites, mobile applications, wearables, etc.  
   
 Personal Data will only be collected and processed (hereinafter “used”) for the purpose of rendering services. test IO always sets the highest standards for data privacy and data security. The services provided by test IO have therefore been designed to use the least amount of personal data possible.  
   
@@ -131,7 +131,7 @@ Personal Data will only be collected and processed (hereinafter “used”) for 
 
 The responsible party as defined by the General Data Protection Regulation (GDPR) is:  
   
-test IO GmbH  
+Test IO Inc.  
 Kurfürstendamm 194  
 10707 Berlin  
 Germany  
