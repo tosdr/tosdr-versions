@@ -146,7 +146,7 @@ LightDarkAuto
 Now available on Enterprise.](https://stackoverflow.co/teams/ai/)  
 [Try free](https://stackoverflowteams.com/teams/create/free/?utm_source=so-teams&utm_medium=referral&utm_campaign=footer&utm_content=co-product-sites)[Log in](https://stackoverflowteams.com/users/login/?utm_source=so-teams&utm_medium=referral&utm_campaign=footer&utm_content=co-product-sites)
 
-**Use cases**[Engineers](https://stackoverflow.co/teams/use-cases/engineering/)[Data Scientists](https://stackoverflow.co/teams/use-cases/data-analytics/)[DevOps & SRE](https://stackoverflow.co/teams/use-cases/devops/)[Support](https://stackoverflow.co/teams/use-cases/customer-support/)[Product Managment](https://stackoverflow.co/teams/use-cases/product-managment/)  
+**Use cases**[Engineers](https://stackoverflow.co/teams/use-cases/engineering/)[Data Scientists](https://stackoverflow.co/teams/use-cases/data-analytics/)[DevOps & SRE](https://stackoverflow.co/teams/use-cases/devops/)[Support](https://stackoverflow.co/teams/use-cases/customer-support/)[Product Managment](https://stackoverflow.co/teams/use-cases/product-management/)  
 **Resources**[Productivity](https://stackoverflow.co/teams/resources/category/productivity/)[AI/ML](https://stackoverflow.co/teams/resources/category/ai/)[Guides and Insights](https://stackoverflow.co/teams/resources/category/guides-insights/)[Customer Academy](https://stackoverflow.co/teams/resources/category/academy/)  
 [FAQ](https://stackoverflow.co/teams/resources/faq/)[Help center](https://stackoverflowteams.help/)
 
