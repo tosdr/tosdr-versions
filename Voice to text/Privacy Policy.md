@@ -4,8 +4,9 @@
 * [Voice To Text](#)
 * [Text To Speech(tts)](#)
     * [Text To Speech(tts)](https://voicetotext.org/text-to-speech)
-    * [Voice Generator](https://voicetotext.org/voice-generator)
+    * [Voice Generator](https://voicetotext.org/voice-generator/)
 * [Audio Recorder](https://voicetotext.org/audio-recorder/)
+* [Audio Translator](https://voicetotext.org/audio-translator/)
 * [Help](https://voicetotext.org/help)
 * [Get Started](https://voicetotext.org/speech-to-text)
 
@@ -77,8 +78,7 @@ By using our website, you hereby consent to our Privacy Policy and agree to its 
 
 © Copyright **Voicetotext.org**. All Rights Reserved
 
-Select Language
-===============
+### Select Language
 
 [Voice to Text Afrikaans](https://voicetotext.org/speech-to-text-afrikaans) [Voice to Text Arabic](https://voicetotext.org/speech-to-text-arabic) [Voice to Text Bengali](https://voicetotext.org/speech-to-text-bengali) [Voice to Text Chinese](https://voicetotext.org/speech-to-text-chinese) [Voice to Text Czech](https://voicetotext.org/speech-to-text-czech) [Voice to Text Dansk](https://voicetotext.org/speech-to-text-dansk) [Voice to Text Deutsch](https://voicetotext.org/speech-to-text-deutsch) [Voice to Text Dutch](https://voicetotext.org/speech-to-text-dutch) [Voice to Text English](https://voicetotext.org/speech-to-text) [Voice to Text Filipino](https://voicetotext.org/speech-to-text-filipino) [Voice to Text Finnish](https://voicetotext.org/speech-to-text-finnish) [Voice to Text French](https://voicetotext.org/speech-to-text-french) [Voice to Text Greek](https://voicetotext.org/speech-to-text-greek)
 
