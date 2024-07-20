@@ -76,16 +76,20 @@ _May 24th, 2018_
 #### About Us
 
 * [Our Story](https://precisefp.com/our-story/)
+* [Meet the Team](https://precisefp.com/meet-the-team/)
 * [News and Events](https://precisefp.com/media/)
 * [Our Blog](https://precisefp.com/blog/)
 * [Careers](https://www.docupace.com/careers)
+* [Contact Us](https://precisefp.com/contact-us)
+* [Terms of Service](https://precisefp.com/terms-of-service/)
+* [Privacy Policy](https://precisefp.com/privacy-policy/)
 
 #### Product
 
-* [Use cases](https://precisefp.com/solutions)
+* [Use Cases](https://precisefp.com/solutions)
 * [Features](https://precisefp.com/features)
-* [Mobile app](https://precisefp.com/mobile-app/)
 * [Integrations](https://precisefp.com/partners)
+* [Mobile App](https://precisefp.com/mobile-app/)
 * [Security](https://precisefp.com/security/)
 
 #### Resources
@@ -99,7 +103,7 @@ _May 24th, 2018_
 
 ![](https://precisefp.com/wp-content/themes/pfp/img/logo-footer.svg)
 
-© 2024 Spectrum Input, LLC.  
+© 2024 Docupace Technologies  
 [Terms](https://precisefp.com/terms-of-service) | [Privacy](https://precisefp.com/privacy-policy) | [Contact](https://precisefp.com/contact-us)
 
 * [facebook](https://www.facebook.com/pages/PreciseFP-Data-Gathering-Tool-for-Financial-Planners/202488086430604 "Facebook")
