@@ -1,4 +1,4 @@
-[![Teamup Calendar](https://www.teamup.com/wp-content/uploads/2020/10/logo-teamup-solutions-rgb.png)](https://www.teamup.com/)
+[![Teamup.com](https://www.teamup.com/wp-content/uploads/2020/10/logo-teamup-solutions-rgb.png)](https://www.teamup.com/)
 
 * [Product](https://www.teamup.com/one-product-mio-solutions/)
 * [Pricing](https://www.teamup.com/pricing/)
