@@ -48,7 +48,7 @@ Terms of use
 
 **TERMS OF SERVICE**
 
-These Terms of Service (“Terms”) are an agreement between you (“you”) and Understood for All, Inc. (including without limitation its brands, such as Wunder) (“Understood”, “we”, “us” or “our”) that allows you to use our applicable website(s), application(s) (“app(s)”), tools, software, subscriptions, content, API(s), widgets, and/or other products and services (collectively, as applicable, the "Services"), as long as you follow these Terms. By accessing or using any of our Services, including without limitation by downloading, installing or using any associated Software (defined below), you signify your agreement to all of the following, which are all expressly incorporated herein and must also be observed and followed (collectively, the “Agreement”): 
+These Terms of Service (“Terms”) are an agreement between you (“you”) and Understood for All, Inc. (including without limitation its brands) (“Understood”, “we”, “us” or “our”) that allows you to use our applicable website(s), application(s) (“app(s)”), tools, software, subscriptions, content, API(s), widgets, and/or other products and services (collectively, as applicable, the "Services"), as long as you follow these Terms. By accessing or using any of our Services, including without limitation by downloading, installing or using any associated Software (defined below), you signify your agreement to all of the following, which are all expressly incorporated herein and must also be observed and followed (collectively, the “Agreement”): 
 
 * these Terms; 
     
