@@ -1,20 +1,22 @@
 * [Skip to main content](#main)
 * [Skip to main navigation](#navigation)
-* [Skip to footer](#newHomeFooter)
+* [Skip to footer](#footer)
 
-[](https://www.siemens.com/global/en.html "Siemens")
-
-Global
-
-[Contact us](https://www.siemens.com/global/en/general/contact.html)
-
-0 suggestions available. Use the up and down arrow keys to navigate.
+[Siemens Xcelerator Marketplace](https://xcelerator.siemens.com/global/en.html)
 
 * [Jobs & Careers](https://www.siemens.com/global/en/company/jobs.html)
 * [Press](https://press.siemens.com/)
 * [Investor Relations](https://www.siemens.com/global/en/company/investor-relations.html)
 
-[Siemens Xcelerator Marketplace](https://xcelerator.siemens.com/global/en.html)
+[](https://www.siemens.com/global/en.html "Siemens")
+
+0 suggestions available. Use the up and down arrow keys to navigate.
+
+[](https://www.siemens.com/global/en/general/contact.html)
+
+* Products & Services
+* Industries
+* Company
 
 Data Privacy Notice
 ===================
