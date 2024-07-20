@@ -1,5 +1,3 @@
-[View Our Lesson Demos](https://www.time4learning.com/curriculum/demos.html)
-
 Toggle Menu [](https://www.time4learning.com/)
 
 [**Sign Up**](https://www.time4learning.com/signup/step1.aspx) [Log In](https://www.time4learning.com/login-member)
@@ -133,7 +131,7 @@ FREE E-Book to Help You Get Started!
 * [Blog](https://www.time4learning.com/blog/ "Blog")
 * [Newsletter](https://www.time4learning.com/homeschool/online-education-newsletter.html "Newsletter")
 
-[Why Is Summer a Great Time to Begin Homeschooling?](https://www.time4learning.com/blog/methods-tools-resources/why-is-summer-a-great-time-to-begin-homeschooling/)[Let’s Get Started! Steps to Plan Your New Homeschool Year](https://www.time4learning.com/blog/methods-tools-resources/get-started-steps-plan-new-homeschool-year/)
+[Why Is Summer a Great Time to Begin Homeschooling?](https://www.time4learning.com/blog/methods-tools-resources/why-is-summer-a-great-time-to-begin-homeschooling/)[How to Use Your Child’s Learning Styles At Home](https://www.time4learning.com/blog/academics-home/how-to-use-your-childs-learning-styles-at-home/)
 
 * [Home](https://www.time4learning.com/ "Home")
 * \>
@@ -344,7 +342,6 @@ A [Cambium Learning](https://www.cambiumlearning.com/)® Group Brand [![Cambium 
 
 TOP
 
-* [View Demos](https://www.time4learning.com/curriculum/demos.html "View Demos")
 * [FAQs](https://www.time4learning.com/curriculum/faq.html "FAQs")
 * [How it Works](https://www.time4learning.com/homeschool-curriculum/how-it-works/ "How it Works")
 * [Curriculum](# "Curriculum")
