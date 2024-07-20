@@ -4,7 +4,7 @@ This website requires JavaScript.
 
 [Explore](https://codeberg.org/explore/repos) [About](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F) [FAQ](https://docs.codeberg.org/getting-started/faq/) [Donate](https://docs.codeberg.org/improving-codeberg/#donate-to-codeberg) [Help](https://docs.codeberg.org/)
 
-[Register](https://codeberg.org/user/cbrgp/O4ZR4Ri) [Sign In](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fPrivacyPolicy.md)
+[Register](https://codeberg.org/user/cbrgp/An7JdS3) [Sign In](https://codeberg.org/user/login?redirect_to=%2fCodeberg%2forg%2fsrc%2fbranch%2fmain%2fPrivacyPolicy.md)
 
 ![Codeberg/org](/repo-avatars/67b24ac1ac2b23c0229a87f0d2d0cccabdc7f490c5a9c70b439c6d140f81e84d)
 
@@ -42,7 +42,7 @@ You've already forked org
 
 [Raw](https://codeberg.org/Codeberg/org/raw/branch/main/PrivacyPolicy.md) [Permalink](https://codeberg.org/Codeberg/org/src/commit/975ee655a3f19fc0554f2a3186d86c5f4a1abe7c/PrivacyPolicy.md) [Blame](https://codeberg.org/Codeberg/org/blame/branch/main/PrivacyPolicy.md) [History](https://codeberg.org/Codeberg/org/commits/branch/main/PrivacyPolicy.md)
 
-[](https://codeberg.org/Codeberg/org/raw/branch/main/PrivacyPolicy.md)[](https://codeberg.org/Codeberg/org/rss/branch/main/PrivacyPolicy.md)
+[](https://codeberg.org/Codeberg/org/raw/branch/main/PrivacyPolicy.md)[](#)[](https://codeberg.org/Codeberg/org/rss/branch/main/PrivacyPolicy.md)
 
 TLDR; You have full control and responsibility over your data.
 --------------------------------------------------------------
