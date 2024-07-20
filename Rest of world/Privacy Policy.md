@@ -74,7 +74,7 @@ Privacy Policy
 * [About us](https://restofworld.org/about/)
 * [Ethics & Editorial Standards](https://restofworld.org/about/ethics-editorial-policies/)
 * [Conflict of Interest Policy](https://restofworld.org/about/conflict-of-interest-policy/)
-* [2023 Impact Report](https://restofworld.org/2024/2023-impact-report/)
+* [Our Impact](https://restofworld.org/2024/2023-impact-report/)
 * [Our Board](https://restofworld.org/about/board/)
 * [Our Team](https://restofworld.org/about/team/)
 * [Our Supporters](https://restofworld.org/about/our-supporters/)
