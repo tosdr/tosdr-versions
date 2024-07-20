@@ -19,17 +19,17 @@
 
 * [Login](https://www.sensorytoywarehouse.com/my-account/)
 
-* [Basket / £0.00 **0**](https://www.sensorytoywarehouse.com/cart/ "Basket")
-    * No products in the basket.
+* [Cart / £0.00 **0**](https://www.sensorytoywarehouse.com/cart/ "Cart")
+    * No products in the cart.
         
         [Return to shop](https://www.sensorytoywarehouse.com/shop/)
         
 
-* [**0**](https://www.sensorytoywarehouse.com/cart/ "Basket")
+* [**0**](https://www.sensorytoywarehouse.com/cart/ "Cart")
     
-    Basket
+    Cart
     
-    No products in the basket.
+    No products in the cart.
     
     [Return to shop](https://www.sensorytoywarehouse.com/shop/)
     
@@ -89,8 +89,9 @@
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
 * [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
+* [English](https://www.sensorytoywarehouse.com/terms-and-conditions/ "English")
 
-Summer Sale - 20% applied to all products
+July Sale - 20% applied to all products
 
 ![delivery icon](https://www.sensorytoywarehouse.com/wp-content/uploads/2020/11/delivery.png)
 
@@ -321,6 +322,7 @@ Copyright 2024 © **Sensory Toy Warehouse**
 * [Kits](https://www.sensorytoywarehouse.com/product-category/sensory-toys-kits-collections/)
 * [Pocket Money Toys](https://www.sensorytoywarehouse.com/product-category/pocketmoney/)
 * [Adult](https://www.sensorytoywarehouse.com/product-category/adult-sensory-toys/)
+* [English](https://www.sensorytoywarehouse.com/terms-and-conditions/ "English")
 * [Login](https://www.sensorytoywarehouse.com/my-account/)
 * [Newsletter](#header-newsletter-signup "Sign up for Newsletter")
 * [](http://url/ "Follow on Facebook")[](http://url/ "Follow on Instagram")[](http://url/ "Follow on Twitter")[](mailto:your@email "Send us an email")
@@ -335,3 +337,5 @@ Password \*
  Remember me  Log in
 
 [Lost your password?](https://www.sensorytoywarehouse.com/my-account/lost-password/)
+
+* [![](https://www.sensorytoywarehouse.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://www.sensorytoywarehouse.com/terms-and-conditions/)
