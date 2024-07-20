@@ -90,7 +90,7 @@ Should any part of the Agreement be held invalid or unenforceable, that portion 
 
 If you have any questions, or to contact us, please email us at: [\[email protected\]](https://usaassistanceguide.com/cdn-cgi/l/email-protection); or write to us at: USA Assistance Guide, 838 N Delaware St Ste 9 #1232 Indianapolis, IN 46204.
 
-[Privacy Policy](https://usaassistanceguide.com/privacy-policy/) | [Data Policy](https://usaassistanceguide.com/data-policy/) | [How It works](https://usaassistanceguide.com/how-it-works/) | [Terms & Conditions](https://usaassistanceguide.com/terms-conditions/) | [Unsubscribe](https://reg.usaassistanceguide.com/unsub.aspx) | [Accessible View](https://usaassistanceguide.com/accessible-view/) | [Do Not Sell or Share My Information](https://usaassistanceguide.com/do-not-sell-my-information/) | [Privacy Notice](https://usaassistanceguide.com/privacy-notice/) | Copyright © C4R Media Corp.
+[Privacy Policy](https://usaassistanceguide.com/privacy-policy/) | [Data Policy](https://usaassistanceguide.com/data-policy/) | [How It works](https://usaassistanceguide.com/how-it-works/) | [Terms & Conditions](https://usaassistanceguide.com/terms-conditions/) | [Unsubscribe](https://reg.usaassistanceguide.com/unsub.aspx) | [Accessibility Notice](https://usaassistanceguide.com/accessibility-notice/) | [Do Not Sell or Share My Information](https://usaassistanceguide.com/do-not-sell-my-information/) | [Privacy Notice](https://usaassistanceguide.com/privacy-notice/) | Copyright © C4R Media Corp.
 
 [Skip to content](#content)
 
