@@ -1,8 +1,17 @@
 [](https://www.sendowl.com/)
 
-[Home](https://www.sendowl.com/)[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)[Blog](https://www.sendowl.com/blog)
+[Sign up](https://dashboard.sendowl.com/signup)
 
-[Sign in](https://dashboard.sendowl.com/login)[Sign up](https://dashboard.sendowl.com/signup)
+[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)
+
+[Log in](https://dashboard.sendowl.com/login)[Sign up](https://dashboard.sendowl.com/signup)
+
+[Benefits](https://www.sendowl.com/benefits)[Pricing](https://www.sendowl.com/pricing)[Referral](https://www.sendowl.com/referral)[Log in](https://dashboard.sendowl.com/login)
+
+#### Get started  
+for free.
+
+[Try SendOwl](https://dashboard.sendowl.com/signup)
 
 ![](/_next/static/media/icon-legal.7ab1cc30.svg)
 
@@ -176,13 +185,14 @@ This policy may be periodically updated. We encourage you to periodically review
 
 You can contact us at [support@sendowl.com](mailto:support@sendowl.com) if you have any questions regarding this privacy policy.
 
-Follow us
+#### Get started  
+for free.
 
-* [![Facebook](/_next/static/media/icon-footer-facebook.ee0e75c9.svg)](https://www.facebook.com/sendowl)
-* [![Instagram](/_next/static/media/icon-footer-instagram.6fd1dbee.svg)](https://www.instagram.com/sendowlofficial/)
-* [![X](/_next/static/media/icon-footer-x.723ef41d.svg)](https://twitter.com/sendowlhq)
-* [![Youtube](/_next/static/media/icon-footer-youtube.e3a82fde.svg)](https://www.youtube.com/@Sendowl)
-* [![TikTok](/_next/static/media/icon-footer-tiktok.da4372ae.svg)](https://www.tiktok.com/@sendowl)
+[Try SendOwl](https://dashboard.sendowl.com/signup)
+
+###### Stay up to date with the latest
+
+[Subscribe ![](/images/icons/icon-arrow-long.svg)](https://manage.kmail-lists.com/subscriptions/subscribe?a=RqtLVM&g=SEsSFn) 
 
 Product
 
@@ -193,9 +203,6 @@ Company
 
 * [About SendOwl](https://www.sendowl.com/about)
 * [Referral Program](https://www.sendowl.com/referral)
-* [Terms of Service](https://www.sendowl.com/terms)
-* [Privacy Policy](https://www.sendowl.com/privacy)
-* [Cookies](https://www.sendowl.com/cookies)
 * [Contact Us](https://www.sendowl.com/contact)
 
 Community
@@ -204,6 +211,14 @@ Community
 * [Help and Support](https://help.sendowl.com/)
 * [Developers](https://dashboard.sendowl.com/developers)
 
-Newsletter
+* * *
 
-* [Subscribe](https://manage.kmail-lists.com/subscriptions/subscribe?a=RqtLVM&g=Sy68yk)
+* [![Facebook](/_next/static/media/icon-footer-facebook.67926b7d.svg)](https://www.facebook.com/sendowl)
+* [![Instagram](/_next/static/media/icon-footer-instagram.62b86c0a.svg)](https://www.instagram.com/sendowlofficial/)
+* [![X](/_next/static/media/icon-footer-x.4538ecd6.svg)](https://twitter.com/sendowlhq)
+* [![Youtube](/_next/static/media/icon-footer-youtube.ee917f25.svg)](https://www.youtube.com/@Sendowl)
+* [![TikTok](/_next/static/media/icon-footer-tiktok.59db2fe7.svg)](https://www.tiktok.com/@sendowl)
+
+* [Terms of Service](https://www.sendowl.com/terms)
+* [Privacy Policy](https://www.sendowl.com/privacy)
+* [Cookies](https://www.sendowl.com/cookies)
