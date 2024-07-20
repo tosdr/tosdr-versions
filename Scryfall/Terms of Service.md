@@ -46,7 +46,7 @@ Terms of Service
 
 **These are the Terms of Service for using Scryfall**. You must read these terms and agree to them before creating a Scryfall account or joining our chat rooms. If you do not agree with these terms, you may not register for Scryfall or join our chat rooms.
 
-**We’re going to use some shorthand to make this easier to read:** When we say “Scryfall” we mean the Scryfall website, API, chat bots, chat rooms, and other related services. When we say “we” or “us” we mean Scryfall, LLC, a United States company. When we say “content”, “your content”, or “post” we mean any information you submit or store on Scryfall services, including account names, deck information, and chat messages.
+**We’re going to use some shorthand to make this easier to read:** When we say “Scryfall” we mean the Scryfall website, API, chat bots, chat rooms, and other related services. When we say “we”, “us”, or the “Scryfall team” we mean Scryfall, LLC, a United States company. When we say “content”, “your content”, or “post” we mean any information you submit or store on Scryfall services, including account names, deck information, chat messages, and images.
 
 **We may modify these terms at any time.** We’ll try not to, but just know that we can change these terms at any time. If the changes are material, we’ll let you know by email or by posting a notice before the changes go into effect. The notice will designate a reasonable amount of time after which the new terms will go into effect for all users. If you don’t agree to the new terms, you may delete your account and stop using Scryfall. If you do not delete your account or do not stop using Scryfall within the notice period, your content and use of the site will be subject to the new Terms of Service going forward.
 
@@ -85,7 +85,7 @@ _You must follow these rules for acceptable use. These rules protect you and oth
 
 **Scryfall is not a platform for crime or deception**.
 
-* You may not host pirated or stolen content on Scryfall. You may only post content that you created, or your own, or you have the license to use
+* You may not host pirated or stolen content on Scryfall. You may only post content that you created, or that you own, or that you have the license to use
 * You may not use Scryfall to offer counterfeit gaming materials or instruct others on how to create them
 * You may not impersonate anyone on Scryfall, especially Scryfall staff, DCI Judges, or Wizards of the Coast employees
 * You may not use Scryfall to distribute computer malware or to operate “command and control” tools
@@ -129,14 +129,16 @@ _This section outlines how paid features work._
 
 **Payments are not refundable.** If you cancel your subscription, downgrade your plan, delete your account, or have your access restricted for violating our rules, no partial refunds will be issued for any unused features or unused periods of service. In order to treat everyone equally, no exceptions will be made to this policy.
 
-**Gratis accounts exist at Scryfall’s pleasure.** In some situations, a paid account may be provided to you free-of-charge by the Scryfall team. This scenario will be clearly communicated on your account settings. Free accounts of this nature are provided for as long as we deem our relationship with you beneficial. We may revoke your gratis account status at any time for any reason.
+**Gratis accounts exist at Scryfall’s pleasure.** In some situations, a paid account or invitiation may be provided to you free-of-charge by the Scryfall team. This scenario will be clearly communicated on your account settings. Free accounts of this nature are provided for as long as we deem our relationship with you beneficial. We may revoke your gratis account status at any time for any reason.
 
 **We store payment information off-site.** Scryfall stores credit and debit card information with our payment processor, [Stripe](https://stripe.com/). Scryfall stores our patron information with Patreon.
 
 Content License
 ---------------
 
-**You still own your content**. You retain ownership of all content you post on Scryfall. However, by posting your content, you grant Scryfall a non-exclusive, sub-licensable, royalty-free, worldwide license to access, use, transform, and display your content. We use this license to operate Scryfall services. We display, cache, and retransmit your content, and we may store it redundantly on computer hardware. This license ends when you delete the material or your account.
+_This section explains permissions you grant Scryfall._
+
+**You still own your content**. You retain ownership of all content you post on Scryfall. However, by posting your content, you grant Scryfall a non-exclusive, sub-licensable, royalty-free, worldwide license to access, use, transform, and display your content. We use this license to operate Scryfall services and websites. We display, cache, and retransmit your content, and we may store it redundantly on computer hardware. This license ends when you delete the content or your account.
 
 Limitation of Liability
 -----------------------
