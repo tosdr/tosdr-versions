@@ -1,6 +1,5 @@
 [![VIBEcyber](https://vibecyber.com/wp-content/uploads/2020/03/vibeRegistered.png)](https://vibecyber.com/)
 
-* [About Us](https://vibecyber.com/#about-us)
 * [VIBE Described](https://vibecyber.com/#vibe-described)
 * [Why VIBE?](https://vibecyber.com/#why-vibe)
 * [Applications](https://vibecyber.com/#applications)
@@ -15,7 +14,6 @@
 
 Menu
 
-* [About Us](https://vibecyber.com/#about-us)
 * [VIBE Described](https://vibecyber.com/#vibe-described)
 * [Why VIBE?](https://vibecyber.com/#why-vibe)
 * [Applications](https://vibecyber.com/#applications)
@@ -57,7 +55,10 @@ Menu
 Privacy Policy
 ==============
 
-Our privacy policy is written to help you to understand how VIBEcyber handles “Personally identifiable information” (PII). PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website and apps.
+Privacy Policy
+==============
+
+Our privacy policy is written to help you to understand how VIBE CYBER LLC (VIBEcyber) handles “Personally identifiable information” (PII). PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website and apps.
 
 **What personal information do we collect from the people that visit our website or apps?**
 -------------------------------------------------------------------------------------------
@@ -125,7 +126,7 @@ We do not include or offer third-party products or services on our website.
 **Contact**
 -----------
 
-If there are any questions regarding this privacy policy you may contact us at info@vibecyber.com
+If there are any questions regarding this privacy policy you may contact us at privacy@vibecyber.com
 
 **Privacy Policy Changes**
 --------------------------
@@ -135,19 +136,19 @@ Although most changes are likely to be minor, we may change this Privacy Policy 
 **Governing Law**
 -----------------
 
-These terms and conditions, and all matters relating directly or indirectly to this Site and our apps shall be construed, interpreted, applied and governed in all respects in accordance with the laws of Bermuda, without regard to its conflicts or choice of law provisions.
+These terms and conditions, and all matters relating directly or indirectly to this Site and our apps shall be construed, interpreted, applied and governed in all respects in accordance with the laws of the United States of America, without regard to its conflicts or choice of law provisions.
 
 **For any inquiry, feedback or complaint please contact:**
 
-VIBE Cybersecurity International LLC  
-Clarendon House, 2 Church Street  
-Hamilton HM 11, Bermuda
+VIBE CYBER LLC  
+1124 Sylvan Dr  
+Sarasota FL-34234, United States of America
 
-Email: info@vibecyber.com
+Email: privacy@vibecyber.com
 
 All product names and trademarks are the property of their respective owners, which might in no way be associated or affiliated with VIBE.
 
-Last Edited on March 4, 2022
+Last Edited on July 13, 2024
 
 [![Sunified](https://vibecyber.com/wp-content/uploads/2022/10/sunified.jpg)](https://www.sunified.com/partners)
 
@@ -155,14 +156,16 @@ Last Edited on March 4, 2022
 
 [![Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize-qdn9cmpthyktjhbpdqj9grs8sk5xg2l4sukkv9a5mo.png "Zero-Trust-Architecture-Startups-Cybersecurity-SharedImg-StartUs-Insights-noresize")](https://www.startus-insights.com/innovators-guide/discover-5-top-zero-trust-architecture-solutions/)
 
-VIBE Cybersecurity International LLC  
-Headquarters: Clarendon House, 2 Church Street, Hamilton HM 11, Bermuda
+VIBE CYBER LLC  
+1124 Sylvan Dr, Sarasota FL-34234, United States of America
 
 * [Privacy Policy](https://vibecyber.com/privacy-policy/)
+* [Legal Disclosure](https://vibecyber.com/privacy-policy-2/)
 
 Menu
 
 * [Privacy Policy](https://vibecyber.com/privacy-policy/)
+* [Legal Disclosure](https://vibecyber.com/privacy-policy-2/)
 
 ![Andrew Parlock](https://vibecyber.com/wp-content/uploads/elementor/thumbs/Andrew-Parlock-qdn9cmpvxo4rm7jtsblth0mcn7hzaueure1moo2dow.jpg "Andrew Parlock")
 
