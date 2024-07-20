@@ -1,4 +1,4 @@
-![Facebook Pixel](https://www.facebook.com/tr?id=814572993507182&ev=PageView&noscript=1)                    
+![Facebook Pixel](https://www.facebook.com/tr?id=814572993507182&ev=PageView&noscript=1)                      
 
 The store will not work correctly in the case when cookies are disabled.
 
@@ -18,7 +18,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 [Skip to Content](#contentarea)
 
-Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
+Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1719941236/frontend/Woodpeck/woodpeck/en_US/images/logo.png "Woodpeckers")](https://www.woodpeck.com/ "Woodpeckers")
 
 [Join our newsletter](https://www.woodpeck.com/sign-up-for-newsletter)
 
@@ -27,14 +27,12 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/fro
 * [OneTIME Tool](https://www.woodpeck.com/one-time-tools.html)
 * [Accessories](https://www.woodpeck.com/accessories.html)
     * [Woodpecker Gift Certificates](https://www.woodpeck.com/accessories/gift-certificate.html)
+    * [Woodpeckers Apparel](https://www.woodpeck.com/accessories/woodpeckers-apparel.html)
     * [Woodpeckers](https://www.woodpeck.com/accessories/woodpeckers.html)
     * [Brad Nailers](https://www.woodpeck.com/accessories/brad-nailers.html)
-    * [Center Punch](https://www.woodpeck.com/accessories/lisle.html)
     * [Coffee Mugs](https://www.woodpeck.com/accessories/deneen-pottery.html)
     * [Dust Collection](https://www.woodpeck.com/accessories/dust-collection.html)
     * [Festool Aftermarket Accessories](https://www.woodpeck.com/accessories/festool-aftermarket-accessories.html)
-    * [Finishing](https://www.woodpeck.com/accessories/finishing.html)
-    * [Glue Bottles](https://www.woodpeck.com/accessories/fastcap.html)
     * [Japanese Saws](https://www.woodpeck.com/accessories/z-saw.html)
     * [Lumber Storage/Work Support](https://www.woodpeck.com/accessories/bora-portamate.html)
     * [Moisture Meters](https://www.woodpeck.com/accessories/moisture-meters.html)
@@ -42,7 +40,6 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/fro
     * [Multi-Router](https://www.woodpeck.com/accessories/multi-router.html)
         * [Spare Parts](https://www.woodpeck.com/accessories/multi-router/spare-parts.html)
         * [Templates](https://www.woodpeck.com/accessories/multi-router/templates.html)
-    * [Nail Set/Pry Bar](https://www.woodpeck.com/accessories/makuba.html)
     * [Rack-It's](https://www.woodpeck.com/accessories/rack-it-s.html)
     * [Workbenches](https://www.woodpeck.com/accessories/sjobergs-products.html)
     * [Screwdrivers/Wrenches](https://www.woodpeck.com/accessories/wera-tools.html)
@@ -66,7 +63,6 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/fro
     * [Bar Clamps](https://www.woodpeck.com/clamping/bar-clamps.html)
 * [Closeout](https://www.woodpeck.com/specials.html)
 * [Drilling](https://www.woodpeck.com/drilling.html)
-    * [Center Punch](https://www.woodpeck.com/drilling/center-punch.html)
     * [Cross Dowels](https://www.woodpeck.com/drilling/cross-dowels.html)
     * [Drill Bits](https://www.woodpeck.com/drilling/drill-bits.html)
         * [Standard Drill Bits](https://www.woodpeck.com/drilling/drill-bits/standard-drill-bits.html)
@@ -77,7 +73,6 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/fro
     * [Hardware Installation](https://www.woodpeck.com/drilling/hardware-installation.html)
     * [Shelf Pin Template](https://www.woodpeck.com/drilling/shelf-pin-template.html)
 * [Hand Tools](https://www.woodpeck.com/hand-tools.html)
-    * [Carving](https://www.woodpeck.com/hand-tools/carving.html)
     * [Chisels](https://www.woodpeck.com/hand-tools/chisels.html)
     * [EZ Edge Corner Plane](https://www.woodpeck.com/hand-tools/hand-planes.html)
     * [Files and Rasps](https://www.woodpeck.com/hand-tools/files-and-rasps.html)
@@ -138,6 +133,8 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/fro
     * [Ultra-Shear Router Bits](https://www.woodpeck.com/routing/ultra-shear-router-bits.html)
         * [Bits for Multi-Router](https://www.woodpeck.com/routing/ultra-shear-router-bits/bits-for-multi-router.html)
         * [Bits for Shaper Origin](https://www.woodpeck.com/routing/ultra-shear-router-bits/bits-for-shaper-origin.html)
+        * [Carbide Tipped](https://www.woodpeck.com/routing/ultra-shear-router-bits/carbide-tipped.html)
+            * [Roundover](https://www.woodpeck.com/routing/ultra-shear-router-bits/carbide-tipped/roundover.html)
         * [Half Round](https://www.woodpeck.com/routing/ultra-shear-router-bits/half-round.html)
             * [Inch](https://www.woodpeck.com/routing/ultra-shear-router-bits/half-round/inch.html)
         * [Solid Carbide](https://www.woodpeck.com/routing/ultra-shear-router-bits/solid-carbide.html)
@@ -195,6 +192,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/fro
         * [Rail & Stile](https://www.woodpeck.com/routing/router-bits/rail-stile.html)
         * [Raised Panel](https://www.woodpeck.com/routing/router-bits/raised-panel.html)
         * [Roundover/Beading](https://www.woodpeck.com/routing/router-bits/roundover-beading.html)
+            * [Ultra-Shear](https://www.woodpeck.com/routing/router-bits/roundover-beading/ultra-shear.html)
         * [Router Bit Extension](https://www.woodpeck.com/routing/router-bits/router-bit-extension.html)
         * [Sets](https://www.woodpeck.com/routing/router-bits/sets.html)
         * [Slotting](https://www.woodpeck.com/routing/router-bits/slotting.html)
@@ -432,7 +430,7 @@ Sign Up for Our Newsletter:
 
 Subscribe
 
-![Woodpeckers](https://cdn.woodpeck.com/static/version1718645361/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
+![Woodpeckers](https://cdn.woodpeck.com/static/version1719941236/frontend/Woodpeck/woodpeck/en_US/images/logo-footer.png) All Rights Reserved, ©2024
 
   
 [Do Not Sell My Personal Information](https://www.woodpeck.com/ccpa-opt-out)
