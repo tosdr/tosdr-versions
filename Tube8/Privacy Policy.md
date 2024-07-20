@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.t8cdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/tube8/cdn_assets/images/shared/logo.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29)
+![Youporn Free Porn](https://ea.t8cdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/tube8/cdn_assets/images/shared/logo.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)
 
 Age Verification
 
@@ -8,7 +8,7 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Tube8 2024 [![rta](https://ea.t8cdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/rta.gif?v=986cce68bb302dce2c0e9286898f9cc749a37b29)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Tube8 2024 [![rta](https://ea.t8cdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/rta.gif?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
@@ -47,22 +47,22 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/tube8/cdn_assets/images/shared/logo.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29 "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/tube8/cdn_assets/images/shared/logo.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8 "Tube8 Free Porn")](https://www.tube8.com/)
 
 #### Recent Searches
 
 #### Trending Searches
 
-* [Milf lesbian](https://www.tube8.com/porntags/milf+lesbian/)
-* [Breastfeeding](https://www.tube8.com/porntags/breastfeeding/)
-* [Virtual sex](https://www.tube8.com/porntags/virtual+sex/)
-* [Friends wife](https://www.tube8.com/porntags/friends+wife/)
+* [Angela white](https://www.tube8.com/porntags/angela+white/)
+* [Hot milf](https://www.tube8.com/porntags/hot+milf/)
 * [Doggy](https://www.tube8.com/porntags/doggy/)
-* [Missionary creampie](https://www.tube8.com/porntags/missionary+creampie/)
-* [Thick asian](https://www.tube8.com/porntags/thick+asian/)
+* [Real amateur](https://www.tube8.com/porntags/real+amateur/)
+* [Hotel maid](https://www.tube8.com/porntags/hotel+maid/)
+* [Perfect ass](https://www.tube8.com/porntags/perfect+ass/)
+* [Only fans](https://www.tube8.com/porntags/only+fans/)
 * [Lisa ann](https://www.tube8.com/porntags/lisa+ann/)
-* [Girl next door](https://www.tube8.com/porntags/girl+next+door/)
-* [Stacy cruz](https://www.tube8.com/porntags/stacy+cruz/)
+* [Lesbian double dildo](https://www.tube8.com/porntags/lesbian+double+dildo/)
+* [Cum swap](https://www.tube8.com/porntags/cum+swap/)
 
 #### Recommended Pornstars For You
 
@@ -72,45 +72,45 @@ Accept all cookies Accept only essential cookies Save and close
 
 Pornstar](https://www.tube8.com/pornstar/frank-taylor/)
 
-[Dora Venter
+[Liana
 
-Pornstar](https://www.tube8.com/pornstar/dora-venter/)
+Pornstar](https://www.tube8.com/pornstar/liana/)
 
-[Brittany Blaze
+[Simone Valentino
 
-Pornstar](https://www.tube8.com/pornstar/brittany-blaze/)
+Pornstar](https://www.tube8.com/pornstar/simone-valentino/)
 
-[Johnny Rey
+[Chocolate
 
-Pornstar](https://www.tube8.com/gay/pornstar/johnny-rey/)
+Pornstar](https://www.tube8.com/pornstar/chocolate/)
 
 #### Recommended Channels For You
 
 [More](https://www.tube8.com/top-channels/)
 
-[TeamSkeet Channel](https://www.tube8.com/channel/teamskeet/)
-
-[Brazzers Channel](https://www.tube8.com/channel/brazzers/)
-
-[FamilyStrokes Channel](https://www.tube8.com/channel/family-strokes/)
-
-[MyFamilyPies Channel](https://www.tube8.com/channel/my-family-pies/)
-
 [BangBrosNetwork Channel](https://www.tube8.com/channel/bangbrosnetwork/)
 
-[Blacked Channel](https://www.tube8.com/channel/blacked/)
+[Vixen Channel](https://www.tube8.com/channel/vixen/)
 
-[LetsDoeIt Channel](https://www.tube8.com/channel/letsdoeit/)
+[AdultTime Channel](https://www.tube8.com/channel/adulttime/)
+
+[PervMom Channel](https://www.tube8.com/channel/perv-mom/)
+
+[HotGuysFuck Channel](https://www.tube8.com/channel/hot-guys-fuck/)
 
 [BrattySis Channel](https://www.tube8.com/channel/bratty-sis/)
 
-[BlackedRaw Channel](https://www.tube8.com/channel/blacked-raw/)
-
-[FakeTaxi Channel](https://www.tube8.com/channel/faketaxi/)
+[PublicAgent Channel](https://www.tube8.com/channel/public-agent/)
 
 [Girlsway Channel](https://www.tube8.com/channel/girlsway/)
 
-[SisLovesMe Channel](https://www.tube8.com/channel/sis-loves-me/)
+[RealityKings Channel](https://www.tube8.com/channel/realitykings/)
+
+[MassageRooms Channel](https://www.tube8.com/channel/massagerooms/)
+
+[NewSensations Channel](https://www.tube8.com/channel/newsensations/)
+
+[LetsDoeIt Channel](https://www.tube8.com/channel/letsdoeit/)
 
 #### All videos
 
@@ -690,7 +690,7 @@ Last Modified: May 23, 2024
 
 Introduction
 
-Aylo Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website [www.tube8.com/](https://www.tube8.com/www.tube8.com/) (hereinafter "**Tube8**") and is the controller of the information collected or provided via Tube8.
+Aylo Freesites Ltd (hereinafter “**we**”, “**us**” or “**our**”) operates the website [www.tube8.com/](https://www.tube8.com/) (hereinafter "**Tube8**") and is the controller of the information collected or provided via Tube8.
 
 Please read this Privacy Notice carefully, as your access to and use of Tube8 signifies that you have read and understand all terms within this Privacy Notice. We respect your privacy and are committed to protecting your personal data.
 
@@ -1209,23 +1209,21 @@ Can I create a Channel?
 
 At this time Channel pages are only available to Tube8 Content Partners. If you run an adult website and would like to become a Content Partner, please visit [https://www.tube8.com/info.html#partner](https://www.tube8.com/info.html#partner) .
 
-How do I subscribe to a Channel/Pornstar/User? \*
+How do I subscribe to a Channel/Pornstar? \*
 
 To subscribe to a Channel, you can go to [www.tube8.com/channels/](https://www.tube8.com/channels/), search for the Channel you want, and then click the "Subscribe" button next to the channel name in the top right corner of the page, or if you're on a video player page, just click the "Subscribe" button next to the "By: Channel Name" below the video.
 
 To subscribe to a Pornstar, go to [www.tube8.com/pornstars/](https://www.tube8.com/pornstars/), select the pornstar you wish to subscribe to, and click the "Subscribe" button below their picture on the left side of the page.
 
-To subscribe to a User, click the "Subscribe" button beside their username found below the bottom right corner of any user submitted video.
-
 Where can I find my subscriptions? \*
 
 All of your subscriptions can be viewed, filtered, and managed from Your Subscriptions page. To access the page, click on your username in the top right corner of the site and select "Subscriptions" from the drop-down menu (or go to [www.tube8.com/subscriptions/](https://www.tube8.com/subscriptions/)).
 
-How do I unsubscribe from a Channel/Pornstar/User? \*
+How do I unsubscribe from a Channel/Pornstar? \*
 
-To unsubscribe from a Channel, Pornstar, or User, click on your username in the top right corner of the site, select "Subscriptions" from the drop-down menu, select the Channel, Pornstar, or User you would like to unsubscribe from under the subscriptions list on the left side of the page, then click on the "Unsubscribe" button to the right of the page above the list of videos.
+To unsubscribe from a Channel, Pornstar click on your username in the top right corner of the site, select "Subscriptions" from the drop-down menu, select the Channel, Pornstar you would like to unsubscribe from under the subscriptions list on the left side of the page, then click on the "Unsubscribe" button to the right of the page above the list of videos.
 
-You can also unsubscribe from Channels, Pornstars, and Users, by simply clicking the "Unsubscribe" button found on any Channel, Pornstar, or User pages.
+You can also unsubscribe from Channels, Pornstars by simply clicking the "Unsubscribe" button found on any Channel, Pornstar.
 
 _\* Note: you must be logged in to an existing Tube8.com account to complete these actions._
 
@@ -1659,9 +1657,9 @@ INCREASE YOUR EXPOSURE TODAY!
 
 Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
-[![Sign Up Now](https://ea.t8cdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/sign-up-button.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29)](https://www.pornhub.com/partners/cpp)
+[![Sign Up Now](https://ea.t8cdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/sign-up-button.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)](https://www.pornhub.com/partners/cpp)
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=986cce68bb302dce2c0e9286898f9cc749a37b29 "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8 "Tube8 Free Porn")](https://www.tube8.com/)
 
 ### HELP & SUPPORT
 
@@ -1688,7 +1686,7 @@ Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
 [Looking for gay porn?](https://www.tube8.com/gay "Tube8 Gay")
 
-[![rta](https://ea.t8cdn.com/986cce68bb302dce2c0e9286898f9cc749a37b29/base/cdn_assets/images/shared/rta.gif?v=986cce68bb302dce2c0e9286898f9cc749a37b29)](https://www.tube8.com/info.html#rating)
+[![rta](https://ea.t8cdn.com/ffcbe97ec24800902a1324696eaf8b9036dfe8f8/base/cdn_assets/images/shared/rta.gif?v=ffcbe97ec24800902a1324696eaf8b9036dfe8f8)](https://www.tube8.com/info.html#rating)
 
 © Tube8 2006 - 2024
 
