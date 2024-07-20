@@ -1,6 +1,6 @@
-[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg)](https://www.synthesia.io/)
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae689ace95f5017dc17a0_Logo-main.svg)](https://www.synthesia.io/?r=0)
 
-[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/)
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/?r=0)
 
 Platform
 
@@ -401,9 +401,27 @@ Create an account and get started using Synthesia, with full access to all 160+ 
 
 ![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6616a999987b13e0a37360a4_pre-footer-dark.webp)
 
-[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/)
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/65eae6894e82dff052cd139f_Logo-white.svg)](https://www.synthesia.io/?r=0)
 
-Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/) enables everyone to create professional videos without mics, cameras, actors or studios.  
+[en](https://www.synthesia.io/legal/customer-terms-of-service)
+
+[fr](https://www.synthesia.io/fr/legal/customer-terms-of-service)
+
+[de](https://www.synthesia.io/de/legal/customer-terms-of-service)
+
+[en
+
+English](https://www.synthesia.io/legal/customer-terms-of-service)
+
+[fr
+
+Français](https://www.synthesia.io/fr/legal/customer-terms-of-service)
+
+[de
+
+Deutsch](https://www.synthesia.io/de/legal/customer-terms-of-service)
+
+Synthesia is the #1 AI Video Communications Platform. Our [AI Video Generator](https://www.synthesia.io/?r=0) enables everyone to create professional videos without mics, cameras, actors or studios.  
   
 Using AI, we’re radically changing the process of video content creation, making it scalable and affordable while maintaining high quality.
 
