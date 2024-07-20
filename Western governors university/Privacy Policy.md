@@ -26,7 +26,7 @@
 
 [All Degrees](https://www.wgu.edu/online-degree-programs.html)
 
-[Explore Your Options](https://wgu.jebbit.com/9cswfe0w?L=Full+Page)
+[Explore Your Options](https://www.wgu.edu/quiz.html)
 
 ##### Bachelor's Degrees
 
@@ -39,6 +39,7 @@
 * [Accounting – B.S. Business Administration](https://www.wgu.edu/online-business-degrees/accounting-bachelors-program.html)
 * [Finance – B.S.](https://www.wgu.edu/online-business-degrees/finance-bachelors-program.html)
 * [Supply Chain and Operations Management – B.S.](https://www.wgu.edu/online-business-degrees/supply-chain-operations-management-bachelors-program.html)
+* [Communications – B.S.](https://www.wgu.edu/online-business-degrees/communications-bachelors-program.html)
 * [Accelerated Information Technology Bachelor's and Master's Degree (from the School of Technology)](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
 * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
 
@@ -62,6 +63,7 @@
 * [Leadership](https://www.wgu.edu/online-business-degrees/certificates/leadership.html)
 * [Supply Chain](https://www.wgu.edu/online-business-degrees/certificates/supply-chain.html)
 * [Accounting Fundamentals](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
+* [Digital Marketing and E-Commerce](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
 
 * [View all Business Degrees](https://www.wgu.edu/online-business-degrees.html)
 
@@ -162,6 +164,7 @@
 * [Health and Human Services – B.S.](https://www.wgu.edu/online-nursing-health-degrees/health-human-services.html)
 * [Psychology – B.S.](https://www.wgu.edu/online-nursing-health-degrees/psychology-bachelors-program.html)
 * [Health Science – B.S.](https://www.wgu.edu/online-nursing-health-degrees/health-science-bachelors-program.html)
+* [Public Health – B.S.](https://www.wgu.edu/online-nursing-health-degrees/public-health-bachelors-program.html)
 * [Healthcare Administration – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
 
 ##### Certificates
@@ -195,6 +198,7 @@
 * [Business Leadership (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/leadership.html)
 * [Supply Chain (with the School of Business)](https://wgu.edu/online-business-degrees/certificates/supply-chain.html)
 * [Accounting Fundamentals (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
+* [Digital Marketing and E-Commerce (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
 * [Back End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
 * [Front End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
 * [Web Application Deployment and Support (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
@@ -371,6 +375,7 @@ Online Degrees
         * [Accounting – B.S. Business Administration](https://www.wgu.edu/online-business-degrees/accounting-bachelors-program.html)
         * [Finance – B.S.](https://www.wgu.edu/online-business-degrees/finance-bachelors-program.html)
         * [Supply Chain and Operations Management – B.S.](https://www.wgu.edu/online-business-degrees/supply-chain-operations-management-bachelors-program.html)
+        * [Communications – B.S.](https://www.wgu.edu/online-business-degrees/communications-bachelors-program.html)
         * [Accelerated Information Technology Bachelor's and Master's Degree (from the School of Technology)](https://www.wgu.edu/online-it-degrees/accelerated-information-technology-bachelors-masters-program.html)
         * [Health Information Management – B.S. (from the Leavitt School of Health)](https://www.wgu.edu/online-nursing-health-degrees/health-information-management-bachelors-program.html)
         
@@ -394,6 +399,7 @@ Online Degrees
         * [Leadership](https://www.wgu.edu/online-business-degrees/certificates/leadership.html)
         * [Supply Chain](https://www.wgu.edu/online-business-degrees/certificates/supply-chain.html)
         * [Accounting Fundamentals](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
+        * [Digital Marketing and E-Commerce](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
         
     
     * [View all Business Degrees](https://www.wgu.edu/online-business-degrees.html)
@@ -506,6 +512,7 @@ Online Degrees
         * [Health and Human Services – B.S.](https://www.wgu.edu/online-nursing-health-degrees/health-human-services.html)
         * [Psychology – B.S.](https://www.wgu.edu/online-nursing-health-degrees/psychology-bachelors-program.html)
         * [Health Science – B.S.](https://www.wgu.edu/online-nursing-health-degrees/health-science-bachelors-program.html)
+        * [Public Health – B.S.](https://www.wgu.edu/online-nursing-health-degrees/public-health-bachelors-program.html)
         * [Healthcare Administration – B.S. (from the School of Business)](https://www.wgu.edu/online-business-degrees/healthcare-administration-bachelors-program.html)
         
     * Certificates
@@ -543,6 +550,7 @@ Online Degrees
         * [Business Leadership (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/leadership.html)
         * [Supply Chain (with the School of Business)](https://wgu.edu/online-business-degrees/certificates/supply-chain.html)
         * [Accounting Fundamentals (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/accounting-fundamentals.html)
+        * [Digital Marketing and E-Commerce (with the School of Business)](https://www.wgu.edu/online-business-degrees/certificates/digital-marketing-ecommerce.html)
         * [Back End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/back-end-web-development.html)
         * [Front End Web Development (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/front-end-web-development.html)
         * [Web Application Deployment and Support (with the School of Technology)](https://www.wgu.edu/online-it-degrees/certificates/web-application-deployment-support.html)
@@ -558,7 +566,7 @@ Online Degrees
 * [All Degrees](https://www.wgu.edu/online-degree-programs.html)
     
 
-* [Explore Your Options](https://wgu.jebbit.com/9cswfe0w?L=Full+Page)
+* [Explore Your Options](https://www.wgu.edu/quiz.html)
     
 
 Admissions & Transfers
