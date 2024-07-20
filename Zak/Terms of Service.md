@@ -12,7 +12,7 @@ Free Returns up to 30 Days Contiguous U.S.
 
 [Kids](https://www.zak.com/collections/kids)
 
-[Drinkware](https://www.zak.com/collections/kids-drinkware) [Dinnerware](https://www.zak.com/collections/kids-dinnerware) [For Age 3-6](https://www.zak.com/collections/for-kids-age-3-6) [For Age 7-12](https://www.zak.com/collections/for-kids-age-7-12) [Bluey](https://www.zak.com/collections/bluey) [Super Mario Bros.](https://www.zak.com/collections/the-super-mario-bros) [Disney](https://www.zak.com/collections/disney) [Marvel](https://www.zak.com/collections/marvel) [Gabby's Dollhouse](https://www.zak.com/collections/gabbys-dollhouse) [PAW Patrol](https://www.zak.com/collections/paw-patrol) [All Characters](https://www.zak.com/collections/all-characters)
+[Back to School](https://www.zak.com/collections/kids-back-to-school-water-bottles) [Drinkware](https://www.zak.com/collections/kids-drinkware) [Dinnerware](https://www.zak.com/collections/kids-dinnerware) [For Age 3-6](https://www.zak.com/collections/for-kids-age-3-6) [For Age 7-12](https://www.zak.com/collections/for-kids-age-7-12) [Bluey](https://www.zak.com/collections/bluey) [Super Mario Bros.](https://www.zak.com/collections/the-super-mario-bros) [Disney](https://www.zak.com/collections/disney) [Marvel](https://www.zak.com/collections/marvel) [PAW Patrol](https://www.zak.com/collections/paw-patrol) [All Characters](https://www.zak.com/collections/all-characters)
 
 [](https://www.zak.com/collections/beacon-covered-spout-bottles)
 
@@ -78,6 +78,8 @@ Kids Expand menu
 
 Hide menu [Kids](https://www.zak.com/collections/kids)
 
+[Back to School](https://www.zak.com/collections/kids-back-to-school-water-bottles)
+
 [Drinkware](https://www.zak.com/collections/kids-drinkware)
 
 [Dinnerware](https://www.zak.com/collections/kids-dinnerware)
@@ -93,8 +95,6 @@ Hide menu [Kids](https://www.zak.com/collections/kids)
 [Disney](https://www.zak.com/collections/disney)
 
 [Marvel](https://www.zak.com/collections/marvel)
-
-[Gabby's Dollhouse](https://www.zak.com/collections/gabbys-dollhouse)
 
 [PAW Patrol](https://www.zak.com/collections/paw-patrol)
 
@@ -451,7 +451,7 @@ Learn
 
 [Facebook](https://www.facebook.com/ZakDesigns/ "Facebook") [Twitter](https://twitter.com/zak_designs "Twitter") [Tiktok](https://www.tiktok.com/@zak.designs? "Tiktok") [Pinterest](https://www.pinterest.com/zakdesigns/_created/ "Pinterest") [Instagram](https://www.instagram.com/zakdesigns/ "Instagram") [Linkedin](https://www.linkedin.com/company/zak-designs/ "Linkedin") [YouTube](https://www.youtube.com/c/ZakDesigns1 "YouTube")[![Zak! Amazon](//www.zak.com/cdn/shop/files/amazon-blue-410.png?v=1676676646&width=18) Zak! Amazon](https://www.amazon.com/zakdesigns "Zak! Amazon")
 
-© [zak.com](https://www.zak.com/) 2024 [Accessibility](#) [Terms of Use](https://www.zak.com/policies/terms-of-service) [Privacy Policy](https://www.zak.com/policies/privacy-policy) [International Offices](https://www.zak.com/pages/international-offices) [Do not sell or share my personal information](https://www.zak.com/pages/ccpa-opt-out)
+© [zak.com](https://www.zak.com/) 2024 [Accessibility](#) [Terms of Use](https://www.zak.com/policies/terms-of-service) [Privacy Policy](https://www.zak.com/policies/privacy-policy) [Do not sell or share my personal information](https://www.zak.com/pages/ccpa-opt-out)
 
 Search 
 
