@@ -68,6 +68,8 @@ About
 
 [Jobs](https://www.themarshallproject.org/jobs)
 
+[Investigate This!](https://www.themarshallproject.org/investigate-this)
+
 [Newsletters](https://www.themarshallproject.org/newsletters?ref=menu)
 
 [Events](https://www.themarshallproject.org/events)
