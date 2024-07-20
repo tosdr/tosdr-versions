@@ -138,7 +138,6 @@ When changes are made to these Terms of Use, The Mighty will make a new copy of 
 
 * [Submit Your Story](http://themighty.com/submit-a-story/)
 * [Partner With Us](https://corp.themighty.com/partner-with-us/)
-* [Partners and Contributors Login](https://themighty.com/login/)
 * [Advertise with us](https://corp.themighty.com/marketing-advertising-sponsorships/)
 
 **Topics**
