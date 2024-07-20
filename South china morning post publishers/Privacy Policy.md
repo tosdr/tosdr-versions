@@ -127,7 +127,7 @@ This would benefit not just SCMP GROUP – but also the international society as
 
 d. Direct Marketing
 
-SCMP GROUP also uses personal data for direct marketing purposes as part of its legitimate interests unless the data subject explicitly objects or such is otherwise specifically prohibited under applicable laws.
+SCMP GROUP also uses personal data, including names and email addresses, for direct marketing purposes as part of its legitimate interests unless the data subject explicitly objects or such is otherwise specifically prohibited under applicable laws.
 
 How you interact with SCMP GROUP’s products or services (such as news, media, advertising, events, etc.) may indicate your consumption preferences or inclinations.   Based on such preferences or inclinations, we use such personal data to conduct direct marketing in respect of various goods and/or services offered by SCMP GROUP, its affiliates or business partners including but not limited to:
 
