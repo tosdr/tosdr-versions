@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**June 20, 2024**
+**July 19, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [Leaping Leeches](https://www.sciencedaily.com/releases/2024/06/240620152253.htm)
-* [New Genetic Cause of Obesity](https://www.sciencedaily.com/releases/2024/06/240620152240.htm)
-* [Plants Don't Hold Carbon for Long](https://www.sciencedaily.com/releases/2024/06/240620152225.htm)
-* [Hurricane Changed 'Game Rules' for Monkeys](https://www.sciencedaily.com/releases/2024/06/240620152032.htm)
-* [Breakthrough for Green Hydrogen Generation](https://www.sciencedaily.com/releases/2024/06/240620151411.htm)
-* [Ingestible Microbiome Sampling Pill](https://www.sciencedaily.com/releases/2024/06/240612140911.htm)
-* [25% of US Backyards Exceed EPA Lead Levels](https://www.sciencedaily.com/releases/2024/06/240619143719.htm)
-* [Jupiter's Great Red Spot: Longest-Lived Vortex](https://www.sciencedaily.com/releases/2024/06/240619143717.htm)
-* [Non-Native Species Expand Ranges 100X Faster](https://www.sciencedaily.com/releases/2024/06/240619143655.htm)
-* [New Class of Materials Called 'Glassy Gels'](https://www.sciencedaily.com/releases/2024/06/240619143556.htm)
+* [New Snake Discovery Rewrites History](https://www.sciencedaily.com/releases/2024/07/240719180253.htm)
+* [New Antidote for Cobra Bites](https://www.sciencedaily.com/releases/2024/07/240717162410.htm)
+* [How Our Brains Track Time](https://www.sciencedaily.com/releases/2024/07/240718205236.htm)
+* [Ancient Microbes: How Complex Life Evolved](https://www.sciencedaily.com/releases/2024/07/240716122726.htm)
+* [Switching Off Protein: Longer Lifespan in Mice](https://www.sciencedaily.com/releases/2024/07/240717120907.htm)
+* [Intermediate-Mass Black Hole in Milky Way](https://www.sciencedaily.com/releases/2024/07/240718124854.htm)
+* [New Gene Therapy for Muscular Dystrophy](https://www.sciencedaily.com/releases/2024/07/240717120903.htm)
+* [Soft, Stretchy 'Jelly Batteries'](https://www.sciencedaily.com/releases/2024/07/240717162405.htm)
+* [Forests Endure as Carbon Sink Despite Pressures](https://www.sciencedaily.com/releases/2024/07/240717120933.htm)
+* [Extremely Fast, Compact Computer Memory](https://www.sciencedaily.com/releases/2024/07/240717120924.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
-[Obesity](https://www.sciencedaily.com/news/health_medicine/obesity/)
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Inorganic Chemistry](https://www.sciencedaily.com/news/matter_energy/inorganic_chemistry/)
+[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Geochemistry](https://www.sciencedaily.com/news/earth_climate/chemistry/)
 
   
 
