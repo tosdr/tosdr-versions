@@ -1276,7 +1276,7 @@ Students and employees are reminded that many legal sources of content are avail
 Related Information
 
 * [Apply Now | Submit Your Application Online –...](https://myhomepage.waldenu.edu/Walden/contact-us)
-* [Understanding FAFSA](https://www.waldenu.edu/financial-aid/federal-financial-aid/fafsa)
+* [Alumni Resources](https://www.waldenu.edu/alumni/resources)
 * [Petitions, Appeals, Grievances, and Complaints](https://academics.waldenu.edu/handbook/student-expectations/petitions-appeals)
 
 ![triangle background](/themes/custom/wal_base/images/svg/triangle.svg)
