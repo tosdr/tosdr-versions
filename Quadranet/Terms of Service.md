@@ -20,7 +20,8 @@
     * [Chicago Dedicated Servers](https://quadranet.com/service-level-agreement/chicago-dedicated-servers)
     * [New Jersey Dedicated Servers](https://quadranet.com/service-level-agreement/new-jersey-dedicated-servers)
     * [Seattle Dedicated Servers](https://quadranet.com/service-level-agreement/seattle-dedicated-servers)
-    * [Outlet Dedicated Servers](https://quadranet.com/service-level-agreement/outlet)
+    * [BareMetal Promotion](https://quadranet.com/service-level-agreement/specials_baremetal)
+    * [Wholesalers Promotion](https://quadranet.com/service-level-agreement/specials_wholesalers)
     * [Available Upgrades](https://quadranet.com/service-level-agreement/available-upgrades)
     
 * Cloud
