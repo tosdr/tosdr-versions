@@ -2,11 +2,9 @@
 
 Pause slideshow Play slideshow
 
-[FREE Glow Sticks 7-Pack with Purchases $75+](https://www.serovital.com/collections/all-products "All Products")
+[**Free FULL-SIZE TriHydrate Hyaluronic Acid with $75+**](https://www.serovital.com/collections/all-products "All Products")
 
-Free US Shipping & Returns
-
-[90-Day Risk Free Trial](https://www.serovital.com/pages/returns-information "Our Hassle-Free Return Policy")
+[**Free FULL-SIZE TriHydrate Hyaluronic Acid with Purchases $75+**](https://www.serovital.com/collections/all-products "All Products")
 
 SeroVital [![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766)](https://www.serovital.com/)[![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786)](https://www.serovital.com/)
 
@@ -143,6 +141,7 @@ SeroVital
 * [Science](https://www.serovital.com/pages/science)
 * [How it Works](https://www.serovital.com/pages/how-it-works)
 * [Get the Facts](https://www.serovital.com/pages/facts)
+* [Real SeroVital Reviews](https://www.serovital.com/pages/serovital-reviews)
 * [FAQ](https://www.serovital.com/pages/faq)
 * [Blog](https://www.serovital.com/blogs/blog)
 * [Affiliates](https://www.serovital.com/pages/affiliates)
@@ -192,4 +191,4 @@ All trademarks are the property of their respective owners. © SanMedica (2012-2
 
 [0](#)
 
-![smNoImage](https://cdn.shopify.com/extensions/a09afea1-fa21-46fc-943e-cd96bae51ebe/sales-motivator-free-gifts-6/assets/noimage.png)
+![smNoImage](https://cdn.shopify.com/extensions/853cacf9-fd88-4bb2-82d9-b42c66b276fd/sales-motivator-free-gifts-9/assets/noimage.png)
