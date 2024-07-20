@@ -41,6 +41,7 @@ Sort by RelevanceNewestOldest
         * [Children's Rights](https://www.unicefusa.org/what-unicef-does/respect-children/children-rights)
         * [Gender Equality](https://www.unicefusa.org/what-unicef-does/respect-children/gender-equality)
         * [Innovation](https://www.unicefusa.org/what-unicef-does/respect-children/innovation)
+    * [Parenting](https://www.unicefusa.org/what-unicef-does/parenting)
     *  Emergency Response 
         * [Emergency Response](https://www.unicefusa.org/what-unicef-does/emergency-response)
         * [Relief for Every Child](https://www.unicefusa.org/what-unicef-does/emergency-response/relief-every-child)
@@ -100,7 +101,9 @@ Sort by RelevanceNewestOldest
             * [The Delta Kappa Gamma Society International](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/delta-kappa-gamma-society-international)
             * [Zonta International](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/zonta-international)
         * [Our Supporters](https://www.unicefusa.org/about-unicef-usa/partnerships/our-supporters)
-    * [UNICEF USA and UNICEF](https://www.unicefusa.org/about-unicef-usa/unicef-usa-and-unicef)
+    *  UNICEF USA and UNICEF 
+        * [UNICEF USA and UNICEF](https://www.unicefusa.org/about-unicef-usa/unicef-usa-and-unicef)
+        * [Community Alliance for Child Rights](https://www.unicefusa.org/about-unicef-usa/unicef-usa-and-unicef/community-alliance-child-rights)
 *  How to Help 
     *  Advocate 
         * [Advocate](https://www.unicefusa.org/how-help/advocate)
@@ -114,8 +117,9 @@ Sort by RelevanceNewestOldest
         * [Donors & Philanthropists](https://www.unicefusa.org/how-help/donate/donors-philanthropists)
         * [Joint Investment Mechanism](https://www.unicefusa.org/how-help/donate/joint-investment-mechanism)
         * [Donor-Advised Funds](https://www.unicefusa.org/how-help/donate/donor-advised-funds)
-    * [Fundraise](https://www.unicefusa.org/fundraise-online)
-    * [UNICEF Clubs](https://www.unicefusa.org/startaclub)
+    * [Fundraise](https://www.unicefusa.org/how-help/fundraise-UNICEF-USA)
+    * [Impact Investing](https://www.unicefusa.org/how-help/donate/impact-fund-children/bridge-fund)
+    * [UNICEF Clubs](https://www.unicefusa.org/how-help/unicef-clubs)
     * [Ways To Give](https://www.unicefusa.org/how-help/ways-give)
 
 Utility Menu
@@ -502,6 +506,7 @@ Main navigation
     * [Children's Health](https://www.unicefusa.org/what-unicef-does/childrens-health)
     * [Children's Protection](https://www.unicefusa.org/what-unicef-does/childrens-protection)
     * [Respect for Children](https://www.unicefusa.org/what-unicef-does/respect-children)
+    * [Parenting](https://www.unicefusa.org/what-unicef-does/parenting)
     * [Emergency Response](https://www.unicefusa.org/what-unicef-does/emergency-response)
     * [Where UNICEF Works](https://www.unicefusa.org/what-unicef-does/where-unicef-works)
 * [About UNICEF USA](https://www.unicefusa.org/about-unicef-usa)
@@ -514,8 +519,9 @@ Main navigation
 * [How to Help](https://www.unicefusa.org/how-help)
     * [Advocate](https://www.unicefusa.org/how-help/advocate)
     * [Donate](https://www.unicefusa.org/how-help/donate)
-    * [Fundraise](https://www.unicefusa.org/fundraise-online)
-    * [UNICEF Clubs](https://www.unicefusa.org/startaclub)
+    * [Fundraise](https://www.unicefusa.org/how-help/fundraise-UNICEF-USA)
+    * [Impact Investing](https://www.unicefusa.org/how-help/donate/impact-fund-children/bridge-fund)
+    * [UNICEF Clubs](https://www.unicefusa.org/how-help/unicef-clubs)
     * [Ways To Give](https://www.unicefusa.org/how-help/ways-give)
 
 Footer
