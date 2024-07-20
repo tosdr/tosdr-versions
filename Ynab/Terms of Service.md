@@ -233,6 +233,8 @@ Online Purchases and Other Terms and Conditions
 
 All purchases through our site or other transactions for the sale of services or information formed through the Website or as a result of visits made by you are governed by our Terms of Sale, which are hereby incorporated into these Terms of Service.
 
+We may change subscription terms, subscription fees, the services, and subscription offerings offered as part of the subscription at any time on a go forward basis in our sole discretion. If the pricing for your subscription increases, we will notify you as required by law and provide you an opportunity to cancel before applying those changes to your account or charging you in connection with an automatic renewal. We may choose in our sole discretion to add, modify, or remove services offered as part of the subscription on a temporary or permanent basis. If you do not wish to continue subscribing with the new modifications, you may cancel your subscription. Your failure to cancel or your continued use of the subscription after the changes become effective will constitute your acceptance of the changes. If you accept the new subscription, its terms and conditions will apply for that renewal and all renewals going forward.
+
 Links from the Website
 ----------------------
 
@@ -293,6 +295,8 @@ Entire Agreement
 The Terms of Service and our [**Privacy Policy**](https://www.youneedabudget.com/privacy-policy) and Terms of Sale constitute the sole and entire agreement between you and You Need A Budget LLC with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Website.
 
 ![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/645d2ae6d9658d2cd3608470_Tree%20Logo%20Buttermilk.svg)
+
+![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/667c60faafec2b8470e5c372_20th_anniversary_logo_partial%20(1).svg)
 
 [Facebook Icon](https://www.facebook.com/ynabofficial)[The artist formerly known as Twitter](https://twitter.com/ynab)[Instagram Icon](https://www.instagram.com/youneedabudget/)[Pinterest Icon](https://www.pinterest.com/ynabofficial/)[TikTok Icon](https://www.tiktok.com/@ynabofficial)[YouTube Icon](https://www.youtube.com/@YNABofficial)[Apple Podcasts Icon](https://podcasts.apple.com/ca/podcast/you-need-a-budget-ynab/id477248343)[RSS Icon](https://www.youneedabudget.com/blog/rss.xml)
 
