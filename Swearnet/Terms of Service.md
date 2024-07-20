@@ -22,14 +22,16 @@
 SwearNet.com Incorporated Terms of Service
 ==========================================
 
-Version 1.1 : May 1, 2019
--------------------------
+Version 1.2 : July 1, 2024
+--------------------------
 
-This page describes the terms and conditions that govern your use of certain SwearNet.com Incorporated digital products, including SwearNet.com and mobile applications, offered by SwearNet.com Incorprated and related subsidiaries (“SwearNet”, “us” or “we”). For information on how SwearNet.com Incorporated collects, uses and shares any personal information, please see our [Privacy Policy](https://www.swearnet.com/privacy).
+This document defines the terms and conditions that govern your use of SwearNet.com Incorporated digital products, including Swearnet.com, trailerparkboys.com, the Android and iOS mobile applications, and the Roku app. These products are owned and operated by Swearnet.com Incorprated. Swearnet.com Incorporated may be referred to as “SwearNet”, “us” or “we” in the remainder of this document.
+
+For information on how SwearNet collects, uses and shares personal information, please refer to our [Privacy Policy](https://www.swearnet.com/privacy).
 
 ### 1\. GENERAL RULES AND DEFINITIONS
 
-1.1 If you choose to use SwearNet.com, SwearNet’s mobile apps, sites and applications, any of the features of this Site, including but not limited to RSS, API, software and other downloads (collectively, the “Services”), you will be agreeing to abide by all of the terms and conditions of these Terms of Service between you and SwearNet.com Incorporated (“SwearNet”, “us” or “we”).
+1.1 If you choose to use SwearNet.com, SwearNet’s mobile apps, sites and applications, any of the features of this Site, including but not limited to multimedia, text, software and other downloads (collectively, the “Services”), you will be agreeing to abide by all of the terms and conditions of these Terms of Service between you and SwearNet.com Incorporated (“SwearNet”, “us” or “we”).
 
 1.2 We may change, add or remove portions of these Terms of Service at any time, which shall become effective immediately upon posting. It is your responsibility to review these Terms of Service prior to each use of the Site and by continuing to use this Site, you agree to any changes.
 
@@ -39,11 +41,11 @@ This page describes the terms and conditions that govern your use of certain Swe
 
 1.4 We may change, suspend or discontinue any aspect of the Services at any time, including the availability of any Services feature, database, or content. We may also impose limits on certain features and services or restrict your access to parts or all of the Services without notice or liability.
 
-### 2\. CONTENT
+### 2\. CONTENT AND SERVICES
 
-2.1 All content on our Services, including the Site, are intended for your personal, noncommercial use. All materials published on the Services (including, but not limited to text, photographs, images, illustrations, audio clips and video clips, also known as the “Content”) are protected by copyright, and owned or controlled by SwearNet.com Incorporated or the party credited as the provider of the Content. You shall abide by all additional copyright notices, information, or restrictions contained in any Content accessed through the Service.
+2.1 All content on our Services, including but not limited to the website, apps, and social media are intended for your personal, non-commercial use. All materials published on the Services (including, but not limited to text, photographs, images, illustrations, audio clips and video clips, also known as the “Content”) are protected by copyright, and owned or controlled by SwearNet.com Incorporated or the party credited as the provider of the Content. You shall abide by all additional copyright notices, information, or restrictions contained in any Content accessed through the Service.
 
-2.2 The Services and Contents are protected by copyright pursuant to Canadian, U.S. and international copyright laws. You may not modify, publish, transmit, participate in the transfer or sale of, reproduce (except as provided in Section 2.3 of these Terms of Service), create new works from, distribute, perform, display, or in any way exploit, any of the Content or the Services (including software) in whole or in part.
+2.2 The Services and Content are protected by copyright pursuant to Canadian, U.S. and international copyright laws. You may not modify, publish, transmit, participate in the transfer or sale of, reproduce (except as provided in Section 2.3 of these Terms of Service), create new works from, distribute, perform, display, or in any way exploit, any of the Content or the Services (including software) in whole or in part.
 
 2.3 You may download or copy the Content and other downloadable items displayed on the Services for personal use only, provided that you maintain all copyright and other notices contained therein. Copying or storing of any Content for other than personal use is expressly prohibited without prior written permission from SwearNet.com Incorporated, or the copyright holder identified in the copyright notice contained in the Content.
 
@@ -157,6 +159,12 @@ When you install the Trailer Park Boys Swearnet app (the “Licenced Application
     
 
 11.9 Third Party Terms of Agreement: You agree to comply with all applicable third party terms of agreement in effect when using the Licenced Application, for example, you must not be in violation of your wireless or Internet data service agreement when using the Licenced Application. 11.10 Third Party Beneficiary: You, as do we, acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of the EULA, and that, upon your acceptance of the terms and conditions of the EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce the EULA against you as a third party beneficiary thereof.
+
+### 12\. VERSION UPDATES
+
+* 1.0 March 3, 2013 Initial Version
+* 1.1 May 1, 2019 Added Mobile Apps and Markdown formatting
+* 1.2 July 1, 2024 Added Roku app and minor formatting and updated introduction
 
  [![TikTok](https://bubbles.swearnet.com/assets/social-icon-tiktok-244ab07bef20a1cb04f2153c0b92196d947d86d2751dd129038e95b15497583a.png)](https://www.tiktok.com/@swearnet)[![Facebook](https://bubbles.swearnet.com/assets/social-icon-facebook-ea03d9c32a38137952a064e655cf5d28e06ca82c6c93e7331018235e97a5dbaf.png)](https://www.facebook.com/SwearNet)[![Instagram](https://bubbles.swearnet.com/assets/social-icon-instagram-30ca3d37165307381df0a382c3e9dfc4bf1951956397e75d894df7ba929e3a09.png)](https://instagram.com/swearnet)[![Twitter](https://bubbles.swearnet.com/assets/social-icon-twitter-fd009397cbf2dad3b1110cf7a9c8d0204100b75af59b634180c7f2e6eed9b395.png)](https://www.twitter.com/SwearNet)[![YouTube](https://bubbles.swearnet.com/assets/social-icon-youtube-7723e895611c765e86735aef08408814e833be1aad2b2fc7e12fcef492201176.png)](https://www.youtube.com/user/SwearNet)[![Twitch](https://bubbles.swearnet.com/assets/social-icon-twitch-7d1031ebe52adea82ebdbdcff22c9fdbf5fc4400d74fe732c9597ed175d1d36e.png)](https://www.twitch.tv/trailerparkboys)
 
