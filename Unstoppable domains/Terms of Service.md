@@ -4,7 +4,7 @@ Accept AllReject All
 
 [](https://unstoppabledomains.com/)
 
-[Search](https://unstoppabledomains.com/search)[Explore](https://unstoppabledomains.com/explore)
+[Search](https://unstoppabledomains.com/search)[Marketplace](https://unstoppabledomains.com/marketplace)
 
 /
 
@@ -20,7 +20,7 @@ Accept AllReject All
 
 [Trademarks](https://unstoppabledomains.com/tm)
 
-[Unstoppable Marketplace](https://unstoppablemarketplace.com/)
+[Unstoppable Apps](https://unstoppableapps.com/)
 
 [Podcast](https://the-unstoppable-podcast.simplecast.com/)
 
