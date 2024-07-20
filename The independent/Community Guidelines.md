@@ -10,7 +10,7 @@
 
 [Independent](https://www.independent.co.uk/)
 
-[Jet2holidays](https://www.independent.co.uk/travel/jet2holidays)[IndyBest](https://www.independent.co.uk/extras/indybest)
+[General election](https://www.independent.co.uk/topic/general-election)[IndyBest](https://www.independent.co.uk/extras/indybest)
 
 [Subscribe](https://www.independent.co.uk/subscribe?itm_channel=native&itm_campaign=top_right_subscribe)Menu
 
@@ -168,11 +168,11 @@ Related links
 
 [User Policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
 
-[Privacy Notice](https://www.independent.co.uk/service/privacy-policy-a6184181.html)
+[Privacy Policy](https://www.independent.co.uk/service/privacy-policy-a6184181.html)
 
 [Cookie Notice](https://www.independent.co.uk/service/cookie-policy-a6184186.html)
 
-[Complaint Form](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttp%253A%252F%252Fgo.redirectingat.com%252F%253Fid%253D44681X1458326%2526url%253Dhttps%25253A%25252F%25252Findependentnews.zendesk.com%25252Fhc%25252Fen-us%25252Frequests%25252Fnew%2526sref%253Dhttps%253A%252F%252Fwww.independent.co.uk%252Fservice%252Fcode-of-conduct-a6184241.html%26sref%3Dhttps%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&article_id=6184241&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2022-11-03T12%3A15%3A43.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=)
+[Complaint Form](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttp%253A%252F%252Fgo.redirectingat.com%252F%253Fid%253D44681X1458326%2526url%253Dhttps%25253A%25252F%25252Findependentnews.zendesk.com%25252Fhc%25252Fen-us%25252Frequests%25252Fnew%2526sref%253Dhttps%253A%252F%252Fwww.independent.co.uk%252Fservice%252Fcode-of-conduct-a6184241.html%26sref%3Dhttps%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&article_id=6184241&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2024-07-11T13%3A16%3A18.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=)
 
 [Contact Us](https://www.independent.co.uk/service/contact-us-759589.html)
 
@@ -186,7 +186,7 @@ Related links
 
 Before making your complaint it may help to read the answers to some frequently asked questions, as they might deal with the matter you want to raise – [please click here](https://www.independent.co.uk/service/frequently-asked-questions-8481384.html).
 
-To lodge a complaint please complete the form [available here](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttp%253A%252F%252Fgo.redirectingat.com%252F%253Fid%253D44681X1458326%2526url%253Dhttps%25253A%25252F%25252Findependentnews.zendesk.com%25252Fhc%25252Fen-us%25252Frequests%25252Fnew%2526sref%253Dhttps%253A%252F%252Fwww.independent.co.uk%252Fservice%252Fcode-of-conduct-a6184241.html%26sref%3Dhttps%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&article_id=6184241&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2022-11-03T12%3A15%3A43.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=). If you include any sensitive information in your complaint (e.g. about your health, sex life, ethnicity, political opinions, religious beliefs or criminal convictions), by clicking the ‘submit’ button you give your explicit consent for us to use that information in connection with investigating your complaint as set out in our [Privacy Notice](https://www.independent.co.uk/service/privacy-policy-a6184181.html).
+To lodge a complaint please complete the form [available here](https://clicks.trx-hub.com/xid/esimedia_t58ukgmjkf95_theindependent?q=http%3A%2F%2Fgo.redirectingat.com%2F%3Fid%3D44681X1458326%26url%3Dhttp%253A%252F%252Fgo.redirectingat.com%252F%253Fid%253D44681X1458326%2526url%253Dhttps%25253A%25252F%25252Findependentnews.zendesk.com%25252Fhc%25252Fen-us%25252Frequests%25252Fnew%2526sref%253Dhttps%253A%252F%252Fwww.independent.co.uk%252Fservice%252Fcode-of-conduct-a6184241.html%26sref%3Dhttps%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&p=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcode-of-conduct-a6184241.html&article_id=6184241&author=&tag=user+policies&section=&category=&sub_category=&updated_time=2024-07-11T13%3A16%3A18.000Z&utm_campaign=&utm_term=&utm_content=&utm_medium=&ref=&utm_source=direct&fbclid=&gclid=). If you include any sensitive information in your complaint (e.g. about your health, sex life, ethnicity, political opinions, religious beliefs or criminal convictions), by clicking the ‘submit’ button you give your explicit consent for us to use that information in connection with investigating your complaint as set out in our [Privacy Policy](https://www.independent.co.uk/service/privacy-policy-a6184181.html).
 
 To send a letter for publication please email [letters@independent.co.uk](mailto:letters@independent.co.uk).
 
@@ -494,7 +494,7 @@ Already subscribed? Log in
     * [Privacy notice](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
-    * [Modern Slavery Act](https://static.independent.co.uk/static-assets/IDNMLModSlav0721.pdf)
+    * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
 
 ### Thank you for registering
 
@@ -510,7 +510,7 @@ Close
 
 [](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
 
-[Jet2holidays](https://www.independent.co.uk/travel/jet2holidays)[IndyBest](https://www.independent.co.uk/extras/indybest)
+[General election](https://www.independent.co.uk/topic/general-election)[IndyBest](https://www.independent.co.uk/extras/indybest)
 
 * [Today’s Edition](https://edition.independent.co.uk/)
 * [Crosswords & Puzzles](https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles)
