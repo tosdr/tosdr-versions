@@ -46,6 +46,7 @@ _search_ Menu
     * [Carrier and Access Switches](https://service-provider.zyxel.com/service-provider/emea/en/products/carrier-and-access-switches)
     * [MSANs/DSLAMs](https://service-provider.zyxel.com/service-provider/emea/en/products/msansdslams)
     * [Network Extenders](https://service-provider.zyxel.com/service-provider/emea/en/products/network-extenders)
+    * [Minimal Design](https://service-provider.zyxel.com/service-provider/emea/en/products/minimal-design)
     
 * [EMEA team](https://zyxelcampaign.eu/team/)
     -------------------------------------------
@@ -219,7 +220,7 @@ Follow us
 ---------
 
 * [](https://www.linkedin.com/company/zyxel-sp/)
-* [](https://twitter.com/ZyxelEMEA_SP)
+* [](https://x.com/ZyxelEMEA_SP)
 * [](https://www.youtube.com/channel/UCKx0I36VyeavLz_XbK34VEw)
 
 ![Logo](/service-provider/themes/custom/zyxel/logo.svg)
