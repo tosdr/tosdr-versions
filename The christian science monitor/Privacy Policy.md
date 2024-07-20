@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Respect
+[Dignity
 
-### Working-class ‘red wall’ voters decided the last UK election. How do they feel now?](https://www.csmonitor.com/World/Europe/2024/0620/red-wall-labour-conservatives-uk-elections "Working-class ‘red wall’ voters decided the last UK election. How do they feel now?")
+### For Ukrainians, war of survival is also a battle to defend their identity](https://www.csmonitor.com/World/Europe/2024/0719/ukraine-russia-war-culture-identity "For Ukrainians, war of survival is also a battle to defend their identity")
 
-[Transformation
+[Joy
 
-### A new Baltimore bridge will span more than water](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0620/A-new-Baltimore-bridge-will-span-more-than-water "A new Baltimore bridge will span more than water")
+### Joy breaks into the Olympics](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0719/Joy-breaks-into-the-Olympics "Joy breaks into the Olympics")
 
-[Resilience
+[Courage
 
-### Safe learning for children in war zones](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0618/Safe-learning-for-children-in-war-zones "Safe learning for children in war zones")
+### For Martin Luther King Jr., the conversation on political violence was very different](https://www.csmonitor.com/Commentary/2024/0719/donald-trump-political-violence-martin-luther-king-jr "For Martin Luther King Jr., the conversation on political violence was very different")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-June 20, 2024
+July 19, 2024
 
-Weighing the real cost of ‘just’ wars
+Beyond the reach of Russian rockets
 
-Israel’s tactics in Gaza in response to the Oct. 7 cross-border attack by Hamas militants have pushed civilians there to the brink. Gaza’s health ministry says that more than 35,000 Palestinians have been killed. Israel justifies its push to eradicate Hamas in defense of its own right to exist. Monitor editors continue to talk about what international law says about war’s “collateral damage” and about “the principle of proportionality.”These are legal issues – complex protocols, with wiggle words – that also contain moral components, including ones codified in the combatants’ respective religious texts. Today, we turn to Ned Temko, whose Patterns column thoughtfully explores both. 
+Today’s Monitor offers glimpses of reclaimed identity. Venezuelans seeking to take back their country from years of repressive rule. One man’s renewal in the footsteps of Henry David Thoreau. Former President Trump making gestures to strike an inclusive tone.But I linger on the story of the Odesa National Fine Arts Museum by Howard LaFranchi. Defaced by Russian attacks, the museum is “working to show through art a different kind of power,” the director says. “These public exhibits and activities become another part of our national defense,” adds a curator.That unity and resolve speaks to a power rockets cannot touch.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,23 +158,23 @@ Regions
 
 Recent Stories
 
-[### Working-class ‘red wall’ voters decided the last UK election. How do they feel now?](https://www.csmonitor.com/World/Europe/2024/0620/red-wall-labour-conservatives-uk-elections "Working-class ‘red wall’ voters decided the last UK election. How do they feel now?")
+[### For Ukrainians, war of survival is also a battle to defend their identity](https://www.csmonitor.com/World/Europe/2024/0719/ukraine-russia-war-culture-identity "For Ukrainians, war of survival is also a battle to defend their identity")
 
-[### When does self-defense cross a line? Outcry over Israel in Gaza mounts.](https://www.csmonitor.com/World/Middle-East/2024/0620/When-does-self-defense-cross-a-line-Outcry-over-Israel-in-Gaza-mounts "When does self-defense cross a line? Outcry over Israel in Gaza mounts.")
+[### Blocked from voting, Venezuela’s diaspora finds new ways to oppose Maduro](https://www.csmonitor.com/World/Americas/2024/0719/Blocked-from-voting-Venezuela-s-diaspora-finds-new-ways-to-oppose-Maduro "Blocked from voting, Venezuela’s diaspora finds new ways to oppose Maduro")
 
-[### Climate activists vandalize jets and Stonehenge as summer travel soars](https://www.csmonitor.com/World/Europe/2024/0620/climate-activists-stonehenge-jets-London "Climate activists vandalize jets and Stonehenge as summer travel soars")
+[### A closed-door trial in Russia sentences journalist Evan Gershkovich to 16 years for espionage](https://www.csmonitor.com/World/2024/0719/gershkovich-espionage-sentenced "A closed-door trial in Russia sentences journalist Evan Gershkovich to 16 years for espionage")
 
 * * *
 
 Featured Coverage
 
-[The Christian Science Monitor's coverage of the 2023 war between Hamas and Israel, and related articles.
+[The Christian Science Monitor’s coverage of the 2024 Summer Games.
 
 Connect with the stories
 
-![](//images.csmonitor.com/csm/2023/10/1163284_2_1010-Iron-Dome_standard.jpg?alias=square_200x200)
+![](//images.csmonitor.com/csm/2024/07/1177794_1_0711-paris-olympics_standard.jpg?alias=square_200x200)
 
-### War in the Middle East](https://www.csmonitor.com/World/Topics/War-in-the-Middle-East?icid=regions-tab)
+### 2024 Paris Olympics](https://www.csmonitor.com/World/Olympics?icid=regions-tab)
 
 Values Behind the News
 
