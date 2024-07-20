@@ -8,7 +8,7 @@ DEFINITIONS
 
 For the purposes of these Terms of Service the following expressions shall have the following meanings:
 
-* 'the Company' means SCS Software s.r.o. whose registered office is at Jihlavská 1558/21, Michle, 140 00 Praha 4, Czechia;
+* 'the Company' means SCS Software s.r.o. whose registered office is at Tomíčkova 2427/2, Chodov, 148 00 Praha 4, Czechia;
 * 'the Customer' means a customer of the Company (or of an authorized agent or reseller acting on behalf of the Company) in possession of a legal copy of the Game;
 * 'the Game' means the game Euro Truck Simulator 2 or the game American Truck Simulator developed by the Company;
 * 'the Permitted Activities' means the legitimate use of the Site by the Customer in accordance with its functionalities as set out by the Company;
@@ -184,4 +184,4 @@ Customers registered at the Site may also use the form available within the Site
 16.5 In the event that the notice results in removal or other moderation of Customer’s content of the Site, or permanent or temporary suspension of Service with respect to any Customer; the Company shall inform any affected Customer thereof without undue delay stating the reasons for such decision. Should the Customer disagree with such decision, the Customer shall be entitled to bring an action before court of any competent jurisdiction or lodge complaint with respective regulatory authority, including, in case of Customers domiciled in the EU, the Digital Services Coordinator in their member state. Consumers domiciled within the EU, Island or Norway may also use consumer ADR as set out above.
 
   
-**This document was last updated on February 16, 2024**
+**This document was last updated on July 1, 2024**
