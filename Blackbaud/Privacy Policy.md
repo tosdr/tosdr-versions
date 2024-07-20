@@ -64,7 +64,7 @@ Main Navigation
     
     * [Fundraising and Advancement](https://www.blackbaud.com/solutions/fundraising)
     * [Peer-to-Peer Fundraising](https://www.blackbaud.com/solutions/fundraising/peer-to-peer-fundraising)
-    * [Donor and Prospect Data Intelligence](https://www.blackbaud.com/solutions/analytics/modeling-and-prospect-research)
+    * [Donor and Prospect Data Intelligence](https://www.blackbaud.com/solutions/analytics)
     * [Marketing Campaigns and Websites](https://www.blackbaud.com/solutions/marketing)
     
     Education Solutions
