@@ -189,6 +189,8 @@ If your Personal Data is transferred outside the combined area of the United Kin
 
 Some of the advertisements you receive while using the Services are chosen and displayed to your device based on predictions about your interests generated from your visits to different websites in the browser you use and on other devices you may use. This type of ad customisation is sometimes called "online behavioural" or "interest-based" advertising. Such interest-based advertising helps support the free content, products and services you receive via our Services.
 
+When you use our website and enter your email address on our website (either to log in or similar), we may share with solution providers and its group companies information that we collect from you, such as your email (in hashed, pseudonymous form), IP address, or information about your browser or operating system, with any of the following, acting as “joint controllers” (as applicable and defined in the GDPR). This Site is affiliated with Adapex INC for the purposes of placing advertising on the Site, and Adapex INC will collect and use certain data for advertising purposes. [Learn more about Adapex’s data usage here.](https://adapex.io/privacy-policy/)
+
 The advertising partners we currently work (or will shortly be working) with (together, the “**Ad Partners**”) are listed here:
 
 Sofascore’s Privacy Policy Ad Partners
