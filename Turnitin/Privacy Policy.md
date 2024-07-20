@@ -1,8 +1,8 @@
 campaign
 
-Turnitin launches iThenticate 2.0 to help maintain integrity of high stakes content with AI writing detection
+AI writing now includes AI paraphrasing detection!
 
-[Learn more](https://www.turnitin.com/blog/ithenticate-2-0-advancing-research-integrity-with-ai-writing-detection "iThenticate 2.0: Advancing research integrity with AI writing detection")
+[Learn more](https://www.turnitin.com/blog/ai-paraphrasing-detection-strengthening-the-integrity-of-academic-writing "AI paraphrasing detection: Strengthening the integrity of academic writing")
 
 cancel
 
@@ -245,7 +245,7 @@ cancel
     search  Search  cancel
     
 
-* language
+* [language](https://www.turnitin.com/sitemap/global-sites)
     
     Choose your region
     
@@ -569,7 +569,7 @@ Our Data Protection Officer may be reached at [DPO@Turnitin.com](mailto:DPO@Turn
 * [Social Impact](https://www.turnitin.com/about/social-impact "Social Impact")
 * [Diversity Pledge](https://www.turnitin.com/about/diversity-pledge "Diversity Pledge")
 * [Accessibility](https://www.turnitin.com/accessibility "Accessibility")
-* [Product Privacy](https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm "Product Privacy")
+* [Product Privacy](https://guides.turnitin.com/hc/en-us/articles/27377195682317 "Product Privacy")
 
 * * *
 
@@ -759,4 +759,4 @@ close
 
 search  east
 
-language
+[language](https://www.turnitin.com/sitemap/global-sites)
