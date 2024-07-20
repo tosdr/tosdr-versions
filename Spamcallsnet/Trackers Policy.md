@@ -395,9 +395,9 @@ Submit
 
  [![0063](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/ph.svg) +63 (Country Code)](https://spamcalls.net/en/country-code/63)
 
- [![0062](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/id.svg) +62 (Country Code)](https://spamcalls.net/en/country-code/62)
-
  [![0044](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/gb.svg) +44 (Country Code)](https://spamcalls.net/en/country-code/44)
+
+ [![0062](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/id.svg) +62 (Country Code)](https://spamcalls.net/en/country-code/62)
 
  [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cx.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
@@ -405,13 +405,13 @@ Submit
 
  [![0061](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cc.svg) +61 (Country Code)](https://spamcalls.net/en/country-code/61)
 
- [![0031](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/nl.svg) +31 (Country Code)](https://spamcalls.net/en/country-code/31)
+ [![0090](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/tr.svg) +90 (Country Code)](https://spamcalls.net/en/country-code/90)
 
- [![0032](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/be.svg) +32 (Country Code)](https://spamcalls.net/en/country-code/32)
-
- [![0095](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/mm.svg) +95 (Country Code)](https://spamcalls.net/en/country-code/95)
+ [![0090](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/cy.svg) +90 (Country Code)](https://spamcalls.net/en/country-code/90)
 
  [![00234](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/ng.svg) +234 (Country Code)](https://spamcalls.net/en/country-code/234)
+
+ [![00254](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.6/flags/4x3/ke.svg) +254 (Country Code)](https://spamcalls.net/en/country-code/254)
 
 ##### SpamCalls.net
 
