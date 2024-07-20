@@ -60,7 +60,7 @@ Base information
 
 Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG). The provisions below serve to provide information as to the manner, extent and purpose for collecting, using and processing personal information by the provider.
 
-**ZAP-Hosting GmbH & Co. KG, Hafenweg 8, 48155 Münster, Germany**
+**ZAP-Hosting GmbH, Hafenweg 8, 48155 Münster, Germany**
 
 **+49 (0) 251 149 811 80**
 
@@ -197,12 +197,12 @@ On the basis of the Federal Data Protection Act, you may contact us at no cost i
 
 Data Privacy Policy Statement provided by the Law Offices of Weiß & Partner
 
-Please send any question regarding our privacy policy: ZAP-Hosting GmbH & Co. KG, Datenschutzbeauftragter, Hafenweg 8, 48155 Münster, Germany
+Please send any question regarding our privacy policy: ZAP-Hosting GmbH, Datenschutzbeauftragter, Hafenweg 8, 48155 Münster, Germany
 
 Create ticket via mail
 
 average response time:  
-**14 Minute(s)**
+**3 Minute(s)**
 
 Your name (optional) 
 
@@ -300,7 +300,7 @@ Copyright 2010 - 2024 [ZAP-Hosting.com](#). Alle Rechte vorbehalten.
 
 ZAP-Hosting GmbH & Co KG - Hafenweg 8 - 48155 Münster  
 Alle Preise inkl. gesetzl. MwSt. des jeweiligen EU-Landes  
-USt.-ID: DE 301569730
+USt.-ID: DE 320366231
 
 SOON...
 
