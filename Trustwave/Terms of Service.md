@@ -1,4 +1,4 @@
-Trustwave Unveils New Offerings to Maximize Value of Microsoft Security Investments. [Learn More](https://www.trustwave.com/en-us/company/newsroom/news/trustwave-unveils-new-offerings-to-maximize-value-of-microsoft-security-investments/)
+Trustwave Rapid Response: CrowdStrike Falcon Outage Update. [Learn More](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-rapid-response-crowdstrike-falcon-outage-update/)
 
 * [Contact Us](https://www.trustwave.com/en-us/company/contact/)
 * [Login](javascript:void(0))
@@ -75,7 +75,7 @@ Trustwave Unveils New Offerings to Maximize Value of Microsoft Security Investme
     
 * 
 
-Trustwave Unveils New Offerings to Maximize Value of Microsoft Security Investments. [Learn More](https://www.trustwave.com/en-us/company/newsroom/news/trustwave-unveils-new-offerings-to-maximize-value-of-microsoft-security-investments/)
+Trustwave Rapid Response: CrowdStrike Falcon Outage Update. [Learn More](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-rapid-response-crowdstrike-falcon-outage-update/)
 
 [Request a Demo](#navdemo-form)
 
