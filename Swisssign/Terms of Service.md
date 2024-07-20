@@ -46,7 +46,6 @@ Open navigation _Close navigation_ _Open navigation_
     * [Integrated signature solution](https://www.swisssign.com/en/signatures/integrated-signature-solution.html)
     * [Timestamping service](https://www.swisssign.com/en/signatures/timestamping-service.html)
     * [Industries](https://www.swisssign.com/en/signatures/industries.html)
-        * [Construction industry](https://www.swisssign.com/en/signatures/industries/construction.html)
     
 * [Identities](https://www.swisssign.com/en/identities.html)
     
