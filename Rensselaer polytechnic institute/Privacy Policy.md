@@ -44,8 +44,8 @@ Rensselaer Polytechnic Institute
 
 [Contact Us](https://info.rpi.edu/contactus)
 
-Policies: [Media](https://scer.rpi.edu/forjournalists) [Web Privacy](https://policy.rpi.edu/policy/web-privacy-policy) [Title IX](https://sexualviolence.rpi.edu/)
+Policies: [Web Privacy](https://policy.rpi.edu/policy/web-privacy-policy) [Title IX](https://sexualviolence.rpi.edu/)
 
-[Student Consumer Information](https://rpi.edu/about/heoa/index.html) [Accessibility](https://policy.rpi.edu/policy/web-accessibility-standards)
+[Student Consumer Information](https://info.rpi.edu/student-consumer-information) [Accessibility](https://policy.rpi.edu/policy/web-accessibility-standards)
 
 Copyright © 2024 Rensselaer Polytechnic Institute (RPI)
