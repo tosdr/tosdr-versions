@@ -1,7 +1,7 @@
 [![Web
 Analytics](//c.statcounter.com/10546969/0/7fa3ddee/1/)](http://statcounter.com/ "Web Analytics")
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUAQAAAACl8iCgAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2CgLgAAAFAAASIT6HUAAAAASUVORK5CYII=)
 
 ![](https://zenkit.com/wp-content/themes/zenkit-com/img/icons/zenkit_suite_logo.svg)
 
@@ -34,7 +34,7 @@ Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Projects")
     * [Zenchat](https://chat.zenkit.com/login "Zenchat")
 * [Get started](https://projects.zenkit.com/register "Get started")
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
 
 ![](https://zenkit.com/wp-content/themes/zenkit-com/favicon.ico?v=5)
 
@@ -65,12 +65,12 @@ Zenkit Suite](https://zenkit.com/en/suite/ "Zenkit Suite")
     * [Zenchat](https://chat.zenkit.com/login "Zenchat")
 * [Get started](https://projects.zenkit.com/register "Get started")
 
-* ![Globe icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+* ![Globe icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Globe icon](/wp-content/uploads/2020/03/globe.svg)
     
     English
-    * [![de](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Deutsch")
+    * [![de](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATAQAAAABaKwthAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2CgHgAAAEwAAZ9MFzMAAAAASUVORK5CYII= "Deutsch")
         
         ![de](https://zenkit.com/wp-content/themes/zenkit-com/wpml/templates/language-switchers/zenkit-dropdown-switcher/flags/de.png "Deutsch")
         
@@ -114,7 +114,7 @@ This privacy policy applies to the use of the Zenkit marketing page. The privacy
 
 [Your Privacy Choices](#)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%2016'%3E%3C/svg%3E)
+[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
 
 ![](https://zenkit.com/wp-content/themes/zenkit-com/img/icons/zenkit_suite_logo.svg)
 
@@ -156,7 +156,7 @@ Zenkit is an award-winning software suite for productivity and collaboration.
 
 Any questions about Zenkit Projects? Give us a call.
 
-[![Phone Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![Phone Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Phone Icon](https://zenkit.com/wp-content/themes/zenkit-com/img/todo/phone.svg)
 
