@@ -3,29 +3,19 @@
 ![ZEE5 Logo](/webapp-assets/images/ZEE5_logo.svg)
 
 * [Home](https://www.zee5.com/ "Watch TV Shows, Originals, Movies & Live News Online")
-
 * [TV Shows](https://www.zee5.com/tv-shows "Watch TV Serials & Shows Online")
-
 * [Movies](https://www.zee5.com/movies "Watch Movies Online")
 
 * [Premium](https://www.zee5.com/premium "ZEE5 Premium Package Subscription")
-
+* [News](https://www.zee5.com/news "Watch Latest News & Updates")
 * [Web Series](https://www.zee5.com/web-series)
-
 * [Rent](https://www.zee5.com/zee-plex-movies-on-rent "Rent & Watch Movies on ZEEPLEX")
-
-* [Live TV](https://www.zee5.com/live-tv "Watch Live TV Channels Online")
-
-* [Eduauraa](https://www.zee5.com/eduauraa "Digital Learning Platform for Class 6 to 12, NEET, JEE Exams")
-
 * [Music](https://www.zee5.com/music-videos "Watch Music Videos Online")
-
+* [Live TV](https://www.zee5.com/live-tv "Watch Live TV Channels Online")
 * [Sports](https://www.zee5.com/sports/games)
-
+* [Eduauraa](https://www.zee5.com/eduauraa "Digital Learning Platform for Class 6 to 12, NEET, JEE Exams")
 * [Kids](https://www.zee5.com/kids "Watch Kids Shows, Cartoons. Movies & Videos Online")
-
 * [Songs](https://www.zee5.com/songs)
-
 * [Videos](https://www.zee5.com/videos "Watch Official Films Videos")
 
 [LOGIN](https://www.zee5.com/signin?redirectFromWebApp=1)
