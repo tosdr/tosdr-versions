@@ -4,6 +4,7 @@
 * [hosting](#)
     * [Web hosting](https://servers.guru/anonymous-web-hosting/)
     * [VPS](https://servers.guru/anonymous-vps/)
+    * [Windows VPS](https://servers.guru/anonymous-windows-vps/)
     * [Unmetered VPS](https://servers.guru/anonymous-unmetered-vps/)
     * [ARM VPS](https://servers.guru/arm-vps/)
     * [Cloud Servers](https://servers.guru/anonymous-dedicated-cloud-servers/)
@@ -421,6 +422,7 @@ Our Services
 
 * [Web hosting](https://servers.guru/anonymous-web-hosting/)
 * [VPS](https://servers.guru/anonymous-vps/)
+* [Windows VPS](https://servers.guru/anonymous-windows-vps/)
 * [Unmetered VPS](https://servers.guru/anonymous-unmetered-vps/)
 * [ARM VPS](https://servers.guru/arm-vps/)
 * [Cloud Servers](https://servers.guru/anonymous-dedicated-cloud-servers/)
