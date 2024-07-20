@@ -490,7 +490,7 @@ Continue
                 * [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
                 * [Groups](#)
                     
-                    * [Astrophysical Data and Surveys](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/astronomical-data/)
+                    * [Astronomical Data](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/astronomical-data/)
                         
                     * [Astrophysical Gases and Fluids](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/astrophysical-gases-and-fluids/)
                         
@@ -506,7 +506,7 @@ Continue
                         
                     * [Nearby Universe](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/dynamics/)
                         
-                    * [Stars and Compact Objects](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/compact-objects/)
+                    * [Stars & Plasma Astrophysics (SPA)](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/compact-objects/)
                         
                     
                 * [Projects](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/projects/)
