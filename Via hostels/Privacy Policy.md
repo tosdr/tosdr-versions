@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_6675267989557)
+* [fun from day one!](#tab_669b8eb5b5761)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6675267989557)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_669b8eb5b5761)
     
-* [fomo no more!](#tab_6675267989567)
+* [fomo no more!](#tab_669b8eb5b5770)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6675267989567)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_669b8eb5b5770)
     
-* [we’ve got you covered, dude](#tab_6675267989573)
+* [we’ve got you covered, dude](#tab_669b8eb5b577c)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6675267989573)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_669b8eb5b577c)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,33 +117,30 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
-[Popup market is coming to VIA on June 29th!😍 Co ![Popup market is coming to VIA on June 29th!😍 Come shop for arts, design & fashion made by local artists and creators✨
-Brunch, lunch & dinner as well as drink deals available at The Dude bar🤤 
-The market will be held outside in our back terrace☀️ (if the Dutch weather lets us down, we will have to postpone the event) follow to stay tuned 🫶
-#popupmarket #amsterdamlife #amsterdam #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8XAfjXNCJF/) 
+[Who would you pick to make your drink? 😏 make s ![Who would you pick to make your drink? 😏 make sure to watch till the end! #freepourchallenge #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9m7ZXZtAYD/) 
+
+[Share to that person you're going to explore with ![Share to that person you're going to explore with 🤩
+#viaamsterdam #amsterdamlife #thingstodoinamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9cou-0plKi/) 
+
+[What a game🍻 ![What a game🍻](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9P4NjwhIXO/) 
+
+[TB to Swifties and all these fab outfits💖 #era ![TB to Swifties and all these fab outfits💖  #erastouroutfit  #erastouramsterdam #viaamsterdam #swifties](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9IXky-t1bC/) 
+
+[Our Taylor Swift inspired cocktail✨ This one’s ![Our Taylor Swift inspired cocktail✨ This one’s super limited edition, so come try it before it’s gone ;) #viaamsterdam #erastourtaylorswift #erastouramsterdam #hostellife](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9Cnm9WN5ak/) 
+
+[![Where brushes and brews bring travellers together🫶 #viaamsterdam #artnight](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C89zNzTpGkV/)
+
+[Today I don't feel like doing anything, I just wan ![Today I don't feel like doing anything, I just wanna lay in my beeed. If this is your mood, remember that you can request a late check-out🫶](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C82qlMHBQ3-/) 
+
+[Have you heard of Via Suites? Now you have😍 the ![Have you heard of Via Suites? Now you have😍 the perfect combination of comfort and privacy, with the possibility to join the fun #hostellife next door at #viaamsterdam #viasuites](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C8uPyJRts5X/) 
+
+[Say it's football season without saying it's footb ![Say it's football season without saying it's football season🤪 #EuroCup2024 #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8pI0-Cibjj/) 
+
+[These 10PM sunsets in Amsterdam💛 ![These 10PM sunsets in Amsterdam💛](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8e2RZxC8Tc/) 
 
 [#beerpong questions: are you the one getting your ![#beerpong questions: are you the one getting your mouth or your balls wet? Let us know in the comments 🍻 #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8SEjAUN4yx/) 
 
 [Share to that person😉 #amsterdam #viaamsterdam ![Share to that person😉 #amsterdam #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C8KKcAiN_Bs/) 
-
-[Meet 'n connect at The Dude bar🫶 ![Meet 'n connect at The Dude bar🫶](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8ADkMgx68k/) 
-
-[Time to activate vacation mode 🤩 #viaamsterdam ![Time to activate vacation mode 🤩
-#viaamsterdam #amsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C71kjHYNvLd/) 
-
-[Who knows why The Dude bar is called The Dude? Sha ![Who knows why The Dude bar is called The Dude? Share in the comments👀](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7t7IG0ge8T/) 
-
-[Hi Dude! Check out the VIA Bucket List for the bes ![Hi Dude! Check out the VIA Bucket List for the best Amsterdam tips 🥳](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7lw0RYiG94/) 
-
-[Long summer evenings make evening canal cruises th ![Long summer evenings make evening canal cruises through the city feel extra magical. The city starts to shine in a mystique way as the sun's setting✨  #Amsterdam #CanalCruise](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7cCe98txIP/) 
-
-[Heard of the Via vibe? Have you lived it yet? 🤩 ![Heard of the Via vibe? Have you lived it yet? 🤩#onmybucketlist #viaamsterdam #summer2024](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C7WnQgUtnRA/) 
-
-[What are we looking at next? Watch parties at the ![What are we looking at next? Watch parties at the #viaamsterdam cinema = good vibes & good sights 💯](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7Rpz8nOU0h/) 
-
-[Where cool and fun come together🤪 #viaamsterdam ![Where cool and fun come together🤪 #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7Jr-isrN_u/) 
-
-[Did you know you can visit the gorgeous gardens o ![Did you know you can visit the  gorgeous gardens of Rijksmuseum for free😍](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C7BopsfJs4i/) 
 
 current & upcoming events
 -------------------------
@@ -160,83 +157,47 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Cinema room  
 **Give yourself some self-love and kickstart the day with a yoga class with one of the YouTube Yogis! Mats and blocks available by the cinema room.
 
-#### ONGOING watch parties **⚽️**
+#### Brushes ‘n Brews
 
-**June 14 – July 14  
+**Monday | 19:00  
+The Dude Bar**  
+Feeling artsy? Grab a drink and join us at the Dude bar. We’ve got you covered with painting materials and Bob Ross videos.
+
+#### Game night
+
+**Tuesday | 19:00  
+The Dude Bar**  
+It’s play time everyone! Bring your friends or meet a bunch of new ones while playing some of the funnest games. Loser pays the next round?
+
+#### Jukebox jackpot!
+
+**Wednesday | 20:00  
+The Dude Bar**  
+Bingo with a spice! Don’t be fooled by the stereotypes of granny bingo, this one’s got music rounds, free shots, and fun surprises. Don’t miss out 😉
+
+#### Kings of cups
+
+**Thursday | 20:00  
+The Dude Bar**  
+Are you the king of our beer pong tournament? Gather a winning team from your fellow travellers and we’ll find out about it tonight!
+
+#### Karaoke party
+
+**Friday | 20:00  
+The Dude Bar**  
+Come rock and sing the night away in our all-time favourite karaoke party. Heads up, there are free courage shots for the singers 😉
+
+#### Social Saturday ft. live DJ
+
+**Saturday | 20:00  
+The Dude bar**  
+The perfect Saturday night pre-game! Grab a drink and meet fellow travellers at the Dude bar as our live DJ sets the vibe.
+
+#### Movie night
+
+**Sunday | 20:00  
 Cinema room**  
-Euro Cup is here and we’re streaming all of the games at VIA! Fun half-time activities and good vibes guaranteed, even if you’re not into football😉 Grab a drink, meet fellow travellers, and of course, cheer for your fave team!
-
-#### Game Night
-
-**June 18th  
-The Dude Bar | 19:00**  
-It’s play time! Bring your friends or meet a bunch of new ones and spend the evening playing some of the funnest (board) games.
-
-#### Full moon party
-
-**June 22nd  
-The Dude Bar | 20:00**  
-Dance the night away as our live DJ sets the mood for the full moon party🪩 Good music and great vibes are guaranteed.
-
-#### Karaoke party
-
-**June 28th  
-The Dude Bar | 20:00**  
-Come rock and sing the night away in our all-time favourite karaoke party. Heads up, there are free courage shots for the singers 😉
-
-#### Summer PopUp market
-
-**June 29th  
-The Dude bar | 11-17**  
-Come shop arts, design & fashion and girts from local artists and creators as our back terrace turns into a popup market! Perfect for unique souvenirs and gifts🫶
-
-#### Movie Night
-
-**July 1st  
-Cinema room | 20:00**  
-Monday nights and movies are a mood. Vote for a movie on @viaamsterdam Instagram, and we’ll watch the winner tonight on the big screen.
-
-#### Game Night
-
-**July 2nd  
-The Dude Bar | 19:00**  
-It’s play time! Bring your friends or meet a bunch of new ones and spend the evening playing some of the funnest (board) games.
-
-#### Karaoke party
-
-**July 5th  
-The Dude Bar | 20:00**  
-Get ready to sing your fave songs tonight on our all time favourite karaoke party. Heads up, free courage shots for the singers 😉
-
-#### Brushes ‘n Brews
-
-**July 7th  
-The Dude bar | 19:00**  
-Grab a brush and paint your Amsterdam adventures while sipping on your favourite brew. Materials and Bob Ross videos are on us.
-
-#### Movie Monday
-
-**July 8th  
-Cinema room | 20:00**  
-What are we watching tonight? You choose! Vote for a movie on @viaamsterdam Instagram, and the winner will be shown in our cinema room.
-
-#### Game Night
-
-**July 9th  
-The Dude Bar | 19:00**  
-Try out our giant Jenga,  the local’s favorite Sjoelen, or break the ice with Cards Against Humanity? Tonight’s all fun and games.
-
-#### Karaoke party
-
-**July 12th  
-The Dude Bar | 20:00**  
-Come rock and sing the night away in our all-time favourite karaoke party. Heads up, there are free courage shots for the singers 😉
-
-#### Brushes ‘n Brews
-
-**July 14th  
-The Dude bar | 19:00**  
-Feeling artsy? Let your creativity flow tonight and paint with the guidance of th eon and only Bob Ross. All materials are on us.
+Had a buzzing weekend? Sit back, relax, and spend your Sunday night watching movies in our cinema room! We’ve chosen a surprise movie for tonight.
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
