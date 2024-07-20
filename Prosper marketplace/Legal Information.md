@@ -12,7 +12,7 @@
     
     [Settings](https://www.prosper.com/settings)
     
-    [History](https://www.prosper.com/secure/account/common/history.aspx)
+    [Documents & History](https://www.prosper.com/account/documents-and-history)
     
     [Log Out](https://www.prosper.com/signout)
     
@@ -58,7 +58,7 @@
     
 * RESOURCES
     
-    ### Calculators
+    [Calculators & Guides](https://www.prosper.com/resources)
     
     [Personal Loan Calculator](https://www.prosper.com/personal-loans/prosper-personal-loan-calculator)
     
@@ -67,6 +67,8 @@
     [Home Equity Calculator](https://www.prosper.com/home-equity/calculator)
     
     [Home Equity Rate & Payment Calculator](https://www.prosper.com/home-equity/line-of-credit/calculator)
+    
+    [Debt Consolidation Guide](https://www.prosper.com/resources/debt-consolidation-guide)
     
     [Blog](https://www.prosper.com/blog)
     
@@ -117,11 +119,11 @@
     
     [My Account](https://www.prosper.com/myaccount)
     
-    [Messages](https://www.prosper.com/secure/account/common/messages.aspx)
+    [Messages](https://www.prosper.com/account/events/messages)
     
     [Settings](https://www.prosper.com/settings)
     
-    [History](https://www.prosper.com/secure/account/common/history.aspx)
+    [Documents & History](https://www.prosper.com/account/documents-and-history)
     
     [Log Out](https://www.prosper.com/auth/signout)
     
