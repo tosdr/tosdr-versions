@@ -77,15 +77,15 @@ Featured links
 
 [See all products](https://www.redhat.com/en/technologies/all-products)
 
-### By category
+* [Application platformSimplify the way you build, deploy, manage, and secure apps across the hybrid cloud.](https://www.redhat.com/en/solutions/application-platform)
+* [Artificial intelligenceBuild, deploy, and monitor AI models and apps with Red Hat's open source platforms.](https://www.redhat.com/en/solutions/ai)
+* [Edge computingDeploy workloads closer to the source with security-focused edge technology.](https://www.redhat.com/en/products/edge)
 
-* [Application platform](https://www.redhat.com/en/solutions/application-platform)
-* [Artificial intelligence](https://www.redhat.com/en/solutions/ai)
-* [Edge computing](https://www.redhat.com/en/products/edge)
-* [IT automation](https://www.redhat.com/en/solutions/it-automation)
-* [Linux standardization](https://www.redhat.com/en/solutions/linux-standardization)
+* [IT automationUnite disparate tech, teams, and environments with 1 comprehensive automation platform.](https://www.redhat.com/en/solutions/it-automation)
+* [Linux standardizationGet consistency across operating environments with an open, flexible infrastructure.](https://www.redhat.com/en/solutions/linux-standardization)
+* [SecurityDeliver software using trusted platforms and real-time security scanning and remediation.](https://www.redhat.com/en/solutions/trusted-software-supply-chain)
 
-### By organization type
+### By industry
 
 * [Automotive](https://www.redhat.com/en/solutions/automotive)
 * [Financial services](https://www.redhat.com/en/solutions/financial-services)
@@ -94,16 +94,6 @@ Featured links
 * [Media and entertainment](https://www.redhat.com/en/solutions/media-entertainment)
 * [Public sector](https://www.redhat.com/en/solutions/public-sector)
 * [Telecommunications](https://www.redhat.com/en/solutions/telecommunications)
-
-### By customer
-
-* [British Army](https://www.redhat.com/en/success-stories/british-army)
-* [Edenor](https://www.redhat.com/en/success-stories/edenor)
-* [HCA Healthcare](https://www.redhat.com/en/success-stories/hca-healthcare)
-* [Macquarie Bank](https://www.redhat.com/en/success-stories/macquarie)
-* [Tata Consultancy Services](https://www.redhat.com/en/success-stories/tata-consultancy-services)
-* [UPS](https://www.redhat.com/en/success-stories/ups)
-* [Search all success stories](https://www.redhat.com/en/success-stories)
 
 [Explore solutions](https://www.redhat.com/en/solutions)
 
@@ -127,11 +117,11 @@ Featured links
 
 ### Featured
 
-* [Ansible Basics: Automation Technical Overview (DO007) \[No cost\]](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview)
-* [Containers, Kubernetes and Red Hat OpenShift Technical Overview (DO080) \[No cost\]](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview)
-* [Red Hat Enterprise Linux Technical Overview (RH024) \[No cost\]](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)
-* [Red Hat Certified System Administrator (RHCSA) exam](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
-* [Red Hat System Administration I (RH124)](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i)
+* [Ansible Basics: Automation Technical Overview (No cost)](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview)
+* [Containers, Kubernetes and Red Hat OpenShift Technical Overview (No cost)](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview)
+* [Red Hat Enterprise Linux Technical Overview (No cost)](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)
+* [Red Hat Certified System Administrator exam](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
+* [Red Hat System Administration I](https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i)
 
 [Explore services](https://www.redhat.com/en/services)
 
