@@ -1,4 +1,4 @@
-[![TQRCG Logo](../../assets/images/POLO-logo-(v1).png)](https://www.the-qrcode-generator.com/)
+[![TQRCG Logo](../../assets/images/polo-logo-v1.png)](https://www.the-qrcode-generator.com/)
 
 [](https://www.the-qrcode-generator.com/)
 
@@ -68,12 +68,14 @@ Made with
 
 in Germany, India, and the U.S.A
 
-[](https://www.the-qrcode-generator.com/whats-a-qr-code)[](https://docs.the-qrcode-generator.com/en/)[](https://www.the-qrcode-generator.com/pricing)
+[](https://www.the-qrcode-generator.com/whats-a-qr-code)[](https://docs.the-qrcode-generator.com/en/)[](https://www.the-qrcode-generator.com/pricing?upgrade_source=nav_bar)[](https://www.the-qrcode-generator.com/blog/)
 
 [+1 (929) 930 2212](tel:+19299302212)[support@the-qrcode-generator.com](mailto:support@the-qrcode-generator.com)
 
 * * *
 
 [© 2024 Uniqode Phygital, Inc.](https://www.uniqode.com/)
+
+[![facebook link](../../../assets/images/social-channels/facebook.svg)](https://www.facebook.com/people/The-QR-Code-Generator/100094303001130/)[![twitter link](../../../assets/images/social-channels/twitter.svg)](https://x.com/theqrcodegene)[![youtube link](../../../assets/images/social-channels/youtube.svg)](https://www.youtube.com/channel/UC9NUH47iH5Sk1EeN0y4Jzaw)[![linkedin link](../../../assets/images/social-channels/linkedin.svg)](https://www.linkedin.com/company/the-qr-code-generator/)
 
 [Privacy](https://www.the-qrcode-generator.com/privacy)[Terms of use](https://www.the-qrcode-generator.com/terms)[Imprint](https://www.the-qrcode-generator.com/imprint)
