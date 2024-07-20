@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [George Strait Shares Carefree Feelings In...](https://classiccountrymusic.com/george-strait-shares-carefree-feelings-in-new-song-three-drinks-behind/)
 * [Dollywood Reopens After Brief & Unexpected...](https://classiccountrymusic.com/dollywood-reopens-after-brief-unexpected-closure/)
 * [Dolly Parton’s Dollywood Theme Park Announces...](https://classiccountrymusic.com/dolly-partons-dollywood-theme-park-announces-temporary-closure/)
-* [One Month After Heart Surgery, Mark...](https://classiccountrymusic.com/one-month-after-heart-surgery-mark-chesnutt-confirms-his-return-to-performing/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
