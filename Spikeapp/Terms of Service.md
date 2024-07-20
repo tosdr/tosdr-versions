@@ -58,12 +58,12 @@
             * [Download Spike for WindowsUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/windows/ "Download Spike for Windows")
             * [Download Spike for MacUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/mac/ "Download Spike for Mac")
 * [Book a demo](https://www.spikenow.com/contact-sales/ "Book a demo")
-* [Sign in](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fterms-and-conditions%252F "Sign in")
+* [Sign in](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fterms-and-conditions%252F "Sign in")
 * [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload "Download Spike")
 
-[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fterms-and-conditions%252F "Click for the Sign In page")
+[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fterms-and-conditions%252F "Click for the Sign In page")
 
-[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fterms-and-conditions%252F) [Download Spike App](https://spikenow.com/r/a/?ep=website-mobiledownload)
+[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fterms-and-conditions%252F) [Download Spike App](https://spikenow.com/r/a/?ep=website-mobiledownload)
 
 User Terms and Conditions
 =========================
@@ -96,7 +96,7 @@ We trust you to use Spike and our services responsibly – and there are several
 * Copy, distribute, or disclose any part of Spike by any medium, reverse engineer or attempt to extract the source code of Spike software, or sell, trade, resell or otherwise exploit for any unauthorized commercial purpose or transfer any property of Spike.
 * Send a virus, overload, spam, or mail-bomb any part of Spike, or plant malware or use Spike to distribute malware.
 * Breach or circumvent any security or authentication measures, or probe, scan, or test any system or network for vulnerabilities.
-* Publish anything that is fraudulent, misleading, or infringes another’s rights; or send deceptive or false source-identifying information, including “spoofing” and “phishing”; or impersonate or misrepresent your affiliation with any person or entity.
+* Publish anything that is fraudulent, misleading, or infringes another’s rights; or send deceptive or false source-identifying information, including “spoofing” and “[phishing](https://www.spikenow.com/glossary/email/phishing/)”; or impersonate or misrepresent your affiliation with any person or entity.
 * Send unsolicited communications, promotions or advertisements, or spam.
 
 We may permanently or temporarily revoke or suspend your access to Spike without notice and liability for any reason, including a violation of these Terms. These terms will continue to apply and bind you upon termination, for any reason or no reason.
