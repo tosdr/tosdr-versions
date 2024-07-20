@@ -9,13 +9,13 @@ Sign in
 Privacy Policy
 ==============
 
-Last Updated: June 14, 2023
+Last Updated: July 16, 2024
 
-Thank you for using SpanishDictionary.com! Our mission is to bring high quality reference and education products to every Spanish-English learner in the world. To do that, we show you personalized services and ads that we think will be relevant based on the information we collect from you and third parties.
+Thank you for using SpanishDictionary.com, inglés.com, and FrenchDictionary.com! Our mission is to bring high quality reference and education products to every Spanish, English, and French learner in the world. To do that, we show you personalized services and ads that we think will be relevant based on the information we collect from you and third parties.
 
 We recognize the importance of protecting your personal information. We wrote this Privacy Policy to describe how we collect, use, and share your information in connection with your use of the SpanishDictionary.com services, including the SpanishDictionary.com website, located at SpanishDictionary.com (the "Website"), mobile applications (the "Application"), or other online services provided under the SpanishDictionary.com name (collectively, the "SpanishDictionary.com Services").
 
-When we mention "SpanishDictionary.com", "inglés.com", "we", "us", "our", or "Curiosity Media", we are referring to the company that owns and operates SpanishDictionary.com and inglés.com, Curiosity Media, Inc.
+When we mention "SpanishDictionary.com", "inglés.com", "FrenchDictionary.com", "we", "us", "our", or "Curiosity Media", we are referring to the company that owns and operates SpanishDictionary.com, inglés.com, and FrenchDictionary.com, Curiosity Media, Inc.
 
 By using the SpanishDictionary.com Services or submitting any personally identifiable information to us, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
