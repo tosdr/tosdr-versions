@@ -413,8 +413,9 @@ Danke für Ihre Anmeldung. Bitte klicken Sie noch den Link im Bestätigungsmail,
 
 Bei der Anmeldung trat ein Fehler auf, bitte wenden sie sich an service@roteskreuz.at
 
-### Quicklinks
+### Häufig gesucht
 
+* [Erste Hilfe: Kurse und Wissen](https://www.roteskreuz.at/ich-will-helfen/erste-hilfe)
 * [Einkauf & Service: Der Rotkreuz-Shop](https://www.roteskreuz.at/einkauf-und-service)
 * [Jobs & Karriere](https://www.roteskreuz.at/ich-will-helfen/berufliche-mitarbeit)
 * [Presse- und Medienservice](https://www.roteskreuz.at/medienservice)
