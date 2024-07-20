@@ -1,7 +1,7 @@
 **RISE Privacy Policy**
 =======================
 
-_Last updated July 13, 2023_
+_Last updated July 16, 2024_
 
 ‍
 
@@ -35,11 +35,7 @@ Here’s a description of the categories of information we may collect when you 
 * **Communications** that we exchange with users when they contact us and use our support services. We also collect your information when you wish to set an e-meeting with us, to share with us your ideas about new features you would like to see on RISE or when providing us with your feedback. 
 * **Payment and transactional data** if you choose to sign up for a premium account with additional features and content, including name, payment card information, bank account number, billing information, and your transaction history. This information is collected by Apple (and if applicable, Google) with respect to in-app purchases made through the App. If you make a purchase for the App through our Site, our payment processor, Stripe, Inc., will collect and process your payment information. In addition to this Privacy Policy and our [Terms of Service](https://www.risescience.com/terms), information related to your payments or purchases is also processed according to Stripe’s services agreement and privacy policy.
 
-  
-
 #### **Information We Receive From Your Use of the Service**
-
-  
 
 * **Steps, movement and phone motion data**, collected through your device’s accelerometer or phone motion (if you choose to authorize this from your phone settings). This data is needed to make predictions for when and how long you have slept. 
 * **Sleep and step data**, if you are using certain devices and authorize the App to access this data from your phone settings.  Each morning, RISE checks Apple Health or Google Fit for the previous night’s sleep data. If your third-party sleep tracker device or application (such as the Apple Watch sleep app) has sent data to Apple Health or Google Fit, RISE will use it to make predictions for when and how long you have slept. Notwithstanding anything else in this Privacy Policy, (a) we use Apple Health and / or Google Fit sleep and step data only to provide the Service and not for advertising, and (b) we will not disclose this data for advertising, marketing, or use-based data mining not needed to provide the Service.
@@ -94,6 +90,12 @@ We do not sell personal information. In the ordinary course of business, we may 
 
 **Business transferees.** Acquirers and other relevant participants in business transactions (or negotiations for such transactions) involving a corporate divestiture, merger, consolidation, acquisition, reorganization, sale, or other disposition of all or any portion of the business or assets of, or equity interests in, RISE or our affiliates (including, in connection with a bankruptcy or similar proceedings).
 
+‍
+
+**Sleep Health Partners**‍
+
+Rise may share your de-identified personal data with other sleep health partners to provide you with more information on relevant sleep topics.
+
 #### **TRACKING TECHNOLOGIES**
 
 Like many services, we use cookies and similar technologies to operate the Service and to remember things about you so that we can provide you with a better experience.
@@ -103,29 +105,17 @@ Like many services, we use cookies and similar technologies to operate the Servi
 * **Web beacons**, also known as pixel tags or clear GIFs, which are used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked.
 * **SDKs**, which are blocks of code provided by our partners or service providers that may be installed in our mobile applications. SDKs help us understand how you interact with our mobile applications and collect certain information about the device and network you use to access the application.
 
-  
-
 We and our partners may use cookies, SDKs, and other tracking technologies on the App or Site provided by the following third parties:
 
 **a**. **Amplitude**, a web analysis service provided by Amplitude, Inc., used to evaluate user access and to maintain and improve the Service. Amplitude’s privacy policy can be found here: https://amplitude.com/privacy. 
 
-  
-
 **b.** **Adjust**, an analysis service provided by Adjust GmbH, used to track user interactions with the App in real time and to analyze the performance of marketing campaigns. Adjust’s privacy policy can be found here: https://www.adjust.com/terms/privacy-policy/. 
-
-  
 
 **c**. **Google Firebase Crashlytics** (provided by Google LLC), used to get crash reports and metrics and to derive analytics information regarding the use of the App, including by collecting identifiers for mobile devices (including Android Advertising ID and Advertising Identifier for iOS). Firebase Crashlytics retains crash stack traces, extracted minidump data, and associated identifiers (including Crashlytics Installation UUIDs) for 90 days. To learn more about how Google uses data when you use the App please read [here](https://policies.google.com/technologies/partner-sites).
 
-  
-
 **d**. **Sentry**, a service provided by Sentry that collects App usage information related to system crashes and bugs, including information about the device, the version of the App that is installed, and other information that can help fix bugs. Sentry privacy policy can be found here: https://sentry.io/privacy/.
 
-  
-
 **f**. **Segment**, used to collect analytics information relating to the Service. Segments privacy policy can be found here: https://segment.com/legal/privacy/. 
-
-  
 
 **g**. **Google** **Analytics,** a web analytics service provided by Google. These cookies help us analyze how users use the Site and enhance your experience when you use the Site. For more information on how Google uses this data, go to www.google.com/policies/privacy/partners/.
 
@@ -203,8 +193,6 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 #### **HOW TO CONTACT US**
 
 If you have any questions about this Privacy Policy or complaint about our handling of your personal information, please contact us at [\[email protected\]](https://www.risescience.com/cdn-cgi/l/email-protection) or sending a letter to the following mailing address:
-
-  
 
 Rise Science
 
@@ -302,8 +290,6 @@ Purpose: To address users’ inquiries. To improve the Service, in relation to i
 
 Justification for Processing Personal Data: **Legitimate Interests:** Providing user support. Enabling us to prevent and detect harmful or unauthorized conduct. Improving and developing the App and developing new features and Services. For example, we may decide to build a new feature in response to feedback received from users.
 
-  
-
 **Payment and Transactional Data  
 **
 
@@ -318,8 +304,6 @@ Justification for Processing Personal Data: Contractual Necessity.
 Purpose: To provide functionality, security, and for analytics and marketing purposes.
 
 Justification for Processing Personal Data: **Legitimate Interests:** Developing and improving the Service.  
-
-  
 
 **Recipients of Data**. We may disclose your personal data to the recipients described in the “How We Share Personal Information” section above.
 
@@ -336,8 +320,6 @@ Justification for Processing Personal Data: **Legitimate Interests:** Developing
 * **Data Portability.** If required to do so, we will give you your personal data in a structured, commonly used, and machine-readable format.
 
 To exercise these rights, please email [\[email protected\]](https://www.risescience.com/cdn-cgi/l/email-protection). You may also contact us using the contact information referenced in the “How to Contact Us” section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
-
-  
 
 **RISE Privacy Policy**
 =======================
