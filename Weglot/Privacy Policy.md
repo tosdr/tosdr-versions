@@ -41,7 +41,7 @@ Website localization
 
 Explore how to localize your translated website for an enhanced customer journey with Weglot](https://weglot.com/localized-website)
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65083a1237315abf61e0dd93_Nav%20bar%20integrations.svg)
+[![Nav bar integration ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65083a1237315abf61e0dd93_Nav%20bar%20integrations.svg)
 
 Integrations
 
@@ -143,7 +143,8 @@ Understand website translation and localization best practices with our guides](
 
 Localization Data Hub
 
-Learn the key facts about localization and the impact of making a website multilingual](#)[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/650ac57eb676890472522f1e_On%20dashboard.svg)
+Learn the key facts about localization and the impact of making a website multilingual](#)[![On dashboard icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/650ac57eb676890472522f1e_On%20dashboard.svg)
 
 **Website Translation Knowledge Hub**
 
@@ -202,7 +203,7 @@ Website localization
 
 Explore how to localize your translated website for an enhanced customer journey with Weglot](https://weglot.com/localized-website)
 
-[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65083a1237315abf61e0dd93_Nav%20bar%20integrations.svg)
+[![Nav bar integration ](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/65083a1237315abf61e0dd93_Nav%20bar%20integrations.svg)
 
 Integrations
 
@@ -304,7 +305,8 @@ Understand website translation and localization best practices with our guides](
 
 Localization Data Hub
 
-Learn the key facts about localization and the impact of making a website multilingual](#)[![](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/650ac57eb676890472522f1e_On%20dashboard.svg)
+Learn the key facts about localization and the impact of making a website multilingual](#)[![On dashboard icon
+](https://cdn.prod.website-files.com/646343de6afc95b84af2d2ae/650ac57eb676890472522f1e_On%20dashboard.svg)
 
 **Website Translation Knowledge Hub**
 
