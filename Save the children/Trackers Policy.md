@@ -23,7 +23,7 @@ Search
     * [Emergencies](https://www.savethechildren.net/what-we-do/emergencies)
     * [Advocacy & Campaigns](https://www.savethechildren.net/what-we-do/advocacy-campaigns)
     * [Climate Crisis](https://www.savethechildren.net/what-we-do/climate-crisis)
-    * [The Hunger Crisis](https://www.savethechildren.net/hunger-crisis)
+    * [The Hunger Crisis](https://www.savethechildren.net/what-we-do/hunger-crisis)
 * [Where We Work](https://www.savethechildren.net/where-we-work)
 * [News & Stories](https://www.savethechildren.net/news-stories)
     * [Global News](https://www.savethechildren.net/news)
