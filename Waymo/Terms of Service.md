@@ -44,6 +44,8 @@ header
     
     Company
     
+    Our mission: Be the world’s most trusted driver
+    
     ![](https://lh3.googleusercontent.com/zRpqLUgCQvULzBn-XIpFeWWLjHvOC09QFT0zUDh8vclC5AnybvRiqePEcbLOyLEa8v9HKmake_gnKfTZVQXMq4o-Co-QmDxIjwakwA)
     
     * [Our History](https://waymo.com/about/#story)
@@ -79,7 +81,7 @@ header
     * [Community Partners](https://waymo.com/community/partners)
     * [Community Impact](https://waymo.com/community/impact)
     
-* [Careers](https://waymo.com/careers/)![](/v2/static/images/nav/icon-chevron-large.svg)
+* [Careers](https://careers.withwaymo.com/)![](/v2/static/images/nav/icon-chevron-large.svg)
     
     * * *
     
@@ -87,12 +89,16 @@ header
     
     Careers
     
-    ![](https://lh3.googleusercontent.com/x_SfLy6Tagf1d9rlAenuto8rx_FHrwwthnDZfT7hIuRjbY2l21BlksxGSoXk5sKMTrHgfo_NBpPK0ynV-d7X7Xuwh-2t0jpTvzbEN5wR)
+    Find your drive
     
-    * [Benefits](https://waymo.com/careers/#benefits)
-    * [Values](https://waymo.com/careers/#values)
-    * [People](https://waymo.com/careers/#people)
-    * [Open Roles](https://waymo.com/careers/#roles)
+    ![](https://lh3.googleusercontent.com/D4FEZ8TQ1vOoI2-302a8B7ey0fZ1ZQZ4XR5s3XH9uwurJ1tU0tgdt0F-yDgn-5OeHW2AxoXbMv8GTsvuNpkpH_rm38V7oFd9g1KRegw)
+    
+    * [Why Waymo](https://careers.withwaymo.com/why-waymo)
+    * [Working at Waymo](https://careers.withwaymo.com/working-at-waymo)
+    * [Teams](https://careers.withwaymo.com/teams)
+    * [Early Careers](https://careers.withwaymo.com/early-careers)
+    * [Benefits](https://careers.withwaymo.com/benefits)
+    * [Open Roles](https://careers.withwaymo.com/jobs/search)
     
 
 ![](/v2/static/images/icon-hamburger.svg)![](/v2/static/images/icon-x.svg)
@@ -271,7 +277,7 @@ English Español 中文（简体中文） 中文（繁體中文） Filipino
 
 * * *
 
-*  [![](/v2/static/images/social/logo-twitter.svg)![](/v2/static/images/social/logo-twitter-dark.svg) Waymo on Twitter](https://twitter.com/waymo/)
+*  [![](/v2/static/images/social/logo-twitter.svg)![](/v2/static/images/social/logo-twitter.svg) Waymo on Twitter](https://twitter.com/waymo/)
 *  [![](/v2/static/images/social/logo-linkedin.svg)![](/v2/static/images/social/logo-linkedin-dark.svg) Waymo on LinkedIn](https://www.linkedin.com/company/waymo)
 *  [![](/v2/static/images/social/logo-instagram.svg)![](/v2/static/images/social/logo-instagram-dark.svg) Waymo on Instagram](https://www.instagram.com/waymo/?hl=en)
 *  [![](/v2/static/images/social/logo-facebook.svg)![](/v2/static/images/social/logo-facebook-dark.svg) Waymo on Facebook](https://facebook.com/waymo/)
