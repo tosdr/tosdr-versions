@@ -1,523 +1,630 @@
-[Skip to content](#main)
+[Skip to main content](#main-content)
 
-Snow Software has been acquired by Flexera. **[Learn More.](http://www.snowsoftware.com/press-center/flexera-completes-acquisition-of-snow-software-broadening-its-portfolio-for-technology-value-optimization/)** x
+[![Home](/themes/custom/flexera/images/logo.svg)](https://www.flexera.com/)
 
- [![](https://www.snowsoftware.com/wp-content/themes/snow-software/dist/svg/snow-brand/flexera-snow-logo-inline.svg) Flexera Snow](https://www.snowsoftware.com/)
+[![Home](/themes/custom/flexera/images/logo.svg)](https://www.flexera.com/)
 
-[Main navigation](#main-navigation) [Site search](#site-header__flexible-tool--search)
+Search 
 
-*  Search for:
+ 
+
+Main navigation
+---------------
+
+* Products
+    * [SAASFlexera One](https://www.flexera.com/flexera-one)
+    * [IT Visibility](https://www.flexera.com/flexera-one/it-visibility)
+        * [Flexera oneIT Visibility](https://www.flexera.com/flexera-one/it-visibility)
+        * [Overview](https://www.flexera.com/flexera-one/it-visibility)
+        * [Application Rationalization](https://www.flexera.com/flexera-one/it-visibility/application-rationalization)
+        * [Business Service Mapping](https://www.flexera.com/flexera-one/it-visibility/business-service-mapping)
+        * [CMDB Data Quality](https://www.flexera.com/flexera-one/it-visibility/cmdb-data-quality)
+        * [Data Normalization](https://www.flexera.com/flexera-one/it-visibility/data-normalization)
+        * [End of Life / End of Support](https://www.flexera.com/flexera-one/it-visibility/end-of-support-end-of-life)
+        * [SBOM Management](https://www.flexera.com/flexera-one/it-visibility/sbom-management)
+        * [Software Vulnerability](https://www.flexera.com/flexera-one/it-visibility/software-vulnerability-enrichment-pack)
+        * [Sustainable IT](https://www.flexera.com/flexera-one/it-visibility/sustainable-it)
+        * [Technopedia](https://www.flexera.com/products/technopedia)
+    * [IT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
+        * [Flexera OneIT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
+        * [Overview](https://www.flexera.com/flexera-one/it-asset-management)
+        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
+        * [Software Asset Management](https://www.flexera.com/flexera-one/it-asset-management/software-asset-management)
+        * [Hardware Asset Management](https://www.flexera.com/flexera-one/it-asset-management/hardware-asset-management)
+        * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
+        * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
+        * [Technopedia](https://www.flexera.com/products/technopedia)
+    * [FinOps](https://www.flexera.com/flexera-one/finops)
+        * [Flexera OneFinOps](https://www.flexera.com/flexera-one/finops)
+        * [Overview](https://www.flexera.com/flexera-one/finops)
+        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
+        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
+        * [Cloud Cost Optimization](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+    * [Cloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+        * [Flexera OneCloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+        * [Overview](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+        * [Cloud Cost Management](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-cost-management)
+        * [Cloud Governance](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-governance)
+        * [Cloud Migration and Modernization](https://www.flexera.com/flexera-one/cloud-migration-and-modernization)
+        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
+        * [Cloud Cost Assessment](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-cost-assessment)
+        * [Workload Placement](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/workload-placement)
+    * [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
+        * [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
+        * [Software Vulnerability Manager](https://www.flexera.com/products/software-vulnerability-manager)
+        * [Software Vulnerability Research](https://www.flexera.com/products/software-vulnerability-research)
+        * [Secunia Research](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
+    * [Application Readiness](https://www.flexera.com/products/adminstudio)
+        * [Application Readiness](https://www.flexera.com/products/adminstudio)
+        * [AdminStudio](https://www.flexera.com/products/adminstudio)
+    * [Additional Products](https://www.flexera.com/products)
+        * [Additional Products](https://www.flexera.com/products)
+        * [Overview](https://www.flexera.com/products)
+        * [App Portal / App Broker](https://www.flexera.com/products/app-broker-app-portal)
+        * [Cloud Management Platform](https://www.flexera.com/products/cloud-management-platform)
+        * [Data Platform](https://www.flexera.com/products/data-platform)
+        * [FlexNet Manager](https://www.flexera.com/products/flexnet-manager)
     
-     Submit
+    ![](/sites/default/files/styles/large/public/2024-06/nav-promo-soitam-2024.jpg?itok=x0Utem58)
     
-* [Request a demo](https://www.snowsoftware.com/request-demo)
-
-* [Solutions](#)
-    * [Solution Area](#)
-        * [Technology Intelligence](#)
-            * [Technology Intelligence](#)
-                * [Why Technology Intelligence?](https://www.snowsoftware.com/solutions/)
-                * [Snow Atlas](https://www.snowsoftware.com/products/snow-atlas/)Harness next-generation Technology Intelligence in a platform built to inform decision-making and increase business value.
-            * [Recommended Products](#)
-                * [Snow SaaS Management](https://www.snowsoftware.com/products/saas-management/)Reduce financial and security risk with a complete view of known, free and shadow SaaS usage.
-                * [Snow Cloud Cost](https://www.snowsoftware.com/products/snow-cloud-cost/)Gain deep visibility into multicloud usage and spend. Allocate costs, forecast, budget, and detect anomalies.
-                * [Snow Cloud Cost for Managed Service Providers](https://www.snowsoftware.com/products/cloud-cost-for-managed-service-providers/)Deliver profitable and differentiated cloud cost management services.
-                * [See Integrations >>](https://www.snowsoftware.com/snow-integrations/)
-        * [IT Visibility](#)
-            * [IT Visibility](#)
-                * [IT Visibility >>](https://www.snowsoftware.com/solutions/it-visibility/)
-                * [Asset Discovery & Inventory](https://www.snowsoftware.com/solutions/asset-discovery-inventory/)Automate discovery of technology assets across end user devices, data centers and SaaS applications.
-                * [Software Asset Management](https://www.snowsoftware.com/solutions/software-asset-management/)Manage software assets across hybrid environments to optimize spend and minimize compliance and security risk.
-                * [SaaS Management](https://www.snowsoftware.com/solutions/saas-management/)Discover the best methods to identify SaaS usage, reduce SaaS spend and mitigate SaaS application risk.
-                * [Engineering Application Management](https://www.snowsoftware.com/solutions/engineering-application-management/)Take control of costs while maximizing availability of your specialized engineering applications.
-            * [Recommended Products](#)
-                * [Snow Data Intelligence Service](https://www.snowsoftware.com/products/dis/)Augment raw data from disparate sources with additional intelligence and turn it into a normalized data set.
-                * [Snow ITSM Enhancer](https://www.snowsoftware.com/products/itsm-enhancer/)Build a clean and automated CMDB on a foundation of accurate, up-to-date software and hardware information.
-                * [See Integrations >>](https://www.snowsoftware.com/snow-integrations/)
-        * [Risk Mitigation](#)
-            * [Risk Mitigation](#)
-                * [Risk Mitigation >>](https://www.snowsoftware.com/solutions/risk-mitigation/)
-                * [Audit Defense](https://www.snowsoftware.com/solutions/audit-defense/)Proactively ensure an accurate license compliance position to defend confidently against vendor audits.
-                * [Security Vulnerabilities](https://www.snowsoftware.com/solutions/security-vulnerabilities/)Identify application vulnerabilities and obtain recommendations for remediation.
-            * [Recommended Products](#)
-                * [Snow Risk Monitor](https://www.snowsoftware.com/products/snow-risk-monitor/)Protect data and reduce risk by identifying software vulnerabilities across your estate.
-                * [Snow Spend Optimizer](https://www.snowsoftware.com/products/snow-spend-optimizer/)Reveal application redundancies and optimize licenses to mitigate risks and uncover savings opportunities.
-                * [See Integrations >>](https://www.snowsoftware.com/snow-integrations/)
-        * [Cost Management](#)
-            * [Cost Management](#)
-                * [Cost Management >>](https://www.snowsoftware.com/solutions/cost-management/)
-                * [Cloud Cost Optimization](https://www.snowsoftware.com/solutions/cloud-cost-optimization/)Monitor and act on savings recommendations to manage your public cloud costs.
-                * [Snow Cloud Control](https://www.snowsoftware.com/solutions/snow-cloud-control/)Monitor, govern and optimize your entire cloud environment – from servers to SaaS.
-                * [Microsoft](https://www.snowsoftware.com/solutions/microsoft/)Maximize your Microsoft investment by optimizing licenses across data center, installed and cloud applications.
-                * [VMware](https://www.snowsoftware.com/solutions/vmware/)Access a complete inventory and right-size VM resources.
-                * [SAP](https://www.snowsoftware.com/solutions/sap-license-management/)Proactively manage licenses to control costs and ensure maximum ROI from your existing SAP® investment.
-                * [Oracle](https://www.snowsoftware.com/solutions/oracle-license-management/)Manage complex Oracle licenses and control spend with our Oracle-verified solution.
-                * [IBM](https://www.snowsoftware.com/solutions/ibm-license-management/)Identify PVU-based products and leverage sub-capacity pricing to proactively manage your IBM licenses.
-            * [Recommended Products](#)
-                * [Snow SaaS Management](https://www.snowsoftware.com/products/saas-management/)Reduce financial and security risk with a complete view of known, free and shadow SaaS usage.
-                * [Snow Cloud Cost](https://www.snowsoftware.com/products/snow-cloud-cost/)Gain deep visibility into multicloud usage and spend. Allocate costs, forecast, budget, and detect anomalies.
-                * [Snow Optimizer for SAP® Software](https://www.snowsoftware.com/products/snow-optimizer-sap-software/)Manage compliance and control costs through a single integrated view of your SAP® licensing landscape.
-                * [Snow Productivity Optimizer](https://www.snowsoftware.com/products/snow-productivity-optimizer/)Automate Software Asset Management, cloud and mobile processes for reduced cost and increased productivity.
-                * [Snow Cloud Cost for Managed Service Providers](https://www.snowsoftware.com/products/cloud-cost-for-managed-service-providers/)Deliver profitable and differentiated cloud cost management services.
-                * [See Integrations >>](https://www.snowsoftware.com/snow-integrations/)
-        * [Hybrid Cloud Management](#)
-            * [Hybrid Cloud Management](#)
-                * [Hybrid Cloud Management >>](https://www.snowsoftware.com/solutions/hybrid-cloud-management/)
-                * [Self-Service IT](https://www.snowsoftware.com/solutions/self-service-it/)Streamline IT service delivery and increase business agility.
-                * [Cloud Automation & Orchestration](https://www.snowsoftware.com/solutions/cloud-automation-orchestration/)Create a customized self-service portal and catalog and then automate provisioning.
-                * [Cloud Governance](https://www.snowsoftware.com/solutions/cloud-governance/)Govern multi-cloud environments without slowing down users.
-                * [Cloud Managed Service Providers](https://www.snowsoftware.com/solutions/cloud-managed-service-providers/)MSPs can showcase a comprehensive and integrated suite of hybrid cloud services.
-            * [Recommended Products](#)
-                * [Snow Commander](https://www.snowsoftware.com/products/snow-commander/)Broker the access of end users to both public and private cloud resources.
-                * [See Integrations >>](https://www.snowsoftware.com/snow-integrations/)
-    * [Products](#)
-        * [Products](#)
-            * [View All Products](https://www.snowsoftware.com/products/)
-            * [Snow Atlas](https://www.snowsoftware.com/products/snow-atlas/)Harness next-generation Technology Intelligence in a platform built to inform decision-making and increase business value.
-            * [Snow Spend Optimizer](https://www.snowsoftware.com/products/snow-spend-optimizer/)Reveal application redundancies and optimize licenses to mitigate risks and uncover savings opportunities.
-            * [Snow SaaS Management](https://www.snowsoftware.com/products/saas-management/)Reduce financial and security risk with a complete view of known, free and shadow SaaS usage.
-            * [Snow Risk Monitor](https://www.snowsoftware.com/products/snow-risk-monitor/)Protect data and reduce risk by identifying software vulnerabilities across your estate.
-            * [Snow Cloud Cost](https://www.snowsoftware.com/products/snow-cloud-cost/)Gain deep visibility into multicloud usage and spend. Allocate costs, forecast, budget, and detect anomalies.
-            * [Snow Optimizer for SAP® Software](https://www.snowsoftware.com/products/snow-optimizer-sap-software/)Manage compliance and control costs through a single integrated view of your SAP® licensing landscape.
-            * [Snow Data Intelligence Service](https://www.snowsoftware.com/products/dis/)Augment raw data from disparate sources with additional intelligence and turn it into a normalized data set.
-            * [Snow Productivity Optimizer](https://www.snowsoftware.com/products/snow-productivity-optimizer/)Automate Software Asset Management, cloud and mobile processes for reduced cost and increased productivity.
-            * [Snow ITSM Enhancer](https://www.snowsoftware.com/products/itsm-enhancer/)Build a clean and automated CMDB on a foundation of accurate, up-to-date software and hardware information.
-            * [Snow Commander](https://www.snowsoftware.com/products/snow-commander/)Broker the access of end users to both public and private cloud resources.
-            * [Snow Cloud Cost for Managed Service Providers](https://www.snowsoftware.com/products/cloud-cost-for-managed-service-providers/)Deliver profitable and differentiated cloud cost management services.
-    * [Integrations](https://www.snowsoftware.com/snow-integrations/)
-        * [Integrations](#)
-            * [See All Integrations >>](https://www.snowsoftware.com/snow-integrations/)
-            * [SaaS Connectors](https://www.snowsoftware.com/snow-integrations/#h-saas-connectors)In addition to providing visibility into 23K+ SaaS apps, Snow offers direct integration with these vendors.
-            * [IT Service Management](https://www.snowsoftware.com/snow-integrations/#h-it-service-management)Enhance your ITSM platform’s product and service catalogs by integrating a real-time, clean CMDB.
-            * [Inventory](https://www.snowsoftware.com/snow-integrations/#h-inventory)Snow provides ready-to-go integration with an extensive number of third-party inventory solutions.
-            * [Enterprise Applications](https://www.snowsoftware.com/snow-integrations/#h-enterprise-applications)Snow offers recognition and normalization for over 735K+ apps, so you can get insights from top vendors.
-            * [Public/Private Cloud Platforms](https://www.snowsoftware.com/snow-integrations/#h-public-private-cloud-platforms)Snow is designed to be infrastructure neutral, so you can work with any public & private cloud providers.
-* [Learn](#)
-    * [Resources](#)
-        * [Resources](#)
-            * [Resource Hub](https://www.snowsoftware.com/resources/)
-            * [Gartner® Analyst Research](https://www.snowsoftware.com/resource/gartner-analyst-research/)
-            * [Blog](https://www.snowsoftware.com/blog/)
-            * [In-depth Articles](https://www.snowsoftware.com/in-depth-articles/)
-            * [Video Archive](https://www.snowsoftware.com/video-archive/)
-            * [Events](https://www.snowsoftware.com/events/)
-            * [Recordings](https://www.snowsoftware.com/events/recordings/)
-            * [Product Guides & Documentation](https://docs.snowsoftware.com/?lang=en)
-        * [Featured](#)
-            * * New!
-                
-                * Snow Research
-                * Categorised as IT Visibility
-                
-                ### [New Release: 2024 IT Priorities Report](https://www.snowsoftware.com/resource/it-priorities-report/)
-                
-                Find out more
-                
-            * * New!
-                
-                * Analyst Research
-                
-                ### [Gartner® Analyst Research](https://www.snowsoftware.com/resource/gartner-analyst-research/)
-                
-                Find out more
-                
-* [Success](#)
-    * [Case Studies](#)
-        * [Case Studies](#)
-            * [Case Studies](https://www.snowsoftware.com/case-studies/)
-            * [Technology Intelligence Awards](https://www.snowsoftware.com/customer-awards/)
-        * [Featured](#)
-            * * New!
-                
-                * Case Study
-                * Categorised as Managing Costs
-                
-                ### [Investec](https://www.snowsoftware.com/case-studies/investec/)
-                
-                Read more
-                
-                ![](https://www.snowsoftware.com/wp-content/uploads/2022/11/MicrosoftTeams-image-14-320x180.jpg)
-                
-    * [Community](#)
-        * [Community](#)
-            * [Snow Globe Community](https://community.snowsoftware.com/s/)Join our community to connect, learn and collaborate with your peers and Snow Experts
-        * [Community Topics](#)
-            * [News & Updates](https://community.snowsoftware.com/s/group/0F91r000000QUhPCAW/news-updates)
-            * [Events & Webinars](https://community.snowsoftware.com/s/group/0F969000000oOv8CAE/events-and-webinars)
-            * [Product Releases](https://community.snowsoftware.com/s/group/0F91r000000QUhUCAW/product-releases)
-            * [Knowledge Base](https://community.snowsoftware.com/s/group/0F969000000saBBCAY/knowledge-base-updates)
-            * [Shape the Future of Snow](https://community.snowsoftware.com/s/group/0F9690000010wKcCAI/help-shape-the-future-of-snow)
-            * [Discussion Groups](https://community.snowsoftware.com/s/group/CollaborationGroup/00Bw0000006UZQ1EAO)
-    * [Support](#)
-        * [Support](#)
-            * [Customer Support Portal](https://community.snowsoftware.com/s/support-hub?_gl=1*n1aj4*_gcl_aw*R0NMLjE2MzU1MTk4MTAuQ2owS0NRand0LTZMQmhEbEFSSXNBSVBSUWNKTVgtdl9mVEF1TER1RnVYMjVkclU4VVNHYlp3dFVVSy1CMm9fRDg1dWp6VXlJdDFFSkZJa2FBb3RYRUFMd193Y0I.)Visit our Customer Support Portal for help with your Snow products.
-            * [Product Release Notes](https://docs.snowsoftware.com/release-notes/en/index-en.html)Visit our release notes section for information on current versions of Snow products, tools and utilities.
-    * [Services](#)
-        * [Services](#)
-            * [Snow Product Training](https://www.snowsoftware.com/product-training/)
-            * [Snow Services](https://www.snowsoftware.com/professional-services/)
-* [PACKAGES](https://www.snowsoftware.com/packages/)
-* [About](#)
-    * [Company](#)
-        * [Company](#)
-            * [About Snow](https://www.snowsoftware.com/about-snow-software/)
-            * [Why Snow?](https://www.snowsoftware.com/why-snow/)
-            * [Careers](https://careers.smartrecruiters.com/SnowSoftware/)
-            * [Trust & Compliance](https://www.snowsoftware.com/trust-compliance/)
-            * [Contact Us](https://www.snowsoftware.com/contact-us/)
-    * [Partners](#)
-        * [Partners](#)
-            * [Snow Global Partner Program](https://www.snowsoftware.com/global-partner-program/)
-            * [Partner Locator](https://www.snowsoftware.com/partner-locator/)
-            * [SnowHow Partner Hub](https://partners.snowsoftware.com/)
-            * [Partner of the Year Awards 2023](https://www.snowsoftware.com/global-partner-program/partner-of-the-year-awards-2023/)
-        * [Featured](#)
-            * * Blog Article
-                * Categorised as Partners
-                
-                ### [Bolstering the Foundations for Success with the New and Improved Snow Partner Program](https://www.snowsoftware.com/blog/bolstering-the-foundations-for-success-with-the-new-and-improved-snow-partner-program/)
-                
-                * Published on Jul 27, 2023
-                * By Vin Chumber
-                
-                Discover more
-                
-                ![](https://www.snowsoftware.com/wp-content/uploads/2023/07/Snow_Partner_Program_Blog_Header_Image_656x369-320x180.png)
-                
-    * [Press Center](#)
-        * [Press Center](#)
-            * [Press Releases](https://www.snowsoftware.com/press-center/press-releases/)
-            * [In the News](https://www.snowsoftware.com/press-center/news/)
-            * [Awards and Recognitions](https://www.snowsoftware.com/awards-and-recognitions/)
-        * [Featured](#)
-            * * News
-                * Categorised as press releases
-                
-                ### [Flexera Completes Acquisition of Snow Software, Broadening its Portfolio for Technology Value Optimization](https://www.snowsoftware.com/press-center/flexera-completes-acquisition-of-snow-software-broadening-its-portfolio-for-technology-value-optimization/)
-                
-                * Published on Feb 15, 2024
-                
-                Read more
-                
-                ![](https://www.snowsoftware.com/wp-content/uploads/2024/02/1745_Aspen_Acquisition_Deliverables_Snow_Home_Page_Banner_733x412-320x180.png)
-                
-
-[Home](https://www.snowsoftware.com/) [Legal](https://www.snowsoftware.com/legal/) Privacy Policy
-
-Privacy Policy
-==============
-
-Version 1.09 – Last Updated: 9 March 2023
-
-Snow Software respects your privacy and is committed to protecting your personal data. This privacy policy discusses Snow Software’s use and collection of certain data and informs you about your privacy rights and protections under the law, including the EU General Data Protection Regulation (GDPR), the German Datenschutz-Grundverordnung (DSGVO), the UK Data Protection Act 2018, and the Australian Privacy Act of 1988, as applicable to you.
-
-This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please use the Glossary to understand the meaning of some of the terms used in this privacy policy.
-
-1. IMPORTANT INFORMATION AND WHO WE ARE
-2. THE DATA WE COLLECT ABOUT YOU
-3. HOW IS YOUR PERSONAL DATA COLLECTED
-4. HOW WE USE YOUR PERSONAL DATA
-5. DISCLOSURES OF YOUR PERSONAL DATA
-6. INTERNATIONAL TRANSFERS
-7. DATA SECURITY
-8. DATA RETENTION
-9. YOUR LEGAL RIGHTS
-10. GLOSSARY
-
-1\. IMPORTANT INFORMATION AND WHO WE ARE
-----------------------------------------
-
-**Purpose of this privacy policy**
-
-This privacy policy aims to give you information on how Snow collects and processes your personal data through your use of Snow’s services, including its websites and related subdomains such as the Snow Academy, Snow Inventory, Snow Globe, and Snow Partner Portal; Snow’s software products, and professional and support services; and Snow’s online employment application opportunities (collectively the “Services”).
-
-The Services are not intended for children and we do not knowingly collect data related to children.
-
-It is important that you read this privacy policy together with any other privacy policy or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your personal data. Unless otherwise directed by applicable law, by using our Services, you understand that we will collect and process your information as described in this privacy policy. This privacy policy supplements the other notices and is not intended to override them.
-
-If you or your organization has an individual agreement with us, that agreement may have privacy terms that also apply to the information you provide to us under that agreement. Please review the terms in that agreement because they may be different or more restrictive than the terms in this privacy policy.
-
-**Controller**
-
-Snow Software is comprised of different legal entities, the details of which can be found here [https://www.snowsoftware.com/contact](https://www.snowsoftware.com/contact%C2%A0) (collectively the “Snow Software Group”). This privacy policy is issued on behalf of the Snow Software Group so when we mention “Snow Software”, “Snow”, “we”, “us” or “our” in this privacy policy, we are referring to the relevant company within the Snow Software Group responsible for processing your data. We will let you know which entity will be the controller or processor (as applicable) for your data when you purchase our Services. If none is identified, the controller or processor (as applicable) is Snow Software AB.
-
-We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the data protection privacy officer using the details set out below.
-
-**Contact details**
-
-Snow Software  
-Attn: Data Protection Officer  
-1801 East 6th Street, Suite 350  
-Austin, Texas 78702 USA  
-[dpo@snowsoftware.com](mailto:dpo@snowsoftware.com)
-
-If you are located in Germany, our contact details are:
-
-Snow Software GmbH  
-Attn: Data Protection Officer  
-Meitnerstraße 11  
-70563 Stuttgart  
-[dpo@snowsoftware.com](mailto:dpo@snowsoftware.com)
-
-You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)) or equivalent authority outside of the UK. We would, however, appreciate the chance to deal with your concerns before you approach the ICO (or equivalent) so please contact us first if possible.
-
-**Changes to the privacy policy and your duty to inform us of changes**
-
-We may amend this privacy policy to reflect changes in the law, our companies, our Services, our data collection use and practices, or advances in technology. Our use of the data we collect is subject to the privacy policy in effect at the time such data is used. Depending on the type of change, we may notify you of the change by posting on this page or by email. Please carefully review any changes made to this privacy policy. 
-
-This version was last updated on 14 February, 2023, and historic versions can be obtained by contacting us.
-
-It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
-
-**Third-party links**
-
-The Services may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave the Services, we encourage you to read the privacy policy of every website you visit.
-
-2\. THE DATA WE COLLECT ABOUT YOU
----------------------------------
-
-Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the reference to the identity of the person has been removed (anonymous data).
-
-We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
-
-* **Identity Data** may include first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
-* **Contact Data** includes billing address, delivery address, email address and telephone numbers.
-* **Financial Data** includes bank account and payment card details. This information is only collected or used in the instance that an order or purchase is made with Snow.
-* **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us. This information is only collected or used in the instance that an order or purchase is made with Snow.
-* **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website or as may be configured within the Services.
-* **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses. 
-* **Usage Data** includes information about how you use the Services.
-* **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
-
-We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
-
-We do not collect any **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offenses without your specific consent and under a separate agreement.
-
-**If you fail to provide personal data**
-
-Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us, but we will notify you if this is the case at the time.
-
-3\. HOW IS YOUR PERSONAL DATA COLLECTED?
-----------------------------------------
-
-We use different methods to collect data from and about you, including through:
-
-* **Direct interactions.** You may give us your Identity, Contact, Profile, and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
-    * apply for our products or services;
-    * create an account on our website;
-    * subscribe to our service or publications;
-    * request marketing to be sent to you;
-    * enter a competition, promotion or survey;
-    * submit an application for employment; or
-    * give us some feedback.
-* **Automated technologies or interactions.** As you interact with our Services, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. Please see our [**cookie policy**](https://www.snowsoftware.com/int/legal/cookie-policy) for further details.
-* **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources, including:
-    * Technical Data from analytics providers such as Google, advertising networks; and search information providers.
-    * Contact, Financial and Transaction Data from providers of technical, payment and delivery services.
-    * Identity and Contact Data from data brokers or aggregators.
-    * Identity and Contact Data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
-
-4\. HOW WE USE YOUR PERSONAL DATA
----------------------------------
-
-We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
-
-* Where we need to perform the contract we are about to enter into or have entered into with you.
-* Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
-* Where we need to comply with a legal or regulatory obligation.
-* Where we have obtained your consent to do so.
-
-Generally, we do not rely on consent as the sole basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. If we rely on your consent to process your personal data, you have the right to withdraw your consent at any time by contacting us.  
-
-**Purposes for which we will use your personal data**
-
-We have set out below, in a table format, a description of all the ways we will use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
-
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
-
-|     |     |     |
-| --- | --- | --- |
-| **Purpose/Activity** | **Type of data** | **Lawful basis for processing including basis of legitimate interest** |
-| To register you as a new customer | (a) Identity (b) Contact | Performance of a contract with you |
-| To process and deliver your order including: (a) Manage payments, fees and charges (b) Collect and recover money owed to us | (a) Identity (b) Contact (c) Financial (d) Transaction (e) Marketing and Communications | (a) Performance of a contract with you (b) Necessary for our legitimate interests (to recover debts due to us) |
-| To manage our relationship with you which will include: (a) Notifying you about changes to our terms or privacy policy (b) Asking you to leave a review or take a survey | (a) Identity (b) Contact (c) Profile (d) Marketing and Communications | (a) Performance of a contract with you (b) Necessary to comply with a legal obligation (c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services) |
-| To enable you to partake in a prize draw, competition or complete a survey | (a) Identity (b) Contact (c) Profile (d) Usage (e) Marketing and Communications | (a) Performance of a contract with you (b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business) |
-| To administer and protect our business and the Services (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity (b) Contact (c) Technical | (a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganization or group restructuring exercise) (b) Necessary to comply with a legal obligation |
-| To deliver relevant content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | (a) Identity (b) Contact (c) Profile (d) Usage (e) Marketing and Communications (f) Technical | Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy) |
-| To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical (b) Usage | Necessary for our legitimate interests (to define types of customers for our products and services, to keep our Services updated and relevant, to develop our business and to inform our marketing strategy) |
-| To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity (b) Contact (c) Technical (d) Usage (e) Profile | Necessary for our legitimate interests (to develop our products/services and grow our business) |
-| To process your employment application. | (a) Identity (b) Contact | Necessary for our legitimate interests (to develop our products/services and grow our business) |
-| To provide you software,  including Snow License Manager; and professional and support services, including implementation and configuration. | (a) Identity (b) Contact (c) Technical (d) Usage (f) Technical | Performance of a contract with you |
-| To fix problems you may have with our products, including answering support questions and resolving disputes | (a) Identity (b) Contact (c) Profile (d) Usage (f) Technical | Performance of a contract with you |
-
-**Snow Inventory and the Snow Web Application Metering Extension**
-
-Your device administrator may install Snow Inventory on your device for its internal business use. By installing Snow Inventory, the application will identify your IT inventory, including IT asset information, and if available, the contact information of the IT asset user.  Additionally, by installing the Snow Web Application Metering extension, the application will track the URLs you visit. Snow will not directly receive or process user data generated by this extension. Instead, the data is obfuscated, encrypted, sent to your device administrator, and then deleted from your computer. The data does not provide the content of your browsing sessions, rather it provides information about the use of a predefined service. Specific questions regarding Snow Inventory and this extension’s functionality should be directed to your employer’s information technology team.
-
-**Promotional offers from us**
-
-We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
-
-You will receive marketing communications from us if you have requested information from us or purchased goods or services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
-
-**Third-party marketing**
-
-We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
-
-**Opting out**
-
-You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by contacting us at any time.
-
-Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, product/service experience or other transactions.
-
-**Cookies**
-
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see: [**cookie policy**.](https://www.snowsoftware.com/int/legal/cookie-policy)
-
-**Change of purpose**
-
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
-
-If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
-
-Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
-
-5\. DISCLOSURES OF YOUR PERSONAL DATA
--------------------------------------
-
-We may have to share your personal data with the parties set out below for the purposes set out in the table under section “Purposes for which we will use your personal data” above.
-
-* Internal Third Parties as set out in the _Glossary._
-* External Third Parties as set out in the _Glossary._
-* Specific third parties listed in the table under section “Purposes for which we will use your personal data” above.
-* Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
-
-We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
-
-6\. INTERNATIONAL TRANSFERS
----------------------------
-
-We share your personal data within the Snow Software Group. This will involve transferring your data outside United Kingdom, Switzerland or the European Economic Area (collectively “UK & EEA**”**).
-
-Many of our external third parties are based outside the UK & EEA so their processing of your personal data will involve a transfer of data outside the UK & EEA.
-
-Whenever we transfer your personal data out of the UK & EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
-
-* The transferee is located in a country that has been deemed to provide an adequate level of protection for personal data by the ICO and/or European Commission as applicable.
-* Snow and the transferee have agreed to terms that are approved by the ICO and/or European Commission (as applicable) which give personal data the same protection it has in the UK or Europe (as applicable). 
-
-Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the ICO and/or EEA.
-
-7\. DATA SECURITY
------------------
-
-We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
-
-We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
-
-8\. DATA RETENTION
-------------------
-
-**How long will you use my personal data for?**
-
-We will only retain your personal data for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting, or reporting requirements.
-
-To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax accounting or other requirements.
-
-By law we have to keep basic information about our customers (including contact, identity, financial and transaction data) for a minimum period of time, this varies in each jurisdiction, but we will always comply with the local law, and not retain information longer than reasonably necessary.  
-
-In some circumstances we may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
-
-9\. YOUR LEGAL RIGHTS
----------------------
-
-Under certain circumstances, you have rights under data protection laws in relation to your personal data, including the right to:
-
-**Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
-
-**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
-
-**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
-
-**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
-
-**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
-
-**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
-
-**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
-
-If you wish to exercise any of the rights set out above, please contact us.
-
-**No fee usually required**
-
-You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
-
-**What we may need from you**
-
-We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
-
-**Time limit to respond**
-
-We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made several requests. In this case, we will notify you and keep you updated.
-
-10\. GLOSSARY
--------------
-
-**LAWFUL BASIS**
-
-**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.  
-
-**Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
-
-**Comply with a legal or regulatory obligation** means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
-
-**THIRD PARTIES**
-
-**Internal Third Parties**
-
-Other companies in the Snow Software Group acting as joint controllers or processors and that provide IT and system administration services and undertake leadership reporting.
-
-**External Third Parties**
-
-* Service providers acting as processors who provide IT and system administration services.
-* Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
-* HM Revenue & Customs (or equivalent tax authority outside of the UK), regulators and other authorities who require reporting of processing activities in certain circumstances.
-
-![](https://www.snowsoftware.com/wp-content/themes/snow-software/dist/svg/snow-brand/flexera-snow-logo-stacked-on-dark.svg) Flexera Snow
-
-* [Follow us on X](https://twitter.com/snowsoftware)
-* [Follow us on LinkedIn](https://in.linkedin.com/company/snow-software-ab)
-* [Follow us on You Tube](https://www.youtube.com/channel/UCIOsdYngV-rY_T4kHfwdZyg)
-* [Follow us on Instagram](https://www.instagram.com/snowsoftware/)
-
-![](https://www.snowsoftware.com/wp-content/uploads/2023/02/iso27001_seal_white_webversion_150x50px_png.png)
-
-![](https://www.snowsoftware.com/wp-content/uploads/2023/02/21972-312_SOC_NonCPA-150x150.png)
-
-* [Solutions](#)
-    * [IT Visibility](https://www.snowsoftware.com/solutions/it-visibility/)
-    * [Cost Management](https://www.snowsoftware.com/solutions/cost-management/)
-    * [Risk Mitigation](https://www.snowsoftware.com/solutions/risk-mitigation/)
-    * [Hybrid Cloud Management](https://www.snowsoftware.com/solutions/hybrid-cloud-management/)
-    * [Snow Integrations](https://www.snowsoftware.com/snow-integrations/)
-
-* [Learn](#)
+    Flexera 2024 State of ITAM Report
+    
+    Want to learn how to turn 2024’s ITAM challenges into 2025’s opportunities? Look no further.
+    
+    [Enlighten Me](https://info.flexera.com/ITAM-REPORT-State-of-IT-Asset-Management?lead_source=Website%20Visitor&id=Flexera.com-Menu-Promo)
+    
+* Solutions
+    * [AWS Cloud Cost Optimization](https://www.flexera.com/flexera-one/solutions/vendor/aws)
+    * [Microsoft Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/microsoft)
+    * [Oracle Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/oracle)
+    * [SAP Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/sap)
+    * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
+    * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
+    * [Public Sector](https://www.flexera.com/solutions/public-sector)
+* [Customer Success](https://www.flexera.com/customer-success)
+    * [Implementation](https://www.flexera.com/customer-success/implementation)
+    * [Training](https://www.flexera.com/customer-success/training)
+    * [Ascend with Flexera One](https://www.flexera.com/more/ascend-with-flexera-one)
+    * [Technology Intelligence Awards](https://www.flexera.com/customer-success/awards)
+    * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
+* [Resources](https://www.flexera.com/resources)
+    * [Resources](https://www.flexera.com/resources)
+        * [All Resources](https://www.flexera.com/resources)
+        * [Blog](https://www.snowsoftware.com/blog/)
+        * [Business Value Calculator](https://www.flexera.com/flexera-one/business-value-calculator)
+        * [Case Studies](https://www.flexera.com/resources/case-studies)
+        * [Datasheets](https://www.flexera.com/resources?type%5Bdatasheet%5D=datasheet)
+        * [Demos & Trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
+        * [Gartner® Analyst Research](https://www.flexera.com/resources/gartner-analyst-research)
+        * [Glossary](https://www.flexera.com/flexera-one/glossary)
+        * [Videos](https://www.flexera.com/resources?type%5Bvideo%5D=video)
+        * [Webinars](https://www.flexera.com/resources?type%5Bwebinar%5D=webinar)
+        * [Events](https://www.flexera.com/resources?type%5Bevent%5D=event)
+        * [White Papers & Reports](https://www.flexera.com/resources?type%5Bwhite-paper-industry-report%5D=white-paper-industry-report)
+    * Customer Resources
+        * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
+        * [Product Documentation](https://docs.flexera.com/)
+        * [Learning Center](https://learn.flexera.com/)
+        * [Contact Support](https://community.flexera.com/t5/Using-the-Case-Portal/Contact-Flexera-support/ta-p/94684)
+* [About](https://www.flexera.com/about-us)
+    * [Technology Value Optimization](https://www.flexera.com/about-us/technology-value-optimization)
+    * [About](https://www.flexera.com/about-us)
+    * [Leadership](https://www.flexera.com/about-us/leadership)
+    * [Media / Press Center](https://www.flexera.com/about-us/press-center)
+    * [Partners](https://www.flexera.com/about-us/partners)
+    * [Environmental, Social and Governance](https://www.flexera.com/about-us/environmental-social-governance)
+    * [Careers](https://www.flexera.com/about-us/careers)
+    * [Diversity](https://www.flexera.com/about-us/diversity)
+    * [Contact Us](https://www.flexera.com/about-us/contact-us)
+
+en
+
+* [English](https://www.flexera.com/legal/privacy-policy)
+* [Deutsch](https://www.flexera.de/legal/privacy-policy)
+
+Search 
+
+ 
+
+External Links
+--------------
+
+* External Links
+    * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
+    * [Product Access](https://app.flexera.com/login)
+    * [Partner Portal](https://flexera.channeltivity.com/Login)
+
+[Contact Us](https://www.snowsoftware.com/about-us/contact-us)
+
+Breadcrumb
+----------
+
+1.  [](https://www.flexera.com/)
+2. [Legal](https://www.flexera.com/legal)  
+3. Privacy Notice  
+
+Flexera Privacy Notice
+----------------------
+
+* [Legal Home Page](https://www.snowsoftware.com/legal)
+
+**This document was last updated April 14, 2022**
+
+We appreciate your interest in our offered services and products and our websites ([www.flexera.com](https://www.snowsoftware.com/), [www.flexerasoftware.com](https://www.flexerasoftware.com/), [www.revenera.com](https://www.revenera.com/), [www.flexera.de](https://www.flexera.de/), [www.flexerasoftware.de](https://www.flexerasoftware.de/), [www.revenera.de](https://www.revenera.de/), [https://store.flexerasoftware.com](https://store.flexerasoftware.com/), [http://consumer.installshield.com](http://consumer.installshield.com/), [https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera\_Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community), [https://community.flexera.com/t5/Flexera-Software-Community/ct-p/Flexera\_Software\_Community](https://community.flexera.com/t5/Flexera-Software-Community/ct-p/Flexera_Software_Community), [www.flexnetoperations.com](http://www.flexnetoperations.com/), [www.flexnetmanager.com](https://www.flexnetmanager.com/), [www.flexnetmanager.eu](https://www.flexnetmanager.eu/), [www.brainwaregroup.com](https://www.brainwaregroup.com/), [https://app.secunia.com/](https://app.secunia.com/), [https://app.flexerasoftware.com/](https://app.flexerasoftware.com/), [https://csi7.secunia.com/csi/](https://csi7.secunia.com/csi/), [https://portal.technopedia.com/login](https://portal.technopedia.com/login), [https://login.rightscale.com/](https://login.rightscale.com/), [https://my.metasaas.com/login](https://my.metasaas.com/login), [https://www.riscnetworks.com](https://www.riscnetworks.com/), [https://portal.riscnetworks.com/](https://portal.riscnetworks.com/), [https://analytics.revulytics.com/](https://analytics.revulytics.com/)), online communities and service platforms owned and operated by Flexera (collectively, our “**Websites**” and together with our services and products, our “**Services**”). Privacy protection is very important to us, and we are committed to protecting and respecting your privacy. This privacy notice sets out information about how we collect, store, transfer, use and otherwise process personal information.
+
+#### A. General Provisions
+
+1. **Who we are.**
+    
+    Flexera Software LLC, 300 Park Blvd, Suite 400, Itasca, IL 60143, (“**Flexera Software LLC**”) is generally responsible for and controls the processing of your personal information collected through the Services.
+    
+    However, if you retain Services directly from a local Flexera group company (i.e., when you have concluded a contract with one of the local Flexera group companies) or otherwise do business with that Flexera group company and share personal information with that company, that company is the data controller in relation to all personal information obtained, used and otherwise processed in relation to such Services.
+    
+    The expressions “**Flexera**,” “**we**” and “**our**” include Flexera Software LLC and any other Flexera group company from whom you retain Services. For the contact details of all Flexera group companies see: [https://www.flexera.com/about-us/contact-us/office-locations](https://www.snowsoftware.com/about-us/contact-us/office-locations).
+    
+    Any Services where a Flexera group company processes personal information based on a data processing agreement entered with you or your employer (or other similarly situated entity) are not covered by this privacy notice. Transfers to subsequent third parties are covered by the service agreements with our customers.
+    
+2. **Global applicability and region-specific disclosures.**
+    
+    This privacy notice is designed to apply to our Website visitors, users of our Services and other companies and users on a global basis. Therefore, section A applies to any processing of personal information worldwide.
+    
+    We may choose or be required by law to provide different or additional disclosures relating to the processing of personal information about residents of certain countries, regions or states. Please refer below for disclosures that may be applicable to you:
+    
+    **Europe**  
+    The processing covered by the Europe-specific privacy disclosures contained in section B include our processing of personal information (i) relating to individuals in the European Union, the UK, Switzerland, Liechtenstein, Norway and Iceland - all of which will, for the purpose of this privacy notice, be defined as “Europe” - if we either offer goods or services to such individuals or monitor their activities in Europe, or (ii) where the processing is undertaken by or on behalf of a Flexera group company located in Europe. Please click [here](#GDPR) for additional Europe-specific privacy disclosures.
+    
+    **California**  
+    If you are a resident of the State of California in the United States, please click [here](#CCPA) for additional California-specific privacy disclosures in section C containing information about the processing of your personal information and the rights granted to you by California law.
+    
+3. **What is personal information?**
+    
+    When we use the term “**personal information**” in this privacy notice, we mean information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, to you. It does not include aggregated information that is maintained in a form that is not capable of being associated with or reasonably linked to you.
+    
+4. **What personal information do we collect?**
+    
+    In the context of rendering our Services, we may collect personal information about you. This personal information regularly includes the following:
+    
+    * **If you order any Service from us or ask for a quote (via our Websites or via phone, email or letter):** This in particular includes: Your name, company name, company address, billing contact, billing address, company email address, company phone number, job title, job function, industry, price and Service information and customer ID. If you render services as our customers, we may in particular also process the following personal information: Log-in ID, password, employee ID, employment status, manager, your corporate unit and cost center, account name, IP address, computer and device information (such as MAC address, computer/device name, host name, calculated user, hardware dongleID, UUID and FQDN). But we also may process information we need to contact you or otherwise communicate with you, information for order fulfilment and delivery of requested materials or services as well as maintenance and training associated with our Services, information to manage your account, information to enable the download or usage of Services, information on defects or erroneous Services, your feedback and complaints, quotes we offer you and information for invoicing and payment follow-up.
+    * **If you register on our Websites:** Name, company name, company address, company email address, company phone number, job title, job function, industry and your interest(s) in Flexera and/or its Services.
+    * **If you post on our blogs or forums:** You also may provide information to be published or displayed (hereinafter, "**posted**") on public areas of the Websites, such as forums or blogs, for example, our community forum ([https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera\_Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)) (collectively, "**User Contributions**"). We may collect any of your User Contributions, your username, your name, company name, company email address as well as your IP address. Please note that we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed or processed by other persons.
+    * **If you contact us (via our Websites or via phone, email or letter), e.g., for a support request:** Name, company name, company address, company email address, company phone number and information on our communication with you, your interest(s) in Flexera and/or its Services and any additional information you provide us with.
+    * **If you merely use our Websites:** IP address, browser data, device type, Uniform Resource Locators (URL), operating system, site preferences and information on your usage of our Websites.
+    * **If you participate in our events, such as webinars, and trade fair booth events, or if you download our white papers:** Name, company name, email address, phone number, address, position/job title, job function, job level and any information on the event or download.
+    * **If you are in our email marketing campaigns:** Name, company name, email address, phone number, address, position/job title, job function, information about whether you are already a customer, marketing campaign information such as the newsletter option you have selected and your reaction to our marketing and your interest in our products.
+5. **How do we collect your personal information?**
+    
+    The personal information is collected in many ways and may include:
+    
+    * **Personal information you provide to us.** Most of the personal information we receive comes to us voluntarily from our users in the course of using our Services, communicating with us in the procurement of or in the process of requesting our Services, registering to attend a seminar or participate in a survey, interacting with us at trade shows or conventions or other industry events or asking to be included in an email or other communication list, or other product promotions.
+        
+        You are free to choose which personal information you want to provide to us or whether you want to provide us with any personal information at all. However, some personal information, such as your name, address, payment information and information on your requested Services may be necessary for the performance of our contractual obligations. Without providing this personal information, you will not be able to order certain Services or enter into a contract with us.
+        
+    * **Personal information collected via technology.** As you use our Services, we may collect information automatically, such as log information and through the use of cookies or other tracking technologies. Please see our section “[How do we use cookies and other Tracking Technology](#cookies)?” below for more information.
+    * **Personal information we receive from others.** We may receive personal information about users from publicly available databases or third parties from whom we have purchased data, third parties such as social media sites, law enforcement agencies, providers of denied party screening and marketing consultants and partners. We may also receive personal information, such as contact details, including name, position, phone or email address from our partners and customers.
+6. **Why we collect and use your personal information?**
+    
+    The reasons for using your personal information may differ depending on the purpose of the collection. Regularly, we use your personal information for the following purposes:
+    
+    * **Providing our Services**. If you order Services from Flexera or if you contact us to request our Services, we use your personal information to provide you with these Services.
+    * **Pursue our business interests.** The usage of your personal information may also be necessary for our own business interests. For example, we may use some of your personal information to evaluate and review our business performance, create financial statements, improve our Services, provide advertising or to identify potential cyber security threats. We may use your personal information for marketing purposes, for example, to send you relevant product updates and/or share your contact information such as name, email address or phone number with reseller partners for them to directly contact, qualify and manage the customer relationship. In the case that a reseller partner uses your contact details for own marketing purposes, we or the reseller will do so only if you have granted a respective separate consent. If necessary, we may also use your personal information to pursue or defend ourselves against legal claims.
+    * **Purpose for which consent has been provided.** In some cases, we may ask you to grant us separate consent to use your personal information.
+        
+        We often work on the basis of consent in relation to sales and marketing campaigns. For example, if you sign up to our email newsletter, you allow us to send marketing communication to you, or when our marketing partners provide us with your email address, we will process your data to the extent covered by your consent. If you want to learn about your options regarding withdrawing your consent to receive marketing communication, please see our section “[E-Mail Settings and Preferences](#preferences).” If you want to learn more about your options to avoid Tracking Technology, please see our section “[How do we use cookies and other Tracking Technology](#cookies)?”.
+        
+        If you have granted us consent to use your information, we will use it only for the purposes for which you have granted your consent. You are free to deny your consent and the denial will have no negative consequences for you. You are also free to withdraw your consent at any time with effect for the future.
+        
+    * **Comply with legal obligations.** We are obligated to retain certain information because of legal requirements, for example, tax or commercial laws, or we may be required by law enforcement to provide personal information on request.
+7. **With whom do we share your personal information?**
+    
+    As required in accordance with how we use it, we will share your personal information with the following third parties:
+    
+    * **Flexera group companies.** To support our sales and marketing efforts, as well as in the performance of the Services, your personal information may be disclosed to Flexera group companies. Further information regarding the Flexera group companies can be obtained [here](https://www.snowsoftware.com/about-us).
+    * **Service providers and advisors.** We may use third party vendors and other service providers to perform services on our behalf. Such services may include marketing campaign services, providing mailing or email services, tax and accounting services, product fulfilment, payment processing, conducting surveys or contests, performing customer service, performing data enhancement services, performing fraud prevention services, performing web hosting services or providing analytic services. These third parties, whose services Flexera Software LLC regularly uses include, in particular: Eloqua, SalesForce.com, Lithium, Gainsight, Melissa Data and Snowflake. Any such service providers will by appropriate data processing agreements be bound to only process the data on Flexera’s behalf and under its instructions, unless such service providers act as their own controllers (e.g., in the case we seek advice from lawyers and tax consultants).
+    * **Promotional partners.** Third parties with whom we partner to provide promotional activities, which will be identified by name in the context of these activities. We may, for example, share contact details with reseller partners.
+    * **Purchasers and third parties in connection with a business transaction.** Third parties in connection with a Flexera-related transaction, such as a merger, sale of Flexera assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business, or in the event of a bankruptcy or similar proceedings.
+    * **Law enforcement, regulators, and other parties for legal reasons.** Third parties as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our legal claims or to protect the security or integrity of our Services; and/or (c) to exercise or protect the rights, property or personal safety of Flexera employees, our visitors or others.
+    * **The public, when posted in certain public spaces.** Remember, our Websites allow you to connect and interact with others. Your profile information or information that you post in a forum or on a blog, including personal information, will be available publicly to other members of the Websites by default when you create a profile, post in a blog or forum or interact with others on the Websites in public groups and post content to public spaces.
+    * **Otherwise with consent**. We may disclose an individual’s personal information to certain other third parties with that individual’s consent.
+8. **How do we safeguard your personal information when there is an international transfer?**
+    
+    As Flexera Software LLC is located in the USA, any information you provide will be processed and stored in the USA.
+    
+    Furthermore, some other Flexera group companies who may process your personal information depending on the Services you are using are also located outside Europe. Our Flexera group companies are, for example, located in Japan, Australia, India, and China. Further information regarding the Flexera group companies can be obtained [here](https://www.snowsoftware.com/about-us).
+    
+    This may mean that your personal information will be stored in a jurisdiction that offers a level of protection that may, in certain instances, be less protective of your personal information than the jurisdiction you are typically a resident in.
+    
+    Further Europe-specific information regarding the safeguards we have in place can be obtained [here](#GDPR).
+    
+9. **How do we use cookies and other Tracking Technology?**
+    
+    When using our Services, we and our third-party partners may automatically collect certain types of usage information. For this purpose, we often rely on tracking technologies, including cookies, web beacons, embedded scripts and similar technology (collectively, “**Tracking Technologies**”) in accordance with this notice. Where legally required, we will inform you about the use of such tracking technologies using so-called cookie-banners and/or obtain your consent to use such Tracking Technology.
+    
+    * **How do these Tracking Technologies work?** Cookies are pieces of code that allow for personalization of the Services experience by saving your personal information such as user ID and other preferences. A cookie is a small data file that we transfer to your device's hard disk (such as your computer or smartphone) for record-keeping purposes. Cookies store certain settings and data for exchange with our system via your browser. A cookie usually contains the name of the domain from which the cookie has been placed, as well as information about the age of the cookie and a random alphanumeric identifier, the so-called cookie-ID. They help to recognize the device and make any pre-settings immediately available. Web beacons are small graphical images that may be included on our Sites and typically work in conjunction with cookies to identify our users and user behaviour. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on. The code is temporarily downloaded onto your computer or device from our web server or a third-party service provider, is active only while you are connected to the Site and is deactivated or deleted thereafter. Flash cookies are pieces of data that websites which use Adobe Flash may store on a user's computer or device. Third parties with whom we partner to provide certain features on our Sites or to display advertising based upon your web browsing activity often use flash cookies.
+    * **What information do these Tracking Technologies collect?** These tracking technologies collect information about your browser and online usage patterns (e.g., IP address, pages you view, the links you click and other actions you take on the Services such as opening an email, log files, browser type, browser language, referring/exit pages and URLs, etc.), and information about the device(s) you use to access the Services (e.g., unique identification numbers associated with your device or our mobile application (including, for example, a UDID, Unique ID for Advertisers (IDFA), Google AdID or Windows Advertising ID), device type, model and manufacturer, operating system brand and model and, depending on your mobile device settings, your geographical location data). We, or our third party partners, may link your various devices so that content you see on one device can result in relevant advertising and content displayed on another device so that we may recognize and contact you on the various devices you may use.
+    * **What are Cookies and other Tracking Technologies used for?** Tracking Technologies do lots of different jobs, like helping us understand how our Websites are being used, helping us analyse trends, administering the Websites, tracking users’ movements around the Websites, gathering demographic information about our user base as a whole, letting you navigate between pages efficiently, remembering your preferences and generally improving your browsing experience. Tracking Technology can also help ensure that you see marketing content that is more relevant to you and your interests. Therefore, generally speaking, we use the data collected through tracking technologies to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Website(s); (b) provide custom, personalized content and information, including targeted content and advertising; (c) recognize and contact you across multiple devices; (d) provide and monitor the effectiveness of our Services; (e) monitor aggregate metrics such as total number of visitors, traffic, usage and demographic patterns on our Websites; (f) diagnose or fix technology problems; and (g) otherwise plan for and enhance our Services.
+    * **What types of cookies are used by Flexera?** The types of cookies used on our site can generally be put into one of the following categories: Necessary; functional and advertising. You can find out more about each of the cookie categories in the table below.
+        * **Necessary Cookies.** These cookies are essential to make our Websites work. They enable you to move around the Websites and use their features. Without these cookies, services that are **necessary** for you to fully use our Websites may not be available, such as accessing certain areas of the Websites.
+        * **Functional Cookies.** These cookies allow us to recognize you and tailor our Websites to provide enhanced features and content to you. For example, these cookies can be used to remember your IP address, language choice, country selection and requested Services.
+        * **Advertising Cookies.** These cookies are used to deliver advertisements that are more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They remember that you have visited a website and may track you on other websites. This information may be shared with other organizations such as advertising partners.
+    * **How long will cookies stay on your browsing device?** The length of time a cookie will stay on your browsing device depends on whether it is a "persistent" or "session" cookie. Session cookies will only stay on your device until you stop browsing the website that has set the cookie. Persistent cookies stay on your browsing device after you have finished browsing a particular website, until they are deleted or until they expire. The actual period of validity of each persistent cookie depends on each cookie. However, they generally expire within 3 months. You can amend your cookie settings using your internet browser’s settings.
+    * **Cookies by third parties.** Some cookies belong to us, and we place them on your device. Other cookies are placed on your browsing device by third parties when you visit our Websites. Third parties setting cookies from our Websites will be providing a service to us or a function of the website, but we do not always control how third-party cookies are used. Some third parties may use advertising cookies to help gather information about your browsing activity so that they can deliver website advertising to you that is relevant to your interests. You should check the third party's website for more information about how they use cookies. The third-party tracking technologies on our Websites include Adobe Audience Manager, Adobe Test & Target, Google AdWords, Twitter Advertising, LinkedIn Marketing Solutions, Eloqua, Facebook Customer Audience, Google Analytics, LinkedIn Analytics, Visual Website Optimizer, Kenshoo and Demandbase. You can, for example, also download the [Ghostery](https://www.ghostery.com/) browser extension to find out the most current tracking technologies running on our Websites.
+    * **Interest-based advertising.** We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your online browsing history and your interests. To do this, we or our advertising partners may collect information about how you use or connect to our Services, or the types of other websites, social media services, content and ads that you (or others using your device) visit or view or connect to our Services. Typically, this information is collected through cookies and similar tracking technologies. Where legally required, we will obtain your consent.
+        
+        If you only want to limit third-party advertising cookies, you can turn such cookies off by visiting the following links (please bear in mind that there are many more companies listed on these sites than those that drop cookies via our website):
+        
+        * Your Online Choices ([http://www.youronlinechoices.com/](http://www.youronlinechoices.com/))
+        * Network Advertising Initiative ([http://www.networkadvertising.org/](http://www.networkadvertising.org/))
+        * Digital Advertising Alliance ([http://www.aboutads.info/consumers](http://www.aboutads.info/consumers))
+        
+        To manage the Tracking Technologies, you may also follow the steps as described below:
+        
+    * **How can you manage cookies from our Websites?** The cookies we use are designed to help you get the most from our Services, but if you do not wish to receive cookies, most browsers allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. You can also avoid Tracking Technology by not consenting to the use of Tracking Technology when asked for consent in cookie banners. Please check your browser and browser settings to determine where cookies are stored and whether and how they may be deleted. The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable most cookies altogether. Depending on your mobile device and operating system, you may not be able to delete or block all Tracking Technologies. Please note that in the case you delete existing cookies, your chosen pre-settings will be deleted as well. This means that the next time you access our website, we may ask for your consent again (to the extent required by law) and set new cookies. The period of validity of those cookies will then start from the beginning. You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it. In order to understand these settings, the following links may be helpful, otherwise you should use the "Help" option in your browser for more details.
+        
+        [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+        
+        [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+        
+        [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+        
+        [Cookie settings in Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+        
+        Please note that if you choose to refuse cookies, you may not be able to use the full functionality of the Services.
+        
+    * **How to withdraw consent for showing targeted ads on third-party websites and for our use of Tracking Technology.** To the extent we rely on your consent to provide you with targeted advertising on third-party websites and the use of Tracking Technology, you may withdraw such consent at any time with effect for the future by contacting us using the contact details set out at the end of this section A. Depending on the setting options and the scope of your consent withdrawal, you may still receive generic ads.
+    * **Google Analytics.** We use Google Analytics and have implemented the following Google Advertising Feature: Google AdWords Conversion. Google uses cookies to help the website analyze how users use the site. The information generated by the cookie about your use of the website will generally be transmitted to and stored by Google on servers in the United States. However, if IP anonymization is activated on this website, your IP address will be shortened by Google in advance within if data is collected from within the Member States of the European Union and in the European Economic Area. Only in exceptional cases is the full IP address transmitted to a Google server in the USA and shortened there. We use Google Analytics to recognize you and link the devices you use when you visit our Websites on your browser or mobile device, login to your account on our Websites, or otherwise engage with us. Google Analytics allows us to better understand how our users interact with our Services and to tailor our advertisements and content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's site "How Google uses data when you use our partners' sites or apps" located at www.google.com/policies/privacy/partners/. You can learn about Google Analytics' currently available opt outs, including the Google Analytics Browser Add-On here: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+    * We use Demandbase to help us provide you with targeted ads on the basis of cookies and online search behaviour. If you do not wish to receive such ads, you can use the means set out above and also choose to withdraw your consent (if provided before) or opt-out by using the means provided [here](http://optout.aboutads.info/?c=2&lang=EN).
+10. **Social media.**
+    
+    Our Websites include links to social media sites, such as Facebook, LinkedIn, Twitter, Instagram and YouTube. These social sites are hosted by a third party, and your interactions with these features are governed by the privacy notice of the company providing it.
+    
+11. **Links to other Websites and services.**
+    
+    The Services may contain links to and from third-party websites of our business partners, advertisers and social media sites, and our users may post links to third-party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. We strongly recommend that you read their privacy policies and terms and conditions of use to understand how they collect, use, share and otherwise process personal information. We are not responsible for the privacy practices or the content on the websites of third-party sites.
+    
+12. **How do we protect your personal information?**
+    
+    We implement a variety of security measures designed to maintain the safety of your personal information when you use our Services.
+    
+    However, no security system is impenetrable, and we cannot guarantee the security of our systems 100%. In the event that any personal information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose personal information may have been compromised, such notification will be made having regard to the nature of the personal information involved and may include email communications, written correspondence, or public statements and take other steps in accordance with any applicable laws and regulations, such as notify competent data protection authorities.
+    
+13. **Children’s privacy.**
+    
+    We do not knowingly collect or solicit any personal information from anyone under the age of 16 on or through the Services. In the event that we learn that we have inadvertently collected personal information from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 16, please contact us by using the contact details set out at the end of this section A.
+    
+    For Europe-specific information on children’s privacy, please our section “[Additional information on children’s privacy](#EEA_children)”.
+    
+    For California-specific information on children’s privacy, please see our section “[Additional California-specific information on children’s privacy](#CCPA_children)”.
+    
+14. **What rights and choices do you have?**
+    
+    We want you to understand your rights and choices regarding how we may use your personal information. Depending on how we use your personal information, these rights and choices may include the following:
+    
+    * **Access, correction and deletion.** Upon request, Flexera will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by contacting us at [marketingops@flexera.com](mailto:marketingops@flexera.com). We will respond to your request within a reasonable timeframe.
+    * **Cookies Settings and Preferences.** You may disable cookies and other tracking technologies through the settings in your browser. In the case you have provided consent to use marketing cookies and similar Tracking Technology or would like to learn more about how to avoid Tracking Technology, please see our section “[How do we use cookies and other Tracking Technology?](#cookies)”.
+    * **E-Mail Settings and Preferences.** If you have consented to receiving marketing communication (e.g., by signing up for our newsletters), you may easily withdraw your consent at any time with effect for the future. You can also opt out from receiving marketing emails if we do not rely on consent. You can withdraw your consent or opt out from receiving marketing communication via or by using the link provided to you at the end of each promotional communication. You may also contact us using the contact details set out at the end of this section A to request that we remove you from our email list. [https://info.flexera.com/Manage-Preferences](https://info.flexera.com/Manage-Preferences?lead_source=Website%20Visitor&id=Flexera.com-Legal).
+    * **Deny or Withdraw of Consent**. We may work on the basis of consent, in particular in relation to sales and marketing campaigns. For example, if you sign up to our email newsletter, you allow us to send marketing communication to you, or when our marketing partners provide us with your email address, we will process your data to the extent covered by your consent. If you have granted us consent to use your personal information, we will use it only for the purposes for which you have granted your consent. You are free to deny your consent and the denial will have no negative consequences for you. You are also free to withdraw your consent at any time with effect for the future without negative consequences for you. However, we will not / no longer be able to provide you with the Services to which this consent relates. If you want to learn about your options regarding withdrawing your consent to receive marketing communication specifically, please see our section “E-Mail Settings and Preferences” above. If you want to learn more about your options to avoid Tracking Technology, please see our section “[How do we use cookies and other Tracking Technology?](#cookies)”
+    * **Europe-specific rights**. For further Europe-specific rights, please see our section “[Additional Europe specific disclosures](#GDPR).”
+    * **California-specific rights**. For further California-specific rights, please see our section “[Additional CCPA specific disclosures](#CCPA).”
+15. **Online privacy notice updates.**
+    
+    We may make changes to our privacy notice from time to time and will update the “last updated” date at the beginning of this privacy notice. Please review our policies regularly, as updated policies will apply to your future use of our Services. To the extent that we have your contact information, we will notify you of any material changes to our privacy notice.
+    
+16. **How to contact us?**
+    
+    If you have any questions or concerns about our privacy notice or if you want to exercise your rights, please send an email to [DataProtectionTeam@flexera.com](mailto:DataProtectionTeam@flexera.com) or write to us at:
+    
+    **Flexera Software LLC, 300 Park Boulevard, Suite 400, Itasca, IL 60143, USA**
+    
+    You may also contact the **EU representative** of all non-EU Flexera group companies, which is **Flexera Software GmbH, at** [**DataProtectionTeam@flexera.com**](mailto:DataProtectionTeam@flexera.com) or Hahnenkamp 1, 22765 Hamburg, Germany.
+    
+    For the individuals and supervisory authorities in the UK, the UK representative of all non-EU Flexera group companies is Flexera Software Ltd. Level 3, 401 Faraday Street Birchwood Park, Birchwood Warrington, Cheshire WA3 6GA, United Kingdom. The UK representative may be contacted at [DataProtectionTeam@flexera.com](mailto:DataProtectionTeam@flexera.com).
+    
+    If you obtain Services from one of our Flexera entities, you may of course address any privacy related question to the Flexera entity that has concluded a contract with you.
+    
+    While the main contact information above is favored and would be happy to respond to all queries for all entities within the Flexera family, you can obtain contact information on each Flexera group company [here](https://www.snowsoftware.com/about-us).
+    
+17. **Data Compliance Team.**
+    
+    For all enquiries regarding Flexera’s data processing activities, you may also want to contact our Data Compliance Team, who can be reached at [DataProtectionTeam@flexera.com](mailto:DataProtectionTeam@flexera.com).
+    
+
+#### B. Additional Europe-specific disclosures
+
+18. **Scope of the disclosure.**
+    
+    These Additional Europe-specific disclosures supplement the information contained in our privacy notice above to comply with the requirements under applicable data protection law in Europe, in particular the General Data Protection Regulation (“**GDPR**”). Unlike the generally applicable section A. of this privacy notice, these Additional Europe-specific disclosures apply only to our processing of personal information where the processing of personal information relates to individuals in Europe -–where we either offer goods or services to such individuals or monitor their activities in Europe or where the processing is undertaken by or on behalf of a Flexera company or branch established in Europe.
+    
+19. **Information on data processing rendered by us on behalf of customers.**
+    
+    Where a Flexera group company processes personal information based on a data processing agreement entered with you or your employer (or other similarly situated entity), the respective Flexera group company is not the data controller but a data processor.
+    
+    The use of personal information provided to us as a data processor by our customers for the purpose of processing on their behalf shall be limited to the purpose of providing the Service for which the customer has engaged Flexera (data processing on behalf of customer).
+    
+    Flexera acknowledges that you have the right to access your personal information. Flexera has no direct relationship with the individuals whose personal information it processes on behalf of its customers. An individual who seeks access or who seeks to correct, amend or delete inaccurate data should direct their query to Flexera’s customer (the data controller). If requested to remove data we are processing for our customer, we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our Services. Transfers to subsequent third parties are covered by the service agreements with our customers.
+    
+20. **Legal basis based on which we collect and use your personal information.**
+    
+    Regularly, we use your personal information based on the following legal grounds according to the GDPR and the Data Protection Act 2018:
+    
+    * **Perform of our contractual services or prior to entering into a contract with you**. If you order Services from Flexera or if you contact us to request our Services, we use your personal information to provide you with these Services.
+    * **Justified by our legitimate interests.** The usage of your personal information may also be necessary for our own business interests. For example, we may use some of your personal information to evaluate and review our business performance, create financial statements, improve our Services, provide advertising or to identify potential cyber security threats. We may use your personal information for marketing purposes, for example, to send you relevant product updates and/or share your contact information such as name, email address or phone number with reseller partners for them to directly contact, qualify and manage the customer relationship. To the extent we rely on legitimate interests to process your data for marketing purposes (for example, in the case that you have provided your email address in connection with the purchase of our services), you may object to such processing at any time via [https://info.flexera.com/Manage-Preferences](https://info.flexera.com/Manage-Preferences?lead_source=Website%20Visitor&id=Flexera.com-Legal) or by using the link provided to you at the end of each promotional communication. You may also contact us using the contact details set out at the end of section A to request that we remove you from our email list. If necessary, we may also use your personal information to pursue or defend ourselves against legal claims.
+    * **Consent** In some cases, we may ask you to grant us separate consent to use your personal information. Please see “[What rights and choices do you have?](#rights)” regarding the choices and rights you have in this respect.
+        
+    * **Compliance with legal obligations.** We are obligated to retain certain personal information because of legal requirements, for example, tax or commercial laws, or we may be required by law enforcement to provide personal information on request.
+    
+    We do not use your personal information for automated individual decision-making.
+    
+21. **Additional information on international data transfers.**
+    
+    [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=c1aff876-f113-47d9-8b5b-0d9a1ce0fce6)](https://privacy.truste.com/privacy-seal/validation?rid=c1aff876-f113-47d9-8b5b-0d9a1ce0fce6)We may transfer personal information about you outside Europe and when we do so, we rely on appropriate or suitable safeguards recognized under applicable law in Europe, including adequacy decisions, Standard Contractual Clauses that have been adopted by the European Commission and provide appropriate guarantees for the transfer of personal information.
+    
+    * **Flexera-internal transfers.**
+        
+        As regards the sharing of personal information with Flexera group companies located outside Europe, Flexera has entered into data transfer agreements based on the Standard Contractual Clauses issued by the European Commission. The data transfer agreements between the Flexera group entities also make use of the Standard Contractual Clauses issued by the European Commission for data transfers to Flexera group entities located in the US, the UK or any other country in which we have subsidiaries for as long as these countries are not acknowledged by the European Commission or Switzerland as providing for an adequate level of data protection. If you would like to obtain further information, please contact us using the contact details set out at the end of section A.
+        
+    * **External transfers.**
+    
+    We may transfer personal information about you to countries that the European Commission has deemed to adequately safeguard personal information. We may also use Standard Contractual Clauses when transferring personal information from a country in Europe to a country outside Europe that has not been deemed to adequately safeguard personal information. The same applies to data transfers from the European Economic Area or Switzerland to the UK as well as data transfers from the UK to other countries that are not recognized by the UK to adequately safeguard personal information. If you would like to obtain further information, please contact us using the contact details set out at the end of section A.
+    
+22. **How long do we keep your personal information?**
+    
+    We will store personal information for as long as necessary to fulfil the purposes for which we collect the personal information, and in accordance with our legal obligations and legitimate business interests. Personal information collected in connection with the Websites by Eloqua that offers marketing services will be identified for manual removal after 18 months of no interaction between the data subject and Flexera. Additionally, personal information processed by Flexera as a data processor will be removed in accordance with the instructions of the applicable data controller.
+    
+    If you signed up for our promotional emails, we will delete the respective personal information if you unsubscribe from receiving our promotional emails. However, we will store your email address in a ‘do not contact’ list to ensure that you will not receive any further communication.
+    
+23. **Additional Europe-specific information on children’s privacy.**
+    
+    From children under the age of 16 residing in Europe, we will not process any personal information on the ground of a consent.
+    
+24. **Europe-specific rights.**
+    
+    Subject to the applicable law in your jurisdiction, you have the following rights in respect to your personal information that we hold:
+    
+    * **Right of access**. The right to obtain access to your personal information.
+    * **Right to rectification**. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete.
+    * **Right to erasure**. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed.
+    * **Right to restriction**. The right to obtain restriction of the processing undertaken by us on your personal information in certain circumstances, such as, where the accuracy of the personal information is contested by you, for a period of time enabling us to verify the accuracy of that personal information.
+    * **Right to portability**. The right to portability allows you to move, copy or transfer personal information easily from one organization to another.
+    * **Right to object**. You have a right to object to any processing based on our legitimate interests where there are grounds relating to your particular situation. You can object to marketing activities for any reason whatsoever.
+    
+    If you wish to exercise one of these rights, please contact us by using the contact details set out at the end of section A.
+    
+    In addition to the foregoing listed rights, you also have the **right to lodge a complaint** with your local data protection authority. However, we encourage you to first reach out to us by using the contact set out at the end of section A so that you have an opportunity to address your concerns directly and find a solution together before you do lodge a complaint.
+    
+
+#### C. Additional California-specific disclosures
+
+25. **Scope of notice.**
+    
+    These Additional California specific disclosures (the “**CA Notice**”) supplements the information contained in the privacy notice above and applies solely to individual residents of the State of California (“**consumers**” or “**you**”).
+    
+    This CA Notice provides additional information about how we collect, use, disclose and otherwise process personal information of individual residents of the State of California, either online or offline, within the scope of the California Consumer Privacy Act of 2018 (“**CCPA**”).
+    
+    Unless otherwise expressly stated, all terms in this CA Notice have the same meaning as defined in our privacy notice above or as otherwise defined in the CCPA.
+    
+26. **General remarks on personal information disclosures.**
+    
+    When we use the term “**personal information**” in this CA Notice, we mean information that identifies, relates to, describes, is reasonably capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household.
+    
+    For the purposes of this CA Notice, the term personal information does not include:
+    
+    * Publicly available information from government records.
+    * De-identified or aggregated information that is maintained in a form that is not capable of being associated with or linked to you.
+    * Information excluded from the CCPA's scope, such as:
+        * Information reflecting a communication or a transaction between us and a representative of another legal entity in the context of conducting due diligence regarding, or providing or receiving, a product or service to or from that legal entity.
+        * Information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
+    * Information relating to our job applicants, employees, contractors and other personnel.
+27. **Information on data processing rendered by us on behalf of customers.**
+    
+    Where a Flexera group company processes personal information based on a data processing agreement entered with you or your employer (or other similarly situated entity), the respective Flexera group company is not the “business” that determines the purposes and means of the processing of consumers’ personal information, but a “service provider” within the meaning of the CCPA.
+    
+    The use of personal information provided to us as a service provider by our customers for the purpose of processing on their behalf shall be limited to the purpose of providing the Service for which the customer has engaged Flexera (data processing on behalf of customer).
+    
+    Flexera acknowledges that you have the right to access your personal information. Flexera has no direct relationship with the individuals whose personal information it processes on behalf of its customers. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Flexera’s customer (the business). If requested by our customer to remove data we are processing on their behalf and at their direction, we will respond within a reasonable timeframe. We may transfer personal information to companies that help us provide our Services. Transfers to subsequent third parties are covered by the service agreements with our customers.
+    
+28. **Collection and use of personal information.**
+    
+    In the last 12 months, we have collected the following categories of personal information from the following sources of personal information for the following purposes, which reference the personal information, sources and purposes described in the “[What personal information do we collect?](#what_we_collect)” and “[How do we collect your information](#how_we_collect)” section of our privacy notice:
+    
+    | Category of Personal Information | Collected | Commercial or Business Purpose | Categories of Sources |
+    | --- | --- | --- | --- |
+    | **Identifiers**, including your name, email address, phone number, postal address, username and password | Yes | * Monitor and run the use of services<br>* For customer service purposes<br>* For quality assurance purposes<br>* For regulatory compliance purposes<br>* For collecting feedback<br>* Personalization purposes<br>* For marketing purposes<br>* Product and services improvement<br>* For contests and sweepstakes<br>* For market research purposes | * Directly from you<br>* Your browser or device<br>* Our business partners and affiliates<br>* Third parties you direct to share information with us<br>* Push notification providers<br>* Customer service platforms |
+    | **Internet/Network Information**, such as IP address, device and browser information, clickstream data, log data and analytics data | Yes | * To monitor and run the services<br>* Understanding consumer behavior<br>* Addressing software issues<br>* Personalization purposes<br>* Product and services improvement | * Directly from you<br>* Your browser or device |
+    | **Geolocation Data**, such as your general geographic location or more precise location when permitted by law | Yes | * To generate recommendations for users<br>* Monitor the use of products<br>* Personalization purposes | * Directly from you<br>* Your browser or device |
+    | **Other Personal Information**, such as personal information you provide us in relation to a question, request or inquiry, or information you post on our social media pages or otherwise provide to us | Yes | * Monitor and run the use of services<br>* For market research purposes | * Directly from you<br>* Your browser or device<br>* Third parties you direct to share information from us |
+    | **Inferences,** including predictions about your interests and preferences. | Yes | * To generate recommendations for users<br>* Monitor the use of services<br>* Monitor habit formation<br>* For engagement analytics<br>* Personalization purposes<br>* For market research purposes | * Directly from you<br>* Your browser or device<br>* Information generated or derived from your purchases, online browsing and usage activity |
+    
+29. **Disclosure and sale of personal information.**
+    
+    As described in the “[With whom do we share your personal information?](#whom_we_share)” section in our privacy notice, we have disclosed personal information within Flexera and with a variety of third parties for business purposes.
+    
+    In the previous 12 months, we have disclosed the following categories of personal information to third parties for a business purpose:
+    
+    * All of the categories of personal information we collect, explained in the table above.
+    
+    **\*Note about “Sales”:** Flexera does not “sell” personal information as most people would typically understand that term. However, we do allow certain third-party advertising partners to collect information about consumers through our Services for purposes of serving ads that are more relevant, for ad campaign measurement and analytics and for ad fraud detection and reporting. To the extent these practices qualify as “sales” under the CCPA, you may have the right to opt out as described in the “[California-specific rights](#CA)” section below.
+    
+30. **California-specific rights.**
+    
+    As a California resident, you may be able to exercise the following rights in relation to the personal information about you that we have collected (subject to certain limitations at law):
+    
+    * **Right of access**. The right to access and obtain a copy of the personal information we have collected about you in the last 12 months.
+    * **Right to knowledge:** The right to request the following information from the last 12 months relating to the personal information we have collected about you:
+        * The categories and specific pieces of personal information we have collected about you;
+        * The categories of sources of the personal information;
+        * The purposes for collecting the personal information;
+        * The categories of third parties with whom we share the personal information; and
+        * The categories of personal information we have disclosed for a business purpose and the categories of recipients.
+    * **Right to deletion.** The right to request the deletion or erasure of personal information we have collected about you.
+    * **Right to opt out.** The right to direct us not to sell personal information we have collected about you to third parties now or in the future.
+    * **Right to opt in.** If you are under the age of 16: The right to authorize us, or have your parent or guardian authorize us, to sell personal information about you.
+    * **Non-discrimination.** The right to be free from discrimination for exercising any of the rights described above. Please note, however, that if the exercise of the rights described above limits our ability to process personal information (such as in the case of a deletion request), we may not be able to provide our services and offerings to individuals who exercise these rights, or to otherwise engage with such individuals going forward.
+31. **How to exercise your California-specific rights.**
+    * **To exercise your right to know or right to deletion.** To exercise your right to know and/or right to deletion, please submit a request by:
+        
+        * Emailing [DataProtectionTeam@Flexera.com](mailto:DataProtectionTeam@Flexera.com) with the subject line “California Rights Request,”; or
+        * Filling out our California Resident Rights Request Form.
+        
+        Before processing your request, we will need to verify your identity and confirm you are a resident of the State of California. In order to verify your identity, we will generally require you to (1) log into your account if you have one, or (2) require you to provide sufficient information to enable us to identify the information we maintain about you in our systems. This process may require us to request additional personal information from you, including, but not limited to your name, email, address, and/or date of last interaction with customer service. We will only use personal information provided in connection with a Consumer Rights Request to review and comply with the request.
+        
+        In certain circumstances, we may decline a request to exercise the rights described above, particularly where we are unable to verify your identity or locate your personal information in our systems. If we are unable to comply with all or a portion of your request, we will explain the reasons for declining to comply with the request.
+        
+        **Authorized Agents**
+        
+        In certain circumstances, you are permitted to use an authorized agent (as that term is defined by the CCPA) to submit requests on your behalf through the designated methods set forth in this CA Notice where we can verify the authorized agent’s authority to act on your behalf by:
+        
+        * For requests to know or delete personal information:
+            * receiving a power of attorney valid under the laws of California from you or your authorized agent; or
+            * receiving sufficient evidence to show that you have:
+                * provided the authorized agent signed permission to act on your behalf;
+                * verified your own identity directly with us pursuant to the instructions set forth in these Disclosures; and
+                * directly confirmed with us that you provided the authorized agent permission to submit the request on your behalf.
+        * For requests to opt-out of personal information “sales”: receiving a signed permission demonstrating your authorized agent has been authorized by you to act on your behalf.
+    * **To exercise your right to opt out of personal information sales**
+        
+        As noted above, we do not “sell” personal information as most people would typically understand that term. However, as is common practice among companies that operate online, we permit third party advertising networks, social media companies and other third party businesses to collect and disclose your personal information (including Internet/Network Information, Commercial Information, and Inferences) directly from your browser or device through cookies or tracking technologies when you visit or interact with our websites or engage with us online. These third parties use this information for the purposes of serving ads that are more relevant, for ad campaign measurement and analytics, and for fraud detection and reporting and they may sell that information to other businesses for advertising and other purposes. By visiting [www.privacyrights.info](https://www.privacyrights.info/) or [https://optout.privacyrights.info/](https://optout.privacyrights.info/?c=1), you can opt out from sales of this type of personal information by businesses that participate in the opt out tool. To make opt-out requests related to mobile apps on your device for businesses participating in the DAA’s CCPA App-based Opt-Out Tool, you can download the appropriate app at www.youradchoices.com/appchoices. To learn more about how third parties collect information automatically and the choices you may have in relation to those activities, please see “[How can you manage cookies from our Websites?](#cookies)” and “**Interest-based advertising**” in the “[How do we use cookies and other Tracking Technology?](#cookies)” section of our privacy notice.
+        
+32. **Minors under age 16.**
+    
+    We do not sell the personal information of consumers we know to be less than 16 years of age, unless we receive affirmative authorization (the "Right to Opt In") from either the minor who is between 13 and 16 years of age or the parent or guardian of a minor less than 13 years of age. Please contact us at [DataProtectionTeam@Flexera.com](mailto:DataProtectionTeam@Flexera.com) to inform us if you or your minor child are under the age of 16. 
+    
+33. **Additional information.**
+    
+    **Updates to This CA Notice**  
+    We will update this CA Notice from time to time. When we make changes to this CA Notice, we will change the "Last Updated" date at the beginning of this CA Notice. All changes shall be effective from the date of publication unless otherwise provided in the notification.
+    
+
+ [![Home](/themes/custom/flexera/images/logo.svg) ![Home](/themes/custom/flexera/components/10-atoms/icon/icon-home.svg)](https://www.flexera.com/)
+
+Breadcrumb
+----------
+
+1.  [](https://www.flexera.com/)
+2. [Legal](https://www.flexera.com/legal)  
+3. Privacy Notice  
+
+Footer Menu
+-----------
+
+* Products
+    * [SAASFlexera One](https://www.flexera.com/flexera-one)
+    * [IT Visibility](https://www.flexera.com/flexera-one/it-visibility)
+        * [Flexera oneIT Visibility](https://www.flexera.com/flexera-one/it-visibility)
+        * [Overview](https://www.flexera.com/flexera-one/it-visibility)
+        * [Application Rationalization](https://www.flexera.com/flexera-one/it-visibility/application-rationalization)
+        * [Business Service Mapping](https://www.flexera.com/flexera-one/it-visibility/business-service-mapping)
+        * [CMDB Data Quality](https://www.flexera.com/flexera-one/it-visibility/cmdb-data-quality)
+        * [Data Normalization](https://www.flexera.com/flexera-one/it-visibility/data-normalization)
+        * [End of Life / End of Support](https://www.flexera.com/flexera-one/it-visibility/end-of-support-end-of-life)
+        * [Integration to IT Business Systems](https://www.flexera.com/flexera-one/it-visibility/integration-to-it-business-systems)
+        * [SBOM Management](https://www.flexera.com/flexera-one/it-visibility/sbom-management)
+        * [Software Vulnerability](https://www.flexera.com/flexera-one/it-visibility/software-vulnerability-enrichment-pack)
+        * [Sustainable IT](https://www.flexera.com/flexera-one/it-visibility/sustainable-it)
+        * [Technopedia](https://www.flexera.com/products/technopedia)
+    * [IT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
+        * [Flexera OneIT Asset Management](https://www.flexera.com/flexera-one/it-asset-management)
+        * [Overview](https://www.flexera.com/flexera-one/it-asset-management)
+        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
+        * [Software Asset Management](https://www.flexera.com/flexera-one/it-asset-management/software-asset-management)
+        * [Hardware Asset Management](https://www.flexera.com/flexera-one/it-asset-management/hardware-asset-management)
+        * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
+        * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
+        * [Technopedia](https://www.flexera.com/products/technopedia)
+    * [FinOps](https://www.flexera.com/flexera-one/finops)
+        * [FinOps](https://www.flexera.com/flexera-one/finops)
+        * [Overview](https://www.flexera.com/flexera-one/finops)
+        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
+        * [SaaS Management](https://www.flexera.com/flexera-one/it-asset-management/saas-management)
+        * [Cloud Cost Optimization](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+    * [Cloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+        * [Flexera OneCloud Optimization and Migration](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+        * [Overview](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+        * [Cloud Cost Management](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-cost-management)
+        * [Cloud Governance](https://www.flexera.com/flexera-one/cloud-cost-optimization/cloud-governance)
+        * [Flexera OneCloud Migration and Modernization](https://www.flexera.com/flexera-one/cloud-migration-and-modernization)
+        * [Cloud Migration Planning](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-migration-planning)
+        * [Cloud Cost Assessment](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/cloud-cost-assessment)
+        * [Workload Placement](https://www.flexera.com/flexera-one/cloud-migration-and-modernization/workload-placement)
+* [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
+    * [Security](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
+    * [Software Vulnerability Manager](https://www.flexera.com/products/software-vulnerability-manager)
+    * [Software Vulnerability Research](https://www.flexera.com/products/software-vulnerability-research)
+    * [Secunia Research](https://www.flexera.com/products/software-vulnerability-research/secunia-research)
+    * [Application Readiness](https://www.flexera.com/products/adminstudio)
+        * [Application Readiness](https://www.flexera.com/products/adminstudio)
+        * [AdminStudio](https://www.flexera.com/products/adminstudio)
+    * [Additional Products](https://www.flexera.com/products)
+        * [Additional Products](https://www.flexera.com/products)
+        * [Overview](https://www.flexera.com/products)
+        * [App Portal / App Broker](https://www.flexera.com/products/app-broker-app-portal)
+        * [Cloud Management Platform](https://www.flexera.com/products/cloud-management-platform)
+        * [Data Platform](https://www.flexera.com/products/data-platform)
+        * [FlexNet Manager](https://www.flexera.com/products/flexnet-manager)
+    * Solutions
+        * Solutions
+        * [AWS Cloud Cost Optimization](https://www.flexera.com/flexera-one/solutions/vendor/aws)
+        * [Microsoft Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/microsoft)
+        * [Oracle Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/oracle)
+        * [SAP Spend Optimization](https://www.flexera.com/flexera-one/solutions/vendor/sap)
+        * [Flexera One Select for IBM](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-ibm)
+        * [Flexera One Select for Salesforce](https://www.flexera.com/flexera-one/it-asset-management/flexera-one-select-for-salesforce)
+        * [Public Sector](https://www.flexera.com/solutions/public-sector)
+* [Customer Success](https://www.flexera.com/customer-success)
+    * [Implementation](https://www.flexera.com/customer-success/implementation)
+    * [Training](https://www.flexera.com/customer-success/training)
+    * [Ascend with Flexera One](https://www.flexera.com/more/ascend-with-flexera-one)
+    * [Technology Intelligence Awards](https://www.flexera.com/customer-success/awards)
+    * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
+* [Resources](https://www.flexera.com/resources)
+    * [All Resources](https://www.flexera.com/resources)
     * [Blog](https://www.snowsoftware.com/blog/)
-    * [Case Studies](https://www.snowsoftware.com/case-studies/)
-    * [Events](https://www.snowsoftware.com/events/)
-    * [Guides and White Papers](https://www.snowsoftware.com/resources/)
+    * [Business Value Calculator](https://www.flexera.com/flexera-one/business-value-calculator)
+    * [Case Studies](https://www.flexera.com/resources/case-studies)
+    * [Datasheets](https://www.flexera.com/resources?type%5Bdatasheet%5D=datasheet)
+    * [Demos & Trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
+    * [Gartner® Analyst Research](https://www.flexera.com/resources/gartner-analyst-research)
+    * [Glossary](https://www.flexera.com/flexera-one/glossary)
+    * [Videos](https://www.flexera.com/resources?type%5Bvideo%5D=video)
+    * [Webinars](https://www.flexera.com/resources?type%5Bwebinar%5D=webinar)
+    * [Events](https://www.flexera.com/resources?type%5Bevent%5D=event)
+    * [White Papers & Reports](https://www.flexera.com/resources?type%5Bwhite-paper-industry-report%5D=white-paper-industry-report)
+* [About](https://www.flexera.com/about-us)
+    * [Technology Value Optimization](https://www.flexera.com/about-us/technology-value-optimization)
+    * [About](https://www.flexera.com/about-us)
+    * [Leadership](https://www.flexera.com/about-us/leadership)
+    * [Media / Press Center](https://www.flexera.com/about-us/press-center)
+    * [Partners](https://www.flexera.com/about-us/partners)
+    * [Environmental, Social and Governance](https://www.flexera.com/about-us/environmental-social-governance)
+    * [Careers](https://www.flexera.com/about-us/careers)
+    * [Diversity](https://www.flexera.com/about-us/diversity)
+    * [Contact Us](https://www.flexera.com/about-us/contact-us)
 
-* [About](#)
-    * [About Snow](https://www.snowsoftware.com/about-snow-software/)
-    * [Snow Leadership Team](https://www.snowsoftware.com/leadership/)
-    * [Press Center](https://www.snowsoftware.com/press-center/press-releases/)
-    * [Careers](https://www.snowsoftware.com/careers/)
+[+1.800.374.4353](tel:infoModel.phoneLink)
 
-* [Privacy Policy](https://www.snowsoftware.com/legal/privacy-policy/)
-* [Subscription Center](https://go.snowsoftware.com/subscription-center.html)
-* [Terms of Use](https://www.snowsoftware.com/legal/termsofuse/)
-* [Contact Us](https://www.snowsoftware.com/contact-us/)
-* [Legal](https://www.snowsoftware.com/legal/)
+[Contact Us](https://www.snowsoftware.com/about-us/contact-us)
 
-© Snow Software 2024
+[Flexera Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community) [Product Access](https://app.flexera.com/login) [Revenera](https://www.revenera.com/)
+
+en
+
+* [English](https://www.flexera.com/legal/privacy-policy)
+* [Deutsch](https://www.flexera.de/legal/privacy-policy)
+
+CONNECT WITH US
+
+[](https://www.linkedin.com/company/flexera/)[](https://twitter.com/flexera)[](https://www.youtube.com/user/FlexeraSoftware)[](https://www.instagram.com/weareflexera/)
+
+© 2024 Flexera. All Rights Reserved.
+
+Footer
+------
+
+* [Privacy Policy](https://www.flexera.com/legal/privacy-policy)
+* [Terms and conditions](https://www.flexera.com/legal)
+* [Contact Us](https://www.flexera.com/about-us/contact-us)
+* [Impressum](https://www.flexera.com/about-us/impressum)
+* [Site Map](https://www.flexera.com/sitemap)
+
+×
+
+...
