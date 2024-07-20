@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| All Summer LongKid Rock<br><br>5:55pm |
-| ChevroletDustin Lynch Ft Jelly Roll<br><br>5:52pm |
-| What IfsKane Brown Ft Lauren Alaina<br><br>5:49pm |
-| 23Chayce Beckham<br><br>5:45pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>5:42pm |
+| Good DirectionsBilly Currington<br><br>6:49am |
+| OutskirtsSam Hunt<br><br>6:46am |
+| I See YouLuke Bryan<br><br>6:39am |
+| Where The Wild Things AreLuke Combs<br><br>6:35am |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>6:32am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Sports • Midwest
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
