@@ -22,20 +22,23 @@
 
 * [Home](https://viewqwest.com/sg/residential/)
 * [Broadband](https://viewqwest.com/sg/residential/broadband/)
-    
-    * [Broadband Plans](https://viewqwest.com/sg/residential/broadband)
+    * [Our Network](#)
+        * [XGSPON Technology](https://viewqwest.com/sg/residential/xgspon/)
+    * Broadband Plans
+        * [XGSPON Plans](https://viewqwest.com/sg/residential/broadband/)
         * [1Gbps Plans](https://viewqwest.com/sg/residential/broadband/1gbps/)
         * [2.5Gbps Plans](https://viewqwest.com/sg/residential/broadband/2-5gbps/)
         * [No Contract Plan](https://viewqwest.com/sg/residential/broadband/no-contract/)
     * Lifestyle
         * [Entertainment](https://viewqwest.com/sg/residential/broadband/entertainment/)
         * [Gaming](https://viewqwest.com/sg/residential/broadband/gaming/)
+        * [Power Users](https://viewqwest.com/sg/residential/broadband/power-users/)
     * Value Added Services
         * [SecureNet at Home](https://viewqwest.com/sg/residential/securenet-at-home/)
         * [Freedom DNS](https://viewqwest.com/sg/residential/freedom-dns/)
         * [OneVoice](https://viewqwest.com/sg/residential/onevoice/)
 * [Promotions](#)
-    * [Broadband Promotions](https://viewqwest.com/sg/residential/broadband/)
+    * [Home Broadband Promos](https://viewqwest.com/sg/residential/broadband/)
     * [Referral Programme](https://viewqwest.com/sg/residential/referral)
     
 * [Newsroom](https://viewqwest.com/sg/residential/blog/)
@@ -48,7 +51,7 @@
     * [FAQs](https://viewqwest.com/sg/residential/faq/)
     * [Location](https://viewqwest.com/sg/residential/locations/)
 * [Contact Us](https://viewqwest.com/sg/residential/contact-us/)
-* [Sign Up Now](https://signup.viewqwest.com/broadband/?promo_code=FASTSECURE24)
+* [Sign Up Now](https://signup.viewqwest.com/broadband/?promo_code=VQXDEAL24)
 
 **Personal Data Protection Policy**
 
@@ -169,6 +172,12 @@ For questions regarding this Policy, please contact us below.
 * [For your Business](https://viewqwest.com/sg/corporate/sme/)
 * [For your Home](https://viewqwest.com/sg/residential/)
 
+### ViewQwest Network
+
+* [XGSPON Technology](https://viewqwest.com/sg/residential/xgspon/)
+
+* [XGSPON Technology](https://viewqwest.com/sg/residential/xgspon/)
+
 ### Services for Enterprise
 
 * [SASE and SD-WAN](https://viewqwest.com/sg/corporate/sase-and-sd-wan)
@@ -191,17 +200,15 @@ For questions regarding this Policy, please contact us below.
 
 ### Services for your Home
 
-* [Our Network Advantage](https://viewqwest.com/sg/residential/network/)
-* [Home Fibre Broadband](https://viewqwest.com/sg/residential/broadband)
+* [XGSPON Broadband](https://viewqwest.com/sg/residential/broadband)
 * [SecureNet at Home](https://viewqwest.com/sg/residential/securenet-at-home/)
-* [Referral Program](https://viewqwest.com/sg/residential/referral)
+* [Referral Programme](https://viewqwest.com/sg/residential/referral/)
 * [Check your WiFi Health](https://viewqwest.com/sg/residential/wifi-self-help/)
 * [E-Store](https://e-store.viewqwest.com/)
 
-* [Our Network Advantage](https://viewqwest.com/sg/residential/network/)
-* [Home Fibre Broadband](https://viewqwest.com/sg/residential/broadband)
+* [XGSPON Broadband](https://viewqwest.com/sg/residential/broadband)
 * [SecureNet at Home](https://viewqwest.com/sg/residential/securenet-at-home/)
-* [Referral Program](https://viewqwest.com/sg/residential/referral)
+* [Referral Programme](https://viewqwest.com/sg/residential/referral/)
 * [Check your WiFi Health](https://viewqwest.com/sg/residential/wifi-self-help/)
 * [E-Store](https://e-store.viewqwest.com/)
 
