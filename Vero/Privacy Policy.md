@@ -19,9 +19,9 @@ Scroll
 Privacy Policy
 --------------
 
-Revised: June 30, 2024
+[Previous version](https://vero.co/privacy-policy-archive)
 
-We recently updated our Privacy Policy. For new users, this updated Privacy Policy applies to you as of today. For existing users, the updated Privacy Policy is effective as of the “Revised” date set out above. To see the prior version of this document, go [here](https://vero.co/privacy-policy-archive).
+Effective Date: June 30, 2024
 
 Welcome to VERO, the online and mobile social networking service of VERO Labs, Inc. (“VERO,” “we,” or “us”).
 
