@@ -64,7 +64,7 @@ Search
 
 Account
 
-DashboardExpiring SoonDomain ListHosting ListPrivate EmailSSL Certificates[Subscriptions](https://www.namecheap.com/apps/subscriptions)Profile
+DashboardExpiring SoonDomain ListHosting ListPrivate EmailSSL Certificates[Subscriptions](https://www.namecheap.com/apps/subscriptions)My OffersProfile
 
 [Visual](https://www.namecheap.com/visual/)→[Font Maker](https://www.namecheap.com/visual/font-generator)
 
@@ -171,7 +171,7 @@ You can use characters generated with Font Maker pretty much everywhere online, 
 
 Need help? We're always here for you.
 
-[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=/general/)
+[Go to Live Chat page](https://www.namecheap.com/help-center/live-chat?loc=)
 
 ![Ukraine flag](https://static.nc-img.com/uilayout2/34735a65a0c63bd007fa4c32f67dab4c.svg)We ❤️ Ukraine. Namecheap is a US based registrar. Many of our colleagues originate from or are located within Ukraine. To support Ukraine in their time of need visit this [page](https://war.ukraine.ua/support-ukraine/).
 
