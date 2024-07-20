@@ -4,7 +4,7 @@ TURBO VPN
 
 * [Pricing](https://turbovpn.com/pricing)
 * [Why TurboVPN?](https://turbovpn.com/features)
-    * About Turbo VPN [Servers in 111 countries](https://turbovpn.com/vpn-server) [No User Tracking](https://turbovpn.com/features/no-logs) [Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing) [Benefits](https://turbovpn.com/vpn-benefits) [Fastest VPN](https://turbovpn.com/features/turbo-speed)
+    * About Turbo VPN [Servers in 111 countries](https://turbovpn.com/vpn-server) [No User Tracking](https://turbovpn.com/features/no-logs) [Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing) [Benefits](https://turbovpn.com/vpn-benefits) [Fastest VPN](https://turbovpn.com/features/turbo-speed) [Vpn For Country](https://turbovpn.com/vpn-for-country)
     * Features [Kill Switch](https://turbovpn.com/features/automatic-kill-switch) [Split Tunneling](https://turbovpn.com/features/spilt-tunneling) [Wi-Fi Protection](https://turbovpn.com/features/wifi-protection) [Private DNS](https://turbovpn.com/features/private-dns) [AES-256 Encryption](https://turbovpn.com/features/encryption) [All Features](https://turbovpn.com/features)
 * [What is a VPN?](https://turbovpn.com/what-is-vpn)
 * [Download VPN](https://turbovpn.com/download)
@@ -45,7 +45,7 @@ Choose Language
 
 [Why TurboVPN?](https://turbovpn.com/features)
 
-[Servers in 111 countries](https://turbovpn.com/vpn-server)[No User Tracking](https://turbovpn.com/features/no-logs)[Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing)[Benefits](https://turbovpn.com/vpn-benefits)[Fastest VPN](https://turbovpn.com/features/turbo-speed)[Kill Switch](https://turbovpn.com/features/automatic-kill-switch)[Split Tunneling](https://turbovpn.com/features/spilt-tunneling)[Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)[Private DNS](https://turbovpn.com/features/private-dns)[AES-256 Encryption](https://turbovpn.com/features/encryption)[All Features](https://turbovpn.com/features)
+[Servers in 111 countries](https://turbovpn.com/vpn-server)[No User Tracking](https://turbovpn.com/features/no-logs)[Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing)[Benefits](https://turbovpn.com/vpn-benefits)[Fastest VPN](https://turbovpn.com/features/turbo-speed)[Vpn For Country](https://turbovpn.com/vpn-for-country)[Kill Switch](https://turbovpn.com/features/automatic-kill-switch)[Split Tunneling](https://turbovpn.com/features/spilt-tunneling)[Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)[Private DNS](https://turbovpn.com/features/private-dns)[AES-256 Encryption](https://turbovpn.com/features/encryption)[All Features](https://turbovpn.com/features)
 
 [What is a VPN?](https://turbovpn.com/what-is-vpn)
 
@@ -227,10 +227,12 @@ Features
 * [Private DNS](https://turbovpn.com/features/private-dns)
 * [AES-256 Encryption](https://turbovpn.com/features/encryption)
 * [Internet Access](https://turbovpn.com/InternetAccess)
+* [Vpn For Country](https://turbovpn.com/vpn-for-country)
 
 Turbo VPN
 
-* [What is a VPN](https://turbovpn.com/what-is-vpn)
+* [What Is a VPN](https://turbovpn.com/what-is-vpn)
+* [What Is My IP](https://turbovpn.com/what-is-my-ip)
 * [Free VPN](https://turbovpn.com/free-vpn)
 * [Fastest VPN](https://turbovpn.com/features/turbo-speed)
 * [Benefits](https://turbovpn.com/vpn-benefits)
@@ -243,7 +245,7 @@ Support
 
 * [FAQ](https://support.turbovpn.com/hc/en-sg)
 * [Contact Us](https://support.turbovpn.com/hc/en-sg/requests/new)
-* [About us](https://turbovpn.com/aboutus)
+* [About Us](https://turbovpn.com/aboutus)
 
 Follow us
 
@@ -253,14 +255,14 @@ Follow us
 * [YouTube](https://www.youtube.com/channel/UCVzyAY3lLo4do613UV8SixQ)
 * [VK](https://vk.com/turbovpnfree)
 * [Discord](https://discord.gg/ErQ5WVZw6c)
-* [TikTok](https://www.tiktok.com/@turbo_vpn_official)
+* [TikTok](https://bit.ly/3L7Pvrl)
 
 And More
 
 * [Blog](https://turbovpn.com/blog)
 * [Press](https://turbovpn.com/press-room)
 * [Gift Card](https://turbovpn.com/gift-card)
-* [Privacy policy](https://turbovpn.com/policy)
+* [Privacy Policy](https://turbovpn.com/policy)
 * [Terms of Service](https://turbovpn.com/terms-of-service)
 
 ![log-white](https://d1tc6kwolctbp4.cloudfront.net/web/images/log-white.png?format=auto)
