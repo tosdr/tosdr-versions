@@ -215,7 +215,7 @@ If you have any questions about this Privacy Policy, or would like to exercise a
 
 Title or Role: **Privacy Manager**
 
-E-Mail: [gdpr@toodledo.com](mailto:gdpr@toodledo.com)
+E-Mail: [\[email protected\]](http://www.toodledo.com/cdn-cgi/l/email-protection)
 
 Phone Number: +1 (786) 625-5350
 
