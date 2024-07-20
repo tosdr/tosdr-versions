@@ -1,4 +1,4 @@
-[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83880)![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_white.svg?v=y83880)](https://www.site123.com/)
+[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83990)![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_white.svg?v=y83990)](https://www.site123.com/)
 
 * [Homepage](https://www.site123.com/)
 * [Pricing](https://www.site123.com/pricing)
@@ -8,9 +8,9 @@
 * 
 * |
 * [Login](https://app.site123.com/manager/login/login.php?l=en)
-* [Start Here](https://app.site123.com/manager/login/sign_up.php?l=en)
+* [START HERE](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-![logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83880)
+![logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83990)
 
 * [Homepage](https://www.site123.com/)
 * [Pricing](https://www.site123.com/pricing)
@@ -18,13 +18,13 @@
 * [Support](https://www.site123.com/support)
 * 
 
-[Login](https://app.site123.com/manager/login/login.php?l=en) [Start Here](https://app.site123.com/manager/login/sign_up.php?l=en)
+[Login](https://app.site123.com/manager/login/login.php?l=en) [START HERE](https://app.site123.com/manager/login/sign_up.php?l=en)
 
 SITE123 Terms Of Use
 ====================
 
-Effective Date: May 24, 2018
-----------------------------
+Effective Date: July 11, 2024
+-----------------------------
 
 **1\. Entities and Terminology**
 ================================
@@ -76,7 +76,7 @@ While we value our communication with you, we respect your privacy. Should you w
 
 ### **2.3 Privacy Policy Acknowledgment**
 
-As part of using our Services, you recognize that you have reviewed and understood our Privacy Policy, accessible on our platform and in this link [www.site123.com/privacy](https://www.site123.com/privacy)  
+As part of using our Services, you recognize that you have reviewed and understood our Privacy Policy, accessible on our platform and in this link [www.site123.com/privacy](https://www.site123.com/privacy)  
   
   
 
@@ -274,7 +274,7 @@ To ensure uninterrupted service continuity, certain Paid Services provided by us
 
 We will make efforts to automatically charge the associated Fees approximately two weeks before the renewal window. If any complications arise during the Fee collection process, we hold the discretion to attempt collection at a later time or to temporarily suspend or terminate your User Account.
 
-By consenting to these Terms of Use and procuring a Renewing Paid Service, you acknowledge and accept the outlined automatic renewal procedure. If you decide to opt out of the auto-renewal feature for Renewing Paid Services, this modification can be made at your convenience through your User Account.
+By consenting to these Terms of Use and procuring a Renewing Paid Service, you acknowledge and accept the outlined automatic renewal procedure. If you decide to opt out of the auto-renewal feature for Renewing Paid Services, this modification can be made at your convenience through your User Account. To avoid auto-renewal, you must disable the auto-renewal at least two weeks before the end of the package since this is when the auto-renewal process starts. Once the auto-renewal process occurs, the new period is valid, and no refunds will be given.
 
 In relation to the aforementioned, it is important to note that you are fully responsible for ensuring the successful renewal of the services you utilize. This responsibility applies irrespective of whether such services are subject to automatic subscription renewals. This includes verifying and ensuring the proper continuation of your services following the initial subscription period.
 
@@ -304,7 +304,7 @@ It's important to note that while the Invoice accessible within your User Accoun
 
 ### **10.8 Refunds**
 
-A 14-day money-back policy exists after the initial purchase of a new website package (free to premium) for a 3-month package or more. This policy does not extend to monthly website packages (if and when offered), website renewal payments, or upgrades between packages, domains, or email accounts, whether they were initiated manually or automatically. Additionally, it's important to be aware that long-term prepaid services do not qualify for proportional refunds in case of discontinuation.
+A 14-day money-back policy exists after the initial purchase of a new website package (free to premium) for a 3-month package or more. This policy does not extend to monthly website packages (if and when offered), website renewal payments, or upgrades between packages, domains, design packages, or email accounts, whether they were initiated manually or automatically. Additionally, it's important to be aware that long-term prepaid services do not qualify for proportional refunds in case of discontinuation.
 
 Following the conclusion of the Money-Back Policy Period (also known as the "Refund Period"), the Fees remitted by you shall become non-refundable and cannot be canceled. In situations where, contrary to our money-back policy, we choose in our sole discretion, to authorize a refund, the decision to impose and subtract a cancellation fee from the reimbursed amount will rest solely with us. The precise cost of this cancellation fee will be determined by us, and you hereby acknowledge and consent that you will not raise any objections in this regard.
 
@@ -507,7 +507,7 @@ You, as the user, are strictly prohibited from utilizing the content for any con
 
 Certain fonts displayed within the system are sourced from Google Fonts. The utilization of these fonts adheres to Google Fonts' terms of use. Consequently, any modifications or amendments made by Google to their policies and terms of use may prompt adjustments on the Provider's end, which could even involve discontinuing the utilization of these fonts. In such scenarios, the client retains no entitlement to claims or requests directed toward the Provider. 
 
-Moreover, it's the client's responsibility to verify the licensing requirements for each font. The terms governing the use of Google Fonts are accessible via the following link: [https://developers.google.com/fonts/terms](https://developers.google.com/fonts/terms)  
+Moreover, it's the client's responsibility to verify the licensing requirements for each font. The terms governing the use of Google Fonts are accessible via the following link: [https://developers.google.com/fonts/terms](https://developers.google.com/fonts/terms)  
   
 
 #### **14.3.2 Utilization of External Fonts**
@@ -647,7 +647,7 @@ While affiliates are encouraged to kick-start their roles promptly, it's essenti
 
 #### **17.2.3 Communication and Support**
 
-Upon successful registration, affiliates consent to receive relevant communications from us. These communications encompass essential updates, guidelines, and other notifications vital for seamless participation. Our dedicated affiliate team stands ready to assist and answer any queries. They can be reached at [affiliates@site123.com](mailto:affiliates@site123.com).  
+Upon successful registration, affiliates consent to receive relevant communications from us. These communications encompass essential updates, guidelines, and other notifications vital for seamless participation. Our dedicated affiliate team stands ready to assist and answer any queries. They can be reached at [affiliates@site123.com](mailto:affiliates@site123.com).  
   
 
 #### **17.2.4 Maintaining Accurate Information**
@@ -972,7 +972,7 @@ This agreement is fundamentally bound by the laws of the State of Israel. This e
 
 Don't wait any longer, create your website today! [Create a website](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83880)](https://www.site123.com/)
+[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83990)](https://www.site123.com/)
 
 SITE123: built differently, built better.
 
@@ -1037,6 +1037,6 @@ Copyright © 2024 All rights reserved - SITE123
 Close [Yes! I want to try](https://app.site123.com/manager/login/sign_up.php?l=en)
 
 ![](https://cdn-cms-s.f-static.net/files/vendor/flag-icons-main/flags/4x3/gb.svg)  
-More than 2334 SITE123 websites created in GB today!
+More than 1895 SITE123 websites created in GB today!
 
      ![](https://www.facebook.com/tr?id=1074611005929279&ev=PageView&noscript=1)![](https://px.ads.linkedin.com/collect/?pid=32899&fmt=gif)![](https://q.quora.com/_/ad/c8f86d2183d6400d8288bbf9f7d9e950/pixel?tag=ViewContent&noscript=1)![](/include/pix_manage.php)
