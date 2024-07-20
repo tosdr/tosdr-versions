@@ -5,7 +5,9 @@ digital security tools and tactics
 Expand navigation
 
 * [Passwords](#)
-    * [Create and maintain strong passwords](https://securityinabox.org/en/passwords/passwords-and-2fa)
+    * [Create and maintain strong passwords](https://securityinabox.org/en/passwords/passwords)
+    * [Manage your passwords safely](https://securityinabox.org/en/passwords/password-managers)
+    * [Use two-factor authentication](https://securityinabox.org/en/passwords/2fa)
     * [Related Tools](https://securityinabox.org/en/passwords/tools)
 
 * [Communication](#)
@@ -30,8 +32,9 @@ Expand navigation
 
 * [Files](#)
     * [Protect your sensitive information](https://securityinabox.org/en/files/secure-file-storage)
-    * [Backup and recover from information loss](https://securityinabox.org/en/files/backup)
+    * [Back up and recover from information loss](https://securityinabox.org/en/files/backup)
     * [Destroy sensitive information](https://securityinabox.org/en/files/destroy-sensitive-information)
+    * [Destroy identifying information](https://securityinabox.org/en/files/destroy-identifying-information)
     * [Related Tools](https://securityinabox.org/en/files/tools)
 
 * [About](#)
@@ -39,20 +42,18 @@ Expand navigation
     * [How does Security in a Box work?](https://securityinabox.org/en/about/how)
 
 * [English](#)
-    * [العربية](https://securityinabox.org/ar)
-    * [Tibetan](https://securityinabox.org/bo)
-    * [English](https://securityinabox.org/en)
-    * [Español](https://securityinabox.org/es)
-    * [فارسی](https://securityinabox.org/fa)
-    * [Français](https://securityinabox.org/fr)
-    * [Bahasa](https://securityinabox.org/id)
-    * [Burmese](https://securityinabox.org/my)
-    * [Português](https://securityinabox.org/pt)
-    * [Русский](https://securityinabox.org/ru)
-    * [Türkçe](https://securityinabox.org/tr)
-    * [Tiếng Việt](https://securityinabox.org/vi)
-    * [简体中文](https://securityinabox.org/zh)
-    * [繁體中文](https://securityinabox.org/zh_hk)
+    * [العربية](https://securityinabox.org/ar/data-use-policy)
+    * [English](https://securityinabox.org/en/data-use-policy)
+    * [Español](https://securityinabox.org/es/data-use-policy)
+    * [فارسی](https://securityinabox.org/fa/data-use-policy)
+    * [Français](https://securityinabox.org/fr/data-use-policy)
+    * [Bahasa](https://securityinabox.org/id/data-use-policy)
+    * [မြန်မာဘာသာ](https://securityinabox.org/my/data-use-policy)
+    * [Português](https://securityinabox.org/pt/data-use-policy)
+    * [Русский](https://securityinabox.org/ru/data-use-policy)
+    * [Türkçe](https://securityinabox.org/tr/data-use-policy)
+    * [Tiếng Việt](https://securityinabox.org/vi/data-use-policy)
+    * [简体中文](https://securityinabox.org/zh/data-use-policy)
 
 Data use policy
 ===============
@@ -96,7 +97,7 @@ We do this to better understand how people use the site and so that we can fix p
 
 We may collect statistics about the behaviour of visitors to the Security-in-a-Box. For instance, Security-in-a-Box may reveal how many visitors navigate from one page to another within the toolkit. We do this so that we can figure out how we can improve the toolkit and develop content that better suits your needs.
 
-We collect this information using [open source analytics software](https://matomo.org/) that we host ourselves. This means that even the people who wrote the software do not see any of your information. This is done through a combination of server logs, javascript, and cookies. We need the server logs to protect this site and our servers, but you can block javascript using [NoScript](https://noscript.net/) and turn off or delete cookies and the site will continue to work correctly. We do not partner with third parties to collect this information, nor do we share information with third parties, with the exception of the release of non-personally-identifying information in formats described above.
+We collect this information using [open-source analytics software](https://matomo.org/) that we host ourselves. This means that even the people who wrote the software do not see any of your information. This is done through a combination of server logs, javascript, and cookies. We need the server logs to protect this site and our servers, but you can block javascript using [NoScript](https://noscript.net/) and turn off or delete cookies and the site will continue to work correctly. We do not partner with third parties to collect this information, nor do we share information with third parties, with the exception of the release of non-personally-identifying information in formats described above.
 
 ### I am using a VPN
 
