@@ -187,7 +187,7 @@ FOLLOW TIZEN
 
 Tizen is a registered trademark of The Linux Foundation. \* Other names and brands may be claimed as the property of others.
 
-Except as noted, this content is licensed under Creative Commons Attribution 3.0. For details, see the [Content License.](https://www.tizen.org/content-license) | [Privacy Policy](https://www.linuxfoundation.org/legal/privacy-policy)
+Except as noted, this content is licensed under Creative Commons Attribution 3.0. For details, see the [Content License.](https://www.tizen.org/content-license) | [Privacy Policy](https://www.linuxfoundation.org/legal/privacy-policy) | [Privacy Policy Addendum](https://www.tizen.org/privacy-policy-addendum)
 
 * [Trademarks](http://www.linuxfoundation.org/about/linux-foundation-trademark-usage-guidelines "Trademarks")
 
