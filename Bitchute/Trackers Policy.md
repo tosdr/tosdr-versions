@@ -95,7 +95,7 @@ Most web browsers allow some control of most cookies through the browser setting
 
 #### Was this article helpful?
 
-[4090](#) [4430](#)
+[4098](#) [4479](#)
 
 #### Related Questions:
 
