@@ -1,67 +1,48 @@
-![pic](https://sa1s3optim.patientpop.com/50x/filters:format(webp)/sc-assets/prd/practices/e064c7c1-2338-44af-8264-f6ff396982b4/gLXR40ENcjE5ebKwK-nAAWixgBqImv6lMZLOf0xEbmyrfGMWaTnaFVj1uAqBdLJUuI8AamTxftpmn_hOch7Q21A05zKksXBU.png)
+[Skip to content](#content)
 
-* [Home](https://www.zeamhealth.com/)
-* [About](https://www.zeamhealth.com/about)
-* [Meet Our Team](https://www.zeamhealth.com/providers)
-    * [Yusuf Hanif, MD](https://www.zeamhealth.com/provider/yusuf-hanif-md)
-    * [Sarah Kiani, MD](https://www.zeamhealth.com/provider/sarah-kiani-md)
-    * [David Linder, MD](https://www.zeamhealth.com/provider/david-linder-md)
-    * [Nnaemeka "Emeka" Anosike, NP](https://www.zeamhealth.com/provider/nnaemeka-emeka-anosike-np)
-    * [Kathleen Andrews, FNP](https://www.zeamhealth.com/provider/kathleen-andrews-fnp)
-    * [Eloisa Smith, LMFT](https://www.zeamhealth.com/provider/eloisa-smith-lmft)
-    * [Kenneth Jones, LMFT](https://www.zeamhealth.com/provider/kenneth-jones-lmft)
-    * [Jason Jamera, PMHNP](https://www.zeamhealth.com/provider/jason-jamera-pmhnp)
-    * [Renae Linder, LCSW](https://www.zeamhealth.com/provider/renae-linder-lcsw)
-    * [James Jung,](https://www.zeamhealth.com/provider/james-jung)
-    * [Jennilyn Banal , PMHNP](https://www.zeamhealth.com/provider/jennilyn-banal-pmhnp)
-* Aesthetics
-    * [ACNE](https://www.zeamhealth.com/service/acne)
-    * [Chemical Peels](https://www.zeamhealth.com/service/chemical-peels)
-    * [Dermal Fillers](https://www.zeamhealth.com/service/dermal-fillers)
-    * [Microneedling](https://www.zeamhealth.com/service/microneedling)
-    * [Botox](https://www.zeamhealth.com/service/botox)
-    * [Skincare](https://www.zeamhealth.com/service/skincare)
-    * PRP
-* [Primary Care](https://www.zeamhealth.com/contents/primary-care-2)
-    * [Chronic Disease Management](https://www.zeamhealth.com/service/chronic-disease-management)
-    * [Diabetes](https://www.zeamhealth.com/service/diabetes)
-    * [Hormone Replacement Therapy](https://www.zeamhealth.com/service/hormone-replacement-therapy)
-    * [Preventative Care](https://www.zeamhealth.com/service/preventative-care)
-    * [Primary Care](https://www.zeamhealth.com/service/primary-care)
-    * [Urgent Care](https://www.zeamhealth.com/service/urgent-care)
-    * [Weight Loss Management](https://www.zeamhealth.com/service/weight-loss-management)
-    * [Women's Health](https://www.zeamhealth.com/service/women's-health)
-* Psychiatry
-    * [ADHD](https://www.zeamhealth.com/service/adhd)
-    * [Anxiety Disorders](https://www.zeamhealth.com/service/anxiety-disorders)
-    * [Bipolar Disorders](https://www.zeamhealth.com/service/bipolar-disorders)
-    * [Depression](https://www.zeamhealth.com/service/depression)
-    * [Ketamine](https://www.zeamhealth.com/service/ketamine)
-    * [PTSD](https://www.zeamhealth.com/service/ptsd)
-    * [Psychiatry](https://www.zeamhealth.com/service/psychiatry)
-    * [Schizophrenia](https://www.zeamhealth.com/service/schizophrenia)
-    * [Therapy](https://www.zeamhealth.com/service/therapy)
+[Patient Portal](https://pp-wfe-102.advancedmd.com/150204/account/logon)
+
+Request an Appointment
+
+[![zeam health and wellness, primary care, mental heatlh, aesthetics](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
+
+* [About](https://www.zeamhealth.com/about/)
+    * [Mental Health Team](https://www.zeamhealth.com/mental-health-team/)
+    * [Primary Care Team](https://www.zeamhealth.com/primary-care-team/)
+    * [Aesthetics Team](https://www.zeamhealth.com/aesthetics-team/)
+* Services
+    
+    * [Mental Health](https://www.zeamhealth.com/mental-health/)
+    * [Primary Care](https://www.zeamhealth.com/primary-care/)
+    * [Aesthetics](https://www.zeamhealth.com/aesthetics/)
 * Patient Resources
-    * [Insurances & FInancing](https://www.zeamhealth.com/insurance-financing)
-    * [Membership Program](https://www.zeamhealth.com/membership-program)
-* [Testimonials](https://www.zeamhealth.com/testimonials)
-* [Blog](https://www.zeamhealth.com/blog)
-* [Contact Us](https://www.zeamhealth.com/contact-us)
+    
+    * [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
+    * [Insurance & Financing](https://www.zeamhealth.com/insurances-financing/)
+    * [Membership Program](https://www.zeamhealth.com/membership-program/)
+* Locations
+    
+    * [Sacramento](https://www.zeamhealth.com/locations/sacramento/)
+    * [Roseville](https://www.zeamhealth.com/locations/roseville/)
+    * [Folsom](https://www.zeamhealth.com/locations/folsom/)
+* [Contact Us](https://www.zeamhealth.com/contact-us/)
 
-[Call Us](https://www.zeamhealth.com/contact-us)[Request an Appointment](javascript:triggerCustomEvent("cf71d8c8-a71f-430b-9f06-b51ca518e411", "{}"))[Patient Portal](https://patientportal.advancedmd.com/150204/account/logon)
+[Patient Portal](https://pp-wfe-102.advancedmd.com/150204/account/logon)
+
+Request an Appointment
 
 Privacy Policy
 ==============
 
-* * *
+This Privacy Policy governs the manner in which we collect, use, maintain, and disclose information collected from users (each, a “User”). This privacy policy applies to the Site and all products and services offered by Zeam Medical and Aesthetics.
 
-PRIVACY STATEMENT
------------------
+![Privacy Policy](https://www.zeamhealth.com/wp-content/uploads/2024/05/Privacy-Policy.jpg)
 
-We are committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to our Practice's Web site and governs data collection and usage. By using this website, you consent to the data practices described in this statement.
+##### Privacy Statement
 
-Collection of your Personal Information
----------------------------------------
+We are committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to our Practice’s Web site and governs data collection and usage. By using this website, you consent to the data practices described in this statement.
+
+##### Collection of your Personal Information
 
 This Practice collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. This Practice also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
@@ -71,8 +52,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 This Practice encourages you to review the privacy statements of Web sites you choose to link to from the website so that you can understand how those Web sites collect, use and share your information. This Practice is not responsible for the privacy statements or other content on any other Web sites.
 
-Use of your Personal Information
---------------------------------
+##### Use of your Personal Information
 
 This Practice collects and uses your personal information to operate the Web site and deliver the services you have requested. This Practice also uses your personally identifiable information to inform you of other products or services available from this Practice and its affiliates. This Practice may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -82,10 +62,9 @@ This Practice does not use or disclose sensitive personal information, such as r
 
 This Practice will disclose your personal information, without notice, only if required to do so by law.
 
-Use of Cookies
---------------
+##### Use of Cookies
 
-The Web site uses "cookies" to help this Practice personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Web site uses “cookies” to help this Practice personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 Security of your Personal Information
 -------------------------------------
@@ -100,19 +79,153 @@ This Practice will occasionally update this Statement of Privacy to reflect comp
 Contact Information
 -------------------
 
-Please contact us by phone at 916-461-8639 or by mail at 508 Gibson Dr, Suite 150-160, Roseville, CA 95678.
+Please contact us by phone at [916-461-8639](tel:9164618639) or by mail at 508 Gibson Dr, Suite 150-160, Roseville, CA 95678.
 
-![pic](https://sa1s3optim.patientpop.com/50x/filters:format(webp)/sc-assets/prd/practices/e064c7c1-2338-44af-8264-f6ff396982b4/4zkWts8H3-TBufqDZEL51LX757tDIO-m9iXg-i-mhzgZjAIC4_Vjof8fkr9aGnQrNfnkIhCmydUf4YqP0ySlmrkoxT6Le3s.png)
+### Ready to Embark on a Journey Toward Better Health?
 
-[✆ Phone (appointments): 916-461-8639
+Connect with us at Zeam Health & Wellness. Whether you need detailed information or want to schedule an appointment, our dedicated team is here to assist you every step of the way.
 
-Address: 508 Gibson Dr, Suite 150-160, Roseville, CA 95678](tel:916-461-8639)
+[Contact Us](https://www.zeamhealth.com/contact-us/)
 
-[Facebook icon](https://www.facebook.com/Zeammedicalgroup)[Instagram icon](https://www.instagram.com/zeam_aesthetics/)
+###### For more information or to schedule an appointment, feel free to contact us directly.
 
-* [Privacy](https://www.zeamhealth.com/your-privacy)
-* [Terms & Conditions](https://www.zeamhealth.com/our-terms)
-* [Accessibility](https://www.zeamhealth.com/accessibility-statement)
-* [Contact Us](https://www.zeamhealth.com/contact-us)
+[Text us](sms:%20+19164714494)
 
-Medical Websites Powered by [TEBRA](https://www.tebra.com/marketing/practice-websites/)
+[![zeam health and wellness, primary care, mental heatlh, aesthetics](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
+
+Discover our holistic approach to wellness. Visit us, follow our journey, or reach out for expert care
+
+### [Sacramento](https://www.zeamhealth.com/locations/sacramento/)
+
+* Psychiatry & Therapy Services
+* 1451 River Park Dr. Ste 100  
+    Sacramento, CA 95815
+* [(916) 292-9700](tel:+19162929700)
+
+### [Folsom](https://www.zeamhealth.com/locations/folsom/)
+
+* Psychiatry, Therapy & Primary Care
+* 193 Blue Ravine Rd, Ste 170A  
+    Folsom, CA 95630
+* [(916) 608-0714](tel:+19166080714)
+
+### [Roseville](https://www.zeamhealth.com/locations/roseville/)
+
+* Psychiatry, Therapy, Primary Care & Aesthetics
+* 508 Gibson Dr. Ste 150-160  
+    Roseville, CA 95678
+* [(916) 865-3670](tel:+19168653670)
+
+### Other Links
+
+* [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/)
+* [Terms & Conditions](https://www.zeamhealth.com/our-terms/)
+* [Accessibility Notice](https://www.zeamhealth.com/accessibility-notice/)
+* [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
+* [Insurance & Financing](https://www.zeamhealth.com/insurances-financing/)
+* [Contact Us](https://www.zeamhealth.com/contact-us/)
+
+* [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/)
+* [Terms & Conditions](https://www.zeamhealth.com/our-terms/)
+* [Accessibility Notice](https://www.zeamhealth.com/accessibility-notice/)
+* [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
+* [Insurance & Financing](https://www.zeamhealth.com/insurances-financing/)
+* [Contact Us](https://www.zeamhealth.com/contact-us/)
+
+Appointment Request Form
+------------------------
+
+            
+
+Are you a new or returning patient?  
+NewReturning
+
+First Name  
+
+Last Name  
+
+Email  
+
+Phone  
+
+Date of Birth  
+
+Are you the patient?  
+YesNo
+
+Sex  
+MaleFemaleOther
+
+Reason (optional)  
+
+Insurance carrier and plan name  
+
+Insurance member id #  
+
+Insurance group id #  
+
+Additional notes for the office:  
+
+  
+1  
+I have read and agreed to the [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/) and [Terms of Use](https://www.zeamhealth.com/our-terms/) and I am at least 13 and have the authority to make this appointment.  
+
+I agree to receive text messages from this practice and understand that message frequency and data rates may apply.
+
+* * *
+
+PLEASE NOTE: This is an appointment request only. The office will reach out to you to confirm the appointment date and time. If this is an emergency, please call the office.
+
+* * *
+
+Appointment Request
+-------------------
+
+            
+
+Are you a new or returning patient?  
+NewReturning
+
+First Name  
+
+Last Name  
+
+Email  
+
+Phone  
+
+Date of Birth  
+
+Are you the patient?  
+YesNo
+
+Sex  
+MaleFemaleOther
+
+Reason (optional)  
+
+  
+1  
+I have read and agreed to the [Privacy Policy](https://www.zeamhealth.com/your-privacy) and [Terms of Use](https://www.zeamhealth.com/our-terms) and I am at least 13 and have the authority to make this appointment.  
+
+I agree to receive text messages from this practice and understand that message frequency and data rates may apply.
+
+* * *
+
+PLEASE NOTE: This is an appointment request only. The office will reach out to you to confirm the appointment date and time. If this is an emergency, please call the office.
+
+* * *
+
+Insurance carrier and plan name  
+
+Insurance member id #  
+
+Insurance group id #  
+
+Additional notes for the office:  
+
+* * *
+
+PLEASE NOTE: This is an appointment request only. The office will reach out to you to confirm the appointment date and time. If this is an emergency, please call the office.
+
+* * *
