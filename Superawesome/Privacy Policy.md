@@ -57,9 +57,9 @@
 AwesomeAds Marketplace Privacy Policy
 =====================================
 
-Last updated: 24 April 2023
+Last updated: 11 July 2024
 
-![https://lh3.googleusercontent.com/OYpZY_Q5C7R9C-kyfGQsd_7exWaXcQycKz8TxY3fIFJFFbRG938XiZuV_0aguD3EpkjJlxWN0QQCAYyhXzZ6AK0GphxCkzfCGPYoYsD7gIzJzerbznWYz35Otz7Gfko_c_LnFNux](https://lh3.googleusercontent.com/dnfAy9JLPKgfXFiUC-T9hGC0PMII0__hjsQUx-rvbdjjYNEDKPp3298OodagbfWXDzOtk6VF7to2g2bDT2kvTvVZJcYnrGH_IEFck1VIxi8Sb9PGWjVO8-zEt6wsOsyCnjXDkEg)
+![](https://www.superawesome.com/wp-content/uploads/2020/08/AwesomeAds_long_blue-1-1024x195.png)
 
 **Welcome to the AwesomeAds Marketplace Privacy Policy**
 
@@ -79,54 +79,48 @@ Last updated: 24 April 2023
 [12\. Changes to this privacy policy](#12)
 
 **1\. About us**
-================
+----------------
 
 **About SuperAwesome**
 ----------------------
 
-SuperAwesome Trading Limited (referred to herein as **SuperAwesome**, **us**, **our** or **we**) is a private limited company incorporated in England (Company Number: 03885555), having its registered office at Octagon Point, 5 Cheapside, London EC2V 6AA, United Kingdom.
+SuperAwesome Trading Limited (referred to herein as **SuperAwesome**, **us**, **our** or **we**) is a private limited company incorporated in England (Company Number: 03885555), having its registered office at 167-169 Great Portland Street, 5th Floor, London W1W 5PF, United Kingdom.
 
 **About AwesomeAds Marketplace**
 --------------------------------
 
 AwesomeAds Marketplace is an ad server that delivers advertising (**Ads**) to websites and mobile applications appropriate for children. AwesomeAds Marketplace serves Ads that are placed using contextual information such as broad-based location (i.e. country or U.S. State, as applicable) and the content of the website or app on which the Ad is placed.
 
-AwesomeAds Marketplace and the Customer management dashboard (**Dashboard**) are designed for use by SuperAwesome’s customers, who comprise advertisers and their agencies (who wish to promote goods and services) and publishers (who wish to earn revenue from advertising placed on their apps and sites) (**Customers**).
+AwesomeAds Marketplace and the Customer management dashboard (**Dashboard**) are designed for use by SuperAwesome’s **Customers** (advertisers and their agencies (who wish to promote goods and services) and publishers (who wish to earn revenue from advertising placed on their apps and sites)).
 
 AwesomeAds Marketplace’s proprietary contextual targeting technology has been certified compliant with COPPA by three FTC-approved COPPA Safe Harbor Programs. For more information, see COPPA-compliant contextual targeting technology below.
 
-Our contact details
--------------------
+**Our contact details**
+-----------------------
 
 SuperAwesome works hard to ensure that the processing of personal data is carried out fairly and lawfully. If you have any questions, need information or require assistance, please contact us at:
 
 Attn: Chief Privacy Officer
 
-SuperAwesome Trading Limited, Octagon Point, 5 Cheapside, London EC2V 6AA, United Kingdom
+SuperAwesome Trading Limited, 167-169 Great Portland Street, 5th Floor, London W1W 5PF, United Kingdom
 
 Email: [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection) 
 
-Alternatively, if you are located inside the European Economic Area (EEA) you can contact our EEA representative at:
-
-Attn: SuperAwesome GDPR Representative
-
-Mason Hayes and Curran Professional Services Limited, South Bank House, Barrow Street, Dublin 4, Ireland
-
-Email: [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection)
+Alternatively, if you are located inside the European Economic Area (EEA) you can contact our EEA representative by post at Mishcon de Reya Representative Services (Europe) Limited, 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, D04 XN32, Ireland, or by email at [\[email protected\]](file:///C:/Users/amy.lawrence/Desktop/SA/WIP/representative@mishcon.com)
 
 **2\. About this privacy policy**
-=================================
+---------------------------------
 
 **Purpose of this privacy policy** 
 -----------------------------------
 
 This Privacy Policy explains how we (SuperAwesome) collect, [process](https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/#process), share and transfer your [personal data](https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/#personal) when you use AwesomeAds Marketplace or when you view or interact with an Ad served by the AwesomeAds Marketplace.
 
-**It is important that you read this Privacy Policy so that you are fully aware of how and why we are processing your data.**
+****It is important that you read this Privacy Policy so that you are fully aware of how and why we are processing your data.****
 
-**By using AwesomeAds Marketplace, you confirm that you have read and understood this Privacy Policy.**
+****By using AwesomeAds Marketplace, you confirm that you have read and understood this Privacy Policy.****
 
-**This Privacy Policy applies only to AwesomeAds Marketplace. It does not apply to any other site or service offered by SuperAwesome or to any third-party websites or mobile applications to which AwesomeAds Marketplace may link.**
+****This Privacy Policy applies only to AwesomeAds Marketplace. It does not apply to any other site or service offered by SuperAwesome or to any third-party websites or mobile applications to which AwesomeAds Marketplace may link.****
 
 **Terms used in this privacy policy**
 -------------------------------------
@@ -143,20 +137,13 @@ These terms relate to AwesomeAds Marketplace and its users:
   
 These terms relate to Users’ data and how AwesomeAds Marketplace interacts with it:
 
-* **GDPRs** means the General Data Protection Regulation (EU) 2016/679 and the United Kingdom General Data Protection Regulation
-* **GDPR-K** means the additional requirements under the GDPRs that apply to websites and apps whose audience is primarily kids
-* **COPPA** means the US Children’s Online Privacy Protection Act 
-* **data** means information about a User, both technical data and personal data
-
-* **technical data** means data observed from a User’s device. For example, user agent data, operating system (OS), internet protocol (IP) address, and timestamp
-* **personal data**
-    
-    means any information relating to an identified or identifiable natural person (**data subject**). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Personal data includes, for example, name, date of birth, address, email address, and IP address
-    
-* **processing** or **process**
-    
-    any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
-    
+* **GDPRs** means the General Data Protection Regulation (EU) 2016/679 and the United Kingdom General Data Protection Regulation
+* **GDPR-K** means the additional requirements under the GDPRs that apply to websites and apps whose audience is primarily kids
+* **COPPA** means the US Children’s Online Privacy Protection Act
+* **data** means information about a User, both technical data and personal data
+* **technical data** means data observed from a User’s device. For example, user agent data, operating system (OS), internet protocol (IP) address, and timestamp
+* **personal data** means any information relating to an identified or identifiable natural person (**data subject**). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. Personal data includes, for example, name, date of birth, address, email address, and IP address
+* **processing** or **process** means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction
 
   
 Note that some data elements can be both technical data and personal data (for example, IP address).
@@ -171,7 +158,7 @@ This section sets out how we process the data of all Users, including that of ch
 
 ----------------------------------------
 
-SuperAwesome is a data controller (as defined in the GDPRs) which may process the personal data of Users in AwesomeAds Marketplace to support Customers to operate safe Ad campaigns in accordance with applicable legal requirements.
+SuperAwesome is a data controller (as defined in the GDPRs) which may process the personal data of Users in AwesomeAds Marketplace to support Customers operating safe Ad campaigns in accordance with applicable legal requirements.
 
 We only process Users’ data when we have a legal basis to do so, in any of the following circumstances:
 
@@ -184,7 +171,7 @@ Note that we may process a User’s data for more than one lawful basis, dependi
 **Legitimate interests**
 ------------------------
 
-When we refer to our **legitimate interests** we mean the interest of our company (SuperAwesome) in conducting and managing our business to enable us to give Users the best service/product and the best and most secure experience.
+When we refer to our **legitimate interests** we mean the interest of our company (SuperAwesome) in conducting and managing our business to enable us to give Users the best service/product and the best and most secure experience.
 
 We make sure we consider and balance any potential impact (both positive and negative) on Users and Users’ rights before we process their data for our legitimate interests. We do not process a User’s data for activities where our interests are overridden by the impact on the User (unless we have their consent or are otherwise required or permitted to by law). 
 
@@ -208,9 +195,9 @@ For an explanation of how the processing of your data for a new purpose is compa
 We may process a User’s data without their knowledge or consent, in compliance with the rules in [Our right to process Users’ data](https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/#ourrighttoprocess), where this is required or permitted by law.
 
 **4\. What do we do with End Users’ data?**
-===========================================
+-------------------------------------------
 
-An **End User** is a person, typically a child, who uses a website or mobile application on which an Ad is delivered using AwesomeAds Marketplace.
+An **End User** is a person, typically a child, who uses a website or mobile application on which an Ad is delivered using AwesomeAds Marketplace.
 
 **How do we safeguard children’s privacy?**
 -------------------------------------------
@@ -249,7 +236,7 @@ The COPPA Safe Harbor Programs monitor and audit the AwesomeAds Marketplace cont
 **What End User data do we process?**
 -------------------------------------
 
-The data we process from End Users is limited to specific technical data relating to the device on which the End User is viewing and engaging with an Ad served by AwesomeAds Marketplace. We refer to this data as **Device Data**. 
+The data we process from End Users is limited to specific technical data relating to the device on which the End User is viewing and engaging with an Ad served by AwesomeAds Marketplace. We refer to this data as **Device Data**. 
 
 **Device Data** is defined as follows:
 
@@ -265,7 +252,7 @@ We process End Users’ Device Data as follows:
 
 1. **We generate a de-identified Marker**
 
-We observe the Device Data momentarily, and only in order to immediately transform it into a temporary custom identifier called a **Marker**. A Marker is a temporary, unique, one-way hashed value that cannot be reverse engineered to identify a particular individual.
+We observe the Device Data momentarily, and only in order to immediately transform it into a temporary custom identifier called a **Marker**. A Marker is a temporary, unique, one-way hashed value that cannot be reverse engineered to identify a particular individual.
 
 Our Marker was designed specifically to enable AwesomeAds Marketplace to deliver Ads without SuperAwesome or any third party storing the personal data of End Users, which could be used to build online profiles for behavioural advertising, or other purposes that are not in compliance with data privacy laws regarding children. 
 
@@ -307,10 +294,10 @@ We retain the following data elements indefinitely for reporting purposes:
 
 These elements cannot be used to identify an individual. 
 
-There is no permanent retention of End Users’ personal data within AwesomeAds Marketplace (or by SuperAwesome). An End Users’ Device Data is observed by us only momentarily, as further explained in [How do we process End Users’ data](https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/#howprocess)? above.
+There is no permanent retention of End Users’ personal data within AwesomeAds Marketplace (or by SuperAwesome). An End Users’ Device Data is observed by us only momentarily, as further explained in [How do we process End Users’ data](https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/#howprocess)? above.
 
 **5\. What do we do with Authorised Users’ data?**
-==================================================
+--------------------------------------------------
 
 An **Authorised User** is an individual who uses the Dashboard to manage advertising campaigns on behalf of our Customers.
 
@@ -363,12 +350,12 @@ We use Google Analytics on the Dashboard. Google Analytics places a cookie on Au
 If you disable or refuse cookies, some parts of the Dashboard may become inaccessible or not function properly.
 
 **6\. What do we do with general enquiry and subscribers’ data?**
-=================================================================
+-----------------------------------------------------------------
 
 When someone enquires about our products or services, subscribes to our service or publications, or gives us feedback, we process the personal data which they have provided (e.g. name and email address) to respond to them.
 
 **7\. How do we share Users’ data?**
-====================================
+------------------------------------
 
 **Sharing Users’ data with third-party providers**
 --------------------------------------------------
@@ -404,7 +391,7 @@ We may disclose a User’s data for any of the following reasons: 
 * for risk management purposes
 
 **8\. How do we transfer Users’ data internationally?**
-=======================================================
+-------------------------------------------------------
 
 We may transfer Users’ data in the following ways:
 
@@ -414,7 +401,7 @@ We may transfer Users’ data in the following ways:
 Whenever we authorise a transfer of Users’ data outside of the UK and EEA, we ensure a similar degree of protection is afforded to it by using specific contracting frameworks approved by the UK Government and European Commission which give personal data the same protection it has in the UK and EEA. If you require further information on the specific mechanism used by us when transferring Users’ data outside of the UK or EEA, please contact us at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection). 
 
 **9\. How do we secure Users’ data?**
-=====================================
+-------------------------------------
 
 SuperAwesome values your trust and strives to maintain adequate security measures for all areas of our business and our services. Because AwesomeAds Marketplace is a service that operates digitally, SuperAwesome is continuously reviewing and improving its security measures to prevent data breaches and security incidents. 
 
@@ -422,18 +409,18 @@ SuperAwesome values your trust and strives to maintain adequate security measure
 * We limit access to Users’ data to those employees, agents, contractors and other third parties strictly on a “need to know” basis. They only process Users’ data on our instructions and are subject to a duty of confidentiality.
 * We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-**Third party websites, services and apps**
+### **Third party websites, services and apps**
 
 Some of the correspondence Authorised Users receive from us may contain links to third party websites, online services or mobile applications that are not affiliated with or operated by us, including those of the Customers who use AwesomeAds Marketplace. While SuperAwesome tries to link only to websites that share our high standards and respect for privacy, we are not responsible and accept no liability for the content, security or privacy practices of those other websites. 
 
 To find out how your personal data may be used by third party websites, refer to the privacy and cookie policies displayed on those websites.
 
 **10\. Your legal rights**
-==========================
+--------------------------
 
 Under certain circumstances, you have rights under data protection laws in relation to your [personal data](https://www.superawesome.com/privacy-hub/awesomeads-privacy-policy/#personal). For example, you may have rights to:
 
-**Review/access/delete/restrict the collection** of your child’s personal data. Under COPPA, a parent has certain rights over how we handle the personal data of an End User who is their child. This includes the right for a parent to review, access, or delete the personal data that has been collected by us from that End User, and to refuse at any time to permit the collection from that End User of such personal data. 
+**Review/access/delete/restrict the collection** of your child’s personal data. Under COPPA, a parent has certain rights over how we handle the personal data of an End User who is their child. This includes the right for a parent to review, access, or delete the personal data that has been collected by us from that End User, and to refuse at any time to permit the collection from that End User of such personal data. 
 
 **Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 
@@ -458,22 +445,22 @@ If you wish to exercise any of the rights set out above, please contact us at [
 
 If you are a California resident, please refer to the California residents section below for more information on your legal rights.
 
-**No fee usually required**
+### **No fee usually required**
 
 You do not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
 
-**What we may need from you**
+### **What we may need from you**
 
 We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-**Time limit to respond**
+### **Time limit to respond**
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
 **Do Not Track disclosure** Your browser may allow you to set a Do Not Track (**DNT**) signal indicating that you do not wish your online activity to be tracked. Currently, AwesomeAds Marketplace does not support and does not act on DNT signal headers that we may receive.
 
 **11\. Location-specific privacy rules**
-========================================
+----------------------------------------
 
 Depending on where you are resident, specific privacy rules apply:
 
@@ -485,12 +472,12 @@ If you are concerned that we have not complied with your legal rights or applica
 **United States** 
 ------------------
 
-If you are a resident of the United States and believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection) or by using their online contact form [here](https://www.esrb.org/privacy/contact).
+If you are a resident of the United States and believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB Privacy Certified at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection) or by using their online contact form [here](https://www.esrb.org/privacy/contact).
 
 **California residents**
 ------------------------
 
-For the purposes of this section, **Personal Information, Sell, Share** and **Service Provider** have the meanings assigned to them under the California Consumer Privacy Act of 2018, (California Civil Code §§ 1798.100 to 1798.199), as amended, and its implementing regulations (**CCPA**).
+For the purposes of this section, **Personal Information, Sell, Share** and **Service Provider** have the meanings assigned to them under the California Consumer Privacy Act of 2018, (California Civil Code §§ 1798.100 to 1798.199), as amended, and its implementing regulations (**CCPA**).
 
 SuperAwesome is a Service Provider for its Customers in connection with the provision of the Dashboard. SuperAwesome does not retain, use, or disclose Personal Information for any purpose other than for the specific purpose of performing the services specified in its agreement with Customers, as set out in this Privacy Policy, or as otherwise permitted by the CCPA. The CCPA provides specific rights to individuals who reside in California, including the right to know, delete and opt out of certain data-collection activities.
 
@@ -504,7 +491,7 @@ We use and disclose this Personal Information as explained in sections [3\. Gen
 
 We do not Sell or Share this Personal Information (as those terms are defined by the CCPA).
 
-**Right to know and access**
+### **Right to know and access**
 
 You may submit a request for the following information:
 
@@ -516,21 +503,21 @@ You may submit a request for the following information:
 
 Because SuperAwesome is a Service Provider, we may not be able to respond directly to your request. In this case, we will direct you to contact the Customer for additional information. Where possible, we will provide this information to you in a readily usable format that allows transmission to another entity. 
 
-To submit a request, click [here](https://content.superawesome.com/ccpa) to access our online webform or email us at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection). We will confirm your request within 10 days of receipt.
+To submit a request, you or an authorized agent may email us at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection). We will confirm your request, and may ask for additional information as needed to verify your identity or authority.
 
-**Right to delete**
+### **Right to delete**
 
-Because SuperAwesome is a Service Provider, we may not be able to respond directly to your request. In this case, we will direct you to contact the applicable third party for additional information. You may submit a request for us to delete any Personal Information we have collected about you. To submit a request, please email us at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection) or use this [webform](https://content.superawesome.com/ccpa).
+Because SuperAwesome is a Service Provider, we may not be able to respond directly to your request. In this case, we will direct you to contact the applicable third party for additional information. You may submit a request for us to delete any Personal Information we have collected about you. To submit a request, please email us at [\[email protected\]](https://www.superawesome.com/cdn-cgi/l/email-protection).
 
-**Verification**
+### **Verification**
 
 Requests for access to or deletion of Personal Information are subject to our ability to reasonably verify your identity considering the information requested and pursuant to relevant CCPA requirements, limitations, and regulations. If we need additional information to verify your identity, we will contact you to request that information.
 
-**Right to be free from discrimination**
+### **Right to be free from discrimination**
 
 We will not discriminate against you because you have chosen to exercise your rights, including, for example, by denying you access to our online services or charging you different rates or prices for the same online services, unless that difference is reasonably related to the value provided by your data.
 
-**Exercising your rights**
+### **Exercising your rights**
 
 To submit a request or to otherwise contact us for more information about how to exercise your rights, please follow the instructions above. If you would like to designate an authorised agent to make a request on your behalf, please be sure the agent is able to:
 
@@ -539,12 +526,12 @@ To submit a request or to otherwise contact us for more information about how to
 
 If the agent does not satisfy both these requirements, we will deny the request.
 
-**California residents’ “Shine the Light” law**
+### **California residents’ “Shine the Light” law**
 
 We do not share your Personal Information with any unaffiliated third parties for their own marketing purposes.
 
 **12\. Changes to this Privacy Policy**
-=======================================
+---------------------------------------
 
 SuperAwesome has the discretion to update or modify this Privacy Policy at any time. When we do, we will update the “last updated” date on the policy. The most current version of this Privacy Policy is available on the SuperAwesome Privacy Hub and supersedes all previous versions of this Privacy Policy. If the change is material, we will place a notice on the Privacy Hub by revising the link to read substantially as “Updated Privacy Policy” for a reasonable period of time.
 
