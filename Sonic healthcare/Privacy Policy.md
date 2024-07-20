@@ -17,8 +17,6 @@ Popular pages
 
 [MENU](javascript:; "menu")
 
-[](#)
-
 * [The Sonic Difference](https://www.sonichealthcare.com/the-sonic-difference/)
     * [Medical Leadership](https://www.sonichealthcare.com/the-sonic-difference/medical-leadership/)
         
