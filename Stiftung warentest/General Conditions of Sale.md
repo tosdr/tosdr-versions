@@ -305,7 +305,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v108635066.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v111250837.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -586,21 +586,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gemeinschaften: So regeln WGs Miet­vertrag und Zusammenleben](https://www.test.de/Wohngemeinschaften-Das-Wichtigste-fuers-WG-Leben-5915288-0/ "Wohngemeinschaften - So regeln WGs Mietvertrag und Zusammenleben")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Lebens­versicherung: Rechts­streit um die Reserven](https://www.test.de/Lebensversicherung-Rechtsstreit-um-die-Reserven-5907527-0/ "Lebensversicherung - Rechtsstreit um die Reserven")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
 
 Fußbereich
 
@@ -997,7 +997,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -1350,7 +1350,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -1686,7 +1686,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -1978,7 +1978,7 @@ Immobilien
 
 Meistgelesene Tests & Themen
 
-* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
 * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
 * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
 * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -1987,7 +1987,7 @@ Meistgelesene Tests & Themen
 
 Meistgelesene Tests & Themen
 
-* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
 * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
 * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
 * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gemeinschaften: So regeln WGs Miet­vertrag und Zusammenleben](https://www.test.de/Wohngemeinschaften-Das-Wichtigste-fuers-WG-Leben-5915288-0/ "Wohngemeinschaften - So regeln WGs Mietvertrag und Zusammenleben")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Lebens­versicherung: Rechts­streit um die Reserven](https://www.test.de/Lebensversicherung-Rechtsstreit-um-die-Reserven-5907527-0/ "Lebensversicherung - Rechtsstreit um die Reserven")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
 
      ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2780,39 +2780,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gemeinschaften: So regeln WGs Miet­vertrag und Zusammenleben](https://www.test.de/Wohngemeinschaften-Das-Wichtigste-fuers-WG-Leben-5915288-0/ "Wohngemeinschaften - So regeln WGs Mietvertrag und Zusammenleben")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Lebens­versicherung: Rechts­streit um die Reserven](https://www.test.de/Lebensversicherung-Rechtsstreit-um-die-Reserven-5907527-0/ "Lebensversicherung - Rechtsstreit um die Reserven")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Wohn­gemeinschaften: So regeln WGs Miet­vertrag und Zusammenleben](https://www.test.de/Wohngemeinschaften-Das-Wichtigste-fuers-WG-Leben-5915288-0/ "Wohngemeinschaften - So regeln WGs Mietvertrag und Zusammenleben")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Betrugs­fallen: Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen](https://www.test.de/Betrugsfallen-erkennen-6000240-0/ "Betrugsfallen - Von Schockanruf bis Enkeltrick – wie Sie miese Maschen erkennen")
+* [Lebens­versicherung: Rechts­streit um die Reserven](https://www.test.de/Lebensversicherung-Rechtsstreit-um-die-Reserven-5907527-0/ "Lebensversicherung - Rechtsstreit um die Reserven")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Fest­geld: Selt­same Angebote aus dem Ausland](https://www.test.de/Festgeld-Seltsame-Angebote-aus-dem-Ausland-6051636-0/ "Festgeld - Seltsame Angebote aus dem Ausland")
+* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
 
 Service Stiftung Warentest
 
