@@ -1,6 +1,6 @@
 [![Tartle Best Data Marketplace](https://tartle.co/wp-content/uploads/2021/06/tartle-best-data-marketplace.svg)](https://tartle.co/)
 
-* [Sellers](https://tartle.co/sellers/)
+* [Sellers](https://source.tartle.co/registration)
 * [Buyers](https://tartle.co/secure-marketplace-for-data/)
     * [Artificial Intelligence](https://tartle.co/artificial-intelligence/)
     * [Automotive](https://tartle.co/automotive/)
@@ -20,7 +20,7 @@
 
 [![Tartle Best Data Marketplace](https://tartle.co/wp-content/uploads/2021/06/tartle-best-data-marketplace.svg)](https://tartle.co/)
 
-* [Sellers](https://tartle.co/sellers/)
+* [Sellers](https://source.tartle.co/registration)
 * [Buyers](https://tartle.co/secure-marketplace-for-data/)
     * [Artificial Intelligence](https://tartle.co/artificial-intelligence/)
     * [Automotive](https://tartle.co/automotive/)
@@ -40,7 +40,7 @@
 
 [![Tartle Best Data Marketplace](https://tartle.co/wp-content/uploads/2021/06/tartle-best-data-marketplace.svg)](https://tartle.co/)
 
-* [Sellers](https://tartle.co/sellers/)
+* [Sellers](https://source.tartle.co/registration)
 * [Buyers](https://tartle.co/secure-marketplace-for-data/)
     * [Artificial Intelligence](https://tartle.co/artificial-intelligence/)
     * [Automotive](https://tartle.co/automotive/)
@@ -60,7 +60,7 @@
 
 [![Tartle Best Data Marketplace](https://tartle.co/wp-content/uploads/2021/06/tartle-best-data-marketplace.svg)](https://tartle.co/)
 
-* [Sellers](https://tartle.co/sellers/)
+* [Sellers](https://source.tartle.co/registration)
 * [Buyers](https://tartle.co/secure-marketplace-for-data/)
     * [Artificial Intelligence](https://tartle.co/artificial-intelligence/)
     * [Automotive](https://tartle.co/automotive/)
