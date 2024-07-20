@@ -96,7 +96,6 @@ Menu
     * **[Medical Devices](https://www.sokolovelaw.com/product-liability/medical-devices/ "Medical Devices")**
     * [Bard PowerPort](https://www.sokolovelaw.com/product-liability/medical-devices/bard-powerport/)
     * [Exactech Implants](https://www.sokolovelaw.com/product-liability/medical-devices/exactech-knee-and-hip-replacements/)
-    * [Filshie Clips](https://www.sokolovelaw.com/product-liability/medical-devices/filshie-clip/)
     * [Hernia Mesh](https://www.sokolovelaw.com/product-liability/medical-devices/hernia-mesh/ "Hernia Mesh")
     * [Paragard](https://www.sokolovelaw.com/product-liability/medical-devices/paragard/)
     
@@ -125,43 +124,13 @@ Menu
     
 * [Other Practice Areas](https://www.sokolovelaw.com/all-case-types/ "Other Practice Areas")
     
-    * [Camp Lejeune Water Contamination](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/)
-    * [Camp Lejeune Justice Act](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/justice-act-2022/)
-    * [Health Issues & Symptoms](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/health-issues/)
-    * [Wrongful Death](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/wrongful-death/)
-    * [VA Benefits](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/va-benefits/)
-    * [Camp Lejeune Lawyer](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/lawyer/)
-    * [Camp Lejeune Settlements](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/settlement-amounts/)
-    * [Camp Lejeune Settlement Timeline](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/settlement-amounts/timeline/)
-    * [Camp Lejeune Litigation Updates](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/lawsuit-updates/)
-    
-    * [Disability Denial](https://www.sokolovelaw.com/disability-insurance-denial/)
+    * **[Disability Denial](https://www.sokolovelaw.com/disability-insurance-denial/)**
     * [Long Term Disability Denial](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/)
     * [Long Term Disability Lawyer](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/lawyers/)
     * [Qualifying Medical Conditions](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/medical-conditions/)
     * [Insurance Providers](https://www.sokolovelaw.com/disability-insurance-denial/long-term-disability-denial/insurance-providers/)
     
-    * [Firefighting Foam](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/)
-    * [AFFF Settlements](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/settlements/)
-    * [PFAS Chemicals](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas/)
-    * [PFAS and Cancer](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas-cancer/)
-    * [U.S. Military Exposure](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/military-exposure/)
-    
-    * [Personal Injury](https://www.sokolovelaw.com/personal-injury/)
-    * [Car & Auto Accidents](https://www.sokolovelaw.com/personal-injury/car-accident/)
-    * [Military Burn Pits](https://www.sokolovelaw.com/personal-injury/military-burn-pits/)
-    * [Rideshare Assault](https://www.sokolovelaw.com/personal-injury/sexual-abuse/uber-lyft-rideshare-assault/)
-    * [Sexual Abuse](https://www.sokolovelaw.com/personal-injury/sexual-abuse/)
-    * [Slip and Fall](https://www.sokolovelaw.com/personal-injury/slip-fall/)
-    * [Social Media Addiction](https://www.sokolovelaw.com/personal-injury/social-media-addiction/)
-    * [Truck Accidents](https://www.sokolovelaw.com/personal-injury/truck-accidents/)
-    * [Uber Assaults](https://www.sokolovelaw.com/personal-injury/sexual-abuse/uber-lyft-rideshare-assault/uber/)
-    
-    * [Medical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/)
-    * [Failure to Diagnose](https://www.sokolovelaw.com/personal-injury/medical-malpractice/failure-to-diagnose/)
-    * [Surgical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/surgery/)
-    
-    * [Drugs](https://www.sokolovelaw.com/dangerous-drugs/)
+    * **[Drugs](https://www.sokolovelaw.com/dangerous-drugs/)**
     * [Elmiron](https://www.sokolovelaw.com/dangerous-drugs/elmiron/)
     * [HIV Medications](https://www.sokolovelaw.com/dangerous-drugs/hiv-medications/)
     * [Mounjaro](https://www.sokolovelaw.com/dangerous-drugs/ozempic/mounjaro/)
@@ -171,7 +140,28 @@ Menu
     * [Tylenol](https://www.sokolovelaw.com/dangerous-drugs/tylenol/)
     * [Wegovy](https://www.sokolovelaw.com/dangerous-drugs/ozempic/wegovy/)
     
-    * [Workplace Injury](https://www.sokolovelaw.com/personal-injury/workplace/)
+    * **[Firefighting Foam](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/)**
+    * [AFFF Settlements](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/settlements/)
+    * [PFAS Chemicals](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas/)
+    * [PFAS and Cancer](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas-cancer/)
+    * [U.S. Military Exposure](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/military-exposure/)
+    
+    * **[Medical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/)**
+    * [Failure to Diagnose](https://www.sokolovelaw.com/personal-injury/medical-malpractice/failure-to-diagnose/)
+    * [Surgical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/surgery/)
+    * [Emergency Room Errors](https://www.sokolovelaw.com/personal-injury/medical-malpractice/emergency-room-errors/)
+    
+    * **[Personal Injury](https://www.sokolovelaw.com/personal-injury/)**
+    * [Car & Auto Accidents](https://www.sokolovelaw.com/personal-injury/car-accident/)
+    * [Military Burn Pits](https://www.sokolovelaw.com/personal-injury/military-burn-pits/)
+    * [Rideshare Assault](https://www.sokolovelaw.com/personal-injury/sexual-abuse/uber-lyft-rideshare-assault/)
+    * [Sexual Abuse](https://www.sokolovelaw.com/personal-injury/sexual-abuse/)
+    * [Slip and Fall](https://www.sokolovelaw.com/personal-injury/slip-fall/)
+    * [Social Media Addiction](https://www.sokolovelaw.com/personal-injury/social-media-addiction/)
+    * [Truck Accidents](https://www.sokolovelaw.com/personal-injury/truck-accidents/)
+    * [Uber Assaults](https://www.sokolovelaw.com/personal-injury/sexual-abuse/uber-lyft-rideshare-assault/uber/)
+    
+    * **[Workplace Injury](https://www.sokolovelaw.com/personal-injury/workplace/)**
     * [Workers Compensation](https://www.sokolovelaw.com/personal-injury/workplace/workers-compensation/)
     * [Unpaid Overtime](https://www.sokolovelaw.com/personal-injury/workplace/flsa-unpaid-overtime/)
     
@@ -475,7 +465,7 @@ For legal help, call [(800) 995-1212](tel:+18009951212 "For legal help, click to
 
 * [Home](https://www.sokolovelaw.com/ "Home")
 * [Mesothelioma](https://www.sokolovelaw.com/mesothelioma/ "Mesothelioma")
-* [Camp Lejeune Water](https://www.sokolovelaw.com/personal-injury/camp-lejeune-water-contamination/)
+* [Lung Cancer](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/)
 * [Birth Injuries](https://www.sokolovelaw.com/birth-injuries/)
 * [Products](https://www.sokolovelaw.com/product-liability/)
 * [Nursing Home Abuse](https://www.sokolovelaw.com/nursing-home-abuse/)
