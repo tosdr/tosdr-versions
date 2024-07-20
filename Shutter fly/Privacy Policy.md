@@ -8,7 +8,7 @@
     * [Global Footprint](https://shutterflyinc.com/global-footprint/)
 * [Our Brands](https://shutterflyinc.com/our-brands/)
 * [Our Commitments](#)Open menu
-    * [ESG](https://shutterflyinc.com/esg/)
+    * [Purpose & Impact](https://shutterflyinc.com/purpose-and-impact/)
     * [Open Door Project](https://shutterflyinc.com/open-door-project/)
 * [Careers](#)Open menu
     * [Overview](https://shutterflyinc.com/career-overview/)
@@ -27,8 +27,8 @@ Privacy Notice
 
 SHUTTERFLY ONLINE PRIVACY AND SECURITY
 
-Last Modified: February 20, 2024
---------------------------------
+Last Modified: July 9, 2024
+---------------------------
 
 At Shutterfly, our purpose is to help our customers capture, preserve, and share life’s important moments through professional and personal photography, and personalized products. We are equally committed to respecting your privacy.
 
@@ -184,16 +184,16 @@ How can you contact us with questions about your privacy or this Notice?
 
 For further information regarding this website privacy statement or related Shutterfly or Lifetouch policies and procedures, please contact: [privacy@shutterfly.com](mailto:privacy@shutterfly.com).
 
-Supplemental Notice to Residents of CA, CO, CT, UT or VA
+Supplemental Notice to Residents of CA, CO, CT, MT, OR, TX, UT or VA
 
 
-------------------------------------------------------------
+------------------------------------------------------------------------
 
-Depending on where you reside, you may also have additional legal rights with respect to your information. While some of these rights apply generally, certain rights apply in limited cases. Consistent with applicable laws, this Supplemental Notice provides a way to exercise such rights for residents of California, Colorado, Connecticut, Utah or Virginia.
+Depending on where you reside, you may also have additional legal rights with respect to your information. While some of these rights apply generally, certain rights apply in limited cases. Consistent with applicable laws, this Supplemental Notice provides a way to exercise such rights for residents of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia.
 
 For information about what categories of personal information we may collect from our customers, the sources of that information, the purposes for collecting and using that information, and what types of third party service providers we may share that information with, please see our section titled [What personal information do we collect? How do we use that information?](https://www.shutterflyinc.com/privacy/#what-personal-info)
 
-The laws of California, Colorado, Connecticut, Utah or Virginia grant some or all of the following rights to consumers who reside in those states:
+The laws of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia grant some or all of the following rights to consumers who reside in those states:
 
 * The right to request information about personal information that we have collected about that customer in the 12 months preceding the customer’s request (including the categories of information collected, the source of that information, the business purpose of that collection, the categories of third parties with whom that information is shared, and the specific pieces of personal information collected about that particular customer);
 * The right to receive requested information in a readily-usable format if provided electronically;
@@ -202,15 +202,11 @@ The laws of California, Colorado, Connecticut, Utah or Virginia grant some or al
 * The right to update or correct any personal information which is out of date or incorrect; and
 * The right to be free from discrimination based on your exercise of your privacy rights.
 
-To exercise your rights pursuant to this Supplemental Notice with respect to one of more of our brands, please contact us as follows:
-
-* Shutterfly and Tiny Prints: Call us at (844) 535-3299 or request online by clicking on the following link: [State Privacy Rights](https://www.shutterfly.com/ccpa-form/).
-* Lifetouch, Prestige Portraits, JCPenney Portraits by Lifetouch: Call us at (888) 288-2214 or request online at https://lifetouch.com/privacy-options/
-* BorrowLenses: Call us at (844) 853-6737 or write to MyInfo.BL@borrowlenses.com
+To exercise your rights pursuant to this Supplemental Notice with respect to Shutterfly, please use the [**Shutterfly data privacy tool for customers**](https://www.shutterfly.com/ccpa-form/?view=requestInfoForm), the [**Shutterfly data privacy tool with no sign-in**](https://www.shutterfly.com/ccpa-form/?view=requestInfoForm&prospect=true), or call (844) 535-3299. **Note that use of our online data privacy tools will resolve your requests more quickly than phone requests.**
 
 We cannot respond to your request to access or delete information unless we are able to both verify your identity or authority to make the request and confirm the personal information relates to you and/or your household. If you have an account on any of our Sites and Apps, we will verify your identity by having you log in to your account. If you do not have an account on our Sites and Apps, we will attempt to verify your request by asking you to provide identifying information that we will match to information in our files. We will only use information you provide in your request for the purpose of verifying your identity or authority to make the request. You can also designate an authorized agent to make a request on your behalf. Your agent will need to provide a Power of Attorney authorizing the agent to act on your behalf, or will need to complete the same verification procedures that would be required for a request submitted by you directly, and provide information that allows us to verify your authorization. If you would like to appeal a decision related to a request to exercise your rights under this Supplemental Notice, please contact us at the phone numbers, online forms, or email address listed above.
 
-We may deny deletion requests in whole or in part as permitted or required by applicable law.   We do not charge a different price or rate or provide a different level or quality of goods or services based on your exercising your CCPA rights. We do not sell personal information in the ordinary sense of that term. That is, we don’t provide your personally identifiable information to third parties in exchange for money. But under California law, sharing information with third parties for targeted advertising purposes may be considered a “sale” of personal information. Residents of California, Colorado, Connecticut, Utah and Virginia have the ability to opt out of such sharing using the methods above-listed.
+We may deny deletion requests in whole or in part as permitted or required by applicable law.   We do not charge a different price or rate or provide a different level or quality of goods or services based on your exercising your data privacy rights. We do not sell personal information in the ordinary sense of that term. That is, we don’t provide your personally identifiable information to third parties in exchange for money. But under California law, sharing information with third parties for targeted advertising purposes may be considered a “sale” of personal information. Residents of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia have the ability to opt out of such sharing using the methods above-listed.
 
 **Supplemental Notice to residents of California**
 
@@ -218,9 +214,7 @@ If you are a California resident under the age of 18, and a registered user of a
 
 If you are a former Shutterfly employee and would like to exercise your rights with respect to your personal data, please send an email with the subject line “Former Employee Data Request” to privacy@shutterfly.com.
 
-In 2022, Shutterfly received and completed 387 verified deletion requests and 150 verified access requests. Shutterfly received and completed 0 verified requests to opt-out of sale/sharing. Shutterfly received 0 requests to correct as customers can correct their data within their accounts. Shutterfly received 0 requests to limit. Shutterfly did not deny any verified requests. Shutterfly responded to data subject rights requests within 18 days on average.
-
-Also in 2022, Lifetouch received and completed 1 verified deletion request and 0 verified access requests. Lifetouch received and completed 0 verified requests to opt-out of sale/sharing. Lifetouch received 0 requests to correct as customers can correct their data within their account. Lifetouch received 0 requests to limit. Lifetouch did not deny any verified requests. Lifetouch responded to data subject rights requests within 14 days on average.
+In 2023, Shutterfly received and completed 3,247 verified deletion requests and 437 verified access requests from residents of California, Colorado, Connecticut and Virginia. Shutterfly received and completed 1,130 verified requests to opt-out of sale/sharing from residents of these same states. Shutterfly received 0 requests to correct as customers can correct their data within their accounts. Shutterfly received 0 requests to limit use and disclosure of sensitive personal information because we do not collect sensitive personal information. Shutterfly did not deny any verified requests. Shutterfly responded to data subject rights requests within 15 days on average.
 
 We may offer various financial incentives and benefits (such as free shipping, discounts, and other special offers) to customers who interact with us in our Sites and Apps and provide personal information. We offer such financial incentives and benefits for business purposes such as increasing engagement and sales or raising brand awareness, and participation is voluntary. These discounts are reasonably related to the value of the personal information shared, which varies by offer and price of items to which discount is applied.  Shutterfly reserves the right to withdraw or modify the financial incentives we offer at any time.
 
