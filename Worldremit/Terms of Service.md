@@ -4,7 +4,7 @@
 
 * [Help](https://www.worldremit.com/en/faq)
 * [Currency Converter](https://www.worldremit.com/en/currency-converter)
-* [Create account](https://www.worldremit.com/en/signup)
+* [Download App](https://www.worldremit.com/en/download-our-app)
 
 Terms and Conditions
 ====================
@@ -17,9 +17,8 @@ Terms and Conditions
 Terms and Conditions
 --------------------
 
-#### [**Download PDF**](https://assets.ctfassets.net/sb7j5o4oxtgv/6SEismCF81DJUVpgjNPK3W/203d5ee68d778cc8a88335b3336aded1/ZEPZ_UK_Terms__-_FINAL_SIGN_OFF__PDF__-_WorldRemit_and_Sendwave...pdf)
+#### [**Download PDF**](https://assets.ctfassets.net/sb7j5o4oxtgv/4nPudiuZiz5SCECQXlXp0l/71ad38a1c5194173e6c37b8aa73d8451/ZEPZ_UK_Terms__-_FINAL_SIGN_OFF__PDF__-_WorldRemit_and_Sendwave...pdf)
 
-  
   
 
 A fast and secure way to send money on the go
@@ -59,7 +58,6 @@ Download our app for free to send money online in minutes to over 130 other coun
 * [How it works](https://www.worldremit.com/en/how-it-works)
 * [Mobile apps](https://www.worldremit.com/en/mobile-apps)
 * [About us](https://www.worldremit.com/en/about-us)
-* [Board of Directors](https://www.worldremit.com/en/about-us/corporate/board-of-directors)
 * [Careers - We're hiring!](https://zepzpay.com/careers)
 * [News](https://worldremit.com/en/news)
 * [Blog](https://www.worldremit.com/en/blog)
@@ -89,6 +87,7 @@ Download our app for free to send money online in minutes to over 130 other coun
 * [Modern slavery statement](https://www.worldremit.com/en/about-us/modern-slavery-statement)
 * [Financial statements](https://www.worldremit.com/en/about-us/financial-statement)
 * [Gender pay gap](https://www.worldremit.com/en/faq/gender-representation-at-worldremit)
+* [Keeping your money safe](https://www.worldremit.com/en/about-us/keeping-your-money-safe)
 * [Sitemap](https://www.worldremit.com/en/sitemap)
 
 * * *
