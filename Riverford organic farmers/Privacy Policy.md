@@ -39,6 +39,23 @@ Header area, including main menu and site search
     * [New
         
         Fresh in this week from our own fields & grower friends](https://www.riverford.co.uk/new)
+    * [Summer
+        
+        Enjoy the spirit of summer with the freshest organic food](https://www.riverford.co.uk/summer-eating)
+        
+        * [Summer fruits
+            
+            Summer fruits](https://www.riverford.co.uk/summer-eating/summer-fruit)
+        * [Veg & salad
+            
+            Veg & salad](https://www.riverford.co.uk/summer-eating/veg-salad)
+        * [BBQ meat
+            
+            BBQ meat](https://www.riverford.co.uk/summer-eating/bbq-meat)
+        * [Drinks
+            
+            Summer drinks](https://www.riverford.co.uk/summer-eating/drinks)
+        
     * [Seasonal boxes
         
         Our iconic range of organic fruit, veg & meat boxes](https://www.riverford.co.uk/seasonal-organic-boxes)
@@ -94,7 +111,7 @@ Header area, including main menu and site search
             Herbs & spices](https://www.riverford.co.uk/organic-fruit-veg-and-salad/herbs-and-spices)
         * [Summer fruits
             
-            Summer fruits](https://www.riverford.co.uk/organic-fruit-veg-and-salad/summer-fruit)
+            Summer fruits](https://www.riverford.co.uk/summer-eating/summer-fruit)
         * [British fruit & veg
             
             The very best fruit & veg growing in British fields](https://www.riverford.co.uk/organic-fruit-veg-and-salad/british-fruit-veg)
@@ -144,6 +161,9 @@ Header area, including main menu and site search
         * [Meat boxes
             
             100% organic, high welfare and great value boxes](https://www.riverford.co.uk/seasonal-organic-boxes/organic-meat-boxes)
+        * [BBQ meat
+            
+            BBQ meat](https://www.riverford.co.uk/summer-eating/bbq-meat)
         * [Beef
             
             Beef](https://www.riverford.co.uk/organic-meat-and-fish/beef)
@@ -162,9 +182,6 @@ Header area, including main menu and site search
         * [Turkey
             
             Turkey](https://www.riverford.co.uk/organic-meat-and-fish/turkey)
-        * [BBQ meat
-            
-            BBQ meat](https://www.riverford.co.uk/organic-meat-and-fish/bbq)
         * [Quick & easy
             
             Quick & easy](https://www.riverford.co.uk/organic-meat-and-fish/quick-and-easy)
