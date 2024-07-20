@@ -2,8 +2,8 @@
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](# "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv%3Dwww_twipla_com= "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv%3Dwww_twipla_com= "Deutsch")
 
 * [Why Us?](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why Us?")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Why You Should Use TWIPLA](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why You Should Use TWIPLA")
@@ -11,6 +11,7 @@
     * [Five Analytics Problems Solved by TWIPLA](https://www.visitor-analytics.io/en/why-us/five-web-analytics-problems-solved-by-twipla "Five Analytics Problems Solved by TWIPLA")
     * [Cookieless Tracking](https://www.visitor-analytics.io/en/why-us/cookieless-tracking "Cookieless Tracking")
     * [Maximum Data Privacy Mode](https://www.visitor-analytics.io/en/why-us/maximum-data-privacy-mode "Maximum Data Privacy Mode")
+    * [Dual Tracking Code Options](https://www.visitor-analytics.io/en/why-us/dual-tracking-code-options "Dual Tracking Code Options")
 * [Features](https://www.visitor-analytics.io/en/features)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
     [Website Statistics](https://www.visitor-analytics.io/en/features/website-statistics)
@@ -52,11 +53,11 @@
     * [SaaS Platforms](https://www.visitor-analytics.io/en/white-label/saas-platforms "SaaS Platforms")
     * [Agencies & Consultancies](https://www.visitor-analytics.io/en/white-label/agencies-consultancies "Agencies & Consultancies")
 * [Blog](https://www.visitor-analytics.io/en/blog "Blog")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
+    * [Data Anonymization vs Pseudonymization](https://www.visitor-analytics.io/en/blog/data-anonymization-vs-pseudonymization "Data Anonymization vs Pseudonymization")
+    * [How to Write a Privacy Policy](https://www.visitor-analytics.io/en/blog/how-to-write-a-privacy-policy "How to Write a Privacy Policy")
+    * [Website Intelligence News Roundup June 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-june-2024 "Website Intelligence News Roundup June 2024")
+    * [Safari Browser Blocks Adobe Tracking Pixels](https://www.visitor-analytics.io/en/blog/safari-browser-blocks-adobe-tracking-pixels "Safari Browser Blocks Adobe Tracking Pixels")
     * [Sleep Tight, Data Safe: Secure Data Storage Guide](https://www.visitor-analytics.io/en/blog/secure-data-storage "Sleep Tight, Data Safe: Secure Data Storage Guide")
-    * [Website Intelligence News Roundup May 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-may-2024 "Website Intelligence News Roundup May 2024")
-    * [Data Detox: Mastering the Principles of Data Minimization](https://www.visitor-analytics.io/en/blog/data-minimization "Data Detox: Mastering the Principles of Data Minimization")
-    * [What Is Eco-Friendly Sustainable Marketing? \[+Strategies & Examples\]](https://www.visitor-analytics.io/en/blog/sustainable-marketing-explained "What Is Eco-Friendly Sustainable Marketing? [+Strategies & Examples]")
-    * [Product-Led Growth and Marketing: Teach Your Platform to Do The Talking](https://www.visitor-analytics.io/en/blog/product-led-growth "Product-Led Growth and Marketing: Teach Your Platform to Do The Talking")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
@@ -87,24 +88,27 @@
         * [Hotjar](https://www.visitor-analytics.io/en/compare-with-other-tools/alternative-to-hotjar)
         * [Google Analytics](https://www.visitor-analytics.io/en/compare-with-other-tools/alternative-to-google-analytics)
     * [Book a Free Product Demo](https://www.visitor-analytics.io/en/book-a-free-demo "Book a Free Product Demo")
+    * [Events Calendar](https://www.visitor-analytics.io/en/features/upcoming-features/roadmap-1 "Events Calendar")
     
 
-[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
+[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv%3Dwww_twipla_com= "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/privacy-policy?mdrv%3Dwww_twipla_com= "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/datenverarbeitungsvertrag-cookie-informationen?mdrv%3Dwww_twipla_com= "Deutsch")
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/user-circle.svg)
 
 Login as existing user](https://app.twipla.com/login?utm_campaign=visaWebsite&utm_source=headerButton&utm_term=login)
 
-[Get started free![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)](https://app.twipla.com/register/step2)
+[Get started free![](/fileadmin/twipla/typo3-website-theme/template/images/icons/circle-arrow-right.svg)](https://app.twipla.com/register)
 
 * [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/home.svg)](https://www.visitor-analytics.io/en/)
 * [Support](https://www.visitor-analytics.io/en/support "Support")
 * [Legal, Data Privacy & Certificates](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates "Legal, Data Privacy & Certificates")
 * [Standard Integration](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration "Standard Integration")
 * Privacy Policy
+
+[](javascript:;)[](javascript:;)
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/primary_icon.svg)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/primary_icon.svg)](javascript:;)
 
