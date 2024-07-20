@@ -730,7 +730,7 @@ One Canada Square, Level 39 - London, E14 5AB
 ##### FOLLOW US
 
 * [](https://www.facebook.com/SmarshInc/)
-* [](https://twitter.com/SmarshInc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [](https://x.com/SmarshInc)
 * [](https://www.linkedin.com/company/smarsh/)
 
 ##### SOLUTIONS BY ISSUE
@@ -794,12 +794,6 @@ One Canada Square, Level 39 - London, E14 5AB
 * [Privacy Policy](https://www.smarsh.com/legal-website-privacy-policy)
 
 © 2024 Smarsh Inc. Smarsh and the Smarsh logo are registered trademarks of Smarsh Inc. in the United States. Smarsh is a registered trademark of Smarsh Inc. in the European Union. Other marks used on this site for Smarsh products and services are trademarks of Smarsh Inc. All other trademarks or service marks used on this site are the intellectual property of their respective companies. Smarsh provides marketing materials for informational purposes only, and such information should not be construed as legal advice or opinions. You must consult an attorney for advice regarding your compliance with laws and regulations applicable to your business.
-
-### Get a Quote
-
-Tell us about yourself, and we’ll be in touch right away.
-
-Smarsh handles information you submit to Smarsh in accordance with its [Privacy Policy](https://www.smarsh.com/legal-website-privacy-policy "Privacy Policy"). By clicking "submit", you consent to Smarsh processing your information and storing it in accordance with the [Privacy Policy](https://www.smarsh.com/legal-website-privacy-policy "Privacy Policy") and agree to receive communications from Smarsh and its third-party partners regarding products and services that may be of interest to you. You may withdraw your consent at any time by emailing [privacy@smarsh.com](mailto:privacy@smarsh.com "Email privacy@smarsh.com").
 
 ### Contact Us
 
