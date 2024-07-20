@@ -1,4 +1,4 @@
-Shape Finance’s Future in London on June 26 · 20% Off with Code OSFFL24LF20 [VIEW SCHEDULE](https://bit.ly/3xxfKEp)
+Register For Open Source Summit Europe | 16-18 Sept - Vienna, Austria  [REGISTER NOW](https://events.linuxfoundation.org/open-source-summit-europe/)
 
 English Japan China Europe
 
@@ -292,6 +292,7 @@ LF RESEARCH
 
 * [Latest Research](https://www.linuxfoundation.org/research)
 * [Leadership & Advisory Board](https://www.linuxfoundation.org/research/leadership)
+* [Surveys](https://www.linuxfoundation.org/research/surveys)
 
 LFX PLATFORM
 
