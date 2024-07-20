@@ -582,15 +582,15 @@ DANS TOUTE LA MESURE PERMISE PAR LA LOI, EN AUCUN CAS L'EDITEUR OU SES PARTENAIR
 Les plus lus
 ------------
 
-1. [![L'Assemblée, le 8 juillet 2024 à Paris](https://images.bfmtv.com/zG5mgI8MSIZhNpWjI_wUW5os5uQ=/0x40:768x472/300x0/images/L-Assemblee-le-8-juillet-2024-a-Paris-1900768.jpg)
+1. [![Jusqu'à 38°C sont attendus à Aix-en-Provence samedi 20 juillet 2024 (Photo d'illustration)](https://images.bfmtv.com/1T0BlG6m8y11OWnVISmxOqbqeh4=/4x3:1252x705/300x0/images/1266899.jpg)
     
-    ![L'Assemblée, le 8 juillet 2024 à Paris](https://images.bfmtv.com/zG5mgI8MSIZhNpWjI_wUW5os5uQ=/0x40:768x472/300x0/images/L-Assemblee-le-8-juillet-2024-a-Paris-1900768.jpg)
+    ![Jusqu'à 38°C sont attendus à Aix-en-Provence samedi 20 juillet 2024 (Photo d'illustration)](https://images.bfmtv.com/1T0BlG6m8y11OWnVISmxOqbqeh4=/4x3:1252x705/300x0/images/1266899.jpg)
     
-    ### Député, président, questeur... Combien gagnent les parlementaires?](https://www.bfmtv.com/economie/economie-social/france/depute-president-questeur-combien-gagnent-les-parlementaires_AV-202407180053.html "Député, président, questeur... Combien gagnent les parlementaires?")
-2. [### Victimes, conducteur interpellé...Ce que l'on sait après qu'un automobiliste a foncé sur la terrasse d'un restaurant à Paris](https://www.bfmtv.com/paris/victimes-conducteur-interpelle-ce-que-l-on-sait-du-drame-survenu-sur-la-terrasse-d-un-restaurant-a-paris_AV-202407170841.html "Victimes, conducteur interpellé...Ce que l'on sait après qu'un automobiliste a foncé sur la terrasse d'un restaurant à Paris")
-3. [### "État amoureux", "relations passagères": lorsque l'Abbé Pierre évoquait son vœu de chasteté](https://www.bfmtv.com/societe/religions/etat-amoureux-relations-passageres-lorsque-l-abbe-pierre-evoquait-son-v-u-de-chastete_AV-202407180061.html ""État amoureux", "relations passagères": lorsque l'Abbé Pierre évoquait son vœu de chasteté")
-4. [### Pansement sur l'oreille, poing levé… Les nouveaux signes de ralliement des militants pro-Trump](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/pansement-sur-l-oreille-poing-leve-les-nouveaux-signes-de-ralliement-des-militants-pro-trump_AV-202407180206.html "Pansement sur l'oreille, poing levé… Les nouveaux signes de ralliement des militants pro-Trump")
-5. [### Une "chaleur notable" s'installe en France en fin de semaine](https://www.bfmtv.com/meteo/une-chaleur-notable-s-installe-en-france-en-fin-de-semaine_AV-202407170607.html "Une "chaleur notable" s'installe en France en fin de semaine")
+    ### Jusqu'à 38°C dans le sud-est, orages... À quelle météo s'attendre ce week-end?](https://www.bfmtv.com/meteo/jusqu-a-38-c-dans-le-sud-est-orages-a-quelle-meteo-s-attendre-ce-week-end_AN-202407190395.html "Jusqu'à 38°C dans le sud-est, orages... À quelle météo s'attendre ce week-end?")
+2. [### Mélenchon estime que le Parti socialiste fait "de l'obstruction" sur le choix du nom pour Matignon](https://www.bfmtv.com/politique/la-france-insoumise/melenchon-estime-que-le-parti-socialiste-fait-de-l-obstruction-sur-le-choix-du-nom-a-matignon_AN-202407190757.html "Mélenchon estime que le Parti socialiste fait "de l'obstruction" sur le choix du nom pour Matignon")
+3. [### "Je leur ai dit 'Je ne veux pas mourir'": le témoignage du policier blessé près des Champs-Élysées](https://www.bfmtv.com/paris/je-leur-ai-dit-je-ne-veux-pas-mourir-le-temoignage-du-policier-blesse-pres-des-champs-elysees_AN-202407190825.html ""Je leur ai dit 'Je ne veux pas mourir'": le témoignage du policier blessé près des Champs-Élysées")
+4. [### Mort de Cheng Pei-pei, star des arts martiaux, vue dans "Tigre et dragon" et "Mulan"](https://www.bfmtv.com/people/cinema/mort-de-cheng-pei-pei-star-des-arts-martiaux-vue-dans-tigre-et-dragon-et-mulan_AD-202407200139.html "Mort de Cheng Pei-pei, star des arts martiaux, vue dans "Tigre et dragon" et "Mulan"")
+5. [### Banques, supermarchés, avions... Des pannes informatiques paralysent des services partout dans le monde](https://www.bfmtv.com/tech/vie-numerique/banques-supermarches-avions-des-pannes-informatiques-paralysent-des-services-partout-dans-le-monde_AN-202407190288.html "Banques, supermarchés, avions... Des pannes informatiques paralysent des services partout dans le monde")
 
 ![BFMTV](/assets/v6/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
