@@ -766,5 +766,3 @@ Company
 Our cookies
 
 Our website uses cookies to improve your experience. By continuing to use the site you agree to our [Privacy Policy](https://www.translate.com/legal). Approve
-
-![Quantcast](//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.translate_com,DomainId.510063)
