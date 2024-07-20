@@ -1,4 +1,4 @@
-[![Sharethrough Privacy Center](https://privacy-center.sharethrough.com/wp-content/uploads/2022/12/STR-Logo-ColorWhite.svg)](https://privacy-center.sharethrough.com/en/)
+[![Sharethrough Privacy Center](https://privacy-center.sharethrough.com/wp-content/uploads/2024/07/Logo_sharethrough_equativ_light_horizontal.svg)](https://privacy-center.sharethrough.com/en/)
 
 * [Contact](https://www.sharethrough.com/contact)
 * [Sharethrough.com](https://www.sharethrough.com/)
