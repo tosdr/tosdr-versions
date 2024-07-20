@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The nice thing about standards is that you have so many to choose from; furthermore, if you do not like any of them, you can just wait for next year's model”
+“ I am driven by two main philosophies, know more today about the world than I knew yesterday. And lessen the suffering of others. You'd be surprised how far that gets you”
 
-[Andrew S. Tanenbaum](http://en.wikipedia.org/wiki/Andrew_Tanenbaum)
+[Neil deGrasse Tyson](http://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
 
 [](https://www.adafruit.com/about)
 
