@@ -85,7 +85,7 @@ This document was last updated March 15th, 2021.
 
 * [Home](https://forum.spinitron.com/)
 * [Categories](https://forum.spinitron.com/categories)
-* [FAQ/Guidelines](https://forum.spinitron.com/guidelines)
+* [Guidelines](https://forum.spinitron.com/guidelines)
 * [Terms of Service](https://forum.spinitron.com/tos)
 * [Privacy Policy](https://forum.spinitron.com/privacy)
 
