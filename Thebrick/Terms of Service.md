@@ -2,7 +2,7 @@
 
 [](#)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living)
 
@@ -31,7 +31,7 @@ Get Directions
 
 [Back to Menu](#)
 
-[Furniture](https://www.thebrick.com/collections/furniture) [Living Room](https://www.thebrick.com/collections/furniture-living-room) [Bedroom](https://www.thebrick.com/pages/furniture-bedroom) [Dining Room](https://www.thebrick.com/pages/furniture-dining-room) [Entry & Mudroom](https://www.thebrick.com/collections/furniture-entry-mudroom) [Office](https://www.thebrick.com/collections/furniture-home-office) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Online Exclusives](https://www.thebrick.com/collections/online-only-furniture) [Kids](https://www.thebrick.com/collections/furniture-kids) [Brands](#)
+[Furniture](https://www.thebrick.com/collections/furniture) [Living Room](https://www.thebrick.com/collections/furniture-living-room) [Bedroom](https://www.thebrick.com/collections/furniture-bedroom) [Dining Room](https://www.thebrick.com/collections/furniture-dining-room) [Entry & Mudroom](https://www.thebrick.com/collections/furniture-entry-mudroom) [Office](https://www.thebrick.com/collections/furniture-home-office) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture) [Kids](https://www.thebrick.com/collections/furniture-kids) [Brands](#)
 
 [Back to Furniture](#)
 
@@ -39,11 +39,11 @@ Get Directions
 
 [Back to Furniture](#)
 
-[Bedroom](https://www.thebrick.com/pages/furniture-bedroom) [King Beds](https://www.thebrick.com/collections/collection-king-beds) [Queen Beds](https://www.thebrick.com/collections/queen-beds) [Full Beds](https://www.thebrick.com/collections/full-beds) [Twin Beds](https://www.thebrick.com/collections/furniture-bedroom-twin-beds) [Kids Beds](https://www.thebrick.com/collections/furniture-kids-and-teens-beds) [Mattresses](https://www.thebrick.com/collections/mattresses-mattresses) [Bedding](https://www.thebrick.com/collections/mattresses-bedding) [Dressers & Chests](https://www.thebrick.com/collections/dressers-chests) [Armoires & Wardrobes](https://www.thebrick.com/collections/furniture-bedroom-armoires) [Nightstands](https://www.thebrick.com/collections/furniture-bedroom-nightstands) [Mirrors](https://www.thebrick.com/collections/all-mirrors) [Headboards](https://www.thebrick.com/collections/furniture-bedroom-headboards) [Bedroom Packages](https://www.thebrick.com/collections/furniture-bedroom-bedroom-packages)
+[Bedroom](https://www.thebrick.com/collections/furniture-bedroom) [King Beds](https://www.thebrick.com/collections/furniture-bedroom-king-beds) [Queen Beds](https://www.thebrick.com/collections/furniture-bedroom-queen-beds) [Full Beds](https://www.thebrick.com/collections/furniture-bedroom-full-beds) [Twin Beds](https://www.thebrick.com/collections/furniture-bedroom-twin-beds) [Kids Beds](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-beds) [Mattresses](https://www.thebrick.com/collections/mattresses-mattresses) [Bedding](https://www.thebrick.com/collections/mattresses-bedding) [Dressers & Chests](https://www.thebrick.com/collections/furniture-bedroom-dressers-chests) [Armoires & Wardrobes](https://www.thebrick.com/collections/furniture-bedroom-armoires) [Nightstands](https://www.thebrick.com/collections/furniture-bedroom-nightstands) [Mirrors](https://www.thebrick.com/collections/all-mirrors) [Headboards](https://www.thebrick.com/collections/furniture-bedroom-headboards) [Bedroom Packages](https://www.thebrick.com/collections/furniture-bedroom-bedroom-packages)
 
 [Back to Furniture](#)
 
-[Dining Room](https://www.thebrick.com/pages/furniture-dining-room) [Dining Chairs](https://www.thebrick.com/collections/furniture-dining-room-chairs) [Dining Tables](https://www.thebrick.com/collections/furniture-dining-dining-tables) [Dining Benches](https://www.thebrick.com/collections/furniture-dining-dining-benches) [Buffets, Servers and Cabinets](https://www.thebrick.com/collections/furniture-dining-buffets-servers-and-cabinets) [Bar Stools](https://www.thebrick.com/collections/furniture-dining-bar-stools) [Accent Chairs](https://www.thebrick.com/collections/furniture-dining-room-accent-chairs) [Dining Sets](https://www.thebrick.com/collections/furniture-dining-dining-sets) [Mix and Match](https://www.thebrick.com/pages/mix-and-match-dining)
+[Dining Room](https://www.thebrick.com/collections/furniture-dining-room) [Dining Chairs](https://www.thebrick.com/collections/furniture-dining-room-chairs) [Dining Tables](https://www.thebrick.com/collections/furniture-dining-dining-tables) [Dining Benches](https://www.thebrick.com/collections/furniture-dining-dining-benches) [Buffets, Servers and Cabinets](https://www.thebrick.com/collections/furniture-dining-buffets-servers-and-cabinets) [Bar Stools](https://www.thebrick.com/collections/furniture-dining-bar-stools) [Accent Chairs](https://www.thebrick.com/collections/furniture-dining-room-accent-chairs) [Dining Sets](https://www.thebrick.com/collections/furniture-dining-dining-sets) [Mix and Match](https://www.thebrick.com/pages/mix-and-match-dining)
 
 [Back to Furniture](#)
 
@@ -55,7 +55,7 @@ Get Directions
 
 [Back to Furniture](#)
 
-[Kids](https://www.thebrick.com/collections/furniture-kids) [Beds](https://www.thebrick.com/collections/furniture-kids-and-teens-beds) [Bunk Beds](https://www.thebrick.com/collections/furniture-kids-and-teens-bunkbeds) [Kids Headboards](https://www.thebrick.com/collections/furniture-kids-and-teens-headboards) [Kids Bedroom Packages](https://www.thebrick.com/collections/furniture-kids-and-teens-kids-bedroom-packages) [Mattresses](https://www.thebrick.com/collections/furniture-kids-mattresses) [Infants and Toddlers](https://www.thebrick.com/collections/baby-and-toddler) [Cribs](https://www.thebrick.com/collections/furniture-kids-and-teens-infants-and-toddlers-crib) [Crib Mattresses](https://www.thebrick.com/collections/furniture-kids-and-teens-infants-and-toddlers-crib-mattresses) [Change Tables](https://www.thebrick.com/collections/furniture-kids-and-teens-infants-and-toddlers-change-tables) [Desks & Hutches](https://www.thebrick.com/collections/furniture-kids-desks-hutches)
+[Kids](https://www.thebrick.com/collections/furniture-kids) [Beds](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-beds) [Bunk Beds](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-bunkbeds) [Kids Headboards](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-headboards) [Kids Bedroom Packages](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-kids-bedroom-packages) [Mattresses](https://www.thebrick.com/collections/furniture-mattresses-kids-mattresses) [Infants and Toddlers](https://www.thebrick.com/collections/furniture-bedroom-baby-and-toddler) [Cribs](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib) [Crib Mattresses](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses) [Change Tables](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-change-tables) [Desks & Hutches](https://www.thebrick.com/collections/furniture-kids-desks-hutches)
 
 [Back to Furniture](#)
 
@@ -66,11 +66,11 @@ Get Directions
 
 [Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/pages/mattresses) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
-[Mattresses](https://www.thebrick.com/pages/mattresses) [All Mattresses](https://www.thebrick.com/collections/mattresses) [King](https://www.thebrick.com/collections/mattresses-king) [Queen](https://www.thebrick.com/collections/mattresses-queen) [Full](https://www.thebrick.com/collections/mattresses-full) [Twin](https://www.thebrick.com/collections/mattresses-twin) [Twin XL](https://www.thebrick.com/collections/mattresses-twin-xl) [Crib](https://www.thebrick.com/collections/furniture-kids-and-teens-infants-and-toddlers-crib-mattresses)
+[Mattresses](https://www.thebrick.com/pages/mattresses) [All Mattresses](https://www.thebrick.com/collections/mattresses) [King](https://www.thebrick.com/collections/mattresses-king) [Queen](https://www.thebrick.com/collections/mattresses-queen) [Full](https://www.thebrick.com/collections/mattresses-full) [Twin](https://www.thebrick.com/collections/mattresses-twin) [Twin XL](https://www.thebrick.com/collections/mattresses-twin-xl) [Crib](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses)
 
 [Back to Mattresses](#)
 
@@ -83,11 +83,11 @@ Get Directions
 [Back to Mattresses](#)
 
 * Brands
-[Bedgear](https://www.thebrick.com/pages/bedgear) [DreamCloud](https://www.thebrick.com/pages/dreamcloud-mattresses) [Nectar](https://www.thebrick.com/pages/nectar-mattress) [Scott Living](https://www.thebrick.com/pages/scott-living) [Sealy](https://www.thebrick.com/pages/sealy-mattresses) [Serta](https://www.thebrick.com/pages/serta) [Simmons Beautyrest](https://www.thebrick.com/pages/beautyrest) [Springwall](https://www.thebrick.com/collections/mattresses-brands-springwall) [Stearns & Foster](https://www.thebrick.com/pages/stearns-and-foster) [Tempur-pedic](https://www.thebrick.com/pages/tempur-pedic)
+[Bedgear](https://www.thebrick.com/pages/bedgear) [Nectar](https://www.thebrick.com/pages/nectar-mattress) [Scott Living](https://www.thebrick.com/pages/scott-living) [Sealy](https://www.thebrick.com/pages/sealy-mattresses) [Serta](https://www.thebrick.com/pages/serta) [Simmons Beautyrest](https://www.thebrick.com/pages/beautyrest) [Springwall](https://www.thebrick.com/collections/mattresses-brands-springwall) [Stearns & Foster](https://www.thebrick.com/pages/stearns-and-foster) [Tempur-pedic](https://www.thebrick.com/pages/tempur-pedic)
 
 [Back to Menu](#)
 
-[Home Decor](https://www.thebrick.com/collections/home-decor) [Accent Furniture](https://www.thebrick.com/collections/home-decor-accent-furniture) [Decor and Accessories](https://www.thebrick.com/collections/home-decor-decor-and-accessories) [Online Exclusives](https://www.thebrick.com/collections/online-only-home-decor)
+[Home Decor](https://www.thebrick.com/collections/home-decor) [Accent Furniture](https://www.thebrick.com/collections/home-decor-accent-furniture) [Decor and Accessories](https://www.thebrick.com/collections/home-decor-decor-and-accessories)
 
 [Back to Home Decor](#)
 
@@ -99,7 +99,7 @@ Get Directions
 
 [Back to Menu](#)
 
-[Appliances](https://www.thebrick.com/collections/appliances) [Kitchen](https://www.thebrick.com/pages/kitchen-appliances) [Laundry](https://www.thebrick.com/pages/laundry) [Small Appliances](https://www.thebrick.com/pages/small-appliances) [Overstock](https://www.thebrick.com/collections/overstock-appliances) [Online Exclusives](https://www.thebrick.com/collections/online-only-appliances) [Brands](#)
+[Appliances](https://www.thebrick.com/collections/appliances) [Kitchen](https://www.thebrick.com/pages/kitchen-appliances) [Laundry](https://www.thebrick.com/pages/laundry) [Small Appliances](https://www.thebrick.com/pages/small-appliances) [Brands](#) [Overstock](https://www.thebrick.com/collections/overstock-appliances)
 
 [Back to Appliances](#)
 
@@ -184,7 +184,7 @@ Get Directions
 
 [Back to Menu](#)
 
-[Save](https://www.thebrick.com/pages/deals) [See Flyers](https://www.thebrick.com/pages/flyer) [Today's Deals](https://www.thebrick.com/pages/deals) [Brick Outlet](https://www.thebrick.com/pages/brick-outlet) [Last Chance](https://www.thebrick.com/collections/last-chance)
+[Save](https://www.thebrick.com/pages/deals) [See Flyers](https://www.thebrick.com/pages/flyer) [Brick Outlet](https://www.thebrick.com/pages/brick-outlet) [Last Chance](https://www.thebrick.com/collections/last-chance)
 
 [Back to Menu](#)
 
@@ -210,7 +210,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/terms-and-conditions)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/764/assets/Brick-logo-en.svg?v=144201696812184966561718651841)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/782/assets/Brick-logo-en.svg?v=144201696812184966561721146707)](https://www.thebrick.com/)
 
  
 
@@ -425,11 +425,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/764/assets/lazyPixel.png?v=40482922527014850811718651875)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
