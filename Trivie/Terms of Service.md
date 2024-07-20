@@ -1,55 +1,56 @@
-[![Trivie Logo](https://assets-global.website-files.com/5a85f0bc6e2edb0001797b74/60ef84bfa9f795bd5301773d_Full%20Logo%20-%20Color.png)](https://www.trivie.com/)
+[![Trivie](https://trivie.com/hs-fs/hubfs/raw_assets/public/Trivie_June2024/images/image-logo.png?width=1000&height=67&name=image-logo.png "Trivie")](https://www.trivie.com/?hsLang=en)
 
-[How It Works](https://www.trivie.com/how-it-works)
+* [How It Works](https://trivie.com/how-it-works)
+* [Problems We Solve](https://trivie.com/problems-we-solve)
+* [Pricing](https://trivie.com/pricing)
 
-[Problems We Solve](https://www.trivie.com/problems-we-solve)
-
-[Pricing](https://www.trivie.com/pricing)
-
-[Sign In](https://www.trivie.com/lets-get-started-login)
-
-[Demo](https://www.trivie.com/request-a-trivie-demo)
+* [Sign In](https://trivie.com/lets-get-started-login)
+* [Demo](https://trivie.com/request-a-trivie-demo)
 
 [Beta
 
-TrivieAI](https://www.trivie.com/ai)
+TrivieAI](https://www.trivie.com/ai?hsLang=en)
 
-[How It Works](https://www.trivie.com/how-it-works)[Problems We Solve](https://www.trivie.com/problems-we-solve)[Pricing](https://www.trivie.com/pricing)[Sign In](https://www.trivie.com/lets-get-started-login)[Demo](https://www.trivie.com/request-a-trivie-demo)
+* [How It Works](https://trivie.com/how-it-works)
+* [Problems We Solve](https://trivie.com/problems-we-solve)
+* [Pricing](https://trivie.com/pricing)
+* [Sign In](https://trivie.com/lets-get-started-login)
+* [Demo](https://trivie.com/request-a-trivie-demo)
 
 Terms of Service
 ================
 
-[Terms and conditions of license](#Terms-and-conditions-of-license)
+[Terms and conditions of license](#bkmrk1)
 
-[Your Account](#Your-Account)
+[Your Account](#bkmrk2)
 
-[Fees](#Fees)
+[Fees](#bkmrk3)
 
-[Grant of license](#Grant-of-license)
+[Grant of license](#bkmrk4)
 
-[Certain defined terms](#Certain-defined-terms)
+[Certain defined terms](#bkmrk5)
 
-[Terms and termination](#Terms-and-termination)
+[Terms and termination](#bkmrk6)
 
-[Your Express Acknowledgments and Agreements](#Your-Express-Acknowledgments-and-Agreements)
+[Your Express Acknowledgments and Agreements.](#bkmrk7)
 
-[Upgrades](#Upgrades)
+[Upgrades](#bkmrk8)
 
-[Limited warranty](#Limited-warranty)
+[Limited warranty](#bkmrk9)
 
-[Privacy policy](#Privacy-policy)
+[Privacy policy](#bkmrk10)
 
-[Indemnification](#Indemnification)
+[Indemnification](#bkmrk11)
 
-[Miscellaneous](#Miscellaneous)
+[Miscellaneous](#bkmrk12)
 
-[Support Services](#Support-Services)
+[Support Services](#bkmrk13)
 
 Last Updated: July 26, 2021  
   
 Something we haven't covered? Email us at [contact@trivie.com](#) and we'll get back to you!
 
-‍  
+‍
 
 Terms and conditions of license
 -------------------------------
@@ -157,7 +158,7 @@ EXCEPT AS EXPRESSLY SET FORTH IN “LIMITED WARRANTY” ABOVE, TRIVIE PROVIDES T
 Privacy policy
 --------------
 
-A comprehensive explanation of our privacy policy can be found at [https://www.trivie.com/privacy-policy.](https://www.trivie.com/privacy)
+A comprehensive explanation of our privacy policy can be found at [https://www.trivie.com/privacy-policy.](https://www.trivie.com/privacy?hsLang=en)
 
 Indemnification
 ---------------
@@ -172,59 +173,37 @@ This Agreement, together with any letter agreement or other business term sheet 
 Miscellaneous
 -------------
 
-A waiver by Trivie of a breach of any provision of this Agreement shall not operate as, or be construed as, a waiver or breach of any other provision of this Agreement. If any part of this Agreement is held invalid, void, or unenforceable, that part shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the balance of this Agreement shall remain in full force and effect. Except as otherwise expressly provided herein, neither this Agreement nor any rights or obligations hereunder may be transferred, sublicensed, or assigned by you without Trivie' prior written consent, which it may grant or withhold in its sole discretion, and any attempt to the contrary will be void and a material violation of this Agreement; provided, however, that you may assign the license granted herein to your wholly-owned subsidiaries who have agreed to be bound by all of the terms and conditions contained in this Agreement without Trivie' prior consent. Trivie may assign this Agreement and the obligations hereunder to any wholly-owned subsidiary, successor to its business, or acquirer of its assets, whether by merger or acquisition, without your prior consent. Trivie reserves the right to disclose to third parties that you are a customer of Trivie. Any notices to Trivie under this Agreement shall be deemed to be given when deposited in the United States Mail by certified or registered mail, postage prepaid, and addressed in writing to: P.O. Box 12801, Dallas, Texas 75225, attention Compliance. Other communications with Trivie may be made via e-mail at [contact@trivie.com](mailto:contact@trivie.com), [sales@trivie.com](mailto:sales@trivie.com), or [support@trivie.com](http://support@trivie.com/).
+A waiver by Trivie of a breach of any provision of this Agreement shall not operate as, or be construed as, a waiver or breach of any other provision of this Agreement. If any part of this Agreement is held invalid, void, or unenforceable, that part shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the balance of this Agreement shall remain in full force and effect. Except as otherwise expressly provided herein, neither this Agreement nor any rights or obligations hereunder may be transferred, sublicensed, or assigned by you without Trivie' prior written consent, which it may grant or withhold in its sole discretion, and any attempt to the contrary will be void and a material violation of this Agreement; provided, however, that you may assign the license granted herein to your wholly-owned subsidiaries who have agreed to be bound by all of the terms and conditions contained in this Agreement without Trivie' prior consent. Trivie may assign this Agreement and the obligations hereunder to any wholly-owned subsidiary, successor to its business, or acquirer of its assets, whether by merger or acquisition, without your prior consent. Trivie reserves the right to disclose to third parties that you are a customer of Trivie. Any notices to Trivie under this Agreement shall be deemed to be given when deposited in the United States Mail by certified or registered mail, postage prepaid, and addressed in writing to: P.O. Box 12801, Dallas, Texas 75225, attention Compliance. Other communications with Trivie may be made via e-mail at [contact@trivie.com](mailto:contact@trivie.com), [sales@trivie.com](mailto:sales@trivie.com), or [support@trivie.com](http://support@trivie.com/?hsLang=en).
 
 Support Services
 ----------------
 
 With an account in good standing, email and in-app support are included at no additional cost. Support Services are available from 8am to 6pm, Monday – Friday CST, excluding holidays (“Support Hours”). Support Service requests will be answered within one business day of receipt during Support Hours. We do not promise or guarantee any specific response time. We may limit or deny your access to Support Services if we determine, in our reasonable discretion, that you are acting, or have acted in a way that results or has resulted in misuse of support or abuse of a Trivie representative. Issues resulting from your use of API's or your modifications to code in the Software may be outside the Support Services.
 
-[![Trivie Logo](https://assets-global.website-files.com/5a85f0bc6e2edb0001797b74/60ef84bfa9f795bd5301773d_Full%20Logo%20-%20Color.png)](https://www.trivie.com/)
+[![Trivie](https://trivie.com/hs-fs/hubfs/Trivie_June2024/images/image-logo.png?width=500&height=108&name=image-logo.png "Trivie")](https://trivie.com/?hsLang=en)
 
 ©2024 Trivie, Inc.
 
-Product
+* [Product](javascript:;)
+    * [How It Works](https://trivie.com/how-it-works)
+    * [Problems We Solve](https://trivie.com/problems-we-solve)
+    * [Pricing](https://trivie.com/pricing)
+    * [Demo](https://trivie.com/request-a-trivie-demo)
+* [Company](javascript:;)
+    * [Careers](https://trivie.com/careers)
+    * [Partners](https://trivie.com/partners)
+* [Resources](javascript:;)
+    * [Blog](https://trivie.com/blog)
+    * [Support](https://trivie.com/support)
+    * [Contact Us](https://trivie.com/contact)
 
-[How It Works](https://www.trivie.com/how-it-works)
+[TrivieAI](https://trivie.com/ai?hsLang=en)
 
-[Problems We Solve](https://www.trivie.com/problems-we-solve)
+* [Privacy Policy](https://www.trivie.com/privacy?hsLang=en)
+* [Terms and Conditions](https://www.trivie.com/terms-of-service?hsLang=en)
 
-[Pricing](https://www.trivie.com/pricing)
+[![Facebook](https://trivie.com/hs-fs/hubfs/Trivie_June2024/images/60f1ffbaf83197fa39f8749a_facebook.png?width=48&name=60f1ffbaf83197fa39f8749a_facebook.png "Facebook")](https://www.facebook.com/Trivielearning/)
 
-[Demo](https://www.trivie.com/request-a-trivie-demo)
+[![Linkedin ](https://trivie.com/hs-fs/hubfs/Trivie_June2024/images/60f1ffd54a4a0f16e5bd6ae1_linkedin-in.png?width=46&name=60f1ffd54a4a0f16e5bd6ae1_linkedin-in.png "Linkedin ")](https://www.linkedin.com/company/trivie-inc/)
 
-Company
-
-[Careers](https://www.trivie.com/careers)
-
-[Partners](https://www.trivie.com/partners)
-
-Resources
-
-[Blog](https://www.trivie.com/blog)
-
-[Support](https://www.trivie.com/support)
-
-[Contact Us](https://www.trivie.com/contact)
-
-[Training Checklist](https://resources.trivie.com/training-checklist)
-
-[TrivieAI
-
-NEW](https://www.trivie.com/ai)
-
-[Try For Free](https://www.trivie.com/free-trial)
-
-[Privacy Policy](https://www.trivie.com/privacy)
-
-[Terms and Conditions](https://www.trivie.com/terms-of-service)
-
-[![](https://assets-global.website-files.com/5a85f0bc6e2edb0001797b74/60f1ffbaf83197fa39f8749a_facebook.png)](https://www.facebook.com/Trivielearning/)
-
-[![](https://assets-global.website-files.com/5a85f0bc6e2edb0001797b74/60f1ffd54a4a0f16e5bd6ae1_linkedin-in.png)](https://www.linkedin.com/company/trivie-inc/)
-
-[![](https://assets-global.website-files.com/5a85f0bc6e2edb0001797b74/60f1ffd888ab94471d5c3009_twitter.png)](https://twitter.com/trivieinc)
-
-### Awesome! We can't wait to connect with you.
-
-![websights](https://ws.zoominfo.com/pixel/622133f96c0053001b3a3276)
+[![Twitter](https://trivie.com/hs-fs/hubfs/Trivie_June2024/images/60f1ffd888ab94471d5c3009_twitter.png?width=48&name=60f1ffd888ab94471d5c3009_twitter.png "Twitter")](https://twitter.com/trivieinc)
