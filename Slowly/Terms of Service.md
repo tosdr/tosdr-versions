@@ -236,3 +236,43 @@ Start connecting with the world now!
    
 
 [Special Thanks 💛](https://slowly.app/credits/)
+
+We are using cookies to give you the best experience on our website.
+
+You can find out more about which cookies we are using or switch them off in settings.
+
+Accept Reject
+
+Close GDPR Cookie Settings
+
+![Slowly](https://slowly.app/wp-content/plugins/gdpr-cookie-compliance/dist/images/gdpr-logo.png)
+
+* Privacy Overview
+* Strictly Necessary Cookies
+* 3rd Party Cookies
+
+[Powered by  GDPR Cookie Compliance](https://wordpress.org/plugins/gdpr-cookie-compliance/)
+
+Privacy Overview
+
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+
+Strictly Necessary Cookies
+
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+
+Enable or Disable Cookies 
+
+If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
+
+3rd Party Cookies
+
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+
+Keeping this cookie enabled helps us to improve our website.
+
+Enable or Disable Cookies 
+
+Please enable Strictly Necessary Cookies first so that we can save your preferences!
+
+Enable All Save Settings
