@@ -8,7 +8,7 @@
     * [Global Footprint](https://shutterflyinc.com/global-footprint/)
 * [Our Brands](https://shutterflyinc.com/our-brands/)
 * [Our Commitments](#)Open menu
-    * [ESG](https://shutterflyinc.com/esg/)
+    * [Purpose & Impact](https://shutterflyinc.com/purpose-and-impact/)
     * [Open Door Project](https://shutterflyinc.com/open-door-project/)
 * [Careers](#)Open menu
     * [Overview](https://shutterflyinc.com/career-overview/)
