@@ -124,19 +124,19 @@ last week
 Trending Apps
 =============
 
-[Xì Dách Offline](https://xi-dach-offline.apps112.com/ "Continue to app")
+[Chest Legend](https://chest-legend.apps112.com/ "Continue to app")
 
-[Secret Diary](https://secret-diary.apps112.com/ "Continue to app")
+[Fixando](https://fixando.apps112.com/ "Continue to app")
 
-[Diamond Plusiq](https://diamond-plusiq-ios.apps112.com/ "Continue to app")
+[9Weather: Weather forecast](https://9weather-weather-forecast-ios.apps112.com/ "Continue to app")
 
-[Pompeii Tour - Travel Guide](https://pompeii-tour-travel-guide-ios.apps112.com/ "Continue to app")
+[Sparrow - Golf](https://sparrow-golf-ios.apps112.com/ "Continue to app")
 
-[Vampire: Dark Night](https://vampire-dark-night-ios.apps112.com/ "Continue to app")
+[Boom Cash - Games with Rewards](https://shoot-6.apps112.com/ "Continue to app")
 
-[SwapMe-AI Face Swap&Deepfake](https://swapme-ai-face-swap-deepfake-ios.apps112.com/ "Continue to app")
+[Platifiy: Movie Show & Tv](https://platifiy-movie-show-tv-ios.apps112.com/ "Continue to app")
 
-[Antstream Arcade](https://antstream-arcade-ios.apps112.com/ "Continue to app")
+[Tiki Bar: Free Bartender Game](https://tiki-bar-free-bartender-game.apps112.com/ "Continue to app")
 
   
 
