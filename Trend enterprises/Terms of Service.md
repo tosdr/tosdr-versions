@@ -1,8 +1,6 @@
 [VIEW CART](https://www.trendenterprises.com/cart)
 
-       
-
-              
+                 
 
 [Menu](#)
 
@@ -161,8 +159,8 @@ Email:
 Mail:  
 TREND enterprises, Inc.  
 Attn: Customer Care  
-P.O. Box 64073  
-St. Paul, MN 55164  
+300 Ninth Avenue SW  
+New Brighton, MN 55112  
 USA
 
 TREND reserves the right to decline to accept UGC from users who we believe to be repeat infringers.
@@ -210,11 +208,11 @@ Phone:
 Mail:  
 TREND enterprises, Inc.  
 Attn: Customer Care  
-P.O. Box 64073  
-St. Paul, MN 55164  
+300 Ninth Avenue SW  
+New Brighton, MN 55112  
 USA
 
-Date of last update: April 5, 2019
+Date of last update: April 5, 2019/July 16, 2024
 
 Contact
 -------
