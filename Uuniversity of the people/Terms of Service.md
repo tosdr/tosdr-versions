@@ -115,7 +115,7 @@
     
     * [UoPeople Portal](https://your.uopeople.edu/Account/SignIn?ReturnUrl=%2f)
     * [Online Campus](https://my.uopeople.edu/login/index.php)
-* [![English](https://www.uopeople.edu/wp-content/uploads/flags/us-flag-1.jpg)](https://www.uopeople.edu/terms-of-service/)
+* [EN](https://www.uopeople.edu/terms-of-service/ "EN")
 
 * [Search](#)
 * [Search](#)
