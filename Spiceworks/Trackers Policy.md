@@ -40,7 +40,7 @@
     * [Contracts](https://apps.spiceworks.com/tools/contracts/?ref_source=spiceworks_header)
     * [Connectivity Dashboard](https://www.spiceworks.com/free-network-troubleshooting-tool?ref_source=spiceworks_header)
     * [All IT Tools](https://www.spiceworks.com/tools?ref_source=spiceworks_header)
-* [Newsletters](http://accounts.spiceworks.com/pages/newsletters?ref_source=spiceworks_header)
+* [Newsletters](https://accounts.spiceworks.com/pages/newsletters?ref_source=spiceworks_header)
     
 * [Events](https://community.spiceworks.com/c/events/14?ref_source=spiceworks_header)
     
