@@ -134,27 +134,27 @@ About Us
 
 NAS- Network Attached Storage
 
-* ###### Personal and Home NAS
+* ###### Tower NAS
     
-    * [TS-216G NEW](https://www.qnap.com/go/product/ts-216g)
-    * [TS-133](https://www.qnap.com/go/product/ts-133)
-    * [TS-262](https://www.qnap.com/go/product/ts-262)
-    * [TS-462](https://www.qnap.com/go/product/ts-462)
-    * [View All](https://www.qnap.com/en/product?product-group=home)
-* ###### Small and Midsize Business
-    
+    * [TS-632X NEW](https://www.qnap.com/go/product/ts-632x)
+    * [TS-432X NEW](https://www.qnap.com/go/product/ts-432x)
+    * [TS-216G](https://www.qnap.com/go/product/ts-216g)
     * [TVS-h874T](https://www.qnap.com/go/product/tvs-h874t)
-    * [TVS-h674T](https://www.qnap.com/go/product/tvs-h674t)
-    * [TBS-h574TX](https://www.qnap.com/go/product/tbs-h574tx)
-    * [TS-AI642](https://www.qnap.com/go/product/ts-ai642)
-    * [View All](https://www.qnap.com/en/product?product-group=smb)
-* ###### Enterprise NAS
+    * [View All](https://www.qnap.com/en/product?feature=form_factor-tower%2Cform_factor-set_top_design)
+* ###### Short Depth Rackmount NAS
+    
+    * [TS-855eU](https://www.qnap.com/go/product/ts-855eu)
+    * [TS-855eU-RP](https://www.qnap.com/go/product/ts-855eu-rp)
+    * [TS-435XeU](https://www.qnap.com/go/product/ts-435xeu)
+    * [TS-873AeU](https://www.qnap.com/go/product/ts-873aeu)
+    * [View All](https://www.qnap.com/en/product?feature=form_factor-short_depth_rackmount)
+* ###### Rackmount NAS
     
     * [TS-h3077AFU](https://www.qnap.com/go/product/ts-h3077afu)
     * [TS-h1677AXU-RP](https://www.qnap.com/go/product/ts-h1677axu-rp)
     * [TS-h1277AXU-RP](https://www.qnap.com/go/product/ts-h1277axu-rp)
     * [TS-h3087XU-RP](https://www.qnap.com/go/product/ts-h3087xu-rp)
-    * [View All](https://www.qnap.com/en/product?product-group=enterprise)
+    * [View All](https://www.qnap.com/en/product?feature=form_factor-rackmount)
 * ###### All-Flash NAS
     
     * [TS-h1090FU](https://www.qnap.com/go/product/ts-h1090fu)
@@ -194,18 +194,18 @@ Expansion Units
 
 * ###### Expand NAS Capacity
     
-    * [TL-R1600PES-RP](https://www.qnap.com/go/product/tl-r1600pes-rp)
     * [TL-R1200PES-RP](https://www.qnap.com/go/product/tl-r1200pes-rp)
+    * [TL-R1600PES-RP](https://www.qnap.com/go/product/tl-r1600pes-rp)
     * [TL-R2400PES-RP](https://www.qnap.com/go/product/tl-r2400pes-rp)
-    * [TL-R1620Sdc](https://www.qnap.com/go/product/tl-r1620sdc)
-    * [View All](https://www.qnap.com/en/product/compare-expansion?feature=support_os-qts%2Csupport_os-qes)
+    * [TL-R1220Sep-RP](https://www.qnap.com/go/product/tl-r1220sep-rp)
+    * [View All](https://www.qnap.com/en/product/compare-expansion?feature=support_os-qts)
 * ###### Expand PC/Server Capacity
     
     * [TL-R1620Sdc](https://www.qnap.com/go/product/tl-r1620sdc)
     * [TL-R1220Sep-RP](https://www.qnap.com/go/product/tl-r1220sep-rp)
     * [TL-R1620Sep-RP](https://www.qnap.com/go/product/tl-r1620sep-rp)
     * [TL-D400S](https://www.qnap.com/go/product/tl-d400s)
-    * [View All](https://www.qnap.com/en/product/compare-expansion?feature=support_os-windows%2Csupport_os-ubuntu%2Csupport_os-mac)
+    * [View All](https://www.qnap.com/en/product/compare-expansion?feature=support_os-windows)
 * ###### Resources
     
     * [Storage Expansion Card](https://www.qnap.com/go/product/compare-accessory?tab=expansion_units)
@@ -229,6 +229,7 @@ Cloud Storage
     * [HybridMount](https://www.qnap.com/go/solution/hybridmount/)
     * [VJBOD Cloud](https://www.qnap.com/go/solution/vjbod-cloud/)
     * [QuObjects](https://www.qnap.com/go/software/quobjects)
+    * [AMIZcloud Central Management Platform](https://www.qnap.com/go/software/amiz-cloud)
 
 DAS & Accessories
 
@@ -261,17 +262,17 @@ High-speed Network Switches
     * [View All](https://www.qnap.com/en/product/series/qsw-2-5gbe-switches)
 * ###### QSW 10GbE Switches
     
+    * [QSW-M3224-24T NEW](https://www.qnap.com/go/product/qsw-m3224-24t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/go/product/qsw-m3216r-8s8t)
     * [QSW-3216R-8S8T](https://www.qnap.com/go/product/qsw-3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/go/product/qsw-m3212r-8s4t)
-    * [QSW-M2106PR-2S2T](https://www.qnap.com/go/product/qsw-m2106pr-2s2t)
     * [View All](https://www.qnap.com/en/product/series/qsw-10gbe-switches)
 * ###### QSW Full 10GbE Switches
     
+    * [QSW-M3224-24T NEW](https://www.qnap.com/go/product/qsw-m3224-24t)
     * [QSW-3216R-8S8T](https://www.qnap.com/go/product/qsw-3216r-8s8t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/go/product/qsw-m3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/go/product/qsw-m3212r-8s4t)
-    * [QSW-IM1200-8C](https://www.qnap.com/go/product/qsw-im1200-8c)
     * [View All](https://www.qnap.com/en/product/series/qsw-full-10gbe-switches)
 * ###### PoE Switches
     
@@ -282,10 +283,10 @@ High-speed Network Switches
     * [View All](https://www.qnap.com/en/product/series/poe-switches)
 * ###### QSW Managed Switches
     
+    * [QSW-M3224-24T NEW](https://www.qnap.com/go/product/qsw-m3224-24t)
     * [QSW-M3216R-8S8T](https://www.qnap.com/go/product/qsw-m3216r-8s8t)
     * [QSW-M3212R-8S4T](https://www.qnap.com/go/product/qsw-m3212r-8s4t)
     * [QSW-M2106PR-2S2T](https://www.qnap.com/go/product/qsw-m2106pr-2s2t)
-    * [QSW-M2106-4C](https://www.qnap.com/go/product/qsw-m2106-4c)
     * [View All](https://www.qnap.com/en/product/series/qsw-managed-switches)
 * ###### QSW Unmanaged Switches
     
@@ -451,6 +452,7 @@ Video Surveillance System
 * ###### Smart Video Surveillance System
     
     * [QVR Surveillance Solution](https://www.qnap.com/go/solution/qvr-surveillance/)
+    * [QVR Pro Client Software](https://www.qnap.com/go/software/qvr-pro-client)
 * ###### Resources
     
     * [Surveillance NAS Selector](https://www.qnap.com/go/qvr-nas-selector/)
@@ -560,6 +562,8 @@ QTS is the operating system for entry- and mid-level QNAP NAS. WIth Linux and ex
     * [QVR Face](https://www.qnap.com/go/solution/qvr-face)
     * [QVR DoorAccess](https://www.qnap.com/go/software/qvr-dooraccess)
     * [QVR Human](https://www.qnap.com/go/software/qvr-human)
+    * [QVR Guard](https://www.qnap.com/go/software/qvr-guard)
+    * [QVR Center](https://www.qnap.com/go/software/qvr-center)
     * [KoiMeeter](https://www.qnap.com/go/software/koimeeter)
 * ###### Security
     
@@ -644,7 +648,14 @@ QuTS hero is the operating system for high-end and enterprise QNAP NAS models. W
     * [Qmiix](https://www.qnap.com/go/software/qmiix)
 * ###### Surveillance & Smart Video
     
+    * [QVR Pro](https://www.qnap.com/go/software/qvr-pro)
     * [QVR Elite](https://www.qnap.com/go/software/qvr-elite)
+    * [QVR Smart Search](https://www.qnap.com/go/software/qvr-smart-search)
+    * [QVR Face](https://www.qnap.com/go/solution/qvr-face)
+    * [QVR DoorAccess](https://www.qnap.com/go/software/qvr-dooraccess)
+    * [QVR Human](https://www.qnap.com/go/software/qvr-human)
+    * [QVR Guard](https://www.qnap.com/go/software/qvr-guard)
+    * [QVR Center](https://www.qnap.com/go/software/qvr-center)
     * [KoiMeeter](https://www.qnap.com/go/software/koimeeter)
 * ###### Security
     
@@ -807,17 +818,18 @@ QVR Surveillance is QNAP’s network video recorder software solution. It offers
 ##### System
 
 * [QVR Surveillance Solution](https://www.qnap.com/go/solution/qvr-surveillance/)
-* [QVR Pro Client (PC)](https://www.qnap.com/go/utilities/surveillance)
+* [QVR Pro Client](https://www.qnap.com/go/software/qvr-pro-client)
 * [QVR Pro](https://www.qnap.com/go/software/qvr-pro)
 * [QVR Elite](https://www.qnap.com/go/software/qvr-elite)
 
 ##### Applications
 
 * [QVR Smart Search](https://www.qnap.com/go/software/qvr-smart-search)
-* [QVR Center](https://www.qnap.com/go/software/qvr-center)
+* [QVR Face](https://www.qnap.com/go/solution/qvr-face/)
 * [QVR DoorAccess](https://www.qnap.com/go/software/qvr-dooraccess)
-* [QVR Guard](https://www.qnap.com/go/software/qvr-guard)
 * [QVR Human](https://www.qnap.com/go/software/qvr-human)
+* [QVR Guard](https://www.qnap.com/go/software/qvr-guard)
+* [QVR Center](https://www.qnap.com/go/software/qvr-center)
 
 ##### Resources
 
@@ -865,6 +877,7 @@ Solution
     
     * [All-Flash Storage](https://www.qnap.com/go/solution/all-flash/)
     * [Petabyte-Scale Storage](https://www.qnap.com/go/solution/petabyte-storage/)
+    * [Storage/backup solution for RAG architecture](https://www.qnap.com/go/solution/optimize-ai-with-qnap-storage/)
     * [FC-SAN Solution](https://www.qnap.com/go/solution/fibrechannel-san/)
     * [High Availability Storage](https://enterprise-nas.qnap.com/)
     * [Cold Data Storage](https://www.qnap.com/go/solution/blueglacier/)
@@ -935,9 +948,11 @@ Solution
 * ###### Smart Video Surveillance
     
     * [NAS Smart Surveillance System Solutions](https://www.qnap.com/go/solution/qvr-surveillance/)
+    * [Video Surveillance Client Software](https://www.qnap.com/go/software/qvr-pro-client)
     * [AI-powered Surveillance Event Search](https://www.qnap.com/go/software/qvr-smart-search)
     * [Face Recognition](https://www.qnap.com/go/solution/qvr-face/)
     * [Door Access Control](https://www.qnap.com/go/software/qvr-dooraccess)
+    * [People Counting](https://www.qnap.com/go/software/qvr-human)
     * [Surveillance Systems Control Center](https://www.qnap.com/go/software/qvr-center)
     * [Support Milestone Surveillance Platform](https://www.qnap.com/go/solution/surveillance-milestone/)
     * [Surveillance NAS Selector](https://www.qnap.com/go/qvr-nas-selector/)
