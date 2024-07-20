@@ -297,7 +297,7 @@ Players may be asked to use a specific coupon code in order to access the Restri
 ### Approval of Withdrawals
 
 1. All withdrawal requests must first be reviewed and approved by the Casino before being sent for payment.
-2. All withdrawal requests will be reviewed within 7 business days from the date of the request.
+2. All withdrawal requests will be reviewed within 7 to 10 business days from the date of the request.
 3. A maximum of $2,500 will be approved per pay period. Ineligible requests will be denied within that time frame.
 4. Payment will be made in 7 to 10 business days after approval. A maximum of $2,500 will be sent per week. All balances will be sent the following week(s). This amount may vary due to processor limitations.
 5. Please be aware since this is an international transaction, your bank and/or other banks involved may charge additional currency conversion and processing fees.
