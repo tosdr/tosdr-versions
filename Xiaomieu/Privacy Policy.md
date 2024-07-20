@@ -88,7 +88,7 @@ Help
 
 [Smilies](https://xiaomi.eu/community/help/smilies/) [BB codes](https://xiaomi.eu/community/help/bb-codes/) [Trophies](https://xiaomi.eu/community/help/trophies/) [Cookie usage](https://xiaomi.eu/community/help/cookies/) [Terms and rules](https://xiaomi.eu/community/help/terms/) [Privacy policy](https://xiaomi.eu/community/help/privacy-policy/)
 
-We are Unofficial Xiaomi European Community | MIUI ROM Since 2010 ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://xiaomi.eu/community/misc/contact).
+We are Unofficial Xiaomi European Community | MIUI ROM Since 2010 ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please contact us.
 
 What information we hold about you
 ----------------------------------
@@ -150,9 +150,9 @@ We have a detailed cookie policy and more information about the cookies that we 
 Rights
 ------
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://xiaomi.eu/community/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://xiaomi.eu/community/misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please contact us. If you believe that the information we hold for you is incomplete or inaccurate, you may contact us to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://xiaomi.eu/community/misc/contact) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please contact us if you would like us to remove your personal data.
 
 Acceptance of this policy
 -------------------------
@@ -178,7 +178,7 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
 
 ### Quick Navigation
 
-[Home](https://xiaomi.eu/community) [Forums](https://xiaomi.eu/community/) [Contact us](https://xiaomi.eu/community/misc/contact)
+[Home](https://xiaomi.eu/community) [Forums](https://xiaomi.eu/community/)
 
 ### User Menu
 
@@ -191,7 +191,6 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
 * [Cookies](https://xiaomi.eu/community/misc/cookies "Cookie consent")
 * 
 
-* [Contact us](https://xiaomi.eu/community/misc/contact)
 * [Terms and rules](https://xiaomi.eu/community/help/terms/)
 * [Privacy policy](https://xiaomi.eu/community/help/privacy-policy/)
 * [Help](https://xiaomi.eu/community/help/)
@@ -214,7 +213,7 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1718961217%2C23127374fae453f8f2eed9696a80bfa8) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1718961217%2C23127374fae453f8f2eed9696a80bfa8)
+    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1721477503%2C9d848a975e45c47e7fd3ac2dec567637) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1721477503%2C9d848a975e45c47e7fd3ac2dec567637)
     
     * Essential cookies
     
