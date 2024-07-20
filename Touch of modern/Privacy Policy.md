@@ -30,7 +30,6 @@ Toggle navigation
     * [Fashion](https://www.touchofmodern.com/stores/345)
     * [Other](https://www.touchofmodern.com/stores/346)
     * [The Guide](https://www.touchofmodern.com/guides)
-    * [Clearance](https://www.touchofmodern.com/stores/646)
 
 Touch of Modern Privacy Policy
 ==============================
@@ -324,7 +323,7 @@ Calling us at: (415) 230-0750
 
 Emailing us at: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection)
 
-Mailing us at: 1221 Arrowhead Ct, Crown Point, IN 46307
+Mailing us at: 901 E. Northfield Drive, Suite 200, Brownsburg, IN 46112
 
   
 
@@ -348,4 +347,4 @@ Mailing us at: 1221 Arrowhead Ct, Crown Point, IN 46307
 
 ![](//action.dstillery.com/orbserv/nspix?adv=cl165659834990960&ns=7040&nc=Touch-of-Modern-Site-Visitor&ncv=36)
 
-![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1718947699)
+![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1721463300)
