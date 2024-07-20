@@ -206,15 +206,11 @@ Company
 
 Product
 
-[Why Riverside](https://riverside.fm/why-riverside)[Pricing](https://riverside.fm/pricing)[For Business](https://riverside.fm/business)[FAQ](https://riverside.fm/faq)[Apps](https://riverside.fm/faq)[Apps](#)[Support](#)
+[Why Riverside](https://riverside.fm/why-riverside)[Pricing](https://riverside.fm/pricing)[For Business](https://riverside.fm/business)[Mac App](https://riverside.fm/mac-app)[Mobile Apps](https://riverside.fm/mobile)[FAQ](https://riverside.fm/faq)[Apps](https://riverside.fm/faq)[Apps](#)[Support](#)
 
 Features
 
-[Recording](https://riverside.fm/recording)[Editor](https://riverside.fm/video-editor)[Magic Clips](https://riverside.fm/magic-clips)[Transcriptions](https://riverside.fm/transcription)[Captions](https://riverside.fm/captions)[Magic Audio](https://riverside.fm/magic-audio)[AI Show Notes](https://riverside.fm/show-notes)[Teleprompter](https://riverside.fm/teleprompter)[Async Recording](https://riverside.fm/async-recording)[Mobile Apps](https://riverside.fm/mobile)[Media Board](https://riverside.fm/mediaboard)[Apps](#)
-
-Solutions
-
-[Podcasters](https://riverside.fm/solutions/podcasters)[Producers](https://riverside.fm/solutions/producers)[Marketers](https://riverside.fm/solutions/marketers)
+[Recording](https://riverside.fm/recording)[Livestream](https://riverside.fm/livestream)[Editor](https://riverside.fm/video-editor)[Magic Clips](https://riverside.fm/magic-clips)[Transcriptions](https://riverside.fm/transcription)[Captions](https://riverside.fm/captions)[Magic Audio](https://riverside.fm/magic-audio)[AI Show Notes](https://riverside.fm/show-notes)[Teleprompter](https://riverside.fm/teleprompter)[Async Recording](https://riverside.fm/async-recording)[Media Board](https://riverside.fm/mediaboard)[Clean Up](https://riverside.fm/clean-up-speech)[Overlays](https://riverside.fm/overlays)[Studio Branding](https://riverside.fm/studio-branding)[Apps](#)
 
 Use Cases
 
@@ -235,76 +231,22 @@ Use Cases
 [Live Show](https://riverside.fm/use-cases/live-podcast-software)
 
 [Split-screen video](https://riverside.fm/use-cases/split-screen-video)
+
+Tools
+
+![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/66757a9aca7ef105105e5b22_footer-arrow-down.svg)
+
+[Podcast Maker](https://riverside.fm/tools/podcast-maker)[Podcast Recorder](https://riverside.fm/tools/podcast-recorder)[Live Podcast](https://riverside.fm/tools/live-podcast)[YouTube Video Maker](https://riverside.fm/tools/youtube-video-maker)[Screen Recorder](https://riverside.fm/tools/screen-recorder)[Video Compressor](https://riverside.fm/video-compressor)[WAV to MP3](https://riverside.fm/wav-to-mp3)[Podcast Name Generator](https://riverside.fm/podcast-name-generator)[YouTube Name Generator](https://riverside.fm/youtube-name-generator)[Mic Test](https://riverside.fm/mic-test)[Webcam Test](https://riverside.fm/webcam-test)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/62503e0c2da9f4a5f577189b_all-tools-arrow.svg)
+
+All Tools](https://riverside.fm/tools)
+
+Solutions
+
+[Podcasters](https://riverside.fm/solutions/podcasters)[Producers](https://riverside.fm/solutions/producers)[Marketers](https://riverside.fm/solutions/marketers)
 
 Resources
 
 [Riverside University](https://riverside.fm/university)[Recorded on Riverside](https://riverside.fm/recorded-on-riverside)[Help Center](https://support.riverside.fm/hc/en-us)[Case Studies](https://riverside.fm/case-studies)[Webinar Hub](https://riverside.fm/webinars)[Partners](https://riverside.fm/partners)[Blog](https://riverside.fm/blog)[Product Videos](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](#)[Masterclass](https://riverside.fm/masterclass/master-the-art-of-podcasting)
-
-Tools
-
-[Podcast Name Generator](https://riverside.fm/podcast-name-generator)[Apps](#)[YouTube name generator](https://riverside.fm/youtube-name-generator)[Mic test](https://riverside.fm/mic-test)[Webcam test](https://riverside.fm/webcam-test)[Podcast Transcript](https://riverside.fm/draft-pages/podcast-transcript)[Podcast Software](#)[Podcast Recording Software](https://riverside.fm/why-riverside)[Audio Recording Software](https://riverside.fm/partner-aws)[Video Recording Software](#)[Video Podcast Software](https://riverside.fm/riverside-vs-zoom)[Use Phone as Webcam](https://riverside.fm/riverside-vs-zoom)[Video Podcast](https://riverside.fm/riverside-vs-zoom)[Live Podcasting](https://riverside.fm/riverside-vs-zoom)[Podcast Recording](https://riverside.fm/riverside-vs-zoom)
-
-[Screen Recorder](https://riverside.fm/podcast-name-generator)[Apps](#)[Podcast Editing Software](https://riverside.fm/youtube-name-generator)[Webcam Recording Software](https://riverside.fm/mic-test)[Online Voice Recorder](https://riverside.fm/webcam-test)[Screen Recording Software](https://riverside.fm/draft-pages/podcast-transcript)[Video Capture Software](#)[Video Transcription](https://riverside.fm/why-riverside)[Recording Software](https://riverside.fm/partner-aws)[Video to Text](#)[Audio Transcriber](https://riverside.fm/riverside-vs-zoom)[Podcast Recording App](https://riverside.fm/riverside-vs-zoom)[Transcribe Youtube Video](https://riverside.fm/riverside-vs-zoom)[Youtube Transcript Generator](https://riverside.fm/riverside-vs-zoom)[Podcast Maker](https://riverside.fm/riverside-vs-zoom)
-
-[Podcast Maker](https://riverside.fm/tools/podcast-maker)[Podcast Recorder](https://riverside.fm/tools/podcast-recorder)[Live Podcast](https://riverside.fm/tools/live-podcast)[YouTube Video Maker](https://riverside.fm/tools/youtube-video-maker)[Screen Recorder](https://riverside.fm/tools/screen-recorder)[Video Compressor](https://riverside.fm/video-compressor)
-
-[WAV to MP3](https://riverside.fm/wav-to-mp3)[Podcast Name Generator](https://riverside.fm/podcast-name-generator)[YouTube Name Generator](https://riverside.fm/youtube-name-generator)[Mic Test](https://riverside.fm/mic-test)[Webcam Test](https://riverside.fm/webcam-test)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/62503e0c2da9f4a5f577189b_all-tools-arrow.svg)
-
-All Tools](https://riverside.fm/tools)
-
-Company
-
-[About us](https://riverside.fm/about)[Blog](https://riverside.fm/draft-pages/blog)[Careers](https://careers.riverside.fm/)[Partners](https://riverside.fm/partners)[Affiliate Program](https://riverside.fm/affiliate-program)[Creator Partnerships](https://riverside.fm/creator-partnerships)[Press](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](#)
-
-Product
-
-[Why Riverside](https://riverside.fm/why-riverside)[Pricing](https://riverside.fm/pricing)[For Business](https://riverside.fm/business)[FAQ](https://riverside.fm/faq)[Apps](https://riverside.fm/faq)[Apps](#)[Support](#)
-
-Features
-
-[Recording](https://riverside.fm/recording)[Editor](https://riverside.fm/video-editor)[Magic Clips](https://riverside.fm/magic-clips)[Transcriptions](https://riverside.fm/transcription)[Captions](https://riverside.fm/captions)[Magic Audio](https://riverside.fm/magic-audio)[AI Show Notes](https://riverside.fm/show-notes)[Teleprompter](https://riverside.fm/teleprompter)[Async](https://riverside.fm/async-recording)[Mobile Apps](https://riverside.fm/mobile)[Media Board](https://riverside.fm/mediaboard)[Apps](#)
-
-Solutions
-
-[Podcasters](https://riverside.fm/solutions/podcasters)[Producers](https://riverside.fm/solutions/producers)[Marketers](https://riverside.fm/solutions/marketers)
-
-Resources
-
-[Riverside University](https://riverside.fm/university)[Recorded on Riverside](https://riverside.fm/recorded-on-riverside)[Help Center](https://support.riverside.fm/hc/en-us)[Case Studies](https://riverside.fm/case-studies)[Webinar Hub](https://riverside.fm/webinars)[Partners](https://riverside.fm/partners)[Blog](https://riverside.fm/blog)[Product Videos](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](#)
-
-Use Cases
-
-[Video Marketing](https://riverside.fm/use-cases/video-marketing)
-
-[Podcasts](https://riverside.fm/use-cases/podcasting)
-
-[Learning & Development](https://riverside.fm/use-cases/learning-development)
-
-[Internal Communications](https://riverside.fm/use-cases/internal-communications)
-
-[Webinars](https://riverside.fm/use-cases/webinars)
-
-[Customer Testimonials](https://riverside.fm/use-cases/video-testimonial-software)
-
-[Virtual Conferences](https://riverside.fm/use-cases/virtual-conferences)
-
-[Live Show](https://riverside.fm/use-cases/live-podcast-software)
-
-[Split-screen video](https://riverside.fm/use-cases/split-screen-video)
-
-Tools
-
-![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61e1559b696539040a70ff2a_tool-arrow-down.svg)
-
-[Podcast Maker](https://riverside.fm/tools/podcast-maker)[Podcast Recorder](https://riverside.fm/tools/podcast-recorder)[Live Podcast](https://riverside.fm/tools/live-podcast)[YouTube Video Maker](https://riverside.fm/tools/youtube-video-maker)[Screen Recorder](https://riverside.fm/tools/screen-recorder)[Video Compressor](https://riverside.fm/video-compressor)
-
-[WAV to MP3](https://riverside.fm/wav-to-mp3)[Podcast Name Generator](https://riverside.fm/podcast-name-generator)[YouTube Name Generator](https://riverside.fm/youtube-name-generator)[Mic Test](https://riverside.fm/mic-test)[Webcam Test](https://riverside.fm/webcam-test)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/62503e0c2da9f4a5f577189b_all-tools-arrow.svg)
-
-All Tools](https://riverside.fm/tools)
-
-[Podcast Name Generator](https://riverside.fm/podcast-name-generator)[Apps](#)[YouTube name generator](https://riverside.fm/youtube-name-generator)[Mic test](https://riverside.fm/mic-test)[Webcam test](https://riverside.fm/webcam-test)[Podcast Transcript](https://riverside.fm/draft-pages/podcast-transcript)[Podcast Software](#)[Podcast Recording Software](https://riverside.fm/why-riverside)[Audio Recording Software](https://riverside.fm/partner-aws)[Video Recording Software](#)[Video Podcast Software](https://riverside.fm/riverside-vs-zoom)[Use Phone as Webcam](https://riverside.fm/riverside-vs-zoom)[Video Podcast](https://riverside.fm/riverside-vs-zoom)[Live Podcasting](https://riverside.fm/riverside-vs-zoom)[Podcast Recording](https://riverside.fm/riverside-vs-zoom)
-
-[Screen Recorder](https://riverside.fm/podcast-name-generator)[Apps](#)[Podcast Editing Software](https://riverside.fm/youtube-name-generator)[Webcam Recording Software](https://riverside.fm/mic-test)[Online Voice Recorder](https://riverside.fm/webcam-test)[Screen Recording Software](https://riverside.fm/draft-pages/podcast-transcript)[Video Capture Software](#)[Video Transcription](https://riverside.fm/why-riverside)[Recording Software](https://riverside.fm/partner-aws)[Video to Text](#)[Audio Transcriber](https://riverside.fm/riverside-vs-zoom)[Podcast Recording App](https://riverside.fm/riverside-vs-zoom)[Transcribe Youtube Video](https://riverside.fm/riverside-vs-zoom)[Youtube Transcript Generator](https://riverside.fm/riverside-vs-zoom)[Podcast Maker](https://riverside.fm/riverside-vs-zoom)
 
 [![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61e588e0c1469fc45c4e0214_apple-ios-icon.svg)](https://apps.apple.com/us/app/riverside-fm/id1554443872)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61e11c17aacd34d67314788e_google-play-footer-logo.svg)](https://play.google.com/store/apps/details?id=riverside.fm)![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61682b8a6b01383d78c950f5_aicpa-green.png)
 
