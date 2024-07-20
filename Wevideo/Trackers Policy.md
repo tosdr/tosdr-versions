@@ -56,6 +56,7 @@ Skip to main content
     * [Assignment Ideas Library](https://www.wevideo.com/education/video-projects)
     * [Professional development](https://www.wevideo.com/education/professional-development)
     * [Certification courses](https://www.wevideo.com/certifications)
+    * [Creative challenges](https://www.wevideo.com/creative-challenges)
     * [Webinars](https://www.wevideo.com/webinars)
     * [Blog](https://www.wevideo.com/blog)
     * [Help center](https://www.wevideo.com/support)
