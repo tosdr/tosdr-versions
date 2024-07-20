@@ -97,6 +97,7 @@ Here is a breakdown of the user data that has been shared with authorities since
 
 | Year | Requests by Swiss authorities | Requests by foreign authorities with Swiss legal assistance | Requests that have met the formal requirements | Requests that didn’t meet the formal requirements | Provided data (# cases) | Provided data (# IDs) |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2024 | 157 (\*) |     | 156 | 1   | 147 | 408 |
 | 2023 | 177 (\*) |     | 177 | 0   | 170 | 810 |
 | 2022 | 103 (\*) |     | 102 | 1   | 97  | 473 |
 | 2021 | 80 (\*) |     | 78  | 2   | 71  | 369 |
@@ -110,7 +111,7 @@ Here is a breakdown of the user data that has been shared with authorities since
 
 \* Since the new BÜPF act has come into force on March 1, 2018, Threema can no longer distinguish between requests by Swiss authorities and requests by foreign authorities with Swiss legal assistance.
 
-Last update: 2024-01-01
+Last update: 2024-07-01
 
 Products[Overview](https://threema.ch/en "Overview")[Threema](https://threema.ch/en/secure-messenger "Threema")[Threema Work](https://threema.ch/en/work/business-messenger "Threema Work")[Threema Broadcast](https://threema.ch/en/broadcast "Threema Broadcast")[Threema OnPrem](https://threema.ch/en/onprem "Threema OnPrem")[Threema Gateway](https://threema.ch/en/gateway "Threema Gateway")
 
