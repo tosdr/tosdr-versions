@@ -20,6 +20,7 @@ Menu
     * [Black Office Chairs](https://www.xchair.com/collections/black-office-chairs)
     * [Refurbished Office Chairs](https://www.xchair.com/collections/refurbished)
     * [All Office Chairs](https://www.xchair.com/collections/office-chairs)
+    * [Office Chairs for Teams](https://www.xchair.com/pages/bulksales)
     
     *       [![Woman in the office working at desk in X-tech ](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
@@ -104,6 +105,7 @@ Shop by Category
 * [Black Office Chairs](https://www.xchair.com/collections/black-office-chairs)
 * [Refurbished Office Chairs](https://www.xchair.com/collections/refurbished)
 * [All Office Chairs](https://www.xchair.com/collections/office-chairs)
+* [Office Chairs for Teams](https://www.xchair.com/pages/bulksales)
 
 Desks & Tables
 
