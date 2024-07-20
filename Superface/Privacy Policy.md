@@ -59,6 +59,37 @@ If you subscribe to our newsletter, our Company processes your e-mail address in
 
 The Company may track your response to the newsletter sent under points 2. and 3. above.
 
+**f. AI Models**
+
+Our AI Agent apps utilizes AI models provided by OpenAI.
+
+1\. Data Shared with AI Models
+
+We share data provided by the API providers with these AI models. This data may include personal data.
+
+2\. Purpose of Sharing Data with AI Models
+
+The primary purpose of sharing data with AI models is to automate tasks such as updating customer data in CRM system. For example, the AI model may analyze email and, based on that data, udpate customer data in CRM system. This automation helps improve efficiency and reduce manual work of AI Agent user.
+
+3\. Usage and Impact on Users
+
+The AI models use the shared data to perform the specific tasks. The impact on users includes increased efficiency in task execution, as well as a reduction in manual workload. However, users should be aware that data processed by AI models may be used to inform and improve future AI functionalities.
+
+4\. User Control and Opt-Out Options
+
+Users have the option to run their own private AI models in Microsoft Azure if they prefer not to share their data with OpenAI models. This provides users with greater control over their data and the AI processes that utilize it. Instructions for setting up and using private AI models can be found in our user [documentation](https://superface.ai/docs/agent/changing-models).
+
+5\. Ensuring Responsible and Ethical Use of Data
+
+We are committed to ensuring the responsible and ethical use of data by AI models. This includes:
+
+* Implementing data minimization practices to ensure only necessary data is shared.
+* Regularly reviewing and updating our data protection measures to comply with industry standards and regulations.
+* Providing transparency about how data is used and the benefits of AI automation.
+* Allowing users to opt out of data sharing with AI models and offering alternative solutions.
+
+We continuously monitor and assess our AI models to ensure they operate within ethical guidelines and do not compromise user privacy or data security.
+
 **3\. What sources do we collect your personal data from?**
 
 We collect your personal data from multiple sources:
