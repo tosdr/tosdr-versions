@@ -28,11 +28,10 @@
             * [Equipment Tracking](https://www.zonarsystems.com/solutions/ztrak-asset-tracking/ "Equipment Tracking")
             * [Fuel Analytics](https://www.zonarsystems.com/solutions/zfuel-efficiency-tracking/ "Fuel Analytics")
             * [Custom Integrations](https://www.zonarsystems.com/customer-care/professional-services/ "Custom Integrations")
-        * Safety & Compliance
+        * In-Cab Tablets
             
-            * [EVIR Verified Inspections](https://www.zonarsystems.com/solutions/evir-electronic-verified-inspection-reporting/ "EVIR Verified Inspections")
-            * [ELD & Hours of Service](https://www.zonarsystems.com/solutions/zlogs-hours-of-service/ "ELD & Hours of Service")
-            * [Driver Dash Cam](https://www.zonarsystems.com/solutions/driver-coaching/ "Driver Dash Cam")
+            * [Samsung Galaxy](https://www.zonarsystems.com/solutions/samsung-tablets/ "Samsung Galaxy")
+            * [Device Management](https://www.zonarsystems.com/solutions/zonar-mobile-shield/ "Device Management")
     * * Off-Highway
             
             * [Site Optimization](https://www.zonarsystems.com/solutions/site-optimization/ "Site Optimization")
@@ -41,10 +40,12 @@
             * [Driver Workflow](https://www.zonarsystems.com/solutions/driver-workflow/ "Driver Workflow")
             * [Navigation](https://www.zonarsystems.com/solutions/advanced-gps-navigation/ "Navigation")
             * [Digital Forms](https://www.zonarsystems.com/solutions/zforms-forms-based-messaging/ "Digital Forms")
-        * In-Cab Tablets
+        * Safety & Compliance
             
-            * [Samsung Galaxy](https://www.zonarsystems.com/solutions/samsung-tablets/ "Samsung Galaxy")
-            * [Device Management](https://www.zonarsystems.com/solutions/zonar-mobile-shield/ "Device Management")
+            * [EVIR Verified Inspections](https://www.zonarsystems.com/solutions/evir-electronic-verified-inspection-reporting/ "EVIR Verified Inspections")
+            * [ELD & Hours of Service](https://www.zonarsystems.com/solutions/zlogs-hours-of-service/ "ELD & Hours of Service")
+            * [Driver Dash Cam](https://www.zonarsystems.com/solutions/driver-coaching/ "Driver Dash Cam")
+            * [CARB Compliance New](https://www.zonarsystems.com/solutions/carb-clean-truck-emissions-check/ "CARB Compliance")
     * * Ridership
             
             * [Scheduling & Dispatch](https://www.zonarsystems.com/solutions/bytecurve-scheduling-and-dispatch/ "Scheduling and Dispatch")
@@ -69,9 +70,9 @@
     
     * * Featured White Paper
             
-        * [![White Paper: Make your fleet more resilient to today’s challenges.](/wp-content/uploads/2024/01/Make-fleet-more-resilient-resc.webp)Make your fleet more resilient to today’s challenges.  
+        * [![White Paper: Optimize every school bus fleet using GPS & vehicle data](/wp-content/uploads/2024/07/optimize-school-bus-fleet-with-gps-and-vehicle-data-resource.webp)Optimize every school bus fleet using GPS & vehicle data.  
               
-            Read](https://www.zonarsystems.com/whitepapers/make-your-fleet-more-resilient-to-todays-challenges/)
+            Read](https://www.zonarsystems.com/whitepapers/optimize-school-bus-fleet-with-gps-and-vehicle-data/)
             
     * * Resource Hub
             
@@ -160,7 +161,7 @@ Close
 Zonarsystems.com Privacy Notice
 ===============================
 
-**Effective Date: June 30, 2023**
+**Effective Date: July 1, 2024**
 
 **PRIVACY NOTICE /YOUR PRIVACY RIGHTS**
 
