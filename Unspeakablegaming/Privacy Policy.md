@@ -21,9 +21,6 @@ Header - Shapes Theme
     * [![GRAVITY TRACKS](//www.unspeakable.com/cdn/shop/files/DSC_0978.jpg?v=1713976660&width=700)
         
         GRAVITY TRACKS](https://www.unspeakable.com/products/gravity-tracks)
-    * [![CUBE PLUSH](//www.unspeakable.com/cdn/shop/files/DSC09271_cutout_1.jpg?v=1709222291&width=700)
-        
-        CUBE PLUSH](https://www.unspeakable.com/products/cube-plush)
     * [![SQUISH FRIENDS](//www.unspeakable.com/cdn/shop/files/DSC_0910_1.jpg?v=1699383530&width=700)
         
         SQUISH FRIENDS](https://www.unspeakable.com/products/squish-friends)
@@ -36,29 +33,32 @@ Header - Shapes Theme
     * [![SCENTED SLIME](//www.unspeakable.com/cdn/shop/files/DSC_0889.jpg?v=1698765468&width=700)
         
         SCENTED SLIME](https://www.unspeakable.com/products/scented-slime)
+    * [![MAGIC CUBE](//www.unspeakable.com/cdn/shop/files/DSC_0913_1_c5c69abb-77f3-47d3-94bc-57fe145a48cd.jpg?v=1699029762&width=700)
+        
+        MAGIC CUBE](https://www.unspeakable.com/products/magic-cube)
     
     [View All](https://www.unspeakable.com/collections/toys-fun-stuff)
     
 * Merch
     
+    * [![YELLOW TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/yellowtornado.jpg?v=1715611755&width=700)
+        
+        YELLOW TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/yellow-tornado-hunter-t-shirt)
+    * [![BLUE TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/Nathan_WhiteBG_1.jpg?v=1716211898&width=700)
+        
+        BLUE TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/blue-tornado-hunter-t-shirt)
+    * [![RED TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/Gabe_WhiteBG.jpg?v=1716212244&width=700)
+        
+        RED TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/red-tornado-hunter-t-shirt)
+    * [![BLACK TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/James_WhiteBG.jpg?v=1716212153&width=700)
+        
+        BLACK TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/black-tornado-hunter-t-shirt)
+    * [![STREET ART T-SHIRT](//www.unspeakable.com/cdn/shop/files/IMG_2976.jpg?v=1719407713&width=700)
+        
+        STREET ART T-SHIRT](https://www.unspeakable.com/products/noodle-guy-shirt)
     * [![3 SILICONE WRISTBANDS](//www.unspeakable.com/cdn/shop/files/DSC_0999.jpg?v=1718112203&width=700)
         
         3 SILICONE WRISTBANDS](https://www.unspeakable.com/products/3-silicon-wristbands)
-    * [![DOG TAGS](//www.unspeakable.com/cdn/shop/files/DSC_0993_1.jpg?v=1715092722&width=700)
-        
-        DOG TAGS](https://www.unspeakable.com/products/dog-tags)
-    * [![16oz BUBBLE CUP](//www.unspeakable.com/cdn/shop/files/DSC_0986.jpg?v=1715091163&width=700)
-        
-        16oz BUBBLE CUP](https://www.unspeakable.com/products/16oz-bubble-cup)
-    * [![BLACK & NEON GREEN HAT](//www.unspeakable.com/cdn/shop/files/DSC_0983.jpg?v=1714671074&width=700)
-        
-        BLACK & NEON GREEN HAT](https://www.unspeakable.com/products/black-neon-green-hat)
-    * [![BLACK T-SHIRT WITH NEON GREEN FONT - Unspeakable](//www.unspeakable.com/cdn/shop/files/10-9-21MerchWebsite-1-152_1.jpg?v=1715024342&width=700)
-        
-        BLACK T-SHIRT WITH NEON GREEN FONT](https://www.unspeakable.com/products/new-black-t-shirt-with-neon-green-font)
-    * [![WHITE SMILEY SWIRL T-SHIRT](//www.unspeakable.com/cdn/shop/files/dsc09168_1.jpg?v=1713194256&width=700)
-        
-        WHITE SMILEY SWIRL T-SHIRT](https://www.unspeakable.com/products/white-smiley-swirl-t-shirt)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
