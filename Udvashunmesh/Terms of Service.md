@@ -1,6 +1,6 @@
 [](javascript:void(0))
 
-[![](/Content/Image/UdvashUnmeshLogo.png)](https://online.udvash-unmesh.com/)
+[![](/Content/Image/UdvashUnmeshOnlineCare.png)](https://online.udvash-unmesh.com/)
 
 * [](#)
 
@@ -67,32 +67,30 @@ These Terms shall be construed in accord with the applicable laws of Bangladesh.
 In case of any dispute or difference either in interpretation or otherwise, of any terms of these Terms of Use, the same shall be referred to an independent arbitrator who will be appointed by Udvash & Unmesh and such arbitrator’s decision shall be final and binding on you. The above arbitration shall be in accordance with the Arbitration and Conciliation Act, 2001 as amended time to time. The arbitration shall be conducted in English language and shall be held in Dhaka.  
 Udvash & Unmesh may at any time modify the Terms of its Website without any prior notification to the user. Should you wish to terminate your account due to a modification to the Terms or the Privacy Policy, you may do so by contacting us. However, if you continue to use the service you shall be deemed to have agreed to accept and abide by the modified Terms of this Website.
 
-![](/Content/Image/ud_un_footer_logo.png)
+![](/Content/Image/Udvash-Unmesh-Online-Care-Logo-White.png)
 
-Help
-----
+#### Help
 
-* [About Us](https://online.udvash-unmesh.com/Home/AboutUs)
-* [FAQs](https://online.udvash-unmesh.com/Home/FAQs)
-* [Privacy Policy](https://online.udvash-unmesh.com/Home/PrivacyPolicy/)
-* [Terms & Conditions](https://online.udvash-unmesh.com/Home/TermsAndConditions/)
+* [About Us](https://udvash-unmesh.com/AboutUs)
+* [Privacy Policy](https://udvash-unmesh.com/privacy-policy)
+* [Terms & Conditions](https://udvash-unmesh.com/terms-conditions)
+* [FAQs](https://udvash-unmesh.com/Faq)
+* [Contact Us](https://udvash-unmesh.com/ContactUs)
 
-Explore
--------
+#### Explore
 
 * [Udvash](https://udvash.com/)
-* [Unmesh](https://unmeshbd.com/)
-* [Uttoron](https://uttoron.academy/)
-* [Udvash-Unmesh](https://udvash-unmesh.com/)
-* [Contact Us](https://online.udvash-unmesh.com/Home/ContactUs/)
+* [Unmesh](https://unmesh.com/)
 
-Get in Touch
-------------
+#### Get in Touch
 
-* [Address: Malek Tower (6th Floor), Opposite Farmgate  
-    Police Box, Farmgate Dhaka 1215.](https://goo.gl/maps/Avb2D9UhcXwxr1oq8)
-* Helpline : [09666775566](tel:09666775566)
+* Address: Hossain Tower (5th Floor), 75, Green Road, Farmgate; Sher-e-Bangla Nagar PS; Dhaka-1205.
+    
+* [Helpline: 09666775566](tel:09666775566)
+    
 * Email: [\[email protected\]](https://online.udvash-unmesh.com/cdn-cgi/l/email-protection)
-*  [![](/Content/UmsTheme/assets/img/facebook.svg)](https://www.facebook.com/udvash/ "Udvash")[![](/Content/UmsTheme/assets/img/youtube.svg)](https://www.youtube.com/c/UdvashUnmesh "Udvash-Unmesh")[![](/Content/UmsTheme/assets/img/facebook.svg)](https://www.facebook.com/UnmeshPage/ "Unmesh")
+    
+*  [![](/Content/Image/youtube.png)](https://www.youtube.com/c/UdvashUnmesh)[![](/Content/Image/instagram.png)](https://www.instagram.com/udvash_unmesh/)[![](/Content/Image/linkedIn.png)](https://www.linkedin.com/in/udvashunmesh/)
+    
 
-Copyright © 2000-2024 Udvash-Unmesh. | P-14284 | V-16.160.8 | [Privacy Policy](https://online.udvash-unmesh.com/Home/PrivacyPolicy/) | [Terms & Conditions](https://online.udvash-unmesh.com/Home/TermsAndConditions/)
+Copyright © Udvash-Unmesh Online Care. All rights reserved. 2024 | P-9784 | V-17.162
