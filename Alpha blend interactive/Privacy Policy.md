@@ -222,6 +222,7 @@ Privacy Policy
             
             * [Funny Cube](https://documentation.abinteractive.net/cck/lua/examples/funny-cube/)
             * [Disable GO at Home](https://documentation.abinteractive.net/cck/lua/examples/instances-disable-go-in-home/)
+            * [Player Profile Picture](https://documentation.abinteractive.net/cck/lua/examples/player-profile-picture/)
             * [Thumbs Up Launcher](https://documentation.abinteractive.net/cck/lua/examples/player-thumbs-up-launch/)
             * [Teleport from Water](https://documentation.abinteractive.net/cck/lua/examples/player-teleport-away-from-water/)
             * [Viewpoint Raycaster](https://documentation.abinteractive.net/cck/lua/examples/viewpoint-raycast/)
