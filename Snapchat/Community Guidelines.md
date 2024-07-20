@@ -1,4 +1,12 @@
-[](https://support.snapchat.com/?lang=en-US)[Privacy and Safety Hub](https://support.snapchat.com/?lang=en-US)
+[](https://support.snapchat.com/?lang=en-US)[Privacy, Safety, and Policy Hub](https://support.snapchat.com/?lang=en-US)
+
+[Policy](https://support.snapchat.com/policy?lang=en-US)
+
+* [Policy](https://support.snapchat.com/policy?lang=en-US)
+* [Community Guidelines](https://support.snapchat.com/policy/policy-community-guidelines?lang=en-US)
+* [Advertising Policies](https://support.snapchat.com/policy/advertising-policies?lang=en-US)
+* [Content Guidelines](https://support.snapchat.com/policy/content-guidelines-recommendation-eligibility?lang=en-US)
+* [Commercial Content Policy](https://snap.com/en-US/terms/commercial-content?lang=en-US)
 
 [Privacy](https://support.snapchat.com/privacy/privacy-center?lang=en-US)
 
@@ -26,7 +34,6 @@
 * [About](https://support.snapchat.com/privacy/transparency/about?lang=en-US)
 * [Glossary](https://support.snapchat.com/privacy/transparency/glossary?lang=en-US)
 * [Previous Reports](https://support.snapchat.com/privacy/transparency/previous-reports?lang=en-US)
-* [Community Guidelines](https://support.snapchat.com/privacy/transparency/community-guidelines?lang=en-US)
 * [European Union](https://support.snapchat.com/privacy/transparency/european-union?lang=en-US)
 * [Ads Gallery](http://adsgallery.snap.com/?lang=en-US)
 * [Australia](https://support.snapchat.com/privacy/transparency/australia-transparency-page?lang=en-US)
@@ -36,14 +43,13 @@
 
 [News](https://support.snapchat.com/news?lang=en-US)
 
-Transparency
+Secondary Navigation
 
 * Transparency
     * [Transparency Report](https://support.snapchat.com/privacy/transparency?lang=en-US)
     * [About](https://support.snapchat.com/privacy/transparency/about?lang=en-US)
     * [Glossary](https://support.snapchat.com/privacy/transparency/glossary?lang=en-US)
     * [Previous Reports](https://support.snapchat.com/privacy/transparency/previous-reports?lang=en-US)
-    * [Community Guidelines](https://support.snapchat.com/privacy/transparency/community-guidelines?lang=en-US)
     * [European Union](https://support.snapchat.com/privacy/transparency/european-union?lang=en-US)
     * [Ads Gallery](http://adsgallery.snap.com/?lang=en-US)
     * [Australia](https://support.snapchat.com/privacy/transparency/australia-transparency-page?lang=en-US)
