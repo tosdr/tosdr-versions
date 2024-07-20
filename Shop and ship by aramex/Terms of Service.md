@@ -58,7 +58,7 @@ Looking for help? You're in the right place. Type your message and we will get b
 Select Country
 ==============
 
-Select Country Angola Armenia Australia Azerbaijan Bahrain Bangladesh Benin Bulgaria Burkina Faso Cameroon Congo Cyprus Czech Republic Djibouti Egypt Ethiopia Georgia Germany Ghana Greece Guinea Hong Kong India Indonesia Iraq Jordan Kazakhstan Kenya Kuwait Lebanon Liberia Libya Lithuania Madagascar Malawi Malaysia Maldives Mali Mauritius Morocco Nepal New Zealand Nigeria Oman Pakistan Palestine Qatar Reunion IS Saudi Arabia Senegal Sierra Leone Singapore Somalia Sri Lanka Switzerland Tanzania Thailand Togo Tunisia Turkey Uganda United Arab Emirates United Kingdom Uzbekistan Zambia
+Select Country Angola Armenia Australia Azerbaijan Bahrain Bangladesh Benin Bulgaria Burkina Faso Cameroon Congo Cyprus Czech Republic Djibouti Egypt Ethiopia Georgia Germany Ghana Greece Guinea Hong Kong India Indonesia Iraq Jordan Kazakhstan Kuwait Lebanon Liberia Libya Lithuania Madagascar Malawi Malaysia Maldives Mali Mauritius Morocco Nepal New Zealand Nigeria Oman Pakistan Palestine Qatar Reunion IS Saudi Arabia Senegal Sierra Leone Singapore Somalia Sri Lanka Switzerland Tanzania Thailand Togo Tunisia Turkey Uganda United Arab Emirates United Kingdom Uzbekistan Zambia
 
 * [TERMS AND CONDITIONS](#pstab0)
 * [TERM OF USE](#pstab1)
