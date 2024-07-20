@@ -1,42 +1,40 @@
-* [Learn how to monetize your high-quality content with affiliate marketing. Download eBook →](https://www.sovrn.com/blog/ebook-affiliate-marketing-guide/)
+[Back](#back)
 
-* [Home](https://www.sovrn.com/)
-* [**Advertising**Turn your quality content into revenue.](#nav-advertising-menu)
-    * [**Ad Exchange**Turn high-quality content into high-quality returns.](https://www.sovrn.com/exchange/)
-    * [**Ad Management**Partner with us to maximize your ad revenue without the headache.](https://www.sovrn.com/ad-management/)
-    * [—](#)
-    * [**Buy on the Sovrn Ad Exchange**Connect to premium content creators with highly engaged audiences.](https://www.sovrn.com/buyers/)
-* [**Commerce**Monetize product links in your content.](#nav-commerce-menu)
-    * [**Affiliate Marketing**Monetize product links in your content.](https://www.sovrn.com/commerce/)
-    * [—](#)
-    * [**Become a Sovrn Merchant**Increase your reach with content publishers.](https://www.sovrn.com/merchants/)
-* [**Data**Maximize the value of every visitor.](#nav-data)
-    * [**Signal**Maximize the value of every visitor.](https://www.sovrn.com/signal-inventory/)
-    * [**Market Insights**Compare your monetization strategy to the market.](https://www.sovrn.com/market-data/)
-    * [**Data Monetization**Powerful, secure data revenue.](https://www.sovrn.com/data-monetization/)
-* [**Learn**Tips and information to help you thrive.](#nav-learn)
-    * [**Resources**](https://www.sovrn.com/resources/)
-    * [**Blog**](https://www.sovrn.com/blog/)
-    * [**Knowledge Base**](https://knowledge.sovrn.com/)
-    * [**Press**](https://www.sovrn.com/press/)
-* [**Company**What we stand for.](#nav-company)
-    * [**About**](https://www.sovrn.com/company/)
-    * [**Sovrn Platform**](https://www.sovrn.com/publishers/)
-    * [**Careers**](https://www.sovrn.com/careers/)
-    * [**Contact**](https://knowledge.sovrn.com/contact-us)
-    * [**Status**](https://status.sovrn.com/)
-    * [**Trust Center**](https://www.sovrn.com/trust-center/)
-* [**Legal**Privacy, legal and compliance.](#nav-legal)
-    * [**Legal**](https://www.sovrn.com/legal/master-services-agreement/)
-    * [**Privacy Policy**](https://www.sovrn.com/privacy-policy/privacy-policy/)
-    * [**Security**](https://www.sovrn.com/company/security/)
-    * [**Your Privacy Choices**](https://privacy.sovrn.com/opt-out)
-    * [**Ad Choices**](https://www.aboutads.info/)
+* [![](/wp-content/themes/wptheme-vellum2024/img/sovrn-logo.svg)](https://www.sovrn.com/)
+* [**Products**](#nav-products)
+    * [**Advertising**](#nav-advertising-menu)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9299.png)**Ad Exchange**Omnichannel demand pipeline](https://www.sovrn.com/exchange/)
+        * [![](https://www.sovrn.com/wp-content/uploads/ad-mgmt-nav-logo1a.png)**Ad Management**Ad Ops Software](https://www.sovrn.com/ad-management/)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9298.png)**Signal**Data decisioning engine](https://www.sovrn.com/signal-inventory/)
+    * [**Commerce**](#nav-commerce-menu)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9297.png)**Commerce Unified**Affiliate workflow software](https://www.sovrn.com/commerce-unified/)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9391-2.png)**Commerce Affiliate**Affiliate marketing tools](https://www.sovrn.com/commerce-affiliate/)
+    * [**Data**](#nav-data-menu)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9392nav-data-.png)**Data Monetization**Powerful, secure data revenue](https://www.sovrn.com/data-monetization/)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9392nav-data-Data-Solutions.png)**Data Solutions**Engagement-driven data](https://www.sovrn.com/data-solutions/)
+* [**Resources**](#nav-resources)
+    * [**Learn**](#nav-learn)
+        * [**Resources**](https://www.sovrn.com/resources/)
+        * [**Blog**](https://www.sovrn.com/blog/)
+        * [**Market Insights**](https://www.sovrn.com/market-data/)
+    * [**Company**](#nav-company)
+        * [**About**](https://www.sovrn.com/about-sovrn/)
+        * [**Careers**](https://www.sovrn.com/careers/)
+        * [**Press**](https://www.sovrn.com/press/)
+    * [**Support**](#nav-support)
+        * [**Contact**](https://knowledge.sovrn.com/s/contactsupport)
+        * [**Knowledge Base**](https://knowledge.sovrn.com/)
+        * [**Status**](https://status.sovrn.com/)
+    * [**Legal**](#nav-legal)
+        * [**Legal**](https://www.sovrn.com/legal/master-services-agreement/)
+        * [**Trust Center**](https://www.sovrn.com/trust-center/)
+        * [**Privacy Policy**](https://www.sovrn.com/privacy-policy/privacy-policy/)
+        * [**Security**](https://www.sovrn.com/about-sovrn/security/)
+        * [**Your Privacy Choices**](https://privacy.sovrn.com/opt-out)
+        * [**Ad Choices**](https://www.aboutads.info/)
 * [**Sign In**](#nav-sign-in)
-    * [**Ad Exchange**Programmatic advertising](https://platform.sovrn.com/account/signin?path=advertising/getting-started "Programmatic advertising")
-    * [**Ad Management**Next-level ad ops software](https://proper.io/signin)
-    * [**Commerce**Monetize product links](https://platform.sovrn.com/account/signin?path=commerce/getting-started)
-    * [**Comparisons**Shopping galleries and widgets](https://publishers.monetizer101.com/)
+    * [![](https://www.sovrn.com/wp-content/uploads/Group-9299-2.png)**Sovrn Platform**Ad Exchange and Commerce](https://platform.sovrn.com/account/signin "Programmatic advertising")
+    * [![](https://www.sovrn.com/wp-content/uploads/ad-mgmt-nav-logo1a.png)**Ad Management**Next-level ad ops software](https://proper.io/signin)
 * [**Sign Up**](http://platform.sovrn.com/account/signup)
 
 Cookies are widely used in digital advertising to gather information about our website and its performance. Neither us, advertisers or our advertising partners can gain personally identifiable information from these cookies.  
@@ -198,18 +196,12 @@ Powered by [![CookieYes Logo](https://www.sovrn.com/wp-content/plugins/webtoffee
 
            
 
-[Sign up for our monthly newsletter](https://info.sovrn.com/newsletter-signup)
-
-[Sign up for our monthly newsletter](https://info.sovrn.com/newsletter-signup)
-
 Power to the publisher.
-
-* * *
-
-© Sovrn, Inc. All rights reserved.
 
 * [](https://www.linkedin.com/company/sovrn-holdings-inc-)
 * [](https://www.facebook.com/sovrnholdings)
 * [](https://twitter.com/sovrnholdings)
+
+© Sovrn, Inc. All rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3746873&fmt=gif)
