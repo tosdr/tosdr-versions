@@ -15,7 +15,7 @@
 Privacy Policy
 ==============
 
-Last Updated: June 12, 2023
+Last Updated: July 19, 2024
 
 Protecting your personal information is important to us. This Privacy Policy explains how we at Fifth Generation, Inc. (“Company”) collect and use personal information when you visit our website(s), browse and shop Tito’s Handmade Vodka® and merchandise, and use our services and applications (the “Services”). By accessing and using our Services, in person and online, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.  
 
@@ -123,6 +123,10 @@ You can manage your Pinterest Ad Preferences [here](https://www.pinterest.com/se
 You can manage your Twitter Ad Preferences [here](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads).
 
 You can manage your Snapchat Ad Preferences [here](https://help.snapchat.com/hc/en-us/articles/7012345515796-How-to-Adjust-My-Advertising-Interest-Preferences-on-Snapchat).
+
+You can manage your TikTok Ad Preferences [here](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/how-your-ads-are-personalized).
+
+You can manage your Epsilon Ad Preferences [here](https://legal.epsilon.com/dsr/).
 
 You may manage your receipt of emails by clicking on the “unsubscribe” link located on the bottom of most emails from Company. Alternatively, you can email us at [\[email protected\]](https://www.titosvodka.com/cdn-cgi/l/email-protection) and we will help you out. We will use commercially reasonable efforts to process such requests in a timely manner.
 
