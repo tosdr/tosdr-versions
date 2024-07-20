@@ -124,15 +124,13 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     
     [AICD’s Chief Economist: Mark Thirlwell GAICD](https://www.aicd.com.au/news-media/economic-weekly.html)
     
-    [Boardroom Conversations Podcast](https://www.aicd.com.au/news-media/boardroom-conversations.html)
-    
-    [Directors On Digital Podcast Series](https://www.aicd.com.au/news-media/directors-on-digital-podcast-series.html)
-    
     [COVID-19](https://www.aicd.com.au/news-media/covid-19.html)
     
     [Podcasts](https://www.aicd.com.au/news-media/podcasts.html) Open Sub Menu
     
     * [Dismal Science Podcast](https://www.aicd.com.au/news-media/podcasts/dismal-science-podcast.html)
+    * [Directors On Digital Podcast Series](https://www.aicd.com.au/news-media/podcasts/directors-on-digital-podcast-series.html)
+    * [Boardroom Conversations Podcast](https://www.aicd.com.au/news-media/podcasts/boardroom-conversations.html)
     
     [All topics](https://www.aicd.com.au/all-topics.html)
     
