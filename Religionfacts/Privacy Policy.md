@@ -20,7 +20,6 @@
     
     * [Big Religion Chart](https://religionfacts.com/big-religion-chart)
     * [Christianity/Islam/Judaism](https://religionfacts.com/charts/christianity-islam-judaism)
-    * [Christian Denominations](https://religionfacts.com/charts/christian-denominations-stats)
     * [Mahayana/Theravada Buddhism](https://religionfacts.com/charts/mahayana-theravada-buddhism)
     * [Shi'a/Sunni Islam](https://religionfacts.com/charts/shia-sunni-islam)
     * [All Comparison Charts](https://religionfacts.com/charts)
@@ -29,8 +28,6 @@
 
 Privacy Policy
 ==============
-
-published October 3, 2013 · updated June 10, 2024
 
 ReligionFacts.com does not collect any personally-identifiable information from visitors. No part of the site requires you to register or log in, and we don't use cookies.
 
@@ -49,11 +46,11 @@ Article Info
 | --- | --- |
 | Article Title | Privacy Policy |
 | Date Published | October 3, 2013 |
-| Last Updated | June 10, 2024 |
-| Full URL | https://religionfacts.com/privacy |
+| Last Updated | June 21, 2024 |
+| Full URL | https:://religionfacts.com/privacy |
 | Short URL | https://rlft.co/1879 |
-| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https://religionfacts.com/privacy. Accessed 20 Jun 2024. |
-| Embed Link | <a href="https://religionfacts.com/privacy">Privacy Policy</a> — ReligionFacts |
+| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https:://religionfacts.com/privacy. Accessed 20 Jul 2024. |
+| Embed Link | <a href="https:://religionfacts.com/privacy">Privacy Policy</a> — ReligionFacts |
 
 © 2004-2024 [ReligionFacts](https://religionfacts.com/). All rights reserved.
 
@@ -64,5 +61,3 @@ We are not associated with any religion or organization.
 [Definitions of Religion](https://religionfacts.com/religion) · [List of Religions](https://religionfacts.com/religions) · [Big Religion Chart](https://religionfacts.com/big-religion-chart)
 
 [About Us](https://religionfacts.com/about) · [Privacy Policy](https://religionfacts.com/privacy)
-
-![](https://queue.simpleanalyticscdn.com/noscript.gif)
