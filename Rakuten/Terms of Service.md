@@ -65,7 +65,7 @@ Related Articles
 
 [How Does Rakuten Work?](https://www.rakuten.com/help/article/how-does-rakuten-work-360002117047)
 
-[The Many Ways to Earn Cash Back With Rakuten](https://www.rakuten.com/help/article/the-many-ways-to-earn-cash-back-with-rakuten-360002100548)
+[All the Ways to Shop with Rakuten](https://www.rakuten.com/help/article/all-the-ways-to-shop-with-rakuten-360002100548)
 
 [Refer-a-Friend Program FAQ](https://www.rakuten.com/help/article/referafriend-program-faq-360002117087)
 
@@ -103,6 +103,8 @@ Help Topics
 
 [Account Questions](https://www.rakuten.com/help/category/account-questions-26578301675411)
 
+[More Features](https://www.rakuten.com/help/category/more-features-31315401553811)
+
 [Legal](https://www.rakuten.com/help/category/legal-115001470127)
 
 [Company Information](https://www.rakuten.com/help/category/company-information-115001466388)
@@ -139,7 +141,6 @@ About
 * Don’t Sell My Data
     
 * [Help](https://www.rakuten.com/help)
-* [Cash Back for Change](https://www.rakuten.com/cash-back-for-change)
 
 Stores & Brands
 
