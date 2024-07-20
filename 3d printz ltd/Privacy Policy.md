@@ -36,7 +36,7 @@ Quick Links
 * [Shop Filament](#)
     
     * PLA Filament
-        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla)
+        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla/PLA-Filament)
         * [PLA 2.85mm](https://3dprintz.co.uk/collections/pla-2-85mm)
         * [Fiberlogy Filaments](https://3dprintz.co.uk/collections/fiberlogy-filament)
         * [PLA - Magic Silk](https://3dprintz.co.uk/collections/magic-silk-tri-colour-silk-filament)
@@ -107,7 +107,7 @@ Quick Links
 * [Shop Filament](#)
     
     * PLA Filament
-        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla)
+        * [PLA 1.75mm](https://3dprintz.co.uk/collections/pla/PLA-Filament)
         * [PLA 2.85mm](https://3dprintz.co.uk/collections/pla-2-85mm)
         * [Fiberlogy Filaments](https://3dprintz.co.uk/collections/fiberlogy-filament)
         * [PLA - Magic Silk](https://3dprintz.co.uk/collections/magic-silk-tri-colour-silk-filament)
