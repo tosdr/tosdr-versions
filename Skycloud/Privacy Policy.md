@@ -1,3 +1,5 @@
+         Unlimited Cloud Storage for life, Securely store any file. sCloud official | Skycloud                                            
+
 [![sCloud www.scloud.live](https://scloud.live/skycloudnew1/skycloud_logo2017.PNG)](https://scloud.live/)
 =========================================================================================================
 
@@ -145,7 +147,7 @@ Choose a language
 
   
 
-[Skycloud](https://scloud.live/ "Skycloud") © Proudly Made in the Uk - sCloud 2011-2024  
-s Official Skycloud (sCloud)
+[sCloud](https://scloud.live/ "Skycloud") © Proudly Made in the Uk - sCloud 2011-2024  
+s Official (sCloud)
 
 [](#)
