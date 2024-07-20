@@ -14,7 +14,7 @@
             Reach shoppers anywhere with mobile experiences that convert.](https://www.yotpo.com/platform/sms-marketing/)
         * [Reviews & UGC
             
-            Collect and display customer content across the buyer journey.](https://www.yotpo.com/platform/reviews-b/)
+            Collect and display customer content across the buyer journey.](https://www.yotpo.com/platform/reviews/)
         * [Loyalty & Referrals
             
             Create custom-tailored loyalty and referral programs.](https://www.yotpo.com/platform/loyalty/)
@@ -63,7 +63,7 @@
             
             Watch video tutorials from eCommerce retention experts.](https://www.yotpo.com/resources/type/videos-webinars/)
     * * [Connect](#)
-        * [Contact us](https://www.yotpo.com/contact-us/)
+        * [Contact us](https://www.yotpo.com/contact-us-old/)
         * [Help Center](https://support.yotpo.com/?utm_source=YotpoWeb&utm_medium=web-menu)
         * [Yotpo Community](https://community.yotpo.com/?utm_source=yotpo.com&utm_medium=menu)
         * [Become a Partner](https://www.yotpo.com/partners/)
@@ -85,6 +85,8 @@
             
             Accelerating incredible Black and Indigenous-owned brands.](https://www.yotpo.com/yotpo_rx/)
 * [Log in](https://yap.yotpo.com/)
+
+[![btn-bg](https://www.yotpo.com/wp-content/uploads/2024/07/Wight-4.png)](https://www.yotpo.com/walkaway/)
 
 [Log in](https://login.yotpo.com/#/login?signup_utm_source=yotpo_website)
 
@@ -331,7 +333,7 @@ Partnerships
 * [Become a Partner](https://www.yotpo.com/partners/)
 * [Connect with an Agency](https://www.yotpo.com/agencies/)
 * [Partner Portal](http://partners.yotpo.com/?utm_source=yotpo.com&utm_medium=footer)
-* [Agency Partner Program Guide](https://www.yotpo.com/program-guide-yotpo-service-partners/)
+* [Agency Partner Program](https://www.yotpo.com/new-partner-program/)
 * [Partner Awards](https://www.yotpo.com/partner-awards-2024/)
 * [Managed Services Program](https://www.yotpo.com/gated/partners-managed-services-lp/)
 * [Build an Integration](https://www.yotpo.com/integration-partners/)
