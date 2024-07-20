@@ -34,6 +34,8 @@
 * [Policies and reports](https://about.open.ac.uk/strategy-and-policies)
 * [Teaching and research](https://about.open.ac.uk/teaching-and-research)
 
+[Accessiblity statement](https://about.open.ac.uk/accessibility-statement)
+
 You are here
 ------------
 
@@ -89,8 +91,9 @@ Please see the sections below for particular information, depending on your rela
 
 Staff, job applicants, contractors, partners and volunteers
 
-This document sets out how we deal with the personal data of staff, workers, job applicants, contractors, agency staff, volunteers and anyone who works with or on behalf of the Open University
+These documents set out how we deal with the personal data of staff, workers, job applicants, contractors, agency staff, volunteers and anyone who works with or on behalf of the Open University:
 
+* [Recruitment and selection privacy notice (pdf 112kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/recruitment-selection-privacy-notice.pdf)
 * [Colleague privacy notice (pdf 304kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/Colleague-privacy-notice-full.pdf)
 
 Website visitors and enquirers
