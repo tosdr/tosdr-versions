@@ -663,13 +663,13 @@ Easily connects via HDMI so you can enjoy every last pixel.
 
 An eight week celebration with games, competitions, merch and more.
 
-Become a camper](https://www.atari.com/collections/summer-camp)[![](files/neosprint-screens-08.webp)
+Become a camper](https://www.atari.com/collections/summer-camp)[![](files/CopyofAsteroidsArcadePreview-19.jpg)
 
-### NeoSprint: For speed demons and track builders
+### ASTEROIDS RECHARGED: PREMIUM ARCADE EDITION
 
-NeoSprint zooms back to life as a single screen arcade racer.
+This 2-player arcade is available exclusively on Atari.com and includes FREE SHIPPING on pre-orders.
 
-Play Now](https://www.atari.com/products/neosprint)
+Pre-Order Today](https://www.atari.com/products/atari-asteroids-recharged-arcademachine)
 
 FEATURED GAMES
 --------------
