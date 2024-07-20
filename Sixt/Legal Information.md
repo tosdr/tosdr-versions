@@ -20,12 +20,14 @@ The browser version you’re using is no longer supported. Update to a newer ver
 
 [SIXT News](https://www.sixt.com/magazine/)
 
-[Imprint & privacy](https://www.sixt.com/privacy/)
+[Imprint & privacy](https://www.sixt.com/pages/privacy/)
 
-[Do not sell my personal information](https://www.sixt.com/privacy/?privacy=californiaresidents#/)
+[Do not share or sell my personal information](#)
 
 [Terms & conditions](https://www.sixt.com/pages/terms-conditions/)
 
-Cookie settings
+[Airport Car Rental](https://www.sixt.com/rental-guide/top-airports/)
+
+[Cookie-Settings](#)
 
 © Sixt 2024
