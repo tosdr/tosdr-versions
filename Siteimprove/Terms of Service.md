@@ -185,6 +185,11 @@ Close menu
         Glossary
         
         QA? SaaS? No idea? No worries. We’ve got you covered](https://siteimprove.com/glossary/)
+    * [![Web accessibility compliance](/globalassets/media/rebrand2023/nav/webopti_nav_icon_resources_success_plans.svg)
+        
+        Web accessibility compliance
+        
+        Your guide to current legislation and best practices worldwide](https://www.siteimprove.com/web-accessibility-compliance/)
     
 * Customers Customers
     
@@ -363,8 +368,8 @@ Company
 Careers
 
 * [Open positions](https://careers.siteimprove.com/open-positions/)
-* [Culture](https://careers.siteimprove.com/culture/)
-* [Teams](https://careers.siteimprove.com/teams/)
+* [Culture](https://careers.siteimprove.com/our-culture/)
+* [Teams](https://careers.siteimprove.com/our-teams/)
 * [Locations](https://careers.siteimprove.com/locations/)
 
 Support
