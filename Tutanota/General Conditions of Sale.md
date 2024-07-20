@@ -1,4 +1,4 @@
-Tuta has a brand new logo. Read more [here](https://tutanota.com/fr/blog/new-logo-announcement).
+Tuta a un tout nouveau logo. Pour en savoir plus [here](https://tutanota.com/fr/blog/new-logo-announcement).
 
 [](https://tutanota.com/fr/ "Tutanota")
 
@@ -14,7 +14,7 @@ RESSOURCES
 
 [SUPPORT](https://tutanota.com/fr/support)[RECRUTEMENT](https://tutanota.com/fr/jobs)
 
-[S'INSCRIRE](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tutanota")
+[S'INSCRIRE](https://app.tuta.com/?r=/signup#subscription "Mail. Done. Right. Sign up to Tuta")
 
 ![](/resources/images/background/monitor-men-agreement-stock.jpg)
 
