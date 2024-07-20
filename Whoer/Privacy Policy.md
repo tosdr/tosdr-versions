@@ -4,7 +4,7 @@
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
 * [Antidetect Browser](https://wade.is/en)
-* [Virtual cards](https://cardspro.capitalist.net/?from=b5c1034ca3)
+* [AML check](https://whoaml.is/)
 * Services
     * [Web proxy](https://whoer.net/webproxy)
     * [Proxy](https://froxy.com/?fpr=q0mfb)
@@ -18,7 +18,7 @@
 
 [Buy VPN now](https://whoer.net/vpn/buy)
 
-* [Virtual cards](https://cardspro.capitalist.net/?from=b5c1034ca3)
+* [AML check](https://whoaml.is/)
 * [My IP](https://whoer.net/)
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
@@ -213,8 +213,6 @@ Useful links
 * [How to install OpenVPN on your router](https://whoer.net/blog/configuring-vpn-on-router/)
 * [How to disable Internet when VPN goes offline](https://whoer.net/blog/how-to-disable-internet-when-vpn-goes-offline/)
 * [VPN for games](https://whoer.net/vpn-for-games)
-* [VPN for Russia](https://whoer.net/vpn-russia)
-* [VPN for Crimea](https://whoer.net/vpn-crimea)
 
 apps
 ====
