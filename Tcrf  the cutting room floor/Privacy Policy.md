@@ -28,9 +28,7 @@ We use (non-Google) analytics software to track access. That software collects d
 * The page that referred you, if any.
 * Your visits to this site and pages accessed.
 
-We use an advertising service. They are not based on "relevance". You can read more in the [Project Wonderful privacy policy](https://www.projectwonderful.com/privacypolicy.php), which is fancy and official and not ours.
-
-Retrieved from "[https://tcrf.net/index.php?title=The\_Cutting\_Room\_Floor:Privacy\_policy&oldid=323333](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=323333)"
+Retrieved from "[https://tcrf.net/index.php?title=The\_Cutting\_Room\_Floor:Privacy\_policy&oldid=1619944](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=1619944)"
 
 Navigation menu
 ---------------
@@ -97,10 +95,10 @@ Navigation menu
 * [Related changes](https://tcrf.net/Special:RecentChangesLinked/The_Cutting_Room_Floor:Privacy_policy "Recent changes in pages linked from this page [k]")
 * [Special pages](https://tcrf.net/Special:SpecialPages "A list of all special pages [q]")
 * [Printable version](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&printable=yes "Printable version of this page [p]")
-* [Permanent link](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=323333 "Permanent link to this revision of the page")
+* [Permanent link](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&oldid=1619944 "Permanent link to this revision of the page")
 * [Page information](https://tcrf.net/index.php?title=The_Cutting_Room_Floor:Privacy_policy&action=info "More information about this page")
 
-* This page was last edited on 5 September 2015, at 23:16.
+* This page was last edited on 27 June 2024, at 18:42.
 * Content is available under [Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) unless otherwise noted.
 
 * [Privacy policy](https://tcrf.net/The_Cutting_Room_Floor:Privacy_policy "The Cutting Room Floor:Privacy policy")
