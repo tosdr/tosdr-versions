@@ -1,6 +1,6 @@
 ![](https://amazoncustomerservice.d2.sc.omtrdc.net/b/ss/acsus-prod/1/H.25.2--NS/0)  Amazon.com Privacy Notice - Amazon Customer Service             
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:131-7190232-6731447:XF5A5H0H8VG1D4DA0S72$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DXF5A5H0H8VG1D4DA0S72:0)            
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:135-4110991-3368519:QXH2F7C9FJA7CHVAXHAS$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DQXH2F7C9FJA7CHVAXHAS:0)            
 
 Amazon.com Privacy Notice
 =========================
@@ -228,4 +228,4 @@ Examples of information you can access through Amazon Services include:
 
   
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:131-7190232-6731447:XF5A5H0H8VG1D4DA0S72$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DXF5A5H0H8VG1D4DA0S72:0)
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:135-4110991-3368519:QXH2F7C9FJA7CHVAXHAS$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DQXH2F7C9FJA7CHVAXHAS:0)
