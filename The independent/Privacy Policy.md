@@ -193,19 +193,19 @@ Contact details for exercising your rights, asking questions and raising concern
 
 At _The Independent_ we respect your privacy and are committed to protecting your personal information. This privacy policy is for visitors to our websites, apps and other digital platforms. It sets out how we collect, use, disclose, and protect personal data that we hold about you. It also gives information on how to exercise your legal rights. In this policy ‘we’ and ‘our’ means Independent Digital News and Media Limited.
 
-When you provide us with your personal data you allow us to improve your experience of our products and services as well as helping to support our quality journalism. The majority of _The Independent_’s articles are free to read, so we rely on targeted advertising to fund our journalism.
+There are now two ways to read our content. Either you can choose to consent to us using your data to serve you targeted advertising, or alternatively we offer the choice to read our content ad free and without advertising tracking cookies enabled, by paying for a subscription.
+
+The majority of _The Independent_’s articles are free to read if you consent to us processing your personal data for advertising purposes. That means when you provide us with your personal data, you allow us to improve your experience of our products and services as well as helping to support our quality independent journalism.
+
+You can withdraw your consent at any time by clicking on the ‘Privacy Settings’ in the footer of any page. If you do withdraw your consent, the cookie banner will appear again and you will be asked to choose how you would like to browse _The Independent_.
 
 Personal information is any information that can identify you and can include:
 
-·       Your name, email address, and year of birth, home address (if you’ve asked us to send something to your home address).
-
-·       Information about your device (your computer, mobile, tablet etc). For example your unique device ID, advertising ID, type of browser, and IP address. An IP address is a numerical code which identifies your device. It can provide information about the country, region or city where you are based.
-
-·       How you browse our websites, such as the pages you visit and links you click on.
-
-·       Details of products or services you buy, for example a subscription to _The Independent_.
-
-·       Debit or credit card details if you buy a product or service (these are collected via a secure third party payment provider and are not held on our systems).
+* Your name, email address, and year of birth, home address (if you’ve asked us to send something to your home address).
+* Information about your device (your computer, mobile, tablet etc). For example your unique device ID, advertising ID, type of browser, and IP address. An IP address is a numerical code which identifies your device. It can provide information about the country, region or city where you are based.
+* How you browse our websites, such as the pages you visit and links you click on.
+* Details of products or services you buy, for example a subscription to _The Independent_.
+* Debit or credit card details if you buy a product or service (these are collected via a secure third party payment provider and are not held on our systems).
 
 When we refer to “personal information” in this policy, we are referencing “personal data” as defined under UK and EU data protection law, as well as “personal information” as it is defined under California law.
 
@@ -213,13 +213,10 @@ When we refer to “personal information” in this policy, we are referencing �
 
 We collect your personal information in one of the following ways, in line with the relevant data protection laws:
 
-1.     Information you give us e.g. when you register for an account, comment on an article, purchase a product or service or download one of our apps on your mobile device.
-
-2.     Information from your devices when you visit our website or app through the use of cookies and similar technologies e.g. device type and ID, advertising ID and IP address.
-
-3.     Information we generate about you e.g. we give you a unique ID to remember you when you’re logged in.
-
-4.     Information we receive about you from other organisations, including social media logins.
+1. Information you give us e.g. when you register for an account, comment on an article, purchase a product or service or download one of our apps on your mobile device.
+2. Information from your devices when you visit our website or app through the use of cookies and similar technologies e.g. device type and ID, advertising ID and IP address.
+3. Information we generate about you e.g. we give you a unique ID to remember you when you’re logged in.
+4. Information we receive about you from other organisations, including social media logins.
 
 More information about this is set out below.
 
@@ -234,14 +231,6 @@ If you want to receive a select number of Premium articles a week you will need 
 _When you comment on our website_
 
 If you plan to comment on our website, you will need to register for an account and provide us with a commenting name. When you comment publicly on an article on our site, we would recommend you don’t share any sensitive personal information. We are not responsible for the information you choose to post online. Please see a link to our Community Guidelines on commenting [here](https://www.independent.co.uk/service/community-guidelines-a6075176.html).
-
-_When you join our WhatsApp Community_
-
-If you choose to be part of The Independent’s Whatsapp Community, you are allowing WhatsApp to receive and share data with us, including your phone number. Your full phone number is not visible to other members in the group, apart from the admin. We will never use this data to contact you or for any other purposes.
-
-Messages will only be sent by The Independent and your information will be kept secure – no one else will be able to see that you are receiving our messages, unless you comment publicly on these messages.
-
-You can exit the Community at any time by going to the Communities tab of your WhatsApp account, and following these instructions: [How to exit a community](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffaq.whatsapp.com%2F1312647189536807%2F%3Fcms_platform%3Dweb&data=05%7C02%7CRichard.Best%40independent.co.uk%7C0059c82cb8814e7785ba08dc8704d5d3%7C0f3a4c644dc54a768d4152d85ca158a5%7C0%7C0%7C638533702041645418%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=SnJidLDeinhncvlq6CvH%2Bu7To8AEDoV2Q%2BA1VvMQszI%3D&reserved=0). You can reply to our posts, but these must adhere to The Independent’s [community guidelines](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.independent.co.uk%2Fservice%2Fcommunity-guidelines-9487166.html&data=05%7C02%7CRichard.Best%40independent.co.uk%7C0059c82cb8814e7785ba08dc8704d5d3%7C0f3a4c644dc54a768d4152d85ca158a5%7C0%7C0%7C638533702041652050%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Gch2BUFH0vEZIfASH0XpkCRIAPSMxU7s9BkJFRM5Eis%3D&reserved=0). We may remove posts or members from the WhatsApp Community if they breach these guidelines
 
 _When you take out a subscription or attend an event_
 
@@ -269,21 +258,23 @@ We may also collect information about third party products and services which yo
 
 _Cookies and other online identifiers_
 
-We collect data about our website’s visitors using technology such as cookies, device IDs, IP addresses and general location or country. This can include information about the type of device you are using, such as a laptop, computer, mobile phone or tablet, and your online browsing history. If you would like to know more about our use of cookies and how to manage them, please read our [Cookie Policy](https://www.independent.co.uk/service/cookie-policy-a6184186.html).
+We collect data about our website’s visitors using technology such as cookies, device IDs, IP addresses and general location or country. This may include your IP address, information about your browser or operating system and will include your email (only ever in secure ‘hashed’, pseudonymous form). If you would like to know more about our use of cookies and how to manage them, please read our [Cookie Policy](https://www.independent.co.uk/service/cookie-policy-a6184186.html).
 
-When you use our website and enter your email address on our website (either to log in, or to sign up for a newsletter, or similar), we may share information that we collect from you with trusted partners. This may include your IP address, information about your browser or operating system or your email (only ever in secure ‘hashed’, pseudonymous form). Our partners use this information to create an online identification code to be able to recognise you on your devices. This code may be shared with advertising companies to enable interest-based and targeted advertising, that is more relevant to you. This code does not contain any of your directly identifiable personal data and will not be used to re-identify you. We and the below partners process your data to create this code as joint controllers under data protection law.
+If you have purchased one of our subscriptions, this next section does not apply to you. If you accept the use of advertising cookies on our website, then when you use our website and enter your email address on our website (either to log in, or to sign up for a newsletter, or similar), we may share information that we collect from you with trusted partners. This may include your IP address, information about your browser or operating system or your email (only ever in secure ‘hashed’, pseudonymous form). Our partners use this information to create an online identification code to be able to recognise you on your devices. This code may be shared with advertising companies to enable interest-based and targeted advertising, that is more relevant to you. This code does not contain any of your directly identifiable personal data and will not be used to re-identify you. We and the below partners process your data to create this code as joint controllers under data protection law.
 
 Detailed information on our partners’ data processing activities is available in their privacy policies by clicking below.
 
-[_LiveRamp_](https://liveramp.com/privacy/)
+[LiveRamp](https://liveramp.com/opt_out/)
 
-To opt-out of your data being used by LiveRamp in this way, please visit [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/)
+To opt-out of your data being used by LiveRamp in this way, please visit [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/Trade)
 
-[_Trade Desk_](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Ftransparentadvertising.eu%2Fprivacy&data=05%7C02%7CRichard.Best%40independent.co.uk%7C9dec75ed65d842d0a14608dc48e8c9a4%7C0f3a4c644dc54a768d4152d85ca158a5%7C0%7C0%7C638465411850526343%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=6MvzpxQkt7yPcGllVeqjwQeAQ%2BBsvqazKx2LWvE%2B8Fo%3D&reserved=0)
+[Trade Desk](https://www.transparentadvertising.eu/)
 
 To opt out of your data being used by The Trade Desk in this way, please visit [https://www.transparentadvertising.eu/](https://www.transparentadvertising.eu/)
 
-[_Amazon advertising_](http://buy.geni.us/Proxy.ashx?tsid=3658&GR_URL=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%2F%3FnodeId%3D201909010%26ref_%3Da20m_us_fnav_l_prvcy_gb)
+When you enter your email address to create an account or sign-up to a newsletter or marketing, we may also share your email address in a hashed form with Amazon Publisher Services (APS). APS then links this hashed email to a profile which they may already hold related to that email address. The hashed email will be used in a secure, pseudonymised form within a cookie to flag to APS whenever you visit The Independent site. APS will use this to determine, in real-time, if any of their business customers want to market to a profile similar to yours. If this is the case they may initiate an advert which will appear to you on The Independent website.
+
+The APS Privacy Notice can be found here: [https://aps.amazon.com/aps/privacy-policy/](http://buy.geni.us/Proxy.ashx?tsid=3658&GR_URL=https%3A%2F%2Faps.amazon.com%2Faps%2Fprivacy-policy%2F)
 
 Please see our [Cookie Policy](https://www.independent.co.uk/service/cookie-policy-a6184186.html) for more information.
 
@@ -305,7 +296,7 @@ When you register for an Independent account, take out a subscription for The In
 
 For readers who have not registered or subscribed, and are browsing our site anonymously, we assign you a unique ID number based on your device which remembers your browsing behaviour. This ID cannot identify you unless you then register or subscribe, after which we will link your anonymous browsing behaviour to your ID. This is so we can offer you a more personalised and engaging experience when you register or subscribe.
 
-We also assign you a unique ID number which remembers your browsing behaviour. This includes how long you spend on an article, what types of articles you read (e.g. travel, politics, sports and so on) and how many, as well as how often you visit our website or app. This is so we can personalise the site and our communications to you and also deliver tailored advertising that is more relevant to your interests.
+We also assign you a unique ID number which remembers your browsing behaviour. This includes how long you spend on an article, what types of articles you read (e.g. travel, politics, sports and so on) and how many, as well as how often you visit our website or app. This is so we can personalise the site and our communications to you, and where you have consented to this, we also deliver tailored advertising that is more relevant to your interests.
 
 We provide each reader with a cookie ID for analytics purposes, so we can recognise when you come back on to our site using one of your devices such as your laptop or mobile phone. We do this so we know how many individuals come back to our site.
 
@@ -331,15 +322,15 @@ We only conduct market research and send you surveys if you have consented to th
 
 We will send you push notifications from our apps, and/or send you browser notifications when you are visiting our app or website, only where you have consented.
 
-We will only use your personal data for advertising and marketing if we have your specific consent to do so. This includes informing you about our products, services or promotional offers that you might find interesting, as well as personalising our content and services.
+We will only process your data for marketing purposes to inform you about our products, services or promotional offers that you might find interesting where you have consented to this.
+
+Unless you have purchased one of our subscriptions, you will be required to provide your consent to us processing your personal data for targeted advertising in order to access our content. The remaining paragraphs of this section apply to such non-subscribers.
 
 We may tailor advertising you see on our website based on the type of articles you read, so it is more relevant to your interests. We do this by allocating your ID to relevant interest groups or segments based on your reading behaviour. For example, if you have read three articles about travel or commented on a travel article in the last 30 days, or if you have visited a travel website prior to coming onto our website we may place your ID into the travel segment, and you will subsequently be shown more travel-related advertising. If your reading behaviour is similar to that shown for our travel audience, we may include your ID in our ‘lookalike’ travel segment for some campaigns.
 
 We will never use any sensitive data (also known as special category data) for this purpose. Please read our [Cookie Policy](https://www.independent.co.uk/service/cookie-policy-a6184186.html) for more information about this.
 
 We may personalise advertising to you based on the information that you provide us when you register for an account. For example, we may aggregate your age (based on year of birth that you provide us when you register) into groups e.g. 24-35 year olds, if an advertiser would like to target their ad campaigns to this demographic. As well as using your online browsing behaviour and your demographic information to personalise the advertising you receive, we may also use this aggregated information for reporting and analytics purposes. For example, to see how well a particular ad campaign has performed.
-
-If you do not consent to personalised advertising via our consent management platform, you may still receive ads, but they may be less relevant to you.
 
 We occasionally work with advertising partners to securely match the email addresses of our registered reader database with their customer databases, using our data matching service provider. This is so we can show ads to readers we and our partners have in common. All data is encrypted before it is matched, and neither party can directly identify an individual, nor see or access the other party’s data. The data match service provider does not have access to any raw, unencrypted data.
 
@@ -351,39 +342,23 @@ _Legitimate interests._
 
 Legitimate Interests are ways in which we use personal data that you would reasonably expect. These include:
 
-·       Sending you service messages about your subscription or account registration, for example if you have clicked a password reset link. This could be by email, overlay on the website or push notification (if you’ve consented to receiving app push or web browser notifications).
-
-·       Granting you access to a subscription.
-
-·       Dealing with any query or complaint you submit to our Customer Services team. Only provide sensitive data when relevant (such as information about your health, race or religion) if you are happy to consent to our using it to manage your enquiry.
-
-·       Dealing with, and responding to you about queries in the comment section and other user generated content facilities.
-
-·       Logging and using information about any service errors or interruptions that you have experienced in order to help us create fixes and to make technical improvements to our website.
-
-·       Security and fraud prevention.
-
-·       Verifying your identity and remembering you (for example when you return to the website and have already logged in).
-
-·       Enabling you to share our content with others using social media or email.
-
-·       Administering competitions and informing you if you have been successful in any competitions or promotions.
-
-·       Keeping you updated about our products and services, in line with your communication preferences.
-
-·       Monitoring the number of Premium articles you read as a registered user on The Independent website. This is so we can request users subscribe once they have read the maximum number of Premium articles over a given period of time.
-
-·       Monitoring the number of articles you read on The Independent app. This is so that we can request users subscribe once they have read the maximum number of articles on the app.
-
-·       Analysing what articles you have read so we can improve our content and make recommendations to you.
-
-·       Improving the design and style of the website.
-
-·       Responding to your feedback on our products, services and website and app functionality
-
-·       Ensuring that we are paid the correct amount of commission by our advertising partners if you buy a product or service from our website.
-
-·       Allowing us to measure advertising campaigns, ensure readers do not see the same advertisements too many times, and ensure advertisements are served in appropriate environments for our clients.
+* Sending you service messages about your subscription or account registration, for example if you have clicked a password reset link. This could be by email, overlay on the website or push notification (if you’ve consented to receiving app push or web browser notifications).
+* Granting you access to a subscription.
+* Dealing with any query or complaint you submit to our Customer Services team. Only provide sensitive data when relevant (such as information about your health, race or religion) if you are happy to consent to our using it to manage your enquiry.
+* Dealing with, and responding to you about queries in the comment section and other user generated content facilities.
+* Logging and using information about any service errors or interruptions that you have experienced in order to help us create fixes and to make technical improvements to our website.
+* Security and fraud prevention.
+* Verifying your identity and remembering you (for example when you return to the website and have already logged in).
+* Enabling you to share our content with others using social media or email.
+* Administering competitions and informing you if you have been successful in any competitions or promotions.
+* Keeping you updated about our products and services, in line with your communication preferences.
+* Monitoring the number of Premium articles you read as a registered user on The Independent website. This is so we can request users subscribe once they have read the maximum number of Premium articles over a given period of time.
+* Monitoring the number of articles you read on The Independent app. This is so that we can request users subscribe once they have read the maximum number of articles on the app.
+* Analysing what articles you have read so we can improve our content and make recommendations to you.
+* Improving the design and style of the website.
+* Responding to your feedback on our products, services and website and app functionality
+* Ensuring that we are paid the correct amount of commission by our advertising partners if you buy a product or service from our website.
+* Allowing us to measure advertising campaigns, ensure readers do not see the same advertisements too many times, and ensure advertisements are served in appropriate environments for our clients.
 
 _Performance of a contract._
 
@@ -431,7 +406,7 @@ We offer our readers voucher codes in collaboration with Savings United GmbH. We
 
 _Advertising partners_
 
-Advertisers and advertising agencies sometimes require data to select and serve relevant advertisements to you based on your onsite behaviour e.g. whether you’ve clicked on an ad and are re-targeted with another ad from the same advertiser. We may also provide them with audience demographics about an audience who viewed or interacted with a campaign.
+If you consent to the use of advertising cookies on our website, advertisers and advertising agencies sometimes require data to select and serve relevant advertisements to you based on your onsite behaviour e.g. whether you’ve clicked on an ad and are re-targeted with another ad from the same advertiser. We may also provide them with audience demographics about an audience who viewed or interacted with a campaign.
 
 For more information on what personal data we collect and how we use it, please refer to the sections above ‘What personal information do we collect about you?’ and ‘What do we use your personal information for?’.
 
@@ -503,7 +478,7 @@ Please note the Independent is a media organisation and publisher. This means we
 
 Categories of personal information (PI) collected, along with examples of PI and the purpose of collecting PI are set out below:
 
-Identifiers
+_Identifiers_
 
 Examples: e.g. name, contact information including email address, postal address, phone number, online identifiers, IP address.
 
@@ -511,31 +486,31 @@ You provide this directly to us when registering or taking out a subscription. W
 
 Purpose: To register or subscribe to the Independent, to manage your account; respond to your inquiries or requests and communicate with you; to send you email newsletters and push notifications if you choose to receive these; running our events; providing customer services; verifying customer information; administering competitions, customisation of ads to make the advertising on our sites more relevant.
 
-Internet or other electronic network activity information
+_Internet or other electronic network activity information_
 
 Examples: Browsing history, search history, geolocation data and information regarding your interaction with website, app, or advertisement – through use of cookies or similar technologies.
 
 Purpose: Personalising our site and advertising to make it more relevant to you, marketing and promoting products and services, tailoring our communications to you, improving our understanding of readers to ensure the best content and services
 
-Personal Characteristics
+_Personal Characteristics_
 
 Examples: In some circumstances, we may collect PI that is considered protected under U.S. law, such as age and gender. We abide by the legal requirements imposed under applicable law in regard to such information. You either provide this to us or we infer it from information we hold about you.
 
 Purpose: We use this to serve you advertising campaigns that are more tailored to you and for third parties to be able to measure the effectiveness of their ads. We also ask for year of birth information as we do not want children under the age of 18 to register for an account.
 
-Commercial Information
+_Commercial Information_
 
 Examples: Records of purchase history and transactions.
 
 Purpose: Fulfilment of orders, answering customer service queries.
 
-Professional or employment-related information
+_Professional or employment-related information_
 
 Examples: e.g. job title; industry; company – either directly from you if you choose to provide it or from publicly available sources or service providers or partners
 
 Purpose: To enable us to work and communicate with our industry partners, recruitment.
 
-Inferences from personal information collected
+_Inferences from personal information collected_
 
 Examples: Inferences drawn from any of the personal information listed above to create a profile or summary about you, reflecting your preferences, characteristics, behaviours.
 
@@ -543,21 +518,17 @@ Purpose: Personalising advertising to make it more relevant to you, marketing an
 
 Categories of third parties we may disclose personal information to:
 
-·       Service providers who assist us in operating our business and delivering our services
-
-·       Advertising and marketing partners
-
-·       Legal authorities or regulators when required by law or to protect our legal rights
-
-·       We may disclose your personal information to our sister companies: Independent Digital News and Media LLC and Evening Standard Limited.
+* Service providers who assist us in operating our business and delivering our services
+* Advertising and marketing partners
+* Legal authorities or regulators when required by law or to protect our legal rights
+* We may disclose your personal information to our sister companies: Independent Digital News and Media LLC and Evening Standard Limited.
 
 California Shine the Light Law
 
 Subject to certain limitations, California residents may ask us to provide them with:
 
-(1)   A list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and
-
-(2)   The identity of those third parties.
+1. A list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and
+2. The identity of those third parties.
 
 To make this request, California residents may contact us at [Customer Services](https://help.independent.co.uk/hc/en-us/requests/new). For such requests, indicate “CA Shine the Light Request” in the subject field of your request.
 
@@ -567,27 +538,23 @@ Right to know – you can ask (up to twice in a 12-month period) for the persona
 
 You can also request:
 
-(1)   The categories and/or specific pieces of personal information we have collected about you
+1. The categories and/or specific pieces of personal information we have collected about you
+2. The categories of sources for that personal information
+3. The purposes for which we use that information
+4. The categories of third parties we disclose your information to, and
+5. The categories of information that we sell or disclose to third parties.
 
-(2)   The categories of sources for that personal information
+**Right to delete** – you can ask us to delete the personal data we collect about you (with some exceptions, such as if we are legally required to keep the information).
 
-(3)   The purposes for which we use that information
-
-(4)   The categories of third parties we disclose your information to, and
-
-(5)   The categories of information that we sell or disclose to third parties.
-
-Right to delete – you can ask us to delete the personal data we collect about you (with some exceptions, such as if we are legally required to keep the information).
-
-Right to opt-out of the sale or sharing – you have the right to opt-out of the sale or sharing of personal data we may hold about you. You can exercise this right at any time by pressing the “Do not Sell or Share My Information” link in the footer of every page on our site.
+**Right to opt-out of the sale or sharing** – you have the right to opt-out of the sale or sharing of personal data we may hold about you. You can exercise this right at any time by pressing the “Do not Sell or Share My Information” link in the footer of every page on our site.
 
 If you click the “Do not Sell or Share My Information” link, we will not recontact you about that choice for at least 12 months.
 
-Right to correct your personal information – you can ask us to correct inaccurate personal data that we may hold about you.
+**Right to correct your personal information** – you can ask us to correct inaccurate personal data that we may hold about you.
 
-Right to limit the use and disclosure of sensitive personal information collected about you – you can ask us to only use your sensitive personal information for purposes such as providing you with the services you have requested. We do not collect sensitive personal information unless you provide this to us.
+**Right to limit the use and disclosure of sensitive personal information collected about you** – you can ask us to only use your sensitive personal information for purposes such as providing you with the services you have requested. We do not collect sensitive personal information unless you provide this to us.
 
-Right to non-discrimination for exercising your rights – we will not discriminate against you for exercising any of your privacy rights.
+**Right to non-discrimination for exercising your rights** – we will not discriminate against you for exercising any of your privacy rights.
 
 We may ask for proof of identity for verification purposes, such as your name, e-mail, phone number and/or account information. We will review the information provided and may request additional information via e-mail or other means to ensure we are interacting with the correct person. To help us respond appropriately, please specify that you are making a request under the California Consumer Privacy Act or CCPA.
 
@@ -605,35 +572,35 @@ If you’re unhappy with how we’ve handled your data or your request, please g
 
 **Contact details**
 
-Contact Name: **Information Commissioner’s Office**
+Contact Name: **Information Commissioner’s Office**
 
-Address: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
+Address: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
 
-Contact Info: 0303 123 1113; [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)
+Contact Info: 0303 123 1113; [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)
 
 **Data Protection Officer (DPO)**
 
-Contact name: Nicola Mckilligan-Regan
+Contact name: Nicola Mckilligan-Regan
 
-Address: Alphabeta Building, 14-18 Finsbury Square, London, United Kingdom, EC2A 1AH
+Address: Alphabeta Building, 14-18 Finsbury Square, London, United Kingdom, EC2A 1AH
 
-Contact info: [dpo@independent.co.uk](mailto:dpo@independent.co.uk)
+Contact info: [dpo@independent.co.uk](mailto:dpo@independent.co.uk)
 
 If you are based in the EEA please contact our EU Representative:
 
 **EU Representative**
 
-Contact name: IDNML EU Representative
+Contact name: IDNML EU Representative
 
-Address: IDNML EU REP c/o Kazient Privacy Experts, 77 Lower Camden Street, Dublin, Ireland, D02 XE80
+Address: IDNML EU REP c/o Kazient Privacy Experts, 77 Lower Camden Street, Dublin, Ireland, D02 XE80
 
-Contact info: idnml.eurep@kazient.eu
+Contact info: [idnml.eurep@kazient.eu](mailto:idnml.eurep@kazient.eu)
 
 **Changes to this privacy policy**
 
 We may make changes to this policy at any time, and where necessary we will inform you of these changes via email. We will display the date the policy was last updated on this page.
 
-**Last updated – March 2024**
+**Last updated – July 2024**
 
 ### More about
 
@@ -691,7 +658,7 @@ Already subscribed? Log in
     * [Privacy notice](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
-    * [Modern Slavery Act](https://static.independent.co.uk/static-assets/IDNMLModSlav0721.pdf)
+    * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
 
 ### Thank you for registering
 
