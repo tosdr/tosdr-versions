@@ -372,7 +372,7 @@ Prüfe deinen Posteingang oder Spam-Ordner, um dein Abonnement zu bestätigen.
 
 Copyright © 2024 | WordPress Theme von [MH Themes](https://mhthemes.com/themes/mh-magazine/?utm_source=customer&utm_medium=link&utm_campaign=MH+Magazine+Lite)
 
-  
+     
 
 Diese Webseite verwendet essentielle Cookies/This website uses essential cookies. [Link zur Datenschutzerklärung/](https://www.sinoskop.de/blog/datenschutzerklaerung/)[Privacy Policy](https://www.sinoskop.de/blog/privacy-policy/)
 
