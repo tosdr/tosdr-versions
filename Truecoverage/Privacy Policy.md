@@ -1446,7 +1446,7 @@ Phone: (+1)888-505-1815
 **Media Inquiries:**  
 Catherine Riedel  
 Next Level Everything  
-catherine@nextleveleverything.com
+[catherine@nextleveleverything.com](mailto:catherine@nextleveleverything.com)
 
 * [Follow](https://www.facebook.com/TrueCoveragePX "Follow on Facebook")
 * [Follow](https://twitter.com/truecoveragePX "Follow on X")
@@ -1529,7 +1529,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Comments
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
