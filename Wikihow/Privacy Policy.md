@@ -15,7 +15,7 @@ Skip to Content
     
     [Tech Help Pro](https://www.wikihow.com/Tech-Help-Pro)[About Us](https://www.wikihow.com/wikiHow:About-wikiHow)[Random Article](https://www.wikihow.com/Special:Randomizer)[Quizzes](https://www.wikihow.com/Quizzes)
     
-    [Request a New Article](https://www.wikihow.com/Special:RequestTopic)[Community Dashboard](https://www.wikihow.com/Special:CommunityDashboard)[This Or That Game](https://www.wikihow.com/Games/This-Or-That)
+    [Request a New Article](https://www.wikihow.com/Special:RequestTopic)[Community Dashboard](https://www.wikihow.com/Special:CommunityDashboard)[This Or That Game](https://www.wikihow.com/Games/This-Or-That)[Happiness Hub](https://www.wikihow.com/Academy/Shawn-Achor)
     
     [Popular Categories](https://www.wikihow.com/Special:CategoryListing)
     
@@ -71,6 +71,7 @@ Skip to Content
 * Learn Something New
 * [QuizzesHot](https://www.wikihow.com/Quizzes)
 * [Courses](https://www.wikihow.com/Course/Explore)
+* [Happiness Hub](https://www.wikihow.com/Academy/Shawn-Achor)
 * Play Games
 * [This Or That Game](https://www.wikihow.com/Games/This-Or-That)
 * [Train Your Brain](https://www.wikihow.com/Games/Train-Your-Brain)
@@ -188,7 +189,9 @@ We may share your Personal Information for the purposes and with the entities sp
 
 Who can see User Content: Any User Content that you voluntarily disclose for posting to the Service becomes available to the public and cannot be removed, except by wikiHow in its sole discretion. Once posted on wikiHow, User Content may not be removable from public view, as copies may remain viewable in cached and archived pages of the Service, on other sites that have republished us, or if other Users have copied or saved that information. If you do not wish your User Content to be available to the public, please don’t post it on wikiHow. Your username and if you choose to disclose it, your real name, will be published publicly. Once published your username and / or real name may not be able to be removed.
 
-Who can see your IP address: If you post User Content on the Service while not logged in, your IP address will be published with your User Content in order to attribute your contribution to the Service. A selection of Trusted Users with administrative powers on wikiHow have the ability to review IP addresses of users to reduce abusive behavior. Any third party service embedded on wikiHow such as an advertiser, video provider, social network or other third party will also have access to your IP address.
+Who can see your IP address: If you post User Content on the Service while not logged in, your IP address will be published with your User Content in order to attribute your contribution to the Service.
+
+A selection of Trusted Users with administrative powers on wikiHow have the ability to review IP addresses of users to reduce abusive behavior. Any third party service embedded on wikiHow such as an advertiser, video provider, social network or other third party will also have access to your IP address.
 
 Who can see your email address: If you enter an email address, you will enable communication from wikiHow and other Users. If you reply to users or participate in group wikiHow activities such as meetups, your email address will be shared with these users. In addition, some email addresses such as blocked@wikiHow.com forward to a group of Trusted Users, who will use your email address to reply to the email.
 
@@ -471,24 +474,23 @@ This privacy policy was last modified on April 24, 2024.
 
 ### Featured Articles
 
-[![Mental Age Test](https://www.wikihow.com/images/thumb/d/d0/Mental_age_test.png/-crop-126-120-126px-Mental_age_test.png)
+[![Are You Smarter than a 5th Grader Quiz](https://www.wikihow.com/images/thumb/7/76/Are_you_smarter_than_a_fifth_grader_quiz.png/-crop-126-120-126px-Are_you_smarter_than_a_fifth_grader_quiz.png)
 
-What Is My Mental Age Quiz](https://www.wikihow.com/Mental-Age-Test)
+Am I Smarter than a 5th Grader Quiz](https://www.wikihow.com/Are-You-Smarter-than-a-5th-Grader-Quiz)
 
-[![Do the Worm](https://www.wikihow.com/images/thumb/6/63/Do-the-Worm-Step-13-Version-2.jpg/-crop-126-120-126px-Do-the-Worm-Step-13-Version-2.jpg)
-
-How to  
-Do the Worm](https://www.wikihow.com/Do-the-Worm)
-
-[![Look Your Best](https://www.wikihow.com/images/thumb/3/33/Look-Your-Best-Step-20.jpg/-crop-126-120-126px-Look-Your-Best-Step-20.jpg)
+[![Write a Diary](https://www.wikihow.com/images/thumb/0/04/Write-a-Diary-Step-17-Version-4.jpg/-crop-126-120-126px-Write-a-Diary-Step-17-Version-4.jpg)
 
 How to  
-Look Your Best](https://www.wikihow.com/Look-Your-Best)
+Write a Diary](https://www.wikihow.com/Write-a-Diary)
 
-[![Make Paper Look Old](https://www.wikihow.com/images/thumb/4/43/Make-Paper-Look-Old-Step-15-Version-6.jpg/-crop-126-120-126px-Make-Paper-Look-Old-Step-15-Version-6.jpg)
+[![Be Elegant](https://www.wikihow.com/images/thumb/b/b6/Be-Elegant-Step-23.jpeg/-crop-126-120-126px-Be-Elegant-Step-23.jpeg)
 
 How to  
-Make Paper Look Old](https://www.wikihow.com/Make-Paper-Look-Old)
+Be Elegant](https://www.wikihow.com/Be-Elegant)
+
+[![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
+
+How to Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
 
   
 
@@ -529,4 +531,4 @@ Follow Us
 
 \-
 
-1059
+191
