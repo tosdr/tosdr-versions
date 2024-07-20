@@ -99,7 +99,7 @@ The BEST GUI database admin tool, MySQL administrator, MySQL GUI manager, MySQL 
 * * [Navicat](https://www.navicat.com/products#navicat)
     * [Navicat Cloud](https://www.navicat.com/products#navicat-collaboration)
     * [Navicat On-Prem Server](https://www.navicat.com/products#navicat-collaboration)
-    * [Navicat BI](https://www.navicat.com/products#navicat-charts)
+    * [Navicat BI](https://www.navicat.com/products#navicat-bi)
     * [Navicat Monitor](https://www.navicat.com/products#navicat-monitor)
     * [Navicat Data Modeler](https://www.navicat.com/products#navicat-data-modeler)
 
