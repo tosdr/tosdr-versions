@@ -11,6 +11,8 @@
 * [About](https://sanesolution.com/about/)
 * [Get Help](https://sanesolution.com/customersupport/)
 
+[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanecoaching.securechkout.com/)
+
 Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://sanesolution.com/wp-content/themes/enfold-child/includes/small-phone-icon.png)](tel:3479791735)
 
 [CLICK TO START FOR FREE NOW](https://sanesolution.com/lp/program/) | [STORE](https://store.sanesolution.com/) | [GET HELP](https://sanesolution.com/customersupport/) | [LOGIN](https://program.sanesolution.com/)
@@ -38,6 +40,8 @@ Speak with a real person weekdays 9 - 3 EST [(347) 979-1735![new-icon](https://s
     * [Cognizin](https://sanesolution.com/citicoline/cognizin/)
     * [Brain Fog](https://sanesolution.com/citicoline/brain-fog/)
 * [Contact](https://sanesolution.com/customersupport/)
+
+[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanecoaching.securechkout.com/)
 
 Toggle navigation
 
@@ -68,6 +72,8 @@ Toggle navigation
     * [Brain Fog](https://sanesolution.com/citicoline/brain-fog/)
 * [Contact](https://sanesolution.com/customersupport/)
 * [Log In](https://program.sanesolution.com/login/)
+
+[Who else wants 1-on-1 coaching with Jonathan Bailor? Click here to learn more](https://sanecoaching.securechkout.com/)
 
 [![SANE-Logo](https://sanesolution.com/wp-content/uploads/2021/03/mobile-sane-logo.png)](https://sanesolution.com/) [Start Now For Free](javascript:void(0);) Toggle navigation
 
