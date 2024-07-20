@@ -2,8 +2,8 @@
 
 * [首页](https://www.zhihu.com/)
 * [知乎知学堂](https://www.zhihu.com/education/learning)
-* [发现](https://www.zhihu.com/explore)
 * [等你来答](https://www.zhihu.com/question/waiting)
+* [](https://www.zhihu.com/zhida)
 
 ​
 
