@@ -207,14 +207,14 @@ Renaissance has been honored with four SIIA CODiE Awards, including Best Educati
 
 Learn More
 
-![Hero image for the Copyright policy page](https://www.renaissance.com/wp-content/uploads/2022/05/getty-160945425-Copyright-header.webp)
+![Group discussion](https://www.renaissance.com/wp-content/uploads/2022/05/getty-160945425-Copyright-header.webp)
 
 Renaissance
 
 Copyright Policy
 ================
 
-Last updated: May 16, 2024
+LAST UPDATED: **MAY 16, 2024**
 
 Service
 -------
@@ -228,15 +228,17 @@ As used herein, the “Service” means any software application, website, or an
 5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
 6. a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-Our designated Copyright Agent to receive notifications of claimed infringement can be reached at:
+Copyright contact
+-----------------
 
-Geoff Baker (Copyright Agent)  
+Our designated copyright agent to receive notifications of claimed infringement can be reached at:
+
+Neal Dittsersdorf (Chief Legal Officer)  
 Renaissance Learning, Inc.  
 2911 Peach Street  
-Wisconsin Rapids, Wisconsin 54495-8036  
-Email: [\[email protected\]](https://www.renaissance.com/cdn-cgi/l/email-protection).
+Wisconsin Rapids, Wisconsin 54495-8036
 
-![A teacher in a class](/wp-content/uploads/2023/04/teacher-using-tablet-getty-526297603.jpeg)
+[\[email protected\]](https://www.renaissance.com/cdn-cgi/l/email-protection)
 
 Compliance
 ----------
@@ -258,7 +260,7 @@ If you believe that any material you submitted that was removed or to which acce
 
 Please note that if you provide a Counter Notice, Renaissance reserves the right to provide the Counter Notice to the copyright claimant. Renaissance also reserves its right to inform the copyright claimant that the material may be replaced or restored in 10 business days upon receipt of a Counter Notice. Unless the copyright claimant files an action seeking a court order against the user who posted the material, Renaissance, at its discretion, may replace or restore the material after the 10 day period expires.
 
-![Educator working at desk](/wp-content/uploads/2023/04/woman-on-laptop-shutterstock-1470540761.jpeg)
+ ![woman on a laptop](https://www.renaissance.com/wp-content/uploads/2023/04/woman-on-laptop-shutterstock-1470540761.webp)
 
 See Every Student.
 
@@ -310,7 +312,7 @@ ARP ESSER funds can still be used to purchase Renaissance solutions. Private sch
 
 [Learn more about funding](https://www.renaissance.com/resources/funding/)
 
-© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
+© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/?page_id=56405) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
 
 Select your school
 
