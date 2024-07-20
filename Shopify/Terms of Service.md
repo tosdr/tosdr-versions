@@ -90,9 +90,9 @@
     * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing.
+    * [Secure business funding.
         
-        Shopify Lending](https://www.shopify.com/lending)
+        Shopify Capital](https://www.shopify.com/capital)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
@@ -170,7 +170,7 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition.
+    * [Summer ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
     * [All Editions.
@@ -278,9 +278,9 @@
     * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing.
+    * [Secure business funding.
         
-        Shopify Lending](https://www.shopify.com/lending)
+        Shopify Capital](https://www.shopify.com/capital)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
@@ -357,7 +357,7 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition.
+    * [Summer ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
     * [All Editions.
@@ -404,7 +404,7 @@ As used in these Terms of Service, “**we**”, “**us**”, “**our**” and
 
 Shopify provides a complete commerce platform that enables merchants to unify their commerce activities. Among other features, this platform includes a range of tools for merchants to build and customize online stores, sell in multiple places (including web, mobile, social media, online marketplaces and other online locations (“**Online Services**”) and in person (“**POS Services**”)), manage products, inventory, payments, fulfillment, shipping, business operations, marketing and advertising, and engage with existing and potential customers. Any such service or services offered by Shopify are referred to in these Terms of Services as the “**Service(s)**”. Any new features or tools which are added to the current Services will also be subject to the Terms of Service. You can review the current version of the Terms of Service at any time at [https://shopify.com/legal/terms](https://shopify.com/legal/terms).
 
-You must read, agree with and accept all of the terms and conditions contained or expressly referenced in these Terms of Service, including Shopify’s [Acceptable Use Policy](https://www.shopify.com/legal/aup) (“**AUP**”) and [Privacy Policy](https://www.shopify.com/legal/privacy), and, if applicable, the [Supplementary Terms of Service for E.U. Merchants](https://www.shopify.com/legal/eu-terms) ("**EU Terms**"), the Shopify [API License and Terms of Use](https://www.shopify.com/legal/api-terms) (“**API Terms**”) and the Shopify [Data Processing Addendum](https://www.shopify.com/legal/dpa) (“**DPA**”) before you may sign up for a Shopify Account or use any Shopify Service. Additionally, if you offer goods or services in relation to COVID-19, you must read, acknowledge and agree to the [Rules of Engagement for Sale of COVID-19 Related Products](https://www.shopify.com/legal/rules-of-engagement-covid19).
+You must read, agree with and accept all of the terms and conditions contained or expressly referenced in these Terms of Service, including Shopify’s [Acceptable Use Policy](https://www.shopify.com/legal/aup) (“**AUP**”) and [Privacy Policy](https://www.shopify.com/legal/privacy), and, if applicable, the [Supplementary Terms of Service for E.U. Merchants](https://www.shopify.com/legal/eu-terms) ("**EU Terms**"), the Shopify [API License and Terms of Use](https://www.shopify.com/legal/api-terms) (“**API Terms**”) and the Shopify [Data Processing Addendum](https://www.shopify.com/legal/dpa) (“**DPA**”) before you may sign up for a Shopify Account or use any Shopify Service.
 
 **Everyday language summaries are provided for convenience only and appear in bold near each section, but these summaries are not legally binding. Please read the Terms of Service, including any document referred to in these Terms of Service, for the complete picture of your legal requirements. By using Shopify or any Shopify services, you are agreeing to these terms. Be sure to occasionally check back for updates.**
 
@@ -825,8 +825,6 @@ Shopify Inc.
 Ottawa, ON K2P 2L8  
 Canada
 
-Opens an external site in a new window
-
 Shopify logo
 
 Shopify
@@ -847,6 +845,7 @@ Support
 * [Merchant support](https://help.shopify.com/en/questions)
 * [Help center](https://help.shopify.com/en/)
 * [Hire a Partner](https://www.shopify.com/partners/directory)
+* [Shopify Academy](https://academy.shopify.com/?itcat=brochure&itterm=global-footer)
 * [Shopify Community](https://community.shopify.com/c/Shopify-Community/ct-p/en?utm_campaign=footer&utm_content=en&utm_medium=web&utm_source=shopify)
 * [Shopify Events](https://community.shopify.com/c/Shopify-Community/ct-p/en/home?utm_campaign=homepage&utm_content=en&utm_medium=web&utm_source=shopify)
 
@@ -965,10 +964,10 @@ USA
 * [Sitemap](https://www.shopify.com/sitemap)
 * [Privacy Choices](https://privacy.shopify.com/en)
 
-* [Facebook](https://www.facebook.com/shopify)
-* [Twitter](https://twitter.com/shopify)
-* [YouTube](https://www.youtube.com/user/shopify)
-* [Instagram](https://www.instagram.com/shopify/)
-* [TikTok](https://www.tiktok.com/@shopify)
-* [LinkedIn](https://www.linkedin.com/company/shopify)
-* [Pinterest](https://www.pinterest.com/shopify/)
+* [](https://www.facebook.com/shopify)
+* [](https://twitter.com/shopify)
+* [](https://www.youtube.com/user/shopify)
+* [](https://www.instagram.com/shopify/)
+* [](https://www.tiktok.com/@shopify)
+* [](https://www.linkedin.com/company/shopify)
+* [](https://www.pinterest.com/shopify/)
