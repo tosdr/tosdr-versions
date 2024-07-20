@@ -26,155 +26,161 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-max-boot-1200x630.jpg)](https://americanwirenews.com/wife-of-rabid-never-trumper-max-boot-indicted-for-being-a-foreign-agent/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/gw-joe-biden-3-1200x630.jpg)](https://americanwirenews.com/j-d-vance-among-growing-number-of-voices-calling-for-biden-to-resign-if-he-drops-out-of-race/)
 
-[Wife of rabid never-Trumper Max Boot indicted for being a foreign agent](https://americanwirenews.com/wife-of-rabid-never-trumper-max-boot-indicted-for-being-a-foreign-agent/)
+[J.D. Vance among growing number of voices calling for Biden to resign if he drops out of race](https://americanwirenews.com/j-d-vance-among-growing-number-of-voices-calling-for-biden-to-resign-if-he-drops-out-of-race/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-covid_msnbcjoy-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joy-reids-wishful-trump-biden-comparison-is-so-desperate-even-psaki-appears-uncomfortable/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-maria-cardona-1200x630.jpg)](https://americanwirenews.com/dem-strategist-claims-immigrant-friends-said-trumps-speech-put-a-target-on-their-backs/)
 
-[Joy Reid’s wishful Trump, Biden comparison is so desperate even Psaki appears uncomfortable](https://americanwirenews.com/joy-reids-wishful-trump-biden-comparison-is-so-desperate-even-psaki-appears-uncomfortable/)
+[Dem strategist claims immigrant friends said Trump’s speech ‘put a target’ on their backs](https://americanwirenews.com/dem-strategist-claims-immigrant-friends-said-trumps-speech-put-a-target-on-their-backs/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-maddow-vance-1200x630.jpg)](https://americanwirenews.com/rachel-maddow-decoding-far-right-references-to-lord-of-the-rings-is-one-for-the-clown-record-books/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-omalleydillon-1200x630.jpg)](https://americanwirenews.com/biden-campaign-chair-has-interesting-advice-for-staff-dont-watch-cable-news-all-the-time/)
 
-[Rachel Maddow decoding ‘far-right’ references to ‘Lord of the Rings’ is one for the CLOWN record books](https://americanwirenews.com/rachel-maddow-decoding-far-right-references-to-lord-of-the-rings-is-one-for-the-clown-record-books/)
+[Biden campaign chair has interesting advice for staff: ‘Don’t watch cable news all the time’](https://americanwirenews.com/biden-campaign-chair-has-interesting-advice-for-staff-dont-watch-cable-news-all-the-time/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-biden-bet-1200x630.jpg)](https://americanwirenews.com/hes-completely-cooked-bidens-bet-interview-is-as-uncomfortable-as-it-gets-here-are-some-low-lights/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-chris-christie-on-the-view-1200x630.jpg)](https://americanwirenews.com/the-view-blows-up-when-anti-trump-chris-christie-reveals-he-wont-vote-for-biden/)
 
-[‘He’s completely cooked’: Biden’s BET interview is as uncomfortable as it gets. Here are some low lights…](https://americanwirenews.com/hes-completely-cooked-bidens-bet-interview-is-as-uncomfortable-as-it-gets-here-are-some-low-lights/)
+[‘The View’ blows up when anti-Trump Chris Christie reveals he won’t vote for Biden](https://americanwirenews.com/the-view-blows-up-when-anti-trump-chris-christie-reveals-he-wont-vote-for-biden/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-chuck-todd-1200x630.jpg)](https://americanwirenews.com/does-he-know-chuck-todd-gives-bidens-candidacy-10-days-and-wonders-if-he-sees-it-coming/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-postrally-drone-footage-1200x630.jpg)](https://americanwirenews.com/secret-service-reportedly-didnt-use-drones-to-secure-trump-rally-the-guy-who-did-it-flew-a-drone/)
 
-[‘Does he know?’ Chuck Todd gives Biden’s candidacy 10 days, and wonders if he sees it coming](https://americanwirenews.com/does-he-know-chuck-todd-gives-bidens-candidacy-10-days-and-wonders-if-he-sees-it-coming/)
+[Secret Service reportedly didn’t use drones to secure Trump rally: ‘The guy who did it flew a drone!’](https://americanwirenews.com/secret-service-reportedly-didnt-use-drones-to-secure-trump-rally-the-guy-who-did-it-flew-a-drone/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-pekrul-1200x630.jpg)](https://americanwirenews.com/world-war-ii-vet-who-stormed-normandy-receives-standing-o-at-rnc-america-is-still-worth-fighting-for/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-dennis-quaid-1200x630.jpg)](https://americanwirenews.com/dennis-quaid-compares-todays-political-climate-to-the-one-that-ushered-in-the-reagan-era/)
 
-[World War II vet who stormed Normandy receives standing O at RNC: ‘America is still worth fighting for’](https://americanwirenews.com/world-war-ii-vet-who-stormed-normandy-receives-standing-o-at-rnc-america-is-still-worth-fighting-for/)
+[Dennis Quaid compares today’s political climate to the one that ushered in the Reagan era](https://americanwirenews.com/dennis-quaid-compares-todays-political-climate-to-the-one-that-ushered-in-the-reagan-era/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-sunny-hostin-1200x630.jpg)](https://americanwirenews.com/sunny-hostin-slams-disrespectful-dems-for-throwing-biden-under-the-bus/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-great-meadow-1200x630.jpg)](https://americanwirenews.com/two-ny-prisons-housing-nearly-1k-inmates-set-to-close-renewing-outrage-against-soft-on-crime-policies/)
 
-[Sunny Hostin slams ‘disrespectful’ Dems for throwing Biden ‘under the bus’](https://americanwirenews.com/sunny-hostin-slams-disrespectful-dems-for-throwing-biden-under-the-bus/)
+[Two NY prisons housing nearly 1K inmates set to close, renewing outrage against soft-on-crime policies](https://americanwirenews.com/two-ny-prisons-housing-nearly-1k-inmates-set-to-close-renewing-outrage-against-soft-on-crime-policies/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-pexels-blm-1200x630.jpg)](https://americanwirenews.com/judge-sides-with-calif-school-that-punished-1st-grader-for-adding-two-inclusive-words-to-black-lives-matter-drawing/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-blinken-1200x630.jpg)](https://americanwirenews.com/iran-one-or-two-weeks-away-from-producing-fissile-material-for-a-nuclear-weapon-says-blinken/)
 
-[Judge sides with Calif school that punished 1st grader for adding two inclusive words to Black Lives Matter drawing](https://americanwirenews.com/judge-sides-with-calif-school-that-punished-1st-grader-for-adding-two-inclusive-words-to-black-lives-matter-drawing/)
+[Iran ‘one or two weeks’ away from producing ‘fissile material for a nuclear weapon’, says Blinken](https://americanwirenews.com/iran-one-or-two-weeks-away-from-producing-fissile-material-for-a-nuclear-weapon-says-blinken/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-gold-star-terry-moran-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-laura-chip-split-1200-x-628-1200x630.jpg)
 
-### ‘Absolutely extraordinary’ RNC moment blows ABC reporter away: ‘Not sure I’ve experienced anything like that’](https://americanwirenews.com/absolutely-extraordinary-rnc-moment-blows-abc-reporter-away-not-sure-ive-experienced-anything-like-that/)
+### GOP rep calls for the Secret Service to be held accountable: ‘We have to stop funding it’](https://americanwirenews.com/gop-rep-calls-for-the-secret-service-to-be-held-accountable-we-have-to-stop-funding-it/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Biden abandons unity scam, returns to full ‘Dark Brandon’ mode](https://americanwirenews.com/biden-abandons-unity-scam-returns-to-full-dark-brandon-mode/)
+### [Liz Warren vows Dems to suspend filibuster to make abortion the law of the land](https://americanwirenews.com/liz-warren-vows-dems-to-suspend-filibuster-to-make-abortion-the-law-of-the-land/)
 
-### [John Deere is latest corporation to cave on DEI, will no longer promote ‘woke agenda’](https://americanwirenews.com/john-deere-is-latest-corporation-to-cave-on-dei-will-no-longer-promote-woke-agenda/)
+### [Trump’s would-be assassin’s online searches, cryptic post about his plot on gaming site](https://americanwirenews.com/trumps-would-be-assassins-online-searches-cryptic-post-about-his-plot-on-gaming-site/)
 
-### [‘Major news outlet’ editor wants media to bury iconic Trump assassination image – report](https://americanwirenews.com/major-news-outlet-editor-wants-media-to-bury-iconic-trump-assassination-image-report/)
+### [Donald Trump’s 17-year-old granddaughter speaks to crowd about grandpa at RNC](https://americanwirenews.com/donald-trumps-17-year-old-granddaughter-speaks-to-crowd-about-grandpa-at-rnc/)
 
-### [‘I’m just so uncomfortable’: CNN anchor melts down as Army sniper floats possibility of assassination ‘set up’](https://americanwirenews.com/im-just-so-uncomfortable-cnn-anchor-melts-down-as-army-sniper-floats-possibility-of-assassination-set-up/)
+### [Peter Navarro gives blistering convention speech hours after being freed from prison](https://americanwirenews.com/peter-navarro-gives-blistering-convention-speech-hours-after-being-freed-from-prison/)
 
-### [‘Sea’s angry my friends’: Dave Portnoy rescued by Coast Guard after he was nearly ‘lost to the ocean’](https://americanwirenews.com/seas-angry-my-friends-dave-portnoy-rescued-by-coast-guard-after-he-was-nearly-lost-to-the-ocean/)
+### [GOP senators confront Biden’s DEI Secret Service director hiding behind agents at RNC](https://americanwirenews.com/gop-senators-confront-bidens-dei-secret-service-director-hiding-behind-agents-at-rnc/)
 
-### [WaPo bottom-feeder Jen Rubin draws fire with advice to Dems on moving past Trump shooting](https://americanwirenews.com/wapo-bottom-feeder-jen-rubin-draws-fire-with-advice-to-dems-on-moving-past-trump-shooting/)
+### [Trump-Vance response to Kamala’s debate challenge earns ‘best troll of the year’ kudos](https://americanwirenews.com/trump-vance-response-to-kamalas-debate-challenge-earns-best-troll-of-the-year-kudos/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/gettyimages-1179076923-1-220x180.jpg)](https://americanwirenews.com/cnn-commentator-giddy-over-rnc-celebrity-speaker-were-the-fun-party/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-djt-drfauci-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fauci-is-back-to-discuss-attempted-trump-assassination-there-was-no-other-further-damage/)
 
-[CNN commentator ‘giddy’ over RNC celebrity speaker: ‘We’re the fun party!’](https://americanwirenews.com/cnn-commentator-giddy-over-rnc-celebrity-speaker-were-the-fun-party/)
+[Fauci is back to discuss attempted Trump assassination: ‘There was no other further damage’](https://americanwirenews.com/fauci-is-back-to-discuss-attempted-trump-assassination-there-was-no-other-further-damage/)
 
-(Photo by Jerod Harris/Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-neutras-220x180.jpg)](https://americanwirenews.com/what-is-wrong-with-you-wapo-deletes-tweet-chiding-parents-of-missing-israeli-hostage/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-menendez-220x180.jpg)](https://americanwirenews.com/embattled-nj-sen-bob-menedez-claps-back-at-claims-he-will-resign-after-federal-bribery-conviction/)
+[‘What is wrong with you?!’ WaPo deletes tweet chiding parents of ‘missing’ Israeli hostage](https://americanwirenews.com/what-is-wrong-with-you-wapo-deletes-tweet-chiding-parents-of-missing-israeli-hostage/)
 
-[Embattled NJ Sen Bob Menedez claps back at claims he will resign after federal bribery conviction](https://americanwirenews.com/embattled-nj-sen-bob-menedez-claps-back-at-claims-he-will-resign-after-federal-bribery-conviction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trumpbutlerpa-1200-x-628-220x180.jpg)](https://americanwirenews.com/man-shot-during-attempted-trump-assassination-breaks-his-silence/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-pexels-wind-farm-220x180.jpg)](https://americanwirenews.com/dave-portnoy-slams-wind-farm-when-broken-blade-pollutes-ocean-shuts-down-beaches-makes-you-pause/)
+[Man shot during attempted Trump assassination breaks his silence](https://americanwirenews.com/man-shot-during-attempted-trump-assassination-breaks-his-silence/)
 
-[Dave Portnoy slams wind farm when broken blade pollutes ocean, shuts down beaches: ‘Makes you pause’](https://americanwirenews.com/dave-portnoy-slams-wind-farm-when-broken-blade-pollutes-ocean-shuts-down-beaches-makes-you-pause/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-nancy-pelosi-gw-joe-biden-220x180.jpg)](https://americanwirenews.com/biden-reportedly-seething-over-pelosi-allies-calling-on-him-to-drop-out-of-race/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-shira-haas-220x180.jpg)](https://americanwirenews.com/brave-new-world-disney-scrubs-long-time-characters-israeli-background-after-backlash/)
+[Biden reportedly ‘seething’ over Pelosi allies calling on him to drop out of race](https://americanwirenews.com/biden-reportedly-seething-over-pelosi-allies-calling-on-him-to-drop-out-of-race/)
 
-[‘Brave New World’?! Disney scrubs long-time character’s Israeli background after backlash](https://americanwirenews.com/brave-new-world-disney-scrubs-long-time-characters-israeli-background-after-backlash/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-cnnfactchecked-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnns-fact-checker-gets-fact-checked-by-gop-lawmaker-how-about-just-google/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-hillbilly-elegy-220x180.jpg)](https://americanwirenews.com/variety-slammed-for-accusing-famous-filmmakers-of-hillbilly-elegy-of-mythmaking-as-true-story-soars/)
+[CNN’s ‘fact-checker’ gets fact checked by GOP lawmaker: ‘How about just Google?’](https://americanwirenews.com/cnns-fact-checker-gets-fact-checked-by-gop-lawmaker-how-about-just-google/)
 
-[Variety NOT happy about rise of ‘Hillbilly Elegy’, frets famous filmmakers may have ‘created a monster’](https://americanwirenews.com/variety-slammed-for-accusing-famous-filmmakers-of-hillbilly-elegy-of-mythmaking-as-true-story-soars/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-harris-220x180.jpg)](https://americanwirenews.com/poll-reveals-how-dems-really-feel-about-kamala-harris-potentially-taking-bidens-spot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/screenshot-2024-07-18-074514-220x180.png)](https://americanwirenews.com/introduced-by-his-wife-jd-vance-praises-emotional-famous-mom-for-her-sobriety-in-rousing-vp-speech/)
+[Poll reveals how Dems really feel about Kamala Harris potentially taking Biden’s spot](https://americanwirenews.com/poll-reveals-how-dems-really-feel-about-kamala-harris-potentially-taking-bidens-spot/)
 
-[Introduced by his wife, JD Vance praises emotional famous mom for her sobriety in rousing VP speech](https://americanwirenews.com/introduced-by-his-wife-jd-vance-praises-emotional-famous-mom-for-her-sobriety-in-rousing-vp-speech/)
+(Official White House Photo by Adam Schultz)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-joe-biden--220x180.jpg)](https://americanwirenews.com/bidens-cryptic-bizarre-tweet-just-before-testing-positive-for-covid-has-everyone-talking/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-burnett-220x180.jpg)](https://americanwirenews.com/horrible-choice-of-words-cnn-anchor-immediately-backtracks-after-saying-dems-shooting-at-their-own-nominee/)
 
-[Biden’s cryptic, bizarre tweet just before testing positive for COVID has everyone talking](https://americanwirenews.com/bidens-cryptic-bizarre-tweet-just-before-testing-positive-for-covid-has-everyone-talking/)
+[‘Horrible choice of words’: CNN anchor immediately backtracks after saying Dems ‘shooting at their own nominee’](https://americanwirenews.com/horrible-choice-of-words-cnn-anchor-immediately-backtracks-after-saying-dems-shooting-at-their-own-nominee/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-ivanka-trump-220x180.jpg)](https://americanwirenews.com/ivanka-trump-celebrates-daughters-13th-birthday-with-odd-taylor-swift-cake-and-sweet-post/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-officer-involved-shooting-rnc-220x180.jpg)](https://americanwirenews.com/bodycam-shows-officers-confront-knife-wielding-man-near-rnc-before-fatal-shooting/)
 
-[Ivanka Trump celebrates daughter’s 13th birthday with odd Taylor Swift cake and sweet post](https://americanwirenews.com/ivanka-trump-celebrates-daughters-13th-birthday-with-odd-taylor-swift-cake-and-sweet-post/)
+[Bodycam shows officers confront knife-wielding man near RNC before fatal shooting](https://americanwirenews.com/bodycam-shows-officers-confront-knife-wielding-man-near-rnc-before-fatal-shooting/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-view-warren-220x180.jpg)](https://americanwirenews.com/liz-warren-vows-dems-to-suspend-filibuster-to-make-abortion-the-law-of-the-land/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-pexels-one-in-a-million-220x180.jpg)](https://americanwirenews.com/sniper-landed-one-in-a-million-shot-to-take-out-would-be-trump-assassin/)
 
-[Liz Warren vows Dems to suspend filibuster to make abortion the law of the land](https://americanwirenews.com/liz-warren-vows-dems-to-suspend-filibuster-to-make-abortion-the-law-of-the-land/)
+[Sniper landed ‘one-in-a-million’ shot to take out would-be Trump assassin](https://americanwirenews.com/sniper-landed-one-in-a-million-shot-to-take-out-would-be-trump-assassin/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-thomas-crooks-220x180.jpg)](https://americanwirenews.com/trumps-would-be-assassins-online-searches-cryptic-post-about-his-plot-on-gaming-site/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-joe-vp-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-harris-hq-eaten-alive-for-attacking-trump-over-hannibal-lecter-remark/)
 
-[Trump’s would-be assassin’s online searches, cryptic post about his plot on gaming site](https://americanwirenews.com/trumps-would-be-assassins-online-searches-cryptic-post-about-his-plot-on-gaming-site/)
+[Biden-Harris HQ eaten alive for attacking Trump over Hannibal Lecter remark](https://americanwirenews.com/biden-harris-hq-eaten-alive-for-attacking-trump-over-hannibal-lecter-remark/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-kai-trump-1-220x180.jpg)](https://americanwirenews.com/donald-trumps-17-year-old-granddaughter-speaks-to-crowd-about-grandpa-at-rnc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-sjacksonlee-1200-x-628-220x180.jpg)](https://americanwirenews.com/longserving-democratic-rep-sheila-jackson-lee-has-died/)
 
-[Donald Trump’s 17-year-old granddaughter speaks to crowd about grandpa at RNC](https://americanwirenews.com/donald-trumps-17-year-old-granddaughter-speaks-to-crowd-about-grandpa-at-rnc/)
+[Longserving Democratic Rep. Sheila Jackson Lee has died](https://americanwirenews.com/longserving-democratic-rep-sheila-jackson-lee-has-died/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-pnavarrornc-1200-x-628-220x180.jpg)](https://americanwirenews.com/peter-navarro-gives-blistering-convention-speech-hours-after-being-freed-from-prison/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/trump-1-220x180.jpg)](https://americanwirenews.com/she-has-no-shame-joy-behar-says-its-narcissistic-of-trump-to-believe-god-played-a-part-in-saving-his-life/)
 
-[Peter Navarro gives blistering convention speech hours after being freed from prison](https://americanwirenews.com/peter-navarro-gives-blistering-convention-speech-hours-after-being-freed-from-prison/)
+[‘She has no shame’: Joy Behar says it’s ‘narcissistic’ of Trump to believe God played a part in saving his life](https://americanwirenews.com/she-has-no-shame-joy-behar-says-its-narcissistic-of-trump-to-believe-god-played-a-part-in-saving-his-life/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-cheatlernc-abc-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/gop-senators-confront-bidens-dei-secret-service-director-hiding-behind-agents-at-rnc/)
+(Photo by Anna Moneymaker/Getty Images)
 
-[GOP senators confront Biden’s DEI Secret Service director hiding behind agents at RNC](https://americanwirenews.com/gop-senators-confront-bidens-dei-secret-service-director-hiding-behind-agents-at-rnc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/sg-ice-moreno-220x180.jpg)](https://americanwirenews.com/illegal-alien-known-for-urging-others-to-squat-in-us-homes-linked-to-venezuela-military-intel-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-vance-harris-220x180.jpg)](https://americanwirenews.com/trump-vance-response-to-kamalas-debate-challenge-earns-best-troll-of-the-year-kudos/)
+[Illegal alien known for urging others to squat in US homes linked to Venezuela military intel: report](https://americanwirenews.com/illegal-alien-known-for-urging-others-to-squat-in-us-homes-linked-to-venezuela-military-intel-report/)
 
-[Trump-Vance response to Kamala’s debate challenge earns ‘best troll of the year’ kudos](https://americanwirenews.com/trump-vance-response-to-kamalas-debate-challenge-earns-best-troll-of-the-year-kudos/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trumpbutler1-1200-x-628-220x180.jpg)](https://americanwirenews.com/congress-reportedly-denied-access-to-written-protection-plan-for-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trumpjr-melber-steele-220x180.jpg)](https://americanwirenews.com/don-jr-unloads-on-msnbc-for-questioning-fathers-injury-he-wasnt-shot-in-the-face-enough-for-them/)
+[Congress reportedly DENIED access to written protection plan for Trump](https://americanwirenews.com/congress-reportedly-denied-access-to-written-protection-plan-for-trump/)
 
-[Don Jr. unloads on MSNBC for questioning father’s injury: ”He wasn’t shot in the face enough for them’](https://americanwirenews.com/don-jr-unloads-on-msnbc-for-questioning-fathers-injury-he-wasnt-shot-in-the-face-enough-for-them/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-lou-dobbs-220x180.jpg)](https://americanwirenews.com/trump-former-colleagues-and-friends-pay-tribute-to-the-great-lou-dobbs-after-his-passing/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-the-view-220x180.jpg)](https://americanwirenews.com/reliable-harpies-on-the-view-defend-inflammatory-rhetoric-against-trump-after-he-escapes-death/)
+[Trump, former colleagues, and friends pay tribute to the ‘Great Lou Dobbs’ after his passing](https://americanwirenews.com/trump-former-colleagues-and-friends-pay-tribute-to-the-great-lou-dobbs-after-his-passing/)
 
-[Reliable harpies on ‘The View’ defend inflammatory rhetoric against Trump after he escapes death](https://americanwirenews.com/reliable-harpies-on-the-view-defend-inflammatory-rhetoric-against-trump-after-he-escapes-death/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Kamala-Harris-1-220x180.jpeg)](https://americanwirenews.com/frank-luntz-lists-three-biden-replacements-who-have-a-chance-against-trump-leaves-out-one-obvious-name/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-greene-220x180.jpg)](https://americanwirenews.com/mtg-is-done-with-liberal-media-demonizing-gop-blasts-uk-times-reporter-at-rnc/)
+[Frank Luntz lists three Biden replacements who have a chance against Trump, leaves out one obvious name](https://americanwirenews.com/frank-luntz-lists-three-biden-replacements-who-have-a-chance-against-trump-leaves-out-one-obvious-name/)
 
-[MTG is ‘DONE’ with liberal media demonizing GOP, blasts UK Times reporter at RNC](https://americanwirenews.com/mtg-is-done-with-liberal-media-demonizing-gop-blasts-uk-times-reporter-at-rnc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-crooks-blackrock-220x180.jpg)](https://americanwirenews.com/would-be-trump-assassin-allegedly-made-cryptic-threats-against-school-classmates/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-hitler-220x180.jpg)](https://americanwirenews.com/lincoln-project-lowlifes-showcase-desperation-on-left-with-trump-is-hitler-lie/)
+[Would-be Trump assassin allegedly made cryptic threats against school, classmates](https://americanwirenews.com/would-be-trump-assassin-allegedly-made-cryptic-threats-against-school-classmates/)
 
-[Lincoln Project lowlifes showcase desperation on left with Trump is Hitler lie](https://americanwirenews.com/lincoln-project-lowlifes-showcase-desperation-on-left-with-trump-is-hitler-lie/)
+Image via iSpot.tv
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-biden-interview-1-220x180.jpg)](https://americanwirenews.com/biden-snaps-at-bronze-star-vet-before-trump-shooting-in-dreadful-zoom-call-with-moderate-dems/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-olbermann-jones-220x180.jpg)](https://americanwirenews.com/move-over-joy-reid-keith-olbermann-is-having-a-meltdown-for-the-ages/)
 
-[Biden snaps at Bronze star vet before Trump shooting in dreadful Zoom call with moderate Dems](https://americanwirenews.com/biden-snaps-at-bronze-star-vet-before-trump-shooting-in-dreadful-zoom-call-with-moderate-dems/)
+[Move over Joy Reid. Keith Olbermann is having a meltdown for the ages](https://americanwirenews.com/move-over-joy-reid-keith-olbermann-is-having-a-meltdown-for-the-ages/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-carlson-trump-220x180.jpg)](https://americanwirenews.com/megyn-kelly-has-her-say-after-tucker-carlson-floated-as-potential-trump-press-secretary/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-deadline-220x180.png)](https://americanwirenews.com/unprecedented-enthusiasm-gap-hounds-dems-they-cant-find-anybody/)
 
-[Megyn Kelly has her say after Tucker Carlson floated as potential Trump press secretary](https://americanwirenews.com/megyn-kelly-has-her-say-after-tucker-carlson-floated-as-potential-trump-press-secretary/)
+[Unprecedented enthusiasm gap hounds Dems: ‘They can’t find anybody’](https://americanwirenews.com/unprecedented-enthusiasm-gap-hounds-dems-they-cant-find-anybody/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-pittsburgh-police-220x180.jpg)](https://americanwirenews.com/pittsburgh-motorcycle-cops-in-hot-water-for-working-trump-rally-instead-of-jill-biden-event-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/gettyimages-2162608960-1-220x180.jpg)](https://americanwirenews.com/thanks-for-endorsing-trump-why-would-biden-harris-team-post-this/)
 
-[Pittsburgh motorcycle cops in hot water for working Trump rally instead of Jill Biden event: report](https://americanwirenews.com/pittsburgh-motorcycle-cops-in-hot-water-for-working-trump-rally-instead-of-jill-biden-event-report/)
+[‘Thanks for endorsing Trump!’ Why would Biden-Harris team post THIS?](https://americanwirenews.com/thanks-for-endorsing-trump-why-would-biden-harris-team-post-this/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-eric-trump-220x180.jpg)](https://americanwirenews.com/eric-trump-cranks-up-heat-on-secret-service-director-says-hes-pissed-off-for-agents-in-line-of-fire/)
+(Photo by Chip Somodevilla/Getty Images)
 
-[Eric Trump cranks up heat on Secret Service director, says he‘s ‘pissed off’ for agents in line of fire](https://americanwirenews.com/eric-trump-cranks-up-heat-on-secret-service-director-says-hes-pissed-off-for-agents-in-line-of-fire/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-usps-220x180.png)](https://americanwirenews.com/dont-click-usps-one-of-the-most-imitated-brands-in-phishing-scams/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trumpbutler1-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-arrival-at-hospital-after-shooting-captured-on-video-onlookers-offer-tearful-prayers/)
+[‘Don’t click!’ USPS one of the most imitated brands in phishing scams](https://americanwirenews.com/dont-click-usps-one-of-the-most-imitated-brands-in-phishing-scams/)
 
-[Trump arrival at hospital after shooting captured on video – onlookers offer tearful prayers](https://americanwirenews.com/trump-arrival-at-hospital-after-shooting-captured-on-video-onlookers-offer-tearful-prayers/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-mayorkas-220x180.jpg)](https://americanwirenews.com/dhs-assigned-unprepared-and-inexperienced-personnel-to-trump-security-detail-whistleblowers-claim/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-john-rich-music-video-220x180.jpg)](https://americanwirenews.com/straight-from-god-john-rich-reveals-inspiration-for-new-hit-song-revelation/)
+[‘Most’ of Trump’s security not Secret Service…DHS assigned ‘inexperienced’ personnel, whistleblowers claim](https://americanwirenews.com/dhs-assigned-unprepared-and-inexperienced-personnel-to-trump-security-detail-whistleblowers-claim/)
 
-[Straight from God: John Rich reveals inspiration for new hit song ‘Revelation’](https://americanwirenews.com/straight-from-god-john-rich-reveals-inspiration-for-new-hit-song-revelation/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-pexels-microsoft-220x180.jpg)](https://americanwirenews.com/microsoft-selectively-scraps-its-dei-department-dont-be-fooled/)
+
+[Microsoft selectively scraps its DEI department. Don’t be fooled.](https://americanwirenews.com/microsoft-selectively-scraps-its-dei-department-dont-be-fooled/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-pexels-voting-3-220x180.jpg)](https://americanwirenews.com/theory-on-why-democrats-need-biden-out-so-badly-is-frightening/)
+
+[Theory on why democrats need Biden out so badly is frightening](https://americanwirenews.com/theory-on-why-democrats-need-biden-out-so-badly-is-frightening/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -236,9 +242,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/admin-ajax-4-1200x630.jpg)](https://americanwirenews.com/sweeping-changes-at-cnn-layoffs-hit-100-network-quietly-disbands-race-and-equality-team/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-disney-animatronic-bears-1200x630.jpg)](https://americanwirenews.com/disney-whacks-longtime-beloved-character-because-alcoholics-feelings-could-be-hurt/)
 
-[‘Sweeping changes’ at CNN — layoffs hit 100, network ‘quietly’ disbands ‘Race and Equality’ team](https://americanwirenews.com/sweeping-changes-at-cnn-layoffs-hit-100-network-quietly-disbands-race-and-equality-team/)
+[Disney whacks longtime beloved character because alcoholics’ feelings could be hurt](https://americanwirenews.com/disney-whacks-longtime-beloved-character-because-alcoholics-feelings-could-be-hurt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-disney-animatronic-bears-220x180.jpg)](https://americanwirenews.com/disney-whacks-longtime-beloved-character-because-alcoholics-feelings-could-be-hurt/)
+
+[Disney whacks longtime beloved character because alcoholics’ feelings could be hurt](https://americanwirenews.com/disney-whacks-longtime-beloved-character-because-alcoholics-feelings-could-be-hurt/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/pxbay-tractor-1200-x-628-220x180.jpg)](https://americanwirenews.com/john-deere-is-latest-corporation-to-cave-on-dei-will-no-longer-promote-woke-agenda/)
+
+[John Deere is latest corporation to cave on DEI, will no longer promote ‘woke agenda’](https://americanwirenews.com/john-deere-is-latest-corporation-to-cave-on-dei-will-no-longer-promote-woke-agenda/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/07/admin-ajax-4-220x180.jpg)](https://americanwirenews.com/sweeping-changes-at-cnn-layoffs-hit-100-network-quietly-disbands-race-and-equality-team/)
 
@@ -252,39 +266,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘DEI must DIE’: Passenger jets nearly collide mid-air over NY airport, raising hiring concerns](https://americanwirenews.com/dei-must-die-passenger-jets-nearly-collide-mid-air-over-ny-airport-raising-hiring-concerns/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-elon-musk-220x180.jpg)](https://americanwirenews.com/elon-musk-says-no-choice-but-to-sue-following-gops-devastating-hearing-on-selective-censorship/)
-
-[Elon Musk says no choice but to sue following GOP’s devastating hearing on selective censorship](https://americanwirenews.com/elon-musk-says-no-choice-but-to-sue-following-gops-devastating-hearing-on-selective-censorship/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-pony-car-220x180.jpg)](https://americanwirenews.com/self-driving-chinese-cars-are-state-approved-rolling-surveillance-devices-mapping-america-report/)
-
-[Self-driving Chinese cars are state-approved ‘rolling surveillance devices’: report](https://americanwirenews.com/self-driving-chinese-cars-are-state-approved-rolling-surveillance-devices-mapping-america-report/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-kennedy-trump-1200x630.jpg)](https://americanwirenews.com/mortified-rfk-jr-apologizes-after-private-convo-with-trump-is-leaked-and-shared-by-his-son/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trumpjr-melber-steele-1200x630.jpg)](https://americanwirenews.com/don-jr-unloads-on-msnbc-for-questioning-fathers-injury-he-wasnt-shot-in-the-face-enough-for-them/)
 
-[‘Mortified’ RFK Jr. apologizes after private convo with Trump is leaked and shared by his son](https://americanwirenews.com/mortified-rfk-jr-apologizes-after-private-convo-with-trump-is-leaked-and-shared-by-his-son/)
+[Don Jr. unloads on MSNBC for questioning father’s injury: ”He wasn’t shot in the face enough for them’](https://americanwirenews.com/don-jr-unloads-on-msnbc-for-questioning-fathers-injury-he-wasnt-shot-in-the-face-enough-for-them/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-kennedy-trump-220x180.jpg)](https://americanwirenews.com/mortified-rfk-jr-apologizes-after-private-convo-with-trump-is-leaked-and-shared-by-his-son/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-trumpjr-melber-steele-220x180.jpg)](https://americanwirenews.com/don-jr-unloads-on-msnbc-for-questioning-fathers-injury-he-wasnt-shot-in-the-face-enough-for-them/)
 
-[‘Mortified’ RFK Jr. apologizes after private convo with Trump is leaked and shared by his son](https://americanwirenews.com/mortified-rfk-jr-apologizes-after-private-convo-with-trump-is-leaked-and-shared-by-his-son/)
+[Don Jr. unloads on MSNBC for questioning father’s injury: ”He wasn’t shot in the face enough for them’](https://americanwirenews.com/don-jr-unloads-on-msnbc-for-questioning-fathers-injury-he-wasnt-shot-in-the-face-enough-for-them/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-cheatle-roofs-220x180.jpg)](https://americanwirenews.com/kim-cheatles-latest-bullst-excuse-for-security-failure-met-with-rage-this-is-madness/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-the-view-220x180.jpg)](https://americanwirenews.com/reliable-harpies-on-the-view-defend-inflammatory-rhetoric-against-trump-after-he-escapes-death/)
 
-[Kim Cheatle’s latest ‘bulls\*\*t’ excuse for security failure met with rage: ‘This is madness’](https://americanwirenews.com/kim-cheatles-latest-bullst-excuse-for-security-failure-met-with-rage-this-is-madness/)
+[Reliable harpies on ‘The View’ defend inflammatory rhetoric against Trump after he escapes death](https://americanwirenews.com/reliable-harpies-on-the-view-defend-inflammatory-rhetoric-against-trump-after-he-escapes-death/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-abcjoebiden-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-dnc-is-quietly-moving-forward-with-plans-to-shove-biden-down-voters-throats-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-greene-220x180.jpg)](https://americanwirenews.com/mtg-is-done-with-liberal-media-demonizing-gop-blasts-uk-times-reporter-at-rnc/)
 
-[The DNC is quietly moving forward with plans to shove Biden down voters’ throats: report](https://americanwirenews.com/the-dnc-is-quietly-moving-forward-with-plans-to-shove-biden-down-voters-throats-report/)
+[MTG is ‘DONE’ with liberal media demonizing GOP, blasts UK Times reporter at RNC](https://americanwirenews.com/mtg-is-done-with-liberal-media-demonizing-gop-blasts-uk-times-reporter-at-rnc/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-keith-olbermann-220x180.jpg)](https://americanwirenews.com/keith-olbermann-reveals-exactly-who-he-is-with-tyrannical-call-to-arrest-judge-who-tossed-trump-case/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-hitler-220x180.jpg)](https://americanwirenews.com/lincoln-project-lowlifes-showcase-desperation-on-left-with-trump-is-hitler-lie/)
 
-[Keith Olbermann reveals exactly who he is with tyrannical call to arrest judge who tossed Trump case](https://americanwirenews.com/keith-olbermann-reveals-exactly-who-he-is-with-tyrannical-call-to-arrest-judge-who-tossed-trump-case/)
+[Lincoln Project lowlifes showcase desperation on left with Trump is Hitler lie](https://americanwirenews.com/lincoln-project-lowlifes-showcase-desperation-on-left-with-trump-is-hitler-lie/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-tenacious-ds-kyle-gass-220x180.jpg)](https://americanwirenews.com/blindsided-jack-black-cancels-tour-over-bandmates-indefensible-trump-comment-during-live-concert/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-biden-interview-1-220x180.jpg)](https://americanwirenews.com/biden-snaps-at-bronze-star-vet-before-trump-shooting-in-dreadful-zoom-call-with-moderate-dems/)
 
-[‘Blindsided’ Jack Black cancels tour over bandmate’s ‘indefensible’ Trump comment during live concert](https://americanwirenews.com/blindsided-jack-black-cancels-tour-over-bandmates-indefensible-trump-comment-during-live-concert/)
+[Biden snaps at Bronze star vet before Trump shooting in dreadful Zoom call with moderate Dems](https://americanwirenews.com/biden-snaps-at-bronze-star-vet-before-trump-shooting-in-dreadful-zoom-call-with-moderate-dems/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -314,34 +320,28 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-musk-ironman2-1200x630.jpg)](https://americanwirenews.com/do-it-become-iron-musk-elon-musk-says-it-might-be-time-to-build-flying-metal-suit-of-armor-as-threat-level-rises/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-john-rich-music-video-1200x630.jpg)](https://americanwirenews.com/straight-from-god-john-rich-reveals-inspiration-for-new-hit-song-revelation/)
 
-[‘Do it! Become Iron Musk!’ Elon Musk says it might be time to build ‘flying metal suit of armor’ as threat level rises](https://americanwirenews.com/do-it-become-iron-musk-elon-musk-says-it-might-be-time-to-build-flying-metal-suit-of-armor-as-threat-level-rises/)
+[Straight from God: John Rich reveals inspiration for new hit song ‘Revelation’](https://americanwirenews.com/straight-from-god-john-rich-reveals-inspiration-for-new-hit-song-revelation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-john-rich-music-video-220x180.jpg)](https://americanwirenews.com/straight-from-god-john-rich-reveals-inspiration-for-new-hit-song-revelation/)
+
+[Straight from God: John Rich reveals inspiration for new hit song ‘Revelation’](https://americanwirenews.com/straight-from-god-john-rich-reveals-inspiration-for-new-hit-song-revelation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-dutch-trump-rally-220x180.jpg)](https://americanwirenews.com/us-marine-vet-critically-shot-at-trump-rally-walked-from-scene-talk-about-hard-freaking-core-semper-fi-brother/)
+
+[US Marine vet critically shot at Trump rally walked from scene: ‘Talk about Hard Freaking Core. Semper Fi, brother’](https://americanwirenews.com/us-marine-vet-critically-shot-at-trump-rally-walked-from-scene-talk-about-hard-freaking-core-semper-fi-brother/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-cnn-220x180.png)](https://americanwirenews.com/man-in-where-is-the-jeffrey-epstein-client-list-shirt-steals-the-show-from-cnn/)
+
+[Man in ‘Where is the Jeffrey Epstein client list?’ shirt steals the show from CNN](https://americanwirenews.com/man-in-where-is-the-jeffrey-epstein-client-list-shirt-steals-the-show-from-cnn/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-portnoy-220x180.jpg)](https://americanwirenews.com/seas-angry-my-friends-dave-portnoy-rescued-by-coast-guard-after-he-was-nearly-lost-to-the-ocean/)
+
+[‘Sea’s angry my friends’: Dave Portnoy rescued by Coast Guard after he was nearly ‘lost to the ocean’](https://americanwirenews.com/seas-angry-my-friends-dave-portnoy-rescued-by-coast-guard-after-he-was-nearly-lost-to-the-ocean/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-musk-ironman2-220x180.jpg)](https://americanwirenews.com/do-it-become-iron-musk-elon-musk-says-it-might-be-time-to-build-flying-metal-suit-of-armor-as-threat-level-rises/)
 
 [‘Do it! Become Iron Musk!’ Elon Musk says it might be time to build ‘flying metal suit of armor’ as threat level rises](https://americanwirenews.com/do-it-become-iron-musk-elon-musk-says-it-might-be-time-to-build-flying-metal-suit-of-armor-as-threat-level-rises/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-firefighter-firetruck-220x180.jpg)](https://americanwirenews.com/pennsylvania-firefighter-upset-over-bullet-not-hitting-trump-square-resigns-over-social-media-post/)
-
-[Pennsylvania firefighter upset over bullet not hitting Trump ‘square’ resigns over social media post
-
-Image: Pixabay](https://americanwirenews.com/pennsylvania-firefighter-upset-over-bullet-not-hitting-trump-square-resigns-over-social-media-post/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/classroom-2093744_640-220x180.jpg)](https://americanwirenews.com/seattle-teacher-writes-students-dramatic-letter-warning-of-evil-and-dangerous-trump-win/)
-
-[Seattle teacher writes students dramatic letter warning of ‘evil and dangerous’ Trump win](https://americanwirenews.com/seattle-teacher-writes-students-dramatic-letter-warning-of-evil-and-dangerous-trump-win/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-sg-pedroso-skate-riot-220x180.jpg)](https://americanwirenews.com/canceled-birthday-party-social-media-posts-and-500-person-riot-result-in-florida-mothers-arrest/)
-
-[Canceled birthday party, social media posts and 500-person riot result in Florida mother’s arrest
-
-Image via Hillsborough County Sheriff's Office](https://americanwirenews.com/canceled-birthday-party-social-media-posts-and-500-person-riot-result-in-florida-mothers-arrest/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-sg-diaz-charlotte-220x180.jpg)](https://americanwirenews.com/suspect-in-violent-north-carolina-rampage-reportedly-in-america-illegally/)
-
-[Suspect in violent North Carolina rampage reportedly in America illegally
-
-Image via Charlotte-Mecklenburg Police Department](https://americanwirenews.com/suspect-in-violent-north-carolina-rampage-reportedly-in-america-illegally/)
 
 © 2024. All Rights Reserved. American Wire News
