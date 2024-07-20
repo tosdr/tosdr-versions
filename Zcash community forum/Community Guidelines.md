@@ -124,7 +124,7 @@ To use the Zcash Forum, you must agree to abide by our [Terms of Service](https:
 
 * [Home](https://forum.zcashcommunity.com/)
 * [Categories](https://forum.zcashcommunity.com/categories)
-* [FAQ/Guidelines](https://forum.zcashcommunity.com/guidelines)
+* [Guidelines](https://forum.zcashcommunity.com/guidelines)
 * [Terms of Service](https://forum.zcashcommunity.com/tos)
 * [Privacy Policy](https://forum.zcashcommunity.com/privacy)
 
