@@ -2,12 +2,15 @@
 
 [TOOMICS](https://toomics.com/en)
 
+[SUBSCRIBE](https://toomics.com/en) [STORE _New_](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3N0b3Jl&cancel_return=L2VuL2hlbHAvYWNjZXNzX3Rlcm1z)
+
 * [Weekly](https://toomics.com/en/webtoon/ongoing_all)
 * [Genres](https://toomics.com/en/webtoon/ranking)
 * [New](https://toomics.com/en/age_verification?alt=1&return_url=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~&cancel_return=L2VuL3dlYnRvb24vbmV3X2NvbWljcw~~)
 * [My Library](https://toomics.com/en/webtoon/recent)
+\`
 
-[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search)
+[Family Safe](https://toomics.com/en/help/access_terms)[Search](https://toomics.com/en/webtoon/search) [_Gift Box_](javascript:;)
 
 dropdown menu
 
@@ -82,6 +85,10 @@ App Coins
 0
 
 Bonus Coins
+
+0
+
+Gift Coins
 
 0
 
@@ -336,39 +343,9 @@ Provision
 
 2\. These terms and conditions are effective as of Nov 21 2020, and the previous terms and conditions shall be superseded and replaced by these terms and conditions.​   
 
-#### Tell us what you like!
-
-Choose three or more of your favorite genres!
-
-Are you over 18?
-
 * * *
 
-all
-
-drama
-
-romance
-
-school life
-
-comedy
-
-fantasy
-
-action
-
-BL
-
-horror
-
-thriller
-
-sci-fi
-
-historical
-
-Cancel OK
+OK
 
 * [Terms of Use](https://toomics.com/en/help/access_terms)
 * [Privacy Policy](https://toomics.com/en/help/private_terms)
