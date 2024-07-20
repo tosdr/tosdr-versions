@@ -1,3 +1,5 @@
+![](https://mc.yandex.ru/watch/97730387)
+
 [![SeamlessChex Logo](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/6532596aeebb4df7798021ad_Group%2068.svg)](https://www.seamlesschex.com/)
 
 Menu
@@ -12,7 +14,7 @@ Get Paid
 
 Paynote
 
-[Send ACH Payments](https://www.seamlesschex.com/send-ach-payments)[Accept Verified ACH Payments](https://www.seamlesschex.com/accept-verified-ach-payments)[Online Checkout](https://www.seamlesschex.com/paynote-checkout)[Marketplace Payments](https://www.seamlesschex.com/payment-marketplace)
+[Send ACH Payments](https://www.seamlesschex.com/send-ach-payments)[Accept Verified ACH Payments](https://www.seamlesschex.com/accept-verified-ach-payments)[Online Checkout](https://www.seamlesschex.com/paynote-checkout)[Marketplace Payments](https://www.seamlesschex.com/payment-marketplace)[Paynote](https://www.seamlesschex.com/paynote)
 
 [Paynote](https://www.seamlesschex.com/paynote)
 
