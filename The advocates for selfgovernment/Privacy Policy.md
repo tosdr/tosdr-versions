@@ -335,6 +335,22 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-17-at-11.07.43 AM-300x200.png)](https://www.theadvocates.org/single-bullet-theory/)
+    
+    #### [Single Bullet Theory](https://www.theadvocates.org/single-bullet-theory/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/Screenshot-2024-07-05-at-1.00.42 PM-300x200.png)](https://www.theadvocates.org/programmable-incentives/)
+    
+    #### [Programmable Incentives](https://www.theadvocates.org/programmable-incentives/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/07/web-300x200.jpg)](https://www.theadvocates.org/capitalism-is-not-responsible-for-materialism/)
+    
+    #### [Capitalism Is Not Responsible for Materialism](https://www.theadvocates.org/capitalism-is-not-responsible-for-materialism/)
+    
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/06/Screenshot-2024-06-24-at-8.30.26 AM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-9-transaction-costs/)
+    
+    #### [Principles of Market Fundamentalism: No. 9: Transaction Costs](https://www.theadvocates.org/principles-of-market-fundamentalism-no-9-transaction-costs/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/Screenshot-2024-06-18-at-2.55.27 PM-300x200.png)](https://www.theadvocates.org/reality-by-agreement/)
     
     #### [Reality by Agreement](https://www.theadvocates.org/reality-by-agreement/)
@@ -350,22 +366,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-28-at-1.00.00 PM-300x200.png)](https://www.theadvocates.org/smaller-freer-more-decentralized/)
     
     #### [Smaller. Freer. More Decentralized.](https://www.theadvocates.org/smaller-freer-more-decentralized/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-20-at-7.28.17 PM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-7-ecosystem/)
-    
-    #### [Principles of Market Fundamentalism, No. 7: Ecosystem](https://www.theadvocates.org/principles-of-market-fundamentalism-no-7-ecosystem/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-13-at-3.18.09 PM-300x200.png)](https://www.theadvocates.org/the-digital-dollar-is-our-death-knell/)
-    
-    #### [The Digital Dollar is Our Death Knell](https://www.theadvocates.org/the-digital-dollar-is-our-death-knell/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/05/Screenshot-2024-05-02-at-11.46.05 AM-300x200.png)](https://www.theadvocates.org/principles-of-market-fundamentalism-no-6-inequality/)
-    
-    #### [Principles of Market Fundamentalism, No. 6: Inequality](https://www.theadvocates.org/principles-of-market-fundamentalism-no-6-inequality/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/04/Marx1-1-300x200.png)](https://www.theadvocates.org/the-intellectuals-and-redistribution/)
-    
-    #### [The Intellectuals and Redistribution](https://www.theadvocates.org/the-intellectuals-and-redistribution/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
