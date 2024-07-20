@@ -62,7 +62,7 @@ Content of Terms
         Services provided by UptimeRobot can be purchased through the "Upgrade link" that can be reached after logging in to the products. The process works as:
         
         * You select the desired paid plan or the number of SMS message / voice call credits or desired number of extra seats
-        * Complete the payment with a credit card, debit card or PayPal
+        * Complete the payment with a credit card or debit card
         * UptimeRobot sends an e-mail mentioning that the purchased service can be used
         
         Depending on the purchase method selected, the payments will be processed by Stripe.com, PayPal Pte. Ltd. (PayPal.com) or 2Checkout.com Inc (renewals only).
