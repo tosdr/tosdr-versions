@@ -848,6 +848,7 @@ Product
     Labs](https://webflow.com/figma-to-webflow)
 * [Security](https://webflow.com/security)
 * [Accessibility](https://webflow.com/accessibility)
+* [AI](https://webflow.com/ai)
 
 Solutions
 
@@ -865,9 +866,7 @@ Resources
 * [Customer stories](https://webflow.com/customers)
 * [Webinars and ebooks](https://webflow.com/resources)
 * [Apps](https://webflow.com/apps)
-* [Libraries
-    
-    Beta](https://webflow.com/libraries)
+* [Libraries](https://webflow.com/libraries)
 * [Templates](https://webflow.com/templates)
 * [Developers](http://developers.webflow.com/)
 * [Made in Webflow](https://webflow.com/made-in-webflow)
@@ -893,10 +892,10 @@ Community
 
 * [Discover the community](https://webflow.com/community)
 * [Partner with Webflow](https://webflow.com/partners)
-* [Certified partners](https://experts.webflow.com/)
-* [Become a Template Designer](https://webflow.com/templates/applications)
-* [Become an Affiliate](https://webflow.com/affiliates)
-* [Become a global leader](https://webflow.com/community/global-leaders)
+* [Certified Partners](https://experts.webflow.com/)
+* [Become a template designer](https://webflow.com/templates/applications)
+* [Become an affiliate](https://webflow.com/affiliates)
+* [Become a Global Leader](https://webflow.com/community/global-leaders)
 * [Find a meetup near you](https://webflow.com/events)
 
 Get help
