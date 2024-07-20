@@ -5,7 +5,7 @@ This site is privately owned and is not affiliated with any government agency. L
 Main Navigation
 ---------------
 
-[![Senior Assistance Benefits](https://assets.seniorassistancebenefits.org/wp-content/uploads/sites/159/2020/03/SeniorAssistanceBenefits-logo-1.svg)](https://seniorassistancebenefits.org/) 
+[![Senior Assistance Benefits](https://assets.seniorassistancebenefits.org/wp-content/uploads/sites/159/2020/03/SeniorAssistanceBenefits-logo-1.svg)](https://seniorassistancebenefits.org/)
 
 1Information
 
