@@ -7,7 +7,7 @@
 Terms of Sale
 =============
 
-Last Updated: April 2024  
+Last Updated: July 2024  
   
 Your privacy is important to us. Formilytics LLC, D.B.A. BDOW! (formerly Sumo) and its subsidiaries and affiliates (collectively, “Formilytics,” “we,” or “us”), understand your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will use and share information about you carefully and sensibly. This Privacy Policy describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it. This Privacy Policy applies to your use of our web or mobile site, or other application (the “Site”) and any other means by which we may collect information about you, including information you may provide to us other than on the Site. We encourage you to become familiar with this Privacy Policy. By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy. We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of other companies or other websites. We encourage you to seek out and read the privacy policy of each website that you visit.  
   
