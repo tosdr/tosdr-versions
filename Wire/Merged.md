@@ -1,3 +1,5 @@
+<img src="https://secure.7-companycompany.com/796156.png" style="display:none;">       
+
 [Skip to content](#main-content)
 
 [![WIRE_Logo_rgb_black](https://wire.com/hs-fs/hubfs/WIRE_Logo_rgb_black.png?width=1163&height=395&name=WIRE_Logo_rgb_black.png "WIRE_Logo_rgb_black")](https://wire.com/en/?hsLang=en)
