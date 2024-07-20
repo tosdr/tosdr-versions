@@ -46,6 +46,8 @@ More
 
 [Quiz](https://www.snopes.com/game/)
 
+[FactBot](https://www.snopes.com/factbot/)
+
 [About Us](https://www.snopes.com/about/)
 
 Categories
@@ -339,6 +341,8 @@ All other feedback, comments, requests for technical support and other communica
 Login
 
 [Game](https://www.snopes.com/game/)
+
+[FactBot](https://www.snopes.com/factbot/)
 
 [Like Us on Facebook](https://www.facebook.com/snopes) [Follow Us on Twitter](https://www.twitter.com/snopes)
 
