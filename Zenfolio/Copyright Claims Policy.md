@@ -133,4 +133,4 @@ Help
 * [](https://www.tiktok.com/@zenfolioinc "TikTok")
 * [](https://www.pinterest.com/zenfolio/ "Pinterest")
 
-[Get Started Today and **SAVE up to 50%.**\* – View Plans](https://zenfolio.com/plans-pricing/)
+[**SAVE up to 50% NOW!**\* – View Plans](https://zenfolio.com/plans-pricing/)
