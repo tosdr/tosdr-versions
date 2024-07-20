@@ -288,15 +288,24 @@ _Published on 28/03/2024_
 
 ### Products
 
-[* Online Storage](https://www.softronics.ch/en/products/online-storage)[* FTP Storage](https://www.softronics.ch/en/products/ftp-storage)[* Virtual Server](https://www.softronics.ch/en/products/virtual-server)[* Domains](https://www.softronics.ch/en/products/domains)
+* [Online Storage](https://www.softronics.ch/en/products/online-storage)
+* [FTP Storage](https://www.softronics.ch/en/products/ftp-storage)
+* [Virtual Server](https://www.softronics.ch/en/products/virtual-server)
+* [Domains](https://www.softronics.ch/en/products/domains)
 
 ### Other
 
-[* News](https://www.softronics.ch/en/about-us/news)[* About us](https://www.softronics.ch/en/about-us)[* Security](https://www.softronics.ch/en/about-us/security)[* Partners](https://www.softronics.ch/en/about-us/partners)[* GTC](https://www.softronics.ch/en/about-us/gtc)[* Privacy](https://www.softronics.ch/en/about-us/privacy)
+* [News](https://www.softronics.ch/en/about-us/news)
+* [About us](https://www.softronics.ch/en/about-us)
+* [Security](https://www.softronics.ch/en/about-us/security)
+* [Partners](https://www.softronics.ch/en/about-us/partners)
+* [GTC](https://www.softronics.ch/en/about-us/gtc)
+* [Privacy](https://www.softronics.ch/en/about-us/privacy)
 
 ### Contact
 
-[* Contact Form](https://www.softronics.ch/en/support/contact-form)[* Remote support](https://www.pcvisit.de/kundenbereich/downloads/)
+* [Contact Form](https://www.softronics.ch/en/support/contact-form)
+* [Remote support](https://www.pcvisit.de/kundenbereich/downloads/)
 
 Softronics Communication AG  
 St. Dionysstrasse 31  
