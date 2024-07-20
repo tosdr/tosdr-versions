@@ -2,7 +2,7 @@
 
 [Sell Your Music](https://www.tunecore.com/sell-your-music)[Music Publishing](https://www.tunecore.com/music-publishing-administration)[Artist Services](https://www.tunecore.com/artist-services)[Pricing](https://www.tunecore.com/pricing)[Artist Advice](https://www.tunecore.com/guides)[Splits](https://www.tunecore.com/splits)[Login](https://web.tunecore.com/login)[Sign Up](https://web.tunecore.com/signup)
 
-[Sell Your Music](https://www.tunecore.com/sell-your-music)[Music Publishing](https://www.tunecore.com/music-publishing-administration)[Artist Services](https://www.tunecore.com/artist-services)[Pricing](https://www.tunecore.com/pricing)[Artist Advice](https://www.tunecore.com/guides)[Splits](https://www.tunecore.com/splits)[Login](https://web.tunecore.com/login)[Sign Up](https://web.tunecore.com/signup)
+[Sell Your Music](https://www.tunecore.com/sell-your-music)[Music Publishing](https://www.tunecore.com/music-publishing-administration)[Artist Services](https://www.tunecore.com/artist-services)[Pricing](https://www.tunecore.com/pricing)[Artist Advice](https://www.tunecore.com/guides)[Splits](https://www.tunecore.com/splits)[Login](https://web.tunecore.com/login)[Sign Up](https://web.tunecore.com/signup)[Dashboard](https://web.tunecore.com/dashboard)
 
 Terms and Conditions
 ====================
