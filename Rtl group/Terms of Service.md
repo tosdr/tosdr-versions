@@ -190,11 +190,11 @@
     
     [Contact](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/contact/)
     
-    [![](/.galleries/images/rtl-group/RTL-stories_Mark-Evans_16-9.png)
+    [![](/.galleries/images/rtl-group/RTL-stories_JB_1920x1080.jpg)
     
-    10 years at RTL: Mark Evans
+    10 years at RTL: Jean-Baptiste Moggio
     
-    21.05.24 | RTL Group](https://https//company.rtl.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Mark-Evans/)
+    15.07.24 | RTL Group](https://company.rtl.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Jean-Baptiste-Moggio/)
     
 * [](https://company.rtl.com/en/search/index.html)
 * [EN](#)
@@ -307,6 +307,54 @@ Europe's leading entertainment brand
 
  
 
+* [![slide- Joining forces: Bedrock and RTL+ in Germany](/.galleries/images/Bedrock-RTL-_16-9.png?__scale=undefined&description=)
+    
+    Joining forces: Bedrock and RTL+ in Germany
+    
+    19.07.2024
+    
+    RTL Group’s largest streaming service, RTL+ in Germany, plans to migrate to the Bedrock platform in early 2026.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/-Joining-forces-Bedrock-and-RTL-in-Germany/)
+    
+* [![slide-10 years at RTL: Jean-Baptiste Moggio](/.galleries/images/rtl-group/RTL-stories_JB_1920x1080.jpg?__scale=undefined&description=)
+    
+    10 years at RTL: Jean-Baptiste Moggio
+    
+    15.07.2024
+    
+    Jean-Baptiste Moggio, Senior Brand Director at RTL AdAlliance, delves into his decade-long journey with the company and the dynamic world of international advertising.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Jean-Baptiste-Moggio/)
+    
+* [![slide-RTL Beach 2024](/.galleries/images/RTL-AdAlliance_Beach2024_16-9.png?__scale=undefined&description=)
+    
+    RTL Beach 2024
+    
+    08.07.2024
+    
+    From AI to sports advertising: RTL AdAlliance hosted RTL Beach as part of the Cannes Lions Festival for the third time, combining business with networking opportunities.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Beach-2024/)
+    
+* [![slide-Fremantle partners with AlterEgo](/.galleries/images/Fremantle_AlterEgo_16-9.png?__scale=undefined&description=)
+    
+    Fremantle partners with AlterEgo
+    
+    02.07.2024
+    
+    Fremantle has signed a first-look partnership with Italian production company AlterEgo to develop a slate of original films and dramas.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-partners-with-AlterEgo/)
+    
+* [![slide-Fremantle partners with Nevermind Pictures](/.galleries/images/Fremantle_Nevermind-Pictures_16-9.png?__scale=undefined&description=)
+    
+    Fremantle partners with Nevermind Pictures
+    
+    26.06.2024
+    
+    Fremantle announces a first-look deal with Nevermind Pictures, the production company from screenwriter Dylan Meyer, filmmaker and actor Kristen Stewart and producer Maggie McLean.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-partners-with-Nevermind-Pictures/)
+    
+* [![slide-Philippe Bouvard retires after 60 years with RTL](/.galleries/images/Philippe-Bouvard_16-9.png?__scale=undefined&description=)
+    
+    Philippe Bouvard retires after 60 years with RTL
+    
+    26.06.2024
+    
+    Philippe Bouvard, an iconic radio presenter for RTL Radio in France, announces his plans to retire in January at the age of 95.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Philippe-Bouvard-retires-after-60-years-with-RTL/)
+    
 * [![slide-Screenforce Festival 2024](/.galleries/images/Screenforce_Festival_2024_16-9.png?__scale=undefined&description=)
     
     Screenforce Festival 2024
@@ -330,30 +378,6 @@ Europe's leading entertainment brand
     05.06.24
     
     Flexibility and security: RTL Deutschland launches a private 5G campus network from Deutsche Telekom in time for the UEFA EURO 2024.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-launches-5G-network/)
-    
-* [![slide-10 years at RTL: Mark Evans](/.galleries/images/rtl-group/RTL-stories_Mark-Evans_16-9.png?__scale=undefined&description=)
-    
-    10 years at RTL: Mark Evans
-    
-    21.05.24
-    
-    “It’s been 10 years but it feels like two”: In this podcast episode, Mark Evans, Head of News at Enex, talks about trust, social media, digital transformation and the importance of international collaboration.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Mark-Evans/)
-    
-* [![slide-Quarterly statement January to March 2024](/.galleries/images/Q1-2024_Title_16-9.jpg?__scale=undefined&description=)
-    
-    Quarterly statement January to March 2024
-    
-    08.05.24
-    
-    On 8 May 2024, RTL Group published its quarterly statement for the first three months of 2024 (January to March 2024).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/quarterly-statement-january-to-march-2024/)
-    
-* [![slide-Launch of M6+](/.galleries/images/M6-v2_16-9.jpg?__scale=undefined&description=)
-    
-    Launch of M6+
-    
-    15.05.24
-    
-    Groupe M6 launches its new streaming service with a doubled programme offering, a more innovative platform and a national advertising campaign.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Launch-of-M6/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
