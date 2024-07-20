@@ -44,7 +44,7 @@
     [Topic Overview](https://www.statista.com/topics/)
     
     * [Smartphones - statistics & facts](https://www.statista.com/topics/840/smartphones/)
-    * [Social media - Statistics & Facts](https://www.statista.com/topics/1164/social-networks/)
+    * [Social media - statistics & facts](https://www.statista.com/topics/1164/social-networks/)
     
     Top Report
     
@@ -135,7 +135,11 @@
     
     The Statistics Portal
     
+    [Statista Logo](https://www.statista.com/)
+    
     Directly accessible data for 170 industries from 150+ countries and over 1 Mio. facts.
+    
+    More about Statista
     
     * [About Statista](https://www.statista.com/aboutus/)
     * [Why trust Statista](https://www.statista.com/aboutus/trust)
@@ -147,42 +151,45 @@
     
     * [Business Plan Export](https://www.statista.com/business-plan-export)
     
-    Statista Services
+    Services
     
-    Statista Q
+    [](https://statistaplus.com/en)
     
-    Customized Research & Analysis projects:
+    Statista+ offers additional, data-driven services, tailored to your specific needs. As your partner for data-driven success, we combine expertise in research, strategy, and marketing communications to deliver comprehensive solutions. [Contact us directly for your individual offer.](https://statistaplus.com/en)
+    
+    Research
+    
+    Full-service market research and analytics
+    
+    * Customized market research
+    * Data analytics
+    * Ad hoc research "askStatista"
     
     [Statista Q](https://q.statista.com/?utm_source=statista-com&utm_medium=website-link&utm_campaign=statista-platform-referrals)
     
-    askStatista
+    Strategy
     
-    Get quick analyses with our professional research service
+    Strategy and business building for the data-driven economy
     
-    [askStatista](https://ask.statista.com/)
+    * Build strategies
+    * Create data value
+    * Realize business opportunities
     
-    Statista R
+    [nxt statista](https://www.nxt.statista.com/)
     
-    The best of the best: the portal for top lists & rankings:
+    Design
     
-    [Statista R](https://r.statista.com/en/)
+    Transforming data into content marketing and design
     
-    Statista Content & Design
-    
-    Transforming data into design:
-    
-    * Customized infographic service
-    * Presentation Design
-    * Animated videos
-    * Whitepapers, E-Books, etc.
+    * Data storytelling
+    * Creative assets
+    * Distribution
     
     [Statista Content & Design](https://statista.design/en/)
     
-    nxt statista
+    [](https://r.statista.com/)
     
-    Strategy and business building for the data-driven economy:
-    
-    [nxt statista](https://www.nxt.statista.com/)
+    Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide. [For more details, visit our website.](https://r.statista.com/)
     
 
 * Prices & Access
@@ -201,15 +208,16 @@
 * [Consumer Insights](https://www.statista.com/insights/consumer)
 * [Company Insights](https://www.statista.com/companies/about)
 * [eCommerce Insights](https://ecommercedb.com/)
-* [Research AI](https://www.statista.com/research-ai/)
 * [Daily Data](https://www.statista.com/chartoftheday/)
 * Services
 
+* [About Statista](https://www.statista.com/aboutus/)
+* [Statista+](https://statistaplus.com/en)
+* [Statista Q](https://q.statista.com/?utm_source=statista-com&utm_medium=website-link&utm_campaign=statista-platform-referrals)
+* [askStatista](https://ask.statista.com/)
+* [nxt statista](https://www.nxt.statista.com/)
 * [Content & Design](https://statista.design/en/)
-* [Research projects](https://q.statista.com/?utm_source=statista-com&utm_medium=website-link&utm_campaign=statista-platform-referrals)
-* [Ask Statista](https://ask.statista.com/)
-* [Business Plan Export](https://www.statista.com/business-plan-export)
-* [Statista R](https://r.statista.com/en/)
+* [Statista R](https://r.statista.com/)
 
 * [DE](https://de.statista.com/)
 * [ES](https://es.statista.com/)
