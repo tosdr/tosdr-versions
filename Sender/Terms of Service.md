@@ -146,6 +146,11 @@ Indemnity
 
 You agree to indemnify and hold us and our Team harmless from any losses, including attorney fees that result from any claims you make that aren’t allowed under these Terms due to a “Limitation of Liability” or other provision. You also agree to indemnify and hold us harmless from any losses, including attorney fees that result from third-party claims that you or someone using your password did something that, if true, would violate any of these Terms.
 
+Conditions
+----------
+
+We may modify or terminate our services at anytime, for any reason, and without notice. We reserve the right to modify these Terms of Use at any time without notice. Please review these Terms of Use on occasion as they may change in the future. We may, but have no obligation to, remove accounts involved in what we determine as unlawful, offensive, threatening, defamatory, obscene or otherwise objectionable activities. We will remove content that violates any party’s intellectual property or these Terms of Use.
+
 Extent
 ------
 
