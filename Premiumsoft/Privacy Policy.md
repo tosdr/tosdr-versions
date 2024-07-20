@@ -75,7 +75,7 @@ If you have any questions about any of these practices, please feel free to [con
 * * [Navicat](https://www.navicat.com/products#navicat)
     * [Navicat Cloud](https://www.navicat.com/products#navicat-collaboration)
     * [Navicat On-Prem Server](https://www.navicat.com/products#navicat-collaboration)
-    * [Navicat BI](https://www.navicat.com/products#navicat-charts)
+    * [Navicat BI](https://www.navicat.com/products#navicat-bi)
     * [Navicat Monitor](https://www.navicat.com/products#navicat-monitor)
     * [Navicat Data Modeler](https://www.navicat.com/products#navicat-data-modeler)
 
