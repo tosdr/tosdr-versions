@@ -171,7 +171,7 @@ x
 
 No files detected in the given URL
 
-[![Seedr](https://static.seedr.cc/images/logo_v2_42px.png)](javascript:changeRoot('/'))
+[![Seedr](https://static.seedr.cc/images/logo_v2_42px.png)](https://www.seedr.cc/)
 
 [Extension](https://chrome.google.com/webstore/detail/seedr/abfimpkhacgimamjbiegeoponlepcbob) [Premium](javascript:changeRoot('/premium')) Log in
 
@@ -458,7 +458,7 @@ Select
 * **Including All Basic Features**
 * **High-Speed FTP**
 * 2:1 Ratio or 24 Hours
-* Private Trackers Support
+* Private Tracker Support
 * Static IP For Private Trackers
 
 SeeHide features
