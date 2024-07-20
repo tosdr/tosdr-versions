@@ -1,7 +1,8 @@
-![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView
-&noscript=1)               [Skip to content](#content)
+![](https://www.facebook.com/tr?id=1135052233289288&ev=PageView &noscript=1)            
 
-[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+[Skip to content](#content)
+
+[![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-07452e3/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
 
 * Platform
     
@@ -19,9 +20,7 @@
     
     Close Company Open Company
 * [Docs](https://docs.wandb.ai/)
-    
 * [Pricing](https://wandb.ai/site/pricing/)
-    
 
 [Models: MLOps solution](#)
 
@@ -148,7 +147,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms)
@@ -156,7 +154,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms)
@@ -164,7 +161,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms)
@@ -172,7 +168,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 Privacy Policy
 ==============
@@ -397,16 +392,18 @@ To see when this Privacy Policy was last updated, please see the “Last Updated
 
 If you have questions about our use of your personal information, please email us at [support@wandb.com](mailto:support@wandb.com). To submit a data subject request, please fill out the information [here](https://preferences.wandb.ai/privacy?_gl=1*oflud4*_ga*MTY1MDMyMDUyMy4xNjkyNjI1NDg3*_ga_JH1SJHJQXJ*MTcwNzQ5MjAwNS4yOTAuMS4xNzA3NDkzNDQxLjMyLjAuMA..).
 
-[![](https://site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+[![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-07452e3/site.wandb.ai/wp-content/uploads/2024/05/Horizontal-WB-logo.svg)](https://wandb.ai/site)
+
+[X-twitter](https://x.com/weights_biases?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Linkedin-in](https://www.linkedin.com/company/wandb/) [Youtube](https://www.youtube.com/c/WeightsBiases)
 
 ##### The Platform
 
 * [Experiments](https://wandb.ai/site/experiment-tracking)
 * [Sweeps](https://wandb.ai/site/sweeps)
-* [Model Registry](https://wandb.ai/site/model-registry)
+* [Model registry](https://wandb.ai/site/model-registry)
 * [Automations](https://wandb.ai/site/automations)
 * [Launch](https://wandb.ai/site/launch)
-* [Weave​](https://wandb.ai/site/weave)
+* [Weave](https://wandb.ai/site/weave)
 * [Traces](https://wandb.ai/site/traces)
 * [Evaluations](https://wandb.ai/site/evaluations)
 * [Artifacts](https://wandb.ai/site/artifacts)
@@ -415,10 +412,10 @@ If you have questions about our use of your personal information, please email u
 
 * [Experiments](https://wandb.ai/site/experiment-tracking)
 * [Sweeps](https://wandb.ai/site/sweeps)
-* [Model Registry](https://wandb.ai/site/model-registry)
+* [Model registry](https://wandb.ai/site/model-registry)
 * [Automations](https://wandb.ai/site/automations)
 * [Launch](https://wandb.ai/site/launch)
-* [Weave​](https://wandb.ai/site/weave)
+* [Weave](https://wandb.ai/site/weave)
 * [Traces](https://wandb.ai/site/traces)
 * [Evaluations](https://wandb.ai/site/evaluations)
 * [Artifacts](https://wandb.ai/site/artifacts)
@@ -427,63 +424,63 @@ If you have questions about our use of your personal information, please email u
 
 ##### Article
 
-* [What Is MLOps?](https://wandb.ai/site/articles/what-is-mlops)
-* [Experiment Tracking](https://wandb.ai/site/articles/intro-to-mlops-machine-learning-experiment-tracking)
-* [Hyperparameter Tuning](https://wandb.ai/site/articles/intro-to-mlops-hyperparameter-tuning)
-* [ML Model Registry](https://wandb.ai/site/articles/what-is-an-ml-model-registry)
+* [What is MLOps?](https://wandb.ai/site/articles/what-is-mlops)
+* [Experiment tracking](https://wandb.ai/site/articles/intro-to-mlops-machine-learning-experiment-tracking)
+* [Hyperparameter tuning](https://wandb.ai/site/articles/intro-to-mlops-hyperparameter-tuning)
+* [ML model registry](https://wandb.ai/site/articles/what-is-an-ml-model-registry)
 * [What is CI/CD?](https://wandb.ai/site/articles/ci-cd-mlops)
-* [Data and Model Versioning](https://wandb.ai/site/articles/intro-to-mlops-data-and-model-versioning)
-* [What Is LLMOps?](https://wandb.ai/site/articles/understanding-llmops-large-language-model-operations)
-* [LLM Evaluations](https://wandb.ai/wandb/weave-announcement/reports/Weave-Simple-tools-for-applying-Generative-AI--Vmlldzo3NDE0Mjcx)
+* [Data and model versioning](https://wandb.ai/site/articles/intro-to-mlops-data-and-model-versioning)
+* [What is LLMOps?](https://wandb.ai/site/articles/understanding-llmops-large-language-model-operations)
+* [LLM evaluations](https://wandb.ai/wandb/weave-announcement/reports/Weave-Simple-tools-for-applying-Generative-AI--Vmlldzo3NDE0Mjcx)
 
-* [What Is MLOps?](https://wandb.ai/site/articles/what-is-mlops)
-* [Experiment Tracking](https://wandb.ai/site/articles/intro-to-mlops-machine-learning-experiment-tracking)
-* [Hyperparameter Tuning](https://wandb.ai/site/articles/intro-to-mlops-hyperparameter-tuning)
-* [ML Model Registry](https://wandb.ai/site/articles/what-is-an-ml-model-registry)
+* [What is MLOps?](https://wandb.ai/site/articles/what-is-mlops)
+* [Experiment tracking](https://wandb.ai/site/articles/intro-to-mlops-machine-learning-experiment-tracking)
+* [Hyperparameter tuning](https://wandb.ai/site/articles/intro-to-mlops-hyperparameter-tuning)
+* [ML model registry](https://wandb.ai/site/articles/what-is-an-ml-model-registry)
 * [What is CI/CD?](https://wandb.ai/site/articles/ci-cd-mlops)
-* [Data and Model Versioning](https://wandb.ai/site/articles/intro-to-mlops-data-and-model-versioning)
-* [What Is LLMOps?](https://wandb.ai/site/articles/understanding-llmops-large-language-model-operations)
-* [LLM Evaluations](https://wandb.ai/wandb/weave-announcement/reports/Weave-Simple-tools-for-applying-Generative-AI--Vmlldzo3NDE0Mjcx)
+* [Data and model versioning](https://wandb.ai/site/articles/intro-to-mlops-data-and-model-versioning)
+* [What is LLMOps?](https://wandb.ai/site/articles/understanding-llmops-large-language-model-operations)
+* [LLM evaluations](https://wandb.ai/wandb/weave-announcement/reports/Weave-Simple-tools-for-applying-Generative-AI--Vmlldzo3NDE0Mjcx)
 
 ##### Resources
 
 * [Documentation](https://docs.wandb.ai/)
-* [Community Forum](https://community.wandb.ai/)
+* [Community forum](https://community.wandb.ai/)
 * [Articles](https://wandb.ai/site/articles)
-* [Blog & Tutorials](https://wandb.ai/fully-connected)
+* [Blog and tutorials](https://wandb.ai/fully-connected)
 * [Podcast](https://wandb.ai/fully-connected/podcast)
 
 * [Documentation](https://docs.wandb.ai/)
-* [Community Forum](https://community.wandb.ai/)
+* [Community forum](https://community.wandb.ai/)
 * [Articles](https://wandb.ai/site/articles)
-* [Blog & Tutorials](https://wandb.ai/fully-connected)
+* [Blog and tutorials](https://wandb.ai/fully-connected)
 * [Podcast](https://wandb.ai/fully-connected/podcast)
 
 ##### Company
 
-* [About Us](https://wandb.ai/site/company/about-us)
-* [Partner Network](https://wandb.ai/site/partners)
-* [Trust & Security](https://wandb.ai/site/security)
+* [About us](https://wandb.ai/site/company/about-us)
+* [Partner network](https://wandb.ai/site/partners)
+* [Trust and security](https://wandb.ai/site/security)
 * [Legal](https://wandb.ai/site/legal-home)
-* [Brand Guide](https://wandb.ai/site/brand-identity)
+* [Brand guide](https://wandb.ai/site/brand-identity)
 * [Contact](https://wandb.ai/site/contact)
 * [Press](https://wandb.ai/site/press-releases)
 
-* [About Us](https://wandb.ai/site/company/about-us)
-* [Partner Network](https://wandb.ai/site/partners)
-* [Trust & Security](https://wandb.ai/site/security)
+* [About us](https://wandb.ai/site/company/about-us)
+* [Partner network](https://wandb.ai/site/partners)
+* [Trust and security](https://wandb.ai/site/security)
 * [Legal](https://wandb.ai/site/legal-home)
-* [Brand Guide](https://wandb.ai/site/brand-identity)
+* [Brand guide](https://wandb.ai/site/brand-identity)
 * [Contact](https://wandb.ai/site/contact)
 * [Press](https://wandb.ai/site/press-releases)
 
 Copyright © Weights & Biases. All rights reserved.
 
-* [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
-* [Privacy Policy](https://wandb.ai/site/privacy)
+* [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+* [Privacy policy](https://wandb.ai/site/privacy)
 
-* [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
-* [Privacy Policy](https://wandb.ai/site/privacy)
+* [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+* [Privacy policy](https://wandb.ai/site/privacy)
 
 * Platform
     
@@ -495,9 +492,7 @@ Copyright © Weights & Biases. All rights reserved.
     
     Close Ecosystem Open Ecosystem
 * [Docs](https://docs.wandb.ai/?_gl=1*5c2zod*_ga*MTkyNzM3MzY2Mi4xNjg2NzM3MzM0*_ga_JH1SJHJQXJ*MTY4Njg5NDA3MC4xNS4xLjE2ODY4OTcyMTIuNjAuMC4w)
-    
 * [Pricing](https://wandb.ai/site/pricing)
-    
 * Enterprise
     
     Close Enterprise Open Enterprise
@@ -601,3 +596,7 @@ Copyright © Weights & Biases. All rights reserved.
 * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
 * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
 * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+
+* [![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-07452e3/site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://wandb.ai/site/privacy)
+* [![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-07452e3/site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)日本語 (Japanese)](https://wandb.ai/site/ja/privacy)
+* [![](https://site.wandb.ai/nitropack_static/pfApWRihljemXzAqfjcIBKUphCWQwXRI/assets/images/optimized/rev-07452e3/site.wandb.ai/wp-content/plugins/sitepress-multilingual-cms/res/flags/ko.svg)한국어 (Korean)](https://wandb.ai/site/ko/privacy)
