@@ -853,10 +853,10 @@ We may ask for this help code:
     * [Advanced Network Devices](https://www.voipsupply.com/manufacturer/anetd)
     * [AudioCodes](https://www.voipsupply.com/manufacturer/audiocodes)
     * [Avaya](https://www.voipsupply.com/manufacturer/avaya)
+    * [Bogen Communications](https://www.voipsupply.com/manufacturer/bogen-communications)
     * [Cisco](https://www.voipsupply.com/manufacturer/cisco)
     * [Cisco Meraki](https://www.voipsupply.com/manufacturer/cisco-meraki)
     * [Clarity](https://www.voipsupply.com/manufacturer/clarity)
-    * [ClearOne](https://www.voipsupply.com/manufacturer/clearone)
     * [CounterPath](https://www.voipsupply.com/manufacturer/counterpath)
     * [CyberData](https://www.voipsupply.com/manufacturer/cyberdata)
     * [Digium](https://www.voipsupply.com/manufacturer/digium)
@@ -875,14 +875,13 @@ We may ask for this help code:
     * [Mitel](https://www.voipsupply.com/manufacturer/mitel)
     * [Mobotix](https://www.voipsupply.com/manufacturer/mobotix)
     * [Netgear](https://www.voipsupply.com/manufacturer/netgear)
-    * [Obihai](https://www.voipsupply.com/manufacturer/obihai)
     * [Panasonic](https://www.voipsupply.com/manufacturer/panasonic)
     * [Patton](https://www.voipsupply.com/manufacturer/patton)
     * [Plantronics](https://www.voipsupply.com/manufacturer/plantronics)
     * [Plenom](https://www.voipsupply.com/manufacturer/plenom)
     * [Polycom](https://www.voipsupply.com/manufacturer/polycom)
     * [Redstone Systems](https://www.voipsupply.com/manufacturer/redstone-systems)
-    * [Ribbon](https://www.voipsupply.com/manufacturer/ribbon-communications)
+    * [Ribbon Communications](https://www.voipsupply.com/manufacturer/ribbon-communications)
     * [Ruckus Networks](https://www.voipsupply.com/manufacturer/ruckus-wireless)
     * [Sangoma](https://www.voipsupply.com/manufacturer/sangoma)
     * [EPOS : Sennheiser](https://www.voipsupply.com/manufacturer/epos-sennheiser)
@@ -890,7 +889,6 @@ We may ask for this help code:
     * [Snom](https://www.voipsupply.com/manufacturer/snom)
     * [Spectralink](https://www.voipsupply.com/manufacturer/spectralink)
     * [Syn-Apps](https://www.voipsupply.com/manufacturer/syn-apps)
-    * [SYSTM](https://www.voipsupply.com/manufacturer/systm)
     * [Tone Commander](https://www.voipsupply.com/manufacturer/tone-commander)
     * [Valcom](https://www.voipsupply.com/manufacturer/valcom)
     * [Ubiquiti Networks](https://www.voipsupply.com/manufacturer/ubiquiti-networks)
@@ -1029,7 +1027,7 @@ Tom Uhteg
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![](https://www.voipsupply.com/media/Voipsupply/User/resized/300/300/GB_pic_1_.png)](https://www.voipsupply.com/meetglennbuchheit)
+[![](https://www.voipsupply.com/media/Voipsupply/User/resized/300/300/Glen_Buchheit_NEW_5.png)](https://www.voipsupply.com/meetglennbuchheit)
 
 Glenn Buchheit
 
