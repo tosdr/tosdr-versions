@@ -1,14 +1,14 @@
-[Skip to main content](#main-content) [Skip to footer content](#footercontent) [Navigate to Accessibility Statement](https://www.conair.com/en/conair-digital-accessibility-statement.html?lang=en_US)
+[Skip to main content](#main-content) [Skip to footer content](#footercontent) [Navigate to Accessibility Statement](https://www.conair.com/conair-digital-accessibility-statement.html?lang=en_US)
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
- [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe4a34097/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe4a34097/images/logo.png)](https://www.conair.com/en "Conair Home")
+ [![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe4a34097/images/logo.png) ![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe4a34097/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ☰
 
 [](https://www.conair.com/on/demandware.store/Sites-us-conair-sfra-Site/en_US/Login-Show)
 
-https://www.conair.com/en/cart?lang=en\_US
+https://www.conair.com/cart?lang=en\_US
 
 0
 
@@ -16,724 +16,724 @@ https://www.conair.com/en/cart?lang=en\_US
 
 **Enjoy Free Shipping on All Orders Over $100!**
 
-[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe4a34097/images/logo.png)](https://www.conair.com/en "Conair Home")
+[![Conair](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwe4a34097/images/logo.png)](https://www.conair.com/?lang=en_US "Conair Home")
 
 ☰
 
-https://www.conair.com/en/cart?lang=en\_US
+https://www.conair.com/cart?lang=en\_US
 
 0
 
 0
 
-* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw4ac7a041/images/beautybar.png)](https://www.conair.com/en/BeautyBar?lang=en_US)
-* [Hair](https://www.conair.com/en/hair?lang=en_US)
+* [![BeautyBar](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw4ac7a041/images/beautybar.png)](https://www.conair.com/BeautyBar?lang=en_US)
+* [Hair](https://www.conair.com/hair?lang=en_US)
     
-    * [Hair Dryers](https://www.conair.com/en/dryers?lang=en_US)
-        ----------------------------------------------------------
-        
-        * [Full Size Hair Dryers](https://www.conair.com/en/dryers-full-size?lang=en_US)
-        * [Compact Hair Dryers](https://www.conair.com/en/dryers-compact?lang=en_US)
-        * [Hatchet Hair Dryers](https://www.conair.com/en/dryers-hatchet?lang=en_US)
-        * [Bonnet Hair Dryers](https://www.conair.com/en/dryers-bonnet?lang=en_US)
-        * [Travel Hair Dryers](https://www.conair.com/en/dryers-travel?lang=en_US)
-        * [Hair Dryer Parts & Accessories](https://www.conair.com/en/dryers-parts-accessories?lang=en_US)
-    
-    * [Hair Styling](https://www.conair.com/en/styling-hair?lang=en_US)
-        -----------------------------------------------------------------
-        
-        * [Hot Air Brushes](https://www.conair.com/en/hot-brushes-hot-air-brushes?lang=en_US)
-        * [Curling Irons and Stylers](https://www.conair.com/en/curling-irons?lang=en_US)
-        * [Curling Wands](https://www.conair.com/en/curling-wands?lang=en_US)
-        * [Flat Irons](https://www.conair.com/en/flat-irons?lang=en_US)
-        * [Curling Brushes](https://www.conair.com/en/curling-brushes?lang=en_US)
-        * [Straightening Brushes and Combs](https://www.conair.com/en/hair-straightening-brushes?lang=en_US)
-        * [Minis](https://www.conair.com/en/hair-minis?lang=en_US)
-        * [Cordless](https://www.conair.com/en/hair-cordless?lang=en_US)
-        * [Hot Rollers](https://www.conair.com/en/hot-rollers?lang=en_US)
-        * [Wavers](https://www.conair.com/en/wavers?lang=en_US)
-        * [Hair Jeweler](https://www.conair.com/en/hair-jeweler?lang=en_US)
-    
-    * [Hair Brushes](https://www.conair.com/en/hair-brushes?lang=en_US)
-        -----------------------------------------------------------------
-        
-        * [Detangle Hair Brushes](https://www.conair.com/en/detangle?lang=en_US)
-        * [Self Care Brushes](https://www.conair.com/en/self-care?lang=en_US)
-    
-    * [Hair Dryers](https://www.conair.com/en/dryers?lang=en_US)
-        
-        * [Detangle Hair Brushes](https://www.conair.com/en/detangle?lang=en_US)
-            ----------------------------------------------------------------------
-            
-        
-        * [Self Care Brushes](https://www.conair.com/en/self-care?lang=en_US)
-            -------------------------------------------------------------------
-            
-        
-        * [Full Size Hair Dryers](https://www.conair.com/en/dryers-full-size?lang=en_US)
-        * [Compact Hair Dryers](https://www.conair.com/en/dryers-compact?lang=en_US)
-        * [Hatchet Hair Dryers](https://www.conair.com/en/dryers-hatchet?lang=en_US)
-        * [Bonnet Hair Dryers](https://www.conair.com/en/dryers-bonnet?lang=en_US)
-        * [Travel Hair Dryers](https://www.conair.com/en/dryers-travel?lang=en_US)
-        * [Hair Dryer Parts & Accessories](https://www.conair.com/en/dryers-parts-accessories?lang=en_US)
-    * [Hair Styling](https://www.conair.com/en/styling-hair?lang=en_US)
-        
-        * [Detangle Hair Brushes](https://www.conair.com/en/detangle?lang=en_US)
-            ----------------------------------------------------------------------
-            
-        
-        * [Self Care Brushes](https://www.conair.com/en/self-care?lang=en_US)
-            -------------------------------------------------------------------
-            
-        
-        * [Hot Air Brushes](https://www.conair.com/en/hot-brushes-hot-air-brushes?lang=en_US)
-        * [Curling Irons and Stylers](https://www.conair.com/en/curling-irons?lang=en_US)
-        * [Curling Wands](https://www.conair.com/en/curling-wands?lang=en_US)
-        * [Flat Irons](https://www.conair.com/en/flat-irons?lang=en_US)
-        * [Curling Brushes](https://www.conair.com/en/curling-brushes?lang=en_US)
-        * [Straightening Brushes and Combs](https://www.conair.com/en/hair-straightening-brushes?lang=en_US)
-        * [Minis](https://www.conair.com/en/hair-minis?lang=en_US)
-        * [Cordless](https://www.conair.com/en/hair-cordless?lang=en_US)
-        * [Hot Rollers](https://www.conair.com/en/hot-rollers?lang=en_US)
-        * [Wavers](https://www.conair.com/en/wavers?lang=en_US)
-        * [Hair Jeweler](https://www.conair.com/en/hair-jeweler?lang=en_US)
-    * [Hair Brushes](https://www.conair.com/en/hair-brushes?lang=en_US)
-        
-        * [Detangle Hair Brushes](https://www.conair.com/en/detangle?lang=en_US)
-            ----------------------------------------------------------------------
-            
-        
-        * [Self Care Brushes](https://www.conair.com/en/self-care?lang=en_US)
-            -------------------------------------------------------------------
-            
-        
-        * [Detangle Hair Brushes](https://www.conair.com/en/detangle?lang=en_US)
-        * [Self Care Brushes](https://www.conair.com/en/self-care?lang=en_US)
-* [Beauty and Skin](https://www.conair.com/en/beauty-skin?lang=en_US)
-    
-    * [Facial Brushes](https://www.conair.com/en/facial-brushes?lang=en_US)
-        ---------------------------------------------------------------------
-        
-        * [Battery Operated](https://www.conair.com/en/facial-battery-operated?lang=en_US)
-        * [Rechargeable](https://www.conair.com/en/facial-rechargeable?lang=en_US)
-        * [Replacement Heads](https://www.conair.com/en/facial-replacement-heads?lang=en_US)
-    
-    * [Beauty Tools](https://www.conair.com/en/beauty-tools?lang=en_US)
-        -----------------------------------------------------------------
-        
-        * [Facial Rollers](https://www.conair.com/en/facial-rollers?lang=en_US)
-        * [Microdermabrasion](https://www.conair.com/en/beauty-microdermabrasion?lang=en_US)
-        * [Mask Applicators and Removers](https://www.conair.com/en/mask-applicator-remover?lang=en_US)
-        * [Eye Masks](https://www.conair.com/en/eye-masks?lang=en_US)
-    
-    * [Oral Care](https://www.conair.com/en/oral-care?lang=en_US)
-        -----------------------------------------------------------
-        
-        * [Brushes](https://www.conair.com/en/oral-brush?lang=en_US)
-        * [Floss](https://www.conair.com/en/floss?lang=en_US)
-        * [Replacement Heads](https://www.conair.com/en/oral-replacement-heads?lang=en_US)
-    
-    * [Spa/Skin](https://www.conair.com/en/spa-skin?lang=en_US)
-        ---------------------------------------------------------
-        
-        * [Heated Lotion Dispenser](https://www.conair.com/en/heated-lotion-dispenser?lang=en_US)
-        * [Facial Saunas](https://www.conair.com/en/facial-saunas?lang=en_US)
-        * [Thermal Paraffin Bath Moisturizing System](https://www.conair.com/en/spa-thermal-paraffin-bath-moisturizing-system?lang=en_US)
-        * [Thermal Spa Heated Beauty Mitts](https://www.conair.com/en/thermal-spa-heated-beauty-mitts?lang=en_US)
-        * [Microdermabrasion](https://www.conair.com/en/spa-microdermabrasion?lang=en_US)
-    
-    * [Foot Spa](https://www.conair.com/en/foot-spa?lang=en_US)
-        ---------------------------------------------------------
-        
-        * [HeatSense](https://www.conair.com/en/heat-sense?lang=en_US)
-        * [Bubbles](https://www.conair.com/en/foot-spa-bubbles?lang=en_US)
-        * [Vibration](https://www.conair.com/en/foot-spa-vibration?lang=en_US)
-        * [Pedicure Devices](https://www.conair.com/en/pedicure-devices?lang=en_US)
-    
-    * [Mirrors](https://www.conair.com/en/mirrors?lang=en_US)
+    * [Hair Dryers](https://www.conair.com/dryers?lang=en_US)
         -------------------------------------------------------
         
-        * [Round and Oval](https://www.conair.com/en/round-oval?lang=en_US)
-        * [Rectangle and Square](https://www.conair.com/en/rectangle-square?lang=en_US)
-        * [Rechargeable](https://www.conair.com/en/mirror-rechargeable?lang=en_US)
-        * [Accessory Spot](https://www.conair.com/en/accessory-spot?lang=en_US)
+        * [Full Size Hair Dryers](https://www.conair.com/dryers-full-size?lang=en_US)
+        * [Compact Hair Dryers](https://www.conair.com/dryers-compact?lang=en_US)
+        * [Hatchet Hair Dryers](https://www.conair.com/dryers-hatchet?lang=en_US)
+        * [Bonnet Hair Dryers](https://www.conair.com/dryers-bonnet?lang=en_US)
+        * [Travel Hair Dryers](https://www.conair.com/dryers-travel?lang=en_US)
+        * [Hair Dryer Parts & Accessories](https://www.conair.com/dryers-parts-accessories?lang=en_US)
+    
+    * [Hair Styling](https://www.conair.com/styling-hair?lang=en_US)
+        --------------------------------------------------------------
+        
+        * [Hot Air Brushes](https://www.conair.com/hot-brushes-hot-air-brushes?lang=en_US)
+        * [Curling Irons and Stylers](https://www.conair.com/curling-irons?lang=en_US)
+        * [Curling Wands](https://www.conair.com/curling-wands?lang=en_US)
+        * [Flat Irons](https://www.conair.com/flat-irons?lang=en_US)
+        * [Curling Brushes](https://www.conair.com/curling-brushes?lang=en_US)
+        * [Straightening Brushes and Combs](https://www.conair.com/hair-straightening-brushes?lang=en_US)
+        * [Minis](https://www.conair.com/hair-minis?lang=en_US)
+        * [Cordless](https://www.conair.com/hair-cordless?lang=en_US)
+        * [Hot Rollers](https://www.conair.com/hot-rollers?lang=en_US)
+        * [Wavers](https://www.conair.com/wavers?lang=en_US)
+        * [Hair Jeweler](https://www.conair.com/hair-jeweler?lang=en_US)
+    
+    * [Hair Brushes](https://www.conair.com/hair-brushes?lang=en_US)
+        --------------------------------------------------------------
+        
+        * [Detangle Hair Brushes](https://www.conair.com/detangle?lang=en_US)
+        * [Self Care Brushes](https://www.conair.com/self-care?lang=en_US)
+    
+    * [Hair Dryers](https://www.conair.com/dryers?lang=en_US)
+        
+        * [Detangle Hair Brushes](https://www.conair.com/detangle?lang=en_US)
+            -------------------------------------------------------------------
+            
+        
+        * [Self Care Brushes](https://www.conair.com/self-care?lang=en_US)
+            ----------------------------------------------------------------
+            
+        
+        * [Full Size Hair Dryers](https://www.conair.com/dryers-full-size?lang=en_US)
+        * [Compact Hair Dryers](https://www.conair.com/dryers-compact?lang=en_US)
+        * [Hatchet Hair Dryers](https://www.conair.com/dryers-hatchet?lang=en_US)
+        * [Bonnet Hair Dryers](https://www.conair.com/dryers-bonnet?lang=en_US)
+        * [Travel Hair Dryers](https://www.conair.com/dryers-travel?lang=en_US)
+        * [Hair Dryer Parts & Accessories](https://www.conair.com/dryers-parts-accessories?lang=en_US)
+    * [Hair Styling](https://www.conair.com/styling-hair?lang=en_US)
+        
+        * [Detangle Hair Brushes](https://www.conair.com/detangle?lang=en_US)
+            -------------------------------------------------------------------
+            
+        
+        * [Self Care Brushes](https://www.conair.com/self-care?lang=en_US)
+            ----------------------------------------------------------------
+            
+        
+        * [Hot Air Brushes](https://www.conair.com/hot-brushes-hot-air-brushes?lang=en_US)
+        * [Curling Irons and Stylers](https://www.conair.com/curling-irons?lang=en_US)
+        * [Curling Wands](https://www.conair.com/curling-wands?lang=en_US)
+        * [Flat Irons](https://www.conair.com/flat-irons?lang=en_US)
+        * [Curling Brushes](https://www.conair.com/curling-brushes?lang=en_US)
+        * [Straightening Brushes and Combs](https://www.conair.com/hair-straightening-brushes?lang=en_US)
+        * [Minis](https://www.conair.com/hair-minis?lang=en_US)
+        * [Cordless](https://www.conair.com/hair-cordless?lang=en_US)
+        * [Hot Rollers](https://www.conair.com/hot-rollers?lang=en_US)
+        * [Wavers](https://www.conair.com/wavers?lang=en_US)
+        * [Hair Jeweler](https://www.conair.com/hair-jeweler?lang=en_US)
+    * [Hair Brushes](https://www.conair.com/hair-brushes?lang=en_US)
+        
+        * [Detangle Hair Brushes](https://www.conair.com/detangle?lang=en_US)
+            -------------------------------------------------------------------
+            
+        
+        * [Self Care Brushes](https://www.conair.com/self-care?lang=en_US)
+            ----------------------------------------------------------------
+            
+        
+        * [Detangle Hair Brushes](https://www.conair.com/detangle?lang=en_US)
+        * [Self Care Brushes](https://www.conair.com/self-care?lang=en_US)
+* [Beauty and Skin](https://www.conair.com/beauty-skin?lang=en_US)
+    
+    * [Facial Brushes](https://www.conair.com/facial-brushes?lang=en_US)
+        ------------------------------------------------------------------
+        
+        * [Battery Operated](https://www.conair.com/facial-battery-operated?lang=en_US)
+        * [Rechargeable](https://www.conair.com/facial-rechargeable?lang=en_US)
+        * [Replacement Heads](https://www.conair.com/facial-replacement-heads?lang=en_US)
+    
+    * [Beauty Tools](https://www.conair.com/beauty-tools?lang=en_US)
+        --------------------------------------------------------------
+        
+        * [Facial Rollers](https://www.conair.com/facial-rollers?lang=en_US)
+        * [Microdermabrasion](https://www.conair.com/beauty-microdermabrasion?lang=en_US)
+        * [Mask Applicators and Removers](https://www.conair.com/mask-applicator-remover?lang=en_US)
+        * [Eye Masks](https://www.conair.com/eye-masks?lang=en_US)
+    
+    * [Oral Care](https://www.conair.com/oral-care?lang=en_US)
+        --------------------------------------------------------
+        
+        * [Brushes](https://www.conair.com/oral-brush?lang=en_US)
+        * [Floss](https://www.conair.com/floss?lang=en_US)
+        * [Replacement Heads](https://www.conair.com/oral-replacement-heads?lang=en_US)
+    
+    * [Spa/Skin](https://www.conair.com/spa-skin?lang=en_US)
+        ------------------------------------------------------
+        
+        * [Heated Lotion Dispenser](https://www.conair.com/heated-lotion-dispenser?lang=en_US)
+        * [Facial Saunas](https://www.conair.com/facial-saunas?lang=en_US)
+        * [Thermal Paraffin Bath Moisturizing System](https://www.conair.com/spa-thermal-paraffin-bath-moisturizing-system?lang=en_US)
+        * [Thermal Spa Heated Beauty Mitts](https://www.conair.com/thermal-spa-heated-beauty-mitts?lang=en_US)
+        * [Microdermabrasion](https://www.conair.com/spa-microdermabrasion?lang=en_US)
+    
+    * [Foot Spa](https://www.conair.com/foot-spa?lang=en_US)
+        ------------------------------------------------------
+        
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
+    
+    * [Mirrors](https://www.conair.com/mirrors?lang=en_US)
+        ----------------------------------------------------
+        
+        * [Round and Oval](https://www.conair.com/round-oval?lang=en_US)
+        * [Rectangle and Square](https://www.conair.com/rectangle-square?lang=en_US)
+        * [Rechargeable](https://www.conair.com/mirror-rechargeable?lang=en_US)
+        * [Accessory Spot](https://www.conair.com/accessory-spot?lang=en_US)
     
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
         --------------------------------------------------------------------------------------
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
     
-    * [Facial Brushes](https://www.conair.com/en/facial-brushes?lang=en_US)
+    * [Facial Brushes](https://www.conair.com/facial-brushes?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [Battery Operated](https://www.conair.com/en/facial-battery-operated?lang=en_US)
-        * [Rechargeable](https://www.conair.com/en/facial-rechargeable?lang=en_US)
-        * [Replacement Heads](https://www.conair.com/en/facial-replacement-heads?lang=en_US)
-    * [Beauty Tools](https://www.conair.com/en/beauty-tools?lang=en_US)
+        * [Battery Operated](https://www.conair.com/facial-battery-operated?lang=en_US)
+        * [Rechargeable](https://www.conair.com/facial-rechargeable?lang=en_US)
+        * [Replacement Heads](https://www.conair.com/facial-replacement-heads?lang=en_US)
+    * [Beauty Tools](https://www.conair.com/beauty-tools?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [Facial Rollers](https://www.conair.com/en/facial-rollers?lang=en_US)
-        * [Microdermabrasion](https://www.conair.com/en/beauty-microdermabrasion?lang=en_US)
-        * [Mask Applicators and Removers](https://www.conair.com/en/mask-applicator-remover?lang=en_US)
-        * [Eye Masks](https://www.conair.com/en/eye-masks?lang=en_US)
-    * [Oral Care](https://www.conair.com/en/oral-care?lang=en_US)
+        * [Facial Rollers](https://www.conair.com/facial-rollers?lang=en_US)
+        * [Microdermabrasion](https://www.conair.com/beauty-microdermabrasion?lang=en_US)
+        * [Mask Applicators and Removers](https://www.conair.com/mask-applicator-remover?lang=en_US)
+        * [Eye Masks](https://www.conair.com/eye-masks?lang=en_US)
+    * [Oral Care](https://www.conair.com/oral-care?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [Brushes](https://www.conair.com/en/oral-brush?lang=en_US)
-        * [Floss](https://www.conair.com/en/floss?lang=en_US)
-        * [Replacement Heads](https://www.conair.com/en/oral-replacement-heads?lang=en_US)
-    * [Spa/Skin](https://www.conair.com/en/spa-skin?lang=en_US)
+        * [Brushes](https://www.conair.com/oral-brush?lang=en_US)
+        * [Floss](https://www.conair.com/floss?lang=en_US)
+        * [Replacement Heads](https://www.conair.com/oral-replacement-heads?lang=en_US)
+    * [Spa/Skin](https://www.conair.com/spa-skin?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [Heated Lotion Dispenser](https://www.conair.com/en/heated-lotion-dispenser?lang=en_US)
-        * [Facial Saunas](https://www.conair.com/en/facial-saunas?lang=en_US)
-        * [Thermal Paraffin Bath Moisturizing System](https://www.conair.com/en/spa-thermal-paraffin-bath-moisturizing-system?lang=en_US)
-        * [Thermal Spa Heated Beauty Mitts](https://www.conair.com/en/thermal-spa-heated-beauty-mitts?lang=en_US)
-        * [Microdermabrasion](https://www.conair.com/en/spa-microdermabrasion?lang=en_US)
-    * [Foot Spa](https://www.conair.com/en/foot-spa?lang=en_US)
+        * [Heated Lotion Dispenser](https://www.conair.com/heated-lotion-dispenser?lang=en_US)
+        * [Facial Saunas](https://www.conair.com/facial-saunas?lang=en_US)
+        * [Thermal Paraffin Bath Moisturizing System](https://www.conair.com/spa-thermal-paraffin-bath-moisturizing-system?lang=en_US)
+        * [Thermal Spa Heated Beauty Mitts](https://www.conair.com/thermal-spa-heated-beauty-mitts?lang=en_US)
+        * [Microdermabrasion](https://www.conair.com/spa-microdermabrasion?lang=en_US)
+    * [Foot Spa](https://www.conair.com/foot-spa?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [HeatSense](https://www.conair.com/en/heat-sense?lang=en_US)
-        * [Bubbles](https://www.conair.com/en/foot-spa-bubbles?lang=en_US)
-        * [Vibration](https://www.conair.com/en/foot-spa-vibration?lang=en_US)
-        * [Pedicure Devices](https://www.conair.com/en/pedicure-devices?lang=en_US)
-    * [Mirrors](https://www.conair.com/en/mirrors?lang=en_US)
+        * [HeatSense](https://www.conair.com/heat-sense?lang=en_US)
+        * [Bubbles](https://www.conair.com/foot-spa-bubbles?lang=en_US)
+        * [Vibration](https://www.conair.com/foot-spa-vibration?lang=en_US)
+        * [Pedicure Devices](https://www.conair.com/pedicure-devices?lang=en_US)
+    * [Mirrors](https://www.conair.com/mirrors?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [Round and Oval](https://www.conair.com/en/round-oval?lang=en_US)
-        * [Rectangle and Square](https://www.conair.com/en/rectangle-square?lang=en_US)
-        * [Rechargeable](https://www.conair.com/en/mirror-rechargeable?lang=en_US)
-        * [Accessory Spot](https://www.conair.com/en/accessory-spot?lang=en_US)
+        * [Round and Oval](https://www.conair.com/round-oval?lang=en_US)
+        * [Rectangle and Square](https://www.conair.com/rectangle-square?lang=en_US)
+        * [Rechargeable](https://www.conair.com/mirror-rechargeable?lang=en_US)
+        * [Accessory Spot](https://www.conair.com/accessory-spot?lang=en_US)
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-            ---------------------------------------------------------
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+            ------------------------------------------------------
             
         
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-            -------------------------------------------------------------------------
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+            ----------------------------------------------------------------------
             
         
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-            -----------------------------------------------------------------------
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+            --------------------------------------------------------------------
             
         
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-            -------------------------------------------------------------------------------------
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+            ----------------------------------------------------------------------------------
             
         
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-            -----------------------------------------------------------
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+            --------------------------------------------------------
             
         
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
-            -------------------------------------------------
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
+            ----------------------------------------------
             
         
-        * [Girlbomb](https://www.conair.com/en/girlbomb?lang=en_US)
-        * [Electric Shavers](https://www.conair.com/en/electric-shavers?lang=en_US)
-        * [Facial Trimmers](https://www.conair.com/en/facial-trimmers?lang=en_US)
-        * [Body and Bikini Trimmers](https://www.conair.com/en/body-bikini-trimmers?lang=en_US)
-        * [Epilators](https://www.conair.com/en/epilators?lang=en_US)
-        * [IPLs](https://www.conair.com/en/ipls?lang=en_US)
+        * [Girlbomb](https://www.conair.com/girlbomb?lang=en_US)
+        * [Electric Shavers](https://www.conair.com/electric-shavers?lang=en_US)
+        * [Facial Trimmers](https://www.conair.com/facial-trimmers?lang=en_US)
+        * [Body and Bikini Trimmers](https://www.conair.com/body-bikini-trimmers?lang=en_US)
+        * [Epilators](https://www.conair.com/epilators?lang=en_US)
+        * [IPLs](https://www.conair.com/ipls?lang=en_US)
 * [Men's](https://www.conair.com/s/us-conair-sfra/conairman.html)
     
-    * [Haircut Kits](https://www.conair.com/en/haircut-kits?lang=en_US)
+    * [Haircut Kits](https://www.conair.com/haircut-kits?lang=en_US)
+        --------------------------------------------------------------
+        
+        * [Corded](https://www.conair.com/mans-clippers-corded?lang=en_US)
+        * [Cordless Rechargeable](https://www.conair.com/mens-clippers-cordless-rechargeable?lang=en_US)
+        * [Rotary](https://www.conair.com/mens-clippers-rotary?lang=en_US)
+    
+    * [Hair Trimmers](https://www.conair.com/trimmers?lang=en_US)
+        -----------------------------------------------------------
+        
+        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
+        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
+        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
+    
+    * [Ear & Nose Trimmers](https://www.conair.com/ear-and-nose-trimmers?lang=en_US)
+        ------------------------------------------------------------------------------
+        
+    
+    * [Haircut Kits](https://www.conair.com/haircut-kits?lang=en_US)
+        
+        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
+            ------------------------------------------------------------
+            
+        
+        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
+            ----------------------------------------------------------
+            
+        
+        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
+            --------------------------------------------------------------------------------
+            
+        
+        * [Corded](https://www.conair.com/mans-clippers-corded?lang=en_US)
+        * [Cordless Rechargeable](https://www.conair.com/mens-clippers-cordless-rechargeable?lang=en_US)
+        * [Rotary](https://www.conair.com/mens-clippers-rotary?lang=en_US)
+    * [Hair Trimmers](https://www.conair.com/trimmers?lang=en_US)
+        
+        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
+            ------------------------------------------------------------
+            
+        
+        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
+            ----------------------------------------------------------
+            
+        
+        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
+            --------------------------------------------------------------------------------
+            
+        
+        * [Battery](https://www.conair.com/trimmer-battery?lang=en_US)
+        * [Corded](https://www.conair.com/trimmer-corded?lang=en_US)
+        * [Cordless Rechargeable](https://www.conair.com/trimmer-cordless-rech?lang=en_US)
+    * [Ear & Nose Trimmers](https://www.conair.com/ear-and-nose-trimmers?lang=en_US)
+* [Wellness](https://www.conair.com/wellness?lang=en_US)
+    
+    * [Massage](https://www.conair.com/massage?lang=en_US)
+        ----------------------------------------------------
+        
+        * [Wand Massagers](https://www.conair.com/wand-massager?lang=en_US)
+        * [Percussion Massagers](https://www.conair.com/percussion-massagers?lang=en_US)
+        * [Percussion](https://www.conair.com/wellness-massage-percussion?lang=en_US)
+        * [Neck Massagers](https://www.conair.com/neck-massager?lang=en_US)
+        * [Back Massagers](https://www.conair.com/back-massager?lang=en_US)
+    
+    * [Scales](https://www.conair.com/well-scales?lang=en_US)
+        -------------------------------------------------------
+        
+        * [WW Weight](https://www.conair.com/wellness-scales-weight?lang=en_US)
+        * [WW Body Analysis](https://www.conair.com/wellness-scales-body-analysis?lang=en_US)
+        * [WW Smart](https://www.conair.com/wellness-scales-smart?lang=en_US)
+    
+    * [Foot Spa](https://www.conair.com/well-foot-spa?lang=en_US)
+        -----------------------------------------------------------
+        
+        * [HeatSense](https://www.conair.com/well-heat-sense?lang=en_US)
+        * [Foot Spa with Bubbles](https://www.conair.com/well-foot-spa-bubbles?lang=en_US)
+        * [Bubbles](https://www.conair.com/wellness-foot-spa-bubbles?lang=en_US)
+        * [Vibration](https://www.conair.com/wellness-foot-spa-vibration?lang=en_US)
+    
+    * [Heat Therapy](https://www.conair.com/heat-pads?lang=en_US)
+        -----------------------------------------------------------
+        
+        * [Back Pain](https://www.conair.com/back-pain-heat?lang=en_US)
+        * [Menstrual Pain and Cramps](https://www.conair.com/menstrual-pain-cramps-heat?lang=en_US)
+        * [Heated Blankets and Bedding](https://www.conair.com/heated-blankets-bedding?lang=en_US)
+    
+    * [IR Thermometers](https://www.conair.com/thermometers?lang=en_US)
         -----------------------------------------------------------------
         
-        * [Corded](https://www.conair.com/en/mans-clippers-corded?lang=en_US)
-        * [Cordless Rechargeable](https://www.conair.com/en/mens-clippers-cordless-rechargeable?lang=en_US)
-        * [Rotary](https://www.conair.com/en/mens-clippers-rotary?lang=en_US)
+        * [Forehead Thermometers](https://www.conair.com/forehead-thermometer?lang=en_US)
+        * [Ear Thermometers](https://www.conair.com/ear-thermometer?lang=en_US)
     
-    * [Hair Trimmers](https://www.conair.com/en/trimmers?lang=en_US)
-        --------------------------------------------------------------
-        
-        * [Battery](https://www.conair.com/en/trimmer-battery?lang=en_US)
-        * [Corded](https://www.conair.com/en/trimmer-corded?lang=en_US)
-        * [Cordless Rechargeable](https://www.conair.com/en/trimmer-cordless-rech?lang=en_US)
-    
-    * [Ear & Nose Trimmers](https://www.conair.com/en/ear-and-nose-trimmers?lang=en_US)
-        ---------------------------------------------------------------------------------
-        
-    
-    * [Haircut Kits](https://www.conair.com/en/haircut-kits?lang=en_US)
-        
-        * [Battery](https://www.conair.com/en/trimmer-battery?lang=en_US)
-            ---------------------------------------------------------------
-            
-        
-        * [Corded](https://www.conair.com/en/trimmer-corded?lang=en_US)
-            -------------------------------------------------------------
-            
-        
-        * [Cordless Rechargeable](https://www.conair.com/en/trimmer-cordless-rech?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Corded](https://www.conair.com/en/mans-clippers-corded?lang=en_US)
-        * [Cordless Rechargeable](https://www.conair.com/en/mens-clippers-cordless-rechargeable?lang=en_US)
-        * [Rotary](https://www.conair.com/en/mens-clippers-rotary?lang=en_US)
-    * [Hair Trimmers](https://www.conair.com/en/trimmers?lang=en_US)
-        
-        * [Battery](https://www.conair.com/en/trimmer-battery?lang=en_US)
-            ---------------------------------------------------------------
-            
-        
-        * [Corded](https://www.conair.com/en/trimmer-corded?lang=en_US)
-            -------------------------------------------------------------
-            
-        
-        * [Cordless Rechargeable](https://www.conair.com/en/trimmer-cordless-rech?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Battery](https://www.conair.com/en/trimmer-battery?lang=en_US)
-        * [Corded](https://www.conair.com/en/trimmer-corded?lang=en_US)
-        * [Cordless Rechargeable](https://www.conair.com/en/trimmer-cordless-rech?lang=en_US)
-    * [Ear & Nose Trimmers](https://www.conair.com/en/ear-and-nose-trimmers?lang=en_US)
-* [Wellness](https://www.conair.com/en/wellness?lang=en_US)
-    
-    * [Massage](https://www.conair.com/en/massage?lang=en_US)
-        -------------------------------------------------------
-        
-        * [Wand Massagers](https://www.conair.com/en/wand-massager?lang=en_US)
-        * [Percussion Massagers](https://www.conair.com/en/percussion-massagers?lang=en_US)
-        * [Percussion](https://www.conair.com/en/wellness-massage-percussion?lang=en_US)
-        * [Neck Massagers](https://www.conair.com/en/neck-massager?lang=en_US)
-        * [Back Massagers](https://www.conair.com/en/back-massager?lang=en_US)
-    
-    * [Scales](https://www.conair.com/en/well-scales?lang=en_US)
-        ----------------------------------------------------------
-        
-        * [WW Weight](https://www.conair.com/en/wellness-scales-weight?lang=en_US)
-        * [WW Body Analysis](https://www.conair.com/en/wellness-scales-body-analysis?lang=en_US)
-        * [WW Smart](https://www.conair.com/en/wellness-scales-smart?lang=en_US)
-    
-    * [Foot Spa](https://www.conair.com/en/well-foot-spa?lang=en_US)
-        --------------------------------------------------------------
-        
-        * [HeatSense](https://www.conair.com/en/well-heat-sense?lang=en_US)
-        * [Foot Spa with Bubbles](https://www.conair.com/en/well-foot-spa-bubbles?lang=en_US)
-        * [Bubbles](https://www.conair.com/en/wellness-foot-spa-bubbles?lang=en_US)
-        * [Vibration](https://www.conair.com/en/wellness-foot-spa-vibration?lang=en_US)
-    
-    * [Heat Therapy](https://www.conair.com/en/heat-pads?lang=en_US)
-        --------------------------------------------------------------
-        
-        * [Back Pain](https://www.conair.com/en/back-pain-heat?lang=en_US)
-        * [Menstrual Pain and Cramps](https://www.conair.com/en/menstrual-pain-cramps-heat?lang=en_US)
-        * [Heated Blankets and Bedding](https://www.conair.com/en/heated-blankets-bedding?lang=en_US)
-    
-    * [IR Thermometers](https://www.conair.com/en/thermometers?lang=en_US)
-        --------------------------------------------------------------------
-        
-        * [Forehead Thermometers](https://www.conair.com/en/forehead-thermometer?lang=en_US)
-        * [Ear Thermometers](https://www.conair.com/en/ear-thermometer?lang=en_US)
-    
-    * [At Home Spa](https://www.conair.com/en/at-home-spa?lang=en_US)
-        ---------------------------------------------------------------
-        
-        * [Bath Jets](https://www.conair.com/en/bath-jets?lang=en_US)
-    
-    * [Sanitizers](https://www.conair.com/en/sanitizers?lang=en_US)
-        -------------------------------------------------------------
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-    
-    * [Massage](https://www.conair.com/en/massage?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Wand Massagers](https://www.conair.com/en/wand-massager?lang=en_US)
-        * [Percussion Massagers](https://www.conair.com/en/percussion-massagers?lang=en_US)
-        * [Percussion](https://www.conair.com/en/wellness-massage-percussion?lang=en_US)
-        * [Neck Massagers](https://www.conair.com/en/neck-massager?lang=en_US)
-        * [Back Massagers](https://www.conair.com/en/back-massager?lang=en_US)
-    * [Scales](https://www.conair.com/en/well-scales?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [WW Weight](https://www.conair.com/en/wellness-scales-weight?lang=en_US)
-        * [WW Body Analysis](https://www.conair.com/en/wellness-scales-body-analysis?lang=en_US)
-        * [WW Smart](https://www.conair.com/en/wellness-scales-smart?lang=en_US)
-    * [Foot Spa](https://www.conair.com/en/well-foot-spa?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [HeatSense](https://www.conair.com/en/well-heat-sense?lang=en_US)
-        * [Foot Spa with Bubbles](https://www.conair.com/en/well-foot-spa-bubbles?lang=en_US)
-        * [Bubbles](https://www.conair.com/en/wellness-foot-spa-bubbles?lang=en_US)
-        * [Vibration](https://www.conair.com/en/wellness-foot-spa-vibration?lang=en_US)
-    * [Heat Therapy](https://www.conair.com/en/heat-pads?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Back Pain](https://www.conair.com/en/back-pain-heat?lang=en_US)
-        * [Menstrual Pain and Cramps](https://www.conair.com/en/menstrual-pain-cramps-heat?lang=en_US)
-        * [Heated Blankets and Bedding](https://www.conair.com/en/heated-blankets-bedding?lang=en_US)
-    * [IR Thermometers](https://www.conair.com/en/thermometers?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Forehead Thermometers](https://www.conair.com/en/forehead-thermometer?lang=en_US)
-        * [Ear Thermometers](https://www.conair.com/en/ear-thermometer?lang=en_US)
-    * [At Home Spa](https://www.conair.com/en/at-home-spa?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Bath Jets](https://www.conair.com/en/bath-jets?lang=en_US)
-    * [Sanitizers](https://www.conair.com/en/sanitizers?lang=en_US)
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-            -----------------------------------------------------------------------------------
-            
-        
-        * [Small Item Sanitizers](https://www.conair.com/en/small-item-sanitizers?lang=en_US)
-* [Home](https://www.conair.com/en/home?lang=en_US)
-    
-    * [Air Purification](https://www.conair.com/en/air-purification?lang=en_US)
-        -------------------------------------------------------------------------
-        
-        * [Air Purifiers](https://www.conair.com/en/air-purifiers?lang=en_US)
-        * [Replacement Filters](https://www.conair.com/en/replacement-filters?lang=en_US)
-    
-    * [Garment Steamers](https://www.conair.com/en/garment-care?lang=en_US)
-        ---------------------------------------------------------------------
-        
-        * [Handheld Garment Steamers](https://www.conair.com/en/garment-handheld?lang=en_US)
-        * [Full Size Garment Steamers](https://www.conair.com/en/garment-full-size?lang=en_US)
-        * [Travel Garment Steamers](https://www.conair.com/en/home-travel-garment-steamers?lang=en_US)
-    
-    * [Clothing Irons](https://www.conair.com/en/clothing-irons?lang=en_US)
-        ---------------------------------------------------------------------
-        
-        * [Traditional Irons](https://www.conair.com/en/standard-irons?lang=en_US)
-        * [Travel Irons](https://www.conair.com/en/travel-irons?lang=en_US)
-        * [2-in-1 Steam and Iron](https://www.conair.com/en/2-in-one-iron-steamers?lang=en_US)
-    
-    * [Fabric Shavers and Accessories](https://www.conair.com/en/fabric-shavers?lang=en_US)
-        -------------------------------------------------------------------------------------
-        
-        * [Battery Operated Fabric Shavers](https://www.conair.com/en/fabric-battery-operated?lang=en_US)
-        * [Rechargeable Fabric Shavers](https://www.conair.com/en/fabric-rechargable?lang=en_US)
-    
-    * [Bath and Shower](https://www.conair.com/en/bath-and-shower?lang=en_US)
-        -----------------------------------------------------------------------
-        
-    
-    * [Air Purification](https://www.conair.com/en/air-purification?lang=en_US)
-        
-        * [Battery Operated Fabric Shavers](https://www.conair.com/en/fabric-battery-operated?lang=en_US)
-            -----------------------------------------------------------------------------------------------
-            
-        
-        * [Rechargeable Fabric Shavers](https://www.conair.com/en/fabric-rechargable?lang=en_US)
-            --------------------------------------------------------------------------------------
-            
-        
-        * [Air Purifiers](https://www.conair.com/en/air-purifiers?lang=en_US)
-        * [Replacement Filters](https://www.conair.com/en/replacement-filters?lang=en_US)
-    * [Garment Steamers](https://www.conair.com/en/garment-care?lang=en_US)
-        
-        * [Battery Operated Fabric Shavers](https://www.conair.com/en/fabric-battery-operated?lang=en_US)
-            -----------------------------------------------------------------------------------------------
-            
-        
-        * [Rechargeable Fabric Shavers](https://www.conair.com/en/fabric-rechargable?lang=en_US)
-            --------------------------------------------------------------------------------------
-            
-        
-        * [Handheld Garment Steamers](https://www.conair.com/en/garment-handheld?lang=en_US)
-        * [Full Size Garment Steamers](https://www.conair.com/en/garment-full-size?lang=en_US)
-        * [Travel Garment Steamers](https://www.conair.com/en/home-travel-garment-steamers?lang=en_US)
-    * [Clothing Irons](https://www.conair.com/en/clothing-irons?lang=en_US)
-        
-        * [Battery Operated Fabric Shavers](https://www.conair.com/en/fabric-battery-operated?lang=en_US)
-            -----------------------------------------------------------------------------------------------
-            
-        
-        * [Rechargeable Fabric Shavers](https://www.conair.com/en/fabric-rechargable?lang=en_US)
-            --------------------------------------------------------------------------------------
-            
-        
-        * [Traditional Irons](https://www.conair.com/en/standard-irons?lang=en_US)
-        * [Travel Irons](https://www.conair.com/en/travel-irons?lang=en_US)
-        * [2-in-1 Steam and Iron](https://www.conair.com/en/2-in-one-iron-steamers?lang=en_US)
-    * [Fabric Shavers and Accessories](https://www.conair.com/en/fabric-shavers?lang=en_US)
-        
-        * [Battery Operated Fabric Shavers](https://www.conair.com/en/fabric-battery-operated?lang=en_US)
-            -----------------------------------------------------------------------------------------------
-            
-        
-        * [Rechargeable Fabric Shavers](https://www.conair.com/en/fabric-rechargable?lang=en_US)
-            --------------------------------------------------------------------------------------
-            
-        
-        * [Battery Operated Fabric Shavers](https://www.conair.com/en/fabric-battery-operated?lang=en_US)
-        * [Rechargeable Fabric Shavers](https://www.conair.com/en/fabric-rechargable?lang=en_US)
-    * [Bath and Shower](https://www.conair.com/en/bath-and-shower?lang=en_US)
-* [Travel](https://www.conair.com/en/travel?lang=en_US)
-    
-    * [Travel Organization](https://www.conair.com/en/organize?lang=en_US)
-        --------------------------------------------------------------------
-        
-        * [Jewelry Roll](https://www.conair.com/en/jewelry-roll?lang=en_US)
-        * [Packing Accessories](https://www.conair.com/en/packing-cubes?lang=en_US)
-        * [Luggage Scale](https://www.conair.com/en/luggage-scale?lang=en_US)
-        * [Travel Bottles](https://www.conair.com/en/travel-bottles?lang=en_US)
-    
-    * [Travel Bags](https://www.conair.com/en/bags?lang=en_US)
-        --------------------------------------------------------
-        
-        * [Toiletry](https://www.conair.com/en/toiletry?lang=en_US)
-        * [Luggage Tags](https://www.conair.com/en/luggage-tags?lang=en_US)
-        * [Luggage Straps](https://www.conair.com/en/luggage-straps?lang=en_US)
-    
-    * [Travel Hair Styling Tools](https://www.conair.com/en/styling-travel?lang=en_US)
-        --------------------------------------------------------------------------------
-        
-        * [Mini Tools](https://www.conair.com/en/mini-tools?lang=en_US)
-        * [ThermaCELL Refill Cartridges](https://www.conair.com/en/thermacell-refill-cartridges?lang=en_US)
-    
-    * [Comfort](https://www.conair.com/en/comfort?lang=en_US)
-        -------------------------------------------------------
-        
-        * [Travel Neck Pillows](https://www.conair.com/en/neck-pillows?lang=en_US)
-        * [Eye Masks](https://www.conair.com/en/eye-mask?lang=en_US)
-    
-    * [Travel Power Adapters and Converters](https://www.conair.com/en/power?lang=en_US)
-        ----------------------------------------------------------------------------------
-        
-        * [Adapters](https://www.conair.com/en/power-adapters?lang=en_US)
-        * [Converters](https://www.conair.com/en/power-converters?lang=en_US)
-    
-    * [Protect](https://www.conair.com/en/protect?lang=en_US)
-        -------------------------------------------------------
-        
-        * [Travel Garment Steamers](https://www.conair.com/en/travel-garment-steamer?lang=en_US)
-        * [Travel Humidifiers](https://www.conair.com/en/usb-travel-humidifier?lang=en_US)
-    
-    * [Travel Safety](https://www.conair.com/en/safety?lang=en_US)
+    * [At Home Spa](https://www.conair.com/at-home-spa?lang=en_US)
         ------------------------------------------------------------
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
+        * [Bath Jets](https://www.conair.com/bath-jets?lang=en_US)
     
-    * [Travel Organization](https://www.conair.com/en/organize?lang=en_US)
+    * [Sanitizers](https://www.conair.com/sanitizers?lang=en_US)
+        ----------------------------------------------------------
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+    
+    * [Massage](https://www.conair.com/massage?lang=en_US)
+        
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [Jewelry Roll](https://www.conair.com/en/jewelry-roll?lang=en_US)
-        * [Packing Accessories](https://www.conair.com/en/packing-cubes?lang=en_US)
-        * [Luggage Scale](https://www.conair.com/en/luggage-scale?lang=en_US)
-        * [Travel Bottles](https://www.conair.com/en/travel-bottles?lang=en_US)
-    * [Travel Bags](https://www.conair.com/en/bags?lang=en_US)
+        * [Wand Massagers](https://www.conair.com/wand-massager?lang=en_US)
+        * [Percussion Massagers](https://www.conair.com/percussion-massagers?lang=en_US)
+        * [Percussion](https://www.conair.com/wellness-massage-percussion?lang=en_US)
+        * [Neck Massagers](https://www.conair.com/neck-massager?lang=en_US)
+        * [Back Massagers](https://www.conair.com/back-massager?lang=en_US)
+    * [Scales](https://www.conair.com/well-scales?lang=en_US)
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [Toiletry](https://www.conair.com/en/toiletry?lang=en_US)
-        * [Luggage Tags](https://www.conair.com/en/luggage-tags?lang=en_US)
-        * [Luggage Straps](https://www.conair.com/en/luggage-straps?lang=en_US)
-    * [Travel Hair Styling Tools](https://www.conair.com/en/styling-travel?lang=en_US)
+        * [WW Weight](https://www.conair.com/wellness-scales-weight?lang=en_US)
+        * [WW Body Analysis](https://www.conair.com/wellness-scales-body-analysis?lang=en_US)
+        * [WW Smart](https://www.conair.com/wellness-scales-smart?lang=en_US)
+    * [Foot Spa](https://www.conair.com/well-foot-spa?lang=en_US)
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [Mini Tools](https://www.conair.com/en/mini-tools?lang=en_US)
-        * [ThermaCELL Refill Cartridges](https://www.conair.com/en/thermacell-refill-cartridges?lang=en_US)
-    * [Comfort](https://www.conair.com/en/comfort?lang=en_US)
+        * [HeatSense](https://www.conair.com/well-heat-sense?lang=en_US)
+        * [Foot Spa with Bubbles](https://www.conair.com/well-foot-spa-bubbles?lang=en_US)
+        * [Bubbles](https://www.conair.com/wellness-foot-spa-bubbles?lang=en_US)
+        * [Vibration](https://www.conair.com/wellness-foot-spa-vibration?lang=en_US)
+    * [Heat Therapy](https://www.conair.com/heat-pads?lang=en_US)
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [Travel Neck Pillows](https://www.conair.com/en/neck-pillows?lang=en_US)
-        * [Eye Masks](https://www.conair.com/en/eye-mask?lang=en_US)
-    * [Travel Power Adapters and Converters](https://www.conair.com/en/power?lang=en_US)
+        * [Back Pain](https://www.conair.com/back-pain-heat?lang=en_US)
+        * [Menstrual Pain and Cramps](https://www.conair.com/menstrual-pain-cramps-heat?lang=en_US)
+        * [Heated Blankets and Bedding](https://www.conair.com/heated-blankets-bedding?lang=en_US)
+    * [IR Thermometers](https://www.conair.com/thermometers?lang=en_US)
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [Adapters](https://www.conair.com/en/power-adapters?lang=en_US)
-        * [Converters](https://www.conair.com/en/power-converters?lang=en_US)
-    * [Protect](https://www.conair.com/en/protect?lang=en_US)
+        * [Forehead Thermometers](https://www.conair.com/forehead-thermometer?lang=en_US)
+        * [Ear Thermometers](https://www.conair.com/ear-thermometer?lang=en_US)
+    * [At Home Spa](https://www.conair.com/at-home-spa?lang=en_US)
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [Travel Garment Steamers](https://www.conair.com/en/travel-garment-steamer?lang=en_US)
-        * [Travel Humidifiers](https://www.conair.com/en/usb-travel-humidifier?lang=en_US)
-    * [Travel Safety](https://www.conair.com/en/safety?lang=en_US)
+        * [Bath Jets](https://www.conair.com/bath-jets?lang=en_US)
+    * [Sanitizers](https://www.conair.com/sanitizers?lang=en_US)
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-            -----------------------------------------------------------------------------------------
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+            --------------------------------------------------------------------------------
             
         
-        * [RFID Blocking Assortment](https://www.conair.com/en/rfid-blocking-assortment?lang=en_US)
-* [Featured](https://www.conair.com/en/featured?lang=en_US)
-* [Sale](https://www.conair.com/en/sale?lang=en_US)
-* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwee9987a9/images/hometrends.png)](https://www.conair.com/en/hometrends?lang=en_US)
+        * [Small Item Sanitizers](https://www.conair.com/small-item-sanitizers?lang=en_US)
+* [Home](https://www.conair.com/home?lang=en_US)
+    
+    * [Air Purification](https://www.conair.com/air-purification?lang=en_US)
+        ----------------------------------------------------------------------
+        
+        * [Air Purifiers](https://www.conair.com/air-purifiers?lang=en_US)
+        * [Replacement Filters](https://www.conair.com/replacement-filters?lang=en_US)
+    
+    * [Garment Steamers](https://www.conair.com/garment-care?lang=en_US)
+        ------------------------------------------------------------------
+        
+        * [Handheld Garment Steamers](https://www.conair.com/garment-handheld?lang=en_US)
+        * [Full Size Garment Steamers](https://www.conair.com/garment-full-size?lang=en_US)
+        * [Travel Garment Steamers](https://www.conair.com/home-travel-garment-steamers?lang=en_US)
+    
+    * [Clothing Irons](https://www.conair.com/clothing-irons?lang=en_US)
+        ------------------------------------------------------------------
+        
+        * [Traditional Irons](https://www.conair.com/standard-irons?lang=en_US)
+        * [Travel Irons](https://www.conair.com/travel-irons?lang=en_US)
+        * [2-in-1 Steam and Iron](https://www.conair.com/2-in-one-iron-steamers?lang=en_US)
+    
+    * [Fabric Shavers and Accessories](https://www.conair.com/fabric-shavers?lang=en_US)
+        ----------------------------------------------------------------------------------
+        
+        * [Battery Operated Fabric Shavers](https://www.conair.com/fabric-battery-operated?lang=en_US)
+        * [Rechargeable Fabric Shavers](https://www.conair.com/fabric-rechargable?lang=en_US)
+    
+    * [Bath and Shower](https://www.conair.com/bath-and-shower?lang=en_US)
+        --------------------------------------------------------------------
+        
+    
+    * [Air Purification](https://www.conair.com/air-purification?lang=en_US)
+        
+        * [Battery Operated Fabric Shavers](https://www.conair.com/fabric-battery-operated?lang=en_US)
+            --------------------------------------------------------------------------------------------
+            
+        
+        * [Rechargeable Fabric Shavers](https://www.conair.com/fabric-rechargable?lang=en_US)
+            -----------------------------------------------------------------------------------
+            
+        
+        * [Air Purifiers](https://www.conair.com/air-purifiers?lang=en_US)
+        * [Replacement Filters](https://www.conair.com/replacement-filters?lang=en_US)
+    * [Garment Steamers](https://www.conair.com/garment-care?lang=en_US)
+        
+        * [Battery Operated Fabric Shavers](https://www.conair.com/fabric-battery-operated?lang=en_US)
+            --------------------------------------------------------------------------------------------
+            
+        
+        * [Rechargeable Fabric Shavers](https://www.conair.com/fabric-rechargable?lang=en_US)
+            -----------------------------------------------------------------------------------
+            
+        
+        * [Handheld Garment Steamers](https://www.conair.com/garment-handheld?lang=en_US)
+        * [Full Size Garment Steamers](https://www.conair.com/garment-full-size?lang=en_US)
+        * [Travel Garment Steamers](https://www.conair.com/home-travel-garment-steamers?lang=en_US)
+    * [Clothing Irons](https://www.conair.com/clothing-irons?lang=en_US)
+        
+        * [Battery Operated Fabric Shavers](https://www.conair.com/fabric-battery-operated?lang=en_US)
+            --------------------------------------------------------------------------------------------
+            
+        
+        * [Rechargeable Fabric Shavers](https://www.conair.com/fabric-rechargable?lang=en_US)
+            -----------------------------------------------------------------------------------
+            
+        
+        * [Traditional Irons](https://www.conair.com/standard-irons?lang=en_US)
+        * [Travel Irons](https://www.conair.com/travel-irons?lang=en_US)
+        * [2-in-1 Steam and Iron](https://www.conair.com/2-in-one-iron-steamers?lang=en_US)
+    * [Fabric Shavers and Accessories](https://www.conair.com/fabric-shavers?lang=en_US)
+        
+        * [Battery Operated Fabric Shavers](https://www.conair.com/fabric-battery-operated?lang=en_US)
+            --------------------------------------------------------------------------------------------
+            
+        
+        * [Rechargeable Fabric Shavers](https://www.conair.com/fabric-rechargable?lang=en_US)
+            -----------------------------------------------------------------------------------
+            
+        
+        * [Battery Operated Fabric Shavers](https://www.conair.com/fabric-battery-operated?lang=en_US)
+        * [Rechargeable Fabric Shavers](https://www.conair.com/fabric-rechargable?lang=en_US)
+    * [Bath and Shower](https://www.conair.com/bath-and-shower?lang=en_US)
+* [Travel](https://www.conair.com/travel?lang=en_US)
+    
+    * [Travel Organization](https://www.conair.com/organize?lang=en_US)
+        -----------------------------------------------------------------
+        
+        * [Jewelry Roll](https://www.conair.com/jewelry-roll?lang=en_US)
+        * [Packing Accessories](https://www.conair.com/packing-cubes?lang=en_US)
+        * [Luggage Scale](https://www.conair.com/luggage-scale?lang=en_US)
+        * [Travel Bottles](https://www.conair.com/travel-bottles?lang=en_US)
+    
+    * [Travel Bags](https://www.conair.com/bags?lang=en_US)
+        -----------------------------------------------------
+        
+        * [Toiletry](https://www.conair.com/toiletry?lang=en_US)
+        * [Luggage Tags](https://www.conair.com/luggage-tags?lang=en_US)
+        * [Luggage Straps](https://www.conair.com/luggage-straps?lang=en_US)
+    
+    * [Travel Hair Styling Tools](https://www.conair.com/styling-travel?lang=en_US)
+        -----------------------------------------------------------------------------
+        
+        * [Mini Tools](https://www.conair.com/mini-tools?lang=en_US)
+        * [ThermaCELL Refill Cartridges](https://www.conair.com/thermacell-refill-cartridges?lang=en_US)
+    
+    * [Comfort](https://www.conair.com/comfort?lang=en_US)
+        ----------------------------------------------------
+        
+        * [Travel Neck Pillows](https://www.conair.com/neck-pillows?lang=en_US)
+        * [Eye Masks](https://www.conair.com/eye-mask?lang=en_US)
+    
+    * [Travel Power Adapters and Converters](https://www.conair.com/power?lang=en_US)
+        -------------------------------------------------------------------------------
+        
+        * [Adapters](https://www.conair.com/power-adapters?lang=en_US)
+        * [Converters](https://www.conair.com/power-converters?lang=en_US)
+    
+    * [Protect](https://www.conair.com/protect?lang=en_US)
+        ----------------------------------------------------
+        
+        * [Travel Garment Steamers](https://www.conair.com/travel-garment-steamer?lang=en_US)
+        * [Travel Humidifiers](https://www.conair.com/usb-travel-humidifier?lang=en_US)
+    
+    * [Travel Safety](https://www.conair.com/safety?lang=en_US)
+        ---------------------------------------------------------
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+    
+    * [Travel Organization](https://www.conair.com/organize?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [Jewelry Roll](https://www.conair.com/jewelry-roll?lang=en_US)
+        * [Packing Accessories](https://www.conair.com/packing-cubes?lang=en_US)
+        * [Luggage Scale](https://www.conair.com/luggage-scale?lang=en_US)
+        * [Travel Bottles](https://www.conair.com/travel-bottles?lang=en_US)
+    * [Travel Bags](https://www.conair.com/bags?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [Toiletry](https://www.conair.com/toiletry?lang=en_US)
+        * [Luggage Tags](https://www.conair.com/luggage-tags?lang=en_US)
+        * [Luggage Straps](https://www.conair.com/luggage-straps?lang=en_US)
+    * [Travel Hair Styling Tools](https://www.conair.com/styling-travel?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [Mini Tools](https://www.conair.com/mini-tools?lang=en_US)
+        * [ThermaCELL Refill Cartridges](https://www.conair.com/thermacell-refill-cartridges?lang=en_US)
+    * [Comfort](https://www.conair.com/comfort?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [Travel Neck Pillows](https://www.conair.com/neck-pillows?lang=en_US)
+        * [Eye Masks](https://www.conair.com/eye-mask?lang=en_US)
+    * [Travel Power Adapters and Converters](https://www.conair.com/power?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [Adapters](https://www.conair.com/power-adapters?lang=en_US)
+        * [Converters](https://www.conair.com/power-converters?lang=en_US)
+    * [Protect](https://www.conair.com/protect?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [Travel Garment Steamers](https://www.conair.com/travel-garment-steamer?lang=en_US)
+        * [Travel Humidifiers](https://www.conair.com/usb-travel-humidifier?lang=en_US)
+    * [Travel Safety](https://www.conair.com/safety?lang=en_US)
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+            --------------------------------------------------------------------------------------
+            
+        
+        * [RFID Blocking Assortment](https://www.conair.com/rfid-blocking-assortment?lang=en_US)
+* [Featured](https://www.conair.com/featured?lang=en_US)
+* [Sale](https://www.conair.com/sale?lang=en_US)
+* [![HomeTrends](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dwee9987a9/images/hometrends.png)](https://www.conair.com/hometrends?lang=en_US)
 
    
 
@@ -803,7 +803,7 @@ We use your personal information for a variety of purposes, including:
     
 * **Marketing/Advertising:** for marketing purposes, including to provide you with special offers, promotions, news, and newsletters; to contact you about products we think may interest you, including products offered by our affiliated entities; to target advertisements to you; to administer contests, promotions, and other offers; and for other marketing, advertising, and promotional purposes. We, and our service providers, also use your information to determine the success of our advertising campaigns, regardless of the marketing and advertising channel.
     
-* **Administration:** for administrative purposes, including to manage our inventory; to help us better understand how our customers access and use our Sites and Apps, including the pages viewed, ad impressions clicked, or other Site or App activity; to maintain security and operability of our Services (including for debugging purposes); to provide reports to prospective partners, service providers, regulators, and others; to implement and maintain security, anti-piracy, fraud prevention, and other services designed to protect you, others and us; to enforce this Privacy Notice, our [Terms of Use](https://www.conair.com/en/terms-of-use.html?lang=en_US), and other policies.
+* **Administration:** for administrative purposes, including to manage our inventory; to help us better understand how our customers access and use our Sites and Apps, including the pages viewed, ad impressions clicked, or other Site or App activity; to maintain security and operability of our Services (including for debugging purposes); to provide reports to prospective partners, service providers, regulators, and others; to implement and maintain security, anti-piracy, fraud prevention, and other services designed to protect you, others and us; to enforce this Privacy Notice, our [Terms of Use](https://www.conair.com/terms-of-use.html?lang=en_US), and other policies.
     
 * **Research and development/Analytical purposes:** for research and development purposes, including to improve our Services, products, and customer experience; to understand what parts of our Sites and Apps are most popular or to improve upon such Sites and Apps; to understand our customer demographics; and for other research and analytical purposes.
     
@@ -838,7 +838,7 @@ We may also share your information in the following ways:
     
 * **In Response to Legal Process.** We share your information when we believe it is appropriate to comply with the law or a regulatory requirement; to comply with governmental, administrative, or judicial process or other similar requirement or order, such as a subpoena or court order; to cooperate with law enforcement or other governmental investigations (without necessarily requiring the law enforcement or government agency requesting the information to formally serve us with a subpoena); or as evidence in litigation in which we are involved. We also reserve the right to report to appropriate law enforcement or governmental agencies any activities that we believe are in violation of applicable laws, rules, or regulations without providing notice.
     
-* **To Protect Us and Others.** We share your information where we believe it is necessary to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, Site, or safety of you, Conair, its corporate relatives, and their respective employees, clients, partners, agents, other users, or the public in general; to enforce our [Terms of Use](https://www.conair.com/en/terms-of-use.html?lang=en_US) or this Privacy Notice; and to monitor and remediate security issues.
+* **To Protect Us and Others.** We share your information where we believe it is necessary to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the legal rights, Site, or safety of you, Conair, its corporate relatives, and their respective employees, clients, partners, agents, other users, or the public in general; to enforce our [Terms of Use](https://www.conair.com/terms-of-use.html?lang=en_US) or this Privacy Notice; and to monitor and remediate security issues.
     
 * **Aggregate and De-Identified Information.** We may disclose aggregate and de-identified information about our customers for marketing, advertising, research, or other purposes.
     
@@ -993,7 +993,7 @@ The CCPA provides you with certain rights regarding your Personal Information. T
 
 **Right to Opt-Out of Sales and Sharing.** You have the right to opt-out of “sales” and “sharing” of your Personal Information, as those terms are defined under the CCPA, including using an opt-out preference signal. While we do not “sell” Personal Information in the traditional sense (i.e., for money), our use of third-party analytics and advertising cookies may be considered “selling” and “sharing” under CCPA.
 
-To exercise your right to opt-out of the “sale” or “sharing” of your Personal Information, please click [here](https://www.conair.com/en/ccpa?lang=en_US) or use the _Do Not Sell_ or _Share My Personal Information_ link at the bottom of our website.
+To exercise your right to opt-out of the “sale” or “sharing” of your Personal Information, please click [here](https://www.conair.com/ccpa?lang=en_US) or use the _Do Not Sell_ or _Share My Personal Information_ link at the bottom of our website.
 
 **Right to Non-Discrimination.** We will not discriminate against you for exercising any of the rights described in this section.
 
@@ -1049,27 +1049,27 @@ Guest Service
 Guest Service
 -------------
 
-* [FAQs](https://www.conair.com/en/CustomerSupport?lang=en_US#cs-faq)
-* [Contact Us](https://www.conair.com/en/CustomerSupport?lang=en_US#cs-contact)
-* [In-Warranty](https://www.conair.com/en/CustomerSupport?lang=en_US#cs-warranty)
+* [FAQs](https://www.conair.com/CustomerSupport?lang=en_US#cs-faq)
+* [Contact Us](https://www.conair.com/CustomerSupport?lang=en_US#cs-contact)
+* [In-Warranty](https://www.conair.com/CustomerSupport?lang=en_US#cs-warranty)
 * [Product Registration](https://register.conair.com/en-us/reg "BabylissPRO")
-* [Instruction Booklets](https://www.conair.com/en/InstructionBooklet?lang=en_US)
-* [Email Unsubscribe](https://www.conair.com/en/Unsubscribe?lang=en_US)
-* [Quick Start Guides for Scales](https://www.conair.com/en/scalesUserGuide?lang=en_US)
-* [Conair.com Returns](https://www.conair.com/en/returnForm?lang=en_US)
+* [Instruction Booklets](https://www.conair.com/InstructionBooklet?lang=en_US)
+* [Email Unsubscribe](https://www.conair.com/Unsubscribe?lang=en_US)
+* [Quick Start Guides for Scales](https://www.conair.com/scalesUserGuide?lang=en_US)
+* [Conair.com Returns](https://www.conair.com/returnForm?lang=en_US)
 
 Company Info
 
 Company Info
 ------------
 
-* [About Us](https://www.conair.com/en/About?lang=en_US "About Us")
-* [Newsroom](https://www.conair.com/en/Newsroom?lang=en_US "Newsroom")
-* [Where to Buy](https://www.conair.com/en/WhereToBuy?lang=en_US "Where to Buy")
+* [About Us](https://www.conair.com/About?lang=en_US "About Us")
+* [Newsroom](https://www.conair.com/Newsroom?lang=en_US "Newsroom")
+* [Where to Buy](https://www.conair.com/WhereToBuy?lang=en_US "Where to Buy")
 * [Interested In Working at Conair](https://jobs.jobvite.com/conair "Interested In Working at Conair")
-* [Copyright](https://www.conair.com/en/Copyright?lang=en_US "Copyright")
+* [Copyright](https://www.conair.com/Copyright?lang=en_US "Copyright")
 * [Influencer Program](https://conair.grin.live/influencerprogram?utm_source=Conair&utm_medium=Website&utm_campaign=Footer%20Links&utm_term=Influencer%20Program "Influencer Program")
-* [Conair Digital Accessibility Statement](https://www.conair.com/en/conair-digital-accessibility-statement.html?lang=en_US)
+* [Conair Digital Accessibility Statement](https://www.conair.com/conair-digital-accessibility-statement.html?lang=en_US)
 
 Corporate Sites
 
