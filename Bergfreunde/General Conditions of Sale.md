@@ -416,7 +416,7 @@ Menü
     * [Winterausrüstung](https://www.bergfreunde.de/winterausruestung/ "Winterausrüstung anzeigen")
         * [Lawinenrucksäcke](https://www.bergfreunde.de/lawinenrucksaecke/ "Lawinenrucksäcke anzeigen")
         * [LVS-Geräte](https://www.bergfreunde.de/lvs-geraete/ "LVS-Geräte anzeigen")
-        * [Lawinenschaufeln](https://www.bergfreunde.de/lawinenschaufeln/ "Lawinenschaufeln anzeigen")
+        * [](https://www.bergfreunde.de// " anzeigen")
         * [Skifelle](https://www.bergfreunde.de/skifelle/ "Skifelle anzeigen")
         * [Skitourenrucksäcke](https://www.bergfreunde.de/skitourenrucksaecke/ "Skitourenrucksäcke anzeigen")
         * [Schneeschuhe](https://www.bergfreunde.de/schneeschuhe/ "Schneeschuhe anzeigen")
@@ -587,7 +587,7 @@ Menü
     * [Merino Outlet](https://www.bergfreunde.de/outlet/material--merinowolle/ "Merino Outlet anzeigen")
     
 
- 
+  
 
 schließen
 
@@ -840,9 +840,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Thomas - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-thomas.png) Bergfreund Thomas - Versand
+![Bergfreund Ronny - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-ronny.png) Bergfreund Ronny - Geschäftsführung
 
-"Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
+"In Sachen Klimaschutz gilt für uns: Die Zeit zu handeln ist jetzt!"
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -850,11 +850,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 44668 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 44643 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 44.668 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 44.643 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
