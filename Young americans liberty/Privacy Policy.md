@@ -34,7 +34,6 @@ Go To Shopping
     * [Blog](https://yaliberty.org/blog/)
     * [Staff](https://yaliberty.org/staff/)
     * [Jobs](https://yaliberty.isolvedhire.com/jobs/)
-* [Store](https://yaliberty.org/store/)
 
 [![](https://yaliberty.org/wp-content/uploads/2023/02/YAL-logo-horz-eagle-tm-navy.png "YAL-logo-horz-eagle-tm-navy")](https://yaliberty.org/)
 
@@ -67,7 +66,6 @@ Go To Shopping
     * [Blog](https://yaliberty.org/blog/)
     * [Staff](https://yaliberty.org/staff/)
     * [Jobs](https://yaliberty.isolvedhire.com/jobs/)
-* [Store](https://yaliberty.org/store/)
 
 0
 
