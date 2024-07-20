@@ -18,7 +18,7 @@ Language / City
     
     Car-sharing for your company. You’ve never experienced business trips like this before.](https://www.share-now.com/de/en/for-business/)[Our Cars
     
-    Our fleet is packed with premium vehicles from BMW, Fiat, and smart.](https://www.share-now.com/de/en/fleet/)[Subscribe & Save
+    Our fleet is packed with iconic vehicles from Opel, Fiat, and Peugeot.](https://www.share-now.com/de/en/fleet/)[Subscribe & Save
     
     Save up to 50% off the minute rate with a SHARE NOW Pass monthly subscription.](https://www.share-now.com/de/en/share-now-pass/)[Pricing
     
@@ -89,7 +89,7 @@ Warschauer Platz 11-13
 Germany
 
 Email: [hallo@share-now.com](mailto:hallo@share-now.com)  
-Phone: [+49 (0) 30 330831110](tel:+4930330831110)  
+Phone: [+49 30 330831118](tel:+4930330831118 "tel:+4930330831118")  
 Domicile: Berlin  
 Court of Registry: Amtsgericht Berlin-Charlottenburg  
 VAT No.: DE277746196  
