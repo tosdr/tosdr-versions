@@ -17,6 +17,7 @@
     * [Sketch Standard](https://www.makerbot.com/3d-printers/sketch-standard/) 
     * [Sketch Large New](https://www.makerbot.com/3d-printers/sketch-large/) 
     * [Materials](https://www.makerbot.com/3d-printers/materials/) 
+    * [PLA colors New](https://www.makerbot.com/3d-printers/materials-new-pla-colors/) 
     
     [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-3d-printer-education-solution.png)](https://www.makerbot.com/3d-printers/classroom-solution/)
     
@@ -32,6 +33,7 @@
     
     * [Method series](https://www.makerbot.com/3d-printers/advanced-printer/#method) 
     * [S series](https://www.makerbot.com/3d-printers/advanced-printer/#s-series) 
+    * [UltiMaker S5](https://www.makerbot.com/3d-printers/ultimaker-s5/) 
     
 * [Software](https://www.makerbot.com/cloudprint/)
     
@@ -122,7 +124,7 @@
 
 [](https://store.makerbot.com/checkout/cart)
 
-[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.makerbot.com/)
+[Request a quote](https://www.makerbot.com/quote-request)
 
 MAKERBOT TERMS OF USE
 =====================
