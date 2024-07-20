@@ -83,7 +83,7 @@ We will retain personal data our customers have instructed us to process for the
 
 **3.C. Security measures**
 
-Forsta operates under a strong security and privacy regime. If your personal data is stored on Forsta’s SaaS environments, you are welcome to read more about how we protect your personal data by applying industry leading security measures and performing ongoing security tests and controls. For Horizons, please refer [here](https://extranet.confirmit.com/Confirmit-Horizons/Overview/security-features/) . For Dapresy, please see [here](https://dapresy.freshdesk.com/support/solutions/folders/7000040738) . For FocusVision, see [here](https://www.focusvision.com/company/security/).
+Forsta operates under a strong security and privacy regime. If your personal data is stored on Forsta’s SaaS environments, you are welcome to read more about how we protect it by applying the appropriate technical and organizational measures (TOMS) at the following [link](https://legal.forsta.com/legal/forsta-technical-and-organizational-measures/).
 
 **3.D. Device information**
 
