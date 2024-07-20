@@ -1,6 +1,4 @@
-[](https://clearbitjs.com/)[![Clearbit by HubSpot](/clearbit_by_hubspot.png)](https://clearbitjs.com/)
-
-* [![Clearbit by HubSpot](/clearbit_by_hubspot.png)](https://clearbitjs.com/)
+[![Clearbit by HubSpot](/clearbit_by_hubspot.png)](https://clearbitjs.com/)[Clearbit customer login](https://clearbitjs.com/login)
 
 Clearbit Terms of Service
 =========================
@@ -638,7 +636,7 @@ For transfers to (sub-) processors, also describe the specific technical and org
 
 * * *
 
-[Trust Center](https://clearbitjs.com/trust)[Privacy Policy](https://clearbitjs.com/privacy-policy)[Status](https://clearbit.statuspage.io/)[Legal](https://clearbitjs.com/legal)[Do Not Sell My Info](https://clearbitjs.com/ccpa-opt-out)Opt out
+[Trust Center](https://clearbitjs.com/trust)[Privacy Policy](https://clearbitjs.com/privacy-policy)[Status](https://clearbit.statuspage.io/)[Support](https://clearbitjs.com/support)[Legal](https://clearbitjs.com/legal)[Do Not Sell My Info](https://clearbitjs.com/ccpa-opt-out)Opt out
 
 [![Clearbit by HubSpot](/clearbit_by_hubspot.png)](https://clearbitjs.com/)
 
