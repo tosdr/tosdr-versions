@@ -26,7 +26,7 @@
     * [FlexiPDF](https://www.softmaker.com/en/blog/flexipdf)
     * [Typography](https://www.softmaker.com/en/blog/typography)
 * [My account](https://www.softmaker.com/en/my-account)
-* [![Cart](https://eshop.softmaker.de/cart-image)](https://www.softmaker.com/en/shopping-cart)
+* [![Cart](https://eshop.softmaker.com/cart-image)](https://www.softmaker.com/en/shopping-cart)
 
  [![English](/media/mod_falang/images/en_gb.gif "English")English](javascript:;)
 
