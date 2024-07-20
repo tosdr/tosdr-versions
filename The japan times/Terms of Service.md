@@ -62,7 +62,8 @@ WHAT YOU’LL GET
 * Ability to comment on stories
 * Premium content (including stories older than two years)
 * No display ads
-* Digital replica of the daily print edition (ePaper Edition)
+* ePaper Edition: Digital replica of print daily  
+    (up to 7 days)
 
 PREMIUM
 
@@ -110,7 +111,8 @@ WHAT YOU’LL GET
 * Ability to comment on stories
 * Premium content (including stories older than two years)
 * No display ads
-* Digital replica of the daily print edition ([ePaper Edition](https://epaper.japantimes.co.jp/))
+* [ePaper Edition](https://epaper.japantimes.co.jp/): Digital replica of print daily  
+    (up to 7 days)
 
 STANDARD
 
@@ -143,7 +145,8 @@ WHAT YOU’LL GET
 * Ability to comment on stories
 * Premium content (including stories older than two years)
 * No display ads
-* Digital replica of the daily print edition (ePaper Edition)
+* ePaper Edition: Digital replica of print daily  
+    (up to 7 days)
 
 PREMIUM
 
@@ -175,7 +178,8 @@ WHAT YOU’LL GET
 * Ability to comment on stories
 * Premium content (including stories older than two years)
 * No display ads
-* Digital replica of the daily print edition ([ePaper Edition](https://epaper.japantimes.co.jp/))
+* [ePaper Edition](https://epaper.japantimes.co.jp/): Digital replica of print daily  
+    (up to 7 days)
 
 * Pay in USD
 * Pay in JPY
