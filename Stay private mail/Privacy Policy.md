@@ -1,8 +1,4 @@
-Email as it should be.
-======================
-
-Private. Organized. Encrypted. Spam-free.
------------------------------------------
+![](img/keepd-square-logo.png)
 
 [](https://www.stayprivatemail.com/index.html)
 
