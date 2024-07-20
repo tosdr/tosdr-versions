@@ -63,7 +63,7 @@ Search  Search
 Data Privacy Statement
 ======================
 
-29 minutes
+30 minutes
 
 Other languages: 9
 
@@ -312,16 +312,16 @@ _Log files_
 
 Every time you use the internet, certain data is automatically transmitted by your internet browser and stored by us in so-called log files.
 
-1. Information about the browser type and version used
-2. The operating system of the user
-3. The internet service provider of the user
-4. The IP address of the user
-5. Date and time of access
-6. Websites from which the user’s system accesses our website
-7. Websites that are accessed by the user’s system via our website
-8. Name of the retrieved file
-9. Transmitted data volume
-10. Message whether retrieval was successful
+* Information about the browser type and version used
+* The operating system of the user
+* The internet service provider of the user
+* The IP address of the user
+* Date and time of access
+* Websites from which the user’s system accesses our website
+* Websites that are accessed by the user’s system via our website
+* Name of the retrieved file
+* Transmitted data volume
+* Message whether retrieval was successful
 
   
 The log files are stored by us primarily for the determination of malfunctions and for security reasons. They are kept for up to 10 days and then deleted. Log files whose further storage is necessary for evidentiary purposes are exempt from deletion until the final clarification of the respective incident and may be passed on to investigating authorities in individual cases.
@@ -527,7 +527,7 @@ Stay informed daily about news in Switzerland with our Briefing in the SWI plus 
     
 * [Podcasts](https://www.swissinfo.ch/eng/podcasts)
     
-* [Contact](https://www.swissinfo.ch/eng/contact)
+* [Contact](https://www.swissinfo.ch/eng/contact-us-swi)
     
 
 SWI swissinfo.ch - a branch of Swiss Broadcasting Corporation SRG SSR
