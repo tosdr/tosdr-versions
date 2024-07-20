@@ -1,4 +1,4 @@
-![](https://api.fouanalytics.com/api/noscript-4459xkv9xghvg3ysm6ta.gif)          [Skip to main content](#main-content) [Skip navigation](#body-bodycontent-div)
+![](https://api.fouanalytics.com/api/noscript-4459xkv9xghvg3ysm6ta.gif)        [Skip to main content](#main-content) [Skip navigation](#body-bodycontent-div)
 
  ![Open menu icon](/content/images/icon-hamburger.svg)![Search icon](/content/images/icon-search.svg) [![VENUS logo](/content/images/Venus-Logo-Main.svg)](https://www.venus.com/)[![Link. Account login icon.](/content/images/icon-account.svg)](https://www.venus.com/account/my-account)[![Shopping bag icon](/content/images/icon-bag.svg)](https://www.venus.com/bag.aspx)
 
@@ -10,7 +10,7 @@ Search Products
 
   ![Search button icon](/content/images/icon-search.svg)
 
-New [SHOP ALL New](https://www.venus.com/whats-new) [New Clothing](https://www.venus.com/products.aspx?BRANCH=351~530~3377~) [New Swim & Cover-ups](https://www.venus.com/products.aspx?BRANCH=351~530~3376~) Clothing [SHOP ALL Clothing](https://www.venus.com/clothing) [Best Sellers](https://www.venus.com/products.aspx?BRANCH=7~8473~) [Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~) [Tops](https://www.venus.com/products.aspx?BRANCH=7~63~) [Jumpsuits & Rompers](https://www.venus.com/products.aspx?BRANCH=7~183~) [Sweaters](https://www.venus.com/products.aspx?BRANCH=7~69~) [Jackets & Coats](https://www.venus.com/products.aspx?BRANCH=7~73~) [Loungewear](https://www.venus.com/products.aspx?BRANCH=7~164~) [All Bottoms](https://www.venus.com/products.aspx?BRANCH=7~8201~) [Jeans](https://www.venus.com/products.aspx?BRANCH=7~2999~) [Pants](https://www.venus.com/products.aspx?BRANCH=7~70~) [Shorts](https://www.venus.com/products.aspx?BRANCH=7~7614~) [Skirts](https://www.venus.com/products.aspx?BRANCH=7~71~) [Shoes & Boots](https://www.venus.com/products.aspx?BRANCH=7~75~) [Accessories & Handbags](https://www.venus.com/products.aspx?BRANCH=7~77~) [Jewelry](https://www.venus.com/products.aspx?BRANCH=7~3599~) [Matching Sets](https://www.venus.com/products.aspx?BRANCH=7~8324~) [Work Wardrobe](https://www.venus.com/products.aspx?BRANCH=7~8107~) [Anything But Basics](https://www.venus.com/products.aspx?BRANCH=7~7045~) [Size Chart](https://www.venus.com/size-info) [Dress Fit Guide](https://www.venus.com/fit-guide/dresses) [Sale](https://www.venus.com/sale) [Clearance](https://www.venus.com/clearance) Dresses [SHOP ALL Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~) [Sundresses & Day Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~7613~) [Maxi Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~4080~) [Midi Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~7388~) [Short Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~7389~) [Cocktail Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~5031~) [Sweater Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~4214~) Swim [SHOP ALL Swim](https://www.venus.com/swimwear) [Shop By Print/Color](https://www.venus.com/shopbyfabric.aspx) [Shop By Style](https://www.venus.com/style/swim) [Cheeky Bottoms](https://www.venus.com/products.aspx?BRANCH=24~93~) [Moderate Bottoms](https://www.venus.com/products.aspx?BRANCH=24~95~) [Full Bottoms](https://www.venus.com/products.aspx?BRANCH=24~96~) [Best of Swim](https://www.venus.com/products.aspx?BRANCH=24~8508~) [Shop All Bottoms](https://www.venus.com/products.aspx?BRANCH=24~5977~) [One-Piece Swimsuits & Swim Dresses](https://www.venus.com/products.aspx?BRANCH=24~97~) [Cover-ups](https://www.venus.com/products.aspx?BRANCH=24~98~) [Sustainable Swimwear](https://www.venus.com/products.aspx?BRANCH=24~7559~) [Size Chart](https://www.venus.com/size-info) [Fit Guide](https://www.venus.com/fit-guide/swimwear) [Sale](https://www.venus.com/style/swim-sale) [Clearance](https://www.venus.com/style/swim-clearance) Lingerie [SHOP ALL Lingerie](https://www.venus.com/lingerie) [Pearl by Venus®](https://www.venus.com/products.aspx?BRANCH=129~7602~) [Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~) [Panties](https://www.venus.com/products.aspx?BRANCH=129~5335~) [Pajamas & Sleepwear](https://www.venus.com/products.aspx?BRANCH=129~6923~) [Sexy Lingerie](https://www.venus.com/products.aspx?BRANCH=129~4042~) [Shapewear & Solutions](https://www.venus.com/products.aspx?BRANCH=129~4043~) [Lingerie Fit Guide](https://www.venus.com/fit-guide/lingerie) [Sale](https://www.venus.com/style/lingerie-sale) [Clearance](https://www.venus.com/style/lingerie-clearance) Plus [SHOP ALL Plus](https://www.venus.com/plus-size-clothing) [Clothing](https://www.venus.com/plus-size-clothing) [Shoes & Boots](https://www.venus.com/products.aspx?BRANCH=7~75~) [Accessories & Handbags](https://www.venus.com/products.aspx?BRANCH=7~77~) [Jewelry](https://www.venus.com/products.aspx?BRANCH=7~3599~) [Swim](https://www.venus.com/plus-size-swimwear) [Sale](https://www.venus.com/style/clothing-plus-size-sale) [Clearance](https://www.venus.com/style/clothing-plus-size-clearance) Americana [SHOP ALL Americana](https://www.venus.com/products.aspx?BRANCH=351~515~5832~) Trends [SHOP ALL Trends](https://www.venus.com/trends) [Tropic Bohème](https://www.venus.com/products.aspx?BRANCH=351~515~8580~) [Americana](https://www.venus.com/products.aspx?BRANCH=351~515~5832~) [Salsa Sunsets](https://www.venus.com/products.aspx?BRANCH=351~515~8539~) [Under the Sun](https://www.venus.com/products.aspx?BRANCH=351~515~8483~) [La Dolce Vita](https://www.venus.com/products.aspx?BRANCH=351~515~8481~) [The Denim Shop](https://www.venus.com/products.aspx?BRANCH=351~515~7586~) [Ticket to Paradise](https://www.venus.com/products.aspx?BRANCH=351~515~8458~) [Best Dressed Guest](https://www.venus.com/products.aspx?BRANCH=351~515~7956~) [Fresh Florals](https://www.venus.com/products.aspx?BRANCH=351~515~8253~) Sale [SHOP ALL Sale](https://www.venus.com/sale) [Clothing Sale](https://www.venus.com/style/clothing-sale) [Clothing Clearance](https://www.venus.com/style/clothing-clearance) [Swim Sale](https://www.venus.com/style/swim-sale) [Swim Clearance](https://www.venus.com/style/swim-clearance) [Lingerie Sale](https://www.venus.com/style/lingerie-sale) [Lingerie Clearance](https://www.venus.com/style/lingerie-clearance) [Plus Size Clothing Sale](https://www.venus.com/style/clothing-plus-size-sale) [Plus Size Clothing Clearance](https://www.venus.com/style/clothing-plus-size-clearance) [Plus Size Swim Sale](https://www.venus.com/style/swim-plus-size-sale) [Plus Size Swim Clearance](https://www.venus.com/style/swim-plus-size-clearance)
+New [SHOP ALL New](https://www.venus.com/whats-new) [New Clothing](https://www.venus.com/products.aspx?BRANCH=351~530~3377~) [New Swim & Cover-ups](https://www.venus.com/products.aspx?BRANCH=351~530~3376~) Clothing [SHOP ALL Clothing](https://www.venus.com/clothing) [Best Sellers](https://www.venus.com/products.aspx?BRANCH=7~8473~) [Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~) [Tops](https://www.venus.com/products.aspx?BRANCH=7~63~) [Jumpsuits & Rompers](https://www.venus.com/products.aspx?BRANCH=7~183~) [Sweaters](https://www.venus.com/products.aspx?BRANCH=7~69~) [Jackets & Coats](https://www.venus.com/products.aspx?BRANCH=7~73~) [Loungewear](https://www.venus.com/products.aspx?BRANCH=7~164~) [All Bottoms](https://www.venus.com/products.aspx?BRANCH=7~8201~) [Jeans](https://www.venus.com/products.aspx?BRANCH=7~2999~) [Pants](https://www.venus.com/products.aspx?BRANCH=7~70~) [Shorts](https://www.venus.com/products.aspx?BRANCH=7~7614~) [Skirts](https://www.venus.com/products.aspx?BRANCH=7~71~) [Shoes & Boots](https://www.venus.com/products.aspx?BRANCH=7~75~) [Accessories & Handbags](https://www.venus.com/products.aspx?BRANCH=7~77~) [Jewelry](https://www.venus.com/products.aspx?BRANCH=7~3599~) [Matching Sets](https://www.venus.com/products.aspx?BRANCH=7~8324~) [Work Wardrobe](https://www.venus.com/products.aspx?BRANCH=7~8107~) [Anything But Basics](https://www.venus.com/products.aspx?BRANCH=7~7045~) [Size Chart](https://www.venus.com/size-info) [Dress Fit Guide](https://www.venus.com/fit-guide/dresses) [Sale](https://www.venus.com/sale) [Clearance](https://www.venus.com/clearance) Dresses [SHOP ALL Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~) [Sundresses & Day Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~7613~) [Maxi Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~4080~) [Midi Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~7388~) [Short Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~7389~) [Cocktail Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~5031~) [Sweater Dresses](https://www.venus.com/products.aspx?BRANCH=7~72~4214~) Swim [SHOP ALL Swim](https://www.venus.com/swimwear) [Shop By Print/Color](https://www.venus.com/shopbyfabric.aspx) [Shop By Style](https://www.venus.com/style/swim) [Cheeky Bottoms](https://www.venus.com/products.aspx?BRANCH=24~93~) [Moderate Bottoms](https://www.venus.com/products.aspx?BRANCH=24~95~) [Full Bottoms](https://www.venus.com/products.aspx?BRANCH=24~96~) [Best of Swim](https://www.venus.com/products.aspx?BRANCH=24~8508~) [Shop All Bottoms](https://www.venus.com/products.aspx?BRANCH=24~5977~) [One-Piece Swimsuits & Swim Dresses](https://www.venus.com/products.aspx?BRANCH=24~97~) [Cover-ups](https://www.venus.com/products.aspx?BRANCH=24~98~) [Sustainable Swimwear](https://www.venus.com/products.aspx?BRANCH=24~7559~) [Size Chart](https://www.venus.com/size-info) [Fit Guide](https://www.venus.com/fit-guide/swimwear) [Sale](https://www.venus.com/style/swim-sale) [Clearance](https://www.venus.com/style/swim-clearance) Lingerie [SHOP ALL Lingerie](https://www.venus.com/lingerie) [Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~) [Panties](https://www.venus.com/products.aspx?BRANCH=129~5335~) [Pajamas & Sleepwear](https://www.venus.com/products.aspx?BRANCH=129~6923~) [Sexy Lingerie](https://www.venus.com/products.aspx?BRANCH=129~4042~) [Shapewear & Solutions](https://www.venus.com/products.aspx?BRANCH=129~4043~) [Lingerie Fit Guide](https://www.venus.com/fit-guide/lingerie) [Sale](https://www.venus.com/style/lingerie-sale) [Clearance](https://www.venus.com/style/lingerie-clearance) Plus [SHOP ALL Plus](https://www.venus.com/plus-size-clothing) [Clothing](https://www.venus.com/plus-size-clothing) [Shoes & Boots](https://www.venus.com/products.aspx?BRANCH=7~75~) [Accessories & Handbags](https://www.venus.com/products.aspx?BRANCH=7~77~) [Jewelry](https://www.venus.com/products.aspx?BRANCH=7~3599~) [Swim](https://www.venus.com/plus-size-swimwear) [Sale](https://www.venus.com/style/clothing-plus-size-sale) [Clearance](https://www.venus.com/style/clothing-plus-size-clearance) Trends [SHOP ALL Trends](https://www.venus.com/trends) [Tropic Bohème](https://www.venus.com/products.aspx?BRANCH=351~515~8580~) [Americana](https://www.venus.com/products.aspx?BRANCH=351~515~5832~) [Salsa Sunsets](https://www.venus.com/products.aspx?BRANCH=351~515~8539~) [Under the Sun](https://www.venus.com/products.aspx?BRANCH=351~515~8483~) [La Dolce Vita](https://www.venus.com/products.aspx?BRANCH=351~515~8481~) [The Denim Shop](https://www.venus.com/products.aspx?BRANCH=351~515~7586~) [Ticket to Paradise](https://www.venus.com/products.aspx?BRANCH=351~515~8458~) [Best Dressed Guest](https://www.venus.com/products.aspx?BRANCH=351~515~7956~) [Fresh Florals](https://www.venus.com/products.aspx?BRANCH=351~515~8253~) Sale [SHOP ALL Sale](https://www.venus.com/sale) [Clothing Sale](https://www.venus.com/style/clothing-sale) [Clothing Clearance](https://www.venus.com/style/clothing-clearance) [Swim Sale](https://www.venus.com/style/swim-sale) [Swim Clearance](https://www.venus.com/style/swim-clearance) [Lingerie Sale](https://www.venus.com/style/lingerie-sale) [Lingerie Clearance](https://www.venus.com/style/lingerie-clearance) [Plus Size Clothing Sale](https://www.venus.com/style/clothing-plus-size-sale) [Plus Size Clothing Clearance](https://www.venus.com/style/clothing-plus-size-clearance) [Plus Size Swim Sale](https://www.venus.com/style/swim-plus-size-sale) [Plus Size Swim Clearance](https://www.venus.com/style/swim-plus-size-clearance)
 
 [SIGN IN / SIGN UP](https://www.venus.com/account/my-account)
 
@@ -80,6 +80,7 @@ Search Products
         * [Hats](https://www.venus.com/products.aspx?BRANCH=7~77~5142~)
         * [Jewelry](https://www.venus.com/products.aspx?BRANCH=7~3599~)
         * [Earrings](https://www.venus.com/products.aspx?BRANCH=7~3599~3605~)
+        * [Necklaces](https://www.venus.com/products.aspx?BRANCH=7~3599~3604~)
         * [Bracelets](https://www.venus.com/products.aspx?BRANCH=7~3599~3606~)
         * [Matching Sets](https://www.venus.com/products.aspx?BRANCH=7~8324~)
         * [Work Wardrobe](https://www.venus.com/products.aspx?BRANCH=7~8107~)
@@ -134,22 +135,11 @@ Search Products
         * [Clearance](https://www.venus.com/style/swim-clearance)
 * Lingerie
     * * [SHOP ALL Lingerie](https://www.venus.com/lingerie)
-        * [Pearl by Venus®](https://www.venus.com/products.aspx?BRANCH=129~7602~)
         * [Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~)
-        * [Bras: Any 2 for $30](https://www.venus.com/products.aspx?BRANCH=129~5334~8050~)
-        * [Bralettes](https://www.venus.com/products.aspx?BRANCH=129~5334~5376~)
-        * [Perfect Coverage Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~5375~)
-        * [Plunge Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~5373~)
-        * [Strapless & Backless Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~5377~)
         * [Wireless Bras](https://www.venus.com/products.aspx?BRANCH=129~5334~7414~)
-        
         * [Panties](https://www.venus.com/products.aspx?BRANCH=129~5335~)
-        * [Panties: Any 2 3-Packs for $20](https://www.venus.com/products.aspx?BRANCH=129~5335~8280~)
-        * [Bikini Panties](https://www.venus.com/products.aspx?BRANCH=129~5335~5381~)
-        * [Hipster Panties](https://www.venus.com/products.aspx?BRANCH=129~5335~5378~)
-        * [Thong Panties](https://www.venus.com/products.aspx?BRANCH=129~5335~5380~)
-        
         * [Pajamas & Sleepwear](https://www.venus.com/products.aspx?BRANCH=129~6923~)
+        
         * [Sexy Lingerie](https://www.venus.com/products.aspx?BRANCH=129~4042~)
         * [Bodysuits & Teddies](https://www.venus.com/products.aspx?BRANCH=129~4042~5865~)
         * [Chemises & Babydolls](https://www.venus.com/products.aspx?BRANCH=129~4042~7367~)
@@ -191,6 +181,7 @@ Search Products
         
         * [Jewelry](https://www.venus.com/products.aspx?BRANCH=7~3599~)
         * [Earrings](https://www.venus.com/products.aspx?BRANCH=7~3599~3605~)
+        * [Necklaces](https://www.venus.com/products.aspx?BRANCH=7~3599~3604~)
         * [Bracelets](https://www.venus.com/products.aspx?BRANCH=7~3599~3606~)
         * [Swim](https://www.venus.com/plus-size-swimwear)
         * [Shop All Tops](https://www.venus.com/products.aspx?BRANCH=24~6615~&ps=1)
@@ -201,8 +192,8 @@ Search Products
         * [Halter Bikini Tops](https://www.venus.com/products.aspx?BRANCH=24~89~&ps=1)
         * [Underwire Bikini Tops](https://www.venus.com/products.aspx?BRANCH=24~87~&ps=1)
         * [Moderate Bottoms](https://www.venus.com/products.aspx?BRANCH=24~95~&ps=1)
-        * [Full Bottoms](https://www.venus.com/products.aspx?BRANCH=24~96~&ps=1)
         
+        * [Full Bottoms](https://www.venus.com/products.aspx?BRANCH=24~96~&ps=1)
         * [New Plus Swim Styles](https://www.venus.com/products.aspx?BRANCH=24~7755~&ps=1)
         * [Shop All Bottoms](https://www.venus.com/products.aspx?BRANCH=24~5977~&ps=1)
         * [One-Piece Swimsuits & Swim Dresses](https://www.venus.com/products.aspx?BRANCH=24~97~&ps=1)
@@ -210,8 +201,6 @@ Search Products
         * [Sustainable Swimwear](https://www.venus.com/products.aspx?BRANCH=24~7559~&ps=1)
         * [Sale](https://www.venus.com/style/clothing-plus-size-sale)
         * [Clearance](https://www.venus.com/style/clothing-plus-size-clearance)
-* Americana
-    * * [SHOP ALL Americana](https://www.venus.com/products.aspx?BRANCH=351~515~5832~)
 * Trends
     * * [SHOP ALL Trends](https://www.venus.com/trends)
         * [Tropic Bohème](https://www.venus.com/products.aspx?BRANCH=351~515~8580~)
@@ -269,6 +258,7 @@ Search Products
         * [Swim Clearance](https://www.venus.com/style/swim-clearance)
         
         * [Lingerie Sale](https://www.venus.com/style/lingerie-sale)
+        * [Pearl by Venus®](https://www.venus.com/onsale.aspx?BRANCH=129~7602~)
         * [Bras](https://www.venus.com/onsale.aspx?BRANCH=129~5334~)
         * [Panties](https://www.venus.com/onsale.aspx?BRANCH=129~5335~)
         * [Pajamas & Sleepwear](https://www.venus.com/onsale.aspx?BRANCH=129~6923~)
@@ -289,8 +279,8 @@ Search Products
         * [Pants](https://www.venus.com/onsale.aspx?BRANCH=7~70~&ps=1)
         * [Shorts](https://www.venus.com/onsale.aspx?BRANCH=7~7614~&ps=1)
         * [Skirts](https://www.venus.com/onsale.aspx?BRANCH=7~71~&ps=1)
-        * [Matching Sets](https://www.venus.com/onsale.aspx?BRANCH=7~8324~&ps=1)
         
+        * [Matching Sets](https://www.venus.com/onsale.aspx?BRANCH=7~8324~&ps=1)
         * [Work Wardrobe](https://www.venus.com/onsale.aspx?BRANCH=7~8107~&ps=1)
         * [Anything But Basics](https://www.venus.com/onsale.aspx?BRANCH=7~7045~&ps=1)
         * [Plus Size Clothing Clearance](https://www.venus.com/style/clothing-plus-size-clearance)
@@ -305,6 +295,7 @@ Search Products
         * [Bandeau Bikini Tops](https://www.venus.com/onsale.aspx?BRANCH=24~90~&ps=1)
         * [Moderate Bottoms](https://www.venus.com/onsale.aspx?BRANCH=24~95~&ps=1)
         * [Full Bottoms](https://www.venus.com/onsale.aspx?BRANCH=24~96~&ps=1)
+        * [Best of Swim](https://www.venus.com/onsale.aspx?BRANCH=24~8508~&ps=1)
         * [New Plus Swim Styles](https://www.venus.com/onsale.aspx?BRANCH=24~7755~&ps=1)
         * [Shop All Bottoms](https://www.venus.com/onsale.aspx?BRANCH=24~5977~&ps=1)
         * [One-Piece Swimsuits & Swim Dresses](https://www.venus.com/onsale.aspx?BRANCH=24~97~&ps=1)
