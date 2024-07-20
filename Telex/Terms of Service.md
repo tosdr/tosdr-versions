@@ -1,10 +1,10 @@
-Alajos, Leila
+Illés
 
 [belföld](https://telex.hu/rovat/belfold) [külföld](https://telex.hu/rovat/kulfold) [gazdaság](https://telex.hu/rovat/gazdasag) [videó](https://telex.hu/rovat/video) [élet](https://telex.hu/rovat/eletmod) [techtud](https://telex.hu/rovat/techtud) [after](https://telex.hu/after) [english](https://telex.hu/english)
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
 
-22°38°
+22°32°
 
 Menü
 
@@ -80,10 +80,10 @@ A Rendszeres támogatás a Támogató által bármikor egyoldalúan és indokol�
 |     |     |
 | --- | --- |
 | Cégnév | **Van Másik Zártkörűen Működő Részvénytársaság** |
-| székhely: | 1022 Budapest, Bég utca 1. 2/7. |
+| székhely: | 1085 Budapest, Rökk Szilárd utca 11. fsz. 1. |
 | szerkesztőség címe: | 1053 Budapest, Múzeum körút 13. 3. em. 1. |
 | cégjegyzékszám: | 01-10-142023 (Fővárosi Törvényszék) |
-| adószám: | 32073380-2-41 |
+| adószám: | 32073380-2-42 |
 | stat.számjel: | 32073380-6312-114-01 |
 | európai egyedi azonosító: | HUOCCSZ.01-10-142023 |
 | képviseli: | Kárpáti Márton, Kárpáti András, és Pusztay András János az igazgatóság tagjai önállóan |
