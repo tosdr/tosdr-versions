@@ -12,7 +12,7 @@ Veriff’s Cookie Notice
 
 Our Website and Services use cookies and similar technologies (together **'Cookies'**). Here you can find all the information about the Cookies we use and how we use them.
 
-Contact us at [legal@veriff.com](mailto:legal@veriff.com) if you have any comments, questions or concerns.
+Contact us at [privacy@veriff.com](mailto:privacy@veriff.com) if you have any comments, questions or concerns.
 
 1\. General
 -----------
@@ -151,7 +151,7 @@ English
 
 [Privacy notice](https://www.veriff.com/privacy-notice)
 
-[Cookie policy](https://www.veriff.com/cookie-policy)
+[Cookie notice](https://www.veriff.com/cookie-policy)
 
 [Bug bounty](https://www.veriff.com/bug-bounty)
 
