@@ -1,14 +1,14 @@
-[![Prism](//mobilligy-production-cdn.azureedge.net/images/logo_color_small@2x.png?v=2.9.2414.611)](https://prismapp.com/)
+[![Prism](//mobilligy-production-cdn.azureedge.net/images/logo_color_small@2x.png?v=2.9.2417.716)](https://prismapp.com/)
 
 [About](https://prismapp.com/about) [Help](https://prismapp.com/help) [Blog](http://medium.com/@PrismMoney) [Jobs](https://prismapp.com/jobs) [Get Started](#)
 
-![](//mobilligy-production-cdn.azureedge.net/images/getstarted_phone@2x.png?v=2.9.2414.611) 
+![](//mobilligy-production-cdn.azureedge.net/images/getstarted_phone@2x.png?v=2.9.2417.716) 
 
 [Send Text](#)
 
-![](//mobilligy-production-cdn.azureedge.net/images/getstarted_loading.gif?v=2.9.2414.611)
+![](//mobilligy-production-cdn.azureedge.net/images/getstarted_loading.gif?v=2.9.2417.716)
 
-[![](//mobilligy-production-cdn.azureedge.net/images/getstarted_close@2x.png?v=2.9.2414.611)](#)
+[![](//mobilligy-production-cdn.azureedge.net/images/getstarted_close@2x.png?v=2.9.2417.716)](#)
 
 Terms of Service
 ================
@@ -577,10 +577,10 @@ If you downloaded the App from Apple’s App Store, the following terms also app
 9. **Third Party Terms of Agreement.** You must comply with any applicable third-party terms when using the App.
 10. **Third Party Beneficiary.** You acknowledge and agree that Apple and Apple’s subsidiaries are third party beneficiaries of this Agreement, and that, upon your acceptance of the terms and conditions of the Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce the Agreement against you as a third party beneficiary thereof.
 
- [![Download Prism from App Store](//mobilligy-production-cdn.azureedge.net/images/iphone@2x.png?v=2.9.2414.611)](#)[![Download Prism from Google Play](//mobilligy-production-cdn.azureedge.net/images/android-v2@2x.png?v=2.9.2414.611)](#)[![Download Prism for Windows Phone](//mobilligy-production-cdn.azureedge.net/images/winphone@2x.png?v=2.9.2414.611)](#)[![Download Prism for Windows](//mobilligy-production-cdn.azureedge.net/images/windows@2x.png?v=2.9.2414.611)](#)[![Download Prism for Kindle](//mobilligy-production-cdn.azureedge.net/images/kindle@2x.png?v=2.9.2414.611)](#)
+ [![Download Prism from App Store](//mobilligy-production-cdn.azureedge.net/images/iphone@2x.png?v=2.9.2417.716)](#)[![Download Prism from Google Play](//mobilligy-production-cdn.azureedge.net/images/android-v2@2x.png?v=2.9.2417.716)](#)[![Download Prism for Windows Phone](//mobilligy-production-cdn.azureedge.net/images/winphone@2x.png?v=2.9.2417.716)](#)[![Download Prism for Windows](//mobilligy-production-cdn.azureedge.net/images/windows@2x.png?v=2.9.2417.716)](#)[![Download Prism for Kindle](//mobilligy-production-cdn.azureedge.net/images/kindle@2x.png?v=2.9.2417.716)](#)
 
 © 2024 BillGO, Inc.
 
 [About BillGO](https://www.billgo.com/about) [Security](https://prismapp.com/about/security) [Terms](https://prismapp.com/about/terms) [Privacy](https://prismapp.com/about/privacy) [Billers](https://prismapp.com/directory) [Legal](https://prismapp.com/about/legal) [Contact](https://prismapp.com/about/contact-us) [Licenses](https://prismapp.com/about/licenses)
 
- [![Like Prism on Facebook](//mobilligy-production-cdn.azureedge.net/images/facebook@2x.png?v=2.9.2414.611)](http://www.facebook.com/prismmoney "Like Prism on Facebook")[![Follow Prism on Twitter](//mobilligy-production-cdn.azureedge.net/images/twitter@2x.png?v=2.9.2414.611)](http://twitter.com/prismmoney "Follow Prism on Twitter")
+ [![Like Prism on Facebook](//mobilligy-production-cdn.azureedge.net/images/facebook@2x.png?v=2.9.2417.716)](http://www.facebook.com/prismmoney "Like Prism on Facebook")[![Follow Prism on Twitter](//mobilligy-production-cdn.azureedge.net/images/twitter@2x.png?v=2.9.2417.716)](http://twitter.com/prismmoney "Follow Prism on Twitter")
