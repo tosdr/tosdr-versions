@@ -1,12 +1,12 @@
 [](https://voice.ai/)
 
-[AI Voice Changer](https://voice.ai/ai-voice-changer) [Soundboard](https://voice.ai/soundboard) [Supported Apps](https://voice.ai/apps) [Platforms](https://voice.ai/platforms) [Support](https://support.voice.ai/hc/en-us) [Online Tools](https://voice.ai/tools/)
+[AI Voice Changer](https://voice.ai/ai-voice-changer) [Soundboard](https://voice.ai/soundboard) [AI Voices](https://voice.ai/ai-voice) [Supported Apps](https://voice.ai/apps) [Platforms](https://voice.ai/platforms) [Online Tools](https://voice.ai/tools/)
 
 Pro
 
 Online Tools Voice Universe Account Logout
 
-[](https://voice.ai/)The Most Powerful AI Voice Changer Get Started for Free AI Voice Changer Soundboard Apps Platforms Soundboard Support Online Tools Voice Universe Account Log out Sign up
+[](https://voice.ai/)The Most Powerful AI Voice Changer Get Started for Free AI Voice Changer Soundboard AI Voices Apps Platforms Soundboard Support Online Tools Voice Universe Account Log out Sign up
 
 Already user? [Login now](https://voice.ai/login)
 
@@ -43,6 +43,6 @@ Affiliate Partner Resource Hub FAQ Is it safe? Terms of Service Privacy Policy R
 
 Online Voice Changer Online Vocal Remover Online Echo Remover AI Stem Splitter Song & Key BPM Finder Online Reverb Remover Online Audio Converter © 2024 Voice AI. All rights reserved.#### Not available on {{ unsupportedSystemName }}
 
-[Try on Web](https://voice.ai/tools#register) or Download installer anyway.
+[Try on Web](https://voice.ai/tools/#register) or Download installer anyway.
 
  ![voice.ai](/img/static/logo-new.svg)
