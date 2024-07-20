@@ -1,6 +1,6 @@
 [](https://wuolah.com/)
 
-[Para empresas](https://brands.wuolah.com/?utm_source=wuolah&utm_medium=intralink&utm_campaign=nav-static)
+[Para empresas](https://wuolah.com/brands/?utm_source=wuolah&utm_medium=intralink&utm_campaign=nav-static)
 
 login
 
