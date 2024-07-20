@@ -203,17 +203,17 @@ Truyo is an Intel® Market Ready Solution.
 
 **RESOURCES**
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-06-13T10:10:58-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-17T15:07:08-07:00
 
-#### [New Data Privacy Laws in Minnesota and Vermont & an APRA Update](https://truyo.com/blog/new-data-privacy-laws-and-apra-update/)
+#### [Navigating AI Governance: Insights from Peloton’s Privacy Lawsuit](https://truyo.com/blog/navigating-ai-governance-insights-from-pelotons-privacy-lawsuit/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-06-13T10:07:02-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-17T14:55:08-07:00
 
-#### [China’s Proposed AI Law and the EU AI Act: An Analysis of International AI Regulations](https://truyo.com/blog/comparing-the-eu-ai-act-and-china-mail-draft/)
+#### [Understanding Minnesota’s New Data Privacy Law: A Guide for Businesses](https://truyo.com/blog/understanding-minnesotas-new-data-privacy-law-a-guide-for-businesses-mcdpa/)
 
-[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-06-06T09:41:51-07:00
+[Ale Johnson](https://truyo.com/author/ajohnson/ "Posts by Ale Johnson")2024-07-11T10:05:17-07:00
 
-#### [ChatGPT and GDPR: Navigating Regulatory Challenges](https://truyo.com/blog/chatgpt-and-gdpr-navigating-regulatory-challenges/)
+#### [Utah’s Office of Artificial Intelligence: Pioneering State-Level AI Governance](https://truyo.com/blog/utahs-office-of-artificial-intelligence-pioneering-state-level-ai-governance/)
 
 [contact](https://truyocom.wpenginepowered.com/contact/)
 
