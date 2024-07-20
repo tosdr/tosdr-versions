@@ -55,24 +55,25 @@ Site search input
         * [Classroom Activities](https://www.teachervision.com/lesson-planning/activity)
         * [Classroom Forms](https://www.teachervision.com/lesson-planning/form-chart)
         * [Classroom Passes & Notes](https://www.teachervision.com/lesson-planning/classroom-pass-note)
-    * * [Games](https://www.teachervision.com/lesson-planning/game)
-        * [Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
+    * * [Daily Warm-Ups](https://www.teachervision.com/lesson-planning/daily-warm-ups)
+        * [Games](https://www.teachervision.com/lesson-planning/game)
+        * [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
         * [Graphs & Charts](https://www.teachervision.com/lesson-planning/graph-chart-teacher-resources)
         * [Lesson Plans](https://www.teachervision.com/lesson-planning/lesson)
         * [Literature Guides](https://www.teachervision.com/lesson-planning/literature-guide)
         * [Mini-Lessons](https://www.teachervision.com/lesson-planning/mini-lesson)
-        * [Project-based Learning](https://www.teachervision.com/lesson-planning/futurefit-projects)
-    * * [Rubrics](https://www.teachervision.com/lesson-planning/rubric)
+    * * [Project-based Learning](https://www.teachervision.com/lesson-planning/futurefit-projects)
+        * [Rubrics](https://www.teachervision.com/lesson-planning/rubric)
         * [Themed Packets](https://www.teachervision.com/lesson-planning/themed-packet)
         * [Videos & Activities](https://www.teachervision.com/lesson-planning/video)
-        * [Worksheets](https://www.teachervision.com/classroom-management/printable/6391.html)
+        * [Worksheets](https://www.teachervision.com/lesson-planning/worksheet)
         * [Educator's Calendar](https://www.teachervision.com/calendar/holidays-and-seasonal-events)
     
 * [Strategies](https://www.teachervision.com/teaching-strategies)
     
     * * [Assessment](https://www.teachervision.com/teaching-strategies/assessment)
         * [Behavior Management](https://www.teachervision.com/teaching-strategies/behavior-management)
-        * [Classroom Management](https://www.teachervision.com/classroom-management/resource/5776.html)
+        * [Classroom Management](https://www.teachervision.com/teaching-strategies/classroom-management)
         * [Classroom Organization](https://www.teachervision.com/teaching-strategies/classroom-organization)
         * [Educational Technology](https://www.teachervision.com/teaching-strategies/educational-technology)
     * * [English-Language Learners](https://www.teachervision.com/teaching-strategies/english-language-learners)
@@ -341,7 +342,7 @@ Easy to implement.
 
 ADVERTISEMENT |  [REMOVE ADS](https://www.teachervision.com/user/register?destination=/select-plan)
 
-[Register](https://www.teachervision.com/user/register?destination=/teachervision-privacy-policy)
+[Register](https://www.teachervision.com/upgrade-premium?destination=/teachervision-privacy-policy)
 
 Search our growing library of professionally created teacher resources.
 
