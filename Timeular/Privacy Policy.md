@@ -2,141 +2,117 @@
 
 [](https://timeular.com/ "Track, understand and improve how you work.")
 
-[Book a demo](https://timeular.com/demo/) [Try for free](https://app.timeular.com/#/register)
+[Book demo](https://timeular.com/demo/) [Try for free](https://app.timeular.com/#/register)
 
-* Product
+* Features
     
-    Product
+    Key features
     
     * [How it works
         
-        See how to get started with Timeular](https://timeular.com/how-it-works/)
+        Uncover all features](https://timeular.com/how-it-works/)
+    * [Automated time tracker
+        
+        Create automatic timesheets](https://timeular.com/automated-time-tracking/)
+    * [PTO tracker
+        
+        Track all types of leaves](https://timeular.com/leave-tracker/)
+    * [Physical time tracker
+        
+        Track time with the Tracker](https://timeular.com/tracker/)
+    * [Billable hours tracker
+        
+        Bill hours accurately](https://timeular.com/bill-accurately/)
+    * [Productivity tracker
+        
+        Get productivity insights](https://timeular.com/productivity-tracker/)
+    
+    Product
+    
+    * [Integrations and API
+        
+        Connect Timeular to your favourite tools](https://timeular.com/integrations-and-api/)
     * [Changelog
         
         See what’s new in the Timeular app](https://timeular.com/changelog/)
-    * [Demo
+    * [Support center
         
-        Schedule a live demo and see how Timeular fits your team](https://timeular.com/demo/)
+        Get instant support with our comprehensive guides](https://support.timeular.com/en/)
     
-    Top features
+    More features
     
-    [See all](https://timeular.com/how-it-works/)
-    
-    * [Tracking time
-        
-        Make time tracking easy for your team](https://timeular.com/time-tracking/)
-    * [Automated time tracking
-        
-        Fill in your time sheets automatically based on app usage](https://timeular.com/automated-time-tracking/)
-    * [Leave tracking
-        
-        Easily manage all types of employee time off in one place](https://timeular.com/leave-tracker/)
-    * [Billable hours tracking
-        
-        Make sure every billable hour is invoiced](https://timeular.com/bill-accurately/)
-    * [Time reporting
-        
-        Create accurate and transparent reports](https://timeular.com/time-reporting-system/)
-    * [Budgeting
-        
-        Plan your projects and make sure they are profitable](https://timeular.com/budgets/)
-    * [Integrations
-        
-        Connect Timeular with your favorite tools](https://timeular.com/integrations-and-api/)
-    
-    Success stories
-    
-    [See all](https://timeular.com/success-stories/)
-    
-    > “The precise reports are key in getting client approval and long-term trust”
-    
-    Felix, Founder of 22Grad Marketing Agency
-    
-    [Read 22Grad story](https://timeular.com/success-stories/how-a-marketing-agency-increased-the-roi-of-projects-and-meetings/)
+    * [AI time tracker](https://timeular.com/ai-time-tracker/)
+    * [Overtime tracker](https://timeular.com/overtime-tracker/)
+    * [Payroll time tracker](https://timeular.com/payroll-tracker/)
+    * [Project time tracking](https://timeular.com/project-time-tracker/)
+    * [Work hours tracker](https://timeular.com/work-hours-tracker/)
+    * [Time entry system](https://timeular.com/time-entry-system/)
+    * [Time reporting system](https://timeular.com/time-reporting-system/)
+    * [Timer app](https://timeular.com/timer-app/)
+    * [Timesheet app](https://timeular.com/timesheet-app/)
     
 * Solutions
     
-    Use cases
+    Industry
     
-    [See all](https://timeular.com/use-case/)
-    
-    * [Increase billable hours
+    * [Enterprise time tracking
         
-        Increase profitability with billable time tracking](https://timeular.com/bill-accurately/)
-    * [Improve productivity
+        Tailor time tracking to your unique business needs](https://timeular.com/enterprise-time-tracking/)
+    * [Team time tracking
         
-        Help your team focus on the things that matter most](https://timeular.com/use-case/improve-productivity/)
-    * [Transparent reporting
+        Save time on chasing timesheets once and for all](https://timeular.com/timeular-for-teams/)
+    * [Agency time tracking
         
-        Create and share accurate reports with ease](https://timeular.com/use-case/transparent-reporting/)
+        Maximize time spent on billable work to increase ROI](https://timeular.com/timeular-for-teams/marketing-agencies/)
     
-    Timeular for teams
+    Download apps
     
-    * [Team time tracking](https://timeular.com/timeular-for-teams/)
-    * [Software houses](https://timeular.com/timeular-for-teams/software-houses/)
-    * [Marketing agencies](https://timeular.com/timeular-for-teams/marketing-agencies/)
-    * [Lawyers](https://timeular.com/timeular-for-teams/lawyers/)
+    * [Windows time tracker](https://timeular.com/time-tracking-windows/)
+    * [Mac time tracker](https://timeular.com/time-tracking-mac/)
+    * [Download mobile apps](https://timeular.com/download/)
     
-    Team size
+    Success Stories
     
-    * [Startups
-        
-        Make sure every hour is spent on things that matter to your business.](https://timeular.com/timeular-for-teams/startups/)
-    * [SMB
-        
-        Maximize time spent on billable work and increase team productivity.](https://timeular.com/timeular-for-teams/smb/)
-    * [Enterprise
-        
-        Create reporting transparency across different departments.](https://timeular.com/timeular-for-teams/enterprise/)
+    [See all](https://timeular.com/success-stories/)
     
-    [Schedule a live demo
+    [How an agency increases their revenue by 25% with Timeular](https://timeular.com/success-stories/agency-increases-revenue-with-timeular/)
     
-    See how Timeular fits your team](https://timeular.com/demo/)
+    [How an IT Team saves 10 hours a week thanks to Timeular](https://timeular.com/success-stories/it/team-saves-10-hours-a-week/)
     
-* Learn
+    [How an IT consultancy became 20% more profitable by using Timeular](https://timeular.com/success-stories/it/how-a-it-consultancy-became-20-more-profitable-by-using-timeular/)
     
-    Getting started
+* Resources
     
-    * [Why track time?
-        
-        Learn how time tracking can help you and your team](https://timeular.com/not-convinced/)
-    * [Productivity tools
-        
-        Simplify your workday with ready to use resources](https://timeular.com/resources/)
-    * [Onboarding videos
-        
-        Watch short videos on how to set up Timeular](https://timeular.com/onboarding-videos/)
-    * [Success stories
-        
-        Learn how others improved productivity & billing](https://timeular.com/success-stories/)
+    Free tools
     
-    Tips & support
+    * [Time Card Calculator](https://timeular.com/calculators/time-card-calculator/)
+    * [Margin Calculator](https://timeular.com/calculators/margin-calculator/)
+    * [Markup Calculator](https://timeular.com/calculators/markup-calculator-free/)
+    * [Overtime Calculator](https://timeular.com/calculators/overtime-calculator/)
+    * [Pomodoro Timer](https://timeular.com/free-pomodoro-timer/)
     
-    [See all](https://timeular.com/best-practises-and-help/)
+    Templates
     
-    * [Help center
-        
-        Get instant support with our comprehensive guides](https://timeular.com/best-practises-and-help/)
-    * [Get in touch
-        
-        Get all your questions answered by our support team](javascript:Intercom('show'))
+    * [Timesheet template](https://timeular.com/timesheets-templates/)
+    * [Billable hours chart](https://timeular.com/billable-hours-chart-templates/)
+    * [Time blocking template](https://timeular.com/time-blocking-templates/)
+    * [Schedule template](https://timeular.com/free-schedule-templates/)
+    * [Project task tracker template](https://timeular.com/project-task-tracker-template/)
     
-    From our blog
+    Blog
     
-    [See all](https://timeular.com/blog/)
+    [Go to blog](https://timeular.com/blog/)
     
-    [Team Effectiveness Models: Your Guide for 2024](https://timeular.com/blog/team-effectiveness/)
+    [10 Proven Time Management Strategies \[With Real-Life Examples\]](https://timeular.com/blog/time-management-strategies/)
     
-    [Why Is Time Management Important And How To Master It](https://timeular.com/blog/why-is-time-management-important/)
+    [The Best Small Business Tools in 2024](https://timeular.com/blog/best-small-business-tools/)
     
-    [22 Best Productivity Blogs You Need to Follow in 2024](https://timeular.com/blog/the-six-best-productivity-blogs-you-need-to-follow/)
-    
-    [10 Best Developer Productivity Tools for Efficient Work](https://timeular.com/blog/best-developer-productivity-tools/)
+    [The Timesheet Meme Collection You Didn’t Know You Needed \[30+ memes\]](https://timeular.com/blog/timesheet-meme/)
     
 * [Pricing](https://timeular.com/pricing/)
-* [Tracker](https://timeular.com/tracker/)
+* [Enterprise](https://timeular.com/enterprise-time-tracking/)
 
-* [Book a demo](https://timeular.com/demo/)
+* [Book demo](https://timeular.com/demo/)
 * [Try for free](https://app.timeular.com/#/register)
 
 PRIVACY POLICY
@@ -225,6 +201,7 @@ Top use cases
 * [Leave Tracker](https://timeular.com/leave-tracker/)
 * [Overtime Tracker](https://timeular.com/overtime-tracker/)
 * [Team Time Tracking](https://timeular.com/timeular-for-teams/)
+* [Freelance Time Tracking](https://timeular.com/freelance-time-tracking/)
 
 Resources
 
