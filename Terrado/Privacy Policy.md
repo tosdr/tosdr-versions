@@ -15,7 +15,7 @@ Main Menu
     
     Our climate fellowship is 12-week intensive program covering climate science, impacts, and solutions, designed to get to working on climate.
     
-    * **Applications close on July 12, 2024**
+    * **Applications close on August 23, 2024**
         
     
     Apply now
@@ -45,14 +45,14 @@ Main Menu
     
     ##### SOLUTIONS-BASED COURSES
     
-    * [Software for Climate](https://www.terra.do/climate-change-courses/software-for-climate/)
+    * [Collaborative Negotiation for Climate Action ENROLLMENTS CLOSING SOON](https://www.terra.do/climate-change-courses/collaborative-negotiation-climate-action/)
+    * [Sustainable Personal Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
     * [Digital Product Decarbonization](https://www.terra.do/climate-change-courses/climate-efficient-digital-product-management/)
-    * [Mastering Carbon Markets](https://www.terra.do/climate-change-courses/mastering-carbon-markets/)
-    * [Collaborative Negotiation for Climate Action](https://www.terra.do/climate-change-courses/collaborative-negotiation-climate-action/)
-    * [Finance Decarbonization](https://www.terra.do/climate-change-courses/finance-decarbonization/)
     * [Supply Chain Decarbonization](https://www.terra.do/climate-change-courses/supply-chain-decarbonization/)
+    * [Software for Climate](https://www.terra.do/climate-change-courses/software-for-climate/)
     * [Carbon Removal Technologies and Risks](https://www.terra.do/climate-change-courses/carbon-removal-technologies-risks/)
     * [Climate Farm School ON FARM](https://www.terra.do/climate-change-courses/climate-farm-school-regenerative-agriculture/)
+    * [Mastering Carbon Markets](https://www.terra.do/climate-change-courses/mastering-carbon-markets/)
     * [Angel Investing in Climate Tech](https://www.terra.do/climate-change-courses/angel-investing-in-climate-tech/)
     * [Energy Decarbonization Pathways and Tools](https://www.terra.do/climate-change-courses/clean-energy-transitions-101/)
     * [Soil Health and Regenerative Farming](https://www.terra.do/climate-change-courses/soil-health-and-regenerative-farming/)
@@ -61,21 +61,14 @@ Main Menu
     
     ##### CORPORATE CLIMATE COURSES
     
-    ### [Corporate Sustainability Leadership Accelerator](https://www.terra.do/climate-change-courses/corporate-sustainability-leadership-accelerator/)
-    
-    ### [Climate Innovation in Corporations](https://www.terra.do/climate-change-courses/climate-innovation-in-corporations/)
-    
-    ### [Leveraging Data and AI in Sustainability](https://www.terra.do/climate-change-courses/leveraging-data-and-ai-in-sustainability/)
-    
-    ### [Climate Action for Organizations  FOR TEAMS](https://www.terra.do/climate-change-courses/climate-action-for-organizations/)
-    
-    ### [Advocating for Climate Policy in the Workplace](https://www.terra.do/climate-change-courses/advocating-for-climate-policy-in-the-workplace/)
-    
-    ### [Carbon Accounting and Reduction](https://www.terra.do/climate-change-courses/carbon-accounting-and-reduction/)
-    
-    ### [Corporate Climate Reporting Standards and Regulations](https://www.terra.do/climate-change-courses/corporate-climate-reporting-standards-and-regulations/)
-    
-    ### [ESG Essentials for Business Professionals](https://www.terra.do/climate-change-courses/esg-fundamentals/)
+    * [Carbon Accounting and Reduction ​](https://www.terra.do/climate-change-courses/carbon-accounting-and-reduction/)
+    * [Leveraging Data and AI in Sustainability ​](https://www.terra.do/climate-change-courses/leveraging-data-and-ai-in-sustainability/)
+    * [Climate Innovation in Corporations​](https://www.terra.do/climate-change-courses/climate-innovation-in-corporations/)
+    * [Corporate Sustainability Leadership Accelerator](https://www.terra.do/climate-change-courses/corporate-sustainability-leadership-accelerator/)
+    * [Climate Action for Organizations  FOR TEAMS](https://www.terra.do/climate-change-courses/climate-action-for-organizations/)
+    * [Advocating for Climate Policy in the Workplace](https://www.terra.do/climate-change-courses/advocating-for-climate-policy-in-the-workplace/)
+    * [Corporate Climate Reporting Standards and Regulations](https://www.terra.do/climate-change-courses/corporate-climate-reporting-standards-and-regulations/)
+    * [ESG Essentials for Business Professionals](https://www.terra.do/climate-change-courses/esg-fundamentals/)
     
     [See all corporate courses](https://www.terra.do/climate-change-courses/#corporate-action)
     
@@ -101,6 +94,13 @@ Main Menu
     Get expert insights, inspiring stories, and actionable tips in your inbox.
     
     [Subscribe](https://www.terra.do/#newsletter)
+    
+    Climate Events
+    --------------
+    
+    Join live climate events every week, and watch past events on demand.
+    
+    [Browse events](https://app.terra.do/app/events/upcoming)
     
 * [About](https://www.terra.do/about/)
     
@@ -324,7 +324,7 @@ Join our mission of getting 100 million people to work directly on climate in th
 #### Community
 
 * [Climate events](https://app.terra.do/events)
-* [#OpenDoorClimate](https://terra.do/opendoor-climate-community/)
+* [Terra Grow](https://terra.do/grow/)
 * [Meet Terra.do alumni](https://terra.do/meet-terra-do-alumni/)
 
 #### More from Terra.do
@@ -334,26 +334,26 @@ Join our mission of getting 100 million people to work directly on climate in th
 
 #### Solutions-based courses
 
-* [Software for Climate](https://terra.do/climate-change-courses/software-for-climate/)
-* [Digital Product Decarbonization](https://terra.do/climate-change-courses/climate-efficient-digital-product-management/)
-* [Mastering Carbon Markets](https://www.terra.do/climate-change-courses/mastering-carbon-markets/)
 * [Collaborative Negotiation for Climate Action](https://www.terra.do/climate-change-courses/collaborative-negotiation-climate-action/)
-* [Finance Decarbonization](https://www.terra.do/climate-change-courses/finance-decarbonization/)
+* [Sustainable Personal Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
+* [Digital Product Decarbonization](https://terra.do/climate-change-courses/climate-efficient-digital-product-management/)
 * [Supply Chain Decarbonization](https://terra.do/climate-change-courses/supply-chain-decarbonization/)
+* [Software for Climate](https://terra.do/climate-change-courses/software-for-climate/)
 * [Carbon Removal Technologies and Risks](https://terra.do/climate-change-courses/carbon-removal-technologies-risks/)
 * [Climate Farm School](https://terra.do/climate-change-courses/climate-farm-school-regenerative-agriculture/)
+* [Mastering Carbon Markets](https://www.terra.do/climate-change-courses/mastering-carbon-markets/)
 * [Angel Investing in Climate Tech](https://terra.do/climate-change-courses/angel-investing-in-climate-tech/)
 * [Energy Decarbonization Pathways and Tools](https://terra.do/climate-change-courses/clean-energy-transitions-101/)
 * [Soil Health and Regenerative Farming](https://terra.do/climate-change-courses/soil-health-and-regenerative-farming/)
 
 #### Corporate climate courses
 
-* [Corporate Sustainability Leadership Accelerator](https://www.terra.do/climate-change-courses/corporate-sustainability-leadership-accelerator/)
-* [Climate Innovation in Corporation](https://terra.do/climate-change-courses/climate-innovation-in-corporations/)
-* [Leveraging Data and AI in Sustainability](https://www.terra.do/climate-change-courses/leveraging-data-and-ai-in-sustainability/)
-* [Climate Learning for Organizations](https://terra.do/climate-change-courses/climate-action-for-organizations/)
-* [Advocating for Climate Policy in the Workplace](https://www.terra.do/climate-change-courses/advocating-for-climate-policy-in-the-workplace/)
 * [Carbon Accounting and Reduction](https://terra.do/climate-change-courses/carbon-accounting-and-reduction/)
+* [Leveraging Data and AI in Sustainability](https://www.terra.do/climate-change-courses/leveraging-data-and-ai-in-sustainability/)
+* [Climate Innovation in Corporation](https://terra.do/climate-change-courses/climate-innovation-in-corporations/)
+* [Corporate Sustainability Leadership Accelerator](https://www.terra.do/climate-change-courses/corporate-sustainability-leadership-accelerator/)
+* [Climate Action for Organizations](https://terra.do/climate-change-courses/climate-action-for-organizations/)
+* [Advocating for Climate Policy in the Workplace](https://www.terra.do/climate-change-courses/advocating-for-climate-policy-in-the-workplace/)
 * [Corporate Climate Reporting Standards and Regulations](https://terra.do/climate-change-courses/corporate-climate-reporting-standards-and-regulations/)
 * [ESG Essentials for Business Professionals](https://terra.do/climate-change-courses/esg-fundamentals/)
 
