@@ -91,8 +91,6 @@ Primary Navigation
         * [Mitigation assistance](https://www.sba.gov/funding-programs/disaster-assistance/mitigation-assistance)
         * [Economic Injury Disaster Loans](https://www.sba.gov/funding-programs/disaster-assistance/economic-injury-disaster-loans)
         * [Military reservist loan](https://www.sba.gov/funding-programs/disaster-assistance/military-reservist-loan)
-        * [Hawaii wildfires](https://www.sba.gov/hawaii-wildfires)
-        * [Hurricane Idalia](https://www.sba.gov/hurricane-idalia)
     * [Surety bonds](https://www.sba.gov/funding-programs/surety-bonds)
     * [Grants](https://www.sba.gov/funding-programs/grants)
         * [State Trade Expansion Program (STEP)](https://www.sba.gov/funding-programs/grants/state-trade-expansion-program-step)
@@ -138,6 +136,7 @@ Primary Navigation
         * [Home repair and construction](https://www.sba.gov/sba-learning-platform/investing-america/home-repair-construction)
         * [Government contracting and sub-contracting](https://www.sba.gov/sba-learning-platform/investing-america/government-contracting-subcontracting)
         * [Manufacturing](https://www.sba.gov/sba-learning-platform/investing-america/manufacturing)
+        * [Rural and agricultural small businesses](https://www.sba.gov/sba-learning-platform/investing-america/rural-and-agricultural-small-businesses)
         * [Investing in America featured stories](https://www.sba.gov/sba-learning-platform/investing-america/investing-america-featured-stories)
     
 * Local Assistance
@@ -176,6 +175,7 @@ Primary Navigation
         * [SBA guidance](https://www.sba.gov/about-sba/open-government/sba-guidance)
         * [AI inventory](https://www.sba.gov/about-sba/open-government/ai-inventory)
         * [Made in America waivers](https://www.sba.gov/about-sba/open-government/made-america-waivers)
+        * [SMS terms and conditions](https://www.sba.gov/about-sba/open-government/sms-terms-conditions)
     * [SBA Newsroom](https://www.sba.gov/about-sba/sba-newsroom)
     * [Work for SBA](https://www.sba.gov/about-sba/work-sba)
         * [Employee life](https://www.sba.gov/about-sba/work-sba/employee-life)
@@ -202,6 +202,7 @@ Primary Navigation
 * [Newsroom](https://www.sba.gov/about-sba/sba-newsroom)
 * [Contact us](https://www.sba.gov/about-sba/organization/contact-sba)
 * [Other languages](https://www.sba.gov/about-sba/information-other-languages)
+* [Vote.gov](https://www.vote.gov/)
 
 Search  ![Search](/themes/custom/sba/dist/uswds/img/usa-icons-bg/search--white.svg)
 
@@ -236,6 +237,7 @@ Section navigation
     * [SBA guidance](https://www.sba.gov/about-sba/open-government/sba-guidance)
     * [AI inventory](https://www.sba.gov/about-sba/open-government/ai-inventory)
     * [Made in America waivers](https://www.sba.gov/about-sba/open-government/made-america-waivers)
+    * [SMS terms and conditions](https://www.sba.gov/about-sba/open-government/sms-terms-conditions)
 * [SBA Newsroom](https://www.sba.gov/about-sba/sba-newsroom)
 * [Work for SBA](https://www.sba.gov/about-sba/work-sba)
 * [Organization](https://www.sba.gov/about-sba/organization)
