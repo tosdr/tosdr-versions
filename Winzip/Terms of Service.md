@@ -306,6 +306,6 @@ Follow setup instructions to finish installation
 
 ![](/static/wz/images/downloadhelper/test/step3.jpg)
 
-If your download did not start automatically, please [click here](https://download.winzip.com/gl/nkln/winzip28-pp.exe "Start download")
+If your download did not start automatically, please [click here](https://download.winzip.com/gl/nkln/winzip76-pp.exe "Start download")
 
 If your download did not start automatically, please [click here](https://download.winzip.com/gl/gad/winzip28.exe "Start download")
