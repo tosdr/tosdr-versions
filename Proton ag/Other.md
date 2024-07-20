@@ -158,53 +158,54 @@ We are scientists, engineers, and specialists from around the world drawn togeth
 Related articles
 ----------------
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718887675/wp-pme/proton_gets_iso_certificate/proton_gets_iso_certificate.?_i=AA)
+![proton scribe](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1721302707/wp-pme/proton-scribe-blog-text2x/proton-scribe-blog-text2x.?_i=AA)
 
 * Proton news
 
-[Proton receives ISO 27001 certification](https://protonmail.com/blog/iso-27001-certification)
+[Introducing Proton Scribe, a private writing assistant that writes and proofreads emails for you](https://protonmail.com/blog/proton-scribe-writing-assistant)
 
-Proton prioritizes our community’s privacy and data security in every aspect of our business.  To further demonstrate our commitment, we underwent a rigorous external audit and – on May 2, 2024 – received our ISO 27001 certification.  As an organiz
+Most of us send emails every day. Finding the right words and tone, however, can take up a lot of time. Today we’re introducing Proton Scribe, a smart, privacy-first writing assistant built right into Proton Mail that helps you compose and improve yo
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718817375/wp-pme/drive-ios-photo-backup/drive-ios-photo-backup.?_i=AA)
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1720813476/wp-pme/what_is_data_sovereignty_blog_cover/what_is_data_sovereignty_blog_cover.?_i=AA)
 
-* Proton Drive
+* For business
 
-[Proton Drive’s photo backup comes to iOS – Now everyone can protect their memories](https://protonmail.com/blog/proton-drive-photo-backup-ios)
+[What is data sovereignty and why does it matter for your business?](https://protonmail.com/blog/data-sovereignty)
 
-Anyone with an iPhone can now enjoy Proton Drive’s secure and private photo backup capabilities. This feature is gradually rolling out to the Proton community and will be available to everyone by the end of this week. Smartphones have made us all am
+People and companies are generally subject to the laws of the country and city where they are located, and those laws can change when they move to a new place. However, the situation becomes more complicated when considering data, which can be subjec
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718618908/wp-pme/proton-foundation/proton-foundation.png?_i=AA)
-
-* Proton news
-
-[Proton is transitioning towards a non-profit structure](https://protonmail.com/blog/proton-non-profit-foundation)
-
-From the very beginning, Proton has always been a different type of organization. This was probably evident from the way in which we got started via a public crowdfunding campaign that saw 10,000 people donate over $500,000 to launch development. As
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718410500/wp-pme/how_to_protect_personal_information_onlline_blog_cover2x/how_to_protect_personal_information_onlline_blog_cover2x.?_i=AA)
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1720637802/wp-pme/google_docs_scrape_data_for_ai_training/google_docs_scrape_data_for_ai_training.?_i=AA)
 
 * Privacy guides
 
-[13 ways to protect your personal information online](https://protonmail.com/blog/how-to-protect-personal-information-online)
+[Is your data safe from Google Docs AI scraping?](https://protonmail.com/blog/google-docs-ai-scraping)
 
-Your online data is valuable. While it might feel like you’re browsing the web for free, you’re actually paying marketing companies with your personal information. Often, even when you pay for services, these companies still collect and profit from y
+Your online data is no longer just used for ads but also for training AI. Google uses publicly available information to train its AI models, raising concerns over whether AI is even compatible with data protection laws. People are worried companies
 
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718410162/wp-pme/what_is_a_password_spraying_attack_blog_cover2x/what_is_a_password_spraying_attack_blog_cover2x.?_i=AA)
-
-* Privacy guides
-
-[What is a password spraying attack?](https://protonmail.com/blog/password-spraying-attack)
-
-Password spraying attacks pose a major risk to individuals and organizations as a method to breach network security by trying commonly used passwords across numerous accounts. This article explores password spraying attacks, explaining their methods
-
-![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1718409051/wp-pme/how_to_autogenerate_passwords_blog_cover2x/how_to_autogenerate_passwords_blog_cover2x.?_i=AA)
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1720554238/wp-pme/how_to_find_saved_passwords_on_iphone/how_to_find_saved_passwords_on_iphone.?_i=AA)
 
 * Privacy guides
 
-[How to auto-generate passwords that are actually secure](https://protonmail.com/blog/auto-generate-password)
+[How to manage passwords on iPhone and improve your security](https://protonmail.com/blog/find-delete-passwords-on-iphone)
 
-A secure password is your first defense against unauthorized access to your personal information. While there are tools that generate strong passwords, remembering these complex combinations can become a challenge. Even if you use mnemonic devices,
+iPhone stores passwords in iCloud Keychain, Apple’s built-in password manager. It’s convenient but has some drawbacks. A major issue is that it doesn’t work well with other platforms, making it hard for Apple users to use their passwords and passkeys
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1720551625/wp-pme/pass-secure-link/pass-secure-link.?_i=AA)
+
+* Product updates
+* Proton Pass
+
+[Proton Pass launches Secure Links for safe, convenient password sharing](https://protonmail.com/blog/pass-secure-link-sharing)
+
+There are many reasons you may need to share passwords, bank details, and other highly sensitive information. But we noticed that many people do this via messaging apps or other methods that put your data at risk. In response to the needs of our com
+
+![](https://res.cloudinary.com/dbulfrlrz/images/f_auto,q_auto/v1720358126/wp-pme/ai-privacy-is-possible/ai-privacy-is-possible.?_i=AA)
+
+* Privacy news
+
+[How to build privacy-protecting AI](https://protonmail.com/blog/how-to-build-privacy-first-ai)
+
+Large language models (LLMs) trained on public datasets can serve a wide range of purposes, from composing blog posts to programming. However, their true potential lies in contextualization, achieved by either fine-tuning the model or enriching its p
 
 ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1693233221/static/logos/proton-logo-p_kftwpv.svg)
 
