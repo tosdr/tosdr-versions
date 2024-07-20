@@ -1,4 +1,4 @@
-[![Home Real-Debrid](https://fcdn.real-debrid.com/0822/images/logo.png)](https://real-debrid.com/)
+[![Home Real-Debrid](https://fcdn.real-debrid.com/0830/images/logo.png)](https://real-debrid.com/)
 
 * [Home](https://real-debrid.com/)
 * [Help](https://real-debrid.com/support)
@@ -40,8 +40,8 @@ The User acknowledges that he will not try to stop our services by any possible 
 
 If our website was inaccessible over a period of more than 10 minutes per week then we will ensure that the User will be compensated for the time he wasn't able to use his account properly by adding the downtime period to his remaining subscription time. This period must be justified by an external monitoring service having no link with the User and no link with our company with a minimum of two different locations if the User seems to be the only one impacted. User account can be fully refunded if it has not been used up to 7 days after the payment, the use of the account (even minimal) canceling any possibility of refund.
 
-Language: [**![English (US)](https://fcdn.real-debrid.com/0822/images/flags/en.gif) English (US)**](#) [...](https://real-debrid.com/ajax/lang.php)
+Language: [**![English (US)](https://fcdn.real-debrid.com/0830/images/flags/en.gif) English (US)**](#) [...](https://real-debrid.com/ajax/lang.php)
 
-© 2009-2024 Real-Debrid, All Rights Reserved - [Privacy Policy](https://real-debrid.com/privacy) - [Legal](https://real-debrid.com/legal) - [Terms Of Services](https://real-debrid.com/terms)B1 (624.29ms)
+© 2009-2024 Real-Debrid, All Rights Reserved - [Privacy Policy](https://real-debrid.com/privacy) - [Legal](https://real-debrid.com/legal) - [Terms Of Services](https://real-debrid.com/terms)B3 (57.68ms)
 
 [](http://twitter.com/RealDebrid)[](http://www.facebook.com/realdeb)
