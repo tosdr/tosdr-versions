@@ -5,13 +5,13 @@ JavaScript is required for full functionality of this site. [Learn how to enable
 Privacy Notice for Square Sellers and Website Visitors
 ======================================================
 
-Effective Date: December 21, 2023
+Effective Date: July 1, 2024
 
 This Privacy Notice describes how your Square entity as indicated below (“Square,” “we” and “us”) collects, uses, discloses, transfers, stores, retains or otherwise processes your information when you (whether you are a person acting as a sole proprietor or on behalf of another business entity) visit our website [(www.squareup.com)](https://squareup.com/us/en/legal/general/www.squareup.com) or apply or sign up for a Square account (collectively, “Services”).
 
 If you are a consumer shopping at a business that uses Square, please refer instead to the Privacy Notice available [here](https://squareup.com/us/en/legal/general/privacy-no-account). If you are a consumer shopping at a business that uses Square and you provide information to Square in order to receive a digital receipt and email marketing messages, and/or you have signed up to use Square Pay, please refer to the Privacy Notice available [here](https://squareup.com/us/en/legal/general/buyer-features).
 
-* If your Country of Residence is the United States, your Square entity is Block, Inc., 1455 Market Street, Suite 600, San Francisco, CA 94103, United States.
+* If your Country of Residence is the United States, your Square entity is Block, Inc., 1955 Broadway, Suite 600, Oakland, CA 94612, United States.
     
 * If your Country of Residence is Canada, your Square entity is Square Canada, Inc. or Square Technologies, Inc.
     
@@ -145,8 +145,8 @@ We may share the personal information described in the [“Information We Collec
 | --- | --- |
 | Service support partners | We work with the following types of third party service providers who help us provide, maintain and improve the Services:  <br><br>* Technology providers or potential partners to store information, provide software, or programs to help us provide the Services;<br>* Marketing or event providers that help us run our advertising campaigns, contests, special offers, or other events or activities;<br>* Identity verification providers to help us with fraud prevention and to assist us in meeting our AML, "know your customer", background checking and other compliance requirements;<br>* Fee collection service providers to help us enforce our legal rights;<br>* Financial partners, like financial institutions, payment networks, payment card associations, and credit bureaus that help us provide the Services. |
 | Third Party Analytics Services | Our analytics partners help us with our online services, such as Google Analytics, Facebook, BugSnag and Crashlytics. The analytics providers that administer these services use technologies such as cookies, web beacons, and web server logs to help us analyze how you use our online services. We may disclose your site-use information (including IP address) to these analytics providers, and other service providers who use the information to help us figure out how you and others use our online services.  <br><br>* To learn more about Google Analytics and how to opt out, please visit https://marketingplatform.google.com/about/ or https://support.google.com/analytics/answer/181881?hl=e  <br>    <br>* To learn more about how Facebook uses your data please visit https://www.facebook.com/help/325807937506242/ or log on to your Facebook account and access your settings. To understand more about Facebook advertising please see here https://www.facebook.com/about/ads.<br>* To learn more about BugSnag, please visit https://docs.bugsnag.com/legal/privacy-policy/.<br>* To learn more about Crashlytics, please visit https://fabric.io/terms. |
-| Online Tracking and Interest-Based Advertising | Consistent with local law, we and our advertising partners may collect information about your activities on our website. We use this information to advertise to you and to tailor our products and services to your interests. You may see certain ads on other websites because we use third-party services to advertise our services to you. We use these services to target our ads to you and others based on your demographics, interests, and context. These third party ad services track your online activities over time and across multiple websites by collecting your information through automated technologies, including third-party cookies, web server logs, and web beacons. The ad services use this information to show you Square ads that may be tailored to your individual interests. The information our ad services may collect on our behalf includes data about your visits to websites that serve Square ads, such as the pages or ads you view and the actions you take on those websites. This data collection takes place both on our online services, and on third-party websites that serve our ads to you. This process also helps us figure out if our ads to you are effective.  <br>  <br>To learn about how to opt out of interest-based advertising in the U.S., see "Cookies And Other Similar Technologies" and the "United States" sections below.  <br>  <br>To adjust your preferences on interest based advertising in the EU, click on the link on our website to the Cookies Policy which will allow you to adjust your settings preferences.  <br>  <br>Certain web browsers allow you to instruct your browser to respond to Do Not Track ("DNT") signals to website you visit, informing those sites that you do not want your online activities to be tracked. At this time, our websites are not designed to respond to DNT signals or similar mechanisms from browsers. |
-| Partners | We may share minimal personal information (such as your business name) with potential partners who may be able to provide a complementary or related service for your business. We may also share personal information with partners if we believe the disclosure is reasonably necessary to protect us, users of our Services or the public from harm, fraud, or potentially prohibited or illegal activities. |
+| Online Tracking and Interest-Based Advertising | While we do not sell personal information as that term is commonly understood, we have, “sold or shared” over the last 12 months Usage Data for the purpose of interest-based advertising (or “targeted advertising”) as described below. You can exercise your right to opt-out of targeted advertising by clicking the “Do Not Share My Personal Information” link in the footer of any page on our browser site, or by enabling the Global Privacy Control or a similar opt-out preference setting within the browser you use to access our website.  <br>  <br>Consistent with local law, we and our advertising partners may collect information about your activities on our website. We use this information to advertise to you and to tailor our products and services to your interests. You may see certain ads on other websites because we use third-party services to advertise our services to you. We use these services to target our ads to you and others based on your demographics, interests, and context. These third party ad services track your online activities over time and across multiple websites by collecting your information through automated technologies, including third-party cookies, web server logs, and web beacons. The ad services use this information to show you Square ads that may be tailored to your individual interests. The information our ad services may collect on our behalf includes data about your visits to websites that serve Square ads, such as the pages or ads you view and the actions you take on those websites. This data collection takes place both on our online services, and on third-party websites that serve our ads to you. This process also helps us figure out if our ads to you are effective.  <br>  <br>To learn about how to opt out of interest-based advertising (sometimes referred to as "targeted advertising") in the U.S., see "Cookies And Other Similar Technologies" and the "United States" sections below.  <br>  <br>To adjust your preferences on interest based advertising in the EU, click on the link on our website to the Cookies Policy which will allow you to adjust your settings preferences.  <br>  <br>Certain web browsers allow you to instruct your browser to respond to Do Not Track ("DNT") signals to website you visit, informing those sites that you do not want your online activities to be tracked. At this time, our websites are not designed to respond to DNT signals or similar mechanisms from browsers. |
+| Partners | We may share minimal personal information (such as your business name) with potential partners who may be able to provide a complementary or related service for your business. We may also share personal information with partners if we believe the disclosure is reasonably necessary to protect us, users of our Services or the public from harm, fraud, or potentially prohibited or illegal activities.  <br>  <br>We work with partners who may receive compensation for helping us to identify prospective Sellers interested in Square. If you were referred to Square by one of our referral partners, we may share limited commercial information related to your use of Square, such as the date you activated your account and the volume of transactions you process through Square, to provide reporting on the referral fees earned by the partner that referred you. |
 | Our Affiliates and Group Companies | With other business units (Cash App, Afterpay/Clearpay, and TIDAL) and between wholly-owned subsidiaries of Block, Inc. For example, we may share your information internally to understand how you engage with our company products to help make our Services better for you and for everyone, to help us build Services tailored to your preferences, and to help protect our services and maintain a trusted environment. |
 
 | **Other third parties who will receive your personal information** | **Why we share data with these parties** |
@@ -156,8 +156,6 @@ We may share the personal information described in the [“Information We Collec
 | To a subsequent owner, co-owner, or operator of one or more of the Services | To enable them to continue to run the Services after the change of owner or operator. |
 | If we do or try to do a corporate merger, consolidation, or restructuring (including during due diligence and negotiation of these); the sale of substantially all of our stock and/or assets; the financing, acquisition, divestiture, or dissolution of all or a portion of our business; or other corporate change. | To enable the completion of the relevant merger, restructuring, financing, acquisition, divestiture, dissolution or other corporate change. |
 | To others, at your direction | To carry out certain requests you make for us to share data. |
-
-Although we disclose your personal information to third parties as described above, we do not sell your personal information. We do, however, share your information for purposes of interest-based advertising or “targeted advertising” as discussed in the chart above, as well as below in the “Cookies, Other Similar Technologies, and Advertising” section. You can find more information on how to opt-out of targeted advertising in that section as well as the “Your Choices” section below.
 
 SECURITY
 ========
@@ -237,7 +235,7 @@ Depending on the jurisdiction in which you reside, you may be entitled under app
 * Correction of the personal information we have collected about you;
 * To opt-out of the sharing of your personal information for purposes of targeted advertising.
 
-You may submit an access, deletion, or correction request by emailing us at privacy@squareup.com or by calling us at 1.844.213.7377. Once we receive your request, we will verify it by requesting that you confirm certain personal information associated with your account. You may also be entitled to submit a request through an authorized agent. You may also email us privacy@squareup.com to appeal our denial of any of your access, deletion, or correction requests.
+You may submit an access, deletion, or correction request through our dedicated online portal at [privacy.block.xyz](https://privacy.block.xyz/) (for Sellers: click the Square logo and then select “Business owner” on the “What type of data are you looking to manage?” page; for Buyers: click the Square logo and then select “Customer”) or by calling us at 1.844.213.7377. Once we receive your request, we will verify it by requesting that you confirm certain personal information associated with your account. You may also be entitled to submit a request through an authorized agent. You may also message us through [privacy.block.xyz](https://privacy.block.xyz/) (click on the Square logo and then select “Other” on the “What type of data are you looking to manage?” page) to appeal our denial of any of your access, deletion, or correction requests.
 
 You can exercise your right to opt-out of targeted advertising by clicking the “Opt Out of Interest-Based Advertising” link in the footer of any page on our browser site.
 
@@ -307,6 +305,8 @@ Privacy laws that apply in certain places, like California, treat “businesses�
 
 Even though you use our services while acting as an employee, owner, director, officer, or contractor of a company, partnership, sole proprietor of a business, nonprofit, or government agency, if you live in California, California law gives you the right to ask if we disclose your personal information to third parties for their direct marketing purposes (we do not disclose your personal information for others’ direct marketing purposes).
 
+Please see [CCPA Privacy Requests Metrics](https://squareup.com/us/en/legal/general/ccpa-metrics) for details on the number of Access, Deletion, and Do Not Share My Information requests that we received and processed in the last year.
+
 CHANGES TO THIS PRIVACY NOTICE
 ==============================
 
@@ -319,11 +319,11 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 |     |     |     |
 | --- | --- | --- |
-| United States | Block, Inc.  <br>  <br>1955 Broadway, Suite 600, Oakland, CA 94612, U.S.A  <br>  <br>privacy@squareup.com |     |
+| United States | Block, Inc.  <br>  <br>1955 Broadway, Suite 600, Oakland, CA 94612, U.S.A  <br>  <br>privacy.block.xyz |     |
 | European Union & the United Kingdom | FAO: Data Protection Officer  <br>  <br>Squareup International Ltd.  <br>  <br>Fumbally Square  <br>Fumbally Lane  <br>Dublin 8, Ireland  <br>  <br>privacy-eu@squareup.com | If your request or concern is not satisfactorily resolved by us, you can contact your local data protection authority (see http://ec.europa.eu/justice/dataprotection/bodies/authorities/index\_en.html). |
-| Canada | Square Canada, Inc.  <br>  <br>Square Technologies, Inc.  <br>  <br>5000 Yonge Street,  <br>Toronto, ON M2N 7E9, Canada  <br>  <br>privacy@squareup.com | If you are dissatisfied with the results of our investigation or any resulting corrective measures, you may be entitled to make a written submission to the Privacy Commissioner in your jurisdiction or to the Office of the Privacy Commissioner of Canada at the address below:  <br>  <br>Office of the Privacy Commissioner of Canada  <br>  <br>30 Victoria Street Gatineau, Quebec  <br>  <br>K1A 1H3  <br>  <br>https://www.priv.gc.ca/en |
-| Japan | Square, K.K.  <br>  <br>Tri-Seven Roppongi 10F,  <br>7-7, Roppongi, Minato-ku,  <br>Tokyo, 106-0032, Japan  <br>  <br>Representative Director: Akio Takisaki  <br>privacy@squareup.com |     |
-| Australia | Square AU PTY, Ltd.  <br>  <br>Lv. 8, 376-390 Collins Street,  <br>Melbourne, VIC 3000, Australia  <br>  <br>privacy@squareup.com | If you are dissatisfied with our response to your complaint, you may be entitled to make a written submission to the Office of the Australian Information Commissioner, whose contact details are as follows:  <br>  <br>Office of the Australian Information Commissioner (OAIC)  <br>Phone: 1300 363 992  <br>Email: enquiries@oaic.gov.au  <br>Address: GPO Box 5218 Sydney NSW 2001 |
+| Canada | Square Canada, Inc.  <br>  <br>Square Technologies, Inc.  <br>  <br>5000 Yonge Street,  <br>Toronto, ON M2N 7E9, Canada  <br>  <br>privacy.block.xyz | If you are dissatisfied with the results of our investigation or any resulting corrective measures, you may be entitled to make a written submission to the Privacy Commissioner in your jurisdiction or to the Office of the Privacy Commissioner of Canada at the address below:  <br>  <br>Office of the Privacy Commissioner of Canada  <br>  <br>30 Victoria Street Gatineau, Quebec  <br>  <br>K1A 1H3  <br>  <br>https://www.priv.gc.ca/en |
+| Japan | Square, K.K.  <br>  <br>Tri-Seven Roppongi 10F,  <br>7-7, Roppongi, Minato-ku,  <br>Tokyo, 106-0032, Japan  <br>  <br>Representative Director: Akio Takisaki  <br>privacy.block.xyz |     |
+| Australia | Square AU PTY, Ltd.  <br>  <br>Lv. 8, 376-390 Collins Street,  <br>Melbourne, VIC 3000, Australia  <br>  <br>privacy.block.xyz | If you are dissatisfied with our response to your complaint, you may be entitled to make a written submission to the Office of the Australian Information Commissioner, whose contact details are as follows:  <br>  <br>Office of the Australian Information Commissioner (OAIC)  <br>Phone: 1300 363 992  <br>Email: enquiries@oaic.gov.au  <br>Address: GPO Box 5218 Sydney NSW 2001 |
 
 ##### General
 
@@ -333,9 +333,9 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Terms of Service](https://squareup.com/legal/general/ua)
 
-[Licenses](https://squareup.com/legal/general/licenses)
-
 [Government](https://squareup.com/legal/general/gov)
+
+[Licenses](https://squareup.com/legal/general/licenses)
 
 [Additional Point of Sale Terms](https://squareup.com/legal/general/pos)
 
@@ -343,33 +343,35 @@ If you have any questions or concerns regarding this Privacy Notice, please reac
 
 [Consumer Health Privacy](https://squareup.com/legal/general/consumer-health-privacy)
 
+[California Consumer Privacy Act (CCPA) Request Metrics](https://squareup.com/legal/general/ccpa-metrics)
+
 [Hardware Compliance Certifications](https://squareup.com/legal/general/dc)
 
-[HIPAA Business Associate Agreement](https://squareup.com/legal/general/hipaa)
+[Developer Terms of Service](https://squareup.com/legal/general/developers)
+
+[E-sign Consent](https://squareup.com/legal/general/sign)
 
 [Payment Terms](https://squareup.com/legal/general/payment)
 
 [Additional Savings Deposit Account Terms](https://squareup.com/legal/general/savings)
 
-[Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
-
-[Bill Pay Terms](https://squareup.com/legal/general/billpay)
-
-[E-sign Consent](https://squareup.com/legal/general/sign)
-
-[Hardware Policies and Limited Warranty](https://squareup.com/legal/general/hardware)
-
-[Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
-
-[Afterpay Merchant Terms of Service](https://squareup.com/legal/general/afterpay-merchant-terms)
-
-[Developer Terms of Service](https://squareup.com/legal/general/developers)
-
-[Intellectual Property Policy](https://squareup.com/legal/general/copyright)
+[ACH Service Terms](https://squareup.com/legal/general/ach-service-terms)
 
 [Commercial Entity Agreement](https://squareup.com/legal/general/cea)
 
-[ACH Service Terms](https://squareup.com/legal/general/ach-service-terms)
+[Hardware Policies and Limited Warranty](https://squareup.com/legal/general/hardware)
+
+[Additional Payroll Terms of Service](https://squareup.com/legal/general/payroll)
+
+[Square Buyer Account Terms of Use](https://squareup.com/legal/general/buyer-account-terms)
+
+[Intellectual Property Policy](https://squareup.com/legal/general/copyright)
+
+[HIPAA Business Associate Agreement](https://squareup.com/legal/general/hipaa)
+
+[Afterpay Merchant Terms of Service](https://squareup.com/legal/general/afterpay-merchant-terms)
+
+[Bill Pay Terms](https://squareup.com/legal/general/billpay)
 
 [Square Checking Terms of Service](https://squareup.com/legal/general/sqchecking-tos)
 
