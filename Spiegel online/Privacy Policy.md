@@ -46,7 +46,7 @@ Datenschutzerklärung So gehen wir mit Ihren Daten um
 
 welche Daten sammeln wir während Ihres Besuches bzw. über Ihre Nutzung unserer Webseiten? Welche Werbung wird Ihnen ausgespielt? Wer kann Ihre Daten sehen, wenn Sie Digital-Abonnent:in oder registrierte Nutzer:in sind? Kurz, wie gehen wir mit Daten um, die beim Nutzen unserer digitalen Angebote entstehen? Diese Fragen und viele weitere wollen wir Ihnen in dieser Datenschutzerklärung beantworten.
 
-**Stand: 30.05.2024**
+**Stand: 03.07.2024**
 
 Datenschutzrechtlich verantwortlich ist das jeweils im [Impressum](https://www.spiegel.de/impressum) genannte Unternehmen der SPIEGEL-Gruppe. Dessen Datenschutzbeauftragten erreichen Sie unter [datenschutz@spiegelgruppe.de](mailto:datenschutz@spiegelgruppe.de)    oder unter dem Kennwort Datenschutz, Ericusspitze 1, 20459 Hamburg.
 
@@ -166,7 +166,11 @@ Sofern Sie mit einer Veröffentlichung Ihrer Nachricht einverstanden sind, kann 
 **g) Veranstaltungen**  
 Wir laden unsere Leser:innen und Abonnent:innen in regelmäßigen Abständen zu Veranstaltungen ein und Sie haben auf unseren Webseiten die Möglichkeit, sich für verschiedene Veranstaltungen anzumelden. Dabei verwenden wir Ihre persönlichen Informationen, wie Vor- und Nachname und Ihre E-Mail-Adresse sowie gegebenenfalls weitere Pflichtangaben, um Ihnen eine Teilnahme an der Veranstaltung zu ermöglichen. Bei kostenpflichtigen Veranstaltungen benötigen wir zur Zahlungsabwicklung je nach gewähltem Zahlungsmittel weitere Informationen und Daten. Die Datenverarbeitung findet ausschließlich zur Durchführung und Abwicklung der jeweiligen Veranstaltung statt und um Ihnen die notwendigen Informationen für Ihre Teilnahme zukommen zu lassen. Bei einigen Veranstaltungen nutzen wir die Möglichkeit, Sie über den Start des Livestreams per E-Mail vorab zu informieren. Zusätzlich erhalten Sie im Anschluss an die Veranstaltung eine E-Mail mit (weiterführenden) Informationen rund um Ihre Veranstaltung sowie einer Feedbackumfrage. Die Verarbeitung beruht insoweit auf Art. 6 Abs. 1 lit. b) DSGVO. Wir geben Ihre Daten, sofern notwendig, an unsere Veranstaltungspartner und Sponsoren weiter. Die entsprechende Weitergabe dieser Daten ist für die Abwicklung der Veranstaltung erforderlich und beruht ebenfalls auf Art. 6 Abs. 1 lit. b) DSGVO.
 
+Die Bereitstellung des Livestreams über unseren Dienstleister JW Player und das Setzen entsprechender Cookies erfolgt auf Grundlage Ihrer Einwilligungen nach der europäischen Cookie- oder ePrivacy-Richtlinie in Verbindung mit dem deutschen Gesetz zur Regelung des Datenschutzes und des Schutzes der Privatsphäre in der Telekommunikation und bei Telemedien (§ 25 f. TDDDG) beziehungsweise auch die europäische Datenschutzgrundverordnung (Art. 6 Abs. 1 lit. a) DSGVO. In der Regel werden folgende personenbezogene Daten verarbeitet: die IP-Adresse, Typ und Version Ihres Internet-Browsers, verwendetes Betriebssystem, die aufgerufene Seite, die zuvor besuchte Seite (Referrer), Uhrzeit der Serveranfrage, die Verweildauer auf der Webseite, die Häufigkeit des Aufrufs der Webseite. Diese Erfassung dient der Optimierung der Übertragung sowie zur Besucherzählung.
+
 Während des Livestreams können sich Teilnehmende über das Interaktionstool Slido mit Fragen beteiligen. Dafür setzen wir Funktionen des externen Dienstleisters sli.do s.r.o., Vajnorská 100/A, 831 04 Bratislava, Slowakei ein, welcher uns als Auftragsdatenverarbeiter unterstützt. Die Nutzung des Interaktionstools ist freiwillig, die Veranstaltung kann auch ohne Slido verfolgt werden. Rechtsgrundlage für die Aktivierung dieses Dienstes und das Setzen entsprechender Cookies sind die Einwilligungen der europäischen Cookie- oder ePrivacy-Richtlinie in Verbindung mit dem deutschen Gesetz zur Regelung des Datenschutzes und des Schutzes der Privatsphäre in der Telekommunikation und bei Telemedien (§ 25 f. TDDDG) beziehungsweise auch die europäische Datenschutzgrundverordnung (Art. 6 Abs. 1 lit. a) DSGVO (Einwilligung)).
+
+Die Abfrage der Einwilligung erfolgt Im Rahmen der Nutzung des Tools. Es erscheint ein Hinweis auf die Policy von Slido und durch einen Klick erfolgt Ihre Zustimmung. Es besteht die Möglichkeit der Nutzung von Slido in anonymisierter Form, um keine personenbezogenen Daten (wie Ihren Namen) an andere Teilnehmende oder Slido zu übermitteln. Eine Anonymisierung wird ausdrücklich empfohlen.
 
 Über das von Slido gesetzte Cookie werden personenbezogene Daten, wie Teilnehmerdaten (Name), Textdaten und geteilte Inhalte (Fragen, Ideen, Chats etc.), Informationen zum verwendeten Gerät (IP-Adresse, Hardwaremodell, verwendete Software, Spracheinstellungen etc.), Meeting-Metadaten (Datum, Uhrzeit, Name der Veranstaltung etc.), Informationen zu etwaigen Systemabstürzen. Diese dienen der Gewährleistung der Funktionalität des Tools und auch um funktionskritische Zugriffe auf das Tool zu erkennen.
 
@@ -654,7 +658,7 @@ Diese Maßnahme wird von uns auf Grundlage des Art. 6 Abs. 1 S. 1 lit. f) DSGVO 
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 5.12.0
+Versionsnummer: 5.13.0
 
 Feedback
 
@@ -725,9 +729,9 @@ Freizeit
 Alle Magazine des SPIEGEL
 
 *  [![Cover: DER SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)DER SPIEGEL](https://www.spiegel.de/spiegel/print/index-2024.html "DER SPIEGEL")
+*  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
 *  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
 *  [![Cover: SPIEGEL SPEZIAL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2024-54.html "SPIEGEL SPEZIAL")
-*  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
 *  [![Cover: SPIEGEL WISSEN](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
 *  [![Cover: SPIEGEL COACHING](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0CRKN547S?tag=spiegel1-21 "SPIEGEL COACHING")
 *  [![Cover: Dein SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 175' width='136' height='175' %3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
@@ -738,7 +742,7 @@ SPIEGEL Gruppe
 
 [Abo](https://abo.spiegel.de/?b=SPOHFOOTER&utm_campaign=abbinder&utm_content=SPOHFOOTER&utm_medium=text&utm_source=spon "Abo") [Abo kündigen](https://gruppenkonto.spiegel.de/kuendigung.html "Abo kündigen") [Shop](https://www.amazon.de/stores/page/9A033B74-B98E-4CE4-BB30-C47BD542801B?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&linkId=ddec9c715dda90b1e0d431bb3abc5d3c&tag=wwwspiegelde-21 "Shop") [manager magazin](https://www.manager-magazin.de/ "manager magazin") [Harvard Business manager](https://www.manager-magazin.de/hbm/ "Harvard Business manager") [11FREUNDE](https://www.11freunde.de/ "11FREUNDE") [Werbung](https://spiegel.media/ "Werbung") [Jobs](https://www.spiegelgruppe.de/karriere/stellenboerse-in-der-spiegel-gruppe "Jobs") [MANUFAKTUR](https://manufaktur.spiegel.de/ "MANUFAKTUR") [SPIEGEL Akademie](https://akademie.spiegel.de/ "SPIEGEL Akademie") [SPIEGEL Ed](https://ed.spiegel.de/ "SPIEGEL Ed")
 
-[Impressum](https://www.spiegel.de/impressum "Impressum") [Datenschutz](https://www.spiegel.de/datenschutz-spiegel "Datenschutz") [Nutzungsbedingungen](https://www.spiegel.de/nutzungsbedingungen "Nutzungsbedingungen") [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen "Teilnahmebedingungen") [Cookies & Tracking](#sp_privacy_manager "Cookies & Tracking") [Newsletter](https://www.spiegel.de/newsletter "Newsletter") [Kontakt](https://www.spiegel.de/kontakt "Kontakt") [Hilfe](https://www.spiegel.de/services/ "Hilfe") [Text- & Nutzungsrechte](https://www.spiegelgruppe.de/syndication "Text- & Nutzungsrechte")
+[Impressum](https://www.spiegel.de/impressum "Impressum") [Datenschutz](https://www.spiegel.de/datenschutz-spiegel "Datenschutz") [Nutzungsbedingungen](https://www.spiegel.de/nutzungsbedingungen "Nutzungsbedingungen") [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen "Teilnahmebedingungen") [Cookies & Tracking](#sp_privacy_manager "Cookies & Tracking") [Newsletter](https://www.spiegel.de/newsletter "Newsletter") [Kontakt](https://www.spiegel.de/kontakt "Kontakt") [Hilfe & Service](https://www.spiegel.de/services/ "Hilfe & Service") [Text- & Nutzungsrechte](https://www.spiegelgruppe.de/syndication "Text- & Nutzungsrechte")
 
 [Facebook](https://www.facebook.com/DerSpiegel/ "Facebook") [Instagram](https://www.instagram.com/spiegelmagazin/ "Instagram") [Wo Sie uns noch folgen können](https://www.spiegel.de/backstage/bei-diesen-diensten-koennen-sie-dem-spiegel-folgen-a-a68cce85-8be8-4707-bd6e-0706090cbbbe "Wo Sie uns noch folgen können")
 
@@ -838,6 +842,7 @@ SPIEGEL Gruppe
     * [Fahrberichte](https://www.spiegel.de/auto/fahrberichte/ "Fahrberichte")
     * [Fahrkultur](https://www.spiegel.de/auto/fahrkultur/ "Fahrkultur")
 
+* [SPIEGEL in English](https://www.spiegel.de/international/ "SPIEGEL in English")
 * [Dein SPIEGEL](https://www.spiegel.de/deinspiegel/ "Dein SPIEGEL")
 * [Audio](https://www.spiegel.de/audio/ "Audio")
 * [Video](https://www.spiegel.de/video/ "Video")
