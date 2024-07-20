@@ -1,3 +1,5 @@
+[Skip to main content](#main_content)
+
 ![U.S. flag](/img/icons/us_flag_small.png) An official website of the United States government
 
 ![](/img/icons/icon-dot-gov.svg)
@@ -27,9 +29,9 @@ Keywords
 
 Location or Remote 
 
-[Search tips](https://help.usajobs.gov/how-to/search)
-
 Search
+
+[Search tips](https://help.usajobs.gov/how-to/search)
 
 You are being redirected to the USAJOBS Help Center. Click here if you are not automatically redirected in 5 seconds: [https://help.usajobs.gov/how-to](https://help.usajobs.gov/how-to).
 
@@ -42,7 +44,7 @@ Your USAJOBS session will expire due to inactivity in 8 minutes. Any unsaved dat
 
 Sign out Stay signed in
 
-[Return to top](#)
+Return to top
 
 ![USAJOBS footer logo](/img/logo/svg/opm-usajobs-logo.svg)
 
