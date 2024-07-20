@@ -527,7 +527,7 @@ Last modified on Fri, 2 February 2024 22:33:38 GMT
 
 Follow Me!
 
-* [X](https://x.com/stefanvd)
+* [X](https://x.com/intent/follow?screen_name=stefanvd)
 * [YouTube](https://www.youtube.com/@stefanvandamme?sub_confirmation=1)
 * [LinkedIn](https://www.linkedin.com/in/stefan-van-damme/)
 
