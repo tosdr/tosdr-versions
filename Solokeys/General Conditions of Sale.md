@@ -1,4 +1,4 @@
-![](https://ct.pinterest.com/v3/?event=init&tid=2613407103434&noscript=1)           
+![](https://ct.pinterest.com/v3/?event=init&tid=2613407103434&noscript=1)            
 
 [Don't need NFC? Solo 2 USB-A base model now in stock.](https://solokeys.com/products/solo-2a-security-key-built-with-trussed%C2%AE)
 
@@ -73,7 +73,7 @@ If you are shipping an item over $75, you should consider using a trackable ship
 ###### Information
 
 * [Start](https://solokeys.com/pages/start)
-* [Developers](https://github.com/solokeys/solo)
+* [Developers](https://github.com/solokeys/solo2)
 * [FAQ](https://solokeys.com/pages/faq)
 * [Privacy](https://solokeys.com/policies/privacy-policy)
 * [Refunds](https://solokeys.com/policies/refund-policy)
