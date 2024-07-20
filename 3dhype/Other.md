@@ -270,15 +270,15 @@ Most Viewed
 -----------
 
 1. [Bruschetta with Beef Tartare](https://casihelper.com/index.php/2019/04/10/bruschetta-with-beef-tartare/ "Permanent Link to Bruschetta with Beef Tartare")  
-    32 views
+    36 views
 2. [Buttermilk Pancakes with Maple Syrup Apples](https://casihelper.com/index.php/2019/03/21/buttermilk-pancakes-with-maple-syrup-apples/ "Permanent Link to Buttermilk Pancakes with Maple Syrup Apples")  
-    25 views
-3. [Gutenberg Sample Post](https://casihelper.com/index.php/2019/02/17/gutenberg-sample-post/ "Permanent Link to Gutenberg Sample Post")  
+    29 views
+3. [Veggie Burgers with Avocado Green Harissa](https://casihelper.com/index.php/2019/04/09/veggie-burgers-with-avocado-green-harissa/ "Permanent Link to Veggie Burgers with Avocado Green Harissa")  
     19 views
-4. [Spaghetti with Garlic and Oil](https://casihelper.com/index.php/2019/04/04/spaghetti-with-garlic-and-oil/ "Permanent Link to Spaghetti with Garlic and Oil")  
+4. [Gutenberg Sample Post](https://casihelper.com/index.php/2019/02/17/gutenberg-sample-post/ "Permanent Link to Gutenberg Sample Post")  
+    19 views
+5. [Easy Avocado Toast Recipe](https://casihelper.com/index.php/2019/03/10/easy-avocado-toast-recipe/ "Permanent Link to Easy Avocado Toast Recipe")  
     18 views
-5. [Easy Cinnamon Rolls](https://casihelper.com/index.php/2019/02/26/easy-cinnamon-rolls/ "Permanent Link to Easy Cinnamon Rolls")  
-    17 views
 
 Most Commented
 --------------
