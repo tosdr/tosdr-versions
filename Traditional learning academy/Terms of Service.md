@@ -1,4 +1,4 @@
-Admissions for the 2024-25 school year are open.
+Summer Closure:  Please note that our office will close on July 22nd for summer break.  All systems will be offline starting July 29th.  The office and all online systems will re-open again on August 6th.
 
 * [Admissions](https://schoolathome.ca/admissions/)
 * [Community](https://schoolathome.ca/community/)
