@@ -143,16 +143,16 @@ Follow Us
 ---------
 
 * [Facebook](https://facebook.com/prettylittercats "Facebook")
-* [Instagram (opens in a new window)](https://instagram.com/prettylitter "Instagram")
-* [Twitter (opens in a new window)](http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=prettylitter "Twitter")
-* [Tiktok (opens in a new window)](http://tiktok.com/@prettylitter "Tiktok")
+* [Instagram](https://instagram.com/prettylitter "Instagram")
+* [Twitter](http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=prettylitter "Twitter")
+* [Tiktok](http://tiktok.com/@prettylitter "Tiktok")
 
 Let's Be Friends
 ----------------
 
 Get tips, spotlights, and upcoming offers and deals to your inbox
 
-\*By signing up to our email list, you are confirming you wish to receive marketing from PrettyLitter. You may change these preferences at any time by using the link [Your Privacy Choices (opens in a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8). Please see our [Privacy Policy (opens in a new window)](https://www.mars.com/privacy) for more information.
+\*By signing up to our email list, you are confirming you wish to receive marketing from PrettyLitter. You may change these preferences at any time by using the link [Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8). Please see our [Privacy Policy](https://www.mars.com/privacy) for more information.
 
 PrettyLitter Resources
 ----------------------
@@ -196,8 +196,11 @@ PrettyLitter Resources
 * [Cookies Notice](https://www.mars.com/cookies-english "Cookies Notice")
 * [Legal Notice](https://www.mars.com/legal "Legal Notice")
 * [Ad Choices](https://www.mars.com/mars-incorporated-adchoices-united-states "Ad Choices")
+* [Accessibility](https://www.mars.com/accessibility "Accessibility")
 * [Web Accessibility](https://www.prettylitter.com/accessibility-statement "Web Accessibility")
 * [Your Privacy Choices ![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://res.cloudinary.com/prettylitter/image/upload/v1671484354/icons/privacy_options.svg)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8 "Your Privacy Choices") 
 
- [![BBB Accredited Business, PrettyLitter, Pet Supplies, Los Angeles, CA](https://seal-sanjose.bbb.org/logo/ruhzbum/prettylitter-629436.png) (opens in a new window)](https://www.bbb.org/us/ca/los-angeles/profile/pet-supplies/prettylitter-1216-629436#bbbseal "BBB Accredited Business, PrettyLitter, Pet Supplies, Los Angeles, CA")©2024 PrettyLitter, Inc.  
-All Rights Reserved.An Affiliate of Mars, Incorporated
+[![BBB Accredited Business, PrettyLitter, Pet Supplies, Los Angeles, CA](https://seal-sanjose.bbb.org/logo/ruhzbum/prettylitter-629436.png)](https://www.bbb.org/us/ca/los-angeles/profile/pet-supplies/prettylitter-1216-629436#bbbseal "BBB Accredited Business, PrettyLitter, Pet Supplies, Los Angeles, CA") © 2024 PrettyLitter, Inc.  
+
+        Mars Incorporated and its affiliates.
+        All Rights Reserved.
