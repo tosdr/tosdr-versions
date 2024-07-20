@@ -216,7 +216,7 @@ Grateful acknowledgment is made to L. Ron Hubbard Library for permission to re
 
 The following are trademarks and service marks owned by Religious Technology Center, Los Angeles, California, USA. These marks are licensed for use by the Church of Scientology International and its affiliated organizations and have been registered in many countries in the world:
 
-Hubbard, L. Ron Hubbard, L. Ron Hubbard Signature, LRH, Oxford Capacity Analysis, Scientology, Scientology Symbol, Scientology Cross (Pointed), Scientology Cross (Rounded) Minister’s Cross and Scientometric.
+Hubbard, L. Ron Hubbard, L. Ron Hubbard Signature, LRH, Oxford Capacity Analysis, Dianetics, Dianetics Symbol, Dianetics Symbol in a Circle, Scientology, Scientology Symbol, Scientology Cross (Pointed), Scientology Cross (Rounded) Minister’s Cross and Scientometric.
 
 SCIENTOLOGIST is a collective membership mark indicating membership in a church and church membership services of the affiliated Scientology churches and missions.
 
