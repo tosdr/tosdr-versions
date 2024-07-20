@@ -22,7 +22,6 @@
         * [Blue Variety 12 Pack](https://www.sparklingice.com/flavor/blue-variety-12-pack/?ref=flavors/packs)
         * [Blue Variety 18 Pack](https://www.sparklingice.com/flavor/blue-variety-18-pack/)
         * [+Caffeine Variety 12 Pack](https://www.sparklingice.com/flavor/caffeine-variety-12-pack/)
-        * [Winter Variety 12 Pack](https://www.sparklingice.com/flavor/winter-variety-12-pack/)
     * [1L Bottles](https://www.sparklingice.com/flavors/1l/)
         * [Black Cherry](https://www.sparklingice.com/flavor/black-cherry-1l/?ref=flavors/1l)
         * [Fruit Punch](https://www.sparklingice.com/flavor/fruit-punch-2/?ref=flavors/1l)
