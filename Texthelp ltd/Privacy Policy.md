@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjowrdgR0WhHSFHXo_RjtY5dxMLe98sQ_xYotLND4ZOGWFv2arLCt4s7B_kg8WkdShcsA2L5-VdBs3Y1qomc:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjowrdgR0WhHSFHXo_RjtY5dxMLe98sQ_xYotLND4ZOGWFv2arLCt4s7B_kg8WkdShcsA2L5-VdBs3Y1qomc:0&docurl=https://docs.google.com/document/d/1l9GWjNkyetuyg-WcHJoi-18K-kfDWNcT3_P8kSuHEVY/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 ISMS 1.2 Information Security Policy
 
@@ -73,7 +73,7 @@ Texthelp will:
 * Work to avoid a negative impact to Texthelp’s reputation and brand
 * Protect the information of all interested parties including the personal information of its customers. Should the Texthelp company be acquired by another company at some future time, this will include checks that the acquiring company will have data security controls at least as robust as Texthelp’s in place to ensure the future safeguarding of existing customer data.
 
-* Comply with any legal, regulatory or contractual requirements in respect of the data it holds about individuals. These are listed in the [List of Legislative & Regulatory Bodies](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vRVvvLNtTIqY4ji4wvbULN2PnM_oxtFudSLakqKM0M37LLNWg89J9YXfFOynZb_kJK9PBQTfDI18W63/pubhtml&sa=D&source=editors&ust=1718946857501188&usg=AOvVaw2VLLhZLRUe2d7wZBJ3hi7o);
+* Comply with any legal, regulatory or contractual requirements in respect of the data it holds about individuals. These are listed in the [List of Legislative & Regulatory Bodies](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vRVvvLNtTIqY4ji4wvbULN2PnM_oxtFudSLakqKM0M37LLNWg89J9YXfFOynZb_kJK9PBQTfDI18W63/pubhtml&sa=D&source=editors&ust=1721462039439768&usg=AOvVaw1VUH7IM97Oc4QfAilGB7eB);
 * Follow best practice
 * Seek to continually improve the company’s Information Security Management System
 
@@ -139,7 +139,7 @@ Significant breaches of this policy will be handled under Texthelp’s disciplin
 Confidentiality
 ===============
 
-Because confidentiality applies to a much wider range of information than Data Protection, Texthelp has a separate Data [Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1718946857505575&usg=AOvVaw3EUhfpOHJcS7XwoJGhkt9l).
+Because confidentiality applies to a much wider range of information than Data Protection, Texthelp has a separate Data [Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1721462039445375&usg=AOvVaw0QdHCgIydj3LBjs-3Xay3U).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Scope
@@ -152,12 +152,12 @@ Third party agents will also be contractually required, where this is possible, 
 
 Texthelp will comply with requests under the General Data Protection Regulation (GDPR, EU), Data Protection Act (2018)(UK), Regulation of Investigatory Powers Act 2000 (RIPA) from UK authorities and under the USA Patriots Act from US authorities and Freedom of Information and Protection of Privacy Act (FOIPPA)(British Columbia), Danish Data Protection Act, Norwegian Personal Data Act, Swedish Data Protection Act (2018:218) and other agencies where obliged to do so if requested.
 
-The full list of regulatory and legislative requirements with which Texthelp complies are given in this table of [Legislative & Regulatory bodies](https://www.google.com/url?q=https://drive.google.com/open?id%3D1zkMU4AJcYRGQFXT2f4QCsrMSCfcTbX_iJFewG9eus1E&sa=D&source=editors&ust=1718946857506942&usg=AOvVaw3dqtibmLB4C0Wq1HLqAPVc)
+The full list of regulatory and legislative requirements with which Texthelp complies are given in this table of [Legislative & Regulatory bodies](https://www.google.com/url?q=https://drive.google.com/open?id%3D1zkMU4AJcYRGQFXT2f4QCsrMSCfcTbX_iJFewG9eus1E&sa=D&source=editors&ust=1721462039446493&usg=AOvVaw1OVusOTI_FDp8vWxuNl6nW)
 
 What we do with customer data
 -----------------------------
 
-Texthelp has a [privacy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1718946857507493&usg=AOvVaw0wnvPdFv4h2nF-8yV6Xxm_) [](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1718946857507653&usg=AOvVaw2ryc4SkFQRGlanTTiPDcbn)[policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1718946857507802&usg=AOvVaw0dmAtBRQxJXayjpOFZiizT) for Users, setting out how their information will be used.
+Texthelp has a [privacy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1721462039446966&usg=AOvVaw2pUv3FLWxzYW7Ig9U2qdVh) [](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1721462039447170&usg=AOvVaw1-sJmlEFg3n7oUbXxvLUfv)[policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1721462039447336&usg=AOvVaw1GgWLXJM6CHYCTgsMOR3WX) for Users, setting out how their information will be used.
 
 Texthelp Group  Staff Responsibilities
 --------------------------------------
@@ -303,7 +303,7 @@ An audit of this policy will be carried out once per year. However, the requirem
 information security Incidents
 ------------------------------
 
-All information security incidents will be logged in the [Downtime/Security Events Register](https://www.google.com/url?q=https://crm.texthelp.com/index.php?module%3DDT_Downtime%26action%3Dindex&sa=D&source=editors&ust=1718946857519162&usg=AOvVaw0w7hO3z2XmgyNPbrDqaKLZ) in Sugar. information security incidents will be classified according to severity.  Incidents such as unsuccessful exploit attempts that do not involve data loss will be classified as Level 1 - Non Critical Incidents. Level 1 incidents should not trigger a customer notification since there has been no impact to privacy.
+All information security incidents will be logged in the [Downtime/Security Events Register](https://www.google.com/url?q=https://crm.texthelp.com/index.php?module%3DDT_Downtime%26action%3Dindex&sa=D&source=editors&ust=1721462039454848&usg=AOvVaw1OJ_9Z9r3AvjzeVKtZYV9k) in Sugar. information security incidents will be classified according to severity.  Incidents such as unsuccessful exploit attempts that do not involve data loss will be classified as Level 1 - Non Critical Incidents. Level 1 incidents should not trigger a customer notification since there has been no impact to privacy.
 
 Incidents that do involve data loss will be classified as Level 2 - Critical Incidents & should trigger a notification to all customers that are impacted by the data loss. Where required, the relevant local data protection authority will also be contacted.
 
@@ -338,8 +338,8 @@ If you are in doubt about whether to disclose information or not, do not guess. 
 
 Your confidentiality obligations continue to apply indefinitely after you have stopped working for Texthelp .
 
-Signed: ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeyZ0u6MoJ_KeQleg84ROtpPYpJAMRPqvzzha6kJuxOq01Q52rTyoKiZF8BTGlbrTkZLC_qm0AREEh3PJAwKWcIkXkknJp47vlF7SHVYRmZtpq1PmJfsb1OmIuQEYkgoBtwo_vjZn99JCK3WhU?key=dsOzQC7AVBsifLxoph1NlQ)Martin McKay  (CEO)
+Signed: ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXegdzPEio7MfBtYtmDDRRHWlrdaheO-ZuFyniyVWjIabVfv2uc30qHEpJ97zGkN1Ypjnr4t4Z3Zd56tAcJpP4_7rLKXgmefswXa_DtxUrDiXVFhND4f9HwWBjSYjh3o3rmOLccuFKkJ4963B0c?key=dsOzQC7AVBsifLxoph1NlQ)Martin McKay  (CEO)
 
-Signed:  ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfMxacUFr6jwkauZ4eqEgiQ0Y7d2Imvq-J4FcEYpCSfXYLhFncDfmlWFH_vWhEhgHRCvOCAB51QfdG4JGD4kuwMIJ4M0cpzHv0hEZMpPKcPbSMpQDkA3ZHZcsx3I5mCtU151m8JfJQ8M__QwjN-?key=dsOzQC7AVBsifLxoph1NlQ)    Ryan Graham (CTO)
+Signed:  ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXe2k7M8eAULapyQkAAxBXwLRiaQRKKfoHeT678bbvsK744ln-INU0rl0FiVsvvYnNyS7DPtP66yFB_UKKtKk7meVu5JeXWgYU0BSyG9BBPbTNpdHQuwsaNo0A_I116Sd6KIa-lpcZ7e4bNtlMKy?key=dsOzQC7AVBsifLxoph1NlQ)    Ryan Graham (CTO)
 
 Public Information
