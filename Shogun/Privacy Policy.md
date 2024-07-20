@@ -1,8 +1,8 @@
 [![Untitled UI logotext](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650c0dafbafeb00fd5d7daf_logo-1.svg)](http://getshogun.com/)
 
-Features
+product
 
-#### product
+#### features
 
 [Visual Editor
 
@@ -20,7 +20,7 @@ Supercharge SEO growth](https://getshogun.com/features/seo-keyword-insights/)[Pa
 
 Easily track performance](https://getshogun.com/features/page-analytics/)
 
-#### use cases
+#### Capabilities
 
 [Content Management
 
@@ -50,11 +50,11 @@ solutions
 
 [Fashion and Apparel
 
-Grow your fashion and apparel brand with Shogun](https://getshogun.com/fashion-apparel-ecommerce/)[Ecommerce Managers
+Grow your fashion and apparel brand with Shogun](https://getshogun.com/solutions/fashion-apparel-ecommerce)[Ecommerce Managers
 
-Drive revenue growth for your brand](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies
+Drive revenue growth for your brand](https://getshogun.com/solutions/ecommerce-managers)[Ecommerce Agencies
 
-Bring value to your clients and grow your business](https://getshogun.com/page-builder/ecommerce-agencies/)
+Bring value to your clients and grow your business](https://getshogun.com/solutions/ecommerce-agencies)
 
 #### partners
 
@@ -90,15 +90,13 @@ See Shogun feature demos, design best practices, and more](https://getshogun.com
 
 Explore documentation and in-builder help articles](https://getshogun.com/help/en)
 
-#### personalize
+#### use cases
 
-[Translations
+[Personalization
 
-Translate key site pages for specific regions](https://getshogun.com/experiences/translations/)[Previous Purchase History
+Explore strategies for personalizing your store](https://getshogun.com/use-case-library/personalization)[A/B Testing
 
-Create customized experiences based on customer history](https://getshogun.com/experiences/previous-purchase-targeting/)[Influencer Marketing
-
-Generate unique experiences for traffic coming from specific influencers](https://getshogun.com/experiences/influencer-marketing/)
+Discover A/B testing ideas to help you optimize your store](https://getshogun.com/use-case-library/ab-testing)
 
 #### case study
 
@@ -115,7 +113,7 @@ Discover how Nextbase increased conversion rates and clickthrough rates by provi
 Privacy Policy
 ==============
 
-Last updated: March 29, 2021
+Last updated: July 9, 2024
 
 Welcome to the web site (the “**Site**”) of Shogun Labs, Inc. (“**Shogun**”, “**we**”, “**us**” and/or “**our**”). This Site is operated by Shogun and has been created to provide information about Shogun and our product and service offerings that post or link to this Privacy Policy now or in the future, including our cloud-based page building software tools and related services (together with the Site, the “**Services**”). This Privacy Policy sets forth how we collect, use, disclose, and otherwise process Personal Information in connection with our Services.
 
@@ -124,12 +122,19 @@ What Is Personal Information?
 
 When we use the term “**Personal Information**” in this Privacy Policy, we mean information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, to an individual.  It does not include aggregated or deidentified information that is maintained in a form that is not reasonably capable of being associated with or linked to an individual.
 
+Our Role in Processing Personal Information
+-------------------------------------------
+
+Data protection laws sometimes differentiate between “controllers” and “processors” of personal information. A “controller” determines the purposes and means (the why and how) of processing personal information. A “processor,” which is sometimes referred to as a “service provider,” processes personal information on behalf of a controller subject to the controller’s instructions.
+
+This Privacy Policy describes our privacy practices where we are acting as the controller of personal information. However, this Privacy Policy does not cover or address how our customers may process personal information when they use our services, or how we may process personal information on their behalf in accordance with their instructions where we are acting as their processor. As a result, we recommend referring to the privacy policy of the customer with which you have a relationship for information on how they engage processors, like us, to process personal information on their behalf. In addition, we are generally not permitted to respond to individual requests relating to personal information we process on behalf of our customers, so we recommend directing any requests to the relevant customer.
+
 Information We Collect
 ----------------------
 
 When you interact with us through the Services, we may collect Personal Information and other information from you, as further described below. Sometimes we collect Personal Information automatically when an individual interacts with our Services, and sometimes, we collect the Personal Information directly from an individual.  At times, we may collect Personal Information about an individual from other sources and third parties, even before our first direct interaction.
 
-We collect Personal Information about different categories of individuals through the provision of our Services.  These include our clients and prospective clients (including representatives of our business clients), partners and prospective partners, and visitors to our websites.
+We collect Personal Information about different categories of individuals through the provision of our Services and in our capacity as a controller (for additional context, see Our Role in Processing Personal Information section above).  These include our clients and prospective clients (including representatives of our business clients), partners and prospective partners, and visitors to our websites.
 
 ##### Clients and Prospective Clients
 
@@ -154,7 +159,7 @@ We collect Personal Information from our partners and prospective partners in co
 Site visitors interact with our online Services in ways that lead us to collect Personal Information about them.  The amount and type of Personal Information that we gather depends on the nature of the interaction with our online Services.  We may collect the following Personal Information from our Site visitors:
 
 * **Inquiry Information**, including the content of a contact form submission or the content of an email through our blog;
-* **Personal Information Automatically Collected**: As is true of most digital platforms, we collect certain Personal Information automatically when Site visitors visit our online Services, including:
+* **Personal Information Automatically Collected**, As is true of most digital platforms, we collect certain Personal Information automatically when Site visitors visit our online Services, including:
 
 * **Log File Data**, including internet protocol (IP) address, operating system, browser type, browser id, date/time of visit, and pages visited.
 * **Analytics Data**, including the electronic path taken to our Services, through our Services and when exiting our Services, as well as usage and activity on our Services, such as the links and objects viewed, clicked or otherwise interacted with (also known as “**Clickstream Data**”).
@@ -428,15 +433,15 @@ Product
 
 Shogun For
 
-[Ecommerce Managers](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies](https://getshogun.com/page-builder/ecommerce-agencies/)[Fashion & Apparel Brands](https://getshogun.com/fashion-apparel-ecommerce/)[BigCommerce](https://getshogun.com/bigcommerce-page-builder/)
+[Ecommerce Managers](https://getshogun.com/solutions/ecommerce-managers)[Ecommerce Agencies](https://getshogun.com/solutions/ecommerce-agencies)[Fashion & Apparel Brands](https://getshogun.com/solutions/fashion-apparel-ecommerce)[BigCommerce](https://getshogun.com/solutions/bigcommerce-page-builder)
 
-Use Cases
+Capabilities
 
 [Content Management](https://getshogun.com/solutions/ecommerce-content-management/)[Multi-store Expansion](https://getshogun.com/solutions/multi-store-ecommerce-platform/)[Visual Merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)[SEO](https://getshogun.com/solutions/ecommerce-seo-tools/)[Paid Campaigns](https://getshogun.com/solutions/ecommerce-ppc/)[Ecommerce Landing Pages](https://getshogun.com/solutions/ecommerce-landing-pages/)[AI Website Builder](https://getshogun.com/shopify-ai-website-builder/)
 
 Resources
 
-[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
+[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Personalization Use Cases](https://getshogun.com/use-case-library/personalization)[A/B Testing Use Cases](https://getshogun.com/use-case-library/ab-testing)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
 
 Company
 
