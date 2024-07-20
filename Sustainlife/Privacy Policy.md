@@ -368,7 +368,7 @@ Use cases and features
 
 Company
 
-[Get a demo](https://www.sustain.life/demo)[About us](https://www.sustain.life/about-us)[Blog](https://www.sustain.life/blog)[Careers ↗](https://boards.greenhouse.io/sustainlife)[Contact us](https://www.sustain.life/contact-us)[Privacy policy](https://www.sustain.life/privacy-policy)[Terms of service](https://www.sustain.life/terms-of-service)[4Sided ↗](https://www.4sided.com/)
+[Get a demo](https://www.sustain.life/demo)[About us](https://www.sustain.life/about-us)[Blog](https://www.sustain.life/blog)[Careers ↗](https://www.workiva.com/careers)[Contact us](https://www.sustain.life/contact-us)[Privacy policy](https://www.sustain.life/privacy-policy)[Terms of service](https://www.sustain.life/terms-of-service)[4Sided ↗](https://www.4sided.com/)
 
 Social
 
