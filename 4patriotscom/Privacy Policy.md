@@ -132,7 +132,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Power Cell-CX Portable Solar Power Bank
         
-        1711 reviews](https://4patriots.com/products/patriot-power-cell)
+        1712 reviews](https://4patriots.com/products/patriot-power-cell)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
@@ -167,7 +167,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        43 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        45 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -235,6 +235,9 @@ We Champion Freedom & Self-Reliance
     
     Deals
     
+    * [$500.00 OFF Super-Charged Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
+    * [$100.00 OFF Food & Fire Bundle](https://4patriots.com/products/food-fire-survival-cooking-bundle)
+    * [$50.00 OFF Solar Go-Fridge](https://4patriots.com/products/solar-go-fridge)
     * [$20.00 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
     * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
     * [Subscribe & Save](https://4patriots.com/collections/subscriptions)
