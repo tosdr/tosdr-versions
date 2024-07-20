@@ -233,11 +233,13 @@ Search
     
     [Entrepreneurs](https://www.commerce.gov/entrepreneurs)
     
+    [Resources for Minority Business Enterprises](https://www.commerce.gov/work-us/services-businesses/resources-minority-business-enterprises)
+    
+    [Resources for the Military Community](https://www.commerce.gov/work-us/services-businesses/resources-military-community)
+    
     [Resources for Rural Communities](https://www.commerce.gov/work-us/services-businesses/resources-rural-communities)
     
     [Resources for Women Entrepreneurs](https://www.commerce.gov/work-us/services-businesses/resources-women-entrepreneurs)
-    
-    [Resources for the Military Community](https://www.commerce.gov/work-us/services-businesses/resources-military-community)
     
     Job Quality Toolkit
     
