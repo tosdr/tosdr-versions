@@ -63,7 +63,7 @@
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](/marketing/img/features/ai/nav-pricing/slack-ai-blog-hero@2x.png)
+        * * [![](https://a.slack-edge.com/3103e63/marketing/img/features/ai/nav-pricing/slack-ai-blog-hero@2x.png)
                 
                 Businesses of all sizes are working faster and smarter with Slack AI
                 
@@ -96,7 +96,7 @@
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](/marketing/img/nav/promo-solutions@2x.png)
+        * * [![](https://a.slack-edge.com/a8142f4/marketing/img/nav/promo-solutions@2x.png)
                 
                 How OpenAI connects customers and expands ChatGPT with Slack
                 
@@ -118,12 +118,12 @@
             * [Community](https://slack.com/intl/en-gb/community)
             * [Slack Certified](https://slackcertified.com/)
             * [Blog](https://slack.com/intl/en-gb/blog)
-            * [App Directory](https://slack-marketing.slack.com/apps)
+            * [App Directory](https://slack.com/apps)
         * * [Watch demo](http://slack.com/demo)
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](/marketing/img/nav/nav-ad-dreamforce-registration@2x.png)
+        * * [![](https://a.slack-edge.com/b37cac3/marketing/img/nav/nav-ad-dreamforce-registration@2x.png)
                 
                 Discover the future of AI at Dreamforce 2023!
                 
@@ -199,7 +199,7 @@ Back[![Slack](https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforc
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](/marketing/img/features/ai/nav-pricing/slack-ai-blog-hero@2x.png)
+        * * [![](https://a.slack-edge.com/3103e63/marketing/img/features/ai/nav-pricing/slack-ai-blog-hero@2x.png)
                 
                 Businesses of all sizes are working faster and smarter with Slack AI
                 
@@ -232,7 +232,7 @@ Back[![Slack](https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforc
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](/marketing/img/nav/promo-solutions@2x.png)
+        * * [![](https://a.slack-edge.com/a8142f4/marketing/img/nav/promo-solutions@2x.png)
                 
                 How OpenAI connects customers and expands ChatGPT with Slack
                 
@@ -254,12 +254,12 @@ Back[![Slack](https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforc
             * [Community](https://slack.com/intl/en-gb/community)
             * [Slack Certified](https://slackcertified.com/)
             * [Blog](https://slack.com/intl/en-gb/blog)
-            * [App Directory](https://slack-marketing.slack.com/apps)
+            * [App Directory](https://slack.com/apps)
         * * [Watch demo](http://slack.com/demo)
             * [Download Slack](https://slack.com/downloads/other)
     * FEATURED
         
-        * * [![](/marketing/img/nav/nav-ad-dreamforce-registration@2x.png)
+        * * [![](https://a.slack-edge.com/b37cac3/marketing/img/nav/nav-ad-dreamforce-registration@2x.png)
                 
                 Discover the future of AI at Dreamforce 2023!
                 
@@ -496,7 +496,7 @@ Selecting a different region will change the language and content of slack.com.
     * [Developers](https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.)
     * [Partners](https://slack.com/intl/en-gb/partners)
     * [Partner offers](https://slack.com/intl/en-gb/partner-offers)
-    * [App Directory](https://slack-marketing.slack.com/apps?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.)
+    * [App Directory](https://slack.com/apps?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.)
     * [Slack Certified](https://slackcertified.com/?_gl=1*1ncbb8f*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.)
 * Company
     
