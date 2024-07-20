@@ -8,10 +8,6 @@ How can we help?
 What Data Rakuten Collects and Why
 ----------------------------------
 
-**WHAT DATA RAKUTEN COLLECTS AND WHY**
-
-Your privacy is important. And we want to be as clear as possible about what data we collect and how we use it.
-
 When you sign up with Rakuten, we collect some basic information to set up your account. This includes information like your name, address and email. We use this information to maintain your account and support your use of our products.
 
 We also collect information when you shop and interact with us. Some of this data is needed to manage and service your account, and some of it is used to personalize your experience. Information such as your browsing history, shopping history and geolocation, help us create a shopping experience that is tailored to you. With this information, we can recommend stores and deals you might like, show you marketing campaigns that are relevant and display content that is more aligned with your interests.
@@ -46,29 +42,25 @@ This includes information such as name, email, address, payments, and other data
 
 This includes 3rd-party information such as Sign-Up/Sign-In, payment method, and other data required to manage your account if you’ve connected your account to an outside service like Facebook or Google.
 
-**Branded Credit Card**
+**Credit Cards**
 
-This includes information related to the procurement or use of the branded Rakuten (Ebates Visa) card.
-
-**My Wallet**
-
-This includes information from any credit cards you’ve linked to your account or saved in your wallet. 
+This includes information from any credit cards you’ve linked to your account.
 
 **TRANSACTION HISTORY**
 
 **Your Orders and Purchases**
 
-This includes information related to orders, bonuses, adjustments, returns and other shopping-related transactions. 
+This includes information related to orders, bonuses, adjustments, returns and other shopping-related transactions.
 
-**CASH BACK BALANCE HISTORY**
+**CASH BACK ACTIVITY**
 
-**Rewards and Cash Back Payments**
+**Cash Back Payments**
 
-This includes information about Cash Back or non-cash rewards that you’ve earned as a Rakuten member.
+This includes information about Cash Back you’ve earned as a Rakuten member.
 
 **Referral History**
 
-This includes information related to your referral status and history as a referrer and/or referee.
+This includes information related to your referral status and history as a referrer and/or referee. 
 
 **ACCOUNT ACTIVITY**
 
@@ -82,19 +74,13 @@ This includes information such as browsing history, interactions with promotions
 
 **Product Use**
 
-This includes information such as which of our products you use (ex. website, mobile app, the Rakuten Button), how often, and other data related to using our products.
+This includes information such as which of our products you use (ex. website, mobile app, the Rakuten browser extension), how often, and other data related to using our products.
 
 **Email Subscriptions**
 
 This includes information about your email subscriptions, unsubscribed emails, and data related to your interactions with our emails.
 
-**NON-CASH REWARDS**
-
-**Rakuten Super Points**
-
-This includes information about your Rakuten Super Points balance.
-
-For more information about how we collect and use data, please visit our Privacy Policy.
+For more information about how we collect and use data, please visit our [Privacy Policy](https://www.rakuten.com/help/article/rakuten-privacy-policy-360002101688).
 
 Related Articles
 
@@ -136,6 +122,8 @@ Help Topics
 
 [Account Questions](https://www.rakuten.com/help/category/account-questions-26578301675411)
 
+[More Features](https://www.rakuten.com/help/category/more-features-31315401553811)
+
 [Legal](https://www.rakuten.com/help/category/legal-115001470127)
 
 [Company Information](https://www.rakuten.com/help/category/company-information-115001466388)
@@ -172,7 +160,6 @@ About
 * Don’t Sell My Data
     
 * [Help](https://www.rakuten.com/help)
-* [Cash Back for Change](https://www.rakuten.com/cash-back-for-change)
 
 Stores & Brands
 
