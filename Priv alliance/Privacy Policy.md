@@ -2,28 +2,26 @@
 
 Menu Close Back
 
-* [North America Shop](https://acrosticsla.com/)
+* [North America Shop](https://privealliance.store/)
 * [Women](https://privealliance.com/collections/women)
     
     * [View All](https://privealliance.com/collections/women)
     * [Hoodie](https://privealliance.com/collections/hoodies-for-women)
     * [T-shirt](https://privealliance.com/collections/t-shirts-for-women)
-    * [Outerwear](https://privealliance.com/collections/outerwear-for-women)
+    * [Jackets](https://privealliance.com/collections/outerwear-for-women)
     * [Shirt](https://privealliance.com/collections/shirts-for-women)
     * [Crewneck](https://privealliance.com/collections/crewnecks-for-women)
     * [Pants](https://privealliance.com/collections/pants-for-women)
-    * [Shorts](https://privealliance.com/collections/shorts-for-women)
     
 * [Men](https://privealliance.com/collections/men)
     
     * [View All](https://privealliance.com/collections/men)
     * [Hoodie](https://privealliance.com/collections/hoodies-for-men)
     * [T-shirt](https://privealliance.com/collections/t-shirts-for-men)
-    * [Outerwear](https://privealliance.com/collections/outerwear-for-men)
+    * [Jackets](https://privealliance.com/collections/outerwear-for-men)
     * [Shirt](https://privealliance.com/collections/shirts-for-men)
     * [Crewneck](https://privealliance.com/collections/crewnecks-for-men)
     * [Pants](https://privealliance.com/collections/pants-for-men)
-    * [Shorts](https://privealliance.com/collections/shorts-for-men)
     
 * [Accessories](https://privealliance.com/collections/accessories)
 * [News](https://privealliance.com/blogs/editorial)
@@ -42,6 +40,7 @@ Menu Close Back
     * [Shipping & Handling](https://privealliance.com/pages/shipping-and-handling)
     * [Contact Us](https://privealliance.com/pages/contact-us)
     
+* [Featured Brands](https://privealliance.com/collections/featured-brands/Trump+MAGA+Donald-Trump+USA)
 * [Account](https://privealliance.com/account/login)
 
 * [Twitter](https://twitter.com/prive_alliance)
@@ -53,22 +52,20 @@ Menu Close Back
 * [View All](https://privealliance.com/collections/women)
 * [Hoodie](https://privealliance.com/collections/hoodies-for-women)
 * [T-shirt](https://privealliance.com/collections/t-shirts-for-women)
-* [Outerwear](https://privealliance.com/collections/outerwear-for-women)
+* [Jackets](https://privealliance.com/collections/outerwear-for-women)
 * [Shirt](https://privealliance.com/collections/shirts-for-women)
 * [Crewneck](https://privealliance.com/collections/crewnecks-for-women)
 * [Pants](https://privealliance.com/collections/pants-for-women)
-* [Shorts](https://privealliance.com/collections/shorts-for-women)
 
 [Home](#main-menu-panel)
 
 * [View All](https://privealliance.com/collections/men)
 * [Hoodie](https://privealliance.com/collections/hoodies-for-men)
 * [T-shirt](https://privealliance.com/collections/t-shirts-for-men)
-* [Outerwear](https://privealliance.com/collections/outerwear-for-men)
+* [Jackets](https://privealliance.com/collections/outerwear-for-men)
 * [Shirt](https://privealliance.com/collections/shirts-for-men)
 * [Crewneck](https://privealliance.com/collections/crewnecks-for-men)
 * [Pants](https://privealliance.com/collections/pants-for-men)
-* [Shorts](https://privealliance.com/collections/shorts-for-men)
 
 [Home](#main-menu-panel)
 
