@@ -1,6 +1,15 @@
-![Adidas-runtastic-logo](https://d2d69lvc7tiwu6.cloudfront.net/assets/static/adidas-runtastic-logo-a1f84643bbcadacdcd97b96e0fc0be96.png)
+![Menu](/_next/static/media/menu-icon.5394f0cd.svg)
 
-COMMUNITY GUIDELINES
+[![adidas Running logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fadidas-running-horizontal-logo.22084646.png&w=384&q=75)](https://www.runtastic.com/)
+
+* [HOME](https://www.runtastic.com/)
+* [CAREER](https://www.runtastic.com/career)
+* [HELP CENTER](https://help.runtastic.com/)
+* [PARTNERS](https://www.runtastic.com/partners)
+
+[![Profile](/_next/static/media/profile-icon.b7909526.svg)](https://www.runtastic.com/login)
+
+Community Guidelines
 ====================
 
 The adidas Runtastic community is a global fitness family united by a passion for sports. Sports are only fun when we all play by a common set of rules. We’d like to make sure the rules of the game are clearly outlined so that every user feels that we’re on the same team. Below you’ll find our Community Guidelines with more information about what we expect from our members and what you can expect from us.
@@ -23,12 +32,29 @@ We encourage all members of the community to motivate each other by creating the
 
 ### SPEAK UP
 
-As a member of the community, you are encouraged to take action directly in the app if you suspect these guidelines are being violated. If you wish to report a user for violating the guidelines above, you can do so by visiting their profile and clicking “Report User” or [contacting our Customer Happiness Team.](https://help.runtastic.com/hc/en-us/articles/360011906540-Report-Spam-and-Harmful-Content)
+As a member of the community, you are encouraged to take action directly in the app if you suspect these guidelines are being violated. If you wish to report a user for violating the guidelines above, you can do so by visiting their profile and clicking “Report User” or [contacting our Customer Happiness Team.](https://help.runtastic.com/hc/en-us/articles/360011906540-Report-Spam-and-Harmful-Content)
 
 Your choice to report the user will not be communicated to said user, but will be seen only by adidas Runtastic. We will investigate your report and choose a course of action. Understand that we cannot guarantee that all users will follow these guidelines, but together we can do our best to keep the adidas Runtastic community healthy and safe.
 
   
 
-Please note these guidelines are subject to change and we will update them regularly based on the needs of the community. These guidelines exist alongside our Terms & Conditions, which can be found [here.](https://www.runtastic.com/terms)
+Please note these guidelines are subject to change and we will update them regularly based on the needs of the community. These guidelines exist alongside our Terms & Conditions, which can be found [here.](https://www.runtastic.com/terms/adiclub)
 
-![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/997790882/?value=0&label=LHYJCJ6V-wQQoqnk2wM&guid=ON&script=0)
+ABOUT US
+
+* [Training Plans](https://www.runtastic.com/training-plans/running)
+* [Careers](https://www.runtastic.com/career)
+* [Partners](https://www.runtastic.com/partners)
+* [Help Center](https://help.runtastic.com/)
+* [Responsible Disclosure](https://www.adidas.com/us/responsible-disclosure)
+
+MORE
+
+* [Terms & Conditions](https://www.runtastic.com/terms/runtastic/en)
+* [Community Guidelines](https://www.runtastic.com/community-guidelines)
+* [Privacy Notice](https://www.runtastic.com/privacy-notice/runtastic/en)
+* [Legal](https://www.runtastic.com/legal)
+
+![Proud part of adidas](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-part-of-adidas.98fc3bd7.png&w=256&q=75)
+
+© Copyright runtastic GmbH 2024
