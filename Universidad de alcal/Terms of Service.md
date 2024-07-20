@@ -119,7 +119,7 @@ Aviso Legal
         
         * [Preinscripción / Admisión](https://uah.es/es/admision-y-ayudas/masteres/admision)
         * [Matrícula](https://uah.es/es/admision-y-ayudas/masteres/matricula)
-        * [Becas y Ayudas](https://uah.es/es/admision-y-ayudas/masteres/becas-y-ayudas)
+        * [Becas y ayudas](https://uah.es/es/admision-y-ayudas/masteres/becas-y-ayudas)
         
         [Doctorados](https://uah.es/es/admision-y-ayudas/doctorados/)
         -------------------------------------------------------------
