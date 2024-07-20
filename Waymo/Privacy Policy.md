@@ -28,6 +28,8 @@
     
     Company
     
+    Our mission: Be the world’s most trusted driver
+    
     * [Our History](https://waymo.com/about/#story)
     * [Waymo Leadership](https://waymo.com/about/#bios)
     * [Latest Updates](https://waymo.com/about/#blog)
@@ -55,16 +57,20 @@
     
       ![](https://lh3.googleusercontent.com/CF60prp1hlSerUju8maSJVuYG1wVvc0Kj99CLDBQVb75klEXJklqHXgc7UBrn4crZxW2bjIhkyRULKY-f3q9pK7eRgrwJkSb0rvfCFI=s0-e365)
     
-* [Careers](https://waymo.com/careers/)
+* [Careers](https://careers.withwaymo.com/)
     
     Careers
     
-    * [Benefits](https://waymo.com/careers/#benefits)
-    * [Values](https://waymo.com/careers/#values)
-    * [People](https://waymo.com/careers/#people)
-    * [Open Roles](https://waymo.com/careers/#roles)
+    Find your drive
     
-      ![](https://lh3.googleusercontent.com/x_SfLy6Tagf1d9rlAenuto8rx_FHrwwthnDZfT7hIuRjbY2l21BlksxGSoXk5sKMTrHgfo_NBpPK0ynV-d7X7Xuwh-2t0jpTvzbEN5wR=s0-e365)  
+    * [Why Waymo](https://careers.withwaymo.com/why-waymo)
+    * [Working at Waymo](https://careers.withwaymo.com/working-at-waymo)
+    * [Teams](https://careers.withwaymo.com/teams)
+    * [Early Careers](https://careers.withwaymo.com/early-careers)
+    * [Benefits](https://careers.withwaymo.com/benefits)
+    * [Open Roles](https://careers.withwaymo.com/jobs/search)
+    
+      ![](https://lh3.googleusercontent.com/D4FEZ8TQ1vOoI2-302a8B7ey0fZ1ZQZ4XR5s3XH9uwurJ1tU0tgdt0F-yDgn-5OeHW2AxoXbMv8GTsvuNpkpH_rm38V7oFd9g1KRegw=s0-e365)  
 
 Waymo Web Privacy Policy
 ========================
