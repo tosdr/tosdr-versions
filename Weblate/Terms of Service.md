@@ -1,4 +1,4 @@
-Contents Menu Expand Light mode Dark mode Auto light/dark mode Auto light/dark, in light mode Auto light/dark, in dark mode  
+Contents Menu Expand Light mode Dark mode Auto light/dark, in light mode Auto light/dark, in dark mode  
 
 Hide navigation sidebar
 
@@ -8,7 +8,7 @@ Hide table of contents sidebar
 
 Toggle site navigation sidebar
 
-[Weblate 5.6.1 documentation](https://docs.weblate.org/en/latest/index.html)
+[Weblate 5.7 documentation](https://docs.weblate.org/en/latest/index.html)
 
 Toggle Light / Dark / Auto color theme
 
@@ -16,7 +16,7 @@ Toggle table of contents sidebar
 
 [![Logo](../_static/logo-128.png)
 
-Weblate 5.6.1 documentation](https://docs.weblate.org/en/latest/index.html)
+Weblate 5.7 documentation](https://docs.weblate.org/en/latest/index.html)
 
   
 
@@ -155,7 +155,9 @@ Contributor docs
 
 Change history
 
-* [Weblate 5.6.1](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.7](https://docs.weblate.org/en/latest/changes.html)
+* [Weblate 5.6.2](https://docs.weblate.org/en/latest/changes.html#weblate-5-6-2)
+* [Weblate 5.6.1](https://docs.weblate.org/en/latest/changes.html#weblate-5-6-1)
 * [Weblate 5.6](https://docs.weblate.org/en/latest/changes.html#weblate-5-6)
 * [Weblate 5.5.5](https://docs.weblate.org/en/latest/changes.html#weblate-5-5-5)
 * [Weblate 5.5.4](https://docs.weblate.org/en/latest/changes.html#weblate-5-5-4)
@@ -187,6 +189,10 @@ Change history
 Versions
 
 [latest](https://docs.weblate.org/en/latest/)
+
+[weblate-5.6.2](https://docs.weblate.org/en/weblate-5.6.2/)
+
+[weblate-5.6.1](https://docs.weblate.org/en/weblate-5.6.1/)
 
 [weblate-5.6](https://docs.weblate.org/en/weblate-5.6/)
 
@@ -481,7 +487,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 [Next
 
-Weblate 5.6.1](https://docs.weblate.org/en/latest/changes.html)[Previous
+Weblate 5.7](https://docs.weblate.org/en/latest/changes.html)[Previous
 
 About Weblate](https://docs.weblate.org/en/latest/contributing/about.html)
 
