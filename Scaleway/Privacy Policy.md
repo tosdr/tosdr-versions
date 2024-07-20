@@ -4,8 +4,6 @@
 * [Skip to main content](#main)
 * [Skip to footer section](#footer)
 
-[Discover our latest product updates & releases!](https://www.scaleway.com/en/q2-2024-product-launch/)
-
 * [Docs](https://www.scaleway.com/en/docs/)[Docs](https://www.scaleway.com/en/docs/)
 * [Contact](https://www.scaleway.com/en/contact/)[Contact](https://www.scaleway.com/en/contact/)
 * Englishen[Françaisfr](https://www.scaleway.com/fr/politique-confidentialite/)
@@ -61,12 +59,12 @@ Open
     
     * Clusters
         
-        * [AI SupercomputersBuild the next Foundation Model with one of the fastest and most energy-efficient supercomputers in the world](https://www.scaleway.com/en/ai-supercomputers/)
+        * [Custom-built ClustersBuild the next Foundation Model with one of the fastest and most energy-efficient supercomputers in the world](https://www.scaleway.com/en/custom-built-clusters/)
         * [GPU Cluster On DemandRent a GPU-cluster from 32 to more than a thousand GPUs to speed up distributed training](https://www.scaleway.com/en/cluster-on-demand/)
-    * Deployment
+    * Model-as-a-service
         
         * [Managed InferenceServe Generative AI models and answer prompts from European end-consumers securely](https://www.scaleway.com/en/inference/)
-    * GPU
+    * GPU Instances
         
         * [L40S GPU InstanceAccelerate the next generation of AI-enabled applications with the universal L40S GPU Instance, faster than L4 and cheaper than H100 PCIe](https://www.scaleway.com/en/l40s-gpu-instance/)
         * [L4 GPU InstanceMaximize your AI infrastructure's potential with a versatile and cost-effective GPU Instance](https://www.scaleway.com/en/l4-gpu-instance/)
@@ -89,6 +87,7 @@ Open
         * [Public Gateway A single and secure entrance to your infrastructure](https://www.scaleway.com/en/public-gateway/)
         * [Load BalancerImprove the performance of your services as you grow](https://www.scaleway.com/en/load-balancer/)
         * [Domains and DNSBuy domain names and manage DNS. Find your favourite extensions at a fair price](https://www.scaleway.com/en/domains-and-dns/)
+        * [IPAM (IP Address Manager)Centralize and simplify your Scaleway IP address management](https://www.scaleway.com/en/ipam/)
     
 * Data & Tools
     
@@ -97,7 +96,7 @@ Open
         * [Managed Database for PostgreSQL & MySQLNew generation of Relational Databases designed to scale on-demand according to your needs](https://www.scaleway.com/en/database/)
         * [Managed Database for Redis™Accelerate your web application with powerful caching of Memory Databases](https://www.scaleway.com/en/managed-database-for-redistm/)
         * [Managed MongoDB®Drive your own document-oriented database. Let us managed the engine](https://www.scaleway.com/en/managed-mongodb/)
-        * [Serverless SQL Database (beta)Easy PostgreSQL database that adapts automatically to your traffic](https://www.scaleway.com/en/serverless-sql-database/)
+        * [Serverless SQL DatabaseGo full serverless and take the complexity out of PostgreSQL database operations](https://www.scaleway.com/en/serverless-sql-database/)
         * [Messaging and QueuingSend messages and events without having to manage your message broker](https://www.scaleway.com/en/messaging-and-queuing/)
     * Business Applications
         
@@ -152,10 +151,11 @@ Open
         * [Scaleway Learning](https://www.scaleway.com/en/scaleway-learning/)
     * Company
         
-        * [About us](https://www.scaleway.com/en/about-us/)
         * [Events](https://www.scaleway.com/en/events/)
         * [Careers](https://www.scaleway.com/en/careers/)
+        * [About us](https://www.scaleway.com/en/about-us/)
         * [Customer Testimonials](https://www.scaleway.com/en/customer-testimonials/)
+        * [Labs](https://labs.scaleway.com/)
     
 * [Pricing](https://www.scaleway.com/en/pricing/)
 
@@ -443,6 +443,7 @@ Company
 * [Events](https://www.scaleway.com/en/events/)
 * [Labs](https://labs.scaleway.com/en/)
 * [Environment](https://www.scaleway.com/en/environmental-leadership/)
+* [Social Responsibility](https://www.scaleway.com/en/social-responsibility/)
 * [Security](https://www.scaleway.com/en/security-and-resilience/)
 * [Shared Responsibility Model](https://www.scaleway.com/en/shared-responsibility-model/)
 * [News](https://www.scaleway.com/en/news/)
