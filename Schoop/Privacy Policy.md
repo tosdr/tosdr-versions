@@ -1,4 +1,4 @@
-* [Twitter](http://twitter.com/schoopsocial "Twitter")
+* [X](http://twitter.com/schoopsocial "X")
 * [Facebook](https://www.facebook.com/schoopit "Facebook")
 * [Youtube](https://www.youtube.com/channel/UCKuxviUYnfoMugzzdJGwqyg "Youtube")
 * [LinkedIn](https://www.linkedin.com/company/schoop "LinkedIn")
@@ -137,7 +137,7 @@ We want to be clear about Our privacy practices so that you can make informed ch
 Schoop Ltd registered in England and Wales no: 8403573. Data protection reg. no: Z3641715  
 Schoop ® is a registered trademark protected by international law.
 
-* [Twitter](http://twitter.com/schoopsocial "Twitter")
+* [X](http://twitter.com/schoopsocial "X")
 * [Facebook](https://www.facebook.com/schoopit "Facebook")
 * [Youtube](https://www.youtube.com/channel/UCKuxviUYnfoMugzzdJGwqyg "Youtube")
 * [LinkedIn](https://www.linkedin.com/company/schoop "LinkedIn")
