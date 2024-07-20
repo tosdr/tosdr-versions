@@ -2,6 +2,12 @@
 
 [Give Feedback](https://touchpoints.app.cloud.gov/touchpoints/8755a802/submit) [Close](javascript:void();)
 
+Remember, TRICARE will never ask for payment, your personal identifying information, or your health information
+
+Don’t open links from unknown numbers or unsolicited, unexpected texts. Never give PHI/PII to an unknown number or person. And, don’t reply to unsolicited text messages.
+
+Report suspicious activity to [www.tricare.mil/ReportFraud](http://www.tricare.mil/ReportFraud).
+
  [![TRICARE logo](/TRICARE-T17/img/TRICARElogo.svg) Go to TRICARE home](https://www.tricare.mil/)
 
 Search
