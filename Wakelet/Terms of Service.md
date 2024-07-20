@@ -6,7 +6,7 @@
 * [Terms](https://wakelet.com/terms)
 * [Rules](https://wakelet.com/rules)
 
-**Last updated:** 04th July 2023
+**Last updated:** 16th July 2024
 
 * [Terms of Service](#content_1)
 * [These Terms are a Binding Agreement between You and Us](#content_2)
