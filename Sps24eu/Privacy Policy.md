@@ -49,13 +49,6 @@ ProductQuantityPrice
 
 Delivery cost from
 
-* [Solar Modules](https://sps24.eu/en/menu/solar-modules-3748.html "Solar Modules")
-    * [JinKO](https://sps24.eu/en/menu/solar-modules/jinko-3818.html "JinKO")
-    * [LONGi Solar](https://sps24.eu/en/menu/solar-modules/longi-solar-3820.html "LONGi Solar")
-    * [SHARP](https://sps24.eu/en/menu/solar-modules/sharp-3825.html "SHARP")
-    * [JA Solar](https://sps24.eu/en/menu/solar-modules/ja-solar-3829.html "JA Solar")
-    * [Trina Solar](https://sps24.eu/en/menu/solar-modules/trina-solar-3830.html "Trina Solar")
-    * [Das Solar](https://sps24.eu/en/menu/solar-modules/das-solar-4798.html "Das Solar")
 * [Inverters](https://sps24.eu/en/menu/inverters-3100.html "Inverters")
     * [Fronius](https://sps24.eu/en/menu/inverters/fronius-3833.html "Fronius")
     * [KACO](https://sps24.eu/en/menu/inverters/kaco-3861.html "KACO")
@@ -85,6 +78,13 @@ Delivery cost from
     * [KOSTAL](https://sps24.eu/en/menu/hybrid-inverters/kostal-4792.html "KOSTAL")
     * [Deye](https://sps24.eu/en/menu/hybrid-inverters/deye-4818.html "Deye")
 * [Solar Charge Controllers](https://sps24.eu/en/menu/solar-charge-controllers-4801.html "Solar Charge Controllers")
+* [Solar Modules](https://sps24.eu/en/menu/solar-modules-3748.html "Solar Modules")
+    * [JinKO](https://sps24.eu/en/menu/solar-modules/jinko-3818.html "JinKO")
+    * [LONGi Solar](https://sps24.eu/en/menu/solar-modules/longi-solar-3820.html "LONGi Solar")
+    * [SHARP](https://sps24.eu/en/menu/solar-modules/sharp-3825.html "SHARP")
+    * [JA Solar](https://sps24.eu/en/menu/solar-modules/ja-solar-3829.html "JA Solar")
+    * [Trina Solar](https://sps24.eu/en/menu/solar-modules/trina-solar-3830.html "Trina Solar")
+    * [Das Solar](https://sps24.eu/en/menu/solar-modules/das-solar-4798.html "Das Solar")
 * [Battery modules](https://sps24.eu/en/menu/battery-modules-3679.html "Battery modules")
     * [BYD](https://sps24.eu/en/menu/battery-modules/byd-4036.html "BYD")
     * [Tigo](https://sps24.eu/en/menu/battery-modules/tigo-4040.html "Tigo")
@@ -97,13 +97,14 @@ Delivery cost from
     * [FoxESS AIO](https://sps24.eu/en/menu/battery-modules/foxess-aio-4066.html "FoxESS AIO")
     * [Growatt](https://sps24.eu/en/menu/battery-modules/growatt-4067.html "Growatt")
     * [LG Chem RESU](https://sps24.eu/en/menu/battery-modules/lg-chem-resu-4770.html "LG Chem RESU")
-* [Solar Connection Boxes](https://sps24.eu/en/menu/solar-connection-boxes-3683.html "Solar Connection Boxes")
-* [Solar Cables and Connectors](https://sps24.eu/en/menu/solar-cables-and-connectors-4032.html "Solar Cables and Connectors")
-* [Monitoring Systems](https://sps24.eu/en/menu/monitoring-systems-4031.html "Monitoring Systems")
-* [Solar Accessories](https://sps24.eu/en/menu/solar-accessories-3098.html "Solar Accessories")
-    * [Optimizers](https://sps24.eu/en/menu/solar-accessories/optimizers-3681.html "Optimizers")
-    * [Energy Management](https://sps24.eu/en/menu/solar-accessories/energy-management-4033.html "Energy Management")
-    * [Specialty Switches](https://sps24.eu/en/menu/solar-accessories/specialty-switches-4050.html "Specialty Switches")
+    * [Solplanet](https://sps24.eu/en/menu/battery-modules/solplanet-4802.html "Solplanet")
+* [Photovoltaic Accessories](https://sps24.eu/en/menu/photovoltaic-accessories-3098.html "Photovoltaic Accessories")
+    * [Optimizers](https://sps24.eu/en/menu/photovoltaic-accessories/optimizers-3681.html "Optimizers")
+    * [Solar Connection Boxes](https://sps24.eu/en/menu/photovoltaic-accessories/solar-connection-boxes-3683.html "Solar Connection Boxes")
+    * [Solar Cables and Connectors](https://sps24.eu/en/menu/photovoltaic-accessories/solar-cables-and-connectors-4032.html "Solar Cables and Connectors")
+    * [Monitoring Systems](https://sps24.eu/en/menu/photovoltaic-accessories/monitoring-systems-4031.html "Monitoring Systems")
+    * [Energy Management](https://sps24.eu/en/menu/photovoltaic-accessories/energy-management-4033.html "Energy Management")
+    * [Specialty Switches](https://sps24.eu/en/menu/photovoltaic-accessories/specialty-switches-4050.html "Specialty Switches")
 * [Heat pumps](https://sps24.eu/en/menu/heat-pumps-4518.html "Heat pumps")
     * [Air source heat pumps](https://sps24.eu/en/menu/heat-pumps/air-source-heat-pumps-4519.html "Air source heat pumps")
         * [Monoblock Heat Pumps](https://sps24.eu/en/menu/heat-pumps/air-source-heat-pumps/monoblock-heat-pumps-4772.html "Monoblock Heat Pumps")
@@ -132,6 +133,7 @@ Delivery cost from
 * [Electric water heaters](https://sps24.eu/en/menu/electric-water-heaters-4821.html "Electric water heaters")
 * [Recuperation](https://sps24.eu/en/menu/recuperation-4822.html "Recuperation")
     * [VASCO](https://sps24.eu/en/menu/recuperation/vasco-4823.html "VASCO")
+* [EV charging stations](https://sps24.eu/en/menu/ev-charging-stations-4861.html "EV charging stations")
 
 Back
 
@@ -215,7 +217,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=dde4454845c6b0eebdb2bfed8c8e9bd2)
+![pixel](https://client4733.idosell.com/checkup.php?c=89ae99a41901338a83fac4e12f082880)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
