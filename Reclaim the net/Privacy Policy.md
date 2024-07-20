@@ -3,19 +3,12 @@
             
 
 * [Reclaim The Net](https://reclaimthenet.org/)
-    
 * [Free Speech](https://reclaimthenet.org/category/free-speech)
-    
 * [Surveillance](https://reclaimthenet.org/category/privacy)
-    
 * [Culture](https://reclaimthenet.org/category/culture)
-    
 * [Big Tech Alternatives](https://reclaimthenet.org/category/tools)
-    
 * [Merch](https://merch.reclaimthenet.org/)
-    
 * [Donate](https://donorbox.org/reclaim-the-net)
-    
 
 [![](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-the-net-logo.png)](https://reclaimthenet.org/)
 
