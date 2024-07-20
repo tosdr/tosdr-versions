@@ -8,8 +8,8 @@
         
         [SHOP](https://www.teamrar.com/collections/all-products)
         
+    * [RAR MONSTER PLUSHIES](https://www.teamrar.com/collections/plush-monsters)
     * [SHIRTS](https://www.teamrar.com/collections/t-shirts)
-    * [PLUSH MONSTERS](https://www.teamrar.com/collections/plush-monsters)
     * [HOODIES](https://www.teamrar.com/collections/hoodies-1)
     * [ACCESSORIES](https://www.teamrar.com/collections/accessories)
 * SPECIALS Expand submenu
@@ -17,8 +17,8 @@
         
         [SPECIALS](https://www.teamrar.com/collections/all-products)
         
+    * [BUY 1 GET 3 FREE PROMO](https://www.teamrar.com/collections/plush-monsters)
     * [RAR SALE](https://www.teamrar.com/collections/sale)
-    * [RAR BUNDLE DEALS](https://www.teamrar.com/collections/rare-bundles)
     * [NEW RELEASES](https://www.teamrar.com/collections/new-releases)
     * [RAR ADVENTURES](https://www.teamrar.com/collections/rar-adventures)
 * ABOUT Expand submenu
@@ -35,16 +35,16 @@
 
 * [HOME](https://www.teamrar.com/)
 * [SHOP](https://www.teamrar.com/collections/all-products)
+    * [RAR MONSTER PLUSHIES](https://www.teamrar.com/collections/plush-monsters)
     * [SHIRTS](https://www.teamrar.com/collections/t-shirts)
-    * [PLUSH MONSTERS](https://www.teamrar.com/collections/plush-monsters)
     * [HOODIES](https://www.teamrar.com/collections/hoodies-1)
     * [ACCESSORIES](https://www.teamrar.com/collections/accessories)
 
   [![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_3_150x.png?v=1613540341) ![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_3_120x.png?v=1613540341)](https://www.teamrar.com/)[![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_2_150x.png?v=1613540341) ![TEAM RAR Official Website](//www.teamrar.com/cdn/shop/files/Asset_2_120x.png?v=1613540341)](https://www.teamrar.com/)
 
 * [SPECIALS](https://www.teamrar.com/collections/all-products)
+    * [BUY 1 GET 3 FREE PROMO](https://www.teamrar.com/collections/plush-monsters)
     * [RAR SALE](https://www.teamrar.com/collections/sale)
-    * [RAR BUNDLE DEALS](https://www.teamrar.com/collections/rare-bundles)
     * [NEW RELEASES](https://www.teamrar.com/collections/new-releases)
     * [RAR ADVENTURES](https://www.teamrar.com/collections/rar-adventures)
 * [ABOUT](https://www.teamrar.com/pages/the-team)
@@ -220,3 +220,29 @@ Close (esc)
 Close (esc)
 
 ![](//www.teamrar.com/cdn/shop/files/TeamRAR_gradient_outline_110x.png?v=1669670586)
+
+Close cart
+
+Your cart is currently empty.
+
+Continue browsing [here](https://www.teamrar.com/collections/all).
+
+t: e
+
+Quantity 
+
+Remove
+
+Discounts
+
+\-
+
+Subtotal
+
+£0.00
+
+Shipping, taxes, and discount codes calculated at checkout.
+
+ I agree with the [terms and conditions](https://www.teamrar.com/policies/terms-of-service) and confirm that I am 18 years or older
+
+Check out
