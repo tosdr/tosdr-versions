@@ -5,7 +5,7 @@
 Main Navigation
 ---------------
 
-[![The Finances gator](https://cdn.thefinancesgator.com/wp-content/uploads/sites/167/2020/10/The-Finances-Gator_Logo.svg)](https://thefinancesgator.com/) 
+[![The Finances gator](https://cdn.thefinancesgator.com/wp-content/uploads/sites/167/2020/10/The-Finances-Gator_Logo.svg)](https://thefinancesgator.com/)
 
 1Information
 
