@@ -17,6 +17,7 @@ Project setup and configuration
 * [Configuration file reference](https://docs.readthedocs.io/en/stable/config-file/v2.html)
 * [Automation rules](https://docs.readthedocs.io/en/stable/automation-rules.html)
 * [How to create reproducible builds](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
+* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 
 Build process
 
@@ -115,6 +116,7 @@ Reference
     * [Site support](https://docs.readthedocs.io/en/stable/support.html)
     * [Glossary](https://docs.readthedocs.io/en/stable/glossary.html)
 * [Developer Documentation](https://dev.readthedocs.io/)
+* [Read the Docs website](https://about.readthedocs.com/)
 
 [Read the Docs user documentation](https://docs.readthedocs.io/en/stable/index.html)
 
@@ -122,7 +124,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/7fb9916e04d789ef0d231e5a41291b5ca32c92c6/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/9ed7e9ca1d416a6a9421c566a7e5e593a8710c7c/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -366,7 +368,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `7fb9916e`.
+© Copyright Read the Docs, Inc & contributors. Revision `9ed7e9ca`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -389,6 +391,7 @@ Project setup and configuration
 * [Configuration file reference](https://docs.readthedocs.io/en/stable/config-file/v2.html)
 * [Automation rules](https://docs.readthedocs.io/en/stable/automation-rules.html)
 * [How to create reproducible builds](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
+* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 
 Build process
 
@@ -487,6 +490,7 @@ Reference
     * [Site support](https://docs.readthedocs.io/en/stable/support.html)
     * [Glossary](https://docs.readthedocs.io/en/stable/glossary.html)
 * [Developer Documentation](https://dev.readthedocs.io/)
+* [Read the Docs website](https://about.readthedocs.com/)
 
 [![Logo](_static/logo.svg)](https://docs.readthedocs.io/en/stable/index.html)
 
@@ -509,6 +513,7 @@ Project setup and configuration
 * [Configuration file reference](https://docs.readthedocs.io/en/stable/config-file/v2.html)
 * [Automation rules](https://docs.readthedocs.io/en/stable/automation-rules.html)
 * [How to create reproducible builds](https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html)
+* [Read the Docs Addons](https://docs.readthedocs.io/en/stable/addons.html)
 
 Build process
 
@@ -607,12 +612,13 @@ Reference
     * [Site support](https://docs.readthedocs.io/en/stable/support.html)
     * [Glossary](https://docs.readthedocs.io/en/stable/glossary.html)
 * [Developer Documentation](https://dev.readthedocs.io/)
+* [Read the Docs website](https://about.readthedocs.com/)
 
 * [](https://docs.readthedocs.io/en/stable/index.html)
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/7fb9916e04d789ef0d231e5a41291b5ca32c92c6/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/9ed7e9ca1d416a6a9421c566a7e5e593a8710c7c/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -856,7 +862,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `7fb9916e`.
+© Copyright Read the Docs, Inc & contributors. Revision `9ed7e9ca`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -864,7 +870,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/7fb9916e04d789ef0d231e5a41291b5ca32c92c6/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/9ed7e9ca1d416a6a9421c566a7e5e593a8710c7c/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -1108,7 +1114,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `7fb9916e`.
+© Copyright Read the Docs, Inc & contributors. Revision `9ed7e9ca`.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -1116,7 +1122,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/7fb9916e04d789ef0d231e5a41291b5ca32c92c6/docs/user/privacy-policy.rst)
+* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/9ed7e9ca1d416a6a9421c566a7e5e593a8710c7c/docs/user/privacy-policy.rst)
 
 * * *
 
@@ -1598,4 +1604,4 @@ Due to the nature of our environment where documentation is built as necessary, 
 
 [Previous](https://docs.readthedocs.io/en/stable/unofficial-projects.html "Unofficial and unmaintained projects policy") [Next](https://docs.readthedocs.io/en/stable/legal/security-policy.html "Security policy")
 
-© Copyright Read the Docs, Inc & contributors. Revision `7fb9916e`.
+© Copyright Read the Docs, Inc & contributors. Revision `9ed7e9ca`.
