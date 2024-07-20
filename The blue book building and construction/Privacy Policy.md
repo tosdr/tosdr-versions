@@ -16,14 +16,14 @@ Search
     
     #### Find by Categories
     
-    * [AEC Professional & Industry Services](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=AEC+Professional+&+Industry+Services&tab=1)
+    * [AEC Professional & Industry Services](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=AEC+Professional+%26+Industry+Services&tab=1)
     * [Concrete](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Concrete&tab=1)
     * [Contractors Equipment](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Contractors+Equipment&tab=1)
     * [Conveying Systems](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Conveying+Systems&tab=1)
     * [Doors and Windows](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Doors+and+Windows&tab=1)
     * [Electrical](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Electrical&tab=1)
     * [Equipment](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Equipment&tab=1)
-    * [Facility & Environmental Services](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Facility+&+Environmental+Services&tab=1)
+    * [Facility & Environmental Services](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Facility+%26+Environmental+Services&tab=1)
     * [Finishes](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Finishes&tab=1)
     * [Furnishings](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Furnishings&tab=1)
     * [Masonry](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=Masonry&tab=1)
@@ -37,14 +37,14 @@ Search
     
     #### Find Companies by CSI
     
-    * [00 - Procurement & Contracting Requirements](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=00+-+Procurement+&+Contracting+Requirements&tab=2)
+    * [00 - Procurement & Contracting Requirements](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=00+-+Procurement+%26+Contracting+Requirements&tab=2)
     * [01 - General Requirements](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=01+-+General+Requirements&tab=2)
     * [02 - Existing Conditions](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=02+-+Existing+Conditions&tab=2)
     * [03 - Concrete](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=03+-+Concrete&tab=2)
     * [04 - Masonry](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=04+-+Masonry&tab=2)
     * [05 - Metals](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=05+-+Metals&tab=2)
-    * [06 - Wood, Plastics & Composites](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=06+-+Wood,+Plastics+&+Composites&tab=2)
-    * [07 - Thermal & Moisture Protection](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=07+-+Thermal+&+Moisture+Protection&tab=2)
+    * [06 - Wood, Plastics & Composites](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=06+-+Wood%2C+Plastics+%26+Composites&tab=2)
+    * [07 - Thermal & Moisture Protection](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=07+-+Thermal+%26+Moisture+Protection&tab=2)
     * [08 - Openings](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?group=08+-+Openings&tab=2)
     * [View All >](https://www.thebluebook.com/products/bluesearchtechnology/search-companies.html?tab=2)
     
