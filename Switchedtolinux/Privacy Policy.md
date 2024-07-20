@@ -1,5 +1,7 @@
 [![Our Walk in Christ](/templates/stl-custom/images/stllogo.jpg)](https://switchedtolinux.com/) Menu
 
+Search ...    
+
 * [Home](https://switchedtolinux.com/)
 * [Live](https://switchedtolinux.com/live)
 * [Linux](#)
@@ -16,8 +18,6 @@
     * [Monthly Support](https://switchedtolinux.com/support/monthly-support)
     * [Merch](https://shop.switchedtolinux.com/)
 * [Contact](https://switchedtolinux.com/contact)
-
-Search ...    
 
 404
 ===
@@ -49,21 +49,21 @@ It looks like this page is not here...someone ran a command!
 
 ![404 Page Not Found](/images/articles/404.jpg#joomlaImage://local-images/articles/404.jpg?width=800&height=450)
 
+### Affiliates
+
+* [ProWritingAid](https://tlm.li/pwa)
+* [A2Hosting](https://tlm.li/a2h)
+* [Mint Mobile](http://fbuy.me/ooPje)
+* [Digital Ocean](https://tlm.li/doh)
+* [Namecheap](https://tlm.li/nc)
+* [Amazon](http://amzn.to/2oFr4Wa)
+* [In Motion Hosting](https://tlm.li/imh)
+* [Nord VPN](https://tlm.li/nord)
+* [Siteground](https://tlm.li/sgh)
+
 ### Support Sites
 
 [![](/images/locals.jpg)](https://switchedtolinux.locals.com/ "Locals Community")[![](/images/subscribestar.jpg)](https://subscribestar.com/switchedtolinux "Subscribestar")[![](/images/patreon.jpg)](https://patreon.com/tomm "Patreon")[![](/images/liberapay.jpg)](https://liberapay.com/thinklifemedia/donate "LiberaPay")
-
-### Affiliates
-
-* [Siteground](https://tlm.li/sgh)
-* [ProWritingAid](https://tlm.li/pwa)
-* [Nord VPN](https://tlm.li/nord)
-* [A2Hosting](https://tlm.li/a2h)
-* [Digital Ocean](https://tlm.li/doh)
-* [Amazon](http://amzn.to/2oFr4Wa)
-* [In Motion Hosting](https://tlm.li/imh)
-* [Mint Mobile](http://fbuy.me/ooPje)
-* [Namecheap](https://tlm.li/nc)
 
 * * *
 
