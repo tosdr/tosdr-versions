@@ -97,7 +97,7 @@ If you have any questions about this Privacy Policy or how your personal informa
 * [SNAP EBT](https://www.luckysupermarkets.com/snap-ebt)
 * [Rewards](https://www.luckysupermarkets.com/rewards-login)
 * [Shopping List](https://www.luckysupermarkets.com/shopping-list)
-* [Made to Order](https://shop-prepared.luckysupermarkets.com/made-to-order-home)
+* [Made to Order](https://prepared.luckysupermarkets.com/)
 * [FAQ](https://www.luckysupermarkets.com/faq)
 
 ##### Policies
