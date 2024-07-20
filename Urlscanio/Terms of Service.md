@@ -13,6 +13,10 @@
 
 [![SecurityTrails logo](/img/securitytrails-rf.png)](https://urlscan.io/securitytrails/)
 
+#### Commercial Customers
+
+For our commercial customers we offer separate terms of service. Please reach out to sales@urlscan.io if you need to review these terms and make changes.
+
 urlscan.io - Terms of Service
 =============================
 
@@ -237,7 +241,7 @@ Version:
 
 #### 0 0 0
 
-Page generated on 2024-06-21 06:42:18
+Page generated on 2024-07-20 09:51:17
 
 * [About Us](https://urlscan.io/about/)
 * [Security](https://urlscan.io/security/)
