@@ -283,7 +283,7 @@ English
 
 [Privacy notice](https://www.veriff.com/privacy-notice)
 
-[Cookie policy](https://www.veriff.com/cookie-policy)
+[Cookie notice](https://www.veriff.com/cookie-policy)
 
 [Bug bounty](https://www.veriff.com/bug-bounty)
 
