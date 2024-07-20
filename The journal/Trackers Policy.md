@@ -1,3 +1,5 @@
+![](https://s0.jrnl.ie/weather/icon/svg/8.svg)     
+
 Advertisement
 
 Close
@@ -25,8 +27,6 @@ If you've seen value in our reporting, please contribute what you can, so we can
     
 
 [Support Us](https://www.thejournal.ie/contribute?utm_source=thejournal&utm_medium=masthead)
-
-[](#)
 
 [Sign out](#)
 
@@ -340,40 +340,93 @@ This policy will be reviewed and updated from time to time to consider changes i
 
 If you have questions about this Privacy Notice or our treatment of the information provided to us, please contact us at: Name: Journal Media Limited ATTN: Data Protection Officer Address: 4th Floor Latin Hall, Golden Lane, Dublin 8 E-mail: privacy@thejournal.ie
 
-Content copyright © Journal Media Ltd. 2024 Registered in Dublin, registration number: 483623. Registered office: 3rd floor, Latin Hall, Golden Lane, Dublin 8.
+[](https://www.instagram.com/thejournal_ie)[](https://www.facebook.com/thejournal.ie)[](https://www.tiktok.com/@thejournal_ie)[](https://twitter.com/thejournal_ie)
 
-Please note that The Journal uses cookies to improve your experience and to provide services and advertising. For more information on cookies please refer to our [cookies policy](https://www.thejournal.ie/cookies-policy).
+more from us
 
-Featured
+[](https://www.instagram.com/thejournal_ie)[](https://www.facebook.com/thejournal.ie)[](https://www.tiktok.com/@thejournal_ie)[](https://twitter.com/thejournal_ie)
 
-* [About Us](https://www.thejournal.ie/about-us/)
-* [We're Hiring!](https://careers.thejournal.ie/)
-* [Contact Us](https://www.thejournal.ie/contact/)
+Sections
+
+* [FactCheck](https://www.thejournal.ie/factcheck/news/)
+* [Voices](https://www.thejournal.ie/voices/)
+* [The Daily Poll](https://www.thejournal.ie/your-say/news/)
+* [Money Diaries](https://www.thejournal.ie/money-diaries/news/)
+* [Noteworthy](https://www.thejournal.ie/noteworthy/news)
+
+Journal Media
+
+* [About us](https://www.thejournal.ie/about-us/)
+* [Careers](https://careers.thejournal.ie/)
+* [Contact](https://www.thejournal.ie/contact/)
 * [Advertise With Us](https://advertising.thejournal.ie/)
-* [The Journal FactCheck](https://www.thejournal.ie/the-journal-factcheck/)
+* [About FactCheck](https://www.thejournal.ie/the-journal-factcheck/)
 
-Policies
+Our Network
+
+* [The 42](https://www.the42.ie/)
+* [Noteworthy](https://www.noteworthy.ie/)
+* [FactCheck Knowledge Bank](https://www.factchecking.ie/)
+
+Terms & Legal Notices
 
 * [Terms of Use](https://www.thejournal.ie/terms/)
 * [Cookies & Privacy](https://www.thejournal.ie/cookies-privacy-policy/)
-* [Advertising](https://www.thejournal.ie/advertising-policy/)
+* [Adverstising](https://www.thejournal.ie/advertising-policy/)
 * [Comments](https://www.thejournal.ie/comments-policy/)
 * [Copyright](https://www.thejournal.ie/copyright-policy/)
 * [Competition](https://www.thejournal.ie/competitions-terms-and-conditions/)
 
-The Journal supports the work of the Press Council of Ireland and the Office of the Press Ombudsman, and our staff operate within the Code of Practice. You can obtain a copy of the Code, or contact the Council, at [www.presscouncil.ie](https://www.presscouncil.ie/), PH: (01) 6489130, Lo-Call 1800 208 080 or email: [info@presscouncil.ie](mailto:info@presscouncil.ie)
+more from us
 
-News images provided by [Alamy](https://www.alamy.com/) and [RollingNews.ie](http://rollingnews.ie/) unless otherwise stated. Irish sport images provided by [Inpho Photography](https://www.inpho.ie/) unless otherwise stated. Wire service provided by [AFP](https://www.afp.com/en/agency/charter) and [Press Association](https://pamediagroup.com/).
+[](https://www.instagram.com/thejournal_ie)[](https://www.facebook.com/thejournal.ie)[](https://www.tiktok.com/@thejournal_ie)[](https://twitter.com/thejournal_ie)
 
-Journal Media does not control and is not responsible for user created content, posts, comments, submissions or preferences. Users are reminded that they are fully responsible for their own created content and their own posts, comments and submissions and fully and effectively warrant and indemnify Journal Media in relation to such content and their ability to make such content, posts, comments and submissions available. Journal Media does not control and is not responsible for the content of external websites.
+Sections
 
-[Switch to Mobile Site](https://www.thejournal.ie/?switcher=touch)
+* [GAA](https://www.thejournal.ie/gaa/)
+* [Soccer](https://www.thejournal.ie/soccer/)
+* [Rugby](https://www.thejournal.ie/rugby/)
+* [Golf](https://www.thejournal.ie/golf/)
+* [Racing](https://www.thejournal.ie/racing/)
 
-[Switch to Desktop Site](https://www.thejournal.ie/?switcher=desktop)
+Journal Media
 
-[](https://www.facebook.com/thejournal.ie)[](https://twitter.com/thejournal_ie)[](https://www.instagram.com/thejournal_ie)
+* [About us](https://www.thejournal.ie/about-us/)
+* [Careers](https://careers.thejournal.ie/)
+* [Contact](https://www.thejournal.ie/contact/)
+* [Advertise With Us](https://advertising.thejournal.ie/)
 
-[](https://www.thejournal.ie/)[](https://ifcncodeofprinciples.poynter.org/)[](https://www.presscouncil.ie/)
+Our Network
+
+* [The Journal](https://www.thejournal.ie/)
+* [Noteworthy](https://www.noteworthy.ie/)
+* [FactCheck Knowledge Bank](https://www.factchecking.ie/)
+
+Terms & Legal Notices
+
+* [Terms of Use](https://www.thejournal.ie/terms/)
+* [Cookies & Privacy](https://www.thejournal.ie/cookies-privacy-policy/)
+* [Adverstising](https://www.thejournal.ie/advertising-policy/)
+* [Comments](https://www.thejournal.ie/comments-policy/)
+* [Copyright](https://www.thejournal.ie/copyright-policy/)
+* [Competition](https://www.thejournal.ie/competitions-terms-and-conditions/)
+
+© 2024 Journal Media Ltd
+
+* [Terms of Use](https://www.thejournal.ie/terms/)
+* [Cookies & Privacy](https://www.thejournal.ie/cookies-privacy-policy/)
+* [Adverstising](https://www.thejournal.ie/advertising-policy/)
+* [Comments](https://www.thejournal.ie/comments-policy/)
+* [Copyright](https://www.thejournal.ie/copyright-policy/)
+* [Competition](https://www.thejournal.ie/competitions-terms-and-conditions/)
+
+[Switch to Desktop](https://www.thejournal.ie/cookies-privacy-policy/?switcher=desktop) [Switch to Mobile](https://www.thejournal.ie/cookies-privacy-policy/?switcher=mobile)
+
+[](https://www.presscouncil.ie/)
+
+[](https://ifcncodeofprinciples.poynter.org/)
+
+The Journal supports the work of the Press Council of Ireland and the Office of the Press Ombudsman, and our staff operate within the Code of Practice. You can obtain a copy of the Code, or contact the Council, at https://www.presscouncil.ie, PH: (01) 6489130, Lo-Call 1800 208 080 or email: mailto:info@presscouncil.ie
 
   
 
