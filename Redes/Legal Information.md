@@ -90,7 +90,7 @@ El plazo de presentación de las solicitudes se realiza a través de la sede ele
 
 [La ayuda del programa Kit Consulting ya se puede solicitar](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar")
 
-![Novedades Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Novedades%20KD.png?h=b878dce1&itok=T7EQLyN9)
+![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=OutC1Lyp)
 
 Noticia
 
@@ -100,31 +100,35 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-digital-de-3000 "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros ")
 
-![ONE](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%20ONE_0.png?h=b878dce1&itok=mtzHZanX)
+![Informe UE](/sites/redes/files/styles/ratio_1_1/public/media/images/Informeweb.png?h=d3e663cf&itok=9nxaipRK)
 
 Noticia
 
-Emprendimiento
+IA & Tecnologías habilitadoras
 
-Descubre todas las posibilidades y herramientas que la Plataforma ONE ofrece al ecosistema emprendedor español
+La UE destaca el impulso que Kit Consulting y Kit Digital brindan a las pymes, en su informe Década Digital 2024 donde se mide la digitalización europea
 
-[Descubre todas las posibilidades y herramientas que la Plataforma ONE ofrece al ecosistema emprendedor español](http://red.es/es/one-herramientas-oficina-nacional-emprendimiento- "Ir al contenido de: Descubre todas las posibilidades y herramientas que la Plataforma ONE ofrece al ecosistema emprendedor español")
+[La UE destaca el impulso que Kit Consulting y Kit Digital brindan a las pymes, en su informe Década Digital 2024 donde se mide la digitalización europea](http://red.es/es/actualidad/noticias/informe-decada-digital-ue "Ir al contenido de: La UE destaca el impulso que Kit Consulting y Kit Digital brindan a las pymes, en su informe Década Digital 2024 donde se mide la digitalización europea")
+
+Noticia
+
+Educación
+
+Red.es destina 115,5M € para el desarrollo de 374 becas de formación en inteligencia artificial
+
+[Red.es destina 115,5M € para el desarrollo de 374 becas de formación en inteligencia artificial](http://red.es/es/actualidad/noticias/formacion-talento-becas-inteligencia-artificial- "Ir al contenido de: Red.es destina 115,5M € para el desarrollo de 374 becas de formación en inteligencia artificial")
 
 Noticia
 
 Internacionalización
 
-Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki pueden inscribirse hasta el 27 de septiembre
+Desafía Nueva York lanza su segunda edición dirigida a pymes y startups con proyectos punteros en ciberseguridad
 
-[Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki pueden inscribirse hasta el 27 de septiembre](http://red.es/es/actualidad/noticias/apertura-inscripciones-slush "Ir al contenido de: Las startups interesadas en sumarse a la Misión Digital Slush en Helsinki pueden inscribirse hasta el 27 de septiembre")
+[Desafía Nueva York lanza su segunda edición dirigida a pymes y startups con proyectos punteros en ciberseguridad](http://red.es/es/actualidad/noticias/desafia-nueva-york-startups-ciberseguridad "Ir al contenido de: Desafía Nueva York lanza su segunda edición dirigida a pymes y startups con proyectos punteros en ciberseguridad ")
 
-Noticia
+Nueva convocatoria de empleo. ¡Inscripciones hasta el 8 de agosto!
 
-Sociedad Digital
-
-El proyecto FabLabs impulsado por Red.es finalista en los premios europeos #EuropaSeSiente 2024
-
-[El proyecto FabLabs impulsado por Red.es finalista en los premios europeos #EuropaSeSiente 2024](http://red.es/es/actualidad/noticias/premios-europa-se-siente "Ir al contenido de: El proyecto FabLabs impulsado por Red.es finalista en los premios europeos #EuropaSeSiente 2024")
+[Consulta toda la información](http://red.es/es/sobre-nosotros/trabaja-con-nosotros#empleoindefinido)
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
