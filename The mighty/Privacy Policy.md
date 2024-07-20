@@ -279,7 +279,6 @@ If we transfer your personal information from the United Kingdom or European Eco
 
 * [Submit Your Story](https://themighty.com/submit-a-story/)
 * [Partner With Us](https://corp.themighty.com/partner-with-us/)
-* [Partners and Contributors Login](https://themighty.com/login/)
 * [Advertise with us](https://corp.themighty.com/marketing-advertising-sponsorships/)
 
 **Topics**
