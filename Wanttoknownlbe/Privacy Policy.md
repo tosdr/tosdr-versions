@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/persvrijheid-zwaar-onder-druk-angst-bij-tptb/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/heftige-zonnevlam-bereikte-onze-aarde-zaterdag/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -154,37 +154,33 @@ Inschrijven
 
 #### Quote van de week
 
-> Ik wil geen lid worden van een club, die mij als lid accepteert
+> Toen ik jonger was, kon ik me álles herinneren, of het nu gebeurd was of niet
 > 
-> Groucho Marx (1890 – 1977), komiek
+> Mark Twain (1835-1910), publicist/humorist
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8039.jpg?fit=662%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/P9104778-2.jpg?fit=429%2C440&ssl=1)
 
-### [Shungiet: Balans & bescherming vanuit de diepte van het Carbon](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/)
+### [Aquarius Polariser: koperbedrading in jouw huis beschermt tegen straling!](https://www.wanttoknow.nl/aanbieding/aquarius-polariser-koperbedrading-in-jouw-huis-beschermt-tegen-straling/)
 
-[– Let op! Aanbieding geldig t/m donderdag 27 juni! – We zijn ontzettend blij dat we de kans hebben je deze Shungiet aanbieding opnieuw te doen! Shungiet is namelijk maar op één plek in de wereld te vinden: in Rusland. Je weet; import en export is nu extreem moeilijk! Deze zeldzame, eeuwenoude steen, dankt de naam Shungite aan de enige plek ter wereld, waar het gevonden wordt. Shun’ga (Шуньга) ligt aan een groot meer oostelijk van Finland. Shungiet is uniek ook, omdat deze steensoort bijna volledig uit een zeldzame ‘Fullereen’ ofwel ‘Buckyball’-carbon (koolstof) bestaat.. Deze karakteristiek en de eigenschap/kwaliteit van Shungiet werd enkele decennia geleden pas ontdekt, onder elektronen-microscopen bestudeerd. Bijzonder, fascinerend materiaal! Lees daarom snel verder voor alle info en hoe je Shungiet kunt gebruiken in jouw dagelijks leven. En ook gewoon als sieraad! Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/)
+[Door invloed van magnetisme van zonnepanelen, omvormers, draadloze digitale signalen en het elektriciteit netwerk, moet het lichaam continue in verzet. Dit alles verzwakt het immuunsysteem. De meeste mensen staan er niet bij stil maar ook een elektriciteit netwerk in de woning functioneert als een antenne en neemt straling van buitenaf op en geeft dit ook weer af binnen in huis. En helaas horen je er steeds vaker over: veel meer mensen met zonnepanelen op hun dak hebben slapen vaak slecht, wat zich op termijn kan veranderen in gezondheidsklachten. De technici van Aquarius kwamen erachter wat er mis gaat; door de magnetische velden wordt er minder serotonine aangemaakt. De pijnappelklier is een klier die zich midden in de hersenen bevindt en die de vorm heeft van een dennenappel. Gelukkig kunnen de velden van het elektriciteit netwerk simpel gecorrigeerd worden om juist een positieve invloed hebben op het lichaam door een Aquarius Polariser. Een Aquarius Polariser is een kastje die je in het stopcontact steekt ergens in de woning of slaapkamer. Het shungite en kwarts in de Polariser zet de frequenties van het elektra netwerk om naar een frequentie die minder belastend is voor het lichaam. De polariser zorgt ervoor dat de disharmonische frequenties op het elektrische netwerk worden omgezet naar biofrequenties, zonder dat het apparaat zelf elektriciteit verbruikt! In dit artikel vatten we nog eens grondig samen waarom EMF-straling zo slecht voor ons is en introduceren we de geweldige Polarisers van Aquarius Vitaliser, voor een extra mooie WantTopKnow-prijs! Lees dus snel verder …](https://www.wanttoknow.nl/aanbieding/aquarius-polariser-koperbedrading-in-jouw-huis-beschermt-tegen-straling/)
 
-[Order now](https://www.wanttoknow.nl/aanbieding/shungiet-balans-bescherming-vanuit-de-diepte-van-het-carbon/#pt-field-text-5)
+[Order now](https://www.wanttoknow.nl/aanbieding/aquarius-polariser-koperbedrading-in-jouw-huis-beschermt-tegen-straling/#pt-field-text-5)
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
 #### WantToKnow Aanbieding
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/zaphir_chimes_set_560.jpg?fit=440%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/IMGP8009-edit.jpg?fit=440%2C440&ssl=1)
 
-### [ZAPHIR-windgongen; mens en seizoen resoneren deze zomer!](https://www.wanttoknow.nl/aanbieding/zaphir-windgongen-mens-en-seizoen-resoneren-deze-zomer/)
+### [Ring of Harmony: Terug naar de natuurlijke balans..!](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
-[– Let op! Geldig t/m donderdag 4 juli! – Het verschil tussen een Rolls Royce en een Lelijke Eend is het verschil tussen een bamboe windgong van Xenos en deze unieke handgestemde Zaphir-windgongen. En datkun je alleen maar horen! Net zo min als je een Rolls Royce bij Xenos kunt kopen, zijn daar ook deze Zaphir-gongetjes niet te verkrijgen. Je begrijpt waar we naartoe willen: deze werkelijk betoverende muziekinstrumentjes hebben we dit keer in de aanbieding. Ambachtelijke instrumenten, elk volledig met de hand vervaardigd, maar vooral zuiver gestemd, door vakmensen in de Franse Pyreneeën. De serie is gestemd op basis van de jaargetijden én de Soefi die alles waarneemt. Los van elkaar, krachtige, onafhankelijke werelden van specifieke klank. Tezamen vormen zij dé harmonie van de ‘Schepping’. Luister hier naar hun sprankelende twinkeling, voor een nieuwe energieke lente …](https://www.wanttoknow.nl/aanbieding/zaphir-windgongen-mens-en-seizoen-resoneren-deze-zomer/)
+[Water is van alle elementen, in staat de trillingen die het tegenkomt in zich op te nemen, vast te houden en af te geven als het bijvoorbeeld in het lichaam terecht komt. In de natuur heeft elke materie een eigen frequentie/stralingsenergie, die bestaat uit een biologische harmonische trilling. Maar ook chemische samenstellingen, die de mens zelf in een laboratorium maakt, hebben zo’n frequentie. Het plotselinge verschijnen van zo’n nieuwe materie, bijvoorbeeld bij de uitvinding van een nieuw voedingsadditief, heeft daardoor niet alleen effect in de fysieke realiteit, maar ook in de wereld van de trillingen. Een nieuwe ‘stem’ in de harmonie, die nog wel eens ‘vals’ kan zingen. Onharmonisch ’tegen-werkt’. Het is met dit inzicht, dat wij deze Ring of Harmony van Aquarius Vitaliser aanbieden. Lees snel verder hoe de Ring of Harmony jou kan ‘voeden’ en negatieve energie neutraliseert…. …](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
-[Order now](https://www.wanttoknow.nl/aanbieding/zaphir-windgongen-mens-en-seizoen-resoneren-deze-zomer/#pt-field-text-5)
+[Order now](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/#pt-field-text-5)
 
 [![BRES #346](https://www.wanttoknow.nl/wp-content/uploads/BRES-346-BANNER.jpg)](https://bresmagazine.nl/publicaties/)
-
-Advertentie
-
-[![WietOlie](https://www.wanttoknow.nl/wp-content/uploads/klantreacties-1-350px-auto.webp)](https://thc-olie.nl/)
 
 #### WantToKnow Boekentip
 
@@ -198,19 +194,21 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [10 juni 2024](h
 
 Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Duurzaam](https://www.wanttoknow.nl/trefwoorden/duurzaam/), [Farmacie](https://www.wanttoknow.nl/trefwoorden/farmacie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/), [Wetenschap](https://www.wanttoknow.nl/trefwoorden/wetenschap/) [Laat een reactie achter](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/#respond)
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/EET-BACON-vegetariers-doden-planten.jpg?fit=627%2C780&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Biden-looprerk-president-seal.jpg?fit=368%2C483&ssl=1)
+
+### De wereld is gebaat bij praktische oplossingen
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/FTM-logo-banner.jpg?fit=730%2C398&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Wie-regeert-de-VS-Obama-Biden-banner.jpg?fit=682%2C433&ssl=1)
 
-### [Follow the Money: ‘lakei van de macht’..??](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/)
+### [Wie weet wie de VS bestuurt..??](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [14 juni 2024](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [14 juli 2024](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
 
-[De controverses in de maatschappij nemen hand-over-hand toe en de informatievoorziening van burgers is daarbij essentieel geworden. Essentieel in de zin van betrouwbare info, via onafhankelijke journalistiek. Journalistiek, die burgers neutrale informatie dient aan te reiken en vooral EEN KEUZE laat tussen de éne en ándere betrokken partij(en) in de vorm van woord/weerwoord in een bericht. De Europese Commissie wil media het zwijgen opleggen, wanneer informatie hen niet bevalt. Wanneer zij het als ‘des’- of ‘misinformatie’ kunnen karakteriseren. Maar daarbij blijft het niet..!! Infiltratie van gevestigde nieuwe media neemt hand over hand toe. Lees dit artikel van de hand van AndereKrant-hoofdredacteur Karel Beckman.. Om even goed te laten bezinken..!! …](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/)
+[Een onnavolgbare analyse van Leon de Winter over de chaos in de VS. Een goed verborgen chaos, want krachten ‘achter de schermen’ metselen de gaten die op VS-bestuurlijk niveau vallen, helemaal dicht. En toch is de meest simpele vraag de rode vlag voor ieder weldenkend mens: “Als Joe Biden niet of nauwelijks nog weet wat er speelt in zijn directe omgeving, dan kan hij de VS toch niet meer leiden; maar wie doet dat dan..??!!” Deze vraag is natuurlijk essentieel voor de situatie in de wereld. Wij hebben hier op de site regelmatig verslag gedaan de afgelopen jaren, van de breekbaar-mentale situatie van de familie Biden, waar vooral Hunter Biden (Joe’s zoon) de situatie volledig uit de hand liet lopen. Een krachtige analyse van Leon de Winter. …](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) Tagged [doofpot](https://www.wanttoknow.nl/trefwoorden/doofpot/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [Nieuws](https://www.wanttoknow.nl/trefwoorden/nieuws/), [Politiek](https://www.wanttoknow.nl/trefwoorden/politiek/), [valse vlag operatie](https://www.wanttoknow.nl/trefwoorden/valse-vlag-operatie/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/follow-the-money-lakei-van-de-macht/#respond)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
@@ -219,6 +217,30 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### En zo vond de US-verkiezingsfraude plaats..!!
+
+[Trump neergeschoten. https://www.youtube.com/watch?v=AC5TNz4…](https://www.wanttoknow.nl/politiek/verkiezingen/en-zo-vond-de-us-verkiezingsfraude-plaats/comment-page-1/#comment-626301)
+
+![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
+
+##### **El** reacts on:
+
+##### 10.000 jaar oud: de ‘Black Knight’-satelliet..!!
+
+[Om dit artikel als geloofwaardig te beschouwen moet je de vo…](https://www.wanttoknow.nl/hoofdartikelen/10-000-jaar-oud-de-black-knight-satelliet/comment-page-1/#comment-626300)
+
+![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
+
+##### **El** reacts on:
+
+##### Alex Jones moet kennelijk kapot gemaakt worden..!
+
+[AJ is CIA. Sandy Hook is een Hoax. Stel AJ als voorbeeld en…](https://www.wanttoknow.nl/overige/alex-jones-moet-kennelijk-kapot-gemaakt-worden/comment-page-1/#comment-626298)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -451,30 +473,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Het Stockholm-syndroom…
 
 [Mooi artikel. Dank je wel, Harriet. Alleen jammer van dat St…](https://www.wanttoknow.nl/inspiratie/het-stockholm-syndroom/comment-page-1/#comment-626266)
-
-![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
-
-##### **GuidoJ.** reacts on:
-
-##### Orbs, zie jij ze ook vliegen..? (+ updates!)
-
-[Nou Iris, vraag niet hoe het kan, maar geniet ervan! De rode…](https://www.wanttoknow.nl/wetenschap/energie/orbs-zie-jij-ze-ook-vliegen/comment-page-2/#comment-626265)
-
-![IRIS](https://secure.gravatar.com/avatar/a1b3586e811237773a0c24d1ddb0d67e?s=50&d=identicon&r=g)
-
-##### **IRIS** reacts on:
-
-##### Orbs, zie jij ze ook vliegen..? (+ updates!)
-
-[Blij dat ik ben terecht gekomen op deze pagina, heb al meerd…](https://www.wanttoknow.nl/wetenschap/energie/orbs-zie-jij-ze-ook-vliegen/comment-page-2/#comment-626264)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### Kunst in de jungle..
-
-[😂🤣Zo, ik heb vandaag weer gelachen om hoe iedereen hier bove…](https://www.wanttoknow.nl/overige/kunst-in-de-jungle/comment-page-1/#comment-626263)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
