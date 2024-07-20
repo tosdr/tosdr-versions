@@ -427,6 +427,8 @@ Footer
     
 * [Xero vs Reckon](https://www.xero.com/au/explore/reckon-alternative/)
     
+* [Xero vs Quickbooks](https://www.xero.com/au/explore/quickbooks-alternative/)
+    
 
 ### Company
 
