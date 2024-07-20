@@ -1,83 +1,306 @@
-Satori Testnet is now live. [Get started!](https://satori.vana.org/)
+Ecosystem
 
-[![](https://cdn.prod.website-files.com/662488d48afbf9b21e25c7d2/66248a07f971285a23646aa1_Group%20872.png)](https://www.vana.com/)
+Get Started
 
-[home](https://www.vana.com/)[why](https://www.vana.com/why)[docs](https://docs.vana.org/vana)[press](https://www.vana.com/press)[satori testnet](https://satori.vana.com/)
+[Faucet
 
-You should own your data and the AI it creates. This means transparent data permissions and a system that moves beyond cookie popups and towards true ownership.  
+Fund your Satori testnet wallet](https://faucet.vana.org/)[Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)
+
+Data Liquidity Layer
+
+[Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[GPT data DAO
+
+Own your chatGPT data](https://www.gptdatadao.org/)[Reddit data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[Valora
+
+Run a miner to contribute twitter data](https://volara.xyz/)[Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[Resume Data DAO
+
+Earn from your LinkedIn data - COMING SOON](#)
+
+Data Portability Layer
+
+[Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+Developers
+
+[Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)
+
+[About](https://www.vana.com/why)
+
+[Blog](https://www.vana.com/post)
+
+[Press](https://www.vana.com/vana-press)
+
+[](https://www.vana.com/)
+
+Get Started
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)
+
+Data Liquidity Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05ee56e11766739e16_finquarium.png)
+
+Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c058c6c7580c8ed6db6_gptdatadao.png)
+
+GPT data DAO
+
+Own your chatGPT data”](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
+
+Reddit data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/) [![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
+
+ Valora
+
+Run a miner to contribute twitter data](https://volara.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66884ca84a4376b52ff0adf1_flirtual%20(1).png)
+
+Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66885221d398a7f3370fff1e_Screenshot%202024-07-05%20at%2012.57.57%E2%80%AFPM.png)
+
+Resume Data DAO
+
+Earn from your LinkedIn data - COMING SOON](#)
+
+Data Portability Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05a6cac68e8e289776_chirper.jpg)
+
+Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05cd1388594cf6fb8d_uslap.png)
+
+uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)
+
+[Ecosystem](#)[Developers](#)[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)
+
+Welcome to the first network for user-owned data
+================================================
+
+[Explore The Frontier](#ecosystem)
+
+Ecosystem
+---------
+
+[](#)[](#)
+
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843a7e1a9851cd78f84395_r%3Adatadao.png)
+
+r/datadao
+
+r/datadao is a community-owned data collective focused on Reddit data. It is the largest data DAO in history, with 140k users.
+
+[r/datadao](https://www.rdatadao.org/)[X/Twitter](https://x.com/rdatadao)
+
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843aa9139808d1ce1e4d1b_Volara.png)
+
+Volara
+
+Volara is a decentralized data marketplace for X data. Run a miner to earn rewards.
+
+[Volara](https://volara.xyz/)[X/Twitter](https://twitter.com/volaraxyz)
+
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843ad18de9371161e52fc4_Flirtual.png)
+
+Flirtual
+
+Flirtual empowers users to take control of their dating app data, transforming it into valuable insights and opportunities
+
+[Flirtual](https://www.flirtual.xyz/)[X/Twitter](#)
+
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843af865c27278b08e6af7_Block%20Explorer.png)
+
+Block Explorer
+
+View details of data transactions, addresses, and other activities on the Satori testnet.
+
+[Block Explorer](https://satori.vanascan.io/)[GitHub](https://github.com/vana-com)
+
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843b1cb84823695c968cd4_Faucet.png)
+
+Faucet
+
+Fund your testnet wallet to start developing and experimenting with user-owned data applications.
+
+[Faucet](https://faucet.vana.org/)[GitHub](https://github.com/vana-com)
+
+### The Foundation for Decentralized AI
+
+What is Vana?
+
+Data Liquidity
+
+Non-Custodial Data
+
+Open Infrastructure
+
+What is Vana?
+
+Vana is a distributed network for private, user-owned data, designed to enable user-owned AI. Users own, govern, and earn from the AI models they contribute to. Developers gain access to cross-platform data to power personalized applications and train frontier AI models.
+
+Data Liquidity
+
+AI models are only as powerful as their training data, which is held by centralized platforms despite being legally owned by each user. Data Liquidity Pools (DLPs) incentivize, aggregate, and cryptographically verify valuable data, liberating data from walled gardens to push the frontiers of AI.
+
+[Start a pool](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)
+
+Non-Custodial, Portable Data
+
+Vana makes data portable and non-custodial. Users log in with their wallet, and all their data is there, just like their funds. This paradigm of non-custodial data allows for next-level experiences, like giving an LLM deep, personal context without compromising privacy.
+
+[Build with non-custodial data](https://docs.vana.org/vana/get-started/data-portability-layer/non-custodial-data)
+
+Open Infrastructure
+
+Vana originated as an MIT research project in 2018, focused on enabling users to own their data and the AI models they create. It is entirely open source and operates as a permissionless, decentralized network. The Open Data Foundation is dedicated to driving mass adoption of the Vana protocol, while other contributing organizations, such as Corsali, focus on research and development.
+
+[Run a node](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)
+
+$20M
+
+Funding
+
+1.3M
+
+Users
+
+### We believe in an open internet where users own their data and the AI models they contribute to.
+
+AI models should be created more like open source software: iteratively by a community. To make this possible, researchers need access to the world's best datasets that are held captive across walled gardens. Users can break down these walled gardens by exporting their own data.  
   
-Until the world catches up, we have to ask you to hit "Accept" below if you agree to cookies. That includes first and third-party cookies for site navigation, analytics, and marketing. See the [Privacy Policy](https://www.vana.com/legal/privacy-policy) for more information.
+We are building towards a user-owned AI foundation model, trained by 100M users who contribute their data and compute.
 
-[Deny](#)[Accept](#)
+### Accelerating Towards User-Owned AGI
 
-Customize your preferences
+Technical Foundation
 
-Essential
+* First Onchain Training Data, 2021
+    
+* Non-Custodial Data Patent, 2022
+    
+* Personal Server Architecture, 2022
+    
 
-Required
+Early Adoption
 
-These items are required to enable basic website functionality.  
+* Data Portability MIT Hackathon, 2023
+    
+* User-Owned Personal AI, 2023
+    
+* Local LLM with Personal Data, 2023
+    
 
-Analytics
+Scale and Decentralize
 
-Essential
+First Data DAO, 2024
 
-These items help the website operator understand how its website performs, how visitors interact with the site, and whether there may be technical issues.  
+Decentralize Data Infrastructure
 
-[Remove all cookies](#)
+16 Independent Data DAOs
 
-![](https://cdn.prod.website-files.com/662488d48afbf9b21e25c7d2/66248c23d1360a25b9669cbf_Group%20873.png)
+Mass Adoption
 
-The first network for user-owned data
-=====================================
+* Onboard 100M Users
+    
+* Aggregate World's Largest Training Dataset
+    
+* Train User-Owned Foundation Model
+    
 
-We believe in an open internet where users own their data and the AI models they contribute to.
+### Stay up to date
 
-AI models should be created more like open source software: iteratively by a community. To make this possible, researchers need access to the world's best datasets that are held captive across walled gardens. Users can break down these walled gardens by exporting their own data. 
+Keep up with the latest in user-owned data, decentralized AI, and projects built with Vana.
 
-We are building towards a user-owned foundation model, trained by 100M users who contribute their data and compute.
+Latest
 
-Backed by
-=========
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
 
-![](https://cdn.prod.website-files.com/662488d48afbf9b21e25c7d2/6643bd4dee2fbcd59b964879_b84b2a8b908cf6382a67ddcadfb2c443%201.png)
+Introducing the Satori Testnet for User-Owned Data
 
-![](https://cdn.prod.website-files.com/662488d48afbf9b21e25c7d2/6643bd4d749ce3b110d569a3_Polychain_Capital%201.png)
+June 2024](https://www.vana.com/posts/introducing-the-satori-testnet)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c0622a3507596f61487_anna.png)
 
-![](https://cdn.prod.website-files.com/662488d48afbf9b21e25c7d2/6631709f75ec67c2b06f61f0_Vector%201globe.png)
+Data DAOs: The Path Towards a User-Owned Internet
 
-Vana\* is a decentralized network for user-owned data
+April 2024](https://anna.kazlausk.as/posts/data-daos)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051ace89004c1a8666_forbes.jpg)
 
-\*short for "Nirvana", in reference to liberating and setting data free
+Securing Your Data in the Age of AI
 
-Navigation
+May 2024](https://www.forbes.com/video/578805e3-79cf-421e-bf56-0e0ec8dca425/securing-your-data-in-the-age-of-ai/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c0622a3507596f61487_anna.png)
 
-[home](https://www.vana.com/)[build](https://www.vana.com/build)[docs](https://docs.vana.org/vana)[press](http://vana.com/press)[privacy policy](https://www.vana.com/legal/privacy-policy)[terms](https://www.vana.com/legal/terms-conditions)
+User-Owned Foundation Models (2024 Update)
 
-Links
+February 2024](https://anna.kazlausk.as/posts/user-owned-models-update)
 
-[discord](https://discord.com/invite/Wv2vtBazMR)[x (twitter)](https://twitter.com/withvana)[github](https://github.com/vana-com)
+[](https://www.vana.com/)
 
-© Corsali Inc
+Decentralized network for user owned data
 
-You should own your data and the AI it creates. This means transparent data permissions and a system that moves beyond cookie popups and towards true ownership.  
-  
-Until the world catches up, we have to ask you to hit "Accept" below if you agree to cookies. That includes first and third-party cookies for site navigation, analytics, and marketing. See the [Privacy Policy](https://www.vana.com/legal/privacy-policy) for more information.
+Short for “Nirvana”, in reference to liberating and setting data free.
 
-[Deny](#)[Accept](#)
+[](https://x.com/withvana)[](https://github.com/vana-com)[](https://discord.com/invite/Wv2vtBazMR)
 
-Customize your preferences
+Ecosystem
 
-Essential
+[Block Explorer](http://satori.vanascan.io/)[Faucet](https://faucet.vana.org/)[r/datadao](https://www.rdatadao.org/)[gptdao](https://www.gptdatadao.org/)[Twitter data DAO](https://volara.xyz/)[Finquarium](https://finquarium.com/)
 
-Required
+Documentation
 
-These items are required to enable basic website functionality.  
+[Run a validator](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[Start a Data DAO (DLP)](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[FAQ](https://docs.vana.org/vana/undefined/faq)
 
-Analytics
+Company
 
-Essential
-
-These items help the website operator understand how its website performs, how visitors interact with the site, and whether there may be technical issues.  
-
-[Remove all cookies](#)
+[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[Contact](mailto:admin@vana.com)
