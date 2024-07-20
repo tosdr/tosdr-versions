@@ -22,6 +22,7 @@ Sign up
 * [Tips](#tips)
 * [Subscriptions](#subscriptions)
 * [Unsubscriptions](#unsubscriptions)
+* [Cancellation Policy](#cancellation-policy)
 * [Fees for Subscribers](#fees-for-subscribers)
 * [Fees for Stars](#fees-for-stars)
 * [Subscription Tiers](#subscription-tiers)
@@ -36,7 +37,7 @@ Sign up
 SubscribeStar Terms of Service
 ==============================
 
-Updated: April 25, 2024 08:54 am
+Updated: July 18, 2024 02:34 pm
 
 * * *
 
@@ -180,7 +181,10 @@ You can use our branding, presented on the dedicated page, for your marketing en
 
 We may, but have no obligation, to monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, inappropriate, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
   
-Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. Such materials - upon discovery - will be removed from the Platform, and the profile/account will be suspended with possible future termination.  
+Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. 
+
+> Upon organic discovery or investigation of a third-party complaint, materials in question will be reviewed within 7 business days and removed if the complaint is justified, and the content is illegal or inappropriate. The related profile or account will be suspended, with potential termination if necessary.
+
   
 Creating, promoting and supporting a Star profile/account for the sole purpose of portraying a single person, group or organization in a negative way, degrading their existent or imaginable values, and/or diminishing their presence, ideas, beliefs, appearance, expression and/or actions in any way is strictly forbidden on this platform.  
   
@@ -399,6 +403,22 @@ Upon subscribing again to the same profile - no matter how short the period of t
 
 * * *
 
+### Cancellation Policy
+
+1. Subscribers can cancel their subscriptions at any time, either immediately or by scheduling the cancellation for the end of the paid period.
+2. If these Terms of Service are violated by the Subscriber, the connected subscription(s) may be put on hold or terminated along with the related Subscriber's account.
+3. While Stars can’t delete profiles with paid subscriptions, they may want to schedule such deletions instead. The profile will be deleted on the last day of the paid period, and all related subscriptions will be subsequently canceled.
+4. When a refund is issued for a subscription, the related subscription will be automatically terminated. In certain cases, such cancellation might be final and irreversible.
+5. When a chargeback is initiated by the Subscriber, the related subscription will be automatically terminated. Such cancellation is final and irreversible.
+6. If a Subscriber requests cancellation of the subscription while reaching out via their registered and verified email account, and provides enough information, such subscription might be canceled. Email requests are the only reliable communication accepted for such cases.
+7. Subscriptions will be put on pause and potentially canceled if the Subscriber hasn’t paid for the subscription or if the system has failed to charge the related account.
+8. If a Subscriber isn’t active and evidence suggests that the Subscriber wasn’t using the subscription, we might cancel such a subscription.
+9. If a profile the Subscriber has access to isn’t active and evidence suggests that the Star wasn’t using the Platform, we might cancel such subscription(s).   
+      
+    
+
+* * *
+
 ### Fees for Subscribers
 
 There is no fee to start and run an account as a Subscriber with our Service.   
@@ -610,6 +630,29 @@ We shall not be liable to you or to any third-party for any modification, price 
 Prices for our services (i.e., Service Fee) are subject to change without notice.  
   
 We reserve the right to modify or discontinue the Service (or any part or content thereof) without notice at any time.
+
+* * *
+
+### Dissolution of the Company
+
+In the unlikely event that SubscribeStar is dissolved or ceases operations, the following terms will apply to all content creators (i.e., Stars) with an outstanding balance on their account:
+
+1. **Notification of Dissolution**  
+    SubscribeStar will notify all Stars via their registered email addresses and through an announcement on the Platform regarding the dissolution.
+2. **90-Day Payout Request Period**  
+    \- Stars will have 90 days from the date of the dissolution notice to request a payout of their remaining balance.  
+    \- Payout requests must be submitted through the usual payout request procedure (i.e., via the “Payouts” page).
+3. **Forfeiture of Unclaimed Balances**  
+    \- If a Star does not request a payout within the 90-day period, their remaining balance will be permanently forfeited.  
+    \- After the 90-day period, SubscribeStar will retain all unclaimed balances, and these funds will no longer be available for payout.
+4. **Provision of Remittance Details**  
+    If the Platform doesn’t have available options for paying out the remaining balance to a specific content creator, the content creator must provide their details for remittance via options described in the Notification of Dissolution within 30 days after the public announcement of the dissolution. Failure to do so may result in the inability to remit the remaining balance.
+5. **Finality and Waiver of Claims**  
+    \- Stars acknowledge and agree that after the 90-day payout request period, they will have no further claim to any balances that were not requested within the designated period.  
+    \- By continuing to use the Platform, Stars agree to waive any future claims or legal actions against SubscribeStar regarding unclaimed balances post-dissolution.
+
+  
+By using SubscribeStar, Stars agree to these terms in the event of the Company's dissolution and understand the importance of timely action to request payouts within the specified period. 
 
 * * *
 
@@ -792,6 +835,7 @@ Sign up
 * [Tips](#tips)
 * [Subscriptions](#subscriptions)
 * [Unsubscriptions](#unsubscriptions)
+* [Cancellation Policy](#cancellation-policy)
 * [Fees for Subscribers](#fees-for-subscribers)
 * [Fees for Stars](#fees-for-stars)
 * [Subscription Tiers](#subscription-tiers)
@@ -806,7 +850,7 @@ Sign up
 SubscribeStar Terms of Service
 ==============================
 
-Updated: April 25, 2024 08:54 am
+Updated: July 18, 2024 02:34 pm
 
 * * *
 
@@ -950,7 +994,10 @@ You can use our branding, presented on the dedicated page, for your marketing en
 
 We may, but have no obligation, to monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, inappropriate, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
   
-Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. Such materials - upon discovery - will be removed from the Platform, and the profile/account will be suspended with possible future termination.  
+Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. 
+
+> Upon organic discovery or investigation of a third-party complaint, materials in question will be reviewed within 7 business days and removed if the complaint is justified, and the content is illegal or inappropriate. The related profile or account will be suspended, with potential termination if necessary.
+
   
 Creating, promoting and supporting a Star profile/account for the sole purpose of portraying a single person, group or organization in a negative way, degrading their existent or imaginable values, and/or diminishing their presence, ideas, beliefs, appearance, expression and/or actions in any way is strictly forbidden on this platform.  
   
@@ -1169,6 +1216,22 @@ Upon subscribing again to the same profile - no matter how short the period of t
 
 * * *
 
+### Cancellation Policy
+
+1. Subscribers can cancel their subscriptions at any time, either immediately or by scheduling the cancellation for the end of the paid period.
+2. If these Terms of Service are violated by the Subscriber, the connected subscription(s) may be put on hold or terminated along with the related Subscriber's account.
+3. While Stars can’t delete profiles with paid subscriptions, they may want to schedule such deletions instead. The profile will be deleted on the last day of the paid period, and all related subscriptions will be subsequently canceled.
+4. When a refund is issued for a subscription, the related subscription will be automatically terminated. In certain cases, such cancellation might be final and irreversible.
+5. When a chargeback is initiated by the Subscriber, the related subscription will be automatically terminated. Such cancellation is final and irreversible.
+6. If a Subscriber requests cancellation of the subscription while reaching out via their registered and verified email account, and provides enough information, such subscription might be canceled. Email requests are the only reliable communication accepted for such cases.
+7. Subscriptions will be put on pause and potentially canceled if the Subscriber hasn’t paid for the subscription or if the system has failed to charge the related account.
+8. If a Subscriber isn’t active and evidence suggests that the Subscriber wasn’t using the subscription, we might cancel such a subscription.
+9. If a profile the Subscriber has access to isn’t active and evidence suggests that the Star wasn’t using the Platform, we might cancel such subscription(s).   
+      
+    
+
+* * *
+
 ### Fees for Subscribers
 
 There is no fee to start and run an account as a Subscriber with our Service.   
@@ -1380,6 +1443,29 @@ We shall not be liable to you or to any third-party for any modification, price 
 Prices for our services (i.e., Service Fee) are subject to change without notice.  
   
 We reserve the right to modify or discontinue the Service (or any part or content thereof) without notice at any time.
+
+* * *
+
+### Dissolution of the Company
+
+In the unlikely event that SubscribeStar is dissolved or ceases operations, the following terms will apply to all content creators (i.e., Stars) with an outstanding balance on their account:
+
+1. **Notification of Dissolution**  
+    SubscribeStar will notify all Stars via their registered email addresses and through an announcement on the Platform regarding the dissolution.
+2. **90-Day Payout Request Period**  
+    \- Stars will have 90 days from the date of the dissolution notice to request a payout of their remaining balance.  
+    \- Payout requests must be submitted through the usual payout request procedure (i.e., via the “Payouts” page).
+3. **Forfeiture of Unclaimed Balances**  
+    \- If a Star does not request a payout within the 90-day period, their remaining balance will be permanently forfeited.  
+    \- After the 90-day period, SubscribeStar will retain all unclaimed balances, and these funds will no longer be available for payout.
+4. **Provision of Remittance Details**  
+    If the Platform doesn’t have available options for paying out the remaining balance to a specific content creator, the content creator must provide their details for remittance via options described in the Notification of Dissolution within 30 days after the public announcement of the dissolution. Failure to do so may result in the inability to remit the remaining balance.
+5. **Finality and Waiver of Claims**  
+    \- Stars acknowledge and agree that after the 90-day payout request period, they will have no further claim to any balances that were not requested within the designated period.  
+    \- By continuing to use the Platform, Stars agree to waive any future claims or legal actions against SubscribeStar regarding unclaimed balances post-dissolution.
+
+  
+By using SubscribeStar, Stars agree to these terms in the event of the Company's dissolution and understand the importance of timely action to request payouts within the specified period. 
 
 * * *
 
@@ -1580,6 +1666,7 @@ Sign up
 * [Tips](#tips)
 * [Subscriptions](#subscriptions)
 * [Unsubscriptions](#unsubscriptions)
+* [Cancellation Policy](#cancellation-policy)
 * [Fees for Subscribers](#fees-for-subscribers)
 * [Fees for Stars](#fees-for-stars)
 * [Subscription Tiers](#subscription-tiers)
@@ -1594,7 +1681,7 @@ Sign up
 SubscribeStar Terms of Service
 ==============================
 
-Updated: April 25, 2024 08:54 am
+Updated: July 18, 2024 02:34 pm
 
 * * *
 
@@ -1738,7 +1825,10 @@ You can use our branding, presented on the dedicated page, for your marketing en
 
 We may, but have no obligation, to monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, inappropriate, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
   
-Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. Such materials - upon discovery - will be removed from the Platform, and the profile/account will be suspended with possible future termination.  
+Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. 
+
+> Upon organic discovery or investigation of a third-party complaint, materials in question will be reviewed within 7 business days and removed if the complaint is justified, and the content is illegal or inappropriate. The related profile or account will be suspended, with potential termination if necessary.
+
   
 Creating, promoting and supporting a Star profile/account for the sole purpose of portraying a single person, group or organization in a negative way, degrading their existent or imaginable values, and/or diminishing their presence, ideas, beliefs, appearance, expression and/or actions in any way is strictly forbidden on this platform.  
   
@@ -1957,6 +2047,22 @@ Upon subscribing again to the same profile - no matter how short the period of t
 
 * * *
 
+### Cancellation Policy
+
+1. Subscribers can cancel their subscriptions at any time, either immediately or by scheduling the cancellation for the end of the paid period.
+2. If these Terms of Service are violated by the Subscriber, the connected subscription(s) may be put on hold or terminated along with the related Subscriber's account.
+3. While Stars can’t delete profiles with paid subscriptions, they may want to schedule such deletions instead. The profile will be deleted on the last day of the paid period, and all related subscriptions will be subsequently canceled.
+4. When a refund is issued for a subscription, the related subscription will be automatically terminated. In certain cases, such cancellation might be final and irreversible.
+5. When a chargeback is initiated by the Subscriber, the related subscription will be automatically terminated. Such cancellation is final and irreversible.
+6. If a Subscriber requests cancellation of the subscription while reaching out via their registered and verified email account, and provides enough information, such subscription might be canceled. Email requests are the only reliable communication accepted for such cases.
+7. Subscriptions will be put on pause and potentially canceled if the Subscriber hasn’t paid for the subscription or if the system has failed to charge the related account.
+8. If a Subscriber isn’t active and evidence suggests that the Subscriber wasn’t using the subscription, we might cancel such a subscription.
+9. If a profile the Subscriber has access to isn’t active and evidence suggests that the Star wasn’t using the Platform, we might cancel such subscription(s).   
+      
+    
+
+* * *
+
 ### Fees for Subscribers
 
 There is no fee to start and run an account as a Subscriber with our Service.   
@@ -2168,6 +2274,29 @@ We shall not be liable to you or to any third-party for any modification, price 
 Prices for our services (i.e., Service Fee) are subject to change without notice.  
   
 We reserve the right to modify or discontinue the Service (or any part or content thereof) without notice at any time.
+
+* * *
+
+### Dissolution of the Company
+
+In the unlikely event that SubscribeStar is dissolved or ceases operations, the following terms will apply to all content creators (i.e., Stars) with an outstanding balance on their account:
+
+1. **Notification of Dissolution**  
+    SubscribeStar will notify all Stars via their registered email addresses and through an announcement on the Platform regarding the dissolution.
+2. **90-Day Payout Request Period**  
+    \- Stars will have 90 days from the date of the dissolution notice to request a payout of their remaining balance.  
+    \- Payout requests must be submitted through the usual payout request procedure (i.e., via the “Payouts” page).
+3. **Forfeiture of Unclaimed Balances**  
+    \- If a Star does not request a payout within the 90-day period, their remaining balance will be permanently forfeited.  
+    \- After the 90-day period, SubscribeStar will retain all unclaimed balances, and these funds will no longer be available for payout.
+4. **Provision of Remittance Details**  
+    If the Platform doesn’t have available options for paying out the remaining balance to a specific content creator, the content creator must provide their details for remittance via options described in the Notification of Dissolution within 30 days after the public announcement of the dissolution. Failure to do so may result in the inability to remit the remaining balance.
+5. **Finality and Waiver of Claims**  
+    \- Stars acknowledge and agree that after the 90-day payout request period, they will have no further claim to any balances that were not requested within the designated period.  
+    \- By continuing to use the Platform, Stars agree to waive any future claims or legal actions against SubscribeStar regarding unclaimed balances post-dissolution.
+
+  
+By using SubscribeStar, Stars agree to these terms in the event of the Company's dissolution and understand the importance of timely action to request payouts within the specified period. 
 
 * * *
 
@@ -2320,6 +2449,7 @@ Read more on Taxes here - https://www.subscribestar.com/taxes.
 * [Tips](#tips)
 * [Subscriptions](#subscriptions)
 * [Unsubscriptions](#unsubscriptions)
+* [Cancellation Policy](#cancellation-policy)
 * [Fees for Subscribers](#fees-for-subscribers)
 * [Fees for Stars](#fees-for-stars)
 * [Subscription Tiers](#subscription-tiers)
@@ -2334,7 +2464,7 @@ Read more on Taxes here - https://www.subscribestar.com/taxes.
 SubscribeStar Terms of Service
 ==============================
 
-Updated: April 25, 2024 08:54 am
+Updated: July 18, 2024 02:34 pm
 
 * * *
 
@@ -2478,7 +2608,10 @@ You can use our branding, presented on the dedicated page, for your marketing en
 
 We may, but have no obligation, to monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, inappropriate, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
   
-Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. Such materials - upon discovery - will be removed from the Platform, and the profile/account will be suspended with possible future termination.  
+Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. 
+
+> Upon organic discovery or investigation of a third-party complaint, materials in question will be reviewed within 7 business days and removed if the complaint is justified, and the content is illegal or inappropriate. The related profile or account will be suspended, with potential termination if necessary.
+
   
 Creating, promoting and supporting a Star profile/account for the sole purpose of portraying a single person, group or organization in a negative way, degrading their existent or imaginable values, and/or diminishing their presence, ideas, beliefs, appearance, expression and/or actions in any way is strictly forbidden on this platform.  
   
@@ -2697,6 +2830,22 @@ Upon subscribing again to the same profile - no matter how short the period of t
 
 * * *
 
+### Cancellation Policy
+
+1. Subscribers can cancel their subscriptions at any time, either immediately or by scheduling the cancellation for the end of the paid period.
+2. If these Terms of Service are violated by the Subscriber, the connected subscription(s) may be put on hold or terminated along with the related Subscriber's account.
+3. While Stars can’t delete profiles with paid subscriptions, they may want to schedule such deletions instead. The profile will be deleted on the last day of the paid period, and all related subscriptions will be subsequently canceled.
+4. When a refund is issued for a subscription, the related subscription will be automatically terminated. In certain cases, such cancellation might be final and irreversible.
+5. When a chargeback is initiated by the Subscriber, the related subscription will be automatically terminated. Such cancellation is final and irreversible.
+6. If a Subscriber requests cancellation of the subscription while reaching out via their registered and verified email account, and provides enough information, such subscription might be canceled. Email requests are the only reliable communication accepted for such cases.
+7. Subscriptions will be put on pause and potentially canceled if the Subscriber hasn’t paid for the subscription or if the system has failed to charge the related account.
+8. If a Subscriber isn’t active and evidence suggests that the Subscriber wasn’t using the subscription, we might cancel such a subscription.
+9. If a profile the Subscriber has access to isn’t active and evidence suggests that the Star wasn’t using the Platform, we might cancel such subscription(s).   
+      
+    
+
+* * *
+
 ### Fees for Subscribers
 
 There is no fee to start and run an account as a Subscriber with our Service.   
@@ -2908,6 +3057,29 @@ We shall not be liable to you or to any third-party for any modification, price 
 Prices for our services (i.e., Service Fee) are subject to change without notice.  
   
 We reserve the right to modify or discontinue the Service (or any part or content thereof) without notice at any time.
+
+* * *
+
+### Dissolution of the Company
+
+In the unlikely event that SubscribeStar is dissolved or ceases operations, the following terms will apply to all content creators (i.e., Stars) with an outstanding balance on their account:
+
+1. **Notification of Dissolution**  
+    SubscribeStar will notify all Stars via their registered email addresses and through an announcement on the Platform regarding the dissolution.
+2. **90-Day Payout Request Period**  
+    \- Stars will have 90 days from the date of the dissolution notice to request a payout of their remaining balance.  
+    \- Payout requests must be submitted through the usual payout request procedure (i.e., via the “Payouts” page).
+3. **Forfeiture of Unclaimed Balances**  
+    \- If a Star does not request a payout within the 90-day period, their remaining balance will be permanently forfeited.  
+    \- After the 90-day period, SubscribeStar will retain all unclaimed balances, and these funds will no longer be available for payout.
+4. **Provision of Remittance Details**  
+    If the Platform doesn’t have available options for paying out the remaining balance to a specific content creator, the content creator must provide their details for remittance via options described in the Notification of Dissolution within 30 days after the public announcement of the dissolution. Failure to do so may result in the inability to remit the remaining balance.
+5. **Finality and Waiver of Claims**  
+    \- Stars acknowledge and agree that after the 90-day payout request period, they will have no further claim to any balances that were not requested within the designated period.  
+    \- By continuing to use the Platform, Stars agree to waive any future claims or legal actions against SubscribeStar regarding unclaimed balances post-dissolution.
+
+  
+By using SubscribeStar, Stars agree to these terms in the event of the Company's dissolution and understand the importance of timely action to request payouts within the specified period. 
 
 * * *
 
@@ -3047,7 +3219,7 @@ Read more on Taxes here - https://www.subscribestar.com/taxes.
 SubscribeStar Terms of Service
 ==============================
 
-Updated: April 25, 2024 08:54 am
+Updated: July 18, 2024 02:34 pm
 
 * * *
 
@@ -3191,7 +3363,10 @@ You can use our branding, presented on the dedicated page, for your marketing en
 
 We may, but have no obligation, to monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, inappropriate, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
   
-Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. Such materials - upon discovery - will be removed from the Platform, and the profile/account will be suspended with possible future termination.  
+Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. 
+
+> Upon organic discovery or investigation of a third-party complaint, materials in question will be reviewed within 7 business days and removed if the complaint is justified, and the content is illegal or inappropriate. The related profile or account will be suspended, with potential termination if necessary.
+
   
 Creating, promoting and supporting a Star profile/account for the sole purpose of portraying a single person, group or organization in a negative way, degrading their existent or imaginable values, and/or diminishing their presence, ideas, beliefs, appearance, expression and/or actions in any way is strictly forbidden on this platform.  
   
@@ -3410,6 +3585,22 @@ Upon subscribing again to the same profile - no matter how short the period of t
 
 * * *
 
+### Cancellation Policy
+
+1. Subscribers can cancel their subscriptions at any time, either immediately or by scheduling the cancellation for the end of the paid period.
+2. If these Terms of Service are violated by the Subscriber, the connected subscription(s) may be put on hold or terminated along with the related Subscriber's account.
+3. While Stars can’t delete profiles with paid subscriptions, they may want to schedule such deletions instead. The profile will be deleted on the last day of the paid period, and all related subscriptions will be subsequently canceled.
+4. When a refund is issued for a subscription, the related subscription will be automatically terminated. In certain cases, such cancellation might be final and irreversible.
+5. When a chargeback is initiated by the Subscriber, the related subscription will be automatically terminated. Such cancellation is final and irreversible.
+6. If a Subscriber requests cancellation of the subscription while reaching out via their registered and verified email account, and provides enough information, such subscription might be canceled. Email requests are the only reliable communication accepted for such cases.
+7. Subscriptions will be put on pause and potentially canceled if the Subscriber hasn’t paid for the subscription or if the system has failed to charge the related account.
+8. If a Subscriber isn’t active and evidence suggests that the Subscriber wasn’t using the subscription, we might cancel such a subscription.
+9. If a profile the Subscriber has access to isn’t active and evidence suggests that the Star wasn’t using the Platform, we might cancel such subscription(s).   
+      
+    
+
+* * *
+
 ### Fees for Subscribers
 
 There is no fee to start and run an account as a Subscriber with our Service.   
@@ -3624,6 +3815,29 @@ We reserve the right to modify or discontinue the Service (or any part or conten
 
 * * *
 
+### Dissolution of the Company
+
+In the unlikely event that SubscribeStar is dissolved or ceases operations, the following terms will apply to all content creators (i.e., Stars) with an outstanding balance on their account:
+
+1. **Notification of Dissolution**  
+    SubscribeStar will notify all Stars via their registered email addresses and through an announcement on the Platform regarding the dissolution.
+2. **90-Day Payout Request Period**  
+    \- Stars will have 90 days from the date of the dissolution notice to request a payout of their remaining balance.  
+    \- Payout requests must be submitted through the usual payout request procedure (i.e., via the “Payouts” page).
+3. **Forfeiture of Unclaimed Balances**  
+    \- If a Star does not request a payout within the 90-day period, their remaining balance will be permanently forfeited.  
+    \- After the 90-day period, SubscribeStar will retain all unclaimed balances, and these funds will no longer be available for payout.
+4. **Provision of Remittance Details**  
+    If the Platform doesn’t have available options for paying out the remaining balance to a specific content creator, the content creator must provide their details for remittance via options described in the Notification of Dissolution within 30 days after the public announcement of the dissolution. Failure to do so may result in the inability to remit the remaining balance.
+5. **Finality and Waiver of Claims**  
+    \- Stars acknowledge and agree that after the 90-day payout request period, they will have no further claim to any balances that were not requested within the designated period.  
+    \- By continuing to use the Platform, Stars agree to waive any future claims or legal actions against SubscribeStar regarding unclaimed balances post-dissolution.
+
+  
+By using SubscribeStar, Stars agree to these terms in the event of the Company's dissolution and understand the importance of timely action to request payouts within the specified period. 
+
+* * *
+
 ### Accuracy of Information
 
 > By using this Service, every User (i.e., Star, Subscriber, Visitor) explicitly and unequivocally consents to maintaining accurate and up-to-date information related to their identity, taxation, addresses, contact details, and other pertinent data without the need for additional reminders. In cases where such information is discovered to be false, obscured, omitted, or otherwise rendered useless for the purposes of providing the Service, we reserve the right to impose specific restrictions on the User's activities within our Platform.
@@ -3834,7 +4048,8 @@ You can use our branding, presented on the dedicated page, for your marketing en
 
 We may, but have no obligation, to monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, inappropriate, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.  
   
-Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. Such materials - upon discovery - will be removed from the Platform, and the profile/account will be suspended with possible future termination.  
+Any posts, comments, narrations, news or discussion materials that include - in any shape or form - hatred toward any social or ethnic group, calls for violence or oppression, racial or gender defamation, and/or targets a person or a group by disability, nationality (including citizenship), race, religion, sexual orientation, or skin color will not be published on our Platform. 
+
   
 Creating, promoting and supporting a Star profile/account for the sole purpose of portraying a single person, group or organization in a negative way, degrading their existent or imaginable values, and/or diminishing their presence, ideas, beliefs, appearance, expression and/or actions in any way is strictly forbidden on this platform.  
   
@@ -4132,6 +4347,11 @@ Prices for our services (i.e., Service Fee) are subject to change without notice
   
 We reserve the right to modify or discontinue the Service (or any part or content thereof) without notice at any time.
 
+In the unlikely event that SubscribeStar is dissolved or ceases operations, the following terms will apply to all content creators (i.e., Stars) with an outstanding balance on their account:
+
+  
+By using SubscribeStar, Stars agree to these terms in the event of the Company's dissolution and understand the importance of timely action to request payouts within the specified period. 
+
   
 These restrictions may impact various financial transactions, including but not limited to Subscriptions, Tips, and payouts, placed under duplicate customer accounts, identical credit cards, or utilizing the same billing and/or shipping addresses.  
   
@@ -4150,6 +4370,8 @@ Certain content, products, and services available via our Service may include - 
 Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy of those materials or websites. We do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third parties.  
   
 We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party entity.
+
+Content creators or integrators who use the SubscribeStar API to enable paid functions on their own websites or platforms must adhere to the following rules:
 
 We may provide you with access to optional third-party tools or access to optional third-party services over which we neither monitor nor have any control or input. This includes hosting, processing, monitoring and/or any and all other third-party tools and services that are not affiliated with us as a Company, but employed to perform duties that are essential to the Service’s functionality.  
   
