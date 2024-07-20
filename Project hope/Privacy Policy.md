@@ -226,6 +226,8 @@ When you visit our website, we might store some information on your computer in 
 
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
 
+By providing your phone number you consent to receive text messages and calls from Project HOPE. Msg. & data rates may apply. Text STOP to quit. Please read our [Privacy Policy](https://www.projecthope.org/privacy-policy/). Frequency may vary.
+
 **Contacting Us**
 
 If you have any other questions, requests, comments or concerns related to this Privacy Policy, please reach out to us at [hope@projecthope.org](mailto:hope@projecthope.org).
