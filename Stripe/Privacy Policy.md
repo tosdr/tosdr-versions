@@ -22,7 +22,7 @@
     * [Stripe Identity](https://stripe.com/gb/identity/legal)
     * [Stripe Issuing](https://stripe.com/gb/issuing/legal)
     * [Stripe Tax](https://stripe.com/gb/tax/legal)
-    * [Stripe Partner Program](https://stripe.com/gb/partners/legal)
+    * [Stripe Partner Ecosystem](https://stripe.com/gb/partners/legal)
     * [Stripe Radar](https://stripe.com/gb/legal/radar)
     * [Stripe Rewards](https://stripe.com/gb/rewards/legal)
     * [Stripe Verifications](https://stripe.com/gb/legal/instant-verification-services)
@@ -564,7 +564,7 @@ United Kingdom (English)
 
 * © 2024 Stripe, Inc.
 
-Products & Pricing
+Products & pricing
 ==================
 
 * [Pricing](https://stripe.com/gb/pricing)
@@ -606,7 +606,7 @@ Solutions
 * [Global businesses](https://stripe.com/gb/use-cases/global-businesses)
 * [Finance automation](https://stripe.com/gb/use-cases/finance-automation)
 
-Integrations & Custom Solutions
+Integrations & custom solutions
 ===============================
 
 * [Stripe App Marketplace](https://marketplace.stripe.com/)
@@ -616,11 +616,11 @@ Integrations & Custom Solutions
 Developers
 ==========
 
-* [Documentation](https://stripe.com/docs)
-* [API reference](https://stripe.com/docs/api)
+* [Documentation](https://docs.stripe.com/)
+* [API reference](https://docs.stripe.com/api)
 * [API status](https://status.stripe.com/)
-* [API changelog](https://stripe.com/docs/upgrades#api-versions)
-* [Stripe Apps](https://stripe.com/docs/stripe-apps)
+* [API changelog](https://docs.stripe.com/upgrades#api-versions)
+* [Stripe Apps](https://docs.stripe.com/stripe-apps)
 
 Resources
 =========
