@@ -30,7 +30,7 @@ Welcome to the
 
 Search
 
-[Cart Number of Products :](https://www.samsung.com/us/web/express/cart/)
+[Navigate to Cart](https://www.samsung.com/us/web/express/cart/)
 
 Log In
 
@@ -120,181 +120,261 @@ Cancel
 
 **
 
-SAMSUNG PRIVACY POLICY FOR THE U.S.
+SAMSUNG PRIVACY POLICY
 
 **  
   
-**Last Updated: March 29, 2024**  
+**Effective Date: July 1, 2024**  
 
-Samsung Electronics Co., Ltd. and our affiliates and subsidiaries (collectively, “Samsung”), know how important privacy is to our customers. This Privacy Policy describes the personal information we may obtain online across all of our Internet-connected Samsung devices and services (from mobile phones and tablets to TVs, home appliances, online services, and more)(collectively, our “Services”), and how we may use and disclose that information. We also explain the choices available to you regarding our use of the information, the steps we take to safeguard the information, and how you how may [contact us](#pp_12) Children’s Personal Information if you have any questions about our privacy practices.
+Samsung Electronics Co., Ltd. and its affiliates (referred to as “Samsung Electronics”, “Samsung”, or “we” in this Privacy Policy) know how important privacy is to our customers. This Privacy Policy applies to all of our Samsung devices and services where we process personal information, from mobile phones, tablets, TVs and home appliances, to the customer services and online services we provide on our Samsung website. We will refer to these devices and services as the “Services” in this Privacy Policy.
 
-If you are a California resident, click [here](#pp_06) to view our Notice To California Residents for information provided pursuant to California law.
+It is important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Services or changes in applicable law. We will post a notice on our website or on your device to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: [https://account.samsung.com/membership/terms/privacypolicy.](https://account.samsung.com/membership/terms/privacypolicy)
 
-In addition to this Privacy Policy, we provide additional information about our privacy practices related to particular Services where appropriate. You can review such information before enabling such Services.
+In addition to this Privacy Policy, Samsung also provides specific privacy notices related to certain products and services, or specific jurisdictions. Where you have a Samsung Account, the Samsung Account Privacy Notice tells you how Samsung uses your personal information, which you can access here: [https://account.samsung.com/membership/policy/privacy.](https://account.samsung.com/membership/policy/privacy) You will be given further specific privacy notices before using Services for which Samsung uses your personal information. In the event of any deviation between the terms of this Privacy Policy and a specific privacy notice, you should refer to the specific privacy notice for details on how Samsung uses your personal information.
 
-Click on the links below to learn more:
-
-*     • [Information We Obtain](#pp_01)  
+*     • [WHAT INFORMATION DO WE COLLECT?](#pp_01)  
     
-*     • [How We Use the Information We Obtain](#pp_02)  
+*     • [HOW DO WE USE YOUR INFORMATION?](#pp_02)  
     
-*     • [Information Sharing](#pp_03)  
+*     • [WHO DO WE SHARE YOUR INFORMATION WITH?](#pp_03)  
     
-*     • [Links To Other Websites, Devices, Apps, And Features](#pp_04)  
+*     • [HOW DO WE KEEP YOUR INFORMATION SECURE?](#pp_04)  
     
-*     • [Your Rights and Choices](#pp_05)  
+*     • [WHERE DO WE SEND YOUR DATA?](#pp_05)  
     
-*     • [Notice To California Residents](#pp_06)  
+*     • [WHAT ARE YOUR RIGHTS?](#pp_06)  
     
-*     • [Notice To Nevada Residents](#pp_07)  
+*     • [HOW LONG DO WE KEEP YOUR INFORMATION?](#pp_07)  
     
-*     • [Notice To Washington Residents](#pp_08)  
+*     • [WHAT THIRD-PARTY SERVICES DO WE USE?](#pp_08)  
     
-*     • [How We Protect Personal Information](#pp_09)  
+*     • [COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES](#pp_09)  
     
-*     • [Children’s Personal Information](#pp_10)  
-    
-*     • [Updates To This U.S. Privacy Policy](#pp_11)  
-    
-*     • [How To Contact Us](#pp_12)  
+*     • [CONTACT US](#pp_10)  
     
 
-**Information We Obtain**
+**WHAT INFORMATION DO WE COLLECT?** Information You Provide Directly
 
-We may obtain the following personal information about you when you interact with us, including but not limited to when you purchase a Samsung product, create a Samsung Account, register for or use a Service, contact Customer Support, visit a Samsung retail location, or while attending an event:
+Some Services enable you to provide us information directly. For example:
 
-    • contact information (including your name, email address, postal address, and phone number);  
-    • payment card information (including your name, card number, expiration date, and security code);  
-    • user coupon or gift card number;  
-    • date of birth;  
-    • demographic data (e.g., gender and age range);  
-    • information you provide when you apply for credit or financing, such as your social security number;  
-    • information stored in or associated with your Samsung Account (including your Samsung Account profile, ID, username, and password);  
-    • username and password for participating third-party devices, apps, features, or services;  
-    • information you store on your device, such as photos, contacts, text logs, and calendar information, when you back-up your device or use a feature that requires collection (such as when you share it with other users);  
-    • recordings of your voice when you use voice commands to control a Service, or when you contact our Customer Service team;  
-    • transcripts of chat sessions, text messages, emails, and other communications when you communicate with us using these methods;  
-    • information about products and services you purchase, obtain, or consider; and  
-    • location data (including (1) the precise geolocation of your device if you consent to the collection of this data and (2) information about nearby Wi-Fi access points and cell towers that may be transmitted to us when you use certain Services).  
+1. When you create an account or profile with us, we ask for information such as your name, date of birth, or contact information such as phone number and email address.
+2. If you order a product or paid service from us, we also ask for your name, address, contact information, and shipping and payment information such as card number, expiration date, and security code to process your order. You can also choose to save your payment information with us so you can check out more easily next time.
+3. To provide responses when you contact Customer Service, we ask for certain information to verify your identity, the Service you are inquiring about (including repair history), and information related to your consultation (including recordings of your voice and chat or communication transcripts).
+4. Demographic data (such as gender and age).
+5. Information you provide when you apply for credit or financing, such as your social security number.
+6. If you share your contacts, we will collect their phone numbers and other contact information to facilitate file sharing and messaging. You can turn off or restrict these features in the Settings on your devices.
 
-We may obtain certain information about you from publicly or commercially-available sources and from third parties who perform services for us. We also may obtain other information about you, your devices, and your use of the Services, in ways we describe at the time we collect the information or otherwise with your consent.
+Information About Your Use of the Services
 
-  
-        _Information We Collect Automatically_  
-  
+In addition to the information you provide, we collect information about your use of our Services through software on your devices and by other means. This information includes:
 
-Our Services collect some data automatically when you use the Services. We may obtain information by automated means such as through browser cookies, pixels, web server logs, web beacons, and other technologies. Among other purposes, these technologies help us (1) remember your information so you will not have to re-enter it, (2) track and understand how you use and interact with the Services, (3) tailor the Services around your preferences, (4) manage and measure the usability of the Services, (5) understand the effectiveness of our communications, and (6) otherwise enhance the Services.
+   1. **Device information:** Your device information, including connected devices (such as the model and manufacturer) and software information (such as the operating system and software versions), IMEI number and other unique device identifiers (such as the mobile country code, mobile network code, MAC address, IP address, serial number, device unique IDs, advertising ID (e.g. for mobile devices, Google AD ID and Android ID, and for Samsung visual display devices, including Samsung Smart TVs, Personalized Service ID and Tizen Identifier for Advertising)), phone number, sales code, access recording, cookies, pixels and similar technologies (as described below in “Cookies, beacons and similar technologies”), subscription information, and settings of the devices you use to access the Services.  
+   2. **Usage and Log information:** Diagnostic, technical, error, and usage information such as the time and duration of your use of the Services, Services installed on your devices, search query terms when you enter search terms into your device in connection with a particular Service, information stored in cookies that we have set on your devices, and error reports and dump logs.  
+   3. **Location information:** Information about nearby Wi-Fi access points, cell towers, and, with your separate consent, precise geolocation, may be transmitted to us when you use certain Services. In addition, for certain Services, zip codes or postal codes and inferred locations using IP addresses may be transmitted to us when you use such Services.  
+   4. **Voice information:** Recordings of your voice that we make and collect on our servers when you enable this function and use voice commands. We also collect and store recordings of your voice when you contact our Customer Service team. Note that if we work with a third party service rovider that provides speech-to-text conversion services or call center services on our behalf, this provider may also receive and store certain voice commands in accordance with the contract concluded between us and the trusted third-party service provider.  
+   5. **Samsung Keyboard information:** The words that you type when you enable “Predictive text”. This feature may be offered in connection with your Samsung account to synchronize the data for use on your other Samsung mobile devices. You can clear the data by going to the “Predictive text” settings.
 
-Information we may collect automatically includes information about  
-    • your device, including MAC address, IP address, log information, device model, hardware model, IMEI number, serial number, subscription information, device settings, connections to other devices, mobile network operator, web browser characteristics, app usage information, sales code, access code, current software version, MNC, subscription information, and randomized, non-persistent and resettable device identifiers, such as Personalized Service ID (or PSID), and advertising IDs, including Google Ad ID;  
-    • your use of the Services, including clickstream data, your interactions with the Services (such as the web pages you visit, search terms, and the apps, services and features you use, download, or purchase), the pages that lead or refer you to the Services, how you use the Services, and dates and times of use of the Services; and  
-    • your use of third-party websites, apps and features that are connected to certain Services.  
-  
+Publicly or Commercially Available or Shared Information
 
-Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You can find out how to do this for your particular browser by clicking “help” on your browser’s menu or visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/). For mobile devices, you can manage how your device and browser share certain device data by adjusting the privacy and security settings on your device. Please note that without cookies, you may not be able to use or benefit from all of the features of our Services.
+We sometimes gather publicly or commercially available information, including information from social networks you use, and combine this with other information about you so that we can better understand your needs, interests, and preferences.
 
-            _**Information Stored on Your Device Not Accessible to Samsung**_  
+Information received from Third Parties
 
-In addition to the categories of information obtained by Samsung discussed above, our Services may generate data automatically when you use certain Services (e.g. Samsung’s face-clustering technology that allows the device to group together images of the same face from different photographs (“Face-Clustering Data”)), or may utilize data that you generate independently (e.g. registering biometric data such as fingerprints to unlock your device or verify you in certain Services, or when you register your wake-up command in our Bixby Voice service). All of this data remains on the device and is not transmitted to Samsung, nor does Samsung obtain or access this data. Samsung does not share this data with third parties. Face-Clustering Data will remain on your device until you clear the cache in your system settings, you reset your device to its factory setting, or you delete the photos from your device. You can delete your registered biometric data or your wake-up command from your device at any time in the applicable settings. Because Samsung does not have access to this data, Samsung cannot delete it.
+We obtain information, including personal information, from third parties and sources other than our Services, such as our business customers and partners. If we combine or associate information from other sources with personal information that we collect through our Services, we will treat the combined information as personal information in accordance with this Privacy Policy.
 
-            _**Third-Party Web Analytics Services**_  
+Other Information We Collect
 
-Through certain Services, we may collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps, and other online features and services. We may use third-party analytics services on the Services, such as Google Analytics and Firebase Analytics. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services or help administer the Services. To learn more about Google Analytics, please visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). To learn more about Firebase Analytics, please visit [https://firebase.google.com/policies/analytics/](https://firebase.google.com/policies/analytics/).
+We also collect other information about you, your devices, or your use of Services that you choose to send us.
 
-            **_Online Tracking And Interest-Based Advertising_**  
+Third Party Analytics
+
+Through certain Services, we collect personal information about your online activities on websites and connected devices over time and across third-party websites, devices, apps, and other online features and services through cookies and similar technologies. We use third-party analytics services on our Services, such as those of Google Analytics, Firebase Analytics, and Adobe Analytics. The service providers that administer these analytics services help us to analyze your use of the Services and to improve the Services. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Services, help administer the Services, and diagnose technical issues. To learn more about Google Analytics, please visit [https://www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html)and [https://www.google.com/policies/privacy/partners/.](https://www.google.com/policies/privacy/partners/)To learn more about Firebase Analytics, please visit [https://firebase.google.com/policies/analytics.](https://firebase.google.com/policies/analytics)
+
+**HOW DO WE USE YOUR INFORMATION?**
+
+We use the information we collect for the following purposes.
+
+    • to help you or your device register for our Services;  
+    • to provide a Service or feature you request;  
+    • to provide customized content and personalized services based on your past activities on our Services;  
+    • to provide personalized and/or generalized advertising and direct marketing communications, promotions, and offers that might interest you relating to Samsung’s and our partners’ products and Services, on our Services, websites, third-party websites, and online platforms such as social media sites (in accordance with applicable law). We will only send you personalized advertising, promotions, and offers when you have provided your consent to receive marketing communications from Samsung, where required by applicable laws;  
+    • to send you direct marketing communications via e-mail for products and services similar to those you have previously purchased;  
+    • to operate, evaluate, and improve our business, including developing and improving new and existing products and services, managing and improving our communications, analyzing our Services and customer base (including conducting market research, asking for your opinions on our products and services, and carrying out customer surveys, with your separate consent if required) and aggregating and anonymizing data;  
+    • to provide software updates, maintenance services, and support for your devices;  
+    • to provide customer support to you when your devices are in warranty;  
+    • to ensure product safety and to prevent fraud when your products are out of warranty (in such cases, we will collect your IMEI and serial number);  
+    • to verify your device for repairs;  
+    • to protect the legal rights and interests, property, or safety of Samsung Electronics, or any of our affiliates, business partners, or customers, including protecting against, identifying, and preventing fraud and other criminal activity, claims, and other liabilities;  
+    • to respond to your requests and queries, including about your personal information;  
+    • to comply with and enforce applicable legal requirements, relevant industry standards, and our policies, including the Samsung Privacy Policy; and  
+    • to analyze a defective device that is returned to Samsung. Samsung takes measures to ensure that all defective devices are wiped of personal information before such devices are analyzed.  
+
+We use and combine the information we collect about you from our Services, devices, or other sources for the purposes described above. For example, you can save payment information you used to make a purchase on our website so that you can check out faster next time you make a purchase. We also use the information you provide directly or through other sources as described above to provide content you may like or that you have personalized.
+
+For European Economic Area (EEA), UK and Swiss residents only
+
+Samsung processes personal information for the purposes described above. Samsung’s legal basis to process personal information includes processing:
+
+    (i) So that we can keep our promises to you (performance of contract), such as providing you with a Service.  
+    (ii) To promote our business interests (legitimate interest) (for example, to manage our relationship with you, improve your customer service experience, and provide generic ads), including communications on our website, third party websites, and online platforms.  
+    (iii) To comply with the law and legal processes.  
+    (iv) With your consent, for example, to send you personalized advertising and marketing communications, also from Samsung partners operating in different sectors. When we ask for your consent, we will give you information about what information we are using, and how you can revoke your consent.  
+**WHO DO WE SHARE YOUR INFORMATION WITH?**
+
+As you use our Services, we share the types of information we collect (as described in the [WHAT INFORMATION DO WE COLLECT?](#pp_01) section above) to the following entities, for the purposes described above.
+
+   1. **Subsidiaries** and **Affiliates:** Samsung branded and non-branded subsidiaries and affiliates which we control or own.  
+   2. **Business Partners:** Partners who we work together with. For example, we may share your information with wireless carriers or financing partners when you apply for and use credit or financing programs. These business partners control and manage your personal information. This kind of sharing may be considered a “Sale” or “Sharing” under certain United States privacy laws.  
+   3. **Service Providers:** Carefully selected companies that provide services for or on behalf of us, such as companies that help us with repairs, customer contact centers, customer care activities, advertising (including personalized advertising on our websites, third-party websites, online platforms, and social media platforms), conducting customer satisfaction surveys, billing, or that send emails on our behalf. These providers are also committed to protecting your information.  
+   4. **Other Parties When Required by Law or as Necessary to Protect Our Services:** For example, it may be necessary by law, legal process, or court order from governmental authorities to disclose your information. They may also seek your information from us for the purposes of law enforcement, national security, anti-terrorism, or other issues that are related to public security.  
+   5. **Other Parties in Connection with Corporate Transactions:** We may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of a bankruptcy.  
+   6. **Other Parties with Your Consent or at Your Direction:** In addition to the disclosures described in this Privacy Policy, we share information about you with third parties when you separately consent to or request such sharing.  
+
+**HOW DO WE KEEP YOUR INFORMATION SECURE?**
+
+We take data protection seriously. We have put in place physical and technical safeguards to keep your information secure. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system, or wireless connection is completely secure.
+
+**WHERE DO WE SEND YOUR DATA?**
+
+Your use of our Services will involve the transfer, storage, and processing of your personal information within and outside of your country of residence where necessary. In particular, your personal information will be transferred to the Republic of Korea.
+
+Please note that the data protection laws and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country. We take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected.
+
+For European Economic Area (EEA), UK and Swiss residents only:
+
+We will comply with applicable European data protection law when transferring your personal information outside of Europe. We may transfer your personal information to countries which have been found to provide adequate protection of personal information by the relevant data protection authority, including the Republic of Korea.
+
+The measures we take to safeguard the transfer of your information include the use of standard contractual clauses as approved by the relevant data protection authority. To request more information or to obtain a copy of the standard contractual clauses we rely on, contact us. See the [CONTACT US](#pp_12) section.
+
+**WHAT ARE YOUR RIGHTS?**
+
+Your personal information belongs to you. You have the right to ask us to provide details about what we have collected and to provide your personal information to you in a structured, commonly used and machine-readable format, to delete it, or correct any inaccuracies.
+
+However, requesting the deletion of your personal information may also result in a loss of access to Services we provide. We will not delete certain data that we are required to keep according to law.
+
+For European Economic Area (EEA), UK and Swiss residents only
+
+You also have the following additional rights.
+
+You can ask us to restrict or limit processing, sharing or the transfer of your personal information. You can object to our processing of your personal information where we rely on our legitimate business interests to process it, or where it is used for marketing purposes, including profiling. You have the right to data portability, which means you can ask us to provide your personal information to you or a third party in a machine-readable format.
+
+If you have provided your consent to Samsung processing your personal information, you can withdraw your consent at any time. We will apply your preferences going forward and this will not affect the lawfulness of the processing before you withdrew your consent.
+
+You may exercise these rights by contacting us using the contact details at the end of this Privacy Policy. Please note that there are legal exceptions and limitations to each of these rights, and we may need to retain information for backups, archiving, prevention of fraud and abuse, compliance with legal obligations, or where we otherwise have a legitimate and legal reason to do so.
+
+You can lodge a complaint with the relevant supervisory authority if you believe that our processing of your personal information infringes data protection laws. You can find the contact details for all EEA supervisory authorities at [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en), for the UK at [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)and in Switzerland, at [https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html](https://www.edoeb.admin.ch/edoeb/en/home/deredoeb/kontakt.html)
+
+**HOW LONG DO WE KEEP YOUR INFORMATION?**
+
+We will not keep your personal information for longer than is necessary for the purpose for which it was collected. This means that information will be destroyed or erased from our systems when it is no longer required. In some cases, your personal information will be anonymized which means you can no longer be identified from the information.
+
+We take appropriate steps to ensure that we process and retain information about you based on the following logic:
+
+1. At least the duration for which the information is used to provide you with a service;
+2. As required under law, a contract, or with regard to our statutory obligations;
+3. Only for as long as is necessary for the purpose for which it was collected, is processed, or for longer if required under any contract, by applicable law, or for statistical purposes, subject to appropriate safeguards.
+
+**WHAT THIRD-PARTY SERVICES DO WE USE?**
+
+Some of the content, advertising, and functionality in our Services is provided by third parties. These third parties may use cookies, beacons, tracking pixels, and other tools to collect information about your use of these Services. These third parties are not controlled directly by Samsung, so we recommend that you check their privacy policies to understand how they use your data.
+
+For some apps and services, including social networks, we receive and store sign-in information, as well as other information that you allow us to receive when you connect with these apps and services.
+
+**COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES**
+
+We, along with certain third parties such as content providers and advertisers, use technologies called cookies, beacons, or pixels, as well as other tools (collectively known as “technologies”) that communicate information from your device to a server, including those owned by third parties. These technologies can be embedded in online content, videos, and advertisements. They allow a server to read certain types of information from your device, know when you have viewed particular content or a particular advertisement, and determine the time and date on which you viewed the content as well as information about your device, including the IP address of your device. Among other purposes, these technologies help us to do the following:
+
+    (1) remember your information so you will not have to re-enter it  
+    (2) track and understand how you use and interact with the Services  
+    (3) personalize the Services to your preferences  
+    (4) manage and measure the usability of the Services  
+    (5) understand the effectiveness of our communications  
+    (6) improve our Services  
+**CONTACT US**
+
+Data Controller  
+Samsung Electronics Co., Ltd.  
+129, Samsung-ro, Yeongtong-gu,  
+Suwon-si, Gyeonggi-do 16677, Republic of Korea
+
+Some of our Samsung subsidiaries also process your personal information. In some situations, they will act as a data controller, including for customer service and some marketing activities. You can refer to the supplement to this Privacy Policy for details on how your data is also processed locally, where the processing is additional to the information we provide in this Privacy Policy.
+
+For European Economic Area (EEA), UK and Swiss residents only
+
+We have appointed a Data Protection Officer, who can be contacted by reached via the Privacy Support Page at [https://www.samsung.com/request-desk](https://www.samsung.com/request-desk)or via postal mail at:
+
+European Data Protection Officer  
+Samsung Electronics (UK) Limited  
+Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS, United Kingdom
+
+**US SUPPLEMENT TO THE SAMSUNG PRIVACY POLICY**
+
+Effective Date: July 1, 2024
+
+This US Supplement to the Samsung Privacy Policy (“US Supplement”) describes additional personal information practices concerning United States residents and should be read in conjunction with the Samsung Privacy Policy. In the event of any conflict between the terms of the Samsung Privacy Policy and this US Supplement, the terms of this US Supplement shall apply.
+
+**Additional Uses of Your Information**
+
+In addition to the purposes described above in the [HOW DO WE USE YOUR INFORMATION SECTION?](#pp_02) we may also use personal information about United States residents for other purposes, such as to develop and train our artificial intelligence algorithms and models.
+
+**Biometric Data Stored on Your Device Not Accessible by Samsung**
+
+In addition to the categories of personal information Samsung may obtain described above, certain Services may use your biometric data that is stored on your device to provide product or service functionality (e.g. use your fingerprint data to unlock your device or grant you access to certain Services, or your voiceprint data to create a customized Bixby Voice wake-up command). Samsung also may generate certain biometric data automatically when certain Services are used (e.g., Samsung’s face-clustering technology may group together images of the same face from different photographs stored on your device (“Face-Clustering Data”)).
+
+This biometric data remains on your device and is not transferred to or accessed or obtained by Samsung. Samsung does not share this biometric data with third parties. Face-Clustering Data will remain on your device unless you clear the cache in your system settings, reset your device to its factory setting, or delete the relevant photos from your device. You can delete your registered biometric data or your Bixby Voice wake-up command from your device at any time in the applicable settings. Because Samsung does not have access to this data, Samsung cannot delete it for you.
+
+**Online Tracking And Personalized Advertising**
 
 Through certain Services, both we and various third parties may collect information about your online activities to provide you with advertising about products and services tailored to your individual interests.
 
-_Samsung Ads_  
+_Samsung Ads_
 
-Our Samsung Ads service is designed to serve advertisements that are customized to users’ interests on Samsung and third-party platforms, devices, websites, and apps. Samsung Ads may deliver customized ads based on your demographic characteristics, preferences, choices, and interests by collecting certain information about your online activities as specified in this Privacy Policy. Please see the Samsung Ads Privacy Notice [https://www.samsung.com/us/account/privacy-policy/samsungads/](https://www.samsung.com/us/account/privacy-policy/samsungads/) for more information, including information on how to opt out of receiving customized ads from Samsung Ads.
+Our Samsung Ads service is designed to serve advertisements that are personalized to users’ interests on Samsung and third-party platforms, devices, websites, and apps. Samsung Ads may deliver personalized ads based on your demographic characteristics, preferences, choices, and interests by collecting certain information about your online activities.
 
-_Ad networks_  
+_Ad networks_
 
-Because Samsung participates in various advertising networks, you may also see our ads on other websites or mobile apps. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests, and browsing context. These networks can track users’ online activities over time by collecting information through automated means, including through the use of browser cookies, web beacons, pixels, device identifiers, server logs, and other similar technologies. The networks use this information to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites and apps, and to build a profile of users’ online browsing and app usage activities. The information our ad networks may collect includes data about users’ visits to websites and apps that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites or apps. This data collection takes place both on certain Services and on third-party websites and apps that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+Because Samsung participates in various advertising networks, you may also see our ads on other websites or mobile apps. Ad networks allow us to target our messaging to users considering demographic data, users’ inferred interests, and browsing context. These networks can track users’ online activities over time by collecting information through automated means, including through the use of browser cookies, web beacons, pixels, device identifiers, server logs, and other similar technologies. The networks use this information to show ads that may be tailored to individuals’ interests, to track users’ browsers or devices across multiple websites and apps, and to build a profile of users’ online browsing and app usage activities. The information our ad networks may collect includes data about users’ visits to websites and apps that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites or apps. This data collection takes place both on certain Services and on third-party websites and apps that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of ad network interest-based advertising in the U.S., please visit [www.aboutads.info/choices](https://www.samsung.com/us/account/privacy-policy/www.aboutads.info/choices) and [http://www.networkadvertising.org/choices/.](http://www.networkadvertising.org/choices/)
 
-To learn how to opt out of ad network interest-based advertising in the U.S., please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) and [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).
+To serve interest-based ads, we may share your personal information by allowing certain third parties (such as online advertising services) to collect your personal information via automated technologies and server-to-server connections on the Services. This kind of sharing may be considered a “sale” of personal information or the use of personal information to serve “targeted advertising” under certain privacy laws.
 
-**How We Use the Information We Obtain**
+**State Law Privacy Rights**
 
-We may use the personal information we obtain to:
-
-    • provide and enhance our Services, such as registering you or your device for a Service, identifying and authenticating you so you may use and interact with our Services (such as your device) and third-party services,managing our financing programs, and improving and customizing your experience within the Services;  
-    • provide ads, which may include targeted (or interest-based) ads delivered on your Samsung device or within certain Samsung-branded apps (where targeted or interest-based ads are available, if you turn off targeted or interest-based ads, you will receive generic ads);  
-    • support our marketing activities and sales initiatives, and provide you with product and service recommendations;  
-    • communicate with you;  
-    • provide customer support;  
-    • operate, evaluate, and improve our business, including developing new products and services, managing our communications, analyzing our Services and customer base, conducting market research, aggregating and anonymizing data, performing data analytics, and undertaking accounting, auditing, and other internal functions;  
-    • protect against, identify, and prevent fraud and other criminal activity, claims and other liabilities; and  
-    • comply with and enforce applicable legal requirements, relevant industry standards, and our policies, including this Privacy Policy and the applicable Terms of Use for a Service.  
-
-We may combine information we obtain about you for the purposes described above. We also may use the information we obtain in other ways for which we provide specific notice at the time of collection or otherwise with your consent.
-
-**Information Sharing**
-
-We may share your personal information with our subsidiaries and affiliates and with service providers who perform services for us. We do not authorize our service providers to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. In addition, we may share your personal information with our business partners, such as wireless carriers, financing partners when you apply for and use credit or financing programs, and third parties who operate apps and services that connect with certain Services. This kind of sharing may be considered a “sale” under certain state privacy laws.
-
-We may share personal information we collect through the Services if you ask us to do so or otherwise with your consent. We also may disclose information about you in other circumstances, including:
-
-    • to law enforcement authorities, government or public agencies or officials, regulators, and/or any other person or entity with appropriate legal authority or justification for receipt of such information, if required or permitted to do so by law or legal process;  
-    • when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity; or  
-    • in the event we may or do sell or transfer all or a portion of our business or assets (including in the event of a merger, acquisition, joint venture, reorganization, divestiture, dissolution, or liquidation).  
-  
-**Links to Other Websites, Devices, Apps, And Features**
-
-The Services may provide the ability to connect to other websites, devices, apps, and other features, which may operate independently from us and may have their own privacy notices or policies. We strongly suggest you review them. To the extent any linked website, device, app, or other feature is not owned or controlled by us, we are not responsible for its content, use, or privacy practices.
-
-**Your Rights and Choices**
-
-We offer you certain choices in connection with the personal information we obtain about you.
-
-To update your preferences, limit the communications you receive from us, or submit a request, please contact us as specified in the [How To Contact Us](#pp_12) section below.
-
-The Services may offer choices related to the collection, deletion, and sharing of certain information and communications about products, services, and promotions that are unique to specific Services. You can access the relevant settings of each Service to learn about choices that may be available for that Service. If you decline to allow the Services to collect, store, or share certain information, you may not be able to enjoy full use of all of the features available through the Services.
-
-Subject to applicable law and to the extent applicable to each Service, you may (1) request access to, or correction or deletion of, the personal information we maintain about you; (2) request that we limit our use and disclosure of your sensitive personal information; or (3) opt out of the (a) sale of your personal information, (b) sharing of your personal information for cross-context behavioral advertising purposes, or (c) processing of your personal information for targeted advertising purposes. In addition, subject to applicable law, you may receive, in a structured, commonly used and machine-readable format, certain of your personal information that you have provided to us. Subject to applicable law, you may have the right to have this information transmitted to another company, where it is technically feasible.
+In addition to the rights available to you as described in the What Are Your Rights? section of the Privacy Policy, you may also, subject to applicable law, request to opt out of the (1) sale of your personal information, (2) sharing of your personal information for cross-context behavioral advertising purposes, (3) processing of your personal information for targeted advertising purposes, (4) collection or processing of your sensitive data, or (5) collection of your personal information through the operation of a voice recognition feature. In addition, you may, subject to applicable law, request a list of specific third parties to whom we have disclosed personal data.
 
 **How to Submit a Request**:
 
-To submit an access, deletion or correction request, click [here](https://www.samsung.com/us/privacy/ccpa) or call us at 1-800-SAMSUNG (1-800-726-7864). To opt out of the (a) sale of your personal information, (b) sharing of your personal information for cross-context behavioral advertising purposes, or (c) processing of your personal information for targeted advertising purposes, click [here](https://www.samsung.com/us/privacy/ccpa) or call us at 1-800-SAMSUNG (1-800-726-7864). You may choose to opt-out of targeted advertising on Samsung.com by turning on an opt-out preference signal through your browser. You will need to turn it on for each browser and each device you use. We use an automated solution to process opt-out signals. We do not respond to browser-based signals that do not meet applicable state law requirements, which may include older Do Not Track signals.
+To submit an access, deletion or correction request, or to opt out of the (a) sale of your personal information, (b) sharing of your personal information for cross-context behavioral advertising purposes, or (c) processing of your personal information for targeted advertising purposes, click [here](https://www.samsung.com/us/privacy/rights/) or call us at 1-800-SAMSUNG (1-800-726-7864). You may also choose to opt-out of targeted advertising on Samsung.com by turning on an opt-out preference signal through your browser. You will need to turn it on for each browser and each device you use. We use an automated solution to process opt-out signals. We do not respond to browser-based signals that do not meet applicable state law requirements, which may include older Do Not Track signals.
 
-To submit a request as an authorized agent on an individual’s behalf, please click [here](https://www.samsung.com/us/privacy/ccpa) or call us at 1-800-SAMSUNG (1-800-726-7864).
+To opt out of the collection and processing of your sensitive personal information, you can withdraw your consent in the applicable app settings where you have given your consent, if applicable delete your Samsung Account, or call us at the number above. To opt out of the collection of personal information collected through the operation of a voice recognition feature, you can stop using the feature or leave the applicable app or service that provides the feature in the settings.
 
-Subject to applicable law, you may appeal our decision with respect to a request you have submitted by clicking [here](https://www.samsung.com/us/privacy/ccpa).
+To submit a request as an authorized agent on an individual’s behalf, please click [here](https://www.samsung.com/us/privacy/rights/).
 
-**Notice to California Residents**
+Subject to applicable law, you may appeal our decision with respect to a request you have submitted by clicking [here](https://www.samsung.com/us/privacy/rights/).
 
-If you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at [www.samsung.com/us/account/privacy-policy/california](http://www.samsung.com/us/account/privacy-policy/california).
+**California Residents**
 
-**Notice to Nevada Residents**
+If you are a California consumer, for more information about your privacy rights, please see our California Consumer Privacy Statement at [www.samsung.com/us/account/privacy-policy/california](https://www.samsung.com/us/account/privacy-policy/www.samsung.com/us/account/privacy-policy/california).
 
-If you are a Nevada consumer, for more information about your privacy rights, please see our Nevada Privacy Statement at [https://www.samsung.com/us/privacy-policy/nevada-privacy-notice/](https://www.samsung.com/us/privacy-policy/nevada-privacy-notice).
-
-**Notice to Washington Residents**
+**Washington Residents**
 
 If you are a Washington consumer, for more information about your privacy rights, please see our Washington Privacy Statement at [https://www.samsung.com/us/privacy-policy/washington-privacy-notice/](https://www.samsung.com/us/privacy-policy/washington-privacy-notice/).
 
-**How We Protect Personal Information**
+**Nevada Residents**
 
-We maintain safeguards designed to protect personal information we obtain through the Services.
+If you are a Nevada consumer, for more information about your privacy rights, please see our Nevada Privacy Statement at [https://www.samsung.com/us/privacy-policy/nevada-privacy-notice/](https://www.samsung.com/us/privacy-policy/nevada-privacy-notice/).
 
 **Children’s Personal Information**
 
-Unless otherwise specified, the Services are designed for a general audience and are not directed at children. In connection with the Services, we do not knowingly solicit or collect personal information from children under the age of 13 without parental consent. If we learn that we have collected personal information from a child under age 13 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the [How To Contact Us](#pp_12) section of this Privacy Policy.
+Unless otherwise specified, the Services are designed for a general audience and are not directed to children. In connection with the Services, we do not knowingly solicit or collect personal information online from children under the age of 13 without parental consent. If we learn that we have collected personal information online from a child under age 13 without parental consent, we will either seek parental consent or promptly delete that information. If you believe that a child under age 13 may have provided us with personal information without parental consent, please contact us as specified in the Contact Us section of this US Supplement.
 
-**Updates To This Privacy Policy**
-
-We may update this Privacy Policy from time to time and without prior notice to you to reflect changes in our personal information practices with respect to the Services. We will indicate at the top of the policy when it was most recently updated.
-
-**How To Contact Us**
+**Contact Us**
 
 If you would like to make a privacy request, update your preferences, or have a privacy concern, you may contact the Samsung Privacy Office by using our webform, at https://privacypost.sea.samsung.com/ccpa/privacy-inquiries.
 
 Privacy Office  
 Samsung Electronics America, Inc.  
 85 Challenger Road  
-Ridgefield Park, NJ 07660  
-[https://privacypost.sea.samsung.com/ccpa/privacy-inquiries](https://privacypost.sea.samsung.com/ccpa/privacy-inquiries)
+Ridgefield Park, NJ 07660 [https://privacypost.sea.samsung.com/ccpa/privacy-inquiries](https://privacypost.sea.samsung.com/ccpa/privacy-inquiries)
 
 Footer Navigation
 -----------------
