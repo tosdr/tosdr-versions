@@ -23,7 +23,7 @@ General Terms and Conditions of Use Agreement
 (API Terms and Conditions can be found [here](https://simplecast.com/api-terms-conditions/?hsLang=en "API Terms and Conditions"))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Effective Date: August 7, 2020
+Effective Date: February 1, 2022
 
 ### General Terms and Conditions of Use Agreement
 
