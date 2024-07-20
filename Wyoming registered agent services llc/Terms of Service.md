@@ -39,7 +39,7 @@ For specific terms regarding our Trademark service, read our [Trademark Terms of
 
 It is our assumption that you have read and understood these Terms when you use our website or sign up for our Services. However, because Terms of Service are complex by nature, we encourage you to contact us by email or by phone if you have any questions:
 
-**Email:** agent@wyomingagents.com  
+**Email:** [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)  
 **Phone:** 307-217-4045
 
 ### A Note About Our Obligations
@@ -88,7 +88,7 @@ We are not a law firm or an attorney and do not provide legal advice. We provide
 Dispute Resolution by Binding Arbitration and Class Action Waiver
 -----------------------------------------------------------------
 
-Call us at **307-217-4045** to resolve any customer concerns you might have. You can also email us at **agent@wyomingagents.com**. In the unlikely event that we are unable to resolve your complaint to your satisfaction, we each agree to resolve those disputes through binding arbitration under the auspices of JAMS Alternative Dispute Resolution (“JAMS”).
+Call us at **307-217-4045** to resolve any customer concerns you might have. You can also email us at **[\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)**. In the unlikely event that we are unable to resolve your complaint to your satisfaction, we each agree to resolve those disputes through binding arbitration under the auspices of JAMS Alternative Dispute Resolution (“JAMS”).
 
 JAMS will administer any such arbitration under its Comprehensive Arbitration Rules. If the amount of the claims and counterclaims are less than Two Hundred and Fifty Thousand Dollars ($250,000.00), then the JAMS Streamlined Arbitration Rules and Procedures will be used.
 
@@ -310,7 +310,7 @@ Contact Us
 
 Questions about these terms of service? Please contact our customer support staff at one of the following options:
 
-**Email:** agent@wyomingagents.com  
+**Email:** [\[email protected\]](https://www.wyomingagents.com/cdn-cgi/l/email-protection)  
 **Phone:** 307-217-4045
 
 [Get a Registered Agent – $25](https://www.wyomingagents.com/order-agent) [Form a Company – $150](https://www.wyomingagents.com/order-new-company)
