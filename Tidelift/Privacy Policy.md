@@ -2267,6 +2267,7 @@ Last updated: Aug. 30, 2018
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2318,6 +2319,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2369,6 +2371,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2420,6 +2423,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2471,6 +2475,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2522,6 +2527,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2573,6 +2579,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2624,6 +2631,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -2675,6 +2683,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3150,6 +3159,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3162,6 +3172,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3174,6 +3185,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3186,6 +3198,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3198,6 +3211,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3210,6 +3224,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3222,6 +3237,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3234,6 +3250,7 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
@@ -3246,14 +3263,17 @@ Copyright © Tidelift, Inc.
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 * [](https://twitter.com/tidelift)
 * [](https://www.linkedin.com/company/tidelift/)
 * [](https://github.com/tidelift)
+* [![](https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/Refresh%202023/YouTube_light_icon_(2017).svg)](https://www.youtube.com/@tidelift)
 
 Copyright © Tidelift, Inc.
 
