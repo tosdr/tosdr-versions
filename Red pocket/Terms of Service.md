@@ -8,7 +8,7 @@
 *  [![top user icon](https://dnc8pt3q0ulny.cloudfront.net/rp/media/log_ic_top.png) LOGIN](https://www.redpocket.com/login)
 * [![top order status icon](https://dnc8pt3q0ulny.cloudfront.net/rp/media/act-ic-top.png)ORDER STATUS](https://www.redpocket.com/shop/order-status)
 
-Toggle navigation [![Red Pocket Mobile](https://dnc8pt3q0ulny.cloudfront.net/rp/media/logo-rpm.png)](https://www.redpocket.com/)[![Red Pocket Mobile](/images/freedom_pop/fp_logo_mobile.png)](https://www.redpocket.com/)[![Red Pocket Mobile](/images/logo-small.png)](https://www.redpocket.com/)
+Toggle navigation [![Red Pocket Mobile](https://dnc8pt3q0ulny.cloudfront.net/rp/media/rp-logo.png)](https://www.redpocket.com/)[![Red Pocket Mobile](/images/freedom_pop/fp_logo_mobile.png)](https://www.redpocket.com/)[![Red Pocket Mobile](/images/logo-small.png)](https://www.redpocket.com/)
 
 * [Plans](https://www.redpocket.com/plans)
 * [Phones](https://www.redpocket.com/shop)
