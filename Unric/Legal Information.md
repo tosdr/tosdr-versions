@@ -63,9 +63,7 @@ Search
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![United Nations - Nations Unies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2095'%3E%3C/svg%3E)
-
- ![United Nations - Nations Unies](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/header-logo-300x95.png)REGIONAL INFORMATION CENTRE FOR WESTERN EUROPEREGIONAL INFORMATION CENTRE FOR WESTERN EUROPE (UNRIC)](https://unric.org/en/ "United Nations Regional Information Centre for Western Europe")
+  [![United Nations - Nations Unies](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/header-logo-300x95.png)REGIONAL INFORMATION CENTRE FOR WESTERN EUROPEREGIONAL INFORMATION CENTRE FOR WESTERN EUROPE (UNRIC)](https://unric.org/en/ "United Nations Regional Information Centre for Western Europe")
 
 SearchSearch
 
@@ -85,9 +83,7 @@ SearchSearch
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![United Nations - Nations Unies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2095'%3E%3C/svg%3E)
-
- ![United Nations - Nations Unies](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/header-logo-300x95.png)REGIONAL INFORMATION CENTRE FOR WESTERN EUROPEREGIONAL INFORMATION CENTRE FOR WESTERN EUROPE (UNRIC)](https://unric.org/en/ "United Nations Regional Information Centre for Western Europe")
+  [![United Nations - Nations Unies](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/header-logo-300x95.png)REGIONAL INFORMATION CENTRE FOR WESTERN EUROPEREGIONAL INFORMATION CENTRE FOR WESTERN EUROPE (UNRIC)](https://unric.org/en/ "United Nations Regional Information Centre for Western Europe")
 
 [Live now](# "Live now")
 
@@ -149,9 +145,7 @@ Privacy Notice
 
 [](# "More")
 
-[![privacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20696%20464'%3E%3C/svg%3E "privacy")
-
-![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+[![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -163,51 +157,42 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
-  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+ [![Jacob Werksman (left), Principal Advisor at the Directorate General for Climate Action of the European Commission and Alchin Rafiyev (right), Deputy Foreign Minister of Azerbaijan and Chief Negotiator for COP29, in Brussels on 10 July 2024. © UNRIC.](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/07/COP29-brussels-event-10jul24-100x70.jpg)](https://unric.org/en/unbt-cop29-azerbaijan-ambitions-a-truce-cop-in-november/ "COP29 in Azerbaijan to be a “Truce COP”")
 
- ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-june-2024/ "UNRIC Info Point & Library Newsletter: June 2024")
+### [COP29 in Azerbaijan to be a “Truce COP”](https://unric.org/en/unbt-cop29-azerbaijan-ambitions-a-truce-cop-in-november/ "COP29 in Azerbaijan to be a “Truce COP”")
 
-### [UNRIC Info Point & Library Newsletter: June 2024](https://unric.org/en/unric-info-point-library-newsletter-june-2024/ "UNRIC Info Point & Library Newsletter: June 2024")
+11/07/2024
 
-11/06/2024
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-july-2024/ "UNRIC Info Point & Library Newsletter: July 2024")
 
-  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+### [UNRIC Info Point & Library Newsletter: July 2024](https://unric.org/en/unric-info-point-library-newsletter-july-2024/ "UNRIC Info Point & Library Newsletter: July 2024")
 
- ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-may-2024/ "UNRIC Info Point & Library Newsletter: May 2024")
+10/07/2024
 
-### [UNRIC Info Point & Library Newsletter: May 2024](https://unric.org/en/unric-info-point-library-newsletter-may-2024/ "UNRIC Info Point & Library Newsletter: May 2024")
+ [![UN Global Principles for Information Integrity logo](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/06/General_Card_01-100x70.jpg)](https://unric.org/en/un-urges-actions-against-mis-and-disinformation-and-hate-speech/ "UN urges actions against mis- and disinformation and hate speech")
 
-10/05/2024
+### [UN urges actions against mis- and disinformation and hate speech](https://unric.org/en/un-urges-actions-against-mis-and-disinformation-and-hate-speech/ "UN urges actions against mis- and disinformation and hate speech")
 
-  [![World Press Freedom Day cover image of a typewriter spelling out the right to write](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+24/06/2024
 
- ![World Press Freedom Day cover image of a typewriter spelling out the right to write](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/wpfd-100x70.jpg)](https://unric.org/en/world-press-freedom-day-2024-journalism-in-the-face-of-the-environmental-crisis/ "World Press Freedom Day 2024: Journalism in the face of the environmental crisis")
+ [![](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/06/Untitled-design-100x70.png)](https://unric.org/en/women-in-diplomacy-breaking-the-glass-ceiling-and-overcoming-sobriety/ "Women in diplomacy: Breaking the glass ceiling (and overcoming sobriety)")
 
-### [World Press Freedom Day 2024: Journalism in the face of the...](https://unric.org/en/world-press-freedom-day-2024-journalism-in-the-face-of-the-environmental-crisis/ "World Press Freedom Day 2024: Journalism in the face of the environmental crisis")
+### [Women in diplomacy: Breaking the glass ceiling (and overcoming sobriety)](https://unric.org/en/women-in-diplomacy-breaking-the-glass-ceiling-and-overcoming-sobriety/ "Women in diplomacy: Breaking the glass ceiling (and overcoming sobriety)")
 
-03/05/2024
+21/06/2024
 
-  [![Petersberg climate dialogue logo on top of climate change image of dried lake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+ [![We Are Guardians screening](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/06/LUMIERE-GUARDIANS-01-100x70.jpg)](https://unric.org/en/protecting-the-amazon-un-cinema-screening-of-we-are-guardians/ "Protecting the Amazon: UN Cinema screening of “We Are Guardians”")
 
- ![Petersberg climate dialogue logo on top of climate change image of dried lake](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/petersberg-climate-dialogue-100x70.jpg)](https://unric.org/en/high-level-preparatory-meeting-for-cop29-petersberg-climate-dialogue-2024-in-germany/ "High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany")
+### [Protecting the Amazon: UN Cinema screening of “We Are Guardians”](https://unric.org/en/protecting-the-amazon-un-cinema-screening-of-we-are-guardians/ "Protecting the Amazon: UN Cinema screening of “We Are Guardians”")
 
-### [High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany](https://unric.org/en/high-level-preparatory-meeting-for-cop29-petersberg-climate-dialogue-2024-in-germany/ "High-Level Preparatory Meeting for COP29: Petersberg Climate Dialogue 2024 in Germany")
-
-26/04/2024
-
-  [![Image of Madrid city centre showing high-rise buildings and streets.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
- ![Image of Madrid city centre showing high-rise buildings and streets.](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/04/Madrid-climate-neutral-city-2030-100x70.jpg)](https://unric.org/en/the-33-european-cities-on-track-to-achieve-climate-neutrality-in-2030/ "The 33 European cities on track to achieve climate neutrality in 2030 ")
-
-### [The 33 European cities on track to achieve climate neutrality in...](https://unric.org/en/the-33-european-cities-on-track-to-achieve-climate-neutrality-in-2030/ "The 33 European cities on track to achieve climate neutrality in 2030 ")
-
-25/04/2024
+21/06/2024
 
 [Load more](#)
 
 #### Publications
 
-* [June 2024](https://unric.org/en/2024/06/) (26)
+* [July 2024](https://unric.org/en/2024/07/) (18)
+* [June 2024](https://unric.org/en/2024/06/) (34)
 * [May 2024](https://unric.org/en/2024/05/) (26)
 * [April 2024](https://unric.org/en/2024/04/) (34)
 * [March 2024](https://unric.org/en/2024/03/) (53)
