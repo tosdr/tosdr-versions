@@ -41,6 +41,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
+    * [Causeway](https://www.charitynavigator.org/donor-basics/tools-for-giving/causeway.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
@@ -137,6 +138,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
+    * [Causeway](https://www.charitynavigator.org/donor-basics/tools-for-giving/causeway.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
@@ -192,11 +194,6 @@
     
 
 [Sign in](https://www.charitynavigator.org/profile) [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html) [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
-
-1. [Home](https://www.charitynavigator.org/content/cn/us/en/homepage.html) 
-2. [About Us](https://www.charitynavigator.org/about-us.html) 
-3. [Financials and Policies](https://www.charitynavigator.org/about-us/financials-and-policies.html) 
-4. Privacy Policy 
 
 ![Charity Navigator Logo](/content/dam/cn/cn/logos/CharityNav_Logo_Stack.png)
 
