@@ -1,34 +1,30 @@
 [Skip to main content](#main-content)
 
-BOGO Free Sitewide! DETAILS
+Summer Sale: Save up to 60% DETAILS
 
-\+ Free Gift With Purchase! DETAILS
-
-24 HOURS ONLY!
+ACTIVE SUMMER ESSENTIALS
 
 Close the Modal
 
-#### Everything is Buy 1 Get 1 Free!
+#### SAVE UP TO 60%
 
-**Mix & Match or Double Up!**
+[SHOP NOW](https://www.tommiecopper.com/special/active-summer-essentials/)
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
+Offer valid 7/19/2024 8AM ET - 7/22/2024 6AM ET.
 
-Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
+Up to 60% Active Summer Essentials discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
-To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Excludes Mattresses. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+COMPRESSION GLOVES
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $200+
+#### Buy 1 Get 1 Free Today!
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP MEN](https://www.tommiecopper.com/men/compression-wear/accessories/)    [SHOP WOMEN](https://www.tommiecopper.com/women/compression-wear/accessories/)
 
-Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
+Offer valid 5/17/2024 8AM ET - 5/20/2024 6AM ET
 
-Free Baseball Hat automatically applied on orders $200+. Order subtotal must reach $200 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount on all compression gloves, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
