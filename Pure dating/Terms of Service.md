@@ -153,6 +153,6 @@ Get the app
 
 [](https://www.instagram.com/thepureapp/)[](https://www.tiktok.com/@puredatingapp)[](https://twitter.com/thepureapp)[\[email protected\]](https://pure.dating/cdn-cgi/l/email-protection)
 
-[Community guidelines](https://pure.dating/content/en/guidelines)[Safety and Privacy](https://pure.dating/content/en/security)[Terms and Conditions](https://pure.dating/content/en/terms)[Cookie policy](https://pure.dating/content/en/legal/cookies)[Privacy Policy](https://pure.dating/content/en/privacy)[FAQ](https://pure.dating/content/en/faq)[Contact us](https://pure.dating/content/en/contact-us)
+[Community guidelines](https://pure.dating/content/en/guidelines)[Safety and Privacy](https://pure.dating/content/en/security)[Terms and Conditions](https://pure.dating/content/en/terms)[Cookie policy](https://pure.dating/content/en/legal/cookies)[Privacy Policy](https://pure.dating/content/en/privacy)[FAQ](https://pure.dating/content/en/faq)[Consumer Health Data Privacy Policy](https://pure.dating/content/en/legal/consumer-health-data-privacy-policy)[Contact us](https://pure.dating/content/en/contact-us)
 
 © 2024 PURE. Online Classifieds AG, Switzerland
