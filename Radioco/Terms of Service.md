@@ -8,11 +8,12 @@
     * [Programming Professional grade, for everyone.](https://radio.co/product-tour/programming)
     * [Station Management Insights at your fingertips.](https://radio.co/product-tour/station-management)
     * [Listener Engagement Reach communities globally.](https://radio.co/product-tour/listener-engagement)
+    * [Mobile Apps Create iOS & Andriod apps for your station.](https://radio.co/apps)
     * [Explore All Features](https://radio.co/product-tour/all-features)
 * [Why Radio.co](https://radio.co/why-choose-us)
 * [Book Demo](https://radio.co/demo)
 * [Pricing](https://radio.co/pricing)
-* [Apps](https://radio.co/apps)
+* [In-Store](https://radio.co/in-store)
 * [Blog](https://radio.co/blog)
 * [Contact](https://radio.co/contact)
 
