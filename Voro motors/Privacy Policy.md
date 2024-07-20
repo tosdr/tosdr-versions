@@ -21,23 +21,15 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * [Kaabo Electric Scooters](https://www.voromotors.com/en-gb/collections/kaabo-electric-scooters)
         * [Wolf King GTR(New!)](https://www.voromotors.com/en-gb/products/kaabo-wolf-king-gtr)
         * [Wolf King GT (72V)](https://www.voromotors.com/en-gb/products/wolf-king-gt)
-        * [Wolf Warrior GT (60V)](https://www.voromotors.com/products/wolf-warrior-gt)
-        * [Wolf Warrior X ProFinal Sale!](https://www.voromotors.com/products/wolf-warrior-x)
         * [Mantis King GT](https://www.voromotors.com/en-gb/products/kaabo-mantis-king-gt-electric-scooter)
         * [Wolf Warrior X GT](https://www.voromotors.com/en-gb/products/wolf-warrior-x-gt-pro-electric-scooter)
         * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/en-gb/products/kaabo-mantis-pro-se)
     * [Dualtron Electric Scooters](https://www.voromotors.com/en-gb/collections/dualtron-electric-scooters)
         * [X Limited](https://www.voromotors.com/en-gb/products/dualtron-x-limited-electric-scooter)
         * [Storm Limited](https://www.voromotors.com/en-gb/products/dualtron-storm-limited-electric-scooter)
-        * [Thunder](https://www.voromotors.com/en-gb/products/dualtron-thunder)
-        * [Thunder 2](https://www.voromotors.com/en-gb/products/dualtron-thunder-2-electric-scooter)
         * [Storm](https://www.voromotors.com/en-gb/products/dualtron-storm)
-        * [Victor](https://www.voromotors.com/en-gb/products/dualtron-victor-electric-scooter)
         * [Victor Luxury](https://www.voromotors.com/en-gb/products/dualtron-victor-luxury-electric-scooter)
         * [Eagle Pro](https://www.voromotors.com/en-gb/products/dualtron-eagle-pro)
-        * [Ultra 2](https://www.voromotors.com/en-gb/products/dualtron-ultra-2)
-        * [City](https://www.voromotors.com/en-gb/products/dualtron-city-electric-scooter)
-        * [X2 UP](https://www.voromotors.com/en-gb/products/dualtron-x2-electric-scooter)
     * [Inmotion Electric Scooters](https://www.voromotors.com/en-gb/collections/inmotion-electric-scooters)
         * [RS Midnight(New!)](https://www.voromotors.com/en-gb/products/inmotion-rs-midnight-electric-scooter)
         * [RS Lite Midnight(New!)](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter?variant=43178976739526)
@@ -95,7 +87,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [RoadRunner](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner+spare-parts)
         * [RoadRunner Pro](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/emove-roadrunner-pro+spare-parts)
     * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/spare-parts)
-        * [Wolf King GTR](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gtr+spare-parts)
+        * [Wolf King GTR](https://www.voromotors.com/en-gb/collections/wolf-king-gtr-parts-catalog)
         * [Wolf King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gt+spare-parts)
         * [Wolf King](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king+spare-parts)
         * [Wolf Warrior GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-gt+spare-parts)
@@ -117,7 +109,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
         * [X Limited](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/dualtron-x-limited+spare-parts)
     * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
         * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+spare-parts)
-        * [Inmotion RS](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+spare-parts)
+        * [Inmotion RS](https://www.voromotors.com/en-gb/collections/rs-midnight-catalog)
     * [Essentials](https://www.voromotors.com/en-gb/collections/electric-scooter-parts-and-accessories)
         * [Safety Gear](https://www.voromotors.com/en-gb/collections/safety-gear)
         * [Gift Cards](https://www.voromotors.com/en-gb/products/gift-card-1)
@@ -195,7 +187,7 @@ Continue Shopping
 
 * £0.00 GBP Subtotal
 
-* Go to cart
+* Checkout
 
 [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/en-gb "VORO MOTORS")
 
@@ -227,8 +219,6 @@ Continue Shopping
 
 * [Wolf King GTR(New!)](https://www.voromotors.com/en-gb/products/kaabo-wolf-king-gtr)
 * [Wolf King GT (72V)](https://www.voromotors.com/en-gb/products/wolf-king-gt)
-* [Wolf Warrior GT (60V)](https://www.voromotors.com/products/wolf-warrior-gt)
-* [Wolf Warrior X ProFinal Sale!](https://www.voromotors.com/products/wolf-warrior-x)
 * [Mantis King GT](https://www.voromotors.com/en-gb/products/kaabo-mantis-king-gt-electric-scooter)
 * [Wolf Warrior X GT](https://www.voromotors.com/en-gb/products/wolf-warrior-x-gt-pro-electric-scooter)
 * [Mantis Pro SEFinal Sale!](https://www.voromotors.com/en-gb/products/kaabo-mantis-pro-se)
@@ -237,15 +227,9 @@ Continue Shopping
 
 * [X Limited](https://www.voromotors.com/en-gb/products/dualtron-x-limited-electric-scooter)
 * [Storm Limited](https://www.voromotors.com/en-gb/products/dualtron-storm-limited-electric-scooter)
-* [Thunder](https://www.voromotors.com/en-gb/products/dualtron-thunder)
-* [Thunder 2](https://www.voromotors.com/en-gb/products/dualtron-thunder-2-electric-scooter)
 * [Storm](https://www.voromotors.com/en-gb/products/dualtron-storm)
-* [Victor](https://www.voromotors.com/en-gb/products/dualtron-victor-electric-scooter)
 * [Victor Luxury](https://www.voromotors.com/en-gb/products/dualtron-victor-luxury-electric-scooter)
 * [Eagle Pro](https://www.voromotors.com/en-gb/products/dualtron-eagle-pro)
-* [Ultra 2](https://www.voromotors.com/en-gb/products/dualtron-ultra-2)
-* [City](https://www.voromotors.com/en-gb/products/dualtron-city-electric-scooter)
-* [X2 UP](https://www.voromotors.com/en-gb/products/dualtron-x2-electric-scooter)
 
 * [Inmotion Electric Scooters](https://www.voromotors.com/en-gb/collections/inmotion-electric-scooters)
 
@@ -320,7 +304,7 @@ Continue Shopping
 
 * [Kaabo](https://www.voromotors.com/collections/kaabo-accessories-and-parts/spare-parts)
 
-* [Wolf King GTR](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gtr+spare-parts)
+* [Wolf King GTR](https://www.voromotors.com/en-gb/collections/wolf-king-gtr-parts-catalog)
 * [Wolf King GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king-gt+spare-parts)
 * [Wolf King](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-king+spare-parts)
 * [Wolf Warrior GT](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/kaabo-wolf-warrior-gt+spare-parts)
@@ -346,7 +330,7 @@ Continue Shopping
 * [Others](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
 
 * [Fiido](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/fiido-q1s+spare-parts)
-* [Inmotion RS](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/inmotion-rs+spare-parts)
+* [Inmotion RS](https://www.voromotors.com/en-gb/collections/rs-midnight-catalog)
 
 * [Essentials](https://www.voromotors.com/en-gb/collections/electric-scooter-parts-and-accessories)
 
@@ -625,6 +609,11 @@ Sunday - CLOSED
 **VORO (HI)  
 **1030 Opule St Unit #3, Kapolei, HI 96707  
 Open Monday - Friday (9:30 am - 5:30 pm)  
+Saturday - Sunday - CLOSED
+
+**VORO (NYC)  
+**624 East 9th Street, New York, NY 10009  
+Open Monday - Friday (9am - 6pm)  
 Saturday - Sunday - CLOSED
 
   
