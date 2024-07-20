@@ -102,25 +102,25 @@ Mobile Navigation
     
     Current
     
-    [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+    [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
-    [May 2024
+    [July 2024
     
-    How to Face Your Everyday Triggers](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+    Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
-    At any moment, someone’s aggravating behavior or our own bad luck can set us off on an emotional spiral that threatens to derail our entire day. Here’s how we can face our triggers with less reactivity so that we can get on with our lives.
+    Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
     
     [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
     
     Recent
+    
+    [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
     
     [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
     
     [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
     
     [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
-    
-    [![September 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-08/2023-09.png.jpg?itok=eBFv_6fC "Authenticity")](https://www.psychologytoday.com/us/magazine/archive/2023/09 "September 2023")
     
     [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
     
@@ -295,6 +295,8 @@ Psychology Today is a service mark of Sussex Publishers, LLC. The Therapy Direct
 
 Recent Issues
 
+[![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+
 [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
 
 [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
@@ -304,8 +306,6 @@ Recent Issues
 [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
 
 [![September 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-08/2023-09.png.jpg?itok=eBFv_6fC "Authenticity")](https://www.psychologytoday.com/us/magazine/archive/2023/09 "September 2023")
-
-[![July 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-06/2023-07.png.jpg?itok=w2Lq6Zc1 "Intuition")](https://www.psychologytoday.com/us/magazine/archive/2023/07 "July 2023")
 
 [Subscribe Today](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
 
@@ -425,13 +425,13 @@ Back
 
 Magazine
 
-[![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+[![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
 
-[May 2024
+[July 2024
 
-How to Face Your Everyday Triggers](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
 
-At any moment, someone’s aggravating behavior or our own bad luck can set us off on an emotional spiral that threatens to derail our entire day. Here’s how we can face our triggers with less reactivity so that we can get on with our lives.
+Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
 
 [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine") [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
 
