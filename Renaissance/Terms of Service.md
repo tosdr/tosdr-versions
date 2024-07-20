@@ -473,7 +473,7 @@ ARP ESSER funds can still be used to purchase Renaissance solutions. Private sch
 
 [Learn more about funding](https://www.renaissance.com/resources/funding/)
 
-© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
+© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/?page_id=56405) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
 
 Select your school
 
