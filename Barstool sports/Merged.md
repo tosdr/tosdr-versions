@@ -142,16 +142,16 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Rundown](https://www.barstoolsports.com/video/3519867/tiger-woods-called-out-by-british-tv-barstool-rundown-july-18th-2024)
+* [Viva TV](https://www.barstoolsports.com/video/3519975/we-broke-the-mlb-home-run-record-in-6-hours-or-viva-tv)
 * [Shanghai Marriage Market](https://www.barstoolsports.com/video/3519731/i-tried-to-find-nicky-smokes-and-ben-mintz-a-wife-at-the-shanghai-marriage-market)
-* [Dave & Zach Bryan](https://www.barstoolsports.com/blog/3519770/watch-dave-sings-revival-on-stage-with-zach-bryan-to-a-sold-out-crowd-at-gillette-stadium)
-* [Undercover Bombs](https://www.barstoolsports.com/blog/3519725/feitelberg-makes-his-stand-up-debut-with-terrible-jokes-written-by-the-barstool-office-or-undercover-bombs)
+* [Pardon My Cheesesteak](https://www.pardonmycheesesteak.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
+* [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Golf Time App](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
 
 Privacy Policy
 ==============
 
-_Last updated: September 22, 2023_
+_Last updated: July 18, 2024_
 
 At Barstool, the privacy and security of your information is a top priority. We want you to understand how we handle your data. We also want you to know your rights and choices.
 
@@ -365,6 +365,8 @@ We may share information about you, as well as Usage Data and Device Information
 * Payment providers, namely PayPal and ShopPay, to process payments between you and us, such as for subscriptions or products. These providers receive information about your order in order to tie your payment process to your order. We don’t receive all of the information you may provide to them as part of that process (for instance, we don’t receive full payment-account numbers).
   
 * Delivery and fulfillment providers, namely Shopify, to fulfill your orders placed on the Barstool Sports Store and other Platforms. These providers receive information about you that is relevant and necessary to fulfill your order, such as delivery information.
+  
+* SMS messaging platform and delivery providers, such as Klaviyo and the phone companies who assist us in the delivery of text messages, to deliver text messages to you in connection with Platform marketing campaigns that you have opted in to receive.
 
   
 10. With your consent or at your request
