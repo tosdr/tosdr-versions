@@ -1,147 +1,155 @@
 [![](https://www.sirsidynix.com/wp-content/uploads/2023/12/SD-header-logo-white.png)](https://www.sirsidynix.com/)
 
 * [**Products**](https://www.sirsidynix.com/products/) Close **Products** Open **Products**
+    
+    ###### Content Solutions
+    
+    [CloudSource](https://cloudsource.net/)
+    
+    ###### Library Systems
+    
+    [BLUEcloud](https://www.sirsidynix.com/bluecloud/)
+    
+    [BLUEcloud Campus](https://www.sirsidynix.com/bluecloud-campus/)
+    
+    [Symphony](https://www.sirsidynix.com/symphony/)
+    
+    [Horizon](https://www.sirsidynix.com/horizon/)
+    
+    [EOS.Web](https://www.sirsidynix.com/eos-web/)
+    
+    ###### Modules
+    
+    [BLUEcloud Aquisitions](https://www.sirsidynix.com/bluecloud-acquisitions/)
+    
+    [BLUEcloud Analytics](https://www.sirsidynix.com/bluecloud-analytics-2/)
+    
+    [BLUEcloud Cataloging](https://www.sirsidynix.com/bluecloud-cataloging/)
+    
+    [BLUEcloud Central](https://www.sirsidynix.com/bluecloud-central/)
+    
+    [BLUEcloud Circulation](https://www.sirsidynix.com/bluecloud-circulation-2/)
+    
+    [BLUEcloud Commerce](https://www.sirsidynix.com/bluecloud-commerce-2/)
+    
+    [BLUEcloud Course Lists](https://www.sirsidynix.com/bluecloud-course-lists/)
+    
+    [BLUEcloud eRM](https://www.sirsidynix.com/bluecloud-erm-2/)
+    
+    [BLUEcloud Mobile2](https://www.sirsidynix.com/bluecloud-mobile2/)
+    
+    [BLUEcloud Visibility+](https://www.sirsidynix.com/bluecloud-visibility-2/)
+    
+    [Community Engagement Plaform](https://www.sirsidynix.com/community-engagement-platform/)
+    
+    [Enterprise](https://www.sirsidynix.com/enterprise/)
+    
+    [eResource Central](https://www.sirsidynix.com/eresource-central/)
+    
+    [MobileStaff](https://www.sirsidynix.com/mobilestaff/)
+    
+    [SymphonyWeb](https://www.sirsidynix.com/symphonyweb/)
+    
+    [Web Services & APIs](https://www.sirsidynix.com/apis-web-services/)
+    
+    ###### Need
+    
+    [Library Automation](https://www.sirsidynix.com/library-automation/)
+    
+    [Discovery](https://www.sirsidynix.com/discovery-2/)
+    
+    [Library Marketing](https://www.sirsidynix.com/library-marketing-2/)
+    
+    [Mobile Experience](https://www.sirsidynix.com/mobile-experience-2/)
+    
+    ###### Library Type
+    
+    [Public](https://www.sirsidynix.com/public/)
+    
+    [Academic](https://www.sirsidynix.com/academic/)
+    
+    [K-12](https://www.sirsidynix.com/k-12)
+    
+    [Consortia](https://www.sirsidynix.com/consortia/)
+    
+    [Special](https://www.sirsidynix.com/special)
+    
 * [**Why**SirsiDynix](https://www.sirsidynix.com/why-sirsidynix/) Close **Why**SirsiDynix Open **Why**SirsiDynix
+    
+    [Power Of Libraries](https://www.sirsidynix.com/why-sirsidynix/#pol)
+    
+    [Customer Experience](https://www.sirsidynix.com/why-sirsidynix/#focus)
+    
+    [Open & Transparent](https://www.sirsidynix.com/why-sirsidynix/#open)
+    
+    [Best-of-Breed](https://www.sirsidynix.com/why-sirsidynix/#open)
+    
+    [BLUE](https://www.sirsidynix.com/why-sirsidynix/#blue)
+    
+    [Connections](https://www.sirsidynix.com/why-sirsidynix/#connections)
+    
+    [Your Partner](https://www.sirsidynix.com/why-sirsidynix/#partner)
+    
+    [Community](https://www.sirsidynix.com/why-sirsidynix/#community)
+    
 * [**Customer**Success](https://www.sirsidynix.com/customer-success/) Close **Customer**Success Open **Customer**Success
+    
+    [Hosting](https://www.sirsidynix.com/hosting/)
+    
+    [Training](https://www.sirsidynix.com/training/)
+    
+    [Consulting](https://www.sirsidynix.com/consulting/)
+    
+    [Implementation](https://www.sirsidynix.com/implementation/)
+    
+    [Data Services](https://www.sirsidynix.com/data-services/)
+    
+    [Platinum Services](https://www.sirsidynix.com/platinum-services/)
+    
+    [Offload System Administration Services](https://www.sirsidynix.com/osas/)
+    
+    [Customer Support](https://www.sirsidynix.com/customer-support/)
+    
+    [Developer Community](https://www.sirsidynix.com/developer-community/)
+    
+    [Library Relations Manager](https://www.sirsidynix.com/library-relations-manager/)
+    
+    [Strategic Partners Program](https://www.sirsidynix.com/strategic-partners-program/)
+    
 * [**Resources**](https://www.sirsidynix.com/resources/) Close **Resources** Open **Resources**
+    
+    [Economic Power of Libraries Video](http://go.sirsidynix.com/economic-power-of-libraries)
+    
+    [Connections](https://cs.sirsidynix.com/)
+    
+    [COVID-19 Resources](https://www.sirsidynix.com/covid-19-resources/)
+    
+    [Webinars and Events](https://www.sirsidynix.com/events)
+    
+    [OnDemand Webinars](https://www.sirsidynix.com/ondemand-webinars/)
+    
+    [Blog](https://www.sirsidynix.com/blog/)
+    
+    [Case Studies](https://www.sirsidynix.com/case-studies/)
+    
+    [Press Releases](https://www.sirsidynix.com/press-releases/)
+    
+    [eBooks](https://www.sirsidynix.com/ebooks/)
+    
 * [**Support**Center](https://support.sirsidynix.com/)
+    
 * [**Company**](https://www.sirsidynix.com/about-us/) Close **Company** Open **Company**
-
-###### Content Solutions
-
-[CloudSource](https://cloudsource.net/)
-
-###### Library Systems
-
-[BLUEcloud](https://www.sirsidynix.com/bluecloud/)
-
-[BLUEcloud Campus](https://www.sirsidynix.com/bluecloud-campus/)
-
-[Symphony](https://www.sirsidynix.com/symphony/)
-
-[Horizon](https://www.sirsidynix.com/horizon/)
-
-[EOS.Web](https://www.sirsidynix.com/eos-web/)
-
-###### Modules
-
-[BLUEcloud Aquisitions](https://www.sirsidynix.com/bluecloud-acquisitions/)
-
-[BLUEcloud Analytics](https://www.sirsidynix.com/bluecloud-analytics-2/)
-
-[BLUEcloud Cataloging](https://www.sirsidynix.com/bluecloud-cataloging/)
-
-[BLUEcloud Central](https://www.sirsidynix.com/bluecloud-central/)
-
-[BLUEcloud Circulation](https://www.sirsidynix.com/bluecloud-circulation-2/)
-
-[BLUEcloud Commerce](https://www.sirsidynix.com/bluecloud-commerce-2/)
-
-[BLUEcloud Course Lists](https://www.sirsidynix.com/bluecloud-course-lists/)
-
-[BLUEcloud eRM](https://www.sirsidynix.com/bluecloud-erm-2/)
-
-[BLUEcloud Mobile2](https://www.sirsidynix.com/bluecloud-mobile2/)
-
-[BLUEcloud Visibility+](https://www.sirsidynix.com/bluecloud-visibility-2/)
-
-[Community Engagement Plaform](https://www.sirsidynix.com/community-engagement-platform/)
-
-[Enterprise](https://www.sirsidynix.com/enterprise/)
-
-[eResource Central](https://www.sirsidynix.com/eresource-central/)
-
-[MobileStaff](https://www.sirsidynix.com/mobilestaff/)
-
-[SymphonyWeb](https://www.sirsidynix.com/symphonyweb/)
-
-[Web Services & APIs](https://www.sirsidynix.com/apis-web-services/)
-
-###### Need
-
-[Library Automation](https://www.sirsidynix.com/library-automation/)
-
-[Discovery](https://www.sirsidynix.com/discovery-2/)
-
-[Library Marketing](https://www.sirsidynix.com/library-marketing-2/)
-
-[Mobile Experience](https://www.sirsidynix.com/mobile-experience-2/)
-
-###### Library Type
-
-[Public](https://www.sirsidynix.com/public/)
-
-[Academic](https://www.sirsidynix.com/academic/)
-
-[K-12](https://www.sirsidynix.com/k-12)
-
-[Consortia](https://www.sirsidynix.com/consortia/)
-
-[Special](https://www.sirsidynix.com/special)
-
-[Power Of Libraries](https://www.sirsidynix.com/why-sirsidynix/#pol)
-
-[Customer Experience](https://www.sirsidynix.com/why-sirsidynix/#focus)
-
-[Open & Transparent](https://www.sirsidynix.com/why-sirsidynix/#open)
-
-[Best-of-Breed](https://www.sirsidynix.com/why-sirsidynix/#open)
-
-[BLUE](https://www.sirsidynix.com/why-sirsidynix/#blue)
-
-[Connections](https://www.sirsidynix.com/why-sirsidynix/#connections)
-
-[Your Partner](https://www.sirsidynix.com/why-sirsidynix/#partner)
-
-[Community](https://www.sirsidynix.com/why-sirsidynix/#community)
-
-[Hosting](https://www.sirsidynix.com/hosting/)
-
-[Training](https://www.sirsidynix.com/training/)
-
-[Consulting](https://www.sirsidynix.com/consulting/)
-
-[Implementation](https://www.sirsidynix.com/implementation/)
-
-[Data Services](https://www.sirsidynix.com/data-services/)
-
-[Platinum Services](https://www.sirsidynix.com/platinum-services/)
-
-[Customer Support](https://www.sirsidynix.com/customer-support/)
-
-[Library Relations Manager](https://www.sirsidynix.com/library-relations-manager/)
-
-[Developer Community](https://www.sirsidynix.com/developer-community/)
-
-[Strategic Partners Program](https://www.sirsidynix.com/strategic-partners-program/)
-
-[Economic Power of Libraries Video](http://go.sirsidynix.com/economic-power-of-libraries)
-
-[Connections](https://cs.sirsidynix.com/)
-
-[COVID-19 Resources](https://www.sirsidynix.com/covid-19-resources/)
-
-[Webinars and Events](https://www.sirsidynix.com/events)
-
-[OnDemand Webinars](https://www.sirsidynix.com/ondemand-webinars/)
-
-[Blog](https://www.sirsidynix.com/blog/)
-
-[Case Studies](https://www.sirsidynix.com/case-studies/)
-
-[Press Releases](https://www.sirsidynix.com/press-releases/)
-
-[eBooks](https://www.sirsidynix.com/ebooks/)
-
-[About Us](https://www.sirsidynix.com/about-us/)
-
-[Careers](https://www.sirsidynix.com/careers/)
-
-[Leadership](https://www.sirsidynix.com/leadership/)
-
-[Partners](https://www.sirsidynix.com/partners/)
-
-[Contact Us](https://www.sirsidynix.com/contact-us/)
+    
+    [About Us](https://www.sirsidynix.com/about-us/)
+    
+    [Careers](https://www.sirsidynix.com/careers/)
+    
+    [Leadership](https://www.sirsidynix.com/leadership/)
+    
+    [Partners](https://www.sirsidynix.com/partners/)
+    
+    [Contact Us](https://www.sirsidynix.com/contact-us/)
+    
 
 Search
 
@@ -275,27 +283,14 @@ We may collect and process Personal Data listed in the foregoing paragraphs to t
 
 ### 3\. How we disclose Personal Data
 
-Your Personal Data will be accessible to our employees who require access for the purposes described in this Privacy Policy. Our contracted data processors and service providers (such as payment card processors, if applicable) are authorized to use and disclose Personal Data only as necessary to perform the services for which they were engaged by us.  
-Other parties we may disclose your personal data to include:
+Your Personal Data will be accessible to our employees who require access for the purposes described in this Privacy Policy. Our contracted data processors and service providers (such as payment card processors, if applicable) are authorized to use and disclose Personal Data only as necessary to perform the services for which they were engaged by us. Other parties we may disclose your personal data to include:
 
 * potential purchasers of, or successor in interest to, all or a portion of our business or assets; and
 * others pursuant to consent obtained from you.
 
 ### 4\. Transfers and Storage of Personal Data
 
-We and the third parties described in Section 3 above may collect, transfer and store your Personal Data in countries that may not provide for the same level of data protection as your jurisdiction. In such cases, we ensure that recipients of your Personal Data provide an adequate level of protection and security through mechanisms for the transfer of data approved by applicable governments and regulators.
-
-For purposes of transferring Personal Data between the United States and the EU, the UK and other covered countries, we participate in, and comply with, the EU-U.S. and UK Extension to the EU-U.S. Data Privacy Frameworks administered by the U.S. Department of Commerce (the “Frameworks”). We have certified to the U.S. Department of Commerce that we adhere to the principles described in the Frameworks (the “Principles”) in our treatment of such Personal Data. If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles will govern. You may learn more about the Data Privacy Frameworks at [the U.S. Department of Commerce’s Data Privacy Framework website](https://www.dataprivacyframework.gov/). You may find our listing and the listings of other Data Privacy Framework participants on the [Data Privacy Framework List](https://www.dataprivacyframework.gov/s/).
-
-If you have any questions or complaints relating to our participation in, or compliance with, the Frameworks, you may contact us via our webform or other methods described in Section 1 above. If we are unable to resolve a complaint, we commit to submitting the complaint to the third-party dispute resolution provider described in Section 1 above to resolve the dispute. The services of the dispute resolution provider will be available at no charge to you. Binding arbitration is available to address complaints not resolved by other means. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
-
-In the context of an onward transfer, we are responsible for the processing of Personal Information we receive under the Frameworks and subsequently transfer to a third party acting as an agent on our behalf. We remain liable under the Principles if our agent processes such Personal Information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
-
-We utilize data centers in the United States, the United Kingdom, Australia, Canada, Chile and Singapore. Generally, Personal Data is stored and processed in the geographic region where the data subject is located or in the United States.
-
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, SirsiDynix commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
-
-For complaints regarding EU-U.S. DPF and the UK Extension to the EU-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
+We and the third parties described in Section 3 above may collect, transfer and store your Personal Data in countries that may not provide for the same level of data protection as your jurisdiction. In such cases, we ensure that recipients of your Personal Data provide an adequate level of protection and security through mechanisms for the transfer of data approved by applicable governments and regulators. For purposes of transferring Personal Data between the United States and the EU, the UK and other covered countries, we participate in, and comply with, the EU-U.S. and UK Extension to the EU-U.S. Data Privacy Frameworks administered by the U.S. Department of Commerce (the “Frameworks”). We have certified to the U.S. Department of Commerce that we adhere to the principles described in the Frameworks (the “Principles”) in our treatment of such Personal Data. If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles will govern. You may learn more about the Data Privacy Frameworks at [the U.S. Department of Commerce’s Data Privacy Framework website](https://www.dataprivacyframework.gov/). You may find our listing and the listings of other Data Privacy Framework participants on the [Data Privacy Framework List](https://www.dataprivacyframework.gov/s/). If you have any questions or complaints relating to our participation in, or compliance with, the Frameworks, you may contact us via our webform or other methods described in Section 1 above. If we are unable to resolve a complaint, we commit to submitting the complaint to the third-party dispute resolution provider described in Section 1 above to resolve the dispute. The services of the dispute resolution provider will be available at no charge to you. Binding arbitration is available to address complaints not resolved by other means. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). In the context of an onward transfer, we are responsible for the processing of Personal Information we receive under the Frameworks and subsequently transfer to a third party acting as an agent on our behalf. We remain liable under the Principles if our agent processes such Personal Information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage. We utilize data centers in the United States, the United Kingdom, Australia, Canada, Chile and Singapore. Generally, Personal Data is stored and processed in the geographic region where the data subject is located or in the United States. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, SirsiDynix commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you. For complaints regarding EU-U.S. DPF and the UK Extension to the EU-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
 
 ### 5\. Criteria and time for retaining Personal Data
 
@@ -317,25 +312,19 @@ Depending on the data protection laws that apply to you, you may have specific r
 * the right to non-discrimination for exercising your rights; and
 * the right of no retaliation following your exercise of your rights.
 
-If any of these rights are applicable to you, you may exercise them by contacting us as described in Section 1 above.
-
-Note regarding our processing of Personal Data on behalf of our customers. As described in the second paragraph of this Privacy Policy, we process Personal Data on behalf of libraries and other organizations who use our products and services. Such organizations are the controllers of the Personal Data. If your Personal Data has been submitted to us for processing on behalf of one of these organizations and you wish to exercise any rights you may have under applicable data protection laws, please contact that organization directly. We will assist the organization to respond to your request as required by applicable laws.
+If any of these rights are applicable to you, you may exercise them by contacting us as described in Section 1 above. Note regarding our processing of Personal Data on behalf of our customers. As described in the second paragraph of this Privacy Policy, we process Personal Data on behalf of libraries and other organizations who use our products and services. Such organizations are the controllers of the Personal Data. If your Personal Data has been submitted to us for processing on behalf of one of these organizations and you wish to exercise any rights you may have under applicable data protection laws, please contact that organization directly. We will assist the organization to respond to your request as required by applicable laws.
 
 ### 7\. How we protect your Personal Data
 
-Personal Data is stored on servers and systems that are owned by us or by contractors engaged by us under written agreements which comply with this Privacy Policy.  
-We maintain appropriate technical, administrative and physical safeguards to protect personal data received or collected by us. We review, monitor and evaluate our privacy practices and protection systems on a regular basis.  
-Notwithstanding the foregoing measures, transmissions over the Internet or mobile networks are not 100% secure and we do not guarantee the security of transmissions.
+Personal Data is stored on servers and systems that are owned by us or by contractors engaged by us under written agreements which comply with this Privacy Policy. We maintain appropriate technical, administrative and physical safeguards to protect personal data received or collected by us. We review, monitor and evaluate our privacy practices and protection systems on a regular basis. Notwithstanding the foregoing measures, transmissions over the Internet or mobile networks are not 100% secure and we do not guarantee the security of transmissions.
 
 ### 8\. Links
 
-Our websites and services may contain links to websites or services operated by third parties. We are not responsible for the accuracy, currency, or content of any such website or service. We are not responsible for the privacy policies or practices of any third party.  
-We encourage you to be aware when you leave our websites or services to read the privacy statements of each linked website or service that collects Personal Data. It is your responsibility to protect your Personal Data, including username and password information.
+Our websites and services may contain links to websites or services operated by third parties. We are not responsible for the accuracy, currency, or content of any such website or service. We are not responsible for the privacy policies or practices of any third party. We encourage you to be aware when you leave our websites or services to read the privacy statements of each linked website or service that collects Personal Data. It is your responsibility to protect your Personal Data, including username and password information.
 
 ### 9\. Children
 
-Our products and services are marketed and offered to libraries and institutions (referred to collectively in this Section 9 as “Libraries”). We do not market our products or services to, and do not solicit or collect information on our own behalf from, children.  
-Libraries may use our products and services to provide accounts to children, including children under the age of thirteen. The U.S. Children’s Online Privacy Protection Act (“COPPA”) or other laws may apply to Libraries’ collection and processing of the Personal Data of children, and it is the responsibility of each Library to comply with all laws applicable to it and to its collection of children’s Personal Data.
+Our products and services are marketed and offered to libraries and institutions (referred to collectively in this Section 9 as “Libraries”). We do not market our products or services to, and do not solicit or collect information on our own behalf from, children. Libraries may use our products and services to provide accounts to children, including children under the age of thirteen. The U.S. Children’s Online Privacy Protection Act (“COPPA”) or other laws may apply to Libraries’ collection and processing of the Personal Data of children, and it is the responsibility of each Library to comply with all laws applicable to it and to its collection of children’s Personal Data.
 
 ### 10\. Changes to this Privacy Policy
 
