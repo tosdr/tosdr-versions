@@ -55,7 +55,7 @@ Skip links
     [2024 Primary Runoff Canvass](https://texasgop.org/2024-primary-runoff-canvass/)
     --------------------------------------------------------------------------------
     
-    [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/) | [Legislative Priorities](https://texasgop.org/category/legislative-priorities/)
+    [Legislative Priorities](https://texasgop.org/category/legislative-priorities/) | [Press releases](https://texasgop.org/category/press-releases/) | [Statement](https://texasgop.org/category/statement/)
     
     [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
     -------------------------------------------------------------------------------------------------------------------
@@ -134,7 +134,7 @@ X
     * [About Chairman Abraham George](https://texasgop.org/about-chairman-abraham-george/)
     * [About Vice-Chair D’rinda Randall](https://texasgop.org/about-vice-chair-drinda-randall/)
     * [RPT Staff](https://texasgop.org/rpt-staff/)
-    * [Partnerships & Auxiliaries](https://texasgop.org/partnerships-auxiliaries/)
+    * [Partnerships & Coalitions](https://texasgop.org/partnerships-coalitions/)
 * [News](#)
     * [News](https://texasgop.org/news/)
     * [Media Requests](https://texasgop.org/media-requests/)
@@ -166,7 +166,7 @@ X
     * [About Chairman Abraham George](https://texasgop.org/about-chairman-abraham-george/)
     * [About Vice-Chair D’rinda Randall](https://texasgop.org/about-vice-chair-drinda-randall/)
     * [RPT Staff](https://texasgop.org/rpt-staff/)
-    * [Partnerships & Auxiliaries](https://texasgop.org/partnerships-auxiliaries/)
+    * [Partnerships & Coalitions](https://texasgop.org/partnerships-coalitions/)
 * [News](#)
     * [News](https://texasgop.org/news/)
     * [Media Requests](https://texasgop.org/media-requests/)
@@ -239,7 +239,7 @@ By using the Services, you agree that your use of the Services is governed by th
 **4\. OPTING-OUT OF CERTAIN USES OF YOUR INFORMATION.**
 
 1. User Account Privacy Settings. With regard to Republican Party of Texas apps, to the extent they are available, you may be able to adjust certain privacy, permission and User Account settings by responding to request alerts or notifications that may be presented to you on your Device prior to or following the collection of the relevant information or by navigating to the settings, account or privacy section (as the case may be) of your Device or the applicable Third Party Platform and limiting certain Service functionality (e.g., location services, etc.). Please be aware that if you limit the collection of certain information, you may not be able to use all of the features and functionality of the Services.
-2. Marketing and Promotional Communications. At times, you may be presented with the option of whether to subscribe to receive, or be automatically entered to receive, certain marketing and promotional communications from us and/or the Republican Party of Texas’s affiliated committees that we think will be of interest to you.  The Republican Party of Texas may send you such communications by text message if the Republican Party of Texas has received your consent to do so or is otherwise able to send you such communications by text message in compliance with all applicable laws. Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or by “opting-out” of receiving marketing and promotional e-mails from us at any time by sending an email to us at [info@texasgop.org](mailto:info@texasgop.org) with “Unsubscribe” in the subject line.  When writing, please include your full name, address, zip, and phone number. Recipients of text messages may “opt-out” of our mobile messaging program by replying “STOP” (or “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL”) to 80810 or any mobile message you receive from us, or by contacting us via the means provided above and clearly communicating your intent to unsubscribe from our mobile messaging program. Other privacy requests can be emailed to [info@texasgop.org](mailto:info@texasgop.org). Please note that “opt-out” and “unsubscribe” requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to the prior privacy settings. Additionally, you should be aware that any information provided to third parties prior to your election to opt-out or unsubscribe cannot be retrieved or rescinded by us unless required by applicable law, and you cannot retroactively opt-out or unsubscribe with respect to such third parties.
+2. Marketing and Promotional Communications. At times, you may be presented with the option of whether to subscribe to receive, or be automatically entered to receive, certain marketing and promotional communications from us and/or the Republican Party of Texas’s affiliated committees that we think will be of interest to you.  The Republican Party of Texas may send you such communications by text message if the Republican Party of Texas has received your consent to do so or is otherwise able to send you such communications by text message in compliance with all applicable laws. Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or by “opting-out” of receiving marketing and promotional e-mails from us at any time by sending an email to us at [info@texasgop.org](mailto:info@texasgop.org) with “Unsubscribe” in the subject line.  When writing, please include your full name, address, zip, and phone number. Recipients of text messages may “opt-out” of our mobile messaging program by replying “STOP” (or “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL”) to 43457 or any mobile message you receive from us, or by contacting us via the means provided above and clearly communicating your intent to unsubscribe from our mobile messaging program. Other privacy requests can be emailed to [info@texasgop.org](mailto:info@texasgop.org). Please note that “opt-out” and “unsubscribe” requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to the prior privacy settings. Additionally, you should be aware that any information provided to third parties prior to your election to opt-out or unsubscribe cannot be retrieved or rescinded by us unless required by applicable law, and you cannot retroactively opt-out or unsubscribe with respect to such third parties.
 3. Please note that in order to keep you informed about the operation of our Services and related services, we may always send you emails and announcements that are needed for the proper functioning and administration of our Services, including for the purposes described in Section 3 above, in connection with your use of such Services. We may also have features that allow you to submit information, questions, or feedback to us. In those instances, we may retain your emails and other information you submit to us for our internal purposes and to help us to serve you better.
 4. Privacy Preferences. You may also change certain privacy preferences (e.g., choose to cease receiving certain communications or ask us not to share your personal information with a particular third party) by sending an email with “PRIVACY REQUEST” in the subject line to us at detailing your privacy request. If you ask the Republican Party of Texas to stop using your personal information, we will honor that request, provided that we may retain a record of such information as necessary to comply with applicable law and we may continue to use your contact information to contact you about your Services-related transactions and to respond to your requests, as well as your IP address to determine the country in which you are accessing the Services. Consumers may also have the option to modify other privacy preferences for any Republican Party of Texas apps that may become available (e.g., deactivating your User Account, etc.) by modifying your User Account settings.
 5. Opting-Out of Use of Certain Information That May be Collected by Tracking Technologies.
@@ -341,7 +341,7 @@ Consent(Required)
 
  I agree to opt in to text messages and/or emails from the Republican Party of Texas\*(Required)
 
-Text "Texas" to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information. By participating, you agree to the terms & privacy policy for auto dialed messages from The Republican Party of Texas to the phone number you provide. No consent is required to buy. Msg&data rates may apply. Privacy Policy can be found here.
+Text "Texas" to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information. By participating, you agree to the terms & privacy policy for auto dialed messages from The Republican Party of Texas to the phone number you provide. No consent is required to buy. Msg&data rates may apply. [Privacy Policy](https://texasgop.org/privacy-policy/) can be found here.
 
         
 
@@ -360,7 +360,7 @@ Without a doubt, Texas is the strongest Republican state in the nation.
 * [SREC](https://texasgop.org/leadership-category/state-republican-executive-committee/)
 * [SREC Reports](https://texasgop.org/official-documents/#lqd-tab-7304)
 * [Victory](https://deployyourvote.com/)
-* [Partners](https://texasgop.org/partnerships-auxiliaries/)
+* [Partners](https://texasgop.org/partnerships-coalitions/)
 * [Candidate Resource Committee](https://texasgop.org/crc/)
 
 * [Bylaws](https://texasgop.org/official-documents/#lqd-tab-7305)
@@ -372,7 +372,7 @@ Without a doubt, Texas is the strongest Republican state in the nation.
 * [SREC](https://texasgop.org/leadership-category/state-republican-executive-committee/)
 * [SREC Reports](https://texasgop.org/official-documents/#lqd-tab-7304)
 * [Victory](https://deployyourvote.com/)
-* [Partners](https://texasgop.org/partnerships-auxiliaries/)
+* [Partners](https://texasgop.org/partnerships-coalitions/)
 * [Candidate Resource Committee](https://texasgop.org/crc/)
 
 #### Elections
