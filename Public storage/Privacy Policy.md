@@ -1,6 +1,6 @@
-                         Privacy Policy | Public Storage                    
+ 
 
-   
+ 
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent) 
 
@@ -102,7 +102,7 @@ Pay Bill
     * [Vehicle & RV Storage](https://www.publicstorage.com/vehicle-car-rv-storage)
     * [Boat Storage](https://www.publicstorage.com/boat-storage)
     * [Climate Controlled Storage](https://www.publicstorage.com/climate-controlled-storage)
-* [Help Center](https://www.publicstorage.com/help-center)
+* [Frequently Asked Questions](https://www.publicstorage.com/help-center)
 * About Us
     * [Our Story](https://www.publicstorage.com/our-story.html)
     * [Investor Relations](https://investors.publicstorage.com/investor-relations/default.aspx)
@@ -122,20 +122,20 @@ Your Account
 
 [Pay Bill](https://www.publicstorage.com/simplified/bill-pay/login)[](javascript:void(0))
 
-   
+    
 
 Privacy Policy
 ==============
 
-Last Updated: December 27, 2023.
+Last Updated: July 1, 2024.
 
 Navigation
 
-1. [What Information We Collect](#policy-1)
+1. [What Personal Information We Collect](#policy-1)
 2. [Sources of Personal Information](#policy-2)
 3. [How We Use Your Information](#policy-3)
 4. [Who We Disclose Your Information To](#policy-4)
-5. [Ads and Cookie Policy](#policy-5)
+5. [Cookies and Other Tracking Technologies](#policy-5)
     1. [How We Use Cookies](#policy-5.1)
     2. [How to Manage Cookies](#policy-5.2)
 6. [Information Regarding Children](#policy-6)
@@ -143,7 +143,7 @@ Navigation
     1. [Review or Update Your Information](#policy-7.1)
     2. [Unsubscribe or Opt-Out of Certain Communications](#policy-7.2)
     3. [Additional Privacy Information for Certain Jurisdictions](#policy-7.3)
-        1. [Connecticut, Colorado, Utah and Virginia](#policy-7.3.1)
+        1. [Connecticut, Colorado, Oregon, Texas, Utah and Virginia](#policy-7.3.1)
         2. [California](#policy-7.3.2)
 8. [Legal Disclaimer](#policy-8)
 9. [External Links](#policy-9)
@@ -156,9 +156,7 @@ This Privacy Policy helps you understand how Public Storage, our affiliates, and
 
 By visiting our website or using any of our Services, you agree your Personal Information, as defined below, will be handled as described in this Policy. Your use of our website or Services, and any dispute over privacy, is subject to this Policy and our [Terms and Conditions](https://www.publicstorage.com/terms-and-conditions.html), including its applicable limitations on damages and the resolution of disputes. The Company Terms and Conditions are incorporated by reference into this Policy.
 
-Residents of certain states may have additional rights concerning their Personal Information under the laws of those states. If you are a resident of California, Colorado, Connecticut, Utah or Virginia, please refer to the "[Additional Privacy Information for Certain Jurisdictions](#policy-7.3)” section below.
-
-**Quick Reference Guide**
+Residents of certain states may have additional rights concerning their Personal Information under the laws of those states. If you are a resident of California, Colorado, Connecticut, Oregon, Texas, Utah or Virginia, please refer to the "[Additional Privacy Information for Certain Jurisdictions](#policy-7.3)” section below.
 
 1\. What Personal Information We Collect
 ----------------------------------------
@@ -173,7 +171,7 @@ We collect information that identifies, describes, or is reasonably capable of b
     
 * **Characteristics of Protected Classifications.** Sometimes, we may collect your birth date, age, gender, or military status.
     
-* **Message Contents.** When we communicate with you, we may collect contents of text messages, email, phone calls, or audio messages, which may identify you. We may retain these communications for quality assurance and training purposes.
+* **Message Contents.** When we communicate with you, we may collect contents of text messages, email, phone calls, or audio messages, which may identify you. We also collect records of messages you send via our customer service web chat feature, whether you are speaking to our virtual assistant or one of our customer service agents.  We may retain these communications for quality assurance and training purposes.
     
 * **Geolocation.** If you visit our website or use our mobile application, we may collect geolocation information from your IP address, which links to the region you live in, or if your location settings on your device are set to share your location with us.
     
@@ -191,11 +189,11 @@ We collect information that identifies, describes, or is reasonably capable of b
 
 We generally collect Personal Information identified above from the following categories of sources:
 
-* Directly from you
+* Directly from you, such as when you visit our property, sign up to rent one of our storage units or otherwise use our Services, or communicate with us by email, phone, our website chat feature, or any other means
     
-* Automatically, when you visit our website or property or use our Services
+* Automatically, when you visit our website or property or use our Services. This includes our security surveillance on our property and, on our website, our use of cookies and other online tracking technologies. For more information on our online tracking technologies, see Section 5 below.
     
-* From service providers and third parties
+* From service providers and other third parties, pursuant to our agreements with these parties.
     
 
 3\. How We Use Your Information
@@ -207,9 +205,9 @@ We use the Personal Information we collect for the following business and commer
     
 * **Communicating with You.** We use your Personal Information to communicate with you about our services, your account, and if you contact us with a question or concern. We also use your information to deliver news, updates, and other types of communications, according to your subscriptions, alerts, and other preferences.
     
-* **Evaluate and Improve our Services.** We may analyze the Personal Information we collect for quality assurance, training, and to understand how we can meet and exceed your expectations.
+* **Evaluate and Improve our Services.** We may analyze the Personal Information we collect for quality assurance, training, and to understand how we can meet and exceed your expectations. For example, we may retain transcripts of your phone calls, emails, web chats, and other communications with our customer service agents.
     
-* **Marketing and Advertising.** We use the Personal Information we collect for marketing or advertising purposes. For example, we might send you promotional messages about products, services, programs, or events that may be of interest to you. We may also use the insights we gain about how you use our Services to improve the effectiveness of our marketing campaigns and ability to attract new customers.
+* **Marketing and Advertising.** We use the Personal Information we collect for marketing or advertising purposes.  We may use your Personal Information to personalize our offerings and advertisements to you. For example, we might send you promotional messages about products, services, programs, or events that may be of interest to you. We may also use the insights we gain about how you use our Services evaluate how we price our Services and improve the effectiveness of our marketing campaigns.
     
 * **Use of Sensitive Personal Information.** Our collection, use, and disclosure of sensitive personal information is limited to what is reasonable and proportionate to provide you our Services, including complying with our legal, regulatory, and reporting obligations.
     
@@ -219,7 +217,7 @@ We use the Personal Information we collect for the following business and commer
 
 We may disclose your Personal Information for the following purposes:
 
-* **With Our Vendors:** We may share your Personal Information with vendors who perform services on our behalf, such as identity verification, payment processing, data analysis, email and hosting services, or customer services and support. These vendors may access your Personal Information and are required to use it solely as we direct, to provide our requested service.
+* **With Our Vendors:** We may share your Personal Information with vendors and service providers  who perform services on our behalf, such as identity verification, payment processing, data analysis, email and hosting services, or customer services and support. These vendors may access your Personal Information and are required to use it solely as we direct, to provide our requested service.
     
 * **For Marketing and Advertising:** We may share the Personal Information we collect with marketing and advertising vendors to design our marketing campaigns, render meaningful advertisements, and connect with you through social media networking.
     
@@ -243,10 +241,10 @@ We may disclose Personal Information to the following categories of recipients:
 
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the Text Message services. 
 
-5\. Ads and Cookie Policy
--------------------------
+5\. Cookies and Other Tracking Technologies
+-------------------------------------------
 
-We, and our third-party service providers, use cookies and other tracking mechanisms to track information about your use of our website or Services.
+We, and our third-party service providers, use cookies, pixels, and other tracking mechanisms (collectively, “Cookies”) to track information about your use of our website or Services.
 
 **Cookies.** Cookies are alphanumeric identifiers that we transfer to your device’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our website and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our website. There are two types of cookies: session and persistent cookies.
 
@@ -258,6 +256,8 @@ We, and our third-party service providers, use cookies and other tracking mechan
 **Third-Party Analytics.** We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site, and to the extent permitted, our Apps. We also may use other analytic means to evaluate our website. We use these tools to help us improve our Site’s and Apps’ performance and user experiences. These entities may use cookies and other tracking technologies, such as web beacons, to perform their services. To learn more about Google’s privacy practices, please review the Google Privacy Policy at https://www.google.com/policies/privacy/partners/. You can also download the Google Analytics Opt-out Browser Add-on to prevent their data from being used by Google Analytics at https://tools.google.com/dlpage/gaoptout.
 
 **Cross-Device Use.** We may use the Personal Information that we collect about you to help us and our third-party service providers identify other devices that you use (e.g., a mobile phone, tablet, other computer, etc.). We and our third-party service providers also may use the cross-device use and other information we learn about you to serve targeted advertising on your devices and to send you emails. To opt out of cross-device advertising, you may follow the instructions set forth in the “How to Manage Cookies” section below. Please note: if you opt-out of these targeted advertising cookies, your opt-out will be specific to the web browser, app, or device from which you accessed the opt-out. If you use multiple devices or web browsers, you will need to opt out on each browser or device that you use.
+
+**Session Replay**. We may use session replay technologies to diagnose problems with our Services and identify areas for improvement. Session replay allows us to collect your activities on our website, including your clicks, mouse movements, scrolls, and input data. 
 
 **Do-Not-Track.** Currently, our systems do not recognize browser “do-not-track” requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt out of targeted advertising by following the instructions below.
 
@@ -301,9 +301,9 @@ We may contact you via email, phone, or text message with important information 
 
 Residents of certain jurisdictions have additional rights under applicable privacy laws, as described in this section. If you are a resident of California, please review [Section 7.3.2](#policy-7.3.2) for a description of your rights pursuant to California privacy laws.
 
-### 7.3.1 Colorado, Connecticut, Utah and Virginia
+### 7.3.1 Colorado, Connecticut, Oregon, Texas, Utah and Virginia
 
-Residents of other U.S. states, including Colorado, Connecticut, Utah, and Virginia, may also have rights under applicable privacy laws, subject to certain limitations, which may include:
+Residents of other U.S. states, including Colorado, Connecticut, Oregon, Texas, Utah, and Virginia, may also have rights under applicable privacy laws, subject to certain limitations, which may include:
 
 * **Access.** To confirm whether we are processing your Personal Information and to obtain a copy of your Personal Information in a portable and, to the extent technically feasible, readily usable format.
     
@@ -315,7 +315,7 @@ Residents of other U.S. states, including Colorado, Connecticut, Utah, and Virgi
     
     * To opt out of the “sale” of your Personal Information;
     * To opt out of targeted advertising by us; and
-    * To opt out of any processing of Personal Information for purposes of making decisions that produce legal or similarly significant effects.
+    * To opt out of any automated processing of Personal Information for purposes of making decisions that produce legal or similarly significant effects.
 
 ### **How to Exercise Your Privacy Rights**
 
@@ -348,6 +348,8 @@ With respect to the personal information we have collected about you, you may ha
 * Our business or commercial purpose for collecting or selling that information;
 * The categories of third parties with whom we shared that information; and
 * The specific pieces of Personal Information we collected about you.
+
+The categories of Personal Information we collect, our purposes for using Personal Information, and parties to whom we may disclose Personal Information are described in Sections 2, 3, and 4 of this Privacy Policy.
 
 ### The Right to Delete
 
@@ -490,7 +492,7 @@ Public Storage Locations in the Country:
 
 [Contact](https://www.publicstorage.com/contact-us/contact-us.html)
 
-[Help Center](https://www.publicstorage.com/help-center)
+[Frequently Asked Questions](https://www.publicstorage.com/help-center)
 
 [Size Guide](https://www.publicstorage.com/size-guide)
 
@@ -514,7 +516,7 @@ Public Storage Locations in the Country:
 
 ### Follow Public Storage®
 
-[](https://www.facebook.com/PublicStorage/)[](https://twitter.com/PublicStorage)[](https://www.youtube.com/user/PUBLICSTORAGE)[](https://www.instagram.com/publicstorage/)[](https://www.linkedin.com/company/public-storage/)[](https://www.pinterest.com/publicstorage/)[](https://www.tiktok.com/@publicstorage/)
+[](https://www.facebook.com/PublicStorage/)[](https://www.youtube.com/user/PUBLICSTORAGE)[](https://www.instagram.com/publicstorage/)[](https://www.linkedin.com/company/public-storage/)[](https://www.pinterest.com/publicstorage/)[](https://www.tiktok.com/@publicstorage/)
 
 ### Download App
 
@@ -539,10 +541,10 @@ PUBLIC STORAGE, PS, and the Orange Door Trade Dress are trademarks or registered
 
 Facilities with a ![Green Leaf](https://www.publicstorage.com/on/demandware.static/-/Sites-publicstorage-Library/default/dwf3c38869/ps-images/footer/icon-leaf-circle.svg) have one or more of the following sustainable initiatives in place to help you make an informed storage decision: LED lighting, Efficient HVAC Systems, Solar power generation, Eco-Friendly Water Practices, or High R-value Insulation.
 
-Promotion: Subject to change. Offered only on selected units. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual unit sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Temperature and humidity levels within any storage space including climate-controlled spaces may vary. Please inspect any unit before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don’t worry, online pricing discount will be honored for any rental originating from an online reservation. If the promotion is associated with the 2024 Memorial Day Sale: the promotional period runs until 6/9/24 and you must move in within 7 days of reservation.
+Promotion: Subject to change. Offered only on selected units. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual unit sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Temperature and humidity levels within any storage space including climate-controlled spaces may vary. Please inspect any unit before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don’t worry, online pricing discount will be honored for any rental originating from an online reservation.
 
 #### Promotion
 
 ×
 
-Subject to change. Offered only on selected space at select locations. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual space sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Please inspect any space before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don't worry, online pricing discount will be honored for any rental originating from an online reservation. If the promotion is associated with the 2024 Memorial Day Sale: the promotional period runs until 6/9/24 and you must move in within 7 days of reservation.
+Subject to change. Offered only on selected space at select locations. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual space sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Please inspect any space before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don't worry, online pricing discount will be honored for any rental originating from an online reservation.
