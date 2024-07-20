@@ -1,1101 +1,559 @@
-[![Logo](https://docs.rocket.chat/~gitbook/image?url=https%3A%2F%2F3401902764-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-M418Ul0aSTwf2PYsyPW%252Favatar-rectangle-1618603990572.png%3Fgeneration%3D1618603991149148%26alt%3Dmedia&width=192&dpr=4&quality=100&sign=cbdb69eaf9de9b94bc14db7c115c26e5f2340fc9a252b4ae54a8ea011f19f38f)![Logo](https://docs.rocket.chat/~gitbook/image?url=https%3A%2F%2F3401902764-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-M418Ul0aSTwf2PYsyPW%252Favatar-rectangle-1618603990572.png%3Fgeneration%3D1618603991149148%26alt%3Dmedia&width=192&dpr=4&quality=100&sign=cbdb69eaf9de9b94bc14db7c115c26e5f2340fc9a252b4ae54a8ea011f19f38f)](https://docs.rocket.chat/)
+[![Rocket-Chat Documentation](//cdn.us.document360.io/logo/6ae79a05-7252-45d0-96e8-8f375e07b1b2/945fd207e0be4ed1b7a34cd77ad28534-logo.png)](https://docs.rocket.chat/)
 
-[Website](https://rocket.chat/) [Developer](https://developer.rocket.chat/) [Enterprise Plan](https://www.rocket.chat/enterprise) [Plans and Pricing](https://www.rocket.chat/pricing)
+* [Home](https://docs.rocket.chat/)
+* [Developer](https://developer.rocket.chat/)
+* [Website](https://rocket.chat/)
+* [Plans and pricing](https://www.rocket.chat/pricing)
+* [Contact sales](https://www.rocket.chat/sales-contact?utm_source=docs&utm_medium=nav)
+* [Demo request](https://www.rocket.chat/demo-request?utm_source=docs&utm_medium=nav)
 
-Ask or SearchCtrl + K
+* [](https://docs.rocket.chat/v1/en)
+* [](https://docs.rocket.chat/docs/en/whats-newx)
 
-* [Rocket.Chat](https://docs.rocket.chat/)
+ [](#)Ask Eddy AI
+
+Contents x
+
+* [Rocket.Chat](https://docs.rocket.chat/legal/our-plans)
+* [Deploy](https://docs.rocket.chat/legal/deploy-rocketchat)
+* [Setup and Configure](https://docs.rocket.chat/legal/environment-configuration)
+* [Use Rocket.Chat](https://docs.rocket.chat/legal/user-guides)
+* [Extend Rocket.Chat Capablities](https://docs.rocket.chat/legal/rocketchat-marketplace)
+* [Resources](https://docs.rocket.chat/legal/frequently-asked-questions)
+* [Contribute to Rocket.Chat](https://docs.rocket.chat/legal/how-can-i-help)
+* [Applicable terms](https://docs.rocket.chat/legal/customer-terms-of-service)
+* [Customer center](https://docs.rocket.chat/legal/cloud-services-center)
+* [Releases](https://docs.rocket.chat/legal/version-durability)
+* Glossary
+
+[Powered by![Document360](//cdn.us.document360.io/static/images/document360-logo.svg)](https://document360.com/powered-by-document360/?utm_source=docs&utm_medium=footer&utm_campaign=poweredbylogo)
+
+* * *
+
+Privacy Policy
+
+* Print
     
-    * [Our Plans](https://docs.rocket.chat/readme/our-plans)
-        
+* Dark
     
-* Deploy
+    Light
     
-    * [Deploy Rocket.Chat](https://docs.rocket.chat/deploy/deploy-rocket.chat)
-        
-        * [System Requirements](https://docs.rocket.chat/deploy/deploy-rocket.chat/system-requirements)
-            
-        * [Deploy with Docker & Docker Compose](https://docs.rocket.chat/deploy/deploy-rocket.chat/deploy-with-docker-and-docker-compose)
-            
-        * [Deploy with AWS](https://docs.rocket.chat/deploy/deploy-rocket.chat/deploy-with-aws)
-            
-        * [Deploy with Kubernetes](https://docs.rocket.chat/deploy/deploy-rocket.chat/deploy-with-kubernetes)
-            
-        * [Deploy with Snaps](https://docs.rocket.chat/deploy/deploy-rocket.chat/deploy-with-snaps)
-            
-        * [Updating Rocket.Chat](https://docs.rocket.chat/deploy/deploy-rocket.chat/updating-rocket.chat)
-            
-        * [Scaling Rocket.Chat](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat)
-            
-            * [Microservices](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat/microservices)
-                
-            * [Running Multiple Instances](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat/running-multiple-instances)
-                
-            * [Automation Tools](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat/automation-tools)
-                
-                * [Ansible](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat/automation-tools/ansible)
-                    
-                * [OpenShift](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat/automation-tools/openshift)
-                    
-                * [Vagrant](https://docs.rocket.chat/deploy/deploy-rocket.chat/scaling-rocket.chat/automation-tools/vagrant)
-                    
-                
-            
-        * [Additional Deployment Methods](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods)
-            
-            * [Deploy with Digital Ocean](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-with-digital-ocean)
-                
-            * [Deploy on Google Compute Engine](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-on-google-compute-engine)
-                
-            * [Deploy with Ubuntu](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-with-ubuntu)
-                
-            * [Deploy with CentOS](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-with-centos)
-                
-            * [Deploy on Kali](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-on-kali)
-                
-            * [Deploy on Debian](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-on-debian)
-                
-            * [Deploy on IBM Cloud](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-on-ibm-cloud)
-                
-            * [Deploy on Windows 10](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/deploy-on-windows-10)
-                
-            * [Plug-in Deployments](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/plug-in-deployments)
-                
-            * [Unsupported Methods](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods)
-                
-                * [OpenSUSE Leap 42.2](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/opensuse-leap-42.2)
-                    
-                * [FreeBSD](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/freebsd)
-                    
-                    * [Deploying Rocket.Chat Server Binaries on a FreeBSD system](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/freebsd/deploying-rocket.chat-server-binaries-on-a-freebsd-system)
-                        
-                    
-                * [Windows Server](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/windows-server)
-                    
-                * [Linode](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/linode)
-                    
-                * [Scalingo](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/scalingo)
-                    
-                * [Cloudron.io](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/cloudron-io)
-                    
-                * [Jelastic](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/jelastic)
-                    
-                * [Aliyun](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/aliyun)
-                    
-                * [Galaxy](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/galaxy)
-                    
-                * [Syncloud](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/syncloud)
-                    
-                * [OpenShift](https://docs.rocket.chat/deploy/deploy-rocket.chat/additional-deployment-methods/unsupported-methods/openshift)
-                    
-                
-            
-        
-* Setup and Configure
+* PDF
     
-    * [Environment Configuration](https://docs.rocket.chat/setup-and-configure/environment-configuration)
-        
-        * [Deployment Environment Variables](https://docs.rocket.chat/setup-and-configure/environment-configuration/deployment-environment-variables)
-            
-            * [Manage Settings Using Environmental Variables](https://docs.rocket.chat/setup-and-configure/environment-configuration/deployment-environment-variables/manage-settings-using-environmental-variables)
-                
-            
-        * [MongoDB Configuration](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration)
-            
-            * [MongoDB URI Authentication](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/mongodb-uri-authentication)
-                
-            * [MongoDB Backup and Restore](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/mongodb-backup-and-restore)
-                
-            * [Additional MongoDB Driver Options](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/additional-mongodb-driver-options)
-                
-            * [Configure a Replica Set for MongoDB](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/configure-a-replica-set-for-mongodb)
-                
-            * [Migrate from Built-In Meteor MongoDB to External Server](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/migrate-from-built-in-meteor-mongodb-to-external-server)
-                
-            * [Migrate from mmap to WiredTiger Storage Engine](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/migrate-from-mmap-to-wiredtiger-storage-engine)
-                
-            * [Supported MongoDB Versions](https://docs.rocket.chat/setup-and-configure/environment-configuration/mongodb-configuration/supported-mongodb-versions)
-                
-            
-        * [Firewall Configuration](https://docs.rocket.chat/setup-and-configure/environment-configuration/firewall-configuration)
-            
-        * [Configuring SSL Reverse Proxy](https://docs.rocket.chat/setup-and-configure/environment-configuration/configuring-ssl-reverse-proxy)
-            
-        * [Additional Configurations](https://docs.rocket.chat/setup-and-configure/environment-configuration/additional-configurations)
-            
-            * [Running in a sub folder with Apache](https://docs.rocket.chat/setup-and-configure/environment-configuration/additional-configurations/running-in-a-sub-folder-with-apache)
-                
-            * [Univention Corporate Server (UCS)](https://docs.rocket.chat/setup-and-configure/environment-configuration/additional-configurations/univention-corporate-server-ucs)
-                
-            * [Setting Up Client SSL Certificate Authentication for Rocket.Chat](https://docs.rocket.chat/setup-and-configure/environment-configuration/additional-configurations/setting-up-client-ssl-certificate-authentication-for-rocket.chat)
-                
-            * [Setting up Process Managers and Init Systems](https://docs.rocket.chat/setup-and-configure/environment-configuration/additional-configurations/setting-up-process-managers-and-init-systems)
-                
-            
-        * [Data Migration](https://docs.rocket.chat/setup-and-configure/environment-configuration/data-migration)
-            
-            * [Import from HipChat](https://docs.rocket.chat/setup-and-configure/environment-configuration/data-migration/import-from-hipchat)
-                
-            * [Import from Slack](https://docs.rocket.chat/setup-and-configure/environment-configuration/data-migration/import-from-slack)
-                
-                * [SlackBridge](https://docs.rocket.chat/setup-and-configure/environment-configuration/data-migration/import-from-slack/slackbridge)
-                    
-                
-            * [Import from CSV](https://docs.rocket.chat/setup-and-configure/environment-configuration/data-migration/import-from-csv)
-                
-            
-        * [Check Node.js Version](https://docs.rocket.chat/setup-and-configure/environment-configuration/check-node.js-version)
-            
-        
-    * [Installing Client Apps](https://docs.rocket.chat/setup-and-configure/installing-client-apps)
-        
-        * [Desktop & Mobile Apps](https://docs.rocket.chat/setup-and-configure/installing-client-apps/desktop-and-mobile-apps)
-            
-        * [Minimum Requirements for Client Apps](https://docs.rocket.chat/setup-and-configure/installing-client-apps/minimum-requirements-for-client-apps)
-            
-        
-    * [Trials](https://docs.rocket.chat/setup-and-configure/trials)
-        
-        * [Pro Trial](https://docs.rocket.chat/setup-and-configure/trials/pro-trial)
-            
-        * [Enterprise Trial](https://docs.rocket.chat/setup-and-configure/trials/enterprise-trial)
-            
-        * [SaaS Trial](https://docs.rocket.chat/setup-and-configure/trials/saas-trial)
-            
-        
-    * [License Application](https://docs.rocket.chat/setup-and-configure/license-application)
-        
-    * [Accessing Your Workspace](https://docs.rocket.chat/setup-and-configure/accessing-your-workspace)
-        
-        * [Rocket.Chat Setup Wizard](https://docs.rocket.chat/setup-and-configure/accessing-your-workspace/rocket.chat-setup-wizard)
-            
-        * [Admin Account Creation](https://docs.rocket.chat/setup-and-configure/accessing-your-workspace/admin-account-creation)
-            
-        * [Basic White-labeling](https://docs.rocket.chat/setup-and-configure/accessing-your-workspace/basic-white-labeling)
-            
-        * [Inviting Users](https://docs.rocket.chat/setup-and-configure/accessing-your-workspace/inviting-users)
-            
-        
-    * [Advanced workspace management](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management)
-        
-        * [Google Translate Integration](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management/google-translate-integration)
-            
-        * [Database Migration](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management/database-migration)
-            
-        * [Restoring an Admin User](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management/restoring-an-admin-user)
-            
-        * [CDN](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management/cdn)
-            
-        * [Troubleshooting](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management/troubleshooting)
-            
-        * [Client Compatibility Matrix](https://docs.rocket.chat/setup-and-configure/advanced-workspace-management/client-compatibility-matrix)
-            
-        
-    * [Rocket.Chat Air-gapped Deployment](https://docs.rocket.chat/setup-and-configure/rocket.chat-air-gapped-deployment)
-        
-        * [Air-gapped Workspace Registration](https://docs.rocket.chat/setup-and-configure/rocket.chat-air-gapped-deployment/offline-workspace-registration)
-            
-        * [Air-Gapped License](https://docs.rocket.chat/setup-and-configure/rocket.chat-air-gapped-deployment/offline-license)
-            
-        * [Air-gapped Workspace Configuration](https://docs.rocket.chat/setup-and-configure/rocket.chat-air-gapped-deployment/air-gapped-workspace-configuration)
-            
-        * [Air-gapped App Installation](https://docs.rocket.chat/setup-and-configure/rocket.chat-air-gapped-deployment/air-gapped-app-installation)
-            
-        
-    * [Roles in Rocket.Chat](https://docs.rocket.chat/setup-and-configure/roles-in-rocket.chat)
-        
-* Use Rocket.Chat
+
+Contents
+
+Privacy Policy
+==============
+
+* Print
     
-    * [User Guides](https://docs.rocket.chat/use-rocket.chat/user-guides)
-        
-        * [Access your workspace](https://docs.rocket.chat/use-rocket.chat/user-guides/access-your-workspace)
-            
-        * [Main Menu](https://docs.rocket.chat/use-rocket.chat/user-guides/main-menu)
-            
-        * [User Panel](https://docs.rocket.chat/use-rocket.chat/user-guides/user-panel)
-            
-            * [Account](https://docs.rocket.chat/use-rocket.chat/user-guides/user-panel/account)
-                
-            * [Accessibility and appearance](https://docs.rocket.chat/use-rocket.chat/user-guides/user-panel/accessibility-and-appearance)
-                
-            * [Manage Devices](https://docs.rocket.chat/use-rocket.chat/user-guides/user-panel/manage-devices)
-                
-            
-        * [Rooms](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms)
-            
-            * [Channels](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/channels)
-                
-                * [Create a new Channel](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/channels/create-a-new-channel)
-                    
-                * [Edit A Channel](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/channels/edit-a-channel)
-                    
-                * [Manage Channel Members](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/channels/manage-channel-members)
-                    
-                * [Search Messages in a Channel](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/channels/search-messages-in-a-channel)
-                    
-                
-            * [Teams](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/teams)
-                
-                * [Create a new Team](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/teams/create-a-new-team)
-                    
-                * [Edit a Team](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/teams/edit-a-team)
-                    
-                * [Manage Team Members](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/teams/manage-team-members)
-                    
-                * [Manage Team Channels](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/teams/manage-team-channels)
-                    
-                * [Teams Premium Plan](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/teams/teams-premium-plan)
-                    
-                
-            * [Discussions](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/discussions)
-                
-                * [Create a new Discussion](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/discussions/create-a-new-discussion)
-                    
-                * [Edit A Discussion](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/discussions/edit-a-discussion)
-                    
-                * [Search Messages in Discussion](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/discussions/search-messages-in-discussion)
-                    
-                * [Manage Discussion Members](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/discussions/manage-discussion-members)
-                    
-                
-            * [Direct Messages](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/direct-messages)
-                
-                * [Create a new Direct Message](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/direct-messages/create-a-new-direct-message)
-                    
-                * [Direct Message Actions](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/direct-messages/direct-message-actions)
-                    
-                
-            * [Threads](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/threads)
-                
-                * [Create a New Thread](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/threads/create-a-new-thread)
-                    
-                
-            * [Room Roles](https://docs.rocket.chat/use-rocket.chat/user-guides/rooms/room-roles)
-                
-            
-        * [Messages](https://docs.rocket.chat/use-rocket.chat/user-guides/messages)
-            
-            * [Message Actions](https://docs.rocket.chat/use-rocket.chat/user-guides/messages/message-actions)
-                
-            * [Off-the-record (OTR) Messaging User Guide](https://docs.rocket.chat/use-rocket.chat/user-guides/messages/off-the-record-otr-messaging-user-guide)
-                
-            
-        * [Notifications](https://docs.rocket.chat/use-rocket.chat/user-guides/notifications)
-            
-        * [Security Bundle](https://docs.rocket.chat/use-rocket.chat/user-guides/security-bundle)
-            
-            * [Data Loss Prevention User Guide](https://docs.rocket.chat/use-rocket.chat/user-guides/security-bundle/data-loss-prevention-user-guide)
-                
-            * [End to End Encryption User Guide](https://docs.rocket.chat/use-rocket.chat/user-guides/security-bundle/end-to-end-encryption-user-guide)
-                
-            * [Two Factor Authentication User Guide](https://docs.rocket.chat/use-rocket.chat/user-guides/security-bundle/two-factor-authentication-user-guide)
-                
-            
-        * [Keyboard Shortcuts](https://docs.rocket.chat/use-rocket.chat/user-guides/keyboard-shortcuts)
-            
-        
-    * [Workspace Administration](https://docs.rocket.chat/use-rocket.chat/workspace-administration)
-        
-        * [Workspace](https://docs.rocket.chat/use-rocket.chat/workspace-administration/workspace)
-            
-        * [Subscription](https://docs.rocket.chat/use-rocket.chat/workspace-administration/subscription)
-            
-        * [Registration](https://docs.rocket.chat/use-rocket.chat/workspace-administration/registration)
-            
-        * [Engagement](https://docs.rocket.chat/use-rocket.chat/workspace-administration/engagement)
-            
-        * [Moderation](https://docs.rocket.chat/use-rocket.chat/workspace-administration/moderation)
-            
-        * [Federation](https://docs.rocket.chat/use-rocket.chat/workspace-administration/federation)
-            
-        * [Rooms](https://docs.rocket.chat/use-rocket.chat/workspace-administration/rooms)
-            
-        * [Users](https://docs.rocket.chat/use-rocket.chat/workspace-administration/users)
-            
-            * [Guest Users](https://docs.rocket.chat/use-rocket.chat/workspace-administration/users/guest-users)
-                
-            * [Monthly Active Contacts (MACs)](https://docs.rocket.chat/use-rocket.chat/workspace-administration/users/monthly-active-contacts-macs)
-                
-            * [Add users through Identity management and authentication services](https://docs.rocket.chat/use-rocket.chat/workspace-administration/users/add-users-through-identity-management-and-authentication-services)
-                
-            
-        * [Invites](https://docs.rocket.chat/use-rocket.chat/workspace-administration/invites)
-            
-        * [User Status](https://docs.rocket.chat/use-rocket.chat/workspace-administration/user-status)
-            
-        * [Permissions](https://docs.rocket.chat/use-rocket.chat/workspace-administration/permissions)
-            
-            * [Setting's Permission](https://docs.rocket.chat/use-rocket.chat/workspace-administration/permissions/settings-permission)
-                
-            
-        * [Device Management](https://docs.rocket.chat/use-rocket.chat/workspace-administration/device-management)
-        * [Email Inboxes](https://docs.rocket.chat/use-rocket.chat/workspace-administration/email-inboxes)
-            
-        * [Mailer](https://docs.rocket.chat/use-rocket.chat/workspace-administration/mailer)
-            
-        * [Third-party Login](https://docs.rocket.chat/use-rocket.chat/workspace-administration/third-party-login)
-            
-        * [Import](https://docs.rocket.chat/use-rocket.chat/workspace-administration/import)
-        * [Integrations](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations)
-            
-            * [AppVeyor](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/appveyor)
-                
-            * [Azure Alerts](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/azure-alerts)
-                
-            * [BitRocket](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/bitrocket)
-                
-            * [Dead Simple Screen Sharing](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/deadsimplescreensharing)
-                
-            * [EasyRedmine](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/easyredmine)
-                
-            * [Giphy Integrations](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/giphy-integrations)
-                
-            * [GitLab](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/gitlab)
-                
-            * [GitHub](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/github)
-                
-            * [Graylog](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/graylog)
-                
-            * [Jenkins notifications via Rocket.Chat Marketplace](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/jenkins-notifications-via-rocket.chat-marketplace)
-                
-            * [JFrog Xray](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/jfrog-xray)
-                
-            * [MicroBadger](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/microbadger)
-                
-            * [Microsoft Teams](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/microsoft-teams)
-                
-            * [NewRelic](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/newrelic)
-                
-            * [Nextcloud and WebDAV integrations](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/nextcloud-and-webdav-integrations)
-                
-            * [Nextcloud Rocket.Chat App](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/nextcloud-rocket.chat-app)
-                
-            * [Nixstats notification](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/nixstats-notification)
-                
-            * [PagerDuty](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/pagerduty)
-                
-            * [Prometheus](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/prometheus)
-                
-            * [Grafana](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/grafana)
-                
-            * [Review Board](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/reviewboard)
-                
-            * [RunDeck Job Notifications](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/rundeck-job-notifications)
-                
-            * [Sentry](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/sentry)
-                
-            * [Simple Telegram Bot](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/simple-telegram-bot)
-                
-            * [TravisCI](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/travis-ci)
-                
-            * [Uptime Robot](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/uptime-robot)
-                
-            * [Zapier](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/zapier)
-                
-            * [django-rocketchat-auth 1.2](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/django-rocketchat-auth-1.2)
-                
-            * [Add Jira notifications via webhook](https://docs.rocket.chat/use-rocket.chat/workspace-administration/integrations/add-jira-notifications-via-webhook)
-                
-            
-        * [Reports](https://docs.rocket.chat/use-rocket.chat/workspace-administration/reports)
-            
-        * [Sounds](https://docs.rocket.chat/use-rocket.chat/workspace-administration/sounds)
-            
-        * [Emoji](https://docs.rocket.chat/use-rocket.chat/workspace-administration/emoji)
-            
-        * [Settings](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings)
-            
-            * [Accounts](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/accounts)
-                
-                * [Configure Custom Fields for Users](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/accounts/configure-custom-fields-for-users)
-                    
-                
-            * [Analytics](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/analytics)
-                
-            * [Assets](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/assets)
-                
-            * [Bots](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/bots)
-                
-            * [CAS](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/cas)
-            * [Conference Call](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call)
-            * [Custom Emoji Filesystem](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/custom-emoji-filesystem)
-                
-            * [Custom Sound Filesystem](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/custom-sound-filesystem)
-                
-            * [Discussion](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/discussion)
-                
-            * [E2E Encryption](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/e2e-encryption)
-                
-            * [Email](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/email)
-                
-                * [Edit your Email Content](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/email/edit-your-email-content)
-                    
-                * [Direct email reply](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/email/direct-email-reply)
-                    
-                * [Email configuration](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/email/email-configuration)
-                    
-                
-            * [Federation](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation)
-            * [File Upload](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/file-upload)
-                
-                * [Minio](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/file-upload/minio)
-                    
-                * [Recommendations for File Upload](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/file-upload/recommendations-for-file-upload)
-                    
-                * [File Upload FAQs](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/file-upload/file-upload-faqs)
-                    
-                
-            * [General](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/general)
-                
-                * [Net Promoter Score (NPS) survey](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/general/net-promoter-score-nps-survey)
-                    
-                
-            * [IRC Federation](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/irc-federation)
-                
-            * [Layout](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/layout)
-                
-            * [LDAP](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/ldap)
-            * [Logs](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/logs)
-                
-            * [Message](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/message)
-                
-            * [Meta](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/meta)
-                
-            * [Mobile](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/mobile)
-                
-            * [Omnichannel](https://docs.rocket.chat/use-rocket.chat/omnichannel)
-            * [OTR](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/otr)
-                
-            * [Outlook Calendar](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/outlook-calendar)
-                
-            * [Premium](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/premium)
-                
-            * [Push](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/push)
-                
-            * [Rate Limiter](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/rate-limiter)
-                
-            * [Retention Policy](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/retention-policy)
-                
-            * [SAML](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/saml)
-            * [Search](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/search)
-                
-            * [Setup Wizard](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/setup-wizard)
-                
-            * [SlackBridge](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/slackbridge)
-                
-            * [Smarsh](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/smarsh)
-                
-            * [SMS](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/sms)
-                
-            * [Threads](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/threads)
-                
-            * [Troubleshoot](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/troubleshoot)
-                
-            * [User Data Download](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/user-data-download)
-                
-            * [Voice Channel](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel)
-            * [Webdav Integration](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/webdav-integration)
-                
-            * [WebRTC](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/webrtc)
-                
-            * [OAuth](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/oauth)
-            * [Device Management](https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/device-management-settings)
-            
-        
-    * [Authentication](https://docs.rocket.chat/use-rocket.chat/authentication)
-        
-        * [Authentication Across Plans](https://docs.rocket.chat/use-rocket.chat/authentication/authentication-across-plans)
-            
-        * [LDAP](https://docs.rocket.chat/use-rocket.chat/authentication/ldap)
-            
-            * [Configure LDAP Connection](https://docs.rocket.chat/use-rocket.chat/authentication/ldap/configure-ldap-connection)
-                
-            * [LDAP User Search](https://docs.rocket.chat/use-rocket.chat/authentication/ldap/ldap-user-search)
-                
-            * [LDAP Data Sync Settings](https://docs.rocket.chat/use-rocket.chat/authentication/ldap/ldap-data-sync-settings)
-                
-            * [LDAP Premium Settings](https://docs.rocket.chat/use-rocket.chat/authentication/ldap/ldap-premium-settings)
-                
-            * [LDAP Setup Example](https://docs.rocket.chat/use-rocket.chat/authentication/ldap/ldap-setup-example)
-                
-            
-        * [SAML](https://docs.rocket.chat/use-rocket.chat/authentication/saml)
-            
-            * [SAML Configuration](https://docs.rocket.chat/use-rocket.chat/authentication/saml/saml-configuration)
-                
-            * [Active Directory Federation Services](https://docs.rocket.chat/use-rocket.chat/authentication/saml/active-directory-federation-services)
-                
-            * [Keycloak](https://docs.rocket.chat/use-rocket.chat/authentication/saml/keycloak)
-                
-            
-        * [OAuth](https://docs.rocket.chat/use-rocket.chat/authentication/oauth)
-            
-            * [Facebook OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/facebook-oauth-setup)
-                
-            * [Google OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/google-oauth-setup)
-                
-            * [GitLab OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/gitlab-oauth-setup)
-                
-            * [GitHub OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/github-oauth-setup)
-                
-            * [LinkedIn OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/linkedin-oauth-setup)
-                
-            * [Nextcloud OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/nextcloud-oauth-setup)
-                
-            * [WordPress OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/wordpress-oauth-setup)
-                
-            * [MS Office 365 Custom OAuth Setup](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/ms-office-365-custom-oauth-setup)
-                
-            * [Additional OAuth Methods](https://docs.rocket.chat/use-rocket.chat/authentication/oauth/additional-oauth-methods)
-                
-            
-        * [OpenID Connect](https://docs.rocket.chat/use-rocket.chat/authentication/openid-connect)
-            
-            * [Keycloak](https://docs.rocket.chat/use-rocket.chat/authentication/openid-connect/keycloak)
-                
-            * [Okta Identity Cloud Service](https://docs.rocket.chat/use-rocket.chat/authentication/openid-connect/okta-identity-cloud-service)
-                
-            
-        * [Iframe-based Single Sign-On](https://docs.rocket.chat/use-rocket.chat/authentication/iframe-based-single-sign-on)
-            
-        * [CAS](https://docs.rocket.chat/use-rocket.chat/authentication/cas)
-            
-        
-    * [User Management](https://docs.rocket.chat/use-rocket.chat/user-management)
-        
-        * [Custom Roles](https://docs.rocket.chat/use-rocket.chat/user-management/custom-roles)
-            
-        * [Device Manager](https://docs.rocket.chat/use-rocket.chat/user-management/device-manager)
-            
-            * [Device Management Settings](https://docs.rocket.chat/use-rocket.chat/user-management/device-manager/device-management-settings)
-                
-            
-        * [Message Auditor](https://docs.rocket.chat/use-rocket.chat/user-management/message-auditor)
-            
-            * [Audit Edits, Deletions, and Encrypted Communications](https://docs.rocket.chat/use-rocket.chat/user-management/message-auditor/audit-edits-deletions-and-encrypted-communications)
-                
-            * [Audit Logs](https://docs.rocket.chat/use-rocket.chat/user-management/message-auditor/audit-logs)
-                
-            
-        
-    * [Omnichannel](https://docs.rocket.chat/use-rocket.chat/omnichannel)
-        
-        * [Omnichannel Admin's Guide](https://docs.rocket.chat/use-rocket.chat/omnichannel/omnichannel-admins-guide)
-            
-            * [Queue Types (Routing Algorithm)](https://docs.rocket.chat/use-rocket.chat/omnichannel/omnichannel-admins-guide/queue-types-routing-algorithm)
-                
-            
-        * [Current Chats](https://docs.rocket.chat/use-rocket.chat/omnichannel/current-chats)
-            
-        * [Analytics](https://docs.rocket.chat/use-rocket.chat/omnichannel/analytics)
-            
-        * [Real-time Monitoring](https://docs.rocket.chat/use-rocket.chat/omnichannel/real-time-monitoring)
-            
-        * [Managers](https://docs.rocket.chat/use-rocket.chat/omnichannel/managers)
-            
-        * [Agents](https://docs.rocket.chat/use-rocket.chat/omnichannel/agents)
-            
-        * [Departments](https://docs.rocket.chat/use-rocket.chat/omnichannel/departments)
-            
-        * [Custom Fields](https://docs.rocket.chat/use-rocket.chat/omnichannel/custom-fields)
-            
-        * [Livechat Triggers](https://docs.rocket.chat/use-rocket.chat/omnichannel/livechat-triggers)
-            
-        * [Livechat Widget Installation](https://docs.rocket.chat/use-rocket.chat/omnichannel/livechat-widget-installation)
-            
-        * [Livechat Widget Appearance](https://docs.rocket.chat/use-rocket.chat/omnichannel/livechat-widget-appearance)
-            
-        * [Webhooks](https://docs.rocket.chat/use-rocket.chat/omnichannel/webhooks)
-            
-        * [Business Hours](https://docs.rocket.chat/use-rocket.chat/omnichannel/business-hours)
-            
-        * [Reports](https://docs.rocket.chat/use-rocket.chat/omnichannel/omnichannel-reports)
-            
-        * [Monitors](https://docs.rocket.chat/use-rocket.chat/omnichannel/monitors)
-            
-        * [Units](https://docs.rocket.chat/use-rocket.chat/omnichannel/units)
-            
-        * [Canned Responses](https://docs.rocket.chat/use-rocket.chat/omnichannel/canned-responses)
-            
-            * [Canned Responses Omnichannel Manager's Guide](https://docs.rocket.chat/use-rocket.chat/omnichannel/canned-responses/canned-responses-omnichannel-managers-guide)
-                
-            
-        * [Tags](https://docs.rocket.chat/use-rocket.chat/omnichannel/tags)
-            
-        * [SLA Policies](https://docs.rocket.chat/use-rocket.chat/omnichannel/sla-policies)
-            
-        * [Priorities](https://docs.rocket.chat/use-rocket.chat/omnichannel/priorities)
-            
-        
-    * [Omnichannel Agent's Guides](https://docs.rocket.chat/use-rocket.chat/omnichannel-agents-guides)
-        
-        * [Omnichannel Conversations](https://docs.rocket.chat/use-rocket.chat/omnichannel-agents-guides/omnichannel-conversation)
-            
-        * [Omnichannel Queue](https://docs.rocket.chat/use-rocket.chat/omnichannel-agents-guides/omnichannel-queue)
-            
-        * [Omnichannel Contact Center](https://docs.rocket.chat/use-rocket.chat/omnichannel-agents-guides/omnichannel-contact-center)
-            
-            * [Omnichannel Contact Manager Assignment](https://docs.rocket.chat/use-rocket.chat/omnichannel-agents-guides/omnichannel-contact-center/omnichannel-contact-manager-assignment)
-                
-            
-        * [Email Inboxes](https://docs.rocket.chat/use-rocket.chat/omnichannel-agents-guides/email-inboxes)
-            
-        
-    * [Rocket.Chat Cloud](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud)
-        
-        * [Create your new cloud account](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/create-your-new-cloud-account)
-            
-        * [Manage your cloud account](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account)
-            
-            * [Custom domain for your Cloud-hosted workspace](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/custom-domain-for-your-cloud-hosted-workspace)
-                
-            * [Profile](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/profile)
-                
-            * [Organization Settings](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/organization-settings)
-                
-            * [Workspaces](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/workspaces)
-                
-            * [Invoices](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/invoices)
-                
-            * [Payment Methods](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/payment-methods)
-                
-            * [Security](https://docs.rocket.chat/use-rocket.chat/rocket.chat-cloud/manage-your-cloud-account/security)
-                
-            * [Support](https://docs.rocket.chat/customer-center/support-center)
-            * [Contact Sales](https://www.rocket.chat/contact)
-            
-        
-    * [Rocket.Chat Voice Channel](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel)
-        
-        * [Getting Started with Voice Channel](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/getting-started-with-voice-channel)
-            
-        * [Voice Channel Admin Guide](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-admin-guide)
-            
-            * [Configure without previously having a PBX server](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-admin-guide/configure-without-previously-having-a-pbx-server)
-                
-                * [SIP Extensions](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-admin-guide/configure-without-previously-having-a-pbx-server/sip-extensions)
-                    
-                * [Configure asterisk manager interface and users](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-admin-guide/configure-without-previously-having-a-pbx-server/configure-asterisk-manager-interface-and-users)
-                    
-                
-            * [Configure with an active PBX server](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-admin-guide/configure-with-an-active-pbx-server)
-                
-                * [Associate agents with extensions in Rocket.Chat](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-admin-guide/configure-with-an-active-pbx-server/associate-agents-with-extensions-in-rocket.chat)
-                    
-                
-            
-        * [Voice Channel Technical Specification](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-technical-specification)
-            
-        * [Voice Channel Agent Guides](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-agent-guides)
-            
-            * [How to make myself available to accept calls?](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-agent-guides/how-to-make-myself-available-to-accept-calls)
-                
-            * [How to take a call in Rocket.Chat voice channel?](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-agent-guides/how-to-take-a-call-in-rocket.chat-voice-channel)
-                
-            * [How to initiate an outbound call as an agent?](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-agent-guides/how-to-initiate-an-outbound-call-as-an-agent)
-                
-            
-        * [Voice Channel FAQs](https://docs.rocket.chat/use-rocket.chat/rocket.chat-voice-channel/voice-channel-faqs)
-            
-        
-    * [Rocket.Chat Conference Call](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call)
-        
-        * [Conference Call Admin Guide](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide)
-            
-            * [Pexip App](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/pexip-app)
-                
-            * [Jitsi app](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/jitsi-app)
-                
-            * [BigBlueButton (BBB) app](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/bigbluebutton-bbb-app)
-                
-            * [Google Meet app](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/google-meet-app)
-                
-            
-        * [Conference Call User's Guide](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-users-guide)
-            
-        * [Omnichannel Video/Audio Call Configuration](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/omnichannel-video-audio-call-configuration)
-            
-        
-    * [Rocket.Chat Federation](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation)
-        
-        * [Federation Admin Guide](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-admin-guide)
-            
-            * [Deploy a Federated Rocket.Chat Workspace](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-admin-guide/deploy-a-federated-rocket.chat-workspace)
-                
-            * [Federation Access Control](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-admin-guide/federation-access-control)
-                
-            * [Matrix Bridge Configuration](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-admin-guide/matrix-bridge-configuration)
-                
-            
-        * [Federation User Guide](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-user-guide)
-            
-            * [Create federated rooms](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-user-guide/create-federated-rooms)
-                
-            * [Invite external users to your Rocket.Chat server](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-user-guide/invite-external-users-to-your-rocket.chat-server)
-                
-            * [Search and join public channels on the Matrix network](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-user-guide/search-and-join-public-channels-on-the-matrix-network)
-                
-            * [Assign roles for users in federated rooms](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/federation-user-guide/assign-roles-for-users-in-federated-rooms)
-                
-            
-        * [Rocket.Chat Basic Federation](https://docs.rocket.chat/use-rocket.chat/rocket.chat-federation/rocket.chat-federation)
-            
-        
-    * [Rocket.Chat Mobile](https://docs.rocket.chat/use-rocket.chat/rocket.chat-mobile)
-        
-        * [Rooms on Rocket.Chat Mobile](https://docs.rocket.chat/use-rocket.chat/rocket.chat-mobile/rooms-on-rocket.chat-mobile)
-            
-        * [Messages and Threads on Mobile](https://docs.rocket.chat/use-rocket.chat/rocket.chat-mobile/messages-and-threads-on-mobile)
-            
-        * [Push Notifications](https://docs.rocket.chat/use-rocket.chat/rocket.chat-mobile/push-notifications)
-            
-            * [Secured Push Notification](https://docs.rocket.chat/use-rocket.chat/rocket.chat-mobile/push-notifications/secured-push-notification)
-                
-            * [Push Notifications User Guide](https://docs.rocket.chat/use-rocket.chat/rocket.chat-mobile/push-notifications/push-notifications-user-guide)
-                
-            
-        
-* Extend Rocket.Chat Capabilities
+* Dark
     
-    * [Rocket.Chat Marketplace](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace)
-        
-        * [Rocket.Chat Public Apps Guides](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides)
-            
-            * [Omnichannel Apps](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps)
-                
-                * [SMS](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/sms)
-                    
-                * [Telegram App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/telegram-app)
-                    
-                    * [Telegram Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/telegram-app/telegram-agents-guide)
-                        
-                    
-                * [Rasa App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/rasa-app)
-                    
-                * [Salesforce CRM Integration](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/salesforce-crm-integration)
-                    
-                    * [Salesforce CRM Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/salesforce-crm-integration/salesforce-crm-agents-guide)
-                        
-                    
-                * [HubSpot CRM](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/hubspot-crm)
-                    
-                    * [HubSpot CRM Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/hubspot-crm/hubspot-crm-agents-guide)
-                        
-                    
-                * [Dialogflow App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/dialogflow-app)
-                    
-                    * [Upload File To Ongoing Dialogflow Chats](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/dialogflow-app/upload-file-to-ongoing-dialogflow-chats)
-                        
-                    
-                * [Twitter App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/twitter-app)
-                    
-                    * [Twitter App Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/twitter-app/twitter-app-agents-guide)
-                        
-                    
-                * [Facebook App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/facebook-app)
-                    
-                    * [Facebook App Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/facebook-app/facebook-app-agents-guide)
-                        
-                    
-                * [WhatsApp 360Dialog](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp)
-                    
-                    * [WhatsApp 360Dialog Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp/whatsapp-agents-guide)
-                        
-                    
-                * [WhatsApp Sandbox](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp-sandbox)
-                    
-                    * [WhatsApp Sandbox Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp-sandbox/whatsapp-sandbox-agents-guide)
-                        
-                    
-                * [Instagram Direct](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/instagram-direct)
-                    
-                    * [Instagram Direct Agent's Guide](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/instagram-direct/instagram-direct-agents-guide)
-                        
-                    
-                * [WhatsApp Cloud App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp-cloud-app)
-                    
-                    * [Configure Whatsapp Cloud App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp-cloud-app/configure-whatsapp-cloud-app)
-                        
-                    * [Using WhatsApp Cloud App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/whatsapp-cloud-app/using-whatsapp-cloud-app)
-                        
-                    
-                
-            * [Bamboo App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/bamboo-app)
-                
-            * [Pexip App](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/pexip-app)
-            * [Jitsi app](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/jitsi-app)
-            * [BigBlueButton (BBB) app](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/bigbluebutton-bbb-app)
-            * [Google Meet app](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call/conference-call-admin-guide/google-meet-app)
-            * [Trello](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/trello)
-                
-                * [Using the Trello App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/trello/using-the-trello-app)
-                    
-                
-            * [Zoom](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/zoom)
-                
-                * [Using the Zoom App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/zoom/using-the-zoom-app)
-                    
-                
-            * [Data Loss Prevention (DLP) App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/data-loss-prevention-dlp-app)
-                
-            * [Poll](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/poll)
-                
-            * [Poll Plus](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/poll-plus)
-                
-                * [Poll Plus Features](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/poll-plus/poll-plus-features)
-                    
-                
-            * [Microsoft Teams Bridge](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/microsoft-teams-bridge)
-                
-                * [Using Microsoft Teams Bridge](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/microsoft-teams-bridge/using-microsoft-teams-bridge)
-                    
-                
-            * [GitHub App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/github-app)
-                
-                * [Using GitHub App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/github-app/using-github-app)
-                    
-                
-            * [Google Drive](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/google-drive)
-                
-                * [Using the Google Drive App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/google-drive/using-the-google-drive-app)
-                    
-                
-            * [Google Calendar](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/google-calendar)
-                
-                * [Using the Google Calendar App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/google-calendar/using-the-google-calendar-app)
-                    
-                
-            * [Zapier App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/zapier-app)
-                
-                * [Install Zapier App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/zapier-app/install-zapier-app)
-                    
-                * [Using Zapier App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/zapier-app/using-zapier-app)
-                    
-                
-            * [ChatGPT App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/chatgpt-app)
-                
-                * [Using the ChatGPT App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/chatgpt-app/using-the-chatgpt-app)
-                    
-                
-            * [Anonymizer App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/anonymizer-app)
-                
-                * [Using the Anonymizer App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/anonymizer-app/using-the-anonymizer-app)
-                    
-                
-            * [Content Moderation Apps](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/content-moderation-apps)
-                
-                * [Mod Assist App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/content-moderation-apps/mod-assist-app)
-                    
-                    * [Using the Mod Assist App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/content-moderation-apps/mod-assist-app/using-mod-assist-app)
-                        
-                    
-                * [Mod Perspective App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/content-moderation-apps/mod-perspective-app)
-                    
-                    * [Using the Mod Perspective app](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/content-moderation-apps/mod-perspective-app/using-the-mod-perspective-app)
-                        
-                    
-                
-            * [ClamAV App](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/clamav-app)
-                
-            
-        * [App Storage Location](https://docs.rocket.chat/extend-rocket.chat-capabilities/rocket.chat-marketplace/app-storage-location)
-            
-        
-    * [Integrations](https://docs.rocket.chat/use-rocket.chat/rocket.chat-workspace-administration/integrations)
-    * [Rocket.Chat API](https://developer.rocket.chat/reference/api)
-* Resources
+    Light
     
-    * [Frequently Asked Questions](https://docs.rocket.chat/resources/frequently-asked-questions)
-        
-        * [Accessing your workspace FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/accessing-your-workspace-faqs)
-            
-        * [License FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/license-faqs)
-            
-            * [Trial FAQ](https://docs.rocket.chat/resources/frequently-asked-questions/license-faqs/trial-faq)
-                
-            * [Downgrade behavior](https://docs.rocket.chat/resources/frequently-asked-questions/license-faqs/downgrade-behavior)
-                
-            * [Fair use allowance FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/license-faqs/fair-use-allowance-faqs)
-                
-            
-        * [My Account FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/my-account-faqs)
-            
-        * [Registration](https://docs.rocket.chat/resources/frequently-asked-questions/registration)
-            
-        * [Message Privacy](https://docs.rocket.chat/resources/frequently-asked-questions/message-privacy)
-            
-        * [Localization](https://docs.rocket.chat/resources/frequently-asked-questions/localization)
-            
-        * [Apps FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/apps-faqs)
-            
-        * [Update FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/update-faqs)
-            
-        * [WhatsApp Cloud API FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/whatsapp-cloud-api-faqs)
-            
-        * [Cloud FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/cloud-faqs)
-            
-        * [Support FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/support-faqs)
-            
-        * [Whatsapp Business App FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/whatsapp-business-app-faqs)
-            
-        * [Identity Management FAQ](https://docs.rocket.chat/resources/frequently-asked-questions/identity-management-faq)
-            
-        * [Deployment FAQ](https://docs.rocket.chat/resources/frequently-asked-questions/deployment-faq)
-            
-            * [Updating Rocket.Chat FAQ](https://docs.rocket.chat/resources/frequently-asked-questions/deployment-faq/updating-rocket.chat-faq)
-                
-            * [Snaps FAQ](https://docs.rocket.chat/resources/frequently-asked-questions/deployment-faq/snaps-faq)
-                
-            
-        * [Federation FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/federation-faqs)
-            
-            * [Matrix Bridge FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/federation-faqs/matrixbridge-faqs)
-                
-            
-        * [Monthly Active Contacts FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/monthly-active-contacts-faqs)
-            
-        * [White-labeling FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/white-labeling-faqs)
-            
-        * [Omnichannel FAQs](https://docs.rocket.chat/resources/frequently-asked-questions/omnichannel-faqs)
-            
-        
-    * [Brand and Visual Guidelines](https://docs.rocket.chat/resources/brand-and-visual-guidelines)
-        
-        * [Logo](https://docs.rocket.chat/resources/brand-and-visual-guidelines/logo)
-            
-        * [Typography](https://docs.rocket.chat/resources/brand-and-visual-guidelines/typography)
-            
-        * [Colors](https://docs.rocket.chat/resources/brand-and-visual-guidelines/colors)
-            
-        * [Patterns](https://docs.rocket.chat/resources/brand-and-visual-guidelines/patterns)
-            
-        * [Iconography](https://docs.rocket.chat/resources/brand-and-visual-guidelines/iconography)
-            
-        * [Photos](https://docs.rocket.chat/resources/brand-and-visual-guidelines/photos)
-            
-        * [Brand Usage Examples](https://docs.rocket.chat/resources/brand-and-visual-guidelines/brand-usage-examples)
-            
-        * [Media Kit](https://docs.rocket.chat/resources/brand-and-visual-guidelines/media-kit)
-            
-        
-    * [Developer Documentation](https://docs.rocket.chat/resources/developer-documentation)
-        
-    * [Glossary](https://docs.rocket.chat/resources/glossary)
-        
-* Contribute to Rocket.Chat
+* PDF
     
-    * [Contributor Code of Conduct](https://developer.rocket.chat/rocket.chat/contribute-to-rocket.chat/code_of_conduct)
-    * [How Can I Help?](https://developer.rocket.chat/contribute-to-rocket.chat/ways-to-contribute)
-    * [Annual Contribution Programs](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs)
-        
-* APPLICABLE TERMS
+
+* * *
+
+Article summary
+
+Did you find this summary helpful?
+
+Thank you for your feedback
+
+_Effective date:_ October 20th, 2023
+
+> We have made some updates to our privacy policy which will come into effect on the effective date specified. These changes include modifications related to [workspace tracking and statistics data](https://docs.rocket.chat/v1/docs/privacy-policy#the-type-of-data-we-collect), which have been implemented from Rocket.Chat v6.5. You can access the earlier version of this Privacy Policy [here](https://docs.rocket.chat/v1/docs/privacy-policy#type-of-data-we-collect).
+
+* * *
+
+Rocket.Chat Technologies Corp. ('us', 'we', or 'our') operates the [Rocket.Chat website](https://rocket.chat/) (), Rocket.Chat Services, including the Marketplace and associated Rocket.Chat Apps, Rocket.Chat´s Cloud Hosting Services, the Rocket.Chat [open server](https://open.rocket.chat/), and the Rocket.Chat mobile applications (the 'Services').
+
+Please note that additional privacy policies may apply to Rocket.Chat's specific services. These policies can be visited [here](https://handbook.rocket.chat/departments-and-operations/legal/privacy-policies).
+
+### At a glance
+
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Services and the choices you have associated with that data.
+
+We use your data to provide and improve the Services. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Customer Terms of Service.
+
+**Administrators are responsible for users' privacy, and we help administrators**
+
+* There are basically two ways of using Rocket. Chat: Self-hosted (also known as on-premises deployment) on your own or someone else's infrastructure or via our Cloud-hosted services. In both cases, the administrator of that instance - or the organization behind the administrator - is the person responsible for ensuring the privacy of Rocket.Chat users.
     
-    * [Customer Terms of Service](https://docs.rocket.chat/applicable-terms/customer-terms-of-service)
-        
-    * [Additional Terms](https://docs.rocket.chat/applicable-terms/additional-terms)
-        
-        * [Terms of Use](https://docs.rocket.chat/applicable-terms/additional-terms/terms-of-use)
-            
-        * [Acceptable Use Policy](https://docs.rocket.chat/applicable-terms/additional-terms/acceptable-use-policy)
-            
-        * [Service-Specific Terms](https://docs.rocket.chat/applicable-terms/additional-terms/service-specific-terms)
-            
-            * [Master Service Agreement for Professional Services](https://docs.rocket.chat/applicable-terms/additional-terms/service-specific-terms/master-service-agreement-for-professional-services)
-                
-            * [Cloud Services Terms](https://docs.rocket.chat/applicable-terms/additional-terms/service-specific-terms/cloud-services-terms)
-                
-                * [Marketplace and Apps](https://docs.rocket.chat/applicable-terms/additional-terms/service-specific-terms/cloud-services-terms/marketplace-and-apps)
-                    
-                
-            
-        * [Data-Specific Agreements](https://docs.rocket.chat/applicable-terms/additional-terms/data-specific-agreements)
-            
-            * [Data Processing Agreement (GDPR)](https://docs.rocket.chat/applicable-terms/additional-terms/data-specific-agreements/data-processing-agreement)
-                
-            
-        
-* CUSTOMER CENTER
+* We aim to help by providing product and service features to make that job easier.
     
-    * [Cloud Services Center](https://docs.rocket.chat/customer-center/cloud-services-center)
-        
-        * [Rocket.Chat Cloud Hosting Service Level Agreement (SLA)](https://docs.rocket.chat/customer-center/cloud-services-center/rocket.chat-cloud-hosting-service-level-agreement-sla)
-            
-        
-    * [Security Center](https://docs.rocket.chat/customer-center/security-center)
-        
-        * [Security Policy](https://docs.rocket.chat/customer-center/security-center/security-policy)
-            
-        * [Security Compliance Program](https://docs.rocket.chat/customer-center/security-center/security-compliance-program)
-            
-        * [Compliance Resources](https://docs.rocket.chat/customer-center/security-center/compliance-resources)
-            
-        * [Security fixes and updates](https://docs.rocket.chat/customer-center/security-center/security-fixes-and-updates)
-            
-            * [Rocket.Chat Security Advisories](https://docs.rocket.chat/customer-center/security-center/security-fixes-and-updates/rocket.chat-security-advisories)
-                
-            * [cve-2022-32211](https://docs.rocket.chat/customer-center/security-center/security-fixes-and-updates/cve-2022-32211)
-                
-            
-        * [End-to-End Encryption Specifications](https://docs.rocket.chat/customer-center/security-center/end-to-end-encryption-specifications)
-            
-        
-    * [Support Center](https://docs.rocket.chat/customer-center/support-center)
-        
-        * [Premium Support Plans](https://docs.rocket.chat/customer-center/support-center/premium-support-plans)
-            
-            * [Support Prerequisites and Version Durability](https://docs.rocket.chat/customer-center/support-center/premium-support-plans/support-prerequisites-and-version-durability)
-                
-            * [Premium Support Channels](https://docs.rocket.chat/customer-center/support-center/premium-support-plans/premium-support-channels)
-                
-            * [Our Support Ticket Classification System and SLAs](https://docs.rocket.chat/customer-center/support-center/premium-support-plans/our-support-ticket-classification-system-and-slas)
-                
-            * [Rocket.Chat Legacy Support](https://docs.rocket.chat/customer-center/support-center/premium-support-plans/rocket.chat-legacy-support)
-                
-            
-        * [Community Resources](https://docs.rocket.chat/customer-center/support-center/community-resources)
-            
-        
-    * [Legal Center](https://docs.rocket.chat/customer-center/legal-center)
-        
-        * [Privacy Policy](https://docs.rocket.chat/customer-center/legal-center/privacy-policy)
-            
-            * [Subprocessors](https://docs.rocket.chat/customer-center/legal-center/privacy-policy/subprocessors)
-                
-            * [Privacy Policy Facebook Messenger](https://docs.rocket.chat/customer-center/legal-center/privacy-policy/privacy-policy-facebook-messenger)
-                
-            * [Privacy Notice for Air-Gapped Workspaces](https://docs.rocket.chat/customer-center/legal-center/privacy-policy/privacy-notice-for-air-gapped-workspaces)
-                
-            * [Privacy Notice for the Open Server](https://docs.rocket.chat/customer-center/legal-center/privacy-policy/privacy-notice-for-the-open-server)
-                
-            * [Privacy Notice for the Cloud Hosting Services](https://docs.rocket.chat/customer-center/legal-center/privacy-policy/privacy-notice-for-the-cloud-hosting-services)
-                
-            
-        * [GDPR](https://docs.rocket.chat/customer-center/legal-center/gdpr)
-            
-        * [LGDP](https://docs.rocket.chat/customer-center/legal-center/lgdp)
-            
-            * [Nomeação do Encarregado pelo Tratamento de Dados Pessoais](https://docs.rocket.chat/customer-center/legal-center/lgdp/nomeacao-do-encarregado-pelo-tratamento-de-dados-pessoais)
-                
-            
-        * [DMCA Policy](https://docs.rocket.chat/customer-center/legal-center/dmca-policy)
-            
-        * [Accessibility statement](https://docs.rocket.chat/customer-center/legal-center/accessibility-statement)
-            
-        * [Code of Conduct: Services](https://docs.rocket.chat/customer-center/legal-center/code-of-conduct-services)
-            
-        * [Law Enforcement](https://docs.rocket.chat/customer-center/legal-center/law-enforcement)
-            
-            * [Guidelines for Law Enforcement](https://docs.rocket.chat/customer-center/legal-center/law-enforcement/guidelines-for-law-enforcement)
-                
-            * [Censorship and Harmful Content](https://docs.rocket.chat/customer-center/legal-center/law-enforcement/censorship-and-harmful-content)
-                
-            * [Server Lookup](https://docs.rocket.chat/customer-center/legal-center/law-enforcement/server-lookup)
-                
-            
-        * [Historical Agreements and Policy Archive](https://docs.rocket.chat/customer-center/legal-center/historical-agreements-and-policy-archive)
-            
+* We also provide this policy to explain what we do as a "helping hand"/data processor for administrators in case we process users' personal data.
+    
+
+**Data handling on a self-hosted deployment**
+
+* We cannot access Customer user-generated data in a Self-Hosted instance of Rocket.Chat.
+    
+* Rocket.Chat code is open source; there are no back doors whatsoever.
+    
+* Customers may desire to connect a self-hosted instance to other services, e.g., our marketplace or push notification gateway, where this privacy policy applies. You can also connect it to third-party services, such as external authentication services, in which case their privacy policy applies. It is Customer's choice, and Customers are not forced to do so.
+    
+
+**Data handling on a cloud hosting services**
+
+* In the Rocket.Chat Cloud hosted offering; we only process Customer data for the purpose of providing customers the service in the name of the administrator. Administrators are still in full control over the configuration of their instances.
+    
+* For more information on data processing in the cloud hosting services, please refer to [the distinction of data collection between self-hosted workspaces and cloud hosting workspaces](https://docs.rocket.chat/v1/docs/privacy-policy#the-distinction-of-data-collection-between-self-hosted-workspaces-and-cloud-hosting-workspaces) and [privacy notice for the cloud hosting services](https://docs.rocket.chat/v1/docs/privacy-notice-for-the-cloud-hosting-services).
+    
+
+* * *
+
+### Definitions
+
+Other definitions not found here shall have the same meaning as outlined in our [customer terms of service.](https://docs.rocket.chat/v1/docs/customer-terms-of-service)
+
+**Services** means the [](https://rocket.chat/)website ([https://rocket.chat](https://rocket.chat/)), Rocket.Chat Open Server ([https://open.rocket.chat](https://open.rocket.chat/)​), Rocket.Chat Sotfware and Marketplace, incl. associated Rocket.Chat Apps, the [https://cloud.rocket.chat](https://cloud.rocket.chat/) service offering, push notification gateways, and the Rocket.Chat mobile applications operated by Rocket.Chat Technologies Corp.
+
+**Personal data** means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+**Usage data** means data collected automatically, either generated by using the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+**Cookies** are small pieces of data stored on your device (computer or mobile device); they are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device.
+
+**Data controller** means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information is, or is to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+**Data processors** (or Service Providers) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various service providers to process your data more effectively.
+
+**Data subject** (or User) Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+**Tracking technologies** also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+### The type of data we collect
+
+In connection with our operations and during the lifecycle of business relationships with our customers, we collect various types of personal data, meaning any information that identifies or allows us to identify you.
+
+**Personal data**
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (_personal data_). Personally identifiable information may include but is not limited to
+
+* Email addresses
+    
+* First name and last name
+    
+* Cookies and usage data
+    
+* Phone number and other contact details
+    
+
+**Account data**
+
+Some services may allow or require that you register for a personalized account. Account data may include your account name, authentication information, registration date, contact information, payment information, and any other information associated with your account.
+
+**Usage data**
+
+We may also collect information that your browser sends whenever you visit our service or when you access the service, including by or through a mobile device (_usage data_).
+
+This usage data may include information such as your computer's internet protocol address (_IP address_), browser type, browser version, the pages of our service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+When you access the services by or through a mobile device, this usage data may include information such as the type of mobile device you use, the IP address of your mobile device, your mobile operating system, the app version, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+
+**Location data**
+
+We may use and store information about your location if you give us permission to do so (_location data_). We use this data to provide features of our service (only to allow you to share your location with another user via Rocket.Chat if it was enabled by the administrator).
+
+You can enable or disable location services when you use our service at any time through your device settings.
+
+**App data**
+
+#### Apps provided By Rocket.Chat
+
+When you use the Marketplace, you may choose to install Apps provided by Rocket.Chat. These Apps process data from your instance of Rocket.Chat and, therefore, nonpersonal data, such as software version, amount of users, and similar. Depending on the purpose and your actual usage of the App (e.g., enabling certain features), personal data may be processed. For example, you enable an integration that processes your users' information. The description of the App will make the types of personal data sufficiently clear, as well as any potential deviations from this policy.
+
+#### Third-party apps
+
+For Third-party apps on the [marketplace](https://docs.rocket.chat/v1/docs/rocketchat-marketplace), the vendor will provide you with a specific privacy policy that governs their Third-party app.
+
+**Tracking & cookies data**
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+* We DO NOT track activity in your self-hosted instances.
+    
+* We regularly monitor aggregated activity data on our infrastructure, but it is not tracking individual users in the sense of this paragraph, which only occurs when we have a legitimate interest in doing so (e.g., for security and compliance purposes).
+    
+* We do perform regular tracking on our [open server](https://open.rocket.chat/).
+    
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of cookies we use:
+
+* Session cookies: We use session cookies to operate our service.
+    
+* Preference cookies: We use preference cookies to remember your preferences and various settings.
+    
+* Security cookies: We use security cookies for security purposes.
+    
+
+[](#workspace-tracking-and-statistics-data)**Workspace tracking and statistics data**
+
+Rocket.Chat workspaces are set up to send anonymous and non-personal usage tracking data to Rocket.Chat automatically. This is done to help us understand how customers use our services, ensure compliance with the terms of use limits, and for billing purposes if the customer's contract is based on consumption of our services.
+
+The information shared is the same data displayed on the administration panel's [Workspace](https://docs.rocket.chat/v1/docs/workspace) page.
+
+For example, the tracking statistics sharing will transmit the total number of channels, but not the actual channel names, to preserve your workspace's privacy. Disabling this tracking statistics collection may be possible depending on the services and plans purchased.
+
+Please refer to the [how do we secure your data section](https://docs.rocket.chat/v1/docs/privacy-policy) for further details. Additionally, our Subprocessors section provides information about our Cloud Infrastructure and Subprocessors.
+
+### How do we use the information?
+
+We collect and use your personal data to the extent necessary to carry out our operations, provide our services, and comply with any regulatory obligations in our activities.
+
+These purposes are defined in more detail below:
+
+* To provide and maintain our services
+    
+* To notify you about changes to our services
+    
+* To allow you to participate in interactive features of our service when you choose to do so
+    
+* To provide customer support
+    
+* To gather analysis or valuable information so that we can improve our service
+    
+* To monitor the usage of our service
+    
+* To detect, prevent, and address technical issues
+    
+* To provide you with news, special offers, and general information about other goods, services, and events that we offer that are similar to those that you have already purchased or enquired about if you have provided consent to receive this information or the processing is in our legitimate interests and it's not overridden by your fundamental rights.
+    
+    * You may withdraw that consent at any time or object to receiving any or all of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us through our [data request form](https://survey.zohopublic.com/zs/QZCziK).
         
 
-[Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=NQRwqdF7Dy93Q5Mw0kzs)
+### Legal Basis for Processing Personal Data
 
-Rocket.Chat versions receive support for six months after release.
+In accordance with the applicable regulations, we may only use your personal data for at least one of the following reasons:
+
+**To comply with legal and regulatory obligations**
+
+We collect and use your personal data to comply with various legal and regulatory obligations, such as
+
+* Anti-money laundering regulations and counter-financing of terrorism regulations, including Know Your Customer (KYC) obligations.
+    
+* Regulations relating to international financial sanctions and embargoes.
+    
+
+[](#to-fulfill-our-legitimate-interests)**To fulfill our legitimate interests**
+
+We also use your personal data to fulfill our legitimate interests, which include the following:
+
+* Provision and delivery of our products and services.
+    
+* Marketing and customer communication and development of our customer relationships.
+    
+* Development of our products and services.
+    
+* Security and safety of our IT and facilities.
+    
+
+[](#based-on-your-consent)**Based on your consent**
+
+If certain personal data processing requires your consent (e.g., cookies), we will inform you of this, including details of the specific processing activity, and request your consent to such processing. You may request to revoke your consent at any time.
+
+### Retention of Data
+
+Rocket.Chat will retain your _personal data_ only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your personal data to the extent necessary to comply with our legal obligations for example, if we are required to retain your data to comply with applicable laws, resolve disputes, and enforce our legal agreements and policies.
+
+Rocket.Chat will also retain _usage data_ for internal analysis purposes. _Usage data_ is generally retained for a shorter period of time, except when it is used to strengthen the security or to improve the functionality of our Service or when we are legally obligated to retain it for longer time periods.
+
+When your _personal data_ no longer needs to be retained for any of the purposes stipulated in this privacy policy, we may delete or anonymize your personal data. Anonymized data - i.e. data that can no longer be associated with you as an individual - may be further used for research and statistical purposes, in which case we may use this information indefinitely without further notice to you.
+
+### Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those from your jurisdiction.
+
+If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States or other jurisdictions deemed not to have an adequate level of data protection deemed by the competent authorities of your residence. Rocket.Chat Technologies Corp. will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy, and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+### Disclosure and storage of personal data[](#disclosure-and-storage-of-personal-data)
+
+[](#disclosure-of-data)**Disclosure of Data**
+
+Business Transaction: If Rocket.Chat Technologies Corp. is involved in a merger, acquisition, or asset sale; your _personal data_ may be transferred. We will provide notice before your _personal data_ is transferred and becomes subject to a different privacy policy.
+
+[](#disclosure-for-law-enforcement)**Disclosure for Law Enforcement**
+
+In rare circumstances, we may be required to disclose user-uploaded content and other personal data in response to a valid request from law enforcement authorities. We will only comply with such requests if they are made in accordance with applicable laws, regulations, and our internal guidelines for disclosure.
+
+For more information regarding Law Enforcement Disclosure, please refer to our [guidelines for law enforcement](https://docs.rocket.chat/v1/docs/guidelines-for-law-enforcement).
+
+#### Legal Requirements for Disclosure
+
+Rocket.Chat Technologies Corp. may disclose your _personal data_ in the good faith belief that such action is necessary to:
+
+* To comply with a legal obligation
+    
+* To protect and defend the rights or property of Rocket.Chat Technologies Corp.
+    
+* To prevent or investigate possible wrongdoing in connection with the Service
+    
+* To protect the personal safety of users of the Service or the public
+    
+* To protect against legal liability
+    
+
+### [](#sharing-data-with-third-party-service-providers-subprocessors)Sharing data with third-party service providers (subprocessors)
+
+We may employ third-party companies and individuals to facilitate our service (service providers), provide the service on our behalf, perform service-related services, or assist us in analyzing how our service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose
+
+The ways in which we share your personal data include the following:
+
+* For Information processing, payment processing, credit checks, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys.
+    
+* Where appropriate, we may provide your personal data to Rocket.Chat partners in order to fulfill your request for service delivery.
+    
+
+We execute contracts with our third parties to ensure they fulfill their data protection obligations.
+
+A list of our third-party processors may be found [here](https://docs.rocket.chat/v1/docs/subprocessors).
+
+#### [](#analytics)Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+* **Google Analytics**
+    
+    * Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+        
+    * For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)​
+        
+
+* **Firebase**
+    
+    * Firebase is an analytics service provided by Google Inc.
+        
+    * You may opt out of certain Firebase features through your mobile device settings, such as your device advertising settings, or by following the instructions provided by Google in their Privacy Policy: [](https://policies.google.com/privacy?hl=en)[https://policies.google.com/privacy?hl=en​](https://policies.google.com/privacy?hl=en%E2%80%8B)
+        
+    * We also encourage you to review Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
+        
+    * For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)​
+        
+
+[](#links-to-other-sites)**Links to Other Sites**
+
+Our service may contain links to other sites that we do not operate. If you click on a third-party link, you will be directed to that third-party's site. When using such third-party websites, we recommend that you read the terms and privacy policies of the relevant sites.
+
+We have no control over and assume no responsibility for any third-party sites or services' content, privacy policies, or practices. This privacy policy is valid only for Rocket.Chat branded domains, owned and managed by Rocket.Chat Technologies Corp., as the owner and operator of the Pexip service.
+
+### Your Rights
+
+In accordance with applicable regulations and where applicable, you have the following rights:
+
+* **To access:** you can obtain information relating to the processing of your personal data and a copy of such personal data.
+    
+* **To rectify:** If you consider your personal data inaccurate or incomplete, you can request that they be modified accordingly.
+    
+* **To erase:** you can require deleting your personal data to the extent permitted by law.
+    
+* **To restrict:** you can request the restriction of processing your personal data.
+    
+* **To object:** you can object to processing of your personal data on grounds relating to your particular situation. You have the right to object to processing of your personal data for direct marketing purposes, which includes profiling related to such direct marketing.
+    
+* **To withdraw your consent:** where you have given your consent for the processing of your personal data, you have the right to withdraw your consent at any time.
+    
+* **To data portability:** where legally applicable, you have the right to have the personal data you have provided to us be returned to you or, where technically feasible, transferred to a third party.
+    
+
+If the processing is based on your consent, you may also withdraw your consent at any time (without affecting the lawfulness of processing based on consent before its withdrawal). If you have previously consented to receive promotional email communications from us, you can use the unsubscribe function at the bottom of our emails to unsubscribe from our emails at any time (“withdraw your consent”).
+
+If you have an active Rocket.Chat account, you cannot opt out of basic emails since we need to communicate basic information, where relevant, to users in order to continue account delivery.
+
+### How do you exercise your rights?
+
+To exercise any of the rights listed above, please use our [Data Request Form](https://survey.zohopublic.com/zs/QZCziK), a simplified form that ensures efficient request management and security. Alternatively, you can email [\[email protected\]](https://docs.rocket.chat/cdn-cgi/l/email-protection).
+
+The request will be processed and completed in compliance with our privacy policy, terms of service, business relationship, and any data privacy laws applicable to your country.
+
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA or other applicable jurisdictions, you have the right to lodge a complaint with the competent supervisory authority.
+
+### How do we secure your data?
+
+Ensuring the security of the data you entrust to us is one of our most important responsibilities. We apply appropriate technical and organizational measures to keep your personal data secure. We use physical, administrative, and technical security measures to reduce the risk of loss, misuse, or unauthorized access, disclosure, or modification of your personal data.
+
+Your data can only be accessed by persons for whom it is necessary in relation to their work.
+
+We may outsource the processing of personal data to external service providers. In such events, we enter into appropriate agreements with the providers to ensure that your personal data is processed according to this Privacy Policy and any applicable laws. We have also received internationally recognized [security certifications](https://docs.rocket.chat/v1/docs/privacy-policy).
+
+Although we do our best, given the nature of communications and information processing technology, we cannot guarantee that Information transmitted through the Internet or stored on our systems or otherwise in our care will be absolutely safe from intrusion by others.
+
+For more information regarding our security practices, please refer to our comprehensive [Security Policy](https://docs.rocket.chat/v1/docs/security-policy) and [Security and Compliance Guides](https://docs.rocket.chat/v1/docs/security-center).
+
+### Children's privacy at Rocket.Chat
+
+Our Services are only available to Users above the legal age of 13 years or any higher age required by the applicable regulations in your jurisdiction.
+
+Users under the legal age should discontinue using our services. If you are from a country subject to GDPR, you must be 16 years old or above unless your country has enacted a regulation specifying a lower minimum age.
+
+Individuals from LGDP-regulated countries must be 18 years of age or older unless parental consent has been obtained.
+
+We do not knowingly collect personally identifiable information from anyone under the legal age. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+Please note that the customer is responsible for managing user-generated data and workspace control, including compliance with data handling for minors in their jurisdiction.
+
+### Changes to This Privacy Policy
+
+As our business grows and our services and products evolve, this privacy notice may change, or other privacy notices may be written and posted specifically to address new offerings or to keep pace with data privacy laws.
+
+When changes are substantial, we will first ensure that you are aware of any forthcoming changes by attempting to contact you directly via email, via our user interfaces, or indirectly through your authorized partner, which is reselling the Rocket.Chat services or products. Changes to this Privacy Policy will become effective once they are posted on this page, and we will also update the "effective date" at the top of this Privacy Policy.
+
+The distinction of data collection between self-hosted workspaces and cloud hosting workspaces
+----------------------------------------------------------------------------------------------
+
+The following paragraph is intended to provide clarity on data processing in Rocket.Chat workspaces. Please note that there are differences in the data processing that occurs between self-hosted workspaces and workspaces hosted by us. Our Cloud Hosting service processes all data input into the workspace on our infrastructure.
+
+The table below explains the general distinction between the data processed in each case. It's important to remember that individual circumstances, such as apps installed on unregistered workspaces via workarounds, may vary.
+
+| Data Type | Self-Hosted | Cloud Hosted at Rocket.Chat |
+| --- | --- | --- |
+| Account Data | Yes. To register your workspace via an account, | Yes. To register your workspace via an account |
+| Usage Data | Yes. As per the service you are consuming via your registration, e.g., push notifications via our gateway, | Yes. As part of using the hosted workspace on our infrastructure |
+| App Data | Yes. If you install apps from the marketplace, and based on the app's use case, third-party apps have their own privacy policies. | Yes, if you install apps from the marketplace based on their use case. Third-party apps have their own privacy policies. |
+| User Generated Content | No. Content is not processed unless it falls under the aforementioned (e.g. the content of a push notification sent via our gateway). | Yes. As part of using the hosted workspace on our infrastructure. End-to-end encrypted content is only stored in encrypted form. |
+| Tracking and Cookies | Yes. We track your usage of services (usage data) on our end. We do not track inside the workspace. | Tracking occurs to monitor the consumption of the services used. |
+
+There are two classifications for [Rocket.Chat](https://rocket.chat/) self-hosted workspaces: registered and non-registered. Registered workspaces have access to a wide range of features and services and are eligible for our "starter" or paid plans (dependent on user counts and functionality requirements). Note that non-registered workspaces operate independently without formal registration and no data collection by [Rocket.Chat](https://rocket.chat/). Non-registered workspaces are only available via the Free and Open Source Software (FOSS) self-build deployment path.
+
+Contact us
+----------
+
+If you have any questions about this Privacy Policy, please contact us:
+
+* Rocket.Chat´s Data Protection Officer by email: [\[email protected\]](https://docs.rocket.chat/cdn-cgi/l/email-protection)​
+    
+* By visiting this page on our website: [https://rocket.chat/contact](https://rocket.chat/contact)​
+    
+
+### Data Protection Officer
+
+To communicate with our Data Protection Officer, please email [\[email protected\]](https://docs.rocket.chat/cdn-cgi/l/email-protection).
+
+* * *
+
+APPENDIX 1
+----------
+
+### Privacy regulations framework[](#privacy-regulations-framework)
+
+Our Privacy Regulations Framework Appendix is an integral part of our Privacy Policy, which outlines the specific legal requirements that govern your privacy.
+
+As part of our commitment to privacy and transparency, we provide this appendix to explain how we handle your data according to relevant regulations. We encourage you to read these clauses carefully to understand how your data is managed in compliance with the law.
+
+If you have any questions or concerns, please do not hesitate [to reach out to us](https://docs.rocket.chat/v1/docs/privacy-policy#contact-us).
+
+### Specific provisions to California Consumer Privacy Act (CCPA)
+
+This section provides additional details about the personal information we collect about California consumers and the rights afforded to them under the California Consumer Privacy Act or “CCPA.”
+
+We do not provide services or other items of value in consideration for your or your end users’ personal information protected by the CCPA.
+
+You are responsible for ensuring your compliance with the CCPA requirements when using our services and processing personal information.
+
+Here are a few things that Rocket.Chat will NOT do with personal information in the scope of acting as a service provider, as defined by CCPA:
+
+* sell, rent, or otherwise disclose your personal information to third parties in exchange for money or something else of value;
+    
+* use your information outside the scope of the agreement(s) for services that we have with you.
+    
+
+Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use and disclose this personal information), to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
+
+California consumers can exercise their CCPA rights by completing a data subject request form, which can be found [here](https://survey.zohopublic.com/zs/QZCziK). We will verify your request using the email associated with your account.
+
+### Specific provisions to the California Online Privacy Protection Act (CalOPPA)
+
+We do not support _Do Not Track_ (DNT) signals. _Do Not Track_ is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable _Do Not Track_ by visiting your web browser's preferences or settings page.
+
+### Specific provisions to Lei Geral de Proteção de Dados (LGPD)
+
+Rocket.Chat only processes, stores, and collects data according to this Privacy Policy, which covers the main LGPD requirements. For a dedicated section on the appointment letter for Data Protection Officer (DPO) and frequently asked questions about LGDP compliance at Rocket.Chat, please click [here](https://docs.rocket.chat/v1/docs/lgdp).
+
+### Specific provisions to the General Data Protection Regulation (GDPR) and Other Applicable Regulations
+
+Where required, we provide the option to sign [Standard Contractual Clauses](https://docs.rocket.chat/v1/docs/data-processing-agreement-gdpr) approved by the European Commission to ensure sufficient data protection or other relevant mechanisms based on the Customer's requirements or applicable agreements in the customer's jurisdiction.
+
+* * *
+
+Previous versions of this privacy policy
+----------------------------------------
+
+Rocket.Chat is committed to transparency as part of its values. As such, we provide previous versions of our Agreements and Policies in our [agreements and policies history.](https://docs.rocket.chat/v1/docs/historical-agreements-and-policy-archive)
+
+* * *
+
+Was this article helpful?
+
+Yes No
+
+Thank you for your feedback! Our team will get back to you
+
+How can we improve this article?
+
+Your feedback
+
+ Need more information
+
+ Difficult to understand
+
+ Inaccurate or irrelevant content
+
+ Missing/broken link
+
+ Others
+
+Comment
+
+Comment (Optional)
+
+Character limit : 500
+
+Please enter your comment
+
+Email (Optional)
+
+Email
+
+ Notify me about change  
+
+Please enter a valid email
+
+Cancel 
+
+* * *
+
+###### What's Next
+
+* [Subprocessors](https://docs.rocket.chat/docs/subprocessors)
+
+On this page
+
+* [The distinction of data collection between self-hosted workspaces and cloud hosting workspaces](#the-distinction-of-data-collection-between-self-hosted-workspaces-and-cloud-hosting-workspaces)
+* [Contact us](#contact-us)
+* [APPENDIX 1](#appendix-1)
+* [Previous versions of this privacy policy](#previous-versions-of-this-privacy-policy)
+
+Rocket.Chat versions receive support for six months after release. End-of-life for any version is the last day of the month when support ends.
+
+ENTER
+
+ESC
+
+Eddy AI, facilitating knowledge discovery through conversational intelligence
+
+Search Limit Exceeded. Please upgrade the plan.
+
+Answer copied!
+
+No results found
+
+Provide more context or information so that I can better understand and assist you
