@@ -1,6 +1,6 @@
-[![SignalRGB logo](/assets/signalrgb-logo.svg)](https://signalrgb.com/)
+[![SignalRGB logo](/assets/signalrgb-logo-mnml.svg)](https://signalrgb.com/)
 
-[Supported Devices](https://signalrgb.com/devices) [Giveaway](https://signalrgb.com/nexusgiveaway/)
+[Supported Devices](https://signalrgb.com/devices) [Giveaway](https://signalrgb.com/arcticgiveaway/)
 
 Support
 
