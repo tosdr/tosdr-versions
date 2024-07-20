@@ -11,7 +11,7 @@ You are using an **outdated** browser. Please [upgrade your browser](https://bro
 
 [](https://www.thetrevorproject.org/search)
 
-[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/587535/#!/donation/checkout)
+[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/599352/#!/donation/checkout)
 
 [](https://www.thetrevorproject.org/)
 
@@ -101,7 +101,7 @@ You are using an **outdated** browser. Please [upgrade your browser](https://bro
 
 [](https://www.thetrevorproject.org/search)
 
-[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/587535/#!/donation/checkout)
+[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/599352/#!/donation/checkout)
 
 Find Support
 
@@ -196,9 +196,9 @@ BACK
 Terms of Service
 ================
 
-The Trevor Project (“**The Trevor Project**” or “**we**” or “**us**” or “**our**”) is a 501c3 nonprofit organization with a charitable mission of ending suicide among lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ) young people. We carry out our mission through providing suicide prevention and crisis intervention services for LGBTQ youth and serving as a leading voice in education, advocacy, and research relating to LGBTQ youth and mental health.
+The Trevor Project (“**The Trevor Project**” or “**we**” or “**us**” or “**our**”) is a 501c3 nonprofit organization with a charitable mission of ending suicide among lesbian, gay, bisexual, transgender, queer, and questioning (LGBTQ+) young people. We carry out our mission through providing suicide prevention and crisis intervention services for LGBTQ+ youth and serving as a leading voice in education, advocacy, and research relating to LGBTQ+ youth and mental health.
 
-We offer programs and services to LGBTQ youth that create safe, accepting, and inclusive environments (i) within this website at TheTrevorProject.org (this “**Website**”) and (ii) by providing crisis counseling over the phone, online, and through text (collectively and individually, our “**Crisis Services**”). The Trevor Project also welcomes you to support our mission of ending suicide among LBGTQ youth by [making a donation](https://www.thetrevorproject.org/donate) to The Trevor Project (“**Donations**”).  
+We offer programs and services to LGBTQ+ youth that create safe, accepting, and inclusive environments (i) within this website at TheTrevorProject.org (this “**Website**”) and (ii) by providing crisis counseling over the phone, online, and through text (collectively and individually, our “**Crisis Services**”). The Trevor Project also welcomes you to support our mission of ending suicide among LBGTQ youth by [making a donation](https://www.thetrevorproject.org/donate) to The Trevor Project (“**Donations**”).  
 
 To assist you in using the Website or our Crisis Services, or making a Donation, we have created these Terms of Service, which include the following terms and conditions, which are collectively referred to as these “**Terms**” and a [Privacy Policy](https://www.thetrevorproject.org/privacy-policy/) (the “**Privacy Policy**”), which is incorporated into these Terms by this reference. Our Privacy Policy explains how we treat information that you provide to us in connection with the Website, Crisis Services, and Donations. These Terms govern your use of the Website, Crisis Services, or Donations, depending on the scope of your use. By using the Website in any capacity, the Website Terms will apply. If you use any or all of our Crisis Services, the Crisis Services Terms will apply. Finally, if you would like to make a Donation to us, we are tremendously grateful for your support and the Donor Terms will apply. [The General Legal Terms](#general-legal-terms) and [Privacy Policy](https://www.thetrevorproject.org/privacy-policy/) apply to all of the above.
 
@@ -263,17 +263,17 @@ Crisis Services Terms
 
 **IF YOU ARE IN DANGER OR BELIEVE YOU ARE EXPERIENCING A MEDICAL EMERGENCY, CALL 911 IMMEDIATELY, OR VISIT THE NEAREST HOSPITAL EMERGENCY ROOM.** 
 
-The Trevor Project offers certain crisis services to LGBTQ youth to create safe, accepting, and inclusive environments by offering crisis counseling over the phone, online, and through text (collectively and individually, “**Crisis Services**”).  BY USING OUR CRISIS SERVICES, YOU EXPRESSLY AGREE TO THESE CRISIS SERVICES TERMS, THE [GENERAL LEGAL TERMS](#general-legal-terms), AND THE [PRIVACY POLICY](https://www.thetrevorproject.org/privacy-policy/), AND YOU CERTIFY THAT YOU ARE LOCATED IN THE UNITED STATES. These Crisis Services Terms, [General Legal Terms](#general-legal-terms), and [Privacy Policy](https://www.thetrevorproject.org/privacy-policy/) govern (i) your access and use of Crisis Services and (ii) your use and receipt of information through our Crisis Services. 
+The Trevor Project offers certain crisis services to LGBTQ+ youth to create safe, accepting, and inclusive environments by offering crisis counseling over the phone, online, and through text (collectively and individually, “**Crisis Services**”).  BY USING OUR CRISIS SERVICES, YOU EXPRESSLY AGREE TO THESE CRISIS SERVICES TERMS, THE [GENERAL LEGAL TERMS](#general-legal-terms), AND THE [PRIVACY POLICY](https://www.thetrevorproject.org/privacy-policy/), AND YOU CERTIFY THAT YOU ARE LOCATED IN THE UNITED STATES. These Crisis Services Terms, [General Legal Terms](#general-legal-terms), and [Privacy Policy](https://www.thetrevorproject.org/privacy-policy/) govern (i) your access and use of Crisis Services and (ii) your use and receipt of information through our Crisis Services. 
 
 Each time that you start a conversation with us via text, you will receive an automated message with a link to our Website, and a link to our Crisis Services Terms is also included in the pre-chat submission form for TrevorChat, so you may review them before continuing to use the Services; using Crisis Services after receiving this message will constitute your acceptance of the Terms then in effect.
 
 ### Description of Services 
 
-The Trevor Project offers 24/7 life-saving, life-affirming programs and services to LGBTQ youth, including the following Crisis Services:
+The Trevor Project offers 24/7 life-saving, life-affirming programs and services to LGBTQ+ youth, including the following Crisis Services:
 
-* **Lifeline**—The only national 24/7 crisis intervention and suicide prevention lifeline for LGBTQ young people under age 25, available at 1-866-488-7386.
-* **Chat**—A 24/7 free instant messaging service for LGBTQ youth that provides live help from trained counselors, open daily. 
-* **Text**—A 24/7 free service through which LGBTQ young people can text a trained counselor of The Trevor Project for support and crisis intervention, available daily by texting START to 678678. 
+* **Lifeline**—The only national 24/7 crisis intervention and suicide prevention lifeline for LGBTQ+ young people under age 25, available at 1-866-488-7386.
+* **Chat**—A 24/7 free instant messaging service for LGBTQ+ youth that provides live help from trained counselors, open daily. 
+* **Text**—A 24/7 free service through which LGBTQ+ young people can text a trained counselor of The Trevor Project for support and crisis intervention, available daily by texting START to 678678. 
 
 ### No Professional Advice
 
@@ -342,7 +342,7 @@ We are committed to protecting the privacy and security of your Personal Informa
 
 We are committed to the privacy of our users, and we will not share or disclose personal or sensitive information that we learn in the course of Crisis Services, other than as described in these Crisis Services Terms and our [Privacy Policy](https://www.thetrevorproject.org/website-privacy-policy/). We value transparency and would like our users to understand how, when, and why their information may be shared, and would like to call attention to a few specific situations where personal or sensitive information may be disclosed (in addition to other permitted disclosures described in these Crisis Services Terms or Crisis Services [Privacy Policy](https://www.thetrevorproject.org/privacy-policy/)). 
 
-Crisis Interventions. The Trevor Project cares deeply about the health and wellbeing of our community, and thus we make disclosures as needed to protect LGBTQ youth and others, and our policy is to alert law enforcement, state authorities, or emergency services if your communications with The Trevor Project indicate that you are at imminent risk of death or serious injury (i.e., if you have suicidal desire, a plan, access to means, and an imminent timeline).
+Crisis Interventions. The Trevor Project cares deeply about the health and wellbeing of our community, and thus we make disclosures as needed to protect LGBTQ+ youth and others, and our policy is to alert law enforcement, state authorities, or emergency services if your communications with The Trevor Project indicate that you are at imminent risk of death or serious injury (i.e., if you have suicidal desire, a plan, access to means, and an imminent timeline).
 
 Abuse and Imminent Threat Reports. If your communications indicate that a minor or vulnerable dependent adult has been or is currently being subjected to emotional or physical abuse or neglect, we may report this to the applicable state agency or other authority, which may include disclosing information relating to the particular situation, and may include personal or sensitive information you disclose to us. 
 
@@ -352,7 +352,7 @@ Our counselors are located in multiple states in the United States; while all of
 
 Research and Innovation. We may use information, including the content of conversations occurring within Crisis Services, to create, or permit a third-party researcher or partner to create, aggregate information, that does not include names or other personal identifiers, for the purpose of promoting suicide prevention research and the advancement of crisis intervention, and to produce statistics and metrics that will help us and others better understand and analyze the impact of our Crisis Services. We may share aggregated, non-personally identifiable information and any content of conversations occurring on the Service, with our partners, researchers, or third-parties for these purposes. We may also publicly publish the results of our research efforts, including statistics and metrics, such as in white papers and other research reports, and otherwise provide information about our innovation efforts and use of our services. Individual users will not be linked or identified by sharing this aggregate information.
 
-Advocacy. We are passionate about saving LGBTQ lives, and our work involves various efforts, such as advocating for laws that protect LGBTQ youth from conversion therapy and advancing LGBTQ-inclusive suicide prevention policies in schools. The information we collect relating to our Crisis Services can be used as valuable evidence in supporting these efforts. We may use and disclose personal and sensitive information, in an anonymized form without using names or personally-identifying information, for these purposes, including using this information in amicus briefs, litigation, legislative testimony, and other activities.
+Advocacy. We are passionate about saving LGBTQ+ lives, and our work involves various efforts, such as advocating for laws that protect LGBTQ+ youth from conversion therapy and advancing LGBTQ+-inclusive suicide prevention policies in schools. The information we collect relating to our Crisis Services can be used as valuable evidence in supporting these efforts. We may use and disclose personal and sensitive information, in an anonymized form without using names or personally-identifying information, for these purposes, including using this information in amicus briefs, litigation, legislative testimony, and other activities.
 
 Additional Disclosures. We may also disclose personally identifiable information we collect from you to third parties if we believe such disclosure is necessary: (i) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (ii) to protect the interests, rights, safety, or property of The Trevor Project (including Crisis Services via phone, text, or chat), our affiliates, officers, directors, employees, volunteers, representatives, other related parties, or the individuals we serve; (iii) to enforce our Terms; (iv) in connection with a sale, merger, or corporate reorganization of The Trevor Project or our affiliates, or the transfer of any of our operations, including our Crisis Services, or (v) to address fraud, security (physical and cybersecurity), technical issues, or to operate the Crisis Services or its infrastructure systems properly.
 
@@ -375,7 +375,7 @@ The Trevor Project’s Terms, including the [General Legal Terms](#general-lega
 Donor Terms
 -----------
 
-As a 501c3 nonprofit organization, The Trevor Project relies on the generosity of donors to ensure that LGBTQ youth have a safe place to turn in times of crisis.
+As a 501c3 nonprofit organization, The Trevor Project relies on the generosity of donors to ensure that LGBTQ+ youth have a safe place to turn in times of crisis.
 
 A donor (you) may make Donations to The Trevor Project through the Website (including [donation](https://thetrevorproject.org/donate) links), other electronic transfers, by mail, over the phone with our representatives, at an event, or otherwise in person, and in doing so, you hereby agree that those Donations and any information shared in connection therewith are governed by these terms (these “**Donor Terms**”) and the terms of any third-party provider collecting the Donation and the related information on behalf of The Trevor Project. We reserve the right to modify these terms at any time without notice to you. If you make a Donation to The Trevor Project after the modified Donor Terms have been posted, your Donation acts as your acceptance of the modified Donor Terms. 
 
@@ -524,7 +524,7 @@ Email Address
 
 Subscribe
 
-* [Donate](https://give.thetrevorproject.org/give/586723/#!/donation/checkout)
+* [Donate](https://give.thetrevorproject.org/give/63307/#!/donation/checkout)
 * [Contact Us](https://www.thetrevorproject.org/contact-us/)
 * [Blog](https://www.thetrevorproject.org/blog/)
 * [Press](https://www.thetrevorproject.org/press/)
