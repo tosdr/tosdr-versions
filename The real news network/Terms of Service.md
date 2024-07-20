@@ -1,4 +1,4 @@
-[![](https://therealnews.com/wp-content/uploads/2024/06/June-donation-banner.jpg)](https://support.therealnews.com/-/XBBNYCHR)
+[![](https://therealnews.com/wp-content/uploads/2024/05/07-19-2024.jpg)](https://support.therealnews.com/-/XQTBQZTP)
 
 You're missing out.
 ===================
@@ -7,7 +7,7 @@ You're missing out.
 
   
 
- 
+ Sign up
 
 Keep reading for free.
 ======================
@@ -16,7 +16,7 @@ Keep reading for free.
 
   
 
- 
+ Sign up
 
 Close
 
@@ -53,6 +53,7 @@ Search for:  Search
 * [Ways to Give](https://therealnews.com/more-ways-to-give)
 * [Jobs](https://therealnews.com/join-us)
 * [Press Releases](https://therealnews.com/category/press-releases)
+* [Ethics Policy](https://therealnews.com/ethics-policy)
 
 Sections
 --------
@@ -68,7 +69,6 @@ Sections
 Shows, Podcasts, & Series
 -------------------------
 
-* [The Chris Hedges Report](https://therealnews.com/chris-hedges-report)
 * [Edge of Sports with Dave Zirin](https://therealnews.com/edge-of-sports-with-dave-zirin)
 * [The Marc Steiner Show](https://therealnews.com/the-marc-steiner-show)
 * [Police Accountability Report](https://therealnews.com/police-accountability-report)
@@ -92,16 +92,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Texas' 'Death Star Bill' tramples democracy in the name of corporate power](https://therealnews.com/texas-death-star-bill-tramples-democracy-in-the-name-of-corporate-power)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* ['CSX has got to go!' Industrially polluted South Baltimore residents want rail giant out of their community](https://therealnews.com/csx-has-got-to-go-industrially-polluted-south-baltimore-residents-want-rail-giant-out-of-their-community)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Trump's trial shows there are two justice systems for the rich and poor](https://therealnews.com/trumps-trial-shows-there-are-two-justice-systems-for-the-rich-and-poor)
-* [‘No human person should live there’: The ongoing horrors at Danbury prison](https://therealnews.com/no-human-person-should-live-there-the-ongoing-horrors-at-danbury-prison)
-* [What Does Zionism Mean to You?](https://therealnews.com/telavivnaksa0604)
+* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
+* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
+* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [After Trump assassination attempt, RNC 'like a religious gathering’](https://therealnews.com/after-trump-assassination-attempt-rnc-like-a-religious-gathering)
+* [Julian Assange is free—defying imprisonment, and even assassination plots](https://therealnews.com/julian-assange-is-free-defying-imprisonment-and-even-assassination-plots)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [JVP activists disrupt crucial Biden fundraiser in Hollywood](https://therealnews.com/jvp-activists-disrupt-crucial-biden-fundraiser-in-hollywood)
-* [Hollywood. Empire | Under the Shadow, Bonus Episode](https://therealnews.com/hollywood-empire-under-the-shadow-bonus-episode)
+* [Anti-Trump and Pro-Trump demonstrators hit the streets outside RNC in Milwaukee](https://therealnews.com/anti-trump-and-pro-trump-demonstrators-hit-the-streets-outside-rnc-in-milwaukee)
+* [Fossil fuel plants belched toxic pollution as Hurricane Beryl hit Gulf Coast](https://therealnews.com/fossil-fuel-plants-belched-toxic-pollution-as-hurricane-beryl-hit-gulf-coast)
+* [At CPAC Brazil, Latin America's far right plots its comeback](https://therealnews.com/at-cpac-brazil-latin-americas-far-right-plots-its-comeback)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 Close
 
@@ -117,6 +117,7 @@ Close
 * [Ways to Give](https://therealnews.com/more-ways-to-give)
 * [Jobs](https://therealnews.com/join-us)
 * [Press Releases](https://therealnews.com/category/press-releases)
+* [Ethics Policy](https://therealnews.com/ethics-policy)
 
 Sections
 --------
@@ -132,7 +133,6 @@ Sections
 Shows, Podcasts, & Series
 -------------------------
 
-* [The Chris Hedges Report](https://therealnews.com/chris-hedges-report)
 * [Edge of Sports with Dave Zirin](https://therealnews.com/edge-of-sports-with-dave-zirin)
 * [The Marc Steiner Show](https://therealnews.com/the-marc-steiner-show)
 * [Police Accountability Report](https://therealnews.com/police-accountability-report)
@@ -156,16 +156,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Texas' 'Death Star Bill' tramples democracy in the name of corporate power](https://therealnews.com/texas-death-star-bill-tramples-democracy-in-the-name-of-corporate-power)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* ['CSX has got to go!' Industrially polluted South Baltimore residents want rail giant out of their community](https://therealnews.com/csx-has-got-to-go-industrially-polluted-south-baltimore-residents-want-rail-giant-out-of-their-community)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Trump's trial shows there are two justice systems for the rich and poor](https://therealnews.com/trumps-trial-shows-there-are-two-justice-systems-for-the-rich-and-poor)
-* [‘No human person should live there’: The ongoing horrors at Danbury prison](https://therealnews.com/no-human-person-should-live-there-the-ongoing-horrors-at-danbury-prison)
-* [What Does Zionism Mean to You?](https://therealnews.com/telavivnaksa0604)
+* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
+* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
+* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [After Trump assassination attempt, RNC 'like a religious gathering’](https://therealnews.com/after-trump-assassination-attempt-rnc-like-a-religious-gathering)
+* [Julian Assange is free—defying imprisonment, and even assassination plots](https://therealnews.com/julian-assange-is-free-defying-imprisonment-and-even-assassination-plots)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [JVP activists disrupt crucial Biden fundraiser in Hollywood](https://therealnews.com/jvp-activists-disrupt-crucial-biden-fundraiser-in-hollywood)
-* [Hollywood. Empire | Under the Shadow, Bonus Episode](https://therealnews.com/hollywood-empire-under-the-shadow-bonus-episode)
+* [Anti-Trump and Pro-Trump demonstrators hit the streets outside RNC in Milwaukee](https://therealnews.com/anti-trump-and-pro-trump-demonstrators-hit-the-streets-outside-rnc-in-milwaukee)
+* [Fossil fuel plants belched toxic pollution as Hurricane Beryl hit Gulf Coast](https://therealnews.com/fossil-fuel-plants-belched-toxic-pollution-as-hurricane-beryl-hit-gulf-coast)
+* [At CPAC Brazil, Latin America's far right plots its comeback](https://therealnews.com/at-cpac-brazil-latin-americas-far-right-plots-its-comeback)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [Skip to content](#main)
 
@@ -217,7 +217,7 @@ Terms of use and privacy policy
 * [Click to share on Reddit (Opens in new window)](https://therealnews.com/termsandconditions?share=reddit "Click to share on Reddit")
 * [Click to email a link to a friend (Opens in new window)](mailto:?subject=%5BShared%20Post%5D%20Terms%20of%20use%20and%20privacy%20policy&body=https%3A%2F%2Ftherealnews.com%2Ftermsandconditions&share=email "Click to email a link to a friend")
 
-[**Stand with Independent Journalism: Help Us Expose the Truth and Fight Injustice**.](https://support.therealnews.com/-/XLAYLDAJ)
+> In order to remain independent, we rely on donations from people like you who care about our work. If you value The Real News as a platform for movement-building journalism, [**please support us today!**](https://support.therealnews.com/-/XENGVKUH)
 
 If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our [privacy policy](https://therealnews.com/%22http://therealnews.com/web/index.php?thisdataswitch=0&thisid=417&thisview=item#privacy%22) govern _The Real News_ relationship with you in relation to this website.
 
@@ -231,7 +231,7 @@ The content of the pages of this website is for your general information and use
 
   
 
- 
+ Sign up
 
 Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
@@ -300,12 +300,20 @@ If you are dissatisfied with _The Real News_‘s privacy policies or practices, 
 CHANGES TO THIS POLICY  
 _The Real News_ may periodically review all of its policies and procedures. We reserve the right to change our Privacy Policy from time to time.
 
-Every dollar counts in our mission to amplify underrepresented voices.
-----------------------------------------------------------------------
+Summer is here! Help Fuel movement-building journalism by supporting TRNN today!
+--------------------------------------------------------------------------------
 
-Have you ever stumbled upon a story or interview that completely shifted your perspective? Or one that introduced you to a movement, activist, or intellectual you hadn’t heard of? At The Real News, we're dedicated to bringing you these unique insights and voices that need to be heard and that you won't find anywhere else.
+You know our operating funds come from individual gifts like yours—**no corporate money, paywalls, or ads.  
+  
+Right now, The Real News faces a major financial shortfall.**
 
-But we can't do it alone. It's your support that fuels our work and ensures that we can continue to shine a light on important issues and introduce you to thought-provoking individuals. Join us in our mission to make a difference through independent journalism. [**_Please consider making a tax-deductible donation today_**!](https://support.therealnews.com/-/XKALSZEG)
+This year has been tough, but we have faith in our supporters. We have plans to expand our on-the-ground coverage with reports from Palestine, Latin America, and Europe. We are going on the road to where the fight is.
+
+Your support will enable us to cover **the RNC and DNC**, **the Paris Olympics, and more. It will ensure that we properly pay independent journalists for their vital work and that** **our team has the resources to do on the ground reporting.**
+
+In order to remain independent, we rely on donations from people like you who care about our work. If you value The Real News as a platform for movement-building journalism, please support us today!
+
+[**_Please consider making a tax-deductible donation today_**!](https://support.therealnews.com/-/XJAPLRXQ)
 
 [](#XSNUXGAA)
 
@@ -336,7 +344,7 @@ Terms of use and privacy policy
 by TRNN, The Real News Network  
 September 5, 2007
 
-<h1>Terms of use and privacy policy</h1> <p class="byline">by TRNN, The Real News Network <br />September 5, 2007</p> <p>If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our <a href="//therealnews.com/web/index.php?thisdataswitch=0&amp;thisid=417&amp;thisview=item#privacy&quot;">privacy policy</a> govern <em>The Real News</em> relationship with you in relation to this website.</p> <p>The term "<em>The Real News</em>" or "us" or "we" refers to the owner of the website whose registered office is 360A Bloor Street West, Toronto, Ontario, Canada, M5S 3C9. The term "you" refers to the user or viewer of our website.</p> <p>The use of this website is subject to the following terms of use:</p> <p>The content of the pages of this website is for your general information and use only. It is subject to change without notice. </p> <p>Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law. </p> <p>Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements. </p> <p>This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions. </p> <p>All trademarks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website.</p> <p>Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offence. </p> <p>From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).</p> <p>Your use of this website and any dispute arising out of such use of the website is subject to the laws of Canada.</p> <p>If you have any questions or concerns about these terms please email us at <a href="info@therealnews.com&quot;">info@therealnews.com</a> or call us at 416 916-5202.</p> <p><a name="&quot;privacy&quot;" title="&quot;privacy&quot;"></a></p> <h2>Privacy Policy</h2> <p><em>The Real News</em> recognizes that the privacy of your personal information is important. </p> <p> Personal Information is any information that identifies you, or by which your identity could be learned. Examples of personal information include your home address, home telephone number, personal email address, and personal credit card numbers. </p> <p> This privacy notice is designed to explain to you what personal information we collect about you, and how that information is used. This notice will also explain how your personal information is kept, and is secure from inappropriate disclosure or use.</p> <p> This privacy notice is also designed to comply with the federal Personal Information Protection and Electronic Information Act (PIPEDA).</p> <p>COLLECTION AND USE OF PERSONAL INFORMATION <br /> <em>The Real News</em> only uses your personal information to respond to your requests for products or for information about the services we offer. We will not use your information for any other purpose. If we intend to use your personal email address, or other personal information you provide, to inform you about other matters, such as additional services we provide, we will notify you and give you an opportunity to decline to receive such communication. </p> <p>USE OF THE REAL NEWS WEBSITE <br />You may visit our website to browse or to request information. If you desire, you may voluntarily interact with us by e-mail or by filling out an online form. You may also wish to register to receive our newsletter. Registration includes periodic e-mail notification about special offers and other announcements. By registering, you are consenting to receive these announcements.</p> <p>&nbsp;<a name="&quot;externalweblinks&quot;" title="&quot;externalweblinks&quot;"></a></p> <p>EXTERNAL WEB LINKS</p> <p>The Real News has provided links and pointers to Internet sites maintained by third parties. Neither The Real News, its parent or subsidiary companies, nor their affiliates operate or control in any respect any information, products or services on these third-party sites. The materials in this site and the third-party sites are provided "as is" and without warranties of any kind either express or implied. To the fullest extent permissible pursuant to applicable law, The Real News disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. The Real News does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected, or that this site, including bulletin boards, or the server that makes it available, are free of viruses or other harmful components. The Real News does not warrant or make any representations regarding the use or the results of the use of the materials in this site or in third-party sites in terms of their correctness, accuracy, timeliness, reliability, or otherwise. <br />&nbsp;</p> <p>DISCLOSURE OF PERSONAL INFORMATION <br /><em>The Real News</em> does not supply any of your personal information to other companies for any purpose without your written consent, unless required to do so by law. We share your personal information internally, only as necessary, with staff who need it to complete your request. </p> <p>RETENTION OF PERSONAL INFORMATION <br />Generally, <em>The Real News</em> keeps your personal information only as long as it needs to in order to fulfill the purpose for which it was collected, or as required by law. For example, if you send a written inquiry to us, we will retain your letter long enough to deal with your request, and for a reasonable time thereafter in order to satisfy ourselves that no further follow-up is required.</p> <p> In some cases, <em>The Real News</em> is required by law to keep your personal information for a specified period of time. For example, where information is collected for financial transactions such as credit or debit purchases or refunds, <em>The Real News</em> is required to retain this information for seven years for audit purposes.</p> <p>PROTECTION OF PERSONAL INFORMATION <br /> Only those staff members of <em>The Real News</em> who need your personal information to respond to your requests are given access to it. Employees are provided with training and information regarding the proper handling of personal information. All information stored in our computer system is protected from access by unauthorized users.</p> <p>ACCESS TO PERSONAL INFORMATION <br /><em>The Real News</em> will provide you with the personal information we have about you upon your request.</p> <p> If you wish to know what information we currently have about you, you should send a written request to:</p> <p> <em>The Real News</em> Attn: Privacy Representative<br /><a href="info@therealnews.com&quot;">info@therealnews.com</a> </p> <p> Our Privacy representative will respond to your request within 30 days. If you become aware that the information we have about you is incorrect, you should notify the Privacy representative, who will ensure the information is updated.</p> <p>FILING A COMPLAINT<br />If you are dissatisfied with <em>The Real News</em>'s privacy policies or practices, you should make a written complaint to the Privacy representative. The Privacy representative will investigate the matter and take corrective action where necessary. The Privacy representative will then report back to you and advise you of any steps taken to correct the problem.</p> <p>CHANGES TO THIS POLICY <br /><em>The Real News</em> may periodically review all of its policies and procedures. We reserve the right to change our Privacy Policy from time to time. </p> <p>This <a target="\_blank" href="https://therealnews.com/termsandconditions">article</a> first appeared on <a target="\_blank" href="https://therealnews.com">The Real News Network</a> and is republished here under a Creative Commons license.<img src="https://i0.wp.com/therealnews.com/wp-content/uploads/2021/11/cropped-TRNN-2021-logomark-square.png?fit=150%2C150&amp;ssl=1" style="width:1em;height:1em;margin-left:10px;"><img id="republication-tracker-tool-source" src="https://therealnews.com/?republication-pixel=true&post=155231&amp;ga4=G-7LYS8R7V51" style="width:1px;height:1px;"></p> Copy to Clipboard
+<h1>Terms of use and privacy policy</h1> <p class="byline">by TRNN, The Real News Network <br />September 5, 2007</p> <p>If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our <a href="//therealnews.com/web/index.php?thisdataswitch=0&amp;thisid=417&amp;thisview=item#privacy&quot;">privacy policy</a> govern <em>The Real News</em> relationship with you in relation to this website.</p> <p>The term "<em>The Real News</em>" or "us" or "we" refers to the owner of the website whose registered office is 360A Bloor Street West, Toronto, Ontario, Canada, M5S 3C9. The term "you" refers to the user or viewer of our website.</p> <p>The use of this website is subject to the following terms of use:</p> <p>The content of the pages of this website is for your general information and use only. It is subject to change without notice. </p> <p>Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law. </p> <p>Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements. </p> <p>This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions. </p> <p>All trademarks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website.</p> <p>Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offence. </p> <p>From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).</p> <p>Your use of this website and any dispute arising out of such use of the website is subject to the laws of Canada.</p> <p>If you have any questions or concerns about these terms please email us at <a href="info@therealnews.com&quot;">info@therealnews.com</a> or call us at 416 916-5202.</p> <p><a name="&quot;privacy&quot;" title="&quot;privacy&quot;"></a></p> <h2>Privacy Policy</h2> <p><em>The Real News</em> recognizes that the privacy of your personal information is important. </p> <p> Personal Information is any information that identifies you, or by which your identity could be learned. Examples of personal information include your home address, home telephone number, personal email address, and personal credit card numbers. </p> <p> This privacy notice is designed to explain to you what personal information we collect about you, and how that information is used. This notice will also explain how your personal information is kept, and is secure from inappropriate disclosure or use.</p> <p> This privacy notice is also designed to comply with the federal Personal Information Protection and Electronic Information Act (PIPEDA).</p> <p>COLLECTION AND USE OF PERSONAL INFORMATION <br /> <em>The Real News</em> only uses your personal information to respond to your requests for products or for information about the services we offer. We will not use your information for any other purpose. If we intend to use your personal email address, or other personal information you provide, to inform you about other matters, such as additional services we provide, we will notify you and give you an opportunity to decline to receive such communication. </p> <p>USE OF THE REAL NEWS WEBSITE <br />You may visit our website to browse or to request information. If you desire, you may voluntarily interact with us by e-mail or by filling out an online form. You may also wish to register to receive our newsletter. Registration includes periodic e-mail notification about special offers and other announcements. By registering, you are consenting to receive these announcements.</p> <p>&nbsp;<a name="&quot;externalweblinks&quot;" title="&quot;externalweblinks&quot;"></a></p> <p>EXTERNAL WEB LINKS</p> <p>The Real News has provided links and pointers to Internet sites maintained by third parties. Neither The Real News, its parent or subsidiary companies, nor their affiliates operate or control in any respect any information, products or services on these third-party sites. The materials in this site and the third-party sites are provided "as is" and without warranties of any kind either express or implied. To the fullest extent permissible pursuant to applicable law, The Real News disclaims all warranties, express or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose. The Real News does not warrant that the functions contained in the materials will be uninterrupted or error-free, that defects will be corrected, or that this site, including bulletin boards, or the server that makes it available, are free of viruses or other harmful components. The Real News does not warrant or make any representations regarding the use or the results of the use of the materials in this site or in third-party sites in terms of their correctness, accuracy, timeliness, reliability, or otherwise. <br />&nbsp;</p> <p>DISCLOSURE OF PERSONAL INFORMATION <br /><em>The Real News</em> does not supply any of your personal information to other companies for any purpose without your written consent, unless required to do so by law. We share your personal information internally, only as necessary, with staff who need it to complete your request. </p> <p>RETENTION OF PERSONAL INFORMATION <br />Generally, <em>The Real News</em> keeps your personal information only as long as it needs to in order to fulfill the purpose for which it was collected, or as required by law. For example, if you send a written inquiry to us, we will retain your letter long enough to deal with your request, and for a reasonable time thereafter in order to satisfy ourselves that no further follow-up is required.</p> <p> In some cases, <em>The Real News</em> is required by law to keep your personal information for a specified period of time. For example, where information is collected for financial transactions such as credit or debit purchases or refunds, <em>The Real News</em> is required to retain this information for seven years for audit purposes.</p> <p>PROTECTION OF PERSONAL INFORMATION <br /> Only those staff members of <em>The Real News</em> who need your personal information to respond to your requests are given access to it. Employees are provided with training and information regarding the proper handling of personal information. All information stored in our computer system is protected from access by unauthorized users.</p> <p>ACCESS TO PERSONAL INFORMATION <br /><em>The Real News</em> will provide you with the personal information we have about you upon your request.</p> <p> If you wish to know what information we currently have about you, you should send a written request to:</p> <p> <em>The Real News</em> Attn: Privacy Representative<br /><a href="info@therealnews.com&quot;">info@therealnews.com</a> </p> <p> Our Privacy representative will respond to your request within 30 days. If you become aware that the information we have about you is incorrect, you should notify the Privacy representative, who will ensure the information is updated.</p> <p>FILING A COMPLAINT<br />If you are dissatisfied with <em>The Real News</em>'s privacy policies or practices, you should make a written complaint to the Privacy representative. The Privacy representative will investigate the matter and take corrective action where necessary. The Privacy representative will then report back to you and advise you of any steps taken to correct the problem.</p> <p>CHANGES TO THIS POLICY <br /><em>The Real News</em> may periodically review all of its policies and procedures. We reserve the right to change our Privacy Policy from time to time. </p> <p>This <a target="\_blank" href="https://therealnews.com/termsandconditions">article</a> first appeared on <a target="\_blank" href="https://therealnews.com">The Real News Network</a> and is republished here under a Creative Commons license.<img src="https://i0.wp.com/therealnews.com/wp-content/uploads/2021/11/cropped-TRNN-2021-logomark-square.png?resize=150%2C150&amp;ssl=1" style="width:1em;height:1em;margin-left:10px;"><img id="republication-tracker-tool-source" src="https://therealnews.com/?republication-pixel=true&post=155231&amp;ga4=G-7LYS8R7V51" style="width:1px;height:1px;"></p> Copy to Clipboard
 
 1
 
@@ -345,16 +353,16 @@ Tagged: [video](https://therealnews.com/tag/video)
 Trending Posts
 --------------
 
-* [Texas' 'Death Star Bill' tramples democracy in the name of corporate power](https://therealnews.com/texas-death-star-bill-tramples-democracy-in-the-name-of-corporate-power)
-* [Unmarked Sacramento gang unit cops stop, arrest father and child at gunpoint](https://therealnews.com/unmarked-sacramento-gang-unit-cops-stop-arrest-father-and-child-at-gunpoint)
-* ['CSX has got to go!' Industrially polluted South Baltimore residents want rail giant out of their community](https://therealnews.com/csx-has-got-to-go-industrially-polluted-south-baltimore-residents-want-rail-giant-out-of-their-community)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Trump's trial shows there are two justice systems for the rich and poor](https://therealnews.com/trumps-trial-shows-there-are-two-justice-systems-for-the-rich-and-poor)
-* [‘No human person should live there’: The ongoing horrors at Danbury prison](https://therealnews.com/no-human-person-should-live-there-the-ongoing-horrors-at-danbury-prison)
-* [What Does Zionism Mean to You?](https://therealnews.com/telavivnaksa0604)
+* [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
+* [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
+* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [After Trump assassination attempt, RNC 'like a religious gathering’](https://therealnews.com/after-trump-assassination-attempt-rnc-like-a-religious-gathering)
+* [Julian Assange is free—defying imprisonment, and even assassination plots](https://therealnews.com/julian-assange-is-free-defying-imprisonment-and-even-assassination-plots)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [JVP activists disrupt crucial Biden fundraiser in Hollywood](https://therealnews.com/jvp-activists-disrupt-crucial-biden-fundraiser-in-hollywood)
-* [Hollywood. Empire | Under the Shadow, Bonus Episode](https://therealnews.com/hollywood-empire-under-the-shadow-bonus-episode)
+* [Anti-Trump and Pro-Trump demonstrators hit the streets outside RNC in Milwaukee](https://therealnews.com/anti-trump-and-pro-trump-demonstrators-hit-the-streets-outside-rnc-in-milwaukee)
+* [Fossil fuel plants belched toxic pollution as Hurricane Beryl hit Gulf Coast](https://therealnews.com/fossil-fuel-plants-belched-toxic-pollution-as-hurricane-beryl-hit-gulf-coast)
+* [At CPAC Brazil, Latin America's far right plots its comeback](https://therealnews.com/at-cpac-brazil-latin-americas-far-right-plots-its-comeback)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
@@ -377,6 +385,7 @@ TRNN
 * [Ways to Give](https://therealnews.com/more-ways-to-give)
 * [Jobs](https://therealnews.com/join-us)
 * [Press Releases](https://therealnews.com/category/press-releases)
+* [Ethics Policy](https://therealnews.com/ethics-policy)
 
 Sections
 --------
@@ -392,7 +401,6 @@ Sections
 Shows & Series
 --------------
 
-* [The Chris Hedges Report](https://therealnews.com/chris-hedges-report)
 * [Edge of Sports with Dave Zirin](https://therealnews.com/edge-of-sports-with-dave-zirin)
 * [The Marc Steiner Show](https://therealnews.com/the-marc-steiner-show)
 * [Police Accountability Report](https://therealnews.com/police-accountability-report)
