@@ -24,10 +24,17 @@ By using the Site and the Services, you indicate agreement to these Terms of Ser
 
 By using the Site and our Services, you agree to also be bound by Problem Free’s Privacy Policy and Cookie Policy.
 
-2 - Permission
---------------
+2 - Age restriction
+-------------------
 
-You may only use the Site or Services if you are a 16 year old human being, (or a lower age if permitted by the laws of your residence). No robots allowed!
+* Our services are not designed for or targeted at children under the age of 16.
+* If you are 16 years or older, you may use our services independently.
+* If you are under 16 years old, you may only use our services under the supervision and with the consent of a parent or legal guardian. By allowing a minor to use our services, the parent or guardian agrees to: a. Supervise the minor's use of our services b. Assume responsibility for the minor's activities on our platform c. Ensure the minor's compliance with our Terms of Service and Use Policy
+* Regardless of age, all users (or their guardians) are responsible for ensuring that their use of our services, including the content they create or distribute, complies with all applicable laws and regulations.
+* If we learn that we have collected personal information from a child under 16 without verifiable parental consent, we will take steps to delete that information as quickly as possible.
+* Problem Free Limited reserves the right to terminate any account or remove any content that we believe, in our sole discretion, violates these terms or may cause legal issues for our company.
+
+By using our services, you represent and warrant that you either meet the age requirements to use the service independently, or that you have obtained the necessary parental or guardian consent if you are under 16.
 
 3 - Changes to this Agreement
 -----------------------------
@@ -53,19 +60,47 @@ You are responsible for making sure that your content does not breach these Term
 6 - Payments and Payment Security
 ---------------------------------
 
-Subscription fees are generally taken in advance of the services being provided, on a rolling monthly or annual basis, however in the event that this does not occur, you agree to pay all subscriptions accruing. Fees paid by you are non-refundable except as provided in these Terms of Service or when required by law. Subscription payments are taken in advance for the recurring term you have chosen, such as monthly or annually. The Term of each subscription is automatically renewed at the end of the subscription term, without notice.
+### Subscription Fees
 
-There is a 14 day cooling off period, starting the day after a subscription is made, in which you can cancel your subscription and receive a refund. If you have been subscribed longer than 14 calendar days, no refund will be given for the cancellation. To request a refund within the 14 day period, you must open a support ticket with the customer service team. 
+Subscription fees are generally charged in advance of the services being provided, on a rolling monthly or annual basis. Fees paid are non-refundable except as provided in these Terms of Service or when required by law.
 
-You may cancel the automatic renewal of your subscription at any time. No refund shall be given for the remainder of the current subscription term, however you will be able to continue use of the Services under your subscription package until the end of your subscription term. Fees are subject to change from time to time, however any such change will only become effective upon the renewal of your subscription term.
+### Automatic Renewal
 
-We shall endeavour to email you if any change in your subscription price is to become effective. If you decide to upgrade your subscription at any time, from a cheaper subscription to a more expensive one, midway through a current subscription term, we will apply a pro-rated refund on your account for the remaining term of your lower subscription and apply the new subscription rate to the remainder of your current term. Once your subscription renews, the full upgrade price shall apply.
+The term of each subscription is automatically renewed at the end of the subscription period (monthly or annually) unless cancelled by you. For annual subscriptions, we will send a payment reminder a few days before the renewal date. It is your responsibility to ensure your payment details are up to date.
 
-If you exceed the limits of your current subscription plan then we may automatically increase your plan or apply additional charges the account at the next renewal.
+### Cancellation and Refunds
 
-When consolidating billing of multiple accounts under one organisation, refunds will not be issued for any pro-rated amounts left on the consolidated accounts. However, a credit may be applied to the organisation’s next renewal. The credit will expire after the first renewal and will not carry forward or be refunded.
+You may cancel the automatic renewal of your subscription at any time through your account settings or by contacting our support team. There is a 14-day cooling-off period, starting the day after a subscription is made, during which you can cancel your subscription and receive a full refund. After the 14-day cooling-off period, no refund will be given for cancellation, but you may continue to use the Services under your subscription package until the end of your current subscription term.
 
-Credit card or direct debit details are taken directly by our authorized Level 1 PCI DSS compliant payment service provider and never touch our servers in an unencrypted state. In addition, bank grade communications encryption (HTTPS / TLS) is used throughout our website to protect your data in transit.
+### Changes in Fees
+
+Fees are subject to change. Any changes will become effective upon the renewal of your subscription term. We will endeavor to notify you by email of any changes in your subscription price before they take effect.
+
+### Mid-term Upgrades
+
+If you upgrade your subscription midway through a current subscription term, we will apply a pro-rated refund on your account for the remaining term of your lower subscription and apply the new subscription rate to the remainder of your current term. Once your subscription renews, the full upgrade price shall apply.
+
+### Payment Methods
+
+We accept payment via credit card, direct debit, or other methods as specified on our website. You are responsible for providing accurate and current payment information.
+
+### Failed Payments
+
+If a payment fails, we may attempt to process the charge again within a few days. If the payment continues to fail, we reserve the right to suspend or terminate your access to the Services.
+
+### Taxes
+
+Fees are exclusive of all taxes, levies, or duties imposed by taxing authorities.
+
+### Exceeding Plan Limits
+
+If you exceed the limits of your current subscription plan, we may automatically upgrade your plan or apply additional charges to the account at the next renewal.
+
+### Account Termination
+
+In the event of account termination, whether initiated by you or us, you will not be entitled to a refund for any prepaid fees.
+
+By using our Services, you agree to these payment terms. Failure to comply with these terms may result in the suspension or termination of your account and Services.
 
 7 - Third Party Interference and Damage to Access Devices
 ---------------------------------------------------------
@@ -77,24 +112,61 @@ You agree that you are responsible for the devices you use to access the Site an
 8 - Use Policy
 --------------
 
-You shall not use the Site or the Services for any unlawful or inappropriate purpose including, but not limited to:
+You shall not use the Site or the Services in any way that could cause legal issues, service disruptions, or reputational damage to Problem Free Limited. Prohibited activities include, but are not limited to:
 
-* Sending spam
-* Using purchased, rented or harvested lists of email addresses
-* Use fake or inaccurate contact addresses on any campaigns sent through our system.
-* Seek to remove or obfuscate non-user editable sections of our templates, for example email or survey footers
-* Sending material that:
-* is unlawful, abusive, profane, obscene, vulgar, defamatory, pornographic, threatening, invasive of publicity or privacy rights, or otherwise objectionable;
-* violates or infringes upon the rights of others in any way;
-* contains any viruses, worms, malware, Trojan horses or other harmful or destructive content;
-* encourages others to commit unlawful acts;
-* tests, scans or tests our servers or systems;
-* is used to break or circumvent any technology, hardware or software we have in place for security of authentication;
-* breaches any other party’s intellectual property rights;
-* contains publicity, advertising, or solicitation for goods or services that did not receive prior approval from Problem Free; and/or
-* prevents other users from using and enjoying the Site.
+1. Illegal Content and Activities
+    * Using our Services for any unlawful purpose or to facilitate illegal activities
+    * Distributing content that violates applicable laws or regulations
+2. Intellectual Property Infringement
+    * Violating copyrights, trademarks, or other intellectual property rights
+    * Using our Services to distribute counterfeit or unauthorized materials
+3. Service Disruption and Technical Abuse
+    * Attempting to gain unauthorized access to our systems or other users' accounts
+    * Interfering with the proper functioning of the Site or Services
+    * Introducing malware, viruses, or other harmful code
+    * Engaging in activities that could overload our servers or networks
+4. Fraudulent Practices
+    * Using fake or inaccurate contact information
+    * Misrepresenting your identity or affiliation in a way that could implicate our company
+    * Engaging in any activities that could be construed as fraud or scams
+5. Spam and Unsolicited Communications
+    * Using our Services to send spam or unsolicited bulk communications
+    * Engaging in activities that could cause our IP addresses or domains to be blacklisted
+6. Content That Could Harm Our Reputation
+    * Distributing extremely offensive, abusive, or objectionable content that, if associated with our platform, could damage our reputation
+7. Violation of Our Agreements with Third Parties
+    * Any activities that could cause us to violate our agreements with hosting providers, payment processors, or other service providers
+8. Unauthorized Commercial Use
+    * Reselling or redistributing our Services without explicit authorization
 
-Problem Free does not review all content and material posted on the Site or in surveys and emails through its mass email marketing services. As such, Problem Free cannot accept responsibility or liability for any material posted by its users. Problem Free reserves the right to remove or alter any content or material posted or used as part of the Services for any reason, at our own discretion.
+Problem Free Limited does not proactively monitor all content distributed through our Services. However, we reserve the right to:
+
+1. Remove or alter any content or material posted or used as part of the Services for any reason, at our sole discretion.
+2. Suspend or terminate your account and access to the Services at any time, for any reason or no reason, without notice.
+3. Cooperate with legal authorities if we believe our company's legal interests are at risk.
+
+We maintain these rights to ensure compliance with our legal obligations and agreements with third-party service providers, including our hosting providers.
+
+By using our Services, you acknowledge and agree that Problem Free Limited has the right to terminate your account at any time, without notice or cause, and that such termination may result in the deletion of your content and data. You agree that Problem Free Limited will not be liable to you or any third party for any termination of your access to the Services or deletion of your content or data.
+
+Special Category Data
+---------------------
+
+Our Services include a feature that enables the separation of Personally Identifiable Information (PII) from the remaining respondent answers, effectively anonymizing the data. When properly anonymized, such data loses its status as special category data under applicable data protection laws.
+
+If you intend to collect or process any special category data as defined by applicable data protection laws (including but not limited to data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, data concerning health, or data concerning a person's sex life or sexual orientation), you are required to use this anonymization feature.
+
+By using our Services, you agree that:
+
+* You will use the anonymization feature for all special category data collected through our Services, thereby converting it to non-special category data.
+* You take full responsibility for ensuring that the anonymization feature is properly implemented for all special category data, rendering it truly anonymized and no longer subject to special category data protections.
+* You acknowledge that once properly anonymized using our feature, the data will no longer be considered special category data, and you will treat it accordingly.
+* You understand that failure to use the anonymization feature for special category data may result in immediate termination of your account and potential legal consequences.
+* You will indemnify and hold Problem Free Limited harmless from any claims, damages, or liabilities arising from your failure to properly anonymize special category data or from any misuse of anonymized data.
+
+Problem Free Limited reserves the right to audit your use of the Services to ensure compliance with this requirement. Failure to comply may result in immediate termination of your account and Services.
+
+By using the anonymization feature as required, you acknowledge that you are responsible for ensuring the data truly loses its special category status, and that Problem Free Limited is not processing special category data in providing its Services to you.
 
 9 Collaboration
 ---------------
@@ -184,7 +256,7 @@ These Terms of Service shall be interpreted and construed according to, and gove
 
 If any part of these Terms of Service is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining terms will remain in full force and in effect. A waiver by either party of any term or condition of these Terms of Service or any breach will not waive such term or condition or any subsequent breach. Problem Free may assign their rights under these Terms of Service without limitation. You may assign your rights to any party as long as they agree to be bound by these Terms of Service also. These Terms of Service shall be binding upon and shall inure to the benefit of the parties, their successors and permitted assigns. Any headings used in the Terms of Service are for convenience only.
 
-Last updated on August 2, 2023
+Last updated on July 15, 2024
 
 ### Related Articles
 
