@@ -10,7 +10,7 @@ Shop
 
 [Goldback Bills](https://tuttletwins.store/products/goldback-bundle)
 
-[DVD & Bluray](https://tuttletwins.store/products/season-1-tuttle-twins-dvd)
+[DVD & Bluray](https://tuttletwins.store/collections/dvd-blu-ray)
 
 [Bundles](https://tuttletwins.store/collections/bundles)
 
@@ -76,7 +76,7 @@ SECS](https://tuttletwins.store/collections/memorial-day-sale)
     * [Shop All](https://tuttletwins.store/collections/shop-all)
     * [Season 2 All Access Pass](https://tuttletwins.store/pages/tuttle-twins-pass)
     * [Goldback Bills](https://tuttletwins.store/products/goldback-bundle)
-    * [DVD & Bluray](https://tuttletwins.store/products/season-1-tuttle-twins-dvd)
+    * [DVD & Bluray](https://tuttletwins.store/collections/dvd-blu-ray)
     * [Bundles](https://tuttletwins.store/collections/bundles)
     * [Apparel](https://tuttletwins.store/collections/apparel)
     * [T-Shirts](https://tuttletwins.store/collections/t-shirt)
