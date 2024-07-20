@@ -7,7 +7,7 @@
     
     [See deleted tweets](https://tweetdelete.net/see-deleted-tweets/) [Unlike tweets](https://tweetdelete.net/unlike-tweets/) [Delete multiple tweets](https://tweetdelete.net/delete-multiple-tweets/) [Auto delete tweets](https://tweetdelete.net/auto-delete-tweets/) [Delete tweets from archive](https://tweetdelete.net/delete-tweets-from-archive/) [Delete all my tweets](https://tweetdelete.net/delete-all-my-tweets/)
     
-* [Sign in with Twitter](https://tweetdelete.net/login/)
+* [Sign in with X.com](https://tweetdelete.net/login/)
 
 Privacy Policy
 --------------
@@ -70,10 +70,10 @@ For any matters related to data protection, you can contact us via email to [sup
 
 If we've missed anything or if you have any questions or concerns, please get in touch. We're a small company, but we take user privacy very seriously.
 
-Delete Your Tweets. Clean Up  
-Your Twitter Feed.
+Delete Your Tweets.  
+Clean Up Your Twitter Feed on X.
 
-[Sign in with Twitter](https://tweetdelete.net/login/)
+[Sign in with X.com](https://tweetdelete.net/login/)
 
 © 2024 TweetDelete . All Rights Reserved
 
