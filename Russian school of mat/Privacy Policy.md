@@ -1,3 +1,5 @@
+We use cookies to give you the best online experience. By continuing to browse the site you are agreeing to our use of cookies. I agree reject
+
 logo.rsm.full-colorRussian School of Mathematics[](https://www.mathschool.com/)
 
 [Get Started](#get-started-evaluation)
