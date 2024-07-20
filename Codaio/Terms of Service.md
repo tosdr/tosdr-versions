@@ -58,9 +58,9 @@ By team size
 
 [Case studies](https://coda.io/solutions/case-studies)
 
-[![](https://sanity-images.imgix.net/production/737fd2b4c642a785393e51e12f244d03a35562ea-1201x481.png?w=1200&auto=format%2Ccompress)
+[![](https://sanity-images.imgix.net/production/54e838140010ee3b4aa587b56eb348973008f66d-2400x1091.png?w=1200&auto=format%2Ccompress)
 
-How Oportun merged two cultures with Coda](https://coda.io/solutions/case-studies/oportun)[See all →](https://coda.io/solutions/case-studies)
+How Qualtrics saves money with Coda](https://coda.io/solutions/case-studies/qualtrics)[See all →](https://coda.io/solutions/case-studies)
 
 Resources
 
