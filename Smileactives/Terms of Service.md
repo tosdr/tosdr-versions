@@ -1,15 +1,15 @@
- [![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw419855a0/images/SA-star-icon-dark.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw25141af2/images/SA-star-icon.png) SEMI-ANNUAL SALE: **BUY 1, GET 1 FREE**  
-\+ **FREE SHIPPING ![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw0c668f37/images/SA-truck-icon.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dwa231f483/images/SA-truck-icon-dark.png)**](https://www.smileactives.com/ordernow) 
+ [![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw419855a0/images/SA-star-icon-dark.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw25141af2/images/SA-star-icon.png) SUMMER BLACK FRIDAY SALE: **74% OFF  
+INTRODUCTORY PERFECT WHITE® SYSTEM**![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw419855a0/images/SA-star-icon-dark.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw25141af2/images/SA-star-icon.png)](https://www.smileactives.com/ordernow)
 
 [click to call](tel:)
 
 [Skip to main content](#main)
 
-menu [![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dw6580d48c/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core8 "Smileactives")
+menu [![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dwb01d552d/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core9 "Smileactives")
 
-[![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dw6580d48c/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core8 "Smileactives")
+[![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dwb01d552d/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core9 "Smileactives")
 
-![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dw6580d48c/images/sa-2022-logo.png) ×
+![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dwb01d552d/images/sa-2022-logo.png) ×
 
 * [Shop](https://www.smileactives.com/shop/)
 * [About](https://www.smileactives.com/about.html)
@@ -27,9 +27,9 @@ OK
 
 ×
 
-![Search Icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dwcfeb6f1a/images/search-svg-icon.svg)
+![Search Icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dw7dc7f64a/images/search-svg-icon.svg)
 
- [![shopping bag icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dwcc4f4634/images/SA-shopping-icon.png) 0](https://www.smileactives.com/checkout)
+ [![shopping bag icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dwfe237d79/images/SA-shopping-icon.png) 0](https://www.smileactives.com/checkout)
 
 Search Catalog  
 
