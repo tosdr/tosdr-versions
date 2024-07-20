@@ -176,8 +176,6 @@
 
 [Молодая Гвардия](https://mger.ru/)
 
-[Материалы к пресс-конференции](https://er.ru/pages/analiz)
-
 [![banner-1](https://cdn.er.ru/media/settings/March2023/Eu73XJdPBvA4jVAmAeNF.png)](https://politstart.er.ru/)
 
 [Региональные отделения](https://er.ru/regions?domain=federal)
@@ -301,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» и МГЕР проведут по всей стране памятные акции в День памяти и скорби](https://cdn.er.ru/media/news/June2024/rsu2GFAbcr6IuA68PvCm-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-provedut-po-vsej-strane-pamyatnye-akcii-v-den-pamyati-i-skorbi)
+[![«Единая Россия» организовала летний отдых для детей из приграничных районов Белгородской области](https://cdn.er.ru/media/news/July2024/2fWtYD86OJF6L7I0cxsK-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-letnij-otdyh-dlya-detej-iz-prigranichnyh-rajonov-belgorodskoj-oblasti)
 
-[«Единая Россия» и МГЕР проведут по всей стране памятные акции в День памяти и скорби](https://er.ru/activity/news/edinaya-rossiya-i-mger-provedut-po-vsej-strane-pamyatnye-akcii-v-den-pamyati-i-skorbi)
+[«Единая Россия» организовала летний отдых для детей из приграничных районов Белгородской области](https://er.ru/activity/news/edinaya-rossiya-organizovala-letnij-otdyh-dlya-detej-iz-prigranichnyh-rajonov-belgorodskoj-oblasti)
 
-[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#ВолонтерыПобеды](https://er.ru/activity/news?tags%5B0%5D=1093044) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#огненные картины войны](https://er.ru/activity/news?tags%5B0%5D=1091945) [#Республика Дагестан](https://er.ru/activity/news?tags%5B0%5D=37346) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Брянская область](https://er.ru/activity/news?tags%5B0%5D=792) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Липецкая область](https://er.ru/activity/news?tags%5B0%5D=1090295) [#Красноярский край](https://er.ru/activity/news?tags%5B0%5D=1703) [#Иркутская область](https://er.ru/activity/news?tags%5B0%5D=1277) [#Нижегородская область](https://er.ru/activity/news?tags%5B0%5D=1447) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#Магаданская область](https://er.ru/activity/news?tags%5B0%5D=1271) [#Республика Тыва](https://er.ru/activity/news?tags%5B0%5D=1091094) [#ВахтаПамяти](https://er.ru/activity/news?tags%5B0%5D=108587) [#Чеченская Республика](https://er.ru/activity/news?tags%5B0%5D=1090169) [#Орловская область](https://er.ru/activity/news?tags%5B0%5D=5672) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#Удмуртская Республика](https://er.ru/activity/news?tags%5B0%5D=1090585) [#Новгородская область](https://er.ru/activity/news?tags%5B0%5D=773) [#Псковская область](https://er.ru/activity/news?tags%5B0%5D=1467) [#Ханты-Мансийский автономный округ-Югра](https://er.ru/activity/news?tags%5B0%5D=123387) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130) [#ДеньПамятиСкорби](https://er.ru/activity/news?tags%5B0%5D=150523)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765)
 
-Сегодня 09:00
+Сегодня 09:25
 
-[![«Единая Россия» провела профориентационную встречу для тульской молодёжи ко Дню кинолога](https://cdn.er.ru/media/news/June2024/tKbcbClZoLogmMkb2emR-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-provela-proforientacionnuyu-vstrechu-dlya-tulskoj-molodyozhi-ko-dnyu-kinologa)
+[![Лариса Швалкене, куратор Молодёжного парламента при заксобрании Калининградской области: Конкурс законотворческих инициатив объединит молодёжь в стремлении к разработке решений общественных проблем](https://cdn.er.ru/media/news/July2024/wwR7SWuMHxvigsjLXtwp-small.jpg)](https://er.ru/activity/news/larisa-shvalkene-kurator-molodyozhnogo-parlamenta-pri-zaksobranii-kaliningradskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-obedinit-molodyozh-v-stremlenii-k-razrabotke-reshenij-obshestvennyh-problem)
 
-[«Единая Россия» провела профориентационную встречу для тульской молодёжи ко Дню кинолога](https://er.ru/activity/news/edinaya-rossiya-provela-proforientacionnuyu-vstrechu-dlya-tulskoj-molodyozhi-ko-dnyu-kinologa)
+[Лариса Швалкене, куратор Молодёжного парламента при заксобрании Калининградской области: Конкурс законотворческих инициатив объединит молодёжь в стремлении к разработке решений общественных проблем](https://er.ru/activity/news/larisa-shvalkene-kurator-molodyozhnogo-parlamenta-pri-zaksobranii-kaliningradskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-obedinit-molodyozh-v-stremlenii-k-razrabotke-reshenij-obshestvennyh-problem)
 
-[#профориентация](https://er.ru/activity/news?tags%5B0%5D=6397) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#кинология](https://er.ru/activity/news?tags%5B0%5D=104043) [#МВД](https://er.ru/activity/news?tags%5B0%5D=157)
+[#Калининградская область](https://er.ru/activity/news?tags%5B0%5D=780) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
 
-20.06.24
+19.07.24
 
-[![«Единая Россия» внесла законопроект об индексации пенсий работающим пенсионерам](https://cdn.er.ru/media/news/June2024/YzOKPlgpwjoMvkIaoW0P-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-ob-indeksacii-pensij-rabotayushim-pensioneram)
+[![Алёна Герасименко, член Молодёжного парламента при Госдуме от Ярославской области: Конкурс законотворческих инициатив является уникальной возможностью внести вклад в развитие страны](https://cdn.er.ru/media/news/July2024/Nd9S5OJn4SlrMD7YXJut-small.jpg)](https://er.ru/activity/news/alyona-gerasimenko-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-yaroslavskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-yavlyaetsya-unikalnoj-vozmozhnostyu-vnesti-vklad-v-razvitie-strany)
 
-[«Единая Россия» внесла законопроект об индексации пенсий работающим пенсионерам](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-ob-indeksacii-pensij-rabotayushim-pensioneram)
+[Алёна Герасименко, член Молодёжного парламента при Госдуме от Ярославской области: Конкурс законотворческих инициатив является уникальной возможностью внести вклад в развитие страны](https://er.ru/activity/news/alyona-gerasimenko-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-yaroslavskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-yavlyaetsya-unikalnoj-vozmozhnostyu-vnesti-vklad-v-razvitie-strany)
 
-[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#работающие пенсионеры](https://er.ru/activity/news?tags%5B0%5D=25654) [#индексация](https://er.ru/activity/news?tags%5B0%5D=1090137) [#пенсии](https://er.ru/activity/news?tags%5B0%5D=219)
+[#Ярославская область](https://er.ru/activity/news?tags%5B0%5D=2445) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Молодежный парламент](https://er.ru/activity/news?tags%5B0%5D=1090130) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
 
-20.06.24
+19.07.24
 
-[![«Единая Россия» вместе с министром просвещения Сергеем Кравцовым проверила организацию ЕГЭ в Москве](https://cdn.er.ru/media/news/June2024/NhDLURtyfQpFpQ1QCc0P-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-ministrom-prosvesheniya-sergeem-kravcovym-proverila-organizaciyu-ege-v-moskve)
+[![Владимир Якушев встретился с активом первичных отделений «Единой России» и молодогвардейцами Магнитогорска](https://cdn.er.ru/media/news/July2024/5NQ3qS40k0h4m9d6eofK-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-aktivom-pervichnyh-otdelenij-edinoj-rossii-i-molodogvardejcami-magnitogorska)
 
-[«Единая Россия» вместе с министром просвещения Сергеем Кравцовым проверила организацию ЕГЭ в Москве](https://er.ru/activity/news/edinaya-rossiya-vmeste-s-ministrom-prosvesheniya-sergeem-kravcovym-proverila-organizaciyu-ege-v-moskve)
+[Владимир Якушев встретился с активом первичных отделений «Единой России» и молодогвардейцами Магнитогорска](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-aktivom-pervichnyh-otdelenij-edinoj-rossii-i-molodogvardejcami-magnitogorska)
 
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#ЕГЭ](https://er.ru/activity/news?tags%5B0%5D=183) [#экзамены](https://er.ru/activity/news?tags%5B0%5D=437)
+[#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#благоустройствогорода](https://er.ru/activity/news?tags%5B0%5D=122041) [#Магнитогорск](https://er.ru/activity/news?tags%5B0%5D=916) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#Рашников](https://er.ru/activity/news?tags%5B0%5D=10684)
 
-20.06.24
+19.07.24
 
-[![«Единая Россия» запустила проект по оказанию психологической помощи участникам СВО в Дагестане](https://cdn.er.ru/media/news/June2024/rsbJ8tSAySBxiGDNuntM-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-zapustila-proekt-po-okazaniyu-psihologicheskoj-pomoshi-uchastnikam-svo-v-dagestane)
+[![Алексей Тришков, член Молодёжного парламента при Госдуме от Марий Эл: Конкурс законотворческих инициатив позволит органам власти услышать инициативы молодёжи](https://cdn.er.ru/media/news/July2024/NuirPwIM41wGe55DElQp-small.jpg)](https://er.ru/activity/news/aleksej-trishkov-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-marij-el-konkurs-zakonotvorcheskih-iniciativ-pozvolit-organam-vlasti-uslyshat-iniciativy-molodyozhi)
 
-[«Единая Россия» запустила проект по оказанию психологической помощи участникам СВО в Дагестане](https://er.ru/activity/news/edinaya-rossiya-zapustila-proekt-po-okazaniyu-psihologicheskoj-pomoshi-uchastnikam-svo-v-dagestane)
+[Алексей Тришков, член Молодёжного парламента при Госдуме от Марий Эл: Конкурс законотворческих инициатив позволит органам власти услышать инициативы молодёжи](https://er.ru/activity/news/aleksej-trishkov-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-marij-el-konkurs-zakonotvorcheskih-iniciativ-pozvolit-organam-vlasti-uslyshat-iniciativy-molodyozhi)
 
-[#Республика Дагестан](https://er.ru/activity/news?tags%5B0%5D=37346) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#психологическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=148745) [#Лисицына](https://er.ru/activity/news?tags%5B0%5D=54213) [#Кузина](https://er.ru/activity/news?tags%5B0%5D=47999)
+[#Республика Марий Эл](https://er.ru/activity/news?tags%5B0%5D=1090104) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Молодежный парламент](https://er.ru/activity/news?tags%5B0%5D=1090130) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-20.06.24
+19.07.24
 
-[![Андрей Красов: Социальные гарантии для участников СВО при изменении налоговой системы сохранятся](https://cdn.er.ru/media/news/June2024/mxsGZEa7WAqVIb0FNJku-small.jpg)](https://er.ru/activity/news/andrej-krasov-socialnye-garantii-dlya-uchastnikov-svo-pri-izmenenii-nalogovoj-sistemy-sohranyatsya)
+[![Кристина Малхасян, член Молодёжного парламента при Госдуме от Воронежской области: Конкурс законотворческих инициатив направлен на популяризацию парламентской деятельности среди молодёжи](https://cdn.er.ru/media/news/July2024/EzjMBJmsI2reo5cYce1u-small.jpg)](https://er.ru/activity/news/kristina-malhasyan-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-voronezhskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-napravlen-na-populyarizaciyu-parlamentskoj-deyatelnosti-sredi-molodyozhi)
 
-[Андрей Красов: Социальные гарантии для участников СВО при изменении налоговой системы сохранятся](https://er.ru/activity/news/andrej-krasov-socialnye-garantii-dlya-uchastnikov-svo-pri-izmenenii-nalogovoj-sistemy-sohranyatsya)
+[Кристина Малхасян, член Молодёжного парламента при Госдуме от Воронежской области: Конкурс законотворческих инициатив направлен на популяризацию парламентской деятельности среди молодёжи](https://er.ru/activity/news/kristina-malhasyan-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-voronezhskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-napravlen-na-populyarizaciyu-parlamentskoj-deyatelnosti-sredi-molodyozhi)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#налоги](https://er.ru/activity/news?tags%5B0%5D=329) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#Красов](https://er.ru/activity/news?tags%5B0%5D=10499) [#налогообложение](https://er.ru/activity/news?tags%5B0%5D=9253)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#Молодежный парламент](https://er.ru/activity/news?tags%5B0%5D=1090130) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
 
-20.06.24
+19.07.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
