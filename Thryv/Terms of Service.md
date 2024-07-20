@@ -6,9 +6,9 @@
                 
                 See communication from multiple channels in a single easy-to-use inbox.
                 
-            * [Centralized Inbox](https://www.thryv.com/command-center/#centralized-inbox)
-            * [TeamChat](https://www.thryv.com/command-center/#team-chat)
-            * [Phone & Video Calls](https://www.thryv.com/command-center/#phone-and-video-calls)
+            * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
+            * [TeamChat](https://www.thryv.com/features/teamchat/)
+            * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls/)
         * * [BUSINESS CENTER](https://www.thryv.com/business-center/)
                 
                 Everything you need to streamline your day-to-day business.
@@ -22,10 +22,10 @@
                 
                 Manage your marketing and create campaigns with less effort.
                 
-            * [Advertising Campaigns](https://www.thryv.com/features/campaign-management/)
             * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
             * [Landing Pages](https://www.thryv.com/features/landing-pages/)
             * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
+            * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
         * * [MARKETPLACE](https://www.thryv.com/app-market/)
                 
                 Need a little something extra? Find it here.
@@ -81,14 +81,14 @@
             * [Free Tools](https://www.thryv.com/free-tools)
             * [Reviews & Testimonials](https://www.thryv.com/reviews/)
             * [Help Center](https://learn.thryv.com/hc)
-            * [Events](https://www.thryv.com/events/)
-            * [Webinars](https://www.thryv.com/webinar-access/)
+            * [Events](https://www.thryv.com/webinars-and-events/#events)
+            * [Webinars](https://www.thryv.com/webinars-and-events/#webinars)
         * * BLOGS & CONTENT
                 
             * [Blog](https://www.thryv.com/blog)
             * [Small Business Guides](https://www.thryv.com/guides-resources)
             * [Podcasts](https://www.thryv.com/podcast-resources/)
-            * [How to Videos](https://www.thryv.com/videos/)
+            * [How to Videos](https://www.thryv.com/webinars-and-events/#how-to-thryv)
         
         * [Thryv FAQs](https://www.thryv.com/faqs/)
             
@@ -108,9 +108,9 @@
             
             See communication from multiple channels in a single easy-to-use inbox.
             
-        * [Centralized Inbox](https://www.thryv.com/command-center/#centralized-inbox)
-        * [TeamChat](https://www.thryv.com/command-center/#team-chat)
-        * [Phone & Video Calls](https://www.thryv.com/command-center/#phone-and-video-calls)
+        * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
+        * [TeamChat](https://www.thryv.com/features/teamchat/)
+        * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls)
         * [BUSINESS CENTER](https://www.thryv.com/business-center/)
             
             Everything you need to streamline your day-to-day business.
@@ -123,10 +123,10 @@
             
             Manage your marketing and create campaigns with less effort.
             
-        * [Advertising Campaigns](https://www.thryv.com/features/campaign-management/)
         * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
         * [Landing Pages](https://www.thryv.com/features/landing-pages/)
         * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
+        * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
         * [MARKET PLACE](https://www.thryv.com/app-market/)
             
             Need a little something extra? Find it here.
@@ -168,15 +168,14 @@
         * [Free Tools](https://www.thryv.com/free-tools/)
         * [Reviews & Testimonials](https://www.thryv.com/reviews/)
         * [Compare](https://www.thryv.com/compare/)
-        * [Events](https://www.thryv.com/events/)
-        * [Webinars](https://www.thryv.com/webinar-access/)
-        * [Why Thryv](https://www.thryv.com/why-thryv/)
+        * [Events](https://www.thryv.com/webinars-and-events/#events)
+        * [Webinars](https://www.thryv.com/webinars-and-events/#webinars)
         * BLOGS & CONTENT
             
         * [Blog](https://www.thryv.com/blog/)
         * [Small Business Guides](https://www.thryv.com/guides-resources/)
         * [Podcasts](https://www.thryv.com/podcast-resources/)
-        * [How to Videos](https://www.thryv.com/videos/)
+        * [How to Videos](https://www.thryv.com/webinars-and-events/#how-to-thryv)
         * [Thryv FAQs](https://www.thryv.com/faqs)
             
     * [Franchise & Multi-location](https://www.thryv.com/features/franchises/)
@@ -218,9 +217,9 @@ Click the link below for the terms that apply to your purchase
 
 ### Popular Features
 
-* [Centralized Inbox](https://www.thryv.com/command-center/#centralized-inbox)
-* [TeamChat](https://www.thryv.com/command-center/#team-chat)
-* [Phone & Video Calls](https://www.thryv.com/command-center/#phone-and-video-calls)
+* [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
+* [TeamChat](https://www.thryv.com/features/teamchat/)
+* [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls/)
 * [Scheduling & Appointments](https://www.thryv.com/features/appointment-booking/)
 * [Customer Relationships Management (CRM)](https://www.thryv.com/features/customer-relationship-management/)
 * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
@@ -230,6 +229,7 @@ Click the link below for the terms that apply to your purchase
 * [Enhanced Local Listings](https://www.thryv.com/features/local-listings/)
 * [Landing Pages](https://www.thryv.com/features/landing-pages/)
 * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
+* [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
 
 ### Resources
 
@@ -237,12 +237,12 @@ Click the link below for the terms that apply to your purchase
 * [Free Tools](https://www.thryv.com/free-tools/)
 * [Customer Reviews & Success Stories](https://www.thryv.com/reviews/)
 * [Compare](https://www.thryv.com/compare/)
-* [Events](https://www.thryv.com/events/)
-* [Webinar](https://www.thryv.com/webinar-access/)
+* [Events](https://www.thryv.com/webinars-and-events/#events)
+* [Webinar](https://www.thryv.com/webinars-and-events/#webinars)
 * [Articles](https://www.thryv.com/articles/)
 * [Blog](https://www.thryv.com/blog/)
 * [Guides](https://www.thryv.com/guides-resources/)
-* [How to Videos](https://www.thryv.com/videos/)
+* [How to Videos](https://www.thryv.com/webinars-and-events/#how-to-thryv)
 * [Podcasts](https://www.thryv.com/podcast-resources/)
 * [Service & Support](https://www.thryv.com/service-and-support/)
 * [Real Client Portal](https://learn.thryv.com/hc/en-us?_gl=1*1h7f5o5*_ga*MTcyNTUxNTE1NS4xNjQzOTA5MDgy*_ga_Q0P8XE9ZR3*MTY4NzQ0NTIyMC4xMTYuMS4xNjg3NDQ2ODE2LjU3LjAuMA..)
