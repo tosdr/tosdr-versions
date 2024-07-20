@@ -18,6 +18,7 @@
 * [Strategie](https://www.spielaffe.de/Strategiespiele)
 * [Multiplayer](https://www.spielaffe.de/Multiplayerspiele)
 * [Mehr](https://www.spielaffe.de/Mehr-Spiele)
+* [Ratgeber](https://www.spielaffe.de/artikel)
 
 Datenschutzhinweise mit Werbeeinwilligung
 =========================================
@@ -412,3 +413,11 @@ Die Datenschutzhinweise wurden zuletzt am 12.06.2024 aktualisiert.
 [Impressum und Kontakt](https://www.spielaffe.de/Impressum "Impressum und Kontakt")•[FAQ](https://www.spielaffe.de/Statisch/FAQ "FAQ")•[Kooperationen und Partner](https://www.spielaffe.de/Statisch/Kooperationen "Kooperationen und Partner")•[Alterskennzeichnung](https://www.spielaffe.de/Statisch/Alterskennzeichnung "Alterskennzeichnung")•[Datenschutzhinweise](https://www.spielaffe.de/Statisch/Datenschutz "Datenschutzhinweise")•[Datenschutz-Manager](javascript: void() "Datenschutz-Manager")
 
 © 2004 - 2024 Spielaffe · Alle Rechte vorbehalten.
+
+Hinweis: Wechsle zur mobilen Ansicht
+
+Die Spiele auf unserer Seite lassen sich auf Mobilgeräten am besten in der mobilen Ansicht spielen. So geht's:
+
+![](/dist/images/mobile-pop-up/spa-mobile-pop-up-de.png)
+
+Hinweis schließen
