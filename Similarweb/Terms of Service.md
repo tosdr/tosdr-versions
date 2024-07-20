@@ -46,15 +46,15 @@ Rankings
 
 [Data-as-a-Service![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240719.master.9480a57/dist/scripts/lite-app/assets/098f63d5d351575b44d4.webp)
 
 Power your business with digital insights at scaleLearn more](https://www.similarweb.com/corp/daas/)[Advisory Services![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240719.master.9480a57/dist/scripts/lite-app/assets/48c97e8a4497b67adbe3.webp)
 
 Get data driven answers to your business’s most strategic questionsRead more](https://www.similarweb.com/corp/advisory-services/)[Data Licensing![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240719.master.9480a57/dist/scripts/lite-app/assets/15a497f2275910176725.webp)
 
 Data LicensingLearn More](https://www.similarweb.com/corp/oem-data/)
 
@@ -76,7 +76,7 @@ Customers
 
 [Check out our success stories![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/6183886a22021b765f5a.webp)
+![](https://static-us-east-1.similarcdn.com/build/20240719.master.9480a57/dist/scripts/lite-app/assets/6183886a22021b765f5a.webp)
 
 See how companies like yours use Similarweb to drive business success.Learn more](https://www.similarweb.com/corp/clients/)
 
@@ -90,7 +90,7 @@ Resources
 
 Resources
 
-[Blog](https://www.similarweb.com/blog/)[Reports & Insights](https://www.similarweb.com/corp/resources/?content_type=report)[Webinars](https://www.similarweb.com/corp/webinars/)
+[Blog](https://www.similarweb.com/blog/)[Reports & Insights](https://www.similarweb.com/corp/reports/)[Webinars](https://www.similarweb.com/corp/webinars/)
 
 Education
 
@@ -99,12 +99,6 @@ Education
 Company
 
 [About Us](https://www.similarweb.com/corp/about/)[Careers](https://www.similarweb.com/corp/careers/)[Investor Relations](https://ir.similarweb.com/)
-
-[Meet SAM, the new AI-powered sales assistant![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://static-us-east-1.similarcdn.com/build/20240618.master.50fa2e8/dist/scripts/lite-app/assets/6fc2b83b5b8fedbe44bc.webp)
-
-Ready to close more deals, more often? Meet SAM, our AI sales assistant. Click to see what SAM can do for your businessMeet Sam](https://www.similarweb.com/corp/sales/sales-ai-assistant/)
 
 [Contact sales](https://www.similarweb.com/corp/contact-us/)
 
@@ -267,16 +261,15 @@ _Last updated: July 29, 2022_
 Follow us on:
 
 * [](https://www.facebook.com/Similarweb "Facebook")
-* [](https://twitter.com/Similarweb "Twitter")
+* [](https://x.com/Similarweb "Twitter")
 * [](https://www.linkedin.com/company/similarweb "LinkedIn")
 * [](https://www.youtube.com/channel/UCVCI01HR6iB4AA4ChW08cvQ "YouTube")
 * [](https://www.instagram.com/similarwebinsights/ "Instagram")
 * [](https://mp.weixin.qq.com/s/dP9RRhIGCvDpdFh8hCKuww "Wechat")
 
-[+1-646-956-2012](tel:+16469562012)
+\-
 
-[16 East 34th Street, 15th Floor,  
-New York, NY 10016](https://goo.gl/maps/y3T8Hc6sowQy78KL6)
+[6 E 32nd St, New York, NY 10016, 8 Floor](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
 
 [Get our free extension](https://chromewebstore.google.com/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
 
@@ -309,7 +302,7 @@ New York, NY 10016](https://goo.gl/maps/y3T8Hc6sowQy78KL6)
 * Resources
     
     * [Blog](https://www.similarweb.com/blog/)
-    * [Reports](https://www.similarweb.com/corp/resources/?content_type=report)
+    * [Reports](https://www.similarweb.com/corp/reports/)
     * [Webinars](https://www.similarweb.com/corp/webinars/)
     * [Events](https://www.similarweb.com/corp/events/)
     * [Knowledge Center & Support](https://support.similarweb.com/)
@@ -332,7 +325,7 @@ Our OfficesSee all Similarweb offices
 
 * Givatayim, Israel
     
-    [+972-3-5447782](tel:+97235447782)
+    \-
     
     [Derech Yitzhak Rabin 33,  
     Givatayim, 5348303, Israel](https://goo.gl/maps/fCrvmzJo54qjBnrU9)
@@ -341,7 +334,7 @@ Our OfficesSee all Similarweb offices
     
 * Burlington, US
     
-    [+1-646-956-2012](tel:+16469562012)
+    \-
     
     [52 3rd Ave, Burlington, MA 01803, USA](https://maps.app.goo.gl/sF9xYEBRsEYmRh5K8)
     
@@ -349,16 +342,15 @@ Our OfficesSee all Similarweb offices
     
 * New York, US
     
-    [+1-646-956-2012](tel:+16469562012)
+    \-
     
-    [16 East 34th Street, 15th Floor,  
-    New York, NY 10016](https://goo.gl/maps/y3T8Hc6sowQy78KL6)
+    [6 E 32nd St, New York, NY 10016, 8 Floor](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
     
-    [Open map](https://goo.gl/maps/y3T8Hc6sowQy78KL6)
+    [Open map](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
     
 * Sao Paulo, Brazil
     
-    [+55 11 3197 0417](tel:+551131970417)
+    \-
     
     [Rua Jaceru, 225 - Vila Gertrudes,  
     São Paulo, Brazil,  
@@ -392,7 +384,7 @@ Our OfficesSee all Similarweb offices
     
 * Paris, France
     
-    [+33-7-56-75-98-82](tel:+33756759882)
+    \-
     
     [33 rue Lafayette, 75009 Paris](https://goo.gl/maps/eywGe8yBUpG2)
     
@@ -400,7 +392,7 @@ Our OfficesSee all Similarweb offices
     
 * Munich, Germany
     
-    [+49-1573-5983501](tel:+4915735983501)
+    \-
     
     [SimilarWeb, Office 01-111, C/O WeWork, Neuturmstrasse 5, BY, 80331  
     Munich](https://www.google.com/maps/place/WeWork+-+Altstadt-Lehel+-+Private+B%C3%BCrofl%C3%A4chen+und+Coworking/@48.1381045,11.5809333,15z/data=!4m6!3m5!1s0x479e756d836d0329:0x57c2b4f7a0fe9290!8m2!3d48.1381045!4d11.5809333!16s%2Fg%2F11f62wjwgn)
@@ -409,7 +401,7 @@ Our OfficesSee all Similarweb offices
     
 * Tokyo, JP
     
-    [+81 3-4590-6764](tel:+81345906764)
+    \-
     
     [Otemachi Building 2F, 1-6-1 Otemachi, Chiyoda-ku, Tokyo, 100-0004](https://goo.gl/maps/nJEUW65nmMn3YiXBA)
     
@@ -417,7 +409,7 @@ Our OfficesSee all Similarweb offices
     
 * Singapore
     
-    [+65-6018-3845](tel:+6560183845)
+    \-
     
     [Asia Square Tower 2, 12 Marina View, #11-01, Singapore 018961](https://maps.app.goo.gl/ApPArjL7yfhvfdw98)
     
@@ -425,7 +417,7 @@ Our OfficesSee all Similarweb offices
     
 * London, UK
     
-    [+44-2045-874668](tel:+442045874668)
+    \-
     
     [145 City Road- 8th Floor, London EC1V 1AZ](https://maps.app.goo.gl/J74WuxH9CTMRihZr6)
     
