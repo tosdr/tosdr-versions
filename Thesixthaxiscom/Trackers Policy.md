@@ -106,7 +106,7 @@ Third party (external) cookies:
 
 **google.com**
 
-We use, like a huge number of the world’s websites (millions of UK sites alone), Google Analytics, to estimate traffic numbers. They are estimates, and you can read Google’s policy on cookies [here](http://www.google.com/policies/privacy/).
+We use, like a huge number of the world’s websites (millions of UK sites alone), Google Analytics, to estimate traffic numbers. They are estimates, and you can read Google’s policy on cookies [here](https://www.google.com/policies/privacy/).
 
 Whilst we await Google’s comment on how to solve the current EU cookie law issue, you can, if you wish, opt out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
 
@@ -158,4 +158,4 @@ We do not license content or design to any other site. No element of this site c
 
 Use of this website is subject to acceptance of our [legal terms of service](https://www.thesixthaxis.com/about/). [Staff / Contact Us](https://www.thesixthaxis.com/staff/) | [Review Policy](https://www.thesixthaxis.com/review-policy/) | [Privacy Policy](https://www.thesixthaxis.com/privacy-policy/) | [Cookies Policy](https://www.thesixthaxis.com/cookies-policy/) – [Manage Cookie Settings](https://www.thesixthaxis.com/cookies-policy/?cmpscreen)
 
-Advertising and PR: [\[email protected\]](https://www.thesixthaxis.com/cdn-cgi/l/email-protection) | News: [\[email protected\]](https://www.thesixthaxis.com/cdn-cgi/l/email-protection) TheSixthAxis is featured on: [Metacritic](http://www.metacritic.com/games/), [OpenCritic](https://opencritic.com/outlet/68/thesixthaxis), [vrgamecritic](https://vrgamecritic.com/publication/1064), [Google News](http://news.google.com/news/search?aq=f&pz=1&cf=all&ned=uk&hl=en&q=thesixthaxis) | listed on: [NewsNow](http://www.newsnow.co.uk/nn/TheSixthAxiscom)
+Advertising and PR: [\[email protected\]](https://www.thesixthaxis.com/cdn-cgi/l/email-protection) | News: [\[email protected\]](https://www.thesixthaxis.com/cdn-cgi/l/email-protection) TheSixthAxis is featured on: [Metacritic](http://www.metacritic.com/games/), [OpenCritic](https://opencritic.com/outlet/68/thesixthaxis), [vrgamecritic](https://vrgamecritic.com/publication/1064), [Google News](https://news.google.com/news/search?aq=f&pz=1&cf=all&ned=uk&hl=en&q=thesixthaxis) | listed on: [NewsNow](http://www.newsnow.co.uk/nn/TheSixthAxiscom)
