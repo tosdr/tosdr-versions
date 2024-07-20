@@ -1,9 +1,22 @@
-![U.S. flag](/themes/custom/hamilton/images/usflag.png) An official website of the United States Government
+[Skip to main content](#main-content)
 
-* [Skip Navigation](#main-content)
-* [Accessibility](https://home.treasury.gov/utility/accessibility)
-* [Languages](https://home.treasury.gov/utility/languages)
-* [Contact](https://home.treasury.gov/utility/contact)
+![U.S. flag](/libraries/uswds/src/img/us_flag_small.png)
+
+An official website of the United States government
+
+Here’s how you know
+
+Here’s how you know
+
+![Dot gov](/libraries/uswds/src/img/icon-dot-gov.svg)
+
+**Official websites use .gov**  
+A **.gov** website belongs to an official government organization in the United States.
+
+![Https](/libraries/uswds/src/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**  
+A **lock** (LockA locked padlock) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
 
 MENU MENU
 
@@ -47,6 +60,8 @@ MENU MENU
     [Tax Policy](https://home.treasury.gov/about/offices/tax-policy)
     
     [Terrorism and Financial Intelligence](https://home.treasury.gov/about/offices/terrorism-and-financial-intelligence)
+    
+    [Tribal and Native Affairs](https://home.treasury.gov/policy-issues/tribal-affairs)
     
     [Inspectors General](https://home.treasury.gov/services/report-fraud-waste-and-abuse/inspectors-general)
     
@@ -525,51 +540,51 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
-    June 18, 2024
+    July 19, 2024
     
-    [Project Labor Agreements: A Best Practice for Clean Energy Projects Seeking to Meet IRA Wage and Apprenticeship Standards](https://home.treasury.gov/news/featured-stories/project-labor-agreements-a-best-practice-for-clean-energy-projects-seeking-to-meet-ira-wage-and-apprenticeship-standards)
+    [Coordinating DOE Home Energy Rebates with Energy-Efficient Home Improvement Tax Credits: An Explainer](https://home.treasury.gov/news/featured-stories/coordinating-doe-home-energy-rebates-with-energy-efficient-home-improvement-tax-credits-an-explainer)
     
-    June 12, 2024
+    July 18, 2024
     
-    [U.S. Business Investment in the Post-COVID Expansion](https://home.treasury.gov/news/featured-stories/us-business-investment-in-the-post-covid-expansion)
+    [An Update to “The Purchasing Power of American Households”](https://home.treasury.gov/news/featured-stories/an-update-to-the-purchasing-power-of-american-households-0)
     
-    June 7, 2024
+    July 18, 2024
     
-    [Continuing Improvements to IRS Customer Service in Filing Season 2024](https://home.treasury.gov/news/featured-stories/continuing-improvements-to-irs-customer-service-in-filing-season-2024)
+    [IRS Simple Notices are saving Americans time and improving accessibility](https://home.treasury.gov/news/featured-stories/irs-simple-notices-are-saving-americans-time-and-improving-accessibility)
     
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    June 18, 2024
+    July 19, 2024
     
-    [U.S. Department of the Treasury, IRS Announce Oregon as First New State to Join IRS Direct File for Filing Season 2025](https://home.treasury.gov/news/press-releases/jy2416)
+    [Treasury Sanctions Leader and Primary Member of the Cyber Army of Russia Reborn](https://home.treasury.gov/news/press-releases/jy2473)
     
-    June 18, 2024
+    July 18, 2024
     
-    [Treasury International Capital Data for April](https://home.treasury.gov/news/press-releases/jy2415)
+    [Treasury International Capital Data for May](https://home.treasury.gov/news/press-releases/jy2472)
     
-    June 18, 2024
+    July 18, 2024
     
-    [Treasury Targets Milorad Dodik’s Network of Wealth Generating Companies, Including Prointer](https://home.treasury.gov/news/press-releases/jy2414)
+    [Treasury Targets Transnational Criminal Organization Smuggling Migrants into the United States](https://home.treasury.gov/news/press-releases/jy2470)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
-    June 14, 2024
+    July 18, 2024
     
-    [Statement from Secretary of the Treasury Janet L. Yellen on G7 Summit Outcomes](https://home.treasury.gov/news/press-releases/jy2407)
+    [Statement for the United States on IMF Article IV Consultation](https://home.treasury.gov/news/press-releases/jy2471)
     
-    June 13, 2024
+    July 17, 2024
     
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the Economic Club of New York (ECNY)](https://home.treasury.gov/news/press-releases/jy2405)
+    [Remarks by Under Secretary for Terrorism and Financial Intelligence Brian Nelson at Beneficial Ownership Event with Rep. Joyce Beatty (D-OH) in Columbus, OH](https://home.treasury.gov/news/press-releases/jy2468)
     
-    June 10, 2024
+    July 15, 2024
     
-    [Remarks by Deputy Assistant Secretary for International Financial Markets Nicholas Tabor on Recent Developments in U.S.-China Financial Regulatory Engagement, in Cambridge, Massachusetts June 6, 2024](https://home.treasury.gov/news/press-releases/jy2400)
+    [Outcomes Statement of the Pacific Banking Forum](https://home.treasury.gov/news/press-releases/jy2463)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
@@ -902,6 +917,7 @@ Treasury maintains a separate page related to the [Privacy Act](https://home.tr
 * [Feedback](https://www.treasury.gov/pages/tgovproblemsfeedbackform.aspx "Feedback")
 * [Careers](https://home.treasury.gov/about/careers-at-treasury "Careers")
 * [Accessibility](https://home.treasury.gov/utility/accessibility "Accessibility")
+* [Contact](https://home.treasury.gov/utility/contact)
 
 Required Plug-ins [Adobe® Reader®](http://get.adobe.com/reader/)
 
