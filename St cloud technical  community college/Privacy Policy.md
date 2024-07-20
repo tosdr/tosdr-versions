@@ -13,7 +13,7 @@ The following discloses our data practices policy for all St. Cloud Technical & 
 
 For security purposes and to ensure that the web site remains available to all users, we use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-[Student Data Practices Policy](https://sctcc.edu/sites/default/files/uploads/doc/2023-03/S3.7%20Student%20Data%20Practices.pdf)
+[Student Data Practices Policy](https://sctcc.edu/data-privacy)
 
 ### Online forms
 
