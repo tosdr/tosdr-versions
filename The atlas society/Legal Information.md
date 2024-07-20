@@ -1,4 +1,4 @@
-[![The Atlas Society Logo](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94959f23b7f97d18ab25f1_atlas-logo.webp)](https://www.atlassociety.org/)
+[![The Atlas Society Logo](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94959f23b7f97d18ab25f1_atlas-logo.webp)](https://www.atlassociety.org/?r=0)
 
 [Atlas University](https://www.atlassociety.org/atlas-university)
 
@@ -36,7 +36,7 @@
 
 about
 
-[Who is the Atlas Society?](https://www.atlassociety.org/about)[Staff](https://www.atlassociety.org/about/staff)[Scholars & Fellows](https://www.atlassociety.org/about/scholars-fellows)[Trustees](https://www.atlassociety.org/about/trustees)[La Sociedad Atlas](https://www.atlassociety.org/about/la-sociedad-atlas-the-atlas-society)[Philosophy Q&A](https://www.atlassociety.org/about/philosophy-qa)
+[Who is the Atlas Society?](https://www.atlassociety.org/about)[Staff](https://www.atlassociety.org/about/staff)[Scholars & Fellows](https://www.atlassociety.org/about/scholars-fellows)[Trustees](https://www.atlassociety.org/about/trustees)[Philosophy Q&A](https://www.atlassociety.org/about/philosophy-qa)
 
 [Sign Up!](https://www.atlassociety.org/get-updates)
 
@@ -50,6 +50,22 @@ The Atlas Legacy Society](https://www.atlassociety.org/legacy)
 [The Atlas Legacy Society](https://www.atlassociety.org/legacy)[![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/609ae40e3995688bc5f1fa0a_noun_give_3364926%20(1).webp)
 
 The Atlas Legacy Society](https://www.atlassociety.org/legacy)
+
+![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/6690431f3db3191eb6bb2990_icons8-usa-48.png)
+
+English
+
+![English](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/6690431f3db3191eb6bb2990_icons8-usa-48.png)[English](https://www.atlassociety.org/privacy-notice)
+
+![Spanish](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/669043082b61ec6bf50f91da_icons8-spanish-flag-48.png)[Spanish](https://www.atlassociety.org/es/privacy-notice)
+
+![Portuguese](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/66904373ecd121357149c0cc_icons8-portugal-48.png)[Portuguese](https://www.atlassociety.org/pt/privacy-notice)
+
+![French](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/669043946b0b74e83bb02fc7_icons8-france-48.png)[French](https://www.atlassociety.org/fr/privacy-notice)
+
+![German](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/669043b5ea139e0dd584fac6_icons8-germany-flag-48.png)[German](https://www.atlassociety.org/de/privacy-notice)
+
+![Arabic](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/66904411849ac9fcb8d52e43_icons8-united-arab-emirates-48.png)[Arabic](https://www.atlassociety.org/ar/privacy-notice)
 
 [![](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5e94942247047eead45db6f6_magnifying-glass.webp)](https://www.atlassociety.org/search)
 
