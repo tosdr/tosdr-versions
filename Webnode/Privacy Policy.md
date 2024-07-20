@@ -27,7 +27,7 @@ Please note that any image, video, or any other content posted by Users on the W
 
 **Identity and contact details of your personal data controller**:
 
-Webnode AG, ID CH - 170.3.036.124-0, based in Badenerstrasse 47, 8004 Zurich, Switzerland, contact e-mail: support@webnode.com.
+Webnode AG, ID CH - 170.3.036.124-0, based in Badenerstrasse 47, 8004 Zurich, Switzerland, contact e-mail: webnode@webnode.com.
 
 (collectively also referred to as "Webnode" or "we"),
 
@@ -72,7 +72,7 @@ As a data subject are entitled to: a) the right of access; b) the right to recti
 
 Your rights as a data subjects are described in detail in the [EU Regulation 2016/679 (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) as well as Articles 5, 8 and 15 of the [FADP](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html)
 
-You may revoke your consent at any time in writing and redeem the other rights of the Subject by sending your request to the email address [privacy@webnode.com](mailto:privacy@webnode.com).
+You may revoke your consent at any time in writing and redeem the other rights of the Subject by sending your request to the email address [webnode@webnode.com](mailto:webnode@webnode.com).
 
 Last modified September 12, 2019.
 
