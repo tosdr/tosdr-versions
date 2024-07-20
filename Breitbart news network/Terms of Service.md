@@ -54,12 +54,12 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Global IT Outage](https://www.breitbart.com/news/crowdstrike-crash-raises-questions-about-tech-dependency/)
 * [RNC Week](https://www.breitbart.com/tag/republican-national-convention/)
 * [Trump Assassination Attempt](https://www.breitbart.com/tag/secret-service/)
 * [Will Joe Go?](https://www.breitbart.com/tag/joe-biden/)
 * [Border Crisis](https://www.breitbart.com/tag/illegal-immigration/)
 * [Israel War](https://www.breitbart.com/middle-east/)
-* [AI Mania](https://www.breitbart.com/tag/ai/)
 
 Terms of Use
 ============
