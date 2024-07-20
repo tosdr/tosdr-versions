@@ -34,23 +34,19 @@ Russian version.
 
 (далее «Соглашение») регулирует отношения
 
-между Обществом с ограниченной
+между Акционерным обществом «Селектел»
 
-ответственностью «Сеть дата-центров
+(АО «Селектел»), ОГРН 1247800067790, далее
 
-«Селектел» (ООО «Селектел»), ОГРН
+«Исполнитель», и вами – неограниченным
 
-1089847357126, далее «Исполнитель», и вами
+кругом физических и юридических лиц,
 
-– неограниченным кругом физических и
+которые желают использовать сервисы и
 
-юридических лиц, которые желают
+услуги, предоставляемые Исполнителем
 
-использовать сервисы и услуги,
-
-предоставляемые Исполнителем (далее «Вы»,
-
-«Заказчик»).
+(далее «Вы», «Заказчик»).
 
 
 
@@ -58,17 +54,19 @@ This User Agreement (hereinafter referred to as
 
 the "Agreement") governs the relation between
 
-“Selectel”, Co. Ltd., with principal state registration
+Joint Stock Company “Selectel” (JSC “Selectel”),
 
-number 1089847357126, hereinafter "Contractor",
+with principal state registration number
 
-and you – general public (individuals and legal
+1247800067790, hereinafter "Contractor", and you
 
-entities) which wants to use functionality and
+– general public (individuals and legal entities)
 
-services provided by the Contractor (hereinafter
+which wants to use functionality and services
 
-referred to as "You", the "Customer").
+provided by the Contractor (hereinafter referred to
+
+as "You", the "Customer").
 
 
 
@@ -184,6 +182,10 @@ using the services of the Contractor.
 
 
 
+ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ TERMS AND DEFINITIONS
+
+
+
 2 Customer's Personal Account is replenished by either prepayment offset, or mutual offset of the sum on the Referral rubles
 
 balance to the Customer's Personal Account under the conditions of the referral program.
@@ -197,10 +199,6 @@ balance to the Customer's Personal Account under the conditions of the referral 
 
 
 1 / 27
-
-ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ TERMS AND DEFINITIONS
-
-
 
 В настоящем Соглашении могут
 
@@ -404,6 +402,10 @@ services chosen and joined by the Customer.
 
 услугами Исполнителя, предоставления
 
+информации, необходимой для использования
+
+сервисов и услуг. Исполнитель предоставляет
+
 
 
 Customer Profile Control Panel, Control Panel
@@ -416,13 +418,13 @@ management of the Contractor's functionality and
 
 services, provision of information required for
 
+usage of functionality and services. The
+
+Contractor provides the Customer with access to
+
 
 
 2 / 27
-
-информации, необходимой для использования
-
-сервисов и услуг. Исполнитель предоставляет
 
 Заказчику доступ к Панели управления после
 
@@ -431,10 +433,6 @@ services, provision of information required for
 записи.
 
 
-
-usage of functionality and services. The
-
-Contractor provides the Customer with access to
 
 the Control Panel after the Customer has been
 
@@ -636,11 +634,17 @@ and promotions, planned works, and other offers.
 
 
 
-3 / 27
-
 1.1. Предметом Соглашения является
 
 использование сервисов и услуг
+
+1.1. The subject of the Agreement is the
+
+Customer usage of the Contractor
+
+
+
+3 / 27
 
 Исполнителя Заказчиком, в том числе
 
@@ -671,10 +675,6 @@ https://selectel.ru/about/documents/.
 сайте https://selectel.ru/prices/.
 
 
-
-1.1. The subject of the Agreement is the
-
-Customer usage of the Contractor
 
 functionality and services, including hosting
 
@@ -852,9 +852,11 @@ compensation.
 
 
 
-4 / 27
+2.1.4. Исполнитель вправе приостановить 2.1.4. The Contractor has the right to stop
 
-2.1.4. Исполнитель вправе приостановить
+
+
+4 / 27
 
 оказание Услуг, заблокировать доступ в
 
@@ -869,8 +871,6 @@ compensation.
 следующих случаях:
 
 
-
-2.1.4. The Contractor has the right to stop
 
 Servicing, lock Control Panel access,
 
@@ -1052,6 +1052,8 @@ usage of individual services.
 
 Заказчиком всех своих обязательств по
 
+Соглашению.
+
 
 
 Suspending the Service provision (until the
@@ -1067,10 +1069,6 @@ obligations under the Agreement.
 
 
 5 / 27
-
-Соглашению.
-
-
 
 2.1.5. Время приостановления оказания
 
@@ -1256,6 +1254,10 @@ notice to the Customer.
 
 данными в Панели управления и
 
+данными, полученными от
+
+Федеральной налоговой службы
+
 
 
 2.1.7. The Contractor has the right to make
@@ -1270,19 +1272,13 @@ data in the Control Panel and the data
 
 received from the Federal Tax Authority of
 
+the Russian Federation.
+
 
 
 6 / 27
 
-данными, полученными от
-
-Федеральной налоговой службы
-
 Российской Федерации.
-
-
-
-the Russian Federation.
 
 
 
@@ -1486,11 +1482,17 @@ https://selectel.ru/about/documents/.
 
 
 
-7 / 27
-
 2.2.7. Заказчик обязуется размещать на
 
 оборудовании Исполнителя
+
+2.2.7. The Customer undertakes to only place
+
+licensed software on the Contractor's
+
+
+
+7 / 27
 
 исключительно лицензионное
 
@@ -1501,10 +1503,6 @@ https://selectel.ru/about/documents/.
 за его размещение и использование.
 
 
-
-2.2.7. The Customer undertakes to only place
-
-licensed software on the Contractor's
 
 equipment and shall be independently
 
@@ -1678,6 +1676,10 @@ legal entity.
 
 соответствующей записи в Единый
 
+государственный реестр
+
+индивидуальных предпринимателей.
+
 
 
 2.2.11. The Customer, being a private
@@ -1695,12 +1697,6 @@ Register of Private Entrepreneurs.
 
 
 8 / 27
-
-государственный реестр
-
-индивидуальных предпринимателей.
-
-
 
 3. СТОИМОСТЬ УСЛУГ, ПОРЯДОК
 
@@ -1884,6 +1880,10 @@ for the Services.
 
 переходе на электронный
 
+документооборот документы
+
+рассылаются в течение 10 (десяти)
+
 
 
 3.5. The Contractor shall issue an invoice and a
@@ -1906,21 +1906,15 @@ calendar month. When the Parties transfer
 
 to electronic document management, the
 
+documents shall be sent within 10 (ten)
+
 
 
 9 / 27
 
-документооборот документы
-
-рассылаются в течение 10 (десяти)
-
 рабочих дней после завершения
 
 отчетного периода.
-
-
-
-documents shall be sent within 10 (ten)
 
 business days after the end of the reporting
 
@@ -2120,6 +2114,8 @@ reporting period
 
 течение всего срока действия
 
+Соглашения.
+
 
 
 3.8. If the Customer is not a resident of the RF,
@@ -2133,10 +2129,6 @@ kopecks during the Agreement term.
 
 
 10 / 27
-
-Соглашения.
-
-
 
 3.9. Объем потребленных Услуг
 
@@ -2338,6 +2330,10 @@ Account.
 
 управления. Оказание Услуги
 
+начинается с момента ее подключения
+
+Исполнителем при наличии
+
 
 
 3.14. The recording of the Services consumed by
@@ -2352,13 +2348,13 @@ the Services are carried out solely by the
 
 Customer in the Control Panel. The
 
+rendering of the Service begins from the
+
+moment of its connection by the Contractor
+
 
 
 11 / 27
-
-начинается с момента ее подключения
-
-Исполнителем при наличии
 
 достаточных средств на Лицевом счете
 
@@ -2373,10 +2369,6 @@ Customer in the Control Panel. The
 использования отдельных сервисов.
 
 
-
-rendering of the Service begins from the
-
-moment of its connection by the Contractor
 
 if there are enough amounts in the
 
@@ -2544,6 +2536,10 @@ unused months.
 
 Автопополнения баланса, Заказчик
 
+соглашается с безакцептным
+
+автоматическим списанием денежных
+
 
 
 3.17. The Customer shall have the right to
@@ -2580,13 +2576,13 @@ Payment, the Customer consents to the
 
 automatic direct debiting of funds from the
 
+Customer's bank account. Disabling the
+
+Scheduled Payment and removing bank
+
 
 
 12 / 27
-
-соглашается с безакцептным
-
-автоматическим списанием денежных
 
 средств с банковского счета Заказчика.
 
@@ -2599,10 +2595,6 @@ automatic direct debiting of funds from the
 самостоятельно в Панели управления.
 
 
-
-Customer's bank account. Disabling the
-
-Scheduled Payment and removing bank
 
 card information shall independently be
 
@@ -2774,6 +2766,10 @@ prohibited in the Contractor’s Data Center.
 
 размещать фирменное наименование,
 
+коммерческое обозначение и товарные
+
+знаки Заказчика в публичных
+
 
 
 4.2. The Customer shall give their consent for
@@ -2790,13 +2786,13 @@ the right to place the Customer's brand
 
 name, commercial designation and
 
+trademarks in public sources and on the
+
+Contractor's website. Such use shall not
+
 
 
 13 / 27
-
-коммерческое обозначение и товарные
-
-знаки Заказчика в публичных
 
 источниках и на сайте Исполнителя.
 
@@ -2827,10 +2823,6 @@ name, commercial designation and
 почты и/или телефонной связи.
 
 
-
-trademarks in public sources and on the
-
-Contractor's website. Such use shall not
 
 imply disclosure of other details of
 
@@ -2988,6 +2980,10 @@ accordance with the legislation of the RF.
 
 одностороннем порядке, начиная с
 
+даты обнаружения подобного
+
+нарушения, а также потребовать
+
 
 
 4.7. In case of violation of the confidentiality
@@ -3002,13 +2998,13 @@ Services unilaterally, starting from the date
 
 of the discovery of such a violation, as well
 
+as to demand compensation for losses
+
+incurred due to the violation of confidential
+
 
 
 14 / 27
-
-даты обнаружения подобного
-
-нарушения, а также потребовать
 
 компенсации убытков, понесенных
 
@@ -3019,10 +3015,6 @@ of the discovery of such a violation, as well
 информации.
 
 
-
-as to demand compensation for losses
-
-incurred due to the violation of confidential
 
 information by the Customer.
 
@@ -3198,15 +3190,23 @@ case.
 
 
 
-5.5. В случае предъявления к Исполнителю 5.5. In case of getting the complaint and/or
-
-
-
-15 / 27
+5.5. В случае предъявления к Исполнителю
 
 претензий и/или исковых требований от
 
 третьих лиц, а также правообладателей
+
+
+
+5.5. In case of getting the complaint and/or
+
+claims from the third parties, as well as
+
+from right holders (in cases of protection of
+
+
+
+15 / 27
 
 (по делам о защите исключительных
 
@@ -3249,10 +3249,6 @@ case.
 программного обеспечения.
 
 
-
-claims from the third parties, as well as
-
-from right holders (in cases of protection of
 
 exclusive rights to objects illegally posted
 
@@ -3612,6 +3608,8 @@ resources.
 
 Заказчику, если таковые явно не
 
+описаны в Соглашении.
+
 
 
 6.5.5. For changing the properties, functions, and
@@ -3620,13 +3618,11 @@ quality of the Services provided to the
 
 Customer, if those are not explicitly
 
+described in the Agreement.
+
 
 
 17 / 27
-
-описаны в Соглашении. described in the Agreement.
-
-
 
 6.5.6. За качество, безошибочность и
 
@@ -3820,11 +3816,17 @@ Customer.
 
 
 
-18 / 27
-
 6.6. Исполнитель не отвечает за
 
 содержание информации,
+
+6.6. The Contractor is not responsible for the
+
+content of information transmitted by the
+
+
+
+18 / 27
 
 передаваемой Заказчиком по сети
 
@@ -3847,10 +3849,6 @@ Customer.
 и содержание такой информации.
 
 
-
-6.6. The Contractor is not responsible for the
-
-content of information transmitted by the
 
 Customer via the Internet and the
 
@@ -4040,9 +4038,11 @@ and execute the Agreement.
 
 
 
-19 / 27
+7.7. Заказчик подтверждает, что имеет 7.7. The Customer confirms that they have
 
-7.7. Заказчик подтверждает, что имеет
+
+
+19 / 27
 
 надлежащим образом оформленные
 
@@ -4073,8 +4073,6 @@ and execute the Agreement.
 действующего законодательства.
 
 
-
-7.7. The Customer confirms that they have
 
 properly issued licenses, certificates and
 
@@ -4238,15 +4236,15 @@ thereof.
 
 
 
-8. ОБСТОЯТЕЛЬСТВА 8. FORCE MAJEURE
+8. ОБСТОЯТЕЛЬСТВА
+
+НЕПРЕОДОЛИМОЙ СИЛЫ
+
+8. FORCE MAJEURE
 
 
 
 20 / 27
-
-НЕПРЕОДОЛИМОЙ СИЛЫ
-
-
 
 8.1. Стороны не несут ответственности за
 
@@ -4450,9 +4448,11 @@ TERMINATION PROCEDURES
 
 
 
-21 / 27
+9.1. Настоящий Соглашение заключен 9.1. This Agreement is concluded for one year
 
-9.1. Настоящий Соглашение заключен
+
+
+21 / 27
 
 сроком на один год и вступает в силу с
 
@@ -4477,8 +4477,6 @@ TERMINATION PROCEDURES
 не ограничено.
 
 
-
-9.1. This Agreement is concluded for one year
 
 and shall enter into force from the date of
 
@@ -4636,6 +4634,10 @@ deemed accepted by the Customer.
 
 осуществляться, направив Заказчику
 
+письменное уведомление об этом за 15
+
+(пятнадцать) календарных дней.
+
 
 
 9.3. Either Party may terminate this Agreement
@@ -4673,12 +4675,6 @@ advance.
 
 
 22 / 27
-
-письменное уведомление об этом за 15
-
-(пятнадцать) календарных дней.
-
-
 
 9.4. Исполнитель также вправе прекратить
 
@@ -4874,6 +4870,10 @@ and/or the Agreements thereto.
 
 возвращает остаток средств с Лицевого
 
+счета Заказчика. Средства
+
+возвращаются по оригиналу заявления
+
 
 
 9.6. Upon the termination of the Agreement at
@@ -4882,13 +4882,13 @@ the initiative of the Customer, the
 
 Contractor returns the rest amounts from
 
+the Customer's Personal Account. The
+
+amounts to be returned upon the original
+
 
 
 23 / 27
-
-счета Заказчика. Средства
-
-возвращаются по оригиналу заявления
 
 о возврате, в соответствии с
 
@@ -4927,10 +4927,6 @@ Contractor returns the rest amounts from
 на Лицевом счете денежных средств.
 
 
-
-the Customer's Personal Account. The
-
-amounts to be returned upon the original
 
 application for the return, in accordance
 
@@ -5086,6 +5082,10 @@ their authorized representatives.
 
 мнению Заказчика, нарушил
 
+Исполнитель. Сторона, получившая
+
+претензию, обязана направить ответ в
+
 
 
 10.2. Pre-action dispute settlement procedure
@@ -5112,15 +5112,9 @@ received the claim shall send a response
 
 24 / 27
 
-Исполнитель. Сторона, получившая
-
-претензию, обязана направить ответ в
-
 течение 10 (десяти) рабочих дней с
 
 даты ее получения.
-
-
 
 within 10 (ten) business days from the date
 
@@ -5306,6 +5300,8 @@ received through the Ticket-system, etc.
 
 оригинала уведомления по почте или
 
+курьером, Исполнитель – путем
+
 
 
 11.4. In case of change of reference details, the
@@ -5324,11 +5320,11 @@ notice by mail or courier The Contractor -
 
 by placing the relevant information on the
 
+Contractor’s website and/or in the Control
+
 
 
 25 / 27
-
-курьером, Исполнитель – путем
 
 размещения соответствующей
 
@@ -5343,8 +5339,6 @@ by placing the relevant information on the
 Тикет-систему.
 
 
-
-Contractor’s website and/or in the Control
 
 Panel, and/or sending a notification by
 
@@ -5518,6 +5512,8 @@ relevant agreements.
 
 недействительными, не имеющими
 
+юридической силы, такая
+
 
 
 12.2. In the event that one or more provisions of
@@ -5528,11 +5524,11 @@ have no legal effect, such invalidity does
 
 not affect the validity of the Agreement as a
 
+whole or the validity of any other provisions
+
 
 
 26 / 27
-
-юридической силы, такая
 
 недействительность не оказывает
 
@@ -5548,8 +5544,6 @@ not affect the validity of the Agreement as a
 
 
 
-whole or the validity of any other provisions
-
 of the Agreement that remain in force.
 
 
@@ -5558,9 +5552,9 @@ of the Agreement that remain in force.
 
 
 
-Наименование / Name ООО “Селектел” / “Selectel” Co. Ltd.
+Наименование / Name АО “Селектел” / JSC “Selectel”
 
-ИНН/КПП / TIN(INN)/TC (KPP) 7842393933/ 781001001
+ИНН/КПП / TIN(INN)/TC (KPP) 7810962785 / 781001001
 
 Юридический адрес /
 
@@ -5584,11 +5578,9 @@ Address for service
 
 Мailing address
 
-196006, г.Санкт-Петербург, а/я No56, ООО
+196006, г.Санкт-Петербург, а/я No56 /
 
-"Селектел" / “Selectel” Co. Ltd., mailbox No56,
-
-Saint Petersburg, 196006
+mailbox No56, Saint Petersburg, 196006
 
 Расчетный счет / Settlement account 40702810603000014048
 
