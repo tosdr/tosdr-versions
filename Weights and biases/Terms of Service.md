@@ -6,7 +6,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms)
@@ -14,7 +13,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms)
@@ -22,7 +20,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
 * [Master Service Agreement](https://wandb.ai/site/terms)
@@ -30,7 +27,6 @@
 * [Support Policy](https://wandb.ai/site/support-policy)
 * [DPA](https://wandb.ai/site/dpa)
 * [Privacy Policy](https://wandb.ai/site/privacy)
-* [Subprocessors](https://wandb.ai/site/wb-subprocessors)
 
 Master Service Agreement
 ========================
