@@ -2,7 +2,7 @@
 
 [Skip to Content](#page)
 
-[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://www.reddit.com/r/vpncomparison/)
+[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
 
 [Tom Spark Reviews](https://www.vpntierlist.com/)
 
@@ -18,7 +18,7 @@
 
 Open Menu Close Menu
 
-[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)[](https://www.reddit.com/r/vpncomparison/)
+[](https://twitter.com/TomSparkReviews)[](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
 
 [Tom Spark Reviews](https://www.vpntierlist.com/)
 
@@ -47,8 +47,6 @@ Open Menu Close Menu
 [](https://twitter.com/TomSparkReviews)
 
 [](https://www.youtube.com/channel/UCXJWKuGh0qedrYviGEJmlWw)
-
-[](https://www.reddit.com/r/vpncomparison/)
 
 Privacy policy.
 ---------------
