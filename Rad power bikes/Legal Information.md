@@ -1,10 +1,8 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                    Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                       [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                              Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                        [Skip to content](#main)
 
 [](# "Previous")
 
-* [4th of July Savings: Up to $500 off. Shop now thru 7/7.](https://www.radpowerbikes.com/pages/sales-deals "4th of July Savings: Up to $500 off. Shop now thru 7/7.")
-    
-* [Due to a new tariff, prices on select models go up 7/1. Order now & save.](https://www.radpowerbikes.com/collections/2024-price-increase "Due to a new tariff, prices on select models go up 7/1. Order now & save.")
+* [Up to $500 off ebikes & passenger gear. Shop Now.](https://www.radpowerbikes.com/pages/sales-deals "Up to $500 off ebikes & passenger gear. Shop Now.")
     
 
 [](# "Next")
@@ -157,10 +155,10 @@
     
     * [Gift Cards](https://www.radpowerbikes.com/products/gift-card "Gift Cards")
     
-    [Up to 40% off select accessories
-    --------------------------------
+    [Give your kids a comfortable, secure ride with the all-new Caboose.
+    -------------------------------------------------------------------
     
-    Shop Sale](https://www.radpowerbikes.com/collections/accessory-deals "Shop Sale")
+    Shop RadRunner Caboose](https://www.radpowerbikes.com/products/radrunner-caboose "Shop RadRunner Caboose")
     
 * [Parts](https://www.radpowerbikes.com/collections/replacement-parts "Parts") [ ] 
     
@@ -333,7 +331,7 @@ Your cart is empty
 
 Close Icon
 
- 
+   
 
 [Terms of Purchase](https://www.radpowerbikes.com/pages/terms-of-purchase "Terms of Purchase")
 
@@ -362,229 +360,228 @@ Privacy Notice
 
 **Rad Power Bikes Inc.**
 
-_Last updated July 20, 2020_
+_Last updated June 24, 2024_
 
-Rad Power Bikes Values Your Privacy  
+At Rad Power Bikes, we love learning about our riders – who you are, where you bike, and the adventures you’ve had riding Rad. But we want to learn more about you in a way that’s fair and honest, which is why we follow privacy guidelines. We’re guessing reading a privacy policy isn’t your idea of a good time and that you’d rather be riding than read a bunch of legalese. So, we aimed to keep our Privacy Policy as straight-forward as possible about the data we may collect about you and your rights and choices about what we can or cannot do with that information. We encourage you to read this Privacy Policy. But if you’d rather get the highlight reel version, the TLDR version is [here](#privacy-101).
 
---------------------------------------
+We’re not into hiding the ball, so if you have any questions or want to contact us about our Privacy Policy, you can reach us by email at [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com). If you prefer snail mail, please send your communication [here](#contact-us); or if you’re a phone person, our toll-free phone number is (800) 939-0310.
 
-At Rad Power Bikes, we take your personal privacy seriously and recognize that you expect privacy and security for all your personal information. We understand the need to protect and safeguard sensitive information about you, and we maintain strict standards and procedures designed to prevent misuse of your information.
+To make sure we’re on the same page, when we refer to “Rad,” “RPB,” “we,” “us,” “our,” etc., we mean Rad Power Bikes Inc. The “we” does not include our independent third-party business partners or retail sellers who have their own privacy policies and practices.    
 
-We encourage you to read this privacy notice (the “**Privacy Notice**”) carefully to understand the information we collect and what we do with it.
+Privacy 101 – the TLDR version  
 
-Rad Power Bikes Inc. and its affiliates and subsidiaries (collectively “**RPB**,” “**us**,” “**our**,” or “**we**”) are responsible for your information, and this Privacy Notice constitutes an agreement between you and RPB. When you access and use our United States website (the “**Site**”) you acknowledge that you have read this Privacy Notice, understood it, and that you do not object to our processing activities. Use of our Canadian website ([www.radpowerbikes.ca](http://www.radpowerbikes.ca/)) or our European Union website ([www.radpowerbikes.eu](http://www.radpowerbikes.eu/)) are subject to their respective Privacy Notices.
+---------------------------------
 
-This Privacy Notice describes how RPB collects, protects, uses, and discloses information and data collected and created in the course of your access to and use of the RPB Site, products, and services, as well as your interactions with RPB via telephone, through mail or at our physical locations. It also explains what your rights are, which may differ depending on where you are located.
+**We’ll cut to the chase about what a lot of people may worry about: We do not sell your information and you can change cookie preferences to ask us not to share your information (but keep in mind, sharing helps us cater our messages or content that are of interest to you).**
 
-At certain points in your interaction with the Site, certain third party service providers engaged by RPB (“**Service Providers**”) may be responsible for collecting information pertaining to you, your interactions with the Site, your preferences, your settings, or other general information. At other points you will need to submit various pieces of information to a Service Provider in order to take advantage of services offered by RPB, including but not limited to making a purchase, financing a purchase, applying for employment, or entering a contest. This Privacy Notice will identify instances where your information is being collected, transmitted or stored by a Service Provider, and in such instances, your information will become subject to terms and conditions and a privacy policy operated by that Service Provider. Please see the “Access to Your Information” section below for more information about our Service Providers.
+1. **Information We May Collect.** When you use our websites ([www.radpowerbikes.com](http://www.radpowerbikes.com/ "Rad Power Bikes US site") (US); [www.radpowerbikes.ca](http://www.radpowerbikes.ca/ "Rad Power Bikes Canada Site") (Canada); [www.radpowerbikes.eu](http://www.radpowerbikes.eu/ "Rad Power Bikes EEA/UK/Switzerland Site") (EEA/UK/Switzerland) (together, “Websites”), purchase one of our bikes, or use any of our services (e.g., repairs) we or a third party may collect:
+    * Name
+    * Email address
+    * Physical address
+    * Phone number
+    * Credit card or other form of payment information
+    * Demographic information, such as gender
+    * Social Security Number
+    * Social media or review comments
+2. **How We Use Your Personal Information**
+    * To perform a service for you, e, g., satisfy an online order
+    * To verify your identify
+    * To communicate with you about services or products
+    * To complete transactions for which personal information is collected
+    * To secure, maintain and improve our Websites for you and other customers
+    * To comply with laws
+    * For any other purpose to which you have expressly consented
+3. **Your Rights Regarding Your Personal Information.** Your data is exactly that – yours. And you have rights about what we may or may not do with your personal data, including:
+    * Right to know or access the personal information collected
+    * Right to request deletion of your personal information
+    * Right to correct your personal information
+    * Right to opt-out of selling, sharing, or provide targeted advertising
+    * Right to withdraw your consent
+    * Right to nondiscrimination
+    * Right to receive the personal information that we process
+    * Right to limit the use and/or disclosure of personal information and/or sensitive personal information
+    * Right to obtain a list of third parties that may have a right to get information from us
+4. **Use of Cookies**. Sadly, we don’t mean the stuff that comes out of an oven; cookies refer to small text files that websites send to your browser (e.g., Chrome, Safari) when you visit a website. You can choose to select all, none, or some of the different type of cookies we may use:
 
-Consent  
+* * Strictly necessary
+    * Preference
+    * Performance and analytics
+    * Advertising
+    * Social Media
+    * Tracking pixels (a tiny digital image on a site that can “track” when a user visits a website or opens an email)
 
-----------
+For those of you who want to get into the nitty gritty or just want some material to help you fall asleep, please read on.
 
-By accessing this Site, registering with RPB, creating a user profile on our Site, or submitting information to RPB, you consent to this Privacy Notice and the collection and use of information as described below. We will take steps to notify you and confirm that you agree at different stages of collecting information. If you do not agree with our policies and practices, you may not be able to access or benefit from certain portions of this Site.
-
-Scope  
-
---------
-
-Please be advised that this Privacy Notice applies to information that we collect:
-
-* when you visit the Site.
-* when you submit your information to us on the Site.
-* when you create or use a user profile on the Site.
-* when we communicate with you through email and other communications.
-* through Service Providers that we work with to provide our services.
-* by any other means over the course of your use of our services.
-
-How We Collect Your Information  
-
-----------------------------------
-
-The only personal information we collect about you is either provided by you voluntarily or as described below under “Information Collected from Your Use of the Site.” RPB does not collect biometrics or sensitive information relating to health, race, gender, or other special category data.
-
-**Information We Collect**. If you access or submit an inquiry through our Sites, set up an account, subscribe to a service, register to receive marketing materials, participate in contests, sweepstakes or promotions, upload a photo, or receive other services, we may ask you to provide certain personal information such as your name, email address, phone number, location, and zip code, and other personally identifiable information (“**Personal Information**”).
-
-We take reasonable steps to make sure that we only ask for the information we need for the purposes listed in “How We Use Your Information”. We also take steps to ensure that your contact information is accurate, complete, current, and otherwise reliable. We will only collect and process your Personal Information if we
-
-1. (a) first obtain your consent;
-2. (b) have a legitimate interest in collecting and processing the data for our direct marketing purposes; or where required or permitted by law.
-
-We may periodically supplement the Personal Information we collect from you with personal or non-personal information about you or another person obtained from companies with whom we have marketing or other business relationships and other third-party sources. Any aggregate information that is linked or linkable to your Personal Information will be treated by us as Personal Information under this Privacy Notice.
-
-**Children Under Age 16**. RPB products and services are designed for adults, not children. As such, this Site is not intended for children under 16 years of age. No one under age 16 may provide any personal information to or on the Site. If you are under 16, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us.
-
-**Payment Information**. RPB does not collect or maintain any payment information. When you place an order for an ebike or other products all payments are processed through our third party payment processor, which as of the date of this Privacy Notice, is Shopify Inc. When you provide payment information on this Site, it will be submitted through Shopify’s payment portal. All payment information and transactions are subject to Shopify’s privacy policy and terms of use. If there is any trouble processing an order, we will use your contact information to contact you to alleviate such trouble. We do not share your personal and financial information with any third parties, except as specified in this Privacy Notice.
-
-RPB also works with Service Providers to provide convenient financing options for the purchase of our ebikes. When you choose to finance an ebike purchase you will be redirected to a Service Providers’ site or portal in order to submit the necessary information to obtain financing. RPB has no right or ability to alter a decision regarding financing, and does not have access to any information related to financing, such as your credit score. All requirements for financing options are determined by the applicable Service Provider.
-
-**Information Collected from Your Use of the Site**. We or a Service Provider may use Site analytics tools or other licensed technologies from third parties to collect information about you from your use of this Site. This information may be combined with other information that you choose to submit to us. This information may also be merged into aggregate information about site visitors and traffic. We also may use third-party Service Providers’ analytics tools to distinguish and analyze user behavior. Here are the details of how we do this and the reasons why:
-
-* **Log Files**. We or a Service Provider may collect anonymous and technical information from your computer, including your Internet Protocol address, data about your computer or other device, the type of browser or operating system your device uses, the programs, services, and version of software you use, and the address of any linking site, when you request a web page while visiting the Site. We use this information for statistical purposes, to ensure that our pages on our Site will appear and function appropriately on your computer, to determine which site referred you to our Site, and to personalize your access to our Site or conduct our own analyses and research to improve our programs, products, services, and content. We use Service Providers to collect and analyze information, and we reserve the right to change which Service Providers collect and analyze said information in the future. If you do not agree with RPB or its Service Providers collecting and using your anonymous and technical information as described in this paragraph, your choice is discontinue use of the Site or contact us as described under “Controlling Your Personal Information.”
-* **Cookies**. Cookies are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. RPB and our Service Providers use cookies to track use of our Sites and online services. Cookies may also be used to monitor traffic, improve the Sites, make the Sites easier and/or more relevant for your use, and improve the performance of our advertising on other Sites. You can opt out of accepting cookies by adjusting your browser settings to not accept cookies or to notify you when you are sent a cookie. However, certain features of our Sites or other services may not work if you delete or disable cookies. For more information on cookies and how to disable them on your computer please visit: [https://www.consumer.ftc.gov/articles/0042-online-tracking](https://www.consumer.ftc.gov/articles/0042-online-tracking).
-
-Generally-speaking, we use 1st and 3rd-party session and persistent cookies. The cookies set by us are called “1st-party cookies” and the cookies set by our Service Providers are called “3rd-party cookies.” Session cookies are temporary cookies that remain on your device until you close your web browser. Many session cookies are essential to make our Site work correctly, as they typically enable you to move around our Site and use our features. Persistent cookies remain on your device after you close your browser or until you manually delete it (for the former, the amount of time the cookie remains on your device will depend on the duration or “lifetime” of the specific cookie and your browser settings). Persistent cookies help us recognize you as an existing user of our Site, so it’s easier and convenient to return to our Site or interact with our services without signing in again. In addition, persistent cookies also help us recognize you when you view a resource belonging to our Site from another website or app (such as an advertisement) and help us record information about your web browsing habits during the lifetime of the persistent cookie.
-
-* Example of cookies we use:
-* Strictly Necessary Cookies: these cookies are strictly necessary for our Site to function properly and ensure our Services are accessible to you (e.g., log-in functionality, load balancing, navigation, filling in forms). The Site cannot function properly without these cookies.
-* Preference Cookies: enable our Site to provide enhanced features or settings based on your previous visits and selections, such as language preferences, remembering log-in details, remember searches and filter settings, and other conveniences.
-* Statistic Cookies: Statistic cookies enable us to understand how visitors interact with our Site by collecting and reporting information anonymously.
-* Social Media Cookies: These cookies are used to allow you to share or like our pages and content through third-party social media websites.
-* Marketing Cookies: Marketing cookies are used to track visitors across our Site. The intention is to display ads that are relevant and engaging for the individual user.
-* **Web Beacons**. Some pages of the Site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us or a Service Provider, for example, to count users who have visited those pages or opened an email and for other related Site statistics (for example, recording the popularity of certain Site content and verifying system and server integrity).
-* **Social Networking**. If you access any of our Sites from a social networking site (e.g., Facebook or Twitter), or if you otherwise agree to associate your account with us through a social networking site, we may also receive Personal Information about you from such social networking site. Our receipt of your Personal Information via a social networking site is governed by the terms of use and privacy policy of the social networking site. For marketing purposes only, we may retain this information with the information we collect from you directly.
-
-**Information We Collect Offline**. We collect information when you visit a RPB retail showroom to make a purchase/payment, fill out a registration agreement, take a tour, test ride an ebike or submit an inquiry at such retail showroom. This may include:
-
-* Your personal contact information, such as your name, address, email address, and phone number.
-* Your sensitive personal information, such as your emergency contact and release information, driver’s license number, and employer information.
-* Your financial information as needed to process a payment.
-* Video recordings of your entrance to and exit from our retail showroom.
-* Information collected offline by third parties in order to facilitate services, such as credit card, banking, or other payment-related information.
-
-How We Use Your Information  
-
-------------------------------
-
-We use your Personal Information for the purposes described at the time of collection and to manage the internal operations and security of our Site consistent with this Privacy Notice. We may also use your Personal Information for analytical and direct marketing purposes, such as:
-
-* Sending you periodic email and newsletter communications;
-* Confirming, sending, and tracking your order, subscription, or registration;
-* Communicating with you about your order, subscription, or registration;
-* Responding to customer inquiries;
-* Sending you surveys and other communications;
-* Analyzing preferences, trends, and statistics;
-* Informing you of our new products, services, and offers; and
-* Providing you with other information from and about RPB.
-
-We will only contact you in ways compatible with your communications choices. However, even if you have opted-out of receiving marketing communications from us, we may need to contact you to address questions or issues specific to the services you have requested.
-
-**Other Ways We Might Use Your Information**. In addition to the specific uses and purposes described above, we might use information that we collect about you or that you provide to us, including any Personal Information:
-
-* To present our Site and its contents to you.
-* To provide you with information, products, or services that you request from us.
-* To allow you to participate in interactive features on our Site or to notify you about changes to our Site or any products or services we offer or provide though it.
-* To provide you with other information from and about RPB or a business or organization with which we are associated.
-* To protect your privacy and enforce this Privacy Notice;
-* If we believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to RPB, or to others.
-* To fulfill any other purpose for which you provide your information.
-* To analyze preferences, trends, and statistics.
-* To protect our rights and property.
-* To comply with a law, regulation, legal process or court order.
-* For any other purpose with your consent.
-
-Access To Your Information  
-
------------------------------
-
-We do not share, sell, rent, or transfer your personal information other than as described in this Privacy Notice. Your information will be accessible to RPB employees who are trained to comply with our internal policies for handling Personal Information and assisting you in exercising your legal rights over your personal information.
-
-Service Providers may also have access to your personal information while they are carrying out their services. However, we require all Service Providers to maintain confidentiality standards that are commercially reasonable to ensure the security of your Personal Information.
-
-We allow some Service Providers to assist us with behavioral advertising by collecting and analyzing certain information when you visit our Sites (e.g., click stream information, browser type, time and date, subject clicked or scrolled over). These Service Providers typically use a cookie or third party web beacon to collect this information. You can find more information about opting out of behavioral advertising by visiting [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) or [www.aboutads.info/choices/](http://www.aboutads.info/choices/).
-
-**Disclosure of Your Information**. We will only disclose, sell, or share your Personal Information or other information:
-
-* **To Service Providers**. We may disclose, sell or share Personal Information to one or more Service Providers with which we have contracted to provide services to us or to offer the services you have requested from us. We may also disclose Personal Information to one or more Service Providers who are interested in providing services or products to you. We do not control how these Service Providers use or disclose your Personal Information.
-* **To Affiliated Businesses**. We may disclose, sell or share Personal Information to one or more third parties that have contracted with us (“**Affiliated Businesses**”) specifically in order to provide you with the services you have requested. The Affiliated Businesses may contact you directly by email, telephone, regular mail, in person visits or other means. We do not control how these Affiliated Businesses use or disclose your Personal Information.
-* **To Affiliates**. We may disclose some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under common control with us, in which case this Privacy Notice will apply to the same extent it applies to RPB.
-* **For Our Internal Analyses and Operations**. We may disclose Personal Information to third party vendors for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic trends among our users. The use and disclosure of your Personal Information by these third parties is restricted to performance of such tasks and subject to confidentiality.
-* **For Legal and Other Compliance**.We may disclose Personal Information when we believe it is appropriate to:
-    1. (a) comply with the law,
-    2. (b) enforce or apply this Privacy Notice or our other policies or agreements,
-    3. (b) protect our or our users’ rights, property or safety,
-    4. (c) protect our users from fraudulent, abusive or unlawful use of, our Site, or
-    5. (d) if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
-* **As Part of Business Transfers**. We may disclose Personal Information as part of any merger, acquisition, debt financing, sale of company assets or other business transaction.
-* **As Aggregated Information**. We may share or sell aggregated, anonymous information to our advertisers, business partners, and other third parties that includes or is based on information about you. We take technical and organizational measures to anonymize your information and combine it with other users’ information so that it does not directly identify you. This information may be used by those third parties for marketing, promotional or statistical purposes. We do not limit the third parties’ use of the aggregated information.
-
-Security  
+CONTENTS  
 
 -----------
 
-It is RPB’s policy to treat your Personal Information with complete confidentiality. We employ commercially appropriate and reasonable safeguards both online and offline to maintain the security, confidentiality, and integrity of information that we collect about you. We maintain physical, electronic and procedural security measures to safeguard your non-public personal information. We update and test our technology to improve the protection of our information about you and to assure the integrity of that information.
+[What this Privacy Policy Covers](#what-this-privacy-policy-covers)
 
-We educate our employees about the importance of confidentiality and customer privacy through standard operating procedures and special training programs. We take appropriate disciplinary measures to enforce employee privacy practices.
+[Information You Provide to Us](#information-you-provide-to-us)
 
-Please note, however, that no transmission of data over the internet is 100% secure. While we employ reasonable measures to protect your Personal Information, we cannot guarantee that unauthorized third parties will not defeat those measures or use nonpublic Personal Information for improper purposes. We are not responsible for circumvention of any privacy settings or security measures contained on the Site or for actions of third parties. The safety and security of your information also depends on you, and you are responsible for keeping your password confidential. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place. All Internet users should take care with how they handle and disclose their personal information.
+[Information We May Collect When You Access Our Websites](#information-we-may-collect)
 
-Please refer to the Federal Trade Commission’s Site at [http://www.ftc.gov/bcp/menus/consumer/data.shtm](http://www.ftc.gov/bcp/menus/consumer/data.shtm) for information about how to help protect yourself against identity theft.
+[Information We May Receive About You From Third Parties](#information-we-may-receive)
 
-Third Party Sites & Advertising  
+[How Rad Uses Your Information](#how-rad-uses-your-info)
+
+[How We Protect Your Radness](#how-we-protect)
+
+[Choices and Rights Regarding Your Information](#choices-and-rights)
+
+[Changes to this Privacy Policy](#changes)
+
+[Personal Information of Children](#childrens-personal-information)
+
+[Do Not Track Signals](#do-not-track-signals)
+
+[California’s Shine the Light Policy](#california-privacy-rights)
+
+[Privacy Rights for the European Economic Area, United Kingdom, and Switzerland](#privacy-rights)
+
+[Contact Us](#Contact-Us)
+
+What This Privacy Policy Covers  
 
 ----------------------------------
 
-This Privacy Notice applies only to information collected by RPB. We may provide links to third party sites from our Sites as a service to our users, but we have no ability to control, and we are not responsible for, the privacy and data collection, use, and disclosure practices of third party sites. When you click on links that take you to external sites, you will be subject to their privacy policies and practices and not ours. We encourage you to review and understand the privacy policies of such sites before providing them with any information.
+To use some of our products and services, you may provide us with personal information. Personal Information means information that identifies, relates to, describes, or is capable of being associated with or linked directly or indirectly to a specific person or household. For our customers who are citizens and residents of the EEA, UK, or Switzerland, personal information has the same meaning, but does not include information that could identify a household. Anonymized information – meaning, information that cannot identify or be linked to a specific person or household – isn’t personal information. Anonymized information means personal data where specific identifying information is removed (e.g., stripped of identifying information in a way that someone could not reverse engineer it to make it personally identifiable).  
 
-Third party advertisers or ad networks may use cookies or other technologies on our Sites for various purposes, including measuring the effectiveness of their ads and analyzing and personalizing ads or other content delivered to you. We have no ability to control the privacy and data collection, use, and disclosure practices of such third parties’ sites and the privacy policies of such sites may differ from the Sites. Therefore, we encourage you to review and understand the privacy policies of such sites before providing them with any information.
+This Privacy Policy applies to:
 
-Controlling Your Personal Information  
+1. Information you provide to us;
+2. Information we may collect when you access our Websites;
+3. Information we receive from third parties
 
-----------------------------------------
+Information You Provide to Us  
 
-**Opting Out of Communications**. You can modify or limit the communications we send to you by clicking the “unsubscribe” link at the bottom of any of our emails. You may also contact us directly toll free at (800) 939-0310 or by email at privacy@radpowerbikes.com. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you like, you may use one of the following statements in your message to us:
+--------------------------------
 
-* I prefer not to receive email advertisements, such as updates regarding products and services, special promotions, or upcoming events.
-* I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions, or upcoming events.
+When you interact with Rad’s Websites and/or make use of our services, you share personal information. Personal Information or personal data means information that identifies, relates to, describes, or is capable of being associated with or linked directly or indirectly to a specific individual or household. The categories/sources of personal information Rad may collect from or about you include:
 
-**Your rights**. Depending on applicable law, you have the right to submit a complaint or object to our collection and use of your information at any time, or to require us to review, transmit, change, or delete your information that we have collected and retained. We will fulfill your request to exercise any of these rights within the applicable time period subscribed by such laws. You can exercise these rights, express concerns, or obtain additional information about the use of your personal information by contacting us as outlined below.
+* **Contact Information.** When you purchase a Rad bike online or in-store, perform a test ride, create an account on our Websites ([https://www.radpowerbikes.com](https://www.radpowerbikes.com/ "Rad Power Bikes US Site"); [https://radpowerbikes.ca](https://radpowerbikes.ca/ "Rad Power Bikes Canada Site"); and [https://radpowerbikes.eu](https://radpowerbikes.eu/ "Rad Power Bikes European Site")), participate in our contests/sweepstakes, use our customer service options, sign up for email notices or promotions, or register your Rad bike, you may provide certain personal contact information such as:
+    * First and last name
+    * Home or mailing address
+    * Email address and telephone number
+    * Certain financial information, such as debit/credit card information
+    * Emergency contact information (for example, if you do a test ride). Please note, if you submit information about other people to us or our service providers in connection with your interactions with us, you’re making the representation that you have the authority to do so and to permit us to use that information per our Privacy Policy)
+* **Government-Issued Identification.** If you take a test ride on a Rad bike or if you submit an application for employment with Rad, we may ask you to provide additional information shown on a government-issued ID documentation such as:  
+    * Birth date
+    * Driver’s license or other government-issued ID (which may reflect information like birth date, gender, or your photo)
+    * Social Security number (we won’t collect this for applicants, only for those who decide to accept an employment offer)
+* **Biometric Data.** If you stop by one of our retail locations with a video security system, we may unintentionally capture your image. Don’t worry, that image will not be posted anywhere and is used for security reasons.
+* **Payment Information.**  If you buy a product at one of our retail stores, we will ask for your payment information to process payment, such as credit card, debit card, or other payment method. For online purchases, you’ll be redirected to a third-party payment processor’s site to process payment. Our third-party payment processors have their own privacy policy which we do not control. We may also make financing options available for purchases. If you decide to get financing, you will be sent to a third-party’s site where they may collect and/or get access to information like your credit rating. We do not control or have access to such information.
+* **Feedback/Customer Service.** If you respond to a survey about your experience with us, offer opinions or reviews on our Websites, or interact with us on social media, we may ask for information like your name and email address, for example. If ever you need help with a product or seek other customer support services such as our online chat feature, we collect data from those interactions. We may also collect purchase history information like products you bought, returned, or exchanged.
+* **Job Applications.** If you apply for a job with us, we will collect information from your application or resume. If you get an offer and become a part of Team Rad, you may additionally be asked to provide information under the “Government-Issued Identification” section above.
 
-**Retention of your Personal Information**. We will only retain your Personal Information for as long as necessary to fulfill the purposes for which it was collected and to the extent permitted or required by law.
+Information We May Collect When You Access our Websites  
 
-**California Privacy Rights**. RPB adopted this section to comply with the California Consumer Privacy Act of 2018 (“**CCPA**”) and applies solely to residents of the State of California (“**California Consumers**”). Without limiting the foregoing, this section provides California Consumers with the disclosures and notices required under the CCPA. Certain exceptions and limitations may apply to a California Consumer’s rights and RPB’s obligations under the CCPA.
+----------------------------------------------------------
 
-* **No Sale of Personal Information**. RPB has not sold any Personal Information in the preceding twelve (12) months. If RPB ever chooses to sell Personal Information, you would have the right to opt out of the sale of your Personal Information.
-* **Right to Disclosure**. California Consumers have the right to request that we disclose certain information about our collection and use of your Personal Information over the past 12 months, such as:
-    * the categories of Personal Information we have collected;
-    * the categories of sources for the Personal Information we have collected;
-    * our business or commercial purpose for collecting or selling that Personal Information;
-    * the categories of third parties with whom we share that Personal Information;
-    * if we sold or disclosed your Personal Information for a business purpose, two separate lists disclosing
-        1. (i) sales, identifying the Personal Information categories that each category of recipient purchased; and
-        2. style="display: contents;"(ii) disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.
-* **Right to Access**. You have the right to request that we provide you with access to specific pieces of Personal Information we have collected about you over the past 12 months (also called a “data portability request”). If you submit a request for such access, we will provide you with copies of the requested pieces of Personal Information in a portable and readily usable format. Please note that RPB is prohibited by law from disclosing copies of certain pieces of Personal Information (e.g., government identification numbers, financial account information, and passwords or security questions and answers) because the disclosure would create a substantial, articulable, and unreasonable risk to the security of the information, our business systems, or your account.
-* **Right to Deletion**. You have the right to request that we delete any of your Personal Information that we collected from you and retained, with certain exceptions. RPB may permanently delete, deidentify, or aggregate the Personal Information in response to a request for deletion. If you submit a right to deletion request, we will confirm the Personal Information to be deleted prior to its deletion, and we will notify you when your request is complete.
-* **Submit a Consumer Privacy Request**. To exercise any of the above rights, please submit a verifiable consumer privacy request to RPB:
-    * by email at [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com).
-    * toll free at (800) 939-0310.
+Rad may collect information when you visit our Websites – even if you don’t make a purchase or set up an account. Rad is not an exception; almost every commercial website uses certain technology that collects information even if you don’t actively provide information. Importantly, **WE DO NOT SELL YOUR INFORMATION.** We use the information we collect to improve our customers’ experience on the Websites, to improve our services and products, and, if applicable, tailor advertising or communications to you.  
 
-Please note that under the CCPA, RPB is only required to respond to two requests for disclosure, access or deletion over a twelve (12) month period.
+| What's Collected | What Is It and What Does It Mean? | How/Why RPB Uses This Information |
+| --- | --- | --- |
+| Log Files | Log files are anonymous and technical information automatically collected from your browser. Log files can include:<br><br>* Your IP address;<br>* Device identifier;<br>* Version of software you use;<br>* The address of linked sites accessed;<br>* Error logs | * Statistical purposes, e.g., number of people who visited our Websites and how long were they on our Websites;<br>* Ensure our Websites appear and function properly on your device;<br>* Determine whether and which other websites directed or referred you to our Websites;<br>* Personalize your access to our Websites;<br>* Research to improve our products, services, and content to avoid errors or other issues you may encounter on our Websites. |
+| Cookies | Cookies are unique alphanumeric identifiers that serve different purposes, such as identifying your device, collecting and storing information about your use of our Websites, and in some cases, other websites.<br><br>Have you noticed that when you open a website and return to it later, you may see ads for things that interest you or products from other sites you visited, or the item you placed (but did not check out) in your virtual shopping cart are still in the cart? Those are cookies at work, collecting information about your online visit to help performance, track your preferences, etc.<br><br>The next time you revisit a website you’ve visited previously with the same device, the cookie information may be sent back to that specific website (called a first party cookie) or sent to another website if the cookie is operated by a third-party (a third-party cookie). Cookie information allows websites to know you’ve been there before and may help provide information more relevant to you.<br><br>Cookies can be session-based or persistent.<br><br>* Session-based: these are temporary cookies that remain on your device until you close your web browser.<br>* Persistent: these cookies remain on a device after the user closes their browser and can remember information, settings, preferences or sign-on credentials that the user previously saved.  <br>    <br>    There are different types of cookies:<br>    <br>* Strictly necessary<br>    <br>* Preference<br>    <br>* Performance and analytics<br>* Advertising<br>    <br>* Social Media | The cookies we collect are listed below. Users can change cookie preferences to limit the types of cookies used. Keep in mind, however, that disabling certain cookies may impact the functionality of our website. The cookies we use include:<br><br>* **Strictly necessary cookies**: ensure our Websites function properly and Services are available to you (e.g., log-in functionality, filling in forms).<br>* **Preference cookies**: provide enhanced features or settings based on your previous visits and selections, e.g., language preferences, remember log-in credentials, remember searches and filter settings.<br>* **Performance and analytics cookies**: enable us to understand how users interact with our Websites by collecting and reporting information anonymously – meaning, these cookies do not save information that allows identification of the individual user.<br>* **Advertising cookies**: enable the tracking of users across different websites to display ads that are relevant and engaging to the individual user.<br>* **Social media cookies**: are like advertising cookies set exclusively by social media platforms to track, e.g., when users share or like our content through third party social media sites. |
+| Pixels and Web Beacons | Pixels (also referred to as web beacons) are small electronic graphics that appear on a website (though it can be clear so it’s practically invisible to the naked eye) with a unique identifier that serves similar functions to cookies. In short, pixels can track a user’s behavior such as links clicked, pages visited, interactions with marketing material, etc. | Rad uses pixels to do things like count the users who have visited our Websites, determine the number of folks who open an email from us, measure ad performance and gather statistics about usage. |
 
-* **Verification**. We cannot respond to your request or provide you with Personal Information unless we can verify your identity and your authority to make the request and confirm that the Personal Information relates to you. A verifiable California Consumer privacy request must:
-    * provide sufficient information that allows us to reasonably verify you are the person about whom we have collected Personal Information or an authorized representative;
-    * describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
-* **Authorized Agent**. You may make a verifiable consumer request on behalf of your minor child. Otherwise, only you, or a person you have designated in writing as your authorized agent or who is registered with the California Secretary of State to act on your behalf, or to whom you have provided power of attorney pursuant to California Probate Code sections 4000 to 4465 (“**Authorized Agent**”) may make a verifiable consumer request related to your Personal Information. If you wish to have an Authorized Agent make a verifiable consumer request on your behalf, they will need to provide us with sufficient written proof that you have designated them as your Authorized Agent, and we will still require you to provide sufficient information to allow us to reasonably verify that you are the person about whom we collected Personal Information.
-* **RPB’s Response**. We endeavor to respond to a verifiable consumer request within 45 days of receipt. If we require more time, we will notify you in writing of the reason and extension period. We will deliver our written response by mail or electronically, at your option. Any disclosures we provide will only cover the 12-month period preceding receipt of the verifiable consumer request. If we cannot comply with part or all of your request, we will explain the reasons in our response.
+Information We May Receive About You From Third Parties  
 
-We do not charge a fee to process or respond to your verifiable consumer privacy request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+----------------------------------------------------------
 
-* **Other California Privacy Rights**. California Civil Code sections 1798.83-1798.84 (the Shine the Light Act) entitles California residents to request disclosure regarding Personal Information sharing with affiliates and/or third parties for marketing purposes. If you are a California resident and you would like to request a copy of this notice, please contact us at privacy@radpowerbikes.com with the subject line “Request for California Privacy Information.”
+We may obtain information about you from our third party service providers who have their own privacy policies that govern how they use your personal information. Those service providers may include:
 
-**Do Not Track Signals**. At this time, RPB does not respond to Do Not Track browser settings or signals. In addition, RPB may use other technology that is standard to the internet to track visitors to RPB Sites. For information about Do Not Track, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+* **Payment Processors**. We use a third-party to process your payments when you make a purchase on our Websites or at Rad retail locations. When you provide your personal information to make a purchase, Rad will receive some of that information so we can fulfill your order or request.  
+* **Retail Partners**. We have third-party retail partners who make Rad bikes available for in-person purchase or for customer service purposes. Our retail partners provide us with information you provide to them relating to a purchase or customer service request, for example.
+* **Social Media Sites**. When you interact with us (pressing a “like” button) or post content about us on social media platforms, or access our Websites through a link on a social media site, we may collect certain information from your public profile as well as your interests. Please note, personal information received from a social networking site is governed by that social networking site’s privacy policy, not Rad’s.
 
-**Unauthorized Use**. If you become aware of any unauthorized submission of information to RPB, including children’s information, please inform us by contacting us at the contact information listed below so that we may delete it.
+How Rad Uses Your Information  
 
-Terms  
+--------------------------------
 
---------
+We use personal information to provide, maintain and improve our products and services, such as to:
 
-**Terms & Conditions**. The Terms of Use, Purchase Terms, and Warranty of this Site and the RPB services govern all matters not set forth in this Privacy Notice.
+* Sell and deliver our products to you;
+* Confirm, send, and track your order, subscription, or registration;
+* Send you periodic email and newsletter communications;
+* Respond to your customer service or general inquiries;
+* Provide and operate our Websites and related features;
+* Allow you to participate in interactive features on our Websites or to notify you about changes to our services;
+* Analyze preferences, trends, and use statistics;
+* Comply with applicable laws, regulations, legal processes or court orders.
 
-**Changes to this Privacy Notice**. We may occasionally make changes to this notice to ensure its accuracy. If we make changes, the revised notice will be posted online and the date of the newest version will be listed. Please check back frequently, especially before you provide us with personal information, to determine the current scope of the notice.
+How We Protect Your Radness  
 
-Contact Information  
+------------------------------
 
-----------------------
+At Rad, we have an expression: “Protect the Radness,” which means we carefully and intentionally protect our confidential information. We know your Radness is equally valuable to you, and we want to protect it. We use administrative, technical, and physical safeguards to protect the personal information entrusted to us. We regularly update and test our security measures to improve the protection of your personal information and to ensure the integrity of that information.
 
-If you have any further questions about our collection and use of your Personal Information, or if you wish to exercise any of your rights over your personal information or if you have any questions about this privacy notice, please contact us at:
+We also limit those at Rad who can access personal information on a need-to-know basis and periodically provide employee privacy training to ensure our team understands and exercises best practices to protect personal information.
 
-**Toll Free**: [(800) 939-0310](tel:(800)%20939-0310 "Rad Power Bikes phone number")
+Finally, we keep your personal information only for so long as needed for legitimate business purposes or to comply with legal or other obligations.      
 
-**Email**: [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com "Email for privacy notice questions")
+Choices and Rights Regarding Your Information  
 
-1128 NW 52nd St
+------------------------------------------------
 
-Seattle, WA 98107
+Your personal information is, well, yours, and you can tell us what we can or cannot do with your personal information. You can email us with such requests at [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com) or via any of the ways in the Contact Us section. Big picture, you have the following rights regarding your personal information:
+
+* **Right to Know**. You have the right to know about the personal information we may collect about you and how it’s shared or used. You’re also entitled to request a copy of the personal data we have collected, and upon request, we will provide this data to you in electronic form or transfer it to a third party.
+* **Right to Delete**. You have the right to request that we delete your personal data when such data is no longer necessary for the purposes for which it was collected or for other requisite legal purposes. Some exceptions apply here; for example, Rad is not required to delete information that: is publicly available such as your address, needed to process your orders/service requests, to comply with legal obligations or to exercise our legal rights. Please note, if we cannot verify that you’re you, we may not be able to delete the information. For example, if someone says “delete my data” but does not include information that allows us to verify the request is legitimately coming from you, e.g., providing the email address matching the email address we have on file, the name of the person making the request lines up with the name of the person we have, etc. Basically, we need to be able to confirm that the data subject is the person making the deletion request.
+* **Right to Opt-Out**. Generally, consumers can request commercial entities stop selling or sharing your personal information. We don’t sell your personal information. Meaning, we don’t provide your personal information to a third party in exchange for compensation. We may share information to enhance the ads or marketing content you see/receive. We will no longer process the data unless there are compelling legitimate grounds for our processing that override your interests, rights, and freedoms, or for the purpose of asserting, exercising, or defending legal claims.
+* **Right to non-discrimination**. We’re not going to love you any less if you decide to exercise any of your rights listed here.
+* **Right to correct**. You have the right to correct your personal data if inaccurate.
+* **Right to Limit**. You have the right to instruct us to only use your sensitive personal information, e.g., your social security number, financial information, exact geolocation, for limited purposes, such as to provide you with our services or to allow you to purchase one of our products.
+
+Changes to this Privacy Policy  
+
+---------------------------------
+
+There may be times when we elect or are required by law to make changes to our Privacy Policy. When we do, we will (1) change the “Last Modified” date listed at the top of this Policy, and (2) will email individuals whose personal information we maintain, of any material changes.
+
+Children’s Personal Information  
+
+----------------------------------
+
+Rad’s bikes should not be operated by children under 16 years old. If you are under the age of 16, do not provide your personal information through our Websites or other Rad-related platforms. If you believe your child has If we learn we have collected or received personal information from a child under 16 (or if you believe your child under 16 provided to Rad personal information) without verification of parental consent, we will delete that information.  
+
+Do Not Track Signals  
+
+-----------------------
+
+Some internet browsers may provide users the ability to send “Do Not Track” signals to websites that you visit. Rad does not respond to “Do Not Track” browser settings or signals. Do learn more about Do Not Track, please visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/)
+
+California Privacy Rights – Shine the Light  
+
+----------------------------------------------
+
+If you are a California resident and provide personal information to us, you have the right to request and receive information regarding the disclosure of certain categories of personal information by Rad to our affiliates or third parties for their direct marketing purposes. Any such request for information may be sent to [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com).
+
+Privacy Rights for the European Economic Area, United Kingdom, and Switzerland  
+
+---------------------------------------------------------------------------------
+
+We process personal data as that term is defined in the EU’s General Data Protection Regulation (“GDPR”) and the equivalent of UK law. Because we have closed direct sales operations in the EEA, UK, and Switzerland, certain products and services available on our US or Canada Website are not available to you. Therefore, we recommend visiting our Website specific to the EEA, UK, and Switzerland: [https://radpowerbikes.eu/](https://radpowerbikes.eu/). The privacy rights and practices discussed in this Privacy Policy are the same for consumers in the EEA, UK, and Switzerland as for our US and Canada consumers. For easy reference, [**_in addition to privacy rights provided to US and Canada consumers_**](#choices-and-rights), you have the below rights:      
+
+* **Right to data portability**: you can request that we provide you with your personal information for your re-use for your own purposes in a format that allows you to move, copy or transfer the personal information in an easy and safe way.
+* **Right to Lodge a Complaint**: You have the right to lodge a complaint about our data collection and processing actions with the relevant supervisory authority in their country of residence. The supervisory authority with which the complaint has been lodged will keep you updated on the progress and outcome of the complaint. Contact details for data protection authorities are available here: [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en). If you would like to exercise any of these rights, please contact us at the information provided below.
+
+Contact Us  
+
+-------------
+
+If you have questions about our Privacy Policy, please email us at [privacy@radpowerbikes.com](mailto:privacy@radpowerbikes.com), or send your communication to:
+
+Rad Power Bikes Inc.  
+1128 NW 52nd Street  
+Seattle, W 98107  
+Attn: Legal Department
+
+Our toll-free number is (800) 939-0310.
+
+Please note: We do not control the security of your email transmittals. Please do not send sensitive personal information in your email(s) to us.
 
 ### Don’t miss out.
 
