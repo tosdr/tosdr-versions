@@ -284,7 +284,7 @@ Discover more
 
 [Se all artworks](https://www.andreasvarro.com/gallery)[Public exhibitions](https://www.andreasvarro.com/gallery)[Pop-up exhibitions](https://www.andreasvarro.com/gallery)[Art pricing](https://www.andreasvarro.com/gallery)[About the artist](https://www.andreasvarro.com/gallery)
 
-© Andreas Varro, all rights reserved. Images on this website cannot be distributed or used, in any way, without the artist's permission. All portrait images of the artist are photographed by [Lena Larsson](https://lenalarsson.com/).
+© Andreas Varro, all rights reserved. Images on this website cannot be distributed or used, in any way, without the artist's permission. All portrait images of the artist are photographed by [Lena Larsson](https://www.lenalarsson.com/).
 
 [Sign up](https://www.andreasvarro.com/sign-up)
 
