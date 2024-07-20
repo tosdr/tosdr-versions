@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjoyu7tgwapvV1VGzBOcKQgQFRiB98yyJi6I43aZF531x2L57fw9mBi-BvedkG_xIj0byWa3Qv9QJPte7GoM:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjoyu7tgwapvV1VGzBOcKQgQFRiB98yyJi6I43aZF531x2L57fw9mBi-BvedkG_xIj0byWa3Qv9QJPte7GoM:0&docurl=https://docs.google.com/document/d/e/2PACX-1vSZYK1TA_VZcitqJQQWI23lyQMhkcTTgnzwcBqIQge-44zc80sny-UKcSUbLqa_yA2Qa_LV6V33JCb9/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 Terms of Use EDU ROW
 
@@ -10,7 +10,7 @@ Soundtrap® for Education Terms of Use
 
 Effective 1 July, 2023
 
-NOTE: If you are signing up to or using the Soundtrap® service as a non-educational, individual creator, these are not the right terms for you. Please review our [Soundtrap Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1718940470672126&usg=AOvVaw2UakYoiHa16KUHj1se42nf) instead.
+NOTE: If you are signing up to or using the Soundtrap® service as a non-educational, individual creator, these are not the right terms for you. Please review our [Soundtrap Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1721454748932068&usg=AOvVaw1FXK5YmKb8UNiVCn4kJmoY) instead.
 
 [1\. Introduction and binding agreement](#h.sesbomikvt0s)
 
@@ -65,7 +65,7 @@ These Soundtrap® for Education Terms of Use (“Terms of Use”) govern your us
 
 By signing up or otherwise accessing or using any part of the Service you are entering into a binding agreement with Soundtrap AB. If you are signing up or using the Service on behalf of a school, school district, or other educational organization or entity (the “School”) you are agreeing to the agreement on behalf of the School and promise that you have the authority to bind the School to this agreement. In that case, “you” and “your” will refer to the School.
 
-Your agreement with us includes these Terms of Use together with our [Data Processor Agreement](https://www.google.com/url?q=https://www.soundtrap.com/legal/dpa&sa=D&source=editors&ust=1718940470674363&usg=AOvVaw170k1FPQkqE8no7vyKyWfr) and any additional terms to which you agree with us from time to time, other than terms with any third parties (collectively, the “Agreement”). If you wish to read the terms of the Agreement, the current effective version can be found on our website, [www.soundtrap.com/edu](https://www.google.com/url?q=http://www.soundtrap.com/edu&sa=D&source=editors&ust=1718940470674533&usg=AOvVaw36c113iX72POhhcm56Z9EK) (the “Website”).
+Your agreement with us includes these Terms of Use together with our [Data Processor Agreement](https://www.google.com/url?q=https://www.soundtrap.com/legal/dpa&sa=D&source=editors&ust=1721454748934379&usg=AOvVaw0LEgSvv5HsWGnVg7pBR61X) and any additional terms to which you agree with us from time to time, other than terms with any third parties (collectively, the “Agreement”). If you wish to read the terms of the Agreement, the current effective version can be found on our website, [www.soundtrap.com/edu](https://www.google.com/url?q=http://www.soundtrap.com/edu&sa=D&source=editors&ust=1721454748934628&usg=AOvVaw2TNcCBh5nPaj7-Tg2DLOat) (the “Website”).
 
 Please read these Terms of Use and the other referenced documents carefully, as they include important information on:
 
@@ -111,13 +111,13 @@ From time to time, we or others on our behalf may offer trials or special offers
 5. ### Student Data
     
 
-By signing up to and using the Service, we will collect certain account and platform usage data about your Students (the “Student Data”) and other End Users as further described in our [Education Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy/edu&sa=D&source=editors&ust=1718940470676834&usg=AOvVaw26BwhYBVxmbALr0MatKo_L). Student Data may contain personal data as well as other information relating to your and your Students’ and other End Users’ use of the Service, such as the Students’ interactions with the Service and the content viewed, uploaded or created using the Service.  
+By signing up to and using the Service, we will collect certain account and platform usage data about your Students (the “Student Data”) and other End Users as further described in our [Education Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy/edu&sa=D&source=editors&ust=1721454748937162&usg=AOvVaw0WVaovboyeHkYBaMM93Vde). Student Data may contain personal data as well as other information relating to your and your Students’ and other End Users’ use of the Service, such as the Students’ interactions with the Service and the content viewed, uploaded or created using the Service.  
 
 We collect, maintain, use or share Student Data only to provide the Service and as otherwise permitted by applicable laws. We may use aggregate or de-identified Student Data that does not identify any individual Student for research, analysis, and similar purposes, for example, to better understand how users access and use our Service, to improve our services, or for other research and analytical purposes.
 
-We will not advertise or market to Students or others based on Student Data. We will not disclose personal information about Students to third parties, except as further described in our [Education Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy/edu&sa=D&source=editors&ust=1718940470677247&usg=AOvVaw3ZmTd0RvqWiU395BIJChNg), such as to our service providers when needed to provide the Service, as required by law or court order, to authorized school personnel as directed by a Student’s school, or to protect the security of the Service or other users. We do not sell, rent, or trade Student Data.
+We will not advertise or market to Students or others based on Student Data. We will not disclose personal information about Students to third parties, except as further described in our [Education Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy/edu&sa=D&source=editors&ust=1721454748937646&usg=AOvVaw29k59Io9jr0bRgeAbiVV92), such as to our service providers when needed to provide the Service, as required by law or court order, to authorized school personnel as directed by a Student’s school, or to protect the security of the Service or other users. We do not sell, rent, or trade Student Data.
 
-For more information on access, security, deletion and how we protect Student Data, please visit our [Trust Center](https://www.google.com/url?q=https://www.soundtrap.com/legal/trust-center&sa=D&source=editors&ust=1718940470677476&usg=AOvVaw0Z0tdUZhxOjg9z668fqFjW) and [Education Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy/edu&sa=D&source=editors&ust=1718940470677595&usg=AOvVaw0aH4rk7i7Rjm6tgyE61-hP).
+For more information on access, security, deletion and how we protect Student Data, please visit our [Trust Center](https://www.google.com/url?q=https://www.soundtrap.com/legal/trust-center&sa=D&source=editors&ust=1721454748937939&usg=AOvVaw3Z48eJ9csa0r373R_80M93) and [Education Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy/edu&sa=D&source=editors&ust=1721454748938102&usg=AOvVaw0iGprET4lbcYk86uH6liyM).
 
 You and your End Users are solely responsible for maintaining the confidentiality and security of your accounts and login credentials, and for all activity emanating from the accounts under your Educational Subscription. We reserve the right to suspend or terminate your or any End User’s access and account(s) if activities occur which, in our sole discretion, would or might constitute a violation of the Agreement or applicable laws or regulations or to protect the rights of property of us or any other customer or user.
 
@@ -209,7 +209,7 @@ Notwithstanding the fact that we have no obligation to monitor the Content on th
 12. ### Reporting Infringement
     
 
-We respect the rights of intellectual property owners. If you or your End Users believe that any Content on the Service infringes your copyright, see our [copyright information pages](https://www.google.com/url?q=https://www.soundtrap.com/copyright/&sa=D&source=editors&ust=1718940470681111&usg=AOvVaw1liSjk9j1wHDmkwUlsMSLU). If we are notified by a copyright holder, using the process provided on the copyright information pages, that any Content infringes a copyright, we may in our sole discretion remove such Content from the Service, or take other steps that we deem appropriate, without prior notification to the user or other party who supplied or posted that Content. If such user or other party believes that the Content is not infringing, he or she may in certain circumstances submit a counter-notification to us with a request to restore the removed content, which we may or may not honor, in our sole discretion.  
+We respect the rights of intellectual property owners. If you or your End Users believe that any Content on the Service infringes your copyright, see our [copyright information pages](https://www.google.com/url?q=https://www.soundtrap.com/copyright/&sa=D&source=editors&ust=1721454748942040&usg=AOvVaw02QRzVubbs2YlZjEAQyXQt). If we are notified by a copyright holder, using the process provided on the copyright information pages, that any Content infringes a copyright, we may in our sole discretion remove such Content from the Service, or take other steps that we deem appropriate, without prior notification to the user or other party who supplied or posted that Content. If such user or other party believes that the Content is not infringing, he or she may in certain circumstances submit a counter-notification to us with a request to restore the removed content, which we may or may not honor, in our sole discretion.  
   
 Please note that this process applies to copyright infringements only. If you believe that any Content infringes any other intellectual property right or is illegal, defamatory, offensive,  harassment, spam or otherwise violates the [User Guidelines](#h.7ffwwbn2cpjn), please report this to us at support@soundtrap.com.
 
