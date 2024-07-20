@@ -9,17 +9,13 @@
 Privacy Policy
 ==============
 
+Sorry, a summary is not available for this article at this time. Please try again later.
+
 By The Washington Post
 
-Updated June 30, 2023 at 3:59 p.m. EDT|Published January 1, 2021 at 12:00 a.m. EST
+Updated June 28, 2024 at 10:15 a.m. EDT|Published January 1, 2021 at 12:00 a.m. EST
 
-Share
-
-Add to your saved stories
-
-Save
-
-_Published: 06/30/2023_
+_Published: 06/28/2024_
 
 This Privacy Policy (or “Policy”) explains how WP Company LLC (“**The Washington Post**,” “**we,**” or “**us**”) collects, uses, and discloses information about you when you use our sites, mobile and tablet apps, and other online products and services that link to this Policy; subscribe to our print newspaper; receive our emails and newsletters; and attend our events (collectively, the “**Services**”) or when you otherwise interact with us or receive a communication from us related to the Services. For certain Services we may provide you with additional privacy information that supplements this Policy. Other Washington Post services may refer to a different privacy policy, and for those products or services this Policy does not apply.
 
@@ -31,33 +27,32 @@ Please note, this Policy includes sections with additional information for users
 
 This Privacy Policy covers the following:
 
-Information We Collect
+[Information We Collect](#INFORMATIONWECOLLECT)  
+  
+[How We Use Information](#HOWWEUSEINFORMATION)  
+  
+[How We Disclose Information](#SHARINGOFINFORMATION)  
+  
+[Third-Party Content and Links](#EMBEDDEDCONTENT)  
+  
+[Account Management, Privacy Rights, & Other Choices](#UPDATEYOURINFO)  
+  
+[Jurisdiction-Specific Privacy Information & Rights](#JURISDICTIONPRIVACY)  
 
-How We Use Information
+* [California Residents](#CALIFORNIA)
+* [Nevada Residents](#NEVADA)
+* [Information for Certain Users Outside the United States](#OUTSIDEUS)
 
-How We Disclose Information
-
-Third-Party Content and Links
-
-Account Management, Privacy Rights, & Other Choices
-
-Jurisdiction-Specific Privacy Information & Rights
-
-* California Residents
-* Nevada Residents
-* Information for Certain Users Outside the United States
-
-Data Security
-
-Children’s Privacy
-
-Changes to Our Privacy Policy
+[Data Security](#DATASECURITY)  
+  
+[Children’s Privacy](#CHILDRENSPRIVACY)  
+  
+[Changes to Our Privacy Policy](#CHANGES)  
+  
 
 _**Information We Collect**_
 
 **Information You Provide to Us.** We collect the information you provide to us directly when you use the Services, including when you:
-
-Advertisement
 
 * Register an account or for a newsletter; register for or attend an event; subscribe to or purchase a product (such as our newspaper); participate in a contest, promotion, or survey.
     * _Contact information_ such as your name, e-mail address, street address, and phone number;
@@ -74,11 +69,13 @@ Advertisement
 
 **Automatically Collected Information.** We (and service providers on our behalf) automatically collect certain information about your use of the Services or your device. For example, we may collect:
 
+Advertisement
+
 * _Device information_ such as hardware model, IP address, device identifiers, operating system, browser type and settings (like language and available font settings) and settings of the device you use to access the Services.
 * _Usage information_ such as the Services you use, the time and duration of your use, and other information about your interaction with content, such as the articles you read, where you click on our site, customer service interactions, cursor movements, and certain screen interactions and images (please note we do not capture personal information that you type into form fields (e.g., name or email address) before you submit such information), and how you interact with our emails.
 * _Location information_ such as general location derived from your computer’s IP address, your mobile device’s GPS signal, or information about nearby WiFi access points and cell towers that may be transmitted when you use certain Services.
 
-We and our service providers may use cookies, web beacons, and other tracking technologies to collect such information. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_34&itid=lk_inline_manual_39) for more information about these technologies.
+We and our service providers may use cookies, web beacons, and other tracking technologies to collect such information. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_34&itid=lk_inline_manual_27) for more information about these technologies.
 
 **Information From Third-Party Sources.** We may receive online or offline information about you from other sources, which we may combine with other information we receive from or about you. For example, we receive information from:
 
@@ -112,7 +109,7 @@ We may use your information:
 
 Advertisement
 
-We and third parties may use cookies and other tracking technologies to understand how you use the Services and facilitate serving relevant ads. This helps us determine if you have seen an ad before, tailor ads to you, including based on your activity, and avoid showing you duplicate ads. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_56&itid=lk_inline_manual_66) for more information about how we use cookies and other tracking technologies and for your cookie choices, including how to opt out of personalized advertising.
+We and third parties may use cookies and other tracking technologies to understand how you use the Services and facilitate serving relevant ads. This helps us determine if you have seen an ad before, tailor ads to you, including based on your activity, and avoid showing you duplicate ads. See our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_56&itid=lk_inline_manual_53) for more information about how we use cookies and other tracking technologies and for your cookie choices, including how to opt out of personalized advertising.
 
 We may also use other information we have collected about you, such as demographic and personal information (e.g., e-mail address) for purposes related to advertising, including personalized advertising.
 
@@ -145,9 +142,7 @@ Our Services may embed content from, or link to, third-party websites and servic
 
 _**Account Management, Privacy Rights, & Other Choices**_
 
-Share this articleShare
-
-**Account & Subscription Management.** You may access or modify your Washington Post account, update your subscriptions and email newsletters associated with that account, and view your comment history on the [User Profile](https://subscribe.washingtonpost.com/profile?itid=lk_inline_manual_64&itid=lk_inline_manual_79&itid=lk_inline_manual_92) page.
+**Account & Subscription Management.** You may access or modify your Washington Post account, update your subscriptions and email newsletters associated with that account, and view your comment history on the [User Profile](https://subscribe.washingtonpost.com/profile?itid=lk_inline_manual_64&itid=lk_inline_manual_79&itid=lk_inline_manual_79) page.
 
 Advertisement
 
@@ -155,41 +150,43 @@ Advertisement
 
 **Privacy Rights.** Depending on where you live, you may have certain rights with respect to your information.
 
-* California, Colorado, Connecticut, Utah and Virginia residents, in addition to residents of the EEA, UK, or Switzerland, may be able to request:
+* California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia residents, in addition to residents of the EEA, UK, or Switzerland, may be able to request:
     * access to and/or a copy of certain personal information we hold about you;
     * correction of inaccurate information that we have about you;
     * deletion of certain personal information we have collected from you; and/or
     * provide information about financial incentives that we offer to you, if any.
-* California, Colorado, Connecticut, Utah and Virginia residents also have opt out rights described below.
-* California residents can also request information about the categories of personal information we collect, disclose or sell or share about you; the categories of sources of such information; the business or commercial purpose for collecting or selling or sharing your personal information; and the categories of third parties to whom we disclose personal information. Such information is also set forth in this Privacy Policy. Residents of certain other countries may be able request one or more of the above under applicable law.
+* California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia residents also have opt out rights described below.
+* California and Oregon residents can also request information about the categories of personal information we collect, disclose or sell or share about you. California residents can request the categories of sources of such information; the business or commercial purpose for collecting or selling or sharing your personal information; and the categories of third parties to whom we disclose personal information. Such information is also set forth in this Privacy Policy. Oregon residents can request a list of the specific third parties, other than natural persons, to which we have disclosed personal information. Residents of certain other countries may be able request one or more of the above under applicable law.
+
+Share this articleShare
 
 Please note: Your rights and our responses will vary based on your state or country of residency. You may be located in a jurisdiction where we are not obligated, or are unable, to fulfill a request. In such a case, your request may not be fulfilled.
 
-If you would like information regarding your rights or would like to make a request (or if you are an authorized agent acting in accordance with applicable law), please click [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_113&itid=lk_inline_manual_108&itid=lk_inline_manual_103) or email us at [privacy@washpost.com](mailto:privacy@washpost.com).
+If you would like information regarding your rights or would like to make a request (or if you are an authorized agent acting in accordance with applicable law), please click [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_113&itid=lk_inline_manual_108&itid=lk_inline_manual_90) or email us at [privacy@washpost.com](mailto:privacy@washpost.com).
 
 * We will take reasonable steps to verify your identity and requests, including by verifying your account information, residency or the email address you provide. If you are an authorized agent submitting a request on behalf of another individual, we may require proof of your written authorization before processing the request.
 * Certain information may be exempt from such requests under applicable law such as information we retain for legal compliance and to secure our Services. We may need certain information in order to provide the Services to you; if you ask us to delete it, you may no longer be able to use the Services.
 * Applicable law may further provide you with the right to not be discriminated against for exercising your rights.
 * If you have enabled a legally recognized browser-based opt out preference signal (such as Global Privacy Control) on your browser, we recognize such preference in accordance and to the extent required by applicable law.
-* Virginia, Colorado, and Connecticut residents may appeal the denial of a request here: please click [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_113&itid=lk_inline_manual_108&itid=lk_inline_manual_108) or email us at [privacy@washpost.com](mailto:privacy@washpost.com).
+* Oregon, Texas, Virginia, Colorado, and Connecticut residents may appeal the denial of a request here: please click [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_113&itid=lk_inline_manual_108&itid=lk_inline_manual_95) or email us at [privacy@washpost.com](mailto:privacy@washpost.com).
 
-**Opt Out of Sale of Personal Information or Sharing or Processing of Personal Information for Targeted Advertising (California, Colorado, Connecticut, Utah and Virginia Residents Only).**
+**Opt Out of Sale of Personal Information or Sharing or Processing of Personal Information for Targeted Advertising (California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia Residents Only).**
 
 Advertisement
 
-If you are a California, Colorado, Connecticut, Utah or Virginia resident, you may opt out of certain processing of your personal information, including for targeted advertising, under applicable law. Targeted advertising is when we or our partners display ads to you based on your personal information that is collected across different businesses.
+If you are a California, Colorado, Connecticut, Oregon, Texas, Utah or Virginia resident, you may opt out of certain processing of your personal information, including for targeted advertising, under applicable law. Targeted advertising is when we or our partners display ads to you based on your personal information that is collected across different businesses.
 
 We and our advertising partners collect certain information from our visitors, such as device identifiers, cookies, advertising IDs, IP addresses and usage activity. We and our ad partners share this information with third parties or combine it with information from other businesses to deliver more relevant (targeted) ads to you and for related advertising activities. We may also share or use hashed contact information for this purpose. This activity is known as “sharing” or processing your personal information for targeted ads and may be considered “selling” your personal information under applicable law.
 
-If you (or in applicable states, your authorized agent) would like to opt out of our use or disclosure of your information for such purposes, you can follow the steps at [Your Privacy Choices](https://www.washingtonpost.com/my-post/privacy-settings?itid=lk_inline_manual_114). Note, if you use a cookie blocker such as Ghostery, it may block visibility of this tool or link, including in your web footer.
+If you (or in applicable states, your authorized agent) would like to opt out of our use or disclosure of your information for such purposes, you can follow the steps at [Your Privacy Choices](https://www.washingtonpost.com/my-post/privacy-settings?itid=lk_inline_manual_102). Note, if you use a cookie blocker such as Ghostery, it may block visibility of this tool or link, including in your web footer.
 
 Advertisement
 
 Even if you opt out, you will still see advertising, it just may be less relevant to you, or it may be personalized for you based only on the data that the Washington Post has collected about you. Unless you sign in, you must opt out on each device and each browser where you want your choice to apply. Your preference may be lost if you clear, or your browser is set to clear, cookies. If you have enabled a legally recognized browser-based opt out preference signal (such as Global Privacy Control) on your browser, we recognize such preference in accordance and to the extent required by applicable law. You will need to turn this on for each browser you use unless you sign into your Washington Post account.
 
-**Analytics.** Some analytics providers we partner with may provide specific opt-out mechanisms. For example, you may opt out of having [Google Analytics](http://www.google.com/policies/privacy/partners/) use your information for analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). You can visit our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_81&itid=lk_inline_manual_117) for additional information on how to opt out of certain analytics providers.
+**Analytics.** Some analytics providers we partner with may provide specific opt-out mechanisms. For example, you may opt out of having [Google Analytics](http://www.google.com/policies/privacy/partners/) use your information for analytics by installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). You can visit our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_81&itid=lk_inline_manual_105) for additional information on how to opt out of certain analytics providers.
 
-**Targeted Advertising**. In addition to other choices outlined above, our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_82&itid=lk_inline_manual_118) has information about how to manage cookies and other choices that may be available to you with respect to personalized advertising. You may choose whether to receive certain targeted advertising from participating ad networks, audience segment providers, ad serving vendors, other service providers or entities by visiting websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and [Digital Advertising Alliance](http://www.aboutads.info/) or if you are a user in the European Economic Area, [Your Online Choices](http://www.youronlinechoices.eu/). These third-party tools may have limitations such as the browsers on which they are effective. Many mobile devices also allow you to opt-out of certain personalized advertising for mobile apps and related tracking using the settings within the mobile app or your mobile device. For more information, please check your mobile device settings.
+**Targeted Advertising**. In addition to other choices outlined above, our [Cookie Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_82&itid=lk_inline_manual_106) has information about how to manage cookies and other choices that may be available to you with respect to personalized advertising. You may choose whether to receive certain targeted advertising from participating ad networks, audience segment providers, ad serving vendors, other service providers or entities by visiting websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and [Digital Advertising Alliance](http://www.aboutads.info/) or if you are a user in the European Economic Area, [Your Online Choices](http://www.youronlinechoices.eu/). These third-party tools may have limitations such as the browsers on which they are effective. Many mobile devices also allow you to opt-out of certain personalized advertising for mobile apps and related tracking using the settings within the mobile app or your mobile device. For more information, please check your mobile device settings.
 
 _**Jurisdiction-Specific Privacy Information**_
 
@@ -213,7 +210,7 @@ If you are a California resident, the California Consumer Privacy Act (“CCPA�
 
 * device information and identifiers, such as IP address, and unique advertising identifiers and cookies; hashed identifiers such as contact information, usage information, such as browsing history or app usage; location information, such as city; and inference data.
 
-California residents can opt out of such targeted advertising as set forth here: [Your Privacy Choices](https://www.washingtonpost.com/my-post/privacy-settings/?itid=lk_inline_manual_103&itid=lk_inline_manual_100&itid=lk_inline_manual_134). California residents can also turn on the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information that is browser based for each participating browser system that you use. Learn more at the [Global Privacy Control website](https://globalprivacycontrol.org/).
+California residents can opt out of such targeted advertising as set forth here: [Your Privacy Choices](https://www.washingtonpost.com/my-post/privacy-settings/?itid=lk_inline_manual_103&itid=lk_inline_manual_100&itid=lk_inline_manual_122). California residents can also turn on the Global Privacy Control (GPC) to opt out of the “sale” or “sharing” of your personal information that is browser based for each participating browser system that you use. Learn more at the [Global Privacy Control website](https://globalprivacycontrol.org/).
 
 **Right to Limit.** The CCPA also allows you to limit the use or disclosure of your “sensitive personal information” (as defined in the CCPA) if your sensitive personal information is used for certain purposes. Please note, in the limited circumstances that we process sensitive personal information as defined by the CCPA, we do not use or disclose it other than for disclosed and permitted business purposes for which there is not a right to limit under the CCPA.
 
@@ -223,19 +220,19 @@ We received the following requests to know and requests to delete from Californi
 
 |     |     | Average number of days  <br>to complete |
 | --- | --- | --- |
-| **Requests to Know Received** | 53  |     |
-| Completed | 7   | 41.4 |
-| Incomplete  <br>(due to lack of verification or confirmation of request) | 46  | N/A |
-| **Requests to Delete Received** | 6252 |     |
-| Completed | 1645 | 35  |
-| Incomplete (due to lack of verification or confirmation of request) | 4607 | N/A |
+| **Requests to Know Received** | 38  |     |
+| Completed | 9   | 37.4 |
+| Incomplete  <br>(due to lack of verification or confirmation of request) | 29  | N/A |
+| **Requests to Delete Received** | 7040 |     |
+| Completed | 2515 | 29.5 |
+| Incomplete (due to lack of verification or confirmation of request) | 4525 | N/A |
 
 We received approximately the following number of requests to opt out from California consumers from January 1, 2022 to December 31, 2022:
 
 |     |     | Average number  <br>of days to complete |
 | --- | --- | --- |
 | **CCPA Requests to Opt Out\*** |     |     |
-| Completed | 7,473 | <1  |
+| Completed | 3980 | <1  |
 | Incomplete | N/A | N/A |
 
 \*Number of requests to opt out is approximate due to certain technical limitations and because certain requests are made through third party tools.
@@ -254,7 +251,7 @@ _**Additional Information for Certain Users Outside the United States**_
 
 Under applicable law in the EEA, UK, and Switzerland, the Washington Post is considered the “data controller” of the personal information we handle under this Policy. In other words, The Washington Post is responsible for deciding how to collect, use and disclose this information, subject to applicable law. Our contact information appears at the end of this Policy. Residents of certain jurisdictions may be able to request one or more individual rights set forth in “Individual Rights” below under applicable law.
 
-**International Transfers.** The Services are headquartered in the United States, where we process and store information. We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards. By using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law. Our [Data Privacy Framework Policy](https://www.washingtonpost.com/data-privacy-framework-policy/?itid=lk_inline_manual_151) governs use of personal information transferred to us from organizations in the EEA, UK, and Switzerland under such transfer mechanism.
+**International Transfers.** The Services are headquartered in the United States, where we process and store information. We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers. We will ensure that transfers of personal data to a third country or an international organization are subject to appropriate safeguards. By using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law. Our [Data Privacy Framework Policy](https://www.washingtonpost.com/data-privacy-framework-policy/?itid=lk_inline_manual_139) governs use of personal information transferred to us from organizations in the EEA, UK, and Switzerland under such transfer mechanism.
 
 _**Users in the EEA, United Kingdom, and Switzerland**_
 
@@ -264,7 +261,7 @@ If applicable, you may make a complaint to the data protection supervisory autho
 
 **Additional Marketing & Advertising Choices.**
 
-Our [Cookies Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_136&itid=lk_inline_manual_157) has information about how to manage cookies and other choices that may be available to you with respect to personalized advertising.
+Our [Cookies Notice](https://www.washingtonpost.com/cookie-policy/?itid=lk_inline_manual_136&itid=lk_inline_manual_145) has information about how to manage cookies and other choices that may be available to you with respect to personalized advertising.
 
 If you are a resident of the EEA, UK, Switzerland, or Canada, as described above, you may opt out of (withdraw your consent to) receiving marketing emails from us by following the instructions in such emails. You may also opt out of (withdraw your consent to) our use of your email to provide you special offers via email and through other platforms (such as social media) by completing our [webform](https://thewashingtonpost.formstack.com/forms/email_marketing_request) here.
 
@@ -280,7 +277,7 @@ _**Changes to this Privacy Policy**_
 
 We may modify this Privacy Policy from time to time. We will notify you of changes by posting changes here, or by other appropriate means. Any changes to the Privacy Policy will become effective when the updated policy is posted on the Services. Your use of the Services or your provision of information to us following such changes indicates your acceptance of the revised Privacy Policy.
 
-**For More Information**. Please contact us [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_146&itid=lk_inline_manual_167).
+**For More Information**. Please contact us [here](https://helpcenter.washingtonpost.com/hc/en-us/requests/new?ticket_form_id=360000603931&itid=lk_inline_manual_146&itid=lk_inline_manual_156).
 
 Share
 
