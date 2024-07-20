@@ -103,7 +103,7 @@ How to get info about your strike
 
 1. Sign in to [YouTube Studio](http://studio.youtube.com/).
 2. From the left menu, click **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=h36).
-3. Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w36-h36)![and then](//lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g=h36) **Copyright**.
+3. Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48)![and then](//lh3.googleusercontent.com/QbWcYKta5vh_4-OgUeFmK-JOB0YgLLoGh69P478nE6mKdfpWQniiBabjF7FVoCVXI0g=h36) **Copyright**.
 4. In the **Restrictions** column, hover over **Copyright**.
 5. Click **SEE** **DETAILS**.
 
@@ -183,7 +183,7 @@ Google apps
 
 Main menu
 
-993513506709525502
+17523825278371441262
 
 true
 
