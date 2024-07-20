@@ -201,8 +201,10 @@ Last Version 15 December 2022
 * [Contact us](https://hello.softonic.com/contact/)
 * [Facebook](https://www.facebook.com/Softonic)
 * [Instagram](https://www.instagram.com/softonic/)
-* [Twitter](https://twitter.com/softonic_es)
+* [TikTok](https://www.tiktok.com/@softonic)
+* [Twitter](https://twitter.com/softonic)
 * [LinkedIn](https://www.linkedin.com/company/softonic)
+* [Youtube](https://www.youtube.com/@Softonic_en)
 
 * [About Us](https://hello.softonic.com/)
     * [Our Company](https://hello.softonic.com/#our-company)
