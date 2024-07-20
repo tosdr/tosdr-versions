@@ -45,9 +45,8 @@ English
     * [한국어](https://www.xoom.com/privacy?locale=ko-KR "한국어")
 
 PayPal Privacy Statements
-=========================
 
-Print Page
+[Print Page](#)
 
 These additional legal agreements are for users in each country or region:
 
@@ -103,12 +102,15 @@ These following legal agreements apply to users in Asia Pacific, certain Europea
 * [Other Countries (English)](https://www.paypal.com/al/webapps/mpp/ua/privacy-full?locale.x=en_AL)
 * [Other Countries (Spanish)](https://www.paypal.com/ar/webapps/mpp/ua/legalhub-full?locale.x=es_AR)
 
-* 3\. Languages and Translations
-    
-    THIS DOES NOT APPLY IF YOU RESIDE IN THE PROVINCE OF QUEBEC. It is the express wish of the parties that these terms and any directly or indirectly related documents be drawn up in English. Any translation of this User Agreement or the Privacy Policy is provided solely for your convenience and is not intended to modify the terms of this User Agreement or Privacy Policy. In the event of a conflict between the English version of this User Agreement or Privacy Policy and a version in a language other than English, the English version shall control. Les parties ont exprimé la volonté expresse que les présentes modalités et tous les documents s’y rattachant directement ou indirectement soient rédigés en anglais. Toute traduction de ces conditions d’utilisation est uniquement fournie pour votre commodité et ne vise pas à modifier les modalités de ces conditions d’utilisation. En cas de conflit entre la version en anglais de ces conditions d’utilisation et une version dans une langue autre que l’anglais, la version en anglais prévaudra.
-    
-    If you reside in the province of Quebec, it is the express wish of the parties that these terms and any directly or indirectly related documents be drawn up in French. Any translation of this User Agreement or the Privacy Policy is provided solely for your convenience and is not intended to modify the terms of this User Agreement or Privacy Policy. In the event of a conflict between the French version of this User Agreement or Privacy Policy and a version in a language other than French, the French version shall control.
-    
+* * *
+
+3\. Languages and Translations
+
+THIS DOES NOT APPLY IF YOU RESIDE IN THE PROVINCE OF QUEBEC. It is the express wish of the parties that these terms and any directly or indirectly related documents be drawn up in English. Any translation of this User Agreement or the Privacy Policy is provided solely for your convenience and is not intended to modify the terms of this User Agreement or Privacy Policy. In the event of a conflict between the English version of this User Agreement or Privacy Policy and a version in a language other than English, the English version shall control. Les parties ont exprimé la volonté expresse que les présentes modalités et tous les documents s’y rattachant directement ou indirectement soient rédigés en anglais. Toute traduction de ces conditions d’utilisation est uniquement fournie pour votre commodité et ne vise pas à modifier les modalités de ces conditions d’utilisation. En cas de conflit entre la version en anglais de ces conditions d’utilisation et une version dans une langue autre que l’anglais, la version en anglais prévaudra.
+
+If you reside in the province of Quebec, it is the express wish of the parties that these terms and any directly or indirectly related documents be drawn up in French. Any translation of this User Agreement or the Privacy Policy is provided solely for your convenience and is not intended to modify the terms of this User Agreement or Privacy Policy. In the event of a conflict between the French version of this User Agreement or Privacy Policy and a version in a language other than French, the French version shall control.
+
+* * *
 
 Need Help? [Visit our Help Center](https://help.xoom.com/?language=en_US)
 -------------------------------------------------------------------------
