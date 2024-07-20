@@ -1,4 +1,4 @@
-[Zero Bounce](https://www.zerobounce.net/ "Zerobounce")
+[![Footer Zerobounce](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=157,metadata=none/static/logo.png)Zero Bounce](https://www.zerobounce.net/ "Zerobounce")
 
 Trigger navigation
 
@@ -6,14 +6,14 @@ Trigger navigation
     
     SERVICES
     
-    * [Email Validation](https://www.zerobounce.net/services/email-validation "Clean your email lists.")Clean your email list. Reach your customers
-    * [Email Activity Data](https://www.zerobounce.net/services/activity-data "Find and target your active email subscribers.")Discover your most active subscribers
-    * [Email Score](https://www.zerobounce.net/services/zerobounce-ai "Email scoring validates catch-all emails.")AI email list analysis for in-depth insight
-    * [DMARC monitor](https://www.zerobounce.net/services/dmarc-monitor/ "DMARC monitor")Real-time multi-domain DMARC monitoring
-    * [Blacklist Monitor](https://www.zerobounce.net/services/blacklist-monitoring "Get notifications on your email blacklist status.")Real-time blacklist monitoring
-    * [Inbox Placement Test](https://www.zerobounce.net/services/inbox-placement-test "Test for the best email deliverability.")Test email address deliverability
-    * [Email Server Tester Tool](https://www.zerobounce.net/services/email-server-test "Test for the best email deliverability.")Diagnose email server issues
-    * [Email Finder](https://www.zerobounce.net/services/email-finder "Email Finder")Find new valid email addresses
+    * ![Clean your email lists.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=36,metadata=none/static/validation-icon.webp)[Email Validation](https://www.zerobounce.net/services/email-validation "Clean your email lists.")Clean your email list. Reach your customers
+    * ![Find and target your active email subscribers.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/data-icon.webp)[Email Activity Data](https://www.zerobounce.net/services/activity-data "Find and target your active email subscribers.")Discover your most active subscribers
+    * ![Email scoring validates catch-all emails.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/email-score-icon.webp)[Email Score](https://www.zerobounce.net/services/zerobounce-ai "Email scoring validates catch-all emails.")AI email list analysis for in-depth insight
+    * ![DMARC monitor](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=30,metadata=none/static/dmarc-starter.png)[DMARC monitor](https://www.zerobounce.net/services/dmarc-monitor/ "DMARC monitor")Real-time multi-domain DMARC monitoring
+    * ![Get notifications on your email blacklist status.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/heartbeat-icon.webp)[Blacklist Monitor](https://www.zerobounce.net/services/blacklist-monitoring "Get notifications on your email blacklist status.")Real-time blacklist monitoring
+    * ![Test for the best email deliverability.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/drawer-icon.webp)[Inbox Placement Test](https://www.zerobounce.net/services/inbox-placement-test "Test for the best email deliverability.")Test email address deliverability
+    * ![Test for the best email deliverability.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/server_icon_check_blue.png)[Email Server Tester Tool](https://www.zerobounce.net/services/email-server-test "Test for the best email deliverability.")Diagnose email server issues
+    * ![Email Finder](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/email-finder-icon.webp)[Email Finder](https://www.zerobounce.net/services/email-finder "Email Finder")Find new valid email addresses
     
     API
     
@@ -21,7 +21,7 @@ Trigger navigation
     * [Email Validation API](https://www.zerobounce.net/api/email-validation-api/ "Email Validation API")
     * [Email Finder API](https://www.zerobounce.net/api/email-finder-api/ "Email Finder API")
     
-    FREE TOOLS
+    [FREE TOOLS](https://www.zerobounce.net/free-email-tools/)
     
     * [Free List Evaluator](https://www.zerobounce.net/email-list-evaluator "Free List Evaluator")
     * [Free Email Verifier](https://www.zerobounce.net/free-email-verifier/ "Free Email Verifier")
@@ -47,18 +47,21 @@ Trigger navigation
     * [Business Development](https://www.zerobounce.net/solutions/business-development/ "Business Development")
     * [Developers](https://www.zerobounce.net/solutions/developers/ "Developers")
     * [Email Marketing](https://www.zerobounce.net/solutions/email-marketing/ "Email Marketing")
+    * [SMB](https://www.zerobounce.net/solutions/smb/ "SMB")
     
 * [Pricing](https://www.zerobounce.net/email-validation-pricing "ZeroBounce Pricing")
 * [Resources](https://www.zerobounce.net/docs "ZeroBounce Documentation")
     
-    * [Blog](https://www.zerobounce.net/blog "Blog")
-    * [Integrations](https://www.zerobounce.net/integrations "Integrations")
-    * [Case Studies](https://www.zerobounce.net/case-studies "Case Studies")
-    * Email Guides![Chevron down](/static/chevron-down.png)
+    * ![Blog](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/blog-icon.webp)[Blog](https://www.zerobounce.net/blog "Blog")
+    * ![Integrations](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/gear-icon.webp)[Integrations](https://www.zerobounce.net/integrations "Integrations")
+    * ![Case Studies](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/case-study-icon.webp)[Case Studies](https://www.zerobounce.net/case-studies "Case Studies")
+    * ![Email Guides](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=28.5,metadata=none/static/case_studies_nav.png)
         
-        [Holiday Checklist](https://www.zerobounce.net/ebook "Holiday Checklist")[Gaming the System](https://www.zerobounce.net/gaming-the-system-ebook "gaming_the")[Real-Time Email Verification Guide](https://www.zerobounce.net/real-time-email-verification-guide "Real-Time Email Verification Guide")[Email Validation JavaScript](https://www.zerobounce.net/email-validation-javascript "Email Validation JavaScript")[Python email verification guide](https://www.zerobounce.net/python-email-verification "Python email verification guide")[The 13-Minute Email Deliverability Ebook](https://www.zerobounce.net/email-deliverability-ebook/ "The 13-Minute Email Deliverability Ebook")
+        Email Guides![Chevron down](/static/chevron-down.png)
         
-    * [ZeroBounce iOS App](https://www.zerobounce.net/ios "ZeroBounce iOS App")
+        [Holiday Checklist](https://www.zerobounce.net/email-guides/ebook "Holiday Checklist")[Gaming the System](https://www.zerobounce.net/email-guides/gaming-the-system-ebook "gaming_the")[Real-Time Email Verification Guide](https://www.zerobounce.net/email-guides/real-time-email-verification-guide "Real-Time Email Verification Guide")[Email Validation JavaScript](https://www.zerobounce.net/email-guides/email-validation-javascript "Email Validation JavaScript")[Python email verification guide](https://www.zerobounce.net/email-guides/python-email-verification "Python email verification guide")[The 13-Minute Email Deliverability Ebook](https://www.zerobounce.net/email-guides/email-deliverability-ebook/ "The 13-Minute Email Deliverability Ebook")[The 9-Minute B2B Email Marketing Ebook](https://www.zerobounce.net/email-guides/b2b-email-marketing-ebook/ "The 9-Minute B2B Email Marketing Ebook")
+        
+    * ![ZeroBounce iOS App](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=21,metadata=none/static/phone-icon.webp)[ZeroBounce iOS App](https://www.zerobounce.net/ios "ZeroBounce iOS App")
     
     SUPPORT
     
@@ -93,21 +96,23 @@ Trigger navigation
     
 * [Company](https://www.zerobounce.net/why-us "Why Use ZeroBounce")
     
-    * [About ZeroBounce](https://www.zerobounce.net/zerobounce-team "ZeroBounce Team")
-    * [Why Us](https://www.zerobounce.net/why-us "Why choose ZeroBounce")
-    * [Media Kit](https://www.zerobounce.net/media-press-kit "ZeroBounce Press Kit")
-    * [Newsroom](https://www.zerobounce.net/blog/category/newsroom "Newsroom Archives")
-    * [Jobs](https://www.zerobounce.net/careers/ "Career Opportunities")
-    * [Partners](https://www.zerobounce.net/partners "ZeroBounce Partnership Program")
+    * ![ZeroBounce Team](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=36,metadata=none/static/profile-icon.webp)[About ZeroBounce](https://www.zerobounce.net/zerobounce-team "ZeroBounce Team")
+    * ![Why choose ZeroBounce](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=36,metadata=none/static/star-icon.webp)[Why Us](https://www.zerobounce.net/why-us "Why choose ZeroBounce")
+    * ![ZeroBounce Press Kit](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=28.5,metadata=none/static/media-kit-icon.webp)[Media Kit](https://www.zerobounce.net/media-press-kit "ZeroBounce Press Kit")
+    * ![Newsroom Archives](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/news-icon.webp)[Newsroom](https://www.zerobounce.net/blog/category/newsroom "Newsroom Archives")
+    * ![Career Opportunities](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/suitcase-icon.webp)[Careers](https://www.zerobounce.net/careers/ "Career Opportunities")
+    * ![ZeroBounce Partnership Program](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/partners-icon.webp)[Partners](https://www.zerobounce.net/partners "ZeroBounce Partnership Program")
     
-    * [Contact](https://www.zerobounce.net/contact-us "ZeroBounce Contact Information")
-    * [Security](https://www.zerobounce.net/security/ "Cybersecurity and Data Privacy with ZeroBounce Email Validation")
-    * Events![Chevron down](/static/chevron-down.png)
+    * ![ZeroBounce Contact Information](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/contact-phone-icon.webp)[Contact](https://www.zerobounce.net/contact-us "ZeroBounce Contact Information")
+    * ![Cybersecurity and Data Privacy with ZeroBounce Email Validation](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=28.5,metadata=none/static/security-icon.webp)[Security](https://www.zerobounce.net/security/ "Cybersecurity and Data Privacy with ZeroBounce Email Validation")
+    * ![Upcoming Events & On-Demand Webinars](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/event_nav_icon.png)
+        
+        Events![Chevron down](/static/chevron-down.png)
         
         [Upcoming Events](https://www.zerobounce.net/events/ "Upcoming Events")[On Demand](https://www.zerobounce.net/events/#on-demand "On Demand")[Email Day](https://www.zerobounce.net/email-day "Email Day")
         
-    * [Updates](https://www.zerobounce.net/updates/ "New Features, Updates, and Improvements")
-    * [ZeroBounce Reviews](https://www.zerobounce.net/email-validation-reviews/ "ZeroBounce Reviews")
+    * ![New Features, Updates, and Improvements](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/settings.inline.webp)[Updates](https://www.zerobounce.net/updates/ "New Features, Updates, and Improvements")
+    * ![ZeroBounce Reviews](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=37.5,metadata=none/static/reviews_nav.png)[ZeroBounce Reviews](https://www.zerobounce.net/email-validation-reviews/ "ZeroBounce Reviews")
     
 
 Terms & Conditions
@@ -213,26 +218,23 @@ b. Payment terms. Unless other payment fees are agreed upon by the Parties, Zero
 
 Last Revised: April 15, 2024
 
-[Zero Bounce](https://www.zerobounce.net/ "Zerobounce")
+[![Footer Zerobounce](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=157,metadata=none/static/logo.png)Zero Bounce](https://www.zerobounce.net/ "Zerobounce")
 
 © 2024 ZeroBounce.  
 All rights reserved.
 
-[](https://apps.apple.com/app/zerobounce/id1671793296 "Apple App Store")
+[![Apple App Store Logo](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=160,metadata=none/images/app-store.webp)](https://apps.apple.com/app/zerobounce/id1671793296 "Apple App Store")
 
 ### Company
 
 * [About Us](https://www.zerobounce.net/zerobounce-team "ZeroBounce Team")
-* [Contact](https://www.zerobounce.net/contact-us "We’re here to help")
-* [Careers](https://www.zerobounce.net/careers/ "Join our team")
-* [Newsroom](https://www.zerobounce.net/blog/category/newsroom/)
-* [Press](https://www.zerobounce.net/media-press-kit "We help make your story better")
 * [Pricing](https://www.zerobounce.net/email-validation-pricing/ "Pricing")
 * [Partners](https://www.zerobounce.net/partners "ZeroBounce Partnership Program")
 * [ZeroBounce Blog](https://www.zerobounce.net/blog/)
 * [Email Verifier](https://www.zerobounce.net/free-email-verifier/ "Email Verifier")
 * [Leave your feedback](https://www.zerobounce.net/feature-request "Leave your feedback")
 * [Updates](https://www.zerobounce.net/updates "Updates")
+* [Reviews](https://www.zerobounce.net/email-verification-tool-reviews "Reviews")
 
 ### Legal
 
@@ -249,6 +251,7 @@ All rights reserved.
 * EU: [+44-330-808-4814](tel:+443308084814)
 * 24/7 Support Guaranteed
 * [support@zerobounce.net](mailto:support@zerobounce.net)
+* [Contact](https://www.zerobounce.net/contact-us "We’re here to help")
 
 * [Facebook](https://www.facebook.com/zerobounce/ "ZeroBounce Facebook")
 * [Twitter](https://twitter.com/zerobounce1 "ZeroBounce Twitter")
@@ -260,6 +263,8 @@ All rights reserved.
 © 2024 ZeroBounce.  
 All rights reserved.
 
-[](https://apps.apple.com/app/zerobounce/id1671793296 "Apple App Store")
+[![Apple App Store Logo](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=160,metadata=none/images/app-store.webp)](https://apps.apple.com/app/zerobounce/id1671793296 "Apple App Store")
 
-[](https://www.zerobounce.net/es/terms-of-use/ "Español")
+![English](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=60,metadata=none/static/en-flag.png)
+
+[![Español](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=48,metadata=none/static/es-flag.png)](https://www.zerobounce.net/es/terms-of-use/ "Español")
