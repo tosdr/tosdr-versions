@@ -6,6 +6,11 @@ What are you looking for?
 
   
 
+Languages
+
+* [EN](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/european-general-data-protection-regulation-gdpr?key=footer "English")
+* [IT](https://www.unibocconi.eu/it/chi-siamo/organizzazione/statuto-regolamenti-e-documenti/regolamento-europeo-materia-di-protezione-dei-dati-personali-gdpr?key=footer "Italian")
+
 Menu Close
 
 [Apply](https://www.unibocconi.eu/en/applying-bocconi)
@@ -21,6 +26,8 @@ Menu Close
     [Overview](https://www.unibocconi.eu/en/about-us)
     
     * [Organization](https://www.unibocconi.eu/en/about-us/organization)
+    * [Third Mission](https://www.unibocconi.eu/en/about-us/third-mission)
+    * [Quality](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
     * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
     * [International Networks](https://www.unibocconi.eu/en/about-us/international-networks)
     * [Diversity, Equity and Inclusion](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion)
@@ -90,12 +97,13 @@ Menu Close
     * [Guidance for MSc Programs](https://www.unibocconi.eu/en/current-students/guidance-msc-programs)
     * [Guide to the University](https://www.unibocconi.eu/en/current-students/guide-university)
     * [Housing](https://www.unibocconi.eu/en/current-students/housing)
-    * [International Mobility](https://www.unibocconi.eu/en/current-students/international-mobility)
+    * [International Mobility](https://www.unibocconi.eu/en/international-mobility)
     * [IT Education Center](https://www.unibocconi.eu/en/current-students/it-education-center)
     * [Language Center](https://www.unibocconi.eu/en/current-students/language-center)
     * [Student Administration](https://www.unibocconi.eu/en/current-students/student-administration)
     * [Technology and Information Services](https://www.unibocconi.eu/en/current-students/technology-and-information-services)
     * [Timetables, Calendars and Rooms](https://www.unibocconi.eu/en/current-students/class-and-exam-timetables-calendars-and-rooms)
+    * [Courses offered in Academic Programs 2024-2025a.y.](https://www.unibocconi.eu/en/current-students/courses-offered-academic-programs-2024-2025-ay)
     
 * For International Students
     
@@ -176,8 +184,15 @@ About Us
         * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
         
     * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
-    * [Quality Assurance System](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
+    * Quality Assurance System
+        
+        [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
+        
+        * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
+        
     
+* [Third Mission](https://www.unibocconi.eu/en/about-us/third-mission)
+* [Quality](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
 * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
 * International Networks
     
@@ -253,7 +268,12 @@ Organization
     * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
     
 * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
-* [Quality Assurance System](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
+* Quality Assurance System
+    
+    [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
+    
+    * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
+    
 
 Close
 
@@ -324,7 +344,7 @@ Stay in touch
 
 Listen to our podcast
 
-* Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?itok=uU_88Z0- "Spotify") 
+* [Spotify ![Go to Spotify](/sites/default/files/styles/footer_icon/public/footer/icon-menu/spotify.png.webp?itok=uU_88Z0- "Spotify")](https://www.unibocconi.it/en/about-us/podcast) 
 * Google podcast ![Go to Google podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/google_pod.png.webp?itok=zF62NlqP "Google podcast") 
 * Spreaker ![Go to Spreaker](/sites/default/files/styles/footer_icon/public/footer/icon-menu/speaker_pod.png.webp?itok=c6WiDStJ "Spreaker") 
 * Apple podcast ![Go to Apple podcast](/sites/default/files/styles/footer_icon/public/footer/icon-menu/apple_pod.png.webp?itok=RK16RIy1 "Apple podcast") 
