@@ -54,6 +54,7 @@ Search SPLC
         * [Voting Rights - LA](https://www.splcenter.org/our-issues/voting-rights/voting-rights-la)
         * [Voting Rights - MS](https://www.splcenter.org/our-issues/voting-rights/voting-rights-ms)
         * [Federal Resources and Amicus Briefs](https://www.splcenter.org/our-issues/voting-rights/voting-rights-federal-resources-and-amicus-briefs)
+        * [The South's Got Now](https://www.splcenter.org/the-souths-got-now)
 * [Hatewatch](https://www.splcenter.org/hatewatch)
 * [Hate Map](https://www.splcenter.org/hate-map)
     * [Hate Group Flyering Map](https://splcenter.org/flyering)
