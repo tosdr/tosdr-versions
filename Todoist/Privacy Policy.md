@@ -41,7 +41,7 @@ Table of Contents
 Doist Privacy Policy
 ====================
 
-Last Update: June 4th, 2024
+Last Update: July 3rd, 2024
 
 This privacy policy ("**Policy**") informs you of our practices when handling your Information through the Services (both as defined below). In this Policy, "**Doist**," "**we**," "**our**" or "**us**" refers to Doist Inc., a company registered in Delaware with its registered address located at 251 Little Falls Drive, Wilmington, DE 19808. When you are using Doist Services in your personal capacity, we are the data controller under the applicable privacy laws, and this Policy applies.
 
@@ -132,7 +132,6 @@ We use the following cookies:
     | Zendesk | Loading images and providing support on Help Center | Session based |
     | YouTube | Displaying videos on Help Center pages | Varies |
     | Cloudinary | Loading and optimizing images | Session based |
-    | Qualaroo | User behaviour and in-app survey | Session based |
     
 
 You can block cookies by setting your internet browser to block some or all cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to use our Services.
