@@ -14,8 +14,6 @@
 
 [Contact - Site notice / Impressum](https://community.w2g.tv/t/impressum-imprint/594) [Privacy settings](#) [Data Privacy Policy](https://w2g.tv/en/privacy)
 
-Language
-
 العربية Български Česky Dansk Deutsch Ελληνικά English Español فارسی Suomi Français עברית Hrvatski Magyar Italiano Nederlands Norsk (bokmål / riksmål) Polski Português Română Русский Svenska Türkçe اردو Việtnam
 
 [Help / Feedback](https://w2g.tv/community)
