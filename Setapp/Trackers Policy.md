@@ -119,7 +119,7 @@ Love is coming your way, soon. Try once more, our server fell asleep for a bit. 
 * [Recover deleted photos on iPhone](https://setapp.com/how-to/recover-deleted-photos-from-iphone)
 * [Uninstall Setapp](https://support.setapp.com/hc/en-us/articles/213588369-Uninstalling-Setapp-and-applications)
 
-© 2024 MacPaw Way Ltd., 6 Maximou Michailidi Str, Maximos Plaza Tower 3, 4th floor, Flat/Office 401, 3106, Limassol, Cyprus
+© 2024 MacPaw Way Ltd. 6 Maximou Michailidi Str, Maximos Plaza Tower 3, 4th floor, Flat/Office 401, 3106, Limassol, Cyprus
 
 * [](https://twitter.com/Setapp)
 * [](https://www.youtube.com/channel/UCZysXYIvNhkVnfiA5MMxD2g)
@@ -127,11 +127,11 @@ Love is coming your way, soon. Try once more, our server fell asleep for a bit. 
 * [](https://www.facebook.com/setapp)
 * [](https://discord.gg/D7Kc9eQjx6)
 
-[Crafted by ![Macpaw wordmark](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/macpaw-wordmark.svg)](https://macpaw.com/)  [Terms of Use](https://setapp.com/terms-of-use) [Privacy Policy](https://setapp.com/privacy-policy)
+[Crafted by ![Macpaw wordmark](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/macpaw-wordmark.svg)](https://macpaw.com/)  [Terms of Use](https://setapp.com/terms-of-use) [Privacy Policy](https://setapp.com/privacy-policy)
 
 [](https://setapp.com/)
 
-![Setapp logo](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/logo/setapp-icon.svg)
+![Setapp logo](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/components/logo/setapp-icon.svg)
 
 #### Setapp is one subscription to 240+ trusted Mac apps
 
@@ -143,14 +143,14 @@ Love is coming your way, soon. Try once more, our server fell asleep for a bit. 
 
 Create account
 
-![240+ trusted Mac apps](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/apps-preview.png)
+![240+ trusted Mac apps](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/components/onboarding/apps-preview.png)
 
 ### Setapp is one subscription to 240+ Mac apps.  
 7 days free, then $9.99/month
 
 1
 
-![Become a Setapp member](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/onboarding-step-signup.svg)
+![Become a Setapp member](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/components/onboarding/onboarding-step-signup.svg)
 
 **Become a Setapp member**
 
@@ -158,7 +158,7 @@ Sign up and download the Setapp app on your Mac.
 
 2
 
-![Find trusted apps for your tasks](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/onboarding-step-search.svg)
+![Find trusted apps for your tasks](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/components/onboarding/onboarding-step-search.svg)
 
 **Find trusted apps for your tasks**
 
@@ -166,7 +166,7 @@ Use AI search, explore reviews and recommendations.
 
 3
 
-![Install as many as you want](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/components/onboarding/onboarding-step-install.svg)
+![Install as many as you want](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/components/onboarding/onboarding-step-install.svg)
 
 **Install as many as you want**
 
@@ -182,9 +182,9 @@ Continue
 
 or sign in with
 
-[![Apple icon](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/pages/home/apple.svg)](https://my.setapp.com/?authService=apple)
+[![Apple icon](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/pages/home/apple.svg)](https://my.setapp.com/?authService=apple)
 
-[![Google icon](https://cdn.setapp.com/master/c1d0547a621444e38e30555ea4fbe9f8a9379533/static/main/images/pages/home/google.svg)](https://my.setapp.com/?authService=google)
+[![Google icon](https://cdn.setapp.com/master/afdfd2a0e433a45d942d867a9a0b77851afa19b3/static/main/images/pages/home/google.svg)](https://my.setapp.com/?authService=google)
 
 Back
 
