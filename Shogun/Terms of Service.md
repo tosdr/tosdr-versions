@@ -1,8 +1,8 @@
 [![Untitled UI logotext](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650c0dafbafeb00fd5d7daf_logo-1.svg)](http://getshogun.com/)
 
-Features
+product
 
-#### product
+#### features
 
 [Visual Editor
 
@@ -20,7 +20,7 @@ Supercharge SEO growth](https://getshogun.com/features/seo-keyword-insights/)[Pa
 
 Easily track performance](https://getshogun.com/features/page-analytics/)
 
-#### use cases
+#### Capabilities
 
 [Content Management
 
@@ -50,11 +50,11 @@ solutions
 
 [Fashion and Apparel
 
-Grow your fashion and apparel brand with Shogun](https://getshogun.com/fashion-apparel-ecommerce/)[Ecommerce Managers
+Grow your fashion and apparel brand with Shogun](https://getshogun.com/solutions/fashion-apparel-ecommerce)[Ecommerce Managers
 
-Drive revenue growth for your brand](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies
+Drive revenue growth for your brand](https://getshogun.com/solutions/ecommerce-managers)[Ecommerce Agencies
 
-Bring value to your clients and grow your business](https://getshogun.com/page-builder/ecommerce-agencies/)
+Bring value to your clients and grow your business](https://getshogun.com/solutions/ecommerce-agencies)
 
 #### partners
 
@@ -90,15 +90,13 @@ See Shogun feature demos, design best practices, and more](https://getshogun.com
 
 Explore documentation and in-builder help articles](https://getshogun.com/help/en)
 
-#### personalize
+#### use cases
 
-[Translations
+[Personalization
 
-Translate key site pages for specific regions](https://getshogun.com/experiences/translations/)[Previous Purchase History
+Explore strategies for personalizing your store](https://getshogun.com/use-case-library/personalization)[A/B Testing
 
-Create customized experiences based on customer history](https://getshogun.com/experiences/previous-purchase-targeting/)[Influencer Marketing
-
-Generate unique experiences for traffic coming from specific influencers](https://getshogun.com/experiences/influencer-marketing/)
+Discover A/B testing ideas to help you optimize your store](https://getshogun.com/use-case-library/ab-testing)
 
 #### case study
 
@@ -115,11 +113,13 @@ Discover how Nextbase increased conversion rates and clickthrough rates by provi
 Shogun's Terms of Service
 =========================
 
-Last Updated: November 28, 2018
+Last Updated: July 9, 2024
 
 Thank you for using Shogun! To be eligible to register for a Shogun account and use Shogun Software (as defined below), you must review and accept these Shogun Terms of Service (this “**_Agreement_**” or these “**_Terms_**” ) by clicking on the “Get” or “Signup” button or other mechanism provided. PLEASE REVIEW THESE TERMS CAREFULLY. BY ACCEPTING THESE TERMS OR USING THE SHOGUN SOFTWARE, YOU AGREE TO THESE TERMS AND CONDITIONS WITH SHOGUN LABS, INC. (“**_SHOGUN_**“). IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, YOU SHOULD NOT CLICK THE “I ACCEPT” BUTTON AND YOU SHOULD NOT USE THE SHOGUN SOFTWARE.
 
-In this Agreement, “you,” “your” and “Customer” will refer to you. If you are registering for a Shogun account or using the Shogun Software on behalf of an entity or other organization, you are agreeing to these Terms for that entity or organization and representing to Shogun that you have the authority to bind that entity or organization to these Terms (and, in which case, the terms “you”, “your” and “Customer” will refer to that entity or organization).
+In this Agreement, “you,” “your” and “Customer” will refer to you. If you are registering for a Shogun account or using the Shogun Software on behalf of an entity or other organization, you are agreeing to these Terms for that entity or organization and representing to Shogun that you have the authority to bind that entity or organization to these Terms (and, in which case, the terms “you”, “your” and “Customer” will refer to that entity or organization).  
+  
+The term “Customer” does not apply to clients of Shogun’s customers. To the extent that Shogun processes any Personal Data provided by Customer’s customers on Customer’s behalf in the provision of the Shogun Software, the terms outlined in the Data Processing Addendum and Privacy Shield section below apply. If you are a client of a Shogun Customer, we recommend referring to the Terms of Service of the customer with which you have a relationship for information on how they engage processors, like us, to process personal information on their behalf.
 
 IMPORTANT NOTES:
 
@@ -246,15 +246,15 @@ Product
 
 Shogun For
 
-[Ecommerce Managers](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies](https://getshogun.com/page-builder/ecommerce-agencies/)[Fashion & Apparel Brands](https://getshogun.com/fashion-apparel-ecommerce/)[BigCommerce](https://getshogun.com/bigcommerce-page-builder/)
+[Ecommerce Managers](https://getshogun.com/solutions/ecommerce-managers)[Ecommerce Agencies](https://getshogun.com/solutions/ecommerce-agencies)[Fashion & Apparel Brands](https://getshogun.com/solutions/fashion-apparel-ecommerce)[BigCommerce](https://getshogun.com/solutions/bigcommerce-page-builder)
 
-Use Cases
+Capabilities
 
 [Content Management](https://getshogun.com/solutions/ecommerce-content-management/)[Multi-store Expansion](https://getshogun.com/solutions/multi-store-ecommerce-platform/)[Visual Merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)[SEO](https://getshogun.com/solutions/ecommerce-seo-tools/)[Paid Campaigns](https://getshogun.com/solutions/ecommerce-ppc/)[Ecommerce Landing Pages](https://getshogun.com/solutions/ecommerce-landing-pages/)[AI Website Builder](https://getshogun.com/shopify-ai-website-builder/)
 
 Resources
 
-[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
+[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Personalization Use Cases](https://getshogun.com/use-case-library/personalization)[A/B Testing Use Cases](https://getshogun.com/use-case-library/ab-testing)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
 
 Company
 
