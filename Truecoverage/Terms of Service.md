@@ -225,7 +225,7 @@ If you are visually impaired, please visit the Federal Marketplace.
 **Media Inquiries:**  
 Catherine Riedel  
 Next Level Everything  
-catherine@nextleveleverything.com
+[catherine@nextleveleverything.com](mailto:catherine@nextleveleverything.com)
 
 * [Follow](https://www.facebook.com/TrueCoveragePX "Follow on Facebook")
 * [Follow](https://twitter.com/truecoveragePX "Follow on X")
