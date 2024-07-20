@@ -23,7 +23,7 @@
 TaxAct Privacy Notice
 =====================
 
-_Last Updated: December 22, 2023_
+_Last Updated: July 1, 2024_
 
 **Our postal address:**
 
@@ -63,6 +63,8 @@ Your Choices
 
 Additional California Disclosures
 
+Additional Oregon Disclosures
+
 Accessibility
 
 We at TaxAct ("**TaxAct**") respect your privacy and the confidentiality of your personal information as described in this Privacy Notice (the “**Privacy Notice**”). This Privacy Notice explains how and why TaxAct collects, uses, and discloses your personal information, and how you may exercise the choices and rights available to you with respect to your personal information.
@@ -71,7 +73,7 @@ This Privacy Notice applies to all TaxAct properties that link to it, including 
 
 TaxAct, as a tax preparer and tax software developer, is subject to the Gramm-Leach Bliley Act ("**GLBA**"). You may review our GLBA Privacy Notice at [taxact.com/GLBA-notice](https://www.taxact.com/GLBA-notice). We may change this Privacy Notice from time to time. If we make updates, we will revise the “Last Updated” date at the top of this Privacy Notice and, in some cases, we may provide you with additional notice at our discretion. We encourage you to review the Privacy Notice whenever you access the Site, use our Services, or otherwise interact with us to stay informed about our information practices.
 
-If you have an unresolved privacy or data use concern you have raised that you feel we have not addressed satisfactorily, please contact our U.S. based third-party dispute resolution provider (free of charge) at    [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern you have raised that you feel we have not addressed satisfactorily, please contact our U.S. based third-party dispute resolution provider (free of charge) at [https://feedback-form.trustarc.com/watchdog/request](https://feedback-form.trustarc.com/watchdog/request).
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=001bd33c-81cd-4043-a17a-7e1ba12c4698)](https://privacy.truste.com/privacy-seal/validation?rid=001bd33c-81cd-4043-a17a-7e1ba12c4698)
 
@@ -146,10 +148,8 @@ We may collect the following categories of personal information when you use or 
     
 * **Automatically Collected Information:** TaxAct collects information about your browser or device interactions with the Services. Automatically collected information may be combined with other information we collect about you to improve our Services, and our marketing, analytics, and Site functionality. This information may include:
     
-    * **Computer or Device Information**
+    * **Computer or Device Information** you use to access our Services, including:
         
-        *  you use to access our Services, including:
-            
         * your IP address;
             
         * the hardware model;
@@ -162,9 +162,7 @@ We may collect the following categories of personal information when you use or 
             
         * other information that identifies your computer or device.
             
-    * **User Interaction Information**
-        
-        about your use of the Services, including:
+    * **User Interaction Information** about your use of the Services, including:
         
         * the type of browser you use;
             
@@ -252,7 +250,7 @@ We may disclose your personal information in the course of supporting and provid
     
 * **In a Merger:** In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company.
     
-* **For Use by Our Affiliates**: For our affiliated companies to assist in providing and maintaining the Services or for other permitted business. If you use our Professional Services to prepare the taxes of others, we may disclose your information with our affiliates. You can learn more about and access the privacy notice of our affiliates at: [Drake Software Privacy Policy - 2023](https://www.drakesoftware.com/sharedassets/policy/drakesoftwareprivacypolicy.pdf).
+* **For Use by Our Affiliates**: For our affiliated companies to assist in providing and maintaining the Services or for other permitted business. If you use our Professional Services to prepare the taxes of others, we may disclose your information with our affiliates. You can learn more about and access the privacy notice of our affiliates at: [Drake Software Privacy Notice](https://www.drakesoftware.com/sharedassets/policy/drakesoftwareprivacypolicy.pdf).
     
 * **Mobile Phone Number:** We may disclose your mobile phone number with vendors that assist us with providing text message alerts for product information, tips or promotions, or other marketing activities; however, we will not disclose your mobile phone number with third parties for their own marketing purposes without your consent.
     
@@ -305,7 +303,7 @@ If you have questions about our use of cookie or other similar technologies, ple
 
 #### Your Cookie Choices
 
-We use Cookies, including those listed below, to obtain information on how visitors interact with our Servicesor for marketing and advertising our Services to you. These tools collect information about the performance of our Services and how visitors navigate around and interact with our Site’s web pages, which allows us to evaluate and further improve and optimize our web pages.
+We use Cookies, including those listed below, to obtain information on how visitors interact with our Services or for marketing and advertising our Services to you. These tools collect information about the performance of our Services and how visitors navigate around and interact with our Site’s web pages, which allows us to evaluate and further improve and optimize our web pages.
 
 For more information on the below Cookies, please click on the links: 
 
@@ -313,7 +311,7 @@ For more information on the below Cookies, please click on the links: 
     
 * [Cloud Sponge](https://www.cloudsponge.com/privacy/) – We use the information from Cloud Sponge to analyze and improve our Services. For more information on how Cloud Sponge uses data collected through the services, visit: [cloudsponge.com/privacy](https://www.cloudsponge.com/privacy/).
     
-* [Facebook Privacy Policy](https://www.facebook.com/privacy/policy/) – To better assess and optimize our marketing activities, we may use the “Meta Pixel” operated by Meta (formerly Facebook) to collect or receive information from our Site and elsewhere on the internet and use that information to provide advertising services to us, including interest-based advertising or advertisements targeted to your interests. We do not use the Meta Pixel within or tax product and it will not collect tax return or financial information. To change your privacy and advertising settings with Facebook, login to your Facebook account and navigate to the Privacy Center at [facebook.com/privacy/center](https://www.facebook.com/privacy/center) or review your Ad Preferences at [facebook.com/adpreferences](https://www.facebook.com/adpreferences).
+* [Facebook Privacy Policy](https://www.facebook.com/privacy/policy/) – To better assess and optimize our marketing activities, we may use the “Meta Pixel” operated by Meta (formerly Facebook) to collect or receive information from our Site and elsewhere on the internet and use that information to provide advertising services to us, including interest-based advertising or advertisements targeted to your interests. We do not use the Meta Pixel within our tax product and it will not collect tax return or financial information. To change your privacy and advertising settings with Facebook, login to your Facebook account and navigate to the Privacy Center at [facebook.com/privacy/center](https://www.facebook.com/privacy/center) or review your Ad Preferences at [facebook.com/adpreferences](https://www.facebook.com/adpreferences).
     
 * Google - We use the information from Google Analytics to analyze and improve our Services. For more information on how Google Analytics uses data collected through the Services, visit: [policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
     
@@ -324,8 +322,6 @@ For more information on the below Cookies, please click on the links: 
 * [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) - For information on how Microsoft collects or receives personal information through tracking technologies to provide Microsoft Advertising, view the Microsoft Privacy Statements at [privacy.microsoft.com/en-us/privacystatement](https://privacy.microsoft.com/en-us/privacystatement).
     
 * [Optimizely Privacy Policy](https://www.optimizely.com/legal/privacy-policy/) and [Data Subject Rights](https://www.optimizely.com/legal/opt-out/) – We may use Optimizely to test variations, analyze, and direct traffic on our website and in our products.
-    
-* [ContentSquare Privacy Policy](https://contentsquare.com/services-privacy-policy/), [Cookie Policy](https://contentsquare.com/privacy-center/cookie-policy/), and [how it treats security](https://contentsquare.com/privacy-center/security-at-contentsquare/). – We use ContentSquare to better understand the effectiveness and utilization of various portions of our website.
     
 * [Pinterest](https://policy.pinterest.com/en/privacy-policy) – Pinterest may be used to provide online behavioral advertising for marketing purposes.
     
@@ -392,7 +388,7 @@ You may elect to opt out of the selling or sharing of your personal information 
 
 #### Communications and Opt Out Options
 
-**Email Communications:** We may periodically send you communications or otherwise contact you about new products, services, upcoming events, or for other promotional purposes.You can stop receiving promotional emails by following the unsubscribe instructions in emails that you receive.
+**Email Communications:** We may periodically send you communications or otherwise contact you about new products, services, upcoming events, or for other promotional purposes. You can stop receiving promotional emails by following the unsubscribe instructions in emails that you receive.
 
 **Text Communications:** You can opt out from further text marketing communications by texting STOP to the SMS number used by TaxAct to contact you.
 
@@ -402,7 +398,7 @@ You may elect to opt out of the selling or sharing of your personal information 
 
 #### Access and Updates to Your Information
 
-Customers with registered accounts can access and/or update account information by visiting [taxact.com](https://www.taxact.com/) and selecting "Sign In.” If you e-file your tax return using the Services, you will not be able to update your tax return information once your tax return has been filed, unless the IRS rejects the return, or you file a later amendment. You may check if your return has been accepted or rejected by selecting "[Check e-file status](https://www.taxact.com/post-filing/efile-status)."
+Customers with registered accounts can access and/or update account information by visiting [taxact.com](https://www.taxact.com/) and selecting "Sign In.” To withdraw consent, please email [privacy@taxact.com](mailto:privacy@taxact.com). If you e-file your tax return using the Services, you will not be able to update your tax return information once your tax return has been filed, unless the IRS rejects the return, or you file a later amendment. You may check if your return has been accepted or rejected by selecting "[Check e-file status](https://www.taxact.com/post-filing/efile-status)."
 
 After the tax return extension filing deadline, all information then existing in the TaxAct tax returns are archived. We provide the ability for you to access such archived return information in certain circumstances.
 
@@ -702,7 +698,112 @@ We do not offer any financial incentives or price or service difference in an at
 
 #### California "Shine the Light"
 
-Once per calendar year, a California resident may opt out of disclosure of their Personal Information to other parties, including affiliates, for their direct marketing purposes during the immediately preceding calendar year. If you do not want TaxAct to disclose your Personal Information to other companies, including, affiliates, for their direct marketing purposes, please go to: [Opt Out of Sales or Sharing](https://www.taxact.com/do-not-sell-personal-information) or click the button labeled "Do Not Sell or Share My Personal Information" on any TaxAct web page or contact us at [privacy@taxact.com](mailto:privacy@taxact.com).
+Once per calendar year, a California resident may opt out of disclosure of their Personal Information to other parties, including affiliates, for their direct marketing purposes during the immediately preceding calendar year. If you do not want TaxAct to disclose your Personal Information to other companies, including, affiliates, for their direct marketing purposes, please go to: [Opt Out of Sales or Sharing](https://www.taxact.com/do-not-sell-or-share) or click the button labeled "Do Not Sell or Share My Personal Information" on any TaxAct web page or contact us at [privacy@taxact.com](mailto:privacy@taxact.com).
+
+Additional Oregon Disclosures
+=============================
+
+This section supplements the information contained in the Privacy Notice above, and applies solely to visitors, users, and others who reside in the State of Oregon (“**residents**,” “**consumers**,” or “**you**”). In the event of any conflict between this section and our Privacy Notice above, this section shall govern for Oregon residents. We adopt this section of the Privacy Notice to comply with the Oregon Consumer Privacy Act (“OCPA”). Any terms defined in the OCPA have the same meaning when used in this Privacy Notice.
+
+TaxAct is the Controller of your Personal Information.
+
+This Oregon section does not apply to job applicants or current and former employees/contractors. If you have any questions, please contact us using the information provided above.
+
+#### Personal Information We Collect from Oregon Residents
+
+We collect the information identified in the Personal Information We Collect section of our Privacy Notice above from offline sources as well. We use and disclose such Personal Information for the purposes set out in the How We Use Your Personal Information and How and Why We Disclose Your Personal Information sections above.
+
+Under the OCPA, we collect the following Sensitive Personal Information from consumers: citizenship and immigration status.
+
+We may collect Personal Information, including, Sensitive Personal Information, from the following sources:
+
+* **Directly from you**. For example, when you sign up to receive information from us, sign up for our Services, or any other time you submit Personal Information to us voluntarily.
+    
+* **Automatically when you use our Site**. For example, we may collect your usage history when you use our Site.
+    
+* **Other parties**. For example, we may receive Personal Information from vendors who provide us with IT services, advertising services, or help facilitate our sales.
+    
+
+#### Use and Disclosure of Personal Information
+
+We may use or disclose your Personal Information as described in the How We Use Your Personal Information and How and Why We Disclose Your Personal Information sections of our Privacy Notice above.
+
+#### How We Sell and Process Personal Information for Targeted Advertising
+
+Under the OCPA, a “sale” of Personal Information does not necessarily involve one party purchasing Personal Information from the other or an exchange of money. Instead, “sales” also include disclosures of Personal Information to Third Parties for valuable consideration.
+
+As described in the Cookies, Tracking Technologies, and Interest-Based Advertising section above, we utilize interest-based advertising services from vendors on our Site. When you interact with our Site, some of your Personal Information may be shared, if legally permitted, with certain of these vendors who may use it for targeted advertising. You have the right to opt out of the “sale” of your Personal Information and targeted advertising, as detailed below. We may disclose your Personal Information to the following categories of third parties for the purpose of targeted advertising:
+
+* Advertisers and marketing partners;
+    
+* Data analytics providers; and
+    
+* Social media networks.
+    
+
+#### Rights and Choices
+
+Oregon residents are provided with certain rights regarding their Personal Information under the OCPA. For requests received from an Oregon resident, this section describes your rights and explains how to exercise those rights.
+
+#### Access to Personal Information and Data Portability Rights
+
+You have the right to request that we confirm whether we are processing or have processed Personal Information about you and a copy of such Personal Information in a portable format. You may also request a list of third parties to which we disclosed Personal Information.
+
+#### Deletion Request Rights
+
+You have the right to request that we delete Personal Information that we collected about you, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will delete your Personal Information from our records, unless an exception applies.
+
+#### Correction Request Rights
+
+You have the right to request correction of inaccurate or incomplete Personal Information that we collected about you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request, we will provide a response that may include self-service tools that enable you to update your Personal Information, unless an exception applies.
+
+#### Opt Out Rights
+
+#### Opt Out of Sale or Targeted Advertising
+
+As described in the section on Your Choices, you may elect to add your name to our "Do Not Sell or Share My Personal Information" list and opt out of Targeted Advertising by visiting [taxact.com/do-not-sell-or-share](https://www.taxact.com/do-not-sell-or-share) or clicking the button labeled “Do Not Sell or Share My Personal Information” on any TaxAct web page.
+
+Certain web browsers allow users to opt out of tracking by websites and online services by enabling an opt out preference signal such as Global Privacy Control ("GPC"). If you choose to enable an opt out request preference signal, you will only be opted out of online sales or sharing of your information and will need to turn it on for each browser you use. To submit a request to opt out of offline sales and sharing which would not otherwise be controlled by an opt out preference signal, please click on the “Do Not Sell or Share My Personal Information” button located on any TaxAct webpage.
+
+#### Opt Out of Profiling
+
+We do not Profile consumers in furtherance of decisions that produce legal effects or effects of similar significance.
+
+#### Appeal Rights
+
+If we deny or are unable to fulfill your OCPA privacy rights request, and you believe we denied it in error, you may appeal for reconsideration of your request by emailing us at privacy@taxact.com.
+
+#### Request Submissions
+
+To exercise the rights under OCPA, please submit a consumer request by completing the online form at: privacy.taxact.com. If you have any questions about this process, including regarding requests we are unable to fulfill, you may contact us at the information provided at the beginning of this Privacy Notice. If you submit certain requests, we may request additional information to verify your identity, which may require you to log into your account or to provide 2-3 pieces of Personal Information that we will match against our records. We will use Personal Information provided in a verifiable consumer request to verify the requestor's identity or authority to make the request.
+
+Requests may also be submitted by an agent authorized to act on your behalf. Such privacy rights requests may have to undergo our verification process, which includes verifying the identity of the agent and their authorization to make the request. An authorized agent may submit a request on your behalf using the online form at: privacy.taxact.com. These requests must:
+
+* Detail sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative; and
+    
+* Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+    
+
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you.
+
+#### Timeframe for Responding to Requests and Format
+
+TaxAct will respond to the request within forty-five (45) days of receipt of the request.
+
+The period of response may be extended to ninety (90) days if more time is required. In that event, we will inform you of the reason for the extension period in writing.
+
+#### No Discrimination
+
+We will not discriminate against you for exercising your OCPA rights by:
+
+* Denying goods or services to you;
+    
+* Charging different prices or rates for goods or services; or
+    
+* Providing a different level of quality or selection of goods or services.
+    
+
+Please note, that certain information is required to effectively use our Services. For example, if you exercise the right to delete your information your account will be deactivated, which prevents the use of our goods and services. This in no way prevents you from creating a new account in the future.
 
 Accessibility
 -------------
