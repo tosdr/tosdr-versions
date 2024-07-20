@@ -6,7 +6,7 @@
 * [Security](https://www.roboform.com/security)
 * [Download](https://www.roboform.com/download)
 * [Support](https://www.roboform.com/support)
-* [Log In](https://online.roboform.com/login?lang=en)
+* [Log In](https://online.roboform.com/#lang=en)
 * [Buy Now](https://online.roboform.com/login?authReturnUrl=pums_rf&lang=en)
 
 RoboForm Privacy Policy
@@ -19,6 +19,7 @@ PRIVACY POLICY: RoboForm is wholly owned and operated by Siber Systems Inc. (Sib
 * [Family](https://www.roboform.com/family)
 * [Form Filler](https://www.roboform.com/form-filler)
 * [Random Password Generator](https://www.roboform.com/password-generator)
+* [Random Passphrase Generator](https://www.roboform.com/passphrase-generator)
 * [How Secure is My Password?](https://www.roboform.com/how-secure-is-my-password)
 * [Security](https://www.roboform.com/security)
 * [Pricing](https://www.roboform.com/pricing-personal)
