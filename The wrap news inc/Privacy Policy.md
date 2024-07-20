@@ -78,6 +78,11 @@ Follow Us
 * [Visit The Wrap on instagram](https://www.instagram.com/thewrap)
 * [Visit The Wrap on youtube](https://www.youtube.com/thewrap)
 
+Trending Topics:
+----------------
+
+* [Emmy Nominations](https://www.thewrap.com/category/emmys/)
+
 Privacy Policy
 ==============
 
