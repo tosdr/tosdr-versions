@@ -1,15 +1,15 @@
- [![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw419855a0/images/SA-star-icon-dark.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw25141af2/images/SA-star-icon.png) SEMI-ANNUAL SALE: **BUY 1, GET 1 FREE**  
-\+ **FREE SHIPPING ![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw0c668f37/images/SA-truck-icon.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dwa231f483/images/SA-truck-icon-dark.png)**](https://www.smileactives.com/ordernow) 
+ [![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw419855a0/images/SA-star-icon-dark.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw25141af2/images/SA-star-icon.png) SUMMER BLACK FRIDAY SALE: **74% OFF  
+INTRODUCTORY PERFECT WHITE® SYSTEM**![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw419855a0/images/SA-star-icon-dark.png)![Smileactives](https://www.smileactives.com/on/demandware.static/-/Sites-SmileActives-Library/default/dw25141af2/images/SA-star-icon.png)](https://www.smileactives.com/ordernow)
 
 [click to call](tel:)
 
 [Skip to main content](#main)
 
-menu [![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dw6580d48c/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core8 "Smileactives")
+menu [![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dwb01d552d/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core9 "Smileactives")
 
-[![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dw6580d48c/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core8 "Smileactives")
+[![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dwb01d552d/images/sa-2022-logo.png)](https://www.smileactives.com/?src=core9 "Smileactives")
 
-![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dw6580d48c/images/sa-2022-logo.png) ×
+![Smileactives](/on/demandware.static/Sites-SmileActives-Site/-/default/dwb01d552d/images/sa-2022-logo.png) ×
 
 * [Shop](https://www.smileactives.com/shop/)
 * [About](https://www.smileactives.com/about.html)
@@ -27,9 +27,9 @@ OK
 
 ×
 
-![Search Icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dwcfeb6f1a/images/search-svg-icon.svg)
+![Search Icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dw7dc7f64a/images/search-svg-icon.svg)
 
- [![shopping bag icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dwcc4f4634/images/SA-shopping-icon.png) 0](https://www.smileactives.com/checkout)
+ [![shopping bag icon](/on/demandware.static/Sites-SmileActives-Site/-/default/dwfe237d79/images/SA-shopping-icon.png) 0](https://www.smileactives.com/checkout)
 
 Search Catalog  
 
@@ -50,9 +50,9 @@ Política de privacidad
 Privacy Policy
 --------------
 
-This Privacy Policy was last updated effective as of February 8th, 2024.
+This Privacy Policy was last updated effective as of June 27th, 2024.
 
-You linked to this Privacy Policy ("Privacy Policy") via a product website owned by The Oral Care Products, LLC ("Company", "us", "our" or "we"). The Company’s network includes numerous product marketing websites (each a "Website" and collectively, the "Websites"). The Privacy Policy applies to all Websites owned and operated by the Company that post a link to this Privacy Policy. By using any of the Websites, you signify that you have read, understand and agree to be bound by this Privacy Policy.
+You linked to this Privacy Policy ("Privacy Policy") via a product website owned by The Oral Care Products, LLC ("Company", "us", "our" or "we"). The Company’s network includes numerous product marketing websites (each a "Website" and collectively, the "Websites"). The Privacy Policy applies to all Websites owned and operated by the Company that post a link to this Privacy Policy. By using any of the Websites, you signify that you have read, understand, and agree to be bound by this Privacy Policy.
 
 This Privacy Policy applies to all online communication with Websites owned by the Company but does not apply to our data collection activities offline unless we otherwise indicate at the time of collection or in Section 12 of this Privacy Policy. It is important for you to understand what information we collect about you during your visit to our Websites and what we do with that information. Please note that your visit to any of our Websites is subject to this Privacy Policy and our [Terms of Use and Conditions for Sale](https://www.smileactives.com/terms-and-conditions.html). [Terms of Use and Conditions for Sale](https://www.smileactives.com/on/demandware.store/Sites-SmileActives-Site/default/Page-Show?cid=terms-conditions) By using our Websites, you consent and agree to our Privacy Policy and Terms of Use and Conditions for Sale and our collection, use and sharing of your information and data, and other activities, as described below. If you do not agree to the terms of this Privacy Policy, please do not provide us with any personal information and do not use our Websites.
 
@@ -71,7 +71,7 @@ This Privacy Policy applies to all online communication with Websites owned by t
 11. [Blogs/Forums](#Blogs)
 12. [International Users](#International_Users)
 13. [California Privacy Notice](#Your_California_Privacy_Rights)
-14. [Colorado, Connecticut, Utah, and Virginia Privacy Notice](#Your_Virginia_Privacy_Rights)
+14. [Privacy Notice for Residents of Other States](#Your_Virginia_Privacy_Rights)
 15. [SMS/text program](#SMS_text_program)
 16. [Notification of Changes](#Notification_of_Changes)
 17. [Contact Information](#Contact_Information)
@@ -95,7 +95,7 @@ All of our Websites are intended for a general audience. We do not knowingly col
 | Categories of Personal Data Collected | Examples | Processing Purposes Linked to Categories | Categories of Third- Party Recipients (Excluding Services Providers) |
 | --- | --- | --- | --- |
 | Identifiers | * Real name<br>* Alias<br>* Postal address<br>* Shipping information<br>* Unique personal identifier<br>* Internet Protocol (IP) address<br>* Email address<br>* Account name<br>* Telephone number<br>* Account number<br>* Social Security number<br>* Driver’s license number,<br>* Passport number<br>* Other state or government-issued identification card numbers | * To place an order made through the Website and fulfill your order request<br>* Customer communications and support<br>* To process transactions<br>* Marketing our products and services<br>* Marketing the products and services of others<br>* Promotions and sweepstakes<br>* For internal business purposes, including general business administration<br>* Internal analytics<br>* Audit, compliance, legal, policy, procedure, and regulatory obligations<br>* Customer claims and fraud investigation and prevention<br>* Systems and data security<br>* Protecting the safety of our employees and others<br>* Internal analytics | Third-party advertising marketing companies |
-| Financial Information | * Financial account information<br>* Account log-in combination with required security or access code, password, or credentials<br>* Debit or credit card information in combination with required security or access code, password, or credentials<br>* Information about your financial institution | Same purposes as noted for “Identifiers” | N/A |
+| Financial Information | * Financial account information<br>* Account log-in combination with required security or access code, password, or credentials<br>* Debit or credit card information in combination with required security or access code, password, or credentials<br>* Information about your financial institution | Same purposes as noted for “Identifiers”. | N/A |
 | Commercial information | * Assets<br>* Income<br>* Records of personal property<br>* Products or services purchased, obtained, or considered<br>* Order and confirmation numbers<br>* Account balances<br>* Payment history<br>* Account activity<br>* Purchasing or consumer histories or tendencies | Same purposes as noted for "Identifiers" as well as:<br><br>* To improve merchandise selections and the overall shopping experience at the Websites<br>* To customize your experience on the Website or to serve you specific content or ads that are relevant to you | Third-party advertising marketing companies |
 | Internet or other electronic network activity information | * Cookie identifiers, pixel tags, clear gifs, session data, widgets, and information from other tracking technologies as described in Sections 5,7, and 9.<br>* Browser type<br>* Internet service provider (ISP)<br>* Referring/exit pages<br>* Operating system<br>* Date/time stamp<br>* Clickstream data<br>* Device platform<br>* Device version<br>* Browsing history<br>* Search history<br>* Device characteristics including preferred language and your choice of settings such as Wi-Fi, Bluetooth, and GPS<br>* Session data | Same purposes as noted for “Identifiers” and “Commercial information”. | Third-party advertising marketing companies |
 | Audio, electronic, visual, or similar information | * Records of calls to or from our customer service centers<br>* Photographic images of your face (solely for purposes of workplace safety in light of COVID-19); | Same purposes as noted for “Identifiers” and “Commercial information”. | Third-party advertising marketing companies |
@@ -109,7 +109,7 @@ The Company and its affiliates and subsidiaries may use your Personal Informatio
 
 If for any reason you would no longer like to receive email marketing messages from the Company, you may follow the instructions contained within our promotional emails or please [click here](https://www.smileactives.com/unsubscribe.html). Please allow up to ten (10) days for us to process your request. This will not affect subsequent subscriptions and if your opt-out is limited to certain types or categories of emails the opt-out will be so limited. Please note, if you opt not to receive marketing emails from the Company, you may still receive "transactional" email messages regarding your account, use of the Websites or your order (e.g., order confirmation, shipping information, recall notices, customer service notifications, etc.). If you have questions or concerns regarding this statement, please contact [Customer Service](https://www.smileactives.com/customer-service.html).
 
-The Company may share non-personal information, such as aggregated user statistics, with third parties. The Company may also share and sell your information, such as your name, email address, mailing address and/or telephone number to business partners, vendors and other third-party organizations to provide you with information about products, services and special offers we think may interest you or to improve our products, services and advertising. If you are a California resident, you have the right to request additional information about this sharing, so please see Section 12 below. In addition, we may share the information we have collected about you, including personal information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
+The Company may share non-personal information, such as aggregated user statistics, with third parties. The Company may also share and sell your information, such as your name, email address, mailing address and/or telephone number to business partners, vendors, and other third-party organizations to provide you with information about products, services, and special offers we think may interest you or to improve our products, services, and advertising. If you are a California resident, you have the right to request additional information about this sharing, so please see Section 12 below. In addition, we may share the information we have collected about you, including personal information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
 
 We may contract with companies or individuals to provide certain services including email and hosting services, credit card processing, shipping, data management, surveys and marketing, promotional services, to assist in preventing or deterring fraud, etc. We call them our “Service Providers”. We may share personally identifiable information with Service Providers solely as appropriate for them to perform their functions, but they may not use such information for any other purpose.
 
@@ -172,7 +172,7 @@ If you have an account with us, we will deliver our written response to that acc
 
 ### 4\. Information Security
 
-We use Secure Sockets Layer (SSL), an advanced security protocol that protects your credit card information and ensures secure online ordering. SSL Internet connections are encrypted, and thus protect all credit card ordering information, including your name, address and credit card number, so it cannot be read in transit. We use secure technology, privacy protection controls, and restrictions on employee access, to safeguard your personal information. Please note, however, that although we employ industry-standard security measures to safeguard the security of your personal information, no transmissions made on or through the Internet are guaranteed to be secure. Please note that we cannot ensure the security of any information you transmit to us, and you use our Website and provide us with your information at your own risk.
+We use Secure Sockets Layer (SSL), an advanced security protocol that protects your credit card information and ensures secure online ordering. SSL Internet connections are encrypted, and thus protect all credit card ordering information, including your name, address, and credit card number, so it cannot be read in transit. We use secure technology, privacy protection controls, and restrictions on employee access, to safeguard your personal information. Please note, however, that although we employ industry-standard security measures to safeguard the security of your personal information, no transmissions made on or through the Internet are guaranteed to be secure. Please note that we cannot ensure the security of any information you transmit to us, and you use our Website and provide us with your information at your own risk.
 
 ### 5\. Access and Choice
 
@@ -188,10 +188,6 @@ There may be other tracking technologies now and later devised and used by us in
 
 We and third-party vendors, including Google and Facebook, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie), device fingerprinting, web beacons, and other storage technologies together to collect or receive information to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Websites and elsewhere on the Internet. Google’s use of the DoubleClick cookie enables it and its partners to serve ads based on your visit to our Websites and/or other sites and online services. To learn more about how to opt out of Google’s use of first-party cookies, [click here](https://tools.google.com/dlpage/gaoptout). To learn more about how to opt out of DoubleClick’s use of cookies, visit the DoubleClick opt-out page, [here](http://www.google.com/settings/ads/anonymous?hl=en&sig=ACi0TCgv9njqsouM0cZFc3SjcVqqva4wB8uVg_hlXCGd51hOO8E9RvtuxfLFeTBSJmiYMsuXwWAioi73yxkNwdFP3tMYjenEPWstrEYcEZNha1r7OReChxU).
 
-Additionally, the Websites may use Adobe’s analytics and on-site personalization services. See [http://www.adobe.com/privacy/analytics.html](http://www.adobe.com/privacy/analytics.html) for more information. To learn about opting out of the use of Adobe cookies for analytics and on-site personalization, visit [http://www.adobe.com/privacy/opt-out.html#4](http://www.adobe.com/privacy/opt-out.html#4). After you opt out of the use of Adobe cookies for analytics and on-site personalization, Adobe will no longer collect and analyze information via cookies associated with your browser for these services. When you opt out, Adobe will place opt-out cookies on your browser. If you delete your cookies, change browsers, or change devices, you will need to repeat this opt-out process. Also, please note that this opt-out process will work only if your browser is set to accept all cookies. We may not control those tracking technologies and we are not responsible for them. However, you consent to potentially encountering third-party tracking technologies in connection with use of our Websites and accept that our statements under this Privacy Policy do not apply to the Tracking Technologies or practices of such third parties.
-
-The Websites may use code provided by Yahoo! to collect information about goods and services of interest, including, in connection with the collection of information to provided behaviorally targeted or interest-based advertisements to you as further explained in Section 7 below. To opt out go to your Dashboard here [https://yahoo.mydashboard.oath.com/](https://yahoo.mydashboard.oath.com/), then visit Personalized Advertising on our Products and click Disagree.
-
 We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 To opt-out of receiving our direct mail, you may send us an email at [privacy@smileactives.com](mailto:privacy@smileactives.com) or call us at 888-575-5700.
@@ -206,7 +202,7 @@ We may work with third parties, such as network advertisers and ad exchanges tha
 
 Statements regarding our practices do not apply to the methods for collecting information used by these third parties or the use of the information that such third parties collect. We do however work with third parties to make efforts to have you provided with information on their practices and any available opportunity to exercise choice. We make no representations regarding the policies or practices of third-party advertisers or advertising networks or exchanges or related third parties.
 
-Further, while sites use a variety of companies to serve advertisements, you may wish to visit [http://www.networkadvertising.org/optout\_nonppii.asp,](https://optout.networkadvertising.org/?c=1) which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members. Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different device, or change web browsers, your NAI opt-out may not, or may no longer, be effective. You may also opt-out of receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (“DAA”) website at [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Similar limitations may apply to the DAA opt-out. We are not responsible for effectiveness of or compliance with any third parties opt-out options or programs. Deleting browser cookies and/or using a different browser (for e.g., in-app browsers on mobile) will remove the cookie preferences you have selected, including do not sell my personally identifiable information. As a result, you may need to opt-out again in the future to maintain your preferences.
+Further, while sites use a variety of companies to serve advertisements, you may wish to visit [http://www.networkadvertising.org/optout\_nonppii.asp,](https://optout.networkadvertising.org/?c=1) which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members. Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different device, or change web browsers, your NAI opt-out may not, or may no longer, be effective. You may also opt-out of receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (“DAA”) website at [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Similar limitations may apply to the DAA opt-out. We are not responsible for effectiveness of or compliance with any third parties opt-out options or programs. Deleting browser cookies and/or using a different browser (for e.g., in-app browsers on mobile) will remove the cookie preferences you have selected, including do not sell my personally identifiable information. As a result, you may need to opt-out again in the future to maintain your preferences.
 
 ### 9\. External Links
 
@@ -218,7 +214,7 @@ Our Websites include social media features (“Features”), such as the Faceboo
 
 ### 11\. Blogs/Forums
 
-Our Websites may, from time to time, offer publicly accessible blogs or community forums where you can submit ideas, photographs, writings, music, video, audio recordings, computer graphics, pictures, data, information about your location, questions, comments, suggestions or other content, including personal information. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Please note that Company does not control who will have access to the information that you choose to make public and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. To request removal of your personal information from our blog or community forum, contact us at [privacy@smileactives.com](mailto:privacy@smileactives.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We are not responsible for the privacy or security of any information that you make publicly available on the Websites or what others do with information you share with them on the Websites. We are not responsible for the accuracy, use or misuse of any user content that you disclose or receive from third parties through the Websites.
+Our Websites may, from time to time, offer publicly accessible blogs or community forums where you can submit ideas, photographs, writings, music, video, audio recordings, computer graphics, pictures, data, information about your location, questions, comments, suggestions, or other content, including personal information. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Please note that Company does not control who will have access to the information that you choose to make public and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. To request removal of your personal information from our blog or community forum, contact us at [privacy@smileactives.com](mailto:privacy@smileactives.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. We are not responsible for the privacy or security of any information that you make publicly available on the Websites or what others do with information you share with them on the Websites. We are not responsible for the accuracy, use or misuse of any user content that you disclose or receive from third parties through the Websites.
 
 ### 12\. International Users
 
@@ -232,11 +228,22 @@ For purposes of this section, “publicly available information” includes: inf
 
 #### A. What Information We Collect
 
-We may collect, use, and disclose personal information from or about you as described in Section 2.
+We have collected the following categories of personal information in the last twelve (12) months:
+
+* Identifiers
+* Financial information
+* Commercial information
+* Internet or other electronic network activity information
+* Audio, electronic, visual, or similar information
+* Geolocation data
+* Characteristics of protected classifications
+* Education information
+* Professional or employment-related information
+* Inferences
 
 Certain of the information we collect constitutes “sensitive personal information” as defined under California law, including:
 
-* Social Security number; driver’s license number, passport number, state or other government-issued identification card number;
+* Social Security number; driver’s license number, passport number, state, or other government-issued identification card number;
 * Account log-in, financial account, and debit or credit card information, in combination with required security or access code, password, or credentials allowing access to an account;
 * Precise geolocation;
 * Racial or ethnic origin;
@@ -245,7 +252,24 @@ Certain of the information we collect constitutes “sensitive personal informat
 
 #### B. What We Do With Your Information
 
-We may collect or use personal data from you for the purposes identified in Section 2 of this Privacy Policy. To the extent we collect sensitive personal information as identified in Section 13A above, it may be used for all of these purposes.
+We may collect or use personal data from you for the following purposes:
+
+* To place an order made through the Website and fulfill your order request
+* Customer communications and support
+* To process transactions
+* Marketing our products and services
+* Marketing the products and services of others
+* Promotions and sweepstakes
+* For internal business purposes, including general business administration
+* Internal analytics
+* Audit, compliance, legal, policy, procedure, and regulatory obligations
+* Customer claims and fraud investigation and prevention
+* Systems and data security
+* Protecting the safety of our employees and others
+* To improve merchandise selections and the overall shopping experience at the Websites
+* To customize your experience on the Website or to serve you specific content or ads that are relevant to you
+
+To the extent we collect sensitive personal information as identified in Section 13A above, it may be used for all of these purposes.
 
 #### C. Sources of Collected Information
 
@@ -261,7 +285,7 @@ We may collect personal information from the following categories of sources:
 
 #### D. Who We Disclose Information To
 
-We may “sell” or “share” certain personal information with third-party partners as part of targeted advertising initiatives. These disclosures constitute “selling” and/or “sharing” under California law, even though we do not receive monetary payment for sharing or disclosing personal information to these third parties.
+We may “sell” or “share” certain personal information with third party partners as part of targeted advertising initiatives. These disclosures constitute “selling” and/or “sharing” under California law, even though we do not receive monetary payment for sharing or disclosing personal information to these third parties.
 
 Pursuant to California requirements regarding data sharing, we have provided you with opt-out rights as to that activity as described in Sections G and H below.
 
@@ -318,13 +342,13 @@ Attn: California Privacy Rights
 
   
 
-### 14\. Colorado, Connecticut, Utah, and Virginia Privacy Notice
+### 14\. Privacy Notice for Residents of Other States
 
-Certain states provide residents with certain rights with respect to their personal information or personal data as defined under applicable law, including residents of Virginia, Colorado, Connecticut, and Utah.
+Certain states provide residents with certain rights with respect to their personal information or personal data as defined under applicable law, including residents of Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia.
 
-This Privacy Notice contains additional information for residents of Colorado, Connecticut, Utah, and Virginia regarding personal data as defined in Collecting Personal Data that we collect, how we use it, what sources it is derived from, and who we disclose it to, and provides information regarding your rights, and our responsibilities, under applicable laws and regulations. The provisions contained within this section are intended to provide notices in compliance with the Colorado Privacy Act (“CPA”), the Connecticut Data Privacy Act (“CTDPA”), the Utah Consumer Privacy Act (“UCPA”) and the Virginia Consumer Data Protection Act (“VCDPA”). This section does not apply to certain personal data that is already subject to certain federal and state regulations, such as protected health information.
+This Privacy Notice contains additional information for residents of Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia regarding personal data as defined in Collecting Personal Data that we collect, how we use it, what sources it is derived from, and who we disclose it to, and provides information regarding your rights, and our responsibilities, under applicable laws and regulations. The provisions contained within this section are intended to provide notices in compliance with the Colorado Privacy Act (“CPA”), the Connecticut Data Privacy Act (“CTDPA”), the Montana Consumer Data Privacy Act (“MCDPA”), the Oregon Consumer Data Privacy Act (“OCDPA”), the Texas Data Privacy and Security Act (“TDPSA”), the Utah Consumer Privacy Act (“UCPA”), and the Virginia Consumer Data Protection Act (“VCDPA”). This section does not apply to certain personal data that is already subject to certain federal and state regulations, such as protected health information.
 
-The CPA, CTDPA, UCPA, and VCDPA provides rights to residents of Colorado, Connecticut, Utah, and Virginia, respectively, to receive certain disclosures and access regarding collection, use, sale, and sharing of personal data.
+The CPA, CTDPA, UCPA, VCDPA, TDPSA, and OCPA provides rights to residents of Colorado, Connecticut, Utah, Virginia, Texas, and Oregon, respectively, to receive certain disclosures and access regarding collection, use, sale, and sharing of personal data.
 
 We explain what kinds of personal data we may collect or have collected, how we collect it, why we collect it, and to whom we may disclose it to, including for purposes of cross-context behavioral advertising, above in Sections 1 and 2.
 
@@ -349,7 +373,7 @@ We may collect personal information from the categories of sources identified in
 
 #### D. Who We Disclose Information To
 
-We may “sell” or “share” certain personal data with third-party partners as part of targeted advertising initiatives. These disclosures constitute “selling” and/or “sharing” under the CPA, CTDPA, UCPA, and VCDPA, even though we do not receive monetary payment for sharing or disclosing personal data to these third parties. Pursuant to requirements regarding data sharing under applicable law, we have provided you with opt-out rights as to that activity as described in Sections F and G below.
+We may “sell” or “share” certain personal data with third-party partners as part of targeted advertising initiatives. These disclosures constitute “selling” and/or “sharing” under the CPA, CTDPA, MCDPA, OCDPA, TDPSA, UCPA, and VCDPA even though we do not receive monetary payment for sharing or disclosing personal data to these third parties. Pursuant to requirements regarding data sharing under applicable law, we have provided you with opt-out rights as to that activity as described in Section F below.
 
 The only category of third parties with whom we may share your personal data is advertising and marketing companies for the limited purpose of providing you with tailored digital advertising. The only categories of personal data that we may share with these third parties are identifiers, commercial information, and information relating to Internet activity or other electronic network activity, as further detailed in Section 2 above.
 
@@ -359,22 +383,31 @@ We retain your personal data, including sensitive data, for as long as reasonabl
 
 #### F. Your Privacy Rights
 
-If you are a resident of Colorado, Connecticut, Utah, or Virginia, you have the following rights under applicable law in relation to your personal data, subject to certain exceptions:
+If you are a resident of Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, you have the following rights under applicable law in relation to your personal data, subject to certain exceptions:
 
 * Right to Know and Access. You have the right to know what personal data we collect, use, disclose, and/or sell or share as those terms are defined under applicable state law. You may ask us to provide you a portable copy of this information up to two times in a rolling twelve-month period.
 * Right to Delete. You have the right to request under certain circumstances that we as well as our service providers and contractors delete the personal data that we collect about you.
 * Right to Correct Inaccurate Personal Data. You have the right to request the correction of inaccurate personal data.
-* Right to Opt-Out of Sale/Sharing. You have the right to opt-out of our processing of your personal data for purposes of (i) targeted advertising, (ii) the sale of personal data, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. Please note that we do not use your personal data for sales or profiling.
-* Right to Provide Affirmative Consent. If you are a Connecticut, Colorado, or Virginia resident, we cannot process your sensitive data or your sensitive data inferences or use your personal data for certain purposes without your affirmative consent. If you are a Utah resident, you have the right to opt out of having your sensitive personal data processed.
+* Right to Opt-Out. You have the right to opt-out of our processing of your personal data for purposes of (i) targeted advertising, (ii) the sale of personal data, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. Please note that we do not use your personal data for sales or profiling.
+* Rights Concerning Sensitive Personal Data. If you are a Connecticut, Colorado, Montana, Oregon, Texas, or Virginia resident, we cannot process your sensitive data or your sensitive data inferences or use your personal data for certain purposes without your affirmative consent. If you are a Utah resident, you have the right to opt out of having your sensitive personal data processed.
 * Right to Non-Discrimination. You have the right not to receive discriminatory treatment for the exercise of the privacy rights described above.
 
 You may exercise or designate an agent to exercise the above rights by following the instructions in Section 3.
 
-#### G. Additional Disclosures for Colorado, Connecticut, and Virginia Residents
+#### G. How To Appeal Decisions About Your Rights
 
-* **Bona Fide Loyalty Program Notices for Colorado residents.** We may offer rewards programs that award points and other incentives for certain activity, including purchase frequency, purchase volume, social media activity, and membership milestones, as further detailed in Section 13H above. Incentives that may be redeemed with points may include exclusive sales, product rewards, and free shipping offers. In order to join such programs, if we offer them, you need to provide your first and last name, email address, and password to create a rewards account. We may also offer free-to-join membership programs for qualified beauty industry professionals that offer various incentives such as product discounts, free gifts, early access to new products, and other exclusive promotions. In order to join such programs, if we offer them, you need to provide your first and last name, email address, and applicable profession. Please note that your exercise of the Right to Delete may make it impossible for us to continue to offer our Loyalty Programs because the Loyalty Programs requires us to track your purchases and other activities across time and among our retail and online stores. If you refuse to provide your opt-in consent for a bona fide loyalty program, we will not contact you for at least twelve (12) months before requesting again. If you wish to opt out of our bona fide loyalty programs, please use the information in Section 3.
+Colorado, Connecticut, Oregon, Montana, Texas, and Virginia residents can appeal our decisions concerning privacy rights requests, as follows:
+
+* **Colorado residents.** If you are a Colorado resident and want to appeal our decision with regard to a request that you have made, please contact us using the information in Section 3 above. Within forty-give (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Colorado’s Office of the Attorney General by phone at (720) 508-6000 or by submitting a form [here.](https://coag.gov/file-complaint/)
 * **Connecticut residents.** If you are a Connecticut resident and want to appeal our decision with regard to a request that you have made, please contact us using the information in Section 3 above. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Connecticut’s Office of the Attorney General by phone at (860) 808-5420 or by submitting a form [here.](https://portal.ct.gov/AG/Common/Complaint-Form-Landing-page)
+* **Montana residents.** If you are a Montana resident and want to appeal our decision with regard to a request that you have made, please contact us using the information in Section 3 above. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Montana’s Office of the Attorney General by phone at (406) 444-4500 or by submitting a form [here.](https://dojmt.gov/consumer/consumer-complaints/)
+* **Oregon residents.** If you are an Oregon resident and want to appeal our decision with regard to a request that you have made, please contact us using the information in Section 3 above. Within forty-give (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Oregon’s Office of the Attorney General by phone at (877) 877-9392 or by submitting a form [here.](https://justice.oregon.gov/consumercomplaints/OnlineComplaints/OnlineComplaintForm/en)
+* **Texas residents.** If you are a Texas resident and want to appeal our decision with regard to a request that you have made, please contact us using the information in Section 3 above. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Texas’ Office of the Attorney General by phone at (800) 621-0508 or by submitting a form [here.](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)
 * **Virginia residents.** If you are a Virginia resident and want to appeal our decision with regard to a request that you have made, please contact us using the information in Section 3 above or notify the Office of the Attorney General of Virginia online [here.](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint) Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken, including an explanation of our reasons in reaching the decision. If the appeal is denied, you may contact Virginia’s Office of the Attorney General by phone at (804) 786-2071, written correspondence to 202 North 9th Street, Richmond, Virginia 23219, or online [here.](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint)
+
+#### H. Bona Fide Loyalty Program Notice for Colorado residents.
+
+We may offer rewards programs that award points and other incentives for certain activity, including purchase frequency, purchase volume, social media activity, and membership milestones, as further detailed in Section 13H above. Incentives that may be redeemed with points may include exclusive sales, product rewards, and free shipping offers. In order to join such programs, if we offer them, you need to provide your first and last name, email address, and password to create a rewards account. We may also offer free-to-join membership programs for qualified beauty industry professionals that offer various incentives such as product discounts, free gifts, early access to new products, and other exclusive promotions. In order to join such programs, if we offer them, you need to provide your first and last name, email address, and applicable profession. Please note that your exercise of the Right to Delete may make it impossible for us to continue to offer our Loyalty Programs because the Loyalty Programs requires us to track your purchases and other activities across time and among our retail and online stores. If you refuse to provide your opt-in consent for a bona fide loyalty program, we will not contact you for at least twelve (12) months before requesting again. If you wish to opt out of our bona fide loyalty programs, please use the information in Section 3.
 
 ### 15\. SMS/text program
 
@@ -394,7 +427,7 @@ El Segundo, California 90245
 
 Email: [privacy@smileactives.com](mailto:privacy@smileactives.com)
 
-This Privacy Policy was last updated on February 8th, 2024.
+This Privacy Policy was last updated on June 27th, 2024.
 
 [Back to Top](#content)
 
