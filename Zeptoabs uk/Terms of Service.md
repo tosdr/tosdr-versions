@@ -9,7 +9,7 @@
 
 * [About](https://www.zeptolab.com/about)
 * [Games](https://www.zeptolab.com/games)
-* [Careers 7](https://www.zeptolab.com/careers)
+* [Careers 4](https://www.zeptolab.com/careers)
 * [Publishing](https://publishing.zeptolab.com/)
 * [Advertise](https://www.zeptolab.com/advertisement)
 * [Contact](https://www.zeptolab.com/contact)
@@ -191,10 +191,10 @@ ZeptoLab may make changes to the Services, these Terms, or its [Privacy Policy](
 CONTACT US. If you have questions regarding these Terms, please contact us at:
 
 ZeptoLab  
-2 Eaton Gate, London, SW1W 9BJ, United Kingdom  
+27 Old Gloucester St, Holborn, London WC1N 3AX  
 **Attn**: Terms of Use  
 **E-mail**: [info@zeptolab.com](mailto:info@zeptolab.com)  
-**Phone Number**: [+44 (0)7376294346](tel:+4407376294346)
+**Phone Number**: [+44 7985 352042](tel:+447985352042)
 
 [Back](javascript:history.back())
 
