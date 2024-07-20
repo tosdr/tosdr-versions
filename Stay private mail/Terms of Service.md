@@ -10,15 +10,14 @@ OK
 [![](../images/StayPrivate-Logo.svg)](https://stayprivate.com/)
 
 * [Products](https://stayprivate.com/#)
-    * [For Individuals](https://stayprivate.com/mail)
-    
-    * [For Micro-Businesses](https://stayprivate.com/micro-business)
-    
     * For Businesses:
     * [Email Encryption](https://stayprivate.com/email-encryption)
     * [Document Signing](https://stayprivate.com/document-signing)
-    [TLS Plus for Businesses](https://stayprivate.com/tls-plus/)  
+    * [TLS Plus](https://stayprivate.com/tls-plus)
     
+    * [For Micro-Businesses](https://stayprivate.com/micro-business)
+    
+    * [For Individuals](https://stayprivate.com/#keepd)
 * [Resources](#)
     * [User Guide](https://stayprivate.com/user-guide)
     * [Server Configuration](https://stayprivate.com/server-configuration)
@@ -251,11 +250,11 @@ Company
 
 Products
 
-[For Individuals](https://stayprivate.com/mail)  
+[Document Signing](https://stayprivate.com/document-signing/)  
+[Email Encryption](https://stayprivate.com/email-encryption/)  
+[TLS Plus](https://stayprivate.com/tls-plus/)  
 [For Micro-Businesses](https://stayprivate.com/micro-business)  
-[Document Signing for Businesses](https://stayprivate.com/document-signing/)  
-[Email Encryption for Businesses](https://stayprivate.com/email-encryption/)  
-[TLS Plus for Businesses](https://stayprivate.com/tls-plus/)  
+[For Individuals](https://stayprivate.com/#keepd)  
 
 Resources
 
