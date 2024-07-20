@@ -38,7 +38,7 @@ feedback@sputniknews.com
 
 +74956456601
 
-MIA „Rosiya Segodnya“
+MIA „Rossiya Segodnya“
 
 [](https://t.me/SputnikInt)[](https://twitter.com/sputnikint)[](https://odysee.com/@SputnikInternational)[](https://www.tiktok.com/@sputnik_news)[](https://www.threads.net/@sputnik_news)[](https://rumble.com/user/RadioSputnik)
 
@@ -58,7 +58,7 @@ feedback@sputniknews.com
 
 +74956456601
 
-MIA „Rosiya Segodnya“
+MIA „Rossiya Segodnya“
 
 [](https://t.me/SputnikInt)[](https://twitter.com/sputnikint)[](https://odysee.com/@SputnikInternational)[](https://www.tiktok.com/@sputnik_news)[](https://www.threads.net/@sputnik_news)[](https://rumble.com/user/RadioSputnik)
 
@@ -82,7 +82,7 @@ feedback@sputniknews.com
 
 +74956456601
 
-MIA „Rosiya Segodnya“
+MIA „Rossiya Segodnya“
 
 [](https://t.me/SputnikInt)[](https://twitter.com/sputnikint)[](https://odysee.com/@SputnikInternational)[](https://www.tiktok.com/@sputnik_news)[](https://www.threads.net/@sputnik_news)[](https://rumble.com/user/RadioSputnik)
 
@@ -102,7 +102,7 @@ feedback@sputniknews.com
 
 +74956456601
 
-MIA „Rosiya Segodnya“
+MIA „Rossiya Segodnya“
 
 [](https://t.me/SputnikInt)[](https://twitter.com/sputnikint)[](https://odysee.com/@SputnikInternational)[](https://www.tiktok.com/@sputnik_news)[](https://www.threads.net/@sputnik_news)[](https://rumble.com/user/RadioSputnik)
 
