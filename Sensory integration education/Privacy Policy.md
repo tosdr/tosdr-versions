@@ -7,7 +7,12 @@ Sensory Integration Education
 
 Toggle menu Menu
 
-* [](https://www.sensoryintegrationeducation.com/cart/add_product/2111366?price_id=2858736)
+* [Home](https://www.sensoryintegrationeducation.com/)
+* [What is SI?](https://www.sensoryintegrationeducation.com/pages/what-is-si)
+* [SI Practitioner Training](https://www.sensoryintegrationeducation.com/pages/postgraduate-courses)
+* [Courses](https://www.sensoryintegrationeducation.com/pages/courses)
+* [Resources](https://www.sensoryintegrationeducation.com/pages/resources)
+* [News](https://www.sensoryintegrationeducation.com/pages/news)
 * [Sign In](https://www.sensoryintegrationeducation.com/users/sign_in)
 
 Sensory Integration Education Privacy Policy
@@ -296,15 +301,15 @@ Your data is stored and processed in the form of reports, and real-time monitori
 
 If you wish to obtain copies of any data we store about you, or for us to erase that data (note that this would imply terminating your account with us), then you can email [\[email protected\]](https://www.sensoryintegrationeducation.com/cdn-cgi/l/email-protection) with the subject line "GDPR request" and we will follow up with you to ascertain what action is required.
 
-* [Home](https://www.sensoryintegrationeducation.com/)
 * [About us](https://www.sensoryintegrationeducation.com/pages/about-sie)
 * [Contact](https://www.sensoryintegrationeducation.com/pages/contact)
+* [Press](https://www.sensoryintegrationeducation.com/pages/press)
 * [Privacy](https://www.sensoryintegrationeducation.com/pages/privacy)
 * [Terms](https://www.sensoryintegrationeducation.com/pages/terms)
 * [Search](https://www.sensoryintegrationeducation.com/pages/search)
 
 * [SIE Facebook (Open in a new window)](https://www.facebook.com/SensoryIntegrationNetwork)
-* [SIE Twitter (Open in a new window)](https://twitter.com/SINetwork)
+* [SIE X (Open in a new window)](https://x.com/SINetwork)
 * [SIE LinkedIn (Open in a new window)](https://www.linkedin.com/company/sensory-integration-education/)
 
 Copyright Sensory Integration Education 2024
