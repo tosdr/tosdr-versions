@@ -62,7 +62,7 @@ Toggle Site Search
 
 Resources
 
-* [Current Students](https://portal.apps.upenn.edu/penn_portal/student.php)
+* [Current Students](https://path.at.upenn.edu/student/landing)
 * [Faculty & Staff](https://portal.apps.upenn.edu/penn_portal/u@penn.php)
 * [Parents](https://www.upenn.edu/parents)
 * [Alumni](https://www.alumni.upenn.edu/)
