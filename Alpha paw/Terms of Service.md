@@ -237,7 +237,7 @@ Apply
     
     2 colors
     
-    6462 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
+    6463 total reviews](https://www.alphapaw.com/collections/bestsellers/products/pawramp)
     
     Regular price
     
@@ -261,7 +261,7 @@ Apply
     
     2 colors
     
-    6462 total reviews
+    6463 total reviews
     
 * On sale
     
@@ -329,7 +329,7 @@ Apply
     
     [Regular price
     
-    $29.99
+    $34.99
     
     Regular price
     
@@ -337,7 +337,7 @@ Apply
     
     Sale price
     
-    $29.99 Save $10.00 (25%)
+    $34.99 Save $5.00 (12%)
     
     Unit price
     
@@ -351,7 +351,7 @@ Apply
     
     Regular price
     
-    $29.99
+    $34.99
     
     Regular price
     
@@ -359,7 +359,7 @@ Apply
     
     Sale price
     
-    $29.99 Save $10.00 (25%)
+    $34.99 Save $5.00 (12%)
     
     Unit price
     
