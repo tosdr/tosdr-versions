@@ -87,7 +87,7 @@ The Fine Print of Acorns
 
 ACORNS PRIVACY NOTICE
 
-Effective as of January 1, 2023. 
+Effective as of July 18, 2024. 
 
 |     |     |
 | --- | --- |
@@ -109,24 +109,25 @@ Effective as of January 1, 2023. 
 
 |     |     |
 | --- | --- |
+| To limit our sharing | Call the applicable toll-free number below:<br><br>• **Acorns:** [855.604.5130](tel:855.604.5130)<br><br>**Please note:**<br><br>If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing. |
 | Questions? | Call 855.604.5130 or go to [https://www.acorns.com/support/contact/](https://www.acorns.com/support/contact/) |
 
 |     |     |
 | --- | --- |
 | **Who we are** |     |
-| Who is providing this Privacy Policy? | This privacy notice is provided by Acorns Advisers, LLC, Acorns Securities, LLC, Acorns Pay, LLC, and Acorns Grow Incorporated. |
+| Who is providing this notice? | This privacy notice is provided by Acorns Advisers, LLC, Acorns Securities, LLC, Acorns Pay, LLC, and Acorns Grow Incorporated. |
 
 |     |     |
 | --- | --- |
 | **What we do** |     |
 | How does Acorns protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. |
 | How does Acorns collect my personal information? | We collect your personal information, for example, when you:<br><br>* Pay your bills or make deposits or withdrawals from your account;<br>* Provide account information or give us your contact information;<br>* Show your government issued ID.<br><br>We also collect your personal information from other companies. |
-| Why can’t I limit all sharing? | Federal law gives you the right to limit only:<br><br>* sharing for affiliates’ everyday business purposes — information about your creditworthiness<br>* affiliates from using your information to market to you<br>* sharing for nonaffiliates to market to you<br><br>State laws and individual companies may give you additional rights to limit sharing. See below for more information on your rights under state law. |
+| Why can’t I limit all sharing? | Federal law gives you the right to limit some, but not all, sharing related to:<br><br>* sharing for affiliates’ everyday business purposes — information about your creditworthiness<br>* affiliates from using your information to market to you<br>* nonaffiliates to market to you<br><br>State laws and individual companies may give you additional rights to limit sharing. See below for more information on your rights under state law. |
 
 |     |     |
 | --- | --- |
 | **Definitions** |     |
-| Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. |
+| Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies.<br><br>Acorns’ affiliates include Acorns Grow Incorporated, Acorns Advisers, LLC, Acorns Securities, LLC, Acorns Pay, LLC and their respective affiliates |
 | Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies.<br><br>* Nonaffiliates we share with can include direct marketing companies. |
 | Joint Marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.<br><br>* Our joint marketing partners include financial service companies. |
 
@@ -138,15 +139,17 @@ Effective as of January 1, 2023. 
 Acorns Privacy Policy
 =====================
 
-Effective as of January 1, 2023.  
+Effective as of July 18, 2024.  
 
 Please click [here](https://www.acorns.com/2022-privacy/) to view the previous version of our Privacy Policy.
 
 You can download a printable copy of this Privacy Policy [here](https://www.acorns.com/privacy/). 
 
-This Privacy Policy describes the privacy practices of Acorns Grow Incorporated, Acorns Advisers, LLC, Acorns Securities, LLC, Acorns Pay, LLC and their respective affiliates (collectively, "Acorns," "we", “us” or "our") and how we handle personal information that we collect through our digital properties that link to this Privacy Policy, including our website, mobile application, and browser extensions (collectively, the “Service”), as well as through social media, our marketing activities, our live events and other activities described in this Privacy Policy.  
+This Privacy Policy describes the privacy practices of Acorns Grow Incorporated, Acorns Advisers, LLC, Acorns Securities, LLC, Acorns Pay, LLC and their respective affiliates (collectively, "Acorns," "we", “us” or "our") and how we handle personal information, as defined below, that we collect through our digital properties that link to this Privacy Policy, including our website, mobile application, and browser extensions (collectively, the “Service”), as well as through social media, our marketing activities, our live events and other activities described in this Privacy Policy.
 
-If you have registered for an Acorns account or we have otherwise obtained your personal information in connection with providing our services, please see our Acorns [Privacy Notice](https://www.acorns.com/privacy/), which applies to our practices subject to certain financial privacy laws. 
+For purposes of this Privacy Policy, “personal information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Personal information does not include aggregate or deidentified information, or publicly available information lawfully available from governmental records.
+
+If you have registered for an Acorns account or we have otherwise obtained your personal information in connection with providing our financial services, please see our Acorns [Privacy Notice](https://www.acorns.com/privacy/), which applies to our practices subject to certain financial privacy laws. 
 
 **California residents:** See the [California privacy notice](#h_615574473130841672288187278) below for important information about our collection, use and disclosure of your personal information as well as your California privacy rights.
 
@@ -182,7 +185,7 @@ Index
 ###   
 **Personal information we collect**
 
-Information you provide to us.  Personal information you may provide to us through the Service or otherwise includes:
+Personal information you may provide to us through the Service or otherwise includes:
 
 * Contact data, such as your first and last name, email address, billing and mailing addresses, and phone number.
 * Government identifiers, such as national identification number (e.g. Social Security Number, tax identification number, passport number), state or local identification number (e.g., driver’s license or state ID number), and an image of the relevant identification card.
@@ -191,16 +194,21 @@ Information you provide to us.  Personal information you may provide to us thro
 * Financial data, such as information about your investment and financial history and interests that you provide through the Service and the information you authorize us to collect from the financial accounts that you connect to the Service.
 * Data about others, such as the personal information of any children or others that you provide when opening investment accounts through the Service on their behalf.  We also offer features that help users invite their friends or contacts to use the Service, and we may collect contact details about these invitees so we can deliver their invitations. Please do not refer someone to us or share their contact details with us unless you have their permission to do so. 
 * Transactional data, such as information relating to or needed to complete your orders on or through the Service, including transaction history and information about your investments. 
-* Communications that we exchange with you, including when you contact us with questions or feedback, through the Service (including chat and other interactive features), social media, survey participation, or otherwise. 
+* Communications that we exchange with you, including when you contact us with questions or feedback, through the Service (including chat and other interactive features), social media, survey participation, text messages, or otherwise. 
 * Marketing data, such as data you provide when participating in our promotions or in response to our ads or marketing messages.
 
 We may also collect personal information not specifically listed above, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
+
+Sensitive Personal Information
+
+Some of the personal information described in this Privacy Policy may be considered sensitive under applicable laws.  We do not use sensitive personal information for the purpose of inferring characteristics about you. We will process sensitive personal information only as described in this Privacy Policy and will request your consent to collect or process your sensitive personal information when we legally are required to do so.  
+  
 
 #### **Third-party sources.**
 
 We may combine personal information we receive from you with personal information we obtain from other sources, such as:
 
-* Your financial accounts, such as your bank, credit card and brokerage accounts, when you authorize us to collect your information from them.
+* Other financial institutions at which you have an account, such as your bank, credit card issuers and brokerage account providers, when you provide consent for us to collect your information from them.
 * Public sources, such as government agencies, public records, social media platforms, and other publicly available sources.
 * Data providers, such as information services and data licensors that provide demographic and other information. 
 * Our affiliate brand partners, such as the companies that participate in our Acorns Earn program or other promotional programs who share with us information about your use or purchases of their products and services so we can credit your Acorns account with your earned rewards. You can learn more about Acorns Earn here: [https://www.acorns.com/earn/.](https://www.acorns.com/earn/)
@@ -242,8 +250,9 @@ We may use your personal information to:
 * provide, operate and improve the Service and our business;
 * fulfill your requests for products and services;
 * facilitate your invitations to friends who you want to invite to join the Service;
-* communicate with you about the Service, including by communicating with you through chat features, sending announcements, updates, security alerts, money alerts, and support and administrative messages;
-* understand your needs and interests, and personalize your experience with the Service and our communications; and
+* communicate with you about the Service, including by communicating with you through text messages, chat features, sending announcements, updates, security alerts, money alerts, and support and administrative messages;
+* understand your needs and interests, and personalize your experience with the Service and our communications; 
+* support our legal or regulatory reporting obligations and risk management procedures (e.g., in relation to anti-money laundering or know your customer (KYC) requirements); and
 * troubleshoot and provide support for the Service, and respond to your requests, questions and feedback.
 
 #### **Marketing and advertising.** 
@@ -256,7 +265,8 @@ We, our service providers and our third-party advertising partners may collect a
 
 #### **Research and development.** 
 
-We may use your personal information for research and development purposes, including to analyze and improve the Service and our business.  We may create anonymous, aggregated or deidentified data from your personal information and other individuals whose personal information we collect.  We make personal information into anonymous, aggregated or deidentified data by removing information that makes the data identifiable to you.  We may use this anonymous, aggregated or deidentified data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.    
+We may use your personal information for research and development purposes, including to analyze and improve the Service and our business.  We may process your personal information as well as the personal information of other individuals from whom we collect such information by creating aggregated or deidentified data.  Such aggregated or deidentified data is non-personal information. We may use this aggregated or deidentified data and disclose it to other parties for our lawful business purposes, including to analyze and improve the Service and promote our business.  
+  
 
 #### **Compliance and protection.** 
 
@@ -270,7 +280,7 @@ We may use your personal information to:
 
 #### **Retention.**
 
-The length of time we retain particular categories of personal information is determined based on whether it is sufficient to fulfill the purposes for which we collected it, including to satisfy legal, regulatory, accounting, or reporting requirements, establish or defend legal claims, enforce our agreements, resolve disputes or fraud prevention.  
+The length of time we retain particular categories of personal information is determined based on whether it is sufficient to fulfill the purposes for which we collected it, including to satisfy legal, regulatory, accounting, or reporting requirements, establish or defend legal claims, enforce our agreements, resolve disputes or fraud prevention, or as otherwise permitted under applicable law.  
 
 ### **How we share your personal information**
 
@@ -278,9 +288,9 @@ We may share your personal information with the following parties and as otherwi
 
 Affiliates.  Our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
 
-Service providers.  Third parties that provide services on our behalf or help us operate the Service or our business (such as mail delivery, hosting, information technology, chat feature support, customer support, email delivery, text message delivery, marketing, consumer research, and website analytics). 
+Service providers.  Service providers that provide services on our behalf or help us operate the Service or our business (such as mail delivery, hosting, information technology, chat feature support, customer support, email delivery, text message delivery, marketing, consumer research, and website analytics). We enter into contracts with our service providers that require them to handle your personal information only as consistent with this Privacy Policy. 
 
-Financial institutions. Acorns uses Plaid Inc. (“Plaid”) to gather your data from financial institutions. By using the Service, you grant Acorns and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from your relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid end user privacy policy](https://plaid.com/legal/#end-user-privacy-policy). If you choose to apply for an Acorns VisaTM debit card, you understand that such card is issued by Lincoln Savings Bank or nbkc bank and you confirm acceptance of the applicable privacy policy of [Lincoln Savings Bank](https://sqy7rm.media.zestyio.com/LSB-PrivacyNotice2021.pdf) or [nbkc bank](https://www.nbkc.com/legal-notices/disclosures).  Acorns also uses financial institutions to process your ACH funds transfers from your funding source bank account to Acorns for use of the Service.  
+Financial institutions. Acorns uses Plaid Inc. (“Plaid”) to gather your data from financial institutions. By using the Service, you grant Acorns the right, power, and authority to act on your behalf to access and transmit your personal and financial information from your relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid. If you choose to apply for an Acorns VisaTM debit card, you understand that such card is issued by Lincoln Savings Bank or nbkc bank.  Acorns also uses financial institutions to process your ACH funds transfers from your funding source bank account to Acorns for use of the Service.  
 
 Gift Recipients and payment processors. If you access Acorns to transfer funds to an Acorns account holder through the Acorns Early Gifting feature, you authorize the sharing of your name, the status of your gift, and the amount of the transfer with the recipient Acorns account holder. Acorns partners with Stripe, a third-party payment processor, to facilitate your gifts. Acorns facilitates such transactions by collecting information from gift contributors necessary to enable the payment processing and submitting it to the processor. Use of this feature is governed by the Early Gifting Terms of Use: [https://www.acorns.com/early-gifting-terms-of-use/.](https://www.acorns.com/early-gifting-terms-of-use/)
 
@@ -296,29 +306,50 @@ Authorities and others. Law enforcement, government authorities, and private par
 
 Business transferees.  Parties (and their advisors) to business transactions or proposed transactions involving a corporate divestiture, merger, consolidation, acquisition, reorganization, sale or other disposition of all or any portion of the business or assets of, or equity interests in, Acorns or our affiliates (including, in connection with insolvency, bankruptcy or similar proceedings).  
 
-### **Your choices** 
+### **Your privacy rights and choices** 
 
 In this section, we describe the rights and choices available to all users. California residents can find additional information about their rights [here](#h_615574473130841672288187278) and Nevada residents can find additional information [here](#h_85683676322881672283985982).
 
-Access or update your information. If you have an Acorns account, you can review and update information in your account settings. 
+Privacy laws, other than the CCPA, apply to much of the personal information that we collect, use, and disclose. When these other laws apply, personal information may be exempt from, or outside the scope of the privacy rights described below. For example, information subject to certain federal privacy laws, such as the Gramm-Leach-Bliley Act or the Health Insurance Portability and Accountability, is exempt from CCPA rights requests. We therefore may decline all, or part of your request related to exempt personal information. This means that we may not provide some, or all, of this personal information when you make a right to access request. We may also not delete or correct some, or all, personal information when you make a deletion or correction request.
+
+Access or update your information. If you have an Acorns account, you can review and update information in your account settings.
+
+Privacy rights.
+
+Depending on where you live, applicable law may provide you with certain rights regarding your personal information:
+
+* Right to access. You can request a copy of certain personal information that we have collected about you and have it provided in a portable, machine-readable manner.
+* Right to deletion. You can request that we delete personal information that we collected from you.
+* Right to correction. You can request that we correct inaccurate personal information that we have collected about you.
+* Right to opt-out. You can request to opt-out of disclosures of your personal information that constitute “selling” of your personal information as defined in applicable law.
+
+You may submit requests to exercise your right to access, deletion and correction by emailing [support@acorns.com](mailto:support@acorns.com) or writing to Acorns Legal, 5300 California Ave., Irvine, CA 92617. The rights described above are not absolute, and in certain cases, we may decline your request as permitted by law. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+
+Identity verification. We need to verify your identity to process your requests to exercise your rights to access, deletion, and correction, and we reserve the right to confirm your entitlement to exercise these rights under the laws in your jurisdiction. To verify your identity, we may require you to log into your Acorns account if you have one, provide identifiers we can match against information we may have collected from you previously, confirm your request using the email address or telephone number used to make the request, provide government identification, or provide a declaration under penalty of perjury, where permitted by law.  
+  
+  
 
 #### Opt-out of marketing communications. 
 
 You may opt-out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email, or by [contacting us](#h_996856840129341672288181881).  Please note that if you choose to opt-out of marketing-related emails, you may continue to receive service-related and other non-marketing emails.  
 
-If you receive text messages from us, you may opt out of receiving further text messages from us by replying STOP. 
+If you receive text messages from us, you may opt out of receiving further text messages from us by replying STOP.   
+  
 
 #### Mobile location data.  
 
-You can disable our access to your device’s precise geolocation in your mobile device settings.
+If you have previously opted into sharing your device’s precise geolocation information, you can opt-out in your mobile device’s settings.  
+  
 
 #### Cookies. 
 
-Most browsers let you remove or reject cookies.  To do this, follow the instructions in your browser settings.  Many browsers accept cookies by default until you change your settings.  Please note that if you set your browser to disable cookies, our websites may not work properly. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).  To opt-out of data collection through our analytics provider, Google Analytics, visit [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+Most browsers let you remove or reject cookies.  To do this, follow the instructions in your browser settings.  Many browsers accept cookies by default until you change your settings.  Please note that if you set your browser to disable cookies, our websites may not work properly. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).  To opt-out of data collection through our analytics provider, Google Analytics, visit [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).  
+  
 
 #### Blocking web beacons.
 
-Most browsers offer settings that allow you to configure your device to prevent images that would include web beacons/clear GIFs from loading. 
+Most browsers offer settings that allow you to configure your device to prevent images that would include web beacons/clear GIFs from loading.  
+  
 
 #### Interest-based advertising. 
 
@@ -326,7 +357,7 @@ Steps you can take to opt-out out of use of your personal information for intere
 
 * Browser settings.  Blocking third-party cookies in your browser settings.
 * Privacy browsers/plug-ins. Using privacy browsers or ad-blocking browser plug-ins that let you block tracking technologies. 
-* Platform settings. Using Google’s and Facebook’s opt-out tools to opt-out of their use of your information for interest based advertising:
+* Platform settings. Using Google’s and Facebook’s opt-out tools to opt-out of their use of your information for interest-based advertising:
     * Google: [https://adssettings.google.com/](https://adssettings.google.com/)
     * Facebook: [https://www.facebook.com/about/ads](https://www.facebook.com/about/ads) 
 * Ad industry tools.  Opting out of interest-based ads from companies participating in the following industry opt-out programs: 
@@ -336,15 +367,18 @@ Steps you can take to opt-out out of use of your personal information for intere
 * Mobile settings.  Using your mobile device settings to limit use of the advertising ID associated with your mobile device for [interest-based advertising purposes](#h_52700337646431672332824426).
 
   
-You will need to apply these opt-out settings on each device and browser from which you wish to opt-out.  Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the ad industry opt-out mechanisms that we linked to above. 
+You will need to apply these opt-out settings on each device and browser from which you wish to opt-out.  Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the ad industry opt-out mechanisms that we linked to above.   
+  
 
 #### Do not track. 
 
-Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit.  We currently do not respond to “Do Not Track” or similar signals except where we expressly indicate otherwise.  To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit.  We currently do not respond to “Do Not Track” or similar signals except where we expressly indicate otherwise.  To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).  
+  
 
 #### Declining to provide information.
 
-We need to collect personal information to provide certain services.  If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
+We need to collect personal information to provide certain services.  If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.  
+  
 
 #### Close your account.
 
@@ -356,7 +390,7 @@ The Service may contain links to websites, mobile applications, and other online
 
 ### **Security** 
 
-We employ, test and regularly re-evaluate reasonable technical, organizational and physical safeguards designed to protect the confidentiality, integrity and security of the personal information we collect, both when we receive it and during transit, such as by encrypting credit card numbers and other sensitive personal information that you enter into the Service.  However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your personal information. 
+We employ, test and regularly re-evaluate appropriate technical, organizational and physical safeguards designed to protect the confidentiality, integrity and security of the personal information we collect, both when we receive it and during transit, such as by encrypting credit card numbers and other sensitive personal information that you enter into the Service.  However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your personal information. 
 
 ### **International data transfer**
 
@@ -384,7 +418,7 @@ Irvine, CA 92617
 
 This notice describes our collection, use and disclosure of personal information of California residents in our capacity as a “business” under the California Consumer Privacy Act (“CCPA”) and their rights with respect to their personal information. For purposes of this California privacy notice, “personal information” has the meaning given in the CCPA but does not include information exempted from the scope of the CCPA, such as information described in our [Acorns Privacy Notice](https://www.acorns.com/privacy/) pursuant to the Gramm-Leach-Bliley Act. 
 
-Your privacy rights. If you’re a California resident, you have the following rights under the CCPA:
+Your privacy rights. If you’re a California resident, you have the following rights under the CCPA. As required by the CCPA, we compile metrics on California Privacy Rights Reporting that can be found here.
 
 * Right to know. You can request information about the categories of personal information that we have collected; the categories of sources from which we collected personal information; the business or commercial purpose for collecting, sharing and/or selling personal information; the categories of any personal information that we sold or disclosed for a business purpose; and the categories of any third parties with whom personal information was sold, shared or disclosed for a business purpose.
 * Right to access. You can request a copy of certain personal information that we have collected about you.
@@ -416,6 +450,7 @@ Information practices. The following describes our practices currently and durin
 | Internet or Network Information <br><br>Device data<br><br>Online activity data | Affiliates <br><br>Service providers<br><br>Advertising partners |
 | Geolocation data<br><br>Device data (e.g., city, state derived from IP address) | Affiliates <br><br>Service providers |
 | Inferences<br><br>May be derived from any of the above categories | Affiliates <br><br>Service providers<br><br>Advertising partners |
+| Sensitive Personal Information<br><br>Government identifiers, such as Social security, driver’s license, state identification card, or passport number<br><br>Citizenship or immigration status<br><br>Precise geolocation | Affiliates<br><br>Service providers |
 
 ### **Nevada privacy notice**
 
