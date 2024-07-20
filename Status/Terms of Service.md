@@ -60,7 +60,7 @@ Beta 2 for macOS[Beta 2 for Windows](https://status.im/api/download/windows)[Bet
 
 [New
 
-What Should Status Build Next?: SNT Hodlers Vote Now, Earn XP!](https://status.im/blog/snt-hodlers-vote-earn-xp)
+Announcing the SNT Hodler Vote Results!](https://status.im/blog/snt-vote-results)
 
 Make the  
 jump to web3
@@ -257,7 +257,7 @@ Building apps to uphold human rights, protect free speech & defend privacy.
 
 Participate in Status’ governance and help guide development with SNT.
 
-[About SNT](https://status.im/token)
+[About SNT](https://status.im/snt)
 
 ### Stay up to date
 
@@ -328,10 +328,12 @@ Developers
 
 SNT
 
-* [Token](https://status.im/token)
+* [Token](https://status.im/snt)
+* [Release schedule](https://status.im/snt/release-schedule)
+* [Whitepaper](https://status.app/whitepaper.pdf)
 * [Governance](https://governance.status.app/)
 * [Curate](https://curate.status.app/)
-* [Exchanges](https://status.im/exchanges)
+* [Exchanges](https://status.im/snt/exchanges)
 
 [![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_1080,q_auto/Brand/Logo%20Section/Mark/Mark_01)](https://status.im/)
 
