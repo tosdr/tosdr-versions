@@ -77,7 +77,7 @@ Menu
 Terms & Conditions
 ==================
 
-Last Updated: 19 February 2024
+Last Updated: 24 June 2024
 
 These terms and conditions create a contract between you and School Reviewer Limited whose registered office address is
 
@@ -85,7 +85,7 @@ New Derwent House, 69-73 Theobalds Road, London, England, WC1X 8TA (“School Re
 
 For information regarding GDPR and your data rights, please view our [Privacy Policy](https://www.schoolexams.co.uk/privacy-policy/).
 
-This Agreement governs your use of School Reviewer’s services (“Services”), through which you can access quizzes, media, videos, ebooks, papers and other digital media material and content. (“Content”). Our Services are: [www.schoolonline.co.uk](https://www.schoolonline.co.uk/) Our Services are available for your use in your country of residence (“Home Country”). To use our Services, you need compatible hardware, software (latest version recommended and sometimes required) and Internet access (fees may apply). Our Services’ performance may be affected by these factors.
+This Agreement governs your use of School Reviewer’s services (“Services”), through which you can access quizzes, media, videos, ebooks, papers and other digital media material and content. (“Content”). Our Services are: [www.schoolonline.co.uk](http://www.schoolonline.co.uk/) and [www.schoolonline.ai](http://www.schoolonline.ai/). Our Services are available for your use in your country of residence (“Home Country”). To use our Services, you need compatible hardware, software (latest version recommended and sometimes required) and Internet access (fees may apply). Our Services’ performance may be affected by these factors.
 
 ### USING OUR SERVICES
 
@@ -122,7 +122,7 @@ Your use of the Services and Content must follow the rules set forth in this sec
 
 You may be able to redownload previously acquired Content (“Redownload”) to your devices that are signed in with the same SchoolOnline ID (“Associated Devices”).
 
-Associated Devices Rules: You can a maximum of 5 devices signed in with your SchoolOnline ID at one time. Each computer must also be authorised using the same SchoolOnline ID. Devices can be associated with a different SchoolOnline ID once every 90 days.
+Associated Devices Rules: You can have a maximum of 5 devices signed in with your SchoolOnline ID at one time. Each computer must also be authorised using the same SchoolOnline ID. Devices can be associated with a different SchoolOnline ID once every 90 days.
 
 #### SUBSCRIPTIONS
 
