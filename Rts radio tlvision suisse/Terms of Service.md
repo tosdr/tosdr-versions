@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Euro 2024](https://www.rts.ch/sport/football/euro/)
+* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Euro 2024](https://www.rts.ch/sport/football/euro/)
+* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
 
 #### S'informer
 
@@ -42,6 +42,7 @@ Retour
 #### Se divertir
 
 * [Séries & films](https://www.rts.ch/play/tv/categories/series-et-films)
+* [Humour](https://www.rts.ch/articles/lien/humour-28548438.html)
 
 #### Enfants et jeunes
 
@@ -59,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Euro 2024](https://www.rts.ch/sport/football/euro/)
+* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
 
 * TV & Streaming
 * Audio
@@ -85,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Euro 2024](https://www.rts.ch/sport/football/euro/)
+* [Montreux Jazz Festival](https://www.rts.ch/info/culture/musiques/2024/minute-par-minute/le-suivi-de-la-58e-edition-relookee-du-montreux-jazz-festival-28559744.html)
 
 #### S'informer
 
@@ -104,6 +105,7 @@ Retour
 #### Se divertir
 
 * [Séries & films](https://www.rts.ch/play/tv/categories/series-et-films)
+* [Humour](https://www.rts.ch/articles/lien/humour-28548438.html)
 
 #### Enfants et jeunes
 
@@ -127,11 +129,14 @@ TV & Streaming
 
 ### Streaming
 
+[](https://www.rts.ch/play)
+
 * [Accueil](https://www.rts.ch/play)
 * [En direct](https://www.rts.ch/play/tv/direct)
 * [Replay émissions](https://www.rts.ch/play/tv/emissions)
 * [Séries & films](https://www.rts.ch/play/tv/categories/series-et-films)
 * [Documentaires](https://www.rts.ch/play/tv/categories/documentaires)
+* [Humour](https://www.rts.ch/articles/lien/humour-28548438.html)
 * [Kids](https://www.rts.ch/play/tv/categories/kids)
 
 [](https://www.rts.ch/play/tv/direct/)
@@ -141,14 +146,13 @@ Retour
 Audio
 -----
 
-### Portail audio
+### [Portail audio](https://www.rts.ch/audio-podcast/)
 
 * [Accueil](https://www.rts.ch/audio/)
-* [En direct](https://www.rts.ch/audio/)
 * [Émissions radio](https://www.rts.ch/audio/emissions/)
 * [Podcasts](https://www.rts.ch/audio-podcast/emissions/podcasts-originaux/)
 
-[](https://www.rts.ch/audio-podcast/)
+[Les directs](https://www.rts.ch/audio-podcast/)
 
 [](https://www.rts.ch/entreprise/ "RTS Entreprise")
 
@@ -446,28 +450,27 @@ En cas de litige, les tribunaux de Lausanne (Suisse) sont exclusivement compéte
  
 
 * [A propos](https://www.rts.ch/entreprise/)
+* [Contact](https://www.rts.ch/entreprise/contact/)
 * [FAQ](https://www.rts.ch/entreprise/vos-questions/)
+* [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
+* [S'abonner à nos newsletters](https://www.rts.ch/articles/2023/information/decouvrez-les-newsletters-de-la-rts-27427199.html)
+
+* [Assister à nos émissions](https://avecvous.rts.ch/evenements/emissions/)
+* [Visiter nos studios](https://avecvous.rts.ch/evenements/visites/)
+* [Participer aux ateliers](https://www.rts.ch/articles/lien/ateliers-rts-avec-vous-28512664.html)
+* [Jouer aux concours](https://www.rts.ch/articles/lien/quiz-et-concours-rts-avec-vous-28552488.html)
+* [SSR Suisse Romande](https://ssrsr.ch/)
+* [Valeur Publique SSR](https://publicvalue.srgssr.ch/fr/)
+
+* [Communiqués de presse](https://www.rts.ch/entreprise/espace-pro/communiques-de-presse/)
+* [Espace professionnel](https://www.rts.ch/entreprise/espace-pro/)
+* [RTS Fiction](https://www.rts.ch/fiction/)
+
 * [Conditions générales](https://www.rts.ch/conditions)
 * [Charte de confidentialité](https://www.rts.ch/charte)
 * Gestion des cookies
-
-* [Contact](https://www.rts.ch/entreprise/contact/)
-* [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
-* [Communiqués de presse](https://www.rts.ch/entreprise/espace-pro/communiques-de-presse/)
-* [Newsletters](https://www.rts.ch/articles/2023/information/decouvrez-les-newsletters-de-la-rts-27427199.html)
-* [RTS Fiction](https://www.rts.ch/fiction/)
-
-* [Recevoir nos programmes](https://www.rts.ch/entreprise/l-offre-rts/2017/article/tous-les-chemins-menent-a-nos-programmes-27345854.html)
-* [Comment écouter nos podcasts](https://www.rts.ch/entreprise/2020/information/comment-ecouter-nos-podcasts-28386455.html)
-* [Ventes aux professionnels](https://www.rts.ch/entreprise/espace-pro/)
-* [Visiter les studios](https://avecvous.rts.ch/evenements/visites/)
-* [Assister aux émissions](https://avecvous.rts.ch/evenements/emissions/)
-
-* [RTS Avec Vous](https://avecvous.rts.ch/)
-* [Valeur Publique](https://publicvalue.srgssr.ch/fr/)
-* [SSR Suisse Romande](https://ssrsr.ch/)
-* [Médiation](https://ssrsr.ch/mediation/)
 * [Jurisprudence](https://www.rts.ch/entreprise/vos-questions/13388287.html)
+* [Médiation](https://ssrsr.ch/mediation/)
 
 [SRF](https://www.srf.ch/) [RSI](https://www.rsi.ch/) [RTR](https://www.rtr.ch/) [SWI](https://www.swissinfo.ch/) [Play Suisse](https://www.playsuisse.ch/)
 
