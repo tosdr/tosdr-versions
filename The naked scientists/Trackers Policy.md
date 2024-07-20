@@ -2,8 +2,8 @@
 
 [The Naked Scientists](https://www.thenakedscientists.com/ "Home")
 
-Award-winning [science podcasts](https://www.thenakedscientists.com/podcasts) and [science radio shows](https://www.thenakedscientists.com/podcasts)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+Best [science podcasts](https://www.thenakedscientists.com/podcasts) and [science radio shows](https://www.thenakedscientists.com/podcasts)
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 [Login](https://www.thenakedscientists.com/forum/index.php?action=login)
 
