@@ -189,7 +189,6 @@ Dont have account?
 * [Image To Color Palette](https://www.schemecolor.com/image-to-color-generator)
 * [Color Code Converter](https://www.schemecolor.com/color-code-converter)
 * [Color Tester](https://www.schemecolor.com/color-tester)
-* [Surprise](https://www.schemecolor.com/surprise.php)
 
 * ##### POPULAR
     
