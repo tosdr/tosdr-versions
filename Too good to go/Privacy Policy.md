@@ -103,8 +103,8 @@ United States (English)
 Privacy Policy
 ==============
 
-Last updated August 2023  
-Version 2.0
+Last updated June 2024  
+Version 2.1
 
 ### 1\. INTRODUCTION
 
@@ -767,13 +767,76 @@ Please note that the above mentioned rights are subject to certain exceptions, a
 
 To exercise any of these rights, please contact the data protection officer for Canada using the contact information listed in section 14 or where applicable, use our self-serve options described in section 11.1 of the Policy.
 
+### SCHEDULE 4 - AUSTRALIA PRIVACY RIGHTS
+
+If you access our Platform from Australia, the TGTG entity responsible for collecting your personal information is:
+
+Too Good To Go Australia Pty Ltd
+
+C/- Tricor Services (Australia) Pty Ltd, Level 3, 1049 Victoria Road,
+
+West Ryde, NSW 2114.
+
+ABN: 65 675 037 000
+
+Where Australian laws apply, including with respect to Users of the Platform in Australia and employees and owners of Stores based in Australia, we collect, hold, use, and disclose your personal information in accordance with the Australian Privacy Principles (APPs) as set out in the Privacy Act 1988 (Cth) (Privacy Act).
+
+Where the Privacy Act applies, the terms ‘personal information’ and ‘sensitive information’ will have the meanings given to them under the Privacy Act.
+
+The lawful basis for our processing of personal information under the Privacy Act may be different from the lawful basis articulated in the Policy above. Where the Privacy Act applies, we will only collect sensitive information with consent, unless an exception applies.
+
+We maintain personal information on secure servers and in accordance with Section 10 of the Policy above. Personal information is accessible to authorized personnel who require access for the purposes described in the Policy above.
+
+1. ###### INFORMATION WE COLLECT
+    
+
+We collect personal information and other data as described in Section 4 (“INFORMATION WE COLLECT FROM USERS”) and Section 5 (“INFORMATION WE COLLECT FROM OUR PARTNERS, VENDORS AND OTHER BUSINESS CONTACTS”) of the Policy above.
+
+1. ###### HOW WE USE THE INFORMATION WE COLLECT
+    
+
+We use personal information and other data for the purposes described in Section 6 (“HOW WE USE THE INFORMATION WE COLLECT“) of the Policy above.
+
+1. ###### YOUR RIGHTS
+    
+
+Under the Privacy Act, you have the following rights in relation to our processing of personal information about you, subject to the conditions and exceptions set out in the Privacy Act:
+
+* **Right to access:** you have a right to gain access to the information that we hold about you.
+* **Right to correction:** you have a right to have inaccurate, out of date, incomplete, irrelevant or misleading information that we hold about you corrected.
+* **Right to withdraw your consent:** you have a right to withdraw your consent at any time.
+* **Right to opt out of direct marketing:** you have a right to opt out of the receipt of direct marketing communications from us, to opt out of the use or disclosure of your personal information by us for the purpose of direct marketing or to request the source of such information.
+
+To exercise any of these rights, please contact the privacy officer for Australia using the contact information listed in Section 14 of the Policy above or, where applicable, use our self-serve options described in Section 11.1.
+
+1. ###### COMPLAINTS
+    
+
+If you wish to complain about our processing of your personal information, or should you perceive any breach of the APPs in our processing, please contact the privacy officer for Australia using the contact information listed in section 14 of the Policy above.
+
+We will make every effort to review and respond to your complaint within thirty (30) calendar days from when you contacted us.
+
+It will not always be possible to resolve a complaint to your satisfaction. If you are not satisfied with our response to a complaint, you have the right to contact the Office of the Australian Information Commissioner (at www.oaic.gov.au/contact-us) to lodge a complaint.
+
+1. ###### DISCLOSURE OF PERSONAL INFORMATION TO THIRD PARTIES
+    
+
+We disclose personal information and other data to third parties for the purposes described in Section 7 (“REASONS WE SHARE INFORMATION”) of the Policy above.
+
+1. ###### CROSS-BORDER DISCLOSURE OF PERSONAL INFORMATION
+    
+
+Some personal information will likely be disclosed to some of our related entities or other third parties who are located outside of Australia or held on servers located outside of Australia.
+
+In the case of our related entities, personal information may be disclosed to our related TGTG entities located in countries including Austria, Belgium, Canada, Czechia, Denmark, France, Germany, Ireland, Italy, Norway, Poland, Portugal, Spain, Sweden, Switzerland, The Netherlands, United Kingdom and United States.
+
 [![Too Good To Go Logo](/_nuxt/logo.LysY4rrc.svg)](https://toogoodtogo.com/en-us)
 
 [Careers](https://toogoodtogo.com/en-us/careers "Careers")[Press](https://toogoodtogo.com/en-us/press "Press")[Support](https://toogoodtogo.com/en-us/support "Support")[Mystore](https://store.toogoodtogo.com/login?cookie_consent=false&locale=en-us "Mystore")
 
 [](https://www.linkedin.com/company/too-good-to-go)[](https://www.instagram.com/toogoodtogo.usa/)[](https://www.facebook.com/toogoodtogoUSA/)[](https://www.tiktok.com/@toogoodtogo)[](https://www.youtube.com/channel/UCBonm_44z7UL0OvhHksBCAw)[](https://www.tiktok.com/@toogoodtogo)
 
-[![Download on the Apple App Store](https://cdn.sanity.io/images/nqimd3nr/production/ceed6a2b4247d22d0e6f9425cad1d5c39af762fe-480x160.png)](https://apps.apple.com/dk/app/too-good-to-go-end-food-waste/id1060683933)[![Get it on Google Play](https://cdn.sanity.io/images/nqimd3nr/production/68072d9f747a9e089548846cecc588ef52bb624e-540x160.png)](https://play.google.com/store/apps/details?id=com.app.tgtg)[![Explore it on AppGallery](https://cdn.sanity.io/images/nqimd3nr/production/5e81682e0d82a00b084b11d122334ddeba002ea0-540x160.png)](https://appgallery.huawei.com/app/C103584611)
+[![Download on the Apple App Store](https://cdn.sanity.io/images/nqimd3nr/production/ceed6a2b4247d22d0e6f9425cad1d5c39af762fe-480x160.png)](https://tgtg.onelink.me/OGjG/afd50hls)[![Get it on Google Play](https://cdn.sanity.io/images/nqimd3nr/production/68072d9f747a9e089548846cecc588ef52bb624e-540x160.png)](https://tgtg.onelink.me/OGjG/afd50hls)[![Explore it on AppGallery](https://cdn.sanity.io/images/nqimd3nr/production/5e81682e0d82a00b084b11d122334ddeba002ea0-540x160.png)](https://tgtg.onelink.me/OGjG/afd50hls)
 
 [![Certified B Corporation](/_nuxt/certification-b-corporation.COzENzNS.svg)](https://toogoodtogo.com/en-us/about-us/b-corp)
 
