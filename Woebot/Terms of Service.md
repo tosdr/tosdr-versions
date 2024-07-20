@@ -1,9 +1,10 @@
   [![logo](https://woebothealth.com/wp-content/themes/woebot/dist/images/logo.svg?v=2022036) ![logo](https://woebothealth.com/wp-content/themes/woebot/dist/images/logo_white.svg?v=20220306)](https://woebothealth.com/) ![mobile-menu](https://woebothealth.com/wp-content/themes/woebot/dist/images/mobile-menu-closed.svg) ![mobile-menu](https://woebothealth.com/wp-content/themes/woebot/dist/images/mobile-menu-opened.svg)
 
-* [Solution](https://woebothealth.com/solution/)
+* Solutions
+    * [For Payers](https://woebothealth.com/for-payers/)
+    * [For Providers](https://woebothealth.com/for-providers/)
 * [Technology](https://woebothealth.com/technology-overview/)
     * [AI Core Principles](https://woebothealth.com/ai-core-principles/)
-* [Research](https://woebothealth.com/research/)
 * Resources
     * [News](https://woebothealth.com/news/)
     * [Blog](https://woebothealth.com/blog/)
@@ -11,11 +12,11 @@
 * [About Us](https://woebothealth.com/about-us/)
     * [Leadership](https://woebothealth.com/our-leadership/)
     * [Boards](https://woebothealth.com/our-boards/)
-    * [Woebot’s Core Beliefs](https://woebothealth.com/woebots-core-beliefs-2/)
+    * [Woebot’s Core Pillars](https://woebothealth.com/woebots-core-pillars/)
     * [Achievements](https://woebothealth.com/achievements/)
     * [Careers](https://woebothealth.com/careers/)
-* [For Users](https://woebothealth.com/for-users/)
-* [For Organizations](https://woebothealth.com/partner-with-us/)
+* [Users](https://woebothealth.com/for-users/)
+* [Organizations](https://woebothealth.com/partner-with-us/)
 
    
 
@@ -222,8 +223,7 @@ Both you and Woebot acknowledge and agree that Apple and Apple’s subsidiaries 
 * [Blog](https://woebothealth.com/blog/)
 * [Careers](https://woebothealth.com/careers/)
 * [FAQs](https://woebothealth.com/faq/)
-* [Partner With Us](https://go.woebothealth.com/get-a-demo)
-* [For Press](https://woebothealth.com/for-press/)
+* [Partner with Us](https://woebothealth.com/partner-with-us/)
 
 © 2024 Woebot Health
 
@@ -248,8 +248,7 @@ Both you and Woebot acknowledge and agree that Apple and Apple’s subsidiaries 
 * [Blog](https://woebothealth.com/blog/)
 * [Careers](https://woebothealth.com/careers/)
 * [FAQs](https://woebothealth.com/faq/)
-* [Partner With Us](https://go.woebothealth.com/get-a-demo)
-* [For Press](https://woebothealth.com/for-press/)
+* [Partner with Us](https://woebothealth.com/partner-with-us/)
 
 * [Linkedin](https://www.linkedin.com/company/woebot-labs/)
 * [Instagram](https://www.instagram.com/woebot/)
