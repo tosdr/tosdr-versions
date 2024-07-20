@@ -123,6 +123,8 @@ Common ID Cookie
 
 This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking [here](https://blog.symbaloo.com/disclaimer/disclaimer_us.html?_ga=2.86194527.655338238.1633331768-975755949.1627294414#opt-out).
 
+All or partial advertising on this Website or App is managed by Playwire LLC. If Playwire publisher advertising services are used, Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes. To learn more about the types of data collected, how data is used and your choices as a user, please visit [https://www.playwire.com/privacy-policy](https://www.playwire.com/privacy-policy).
+
 Billing & Payments
 ------------------
 
@@ -141,6 +143,8 @@ Advertising Privacy Settings
 FOR EU USERS ONLY: When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking this button.
 
 [Choose your settings](javascript:__tcfapi('displayConsentUi',2, function() {});)
+
+Our advertising partners may use cookies to show you interest-based and non-interest-based advertising. You may opt-out of interest-based advertising [here](http://optout.networkadvertising.org/?c=1#!/): 
 
 Changes to the Symbaloo Privacy Policy
 --------------------------------------
