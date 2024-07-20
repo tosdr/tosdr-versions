@@ -1,12 +1,10 @@
-[![Sleeper Support Center](https://downloads.intercomcdn.com/i/o/530542/f40d57ef0b7ddc3f1e684b1f/69c2058a0950e97158772a28dacd8400.png)](https://support.sleeper.app/en/)
+[Skip to main content](#main-content)
 
-[Go to Sleeper](https://sleeper.com/)
+[![Sleeper Support Center](https://downloads.intercomcdn.com/i/o/530542/f40d57ef0b7ddc3f1e684b1f/69c2058a0950e97158772a28dacd8400.png)](https://support.sleeper.app/en/)
 
 English한국어PortuguêsEspañolTiếng Việt;
 
 English
-
-[Go to Sleeper](https://sleeper.com/)
 
 English한국어PortuguêsEspañolTiếng Việt;
 
@@ -26,9 +24,9 @@ Blitz Studios, Inc.
 
 Written by Sleeper HQ
 
-Updated over a week ago
+Updated yesterday
 
-Last Updated: June 6, 2024
+Last Updated: July 19, 2024
 
 Blitz Studios, Inc., and as applicable, its subsidiaries and affiliates (collectively, “**Sleeper**,” “**we**,” “**our**,” or “**us**”) own and operate the Sleeper mobile application and website, located at [www.sleeper.app](https://www.sleeper.app/) and [www.sleeper.com](http://www.sleeper.com/), through which we offer free-to-play games, paid-entry contests of skill, and other games, tools, and fantasy sports-related products and services (collectively, the “**Services**”). Before accessing or using the Services, please read this Privacy Notice (the “**Privacy Notice**” or “**Notice**”).
 
@@ -294,6 +292,8 @@ Our lawful basis for processing, including basis of legitimate interest, include
 
 Where legally required, and we have no other valid legal basis to process your information, we will obtain consent (by way of example, to provide you with marketing information or share information with third-parties), which may subsequently be withdrawn at any time by contacting us. Withdrawing consent does not affect the lawfulness of processing based on consent before it is withdrawn. Where we need to collect information by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to you with the Services or portions thereof. You may lodge a complaint with a supervisory authority if you believe our processing of your information is unlawful. Please submit any such requests by sending an e-mail to [\[email protected\]](https://support.sleeper.app/cdn-cgi/l/email-protection).
 
+**Active monthly users (as of June 30, 2024)**: Under Article 24 of the Digital Services Act (the "**DSA**"), on-line platforms are required to publish information on the average monthly active recipients of services in the EU at least every six (6) months. This is for the purposes of determining whether an on-line platform is a very large on-line platform ("**VLOP**"), reaching an average of at least 45 million users per month in the EU (i.e., representing 10% of the EU population). VLOPs are subject to additional requirements due to the role they play in the dissemination of content throughout the EU. Article 24(2) and other provisions of the DSA provide guidance for on-line platforms in calculating the number of average monthly active recipients of the service, including limiting this number to recipients located in the EU, excluding visits from automated bots and scrapers, and counting only unique visits, i.e., counting multiple visits by the same user to different sites or interfaces of the same platform only once in each month. We have calculated the average monthly active recipients of our platform services in the EU based on the period from January 1, 2024 to June 30, 2024, in accordance with Recital 77 of the DSA. Our conclusion is that during this period the average number of monthly active recipients of our platform services in the EU was below the 45 million users threshold for being designated as a VLOP. We will continue to monitor the number of average monthly active recipients of our platform services in the EU and will publish updated information in accordance with Article 24(2).
+
 Note that Blitz Studios, Inc. is the controller of personal data collected through the Services.
 
 8\. **Canada (PIPEDA)**
@@ -326,7 +326,7 @@ We may refuse to provide information in the event; we cannot confirm your identi
 
 12. **Changes to the Privacy Notice.** We may modify this Notice from time to time, in our sole discretion. When any such updates are made, we shall revise the “Effective Date” above and post the new Notice version. We recommend that you review the Privacy Notice each time you visit and/or use the Services in order to stay informed of our ongoing practices.
 
-13\. **Contact.** Any questions, comments, complaints, and/or submissions referenced herein pertaining to this Privacy Notice should be e-mailed to [\[email protected\]](https://support.sleeper.app/cdn-cgi/l/email-protection) and/or mailed to 548 Market Street, PMB 95988, San Francisco, CA 94104, Attn: Blitz Studios, Inc.
+13\. **Contact.** Any questions, comments, complaints, and/or submissions referenced herein pertaining to this Privacy Notice should be e-mailed to our Data Protection Officer at [\[email protected\]](https://support.sleeper.app/cdn-cgi/l/email-protection) and/or mailed to 548 Market Street, PMB 95988, San Francisco, CA 94104, Attn: Blitz Studios, Inc.
 
 Did this answer your question?
 
