@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=7c14496ac6fca7894743c26b5c15307d)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=44800b6ee0065e8e7e825ededb5ea2cf)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -116,9 +116,9 @@ NEITHER TELLO, LLC NOR ITS NETWORK SUPPLIER IS RESPONSIBLE OR LIABLE FOR ANYTHIN
   
 The customer will need to provide Tello, LLC with the correct service address to route 911 calls to the customer. When Wi-Fi 911 service is used, the phone call is routed to Tello, LLC which is then routed to the local emergency service provider. Tello, LLC does not track the location of the customer so Tello, LLC will depend on the correct service address to forward to emergency services.  
 If the customer makes a Wi-Fi 911 call and the customer is not at the correct service address, the customer will have to give emergency responders current location information otherwise, emergency responders will not be able to locate the customer.  
-Since WiFi 911 calls route through Tello, LLC, emergency personnel may not be able to identify the customer's phone number to call back the customer.  
+Since Wi-Fi 911 calls route through Tello, LLC, emergency personnel may not be able to identify the customer's phone number to call back the customer.  
   
-Since WiFi 911 calls depend on a Wi-Fi connection, customers should be aware that calls could drop or be delayed due to Wi-Fi connections being disrupted.  
+Since Wi-Fi 911 calls depend on a Wi-Fi connection, customers should be aware that calls could drop or be delayed due to Wi-Fi connections being disrupted.  
 It is recommended that customers always maintain alternate means of contacting 911.
 
 Acceptable use of service
@@ -187,7 +187,6 @@ Tello SIM
 ---------
 
 Unless specifically stated otherwise on our website, the Service is available only for persons located within the United States (excluding Puerto Rico).  
-Roaming is not available, and our Service can not be used outside US territory.  
 Standard delivery period: when ordering a Tello SIM is 3-5 business days, but no later than 7 business days. No delivery will be made on weekends or national holidays.  
 Tello SIMs purchased from tello.com or from approved providers need to be activated by the Customer in the Tello online account within 30 days from purchase, otherwise the SIM will expire and it will be unusable for future activations. No refund of the SIM price will be granted in case of such expiry.  
 SIM format is delivered as specified by the Customer during checkout (micro or nano). If another format is needed upon delivery, additional charges may apply.  
@@ -224,7 +223,14 @@ Tello relies on partners to provide the international roaming services. At times
   
 Local emergency services are available with international roaming.  
   
-The international roaming service is subject to the general Terms & Conditions applicable to Tello's service offerings, including its Privacy and Acceptable Use policies.
+The international roaming service is subject to the general Terms & Conditions applicable to Tello's service offerings, including its Privacy and Acceptable Use policies.  
+  
+When using our international roaming service, you must agree to the following terms:
+
+* This service is not intended for prolonged international use. You must reside in the U.S., and your primary usage should occur on the U.S. network. Additionally, your device must be registered on the U.S. network prior to international use.
+* Voice and text features are exclusively for direct communication between two individuals. Calls to premium-rate numbers (e.g., 900 numbers, entertainment services, high-rate helplines) are not included.
+* International roaming coverage may be unavailable in certain areas, and we are not responsible for the networks of our partners.
+* Network Management: Service may be slowed, suspended, terminated, or restricted due to misuse, abnormal use, interference with our network or our ability to provide quality service to other users, or significant roaming.
 
 Plans Service Agreement
 -----------------------
@@ -262,7 +268,8 @@ If more than one product is active in customer's account, the balance will be us
 **Tello Unlimited Plan**  
 The Unlimited Plan is meant for using data mainly with your mobile phone. We reserve the right to limit excessive tethering/hotspot usage above 5GB. Accounts where we find excessive data usage may experience slowness in speed and/or service limitations for the current billing cycle, up to termination.**The Unlimited Data Plans are not available for renewal.**  
   
-New and existing customers on qualifying plans including data have streaming video optimization technology automatically applied to our plans, and video is delivered at a lower resolution (typically 480p) rather than at a higher resolution which is better suited for larger screens. This helps customers stretch their Data Plans by reducing the amount of high-speed data consumed for streaming video. Data speed optimization is not applied when a device is on Wi-Fi and therefore all data, including video, will be delivered at available speeds.
+New and existing customers on qualifying plans including data have streaming video optimization technology automatically applied to our plans, and video is delivered at a lower resolution (typically 480p) rather than at a higher resolution which is better suited for larger screens. This helps customers stretch their Data Plans by reducing the amount of high-speed data consumed for streaming video. Data speed optimization is not applied when a device is on Wi-Fi and therefore all data, including video, will be delivered at available speeds.  
+The Unlimited Data Plans are not available for renew.
 
 Park Number Plan Service Agreement
 ----------------------------------
@@ -453,7 +460,9 @@ After December 31 2018, Prepaid MTS surcharges (local) are still being charged. 
 Refund and payment
 ------------------
 
-**All charges billed by Tello exclude taxes.** Tello is committed to customer satisfaction and offers a 100% money back guarantee. An online purchase of any Tello product or service requires payment using a credit/debit card or PayPal account. Tello does not store credit/debit card information. Tello will refund the amount for any unused product or service to any Customer who is dissatisfied with Tello’s Services, subject to certain conditions. Refunds must be received by Tello within several days of the purchase date. Any promotion or discount applied to an order for which a refund is provided will be deducted from the amount of the refund. Tello will not refund any taxes paid on orders older than 6 months.  
+**All charges billed by Tello exclude taxes.** Tello calculates customer taxes with industry standard tax calculation software. Said software calculates taxes to four decimal places. When reflected on customer invoices, taxes are rounded to the nearest cent. As a result, it is possible that a rounding error will occur when itemized taxes are displayed on the customer invoice.  
+  
+Tello is committed to customer satisfaction and offers a 100% money back guarantee. An online purchase of any Tello product or service requires payment using a credit/debit card or PayPal account. Tello does not store credit/debit card information. Tello will refund the amount for any unused product or service to any Customer who is dissatisfied with Tello’s Services, subject to certain conditions. Refunds must be received by Tello within several days of the purchase date. Any promotion or discount applied to an order for which a refund is provided will be deducted from the amount of the refund. Tello will not refund any taxes paid on orders older than 6 months.  
   
 If an account and phone number are no longer active, any remaining balance (Pay As You Go credit or any Plan balance) in that account will be forfeited.  
   
@@ -650,7 +659,7 @@ From your Tello phone, dial 611
 
 **Email**  
 
-cus​tom​ers​erv​ice​@te​llo​.co​m​
+cust​omer​serv​ice@​tell​o.co​m​
 
 Shop
 
