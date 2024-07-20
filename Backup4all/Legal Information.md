@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to configure a new backup?](https://www.backup4all.com/how-to-configure-a-new-backup-kb.html)  
+* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
     
-* [How to backup your data to Connectria](https://www.backup4all.com/how-to-backup-your-data-to-connectria-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
+* [How to restore a backup to Amazon](https://www.backup4all.com/how-to-restore-a-backup-to-amazon-kb.html)  
     
-* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
+* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
     
-* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
     
 
 Choose language:
