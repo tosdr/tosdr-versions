@@ -1,3 +1,7 @@
+SafeDNS launches a redesigned dashboard with a new menu, faster performance, and improved security features!
+
+[Learn more](https://blog.safedns.com/game-on-safedns-launches-its-next-gen-dashboard/)
+
 [![safedns logo](/_next/static/media/safedns-main-logo.3354086f.svg)](https://www.safedns.com/)
 
 Solutions
