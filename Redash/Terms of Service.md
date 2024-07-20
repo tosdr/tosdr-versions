@@ -1,5 +1,3 @@
-This app works best with JavaScript enabled.
-
 Toggle navigation[![](/assets/images/elements/redash-logo.svg)](https://redash.io/)
 
 * [Product](https://redash.io/product/)
