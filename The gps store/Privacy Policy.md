@@ -315,7 +315,6 @@ GPS Units - Accessories
 [Actisense](https://www.thegpsstore.com/Brands/Actisense)  
 [B&G](https://www.thegpsstore.com/Brands/BG)  
 [BilgeBuddy](https://www.thegpsstore.com/Brands/BilgeBuddy)  
-[Bushnell](https://www.thegpsstore.com/Brands/Bushnell)  
 [C-Map Charts](https://www.thegpsstore.com/GPS-Maps-Software/Electronic-Charts/C-map-Charts)  
 [CMOR Charts](https://www.thegpsstore.com/GPS-Maps-Software/Electronic-Charts/CMOR-Charts)  
 [Flir Thermal Imaging](https://www.thegpsstore.com/Brands/FLIR-Thermal-Cameras)  
