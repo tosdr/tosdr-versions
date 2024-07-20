@@ -55,7 +55,7 @@ Javascript must be enabled for the correct page display
     Simplify privacy management. Stay ahead of regulations. Ensure data governance with cutting-edge solutions.
     
     * [PrivacyCentral](https://trustarc.com/products/privacy-data-governance/privacycentral/) Centralize privacy tasks, automate your program, and seamlessly align with laws and regulations.
-    * [Data Inventory Hub and Risk Profile](https://trustarc.com/products/privacy-data-governance/data-inventory-mapping/) Gain full visibility and control of your data and accurately identify and mitigate risks.
+    * [Data Inventory Hub & Risk Profile](https://trustarc.com/products/privacy-data-governance/data-inventory-mapping/) Gain full visibility and control of your data and accurately identify and mitigate risks.
     * [Assessment Manager](https://trustarc.com/products/privacy-data-governance/assessment-manager/) Automate and score privacy assessments like PIAs and AI Risk, streamlining your compliance workflow.
     * [Nymity Research](https://trustarc.com/products/privacy-data-governance/nymity-research/) Get instant access to the latest in privacy regulations, legal summaries, and operational templates.
     
@@ -74,7 +74,7 @@ Javascript must be enabled for the correct page display
     * [Data Privacy Framework Verification](https://trustarc.com/products/assurance-certifications/data-privacy-framework/)
     * [GDPR Validation](https://trustarc.com/products/assurance-certifications/gdpr-validation/)
     * [Digital Advertising Alliance Validation](https://trustarc.com/products/assurance-certifications/digitial-advertising-alliance/)
-    * [Responsible AI Certification](https://trustarc.com/products/assurance-certifications/responsible-ai/)
+    * [TRUSTe Responsible AI Certification](https://trustarc.com/products/assurance-certifications/responsible-ai/)
     
     [Explore all Products](https://trustarc.com/products/)
     
@@ -216,7 +216,7 @@ Walnut Creek, CA 94596, USA
   
 Phone: [+1-415-520-3490](tel:14155203490)
 
-[Contact us](https://trustarc.com/contact/)
+[Subscribe](https://trustarc.com/subscription-center/)
 
 * [![LinkedIn](https://trustarc.com/wp-content/uploads/2023/11/li.svg)](https://www.linkedin.com/company/trustarc/)
 * [![twitter](https://trustarc.com/wp-content/uploads/2023/11/x.svg)](https://twitter.com/TrustArc)
@@ -270,6 +270,6 @@ Phone: [+1-415-520-3490](tel:14155203490)
 * [Privacy Policy](https://trustarc.com/privacy-policy/)
 * [Site Terms](https://trustarc.com/site-terms/)
 * [Legal Center](https://trustarc.com/legal-center/)
-* [Trust Center](http://trust.trustarc.com/)
+* [Trust Center](https://trust.trustarc.com/)
 
 [Back to Top](#wrapper)
