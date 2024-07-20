@@ -241,6 +241,7 @@ Webinar.net is the first online presentation platform fully hosted in the cloud.
 
 * [Terms of Services](https://www.webinar.net/terms-of-service/)
 * [Privacy Policy](https://www.webinar.net/privacy-policy/)
+* [Information Security Policy](https://www.webinar.net/information-security-policy/)
 
 [![webinar-net-logo-inline-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-light-bg-1.png)](https://www.webinar.net/)
 
