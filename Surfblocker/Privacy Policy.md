@@ -2,7 +2,7 @@
 * [![](/engine/images/top_facebook.png)](https://www.facebook.com/blumentals)
 * [Company](https://www.blumentals.net/)
     
-* [English (North America)   ![](/engine/images/globe.png)](https://www.blumentals.net/geoselect.php?page=privacy.php "Language and region")   
+* [English (Europe)   ![](/engine/images/globe.png)](https://www.blumentals.net/geoselect.php?page=privacy.php "Language and region")   
 
 [![](/www.blumentals.net/images/logo.png)](https://www.blumentals.net/)
 
@@ -190,6 +190,7 @@ If you have any questions about this privacy policy, please [contact us](https:/
 * [Acknowledgements](https://www.blumentals.net/acknowledgements.php "Acknowledgements")
 * [Privacy Policy](https://www.blumentals.net/privacy.php "Privacy Policy")
 * [Terms of Use](https://www.blumentals.net/terms.php "Terms of Use")
+* [Cookies](#moz-cookiebar-reset)
 
 ### SITEMAP
 
