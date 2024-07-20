@@ -8,20 +8,21 @@ Open search form Close menu Close search form Menu Open menu Close menu Close me
 * [Profiles](https://www.thetransmitter.org/profiles/)
 * [Beyond the bench](https://www.thetransmitter.org/beyond-the-bench/)
 * [Podcasts](https://www.thetransmitter.org/podcasts/)
-* [Videos](https://www.thetransmitter.org/videos/)
 * [Books](https://www.thetransmitter.org/books/)
-* [_The Transmitter_ books](https://www.thetransmitter.org/transmitter-books/)
 
 [Spectrum logo](https://www.thetransmitter.org/spectrum/)
 
+* [AI: From bench to bot](https://www.thetransmitter.org/from-bench-to-bot/)
 * [Brain imaging](https://www.thetransmitter.org/brain-imaging/)
-* [Craft and careers](https://www.thetransmitter.org/craft-and-careers/)
-* [Neural circuits](https://www.thetransmitter.org/neural-circuits/)
-* [Connectivity](https://www.thetransmitter.org/connectivity/)
-* [Systems neuroscience](https://www.thetransmitter.org/systems-neuroscience/)
-* [Science and society](https://www.thetransmitter.org/science-and-society/)
-* [Open neuroscience](https://www.thetransmitter.org/open-neuroscience/)
 * [Computational neuroscience](https://www.thetransmitter.org/computational-neuroscience/)
+* [Craft and careers](https://www.thetransmitter.org/craft-and-careers/)
+* [Defining cell types](https://www.thetransmitter.org/defining-cell-types/)
+* [Defining representations](https://www.thetransmitter.org/defining-representations/)
+* [How to teach this paper](https://www.thetransmitter.org/how-to-teach-this-paper/)
+* [Neural circuits](https://www.thetransmitter.org/neural-circuits/)
+* [Open neuroscience and data-sharing](https://www.thetransmitter.org/open-neuroscience-and-data-sharing/)
+* [Science and society](https://www.thetransmitter.org/science-and-society/)
+* [Systems neuroscience](https://www.thetransmitter.org/systems-neuroscience/)
 
 [See all topics](https://www.thetransmitter.org/topics/)
 
@@ -211,5 +212,3 @@ Close menu
 Welcome to _The Transmitter_
 
 _Spectrum_ is now a key section of _The Transmitter_ and continues to publish news and perspectives about autism research. Previous _Spectrum_ articles are available at thetransmitter.org.
-
-We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.spectrumnews.org/privacy-policy/).[AGREE](#)
