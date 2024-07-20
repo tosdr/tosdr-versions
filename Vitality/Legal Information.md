@@ -3,9 +3,10 @@
 Vitality Privacy Notice
 =======================
 
-#### EFFECTIVE DECEMBER 1, 2023
+EFFECTIVE JULY, 2024
+--------------------
 
-The Vitality Group, LLC (“Vitality”; “We”; “Us”; “Our”) owns and operates the websites VitalityGroup.com; and PowerofVitality.com (“POV”) (“Websites”); and the mobile applications Vitality Today, Power of Vitality and Vitality One (“Applications”), which may be referred to collectively as the “Program(s).” Vitality’s Programs are made available to individuals through and on behalf of either your employer; your spouse’s employer; or another provider (“Program Provider”). This Privacy Notice applies to Personal Information (defined below) collected by or received Vitality whether online or offline. By accessing or using Vitality’s Programs, you are aware of the collection, receipt, use, disclosure and retention of your information as described in this Privacy Notice and accept the terms of this Privacy Notice and Our Terms of Use. Should you require that this Privacy Notice be read to you please contact the Vitality Customer Care Team on [+1 877-224-7117](tel:+18772247117). This Privacy Notice will address the following:
+The Vitality Group, LLC (“Vitality”; “We”; “Us”; “Our”) owns and operates the websites VitalityGroup.com; and PowerofVitality.com (“POV”) (“Websites”); and the mobile applications Vitality Today, Power of Vitality, and Vitality One (“Applications”), which may be referred to collectively as the “Program(s).” Vitality’s Programs are made available to individuals through and on behalf of either your employer; your spouse’s employer; or another provider (“Program Provider”). This Privacy Notice applies to Personal Information (defined below) collected by or received Vitality whether online or offline. By accessing or using Vitality’s Programs, you are aware of the collection, receipt, use, disclosure and retention of your information as described in this Privacy Notice and accept the terms of this Privacy Notice and Our Terms of Use. Should you require that this Privacy Notice be read to you please contact the Vitality Customer Care Team on [+1 877-224-7117](tel:+18772247117). This Privacy Notice will address the following:
 
 1. [From whom or where does Vitality collect personal information about me?](#1)
 2. [What types of information does Vitality collect about me?](#2)
@@ -21,7 +22,7 @@ The Vitality Group, LLC (“Vitality”; “We”; “Us”; “Our”) owns and
 12. [How long will my Personal Information be retained?](#12)
 13. [How will I know if this Privacy Notice changes?](#13)
 14. [Will Vitality communicate with me directly?](#14)
-15. [I receive the Vitality Program in the USA and I reside in California, Virginia, Utah, Colorado or Connecticut – What are my rights?](#15)
+15. [I receive the Vitality Program in the USA and I reside in California, Virginia, Utah, Colorado, Connecticut, Texas, Florida or Oregon – What are my rights?](#15)
 16. [I receive the Vitality Program in Canada – What are my rights?](#16)
 17. [I receive the Vitality Program in Costa Rica – What are my rights?](#17)
 18. [I reside in and receive the Vitality Program in the European Union or the United Kingdom – What are my rights?](#18)
@@ -37,7 +38,7 @@ The Vitality Group, LLC (“Vitality”; “We”; “Us”; “Our”) owns and
 28. [Employer Portal](#28)
 29. [How can I contact Vitality with my privacy concerns or inquiries?](#29)
 
-#### 1\. From whom or where does Vitality collect personal information about me?
+#### 1\. FROM WHOM OR WHERE DOES VITALITY COLLECT PERSONAL INFORMATION ABOUT ME?
 
 * _From your Program Provider:_ As part of your eligibility for the Program, your Program Provider will provide Vitality the information necessary to verify your identity when you register for the Program and to manage your account on an ongoing basis. If you do not want Vitality to receive this information, please contact your Program Provider and ask them to stop sending Vitality any information about you. Please note that this will make you ineligible to participate in the Program.
 * _Directly from You, including from your devices:_ By engaging with the Program, information linked to you and your interactions with the Program (e.g. your physical activity, reward earning events and redemption, and form submission) will be collected or created by Vitality. You can also choose to allow certain devices and mobile applications, such as Garmin, to sync data to a Vitality Application you use. You can modify these permissions at any time through the settings menu of the applicable application.
@@ -45,7 +46,7 @@ The Vitality Group, LLC (“Vitality”; “We”; “Us”; “Our”) owns and
 
 Additionally, if you engage with Vitality on a social media platform Vitality may respond or contact you through the applicable social media platform.
 
-#### 2\. What types of information does Vitality collect about me?
+#### 2\. WHAT TYPES OF INFORMATION DOES VITALITY COLLECT ABOUT ME?
 
 For the purposes of this Privacy Notice, Vitality’s definition of Personal Information is any information relating to an identified or identifiable natural person.
 
@@ -97,7 +98,7 @@ In addition to the above, in instances where Vitality will collect Personal Info
 1. Vitality will be acting in accordance with the Program Provider’s instructions which are set out in the DPA and will remain a Processor/ service provider; and
 2. Where Vitality collects your consent, you will be entitled to revoke the provided consent in terms of sections 15 to 21 below, as applicable. Please note that such revocation will make you ineligible to participate in the Program. Please redeem your rewards prior to withdrawing your consent
 
-#### 5\. How does Vitality use Personal Information it collects about me?
+#### 5\. HOW DOES VITALITY USE PERSONAL INFORMATION IT COLLECTS ABOUT ME?
 
 Vitality will use the Personal Information that it collects about you, to facilitate the Vitality Program which may include the use cases specified below. Vitality will only use Personal Information in accordance with this Privacy Notice. For example, Personal Information collected from a mobile application or device, will only be used to facilitate the Vitality Program.
 
@@ -140,19 +141,19 @@ Vitality will use the Personal Information that it collects about you, to facili
 
 Vitality may also seek to use your Personal Information in a way not described above, such as in using a testimonial you have written on our website or in our marketing materials. Before using your Personal Information in this way, Vitality will first seek your voluntary and explicit consent.
 
-#### 6\. How is Vitality protecting my Personal Information?
+#### 6\. HOW IS VITALITY PROTECTING MY PERSONAL INFORMATION?
 
 Personal Information that you share on the website is kept strictly confidential and fully secure. Your encrypted (encoded) Personal Information is protected using "Secure Socket Layers (SSL)" as it passes between your browser and this website. We follow generally accepted industry standards to protect the Personal Information we receive, both during transmission and upon receipt. Personal Information collected by the Program, for example Personal Information received from Apple Health, will be stored securely in accordance with accepted industry standards.
 
 No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee absolute security.
 
-#### 7\. Who can access my Personal Information at Vitality?
+#### 7\. WHO CAN ACCESS MY PERSONAL INFORMATION AT VITALITY?
 
 Your Personal Information is accessible by Vitality employees, including employees of Vitality affiliates, only on a need-to-know basis for the provision of services and support. Only such authorized persons are permitted to access your Personal Information. All authorized persons must abide by security, privacy, and confidentiality agreements, rules and laws.
 
-#### 8\. Outside of Vitality, with whom would Vitality share my Personal Information?
+#### 8\. OUTSIDE OF VITALITY, WITH WHOM WOULD VITALITY SHARE MY PERSONAL INFORMATION?
 
-_**Your Program Provider:**_ Vitality may share with your Program Provider (or a third party that assists and is authorized by your Program Provider) the minimum necessary information for them to administer your incentives. Vitality will share information only to the extent needed for administration of your incentives, such as calculation of health plan premium discounts, health club dues subsidies, applicable taxation, reward redemption, or other arrangements for which such information is relevant. Such information may be shared via the employer portal.
+_**Your Program Provider:**_ Vitality may share with your Program Provider (or a third party that assists and is authorized by your Program Provider) the necessary information for them to administer your incentives and for analytics purposes. Administration incentives can include: calculation of health plan premium discounts, health club dues subsidies, applicable taxation, reward redemption, or other arrangements for which such information is relevant. Such information may be shared via the employer portal.
 
 _**Your Program Provider’s authorized Third-Party Service Providers:**_ Your Program Provider may make additional incentives available to you that are provided by Third-Party Service Providers this could include your Program Provider’s inhouse service provider such as your Program Provider’s in house coaching service. In order to administer this benefit, Vitality relies on the service agreement in place with your Program Provider, and/or any related agreement, to share your Personal Information with the Third-Party Service Provider to the extent necessary to make the offering available to you. Vitality has also entered into agreements with the Third-Party Service Providers.
 
@@ -170,15 +171,15 @@ Additionally, We may share your Personal Information when We believe that such a
 
 With your express authorization and consent, We may share your Personal Information for a specific purpose not provided above. Agreeing to the terms and conditions and privacy notice is not your express authorization for such uses. When appropriate, while you are logged into POV or a Vitality Application, you will be presented with a specific electronic authorization form on which you may or may not provide your consent. You may revoke such authorization at any time by navigating to your My Accounts page within the Power of Vitality website.
 
-#### 9\. Do Vitality’s Websites or Applications contain links to third-party websites or apps?
+#### 9\. DO VITALITY’S WEBSITES OR APPLICATIONS CONTAIN LINKS TO THIRD-PARTY WEBSITES OR APPS?
 
 Vitality’s Power of Vitality portal and its mobile applications, Vitality Today and Vitality One, may contain links to other websites that are not owned or controlled by Us or our clients (i.e., your Program Provider). We provide these links to other websites or mobile applications for your convenience to participate. If you choose to submit Personal Information while visiting these websites or using these mobile applications, please be aware your rights will be governed by the third parties’ privacy policies. We strongly encourage you to carefully read the privacy policies of any website or mobile application you visit or use.
 
-#### 10\. Does Vitality sell my Personal Information?
+#### 10\. DOES VITALITY SELL MY PERSONAL INFORMATION?
 
 No. Vitality will never sell, rent, or lease your Personal Information.
 
-#### 11\. What are cookies and how does Vitality use them?
+#### 11\. WHAT ARE COOKIES AND HOW DOES VITALITY USE THEM?
 
 A cookie is a file containing an identifier that is automatically sent by Us to your browser or mobile device and is stored by the browser or mobile device. The identifier is then sent back to the server each time the browser or device requests a page from the server. This information might be about you, your preferences or your device and is mostly used to make the Website or Application work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized experience.
 
@@ -195,11 +196,11 @@ Vitality uses different categories of cookies for certain purposes:
 
 You can find more information about the cookies Vitality uses by reading our [Cookie Notice](https://www.powerofvitality.com/vitality/login/cookie_notice) - or cookies in general by visiting [www.allaboutcookies.org](https://www.allaboutcookies.org/) including how to disable certain cookies. If you use different computers or devices to access the Websites, you will need to ensure that each browser is adjusted to suit your cookie preferences. If you restrict Our Websites and Applications from setting cookies, you may worsen your overall user experience and/or lose the ability to access the Programs. Doing so may also stop you from saving customized settings.
 
-#### 12\. How long will my Personal Information be retained?
+#### 12\. HOW LONG WILL MY PERSONAL INFORMATION BE RETAINED?
 
 Unless otherwise specified herein, Personal Information will only be retained for as long as is required for Us to administer the Program, subject to: legislative or regulatory retention periods; requirements by the Program Provider; or as required for Our legitimate business reasons - after which any Personal Information will be anonymized, archived or destroyed.
 
-#### 13\. How will I know if this Privacy Notice changes?
+#### 13\. HOW WILL I KNOW IF THIS PRIVACY NOTICE CHANGES?
 
 Vitality reserves the right to update this Privacy Notice from time to time. If We decide to change this website's privacy policies, We will post those changes to this Privacy Notice, the homepage, and other places that We deem appropriate so that you are aware of what information is being collected, how the information is being used, and under what circumstances, if any, the information may be disclosed. You should therefore refer to this Privacy Notice each time you make use of the Program.
 
@@ -213,7 +214,7 @@ If you send questions or comments to an email address listed within a Program or
 
 We may agree that email has become a standard communication tool used by many different parties. Unfortunately, by design standard Internet email is not secure. For that reason, please do not use unsecured email to communicate information to us that you may consider to be confidential.
 
-#### 15\. I RECEIVE THE VITALITY PROGRAM IN THE USA AND I RESIDE IN CALIFORNIA, VIRGINIA, UTAH, COLORADO OR CONNECTICUT – What are my rights?
+#### 15\. I RECEIVE THE VITALITY PROGRAM IN THE USA AND I RESIDE IN CALIFORNIA, VIRGINIA, UTAH, COLORADO, CONNECTICUT, TEXAS, FLORIDA or OREGON – WHAT ARE MY RIGHTS?
 
 **_Rights Of California Residents_**
 
@@ -269,6 +270,45 @@ Under the Connecticut Act Concerning Personal Data Privacy and Online Monitoring
 * The right to request to delete your personal data;
 * The right to request a copy of your personal data;
 
+**_Rights of Texas Residents_**
+
+Under the Texas Data Privacy and Security Act (TDPSA), if you are a Texas resident, you have the following rights in general
+
+* The right to confirm whether we are processing your personal data and to access such personal data;
+* The right to request us to correct your data;
+* The right to request to delete your personal data;
+* The right to request a copy of your personal data;
+* The right to opt out for the processing of personal data for purposes of targeted advertising, the sale of personal data, or profiling in the furtherance of a decision that produces a legal or similarly significant effect concerning the consumer.
+
+**_Rights of Florida Residents_**
+
+Under the Florida Digital Bill of Rights, if you are a Florida resident, you have the following rights in general
+
+* The right to confirm whether we are processing your personal data and to access such personal data;
+* The right to request us to correct your data;
+* The right to request to delete your personal data;
+* The right to request a copy of your personal data;
+* The right to opt out for the processing of personal data for purposes
+    * Targeted advertising;
+    * The sale of personal data;
+    * Profiling in the furtherance of a decision that produces a legal or similarly significant effect concerning the consumer.
+* The right to opt out of the collection of sensitive data, including precise geolocation data, or the processing of sensitive data.
+* The right to opt out of the collection of personal data collected through the operation of a voice recognition or facial recognition feature.
+
+**_Rights of Oregon Residents_**
+
+Under the Oregon Consumer Privacy Act, if you are a resident of Oregon, you have the following rights in general:
+
+* The right to confirm whether we are processing your personal data and to access such personal data;
+* Request a list of specific third parties to which a Controller has disclosed your personal data or any personal data;
+* The right to request us to correct your data;
+* The right to request to delete your personal data;
+* The right to request a copy of your personal data;
+* The right to opt out for the processing of personal data for purposes of
+    * Targeted advertising;
+    * The sale of personal data;
+    * Profiling in the furtherance of a decision that produces a legal or similarly significant effect concerning the consumer.
+
 **_How to Exercise my Rights_**
 
 In order to exercise rights enumerated above, please contact Vitality in one of the following ways depending on the Vitality Program you use.
@@ -282,7 +322,7 @@ Once a request is submitted, Vitality may first contact your Program Provider to
 
 Vitality will attempt to verify your request by using information related to your account, but in some cases additional information may be required. Subject to certain exceptions that may apply, if We are able to verify your request, We will accommodate your request in accordance with the CCPA.
 
-#### 16\. I receive the Vitality Program in Canada – What are my rights?
+#### 16\. I RECEIVE THE VITALITY PROGRAM IN CANADA – WHAT ARE MY RIGHTS?
 
 Under Personal Information Protection and Electronic Documents Act (PIPEDA), You have certain rights to access, update, correct and withdraw Personal Information we have collected from you or received from your Program Provider or authorized third party, in order to provide the Program to you.
 
@@ -420,7 +460,7 @@ Chicago, IL 60606
 [US\_Privacy@vitalitygroup.com](mailto:US_Privacy@vitalitygroup.com)  
 [+1 312-224-7100](tel:+13122247100)  
 
-The Vitality Group has elected the panel established by EU Data Protection Authorities (DPAs) as its independent dispute resolution body to address complaints and provide appropriate recourse free of charge. The Vitality Group commits to cooperate and comply with the above body’s advice with regards to matters concerning our handling of Personal Information in terms of the EU-US Data Privacy Framework.
+The Vitality Group has elected the panel established by EU Data Protection Authorities (DPAs) as its independent dispute resolution body to address complaints and provide appropriate recourse free of charge. The Vitality Group commits to cooperate and comply with the above body’s advice with regards to matters concerning our handling of Personal Information in terms of the EU-US Data Privacy Framework
 
 Under limited circumstances, an arbitration option is available to an individual to determine, for residual claims, whether The Vitality Group has violated its obligations under the Principles as to that individual, and whether any such violation remains fully or partially unremedied.
 
