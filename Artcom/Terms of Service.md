@@ -1,5 +1,3 @@
-[Skip to Content](#chakra-skip-nav)
-
 [](https://www.art.com/ "Art.com")
 
 Cancel
@@ -8,23 +6,23 @@ My Account
 
 Cancel
 
-[Style Guide 2024](https://www.art.com/lp/style-guide)
+[Style Guide 2024](https://www.art.com/lp/style-guide "Style Guide 2024")
 
-[Frame My Photos](https://www.art.com/lp/frame-my-photos)
+[Frame My Photos](https://www.art.com/lp/frame-my-photos "Frame My Photos")
 
-[New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
+[New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm "New Arrivals")
 
-[Best Sellers](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+[Best Sellers](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "Best Sellers")
 
-[Artists](https://www.art.com/shop/artists)
+[Artists](https://www.art.com/shop/artists "Artists")
 
-[Subjects](https://www.art.com/shop/art-subjects)
+[Subjects](https://www.art.com/shop/art-subjects "Subjects")
 
-[Trends](https://www.art.com/shop/wall-art/)
+[Trends](https://www.art.com/shop/wall-art/ "Trends")
 
-[Photography](https://www.art.com/gallery/id--c23946/photography-prints.htm)
+[Photography](https://www.art.com/gallery/id--c23946/photography-prints.htm "Photography")
 
-[Design Inspiration](https://www.art.com/lp/shopbyrooms)
+[Design Inspiration](https://www.art.com/lp/shopbyrooms "Design Inspiration")
 
 Help
 ----
@@ -293,7 +291,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/516/static/img/logo.svg)
+![Logo](/mobify/bundle/527/static/img/logo.svg)
 
 World's largest selection of art
 
@@ -313,66 +311,66 @@ We can match you up with art you'll love, help create a home gallery, and even p
 
 Customer Service
 
-* [Contact Us](https://www.art.com/help/talktous)
-* [Ordering](https://www.art.com/help/placingorders)
-* [Shipping & Delivery](https://www.art.com/help/shipping)
-* [Returns](https://www.art.com/help/shippingreturns)
-* [FAQs](https://www.art.com/help/faq)
+* [Contact Us](https://www.art.com/help/talktous "Contact Us")
+* [Ordering](https://www.art.com/help/placingorders "Ordering")
+* [Shipping & Delivery](https://www.art.com/help/shipping "Shipping & Delivery")
+* [Returns](https://www.art.com/help/shippingreturns "Returns")
+* [FAQs](https://www.art.com/help/faq "FAQs")
 
 ### 
 
 Business Sales
 
-* [WorkspaceArt Division](https://www.workspaceart.com/ADC.NET/Root/Pages/Account/B2BLogin.aspx)
+* [WorkspaceArt Division](https://www.workspaceart.com/ADC.NET/Root/Pages/Account/B2BLogin.aspx "WorkspaceArt Division")
 
 ### 
 
 About Art.com
 
-* [Careers](https://www.trendsinternational.com/employment)
-* [Blog](https://www.art.com/blog/)
+* [Careers](https://www.trendsinternational.com/employment "Careers")
+* [Blog](https://www.art.com/blog/ "Blog")
 
 ### 
 
 My Account
 
-* [Access My Account](https://www.art.com/account)
+* [Access My Account](https://www.art.com/account "Access My Account")
 * Order Status
 
 ### 
 
 Customer Service
 
-* [Contact Us](https://www.art.com/help/talktous)
-* [Ordering](https://www.art.com/help/placingorders)
-* [Shipping & Delivery](https://www.art.com/help/shipping)
-* [Returns](https://www.art.com/help/shippingreturns)
-* [FAQs](https://www.art.com/help/faq)
+* [Contact Us](https://www.art.com/help/talktous "Contact Us")
+* [Ordering](https://www.art.com/help/placingorders "Ordering")
+* [Shipping & Delivery](https://www.art.com/help/shipping "Shipping & Delivery")
+* [Returns](https://www.art.com/help/shippingreturns "Returns")
+* [FAQs](https://www.art.com/help/faq "FAQs")
 
 ### 
 
 Business Sales
 
-* [WorkspaceArt Division](https://www.workspaceart.com/ADC.NET/Root/Pages/Account/B2BLogin.aspx)
+* [WorkspaceArt Division](https://www.workspaceart.com/ADC.NET/Root/Pages/Account/B2BLogin.aspx "WorkspaceArt Division")
 
 ### 
 
 About Art.com
 
-* [Careers](https://www.trendsinternational.com/employment)
-* [Blog](https://www.art.com/blog/)
+* [Careers](https://www.trendsinternational.com/employment "Careers")
+* [Blog](https://www.art.com/blog/ "Blog")
 
 ### 
 
 My Account
 
-* [Access My Account](https://www.art.com/account)
+* [Access My Account](https://www.art.com/account "Access My Account")
 * Order Status
 
 © Art.com All Rights Reserved.
 
-* [Privacy Notice](https://www.art.com/help/privacy-policy.html)
-* [Terms and Conditions](https://www.art.com/help/terms-and-conditions.html)
+* [Privacy Notice](https://www.art.com/help/privacy-policy.html "Privacy Notice")
+* [Terms and Conditions](https://www.art.com/help/terms-and-conditions.html "Terms and Conditions")
 
 Art.com is a registered trademark of Trends International LLC.  
 Various aspects of this website are covered by issued US patent No. 7,973,796 and other pending patent applications.
