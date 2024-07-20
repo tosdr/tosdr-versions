@@ -1,4 +1,4 @@
-[![](/assets/img/logo-inv_grad.svg)](https://private.coffee/)
+[![](assets/img/logo-inv_grad.svg)](https://private.coffee/)
 
 [Private.coffee  
 Empowering Privacy with Open Source](https://private.coffee/)
@@ -88,4 +88,4 @@ Private.coffee is a privacy-focused non-profit association, dedicated to support
 
 Made with ❤️ and ☕ by Private.coffee
 
-LGBTIQ+ LGBTIQ+
+[![](https://shields.private.coffee/gitea/last-commit/privatecoffee/privatecoffee-website?gitea_url=https://git.private.coffee&logo=forgejo)](https://git.private.coffee/privatecoffee/privatecoffee-website) [LGBTIQ+ LGBTIQ+](https://pride.coffee/)
