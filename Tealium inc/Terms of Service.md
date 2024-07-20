@@ -6,13 +6,13 @@
 
 ![Language Selector](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/lang_selector_white.svg "Language Selector")
 
-[de](https://tealium.com/de/ "de")
+[de](https://tealium.com/de/terms-of-use "de")
 
-[fr](https://tealium.com/fr/ "fr")
+[fr](https://tealium.com/fr/terms-of-use "fr")
 
-[es](https://tealium.com/es/ "es")
+[es](https://tealium.com/es/terms-of-use "es")
 
-[ja](https://tealium.com/ja/ "ja")
+[ja](https://tealium.com/ja/terms-of-use "ja")
 
 [![Tealium](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/logo-white.svg "Tealium")](https://tealium.com/)
 
@@ -177,13 +177,13 @@
 
    ![Search](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/search-icon-white.svg "Search") ![Close](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/navigation-close.svg "Close")![Search](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/search-icon.svg "Search") ![Close](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/navigation-close-dark.svg "Close")
 
-[de](https://tealium.com/de/ "de")
+[de](https://tealium.com/de/terms-of-use "de")
 
-[fr](https://tealium.com/fr/ "fr")
+[fr](https://tealium.com/fr/terms-of-use "fr")
 
-[es](https://tealium.com/es/ "es")
+[es](https://tealium.com/es/terms-of-use "es")
 
-[ja](https://tealium.com/ja/ "ja")
+[ja](https://tealium.com/ja/terms-of-use "ja")
 
 * [Get a Demo](https://tealium.com/cdh-demo-2/)
 * [Login](https://my.tealiumiq.com/)
