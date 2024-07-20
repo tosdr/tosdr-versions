@@ -16,11 +16,7 @@ Que enim eum et atempor eriaspedi nihillabo. Itatqui omni odioria deleni ius sin
 
 
 
-Nam rae esto voluptatem aliqui arum volum at es aut odi ut faciam expligenit quat etreiunt pores et magniaector sa cullo doluptatur? Imusam id quis prem volupta qui corserrum licatur? Udaest am sequam simus et dolorit, essedi occaborem lis senduci
-
-mporatatis si offic totas doluptatio commoles as dolut optat occum net verferum rem. Ut
-
-eum quam, sunte consecearum culpa voluptas eostis estions erferuptibus aces ut autemaliquam, nossunt atet quis evenim eos erfero cus, que nimpel ium volut resequiam alitessidollab inverfe ribusanto ea netur? Omnient adios magnatur? Onsedis eum voloreriossisolore sam et odi reptam ipsam a arcitiume num voluptat optiure ctotas sam audi rehentet volo isto et magnime voluptae. Culluptatio eatur, totatur anto est, sequasp erovid mint.
+Nam rae esto voluptatem aliqui arum volum at es aut odi ut faciam expligenit quat etreiunt pores et magniaector sa cullo doluptatur? Imusam id quis prem volupta qui corserrum licatur? Udaest am sequam simus et dolorit, essedi occaborem lis senducimporatatis si offic totas doluptatio commoles as dolut optat occum net verferum rem. Uteum quam, sunte consecearum culpa voluptas eostis estions erferuptibus aces ut autemaliquam, nossunt atet quis evenim eos erfero cus, que nimpel ium volut resequiam alitessidollab inverfe ribusanto ea netur? Omnient adios magnatur? Onsedis eum voloreriossisolore sam et odi reptam ipsam a arcitiume num voluptat optiure ctotas sam audi rehentet volo isto et magnime voluptae. Culluptatio eatur, totatur anto est, sequasp erovid mint.
 
 
 
@@ -36,31 +32,13 @@ Margin header
 
 Que enim eum et atempor eriaspedinihillabo. Itatqui omni odioria deleni iussin re perchiciet ero bera quae la quiavenia parum suntium harumqu isquamque ratum quiberum aut explisitenonsequatur, tem id modis conecernamsa nustiatiam volorempossi tem conedernam et aut quate non pa velit plabo.Luptatempor aut quatur, volutemporumquam elit ea dempore labo. U
 
-
-
 Integrityis at thecore ofwho we are.
 
 Code of Conduct
 
-
-
 October 2023
 
-’
-
-
-
 We areVerizon.
-
-Integrity
-
-Respect
-
-Performanceexcellence
-
-Accountability
-
-Socialresponsibility
 
 We have work because our customers valueour high-quality communications services.
 
@@ -76,7 +54,7 @@ We make it easy for customers to do business with us, by listening, anticipating
 
 We know teamwork enables us to serveour customers better and faster.
 
-We embrace diversity and personal development not only because it’s the rightthing to do, but also because it’s smart business. We are driven not by ego but byaccomplishments. We keep our commitments to each other and our customers. Ourword is our contract. We respect and trust one another, communicating openly, candidlyand directly since any other way is unfair and a waste of time. We voice our opinion andexercise constructive dissent, and then rally around the agreed-upon action with our fullsupport. Any one of us can deliver a view or idea to anyone else, and listen to and valueanother s view regardless of title or level. Ideas live and die on their merits rather thanwhere they were invented.
+We embrace diversity and personal development not only because it’s the rightthing to do, but also because it’s smart business. We are driven not by ego but byaccomplishments. We keep our commitments to each other and our customers. Ourword is our contract. We respect and trust one another, communicating openly, candidlyand directly since any other way is unfair and a waste of time. We voice our opinion andexercise constructive dissent, and then rally around the agreed-upon action with our fullsupport. Any one of us can deliver a view or idea to anyone else, and listen to and valueanother’s view regardless of title or level. Ideas live and die on their merits rather thanwhere they were invented.
 
 
 
@@ -95,6 +73,18 @@ Bureaucracy is an enemy. We fight every day to stay “small” and keep bureauc
 Everything we do is built on the strong foundationof our corporate values.
 
 We work 24x7 because our customers depend on us 24x7. We know our bestwas good for today. Tomorrow we’ll do better.
+
+
+
+Integrity
+
+Respect
+
+Performanceexcellence
+
+Accountability
+
+Socialresponsibility
 
 A letterfrom Hans
 
@@ -132,7 +122,7 @@ A respectful and inclusive workplace 9Commitment to diversity 9Discrimination an
 
 Section 2Integrity and fairness in the workplace 14
 
-Conflicts of interest 15Personal conflicts of interest 15Outside employment 16Outside activities 16Political interactions and contributions 17Seeking public ofce 17Insider trading and securities transactions 17Outside financial interests 18Loans 18
+Conflicts of interest 15Personal conflicts of interest 15Outside employment 16Outside activities 16Political interactions and contributions 17Seeking public office 17Insider trading and securities transactions 17Outside financial interests 18Loans 18
 
 
 
@@ -146,17 +136,7 @@ Preparing, disclosing and maintaining accurate records 20Promoting transparent a
 
 Section 4Integrity and fairness in the marketplace 24
 
-Relationships with customers 25
-
-Locating ofces or receiving
-
-Compliance with sanctions
-
-Customer privacy 25Customer marketing 25Selling with integrity 26Relationships with business providers and partners 26Relationships with competitors 26Relationships with former employees 27Gifts and entertainment 27Gifts 28Entertainment 28Bribery, anticorruption and government ethics 29Anti-money laundering laws 29International relationships 29
-
-services outside the US 30
-
-and anti-boycott laws 30Import/export compliance 30
+Relationships with customers 25Customer privacy 25Customer marketing 25Selling with integrity 26Relationships with business providers and partners 26Relationships with competitors 26Relationships with former employees 27Gifts and entertainment 27Gifts 28Entertainment 28Bribery, anticorruption and government ethics 29Anti-money laundering laws 29International relationships 29Locating offices or receivingservices outside the US 30Compliance with sanctionsand anti-boycott laws 30Import/export compliance 30
 
 
 
@@ -167,10 +147,6 @@ Quick references 31
 Introduction1
 
 
-
-My manager is directing me to violatethe expense policy. I am concernedthat she will retaliate against me ifI report her. What do I do?
-
-You should report the manager’smisconduct. Retaliation againstemployees who report concernsis strictly prohibited, and if you haveconcerns about retaliation, you mustreport those as well. In addition,you have the option of making ananonymous report to Verizon Ethics.
 
 We are defined by our values: integrity, respect, performance excellence, accountability,and social responsibility. These values should guide us in how we deal with every problemat work, large and small. The Code of Conduct gives us detailed guidance about how toapply Verizon’s values to specific issues and challenges that arise in our jobs. It reflectsour changing business environment and has been approved by the Verizon Board ofDirectors.
 
@@ -192,15 +168,11 @@ You have an array of resources to assist you should you have any concerns or que
 
 You must immediately report any instance of violence, hostile behavior, or possession ofweapons on company property to Security and a supervisor. In cases of imminent danger,
 
-7Verizon
 
 
+My manager is directing me to violatethe expense policy. I am concernedthat she will retaliate against me ifI report her. What do I do?
 
-I work in a store, and a police ofcercame into the store to demandrecords about a customer. Whatshould I do?
-
-You should refer any requests from lawenforcement to Security or the LegalDepartment immediately. Additionalinformation about the handling ofexternal requests is available on page23 and contact information for Securityand the Legal Department is availableat the end of the Code of Conduct.
-
-Code of Conduct Introduction
+You should report the manager’smisconduct. Retaliation againstemployees who report concernsis strictly prohibited, and if you haveconcerns about retaliation, you mustreport those as well. In addition,you have the option of making ananonymous report to Verizon Ethics.
 
 you should contact 911 or local law enforcement first, and then contactSecurity at 800-997-3287 (US) or 972-615-4343 (International).
 
@@ -214,13 +186,23 @@ Cooperation with investigations
 
 You must cooperate completely in any investigation. You must be honest and forthcomingat all times during an investigation, and you must provide any investigator with full,accurate, timely, and truthful information. Misrepresenting facts or failing to disclosefacts during an investigation is strictly prohibited. You can’t interfere with or obstructan investigation conducted by the company or by any government agency.
 
-1You are required to comply with this Code as a condition of continued employment. ThisCode may be changed by the company at any time, except pursuant to any applicablecollective bargaining obligations, without notice to you. Except where applicable lawprovides otherwise, employment with Verizon is “at will,” which means that you or Verizonmay terminate your employment, at any time, with or without cause, with or withoutnotice, for any reason not prohibited by law, unless governed by a collective bargainingagreement or specific contract of employment. Any at will employment relationship maynot be modified except in a written agreement signed by an authorized Verizon ofcer.
+1You are required to comply with this Code as a condition of continued employment. ThisCode may be changed by the company at any time, except pursuant to any applicablecollective bargaining obligations, without notice to you. Except where applicable lawprovides otherwise, employment with Verizon is “at will,” which means that you or Verizonmay terminate your employment, at any time, with or without cause, with or withoutnotice, for any reason not prohibited by law, unless governed by a collective bargainingagreement or specific contract of employment. Any at will employment relationship maynot be modified except in a written agreement signed by an authorized Verizon officer.
 
-8Verizon Code of Conduct A respectful, safe andprofessional workplace.
+
+
+I work in a store, and a police officercame into the store to demandrecords about a customer. Whatshould I do?
+
+You should refer any requests from lawenforcement to Security or the LegalDepartment immediately. Additionalinformation about the handling ofexternal requests is available on page23 and contact information for Securityand the Legal Department is availableat the end of the Code of Conduct.
+
+7Verizon Code of Conduct Introduction
 
 1
 
-9Verizon Code of ConductA respectful, safe andprofessional workplace.
+
+
+Verizon Code of Conduct A respectful, safe andprofessional workplace.8
+
+9Verizon Code of Conduct
 
 A respectful,safe andprofessionalworkplace.
 
@@ -254,13 +236,13 @@ Discrimination and harassment
 
 We are committed to maintaining a workplace free from illegal discriminationor harassment, including sexual harassment or harassment based on any otherlegally protected category.
 
-We respect and comply with all laws providing equal opportunity to individuals withoutregard to race, color, religion, age, sex, pregnancy, sexual orientation, gender identityand expression, genetic information, national origin, disability, marital status, citizenshipstatus, veteran status, military service status,
+We respect and comply with all laws providing equal opportunity to individuals withoutregard to race, color, religion, age, sex, pregnancy, sexual orientation, gender identityand expression, genetic information, national origin, disability, marital status, citizenshipstatus, veteran status, military service status, union activity or membership status, andany other protected category under applicable law.
 
- union activity or membership status, andany other protected category under applicable law.
+Unlawful harassment comes in many forms and includes conduct or language thatcreates a hostile or offensive work environment. It can be physical, verbal, or visual.For example, sexual harassment may include inappropriate touching, unwelcomeromantic advances, lewd gestures, or the display of obscene material. Other formsof harassment may include racist comments, ethnic slurs, religious stereotypes,or homophobic jokes.
 
-Unlawful harassment comes in many forms and includes conduct or language thatcreates a hostile or ofensive work environment. It can be physical, verbal, or visual.For example, sexual harassment may include inappropriate touching, unwelcomeromantic advances, lewd gestures, or the display of obscene material. Other formsof harassment may include racist comments, ethnic slurs, religious stereotypes,or homophobic jokes.
+A respectful, safe andprofessional workplace.
 
-10Verizon Code of ConductA respectful, safe andprofessional workplace.
+10Verizon Code of Conduct
 
 We do not tolerate such behavior. If you are subjected to or observe unlawfulharassment, you should report it to your supervisor (if appropriate), Human Resources,Verizon Ethics, or the Legal Department, and, if you are comfortable doing so, confrontthe perceived harasser and ask that they stop. Supervisors who become aware ofharassment concerns must report the issue.
 
@@ -294,11 +276,13 @@ We are committed to maintaining a work environment that is free from violenceand
 
 You must never engage in violent or threatening behavior toward fellow employees,customers, or business partners.
 
-We maintain a weapons-free workplace. Under no circumstances should anyone possessor use any weapon or weapon component (e.g., ammunition) on company property, ina company vehicle, or while conducting company business. Unless expressly permittedby local law, this includes weapons stored in a locked personal vehicle on companyproperty. The only exceptions to the above requirements are authorized Verizon SecurityCorporate Protection Operations programs that have been approved in advance by theChief Security Ofcer, with the concurrence of the Chief Compliance Ofcer.
+We maintain a weapons-free workplace. Under no circumstances should anyone possessor use any weapon or weapon component (e.g., ammunition) on company property, ina company vehicle, or while conducting company business. Unless expressly permittedby local law, this includes weapons stored in a locked personal vehicle on companyproperty. The only exceptions to the above requirements are authorized Verizon SecurityCorporate Protection Operations programs that have been approved in advance by theChief Security Officer, with the concurrence of the Chief Compliance Officer.
 
 It is critical that you take personal responsibility for immediately reporting any instanceof violence, threats, hostile behavior, or weapon possession on company property toSecurity and your supervisor. In cases of imminent danger, you should immediately notifylocal law enforcement (e.g., 911 or other applicable local emergency service number).
 
-11Verizon Code of ConductA respectful, safe andprofessional workplace.
+A respectful, safe andprofessional workplace.
+
+11Verizon Code of Conduct
 
 
 
@@ -314,7 +298,7 @@ Forced labor and slavery
 
 
 
-Verizon does not tolerate forced labor, slavery, or human trafcking in any form, and willnot knowingly work with any supplier or contractor who engages in such practices. Inaddition, Verizon does not tolerate child labor and adheres to minimum age laws in allplaces where we conduct operations.
+Verizon does not tolerate forced labor, slavery, or human trafficking in any form, and willnot knowingly work with any supplier or contractor who engages in such practices. Inaddition, Verizon does not tolerate child labor and adheres to minimum age laws in allplaces where we conduct operations.
 
 
 
@@ -324,7 +308,7 @@ Drugs and alcohol
 
 Substance abuse is incompatible with workplace health and safety.
 
-You may not report to work under the influence of alcohol, an illegal drug, or anycontrolled substance for which you do not have a prescription. If you are takingprescription medication that may afect your perception or responsiveness, you mustnotify your supervisor and Human Resources. Never operate a vehicle or machinerywhile in an impaired state.
+You may not report to work under the influence of alcohol, an illegal drug, or anycontrolled substance for which you do not have a prescription. If you are takingprescription medication that may affect your perception or responsiveness, you mustnotify your supervisor and Human Resources. Never operate a vehicle or machinerywhile in an impaired state.
 
 You must not use or possess illegal drugs or drug paraphernalia while on companyproperty, in a company vehicle, or when on company time. You should not possessor use controlled substances or prescription drugs that have not been prescribedto you by a physician.
 
@@ -336,7 +320,9 @@ Possession and use of alcohol are prohibited on company property, while in Veriz
 
 In such cases, consumption of alcohol must be voluntary, in moderation, andin a manner that does not embarrass the company.
 
-12Verizon Code of ConductA respectful, safe andprofessional workplace.
+A respectful, safe andprofessional workplace.
+
+12Verizon Code of Conduct
 
 
 
@@ -344,11 +330,11 @@ Misconduct outside the workplace
 
 
 
-Each of us must avoid any misconduct of the job that could impair our abilityto do our jobs or afect the company’s reputation or business interests.
+Each of us must avoid any misconduct off the job that could impair our abilityto do our jobs or affect the company’s reputation or business interests.
 
 Accordingly, you must promptly report to Verizon Ethics any arrest, charge,or conviction for:
 
-• a felony (or equivalent under local law);• an ofense involving dishonesty, assault, or battery;• a drug-related ofense;• an alcohol-related ofense relating to conduct while on company propertyor business or that may otherwise afect your ability to perform your job,or afect the company’s business interests; or• any other ofense which may afect your ability to perform your jobor otherwise afect the company’s business interests.
+• a felony (or equivalent under local law);• an offense involving dishonesty, assault, or battery;• a drug-related offense;• an alcohol-related offense relating to conduct while on company propertyor business or that may otherwise affect your ability to perform your job,or affect the company’s business interests; or• any other offense which may affect your ability to perform your jobor otherwise affect the company’s business interests.
 
 
 
@@ -376,9 +362,11 @@ Gambling
 
 
 
-Gambling is illegal in many jurisdictions and can contribute to an unprofessionalworkplace. You may not gamble (online or ofine) on company property, when usingcompany systems, or while conducting company business. You may not participate ingames of chance (including sports pools, rafes, or lotteries) on company property, whenusing company systems, or while conducting company business without written approvalfrom Verizon Ethics.
+Gambling is illegal in many jurisdictions and can contribute to an unprofessionalworkplace. You may not gamble (online or offline) on company property, when usingcompany systems, or while conducting company business. You may not participate ingames of chance (including sports pools, raffles, or lotteries) on company property, whenusing company systems, or while conducting company business without written approvalfrom Verizon Ethics.
 
-13Verizon Code of ConductA respectful, safe andprofessional workplace.
+A respectful, safe andprofessional workplace.
+
+13Verizon Code of Conduct
 
 
 
@@ -400,25 +388,15 @@ In cases involving safety or suspected misconduct (for example, investigating cl
 
 Unless you are participating in an approved observation program or have obtained priorapproval from Security or the Legal Department, subject to applicable law or any localdata privacy notice, you may not record (photo, video, or audio) an employee (whilethe employee is at work or engaged in business activities), a customer, partner,or competitor without that individual’s knowledge and consent, or access anotheremployee’s information systems or business records without that employee’sknowledge and consent.
 
-Verizon Code of Conduct Integrity and fairness 14in the workplace.
+A respectful, safe andprofessional workplace.
 
 2
 
-15Verizon Code of ConductIntegrity and fairnessin the workplace.
 
 
+Verizon Code of Conduct Integrity and fairnessin the workplace.14
 
-I am a Vice President and one ofmy reports disclosed a personalconflict of interest to me. I promptlyimplemented controls to minimize therisk. Is that sufcient?
-
-No. All conflicts and potential conflictsof interest must be cleared by VerizonEthics.
-
-
-
-I work with several vendors andwanted to introduce them to mycollege-age daughter, who is lookingfor a summer internship. She’s veryqualified, and would be a tremendousasset to any of the vendors. Can I askthe vendors to meet with her about aninternship?
-
-If you work with a vendor, asking thatvendor for personal favors is generallyprohibited. Here, it is not okay to askthe vendor to consider one of yourrelatives for a position, even a summerinternship. The request could createthe appearance of favoritism and placeinappropriate pressure on the vendor.
-
-
+15Verizon Code of Conduct
 
 Integrity andfairness in theworkplace.
 
@@ -450,27 +428,21 @@ Internally, you may not supervise – directly or indirectly – someone with wh
 
 Externally, you may not participate in the selection process for, have discretionaryauthority involving Verizon’s business with, or supervise Verizon’s relationship with,a company that does business with Verizon if it employs someone with whom youhave a close personal relationship or is a company with which you have a businessrelationship. Exceptions to this restriction are extremely limited and require theapproval of Verizon Ethics.
 
-16Verizon Code of Conduct
-
-
-
-How do I find out if the companywhere I have a second job is providingservices that are also provided byVerizon?
-
-Verizon provides a wide array ofproducts and services. Many areobvious, including telephone, internet,and television service. However, Verizonprovides many other services, and ifyou think there is any chance that anoutside employer might be operatingin the same space as Verizon, you mustcontact Verizon Ethics for guidance.
-
-
-
-My supervisor knows that I have a sidejob designing apps for mobile devices.Do I have to let anyone else know?
-
-A “side hustle” related to the field inwhich you work for Verizon, or involvingany product or service in which Verizonmight be active, must be approved byVerizon Ethics.
-
-
-
-I have been asked to participate inan investor expert network as a techindustry professional. This expertnetwork does research to assistinvestors. If I do not reveal anyconfidential Verizon information, can Iparticipate?
-
-Employees and executives are generallyprohibited from participating in expertnetworks for investors due to insidertrading concerns. You should consultwith Verizon Ethics regarding thisrequest.
-
 Integrity and fairnessin the workplace.
+
+
+
+I am a Vice President and one ofmy reports disclosed a personalconflict of interest to me. I promptlyimplemented controls to minimize therisk. Is that sufficient?
+
+No. All conflicts and potential conflictsof interest must be cleared by VerizonEthics.
+
+
+
+I work with several vendors andwanted to introduce them to mycollege-age daughter, who is lookingfor a summer internship. She’s veryqualified, and would be a tremendousasset to any of the vendors. Can I askthe vendors to meet with her about aninternship?
+
+If you work with a vendor, asking thatvendor for personal favors is generallyprohibited. Here, it is not okay to askthe vendor to consider one of yourrelatives for a position, even a summerinternship. The request could createthe appearance of favoritism and placeinappropriate pressure on the vendor.
+
+16Verizon Code of Conduct
 
 If a family member or person with whom you have a close personal relationshipis employed by an entity that does business with Verizon, you cannot interactwith that individual about business between Verizon and the outside entity.
 
@@ -484,7 +456,7 @@ You may not—with or without compensation—be self-employed or employed by,con
 
 • a company or organization (including a charitable organization) that is a vendor,supplier, partner, contractor, subcontractor, or competitor of Verizon; or• a company that provides services that are provided by Verizon, or that Verizonis seeking to provide.
 
-Outside work must not interfere with your work for Verizon or have any connection to thecompany (for example, soliciting coworkers for business or investments). This limitationalso applies to simultaneous employment by Verizon and its subsidiaries, afliates, andjoint ventures in which the company maintains an ownership interest. Exceptions to therequirements of the previous paragraph may be granted only upon written approval byVerizon Ethics.
+Outside work must not interfere with your work for Verizon or have any connection to thecompany (for example, soliciting coworkers for business or investments). This limitationalso applies to simultaneous employment by Verizon and its subsidiaries, affiliates, andjoint ventures in which the company maintains an ownership interest. Exceptions to therequirements of the previous paragraph may be granted only upon written approval byVerizon Ethics.
 
 Unless you receive the prior written approval of your supervisor and Human Resources,you may not engage in any outside employment or self-employment or perform anycommercially-related services—with or without compensation—while absent from workon any company-approved leave of absence, absence due to sickness or disability,Family Medical Leave, or comparable leave provided for by applicable law.
 
@@ -502,7 +474,27 @@ Special approval requirements apply when seeking to serve on any outside company
 
 • Service on the Board of Directors of a public corporation must be approved inadvance by both Verizon Ethics and your organization’s executive vice president.• Service on the Board of Directors of a non-public corporation must be approvedin advance by Verizon Ethics.
 
-17Verizon Code of ConductIntegrity and fairnessin the workplace.
+
+
+How do I find out if the companywhere I have a second job is providingservices that are also provided byVerizon?
+
+Verizon provides a wide array ofproducts and services. Many areobvious, including telephone, internet,and television service. However, Verizonprovides many other services, and ifyou think there is any chance that anoutside employer might be operatingin the same space as Verizon, you mustcontact Verizon Ethics for guidance.
+
+
+
+My supervisor knows that I have a sidejob designing apps for mobile devices.Do I have to let anyone else know?
+
+A “side hustle” related to the field inwhich you work for Verizon, or involvingany product or service in which Verizonmight be active, must be approved byVerizon Ethics.
+
+Integrity and fairnessin the workplace.
+
+
+
+I have been asked to participate inan investor expert network as a techindustry professional. This expertnetwork does research to assistinvestors. If I do not reveal anyconfidential Verizon information, can Iparticipate?
+
+Employees and executives are generallyprohibited from participating in expertnetworks for investors due to insidertrading concerns. You should consultwith Verizon Ethics regarding thisrequest.
+
+17Verizon Code of Conduct
 
 
 
@@ -510,21 +502,21 @@ Political interactions and contributions
 
 
 
-The company encourages us to participate in the political process and each of us isresponsible for ensuring compliance with all laws and regulations relating to interactionswith government ofcials, including laws governing campaign finance, governmentethics, and lobbying. In addition, all lobbying activities on behalf of the company must beauthorized by the Public Policy and Legal Department.
+The company encourages us to participate in the political process and each of us isresponsible for ensuring compliance with all laws and regulations relating to interactionswith government officials, including laws governing campaign finance, governmentethics, and lobbying. In addition, all lobbying activities on behalf of the company must beauthorized by the Public Policy and Legal Department.
 
-If you are appearing before a government body or engaging in contact with a publicofcial outside of your ordinary work duties regarding a business in which Verizon isengaged or a business issue in which Verizon has an interest, make it clear that youare not representing Verizon and advise your supervisor in advance.
+If you are appearing before a government body or engaging in contact with a publicofficial outside of your ordinary work duties regarding a business in which Verizon isengaged or a business issue in which Verizon has an interest, make it clear that youare not representing Verizon and advise your supervisor in advance.
 
-Your personal political contributions and activities must be kept separate from thecompany. If you make political contributions, you may not refer to your employmentor use the company’s assets, including its name, in connection with your contributions,unless required to do so by law. You may not make payments of corporate contributions,whether monetary or non-monetary assets, to any domestic or foreign political party,candidate, campaign, or public ofcial unless that contribution is permitted underapplicable laws inside and outside the U.S., and approved in advance by the Public Policyand Legal Department. In addition, you may never reimburse anyone for any politicalcontribution.
+Your personal political contributions and activities must be kept separate from thecompany. If you make political contributions, you may not refer to your employmentor use the company’s assets, including its name, in connection with your contributions,unless required to do so by law. You may not make payments of corporate contributions,whether monetary or non-monetary assets, to any domestic or foreign political party,candidate, campaign, or public official unless that contribution is permitted underapplicable laws inside and outside the U.S., and approved in advance by the Public Policyand Legal Department. In addition, you may never reimburse anyone for any politicalcontribution.
 
 Verizon and its subsidiaries administer Political Action Committees (PACs) that acceptcontributions from employees who wish to support Verizon’s goals through the politicalprocess. Your personal contributions to these PACs are entirely voluntary.
 
 
 
-Seeking public ofce
+Seeking public office
 
 
 
-Before you seek any elected or appointed public ofce, including a local position,such as school board, you must obtain the approval of your director level or abovesupervisor and Verizon Ethics.
+Before you seek any elected or appointed public office, including a local position,such as school board, you must obtain the approval of your director level or abovesupervisor and Verizon Ethics.
 
 
 
@@ -532,17 +524,13 @@ Insider trading and securities transactions
 
 
 
-Insider trading occurs when a person trades in a company’s securities using materialinside information—that is, information that is not publicly available and that couldreasonably afect a person’s decision about whether to buy or sell the securities.It also occurs when a person gives material inside information to someone else whotrades on it. Insider trading is a serious violation of the law and can result in severepenalties, including imprisonment.
+Insider trading occurs when a person trades in a company’s securities using materialinside information—that is, information that is not publicly available and that couldreasonably affect a person’s decision about whether to buy or sell the securities.It also occurs when a person gives material inside information to someone else whotrades on it. Insider trading is a serious violation of the law and can result in severepenalties, including imprisonment.
 
 As a Verizon employee, you may become aware of material inside information aboutVerizon or other companies with which Verizon does business. You must never usematerial inside information (even if you acquired it as a “tip” from others) to trade inVerizon’s or any other company’s securities, including options and other derivativesecurities. In addition, you may not provide material inside information to any otherperson, including members of your family or your friends, or assist any other personin trading using material inside information.
 
-18Verizon Code of ConductIntegrity and fairnessin the workplace.
+Integrity and fairnessin the workplace.
 
-
-
-Can I purchase stock in a companythat is a vendor on a project I amworking on?
-
-If you are working with that vendor, youcannot purchase stock in that company.
+18Verizon Code of Conduct
 
 The rules that relate to insider trading are complex. If you are not sure whether theserestrictions apply to you, you should consult the Legal Department before making anydecision to trade in a security, or before you disclose any information to another person.As a general rule, non-public information concerning a company’s business, financialprospects, major transactions, regulatory or legal matters, significant cybersecurityincidents, or management issues, is often considered “material.”
 
@@ -566,21 +554,23 @@ Loans
 
 
 
-Personal loans from the company to any executive ofcer (as defined by securitieslaw) are unlawful and strictly prohibited. Personal loans from the company to any otheremployee must be approved in writing in advance by the Legal Department or under anapproved Verizon program. Loans greater than US$25 between employees in a director indirect reporting relationship are prohibited.
+Personal loans from the company to any executive officer (as defined by securitieslaw) are unlawful and strictly prohibited. Personal loans from the company to any otheremployee must be approved in writing in advance by the Legal Department or under anapproved Verizon program. Loans greater than US$25 between employees in a director indirect reporting relationship are prohibited.
 
-’Verizon Code of Conduct Protecting Verizon s 19assets and reputation.
+
+
+Can I purchase stock in a companythat is a vendor on a project I amworking on?
+
+If you are working with that vendor, youcannot purchase stock in that company.
+
+Integrity and fairnessin the workplace.
 
 3
 
-20Verizon Code of ConductProtecting Verizon’sassets and reputation.
 
 
+Verizon Code of Conduct Protecting Verizon’sassets and reputation.19
 
-I am required to track and recordthe time I spend working eachweek. I sometimes fail to properlyrecord half-days as vacation days orpersonal time, but it is not a commonoccurrence. Is this a big deal?
-
-Yes. Failure to accurately record yourtime is a violation of the Code and couldresult in discipline up to and includingtermination of employment.
-
-
+20Verizon Code of Conduct
 
 ProtectingVerizon’s assetsand reputation.
 
@@ -614,25 +604,15 @@ Our investors and shareholders are key to our success and we are committed totra
 
 You may not selectively disclose (even in one-on-one or small meetings) any materialinformation regarding the company. You should be particularly careful not to disclosesuch information if you make presentations to customers, business providers, investors,or other third parties.
 
-21Verizon Code of ConductProtecting Verizon’sassets and reputation.
 
 
+I am required to track and recordthe time I spend working eachweek. I sometimes fail to properlyrecord half-days as vacation days orpersonal time, but it is not a commonoccurrence. Is this a big deal?
 
-A customer shared a competitor’spricing in connection with a pendingbid because the customer wants tomake it clear that there is a certain“price to beat.” Can I use thisinformation?
+Yes. Failure to accurately record yourtime is a violation of the Code and couldresult in discipline up to and includingtermination of employment.
 
-No. This information is almost certainlyproprietary and the customer maynot be authorized to share it withVerizon. You should contact the LegalDepartment, preserve the email, anddo not take further action until directedby Legal.
+Protecting Verizon’sassets and reputation.
 
-
-
-A competitor’s pricing informationwas posted on a blog. It’s marked“confidential.” Can I use it?
-
-If you have reason to believe theblogger wasn’t authorized to post theinformation and that it is non-public,contact the Legal Department toreceive guidance before using it.
-
-
-
-In connection with a pendingtransaction, a partner sent meconfidential information. A properlyapproved NDA is in place. CanI accept the information?
-
-Yes, you can accept confidentialinformation pursuant to a properlyapproved NDA.
+21Verizon Code of Conduct
 
 We use auditors to ensure the accuracy of our reporting. You must cooperate withauditors and provide them with complete, accurate, and timely information, and youmust never improperly influence or mislead any auditor.
 
@@ -668,6 +648,26 @@ You must not acquire the intellectual property of others through unlawful or ina
 
 If you have entered into any agreement with a prior employer with respect to intellectualproperty, non-competition, non-solicitation, or non-disclosure, you are required todisclose such an agreement to your supervisor.
 
+
+
+A customer shared a competitor’spricing in connection with a pendingbid because the customer wants tomake it clear that there is a certain“price to beat.” Can I use thisinformation?
+
+No. This information is almost certainlyproprietary and the customer maynot be authorized to share it withVerizon. You should contact the LegalDepartment, preserve the email, anddo not take further action until directedby Legal.
+
+
+
+A competitor’s pricing informationwas posted on a blog. It’s marked“confidential.” Can I use it?
+
+If you have reason to believe theblogger wasn’t authorized to post theinformation and that it is non-public,contact the Legal Department toreceive guidance before using it.
+
+
+
+In connection with a pendingtransaction, a partner sent meconfidential information. A properlyapproved NDA is in place. CanI accept the information?
+
+Yes, you can accept confidentialinformation pursuant to a properlyapproved NDA.
+
+Protecting Verizon’sassets and reputation.
+
 22Verizon Code of Conduct
 
 
@@ -678,11 +678,7 @@ Gathering information about competitors
 
 Gathering information about competitors is a common business practice, but you mustalways do so with integrity. You must always accurately represent yourself and may nevermisrepresent your identity when gathering information. You are also required to directthat all consultants and agents with whom you work on behalf of Verizon do the same.
 
-You may generally obtain information from public sources, industry gatherings, surveys,and competitive research, but it is never acceptable to obtain or request non-publicinformation from any source, including the internet. It is never appropriate to engage intheft, espionage, or breach of a competitor’s non-disclosure agreement. If informationyou receive is marked private or marked in such a way as to indicate it is private, absent
-
-an appropriate confidentiality agreement, do not use it and contact the Legal
-
-Department for guidance.
+You may generally obtain information from public sources, industry gatherings, surveys,and competitive research, but it is never acceptable to obtain or request non-publicinformation from any source, including the internet. It is never appropriate to engage intheft, espionage, or breach of a competitor’s non-disclosure agreement. If informationyou receive is marked private or marked in such a way as to indicate it is private, absentan appropriate confidentiality agreement, do not use it and contact the LegalDepartment for guidance.
 
 
 
@@ -692,13 +688,9 @@ Protecting company communicationand information systems
 
 Verizon’s communication and information systems, including all company computersand mobile devices, are critical to the company’s operation. You must protect companyinformation from accidental or unauthorized disclosure. You must also protect thesecurity of user IDs and passwords for all company systems and devices. Additionally,you must also comply with all company policies relating to the use of computer hardwareand software on company systems, and the acquisition, use, and disposition of data oncompany systems. Only approved software and hardware may be used on companysystems, and such media must have a legitimate business purpose and be malware free.
 
-You may not use company systems, such as email or instant messaging, to engage inactivities that are illegal, violate company policy, or could result in Verizon’s liability or
+You may not use company systems, such as email or instant messaging, to engage inactivities that are illegal, violate company policy, or could result in Verizon’s liability orreputational harm. Some examples of improper uses of company systems include:
 
-reputational harm. Some examples of improper uses of company systems include:
-
-• pornographic, obscene, offensive, harassing or discriminatory content;
-
-• unauthorized mass distributions; and• communications on behalf of commercial ventures.
+• pornographic, obscene, offensive, harassing or discriminatory content;• unauthorized mass distributions; and• communications on behalf of commercial ventures.
 
 You may make limited personal use of company systems, so long as it does not interferewith your work responsibilities, incur costs, or otherwise violate the Code or Verizonpolicy. You may not send non-public company information to personal email unless youare authorized to do so by a supervisor and comply with company policies regardingencryption.
 
@@ -708,35 +700,11 @@ Proper use of Verizon resources
 
 
 
-You are required to protect Verizon’s resources, as well as property belonging tocustomers, business providers, and co-workers. All company resources must be usedappropriately, and never for personal gain. Company property cannot be taken, sold,loaned, intentionally damaged, given away, or otherwise disposed of, regardless of its
-
-condition or value, without specific authorization.
-
-
+You are required to protect Verizon’s resources, as well as property belonging tocustomers, business providers, and co-workers. All company resources must be usedappropriately, and never for personal gain. Company property cannot be taken, sold,loaned, intentionally damaged, given away, or otherwise disposed of, regardless of itscondition or value, without specific authorization.
 
 Protecting Verizon’sassets and reputation.
 
 23Verizon Code of Conduct
-
-
-
-If I am using my personal social mediaaccount on my personal time, doesthe Code of Conduct apply?
-
-Yes, portions of this Code of Conductstill apply to your personal use of socialmedia. For example, if you identifyVerizon as your employer and post aracist comment or encourage acts ofviolence on your social media pages,such behavior may constitute prohibitedof-duty misconduct.
-
-
-
-Can I post an online review of aVerizon product that I purchasedin my individual capacity?
-
-Yes, but you must always tell the truthand you must disclose your employmentrelationship with the company.
-
-
-
-Where can I get more informationabout the company’s policies onsocial media?
-
-More information can be foundon vzweb.verizon.com/social-media-compliance.
-
-Protecting Verizon’sassets and reputation.
 
 You are never permitted to use Verizon equipment or vehicles for personal purposes,or any device or system to obtain unauthorized free or discounted service.
 
@@ -764,23 +732,39 @@ External requests and inquiries seeking information from the company must be dir
 
 Verizon generally does not make company-sponsored endorsements or providetestimonials. You may not use Verizon’s name, nor may you make any endorsement,without the explicit approval of the Legal Department and Brand Management.
 
-Verizon Code of Conduct Integrity and fairness 24in the marketplace.
+
+
+If I am using my personal social mediaaccount on my personal time, doesthe Code of Conduct apply?
+
+Yes, portions of this Code of Conductstill apply to your personal use of socialmedia. For example, if you identifyVerizon as your employer and post aracist comment or encourage acts ofviolence on your social media pages,such behavior may constitute prohibitedoff-duty misconduct.
+
+
+
+Can I post an online review of aVerizon product that I purchasedin my individual capacity?
+
+Yes, but you must always tell the truthand you must disclose your employmentrelationship with the company.
+
+
+
+Where can I get more informationabout the company’s policies onsocial media?
+
+More information can be foundon vzweb.verizon.com/social-media-compliance.
+
+Protecting Verizon’sassets and reputation.
 
 4
 
-25Verizon Code of ConductIntegrity and fairnessin the marketplace.
 
 
+Verizon Code of Conduct Integrity and fairnessin the marketplace.24
 
-Verizon’s privacy policies may befound at verizon.com/about/privacy/privacy-policy-summary. The PrivacyOfce can assist with any questionsor concerns.
-
-
+25Verizon Code of Conduct
 
 Integrity andfairness in themarketplace.
 
 
 
-Our relationships with customers, suppliers, and society are fundamental to ourcommercial success and are a critical part of our social responsibility. Each ofus must ensure that our interactions outside the company are based onintegrity and respect for internationally recognized human rights.
+Our relationships with customers, suppliers, and society are fundamental to ourcommercial success and are a critical part of our social responsibility. Each of usmust ensure that our interactions outside the company are based on integrity andrespect for internationally recognized human rights.
 
 
 
@@ -802,17 +786,21 @@ Verizon contractors and business partners also must protect customer information
 
 If you are aware of or suspect unauthorized access to, disclosure of, or loss of customerinformation, you must report it immediately to the Legal Department or Verizon Ethics.
 
+Integrity and fairnessin the marketplace.
+
+
+
+Verizon’s privacy policies may befound at verizon.com/about/privacy/privacy-policy-summary. The PrivacyOffice can assist with any questionsor concerns.
+
+26Verizon Code of Conduct
+
 
 
 Customer marketing
 
 
 
-You must follow all company policies and applicable laws before using any customer’sinformation to market to the customer, including marketing for additional products
-
-26Verizon Code of ConductIntegrity and fairnessin the marketplace.
-
-and services. When customers are also telecommunications carriers or resellers oftelecommunications services, you may not use their subscriber information, orders,or services to aid in Verizon’s retail marketing or sales eforts.
+You must follow all company policies and applicable laws before using any customer’sinformation to market to the customer, including marketing for additional productsand services. When customers are also telecommunications carriers or resellers oftelecommunications services, you may not use their subscriber information, orders,or services to aid in Verizon’s retail marketing or sales efforts.
 
 
 
@@ -822,7 +810,7 @@ Selling with integrity
 
 You may never deceive customers, and you must fully, clearly, and directly informcustomers of the terms and conditions of our services:
 
-• All advertising and sales materials must be truthful and accurate. All claims mustbe substantiated in advance with a factual basis and backup. No advertisingor sales materials should be released without Legal Department approval.• When selling to Verizon’s customers, never disparage or misrepresent thecompany’s products or services.• When advertising the price of Verizon’s products and services, the customermust be clearly informed of all material terms and restrictions for obtaining theadvertised rate in marketing and promotional materials. There should be nohidden charges.• All rules regarding sales and promotions must be followed without exception.• Promote Verizon’s products and services by focusing on their strength, quality,reputation, and where appropriate, through fair and accurate comparisons withour competitors. You should not disparage competitors, or make misleading orinaccurate comparisons with competitors’ products and services.• Report to the Legal Department any loopholes or flaws in promotions or ofersthat allow customers or the company to be harmed.
+• All advertising and sales materials must be truthful and accurate. All claims mustbe substantiated in advance with a factual basis and backup. No advertisingor sales materials should be released without Legal Department approval.• When selling to Verizon’s customers, never disparage or misrepresent thecompany’s products or services.• When advertising the price of Verizon’s products and services, the customermust be clearly informed of all material terms and restrictions for obtaining theadvertised rate in marketing and promotional materials. There should be nohidden charges.• All rules regarding sales and promotions must be followed without exception.• Promote Verizon’s products and services by focusing on their strength, quality,reputation, and where appropriate, through fair and accurate comparisons withour competitors. You should not disparage competitors, or make misleading orinaccurate comparisons with competitors’ products and services.• Report to the Legal Department any loopholes or flaws in promotions or offersthat allow customers or the company to be harmed.
 
 
 
@@ -840,21 +828,15 @@ Relationships with competitors
 
 
 
-We depend upon a fair marketplace for our success. Accordingly, we will never seekto eliminate or reduce competition through illegal agreements with competitors. Tosafeguard against this risk, you may not enter into agreements with competitors withoutadvance approval from the Legal Department. When thinking about what companiescould be competitors, take a broad view and, if in doubt, contact the Legal Departmentprior to making any agreement.
-
-You must avoid agreements that could violate antitrust and competition laws such asfixing prices, dividing markets or products, rigging bids, or boycotting particular suppliers
-
-27Verizon Code of Conduct
-
-
-
-My colleague left Verizon last monthto work for one of our vendors wherehe is working on Verizon matters. CanI interact with the former employeeregarding Verizon business?
-
-It depends. When a former employeehas left Verizon, depending on the rolehe plays at his new employer, there maybe restrictions on Verizon employees’ability to immediately interact withthe person. You should reach out toVerizon Ethics to discuss the individualcircumstances.
+We depend upon a fair marketplace for our success. Accordingly, we will never seekto eliminate or reduce competition through illegal agreements with competitors. Tosafeguard against this risk, you may not enter into agreements with competitors withoutadvance approval from the Legal Department. When thinking about what companies
 
 Integrity and fairnessin the marketplace.
 
-or customers. Explicit agreements, informal “gentlemen’s agreements,” and even a“wink and a nod” are against the law and can result in criminal penalties for Verizonor you personally.
+27Verizon Code of Conduct
+
+could be competitors, take a broad view and, if in doubt, contact the Legal Departmentprior to making any agreement.
+
+You must avoid agreements that could violate antitrust and competition laws such asfixing prices, dividing markets or products, rigging bids, or boycotting particular suppliersor customers. Explicit agreements, informal “gentlemen’s agreements,” and even a“wink and a nod” are against the law and can result in criminal penalties for Verizonor you personally.
 
 When interacting with competitors externally – including at trade association activitiesor in informal settings – do not discuss Verizon’s pricing, terms, or marketing plans.
 
@@ -866,7 +848,7 @@ Relationships with former employees
 
 Your obligation to follow the company’s standards continues even after your employmentat Verizon ends:
 
-• When leaving or retiring, you must return all Verizon property, including all recordsand equipment. You can’t use or disclose Verizon’s non-public information in anysubsequent employment, unless you receive written permission in advance froma Verizon vice president level employee and the Legal Department.• You may not provide any Verizon non-public information to former employeesunless properly authorized. If a former employee solicits non-public informationfrom you, you must immediately notify Security or the Legal Department.• You may not rehire a former employee or engage a former employee as anindependent contractor or a contract worker, whether engaged through a stafngcompany or other third-party vendor, unless the former employee has beenseparated from the company for six months. In extremely limited circumstances,the Executive Vice President for Human Resources may, in writing prior to theengagement, and upon a finding of a compelling reason, approve the rehire ofa former employee or the engagement of a former employee as an independentcontractor or a contract worker, as described above, within six months of thatperson’s separation.• You may not receive services or purchase products from a former employeeon behalf of Verizon unless the former employee has been separated from thecompany for six months. Verizon Ethics may, upon finding of a compelling reason,approve such interactions on Verizon’s behalf with a former employee within sixmonths of that person’s separation. When a former employee has been separatedfrom Verizon for more than six months, you must obtain authorization from yoursupervisor before purchasing products or receiving services from the formeremployee.
+• When leaving or retiring, you must return all Verizon property, including all recordsand equipment. You can’t use or disclose Verizon’s non-public information in anysubsequent employment, unless you receive written permission in advance froma Verizon vice president level employee and the Legal Department.• You may not provide any Verizon non-public information to former employeesunless properly authorized. If a former employee solicits non-public informationfrom you, you must immediately notify Security or the Legal Department.• You may not rehire a former employee or engage a former employee as anindependent contractor or a contract worker, whether engaged through a staffingcompany or other third-party vendor, unless the former employee has beenseparated from the company for six months. In extremely limited circumstances,the Executive Vice President for Human Resources may, in writing prior to theengagement, and upon a finding of a compelling reason, approve the rehire ofa former employee or the engagement of a former employee as an independentcontractor or a contract worker, as described above, within six months of thatperson’s separation.• You may not receive services or purchase products from a former employeeon behalf of Verizon unless the former employee has been separated from thecompany for six months. Verizon Ethics may, upon finding of a compelling reason,approve such interactions on Verizon’s behalf with a former employee within sixmonths of that person’s separation. When a former employee has been separatedfrom Verizon for more than six months, you must obtain authorization from yoursupervisor before purchasing products or receiving services from the formeremployee.
 
 
 
@@ -878,9 +860,17 @@ Gifts and entertainment can be part of promoting a successful working relationsh
 
 No gift or entertainment can be exchanged if (a) it might create the appearanceof undue influence, unfairness or impropriety, (b) it is intended to improperly influenceanother person’s business judgment, or (c) you are participating in, conducting,or directly supervising a formal Verizon procurement process.
 
-If you receive or want to ofer a gift or entertainment that is outside of Code standards,you must contact Verizon Ethics for guidance.
+Integrity and fairnessin the marketplace.
 
-28Verizon Code of ConductIntegrity and fairnessin the marketplace.
+
+
+My colleague left Verizon last monthto work for one of our vendors wherehe is working on Verizon matters. CanI interact with the former employeeregarding Verizon business?
+
+It depends. When a former employeehas left Verizon, depending on the rolehe plays at his new employer, there maybe restrictions on Verizon employees’ability to immediately interact withthe person. You should reach out toVerizon Ethics to discuss the individualcircumstances.
+
+28Verizon Code of Conduct
+
+If you receive or want to offer a gift or entertainment that is outside of Code standards,you must contact Verizon Ethics for guidance.
 
 Moreover, you may never use your own funds to circumvent our rules regarding giftsand entertainment, and you must ensure that all gifts and entertainment are accuratelyreflected in Verizon’s books and records, including expense reports. Our rules regardinggifts and entertainment can apply to your family and individuals with whom you havea close personal relationship when those individuals receive gifts and entertainmentbecause of your position at Verizon.
 
@@ -894,7 +884,7 @@ A gift is anything of value, including promotional trinkets, food, beverages, an
 
 • unsolicited;• not cash or usable as cash (including gift cards unless they have been approvedas part of an authorized Verizon program and by the Legal Department); and• no more than US$150 in value in a calendar year to or from the same organization,unless approved by a director level supervisor and Verizon Ethics.
 
-You must receive approval from Verizon Ethics before ofering or accepting any giftsof travel or lodging.
+You must receive approval from Verizon Ethics before offering or accepting any giftsof travel or lodging.
 
 
 
@@ -906,6 +896,8 @@ Entertainment is any meal or event you attend with a customer or business provid
 
 • attended by both a Verizon employee and a business provider’s employee,and be an occasion where business is discussed;• no more than US$250 in value per occasion, per person, unless approvedby a director level supervisor and Verizon Ethics; and• at a venue and conducted in a manner that does not violate other provisionsof the Code or harm the Company’s reputation (e.g., attending an event at anadult entertainment venue).
 
+Integrity and fairnessin the marketplace.
+
 29Verizon Code of Conduct
 
 
@@ -914,33 +906,13 @@ Bribery, anticorruption andgovernment ethics
 
 
 
-We win business fairly. And we maintain strict policies against bribery and corruption,which apply to all of us regardless of the country in which we work. Compliance withthese policies is critically important, regardless of what the customs might be in aparticular country. In addition, Verizon employees must comply with all anti-bribery
+We win business fairly. And we maintain strict policies against bribery and corruption,which apply to all of us regardless of the country in which we work. Compliance withthese policies is critically important, regardless of what the customs might be in aparticular country. In addition, Verizon employees must comply with all anti-briberyand anti-corruption laws applicable in any jurisdiction in which we operate.
 
-and anti-corruption laws applicable in any jurisdiction in which we operate.
+You must not offer or pay a bribe to anyone, and you must never receive or solicit a bribefrom anyone. If you are ever offered a bribe by anyone, you must report it to the LegalDepartment immediately.
 
-You must not offer or pay a bribe to anyone, and you must never receive or solicit a bribefrom anyone. If you are ever offered a bribe by anyone, you must report it to the Legal
+You must obtain Legal Department approval before offering any gifts, entertainment,meals, or anything else of value to any government official, whether they are based insideor outside of the United States. You must also obtain Legal Department approval beforeentering into personal business with a government official as a consultant on behalfof Verizon (for example, hiring a government official or entering into a joint ventureor partnership with a government official).
 
-Department immediately.
-
-
-
-You must obtain Legal Department approval before offering any gifts, entertainment,meals, or anything else of value to any government official, whether they are based inside
-
-or outside of the United States. You must also obtain Legal Department approval before
-
-entering into personal business with a government official as a consultant on behalf
-
-of Verizon (for example, hiring a government official or entering into a joint venture
-
-or partnership with a government official).
-
-
-
-You may never make payments to any third party you suspect may be passed on
-
-to government officials or otherwise used to improperly influence anyone’s decisionmaking to obtain business or other benefits for Verizon. Whenever you retain any agents
-
-or consultants in connection with our global business, you must verify that there areadequate controls to prevent funds provided to those agents from being used to makeimproper payments.
+You may never make payments to any third party you suspect may be passed onto government officials or otherwise used to improperly influence anyone’s decisionmaking to obtain business or other benefits for Verizon. Whenever you retain any agentsor consultants in connection with our global business, you must verify that there areadequate controls to prevent funds provided to those agents from being used to makeimproper payments.
 
 You must ensure that Verizon and any agents or consultants hired to represent Verizonproperly document all transactions and maintain accurate records regarding allpayments, including amounts, recipients, and purpose of payments.
 
@@ -960,71 +932,27 @@ International relationships
 
 
 
-We must follow the law, wherever we do business. If you find that there is a conflict
-
-between applicable law and the Code or Verizon policy, you should comply with thelaw and seek further guidance from the Legal Department.
+We must follow the law, wherever we do business. If you find that there is a conflictbetween applicable law and the Code or Verizon policy, you should comply with thelaw and seek further guidance from the Legal Department.
 
 Integrity and fairnessin the marketplace.
 
 
 
-Who counts as a “government
+Who counts as a “governmentofficial?”
 
-official?”
-
-Legal definitions of “government official”
-
-can vary. For the purpose of complyingwith company policy, you should takethe broadest possible view of who is
-
-a government official. This includes allelected and appointed officials and any
-
-employee of any government entity,at any level, including national, state,provincial, local, or municipal level.
-
-It also includes officials and employees
-
-associated with quasi-governmentalentities and state-owned companies.If you’re in doubt as to whethersomeone should be treated as a
-
-government official, contact the Legal
-
-Department for assistance.
+Legal definitions of “government official”can vary. For the purpose of complyingwith company policy, you should takethe broadest possible view of who isa government official. This includes allelected and appointed officials and anyemployee of any government entity,at any level, including national, state,provincial, local, or municipal level.It also includes officials and employeesassociated with quasi-governmentalentities and state-owned companies.If you’re in doubt as to whethersomeone should be treated as agovernment official, contact the LegalDepartment for assistance.
 
 
 
-In conjunction with an internationaldeal I am working on, a government
+In conjunction with an internationaldeal I am working on, a governmentofficial has asked Verizon to pay a“processing fee” to expedite clearingcustoms. What should I do?
 
-official has asked Verizon to pay a
-
-“processing fee” to expedite clearingcustoms. What should I do?
-
-“Expediting” or “facilitating” payments
-
-are unlawful in many circumstancesand are generally prohibited at Verizon.You must immediately notify the LegalDepartment about any requests to paywhat you believe may be an expeditingor facilitating payment.
+“Expediting” or “facilitating” paymentsare unlawful in many circumstancesand are generally prohibited at Verizon.You must immediately notify the LegalDepartment about any requests to paywhat you believe may be an expeditingor facilitating payment.
 
 30Verizon Code of Conduct
 
 
 
-Which countries are covered bysanctions laws?
-
-Check with the Legal Department forspecific guidance, but the U.S. maintainsbroad prohibitions on dealings withcountries such as Cuba, Iran, NorthKorea, and Syria.
-
-
-
-In connection with an RFP, a potentialcustomer asked if Verizon doesbusiness with Israel. What should I do?
-
-You must contact the Legal Departmentif you receive any request relating toVerizon’s relationships with Israel orblacklisted companies or a requestregarding anyone’s race, religion,gender, national origin, or nationality.
-
-
-
-Where can I get more detail aboutexport rules?
-
-Go here for more information aboutexport and import laws.
-
-Integrity and fairnessin the marketplace.
-
-
-
-Locating ofces or receiving servicesoutside the United States
+Locating offices or receiving servicesoutside the United States
 
 
 
@@ -1036,7 +964,7 @@ Compliance with sanctions and anti-boycott laws
 
 
 
-Sanctions laws (including embargoes and boycotts) restrict or prohibit business activitieswith targeted countries, governments, entities, organizations, and individuals. The UnitedNations and many countries, including the United States and European Union membercountries, maintain lists of sanctioned parties that include persons involved in terrorism,money laundering, drug trafcking activities, or human rights abuses. Often, it is unlawfulto engage in business with the listed entity or entities that are owned or controlled by thelisted entity. You must check with the Legal Department before conducting business inor with sanctioned countries and governments or with listed parties.
+Sanctions laws (including embargoes and boycotts) restrict or prohibit business activitieswith targeted countries, governments, entities, organizations, and individuals. The UnitedNations and many countries, including the United States and European Union membercountries, maintain lists of sanctioned parties that include persons involved in terrorism,money laundering, drug trafficking activities, or human rights abuses. Often, it is unlawfulto engage in business with the listed entity or entities that are owned or controlled by thelisted entity. You must check with the Legal Department before conducting business inor with sanctioned countries and governments or with listed parties.
 
 Not all countries agree on sanctions and boycotts. From time to time, a country mayprohibit Verizon from complying with another country’s sanctions and/or boycott laws.For example, U.S. laws prohibit or penalize compliance with the Arab League’s boycottof Israel, and EU laws restrict compliance with certain extraterritorial U.S. sanctions. Youmust contact the Legal Department if a sanctions or boycott law appears to conflict withthe laws of another country.
 
@@ -1054,7 +982,27 @@ What constitutes “export” or “import” under the law is broad. Examples i
 
 • sending goods or software from one country to another;• permitting the download of software by someone in another country;• exposing or allowing access by non-U.S. persons to U.S. technical information,regardless of what country the exposure occurs in; and• transporting technical data or software on your phone or laptop, or transportingtools or equipment in your luggage when traveling to another country.
 
-Before engaging in export or import activities, you must obtain approval from the LegalDepartment or Verizon’s Import Export Compliance group. Be aware that the laws ofmore than one country may apply. Know the end use and end user of our transactions,and the requirements regarding customs clearances and payment of duties and tarifs.
+Before engaging in export or import activities, you must obtain approval from the LegalDepartment or Verizon’s Import Export Compliance group. Be aware that the laws ofmore than one country may apply. Know the end use and end user of our transactions,and the requirements regarding customs clearances and payment of duties and tariffs.
+
+Integrity and fairnessin the marketplace.
+
+
+
+Where can I get more detail aboutexport rules?
+
+Go here for more information aboutexport and import laws.
+
+
+
+Which countries are covered bysanctions laws?
+
+Check with the Legal Department forspecific guidance, but the U.S. maintainsbroad prohibitions on dealings withcountries such as Cuba, Iran, NorthKorea, and Syria.
+
+
+
+In connection with an RFP, a potentialcustomer asked if Verizon doesbusiness with Israel. What should I do?
+
+You must contact the Legal Departmentif you receive any request relating toVerizon’s relationships with Israel orblacklisted companies or a requestregarding anyone’s race, religion,gender, national origin, or nationality.
 
 Sourcesof help
 
@@ -1068,15 +1016,13 @@ Verizon’s VZWeb (intranet), vzweb2.verizon.com, contains expansive helpful con
 
 Quick reference chart
 
-
-
 Resource Phone number
 
 
 
 Verizon Ethicswebsiteemail
 
-844.894.8433International dialingUS
+844.894.8433 USInternational dialing
 
 Human ResourceswebsiteConsult website
 
@@ -1086,11 +1032,11 @@ Global Corporate Security Operationswebsite+1.800.483.3565+1.972.457.8450Consult
 
 Verizon CompliancewebsiteConsult website
 
-Internal Auditwebsite844.894.8433International dialingUS
+Internal Auditwebsite844.894.8433 USInternational dialing
 
-Privacy OfcewebsiteConsult website
+Privacy OfficewebsiteConsult website
 
-Verizon Code of Conduct Sources of help 32
+32Verizon Code of Conduct Sources of help
 
 
 
@@ -1098,7 +1044,7 @@ Resource Phone number
 
 
 
-Environment, Health \& Safetywebsite800.386.9639+1.800.386.9639USInternational
+Environment, Health \& Safetywebsite800.386.9639 US+1.800.386.9639 International
 
 Export Control CompliancewebsiteConsult website
 
@@ -1116,6 +1062,10 @@ Consult website
 
 Employee Assistance Programwebsite USwebsite International
 
-888.441.8674Consult websiteUSInternational
+888.441.8674 USConsult website International
 
-© 2023 Verizon
+© 2023 Verizon© 2023 Verizon
+
+
+
+integrityalwaysmatters
