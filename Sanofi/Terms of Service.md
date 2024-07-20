@@ -24,6 +24,7 @@
     * Vaccines
         * [Vaccines](https://www.sanofi.us/en/your-health/vaccines)
         * [Influenza](https://www.sanofi.us/en/your-health/vaccines/influenza)
+        * [Respiratory Syncytial Virus](https://www.sanofi.us/en/your-health/vaccines/respiratory-syncytial-virus)
     * Medicines
         * [Medicines](https://www.sanofi.us/en/your-health/medicines)
         * [Immunology](https://www.sanofi.us/en/your-health/medicines/immunology)
