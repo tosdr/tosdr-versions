@@ -10,7 +10,7 @@ Search for:
     * [Build Your Budget](https://weeklybudgeting.com/build-your-budget/)
     * [Know Your Safe-to-Spend](https://weeklybudgeting.com/know-your-safe-to-spend/)
     * [Spending Tracker](https://weeklybudgeting.com/spending-tracker/)
-    * [Keep Track of Bills](https://weeklybudgeting.com/monitor-bill-and-account-balances/)
+    * [Organize Your Bills](https://weeklybudgeting.com/bill-organizer/)
     * [Save For Your Goals](https://weeklybudgeting.com/save-for-your-goals/)
     * [Couples Budgeting](https://weeklybudgeting.com/budget-with-a-partner/)
 * [Pricing](https://weeklybudgeting.com/pricing/)
