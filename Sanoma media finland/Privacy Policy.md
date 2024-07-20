@@ -1,7 +1,7 @@
-###### Tämä tietosuojalauseke on voimassa: 29.05.2024 lähtien.  
+###### Tämä tietosuojalauseke on voimassa: 03.07.2024 lähtien.  
 Lue tekemistämme päivityksistä [täältä](https://www.sanoma.fi/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojalausekkeen-muutokset/ "täältä").
 
-###### [Tietosuojalausekkeen tulostettava versio](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-29052024.pdf)
+###### [Tietosuojalausekkeen tulostettava versio](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-03072024.pdf)
 
 I – Henkilötietojen käsittely Sanoman palveluissa
 -------------------------------------------------
@@ -185,6 +185,8 @@ Mobiilisovelluksiimme, jotka on saatettu käyttäjän saataville esimerkiksi App
 
 Sanoma toimii rajoitetuissa mainonnan myynnin käsittelytilanteissa yhteisrekisterinpitäjänä mainostaja-asiakkaidensa ja ”Supply Side Platform” -myyntijärjestelmien tarjoajien kanssa. Tämä yhteisrekisterinpitäjyyden alainen käsittely on kuvattu tarkemmin evästekäytännöissä. 
 
+Sanoma toimii kuluttajille suunnattujen Sanoman tilaustuotteiden puhelinmyynnin tietyissä käsittelytilanteissa yhteisrekisterinpitäjänä puhelinmyynnin toteutuksesta vastaavan yhteistyökumppani Live Promoters Oy:n kanssa.
+
 Sanoma käyttää Facebookin yritystyökaluja, jotka auttavat meitä analysoimaan tuotteitamme ja tavoittamaan ja palvelemaan käyttäjiämme entistä paremmin. Näihin työkaluihin sisältyvät muun muassa Facebookin seurantapikseli ja Sanoman Facebook -yhteisösivut. 
 
 Sanoma ja Facebook Ireland ovat yhteisrekisterinpitäjiä  soveltuvin osin koskien tiettyjä henkilötietoja, jotka viittaavat käyttäjien toimintoihin verkkosivustollamme ja sovelluksissamme ja joita kerätään Facebookin integroitujen yritystyökalujen avulla.  
@@ -217,7 +219,7 @@ Lue tarkemmin oikeuksistasi [täältä](https://www.sanoma.fi/mita-teemme/tieto
 
 Kehitämme palvelujamme jatkuvasti ja pidätämme itsellämme oikeuden muuttaa tätä tietosuojalauseketta. Muutokset voivat perustua myös lainsäädännön muuttumiseen. Suosittelemme tutustumaan tietosuojalausekkeen sisältöön säännöllisesti.
 
-Tämän tietosuojalausekkeen edelliseen versioon voit tutustua [**täällä**](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-25092023.pdf).
+Tämän tietosuojalausekkeen edelliseen versioon voit tutustua [**täällä**](https://www.sanoma.fi/globalassets/sanoma-media-finland/mita-teemme/tietosuoja/tietosuojalauseke/tietosuojaperiaatteiden-muutokset/tietosuojalauseke-29052024.pdf).
 
 ##### Mihin voin ottaa yhteyttä?
 
