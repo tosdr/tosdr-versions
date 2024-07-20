@@ -82,7 +82,7 @@ Menu
 
 [Log in](https://dashboard.tawk.to/)
 
-[Get Free Widget](https://dashboard.tawk.to/signup)
+[Get started](https://dashboard.tawk.to/signup)
 
 Terms of Service
 ================
