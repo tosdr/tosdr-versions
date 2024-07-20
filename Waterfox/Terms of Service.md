@@ -2,7 +2,7 @@
 
   [![](/_astro/waterfox-logo-dark.DraTzhjE.svg) ![](/_astro/waterfox-logo.CMcukn5N.svg) Waterfox](https://www.waterfox.net/)
 
-Search
+Search CtrlK
 
 Cancel
 
@@ -12,9 +12,7 @@ Cancel
 * [#### Docs](https://www.waterfox.net/docs/)
 * [#### Download](https://www.waterfox.net/download/)
 
-[![Buy Me A Coffee](/images/arial-yellow.png)](https://www.buymeacoffee.com/waterfox) [GitHub](https://github.com/BrowserWorks/Waterfox) [Mastodon](https://mastodon.social/@Waterfox) [Twitter](https://twitter.com/Waterfoxproject) [RSS](https://www.waterfox.net/blog/rss.xml)
-
-Select theme DarkLightAuto
+[![Buy Me a Coffee](/_astro/bmc.87HVnr1e.svg)](https://www.buymeacoffee.com/waterfox) [GitHub](https://github.com/BrowserWorks/Waterfox) [Mastodon](https://mastodon.social/@Waterfox) [X](https://x.com/Waterfoxproject) [RSS](https://www.waterfox.net/blog/rss.xml)
 
 [Blog](https://www.waterfox.net/blog)
 
@@ -84,6 +82,7 @@ Select theme DarkLightAuto
     * [G6.0.14](https://www.waterfox.net/docs/releases/G6.0.14/)
     * [G6.0.15](https://www.waterfox.net/docs/releases/G6.0.15/)
     * [G6.0.16](https://www.waterfox.net/docs/releases/G6.0.16/)
+    * [G6.0.17](https://www.waterfox.net/docs/releases/G6.0.17/)
     * [G6.0.2](https://www.waterfox.net/docs/releases/G6.0.2/)
     * [G6.0.3](https://www.waterfox.net/docs/releases/G6.0.3/)
     * [G6.0.4](https://www.waterfox.net/docs/releases/G6.0.4/)
@@ -111,7 +110,7 @@ Select theme DarkLightAuto
     * [Set Waterfox for Android as the default browser](https://www.waterfox.net/docs/support/android/set-waterfox-android-default/)
     
 
-[GitHub](https://github.com/BrowserWorks/Waterfox) [Mastodon](https://mastodon.social/@Waterfox) [Twitter](https://twitter.com/Waterfoxproject) [RSS](https://www.waterfox.net/blog/rss.xml)
+[GitHub](https://github.com/BrowserWorks/Waterfox) [Mastodon](https://mastodon.social/@Waterfox) [X](https://x.com/Waterfoxproject) [RSS](https://www.waterfox.net/blog/rss.xml)
 
 [Blog](https://www.waterfox.net/blog)
 
@@ -180,7 +179,7 @@ G4.0.0](https://www.waterfox.net/docs/releases/G4.0.0/)
 * [Privacy Policy](https://www.waterfox.net/docs/policies/privacy/)
 * [Terms](https://www.waterfox.net/docs/policies/terms/)
 
-[GitHub](https://github.com/BrowserWorks/Waterfox) [Mastodon](https://mastodon.social/@Waterfox) [Twitter](https://twitter.com/Waterfoxproject) [RSS](https://www.waterfox.net/blog/rss.xml)
+[GitHub](https://github.com/BrowserWorks/Waterfox) [Mastodon](https://mastodon.social/@Waterfox) [X](https://x.com/Waterfoxproject) [RSS](https://www.waterfox.net/blog/rss.xml)
 
 Made in London, UK 🇬🇧.
 
