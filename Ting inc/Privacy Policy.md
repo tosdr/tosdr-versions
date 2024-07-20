@@ -4,11 +4,11 @@ facebook instagram twitter youtube reddit
 
 [Mobile](#)[Internet](#)
 
-[![Ting Internet home](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/61093707afc6c17966d420eb_ting.svg)![Ting Internet home](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/610bb3cec08f1d5cc00a181b_ting.svg)](https://ting.com/)
+[![Ting Internet home](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/61093707afc6c17966d420eb_ting.svg)![Ting Internet home](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/610bb3cec08f1d5cc00a181b_ting.svg)](https://ting.com/)
 
 Towns
 
-![](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/61093c875a5a58dbfcf50770_Vector%20(10).svg)
+![](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/61093c875a5a58dbfcf50770_Vector%20(10).svg)
 
 California
 
@@ -124,7 +124,7 @@ Coming soon
 * [Business](https://ting.com/business-fiber)
 * Products
     
-    ![](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/61093c875a5a58dbfcf50770_Vector%20(10).svg)
+    ![](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/61093c875a5a58dbfcf50770_Vector%20(10).svg)
     
     * [Fiber Internet](https://ting.com/why-fiber)
     * [Whole Home Wi-Fi](https://ting.com/home-wifi)
@@ -265,18 +265,18 @@ Notification of changes
 
 We may update this privacy statement to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-![](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/6234cec3c4b5b54b23e70b92_cta-wifi.png)
+![](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/6234cec3c4b5b54b23e70b92_cta-wifi.png)
 
 Ready for better internet?
 --------------------------
 
 Check availability
 
-![](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/6234d032287c53d1f494ded8_footer-squiggle.png)
+![](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/6234d032287c53d1f494ded8_footer-squiggle.png)
 
-![](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/6234d11f51b57234550dd010_footer-squiggle-2.png)
+![](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/6234d11f51b57234550dd010_footer-squiggle-2.png)
 
-[![Ting Internet home](https://assets-global.website-files.com/60c7597c9e4addef342e8d01/610983adb1ec411a6cad8ffc_ting-white.svg)](https://ting.com/)
+[![Ting Internet home](https://cdn.prod.website-files.com/60c7597c9e4addef342e8d01/610983adb1ec411a6cad8ffc_ting-white.svg)](https://ting.com/)
 
 ### Get started
 
