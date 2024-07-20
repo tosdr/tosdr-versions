@@ -133,7 +133,7 @@ Click on the retailer below for the Terms & Conditions specific to your plan.Â Â
 * [AT&T Mobility](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
 * [B&H](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/new/2021-02-08-ST-BH-STANDARD-A3.pdf)
 * [Big Lots](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2020_11_Standard_TC_EN_092020.pdf)
-* [Blink](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/ahs/2021-05-06-APP-BLINK-ENG-8.5x11-MCP-3699.pdf)
+* [Blink](https://www.squaretrade.com/sites/default/files/2024-06/2024-07-03-APP-BLINK-ENG-8.5x11-NR.pdf "2024-07-03-APP-BLINK-ENG-8.5x11-NR.pdf")
 * [Bose](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
 * [Brandsource Retailers](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2021-06-04-APP-STANDARD-EN.pdf)
 * [Cellcom](https://www.squaretrade.com/img/merchant/pdf/terms-conditions/2020-12-10-APP-CELLCOM-ENG-8.5x11-MCP-3623.pdf)
