@@ -429,7 +429,7 @@ Investments, Annuities and Insurance Products
 * Are Not Deposits
 * Are Not Insured by Any Federal Government Agency
 
-© 2022 Regions Bank. All Rights Reserved.
+© 2024 Regions Bank. All Rights Reserved.
 
 Regions, the Regions logo, the LifeGreen color, and the LifeGreen bike are registered trademarks of Regions Bank.
 
