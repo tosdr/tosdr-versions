@@ -3,30 +3,30 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
-        *  [![Plutoz Beach Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Plutoz Beach  
-            The George Tavern](https://www.songkick.com/concerts/41997677-plutoz-beach-at-george-tavern)
-        *  [![Polevaulter Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Polevaulter  
-            Sebright Arms](https://www.songkick.com/concerts/41967171-polevaulter-at-sebright-arms)
-        *  [![Piglet Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Piglet  
-            New Cross Inn](https://www.songkick.com/concerts/41980592-piglet-at-new-cross-inn)
-        *  [![piss kitti Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) piss kitti  
-            Signature Brew - Haggerston](https://www.songkick.com/concerts/42005305-piss-kitti-at-signature-brew-haggerston)
-        *  [![Interlaker Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Interlaker  
-            The Star Inn](https://www.songkick.com/concerts/41999186-interlaker-at-star-inn)
-        *  [![Superfecta Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Superfecta  
-            Troubadour London](https://www.songkick.com/concerts/42017822-superfecta-at-troubadour-london)
-        *  [![Nuala Kennedy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Nuala Kennedy  
-            Irish Cultural Centre](https://www.songkick.com/concerts/41995340-nuala-kennedy-at-irish-cultural-centre)
-        *  [![Soulprison Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Soulprison  
-            New Cross Inn](https://www.songkick.com/concerts/42013067-soulprison-at-new-cross-inn)
-        *  [![George Murphy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) George Murphy  
-            Irish Cultural Centre](https://www.songkick.com/concerts/41987615-george-murphy-at-irish-cultural-centre)
-        *  [![GHENGHIS OTT Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) GHENGHIS OTT  
-            The Amersham Arms](https://www.songkick.com/concerts/41984099-ghenghis-ott-at-amersham-arms)
+        *  [![Mishra Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mishra  
+            Servant Jazz Quarters](https://www.songkick.com/concerts/42066777-mishra-at-servant-jazz-quarters)
+        *  [![House Arrest Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) House Arrest  
+            The George Tavern](https://www.songkick.com/concerts/42068104-house-arrest-at-george-tavern)
+        *  [![pecq Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) pecq  
+            Courtyard Theatre](https://www.songkick.com/concerts/42067356-pecq-at-courtyard-theatre)
+        *  [![Cat Ryan Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cat Ryan  
+            Paper Dress Vintage](https://www.songkick.com/concerts/42044876-cat-ryan-at-paper-dress-vintage)
+        *  [![Suitman Jungle Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Suitman Jungle  
+            Paper Dress Vintage](https://www.songkick.com/concerts/42062844-suitman-jungle-at-paper-dress-vintage)
+        *  [![Julian Clary Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Julian Clary  
+            London Palladium](https://www.songkick.com/concerts/42071254-julian-clary-at-london-palladium)
+        *  [![Birthday Girl Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Birthday Girl  
+            The Windmill, Brixton](https://www.songkick.com/concerts/42045905-birthday-girl-at-windmill-brixton)
+        *  [![Madmess Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Madmess  
+            Helgi’s](https://www.songkick.com/concerts/42064216-madmess-at-helgis)
+        *  [![Vaiapraia Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vaiapraia  
+            Brockwell Park Community Greenhouses](https://www.songkick.com/concerts/42051903-vaiapraia-at-brockwell-park-community-greenhouses)
+        *  [![Princess xixi Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Princess xixi  
+            Dalston Den](https://www.songkick.com/concerts/42063035-princess-xixi-at-dalston-den)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F21%2F2024&filters%5BminDate%5D=06%2F21%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=06%2F28%2F2024&filters%5BminDate%5D=06%2F21%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F21%2F2024&filters%5BminDate%5D=06%2F21%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F20%2F2024&filters%5BminDate%5D=07%2F20%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F27%2F2024&filters%5BminDate%5D=07%2F20%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F20%2F2024&filters%5BminDate%5D=07%2F20%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
@@ -39,11 +39,11 @@
         *  [![Bad Bunny Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Bad Bunny](https://www.songkick.com/artists/9059639-bad-bunny)
         *  [![Cake Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cake](https://www.songkick.com/artists/195357-cake)
         
-        *  [![Tucker Wetmore Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tucker Wetmore](https://www.songkick.com/artists/10322117-tucker-wetmore)
+        *  [![Toby Mai Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Toby Mai](https://www.songkick.com/artists/10342042-toby-mai)
+        *  [![Austin Farwell Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Austin Farwell](https://www.songkick.com/artists/10341557-austin-farwell)
         *  [![Tommy Richman Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Tommy Richman](https://www.songkick.com/artists/10197869-tommy-richman)
-        *  [![Carbonne Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Carbonne](https://www.songkick.com/artists/10338222-carbonne)
-        *  [![&TEAM Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) &TEAM](https://www.songkick.com/artists/10338255-and-team)
-        *  [![Lavern Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Lavern](https://www.songkick.com/artists/10338064-lavern)
+        *  [![The Outsiders Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Outsiders](https://www.songkick.com/artists/506837-outsiders)
+        *  [![Good Neighbours Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Good Neighbours](https://www.songkick.com/artists/10334318-good-neighbours)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
