@@ -156,17 +156,17 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
-[Pinelands Regional HS
+[Berlin HS
 
-Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
+Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
 [Simmons MS
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
 
-[Berlin HS
+[Pinelands Regional HS
 
-Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
+Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
 
 ![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -246,7 +246,7 @@ Events
 
 Conferences](https://www.smartpass.app/conferences)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
 
-Webinars](https://www.smartpass.app/new-at-smartpass-2023)
+Webinars](https://get.smartpass.app/smartpass-shipped-july-2024)
 
 The Latest
 
@@ -306,7 +306,7 @@ Events
 
 Conferences](https://www.smartpass.app/conferences)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494654951e79565be98005d_Video%20Conference.svg)
 
-Webinars](https://www.smartpass.app/new-at-smartpass-2023)
+Webinars](https://get.smartpass.app/smartpass-shipped-july-2024)
 
 The Latest
 
@@ -366,7 +366,9 @@ Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64
 
 Call Us](#)
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
+
+Product Updates](https://www.smartpass.app/product-updates)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
 
 Suggest a Feature](http://wishlist.smartpass.app/)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/651329c45493ddee1eea8320_Frame%20584.svg)
 
@@ -400,9 +402,13 @@ Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64
 
 Call Us](#)
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
+[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
 
-Suggest a Feature](http://wishlist.smartpass.app/)
+Product Updates](https://www.smartpass.app/product-updates)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
+
+Suggest a Feature](http://wishlist.smartpass.app/)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/651329c45493ddee1eea8320_Frame%20584.svg)
+
+For Parents & Families](https://www.smartpass.app/parents)
 
 [![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde4bea1b9f57fe77aa_Ok.svg)
 
@@ -625,7 +631,7 @@ Support
 
 [Live Chat](#)![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64966aeed452680d2968a8f7_footer%20live%20chat%20img.png)
 
-[Call Us](#)[Download iOS App](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[Download Android App](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)[Suggest a Feature](http://wishlist.smartpass.app/)[For Parents & Families](https://www.smartpass.app/parents)
+[Call Us](#)[Download iOS App](https://apps.apple.com/us/app/smartpass-mobile/id1387337686)[Download Android App](https://play.google.com/store/apps/details?id=app.smartpass.smartpass_mobile)[Product Updates](https://www.smartpass.app/product-updates)[Suggest a Feature](http://wishlist.smartpass.app/)[For Parents & Families](https://www.smartpass.app/parents)
 
 [Uptime](http://smartpass.instatus.com/)
 
