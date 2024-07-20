@@ -153,13 +153,11 @@ Toggle Nav
     
     * [All Personalised T-Shirts](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-t-shirts.html)
         * [Photo & Text T-Shirts](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-t-shirts/personalisedphoto.html)
-        * [Funny & Meme T-Shirts](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-t-shirts/imightlooklikeimlistening2-awesome.html)
         * [Unisex Photo T-Shirt](https://www.printster.co.uk/design-your-own-photo-t-shirt.html)
         * [Unisex Text T-Shirt](https://www.printster.co.uk/custom-text-t-shirt.html)
         * [Women's Fit Photo T-shirt](https://www.printster.co.uk/women-s-fit-personalised-photo-t-shirt.html)
     * [All Hoodies](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-hoodies.html)
         * [Photo & Text Hoodies](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-hoodies/personalisedphoto.html)
-        * [Funny & Meme Hoodies](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-hoodies/imightlooklikeimlistening2-awesome.html)
         * [Unisex Photo Hoodie](https://www.printster.co.uk/design-your-own-photo-hoodie.html)
         * [Unisex Text Hoodie](https://www.printster.co.uk/custom-text-hoodie.html)
     * [Stag Do T-Shirts](https://www.printster.co.uk/personalised-t-shirts-and-hoodies/personalised-t-shirts/stag-do-t-shirts.html)
