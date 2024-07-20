@@ -73,8 +73,8 @@ Top Level Navigation
         * [Education](https://www.unc.edu/school/school-of-education/)
         * [Eshelman School of Pharmacy](https://www.unc.edu/school/eshelman-school-of-pharmacy/)
         * [Gillings School of Global Public Health](https://www.unc.edu/school/gillings-school-of-global-public-health/)
-        * [Government](https://www.unc.edu/school/government/)
-        * [Graduate School](https://www.unc.edu/school/graduate-school/)
+        * [School of Government](https://www.unc.edu/school/government/)
+        * [The Graduate School](https://www.unc.edu/school/graduate-school/)
         * [Hussman School of Journalism and Media](https://www.unc.edu/school/hussman-school/)
         * [Information & Library Science](https://www.unc.edu/school/information-library-science/)
         * [Law](https://www.unc.edu/school/law/)
@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/06/Lineberger-hero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/StudentConductHERO-250x141.jpg)
     
-    Robert L. Ferris named Lineberger executive director](https://www.unc.edu/posts/2024/06/19/ferris-named-lineberger-director/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/06/Chapel-Hill-mural-hero-250x141.jpg)
+    A message from University leadership: Adapting the Student Conduct process](https://www.unc.edu/posts/2024/07/17/a-message-from-university-leadership-adapting-the-student-conduct-process/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/AngelHsu-250x141.jpg)
     
-    Extras needed for film production in Chapel Hill](https://www.unc.edu/posts/2024/06/17/extras-needed-for-film-production-in-chapel-hill/)
+    Angel Hsu holds net-zero pledgers accountable](https://www.unc.edu/posts/2024/07/17/angel-hsu-holds-net-zero-pledgers-accountable/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ebb8be39d9&text=%prefix%%text%%suffix%&post_id=238867&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=90bdc7ba66&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
