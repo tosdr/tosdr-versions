@@ -150,7 +150,7 @@ WEBSITE PRIVACY POLICY WEBSITE PRIVACY POLICY WEBSITE PRIVACY POLICY WEBSITE PRI
 
 WEBSITE PRIVACY POLICY
 
-Effective Date: December 5, 2023
+Effective Date: June, 2024
 
 This Privacy Policy is published by Simplifi Holdings, LLC (“Simplifi,” “we” or “us”) and describes how we collect, receive, use, retain, process, disclose, transfer, and secure Personal Information on our website located at [http://simpli.fi](http://simpli.fi/), our online client portal located at [App.simpli.fi](http://app.simpli.fi/), and other websites or apps for our clients that link to this Privacy Policy (collectively, the “Site”). It also describes your choices regarding use, access, deletion, and correction of your Personal Information. The Site is intended for our business clients. Our prospective or current clients, including advertisers or publishers, are referred to in this Policy as “Advertising Customers.” All references to “you,” “your” or “user” apply to Advertising Customers and any other person viewing, using or accessing the Site and its features and services. For information about our data practices when we carry out our advertising services, please review our [Privacy Policy for our Services](https://simpli.fi/services-privacy-policy).
 
@@ -240,7 +240,63 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted, as described more fully on the Data Privacy Framework website here: [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf)
 
-#### 11\. RIGHTS FOR CALIFORNIA RESIDENTS
+#### 11\. STATE PRIVACY RIGHTS
+
+Some U.S. residents have certain rights under various state laws with respect to Personal Information processed by Simplifi. This section contains disclosures required by those laws and explains the rights that may be available to you.
+
+**Personal Information We Collect and Disclose for a Business Purpose**  
+In the past 12 months, we have collected, and disclosed to third parties, the following categories of Personal Information about users, for our business or commercial purposes:
+
+* Personal and online identifiers (such as email address, postal address, or unique online identifiers)
+* Internet or other electronic network activity information (such as browsing history, search history, interactions with a website, email, application, or advertisement)
+* Geolocation information (including precise location derived from your device)
+* Inferences reflecting potential interests or characteristics, including race/ethnicity, health and wellness interests, and political interests.
+
+**Categories of Sources**  
+We collect this Personal Information from the following categories of sources:
+
+* Our Advertising Customers;
+* Our service providers;
+* Affiliates not under the Simplifi brand; and
+* Third party data providers.
+
+**Categories of Recipients**  
+We may disclose all of the categories of Personal Information listed above to our service providers, to affiliates not under the Simplifi brand, and to other entities for purposes like legal compliance, as described in the “Information Sharing and Disclosure” section of this Privacy Policy above.
+
+We share all of the categories of Personal Information listed above to our business customers for interest-based advertising (also called targeted or cross-context behavioral advertising). This may be considered a sale in some states. We do not otherwise sell Personal Information about users for our Advertising Services.
+
+**Why We Collect, Use, and Share Personal Information**  
+We use and disclose the personal information we collect for our commercial and business purposes, as further described above in the “How We Collect and Use Information” and “Information Sharing and Disclosure” sections of this Privacy Policy.
+
+**Your Rights Regarding Personal Information**  
+Some U.S. residents have certain rights under various state laws with respect to the Personal Information collected by businesses. If you are a resident of one of these states, you may exercise the following rights regarding Personal Information, subject to certain exceptions and limitations:
+
+* The **right to confirm** whether Simplifi is processing Personal Information about you.
+* The **right to correct inaccuracies** in the Personal Information we have collected about you.
+* The **right to know** the categories of Personal Information we collect, use, disclose, and sell about you, the categories of sources from which we collected Personal Information, our purposes for collecting or selling Personal Information, the categories of Personal Information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared Personal Information.
+* The **right to access** the specific pieces of Personal Information we have collected about you.
+* The **right to request** that we delete the Personal Information we have collected about you.
+* The **right to opt out** of the processing (including sharing) of Personal Information for interest-based (also called targeted or cross-context behavioral) advertising. Please note that if you opt out of certain practices, we may be unable to provide you with some services.
+* Depending on your state, the **right to limit Simplifi’s processing of certain “sensitive” Personal Information** about you (or to withdraw consent for such processing if you previously gave it).
+* The **right not to receive discriminatory treatment** for the exercise of the above privacy rights.
+
+To exercise any of the above rights, please contact us using the following information and submit the required verifying information, as further described below:
+
+* By email at privacy@simpli.fi
+* By phone at 800.840.0768
+
+For residents of certain states, if you have submitted a request that you believe we have not fulfilled, you may contact us to appeal our decision by sending an email with the subject line “Appeal” to [privacy@simpli.fi](mailto:privacy@simpli.fi).
+
+**Verification Process and Required Information**  
+Note that we may need to request additional information from you to verify your identity or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled.
+
+**Authorized Agent**  
+For residents of certain states, you may designate an authorized agent to make a request on your behalf by verifying your identity and providing the agent with written permission to make a request on your behalf. An authorized agent may submit a request through the methods provided above.
+
+**Minors’ Right to Opt In**  
+We do not knowingly sell, or share for interest-based advertising, Personal Information about minors under 16 years of age.
+
+#### 12\. RIGHTS FOR CALIFORNIA RESIDENTS
 
 California Advertising Customers have certain rights under state law with respect to Personal Information processed by Simplifi. This section contains disclosures required by the California Privacy Rights Act (“CPRA”), applies solely to Personal Information subject to the CPRA including offline data, and explains rights that may be available to you.
 
@@ -295,7 +351,7 @@ If you are a California resident, you may designate an authorized agent to make 
 **Minors’ Right to Opt In**  
 Only adults are permitted to be Advertising Customers. We do not knowingly sell, or share for interest-based advertising, Personal Information about minors under 16 years of age.
 
-#### 12\. THIRD-PARTY LINKS AND TOOLS
+#### 13\. THIRD-PARTY LINKS AND TOOLS
 
 _Social Media Features_  
 Our Site includes social media plug-ins which are interactive mini-programs that run on our Site. These features may allow the third parties that offer the features to collect information such as your IP address, which page you are visiting on our Site, and other data. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy statement of the company providing it. Our Site is not sponsored or endorsed by LinkedIn, Facebook, Twitter, Google+ or YouTube or other third party websites, which are trademarked and owned by third parties and not by us.
@@ -306,15 +362,15 @@ The Site may contain links to other sites that are not owned or controlled by Si
 _Analytics_  
 The Site uses third-party analytics services including Google Analytics. For more information about Google analytic cookies, please see Google’s help pages and privacy policy: Google Privacy Policy: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy/),Google Analytics Help: [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
-#### 13\. DATA RETENTION
+#### 14\. DATA RETENTION
 
 We will retain the information you provide to the Site for as long as your account is active, as needed to provide you services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-#### 14\. SECURITY
+#### 15\. SECURITY
 
 Simplifi uses commercially reasonable physical, managerial, and technical safeguards designed to preserve the integrity and security of your personal information and to protect it against loss or unauthorized use or disclosure.
 
-#### 15\. CONTACT US
+#### 16\. CONTACT US
 
 If you have inquiries or complaints regarding this Privacy Policy please contact Simplifi at:  
 [privacy@simpli.fi](mailto:privacy@simpli.fi)
