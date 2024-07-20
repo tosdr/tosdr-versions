@@ -558,7 +558,7 @@ Some operating system developers, such as Apple, allow mobile application users 
 
 A request to delete an account within the mobile application only applies to the credentials and account you created within the Application and not to any other accounts you may have with State Farm.
 
-If you participate in Drive Safe & Save™ or Steer Clear®, State Farm collects precise location information from you in order to accurately record trip information. For additional information on how State Farm collects, uses and shares your precise location information, please refer to the End User License Agreement (EULA) available in the Drive Safe & Save and Steer Clear mobile applications. All information, including precise location information, is handled in accordance with this Notice of Privacy Policy.
+If you participate in Drive Safe & Save® or Steer Clear®, State Farm collects precise location information from you in order to accurately record trip information. For additional information on how State Farm collects, uses and shares your precise location information, please refer to the End User License Agreement (EULA) available in the Drive Safe & Save and Steer Clear mobile applications. All information, including precise location information, is handled in accordance with this Notice of Privacy Policy.
 
 Other Important Information
 ---------------------------
