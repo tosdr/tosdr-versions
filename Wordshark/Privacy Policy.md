@@ -115,3 +115,5 @@ Copyright Wordshark 2023  [Terms & Conditions](https://www.wordshark.co.uk/ter
 * [About](#)
 * [Need help?](https://www.wordshark.co.uk/about-us/help/)
 * [Privacy Policy, all products, for Schools/Tutors](https://www.wordshark.co.uk/privacy-statement/)
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)[Privacy policy](https://wolhelp.wordshark.co.uk/portal/en/kb/articles/privacy-policy)
