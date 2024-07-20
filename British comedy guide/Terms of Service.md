@@ -1,11 +1,9 @@
 [![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
-==================================================================================================================
 
 * Search
 * ☰
 
 [![British Comedy Guide](https://cdn.comedy.co.uk/images/logo/BCG_horizontal_logo.png)](https://www.comedy.co.uk/)
-==================================================================================================================
 
 * [Home](https://www.comedy.co.uk/)
 * [TV](https://www.comedy.co.uk/tv/)
@@ -180,6 +178,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Sharon Wanjohi](https://cdn.comedy.co.uk/images/library/people/300x200/s/sharon_wanjohi.jpg "Sharon Wanjohi")](https://www.comedy.co.uk/live/fgwg/sharon-wanjohi/) Live
+
+[First Gig, Worst Gig: Sharon Wanjohi](https://www.comedy.co.uk/live/fgwg/sharon-wanjohi/)
+
 [![Ed Gamble](https://cdn.comedy.co.uk/images/library/people/300x200/e/ed_gamble_hot_dog.jpg "Ed Gamble")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-47/) Live
 
 [Ed Gamble, Glastonbury + Kaleidoscope festivals, Jazz Emu - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-47/)
@@ -191,10 +193,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Kaleidoscope 2024. Credit: Si Hawkins](https://cdn.comedy.co.uk/images/library/misc/300x200/k/kaleidoscope_2024.jpg "Kaleidoscope 2024. Credit: Si Hawkins")](https://www.comedy.co.uk/live/features/kaleidoscope-2024-report/) Live
 
 [Kaleidoscope 2024: Brian Blessed, Simon Amstell and more - up a hill](https://www.comedy.co.uk/live/features/kaleidoscope-2024-report/)
-
-[![Dabbers Bingo Comedy Caller competition 2024. Dru Cripps. Credit: Justyna Radon](https://cdn.comedy.co.uk/images/library/people/300x200/d/dru_cripps_dabbers.jpg "Dabbers Bingo Comedy Caller competition 2024. Dru Cripps. Credit: Justyna Radon")](https://www.comedy.co.uk/live/features/dru-cripps-interview/) Live
-
-[Dru Cripps talks about winning Dabbers Bingo Comedy Caller Contest](https://www.comedy.co.uk/live/features/dru-cripps-interview/)
 
 #### Subscribe to our newsletters
 
