@@ -1,46 +1,44 @@
-* [Learn how to monetize your high-quality content with affiliate marketing. Download eBook →](https://www.sovrn.com/blog/ebook-affiliate-marketing-guide/)
+[Back](#back)
 
-* [Home](https://www.sovrn.com/)
-* [**Advertising**Turn your quality content into revenue.](#nav-advertising-menu)
-    * [**Ad Exchange**Turn high-quality content into high-quality returns.](https://www.sovrn.com/exchange/)
-    * [**Ad Management**Partner with us to maximize your ad revenue without the headache.](https://www.sovrn.com/ad-management/)
-    * [—](#)
-    * [**Buy on the Sovrn Ad Exchange**Connect to premium content creators with highly engaged audiences.](https://www.sovrn.com/buyers/)
-* [**Commerce**Monetize product links in your content.](#nav-commerce-menu)
-    * [**Affiliate Marketing**Monetize product links in your content.](https://www.sovrn.com/commerce/)
-    * [—](#)
-    * [**Become a Sovrn Merchant**Increase your reach with content publishers.](https://www.sovrn.com/merchants/)
-* [**Data**Maximize the value of every visitor.](#nav-data)
-    * [**Signal**Maximize the value of every visitor.](https://www.sovrn.com/signal-inventory/)
-    * [**Market Insights**Compare your monetization strategy to the market.](https://www.sovrn.com/market-data/)
-    * [**Data Monetization**Powerful, secure data revenue.](https://www.sovrn.com/data-monetization/)
-* [**Learn**Tips and information to help you thrive.](#nav-learn)
-    * [**Resources**](https://www.sovrn.com/resources/)
-    * [**Blog**](https://www.sovrn.com/blog/)
-    * [**Knowledge Base**](https://knowledge.sovrn.com/)
-    * [**Press**](https://www.sovrn.com/press/)
-* [**Company**What we stand for.](#nav-company)
-    * [**About**](https://www.sovrn.com/company/)
-    * [**Sovrn Platform**](https://www.sovrn.com/publishers/)
-    * [**Careers**](https://www.sovrn.com/careers/)
-    * [**Contact**](https://knowledge.sovrn.com/contact-us)
-    * [**Status**](https://status.sovrn.com/)
-    * [**Trust Center**](https://www.sovrn.com/trust-center/)
-* [**Legal**Privacy, legal and compliance.](#nav-legal)
-    * [**Legal**](https://www.sovrn.com/legal/master-services-agreement/)
-    * [**Privacy Policy**](https://www.sovrn.com/privacy-policy/privacy-policy/)
-    * [**Security**](https://www.sovrn.com/company/security/)
-    * [**Your Privacy Choices**](https://privacy.sovrn.com/opt-out)
-    * [**Ad Choices**](https://www.aboutads.info/)
+* [![](/wp-content/themes/wptheme-vellum2024/img/sovrn-logo.svg)](https://www.sovrn.com/)
+* [**Products**](#nav-products)
+    * [**Advertising**](#nav-advertising-menu)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9299.png)**Ad Exchange**Omnichannel demand pipeline](https://www.sovrn.com/exchange/)
+        * [![](https://www.sovrn.com/wp-content/uploads/ad-mgmt-nav-logo1a.png)**Ad Management**Ad Ops Software](https://www.sovrn.com/ad-management/)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9298.png)**Signal**Data decisioning engine](https://www.sovrn.com/signal-inventory/)
+    * [**Commerce**](#nav-commerce-menu)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9297.png)**Commerce Unified**Affiliate workflow software](https://www.sovrn.com/commerce-unified/)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9391-2.png)**Commerce Affiliate**Affiliate marketing tools](https://www.sovrn.com/commerce-affiliate/)
+    * [**Data**](#nav-data-menu)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9392nav-data-.png)**Data Monetization**Powerful, secure data revenue](https://www.sovrn.com/data-monetization/)
+        * [![](https://www.sovrn.com/wp-content/uploads/Group-9392nav-data-Data-Solutions.png)**Data Solutions**Engagement-driven data](https://www.sovrn.com/data-solutions/)
+* [**Resources**](#nav-resources)
+    * [**Learn**](#nav-learn)
+        * [**Resources**](https://www.sovrn.com/resources/)
+        * [**Blog**](https://www.sovrn.com/blog/)
+        * [**Market Insights**](https://www.sovrn.com/market-data/)
+    * [**Company**](#nav-company)
+        * [**About**](https://www.sovrn.com/about-sovrn/)
+        * [**Careers**](https://www.sovrn.com/careers/)
+        * [**Press**](https://www.sovrn.com/press/)
+    * [**Support**](#nav-support)
+        * [**Contact**](https://knowledge.sovrn.com/s/contactsupport)
+        * [**Knowledge Base**](https://knowledge.sovrn.com/)
+        * [**Status**](https://status.sovrn.com/)
+    * [**Legal**](#nav-legal)
+        * [**Legal**](https://www.sovrn.com/legal/master-services-agreement/)
+        * [**Trust Center**](https://www.sovrn.com/trust-center/)
+        * [**Privacy Policy**](https://www.sovrn.com/privacy-policy/privacy-policy/)
+        * [**Security**](https://www.sovrn.com/about-sovrn/security/)
+        * [**Your Privacy Choices**](https://privacy.sovrn.com/opt-out)
+        * [**Ad Choices**](https://www.aboutads.info/)
 * [**Sign In**](#nav-sign-in)
-    * [**Ad Exchange**Programmatic advertising](https://platform.sovrn.com/account/signin?path=advertising/getting-started "Programmatic advertising")
-    * [**Ad Management**Next-level ad ops software](https://proper.io/signin)
-    * [**Commerce**Monetize product links](https://platform.sovrn.com/account/signin?path=commerce/getting-started)
-    * [**Comparisons**Shopping galleries and widgets](https://publishers.monetizer101.com/)
+    * [![](https://www.sovrn.com/wp-content/uploads/Group-9299-2.png)**Sovrn Platform**Ad Exchange and Commerce](https://platform.sovrn.com/account/signin "Programmatic advertising")
+    * [![](https://www.sovrn.com/wp-content/uploads/ad-mgmt-nav-logo1a.png)**Ad Management**Next-level ad ops software](https://proper.io/signin)
 * [**Sign Up**](http://platform.sovrn.com/account/signup)
 
 Trust Center
-------------
+============
 
 * [Overview](https://www.sovrn.com/trust-center/)
 * [Legal](#legal)
@@ -96,10 +94,10 @@ Sovrn Legal
     * [Take Down Policy](https://www.sovrn.com/service-policies/take-down-policy/)
     * [Commerce Publisher Code of Conduct](https://www.sovrn.com/service-policies/commerce-publisher-code-of-conduct/)
 
-[![Privacy Policy](https://www.sovrn.com/wp-content/themes/wptheme-vellum/img/legal-subscribe-button.png)](https://info.sovrn.com/trust-center-updates?doc=privacy-policy) [![Privacy Policy](https://www.sovrn.com/wp-content/themes/wptheme-vellum/img/legal-print-button.png)](#print)
+[![Privacy Policy](https://www.sovrn.com/wp-content/themes/wptheme-vellum2024/img/legal-subscribe-button.png)](https://info.sovrn.com/trust-center-updates?doc=privacy-policy) [![Privacy Policy](https://www.sovrn.com/wp-content/themes/wptheme-vellum2024/img/legal-print-button.png)](#print)
 
 Privacy Policy
-==============
+--------------
 
 Last Updated November 18, 2022
 
@@ -140,8 +138,7 @@ Please note that the Services may contain links to websites or content operated 
 
 In addition to the Services, Sovrn collects Personal Information through interactions with the Site. By visiting or submitting Personal Information through the Site, you acknowledge the processing of your Personal Information in accordance with this Privacy Policy.[](#our-commitment)
 
-**Our Commitment to Good Advertising Practices**
-------------------------------------------------
+### **Our Commitment to Good Advertising Practices**
 
 **Sovrn supports industry self-regulatory principles and endorses industry recognized practices and self-regulatory standards.** 
 
@@ -151,8 +148,7 @@ Sovrn also adheres to the [Interactive Advertising Bureau](https://www.iab.com/
 
 For more information about industry self-regulation of Interest-Based Advertising, please visit: [www.networkadvertising.org](http://www.networkadvertising.org/) and [www.aboutads.info](http://www.aboutads.info/).
 
-**Information We Collect**
---------------------------
+### **Information We Collect**
 
 **The information we collect allows us to see browsing habits at an individual device level, but we do not attempt to identify the exact individual who is browsing. Here we outline the types of information used in Interest-Based Advertising, as well as what to expect when visiting our Site.**
 
@@ -172,18 +168,17 @@ The following provides more detail into the types of Personal Information we may
 | **Unique online identifier** | An identifier created by our Publishers to understand an individual’s browsing behavior on their own site, as well as across different websites. These identifiers are shared with Sovrn to help us understand the preferences of individuals so that we can provide our targeted advertising services. | All Services and Site |
 | **Voice Recordings** | When our customers interact with Sovrn through virtual meetings or by telephone, we may record the call to assist with taking notes and for internal training purposes | Sovrn Sales and Support Teams |
 
-**How We Collect Information**
-------------------------------
+### **How We Collect Information**
 
 **Sovrn uses various technologies to collect both Personal- and Non-Personal Information, such as cookies, web beacons, tracking pixels, or scripts. We also collect information voluntarily provided through our Site. The term ‘cookies’ is used as an umbrella term for these technologies; for convenience, these technologies are collectively referred to in this Privacy Policy as “cookies.”**
 
 Both session cookies (which expire once the web browser is closed) and persistent cookies (which stay on a device until deleted or expire) are used to collect viewing and search behaviors by both Sovrn Services and the Site. For more information about how cookies are used or what information we collect, please see our [Cookie Notice](https://www.sovrn.com/about-our-cookies/).
 
-### **Through our Site**
+#### **Through our Site**
 
 We collect Personal Information submitted to us voluntarily, such as name and contact information. For example, when signing up to receive our newsletter or to participate in a webinar we collect your email address. When contacting us via email, we will collect the email contents.
 
-### **Through Sovrn Services**
+#### **Through Sovrn Services**
 
 The information we gather about browsing preferences and purchasing behaviors using cookies helps us provide Sovrn Services to our Publishers, which in turn provides meaningful Interest-based Advertising to Readers.
 
@@ -201,7 +196,7 @@ The information we gather about browsing preferences and purchasing behaviors us
     Publishers may choose not to provide us with certain Personal Information, but this may limit the features of the Sovrn Services available for use.
     
 
-### **Through Internet-Connected Technology**
+#### **Through Internet-Connected Technology**
 
 As Publishers use the Sovrn Services or Readers access or use digital properties within the Sovrn Publisher network (including websites or applications on internet-connected technology, such as computers, mobile devices, or internet-connected televisions), we may also collect web viewing and search activities across non-affiliated websites (including websites accessed through your television), directly through content viewed on an internet-connected television, and mobile applications (**“apps”**) over time (also known as cross-device tracking). This information may be linked to Personal Information that identifies a browser or device, typically through cookies or tracking pixels/web beacons.
 
@@ -217,18 +212,17 @@ We may also use web beacons or “pixels” to collect Personal Information, whi
 
 In addition, we may use session replay technologies for certain automatic data collection from Publishers on the Sovrn Platform. Session replay technology is third-party software used to record a replay of users’ interactions on the Sovrn Platform (such as to troubleshoot how a Publisher interacts with our dashboard). The replay may include users’ clicks, mouse movements, scrolls, mobile app touches, typing, and other activity taken during the session. We use these replays for research and development purposes, such as to help us troubleshoot problems with the Sovrn Services, understand how Publishers interact with and use the Sovrn Services, and identify areas for improvement.
 
-### **Information from Third-Party Sources**
+#### **Information from Third-Party Sources**
 
 We may receive Personal- and Non-Personal Information about you from other sources and combine it with the information that we collect through Sovrn Services or the Site. Sources may include information conveyed to us by telephone, information that we receive from third-party data providers, or information provided to us by third parties through the Sovrn Publisher network.
 
 When Publishers contact Sovrn by telephone or virtual meeting, we use a third-party service to record the call (with your consent) to assist in documentation and for training purposes.  For clarity, we will only record those actively in the call; if there are others in the vicinity, it is our expectation that they are not recorded unintentionally, unless this Privacy Policy has been provided and their approval to the recording has been obtained.
 
-**How We Use Information**
---------------------------
+### **How We Use Information**
 
 **We use Personal- and Non-Personal Information to support our commercial interests (Interest-based Advertising, affiliate network marketing, and Data), internal business operations (such as improving the Services, fraud prevention and security), and business intelligence.**
 
-### **Commercial Interests**
+#### **Commercial Interests**
 
 Commercial interests are activities that allow Sovrn and/or our customers and business partners (such partners include data services and data resellers) to earn revenue and include, for example:
 
@@ -240,7 +234,7 @@ Commercial interests are activities that allow Sovrn and/or our customers and bu
 
 \* We do not use Personal Information to derive audience segments that could be defined as ‘sensitive’ or ‘special categories’ under various data privacy laws and regulations.  Please visit Sovrn’s [Audience Segments](https://www.sovrn.com/nai-audience-segments/) page for more information.
 
-### **Internal Business Operations**
+#### **Internal Business Operations**
 
 Internal business operations are activities that allow us to meet obligations to Publishers, Readers, and third-party partners (including regulatory bodies). Internal business operations do not directly benefit any one person or entity, and include, for example:
 
@@ -253,7 +247,7 @@ Internal business operations are activities that allow us to meet obligations to
 * Compliance with applicable laws and to protect Sovrn’s legitimate business interests and legal rights, including, but not limited to, use in connection with legal claims, compliance, regulatory, investigative purposes (including disclosure of such information in connection with law enforcement requests, legal process or litigation), protecting our and others’ rights, privacy, safety, or property, and enforcing our agreements.
 * Responding to comments or complaints or sending service-related communications.
 
-### **Business Intelligence**
+#### **Business Intelligence**
 
 Business intelligence allows us to analyze and report on the performance of Sovrn Services and the Site, as that performance relates to Publisher or Sovrn campaigns, and includes:
 
@@ -261,7 +255,7 @@ Business intelligence allows us to analyze and report on the performance of Sovr
 * Undertaking internal research for technological development and demonstration.
 * Performing Analytical Analysis. We work with third parties that collect data about Reader use of the Site and other websites or online services over time for non-advertising purposes. For example, we use Google Analytics and other third-party services to improve the performance of Sovrn Services and for analytics and marketing purposes. For more information about how Google Analytics collects and uses data,  visit [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites). Opt-out of Google Analytics by visiting [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
 
-### **A Note on Non-Personal Information**
+#### **A Note on Non-Personal Information**
 
 We may collect Non-Personal Information through Sovrn Services or we may create Non-Personal Information from Personal Information by removing identifying information (such as email address or device identifiers).
 
@@ -271,7 +265,7 @@ We may also use Non-Personal Information on Readers’ activities collected from
 
 We may use and disclose Non-Personal Information for any purpose in our discretion, to the extent permitted under applicable law. If we are required to treat Non-Personal Information as Personal Information under applicable law, then we may use or disclose it for all the purposes for which we use and disclose Personal Information.
 
-### **Our Information Sharing Practices**
+#### **Our Information Sharing Practices**
 
 Sovrn shares the Personal Information collected through our Services, procured through our data partners, or our Site with the following third parties and as otherwise described in this Privacy Policy:
 
@@ -284,12 +278,11 @@ Sovrn shares the Personal Information collected through our Services, procured t
 * **Advertising Partners:** We may share your Personal Information with third parties that we partner with to engage in Interest-Based Advertising, including through the use of cookies and similar technologies. These third party advertising companies may collect information about your activity over time through the Services and across other online services to serve you advertisements. For a list of our Advertising Partners, please visit [https://www.sovrn.com/privacy-policy/third-parties/](https://www.sovrn.com/privacy-policy/third-parties/).
 * **Professional Advisors**: We may share Personal Information with persons, companies, or professional firms providing Sovrn with advice and consulting in accounting, administrative, legal, tax, financial, debt collection, and other matters.[](#how-to-opt-out)
 
-**How To Opt Out**
-------------------
+### **How To Opt Out**
 
 ******Sovrn supports various opt-out mechanisms, where each option provides different results related to cross-device tracking and targeted advertising. While using these mechanisms may prevent Interest-based Advertising or the sale of your Personal Information, there are no mechanisms for preventing advertising altogether.******
 
-### **Opting Out of Sovrn’s Interest-based Advertising**
+#### **Opting Out of Sovrn’s Interest-based Advertising**
 
 Just as there are different mechanisms for providing Interest-based Advertising (such as through a web browser, apps on your mobile device and connected televisions), there are multiple ways you can limit the use of your personal information for targeted advertising purposes and the sale or sharing of your personal information.
 
@@ -311,7 +304,7 @@ Opting out of Interest-based Advertising prevents the collection of Personal Inf
 
 Opting out also will not stop advertising from appearing in a browser. After opting-out, Readers may receive advertising from Sovrn Services when visiting websites of a Publisher who uses our Services, but that advertising will not be interest-based. After opting out of Sovrn’s Interest-based Advertising, Readers may also continue to receive Interest-based Advertising through other companies.
 
-### **Opting Out of Sovrn’s Affiliate Network Marketing**
+#### **Opting Out of Sovrn’s Affiliate Network Marketing**
 
 Readers who wish to opt-out of Sovrn Commerce collection, use, or transfer of Personal Information from the websites you visit, the links you click, or the merchants you make purchases from, visit our [Privacy Center](https://www.sovrn.com/legal/privacy-center/) and choose ‘Disable Tracking.’
 
@@ -319,7 +312,7 @@ Opting out of Sovrn Commerce cookies means that Sovrn Commerce will stop placing
 
 To honor your opt-out choice, we need to place a cookie on your device so that we know not to track your activity. Clearing your browser’s cache or cookies will remove this cookie, and you will be required to opt-out of tracking again. Similarly, if you access sites that use Sovrn Commerce from a different browser or device than the browser or device on which you opted-out of tracking, you will be required to opt-out again.
 
-### **Opting Out of Sovrn Marketing**
+#### **Opting Out of Sovrn Marketing**
 
 Unsubscribe instructions will accompany each promotional email we send. Alternatively, contact us directly to change promotional email preferences at marketing@sovrn\[.\]com.
 
@@ -327,14 +320,13 @@ Regardless of your promotional communication preferences, we will send Publisher
 
 For any questions regarding a Sovrn Publisher account, please contact support@sovrn\[.\]com.
 
-### **Advertising Choices on the Site**
+#### **Advertising Choices on the Site**
 
 Some of the Advertising Partners that collect data on the Site to help us advertise the Sovrn Services and our business may also participate in the DAA and/or may be members of the Network Advertising Initiative (NAI). You can obtain more information about these companies’ information collection practices, and opt-out of receiving interest-based advertising from participating NAI and DAA members, at the [NAI’s website](http://www.networkadvertising.org/managing/opt_out.asp) or the [DAA’s website](https://optout.aboutads.info/?c=2&lang=EN). You can also limit collection of your information for Interest-Based Advertising by blocking third party cookies in your browser settings or using privacy plug-ins or ad blocking software that help you block third party cookies.
 
 Many of the opt-out preferences described in this section must be set on each device and/or browser for which you want them to apply. Please note that some of the Advertising Partners we work with may not participate in the opt-out mechanisms described above, so even after opting-out, you may still receive Interest-Based Advertising from other companies. If you opt-out of Interest-Based Advertising, you will still see advertisements online but they may be less relevant to you.[](#childrens)
 
-**Children’s Privacy**
-----------------------
+### **Children’s Privacy**
 
 Sovrn does not knowingly collect Personal Information from or direct Sovrn Services to children under the age of 16.
 
@@ -342,22 +334,19 @@ If you are not 16 years old, please do not use the Site. Do not submit your name
 
 As operators of their own websites and content, our Publishers are solely responsible for compliance with law related to the collection and use of information from children under the age of 16. If, during routine review, Sovrn believes children under the age of 16 have submitted their personal information into our web forms or our customer’s websites, we will, in our sole discretion, delete the information believed to belong to those under 16 years old.
 
-**Retention of Personal Information**
--------------------------------------
+### **Retention of Personal Information**
 
 We will retain Personal Information for as long as necessary to fulfill the purpose of collection, including for the purposes of satisfying any legal, accounting, or reporting requirements, to establish and defend legal claims, for fraud prevention purposes, or as long as required to meet our legal obligations. To determine the appropriate retention period for Personal Information, we consider the amount, nature, and sensitivity of the Personal Information, the potential risk of harm from unauthorized use or disclosure of your Personal Information, the purposes for which we process your Personal Information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-**Security**
-------------
+### **Security**
 
 Sovrn has put in place commercially reasonable physical, electronic, and managerial procedures to safeguard and secure the Personal Information we collect; however, no method of transmission over the Internet, or method of electronic storage, is 100% secure. As a result, we cannot guarantee the absolute security of your Personal Information. For more information, please visit [Sovrn’s Security](https://www.sovrn.com/company/security/) page.
 
-**Country and US State Specific Disclosures**
----------------------------------------------
+### **Country and US State Specific Disclosures**
 
 **Various data privacy laws require specific disclosures regarding the collection and use of your Personal Information. These disclosures are meant to supplement, and are consistent with, the practices described in this Privacy Policy.**
 
-### **Notice to Residents of the EEA, Switzerland and UK: Data Subject Rights**
+#### **Notice to Residents of the EEA, Switzerland and UK: Data Subject Rights**
 
 **This section applies only to individuals located in the European Economic Area (“EEA”), Switzerland or the United Kingdom (“Applicable Countries”) and supplements the practices described in this Privacy Policy. It describes certain rights and protections under applicable law regarding the processing of Personal Information. For purposes of this section, “Personal Information” has the meaning given to “personal data” governed by the Applicable Countries’ data protection legislation.**
 
@@ -399,7 +388,7 @@ Individuals located in one of the Applicable Countries who have questions or con
 
 IT Governance Europe Limited acts as our EU representative. If you wish to exercise your rights under the EU General Data Protection Regulation (EU GDPR) or have any queries in relation to your rights or general privacy matters, please email [eurep@itgovernance.eu](mailto:eurep@itgovernance.eu). Please ensure to include our company name (“Sovrn”) in any correspondence.
 
-### **Notice to California Residents: Your Privacy Choices**
+#### **Notice to California Residents: Your Privacy Choices**
 
 ****This section applies only to California residents and supplements the practices described in this Privacy Policy.  It describes how we collect, use, sell, share, and retain Personal Information of California residents, and their rights with respect to that Personal Information. For purposes of this section, “Personal Information” has the meaning given in the California privacy laws but does not include information exempted from the scope of those laws.****
 
@@ -519,13 +508,11 @@ You may request to exercise your Virginia privacy rights described above by:
 
 If we decline to take action on your request, you may appeal such refusal by sending us an email to privacy@sovrn\[.\]com within a reasonable time period after our decision has been sent to you.
 
-**Changes in this Privacy Policy**
-----------------------------------
+### **Changes in this Privacy Policy**
 
 We may modify or amend this Privacy Policy from time to time at our discretion. When we make material changes to this Privacy Policy, we will amend the revision date at the top of this page and such modified or amended Privacy Policy shall be effective as to the Personal Information governed by this Privacy Policy as of that revision date. We encourage periodic review of this Privacy Policy to view any updates, as well as the revision log found at the end of this page.[](https://www.sovrn.com/legal/privacy-policy/#contact)
 
-**Contact Us**
---------------
+### **Contact Us**
 
 Please contact us at privacy@sovrn\[.\]com with questions or concerns regarding our Privacy Policy or how we process your Personal Information.
 
@@ -668,18 +655,12 @@ Powered by [![CookieYes Logo](https://www.sovrn.com/wp-content/plugins/webtoffee
 
           
 
-[Sign up for our monthly newsletter](https://info.sovrn.com/newsletter-signup)
-
-[Sign up for our monthly newsletter](https://info.sovrn.com/newsletter-signup)
-
 Power to the publisher.
-
-* * *
-
-© Sovrn, Inc. All rights reserved.
 
 * [](https://www.linkedin.com/company/sovrn-holdings-inc-)
 * [](https://www.facebook.com/sovrnholdings)
 * [](https://twitter.com/sovrnholdings)
+
+© Sovrn, Inc. All rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3746873&fmt=gif)
