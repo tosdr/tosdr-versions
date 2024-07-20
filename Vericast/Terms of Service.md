@@ -2,66 +2,6 @@
 
 [Solutions](#)
 
-[Overview](https://www.vericast.com/solutions/)
-
-[Digital Marketing](https://www.vericast.com/solutions/digital-marketing/)
-
-[Display Advertising](https://www.vericast.com/solutions/digital-marketing/display-advertising/)
-
-[Contextual Targeting](https://www.vericast.com/solutions/digital-marketing/contextual-targeting/)
-
-[Connected TV](https://www.vericast.com/solutions/digital-marketing/connected-tv/)
-
-[Dynamic Mobile](https://www.vericast.com/solutions/digital-marketing/dynamic-mobile/)
-
-[DOOH](https://www.vericast.com/solutions/digital-marketing/dooh/)
-
-[Social Media Marketing](https://www.vericast.com/solutions/digital-marketing/social-media-marketing/)
-
-[Email Marketing](https://www.vericast.com/solutions/digital-marketing/email-marketing/)
-
-[Universal Digital Coupons](https://www.vericast.com/solutions/digital-marketing/universal-digital-coupons/)
-
-[Local Search](https://www.vericast.com/solutions/digital-marketing/local-search/)
-
-[Zero-Party Data Capture](https://www.vericast.com/solutions/digital-marketing/zero-party-data-capture-powered-by-qonsent/)
-
-[Add-to-Cart Ads](https://www.vericast.com/solutions/digital-marketing/display-advertising/add-to-cart-ads/)
-
-[Print Marketing](https://www.vericast.com/solutions/print-marketing/)
-
-[SAVE Direct Mail](https://www.vericast.com/solutions/print-marketing/direct-mail/)
-
-[SAVE FSI](https://www.vericast.com/solutions/print-marketing/save-fsi/)
-
-[Inserts](https://www.vericast.com/solutions/print-marketing/inserts/)
-
-[Dynamic Postcard](https://www.vericast.com/solutions/print-marketing/dynamic-postcard/)
-
-[Solo Direct Mail](https://www.vericast.com/solutions/print-marketing/solo-direct-mail/)
-
-[Mailing Lists](https://www.vericast.com/solutions/print-marketing/mailing-lists-address-database/)
-
-[Newspaper ROP Ads](https://www.vericast.com/solutions/print-marketing/newspaper-rop-ads/)
-
-[Marketing Technology](https://www.vericast.com/solutions/marketing-technology/)
-
-[nCountR](https://www.vericast.com/solutions/marketing-technology/ncountr/)
-
-[NXTDRIVE](https://www.vericast.com/nxtdrive/)
-
-[Consumer Graph](https://www.vericast.com/solutions/marketing-technology/consumer-graph/)
-
-[Audience Segments](https://www.vericast.com/solutions/marketing-technology/audience-segments/)
-
-[Marketing Services](https://www.vericast.com/solutions/marketing-services/)
-
-[Sales Impact Study](https://www.vericast.com/solutions/marketing-services/sales-impact-study/)
-
-[Foot Traffic Impact](https://www.vericast.com/solutions/marketing-services/foot-traffic-impact/)
-
-[Coupon Redemption](https://www.vericast.com/solutions/marketing-services/coupon-redemption/)
-
 [Financial Solutions](https://www.vericast.com/solutions/financial-solutions/)
 
 [Acquisition & Retention](https://www.vericast.com/solutions/financial-solutions/acquisition-retention/)
@@ -84,39 +24,57 @@
 
 [Treasury & Retailer Supplies](https://www.vericast.com/solutions/financial-solutions/treasury-retailer-supplies/)
 
+[Digital Marketing](https://www.vericast.com/solutions/digital-marketing/)
+
+[Display Advertising](https://www.vericast.com/solutions/digital-marketing/display-advertising/)
+
+[Contextual Targeting](https://www.vericast.com/solutions/digital-marketing/contextual-targeting/)
+
+[Connected TV](https://www.vericast.com/solutions/digital-marketing/connected-tv/)
+
+[Dynamic Mobile](https://www.vericast.com/solutions/digital-marketing/dynamic-mobile/)
+
+[DOOH](https://www.vericast.com/solutions/digital-marketing/dooh/)
+
+[Social Media Marketing](https://www.vericast.com/solutions/digital-marketing/social-media-marketing/)
+
+[Email Marketing](https://www.vericast.com/solutions/digital-marketing/email-marketing/)
+
+[Universal Digital Coupons](https://www.vericast.com/solutions/digital-marketing/universal-digital-coupons/)
+
+[Local Search](https://www.vericast.com/solutions/digital-marketing/local-search/)
+
+[Print Marketing](https://www.vericast.com/solutions/print-marketing/)
+
+[Direct Mail](https://www.vericast.com/solutions/print-marketing/direct-mail/)
+
+[Inserts](https://www.vericast.com/solutions/print-marketing/inserts/)
+
+[Dynamic Postcard](https://www.vericast.com/solutions/print-marketing/dynamic-postcard/)
+
+[Solo Direct Mail](https://www.vericast.com/solutions/print-marketing/solo-direct-mail/)
+
+[Mailing Lists](https://www.vericast.com/solutions/print-marketing/mailing-lists-address-database/)
+
+[Newspaper ROP Ads](https://www.vericast.com/solutions/print-marketing/newspaper-rop-ads/)
+
 [Insights](#)
 
-[Overview](https://www.vericast.com/insights/)
+[Financial Insights](https://www.vericast.com/financial-insights/)
 
-[Blogs](https://vericast.com/insights/blogs/?_content_type=blog)
+[Blogs](https://vericast.com/insights/blogs/?_categories=financial&_content_type=blog)
 
-[Case Studies](https://vericast.com/insights/case-studies/?_content_type=case-study)
+[Case Studies](https://vericast.com/insights/case-studies/?_categories=financial&_content_type=case-study)
 
-[Infographics](https://vericast.com/insights/infographics/?_content_type=infographic)
+[Infographics](https://vericast.com/insights/infographics/?_categories=financial&_content_type=infographic)
 
-[Podcasts](https://vericast.com/insights/podcasts/?_content_type=podcast)
+[Podcasts](https://vericast.com/insights/podcasts/?_categories=financial&_content_type=podcast)
 
-[Reports](https://vericast.com/insights/reports/?_content_type=report)
+[Reports](https://vericast.com/insights/reports/?_categories=financial&_content_type=report)
 
-[Videos](https://vericast.com/insights/videos/?_content_type=video)
+[Videos](https://vericast.com/insights/videos/?_categories=financial&_content_type=video)
 
-[Tools](https://vericast.com/insights/tools/?_content_type=tool)
-
-[Industries](#)
-
-[Consumer Packaged Goods](https://www.vericast.com/industries/consumer-packaged-goods/)
-
-[Financial Services](https://www.vericast.com/industries/financial-services/)
-
-[Grocery](https://www.vericast.com/industries/grocery/)
-
-[Healthcare](https://www.vericast.com/industries/healthcare/)
-
-[Restaurant](https://www.vericast.com/industries/restaurant/)
-
-[Retail](https://www.vericast.com/industries/retail/)
-
-[Telecom](https://www.vericast.com/industries/telecom/)
+[Tools](https://vericast.com/insights/tools/?_categories=financial&_content_type=tool)
 
 [About Us](#)
 
@@ -311,3 +269,5 @@ San Antonio, TX 78256
 [Terms of Use](https://www.vericast.com/terms-of-use/)
 
 [Do Not Sell or Share My Information](https://hch.service-now.com/privacy?id=anon_csmr)
+
+Vericast is focused on financial institutions. Looking for other industry solutions?       [Click Here >](http://www.rrd.com/)
