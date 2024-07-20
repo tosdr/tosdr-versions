@@ -288,22 +288,22 @@ TradingView may update these Rules at any time.
 
 [](https://www.tradingview.com/)
 
-* [](https://twitter.com/tradingview/)
-* [](https://www.facebook.com/tradingview/)
-* [](https://www.youtube.com/@TradingView)
-* [](https://www.instagram.com/tradingview/)
-* [](https://t.me/tradingview/)
-* [](https://www.tiktok.com/@tradingview/)
-* [](https://www.reddit.com/r/TradingView/)
-* [](https://discord.com/invite/tradingview-641192799211094016)
-* [](https://www.linkedin.com/company/tradingview/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/x-twitter-color-off.svg)](https://twitter.com/tradingview/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/facebook-color-off.svg)](https://www.facebook.com/tradingview/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/youtube-color-off.svg)](https://www.youtube.com/@TradingView)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/instagram-color-off.svg)](https://www.instagram.com/tradingview/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/telegram-color-off.svg)](https://t.me/tradingview/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/tiktok-color-off.svg)](https://www.tiktok.com/@tradingview/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/reddit-color-off.svg)](https://www.reddit.com/r/TradingView/)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/discord-color-off.svg)](https://discord.com/invite/tradingview-641192799211094016)
+* [![](/static/bundles/ui-lib/icons/28px-filled/social-icons/linkedin-color-off.svg)](https://www.linkedin.com/company/tradingview/)
 
 English
 
 Products
 
 * [Supercharts](https://www.tradingview.com/chart/)
-* [Pine Script™](https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html)
+* [Pine Script™](https://www.tradingview.com/pine-script-docs/)
 * [Stock Screener](https://www.tradingview.com/screener/)
 * [ETF Screener](https://www.tradingview.com/etf-screener/)
 * [Forex Screener](https://www.tradingview.com/forex-screener/)
