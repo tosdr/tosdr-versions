@@ -1,6 +1,6 @@
             
 
-[![Sunsama logo](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/62dfe6649f89244e786db7a8_Logo-Sunsama.svg)](https://www.sunsama.com/)
+[![Sunsama logo](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/62dfe6649f89244e786db7a8_Logo-Sunsama.svg)](https://www.sunsama.com/)
 
 [Features](http://sunsama.com/#home-features-section)[Integrations](https://www.sunsama.com/integrations/asana)[Pricing](https://www.sunsama.com/pricing)[Love](https://www.sunsama.com/love)[About](https://www.sunsama.com/about)[Blog](https://www.sunsama.com/blog)
 
@@ -284,7 +284,7 @@ Summay and you are not legal partners or agents; instead, our relationship is th
 ‍
 -
 
-[![Sunsama wordmark logo](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/62ecc58f3da29e35f7f75a43_sunsama-text-logo.svg)](https://www.sunsama.com/)
+[![Sunsama wordmark logo](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/62ecc58f3da29e35f7f75a43_sunsama-text-logo.svg)](https://www.sunsama.com/)
 
 Help
 
@@ -310,8 +310,8 @@ Cookie Preferences
 
 © 2024 Summay, Inc.
 
-[![Facebook icon](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/62ecd00cdf1bb8c276fb36c9_footer-icon-facebook.svg)](https://www.facebook.com/sunsamahq)[![Twitter Icon](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/62ecd00c1d8c6b5566300dfa_footer-icon-twitter.svg)](https://twitter.com/sunsamahq)[![LinkedIn icon](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/62ecd00c58b87835a43a2f08_footer-icon-linkedin.svg)](https://www.linkedin.com/company/sunsama/)[![Instagram Icon](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/62ecd00c8ef1082fa611d09f_footer-icon-insta.svg)](https://instagram.com/sunsamahq)
+[![Facebook icon](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/62ecd00cdf1bb8c276fb36c9_footer-icon-facebook.svg)](https://www.facebook.com/sunsamahq)[![Twitter Icon](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/62ecd00c1d8c6b5566300dfa_footer-icon-twitter.svg)](https://twitter.com/sunsamahq)[![LinkedIn icon](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/62ecd00c58b87835a43a2f08_footer-icon-linkedin.svg)](https://www.linkedin.com/company/sunsama/)[![Instagram Icon](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/62ecd00c8ef1082fa611d09f_footer-icon-insta.svg)](https://instagram.com/sunsamahq)
 
 [Designed by
 
-![Union Design Agency logo](https://assets-global.website-files.com/62d1ff8aa73d90740883d447/631113173d665484903e836e_Union.svg)](#)
+![Union Design Agency logo](https://cdn.prod.website-files.com/62d1ff8aa73d90740883d447/631113173d665484903e836e_Union.svg)](#)
