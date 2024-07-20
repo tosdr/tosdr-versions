@@ -564,6 +564,8 @@ Privacy Policy
 
 ###### Products
 
+###### Consumer Products
+
 ###### Support
 
 ###### Download
@@ -574,6 +576,16 @@ Privacy Policy
 * [PD/QC Power Bank Zone](https://www.silicon-power.com/web/gb/POWERBANK/QP)
 * [Consumer Products](https://www.silicon-power.com/web/gb/consumer_products)
 * [Industrial Solutions](https://www.silicon-power.com/web/gb/industrial)
+
+* [Memory Modules](https://www.silicon-power.com/web/gb/category/MemoryModules)
+* [Solid State Drives](https://www.silicon-power.com/web/gb/category/SolidStateDrives)
+* [Portable SSDs](https://www.silicon-power.com/web/gb/category/PortableSSDs)
+* [Portable Hard Drives](https://www.silicon-power.com/web/gb/category/PortableHardDrives)
+* [USB Flash Drives](https://www.silicon-power.com/web/gb/category/USBDrives)
+* [Flash Cards](https://www.silicon-power.com/web/gb/category/Cards)
+* [Power Banks](https://www.silicon-power.com/web/gb/category/PowerBanks)
+* [Accessories](https://www.silicon-power.com/web/gb/category/Accessories)
+* [Customized Services](https://www.silicon-power.com/web/gb/customized)
 
 * [Warranty](https://www.silicon-power.com/web/gb/warranty)
 * [Compatibility Search](https://www.silicon-power.com/web/gb/compatibility)
