@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
-* [The Perfect Present for that Special Person in Your Life](https://xworld.org/shopping/the-perfect-present-for-that-special-person-in-your-life/)
-* [Tasty Treats are the Perfect Present](https://xworld.org/food/tasty-treats-are-the-perfect-present/)
-* [The benefits of lip fillers](https://xworld.org/health/the-benefits-of-lip-fillers/)
-* [Hiring a Meeting Room that Suits Your Needs](https://xworld.org/business/hiring-a-meeting-room-that-suits-your-needs/)
-* [Do you know these things about renewable energy?](https://xworld.org/technology-and-gadget/do-you-know-these-things-about-renewable-energy/)
+* [Garage Floor Perfection: Let Our Contractors Handle the Job](https://xworld.org/home-improvement/garage-floor-perfection-let-our-contractors-handle-the-job/)
+* [What is Accounts Payable Analysis?](https://xworld.org/business/what-is-accounts-payable-analysis/)
+* [An Introduction to Solar Panel Grants](https://xworld.org/technology-and-gadget/an-introduction-to-solar-panel-grants/)
+* [English Labradors: The Gentle Giants with Hearts of Gold](https://xworld.org/lifestyle/english-labradors-the-gentle-giants-with-hearts-of-gold/)
+* [5 plants that are used to make clothing](https://xworld.org/fashion/5-plants-that-are-used-to-make-clothing/)
 
 ### Categories
 
@@ -121,6 +121,8 @@ Search for:
 
 ### Archives
 
+* [July 2024](https://xworld.org/2024/07/)
+* [June 2024](https://xworld.org/2024/06/)
 * [May 2024](https://xworld.org/2024/05/)
 * [April 2024](https://xworld.org/2024/04/)
 * [March 2024](https://xworld.org/2024/03/)
