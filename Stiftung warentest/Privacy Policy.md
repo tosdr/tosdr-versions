@@ -305,7 +305,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v108635066.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v111250837.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -445,7 +445,7 @@ Unsere Daten­schutz­beauftragte können Sie über folgende E-Mail-Adresse kont
 Rechts­grund­lagen für die Daten­ver­arbeitung
 ----------------------------------------------
 
-Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der  [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
+Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
 
 a) Soweit wir für Verarbeitungs­vorgänge personenbezogener Daten Ihre Einwilligung einholen, ist die Rechts­grund­lage für die Verarbeitung Art. 6 Abs. 1 Satz 1 lit. a DSGVO.
 
@@ -603,11 +603,11 @@ Die Stiftung Warentest ist auf folgenden Social-Media-Platt­formen zu finden:
 
 Anbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+Daten­schutz­erklärung: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 
-Wider­spruchs­recht:  [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
+Wider­spruchs­recht: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
 
-Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse  [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
+Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
 
 Die vorrangige Verantwortung für die Verarbeitung von personenbezogenen Daten aufgrund der Nutzung der Fanpage der Stiftung Warentest liegt bei Facebook, und Facebook ist verpflichtet, sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung dieser Daten zu erfüllen.
 
@@ -621,17 +621,17 @@ Ihre Rechte als Betroffene gemäß Art. 15 ff DSGVO können Sie sowohl bei Faceb
 
 Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
 
-Daten­schutz­erklärung:  [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Daten­schutz­erklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Wider­spruchs­recht:  [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
+Wider­spruchs­recht: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
 **Vimeo**
 
 Anbieter: Vimeo Inc., 555 West 18th Street, New York 10011, USA
 
-Daten­schutz­erklärung:  [https://vimeo.com/privacy](https://vimeo.com/privacy)
+Daten­schutz­erklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy)
 
-Wider­spruchs­recht:  [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
+Wider­spruchs­recht: [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
 
 Die Videos sind alle über eine Zwei-Klick-Lösung einge­bunden, es werden also keine Nutzer­daten von Ihnen an Youtube beziehungs­weise Vimeo über­tragen, wenn Sie die Videos nicht laden. Erst wenn Sie die Videos laden, erheben Youtube beziehungs­weise Vimeo Ihre IP-Adresse und gegebenenfalls weitere Daten (etwa, dass Sie das betreffende Video auf einer der Unter­seiten unserer Website angeschaut haben). Diese Daten­erhebung erfolgt allein durch Youtube beziehungs­weise Vimeo. Wir haben darauf keinen Einfluss. Wir nutzen diese Daten nicht und können dies auch nicht.
 
@@ -643,17 +643,17 @@ Weitere Informationen zu Zwecken und Umfang der Daten­erhebung und der Verarbei
 
 Anbieter: Twitter Interna­tional Unlimited Company, One Cumber­land Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
 
-Daten­schutz­erklärung:  [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+Daten­schutz­erklärung: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
 
-Wider­spruchs­recht:  [https://twitter.com/personalization](https://twitter.com/personalization)
+Wider­spruchs­recht: [https://twitter.com/personalization](https://twitter.com/personalization)
 
 ### d) Pinterest
 
 Anbieter: Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Daten­schutz­erklärung: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
-Wider­spruchs­recht:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Wider­spruchs­recht: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -791,21 +791,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Fußbereich
 
@@ -1202,7 +1202,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -1555,7 +1555,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -1891,7 +1891,7 @@ Suchen
             
             Meistgelesene Tests & Themen
             
-            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+            * [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
             * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
             * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
             * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -2183,7 +2183,7 @@ Immobilien
 
 Meistgelesene Tests & Themen
 
-* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
 * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
 * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
 * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -2192,7 +2192,7 @@ Meistgelesene Tests & Themen
 
 Meistgelesene Tests & Themen
 
-* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-0/)
+* [Vergleich Baukredite](https://www.test.de/Bauzinsen-aktuell-5294522-5295244/)
 * [Wohngebäudeversicherung](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/)
 * [Solarstrom](https://www.test.de/Solaranlage-Gute-Renditen-sind-moeglich-und-so-gehts-5250676-0/)
 * [Wärmepumpen](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/)
@@ -2352,7 +2352,7 @@ Unsere Daten­schutz­beauftragte können Sie über folgende E-Mail-Adresse kont
 Rechts­grund­lagen für die Daten­ver­arbeitung
 ----------------------------------------------
 
-Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der  [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
+Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
 
 a) Soweit wir für Verarbeitungs­vorgänge personenbezogener Daten Ihre Einwilligung einholen, ist die Rechts­grund­lage für die Verarbeitung Art. 6 Abs. 1 Satz 1 lit. a DSGVO.
 
@@ -2510,11 +2510,11 @@ Die Stiftung Warentest ist auf folgenden Social-Media-Platt­formen zu finden:
 
 Anbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+Daten­schutz­erklärung: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 
-Wider­spruchs­recht:  [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
+Wider­spruchs­recht: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
 
-Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse  [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
+Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
 
 Die vorrangige Verantwortung für die Verarbeitung von personenbezogenen Daten aufgrund der Nutzung der Fanpage der Stiftung Warentest liegt bei Facebook, und Facebook ist verpflichtet, sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung dieser Daten zu erfüllen.
 
@@ -2528,17 +2528,17 @@ Ihre Rechte als Betroffene gemäß Art. 15 ff DSGVO können Sie sowohl bei Faceb
 
 Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
 
-Daten­schutz­erklärung:  [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Daten­schutz­erklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Wider­spruchs­recht:  [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
+Wider­spruchs­recht: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
 **Vimeo**
 
 Anbieter: Vimeo Inc., 555 West 18th Street, New York 10011, USA
 
-Daten­schutz­erklärung:  [https://vimeo.com/privacy](https://vimeo.com/privacy)
+Daten­schutz­erklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy)
 
-Wider­spruchs­recht:  [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
+Wider­spruchs­recht: [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
 
 Die Videos sind alle über eine Zwei-Klick-Lösung einge­bunden, es werden also keine Nutzer­daten von Ihnen an Youtube beziehungs­weise Vimeo über­tragen, wenn Sie die Videos nicht laden. Erst wenn Sie die Videos laden, erheben Youtube beziehungs­weise Vimeo Ihre IP-Adresse und gegebenenfalls weitere Daten (etwa, dass Sie das betreffende Video auf einer der Unter­seiten unserer Website angeschaut haben). Diese Daten­erhebung erfolgt allein durch Youtube beziehungs­weise Vimeo. Wir haben darauf keinen Einfluss. Wir nutzen diese Daten nicht und können dies auch nicht.
 
@@ -2550,17 +2550,17 @@ Weitere Informationen zu Zwecken und Umfang der Daten­erhebung und der Verarbei
 
 Anbieter: Twitter Interna­tional Unlimited Company, One Cumber­land Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
 
-Daten­schutz­erklärung:  [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+Daten­schutz­erklärung: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
 
-Wider­spruchs­recht:  [https://twitter.com/personalization](https://twitter.com/personalization)
+Wider­spruchs­recht: [https://twitter.com/personalization](https://twitter.com/personalization)
 
 ### d) Pinterest
 
 Anbieter: Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Daten­schutz­erklärung: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
-Wider­spruchs­recht:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Wider­spruchs­recht: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -2746,7 +2746,7 @@ Unsere Daten­schutz­beauftragte können Sie über folgende E-Mail-Adresse kont
 Rechts­grund­lagen für die Daten­ver­arbeitung
 ----------------------------------------------
 
-Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der  [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
+Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
 
 a) Soweit wir für Verarbeitungs­vorgänge personenbezogener Daten Ihre Einwilligung einholen, ist die Rechts­grund­lage für die Verarbeitung Art. 6 Abs. 1 Satz 1 lit. a DSGVO.
 
@@ -2904,11 +2904,11 @@ Die Stiftung Warentest ist auf folgenden Social-Media-Platt­formen zu finden:
 
 Anbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+Daten­schutz­erklärung: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 
-Wider­spruchs­recht:  [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
+Wider­spruchs­recht: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
 
-Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse  [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
+Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
 
 Die vorrangige Verantwortung für die Verarbeitung von personenbezogenen Daten aufgrund der Nutzung der Fanpage der Stiftung Warentest liegt bei Facebook, und Facebook ist verpflichtet, sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung dieser Daten zu erfüllen.
 
@@ -2922,17 +2922,17 @@ Ihre Rechte als Betroffene gemäß Art. 15 ff DSGVO können Sie sowohl bei Faceb
 
 Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
 
-Daten­schutz­erklärung:  [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Daten­schutz­erklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Wider­spruchs­recht:  [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
+Wider­spruchs­recht: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
 **Vimeo**
 
 Anbieter: Vimeo Inc., 555 West 18th Street, New York 10011, USA
 
-Daten­schutz­erklärung:  [https://vimeo.com/privacy](https://vimeo.com/privacy)
+Daten­schutz­erklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy)
 
-Wider­spruchs­recht:  [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
+Wider­spruchs­recht: [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
 
 Die Videos sind alle über eine Zwei-Klick-Lösung einge­bunden, es werden also keine Nutzer­daten von Ihnen an Youtube beziehungs­weise Vimeo über­tragen, wenn Sie die Videos nicht laden. Erst wenn Sie die Videos laden, erheben Youtube beziehungs­weise Vimeo Ihre IP-Adresse und gegebenenfalls weitere Daten (etwa, dass Sie das betreffende Video auf einer der Unter­seiten unserer Website angeschaut haben). Diese Daten­erhebung erfolgt allein durch Youtube beziehungs­weise Vimeo. Wir haben darauf keinen Einfluss. Wir nutzen diese Daten nicht und können dies auch nicht.
 
@@ -2944,17 +2944,17 @@ Weitere Informationen zu Zwecken und Umfang der Daten­erhebung und der Verarbei
 
 Anbieter: Twitter Interna­tional Unlimited Company, One Cumber­land Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
 
-Daten­schutz­erklärung:  [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+Daten­schutz­erklärung: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
 
-Wider­spruchs­recht:  [https://twitter.com/personalization](https://twitter.com/personalization)
+Wider­spruchs­recht: [https://twitter.com/personalization](https://twitter.com/personalization)
 
 ### d) Pinterest
 
 Anbieter: Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Daten­schutz­erklärung: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
-Wider­spruchs­recht:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Wider­spruchs­recht: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3132,7 +3132,7 @@ Unsere Daten­schutz­beauftragte können Sie über folgende E-Mail-Adresse kont
 Rechts­grund­lagen für die Daten­ver­arbeitung
 ----------------------------------------------
 
-Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der  [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
+Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
 
 a) Soweit wir für Verarbeitungs­vorgänge personenbezogener Daten Ihre Einwilligung einholen, ist die Rechts­grund­lage für die Verarbeitung Art. 6 Abs. 1 Satz 1 lit. a DSGVO.
 
@@ -3142,7 +3142,7 @@ c) Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer recht­
 
 d) Ist die Verarbeitung zur Wahrung unserer berechtigten Interessen oder eines Dritten erforderlich und über­wiegen Ihre Interessen, Grund­rechte und Grund­freiheiten unsere berechtigten Interessen an der Verarbeitung nicht, so ist Art. 6 Abs. 1 Satz 1 lit. f DSGVO Rechts­grund­lage für die Verarbeitung.
 
-Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der  [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
+Die Stiftung Warentest verarbeitet personenbezogene Daten ausschließ­lich auf der Grund­lage gesetzlicher Vorschriften, wie der [Datenschutzgrundverordnung](https://dejure.org/gesetze/DSGVO), dem [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/) sowie gegebenenfalls weiterer Vorschriften.
 
 a) Soweit wir für Verarbeitungs­vorgänge personenbezogener Daten Ihre Einwilligung einholen, ist die Rechts­grund­lage für die Verarbeitung Art. 6 Abs. 1 Satz 1 lit. a DSGVO.
 
@@ -3406,11 +3406,11 @@ Die Stiftung Warentest ist auf folgenden Social-Media-Platt­formen zu finden:
 
 Anbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+Daten­schutz­erklärung: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 
-Wider­spruchs­recht:  [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
+Wider­spruchs­recht: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
 
-Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse  [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
+Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
 
 Die vorrangige Verantwortung für die Verarbeitung von personenbezogenen Daten aufgrund der Nutzung der Fanpage der Stiftung Warentest liegt bei Facebook, und Facebook ist verpflichtet, sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung dieser Daten zu erfüllen.
 
@@ -3424,17 +3424,17 @@ Ihre Rechte als Betroffene gemäß Art. 15 ff DSGVO können Sie sowohl bei Faceb
 
 Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
 
-Daten­schutz­erklärung:  [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Daten­schutz­erklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Wider­spruchs­recht:  [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
+Wider­spruchs­recht: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
 **Vimeo**
 
 Anbieter: Vimeo Inc., 555 West 18th Street, New York 10011, USA
 
-Daten­schutz­erklärung:  [https://vimeo.com/privacy](https://vimeo.com/privacy)
+Daten­schutz­erklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy)
 
-Wider­spruchs­recht:  [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
+Wider­spruchs­recht: [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
 
 Die Videos sind alle über eine Zwei-Klick-Lösung einge­bunden, es werden also keine Nutzer­daten von Ihnen an Youtube beziehungs­weise Vimeo über­tragen, wenn Sie die Videos nicht laden. Erst wenn Sie die Videos laden, erheben Youtube beziehungs­weise Vimeo Ihre IP-Adresse und gegebenenfalls weitere Daten (etwa, dass Sie das betreffende Video auf einer der Unter­seiten unserer Website angeschaut haben). Diese Daten­erhebung erfolgt allein durch Youtube beziehungs­weise Vimeo. Wir haben darauf keinen Einfluss. Wir nutzen diese Daten nicht und können dies auch nicht.
 
@@ -3446,17 +3446,17 @@ Weitere Informationen zu Zwecken und Umfang der Daten­erhebung und der Verarbei
 
 Anbieter: Twitter Interna­tional Unlimited Company, One Cumber­land Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
 
-Daten­schutz­erklärung:  [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+Daten­schutz­erklärung: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
 
-Wider­spruchs­recht:  [https://twitter.com/personalization](https://twitter.com/personalization)
+Wider­spruchs­recht: [https://twitter.com/personalization](https://twitter.com/personalization)
 
 ### d) Pinterest
 
 Anbieter: Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Daten­schutz­erklärung: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
-Wider­spruchs­recht:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Wider­spruchs­recht: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3472,11 +3472,11 @@ Die Stiftung Warentest ist auf folgenden Social-Media-Platt­formen zu finden:
 
 Anbieter: Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
+Daten­schutz­erklärung: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/)
 
-Wider­spruchs­recht:  [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
+Wider­spruchs­recht: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads)
 
-Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse  [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
+Zwischen der Stiftung Warentest und der Meta Platforms Ireland Ltd. gibt es eine Vereinbarung über die gemein­same daten­schutz­recht­liche Verantwortung für den Betrieb der Fanpage der Stiftung Warentest. Die wesentlichen Inhalte dieser Vereinbarung können Sie als betroffene Person bei Meta Platforms Ireland Ltd. unter der Adresse [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum) einsehen.
 
 Die vorrangige Verantwortung für die Verarbeitung von personenbezogenen Daten aufgrund der Nutzung der Fanpage der Stiftung Warentest liegt bei Facebook, und Facebook ist verpflichtet, sämtliche Pflichten aus der DSGVO im Hinblick auf die Verarbeitung dieser Daten zu erfüllen.
 
@@ -3490,17 +3490,17 @@ Ihre Rechte als Betroffene gemäß Art. 15 ff DSGVO können Sie sowohl bei Faceb
 
 Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
 
-Daten­schutz­erklärung:  [https://policies.google.com/privacy](https://policies.google.com/privacy)
+Daten­schutz­erklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Wider­spruchs­recht:  [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
+Wider­spruchs­recht: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated)
 
 **Vimeo**
 
 Anbieter: Vimeo Inc., 555 West 18th Street, New York 10011, USA
 
-Daten­schutz­erklärung:  [https://vimeo.com/privacy](https://vimeo.com/privacy)
+Daten­schutz­erklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy)
 
-Wider­spruchs­recht:  [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
+Wider­spruchs­recht: [https://vimeo.com/cookie\_policy](https://vimeo.com/cookie_policy)
 
 Die Videos sind alle über eine Zwei-Klick-Lösung einge­bunden, es werden also keine Nutzer­daten von Ihnen an Youtube beziehungs­weise Vimeo über­tragen, wenn Sie die Videos nicht laden. Erst wenn Sie die Videos laden, erheben Youtube beziehungs­weise Vimeo Ihre IP-Adresse und gegebenenfalls weitere Daten (etwa, dass Sie das betreffende Video auf einer der Unter­seiten unserer Website angeschaut haben). Diese Daten­erhebung erfolgt allein durch Youtube beziehungs­weise Vimeo. Wir haben darauf keinen Einfluss. Wir nutzen diese Daten nicht und können dies auch nicht.
 
@@ -3512,17 +3512,17 @@ Weitere Informationen zu Zwecken und Umfang der Daten­erhebung und der Verarbei
 
 Anbieter: Twitter Interna­tional Unlimited Company, One Cumber­land Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
 
-Daten­schutz­erklärung:  [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
+Daten­schutz­erklärung: [https://twitter.com/de/privacy](https://twitter.com/de/privacy)
 
-Wider­spruchs­recht:  [https://twitter.com/personalization](https://twitter.com/personalization)
+Wider­spruchs­recht: [https://twitter.com/personalization](https://twitter.com/personalization)
 
 ### d) Pinterest
 
 Anbieter: Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irland.
 
-Daten­schutz­erklärung:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Daten­schutz­erklärung: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
-Wider­spruchs­recht:  [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
+Wider­spruchs­recht: [https://policy.pinterest.com/de/privacy-policy](https://policy.pinterest.com/de/privacy-policy)
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3774,59 +3774,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Weitere spannende Themen
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Neueste Tests
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Rente mit 63: Planen, rechnen, freuen – so klappt es mit der Frührente](https://www.test.de/Rente-mit-63-5197662-0/ "Rente mit 63 - Planen, rechnen, freuen – so klappt es mit der Frührente")
-* [Krankenkassen­vergleich 2024: Krankenkasse – gibts auch günstig und mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – gibts auch günstig und mit Top-Zusatzleistungen")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
+* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
+* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
+* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
+* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
 
 test.de entdecken
 
-* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Private Kranken­versicherung: Stan­dard­tarif, Basis­tarif, Notlagen­tarif](https://www.test.de/PKV-Standardtarif-Basistarif-Notlagentarif-5883838-0/ "Private Krankenversicherung - Standardtarif, Basistarif, Notlagentarif")
+* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
 
 Service Stiftung Warentest
 
