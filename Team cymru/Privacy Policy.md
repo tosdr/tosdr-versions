@@ -1,25 +1,29 @@
 top of page
 
-[![Team Cymru Header Logo](https://static.wixstatic.com/media/a95690_d6cb498bb5014eeb85f2c78c8192d54f~mv2.webp/v1/fill/w_211,h_69,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/team-cymru-header-logo.webp)](https://www.team-cymru.com/)
+[![Team Cymru Header Logo](https://static.wixstatic.com/media/a95690_d6cb498bb5014eeb85f2c78c8192d54f~mv2.webp/v1/fill/w_187,h_59,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/team-cymru-header-logo.webp)](https://www.team-cymru.com/)
 
 * [Home](https://www.team-cymru.com/)
 * [Products](https://www.team-cymru.com/products)
+    
     * [Threat Intelligence Solutions](https://www.team-cymru.com/threat-intelligence-solutions)
     * [Attack Surface Management Solutions](https://www.team-cymru.com/attack-surface-management-solutions)
     * [Threat Feeds](https://www.team-cymru.com/threat-feeds)
+    
 * [Threat Vectors](https://www.team-cymru.com/threat-vectors)
+    
     * [Supply Chain Risks and Threats](https://www.team-cymru.com/supply-chain-risks-and-threats)
     * [Ransomware](https://www.team-cymru.com/ransomware)
     * [Nation-State Threat Actors](https://www.team-cymru.com/nation-state-threat-actors)
     * [Phishing](https://www.team-cymru.com/phishinig)
+    
 * [Community Services](https://www.team-cymru.com/community-services)
+    
     * [Threat Intelligence Services](https://www.team-cymru.com/community-threat-intelligence)
     * [Network Services](https://www.team-cymru.com/community-network-services)
     * [News Blogs & Events](https://www.team-cymru.com/community-news-and-events)
-* Partners
     
-    * [Technology Partners](https://www.team-cymru.com/splunk)
 * [Resources](https://www.team-cymru.com/resources)
+    
     * [Dragon News Blog](https://www.team-cymru.com/blog)
     * [Glossary of Terms](https://www.team-cymru.com/glossary-of-terms)
     * [About Pure Signal](https://www.team-cymru.com/aboutpuresignal)
@@ -27,18 +31,27 @@ top of page
     * [CTEM](https://www.team-cymru.com/ctem)
     * [Events](https://www.team-cymru.com/see-us-here)
     * [Podcast](https://www.team-cymru.com/podcast)
+    
+* [Partners](https://www.team-cymru.com/partner-program)
+    
+    * [Resellers, MSPs & SIs](https://www.team-cymru.com/resellers-msps-systems-integrators)
+    * [Technology Alliance Partners](https://www.team-cymru.com/technology-partners)
+        
+        * [Splunk](https://www.team-cymru.com/splunk)
+        * [Maltego](https://www.team-cymru.com/maltego)
+        * [Tines](https://www.team-cymru.com/tines)
+        
+    * [Become a Partner](https://www.team-cymru.com/become-a-partner)
+    
 * Company
     
-    * [Who We Are](https://www.team-cymru.com/company)
+    * [Company](https://www.team-cymru.com/company)
     * [RISE & UE](https://www.team-cymru.com/events)
     * [Contact Us](https://www.team-cymru.com/contact-us)
     * [Press Releases](https://www.team-cymru.com/press-releases)
     * [News](https://www.team-cymru.com/news)
     * [Careers](https://www.team-cymru.com/careers)
-* More
     
-
-Use tab to navigate through the menu items.
 
 [CONTACT SALES](https://www.team-cymru.com/contact-sales)
 
@@ -386,7 +399,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_90,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_103,h_21,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
