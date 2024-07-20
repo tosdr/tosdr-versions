@@ -65,7 +65,7 @@ No seriously, do it!
 TERMS OF USE
 ------------
 
-Last Updated: 2019-01-10
+Last Updated: 2024-07-01
 
 MediaLab.AI , (“MediaLab” or “we”) provides the Whisper website, mobile application, and other online products and services (we call these the "Services"). By using the Services, you agree to be bound by these Terms of Use (“Terms”). If you do not agree to these Terms, including the mandatory arbitration provisions in Section 0, do not access or use the Services. If MediaLab makes changes to these Terms, we will provide notice by posting a notice on the Services or updating the "Last Updated" date above. Your continued use of the Services will confirm your acceptance of the changes.
 
@@ -168,7 +168,7 @@ The Whisper logos and any other product or service name or slogan contained in t
 
   
 
-You are granted a limited, non-transferable and revocable license to access and use the Services and Service Materials for your personal, non-commercial use. This license is revocable at any time.
+You are granted a limited, non-transferable and revocable license to access and use the Services and Service Materials for your personal, non-commercial use. This license is revocable at any time. For the sake of clarity, if you desire to use, access, display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit (including, without limitation, for A.I. machine learning purposes), transfer or transmit the Services/Service Materials, any portion of the Service/Service Materials, or access to the Service/Service Materials for any commercial purpose, including without limitation AI machine learning, use on AI platforms, etc., you must first obtain Our express signed written consent prior to such use. Except as expressly authorized by us in writing, you agree not to modify, copy, frame, scrape, rent, lease, loan, sell, distribute or create derivative works based on the Service or the Service Materials, in whole or in part, including for any purposes related to AI machine learning/use on AI platforms, except that the foregoing does not apply to your own User Content (as defined herein) that you legally upload to the Service. In connection with your use of the Service/Service Materials you shall not engage in or use any data mining, robots, scraping or similar data gathering or extraction methods, including for any purposes related to AI machine learning/use on AI platforms. Any use of the Service or the Service Materials other than as specifically authorized herein is strictly prohibited
 
   
 
