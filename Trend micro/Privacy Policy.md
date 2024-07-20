@@ -452,13 +452,13 @@ search close
                 
                 [Learn more](https://www.trendmicro.com/content/trendmicro/en_us/business/products/iot/industrial-endpoint-security)
                 
-    * [Threat Intelligence](https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/threat-intelligence.html)
+    * [Threat Insights](https://www.trendmicro.com/en_us/business/products/one-platform/threat-insights.html)
         
-        * Threat Intelligence
+        * Threat Insights
             
-            Keep ahead of the latest threats and protect your critical data with ongoing threat prevention and analysis
+            See threats coming from miles away
             
-            [Learn more](https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/threat-intelligence.html)
+            [Learn more](https://www.trendmicro.com/en_us/business/products/one-platform/threat-insights.html)
             
     * [Identity Security](https://www.trendmicro.com/en_us/business/products/identity.html)
         
@@ -876,7 +876,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-3 Alerts
+4 Alerts
 
 Back
 
@@ -884,15 +884,18 @@ Unread
 
 All
 
-* [Ransomware in Q1 2024: Report on Phobos, LockBit, and other critical threats](https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-the-numbers/phobos-emerges-as-a-formidable-threat-in-q1-2024-lockbit-stays-in-the-top-spot)close
+* [Noodle RAT: Analyzing the malware empowering Chinese threat actors](https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html)close
     
-    [Read report >](https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-the-numbers/phobos-emerges-as-a-formidable-threat-in-q1-2024-lockbit-stays-in-the-top-spot)
-* [Deepfakes and AI-driven disinformation threaten polls](https://www.trendmicro.com/en_us/research/24/e/poll-security.html)close
+    [Learn more >](https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html)
+* [Not just another 100% score: Trend aces MITRE ENGENUITY ATT&CK](https://www.trendmicro.com/en_us/research/24/f/mitre-enginuity-attack-evaluations.html)close
     
-    [Get the facts >](https://www.trendmicro.com/en_us/research/24/e/poll-security.html)
-* [Report on the email threat landscape](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/email-threat-landscape-report-2023)close
+    [See how >](https://www.trendmicro.com/en_us/research/24/f/mitre-enginuity-attack-evaluations.html)
+* [Preventing malicious alterations to local AI models](https://www.trendmicro.com/vinfo/us/security/news/security-technology/guarding-ai-models-from-malicious-alterations-in-the-ai-pc-era)close
     
-    [Learn the latest defense strategies >](https://www.trendmicro.com/vinfo/us/security/news/threat-landscape/email-threat-landscape-report-2023)
+    [See best practices >](https://www.trendmicro.com/vinfo/us/security/news/security-technology/guarding-ai-models-from-malicious-alterations-in-the-ai-pc-era)
+* [Commando Cat: Uncovering a novel cryptojacking attack on Docker](https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html)close
+    
+    [Learn how >](https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html)
 
 Support
 
@@ -1368,6 +1371,8 @@ close
 * [Việt Nam](https://www.trendmicro.com/vi_vn.html)
 
 [Privacy](https://www.trendmicro.com/en_us/about/trust-center/privacy.html "privacy") **|** [Legal](https://www.trendmicro.com/en_us/about/legal.html "Legal") **|** [Accessibility](https://www.trendmicro.com/en_us/about/legal/accessibility-policy.html "Accessibility") **|** [Site map](https://www.trendmicro.com/en_us/business/sitemap.html "Site map")
+
+Copyright ©2024 Trend Micro Incorporated. All rights reserved
 
 Copyright ©2024 Trend Micro Incorporated. All rights reserved
 
