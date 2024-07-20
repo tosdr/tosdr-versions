@@ -176,7 +176,7 @@ Monday
 
 Get started now
 
-![](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637c8457e710100ea0d5259b_arrow%20right.svg)](https://app.shortcut.com/public-docs/settings/import)
+![](https://cdn.prod.website-files.com/6372338e5477e047032b37a5/637c8457e710100ea0d5259b_arrow%20right.svg)](https://shortcut.com/signup)
 
 [Log in](https://app.shortcut.com/login)[Sign up for FREE](https://shortcut.com/signup)
 
