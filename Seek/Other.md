@@ -416,8 +416,6 @@ International partners
 
 [Bdjobs (Bangladesh)](https://www.bdjobs.com/)
 
-[Catho (Brazil)](https://www.catho.com.br/)
-
 [Jobsdb (SE Asia)](https://www.jobsdb.com/)
 
 [Jobstreet (SE Asia)](https://www.jobstreet.com/)
@@ -425,8 +423,6 @@ International partners
 [Jora (Australia)](https://au.jora.com/)
 
 [Jora (Worldwide)](https://jora.com/)
-
-[OCC Mundial (Mexico)](https://www.occ.com.mx/)
 
 Partner services
 
