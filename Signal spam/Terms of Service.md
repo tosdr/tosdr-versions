@@ -5,73 +5,76 @@
 * Pourquoi signaler
     
     Close Pourquoi signaler Open Pourquoi signaler
+    
+    ![](https://www.signal-spam.fr/wp-content/uploads/illustration-lutte-contre-le-spam-1-1.svg)
+    
+    **Comprendre les menaces**
+    
+    Appréhendez les cybermenaces dont l’e-mail est le vecteur
+    
+    **Actions Signal Spam**
+    
+    Découvrez nos actions de lutte contre le spam et la cybercriminalité
+    
 * Comment signaler
     
     Close Comment signaler Open Comment signaler
+    
+    ### [Modules Signal Spam](https://www.signal-spam.fr/nos-modules/)
+    
+    Découvrez l’ensemble de nos plugins et téléchargez-les !
+    
+    ![](https://www.signal-spam.fr/wp-content/uploads/inscription-signal-spam-1.svg)
+    
+    ### Ressources
+    
+    **Parcours Signalant**
+    
+    Un guide étape-par-étape pour commencer
+    
+    **Tutoriels**
+    
+    Guide d’installation et d’utilisation
+    
+    **Foire aux questions**
+    
+    **Glossaire de la cybersécurité**
+    
+    **Support**
+    
+    **Baromètre**
+    
+    Découvrez le baromètre trimestriel du spam
+    
 * A propos
     
     Close A propos Open A propos
-
-![](https://www.signal-spam.fr/wp-content/uploads/illustration-lutte-contre-le-spam-1-1.svg)
-
-**Comprendre les menaces**
-
-Appréhendez les cybermenaces dont l’e-mail est le vecteur
-
-**Actions Signal Spam**
-
-Découvrez nos actions de lutte contre le spam et la cybercriminalité
-
-### [Modules Signal Spam](https://www.signal-spam.fr/nos-modules/)
-
-Découvrez l’ensemble de nos plugins et téléchargez-les !
-
-![](https://www.signal-spam.fr/wp-content/uploads/inscription-signal-spam-1.svg)
-
-### Ressources
-
-**Parcours Signalant**
-
-Un guide étape-par-étape pour commencer
-
-**Tutoriels**
-
-Guide d’installation et d’utilisation
-
-**Foire aux questions**
-
-**Glossaire de la cybersécurité**
-
-**Support**
-
-**Baromètre**
-
-Découvrez le baromètre trimestriel du spam
-
-### L'Actualité
-
-**Baromètre**
-
-Découvrez le baromètre trimestriel du spam
-
-![](https://www.signal-spam.fr/wp-content/uploads/Membre.svg)
-
-### Signal Spam
-
-**Qui sommes-nous?  
-**
-
-Découvrez notre association
-
-**Nos membres  
-**
-
-Découvrez l’éco-système Signal Spam
-
-**Nous rejoindre  
-**
-
-Espace réservé à tout organisme public ou privé souhaitant rejoindre Signal Spam
+    
+    ### L'Actualité
+    
+    **Baromètre**
+    
+    Découvrez le baromètre trimestriel du spam
+    
+    ![](https://www.signal-spam.fr/wp-content/uploads/Membre.svg)
+    
+    ### Signal Spam
+    
+    **Qui sommes-nous?  
+    **
+    
+    Découvrez notre association
+    
+    **Nos membres  
+    **
+    
+    Découvrez l’éco-système Signal Spam
+    
+    **Nous rejoindre  
+    **
+    
+    Espace réservé à tout organisme public ou privé souhaitant rejoindre Signal Spam
+    
 
 Rechercher
 
