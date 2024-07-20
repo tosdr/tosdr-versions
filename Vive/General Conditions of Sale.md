@@ -45,7 +45,7 @@ Search
 
 [Solutions for VR Products](https://www.vive.com/uk/solution/vive-streaming/)
 
-[Solutions for VR Products](https://www.vive.com/uk/solution/vive-streaming/) [VIVE Streaming](https://www.vive.com/uk/solution/vive-streaming/)
+[Solutions for VR Products](https://www.vive.com/uk/solution/vive-streaming/) [VIVE Streaming](https://www.vive.com/uk/solution/vive-streaming/) [VIVE Desk](https://www.vive.com/uk/solution/vive-desk/)
 
 [Virtual Production](https://mars.vive.com/)
 
@@ -62,6 +62,10 @@ Search
 [Setup | Download](https://www.vive.com/uk/setup/)
 
 [Contact Us](https://contact.vive.com/hc/en-gb)
+
+Shop/Offers
+
+[Offers](https://www.vive.com/uk/shop/offers/)
 
 [Shop](https://myshop.vive.com/vive_uk/)
 
@@ -210,7 +214,7 @@ Search our articles or browse by category below.
 
 Search
 
-![Loading...](https://myshop.vive.com/static/version1718614208/frontend/Magento/vive2/en_US/images/loader-1.gif)
+![Loading...](https://myshop.vive.com/static/version1721030162/frontend/Magento/vive2/en_US/images/loader-1.gif)
 
 #### [Returns and Cancellations (3)](https://myshop.vive.com/vive_uk/faq/category/return-cancellation)
 
