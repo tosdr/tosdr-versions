@@ -2,7 +2,7 @@
 
 [Skip to Main Navigation](#main)
 
-[![The World Bank Group logo](/content/dam/wbr/logo/logo-wb-header-en.svg "The World Bank Group logo")](https://www.worldbank.org/)
+[![The World Bank Group logo](/content/dam/sites/academy/img/2024/wbglogo.svg "The World Bank Group logo")](https://www.worldbank.org/)
 
 Global Search
 
@@ -90,7 +90,7 @@ Global Search
     * [By Theme](https://projects.worldbank.org/theme?lang=en&page=)
     * [Country Engagement](https://www.worldbank.org/en/projects-operations/country-strategies)
     * [Environmental and Social Policies for Projects](https://www.worldbank.org/en/projects-operations/environmental-and-social-policies)
-    * [Procurement for Projects and Programs](https://www.worldbank.org/en/projects-operations/products-and-services/procurement-projects-programs)
+    * [Operations Procurement for IPF Projects](https://www.worldbank.org/en/projects-operations/products-and-services1/Suppliers-Hub)
     * [Results](https://www.worldbank.org/en/results)
     
     Priorities
@@ -134,6 +134,7 @@ Global Search
     * [Argentina](https://www.worldbank.org/en/where-we-work/argentina)
         * [Español](https://www.bancomundial.org/es/country/argentina)
     * [Armenia](https://www.worldbank.org/en/where-we-work/armenia)
+    * [Australia](https://www.worldbank.org/en/where-we-work/australia)
     * [Austria](https://www.worldbank.org/en/where-we-work/austria)
     * [Azerbaijan](https://www.worldbank.org/en/where-we-work/azerbaijan)
     * [Bahrain](https://www.worldbank.org/en/country/gcc)
@@ -201,7 +202,7 @@ Global Search
         * [Español](https://www.bancomundial.org/es/country/elsalvador)
     * [Equatorial Guinea](https://www.worldbank.org/en/where-we-work/equatorialguinea)
     * [Eritrea](https://www.worldbank.org/en/where-we-work/eritrea)
-    * [Estonia](https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics)
+    * [Estonia](https://www.worldbank.org/en/country/estonia)
     * [Ethiopia](https://www.worldbank.org/en/where-we-work/ethiopia)
     * [Europe (Western)](https://www.worldbank.org/en/where-we-work/westerneurope)
     * [Fiji](https://www.worldbank.org/en/where-we-work/pacificislands)
@@ -253,14 +254,14 @@ Global Search
     * [Kyrgyz Republic](https://www.worldbank.org/en/where-we-work/kyrgyzrepublic)
         * [Русский](https://www.vsemirnyjbank.org/ru/country/kyrgyzrepublic)
     * [Lao PDR](https://www.worldbank.org/en/where-we-work/lao)
-    * [Latvia](https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics)
+    * [Latvia](https://www.worldbank.org/en/country/latvia)
     * [Lebanon](https://www.worldbank.org/en/where-we-work/lebanon)
         * [عربي](https://www.albankaldawli.org/ar/country/lebanon)
     * [Lesotho](https://www.worldbank.org/en/where-we-work/lesotho)
     * [Liberia](https://www.worldbank.org/en/where-we-work/liberia)
     * [Libya](https://www.worldbank.org/en/where-we-work/libya)
         * [عربي](https://www.albankaldawli.org/ar/country/libya)
-    * [Lithuania](https://www.worldbank.org/en/where-we-work/centraleuropeandthebaltics)
+    * [Lithuania](https://www.worldbank.org/en/country/lithuania)
     * [Luxembourg](https://www.worldbank.org/en/where-we-work/luxembourg)
         * [Français](https://www.banquemondiale.org/fr/country/luxembourg)
     * [FYR of Macedonia](https://www.worldbank.org/en/where-we-work/macedonia)
@@ -428,15 +429,15 @@ Global Search
     
     Development Topics
     
-    * [Climate Change](https://www.worldbank.org/en/topic/climatechange)
-    * [Agriculture and Food](https://www.worldbank.org/en/topic/agriculture)
-    * [Fragility, Conflict, and Violence](https://www.worldbank.org/en/topic/fragilityconflictviolence)
-    * [Poverty](https://www.worldbank.org/en/topic/poverty)
-    * [Debt](https://www.worldbank.org/en/topic/debt)
+    * [Agriculture](https://www.worldbank.org/en/topic/agriculture/overview)
+    * [Climate](https://www.worldbank.org/en/topic/climatechange)
+    * [Digital Transformation](https://www.worldbank.org/en/topic/digitaldevelopment)
     * [Education](https://www.worldbank.org/en/topic/education)
-    * [Health](https://www.worldbank.org/en/topic/health)
     * [Energy](https://www.worldbank.org/en/topic/energy)
-    * [Food Security](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update)
+    * [Gender](https://www.worldbank.org/en/topic/gender)
+    * [Health](https://www.worldbank.org/en/topic/health)
+    * [Poverty](https://www.worldbank.org/en/topic/poverty)
+    * [Transport](https://www.worldbank.org/en/topic/transport)
     * [All Development Topics](https://www.worldbank.org/en/topic)
     
     * * *
@@ -469,6 +470,7 @@ Global Search
     For Learners
     
     * [Open Learning Campus](https://olc.worldbank.org/)
+    * [World Bank Group Academy](https://academy.worldbank.org/en/home)
     
     Meet Us
     
@@ -600,6 +602,7 @@ Follow us
 * [![World Bank instagram page](/content/dam/wbr-redesign/icons/instagram.svg)](https://instagram.com/worldbank/)
 * [![World Bank youtube page](/content/dam/wbr-redesign/icons/youtube.svg)](https://www.youtube.com/user/WorldBank)
 * [![World Bank flickr page](/content/dam/wbr-redesign/icons/flickr.svg)](https://www.flickr.com/photos/worldbank)
+* [![World Bank Whatsapp page](/content/dam/wbr-redesign/icons/whatsup.svg)](https://www.whatsapp.com/channel/0029VaeLyAgAojYvg7Wbr91k)
 
 newsletter
 
