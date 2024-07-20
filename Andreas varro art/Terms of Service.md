@@ -255,7 +255,7 @@ Info@andreasvarro.com**
 
 **‍**
 
-© Andreas Varro, all rights reserved. Images on this website cannot be distributed or used, in any way, without the artist's permission. All portrait images of the artist are photographed by [Lena Larsson](https://lenalarsson.com/).
+© Andreas Varro, all rights reserved. Images on this website cannot be distributed or used, in any way, without the artist's permission. All portrait images of the artist are photographed by [Lena Larsson](https://www.lenalarsson.com/).
 
 [Sign up](https://www.andreasvarro.com/sign-up)
 
