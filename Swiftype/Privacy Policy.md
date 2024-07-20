@@ -90,6 +90,7 @@ Prototype and integrate with LLMs faster using search AI.
 
 * [Search AI Lake](https://www.elastic.co/generative-ai/search-ai-lake)
 * [Elastic AI Assistant](https://www.elastic.co/elasticsearch/ai-assistant)
+* [Retrieval Augmented Generation](https://www.elastic.co/enterprise-search/rag)
 
 * * *
 
@@ -104,7 +105,7 @@ Prototype and integrate with LLMs faster using search AI.
 
 Discover a world of AI possibilities — built with the power of search.
 
-* [Vector search](https://www.elastic.co/enterprise-search/vector-search)
+* [Vector database](https://www.elastic.co/elasticsearch/vector-database)
 * [Relevance](https://www.elastic.co/enterprise-search/relevance)
 * [Search applications](https://www.elastic.co/enterprise-search/search-applications)
 * [Ecommerce](https://www.elastic.co/enterprise-search/ecommerce)
@@ -189,15 +190,15 @@ Cisco saves 5,000 support engineer hours per month
 
 [Read more](https://www.elastic.co/customers/cisco)
 
-![](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt7ff1ccfd985c417e/650c1da0aa86c1030ccc2891/logo-nav-dropdown-48x48-rwe.svg)
+![](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte788c0f923f209a3/668c49f5534bb913eb26e9e8/logo-dropdown-48x48-sitecore.svg)
 
-RWE unifies thousands of data sources into an observability platform
+Sitecore automates 96 percent of security workflows with Elastic
 
-[Read more](https://www.elastic.co/customers/rwest)
+[Read more](https://www.elastic.co/customers/sitecore-security)
 
 ![](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt90a52ed02808cbc1/650c1dadb25642d90add1e4e/logo-nav-dropdown-48x48-comcast.svg)
 
-RWE unifies thousands of data sources into an observability platform
+Comcast transforms customer experiences with Elastic Observability
 
 [Read more](https://www.elastic.co/customers/comcast)
 
@@ -257,7 +258,7 @@ Have questions?
 * [Contact sales](https://www.elastic.co/contact?storm=global-header-en)
 * [Get support](https://www.elastic.co/support)
 
-[Pricing](https://www.elastic.co/pricing)[Docs](https://www.elastic.co/guide/index.html)
+[Pricing](https://www.elastic.co/pricing)[Docs](https://www.elastic.co/docs)
 
 General Privacy Statement
 =========================
