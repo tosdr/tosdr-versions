@@ -39,7 +39,7 @@ Search for:
 
 ### Login Form
 
-Username(Required)
+Username/Email(Required)
 
 Password(Required)
 
@@ -125,3 +125,13 @@ email: copyright@reason.com
 [© 2024 Reason Foundation](https://reason.org/) | [Accessibility](https://reason.com/accessibility/) | [Privacy Policy](https://reason.com/privacy/) | [Terms Of Use](https://reason.com/terms-of-use/)
 
 This site is protected by reCAPTCHA and the Google [**Privacy Policy**](https://policies.google.com/privacy) and [**Terms of Service**](https://policies.google.com/terms) apply.
+
+![Reason Plus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Reason Plus](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./reason-plus-logo_fa18e919.svg)
+
+#### Go ad-free with Reason Plus.
+
+And get unlimited access to _everything_ at reason.com.
+
+[Learn More](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=popup&utm_medium=internal_ad&utm_campaign=reason_plus)
