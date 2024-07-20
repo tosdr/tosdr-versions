@@ -1,5 +1,3 @@
-This app works best with JavaScript enabled.
-
 Toggle navigation[![](/assets/images/elements/redash-logo.svg)](https://redash.io/)
 
 * [Product](https://redash.io/product/)
@@ -62,7 +60,7 @@ You can review all your information using Redash’s web application.
 
 ### How Can You Remove Your Information?
 
-Should you request to remove your account, please contact Redash at support@redash.io.
+Should you request to remove your account, please contact Redash at [support@redash.io](mailto:support@redash.io).
 
 ### Can Redash Contact You?
 
@@ -70,7 +68,7 @@ Redash may send you periodic updates regarding the service, your use and other i
 
 ### What Can You Do If You Feel That Your Privacy Was Violated?
 
-If you feel your privacy was compromised, you can contact Redash’s privacy officer at team@redash.io and request that he’ll review your complaint.
+If you feel your privacy was compromised, you can contact Redash’s privacy officer at [team@redash.io](mailto:team@redash.io) and request that he’ll review your complaint.
 
 ### Redash
 
