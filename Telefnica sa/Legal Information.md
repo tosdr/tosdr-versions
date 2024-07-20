@@ -2,7 +2,7 @@
 
 Buscar 
 
-[Telefónica](https://www.telefonica.com/es/)
+[Telefónica ![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany.svg)](https://www.telefonica.com/es/) 
 
 Telefonica.com
 
@@ -195,6 +195,8 @@ Todos los derechos reservados.
 11. Todo enlace de terceros a esta web debe serlo a su página principal o de entrada.
 12. Telefónica S.A. y el usuario, con renuncia expresa a cualquier otro fuero, se someten al de los juzgados y tribunales del domicilio del usuario para cualquier controversia que pudiera derivarse del acceso a esta web. En el caso de que el usuario tenga su domicilio fuera de España, Telefónica S.A. y el usuario se someten, con renuncia expresa a cualquier otro fuero, a los juzgados y tribunales de la ciudad de Madrid (España).
 
+![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/svg/logo-germany-white.svg)
+
 Hacer nuestro mundo más humano, conectando la vida de las personas.
 
 * [facebook](https://www.facebook.com/telefonica)
@@ -206,7 +208,7 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [Países](https://www.telefonica.com/es/nosotros/paises-unidades-emergentes/)
 * [Contacto](https://www.telefonica.com/es/contacto/)
 
-[Volver a la portada](https://www.telefonica.com/es/)
+[![](https://www.telefonica.com/es/wp-content/themes/telefonica-theme/img/png/bola-blanca.png)Volver a la portada](https://www.telefonica.com/es/)
 
 [Subir](#page)
 
