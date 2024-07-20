@@ -1,16 +1,17 @@
 [![Logo Upside](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64c1a62413b572ad7b845e4a_logo-upside.svg)](https://www.upside.com/)
 
-[![Upside Logo Black](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64f22362aad6914b12d4833d_upside-logo-black.svg)](#)![](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6439d7fad7203224a0132d15_close-black.svg)
+[![Upside Logo Black](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64c1a62413b572ad7b845e4a_logo-upside.svg)](#)![](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6686bca053a283faa343384b_menu-close-button.svg)
 
-* [Offers near you](https://www.upside.com/find-offers)
-* [Upside for Business](https://www.upside.com/business)
+* [Find offers near you](https://www.upside.com/find-offers)
 * [Customer support](https://support.upside.com/hc/en-us)
 
-[Get the app](https://upside.app.link/yWesndCrXxb)
+[Get the app](https://upside.app.link/cf39NBorXxb)[For business](https://www.upside.com/business)
+
+[For business](https://www.upside.com/business)[Get the app](https://upside.app.link/yWesndCrXxb)
 
 [Get the app](https://upside.app.link/yWesndCrXxb)
 
-![Icon Menu Mobile - Upside](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6401580781fc621aba401d40_icon-menu-mobile.svg)
+![](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6686bbe96b6ffa4fabbd10c7_menu-open-button.svg)
 
 Want a year of FREE\* gas? Enter [here](https://www.upside.com/all-the-fills-contest) for a chance to win.
 
@@ -612,7 +613,7 @@ Please contact us at [https://support.upside.com/](https://support.upside.com/) 
 * [Grocery](https://www.upside.com/business/grocery)
 * [Restaurant](https://www.upside.com/business/restaurant)
 * [Resources & insights](https://www.upside.com/business/resources/insights)
-* [Loyalty &](https://www.upside.com/business/loyalty-and-upside)
+* [Customer loyalty](https://www.upside.com/business/loyalty-and-upside)
 * [Dashboard login](https://dashboard.upside-services.com/)
 
 [### Partnerships](https://www.upside.com/partnerships)
