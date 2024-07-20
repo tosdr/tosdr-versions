@@ -16,7 +16,7 @@
 
 * 100% Actueel
 * 517 Datingsites & dating apps
-* 4932 Ervaringen
+* 4966 Ervaringen
 
 [![Welke Online Datingsite](https://welkeonlinedatingsite.nl/wp-content/themes/welke-online-datingsite/images/welke-online-datingsite.svg)](https://welkeonlinedatingsite.nl/)
 
@@ -121,7 +121,7 @@ De nummer 1 datingsite vergelijker!
 
 * 100% Actueel
 * 517 Datingsites & dating apps
-* 4932 Ervaringen
+* 4966 Ervaringen
 
 [](#page)
 
@@ -133,4 +133,4 @@ De nummer 1 datingsite vergelijker!
 * [Contact](https://welkeonlinedatingsite.nl/contact/)
 * [Sitemap](https://welkeonlinedatingsite.nl/sitemap/)
 
-![Cleantalk Pixel](https://moderate8-v4.cleantalk.org/pixel/1f72e5a3964b6018177940996d4032ce.gif "Cleantalk Pixel")       ---
+![Cleantalk Pixel](https://moderate4-v4.cleantalk.org/pixel/e555c248e5be4e2d1390a4da0b8bc1e5.gif "Cleantalk Pixel")       ---
