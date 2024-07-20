@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Defesa Civil de Maceió interdita quatro casas após colapso na grota do Aterro](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/b/csm_Defesa_Civil_interdicao_casas__grota_do_Aterro_-_foto_Defesa_Civil_a51c3877f3.jpeg)
+   [![Cadastro Único Benedito Bentes começa a atender população da parte alta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/8/csm_CAD-Maceio-reproducao-assessoria_7997039ea7.jpeg)
 
-novo mundo
+unidade exclusiva
 
-Defesa Civil de Maceió interdita quatro casas após colapso na grota do Aterro](https://www.tnh1.com.br/noticia/nid/defesa-civil-de-maceio-interdita-quatro-casas-apos-colapso-na-grota-do-aterro/ "Defesa Civil de Maceió interdita quatro casas após colapso na grota do Aterro")   [![São João Maceió: pode levar guarda-chuva e capacete? Veja itens proibidos no Jaraguá](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_Sao_Joao_de_Maceio_-_foto_Secom_Maceio_7147d6c6ae.jpeg)
+Cadastro Único Benedito Bentes começa a atender população da parte alta](https://www.tnh1.com.br/noticia/nid/cadastro-unico-benedito-bentes-comeca-a-atender-populacao-da-parte-alta/ "Cadastro Único Benedito Bentes começa a atender população da parte alta")   [![Vídeos: protesto por falta de água causa bloqueio de trecho da Ladeira do Óleo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_incendio_ladeira_do_oleo_-protesto_-_foto_divulgacao_6b0d101b59.jpg)
 
-Maceió
+população na bronca
 
-São João Maceió: pode levar guarda-chuva e capacete? Veja itens proibidos no Jaraguá](https://www.tnh1.com.br/noticia/nid/sao-joao-maceio-pode-levar-guarda-chuva-e-capacete-veja-itens-proibidos-no-jaragua/ "São João Maceió: pode levar guarda-chuva e capacete? Veja itens proibidos no Jaraguá")   [![Descarte de fardamentos: IMA deve multar empresa e Polícia quer ouvir os responsáveis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/8/csm_Policia_vai_a_local_de_descarte_de_fardamentos_no_lixo_reproducao_TV_Pajucara_0e29873733.jpg)
+Vídeos: protesto por falta de água causa bloqueio de trecho da Ladeira do Óleo](https://www.tnh1.com.br/noticia/nid/videos-protesto-por-falta-de-agua-causa-bloqueio-de-trecho-da-ladeira-do-oleo/ "Vídeos: protesto por falta de água causa bloqueio de trecho da Ladeira do Óleo")   [![Braskem planta mais de 1.800 árvores em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_braskem-plantio-maceio_812323a866.jpeg)
 
 Meio Ambiente
 
-Descarte de fardamentos: IMA deve multar empresa e Polícia quer ouvir os responsáveis](https://www.tnh1.com.br/noticia/nid/descarte-de-fardamentos-ima-deve-multar-empresa-e-policia-quer-ouvir-os-responsaveis/ "Descarte de fardamentos: IMA deve multar empresa e Polícia quer ouvir os responsáveis")   [![São João vai interditar trânsito em 14 pontos de Maceió; veja rotas alternativas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/6/csm_30-06-23-Sao-Joao-Benedito-Bentes-DMTT-Por-Evinho-Silva-57_783098300d.jpg)
+Braskem planta mais de 1.800 árvores em Maceió](https://www.tnh1.com.br/noticia/nid/braskem-planta-mais-de-1800-arvores-em-maceio/ "Braskem planta mais de 1.800 árvores em Maceió")   [![Homem é preso em flagrante por armazenar e compartilhar cenas de abuso sexual infantil](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/c/csm_operacao_ponto_a_ponto_5_policia_federal_b5f6f68318.jpeg)
 
-Trânsito
+Operação Ponto a Ponto
 
-São João vai interditar trânsito em 14 pontos de Maceió; veja rotas alternativas](https://www.tnh1.com.br/noticia/nid/sao-joao-vai-interditar-transito-em-14-pontos-de-maceio-veja-rotas-alternativas/ "São João vai interditar trânsito em 14 pontos de Maceió; veja rotas alternativas")   [![Boto cinza encalha e morre na praia de Garça Torta, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/9/csm_boto_encontrado_morto_-_biota_f65f88fd31.jpg)
+Homem é preso em flagrante por armazenar e compartilhar cenas de abuso sexual infantil](https://www.tnh1.com.br/noticia/nid/homem-e-preso-em-flagrante-por-armazenar-e-compartilhar-cenas-de-abuso-sexual-infantil/ "Homem é preso em flagrante por armazenar e compartilhar cenas de abuso sexual infantil")   [![Jovem em situação de rua é atacado de surpresa e esfaqueado nas costas no Barro Duro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_csm_UPA_do_Jacintinho_-_Foto_Carla_Cleto_3389c59758_58f78e3eba.jpg)
 
-achado em areia
+Foi socoriddo
 
-Boto cinza encalha e morre na praia de Garça Torta, em Maceió](https://www.tnh1.com.br/noticia/nid/boto-cinza-encalha-e-morre-na-praia-de-garca-torta-em-maceio/ "Boto cinza encalha e morre na praia de Garça Torta, em Maceió")   [![São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; veja linhas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_Prefeito_JHC_Sao_Joao_Massayo_0a98ea15d6.jpeg)
+Jovem em situação de rua é atacado de surpresa e esfaqueado nas costas no Barro Duro](https://www.tnh1.com.br/noticia/nid/jovem-em-situacao-de-rua-e-atacado-de-surpresa-e-esfaqueado-nas-costas-no-barro-duro/ "Jovem em situação de rua é atacado de surpresa e esfaqueado nas costas no Barro Duro")   [![Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta Verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/f/csm_Turista_Queda_007282610e.jpeg)
 
-começa sábado
+Maceió
 
-São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; veja linhas](https://www.tnh1.com.br/noticia/nid/sao-joao-massayo-tera-onibus-gratuitos-para-jaragua-e-benedito-bentes-veja-linhas/ "São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; veja linhas")
+Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta Verde](https://www.tnh1.com.br/noticia/nid/turista-argentina-fica-ferida-ao-cair-de-patinete-no-marco-dos-corais-em-ponta-verde/ "Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta Verde")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ São João Massayó terá ônibus gratuitos para Jaraguá e Benedito Bentes; vej
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Novo posto de atendimento do Instituto de Identificação é inaugurado em Paripueira](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/9/csm_posto_de_atendimento_instituto_de_identificacao_secom_alagoas_3de53d1d41.jpg)
+   [![Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_csm_Praia_de_Jatiuca_-_Foto_Paulo_Victor_Malta_-_TNH1_c4dfd843cf_a1cae05989.jpeg)
 
-nesta quinta (20)
+balneabilidade
 
-Novo posto de atendimento do Instituto de Identificação é inaugurado em Paripueira](https://www.tnh1.com.br/noticia/nid/novo-posto-de-atendimento-do-instituto-de-identificacao-e-inaugurado-em-paripueira/ "Novo posto de atendimento do Instituto de Identificação é inaugurado em Paripueira")   [![Quatro pessoas tentam tirar registro de educação física com diplomas falsos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/d/csm_educacao_fisica_freepik_1955cf5b0e.jpg)
+Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-sao-os-10-trechos-improprios-para-banho-no-litoral-de-alagoas/ "Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas")   [![Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_Chuva_e_sol_em_Maceio_-_foto_TNH1_b1c9b7c5ca.jpeg)
 
-em alagoas
+confira a lista
 
-Quatro pessoas tentam tirar registro de educação física com diplomas falsos](https://www.tnh1.com.br/noticia/nid/quatro-pessoas-tentam-tirar-registro-de-educacao-fisica-com-diplomas-falsos/ "Quatro pessoas tentam tirar registro de educação física com diplomas falsos")   [![Alagoas é o 2º estado do Nordeste com mais tremores de terra em 2024, aponta LabSis](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/f/csm_ultimo_tremor_em_al_d1ca29bc1c.jpeg)
-
-veja total
-
-Alagoas é o 2º estado do Nordeste com mais tremores de terra em 2024, aponta LabSis](https://www.tnh1.com.br/noticia/nid/alagoas-e-o-2o-estado-do-nordeste-com-mais-tremores-de-terra-em-2024-aponta-labsis/ "Alagoas é o 2º estado do Nordeste com mais tremores de terra em 2024, aponta LabSis")   [![Saiba quais são os perigos das fumaças de fogueiras e fogos de artifício](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/b/csm_pneumologista-do-hge-alerta-para-o-perigo-das-fumacas-de-fogueiras-e-fogos-de-artificio_2e695f18a8.jpg)
+Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://www.tnh1.com.br/noticia/nid/inmet-dispara-alerta-de-chuvas-para-58-cidades-de-alagoas-ate-a-noite-de-sabado/ "Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado")   [![Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/c/csm_feira_discos_arapiraca_7e0dff3399.jpeg)
 
 Alagoas
 
-Saiba quais são os perigos das fumaças de fogueiras e fogos de artifício](https://www.tnh1.com.br/noticia/nid/saiba-quais-sao-os-perigos-das-fumacas-de-fogueiras-e-fogos-de-artificio/ "Saiba quais são os perigos das fumaças de fogueiras e fogos de artifício")   [![Prazos processuais serão suspensos a partir desta sexta; entenda o recesso da Justiça ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_Forum_Tribunal_de_Justica_-_foto_Caio_Loureiro_-_TJAL_3d7b0685cd.jpg)
+Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://www.tnh1.com.br/noticia/nid/feira-de-discos-de-arapiraca-traz-venda-de-raridades-e-shows-gratuitos-neste-sabado/ "Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado")   [![Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_chuva_-_maceio_-_foto_caio_lui_tv_pajucara_6c746bf479.jpeg)
 
-regime de plantão
+programe-se
 
-Prazos processuais serão suspensos a partir desta sexta; entenda o recesso da Justiça](https://www.tnh1.com.br/noticia/nid/prazos-processuais-serao-suspensos-a-partir-desta-sexta-entenda-o-recesso-da-justica/ "Prazos processuais serão suspensos a partir desta sexta; entenda o recesso da Justiça ")   [![Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tema de oficina](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/3/csm_Destaladeiras_de_fumo_de_Arapiraca__Reproduc__a__o_TVBrasil_6733ab5c23.jpeg)
+Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões](https://www.tnh1.com.br/noticia/nid/final-de-semana-tem-minima-de-18o-c-em-alagoas-confira-a-previsao-para-todas-as-regioes/ "Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ")    [![Apagão cibernético afeta serviços bancários em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_uso_de_smartphone_e_celular050720211245-agencia-brasil_d6d4ee75de.jpg)
 
 Alagoas
 
-Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tema de oficina](https://www.tnh1.com.br/noticia/nid/os-canticos-das-destaladeiras-de-fumo-e-coco-de-roda-cultura-do-agreste-e-tema-de-oficina/ "Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tema de oficina")
+Apagão cibernético afeta serviços bancários em Alagoas](https://www.tnh1.com.br/noticia/nid/apagao-cibernetico-afeta-servicos-bancarios-em-alagoas/ "Apagão cibernético afeta serviços bancários em Alagoas")   [![Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibernético, diz Aena](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/1/csm_csm_Aeroporto_Zumbi_dos_Palmares-SEMTEL-fotos-Jonathan-Lins-6_d26fca10ce_6d07057cc2.jpg)
+
+Sem problemas
+
+Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibernético, diz Aena](https://www.tnh1.com.br/noticia/nid/aeroporto-zumbi-dos-palmares-esta-funcionando-normalmente-apos-apagao-cibernetico-diz-aena/ "Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibernético, diz Aena")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Os cânticos das destaladeiras de fumo e coco de roda: cultura do Agreste é tem
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [!["Terminar o serviço": suspeito de ameaçar a ex-mulher e jogar carro contra ela é preso](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/3/csm_csm_viatura_Policia_Civil_AL_6cb24d60b2__2__0e1eae4be8.jpeg)
+   [![Policial que fez sexo com mulher na areia da praia de Ponta Verde é indiciado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_sexo-praia-ponta-verde-reproducao_f141a9cdf8.png)
 
-em pilar
+turista
 
-"Terminar o serviço": suspeito de ameaçar a ex-mulher e jogar carro contra ela é preso](https://www.tnh1.com.br/noticia/nid/terminar-o-servico-suspeito-de-ameacar-a-ex-mulher-e-jogar-carro-contra-ela-e-preso/ ""Terminar o serviço": suspeito de ameaçar a ex-mulher e jogar carro contra ela é preso")   [![Motorista é preso por receptação e alega que patrão comprou carro roubado um dia antes, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/b/csm_apreensao_jetta_prf_109924b646.jpeg)
+Policial que fez sexo com mulher na areia da praia de Ponta Verde é indiciado](https://www.tnh1.com.br/noticia/nid/policial-que-fez-sexo-com-mulher-na-areia-da-praia-de-ponta-verde-e-indiciado/ "Policial que fez sexo com mulher na areia da praia de Ponta Verde é indiciado")   [![Mulher morta a facadas e deixada em carro abandonado estava sem calças; polícia suspeita de estupro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_mulher_morta_em_sao_paulo_-_foto_arquivo_pessoal_eac4c281e7.jpg)
 
-Parado em BR
+Em São Paulo
 
-Motorista é preso por receptação e alega que patrão comprou carro roubado um dia antes, em Alagoas](https://www.tnh1.com.br/noticia/nid/motorista-e-preso-por-receptacao-e-alega-que-patrao-comprou-carro-roubado-um-dia-antes-em-alagoas/ "Motorista é preso por receptação e alega que patrão comprou carro roubado um dia antes, em Alagoas")   [![Idosa morre ao sofrer golpe de machado na cabeça no interior de Alagoas; marido fugiu](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/5/csm_casa_idosa_morte_novo_lino_-_foto_ascom_pc_f24d2d952f.jpeg)
+Mulher morta a facadas e deixada em carro abandonado estava sem calças; polícia suspeita de estupro](https://www.tnh1.com.br/noticia/nid/mulher-morta-a-facadas-e-deixada-em-carro-abandonado-estava-sem-calcas-policia-suspeita-de-estupro/ "Mulher morta a facadas e deixada em carro abandonado estava sem calças; polícia suspeita de estupro")   [![Mais de 30 kg de maconha são apreendidos em residencial de Arapiraca; traficante é preso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_grande_apreensao_maconha_-_foto_pm_5abefe8422.jpg)
 
-novo lino
+45 dias investigando
 
-Idosa morre ao sofrer golpe de machado na cabeça no interior de Alagoas; marido fugiu](https://www.tnh1.com.br/noticia/nid/idosa-morre-ao-sofrer-golpe-de-machado-na-cabeca-no-interior-de-alagoas-marido-fugiu/ "Idosa morre ao sofrer golpe de machado na cabeça no interior de Alagoas; marido fugiu")   [![Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/6/csm_livia_loise_-_foto_reproducao_arquivo_pessoal_7947bc9cf0.jpg)
+Mais de 30 kg de maconha são apreendidos em residencial de Arapiraca; traficante é preso](https://www.tnh1.com.br/noticia/nid/mais-de-30-kg-de-maconha-sao-apreendidos-em-residencial-de-arapiraca-traficante-e-preso/ "Mais de 30 kg de maconha são apreendidos em residencial de Arapiraca; traficante é preso")   [![Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_video_tiros_ponta_grossa_24-4-24_c505279436.jpg)
 
-pancada na cabeça
+fez tocaia
 
-Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://www.tnh1.com.br/noticia/nid/crime-ou-acidente-policia-investiga-queda-de-coqueiro-que-matou-empresaria-em-alagoas/ "Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas")   [![Suspeitos de furto levam objetos de buffet em sacolas, mas são localizados e presos em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/5/csm_csm_csm_csm_Delegacia_de_Palmeira_dos_Indios__Ascom_PC_ed2fb4d399_9d45e2e29c_2996738e71_f8bd69d312.jpg)
+Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto](https://www.tnh1.com.br/noticia/nid/crime-na-ponta-grossa-veja-o-que-disse-enteado-segundos-antes-de-matar-padrasto/ "Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ")   [![Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_csm_assassinato_ponta_grossa_735c862428_8a37fdb4b1.jpg)
 
-No Agreste
+suspeito de 29 anos
 
-Suspeitos de furto levam objetos de buffet em sacolas, mas são localizados e presos em Alagoas](https://www.tnh1.com.br/noticia/nid/suspeitos-de-furto-levam-objetos-de-buffet-em-sacolas-mas-sao-localizados-e-presos-em-alagoas/ "Suspeitos de furto levam objetos de buffet em sacolas, mas são localizados e presos em Alagoas")   [![Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Campo Alegre](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/e/csm_apreensao_moto_ascom_pc-al_19f5c017e8.jpg)
+Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://www.tnh1.com.br/noticia/nid/policia-prende-jovem-que-matou-padrasto-com-tiro-a-queima-roupa-em-rua-da-ponta-grossa/ "Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa")   [![Polícia conclui investigação contra falsa médica que atendia em famoso centro médico de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_csm_Nutricionista-Pixabay_510a57f8a7_fb3b9c4905.jpg)
 
-moto apreendida
+veja crimes
 
-Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Campo Alegre](https://www.tnh1.com.br/noticia/nid/homem-e-preso-e-menor-e-apreendido-por-matarem-jovem-na-frente-de-filha-em-campo-alegre/ "Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Campo Alegre")
+Polícia conclui investigação contra falsa médica que atendia em famoso centro médico de Maceió](https://www.tnh1.com.br/noticia/nid/policia-conclui-investigacao-contra-falsa-medica-que-atendia-em-famoso-centro-medico-de-maceio/ "Polícia conclui investigação contra falsa médica que atendia em famoso centro médico de Maceió")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -116,13 +116,31 @@ Homem é preso e menor é apreendido por matarem jovem na frente de filha, em Ca
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Klaus Silva, gerente de Marketing do Grupo Paragominas, faz idade nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_Klaus_Silva_2_e30472e1a8.jpg)
+   [![Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_Herman_e_Ramatis_Philipe_Medeiros_ef124abfe7.jpg)
 
 Pessoas & Negócios
 
-Klaus Silva, gerente de Marketing do Grupo Paragominas, faz idade nova](https://www.tnh1.com.br/noticia/nid/klaus-silva-gerente-de-marketing-do-grupo-paragominas-faz-idade-nova/ "Klaus Silva, gerente de Marketing do Grupo Paragominas, faz idade nova")
+Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária](https://www.tnh1.com.br/noticia/nid/alagoas-ganha-dois-representantes-no-conselho-nacional-de-autorregulamentacao-publicitaria/ "Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária")   [![Fernanda Studart: Gerente de Marketing do Parque Shopping faz idade nova](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/a/csm_Fernanda_Studart_a6042850d8.jpeg)
+
+Pessoas & Negócios
+
+Fernanda Studart: Gerente de Marketing do Parque Shopping faz idade nova](https://www.tnh1.com.br/noticia/nid/fernanda-studart-gerente-de-marketing-do-parque-shopping-faz-idade-nova/ "Fernanda Studart: Gerente de Marketing do Parque Shopping faz idade nova")   [![Moda alagana ganha projeção nacional](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_montagem_lu_90c23a8155.png)
+
+Pessoas & Negócios
+
+Moda alagana ganha projeção nacional](https://www.tnh1.com.br/noticia/nid/moda-alagana-ganha-projecao-nacional/ "Moda alagana ganha projeção nacional")
 
 [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
+
+Últimas de Literatura
+
+[Leia tudo sobre Literatura](https://www.tnh1.com.br/index.php?id=789 "Ir para Literatura")
+
+   [![Entregador é assassinado durante atentado na frente de pizzaria em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_Entregador_Pizza_Morte_Rio_Largo_f0bbe2a614.jpeg)
+
+Artigos
+
+Entregador é assassinado durante atentado na frente de pizzaria em Rio Largo](https://www.tnh1.com.br/noticia/nid/entregador-e-assassinado-durante-atentado-na-frente-de-pizzaria-em-rio-largo/ "Entregador é assassinado durante atentado na frente de pizzaria em Rio Largo")
 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
@@ -198,73 +216,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_policia-cientifica-identifica-arma-usada-em-crime-contra-blogueiro-de-junqueiro_-_foto_Policia_Cientifica_20ffd1180f.jpeg)
+[![Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_guarda_municipal_ead08fd80b.png)
 
-Polícia
+Concursos
 
-Polícia
+Concursos
 
-Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça
+Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção
 
-Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça](https://www.tnh1.com.br/noticia/nid/blogueiro-foi-assassinado-com-quatro-tiros-de-pistola-9-milimetros-na-cabeca/ "Blogueiro foi assassinado com quatro tiros de pistola 9 milímetros na cabeça")[![Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/6/csm_livia_loise_-_foto_reproducao_arquivo_pessoal_03f9630552.jpg)
+Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção](https://www.tnh1.com.br/noticia/nid/guarda-municipal-de-maceio-vai-lancar-concurso-publico-24-anos-depois-da-ultima-selecao/ "Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção")[![Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_video_tiros_ponta_grossa_24-4-24_359b3baae5.jpg)
 
-pancada na cabeça
+fez tocaia
 
-pancada na cabeça
+fez tocaia
 
-Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas
+Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto
 
-Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas](https://www.tnh1.com.br/noticia/nid/crime-ou-acidente-policia-investiga-queda-de-coqueiro-que-matou-empresaria-em-alagoas/ "Crime ou acidente? Polícia investiga queda de coqueiro que matou empresária em Alagoas")[![Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo" ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/c/csm_prefeito_de_junqueiro_ac209d5f78.jpg)
+Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto](https://www.tnh1.com.br/noticia/nid/crime-na-ponta-grossa-veja-o-que-disse-enteado-segundos-antes-de-matar-padrasto/ "Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ")[![Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_filha-deputado-morta-tiros-reproducao_73c9e021d3.jpg)
 
-na rede social
+26 anos
 
-na rede social
+26 anos
 
-Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo"
+Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros
 
-Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo"](https://www.tnh1.com.br/noticia/nid/prefeito-de-junqueiro-nega-motivacao-politica-em-morte-de-blogueiro-nao-era-amigo-nem-inimigo/ "Prefeito de Junqueiro nega motivação política em morte de blogueiro: "Não era amigo nem inimigo" ")[![Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/d/csm_fardamentos-uniformes-descarte-irregular-TV-Pajucara_db9348b0ad.jpeg)
+Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-filha-do-deputado-gilberto-cattani-que-foi-assassinada-a-tiros/ "Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros ")[![Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_csm_assassinato_ponta_grossa_735c862428_220d60fd94.jpg)
 
-descarte irregular
+suspeito de 29 anos
 
-descarte irregular
+suspeito de 29 anos
 
-Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió
+Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa
 
-Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió](https://www.tnh1.com.br/noticia/nid/fotos-e-videos-fardamentos-de-ao-menos-15-municipios-alagoanos-sao-encontrados-dentro-de-lixeira-em-maceio/ "Fotos e vídeos: fardamentos de ao menos 15 municípios alagoanos são encontrados dentro de lixeira, em Maceió ")
+Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://www.tnh1.com.br/noticia/nid/policia-prende-jovem-que-matou-padrasto-com-tiro-a-queima-roupa-em-rua-da-ponta-grossa/ "Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa")
 
-[![Mãe é picada por formiga que gera a maior dor causada por um inseto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/7/csm_picada-formiga-reproducao-arquivo-pessoal_ab74b030ee.jpg)
+[![Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/6/csm_rocha-brilhante-divulgacao-nasa_5c900bf968.jpg)
 
-dor intensa
+primeira evidência
 
-dor intensa
+primeira evidência
 
-Mãe é picada por formiga que gera a maior dor causada por um inseto
+Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte
 
-Mãe é picada por formiga que gera a maior dor causada por um inseto](https://www.tnh1.com.br/noticia/nid/mae-e-picada-por-formiga-que-gera-a-maior-dor-causada-por-um-inseto/ "Mãe é picada por formiga que gera a maior dor causada por um inseto")[![Brasil poderá exportar óleo de cozinha usado para os EUA](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/6/csm_oleo-cozinha-usado-reproducao_51920ef28e.png)
+Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte](https://www.tnh1.com.br/noticia/nid/robo-da-nasa-quebra-rocha-sem-querer-e-descobre-material-inedito-em-marte/ "Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte")[![Argentina se desculpa com França após polêmica de vice sobre canto racista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_jogadores-argentina-musica-racista-reproducao_c65b71a971.jpg)
 
-matéria-prima
+CRISE DIPLOMÁTICA
 
-matéria-prima
+CRISE DIPLOMÁTICA
 
-Brasil poderá exportar óleo de cozinha usado para os EUA
+Argentina se desculpa com França após polêmica de vice sobre canto racista
 
-Brasil poderá exportar óleo de cozinha usado para os EUA](https://www.tnh1.com.br/noticia/nid/brasil-podera-exportar-oleo-de-cozinha-usado-para-os-eua/ "Brasil poderá exportar óleo de cozinha usado para os EUA")[![Microplásticos são encontrados em pênis humanos pela primeira vez; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/5/csm_microplasticos-reproducao-freepik_1ddc29bb87.jpg)
+Argentina se desculpa com França após polêmica de vice sobre canto racista](https://www.tnh1.com.br/noticia/nid/argentina-se-desculpa-com-franca-apos-polemica-de-vice-sobre-canto-racista/ "Argentina se desculpa com França após polêmica de vice sobre canto racista")[![Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_tributacao-pauta-governo-shopee-divulgacao_e16983613d.jpeg)
 
-polímeros
+novo imposto
 
-polímeros
+novo imposto
 
-Microplásticos são encontrados em pênis humanos pela primeira vez; entenda
+Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data
 
-Microplásticos são encontrados em pênis humanos pela primeira vez; entenda](https://www.tnh1.com.br/noticia/nid/microplasticos-sao-encontrados-em-penis-humanos-pela-primeira-vez-entenda/ "Microplásticos são encontrados em pênis humanos pela primeira vez; entenda")[![O novo réptil de 237 milhões de anos de idade descoberto no Brasil](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/d/csm_reptil-descoberto-brasil-reproducao_315476dc54.jpg)
+Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data](https://www.tnh1.com.br/noticia/nid/taxa-das-blusinhas-sera-cobrada-ainda-neste-mes-por-aliexpress-e-shopee-veja-data/ "Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data ")[![Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Celular__redes_sociais_-_foto_Pexels_48bfbfda7d.jpeg)
 
-ERA PEQUENO
+efeitos indiretos
 
-ERA PEQUENO
+efeitos indiretos
 
-O novo réptil de 237 milhões de anos de idade descoberto no Brasil
+Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos
 
-O novo réptil de 237 milhões de anos de idade descoberto no Brasil](https://www.tnh1.com.br/noticia/nid/o-novo-reptil-de-237-milhoes-de-anos-de-idade-descoberto-no-brasil/ "O novo réptil de 237 milhões de anos de idade descoberto no Brasil")
+Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos](https://www.tnh1.com.br/noticia/nid/problemas-causados-pelo-apagao-global-de-tecnologia-podem-levar-dias-ate-serem-corrigidos/ "Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
