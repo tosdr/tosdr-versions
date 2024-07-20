@@ -1,7 +1,7 @@
 Privacy and Cookie Policy
 =========================
 
-4 April 2024 • 10:00am
+3 July 2024 • 10:00am
 
 * [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
 * [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
@@ -88,7 +88,7 @@ Serve you advertisements on our own website that are tailored to you or a group 
 
 (12) To analyse browsing information and cookie data using machine learning, for example to determine which subscription offers might be of most interest to you or which content or articles you would most like to see.
 
-2.4 Some limited uses of your data are required to comply with legal obligations, for example fraud detection and taxation;
+2.4 Some limited uses of your data are required to comply with legal obligations, such as fraud detection and taxation. For example, we may receive and use certain data from third party payment providers (such as PayPal and GooglePay) when you purchase a subscription from us, to ensure we are compliant with local tax regulations;
 
 2.5 Our core activities as a media and publishing organisation, on paper or online, are classed as special purposes (which includes journalism and the arts). Please be aware that we are subject to a series of exemptions from data protection law when processing personal data for these purposes, and such purposes are not relevant to this Privacy Policy unless expressly stated.
 
@@ -229,9 +229,9 @@ Please note also that the likes of Google, with whom we work to serve advertisin
 
 11.1 The personal information that we collect from you will sometimes be sent and stored outside of the UK or the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”. Except where this is on your specific instructions, this will always be subject to adequate safeguards as to the protection and security of your personal data. This means that we will only transfer your personal data outside of the UK or EEA:
 
-(a) to countries that have been found to provide an adequate level of protection for personal data; or
+(a) to countries that have been found to provide an adequate level of protection for personal data. This may include certain US organisations that have certified participation in the EU-US Data Privacy Framework including the UK Extension; or
 
-(b) where we have used specific approved contracts that use approved clauses for the protection of personal data.  These contracts give your personal data the same level of protection as the UK and EEA.
+(b) where we have used specific approved contracts that use approved clauses (such as Standard Contractual Clauses or the International Data Transfer Agreement) for the protection of personal data and where we have carried out assessments of the safeguards provided by those countries. These contracts give your personal data the same level of protection as the UK and EEA.
 
 Further details on these safeguards are available on enquiry from [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk).
 
@@ -271,7 +271,7 @@ If we change how we use this technology in the future, we will let you know if i
 
 14.1 If you believe that we have not adhered to this Policy, please notify us by email at [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) and we will try to solve the problem promptly. If you are not satisfied with our response, or have any other queries, you can also contact the Information Commissioner at [www.ico.org.uk](http://www.ico.org.uk/) or 0303 123 1113.
 
-This policy was last updated on 4th April 2024.
+This policy was last updated on 3rd July 2024.
 
 **Our Brands**
 
