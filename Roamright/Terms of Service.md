@@ -1,4 +1,4 @@
-* **COVERAGE ALERT:** Travel insurance must have been purchased prior to the date when an event became foreseeable to be eligible for coverage. The following event is considered known and foreseeable as of the date listed. Tropical Storm Alberto: June 19, 2024
+* **COVERAGE ALERT:** We are aware of a global outage impacting airlines and other travel providers.  Our customer service team is available online or by phone to answer questions you have related to this event.
     
 
 Close
