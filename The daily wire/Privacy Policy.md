@@ -11,7 +11,7 @@ Menu
 
 Close
 
-[Read](https://www.dailywire.com/read)[Listen](https://www.dailywire.com/listen)[Watch](https://www.dailywire.com/watch)[Discuss](https://www.dailywire.com/discuss)[Shop](https://store.dailywire.com/)[Kids](https://www.bentkey.com/)[Search](https://www.dailywire.com/search/news)
+[Home](https://www.dailywire.com/)[Listen](https://www.dailywire.com/listen)[Watch](https://www.dailywire.com/watch)[Discuss](https://www.dailywire.com/discuss)[Shop](https://store.dailywire.com/)[Kids](https://www.bentkey.com/)[Search](https://www.dailywire.com/search/news)
 
 Login[Join](https://get.dailywire.com/subscribe/plus)
 
