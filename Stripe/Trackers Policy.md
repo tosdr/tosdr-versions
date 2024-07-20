@@ -22,7 +22,7 @@
     * [Stripe Identity](https://stripe.com/gb/identity/legal)
     * [Stripe Issuing](https://stripe.com/gb/issuing/legal)
     * [Stripe Tax](https://stripe.com/gb/tax/legal)
-    * [Stripe Partner Program](https://stripe.com/gb/partners/legal)
+    * [Stripe Partner Ecosystem](https://stripe.com/gb/partners/legal)
     * [Stripe Radar](https://stripe.com/gb/legal/radar)
     * [Stripe Rewards](https://stripe.com/gb/rewards/legal)
     * [Stripe Verifications](https://stripe.com/gb/legal/instant-verification-services)
@@ -72,111 +72,95 @@
 Cookie Policy
 =============
 
-_For your convenience, we have provided a [translation](https://stripe.com/en-ca/legal/cookies-policy#politique-dutilisation-des-cookies) of this page below the English version. This translation is for informational purposes only, and the definitive version of this page is the English version._
+_For your convenience, we have provided a_ [_translation_](https://stripe.com/en-ca/legal/cookies-policy#politique-dutilisation-des-cookies) _of this page below the English version. This translation is for informational purposes only, and the definitive version of this page is the English version._
 
-### Last updated: January 16, 2024
+### Last updated: June 20, 2024
 
-This cookie policy describes how Stripe (“**Stripe**”) uses “cookies” and other similar technologies, in connection with our Site and Services. Any capitalized term used and not otherwise defined below has the meaning assigned to it in the Privacy Policy.
+This Cookie Policy describes how Stripe (“**Stripe**”) uses “cookies” and other similar technologies, in connection with our Site and Services. Any capitalized term used and not otherwise defined below has the meaning assigned to it in the [Privacy Policy](https://stripe.com/gb/privacy).
 
 For Stripe-affiliated websites, you can learn more about cookies by visiting those sites directly.
 
-1\. What is a Cookie?
----------------------
+**1\. What is a Cookie?**
+-------------------------
 
 Cookies are small text files that are stored in a computer's browser directory. They help site providers with things like understanding how people use a site, remembering a User's login details, and storing site preferences. Stripe uses cookies as well as similar technologies (e.g., URL tracking, local storage). For the purpose of this Cookie Policy, such technologies are included in the term ‘cookies’.
 
-2\. Does Stripe use Cookies?
-----------------------------
+**2\. Does Stripe use Cookies?**
+--------------------------------
 
 Yes. We use cookies in accordance with our [Privacy Policy](https://stripe.com/gb/privacy) to:
 
-* ensure that our Services function properly,  
-    
-* detect and prevent fraud and violations of our terms of service,  
-    
-* understand how visitors use and engage with our Site,  
-    
-* advertise our products and services, where allowed and  
-    
-* analyze and improve our Services and your Site experience.  
-    
+* ensure that our Services function properly,
+* detect and prevent fraud and violations of our terms of service,
+* understand how visitors use and engage with our Site,
+* advertise our products and Services, where allowed and
+* analyze and improve our Services and your Site experience including improved relevancy and navigation, customizing your user experience (such as language preference and region-specific content), and curating content about Stripe and our Services that's tailored to you.
 
-3\. Who sets cookies when I use Stripe's Site?
-----------------------------------------------
+**3\. Who Sets Cookies When I Use Stripe's Site?**
+--------------------------------------------------
 
 There are two main types of cookies that can be set:
 
-* First party cookies: these cookies are placed and read by Stripe directly when you use our Services,  
-    
-* Third party cookies: these cookies are not set by Stripe, but by other companies, like Google or Facebook, for site analytics purposes. See further details [below](https://stripe.com/gb/legal/cookies-policy#3-who-sets-cookies-when-i-use-stripe39s-site) on how to manage these cookies.  
-    
+* First party cookies: these cookies are placed and read by Stripe directly when you use our Services,
+* Third party cookies: these cookies are not set by Stripe, but by other companies, like Google or Facebook, for site analytics purposes. See further details [below](https://stripe.com/gb/legal/cookies-policy#3-who-sets-cookies-when-i-use-stripe39s-site) on how to manage these cookies.
 
-4\. How Stripe Uses Cookies
----------------------------
+**4\. How Stripe Uses Cookies**
+-------------------------------
 
-Cookies play an important role in helping us provide effective and safe Services. Below is a description of the commonly used cookie types and the purposes that apply to them. Each section references Stripe’s [Cookie Settings Dashboard](https://stripe.com/gb/cookie-settings), where you can find more information about each cookie, and exercise your choices.
+Cookies play an important role in helping us provide effective and safe Services. Below is a description of the commonly used cookie types and the purposes that apply to them. Each section references Stripe’s [Cookies & Consent Settings Dashboard](https://stripe.com/gb/cookie-settings), where you can find more information about each cookie, including the types and duration of each cookie, and exercise your choices.
 
-Necessary Cookies
------------------
+Stripe distinguishes between 3 different types of cookies:
+
+1. Essential Cookies
+2. Functional Cookies
+3. Advertising Cookies
+
+### **Essential Cookies**
 
 Some cookies are essential to the operation of our Site and Services and make it usable and secure by enabling basic functions like page navigation and access to secure areas of the Site. We use those cookies in a number of different ways, including:
 
-* **Authentication**. To remember your login state so you don't have to log in as you navigate through our Site and dashboard.  
-    
-* **Fraud Prevention and Detection**. Cookies and similar technologies that we deploy through our Site help us learn things about computers and web browsers used to access the Services. This information helps us monitor for and detect potentially harmful or illegal use of our Services. For example, in order to process payments transactions for our Users, it is necessary for Stripe to collect information about the transaction and the Customer. To help secure these transactions and minimize fraud, we collect additional information through the use of cookies and other technologies in helping to identify bad actors and prevent them from making fraudulent transactions. Customers should check our Users' sites for more information about the use of Stripe cookies for fraud detection.  
-    
-* **Security**. To protect user data from unauthorized access.  
-    
-* **Functionality**. To keep our Site and Services working correctly, like showing you the right information for your selected location.  
-    
+* **Authentication**. To remember your login state so you don't have to log in as you navigate through our Site and dashboard.
+* **Fraud Prevention and Detection**. Cookies and similar technologies that we deploy through our Site help us learn things about computers and web browsers used to access the Services. This information helps us monitor for and detect potentially harmful or illegal use of our Services. For example, in order to process payments transactions for our Users, it is necessary for Stripe to collect information about the transaction and the Customer. To help secure these transactions and minimize fraud, we collect additional information through the use of cookies and other technologies in helping to identify bad actors and prevent them from making fraudulent transactions. Customers should check our Users' sites for more information about the use of Stripe cookies for fraud detection.
+* **Security**. To protect user data from unauthorized access.
+* **Operational**. To keep our Site and Services working correctly, like showing you the right information for your selected location.
 
-For more information, please see the [Authentication](https://stripe.com/gb/cookie-settings#authentication), [Fraud Prevention](https://stripe.com/gb/cookie-settings#fraud-prevention), [Security](https://stripe.com/gb/cookie-settings#security) and [Functionality](https://stripe.com/gb/cookie-settings#functionality) sections in the [Stripe Cookie Settings Dashboard](https://stripe.com/gb/cookie-settings).
+For more information, please see the [Stripe Cookies & Consent Settings Dashboard](https://stripe.com/gb/cookie-settings).
 
-Preference Cookies
-------------------
+### **Functional Cookies**
+
+Functional cookies provide enhanced functions, performance, and services on the Site beyond the basic operations permitted by Essential Cookies.
 
 Preference cookies are used by Stripe to remember your preferences and to recognize you when you return to our Services.
 
-For more information, please see the [Preferences](https://stripe.com/gb/cookie-settings#preferences) section in the Stripe [Cookie Settings Dashboard](https://stripe.com/gb/cookie-settings).
-
-Analytics Cookies
------------------
-
 Analytics cookies help us understand how visitors interact with our Services. We use those cookies in a number of different ways, including:
 
-* **Site Features and Services**. To remember how you prefer to use our Services so that you don't have to reconfigure your settings each time you log into your account.  
-    
-* **To Analyze and Improve Our Services**. To make our Site and Services work better for You. Cookies help us understand how people reach our Site and our Users' sites. They give us insights into improvements or enhancements we need to make to our Site and Services.  
-    
-* **Pixel tags (also known as web beacons and clear GIFs)**. May be used in connection with some Services to, among other things, track the actions of Users (such as email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.  
-    
-* **Third Party Analytics**. Through Google Analytics in order to collect and analyze information about the use of the Services and report on activities and trends. This service may also collect information regarding the use of other sites, apps and online resources. You can learn about Google's practices on the [Google website](https://policies.google.com/technologies/partner-sites). See further details below on how to manage these cookies.  
-    
+* **Site Features and Services**. To remember how you prefer to use our Services so that you don't have to reconfigure your settings each time you log into your account.
+* **To Analyze and Improve Our Services**. To make our Site and Services work better for You. Cookies help us understand how people reach our Site and our Users' sites. They give us insights into improvements or enhancements we need to make to our Site and Services.
+* **Pixel tags (also known as web beacons and clear GIFs)**. May be used in connection with some Services to, among other things, track the actions of Users (such as email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+* **Third Party Analytics**. Through Google Analytics in order to collect and analyze information about the use of the Services and report on activities and trends. This service may also collect information regarding the use of other sites, apps and online resources. You can learn about Google's practices on the [Google website](https://policies.google.com/technologies/partner-sites). See further details below on how to manage these cookies.
 
-For more information, please see the [Analytics](https://stripe.com/gb/cookie-settings#analytics) section in the Stripe [Cookie Settings Dashboard](https://stripe.com/gb/cookie-settings#analytics).
+For more information, please see the [Stripe Cookies & Consent Settings Dashboard](https://stripe.com/gb/cookie-settings#analytics).
 
-Advertising Cookies
--------------------
+### **Advertising Cookies**
 
 We and our service providers will use cookies and similar technologies on Stripe.com to direct Stripe ads to you through targeted advertisements for Stripe Services on other sites you visit and to measure your engagement with those ads.
 
-For more information, please see the [Advertising](https://stripe.com/gb/cookie-settings#advertising) section in the Stripe [Cookie Settings Dashboard](https://stripe.com/gb/cookie-settings).
+For more information, please see the [Advertising](https://stripe.com/gb/cookie-settings#advertising) section in the [Stripe Cookies & Consent Settings Dashboard](https://stripe.com/gb/cookie-settings).
 
-5\. Can I opt-out?
-------------------
+**5\. Can I opt-in and opt-out?**
+---------------------------------
 
-Yes. You can opt out of cookies through our [Cookie Settings Dashboard](https://stripe.com/gb/cookie-settings), with the exception of those cookies that are necessary to provide you with our Services. For Stripe-affiliated websites, you can learn more about cookies by visiting those sites directly. Your web browser may allow you to manage your cookie preferences, including to delete and disable Stripe cookies. You can take a look at the help section of your web browser or follow the links below to understand your options. If you choose to disable cookies, some features of our Site or Services may not operate as intended.
+Yes. Stripe uses cookies in accordance with applicable law and depending on the country or jurisdiction you are located in, Stripe will ask for your prior consent before non-essential cookies are being used, or offer you the option to opt-out of non-essential cookies.
 
-* Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)  
-    
-* Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)  
-    
-* Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)  
-    
-* Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)  
-    
-* Opera: [https://help.opera.com/en/latest/web-preferences/#cookies](https://help.opera.com/en/latest/web-preferences/#cookies)  
-    
+You can opt-out of non-essential cookies through our [Cookies & Consent Settings Dashboard](https://stripe.com/gb/cookie-settings). For Stripe-affiliated websites, you can learn more about cookies by visiting those sites directly.
+
+Your web browser may also allow you to manage your cookie preferences, including to delete and disable Stripe cookies. You can take a look at the help section of your web browser or follow the links below to understand your options. If you choose to disable cookies, some features of our Site or Services may not operate as intended.
+
+* Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
+* Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+* Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+* Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+* Opera: [https://help.opera.com/en/latest/web-preferences/#cookies](https://help.opera.com/en/latest/web-preferences/#cookies)
 
 [Stripe logo](https://stripe.com/gb)
 
@@ -308,7 +292,7 @@ United Kingdom (English)
 
 * © 2024 Stripe, Inc.
 
-Products & Pricing
+Products & pricing
 ==================
 
 * [Pricing](https://stripe.com/gb/pricing)
@@ -350,7 +334,7 @@ Solutions
 * [Global businesses](https://stripe.com/gb/use-cases/global-businesses)
 * [Finance automation](https://stripe.com/gb/use-cases/finance-automation)
 
-Integrations & Custom Solutions
+Integrations & custom solutions
 ===============================
 
 * [Stripe App Marketplace](https://marketplace.stripe.com/)
@@ -360,11 +344,11 @@ Integrations & Custom Solutions
 Developers
 ==========
 
-* [Documentation](https://stripe.com/docs)
-* [API reference](https://stripe.com/docs/api)
+* [Documentation](https://docs.stripe.com/)
+* [API reference](https://docs.stripe.com/api)
 * [API status](https://status.stripe.com/)
-* [API changelog](https://stripe.com/docs/upgrades#api-versions)
-* [Stripe Apps](https://stripe.com/docs/stripe-apps)
+* [API changelog](https://docs.stripe.com/upgrades#api-versions)
+* [Stripe Apps](https://docs.stripe.com/stripe-apps)
 
 Resources
 =========
