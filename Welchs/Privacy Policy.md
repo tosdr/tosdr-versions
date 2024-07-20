@@ -7,6 +7,7 @@ I Agree
 [Skip Navigation](#content) [![Welch's Logo](https://www.welchs.com/img/logo-welchs.243e73a.svg)](https://www.welchs.com/)
 
 * [Juices](https://www.welchs.com/juices/)
+    * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/5a0c86daf1/grapeade-green-grape-v3.png)Grape'ade](https://www.welchs.com/juices/grapeade)
     * [![Bottle of 100% Concord Grape Juice](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/6411718c85/100-concord-grape-juice.png)100% Juices](https://www.welchs.com/juices/100-percent)
     * [![Welch's Orange Pineapple Apple Juice Bottle](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/41f280770d/orange-pineapple-apple-juice.png)Juice Drinks](https://www.welchs.com/juices/drinks)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/87a6bc0fa8/passion-fruit-juice-3.png)Refrigerated Juices](https://www.welchs.com/juices/refrigerated)
@@ -22,7 +23,7 @@ I Agree
     * [![Parents laughing and playing with their son in the park](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/b6f2119294/nav-health-nutrition_3.jpg)Health & Nutrition](https://www.welchs.com/health-nutrition/)
     * [![View from top of a tractor driving through a grape vineyard.](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/9c75c0fda6/sustainability-nav.jpeg)Sustainability](https://www.welchs.com/sustainability)
 
-[![Search](/img/search-icon.svg)](https://www.welchs.com/search) [Where to Buy](https://www.welchs.com/where-to-buy)
+[![Search](/img/search-icon.svg)](https://www.welchs.com/search) [Find My Store](https://www.welchs.com/where-to-buy)
 
 [![Search](/img/search-icon.svg)](https://www.welchs.com/search) Navigation Menu
 
@@ -110,7 +111,7 @@ Welch Foods, Inc. A Cooperative, ATTN: Consumer Affairs, 300 Baker Avenue, Suite
 
 * [Visit Welch's on Facebook](https://www.facebook.com/welchsgrapes/)
 * [Visit Welch's on Instagram](https://www.instagram.com/welchs/)
-* [Visit Welch's on Twitter](https://twitter.com/welchs)
+* [Visit Welch's on LinkedIn](https://www.linkedin.com/company/welch's/)
 * [Visit Welch's on YouTube](https://www.youtube.com/user/officialwelchsgrapes)
 
 * [Careers](https://www.welchs.com/careers/)
@@ -118,7 +119,7 @@ Welch Foods, Inc. A Cooperative, ATTN: Consumer Affairs, 300 Baker Avenue, Suite
 * [Foodservice](https://www.welchs.com/foodservice)
 * [Contact Us](https://www.welchs.com/contact-us)
 
-Stay Connected
+stay connected
 --------------
 
 Be the first to know all things Welch's.
@@ -134,6 +135,6 @@ Your email was successfully received.
 * [CA Privacy Policy](https://www.welchs.com/ca-privacy-policy)
 * [Terms of Use](https://www.welchs.com/terms-of-use)
 
-© 2023 Welch's All Rights Reserved.
+© 2024 Welch's All Rights Reserved.
 
 Close Modal
