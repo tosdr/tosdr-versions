@@ -125,7 +125,7 @@ Terms and Conditions
 
  
 
-Test IO GmbH General Terms and Conditions
+Test IO Inc. Specific Terms and Conditions for Testers
 
 These specific terms and conditions govern the relationship between you, as a tester, and Test IO Inc. (hereinafter: “Test IO”) with respect to testing services on this subspace, and are included and incorporated by reference into the Test IO General Terms and Conditions also referred to as the “General T&Cs”. In its entirety, the contents of this document will hereinafter be referred to as the “Tester T&Cs”.
 
