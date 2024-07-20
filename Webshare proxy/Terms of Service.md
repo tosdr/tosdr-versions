@@ -56,11 +56,11 @@ Free Proxy Extension for Chrome by Webshare
 
 [Learn more](https://www.webshare.io/chrome-proxy-extension)
 
-[Add extension for free](https://chromewebstore.google.com/detail/webshare/bdokeillmfmaogjpficejjcjekcflkdh)
-
 ![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/65a14d60685db328f867778a_cross-banner.svg)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64e8bb146138e4eb28353321_Webshare%20Logo.svg)](https://www.webshare.io/)
+
+[Sign Up](https://proxy2.webshare.io/register/?source=nav_register)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/662f5777ed20ad2ceb1199ca_New_logo.svg)](https://www.webshare.io/)
 
