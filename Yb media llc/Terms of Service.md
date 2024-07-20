@@ -149,6 +149,7 @@ Emailed Daily. Always Free!
     * [Winnipeg Jets](https://www.yardbarker.com/nhl/teams/winnipeg_jets/102)
 * [NCAAF](https://www.yardbarker.com/college_football)
 * [NCAAM](https://www.yardbarker.com/college_basketball)
+* [Olympics](https://www.yardbarker.com/olympics)
 * [Boxing](https://www.yardbarker.com/boxing)
 * [Entertainment](https://www.yardbarker.com/entertainment)
     * [Entertainment Home](https://www.yardbarker.com/entertainment)
@@ -183,6 +184,7 @@ Emailed Daily. Always Free!
 * [MLB](https://www.yardbarker.com/mlb)
 * [NBA](https://www.yardbarker.com/nba)
 * [NHL](https://www.yardbarker.com/nhl)
+* [Olympics](https://www.yardbarker.com/olympics)
 * [Sports Betting](https://www.yardbarker.com/sports_betting)
 * [Entertainment](https://www.yardbarker.com/entertainment)
 * [Quizzes](https://www.yardbarker.com/quizzes)
@@ -215,7 +217,7 @@ Emailed Daily. Always Free!
     * [UFL](https://www.yardbarker.com/ufl)
     * [WNBA](https://www.yardbarker.com/wnba)
     * [Wrestling](https://www.yardbarker.com/wrestling)
-    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list)
+    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1__32807957)
     
 
 * [![](/images/icons/icon-search-white.svg)](#)
