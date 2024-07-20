@@ -6,7 +6,7 @@ The Owl Works
 ![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_57,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
 
 * [home](https://www.theowlworks.com/)
-* [services](https://www.theowlworks.com/)
+* [about](https://www.theowlworks.com/)
 * [kind words](https://www.theowlworks.com/)
 * [contact](https://www.theowlworks.com/)
 * More
