@@ -439,7 +439,6 @@ Last update: January 20, 2020
 * [Legal Process](https://syniverse-web.s3.amazonaws.com/Legal-Process-and-Government-Data-Request-Policy-7.19.21-clean.pdf)
 * [Modern Slavery Act Statement](https://syniverse-web.s3.amazonaws.com/Modern-Slavery-Act-Statement-23082022-Final.pdf)
 * [Cookie Policy](https://www.syniverse.com/cookie-policy)
-* [Compliance](https://www.syniverse.com/compliance)
 * [Code of Business Conduct](https://www.syniverse.com/code-of-business-conduct)
 * [Site Map](https://www.syniverse.com/sitemap)
 * [Ethics Hotline](https://app.convercent.com/en-us/Anonymous/IssueIntake/LandingPage/e8984d97-f85a-e911-a963-000d3ab9f062)
