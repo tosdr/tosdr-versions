@@ -39,13 +39,15 @@ These technologies are necessary for the underlying operation of the site or app
 
 | Name of cookie | Expiry period | Purpose | Company |
 | --- | --- | --- | --- |
-| Name of cookie: \_\_cf\_bm (x 2) | Expiry period: Persistent - 30 minutes | Purpose: Authorisation | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_cf\_bm | Expiry period: Persistent - 30 minutes | Purpose: Authorisation | Company: Cloudflare, Inc. |
 | Name of cookie: \_\_cflb (x 3) | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
 | Name of cookie: \_\_cfruid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
-| Name of cookie: \_cfuvid | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
+| Name of cookie: \_cfuvid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: DoubleClick, Google LLC |
+| Name of cookie: ar\_debug | Expiry period: Persistent - 90 days | Purpose: Your visit | Company: Google Analytics, Google LLC |
 | Name of cookie: AWSELB | Expiry period: Session cookie | Purpose: Your visit | Company: Amazon Web Services, Amazon.com, Inc. |
 | Name of cookie: AWSELBCORS | Expiry period: Session cookie | Purpose: Your visit | Company: Amazon Web Services, Amazon.com, Inc. |
+| Name of cookie: BIGipServer_\*_ | Expiry period: Persistent - 1 hour | Purpose: Your visit | Company: F5 Networks, Inc |
 | Name of cookie: f5avraaaaaaaaaaaaaaaa\_session\_ | Expiry period: Session cookie | Purpose: Your visit | Company: F5 Networks, Inc |
 | Name of cookie: JSESSIONID | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
 | Name of cookie: lbs | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
@@ -74,13 +76,10 @@ These technologies are used in the management of a site or app, including to rec
 | --- | --- | --- | --- |
 | Name of cookie: \_cs\__<digits>_\* | Expiry period: Session cookie | Purpose: Analytics | Company: ContentSquare |
 | Name of cookie: \_cs\_c | Expiry period: Persistent - 1 year, 1 month | Purpose: Analytics | Company: ContentSquare |
-| Name of cookie: \_cs\_ex | Expiry period: Persistent - 30 days | Purpose: Analytics | Company: ContentSquare |
 | Name of cookie: \_cs\_id | Expiry period: Persistent - 13 months | Purpose: Analytics | Company: ContentSquare |
 | Name of cookie: \_cs\_mk | Expiry period: Persistent - 30 minutes | Purpose: Analytics | Company: Google Analytics, Google LLC |
-| Name of cookie: \_cs\_optout | Expiry period: Persistent - 1 year, 2 months | Purpose: Analytics | Company: ContentSquare |
 | Name of cookie: \_cs\_root-domain | Expiry period: Session cookie | Purpose: Analytics | Company: ContentSquare |
 | Name of cookie: \_cs\_s | Expiry period: Persistent - 30 minutes | Purpose: Analytics | Company: ContentSquare |
-| Name of cookie: \_cs\_vars | Expiry period: Session cookie | Purpose: Analytics | Company: ContentSquare |
 | Name of cookie: \_ga | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
 | Name of cookie: \_ga\__\*_ (x 2) | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
 | Name of cookie: \_gat\_tealium\_0 | Expiry period: Persistent - 1 minute | Purpose: Analytics | Company: Google Analytics, Google LLC |
@@ -88,13 +87,7 @@ These technologies are used in the management of a site or app, including to rec
 | Name of cookie: ELOQUA | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Eloqua, Oracle Corporation |
 | Name of cookie: ELQSTATUS | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Eloqua, Oracle Corporation |
 | Name of cookie: ga\_session\_duration | Expiry period: Persistent - 30 minutes | Purpose: Analytics | Company: Google Analytics, Google LLC |
-| Name of cookie: gi | Expiry period: Persistent - 1 day | Purpose: Analytics | Company: Catchpoint Systems, Inc. |
 | Name of cookie: optimizelyRumLB | Expiry period: Session cookie | Purpose: Analytics | Company: Optimizely, Inc. |
-| Name of cookie: pi\_pageview\_count | Expiry period: Session cookie | Purpose: Analytics | Company: Pulse Insights, LLC |
-| Name of cookie: pi\_visit\_count | Expiry period: Persistent - 10 years | Purpose: Analytics | Company: Pulse Insights, LLC |
-| Name of cookie: pi\_visit\_track | Expiry period: Session cookie | Purpose: Analytics | Company: Pulse Insights, LLC |
-| Name of cookie: pulse\_insights\_udid | Expiry period: Persistent - 2 months | Purpose: Analytics | Company: Pulse Insights, LLC |
-| Name of cookie: ua | Expiry period: Persistent - 1 hour | Purpose: Analytics | Company: Catchpoint Systems, Inc. |
 
 Marketing, personalization and advertising
 ------------------------------------------
@@ -109,29 +102,24 @@ These technologies gather information about your browsing. We also work with adv
 | Name of cookie: \_pinterest\_ct\_ua | Expiry period: Persistent - 1 year | Purpose: Social networking | Company: Pinterest |
 | Name of cookie: \_uetsid | Expiry period: Persistent - 30 minutes | Purpose: Advertising | Company: Bing, Microsoft Corporation |
 | Name of cookie: \_uetvid | Expiry period: Persistent - 2 weeks, 2 days | Purpose: Advertising | Company: Bing, Microsoft Corporation |
-| Name of cookie: AnalyticsSyncHistory | Expiry period: Persistent - 30 days | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 1 year | Purpose: Social networking | Company: Pinterest |
 | Name of cookie: bcookie | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: LinkedIn Corporation |
-| Name of cookie: bscookie | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: CMID | Expiry period: Persistent - 1 year | Purpose: Advertising | Company: Casale Media Inc. |
 | Name of cookie: CMPRO | Expiry period: Persistent - 90 days | Purpose: Advertising | Company: Casale Media Inc. |
 | Name of cookie: CMPS | Expiry period: Persistent - 90 days | Purpose: Advertising | Company: Casale Media Inc. |
 | Name of cookie: IDE | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: DoubleClick, Google LLC |
 | Name of cookie: li\_gc | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: LinkedIn Corporation |
-| Name of cookie: li\_sugr | Expiry period: Persistent - 90 days | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: lidc | Expiry period: Persistent - 1 day | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: MSPTC | Expiry period: Persistent - 1 year | Purpose: Advertising | Company: Bing, Microsoft Corporation |
 | Name of cookie: muc\_ads | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: Twitter, X Corp. |
 | Name of cookie: MUID | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: Bing, Microsoft Corporation |
 | Name of cookie: personalization\_id | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: Twitter, X Corp. |
-| Name of cookie: PREF | Expiry period: Persistent - 10 years | Purpose: Advertising | Company: YouTube, Google LLC |
 | Name of cookie: sd-session-id | Expiry period: Persistent - 5 years | Purpose: Advertising | Company: Zeta Interactive Corp. |
 | Name of cookie: test\_cookie | Expiry period: Persistent - 15 minutes | Purpose: Advertising | Company: DoubleClick, Google LLC |
 | Name of cookie: tuuid | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: Demandbase Inc. |
 | Name of cookie: tuuid\_lu | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: Demandbase Inc. |
 | Name of cookie: tv\_UIDM | Expiry period: Persistent - 1 year, 1 month | Purpose: Advertising | Company: Tremor International Ltd. |
 | Name of cookie: tvid | Expiry period: Persistent - 1 year | Purpose: Advertising | Company: Tremor International Ltd. |
-| Name of cookie: UserMatchHistory | Expiry period: Persistent - 1 month | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: VISITOR\_INFO1\_LIVE | Expiry period: Persistent - 240 days | Purpose: Advertising | Company: YouTube, Google LLC |
 | Name of cookie: VISITOR\_PRIVACY\_METADATA | Expiry period: Persistent - 180 days | Purpose: Social networking | Company: YouTube, Google LLC |
 | Name of cookie: YSC | Expiry period: Session cookie | Purpose: Social networking | Company: YouTube, Google LLC |
