@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjoyhJdq10eJS_C1LAjY-tPOjTzrCSaEhbzaMLjvqMTVrTcmA2zByGQxCByW0zgXApjvSxJwgbSjzyHniaJE:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjoyhJdq10eJS_C1LAjY-tPOjTzrCSaEhbzaMLjvqMTVrTcmA2zByGQxCByW0zgXApjvSxJwgbSjzyHniaJE:0&docurl=https://docs.google.com/document/d/e/2PACX-1vSNwp_4o2nWhNKdQHEc7tfp-py6FstV1MTt8msDomdwPOsaEXfoJZkZsUcfdkzrqrbOqNfRs1mnLbZK/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 TasksBoard Privacy Policy
 
@@ -10,7 +10,7 @@ TasksBoard Privacy Policy
 
 NOTICE
 
-* We do not store your data (tasks, calendar events, or drive files). It stays on Google’s servers. Granting us the access to your data does not allow us to access your data offline. We only use this access to display them on the app [https://tasksboard.app](https://www.google.com/url?q=https://tasksboard.app&sa=D&source=editors&ust=1718945501796258&usg=AOvVaw2172N_HYnKuM0mIQTnLFiO) and make actions on your behalf such as adding, updating, moving or deleting a task. All the actions performed come from you.
+* We do not store your data (tasks, calendar events, or drive files). It stays on Google’s servers. Granting us the access to your data does not allow us to access your data offline. We only use this access to display them on the app [https://tasksboard.app](https://www.google.com/url?q=https://tasksboard.app&sa=D&source=editors&ust=1721460352123270&usg=AOvVaw2LxWdM_Oin7DHtXoB0c1gA) and make actions on your behalf such as adding, updating, moving or deleting a task. All the actions performed come from you.
 * The only information we store from your Google account is your name, last name, profile picture and e-mail.
 * We do not share your data with any third party.
 
