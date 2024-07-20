@@ -89,15 +89,6 @@
 * [Log in](https://vimeo.com/log_in)
 * [Join](https://vimeo.com/join)
 
-New video
-
-* [Upload](https://vimeo.com/upload)
-* [Create video](https://vimeo.com/create/templates)
-* [Record screen](https://vimeo.com/features/screen-recorder)
-* [Create event](https://vimeo.com/live/select?location=top_nav_classic_vm)
-
-[](https://vimeo.com/)
-
 Menu
 
 [Search](https://vimeo.com/search)
