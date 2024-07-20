@@ -66,6 +66,11 @@ If you have subscribed to one of our notification services or newsletters, we wi
 
 These e-mails feature “tracking pixels” for the purpose of and in service of our interest in optimising our newsletter. This provides us with information about which browser and which operating system is being used, which IP address is currently accessing it, and also who the provider is. It is also used to detect if the e-mail has been read and whether the link integrated into the e-mail has been clicked on, such that the website has been visited from that IP address. Moreover, it is used to count the number of accesses to the website and the relevant time of day when the e-mail was opened and the access was performed. The approximate location of the user is also identified by these means. If you do not wish to be tracked in this fashion, you can unsubscribe from the newsletter at any time as described above. The legal basis for data processing is provided by Art. 6 para. 1 point f GDPR.
 
+Business partner check
+----------------------
+
+If you act as our business partner, we are obliged to process your personal data (name, address, internet address if applicable) on the basis of the relevant sanctions list regulations of the EU, the UK and the USA, insofar as this is necessary for compliance with these legal requirements. This includes in particular the processing of personal data by Axel Springer SE in the course of the comparison with applicable sanctions lists and the regular repetition of such comparisons when sanctions lists are updated or you as a business partner update your data. The legal basis for data processing is Art. 6 para. 1 lit. c GDPR in conjunction with Art. 6 para. 3 GDPR.
+
 **Contact initiated by you**
 ----------------------------
 
