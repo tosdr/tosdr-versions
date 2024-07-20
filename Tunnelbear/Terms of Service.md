@@ -1,5 +1,11 @@
 TunnelBear.com relies on JavaScript to function properly!
 
+**Grab some honey while the bees are busy and save big on an annual TunnelBear subscription!**
+
+**Grab some honey while the bees are busy and save big on an annual TunnelBear subscription!**
+
+[67% off](https://www.tunnelbear.com/account/checkout?couponCode=SUMMERSALE2024&utm_source=salebanner&utm_medium=direct&utm_campaign=summer_2024)
+
  [![TunnelBear](/static/img/logo-grey.edca0e7.svg) ![TunnelBear](/static/img/t-grey.abb9775.svg)](https://www.tunnelbear.com/)
 
 [Plans](https://www.tunnelbear.com/pricing)
@@ -33,9 +39,11 @@ A more secure way to browse the web
 
 TunnelBear encrypts your internet connection to keep your online activity private on any network.
 
-[Get TunnelBear now](https://www.tunnelbear.com/pricing)
+[Summer Sale! Get 67% off](https://www.tunnelbear.com/account/checkout?couponCode=SUMMERSALE2024&ref_id=website_summer_sale&utm_source=website&utm_medium=direct&utm_campaign=summer_2024)
 
- ![](/static/img/hero-bear.5842f7b.svg)
+Your first year of TunnelBear for $119USD **$39.99USD**
+
+![summer-sale](/static/img/summer-sale-bear.5b2001e.svg)
 
 ![Forbes](/static/img/forbes.0b2a405.svg) ![the Verge](/static/img/verge.ed6dcfa.svg) ![LifeHacker](/static/img/lifehacker.122241f.png) ![TNW](/static/img/tnw.def4936.svg) ![VB](/static/img/vb.fb28755.svg) ![TechRadar](/static/img/techradar.5a60700.svg)
 
