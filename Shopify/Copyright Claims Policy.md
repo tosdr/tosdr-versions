@@ -36,7 +36,7 @@ While Shopify respects legitimate IP rights, it will also not let its policies b
 * [Reporting trademark or trade dress infringement or responding to a trademark or trade dress notice](https://help.shopify.com/en/manual/compliance/intellectual-property/trademark-trade-dress-policy)
     
 
-Can't find answers you're looking for? We're here to help you.
+Can’t find the answers you’re looking for? We’re here to help.
 
 Contact Support
 
