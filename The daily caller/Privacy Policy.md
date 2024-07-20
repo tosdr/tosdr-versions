@@ -40,7 +40,7 @@ Account](https://dailycaller.com/account/)
 * [Newsletters](https://dailycaller.com/newsletters/)
 * [Documentaries](https://dailycaller.com/stream/)
     
-    [Demand For Hate](https://dailycaller.com/stream/demand-for-hate/)
+    [Anarchy U](https://dailycaller.com/stream/anarchy-u/)
     
     [Stream Documentaries](https://dailycaller.com/stream/)
 * [Patriots](https://dailycaller.com/section/patriots/)
@@ -304,35 +304,35 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/20/israel-antiquities-authority-discovery-bronze-age-deep-sea-cargo-ship-jars/ "'Changes Our Entire Understanding': Researchers Discover Oldest Known Deep-Sea Cargo Ship")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/ "Clint Eastwood's Longtime Partner Dead At 61")
 
 1
 
-['Changes Our Entire Understanding': Researchers Discover Oldest Known Deep-Sea Cargo Ship](https://dailycaller.com/2024/06/20/israel-antiquities-authority-discovery-bronze-age-deep-sea-cargo-ship-jars/)
+[Clint Eastwood's Longtime Partner Dead At 61](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/)
 
-World
+Entertainment
 
 2
 
-[Supreme Court Rules In Favor Of Grandmother Jailed In Alleged Retaliation](https://dailycaller.com/2024/06/20/supreme-court-sylvia-gonzalez-jailed-retaliation/)
+[Rachel Maddow Goes On Hilarious Rant Against 'The Lord Of The Rings'](https://dailycaller.com/2024/07/19/rachel-maddow-lord-of-the-rings-jd-vance/)
 
-US
+Opinion
 
 3
 
-[Supreme Court Rejects Challenge To Trump-Era Tax](https://dailycaller.com/2024/06/20/supreme-court-rejects-challenge-trump-era-tax-law/)
+[Court Ordered To Reconsider Biden Admin Green Investing Rule Following Landmark Supreme Court Ruling](https://dailycaller.com/2024/07/19/court-reconsider-biden-admin-green-investing-rule/)
 
 US
 
 4
 
-[Police Arrest Daughter Of Famous Actress For Bizarre Theft: REPORT](https://dailycaller.com/2024/06/20/angie-harmon-daughter-avery-sehorn-theft-larceny-bottles-alcohol-break-in/)
+['All Of A Sudden, Whammo!': 89-Year-Old Stand-Up Comedian Receives Sucker Punch To Face, Police Say](https://dailycaller.com/2024/07/19/dyan-forest-comedian-sucker-punched-random-attack-new-york-city-assault/)
 
-Entertainment
+US
 
 5
 
-[‘Get That Dog Off’: Donald Trump Takes Aim At Fox News Board Member](https://dailycaller.com/2024/06/19/get-dog-off-donald-trump-fox-news-board-member-paul-ryan/)
+[NBC Has Now Interrupted Two Prayers At The RNC, And The Second Time Didn’t Go Well](https://dailycaller.com/2024/07/18/nbc-news-interrupts-republican-national-convention-prayers/)
 
 Media
 
@@ -411,7 +411,7 @@ Submit
 * [Newsletters](https://dailycaller.com/newsletters/)
 * [Documentaries](https://dailycaller.com/stream/)
     * < Back
-    * [Demand For Hate](https://dailycaller.com/stream/demand-for-hate/)
+    * [Anarchy U](https://dailycaller.com/stream/anarchy-u/)
     * [Stream Documentaries](https://dailycaller.com/stream/)
 * [Patriots](https://dailycaller.com/section/patriots/)
     * < Back
