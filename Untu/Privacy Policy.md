@@ -6,7 +6,7 @@
     * [Contact us](https://www.untu.us/contact-us/)
     * [Join our team](https://www.untu.us/work-for-us/)
     
-    [![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10-768x384.png&w=3840&q=75)
+    [![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10.png&w=3840&q=75)
     
     ### Google API Leak: A Look Inside the Algorithm](https://www.untu.us/insights/google-api-leak/)
     
@@ -323,6 +323,16 @@ Join clients like
 
 ![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
 
+![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Amgen-1.svg)
+
+![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/LOréal_logo.svg)
+
+![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Logo_Bayer-1.svg)
+
+![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Bill__Melinda_Gates_Foundation_logo-1.svg)
+
+![](https://media.winwithoptimal.com/wp-content/uploads/2022/07/Rhode-Island.svg)
+
 Winning results
 ---------------
 
@@ -357,15 +367,15 @@ Get ahead with the news and insights you need to inform and inspire your next su
 
 [Read more](https://www.untu.us/insights/)
 
-[![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10-768x384.png&w=3840&q=75)
+[![computer screen showing data](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-10.png&w=3840&q=75)
 
-Consumer
+ConsumerEntertainmentHealthcare
 
 ### Google API Leak: A Look Inside the Algorithm](https://www.untu.us/insights/google-api-leak/)[![magnifying glass on computer screen](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F06%2FUntitled-design-9.png&w=3840&q=75)
 
-Consumer
+ConsumerEntertainmentHealthcare
 
-### Smarter Search? AI Overviews Explained](https://www.untu.us/insights/google-ai-overviews/)[![optimal impact awards cover](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F05%2FOptimal-Impact-Award-Winners-Blog-image-3-768x768.png&w=3840&q=75)
+### Smarter Search? AI Overviews Explained](https://www.untu.us/insights/google-ai-overviews/)[![optimal impact awards cover](/_next/image/?url=https%3A%2F%2Fmedia.winwithoptimal.com%2Fwp-content%2Fuploads%2F2024%2F05%2FOptimal-Impact-Award-Winners-Blog-image-3.png&w=3840&q=75)
 
 ConsumerHealthcarePoliticsPublic affairs
 
