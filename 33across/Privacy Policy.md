@@ -169,10 +169,10 @@ Next
 solutions
 ---------
 
-* [Supply-Side Platforms](#Content-c19cbbb6699a71d18819)
-* [Publishers](#Content-e0ab41b6699a71d18819)
-* [Demand-Side Platforms](#Content-e93a18f6699a71d18819)
-* [Data Companies](#Content-7f95e576699a71d18819)
+* [Supply-Side Platforms](#Content-c19cbbb669bae304dec7)
+* [Publishers](#Content-e0ab41b669bae304dec7)
+* [Demand-Side Platforms](#Content-e93a18f669bae304dec7)
+* [Data Companies](#Content-7f95e57669bae304dec7)
 
 LEXICON FOR
 -----------
