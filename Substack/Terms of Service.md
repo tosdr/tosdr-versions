@@ -7,7 +7,7 @@
 * [Help center](https://support.substack.com/hc/en-us/?utm_source=menu-dropdown)
 * [Brand assets](https://substack.com/brand?utm_source=menu-dropdown)
 
-Writers
+Creators
 
 * [Switch to Substack](https://substack.com/switch?utm_source=menu-dropdown)
 * [Go paid](https://substack.com/going-paid?utm_source=menu-dropdown)
@@ -21,7 +21,7 @@ Writers
 * [For food writers](https://substack.com/food-writers?utm_source=menu-dropdown)
 * [For local news](https://substack.com/local-news?utm_source=menu-dropdown)
 
-Readers
+Explore
 
 * [Substack App](https://substack.com/app?utm_source=menu-dropdown)
 * [Discover](https://substack.com/discover?utm_source=menu-dropdown)
@@ -32,11 +32,11 @@ Start publishing
 
 Sign in
 
-Readers
+Explore
 
 [Substack App](https://substack.com/app?utm_source=menu-dropdown)[Discover](https://substack.com/discover?utm_source=menu-dropdown)[Featured](https://on.substack.com/s/stories)[Substacks around the world](https://www.substack.com/globe)
 
-Writers
+Creators
 
 [Switch to Substack](https://substack.com/switch?utm_source=menu-dropdown)[Go paid](https://substack.com/going-paid?utm_source=menu-dropdown)[Grow your audience](https://substack.com/growthfeatures?utm_source=menu-dropdown)[For video](https://substack.com/video?utm_source=menu-dropdown)[For podcasts](https://substack.com/podcasts?utm_source=menu-dropdown)[For bloggers](https://substack.com/for-bloggers?utm_source=menu-dropdown)[For finance writers](https://substack.com/investing-and-business?utm_source=menu-dropdown)[For authors](https://substack.com/book?utm_source=menu-dropdown)[For comic creators](https://substack.com/comic-book-creators?utm_source=menu-dropdown)[For food writers](https://substack.com/food-writers?utm_source=menu-dropdown)[For local news](https://substack.com/local-news?utm_source=menu-dropdown)
 
@@ -264,7 +264,7 @@ The above covers most of the questions that we typically receive about Substack.
 
 ### Writers
 
-[Switch to Substack](https://substack.com/switch?utm_source=substack&utm_medium=web&utm_content=footer)[Switch from Ghost](https://substack.com/ghost?utm_source=substack&utm_medium=web&utm_content=footer)[Get started](https://on.substack.com/p/start-a-substack-newsletter?utm_source=substack&utm_medium=web&utm_content=footer)[Go paid](https://substack.com/going-paid?utm_source=substack&utm_medium=web&utm_content=footer)[For podcasts](https://substack.com/podcasts?utm_source=substack&utm_medium=web&utm_content=footer)[For bloggers](https://substack.com/for-bloggers?utm_source=substack&utm_medium=web&utm_content=footer)[For finance writers](https://substack.com/investing-and-business?utm_source=substack&utm_medium=web&utm_content=footer)[For authors](https://substack.com/book?utm_source=substack&utm_medium=web&utm_content=footer)[For comic creators](https://substack.com/comic-book-creators?utm_source=substack&utm_medium=web&utm_content=footer)[For food writers](https://substack.com/food-writers?utm_source=substack&utm_medium=web&utm_content=footer)[For local news](https://substack.com/local-news?utm_source=substack&utm_medium=web&utm_content=footer)
+[Switch to Substack](https://substack.com/switch?utm_source=substack&utm_medium=web&utm_content=footer)[Switch from Ghost](https://substack.com/ghost?utm_source=substack&utm_medium=web&utm_content=footer)[Get started](https://substack.com/get-started?utm_source=substack&utm_medium=web&utm_content=footer)[Go paid](https://substack.com/going-paid?utm_source=substack&utm_medium=web&utm_content=footer)[For podcasts](https://substack.com/podcasts?utm_source=substack&utm_medium=web&utm_content=footer)[For bloggers](https://substack.com/for-bloggers?utm_source=substack&utm_medium=web&utm_content=footer)[For finance writers](https://substack.com/investing-and-business?utm_source=substack&utm_medium=web&utm_content=footer)[For authors](https://substack.com/book?utm_source=substack&utm_medium=web&utm_content=footer)[For comic creators](https://substack.com/comic-book-creators?utm_source=substack&utm_medium=web&utm_content=footer)[For food writers](https://substack.com/food-writers?utm_source=substack&utm_medium=web&utm_content=footer)[For local news](https://substack.com/local-news?utm_source=substack&utm_medium=web&utm_content=footer)
 
 ### Company
 
