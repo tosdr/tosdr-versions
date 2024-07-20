@@ -353,7 +353,7 @@ Website: [https://yunibalance.com](https://yunibalance.com/)
 Email: privacy@yunibalance.com  
 Phone number: +46704698754
 
-This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on June 14, 2024.
+This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on July 19, 2024.
 
 ##### Recent Posts
 
