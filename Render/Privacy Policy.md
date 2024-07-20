@@ -49,12 +49,12 @@ Runtimes
 
 [Get Started](https://dashboard.render.com/register)
 
-[Privacy Policy](https://render.com/privacy)[Terms of Service](https://render.com/terms)[Acceptable Use Policy](https://render.com/acceptable-use)[Accessibility](https://render.com/accessibility)
+[Shared Responsibility Model](https://render.com/shared-responsibility-model)[Privacy Policy](https://render.com/privacy)[Terms of Service](https://render.com/terms)[Acceptable Use Policy](https://render.com/acceptable-use)[Accessibility](https://render.com/accessibility)
 
 Render Services, Inc. Privacy Policy
 ====================================
 
-Last Modified: June 05, 2024
+Last Modified: July 11, 2024
 
 Welcome and thank you for your interest in Render Services, Inc. (”**Render**”, ”**we**”, ”**our**”, or ”**us**”). This Privacy Policy explains how information that identifies or is associated with you (your ”**personal information**”) is collected, used, and disclosed by Render. This Privacy Policy applies to our websites including [https://render.com](https://render.com/) and any other website that links to this Policy (our ”**Sites**”) (collectively, our ”**Service**”). Before accessing or using our Service, please ensure that you have read, and understood our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our [Terms of Service](https://render.com/terms).
 
@@ -127,54 +127,6 @@ Some of these opt-outs may not be effective unless your browser is set to accept
 ---------------------------------------------
 
 1. **Data storage and transfer:** We store data on servers in the U.S. or any other country in which Render or its affiliates, subsidiaries, agents or contractors maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that your personal information may be transferred to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.  
-      
-    _Subprocessor:_ Amazon Web Services (AWS)  
-    _Purpose:_ Hosting and Cloud Platform  
-    _Location of processing:_ Servers in Germany, Singapore, and the United States; headquarters in the United States  
-      
-    _Subprocessor:_ Google Cloud Platform (GCP)  
-    _Purpose:_ Hosting and Cloud Platform  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Cloudflare  
-    _Purpose:_ Content Delivery Network, Web Application Firewall, and DDOS Protection  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Stripe  
-    _Purpose:_ Payment processing  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Koala  
-    _Purpose:_ User Analytics  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Mixpanel  
-    _Purpose:_ Metrics  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Segment  
-    _Purpose:_ Analytics  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Sentry  
-    _Purpose:_ Performance monitoring and Error tracking  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Stitch  
-    _Purpose:_ Data Pipeline ETL  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Datadog  
-    _Purpose:_ Monitoring  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Intercom  
-    _Purpose:_ Customer support  
-    _Location of processing:_ United States  
-      
-    _Subprocessor:_ Zendesk  
-    _Purpose:_ Customer support  
-    _Location of processing:_ United States  
     
 2. **Data retention:** We will retain your information as long as necessary for the purposes outlined in this Privacy Policy, and for a commercially reasonable time thereafter for backup, archival, fraud prevention or detection, or audit purposes, or as otherwise required by law. We may anonymize and/or aggregate personal information and store it in order to analyze aggregate metrics and trends.
 3. **Keeping your information safe:** We care about the security of your information and employ physical, administrative, and technological safeguards designed to preserve the integrity and security of all information collected through our Service. However, no security system is impenetrable, and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
