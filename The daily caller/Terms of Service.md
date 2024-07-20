@@ -40,7 +40,7 @@ Account](https://dailycaller.com/account/)
 * [Newsletters](https://dailycaller.com/newsletters/)
 * [Documentaries](https://dailycaller.com/stream/)
     
-    [Demand For Hate](https://dailycaller.com/stream/demand-for-hate/)
+    [Anarchy U](https://dailycaller.com/stream/anarchy-u/)
     
     [Stream Documentaries](https://dailycaller.com/stream/)
 * [Patriots](https://dailycaller.com/section/patriots/)
@@ -308,37 +308,37 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/06/20/angie-harmon-daughter-avery-sehorn-theft-larceny-bottles-alcohol-break-in/ "Police Arrest Daughter Of Famous Actress For Bizarre Theft: REPORT")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/ "Clint Eastwood's Longtime Partner Dead At 61")
 
 1
 
-[Police Arrest Daughter Of Famous Actress For Bizarre Theft: REPORT](https://dailycaller.com/2024/06/20/angie-harmon-daughter-avery-sehorn-theft-larceny-bottles-alcohol-break-in/)
+[Clint Eastwood's Longtime Partner Dead At 61](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/)
 
 Entertainment
 
 2
 
-[What A Legend: One Of The Coolest Golfers In The Game Just Got A Lot Cooler](https://dailycaller.com/2024/06/20/bryson-dechambeau-nashville-us-open-trophy-golf/)
+[George Conway Uses Props On 'Morning Joe' In Attempt To Diagnose Trump As A 'Psychopath'](https://dailycaller.com/2024/07/19/george-conway-uses-props-on-morning-joe-in-attempt-to-diagnose-trump-as-a-psychopath/)
 
-Editorial
+Media
 
 3
 
-[Huge Percentage Of EV Owners Want To Go Back To Normal Cars, Study Finds](https://dailycaller.com/2024/06/20/electric-vehicle-owners-40-percent-gas-cars-mckinsey/)
+[100s Of Tracks Predating The Dinosaurs Discovered On US Man's Property](https://dailycaller.com/2024/07/19/snowflake-arizona-dinosaur-footprint-chirotherium-giant-lizard-discovered-date/)
 
-Energy
+US
 
 4
 
-[We Reportedly Have Our First High-Profile Trade Of The NBA Offseason, And It's An Outright Steal For One Team](https://dailycaller.com/2024/06/20/alex-caruso-josh-giddey-bulls-thunder-trade-nba/)
+[REPORT: Disgusting Last Internet Search Of Thomas Matthew Crooks Before Trump Shooting Revealed](https://dailycaller.com/2024/07/19/internet-search-thomas-matthew-crooks-trump-shooting-porn/)
 
-Editorial
+Politics
 
 5
 
-[Republicans Outpace Dems In Fundraising As Control Of Key Legislatures Hangs In Balance](https://dailycaller.com/2024/06/19/republicans-outpace-dems-in-fundraising-as-control-of-key-legislatures-hangs-in-balance/)
+[Country Singer Among Hundreds Paying Tribute In Memorial Service For Firefighter Who Died During Trump Rally](https://dailycaller.com/2024/07/19/billy-ray-cyrus-tribute-memorial-service-firefighter-died-trump-rally/)
 
-Politics
+Entertainment
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
@@ -415,7 +415,7 @@ Submit
 * [Newsletters](https://dailycaller.com/newsletters/)
 * [Documentaries](https://dailycaller.com/stream/)
     * < Back
-    * [Demand For Hate](https://dailycaller.com/stream/demand-for-hate/)
+    * [Anarchy U](https://dailycaller.com/stream/anarchy-u/)
     * [Stream Documentaries](https://dailycaller.com/stream/)
 * [Patriots](https://dailycaller.com/section/patriots/)
     * < Back
