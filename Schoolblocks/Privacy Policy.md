@@ -103,7 +103,7 @@ Carbondale, CO 81623](https://www.google.com/maps/place/417+Main+St,+Carbondale,
 
   
 
-Copyright @2022 School Blocks
+Copyright @2024 School Blocks
 
 * [](https://www.facebook.com/schoolblockscommunity)
 * [](https://twitter.com/SchoolBlocks?lang=en)
