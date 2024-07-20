@@ -26,8 +26,6 @@ United States
 
 [Pro](https://shadow.tech/shadowpro/offers)
 
-[Enterprise](https://shadow.tech/enterprise/offers)
-
 [Drive](https://shadow.tech/drive)
 
 [Game Store](https://shadow.tech/game-store)
@@ -139,7 +137,6 @@ Date of last update: March 13, 2020
     * [Shadow PC Essential](https://shadow.tech/shadowpcessential)
     * [Shadow Drive](https://shadow.tech/drive)
     * [Shadow PC Pro](https://shadow.tech/shadowpro/offers)
-    * [Shadow PC Enterprise](https://shadow.tech/enterprise/offers)
 * Resources
     
     * [Requirements](https://shadow.tech/requirements)
