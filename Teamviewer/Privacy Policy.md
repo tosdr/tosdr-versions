@@ -62,6 +62,7 @@
 * [Solutions](#)
     * [By Industries](#)
         * [Automotive](https://www.teamviewer.com/en-us/solutions/industries/automotive/)
+        * [Agriculture](https://www.teamviewer.com/en-us/solutions/industries/agriculture/)
         * [Logistics](https://www.teamviewer.com/en-us/solutions/industries/logistics/)
         * [Manufacturing](https://www.teamviewer.com/en-us/solutions/industries/manufacturing/)
         * [Retail](https://www.teamviewer.com/en-us/solutions/industries/retail/)
@@ -82,9 +83,10 @@
         * [Personal use](https://www.teamviewer.com/en-us/solutions/roles/personal-use/)
         * [Small businesses](https://www.teamviewer.com/en-us/solutions/roles/small-businesses/)
         * [Large businesses](https://www.teamviewer.com/en-us/solutions/roles/large-businesses/)
+        * [Managed service providers](https://www.teamviewer.com/en-us/solutions/roles/managed-service-providers/)
         * [Freelancers and digital nomads](https://www.teamviewer.com/en-us/solutions/roles/freelancer-digital-nomad/)
 * [Resources](#)
-    * [News and insights](https://www.teamviewer.com/en-us/resources/news-insights/)
+    * [News and Insights](https://www.teamviewer.com/en-us/resources/news-insights/)
     * [Success Stories](https://www.teamviewer.com/en-us/resources/success-stories/)
     * [Events and Webinars](https://www.teamviewer.com/en-us/resources/events/)
     * [Trust Center](https://www.teamviewer.com/en-us/resources/trust-center/)
@@ -1460,15 +1462,15 @@ Selecting a region changes the language and/or content on teamviewer.com
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Bulgaria)
         
         Bulgaria - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
-    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Czech_Republic)
-        
-        Česká republika - Čeština](https://www.teamviewer.com/cs/legal/privacy-and-cookies/?language-switched=true)
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Croatia)
         
         Croatia - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Cyprus)
         
         Cyprus - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
+    * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_the_Czech_Republic)
+        
+        Czechia - Čeština](https://www.teamviewer.com/cs/legal/privacy-and-cookies/?language-switched=true)
     * [![](https://s7g10.scene7.com/is/content/teamviewergmbh/Flag_of_Denmark)
         
         Denmark - English](https://www.teamviewer.com/en/legal/privacy-and-cookies/?language-switched=true)
@@ -1583,7 +1585,7 @@ Change Region
     * [By Use Cases](https://www.teamviewer.com/en-us/solutions/use-cases/)
     * [By Roles](https://www.teamviewer.com/en-us/solutions/roles/)
 * Resources
-    * [News and insights](https://www.teamviewer.com/en-us/resources/news-insights/)
+    * [News and Insights](https://www.teamviewer.com/en-us/resources/news-insights/)
     * [Success Stories](https://www.teamviewer.com/en-us/resources/success-stories/)
     * [Events and Webinars](https://www.teamviewer.com/en-us/resources/events/)
     * [Trust Center](https://www.teamviewer.com/en-us/resources/trust-center/)
@@ -1606,7 +1608,6 @@ Change Region
 * Additional Links
     * [Contact Sales](https://www.teamviewer.com/en-us/global/company/contact-sales/)
     * [TeamViewer User Focus Program](https://www.teamviewer.com/en-us/resources/teamviewer-user-focus-program/)
-    * [Find Your Better](https://www.teamviewer.com/en-us/special/find-your-better/)
     * [Research Projects](https://www.teamviewer.com/en-us/global/company/research-projects/)
     * [Newsletter](https://www.teamviewer.com/en-us/newsletter/)
 
