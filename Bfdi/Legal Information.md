@@ -79,6 +79,7 @@ Hauptmenü
     
     * [Fi­nan­zen und Steu­ern](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/FinanzenSteuern/FinanzenSteuern-node.html "Finanzen und Steuern")
     * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Meldewesen-Statistik/Meldewesen-Statistik_node.html)
+    * [Asyl und Mi­gra­ti­on](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Asyl-Migration/Asyl-Migration_node.html)
     * [Wei­te­re Ver­wal­tungs­tä­tig­kei­ten](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Weitere-Verwaltungstaetigkeiten/Weitere-Verwaltungstaetigkeiten-node.html)
     
     [Tech­ni­sche An­wen­dun­gen](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Technische-Anwendungen_node.html)
@@ -269,6 +270,7 @@ Schließen
     * Allgemeine Verwaltung
         * [Fi­nan­zen und Steu­ern](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/FinanzenSteuern/FinanzenSteuern-node.html "Finanzen und Steuern")
         * [Mel­de­we­sen und Sta­tis­tik](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Meldewesen-Statistik/Meldewesen-Statistik_node.html)
+        * [Asyl und Mi­gra­ti­on](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Asyl-Migration/Asyl-Migration_node.html)
         * [Wei­te­re Ver­wal­tungs­tä­tig­kei­ten](https://www.bfdi.bund.de/DE/Buerger/Allgemeine-Verwaltung/Weitere-Verwaltungstaetigkeiten/Weitere-Verwaltungstaetigkeiten-node.html)
     * Technische Anwendungen
         * [Smart­wat­ches für Kin­der](https://www.bfdi.bund.de/DE/Buerger/Technische-Anwendungen/Smartwatch/Smartwatch_node.html)
