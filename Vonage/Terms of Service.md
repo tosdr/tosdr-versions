@@ -52,11 +52,11 @@ Products
     
     * [MMS](https://www.vonage.com/communications-apis/messages/features/mms/)
     
+    * [RCS](https://www.vonage.com/communications-apis/messages/features/rcs/)
+    
     * [WhatsApp](https://www.vonage.com/communications-apis/messages/features/whatsapp/)
     
     * [Facebook Messenger](https://www.vonage.com/communications-apis/messages/features/facebook-messenger/)
-    
-    * [Viber](https://www.vonage.com/communications-apis/messages/features/viber/)
 * * [Programmable Voice](https://www.vonage.com/communications-apis/programmable-voice/)
     
     * [Voice API](https://www.vonage.com/communications-apis/voice/)
@@ -202,6 +202,8 @@ Products
     
     * [WhatsApp](https://www.vonage.com/conversational-commerce/channels/whatsapp-business-api/)
     
+    * [RCS](https://www.vonage.com/conversational-commerce/channels/rcs/)
+    
     * [View all](https://www.vonage.com/conversational-commerce/channels/)
 * * [Integrations](https://www.vonage.com/conversational-commerce/integrations/)
     
@@ -271,7 +273,7 @@ Solutions
 * [Log In](https://www.vonage.com/log-in/)
 * [Support](https://www.vonage.com/support/)
 
-Global (English) Philippines (English) Australia (English) United Kingdom (English) Singapore (English) Malaysia (English) Indonesia (English) Hong Kong SAR. (English) Canada (English) Canada (Français) 日本 (日本語) 대한민국 (한국어) 中国大陆(中文) Deutschland (Deutsch) France (Français) México (Español) España (Español) Brasil (português)
+Global (English) Philippines (English) Australia (English) United Kingdom (English) Taiwan (English) Singapore (English) Malaysia (English) Indonesia (English) Hong Kong SAR. (English) Canada (English) Canada (Français) 日本 (日本語) 대한민국 (한국어) 中国大陆(中文) Deutschland (Deutsch) France (Français) Chile (Español) Colombia (Español) México (Español) España (Español) Argentina (Español) Brasil (português)
 
 VONAGE® and the V logo (![Vonage V Logo](/content/dam/vonage/us-en/brand/logos/Vonage_V_Logo_Black.svg)®) are registered trademarks of Vonage America, LLC
 
@@ -304,6 +306,7 @@ Legal/Policy
 
 * [Legal](https://www.vonage.com/legal/)
 * [Privacy](https://www.vonage.com/legal/privacy-policy/)
+* [Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/96777f10-6f1e-44b1-b0f7-9c318f8d2e5f/b879048e-a00f-4b8e-8721-d84f2a1bda05?adobe_mc=MCMID%3D79591487455718016410916570164728098041%7CMCORGID%3DA8833BC75245AF9E0A490D4D%2540AdobeOrg%7CTS%3D1719429860)
 * Cookie Settings
 * [Patents](https://www.vonage.com/patents/)
 * [Copyright](https://www.vonage.com/legal/copyright-policy/)
