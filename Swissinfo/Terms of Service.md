@@ -256,7 +256,7 @@ Stay informed daily about news in Switzerland with our Briefing in the SWI plus 
     
 * [Podcasts](https://www.swissinfo.ch/eng/podcasts)
     
-* [Contact](https://www.swissinfo.ch/eng/contact)
+* [Contact](https://www.swissinfo.ch/eng/contact-us-swi)
     
 
 SWI swissinfo.ch - a branch of Swiss Broadcasting Corporation SRG SSR
