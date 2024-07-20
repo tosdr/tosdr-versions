@@ -132,6 +132,7 @@ Search Search Keyword:     Search
     * [Victorious Family](https://www.washingtontimes.com/specials/victorious-family/ "Victorious Family")
     * [Energy 2024](https://www.washingtontimes.com/specials/energy-2024/ "Energy 2024")
     * [Infrastructure 2024](https://www.washingtontimes.com/specials/infrastructure-2024/ "Infrastructure 2024")
+    * [Free Iran 2024](https://www.washingtontimes.com/specials/free-iran-global-assembly-2024/ "Free Iran 2024")
 * [Events](javascript:; "Events")
     * [Corrections](https://www.washingtontimes.com/news/corrections/ "Corrections")
     * [Reinventing after Globalization](https://www.washingtontimes.com/video/reinventing-globalization-livestream/ "Reinventing after Globalization")
@@ -168,42 +169,42 @@ Search Search Keyword:     Search
 * [Subscribe](https://www.washingtontimes.com/subscribe/?subscribe-button-scroll "Subscribe")
 * [Sign In](https://www.washingtontimes.com/my-account/ "Sign In")
 
-[![District of Sports Podcast](https://twt-thumbs.washtimes.com/media/specials/0620_DOS_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/district-sports-podcast/)
+[![2024 Republican National Convention](https://twt-thumbs.washtimes.com/media/specials/thumbnails/APTOPIX_Election_2024_RNC_27118_k65x65.jpg?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/2024-republican-national-convention/)
 
-[Washington Spirit breaking attendance records](https://www.washingtontimes.com/specials/district-sports-podcast/ "District of Sports Podcast") New episode of District of Sports
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[See the RNC: 2024 Republican National Convention](https://www.washingtontimes.com/specials/2024-republican-national-convention/ "2024 Republican National Convention") Donald Trump accepts nomination
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bold &amp; Blunt Podcast](https://twt-thumbs.washtimes.com/media/specials/0619_FRONT_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/bold-blunt-podcast/)
+[![Republican presidential candidate former President Donald Trump, applauds with Republican vice presidential candidate Sen. JD Vance, R-Ohio, during the Republican National Convention Tuesday, July 16, 2024, in Milwaukee. (AP Photo/Nam Y. Huh)](https://twt-thumbs.washtimes.com/media/image/2024/07/17/APTOPIX_Election_2024_RNC_62343_c1000-0-5000-4000_s170x170.jpg?f1bd568da5c7bdf6da31e5d48e36e160bf9aed8d)](https://www.washingtontimes.com/news/2024/jul/17/rnc-by-numbers-50000-attendees-100000-balloons-200/)
 
-[Listen: America’s religious war](https://www.washingtontimes.com/specials/bold-blunt-podcast/ "Bold & Blunt Podcast") Author Albin Sadar joins Cheryl Chumley
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[RNC by the numbers: 50,000 attendees, 100,000 balloons, $200 million impact on Milwaukee](https://www.washingtontimes.com/news/2024/jul/17/rnc-by-numbers-50000-attendees-100000-balloons-200/ "RNC by the numbers: 50,000 attendees, 100,000 balloons, $200 million impact on Milwaukee")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Politically Unstable: Donald Trump is in a strong position to win in November. Washington Times commentary editor Kelly Sadler and former special assistant to President Trump Marc Lotter discuss on this week&#x27;s Politically Unstable.](https://twt-thumbs.washtimes.com/media/image/2024/06/20/Screen_Shot_2024-06-20_at_3.59.19_PM_c241-0-865-624_s170x170.png?2b265c8332f5395eddf5f1f146ac0b59e78d8af4)](https://www.washingtontimes.com/news/2024/jun/20/politically-unstable-donald-trump-strong-position-/)
+[![The Washington Times&#x27; Mallory Wilson takes a stroll around Milwaukee for a look at the fashion selection at the 2024 RNC.](https://twt-thumbs.washtimes.com/media/image/2024/07/17/Screen_Shot_2024-07-17_at_5.15.53_PM_c245-0-872-627_s170x170.png?fb50491211eea34bec3052d26715c112c4904f37)](https://www.washingtontimes.com/news/2024/jul/17/who-wore-what-hot-fashion-trends-republican-nation/)
 
-[WATCH: Donald Trump is in a strong position to win in November](https://www.washingtontimes.com/news/2024/jun/20/politically-unstable-donald-trump-strong-position-/ "WATCH:  Donald Trump is in a strong position to win in November") Marc Lotter joins Kelly Sadler
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[WATCH: Who wore what? See the hot fashion trends at the RNC](https://www.washingtontimes.com/news/2024/jul/17/who-wore-what-hot-fashion-trends-republican-nation/ "WATCH: Who wore what? See the hot fashion trends at the RNC") Mallory Wilson investigates
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **TRENDING:**
 
 [Donald Trump](https://www.washingtontimes.com/topics/donald-trump/ "Donald Trump")
 
+[Washington](https://www.washingtontimes.com/topics/washington/ "Washington")
+
 [Russia](https://www.washingtontimes.com/topics/russia/ "Russia")
 
-[Joe Biden](https://www.washingtontimes.com/topics/joe-biden/ "Joe Biden")
-
-[Israel](https://www.washingtontimes.com/topics/israel/ "Israel")
-
-[North Korea](https://www.washingtontimes.com/topics/north-korea/ "North Korea")
-
-[Ukraine](https://www.washingtontimes.com/topics/ukraine/ "Ukraine")
-
-[New York](https://www.washingtontimes.com/topics/new-york/ "New York")
-
-[Amazon](https://www.washingtontimes.com/topics/amazon/ "Amazon")
+[Evan Gershkovich](https://www.washingtontimes.com/topics/evan-gershkovich/ "Evan Gershkovich")
 
 [China](https://www.washingtontimes.com/topics/china/ "China")
 
-[Gaza](https://www.washingtontimes.com/topics/gaza/ "Gaza")
+[Crowdstrike](https://www.washingtontimes.com/topics/crowdstrike/ "Crowdstrike")
+
+[Israel](https://www.washingtontimes.com/topics/israel/ "Israel")
+
+[New York](https://www.washingtontimes.com/topics/new-york/ "New York")
+
+[Ukraine](https://www.washingtontimes.com/topics/ukraine/ "Ukraine")
+
+[House](https://www.washingtontimes.com/topics/house/ "House")
 
 Advertisement
 
@@ -329,15 +330,15 @@ Advertisement
 Most Popular
 ------------
 
-### [Here are Donald Trump's top three arguments for appeal after guilty verdict in hush money trial](https://www.washingtontimes.com/news/2024/may/30/here-are-donald-trumps-top-three-arguments-for-app/ "Here are Donald Trump's top three arguments for appeal after guilty verdict in hush money trial")
+### [Humiliations pile up for North Korea's dwindling diplomatic corps](https://www.washingtontimes.com/news/2024/jul/19/humiliations-pile-up-for-north-koreas-dwindling-di/ "Humiliations pile up for North Korea's dwindling diplomatic corps")
 
-### [Sign of the times: Biden slaps his name on taxpayer-funded projects](https://www.washingtontimes.com/news/2024/jun/20/sign-of-times-biden-slaps-his-name-on-taxpayer-fun/ "Sign of the times: Biden slaps his name on taxpayer-funded projects")
+### [Feds drop Jan. 6 obstruction charge against Proud Boys after Supreme Court ruling](https://www.washingtontimes.com/news/2024/jul/19/feds-drop-jan-6-obstruction-charge-against-proud-b/ "Feds drop Jan. 6 obstruction charge against Proud Boys after Supreme Court ruling")
 
-### [White House enlists media allies to protect Biden from videos of himself](https://www.washingtontimes.com/news/2024/jun/20/white-house-enlists-media-allies-to-protect-biden-/ "White House enlists media allies to protect Biden from videos of himself")
+### [Beating Hollywood: Trump's GOP steals the story](https://www.washingtontimes.com/news/2024/jul/18/beating-hollywood-trumps-gop-steals-story/ "Beating Hollywood: Trump's GOP steals the story")
 
-### [Xi echoes Mao in urging communist political control over PLA 'guns'](https://www.washingtontimes.com/news/2024/jun/20/xi-echoes-mao-urging-communist-political-control-o/ "Xi echoes Mao in urging communist political control over PLA 'guns'")
+### [Hiding in plain sight: Joe Biden's mental, physical decline on display from the start](https://www.washingtontimes.com/news/2024/jul/10/hiding-in-plain-sight-joe-bidens-mental-physical-d/ "Hiding in plain sight: Joe Biden's mental, physical decline on display from the start")
 
-### ['Star Wars' fans abandon ship as Disney+ brings on the 'lesbian space witches'](https://www.washingtontimes.com/news/2024/jun/18/star-wars-fans-abandon-ship-disney-brings-lesbian-/ "'Star Wars' fans abandon ship as Disney+ brings on the 'lesbian space witches'")
+### [House subpoenas Alejandro Mayorkas for Secret Service documents on Donald Trump rally](https://www.washingtontimes.com/news/2024/jul/19/house-subpoenas-alejandro-mayorkas-secret-service-/ "House subpoenas Alejandro Mayorkas for Secret Service documents on Donald Trump rally")
 
 Advertisement
 
@@ -346,78 +347,78 @@ Advertisement
 Commentary
 ----------
 
+![Tom Basile](https://twt-thumbs.washtimes.com/media/img/staff/2021/tom-basile-350-v2_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Tom Basile](https://www.washingtontimes.com/staff/tom-basile/)
+
+[Yes, God saved Trump](https://www.washingtontimes.com/higher-ground/2024/jul/19/yes-god-saved-trump/ "Yes, God saved Trump")
+
+![Everett Piper](https://twt-thumbs.washtimes.com/media/img/staff/2018/everett-piper-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Everett Piper](https://www.washingtontimes.com/staff/everett-piper/)
+
+[Why I am a Republican](https://www.washingtontimes.com/higher-ground/2024/jul/19/why-i-am-republican/ "Why I am a Republican")
+
+![Charles Hurt](https://twt-thumbs.washtimes.com/media/img/staff/2016/charles-hurt-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Charles Hurt](https://www.washingtontimes.com/staff/charles-hurt/)
+
+[Beating Hollywood: Trump’s GOP steals the story](https://www.washingtontimes.com/higher-ground/2024/jul/18/beating-hollywood-trumps-gop-steals-story/ "Beating Hollywood: Trump’s GOP steals the story")
+
 ![Tim Murtaugh](https://twt-thumbs.washtimes.com/media/img/staff/2022/tim-murtaugh-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
 ### [Tim Murtaugh](https://www.washingtontimes.com/staff/tim-murtaugh/)
 
-[White House enlists media allies to protect Biden from videos of himself](https://www.washingtontimes.com/news/2024/jun/20/white-house-enlists-media-allies-to-protect-biden-/ "White House enlists media allies to protect Biden from videos of himself")
+[MSNBC acknowledges leftist radicalism by benching ‘Morning Joe’ for a day](https://www.washingtontimes.com/higher-ground/2024/jul/18/msnbc-acknowledges-leftist-radicalism-by-benching-/ "MSNBC acknowledges leftist radicalism by benching ‘Morning Joe’ for a day")
 
 ![Scott Walker](https://twt-thumbs.washtimes.com/media/img/staff/2019/scott-walker-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
 ### [Scott Walker](https://www.washingtontimes.com/staff/scott-walker/)
 
-[How Donald Trump can win](https://www.washingtontimes.com/news/2024/jun/20/how-donald-trump-can-win/ "How Donald Trump can win")
-
-![Cheryl K. Chumley](https://twt-thumbs.washtimes.com/media/img/staff/2023/cheryl-chumley-350-v3_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Cheryl K. Chumley](https://www.washingtontimes.com/staff/cheryl-k-chumley/)
-
-[America 2024: Of the politician, by the politician, for the politician](https://www.washingtontimes.com/news/2024/jun/20/america-2024-of-politician-by-politician-for-polit/ "America 2024: Of the politician, by the politician, for the politician")
-
-![Joseph Curl](https://twt-thumbs.washtimes.com/media/img/staff/2014/JOSEPHCURL_s170x255.jpg?c2b569b870632a1f92472d224952a26f127ab236)
-
-### [Joseph Curl](https://www.washingtontimes.com/staff/joseph-curl/)
-
-[Trump or Biden? Record number of Americans hate both candidates](https://www.washingtontimes.com/news/2024/jun/19/trump-or-biden-record-number-of-americans-hate-bot/ "Trump or Biden? Record number of Americans hate both candidates")
-
-![Billy Hallowell](https://twt-thumbs.washtimes.com/media/img/staff/2021/billy-hallowell-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Billy Hallowell](https://www.washingtontimes.com/staff/billy-hallowell/)
-
-[How to stop radical secularism from turning America into a dystopian nightmare](https://www.washingtontimes.com/news/2024/jun/19/how-to-stop-radical-secularism-from-turning-americ/ "How to stop radical secularism from turning America into a dystopian nightmare")
+[Trump’s pick of Vance as running mate shows he cares about America’s forgotten men and women](https://www.washingtontimes.com/higher-ground/2024/jul/18/trumps-pick-of-vance-as-running-mate-shows-he-care/ "Trump’s pick of Vance as running mate shows he cares about America’s forgotten men and women")
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)More News
 -------------------------------------------------------------------------------------------
 
 ### [Waste, Fraud & Abuse](https://www.washingtontimes.com/news/waste-fraud-abuse/)
 
-#### [Witness tells House Ethics Committee that Rep. Matt Gaetz paid her for sex: Report](https://www.washingtontimes.com/news/2024/jun/20/witness-tells-house-ethics-committee-that-rep-matt/)
+#### [Founder of D.C. nonprofit for homeless LGBTQ+ youth pleads guilty to diverting COVID relief money](https://www.washingtontimes.com/news/2024/jul/17/founder-dc-nonprofit-homeless-lgbtq-youth-pleads-g/)
 
-#### [Partisan calls for recusal of judges resound as politics take over courtrooms](https://www.washingtontimes.com/news/2024/jun/19/partisan-calls-for-recusal-of-judges-resound-as-po/)
+#### [Judge dismisses classified documents indictment against Trump](https://www.washingtontimes.com/news/2024/jul/15/judge-dismisses-classified-documents-indictment-ag/)
 
-#### [Judge to review Jack Smith’s authority, rejects red state move to support Trump in documents case](https://www.washingtontimes.com/news/2024/jun/18/judge-to-review-jack-smiths-authority-rejects-red-/)
+#### [Rep. Bennie Thompson fires staffer over social media post on Trump assassination attempt](https://www.washingtontimes.com/news/2024/jul/14/jacqueline-marsaw-democratic-aide-fired-by-rep-ben/)
 
 ### [Security](https://www.washingtontimes.com/news/security/)
 
-#### [Chinese farmland purchases near U.S. military bases raise national security concerns](https://www.washingtontimes.com/news/2024/jun/20/chinese-farmland-purchases-near-us-military-bases-/)
+#### [Humiliations pile up for North Korea’s dwindling diplomatic corps](https://www.washingtontimes.com/news/2024/jul/19/humiliations-pile-up-for-north-koreas-dwindling-di/)
 
-#### [Kim-Putin agreement: Real military alliance or paper partnership?](https://www.washingtontimes.com/news/2024/jun/20/kim-putin-agreement-real-military-alliance-or-pape/)
+#### [Lawmakers struggle in bid to rein in dominant Chinese drone maker DJI](https://www.washingtontimes.com/news/2024/jul/19/lawmakers-struggle-in-bid-to-rein-in-dominant-chin/)
 
-#### [U.S. redirects interceptor missile deliveries to Ukraine](https://www.washingtontimes.com/news/2024/jun/20/us-redirects-interceptor-missile-deliveries-to-ukr/)
+#### [Feds disrupt smuggling network that specialized in migrants from terrorist hotspots](https://www.washingtontimes.com/news/2024/jul/19/feds-disrupt-smuggling-network-that-specialized-in/)
 
 ### [D.C. Local](https://www.washingtontimes.com/news/local/)
 
-#### [FBI identifies serial rapist as person responsible for 1996 Shenandoah National Park killings](https://www.washingtontimes.com/news/2024/jun/20/walter-leo-jackson-sr-was-responsible-for-1996-she/)
+#### [Widespread Microsoft outage grounds airlines at D.C.-area airports](https://www.washingtontimes.com/news/2024/jul/19/widespread-microsoft-outage-grounds-airlines-dc-ar/)
 
-#### [Commanders to pay $1.3 million to settle ticket lawsuit in Virginia](https://www.washingtontimes.com/news/2024/jun/19/commanders-pay-13-million-settle-ticket-lawsuit-vi/)
+#### [Two men killed, 2-year-old girl wounded in shooting near day care center in Southeast](https://www.washingtontimes.com/news/2024/jul/18/two-men-killed-and-2-year-old-girl-wounded-in-shoo/)
 
-#### [Commanders plan to remake Ashburn training site into data centers](https://www.washingtontimes.com/news/2024/jun/18/commanders-plan-remake-ashburn-training-site-data-/)
+#### [Maryland board approves $148M in cuts to help support Medicaid, child care](https://www.washingtontimes.com/news/2024/jul/18/maryland-board-oks-148m-in-cuts-to-help-support-me/)
 
 ### [World](https://www.washingtontimes.com/news/world/)
 
-#### [U.S. redirects interceptor missile deliveries to Ukraine](https://www.washingtontimes.com/news/2024/jun/20/us-redirects-interceptor-missile-deliveries-to-ukr/)
+#### [Iran moving forward on key aspect of developing nuclear bomb, U.S. says](https://www.washingtontimes.com/news/2024/jul/19/iran-moving-forward-on-key-aspect-of-developing-nu/)
 
-#### [Shipping industry calls for greater action to stop Houthis’ Red Sea attacks](https://www.washingtontimes.com/news/2024/jun/20/shipping-industry-calls-greater-action-stop-houthi/)
+#### [Lawmakers struggle in bid to rein in dominant Chinese drone maker DJI](https://www.washingtontimes.com/news/2024/jul/19/lawmakers-struggle-in-bid-to-rein-in-dominant-chin/)
 
-#### [Putin signs deals with Vietnam in bid to shore up ties in Asia](https://www.washingtontimes.com/news/2024/jun/20/russian-president-vladimir-putin-signs-deals-with-/)
+#### [Humiliations pile up for North Korea’s dwindling diplomatic corps](https://www.washingtontimes.com/news/2024/jul/19/humiliations-pile-up-for-north-koreas-dwindling-di/)
 
 ### [Business & Economy](https://www.washingtontimes.com/news/business-economy/)
 
-#### [Amazon removes all plastic air pillows from packaging](https://www.washingtontimes.com/news/2024/jun/20/amazon-removes-all-plastic-air-pillows-packaging/)
+#### [Delivery charge: States tax Amazon deliveries to replenish dwindling highway repair funds](https://www.washingtontimes.com/news/2024/jul/19/delivery-charge-states-tax-amazon-deliveries-to-re/)
 
-#### [Removal of several Black passengers from American Airlines flight was ‘unacceptable,’ CEO says](https://www.washingtontimes.com/news/2024/jun/20/removal-of-several-black-passengers-from-american-/)
+#### [Federal appeals court blocks remainder of Biden’s student debt relief plan](https://www.washingtontimes.com/news/2024/jul/18/8th-circuit-court-of-appeals-blocks-remainder-of-j/)
 
-#### [Workers are winning union elections at the highest rate in 16 years](https://www.washingtontimes.com/news/2024/jun/20/workers-are-winning-union-elections-highest-rate-1/)
+#### [City council vote could enable a new Tampa Bay Rays ballpark — and the old site’s transformation](https://www.washingtontimes.com/news/2024/jul/18/city-council-vote-could-enable-new-tampa-bay-rays-/)
 
 ### [Higher Ground](https://www.washingtontimes.com/specials/higher-ground/)
 
@@ -429,78 +430,78 @@ Commentary
 
 ### [Health](https://www.washingtontimes.com/culture/health/)
 
-#### [On anniversary of Dobbs ruling, parents share stories of adoptions spurred by fall of Roe](https://www.washingtontimes.com/news/2024/jun/20/on-anniversary-of-dobbs-ruling-parents-share-stori/)
+#### [Army: Training program labeling pro-lifers as ‘terrorist groups’ was used for seven years](https://www.washingtontimes.com/news/2024/jul/19/army-training-program-labeling-pro-lifers-as-terro/)
 
-#### [Pharma giant Eli Lilly suing providers of fake meds passed off as Mounjaro, Zepbound](https://www.washingtontimes.com/news/2024/jun/20/pharma-giant-eli-lilly-suing-providers-fake-meds-p/)
+#### [Sick of waiting for FDA, U.S. states target food additives banned in Europe](https://www.washingtontimes.com/news/2024/jul/19/sick-of-waiting-for-fda-us-states-target-food-addi/)
 
-#### [Barstool Sports’ Dave Portnoy says he beat skin cancer](https://www.washingtontimes.com/news/2024/jun/20/barstool-sports-dave-portnoy-says-he-beat-skin-can/)
+#### [Dominican activists protest against a new criminal code that would maintain a total abortion ban](https://www.washingtontimes.com/news/2024/jul/18/dominican-activists-protest-against-new-criminal-c/)
 
 ### [Entertainment](https://www.washingtontimes.com/culture/entertainment/)
 
-#### [Climate activists arrested for spray-painting jets at airfield thought to contain Taylor Swift plane](https://www.washingtontimes.com/news/2024/jun/20/climate-activists-arrested-spray-painting-jets-air/)
+#### [Music Review: Jimin’s ‘Muse’ album is charming, but not necessarily innovative](https://www.washingtontimes.com/news/2024/jul/19/music-review-jimins-muse-album-is-charming-but-not/)
 
-#### [‘Like a drug’: Sports dominate culture with surging attendance, TV ratings](https://www.washingtontimes.com/news/2024/jun/20/drug-sports-dominate-culture-surging-attendance-tv/)
+#### [Cheng Pei-pei, martial arts actor who starred in ‘Crouching Tiger, Hidden Dragon,’ dies at age 78](https://www.washingtontimes.com/news/2024/jul/19/cheng-pei-pei-martial-arts-actor-who-starred-in-cr/)
 
-#### [Donald Sutherland, the towering actor whose career spanned ‘M.A.S.H.’ to ‘Hunger Games,’ dies at 88](https://www.washingtontimes.com/news/2024/jun/20/donald-sutherland-dies-at-88-career-spanned-mash-t/)
+#### [Spectacle, spires and romance: The ‘real suspense’ behind Netflix doc ‘Skywalkers: A Love Story’](https://www.washingtontimes.com/news/2024/jul/19/spectacle-spires-and-romance-real-suspense-behind-/)
 
 ### [Travel](https://www.washingtontimes.com/culture/travel/)
 
-#### [Boeing CEO apologizes to relatives of 737 Max crash victims while defending company’s safety record](https://www.washingtontimes.com/news/2024/jun/18/boeing-ceo-apologizes-to-relatives-of-737-max-cras/)
+#### [Widespread Microsoft outage grounds airlines at D.C.-area airports](https://www.washingtontimes.com/news/2024/jul/19/widespread-microsoft-outage-grounds-airlines-dc-ar/)
 
-#### [Unruly American Airlines passenger who had to be subdued with duct tape sued by FAA](https://www.washingtontimes.com/news/2024/jun/14/unruly-american-airlines-passenger-who-had-to-be-s/)
+#### [Homeland Security Dept. says it is working with companies to fix internet outages](https://www.washingtontimes.com/news/2024/jul/19/homeland-security-dept-says-it-is-working-with-com/)
 
-#### [Archaeologists at George Washington’s Mount Vernon find 35 bottles full of preserved fruits](https://www.washingtontimes.com/news/2024/jun/14/archaeologists-at-george-washingtons-mount-vernon-/)
+#### [Widespread technology outage disrupts flights, banks, media outlets and companies around the world](https://www.washingtontimes.com/news/2024/jul/19/widespread-tech-outage-disrupts-flights-banks-medi/)
 
 ### [Technology](https://www.washingtontimes.com/culture/technology/)
 
-#### [Woman trapped in Tesla on full charge, escapes using hidden latch](https://www.washingtontimes.com/news/2024/jun/20/woman-trapped-tesla-full-charge-escapes-using-hidd/)
+#### [Homeland Security Dept. says it is working with companies to fix internet outages](https://www.washingtontimes.com/news/2024/jul/19/homeland-security-dept-says-it-is-working-with-com/)
 
-#### [Musk appears at Cannes, lightens anti-advertiser blast](https://www.washingtontimes.com/news/2024/jun/20/elon-musk-appears-cannes-lightens-anti-advertiser-/)
+#### [Widespread technology outage disrupts flights, banks, media outlets and companies around the world](https://www.washingtontimes.com/news/2024/jul/19/widespread-tech-outage-disrupts-flights-banks-medi/)
 
-#### [OpenAI founder Sutskever sets up new AI company devoted to ‘safe superintelligence’](https://www.washingtontimes.com/news/2024/jun/20/openai-founder-ilya-sutskever-sets-up-new-ai-compa/)
+#### [Senators investigating AT&T hack that affected nearly every customer](https://www.washingtontimes.com/news/2024/jul/17/senators-investigating-att-hack-that-affected-near/)
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)Policy
 ----------------------------------------------------------------------------------------
 
 ### [Energy & Environment](https://www.washingtontimes.com/specials/energy-environment-news/)
 
-#### [Climate activists arrested for spray-painting jets at airfield thought to contain Taylor Swift plane](https://www.washingtontimes.com/news/2024/jun/20/climate-activists-arrested-spray-painting-jets-air/ "Climate activists arrested for spray-painting jets at airfield thought to contain Taylor Swift plane")
+#### [Rare orange lobster spared by Colorado Red Lobster employees](https://www.washingtontimes.com/news/2024/jul/19/rare-orange-lobster-spared-by-colorado-red-lobster/ "Rare orange lobster spared by Colorado Red Lobster employees")
 
 ### [Banking & Finance](https://www.washingtontimes.com/specials/banking-finance/)
 
-#### [Bank of England keeps main interest rate at 16-year high of 5.25% despite inflation fall](https://www.washingtontimes.com/news/2024/jun/20/bank-of-england-keeps-main-interest-rate-at-525-de/ "Bank of England keeps main interest rate at 16-year high of 5.25% despite inflation fall")
+#### [Macy's terminates takeover talks with Arkhouse and Brigade citing lack of certainty over financing](https://www.washingtontimes.com/news/2024/jul/15/macys-drops-takeover-talks-with-arkhouse-and-briga/ "Macy's terminates takeover talks with Arkhouse and Brigade citing lack of certainty over financing")
 
 ### [Coronavirus (COVID-19) pandemic updates](https://www.washingtontimes.com/specials/coronavirus-covid-19-pandemic-updates/)
 
-#### [Answers prove elusive as scientists weigh lab leak or animal source for COVID](https://www.washingtontimes.com/news/2024/jun/18/answers-prove-elusive-as-scientists-weigh-lab-leak/ "Answers prove elusive as scientists weigh lab leak or animal source for COVID")
+#### [Biden's COVID-19 symptoms improving, doctor says](https://www.washingtontimes.com/news/2024/jul/19/bidens-covid-19-symptoms-improving-doctor-says/ "Biden's COVID-19 symptoms improving, doctor says")
 
 ### [Second Amendment & Gun Control](https://www.washingtontimes.com/specials/second-amendment-and-gun-control/)
 
-#### [Shooting in Philadelphia wounds 7 people, police say](https://www.washingtontimes.com/news/2024/jun/20/shooting-in-philadelphia-wounds-seven-people-polic/ "Shooting in Philadelphia wounds 7 people, police say")
+#### [Shooter's attack on Trump doesn't dent gun-rights fealty at RNC](https://www.washingtontimes.com/news/2024/jul/17/shooters-attack-on-trump-didnt-dent-gun-rights-fea/ "Shooter's attack on Trump doesn't dent gun-rights fealty at RNC")
 
 ### [Immigration Reform](https://www.washingtontimes.com/specials/immigration-reform/)
 
-#### [Supreme Court grants leeway to prosecutors to use expert testimony at trial](https://www.washingtontimes.com/news/2024/jun/20/supreme-court-grants-leeway-to-prosecutors-to-use-/ "Supreme Court grants leeway to prosecutors to use expert testimony at trial")
+#### [Feds disrupt smuggling network that specialized in migrants from terrorist hotspots](https://www.washingtontimes.com/news/2024/jul/19/feds-disrupt-smuggling-network-that-specialized-in/ "Feds disrupt smuggling network that specialized in migrants from terrorist hotspots")
 
 ### [Homeland & Cybersecurity](https://www.washingtontimes.com/specials/intelligence-cybersecurity/)
 
-#### [Car dealerships across country idling after software provider suffers 2 cyberattacks](https://www.washingtontimes.com/news/2024/jun/20/car-dealerships-across-country-idling-after-softwa/ "Car dealerships across country idling after software provider suffers 2 cyberattacks")
+#### [Widespread technology outage disrupts flights, banks, media outlets and companies around the world](https://www.washingtontimes.com/news/2024/jul/19/widespread-tech-outage-disrupts-flights-banks-medi/ "Widespread technology outage disrupts flights, banks, media outlets and companies around the world")
 
 ### [Aerospace & Defense](https://www.washingtontimes.com/specials/defense-aerospace/)
 
-#### [U.S. redirects interceptor missile deliveries to Ukraine](https://www.washingtontimes.com/news/2024/jun/20/us-redirects-interceptor-missile-deliveries-to-ukr/ "U.S. redirects interceptor missile deliveries to Ukraine")
+#### [Playing the victim can be a potent weapon in the modern art of cognitive warfare](https://www.washingtontimes.com/news/2024/jul/18/playing-victim-can-be-potent-weapon-in-modern-art-/ "Playing the victim can be a potent weapon in the modern art of cognitive warfare")
 
 ### [Taxes & Budget](https://www.washingtontimes.com/specials/taxes-budget/)
 
-#### [Feds to run $2 trillion deficit this year; Biden's student loan reprieve partly to blame](https://www.washingtontimes.com/news/2024/jun/18/feds-run-2-trillion-deficit-year-bidens-student-lo/ "Feds to run $2 trillion deficit this year; Biden's student loan reprieve partly to blame")
+#### [Delivery charge: States tax Amazon deliveries to replenish dwindling highway repair funds](https://www.washingtontimes.com/news/2024/jul/19/delivery-charge-states-tax-amazon-deliveries-to-re/ "Delivery charge: States tax Amazon deliveries to replenish dwindling highway repair funds")
 
 ### [Law Enforcement & Intelligence](https://www.washingtontimes.com/specials/law-enforcement-intelligence/)
 
-#### [Police credit New Yorkers for suspect's arrest in the rape of a 13-year-old girl](https://www.washingtontimes.com/news/2024/jun/20/police-credit-new-york-residents-for-suspects-arre/ "Police credit New Yorkers for suspect's arrest in the rape of a 13-year-old girl")
+#### [FBI director declines to testify before Homeland Security but will appear before Judiciary](https://www.washingtontimes.com/news/2024/jul/18/christopher-wray-declines-testify-homeland-securit/ "FBI director declines to testify before Homeland Security but will appear before Judiciary")
 
 ### [Transportation & Infrastructure](https://www.washingtontimes.com/specials/transportation-infrastructure/)
 
-#### [Americans still waiting on Biden broadband plan; rural high-speed internet stuck in Dems' red tape](https://www.washingtontimes.com/news/2024/jun/18/bidens-425-billion-rural-high-speed-internet-plan-/ "Americans still waiting on Biden broadband plan; rural high-speed internet stuck in Dems' red tape")
+#### [Homeland Security Dept. says it is working with companies to fix internet outages](https://www.washingtontimes.com/news/2024/jul/19/homeland-security-dept-says-it-is-working-with-com/ "Homeland Security Dept. says it is working with companies to fix internet outages")
 
 ### Newsletters
 
@@ -632,6 +633,7 @@ Commentary
 * [Victorious Family](https://www.washingtontimes.com/specials/victorious-family/ "Victorious Family")
 * [Energy 2024](https://www.washingtontimes.com/specials/energy-2024/ "Energy 2024")
 * [Infrastructure 2024](https://www.washingtontimes.com/specials/infrastructure-2024/ "Infrastructure 2024")
+* [Free Iran 2024](https://www.washingtontimes.com/specials/free-iran-global-assembly-2024/ "Free Iran 2024")
 
 * [Subscribe](https://www.washingtontimes.com/subscribe/?subscribe-link-footer "Subscribe")
 * [Classifieds](http://classified.washingtontimes.com/ "Classifieds")
