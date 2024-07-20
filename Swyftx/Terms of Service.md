@@ -32,7 +32,29 @@ XRP
 
 LINK
 
-[Features](https://swyftx.com/au/features/)
+Features
+
+[Discover all features](https://swyftx.com/au/features/)
+
+[Demo Mode](https://swyftx.com/au/crypto-demo/)
+
+Trade with zero risk
+
+[Auto Invest](https://swyftx.com/au/features/auto-invest/)
+
+Investing on auto-pilot
+
+[Crypto Bundles](https://swyftx.com/au/features/crypto-bundles/)
+
+Effortless diversification
+
+[Crypto Rewards](https://swyftx.com/au/features/crypto-rewards/)
+
+Take action and get rewarded
+
+[Integrated Tax Reports](https://swyftx.com/au/features/integrated-tax-reports/)
+
+Simplify your tax-time prep
 
 Resources
 
@@ -72,6 +94,8 @@ Platform
 
 Assets
 
+[Discover all assets](https://swyftx.com/au/buy/)
+
 [Bitcoin](https://swyftx.com/au/buy/bitcoin/)
 
 [Ethereum](https://swyftx.com/au/buy/ethereum/)
@@ -84,7 +108,19 @@ Assets
 
 [Chainlink](https://swyftx.com/au/buy/chainlink/)
 
-[Features](https://swyftx.com/au/features/)
+Features
+
+[Discover all features](https://swyftx.com/au/features/)
+
+[Demo Mode](https://swyftx.com/au/demo-mode/)
+
+[Auto Invest](https://swyftx.com/au/features/auto-invest/)
+
+[Crypto Bundles](https://swyftx.com/au/features/crypto-bundles/)
+
+[Crypto Rewards](https://swyftx.com/au/features/crypto-rewards/)
+
+[Integrated Tax Reports](https://swyftx.com/au/features/integrated-tax-reports/)
 
 Resources
 
@@ -138,6 +174,8 @@ Risk disclosure statement: [**View here**](https://swyftx.com/wp-content/uploads
 [![Social media icon - Facebook](/wp-content/themes/swyftx/images/social/icon-facebook.svg)](https://facebook.com/swyftx) [![Social media icon - X](/wp-content/themes/swyftx/images/social/icon-x.svg)](https://twitter.com/swyftxau) [![Social media icon - Instagram](/wp-content/themes/swyftx/images/social/icon-instagram.svg)](http://instagram.com/swyftx) [![Social media icon - LinkedIn](/wp-content/themes/swyftx/images/social/icon-linkedin.svg)](http://linkedin.com/company/swyftx) [![Social media icon - Reddit](/wp-content/themes/swyftx/images/social/icon-reddit.svg)](http://reddit.com/r/Swyftx/) [![Social media icon - Discord](/wp-content/themes/swyftx/images/social/icon-discord.svg)](https://discord.gg/NBDkcChSr7) [![Social media icon - Telegram](/wp-content/themes/swyftx/images/social/icon-telegram.svg)](http://t.me/SwyftxAU) [![Social media icon - TikTok](/wp-content/themes/swyftx/images/social/icon-tiktok.svg)](https://www.tiktok.com/@swyftx) [![Social media icon - YouTube](/wp-content/themes/swyftx/images/social/icon-youtube.svg)](http://youtube.com/channel/UCwY1JU3769E6flCHj1KpwbQ)
 
 Milton, Brisbane, Queensland
+
+Swyftx acknowledges the Traditional Owners of the land on which our company is located, the Turrbal and Jagera peoples. We pay our respects to their Elders past, present, and emerging, and we recognise their continued custodianship and connection to the land, waters and community.
 
 ### Company
 
