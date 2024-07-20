@@ -376,6 +376,7 @@ Spotify Plans
 * [Premium Family](https://www.spotify.com/us/family/?ref=spotifycom_footer_premium_family)
 * [Premium Student](https://www.spotify.com/us/student/?ref=spotifycom_footer_premium_student)
 * [Spotify Free](https://www.spotify.com/us/free/?ref=spotifycom_footer_free)
+* [Audiobooks Access](https://www.spotify.com/us/audiobooks/#plans)
 
 * [](https://instagram.com/spotify "Instagram")
 * [](https://twitter.com/spotify "Twitter")
