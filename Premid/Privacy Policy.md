@@ -73,7 +73,7 @@ PreMiD
 
 Germany
 
-Email: [\[email protected\]](https://premid.app/cdn-cgi/l/email-protection)
+Email: contact@premid.app
 
 Website: [https://premid.app](https://premid.app/)
 
