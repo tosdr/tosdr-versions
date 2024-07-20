@@ -363,7 +363,7 @@
 
 * [Residential Support](https://www.consolidated.com/Support/Residential-Support)
     * [Internet & Email Support](https://www.consolidated.com/Support/Residential-Support/Internet-Email-Support)
-    * [TV Support](https://www.consolidated.com/Support/Residential-Support/TV-Support)
+    * [TV Support](https://www.consolidated.com/Residential/Streaming-TV)
     * [Phone Support](https://www.consolidated.com/Support/Residential-Support/Phone-Support)
     * [Refer a Friend](https://www.consolidated.com/Support/Residential-Support/Refer-a-Friend)
     * [Lifeline & Assistance Programs](https://www.consolidated.com/Support/Residential-Support/Lifeline-Assistance-Programs)
