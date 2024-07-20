@@ -17,6 +17,7 @@
     * [Guides](https://www.vivi.io/blog/guides/)
     * [Webinars](https://www.vivi.io/resources/webinars/)
     * [Funding](https://www.vivi.io/funding/)
+    * [Cost of Ownership Calculator](https://www.vivi.io/resources/total-cost-of-ownership/)
 * [About](https://www.vivi.io/about/)
 * [Contact](https://www.vivi.io/contact/)
 
@@ -63,27 +64,30 @@ By continuing to access or use our Service after those revisions become effectiv
 
 If you have any questions about these Terms, please [contact us.](mailto:info@viviaustralia.com.au?subject=Terms%20of%20Service)
 
-[![](https://www.vivi.io/wp-content/uploads/2021/09/Vivi_Logo_white.svg)](https://www.vivi.io/ "Vivi")
-
-##### Join our mailing list for monthly classroom technology resources.
-
 * [About](https://www.vivi.io/about/)
-* [Careers](https://www.vivi.io/careers/)
+* [How It Works](https://www.vivi.io/how-it-works/)
 * [Contact](https://www.vivi.io/contact/)
-* [Downloads](https://www.vivi.io/downloads/)
+* [Careers](https://www.vivi.io/careers/)
 * [Partnerships](https://www.vivi.io/partnerships/)
-* [Tech Support](https://vivi.atlassian.net/wiki/spaces/SHUB/overview)
+* [Downloads](https://www.vivi.io/downloads/)
 * [Join the ViviEC](https://www.vivi.io/vivicommunity/)
-* [Training](https://www.vivi.io/training/)
+* [Tech Support](https://vivi.atlassian.net/wiki/spaces/SHUB/overview)
 * [Resellers](https://www.vivi.io/resellers/)
+* [Training](https://www.vivi.io/training/)
 * [Blog](https://www.vivi.io/blog/)
 
-* [](https://www.facebook.com/vivieducation)
-* [](http://www.twitter.com/vivieducation)
-* [](https://www.linkedin.com/company/vivieducation/)
-* [](https://www.youtube.com/channel/UCQbZJeWGyP4LeSmy0elootg)
+##### Join our mailing list
+
+For monthly classroom technology resources.
+
+##### Follow us
+
+* [![](/wp-content/uploads/2024/07/facebook.svg)](https://www.facebook.com/vivieducation)
+* [![](/wp-content/uploads/2024/07/x-twitter.svg)](http://www.twitter.com/vivieducation)
+* [![](/wp-content/uploads/2024/07/linkedin.svg)](https://www.linkedin.com/company/vivieducation/)
+* [![](/wp-content/uploads/2024/07/youtube.svg)](https://www.youtube.com/channel/UCQbZJeWGyP4LeSmy0elootg)
+
+© 2024 Vivi International Pty Ltd
 
 * [Privacy Policy](https://www.vivi.io/privacy-policy/)
 * [Terms of Service](https://www.vivi.io/terms-of-service/)
-
-© 2024 Vivi International Pty Ltd
