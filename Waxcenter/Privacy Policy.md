@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[Save 25%, Buy 9 waxes, get 3 free\*](https://waxcenter.com/pages/wax-passes)
+[Your First Wax is On Us!](https://locations.waxcenter.com/?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75)
 
 [NEW Get Smooth Summer Travel Kit!](https://waxcenter.com/collections/all/products/get-smooth-travel-kit)
 
@@ -10,24 +10,37 @@
 
       
 
-* Wax Pass Sale
-    
-    Wax Pass Sale
-    
-    * [Save 25%, Buy 9 Waxes, Get 3 Free](https://waxcenter.com/pages/wax-passes)
-    
 * Services
     
     Services
     
     * [Brazilian Waxing](https://waxcenter.com/pages/brazilian-waxing)
     * [Brow Waxing](https://waxcenter.com/pages/brow-waxing)
-    * [Body Waxing](https://waxcenter.com/pages/body-waxing)
-    * [Facial Hair Waxing](https://waxcenter.com/pages/facial-hair-waxing)
+    * Body Waxing
+        
+        Body Waxing
+        
+        * [Arm & Underarm Waxing](https://waxcenter.com/pages/services/arm-underarm-waxing)
+        * [Leg Waxing](https://waxcenter.com/pages/services/leg-waxing)
+        * [Butt Waxing](https://waxcenter.com/pages/services/butt-waxing)
+        * [Back and Shoulder Waxing](https://waxcenter.com/pages/services/back-shoulder-waxing)
+        
+    * Facial Waxing
+        
+        Facial Waxing
+        
+        * [Chin Waxing](https://waxcenter.com/pages/services/chin-waxing)
+        * [Nose Waxing](https://waxcenter.com/pages/services/nose-waxing)
+        * [Lip Waxing](https://waxcenter.com/pages/services/lip-waxing)
+        * [Sideburn + Hairline Waxing](https://waxcenter.com/pages/services/sideburn-hairline-waxing)
+        * [Cheek Waxing](https://waxcenter.com/pages/services/cheek-waxing)
+        * [Neck Waxing](https://waxcenter.com/pages/services/neck-waxing)
+        * [Ear Hair Waxing](https://waxcenter.com/pages/services/ear-hair-waxing)
+        
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
     * [Brow Tint](https://waxcenter.com/pages/brow-tint)
     * [Laser Hair Removal](https://waxcenter.com/pages/laser-hair-removal)
-    * [Waxing for Men](https://waxcenter.com/pages/waxing-for-men)
+    * [Men's Waxing Services](https://waxcenter.com/pages/waxing-for-men)
     
 * Shop
     
@@ -35,14 +48,23 @@
     
     * [All Products](https://waxcenter.com/collections/all)
     * [Body](https://waxcenter.com/collections/body)
-    * [Eyebrow](https://waxcenter.com/collections/brow)
+    * [EyeBrow](https://waxcenter.com/collections/brow)
     * [Face](https://waxcenter.com/collections/face)
-    * [Kits + Gifts](https://waxcenter.com/collections/kits)
+    * [Kits + GIfts](https://waxcenter.com/collections/kits)
     * [Travel](https://waxcenter.com/collections/travel-size)
-    * [Gift Cards](https://waxcenter.com/pages/gift-cards?_pos=1&_sid=221ca80b8&_ss=r)
+    * [Gift Cards](https://waxcenter.com/pages/gift-cards)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
     
 * [Locations](https://locations.waxcenter.com/)
+* First Time Guest
+    
+    First Time Guest
+    
+    * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
+    * [Refer a Friend](https://waxcenter.com/pages/refer-a-friend)
+    * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
+    * [What to Expect](https://waxcenter.com/pages/brazilian-waxing-what-to-expect)
+    
 * Learn
     
     Learn
@@ -59,9 +81,15 @@
     
     * [Promotions](https://waxcenter.com/pages/promotions)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
-    * [First Wax Free](https://waxcenter.com/pages/free-wax)
-    * [Refer a Friend](https://waxcenter.com/pages/refer-a-friend)
+    * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
+    * [Refer a friend](https://waxcenter.com/pages/refer-a-friend)
     * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
+    
+* Wax Pass
+    
+    Wax Pass
+    
+    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
     
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 * [Get $10](https://waxcenter.com/pages/refer-a-friend?traffic_source=mobile_menu)
@@ -75,34 +103,52 @@
 
 [![European Wax Center](//waxcenter.com/cdn/shop/files/EWC-Logo-400x400.png?height=120&v=1614305224)](https://waxcenter.com/)
 
-* Wax Pass Sale
-    
-    * [Save 25%, Buy 9 Waxes, Get 3 Free](https://waxcenter.com/pages/wax-passes)
-    
-* Services
+* [Services](https://waxcenter.com/pages/wax-services)
     
     * [Brazilian Waxing](https://waxcenter.com/pages/brazilian-waxing)
     * [Brow Waxing](https://waxcenter.com/pages/brow-waxing)
     * [Body Waxing](https://waxcenter.com/pages/body-waxing)
-    * [Facial Hair Waxing](https://waxcenter.com/pages/facial-hair-waxing)
+        
+        * [Arm & Underarm Waxing](https://waxcenter.com/pages/services/arm-underarm-waxing)
+        * [Leg Waxing](https://waxcenter.com/pages/services/leg-waxing)
+        * [Butt Waxing](https://waxcenter.com/pages/services/butt-waxing)
+        * [Back and Shoulder Waxing](https://waxcenter.com/pages/services/back-shoulder-waxing)
+        
+    * [Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
+        
+        * [Chin Waxing](https://waxcenter.com/pages/services/chin-waxing)
+        * [Nose Waxing](https://waxcenter.com/pages/services/nose-waxing)
+        * [Lip Waxing](https://waxcenter.com/pages/services/lip-waxing)
+        * [Sideburn + Hairline Waxing](https://waxcenter.com/pages/services/sideburn-hairline-waxing)
+        * [Cheek Waxing](https://waxcenter.com/pages/services/cheek-waxing)
+        * [Neck Waxing](https://waxcenter.com/pages/services/neck-waxing)
+        * [Ear Hair Waxing](https://waxcenter.com/pages/services/ear-hair-waxing)
+        
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
     * [Brow Tint](https://waxcenter.com/pages/brow-tint)
     * [Laser Hair Removal](https://waxcenter.com/pages/laser-hair-removal)
-    * [Waxing for Men](https://waxcenter.com/pages/waxing-for-men)
+    * [Men's Waxing Services](https://waxcenter.com/pages/waxing-for-men)
     
-* Shop
+* [Shop](https://waxcenter.com/)
     
     * [All Products](https://waxcenter.com/collections/all)
     * [Body](https://waxcenter.com/collections/body)
-    * [Eyebrow](https://waxcenter.com/collections/brow)
+    * [EyeBrow](https://waxcenter.com/collections/brow)
     * [Face](https://waxcenter.com/collections/face)
-    * [Kits + Gifts](https://waxcenter.com/collections/kits)
+    * [Kits + GIfts](https://waxcenter.com/collections/kits)
     * [Travel](https://waxcenter.com/collections/travel-size)
-    * [Gift Cards](https://waxcenter.com/pages/gift-cards?_pos=1&_sid=221ca80b8&_ss=r)
+    * [Gift Cards](https://waxcenter.com/pages/gift-cards)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
     
 * [Locations](https://locations.waxcenter.com/)
-* Learn
+* [First Time Guest](https://waxcenter.com/pages/first-wax-free-2024)
+    
+    * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
+    * [Refer a Friend](https://waxcenter.com/pages/refer-a-friend)
+    * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
+    * [What to Expect](https://waxcenter.com/pages/brazilian-waxing-what-to-expect)
+    
+* [Learn](https://waxcenter.com/)
     
     * [Articles](https://waxcenter.com/blogs/news)
     * [Press + Awards](https://waxcenter.com/pages/press-awards)
@@ -110,13 +156,17 @@
     * [About Us](https://waxcenter.com/pages/about-us)
     * [Contact Us](https://www.contactwaxcenter.com/)
     
-* Perks
+* [Perks](https://waxcenter.com/)
     
     * [Promotions](https://waxcenter.com/pages/promotions)
     * [Wax Passes](https://waxcenter.com/pages/wax-passes)
-    * [First Wax Free](https://waxcenter.com/pages/free-wax)
-    * [Refer a Friend](https://waxcenter.com/pages/refer-a-friend)
+    * [First Wax Free](https://waxcenter.com/pages/first-wax-free-2024)
+    * [Refer a friend](https://waxcenter.com/pages/refer-a-friend)
     * [EWC Rewards](https://waxcenter.com/pages/ewcrewards)
+    
+* [Wax Pass](https://waxcenter.com/pages/wax-passes)
+    
+    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
     
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 [BOOK NOW](https://locations.waxcenter.com/)
