@@ -1,97 +1,84 @@
-[Skip to main content](#main-container)
+[Skip to main content](#main-content)
 
-[Contact Sales](https://factsmgt.com/contact-sales) [Help & Support](https://factsmgt.com/support)
+Parents and School Administrators >
 
-[Family Login](#)
+* [Log In Here](https://factsmgt.com/login/)
 
-* [FACTS Family Portal](https://familyportal.renweb.com/)
-* [Payment Plans/Financial Aid](https://online.factsmgt.com/)
+[![FACTS - A Nelnet Company](https://factsmgt.com/wp-content/uploads/Logo-Facts.svg)](https://factsmgt.com/)
 
-[School Login](#)
-
-* [Tuition Management/Grant & Aid](https://online.factsmgt.com/)
-* [Student Information System (SIS)](https://login.renweb.com/)
-
-[Log In](#)
-
-* Family Login
-* [FACTS Family Portal](https://familyportal.renweb.com/)
-* [Payment Plans/Financial Aid](https://online.factsmgt.com/)
-* School Login
-* [Tuition Management/Grant & Aid](https://online.factsmgt.com/)
-* [Student Information System (SIS)](https://login.renweb.com/)
-
-[![FACTS - a Nelnet Company](https://factsmgt.com/wp-content/themes/facts/img/logo-facts.png)](https://factsmgt.com/)
-
-OPEN MENUCLOSE MENU
-
-* K-12 Solutions
-    * * * [Admissions](https://factsmgt.com/school-admissions/)
-                * [Application & Enrollment](https://factsmgt.com/school-admissions/online-application-and-enrollment/)
-            * [Student Information](https://factsmgt.com/student-information/)
-                * [Student Information System](https://factsmgt.com/student-information/student-information-system/)
-                * [Learning Management System](https://factsmgt.com/student-information/learning-management-system/)
-                * [Parent Alert](https://factsmgt.com/student-information/parent-alert/)
-            * [Mobile App & Website Services](https://factsmgt.com/mobile-app-website-services/)
-                * [School Site](https://factsmgt.com/mobile-app-website-services/school-site/)
-                * [Family Custom App](https://factsmgt.com/mobile-app-website-services/family-app/)
-        * * [Financial Management](https://factsmgt.com/financial-management/)
-                * [Tuition Management](https://factsmgt.com/financial-management/tuition-management/)
-                    * [Incidental Billing & Prepay Accounts](https://factsmgt.com/financial-management/tuition-management/incidental-billing-prepay-accounts/)
-                    * [Advanced Accounting](https://factsmgt.com/financial-management/tuition-management/advanced-accounting/)
-                    * [Premier Integration](https://factsmgt.com/financial-management/tuition-management/facts-premier-billing/)
-                * [Grant & Aid Assessment](https://factsmgt.com/financial-management/grant-and-aid-assessment/)
-                * [Grant & Aid for Organizations](https://factsmgt.com/financial-management/grant-and-aid-orgs/)
-                * [Payment Forms](https://factsmgt.com/financial-management/payment-forms/)
-        * * [Advancement](https://factsmgt.com/advancement/)
-                * [Giving](https://factsmgt.com/advancement/giving/)
-            * [Education Services](https://factsmgt.com/facts-ed/)
-                * [Professional Development](https://factsmgt.com/facts-ed/professional-development/)
-                * [Coaching](https://factsmgt.com/facts-ed/coaching/)
-                * [Instructional Services](https://factsmgt.com/facts-ed/instructional-services/)
-                * [Teacher Evaluation & Observation](https://factsmgt.com/facts-ed/vosaic/)
-                * [ESSA Consulting](https://factsmgt.com/facts-ed/essa-consulting/)
-                * [EANS Consulting](https://factsmgt.com/facts-ed/eans/)
-                * [Virtual & Hybrid Learning](https://factsmgt.com/facts-ed/virtual-hybrid-school-operations/)
-* Webinars & Events
-    * [Webinars](https://factsmgt.com/webinars/)
-    * [Product Demos](https://factsmgt.com/product-demos/)
-    * [Elevate](https://factsmgt.com/elevate/)
-    * [Events](https://factsmgt.com/upcoming-events/)
+* Products
+    * * * [Education Technology](https://factsmgt.com/products/education-technology/)
+                * [Student Information System](https://factsmgt.com/products/education-technology/student-information-system/)
+                * [Application & Enrollment](https://factsmgt.com/products/education-technology/application-enrollment/)
+                * [Family App](https://factsmgt.com/products/education-technology/family-app/)
+                * [Parent Alert](https://factsmgt.com/products/education-technology/parent-alert/)
+                * [Website Services](https://factsmgt.com/products/education-technology/website-services/)
+                * [Learning Management System](https://factsmgt.com/products/education-technology/learning-management-system/)
+                * [Teacher Observation and Assessment](https://factsmgt.com/products/education-technology/vosaic/)
+        * * [Education Services](https://factsmgt.com/products/education-services/)
+                * [Professional Development](https://factsmgt.com/products/education-services/professional-development/)
+                * [Coaching](https://factsmgt.com/products/education-services/coaching/)
+                * [Instructional Services](https://factsmgt.com/products/education-services/instructional-services/)
+                * [Learning Courses](https://factsmgt.com/products/education-services/learning-courses/)
+                * [Federal Funding Consulting](https://factsmgt.com/products/education-services/federal-funding-consulting/)
+        * * [Financial Management](https://factsmgt.com/products/financial-management/)
+                * [Tuition Management](https://factsmgt.com/products/financial-management/tuition-management/)
+                * [Grant & Aid Assessment](https://factsmgt.com/products/financial-management/grant-aid-assessment/)
+                * [Advanced Accounting](https://factsmgt.com/products/financial-management/advanced-accounting/)
+                * [Payment Forms](https://factsmgt.com/products/financial-management/payment-forms/)
+                * [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
+                * [Giving](https://factsmgt.com/products/financial-management/giving/)
+        * * ![Smiling person holding a tablet device](https://factsmgt.com/wp-content/uploads/Header-Featured-Circle.png)
+                
+                Elevating Education
+                -------------------
+                
+                [Contact Sales](https://factsmgt.com/contact-sales/)
+                
+* Markets
+    * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
+    * [Corporate Learning Solutions](https://factsmgt.com/markets/corporate-learning-solutions/)
+    * [Faith Community Solutions](https://factsmgt.com/markets/faith-community-software/)
 * Resources
-    * [Blog](https://factsmgt.com/blog/)
     * [Insights](https://factsmgt.com/insights/)
+    * [Product Demos](https://factsmgt.com/product-demos/)
+    * [Webinars](https://factsmgt.com/webinars/)
+    * [Customer Stories](https://factsmgt.com/customer-stories/)
+    * [Events](https://factsmgt.com/events/)
+    * [Elevate](https://factsmgt.com/elevate/)
+    * [Blog](https://factsmgt.com/blog/)
+* Company
+    * [About Us](https://factsmgt.com/about-us/)
+    * [Our Customer Service Difference](https://factsmgt.com/the-facts-customer-experience/)
+    * [Trusted Data Security](https://factsmgt.com/why-facts/trusted-data-security/)
+    * [Partners](https://factsmgt.com/partners/)
     * [Press Releases](https://factsmgt.com/press-releases/)
-    * [COVID-19 Resource Hub](https://factsmgt.com/blog/category/school-operations/covid19/)
-* About Us
-    * [Our Team](https://factsmgt.com/our-team/)
-    * [FACTS International](https://factsmgt.com/facts-international/)
-    * [Partners & Affiliations](https://factsmgt.com/partners-affiliations/)
-    * [Data Security, Compliance, and Business Continuity](https://factsmgt.com/security-compliance/)
-    * [Testimonials](https://factsmgt.com/testimonials/)
-    * [Career Opportunities](https://factsmgt.com/career-opportunities/)
+    * [Careers](https://factsmgt.com/careers/)
+    * [Help & Support](https://factsmgt.com/support/)
+    * [Contact Us](https://factsmgt.com/contact-us/)
 * Parents
     * [Parent Solutions](https://factsmgt.com/parents/)
     * [Payment Plans](https://factsmgt.com/parents/#payment-plans)
     * [Financial Aid](https://factsmgt.com/parents/#financial-aid)
     * [FACTS Family Portal](https://factsmgt.com/parents/#family-online)
-    * [FAQs](https://factsmgt.com/parent-faqs/)
+    * [Parent FAQs](https://factsmgt.com/parent-faqs/)
+
+Search
+
+[Contact Sales](https://factsmgt.com/contact-sales/)
 
 Privacy Policy
 ==============
 
-![](https://factsmgt.com/wp-content/themes/facts/img/icon-arrow-blue.svg) ![](https://factsmgt.com/wp-content/themes/facts/img/icon-arrow-orange.svg)
+Effective Date: December 18, 2023
+---------------------------------
 
-[Home](https://factsmgt.com/) » Privacy Policy
-
-**Effective Date: December 18, 2023**
-
-Please note that Nelnet Business Solutions, Inc. (d/b/a FACTS Management Company) (hereinafter, as “FACTS”, “we”, “our”, or “us”) offers Services related to education, including tuition management, payment administration and processing, financial needs assessment, school management, online application, and online enrollment. To provide these Services, we may store and maintain information about educational institutions (or other entities) we serve, along with personal information regarding administrators, staff members, parents/guardians, and students. Access to the data will be restricted to authorized associates and will be used only for the purpose of providing Services to you or the Institution.
+Please note that Nelnet Business Solutions, Inc. (d/b/a FACTS Management Company) (hereinafter, as “**FACTS**”, “**we**”, “**our**”, or “us”) offers Services related to education, including tuition management, payment administration and processing, financial needs assessment, school management, online application, and online enrollment. To provide these Services, we may store and maintain information about educational institutions (or other entities) we serve, along with personal information regarding administrators, staff members, parents/guardians, and students. Access to the data will be restricted to authorized associates and will be used only for the purpose of providing Services to you or the Institution.
 
 Web Privacy Policy
 ------------------
 
-This Web Privacy Policy (“Web Privacy Policy”) is designed to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of products and services (individually and collectively, the “Services”) through our websites (“Website”), as well as from users of FACTS’ Management’s mobile device application(s) via the Services. This Web Privacy Policy applies to users when visiting the Website or receiving the Services.
+This Web Privacy Policy (“**Web Privacy Policy**”) is designed to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of products and services (individually and collectively, the “**Services**”) through our websites (“**Website**”), as well as from users of FACTS’ Management’s mobile device application(s) via the Services. This Web Privacy Policy applies to users when visiting the Website or receiving the Services.
 
 We are committed to providing you a useful and enjoyable online experience. This Web Privacy Policy explains our collection and use practices regarding consumer information, including how and what we share with our related companies and with unrelated entities. Protecting your privacy is important to FACTS Management and our employees. We want you to understand what information we collect and how we use it.
 
@@ -123,11 +110,11 @@ We collect information so we can identify you as our customer, to establish, man
 
 ### Non-Identifying Information
 
-We may collect information from your visit or as part of the registration and administration of your account, in order to personalize and improve upon your experience with us, such as, without limitation, age and individual preferences (“Non-Identifying Information”).
+We may collect information from your visit or as part of the registration and administration of your account, in order to personalize and improve upon your experience with us, such as, without limitation, age and individual preferences (“**Non-Identifying Information**”).
 
 ### Cookies
 
-The Services may place “Cookies” on a visitor’s device. Cookies are small text files. Our Cookies save anonymized data about individual visitors, allowing our Services to recognize information about a visitor and help deliver personalized content and other services and functions. Cookies make your Internet experience quicker and more convenient. The Services use both session cookies, which terminate when a user closes his or her browser, and persistent cookies, which remain on the user’s device until they expire or are manually deleted. The Services also contain coding from our business and technology partners which generates third party cookies. Third party cookies allow our business and technology partners to store Non-Identifying Information they can access when you visit this or other websites. Accepting a cookie from a web or device browser may give us access to personal information for analytics purposes.
+The Services may place “**Cookies**” on a visitor’s device. Cookies are small text files. Our Cookies save anonymized data about individual visitors, allowing our Services to recognize information about a visitor and help deliver personalized content and other services and functions. Cookies make your Internet experience quicker and more convenient. The Services use both session cookies, which terminate when a user closes his or her browser, and persistent cookies, which remain on the user’s device until they expire or are manually deleted. The Services also contain coding from our business and technology partners which generates third party cookies. Third party cookies allow our business and technology partners to store Non-Identifying Information they can access when you visit this or other websites. Accepting a cookie from a web or device browser may give us access to personal information for analytics purposes.
 
 Most website and mobile device browsers allow you to control cookies, including whether or not to accept them and provide the ability to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are using our Services.
 
@@ -159,10 +146,8 @@ If you choose to link your Google Drive account to a FACTS product for easy acce
 
 Do Not Track is a feature in your web browser, which enables you to opt-out of the third party tracking of your online activities over time and across third party websites. We do not track users across third party websites to provide targeted advertising, and therefore, do not process or comply with any web browser’s “do not track” signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit this Website or use our Services. Third parties cannot collect any personal information from this Website unless you provide it to them directly.
 
-How We Use Your Information
----------------------------
-
-### Uses of Information
+Uses of Information
+-------------------
 
 We may use your personal information and aggregate it with information collected from other users to attempt to provide you with a better experience, to improve the quality and value of the services and to analyze and understand how our Website and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
 
@@ -184,7 +169,7 @@ We do not sell personal information to third parties. All personal information c
 
 We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Website-related Services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Website’s features) to assist us in analyzing how our Website and Services are used, or to perform other services (e.g., without limitation, sending postal mail and email, providing marketing assistance, and providing customer service). These third parties may have access to your personal information only to perform these tasks on our behalf; provided, however, that if you are redirected to a site or application maintained by a third party, the privacy policy of such site or application will control the use of any information you provide.
 
-FACTS Parent Alert: Institutions using FACTS Parent Alert to send notifications to families in certain situations, including emergency situations. At the beginning of the school year, a test alert is sent out to parents/guardians or student contacts. If you did not receive the alert, please notify your school office to double check your contact information. Text alerts sent via Parent Alert use a SMS short code. The short code is either 31706 or 317065. If you are an emergency or pick up contact and you do not wish to receive school alerts you can opt out by texting STOP to 31706 or 317065. You can also reply HELP for help.
+**FACTS Parent Alert:** Institutions using FACTS Parent Alert to send notifications to families in certain situations, including emergency situations. At the beginning of the school year, a test alert is sent out to parents/guardians or student contacts. If you did not receive the alert, please notify your school office to double check your contact information. Text alerts sent via Parent Alert use a SMS short code. The short code is either 31706 or 317065. If you are an emergency or pick up contact and you do not wish to receive school alerts you can opt out by texting STOP to 31706 or 317065. You can also reply HELP for help.
 
 SMS Terms and Conditions: By subscribing to FACTS Parent Alerts SMS notifications, parent/guardian contacts agree to receive messages at the phone number provided. You may receive text alerts on activities, delays, events, and scheduled alerts from your student’s institution. Message and data rates may apply. Message frequency varies. You can opt-out of receiving messages at any time by replying STOP. For help, please reply with HELP or contact your school.
 
@@ -192,7 +177,7 @@ We may share your information with companies that are affiliated with us, such a
 
 Sometimes the law or other circumstances also require that we disclose certain personal information about you to nonaffiliated third parties. Some examples are: when you ask or permit us to do so; in response to subpoenas or court orders; when we suspect fraud or criminal activity; to protect our property and rights or those of a third party; to protect the safety of the public or any person; or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical, or legally actionable activity.
 
-VERMONT RESIDENTS: We will not disclose nonpublic personal financial information about you other than as permitted by law unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If you wish to authorize us to disclose your nonpublic personal financial information to nonaffiliated third parties, you may notify us at the address found under the “[How to Contact Us](#contact-us)” section below.
+**VERMONT RESIDENTS:** We will not disclose nonpublic personal financial information about you other than as permitted by law unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If you wish to authorize us to disclose your nonpublic personal financial information to nonaffiliated third parties, you may notify us at the address found under the “[How to Contact Us](#contact-us)” section below.
 
 If you become an inactive User, we will continue to adhere to the privacy policies and practices described in this Web Privacy Policy.
 
@@ -207,11 +192,11 @@ You can help safeguard your personal information by taking a few simple precauti
 Children’s Privacy
 ------------------
 
-Certain of our Services are intended to be used by children and teens located in the United States, including children under the age of 13 (“children” or “students”), for educational purposes only. We presume that schools act as agents on behalf of parents and that a school’s authorization for the collection of students’ personal information is based upon the school obtaining all legally-required consents.
+Certain of our Services are intended to be used by children and teens located in the United States, including children under the age of 13 (“**children**” or “**students**”), for educational purposes only. We presume that schools act as agents on behalf of parents and that a school’s authorization for the collection of students’ personal information is based upon the school obtaining all legally-required consents.
 
 ### What information do we collect?
 
-When a student uses or interacts with our Services, the student may provide us with personal information. In connection with administering a Student Information System (“SIS”) account, the student may provide us with:
+When a student uses or interacts with our Services, the student may provide us with personal information. In connection with administering a Student Information System (“**SIS**”) account, the student may provide us with:
 
 * First and last name
 * Home address
@@ -242,11 +227,16 @@ We may disclose information as follows:
 
 Parents can review or have the information collected from their child deleted. Parents may also refuse to permit further collection or use of such information. To do so, please contact us at:
 
-Attention: Customer Service  
-Nelnet Business Solutions, Inc. (dba FACTS Management Company)  
-121 South 13th Street  
-Lincoln, NE 68508  
-Telephone number: 866-441-4637  
+Attention: Customer Service
+
+Nelnet Business Solutions, Inc. (dba FACTS Management Company)
+
+121 South 13th Street
+
+Lincoln, NE 68508
+
+Telephone number: 866-441-4637
+
 [\[email protected\]](https://factsmgt.com/cdn-cgi/l/email-protection)
 
 Links to Other Websites and Services
@@ -257,11 +247,11 @@ We are not responsible for the collection and use of information by companies or
 California Privacy Notice
 -------------------------
 
-Last Updated: December 18, 2023
+### Last Updated: December 18, 2023
 
-This California Privacy Notice supplements the Web Privacy Policy (“Privacy Policy”) and applies solely to personal information collected about California consumers, such as visitors to the publicly-accessible areas of our Websites, business partners and job applicants. This California Privacy Notice does not apply to personal information collected about FACTS personnel.
+This California Privacy Notice supplements the Web Privacy Policy (“**Privacy Policy**”) and applies solely to personal information collected about California consumers, such as visitors to the publicly-accessible areas of our Websites, business partners and job applicants. This California Privacy Notice does not apply to personal information collected about FACTS personnel.
 
-This California Privacy Notice uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018 (as amended by the California Privacy Rights Act of 2020) and its implementing regulations (collectively, the “CCPA”).
+This California Privacy Notice uses certain terms that have the meaning given to them in the California Consumer Privacy Act of 2018 (as amended by the California Privacy Rights Act of 2020) and its implementing regulations (collectively, the “**CCPA**”).
 
 This California Privacy Notice does not apply to information we collect, process or disclose pursuant to the Gramm-Leach-Bliley Act and its implementing regulations or the California Financial Information Privacy Act. Please see contact your educational institution for certain choices with respect to the use and sharing of your personal information.
 
@@ -269,14 +259,14 @@ This California Privacy Notice does not apply to information we collect, process
 
 We may collect (and may have collected during the 12-month period prior to the Last Updated date of this California Consumer Privacy Notice) the following categories of personal information about you:
 
-* Identifiers: identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers, and similar technology; customer number, unique pseudonym, or user alias; telephone number and other forms of persistent or probabilistic identifiers), online identifier, IP address, email address, account name, Social Security number, driver’s license number, passport number, and other similar identifiers
-* Additional Data Subject to Cal. Civ. Code § 1798.80: signature, or description, state identification card number, bank account number, credit card number, debit card number, or other financial information, education information, medical information and health insurance information
-* Protected Classifications: characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, marital status, medical condition, disability, citizenship status, and military and veteran status
-* Online Activity: Internet and other electronic network activity information, including, but not limited to, information regarding your interaction with websites, applications or advertisements
-* Sensory Information: audio, electronic, visual, and similar information
-* Employment Information: professional or employment-related information such as résumé information, occupation details, education details, certifications and professional associations, historical compensation details, previous employment details, emergency contact information, and pre-employment screening and background check information, including criminal records information
-* Education Information: education information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99)
-* Inferences: inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+* **Identifiers:** identifiers such as a real name, alias, postal address, unique personal identifier (such as a device identifier; cookies, beacons, pixel tags, mobile ad identifiers, and similar technology; customer number, unique pseudonym, or user alias; telephone number and other forms of persistent or probabilistic identifiers), online identifier, IP address, email address, account name, Social Security number, driver’s license number, passport number, and other similar identifiers
+* **Additional Data Subject to Cal. Civ. Code § 1798.80:** signature, or description, state identification card number, bank account number, credit card number, debit card number, or other financial information, education information, medical information and health insurance information
+* **Protected Classifications:** characteristics of protected classifications under California or federal law, such as race, color, national origin, religion, age, sex, gender, marital status, medical condition, disability, citizenship status, and military and veteran status
+* **Online Activity:** Internet and other electronic network activity information, including, but not limited to, information regarding your interaction with websites, applications or advertisements
+* **Sensory Information:** audio, electronic, visual, and similar information
+* **Employment Information:** professional or employment-related information such as résumé information, occupation details, education details, certifications and professional associations, historical compensation details, previous employment details, emergency contact information, and pre-employment screening and background check information, including criminal records information
+* **Education Information:** education information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99)
+* **Inferences:** inferences drawn from any of the information identified above to create a profile about you reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
 
 We may use (and may have used during the 12-month period prior to the Last Updated date of this California Consumer Privacy Notice) your personal information for the purposes described in the Privacy Policy and for the following business purposes:
 
@@ -376,81 +366,57 @@ How to Contact Us
 
 If you have any questions about this Web Privacy Policy please contact us by email at [\[email protected\]](https://factsmgt.com/cdn-cgi/l/email-protection) or via our [Contact Us portal](https://factsmgt.com/contact-us/).
 
-* K-12 Solutions
-    * [Admissions](https://factsmgt.com/school-admissions/)
-        * [Application & Enrollment](https://factsmgt.com/school-admissions/online-application-and-enrollment/)
-    * [Student Information](https://factsmgt.com/student-information/)
-        * [Student Information System](https://factsmgt.com/student-information/student-information-system/)
-        * [Learning Management System](https://factsmgt.com/student-information/learning-management-system/)
-        * [Parent Alert](https://factsmgt.com/student-information/parent-alert/)
-    * [Mobile App & Website Services](https://factsmgt.com/mobile-app-website-services/)
-        * [School Site](https://factsmgt.com/mobile-app-website-services/school-site/)
-        * [Family Custom App](https://factsmgt.com/mobile-app-website-services/family-app/)
-    * [Financial Management](https://factsmgt.com/financial-management/)
-        * [Tuition Management](https://factsmgt.com/financial-management/tuition-management/)
-            * [Incidental Billing & Prepay Accounts](https://factsmgt.com/financial-management/tuition-management/incidental-billing-prepay-accounts/)
-            * [Advanced Accounting](https://factsmgt.com/financial-management/tuition-management/advanced-accounting/)
-            * [Premier Integration](https://factsmgt.com/financial-management/tuition-management/facts-premier-billing/)
-        * [Grant & Aid Assessment](https://factsmgt.com/financial-management/grant-and-aid-assessment/)
-        * [Grant & Aid for Organizations](https://factsmgt.com/financial-management/grant-and-aid-orgs/)
-        * [Payment Forms](https://factsmgt.com/financial-management/payment-forms/)
-    * [Advancement](https://factsmgt.com/advancement/)
-        * [Giving](https://factsmgt.com/advancement/giving/)
-    * [Education Services](https://factsmgt.com/facts-ed/)
-        * [Professional Development](https://factsmgt.com/facts-ed/professional-development/)
-        * [Coaching](https://factsmgt.com/facts-ed/coaching/)
-        * [Instructional Services](https://factsmgt.com/facts-ed/instructional-services/)
-        * [Teacher Evaluation & Observation](https://factsmgt.com/facts-ed/vosaic/)
-        * [ESSA Consulting](https://factsmgt.com/facts-ed/essa-consulting/)
-        * [EANS Consulting](https://factsmgt.com/facts-ed/eans/)
-        * [Virtual & Hybrid Learning](https://factsmgt.com/facts-ed/virtual-hybrid-school-operations/)
+* Products
+* [Education Services](https://factsmgt.com/products/education-services/)
+* [Education Technology](https://factsmgt.com/products/education-technology/)
+* [Financial Management](https://factsmgt.com/products/financial-management/)
 
-* Webinars & Events
-* [Webinars](https://factsmgt.com/webinars/)
-* [Product Demos](https://factsmgt.com/product-demos/)
-* [Elevate](https://factsmgt.com/elevate/)
-* [Events](https://factsmgt.com/upcoming-events/)
+* Markets
+* [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
+* [Corporate Learning Solutions](https://factsmgt.com/markets/corporate-learning-solutions/)
+* [Faith Community Software](https://factsmgt.com/markets/faith-community-software/)
+
 * Resources
-* [Blog](https://factsmgt.com/blog/)
 * [Insights](https://factsmgt.com/insights/)
-* [Press Releases](https://factsmgt.com/press-releases/)
-* [COVID-19 Resource Hub](https://factsmgt.com/blog/category/school-operations/covid19/)
+* [Product Demos](https://factsmgt.com/product-demos/)
+* [Webinars](https://factsmgt.com/webinars/)
+* [Events](https://factsmgt.com/events/)
+* [Blog](https://factsmgt.com/blog/)
 
-* About Us
-* [Our Team](https://factsmgt.com/our-team/)
-* [FACTS International](https://factsmgt.com/facts-international/)
-* [Partners & Affiliations](https://factsmgt.com/partners-affiliations/)
-* [Data Security, Compliance, and Business Continuity](https://factsmgt.com/security-compliance/)
-* [Testimonials](https://factsmgt.com/testimonials/)
-* [Career Opportunities](https://factsmgt.com/career-opportunities/)
+* Company
+* [About Us](https://factsmgt.com/about-us/)
+* [Partners](https://factsmgt.com/partners/)
+* [Our Customer Service Difference](https://factsmgt.com/the-facts-customer-experience/)
+* [Careers](https://factsmgt.com/careers/)
+* [Contact Us](https://factsmgt.com/contact-us/)
+
 * Parents
-* [Parent Solutions](https://factsmgt.com/parents/)
 * [Payment Plans](https://factsmgt.com/parents/#payment-plans)
 * [Financial Aid](https://factsmgt.com/parents/#financial-aid)
 * [FACTS Family Portal](https://factsmgt.com/parents/#family-online)
-* [FAQs](https://factsmgt.com/parent-faqs/)
-* [Contact Sales](https://factsmgt.com/contact-sales/)
-* [Help & Support](https://factsmgt.com/support/)
-* [Contact Us](https://factsmgt.com/contact-us/)
-
-[Family Login](#)
-
-* [FACTS Family Portal](https://familyportal.renweb.com/)
-* [Payment Plans/Financial Aid](https://online.factsmgt.com/)
-
-[School Login](#)
-
-* [Tuition Management/Grant & Aid](https://online.factsmgt.com/)
-* [Student Information System (SIS)](https://login.renweb.com/)
+* [Parent FAQs](https://factsmgt.com/parent-faqs/)
 
 * [Facebook](https://www.facebook.com/FACTSmgt)
-* [LinkedIn](http://www.linkedin.com/company/facts-management-company)
-* [Twitter](http://www.twitter.com/factsmgt)
+* [Twitter](https://twitter.com/FACTSMgt)
+* [Instagram](https://www.instagram.com/factsmgt1/)
+* [YouTube](https://www.youtube.com/@FACTSMGT)
 
-* © 2024 FACTS All Rights Reserved
-* [Privacy Policy](https://factsmgt.com/privacy-policy/)
-* [Terms of Use](https://factsmgt.com/terms-of-use)
-* [Site Map](https://factsmgt.com/sitemap)
-* [COPPA](https://factsmgt.com/childrens-online-privacy-protection)
+Change your location Andorra Afghanistan Åland Islands Albania Algeria American Samoa Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia (Plurinational State of) Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos (Keeling) Islands Colombia Comoros Congo Congo (Democratic Republic of the) Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czech Republic Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands (Malvinas) Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Vatican - Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran (Islamic Republic of) Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea (Democratic People's Republic of) Korea (Republic of) Kuwait Kyrgyzstan Kosovo Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Macedonia (the former Yugoslav Republic of) Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia (Federated States of) Moldova (Republic of) Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin (French part) Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten (Dutch part) Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Swaziland Sweden Switzerland Syrian Arab Republic Taiwan, Province of China Tajikistan Tanzania, United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom of Great Britain and Northern Ireland United States Minor Outlying Islands United States of America Uruguay Uzbekistan Vanuatu Venezuela (Bolivarian Republic of) Viet Nam Virgin Islands (British) Virgin Islands (U.S.) Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe
+
+©2024 FACTS All Rights Reserved
+
+[![FACTS - A Nelnet Company](https://factsmgt.com/wp-content/uploads/Logo-Facts.svg)](https://factsmgt.com/)
+
+* [Privacy Policy](https://factsmgt.com/privacy-policy)
+* [Terms of Use](https://factsmgt.com/terms-of-use/)
+* [COPPA](https://factsmgt.com/childrens-online-privacy-protection/)
 * [DMCA](https://factsmgt.com/dmca)
-* [FACTS Australia](https://factsmgt.com.au/)
+
+Looking for something specific?
+-------------------------------
+
+ _Search_
+
+![loading](https://factsmgt.com/wp-content/plugins/geotargetingwp/addons/geo-redirects/public/img/loading.svg)
+
+Please wait while you are redirected to the right page...
