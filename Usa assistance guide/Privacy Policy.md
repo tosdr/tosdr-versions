@@ -12,7 +12,7 @@
 
 [Search Charities](https://usaassistanceguide.com/search-charities/)
 
-[Privacy Policy](https://usaassistanceguide.com/privacy-policy/) | [Data Policy](https://usaassistanceguide.com/data-policy/) | [How It works](https://usaassistanceguide.com/how-it-works/) | [Terms & Conditions](https://usaassistanceguide.com/terms-conditions/) | [Unsubscribe](https://reg.usaassistanceguide.com/unsub.aspx) | [Accessible View](https://usaassistanceguide.com/accessible-view/) | [Do Not Sell or Share My Information](https://usaassistanceguide.com/do-not-sell-my-information/) | [Privacy Notice](https://usaassistanceguide.com/privacy-notice/) | Copyright © C4R Media Corp.
+[Privacy Policy](https://usaassistanceguide.com/privacy-policy/) | [Data Policy](https://usaassistanceguide.com/data-policy/) | [How It works](https://usaassistanceguide.com/how-it-works/) | [Terms & Conditions](https://usaassistanceguide.com/terms-conditions/) | [Unsubscribe](https://reg.usaassistanceguide.com/unsub.aspx) | [Accessibility Notice](https://usaassistanceguide.com/accessibility-notice/) | [Do Not Sell or Share My Information](https://usaassistanceguide.com/do-not-sell-my-information/) | [Privacy Notice](https://usaassistanceguide.com/privacy-notice/) | Copyright © C4R Media Corp.
 
 [Skip to content](#content)
 
