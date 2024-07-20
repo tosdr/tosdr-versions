@@ -303,15 +303,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Smart backup type](https://www.backup4all.com/smart-backup-type-kb.html)  
+* [How to create a private-public key pair](https://www.backup4all.com/how-to-create-a-private-public-key-pair-kb.html)  
     
-* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
+* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
     
-* [How to install Backup4all using the main inte ...](https://www.backup4all.com/how-to-install-backup4all-using-the-main-interface-kb.html)  
+* [How to restore a backup using WinRar](https://www.backup4all.com/how-to-restore-a-backup-using-winrar-kb.html)  
     
-* [How to back up data files from GreenQloud usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-greenqloud-using-backup4all-kb.html)  
+* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
     
-* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
+* [How to install Backup4all in a different star ...](https://www.backup4all.com/how-to-install-backup4all-in-a-different-start-menu-folder-kb.html)  
     
 
 Choose language:
