@@ -6,11 +6,11 @@
 * Marketplace
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=52880604)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=52880604)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=eu_531809&lang=en&country=GB&device=desktop)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=eu_531809&lang=en&country=GB&device=desktop)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=52880604)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=52880604)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=eu_531809&lang=en&country=GB&device=desktop)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=eu_531809&lang=en&country=GB&device=desktop)
 
 Smartcat legal
 
@@ -21,7 +21,7 @@ Smartcat legal
 SMARTCAT PRIVACY POLICY AND CONSENT NOTICE
 ------------------------------------------
 
-Current version. Last updated on February 20, 2024.
+Current version. Last updated on July 05, 2024.
 
 [](#)
 
@@ -89,7 +89,7 @@ Plus there is supplementary information you may wish to give us to expand your p
 
 **_2) Additional Information_**
 
-If you contact us or participate in a survey, Smartcat community discussion, we collect the information you submit such as your name, contact information, and message.
+If you contact us or participate in a survey, Smartcat community discussion or a call, we collect the information you submit such as your name, contact information, and message.
 
 If you decide to participate in one of Smartcat Localization Meetups, we collect the information you submit such as your first and second name, e-mail, your company name and your job title.
 
@@ -277,6 +277,8 @@ The consent you are giving hereby relates to the personal data that was entered 
 
 * process personal data for the purpose of providing, supporting and improving Smartcat’s services and features, using appropriate technical, administrative and organizational security measures as well as for the purposes set forth in the Terms;
     
+* inform you about our services, we may contact you at the phone numbers you provided. By providing your numbers, you agree to receive calls using automated dialing technology, prerecorded messages, and/or artificial intelligence voice messaging.
+    
 * cross-border transfers of your personal data to those countries where Smartcat operates or may operate in future with the understanding that whilst the EU countries and a number of other countries have similar and appropriate rules and level of personal data safeguard and protection there may be transfers of your personal data to those countries that lack the appropriate level and legislative regulation of personal data safeguard and protection.
     
 
@@ -290,7 +292,7 @@ Please note that you are not obligated to provide us with your personal data com
 
 [Product Tour](https://www.smartcat.com/product-tour/)[Why Smartcat](https://www.smartcat.com/why-smartcat/)[Enterprise](https://www.smartcat.com/enterprise/)[For Vendors](https://www.smartcat.com/suppliers/)[Pricing](https://www.smartcat.com/pricing/)
 
-Product[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/organizations/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)Solutions by role[L&D Manager](https://www.smartcat.com/learning-and-development/)[Marketer](https://www.smartcat.com/marketing-translation/)[Localization Manager](https://www.smartcat.com/translation-management-system/)[Product Manager](https://www.smartcat.com/product-localization/)[Government](https://www.smartcat.com/government-translation/)[School Districts](https://www.smartcat.com/ai-translation-software-for-schools/)[Language Service Provider](https://www.smartcat.com/agencies/)Solutions by goal[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/organizations/localize-website/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/organizations/ecommerce-localization/)Resources[Blog](https://www.smartcat.com/blog/)[Online events](https://www.smartcat.com/online-events/)[Case studies](https://www.smartcat.com/cases/)[Help center](https://help.smartcat.com/)[Support](https://www.smartcat.com/contact-support/)[What’s new](https://www.smartcat.com/news/)[Release notes](https://www.smartcat.com/release-notes/)Company[About us](https://www.smartcat.com/about-us/)[Culture code](https://www.smartcat.com/culture-code/)[Careers](https://www.smartcat.com/careers/)[RFP](https://www.smartcat.com/rfp-translation/)
+Product[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/organizations/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)Solutions by role[L&D Manager](https://www.smartcat.com/learning-and-development/)[Marketer](https://www.smartcat.com/marketing-translation/)[Localization Manager](https://www.smartcat.com/translation-management-system/)[Product Manager](https://www.smartcat.com/product-localization/)[Government](https://www.smartcat.com/government-translation/)[School Districts](https://www.smartcat.com/ai-translation-software-for-schools/)[Language Service Provider](https://www.smartcat.com/agencies/)Solutions by goal[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/organizations/ecommerce-localization/)Resources[Blog](https://www.smartcat.com/blog/)[Online events](https://www.smartcat.com/online-events/)[Case studies](https://www.smartcat.com/cases/)[Help center](https://help.smartcat.com/)[Support](https://www.smartcat.com/contact-support/)[What’s new](https://www.smartcat.com/news/)[Release notes](https://www.smartcat.com/release-notes/)Company[About us](https://www.smartcat.com/about-us/)[Culture code](https://www.smartcat.com/culture-code/)[Careers](https://www.smartcat.com/careers/)[RFP](https://www.smartcat.com/rfp-translation/)
 
 Product
 
@@ -302,7 +304,7 @@ Solutions by role
 
 Solutions by goal
 
-[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/organizations/localize-website/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/organizations/ecommerce-localization/)
+[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/organizations/ecommerce-localization/)
 
 Resources
 
@@ -322,7 +324,7 @@ SOC II compliant organization
 
 Follow us:
 
-[](https://www.facebook.com/smartcatai)[](https://www.linkedin.com/company/smartcatai)[](https://twitter.com/Smartcatai)[](https://www.youtube.com/channel/UCKKUamgbbSDDe5AGCZ5jeBg)
+[](https://www.facebook.com/smartcatai)[](https://www.linkedin.com/company/smartcatai)[](https://x.com/Smartcatai)[](https://www.youtube.com/channel/UCKKUamgbbSDDe5AGCZ5jeBg)
 
 © Smartcat Platform Inc. 2024 | 2810 N Church St PMB 50985, Wilmington, Delaware, 19802-4447, USA
 
