@@ -59,8 +59,6 @@ Sign in
 
  [![](//static.truist.com/content/dam/global-images/truist-logo-purple.svg) Truist Homepage](https://www.truist.com/)
 
- Personal Navigation
-
 * [Checking & savings](#)
     
     #### Checking
@@ -83,6 +81,7 @@ Sign in
     * [Premier banking](https://www.truist.com/checking/premier-banking)
     * [Online & mobile banking](https://www.truist.com/digital-banking)
     * [Zelle®](https://www.truist.com/online-banking/zelle)
+    * [Paze℠](https://www.truist.com/online-banking/paze)
     
     #### Additional services
     
@@ -985,7 +984,7 @@ Through the Truist [Privacy Center](https://privacycenter.truist.com/), you can 
 
 This Notice may be revised from time to time, so please review this page periodically. Any changes will become effective when we post the revised notice on the site (please note the effective date listed at the top of this page).
 
-Our annual report showing request metrics for the previous calendar year can be found [here](https://www.truist.com/content/dam/truist-bank/us/en/documents/disclosures/ccpa-annual-online-discosure.pdf).
+Our annual report showing request metrics for the previous calendar year can be found [here](https://www.truist.com/content/dam/truist-bank/us/en/documents/disclosures/ccpa-online-reporting-truist-2023.pdf).
 
 ### Contact Us  
 
@@ -1022,7 +1021,7 @@ Equal Housing Lender![](//static.truist.com/content/dam/global-images/equal-hous
 * Are Not Bank Guaranteed
 * May Lose Value
 
-Services provided by the following affiliates of Truist Financial Corporation (Truist): Banking products and services, including loans and deposit accounts, are provided by Truist Bank, Member FDIC. Trust and investment management services are provided by Truist Bank, and Truist Delaware Trust Company. Securities, brokerage accounts and /or insurance (including annuities) are offered by Truist Investment Services, Inc., which is a SEC registered broker-dealer, member FINRA, SIPC, and a licensed insurance agency. Investment advisory services are offered by Truist Advisory Services, Inc., GFO Advisory Services, LLC, and Sterling Capital Management, LLC, each SEC registered investment advisers. Sterling Capital Funds are advised by Sterling Capital Management, LLC.
+Services provided by the following affiliates of Truist Financial Corporation (Truist): Banking products and services, including loans and deposit accounts, are provided by Truist Bank, Member FDIC. Trust and investment management services are provided by Truist Bank, and Truist Delaware Trust Company. Securities, brokerage accounts and /or insurance (including annuities) are offered by Truist Investment Services, Inc., which is a SEC registered broker-dealer, member FINRA, SIPC, and a licensed insurance agency. Investment advisory services are offered by Truist Advisory Services, Inc., GFO Advisory Services, LLC., each SEC registered investment advisers.
 
 Mortgage products and services are offered through Truist Bank. All Truist mortgage professionals are registered on the Nationwide Mortgage Licensing System & Registry (NMLS), which promotes uniformity and transparency throughout the residential real estate industry. [Search the NMLS Registry](https://www.truist.com/speedbump/truist-speedbump?url=https://www.nmlsconsumeraccess.org/).
 
@@ -1093,7 +1092,7 @@ About Truist
 * [Purpose](https://www.truist.com/purpose)
 * [Truist Foundation](https://www.truist.com/purpose/truist-foundation)
 * [Truist Leadership Institute](https://www.truistleadershipinstitute.com/)
-* [Truist Securities](https://www.truistsecurities.com/)
+* [Truist Securities](https://www.truist.com/commercial-corporate-institutional/investment-banking)
 * [Truist Ventures](https://www.truist.com/who-we-are/truist-ventures/about-us)
 
 Resources
