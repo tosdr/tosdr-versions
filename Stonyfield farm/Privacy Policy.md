@@ -189,7 +189,7 @@ Users who reside in California and have provided their personal information to S
 
 ![barn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![barn](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/barn.png)
+![barn](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/barn.webp)
 
 We Began As An Organic Farming School Before We Became Yogurt Makers. Almost 40 Years Later, Our Mission Is Still Healthy.
 
@@ -204,7 +204,7 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
     * [ ]  Yes! I wish to receive via email Stonyfield's newsletter and/or information related to our products, programs, and/or promotional activities.
     
 * 
-* Comments
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
