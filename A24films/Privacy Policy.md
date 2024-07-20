@@ -225,8 +225,6 @@ If you have any questions or comments about this Privacy Policy, or would like t
 * [Privacy Policy](https://a24films.com/privacy-policy)
 * Privacy Preferences
 
-THIS WEBSITE IS NOT ENDORSED OR APPROVED BY, AND IS NOT IN ANY WAY AFFILIATED WITH, THE AMERICAN AUTOMOBILE ASSOCIATION, INC. (“AAA”).
-
 ###### More A24
 
 * [Facebook](https://www.facebook.com/A24 "Facebook")
@@ -243,6 +241,8 @@ Get our emails. Letters from our filmmakers, new trailers, podcasts, merch, and 
  email   
 
 Please provide a valid email address or check to see that you are not already registered. Success!
+
+THIS WEBSITE IS NOT ENDORSED OR APPROVED BY, AND IS NOT IN ANY WAY AFFILIATED WITH, THE AMERICAN AUTOMOBILE ASSOCIATION, INC. (“AAA”).
 
 * [Films](https://a24films.com/films)
 * [Television](https://a24films.com/television)
