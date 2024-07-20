@@ -21,16 +21,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-07:02:50
+08:46:10
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Friday, June 21, 2024
+Saturday, 20 July, 2024, week 29
 
-[World Music Day](https://en.wikipedia.org/wiki/F%C3%AAte_de_la_Musique) / [International Day of Yoga](https://www.un.org/en/observances/yoga-day)
+[International Chess Day](https://en.wikipedia.org/wiki/International_Chess_Day) / [International Ride MTB Day](https://www.ridemtbday.com/)
 
-Sun: ↑ 05:59 ↓ 21:48 (15h 49m) - [More info](https://time.is/France#time_zone) - [Make France time default](https://time.is/h/2e0aa6) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 05:00 ↓ 21:35 (16h 35m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
 
 ×
 
