@@ -319,6 +319,8 @@ Search for:
 Recent Posts
 ------------
 
+* [Stupid Android time – Ads on Startup.](https://www.s-config.com/stupid-android-time-ads-on-startup/) July 6, 2024
+* [It’s June! Oh Hai!](https://www.s-config.com/its-june-oh-hai/) June 18, 2024
 * [We are mortal.](https://www.s-config.com/we-are-mortal/) April 2, 2024
 * [State of the blog – 2024.](https://www.s-config.com/state-of-the-blog-2024/) January 28, 2024
 * [Website – Changelog 12/17/2023](https://www.s-config.com/website-changelog-12-17-2023/) December 17, 2023
@@ -327,8 +329,6 @@ Recent Posts
 * [Oh no, another YouTube article!](https://www.s-config.com/oh-no-another-youtube-article/) November 3, 2023
 * [Banned on Ahmia](https://www.s-config.com/banned-on-ahmia/) October 18, 2023
 * [DIY Lighting.](https://www.s-config.com/diy-lighting/) October 8, 2023
-* [October time!](https://www.s-config.com/october-time/) October 1, 2023
-* [RSS/Atom Update](https://www.s-config.com/rss-atom-update/) September 10, 2023
 
 The only advertisement banner you will see.
 -------------------------------------------
@@ -338,12 +338,12 @@ The only advertisement banner you will see.
 Recent Comments
 ---------------
 
-* [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-85448)
-* AnyoneAndEveryone on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-85429)
-* [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-85108)
-* 439m on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-85104)
-* alex on [Rollerblade office caster wheels – buyer beware!](https://www.s-config.com/rollerblade-office-caster-wheels-buyer-beware/comment-page-5/#comment-85085)
-* Zeus9x on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-85076)
-* [S-Config](https://www.s-config.com/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-84959)
+* [S-Config](https://www.s-config.com/) on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86232)
+* sivre on [We are mortal.](https://www.s-config.com/we-are-mortal/comment-page-1/#comment-86189)
+* XenonMazi on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-86133)
+* [S-Config](https://www.s-config.com/) on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-85713)
+* XenonMazi on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-85703)
+* [S-Config](https://www.s-config.com/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-85665)
+* [alec](http://ls-alh.xyz/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-85635)
 
 2024 - https://www.s-config.com TOR-V3: xjfbpuj56rdazx4iolylxplbvyft2onuerjeimlcqwaihp3s6r4xebqd.onion - I2P: atlkfvuwwpgvnw24dkwyyxf5psrueozxb3i6zgebymjuquuquvqq.b32.i2p
