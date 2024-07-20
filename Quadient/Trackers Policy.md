@@ -134,15 +134,15 @@ Other Resources [Tax information](https://mail.quadient.com/en/resources/tax-inf
 
 Resources
 
-[![Watch Quadient Connects on demand](https://backend.quadient.com/files/default/2024-05/qc-720x480-2.png)
+[![tablet-holding-ebook-13-reasons-to-choose-saas](https://backend.quadient.com/files/default/2024-07/tinified-en-us-thumb-2024-720x480-13_reasons_to_choose_saas.png "ebook-13-reasons-to-choose-saas")
 
-Time to be remarkable and BE MORE](https://www.quadient.com/en/blog/time-be-remarkable-and-be-more)
+Power Up Your Document Management
 
-[![e-invoicing infographic](https://backend.quadient.com/files/default/2024-06/infographic_e-invoicing_en.png "e-invoicing infographic")
+13 Reasons to Choose SaaS](https://www.quadient.com/en/resources/cxm/ebook-13-reasons-choose-saas)
 
-E-Invoicing Infographic
+[![Property Management Company slashes invoicing time with Quadient Impress](https://backend.quadient.com/files/default/2023-04/thumb-cs-unnamed-property-management-impress-distribute-720x480-uki.jpg "Property Management Company slashes invoicing time with Quadient Impress")
 
-All you need to know!](https://www.quadient.com/en/resources/e-invoicing%C2%A0infographic)
+Property Management Company slashes invoicing time with Quadient Impress Distribute](https://www.quadient.com/en/resources/property-management-company-slashes-invoicing-time-quadient-impress)
 
 Communications
 
