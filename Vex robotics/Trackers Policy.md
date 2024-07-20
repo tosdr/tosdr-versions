@@ -156,7 +156,7 @@ This Application uses Trackers to improve the quality of the user experience and
 
 #### Measurement
 
-This Application uses Trackers to measure traffic and analyze User behavior to improve the Service.
+This Application uses Trackers to measure traffic and analyse User behaviour to improve the Service.
 
 * ### Analytics
     
@@ -233,7 +233,7 @@ This Application uses Trackers to measure traffic and analyze User behavior to i
 
 #### Marketing
 
-This Application uses Trackers to deliver personalized marketing content based on User behavior and to operate, serve and track ads.
+This Application uses Trackers to deliver personalised marketing content based on User behaviour and to operate, serve and track ads.
 
 * ### Advertising
     
@@ -269,21 +269,21 @@ This Application uses Trackers to deliver personalized marketing content based o
     * fr: 3 months
     
 
-### How to manage preferences and provide or withdraw consent
+### How to manage preferences and provide or withdraw consent on this Application
 
-There are various ways to manage Tracker related preferences and to provide and withdraw consent, where relevant:
+Whenever the use of Trackers is based on consent, users can provide or withdraw such consent by setting or updating their preferences via the relevant privacy choices panel available on this Application.
 
-Users can manage preferences related to Trackers from directly within their own device settings, for example, by preventing the use or storage of Trackers.
+With regard to any third-party Trackers, Users can manage their preferences and withdraw their consent (TO BE REMOVED) via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
 
-Additionally, whenever the use of Trackers is based on consent, Users can provide or withdraw such consent by setting their preferences within the cookie notice or by updating such preferences accordingly via the relevant consent-preferences privacy widget, if available.
+#### How to control or delete Cookies and similar technologies via your device settings
 
-It is also possible, via relevant browser or device features, to delete previously stored Trackers, including those used to remember the User’s initial consent preferences.
+Users may use their own browser settings to:
 
-Other Trackers in the browser’s local memory may be cleared by deleting the browsing history.
+* See what Cookies or other similar technologies have been set on the device;
+* Block Cookies or similar technologies;
+* Clear Cookies or similar technologies from the browser.
 
-With regard to any third-party Trackers, Users can manage their preferences via the related opt-out link (where provided), by using the means indicated in the third party's privacy policy, or by contacting the third party.
-
-#### Locating Tracker Settings
+The browser settings, however, do not allow granular control of consent by category.
 
 Users can, for example, find information about how to manage Cookies in the most commonly used browsers at the following addresses:
 
@@ -376,6 +376,6 @@ This privacy policy relates solely to this Application, if not stated otherwise 
 
 Latest update: June 17, 2024
 
-[iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
+This document has been created with the iubenda [Privacy and Cookie Policy Generator](https://www.iubenda.com/en/cookie-solution). See also the [Terms and Conditions Generator](https://www.iubenda.com/en/terms-and-conditions-generator). [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator) hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
 [Show the complete Privacy Policy](https://www.iubenda.com/privacy-policy/89449486/legal?from_cookie_policy=true)
