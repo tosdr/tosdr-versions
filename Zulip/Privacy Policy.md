@@ -72,7 +72,7 @@ This chart details the categories of Personal Data that we may collect and may h
 | **Web Analytics** | \- Web page interactions  <br>\- Referring webpage/source through which you accessed the Services  <br>\- Statistics associated with the interaction between device or browser and the Services | \- Service Providers  <br>\- Analytics Partners |
 | **Social Network Data** | \- Email address  <br>\- User name | \- Service Providers |
 | **Geolocation Data** | \- IP-address-based coarse location information | \- Service Providers  <br>\- Analytics Partners |
-| **Other Identifying Information that You Voluntarily Choose to Provide** | \- Identifying information in emails, letters, Zulip messages or support communications you send us  <br>\- Zulip messages, uploaded files, channel descriptions, and other content you provide using our Services (e.g. in a Zulip client)  <br>\- Values of custom profile fields configured by your Zulip Organization, where you might choose to enter your phone number, job title, birthday, or other biographical details. | \- Service Providers  <br>\- Parties You Authorize, Access or Authenticate |
+| **Other Identifying Information that You Voluntarily Choose to Provide** | \- Identifying information in emails, letters, Zulip messages or support communications you send us  <br>\- Zulip messages, uploaded files, channel descriptions, and other content you provide using our Services (e.g., in a Zulip client)  <br>\- Values of custom profile fields configured by your Zulip Organization, where you might choose to enter your phone number, job title, birthday, or other biographical details. | \- Service Providers  <br>\- Parties You Authorize, Access or Authenticate |
 | **Other Identifying Information that Another User Chooses to Provide to You** | \- Messages or other content that other Zulip users may send you.  <br>\- Messages or content that any Zulip Organization Administrator of a Zulip community that you may join may provide about you. | \- Service Providers  <br>\- Parties You Authorize, Access or Authenticate |
 
 ### Categories of Sources of Personal Data
@@ -86,7 +86,7 @@ We collect Personal Data about you from the following categories of sources:
         * When you send us an email or otherwise contact us.
     * When you use the Services and such information is collected automatically.
         * Through Cookies (defined in the “Tracking Tools and Opt-Out” section below).
-        * If you download a Zulip application such as our mobile and desktop apps, or interact with the Services over a network using a web browser or other client, we may receive and collect information about your device and your network connection (e.g. your IP address).
+        * If you download a Zulip application such as our mobile and desktop apps, or interact with the Services over a network using a web browser or other client, we may receive and collect information about your device and your network connection (e.g., your IP address).
         * If you download a Zulip application such as our mobile and desktop apps, or interact with the Services over a network using a web browser or other client, we may receive and collect information transmitted from your computing device for the purpose of providing you the relevant Services, such as information regarding when you are logged on and available to receive updates or alert notices.
 * **Third Parties**
     * Vendors
