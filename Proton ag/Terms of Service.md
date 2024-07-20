@@ -93,9 +93,9 @@ Open menu
 Terms of Service
 ================
 
-Last modified: June 17th, 2024
+Last modified: July 18, 2024
 
-By using the proton.me or protonvpn.com website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+By using the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
@@ -153,12 +153,14 @@ If your account is free, you are considered active by performing one of the foll
 
 Activity is considered by Account, not by email address. Keeping an active Account ensures that any email addresses you created for that Account (@proton.me, @pm.me, etc.) also remain active.
 
-If you are subject to unsurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please [contact our Customer Support](https://protonmail.com/support/contact) so that they can prevent deletion under this section.
+If you are subject to unsurmountable circumstances that won't allow you to stay active on your Account in a period of 12 months, please [contact our Customer Support(new window)](https://protonmail.com/support/contact) so that they can prevent deletion under this section.
 
 4\. Limited warranties and liability
 ------------------------------------
 
 The Company does not make any warranty about the reliability of the Services or the security of user data, despite best efforts. The Service is provided “as is” and “as available,” without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, title, accuracy, non-infringement, or warranties that may arise from course of dealing or course of performance or usage of trade.
+
+The Company offers the Proton Scribe feature as part of the Services. Proton Scribe is a writing assistant which provides you with some suggestions for email or document drafting. Proton Scribe is not designed to provide answers and may not always provide factually correct information. The content provided by Proton Scribe should not be relied upon for any specific purpose without verification of its accuracy or completeness. Proton does not offer any warranty about the accuracy or completeness of the content suggested by Proton Scribe.
 
 The Company has no obligation to store or forward the contents of terminated Accounts. We also have no obligation to store messages or contents for accounts that exceed their storage quotas. Furthermore, you will not hold the Company liable or seek indemnification if confidential material is unintentionally released as the result of a security failure or vulnerability in the performance of the Services or if data is deleted for an inactive account (see section 3). Due to the encrypted nature of the Services, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your password.
 
@@ -198,7 +200,7 @@ You agree that the Company, and any parents, subsidiaries, officers, directors, 
 7\. Privacy
 -----------
 
-Our [Privacy Policy(new window)](https://protonmail.com/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or protonvpn.com website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
+Our [Privacy Policy(new window)](https://protonmail.com/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
 
 If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement(new window)](https://protonmail.com/legal/dpa) shall apply.
 
@@ -210,7 +212,7 @@ All trademarks, service marks, logos, trade names, and other proprietary designa
 9\. Terms of payment
 --------------------
 
-Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you, or as announced at the moment of initial purchase. The price may change after the initial term as announced at the moment of initial purchase. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
+Subscriptions for the Services are charged on a monthly, yearly or bi-yearly billing cycle, depending on your selection. After the initial term, the subscription is renewed automatically for the same selected duration unless canceled or modified by you. Credit balances are automatically deducted accordingly. You are responsible for keeping payment information in relation with your Account up to date.
 
 You may cancel your subscription within 30 days of the initial purchase and receive a refund for any unused portion of the service period. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds will be processed within 30 days of the request. We may also provide you with a full refund upon request if you are using Proton VPN or Proton Drive. To request a refund, please contact us using our support form. For the sake of clarity, the cancellation and the request for refund must both be addressed within the 30-day period. Payments made by cash or bank transfers are not refundable. **Refunds can only be requested once per user**. This refund option is only applicable to users who have subscribed to Proton's Services directly through Proton's official channels (website and apps). If you have subscribed to Proton's Services through the intermediary of a third-party, please refer to their respective refund policy.
 
@@ -218,7 +220,12 @@ Past the abovementioned 30-day period, the Services provided by the Company are 
 
 If the Company chooses to issue a refund for any reason, The Company will only refund in the original currency of payment and to the original payment method. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
 
-If you fail to fulfill your obligation of payment as a user of a paid Account, your account will be automatically downgraded to a free Account 14 days after the failure to proceed to payment. If your Account is exceeding feature limits of free accounts after this downgrade (e.g. exceeding storage capacity or having an organization account with sub-users), your Account will be restricted in the following ways:
+If you fail to fulfil your obligation of payment as a user of a paid Account, your account will be automatically downgraded to a Free account 14 days after the failure to proceed to payment. However, if your account is exceeding limits of free accounts, we may either:
+
+* Renew your subscription, in which case the subscription fee are due;
+* Downgrade your account to Free plan with limited access.
+
+In both cases, your account will be restricted in the following ways:
 
 * If your Account exceeds the storage capacity limit, your Account will be prevented from receiving emails, sending emails with attachments, create new calendar events and uploading files to your Drive (you may however still send emails without attachments and receive emails from Proton);
 * If your Account is an organization account with sub-users and/or invited users, your custom domain(s) will be disabled, your sub-users will be restricted and/or your invited users will be separated from your Account.
@@ -227,7 +234,7 @@ Accounts downgraded to free subscription due to a failure of payment are subject
 
 Subscriptions and credits are linked to the Account they have originally been purchased for and cannot be transferred to another account.
 
-If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your account.
+If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above-mentioned refund from the Company and consent to rely upon the dispute resolution procedure of the third-party payment processor. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for additional costs (e.g. dispute fee), you authorize the Company to charge that amount on your Account. In case of a dispute or chargeback, we reserve our right to suspend your account until settlement of the dispute.
 
 10\. Modification of plan or billing cycle
 ------------------------------------------
