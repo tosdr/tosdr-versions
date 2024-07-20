@@ -29,18 +29,18 @@ Change.org’s mission is to empower people everywhere to create the change they
 
 Table of contents
 
-1. [Key contacts](https://www.change.org/policies/privacy#1)
-2. [Information we collect](https://www.change.org/policies/privacy#2)
-3. [How we use your information](https://www.change.org/policies/privacy#3)
-4. [Who may receive your information](https://www.change.org/policies/privacy#4)
-5. [Your privacy choices](https://www.change.org/policies/privacy#5)
-6. [Data retention and information security](https://www.change.org/policies/privacy#6)
+1. [Key contacts](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#1)
+2. [Information we collect](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#2)
+3. [How we use your information](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#3)
+4. [Who may receive your information](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#4)
+5. [Your privacy choices](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#5)
+6. [Data retention and information security](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#6)
 
-7. [Cross-border transfers](https://www.change.org/policies/privacy#7)
-8. [Links to other websites](https://www.change.org/policies/privacy#8)
-9. [California Consumer Privacy Act](https://www.change.org/policies/privacy#9)
-10. [CARU COPPA Safe Harbor Program (“CARU COPPA Safe Harbor”)](https://www.change.org/policies/privacy#10)
-11. [Policy updates](https://www.change.org/policies/privacy#11)
+7. [Cross-border transfers](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#7)
+8. [Links to other websites](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#8)
+9. [California Consumer Privacy Act](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#9)
+10. [CARU COPPA Safe Harbor Program (“CARU COPPA Safe Harbor”)](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#10)
+11. [Policy updates](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#11)
 
 ### 1\. Key contacts
 
@@ -236,7 +236,7 @@ Please note that some of these rights may be limited where we have an overriding
 
 If you have such rights and your request complies with the requirements under applicable laws, we will give effect to your rights as required by law.
 
-To exercise any rights you may have under applicable privacy laws, reach out to the appropriate contact listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy#1) or get in touch with our support team through our [Help Center](https://help.change.org/). If we are unable to identify you from your first communication, we may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+To exercise any rights you may have under applicable privacy laws, reach out to the appropriate contact listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#1) or get in touch with our support team through our [Help Center](https://help.change.org/). If we are unable to identify you from your first communication, we may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information (or to exercise any of your other rights). This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
 Although we urge you to contact us first to find a solution for every concern you may have, you may have the right to lodge a complaint with your competent data protection authority. [Contact details of EU Data Protection Authorities can be found here](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
 
@@ -246,7 +246,7 @@ If you suspect someone else is using your account, contact our support team thro
 
 If you believe you have discovered a vulnerability, bug, or other general security issue within the Change.org platform, please contact the Change.org Information Security team at [security.help@change.org](mailto:security.help@change.org).
 
-We seek to use reasonable organizational, technical, and administrative measures to protect your personal information within our organization from loss, misuse, unauthorized access or disclosure, alteration and/or destruction. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify our Data Protection Team using the contact details listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy#1).
+We seek to use reasonable organizational, technical, and administrative measures to protect your personal information within our organization from loss, misuse, unauthorized access or disclosure, alteration and/or destruction. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify our Data Protection Team using the contact details listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#1).
 
 We will retain your personal information for as long as needed or permitted in light of the purposes for which it was obtained. The criteria used to determine our retention periods include the length of time we have an ongoing relationship with you and provide our services to you, our legal obligations or whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, or regulatory investigations).
 
@@ -261,7 +261,7 @@ Some of these recipients may be located in countries outside the EEA and/or the 
 * enter into appropriate data transfer agreements based on so-called Standard Contractual Clauses approved from time-to-time under GDPR Art. 46 by the European Commission, the UK Information Commissioner’s Office or UK Government (as and where applicable); or
 * rely on other appropriate means permitted by the EU/UK GDPR, which establish that such recipients will provide an adequate level of data protection and that appropriate technical and organizational security measures are in place to protect personal data against accidental or unlawful destruction, loss or alteration, unauthorized disclosure or access, and against all other unlawful forms of processing.
 
-You may obtain a copy of these measures by contacting our Data Protection Team using the contact details listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy#1).
+You may obtain a copy of these measures by contacting our Data Protection Team using the contact details listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#1).
 
 ### 8\. Links to other websites
 
@@ -293,11 +293,11 @@ The following chart details which categories of personal information we collect 
 
 #### 2\. Categories of sources from which personal information is collected
 
-Most of the personal information Change.org collects is provided by you when you access and use our service. Additionally, in order to show you local petitions that may be of interest to you, we use the IP service Maxmind to suggest your city from your IP address. For more information, please read the Your City and Your Location section in our [Privacy Policy \[2. Information we collect\]](https://www.change.org/policies/privacy#2).
+Most of the personal information Change.org collects is provided by you when you access and use our service. Additionally, in order to show you local petitions that may be of interest to you, we use the IP service Maxmind to suggest your city from your IP address. For more information, please read the Your City and Your Location section in our [Privacy Policy \[2. Information we collect\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#2).
 
 #### 3\. Business or commercial purpose of collecting or selling personal information
 
-Change.org uses your information for our legitimate business interest of providing a petition platform that enables you to connect with issues that are important to you. Our [Privacy Policy \[3. How we use your information\]](https://www.change.org/policies/privacy#3) gives a detailed description of why we collect your information and what we use it for.
+Change.org uses your information for our legitimate business interest of providing a petition platform that enables you to connect with issues that are important to you. Our [Privacy Policy \[3. How we use your information\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#3) gives a detailed description of why we collect your information and what we use it for.
 
 #### 4\. Sale or sharing of personal information
 
@@ -355,7 +355,7 @@ Attn: Director
 McLean, VA 22102  
 [InfoCaru@bbbnp.org](mailto:InfoCaru@bbbnp.org)
 
-PLEASE NOTE: CARU is not a data controller or a data processor for Change.org and cannot process personal information requests made pursuant to CCPA. Please direct your personal information request directly to Change.org, through the email as indicated in our [Privacy Policy \[9. California Consumer Protection Act\]](https://www.change.org/policies/privacy#9).
+PLEASE NOTE: CARU is not a data controller or a data processor for Change.org and cannot process personal information requests made pursuant to CCPA. Please direct your personal information request directly to Change.org, through the email as indicated in our [Privacy Policy \[9. California Consumer Protection Act\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#9).
 
 ### **11\. Policy updates**
 
@@ -363,7 +363,7 @@ This policy may change over time. If you have any questions, the best way to get
 
 We may change this Privacy Policy. The “Last updated” date at the top of this Privacy Policy indicates when it was last revised. Any changes will become effective when we post the revised Privacy Policy on our platform.
 
-We welcome questions, concerns, and feedback about this policy. If you have any suggestions for us, let us know through our [Help Center](https://help.change.org/). You can also write to the appropriate contact listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy#1).
+We welcome questions, concerns, and feedback about this policy. If you have any suggestions for us, let us know through our [Help Center](https://help.change.org/). You can also write to the appropriate contact listed in our [Privacy Policy \[1. Key contacts\]](https://www.change.org/policies/privacy?cs_tk=AsB1oNg2U7GTA4xbpWYAAXicyyvNyQEABF8BvMyc-vPCj_Mo-Dl3DXy1EX4%3D&utm_campaign=9584ae466e4f47cba6fc8bb8b7d683ac&utm_content=initial_v0_3_2&utm_medium=email&utm_source=auto_aa_tag&utm_term=cs#1).
 
 Thanks for supporting change in your community — we can’t wait to see what you’ll change next!
 
