@@ -15,7 +15,7 @@ By providing your contact information you agree to receive communications from S
 
 ‍
 
-[THE HOLIDAY SALE IS HERE! New clients save $1,000 when you go all-in with Subsplash.](https://www.subsplash.com/pricing)
+[$1,000 OFF any Subsplash Onboarding Package when you go exclusive!](https://www.subsplash.com/pricing)
 
 ![Icon Rounded Closed - BRIX Templates](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/64b03b4dbd2eaff408ad7111_icon-rounded-close-icon.svg)
 
@@ -148,7 +148,11 @@ By providing your contact information you agree to receive communications from S
     
     Ministries & nonprofits
     
-    Mission-based organizations](https://www.subsplash.com/use-cases/ministries-nonprofits)
+    Mission-based organizations](https://www.subsplash.com/use-cases/ministries-nonprofits)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/667dd577891a2f59350a1c6c_icons-rest-api.svg)
+    
+    Enterprise solutions
+    
+    Powerful integrations, API access, and more](https://www.subsplash.com/use-cases/enterprise)
     
     ALL IN ONE
     
@@ -190,7 +194,7 @@ By providing your contact information you agree to receive communications from S
     
     Free media
     
-    Customizable media kits and curated image library](https://www.subsplash.com/resources/church-media-library)[
+    Customizable media kits and curated image library](https://www.subsplash.com/free-media-page)[
     
     Ebooks & more
     
@@ -210,11 +214,11 @@ By providing your contact information you agree to receive communications from S
     
     [Client support
     
-    Technical questions and admin support](https://support.subsplash.com/s/login/)
+    Technical questions and admin support](https://support.subsplash.com/)
     
     [Donor & app user support
     
-    Donor account access and other issues](https://support.subsplash.com/s/)
+    Donor account access and other issues](https://support.subsplash.com/en/collections/8595329-end-user-donor-resources)
     
     TALK TO SALES
     
@@ -240,7 +244,7 @@ español / SPANISH
 
 français / FRENCH
 
-Last updated March 25, 2024 – Version 4.7
+Last updated June 17, 2024 – Version 4.8
 
 This privacy policy describes the collection, use, protection, disclosure, correction, and deletion of your personal information by Subsplash.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.  Your privacy is a priority at Subsplash, and we go to great lengths to protect it.
 
@@ -312,7 +316,9 @@ When you send a text message to Subsplash or Subsplash Wallet for purposes of ut
 
 ### SUBSPLASH LIVE
 
-Subsplash Live uses YouTube API Services, governed by the Google Privacy Policy ([http://www.google.com/policies/privacy](http://www.google.com/policies/privacy)), to access your organization’s YouTube channel name and ID, and to create live streams and live broadcasts on your organization’s behalf. We do this to display the linked channel in your Subsplash Dashboard and to create syndicated live broadcasts in that channel. In addition to Subsplash’s normal procedure for deleting stored data, your organization may revoke Subsplash Live’s access to your YouTube data via the Google security settings page ([https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions)). Please contact Subsplash with any questions or complaints about Subsplash Live’s privacy practices.
+Subsplash Live utilizes Google (YouTube) API Services, in accordance with the guidelines specified in the [Google Privacy Policy](http://www.google.com/policies/privacy) and the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes). Our apps use and transfer of information received from Google APIs to any other app will adhere to the Google API Services User Data Policy, including the Limited Use Requirements.
+
+This access is crucial for obtaining your organization's YouTube channel name and ID, as well as for initiating live streams and broadcasts on behalf of your organization. The objective is to display the connected channel in your Subsplash Dashboard and to create syndicated live broadcasts within that channel. If you decide to revoke Subsplash Live's access to your YouTube data, you can manage this through the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions). For any questions or concerns regarding Subsplash Live's privacy practices, please contact Subsplash.
 
 ### COOKIES AND OTHER TECHNOLOGIES
 
@@ -419,19 +425,19 @@ Where we process your data in our capacity as a Data Processor, the processing o
 
 Subsplash’s “privacy by design” approach requires that our default user data protection levels be at the highest setting by default. In the unlikely event of breach, Subsplash will notify data subjects and Supervisory Authorities (SAs) in the EU according to procedures provided in GDPR Articles 33 and 34.  
 
-### EU-US DATA PRIVACY FRAMEWORK
+### EU-US, UK EXTENSION TO THE EU-US, SWISS-US DATA PRIVACY FRAMEWORK
 
-The following provisions govern information collected in reliance on the EU-U.S. Data Privacy Framework Principles for transfers of personal data from the EU to the United States.  Subsplash adheres to the Data Privacy Framework Principles (“Principles”) and is committed to subject to the Principles all personal data received from the EU in reliance on the Data Privacy Framework.  Individuals from whom Subsplash collects personal information under the Data Privacy Framework have the right to access their personal data by contacting Subsplash [here](https://www.subsplash.com/legal/data-request) or at privacy@subsplash.com. As a result of certification to the Data Privacy Framework, Subsplash is subject to the investigatory and enforcement powers of the Federal Trade Commission or any other U.S. authorized statutory body.
+Subsplash, Inc. and its subsidiaries comply with the EU-US Data Privacy Framework (EU-US DPF) and the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (Swiss-US DPF) set forth by the US Department of Commerce. Subsplash as certified to the US Department of Commerce that it adheres to the EU-US Data Privacy Framework Principles (EU-US DPF Principles) with regard to the process of personal information received from the European Union and the United Kingdom in reliance on the EU-US DPF and the UK Extension to the EU-US DPF. Subsplash has certified to the US Department of Commerce that it adheres to the Swiss-US Data Privacy Framework Principles (Swiss-US DPF Principles) with regard to the processing of personal information received from Switzerland in reliance on the Swiss-US DPF. If there is any conflict between the terms in the privacy policy and the EU-US DPF Principles and/or the Swiss-US DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). Individuals from whom Subsplash collects personal information under the Data Privacy Framework have the right to access their personal data by contacting Subsplash [here](https://www.subsplash.com/legal/data-request) or at privacy@subsplash.com.
 
-You may access the Data Privacy Framework Participant List [here.](https://www.dataprivacyframework.gov/s/participant-search)
+Subsplash’s compliance with the DPF Principles is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
 
 **Notice and Choice**
 
 When Subsplash collects personal information from individuals, it may share this information with its client organizations or third parties as described above in the Privacy Policy. Individuals should review the privacy policy of the client organization. Individuals will have the choice of signing up for Subsplash services or not.  A link to the Subsplash privacy policy will be provided when individuals are first asked to provide personal information when opting in to Subsplash services.
 
-In instances in which Subsplash is not the controller or collector of the personal information, but only a processor, it has no means of providing individuals with the choice and means for limiting the use and disclosure of their personal information or providing notices when individuals are first asked to provide personal information to Subsplash.  In such instances, Subsplash will comply with the instructions of the controller of such information; provide appropriate technical and organizational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, and to the extent appropriate, assist the controller in responding to individuals exercising their rights under the Principles.
+In instances in which Subsplash is not the controller or collector of the personal information, but only a processor, it has no means of providing individuals with the choice and means for limiting the use and disclosure of their personal information or providing notices when individuals are first asked to provide personal information to Subsplash. In such instances, Subsplash will comply with the instructions of the controller of such information; provide appropriate technical and organizational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, and to the extent appropriate, assist the controller in responding to individuals exercising their rights under the Principles.
 
-In the context of an onward transfer Subsplash has responsibility for the processing of personal information it receives under the Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Subsplash shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
+In the context of an onward transfer Subsplash has responsibility for the processing of personal information it receives under the EU-US and the UK Extension to the EU-US, and Swiss-US Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Subsplash shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
 **Disclosures to Third Parties**
 
@@ -457,11 +463,11 @@ If you filed a complaint with Subsplash and it has not been properly addressed, 
 
 B)  Binding Arbitration
 
-If your claims as to data covered by the EU-U.S. Data Privacy Framework have not been remedied through dispute resolution directly with Subsplash or through independent dispute resolution as described above, such “residual claims” may be heard by a “Data Privacy Framework Panel” composed of one or three arbitrators as agreed upon by the parties. The Panel may only award individual-specific, non-monetary equitable relief (e.g. access, correction, deletion of the individual’s data in question) necessary to remedy the violation of the Principles only with respect to the individual. Damages, costs, fees and other remedies may not be awarded, and each party bears its own attorney’s fees.  This arbitration option is only available for an individual to determine for such “residual claims” whether Subsplash has violated its obligations under the Principles as to that individual and whether any such violation remains fully or partially unremedied.
+If your claims as to data covered by the EU-US and the UK Extension to the EU-US, and Swiss-US Data Privacy Framework have not been remedied through dispute resolution directly with Subsplash or through independent dispute resolution as described above, such “residual claims” may be heard by a “Data Privacy Framework Panel” composed of one or three arbitrators as agreed upon by the parties.  The Panel may only award individual-specific, non-monetary equitable relief (e.g. access, correction, deletion of the individual’s data in question) necessary to remedy the violation of the Principles only with respect to the individual.  Damages, costs, fees and other remedies may not be awarded, and each party bears its own attorney’s fees.  This arbitration option is only available for an individual to determine for such “residual claims” whether Subsplash has violated its obligations under the Principles as to that individual and whether any such violation remains fully or partially unremedied.
 
 C)  GDPR (General Data Protection Regulation)
 
-The GDPR replaces Directive 95/46/EC and becomes enforceable on May 25, 2018. The following statement is intended to supplement the preceding discussion of the EU-U.S. Data Privacy Framework. As to personal data collected and controlled by Subsplash, subject to the qualifications and limitations stated in the preceding discussion, EU data subjects retain their full rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions. As to personal data collected by third parties, and as to which Subsplash is a mere processor, EU data subjects should contact the controller (e.g., church or ministry) with regard to their rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions.  Such rights may be subject to certain qualifications and limitations as stated in the discussion of EU-US Data Privacy Framework.
+The GDPR replaces Directive 95/46/EC and becomes enforceable on May 25, 2018. The following statement is intended to supplement the preceding discussion of the EU-U.S. Data Privacy Framework. As to personal data collected and controlled by Subsplash, subject to the qualifications and limitations stated in the preceding discussion, EU data subjects retain their full rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions. As to personal data collected by third parties, and as to which Subsplash is a mere processor, EU data subjects should contact the controller (e.g., church or ministry) with regard to their rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions.  Such rights may be subject to certain qualifications and limitations as stated in the discussion of EU-US and the UK Extension to the EU-US, and Swiss-US Data Privacy Framework.
 
 Our Data Protection Officers will assist EU residents with these requests free of charge and may be contacted at privacy@subsplash.com.
 
