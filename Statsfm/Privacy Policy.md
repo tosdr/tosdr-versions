@@ -236,6 +236,7 @@ Nevada law allows Nevada residents to opt out of the sale of certain types of pe
 
 * [Support](https://support.stats.fm/)
 * [Beta program](https://stats.fm/beta)
+* [Creator program](https://stats.fm/creator-program)
 * [stats.fm Plus](https://stats.fm/plus)
 
 #### Company
