@@ -4,7 +4,7 @@ Mobile
 
 Internet
 
-[TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🔥 SUMMER BLACK FRIDAY](https://www.yallo.ch/fr/summer-blackfriday)
+[TV](https://www.yallo.ch/fr/tv) [Aide](https://support.yallo.ch/hc/fr) [🔥 Hot Deals](https://www.yallo.ch/fr/deals)
 
 [0800 00 48 48](tel:0800004848)
 
