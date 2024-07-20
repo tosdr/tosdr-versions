@@ -77,7 +77,7 @@ Menu
 Privacy Policy
 ==============
 
-### Updated February 2023
+### Updated June 2024
 
 ### Introduction
 
@@ -126,6 +126,8 @@ We may collect some or all of the following personal data (this may vary accordi
 * Email Address
 * Year Level
 * School Group
+* IP address
+* EAL
 * When placing an order online our payment gateway provider (Stripe, PayPal or ApplePay) will have your payment information transferred to them through a secure encrypted connection, this data is not stored on our servers, once transferred the data is subject to their own Privacy Policies.
 
 ### 6\. How Do You Use My Personal Data?
