@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[![](https://assets.sanebox.com/assets/logo-sanebox-2022-c35e76ce0c0fc9f37d39aa426d6c2ca17a175e7ce8bc502a4306647643ebe97c.png)](https://www.sanebox.com/home)
+[![](https://assets.sanebox.com/assets/logo-sanebox-2022-523d5281e8703bd0596767a6a638dc2cf95cf23b556b637673d39c556b70cf95.png)](https://www.sanebox.com/home)
 
 * [Tour](https://www.sanebox.com/learn)
 * [Help](https://www.sanebox.com/help)
@@ -20,10 +20,10 @@ You can [create a help request](https://www.sanebox.com/help/request/new) or [C
 * * *
 
 **Share an idea or feedback**  
-Send feature requests and comments to [\[email protected\]](https://www.sanebox.com/cdn-cgi/l/email-protection).
+Send feature requests and comments to [feedback@sanebox.com](mailto:feedback@sanebox.com).
 
 **Report a bug**  
-Submit bug reports to [\[email protected\]](https://www.sanebox.com/cdn-cgi/l/email-protection).
+Submit bug reports to [support@sanebox.com](mailto:support@sanebox.com).
 
 Close
 
@@ -61,7 +61,7 @@ A+ Grade from Qualys SSL Labs! [View Report](https://www.ssllabs.com/ssltest/ana
 **Think you found a security bug?**  
 [Request an invite](https://www.sanebox.com/help/request/new) to our bug bounty program on [HackerOne](https://www.hackerone.com/ "Visit HackerOne ")
 
-![](https://assets.sanebox.com/assets/security/database-lock-sm-920d4adf81a095d446c6ba69c4ee0ffd18bc69df047bc7c83f534a48ba2b6525.png)Data policy
+![](https://assets.sanebox.com/assets/security/database-lock-sm-6c1c1561ce7efd3c84c98d2db8392978ff5e61c3f871bc6acc5a98c13e946141.png)Data policy
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 SaneBox's use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes "View Google API Services User Data Policy") , including the Limited Use requirements.
@@ -80,12 +80,12 @@ SaneBox algorithms analyze the patterns in your email behavior (which emails you
 **Active Directory integration**  
 SaneBox can use Active Directory managed delegation to authorize access to Microsoft Exchange. In this case login credentials never leave your server.
 
-![](https://assets.sanebox.com/assets/security/network-shield-sm-a3a5d1f804a7e62294fca312e8e570400079cc75af255a0f67cc548f93fd4f7b.png)Network security
+![](https://assets.sanebox.com/assets/security/network-shield-sm-82dc422660f4a505b1eb6a44f7a61f8fc9e2c0f6f846589f604e247c0fd581d4.png)Network security
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Our mail processing servers never accept connections from the public Internet. All network access is provided through encrypted VPN tunnels via a bastion server. From there, our servers are accessed by our authenticated engineers via SSH, and all access is logged and audited. **There are no exceptions.**
 
-![](https://assets.sanebox.com/assets/security/server-shield-sm-bd2d7f047e454c5493fc471ea7476c45f47785d4a01cd362a880ee7dd8497455.png)Physical security
+![](https://assets.sanebox.com/assets/security/server-shield-sm-fe60f14c11409fee4c6c6a51c7e62ba73ff79d372443eac517b6bb89bab8bc85.png)Physical security
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SaneBox uses an accredited services provider which means we take security, data integrity and business continuity very seriously.  
@@ -104,7 +104,7 @@ We insist on the operators providing the same physical access restrictions and c
 * Racks are locked at all times and require a staff member to unlock them.
 * Cabling is secured within overhead cable trays
 
-![](https://assets.sanebox.com/assets/security/member-shield-sm-0fb4911ec1d587378e8ef165e914f9e95e9648d4093e75de91c8b90f39fb58b9.png)Personnel security
+![](https://assets.sanebox.com/assets/security/member-shield-sm-a6ad75300096a620852c1c4c0e8eb3feed16aa3ab6d0e41ec98a5aa48e731eba.png)Personnel security
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Each of our personnel is hand picked, fully vetted with internal methods. Only select senior engineering personnel are allowed to access our production servers, and access logs are kept at all times.
@@ -114,7 +114,7 @@ Each of our personnel is hand picked, fully vetted with internal methods. Only s
 Most services authorize SaneBox **without a password.**  
 Google Office365 Yahoo! AOL  
 Some create a unique passkey just for SaneBox.  
-![](https://assets.sanebox.com/assets/logo-icloud-simple-95dc82169e3dc46acd1a69cb8260397dd5e96c7a37e49557580b2eea12a74acc.png "iCloud") ![](https://assets.sanebox.com/assets/logo-fastmail-simple-d8168cee14feb3e3737a28350bdb2d1306f939fa07bcff6ccb16aba2ad7f7383.png "Fastmail")
+![](https://assets.sanebox.com/assets/logo-icloud-simple-0bf997e07a9edb9142b2f3a1f550f86c94de044d617c29b992e156a5470742fc.png "iCloud") ![](https://assets.sanebox.com/assets/logo-fastmail-simple-c381bcdf3c9bbea6e62287a16390d87529c2bddf166447ef2bf76139754a9f84.png "Fastmail")
 
 We care deeply about your **privacy and security.**
 
