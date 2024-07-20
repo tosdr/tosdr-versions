@@ -35,7 +35,8 @@
     * [Partnerships](https://childrensguild.org/about/partnerships/)
     * [History](https://childrensguild.org/about/history/)
     * [Sadie Awards](https://childrensguild.org/about/sadie-awards/)
-    * [Annual Reports & Publications](https://childrensguild.org/about/annual-reports-publications/)
+    * [Annual Reports](https://tcgannualreports.org/)
+    * [Publications](https://childrensguild.org/about/annual-reports-publications/)
     * [Contact](https://childrensguild.org/about/contact/)
 * [Schools](https://childrensguild.org/schools/)
     * [Monarch Academy Annapolis](http://monarchacademy.org/annapolis/)
@@ -237,6 +238,6 @@ The Children’s Guild and its affiliates maintain policies to promote equal opp
 [Requests for Proposals](https://childrensguild.org/rfp/)
 
   
-![Guidestar Platinum Transparency 2024 logo](https://childrensguild.org/wp-content/uploads/2024/02/candid-seal-platinum-2024.png)![CARF Seal](https://childrensguild.org/wp-content/uploads/2022/04/CARF-Seal.png) ![NCASES Badge 2024](https://childrensguild.org/wp-content/uploads/2024/05/web-footer-nacases.png)
+![Guidestar Platinum Transparency 2024 logo](https://childrensguild.org/wp-content/uploads/2024/02/candid-seal-platinum-2024.png)![CARF Seal](https://childrensguild.org/wp-content/uploads/2022/04/CARF-Seal.png) ![NCASES Badge 2024](https://childrensguild.org/wp-content/uploads/2024/05/web-footer-nacases.png) ![Chariy Navigator 4Star Rating](https://childrensguild.org/wp-content/uploads/2024/06/Four-Star-Rating-Badge.svg)
 
 © 2024 The Children’s Guild. All Rights Reserved
