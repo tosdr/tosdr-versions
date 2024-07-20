@@ -29,18 +29,18 @@ Menu
     
     What’s New
     
-    * [Version 100 is available to download 07 May](https://www.sketch.com/updates/#version-100-is-available-to-download)
-    * [Scroll areas in prototypes 07 May](https://www.sketch.com/updates/#scroll-areas-in-prototypes)
-    * [Hover, press and toggle triggers 07 May](https://www.sketch.com/updates/#hover-press-and-toggle-triggers)
-    * [View prototypes at Full Width 07 May](https://www.sketch.com/updates/#view-prototypes-at-full-width)
-    * [New sharing options for prototypes 07 May](https://www.sketch.com/updates/#new-sharing-options-for-prototypes)
+    * [Version 100 is available to download](https://www.sketch.com/updates/#version-100-is-available-to-download)
+    * [Scroll areas in prototypes](https://www.sketch.com/updates/#scroll-areas-in-prototypes)
+    * [Hover, press and toggle triggers](https://www.sketch.com/updates/#hover-press-and-toggle-triggers)
+    * [View prototypes at Full Width](https://www.sketch.com/updates/#view-prototypes-at-full-width)
+    * [New sharing options for prototypes](https://www.sketch.com/updates/#new-sharing-options-for-prototypes)
     
     [See all updates](https://www.sketch.com/updates/)
     
 * Learn
     
     * [Blog](https://www.sketch.com/blog/)
-    * [Guides & Courses](https://www.sketch.com/guides-and-courses/)
+    * [Guides & Courses](https://www.sketch.com/guides/)
     * [Documentation](https://www.sketch.com/docs/)
     * [Free for Education](https://www.sketch.com/education/)
     
@@ -87,7 +87,7 @@ icon-close
     * [All Features](https://www.sketch.com/features/)
 * * Learn
     * [Blog](https://www.sketch.com/blog/)
-    * [Guides & Courses](https://www.sketch.com/guides-and-courses/)
+    * [Guides & Courses](https://www.sketch.com/guides/)
     * [Sketch 101](https://www.sketch.com/courses/sketch-101/)
     * [Sketch 102](https://www.sketch.com/courses/sketch-102/)
     * [Documentation](https://www.sketch.com/docs/)
@@ -119,10 +119,10 @@ Contents
 * [List of Subprocessors](https://www.sketch.com/subprocessors/)
 * [Privacy Statement](https://www.sketch.com/privacy/)
 
-* [Policies](https://www.sketch.com/social/)
+* [Policies](https://www.sketch.com/cookie-policy/)
 
-* [Social Media House Rules](https://www.sketch.com/social/)
 * [Cookie Policy](https://www.sketch.com/cookie-policy/)
+* [Social Media House Rules](https://www.sketch.com/social/)
 
 * [Security](https://www.sketch.com/security-measures/)
 
@@ -145,10 +145,10 @@ Cancel
 * [List of Subprocessors](https://www.sketch.com/subprocessors/)
 * [Privacy Statement](https://www.sketch.com/privacy/)
 
-* [Policies](https://www.sketch.com/social/)
+* [Policies](https://www.sketch.com/cookie-policy/)
 
-* [Social Media House Rules](https://www.sketch.com/social/)
 * [Cookie Policy](https://www.sketch.com/cookie-policy/)
+* [Social Media House Rules](https://www.sketch.com/social/)
 
 * [Security](https://www.sketch.com/security-measures/)
 
@@ -346,6 +346,7 @@ Email  Sign up
 * [Pricing](https://www.sketch.com/pricing/)
 * [Beta](https://www.sketch.com/beta/)
 * [All Features](https://www.sketch.com/features/)
+* [Roadmap](https://www.sketch.com/roadmap/)
 
 ### Why Sketch
 
@@ -353,6 +354,7 @@ Email  Sign up
 * [Figma to Sketch](https://www.sketch.com/vs/figma/)
 * [Adobe XD to Sketch](https://www.sketch.com/vs/xd/)
 * [Switch from InVision](https://www.sketch.com/switch-from-invision/)
+* [Meet Our Customers](https://www.sketch.com/customers/)
 * [Free for Education](https://www.sketch.com/education/)
 
 ### Learn
@@ -390,3 +392,5 @@ Email  Sign up
 * [](https://www.instagram.com/madewithsketch/)
 * [](https://www.youtube.com/c/SketchDesign/)
 * [](https://mastodon.design/@Sketch)
+
+![](https://queue.simpleanalyticscdn.com/noscript.gif?hostname=sketch.com)
