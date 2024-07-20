@@ -1,4 +1,4 @@
-[![](/images/header-tg.svg)](https://teleguard.com/ "TeleGuard")[![](/images/header-vpn-n.svg)](https://swisscows.com/en/anonymous-vpn "VPN")[![](/images/envelope.svg)](https://swisscows.com/en/swisscows-email "Email")
+[![](/images/header-tg.svg)](https://teleguard.com/ "TeleGuard")[![](/images/header-vpn-n.svg)](https://accounts.swisscows.com/products/vpn?locale=en "VPN")[![](/images/envelope.svg)](https://accounts.swisscows.com/products/email?locale=en "Email")
 
 ![](/images/heart.svg)
 
@@ -106,8 +106,8 @@ Like other search engines, we place search ads next to the search results.When u
 * [Contact us](https://swisscows.com/en/contact)
 
 * Our products
-* [VPN](https://swisscows.com/en/anonymous-vpn)
-* [Swisscows.email](https://swisscows.com/en/swisscows-email)
+* [VPN](https://accounts.swisscows.com/products/vpn?locale=en)
+* [Swisscows.email](https://accounts.swisscows.com/products/email?locale=en)
 * [TeleGuard](https://teleguard.com/)
 * [HES](https://hesbox.com/)
 * [GetDigest](https://getdigest.com/)
