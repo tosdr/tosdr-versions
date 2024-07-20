@@ -1,10 +1,10 @@
 [Skip to main content](#main-content)
 
-* Sign In
+* Sign in
     
     * [Sophos Central](https://central.sophos.com/manage/login)
-    * [Partner Portal](https://partners.sophos.com/)
-    * [Licenses & Accounts](https://community.sophos.com/sophos-xg-firewall/b/blog/posts/important-sophos-firewall-licensing-portal-changes)
+    * [Partner portal](https://partners.sophos.com/)
+    * [Licenses & accounts](https://community.sophos.com/sophos-xg-firewall/b/blog/posts/important-sophos-firewall-licensing-portal-changes)
     * [Sophos Home](https://my.sophos.com/en-us/login/)
     
 
@@ -23,221 +23,221 @@
     * [Protect my remote or hybrid employees](https://www.sophos.com/en-us/solutions/use-cases/remote-working)
     * [Address cyber insurance requirements](https://www.sophos.com/en-us/solutions/use-cases/cyber-insurance)
     * [Protect my Microsoft environment](https://www.sophos.com/en-us/products/managed-detection-and-response/microsoft-defender)
-    * [Find a Managed Service Provider](https://partners.sophos.com/english/directory/)
+    * [Find managed service providers](https://partners.sophos.com/english/directory/)
     * [Comply with the latest regulations](https://www.sophos.com/en-us/solutions#compliance)
 * Industries
     * [Education](https://www.sophos.com/en-us/solutions/industries/education)
-    * [Finance and Banking](https://www.sophos.com/en-us/solutions/industries/finance-and-banking)
+    * [Finance and banking](https://www.sophos.com/en-us/solutions/industries/finance-and-banking)
     * [Government](https://www.sophos.com/en-us/solutions/industries/government)
     * [Healthcare](https://www.sophos.com/en-us/solutions/industries/healthcare)
     * [Manufacturing](https://www.sophos.com/en-us/solutions/industries/manufacturing)
     * [Retail](https://www.sophos.com/en-us/solutions/industries/retail)
-    * [All Solutions](https://www.sophos.com/en-us/solutions)
+    * [All solutions](https://www.sophos.com/en-us/solutions)
 
 * Products
-    * Endpoint Security
-        * [Endpoint Protection - Next-Gen Antivirus](https://www.sophos.com/en-us/products/endpoint-antivirus)
-        * [Endpoint Detection and Response (EDR)](https://www.sophos.com/en-us/products/endpoint-antivirus/edr)
-        * [Extended Detection and Response (XDR)](https://www.sophos.com/en-us/products/extended-detection-and-response)
-        * [Server Protection](https://www.sophos.com/en-us/products/server-security)
-        * [Mobile Security](https://www.sophos.com/en-us/products/mobile-control)
-    * Network Security
-        * [Sophos Central](https://www.sophos.com/en-us/products/sophos-central)
-        * [Next-Gen Firewall](https://www.sophos.com/en-us/products/next-gen-firewall)
-        * [Zero Trust Network Access (ZTNA)](https://www.sophos.com/en-us/products/zero-trust-network-access)
-        * [Network Detection and Response (NDR)](https://www.sophos.com/en-us/products/network-detection-and-response)
-    * Email Security
-        * [Email and Phishing Protection](https://www.sophos.com/en-us/products/sophos-email)
-        * [Security Awareness and Training](https://www.sophos.com/en-us/products/phish-threat)
-    * Network Infrastructure
-        * [Next-Gen Firewall Appliance](https://www.sophos.com/en-us/products/next-gen-firewall)
+    * Endpoint security
+        * [Endpoint protection - next-gen antivirus](https://www.sophos.com/en-us/products/endpoint-antivirus)
+        * [Endpoint detection and response (EDR)](https://www.sophos.com/en-us/products/endpoint-antivirus/edr)
+        * [Extended detection and response (XDR)](https://www.sophos.com/en-us/products/extended-detection-and-response)
+        * [Server protection](https://www.sophos.com/en-us/products/server-security)
+        * [Mobile security](https://www.sophos.com/en-us/products/mobile-control)
+    * Network security
+        * [Next-gen firewall](https://www.sophos.com/en-us/products/next-gen-firewall)
+        * [Zero trust network access (ZTNA)](https://www.sophos.com/en-us/products/zero-trust-network-access)
+        * [Network detection and response (NDR)](https://www.sophos.com/en-us/products/network-detection-and-response)
+    * Email security
+        * [Email and phishing protection](https://www.sophos.com/en-us/products/sophos-email)
+        * [Security awareness and training](https://www.sophos.com/en-us/products/phish-threat)
+    * Network infrastructure
+        * [Next-gen firewall appliance](https://www.sophos.com/en-us/products/next-gen-firewall)
         * [SD-WAN](https://www.sophos.com/en-us/products/next-gen-firewall/sd-wan)
-        * [Network Switches](https://www.sophos.com/en-us/products/sophos-switch)
-        * [Wireless Access Points](https://www.sophos.com/en-us/products/secure-wifi)
-    * Cloud Security
-        * [Cloud Workload Protection](https://www.sophos.com/en-us/products/cloud-native-security/cloud-workload-protection)
-        * [Cloud Security Posture Management (CSPM)](https://www.sophos.com/en-us/products/cloud-optix)
+        * [Network switches](https://www.sophos.com/en-us/products/sophos-switch)
+        * [Wireless access points](https://www.sophos.com/en-us/products/secure-wifi)
+    * Cloud security
+        * [Cloud workload protection](https://www.sophos.com/en-us/products/cloud-native-security/cloud-workload-protection)
+        * [Cloud security posture management (CSPM)](https://www.sophos.com/en-us/products/cloud-optix)
     * Sophos Home Premium
-        * [Mac Antivirus Download](https://home.sophos.com/en-us/download-mac-security)
-        * [PC Antivirus Download](https://home.sophos.com/en-us/download-pc-security)
+        * [Mac antivirus download](https://home.sophos.com/en-us/download-mac-security)
+        * [PC antivirus download](https://home.sophos.com/en-us/download-pc-security)
 * Services
-    * Managed Security Services - SecOps
-        * [Managed Detection and Response (MDR)](https://www.sophos.com/en-us/products/managed-detection-and-response)
-        * [Incident Response Services](https://www.sophos.com/en-us/products/managed-detection-and-response/incident-response-services)
-        * [Vulnerability Management (Managed Risk)](https://www.sophos.com/en-us/products/managed-risk)
-        * [Operational Support Services](https://www.sophos.com/en-us/support/professional-services)
-    * Sophos Central
-        * [Free Trial](https://www.sophos.com/en-us/products/sophos-central/free-trial)
-        * [Sign In](https://central.sophos.com/manage/login)
+    * Managed security services
+        * [Managed detection and response (MDR)](https://www.sophos.com/en-us/products/managed-detection-and-response)
+        * [Incident response services](https://www.sophos.com/en-us/products/managed-detection-and-response/incident-response-services)
+        * [Vulnerability management (Managed Risk)](https://www.sophos.com/en-us/products/managed-risk)
+        * [Operational support services](https://www.sophos.com/en-us/support/professional-services)
+    * Management platform
+        * [Sophos Central](https://www.sophos.com/en-us/products/sophos-central)
+        * [Free trial](https://www.sophos.com/en-us/products/sophos-central/free-trial)
+        * [Sign in](https://central.sophos.com/manage/login)
 
 * Sophos Partners
-    * [Find a Partner](https://partners.sophos.com/english/directory)
-    * [Partner Blog](https://partnernews.sophos.com/en-us/)
-    * [Managed Service Providers](https://www.sophos.com/en-us/partners/managed-service-providers)
+    * [Find a partner](https://partners.sophos.com/english/directory)
+    * [Partner blogs](https://partnernews.sophos.com/en-us/)
+    * [Managed service providers](https://www.sophos.com/en-us/partners/managed-service-providers)
     * [Integrations](https://www.sophos.com/en-us/marketplace)
     * [OEM](https://www.sophos.com/en-us/oem)
-* Current Partners
-    * [Partner Program](https://www.sophos.com/en-us/partners)
-    * [Partner Portal Login](https://www.sophos.com/en-us/partners/partner-portal)
-    * [Sophos Central Login](https://central.sophos.com/manage/login)
-    * [Partner Care](https://www.sophos.com/en-us/partners/partner-care)
-    * [Training and Certification](https://partners.sophos.com/prm/English/c/sophos-learning-zone)
-* Become a Partner
-    * [Join Our Program](https://partners.sophos.com/register.aspx?lang=en-us)
+* Current partners
+    * [Partner program](https://www.sophos.com/en-us/partners)
+    * [Partner portal login](https://www.sophos.com/en-us/partners/partner-portal)
+    * [Sophos Central login](https://central.sophos.com/manage/login)
+    * [Partner care](https://www.sophos.com/en-us/partners/partner-care)
+    * [Training and certification](https://partners.sophos.com/prm/English/c/sophos-learning-zone)
+* Become a partner
+    * [Join our program](https://partners.sophos.com/register.aspx?lang=en-us)
 
 * Why Sophos
-    * [Awards and Recognition](https://www.sophos.com/en-us/content/why-sophos)
-    * [Case Studies](https://www.sophos.com/en-us/company/case-studies)
-    * [Competitor Comparisons](https://www.sophos.com/en-us/content/sophos-vs-competition)
-* Threat Intelligence
-    * [X-Ops Threat Research](https://www.sophos.com/en-us/x-ops)
+    * [Awards and recognition](https://www.sophos.com/en-us/content/why-sophos)
+    * [Case studies](https://www.sophos.com/en-us/company/case-studies)
+    * [Competitor comparisons](https://www.sophos.com/en-us/content/sophos-vs-competition)
+* Threat intelligence
+    * [X-Ops threat research](https://www.sophos.com/en-us/x-ops)
     * [SophosLabs Intelix](https://www.sophos.com/en-us/intelix)
-    * [Security Blogs](https://news.sophos.com/en-us/)
     * [Sophos AI](https://news.sophos.com/en-us/category/ai-research/)
-* About Us
+    * [Security blogs](https://news.sophos.com/en-us/)
+* About us
     * [Company](https://www.sophos.com/en-us/company)
-    * [Press](https://www.sophos.com/en-us/press)
     * [Events](https://events.sophos.com/)
+    * [Press](https://www.sophos.com/en-us/press)
     * [Careers](https://www.sophos.com/en-us/careers)
 * Resources
-    * [Cybersecurity Explained](https://www.sophos.com/en-us/cybersecurity-explained)
+    * [Cybersecurity explained](https://www.sophos.com/en-us/cybersecurity-explained)
 
-* Get Help
-    * [Support Portal](https://support.sophos.com/support)
-    * [Support Packages](https://www.sophos.com/en-us/support/technical-support)
-    * [Partner Care Support](https://www.sophos.com/en-us/partners/partner-care)
-    * [Tech Support](https://docs.sophos.com/support/help/en-us/contact/index.html)
+* Get help
+    * [Support portal](https://support.sophos.com/support)
+    * [Support packages](https://docs.sophos.com/support/help/en-us/services-guide/index.html)
+    * [Sophos Partner Care](https://www.sophos.com/en-us/partners/partner-care)
+    * [Contact Sophos support](https://docs.sophos.com/support/help/en-us/contact/index.html)
 * Resources
-    * [Downloads and Updates](https://www.sophos.com/en-us/support/downloads)
-    * [Documentation](https://support.sophos.com/support/s/#t=DocumentationTab)
-    * [Technical Training](https://www.sophos.com/en-us/company/training)
-    * [Techvids - Training Videos](https://techvids.sophos.com/)
-    * [Sophos Status Page](https://status.sophos.com/)
-    * [Submit a Threat](https://support.sophos.com/support/s/filesubmission?language=en_US)
+    * [Downloads and updates](https://www.sophos.com/en-us/support/downloads)
+    * [Product documentation](https://support.sophos.com/support/s/#t=DocumentationTab)
+    * [Technical training](https://www.sophos.com/en-us/company/training)
+    * [Sophos Techvids - support videos](https://techvids.sophos.com/)
+    * [Sophos status page](https://status.sophos.com/)
+    * [Submit a threat](https://support.sophos.com/support/s/filesubmission?language=en_US)
 * Product Support
-    * [Sophos Community Forums](https://community.sophos.com/)
+    * [Sophos community forums](https://community.sophos.com/)
     * [Sophos Firewall](https://community.sophos.com/sophos-xg-firewall/)
     * [Sophos Endpoint](https://community.sophos.com/intercept-x-endpoint/)
-    * [Sophos Cloud](https://community.sophos.com/sophos-cloud-optix/)
+    * [Sophos XDR](https://community.sophos.com/sophos-xdr/)
     * [Sophos Central](https://community.sophos.com/sophos-central/)
-    * [Sophos Email](https://community.sophos.com/email-appliance/)
+    * [Sophos Email](https://community.sophos.com/sophos-email/)
 
 Toggle Language menu
 
 * Products and Services
     * Products
-        * Endpoint Security
-            * [Endpoint Protection - Next-Gen Antivirus](https://www.sophos.com/en-us/products/endpoint-antivirus)
-            * [Endpoint Detection and Response (EDR)](https://www.sophos.com/en-us/products/endpoint-antivirus/edr)
-            * [Extended Detection and Response (XDR)](https://www.sophos.com/en-us/products/extended-detection-and-response)
-            * [Server Protection](https://www.sophos.com/en-us/products/server-security)
-            * [Mobile Security](https://www.sophos.com/en-us/products/mobile-control)
-        * Network Security
-            * [Sophos Central](https://www.sophos.com/en-us/products/sophos-central)
-            * [Next-Gen Firewall](https://www.sophos.com/en-us/products/next-gen-firewall)
-            * [Zero Trust Network Access (ZTNA)](https://www.sophos.com/en-us/products/zero-trust-network-access)
-            * [Network Detection and Response (NDR)](https://www.sophos.com/en-us/products/network-detection-and-response)
-        * Email Security
-            * [Email and Phishing Protection](https://www.sophos.com/en-us/products/sophos-email)
-            * [Security Awareness and Training](https://www.sophos.com/en-us/products/phish-threat)
-        * Network Infrastructure
-            * [Next-Gen Firewall Appliance](https://www.sophos.com/en-us/products/next-gen-firewall)
+        * Endpoint security
+            * [Endpoint protection - next-gen antivirus](https://www.sophos.com/en-us/products/endpoint-antivirus)
+            * [Endpoint detection and response (EDR)](https://www.sophos.com/en-us/products/endpoint-antivirus/edr)
+            * [Extended detection and response (XDR)](https://www.sophos.com/en-us/products/extended-detection-and-response)
+            * [Server protection](https://www.sophos.com/en-us/products/server-security)
+            * [Mobile security](https://www.sophos.com/en-us/products/mobile-control)
+        * Network security
+            * [Next-gen firewall](https://www.sophos.com/en-us/products/next-gen-firewall)
+            * [Zero trust network access (ZTNA)](https://www.sophos.com/en-us/products/zero-trust-network-access)
+            * [Network detection and response (NDR)](https://www.sophos.com/en-us/products/network-detection-and-response)
+        * Email security
+            * [Email and phishing protection](https://www.sophos.com/en-us/products/sophos-email)
+            * [Security awareness and training](https://www.sophos.com/en-us/products/phish-threat)
+        * Network infrastructure
+            * [Next-gen firewall appliance](https://www.sophos.com/en-us/products/next-gen-firewall)
             * [SD-WAN](https://www.sophos.com/en-us/products/next-gen-firewall/sd-wan)
-            * [Network Switches](https://www.sophos.com/en-us/products/sophos-switch)
-            * [Wireless Access Points](https://www.sophos.com/en-us/products/secure-wifi)
-        * Cloud Security
-            * [Cloud Workload Protection](https://www.sophos.com/en-us/products/cloud-native-security/cloud-workload-protection)
-            * [Cloud Security Posture Management (CSPM)](https://www.sophos.com/en-us/products/cloud-optix)
+            * [Network switches](https://www.sophos.com/en-us/products/sophos-switch)
+            * [Wireless access points](https://www.sophos.com/en-us/products/secure-wifi)
+        * Cloud security
+            * [Cloud workload protection](https://www.sophos.com/en-us/products/cloud-native-security/cloud-workload-protection)
+            * [Cloud security posture management (CSPM)](https://www.sophos.com/en-us/products/cloud-optix)
         * Sophos Home Premium
-            * [Mac Antivirus Download](https://home.sophos.com/en-us/download-mac-security)
-            * [PC Antivirus Download](https://home.sophos.com/en-us/download-pc-security)
+            * [Mac antivirus download](https://home.sophos.com/en-us/download-mac-security)
+            * [PC antivirus download](https://home.sophos.com/en-us/download-pc-security)
     * Services
-        * Managed Security Services - SecOps
-            * [Managed Detection and Response (MDR)](https://www.sophos.com/en-us/products/managed-detection-and-response)
-            * [Incident Response Services](https://www.sophos.com/en-us/products/managed-detection-and-response/incident-response-services)
-            * [Vulnerability Management (Managed Risk)](https://www.sophos.com/en-us/products/managed-risk)
-            * [Operational Support Services](https://www.sophos.com/en-us/support/professional-services)
-        * Sophos Central
-            * [Free Trial](https://www.sophos.com/en-us/products/sophos-central/free-trial)
-            * [Sign In](https://central.sophos.com/manage/login)
+        * Managed security services
+            * [Managed detection and response (MDR)](https://www.sophos.com/en-us/products/managed-detection-and-response)
+            * [Incident response services](https://www.sophos.com/en-us/products/managed-detection-and-response/incident-response-services)
+            * [Vulnerability management (Managed Risk)](https://www.sophos.com/en-us/products/managed-risk)
+            * [Operational support services](https://www.sophos.com/en-us/support/professional-services)
+        * Management platform
+            * [Sophos Central](https://www.sophos.com/en-us/products/sophos-central)
+            * [Free trial](https://www.sophos.com/en-us/products/sophos-central/free-trial)
+            * [Sign in](https://central.sophos.com/manage/login)
 * Solutions
     * I am looking to…
         * [Stop ransomware attacks](https://www.sophos.com/en-us/solutions/use-cases/ransomware-protection)
         * [Protect my remote or hybrid employees](https://www.sophos.com/en-us/solutions/use-cases/remote-working)
         * [Address cyber insurance requirements](https://www.sophos.com/en-us/solutions/use-cases/cyber-insurance)
         * [Protect my Microsoft environment](https://www.sophos.com/en-us/products/managed-detection-and-response/microsoft-defender)
-        * [Find a Managed Service Provider](https://partners.sophos.com/english/directory/)
+        * [Find managed service providers](https://partners.sophos.com/english/directory/)
         * [Comply with the latest regulations](https://www.sophos.com/en-us/solutions#compliance)
     * Industries
         * [Education](https://www.sophos.com/en-us/solutions/industries/education)
-        * [Finance and Banking](https://www.sophos.com/en-us/solutions/industries/finance-and-banking)
+        * [Finance and banking](https://www.sophos.com/en-us/solutions/industries/finance-and-banking)
         * [Government](https://www.sophos.com/en-us/solutions/industries/government)
         * [Healthcare](https://www.sophos.com/en-us/solutions/industries/healthcare)
         * [Manufacturing](https://www.sophos.com/en-us/solutions/industries/manufacturing)
         * [Retail](https://www.sophos.com/en-us/solutions/industries/retail)
-        * [All Solutions](https://www.sophos.com/en-us/solutions)
+        * [All solutions](https://www.sophos.com/en-us/solutions)
 * Partners
     * Sophos Partners
-        * [Find a Partner](https://partners.sophos.com/english/directory)
-        * [Partner Blog](https://partnernews.sophos.com/en-us/)
-        * [Managed Service Providers](https://www.sophos.com/en-us/partners/managed-service-providers)
+        * [Find a partner](https://partners.sophos.com/english/directory)
+        * [Partner blogs](https://partnernews.sophos.com/en-us/)
+        * [Managed service providers](https://www.sophos.com/en-us/partners/managed-service-providers)
         * [Integrations](https://www.sophos.com/en-us/marketplace)
         * [OEM](https://www.sophos.com/en-us/oem)
-    * Current Partners
-        * [Partner Program](https://www.sophos.com/en-us/partners)
-        * [Partner Portal Login](https://www.sophos.com/en-us/partners/partner-portal)
-        * [Sophos Central Login](https://central.sophos.com/manage/login)
-        * [Partner Care](https://www.sophos.com/en-us/partners/partner-care)
-        * [Training and Certification](https://partners.sophos.com/prm/English/c/sophos-learning-zone)
-    * Become a Partner
-        * [Join Our Program](https://partners.sophos.com/register.aspx?lang=en-us)
+    * Current partners
+        * [Partner program](https://www.sophos.com/en-us/partners)
+        * [Partner portal login](https://www.sophos.com/en-us/partners/partner-portal)
+        * [Sophos Central login](https://central.sophos.com/manage/login)
+        * [Partner care](https://www.sophos.com/en-us/partners/partner-care)
+        * [Training and certification](https://partners.sophos.com/prm/English/c/sophos-learning-zone)
+    * Become a partner
+        * [Join our program](https://partners.sophos.com/register.aspx?lang=en-us)
 * Learn
     * Why Sophos
-        * [Awards and Recognition](https://www.sophos.com/en-us/content/why-sophos)
-        * [Case Studies](https://www.sophos.com/en-us/company/case-studies)
-        * [Competitor Comparisons](https://www.sophos.com/en-us/content/sophos-vs-competition)
-    * Threat Intelligence
-        * [X-Ops Threat Research](https://www.sophos.com/en-us/x-ops)
+        * [Awards and recognition](https://www.sophos.com/en-us/content/why-sophos)
+        * [Case studies](https://www.sophos.com/en-us/company/case-studies)
+        * [Competitor comparisons](https://www.sophos.com/en-us/content/sophos-vs-competition)
+    * Threat intelligence
+        * [X-Ops threat research](https://www.sophos.com/en-us/x-ops)
         * [SophosLabs Intelix](https://www.sophos.com/en-us/intelix)
-        * [Security Blogs](https://news.sophos.com/en-us/)
         * [Sophos AI](https://news.sophos.com/en-us/category/ai-research/)
-    * About Us
+        * [Security blogs](https://news.sophos.com/en-us/)
+    * About us
         * [Company](https://www.sophos.com/en-us/company)
-        * [Press](https://www.sophos.com/en-us/press)
         * [Events](https://events.sophos.com/)
+        * [Press](https://www.sophos.com/en-us/press)
         * [Careers](https://www.sophos.com/en-us/careers)
     * Resources
-        * [Cybersecurity Explained](https://www.sophos.com/en-us/cybersecurity-explained)
+        * [Cybersecurity explained](https://www.sophos.com/en-us/cybersecurity-explained)
 * Support
-    * Get Help
-        * [Support Portal](https://support.sophos.com/support)
-        * [Support Packages](https://www.sophos.com/en-us/support/technical-support)
-        * [Partner Care Support](https://www.sophos.com/en-us/partners/partner-care)
-        * [Tech Support](https://docs.sophos.com/support/help/en-us/contact/index.html)
+    * Get help
+        * [Support portal](https://support.sophos.com/support)
+        * [Support packages](https://docs.sophos.com/support/help/en-us/services-guide/index.html)
+        * [Sophos Partner Care](https://www.sophos.com/en-us/partners/partner-care)
+        * [Contact Sophos support](https://docs.sophos.com/support/help/en-us/contact/index.html)
     * Resources
-        * [Downloads and Updates](https://www.sophos.com/en-us/support/downloads)
-        * [Documentation](https://support.sophos.com/support/s/#t=DocumentationTab)
-        * [Technical Training](https://www.sophos.com/en-us/company/training)
-        * [Techvids - Training Videos](https://techvids.sophos.com/)
-        * [Sophos Status Page](https://status.sophos.com/)
-        * [Submit a Threat](https://support.sophos.com/support/s/filesubmission?language=en_US)
+        * [Downloads and updates](https://www.sophos.com/en-us/support/downloads)
+        * [Product documentation](https://support.sophos.com/support/s/#t=DocumentationTab)
+        * [Technical training](https://www.sophos.com/en-us/company/training)
+        * [Sophos Techvids - support videos](https://techvids.sophos.com/)
+        * [Sophos status page](https://status.sophos.com/)
+        * [Submit a threat](https://support.sophos.com/support/s/filesubmission?language=en_US)
     * Product Support
-        * [Sophos Community Forums](https://community.sophos.com/)
+        * [Sophos community forums](https://community.sophos.com/)
         * [Sophos Firewall](https://community.sophos.com/sophos-xg-firewall/)
         * [Sophos Endpoint](https://community.sophos.com/intercept-x-endpoint/)
-        * [Sophos Cloud](https://community.sophos.com/sophos-cloud-optix/)
+        * [Sophos XDR](https://community.sophos.com/sophos-xdr/)
         * [Sophos Central](https://community.sophos.com/sophos-central/)
-        * [Sophos Email](https://community.sophos.com/email-appliance/)
+        * [Sophos Email](https://community.sophos.com/sophos-email/)
 
 * [All Products](https://www.sophos.com/en-us/products)
 * [Cybersecurity for Home](https://home.sophos.com/en-us)
 * [Free Tools](https://www.sophos.com/en-us/free-tools)
 
-* Sign In
+* Sign in
     
     * [Sophos Central](https://central.sophos.com/manage/login)
-    * [Partner Portal](https://partners.sophos.com/)
-    * [Licenses & Accounts](https://community.sophos.com/sophos-xg-firewall/b/blog/posts/important-sophos-firewall-licensing-portal-changes)
+    * [Partner portal](https://partners.sophos.com/)
+    * [Licenses & accounts](https://community.sophos.com/sophos-xg-firewall/b/blog/posts/important-sophos-firewall-licensing-portal-changes)
     * [Sophos Home](https://my.sophos.com/en-us/login/)
     
 
