@@ -21,6 +21,7 @@
     * [Overview](https://www.tynker.com/parents/)
     * [Curriculum](https://www.tynker.com/parents/curriculum/)
     * [Plans & Pricing](https://www.tynker.com/parents/pricing/)
+    * [Gift](https://www.tynker.com/parents/gift)
 * [Educators](https://www.tynker.com/school/)
     * [Overview](https://www.tynker.com/school/)
     * [School Curriculum](https://www.tynker.com/school/coding-curriculum/)
@@ -33,7 +34,7 @@
     * [Why Coding Matters](https://www.tynker.com/coding-for-kids/why-coding-matters/)
     * [Coding eBooks](https://www.tynker.com/ebooks/)
     * [Mobile Apps](https://www.tynker.com/mobile/)
-* [Gift](https://www.tynker.com/parents/gift)
+* [Blog](https://www.tynker.com/blog/)
 
 * Start for Free
 * Log in
