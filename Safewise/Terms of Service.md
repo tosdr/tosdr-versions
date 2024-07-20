@@ -4,7 +4,7 @@
 
 [skip to main content](#main-content)
 
-We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy through our links.
+SafeWise is an independent review site. We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy through our links.
 
 ![Icon Close  Dark](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-close--dark.svg)
 
@@ -163,9 +163,9 @@ We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy thro
 
 **Kid & Teen** **Safety**
 
-[Best Kids GPS Trackers](https://www.safewise.com/resources/wearable-gps-tracking-devices-for-kids-guide/)
+[Kids Safety Awards](https://www.safewise.com/kids-safety-awards/)
 
-[Best Vehicle GPS Trackers](https://www.safewise.com/blog/guide-5-best-gps-vehicle-trackers/)
+[Best Kids GPS Trackers](https://www.safewise.com/resources/wearable-gps-tracking-devices-for-kids-guide/)
 
 [Best Parental Control Software](https://www.safewise.com/resources/parental-control-filters-buyers-guide/)
 
@@ -271,11 +271,11 @@ We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy thro
 
 **Recent News Articles**
 
+[Amazon Prime Day Deals 2024](https://www.safewise.com/blog/amazon-prime-day-2024-unbeatable-security-safety-and-smart-home-tech-deals/)
+
+[Best States for LGBTQ Families](https://www.safewise.com/blog/the-best-states-for-lgbtq-families-arent-what-youd-expect/)
+
 [2024 Safety Tech Trends](https://www.safewise.com/news/whats-trending-for-safety-tech-in-2024/)
-
-[What Are False Alarms and How Do They Impact Home Security?](https://www.safewise.com/blog/what-are-false-alarms-and-how-does-that-inpact-my-home-security/)
-
-[Retail Theft on the Rise...](https://www.safewise.com/news/retail-theft-on-the-rise-how-businesses-are-adapting-to-protect-their-stores/)
 
 [Rematch: Ring vs. SimpliSafe](https://www.safewise.com/news/rematch-ring-vs-simplisafe/)
 
@@ -285,17 +285,17 @@ We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy thro
 
 **Featured** **Reports**
 
-[Package Theft in the U.S.](https://www.safewise.com/blog/metro-areas-porch-theft/)
+[Kids Safety Awards](https://www.safewise.com/kids-safety-awards/)
 
 [State of Safety in the US](https://www.safewise.com/state-of-safety/)
 
-[Dangerous Metro Cities in the U.S.](https://www.safewise.com/blog/most-dangerous-cities/)
-
-[Safest Metro Cities in the U.S.](https://www.safewise.com/blog/safest-metro-cities/)
+[Safest Cities in America](https://www.safewise.com/safest-cities-america/)
 
 [Safest Cities to Raise a Family](https://www.safewise.com/blog/safest-cities-to-raise-a-child/)
 
 [Safest College Towns in the US​](https://www.safewise.com/blog/safest-college-towns-america/)
+
+[Package Theft in the U.S.](https://www.safewise.com/blog/metro-areas-porch-theft/)
 
 [**See All Reports**](https://www.safewise.com/press/#Reports)
 
@@ -316,6 +316,10 @@ We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy thro
 [Deals ![Icon Caret Right  Dark](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-caret-right--dark.svg)](https://www.safewise.com/deals/) 
 
 Search for: ![Search](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-search--dark.svg) 
+
+[![](https://www.safewise.com/app/uploads/2021/10/SW_Prime_Day_Banner_Mobile_350x50.png)](https://www.amazon.com/deals?discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522&linkCode=ll2&tag=safewicom-20&linkId=7c67b96af99bb6c24c4b05474c4fe005&language=en_US&ref_=as_li_ss_tl)
+
+[![](https://www.safewise.com/app/uploads/2024/07/SW_Prime_Day_Banner_Desktop_728x90.png)](https://www.amazon.com/amazonprime?_encoding=UTF8&pd_rd_w=SUWT3&content-id=amzn1.sym.8b032f0e-4bd7-4ed1-913c-0a618a2e47d3&pf_rd_p=8b032f0e-4bd7-4ed1-913c-0a618a2e47d3&pf_rd_r=ZKKRPGQWPWJCQ9N2NZ30&pd_rd_wg=VgF6z&pd_rd_r=8aa31281-efa1-4879-9d3c-2dec3253cc3a&cl_system=mapi&cl_system_id=1b855e5e-4fe8-426f-9121-fc9e46440057&clreqid=1b855e5e-4fe8-426f-9121-fc9e46440057&kbid=87445&linkCode=ll2&tag=safewicom-20&linkId=1527b28268471ed814052b701c49064c&language=en_US&ref_=as_li_ss_tl)
 
 [Home](https://www.safewise.com/) | Terms of Service
 
