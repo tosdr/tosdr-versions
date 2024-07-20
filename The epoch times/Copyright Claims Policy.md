@@ -105,7 +105,7 @@ Search Text  [SEARCH](javascript:void(0);)
 * [Arts](https://www.theepochtimes.com/bright/arts-culture)
 * [Falun Gong](https://www.theepochtimes.com/falun-gong)
 * [Premium](https://www.theepochtimes.com/editions)
-* [Business & Markets News](https://www.theepochtimes.com/business/markets)
+* [Markets News](https://www.theepochtimes.com/business/markets)
 * [Games](https://www.theepochtimes.com/epochfun)
 * [Livestream](https://www.theepochtimes.com/epochtv/live)
 * More
@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://www.theepochtimes.com/us/paxton-warns-texas-schools-not-to-comply-with-title-ix-transgender-rules-or-face-legal-action-5672471)
+* [Congress Could Help Turn Tide Against Forced Organ Harvesting in China, Say Advocates](https://www.theepochtimes.com/china/us-congress-could-help-turn-tide-against-crime-of-forced-organ-harvesting-in-china-say-advocates-5690228)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Congress Could Help Turn Tide Against Forced Organ Harvesting in China, Say Advocates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://img.theepochtimes.com/assets/uploads/2024/05/03/id5643334-GettyImages-1235388995-205x123.jpg.webp)](https://www.theepochtimes.com/us/paxton-warns-texas-schools-not-to-comply-with-title-ix-transgender-rules-or-face-legal-action-5672471)
-* [Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://www.theepochtimes.com/us/billionaire-timothy-mellon-donates-50-million-to-trump-pac-5672593)
+    ![Congress Could Help Turn Tide Against Forced Organ Harvesting in China, Say Advocates](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690522-04082024-DSC03582-us-capitol-SB-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-congress-could-help-turn-tide-against-crime-of-forced-organ-harvesting-in-china-say-advocates-5690228)
+* [China’s Children Scarred by CCP’s 25-Year Persecution of Falun Gong](https://www.theepochtimes.com/article/chinas-children-scarred-by-ccps-25-year-persecution-of-falun-gong-5687609)
     
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    3hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
-    [![Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![China’s Children Scarred by CCP’s 25-Year Persecution of Falun Gong](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://img.theepochtimes.com/assets/uploads/2024/06/03/id5661551-Trump-presser-GettyImages-2155437737-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/billionaire-timothy-mellon-donates-50-million-to-trump-pac-5672593)
-* [US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://www.theepochtimes.com/world/us-says-ukraine-can-strike-anywhere-inside-russia-where-cross-border-attacks-emanate-5672415)
+    ![China’s Children Scarred by CCP’s 25-Year Persecution of Falun Gong](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690224-Persecution-Children-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/chinas-children-scarred-by-ccps-25-year-persecution-of-falun-gong-5687609)
+* [Rep. Sheila Jackson Lee Dies at 74 After Cancer Battle](https://www.theepochtimes.com/us/rep-sheila-jackson-lee-dies-at-74-after-cancer-battle-5690504)
     
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Rep. Sheila Jackson Lee Dies at 74 After Cancer Battle](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672570-GettyImages-1248456070KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-ukraine-can-strike-anywhere-inside-russia-where-cross-border-attacks-emanate-5672415)
-* [New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://www.theepochtimes.com/us/new-york-governor-signs-bill-restricting-social-media-algorithms-for-minors-5672411)
+    ![Rep. Sheila Jackson Lee Dies at 74 After Cancer Battle](https://img.theepochtimes.com/assets/uploads/2024/03/06/id5601914-Rep.-Sheila-Jackson-Lee-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-sheila-jackson-lee-dies-at-74-after-cancer-battle-5690504)
+* [Corey Comperatore Laid to Rest as Thousands Gather to Mourn](https://www.theepochtimes.com/us/corey-comperatore-laid-to-rest-as-thousands-gather-to-mourn-5690230)
     
-    5hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    4hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
     
-    [![New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Corey Comperatore Laid to Rest as Thousands Gather to Mourn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672645-Hochul-signs-bill-AP24172690553171-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-governor-signs-bill-restricting-social-media-algorithms-for-minors-5672411)
-* [US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://www.theepochtimes.com/world/rep-pelosi-meets-with-exiled-tibetan-government-in-india-as-chinas-xi-visits-tibet-5671855)
+    ![Corey Comperatore Laid to Rest as Thousands Gather to Mourn](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690345-ccfuneral7-205x123.jpg.webp)](https://www.theepochtimes.com/us/corey-comperatore-laid-to-rest-as-thousands-gather-to-mourn-5690230)
+* [Maricopa County Says Some Voting Locations Impacted by Global Tech Outage](https://www.theepochtimes.com/us/maricopa-county-says-some-voting-locations-impacted-by-global-tech-outage-5690154)
     
-    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Maricopa County Says Some Voting Locations Impacted by Global Tech Outage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672578-pelosi-205x123.jpeg.webp)](https://www.theepochtimes.com/world/rep-pelosi-meets-with-exiled-tibetan-government-in-india-as-chinas-xi-visits-tibet-5671855)
-* [Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://www.theepochtimes.com/us/nearly-half-of-us-ev-drivers-consider-switching-back-to-gas-vehicles-mckinsey-study-5672246)
+    ![Maricopa County Says Some Voting Locations Impacted by Global Tech Outage](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569702-GettyImages-1439826650-205x123.jpg.webp)](https://www.theepochtimes.com/us/maricopa-county-says-some-voting-locations-impacted-by-global-tech-outage-5690154)
+* [Not All Body Fat Is Created Equal, Some Can Be Protective](https://www.theepochtimes.com/health/not-all-body-fat-is-created-equal-some-can-be-protective-5686571)
     
-    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    10hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
     
-    [![Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Not All Body Fat Is Created Equal, Some Can Be Protective](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672481-GettyImages-1241748391-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-half-of-us-ev-drivers-consider-switching-back-to-gas-vehicles-mckinsey-study-5672246)
-* [Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://www.theepochtimes.com/us/federal-judge-to-hear-arguments-on-lawfulness-of-jack-smith-appointment-5669979)
+    ![Not All Body Fat Is Created Equal, Some Can Be Protective](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5689572-shutterstock_396411568-205x123.jpg.webp)](https://www.theepochtimes.com/health/not-all-body-fat-is-created-equal-some-can-be-protective-5686571)
+* [Sugar: A Potential Culprit in Pancreatic Cancer, the ‘King of Cancer’](https://www.theepochtimes.com/health/sugar-a-potential-culprit-in-pancreatic-cancer-the-king-of-cancer-5684345)
     
-    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    10hr By [Shan Lam](https://www.theepochtimes.com/author/shan-lam) and [JoJo Novaes](https://www.theepochtimes.com/author/jojo-novaes)
     
-    [![Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Sugar: A Potential Culprit in Pancreatic Cancer, the ‘King of Cancer’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://img.theepochtimes.com/assets/uploads/2024/06/16/id5669709-Donald-Trump-Judge-Cannon-Jack-Smith--205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-to-hear-arguments-on-lawfulness-of-jack-smith-appointment-5669979)
-* [Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://www.theepochtimes.com/us/mayorkas-responds-to-growing-public-support-for-mass-deportation-of-illegal-immigrants-5671495)
+    ![Sugar: A Potential Culprit in Pancreatic Cancer, the ‘King of Cancer’](https://img.theepochtimes.com/assets/uploads/2023/10/23/id5514915-FeatureImageSize-205x123.jpg.webp)](https://www.theepochtimes.com/health/sugar-a-potential-culprit-in-pancreatic-cancer-the-king-of-cancer-5684345)
+* [COVID Social Distancing Linked to Newborn Mortality and Preterm Births, Study Finds](https://www.theepochtimes.com/health/covid-social-distancing-linked-to-newborn-mortality-and-preterm-births-study-finds-5689980)
     
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
-    [![Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![COVID Social Distancing Linked to Newborn Mortality and Preterm Births, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://img.theepochtimes.com/assets/uploads/2024/04/17/id5631284-Mayorkas-GettyImages-2148177662-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mayorkas-responds-to-growing-public-support-for-mass-deportation-of-illegal-immigrants-5671495)
-* [Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://www.theepochtimes.com/world/biden-admin-moves-ukraine-to-front-of-line-for-air-defense-missiles-5672231)
+    ![COVID Social Distancing Linked to Newborn Mortality and Preterm Births, Study Finds](https://img.theepochtimes.com/assets/uploads/2023/11/08/id5525571-Newbornshutterstock_1531703333-205x123.jpeg.webp)](https://www.theepochtimes.com/health/covid-social-distancing-linked-to-newborn-mortality-and-preterm-births-study-finds-5689980)
+* [White House Physician Provides Update on Biden’s COVID Symptoms](https://www.theepochtimes.com/us/white-house-physician-provides-update-on-bidens-covid-symptoms-5690016)
     
-    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![White House Physician Provides Update on Biden’s COVID Symptoms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672441-missiles-OP-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-admin-moves-ukraine-to-front-of-line-for-air-defense-missiles-5672231)
-* [‘M\*A\*S\*H’ Actor Donald Sutherland Dies at 88](https://www.theepochtimes.com/entertainment/mash-actor-donald-sutherland-dies-at-88-post-5672320)
+    ![White House Physician Provides Update on Biden’s COVID Symptoms](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5688898-Biden-_-Las-Vegas3-e1721280648599-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-physician-provides-update-on-bidens-covid-symptoms-5690016)
+* [Top UN Court’s Opinion Says Israeli Settlements Violate International Law](https://www.theepochtimes.com/world/top-un-courts-opinion-says-israeli-settlements-violate-international-law-5689960)
     
-    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![‘M*A*S*H’ Actor Donald Sutherland Dies at 88](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Top UN Court’s Opinion Says Israeli Settlements Violate International Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![‘M*A*S*H’ Actor Donald Sutherland Dies at 88](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672399-96859cb44f8b7613540f6a706700c657-OP-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/mash-actor-donald-sutherland-dies-at-88-post-5672320)
+    ![Top UN Court’s Opinion Says Israeli Settlements Violate International Law](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690049-ISRAEL-PALESTINIANS-WORLD-COURT-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/top-un-courts-opinion-says-israeli-settlements-violate-international-law-5689960)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
