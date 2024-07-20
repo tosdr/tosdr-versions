@@ -70,6 +70,8 @@
 Privacy Policy: Our Commitment to Your Privacy and Data Protection
 ==================================================================
 
+4.9 ![Google Reviews](https://cdn.powa.com/www.pugetlawgroup.com/images/wp-content/themes/puget-law/assets/app/img/gr-sharp-130-critical-desktop.svg.webp) 400+ Google Reviews
+
 1. [Home](https://www.pugetlawgroup.com/)
 »2. Privacy Policy: Our Commitment to Your Privacy and Data Protection
 
@@ -291,7 +293,7 @@ Email\*
 
 Case Summary\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -299,18 +301,18 @@ This field is for validation purposes and should be left unchanged.
 
 Δ
 
-#### Find Yourself a Passionate Lawyer Now!
+#### Additional Locations
 
-* [Washington Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/washington/criminal-defense-lawyer/)
-* [Seattle Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/seattle-wa/criminal-defense-lawyer/)
-* [Kent Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/kent-wa/criminal-defense-lawyer/)
-* [Tacoma Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/tacoma-wa/criminal-defense-lawyer/)
-* [Olympia Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/olympia-wa/criminal-defense-lawyer/)
-* [Port Orchard Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/port-orchard-wa/criminal-defense-lawyer/)
-* [Bellevue Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
-* [Everett Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/everett-wa/criminal-defense-lawyer/)
-* [Kirkland Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/kirkland-wa/criminal-defense-lawyer/)
-* [Puyallup Criminal Defense Lawyer Near Me](https://www.pugetlawgroup.com/puyallup-wa/criminal-defense-lawyer/)
+* [Seattle Criminal Defense Lawyer](https://www.pugetlawgroup.com/seattle-wa/criminal-defense-lawyer/)
+* [Bellevue Criminal Defense Lawyer](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
+* [Redmond Criminal Defense Lawyer](https://www.pugetlawgroup.com/redmond-wa/criminal-defense-lawyer/)
+* [Kirkland Criminal Defense Lawyer](https://www.pugetlawgroup.com/kirkland-wa/criminal-defense-lawyer/)
+* [Tacoma Criminal Defense Lawyer](https://www.pugetlawgroup.com/tacoma-wa/criminal-defense-lawyer/)
+* [Washington Criminal Defense Lawyer](https://www.pugetlawgroup.com/washington/criminal-defense-lawyer/)
+* [Kent Criminal Defense Lawyer](https://www.pugetlawgroup.com/kent-wa/criminal-defense-lawyer/)
+* [Olympia Criminal Defense Lawyer](https://www.pugetlawgroup.com/olympia-wa/criminal-defense-lawyer/)
+* [Port Orchard Criminal Defense Lawyer](https://www.pugetlawgroup.com/port-orchard-wa/criminal-defense-lawyer/)
+* [Everett Criminal Defense Lawyer](https://www.pugetlawgroup.com/everett-wa/criminal-defense-lawyer/)
 
 ### FAQs
 
