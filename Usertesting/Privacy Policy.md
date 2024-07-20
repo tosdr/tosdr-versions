@@ -68,13 +68,13 @@ Main navigation
             
               ![Laptop 3 - User](https://usertesting.widen.net/content/4gt1tysitx/webp/ICON-light-Laptop%203%20-%20User-256x256.png?w=120)
             
-        * Forrester Wave Leader 2023
+        * July 2024 product release
             
-            Powering over 3,000 of the world’s top brands
+            Save time with enhanced AI-powered surveys and easy insight-sharing—learn more by joining our product release webinar.
             
-            [Get started](https://www.usertesting.com/start-here-form)
+            [Save my spot](https://www.usertesting.com/resources/library/webinars/2024-july-product-release)
             
-              ![Forrester Wave Leader badge](https://usertesting.widen.net/content/dbql7yx3nw/webp/LOGO-2024-Forrester-wave-leader-badge-2023.png?w=112)
+              ![July 2024 product release mega menu tile](https://usertesting.widen.net/content/naz3kmlcu8/webp/RESC-2024-july-product-release-mega-menu-tile-120x120.png?w=120)
             
         
     * Divider
@@ -148,6 +148,14 @@ Main navigation
             [Download the report](https://www.usertesting.com/hub-2023-experience-research-industry-report)
             
               ![Top navigation CTA image for TEI Usertesting + Forrester Report](https://usertesting.widen.net/content/sfv58w7i84/webp/IMAGE-top-nav-cta-TEI-report-240x240.png?w=120)
+            
+        * Top rated by TrustRadius Best of 2024 Award
+            
+            Learn how our end-to-end solution can help you and your team
+            
+            [Get started](https://www.usertesting.com/start-here-form)
+            
+              ![TrustRadius - Top Rated 2024](https://usertesting.widen.net/content/eletjsirab/webp/LOGO-award-2024-TrustRadius-Top-Rated.png)
             
         
     * Divider
@@ -310,6 +318,14 @@ Main navigation
             
               
             
+        * The Human Insight Summit
+            
+            Join us in Austin for The Human Insight Summit, October 28-30, 2024.
+            
+            [Learn More](https://www.usertesting.com/resources/this)
+            
+              ![THiS Vertical Logo Lockup](https://usertesting.widen.net/content/jz5zfwke4e/webp/LOGO-2022-THiS-Vertical-Lockup-446x284.png?w=120)
+            
         
     * Divider
         
@@ -338,7 +354,7 @@ Main navigation
             
             * [Virtual & in-person events](https://www.usertesting.com/resources/library/events)
                 
-            * [Customer conference - THiS](https://www.usertesting.com/resources/this)
+            * [The Human Insight Summit](https://www.usertesting.com/resources/this)
                 
             * [Industry insight series](https://www.usertesting.com/industry-insights)
                 
@@ -347,6 +363,8 @@ Main navigation
             
         * Product Releases
             
+            * [Latest release](https://www.usertesting.com/resources/product-releases)
+                
             * [Previous releases](https://www.usertesting.com/resources/product-releases#previous-product-releases)
                 
             
@@ -419,7 +437,7 @@ If you want to restrict or block cookies set by our website, you may change your
 
 We adhere to the principles of the EU-U.S. and Swiss-U.S. Privacy Shield frameworks, although we do not rely on such frameworks as a legal basis for transfers of personal data in light of the judgment of the Court of Justice of the EU in Case C-311/18. If any personal data is transferred outside of the EEA, we will ensure that any such transfer of personal data is governed by an adequacy decision or an alternative valid mechanism for international data transfers, such as the Standard Contractual Clauses. 
 
-We participate in and have certified our compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list/). 
+We participate in and have certified our compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certification, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.dataprivacyframework.gov/list). 
 
 We are responsible for the processing of personal data we receive, under each Privacy Shield Framework, and subsequently transfer to a third party acting as an agent on its behalf.  We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -429,10 +447,10 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, [more fully described on the Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-* [Website visitors privacy policy](https://www.usertesting.com/privacy-center/privacy-policy/website-visitors)
-* [Study creators privacy policy](https://www.usertesting.com/privacy-center/privacy-policy/study-creators)
-* [Study contributors privacy policy](https://www.usertesting.com/privacy-center/privacy-policy/study-contributors)
-* [Experience research program privacy policy](https://www.usertesting.com/privacy-center/experience-research-program-privacy-policy)
+* [More information for website visitors](https://www.usertesting.com/privacy-center/privacy-policy/website-visitors)
+* [More information for study creators](https://www.usertesting.com/privacy-center/privacy-policy/study-creators)
+* [More information for study contributors](https://www.usertesting.com/privacy-center/privacy-policy/study-contributors)
+* [More information for participants of the Experience Research Program](https://www.usertesting.com/privacy-center/experience-research-program-privacy-policy)
 
 [![](/themes/custom/usertesting/assets/images/logo-white.svg)
 
@@ -496,7 +514,7 @@ Footer
     * Trust Center
         * [Do Not Sell or Share](https://preferences.usertesting.com/dont_sell)
         * [Cookie policy](https://www.usertesting.com/privacy-center/cookie-policy)
-        * [Cookie preferences](https://www.usertesting.com/#cookie-preferences)
+        * [Cookie preferences](#cookie-preferences)
         * [GDPR policy](https://www.usertesting.com/privacy-center/gdpr-policy)
         * [Privacy policy](https://www.usertesting.com/privacy-center/privacy-policy)
         * [Anti-Corruption Policy](https://www.usertesting.com/privacy-center/anti-corruption-policy)
