@@ -53,7 +53,7 @@
     * [Become a Member](https://www.w3.org/membership/)
     * [Member Home (restricted)](https://www.w3.org/Member/)
     * [Follow mailing lists](https://www.w3.org/email/)
-    * [Make a donation](https://www.w3.org//)
+    * [Make a donation](https://www.w3.org/donate/)
     * [Sponsor an event](https://www.w3.org/sponsor/)
     
 * [Resources](https://www.w3.org/resources/)
