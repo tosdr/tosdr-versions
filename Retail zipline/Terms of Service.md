@@ -11,7 +11,7 @@
     * [Employee Communication](https://www.retailzipline.com/platform/employee-communication/)
     * [Task Management](https://www.retailzipline.com/platform/task-management/)
     * [Store Audit](https://www.retailzipline.com/platform/Store-Audit)
-    * [Knowledge Base](https://www.retailzipline.com/platform/Knowledge-Base)
+    * [AI-Powered Knowledge Base](https://www.retailzipline.com/platform/Knowledge-Base)
     * [Learning Center](https://www.retailzipline.com/platform/learning-center/)
     * [Report & Analytics](https://www.retailzipline.com/platform/reporting-analytics/)
     * [Integrations](https://www.retailzipline.com/platform/Integrations)
@@ -132,7 +132,7 @@ These TERMS AND CONDITIONS (the “Agreement”) govern your use of the retail f
 
 © Copyright. All rights reserved
 
-**Platform** [Employee Communication](https://www.retailzipline.com/platform/employee-communication/) [Task Management](https://www.retailzipline.com/platform/task-management/) [Store Audit](https://www.retailzipline.com/platform/Store-Audit/) [Knowledge Base](https://www.retailzipline.com/platform/Knowledge-Base/) [Report & Analytics](https://www.retailzipline.com/platform/reporting-analytics/) [Integrations](https://www.retailzipline.com/platform/Integrations/) [Working With Us](https://www.retailzipline.com/platform/working-with-us/)
+**Platform** [Employee Communication](https://www.retailzipline.com/platform/employee-communication/) [Task Management](https://www.retailzipline.com/platform/task-management/) [Store Audit](https://www.retailzipline.com/platform/Store-Audit/) [AI-Powered Knowledge Base](https://www.retailzipline.com/platform/Knowledge-Base/) [Report & Analytics](https://www.retailzipline.com/platform/reporting-analytics/) [Integrations](https://www.retailzipline.com/platform/Integrations/) [Working With Us](https://www.retailzipline.com/platform/working-with-us/)
 
 **Solution** [Use Cases](https://www.retailzipline.com/use-cases) [By Industries](https://www.retailzipline.com/industries) [By Role](https://www.retailzipline.com/by-role/)
 
