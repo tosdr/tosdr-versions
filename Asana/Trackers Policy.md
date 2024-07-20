@@ -141,9 +141,9 @@ Resourceschevron-down icon
 * [![](https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png)
     
     ReportDrive employee impact: New tools to empower resilient leadershipRead morearrow-right icon](https://blog.asana.com/2022/06/impact)
-* [![](https://assets.asana.biz/transform/f00a3f86-0802-42ae-a948-41d2936b99e8/web-aow24-nav-thumbnail_aow-cover)
+* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
     
-    ReportThe Anatomy of Work: Global Index 2023Read morearrow-right icon](http://asana.com/resources/anatomy-of-work)
+    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
 [Enterprise](https://asana.com/enterprise)[Pricing](https://asana.com/pricing)
 
@@ -272,9 +272,9 @@ Featured Reads
 * [![](https://assets.asana.biz/m/64d1a4e336c4ad0c/original/EMIM23_BLOG_CONCEPTUAL_HERO_803x533_EN.png)
     
     ReportDrive employee impact: New tools to empower resilient leadershipRead morearrow-right icon](https://blog.asana.com/2022/06/impact)
-* [![](https://assets.asana.biz/transform/f00a3f86-0802-42ae-a948-41d2936b99e8/web-aow24-nav-thumbnail_aow-cover)
+* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
     
-    ReportThe Anatomy of Work: Global Index 2023Read morearrow-right icon](http://asana.com/resources/anatomy-of-work)
+    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
 [Contact sales](https://asana.com/sales)
 
@@ -501,7 +501,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/inside-asana/site-map)
+* [Sitemap](https://asana.com/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
