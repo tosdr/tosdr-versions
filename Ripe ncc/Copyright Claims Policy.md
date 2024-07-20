@@ -2,7 +2,7 @@
 
 [![RIPE NCC logo](/static/images/ripe-ncc-logo.svg)](https://www.ripe.net/ "Go to homepage")
 
-* [IPs & ASNs](https://www.ripe.net/manage-ips-and-asns/)
+[IPs & ASNs](https://www.ripe.net/manage-ips-and-asns/)
 
 IPs & ASNs
 ----------
@@ -67,7 +67,7 @@ We distribute Internet number resources to our members and provide tools to help
 
 Close
 
-* [Analyse](https://www.ripe.net/analyse/)
+[Analyse](https://www.ripe.net/analyse/)
 
 Analyse
 -------
@@ -121,61 +121,7 @@ We collect a wide range of Internet data and provide statistics and tools you ca
 
 Close
 
-* [Participate](https://www.ripe.net/membership/)
-
-Participate
------------
-
-The smooth running of the Internet depends on the involvement of those who give their input on membership and policy issues. And there are many ways to get involved, online and in person.
-
-[Visit page](https://www.ripe.net/membership/)
-
-[RIPE NCC Membership](https://www.ripe.net/membership/member-support/)
-----------------------------------------------------------------------
-
-* [Become a Member](https://www.ripe.net/membership/member-support/become-a-member/)
-* [LIR Basics for Members](https://www.ripe.net/membership/member-support/lir-basics/)
-* [RIPE NCC Access](https://www.ripe.net/membership/member-support/ripe-ncc-access/)
-* [Billing, Payment and Fees](https://www.ripe.net/membership/member-support/payment/)
-* [Member Lunches](https://www.ripe.net/membership/member-support/member-lunches/)
-* [RIPE NCC Surveys](https://www.ripe.net/membership/member-support/surveys/)
-
-[Meetings and Events](https://www.ripe.net/membership/meetings/)
-----------------------------------------------------------------
-
-* [RIPE Meetings](https://www.ripe.net/membership/meetings/ripe-meetings/)
-* [Regional Meetings](https://www.ripe.net/membership/meetings/regional-meetings/)
-* [General Meetings](https://www.ripe.net/membership/meetings/gm/)
-* [Roundtable Meetings](https://www.ripe.net/membership/meetings/roundtable/)
-* [Open House](https://www.ripe.net/membership/meetings/open-house/)
-* [Upcoming Events](https://www.ripe.net/membership/meetings/calendar/)
-* [Event Sponsorship](https://www.ripe.net/membership/meetings/event-sponsorship/)
-
-[Policy Development](https://www.ripe.net/membership/policies/)
----------------------------------------------------------------
-
-* [Policy Implementation Status](https://www.ripe.net/membership/policies/policy-implementation-status/)
-* [Current Policy Proposals](https://www.ripe.net/membership/policies/current-proposals/)
-
-[Join a Discussion](https://www.ripe.net/membership/mail/)
-----------------------------------------------------------
-
-* [Membership Mailing Lists](https://www.ripe.net/membership/mail/ripe-ncc-mailing-lists/)
-* [RIPE Mailing Lists](https://www.ripe.net/membership/mail/ripe-mailing-lists/)
-* [Consultations](https://www.ripe.net/membership/mail/member-and-community-consultations/)
-
-[Internet Governance](https://www.ripe.net/membership/internet-governance/)
----------------------------------------------------------------------------
-
-* [Multi-stakeholder Engagement](https://www.ripe.net/membership/internet-governance/multi-stakeholder-engagement/)
-* [Internet Governance News](https://www.ripe.net/membership/internet-governance/internet-governance-news/)
-
-[RIPE NCC Forum](https://www.ripe.net/membership/ripe-ncc-forum/)
------------------------------------------------------------------
-
-Close
-
-* [Community](https://www.ripe.net/community/)
+[Community](https://www.ripe.net/community/)
 
 Community
 ---------
@@ -187,17 +133,33 @@ More information about RIPE
 [The RIPE Chair Team](https://www.ripe.net/community/chair/)
 ------------------------------------------------------------
 
-[RIPE Code of Conduct](https://www.ripe.net/community/code-of-conduct/)
------------------------------------------------------------------------
-
-* [Report a Code of Conduct Violation](https://www.ripe.net/community/code-of-conduct/reporting-code-of-conduct-violations/)
-* [Code of Conduct Team](https://www.ripe.net/community/code-of-conduct/ripe-code-of-conduct-team/)
-
 [Working Groups](https://www.ripe.net/community/wg/)
 ----------------------------------------------------
 
 * [Working Group Chairs](https://www.ripe.net/community/wg/wg-chairs/)
 * [Active Working Groups](https://www.ripe.net/community/wg/active-wg/)
+
+[Task Forces](https://www.ripe.net/community/tf/)
+-------------------------------------------------
+
+[Policy Development](https://www.ripe.net/community/policies/)
+--------------------------------------------------------------
+
+* [Policy Implementation Status](https://www.ripe.net/community/policies/policy-implementation-status/)
+* [Current Policy Proposals](https://www.ripe.net/community/policies/current-proposals/)
+
+[Internet Governance](https://www.ripe.net/community/internet-governance/)
+--------------------------------------------------------------------------
+
+* [Internet Technical Community](https://www.ripe.net/community/internet-governance/internet-technical-community/)
+* [Multi-stakeholder Engagement](https://www.ripe.net/community/internet-governance/multi-stakeholder-engagement/)
+* [Internet Governance News](https://www.ripe.net/community/internet-governance/internet-governance-news/)
+
+[RIPE Code of Conduct](https://www.ripe.net/community/code-of-conduct/)
+-----------------------------------------------------------------------
+
+* [Report a Code of Conduct Violation](https://www.ripe.net/community/code-of-conduct/reporting-code-of-conduct-violations/)
+* [Code of Conduct Team](https://www.ripe.net/community/code-of-conduct/ripe-code-of-conduct-team/)
 
 [RIPE Community Plenary](https://www.ripe.net/community/ripe-community-plenary/)
 --------------------------------------------------------------------------------
@@ -207,12 +169,6 @@ More information about RIPE
 [Diversity](https://www.ripe.net/community/diversity/)
 ------------------------------------------------------
 
-[Task Forces](https://www.ripe.net/community/tf/)
--------------------------------------------------
-
-[NRO NC/ASO AC](https://www.ripe.net/community/address-council-election-procedure/)
------------------------------------------------------------------------------------
-
 [Academic Cooperation (RACI)](https://www.ripe.net/community/raci/)
 -------------------------------------------------------------------
 
@@ -221,18 +177,108 @@ More information about RIPE
 
 * [Terms and Conditions](https://www.ripe.net/community/ripe-fellowship/ripe-fellowship-terms-and-conditions/)
 
-[Rob Blokzijl Foundation](https://www.ripe.net/community/rob-blokzijl-foundation/)
-----------------------------------------------------------------------------------
-
 [How to Participate](https://www.ripe.net/community/how-to-participate/)
 ------------------------------------------------------------------------
 
 [Support Community Initiatives](https://www.ripe.net/community/support-community-initiatives/)
 ----------------------------------------------------------------------------------------------
 
+[NRO NC/ASO AC](https://www.ripe.net/community/address-council-election-procedure/)
+-----------------------------------------------------------------------------------
+
+[Rob Blokzijl Foundation](https://www.ripe.net/community/rob-blokzijl-foundation/)
+----------------------------------------------------------------------------------
+
 Close
 
-* [Support](https://www.ripe.net/support/)
+[Membership](https://www.ripe.net/membership/)
+
+Membership
+----------
+
+Get information about your membership, the benefits you get and how you can participate and shape RIPE NCC's activities.
+
+[Visit page](https://www.ripe.net/membership/)
+
+[RIPE NCC Membership](https://www.ripe.net/membership/member-support/)
+----------------------------------------------------------------------
+
+* [Become a Member](https://www.ripe.net/membership/member-support/become-a-member/)
+* [LIR Basics for Members](https://www.ripe.net/membership/member-support/lir-basics/)
+* [RIPE NCC Access](https://www.ripe.net/membership/member-support/ripe-ncc-access/)
+* [Member Updates](https://www.ripe.net/membership/member-support/member-updates/)
+* [RIPE NCC Surveys](https://www.ripe.net/membership/member-support/surveys/)
+
+[Join a Discussion](https://www.ripe.net/membership/mail/)
+----------------------------------------------------------
+
+* [Membership Mailing Lists](https://www.ripe.net/membership/mail/ripe-ncc-mailing-lists/)
+* [RIPE Mailing Lists](https://www.ripe.net/membership/mail/ripe-mailing-lists/)
+* [Consultations](https://www.ripe.net/membership/mail/member-and-community-consultations/)
+
+[RIPE NCC Forum](https://www.ripe.net/membership/ripe-ncc-forum/)
+-----------------------------------------------------------------
+
+[General Meetings](https://www.ripe.net/membership/gm/)
+-------------------------------------------------------
+
+[Billing, Payment and Fees](https://www.ripe.net/membership/payment/)
+---------------------------------------------------------------------
+
+* [Billing Procedure 2024](https://www.ripe.net/membership/payment/ripe-ncc-billing-procedure-2024/)
+* [Tax Information](https://www.ripe.net/membership/payment/tax/)
+* [Charging Schemes](https://www.ripe.net/membership/payment/charging-schemes/)
+* [Financial Information](https://www.ripe.net/membership/payment/financial-information/)
+
+Close
+
+[Events](https://www.ripe.net/meetings/)
+
+Events
+------
+
+The RIPE community carries out much of its work through mailing lists, but face-to-face meetings are equally important.
+
+[Visit page](https://www.ripe.net/meetings/)
+
+[RIPE Meetings](https://www.ripe.net/meetings/ripe-meetings/)
+-------------------------------------------------------------
+
+* [Sponsorship](https://www.ripe.net/meetings/ripe-meetings/sponsorship/)
+* [Presenting at a RIPE Meeting](https://www.ripe.net/meetings/ripe-meetings/presenting-at-a-ripe-meeting/)
+* [Programme Committee](https://www.ripe.net/meetings/ripe-meetings/pc/)
+* [Upcoming RIPE Meetings](https://www.ripe.net/meetings/ripe-meetings/upcoming-ripe-meetings/)
+
+[Regional Meetings](https://www.ripe.net/meetings/regional-meetings/)
+---------------------------------------------------------------------
+
+* [CAPIF](https://www.ripe.net/meetings/regional-meetings/capif/)
+* [South East Europe (SEE) Meetings](https://www.ripe.net/meetings/regional-meetings/see/)
+* [RIPE NCC Days](https://www.ripe.net/meetings/regional-meetings/ripe-ncc-days/)
+* [Next Regional Meetings](https://www.ripe.net/meetings/regional-meetings/next-regional-meetings/)
+
+[Roundtable Meetings](https://www.ripe.net/meetings/roundtable/)
+----------------------------------------------------------------
+
+* [Previous Meetings](https://www.ripe.net/meetings/roundtable/previous-meetings/)
+
+[General Meetings](https://www.ripe.net/meetings/general-meetings/)
+-------------------------------------------------------------------
+
+[Open House](https://www.ripe.net/meetings/open-house/)
+-------------------------------------------------------
+
+* [Previous Events](https://www.ripe.net/meetings/open-house/previous-events/)
+
+[Upcoming Events](https://www.ripe.net/meetings/calendar/)
+----------------------------------------------------------
+
+[Event Sponsorship](https://www.ripe.net/meetings/event-sponsorship/)
+---------------------------------------------------------------------
+
+Close
+
+[Support](https://www.ripe.net/support/)
 
 Support
 -------
@@ -260,7 +306,7 @@ We support members and the RIPE community through several channels to offer time
 ------------------------------------------------------------
 
 * [Developer Documentation](https://www.ripe.net/support/documentation/developer-documentation/)
-* [Quarterly Planning](https://www.ripe.net/support/documentation/quarterly-planning/)
+* [Quarterly Plans](https://www.ripe.net/support/documentation/quarterly-planning/)
 * [RIPE Atlas Documentation](https://www.ripe.net/support/documentation/ripe-database/)
 * [RIPE Database Documentation](https://www.ripe.net/support/documentation/ripe-database-documentation/)
 * [RIS Documentation](https://www.ripe.net/support/documentation/ris-documentation/)
@@ -283,7 +329,7 @@ We support members and the RIPE community through several channels to offer time
 
 Close
 
-* [Publications](https://www.ripe.net/publications/)
+[Publications](https://www.ripe.net/publications/)
 
 Publications
 ------------
@@ -326,7 +372,7 @@ Stay informed about everything Internet-related, from RIPE Policy and RIPE NCC m
 
 Close
 
-* [About](https://www.ripe.net/about-us/)
+[About](https://www.ripe.net/about-us/)
 
 About
 -----
@@ -469,7 +515,7 @@ Use of the RIPE Database is subject to the [RIPE Database Terms and Conditions](
 
 [![RIPE Community logo](/static/images/ripe-community-logo.svg)](https://www.ripe.net/community/)
 
-[Working Groups](https://www.ripe.net/community/wg/) [Task Forces](https://www.ripe.net/community/tf/) [RIPE 88](https://www.ripe.net/membership/meetings/calendar/ripe-88/) [How to Participate](https://www.ripe.net/community/how-to-participate/)
+[Working Groups](https://www.ripe.net/community/wg/) [Task Forces](https://www.ripe.net/community/tf/) [RIPE 88](https://www.ripe.net/meetings/calendar/ripe-88/) [How to Participate](https://www.ripe.net/community/how-to-participate/)
 
 [![RIPE NCC Homepage](/static/images/ripe-ncc-logo.svg)](https://www.ripe.net/)
 
@@ -496,31 +542,43 @@ Use of the RIPE Database is subject to the [RIPE Database Terms and Conditions](
 * [Archived Projects](https://www.ripe.net/analyse/archived-projects/)
 * [Sponsorship](https://www.ripe.net/analyse/data-and-measurements-sponsorship/)
 
-[Participate](https://www.ripe.net/membership/)
------------------------------------------------
-
-* [RIPE NCC Membership](https://www.ripe.net/membership/member-support/)
-* [Meetings and Events](https://www.ripe.net/membership/meetings/)
-* [Policy Development](https://www.ripe.net/membership/policies/)
-* [Join a Discussion](https://www.ripe.net/membership/mail/)
-* [Internet Governance](https://www.ripe.net/membership/internet-governance/)
-* [RIPE NCC Forum](https://www.ripe.net/membership/ripe-ncc-forum/)
-
 [Community](https://www.ripe.net/community/)
 --------------------------------------------
 
 * [The RIPE Chair Team](https://www.ripe.net/community/chair/)
-* [RIPE Code of Conduct](https://www.ripe.net/community/code-of-conduct/)
 * [Working Groups](https://www.ripe.net/community/wg/)
+* [Task Forces](https://www.ripe.net/community/tf/)
+* [Policy Development](https://www.ripe.net/community/policies/)
+* [Internet Governance](https://www.ripe.net/community/internet-governance/)
+* [RIPE Code of Conduct](https://www.ripe.net/community/code-of-conduct/)
 * [RIPE Community Plenary](https://www.ripe.net/community/ripe-community-plenary/)
 * [Diversity](https://www.ripe.net/community/diversity/)
-* [Task Forces](https://www.ripe.net/community/tf/)
-* [NRO NC/ASO AC](https://www.ripe.net/community/address-council-election-procedure/)
 * [Academic Cooperation (RACI)](https://www.ripe.net/community/raci/)
 * [RIPE Fellowship](https://www.ripe.net/community/ripe-fellowship/)
-* [Rob Blokzijl Foundation](https://www.ripe.net/community/rob-blokzijl-foundation/)
 * [How to Participate](https://www.ripe.net/community/how-to-participate/)
 * [Support Community Initiatives](https://www.ripe.net/community/support-community-initiatives/)
+* [NRO NC/ASO AC](https://www.ripe.net/community/address-council-election-procedure/)
+* [Rob Blokzijl Foundation](https://www.ripe.net/community/rob-blokzijl-foundation/)
+
+[Membership](https://www.ripe.net/membership/)
+----------------------------------------------
+
+* [RIPE NCC Membership](https://www.ripe.net/membership/member-support/)
+* [Join a Discussion](https://www.ripe.net/membership/mail/)
+* [RIPE NCC Forum](https://www.ripe.net/membership/ripe-ncc-forum/)
+* [General Meetings](https://www.ripe.net/membership/gm/)
+* [Billing, Payment and Fees](https://www.ripe.net/membership/payment/)
+
+[Events](https://www.ripe.net/meetings/)
+----------------------------------------
+
+* [RIPE Meetings](https://www.ripe.net/meetings/ripe-meetings/)
+* [Regional Meetings](https://www.ripe.net/meetings/regional-meetings/)
+* [Roundtable Meetings](https://www.ripe.net/meetings/roundtable/)
+* [General Meetings](https://www.ripe.net/meetings/general-meetings/)
+* [Open House](https://www.ripe.net/meetings/open-house/)
+* [Upcoming Events](https://www.ripe.net/meetings/calendar/)
+* [Event Sponsorship](https://www.ripe.net/meetings/event-sponsorship/)
 
 [Support](https://www.ripe.net/support/)
 ----------------------------------------
