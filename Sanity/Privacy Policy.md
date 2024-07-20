@@ -1,6 +1,6 @@
 [Skip to content](#mainContentBlock)
 
-[🔮 Sanity Create is here. Writing is reinvented. Try now, no developer setup](https://www.sanity.io/create?ref=banner)
+[Go Behind the Experience to see how Tecovas brings the West to life with Sanity 🤠 July 18th](https://www.sanity.io/events/tecovas-bts?ref=banner&utm_source=websitebanner)
 
 [Sanity](https://www.sanity.io/)
 
@@ -425,21 +425,7 @@ For any questions or concerns, please contact us at [legal@sanity.io](mailto:leg
 Product
 -------
 
-[Sanity Studio](https://www.sanity.io/studio)[APIs](https://www.sanity.io/developer-experience)[Content Lake](https://www.sanity.io/content-lake)[AI Assist](https://www.sanity.io/ai-assist)[Security & Compliance](https://www.sanity.io/security)
-
-Compare Sanity
-
-* [Sanity vs Contentful](https://www.sanity.io/contentful-vs-sanity)
-* [Sanity vs Strapi](https://www.sanity.io/sanity-vs-strapi)
-* [Sanity vs Wordpress](https://www.sanity.io/sanity-vs-wordpress)
-* [Sanity vs AEM](https://www.sanity.io/aem-vs-sanity)
-* [Sanity vs Hygraph](https://www.sanity.io/hygraph-vs-sanity)
-* [Sanity vs Sitecore](https://www.sanity.io/sitecore-vs-sanity)
-* [Sanity vs Storyblok](https://www.sanity.io/storyblok-vs-sanity)
-* [Sanity vs Contentstack](https://www.sanity.io/sanity-vs-contentstack)
-* [Sanity vs Prismic](https://www.sanity.io/sanity-vs-prismic)
-* [Sanity vs Drupal](https://www.sanity.io/drupal-vs-sanity)
-* [Sanity vs Payload](https://www.sanity.io/sanity-vs-payload)
+[Sanity Studio](https://www.sanity.io/studio)[APIs](https://www.sanity.io/developer-experience)[Content Lake](https://www.sanity.io/content-lake)[AI Assist](https://www.sanity.io/ai-assist)[Security & Compliance](https://www.sanity.io/security)[Compare Sanity](https://www.sanity.io/compare-sanity)[Industries](https://www.sanity.io/industry-cms)
 
 Resources
 ---------
@@ -458,6 +444,7 @@ Guides
 * [Developer Portfolio Templates](https://www.sanity.io/guides/best-developer-portfolio-templates)
 * [Form validation with Yup](https://www.sanity.io/guides/form-validation-with-npm-yup)
 * [Live Preview with Next.js and Sanity.io](https://www.sanity.io/guides/nextjs-live-preview)
+* [Sanity Create task guides](https://www.sanity.io/create-task-guides)
 
 Templates
 
@@ -513,10 +500,6 @@ CMS
 * [Agile CMS](https://www.sanity.io/agile-cms)
 * [Eleventy CMS](https://www.sanity.io/11ty-cms)
 * [Multisite CMS](https://www.sanity.io/multi-site-cms)
-* [Restaurant CMS](https://www.sanity.io/restaurant-cms)
-* [Insurance CMS](https://www.sanity.io/insurance-cms)
-* [Healthcare CMS](https://www.sanity.io/healthcare-cms)
-* [Event management CMS](https://www.sanity.io/event-management-cms)
 
 Company
 -------
