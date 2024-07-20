@@ -1,6 +1,6 @@
 [![Stardust Logo](images/Stardust-Logo.svg)](https://stardust.app/index.html)
 
-[About Us](https://stardust.app/about-us.html) [About Your Data](https://stardust.app/about-your-data.html)
+[About Us](https://stardust.app/about-us.html) [About Your Data](https://stardust.app/about-your-data.html) [Shop](https://shop.stardust.app/)
 
 [Download app](#)
 
