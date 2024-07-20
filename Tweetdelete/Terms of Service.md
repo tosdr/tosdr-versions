@@ -7,7 +7,7 @@
     
     [See deleted tweets](https://tweetdelete.net/see-deleted-tweets/) [Unlike tweets](https://tweetdelete.net/unlike-tweets/) [Delete multiple tweets](https://tweetdelete.net/delete-multiple-tweets/) [Auto delete tweets](https://tweetdelete.net/auto-delete-tweets/) [Delete tweets from archive](https://tweetdelete.net/delete-tweets-from-archive/) [Delete all my tweets](https://tweetdelete.net/delete-all-my-tweets/)
     
-* [Sign in with Twitter](https://tweetdelete.net/login/)
+* [Sign in with X.com](https://tweetdelete.net/login/)
 
 Terms of Service
 ----------------
@@ -327,10 +327,10 @@ These Terms of Use and any policies or operating rules posted by us on the Site 
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: **support@tweetdelete.net**
 
-Delete Your Tweets. Clean Up  
-Your Twitter Feed.
+Delete Your Tweets.  
+Clean Up Your Twitter Feed on X.
 
-[Sign in with Twitter](https://tweetdelete.net/login/)
+[Sign in with X.com](https://tweetdelete.net/login/)
 
 © 2024 TweetDelete . All Rights Reserved
 
