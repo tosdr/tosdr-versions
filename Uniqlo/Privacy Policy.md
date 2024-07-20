@@ -330,11 +330,11 @@ Make no response)
 
 * [Accessibility](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmwy&l=en_US&fs=RelatedArticle)
 
-* [FIND YOUR TREASURE UT CONTEST](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA3Ie000000006E&l=en_US&fs=RelatedArticle)
-
 * [How can I order online?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gn0l&l=en_US&fs=RelatedArticle)
 
 * [Why I cannot access the UNIQLO website? Why still on maintenance mode?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmxm&l=en_US&fs=RelatedArticle)
+
+* [Can I return underwear or swimwear?](https://faq-id.uniqlo.com/pkb_Home_UQ_ID?id=kA32t000000Gmr0&l=en_US&fs=RelatedArticle)
 
 Search by category
 ------------------
