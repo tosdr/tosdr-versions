@@ -36,6 +36,8 @@ Oops! Something went wrong while submitting the form.
 
 [Global card](https://static.xapo.com/banking-services/global-debit-card)
 
+[Global card](https://static.xapo.com/banking-services/global-debit-card-eu)
+
 [Dedicated account manager](https://static.xapo.com/banking-services/account-manager)
 
 [Wealth](https://static.xapo.com/wealth)![Arrow](https://cdn.prod.website-files.com/63e50679266c6f4d3006bade/63ea4ccd23e4ab3a0bc9a27f_arrow%20down.svg)
