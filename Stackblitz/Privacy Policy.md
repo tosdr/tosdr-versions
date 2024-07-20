@@ -1,7 +1,3 @@
-Join our design systems event in SF on 6/26
-
-[Learn More](https://lu.ma/config-after-hours)
-
 [StackBlitz](https://stackblitz.com/)
 
 Toggle Menu
