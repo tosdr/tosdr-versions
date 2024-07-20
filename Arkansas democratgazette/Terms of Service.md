@@ -21,6 +21,7 @@
     * [Obituaries](https://www.arkansasonline.com/obituaries/)
     * [Archives](https://www.arkansasonline.com/archivesearch/)
     * [Weather](https://www.arkansasonline.com/localweather/)
+    * [National Conventions](https://www.arkansasonline.com/news/national-conventions/)
 * ### Sports
     
     * [All Sports](https://www.arkansasonline.com/news/sports/?page=1)
@@ -115,20 +116,19 @@ Open user options menu
 * [Sign In](https://www.arkansasonline.com/auth/login?r=//www.arkansasonline.com/tools/termsofuse/)
 * [Subscribe](https://subscribe.arkansasonline.com/subscription/arkansas-democrat-gazette/?utm_source=id&utm_medium=website&utm_campaign=default&utm_term=39&utm_content=sub_button)
 
-* [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [Home](https://www.arkansasonline.com/)
-* [LEARNS](https://www.arkansasonline.com/learns_act/)
+* [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
-* [Sports](https://www.arkansasonline.com/news/sports/)
+* [National Conventions](https://www.arkansasonline.com/news/national-conventions/)
 * [Politics](https://www.arkansasonline.com/news/news/politics/arkansas/)
-* [Legislature](https://www.arkansasonline.com/legislature/)
+* [Sports](https://www.arkansasonline.com/news/sports/)
 * [Business](https://www.arkansasonline.com/news/business/)
+* [LEARNS](https://www.arkansasonline.com/learns_act/)
 * [Opinion](https://www.arkansasonline.com/news/opinions/)
 * [Lifestyle](https://www.arkansasonline.com/news/features/style/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
 * [Obits](https://www.arkansasonline.com/obituaries/)
 * [Newsletters](https://newsletters.arkansasonline.com/braze/signup/gni/)
-* [Golf](https://www.arkansasonline.com/news/golf/)
 * [Games](https://www.arkansasonline.com/games/)
 
 * [](https://www.facebook.com/arkansasonline/)
@@ -345,6 +345,7 @@ Copyright Associated Press. All rights reserved. This material may not be publis
     * [Obituaries](https://www.arkansasonline.com/obituaries/)
     * [Archives](https://www.arkansasonline.com/archivesearch/)
     * [Weather](https://www.arkansasonline.com/localweather/)
+    * [National Conventions](https://www.arkansasonline.com/news/national-conventions/)
 * ### Sports
     
     * [All Sports](https://www.arkansasonline.com/news/sports/?page=1)
