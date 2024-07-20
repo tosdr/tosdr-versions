@@ -42,7 +42,7 @@ Terms of Service
 Terms of Service
 ----------------
 
-Last Updated: June 17, 2024
+Last Updated: June 26, 2024
 
 Superhuman Labs, Inc. ("**_Superhuman_**," "**_we_**," "**_us_**," "**_our_**") provides its services (described below) through its website located at [https://superhuman.com](https://superhuman.com/) (the "**_Site_**") and through its applications and related services (collectively, such services, including any new features and applications, and the Site, the "**_Service(s)_**"), subject to the following Terms of Service (as amended from time to time, these "**_Terms of Service_**"). These Terms of Service are effective as of the date you and Superhuman enter into an online order or you otherwise complete the online ordering flow on the Service (the “**_Effective Date_**”). If you are accepting these Terms of Service on behalf of your employer, organization or another entity (collectively, an “**_Entity_**”) (which will be deemed to the case if you sign up for a Service using an email address from such Entity), then you represent and warrant that (a) you have read and understand these Terms of Service, (b) you have full legal authority to bind such Entity to these Terms of Service and (c) you agree to these Terms of Service on behalf of such Entity. As used in the remainder of these Terms of Service, “**_You_**” means the Entity you represent in accepting these Terms of Service or, if that does not apply, you individually.
 
