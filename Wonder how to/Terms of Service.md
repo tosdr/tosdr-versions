@@ -6,7 +6,7 @@
 
 [![](https://img.wonderhowto.com/images/logos/wonderhowto.mark.png)](https://www.wonderhowto.com/)
 
-[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/)
+[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/)
 
 WonderHowTo Terms of Use Agreement
 ==================================
@@ -171,8 +171,8 @@ This Agreement was last revised on Dec 1, 2020.
     * [MacGyverisms](https://macgyverisms.wonderhowto.com/)
     * [Mind Hacks](https://mind-hacks.wonderhowto.com/)
     * [Mad Science](https://mad-science.wonderhowto.com/)
-    * [Driverless](https://driverless.wonderhowto.com/)
     * [Lock Picking](https://lock-picking.wonderhowto.com/)
+    * [Driverless](https://driverless.wonderhowto.com/)
 * Categories
     * [Alcohol](https://alcohol.wonderhowto.com/)
     * [Arts & Crafts](https://arts-crafts.wonderhowto.com/)
@@ -213,10 +213,10 @@ This Agreement was last revised on Dec 1, 2020.
     * [Android](https://android.gadgethacks.com/)
         * [Samsung](https://samsung.gadgethacks.com/)
         * [OnePlus](https://oneplus.gadgethacks.com/)
-        * [Nexus](https://nexus5.gadgethacks.com/)
         * [Pixel](https://pixel.gadgethacks.com/)
-        * [Nexus 7](https://nexus7.gadgethacks.com/)
+        * [Nexus](https://nexus5.gadgethacks.com/)
         * [HTC One](https://htc-one.gadgethacks.com/)
+        * [Nexus 7](https://nexus7.gadgethacks.com/)
         * [Amazon Fire](https://fire.gadgethacks.com/)
         * [LG G3](https://lg-g3.gadgethacks.com/)
     * [Smartphones](https://smartphones.gadgethacks.com/)
@@ -227,19 +227,19 @@ This Agreement was last revised on Dec 1, 2020.
         * [iOS & iPhone](https://ios.gadgethacks.com/)
         * [Mac OS Tips](https://macos.gadgethacks.com/)
         * [iPadOS](https://ipados.gadgethacks.com/)
-        * [Apple Airpods](https://airpods.gadgethacks.com/)
         * [Apple watchOS](https://watchos.gadgethacks.com/)
+        * [Apple Airpods](https://airpods.gadgethacks.com/)
         * [Apple tvOS](https://tvos.gadgethacks.com/)
-    * [Internet](https://internet.gadgethacks.com/)
     * [Cord Cutters](https://cord-cutters.gadgethacks.com/)
-    * [Hacks, Mods & Circuitry](https://mods-n-hacks.gadgethacks.com/)
+    * [Internet](https://internet.gadgethacks.com/)
     * [Digiwonk](https://digiwonk.gadgethacks.com/)
+    * [Hacks, Mods & Circuitry](https://mods-n-hacks.gadgethacks.com/)
     * [Windows Tips](https://windows.gadgethacks.com/)
     * [Tablets](https://tablets.gadgethacks.com/)
-    * [The Hookup](https://the-hookup.gadgethacks.com/)
     * [Tech Pr0n](https://tech-pr0n.gadgethacks.com/)
-    * [Roku](https://roku.gadgethacks.com/)
+    * [The Hookup](https://the-hookup.gadgethacks.com/)
     * [Chrome OS](https://chromeos.gadgethacks.com/)
+    * [Roku](https://roku.gadgethacks.com/)
 * Next Reality Sites
     * [**Next Reality Home**](https://next.reality.news/)
     * [Augmented Reality News](https://augmented.reality.news/)
@@ -250,8 +250,8 @@ This Agreement was last revised on Dec 1, 2020.
         * [Magic Leap](https://magic-leap.reality.news/)
         * [Meta 2](https://meta.reality.news/)
     * [Virtual Reality News](https://virtual.reality.news/)
-        * [HTC Vive](https://vive.reality.news/)
         * [Mobile VR News](https://mobile-vr.reality.news/)
+        * [HTC Vive](https://vive.reality.news/)
         * [Oculus Rift](https://oculus.reality.news/)
 * About
     
