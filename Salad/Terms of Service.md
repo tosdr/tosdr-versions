@@ -20,6 +20,10 @@ K8 pods as container deployments](https://salad.com/virtual-kubelet)
 
 The lowest priced AI transcription in the market](https://salad.com/transcription)
 
+[Salad Dreambooth API
+
+The lowest priced Stable Diffusion API in the market](https://salad.com/dreambooth-api)
+
 [Pricing](https://salad.com/pricing)
 
 Use Cases
@@ -42,9 +46,7 @@ Save 50% or more on cloud cost](https://salad.com/computer-vision)
 
 Scale easily at 90% less cost than incumbents](https://salad.com/batch)[Language Models
 
-Custom LLMs at low cost without sharing compute](https://salad.com/language-models)[Dreambooth API
-
-The lowest priced Stable Diffusion finetuning API in the market](https://salad.com/dreambooth-api)[Molecular Dynamics
+Custom LLMs at low cost without sharing compute](https://salad.com/language-models)[Molecular Dynamics
 
 Scale easily on 1000s of Nvidia consumer GPUs](https://salad.com/molecular-dynamics)
 
