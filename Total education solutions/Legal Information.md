@@ -132,7 +132,7 @@ International schoolsUK editionAustralia edition
 Privacy Notice
 ==============
 
-LAST UPDATED 17 JUNE 2024 Open all
+LAST UPDATED 14 JULY 2024 Open all
 
 Latest Changes to this Policy
 
@@ -460,6 +460,8 @@ Back to top
         
     * [Partnerships](https://www.tes.com/corporate/partnerships)
         
+    * [Legal terms and policies](https://www.tes.com/en-gb/policies/overview)
+        
     
 * [Jobs](https://www.tes.com/jobs/) Open
     
@@ -521,25 +523,10 @@ Back to top
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
     
-* [Legal stuff](https://www.tes.com/terms-conditions/terms-and-conditions) Open
-    
-    * [General Terms of Business](https://www.tes.com/en-gb/policies/general-terms-business)
-        
-    * [Terms and conditions](https://www.tes.com/terms-conditions/terms-and-conditions)
-        
-    * [Privacy notice](https://www.tes.com/terms-conditions/privacy-policy)
-        
-    * [Accessibility statement](https://www.tes.com/terms-conditions/accessibility)
-        
-    * [Fair recruitment policy](https://www.tes.com/fair-recruitment-policy)
-        
-    * [Modern slavery statement](https://www.tes.com/policies/modern-slavery-statement)
-        
-    * [Takedown policy](https://www.tes.com/terms-conditions/content-objections#takedown)
-        
-    
 * [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
     
+    * [Safeguarding](https://www.tes.com/en-gb/advice-hub/safeguarding)
+        
     * [Get into teaching](https://www.tes.com/en-gb/advice-hub/get-into-teaching)
         
     * [Early career teachers](https://www.tes.com/en-gb/advice-hub/early-career-teachers)
