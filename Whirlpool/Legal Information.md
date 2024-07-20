@@ -30,6 +30,7 @@
     * [ENVIRONMENTAL IMPACT](#)
         * [SUSTAINABLE PRODUCTS](https://www.whirlpoolcorp.com/our-impact/environmental-impact/sustainable-products/)
         * [SUSTAINABLE OPERATIONS](https://www.whirlpoolcorp.com/our-impact/environmental-impact/sustainable-operations/)
+        * [HOME APPLIANCE REBATES](https://www.whirlpoolcorp.com/home-appliance-rebates/)
     * [SOCIAL IMPACT](#)
         * [SOCIAL RESPONSIBILITY](https://www.whirlpoolcorp.com/our-impact/social-impact/social-reponsibility/)
         * [INCLUSION & DIVERSITY](https://www.whirlpoolcorp.com/our-impact/social-impact/inclusion-and-diversity/)
