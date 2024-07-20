@@ -233,6 +233,7 @@ For Insurance.
 * [Terms of Use](https://smartfinancial.com/terms-of-use)
 * [California Privacy Choices](https://smartfinancial.com/privacy-policy#special-notice-california)
 * [Cookies and Other Technology](https://smartfinancial.com/privacy-policy#cookies-and-technologies)
+* [Washington Consumer MHMDA Policy](https://smartfinancial.com/washington-consumer-mhmda-policy)
 
 © 2024 SmartFinancial.com Ins LLC DBA SmartFinancial Insurance. All rights reserved. SmartFinancial Insurance is a digital insurance comparison engine, providing real-time rates and insurance services in all 50 states through its relationships with carrier and agency partners.  
 As part of our ongoing effort to provide you with the best possible service, SmartFinancial and its Service Providers may monitor and/or record and retain all activity on this website and its applicable links, for informational and quality control purposes.
