@@ -46,6 +46,10 @@
 
 [Connected Life Platform](https://one.singledigits.com/)
 
+[Training and How To](https://www.singledigits.com/training-and-how-to)
+
+[Login Account](#)
+
 [CONTACT](https://www.singledigits.com/contact)
 
 Open Menu Close Menu
@@ -93,6 +97,10 @@ Open Menu Close Menu
 [Broadband Authentication Platform (BAP)](https://console.aws.opennetworkexchange.net/)
 
 [Connected Life Platform](https://one.singledigits.com/)
+
+[Training and How To](https://www.singledigits.com/training-and-how-to)
+
+[Login Account](#)
 
 [CONTACT](https://www.singledigits.com/contact)
 
@@ -143,6 +151,10 @@ Open Menu Close Menu
 [Broadband Authentication Platform (BAP)](https://console.aws.opennetworkexchange.net/)
 
 [Connected Life Platform](https://one.singledigits.com/)
+
+[Training and How To](https://www.singledigits.com/training-and-how-to)
+
+[Login Account](#)
 
 [CONTACT](https://www.singledigits.com/contact)
 
