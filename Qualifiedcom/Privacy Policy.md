@@ -122,11 +122,11 @@ Tools
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/resources/roi-calculator)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6669ce143029c2b24a7d7b51_nav-ai-workforce.svg)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/666352104648f4ab927b642a_ai-workforce-summit.svg)
 
-Save your spot for the  AI Workforce Summit!
+Catch up on what you missed at AI Workforce summit
 
-[Register Now](https://www.qualified.com/ai-workforce-summit)
+[Watch Now](https://www.qualified.com/events)
 
 Say hello to
 
@@ -745,9 +745,9 @@ Functional Cookies
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6669c8225c719d063ef54937_ai-workforce-summit_footer.svg)
 
-### Join thought leaders as they discuss the role of the AI Worker.
+### Hear how thought leaders are thinking about AI Workers.
 
-[Register Now](https://www.qualified.com/ai-workforce-summit)
+[Watch Now](https://www.qualified.com/events)
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/661946d8571bf6281ff9d4a0_Piper%20Profile.png)
 
@@ -807,7 +807,7 @@ EDUCATION
 
 Qualified University
 
-[Qualified University](https://www.qualified.com/university)[Courses & Certifications](http://qualified.mindtickle.com/)[Release Notes](https://www.qualified.com/university/articles/release-notes/qualified-product-releases)[Implementation Process](https://www.qualified.com/implementation)[Qualified Certification](https://www.qualified.com/what-is-conversational-marketing)
+[Qualified University](https://www.qualified.com/university)[Courses & Certifications](http://qualified.mindtickle.com/)[Implementation Process](https://www.qualified.com/implementation)[Qualified Certification](https://www.qualified.com/what-is-conversational-marketing)
 
 [![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/64cd0693f26bbf28db36c56d_x%20(1).svg)](https://twitter.com/tryqualified)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/616dfb6e8a78957b9c46b692_linkedin-icon.svg)](https://www.linkedin.com/company/qualified-com)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/61b75eb615aea8eaa5df705f_youtube.svg)](https://www.youtube.com/channel/UC-iqN0z_M9kE2FWRIaTBIcQ)[![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/61b75ecfb1ca998bd3515aa3_instagram.svg)](https://www.instagram.com/tryqualified/?hl=en)
 
