@@ -117,7 +117,7 @@ Bring iconic names in media and entertainment into your games with exclusive, ti
 
 [SEE OUR COLLABORATIONS](https://home.yodo1.com/ip-licensing-collaborations/)
 
-![](https://www.yodo1.com/wp-content/uploads/2024/01/Launch-IP-Based-In-Game-Events-2-1019x1024.png "Launch IP Based In Game Events | Yodo1 | Yodo1")
+![Launch IP Based In Game Events](https://www.yodo1.com/wp-content/uploads/2024/01/Launch-IP-Based-In-Game-Events-2-1019x1024.png "Launch IP Based In Game Events | Yodo1 | Yodo1")
 
 ![Brand Games With Growth Publishing in China](https://www.yodo1.com/wp-content/uploads/2023/11/Logo-Growth.png "Brand Games With Growth Publishing in China | Yodo1 | Yodo1")
 
@@ -204,21 +204,19 @@ Previous
 
 Next
 
-READY TO GROW YOUR MOBILE GAME?
--------------------------------
+#### READY TO GROW YOUR MOBILE GAME?
 
 We'll Make It Happen.
 ---------------------
 
-Get in Touch Today!
--------------------
+### Get in Touch Today!
 
 [BOOK MY DISCOVERY CALL](https://meetings.hubspot.com/rafay-khan/30-min?uuid=fc929fe2-a9e7-430e-a35e-a70b5735576a)
 
 Featured on Our Blog
 --------------------
 
-[![#image_title](https://www.yodo1.com/wp-content/uploads/2024/02/rom-an-ISBN-to-a-Successful-Launch-How-Tap-Titans-2-Got-Published-in-China-preview-image.jpg "rom an ISBN to a Successful Launch How Tap Titans 2 Got Published in China preview image")](https://www.yodo1.com/from-an-isbn-to-a-successful-launch-how-tap-titans-2-got-published-in-china/)
+[![How Tap Titans 2 Got Published in China](https://www.yodo1.com/wp-content/uploads/2024/02/rom-an-ISBN-to-a-Successful-Launch-How-Tap-Titans-2-Got-Published-in-China-preview-image.jpg "rom an ISBN to a Successful Launch How Tap Titans 2 Got Published in China preview image")](https://www.yodo1.com/from-an-isbn-to-a-successful-launch-how-tap-titans-2-got-published-in-china/)
 
 [### From an ISBN to a Successful Launch: How Tap Titans 2 Got Published in China](https://www.yodo1.com/from-an-isbn-to-a-successful-launch-how-tap-titans-2-got-published-in-china/)
 
@@ -243,7 +241,7 @@ Grow your career in a fun and fast-expanding industry with a global company that
 
 Simplifying mobile game growth.
 
-[](https://www.linkedin.com/company/yodo1/)[](https://www.instagram.com/yodo1games/)[](https://www.facebook.com/Yodo1Games/)[](https://twitter.com/yodo1games)
+[LinkedIn](https://www.linkedin.com/company/yodo1/) [Instagram](https://www.instagram.com/yodo1games/) [Facebook Icon](https://www.facebook.com/Yodo1Games/) [Twitter](https://twitter.com/yodo1games)
 
 * [Licensing](https://www.yodo1.com/ip-licensing/)
 * [Growth Program](https://www.yodo1.com/mobile-game-growth/)
@@ -278,7 +276,7 @@ Simplifying mobile game growth.
 [Privacy Policy](https://www.yodo1.com/privacy/) | [Terms of Service](https://www.yodo1.com/terms/) | [SDK License Agreement](https://www.yodo1.com/sdk-license-agreement/)  
 © Yodo1 Ltd. 2024 | All rights reserved.
 
-![](https://www.yodo1.com/wp-content/uploads/2024/03/FanCraft-Logo-Invert.svg "FanCraft Logo Invert | Yodo1")
+![FanCraft Logo](https://www.yodo1.com/wp-content/uploads/2024/03/FanCraft-Logo-Invert.svg "FanCraft Logo Invert | Yodo1")
 
 Has Launched
 ------------
