@@ -13,15 +13,27 @@ The World's Smartest Resume Builder
     
     [Resume Builder Software](https://resumegenius.com/resume-builder/app/how-to-start)
     
-     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)Making a resume is easy with the right tool. Our resume builder does the hard work for you.
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/resume-builder-nav.png?w=768)
+    
+    Making a resume is easy with the right tool. Our resume builder does the hard work for you.
     
     [Cover Letter Generator](https://resumegenius.com/cover-letter-builder/app/)
     
-     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)Short on time or simply don't like writing? Try our cover letter generator and make a cover letter fast.
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cover-letter-generator-nav.png?w=768)
+    
+    Short on time or simply don't like writing? Try our cover letter generator and make a cover letter fast.
     
     [CV Maker Tool](https://resumegenius.com/resume-builder/app/how-to-start)
     
-     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)CVs are often longer than resumes. With our CV maker, you can create a CV in the same amount of time.
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cv-maker.png?w=768)
+    
+    CVs are often longer than resumes. With our CV maker, you can create a CV in the same amount of time.
     
     Monday to Friday, 8AM – 12AM (Midnight) and Saturdays and Sundays, 10AM – 6PM EDT [(866) 215-9048](tel:8662159048)
     
@@ -35,25 +47,49 @@ The World's Smartest Resume Builder
     
     HR approved, organized, and stylish.](https://resumegenius.com/resume-templates/professional-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/briefcase-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/briefcase-filled.svg)
     
     [Modern
     
     Contemporary templates perfect for your new job.](https://resumegenius.com/resume-templates/modern-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cube-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cube-filled.svg)
     
     [Creative
     
     A little visual flair to highlight your creativity.](https://resumegenius.com/resume-templates/creative-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/bulb-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/bulb-filled.svg)
     
     [Simple
     
     Basic templates that focus on your work experience.](https://resumegenius.com/resume-templates/basic-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/smile-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/smile-filled.svg)
     
     [Genius Resume Builder](https://resumegenius.com/)
     
@@ -65,7 +101,21 @@ The World's Smartest Resume Builder
     
     [Resume Examples](https://resumegenius.com/resume-samples)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/resume-example-nav.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/resume-example-nav.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/resume-example-nav.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/resume-example-nav.png?w=800)
     
     Monday to Friday, 8AM – 12AM (Midnight) and Saturdays and Sundays, 10AM – 6PM EDT [(866) 215-9048](tel:8662159048)
     
@@ -79,25 +129,49 @@ The World's Smartest Resume Builder
     
     HR approved, organized, and stylish.](https://resumegenius.com/cover-letter-templates/professional-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/briefcase-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/briefcase-filled.svg)
     
     [Modern
     
     Contemporary templates perfect for your new job.](https://resumegenius.com/cover-letter-templates/modern-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cube-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cube-filled.svg)
     
     [Creative
     
     A little visual flair to highlight your creativity.](https://resumegenius.com/cover-letter-templates/creative-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/bulb-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/bulb-filled.svg)
     
     [Simple
     
     Basic templates that focus on your work experience.](https://resumegenius.com/cover-letter-templates/basic-simple-templates)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/smile-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/smile-filled.svg)
     
     [Genius Cover Letter Generator](https://resumegenius.com/cover-letter-builder)
     
@@ -109,7 +183,21 @@ The World's Smartest Resume Builder
     
     [Cover Letter Examples](https://resumegenius.com/cover-letter-examples)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cover-letter-example-2.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cover-letter-example-2.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cover-letter-example-2.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cover-letter-example-2.png?w=800)
     
     Monday to Friday, 8AM – 12AM (Midnight) and Saturdays and Sundays, 10AM – 6PM EDT [(866) 215-9048](tel:8662159048)
     
@@ -123,25 +211,49 @@ The World's Smartest Resume Builder
     
     Professional CV templates for senior-level positions.](https://resumegenius.com/cv-template#business)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/briefcase-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/briefcase-filled.svg)
     
     [Graduate
     
     Templates for academics and scholars.](https://resumegenius.com/cv-template#graduate)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/graduation-cap-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/graduation-cap-filled.svg)
     
     [Research
     
     A format to showcase your research background.](https://resumegenius.com/cv-template#research)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/book-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/book-filled.svg)
     
     [Writer
     
     Perfect templates for published writers.](https://resumegenius.com/cv-template#writer)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/glasses-line.svg)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/glasses-filled.svg)
     
     [Genius CV Maker](https://resumegenius.com/cv-maker)
     
@@ -153,7 +265,21 @@ The World's Smartest Resume Builder
     
     [CV Examples](https://resumegenius.com/cv-examples)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cv-example-nav.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cv-example-nav.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cv-example-nav.png?w=800)
+    
+    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/cv-example-nav.png?w=800)
     
     Monday to Friday, 8AM – 12AM (Midnight) and Saturdays and Sundays, 10AM – 6PM EDT [(866) 215-9048](tel:8662159048)
     
@@ -163,14 +289,32 @@ The World's Smartest Resume Builder
     
     [FAQS](https://resumegenius.com/faq)
     
-    *  ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)Technical Assistance
-    *  ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)Resume FAQs
-    *  ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)Cover Letter FAQs
-    *  ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)CV FAQs
+    * ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](https://resumegenius.com/wp-content/uploads/technical-assistance-nav-icon.svg)
+        
+        Technical Assistance
+    * ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](https://resumegenius.com/wp-content/uploads/resume-faqs-nav-icon.svg)
+        
+        Resume FAQs
+    * ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](https://resumegenius.com/wp-content/uploads/cover-letter-faqs-nav-icon.svg)
+        
+        Cover Letter FAQs
+    * ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ![](https://resumegenius.com/wp-content/uploads/cv-faqs-nav-icon.svg)
+        
+        CV FAQs
     
     [Blog](https://resumegenius.com/blog)
     
     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/career-advice-nav.png?w=488)
     
     [Resume Help](https://resumegenius.com/blog/resume-help)
     
@@ -178,11 +322,15 @@ The World's Smartest Resume Builder
     
     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![](https://resumegenius.com/wp-content/uploads/job-hunting-nav.png?w=488)
+    
     [Cover Letter Help](https://resumegenius.com/blog/cover-letter-help)
     
     Cover letter writing is a skill that will help you outshine other applicants. Our guides can teach you that skill.
     
     ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://resumegenius.com/wp-content/uploads/interview-help-nav.png?w=488)
     
     [Interview Help](https://resumegenius.com/blog/interview)
     
@@ -462,8 +610,6 @@ Member of
 
 ResumeGenius.com is owned and operated by Sonaga Tech Limited, Hamilton, Zweigniederlassung Luzern with offices in Luzern Switzerland.
 
-Scroll to top
-
 Close
 
 Thanks for downloading our free template!
@@ -473,6 +619,10 @@ Would you leave us a review?
 
 We hope we’ve helped you on your path to career success. If you have time, a quick review would really make our day (it'll only take 15 seconds). Thanks again, and good luck!
 
+ ![Star Summary](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.6 / 5 Based on [38705 reviews](https://www.trustpilot.com/review/resumegenius.com) powered by ![logo](/wp-content/plugins/trustpilot/images/logo.svg) 
+
 [Leave My Review](https://www.trustpilot.com/review/resumegenius.com)
 
 [Share to X (twitter)](https://twitter.com/share?text=I+downloaded+a+free+template+from+%40TheResumeGenius%21+%23JobSearch+%23ResumeGenius&url=https%3A%2F%2Fresumegenius.com%2Fprivacy-policy)
+
+Scroll to top
