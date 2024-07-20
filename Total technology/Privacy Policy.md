@@ -18,8 +18,6 @@
 * [Partners](https://totaltechnology.com/partners/)
 * [Reach out to us](https://totaltechnology.com/contact/)
 
-![Privacy Policy hero](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201620%20776'%3E%3C/svg%3E "Hero Image Bg")
-
 ![Privacy Policy hero](https://totaltechnology.com/wp-content/uploads/2022/04/hero-image-bg.png "Hero Image Bg")
 
 PRIVACY POLICY FOR TOTAL TECHNOLOGY
@@ -134,7 +132,7 @@ Consent\*
 
 CAPTCHA
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
