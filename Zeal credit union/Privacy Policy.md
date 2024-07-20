@@ -2,45 +2,15 @@
 
 Routing Number: 272477694
 
-[![Facebook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Facebook Social")
+ [![Facebook](https://www.zealcu.org/wp-content/uploads/2020/02/social-fb-white.svg "Facebook Social") ![Follow Zeal Credit Union on Facebook](https://www.zealcu.org/wp-content/uploads/2020/02/social-fb-white.svg "Facebook Social")](https://www.facebook.com/zealcreditunion/)
 
-![Facebook](https://www.zealcu.org/app/uploads/2020/02/social-fb-white.svg "Facebook Social")
+ [![LinkedIn](https://www.zealcu.org/wp-content/uploads/2020/02/social-li-icon_white.png "LinkedIn Social") ![Follow Zeal Credit Union on LinkedIn](https://www.zealcu.org/wp-content/uploads/2020/02/social-li-icon_white.png "LinkedIn Social")](https://www.linkedin.com/company/zeal-credit-union/)
 
-![Facebook](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Facebook Social")
+ [![Twitter](https://www.zealcu.org/wp-content/uploads/2020/02/social-twitter-icon_white.png "Twitter Social") ![Follow Zeal Credit Union on Twitter](https://www.zealcu.org/wp-content/uploads/2020/02/social-twitter-icon_white.png "Twitter Social")](https://twitter.com/zealcreditunion)
 
-![Facebook](https://www.zealcu.org/app/uploads/2020/02/social-fb-white.svg "Facebook Social")](https://www.facebook.com/zealcreditunion/)
+ [![Instagram](https://www.zealcu.org/wp-content/uploads/2020/02/social-insta-white.svg "Instagram Social") ![Follow Zeal Credit Union on Instagram](https://www.zealcu.org/wp-content/uploads/2020/02/social-insta-white.svg "Instagram Social")](https://www.instagram.com/zealcreditunion/)
 
-[![Zeal Credit Union on LinkedIn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "LinkedIn Social")
-
-![Zeal Credit Union on LinkedIn](https://www.zealcu.org/app/uploads/2020/02/social-li-white.svg "LinkedIn Social")
-
-![Zeal Credit Union on LinkedIn](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "LinkedIn Social")
-
-![Zeal Credit Union on LinkedIn](https://www.zealcu.org/app/uploads/2020/02/social-li-white.svg "LinkedIn Social")](https://www.linkedin.com/company/zeal-credit-union/)
-
-[![Follow Zeal Credit Union on Twitter](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Twitter Social")
-
-![Follow Zeal Credit Union on Twitter](https://www.zealcu.org/app/uploads/2020/02/social-twitter-white.svg "Twitter Social")
-
-![Follow Zeal Credit Union on Twitter](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Twitter Social")
-
-![Follow Zeal Credit Union on Twitter](https://www.zealcu.org/app/uploads/2020/02/social-twitter-white.svg "Twitter Social")](https://twitter.com/zealcreditunion)
-
-[![Zeal Credit Union on Instagram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Instagram Social")
-
-![Zeal Credit Union on Instagram](https://www.zealcu.org/app/uploads/2020/02/social-insta-white.svg "Instagram Social")
-
-![Zeal Credit Union on Instagram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Instagram Social")
-
-![Zeal Credit Union on Instagram](https://www.zealcu.org/app/uploads/2020/02/social-insta-white.svg "Instagram Social")](https://www.instagram.com/zealcreditunion/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://www.zealcu.org/app/uploads/YouTube-Icon.webp)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://www.zealcu.org/app/uploads/YouTube-Icon.webp)](https://www.youtube.com/playlist?list=PL3Ut66_hCUc3NHKA9NK74m7Q5g9xJFS-0)
+ [![YouTube](https://www.zealcu.org/wp-content/uploads/YouTube-Icon-1.webp "YouTube Social") ![Follow Zeal Credit Union on YouTube](https://www.zealcu.org/wp-content/uploads/YouTube-Icon-1.webp "YouTube Social")](https://www.youtube.com/playlist?list=PL3Ny94s_EPiPxF2fbLLnzWq4RVOFPe-KS)
 
 [Main Brand](https://www.zealcu.org/)
 
@@ -48,41 +18,41 @@ Routing Number: 272477694
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
-![Locations](https://www.zealcu.org/app/uploads/2020/02/location-icon-orange.svg "location-icon--orange")
+![Locations](https://www.zealcu.org/wp-content/uploads/2020/02/location-icon-orange.svg "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
-![Locations](https://www.zealcu.org/app/uploads/2020/02/location-icon-orange.svg "location-icon--orange")](https://www.zealcu.org/locations/)
+![Locations](https://www.zealcu.org/wp-content/uploads/2020/02/location-icon-orange.svg "location-icon--orange")](https://www.zealcu.org/locations/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.zealcu.org/app/uploads/2020/02/contact-icon-orange-1.svg)
+![](https://www.zealcu.org/wp-content/uploads/2020/02/contact-icon-orange-1.svg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.zealcu.org/app/uploads/2020/02/contact-icon-orange-1.svg)](https://www.zealcu.org/contact-us/)
+![](https://www.zealcu.org/wp-content/uploads/2020/02/contact-icon-orange-1.svg)](https://www.zealcu.org/contact-us/)
 
 [![Login and Personalize](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Login and Personalize](https://www.zealcu.org/app/uploads/2020/02/account_icon_grey-1.svg)
+![Login and Personalize](https://www.zealcu.org/wp-content/uploads/2020/02/account_icon_grey-1.svg)
 
 ![Login and Personalize](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Login and Personalize](https://www.zealcu.org/app/uploads/2020/02/account-icon-orange@2x.png)](# "<? _e('Login and Personalize', 'zeal') ?>")
+![Login and Personalize](https://www.zealcu.org/wp-content/uploads/2020/02/account-icon-orange@2x.png)](# "Login and Personalize")
 
 [![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
-![Locations](https://www.zealcu.org/app/uploads/2020/02/location-icon-orange.svg "location-icon--orange")
+![Locations](https://www.zealcu.org/wp-content/uploads/2020/02/location-icon-orange.svg "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
 ![Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "location-icon--orange")
 
-![Locations](https://www.zealcu.org/app/uploads/2020/02/location-icon-orange.svg "location-icon--orange")](https://www.zealcu.org/locations/)
+![Locations](https://www.zealcu.org/wp-content/uploads/2020/02/location-icon-orange.svg "location-icon--orange")](https://www.zealcu.org/locations/)
 
 Welcome!
 
@@ -162,6 +132,7 @@ Log In
         * [Scholarships](https://www.zealcu.org/scholarship/ "Scholarships")
     * About Us
         * [Discover Zeal](https://www.zealcu.org/discover-zeal/ "Discover Zeal")
+        * [Welcome](https://www.zealcu.org/welcome/ "Welcome")
         * [ATMs, Locations & Hours](https://www.zealcu.org/locations/ "ATMs, Locations & Hours")
         * [News & Events](https://www.zealcu.org/news-events/ "News & Events")
         * [Zeal the Love](https://www.zealcu.org/zeal-the-love/ "Zeal the Love")
@@ -200,6 +171,7 @@ Log In
         * [Insurance Programs](https://www.zealcu.org/insurance-programs/ "Insurance Programs")
     * About Us
         * [Discover Zeal](https://www.zealcu.org/discover-zeal/ "Discover Zeal")
+        * [Welcome](https://www.zealcu.org/welcome/ "Welcome")
         * [ATMs, Locations & Hours](https://www.zealcu.org/locations/ "ATMs, Locations & Hours")
         * [News & Events](https://www.zealcu.org/news-events/ "News & Events")
         * [Zeal the Love](https://www.zealcu.org/zeal-the-love/ "Zeal the Love")
@@ -211,7 +183,7 @@ Log In
         
         ![Mortgage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Mortgage](https://www.zealcu.org/app/uploads/2020/03/mortgage_loan_rates_orange_outline.svg)
+        ![Mortgage](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_loan_rates_orange_outline.svg)
         
         Mortgage
         
@@ -221,7 +193,7 @@ Log In
         
         ![Auto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Auto](https://www.zealcu.org/app/uploads/2020/03/auto_loan_orange_outline_1.svg)
+        ![Auto](https://www.zealcu.org/wp-content/uploads/2020/03/auto_loan_orange_outline_1.svg)
         
         Auto
         
@@ -233,7 +205,7 @@ Log In
         
         ![CDs & IRAs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![CDs & IRAs](https://www.zealcu.org/app/uploads/2020/03/CDs_IRAs_orange_outline.svg)
+        ![CDs & IRAs](https://www.zealcu.org/wp-content/uploads/2020/03/CDs_IRAs_orange_outline.svg)
         
         CDs & IRAs
         
@@ -245,15 +217,13 @@ Log In
         
         ![Ultra Savings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Ultra Savings](https://www.zealcu.org/app/uploads/2020/03/savings_rates_orange_outline.svg)
+        ![Ultra Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_rates_orange_outline.svg)
         
         Ultra Savings
         
         0.50\-0.80%
         
         APY\*](https://www.zealcu.org/rates/#savings_rates_anchor "Rates")
-        
-    *  [View All Rates >](https://www.zealcu.org/rates/ "View All Rates >")
         
     
     * [Auto Loan Rates](https://www.zealcu.org/auto-loan-rates/ "Auto Loan Rates")
@@ -264,75 +234,15 @@ Log In
     
     * WHAT WOULD YOU LIKE TO APPLY FOR?
         
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    *   [![Become A Member](https://www.zealcu.org/wp-content/uploads/2020/05/credit_card_white_outline.svg "Become A Member") ![Become A Member](https://www.zealcu.org/wp-content/uploads/2020/05/credit_card_white_outline.svg "Become A Member") Become A Member](https://www.zealcu.org/become-a-member/)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    *   [![Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_white_outline.svg "Savings") ![Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_white_outline.svg "Savings") Savings](https://www.zealcu.org/compare-savings-accounts/)
         
-        ![](https://www.zealcu.org/app/uploads/2020/05/credit_card_white_outline.svg)
+    *   [![Loans](https://www.zealcu.org/wp-content/uploads/2020/03/loans_white_outline.svg "Loans") ![Loans](https://www.zealcu.org/wp-content/uploads/2020/03/loans_white_outline.svg "Loans") Loans](https://www.zealcu.org/loans/)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    *   [![Credit Card](https://www.zealcu.org/wp-content/uploads/2020/03/credit_card_white_outline.svg "Credit Card") ![Credit Card](https://www.zealcu.org/wp-content/uploads/2020/03/credit_card_white_outline.svg "Credit Card") Credit Card](https://www.zealcu.org/visa-comparison/)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/05/credit_card_white_outline.svg)
-        
-        Become A Member](https://www.zealcu.org/become-a-member/ "Become A Member")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/savings_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/savings_white_outline.svg)
-        
-        Savings](https://www.zealcu.org/compare-savings-accounts/ "Savings")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/loans_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/loans_white_outline.svg)
-        
-        Loans](https://www.zealcu.org/loans/ "Loans")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/credit_card_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/credit_card_white_outline.svg)
-        
-        Credit Card](https://www.zealcu.org/visa-comparison/ "Credit Card")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/mortgage_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/mortgage_white_outline.svg)
-        
-        Mortgages](https://www.zealcu.org/home-loans/ "Mortgages")
+    *   [![Mortgages](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_white_outline.svg "Mortgages") ![Mortgages](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_white_outline.svg "Mortgages") Mortgages](https://www.zealcu.org/home-loans/)
         
     
 
@@ -404,6 +314,7 @@ Log In
         * [Scholarships](https://www.zealcu.org/scholarship/ "Scholarships")
     * About Us
         * [Discover Zeal](https://www.zealcu.org/discover-zeal/ "Discover Zeal")
+        * [Welcome](https://www.zealcu.org/welcome/ "Welcome")
         * [ATMs, Locations & Hours](https://www.zealcu.org/locations/ "ATMs, Locations & Hours")
         * [News & Events](https://www.zealcu.org/news-events/ "News & Events")
         * [Zeal the Love](https://www.zealcu.org/zeal-the-love/ "Zeal the Love")
@@ -442,6 +353,7 @@ Log In
         * [Insurance Programs](https://www.zealcu.org/insurance-programs/ "Insurance Programs")
     * About Us
         * [Discover Zeal](https://www.zealcu.org/discover-zeal/ "Discover Zeal")
+        * [Welcome](https://www.zealcu.org/welcome/ "Welcome")
         * [ATMs, Locations & Hours](https://www.zealcu.org/locations/ "ATMs, Locations & Hours")
         * [News & Events](https://www.zealcu.org/news-events/ "News & Events")
         * [Zeal the Love](https://www.zealcu.org/zeal-the-love/ "Zeal the Love")
@@ -453,7 +365,7 @@ Log In
         
         ![Mortgage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Mortgage](https://www.zealcu.org/app/uploads/2020/03/mortgage_loan_rates_orange_outline.svg)
+        ![Mortgage](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_loan_rates_orange_outline.svg)
         
         Mortgage
         
@@ -463,7 +375,7 @@ Log In
         
         ![Auto](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Auto](https://www.zealcu.org/app/uploads/2020/03/auto_loan_orange_outline_1.svg)
+        ![Auto](https://www.zealcu.org/wp-content/uploads/2020/03/auto_loan_orange_outline_1.svg)
         
         Auto
         
@@ -475,7 +387,7 @@ Log In
         
         ![CDs & IRAs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![CDs & IRAs](https://www.zealcu.org/app/uploads/2020/03/CDs_IRAs_orange_outline.svg)
+        ![CDs & IRAs](https://www.zealcu.org/wp-content/uploads/2020/03/CDs_IRAs_orange_outline.svg)
         
         CDs & IRAs
         
@@ -487,15 +399,13 @@ Log In
         
         ![Ultra Savings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ![Ultra Savings](https://www.zealcu.org/app/uploads/2020/03/savings_rates_orange_outline.svg)
+        ![Ultra Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_rates_orange_outline.svg)
         
         Ultra Savings
         
         0.50\-0.80%
         
         APY\*](https://www.zealcu.org/rates/#savings_rates_anchor "Rates")
-        
-    *  [View All Rates >](https://www.zealcu.org/rates/ "View All Rates >")
         
     
     * [Auto Loan Rates](https://www.zealcu.org/auto-loan-rates/ "Auto Loan Rates")
@@ -506,138 +416,44 @@ Log In
     
     * WHAT WOULD YOU LIKE TO APPLY FOR?
         
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    *   [![Become A Member](https://www.zealcu.org/wp-content/uploads/2020/05/credit_card_white_outline.svg "Become A Member") ![Become A Member](https://www.zealcu.org/wp-content/uploads/2020/05/credit_card_white_outline.svg "Become A Member") Become A Member](https://www.zealcu.org/become-a-member/)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    *   [![Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_white_outline.svg "Savings") ![Savings](https://www.zealcu.org/wp-content/uploads/2020/03/savings_white_outline.svg "Savings") Savings](https://www.zealcu.org/compare-savings-accounts/)
         
-        ![](https://www.zealcu.org/app/uploads/2020/05/credit_card_white_outline.svg)
+    *   [![Loans](https://www.zealcu.org/wp-content/uploads/2020/03/loans_white_outline.svg "Loans") ![Loans](https://www.zealcu.org/wp-content/uploads/2020/03/loans_white_outline.svg "Loans") Loans](https://www.zealcu.org/loans/)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    *   [![Credit Card](https://www.zealcu.org/wp-content/uploads/2020/03/credit_card_white_outline.svg "Credit Card") ![Credit Card](https://www.zealcu.org/wp-content/uploads/2020/03/credit_card_white_outline.svg "Credit Card") Credit Card](https://www.zealcu.org/visa-comparison/)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/05/credit_card_white_outline.svg)
-        
-        Become A Member](https://www.zealcu.org/become-a-member/ "Become A Member")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/savings_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/savings_white_outline.svg)
-        
-        Savings](https://www.zealcu.org/compare-savings-accounts/ "Savings")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/loans_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/loans_white_outline.svg)
-        
-        Loans](https://www.zealcu.org/loans/ "Loans")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/credit_card_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/credit_card_white_outline.svg)
-        
-        Credit Card](https://www.zealcu.org/visa-comparison/ "Credit Card")
-        
-    * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/mortgage_white_outline.svg)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![](https://www.zealcu.org/app/uploads/2020/03/mortgage_white_outline.svg)
-        
-        Mortgages](https://www.zealcu.org/home-loans/ "Mortgages")
+    *   [![Mortgages](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_white_outline.svg "Mortgages") ![Mortgages](https://www.zealcu.org/wp-content/uploads/2020/03/mortgage_white_outline.svg "Mortgages") Mortgages](https://www.zealcu.org/home-loans/)
         
     
 
-[![Zeal Events](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Zeal Events")
+ [![News & Events](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_calendar_gray_outline.svg "News & Events") ![Follow Zeal Credit Union on News & Events](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_calendar_orange_outline.svg "News & Events")](https://www.zealcu.org/news-events/)
 
-![Zeal Events](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_calendar_gray_outline.svg "Zeal Events")
+ [![Zeal The Love](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_zealthelove_gray_outline-5.svg "Zeal The Love") ![Follow Zeal Credit Union on Zeal The Love](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_zealthelove_orange_outline.svg "Zeal The Love")](https://www.zealcu.org/zeal-the-love/)
 
-![Zeal Events](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Zeal Events")
+ [![Locations](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_locations_gray_outline.svg "Locations") ![Follow Zeal Credit Union on Locations](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_locations_orange_outline.svg "Locations")](https://www.zealcu.org/locations/)
 
-![Zeal Events](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_calendar_orange_outline.svg "Zeal Events")](https://www.zealcu.org/news-events/)
+ [![Call Us](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_phone_gray_outline.svg "Call Us") ![Follow Zeal Credit Union on Call Us](https://www.zealcu.org/wp-content/uploads/2020/03/navigation_icon_phone_orange_outline.svg "Call Us")](https://www.zealcu.org/contact-us/)
 
-[![ZealTheLove](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Zeal Events")
+ [![Login and Personalize](/wp-content/uploads/2020/04/navigation_icon_person_gray_outline.svg) ![Login and Personalize](/wp-content/uploads/2020/04/navigation_icon_person_orange_outline.svg)](#)
 
-![ZealTheLove](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_zealthelove_gray_outline-5.svg "Zeal Events")
-
-![ZealTheLove](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "ZealTheLove")
-
-![ZealTheLove](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_zealthelove_orange_outline.svg "ZealTheLove")](https://www.zealcu.org/zeal-the-love/)
-
-[![Zeal Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "ZealTheLove")
-
-![Zeal Locations](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_locations_gray_outline.svg "ZealTheLove")
-
-![Zeal Locations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Zeal Locations")
-
-![Zeal Locations](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_locations_orange_outline.svg "Zeal Locations")](https://www.zealcu.org/locations/)
-
-[![Contact Us](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Contact Us")
-
-![Contact Us](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_phone_gray_outline.svg "Contact Us")
-
-![Contact Us](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Contact Us")
-
-![Contact Us](https://www.zealcu.org/app/uploads/2020/03/navigation_icon_phone_orange_outline.svg "Contact Us")](https://www.zealcu.org/contact-us/)
-
-[![Login and Personalize](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Login and Personalize](https://www.zealcu.org/app/uploads/2020/04/navigation_icon_person_gray_outline.svg)
-
-![Login and Personalize](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Login and Personalize](https://www.zealcu.org/app/uploads/2020/04/navigation_icon_person_orange_outline.svg)](# "<? _e('Login and Personalize', 'zeal') ?>")
-
-[![Zeal Credit Union](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Zeal Credit Union](https://www.zealcu.org/app/uploads/2020/02/zeal-logo-full-color-lg.png)](https://www.zealcu.org/)
-
-Welcome!
+[![Zeal Credit Union](https://www.zealcu.org/wp-content/uploads/2020/02/zeal-logo-full-color-lg.png)](https://www.zealcu.org/)
 
 Sign in to Online Banking:
 
 Log In
 
-[Forgot Username/Password?](https://www.zealcreditunionhb.org/tob/live/usp-core/app/authUpdate)
+[Forgot Username/Password?](https://www.zealcreditunionhb.org/dbank/live/app/authUpdate)
 
-[Enroll in Online Banking](https://www.zealcreditunionhb.org/tob/live/usp-core/app/register "Enroll in Online Banking")
+[Enroll in Online Banking](https://www.zealcreditunionhb.org/dbank/live/app/register "Enroll in Online Banking")
 
 What does Zeal Credit Union do with your personal information?
 ==============================================================
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.zealcu.org/app/uploads/2020/03/iStock-184293915_1920x580.jpg)
+![](https://www.zealcu.org/wp-content/uploads/2020/03/iStock-184293915_1920x580.jpg)
 
 What does Zeal Credit Union do with your personal information?
 ==============================================================
@@ -678,7 +494,7 @@ What does Zeal Credit Union do with your personal information?
 | **Nonaffiliates** | Companies not related by common ownership or control. They can be financial  <br>and nonfinancial companies.  <br>• Zeal Credit Union does not share with our nonaffiliates so they can market  <br>to you. |
 | **Joint Marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  <br>• Our joint marketing partners include financial advisors and insurance companies. |
 
-[Download Privacy Policy](https://www.zealcu.org/app/uploads/ZCU_UC_015_100920_Privacy_Policy.pdf)
+[Download Privacy Policy](https://www.zealcu.org/wp-content/uploads/ZCU_UC_015_100920_Privacy_Policy.pdf)
 
 Zeal Credit Union Digital Privacy Policy
 ----------------------------------------
@@ -693,7 +509,7 @@ Cookies are a small text file assigned and attached by a web server to the direc
 
 We collect information from all visitors to our website regarding user behavior through the use of cookies. The use of cookies is designed to improve the end user experience, and all users remain anonymous while visiting our homepage. The information we collect includes which pages are accessed, duration of the visit, frequency of visits, geographic location, the devices and operating systems in use and other similar demographic data. Information obtained from our website is kept secure, and access to that information is limited to the credit union personnel and vendor partners who use that information to improve the Zeal Credit Union website.
 
-**Online Banking Security Measurers**
+**Online Banking Security Measures**
 
 Zeal Credit Union’s online banking website is a secured website. Our online banking website encrypts any data sent and received with Transport Layer Security (TLS) technology, which is used to provide a secure channel for data transmission across computer networks using public key cryptography. A website secured with the TLS protocol will cause a padlock to display in the URL address bar of a Microsoft browser, ensuring that data transmitted from that page cannot be altered when routed over the Internet. Browsers that do not support TLS are unable to access the Online Banking application. In addition, Zeal Credit Union employs the use of firewalls which are designed to protect our computer network from outside internet activity. These firewalls are regularly monitored to assure their security.
 
@@ -703,7 +519,7 @@ The Zeal Credit Union homepage website is a secured website. At the Zeal Credit 
 
 **Zeal Credit Union Mobile App**
 
-iOS and Android platforms require that Zeal Credit Union provide our members with the ability to request the removal of their app accounts and any associated data. This requirement is the latest of many recent compliance updates from Google and Apple related to user privacy and data safety. If you would like to request the removal of your app accounts and related data, simply send an email request to: **[mxadmin@zealcu.org](mailto:mxadmin@zealcu.org)**. Please type “Remove App Account” in the subject line of your email and provide us with a good phone number at which to reach you. One of our representatives will be in touch with you to confirm the request is valid and initiate the process.
+iOS and Android platforms require that Zeal Credit Union provide our members with the ability to request the removal of their app accounts and any associated data. This requirement is the latest of many recent compliance updates from Google and Apple related to user privacy and data safety. If you would like to request the removal of your app accounts and related data, simply send an email request to: **[\[email protected\]](https://www.zealcu.org/cdn-cgi/l/email-protection)**. Please type “Remove App Account” in the subject line of your email and provide us with a good phone number at which to reach you. One of our representatives will be in touch with you to confirm the request is valid and initiate the process.
 
 Upon execution of this request, Zeal Credit Union will delete all associated data held in our digital and internet banking system. This data will no longer be accessible or available to any party. Your accounts will remain active, and your account transaction history will remain in our main system history as long as your accounts are open, but all internet and Mobile Banking data will be deleted.
 
@@ -717,7 +533,7 @@ Our website may contain links to other websites. Zeal Credit Union is not respon
 
 Zeal Credit Union does not market to or collect data online for Rock Star Saver youth accounts, which includes all members age 0-11. For children ages 12-17 in the Nextgen program, we market to and collect data for our Online Banking product only. No other products and services requiring data collection online are knowingly marketed to children under the age of 13.
 
-[Download Digital Privacy Policy](https://www.zealcu.org/app/uploads/Digital_Privacy_Policy.Final_.6.13.24.pdf)
+[Download Digital Privacy Policy](https://www.zealcu.org/wp-content/uploads/ZCU_UC_015_06.25.24_DIGITAL_Privacy_Policy.pdf)
 
 **Questions** If you have questions about our digital privacy policy, please contact:
 
@@ -729,7 +545,7 @@ Livonia, MI 48152
 
 Phone: [(800) 321-8570 Ext. 7400](tel:8003218570.7400)
 
-E-mail: [memberservices@zealcu.org](mailto:memberservices@zealcu.org)
+E-mail: [\[email protected\]](https://www.zealcu.org/cdn-cgi/l/email-protection)
 
 ##### Leaving This Site
 
@@ -741,6 +557,7 @@ You are now leaving the Zeal Credit Union web site. Zeal Credit Union is not res
 * [Careers](https://www.zealcu.org/careers/ "Careers")
 * [Privacy Policy](https://www.zealcu.org/privacy-policy/ "Privacy Policy")
 * [Disclosures](https://www.zealcu.org/disclosures/ "Disclosures")
+* [Welcome](https://www.zealcu.org/welcome/ "Welcome")
 * [FAQs](https://www.zealcu.org/faq/ "FAQs")
 
 **Zeal Credit Union | 17250 Newburgh Road, Livonia, MI 48152 | 800-321-8570**
@@ -751,44 +568,44 @@ download our mobile app
 
 [![google-play-badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![google-play-badge](https://www.zealcu.org/app/uploads/2020/03/google-play-badge-e1584976547813.png)](https://play.google.com/store/apps/details?id=com.ifs.banking.fiid1532&hl=en_US)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![google-play-badge](https://www.zealcu.org/wp-content/uploads/2020/03/google-play-badge-e1584976547813.png)](https://play.google.com/store/apps/details?id=com.ifs.banking.fiid1532&hl=en_US)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.zealcu.org/app/uploads/2020/03/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/zeal-credit-union-mobile/id900092853)
+![](https://www.zealcu.org/wp-content/uploads/2020/03/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/wp-content/zeal-credit-union-mobile/id900092853)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.zealcu.org/app/uploads/2020/03/footer_logos-1.png)
+![](https://www.zealcu.org/wp-content/uploads/2020/03/footer_logos-1.png)
 
-**[NCUA – Your Insured Funds](https://www.zealcu.org/app/uploads/2020/06/NCUAHowYourAcctInsured.pdf)** | **[LPL Financial Form CRS](http://www.lpl.com/CRS)**
+**[NCUA – Your Insured Funds](https://www.zealcu.org/wp-content/uploads/2020/06/NCUAHowYourAcctInsured.pdf)** 
 
 We do business in accordance with the Fair Housing Law and Equal Opportunity Credit Act.
 
 **Your savings is federally insured to at least $250,000 and backed by the full faith and credit of the United States Government.**
 
-We use cookies to ensure that we give you the best experience on our website and for analytics. If you continue to use this site or click accept, you agree to our use of cookies and similar technologies.[Accept](#)[Privacy policy](https://www.zealcu.org/privacy-policy/)[](javascript:void(0);)
+      
 
 Help us personalize our site for you!
 
 * First Name 
 * Location
     
-    Choose your branchAllen ParkAllen Park Drive-ThruDearbornDetroitLivonia - Middlebelt Rd.Livonia - Newburgh Rd.Lyon Crossing | Coming Soon!SouthfieldSouthgateTaylorWalled LakeWestland (🧡Drive-Thru Only on Saturdays)Woodhaven
+    Choose your branch Allen Park Allen Park Drive-Thru Dearborn Detroit Livonia - Middlebelt Rd. Livonia - Newburgh Rd. Lyon Crossing | Coming Soon! Southfield Southgate Taylor Walled Lake Westland (🧡Drive-Thru Only on Saturdays) Woodhaven
     
 * What are you here for?
     
-    ![zeal](https://www.zealcu.org/app/uploads/2020/01/savings-icon-green@2x.png)
+    ![zeal](https://www.zealcu.org/wp-content/uploads/2020/01/savings-icon-green@2x.png)
     
     Savings
     
-    ![zeal](https://www.zealcu.org/app/uploads/2020/01/checking-icon-yellow@2x.png)
+    ![zeal](https://www.zealcu.org/wp-content/uploads/2020/01/checking-icon-yellow@2x.png)
     
     Checking
     
-    ![zeal](https://www.zealcu.org/app/uploads/2020/01/loans-icon-blue@2x-e1660248572914.png)
+    ![zeal](https://www.zealcu.org/wp-content/uploads/2020/01/loans-icon-blue@2x-e1660248572914.png)
     
     Loans
     
-    ![/](https://www.zealcu.org/app/uploads/2020/03/business_orange_outline-1.svg)
+    ![/](https://www.zealcu.org/wp-content/uploads/2020/03/business_orange_outline-1.svg)
     
     Membership
     
@@ -796,7 +613,7 @@ Help us personalize our site for you!
 
 ![Zeal Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Zeal Logo")
 
-![Zeal Logo](https://www.zealcu.org/app/uploads/2020/04/ZealCU_Logo_Final_1CLR_WhiteLarge.png "Zeal Logo")
+![Zeal Logo](https://www.zealcu.org/wp-content/uploads/2020/04/ZealCU_Logo_Final_1CLR_WhiteLarge.png "Zeal Logo")
 
 Make your banking experience more personalized!
 
