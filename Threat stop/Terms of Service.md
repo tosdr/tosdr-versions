@@ -52,7 +52,7 @@
 Terms of Service
 ================
 
-![](//www.threatstop.com/hubfs/raw_assets/public/ThreatSTOP%202021/assets/img/line-bg--on-dark.svg)
+![background](//www.threatstop.com/hubfs/raw_assets/public/ThreatSTOP%202021/assets/img/line-bg--on-dark.svg)
 
 **END USER SERVICE AGREEMENT**
 
@@ -195,7 +195,7 @@ Subject to the terms of the Agreement and this Addendum, during the Term, Custom
 
 1. **License Restrictions****.** Section 3 of the Agreement (“License Restrictions”) is hereby amended by adding the following:
 
-Customer shall use the ThreatSTOP Services via Customer's Community Account only in accordance with the terms to be specified by ThreatSTOP for use of the ThreatSTOP Services via the Community Account (“Community Account Terms”), available [here](https://www.threatstop.com/TOS?hsLang=en#Community). The Community Account Terms may include restriction of use of the ThreatSTOP Services as to number and type of devices, policy element choices, number of custom lists, reporting and support and may be changed by ThreatSTOP from time to time.
+Customer shall use the ThreatSTOP Services via Customer's Community Account only in accordance with the terms to be specified by ThreatSTOP for use of the ThreatSTOP Services via the Community Account ([“Community Account Terms”](https://www.threatstop.com/TOS?hsLang=en#Community)). The Community Account Terms may include restriction of use of the ThreatSTOP Services as to number and type of devices, policy element choices, number of custom lists, reporting and support and may be changed by ThreatSTOP from time to time.
 
 1. **Additional** **Responsibilities****.**  Section 8 of the Agreement (“Additional Responsibility”) is hereby amended by adding the following at the end of Section 8.1:
 
@@ -223,21 +223,17 @@ Customer shall use DHS AIS Targets via ThreatSTOP Services only in accordance wi
 
 5. **Additional Responsibilities****.** Section 8 of the Agreement (“Additional Responsibility”) is hereby amended by adding the following at the end of Section 8.1:
 
- Customer shall abide by the Terms of Use that governs the handling and sharing of AIS Cyber Threat Indicators available [here](https://www.cisa.gov/publication/automated-indicator-sharing-ais-documentation). Customer shall abide by the National Cybersecurity and Communications Integration Center NCCIC Information Handling Levels requirements available [here](https://www.cisa.gov/tlp). Customer shall use, handle, and disclose Indicators and Defensive Measures only for a Cybersecurity Purpose and in accordance with their associated Information Handling Level. If requested to do so by the NCCIC or ThreatSTOP, Customer shall provide a written description of the technical measures and/or protections it has implemented to ensure each Indicator and Defensive Measure is shared only in accordance with its associated Information Handling Level.
+ Customer shall abide by the Terms of Use that governs the handling and sharing of [AIS Cyber Threat Indicators](https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/automated-indicator-sharing-ais). Customer shall abide by the National Cybersecurity and [Communications Integration Center NCCIC Information Handling Levels requirements](https://www.cisa.gov/tlp). Customer shall use, handle, and disclose Indicators and Defensive Measures only for a Cybersecurity Purpose and in accordance with their associated Information Handling Level. If requested to do so by the NCCIC or ThreatSTOP, Customer shall provide a written description of the technical measures and/or protections it has implemented to ensure each Indicator and Defensive Measure is shared only in accordance with its associated Information Handling Level.
 
 6. **Confidentiality****.**  Section 9 of the Agreement (“Confidentiality”) is hereby amended by adding the following at the end of Section 9.1:
 
- DHS AIS Targets and any data about them are further restricted according to the Terms of Use that governs the handling and sharing of AIS Cyber Threat Indicators available [here](https://www.cisa.gov/publication/automated-indicator-sharing-ais-documentation). Any breach of those handling restrictions for any data received through any use of the ThreatSTOP service shall be a breach of this section 9.”
+ DHS AIS Targets and any data about them are further restricted according to the Terms of Use that governs the handling and sharing of [AIS Cyber Threat Indicators](https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/automated-indicator-sharing-ais). Any breach of those handling restrictions for any data received through any use of the ThreatSTOP service shall be a breach of this section 9.”
 
 7. **Term and Termination:**  Section 12.2 of the Agreement is hereby changed to the following:
 
 “12.2 Notwithstanding the foregoing, this Agreement may be terminated by either party immediately upon written notice if the other party: (i) becomes insolvent or ceases doing business for a period greater than ninety (90) days; or (ii) materially breaches any of its obligations under this Agreement and fails to cure such breach within thirty (30) days following written notice to such party. Additionally, ThreatSTOP may terminate access to DHS AIS targets immediately if, in ThreatSTOP’s sole estimation, or upon notification to ThreatSTOP by NCCIC or DHS, the Additional Responsibilities (Section 5) or Confidentiality (Section 6) terms of the DHS AIS Addendum to this Agreement is breached by Customer. Furthermore, ThreatSTOP may terminate this Agreement upon thirty (30) days written notice to Customer in the event that ThreatSTOP has not received payment for the ThreatSTOP Service provided to Customer for the then-current term, regardless of whether Customer has made payment to a Reseller.”
 
-★★★★★
-
-ThreatSTOP is the clear leader in IP reputation services, and provides invaluable protection for AISO and our customers against zero-day, APTs, botnets and other advanced threats.
-
-Phil Nash - CTO, AISO.net
+© threatSTOP Inc. 2024
 
 * [Solutions](https://www.threatstop.com/case-studies?hsLang=en)
 * [Products](https://www.threatstop.com/threatstop-platform?hsLang=en)
