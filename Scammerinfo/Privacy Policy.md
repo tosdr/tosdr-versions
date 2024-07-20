@@ -75,7 +75,7 @@ Please note that this Privacy Policy applies solely to Scammer.info and does not
 
 * [Home](https://scammer.info/)
 * [Categories](https://scammer.info/categories)
-* [FAQ/Guidelines](https://scammer.info/guidelines)
+* [Guidelines](https://scammer.info/guidelines)
 * [Terms of Service](https://scammer.info/tos)
 * [Privacy Policy](https://scammer.info/privacy)
 
