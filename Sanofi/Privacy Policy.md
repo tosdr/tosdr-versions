@@ -6,8 +6,8 @@
     * Governance
         * [Governance](https://www.sanofi.com/en/our-company/governance)
         * [Board of Directors](https://www.sanofi.com/en/our-company/governance/board-of-directors)
-        * [Executive Committee](https://www.sanofi.com/en/our-company/governance/executive-committee)
         * [Specialist Committees](https://www.sanofi.com/en/our-company/governance/specialist-committees)
+        * [Executive Committee](https://www.sanofi.com/en/our-company/governance/executive-committee)
     * Social Impact
         * [Social Impact](https://www.sanofi.com/en/our-company/social-impact)
         * [Access to Healthcare](https://www.sanofi.com/en/our-company/social-impact/access-to-healthcare)
@@ -48,7 +48,7 @@
         * [Influenza](https://www.sanofi.com/en/your-health/vaccines/influenza)
         * [Meningococcal Meningitis](https://www.sanofi.com/en/your-health/vaccines/meningococcal-meningitis)
         * [Pertussis](https://www.sanofi.com/en/your-health/vaccines/pertussis)
-        * [Respiratory Syncytial Virus](https://www.sanofi.com/en/your-health/vaccines/respiratory-syncytial-virus)
+        * [Respiratory Syncytial Virus (RSV)](https://www.sanofi.com/en/your-health/vaccines/respiratory-syncytial-virus)
         * [Production](https://www.sanofi.com/en/your-health/vaccines/production)
         * [Why vaccines matter](https://www.sanofi.com/en/your-health/vaccines/why-vaccines-matter)
     * Medicines
@@ -68,7 +68,7 @@
         * [Digestive Wellness](https://www.sanofi.com/en/your-health/consumer-healthcare/digestive-wellness)
         * [Pain Care](https://www.sanofi.com/en/your-health/consumer-healthcare/pain-care)
         * [Physical & Mental Wellness](https://www.sanofi.com/en/your-health/consumer-healthcare/physical-and-mental-wellness)
-    * [Patient Support](https://www.sanofi.com/en/your-health/patient-support)
+    * [Patient Engagement](https://www.sanofi.com/en/your-health/patient-engagement)
     * Healthcare Professionals Support
         * [Healthcare Professionals Support](https://www.sanofi.com/en/your-health/healthcare-professional-support)
         * [Managed Access Programs (MAPs)](https://www.sanofi.com/en/your-health/healthcare-professional-support/sanofi-manage-access-program)
@@ -93,7 +93,7 @@
 
 * Media
     * [Media](https://www.sanofi.com/en/media-room)
-    * [Media Contacts](https://www.sanofi.com/en/media-room/contact)
+    * [Contacts](https://www.sanofi.com/en/media-room/contact)
     * [Magazine Sanofi Today](https://www.sanofi.com/en/magazine)
     * [Press Releases](https://www.sanofi.com/en/media-room/press-releases)
 * Investors
@@ -115,9 +115,9 @@
         * [Sanofi stock chart](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/stock-chart)
         * [Dividend](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/dividend)
         * [ADRs](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/adrs)
-        * [Shareholding structure](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/shareholding-structure)
+        * [Shares, Structure & Vote](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/shares-structure-vote)
+        * [Analyst Coverage](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/analyst-coverage)
         * [Vara consensus](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/vara-consensus)
-        * [Shares & Voting Rights](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/shares-and-voting-rights)
         * [Share repurchases](https://www.sanofi.com/en/investors/sanofi-share-and-adrs/share-repurchases)
     * [Bonds](https://www.sanofi.com/en/investors/bonds)
     * [Contacts](https://www.sanofi.com/en/investors/contacts)
@@ -135,7 +135,7 @@
 
 Global
 
-1. [Home](https://www.sanofi.com/en)
+1. [Homepage](https://www.sanofi.com/en)
 
 3. Privacy & data protection
 
