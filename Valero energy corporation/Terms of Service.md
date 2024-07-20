@@ -205,12 +205,9 @@ Social Navigation
 * [ValeroPay+](https://www.valero.com/valeropayplus)
 
 **Valero Headquarters**  
-  
 1 Valero Way  
-  
 San Antonio, TX 78249  
-  
-(210) 345-2000
+(210) 345-2000 
 
 [**Contact Us**](https://www.valero.com/contact-us "Contact Us")
 
