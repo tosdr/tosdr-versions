@@ -58,7 +58,7 @@
 * [Spaces](#)
 * [Design Resources](#)
 * [Research](https://www.steelcase.com/insights-research/)
-* [About](#)
+* [About](https://www.steelcase.com/about/information/media/)
 * [Dealer Community](https://www.steelcase.com/about/steelcase/dealers/)
 
 Terms of Use
@@ -228,8 +228,8 @@ All other feedback, comments, requests for technical support and other communica
 Copyright © 1996-2015 Steelcase Inc.  All rights reserved.
 
 * [About Steelcase](https://www.steelcase.com/discover/steelcase/our-company/)
-    * [People + Planet](https://www.steelcase.com/discover/steelcase/esg-overview/)
-    * [Diversity + Inclusion](https://www.steelcase.com/corporate-information/diversity-equity-inclusion/)
+    * [People + Planet](https://www.steelcase.com/people-planet/)
+    * [Diversity + Inclusion](https://www.steelcase.com/people-planet/diversity-equity-inclusion/)
     * [Corporate Governance](https://www.steelcase.com/discover/information/corporate-governance-overview/)
     * [Careers](https://www.steelcase.com/about/steelcase/careers/)
     * [Steelcase Foundation](http://www.steelcasefoundation.org/)
