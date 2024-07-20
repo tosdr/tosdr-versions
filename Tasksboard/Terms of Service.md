@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjoxAtlRz-dxAR3yPpshkZHfPRoNEFnmwowS37UZH4WVM4SjmRlz9KD6K80lm59a_0jlPt7TpjByA9moqRHM:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjoxAtlRz-dxAR3yPpshkZHfPRoNEFnmwowS37UZH4WVM4SjmRlz9KD6K80lm59a_0jlPt7TpjByA9moqRHM:0&docurl=https://docs.google.com/document/d/e/2PACX-1vRmU4OVlapXiYqsM3O9zy9v0JaVYEuYtbK3aq70c6ey5ere8xv5rNQzp-iHc3LNdjJeKR1JnzTQS8AB/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 TasksBoard Terms of Service
 
@@ -68,7 +68,7 @@ TasksBoard Terms of Service
 
 6. Billing Terms
 
-6.1 You agree to pay all applicable fees related to your use of this Website which are described fully on our [pricing page](https://www.google.com/url?q=https://tasksboard.com/pricing/&sa=D&source=editors&ust=1718945499754387&usg=AOvVaw1gmkl0zHuAMroWdf9PabDq). By providing a payment method, you expressly authorize us to charge the applicable fees on said payment method as well as taxes and other charges incurred thereto at regular intervals, all of which depend on your particular subscription and utilized services.
+6.1 You agree to pay all applicable fees related to your use of this Website which are described fully on our [pricing page](https://www.google.com/url?q=https://tasksboard.com/pricing/&sa=D&source=editors&ust=1721460350731084&usg=AOvVaw1fkvZUUUIhI0ob2T_jo0h3). By providing a payment method, you expressly authorize us to charge the applicable fees on said payment method as well as taxes and other charges incurred thereto at regular intervals, all of which depend on your particular subscription and utilized services.
 
 The subscription period for Paid Accounts can be month-to-month or yearly.
 
