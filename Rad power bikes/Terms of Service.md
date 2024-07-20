@@ -1,10 +1,8 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                      Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                       [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                      Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
 
 [](# "Previous")
 
-* [4th of July Savings: Up to $500 off. Shop now thru 7/7.](https://www.radpowerbikes.com/pages/sales-deals "4th of July Savings: Up to $500 off. Shop now thru 7/7.")
-    
-* [Due to a new tariff, prices on select models go up 7/1. Order now & save.](https://www.radpowerbikes.com/collections/2024-price-increase "Due to a new tariff, prices on select models go up 7/1. Order now & save.")
+* [Up to $500 off ebikes & passenger gear. Shop Now.](https://www.radpowerbikes.com/pages/sales-deals "Up to $500 off ebikes & passenger gear. Shop Now.")
     
 
 [](# "Next")
@@ -157,10 +155,10 @@
     
     * [Gift Cards](https://www.radpowerbikes.com/products/gift-card "Gift Cards")
     
-    [Up to 40% off select accessories
-    --------------------------------
+    [Give your kids a comfortable, secure ride with the all-new Caboose.
+    -------------------------------------------------------------------
     
-    Shop Sale](https://www.radpowerbikes.com/collections/accessory-deals "Shop Sale")
+    Shop RadRunner Caboose](https://www.radpowerbikes.com/products/radrunner-caboose "Shop RadRunner Caboose")
     
 * [Parts](https://www.radpowerbikes.com/collections/replacement-parts "Parts") [ ] 
     
@@ -333,7 +331,7 @@ Your cart is empty
 
 Close Icon
 
- 
+   
 
 **Terms of Purchase**
 
@@ -366,7 +364,7 @@ Consumer Purchase Terms and Conditions
 
 **Rad Power Bikes Inc.**
 
-_Last updated May 22, 2023_
+_Last updated June 21, 2024_
 
 These Consumer Purchase Terms and Conditions (the “**Terms**”) are a legal agreement between you (“**You**” or “**Customer**”) and Rad Power Bikes Inc., a Delaware corporation (“**RPB**”, “**us**” or “**we**”), and apply to all consumer purchases by you of any model of RPB’s electric bikes (“**ebike(s)**”) and/or related accessories or other products offered by RPB (collectively with ebikes, the “**Products**”) in the United States only. Purchases in Canada and the European Union must be made through their respective websites and are subject to the applicable Terms and Conditions contained on their website. You represent and warrant that you are at least 16 years of age or the age of legal majority in your jurisdiction (the “Minimum Age”), whichever is higher. If you are under the Minimum Age, you are not eligible to make a purchase with RPB. By purchasing any Products from RPB, whether online or at our showroom, or by using the Products you thereby agree to these Terms in their entirety. **Please read these Terms carefully as they list your obligations and rights and include a requirement that all disputes that you may have under these Terms be taken to arbitration, instead of a jury trial or class action.**
 
@@ -397,11 +395,14 @@ Any abuse of this offer, as determined by us in our sole discretion, may result 
 4\. Shipping
 ------------
 
-All orders under $150 qualify for a flat rate $10 shipping charge. Select orders of $150 or more may qualify for free shipping. Products excluded from the flat rate shipping and free shipping offer are: Batteries ($60 shipping charge per item) and Hollywood Racks ($30 shipping charge per item). Palletized freight orders are subject to additional fees.
+**For orders in the contiguous United States**, orders under $150 qualify for a flat rate $10 shipping charge. (All qualifying sums are pre-tax.) Select orders of $150 or more may qualify for free shipping. The flat rate shipping and free shipping offer does not apply to Hollywood Racks, which ships for a flat rate of$30 shipping charge per item. Palletized freight orders are subject to additional fees.
 
-We are currently only shipping to the 48 contiguous United States. (For clarity, we DO NOT ship to Alaska, Hawaii, Puerto Rico, or other U.S. territories.) If you are a Canadian or European customer, please visit our Canadian or European websites for orders to those respective areas.  
-  
-a. A shipping confirmation email will be sent to the email address attached to the order once the order has shipped.  
+**Alaska and Hawaii shipping costs**: Rad now ships to select zip codes in these two states, subject to additional shipping charges. We do not ship to all zip codes in these states. For the shipping-eligible zip codes in Alaska and Hawaii, bike orders are charged $149 per bike. Accessories and parts ordered with a bike will ship for free except for Hollywood Racks vehicle racks and batteries. Accessories and non-warranty parts purchased separately from a bike are charged a shipping fee of $29 for orders under $150. Accessory & part orders over $150 ship for free, except for the oversized shipping charge for vehicle racks. Products excluded from the flat rate shipping and free shipping are: Batteries ($49 shipping charge per item) and Hollywood Racks ($30 shipping charge per item).  
+
+We do not ship to Puerto Rico, other US Territories, PO boxes or APO/FPO addresses.  
+If you are a Canadian or European customer, please visit our Canadian or European websites for orders to those respective areas.
+
+a. A shipping confirmation email will be sent to the email address provided for the order once the order has shipped.  
 b. We will use FedEx or other parcel service to ship your order. We DO NOT ship to PO BOXES or APO.  
 c. Orders containing discounted merchandise may take an additional forty-eight (48) hours to process.  
 d. For all international orders, you must place the order via our Canadian or European websites, and all such purchases shall be governed by the respective Terms of Purchase located on those websites. You are solely responsible for ensuring you comply with all applicable local/state/federal regulations concerning the import and use of electric bicycles. Acceptance of orders outside of the United States shall be in RPB’s sole discretion.  
