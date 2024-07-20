@@ -146,12 +146,18 @@ To be notified of an acceptable use policy change, please visit [this page](http
 
 ##### Have Questions?
 
-**[CONTACT US](https://www.higherlogic.com/contact-us/)**  
+**[CONTACT US](https://www.higherlogic.com/contact-us/)  
+**202-360-4402  
+Fax: 866-533-0428
+
+**MAILING ADDRESS**  
 4250 N Fairfax Drive  
 Suite 600  
-Arlington, VA 22203  
-202-360-4402  
-Fax: 866-533-0428
+Arlington, VA 22203
+
+**OFFICE ADDRESS  
+**4501 Fairfax Drive  
+Arlington, VA 22203
 
 **[SUPPORT](https://support.higherlogic.com/hc/en-us)**
 
