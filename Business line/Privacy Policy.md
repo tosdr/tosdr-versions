@@ -6,7 +6,7 @@
 * [Markets](https://www.thehindubusinessline.com/markets/) 
 * [Portfolio](https://www.thehindubusinessline.com/portfolio/) 
 * [Opinion](https://www.thehindubusinessline.com/opinion/) 
-* [Economy](https://www.thehindubusinessline.com/economy/) 
+* [Budget 2024](https://www.thehindubusinessline.com/economy/budget/) 
 * [Premium](https://www.thehindubusinessline.com/premium/) 
 
 [FREE TRIAL](https://www.thehindubusinessline.com/signup/?utm_source=Businessline&utm_medium=homepage&utm_campaign=FTbutton)[![](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)](https://www.thehindubusinessline.com/premium/) [ACCOUNT ![](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/1x1_spacer.png)](https://www.thehindubusinessline.com/myaccount/) [Subscribe](https://www.thehindubusinessline.com/subscription/)LOGIN
@@ -113,7 +113,7 @@ READ IN APP[PREMIUM](https://www.thehindubusinessline.com/premium/)[Subscribe](h
 * [Markets](https://www.thehindubusinessline.com/markets/) 
 * [Portfolio](https://www.thehindubusinessline.com/portfolio/) 
 * [Opinion](https://www.thehindubusinessline.com/opinion/) 
-* [Economy](https://www.thehindubusinessline.com/economy/) 
+* [Budget 2024](https://www.thehindubusinessline.com/economy/budget/) 
 * [Premium](https://www.thehindubusinessline.com/premium/) 
 
 TO ENJOY ADDITIONAL BENEFITS
@@ -683,15 +683,16 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) T20 World Cup](https://sportstar.thehindu.com/cricket/t20-world-cup/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) PM Modi oath ceremony LIVE updates](https://www.thehindu.com/elections/lok-sabha/india-election-results-2024-updates-june-9-2024/article68268845.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Elections 2024](https://www.thehindu.com/topic/general-elections-2024/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Satyajit Ray](https://frontline.thehindu.com/cover-story/a-century-of-ray/article64764998.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Reinventing Rahul Gandhi](https://frontline.thehindu.com/politics/rahul-gandhi-reinvented-himself-in-2024-lok-sabha-election-pappu-gen-z-thirst-trap/article68315876.ece?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://sportstar.thehindu.com/cricket/ipl/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Euro 2024](https://sportstar.thehindu.com/newstag/euro-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election 2024](https://frontline.thehindu.com/election-2024/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Neet PG Exam Controversy](https://frontline.thehindu.com/the-nation/education/neet-controversy-nta-national-testing-agency-exam-paper-leaks-students-crisis/article68369752.ece?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Football News](https://sportstar.thehindu.com/football/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Politics News](https://frontline.thehindu.com/politics/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) The Nation News](https://frontline.thehindu.com/the-nation/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Mumbai Indians MI Squad](https://sportstar.thehindu.com/newstag/Mumbai_Indians/)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Paris Olympics 2024](https://sportstar.thehindu.com/olympics/paris-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Punjab Kings PBKS Squad](https://sportstar.thehindu.com/newstag/punjab-kings/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) FL Interviews](https://frontline.thehindu.com/interviews/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Capitals DC Squad](https://sportstar.thehindu.com/newstag/delhi-capitals/)
