@@ -6,15 +6,15 @@ cookie-whitecookie-white
 
 [Customer service](https://www.skatedeluxe.com/en/customer-service)
 
-[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
+[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Withdrawal and Return](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
 
 ![](../static/images/icons/phone-white.svg)
 
-+49 (0)3641 7997 2592 Landline Mon. - Fri. 9-19 | Sat. 10-14
+0800 086 8664 Free Hotline Mon. - Fri. 8-18 | Sat. 9-13
 
 | English
 
-France | English
+United Kingdom | English
 
 Country shops
 
