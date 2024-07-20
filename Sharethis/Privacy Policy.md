@@ -164,7 +164,7 @@ To access information for Publishers, please visit the Publisher Information pag
 
 To access Publisher Terms of Use, please click [**here**](https://sharethis.com/publisher-terms-of-use/).
 
-Last Updated on: February 21, 2024
+Last Updated on: July 3, 2024
 
 * * *
 
@@ -206,7 +206,7 @@ We do not intentionally collect identifiable personal information such as your n
 
 * * *
 
-We have set out below the categories of data we process and why we process each category of data.
+We have set out below the categories of data we process and why we process each category of data. Note: The categories of data we process under California law includes (a) Personal and Online Identifiers such as: IP address, mobile advertising IDs and similar pseudonymous UIDs and (b) Internet or other electronic network activity information, including, but not limited to, browsing history, and information regarding a consumer’s interaction with an internet website application, or advertisement.
 
 1. **Usage Data and Profile Information**
 
@@ -386,7 +386,7 @@ ShareThis does not collect nor process any special categories of personal data w
 
 **Legal Basis for Processing**
 
-EEA Data Protection Laws requires entities seeking to process personal data to have a valid legal basis for doing so. The legal basis utilized by ShareThis include: a) consent (our primary legal basis with respect to our Processing of Usage Data and Profile Information); b) legitimate interest (i.e., where we believe that our need to process the data and/or the value we deliver by processing such data is not outweighed by the rights of the data subject); c) where necessary for the performance of a contract; and d) where processing is necessary to comply with our legal obligations. We will endeavor to outline our legal basis for the most common types of processing conducted by ShareThis.
+EEA Data Protection Laws requires entities seeking to process personal data to have a valid legal basis for doing so. The legal basis utilized by ShareThis include: a) consent (our primary legal basis with respect to our Processing of Usage Data and Profile Information); b) legitimate interest (i.e., where we believe that our need to process the data and/or the value we deliver by processing such data is not outweighed by the rights of the data subject); c) where necessary for the performance of a contract; and d) where processing is necessary to comply with our legal obligations. We will endeavor to outline our legal basis for the most common types of processing conducted by ShareThis. For example, we may process [TC Strings](https://usercentrics.com/knowledge-hub/iab-tcf-2-2-transparency-and-consent-framework-quick-guide/) for the purpose of ensuring and being able to demonstrate that Users have consented to or not objected to the processing of their personal data in connection with targeted ads.
 
 _Cookie and Similar Tracking Technologies_ – We endeavor to obtain consent for our placement of cookies, pixels and similar tracking technologies as required under the ePrivacy Directive as implemented throughout the EEA. As ShareThis does not have direct relationships with Internet users in many cases, we ask Publishers and other partners to obtain a consent on our behalf as described below.  Where we directly place cookies (e.g., via ShareThis.com) we directly obtain the consent from data subjects we’ve identified as being from the EEA or other place where consent is required.
 
@@ -474,7 +474,7 @@ A number of U.S. states (e.g., California, Colorado, Connecticut, Nevada, Virgin
 
 These U.S. state laws define personal information broadly. And as such, almost all of the information we collect is considered personal information under these laws. U.S. data subjects may send an email to [privacy@sharethis.com](mailto:privacy@sharethis.com) to exercise those rights of visit data subject access page. California data subjects may also call us on our toll free CCPA privacy hotline at 1-800-272-1765. Data subjects in Colorado and Virginia have the additional right to appeal in the event that they are unsatisfied with the way that ShareThis has honored one or more of the above rights – and have the further right to appeal to the Attorney General of their state.
 
-We do not treat users that exercise any of the above rights differently. However, we may not be able to honor a right if doing so would violate applicable law. ShareThis does not sell data collected via our Website or the data we use to operate our business. However, we transfer personal information collected via the ShareThis Publisher Applications to third parties and as such are considered to have sold data over the past twelve months under California law, including any of the Usage Data, Profile Information and/or audience segments.
+We do not treat users that exercise any of the above rights differently or otherwise discriminate against users exercising privacy rights. However, we may not be able to honor a right if doing so would violate applicable law. ShareThis does not sell data collected via our Website or the data we use to operate our business. However, we transfer personal information collected via the ShareThis Publisher Applications to third parties and as such are considered to have sold data over the past twelve months under California law, including any of the Usage Data, Profile Information and/or audience segments.
 
 We generally ask only for the minimum information necessary to help us process a subject access or deletion request and will keep information pertaining to your request for up to two years. If you are a customer of ShareThis with a login and password to the ShareThis platform, we ask that you first direct your request to the person or persons at your organization that administers the relationship with ShareThis. California data subjects may also call us on our toll free CCPA privacy hotline at 1-800-272-1765.
 
@@ -493,7 +493,7 @@ Pursuant to CCPA Regulation 999.317(g), ShareThis informs you of the following
 | d. The median number of days within which ShareThis substantively responded to requests to know, requests to delete and requests to opt-out | Total |
 | Requests to know | 0   |
 | Requests to delete | 27  |
-| Requests to opt-out | 14.6 |
+| Requests to opt-out | Real Time |
 
 |     |     |
 | --- | --- |
@@ -504,7 +504,7 @@ V. **Data Sharing or Disclosure, Recipients of Your Data**
 
 * * *
 
-We sell and/or share Usage Data, Profile Information and/or audience segments with the following types of businesses, and accept for Publishers, we view each of the below as our Customers:
+We sell and/or share Usage Data, Profile Information and/or audience segments with the following types of businesses, and with the exception of Publishers, we view each of the below as our Customers:
 
 * Publishers – We provide analytics tools for Publishers based on the data collected via the ShareThis tools.
 * Advertisers and Retailers – companies seeking to better understand their customers so as to more effectively serve those customer’s needs
@@ -657,9 +657,9 @@ To use the “Limit Ad-Tracking” option, follow the instructions provided by A
 
 Please note that this is a device setting and will disable interest-based ads from all providers, and not just for ShareThis.
 
-**Do Not Track:**
+**Do Not Track **/ Opt-out Preference Signals**:**
 
-You may also stop the collection of your Usage Data by using the do-not-track function or similar privacy controls of your browser. ShareThis recognizes these do-not-track signals from your browser. As required by law, or where we are able to ascertain that such signals are enacted by you and not set by default by your browser, we will consider them to be an indication that you have opted out.
+You may also stop the collection of your Usage Data by using the do-not-track function, opt-out preference signals, or similar privacy controls of your browser. ShareThis recognizes these do-not-track signals from your browser. As required by law, or where we are able to ascertain that such signals are enacted by you and not set by default by your browser, we will consider them to be an indication that you have opted out.
 
 **Onward Transfer/Data Privacy Framework:**
 
