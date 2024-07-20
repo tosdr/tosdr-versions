@@ -9,7 +9,7 @@
 
 Contact Web & SEO Designers
 
-Free consultation Non-profit Activism
+Free consultation Activism
 
  I accept [T & C](# "Read our Terms & Conditions")
 
@@ -80,16 +80,16 @@ Our websites are optimised for search engines, loading speed and maximum securit
 > 
 > [Jam House sharehouse](https://jamhouse.info/english/), Tokyo and Kyoto, Japan
 
-Non-profits and activists
--------------------------
+Supporting activists
+--------------------
 
-We are currently helping our past work exchange hosts, non-profits and activists only. Please [contact us](#form "Contact us") for help with your non-profit, if you need a free website with pro bono hosting. Eligible non-profits must not be harming living beings or polluting our planet.
-
-![Päivi & Santeri Kannisto working for Sam in Kaohsiung, Taiwan](web-designers-seo-development/paivi_and_santeri_kannisto.jpg "Working for Sam in Kaohsiung, Taiwan")
+We are currently helping our past work exchange hosts and activists only. Please [contact us](#form "Contact us") for help with activism, if you need a free website with pro bono hosting. Eligible activists must not be harming living beings or polluting our planet.
 
 ![Päivi & Santeri Kannisto working for Sam in Kaohsiung, Taiwan](web-designers-seo-development/paivi_and_santeri_kannisto.jpg "Working for Sam in Kaohsiung, Taiwan")
 
-We have [an untraceable, open and free discussion forum](https://forum.webseodesigners.com/) and provide mirror websites free of charge for those who are being censored, persecuted or wish to leak something anonymously. [Contact us](#form "Contact us") for more information.
+![Päivi & Santeri Kannisto working for Sam in Kaohsiung, Taiwan](web-designers-seo-development/paivi_and_santeri_kannisto.jpg "Working for Sam in Kaohsiung, Taiwan")
+
+We have [an untraceable, open and free discussion forum](https://forum.webseodesigners.com/) and provide mirror websites free of charge for those who are being censored, persecuted or wish to leak information anonymously. [Contact us](#form "Contact us") for more information.
 
 Tools for testing your website
 ------------------------------
