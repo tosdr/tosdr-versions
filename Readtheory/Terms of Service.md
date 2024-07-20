@@ -167,16 +167,17 @@ Last updated: August 18, 2020
 ### Get Started
 
 * [How it Works](https://readtheory.org/wp-content/uploads/2022/03/Animation-41.mp4)
+* [Resources Hub](https://readtheory.org/resources-hub/)
 * [Schools & Districts](https://readtheory.org/districts-and-schools/)
 * [ReadTheory for ESL](https://readtheory.org/english-language-learners/)
 * [Pricing](https://readtheory.org/app/pricing/teacher)
 * [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf)
 * [Case Studies](https://readtheory.org/case-study/)
 * [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
-* [Wall of Love](https://readtheory.org/teacher-love/)
 
 ### Inside ReadTheory
 
+* [Wall of Love](https://readtheory.org/teacher-love/)
 * [Careers](https://readtheory.org/careers/)
 * [About Us](https://readtheory.org/about-us/)
 * [Certified Educator](https://readtheory.org/certified-educator/)
