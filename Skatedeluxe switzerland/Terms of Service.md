@@ -298,7 +298,7 @@ Accept all
 
 ### You are currently on skatedeluxe.ch
 
-**Delivery to France? If so, please visit [skatedeluxe.com](https://www.skatedeluxe.com/de/agb?force_domain=1).**  
+**Delivery to United Kingdom? If so, please visit [skatedeluxe.com](https://www.skatedeluxe.com/de/agb?force_domain=1).**  
 On skatedeluxe.ch delivery is available only to these countries: Liechtenstein and Switzerland
 
 Visit skatedeluxe.com
