@@ -5,7 +5,6 @@ Free Shipping on ALL orders above $125
 
 [![Seek Discomfort Logo](//www.seekdiscomfort.com/cdn/shop/files/new_logo_1.png?v=1715714632)](https://www.seekdiscomfort.com/)
 
-* [Sale](https://www.seekdiscomfort.com/collections/sale)
 * [About](#)
 * [Account](https://www.seekdiscomfort.com/pages/account)
 
@@ -35,7 +34,6 @@ Go to European Site
 
 * [Shop ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
 * [Collections ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
-* [Sale](https://www.seekdiscomfort.com/collections/sale)
 * [About ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
 * [Account ![right arrow simple](//www.seekdiscomfort.com/cdn/shop/t/197/assets/right-arrow.svg?v=76040689179243775741717788340)](#) 
 
@@ -45,6 +43,8 @@ Our goal is to be a daily reminder that the best things in life exist outside yo
 
 * [FAQs](https://www.seekdiscomfort.com/pages/faq)
 * [Contact Support](https://www.seekdiscomfort.com/pages/contact-us)
+
+COUNTDOWN TO SEEKERS DAY:
 
   
 
