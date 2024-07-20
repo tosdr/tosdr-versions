@@ -70,6 +70,8 @@ Help Topics
 
 [Account Questions](https://www.rakuten.com/help/category/account-questions-26578301675411)
 
+[More Features](https://www.rakuten.com/help/category/more-features-31315401553811)
+
 [Legal](https://www.rakuten.com/help/category/legal-115001470127)
 
 [Company Information](https://www.rakuten.com/help/category/company-information-115001466388)
@@ -106,7 +108,6 @@ About
 * Don’t Sell My Data
     
 * [Help](https://www.rakuten.com/help)
-* [Cash Back for Change](https://www.rakuten.com/cash-back-for-change)
 
 Stores & Brands
 
