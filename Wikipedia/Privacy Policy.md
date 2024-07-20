@@ -41,7 +41,7 @@ Other languages:
 * [català](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ca "Policy:Privacy policy/ca (62% translated)")
 * [dansk](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/da "Policy:Privacy policy/da (16% translated)")
 * [eesti](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/et "Policy:Privacy policy/et (93% translated)")
-* [español](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/es "Policy:Privacy policy/es (99% translated)")
+* [español](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/es "Policy:Privacy policy/es (100% translated)")
 * [euskara](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/eu "Policy:Privacy policy/eu (62% translated)")
 * [français](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/fr "Policy:Privacy policy/fr (100% translated)")
 * [galego](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/gl "Policy:Privacy policy/gl (96% translated)")
@@ -54,7 +54,7 @@ Other languages:
 * [norsk bokmål](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/nb "Policy:Privacy policy/nb (48% translated)")
 * [occitan](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/oc "Policy:Privacy policy/oc (5% translated)")
 * [oʻzbekcha / ўзбекча](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/uz "Policy:Privacy policy/uz (25% translated)")
-* [polski](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/pl "Policy:Privacy policy/pl (36% translated)")
+* [polski](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/pl "Policy:Privacy policy/pl (91% translated)")
 * [português](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/pt "Policy:Privacy policy/pt (56% translated)")
 * [português do Brasil](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/pt-br "Policy:Privacy policy/pt-br (95% translated)")
 * [română](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ro "Policy:Privacy policy/ro (18% translated)")
@@ -64,7 +64,7 @@ Other languages:
 * [slovenščina](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/sl "Policy:Privacy policy/sl (45% translated)")
 * [suomi](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/fi "Policy:Privacy policy/fi (95% translated)")
 * [svenska](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/sv "Policy:Privacy policy/sv (68% translated)")
-* [čeština](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/cs "Policy:Privacy policy/cs (96% translated)")
+* [čeština](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/cs "Policy:Privacy policy/cs (100% translated)")
 * [Ελληνικά](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/el "Policy:Privacy policy/el (54% translated)")
 * [башҡортса](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ba "Policy:Privacy policy/ba (11% translated)")
 * [беларуская](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/be "Policy:Privacy policy/be (0% translated)")
@@ -94,7 +94,7 @@ Other languages:
 * [کوردی](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ckb "Policy:Privacy policy/ckb (36% translated)")
 * [کٲشُر](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ks-arab "Policy:Privacy policy/ks-arab (4% translated)")
 * [कॉशुर / کٲشُر](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ks "Policy:Privacy policy/ks (13% translated)")
-* [नेपाली](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ne "Policy:Privacy policy/ne (6% translated)")
+* [नेपाली](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ne "Policy:Privacy policy/ne (100% translated)")
 * [भोजपुरी](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/bho "Policy:Privacy policy/bho (1% translated)")
 * [मराठी](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/mr "Policy:Privacy policy/mr (9% translated)")
 * [संस्कृतम्](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/sa "Policy:Privacy policy/sa (10% translated)")
@@ -191,8 +191,8 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 
 [Important info](#important)
 
- [![](//upload.wikimedia.org/wikipedia/commons/thumb/b/be/WMF_open_door.png/60px-WMF_open_door.png)](https://wikimediafoundation.org/wiki/File:WMF_open_door.png) Introduction
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/be/WMF_open_door.png/60px-WMF_open_door.png)](https://wikimediafoundation.org/wiki/File:WMF_open_door.png) Introduction
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Welcome!
 
@@ -257,8 +257,8 @@ Where community policies govern information, such as the [CheckUser policy](http
 
 [Back to top](#top) [![](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://wikimediafoundation.org/wiki/Privacy_policy#top "Privacy policy")
 
- [![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WMF_chart.png/60px-WMF_chart.png)](https://wikimediafoundation.org/wiki/File:WMF_chart.png) Collection & Use of Info
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WMF_chart.png/60px-WMF_chart.png)](https://wikimediafoundation.org/wiki/File:WMF_chart.png) Collection & Use of Info
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Types of Information We Receive From You & How We Get It
 
@@ -412,8 +412,8 @@ We use this location information to make your experience with the Wikimedia Site
 
 [Back to top](#top) [![](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://wikimediafoundation.org/wiki/Privacy_policy#top "Privacy policy")
 
- [![](//upload.wikimedia.org/wikipedia/commons/thumb/9/90/WMF_share.png/60px-WMF_share.png)](https://wikimediafoundation.org/wiki/File:WMF_share.png) Sharing
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/90/WMF_share.png/60px-WMF_share.png)](https://wikimediafoundation.org/wiki/File:WMF_share.png) Sharing
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### When May We Share Your Information?
 
@@ -497,8 +497,8 @@ Any information you post publicly on the Wikimedia Sites is just that – public
 
 [Back to top](#top) [![](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://wikimediafoundation.org/wiki/Privacy_policy#top "Privacy policy")
 
- [![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/WMF_safe.png/60px-WMF_safe.png)](https://wikimediafoundation.org/wiki/File:WMF_safe.png) Protection
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/WMF_safe.png/60px-WMF_safe.png)](https://wikimediafoundation.org/wiki/File:WMF_safe.png) Protection
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### How Do We Protect Your Personal Information?
 
@@ -530,8 +530,8 @@ Please note also that you may be able to exercise some of these rights without o
 
 [Back to top](#top) [![](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://wikimediafoundation.org/wiki/Privacy_policy#top "Privacy policy")
 
- [![](//upload.wikimedia.org/wikipedia/commons/thumb/9/92/WMF_sign.png/60px-WMF_sign.png)](https://wikimediafoundation.org/wiki/File:WMF_sign.png) Important info
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/92/WMF_sign.png/60px-WMF_sign.png)](https://wikimediafoundation.org/wiki/File:WMF_sign.png) Important info
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.**
 
