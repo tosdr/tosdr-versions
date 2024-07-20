@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=985538201499949&ev=PageView&noscript=1)     
+![](https://www.facebook.com/tr?id=985538201499949&ev=PageView&noscript=1)  
 
 * [![](https://arrowheadhealth.com/wp-content/uploads/2020/03/social-f.png)](https://www.facebook.com/arrowheadhealth)
 * [![](https://arrowheadhealth.com/wp-content/uploads/2020/03/socail-t.png)](https://twitter.com/ahcnow)
@@ -9,6 +9,7 @@
 * [Portal](https://arrowheadhealth.com/portal/)
 
 [Redirect Health Centers](https://arrowheadhealth.com/)
+=======================================================
 
 * [About](https://arrowheadhealth.com/about/ "About Arrowhead Centers")
     * [Our Story](https://arrowheadhealth.com/ahc-story/)
@@ -45,13 +46,13 @@
 
 Put People First & People Get Healthy™
 
-* [Home](https://arrowheadhealth.com/) » **Privacy Policy / HIPAA**
+* Please install [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) plugin and enable the breadcrumb option to use this shortcode!
     
 
 Privacy Policy / HIPAA
 ======================
 
-[Home](https://arrowheadhealth.com/) » **Privacy Policy / HIPAA**
+You are here: [Home](https://arrowheadhealth.com/) / Privacy Policy / HIPAA
 
 HIPAA Policy
 ------------
