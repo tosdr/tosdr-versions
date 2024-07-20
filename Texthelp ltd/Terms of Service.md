@@ -75,6 +75,8 @@ Refine
         
     * Open Source Software Providers
         
+* End User License Agreements
+    
 * ClaroRead
     
     * ClaroRead For Windows
@@ -176,6 +178,8 @@ Table of Contents Table of Contents Toggle navigation
             
         * Open Source Software Providers
             
+    * End User License Agreements
+        
     * ClaroRead
         
         * ClaroRead For Windows
@@ -279,6 +283,8 @@ Table of Contents Table of Contents Toggle navigation
             
         * Open Source Software Providers
             
+    * End User License Agreements
+        
     * ClaroRead
         
         * ClaroRead For Windows
@@ -419,6 +425,22 @@ Table of Contents Table of Contents Toggle navigation
             
     * [Open Source Software Providers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdh5sOVEkfSaUvoJvaOjDDj318OKfBYjiitmTKtPONQjW6gyWAlSDHe4O60wVIgrYnvyLH37ve_i8B/pubhtml?gid=0&single=true)
         
+* [End User License Agreements](javascript:void(0);)
+    
+    * [End User License Agreement For Read&Write](https://support.texthelp.com/help/readwrite-eula)
+    * [End User License Agreement For Equatio](https://support.texthelp.com/help/equatio-end-user-license-agreement)
+    * [End User License Agreement For Snapverter](https://support.texthelp.com/help/snapverter-user-terms)
+    * [End User License Agreement for Global Tasks](https://support.texthelp.com/help/global-tasks-end-user-license-agreement)
+    * [End User License Agreement for Claro Software - Site License](https://support.texthelp.com/help/end-user-license-agreement-for-claro-software-site-license)
+    * [Changes to our End User Licence Agreements](https://support.texthelp.com/help/changes-to-our-end-user-licence-agreements)
+    * [Global Autocorrect Third party licence terms](https://support.texthelp.com/help/global-autocorrect-third-party-licence-terms)
+    * [End User License Agreement for Claro Cloud](https://support.texthelp.com/help/end-user-license-agreement-for-claro-cloud)
+    * [End User License Agreement for AutoCorrect](https://support.texthelp.com/help/end-user-license-agreement-for-autocorrect)
+    * [End User License Agreement for Claro Software](https://support.texthelp.com/help/end-user-license-agreement-for-claro-software)
+    * [End User License Agreement For Fluency Tutor For Google](https://support.texthelp.com/help/fluency-tutor-for-google-user-terms)
+    * [End User License Agreement For WriQ](https://support.texthelp.com/help/end-user-license-agreement-for-wriq)
+    * [End User License Agreement For ReachDeck](https://support.texthelp.com/help/end-user-license-agreement-for-reachdeck)
+    * [End User Agreement for OrbitNote](https://support.texthelp.com/help/end-user-agreement-for-orbitnote)
 * [ClaroRead](javascript:void(0);)
     
     * [Claro Contact Us](https://support.texthelp.com/help/claro-contact-us)
@@ -447,12 +469,12 @@ Table of Contents Table of Contents Toggle navigation
     * [Roadmap And Release Notes](https://support.texthelp.com/help/roadmap-and-release-notes)
     * [Writing Helper FAQ](https://support.texthelp.com/help/writing-helper-faq)
     * [Writing Helper User Guide](https://support.texthelp.com/help/writing-helper-user-guide)
-    * [Writing Helper Mac Release Notes](https://support.texthelp.com/help/writing-helper-mac-release-notes)
     * [Writing Helper For Mac - Uninstaller](https://support.texthelp.com/help/writing-helper-for-mac-uninstaller)
     * [Writing Helper Example Projects](https://support.texthelp.com/help/writing-helper-example-projects)
     * ["A client-side exception has occurred"](https://support.texthelp.com/help/a-client-side-exception-has-occurred)
     * [Writing Helper Network Installation](https://support.texthelp.com/help/writing-helper-network-installation)
     * [Unable to move, re-order or add new sections/sub-sections in Structure tab](https://support.texthelp.com/help/unable-to-move-re-order-or-add-new-sectionssub-sections-in-structure-tab)
+    * [Sign up for Writing Helper trial](https://support.texthelp.com/help/sign-up-for-writing-helper-trial)
 * [Global Tasks](javascript:void(0);)
     
     * [How to use Global Tasks](https://support.texthelp.com/help/how-to-use-global-tasks)
@@ -533,6 +555,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Administrators can now remove stories if they feel the content is against policy.](https://support.texthelp.com/help/administrators-can-now-remove-stories-if-they-feel-the-content-is-against-policy)
             * [Administrators can now view the word count and the text from the stories/passages.](https://support.texthelp.com/help/administrators-can-now-view-the-word-count-and-the-text-from-the-storiespassages)
             * [New Change My Grade option.](https://support.texthelp.com/help/new-change-my-grade-option)
+            * [The New uPAR now has a recheck option.](https://support.texthelp.com/help/the-new-upar-now-has-a-recheck-option)
 * [Deprecation of Equatio Server Email](https://support.texthelp.com/help/deprecation-of-equatio-server-email)
 * [Simplify AI Disclaimer](https://support.texthelp.com/help/simplify-ai-disclaimer)
 * [AutoCorrect](javascript:void(0);)
@@ -547,8 +570,11 @@ Table of Contents Table of Contents Toggle navigation
     * [Backing Up and Restoring AutoCorrect List and Settings](https://support.texthelp.com/help/autocorrect-backing-up-and-restoring-autocorrect-list-and-settings)
     * [Adding Corrections and App Exclusions to AutoCorrect](https://support.texthelp.com/help/adding-corrections-and-app-exclusions-to-autocorrect)
     * [Unable to update](https://support.texthelp.com/help/unable-to-update)
+    * [Pre-Configuring Mac for AutoCorrect Use In A Site Environment](https://support.texthelp.com/help/pre-configuring-mac-for-autocorrect-use-in-a-site-environment)
 
 * [Home](https://support.texthelp.com/help)
+
+* [End User License Agreements](https://support.texthelp.com/help/end-user-license-agreements)
 
 Changes to our End User Licence Agreements[](#)[](#)
 ====================================================
@@ -580,9 +606,9 @@ Related Articles
     
 * [How do I give a student access to uPAR using a username and password?](https://support.texthelp.com/help/how-do-i-give-a-student-access-to-upar-using-a-username-and-password)
     
-* [Claro Cloud OCR User Guide](https://support.texthelp.com/help/claro-cloud-ocr-user-guide)
-    
 * [Read&Write for Google Chrome Prediction Options](https://support.texthelp.com/help/i-want-to-change-the-number-of-words-in-the-prediction-list)
+    
+* [Licence Keys Explained](https://support.texthelp.com/help/licence-keys-explained)
     
 
    
