@@ -241,9 +241,9 @@ Search Ramsey Solutions Search Ramsey Solutions
 Ramsey Solutions Privacy Policy
 ===============================
 
-MAY 10, 2024
+JUNE 28, 2024
 
-The Lampo Group, LLC d/b/a Ramsey Solutions (“Ramsey Solutions,” “we” “our” or “us”) is committed to protecting your privacy, and in doing so, we want to make sure that this Privacy Policy (“Policy”) is clear and concise enough for you to understand it. This Policy discloses our privacy practices and how we may use the information that we gather on our digital properties, including but not limited to websites, online platforms, mobile applications, web services, services, and products owned by Ramsey Solutions (the “Sites”).
+The Lampo Group, LLC d/b/a Ramsey Solutions, Ramsey Coaching, Ramsey Consumer Products, Ramsey Education, Ramsey EntreLeadership, Ramsey EveryDollar, Ramsey Financial Peace University, Ramsey Live Events, Ramsey Network, Ramsey Plus (Ramsey+), Ramsey SmartDollar, Ramsey SmartVestor, Ramsey Solutions, and RamseyTrusted (“Ramsey Solutions,” “we” “our” or “us”)**,** is committed to protecting your privacy, and in doing so, we want to make sure that this Privacy Policy (“Policy”) is clear and concise enough for you to understand it. This Policy discloses our privacy practices and how we may use the information that we gather on our digital properties, including but not limited to websites, online platforms, mobile applications, web services, services, and products owned by Ramsey Solutions (the “Sites”).
 
 This Policy applies to information collected by our Sites and contains the following:
 
@@ -322,11 +322,21 @@ There may be times when we need to share, or otherwise disclose, your personal i
 
 These third-party service providers are only granted access to your personal information, as we deem necessary, and they are contractually restricted in the ways they may use your information. The providers may also use Cookies (as defined within this Policy) or other automatic collection technology on behalf of Ramsey Solutions.
 
-Moreover, if a division, or part or all of Ramsey Solutions, is purchased, sold or otherwise transferred to/by another company, or is in the process of a potential transaction with another company, customer information will likely be shared for evaluation purposes and included among the transferred business assets. Such acquiring company’s right to use your personal information shall be limited to the terms of this Policy unless additional notice is provided to you.
+Moreover, if a division, or part or all of Ramsey Solutions, is purchased, sold, or otherwise transferred to/by another company, or is in the process of a potential transaction with another company, customer information will likely be shared for evaluation purposes and included among the transferred business assets. Such acquiring company’s right to use your personal information shall be limited to the terms of this Policy unless additional notice is provided to you.
 
 Ramsey Solutions may also be required to disclose specific information to comply with the law, a subpoena, or other litigation process. We may also disclose your information to protect the interests or safety of its visitors and customers, employees, or others, which includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 Ramsey Solutions does not sell your personal information to third parties.
+
+We store your personal information for as long as needed, or permitted, based on the reason why we obtained it (consistent with applicable law). This means we might retain your personal information even after you close your account with us.
+
+When deciding how long to keep your information, we consider the following:
+
+* How long we have had a relationship with you or provided a service to you
+* Whether we are subject to any legal obligations (_e.g._, any laws that require us to keep transaction records for a certain period of time before we can delete them)
+* Whether we have taken any legal positions (_e.g._, in connection with any statutes of limitation)
+
+Rather than deleting your data, we might de-identify it by removing identifying details.
 
 Geographic Restrictions
 -----------------------
@@ -358,11 +368,11 @@ Our Sites may contain links to third-party sites, including those of our busines
 Children’s Privacy
 ------------------
 
-### Under Age 13
+### Consumers Under Age 16
 
-Ramsey Solutions does not knowingly solicit or collect personally identifiable information online from children under the age of 13 without prior verifiable parental consent. If we learn that a child under the age of 13 has submitted personally identifiable information online without parental consent, we will take all reasonable measures to delete such information from our databases and not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law).
+Ramsey Solutions does not knowingly solicit or collect personally identifiable information online from children under the age of 16 without prior verifiable parental consent. If we learn that a child under the age of 16 has submitted personally identifiable information online without parental consent, we will take all reasonable measures to delete such information from our databases and not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law).
 
-### Under Age 18
+### Consumers Under Age 18
 
 Personal information that has been provided to Ramsey Solutions through our Sites by minors under the age of 18, can be deleted by sending an email requesting the deletion to [privacy@ramseysolutions.com](mailto:privacy@ramseysolutions.com).
 
@@ -372,10 +382,10 @@ If you become aware of any personally identifiable information we have collected
 
 While our Sites are not intended for use by children, parents who upload personal information regarding their children do so at their own risk and subject to the terms of this Policy.
 
-California Consumer Privacy Act (CCPA)
---------------------------------------
+California Consumer Privacy Act (CCPA) and Other State Privacy Laws
+-------------------------------------------------------------------
 
-CCPA provides California residents privacy rights, including the right to:
+Several U.S. states provide their residents privacy rights, including the right to:
 
 * Request the following information regarding our use of your personal information:
     * Categories of your personal information that we have collected;
@@ -388,7 +398,19 @@ CCPA provides California residents privacy rights, including the right to:
 * Request for us to delete your personal information (subject to certain exceptions that may apply); and
 * Opt-out of the sale of your personal information (subject to certain exceptions that may apply).
 
-To make a request under CCPA, send an email to the following email address: [privacy@ramseysolutions.com](mailto:privacy@ramseysolutions.com). Please include "California Privacy Rights Request" in the subject line of the email.  You also are welcome to call our Ramsey Concierge team at [1 (888) 227-3223](tel:1-888-227-3223) on Monday and Wednesday from 9:30am to 5:00pm CST and Tuesday, Thursday, and Friday from 8:00am to 5:00pm CST or through the mail or by personal delivery to the physical address listed at the end of this Privacy Policy.
+To make a request under the CCPA or other applicable U.S. data privacy laws, you or your authorized agent may send an email to the following email address: [privacy@ramseysolutions.com](mailto:privacy@ramseysolutions.com). Please include " Privacy Rights Request" in the subject line of the email.  You also are welcome to call our Ramsey Concierge team at [1 (888) 227-3223](tel:1-888-227-3223) on Monday and Wednesday from 9:30 am to 5:00 pm CST and Tuesday, Thursday, and Friday from 8:00  am to 5:00 pm CST or through the mail or by personal delivery to the physical address listed at the end of this Privacy Policy.
+
+You may designate an authorized agent to make a request to exercise your rights on your behalf. In order to do that, provide your authorized agent with written permission, signed by you, authorizing the authorized agent to submit the request on your behalf. Your authorized agent must submit that written permission along with the request. We may contact you to verify your identity — and the authorized agent’s authority — before a response to the request is sent.
+
+If we decline to act on your request, we will inform you of our justification for declining to act and instructions for how **you may appeal our decision**. Appeals may be commenced by sending a letter to us via U.S. Mail, first class postage prepaid and with delivery confirmation, addressed as follows: 
+
+_The Lampo Group, LLC   
+d/b/a Ramsey Solutions   
+Attention: General Counsel  
+1011 Reams Fleming Blvd.  
+Franklin, Tennessee 37064_
+
+Your letter must include your email address, a copy of the dated correspondence from us declining to act on your request, and an explanation of why you believe our justification for declining to act is in error. 
 
 Your exercise of these rights will have no adverse effect on the availability, price, or quality of our services.
 
@@ -405,9 +427,9 @@ Please contact us if you have any questions or concerns about our Privacy Policy
 The Lampo Group, LLC  
 Attention: **Privacy**  
 1011 Reams Fleming Blvd  
-Franklin, TN 37064
+Franklin, Tennessee 37064
 
-**_Privacy\_Gen\_05.10.2024v09_**
+**_Privacy\_Gen\_06.28.2024v10_**
 
 [![Ramsey Solutions](https://cdn.ramseysolutions.net/media/rscom/logos/footer-logo-ramsey-blue.svg)](https://www.ramseysolutions.com/)
 
@@ -417,7 +439,7 @@ Franklin, TN 37064
 * [Newsletter](https://www.ramseysolutions.com/newsletter)
 * [Newsroom](https://www.ramseysolutions.com/company/newsroom)
 * [Ramsey Press](https://www.ramseysolutions.com/company/ramsey-press)
-* [About](https://www.ramseysolutions.com/company)
+* [About](https://www.ramseysolutions.com/about)
 
 [](https://www.facebook.com/daveramsey)[](https://www.twitter.com/daveramsey)[](https://www.youtube.com/c/TheRamseyShow)[](https://www.instagram.com/daveramsey)
 
