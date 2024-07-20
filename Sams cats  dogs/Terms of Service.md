@@ -55,7 +55,7 @@ All Locations
 Open Today Until 7:00 pm  
 In-Store Pickup, Curbside Pickup, Local Delivery, No Contact Delivery Available](javascript:;)[### Everett
 
- 11033 7th Ave SE, Everett, WA 98208  
+ 811 SE Everett Mall Way, Everett, WA 98208  
   (425) 353-9076  
 Open Today Until 7:00 pm  
 In-Store Pickup, Curbside Pickup, Local Delivery Available](javascript:;)[### Redmond
@@ -71,7 +71,7 @@ Sam's Cats & Dogs Naturally
 20016 Old Owen Road  
 Monroe, WA, 98272
 
-OPEN TODAY UNTIL 7:00 PM
+We Open Saturday at 10:00 AM
 
 [(360) 805-5060](tel:(360) 805-5060)
 
@@ -182,63 +182,63 @@ Take a look at the current deals we have going on and save on the best pet suppl
 
 4
 
-### [Earth Animal | Save On No-Hide Strips 4-Packs and Single](https://www.samscatsanddogs.com/deals/earth-animal-save-on-no-hide-strips-4-packs-and-single-/ "View Offer, Deal, Coupon for Earth Animal | Save On No-Hide Strips 4-Packs and Single  from Sam's Cats & Dogs Naturally")
+### [The Bear and the Rat | Save On Frozen Yogurt](https://www.samscatsanddogs.com/deals/the-bear-and-the-rat-save-on-frozen-yogurt/ "View Offer, Deal, Coupon for The Bear and the Rat | Save On Frozen Yogurt from Sam's Cats & Dogs Naturally")
 
   
 
-![Image of Earth Animal | Save On No-Hide Strips 4-Packs and Single  Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
+![Image of The Bear and the Rat | Save On Frozen Yogurt Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
 
-Valid from 05/01/2024 - 06/30/2024
+Valid from 11/28/2023 - 07/31/2024
 
-[View](https://www.samscatsanddogs.com/deals/earth-animal-save-on-no-hide-strips-4-packs-and-single-/) [View](https://www.samscatsanddogs.com/deals/earth-animal-save-on-no-hide-strips-4-packs-and-single-/) Share
+[View](https://www.samscatsanddogs.com/deals/the-bear-and-the-rat-save-on-frozen-yogurt/) [View](https://www.samscatsanddogs.com/deals/the-bear-and-the-rat-save-on-frozen-yogurt/) Share
 
-* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/earth-animal-save-on-no-hide-strips-4-packs-and-single-/)
-* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/earth-animal-save-on-no-hide-strips-4-packs-and-single-/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
+* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/the-bear-and-the-rat-save-on-frozen-yogurt/)
+* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/the-bear-and-the-rat-save-on-frozen-yogurt/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
 
 4
 
-### [Bocce's Bakery | $1.00 OFF Everyday Training Bites](https://www.samscatsanddogs.com/deals/bocces-bakery-1-00-off-everyday-training-bites/ "View Offer, Deal, Coupon for Bocce's Bakery | $1.00 OFF Everyday Training Bites from Sam's Cats & Dogs Naturally")
+### [Plato | Save On Toppers](https://www.samscatsanddogs.com/deals/plato-save-on-toppers/ "View Offer, Deal, Coupon for Plato | Save On Toppers from Sam's Cats & Dogs Naturally")
 
   
 
-![Image of Bocce's Bakery | $1.00 OFF Everyday Training Bites Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
+![Image of Plato | Save On Toppers Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
 
-Valid from 06/01/2024 - 06/30/2024
+Valid from 05/01/2024 - 07/31/2024
 
-[View](https://www.samscatsanddogs.com/deals/bocces-bakery-1-00-off-everyday-training-bites/) [View](https://www.samscatsanddogs.com/deals/bocces-bakery-1-00-off-everyday-training-bites/) Share
+[View](https://www.samscatsanddogs.com/deals/plato-save-on-toppers/) [View](https://www.samscatsanddogs.com/deals/plato-save-on-toppers/) Share
 
-* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/bocces-bakery-1-00-off-everyday-training-bites/)
-* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/bocces-bakery-1-00-off-everyday-training-bites/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
+* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/plato-save-on-toppers/)
+* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/plato-save-on-toppers/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
 
 4
 
-### [Fromm | Buy 2, Get 1 FREE on Tenderollies](https://www.samscatsanddogs.com/deals/fromm-buy-2-get-1-free-on-tenderollies/ "View Offer, Deal, Coupon for Fromm | Buy 2, Get 1 FREE on Tenderollies from Sam's Cats & Dogs Naturally")
+### [Nulo | FREE Crunchy Cat Treat with Qualifying Kibble Purc](https://www.samscatsanddogs.com/deals/nulo-free-crunchy-cat-treat-with-qualifying-kibble-purc/ "View Offer, Deal, Coupon for Nulo | FREE Crunchy Cat Treat with Qualifying Kibble Purc from Sam's Cats & Dogs Naturally")
 
   
 
-![Image of Fromm | Buy 2, Get 1 FREE on Tenderollies Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
+![Image of Nulo | FREE Crunchy Cat Treat with Qualifying Kibble Purc Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
 
-Valid from 06/01/2024 - 06/30/2024
+Valid from 06/01/2024 - 07/31/2024
 
-[View](https://www.samscatsanddogs.com/deals/fromm-buy-2-get-1-free-on-tenderollies/) [View](https://www.samscatsanddogs.com/deals/fromm-buy-2-get-1-free-on-tenderollies/) Share
+[View](https://www.samscatsanddogs.com/deals/nulo-free-crunchy-cat-treat-with-qualifying-kibble-purc/) [View](https://www.samscatsanddogs.com/deals/nulo-free-crunchy-cat-treat-with-qualifying-kibble-purc/) Share
 
-* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/fromm-buy-2-get-1-free-on-tenderollies/)
-* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/fromm-buy-2-get-1-free-on-tenderollies/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
+* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/nulo-free-crunchy-cat-treat-with-qualifying-kibble-purc/)
+* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/nulo-free-crunchy-cat-treat-with-qualifying-kibble-purc/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
 
 4
 
-### [Nature's Logic | $5.00 OFF 12lb Bags of Distinction](https://www.samscatsanddogs.com/deals/natures-logic-5-00-off-12lb-bags-of-distinction/ "View Offer, Deal, Coupon for Nature's Logic | $5.00 OFF 12lb Bags of Distinction from Sam's Cats & Dogs Naturally")
+### [Nulo | Save On Freeze-Dried Raw](https://www.samscatsanddogs.com/deals/nulo-save-on-freeze-dried-raw/ "View Offer, Deal, Coupon for Nulo | Save On Freeze-Dried Raw from Sam's Cats & Dogs Naturally")
 
   
 
-![Image of Nature's Logic | $5.00 OFF 12lb Bags of Distinction Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
+![Image of Nulo | Save On Freeze-Dried Raw Promotion in Monroe](https://ik.imagekit.io/0ofixtqpt/tr:n-promotion_widget/143729/default-placeholder.png)
 
-Valid from 06/01/2024 - 06/30/2024
+Valid from 06/01/2024 - 07/31/2024
 
-[View](https://www.samscatsanddogs.com/deals/natures-logic-5-00-off-12lb-bags-of-distinction/) [View](https://www.samscatsanddogs.com/deals/natures-logic-5-00-off-12lb-bags-of-distinction/) Share
+[View](https://www.samscatsanddogs.com/deals/nulo-save-on-freeze-dried-raw/) [View](https://www.samscatsanddogs.com/deals/nulo-save-on-freeze-dried-raw/) Share
 
-* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/natures-logic-5-00-off-12lb-bags-of-distinction/)
-* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/natures-logic-5-00-off-12lb-bags-of-distinction/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
+* [](https://www.facebook.com/sharer/sharer.php?u=https://samscatsanddogs.com/deals/nulo-save-on-freeze-dried-raw/)
+* [](https://www.linkedin.com/sharing/share-offsite?mini=true&url=https://samscatsanddogs.com/deals/nulo-save-on-freeze-dried-raw/&title=&summary=Best+store+to+buy+cat+or+dog+food+%26+supply+products+in+Monroe.+Shop+Local+at+Sam%27s+Cats+%26+Dogs+Naturally.+Find+frozen+raw+dog+food%2C+freeze-dried+options%2C+premium+kibbles%2C+natural+cat+food+%26+more+in+Washington.)
 
 [View All Offers](https://www.samscatsanddogs.com/deals/)
 
@@ -253,6 +253,14 @@ What Our Customers Say
 ----------------------
 
 Don't just take our word for it - see why pet parents in [Monroe](https://www.google.com/maps/dir/Monroe,+WA/Sam's+Cats+%26+Dogs+Naturally,+Old+Owen+Road,+Monroe,+WA/@47.8569428,-121.9692978,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x549aa656f7bf77a5:0x77f7f38b2e289ae1!2m2!1d-121.970958!2d47.8553772!1m5!1m1!1s0x549aa6f7b7e731d9:0x914a0a247db71754!2m2!1d-121.962477!2d47.8583449!3e0?entry=ttu "Get Directions From Monroe"), [Everett](https://www.google.com/maps/dir/Everett,+WA/Sam's+Cats+%26+Dogs+Naturally,+7th+Avenue+Southeast,+Everett,+WA/@47.9382225,-122.251261,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x5490006404f52f5b:0x72449f271b24790!2m2!1d-122.2020795!2d47.9789848!1m5!1m1!1s0x549006c43920ca1d:0x1f483f867c02df2d!2m2!1d-122.2227843!2d47.8972974!3e0?entry=ttu "Get Directions From Everett"), [Redmond](https://www.google.com/maps/dir/Redmond,+WA/Sam's+Cats+%26+Dogs+Naturally,+Northeast+Novelty+Hill+Road,+Redmond,+WA/@47.6862371,-122.1138385,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54900cad2000ee23:0x5e0390eac5d804f2!2m2!1d-122.121512!2d47.6739881!1m5!1m1!1s0x549073e3d1db7121:0x2d6f1df440a1f0ce!2m2!1d-122.0247631!2d47.7001784!3e0?entry=ttu "Get Directions From Redmond"), [Edmonds](https://www.google.com/maps/dir/Edmonds,+WA/Sam's+Cats+%26+Dogs+Naturally,+Old+Owen+Road,+Monroe,+WA/@47.8001018,-122.3983597,10z/data=!4m14!4m13!1m5!1m1!1s0x54901b1d8b6c6fe9:0x72449f271b246a0!2m2!1d-122.3773551!2d47.8106521!1m5!1m1!1s0x549aa6f7b7e731d9:0x914a0a247db71754!2m2!1d-121.962477!2d47.8583449!3e0?entry=ttu "Get Directions From Edmonds"), [Bellevue](https://www.google.com/maps/dir/Bellevue,+WA/Sam's+Cats+%26+Dogs+Naturally,+Old+Owen+Road,+Monroe,+WA/@47.7359585,-122.2442599,11z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54906bcfa3a66041:0xbacf5482ead00765!2m2!1d-122.2015159!2d47.6101497!1m5!1m1!1s0x549aa6f7b7e731d9:0x914a0a247db71754!2m2!1d-121.962477!2d47.8583449!3e0?entry=ttu "Get Directions From Bellevue"), and more choose us for their pet food & supply needs.
+
+![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
+
+Kari Morgan
+
+2024-07-13
+
+Very helpful employees and always really nice.
 
 ![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
 
@@ -286,14 +294,6 @@ Bryan Link
 
 Decent prices and if they don't carry what you are looking for, they will order it! I'd rather spend my money locally vs. Amazon when I can
 
-![](https://ik.imagekit.io/0ofixtqpt/tr:n-reviewer_image_thumb/143729/default-placeholder.png)
-
-Jeff Szczerbinski
-
-2024-04-16
-
-Cute place and friend staff
-
 [View All Reviews](https://www.samscatsanddogs.com/reviews/) [Write A Review](https://app.nextpaw.com/write-review/xIgGvlmcNmihPm5X)
 
 Locations
@@ -322,7 +322,7 @@ Set as Favorite
 
 [### **Everett**](https://www.samscatsanddogs.com/everett)Open Today from 9:00 AM - 7:00 PM
 
-11033 7th Ave SE  
+811 SE Everett Mall Way  
 Everett, WA 98208
 
 * * *
@@ -337,7 +337,7 @@ We Carry Supplies For: [Cat,](https://www.samscatsanddogs.com/everett/cat-food-s
 
 Set as Favorite
 
-[Directions](https://maps.app.goo.gl/3KHvF2x7X735uRu1A)
+[Directions](https://www.google.com/maps/place/search?q=Sam%27s+Cats+%26+Dogs+Naturally+811%2BSE%2BEverett%2BMall%2BWay%2CEverett%2C98208%2CWA&place_id=ChIJNyfSkNQGkFQRiXx1lK6AZSc)
 
 [Contact Us](https://www.samscatsanddogs.com/everett/contact-us)
 
