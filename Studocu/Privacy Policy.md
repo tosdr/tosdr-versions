@@ -26,7 +26,7 @@ Guest userAdd your university or school
 
 0Uploads0upvotes
 
-[Upload](https://www.studocu.com/en-us/document/upload)
+New
 
 [Home](https://www.studocu.com/en-us/home)[My Library](https://www.studocu.com/en-us/my-library)[Ask AI](https://www.studocu.com/en-us/experts)
 
@@ -332,6 +332,7 @@ Legal
 
 * [Terms](https://www.studocu.com/en-us/terms)
 * [Privacy policy](https://www.studocu.com/en-us/privacy-policy)
+* Cookie Settings
 * [Cookie Statement](https://www.studocu.com/en-us/cookie-statement)
 
 * [](https://itunes.apple.com/app/studocu/id1460235511?ct=footer&ls=1&mt=8&pt=120058772)
