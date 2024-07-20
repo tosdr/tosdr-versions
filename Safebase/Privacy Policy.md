@@ -1,9 +1,3 @@
-SafeBase announces $33 million Series B investment
-
-[Read more](https://safebase.io/blog/series-b-press-release)
-
-+
-
 [![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/654939fb53cec5c2ddb7311f_Vectors-Wrapper.svg)](https://safebase.io/)[|||](#)[x](#)
 
 [![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/654939fb53cec5c2ddb7311f_Vectors-Wrapper.svg)](https://safebase.io/)
@@ -80,6 +74,12 @@ GRC
 
 Showcase your compliance efforts with scalable security reviews](https://safebase.io/solutions/grc)
 
+[![](https://cdn.prod.website-files.com/65397ce059ca157da9e02a14/662f0ff154d78aed6db3094e_Blog.png)
+
+Security Questionnaires
+
+Easily and efficiently respond to security questionnaires](https://safebase.io/solutions/security-questionnaires)
+
 Featured Resource
 
 [![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/659c795c017230ba20f6ae7a_Resource%20Card%20-%20Omdia.png)
@@ -107,12 +107,6 @@ See how top companies are using SafeBase](https://safebase.io/customers)
 Trust Centers Examples
 
 View our customer's Trust Centers](https://safebase.io/customers/trust-center-examples)
-
-[![](https://cdn.prod.website-files.com/65397ce059ca157da9e02a14/662a6663993641a7b992300d_Relationships.svg)
-
-Trust Alliance
-
-The leading customer community for trust-minded organizations](https://safebase.io/trust-alliance)
 
 Featured Resource
 
@@ -401,13 +395,13 @@ Solutions
 
 [GRC](https://safebase.io/solutions/grc)
 
+[Security Questionnaires](https://safebase.io/solutions/security-questionnaires)
+
 Customers
 
 [Our customers](https://safebase.io/customers)
 
 [Customer Trust Center examples](https://safebase.io/customers/trust-center-examples)
-
-[Trust Alliance](https://safebase.io/trust-alliance)
 
 Resources
 
