@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.com/news)
 
+    [![A+E Networks EMEA Partners with Titan OS](/s3/files/styles/card_tablet/public/2024-07/Titan%20OS.jpg?itok=PYzOmPIV)
+
+10 July 2024
+
+### TITAN OS PARTNERS WITH A+E NETWORKS EMEA ADDING FIVE CHANNELS TO ITS FAST OFFERING](https://www.aenetworks.com/news/titan-os-partners-ae-networks-emea-adding-five-channels-its-fast-offering)
+
     [![James Busby](/s3/files/styles/card_tablet/public/2024-07/Cut_To_The_Crime_S2_1920x1080_TT.jpg?itok=P2Z4qYLn)
 
 8 July 2024
@@ -87,12 +93,6 @@ Latest news
 28 June 2024
 
 ### COSMO DEDICATES ITS PRIDE CAMPAIGN TO LGBTQI WOMEN](https://www.aenetworks.com/news/cosmo-dedicates-its-pride-campaign-lgbtqi-women)
-
-    [![Jewish graves in Longis Common cemetery (digitally colourised). Credit: Alderney Museum.](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-06/HBISmall.jpg?VersionId=X3Q5xDKtB4wbriVbWlT2VHviWljYAP8u&itok=1I0gNAlH)
-
-27 June 2024
-
-### A+E NETWORKS EMEA COMMISSIONS REVELATORY TWO-PART SERIES SHEDDING NEW LIGHT ON ATROCITIES COMMITTED DURING THE NAZI OCCUPATION OF ALDERNEY](https://www.aenetworks.com/news/ae-networks-emea-commissions-revelatory-two-part-series-shedding-new-light-atrocities)
 
 Corporate
 ---------
