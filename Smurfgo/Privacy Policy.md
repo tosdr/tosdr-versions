@@ -1,10 +1,10 @@
-[](https://smurfgo.com/index.php?view=home&ref=&)
+[](https://smurfgo.com/index.php?view=account&ac=game-play&ref=&)
 
-[](https://smurfgo.com/index.php?view=home&ref=&)
+[](https://smurfgo.com/index.php?view=account&ac=game-play&ref=&)
 
-[](https://smurfgo.com/index.php?view=home&ref=&)
+[](https://smurfgo.com/index.php?view=account&ac=game-play&ref=&)
 
-[](https://smurfgo.com/index.php?view=home&ref=&)[Home](https://smurfgo.com/index.php?view=home&ref=&)
+[](https://smurfgo.com/index.php?view=account&ac=game-play&ref=&)[Home](https://smurfgo.com/index.php?view=home&ref=&)
 
 [Game Info](https://smurfgo.com/index.php?view=btc-faq&ref=&)
 
