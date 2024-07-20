@@ -4,7 +4,7 @@ Dismiss
 
 [Skip to Content](#main)
 
-[![Syracuse University Home](https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg)](https://www.syracuse.edu/)
+[![Syracuse University Homepage](https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg)](https://www.syracuse.edu/)
 
 * [Academics](https://www.syracuse.edu/academics/)
     
@@ -127,6 +127,7 @@ Dismiss
 * [Make a Gift](https://www.syracuse.edu/gift/)
 
 Information for
+---------------
 
 * [Admitted Students](https://www.syracuse.edu/admissions-aid/application-process/undergraduate/admitted/)
 * [Current Students](https://www.syracuse.edu/current-students/)
@@ -135,6 +136,8 @@ Information for
 * [Alumni](https://www.syracuse.edu/alumni/)
 * [Community and Visitors](https://www.syracuse.edu/community-and-visitors/)
 * [Parents and Families](https://www.syracuse.edu/admissions-aid/application-process/undergraduate/parents-families/)
+
+Search 
 
 Helpful Links
 
@@ -323,15 +326,20 @@ We will do our best to promptly deal with your request.
 
 [Apply Now](https://www.syracuse.edu/admissions-aid/application-process/undergraduate/apply/) [Request Information](https://www.syracuse.edu/admissions-aid/request-information/) [Tour Campus](https://www.syracuse.edu/admissions-aid/tour-campus/)
 
-[![Syracuse University Home](https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg)](https://www.syracuse.edu/)
+[![Syracuse University Homepage](https://fastly.cdn.syracuse.edu/dds-images/syracuse_horizontal_1Line.svg)](https://www.syracuse.edu/)
 
 900 South Crouse Ave.
 
 Syracuse, NY 13244
 
-1.315.443.1870
+[1.315.443.1870](tel:1.315.443.1870)
 
-[Follow us on facebook](https://www.facebook.com/syracuseuniversity) [Follow us on instagram](http://instagram.com/syracuseu) [Follow us on linkedin-in](https://www.linkedin.com/edu/school?id=19054) [Follow us on youtube](http://www.youtube.com/user/Syracuse) [Follow us on tiktok](https://www.tiktok.com/@syracuseu) [Follow us on twitter](https://twitter.com/syracuseu)
+* [Follow us on facebook](https://www.facebook.com/syracuseuniversity)
+* [Follow us on instagram](http://instagram.com/syracuseu)
+* [Follow us on linkedin-in](https://www.linkedin.com/edu/school?id=19054)
+* [Follow us on youtube](http://www.youtube.com/user/Syracuse)
+* [Follow us on tiktok](https://www.tiktok.com/@syracuseu)
+* [Follow us on twitter](https://twitter.com/syracuseu)
 
 [Contact Us](https://www.syracuse.edu/about/contact/) [Emergency Contact](https://www.syracuse.edu/about/contact/emergencies/)
 
@@ -353,6 +361,7 @@ Syracuse, NY 13244
 * [Make a Gift](https://www.syracuse.edu/gift/)
 
 Information for
+---------------
 
 * [Admitted Students](https://www.syracuse.edu/admissions-aid/application-process/undergraduate/admitted/)
 * [Current Students](https://www.syracuse.edu/current-students/)
@@ -374,6 +383,7 @@ Information for
 * [Accessibility](https://www.syracuse.edu/about/accessibility/)
 
 Login
+-----
 
 * [Blackboard](https://blackboard.syr.edu/)
 * [MySlice](https://myslice.syr.edu/)
