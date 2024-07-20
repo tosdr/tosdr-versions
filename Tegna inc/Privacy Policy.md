@@ -65,7 +65,7 @@ Search for:  Go!
 Privacy Policy
 ==============
 
-Effective Date: January 1, 2023
+Effective Date: July 1, 2024
 
 TEGNA Inc. (together with its affiliates, “**TEGNA”** “**we**,” “**us**” or “**our**”) is a national media company that owns and operates broadcast media channels, such as local television and radio stations, as well as certain other lines of business, including our [Premion](https://premion.com/) service. This “**Privacy Policy**” describes how we collect, use, and share personal information from the following online services (collectively, the “**Services**”): (a) our branded websites, mobile apps, connected TV apps, and other digital properties to which this Privacy Policy is posted, and (b) internet streaming platforms operated by third-party content partners on which Premion delivers advertising. Except as expressly provided in this Privacy Policy, it does not apply to information you provide to us offline or through other means.
 
@@ -87,6 +87,7 @@ You can access this Privacy Policy online at [www.tegna.com/privacy-policy](http
 * [Changes to this Privacy Policy](#changes)
 * [Your Privacy Rights](#rights)
 * [Additional Information for California Residents](#calif)
+* [Additional Information for Oregon Residents](#oregon)
 * [How to Contact Us](#contact)
 
 **Personal Information We Collect  
@@ -226,9 +227,9 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 **Your Privacy Rights**
 -----------------------
 
-Residents of certain states (e.g., California, Virginia) have the rights described below under state privacy laws. However, we honor requests described in this section from all users of our digital properties who reside in the United States, regardless of your state of residence.
+Residents of certain states have the rights described below under state privacy laws. However, we honor requests described in this section from all users of our digital properties who reside in the United States, regardless of your state of residence.
 
-For purposes of this section, “personal information” has the meaning given to “personal data”, “personal information” or similar terms under the applicable privacy laws of the state in which you reside.
+For purposes of this section, “personal information” has the meaning given to “personal data”, “personal information” or similar terms under the applicable privacy laws of the state in which you reside. TEGNA is the “controller” of your personal information covered by this Privacy Policy for purposes of applicable privacy laws.
 
 You have the following rights:
 
@@ -312,6 +313,11 @@ This section provides disclosures required by California law about information p
 **Sale of Personal Information/Use of Sensitive Personal Information**. We do not sell personal information of California residents as “sell” is defined under the California Consumer Privacy Act, except to the extent that the “sharing” of personal information for targeted advertising [described above](#optout) constitutes a “sale” of personal information. We do not use or disclose sensitive personal information (as defined under the California Consumer Privacy Act) of California residents for purposes subject to consumer limitation rights under the California Consumer Privacy Act. We do not have actual knowledge that we have sold or shared the personal information of California residents under 16 years of age.
 
 **Shine the Light / Your California Privacy Rights**. Under California’s Shine the Light Law (California Civil Code Section 1798.83), California residents may also ask companies with whom you have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined in the Shine the Light Law) during the preceding year for their own direct marketing purposes. California residents may send requests for this information to privacy@tegna.com. For all requests, you must put the statement “Shine the Light Request” in the body of your request, and provide your first and last name. Please also indicate in your request the name of the website or other digital service to which your request applies. We are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+Additional Information for Oregon Residents
+-------------------------------------------
+
+Oregon residents can request a list of specific third parties, other than natural persons, to which we have disclosed personal information. The list we provide may be limited to the third parties to which we have disclosed your personal information. You can submit this request by following the instructions in the [how to exercise your rights](#exercise) section above.
 
 **How to Contact Us**
 ---------------------
