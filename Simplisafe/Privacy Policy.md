@@ -67,7 +67,7 @@ You may receive email offers from us in accordance with our [Privacy Policy](htt
     * [Contact Us](https://simplisafe.com/contact-us)
     * [Help Center](https://support.simplisafe.com/hc/en-us)
     * [User Manuals](https://simplisafe.com/manual)
-    * [888-910-1458](tel:888-910-1458')
+    * [888-910-1458](tel:888-910-1458)
     * [Reviews](https://simplisafe.com/reviews)
 * Legal
     * [Legal](https://simplisafe.com/legal)
