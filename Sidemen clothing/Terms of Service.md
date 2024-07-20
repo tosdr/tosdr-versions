@@ -1,91 +1,50 @@
 [Skip to content](#main)
 
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/sale)
 
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
-
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
-
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
-
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
-
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
-
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
-
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
-
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
-
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
-
-[Y2K NOW AVAILABLE](https://www.sidemenclothing.com/collections/y2k)
-
-[SHOP THE COLLECTION HERE](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/y2k)
-
-[FREE SHIPPING TO EUROPE & USA ON ORDERS OVER £200](https://www.sidemenclothing.com/collections/y2k)
+[USE CODE 'SUMMER10' FOR EXTRA 10% OFF SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
 Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 
 * [NEW](https://www.sidemenclothing.com/collections/new)
 * COLLECTIONS
     
-    * [Inside](https://www.sidemenclothing.com/collections/inside)
     * [Y2K](https://www.sidemenclothing.com/collections/y2k)
     * [Vintage Graphics](https://www.sidemenclothing.com/collections/vintage-graphics)
     * [SDMN x Hot Wheels](https://www.sidemenclothing.com/collections/sdmn-x-hot-wheels)
@@ -127,7 +86,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
     * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
     
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
+* [SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
 [Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/NavigationClassicLogoWhite_7816ce09-0cd7-407b-9e6d-ba2a13b53178.webp?v=1704293088&width=2000)](https://www.sidemenclothing.com/) 
 
@@ -148,7 +107,7 @@ Country
 * CLOTHING
 * ACCESSORIES
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
+* [SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
 GBP £
 
@@ -159,7 +118,6 @@ Country
 [Account](https://www.sidemenclothing.com/account)
 
 * COLLECTIONS
-* [Inside](https://www.sidemenclothing.com/collections/inside)
 * [Y2K](https://www.sidemenclothing.com/collections/y2k)
 * [Vintage Graphics](https://www.sidemenclothing.com/collections/vintage-graphics)
 * [SDMN x Hot Wheels](https://www.sidemenclothing.com/collections/sdmn-x-hot-wheels)
@@ -213,7 +171,7 @@ NAVIGATION BAR
 * [CLOTHING](https://www.sidemenclothing.com/collections/clothing)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
+* [SUMMER SALE](https://www.sidemenclothing.com/collections/sale)
 
 Terms & Conditions
 ==================
@@ -555,4 +513,4 @@ display information
 
 [beeclever GDPR legal Cookie](https://gdpr-legal-cookie.myshopify.com/)
 
-[Privacy Policy](https://cdn.shopify.com/s/files/1/1078/8124/files/SDMN_Privacy_Policy_v2.0_latest_1.pdf?4615) [Contact Us](https://www.sidemenclothing.com/pages/contact-us) [Terms and Conditions](https://www.sidemenclothing.com/pages/terms-conditions)
+[Privacy Policy](https://www.sidemenclothing.com/pages/privacy-policy) [Contact Us](https://www.sidemenclothing.com/pages/faqs-contact-us) [Terms and Conditions](https://www.sidemenclothing.com/pages/terms-conditions)
