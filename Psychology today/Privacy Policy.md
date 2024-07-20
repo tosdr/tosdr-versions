@@ -23,20 +23,20 @@ Mobile Navigation
     
     United States
     
-    * [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Family Therapy Therapist in Austin, TX")
-    * [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Family Therapy Therapist in Brooklyn, NY")
-    * [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Family Therapy Therapist in Chicago, IL")
-    * [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Family Therapy Therapist in Denver, CO")
-    * [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Family Therapy Therapist in Houston, TX")
-    * [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Family Therapy Therapist in Los Angeles, CA")
-    * [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Family Therapy Therapist in New York, NY")
-    * [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Family Therapy Therapist in Portland, OR")
-    * [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Family Therapy Therapist in San Diego, CA")
-    * [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Family Therapy Therapist in San Francisco, CA")
-    * [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Family Therapy Therapist in Seattle, WA")
-    * [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Family Therapy Therapist in Washington, DC")
-    * [Atlanta, GA](https://www.psychologytoday.com/us/therapists/ga/atlanta "Find a Family Therapy Therapist in Atlanta, GA")
-    * [Sacramento, CA](https://www.psychologytoday.com/us/therapists/ca/sacramento "Find a Family Therapy Therapist in Sacramento, CA")
+    * [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Child Therapist in Austin, TX")
+    * [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Child Therapist in Brooklyn, NY")
+    * [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Child Therapist in Chicago, IL")
+    * [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Child Therapist in Denver, CO")
+    * [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Child Therapist in Houston, TX")
+    * [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Child Therapist in Los Angeles, CA")
+    * [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Child Therapist in New York, NY")
+    * [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Child Therapist in Portland, OR")
+    * [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Child Therapist in San Diego, CA")
+    * [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Child Therapist in San Francisco, CA")
+    * [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Child Therapist in Seattle, WA")
+    * [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Child Therapist in Washington, DC")
+    * [Atlanta, GA](https://www.psychologytoday.com/us/therapists/ga/atlanta "Find a Child Therapist in Atlanta, GA")
+    * [Sacramento, CA](https://www.psychologytoday.com/us/therapists/ca/sacramento "Find a Child Therapist in Sacramento, CA")
     
 * [Get Help](#)
     
@@ -102,25 +102,25 @@ Mobile Navigation
     
     Current
     
-    [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+    [![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
-    [May 2024
+    [July 2024
     
-    How to Face Your Everyday Triggers](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+    Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
     
-    At any moment, someone’s aggravating behavior or our own bad luck can set us off on an emotional spiral that threatens to derail our entire day. Here’s how we can face our triggers with less reactivity so that we can get on with our lives.
+    Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
     
     [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
     
     Recent
+    
+    [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
     
     [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
     
     [![January 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-12/2024-01.png.jpg?itok=B11lkLSj "Burnout")](https://www.psychologytoday.com/us/magazine/archive/2024/01 "January 2024")
     
     [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
-    
-    [![September 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-08/2023-09.png.jpg?itok=eBFv_6fC "Authenticity")](https://www.psychologytoday.com/us/magazine/archive/2023/09 "September 2023")
     
     [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
     
@@ -165,7 +165,7 @@ ii) When you send email to a professional listed in one of the professional dire
 
 iii) When you call a professional using their number listed in one of the professional directories (such as information about where the call was placed).
 
-iv) When you fill out a self-assessment or take a self-test. The assessments and tests are administered by third-parties which have its own Privacy Policies concerning information they may collect from users. Please refer to their policies via the Privacy Policy links on the assessment and test pages. 
+iv) When you fill out a self-assessment or take a self-test we collect your responses in order to calculate your score, but we do not store your personally identifiable information, and your identity cannot be determined from your responses. We store aggregated self-test responses to improve the tests and provide performance comparisons. Some of the assessments and tests are administered by a third-party, PsychTests.com, which have their own Privacy Policies concerning information they may collect from users. Please refer to their policies via the Privacy Policy links on the assessment and test pages. 
 
 v) When you subscribe to a publication (such as your name and address). 
 
@@ -175,7 +175,7 @@ vii) When you register to be listed in our directories. We collect information t
 
 viii) When you open an email communication from us in your email program, we may use a software technology called “web beacons” that to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns.
 
-b) In addition, like most sites, we maintain logs of site usage for purposes such as to evaluate our users' interest level in areas of the website, which and how many pages they look at, how long they stay on the website, and what Web browsers are used. This data is tracked in aggregate form, not at an individual user level, and is not uniquely identifying. The aggregate level data may be shared with third parties and the public.
+b) In addition, like most sites, we maintain logs of site usage for purposes such as evaluating user interest in areas of the website, determining which and how many pages are viewed, the buttons that are clicked, the duration of visits, and the types of web browsers used. This data is tracked in aggregate form and is not individually identifiable. The aggregate data may be shared with third parties and the public. We use Google Analytics for this purpose, which involves the use of cookies. If you wish to opt out of tracking cookies or learn more about our data practices, please refer to our **'Do not sell or share my personal information'** link at the foot of this page below.
 
 2. **Our Use of Your Information.** We only use information we collect to provide you the services on our website that you request.
 
@@ -187,7 +187,7 @@ c) We use third-party advertising companies to serve ads when you visit our web
 
 d) When you click on links and/or ad banners that take you to third-party websites, the third party may collect information about you at their Web site. The third party may have its own privacy policies that differ from ours. We encourage you to read the posted privacy statement whenever interacting with any website you visit.
 
-e) To comply with US State privacy laws and and certain regional privacy laws, you have the right to opt out of the sharing or selling of your personal information for targeted advertising and for certain kinds of third party data processing. If you do not want your information shared in this way, please click the **'Do not sell or share'** button at the foot of this page below.
+e) To comply with US State privacy laws and and certain regional privacy laws, you have the right to opt out of the sharing or selling of your personal information for targeted advertising and for certain kinds of third party data processing. If you do not want your information shared in this way, please refer to our **'Do not sell or share my personal information'** link at the foot of this page below.
 
 3. **Your Posted Materials.** The materials you post on the website, such as articles, posts, directory information and comments, are made available to be seen and read by other users of the website. No such materials are treated confidentially. We will remove your materials from the website at your request, but we cannot give any assurances that such materials are not still available from servers maintained by others (such as search engines or proxy servers) or that others have not already downloaded and stored such materials.
 
@@ -209,6 +209,8 @@ e) To comply with US State privacy laws and and certain regional privacy laws, 
 
 Recent Issues
 
+[![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
+
 [![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
 
 [![March 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-02/2024-03.png.jpg?itok=UyoZyp1R "Emotional Intelligence")](https://www.psychologytoday.com/us/magazine/archive/2024/03 "March 2024")
@@ -218,8 +220,6 @@ Recent Issues
 [![November 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-10/2023-11.png.jpg?itok=mHf6Gi-L "Love & Loyality")](https://www.psychologytoday.com/us/magazine/archive/2023/11 "November 2023")
 
 [![September 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-08/2023-09.png.jpg?itok=eBFv_6fC "Authenticity")](https://www.psychologytoday.com/us/magazine/archive/2023/09 "September 2023")
-
-[![July 2023 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2023-06/2023-07.png.jpg?itok=w2Lq6Zc1 "Intuition")](https://www.psychologytoday.com/us/magazine/archive/2023/07 "July 2023")
 
 [Subscribe Today](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine")
 
@@ -260,18 +260,18 @@ Find a Therapist
 * [Sign Up](https://join.psychologytoday.com/us/signup)
 
 * United States
-* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Therapist in Austin, TX")
-* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Therapist in Brooklyn, NY")
-* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Therapist in Chicago, IL")
-* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Therapist in Denver, CO")
-* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Therapist in Houston, TX")
-* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Therapist in Los Angeles, CA")
-* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Therapist in New York, NY")
-* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Therapist in Portland, OR")
-* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Therapist in San Diego, CA")
-* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Therapist in San Francisco, CA")
-* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Therapist in Seattle, WA")
-* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Therapist in Washington, DC")
+* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Child Therapist in Austin, TX")
+* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Child Therapist in Brooklyn, NY")
+* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Child Therapist in Chicago, IL")
+* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Child Therapist in Denver, CO")
+* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Child Therapist in Houston, TX")
+* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Child Therapist in Los Angeles, CA")
+* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Child Therapist in New York, NY")
+* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Child Therapist in Portland, OR")
+* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Child Therapist in San Diego, CA")
+* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Child Therapist in San Francisco, CA")
+* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Child Therapist in Seattle, WA")
+* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Child Therapist in Washington, DC")
 
 Back
 
@@ -339,13 +339,13 @@ Back
 
 Magazine
 
-[![May 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-04/2024-05.png.jpg?itok=3uPTD2oA "Everyday Triggers")](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+[![July 2024 magazine cover](https://cdn2.psychologytoday.com/assets/styles/magazine_384x504/public/magazine/2024-06/2024-07.png.jpg?itok=pCeLoQbs "Stand Up For Yourself")](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
 
-[May 2024
+[July 2024
 
-How to Face Your Everyday Triggers](https://www.psychologytoday.com/us/magazine/archive/2024/05 "May 2024")
+Stand Up For Yourself](https://www.psychologytoday.com/us/magazine/archive/2024/07 "July 2024")
 
-At any moment, someone’s aggravating behavior or our own bad luck can set us off on an emotional spiral that threatens to derail our entire day. Here’s how we can face our triggers with less reactivity so that we can get on with our lives.
+Sticking up for yourself is no easy task. But there are concrete skills you can use to hone your assertiveness and advocate for yourself.
 
 [Subscribe](https://subscribe.psychologytoday.com/ "Subscribe to Psychology Today Magazine") [Issue Archive](https://www.psychologytoday.com/us/magazine/archive "Psychology Today Issue Archive")
 
