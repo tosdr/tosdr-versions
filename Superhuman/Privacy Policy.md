@@ -42,7 +42,7 @@ Privacy Policy
 Privacy Policy
 --------------
 
-Last Updated: June 17, 2024
+Last Updated: June 26, 2024
 
 Welcome to Superhuman, a service provided by Superhuman Labs, Inc. ("**Superhuman**", "**we**", "**us**", or "**our**"). Superhuman provides the fastest email experience in the world, designed to make our users twice as productive.
 
@@ -267,7 +267,7 @@ Note that, because these opt out mechanisms are specific to the device or browse
 
 **Do Not Track**. Some Internet browsers can be configured to send “**Do Not Track**” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](https://www.allaboutdnt.com/).
 
-Last Updated: June 17, 2024
+Last Updated: June 26, 2024
 
 Welcome to Superhuman, a service provided by Superhuman Labs, Inc. ("**Superhuman**", "**we**", "**us**", or "**our**"). Superhuman provides the fastest email experience in the world, designed to make our users twice as productive.
 
@@ -492,7 +492,7 @@ Note that, because these opt out mechanisms are specific to the device or browse
 
 **Do Not Track**. Some Internet browsers can be configured to send “**Do Not Track**” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](https://www.allaboutdnt.com/).
 
-Last Updated: June 17, 2024
+Last Updated: June 26, 2024
 
 Welcome to Superhuman, a service provided by Superhuman Labs, Inc. ("**Superhuman**", "**we**", "**us**", or "**our**"). Superhuman provides the fastest email experience in the world, designed to make our users twice as productive.
 
