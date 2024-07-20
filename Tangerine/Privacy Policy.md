@@ -46,6 +46,10 @@
 
 * [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
 
+![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1282085336/container_745983912/container_1531797112/tabs/item_2/container_1829561674/container_1416453080/image.coreimg.svg/1720711221731/picto-stars.svg)
+
+[Student? You could win $35,000.Δ](https://www.tangerine.ca/en/offers/student-bank-accounts)
+
 **Products**
 
 * [Guaranteed Investment (GICs)](https://www.tangerine.ca/en/personal/invest/guaranteed-investments)
@@ -123,59 +127,6 @@ Save
 
 * [Children’s Savings Account](https://www.tangerine.ca/en/personal/save/childrens-savings-account)
 
-1. Save
-2. Spend
-3. Invest
-4. Borrow
-5. Learn
-
-* [Savings Account](https://www.tangerine.ca/en/personal/save/savings-account)
-* [Tax-Free Savings Account](https://www.tangerine.ca/en/personal/save/tfsa)
-* [Retirement Savings Account](https://www.tangerine.ca/en/personal/save/rsp)
-* [Retirement Income Fund Savings Account](https://www.tangerine.ca/en/personal/save/rif)
-* [US$ Savings Account](https://www.tangerine.ca/en/personal/save/us-dollar-savings-account)
-* [Children’s Savings Account](https://www.tangerine.ca/en/personal/save/childrens-savings-account)
-
-* [View All Savings Accounts](https://www.tangerine.ca/en/personal/save)
-
-**Chequing**
-
-* [No-Fee Daily Chequing Account](https://www.tangerine.ca/en/personal/spend/chequing-account)
-
-**Credit Cards**
-
-* [World Mastercard®](https://www.tangerine.ca/en/personal/spend/credit-cards/world-credit-card)
-* [Money-Back Credit Card](https://www.tangerine.ca/en/personal/spend/credit-cards/money-back-credit-card)
-
-* [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
-
-**Products**
-
-* [Guaranteed Investment (GICs)](https://www.tangerine.ca/en/personal/invest/guaranteed-investments)
-* [Mutual Fund Investments](https://www.tangerine.ca/en/personal/invest)
-
-**Accounts**
-
-* [Tax-Free Savings Account (TFSA)](https://www.tangerine.ca/en/personal/invest/tfsa)
-* [Retirement Savings Plan (RSP)](https://www.tangerine.ca/en/personal/invest/rsp)
-* [Retirement Income Fund (RIF)](https://www.tangerine.ca/en/personal/invest/rif)
-* [Non-Registered Investment](https://www.tangerine.ca/en/personal/invest/non-registered-funds)
-
-* [Mortgage](https://www.tangerine.ca/en/personal/borrow/mortgage)
-* [Home Equity Line of Credit](https://www.tangerine.ca/en/personal/borrow/home-equity-line-of-credit)
-* [Line of Credit](https://www.tangerine.ca/en/personal/borrow/line-of-credit)
-* [RSP Loan](https://www.tangerine.ca/en/personal/borrow/rsp-loan)
-
-* [View All Borrowing Solutions](https://www.tangerine.ca/en/personal/borrow)
-
-* [Learning Centre](https://www.tangerine.ca/en/thejuice)
-* [Money Management Tools](https://www.tangerine.ca/en/tools-and-calculators)
-* [About Us](https://www.tangerine.ca/en/about-us)
-
-![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1006948124/container_560400303/tabs/item_1696533113228/tabs/item_1/container/tabs_copy/item_1696018929352/container/image.coreimg.svg/1708555046575/quiz.svg)
-
-* [Help Centre](https://www.tangerine.ca/en/help-centre)
-
 ![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1006948124/container_560400303/tabs/item_1696533113228/tabs/item_1/container/image_copy_copy.coreimg.svg/1708552704597/quiz.svg)
 
 * [Looking for Guaranteed Investments (GICs)?](https://www.tangerine.ca/en/personal/invest/guaranteed-investments)
@@ -192,6 +143,10 @@ Spend
 * [Money-back Credit Card](https://www.tangerine.ca/en/personal/spend/credit-cards/money-back-credit-card)
 
 * [Compare Credit Cards](https://www.tangerine.ca/en/personal/spend/credit-cards)
+
+![](/content/experience-fragments/tangerine/ca/en/header/master/_jcr_content/root/container_1006948124/container_560400303/tabs/item_1696533113228/tabs/item_2/container_128022383/image.coreimg.svg/1720710891553/picto-stars.svg)
+
+[Student? You could win $35,000.Δ](https://www.tangerine.ca/en/offers/student-bank-accounts)
 
 Invest
 
