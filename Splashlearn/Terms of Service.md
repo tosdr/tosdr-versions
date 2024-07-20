@@ -410,7 +410,6 @@ Terms of Use
 Welcome to SplashLearn. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these terms or the Services, please contact us at:
 
 Email: help@splashlearn.com  
-Phone: 855-979-8948  
 Address: 201 Spear Street, Suite 1100 San Francisco, California 94105
 
 These Terms of Use (the “Terms”) are a binding contract between you and **STUDYPAD, INC.** (“SplashLearn,” “we” and “us”). Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document as well as those in the [Privacy Policy](https://www.splashlearn.com/privacy) and any other relevant policies. **Your use of or participation in certain Services may also be subject to additional policies, rules and/or conditions (“Additional Terms”), which are incorporated herein by reference, and you understand and agree that by using or participating in any such Services, you agree to also comply with these Additional Terms.**
