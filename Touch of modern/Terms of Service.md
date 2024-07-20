@@ -30,7 +30,6 @@ Toggle navigation
     * [Fashion](https://www.touchofmodern.com/stores/345)
     * [Other](https://www.touchofmodern.com/stores/346)
     * [The Guide](https://www.touchofmodern.com/guides)
-    * [Clearance](https://www.touchofmodern.com/stores/646)
 
 Touch of Modern Terms of Use
 ============================
@@ -208,7 +207,7 @@ These content standards apply to all User Contributions and use of Interactive S
 
 #### Copyright Infringement
 
-If you believe that any User Contributions violate your copyright, please send us a notice of copyright infringement to the Copyright Agent at: Touch of Modern, LLC, Attn.: Copyright Agent, 1221 Arrowhead Ct, Crown Point, IN 46307, email: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection). It is the policy of the Company to terminate the user accounts of repeat infringers. Please include the following information in your notice:
+If you believe that any User Contributions violate your copyright, please send us a notice of copyright infringement to the Copyright Agent at: Touch of Modern, LLC, Attn.: Copyright Agent, 901 E. Northfield Drive, Suite 200, Brownsburg, IN 46112, email: [\[email protected\]](https://www.touchofmodern.com/cdn-cgi/l/email-protection). It is the policy of the Company to terminate the user accounts of repeat infringers. Please include the following information in your notice:
 
 * Your address, telephone number, and email address.
     
@@ -378,4 +377,4 @@ Your continued use of the Website following the posting of revised Terms and Con
 
 ![](//action.dstillery.com/orbserv/nspix?adv=cl165659834990960&ns=7040&nc=Touch-of-Modern-Site-Visitor&ncv=36)
 
-![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1718947701)
+![](//ad.ipredictive.com/d/track/cvt/pixel?acct_id=50968&cache_buster=1721463303)
