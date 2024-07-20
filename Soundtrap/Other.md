@@ -1,6 +1,6 @@
 Published using Google Docs
 
-[Report abuse](https://drive.google.com/abuse?id=AKkXjowk4Yqs5yADToFBEk3XQ-0T2hZHUM62j8NJN4JXwUHKCyAvcazKCIW4f61Doak89YlENTsLbmjwHFZH26s:0)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
+[Report abuse](https://drive.google.com/abuse?id=AKkXjowk4Yqs5yADToFBEk3XQ-0T2hZHUM62j8NJN4JXwUHKCyAvcazKCIW4f61Doak89YlENTsLbmjwHFZH26s:0&docurl=https://docs.google.com/document/d/e/2PACX-1vS9lGnRj4kIr8XbH9njpGX_HessErxPwz4cJwWYdFkMAcYRIsztFuQGf7st4_QZVAKHSQrMXS8Yw-Z9/pub)[Learn more](https://support.google.com/docs/answer/183965 "Learn more")
 
 (Transferred from leaver ninab@spotify.com) Trust Center
 
@@ -12,7 +12,7 @@ At Soundtrap for Education, we value the trust of the schools and school distric
 
 The Student Privacy Pledge
 
-Soundtrap for Education is a signatory of the [Student Privacy Pledge](https://www.google.com/url?q=https://studentprivacypledge.org/&sa=D&source=editors&ust=1718940467543213&usg=AOvVaw28_w27QtjKADRSEus6bvEK) (the “Pledge”), an industry standard of privacy principles for providers of K–12 educational services. As part of our commitment to the Pledge, we follow certain core principles with respect to our collection and use of student personal information, including the following:
+Soundtrap for Education is a signatory of the [Student Privacy Pledge](https://www.google.com/url?q=https://studentprivacypledge.org/&sa=D&source=editors&ust=1721454745613372&usg=AOvVaw0zM6UUj79wC7_T0yGcv132) (the “Pledge”), an industry standard of privacy principles for providers of K–12 educational services. As part of our commitment to the Pledge, we follow certain core principles with respect to our collection and use of student personal information, including the following:
 
 * We collect, maintain, use or share student personal information only for purposes for which we were authorized.
 * We disclose clearly in contracts and/or privacy policies what types of student personal information we collect and the purposes for which it is used and shared.
