@@ -2,17 +2,15 @@
 
 [](https://www.twitch.tv/talkpointgmbh)
 
-🚀 Wir sind live &  entdecken gemeinsam unsere besten B-Ware-Produkte auf unserem digitalen Wühltisch Mo. - Fr. ab 11:00 Uhr  
-Bitte beachten Sie, dass wir derzeit eingeschränkte Telefonzeiten von 10.00-14.00 Uhr haben.
+🚀 Wir sind live &  entdecken gemeinsam unsere besten B-Ware-Produkte auf unserem digitalen Wühltisch Mo. - Fr. ab 11:00 Uhr
 
-🚀 Wir sind live &  entdecken gemeinsam unsere besten B-Ware-Produkte auf unserem digitalen Wühltisch Mo. - Fr. ab 11:00 Uhr  
-Bitte beachten Sie, dass wir derzeit eingeschränkte Telefonzeiten von 10.00-14.00 Uhr haben.
+🚀 Wir sind live &  entdecken gemeinsam unsere besten B-Ware-Produkte auf unserem digitalen Wühltisch Mo. - Fr. ab 11:00 Uhr
 
 Menü
 
 [![Talk-Point Logo Transparent](//talk-point.de/cdn/shop/files/tplogo1_1016x150.png?v=1637826898)](https://talk-point.de/)
 
-Alle Kategorien \------ Abdeckplanen Abdichtungen Absorberkühlschränke Abspannseile Abzweiger & Verteiler Access Points Action-Cams Adventskalender Akkuschrauber Alarmanlagen All in One PCs Allesschneider Antennenkabel Arbeitsbekleidung Arbeitsschutz Arbeitsspeicher/RAM Audio Zubehör Audiokabel Auto & Motorrad AV-Umschalter & Verteiler Babyphone Backbleche Backcover Backöfen Badlüfter Balkonset Barbie Bartschneider & Haarschneider Beamer Beamer-Halterungen Bekleidung Bestecke Bewegungsmelder Blu-ray-Player Bluetooth-Tracker Blutdruckmessgeräte Bohrer & Bits Bohrmaschinen Bollerwagen Brillen Brotbackautomaten Bräter Bügelbretter Bügeleisen Bürobedarf Caming Campinggeschirr CD-Player portabel Computer Controller Crêpes-Maker Dampfgarer Dampfglätter Dampfreiniger Dart Digital Receiver Digital Signages Displayschutz Displayschutzfolie Displayschutzfolien Drogerie & Gesundheit Drohne Drohnen-Ersatzteile Druckerpatronen Dunstabzugshaube Dunstabzugshauben Dunstabzugshauben-Zubehör DVB-T-Antennen DVD-Brenner DVD-Player Dörrautomaten E-Scooter eBook-Reader Eierkocher Eingabestifte Einkocher Eismaschinen ELA Lautsprecher Elektrik Elektrische Zahnbürsten Elektroartikel Elektroheizungen Elektroinstallation Elektrorasierer Entsafter Epilierer & Ladyshaver Ersatzkannen Espressokocher Espressomaschinen Fahrradhelme Fahrradtaschen Fahrradteile & Fahrradzubehör Fahrräder Farbbänder Farben & Lacke Farben und Lacke Fenster Fensterreiniger Fernbedienungen Fernseher Festplatten Festplatten-Arrays Festplattengehäuse Fieberthermometer Fitnessarmband Fitnesszubehör Flaschenöffner Fleischwolf Folienschweißgeräte Fondues Fritteuse Fritteusen Funkgeräte Funkmikrofone Gaming & Spielen Gaming Headsets Gaming-Headset Gamingzubehör Gartengeräte Gartenpumpen Gateways Gefrierschränke Gefriertruhen Gemüseschneider Geschirrspüler Gesichtspflege Getränke Gewürzmühlen Gimbals Glätteisen GPS-Empfänger Grills Grillzubehör Haartrockner Hairstyler Handschuhe Handwerkzeuge Handy Kabel & Adapter Handy-Akkufachdeckel Handy-Akkus Handy-Ersatzteile Handy-Headsets Handy-Ladegeräte Handy-Zubehör Handyhalterungen Handys & Smartphones Handytaschen Haus & Garten Haushalt & Wohnen Haushaltsgeräteersatzteile HDMI-Kabel Headset Headsets Heimwerken Heizkissen & Heizdecken Heizkörper Heizstrahler Heizungen Heizungszubehör Herde Häkelnadel Hüllen Insektenschutz Kabel & Stecker Kabellose Ladegeräte Kabeltrommeln Kaffee & Espresso Kaffeemaschinen Kaffeemaschinen-Reinigung Kaffeemühlen Kaffeepadmaschinen Kaffeezubehör & Espressozubehör Kamera Kamera Zubehör Kamera-Stative Kamerazubehör Kapselmaschinen Kartenleser Kassetten & Filme Kissen Klebebänder Kleber Klimaanlagen Klimaanlagen-Zubehör Kochfelder Kochplatten Koffer Kompaktkameras Kopfhörer Kopfhörer-Zubehör Körperpflege Körperpflege-Zubehör Küche & Haushalt Küchenarmaturen Küchenhelfer Küchenmaschinen Küchenreiben Küchenwaagen Kühlboxen Kühlschrankzubehör Kühlschränke Labelprinter Ladegeräte Ladegeräte für Kamera-Akkus Ladekabel Lampen & Leuchten Laptop Laptoptaschen Laserdrucker Lautsprecher Lautsprecherzubehör LED Lampen Leinwände Leuchtmittel Lichterketten Lichttherapie Luftbefeuchter Luftentfeuchter Lufterfrischer Luftfilter Luftkühler Luftreiniger Lunchboxen Lötkolben & Lötstationen Lüfter Maniküre Massagegeräte Maus Medizintechnik Messer Messgeräte Micro-Schalter Mikrofon Mikrowellen Milchaufschäumer Minibacköfen Miniküchen Mixer Mobilfunkantennen Mode & Accessoires Monitor Monitore Monitorhalterungen Motorsensen Motorsensenzubehör Mousepad MP3-Player Multifunktionsdrucker Multifunktionstücher Multischalter Mundduschen & Dentalcenter Mäuse Mülleimer Nadelspiel NAS-Server Navigationsgeräte Netzteile Netzwerk & Kommunikation Netzwerkkabel Netzwerkplayer Netzwerkzubehör Notebook-Dockingstations Notebook-Zubehör Notebooks Notlicht Nähmaschinen Ohne Kategorie Outdoor & Sport Outdoor-Navigation Pastamaschinen Pavillon PC- PC-Headset PC-Kabel & Adapter PC-Komponenten PC-Systeme Personenwaage Personenwaagen Pfannen Photovoltaik Plattenspieler Pool-Zubehör Powerbanks PowerLine Prozessoren Pumpen & Kompressoren Putze & Mörtel Putze und Mörtel Raclettes Radios Rasierklingen & Scherköpfe Rauchmelder Reinigungsgeräte Reinigungsmittel Reisestecker Reiskocher Repeater Rohlinge Router Rührwerke Saftpressen Sanitärinstallation Sat-Antennen Sat-LNB Sat-Montagezubehör Scanner Schalen & Schüsseln Schalter-Zubehör & Steckdosen-Abdeckungen Schaltrelais Schleifmaschinen Schleifmittel Schneidebretter Schneidwerkzeuge schnurgebundene Telefone schnurlose Telefone Schrauben & Muttern Schraubendreher Schraubenschlüssel Schuhpflege Selfie-Sticks Sensoren Signalverstärker Sitzbezüge Smart Home Smarthome-Zentralen Smartwatch Smartwatch-Zubehör Smartwatches Sonnenbrillen sonstige Elektrowerkzeuge sonstige Handwerkzeuge sonstige Küchenmaschinen sonstige Sicherheitstechnik Sonstiges Handyzubehör sonstiges Werkzeugzubehör Soundbars Spanngurt Speicherkarten Spiegelteleskop Spielekonsolen Spielesoftware Spielwaren Spielzeug-Blaster Sport & Outdoor Sportmatten Sporttaschen Sprudelbäder Staubsauger Staubsauger-Zubehör Staubsaugerbeutel Steckdose Steckdosen Stichsägen Strandtaschen Stretch-Doppel-Nadel Surfsticks Swimmingpools Switches Sägeblätter Tablet Zubehör Tablet-Taschen Tablet-Tastaturen Tablets Taschen Taschenlampen Tassen & Becher Tastatur Tastaturen Teekocher Telefon-Headsets Telefon-Zubehör Telefone Thermometer Thermoskannen Thermostate Toaster Transmitter Transportboxen Transportgeräte Trennscheiben Trinkflaschen Trinkgläser TV & Sat TV Stick TV-Halterungen TV-Zubehör Töpfe Töpfe & Pfannen Türsprechanlagen USB Sticks USB-Hubs Ventilatoren Verstärker Vorratsdosen VR-Brillen Waffeleisen Wagenheber Wanduhren Warmwasserspeicher Waschmaschinen Waschtrockner Wasserfilter Wasserkocher Wasserspender Wassersprudler WC-Sitze Webcams Wecker Weihnachtsbeleuchtungen Weihnachtsdeko Weinkühlschränke Werkzeugakkus Werkzeugkoffer Wetterstationen Whirlpools WLAN-Sticks Wohnmobil-Zubehör Wärmeflaschen & Wämekissen Wärmeunterbetten Wäscheständer Wäschetrockner Wäschezubehör Zahnbürstenköpfe Zahnpflege Zangen Zelte Zubehör für Gartengeräte Zubehör für Küchengeräte Zubehör Telekommunikation Überwachungskameras Alle Kategorien  Abbrechen
+Alle Kategorien \------ Abdeckplanen Abdichtungen Absorberkühlschränke Abspannseile Abzweiger & Verteiler Access Points Action-Cams Adventskalender Akkuschrauber Alarmanlagen All in One PCs Allesschneider Antennenkabel Arbeitsbekleidung Arbeitsschutz Arbeitsspeicher/RAM Audio Zubehör Audiokabel Auto & Motorrad AV-Umschalter & Verteiler Babyphone Backbleche Backcover Backöfen Badlüfter Balkonset Barbie Bartschneider & Haarschneider Beamer Beamer-Halterungen Bekleidung Bestecke Bewegungsmelder Blu-ray-Player Bluetooth-Tracker Blutdruckmessgeräte Bohrer & Bits Bohrmaschinen Bollerwagen Brillen Brotbackautomaten Bräter Bügelbretter Bügeleisen Bürobedarf Campinggeschirr CD-Player portabel Computer Controller Crêpes-Maker Dampfgarer Dampfglätter Dampfreiniger Dart Digital Receiver Digital Signages Displayschutz Displayschutzfolie Displayschutzfolien Drogerie & Gesundheit Drohne Drucker & Scanner Druckerpatronen Dunstabzugshauben Dunstabzugshauben-Zubehör DVB-T-Antennen DVD-Brenner DVD-Player Dörrautomaten E-Scooter eBook-Reader Eierkocher Eingabestifte Einkocher Eismaschinen ELA Lautsprecher Elektrik Elektrische Zahnbürsten Elektroartikel Elektroheizungen Elektroinstallation Elektrorasierer Entsafter Epilierer & Ladyshaver Ersatzkannen Espressokocher Espressomaschinen Fadenspule Fahrradhelme Fahrradtaschen Fahrradteile & Fahrradzubehör Fahrräder Farbbänder Farben & Lacke Farben und Lacke Fenster Fensterreiniger Fernbedienungen Fernseher Festplatten Festplatten-Arrays Festplattengehäuse Fieberthermometer Fitnessarmband Fitnesszubehör Flaschenöffner Fleischwolf Folienschweißgeräte Fondues Fritteuse Fritteusen Funkgeräte Funkmikrofone Gaming & Spielen Gaming Headsets Gamingzubehör Gartenpumpen Gateways Gefrierschränke Gefriertruhen Gemüseschneider Geschirrspüler Gesichtspflege Getränke Gewürzmühlen Gimbals Glätteisen GPS-Empfänger Grills Grillzubehör Haartrockner Hairstyler Handschuhe Handwerkzeuge Handy Kabel & Adapter Handy-Akkufachdeckel Handy-Akkus Handy-Ersatzteile Handy-Headsets Handy-Ladegeräte Handy-Zubehör Handyhalterungen Handys & Smartphones Handytaschen Haus & Garten Haushalt & Wohnen Haushaltsgeräteersatzteile HDMI-Kabel Headset Headsets Heckenscheren Heimwerken Heizkissen & Heizdecken Heizkörper Heizstrahler Heizungen Heizungszubehör Herde Häkelnadel Hüllen Insektenschutz Kabel & Stecker Kabellose Ladegeräte Kabeltrommeln Kaffee & Espresso Kaffeemaschinen Kaffeemaschinen-Reinigung Kaffeemühlen Kaffeepadmaschinen Kaffeezubehör & Espressozubehör Kamera Kamera Zubehör Kamera-Stative Kamerazubehör Kapselmaschinen Kartenleser Kassetten & Filme Kissen Klebebänder Kleber Klimaanlagen Klimaanlagen-Zubehör Kochfelder Kochplatten Kompaktkameras Kopfhörer Kopfhörer-Zubehör Körperpflege Körperpflege-Zubehör Küche & Haushalt Küchenarmaturen Küchengeräte Küchenhelfer Küchenmaschinen Küchenreiben Küchenwaagen Kühlboxen Kühlschrankzubehör Kühlschränke Labelprinter Ladegeräte Ladegeräte für Kamera-Akkus Ladekabel Lampen & Leuchten Laptop Laptoptaschen Laserdrucker Lautsprecher Lautsprecherzubehör LED Lampen Leinwände Leuchtmittel Lichterketten Lichttherapie Luftbefeuchter Luftentfeuchter Lufterfrischer Luftfilter Luftkühler Luftreiniger Lunchboxen Lötkolben & Lötstationen Lüfter Maniküre Massagegeräte Maus Medizintechnik Messer Messgeräte Micro-Schalter Mikrofone Mikrowellen Milchaufschäumer Minibacköfen Miniküchen Mixer Mobilfunkantennen Mode & Accessoires Monitor Monitore Monitorhalterungen Motorsensenzubehör Mousepad MP3-Player Multifunktionsdrucker Multifunktionstücher Multischalter Mundduschen & Dentalcenter Mäuse Mülleimer Nadelspiel NAS-Server Navigationsgeräte Netzteile Netzwerk & Kommunikation Netzwerkkabel Netzwerkplayer Netzwerkzubehör Notebook-Dockingstations Notebook-Zubehör Notebooks Notlicht Nähmaschinen Ohne Kategorie Outdoor & Sport Outdoor-Navigation Pastamaschinen Pavillon PC- PC-Kabel & Adapter PC-Komponenten PC-Systeme Personenwaagen Pfannen Photovoltaik Plattenspieler Pool-Zubehör Powerbanks PowerLine Prozessoren Pumpen & Kompressoren Putze & Mörtel Putze und Mörtel Raclettes Radios Rasierklingen & Scherköpfe Rauchmelder Reinigungsgeräte Reinigungsmittel Reisestecker Reiskocher Repeater Rohlinge Router Rührwerke Saftpressen Sanitärinstallation Sat-Antennen Sat-LNB Sat-Montagezubehör Scanner SCART-Kabel Schalen & Schüsseln Schalter-Zubehör & Steckdosen-Abdeckungen Schaltrelais Schleifmaschinen Schleifmittel Schneidebretter Schneidwerkzeuge schnurgebundene Telefone schnurlose Telefone Schrauben & Muttern Schraubendreher Schraubenschlüssel Schuhpflege Selfie-Sticks Sensoren Signalverstärker Sitzbezüge Smart Home Smarthome-Zentralen Smartwatch-Zubehör Smartwatches Sonnenbrillen sonstige Elektrowerkzeuge sonstige Handwerkzeuge sonstige Küchenmaschinen sonstige Sicherheitstechnik Sonstiges Handyzubehör sonstiges Werkzeugzubehör Soundbars Spanngurt Speicherkarten Spiegelteleskop Spielekonsolen Spielesoftware Spielwaren Sport & Outdoor Sportmatten Sporttaschen Sprudelbäder Staubsauger Staubsauger-Zubehör Staubsaugerbeutel Steckdose Steckdosen Stichsägen Strandtaschen Stretch-Doppel-Nadel Stromtankstellen Surfsticks Swimmingpools Switches Sägeblätter Tablet Zubehör Tablet-Taschen Tablet-Tastaturen Tablets Taschen Taschenlampen Tassen & Becher Tastatur Tastaturen Teekocher Telefon-Headsets Telefon-Zubehör Telefone Thermometer Thermoskannen Thermostate Toaster Transmitter Transportboxen Transportgeräte Trennscheiben Trinkflaschen Trinkgläser TV & Sat TV Stick TV-Halterungen TV-Zubehör Töpfe Töpfe & Pfannen Türsprechanlagen Uhren USB Sticks USB-Hubs Ventilatoren Verstärker Vorratsdosen VR-Brillen Waffeleisen Wagenheber Wanduhren Warmwasserspeicher Waschmaschinen Waschtrockner Wasserfilter Wasserkocher Wasserspender Wassersprudler WC-Sitze Webcams Wecker Weihnachtsbeleuchtungen Weihnachtsdeko Weinkühlschränke Werkzeugakkus Werkzeugkoffer Wetterstationen Whirlpools WLAN-Sticks Wohnmobil-Zubehör Wärmeflaschen & Wämekissen Wärmeunterbetten Wäscheständer Wäschezubehör Zahnbürstenköpfe Zahnpflege Zangen Zelte Zubehör für Gartengeräte Zubehör für Küchengeräte Zubehör Telekommunikation Überwachungskameras Alle Kategorien  Abbrechen
 
 [](#)[](#)[](#)
 
@@ -45,6 +43,8 @@ Karriere bei Talk-Point.de
         * [Wie neu](https://talk-point.de/collections/b-ware-festplatten-wie-neu)
         * [Sehr gut](https://talk-point.de/collections/b-ware-festplatten-sehr-gut)
         * [Gut](https://talk-point.de/collections/b-ware-festplatten-gut)
+    * [B-Ware Kopfhörer](https://talk-point.de/collections/b-ware-kopfhorer)
+    * [B-Ware Bluetooth Speaker](https://talk-point.de/collections/bluetooth-lautsprecher-gebraucht-kaufen)
     * [B-Ware für 1,99€](https://talk-point.de/collections/b-ware-bis-1-99)
 * [Smartphones](https://talk-point.de/collections/smartphones)
     
@@ -158,7 +158,7 @@ Karriere bei Talk-Point.de
         * [Monitore](https://talk-point.de/collections/monitore)
         * [Notebooks](https://talk-point.de/collections/notebooks)
         * [Drucker & Scanner](https://talk-point.de/collections/drucker-scanner)
-        * [Headsets](https://talk-point.de/collections/headsets)
+        * [Headsets](https://talk-point.de/collections/pc-headset)
         * [Tastaturen](https://talk-point.de/collections/tastaturen)
         * [Mäuse](https://talk-point.de/collections/mause)
     * [Speichermedien](https://talk-point.de/collections/speichermedien)
@@ -185,8 +185,9 @@ Karriere bei Talk-Point.de
         * [Videospiele](https://talk-point.de/collections/videospiele)
         * [Controller](https://talk-point.de/collections/controller)
         * [VR-Brillen](https://talk-point.de/collections/vr-brillen)
-        * [Headset](https://talk-point.de/collections/headsets)
+        * [Headsets](https://talk-point.de/collections/headsets)
         * [Drohnen](https://talk-point.de/collections/drohnen)
+        * [Spielwaren](https://talk-point.de/collections/spielwaren)
     
 * [Haus & Garten](https://talk-point.de/collections/haushalt)
     
@@ -273,6 +274,7 @@ Karriere bei Talk-Point.de
         * [TP Schweißhelme](https://talk-point.de/collections/automatik-solar-schweisshelm-mit-uv-schutz)
         * [TP Yogamatten](https://talk-point.de/collections/tp-yogamatte-online-kaufen)
         * [TP Akupressurmatten](https://talk-point.de/collections/tp-akupressurmatte-mit-kissen)
+        * [TP Zelte](https://talk-point.de/collections/tp-zelte)
     
 * [Trinkbares](https://talk-point.de/collections/spirituosen)
     * [Alle Spirituosen](https://talk-point.de/collections/spirituosen)
@@ -289,7 +291,7 @@ Karriere bei Talk-Point.de
     * [Likör](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Lik%C3%B6r)
     * [Brandy](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Brandy)
     * [Gläser](https://talk-point.de/collections/glaser)
-* [Service](https://talk-point.de/pages/unternehmen)
+* [Info](https://talk-point.de/pages/unternehmen)
     * [AGB](https://talk-point.de/policies/terms-of-service)
     * [Impressum](https://talk-point.de/policies/legal-notice)
     * [Widerrufsrecht](https://talk-point.de/policies/refund-policy)
@@ -340,6 +342,8 @@ Karriere bei Talk-Point.de
         * [Wie neu](https://talk-point.de/collections/b-ware-festplatten-wie-neu)
         * [Sehr gut](https://talk-point.de/collections/b-ware-festplatten-sehr-gut)
         * [Gut](https://talk-point.de/collections/b-ware-festplatten-gut)
+    * [B-Ware Kopfhörer](https://talk-point.de/collections/b-ware-kopfhorer)
+    * [B-Ware Bluetooth Speaker](https://talk-point.de/collections/bluetooth-lautsprecher-gebraucht-kaufen)
     * [B-Ware für 1,99€](https://talk-point.de/collections/b-ware-bis-1-99)
 * [Smartphones](https://talk-point.de/collections/smartphones)
     
@@ -461,7 +465,7 @@ Karriere bei Talk-Point.de
         * [Monitore](https://talk-point.de/collections/monitore)
         * [Notebooks](https://talk-point.de/collections/notebooks)
         * [Drucker & Scanner](https://talk-point.de/collections/drucker-scanner)
-        * [Headsets](https://talk-point.de/collections/headsets)
+        * [Headsets](https://talk-point.de/collections/pc-headset)
         * [Tastaturen](https://talk-point.de/collections/tastaturen)
         * [Mäuse](https://talk-point.de/collections/mause)
     * [Speichermedien](https://talk-point.de/collections/speichermedien)
@@ -488,8 +492,9 @@ Karriere bei Talk-Point.de
         * [Videospiele](https://talk-point.de/collections/videospiele)
         * [Controller](https://talk-point.de/collections/controller)
         * [VR-Brillen](https://talk-point.de/collections/vr-brillen)
-        * [Headset](https://talk-point.de/collections/headsets)
+        * [Headsets](https://talk-point.de/collections/headsets)
         * [Drohnen](https://talk-point.de/collections/drohnen)
+        * [Spielwaren](https://talk-point.de/collections/spielwaren)
     
 * [Haus & Garten](https://talk-point.de/collections/haushalt)
     
@@ -578,6 +583,7 @@ Karriere bei Talk-Point.de
         * [TP Schweißhelme](https://talk-point.de/collections/automatik-solar-schweisshelm-mit-uv-schutz)
         * [TP Yogamatten](https://talk-point.de/collections/tp-yogamatte-online-kaufen)
         * [TP Akupressurmatten](https://talk-point.de/collections/tp-akupressurmatte-mit-kissen)
+        * [TP Zelte](https://talk-point.de/collections/tp-zelte)
     
 * [Trinkbares](https://talk-point.de/collections/spirituosen)
     
@@ -597,9 +603,9 @@ Karriere bei Talk-Point.de
     * [Likör](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Lik%C3%B6r)
     * [Brandy](https://talk-point.de/collections/spirituosen?pf_t_keyword=Schlagwort_Brandy)
     * [Gläser](https://talk-point.de/collections/glaser)
-* [Service](https://talk-point.de/pages/unternehmen)
+* [Info](https://talk-point.de/pages/unternehmen)
     
-    Service
+    Info
     
     * [AGB](https://talk-point.de/policies/terms-of-service)
     * [Impressum](https://talk-point.de/policies/legal-notice)
