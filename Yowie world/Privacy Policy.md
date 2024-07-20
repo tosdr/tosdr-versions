@@ -1,4 +1,4 @@
-![](https://ct.pinterest.com/v3/?event=init&tid=2612633412795&pd[em]=<hashed_email_address>&noscript=1)
+![](https://ct.pinterest.com/v3/?event=init&tid=2612633412795&pd[em]=<hashed_email_address>&noscript=1) 
 
        
 
@@ -6,55 +6,53 @@
 
 [Skip to content](#main)
 
-[![Yowie World](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)![Yowie World](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowieworld.com/ "Yowie World - The sweet way to learn about saving our natural world")
+[![Yowie World](https://yowie.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)![Yowie World](https://yowie.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowie.com/ "Yowie World - The sweet way to learn about saving our natural world")
 
-* [](https://yowieworld.com/cart/ "Cart")
+* [](https://yowie.com/cart/ "Cart")
     
     Cart
     
     No products in the cart.
     
-    [Return to shop](https://yowieworld.com/shop/)
+    [Return to shop](https://yowie.com/shop/)
     
 
 * [](#)
     
 
-* [](https://yowieworld.com/)
-* [Meet the Yowie](https://yowieworld.com/the-yowie/)
-    * [Rumble](https://yowieworld.com/the-yowie/rumble/)
-    * [Crag](https://yowieworld.com/the-yowie/crag/)
-    * [Squish](https://yowieworld.com/the-yowie/squish/)
-    * [Ditty](https://yowieworld.com/the-yowie/ditty/)
-    * [Boof](https://yowieworld.com/the-yowie/boof/)
-    * [Nap](https://yowieworld.com/the-yowie/nap/)
-* [Collect](https://yowieworld.com/collect/)
-* [Yowasis](https://yowieworld.com/yowasis/)
-    * [Parties](https://yowieworld.com/parties/)
-    * [Rewards](https://yowieworld.com/rewards/)
-    * [Cartoons](https://yowieworld.com/cartoons/)
-    * [Coloring In](https://yowieworld.com/yowasis/)
-    * [Trivia](https://yowieworld.com/yowasis/)
-    * [Downloads](https://yowieworld.com/yowasis/)
-    * [Videos](https://yowieworld.com/yowasis/)
-    * [Puzzles & Games](https://yowieworld.com/yowasis/)
-    * [DIY](https://yowieworld.com/yowasis/)
-    * [Recipes](https://yowieworld.com/yowasis/)
-* [Educator Zone](https://yowieworld.com/educator-zone/)
-* [Products](https://yowieworld.com/products/)
-    * [Where To Buy](https://yowieworld.com/where-to-find-yowie/)
-    * [We Want Yowie](https://yowieworld.com/we-want-yowie/)
-    * [Our Products](https://yowieworld.com/products/)
-    * [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
-* [WHERE TO BUY](https://yowieworld.com/where-to-find-yowie/)
-    
-* [Win](https://yowieworld.com/win/)
+* [](https://yowie.com/)
+* [Meet the Yowie](https://yowie.com/the-yowie/)
+    * [Rumble](https://yowie.com/the-yowie/rumble/)
+    * [Crag](https://yowie.com/the-yowie/crag/)
+    * [Squish](https://yowie.com/the-yowie/squish/)
+    * [Ditty](https://yowie.com/the-yowie/ditty/)
+    * [Boof](https://yowie.com/the-yowie/boof/)
+    * [Nap](https://yowie.com/the-yowie/nap/)
+* [Collect](https://yowie.com/collect/)
+* [Yowasis](https://yowie.com/yowasis/)
+    * [Parties](https://yowie.com/parties/)
+    * [Rewards](https://yowie.com/rewards/)
+    * [Cartoons](https://yowie.com/cartoons/)
+    * [Coloring In](https://yowie.com/yowasis/)
+    * [Trivia](https://yowie.com/yowasis/)
+    * [Downloads](https://yowie.com/yowasis/)
+    * [Videos](https://yowie.com/yowasis/)
+    * [Puzzles & Games](https://yowie.com/yowasis/)
+    * [DIY](https://yowie.com/yowasis/)
+    * [Recipes](https://yowie.com/yowasis/)
+* [Educator Zone](https://yowie.com/educator-zone/)
+* [Products](https://yowie.com/products/)
+    * [Where To Buy](https://yowie.com/where-to-find-yowie/)
+    * [We Want Yowie](https://yowie.com/we-want-yowie/)
+    * [Our Products](https://yowie.com/products/)
+    * [Nutritional Information](https://yowie.com/yowie-nutritional-information/)
+* [WHERE TO BUY](https://yowie.com/where-to-find-yowie/)
     
 
 Privacy Policy
 ==============
 
-![Yowie Section Curve 15](https://yowieworld.com/wp-content/uploads/2023/06/yowie-section-curve-15.svg)
+![Yowie Section Curve 15](https://yowie.com/wp-content/uploads/2023/06/yowie-section-curve-15.svg)
 
 ### This website, YowieWorld.com, (Website) is operated by Yowie Group Ltd. (“we”, “us” and “our”).
 
@@ -138,53 +136,53 @@ Locator loading...
 
 ### Find Yowie in the U.S.
 
-![Walmart Logo](https://yowieworld.com/wp-content/uploads/2023/08/walmart-logo.png)
+![Walmart Logo](https://yowie.com/wp-content/uploads/2023/08/walmart-logo.png)
 
-![Caseys Logo](https://yowieworld.com/wp-content/uploads/2023/08/caseys-logo.png)
+![Caseys Logo](https://yowie.com/wp-content/uploads/2023/08/caseys-logo.png)
 
-![Walgreens Logo](https://yowieworld.com/wp-content/uploads/2023/08/walgreens-logo.png)
+![Walgreens Logo](https://yowie.com/wp-content/uploads/2023/08/walgreens-logo.png)
 
-![Costco Logo](https://yowieworld.com/wp-content/uploads/2023/08/costco-logo.png)
+![Costco Logo](https://yowie.com/wp-content/uploads/2023/08/costco-logo.png)
 
-![7 Eleven Logo](https://yowieworld.com/wp-content/uploads/2023/08/7-eleven-logo.png)
+![7 Eleven Logo](https://yowie.com/wp-content/uploads/2023/08/7-eleven-logo.png)
 
-![Acme Logo](https://yowieworld.com/wp-content/uploads/2023/08/acme-logo.png)
+![Acme Logo](https://yowie.com/wp-content/uploads/2023/08/acme-logo.png)
 
-![Albertsons Logo](https://yowieworld.com/wp-content/uploads/2023/08/albertsons-logo.png)
+![Albertsons Logo](https://yowie.com/wp-content/uploads/2023/08/albertsons-logo.png)
 
-![Duane Reade Logo](https://yowieworld.com/wp-content/uploads/2023/08/duane-reade-logo.png)
+![Duane Reade Logo](https://yowie.com/wp-content/uploads/2023/08/duane-reade-logo.png)
 
-![Raleys](https://yowieworld.com/wp-content/uploads/2023/09/raleys.png)
+![Raleys](https://yowie.com/wp-content/uploads/2023/09/raleys.png)
 
-![Save Mart](https://yowieworld.com/wp-content/uploads/2023/09/save-mart.png)
+![Save Mart](https://yowie.com/wp-content/uploads/2023/09/save-mart.png)
 
-![Murphy Usa](https://yowieworld.com/wp-content/uploads/2023/09/murphy-usa.png)
+![Murphy Usa](https://yowie.com/wp-content/uploads/2023/09/murphy-usa.png)
 
-![Meijer](https://yowieworld.com/wp-content/uploads/2023/09/meijer.png)
+![Meijer](https://yowie.com/wp-content/uploads/2023/09/meijer.png)
 
-![Lowes](https://yowieworld.com/wp-content/uploads/2023/09/lowes.png)
+![Lowes](https://yowie.com/wp-content/uploads/2023/09/lowes.png)
 
-![Harps](https://yowieworld.com/wp-content/uploads/2023/09/harps.png)
+![Harps](https://yowie.com/wp-content/uploads/2023/09/harps.png)
 
-![Get Go](https://yowieworld.com/wp-content/uploads/2023/09/get-go.png)
+![Get Go](https://yowie.com/wp-content/uploads/2023/09/get-go.png)
 
-![Food Lion](https://yowieworld.com/wp-content/uploads/2023/09/food-lion.png)
+![Food Lion](https://yowie.com/wp-content/uploads/2023/09/food-lion.png)
 
-![Fareway](https://yowieworld.com/wp-content/uploads/2023/09/fareway.png)
+![Fareway](https://yowie.com/wp-content/uploads/2023/09/fareway.png)
 
-![Circle K](https://yowieworld.com/wp-content/uploads/2023/09/circle-k.png)
+![Circle K](https://yowie.com/wp-content/uploads/2023/09/circle-k.png)
 
-![Quick Chek](https://yowieworld.com/wp-content/uploads/2023/09/quick-chek.png)
+![Quick Chek](https://yowie.com/wp-content/uploads/2023/09/quick-chek.png)
 
-![Hyvee](https://yowieworld.com/wp-content/uploads/2023/09/hyvee.png)
+![Hyvee](https://yowie.com/wp-content/uploads/2023/09/hyvee.png)
 
-![Dierbergs](https://yowieworld.com/wp-content/uploads/2023/09/dierbergs.png)
+![Dierbergs](https://yowie.com/wp-content/uploads/2023/09/dierbergs.png)
 
-![Brookshires](https://yowieworld.com/wp-content/uploads/2023/09/brookshires.png)
+![Brookshires](https://yowie.com/wp-content/uploads/2023/09/brookshires.png)
 
-![Am Pm](https://yowieworld.com/wp-content/uploads/2023/09/am-pm.png)
+![Am Pm](https://yowie.com/wp-content/uploads/2023/09/am-pm.png)
 
-![Family Dollar](https://yowieworld.com/wp-content/uploads/2023/09/family-dollar.png)
+![Family Dollar](https://yowie.com/wp-content/uploads/2023/09/family-dollar.png)
 
 Yowie can also be found in the U.S. at:  
 • Chevron  
@@ -192,31 +190,31 @@ Yowie can also be found in the U.S. at:
 
 ### Find Yowie in Australia
 
-![Woolworths Logo](https://yowieworld.com/wp-content/uploads/2023/08/woolworths-logo.png)
+![Woolworths Logo](https://yowie.com/wp-content/uploads/2023/08/woolworths-logo.png)
 
-![Big W Logo](https://yowieworld.com/wp-content/uploads/2023/08/big-w-logo.png)
+![Big W Logo](https://yowie.com/wp-content/uploads/2023/08/big-w-logo.png)
 
-![Reject Shop Logo](https://yowieworld.com/wp-content/uploads/2023/08/reject-shop-logo.png)
+![Reject Shop Logo](https://yowie.com/wp-content/uploads/2023/08/reject-shop-logo.png)
 
-![Kmart Logo](https://yowieworld.com/wp-content/uploads/2023/08/kmart-logo.png)
+![Kmart Logo](https://yowie.com/wp-content/uploads/2023/08/kmart-logo.png)
 
 [Sign Up and be the first to learn about new collectible series and products](#header-newsletter-signup)
 
-![Yowie Section Curve Purple 03](https://yowieworld.com/wp-content/uploads/2023/03/yowie-section-curve-purple-03.svg)
+![Yowie Section Curve Purple 03](https://yowie.com/wp-content/uploads/2023/03/yowie-section-curve-purple-03.svg)
 
-[![Yowie Primary Logo](https://yowieworld.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowieworld.com/)
+[![Yowie Primary Logo](https://yowie.com/wp-content/uploads/2022/05/Yowie-Primary-Logo-1.png)](https://yowie.com/)
 
 [](https://www.facebook.com/YowieWorld/ "Follow on Facebook")[](https://www.instagram.com/yowieworld/ "Follow on Instagram")[](https://www.tiktok.com/@yowieworld?is_copy_url=1&is_from_webapp=v1&lang=en "Follow on TikTok")[](https://twitter.com/yowieworld "Follow on Twitter")[](https://www.pinterest.com.au/yowieworld/_created/ "Follow on Pinterest")[](https://www.youtube.com/user/YowieWorld/ "Follow on YouTube")
 
-* [News](https://yowieworld.com/news/)
-* [Blog](https://yowieworld.com/blog/)
-* [Making a Difference](https://yowieworld.com/making-a-difference/)
-* [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
-* [For Media](https://yowieworld.com/press-kit/)
-* [For Investors](https://yowieworld.com/investors-and-corporate/)
-* [Privacy](https://yowieworld.com/privacy-policy/)
-* [Terms & Conditions](https://yowieworld.com/terms-conditions/)
-* [Contact Us](https://yowieworld.com/contact-us/)
+* [News](https://yowie.com/news/)
+* [Blog](https://yowie.com/blog/)
+* [Making a Difference](https://yowie.com/making-a-difference/)
+* [Nutritional Information](https://yowie.com/yowie-nutritional-information/)
+* [For Media](https://yowie.com/press-kit/)
+* [For Investors](https://yowie.com/investors-and-corporate/)
+* [Privacy](https://yowie.com/privacy-policy/)
+* [Terms & Conditions](https://yowie.com/terms-conditions/)
+* [Contact Us](https://yowie.com/contact-us/)
 
 Copyright 2023 © Yowie | Website built by [Social Tap](https://www.socialtap.com.au/)  
 Google Analytics & reCAPTCHA are used on this site - view [Privacy & Terms](https://policies.google.com/privacy?hl=en) | [Opt Out](https://tools.google.com/dlpage/gaoptout)
@@ -227,34 +225,32 @@ Copyright 2024 © **Yowie**
 
 [](#top)
 
-* [](https://yowieworld.com/)
-* [Meet the Yowie](https://yowieworld.com/the-yowie/)
-    * [Rumble](https://yowieworld.com/the-yowie/rumble/)
-    * [Crag](https://yowieworld.com/the-yowie/crag/)
-    * [Squish](https://yowieworld.com/the-yowie/squish/)
-    * [Ditty](https://yowieworld.com/the-yowie/ditty/)
-    * [Boof](https://yowieworld.com/the-yowie/boof/)
-    * [Nap](https://yowieworld.com/the-yowie/nap/)
-* [Collect](https://yowieworld.com/collect/)
-* [Yowasis](https://yowieworld.com/yowasis/)
-    * [Parties](https://yowieworld.com/parties/)
-    * [Rewards](https://yowieworld.com/rewards/)
-    * [Cartoons](https://yowieworld.com/cartoons/)
-    * [Coloring In](https://yowieworld.com/yowasis/)
-    * [Trivia](https://yowieworld.com/yowasis/)
-    * [Downloads](https://yowieworld.com/yowasis/)
-    * [Videos](https://yowieworld.com/yowasis/)
-    * [Puzzles & Games](https://yowieworld.com/yowasis/)
-    * [DIY](https://yowieworld.com/yowasis/)
-    * [Recipes](https://yowieworld.com/yowasis/)
-* [Educator Zone](https://yowieworld.com/educator-zone/)
-* [Products](https://yowieworld.com/products/)
-    * [Where To Buy](https://yowieworld.com/where-to-find-yowie/)
-    * [We Want Yowie](https://yowieworld.com/we-want-yowie/)
-    * [Our Products](https://yowieworld.com/products/)
-    * [Nutritional Information](https://yowieworld.com/yowie-nutritional-information/)
-* [Win](https://yowieworld.com/win/)
-    
+* [](https://yowie.com/)
+* [Meet the Yowie](https://yowie.com/the-yowie/)
+    * [Rumble](https://yowie.com/the-yowie/rumble/)
+    * [Crag](https://yowie.com/the-yowie/crag/)
+    * [Squish](https://yowie.com/the-yowie/squish/)
+    * [Ditty](https://yowie.com/the-yowie/ditty/)
+    * [Boof](https://yowie.com/the-yowie/boof/)
+    * [Nap](https://yowie.com/the-yowie/nap/)
+* [Collect](https://yowie.com/collect/)
+* [Yowasis](https://yowie.com/yowasis/)
+    * [Parties](https://yowie.com/parties/)
+    * [Rewards](https://yowie.com/rewards/)
+    * [Cartoons](https://yowie.com/cartoons/)
+    * [Coloring In](https://yowie.com/yowasis/)
+    * [Trivia](https://yowie.com/yowasis/)
+    * [Downloads](https://yowie.com/yowasis/)
+    * [Videos](https://yowie.com/yowasis/)
+    * [Puzzles & Games](https://yowie.com/yowasis/)
+    * [DIY](https://yowie.com/yowasis/)
+    * [Recipes](https://yowie.com/yowasis/)
+* [Educator Zone](https://yowie.com/educator-zone/)
+* [Products](https://yowie.com/products/)
+    * [Where To Buy](https://yowie.com/where-to-find-yowie/)
+    * [We Want Yowie](https://yowie.com/we-want-yowie/)
+    * [Our Products](https://yowie.com/products/)
+    * [Nutritional Information](https://yowie.com/yowie-nutritional-information/)
 * [](https://www.facebook.com/YowieWorld/ "Follow on Facebook")[](https://www.instagram.com/yowieworld/ "Follow on Instagram")[](https://www.tiktok.com/@yowieworld?is_copy_url=1&is_from_webapp=v1&lang=en "Follow on TikTok")[](https://twitter.com/yowieworld "Follow on Twitter")[](https://www.pinterest.com.au/yowieworld/_created/ "Follow on Pinterest")[](https://www.youtube.com/user/YowieWorld/ "Follow on YouTube")
     
 
@@ -266,8 +262,10 @@ Password \*
 
  Remember me  Log in
 
-[Lost your password?](https://yowieworld.com/my-account/lost-password/)
+[Lost your password?](https://yowie.com/my-account/lost-password/)
 
-![](https://www.facebook.com/tr?id=2305133513080338&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=633&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=yowieworld.com%2Fprivacy-policy%2F)
+![](https://www.facebook.com/tr?id=2305133513080338&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=633&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=yowie.com%2Fprivacy-policy%2F)
 
-We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowieworld.com/terms-conditions/), [Privacy policy](https://yowieworld.com/privacy-policy/) and the use of cookies.[Close](#)
+                    
+
+We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowie.com/terms-conditions/), [Privacy policy](https://yowie.com/privacy-policy/) and the use of cookies.[Close](#)
