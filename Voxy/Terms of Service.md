@@ -1,40 +1,27 @@
-[Skip to content](#main)
+* [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)English](#)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Portuguese (Brazil)](https://voxy.com/pt-br/termos-de-uso/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Spanish](https://voxy.com/es/terminos-de-uso/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Czech](https://voxy.com/cs/podminky-pouziti/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)French](https://voxy.com/fr/conditions-dutilisation/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)German](https://voxy.com/de/nutzungsbedingungen/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Italian](https://voxy.com/it/condizioni-duso/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Russian](https://voxy.com/ru/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/)
+    * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Thai](https://voxy.com/th/%E0%B9%80%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B8%87%E0%B8%B2%E0%B8%99/)
 
-* [English _![English](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_](#) 
-    *  [_![English](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ English](https://voxy.com/terms-of-use/)
-    *  [_![Português](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Português](https://voxy.com/pt-br/termos-de-uso/)
-    *  [_![Español](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Español](https://voxy.com/es/terminos-de-uso/)
-    *  [_![Čeština](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Čeština](https://voxy.com/cs/podminky-pouziti/)
-    *  [_![Français](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Français](https://voxy.com/fr/conditions-dutilisation/)
-    *  [_![Deutsch](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Deutsch](https://voxy.com/de/nutzungsbedingungen/)
-    *  [_![Italiano](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Italiano](https://voxy.com/it/condizioni-duso/)
-    *  [_![Русский](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Русский](https://voxy.com/ru/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/)
-    *  [_![ไทย](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ ไทย](https://voxy.com/th/%E0%B9%80%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B8%87%E0%B8%B2%E0%B8%99/)
+Search
 
-* [](#)
-    * 
+Search  
 
-* [Diversity and Inclusion](https://voxy.com/diversity-and-inclusion/)
-* [Student Login](https://app.voxy.com/go/login)
-* [Contact Us](https://voxy.com/contact/)
+Close this search box.
 
-[![Voxy](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNDciIGhlaWdodD0iODYiIHZpZXdCb3g9IjAgMCAzNDcgODYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)![Voxy](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNDciIGhlaWdodD0iODYiIHZpZXdCb3g9IjAgMCAzNDcgODYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://voxy.com/ "Voxy - Changing the way the world learns English")
+* [Voxy on LinkedIn](https://www.linkedin.com/company/voxy/)
+* [Get in Touch](https://voxy.com/contact/)
 
-* [](#)
-* [English _![English](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_](#) 
-    *  [_![English](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ English](https://voxy.com/terms-of-use/)
-    *  [_![Português](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Português](https://voxy.com/pt-br/termos-de-uso/)
-    *  [_![Español](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Español](https://voxy.com/es/terminos-de-uso/)
-    *  [_![Čeština](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Čeština](https://voxy.com/cs/podminky-pouziti/)
-    *  [_![Français](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Français](https://voxy.com/fr/conditions-dutilisation/)
-    *  [_![Deutsch](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Deutsch](https://voxy.com/de/nutzungsbedingungen/)
-    *  [_![Italiano](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Italiano](https://voxy.com/it/condizioni-duso/)
-    *  [_![Русский](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ Русский](https://voxy.com/ru/%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/)
-    *  [_![ไทย](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)_ ไทย](https://voxy.com/th/%E0%B9%80%E0%B8%87%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B8%87%E0%B8%B2%E0%B8%99/)
+[](https://app.voxy.com/v2/#/login)
 
-* [Solutions](https://voxy.com/solutions/)
-    * [Corporations](https://voxy.com/solutions/corporations/)
-    * [Channel Partners](https://voxy.com/solutions/channel-partners/)
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNjciIHZpZXdCb3g9IjAgMCAzMDAgNjciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://voxy.com/)
+
+* [Programs for Companies](https://voxy.com/programs-for-companies/)
 * [Product](https://voxy.com/product/)
     * [Technology](#)
         * [Learning Experience Platform (LXP)](https://voxy.com/product/technology/learning-experience-platform/)
@@ -64,11 +51,45 @@
 * [About Us](https://voxy.com/about-voxy)
     * [About Voxy](https://voxy.com/about-voxy)
     * [Careers](https://voxy.com/about/careers/)
-* [Solicite uma Demo](https://voxy.com/demo/pt)
-    
 
-* [](#)
-    * 
+Menu
+
+* [Programs for Companies](https://voxy.com/programs-for-companies/)
+* [Product](https://voxy.com/product/)
+    * [Technology](#)
+        * [Learning Experience Platform (LXP)](https://voxy.com/product/technology/learning-experience-platform/)
+        * [Personalized Units](https://voxy.com/product/technology/personalization/)
+        * [Mobile app (Android & iOS)](https://voxy.com/product/technology/mobile-apps/)
+        * [Reporting (Command Center)](https://voxy.com/product/technology/reporting/)
+        * [Teacher Platform](https://voxy.com/product/technology/teacher-platform/)
+    * [Methodology](#)
+        * [Voxy Proficiency Assessment (VPA®)](https://voxy.com/product/methodology/voxy-proficiency-assessment/)
+        * [Group Classes](https://voxy.com/product/methodology/group-classes/)
+        * [Private Classes](https://voxy.com/product/methodology/private-classes/)
+    * [Content](#)
+        * [Authentic Content](https://voxy.com/product/content/authentic-content/)
+        * [English Courses](https://voxy.com/english-courses/)
+        * [Content Integration](https://voxy.com/product/content/content-integration/)
+    * [Services](#)
+        * [Customer Success](https://voxy.com/product/services/customer-success/)
+        * [Learner Engagement](https://voxy.com/product/services/learner-engagement/)
+* [Featured Courses](https://voxy.com/english-courses/)
+    * [Financial Sector](https://voxy.com/financial-sector/)
+    * [Technology](https://voxy.com/technology/)
+    * [Diversity, Inclusion and Social Justice Course](https://voxy.com/diversity-and-inclusion/)
+    * [Leadership](https://voxy.com/coaching-for-high-impact-leadership/)
+    * [All Courses](https://voxy.com/english-courses/)
+* [Resources](https://voxy.com/resources/)
+* [Blog](https://voxy.com/blog/)
+* [About Us](https://voxy.com/about-voxy)
+    * [About Voxy](https://voxy.com/about-voxy)
+    * [Careers](https://voxy.com/about/careers/)
+
+* [Student area](https://app.voxy.com/v2/#/login)
+
+[](https://app.voxy.com/v2/#/login)
+
+[Request a demo](https://voxy.com/demo)
 
 ### Terms of Use
 
@@ -325,82 +346,88 @@ USA
 
 Copyright © 2021 Voxy, Inc. All rights reserved
 
-SOLUTIONS
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNjciIHZpZXdCb3g9IjAgMCAzMDAgNjciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://voxy.com/)
 
-[Corporations](https://voxy.com/solutions/corporations)  
-[Channel Partners](https://voxy.com/solutions/channel-partners)
+[Connect with us](https://www.linkedin.com/company/voxy/)
 
 Features
 
-##### Curriculum
+Curriculum
 
-[Personalized Units](https://voxy.com/features/personalized-units)  
-[Authentic Content](https://voxy.com/features/authentic-content)  
-[Career-Aligned Courses](https://voxy.com/features/career-aligned-courses)  
-[Curriculum-Aligned Courses](https://voxy.com/features/curriculum-aligned-courses)  
-[Content Integration](https://voxy.com/features/content-integration/)
+* [Personalized Units](https://voxy.com/features/personalized-units)
+* [Authentic Content](https://voxy.com/features/authentic-content)
+* [Career-Aligned Courses](https://voxy.com/features/career-aligned-courses)
+* [Curriculum-Aligned Courses](https://voxy.com/features/curriculum-aligned-courses)
+* [Content Integration](https://voxy.com/features/content-integration/)
 
-##### Live Instruction
+Services
 
-[Private Classes](https://voxy.com/features/private-classes/)  
-[Group Classes](https://voxy.com/features/group-classes)  
-[Teacher Platform](https://voxy.com/features/teacher-platform)
+* [Customer Success](https://voxy.com/features/customer-success)
+* [Reporting](https://voxy.com/features/reporting)
+* [Learner Engagement](https://voxy.com/features/learner-engagement-services)
 
-##### Assessment
+Assessment
 
-[Voxy Proficiency Assessment®](https://voxy.com/features/vpa)
+* [Voxy Proficiency Assessment®](https://voxy.com/features/vpa)
 
-##### Services
+Live instruction
 
-[Customer Success](https://voxy.com/features/customer-success)  
-[Reporting](https://voxy.com/features/reporting)  
-[Learner Engagement](https://voxy.com/features/learner-engagement-services)
-
-##### Mobile
-
-[Android](https://voxy.com/features/mobile)  
-[iOS](https://voxy.com/features/mobile)
-
-CONNECT
-
-##### Follow Us
-
-[Facebook](https://www.facebook.com/goVOXY)  
-[Twitter](https://twitter.com/voxy)  
-[LinkedIn](https://www.linkedin.com/company/voxy)
-
-##### Learner Support
-
-[Learner Help Center](https://support.voxy.com/hc/en-us)  
-[Contact Support](https://support.voxy.com/hc/en-us/requests/new)
-
-##### Partner Support
-
-[Partner Help Center](https://voxypartner.zendesk.com/hc/en-us)
+* [Private Classes](https://voxy.com/features/private-classes/)
+* [Group Classes](https://voxy.com/features/group-classes)
+* [Teacher Platform](https://voxy.com/features/teacher-platform)
 
 About
 
-[Awards](https://voxy.com/about/awards/)  
-[Company](https://voxy.com/about/company/)  
-[Careers](https://voxy.com/about/careers/)  
-[News & Press](https://voxy.com/about/news-and-press/)  
-[Teach with us](https://voxy.com/teacher-signup/)  
-[Resources](https://voxy.com/resources/)  
-[Blog](https://voxy.com/blog/)
+* [Awards](https://voxy.com/about/awards/)
+* [Company](https://voxy.com/about/company/)
+* [Careers](https://voxy.com/about/careers/)
+* [News & Press](https://voxy.com/about/news-and-press/)
+* [Teach with us](https://voxy.com/teacher-signup/)
+* [Resources](https://voxy.com/resources/)
+* [Blog](https://voxy.com/blog/)
 
-[Contact Us](https://voxy.com/contact)
+Solutions
 
-[Terms & Conditions](https://voxy.com/terms-of-use) | [Privacy Policy](https://voxy.com/privacy-policy)
+* [Corporations](https://voxy.com/solutions/corporations)
+* [Channel Partners](https://voxy.com/solutions/channel-partners)
 
-© 2024 **Voxy**
+Legal
 
-[](#top)
+* [Privacy Policy](https://voxy.com/privacy-policy)
+* [Terms & Conditions](https://voxy.com/terms-of-use)
+
+Support
+
+Learner Support
+
+* [Learner Help Center](https://support.voxy.com/hc/en-us)
+* [Contact Support](https://support.voxy.com/hc/en-us/requests/new)
+
+Partner Support
+
+* [Partner Help Center](https://voxypartner.zendesk.com/hc/en-us)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MyIgaGVpZ2h0PSI1NyIgdmlld0JveD0iMCAwIDQzIDU3Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NCIgaGVpZ2h0PSI1NyIgdmlld0JveD0iMCAwIDQ0IDU3Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+
+![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjIiIGhlaWdodD0iNTAiIHZpZXdCb3g9IjAgMCAxMjIgNTAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)
+
+[Back to top](#)
+
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYiIGhlaWdodD0iMzkiIHZpZXdCb3g9IjAgMCAxMzYgMzkiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://play.google.com/store/apps/details?id=com.voxy.news)
+
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzUiIGhlaWdodD0iMzkiIHZpZXdCb3g9IjAgMCAxMzUgMzkiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://apps.apple.com/us/app/voxy-learn-english/id411535459)
+
+Copyright © 2024 Voxy. All rights reserved
+
+[Developed by](https://studioartemis.co/)
+
+[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNTgiIHZpZXdCb3g9IjAgMCAzMDAgNTgiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://studioartemis.co/)
 
 * [Student login](https://app.voxy.com/go/login)
     
-* [Solutions](https://voxy.com/solutions/)
-    * [Corporations](https://voxy.com/solutions/corporations/)
-    * [Channel Partners](https://voxy.com/solutions/channel-partners/)
+* [Programs for Companies](https://voxy.com/programs-for-companies/)
 * [Product](https://voxy.com/product/)
     * [Technology](#)
         * [Learning Experience Platform (LXP)](https://voxy.com/product/technology/learning-experience-platform/)
