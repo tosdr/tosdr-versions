@@ -1,6 +1,6 @@
-[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202406191811)](https://www.wishlist.com/)
+[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407031758)](https://www.wishlist.com/)
 
-[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202406191811)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202406191811)](https://www.wishlist.com/)
+[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407031758)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202407031758)](https://www.wishlist.com/)
 
 * Close
 
@@ -402,14 +402,13 @@ Latest update: January 1, 2024
 * [Blog](https://www.wishlist.com/ideas)
 * [Help / Feedback](javascript:void(0);)
 * [How it Works](https://www.wishlist.com/howItWorks)
-* [For Influencers](https://www.wishlist.com/forinfluencers)
+* [For Creators/Influencers](https://www.wishlist.com/forinfluencers)
 * [Accept Contributions](https://www.wishlist.com/acceptcontributions)
 * [WooCommerce WishList](https://www.wishlist.com/wishlist-dot-com-for-woocommerce)
 * [Business Services](https://www.wishlist.com/businessServices)
 * [Privacy Policy](https://www.wishlist.com/privacy)
 * [Cookie Policy](https://www.wishlist.com/cookies)
 * [Terms of Use](https://www.wishlist.com/termsofuse)
-* [Refund Policy](https://www.wishlist.com/refundPolicy)
 * [Consent Preferences](#)
 * [California users: Do Not Sell or Share My Personal information](https://www.wishlist.com/datasubaccreq)
 
