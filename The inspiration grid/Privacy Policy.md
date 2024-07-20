@@ -193,37 +193,37 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
-![](https://inspgr.id/app/uploads/2024/06/adesign-early-call-24-feature.jpg)
-
-[Architecture](https://theinspirationgrid.com/category/architecture/)[Art](https://theinspirationgrid.com/category/art/)
-
-[](https://theinspirationgrid.com/editorial/showcase-your-talent-a-design-awards-early-entry-period-announced/)
-
-### Showcase Your Talent: A’ Design Awards Early Entry Period Announced
-
-![](https://inspgr.id/app/uploads/2024/06/arthur-zhang-interview-cover.jpg)
+![](https://inspgr.id/app/uploads/2024/07/analogue-pocket-aluminum-feature.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
 
-[](https://theinspirationgrid.com/editorial/ahead-of-the-game-an-interview-with-ayaneos-ceo-arthur-zhang/)
+[](https://theinspirationgrid.com/editorial/the-new-analogue-pocket-aluminum-edition-is-gorgeous-and-very-expensive/)
 
-### Ahead of the Game: An Interview with AYANEO’s CEO Arthur Zhang
+### The new Analogue Pocket Aluminum Edition is Gorgeous (and Very Expensive)
 
-![](https://inspgr.id/app/uploads/2024/06/rog-ally-x-revealed-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/ayaneo-pocket-evo-feature.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
 
-[](https://theinspirationgrid.com/editorial/asus-rog-ally-x-revealed-a-mid-cycle-refresh-with-significant-upgrades/)
+[](https://theinspirationgrid.com/editorial/ayaneo-reveals-the-worlds-first-android-handheld-with-a-7-inch-120hz-oled-display/)
 
-### ASUS ROG Ally X Revealed: A Mid-Cycle Refresh with Significant Upgrades
+### AYANEO Reveals the World’s First Android Handheld with a 7-inch 120Hz OLED Display
 
-![](https://inspgr.id/app/uploads/2024/05/tattoo-wordpress-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/editorial-esr-qi2-charging-sets-feature.jpg)
 
-[Technology](https://theinspirationgrid.com/category/technology-2/)[UX & UI Design](https://theinspirationgrid.com/category/ui-design/)
+[Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
 
-[](https://theinspirationgrid.com/editorial/20-best-tattoo-studio-wordpress-themes-for-talented-ink-artists/)
+[](https://theinspirationgrid.com/editorial/esr-qi2-3-in-1-wireless-charging-sets-review/)
 
-### 20 Best Tattoo Studio WordPress Themes for Talented Ink Artists
+### ESR Qi2 3-in-1 MagSafe Wireless Chargers Review
+
+![](https://inspgr.id/app/uploads/2024/06/fonts-for-logos-feature-new.jpg)
+
+[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/20-best-fonts-for-logos-a-collection-of-downloadable-assets-for-designers/)
+
+### 20+ Best Fonts for Logos: A Collection of Downloadable Assets for Designers
 
 #want
 -----
@@ -291,53 +291,53 @@ Latest
 inspiration
 -----------
 
-![](https://inspgr.id/app/uploads/2024/06/art-paul-cocksedge-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/illustration-masha-foya-feature.jpg)
 
-[](https://theinspirationgrid.com/imaginative-public-art-by-paul-cocksedge/)
+[](https://theinspirationgrid.com/captivating-illustrations-by-masha-foya/)
 
-### Imaginative Public Art by Paul Cocksedge
+### Captivating Illustrations by Masha Foya
 
-![](https://inspgr.id/app/uploads/2024/06/art-oscar-duarte-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/photography-maxime-daviron-feature.jpg)
 
-[](https://theinspirationgrid.com/collages-by-oscar-duarte/)
+[](https://theinspirationgrid.com/the-empty-quarter-photos-by-maxime-daviron/)
 
-### Fantastic Digital Collages by Oscar Duarte
+### The Empty Quarter: Photos by Maxime Daviron
 
-![](https://inspgr.id/app/uploads/2024/06/3d-mo-oo-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/art-marco-grassi-feature.jpg)
 
-[](https://theinspirationgrid.com/stunning-3d-art-by-mo-oo/)
+[](https://theinspirationgrid.com/transcendent-hyper-realistic-paintings-by-marco-grassi/)
 
-### Stunning 3D Art by Mo oo
+### Transcendent Hyper-Realistic Paintings by Marco Grassi
 
-![](https://inspgr.id/app/uploads/2024/06/illustration-van-orton-24-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/photography-jennifer-esseiva-feature.jpg)
 
-[](https://theinspirationgrid.com/amazing-pop-culture-creations-by-van-orton-design/)
+[](https://theinspirationgrid.com/mountains-of-switzerland-photos-by-jennifer-esseiva/)
 
-### Amazing Pop Culture Creations by Van Orton Design
+### Mountains of Switzerland: Photos by Jennifer Esseiva
 
-![](https://inspgr.id/app/uploads/2024/06/photography-safe-from-harm-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/branding-72-revival-feature.jpg)
 
-[](https://theinspirationgrid.com/safe-from-harm-photo-series-by-neal-grundy/)
+[](https://theinspirationgrid.com/72-revival-branding-by-numinous/)
 
-### Safe From Harm: Photo Series by Neal Grundy
+### 72.Revival Branding by Numinous
 
-![](https://inspgr.id/app/uploads/2024/06/packaging-caotico-tequila-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/art-joseph-klibansky-feature.jpg)
 
-[](https://theinspirationgrid.com/caotico-tequila-packaging-design-by-hi-estudio/)
+[](https://theinspirationgrid.com/contemplative-sculptures-by-joseph-klibansky/)
 
-### Caótico Tequila Packaging Design by HI! Estudio
+### Contemplative Sculptures by Joseph Klibansky
 
-![](https://inspgr.id/app/uploads/2024/06/architecture-adam-spychala-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/illustration-ryan-ragnini-feature.jpg)
 
-[](https://theinspirationgrid.com/brutalist-living-architectural-concepts-by-adam-spychala/)
+[](https://theinspirationgrid.com/east-meets-west-illustrations-by-ryan-ragnini/)
 
-### Brutalist Living: Architectural Concepts by Adam Spychała
+### East Meets West: Illustrations by Ryan Ragnini
 
-![](https://inspgr.id/app/uploads/2024/06/car-gac-era-feature.jpg)
+![](https://inspgr.id/app/uploads/2024/07/lettering-david-leutert-feature.jpg)
 
-[](https://theinspirationgrid.com/gac-era-concept-car-cgi-renders-by-gf-x/)
+[](https://theinspirationgrid.com/more-than-words-lettering-creations-by-david-leutert/)
 
-### GAC ERA Concept Car: CGI Renders by GF X
+### More Than Words: Lettering Creations by David Leutert
 
 Awesome products for creatives
 ------------------------------
