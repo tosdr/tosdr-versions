@@ -90,9 +90,9 @@
     * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing.
+    * [Secure business funding.
         
-        Shopify Lending](https://www.shopify.com/lending)
+        Shopify Capital](https://www.shopify.com/capital)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
@@ -170,7 +170,7 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition.
+    * [Summer ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
     * [All Editions.
@@ -278,9 +278,9 @@
     * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing.
+    * [Secure business funding.
         
-        Shopify Lending](https://www.shopify.com/lending)
+        Shopify Capital](https://www.shopify.com/capital)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
@@ -357,7 +357,7 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition.
+    * [Summer ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
     * [All Editions.
@@ -374,47 +374,32 @@
 Shopify Acceptable Use Policy
 =============================
 
-Shopify is a commerce platform that provides the tools and technology for merchants to set up an online store and sell products and services on their own website, at physical retail locations, and elsewhere. While we believe the free and open exchange of ideas and products is a key tenet of commerce, there are some activities that are incompatible with Shopify’s mission to make commerce better for everyone. This Acceptable Use Policy (**“AUP”**) describes activities that are prohibited in connection with your use of the Services.
+Shopify is built for entrepreneurs, from your first sale to IPO and beyond. Our purpose is to empower you, the merchant, to run your business as you see fit and to equip you with the tools and ability to make your own choices. This is how we build and operate our software and we want to be consistent with it everywhere else in the business.
 
-Any capitalized terms used in this AUP are defined on the Shopify AUP definitions page, located at [https://shopify.com/legal/aup-definitions](https://shopify.com/legal/aup-definitions).
+As all entrepreneurs know, when you run a business the buck stops with you. The main rule for using Shopify is: you’re responsible for following the rules of your platform, your partners, and the law. These are the principles behind our expectations in more detail:
 
-The following activities are prohibited:
+        _You can’t use Shopify to do anything that’s illegal where you do business._  
+We understand laws and regulatory frameworks can be complex, but in choosing a market to enter and products to sell, _you, the merchant_, are making a commitment to take that market seriously, and we trust and expect you to understand applicable boundaries. You must likewise respect that certain business activities are not supported by our platform, such as uploading Protected Health Information subject to HIPAA.
 
-1. **Child exploitation**: You may not offer goods or services, or post or upload [Materials](https://www.shopify.com/legal/aup-definitions#Materials) that exploit or abuse children, including but not limited to images or depictions of child abuse or sexual abuse, or that present children in a sexual manner.
-    
-2. **Harassment and threats**: You may not offer goods or services, or post or upload Materials, that harass or threaten a specific individual.
-    
-3. **Hateful content**: You may not use the Services to promote or condone hate or violence against people based on race, ethnicity, color, national origin, religion, age, gender, sexual orientation, disability, medical condition, or veteran status. You may not use the Services to promote or support organizations, platforms or people that: (i) promote or condone such hate; or (ii) threaten or condone violence to further a cause.
-    
-4. **Illegal activities**: You may not offer goods or services, or post or upload Materials, that contravene or that facilitate or promote activities that contravene, the laws of the jurisdictions in which you operate or do business.
-    
-5. **Intellectual property**: You may not offer goods or services, or post or upload Materials, that infringe on the copyright or trademarks of others.
-    
-6. **Malicious and deceptive practices**: You may not use the Services to transmit malware or host phishing pages. You may not perform activities or upload or distribute Materials that harm or disrupt the operation of the Services or other infrastructure of Shopify or others, including Shopify’s third party providers. You may not use the Services for deceptive commercial practices or activities.
-    
-7. **Personal, confidential, and protected health information**: You may not post or upload any Materials that contain personally identifiable information, sensitive personal information, or confidential information, such as credit card numbers, confidential national ID numbers, or account passwords unless you have consent from the person to whom the information belongs or who is otherwise authorized to provide such consent. You may not use the Services to collect, store, or process any protected health information subject to the Health Insurance Portability and Accountability Act (“HIPAA”), any applicable health privacy regulation or any other applicable law governing the processing, use, or disclosure of protected health information.
-    
-8. **Self-harm**: You may not offer goods or services, or post or upload Materials, that promote self-harm.
-    
-9. **Spam**: You may not use the Services to transmit unsolicited commercial electronic messages.
-    
-10. **Terrorist organizations**: You may not offer goods or services, or post or upload Materials, that imply or promote support or funding of, or membership in, a terrorist organization.
-    
+        _You can’t breach the social contract of commerce._  
+There are activities we don’t allow on the platform because they breach the social contract of commerce. This means you can’t call for, or threaten, violence against specific people or groups. And you can’t sell products that facilitate intentional self-harm.
 
-We may, at any time and without notice, remove any Materials, and suspend or terminate your Account or your access to the Services if you engage in activities that violate this AUP, including activities outside of your use of the Services.
+        _You need to follow our agreements with you._  
+While we don’t want to burden you with a lot of paperwork, our [Terms of Service](https://www.shopify.com/legal/terms) are important for how we operate. Our agreements bind you as a merchant and explain the platform rules you must follow.
 
-Shopify has the right, but not the obligation, to monitor or investigate any Materials and your use of the Services at any time for compliance with this AUP and the Shopify Terms of Service, or any other agreement between you and Shopify governing your use of the Services (collectively, the **“Terms”**). Our determination of whether a violation of this AUP has occurred will be final and binding, and any action taken with respect to enforcing this AUP, including taking no action at all, will be at our sole discretion.
+        _Payment Terms (and terms from other add-on products) can also apply._  
+Shopify offers a range of products and services that leverage partnerships with other organizations. When you use one of these products, you are interacting with an entire supply chain of businesses: for example, [Shopify Payments](https://help.shopify.com/en/manual/payments/shopify-payments/faq) involves an ecosystem of processors, card networks, and banks working together. If you use these services, you need to respect how the supply chain works and what terms are asked of you.
 
-Shopify may modify this AUP at any time by posting a revised version at [https://shopify.com/legal/aup](https://shopify.com/legal/aup). By continuing to use the Services or access your Account after a revised version of the AUP has been posted, you agree to comply with the latest version of the AUP. In the event of a conflict between the AUP and the Terms, this AUP will take precedence, but only to the extent required to resolve such conflict. Capitalized terms used but not defined in this AUP shall have the meanings set forth in the Terms.
+        _There are also channel rules that could apply._  
+Shop sales channel comes with its own [merchant guidelines](https://help.shopify.com/en/manual/online-sales-channels/shop/eligibility) and [product eligibility criteria](https://help.shopify.com/en/manual/online-sales-channels/shop/eligibility/prohibited-products). If you sell on Shop, you need to respect these requirements.
 
-If you feel that a user of the Services has violated this AUP, please contact us at [https://shopify.com/legal/report-an-issue](https://shopify.com/legal/report-an-issue).
+        _The most common product eligibility disputes originate from outside of Shopify._  
+We are a commerce platform: most product eligibility or takedown disputes that entrepreneurs may encounter originate from outside Shopify, including from regulators and third-party IP rights holders. In these circumstances, we’ll give you notice and tools to self-manage your risks and disputes when appropriate.
 
-* * *
+        _We expect you to act in good faith. If you don’t, account-level action may be appropriate._  
+We don’t like to see people try to “game” systems to avoid constraints they don’t agree with. We also don’t tolerate anyone defrauding Shopify, other merchants, or buyers, using Shopify as a platform to send spam, or for other malicious practices. In those cases, while we try to minimize impact to business as a first-order principle, account-level action is oftentimes more appropriate.
 
-Last updated: December 11, 2023  
-© 2024 Shopify Inc.  
-
-Opens an external site in a new window
+When you build on Shopify with these principles in mind, we will give you notice, grant you opportunities to self-remediate conflicts, default to enforcement at the product level, and take account-level action as a last resort when appropriate. Finally, as with all great products, we expect to iterate on and update these principles from time to time.
 
 Shopify logo
 
@@ -436,6 +421,7 @@ Support
 * [Merchant support](https://help.shopify.com/en/questions)
 * [Help center](https://help.shopify.com/en/)
 * [Hire a Partner](https://www.shopify.com/partners/directory)
+* [Shopify Academy](https://academy.shopify.com/?itcat=brochure&itterm=global-footer)
 * [Shopify Community](https://community.shopify.com/c/Shopify-Community/ct-p/en?utm_campaign=footer&utm_content=en&utm_medium=web&utm_source=shopify)
 * [Shopify Events](https://community.shopify.com/c/Shopify-Community/ct-p/en/home?utm_campaign=homepage&utm_content=en&utm_medium=web&utm_source=shopify)
 
@@ -475,78 +461,12 @@ Solutions
 USA
 
 * [USA](https://www.shopify.com/legal/aup)
-* [Australia](https://www.shopify.com/au/legal/aup)
-* [Belgium](https://www.shopify.com/be/legal/aup)
-* [Brasil](https://www.shopify.com/br/legal/aup)
-* [Canada (English)](https://www.shopify.com/ca/legal/aup)
-* [Canada (Français)](https://www.shopify.com/ca-fr/legal/aup)
-* [Colombia](https://www.shopify.com/co/legal/aup)
-* [Danmark](https://www.shopify.com/dk/legal/aup)
-* [Deutschland](https://www.shopify.com/de/legal/aup)
-* [España](https://www.shopify.com/es-es/legal/aup)
-* [Español (Intl.)](https://www.shopify.com/es/legal/aup)
-* [France](https://www.shopify.com/fr/legal/aup)
-* [Hong Kong SAR](https://www.shopify.com/hk-en/legal/aup)
-* [India](https://www.shopify.com/in/legal/aup)
-* [Indonesia](https://www.shopify.com/id/legal/aup)
-* [Ireland](https://www.shopify.com/ie/legal/aup)
-* [Italia](https://www.shopify.com/it/legal/aup)
-* [Malaysia](https://www.shopify.com/my/legal/aup)
-* [México](https://www.shopify.com/mx/legal/aup)
-* [Nederland](https://www.shopify.com/nl/legal/aup)
-* [New Zealand](https://www.shopify.com/nz/legal/aup)
-* [Nigeria](https://www.shopify.com/ng/legal/aup)
-* [Norway (English)](https://www.shopify.com/no-en/legal/aup)
-* [Philippines](https://www.shopify.com/ph/legal/aup)
-* [Singapore](https://www.shopify.com/sg/legal/aup)
-* [South Africa](https://www.shopify.com/za/legal/aup)
-* [Sverige](https://www.shopify.com/se/legal/aup)
-* [United Kingdom](https://www.shopify.com/uk/legal/aup)
-* [Việt Nam](https://www.shopify.com/vn/legal/aup)
-* [대한민국](https://www.shopify.com/kr/legal/aup)
-* [中國香港特別行政區](https://www.shopify.com/hk/legal/aup)
-* [台灣](https://www.shopify.com/tw/legal/aup)
-* [日本](https://www.shopify.com/jp/legal/aup)
-* [简体中文](https://www.shopify.com/zh/legal/aup)
 
 USA
 
 ### Country/region
 
 * [USA](https://www.shopify.com/legal/aup)
-* [Australia](https://www.shopify.com/au/legal/aup)
-* [Belgium](https://www.shopify.com/be/legal/aup)
-* [Brasil](https://www.shopify.com/br/legal/aup)
-* [Canada (English)](https://www.shopify.com/ca/legal/aup)
-* [Canada (Français)](https://www.shopify.com/ca-fr/legal/aup)
-* [Colombia](https://www.shopify.com/co/legal/aup)
-* [Danmark](https://www.shopify.com/dk/legal/aup)
-* [Deutschland](https://www.shopify.com/de/legal/aup)
-* [España](https://www.shopify.com/es-es/legal/aup)
-* [Español (Intl.)](https://www.shopify.com/es/legal/aup)
-* [France](https://www.shopify.com/fr/legal/aup)
-* [Hong Kong SAR](https://www.shopify.com/hk-en/legal/aup)
-* [India](https://www.shopify.com/in/legal/aup)
-* [Indonesia](https://www.shopify.com/id/legal/aup)
-* [Ireland](https://www.shopify.com/ie/legal/aup)
-* [Italia](https://www.shopify.com/it/legal/aup)
-* [Malaysia](https://www.shopify.com/my/legal/aup)
-* [México](https://www.shopify.com/mx/legal/aup)
-* [Nederland](https://www.shopify.com/nl/legal/aup)
-* [New Zealand](https://www.shopify.com/nz/legal/aup)
-* [Nigeria](https://www.shopify.com/ng/legal/aup)
-* [Norway (English)](https://www.shopify.com/no-en/legal/aup)
-* [Philippines](https://www.shopify.com/ph/legal/aup)
-* [Singapore](https://www.shopify.com/sg/legal/aup)
-* [South Africa](https://www.shopify.com/za/legal/aup)
-* [Sverige](https://www.shopify.com/se/legal/aup)
-* [United Kingdom](https://www.shopify.com/uk/legal/aup)
-* [Việt Nam](https://www.shopify.com/vn/legal/aup)
-* [대한민국](https://www.shopify.com/kr/legal/aup)
-* [中國香港特別行政區](https://www.shopify.com/hk/legal/aup)
-* [台灣](https://www.shopify.com/tw/legal/aup)
-* [日本](https://www.shopify.com/jp/legal/aup)
-* [简体中文](https://www.shopify.com/zh/legal/aup)
 
 * [Terms of Service](https://www.shopify.com/legal/terms)
 * [Privacy Policy](https://www.shopify.com/legal/privacy)
@@ -554,10 +474,10 @@ USA
 * [Sitemap](https://www.shopify.com/sitemap)
 * [Privacy Choices](https://privacy.shopify.com/en)
 
-* [Facebook](https://www.facebook.com/shopify)
-* [Twitter](https://twitter.com/shopify)
-* [YouTube](https://www.youtube.com/user/shopify)
-* [Instagram](https://www.instagram.com/shopify/)
-* [TikTok](https://www.tiktok.com/@shopify)
-* [LinkedIn](https://www.linkedin.com/company/shopify)
-* [Pinterest](https://www.pinterest.com/shopify/)
+* [](https://www.facebook.com/shopify)
+* [](https://twitter.com/shopify)
+* [](https://www.youtube.com/user/shopify)
+* [](https://www.instagram.com/shopify/)
+* [](https://www.tiktok.com/@shopify)
+* [](https://www.linkedin.com/company/shopify)
+* [](https://www.pinterest.com/shopify/)
