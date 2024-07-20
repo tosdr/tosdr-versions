@@ -828,7 +828,7 @@ Customer shall, at its own expense, obtain and arrange for the maintenance in fu
 
 This Agreement, the Privacy Policy, and the Data Protection Addendum constitute the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior and contemporaneous oral or written representations, agreements or communications, including, without limitation, any quotations or proposals submitted by Company that are not shown in the Order or any policies or terms for the Services posted on www.securly.com other than the Data Protection Addendum. The parties agree that in entering into this Agreement they have not relied upon any representation or statement not contained in this Agreement.
 
-###### [Solutions ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Solutions ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [Securly Platform](https://www.securly.com/)
 * [Student Safety](https://www.securly.com/solutions/student-safety)
@@ -836,14 +836,14 @@ This Agreement, the Privacy Policy, and the Data Protection Addendum constitute 
 * [Student Engagement](https://www.securly.com/solutions/student-engagement)
 * [Technology](https://www.securly.com/solutions/technology)
 
-###### [Company ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Company ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [About](https://www.securly.com/about-us)
 * [Contact](https://www.securly.com/contact-us)
 * [Partners](https://www.securly.com/partners)
 * [Careers](https://www.securly.com/careers)
 
-###### [Products ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Products ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [Filter](https://www.securly.com/filter)
 * [Aware](https://www.securly.com/aware)
@@ -852,7 +852,7 @@ This Agreement, the Privacy Policy, and the Data Protection Addendum constitute 
 * [MDM](https://www.securly.com/mdm)
 * [Observe](https://www.securly.com/observe)
 
-###### [Resources hub ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Resources hub ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [Securly support](https://support.securly.com/)
 * [Home support](https://homesupport.securly.com/)
@@ -864,7 +864,7 @@ This Agreement, the Privacy Policy, and the Data Protection Addendum constitute 
 * [Securly vs. Alternatives](https://www.securly.com/vs-alternatives)
 * [Lookup tool](https://www.securly.com/lookup-tool)
 
-###### Contact us
+**Contact us**
 
 * School:
 * Sales number - [0141 343 8322](tel:01413438322)
