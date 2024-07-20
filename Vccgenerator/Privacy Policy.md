@@ -153,7 +153,7 @@ VCCGenerator has the discretion to update this privacy policy at any time. When 
 
 We encourage users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-[](https://www.facebook.com/vccgenerator/)  [](https://twitter.com/vccgenerator)  [](https://www.pinterest.com/VCCGenerator/)  [](https://www.reddit.com/user/vccgenerator) [](https://www.instagram.com/vccgenerator/)
+[](https://www.facebook.com/vccgenerator/)  [](https://x.com/vccgenerator)  [](https://www.pinterest.com/VCCGenerator/)  [](https://www.reddit.com/user/vccgenerator) [](https://www.instagram.com/vccgenerator/)
 
 * * *
 
