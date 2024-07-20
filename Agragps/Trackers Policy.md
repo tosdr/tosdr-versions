@@ -105,17 +105,17 @@ Close
     
     BRIDGE
     
-     [![Claas Jaguar (2012&newer)](https://www.agragps.com/wp-content/uploads/2022/04/xjaguar-thegem-product-justified-square-xxs.jpg.pagespeed.ic.YLYbHZfYuT.jpg)](https://www.agragps.com/product/class-jaguar-2012newer/)
+    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    [Claas Jaguar (2012&newer)](https://www.agragps.com/product/class-jaguar-2012newer/)
-    
-    $3,380.00
-    
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
-    
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
     $3,380.00
+    
+     [![VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/wp-content/uploads/2021/10/xValtra-thegem-product-justified-square-xxs.jpg.pagespeed.ic.r_EDAVTIOR.jpg)](https://www.agragps.com/product/valtra-jd-n-t/)
+    
+    [VALTRA Bridge compatible with John Deere Receiver](https://www.agragps.com/product/valtra-jd-n-t/)
+    
+    USD $3,380.00
     
     ITC Extend
     
@@ -131,23 +131,23 @@ Close
     
     Accessories
     
-     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
-    
-    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
-    
-    $120.00
-    
      [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
     
     [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
     
     $120.00
     
-     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
+     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
+    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    $960.00
+    $120.00
+    
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    
+    $120.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -249,11 +249,11 @@ Menu
     
     BRIDGE
     
-     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+     [![New Holland-JD Bridge](https://www.agragps.com/wp-content/uploads/2022/04/xdieAckerknipser-212-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fWUE9YZbg5.jpg)](https://www.agragps.com/product/new-holland-combine/)
     
-    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
+    [New Holland-JD Bridge](https://www.agragps.com/product/new-holland-combine/)
     
-    $3,380.00
+    USD $3,380.00
     
      [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ur41Qhk1s2.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
     
@@ -275,21 +275,21 @@ Menu
     
     Accessories
     
-     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
+     [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
     
-    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
+    [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
     
-    $90.00
+    USD $80.00
     
-     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
-    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
     
-    $140.00
+    $2,690.00
     
-     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
-    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
     $120.00
     
@@ -1954,6 +1954,6 @@ Save Preferences
 
 [Terms of Service & Privacy Policy](https://www.agragps.com/terms-of-use/) [Cookies Policy](https://www.agragps.com/terms-of-use/)
 
-                                                                    
+                                                                      
 
 [Captcha by Forge12 Interactive GmbH](https://www.forge12.com/ "WordPress Agentur")
