@@ -8,7 +8,7 @@ Abuse Reports
   
 If you are aware of any illegal activity or breaches of our TOS, please let us know so we may take appropriate action. While we do monitor our networks for certain activities, such as spam, child pornography, and other serious violations defined in our Acceptable Use Policy (AUP); we do not monitor our clients content specifically. Your help in identifying these violations is our best chance at keeping them at a minimum. After review of a suspected violation, depending on the severity we may terminate or suspend the offending account.  
   
-Please e-mail mail-abuse@spryservers.net for spam issues or abuse@spryservers.net for all other concerns. Please include the suspected domain name and any other information you think may be helpful. Thank you very much!  
+Please e-mail [\[email protected\]](https://www.spryservers.net/cdn-cgi/l/email-protection) for spam issues or [\[email protected\]](https://www.spryservers.net/cdn-cgi/l/email-protection) for all other concerns. Please include the suspected domain name and any other information you think may be helpful. Thank you very much!  
   
   
   
