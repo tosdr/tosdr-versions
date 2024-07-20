@@ -15,7 +15,7 @@
 
 [Get a **demo**](https://go.recordedfuture.com/demo?utm_campaign=demo-button-2023-top-nav-bar&utm_source=recordedfuture&utm_medium=website&utm_content=20231003&utm_term=website)
 
-[Book a **demo**](https://go.recordedfuture.com/demo?utm_campaign=demo-button-2023-top-nav-bar&utm_source=recordedfuture&utm_medium=website&utm_content=20231003&utm_term=website)
+[Book a **free** demo](https://go.recordedfuture.com/demo?utm_campaign=demo-button-2023-top-nav-bar&utm_source=recordedfuture&utm_medium=website&utm_content=20231003&utm_term=website)
 
 Cookies
 =======
