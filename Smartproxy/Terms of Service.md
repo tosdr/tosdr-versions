@@ -23,11 +23,11 @@
 * Languages
     
 
-[Book demo call](https://smartproxy.com/legal/license-agreement/#contact-sales)[Log in](https://dashboard.smartproxy.com/login)[Create account](https://dashboard.smartproxy.com/register)
+[Enterprise inquiries](#contact-sales)[Log in](https://dashboard.smartproxy.com/login)[Create account](https://dashboard.smartproxy.com/register)
 
 * [Create account](https://dashboard.smartproxy.com/register)
 * [Log in](https://dashboard.smartproxy.com/login)
-* [Book demo call](https://smartproxy.com/legal/license-agreement/#contact-sales)
+* [Enterprise inquiries](#contact-sales)
 
 [](https://trustpilot.com/review/smartproxy.com)
 
@@ -49,16 +49,13 @@ Please read the terms and conditions of this License Agreement carefully before 
 Smartproxy license agreement
 ----------------------------
 
-**This Smartproxy License Agreement was last updated on March 28th, 2023**.
+**This Smartproxy License Agreement was last updated on July 10th, 2024**.
 
 Please see the information below for a short overview of the changes made from the last version:
 
-* Expanded the System definition to include our solutions (e.g. [No-Code Scraper extension](https://smartproxy.com/scraping/no-code));
-* Added wording, stating that you may agree with the terms of this Agreement by starting to use the services in any way (for our Free Trial customers);
-* Slightly amended the Warranty Disclaimer description;
-* Other cosmetic changes.
+* Updated Smartproxy’s company information.
 
-The multiple IP address proxy infrastructure solution, providing multiple IP addresses for the user to connect to the internet or access to our data gathering and proxy management solutions (all together - part of the “System”) is owned and maintained by Smartproxy and its affiliated companies (hereinafter – „ Smartproxy“, „we“, “our” or “us”). The System is intended for research, personal and commercial use and only for the lawful and legitimate purposes, as defined in this License Agreement and any applicable laws. This License Agreement (this “Agreement”) applies to all versions of the System, as well as any separate functionality and derivatives thereof. By clicking “Register” and registering to our System or by starting to use the System in any other way (e.g. via Free Trial), you the user, confirm that you have read this Agreement and that you enter into legally binding Agreement with Smartproxy, as well as you agree to be bound by this Agreement, terms of additional support services agreement (see separately, as applicable). The current version of this Agreement may be found at the Smartproxy website (smartproxy.com/license-agreement). Use of the System constitutes your agreement to be unconditionally and without restrictions bound by the terms and conditions of this Agreement. If you do not agree to be bound by the terms and conditions of this Agreement, you must not use or must immediately end your use of the System, or must uninstall any software that was provided as part of the System. Unless explicitly stated otherwise, any new features or functionality that augment or enhance the System shall be subject to this Agreement. If you are using the System on behalf of an organization, you are agreeing to this Agreement for that organization and acknowledging that you have the authority to act on behalf of that organization, and commit to this Agreement on behalf of that organization.  
+The multiple IP address proxy infrastructure solution, providing multiple IP addresses for the user to connect to the internet or access to our data gathering and proxy management solutions (all together - part of the “System”) is owned and maintained by UAB “Data troops”, legal entity code: 305893779, registered address: Antakalnio str. 17, Vilnius, Lithuania and its affiliated companies (hereinafter – „ Smartproxy“, „we“, “our” or “us”). The System is intended for research, personal and commercial use and only for the lawful and legitimate purposes, as defined in this License Agreement and any applicable laws. This License Agreement (this “Agreement”) applies to all versions of the System, as well as any separate functionality and derivatives thereof. By clicking “Register” and registering to our System or by starting to use the System in any other way (e.g. via Free Trial), you the user, confirm that you have read this Agreement and that you enter into legally binding Agreement with Smartproxy, as well as you agree to be bound by this Agreement, terms of additional support services agreement (see separately, as applicable). The current version of this Agreement may be found at the Smartproxy website (smartproxy.com/license-agreement). Use of the System constitutes your agreement to be unconditionally and without restrictions bound by the terms and conditions of this Agreement. If you do not agree to be bound by the terms and conditions of this Agreement, you must not use or must immediately end your use of the System, or must uninstall any software that was provided as part of the System. Unless explicitly stated otherwise, any new features or functionality that augment or enhance the System shall be subject to this Agreement. If you are using the System on behalf of an organization, you are agreeing to this Agreement for that organization and acknowledging that you have the authority to act on behalf of that organization, and commit to this Agreement on behalf of that organization.  
 
 Limited License Grant
 ---------------------
@@ -142,7 +139,7 @@ Get in touch
 
 Follow us
 
-[](https://www.youtube.com/smartproxy)[](https://www.reddit.com/r/Smartproxy/)[](https://github.com/Smartproxy)[](https://www.linkedin.com/company/smartproxy/)[](https://discord.gg/gvJhWJPaB4)
+[](https://www.youtube.com/smartproxy)[](https://github.com/Smartproxy)[](https://www.linkedin.com/company/smartproxy/)[](https://discord.gg/gvJhWJPaB4)
 
 Company
 
@@ -154,12 +151,14 @@ Company
 * [License agreement](https://smartproxy.com/legal/license-agreement)
 * [Affiliate program](https://smartproxy.com/proxy-affiliate-program)
 * [Referral program](https://smartproxy.com/deals/referral-program)
-* [Ethical sourcing & usage](https://smartproxy.com/lp/ethical-residential-proxy-sourcing-and-usage)
+* [Ethical sourcing & usage](https://smartproxy.com/proxies/ethical-residential-proxy-sourcing-and-usage)
 
 Products
 
 * [Proxies](https://smartproxy.com/proxies)
 * [Scrapers](https://smartproxy.com/scraping)
+* [Site Unblocker](https://smartproxy.com/proxies/site-unblocker)
+* [Free tools](https://smartproxy.com/apps)
 
 General
 
@@ -167,6 +166,7 @@ General
 * [Billing](https://smartproxy.com/faq/billing)
 * [Getting started](https://smartproxy.com/faq/getting-started)
 * [Documentation](https://help.smartproxy.com/docs)
+* [Blog](https://smartproxy.com/blog)
 * [Glossary](https://smartproxy.com/glossary)
 
 © 2018-2024 smartproxy.com, All Rights Reserved
