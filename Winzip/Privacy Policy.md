@@ -43,13 +43,13 @@ Even if you are only a visitor on one of our Sites, your computer or device auto
 
 * date and time of the visit and the duration of use of the Site;
 * the IP address of your device as well as your internet service provider (ISP);
-* the broad geographical location of your device: i.e., country, city and (where applicable) state
+* the broad geographical location of your device: i.e., country, city and (where applicable) state;
 * the referral/exit URL;
-* the visited subsites of the Site;
+* the visited subsites of the Site and usage events;
 * information about your device (type of device, browser type and version, as well as settings, installed plug-ins, operating system)
 * your preferred language
 
-We process Website Usage Data to allow you to surf the Site and to ensure its functionality. We also process Website Usage Data to perform analyses on the performance of the Site, to continuously improve the Site and correct errors, to ensure IT security and operation of our systems, as well as to prevent or uncover abuse. We further process this data in aggregated or pseudonymized form to analyze trends, administer the Sites, track users’ movements around the Site, and to gather demographic information about our user base as a whole or to improve marketing (including serving you personalized, interest-based ads through targeted advertising) as well as the user experience on our Site and guaranteeing the safety of our IT systems. Website Usage Data is processed based on your consent, unless such data is deemed necessary for the functioning of our Sites.
+We process Website Usage Data to allow you to surf the Site and to ensure its functionality. We also process Website Usage Data to perform analyses on the performance of the Site, to continuously improve the Site and correct errors, to ensure IT security and operation of our systems, as well as to prevent or uncover abuse. We further process this data in aggregated or pseudonymized form to analyze trends, administer the Sites, track users’ movements around the Site, and to gather demographic information about our user base as a whole or to improve marketing (including serving you personalized, interest-based ads through targeted advertising) as well as the user experience on our Site and guaranteeing the safety of our IT systems. Website Usage Data is processed based on your consent, unless such data is deemed necessary for the functioning of our Sites. We may process your IP address to section/group visitors and test different versions of our Sites based on legitimate interest, i.e. to better understand how our Sites are being used and perceived.
 
 To process Website Usage Data, we use cookies and similar technologies. Click [here](https://www.winzip.com/en/legal/cookies/) to review our Cookie Notice. In addition, you are always able to review and update your cookies settings by clicking the “Manage My Cookies” link available at the bottom of our Sites.
 
@@ -193,17 +193,16 @@ The data controller is one of the affiliated entities of the Alludo Group as fol
 | Alludo Sites | Cascade Parent Limited trading as Alludo | 13th Floor, One Angel Court, London, EC2R 7HJ United Kingdom. Our main establishment in the EU is Corel GmbH, Siemensstraße 30, 63755 Alzenau, Germany |
 | Parallels Branded Products and Parallels Sites | Parallels International GmbH | Vordergasse 59 8200 Schaffhausen, CH. Our main establishment in the EU is Corel GmbH, Siemensstraße 30, 63755 Alzenau, Germany |
 | Products other than Parallels Branded Products and Corel Sites | Corel Corporation | 333 Preston Street Suite 700 Ottawa, ON K1S 5N4. Our main establishment in the EU is Corel GmbH, Siemensstra |
-| Awingu Branded Products and Awingu Sites | Awingu N.V. | Ottergemstesteenweg-Zuid 808 box 44, 9000 Ghent Belgium |
 
 ### 6\. Information for European Residents:
 
 You are not legally required to provide Alludo with the Personal Data described in this Privacy Statement. Further, the contractual relationship that you might have entered into with us by purchasing our Products does not imply any obligation to provide your Personal Data. However, you might not be able to use our Products to the full extent, or in some cases you may not be able to use our Products at all, if you do not provide us with certain data or object to the use of this data.
 
-The [U.S.-based companies of Alludo](https://www.winzip.com/en/legal/affiliated-companies/) - Corel Inc., Ad Remover, Parallels Inc., and WinZip Computing LLC - commit to the principles outlined in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union and European Economic Area member countries, the United Kingdom and Switzerland. We have certified with the Department of Commerce that we adhere to the Data Privacy Framework Principles. 
+The [U.S.-based companies of Alludo](https://www.winzip.com/en/legal/affiliated-companies/) - Corel Inc., Parallels Inc., and WinZip Computing LLC - commit to the principles outlined in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union and European Economic Area member countries, the United Kingdom and Switzerland. We have certified with the Department of Commerce that we adhere to the Data Privacy Framework Principles. 
 
 We sometimes provide Personal Data to third parties to perform services on our behalf. If we transfer Personal Data subject to the Data Privacy Framework to a third party, we will remain liable under the Data Privacy Framework for act or omission of the third party in regards to the Data Privacy Framework unless we can prove we are not responsible for the event giving rise to the damage.
 
-The Federal Trade Commission has jurisdiction over the compliance of Corel Inc., Ad Remover, Parallels Inc., and WinZip Computing LLC’s with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+The Federal Trade Commission has jurisdiction over the compliance of Corel Inc., Parallels Inc., and WinZip Computing LLC’s with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
 
 To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [here](https://www.dataprivacyframework.gov/). If there is any conflict between the terms in this Privacy Statement and the EU-U.S. DPF, the UK Extension of the EU-U.S. DPF, and/or the Swiss-U.S. DPF, the Data Privacy Framework Principles shall govern.    
 
@@ -338,15 +337,19 @@ The use of information received from Google APIs adheres to the [Chrome Web Stor
 * Authentication Information - When you purchase an Ad Remover subscription, we provide you with a license key. This key is used to authenticate your paid subscription.
 * All data collected is only used to provide Ad Remover service.
 
-### 11\. Collecting Information from Children
+### 11\. YouTube Uploads
+
+Certain video editing Products offer users the ability to upload user videos onto YouTube. To facilitate this, Alludo utilizes YouTube API Services. Use of this feature by users is subject to the YouTube [Terms of Service](https://www.youtube.com/t/terms) and the [Google Privacy Policy](https://policies.google.com/privacy).
+
+### 12\. Collecting Information from Children
 
 Alludo’s Sites and Products are not intended for use by children under the age of 18 and we do not intentionally collect any information from users under the age of 18. If a parent or guardian becomes aware that their child has provided Alludo with Personal Data or that we have otherwise inadvertently collected this information, contact us at [privacy@alludo.com](mailto:privacy@alludo.com), so that we may delete the information from our servers.
 
-### 12\. Changes
+### 13\. Changes
 
 Except to the extent limited by applicable law, Alludo reserves the right to change this Privacy Statement to reflect changes in the law, our data handling practices, or the features of our business. We will provide notification of changes to this Privacy Statement by prominently posting notice through our Sites. Changes to our Privacy Statement will be effective when posted and the new effective date will be identified.
 
-### 13\. Contact Information
+### 14\. Contact Information
 
 To exercise your rights regarding Personal Data (as described above in this Privacy Statement), or if you have any questions about this Privacy Statement or our privacy practices, please contact us at [privacy@alludo.com](mailto:privacy@alludo.com) or submit a request via our intake [form](https://www.winzip.com/en/legal/privacy/form/).
 
@@ -354,7 +357,7 @@ To exercise your rights regarding Personal Data (as described above in this Priv
 
 We strongly encourage you to use the form at the link, to ensure the most efficient handling of your submission. Please do not use this form to report technical problems or to raise other issues that are not directly related to data privacy or this Privacy Statement.
 
-Last Updated: March 1, 2024
+Last Updated: June 2024
 
 * [](https://twitter.com/helloalludo "Alludo Twitter")
 * [Facebook](http://www.facebook.com/helloalludo "Alludo Facebook")
