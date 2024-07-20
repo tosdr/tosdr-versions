@@ -1,5 +1,3 @@
-Select LanguageArabicChinese (Simplified)DutchEnglishFrenchGermanItalianPortugueseRussianSpanish
-
 Powered By Google Translate
 
 [![The Arc](/wp-content/uploads/2019/07/ArcLogo_Color_Rev_PNG_WEB.png)](https://thearc.org/)
@@ -10,7 +8,6 @@ MENUMENU
 
 * [](#)
     * * *  
-                
 * [POLICY & ADVOCACY](https://thearc.org/policy-advocacy/)
     * * * #### Policy & Advocacy
                 
@@ -100,7 +97,7 @@ MENUMENU
 * [](#)
     * * * [Chapter Portal](https://chapters.thearc.org/)[Find a Chapter](https://thearc.org/find-a-chapter/)[Join](https://thearc.org/get-involved/join-arc/)[Blog](https://thearc.org/about-us/blog/)[Store](https://www.bonfire.com/store/the-arc/)
                 
-* [**Menu**](#)
+* [**Menu** Menu](#)
 
 [Chapter Portal](https://chapters.thearc.org/?_ga=2.85524314.291939772.1564979567-2139456288.1562699042)[Find a Chapter](https://thearc.org/find-a-chapter/)[Join](https://thearc.org/get-involved/join-arc/)[Blog](https://thearc.org/about-us/blog/)[Store](https://www.bonfire.com/store/the-arc/)[DONATE](https://donate.thearc.org/give/169425/#!/donation/checkout)[Search](https://thearc.org/accessibility-statement/?s=)
 
@@ -201,6 +198,10 @@ Copyright © 2023 by The Arc, a 501(c)(3) organization|[Terms of Service](https:
 The Arc and The Arc’s chapters are each separate and distinct 501(C)(3) organizations, each with their own staff and board of directors. The Arc does not have any authority or oversight over chapter activities or any involvement in the daily operations of chapters. The information about chapter providers and services contained on this website does not constitute endorsement or recommendation by The Arc. It is your responsibility to verify and investigate providers and services. The Arc assumes no liability of any kind for the content of any information transmitted to or received by any person in connection with the person’s use of the website. References on this website to any specific products, process, information, service, or organization do not constitute endorsement or recommendation by The Arc.
 
 [Scroll to top](#top "Scroll to top")
+
+[![](https://thearc.org/wp-content/uploads/2024/07/23-116.08-Disability-Pride-Month-Website-Pop-Up.png)](https://donate.thearc.org/give/502095/#!/donation/checkout?c_src=pop)
+
+×
 
 ![](https://thearc.org/wp-content/uploads/2020/07/Popup-image-top.jpg)
 
