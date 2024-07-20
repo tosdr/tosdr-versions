@@ -31,7 +31,7 @@ Resources
 * [Affiliates](https://rss.com/affiliates/)
 * [Blog](https://rss.com/blog/)
 * [Press](https://rss.com/press/)
-* [MediaKit](https://mediakit.rss.com/)
+* [Media Kit](https://mediakit.rss.com/)
 * [Support](https://help.rss.com/en/support/home)
 
 Features
