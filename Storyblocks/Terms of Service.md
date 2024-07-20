@@ -56,21 +56,15 @@ Blockbuster After Effects Templates
 
 Creative Tools
 
-[![Adobe Creative Cloud Plugin](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/icons/adobe-cc-logo-monochrome.svg)
-
-Adobe Creative Cloud Plugin
+[Adobe Creative Cloud Plugin
 
 Produce videos faster with unlimited access to our library, directly in Premiere Pro and After Effects.](https://www.storyblocks.com/adobe-creative-cloud-plugin)
 
-[![Maker](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/icons/maker-black.svg)
-
-Maker
+[Maker
 
 Create videos easily with our online editing tool, integrated with the Storyblocks library.](https://www.storyblocks.com/maker)
 
-[![Maker For Teams](https://d3g7htsbjjywiv.cloudfront.net/assets/common/images/icons/maker-teams.svg)
-
-Maker For Teams
+[Maker For Teams
 
 Exclusive features for businesses to get to market faster with brands, templates, and shared projects.](https://www.storyblocks.com/maker-for-teams)
 
