@@ -1,4 +1,4 @@
-[SnapTik](https://snaptik.app/ "TikTok Downloader") [Install App](https://play.google.com/store/apps/details?id=com.snaptik.app.snaptik.snaptick10)
+[SnapTik](https://snaptik.app/ "TikTok Downloader") [Install App](https://play.google.com/store/apps/details?id=com.snaptik.app.snaptik.snaptick10&referrer=web_install)
 
 Languages
 
