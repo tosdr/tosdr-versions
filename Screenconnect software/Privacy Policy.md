@@ -21,7 +21,7 @@ Close Search Modal
 
  Close Search Bar Search
 
-[Try For Free](https://www.connectwise.com/trials)
+[**Try For Free**](https://www.connectwise.com/trials?ref=headerCTA)
 
 * Business Management
     
@@ -333,9 +333,9 @@ Insights and strategies to help your business](https://itnationpodcast.podbean.c
 
 Regional MSP industry conference](https://www.connectwise.com/theitnation/connect-emea?ref=header-www "IT Nation London")
 
-[IT Nation Asia
+[IT Nation Sydney
 
-Regional MSP industry conference](https://www.connectwise.com/theitnation/apac?ref=header "IT Nation Australia")
+APAC MSP Industry Conference](https://www.connectwise.com/theitnation/apac?ref=header "IT Nation Australia")
 
 [Automation Nation
 
@@ -1002,6 +1002,7 @@ For Partners
 * [Partner Services](https://www.connectwise.com/company/partner-services?ref=footer)
 * [Partner Communications](https://www.connectwise.com/company/partner-communications?ref=footer)
 * [Partner Referral](https://www.connectwise.com/company/partner-referral?ref=footer)
+* [Partner Program](https://www.connectwise.com/partner-program?ref=footer)
 
 Resources
 
