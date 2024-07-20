@@ -68,8 +68,8 @@
 * [Reports](https://www.vpnranks.com/reports/)
     * [89% of VPNs Fall Short in User Satisfaction](https://www.vpnranks.com/reports/89-percent-of-vpns-fall-short-in-user-satisfaction-vpnscore-report/)
 * Events
-    * [T20 World Cup 2024](https://www.vpnranks.com/access/sports/watch-t20-world-cup-2024-in-usa/)
-    * [Euro 2024](https://www.vpnranks.com/access/sports/watch-euro-in-usa-on-bbc-iplayer/)
+    * [UEFA Champions League 2024-2025](https://www.vpnranks.com/access/channels/paramount-plus/watch-uefa-champions-league-outside-usa/)
+    * [Big Brother Season 26](https://www.vpnranks.com/access/shows/watch-big-brother-season-26-outside-usa-on-cbs/)
 * [News](https://www.vpnranks.com/news/)
 * [About us](https://www.vpnranks.com/about-us/)
 * [Meet the Experts](https://www.vpnranks.com/meet-the-team/)
@@ -392,11 +392,11 @@ VPNRanks, 2810 Crossroads Dr #4000, Madison, WI 53718 USA
 
 © Copyright 2024 | All Rights Reserved.
 
-* [](https://www.youtube.com/channel/UC3-NWwCrYqRciFHVmHZTp5w "Youtube")
+* [](https://www.youtube.com/@vpnranksofficial "Youtube")
 * [](https://www.tiktok.com/@vpnranks "TikTok")
-* [](https://twitter.com/VPNRanks "Twitter")
+* [](https://x.com/VPNRanks "Twitter")
 * [](https://www.facebook.com/vpnranks/ "Facebook")
-* [](https://www.instagram.com/vpnranks?igsh=MWo1bWowdTA3azQ5cg== "Instagram")
+* [](https://www.instagram.com/vpnranks/ "Instagram")
 
 Back To Top
 
