@@ -16,7 +16,7 @@ Spry Servers, LLC
 Ste 103-469  
 Phoenix, AZ 85027  
   
-**They may be e-mailed to:** dmca@spryservers.net.  
+**They may be e-mailed to:** [\[email protected\]](https://www.spryservers.net/cdn-cgi/l/email-protection).  
   
 
 #### **Requirements for takedown:**
