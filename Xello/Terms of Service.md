@@ -56,7 +56,6 @@ This field is for validation purposes and should be left unchanged.
     
     * [Elementary School](https://xello.world/en/elementary/)
     * [Middle & High School](https://xello.world/en/middle-and-high-school/)
-    * [Communities](https://xello.world/en/communities/)
     * [Educator Tools](https://xello.world/en/educator/)
     * [Features Gallery](https://xello.world/en/features-gallery/)
     * [Take a Tour](https://xello.world/en/product-tour/)
@@ -234,7 +233,6 @@ If you are located in the United States or Canada and you would would like to co
 * [How it Works](#)
     * [Elementary](https://xello.world/en/elementary/)
     * [Middle & High School](https://xello.world/en/middle-and-high-school/)
-    * [Communities](https://xello.world/en/communities/)
     * [K-12 Educator Tools](https://xello.world/en/educator/)
     * [Features Gallery](https://xello.world/en/features-gallery/)
     * [Product Tour](https://xello.world/en/product-tour/)
