@@ -37,7 +37,6 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
         
     * [Design](https://www.artspace.com/collections/designed-living)
         
-        * [Spring Refresh](https://www.artspace.com/tags/spring-refresh-new-arrivals/)
         * [Julian Opie Collection](https://www.artspace.com/tags/julian-opie-collection)
         * [Shop All Designs](https://www.artspace.com/designstore?page=1)
         
@@ -72,7 +71,6 @@ GET 10% OFF YOUR FIRST ORDER](https://www.artspace.com/account_creation)
     
 * [Design](https://www.artspace.com/collections/designed-living)
     
-    * [Spring Refresh](https://www.artspace.com/tags/spring-refresh-new-arrivals/)
     * [Julian Opie Collection](https://www.artspace.com/tags/julian-opie-collection)
     * [Shop All Designs](https://www.artspace.com/designstore?page=1)
     
