@@ -65,7 +65,7 @@ Back
     
     Products
     
-    Unified Endpoint Management
+    Business Devices Management
     
     [Knox Suite](https://www2.samsungknox.com/en/solutions/knox-suite)
     
@@ -194,13 +194,13 @@ Back
             [Find a partner](https://www2.samsungknox.com/en/resellers)
     *  ![[Icon] Sign In Icon](/images/user.svg) Sign in
         * [Samsung Account](https://www2.samsungknox.com/en/sso/login/samsung)
-        * [SSO](https://www2.samsungknox.com/en/sso/login/sso)
+        * [Microsoft Entra ID, Okta or Ping Identity](https://www2.samsungknox.com/en/federated-id/login)
         * Samsung Account
             
             [Sign in](https://www2.samsungknox.com/en/sso/login/samsung)
-        * SSO (Single Sign-On)
+        * Microsoft Entra ID, Okta or Ping Identity
             
-            [SSO Sign In](https://www2.samsungknox.com/en/sso/login/sso)
+            [Sign In](https://www2.samsungknox.com/en/federated-id/login)
     * [Knox Admin Portal](https://www2.samsungknox.com/en/dashboard)
     * [Sign out](https://www2.samsungknox.com/en/sso/logout)
 
@@ -678,7 +678,7 @@ Select Location / Language
     
 * Products
     
-    * Unified Endpoint Management
+    * Business devices management
     * [Knox Suite](https://www2.samsungknox.com/en/solutions/knox-suite)
     * [Knox Platform for Enterprise](https://www2.samsungknox.com/en/solutions/it-solutions/knox-platform-for-enterprise)
     * [Knox Mobile Enrollment](https://www2.samsungknox.com/en/solutions/it-solutions/knox-mobile-enrollment)
