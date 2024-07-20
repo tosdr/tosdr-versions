@@ -90,9 +90,9 @@
     * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing.
+    * [Secure business funding.
         
-        Shopify Lending](https://www.shopify.com/lending)
+        Shopify Capital](https://www.shopify.com/capital)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
@@ -170,7 +170,7 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition.
+    * [Summer ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
     * [All Editions.
@@ -278,9 +278,9 @@
     * [Get paid faster.
         
         Shopify Balance](https://www.shopify.com/balance)
-    * [Secure business financing.
+    * [Secure business funding.
         
-        Shopify Lending](https://www.shopify.com/lending)
+        Shopify Capital](https://www.shopify.com/capital)
     * [Automate your business.
         
         Shopify Flow](https://www.shopify.com/flow)
@@ -357,7 +357,7 @@
     * [Changelog.
         
         Your source for recent updates](https://changelog.shopify.com/)
-    * [Winter ’24 Edition.
+    * [Summer ’24 Edition.
         
         The latest 100+ product updates](https://www.shopify.com/editions/winter2024)
     * [All Editions.
@@ -503,8 +503,6 @@ Appendix 1: Details of Processing
 
 **Duration of processing**: The term of this Addendum plus the period from the end of the term until deletion of all Customer Personal Data by Shopify in accordance with its obligations under this Addendum.
 
-Opens an external site in a new window
-
 Shopify logo
 
 Shopify
@@ -525,6 +523,7 @@ Support
 * [Merchant support](https://help.shopify.com/en/questions)
 * [Help center](https://help.shopify.com/en/)
 * [Hire a Partner](https://www.shopify.com/partners/directory)
+* [Shopify Academy](https://academy.shopify.com/?itcat=brochure&itterm=global-footer)
 * [Shopify Community](https://community.shopify.com/c/Shopify-Community/ct-p/en?utm_campaign=footer&utm_content=en&utm_medium=web&utm_source=shopify)
 * [Shopify Events](https://community.shopify.com/c/Shopify-Community/ct-p/en/home?utm_campaign=homepage&utm_content=en&utm_medium=web&utm_source=shopify)
 
@@ -631,10 +630,10 @@ USA
 * [Sitemap](https://www.shopify.com/sitemap)
 * [Privacy Choices](https://privacy.shopify.com/en)
 
-* [Facebook](https://www.facebook.com/shopify)
-* [Twitter](https://twitter.com/shopify)
-* [YouTube](https://www.youtube.com/user/shopify)
-* [Instagram](https://www.instagram.com/shopify/)
-* [TikTok](https://www.tiktok.com/@shopify)
-* [LinkedIn](https://www.linkedin.com/company/shopify)
-* [Pinterest](https://www.pinterest.com/shopify/)
+* [](https://www.facebook.com/shopify)
+* [](https://twitter.com/shopify)
+* [](https://www.youtube.com/user/shopify)
+* [](https://www.instagram.com/shopify/)
+* [](https://www.tiktok.com/@shopify)
+* [](https://www.linkedin.com/company/shopify)
+* [](https://www.pinterest.com/shopify/)
