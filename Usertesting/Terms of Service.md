@@ -226,7 +226,6 @@ Footer Menu (2022)
 
 * UserTesting
     * [Login](https://app.usertesting.com/users/sign_in)
-    * [Contact us](https://www.usertesting.com/contact-us)
     * [1 (888) 877‒1882](tel://1-888-877-1882)
     * Social Channels
         
@@ -247,7 +246,6 @@ Footer Menu (2022)
     * [UX teams](https://www.usertesting.com/solutions/teams/UX-teams)
     * Capabilities
         * [Integrations and plugins](https://www.usertesting.com/solutions/integrations)
-        * [Mobile testing](https://www.usertesting.com/solutions/mobile-testing)
         * [Pro services](https://www.usertesting.com/solutions/pro-services)
 * Platform
     * Platform overview
@@ -257,7 +255,6 @@ Footer Menu (2022)
     * [Services](https://www.usertesting.com/solutions/pro-services)
     * [Intellizoom](https://www.intellizoom.com/)
     * Getting started
-        * [UserTesting Platform plans](https://www.usertesting.com/plans)
         * [UserZoom Platform plans](https://www.usertesting.com/platform/userzoom/plans)
         * [EnjoyHQ plans](https://www.usertesting.com/platform/enjoyhq/plans)
 * Company
@@ -281,7 +278,6 @@ Footer Menu (2022)
     * [Events](https://www.usertesting.com/resources/library/events)
     * [Human insight](https://www.usertesting.com/human-insight)
     * [Industry reports](https://www.usertesting.com/resources/library/industry-reports)
-    * [Webinars](https://www.usertesting.com/resources/library/webinars)
     * Additional resources and information
         * [UserTesting CommUnity](https://community.usertesting.com/users/sign_in)
         * [UserTesting University](https://www.usertesting.com/learn)
