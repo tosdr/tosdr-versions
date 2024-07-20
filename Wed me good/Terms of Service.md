@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Sanjita and Vivek](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Anumita and Samuel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Sanjita and Vivek](https://image.wedmegood.com/resized/250X/uploads/images/03013695ccf544ea8b83eb9cf7a93c09realwedding/_RAH1186-Edit.jpg?crop=190,204,808,455)
+![Anumita and Samuel](https://image.wedmegood.com/resized/250X/uploads/images/5ff38c8f848441caa557e89cb94d3db0realwedding/Anu&Sam_ParthGarg-06765.jpg?crop=360,1241,1633,918)
 
-Sanjita and Vivek (Goa)](https://www.wedmegood.com/real_wedding/detail/sanjita-and-vivek-goa-cross-culture-wedding-4316)
+Anumita and Samuel (Jaipur)](https://www.wedmegood.com/real_wedding/detail/anumita-and-samuel-jaipur-cross-culture-wedding-4340)
 
-[![Devika and Sanjeet](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Rahul and Shally](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Devika and Sanjeet](https://image.wedmegood.com/resized/250X/uploads/images/b75e0b9da19f42bb8e350e9e071619e4realwedding/0D7A5882copy.jpg?crop=258,418,1626,914)
+![Rahul and Shally](https://image.wedmegood.com/resized/250X/uploads/images/f150095d088f437b8f5ded94dcd1b645realwedding/WN_SR_06_Wedding_295.jpg?crop=227,350,1626,915)
 
-Devika and Sanjeet (Udaipur)](https://www.wedmegood.com/real_wedding/detail/devika-and-sanjeet-udaipur-punjabi-sikh-wedding-4315)
+Rahul and Shally (Udaipur)](https://www.wedmegood.com/real_wedding/detail/rahul-and-shally-udaipur-cross-culture-wedding-4339)
 
 Browse by Category
 
@@ -190,7 +190,7 @@ Popular Sections
 
 Most Searched Blogs
 
-[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[2023 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2023-auspicious-hindu-wedding-dates/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)
+[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)[2025 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2025-auspicious-hindu-wedding-dates/)
 
 Top Blogs
 
