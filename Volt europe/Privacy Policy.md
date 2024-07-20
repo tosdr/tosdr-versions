@@ -2,8 +2,6 @@ Volt Europa
 
 [](https://volteuropa.org/)
 
-[European Election 2024](https://www.volteuropa.org/european-election-2024)
-
 Menu
 
 Close
@@ -32,9 +30,7 @@ News
 
 [Events](https://volteuropa.org/events)
 
-[Open positions at Volt Europa](https://www.volteuropa.org/vacancies) [Get involved](https://www.volteuropa.org/get-involved) [Volt in the News](https://www.volteuropa.org/volt-in-the-news)
-
-[European Election 2024](https://www.volteuropa.org/european-election-2024)
+[Open positions at Volt Europa](https://www.volteuropa.org/vacancies) [Get involved](https://www.volteuropa.org/get-involved) [Volt in the News](https://www.volteuropa.org/volt-in-the-news) [European Election 2024](https://www.volteuropa.org/european-election-2024)
 
 [Legal](https://www.volteuropa.org/legal) [Privacy](https://www.volteuropa.org/privacy) [Transparency](https://www.volteuropa.org/transparency)
 
@@ -58,35 +54,27 @@ Back[![The newly elected board of Volt Europa gives a speech in front of members
 
 European Board](https://www.volteuropa.org/people/peoplegroup-eur-board)[![](/img/containers/assets/images/people_images/5-meps-volt-damian-kai-nela-reinier-anna.jpg/96fb70f8749f59c19c82dcbf385f5664.jpg)
 
-Members of the European Parliament](https://www.volteuropa.org/people/members-eu-parliament)[![](/img/containers/assets/images/delegates_images/volt_person.jpg/068e6dc65972b46599aa42ccf96fea33.jpg)
+Members of the European Parliament](https://www.volteuropa.org/people/members-eu-parliament)[![](/img/containers/assets/images/header_images/european-flags.jpg/07228a4d4797909a9e552e6b56238d8c.jpg)
 
-Delegates in National Parliaments](https://www.volteuropa.org/people/peoplegroup-national-parliament)[![](/img/containers/assets/images/volt-chapters-images/reichstag-berlin.jpg/c0edb26cfd487e3b8bf2db9fd4cf0ead.jpg)
+Delegates in National Parliaments](https://www.volteuropa.org/people/peoplegroup-national-parliament)[![](/img/containers/assets/images/header_images/parliament-saarland.jpg/f0774e06485a7d6206712344226e65a5.jpg)
 
-Regional & local delegates in Germany](https://www.volteuropa.org/people/peoplegroup-delegates-germany)[![](/img/containers/assets/images/volt-chapters-images/parthenon-greece.jpg/b07d4d2ecd75458b4985811aedbc5d8a.jpg)
-
-Regional & local delegates in Greece](https://www.volteuropa.org/people/peoplegroup-delegates-greece)[![](/img/containers/assets/images/volt-chapters-images/rome-and-tiber-river.jpg/bc32c8b1c6ce9072da3ba1a3f529ae0d.jpg)
-
-Regional & local delegates in Italy](https://www.volteuropa.org/people/peoplegroup-delegates-italy)[![](/img/containers/assets/images/volt-chapters-images/coimbra-portugal.jpg/3aaa14a6fec217107e8073391a8e399e.jpg)
-
-Regional & local delegates in Portugal](https://www.volteuropa.org/people/peoplegroup-delegates-portugal)[![](/img/containers/assets/images/volt-chapters-images/parliament-netherlands.jpg/becad399ef5d4d1fbf3739cc944e9c29.jpg)
-
-Regional & local delegates in the Netherlands](https://www.volteuropa.org/people/peoplegroup-delegates-netherlands)
+Regional and local delegates](https://www.volteuropa.org/people/regional-local-delegates)
 
 [All people](https://volteuropa.org/people)
 
-Back[![](/img/containers/assets/images/policy_images/eu_parliament_plenary.png/31e1b62057a3f4f8fbead88f71126220.png)
+Back[![](/img/containers/assets/gq_djniwkaa2qu8.jpeg/41de6d03021cad5f423665738c01147a.jpeg)
+
+MEP Markéta Gregorová announces close cooperation with the 5 Member Volt delegation in the European Parliament 27 Jun 2024](https://volteuropa.org/news/mep-marketa-gregorova-announces-close-cooperation-with-the-5-member-volt-delegation-in-the-european-parliament)[![](/img/containers/assets/%28c%29.jpg/a00f0c74c64affd8d5a4961975e21c06.jpg)
+
+Snap Elections in France: Europe is on the Ballot 26 Jun 2024](https://volteuropa.org/news/snap-elections-in-france-europe-is-on-the-ballot)[![](/img/containers/assets/screenshot-2024-06-24-at-11.29.10.png/1357a6b5fc1409e02626a08d0151b2f8.png)
+
+Volt joins Greens/EFA in the European Parliament 24 Jun 2024](https://volteuropa.org/news/volt-joins-greens-efa-in-the-european-parliament)[![](/img/containers/assets/images/policy_images/eu_parliament_plenary.png/31e1b62057a3f4f8fbead88f71126220.png)
 
 Volt gets 5 pan-European MEPs elected 10 Jun 2024](https://volteuropa.org/news/volt-gets-5-pan-european-meps-elected)[![Young woman viewing screen and typing on mobile phone](/img/containers/assets/images/news_images/woman-with-mobile-phone-daria-nepriakhina-unsplash.jpg/4810787e388ca51db1986510622f4496.jpg)
 
 Chat control won’t protect children. Instead, it will erode our rights 5 Jun 2024](https://volteuropa.org/news/chat-control-wont-protect-children)[![](/img/containers/assets/images/news_images/girl-with-armenian-flag.png/23a71bdb26591edefc0681a7e1b3a661.png)
 
-Armenia: a country Europe should take seriously for what it promises 2 Jun 2024](https://volteuropa.org/news/armenia-a-country-europe-should-take-seriously-for-what-it-promises)[![](/img/containers/assets/images/news_images/demo-armenia.png/f241b33d670b1cb4c7f7704ba0eb9632.png)
-
-Armenia and the EU: two perspectives on why it matters 2 Jun 2024](https://volteuropa.org/news/armenia-and-the-eu-two-perspectives-on-why-it-matters)[![](/img/containers/assets/images/news_images/wall_with_flowers_for_ukrainian_war_victims.jpg/8a3fdbaf8aebe3e97fc9db45ce57b1bf.jpg)
-
-Ukraine’s Fight for the Future: The Urgent Need for More Consistent European Military Support 28 May 2024](https://volteuropa.org/news/ukraines-fight-for-future)[![](/img/containers/assets/images/news_images/court-of-justice-den-haag.jpg/99f848f28ce67fbef63d2556c49649fc.jpg)
-
-Upholding International Justice: The Imperative of Supporting the ICC and the ICJ in the Hamas-Israel War 25 May 2024](https://volteuropa.org/news/upholding-international-justice)
+Armenia: a country Europe should take seriously for what it promises 2 Jun 2024](https://volteuropa.org/news/armenia-a-country-europe-should-take-seriously-for-what-it-promises)
 
 [View more news](https://volteuropa.org/news)
 
@@ -263,7 +251,7 @@ General questions and feedback
 
 [\[email protected\]](https://www.volteuropa.org/cdn-cgi/l/email-protection)
 
-Press and media enquiries
+Press and media enquiries via Jacob Lippold
 
 [\[email protected\]](https://www.volteuropa.org/cdn-cgi/l/email-protection)
 
