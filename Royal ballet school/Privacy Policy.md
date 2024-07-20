@@ -28,7 +28,7 @@
 * [Auditions](https://www.royalballetschool.org.uk/train/apply/) Menu Toggle
     * [Our auditions](https://www.royalballetschool.org.uk/train/apply/)
     * [UK audition dates](https://www.royalballetschool.org.uk/train/apply/uk-auditions/)
-    * [International audition dates](https://www.royalballetschool.org.uk/train/apply/international-auditions/)
+    * [International video auditions](https://www.royalballetschool.org.uk/train/apply/international-auditions/)
     * [Audition Insight classes](https://www.royalballetschool.org.uk/participate/insight-days/audition-insight-day/)
 * [Participate](https://www.royalballetschool.org.uk/participate/) Menu Toggle
     * [Primary Steps on Demand](https://ondemand.royalballetschool.org.uk/primary-steps/)
@@ -213,7 +213,7 @@ Search for:
 * [Auditions](https://www.royalballetschool.org.uk/train/apply/) Menu Toggle
     * [Our auditions](https://www.royalballetschool.org.uk/train/apply/)
     * [UK audition dates](https://www.royalballetschool.org.uk/train/apply/uk-auditions/)
-    * [International audition dates](https://www.royalballetschool.org.uk/train/apply/international-auditions/)
+    * [International video auditions](https://www.royalballetschool.org.uk/train/apply/international-auditions/)
     * [Audition Insight classes](https://www.royalballetschool.org.uk/participate/insight-days/audition-insight-day/)
 * [Participate](https://www.royalballetschool.org.uk/participate/) Menu Toggle
     * [Primary Steps on Demand](https://ondemand.royalballetschool.org.uk/primary-steps/)
@@ -261,7 +261,7 @@ Search for:
 * [Auditions](https://www.royalballetschool.org.uk/train/apply/) Menu Toggle
     * [Our auditions](https://www.royalballetschool.org.uk/train/apply/)
     * [UK audition dates](https://www.royalballetschool.org.uk/train/apply/uk-auditions/)
-    * [International audition dates](https://www.royalballetschool.org.uk/train/apply/international-auditions/)
+    * [International video auditions](https://www.royalballetschool.org.uk/train/apply/international-auditions/)
     * [Audition Insight classes](https://www.royalballetschool.org.uk/participate/insight-days/audition-insight-day/)
 * [Participate](https://www.royalballetschool.org.uk/participate/) Menu Toggle
     * [Primary Steps on Demand](https://ondemand.royalballetschool.org.uk/primary-steps/)
@@ -301,7 +301,7 @@ Quick Links
 * [Corporate partners](https://www.royalballetschool.org.uk/our-corporate-partners/)
 * [Accessibility](https://www.royalballetschool.org.uk/information/accessibility/)
 * [Community guidelines](https://www.royalballetschool.org.uk/discover/about-us/community-guidelines/)
-* [C.A.](https://www.royalballetschool.org.uk/wp-content/uploads/The-Royal-Ballet-School-Inspection-Certificate-Authority-2022.crt)
+* [C.A.](https://www.royalballetschool.org.uk/wp-content/uploads/The%20Royal%20Ballet%20School%20HTTPS%20Inspection%20Certificate%20Authority%202024.crt)
 * [Shop Terms and Conditions](https://www.royalballetschool.org.uk/information/shop-terms-and-conditions/)
 
 [](https://www.facebook.com/royal.ballet.school/)[](https://www.twitter.com/RoyalBalletSch)[](https://www.instagram.com/royalballetschool/)[](https://www.youtube.com/channel/UCdZfbbnQPy43SQtkykBCBVg)[](https://www.flickr.com/photos/royalballetschool/)[](https://www.tiktok.com/@royalballetsch)
