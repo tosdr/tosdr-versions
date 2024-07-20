@@ -200,6 +200,16 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [How the sixth-generation fighter jet will upend air warfare](https://www.defensenews.com/air/2024/07/19/how-the-sixth-generation-fighter-jet-will-upend-air-warfare/)  
+    07/19/24 01:44pm  
+    
+    The first prototype B-21 Raider stealth bomber conducts a flight test at Edwards Air Force Base in California on Jan. 17. Northrop Grumman, which builds the B-21, has touted it as the world's first sixth-generation aircraft — and more could be on the way as the Air Force works on its Next Generation Air Dominance program. (Air Force)
+    
+* [Drone warfare in Ukraine prompts fresh thinking in helicopter tactics](https://www.defensenews.com/global/europe/2024/07/19/drone-warfare-in-ukraine-prompts-fresh-thinking-in-helicopter-tactics/)  
+    07/19/24 09:13am  
+    
+    A Russian Ka-52 helicopter gunship is seen in the field after a forced landing outside Kyiv, Ukraine, on Feb. 24, 2022, the first day of Russia's full-scale invasion. (AP Photo/Efrem Lukatsky)
+    
 * [How the Swedish Air Force is finding its flow as part of NATO](https://www.defensenews.com/global/europe/2024/07/17/how-the-swedish-air-force-is-finding-its-flow-as-part-of-nato/)  
     07/17/24 12:37pm  
     
@@ -210,26 +220,16 @@ This document was last updated on January 1, 2014
     
     An Embraer C-390 Millennium military transport aircraft, used by Brazil's Air Force, is pictured at the Farnborough Airshow near London on July 19, 2022. (Photo by Justin Tallis/AFP via Getty Images)
     
-* [How Europe’s next-generation combat jet aims to catch the AI wave](https://www.defensenews.com/global/europe/2024/07/15/how-europes-next-generation-combat-jet-aims-to-catch-the-ai-wave/)  
-    07/15/24 03:19am  
-    
-    This photograph taken on June 18, 2023, shows a mock-up of the European Next Generation Fighter (NGF) for the Future Combat Air System (FCAS), under development by Dassault Aviation, Airbus and Indra Sistemas, during the International Paris Air Show at the Paris Le Bourget Airport. (Photo by Julien de Rosa/AFP via Getty Images)
-    
-* [Italy Air Force eyes new tanker competition after dropping Boeing buy](https://www.defensenews.com/global/europe/2024/07/12/italian-air-force-eyes-airbus-tankers-after-dropping-boeing-planes/)  
-    07/12/24 01:36pm  
-    
-    An Airbus A330 Multi Role Tanker Transport refuels an F-16D fighter from the Republic of Singapore Air Force. (Airbus)
-    
 
 Recent parts by keyword  
 
-* [342a-bf](https://aerobasegroup.com/search/?term=342a-bf)
-* [d947](https://aerobasegroup.com/search/?term=d947)
-* [mil-c-5544](https://aerobasegroup.com/search/?term=mil-c-5544)
-* [hc3213-4-10](https://aerobasegroup.com/search/?term=hc3213-4-10)
-* [nsn5-97-500-7722](https://aerobasegroup.com/search/?term=nsn+5975-00-772-2342)
-* [pg68-50-009-7507](https://aerobasegroup.com/search/?term=pg-6850-00-975-0712)
-* [nw000396](https://aerobasegroup.com/search/?term=nw000396)
+* [bf-150](https://aerobasegroup.com/search/?term=bf-150)
+* [level](https://aerobasegroup.com/search/?term=level)
+* [nas1351n5h20](https://aerobasegroup.com/search/?term=nas1351n5h20)
+* [btr](https://aerobasegroup.com/search/?term=btr)
+* [nas1305-15](https://aerobasegroup.com/search/?term=nas1305-15)
+* [ms17984c1429](https://aerobasegroup.com/search/?term=ms17984c1429)
+* [z5602a](https://aerobasegroup.com/search/?term=z5602a)
 
 The AeroBase Group Family ..
 
