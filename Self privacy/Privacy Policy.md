@@ -2,16 +2,9 @@
 
 * [Documentation](https://selfprivacy.org/docs/)
 * [Blog](https://selfprivacy.org/blog/)
-* [](#)
+* * [en](https://selfprivacy.org/privacy-policy/)
+    * [ru](https://selfprivacy.org/ru/privacy-policy/)
     
-    * [English](https://selfprivacy.org/privacy-policy/)
-    * [Русский](https://selfprivacy.org/ru/privacy-policy/)
-    
-
-[](#)
-
-* [English](https://selfprivacy.org/privacy-policy/)
-* [Русский](https://selfprivacy.org/ru/privacy-policy/)
 
 * [Privacy Policy](https://selfprivacy.org/privacy-policy/)
 
@@ -93,9 +86,7 @@ _We are pleased to offer this Privacy Policy under Creative Commons Zero license
 
 ![Licensed under CC0](/images/icons/cc-zero.svg)
 
-Last modified April 29, 2024: [fix: rename folder (c46e9bb)](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/commit/c46e9bb2ac4e022c62252b645ed6ed7327ef1bb9)
-
-[](https://selfprivacy.org/)
+Last modified: [April 29, 2024](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org/commit/c46e9bb2ac4e022c62252b645ed6ed7327ef1bb9)
 
 Learn more
 ----------
