@@ -124,6 +124,8 @@ Pronatura Main
 
 * [Biodiversité](https://www.pronatura.ch/fr/biodiversite)
     
+    * [3 raisons de voter OUI](https://www.pronatura.ch/fr/2024/trois-raisons-de-voter-oui-linitiative-biodiversite)
+    * [3 façons d’agir](https://www.pronatura.ch/fr/biodiversite/sauver-les-milieux-naturels)
     * [Questions et réponses](https://www.pronatura.ch/fr/la-biodiversite-en-suisse-questions-et-reponses)
     * [Découvrir les milieux naturels](https://www.pronatura.ch/fr/biotopes)
     
@@ -256,8 +258,6 @@ Services Google utilisés:
 **Google Analytics:** outil d’analyse qui nous fournit des statistiques sur les performances des pages et le comportement des utilisateur·trice·s, ainsi que des informations démographiques anonymes.
 
 **Google Fonts:** nous intégrons à nos sites les polices de caractères Google. Dans ce cadre, les données des utilisateur·trice·s servent uniquement à garantir que l’affichage et l’utilisation des polices de caractères dans le navigateur soient techniquement sûrs et ne nécessitent pas de maintenance.
-
-**Google Optimize:** sous-service de Google Analytics pour améliorer l’attractivité, le contenu et le fonctionnement de notre site internet.
 
 **Google Tag Manager:** solution qui nous permet de gérer les balises internet et ainsi inclure d’autres services dans notre offre en ligne. Le gestionnaire de balises ne crée pas de profils d’utilisateur·trice·s et ne stocke pas de cookies.
 
