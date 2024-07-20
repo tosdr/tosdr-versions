@@ -241,6 +241,8 @@ Learn more below about how and why we use your information (and our legal basis 
 | * Your gender | To allow us to analyse how the Unifrog Platform is used (for example by carrying out statistical analysis) | To enable us to pursue our legitimate interests to understand how the Unifrog Platform is used |
 | * Your name<br>* Your gender<br>* Year of leaving your School<br>* Your socioeconomic background or socioeconomic markers<br>* Name of your school or college<br>* Your activities<br>* Name of your school or college<br>* Your skills<br>* Your interactions<br>* Details of your education and academic performance<br>* Details of any further education and career opportunities which may be of interest to you<br>* Details you include in any other information you upload or submit<br>* Information about you from your activity on the Unifrog Platform (e.g. based on your use of certain tools) | To improve your (and your Teachers’) experience of the Unifrog Platform  <br>To make suggestions and recommendations to you about educational courses, open days, internships, apprenticeships, job opportunities and other similar services and opportunities offered by third parties (including universities, other educational establishments and employers) that may be available to you and/or interest you  <br>To enable us to share your details on the Unifrog Platform with your Teachers | To enable us to pursue our legitimate interests to:<br><br>* improve your and your Teachers’ experience of the Unifrog Platform;<br>* provide relevant suggestions and recommendations to you;<br>* allow you to interact with your Teachers |
 | * Details of any further education and employment you undertake (or have undertaken) | To enable your Teachers to see how you progress after you have left School and to compare this with Students at other schools | To enable your School to pursue its legitimate interests to allow Teachers to understand and compare how their Students progress after they have left school |
+| * Your name<br>* Your date of birth<br>* Your Unifrog username<br>* Your school leaving year, school name, school region and country<br>* Your interest in an employer, university or other educational establishment | To enable employers, universities and other educational establishments with whom you enrol to check whether you have interacted with them via Unifrog | To enable Unifrog, employers, universities and other educational establishments to pursue their legitimate interests to track the effectiveness of the Unifrog Platform |
+| * Your name<br>* Your date of birth<br>* Your Unifrog username<br>* Your email address<br>* Your school leaving year, school name, school region and country<br>* Your interest in an employer , university or other educational establishment | To enable employers, universities and other educational establishments to contact you with information about them, for example internships and bursaries. | Your consent |
 | * Your ethnicity<br>* Your socioeconomic background or socioeconomic markers<br>* Whether you are a "looked-after" child<br>* Whether you have any special educational needs (SEN), disability or mental health difficulties<br>* Your attendance record<br>* Whether you are following an academic, vocational or mixed curriculum<br>* Your profile (higher, medium or lower achiever) | To enable your School to improve equality of opportunity and support for different groups of Students | To enable your School to pursue its legitimate interests to support its Students fairly and appropriately<br><br>Appropriate processing condition: substantial public interest (equality of opportunity or treatment) |
 | * Your ethnicity<br>* Your nationality<br>* Your socioeconomic background or socioeconomic markers | To allow us to determine whether you are eligible to participate in a Unifrog programme, course or workshop that you wish to sign up to | To enable us to pursue our legitimate interests to:<br><br>* ensure students meet qualifying criteria;<br>* understand how the Unifrog Website is used;<br>* improve the Unifrog Website |
 | * Your ethnicity<br>* Your nationality<br>* Your socioeconomic background or socioeconomic markers<br>* Whether you are a “looked-after” child<br>* Whether you have any special educational needs (SEN), disability or mental health difficulties<br>* Your attendance record<br>* Whether you are following an academic, vocational or mixed curriculum<br>* Your academic predictions and results<br>* Your profile (higher, medium or lower achiever) | To enable us to anonymise these details, aggregate (or combine) them and publish reports on how different groups of Students use the Unifrog Platform and progress after they have left School<br><br>To enable your School to carry out statistical analysis on the data relating to its Students, to assess how different groups of Students progress after they have left School | To enable us to pursue our legitimate interests to:<br><br>* understand and show schools and universities, etc. how different groups of Students use the Unifrog Platform and progress after they have left School;<br>* promote the Unifrog Platform (including marketing)<br><br>To enable your School to pursue its legitimate interests to understand how different groups of Students progress after they have left School<br><br>**Appropriate processing condition** (where applicable, including for health and ethnicity data, SEN status and “looked-after” status): necessary for statistical purposes in the public interest |
@@ -339,6 +341,10 @@ We may share details of any further education or employment you undertake with y
 
 We will share your details with an Employer if we are arranging a proposed work placement for you.
 
+If you have interacted on multiple occasions with an employer, university or other educational establishment on the Unifrog Platform or at one of our events, we may share your name, date of birth, Unifrog username, school leaving year, school name, school region and country and your interest with that organisation (although we will not share the details of your interactions). ‘Interacting’ with an organisation means shortlisting their opportunities (e.g. a course or apprenticeship), attending a webinar they are sponsoring, choosing to ‘connect’ with them, joining a Unifrog course that Employer or further education provider has sponsored and choosing to share your work with them, or favouriting an article on the Unifrog Platform which was sponsored by them. We share this information with the organisation so that if you are subsequently given an opportunity by them (e.g. enrolling on a course or apprenticeship), they can check whether you have interacted with them previously via Unifrog.
+
+Where you have given your consent to be contacted by an employer, university or other educational establishment about opportunities they offer, we will share your name, date of birth, Unifrog username, email address, school leaving year, school name, school region and country and (if you decide to provide it) your subject preference with them.
+
 **Teachers**
 
 We will share some of your personal information with your School (including your Students and other Teachers) so that you and they can use the Unifrog Platform as intended. For example, your Students will be able to see some of your information, including your name, details of the subject(s) you teach and the Students for whom you are responsible. We will also share records of your interactions with Students and/or your opinions, comments or recommendations, together with any items you add to their lockers, if you choose to allow those Students to see this information.
@@ -368,6 +374,10 @@ Whether you are a **Student**, **Teacher**, **Parent** or **Visitor**:
     
 * other companies who provide services to us may also access or receive some of your information.  For example, we use a software developer, [SAV London Ltd](https://www.sav.co.uk/), to help us to design and build the Unifrog Website.
 
+**Check the privacy policies of the organisations we share your personal data with**
+
+Where we share your personal data with other organisations as explained above, we recommend you review their privacy policies as well.
+
 ### WHERE WE PROCESS AND STORE YOUR INFORMATION (INCLUDING TRANSFERS OUTSIDE OF THE UK AND EUROPEAN ECONOMIC AREA (“EEA”)
 
 If you are a **Visitor**, we will only process and store your personal information in the UK and/or EEA**.**
@@ -383,6 +393,9 @@ If you are a **Student,** **Teacher** or **Parent**:
 * if you are a Student applying to universities via Unifrog’s integrations with the Common App and/or Parchment, or if you are a Teacher who uses our integration with the Common App and/or Parchment, The Common Application, Inc. and/or Parchment LLC will access your personal data from the US.  The Common App Inc and Parchment LLC may transfer your personal data to a recipient in another country where personal data is not protected to the same level as the UK/EU.  For more details please see their privacy policies:  
     [Privacy policy (commonapp.org)](https://www.commonapp.org/privacy-policy)  
     [Privacy Policy | Parchment](https://www.parchment.com/privacy-policy/)  
+      
+    
+* if you interact with or agree to be contacted by employers, universities and other educational establishments (as described in the 'Who will you share my personal information with?' above) which are based outside of the UK / EEA, we take reasonable precautions to ensure that your information will be adequately protected whenever it is transferred outside the UK / EEA.  
       
     
 * if you choose to use the Google Maps function or complete a survey, Google or SurveyMonkey will transfer your personal data to the US. Google and SurveyMonkey have both certified under the EU-US Data Privacy Framework, so that your personal data is provided with a level of protection that is “essentially equivalent” to that provided by the General Data Protection Regulation (GDPR) and UK GDPR.
@@ -491,7 +504,7 @@ The Unifrog Website and the Unifrog Platform contain links to other websites suc
 
 ### CHANGES TO THIS POLICY
 
-This Policy was last updated in March 2024.
+This Policy was last updated in June 2024.
 
 We will update this Policy from time to time and will post any updates on this page.  If you don’t agree with those changes, you can always stop using the Unifrog Website and stop giving us any more of your information.
 
@@ -551,4 +564,4 @@ the universal destinations platform
 * [](https://www.facebook.com/unifrog)
 * [](https://www.linkedin.com/company/unifrog-education)
 
-© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uB
+© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uC
