@@ -9,9 +9,9 @@ top of page
 * [Home](https://www.gritbrokerage.com/)
 * [About Us](https://www.gritbrokerage.com/about-us)
 * [Blog](https://www.gritbrokerage.com/blog)
-* [Selling Domains](https://www.gritbrokerage.com/notable-sales)
-    * [Other Notable Sales](https://www.gritbrokerage.com/other-notable-sales)
-* [Buying Domains](https://www.gritbrokerage.com/for-sale)
+* [Selling Domains](https://www.gritbrokerage.com/selling-domains)
+    * [Notable Sales](https://www.gritbrokerage.com/domains-sold)
+* [Buying Domains](https://www.gritbrokerage.com/buying-domains)
 * [Media](https://www.gritbrokerage.com/media)
     * [Testimonials](https://www.gritbrokerage.com/testimonials)
 * [Contact](https://www.gritbrokerage.com/contact)
@@ -41,8 +41,10 @@ Fill out your contact details above and type in this box the domain you are inte
 
 Send
 
+[Domains For Sale](https://www.gritbrokerage.com/buying-domains) | [Sell a Domain](https://www.gritbrokerage.com/selling-domains)
+
 2024  by Grit Brokerage
 
-![domaining-black-250x80.png](https://static.wixstatic.com/media/a53ed9_aa69e6fea29548fb966c87b8d8565515~mv2.png/v1/fill/w_119,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/domaining-black-250x80.png)
+![domaining-black-250x80.png](https://static.wixstatic.com/media/a53ed9_aa69e6fea29548fb966c87b8d8565515~mv2.png/v1/fill/w_138,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/domaining-black-250x80.png)
 
 bottom of page
