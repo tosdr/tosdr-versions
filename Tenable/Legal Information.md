@@ -586,7 +586,7 @@ Try for Free Buy Now
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
-Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
+Tenable Vulnerability Management trials created everywhere except UAE will also include Tenable Lumin and Tenable Web App Scanning.
 
 ### Tenable Vulnerability Management
 
@@ -619,7 +619,7 @@ Try for Free Buy Now
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
-Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
+Tenable Vulnerability Management trials created everywhere except UAE will also include Tenable Lumin and Tenable Web App Scanning.
 
 ### Tenable Vulnerability Management
 
@@ -652,7 +652,7 @@ Try for Free Buy Now
 
 Enjoy full access to a modern, cloud-based vulnerability management platform that enables you to see and track all of your assets with unmatched accuracy.
 
-Your Tenable Vulnerability Management trial also includes Tenable Lumin and Tenable Web App Scanning.
+Tenable Vulnerability Management trials created everywhere except UAE will also include Tenable Lumin and Tenable Web App Scanning.
 
 ### Tenable Vulnerability Management
 
