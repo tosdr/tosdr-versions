@@ -26,8 +26,9 @@ Show mobile menu
 Privacy policy
 ==============
 
-> Veygo is part of the Admiral Group and operates under our shared group privacy policy.  
-> You can read our [privacy policy on](https://www.admiral.com/your-privacy-and-security) [Admiral.com](http://admiral.com/) [by clicking here](https://www.admiral.com/your-privacy-and-security)[.](https://cdn.sanity.io/files/vsoowbln/production/47c4a5a89699ca30e19aa766664eda1424c54105.png)
+Veygo is part of the Admiral Group and operates under our shared group privacy policy.
+
+[Read our privacy policy on admiral.com](https://www.admiral.com/your-privacy-and-security "Link to Admiral's shared group privacy policy")
 
 ##### Insurance
 
@@ -39,6 +40,8 @@ Privacy policy
 
 * [Magazine](https://www.veygo.com/veygo-magazine/)
 * [Help](https://www.veygo.com/help/)
+* [Refer a friend](https://www.veygo.com/refer/)
+* [Student discount](https://www.veygo.com/student-discount/)
 
 ##### Legal
 
