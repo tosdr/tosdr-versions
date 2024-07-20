@@ -1,6 +1,7 @@
 * [Privacy Notice](https://www.smallpdf.com/privacy)
 * [Terms & Conditions](https://www.smallpdf.com/terms)
 * [Data Processing Agreement](https://www.smallpdf.com/dpa)
+* [AI Products Terms](https://www.smallpdf.com/ai-products-supplementary-terms)
 * [Imprint](https://www.smallpdf.com/imprint)
 
 Privacy Notice
@@ -34,7 +35,7 @@ In brief: If you use our services, regardless of whether you are a free or payin
 
 ##### 1.1 Use of our website
 
-If you visit any domain or subdomain of [smallpdf.com](mailto:esign@smallpdf.com) and do not register for or log into your account, we collect and process Your Personal Data that is necessary to enable your informational use of these domains. We also use functional cookies and other technologies (see Section 8) to enable this functional use of our website and to maintain its stability and security. For these purposes, we process your IP address and other usage metrics along with the date and time of your access. We process Your Personal Data to provide our website to you (Art. 6 (1) b GDPR) and based on our legitimate interest in maintaining our website’s stability and security (Art. 6 (1) f GDPR).
+If you visit any domain or subdomain of [smallpdf.com](https://smallpdf.com/) and do not register for or log into your account, we collect and process Your Personal Data that is necessary to enable your informational use of these domains. We also use functional cookies and other technologies (see Section 8) to enable this functional use of our website and to maintain its stability and security. For these purposes, we process your IP address and other usage metrics along with the date and time of your access. We process Your Personal Data to provide our website to you (Art. 6 (1) b GDPR) and based on our legitimate interest in maintaining our website’s stability and security (Art. 6 (1) f GDPR).
 
 ##### 1.2 Use of our mobile apps and desktop app
 
@@ -104,11 +105,11 @@ By default, the documents you process using our services are accessible to anyon
 
 ###### b) Signature/eSign
 
-If you use our eSign tool, we process and store your signature(s) for future use at your convenience. If you are requesting a signature via our eSign tool from someone else, you remain fully responsible for the data processing regarding the other person. Your email address will be displayed and shared with the person receiving your signature request via [www.smallpdf.com](mailto:esign@smallpdf.com) in an email notification they receive from [esign@smallpdf.com](mailto:esign@smallpdf.com). In order to verify the signing process, we also process other information on the involved persons/people, such as their email address, their IP address, the time of their signature, and the document status. This is necessary to provide the eSign tool (Art. 6 (1) b GDPR) and is based on our legitimate interest to provide you with an easy-to-use and smooth service as well as to prevent its abuse (Art. 6 (1) f GDPR).
+If you use our eSign tool, we process and store your signature(s) for future use at your convenience. If you are requesting a signature via our eSign tool from someone else, you remain fully responsible for the data processing regarding the other person. Your email address will be displayed and shared with the person receiving your signature request via [www.smallpdf.com](https://smallpdf.com/) in an email notification they receive from [esign@smallpdf.com](mailto:esign@smallpdf.com). In order to verify the signing process, we also process other information on the involved persons/people, such as their email address, their IP address, the time of their signature, and the document status. This is necessary to provide the eSign tool (Art. 6 (1) b GDPR) and is based on our legitimate interest to provide you with an easy-to-use and smooth service as well as to prevent its abuse (Art. 6 (1) f GDPR).
 
-c) AI PDF
+c) AI Products
 
-If you are using AI PDF tool available at [www.smallpdf.com/ai-pdf](mailto:esign@smallpdf.com), please visit our Smallpdf AI PDF Supplementary Terms that are appended at the end of Smallpdf Terms and Conditions available at [www.smallpdf.com/terms](mailto:esign@smallpdf.com), as they include important privacy information.
+Smallpdf offers AI products, which means any feature(s) or functionality made available by Smallpdf and labelled as Chat with PDF, AI PDF Summarizer, or Translate PDF and other AI-powered products that might be released by Smallpdf in the future that utilize data models trained by machine learning "Smallpdf AI Products". If you are using Smallpdf AI Products, please visit our AI Products Supplementary Terms available at https://smallpdf.com/ai-products-supplementary-terms, as they include important privacy information.
 
 #### 2\. How does Smallpdf protect Your Personal Data?
 
@@ -175,7 +176,7 @@ To provide you with invoices and to route your payments to the payment service p
 
 We offer payment via Paypal/Braintree, which is a service offered by PayPal Pte. Ltd., PayPal (Europe) S.à r.l. et Cie, S.C.A. with its registered office at 22-24 Boulevard Royal, 2449 Luxembourg (“Braintree”). If you select Braintree as your payment method, you will be redirected to the Braintree website and the personal data you enter will be transmitted to Braintree in encrypted form. Braintree enables you to make payments under our contract (Art. 6 (1) b GDPR) and, according to our legitimate interest to offer you extended payment options and to outsource payments (Art. 6 (1) f GDPR).
 
-Braintree acts as a data controller in providing its services. Therefore, the data processing is governed by Braintree’s privacy policy, not ours. We have no control over the data that Braintree collects or the extent of data use by Braintree. For details about Braintree’s data processing, please refer to [https://www.braintreepayments.com/ch/legal/data-protection-addendum](https://gocardless.com/privacy/) 
+Braintree acts as a data controller in providing its services. Therefore, the data processing is governed by Braintree’s privacy policy, not ours. We have no control over the data that Braintree collects or the extent of data use by Braintree. For details about Braintree’s data processing, please refer to [https://www.braintreepayments.com/ch/legal/data-protection-addendum](https://www.braintreepayments.com/ch/legal/data-protection-addendum) 
 
 Braintree may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
 
@@ -183,7 +184,7 @@ Braintree may process personal data outside the EU/EEA. For more information on 
 
 To process direct debit payments, we transfer Your Personal Data to Google Pay (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.) We use an external provider for this payment method to enable you to make payments under our contract (Art. 6 (1) b GDPR) and according to our legitimate interest to offer you extended payment options and to outsource payments (Art. 6 (1) f GDPR).
 
-Google Pay acts as a data controller in providing its services. Therefore, the data processing is governed by Google Pay privacy policy, not ours. We have no control over the data that Google Pay collects or the extent of data use by Google Pay. For details about Google Pay data processing, please refer to [https://payments.google.com/payments/apis-secure/u/0/get\_legal\_document?ldo=0&ldt=privacynotice&ldl=en](https://gocardless.com/privacy/) 
+Google Pay acts as a data controller in providing its services. Therefore, the data processing is governed by Google Pay privacy policy, not ours. We have no control over the data that Google Pay collects or the extent of data use by Google Pay. For details about Google Pay data processing, please refer to [https://payments.google.com/payments/apis-secure/u/0/get\_legal\_document?ldo=0&ldt=privacynotice&ldl=en](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en) 
 
 Google Pay may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see section 7 below.
 
@@ -191,7 +192,7 @@ Google Pay may process personal data outside the EU/EEA. For more information on
 
 To process direct debit payments, we transfer Your Personal Data to Apple Pay (Apple Distribution International Limited in Ireland,  Hollyhill Ln, Hollyhill Industrial Estate, Cork, T23 YK84, Ireland). We use an external provider for this payment method to enable you to make payments under our contract (Art. 6 (1) b GDPR) and according to our legitimate interest to offer you extended payment options and to outsource payments (Art. 6 (1) f GDPR).
 
-Apple Pay acts as a data controller in providing its services. Therefore, the data processing is governed by Apple Pay privacy policy, not ours. We have no control over the data that Apple Pay collects or the extent of data use by Apple Pay. For details about Apple Pay data processing, please refer to [https://www.apple.com/legal/privacy/data/en/apple-pay/](https://gocardless.com/privacy/) 
+Apple Pay acts as a data controller in providing its services. Therefore, the data processing is governed by Apple Pay privacy policy, not ours. We have no control over the data that Apple Pay collects or the extent of data use by Apple Pay. For details about Apple Pay data processing, please refer to [https://www.apple.com/legal/privacy/data/en/apple-pay/](https://www.apple.com/legal/privacy/data/en/apple-pay/) 
 
 Apple Pay may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see section 7 below.
 
@@ -199,7 +200,7 @@ Apple Pay may process personal data outside the EU/EEA. For more information on 
 
 To process direct debit payments, we transfer Your Personal Data to Stripe (Stripe Payments Europe Limited (SPEL), 1 Grand Canal Street Lower, Grand Canal Dock, Dublin, D02 H210, Ireland). We use an external provider for this payment method to enable you to make payments under our contract (Art. 6 (1) b GDPR) and according to our legitimate interest to offer you extended payment options and to outsource payments (Art. 6 (1) f GDPR).
 
-Stripe acts as a data controller in providing its services. Therefore, the data processing is governed by Stripe’s privacy policy, not ours. We have no control over the data that Stripe collects or the extent of data use by Stripe. For details about Stripe data processing, please refer to [https://stripe.com/en-ch/privacy](https://gocardless.com/privacy/) 
+Stripe acts as a data controller in providing its services. Therefore, the data processing is governed by Stripe’s privacy policy, not ours. We have no control over the data that Stripe collects or the extent of data use by Stripe. For details about Stripe data processing, please refer to [https://stripe.com/en-ch/privacy](https://stripe.com/en-ch/privacy) [](https://stripe.com/en-ch/privacy)
 
 Stripe may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see section 7 below.
 
@@ -216,7 +217,7 @@ The transfer of Your Personal Data to Hotjar is based on our data processing agr
 
 We use Typeform (TYPEFORM SL, Carrer Bac de Roda, 163, local, 08018 Barcelona, Spain) to collect and analyze user feedback through surveys and polls on our website, via email, or in our mobile apps. You may be redirected to Typeform’s website to complete such surveys. We have a legitimate interest to use a third-party provider for this purpose in order to carry out surveys and polls in an efficient, user-friendly, and professional manner (Art. 6 (1) f GDPR). The transfer of Your Personal Data to Typeform is based on our data processing agreement with this provider (in connection with Art. 28 GDPR as well as Art. 9 of the FADP). Typeform may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
 
-Please note that we have no control over the data that Typeform collects or the extent of data use by Typeform on its website other than through surveys conducted on our behalf. For details about Typeform’s data processing as a data controller, please refer to [https://admin.typeform.com/to/dwk6gt](https://gocardless.com/privacy/).
+Please note that we have no control over the data that Typeform collects or the extent of data use by Typeform on its website other than through surveys conducted on our behalf. For details about Typeform’s data processing as a data controller, please refer to [https://admin.typeform.com/to/dwk6gt](https://admin.typeform.com/to/dwk6gt).
 
 ###### 4.1.10 HubSpot
 
@@ -228,7 +229,7 @@ The transfer of Your Personal Data to HubSpot is based on our data processing ag
 
 We use the reCAPTCHA service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, California 94043, the United States of America on our website. This is a security service that helps us distinguish whether data inputs on our website (e.g. into contact forms or when opening a URL) are made by an individual or by automated means. The purpose of reCAPTCHA is to block automated requests, spam, or other malicious traffic to our website. Google will process Your Personal Data (e.g. IP address, input rates, time spent on a specific site, and movements on the site) to evaluate the website traffic as part of this product. Our use of Google reCAPTCHA is based on our legitimate interest to protect our website against spam and malicious traffic in order to ensure its security (Art. 6 (1) f GDPR).
 
-In providing Google reCAPTCHA, Google acts as a data controller for Google Ads and may process Your Personal Data for other purposes. We have no control over the data that Google collects or the extent of the data collected by Google. We also have no knowledge of the content of the data transmitted to Google. For details about Google’s data processing, please refer to [https://policies.google.com/privacy](https://gocardless.com/privacy/). Google may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
+In providing Google reCAPTCHA, Google acts as a data controller for Google Ads and may process Your Personal Data for other purposes. We have no control over the data that Google collects or the extent of the data collected by Google. We also have no knowledge of the content of the data transmitted to Google. For details about Google’s data processing, please refer to [https://policies.google.com/privacy](https://policies.google.com/privacy). Google may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
 
 ##### 4.2 Analytics providers
 
@@ -264,6 +265,14 @@ Please note that if you consent to data processing for HubSpot Analytics, HubSpo
 
 The transfer of Your Personal Data to HubSpot is governed by our data processing agreement (in connection with Art. 28 GDPR). Hubspot may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
 
+4.2.5 Dealfront
+
+We use Dealfront, a marketing service provided by Dealfront Group GmbH (Durlacher Allee 73, 76131 Karlsruhe, Germany) ("Dealfront") on our website. We use this service to improve our sales and marketing. Its purpose is to analyze user behavior and, based on the results, help us make decisions relating to product and marketing optimization.
+
+To enable this service, Dealfront places a tracking cookie on your computer (for further information on cookies see Section 8 below). You can consent to the processing of Your Personal Data by Dealfront (Art. 6 (1) a GDPR) and/or prevent it/withdraw your consent at any given time through our cookie banner. To withdraw your consent, go to the cookie settings at the bottom of our website. Dealfront will process Your Personal Data (which can include your IP address, online identifiers, device identifiers, and device information, e.g. browser type, version, device type, user behavior, e.g. pages visited, session duration, use of specific website functions, e-commerce activity) to evaluate your use of the website.
+
+Dealfront will process personal data within the EU/EEA and in line with their privacy notice available at [https://www.dealfront.com/privacy-notice/](https://www.dealfront.com/privacy-notice/).
+
 ##### 4.3 Personalization and advertising-related providers
 
 ###### 4.3.1 Google Ads
@@ -286,7 +295,7 @@ This cookie expires 180 days after visiting our website. Google uses this cookie
 
 ###### c) General information on Google Ads
 
-Google acts as a data controller for Google Ads and may process Your Personal Data for other purposes. We have no control over the data that Google collects or the extent of the data collected by Google. We also have no knowledge of the content of the data transmitted to Google. For details about Google’s data processing, please refer to: [https://policies.google.com/privacy](https://gocardless.com/privacy/). Google may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
+Google acts as a data controller for Google Ads and may process Your Personal Data for other purposes. We have no control over the data that Google collects or the extent of the data collected by Google. We also have no knowledge of the content of the data transmitted to Google. For details about Google’s data processing, please refer to: [https://policies.google.com/privacy](https://policies.google.com/privacy). Google may process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
 
 ###### 4.3.2 LinkedIn (LinkedIn Insight Tag)
 
@@ -316,7 +325,7 @@ The Facebook Pixel captures information about your browser session when visiting
 
 The Facebook Pixel will be deleted after 180 days of your last interaction with our website. Facebook provides us with aggregated reports which enables us to improve the quality and relevance of our advertisements on Facebook and to present Facebook users with more relevant advertisements for marketing improvement.
 
-We and Meta are joint controllers for data processing through the Facebook Pixel under Art. 26 GDPR and have entered into a joint control agreement. You may access this agreement here: [https://www.facebook.com/legal/controller\_addendum](https://gocardless.com/privacy/). You may exercise your data protection rights directly with Meta.
+We and Meta are joint controllers for data processing through the Facebook Pixel under Art. 26 GDPR and have entered into a joint control agreement. You may access this agreement here: [https://www.facebook.com/legal/controller\_addendum](https://www.facebook.com/legal/controller_addendum). You may exercise your data protection rights directly with Meta.
 
 Metamay process personal data outside the EU/EEA. For more information on protective measures for securing data transfers to countries outside the EU/EEA, please see Section 7 below.
 
@@ -328,7 +337,7 @@ Appsflyer may process personal data outside the EU/EEA. For more information on 
 
 ###### 4.3.5 AppFollow
 
-We use AppFollow, a marketing service provided by [AppFollow.fi](https://gocardless.com/privacy/) Oy, Bulevardi 21, 00180 Helsinki, Finland on our app. We use this service to assess our app’s reputation. 
+We use AppFollow, a marketing service provided by [AppFollow.fi Oy](https://www.smallpdf.com/AppFollow.fi), Bulevardi 21, 00180 Helsinki, Finland on our app. We use this service to assess our app’s reputation. 
 
 You can consent to the processing of Your Personal Data by AppFollow (Art. 6 (1) a GDPR) or prevent it or withdraw your consent at any given time by letting us know (see “Contact Us” section. 
 
@@ -432,4 +441,4 @@ For the UK, please reach out to DP Data Protection Services UK Ltd., Attn: Small
 
 You can also contact our data protection officer at any time at our postal address or the following email address: [dpo@smallpdf.com](mailto:dpo@smallpdf.com).
 
-Last updated: 27 March 2024
+Last updated: 27 June 2024
