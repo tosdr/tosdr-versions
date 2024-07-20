@@ -355,7 +355,7 @@ If you have any questions relating to these Terms, your rights and obligations a
 
 ##### Stay Connected:
 
-[](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)
+[](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)[](https://tiktok.com/@trustcryptowallet)
 
 * **Wallet**
     
