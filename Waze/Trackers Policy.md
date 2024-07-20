@@ -46,7 +46,10 @@ Next
     [Customize your map display](https://www.waze.com/waze/topic/13773071?hl=en&ref_topic=14354098,6024567,6024551,)[Set sound and language preferences](https://www.waze.com/waze/topic/6268710?hl=en&ref_topic=14354098,6024567,6024551,)[Manage your alerts](https://www.waze.com/waze/topic/7060192?hl=en&ref_topic=14354098,6024567,6024551,)[Manage your driving preferences](https://www.waze.com/waze/topic/7060168?hl=en&ref_topic=14354098,6024567,6024551,)
     
 * [Waze on in-car displays](https://www.waze.com/waze/topic/7406710?hl=en&ref_topic=6024567,6024551,)
-* [Help & feedback](https://www.waze.com/waze/topic/6262587?hl=en&ref_topic=6024567,6024551,)
+* Help & feedback
+    
+    [Troubleshoot common issues](https://www.waze.com/waze/topic/10145501?hl=en&ref_topic=6262587,6024567,6024551,)
+    
 * [Learn about Waze](https://www.waze.com/waze/topic/9022747?hl=en&ref_topic=6024567,6024551,)
 * [Waze Privacy & Terms](https://www.waze.com/waze/announcements/12153862?hl=en&ref_topic=6024567,6024551,)
 * [Waze Compliance](https://www.waze.com/waze/announcements/13347356?hl=en&ref_topic=6024567,6024551,)
@@ -137,7 +140,7 @@ Google apps
 
 Main menu
 
-17152284521534432498
+15871477842362608607
 
 true
 
