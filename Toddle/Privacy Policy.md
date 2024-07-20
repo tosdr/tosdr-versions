@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=4160820&fmt=gif)
 
-      Privacy Policy | Toddle                                              
+      Privacy Policy | Toddle                                               
 
 [![Toddle](https://www.toddleapp.com/wp-content/uploads/2021/01/toddle_title_dark.svg)](https://www.toddleapp.com/ "Toddle")
 
@@ -20,7 +20,7 @@
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
 * [Learn](https://learn.toddleapp.com/)
 * [Toddle AI](https://www.toddleapp.com/ai/)
-* [Toddle Demo Day](https://www.toddleapp.com/events/demo-day-may2024/)
+* [Toddle TIES 2024](https://www.toddleapp.com/events/ties/)
 
 * [Sign In](https://web.toddleapp.com/?utm_source=website&type=loginHome)
 * [Book a Free Demo](https://www.toddleapp.com/book-a-free-demo/)
@@ -45,7 +45,7 @@
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
 * [Learn](https://learn.toddleapp.com/)
 * [Toddle AI](https://www.toddleapp.com/ai/)
-* [Toddle Demo Day](https://www.toddleapp.com/events/demo-day-may2024/)
+* [Toddle TIES 2024](https://www.toddleapp.com/events/ties/)
 
 [Request a demo](#)
 
