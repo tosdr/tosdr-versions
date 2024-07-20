@@ -18,7 +18,7 @@ Features
 
 Resources
 
-[Blog](https://www.screencastify.com/blog)[Customer Stories](https://www.screencastify.com/blog?topic=Customer+Stories)[Screencastify University](https://www.screencastify.com/education/university)[Careers](https://www.screencastify.com/careers)[News](https://www.screencastify.com/news)[Help Center](https://learn.screencastify.com/hc/en-us)
+[Blog](https://www.screencastify.com/blog)[Training Resources](https://www.screencastify.com/resources)[Customer Stories](https://www.screencastify.com/blog?topic=Customer+Stories)[Screencastify University](https://www.screencastify.com/education/university)[Careers](https://www.screencastify.com/careers)[News](https://www.screencastify.com/news)[Help Center](https://learn.screencastify.com/hc/en-us)
 
 [Pricing](https://www.screencastify.com/pricing)
 
