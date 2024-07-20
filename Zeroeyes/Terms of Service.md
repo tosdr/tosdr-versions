@@ -1,8 +1,6 @@
 [![Clickcease](https://monitor.clickcease.com/stats/stats.aspx)](https://www.clickcease.com/)
 
-[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
-
-![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 a
 
@@ -61,17 +59,13 @@ a
     * [Learn how ZeroEyes’ Strategy team provides data and education for federal, state, and local policymakers about top-of-mind public safety topics.](https://zeroeyes.com/policymakers/)
 * [FAQs](https://zeroeyes.com/faqs/)
     * [Frequently asked questions about ZeroEyes and how our AI gun detection system can prevent active shooter and mass shooting incidents.](https://zeroeyes.com/faqs/)
-* [Statistics](https://zeroeyes.com/statistics/)
-    * [What’s behind the school shootings epidemic and how can we take action? Browse here for American school shooting statistics, data trends, and expert insights.](https://zeroeyes.com/statistics/)
 * [Video Gallery](https://zeroeyes.com/video-gallery/)
     * [Watch ZeroEyes overviews, media coverage, client testimonials, and more about our AI-powered, human-verified gun detection solution.](https://zeroeyes.com/video-gallery/)
 * [No Bell Podcast](https://zeroeyes.com/no-bell-podcast/)
 
 [REQUEST A DEMO](http://about/)
 
-[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
-
-![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 a
 
@@ -130,8 +124,6 @@ a
     * [Learn how ZeroEyes’ Strategy team provides data and education for federal, state, and local policymakers about top-of-mind public safety topics.](https://zeroeyes.com/policymakers/)
 * [FAQs](https://zeroeyes.com/faqs/)
     * [Frequently asked questions about ZeroEyes and how our AI gun detection system can prevent active shooter and mass shooting incidents.](https://zeroeyes.com/faqs/)
-* [Statistics](https://zeroeyes.com/statistics/)
-    * [What’s behind the school shootings epidemic and how can we take action? Browse here for American school shooting statistics, data trends, and expert insights.](https://zeroeyes.com/statistics/)
 * [Video Gallery](https://zeroeyes.com/video-gallery/)
     * [Watch ZeroEyes overviews, media coverage, client testimonials, and more about our AI-powered, human-verified gun detection solution.](https://zeroeyes.com/video-gallery/)
 * [No Bell Podcast](https://zeroeyes.com/no-bell-podcast/)
@@ -257,9 +249,7 @@ The Company is not liable for any damages that may occur to You as a result of Y
 * **FORCE MAJEURE:** The Company is not liable for any failure to perform due to causes beyond its reasonable control including, but not limited to, acts of God, acts of civil authorities, acts of military authorities, riots, embargoes, acts of nature and natural disasters, and other acts which may be due to unforeseen circumstances.
 * **ELECTRONIC COMMUNICATIONS PERMITTED:** Electronic communications are permitted to both Parties under this Agreement, including e-mail or fax. For any questions or concerns, [please email Us at the following address: info@zeroeyes.com.](mailto:info@zeroeyes.com)
 
-[![ZeroEyes Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%2026'%3E%3C/svg%3E)
-
-![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
+[![ZeroEyes Logo](https://zeroeyes.com/wp-content/uploads/2023/10/ZE_LogoLockUp_White.svg)](https://zeroeyes.com/)
 
 solutions for...
 ----------------
@@ -311,6 +301,7 @@ follow us
 * [Follow](https://www.linkedin.com/company/zeroeyes-ai/ "Follow on LinkedIn")
 * [Follow](https://www.youtube.com/channel/UCaBAYxhT5bUa3ubMLHvHEzg "Follow on Youtube")
 
-©ZeroEyes Inc. All Rights Reserved 2023 – Conshohocken, PA [Privacy Policy](https://zeroeyes.com/privacy-policy/)    [Terms and Conditions](https://zeroeyes.com/terms-conditions/)    [Patents](https://zeroeyes.com/zeroeyes-patents/)
+©ZeroEyes Inc. All Rights Reserved 2023 – Conshohocken, PA  
+[Privacy Policy](https://zeroeyes.com/privacy-policy/)    [Terms and Conditions](https://zeroeyes.com/terms-conditions/)    [Patents](https://zeroeyes.com/zeroeyes-patents/)
 
 ![](https://ws.zoominfo.com/pixel/617aa5eb3b80e6001287c32d)
