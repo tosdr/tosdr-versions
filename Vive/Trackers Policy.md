@@ -27,7 +27,7 @@ VIVE Browser Cookie Preference Settings
 
 [Solutions for VR Products](https://www.vive.com/uk/solution/vive-streaming/)
 
-[Solutions for VR Products](https://www.vive.com/uk/solution/vive-streaming/) [VIVE Streaming](https://www.vive.com/uk/solution/vive-streaming/)
+[Solutions for VR Products](https://www.vive.com/uk/solution/vive-streaming/) [VIVE Streaming](https://www.vive.com/uk/solution/vive-streaming/) [VIVE Desk](https://www.vive.com/uk/solution/vive-desk/)
 
 [Virtual Production](https://mars.vive.com/)
 
@@ -44,6 +44,10 @@ VIVE Browser Cookie Preference Settings
 [Setup | Download](https://www.vive.com/uk/setup/)
 
 [Contact Us](https://contact.vive.com/hc/en-gb)
+
+Shop/Offers
+
+[Offers](https://www.vive.com/uk/shop/offers/)
 
 [Shop](https://myshop.vive.com/vive_uk/)
 
