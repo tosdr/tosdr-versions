@@ -196,7 +196,9 @@ Name Email Website
 
 Δ
 
-[![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
+[![Bucket List Boss Annette White](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='900'%20height='1200'%20viewBox='0%200%20900%201200'%3E%3C/svg%3E)
+
+![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
 
 Hey! I'm Annette.
 -----------------
@@ -210,6 +212,8 @@ Are you ready to start facing your fear and living your bucket list?
 
 **JOIN US TO GET 2,000 BUCKET LIST IDEAS FREE**
 -----------------------------------------------
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
 
@@ -239,6 +243,8 @@ Jump right in and you will get your printable ideas by email:
 
   
   
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
