@@ -1,4 +1,4 @@
-[MDQL](https://www.youtube.com/live/I30ShnXyrbo)'s going Brazilian! Check the [thread](https://www.sporcle.com/groups/topics/77d83efc3891)!
+[MDQL is packed to the gills.](https://www.youtube.com/watch?v=HLKLHL4oFIM)
 
 1. [Quizzes](https://www.sporcle.com/)
 2. [Events](https://www.sporcle.com/events/)
@@ -6,7 +6,7 @@
 4. [Quiz Creation](https://www.sporcle.com/create/)
 5. [Community](https://www.sporcle.com/groups/)
 6. [Videos](https://www.sporcle.com/videos/)
-7. [Private Events](https://www.sporcle.com/events/private-events/)
+7. [SporcleCon](https://www.sporcle.com/events/sporclecon/)
 
 1. [Remove Ads](https://www.sporcle.com/memberships/?rp=user_box_remove_ads_link)
 2. Sign In
@@ -57,17 +57,19 @@
     7. [Live 5](https://www.sporcle.com/livefive/)
     8. [Trivia Bingo](https://www.sporcle.com/bingo/)
     9. [Activity](https://www.sporcle.com/activity/)
-    10. [Puzzle Library](https://www.sporcle.com/reference/)
+    10. [Math Test](https://www.sporcle.com/math-test/)
+    11. [Puzzle Library](https://www.sporcle.com/reference/)
 4. 1. [Sporcle Events](https://www.sporcle.com/events/)
-        1. [Private Events](https://www.sporcle.com/events/private-events/)
-        2. [Virtual Trivia](https://www.sporcle.com/events/virtual-trivia/)
-        3. [Globe League](https://www.sporcle.com/events/the-globe/)
-        4. [Become a Host](https://www.sporcle.com/jobs/trivia-host/)
+        1. [Find a Game](https://www.sporcle.com/events/locations/)
+        2. [Private Events](https://www.sporcle.com/events/private-events/)
+        3. [Theme Nights](https://www.sporcle.com/events/theme-nights/)
+        4. [Globe League](https://www.sporcle.com/events/the-globe/)
         5. [Pub Owners](https://www.sporcle.com/events/pub-owner-info/)
         6. [SporcleCon](https://www.sporcle.com/events/sporclecon/)
-        7. [Opinionation](https://www.sporcle.com/events/opinionation/)
-        8. [Our Games](https://www.sporcle.com/events/games/)
-        9. [Theme Nights](https://www.sporcle.com/events/theme-nights/)
+        7. [Virtual Trivia](https://www.sporcle.com/events/virtual-trivia/)
+        8. [Become a Host](https://www.sporcle.com/jobs/trivia-host/)
+        9. [Our Games](https://www.sporcle.com/events/games/)
+        10. [Opinionation](https://www.sporcle.com/events/opinionation/)
 5. 1. [Videos](https://www.sporcle.com/videos/)
     2. [Blog](https://www.sporcle.com/blog/)
     3. [Mobile Apps](https://www.sporcle.com/apps/)
@@ -81,23 +83,27 @@
     4. [](https://www.tiktok.com/@sporcle.com)
     5. [](https://www.instagram.com/sporcle/)
 
-[![Sporcle ](/images/sporcle-logo-theme-light.svg)](https://www.sporcle.com/)
+[![Sporcle ](https://d31xsmoz1lk3y3.cloudfront.net/images/header_logos/cfa053779226546994ed6414444976c1.svg)](https://www.sporcle.com/)
 
 1. [Categories](https://www.sporcle.com/categories/)
-2. [Badges](https://www.sporcle.com/achievements/)
-3. [Playlists](https://www.sporcle.com/playlists/)
-4. [Create](https://www.sporcle.com/create/)
-5. [Quiz Lab](https://www.sporcle.com/contributed/)
-6. [Bingo](https://www.sporcle.com/bingo/)
-7. [Live 5](https://www.sporcle.com/livefive/)
+2. [Quiz Types](https://www.sporcle.com/type/)
+3. [Badges](https://www.sporcle.com/achievements/)
+4. [Playlists](https://www.sporcle.com/playlists/)
+5. [Create](https://www.sporcle.com/create/)
+6. [Quiz Lab](https://www.sporcle.com/contributed/)
+7. [Bingo](https://www.sporcle.com/bingo/)
+8. [Live 5](https://www.sporcle.com/livefive/)
+9. [Math Test](https://www.sporcle.com/math-test/)
 
 1. [Categories](https://www.sporcle.com/categories/)
-2. [Badges](https://www.sporcle.com/achievements/)
-3. [Playlists](https://www.sporcle.com/playlists/)
-4. [Create](https://www.sporcle.com/create/)
-5. [Quiz Lab](https://www.sporcle.com/contributed/)
-6. [Bingo](https://www.sporcle.com/bingo/)
-7. [Live 5](https://www.sporcle.com/livefive/)
+2. [Quiz Types](https://www.sporcle.com/type/)
+3. [Badges](https://www.sporcle.com/achievements/)
+4. [Playlists](https://www.sporcle.com/playlists/)
+5. [Create](https://www.sporcle.com/create/)
+6. [Quiz Lab](https://www.sporcle.com/contributed/)
+7. [Bingo](https://www.sporcle.com/bingo/)
+8. [Live 5](https://www.sporcle.com/livefive/)
+9. [Math Test](https://www.sporcle.com/math-test/)
 
 1. [Random Quiz](https://www.sporcle.com/games/random.php)
 2.  Search Sporcle
@@ -440,7 +446,7 @@ est. 2007
 
 mentally stimulating diversions](https://www.sporcle.com/)
 
-5,647,428,887 quizzes played
+5,685,851,335 quizzes played
 
 Remove Ads.
 
