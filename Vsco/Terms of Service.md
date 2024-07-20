@@ -6,32 +6,30 @@ Experiment with 200+ high-quality presets
 
 [Download](https://vs.co/download)
 
-_We’re updating our Terms of Use, effective July 10, 2024. To read our updated Terms of Use,_ [_click here._](https://vsco.co/about/terms-of-use-effective-10-july-2024)
-
 Terms of Use
 
-Effective as of April 15, 2024  
+Effective as of July 10, 2024.  
   
 Please click [**here**](https://vsco.co/about/terms-of-use-old) to view the previous version of our Terms of Use.
 
 Table of Contents
 -----------------
 
-1. [Use of our Services](#1-use-of-our-services)
-2. [Your Creator Content](#2-your-creator-content)
-3. [Content Moderation and Enforcement](#3-content-moderation-and-enforcement)
-4. [Your Rights with Respect to our Services](#4-your-rights-with-respect-to-our-services)
-5. [Proprietary Rights](#5-proprietary-rights)
-6. [Paid Services](#6-paid-services)
-7. [Third-Party Links](#7-third-party-links)
-8. [Indemnity](#8-indemnity)
-9. [No Warranty](#9-no-warranty)
-10. [Limitation of Liability](#10-limitation-of-liability)
-11. [Term and Termination](#11-term-and-termination)
-12. [Informal Claim Resolution](#12-informal-claim-resolution)
-13. [Arbitration Agreement](#13-arbitration-agreement)
-14. [Acknowledgment of Image Recognition Technology](#14-acknowledgment-of-image-recognition-technology)
-15. [General](#15-general)
+1. [Use of our Services](#)
+2. [Your Creator Content](#)
+3. [Content Moderation and Enforcement](#)
+4. [Your Rights with Respect to our Services](#)
+5. [Proprietary Rights](#)
+6. [Paid Services](#)
+7. [Third-Party Links](#)
+8. [Indemnity](#)
+9. [No Warranty](#)
+10. [Limitation of Liability](#)
+11. [Term and Termination](#)
+12. [Informal Claim Resolution](#)
+13. [Arbitration Agreement](#)
+14. [Acknowledgment of Image Recognition Technology](#)
+15. [General](#)
 
 We nurture creative experimentation and turn the aspirational into the achievable. At VSCO, we believe that there’s a creative spark within all of us and that everyone, at heart, is a creator. Welcome to the VSCO community!
 
@@ -62,7 +60,7 @@ There are some ground rules you must follow that are intended to protect the VSC
 * Attempt any technological attack (including accessing information regarding our Services’ underlying infrastructure; causing a large load on our infrastructure, such as through “robots,” “spiders,” and other automated systems; interfering with our Services; bypassing measures we use to restrict access to our Services; accessing or deciphering any unauthorized content or transmissions; or uploading viruses, worms, or other harmful agents); or
 * Use our Services for any fraudulent purpose or purpose prohibited by these Terms, including our [Community Guidelines](https://vsco.co/about/community-guidelines), or any laws.
 
-**Eligibility**. You must be at least 13 years old to use our Services and legally agree to and comply with these Terms. If your VSCO account or access to our Services is discontinued by us due to your violation of these Terms, you may not access or use our Services. This includes re-registering with us or accessing our Services through use of a different account name or otherwise.
+**Eligibility.** You must be at least 13 years old to use our Services, or at least 18 years old in the case of brand challenges, and legally agree to and comply with these Terms. If your VSCO account or access to our Services is discontinued by us due to your violation of these Terms, you may not access or use our Services. This includes re-registering with us or accessing our Services through use of a different account name or otherwise.
 
 **VSCO Account**. To access our Services, you’ll need to create your own VSCO account (“**Account**”). You can customize your Creator profile and your interactions with our Services on your “Account Settings” page. When creating your Account, you must:
 
@@ -80,6 +78,8 @@ There are some ground rules you must follow that are intended to protect the VSC
 **Interactions and Transactions through VSCO Hub.**  If you mark yourself as available or open to work, or otherwise participate in VSCO Hub, you will be included in our search results shared with individuals, businesses, and/or organizations (“**VSCO Hub Customers**”) interested in hiring or commissioning a Creator or licensing Creator Content. You may interact with our VSCO Hub Customers if they reach out to you for business opportunities. You are solely responsible for your interactions and transactions with VSCO Hub Customers, and we aren’t liable for your conduct or the conduct of any VSCO Hub Customer. VSCO does not negotiate, enforce, mediate, or otherwise participate in any agreement between you and a VSCO Hub Customer, and is not responsible for any disputes between you and a VSCO Hub Customer.
 
 **Changes to Our Services**. We reserve the right to change our Services, including the availability of certain features and the pricing for our Services, at any time at our sole discretion.
+
+**VSCO Hub Brand Partnerships**. We collaborate with brand partners from time to time on certain brand challenges. These challenges allow Creators to submit Creator Content in response to a prompt published by VSCO or our partners with the opportunity to be selected and receive payment from the partner for the use of Creator Content. Brand challenges are subject to these Terms, the [Community Guidelines](https://vsco.co/about/community_guidelines), and additional guidelines, as applicable, as posted for each prompt.
 
 2\. YOUR CREATOR CONTENT
 ------------------------
