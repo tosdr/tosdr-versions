@@ -1,4 +1,4 @@
-[#1 Global Leader in Data Protection & Ransomware Recovery](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
+[#1 Global Leader in Data Resilience](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
 
 * [Downloads](https://www.veeam.com/products/downloads.html?ad=top-sub-menu)
 * Contact us
@@ -23,7 +23,7 @@
 
 [Veeam logo](https://www.veeam.com/)
 
-[#1 Global Leader in Data Protection & Ransomware Recovery](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
+[#1 Global Leader in Data Resilience](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
 
 Menu
 
@@ -636,4 +636,4 @@ Please select a language
 * [中文（简体）](https://www.veeam.com/cn/legal/privacy-notice.html)
 * [한국어](https://www.veeam.com/ko)
 
-©2024 Veeam® Software | [Privacy Notice](https://www.veeam.com/privacy-notice.html?ad=footer) | [Cookie Notice](https://www.veeam.com/cookie-notice.html?ad=footer) | [EULA](https://www.veeam.com/eula.html?ad=footer) | [Licensing Policy](https://www.veeam.com/licensing-policy.html?ad=footer) | [Supplier Resources](https://www.veeam.com/supplier-resources.html?ad=footer)
+©2024 Veeam® Software | [Privacy Notice](https://www.veeam.com/legal/privacy-notice.html?ad=footer) | [Cookie Notice](https://www.veeam.com/legal/cookie-notice.html?ad=footer) | [EULA](https://www.veeam.com/legal/eula.html?ad=footer) | [Licensing Policy](https://www.veeam.com/legal/licensing-policy.html?ad=footer) | [Supplier Resources](https://www.veeam.com/legal/supplier-resources.html?ad=footer)
