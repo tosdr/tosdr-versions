@@ -1,6 +1,6 @@
 ![](https://amazoncustomerservice.d2.sc.omtrdc.net/b/ss/acsus-prod/1/H.25.2--NS/0)  Interest-Based Ads - Amazon Customer Service             
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:144-9588341-0558664:N4JYAD7S6NS924EVMDHQ$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DN4JYAD7S6NS924EVMDHQ:0)            
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:146-9505826-5659867:RD4NHVH544ZADB4WNTXM$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DRD4NHVH544ZADB4WNTXM:0)            
 
 Interest-Based Ads
 ==================
@@ -34,4 +34,4 @@ For information on the advertising practices of websites and services offered by
 
   
 
-![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:144-9588341-0558664:N4JYAD7S6NS924EVMDHQ$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DN4JYAD7S6NS924EVMDHQ:0)
+![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:146-9505826-5659867:RD4NHVH544ZADB4WNTXM$uedata=s:%2Frd%2Fuedata%3Fnoscript%26id%3DRD4NHVH544ZADB4WNTXM:0)
