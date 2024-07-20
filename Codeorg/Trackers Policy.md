@@ -26,9 +26,11 @@ Dance Party](https://studio.code.org/projects/dance/new)[![](/shared/images/fill
 
 Music Lab](https://studio.code.org/s/music-intro-2024/reset)[View all projects...](https://studio.code.org/projects)
 
-[Sign in](https://studio.code.org/users/sign_in)
+[Sign in](https://studio.code.org/users/sign_in)[Create account](https://studio.code.org/users/sign_up)
 
 [Help and support](https://support.code.org/) [Report a problem](https://support.code.org/hc/en-us/requests/new)
+
+[Sign in](https://studio.code.org/users/sign_in)[Create account](https://studio.code.org/users/sign_up)
 
 [Learn](https://code.org/students)
 
