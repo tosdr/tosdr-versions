@@ -10,7 +10,7 @@ K
 
 [Purchase Information](https://topazlabs.com/sales-account-licensing/before-you-buy)
 
-[How Many Computers Can I Install My Apps On?](https://topazlabs.com/sales-account-licensing/before-you-buy/how-many-computers-can-i-install-my-apps-on)[Is Your Purchase A Subscription?](https://topazlabs.com/sales-account-licensing/before-you-buy/is-our-software-a-subscription)[User Licenses and Upgrade Licenses](https://topazlabs.com/sales-account-licensing/before-you-buy/user-licenses-and-upgrade-licenses)[Refund Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/refund-policy)[What Languages Are Available In Each App?](https://topazlabs.com/sales-account-licensing/before-you-buy/what-languages-are-available)[Privacy Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/privacy-policy)[Terms and Conditions](https://topazlabs.com/sales-account-licensing/before-you-buy/terms)
+[How Many Computers Can I Install My Apps On?](https://topazlabs.com/sales-account-licensing/before-you-buy/how-many-computers-can-i-install-my-apps-on)[Is Your Personal License Purchase A Subscription?](https://topazlabs.com/sales-account-licensing/before-you-buy/is-our-software-a-subscription)[User Licenses and Upgrade Licenses](https://topazlabs.com/sales-account-licensing/before-you-buy/user-licenses-and-upgrade-licenses)[Refund Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/refund-policy)[What Languages Are Available In Each App?](https://topazlabs.com/sales-account-licensing/before-you-buy/what-languages-are-available)[Privacy Policy](https://topazlabs.com/sales-account-licensing/before-you-buy/privacy-policy)[Terms and Conditions](https://topazlabs.com/sales-account-licensing/before-you-buy/terms)
 
 [Your Account](https://topazlabs.com/sales-account-licensing/your-account)
 
@@ -72,7 +72,7 @@ K
 
 [Troubleshooting](https://topazlabs.com/video-ai/topaz-video-ai-troubleshooting-guide)
 
-[Video Enhance AI v2.x](https://topazlabs.com/video-ai/video-enhance-ai-v2x)
+[Topaz Video AI Legacy](https://topazlabs.com/video-ai/video-enhance-ai-v2x)
 
 [Plugins](https://topazlabs.com/video-ai/plug-ins)
 
