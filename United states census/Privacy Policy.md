@@ -49,6 +49,16 @@ Search
 
 * * *
 
+Helpful Links
+
+[QuickFacts U.S. Data Finder](https://www.census.gov/data/data-tools/quickfacts.html) [Advanced Data.census.gov Search](https://data.census.gov/advanced) [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) [International Database (IDB)](https://www.census.gov/idb) [Census Records for Genealogy](https://www.census.gov/topics/population/genealogy.html)
+
+* * *
+
+Helpful Links
+
+[QuickFacts U.S. Data Finder](https://www.census.gov/data/data-tools/quickfacts.html) [Advanced Data.census.gov Search](https://data.census.gov/advanced) [American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs) [International Database (IDB)](https://www.census.gov/idb) [Census Records for Genealogy](https://www.census.gov/topics/population/genealogy.html)
+
 Search
 
 Menu
