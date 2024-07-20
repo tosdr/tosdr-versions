@@ -1,8 +1,4 @@
- 
-
-    
-
- 
+             
 
 [__](#)
 
@@ -22,7 +18,7 @@ Sitemap1
 * [**Shopping Guide**](https://new.shopandship.com/shopping-directory)
 * [**The S&S Blog**](https://new.shopandship.com/snsblog.aramex.com)
 
-[![Shop and Ship Logo](https://www.shopandship.com/images/default-source/default-album/sns-logoe1a5cdd13d894692bd4b9a8ee0a4ac46e91da0e291e34a409036586c04af8899.png?Status=Master&sfvrsn=bacc6393_14)](https://new.shopandship.com/ "Shop & Ship")
+[![Shop and Ship Logo](http://new.shopandship.com/images/default-source/default-album/sns-logoe1a5cdd13d894692bd4b9a8ee0a4ac46e91da0e291e34a409036586c04af8899.png?Status=Master&sfvrsn=bacc6393_14)](https://new.shopandship.com/ "Shop & Ship")
 
 [__](#)
 
@@ -62,7 +58,7 @@ Looking for help? You're in the right place. Type your message and we will get b
 Select Country
 ==============
 
-Select Country Angola Armenia Australia Azerbaijan Bahrain Bangladesh Benin Bulgaria Burkina Faso Cameroon Congo Cyprus Czech Republic Djibouti Egypt Ethiopia Georgia Germany Ghana Greece Guinea Hong Kong India Indonesia Iraq Jordan Kazakhstan Kenya Kuwait Lebanon Liberia Libya Lithuania Madagascar Malawi Malaysia Maldives Mali Mauritius Morocco Nepal New Zealand Nigeria Oman Pakistan Palestine Qatar Reunion IS Saudi Arabia Senegal Sierra Leone Singapore Somalia Sri Lanka Switzerland Tanzania Thailand Togo Tunisia Turkey Uganda United Arab Emirates United Kingdom Uzbekistan Zambia
+Select Country Angola Armenia Australia Azerbaijan Bahrain Bangladesh Benin Bulgaria Burkina Faso Cameroon Congo Cyprus Czech Republic Djibouti Egypt Ethiopia Georgia Germany Ghana Greece Guinea Hong Kong India Indonesia Iraq Jordan Kazakhstan Kuwait Lebanon Liberia Libya Lithuania Madagascar Malawi Malaysia Maldives Mali Mauritius Morocco Nepal New Zealand Nigeria Oman Pakistan Palestine Qatar Reunion IS Saudi Arabia Senegal Sierra Leone Singapore Somalia Sri Lanka Switzerland Tanzania Thailand Togo Tunisia Turkey Uganda United Arab Emirates United Kingdom Uzbekistan Zambia
 
 * [TERMS AND CONDITIONS](#pstab0)
 * [TERM OF USE](#pstab1)
