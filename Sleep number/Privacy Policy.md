@@ -24,13 +24,13 @@ Toggle navigation
 
 [Learn](https://www.sleepnumber.com/pages/how-to-sleep-better)
 
-[Sleep Science](https://www.sleepnumber.com/pages/sleep-science)
+[Sleep Health](https://www.sleepnumber.com/pages/sleep-science)
 
 [Support](https://support.sleepnumber.com/hc/en-us)
 
 [Bed Quiz](https://www.sleepnumber.com/find-your-perfect-mattress)
 
-[4th of July Sale](https://www.sleepnumber.com/categories/beds-on-sale)
+[Sale](https://www.sleepnumber.com/categories/beds-on-sale)
 
 Search
 ======
