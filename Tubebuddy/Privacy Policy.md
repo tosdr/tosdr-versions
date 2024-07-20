@@ -13,11 +13,11 @@
         
         [![](https://www.tubebuddy.com/wp-content/uploads/2024/05/title-generator-1-min.webp)
         
-        Title Generator](https://www.tubebuddy.com/p/title-generator/)[![](https://www.tubebuddy.com/wp-content/uploads/2024/05/Group.png)
+        Title Generator](https://www.tubebuddy.com/tools/title-generator/)[![](https://www.tubebuddy.com/wp-content/uploads/2024/05/Group.png)
         
-        Suggested Shorts](https://www.tubebuddy.com/p/suggested-shorts/)[![](https://www.tubebuddy.com/wp-content/uploads/2024/05/Thumbnail.png)
+        Suggested Shorts](https://www.tubebuddy.com/tools/suggested-shorts/)[![](https://www.tubebuddy.com/wp-content/uploads/2024/05/Thumbnail.png)
         
-        Thumbnail Analyzer](https://www.tubebuddy.com/p/thumbnail-analyzer/)
+        Thumbnail Analyzer](https://www.tubebuddy.com/tools/thumbnail-analyzer/)
         
         [![](/wp-content/uploads/2023/08/Logo-Mark-On-Dark.svg)](https://www.tubebuddy.com/)
         
