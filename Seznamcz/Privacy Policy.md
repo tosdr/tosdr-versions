@@ -303,6 +303,12 @@ Zavřít menu
 * [Certifikace a ověření](https://o-seznam.cz/reklama/certifikace/)
 * [Agenturní spolupráce roku](https://o-seznam.cz/reklama/agsr/)
 
+* [Kariéra](https://o-seznam.cz/kariera/)
+    * [Volné pozice](https://o-seznam.cz/kariera/volne-pozice/)
+    * [Trainee a studenti](https://o-seznam.cz/kariera/trainee-a-studenti/)
+    * [Život v Seznamu](https://o-seznam.cz/kariera/kultura/)
+    * [Nejčastější dotazy](https://o-seznam.cz/kariera/nejcastejsi-dotazy/)
+
 * [O nás](https://o-seznam.cz/)
     * [Odpovědnost](https://o-seznam.cz/odpovednost/)
     * [Kontakty](https://o-seznam.cz/kontakty/)
@@ -313,6 +319,12 @@ Zavřít menu
 * [![](https://o-seznam.cz/pravni-informace/wp-content/themes/seznam/assets/images/icon-social-linkedin.svg)LinkedIn](https://www.linkedin.com/company/29358/)
 * [![](https://o-seznam.cz/pravni-informace/wp-content/themes/seznam/assets/images/icon-social-x.svg)X](https://twitter.com/seznam_cz)
 * [![](https://o-seznam.cz/pravni-informace/wp-content/themes/seznam/assets/images/icon-social-instagram.svg)Instagram](https://www.instagram.com/seznam_cz/)
+
+* [Kariéra](https://o-seznam.cz/kariera/)
+    * [Volné pozice](https://o-seznam.cz/kariera/volne-pozice/)
+    * [Trainee a studenti](https://o-seznam.cz/kariera/trainee-a-studenti/)
+    * [Život v Seznamu](https://o-seznam.cz/kariera/kultura/)
+    * [Nejčastější dotazy](https://o-seznam.cz/kariera/nejcastejsi-dotazy/)
 
 * [O nás](https://o-seznam.cz/)
     * [Odpovědnost](https://o-seznam.cz/odpovednost/)
