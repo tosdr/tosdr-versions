@@ -32,7 +32,7 @@
     * [Blog](https://www.skytap.com/blog/ "Blog")
     * [Partners](https://www.skytap.com/tech-partners/ "Partners")
     * [Events](https://www.skytap.com/events/ "Events")
-    * [Careers](https://jobs.jobvite.com/skytap/ "Careers")
+    * [Careers](https://www.kyndryl.com/careers "Careers")
 * [Contact](https://www.skytap.com/contact-us/ "Contact")
 * [Login](https://cloud.skytap.com/login " Login")
 * [](#searchwp-modal-652ea0d21b1427a1bfa685e40d9bc1de)
@@ -41,7 +41,7 @@
 Privacy Policy
 ==============
 
-Effective October 1, 2018 | Last Update November 6, 2023
+Effective October 1, 2018 | Last Update June 28, 2024
 
 ### Introduction
 
@@ -51,7 +51,7 @@ Certain jurisdictions worldwide have enacted laws related generally to processin
 
 * If you are located in the European Union, the General Data Protection Regulation effective 25 May 2018 (“GDPR”) applies to information about you while you were in the European Union (“Personal Data” under GDPR) that Skytap may collect. (NOTE: as the definition below states, “GDPR” as used in this Privacy Policy also will refer to the UK General Data Protection Regulation if you are located in the United Kingdom because, for purposes of this Privacy Policy and in general, these two forms of distinct and potentially applicable Data Protection Legislation are materially the same.) In that case, and under GDPR, you are defined as a “Data Subject,” Skytap is a “Data Controller” for Personal Data that Skytap obtains and “Processes,” and this policy explains your rights with respect to that Personal Data. (For clarity, Skytap’s primary Services offering provides a virtualized server environment for Skytap customers to process and control data within their own virtualized server workloads. This customer data may or may not be Personal Data. If the customer data the customers process includes Personal Data, then in that situation, between Skytap and the customer, Skytap is a Data Processor, and the customer is the Data Controller. However, in this circumstance, Skytap’s role is passive, and it does not collect or meaningfully use the customer’s data.)
     
-* If you reside in California, The California Consumer Privacy Act, codified at Cal. Civ. Code §1798.100 et seq., as amended by the California Privacy Rights Act of 2020 (the “CPRA”), including any other future amendments as well as any final implementing regulations adopted either by the State of California Privacy Protection Agency (collectively, “CCPA/CPRA”) also now protects “Personal Information” that identifies, relates to, describes or can be associated with, or reasonably can be linked (directly or indirectly) with a specific individual (“Consumers”) or household in California. If you think Skytap is processing your Personal Information, please see the sections in the Policy below under the heading “Supplemental Disclosures Section: All Employment-related and Non-GDPR Privacy and Data Protection Regulation Specific Disclosures” for more information about Skytap and CCPA/CPRA.
+* If you reside in California, The California Consumer Privacy Act, codified at Cal. Civ. Code §1798.100 et seq., as amended by the California Privacy Rights Act of 2020 (the “CPRA”), including any other future amendments as well as any final implementing regulations adopted either by the State of California Privacy Protection Agency (collectively, “CCPA/CPRA”) also now protects “Personal Information” that identifies, relates to, describes or can be associated with, or reasonably can be linked (directly or indirectly) with a specific individual (“Consumers”) or household in California.
     
 
 ### Definitions
@@ -103,21 +103,6 @@ If GDPR applies to you and your Personal Data, under GDPR, you can be referred t
 ### How the Privacy Policy Addresses the Requirements of GDPR and CCPA/CPRA and Any Other Privacy and Data Protection Regulations that Apply in the Future
 
 This Privacy Policy was originally written, revised, and adopted by Skytap with regard to GDPR because GDPR was the first comprehensive and general privacy regulation enacted world-wide that potentially applied to Skytap. California followed GDPR by enacting CCPA, which later was amended by CPRA. Thus, for general purposes and simplicity, (1) the term “Personal Data” in this Privacy Policy more often also will refer to “Personal Information” under CCPA/CPRA and other applicable regulations, (2) the term “Data Subject” in this Privacy Policy will also refer to the persons protected under CCPA/CPRA as a “Consumer”, and (3) the term “Controller” in this Privacy Policy will refer to the persons and organizations regulated by CCPA/CPRA or other regulations (as CCPA/CPRA defines each of these organizations as a “Business”, unless a provision of this Privacy Policy or another related on-line disclosure linked to this Privacy Policy specifically and uniquely refers to CCPA/CPRA, in which case the CCPA/CPRA specifically defined terms from that other regulation may be used instead.
-
-  
-
-### Link to Supplemental Disclosures Specifically Related to Rights as an Employee/Employment Candidate Under All Applicable Privacy and Data Protection Regulations AND Other Required Disclosures Under California Privacy Statutes
-
-Other than Personal Data related to Data Subjects as a result of being employee or candidates for employment by Skytap, the main sections of the Privacy Policy provide the disclosures and information that GDPR (UK and EU) may require.
-
-The following two categories of required disclosures under non-GDPR applicable privacy and data protection regulations are located [**here**](#disclosureSection).
-
-* Disclosures and information about Data Subjects under GDPR and Consumers under CCPA/CPRA related to their status as employees (current or former) of and candidates for employment by Skytap, and
-    
-* All other non-employee/candidate for employment related disclosures and information required by privacy and data protection regulations OTHER THAN GDPR, e.g., CCPA/CPRA.
-    
-
-The linked disclosures in the previous sentence will be updated as any additional privacy and data protection regulations are applicable to Skytap.
 
   
 
@@ -272,7 +257,7 @@ Please contact us using the details below to exercise any of your rights. We usu
 
 Alternatively, we may be entitled to refuse to act on the request.
 
-Please consider your request responsibly before submitting it. These requests do not apply to mandatory service communications that are part of certain Skytap services, or to surveys or other informational communications that can be managed directly (see details in the Access and Controls section). We’ll respond as soon as we can. Generally, this will be within 30 days from when we receive your request, unless the request will take substantially longer to fulfill.
+Please consider your request responsibly before submitting it. These requests do not apply to mandatory service communications that are part of certain Skytap services, or to surveys or other informational communications that can be managed directly (see details in the Access and Controls section). We’ll respond as soon as we can. Generally, this will be within the timeframe of the applicable law.
 
 If you cannot access certain Personal Data collected by Skytap via the Preference Center, directly through the Skytap Services You use, or if You do not have a personal Skytap account, you can always contact Skytap by emailing us at [privacy@skytap.com](mailto:privacy@skytap.com).
 
@@ -324,8 +309,6 @@ The Federal Trade Commission has jurisdiction over Skytap’s compliance with th
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Skytap commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Skytap commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF in the context of the employment relationship.
-
 For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website.
 
   
@@ -373,60 +356,6 @@ General Counsel
 Seattle, WA 98104  
 [206-866-1162](tel:206-866-1162)
 
-### Supplemental Disclosures Section: All Employment-related and Non-GDPR Privacy and Data Protection Regulation Specific Disclosures.
-
-  
-
-#### Skytap Employee and Candidate CCPA/CPRA and EU/UK GDPR Privacy Regulation Disclosure
-
-If you are a resident of California, the United Kingdom or the European Union and are applying for employment with, are already, or apply and then become employed by Skytap, a Skytap-owned subsidiary in a country other than the USA, or a Professional Employer Organization (or PEO) engaged by Skytap in any country other than the USA, please read this Skytap Employment Applicant and Employee Privacy Disclosure.
-
-Skytap provides this notice and disclosure to comply with the CCPA, UK GDPR, and EU GDPR with regard to Personal Data collected related to applications for and actual employment on behalf of Skytap.
-
-CCPA/CPRA and both of the two GDPR’s (EU and UK) define the same subject matter, but using different terms.
-
-* The information about individual people that the regulations protect are referred to by EU and UK GDPR as “Personal Data” and by CCPA/CPRA as “Personal Information.” This disclosure for simplicity will use the GDPR term “Personal Data,” but it applies equally to Personal Data under the EU and UK GDPR versions.
-* The individual persons who are and whose Personal Data are subject to protection under the EU and UK versions of GDPR are referred to under GDPR as “Data Subjects” and under CCPA/CPRA as “Consumers.” This disclosure for simplicity will use the GDPR term and refer to the individuals as “Data Subjects.” Thus, references to Data Subjects in this disclosure will mean Consumers for purposes of CCPA.
-
-Under CCPA, the Personal Data identified in the Table below is shared with “Service Providers” who do not use the Personal Data for any purposes other than providing contracted services to Skytap, and Skytap’s Service Providers include employee benefits management companies, benefits providers, providers of payroll, human resources information systems, compensation benchmarking analytics providers, job applicant tracking software.
-
-Skytap retains the Personal Data below for a duration that depends on whether the Data Subject is only an applicant for employment or Skytap employs the Data Subject or an applicant that is not hired immediately for an open position might be suitable for a future open position. Certain categories of Personal Data are retained for longer durations if the potential exists to rehire the Data Subject after their employment with Skytap ends.
-
-| PERSONAL DATA CATEGORY | SPECIFIC TYPES OF PERSONAL DATA | SKYTAP BUSINESS PURPOSE _(SEE THE KEY BELOW)_ |
-| --- | --- | --- |
-| **Personal Identifiers** | Name, alias, postal or mailing address, email address, telephone number, tax ID or social security number (international equivalent), driver’s license or identification card number, passport number | 1-5, 9, 10, 11, 12, 13, 14 |
-| **Financial Information** | Bank account number, credit card number, debit card number, or other financial account information | 2, 9 |
-| **Protected Classifications** | Race, ethnicity, national origin, sex, gender, sexual orientation, gender identity, religion, age, disability, medical or mental condition, military status, familial status, language spoken | 1, 3, 5, 9 |
-| **Personal Interests** | Personal background, interests, hobbies | 8   |
-| **Professional or Employment-Related Information** | Personnel file, new hire or onboarding records, I-9 forms, tax forms, time and attendance records, non- medical leave of absence records, workplace injury and safety records, performance evaluations, disciplinary records, training records, licensing and certification records, compensation and health benefits records, and payroll information and records | 1-9, 11, 14, 15 |
-| **Medical and Health Information** | Doctor’s notes for absences or work restrictions, medical leave of absence records, requests for accommodation, interactive process records, and correspondence with employee and his/her medical or mental health provider(s) regarding any request for accommodation or medical leave of absence | 1, 2, 4, 5, 9 |
-| **Education Information** | Transcripts or records of degrees and vocational certifications obtained | 9, 11 |
-| **Visual, Audio or Video Recordings in the Workplace** | Surveillance cameras or pictures of employees taken in the workplace or at a Skytap function or event | 7, 8, 12 |
-| **Facility Access Records** | Information identifying which employees accessed secure Skytap facilities and at what times using their keys, badges, fobs, or other security access method | 7, 12 |
-| **Internet and Network Activity** | Internet or other electronic network activity information on Skytap-issued computers and electronic devices, including browsing history, search history, and usage history | 7, 13 |
-
-  
-
-**Key:** Employment Related Personal Data and Purposes for Collection and Use.
-
-1. To comply with state and federal law and regulations requiring employers to maintain certain records (such as immigration compliance records, personnel files, wage and hour records, payroll records, accident or safety records, and tax records).
-2. Process payroll and/or reimburse expenses.
-3. Maintain commercial insurance policies and coverages, including for workers’ compensation and other liability insurance.
-4. Manage workers’ compensation claims.
-5. Administer and maintain group employee benefits such as health insurance benefits, 401K and/or retirement plans.
-6. Manage employee performance of their job duties
-7. Conduct workplace investigations (such as investigations of workplace accidents or injuries, harassment, or other misconduct).
-8. Provide for employee morale and engagement.
-9. Assess and benchmark Skytap compensation packages for employees against relevant markets, Personal Data is provided to compensation benchmarking Services Providers who promptly anonymize/de-identify the data so that it is no longer Personal Data regulated under CCPA/CPRA or EU or UK GDPR, or any other privacy regulation and the raw data is permanently erased so that it cannot be recovered in raw form or attributed to the individual Data Subjects. Some service providers use APIs to pull data securely from Skytap systems, but not all of the data is usable for benchmarking purposes, and only usable data is anonymized or de-identified, and all of the raw data is promptly, and security destroyed.
-10. Obtain and verify background checks on job applicants and employees \*.
-11. Evaluate, make, and communicate decisions regarding an employee’s employment, including decisions to hire, terminate, promote, demote, transfer, suspend or discipline.
-12. Grant employees access to secure Skytap facilities and maintain information on who accessed the facility.
-13. Implement, monitor, and manage electronic security measures on employee devices that are used to access Skytap networks and systems.
-14. Engage in corporate transactions requiring review of employee records, such as for evaluating potential mergers and acquisitions of the Skytap.
-15. Respond to employment verification requests (such as pre-employment, loan, or government agency inquiries).
-
-\*Background checks actually are performed by a third party who is responsible for any obligations under CCPA/CPRA related to Personal Data submitted by the applicant to the background check provider for purposes of the background check.
-
 ### CCPA/CPRA Privacy Notice Skytap General Disclosures and Your Rights
 
 This privacy notice section for California residents supplements the information contained in Skytap’s Privacy Policy and it applies solely to all visitors, users, and others who reside in the State of California.
@@ -449,7 +378,7 @@ Please note that the categories and examples provided in the list below are thos
 #### Category B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
 
 **Examples:** A name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. Some personal information included in this category may overlap with other categories.  
-**Collected:** Yes, and see Specific Disclosure above related to Employees and Candidates for Employment, as the only categories of Consumers from whom Skytap or third parties Service Providers acting for Skytap collect these categories of Personal Information.
+**Collected:** Yes.
 
   
 
@@ -495,28 +424,21 @@ Please note that the categories and examples provided in the list below are thos
 
   
 
-#### Category I: Professional or employment-related information.
-
-**Examples:** Current or past job history or performance evaluations.  
-**Collected:** Yes.
-
-  
-
-#### Category J: Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+#### Category I: Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
 
 **Examples:** Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.  
 **Collected:** No.
 
   
 
-#### Category K: Inferences drawn from other personal information.
+#### Category J: Inferences drawn from other personal information.
 
 **Examples:** Profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.  
 **Collected:** No.
 
   
 
-#### Category L: Sensitive personal information.
+#### Category K: Sensitive personal information.
 
 **Example:** Social Security Number (or international equivalent)…  
 **Collected:** Yes.
@@ -742,10 +664,10 @@ To request removal of such data, and if you are a California resident, you can c
 
 By Mail or Express Delivery to:
 
-Attention General Counsel
+Attention Legal Department
 
 Skytap, Inc.  
-255 South Main Street, Suite 800  
+255 S. King St., Suite 800  
 Seattle, WA 98104
 
 Toll-free number [1 888-759-8278](tel:1888-759-8278) (press option 3 to leave your message for Skytap Privacy)
@@ -784,7 +706,7 @@ Skytap is committed to fulfilling its responsibilities under Canada’s Personal
 * [About Us](https://www.skytap.com/about-us/ "About Us")
 * [Press Releases](https://www.skytap.com/press-releases/ "Press Releases")
 * [Partners](https://www.skytap.com/tech-partners/ "Partners")
-* [Careers](https://jobs.jobvite.com/skytap/ "Careers")
+* [Careers](https://www.kyndryl.com/careers "Careers")
 * [Legal](https://www.skytap.com/terms/ "Legal")
 * [Privacy Policy](https://www.skytap.com/terms/privacy-policy/ "Privacy Policy")
 
