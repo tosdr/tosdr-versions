@@ -23,11 +23,11 @@
 * Languages
     
 
-[Book demo call](https://smartproxy.com/legal/#contact-sales)[Log in](https://dashboard.smartproxy.com/login)[Create account](https://dashboard.smartproxy.com/register)
+[Enterprise inquiries](#contact-sales)[Log in](https://dashboard.smartproxy.com/login)[Create account](https://dashboard.smartproxy.com/register)
 
 * [Create account](https://dashboard.smartproxy.com/register)
 * [Log in](https://dashboard.smartproxy.com/login)
-* [Book demo call](https://smartproxy.com/legal/#contact-sales)
+* [Enterprise inquiries](#contact-sales)
 
 [](https://trustpilot.com/review/smartproxy.com)
 
@@ -38,11 +38,7 @@
 Privacy Policy
 ==============
 
-We (“Smartproxy”) are committed to respecting your privacy and protecting the personal data you share with us and that we collect about you.
-
-This Privacy Policy (“Policy”) tells you about how we process your personal data. It also provides more information about your privacy rights and how the law protects you. In all cases mentioned in this Policy Smartproxy is your personal data controller.
-
-All questions related to this Policy or your privacy can be addressed to [\[email protected\]](https://smartproxy.com/cdn-cgi/l/email-protection).
+UAB “Data troops”, legal entity code: 305893779, registered address: Antakalnio str. 17, Vilnius, Lithuania and its affiliated companies (hereinafter – „ Smartproxy“, „we“, “our” or “us”) take your privacy very seriously. Please consult this Privacy Policy to learn about how we collect, store, use, and disclose your personal data.
 
 ![](data:image/svg+xml;charset=utf-8,%3Csvg height='150' width='150' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
 
@@ -229,7 +225,7 @@ Cookies on our website can be classified to session or persistent cookies. Sessi
     
 * personalization\_id
     
-* This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+* This cookie is set by X.com - The cookie allows the visitor to share content from the website onto their X.com profile.
     
 * 2 years
     
@@ -328,7 +324,7 @@ Cookies on our website can be classified to session or persistent cookies. Sessi
     
 * i/adsct
     
-* The cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+* The cookie is used by X.com in order to determine the number of visitors accessing the website through X.com advertisement content.
     
 * Session
     
@@ -568,7 +564,7 @@ You can control and/or delete cookies as you wish. You can delete all cookies th
 
 The content of the table above is for your general information and use only. Cookies are subject to change without notice. You acknowledge that this information may contain inaccuracies or errors and is subject to change and we expressly exclude liability for any such inaccuracies or errors fully permitted by law.
 
-**This Policy was updated on: March 21, 2019**
+**This Policy was updated on: July 10th, 2024**
 
 Get in touch
 
@@ -576,7 +572,7 @@ Get in touch
 
 Follow us
 
-[](https://www.youtube.com/smartproxy)[](https://www.reddit.com/r/Smartproxy/)[](https://github.com/Smartproxy)[](https://www.linkedin.com/company/smartproxy/)[](https://discord.gg/gvJhWJPaB4)
+[](https://www.youtube.com/smartproxy)[](https://github.com/Smartproxy)[](https://www.linkedin.com/company/smartproxy/)[](https://discord.gg/gvJhWJPaB4)
 
 Company
 
@@ -588,12 +584,14 @@ Company
 * [License agreement](https://smartproxy.com/legal/license-agreement)
 * [Affiliate program](https://smartproxy.com/proxy-affiliate-program)
 * [Referral program](https://smartproxy.com/deals/referral-program)
-* [Ethical sourcing & usage](https://smartproxy.com/lp/ethical-residential-proxy-sourcing-and-usage)
+* [Ethical sourcing & usage](https://smartproxy.com/proxies/ethical-residential-proxy-sourcing-and-usage)
 
 Products
 
 * [Proxies](https://smartproxy.com/proxies)
 * [Scrapers](https://smartproxy.com/scraping)
+* [Site Unblocker](https://smartproxy.com/proxies/site-unblocker)
+* [Free tools](https://smartproxy.com/apps)
 
 General
 
@@ -601,6 +599,7 @@ General
 * [Billing](https://smartproxy.com/faq/billing)
 * [Getting started](https://smartproxy.com/faq/getting-started)
 * [Documentation](https://help.smartproxy.com/docs)
+* [Blog](https://smartproxy.com/blog)
 * [Glossary](https://smartproxy.com/glossary)
 
 © 2018-2024 smartproxy.com, All Rights Reserved
