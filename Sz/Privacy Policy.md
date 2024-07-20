@@ -16,13 +16,13 @@ Datenschutz
 Datenschutzhinweise
 ===================
 
-03.06.2024
+02.07.2024
 
 Wenn Sie ein Angebot der Süddeutschen Zeitung als SZ Plus-Abonnent:in nutzen, verarbeitet die Süddeutsche Zeitung GmbH Ihre personenbezogenen Daten. Mit diesen Datenschutzhinweisen informieren wir Sie, wie und warum wir Ihre Daten verarbeiten und wie wir gewährleisten, dass sie vertraulich bleiben und geschützt sind. Wenn Sie Abonnent:in der gedruckten SZ sind, finden Sie die entsprechenden Datenschutzhinweise der dann einschlägigen Datenverarbeitungen unter den Punkten [Vertragsabwicklung](#Bestellen), [Kommunikation](#Kommunikation) und [Werbung für unsere Produkte](#Direktwerbung)
 
 Wenn Sie SZ.de nutzen, indem Sie nach dem Aufrufen der Webseite einen Vertrag mit Werbung abschließen bzw. abgeschlossen haben, finden Sie die in diesem Fall geltenden Datenschutzhinweise [hier](https://www.swmh-datenschutz.de/sz_vertragmitwerbung).
 
-[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.17/sz.pdf)
+[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.19/sz.pdf)
 
 Die wichtigsten Themen auf einen Blick
 
@@ -227,6 +227,8 @@ Der Dienst Google Tag Manager ist ein Organisationstool und ermöglicht es uns, 
 #### Sourcepoint
 
 Um Ihre datenschutzrechtliche Einwilligung einholen und speichern zu können, verwenden wir die Consent Management Plattform von Sourcepoint (Sourcepoint Technologies, Inc., 228 Park Avenue South, #87903, New York, NY 10003-1502, United States). Diese setzt unbedingt erforderliche Cookies, um den Consent-Status abfragen und damit entsprechende Inhalte ausspielen zu können.
+
+Die Daten werden maximal 13 Monate gespeichert.
 
 | Cookie | Zweck | Laufzeit | Art |
 | --- | --- | --- | --- |
@@ -701,6 +703,8 @@ Um Ihnen Werbung für unsere eigenen Produkte zeigen zu können, nutzen wir Dien
 
 Werbeanzeigen können dabei auf den jeweiligen Nutzer angepasst sein, indem beispielsweise Informationen des Browsers zur Nutzung (wie etwa besuchte Seiten, Besuchszeiten, Verweildauer) herangezogen werden. Aber auch nutzerbezogene Werbeeinblendungen sind möglich. Darüber hinaus können Auswertungen zur Reichweite oder zu Abrechnungszwecken in pseudonymisierter Form vorgenommen werden. Die Einzelheiten zu den eingesetzten Diensten, Kooperationspartnern und einzelnen Widerspruchsmöglichkeiten haben wir nachstehend für Sie dargestellt.
 
+Um zählen zu können, wie oft Sie eine gewisse Anzahl an Eigenanzeigen angezeigt bekommen haben, um dann diese Eigenanzeigen nicht mehr oder andere Eigenanzeigen ausspielen zu können, verwenden wir das Cookie \_ _pcfe._ Dieses Cookie speichert bis zu 30 Interaktionen jeder Art. Das Cookie wird nach 90 Tagen gelöscht.
+
 Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
 
 Eine Übersicht aller von uns eingesetzten Tools und Cookies sowie eine Widerrufsmöglichkeit erhalten Sie, wenn Sie am Fuß der besuchten Website auf Datenschutz-Einstellungen klicken.
@@ -789,6 +793,12 @@ Dass Sie mit einem Outbrain-Widget verbunden sind, erkennen Sie an dem Text, der
 ### Messung der Conversion
 
 Um zu erfahren, ob und wie wirksam unsere Werbung für eigene Produkte ist, setzen wir Konversionsmessung ein, indem wir ein Conversion-Tracking-Tag oder Code-Snippet in unsere digitalen Produkte einbinden. Wenn Sie unsere Anzeigen ansehen, wird auf Ihrem Computer oder Mobilgerät ein temporäres Cookie gespeichert. Sobald Sie eine Aktion abschließen, erkennt unser System das Cookie und wir erfassen eine Conversion.
+
+Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
+
+### Erfolgsmessung von Kampagnen
+
+Um messen zu können, wie viele Nutzer auf eine bestimmte Werbe-Kampagne für unsere Produkte und Angebote reagiert und diese bestellt haben, nutzen wir einen URL-Parameter, der auch ein Cookie (tpcc\_) setzt. Das Cookie wird nach 90 Tagen gelöscht.
 
 Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
 
