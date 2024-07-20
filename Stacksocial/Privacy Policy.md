@@ -5,7 +5,7 @@ Click below to view deal
 
 [View Deal](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
-[Limited-Time Offer! Babbel for $149.97 for Life!](https://stacksocial.com/sales/babbel-language-learning-lifetime-subscription-all-languages)
+[Lowest Price Ever! Babbel for $129.97!](https://stacksocial.com/sales/babbel-language-learning-lifetime-subscription-all-languages)
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
@@ -15,6 +15,7 @@ Click below to view deal
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
+* [Deal Days](https://stacksocial.com/collections/deal-days)
 * Apps & Software
 * Online Courses
 * [Lifetime Subscriptions](https://stacksocial.com/collections/lifetime-subscriptions)
@@ -26,10 +27,10 @@ Click below to view deal
 * [Freebies](https://stacksocial.com/free)
 * [Expert Picks](https://stacksocial.com/articles)
 * [Login](https://stacksocial.com/sign_in?source=lower+footer+login+link)
-* [Contact](https://support.stacksocial.com/hc/en-us/requests/new?source=lower+footer+contact+link&publisher_id=1&publisher_logo=https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg&persona=StackSocial)
-* [Shipping](https://support.stacksocial.com/hc/en-us/categories/360000641992-Shipping?source=lower+footer+shipping+link&publisher_id=1&publisher_logo=https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg&persona=StackSocial)
-* [FAQs](https://support.stacksocial.com/hc/en-us?source=lower+footer+FAQs+link&publisher_id=1&publisher_logo=https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg&persona=StackSocial)
-* [Return and Refund Policy](https://support.stacksocial.com/hc/en-us/sections/360001586811-Refunds-and-Returns?source=lower+footer+returns+link&publisher_id=1&publisher_logo=https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg&persona=StackSocial)
+* [Contact](https://stacksocial.com/contact)
+* [Shipping](https://stacksocial.com/help?g=Shipping%20and%20Tracking)
+* [FAQs](https://stacksocial.com/help)
+* [Return and Refund Policy](https://stacksocial.com/help?a=Refund-and-Cancelation-Policy-Digital-Voucher-or-License-Code---id--B0X7NJrVSHak1qte86iODw)
 
 * Apps & Software
 * [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
@@ -73,6 +74,8 @@ Click below to view deal
 * [Outdoors](https://stacksocial.com/collections/lifestyle/outdoors)
 * [Other](https://stacksocial.com/collections/lifestyle/other)
 
+* * [Deal Days](https://stacksocial.com/collections/deal-days)
+    
 * * [Apps & Software](https://stacksocial.com/collections/apps-software)
     * * [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
         * [Business](https://stacksocial.com/collections/apps-software/business)
@@ -305,13 +308,13 @@ Sign Up
 
 Customer Care
 
-* [My Order](https://support.stacksocial.com/hc/en-us/sections/360001580291-My-Order?source=lower+footer+my+order+link)
-* [Digital Redemption](https://support.stacksocial.com/hc/en-us/sections/360001562812-Digital-Product-Redemption?source=lower+footer+digital+redemption+link)
+* [My Order](https://stacksocial.com/help)
+* [Digital Redemption](https://stacksocial.com/help?g=Digital%2C%20eLearning%2C%20Software%2C%20and%20Subscription%20Purchases%20and%20Order%20Information)
 * [Login](https://stacksocial.com/sign_in?source=lower+footer+login+link)
-* [Contact Us](https://support.stacksocial.com/hc/en-us/requests/new?source=lower+footer+contact+link)
-* [FAQs](https://support.stacksocial.com/hc/en-us?source=lower+footer+FAQs+link)
+* [Contact Us](https://stacksocial.com/contact)
+* [FAQs](https://stacksocial.com/help)
 
-* [Returns & Refunds](https://support.stacksocial.com/hc/en-us/sections/360001586811-Refunds-and-Returns?source=lower+footer+returns+link)
+* [Returns & Refunds](https://stacksocial.com/help?a=Refund-and-Cancelation-Policy-Digital-Voucher-or-License-Code---id--B0X7NJrVSHak1qte86iODw)
 * [Terms & Conditions](https://stacksocial.com/terms)
 * [Accessibility](https://stacksocial.com/accessibility)
 * [Do Not Sell My Personal Information](https://stacksocial.com/user?show=info-request-tab)
