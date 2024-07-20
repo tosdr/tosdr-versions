@@ -15,7 +15,7 @@ Menu icon Menu
     * [Hand Care](https://www.soapboxsoaps.com/collections/hand-care)
         * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
         * [Foaming Hand Soap](https://www.soapboxsoaps.com/collections/foaming-hand-soap)
-        * [Lotion](https://www.soapboxsoaps.com/collections/hand-cream)
+        * [Lotion](https://www.soapboxsoaps.com/collections/body-lotion)
         * [Refill Hand Soap](https://www.soapboxsoaps.com/collections/refill-hand-soap)
     * [Hair Care](https://www.soapboxsoaps.com/collections/haircare)
         * [Shampoos](https://www.soapboxsoaps.com/collections/shampoos)
@@ -26,7 +26,7 @@ Menu icon Menu
         * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
     * [Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
         * [Body Washes](https://www.soapboxsoaps.com/collections/body-wash)
-        * [Lotions](https://www.soapboxsoaps.com/collections/hand-cream)
+        * [Lotions](https://www.soapboxsoaps.com/collections/body-lotion)
         * [Bar Soaps](https://www.soapboxsoaps.com/collections/bar-soap)
         * [Bath Bombs](https://www.soapboxsoaps.com/collections/bath-bombs)
         * [Body Scrubs](https://www.soapboxsoaps.com/collections/body-scrubs)
@@ -72,7 +72,7 @@ Search icon Search
         
         * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
         * [Foaming Hand Soap](https://www.soapboxsoaps.com/collections/foaming-hand-soap)
-        * [Lotion](https://www.soapboxsoaps.com/collections/hand-cream)
+        * [Lotion](https://www.soapboxsoaps.com/collections/body-lotion)
         * [Refill Hand Soap](https://www.soapboxsoaps.com/collections/refill-hand-soap)
     * [Hair Care](https://www.soapboxsoaps.com/collections/haircare)
         
@@ -89,7 +89,7 @@ Search icon Search
         Chevron down icon Bath & Body Care
         
         * [Body Washes](https://www.soapboxsoaps.com/collections/body-wash)
-        * [Lotions](https://www.soapboxsoaps.com/collections/hand-cream)
+        * [Lotions](https://www.soapboxsoaps.com/collections/body-lotion)
         * [Bar Soaps](https://www.soapboxsoaps.com/collections/bar-soap)
         * [Bath Bombs](https://www.soapboxsoaps.com/collections/bath-bombs)
         * [Body Scrubs](https://www.soapboxsoaps.com/collections/body-scrubs)
