@@ -135,35 +135,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/cdp_hero2024z/ "CDP: HERO 2024 – Wake Up: Everybody is Here!")
+[](https://ygorganization.com/july-14th-2024-deck-recipes/ "July 14th, 2024 [Deck Recipes]")
 
-#### [CDP: HERO 2024 – Wake Up: Everybody is Here!](https://ygorganization.com/cdp_hero2024z/)
+#### [July 14th, 2024 \[Deck Recipes\]](https://ygorganization.com/july-14th-2024-deck-recipes/)
 
-June 15, 2024
+July 14, 2024
 
-[](https://ygorganization.com/artwork-post-fly-with-union-pilot-and-new-six-samurai/ "[Artwork Post] Fly with “Union Pilot” and New “Six Samurai”")
+[](https://ygorganization.com/artwork-post-bringers-of-destruction-azamina-and-explore-the-dungeon-of-mimighoul/ "[Artwork Post] Bringers of Destruction “Azamina” and Explore the Dungeon of “Mimighoul”")
 
-#### [\[Artwork Post\] Fly with “Union Pilot” and New “Six Samurai”](https://ygorganization.com/artwork-post-fly-with-union-pilot-and-new-six-samurai/)
+#### [\[Artwork Post\] Bringers of Destruction “Azamina” and Explore the Dungeon of “Mimighoul”](https://ygorganization.com/artwork-post-bringers-of-destruction-azamina-and-explore-the-dungeon-of-mimighoul/)
 
-June 15, 2024
+July 14, 2024
 
-[](https://ygorganization.com/whatifthecrossoverisisekai/ "The Three Core Themes For Crossover Breakers Revealed! [DBCB]")
+[](https://ygorganization.com/the-october-2024-ranking-duel-playmat-ocg/ "The October 2024 Ranking Duel Playmat [OCG]")
 
-#### [The Three Core Themes For Crossover Breakers Revealed! \[DBCB\]](https://ygorganization.com/whatifthecrossoverisisekai/)
+#### [The October 2024 Ranking Duel Playmat \[OCG\]](https://ygorganization.com/the-october-2024-ranking-duel-playmat-ocg/)
 
-June 14, 2024
+July 14, 2024
 
-[](https://ygorganization.com/artwork-post-the-return-of-turu-purun-and-next-morganite/ "[Artwork Post] The return of Turu-Purun and Next Morganite")
+[](https://ygorganization.com/theimpulsetobuydragonwaifus/ "[ROTA] Solemnly Warn your Opponent with “Dominus Impulse”")
 
-#### [\[Artwork Post\] The return of Turu-Purun and Next Morganite](https://ygorganization.com/artwork-post-the-return-of-turu-purun-and-next-morganite/)
+#### [\[ROTA\] Solemnly Warn your Opponent with “Dominus Impulse”](https://ygorganization.com/theimpulsetobuydragonwaifus/)
 
-June 14, 2024
+July 14, 2024
 
-[](https://ygorganization.com/notevendeathistheend/ "Praise Be To The Finale With “End-Exalting Morganite”! [ROTA]")
+[](https://ygorganization.com/despitetheimageheisnotaprize/ "[MERCHANDISE] June-July Crane Game Prizes")
 
-#### [Praise Be To The Finale With “End-Exalting Morganite”! \[ROTA\]](https://ygorganization.com/notevendeathistheend/)
+#### [\[MERCHANDISE\] June-July Crane Game Prizes](https://ygorganization.com/despitetheimageheisnotaprize/)
 
-June 13, 2024
+July 14, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
