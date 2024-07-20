@@ -6,458 +6,45 @@ Warning! Please enable JavaScript. Our site will not display information or func
 
 [Skip to content](#skipToContentAnchor)
 
+Menu
+
+[Home page](https://www.rcwilley.com/)
+
 (Set Home Store)
 
 [Locations](https://www.rcwilley.com/Store-Locations)
 
-[Make a payment](https://www.rcwilley.com/account/Start-Payment-Action)
+[Make a Payment](https://www.rcwilley.com/account/Start-Payment-Action)
 
-[Contact](https://www.rcwilley.com/Contact-Us)
+_! Set Local Home Store_
 
-[Help](#)
+Support
 
-* [Extended Warranties](https://www.rcwilley.com/Warranty)
-* [Satisfaction Guarantee](https://www.rcwilley.com/Policies)
-* [Low Price Guarantee](https://www.rcwilley.com/Policies)
-* [Payment Plan Details](https://www.rcwilley.com/financing/RC-Willey-Financing)
-* [Apply For Credit](https://www.rcwilley.com/Credit-Application-Apply)
-* [Rebate Center](https://www.rcwilley.com/Rebate-Center)
-* [Check Delivery Time](https://www.rcwilley.com/Track-Order-Action)
-* [Appliance Help](https://www.rcwilley.com/Appliance-Help)
-* [Schedule an Appointment](https://www.rcwilley.com/Schedule-An-Appointment)
-* [Contact Us](https://www.rcwilley.com/Contact-Us)
-* [Winner's Circle](https://www.rcwilley.com/View-Winners-Circle)
-* [Current Contests](https://www.rcwilley.com/Current-Contests)
-* [Contest Rules](https://www.rcwilley.com/Contest-Rules)
-* [Ads](https://www.rcwilley.com/Ads)
-* [Enter Contest](https://www.rcwilley.com/Current-Contests)
-* [Unsubscribe](https://www.rcwilley.com/Unsubscribe)
+Support
 
-Menu [Home Store](#homeStorePopup) [Home page](https://www.rcwilley.com/)
-
-* [Furniture
-    ---------](https://www.rcwilley.com/Furniture/Search)Open Furniture Dropdown
-    
-    * ###  [Living Room](https://www.rcwilley.com/Living-Room/Furniture/Search)
-        
-        * [Living Room Sets](https://www.rcwilley.com/Furniture/Living-Room-Sets/Search)
-        * [Sectionals](https://www.rcwilley.com/Furniture/Sectionals/Search)
-        * [Sofas](https://www.rcwilley.com/Furniture/Sofas/Search)
-        * [Loveseats](https://www.rcwilley.com/Furniture/Loveseats/Search)
-        * [Recliners](https://www.rcwilley.com/Furniture/Chairs/Recliners/Search)
-        * [Chairs](https://www.rcwilley.com/Furniture/Chairs/Search)
-        * [Coffee Tables](https://www.rcwilley.com/Furniture/Tables/Coffee-Tables/Search)
-        * [End Tables](https://www.rcwilley.com/Furniture/Tables/End-Tables/Search)
-        * [Sofa Tables](https://www.rcwilley.com/Furniture/Tables/Sofa-Tables/Search)
-        * [TV Stands](https://www.rcwilley.com/Furniture/TV-Stands/Search)
-        * [Entertainment Centers](https://www.rcwilley.com/Furniture/Entertainment-Centers/Search)
-        * [Shop All Living Room](https://www.rcwilley.com/Living-Room/Furniture/Search)
-    * ###  [Bedroom](https://www.rcwilley.com/Bedroom/Furniture/Search)
-        
-        * [Beds](https://www.rcwilley.com/Furniture/Beds/Search)
-        * [Headboards](https://www.rcwilley.com/Furniture/Headboards/Search)
-        * [Bedding](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Search)
-        * [Nightstands](https://www.rcwilley.com/Furniture/Nightstands/Search)
-        * [Dressers](https://www.rcwilley.com/Furniture/Dressers/Search)
-        * [Chests](https://www.rcwilley.com/Furniture/Chests-of-Drawers/Search)
-        * [Kids Bedroom](https://www.rcwilley.com/Bedroom/Search?t=01440)
-        * [Nursery](https://www.rcwilley.com/Nursery/Search)
-        * [Mattresses](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search)
-        * [Shop All Bedroom](https://www.rcwilley.com/Bedroom/Furniture/Search)
-    * ###  [Dining Room](https://www.rcwilley.com/Dining-Room/Furniture/Search)
-        
-        * [Dining Room Sets](https://www.rcwilley.com/Furniture/Dining-Room-Sets/Search)
-        * [Dining Tables](https://www.rcwilley.com/Furniture/Tables/Dining-Tables/Search)
-        * [Dining Chairs](https://www.rcwilley.com/Dining-Room/Furniture/Chairs/Search)
-        * [Stools](https://www.rcwilley.com/Furniture/Stools/Search)
-        * [Dining Benches](https://www.rcwilley.com/Furniture/Benches/Dining-Benches/Search)
-        * [Buffets](https://www.rcwilley.com/Furniture/Cabinets/Buffets/Search)
-        * [Bar Cabinets](https://www.rcwilley.com/Furniture/Cabinets/Bar-Wine-Cabinets/Search)
-        * [Curio Cabinets](https://www.rcwilley.com/Furniture/Cabinets/Curio-Cabinets/Search)
-        * [Shop All Dining Room](https://www.rcwilley.com/Dining-Room/Furniture/Search)
-    * ###  [Home Office](https://www.rcwilley.com/Home-Office/Furniture/Search)
-        
-        * [Desks](https://www.rcwilley.com/Furniture/Desks/Search)
-        * [Office Chairs](https://www.rcwilley.com/Home-Office/Furniture/Chairs/Search)
-        * [Bookcases](https://www.rcwilley.com/Furniture/Bookcases/Search)
-        * [Filing Cabinets](https://www.rcwilley.com/Furniture/Cabinets/Filing-Cabinets/Search)
-        * [Storage & Organization](https://www.rcwilley.com/Home-Office/Furniture/Storage-Organization/Search)
-        * [Safes](https://www.rcwilley.com/Furniture/Storage-Organization/Safes/Search)
-        * [Shop All Home Office](https://www.rcwilley.com/Home-Office/Furniture/Search)
-    * ###  [Outdoor](https://www.rcwilley.com/Outdoor/Search)
-        
-        * [Outdoor Living](https://www.rcwilley.com/Outdoor-Living/Outdoor/Search)
-        * [Outdoor Dining](https://www.rcwilley.com/Outdoor-Dining/Outdoor/Search)
-        * [Patio Sets](https://www.rcwilley.com/Outdoor/Patio-Furniture/Patio-Seating-Sets/Search)
-        * [Fire Pits](https://www.rcwilley.com/Outdoor/Patio-Furniture/Fire-Pits/Search)
-        * [Shop All Outdoor](https://www.rcwilley.com/Outdoor/Search)
-    * ###  [Entryway](https://www.rcwilley.com/Entryway/Furniture/Search)
-        
-        * [Accent Furniture](https://www.rcwilley.com/Furniture/Accent-Furniture/Search)
-        * [Accent Chairs](https://www.rcwilley.com/Furniture/Chairs/Accent-Chairs/Search)
-        * [Benches](https://www.rcwilley.com/Furniture/Benches/Search)
-        * [Storage & Organization](https://www.rcwilley.com/Entryway/Furniture/Storage-Organization/Search)
-        * [Hall Trees](https://www.rcwilley.com/Furniture/Storage-Organization/Racks/Hall-Trees/Search)
-        * [Shop All Entryway](https://www.rcwilley.com/Entryway/Furniture/Search)
-    * ###  [Home Décor](https://www.rcwilley.com/Furniture/Home-Decor/Search)
-        
-        * [Rugs](https://www.rcwilley.com/Furniture/Rugs/Search)
-        * [Wall Décor](https://www.rcwilley.com/Furniture/Home-Decor/Wall-Decor/Search)
-        * [Mirrors](https://www.rcwilley.com/Furniture/Home-Decor/Mirrors/Search)
-        * [Lighting](https://www.rcwilley.com/Furniture/Home-Decor/Lighting/Search)
-        * [Pillows & Throws](https://www.rcwilley.com/Furniture/Home-Decor/Throws/Pillows/Search)
-        * [Shop All Home Décor](https://www.rcwilley.com/Furniture/Home-Decor/Search)
-    * ### [Online Exclusives](https://www.rcwilley.com/Online-Exclusives/Search)
-        
-        * [Bedroom](https://www.rcwilley.com/Online-Exclusives/Bedroom/Search)
-        * [Living Room](https://www.rcwilley.com/Online-Exclusives/Living-Room/Search)
-        * [Dining Room](https://www.rcwilley.com/Online-Exclusives/Dining-Room/Search)
-        * [Home Office](https://www.rcwilley.com/Online-Exclusives/Home-Office/Search)
-        * [Nursery](https://www.rcwilley.com/Online-Exclusives/Nursery/Search?t=01442)
-        * [Shop All Online Exclusives](https://www.rcwilley.com/Online-Exclusives/Search)
-    
-    [### 0% interest financing for 12 or 18 months
-    
-    Get approved in minutes!](https://www.rcwilley.com/financing/RC-Willey-Financing)[### Get more with Blue Rewards
-    
-    Annual membership earns rebates, special offers, free delivery & more!](https://www.rcwilley.com/RC-Willey-Blue-Rewards)[### Home delivery & shipping
-    
-    Local and nationwide.](https://www.rcwilley.com/Delivery-Options)[### Shop the Outlet
-    
-    Everyday Low Prices](https://www.rcwilley.com/Outlet/Search)[### Check Out our Ads
-    
-    Never miss another deal.](https://www.rcwilley.com/Ads)
-    
-* [Appliances
-    ----------](https://www.rcwilley.com/Appliances/Search)Open Appliances Dropdown
-    
-    * ###  [Kitchen](https://www.rcwilley.com/Kitchen/Appliances/Search)
-        
-        * [Kitchen Appliance Packages](https://www.rcwilley.com/Appliances/Kitchen-Appliance-Packages/Search)
-        * [Refrigerators](https://www.rcwilley.com/Appliances/Refrigerators/Search)
-        * [Freezers](https://www.rcwilley.com/Appliances/Freezers/Search)
-        * [Dishwashers](https://www.rcwilley.com/Appliances/Dishwashers/Search)
-        * [Ranges](https://www.rcwilley.com/Appliances/Cooking/Ranges/Search)
-        * [Wall Ovens](https://www.rcwilley.com/Appliances/Cooking/Wall-Ovens/Search)
-        * [Cooktops](https://www.rcwilley.com/Appliances/Cooking/Cooktops/Search)
-        * [Microwaves](https://www.rcwilley.com/Appliances/Cooking/Microwaves/Search)
-        * [Range Hoods](https://www.rcwilley.com/Appliances/Cooking/Range-Hoods/Search)
-        * [Shop All Kitchen](https://www.rcwilley.com/Kitchen/Appliances/Search)
-    * ###  [Laundry](https://www.rcwilley.com/Appliances/Laundry/Search)
-        
-        * [Washer & Dryer Sets](https://www.rcwilley.com/Appliances/Laundry/Washer-Dryer-Sets/Search)
-        * [Washing Machines](https://www.rcwilley.com/Appliances/Laundry/Washing-Machines/Search)
-        * [Top Load Washers](https://www.rcwilley.com/Appliances/Laundry/Top-Load/Search)
-        * [Front Load Washers](https://www.rcwilley.com/Appliances/Laundry/Front-Load/Search)
-        * [Dryers](https://www.rcwilley.com/Appliances/Laundry/Dryers/Search)
-        * [Electric Dryers](https://www.rcwilley.com/Appliances/Laundry/Dryers/Search?t=01484)
-        * [Gas Dryers](https://www.rcwilley.com/Appliances/Laundry/Dryers/Search?t=01485)
-        * [Washer Dryer Combos](https://www.rcwilley.com/Appliances/Laundry/Laundry-Centers/Search)
-        * [Laundry Pedestals](https://www.rcwilley.com/Appliances/Laundry/Pedestals/Search)
-        * [Laundry Accessories](https://www.rcwilley.com/Appliances/Laundry-Accessories/Search)
-        * [Shop All Laundry](https://www.rcwilley.com/Appliances/Laundry/Search)
-    * ###  [Small Appliances](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Search)
-        
-        * [Blenders](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Blenders/Search)
-        * [Toasters](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Toasters/Search)
-        * [Mixers](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Mixers/Search)
-        * [Air Fryers](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Air-Fryers/Search)
-        * [Ice Makers](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Ice-Makers/Search)
-        * [Coffee Makers](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Coffee-Makers/Search)
-        * [Shop All Small Appliances](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Search)
-    * ### [Brands](https://www.rcwilley.com/Appliances/Search)
-        
-        * [Samsung](https://www.rcwilley.com/Samsung/Appliances/Search)
-        * [Whirlpool](https://www.rcwilley.com/Whirlpool/Search)
-        * [LG](https://www.rcwilley.com/LG/Appliances/Search)
-        * [GE](https://www.rcwilley.com/General-Electric/Search)
-        * [Frigidaire](https://www.rcwilley.com/Frigidaire/Search)
-        * [KitchenAid](https://www.rcwilley.com/KitchenAid/Search)
-        * [Cafe](https://www.rcwilley.com/Cafe/Search)
-        * [GE Profile](https://www.rcwilley.com/GE-Profile/Appliances/Search)
-        * [Bosch](https://www.rcwilley.com/Bosch/Search)
-        * [Maytag](https://www.rcwilley.com/Maytag/Appliances/Search)
-        * [Shop All Brands](https://www.rcwilley.com/Appliances/Search)
-    * ###  [Heating, Cooling & Air Quality](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Search)
-        
-        * [Air Conditioners](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Air-Conditioners/Search)
-        * [Fans](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Fans/Search)
-        * [Heaters](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Heaters/Search)
-        * [Air Purifiers](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Air-Purifiers/Search)
-        * [Water Treatment](https://www.rcwilley.com/Appliances/Water-Treatment/Search)
-        * [Shop All Heating, Cooling & Air Quality](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Search)
-    * ###  [Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Search)
-        
-        * [Upright Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Upright/Search)
-        * [Stick Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Stick/Search)
-        * [Robot Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Robot/Search)
-        * [Vacuum Accessories](https://www.rcwilley.com/Appliances/Vacuum-Floor-Care-Accessories/Search)
-        * [Shop All Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Search)
-    * ###  [Outdoor](https://www.rcwilley.com/Outdoor/Grills/Search)
-        
-        * [Outdoor Grills](https://www.rcwilley.com/Outdoor/Grills/Search)
-        * [Smokers](https://www.rcwilley.com/Outdoor/Grills/Search?t=01627)
-        * [Grill Accessories](https://www.rcwilley.com/Outdoor/Grill-Accessories/Search)
-        * [Shop All Outdoor](https://www.rcwilley.com/Outdoor/Grills/Search)
-    
-    [### 0% interest financing for 12 or 18 months
-    
-    Get approved in minutes!](https://www.rcwilley.com/financing/RC-Willey-Financing)[### Get more with Blue Rewards
-    
-    Annual membership earns rebates, special offers, free delivery & more!](https://www.rcwilley.com/RC-Willey-Blue-Rewards)[### Home delivery & shipping
-    
-    Local and nationwide.](https://www.rcwilley.com/Delivery-Options)[### Shop the Outlet
-    
-    Everyday Low Prices](https://www.rcwilley.com/Outlet/Search)[### Check Out our Ads
-    
-    Never miss another deal.](https://www.rcwilley.com/Ads)
-    
-* [Electronics
-    -----------](https://www.rcwilley.com/Electronics/Search)Open Electronics Dropdown
-    
-    * ###  [TVs](https://www.rcwilley.com/Electronics/TVs/Search)
-        
-        * [4K TVs](https://www.rcwilley.com/Electronics/TVs/4K/Search)
-        * [8K TVs](https://www.rcwilley.com/Electronics/TVs/8K/Search)
-        * [LED TVs](https://www.rcwilley.com/Electronics/TVs/LED/Search)
-        * [Mini LED TVs](https://www.rcwilley.com/Electronics/TVs/Mini-LED/Search)
-        * [OLED TVs](https://www.rcwilley.com/Electronics/TVs/OLED/Search)
-        * [QLED TVs](https://www.rcwilley.com/Electronics/TVs/QLED/Search)
-        * [50 - 59 Inch TVs](https://www.rcwilley.com/Electronics/TVs/Search?t=00411)
-        * [60 - 69 Inch TVs](https://www.rcwilley.com/Electronics/TVs/Search?t=00412)
-        * [70 - 79 Inch TVs](https://www.rcwilley.com/Electronics/TVs/Search?t=01003)
-        * [TV Mounts](https://www.rcwilley.com/Electronics/TV-Mounts/TV-Accessories/Search)
-        * [Shop All TVs](https://www.rcwilley.com/Electronics/TVs/Search)
-    * ###  [Gaming](https://www.rcwilley.com/Electronics/Gaming/Search)
-        
-        * [Arcade 1UP](https://www.rcwilley.com/Electronics/Gaming/Arcade/Search)
-        * [Playstation](https://www.rcwilley.com/Electronics/Gaming/PS5/Search)
-        * [Xbox](https://www.rcwilley.com/Electronics/Gaming/Xbox-Series-X-S/Search)
-        * [Nintendo](https://www.rcwilley.com/Electronics/Gaming/Nintendo-Switch/Search)
-        * [Video Games](https://www.rcwilley.com/Electronics/Gaming/Video-Games/Search)
-        * [Gaming Headsets](https://www.rcwilley.com/Electronics/Audio/Headphones/Gaming-Headsets/Search)
-        * [Gaming Desks](https://www.rcwilley.com/Furniture/Desks/Search?t=01803)
-        * [Gaming Chairs](https://www.rcwilley.com/Furniture/Chairs/Gaming-Chairs/Search)
-        * [Gaming Accessories](https://www.rcwilley.com/Electronics/Gaming/Gaming-Accessories/Search)
-        * [Shop All Gaming](https://www.rcwilley.com/Electronics/Gaming/Search)
-    * ###  [Fitness](https://www.rcwilley.com/Fitness/Search)
-        
-        * [eBikes](https://www.rcwilley.com/Outdoor/Electric-Bikes/Search)
-        * [Rowing Machines](https://www.rcwilley.com/Fitness/Rowing-Machines/Search)
-        * [Exercise Bikes](https://www.rcwilley.com/Fitness/Exercise-Bikes/Search)
-        * [Weight Training](https://www.rcwilley.com/Fitness/Strength-Weight-Training/Search)
-        * [Treadmills](https://www.rcwilley.com/Fitness/Treadmills/Search)
-        * [Ellipticals](https://www.rcwilley.com/Fitness/Ellipticals/Search)
-        * [Smart Watches](https://www.rcwilley.com/Electronics/Smartwatches-Bands/Search?t=01689)
-        * [Shop All Fitness](https://www.rcwilley.com/Fitness/Search)
-    * ### [Brands](https://www.rcwilley.com/Electronics/Search)
-        
-        * [Samsung](https://www.rcwilley.com/Samsung/Electronics/Search)
-        * [Sony](https://www.rcwilley.com/Sony/Search)
-        * [Apple](https://www.rcwilley.com/Apple/Electronics/Search)
-        * [Skullcandy](https://www.rcwilley.com/Skullcandy/Electronics/Search)
-        * [LG](https://www.rcwilley.com/LG/Electronics/Search)
-        * [Microsoft](https://www.rcwilley.com/Microsoft/Electronics/Search)
-        * [HP](https://www.rcwilley.com/HP/Search)
-        * [Polk](https://www.rcwilley.com/Polk/Electronics/Search)
-        * [Sonos](https://www.rcwilley.com/Sonos/Electronics/Search)
-        * [Shop All Brands](https://www.rcwilley.com/Electronics/Search)
-    * ###  [Audio](https://www.rcwilley.com/Electronics/Audio/Search)
-        
-        * [Soundbars](https://www.rcwilley.com/Electronics/Audio/Soundbars/Search)
-        * [Speakers](https://www.rcwilley.com/Electronics/Audio/Speakers/Search)
-        * [Headphones](https://www.rcwilley.com/Electronics/Audio/Headphones/Search)
-        * [Shop All Audio](https://www.rcwilley.com/Electronics/Audio/Search)
-    * ###  [Tablets](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Search)
-        
-        * [iPads](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Apple-iPads/Search)
-        * [Amazon Fire](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Amazon-Fire/Search)
-        * [Samsung Galaxy](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Samsung-Galaxy/Search)
-        * [Microsoft Surface](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Microsoft-Surface/Search)
-        * [Tablet Accessories](https://www.rcwilley.com/Electronics/Tablet-iPad-Accessories/Search)
-        * [Shop All Tablets](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Search)
-    * ###  [Computers](https://www.rcwilley.com/Electronics/Computers-Tablets/Search)
-        
-        * [Desktops](https://www.rcwilley.com/Electronics/Computers-Tablets/Desktops/Search)
-        * [Laptops](https://www.rcwilley.com/Electronics/Computers-Tablets/Laptops/Search)
-        * [Printers](https://www.rcwilley.com/Electronics/Printers/Search)
-        * [Computer Accessories](https://www.rcwilley.com/Electronics/Computer-Accessories/Search)
-        * [Shop All Computers](https://www.rcwilley.com/Electronics/Computers-Tablets/Search)
-    * ###  [Smart Home](https://www.rcwilley.com/Electronics/Smart-Home/Search)
-        
-        * [Home Security](https://www.rcwilley.com/Electronics/Cameras/Search?t=01955)
-        * [Smart Speakers](https://www.rcwilley.com/Electronics/Smart-Speakers/Search)
-        * [Smart Thermostats](https://www.rcwilley.com/Electronics/Smart-Thermostats/Search)
-        * [Smart Lighting](https://www.rcwilley.com/Electronics/Smart-Lighting/Search)
-        * [Shop All Smart Home](https://www.rcwilley.com/Electronics/Smart-Home/Search)
-    
-    [### 0% interest financing for 12 or 18 months
-    
-    Get approved in minutes!](https://www.rcwilley.com/financing/RC-Willey-Financing)[### Get more with Blue Rewards
-    
-    Annual membership earns rebates, special offers, free delivery & more!](https://www.rcwilley.com/RC-Willey-Blue-Rewards)[### Home delivery & shipping
-    
-    Local and nationwide.](https://www.rcwilley.com/Delivery-Options)[### Shop the Outlet
-    
-    Everyday Low Prices](https://www.rcwilley.com/Outlet/Search)[### Check Out our Ads
-    
-    Never miss another deal.](https://www.rcwilley.com/Ads)
-    
-* [Mattresses
-    ----------](https://www.rcwilley.com/Mattresses-Foundations/Search)Open Mattresses Dropdown
-    
-    * ###  [Size](https://www.rcwilley.com/Mattresses-Foundations/Search)
-        
-        * [California King](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/California-King/Search)
-        * [King](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/King/Search)
-        * [Queen](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Queen/Search)
-        * [Full](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Full/Search)
-        * [Twin XL](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Twin-XL/Search)
-        * [Twin](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Twin/Search)
-        * [Shop All Size](https://www.rcwilley.com/Mattresses-Foundations/Search)
-    * ###  [Type](https://www.rcwilley.com/Mattresses-Foundations/Search)
-        
-        * [Hybrid](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Hybrid/Search)
-        * [Memory Foam](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Memory-Foam/Search)
-        * [Innerspring](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Innerspring/Search)
-        * [Mattress in a Box](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Mattress-in-a-Box/Search)
-        * [Euro Top](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Euro-Top/Search)
-        * [Pillow Top](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Pillow-Top/Search)
-        * [Shop All Type](https://www.rcwilley.com/Mattresses-Foundations/Search)
-    * ###  [Bedding](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Search)
-        
-        * [Bed Pillows](https://www.rcwilley.com/Furniture/Home-Decor/Pillows/Bed-Pillows/Search)
-        * [Bedding Sets](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Bedding-Sets/Search)
-        * [Sheets & Pillow Cases](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Sheets/Search)
-        * [Comforters](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Comforters/Search)
-        * [Mattress Toppers](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Mattress-Toppers/Search)
-        * [Shop All Bedding](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Search)
-    * ### [Brands](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search)
-        
-        * [Serta](https://www.rcwilley.com/Serta/Search)
-        * [Tempur-Pedic](https://www.rcwilley.com/Tempur-Pedic/Search)
-        * [BedGear](https://www.rcwilley.com/BedGear/Search)
-        * [Sunset](https://www.rcwilley.com/Sunset/Search)
-        * [Sealy](https://www.rcwilley.com/Sealy/Search)
-        * [Aireloom](https://www.rcwilley.com/Aireloom/Search)
-        * [King Koil](https://www.rcwilley.com/King-Koil/Search)
-        * [Blue Burrito](https://www.rcwilley.com/Blue-Burrito/Search)
-        * [Health Care](https://www.rcwilley.com/Health-Care/Search)
-        * [Shop All Brands](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search)
-    * ###  [Comfort Level](https://www.rcwilley.com/Mattresses-Foundations/Search)
-        
-        * [Firm](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search?t=01530)
-        * [Medium](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search?t=01531)
-        * [Soft](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search?t=01532)
-        * [Shop All Comfort Level](https://www.rcwilley.com/Mattresses-Foundations/Search)
-    * ###  [Foundations](https://www.rcwilley.com/Mattresses-Foundations/Adjustable-Beds/Box-Spring/Bed-Frames/Search)
-        
-        * [Box Springs](https://www.rcwilley.com/Mattresses-Foundations/Box-Spring/Search)
-        * [Adjustable Beds](https://www.rcwilley.com/Mattresses-Foundations/Adjustable-Beds/Search)
-        * [Bed Frames](https://www.rcwilley.com/Mattresses-Foundations/Bed-Frames/Search)
-        * [Shop All Foundations](https://www.rcwilley.com/Mattresses-Foundations/Adjustable-Beds/Box-Spring/Bed-Frames/Search)
-    
-    [### 0% interest financing for 12 or 18 months
-    
-    Get approved in minutes!](https://www.rcwilley.com/financing/RC-Willey-Financing)[### Get more with Blue Rewards
-    
-    Annual membership earns rebates, special offers, free delivery & more!](https://www.rcwilley.com/RC-Willey-Blue-Rewards)[### Home delivery & shipping
-    
-    Local and nationwide.](https://www.rcwilley.com/Delivery-Options)[### Shop the Outlet
-    
-    Everyday Low Prices](https://www.rcwilley.com/Outlet/Search)[### Check Out our Ads
-    
-    Never miss another deal.](https://www.rcwilley.com/Ads)
-    
-* [Sale
-    ----](https://www.rcwilley.com/Sale/Search)Open Sale Dropdown
-    
-    * ###  [Furniture](https://www.rcwilley.com/Sale/Furniture/Search)
-        
-        * [Living Room Sale](https://www.rcwilley.com/Sale/Living-Room/Search)
-        * [Bedroom Sale](https://www.rcwilley.com/Sale/Bedroom/Search)
-        * [Dining Room Sale](https://www.rcwilley.com/Sale/Dining-Room/Search)
-        * [Home Office Sale](https://www.rcwilley.com/Sale/Home-Office/Search)
-        * [Entryway Sale](https://www.rcwilley.com/Sale/Entryway/Search)
-        * [Home Decor Sale](https://www.rcwilley.com/Sale/Furniture/Home-Decor/Search)
-        * [Outdoor Sale](https://www.rcwilley.com/Sale/Outdoor/Search)
-        * [Shop All Furniture](https://www.rcwilley.com/Sale/Furniture/Search)
-    * ###  [Appliances](https://www.rcwilley.com/Sale/Appliances/Search)
-        
-        * [Kitchen Appliance Sale](https://www.rcwilley.com/Sale/Kitchen/Search)
-        * [Laundry Appliance Sale](https://www.rcwilley.com/Sale/Appliances/Laundry/Search)
-        * [Small Kitchen Appliance Sale](https://www.rcwilley.com/Sale/Appliances/Small-Kitchen-Appliances/Search)
-        * [Heating & Cooling Sale](https://www.rcwilley.com/Sale/Appliances/Heating-Cooling-Air-Quality/Search)
-        * [Vacuum Sale](https://www.rcwilley.com/Sale/Appliances/Vacuums-Floor-Care/Search)
-        * [Outdoor Cooking Sale](https://www.rcwilley.com/Sale/Outdoor/Grills/Search)
-        * [Shop All Appliances](https://www.rcwilley.com/Sale/Appliances/Search)
-    * ###  [Electronics](https://www.rcwilley.com/Sale/Electronics/Search)
-        
-        * [TVs Sale](https://www.rcwilley.com/Sale/Electronics/TVs/Search)
-        * [Gaming Sale](https://www.rcwilley.com/Sale/Electronics/Gaming/Search)
-        * [Home Gym Sale](https://www.rcwilley.com/Sale/Fitness/Search)
-        * [Audio Sale](https://www.rcwilley.com/Sale/Electronics/Audio/Search)
-        * [Tablets Sale](https://www.rcwilley.com/Sale/Electronics/Computers-Tablets/Tablets/Search)
-        * [Shop All Electronics](https://www.rcwilley.com/Sale/Electronics/Search)
-    * ###  [Mattresses](https://www.rcwilley.com/Sale/Mattresses-Foundations/Mattresses/Search)
-        
-        * [Mattress Sale](https://www.rcwilley.com/Sale/Mattresses-Foundations/Mattresses/Search)
-        * [Foundation Sale](https://www.rcwilley.com/Sale/Mattresses-Foundations/Box-Spring/Search)
-        * [Shop All Mattresses](https://www.rcwilley.com/Sale/Mattresses-Foundations/Mattresses/Search)
-    * ### [Outlet](https://www.rcwilley.com/Outlet/Search)
-        
-        * [Shop All Outlet](https://www.rcwilley.com/Outlet/Search)
-    * ### [Clearance](https://www.rcwilley.com/Clearance/Search)
-        
-        * [Shop All Clearance](https://www.rcwilley.com/Clearance/Search)
-    
-    [### 0% interest financing for 12 or 18 months
-    
-    Get approved in minutes!](https://www.rcwilley.com/financing/RC-Willey-Financing)[### Get more with Blue Rewards
-    
-    Annual membership earns rebates, special offers, free delivery & more!](https://www.rcwilley.com/RC-Willey-Blue-Rewards)[### Home delivery & shipping
-    
-    Local and nationwide.](https://www.rcwilley.com/Delivery-Options)[### Shop the Outlet
-    
-    Everyday Low Prices](https://www.rcwilley.com/Outlet/Search)[### Check Out our Ads
-    
-    Never miss another deal.](https://www.rcwilley.com/Ads)
-    
+Menu
 
 Search
 
-[Account](https://www.rcwilley.com/account/Home)
+[Home page](https://www.rcwilley.com/)
 
-[Cart](https://www.rcwilley.com/Shopping-Cart)
+Furniture
 
-[Ads](https://www.rcwilley.com/Ads) [Payment Plans](https://www.rcwilley.com/financing/RC-Willey-Financing) Help
+Appliances
 
-* [Extended Warranties](https://www.rcwilley.com/Warranty)
-* [Satisfaction Guarantee](https://www.rcwilley.com/Policies)
-* [Low Price Guarantee](https://www.rcwilley.com/Policies)
-* [Financial Services](https://www.rcwilley.com/Credit)
-* [Payment Plan Details](https://www.rcwilley.com/Finance-Plans)
-* [Apply For Credit](https://www.rcwilley.com/Credit-Application-Apply)
-* [Rebate Center](https://www.rcwilley.com/Rebate-Center)
-* [Check Delivery Time](https://www.rcwilley.com/Track-Order-Action)
-* [Appliance Help](https://www.rcwilley.com/Appliance-Help)
-* [Schedule An Appointment](https://www.rcwilley.com/Schedule-An-Appointment)
-* [Contact Us](https://www.rcwilley.com/Contact-Us)
-* [Winner's Circle](https://www.rcwilley.com/View-Winners-Circle)
-* [Contest Rules](https://www.rcwilley.com/Contest-Rules)
-* [Ads](https://www.rcwilley.com/Ads)
-* [Enter Contest](https://www.rcwilley.com/Current-Contests)
-* [Unsubscribe](https://www.rcwilley.com/Unsubscribe)
+Electronics
 
-Your current home store is shown below. [See all store location details](https://www.rcwilley.com/Store-Locations)
+[Mattresses](https://www.rcwilley.com/Mattresses-Foundations/Search)
 
-homeStore Select a Store Out of Area No Local Store Draper, Utah Store Layton, Utah Store Orem, Utah Store Salt Lake City, Utah Store Henderson, Nevada Store Reno, Nevada Store Summerlin, Nevada Store Boise, Idaho Store Rocklin, California Store Sacramento, California Store Select a Store
+[Flooring](https://www.rcwilley.com/Flooring/Search)
 
-Change Store
+[Sale](https://www.rcwilley.com/Sale/Search)
 
-We were not able to detect your home store. For a better site experience please enter your zip code.
+Search
 
-Zip Code Submit
+[Login](https://www.rcwilley.com/account/Home)
+
+[_Cart Count 0_](https://www.rcwilley.com/Shopping-Cart)
 
 [RC Willey](https://www.rcwilley.com/) | Terms of Use
 
@@ -584,21 +171,33 @@ We may revise and update these Terms and Conditions from time to time at our sol
 
 * **Cooperation with Law Enforcement**. Without limiting the foregoing, we have the right to cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone submitting any materials on or through the Services.
 
-12\. Content Standards
-----------------------
+12\. Social Media & UGC
+-----------------------
 
-* **User Standards**. These content standards apply to any and all users of the Services. Users must in their entirety comply with all applicable federal, state, local, and international laws and regulations. Without limiting the foregoing, users must not use the Services to:
+* **User-Generated Content (UGC):**
 
-* Post content that contains any material that is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory, or otherwise objectionable.
-* Promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age.
-* Infringe any patent, trademark, trade secret, copyright, or other intellectual property or other rights of any other person.
-* Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms and Conditions.
-* Deceive any person.
-* Promote any illegal activity, or advocate, promote, or assist any unlawful act.
-* Cause annoyance, inconvenience, or needless anxiety or be likely to upset, embarrass, alarm, or annoy any other person.
-* Impersonate any person or misrepresent your identity or affiliation with any person or organization.
-* Involve commercial activities or sales, such as contests, sweepstakes, and other sales promotions, barter, or advertising.
-* Give the impression that they emanate from or are endorsed by us or any other person or entity if this is not the case.
+* Users can upload photos, videos, text, audio, location information, and comments directly onto our website. While RC Willey reviews content before publication, it does not endorse or support all content posted. Users retain discretion over submitted content. By uploading user-generated content to RCWilley.com, users waive all rights to exclusivity, royalties, revocation, payments, or transfers. RC Willey reserves the right to use any uploaded content in promotional emails, advertisements, print, or digital media, and may modify or combine it with other materials at its discretion. Additionally, RC Willey may utilize names, usernames, images, likenesses, captions, locations, or other identifying features submitted with the content as deemed appropriate.
+* By submitting content to RCWilley.com, users affirm ownership of all rights to their submissions. Users are solely responsible for licensing proprietary rights, including those governed by copyright, trademark, patent, or trade secret laws. Submission of content to RCWilley.com indicates that users possess all necessary licenses, rights, consents, and permissions, including those from individuals appearing in the content. Users assert that they are of legal age, entitled to use the content, and that none of the content is defamatory, libelous, obscene, pornographic, abusive, indecent, threatening, harassing, hateful, or offensive.
+* Users release RC Willey and its affiliates from liability related to the use of their submitted content.
+
+* **Linking to the Sites; Social Media Features**
+
+**Website Linking:** You may link to our Sites if it is fair, lawful, and consistent with these Terms and Conditions without damaging our reputation. You must not establish a link to our Sites that suggests any form of association, approval, or endorsement on our part without our express written consent.  
+  
+**Social Media Features:** Our website offers various social media features that allow you to:
+
+* Link from your own or third-party websites to specific content on our Sites.
+* View social media feeds.
+* Send emails or communications containing specific content or links from our Sites.
+* Display limited portions of our Site’s content on your own or third-party websites.
+
+You may use these features strictly as provided by RC Willey and solely in relation to the content they accompany, following any additional terms and conditions provided. You must not:
+
+* Establish a link from any website not owned or operated by you.
+* Frame, backlink, deep link, or inline link our Services or any portions thereof without authorization.
+* Take actions with our materials that contradict any provision of these Terms and Conditions.
+
+The website to which you link, or on which you make content accessible, must comply fully with the Content Standards outlined in these Terms and Conditions. You agree to cooperate in halting any unauthorized framing or linking immediately upon request. RC Willey reserves the right to withdraw linking permissions without notice and may disable all social media features and links at its discretion and without notice.
 
 13\. Reliance on Information / Disclaimer of Accuracy of Information
 --------------------------------------------------------------------
@@ -610,29 +209,7 @@ The information presented on or through the Services, or information provided by
 
 To learn more about the information we collect about and from you when you use our Services, please see our [Privacy Policy](https://www.rcwilley.com/privacy). By agreeing to these Terms and Conditions, you affirm you have read and understand our [Privacy Policy](https://www.rcwilley.com/privacy). The [Privacy Policy](https://www.rcwilley.com/privacy), however, is a statement of information practices only, and is not incorporated herein by reference.
 
-15\. Linking to the Sites; Social Media Features
-------------------------------------------------
-
-* **Website Linking**. You may link to our Sites, provided you do so in a way that is consistent with these Terms and Conditions, is fair, lawful, and does not damage our reputation. You may not establish a link to our Sites in such a manner so as to suggest any form of association, approval, or endorsement on our part without our express written consent.
-* **Social Media Features**. Our Website may provide certain social media features that enable you to:
-
-* Link from your own or certain third-party websites to certain content on our Sites.
-* View social media feeds of your own business or that of others.
-* Send emails or other communications with certain content, or links to certain content, on the Sites.
-* Cause limited portions of content on the Sites to be displayed or appear to be displayed on your own or certain third-party websites.
-
-* You may use these features solely as they are provided by us and solely with respect to the content they are displayed with, and otherwise in accordance with any additional terms and conditions we provide with respect to such features. Subject to the foregoing, you must not:
-
-* Establish a link from any website that is not owned by you.
-* Cause our Services, portions of the Services, it to be displayed on, or appear to be displayed by, any other site, for example, framing, back or deep linking, or in-line linking.
-* Link to any part of the Services other than the homepage.
-* Otherwise take any action with respect to the materials on the Services that is inconsistent with any other provision of these Terms and Conditions.
-
-* The website to which you are linking, or on which you make certain content accessible, must comply in all respects with the Content Standards set out in these Terms and Conditions.
-* You agree to cooperate with us in causing any unauthorized framing or linking immediately to stop. We reserve the right to withdraw linking permission without notice.
-* We may disable all or any social media features and any links at any time without notice in our discretion.
-
-16\. Third-Party Applications and Services
+15\. Third-Party Applications and Services
 ------------------------------------------
 
 * **Third-party Apps and Services**. Certain features offered through our Services may allow you to make payments, access or acquire products, services, websites, links, content, material, skills, integrations, bots or applications from third parties (companies or people who aren’t RC Willey) (“**Third-Party Apps and Services**”). The third-party Apps and Services may also include links contained in advertisements, including banner advertisements and sponsored links. We have no control over the contents of those sites or resources and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third-party websites linked to our Services, you do so entirely at your own risk and subject to the terms and conditions of use for such websites.
@@ -640,7 +217,7 @@ To learn more about the information we collect about and from you when you use o
 * **Modification**. Any third-party disclosure does not modify any of these Terms and Conditions.
 * **Limitation of Liability**. You are solely responsible for your interactions with any third parties, and compliance with the third-party Disclosures. RC Willey is not and will not be responsible to you or others for information or services provided by any third-party Apps and Services in connection with your use of the Website or otherwise.
 
-17\. Disclaimer of Warranties
+16\. Disclaimer of Warranties
 -----------------------------
 
 * You understand that we cannot and do not guarantee that the Services will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data. TO THE FULLEST EXTENT PROVIDED BY LAW, WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES, OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA, OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE SERVICES OR ANY OR ITEMS OBTAINED THROUGH THE SERVICES OR TO YOUR DOWNLOADING OF ANY MATERIAL SUBMITTED ON IT, OR ON ANY WEBSITE LINKED TO IT, INCLUDING ANY THIRD-PARTY APPS AND SERVICES.
@@ -648,23 +225,23 @@ To learn more about the information we collect about and from you when you use o
 * TO THE FULLEST EXTENT PROVIDED BY LAW, RC WILLEY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR PARTICULAR PURPOSE.
 * THE FOREGOING DOES NOT AFFECT ANY WARRANTIES THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 
-18\. Limitation on Liability
+17\. Limitation on Liability
 ----------------------------
 
 * TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL RC WILLEY, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SERVICES, ANY WEBSITES LINKED TO IT, ANY CONTENT OBTAINED THROUGH THE SERVICES OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE. TO THE EXTENT ANY SUCH DAMAGES ARE REQUIRED BY APPLICABLE LAW, THEY SHALL BE CAPPED AT ONE HUNDRED DOLLARS ($100) (US).
 * THE FOREGOING DOES NOT AFFECT ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 
-19\. Indemnification
+18\. Indemnification
 --------------------
 
 * You agree to defend, indemnify, and hold harmless RC Willey, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys’ fees) arising out of or relating to your violation of these Terms and Conditions or your use of the Services, including, but not limited to the use of any Third-Party Apps and Services and any use of the Services’ content, services, and products other than as expressly authorized in these Terms and Conditions, or your use of any information obtained from the Services.
 
-20\. Force Majeure
+19\. Force Majeure
 ------------------
 
 * Under no circumstances shall RC Willey be held responsible or liable for any delay or failure in performance resulting directly or indirectly from acts of nature, forces, or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, floods, storms, explosions, acts of God, war (including but not limited to cyber related events and/or occurrences attributed to state and/or quasi-state actors by either public or privacy organizations and/or entities and/or governments), governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, lighting, or air conditioning.
 
-21\. Dispute Resolution, Arbitration, Class-Action Waiver, Jury Waiver
+20\. Dispute Resolution, Arbitration, Class-Action Waiver, Jury Waiver
 ----------------------------------------------------------------------
 
 * **Disputes**. The terms of this section shall apply to all Disputes between you and RC Willey. For the purposes of this section, “Dispute” shall mean any dispute, claim, controversy or action between you and RC Willey, including but not limited to disputes concerning these Terms of Use, your use of the Services, and/or privacy or publicity rights, whether in contract, warranty, misrepresentation, fraud, tort, intentional tort, statute, regulation, ordinance, or any other legal or equitable basis. YOU AND RC WILLEY AGREE THAT “DISPUTE” AS DEFINED IN THESE TERMS OF USE SHALL NOT INCLUDE ANY CLAIM OR CAUSE OF ACTION BY RC WILLEY FOR (1) TRADE SECRET MISAPPROPRIATION; (2) PATENT INFRINGEMENT; (3) COPYRIGHT INFRINGEMENT OR MISUSE; AND/OR (4) TRADEMARK INFRINGEMENT OR DILUTION.
@@ -680,7 +257,7 @@ To learn more about the information we collect about and from you when you use o
 * **Severability**. If any provision in this Section is found to be unenforceable, that provision shall be severed with the remainder of these Terms and Conditions remaining in full force and effect. The foregoing shall not apply to the prohibition against class or representative actions; if the prohibition against class or representative actions is found to be unenforceable, this entire Section shall be null and void. The terms of this Section shall otherwise survive any termination of these Terms and Conditions.
 * **Exclusive Venue for Other Controversies**. RC Willey and you agree that any controversy excluded from the dispute resolution procedure and class action waiver provisions in this Section (other than an individual action filed in small claims court) shall be filed only in the courts located within Salt Lake City, Utah, and each party hereby irrevocably and unconditionally consents and submits to the exclusive jurisdiction of such courts for any such.
 
-22\. California Consumer Notice
+21\. California Consumer Notice
 -------------------------------
 
 * California users are entitled to the following consumer rights notice: The Services are provided by RC Willey at 2301 South 300 West Salt Lake City, UT 84115. If you have a question or complaint regarding the Services, please contact us by writing to 2301 South 300 West Salt Lake City, UT 84115. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by post at 1625 North Market Blvd., Sacramento, CA 95834 or by telephone at (916) 445-1254 or (800) 952-5210 or Hearing Impaired at TDD (800) 326-2297 or TDD (916) 322-1700.
@@ -694,155 +271,26 @@ RC Willey would like to inform you about your options for responsibly handling y
 
 By responsibly donating or recycling your old mattress, you help reduce waste and support environmentally sustainable practices. For specific guidelines and resources on mattress donation and recycling in your area, please refer to the California Department of Resources Recycling and Recovery ([CalRecycle](https://calrecycle.ca.gov/)) website.
 
-23\. Governing Law; Jurisdiction and Venue
+22\. Governing Law; Jurisdiction and Venue
 ------------------------------------------
 
 * This Agreement will be governed by and construed in accordance with the laws of the State of Utah, without giving effect to its conflict of law’s provisions or the laws of your state. If for any reason a court of competent jurisdiction or arbitrator finds any provision or portion of this Agreement to be unenforceable, the remaining portion of this Agreement will continue in full force and effect.
 
-24\. Waiver and Severability
+23\. Waiver and Severability
 ----------------------------
 
 * No waiver by RC Willey of any term or condition set out in these Terms and Conditions shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of RC Willey to assert a right or provision under these Terms and Conditions shall not constitute a waiver of such right or provision.
 * If any provision of these Terms and Conditions is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms and Conditions will continue in full force and effect.
 
-25\. Entire Agreement
+24\. Entire Agreement
 ---------------------
 
 * These Terms and Conditions, and if applicable the RC Willey Master Agreement constitute the sole and entire agreement between you and RC Willey regarding the Services and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Services.
 
-26\. Contact Us
+25\. Contact Us
 ---------------
 
 * All other feedback, comments, requests for technical support, and other communications relating to the Services should be directed to: [support@rcwilley.com](mailto:support@rcwilley.com).
-
-* [Home](https://www.rcwilley.com/Home)
-* [Furniture](https://www.rcwilley.com/Furniture/Search)
-    * [Main Menu](#)
-    * [Shop All Furniture](https://www.rcwilley.com/Furniture/Search)
-    * [Living Room](https://www.rcwilley.com/Living-Room/Furniture/Search)
-    * [Bedroom](https://www.rcwilley.com/Bedroom/Furniture/Search)
-    * [Dining Room](https://www.rcwilley.com/Dining-Room/Furniture/Search)
-    * [Home Office](https://www.rcwilley.com/Home-Office/Furniture/Search)
-    * [Outdoor](https://www.rcwilley.com/Furniture/Outdoor/Patio-Furniture/Search)
-    * [Entryway](https://www.rcwilley.com/Entryway/Furniture/Search)
-    * [Home Decor](https://www.rcwilley.com/Furniture/Home-Decor/Search)
-    * [Accent Furniture](https://www.rcwilley.com/Furniture/Accent-Furniture/Search)
-    * [Rugs](https://www.rcwilley.com/Furniture/Rugs/Search)
-    * [Kids Furniture](https://www.rcwilley.com/Furniture/Search?t=01440)
-    * [Baby Furniture](https://www.rcwilley.com/Furniture/Search?t=01442)
-    * [Storage and Organization](https://www.rcwilley.com/Furniture/Storage-Organization/Search)
-* [Appliances](https://www.rcwilley.com/Appliances/Search)
-    * [Main Menu](#)
-    * [Shop All Appliances](https://www.rcwilley.com/Appliances/Search)
-    * [Kitchen Appliance Packages](https://www.rcwilley.com/Appliances/Kitchen-Appliance-Packages/Search)
-    * [Refrigerators](https://www.rcwilley.com/Appliances/Refrigerators/Search)
-    * [Freezers](https://www.rcwilley.com/Appliances/Freezers/Search)
-    * [Laundry](https://www.rcwilley.com/Appliances/Laundry/Search)
-    * [Cooking](https://www.rcwilley.com/Appliances/Cooking/Search)
-    * [Dishwashers](https://www.rcwilley.com/Appliances/Dishwashers/Search)
-    * [Small Kitchen Appliances](https://www.rcwilley.com/Appliances/Small-Kitchen-Appliances/Search)
-    * [Heating, Cooling and Air Quality](https://www.rcwilley.com/Appliances/Heating-Cooling-Air-Quality/Search)
-    * [Water Treatment](https://www.rcwilley.com/Appliances/Water-Treatment/Search)
-    * [Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Search)
-    * [Trash Compactors](https://www.rcwilley.com/Appliances/Trash-Compactors/Search)
-    * [Appliance Accessories](https://www.rcwilley.com/Search)
-* [Electronics](https://www.rcwilley.com/Electronics/Search)
-    * [Main Menu](#)
-    * [Shop All Electronics](https://www.rcwilley.com/Electronics/Search)
-    * [TVs](https://www.rcwilley.com/Electronics/TVs/Search)
-    * [Audio](https://www.rcwilley.com/Electronics/Audio/Search)
-    * [Computers](https://www.rcwilley.com/Electronics/Computers-Tablets/Search)
-    * [Tablets & iPads](https://www.rcwilley.com/Electronics/Computers-Tablets/Tablets/Search)
-    * [Gaming](https://www.rcwilley.com/Electronics/Gaming/Search)
-    * [Fitness](https://www.rcwilley.com/Fitness/Search)
-    * [Smart Home](https://www.rcwilley.com/Electronics/Smart-Home/Search)
-* [Mattresses](https://www.rcwilley.com/Mattresses-Foundations/Search)
-    * [Main Menu](#)
-    * [Shop All Mattresses](https://www.rcwilley.com/Mattresses-Foundations/Search)
-    * [Mattresses](https://www.rcwilley.com/Mattresses-Foundations/Mattresses/Search)
-    * [Box Springs](https://www.rcwilley.com/Mattresses-Foundations/Box-Spring/Search)
-    * [Adjustable Beds](https://www.rcwilley.com/Mattresses-Foundations/Adjustable-Beds/Search)
-    * [Bed Frames](https://www.rcwilley.com/Mattresses-Foundations/Bed-Frames/Search)
-    * [Bedding](https://www.rcwilley.com/Furniture/Home-Decor/Bedding/Search)
-* [Flooring](https://www.rcwilley.com/Flooring/Search)
-    * [Main Menu](#)
-    * [Shop All Flooring](https://www.rcwilley.com/Flooring/Search)
-    * [Request an Estimate](https://www.rcwilley.com/Flooring/Flooring-Estimate)
-    * [Carpet](https://www.rcwilley.com/Flooring/Carpet/Search)
-    * [Laminate Flooring](https://www.rcwilley.com/Flooring/Laminate-Flooring/Search)
-    * [Vinyl Flooring](https://www.rcwilley.com/Flooring/Luxury-Vinyl/Search)
-    * [Rugs](https://www.rcwilley.com/Furniture/Rugs/Search)
-    * [Vacuums](https://www.rcwilley.com/Appliances/Vacuums-Floor-Care/Search)
-* [Outdoor](https://www.rcwilley.com/Outdoor/Search)
-    * [Main Menu](#)
-    * [Shop All Outdoor](https://www.rcwilley.com/Outdoor/Search)
-    * [Outdoor Furniture & Decor](https://www.rcwilley.com/Outdoor/Patio-Furniture/Search)
-    * [Grills](https://www.rcwilley.com/Outdoor/Grills/Search)
-    * [Electric Bikes](https://www.rcwilley.com/Outdoor/Electric-Bikes/Search)
-    * [Lawn & Garden](https://www.rcwilley.com/Outdoor/Lawn-Garden/Search)
-    * [Outdoor TVs](https://www.rcwilley.com/Outdoor-TVs/Search)
-* [Online Exclusives](https://www.rcwilley.com/Online-Exclusives/Search)
-    * [Main Menu](#)
-    * [Shop All Online Exclusives](https://www.rcwilley.com/Online-Exclusives/Search)
-    * [Online Exclusive Furniture](https://www.rcwilley.com/Online-Exclusives/Furniture/Search)
-    * [Online Exclusive Appliances](https://www.rcwilley.com/Online-Exclusives/Appliances/Search)
-    * [Online Exclusive Electronics](https://www.rcwilley.com/Online-Exclusives/Electronics/Search)
-    * [Online Exclusives Outdoor](https://www.rcwilley.com/Online-Exclusives/Outdoor/Search)
-* [Sale](https://www.rcwilley.com/Sale/Search)
-    * [Main Menu](#)
-    * [Shop All Sale](https://www.rcwilley.com/Sale/Search)
-    * [Furniture on Sale](https://www.rcwilley.com/Sale/Furniture/Search)
-    * [Appliances on Sale](https://www.rcwilley.com/Sale/Appliances/Search)
-    * [Electronics on Sale](https://www.rcwilley.com/Sale/Electronics/Search)
-    * [Mattresses on Sale](https://www.rcwilley.com/Sale/Mattresses-Foundations/Search)
-* [Clearance](https://www.rcwilley.com/Clearance/Search)
-* [Outlet](https://www.rcwilley.com/Outlet/Search)
-* Shop By Brand
-    * [Main Menu](#)
-    * [Aireloom](https://www.rcwilley.com/Aireloom/Search)
-    * [Bosch](https://www.rcwilley.com/Bosch/Search)
-    * [Cafe](https://www.rcwilley.com/Cafe/Search)
-    * [Electrolux](https://www.rcwilley.com/Electrolux/Search)
-    * [Frigidaire](https://www.rcwilley.com/Frigidaire/Search)
-    * [General Electric](https://www.rcwilley.com/General-Electric/Search)
-    * [KitchenAid](https://www.rcwilley.com/KitchenAid/Search)
-    * [La-Z-Boy](https://www.rcwilley.com/La-Z-Boy/Search)
-    * [LG](https://www.rcwilley.com/LG)
-    * [Maytag](https://www.rcwilley.com/Maytag/Search)
-    * [Samsung](https://www.rcwilley.com/Samsung)
-    * [Serta](https://www.rcwilley.com/Serta/Search)
-    * [Sony](https://www.rcwilley.com/Sony-Electronics)
-    * [Tempur-Pedic](https://www.rcwilley.com/Tempur-Pedic/Search)
-    * [Thermador](https://www.rcwilley.com/Thermador-Appliances)
-    * [Traeger](https://www.rcwilley.com/Traeger/Search)
-    * [Whirlpool](https://www.rcwilley.com/Whirlpool/Search)
-* [Gift Guide](https://www.rcwilley.com/The-Gift-Guide)
-* [Gift Cards](https://www.rcwilley.com/Gift-Cards)
-* Wish Lists
-* Wish Lists Block
-* Helpful Links
-* Account Block
-* Admin Block
-* [Store Locations](https://www.rcwilley.com/Store-Locations)
-* [Make a Payment](https://www.rcwilley.com/account/Start-Payment-Action)
-* [Jobs](https://www.rcwilley.com/Jobs)
-* [Apply for a Payment Plan](https://www.rcwilley.com/financing/RC-Willey-Financing)
-* [Check Delivery Time](https://www.rcwilley.com/Track-Order-Action)
-* [Schedule an Appointment](https://www.rcwilley.com/Schedule-An-Appointment)
-* [Customer Service](https://www.rcwilley.com/Policies)
-* [Warranty](https://www.rcwilley.com/Warranty)
-* [Contact Us](https://www.rcwilley.com/Contact-Us)
-* [Weekly Ads](https://www.rcwilley.com/Ads)
-* [Enter Contests](https://www.rcwilley.com/Current-Contests)
-* [RC Willey Blog](https://www.rcwilley.com/Blog)
-
-* **See More On Sale**
-
-* [Wish List](https://www.rcwilley.com/Shopping-Cart?listName=Wish%20List)
-
-* [My Account](#)
-    * [Main Menu](#0)
-    * [Login](https://www.rcwilley.com/account/Home)
 
 * * *
 
@@ -877,83 +325,74 @@ Continue
 
 * * *
 
-### Locations
+Locations
 
-#### [Utah](https://www.rcwilley.com/location/Utah)
+[Utah](https://www.rcwilley.com/location/Utah)
 
 * [Draper](https://www.rcwilley.com/location/Utah/Draper-Utah-Furniture-Store)
 * [Layton](https://www.rcwilley.com/location/Utah/Layton-Utah-Furniture-Store)
 * [Orem](https://www.rcwilley.com/location/Utah/Orem-Utah-Furniture-Store)
 * [South Salt Lake](https://www.rcwilley.com/location/Utah/Salt-Lake-City-Utah-Furniture-Store)
 
-#### [Nevada](https://www.rcwilley.com/location/Nevada)
+[Nevada](https://www.rcwilley.com/location/Nevada)
 
 * [Henderson](https://www.rcwilley.com/location/Nevada/Las-Vegas-Henderson-Nevada-Furniture-Store)
 * [Reno](https://www.rcwilley.com/location/Nevada/Reno-Nevada-Furniture-Store)
 * [Summerlin](https://www.rcwilley.com/location/Nevada/Las-Vegas-Summerlin-Nevada-Furniture-Store)
 
-#### [Idaho](https://www.rcwilley.com/location/Idaho)
+[Idaho](https://www.rcwilley.com/location/Idaho)
 
 * [Boise](https://www.rcwilley.com/location/Idaho/Boise-Meridian-Idaho-Furniture-Store)
 
-#### [California](https://www.rcwilley.com/location/California)
+[California](https://www.rcwilley.com/location/California)
 
 * [Rocklin](https://www.rcwilley.com/location/California/Sacramento-Rocklin-California-Furniture-Store)
 * [Sacramento-Elk Grove](https://www.rcwilley.com/location/California/Sacramento-Elk-Grove-California-Furniture-Store)
 
 * * *
 
-### Social Media
+Social Media
 
-[Facebook](https://facebook.com/RCWilley) [Instagram](https://instagram.com/rcwilley/) [Twitter](https://twitter.com/#!/RCWilley) [Pinterest](https://pinterest.com/RCWilley) [Youtube](https://youtube.com/RCWilley)
+[Instagram](https://instagram.com/rcwilley/)
+
+[Pinterest](https://pinterest.com/RCWilley)
+
+[Youtube](https://youtube.com/RCWilley)
+
+[Facebook](https://facebook.com/RCWilley)
+
+[X](https://twitter.com/#!/RCWilley)
 
 Share your style #myrcwilleyhome
 
-### Accessibility
+Accessibility
 
 [Link to Accessibility statement](https://www.rcwilley.com/Accessibility)
 
-### Company
+* * *
 
-* [About](https://www.rcwilley.com/About)
-* [Accessibility](https://www.rcwilley.com/Accessibility)
-* [Contractors](https://www.rcwilley.com/Contractors)
-* [Influencers](https://www.rcwilley.com/Influencers)
-* [Jobs](https://www.rcwilley.com/Jobs)
-* [RC Willey Blog](https://www.rcwilley.com/Blog)
-* [Sustainability](https://www.rcwilley.com/Sustainability)
-* [Winner's Circle](https://www.rcwilley.com/View-Winners-Circle)
+Get the App
 
-### Customer Service
-
-* [Account](https://www.rcwilley.com/account/Home)
-* [Contact Us](https://www.rcwilley.com/Contact-Us)
-* [Extended Warranties](https://www.rcwilley.com/Warranty)
-* [RC Willey Blue Rewards](https://www.rcwilley.com/RC-Willey-Blue-Rewards)
-* [RC Willey Financing Plans](https://www.rcwilley.com/financing/RC-Willey-Financing)
-* [Parts Order Request](https://www.rcwilley.com/Parts-Order-Request)
-* [Policies](https://www.rcwilley.com/Policies)
-* [Submit Feedback](https://www.rcwilley.com/Submit-Feedback)
-
-### Savings
-
-* [Coupons](https://www.rcwilley.com/Coupons)
-* [Gift Cards](https://www.rcwilley.com/Gift-Cards)
-* [Gift Guide](https://www.rcwilley.com/The-Gift-Guide)
-* [Outlet](https://www.rcwilley.com/Outlet/Search)
-* [Rebates](https://www.rcwilley.com/Rebate-Center)
-* [Sale](https://www.rcwilley.com/Sale/Search)
+[Download IOS RC Willey App](https://apps.apple.com/us/app/rc-willey/id6473602302) [Download Android RC Willey App](https://play.google.com/store/apps/details?id=com.rcwilley.rcwilleyappexpo&pcampaignid=web_share)
 
 * * *
 
-Close No Yes Check
+Your current home store is shown below. [See all store location details](https://www.rcwilley.com/Store-Locations)
 
-Contact Us
+homeStore Select a Store Out of Area No Local Store Draper, Utah Store Layton, Utah Store Orem, Utah Store Salt Lake City, Utah Store Henderson, Nevada Store Reno, Nevada Store Summerlin, Nevada Store Boise, Idaho Store Rocklin, California Store Sacramento, California Store Select a Store
 
- [Call Customer Support](tel:18004443876)  [Email](https://www.rcwilley.com/Submit-Feedback)  [Call Web Support](tel:8885845156)
+Change Store
 
 ![](https://pubads.g.doubleclick.net/activity;dc_iu=/6686/DFPAudiencePixel;ord=1;dc_seg=8520273474?) ![](https://pubads.g.doubleclick.net/activity;xsp=5260615;ord=1?)
 
 © 2024 RC Willey Home Furnishings, All Rights Reserved [Home](https://www.rcwilley.com/) | [Recall Information](https://www.rcwilley.com/recall-information) | [Terms of Use](https://www.rcwilley.com/Terms) | [Privacy Statement](https://www.rcwilley.com/Privacy) | [CA Resident's Policy](https://www.rcwilley.com/Privacy-Policy/CCPA) | [Cookie Policy](https://www.rcwilley.com/Privacy#cookieAnchor) | [Do not Sell or Share my Information](https://www.rcwilley.com/Privacy#DoNotSellOrShareMyInformation) | [Request Data Deletion](https://www.rcwilley.com/Privacy-Policy/CCPA/Action-Request) | [Site Map](https://www.rcwilley.com/Site-Map) |
 
 [![BBB Accredited Business BB Rating A+ as of 8/10/2023. Click for Profile.](https://seal-utah.bbb.org/seals/blue-seal-200-42-bbb-82010001.png)](https://www.bbb.org/us/ut/salt-lake-city/profile/furniture-stores/rc-willey-home-furnishings-1166-82010001)
+
+[Login](https://www.rcwilley.com/account/Home)
+
+Search
+
+Cart Cart 0
+
+Menu
