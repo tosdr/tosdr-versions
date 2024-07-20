@@ -20,7 +20,8 @@
     * [Chicago Dedicated Servers](https://quadranet.com/privacy-policy/chicago-dedicated-servers)
     * [New Jersey Dedicated Servers](https://quadranet.com/privacy-policy/new-jersey-dedicated-servers)
     * [Seattle Dedicated Servers](https://quadranet.com/privacy-policy/seattle-dedicated-servers)
-    * [Outlet Dedicated Servers](https://quadranet.com/privacy-policy/outlet)
+    * [BareMetal Promotion](https://quadranet.com/privacy-policy/specials_baremetal)
+    * [Wholesalers Promotion](https://quadranet.com/privacy-policy/specials_wholesalers)
     * [Available Upgrades](https://quadranet.com/privacy-policy/available-upgrades)
     
 * Cloud
