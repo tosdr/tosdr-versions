@@ -39,7 +39,7 @@ View diff against:
 
 View revision: 
 
-| [Last change](https://trac.wildfiregames.com/changeset/27805/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt "View differences") on this file was [27805](https://trac.wildfiregames.com/changeset/27805/ "View changeset 27805"), checked in by Freagarach, [10 months ago](https://trac.wildfiregames.com/timeline?from=2023-08-17T08%3A37%3A39%2B02%3A00&precision=second "See timeline at Aug 17, 2023, 8:37:39 AM") |
+| [Last change](https://trac.wildfiregames.com/changeset/27805/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt "View differences") on this file was [27805](https://trac.wildfiregames.com/changeset/27805/ "View changeset 27805"), checked in by Freagarach, [11 months ago](https://trac.wildfiregames.com/timeline?from=2023-08-17T08%3A37%3A39%2B02%3A00&precision=second "See timeline at Aug 17, 2023, 8:37:39 AM") |
 | --- |
 | Fix missing space in TaC of the userreporter.  <br><br>Reported by rodrigo.vegas at Transifex. |
 | * Property **svn:eol-style** set to _`native`_ |     |
@@ -135,7 +135,7 @@ View revision:
 ### Download in other formats:
 
 * [Plain Text](https://trac.wildfiregames.com/browser/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt?format=txt)
-* [Original Format](https://trac.wildfiregames.com/export/28118/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt)
+* [Original Format](https://trac.wildfiregames.com/export/28153/ps/trunk/binaries/data/mods/public/gui/userreport/Terms_and_Conditions.txt)
 
 * * *
 
