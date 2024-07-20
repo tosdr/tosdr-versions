@@ -1,4 +1,4 @@
-Back to the previous page [![Download, discover, share](https://stc.utdstc.com/img/svgs/logo-uptodown.svg)](https://uptodown.com/)
+Back to the previous page [![Download, discover, share](https://stc.utdstc.com/img/svgs/logo-uptodown.svg)](https://en.uptodown.com/)
 
 Privacy Policy & Cookies
 
@@ -67,7 +67,7 @@ For further information about how to do this please visit [https://www.aboutcook
 
 ### Detailed information about our commonly used ad technology providers
 
-You can access [here](https://docs.google.com/spreadsheets/d/1VKpC5p8kkWvtJC-_CLjMuASwDxYSdthchC_v6vkgSYE/) to an updated list of our ad technology providers.
+You can access [here](https://iabeurope.eu/vendor-list-tcf/) to an updated list of our ad technology providers.
 
 ### Additional information about the Uptodown and Uptodown Lite Android App
 
@@ -102,6 +102,7 @@ PRODUCTS AND SERVICES
 * [About us](https://en.uptodown.com/aboutus/uptodown)
 * [Publish your app](https://en.uptodown.com/developers-zone)
 * [Advertising](https://en.uptodown.com/advertising)
+* [Uptodown TurboNew](https://en.uptodown.com/uptodown-turbo)
 * [FAQs & Support](https://support.uptodown.com/hc/en-us)
 * [Editorial policy](https://en.uptodown.com/about-us/editors)
 * [We're hiring](https://uptodown.factorialhr.es/)
@@ -116,3 +117,11 @@ LEGAL
 * [DMCA](https://en.uptodown.com/dmca)
 
 ![](https://stc.utdstc.com/img/svgs/logo-element.svg)
+
+Uptodown Turbo
+
+Join our premium subscription service, enjoy exclusive features and support the project.
+
+Subscribe
+
+![Icono para cerrar](https://stc.utdstc.com/img/svgs/icon-bar-close.svg)
