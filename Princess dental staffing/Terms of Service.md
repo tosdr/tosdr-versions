@@ -16,11 +16,11 @@
     * [Dental Hygienist Jobs](https://www.princessdentalstaffing.com/dental-hygienist-jobs)
     * [Dental Receptionist Jobs](https://www.princessdentalstaffing.com/dental-receptionist-front-desk-jobs)
     * [Dentist Jobs](https://www.princessdentalstaffing.com/dentist-jobs)
-* [Find Staff](https://www.princessdentalstaffing.com/employer-home)
+* [Find Staff](https://www.princessdentalstaffing.com/employers)
 * [Sign Up](#sign-up-modal)
 * [Sign In](#sign-in-modal)
 * [Sign Up](#sign-up-modal)
-* [Employers](https://www.princessdentalstaffing.com/employer-home)
+* [Employers](https://www.princessdentalstaffing.com/employers)
 
 ###### Princess Dental Staffing
 
@@ -29,7 +29,7 @@ Terms of Use
 
 * * *
 
-_Last updated: May 31, 2024_
+_Last updated: July 19, 2024_
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
@@ -598,7 +598,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-658774)
+Don’t have an account? [Sign up](#sign-up-459247)
 
 Sign up for an account
 ----------------------
@@ -617,7 +617,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-658774)
+Already have an account? [Sign in](#sign-in-459247)
 
 Log in to your account
 ----------------------
@@ -638,7 +638,7 @@ Remember sign in for 60 days
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Don’t have an account? [Sign up](#sign-up-740331)
+Don’t have an account? [Sign up](#sign-up-256818)
 
 Sign up for an account
 ----------------------
@@ -657,7 +657,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 [Continue with Apple](https://www.princessdentalstaffing.com/users/auth/apple) [Continue with Facebook](https://www.princessdentalstaffing.com/users/auth/facebook)[Continue with Google](https://www.princessdentalstaffing.com/users/auth/google_oauth2)
 
-Already have an account? [Sign in](#sign-in-740331)
+Already have an account? [Sign in](#sign-in-256818)
 
 Success
 
