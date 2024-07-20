@@ -19,7 +19,7 @@ U.S. State Privacy Notice
 
 **Effective Date:** January 30, 2023
 
-This U.S. State Privacy Notice (“**Notice**”) applies to “**Consumers**” as defined under the California Consumer Privacy Act, including as amended by the California Privacy Rights Act (together, the “**CCPA**”), the Colorado Privacy Act, the Virginia Consumer Data Protection Act, the Utah Consumer Privacy Act, Connecticut’s Act Concerning Personal Data Privacy and Online Monitoring, Chapter 603A of the Nevada Revised Statutes, and all laws implementing, supplementing or amending the foregoing, including regulations promulgated thereunder (collectively, “**U.S. Privacy Laws**”). Capitalized terms used but not defined in this Notice shall have the meanings given to them under U.S. Privacy Laws.
+This U.S. State Privacy Notice (“**Notice**”) applies to “**Consumers**” as defined under the California Consumer Privacy Act, including as amended by the California Privacy Rights Act (together, the “**CCPA**”), the Colorado Privacy Act, the Virginia Consumer Data Protection Act, Connecticut’s Act Concerning Personal Data Privacy and Online Monitoring, and all laws implementing, supplementing or amending the foregoing, including regulations promulgated thereunder (collectively, “**U.S. Privacy Laws**”). Capitalized terms used but not defined in this Notice shall have the meanings given to them under U.S. Privacy Laws.
 
 This Notice is designed to meet our obligations under U.S. Privacy Laws and supplements the general privacy policies of AvalonBay Communities, Inc. and our subsidiaries (“**Company**” “**us**,” “**we**,” or “**our**”) including, without limitation, our website [Privacy Policy](https://www.avaloncommunities.com/privacy-policy "Privacy Policy"). In the event of a conflict between any other Company policy, notice, or statement and this Notice, this Notice will prevail as to Consumers unless stated otherwise.
 
@@ -153,7 +153,7 @@ We only Process Sensitive PI for purposes that are exempt from Consumer choice u
 
 **(b) Right to Know/Access**
 
-Residents of California, Virginia, and Colorado are entitled to access PI up to twice in a 12-month period. Residents of Connecticut and Utah are entitled once every 12-month period to access PI maintained by Company, with subsequent requests subject to a service fee. We apply the same limitation on number of Verifiable Consumer Requests in Connecticut and Utah to all states other than California, Virginia, and Colorado.
+Residents of California, Virginia, and Colorado are entitled to access PI up to twice in a 12-month period. Residents of Connecticut are entitled once every 12-month period to access PI maintained by Company, with subsequent requests subject to a service fee. We apply the same limitation on number of Verifiable Consumer Requests in Connecticut to all states other than California, Virginia, and Colorado.
 
 **(1) Categories (available for California Residents Only)**
 
@@ -201,7 +201,7 @@ Except to the extent we have a basis for retention under applicable law, you may
 * to comply with law and to cooperate with law enforcement; and
 * to exercise or defend legal claims.
 
-Note also that, depending on where you reside (e.g., California and Utah), we may not be required to delete your PI that we did not collect directly from you.
+Note also that, depending on where you reside (e.g., California), we may not be required to delete your PI that we did not collect directly from you.
 
 **(e) Correct your PI**
 
