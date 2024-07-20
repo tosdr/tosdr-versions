@@ -1,5 +1,3 @@
-![](https://px.ads.linkedin.com/collect/?pid=1578980&fmt=gif)
-
 [Skip to content](#content)
 
 * [Documentation](https://upcloud.com/resources/docs)
@@ -360,6 +358,7 @@ If you have any questions about this Privacy Notice or the way UpCloud processes
     * [Success stories](https://upcloud.com/success-stories)
     * [Events](https://upcloud.com/events)
     * [Newsletter](https://upcloud.com/newsletter)
+    * [Reviews](https://upcloud.com/reviews)
 * [Resources](https://upcloud.com/resources)
     * [Documentation](https://upcloud.com/resources/docs)
     * [Tutorials](https://upcloud.com/resources/tutorials)
