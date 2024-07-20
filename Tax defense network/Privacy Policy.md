@@ -1,5 +1,7 @@
 ![fbpx](https://www.facebook.com/tr?id=462537804686823&ev=PageView&noscript=1)             
 
+[Skip to Main Content](#tdn_main_content)
+
 [Check out our Resources section for free tax guides, forms, and more!](https://www.taxdefensenetwork.com/tax-guides/)
 
 [Tax Defense Network](https://www.taxdefensenetwork.com/)
@@ -328,13 +330,13 @@ I agree to be contacted by Tax Defense Network, including calls, texts, and/or e
 Related Articles and Resources
 ------------------------------
 
-[![confused guy wondering if he can still get tax relief](https://www.taxdefensenetwork.com/wp-content/uploads/2024/06/confused-man-holding-computer-451x300.jpg)
+[![tax relief scam - phishing](https://www.taxdefensenetwork.com/wp-content/uploads/2024/07/unknown-caller-scam--535x300.jpg)
+
+### Exposing Tax Relief Scams and How to Avoid Them](https://www.taxdefensenetwork.com/blog/exposing-tax-relief-scams-and-how-to-avoid-them/)[![confused guy wondering if he can still get tax relief](https://www.taxdefensenetwork.com/wp-content/uploads/2024/06/confused-man-holding-computer-451x300.jpg)
 
 ### Tax Season is Over. Can I Still Get Tax Relief?](https://www.taxdefensenetwork.com/blog/tax-season-is-over-can-i-still-get-tax-relief/)[![wife upset with husband due to irs negligence penalty](https://www.taxdefensenetwork.com/wp-content/uploads/2023/07/upset-wife-450x300.jpg)
 
-### IRS Negligence Penalty: What It Is & How To Fight It](https://www.taxdefensenetwork.com/blog/irs-negligence-penalty-what-it-is-how-to-fight-it/)[![chess pieces looking in mirror wondering can you change an irs payment plan](https://www.taxdefensenetwork.com/wp-content/uploads/2023/07/change-payment-plan-562x300.jpg)
-
-### Can I Change My IRS Payment Plan?](https://www.taxdefensenetwork.com/blog/can-i-change-my-irs-payment-plan/)
+### IRS Negligence Penalty: What It Is & How To Fight It](https://www.taxdefensenetwork.com/blog/irs-negligence-penalty-what-it-is-how-to-fight-it/)
 
 [View All Articles](https://www.taxdefensenetwork.com/blog/tag/tax-relief/)
 
@@ -364,7 +366,7 @@ Product name(s), logo(s), brands and other trademarks feature on referred to wit
 © 2007-2024 Tax Defense Network, LLC. - [**Privacy**](https://www.taxdefensenetwork.com/privacy) | [**Terms of Use**](https://www.taxdefensenetwork.com/terms-of-use/)
 
   
-[![better_business_bureaua](/wp-content/uploads/2018/12/better_business_bureaua.svg)](https://www.bbb.org/us/fl/jacksonville/profile/tax-consultant/tax-defense-network-%E2%84%A2-a-moneysolver-company-0403-184747163)![Let's Encrypt](/wp-content/uploads/2018/12/le-logo-standard.svg)
+[![the better business bureaua icon](/wp-content/uploads/2018/12/better_business_bureaua.svg)](https://www.bbb.org/us/fl/jacksonville/profile/tax-consultant/tax-defense-network-%E2%84%A2-a-moneysolver-company-0403-184747163)![Let's Encrypt](/wp-content/uploads/2018/12/le-logo-standard.svg)
 
 [Tax Relief](https://www.taxdefensenetwork.com/tax-relief/)
 -----------------------------------------------------------
