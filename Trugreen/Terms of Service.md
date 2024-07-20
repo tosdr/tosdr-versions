@@ -139,7 +139,7 @@ Copyright - ServiceMaster
 
 This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
 
-[ACCEPT ALL](#)[MANAGE](#)
+[Accept](#)[Manage](#)[Reject](#)
 
 ### Cookie and Privacy Settings
 
