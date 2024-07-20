@@ -192,7 +192,7 @@ To learn more about cookies, and find more information about blocking certain ty
 
 ### Quick Navigation
 
-[Home](https://xiaomi.eu/community) [Forums](https://xiaomi.eu/community/) [Contact us](https://xiaomi.eu/community/misc/contact)
+[Home](https://xiaomi.eu/community) [Forums](https://xiaomi.eu/community/)
 
 ### User Menu
 
@@ -205,7 +205,6 @@ To learn more about cookies, and find more information about blocking certain ty
 * [Cookies](https://xiaomi.eu/community/misc/cookies "Cookie consent")
 * 
 
-* [Contact us](https://xiaomi.eu/community/misc/contact)
 * [Terms and rules](https://xiaomi.eu/community/help/terms/)
 * [Privacy policy](https://xiaomi.eu/community/help/privacy-policy/)
 * [Help](https://xiaomi.eu/community/help/)
@@ -228,7 +227,7 @@ To learn more about cookies, and find more information about blocking certain ty
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1718961218%2Cb118e71731ab36eecbb78255c388ca11) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1718961218%2Cb118e71731ab36eecbb78255c388ca11)
+    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1721477504%2Cd9fe825c9fe4cc037c045929d88a5574) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1721477504%2Cd9fe825c9fe4cc037c045929d88a5574)
     
     * Essential cookies
     
