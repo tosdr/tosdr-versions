@@ -1,3 +1,5 @@
+[Storj and Valdi join forces – Adding on-demand GPU’s to the distributed cloud. C](https://www.prnewswire.com/news-releases/storj-acquires-leading-ai-compute-provider-valdi-302192158.html)[Learn more C](https://www.prnewswire.com/news-releases/storj-acquires-leading-ai-compute-provider-valdi-302192158.html)
+
 [Skip to main content](#)
 
 [![Storj Logo](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/65d78e437f8dd4f750beaef8_storj-logo-color.svg)](https://www.storj.io/)
