@@ -1,6 +1,12 @@
 [Skip to main content](#main)
 
-Our Top 10 Water-Friendly Sandals [Shop the Edit](https://www.zappos.com/c/10-water-friendly-sandals)
+Best of ASICS [Shop Customer-Recommended ASICS](https://www.zappos.com/c/best-of-asics)
+
+Check out Kayla’s favorite back-to-campus shoes! [Shop Top Picks](https://www.zappos.com/c/kayla-back-to-campus)
+
+Crocs: Endless Summer of Sandals [Shop Crocs](https://www.zappos.com/c/crocs-sandals)
+
+Give them cool kicks this school year! [Shop Top 10 Kids’ Shoes](https://www.zappos.com/c/top-10-back-to-school-shoes)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
