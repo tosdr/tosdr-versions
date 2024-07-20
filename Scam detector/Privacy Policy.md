@@ -48,7 +48,9 @@
 
  Search
 
-![loding img](https://www.scam-detector.com/wp-content/plugins/wp-site-rating/support/images/search_gif.gif)
+Sub Domain
+
+![loding img](https://www.scam-detector.com/wp-content/plugins/scam-detector-site-rating/assets/images/search_gif.gif)
 
 Searching: Domain age, Alexa rank, HTTPS valid, Blacklisting, SSL certificates, Source code, Location, IP address, WOT Trustworthiness, Spam reports, Advanced technology, Privacy Policy, Terms of Use, Contact options
 
@@ -327,36 +329,40 @@ California consumers may make a request pursuant to their rights under the CCPA 
 
 This Privacy Policy is effective as of the date on which it is made available on the site and is effective as of December 2021. As our site evolves and offers become available, or as a result of changes in government or regulatory requirements, it may be necessary to change this privacy policy.
 
-* Verify a website below
+* Verify Another website
     
     Are you just about to make a purchase online? See if the website is legit with our validator:
     
     vldtr®
     
-    ![loding img](https://www.scam-detector.com/wp-content/plugins/wp-site-rating/support/images/search_gif.gif)
+     ![Scam detector Logo](https://www.scam-detector.com/wp-content/plugins/scam-detector-site-rating/assets/images/search-icon.png)
+    
+    Sub Domain
+    
+    ![loding img](https://www.scam-detector.com/wp-content/plugins/scam-detector-site-rating/assets/images/search_gif.gif)
     
     Searching: Domain age, Alexa rank, HTTPS valid, Blacklisting, SSL certificates, Source code, Location, IP address, WOT Trustworthiness, Spam reports, Advanced technology, Privacy Policy, Terms of Use, Contact options
     
 * Trending Scams
     --------------
     
-    * [![art-commission-scams](https://www.scam-detector.com/wp-content/uploads/2024/06/art-commission-scams-explained-150x150.jpg)](https://www.scam-detector.com/art-commission-scams/)
+    * [![Remote Job Task Scam](https://www.scam-detector.com/wp-content/uploads/2024/07/Remote-Job-Task-Scam-150x150.png)](https://www.scam-detector.com/task-scams/)
         
-        ### [Art Commission Scams: How They Work and Red Flags](https://www.scam-detector.com/art-commission-scams/)
+        ### [Don't Fall for Task-Based Job Scams: Keep Your Money Safe](https://www.scam-detector.com/task-scams/)
         
-        [Read More](https://www.scam-detector.com/art-commission-scams/)
+        [Read More](https://www.scam-detector.com/task-scams/)
         
-    * [![Crypto coins](https://www.scam-detector.com/wp-content/uploads/2024/06/traxer-5WRRg1_DQn0-unsplash-1-150x150.jpg)](https://www.scam-detector.com/crypto-airdrop-scam/)
+    * [![Fund Recovery Scammer](https://www.scam-detector.com/wp-content/uploads/2024/07/Thumbnail-550-x-300-px-1200-x-900-px-1-150x150.png)](https://www.scam-detector.com/recovery-scams/)
         
-        ### [Crypto Airdrop Scams: How to Keep Your Wallet Safe](https://www.scam-detector.com/crypto-airdrop-scam/)
+        ### [Recovery Scams: How Not to Get Scammed Twice](https://www.scam-detector.com/recovery-scams/)
         
-        [Read More](https://www.scam-detector.com/crypto-airdrop-scam/)
+        [Read More](https://www.scam-detector.com/recovery-scams/)
         
-    * [![Falling-Lady-Scam](https://www.scam-detector.com/wp-content/uploads/2024/06/Falling-Lady-Scam-150x150.jpg)](https://www.scam-detector.com/falling-lady-scam/)
+    * [![Loyalty-Points-Scam-explained](https://www.scam-detector.com/wp-content/uploads/2024/07/Loyalty-Points-Scam-explained-150x150.jpg)](https://www.scam-detector.com/loyalty-points-phishing-scams/)
         
-        ### [Don't Fall for the Falling Lady Scam](https://www.scam-detector.com/falling-lady-scam/)
+        ### [Loyalty Points Phishing Scams: How They Work and The Red Flags](https://www.scam-detector.com/loyalty-points-phishing-scams/)
         
-        [Read More](https://www.scam-detector.com/falling-lady-scam/)
+        [Read More](https://www.scam-detector.com/loyalty-points-phishing-scams/)
         
     
 * [![“fraud](https://www.scam-detector.com/wp-content/uploads/2023/10/One_Fraud-Prevention.png)](https://get.surfshark.net/aff_c?offer_id=1124&aff_id=16683&url_id=1369)
@@ -419,7 +425,9 @@ This Privacy Policy is effective as of the date on which it is made available on
 
  Search
 
-![loding img](https://www.scam-detector.com/wp-content/plugins/wp-site-rating/support/images/search_gif.gif)
+Sub Domain
+
+![loding img](https://www.scam-detector.com/wp-content/plugins/scam-detector-site-rating/assets/images/search_gif.gif)
 
 Searching: Domain age, Alexa rank, HTTPS valid, Blacklisting, SSL certificates, Source code, Location, IP address, WOT Trustworthiness, Spam reports, Advanced technology, Privacy Policy, Terms of Use, Contact options
 
@@ -566,3 +574,13 @@ Report a Scammer
 [#### SUBMIT A SCAM](https://www.scam-detector.com/submit-a-scam/)[#### Contact Us](https://www.scam-detector.com/contact/)
 
 Copyright © 2024 Scam Detector Media Inc.. All Rights Reserved.
+
+SIGN ME UP
+
+SCAM   
+ALERTS:   
+BE NOTIFIED!
+
+Subscribe HERE to be the first
+
+to know about the newest scams!
