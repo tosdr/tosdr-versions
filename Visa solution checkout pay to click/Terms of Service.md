@@ -7,11 +7,9 @@ Visa Solution Terms of Service
 
 IMPORTANT: PLEASE CAREFULLY READ THE FOLLOWING VISA SOLUTION TERMS OF SERVICE ("TERMS"). YOU HAVE ACKNOWLEDGED THAT YOU UNDERSTAND AND AGREE TO ALL OF THESE TERMS IF YOU HAVE REGISTERED IN THE VISA SOLUTION OR ACTIVATED A CARD FOR THE VISA SOLUTION. THESE TERMS REPLACE ALL PRIOR TERMS IN RESPECT TO THE VISA SOLUTION. 
 
-These Terms will become effective on August 31, 2024.
-
  
 
-For registrations of the Visa Solution after August 31, 2024, the following section shall apply.
+For registrations of the Visa Solution after July 1, 2024, the following section shall apply.
 
 The Visa Solution is subject to cardholder eligibility. You understand that where your Issuer provides Click to Pay, you may not be eligible for the Visa Solution. Visa may however, co-ordinate with your Issuer (including by sharing information you have provided to register for the Visa Solution) to ensure you receive appropriate and streamlined services. If you are ineligible for the Visa Solution, you understand that acknowledgement and confirmation of these Terms does not create an agreement with Visa and the remaining Terms shall not apply. Capitalized terms are as defined in these Terms.
 
@@ -486,7 +484,7 @@ xii. Poland Residents Only
 
  
 
-If you are a resident of Poland and you signed up after August 31, 2024, the following provisions apply to you instead of the respectively numbered sections above:
+If you are a resident of Poland and you signed up after July 1, 2024, the following provisions apply to you instead of the respectively numbered sections above:
 
 **PREAMBLE:**
 
@@ -715,7 +713,7 @@ L. **Contact Us.
 
  
 
-Last Updated: August 31, 2024
+Last Updated: July 2, 2024
 
 © 2024 Visa. All rights reserved.
 
