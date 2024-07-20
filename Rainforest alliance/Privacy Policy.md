@@ -41,12 +41,12 @@
             
             * [Regions](https://www.rainforest-alliance.org/regions/)
             * [Asia](https://www.rainforest-alliance.org/regions/asia/)
-            * [East Asia](https://www.rainforest-alliance.org/regions/east-africa/)
+            * [East Africa](https://www.rainforest-alliance.org/regions/east-africa/)
             * [West & Central Africa](https://www.rainforest-alliance.org/regions/west-central-africa/)
             * [South America](https://www.rainforest-alliance.org/regions/south-america/)
             * [Central America & Mexico](https://www.rainforest-alliance.org/regions/central-america-mexico/)
             
-            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest_alliance/img/icon-navigation-seal-forest.svg)
+            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
             * WHAT OUR SEAL MEANS  
                 The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
     * [What You Can Do](#)
@@ -62,7 +62,7 @@
             * [FOR BUSINESS](https://rainforest-alliance.org/for-business)
             * [Transform your business practices](https://rainforest-alliance.org/for-business)
             
-            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest_alliance/img/icon-navigation-seal-forest.svg)
+            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
             * WHAT OUR SEAL MEANS  
                 The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
 * [For Business](#)
@@ -79,7 +79,7 @@
             * Considering getting certified? Learn how Rainforest Alliance certification can help people, nature, and your business
             * [Learn more](https://rainforest-alliance.org/why-certification/)
             
-            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest_alliance/img/icon-navigation-seal-forest.svg)
+            [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
             * WHAT OUR SEAL MEANS  
                 The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
     * [Tailored Services](https://www.rainforest-alliance.org/business/tailored-services/)
@@ -112,12 +112,12 @@
         
         * [Regions](https://www.rainforest-alliance.org/regions/)
         * [Asia](https://www.rainforest-alliance.org/regions/asia/)
-        * [East Asia](https://www.rainforest-alliance.org/regions/east-africa/)
+        * [East Africa](https://www.rainforest-alliance.org/regions/east-africa/)
         * [West & Central Africa](https://www.rainforest-alliance.org/regions/west-central-africa/)
         * [South America](https://www.rainforest-alliance.org/regions/south-america/)
         * [Central America & Mexico](https://www.rainforest-alliance.org/regions/central-america-mexico/)
         
-        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest_alliance/img/icon-navigation-seal-forest.svg)
+        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
         * WHAT OUR SEAL MEANS  
             The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
 * [What You Can Do](#)
@@ -133,7 +133,7 @@
         * [FOR BUSINESS](https://rainforest-alliance.org/for-business)
         * [Transform your business practices](https://rainforest-alliance.org/for-business)
         
-        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest_alliance/img/icon-navigation-seal-forest.svg)
+        [* ![](https://www.rainforest-alliance.org/wp-content/themes/rainforest-replant/dist/img/icon-navigation-seal-forest.svg)
         * WHAT OUR SEAL MEANS  
             The Rainforest Alliance certification seal means that the product (or a specified ingredient) was produced by farmers, foresters, and/or companies working together to create a world where people and nature thrive in harmony](https://rainforest-alliance.org/insights/what-does-rainforest-alliance-certified-mean/)
 * [Donate](https://give.rainforest-alliance.org/give/291977/#!/donation/checkout?c_src=MDW22BX&c_src2=2202mwebfndmainnav)
@@ -347,7 +347,7 @@ Rainforest Alliance’s website is originally published in English and contains 
 
 ![rainforest alliance spending](/wp-content/themes/rainforest-replant/dist/img/donation_graph_replant.svg)
 
-In 2022, 75% of our income supported sustainability programs. [Learn More](https://www.rainforest-alliance.org/audited-financial-documents)
+In 2023, 77% of our income supported sustainability programs. [Learn More](https://www.rainforest-alliance.org/audited-financial-documents)
 
 ![charity-watch](/wp-content/themes/rainforest-replant/dist/img/charity-watch-mono.svg)
 
@@ -396,17 +396,6 @@ Subscribe
 The Rainforest Alliance is a 501(c)(3) Nonprofit registered in the US under EIN: 13-3377893. | © Copyright 1987 - 2024, Rainforest Alliance
 
 [Privacy Policy](https://www.rainforest-alliance.org/privacy-policy) | [Cookie Policy](https://www.rainforest-alliance.org/privacy-policy/cookie-policy) |[](https://www.facebook.com/RainforestAlliance)[](https://www.instagram.com/rainforestalliance)[](https://www.linkedin.com/company/rainforest-alliance)[](https://www.tiktok.com/@rainforestalliance)[](https://www.youtube.com/user/rainforestalliance)
-
-#### Coming Soon
-
-### EUDR Deforestation Risk Assessment Tool
-
-Does your company source cocoa and/or coffee?  
-Sign up for our new tool to help meet your EUDR requirements.
-
-[Register your interest](https://www.rainforest-alliance.org/eudr-deforestation-risk-assessment-tool/)
-
-x
 
 [العربية](https://www.rainforest-alliance.org/nespresso/ar/)  
 [български](https://www.rainforest-alliance.org/nespresso/bg/)  
