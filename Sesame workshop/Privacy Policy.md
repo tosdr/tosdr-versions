@@ -1,5 +1,3 @@
-Courses on Sesame Workshop will be temporarily unavailable from June 26 to July 8 for maintenance. [Click here for more info](https://sesameworkshop.org/resources/courses-and-webinars/#course-alert "Click here for more info")
-
 [Skip to content](#start-of-content)
 
 [![Sesame Workshop](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/logo_full_color.svg)](https://www.sesameworkshop.org/)
@@ -477,7 +475,7 @@ To report potential security vulnerabilities, please write to [cyber.security@se
 
 Helping Children Everywhere Grow Smarter, Stronger, and Kinder.
 
-Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www.tiktok.com/@sesamestreet "TikTok")[](https://www.facebook.com/SesameWorkshop/ "Facebook")[](https://twitter.com/SesameWorkshop "Twitter")
+Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www.tiktok.com/@sesamestreet "TikTok")[](https://www.facebook.com/SesameWorkshop/ "Facebook")[](https://twitter.com/SesameWorkshop "X-Twitter")
 
 [Resources](https://sesameworkshop.org/resources/)
 
