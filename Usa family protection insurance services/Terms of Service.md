@@ -86,29 +86,6 @@ This is the entire agreement regarding all the matters that have been discussed 
 
 If you have any questions or comments regarding our Terms and Conditions please contact us by emailing [\[email protected\]](https://usafamilyprotection.com/cdn-cgi/l/email-protection).
 
-SMS Terms of Service
---------------------
-
-When you opt-in to the service, we will send you a message to confirm your signup. Text JOIN to **53797** to receive SMS alerts from **USA Family Protection Insurance Services. Message and data rates may apply. You will receive no more than 10 msgs/week** . Text " **HELP** " for help. Text " **STOP** " to cancel.
-
-You can cancel this service at any time. Text " **STOP** " to **53797** . After you send the message " **STOP** " to us, we will send you a reply message to confirm that you have been unsubscribed. After this, you will no longer receive messages from us.
-
-If you want to join again, just sign up as you did the first time and we will start sending messages to you again.
-
-* If at any time you forget what keywords are supported, just text " **HELP** " to 53797. After you send the message " **HELP** " to us, we will respond with instructions on how to use our service as well as how to unsubscribe.
-    
-* **Participating carriers** : SouthernLinc, Bandwidth, Google Voice, Buffalo Wireless, Chariton Valley Cellular, Leaco, CableVision, Copper Valley, AT&T, Sprint/Boost/ Virgin, T-Mobile/MetroPCS, Verizon Wireless, CellCom USA, C Spire Wireless, U.S.Cellular, Pine Belt Wireless, ACS/Alaska, Atlantic Tele-Network International (ATN), Advantage Cellular (DTC Wireless), Appalachian Wireless, Bluegrass Cellular, Cellular Network Partnership (PIONEER), Cellular One of East Central Illinois, Chat Mobility USA, Coral Wireless (Mobi PCS), Element Mobile (Flat Wireless), Epic Touch (Elkhart Telephone), GCI Communications Corp, Golden State Cellular, Illinois Valley Cellular (IV Cellular), i Wireless (IOWA Wireless), Nex-Tech Wireless, MTA Communications, MTPCS (Cellular One Nation), Cross Telephone Company (MBO Wireless), Duet IP (Maximum Communications New Core Wireless), Inland Cellular Telephone Company, Immix (Keystone Wireless), Mosaic (Consolidated or CTC Telecom), Northwest Missouri Cellular Limited, Peoples Wireless, Panhandle Telecommunications Systems (PTCI), RINA, Revol Wireless USA, SI Wireless/Mobile Nation, SRT Wireless, Texas RSA 3 Ltd (Plateau Wireless), Thumb Cellular, United Wireless, Union Telephone Company (Union Wireless), Viaero Wireless, West Central Wireless (5 Star Wireless), Sagebrush Cellular (Nemont), Carolina West Wireless (CWW), Pine Cellular, Aio Wireless/Cricket.
-    
-* T-Mobile is not liable for delayed or undelivered messages.
-    
-* As always, message and data rates may apply for any messages sent to you from us and to us from you. If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
-    
-
-For all questions about the services provided by this short code, you can send an email to [\[email protected\]](https://usafamilyprotection.com/cdn-cgi/l/email-protection) or call at [855-201-8627](tel: +1-855-201-8627).
-
-* If you have any questions regarding privacy, please read our [privacy policy](https://usafamilyprotection.com/privacy).
-    
-
 © 2024 USA Family Protection Insurance Services (USA FPIS). All rights reserved. USA FPIS operates in Missouri (AR Insurance License #: 2118 and CA Insurance License #: 6126‐7). USA FPIS operates as United Family Guardian Insurance Services in California. USA FPIS Life Policies are issued by Lumico Life Insurance Company.  
 
 [Life Insurance](https://usafamilyprotection.com/lifeinsurance-1) | [Auto & Home Insurance](https://usafamilyprotection.com/autoandhome) | [Privacy Policy](https://usafamilyprotection.com/privacy) | [Terms of Use](https://usafamilyprotection.com/terms) | [Site Map](https://usafamilyprotection.com/sitemap)  
