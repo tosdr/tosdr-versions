@@ -1,11 +1,11 @@
 VPN master Privacy Policy
 -------------------------
 
-Your privacy matters. Protect yourself with the world's best VPN.
+[Your privacy matters. Protect yourself with a secure VPN router.
 
 Sponsored
 
-![](https://go.nordvpn.net/aff_i?offer_id=15&aff_id=83937)
+![](https://go.nordvpn.net/aff_i?offer_id=15&aff_id=83937)](https://www.amazon.com/s?k=secure+router+with+vpn&tag=dollarup-20)
 
 VPNMASTER INC. built the VPN master app as a Freemium app. This SERVICE is provided by VPNMASTER INC. at no cost and is intended for use as is.
 
