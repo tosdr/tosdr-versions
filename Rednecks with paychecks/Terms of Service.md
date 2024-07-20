@@ -4,6 +4,7 @@ top of page
 
 [![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_149,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
 
+* [TICKETS](https://www.redneckswithpaychecks.com/tickets-rwp-fmc2024)
 * [ATTRACTIONS](https://www.redneckswithpaychecks.com/attractions)
 * [FAQS & RULES](https://www.redneckswithpaychecks.com/faq)
 * [CAMPING & MAPS](https://www.redneckswithpaychecks.com/camping-maps)
