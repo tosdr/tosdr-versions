@@ -16,7 +16,7 @@ We'd appreciate your feedback.[Tell us what you think!opens in new tab/window](h
     
 * [About](https://www.elsevier.com/about)About
     
-* [Support center](https://www.elsevier.com/support)Support
+* [Customer support](https://www.elsevier.com/support)Support
     
 
 [Publish with us](https://www.elsevier.com/researcher/author/publish-with-us)
@@ -149,9 +149,8 @@ Useful links
 
 Support
 
-* [Resource center](https://service.elsevier.com/app/overview/elsevier/)
 * [Customer support](https://www.elsevier.com/support)
-* [Modern slavery act statement](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/relx-slavery-statement-2024.pdf)
+* [Resource center](https://service.elsevier.com/app/overview/elsevier/)
 
 About
 
@@ -159,6 +158,7 @@ About
 * [Careers](https://www.elsevier.com/about/careers)
 * [Global Press Office](https://www.elsevier.com/about/global-press-office)
 * [Advertising, reprints & supplements](https://www.elsmediakits.com/?utm_source=elsevier.com&utm_medium=referral&dgcid=4168448395)
+* [Modern slavery act statement](https://www.relx.com/~/media/Files/R/RELX-Group/documents/responsibility/relx-slavery-statement-2024.pdf)
 
 Global | English
 
