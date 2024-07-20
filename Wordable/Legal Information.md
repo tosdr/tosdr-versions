@@ -4,7 +4,7 @@
 
 [Pricing](https://wordable.io/pricing)
 
-[Login](https://app.wordable.io/u/sign_in)[Login](https://app.wordable.io/u/sign_in)[Sign up](https://app.wordable.io/subscription/new?plan=13)
+[Login](https://app.wordable.io/u/sign_in)[Login](https://app.wordable.io/u/sign_in)[Sign up](https://app.wordable.io/u/sign_up)
 
 Privacy Policy
 ==============
@@ -84,7 +84,7 @@ Save time today by automating your publishing with Wordable
 
 You do the hard work writing your content. Automate your Google Docs to WordPress publishing today.
 
-[Get Started Today](https://app.wordable.io/subscription/new?plan=13)
+[Get Started Today](https://app.wordable.io/u/sign_up)
 
 30-day Satisfaction Guarantee
 
@@ -97,7 +97,6 @@ Company
 * [About](https://wordable.io/about)
 * [Academy](https://wordable.io/academy)
 * [Affiliates](https://wordable.io/affiliates)
-* [Privacy](https://wordable.io/privacy)
 
 Product
 
@@ -105,5 +104,10 @@ Product
 * [Google Docs to WordPress](https://wordable.io/export-google-docs-to-wordpress/)
 * [Google Docs to HubSpot](https://wordable.io/export-google-docs-to-hubspot/)
 * [Google Docs to Medium](https://wordable.io/export-google-docs-to-medium/)
+
+Legal
+
+* [Terms of Use](https://wordable.io/terms)
+* [Privacy Policy](https://wordable.io/privacy)
 
 © 2024 Wordable, LLC. All rights reserved
