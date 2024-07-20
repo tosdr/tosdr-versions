@@ -213,7 +213,7 @@ We’d be happy to answer them. Shoot us an email or send us a note:
 
 ##### Stay Connected:
 
-[](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)
+[](https://facebook.com/trustwalletapp)[](https://github.com/trustwallet)[](https://instagram.com/trustwallet)[](https://twitter.com/trustwallet)[](https://discord.gg/trustwallet)[](https://reddit.com/r/trustapp)[](https://t.me/trustwallet)[](https://tiktok.com/@trustcryptowallet)
 
 * **Wallet**
     
