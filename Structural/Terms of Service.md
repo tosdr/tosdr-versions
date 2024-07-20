@@ -74,7 +74,7 @@ Media
 
 #### Media
 
-[All media](https://www.structural.com/media-all)[Blog posts](https://www.structural.com/blog-posts)[Case studies](https://www.structural.com/case-studies)[Webinars](https://www.structural.com/webinars)[Podcasts](https://www.structural.com/podcasts)[Press releases](https://www.structural.com/press-releases)[Industry awards](https://www.structural.com/industry-awards)[Guides](https://www.structural.com/guides)
+[All media](https://www.structural.com/media-all)[Blog posts](https://www.structural.com/blog-posts)[Guides](https://www.structural.com/guides)[Webinars](https://www.structural.com/webinars)[Podcasts](https://www.structural.com/podcasts)[Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)
 
 [Let's talk
 
@@ -126,11 +126,11 @@ Explore
 
 [Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)
 
-[![](https://cdn.prod.website-files.com/63a9e1371ec7d6434bdb1c20/6657ba78847cb752c9379c15_GettyImages-1436393265%201.png)
+[![](https://cdn.prod.website-files.com/63a9e1371ec7d6434bdb1c20/668d370f0dc88d9e2f1a1013_BlogCard_CL-CustomerVoice-op1.png)
 
-Unlocking efficiency & engagement with Augeo’s Manager Success Suite
+The foundational link between your customer’s voice & your bottom line
 
-![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63efd4892c19237811facd69_arrow-up-circle.svg)](https://www.structural.com/blog-posts/unlocking-efficiency-engagement-with-augeos-manager-success-suite)
+![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63efd4892c19237811facd69_arrow-up-circle.svg)](https://www.structural.com/blog-posts/the-foundational-link-between-your-customers-voice-your-bottom-line)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64e816543609488b3e82e8ad_Blog_AI_Aug2023.jpg)
 
@@ -255,7 +255,7 @@ Company
 
 Media
 
-[All media](https://www.structural.com/media-all)[Blog posts](https://www.structural.com/blog-posts)[Case studies](https://www.structural.com/case-studies)[Webinars](https://www.structural.com/webinars)[Podcasts](https://www.structural.com/podcasts)[Press releases](https://www.structural.com/press-releases)[Industry awards](https://www.structural.com/industry-awards)[Guides](https://www.structural.com/guides)[eBooks](#)![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64d15beda45fa1435f3ab5c0_Carrot-down.svg)
+[All media](https://www.structural.com/media-all)[Blog posts](https://www.structural.com/blog-posts)[Guides](https://www.structural.com/guides)[Webinars](https://www.structural.com/webinars)[Podcasts](https://www.structural.com/podcasts)[Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)[eBooks](#)![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64d15beda45fa1435f3ab5c0_Carrot-down.svg)
 
 [651.917.9143](tel:+16519179143)[info@augeomarketing.com](mailto:info@augeomarketing.com?subject=I'm%20ready%20to%20elevate%20my%20strategy%20with%20Augeo)
 
