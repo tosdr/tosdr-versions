@@ -10,7 +10,7 @@ Privacy
 * [My privacy choices](https://info.privacy.schibsted.com/en/login-en/)
 * Language English Norsk Bokmål Svenska Suomi Dansk
 
-[Library](https://info.privacy.schibsted.com/en/library/ "Go to Library.") > [Privacy and Cookie Policy](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/ "Go to the Privacy and Cookie Policy category archives.") > [Privacy and Cookie Policy, English, Schibsted](https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/ "Go to Privacy and Cookie Policy, English, Schibsted.")
+[Library](https://info.privacy.schibsted.com/en/library/ "Go to Library.") > [Privacy and cookie policy](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/ "Go to the Privacy and cookie policy category archives.") > [Privacy and Cookie Policy, English, Schibsted](https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/ "Go to Privacy and Cookie Policy, English, Schibsted.")
 
 ![](https://info.privacy.schibsted.com/wp-content/uploads/2020/03/new_1@2x-8-e1639397466746.png) 
 
@@ -139,66 +139,32 @@ Schibsted media houses also process personal data for journalistic purposes. Due
 [Continue reading...](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/)
 --------------------------------------------------------------------------------------------
 
-[![Processing of personal data within real estate advertising](https://info.privacy.schibsted.com/wp-content/uploads/2020/07/p022_featured-300x169.png)
+[![Schibsted: changes in how we process your data](https://info.privacy.schibsted.com/wp-content/uploads/2018/04/P001_featured-e1526633620964-300x169.png)
+
+Schibsted: changes in how we process your data
+----------------------------------------------](https://info.privacy.schibsted.com/en/schibsted-changes-in-how-we-process-your-data/)[![Joint controllership in the context of Schibsted Match](https://info.privacy.schibsted.com/wp-content/uploads/2018/04/s007_featured-300x169.png)
+
+Joint controllership in the context of Schibsted Match
+------------------------------------------------------](https://info.privacy.schibsted.com/en/joint-controllership-in-the-context-of-schibsted-match/)[![Processing of personal data within real estate advertising](https://info.privacy.schibsted.com/wp-content/uploads/2020/07/p022_featured-300x169.png)
 
 Processing of personal data within real estate advertising
-----------------------------------------------------------](https://info.privacy.schibsted.com/en/processing-of-personal-data-within-real-estate-advertising/)[![Cookies on Services from Schibsted Norge](https://info.privacy.schibsted.com/wp-content/uploads/2019/11/p011_featured-300x169.png)
+----------------------------------------------------------](https://info.privacy.schibsted.com/en/processing-of-personal-data-within-real-estate-advertising/)[+3
 
-Cookies on Services from Schibsted Norge
-----------------------------------------](https://info.privacy.schibsted.com/en/cookies-pa-tjenester-fra-schibsted-norge-english/)[![Cookies on Services from Schibsted Sverige](https://info.privacy.schibsted.com/wp-content/uploads/2019/11/p011_featured-300x169.png)
-
-Cookies on Services from Schibsted Sverige
-------------------------------------------](https://info.privacy.schibsted.com/en/cookies-on-services-from-schibsted-sverige-english/)[![Privacy and Cookie Policy, English, Schibsted](https://info.privacy.schibsted.com/wp-content/uploads/2020/03/new_1@2x-8-300x169.png)
-
-Privacy and Cookie Policy, English, Schibsted
----------------------------------------------](https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/)
+View more
+---------](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/)
 
 [### Data and you](https://info.privacy.schibsted.com/en/category/data-and-you/)
 
 * [Almost all there is to know about personalised advertising](https://info.privacy.schibsted.com/en/almost-all-there-is-to-know-about-personalised-advertising/)
 * [Your privacy choices drive your experience](https://info.privacy.schibsted.com/en/how-your-privacy-choices-drive-your-experience/)
 * [Schibsted, data and you](https://info.privacy.schibsted.com/en/schibsted-media-schibsted-marketplaces-data-and-you/)
-* [Why we want to know you better](https://info.privacy.schibsted.com/en/why-we-want-to-know-you-better/)
-* [How data helps us create better experiences](https://info.privacy.schibsted.com/en/how-data-helps-to-make-your-experiences-better/)
-* [Smart ads and what they mean for you](https://info.privacy.schibsted.com/en/smart-ads-and-what-they-mean-for-you/)
-* [Getting the content that’s most important to you](https://info.privacy.schibsted.com/en/getting-the-content-thats-most-important-to-you-2/)
-* [Your privacy choices drive your experience](https://info.privacy.schibsted.com/en/your-privacy-choices-drive-your-experience/)
-
-[### Data basics](https://info.privacy.schibsted.com/en/category/data-basics/)
-
-* [Big data made simple](https://info.privacy.schibsted.com/en/big-data-made-simple-22/)
-* [Changes to data privacy](https://info.privacy.schibsted.com/en/changes-to-data-privacy/)
-* [Schibsted, data and you](https://info.privacy.schibsted.com/en/schibsted-data-and-you/)
 * [What is a Schibsted account?](https://info.privacy.schibsted.com/en/what-is-a-schibsted-account/)
 
-[### Deeper reading](https://info.privacy.schibsted.com/en/category/deeper-reading/)
+[### Privacy and cookie policy](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/)
 
+* [Schibsted: changes in how we process your data](https://info.privacy.schibsted.com/en/schibsted-changes-in-how-we-process-your-data/)
 * [Joint controllership in the context of Schibsted Match](https://info.privacy.schibsted.com/en/joint-controllership-in-the-context-of-schibsted-match/)
-* [Advanced ad targeting](https://info.privacy.schibsted.com/en/advanced-ad-targeting/)
-* [Geo data in advertising](https://info.privacy.schibsted.com/en/geo-data-in-advertising/)
-* [How we show and measure ads](https://info.privacy.schibsted.com/en/how-we-show-and-measure-ads/)
-
-[### How we use data](https://info.privacy.schibsted.com/en/category/how-we-use-data/)
-
-* [Finding patterns in the data](https://info.privacy.schibsted.com/en/finding-patterns-in-the-data/)
-* [How Schibsted uses cookies](https://info.privacy.schibsted.com/en/how-schibsted-uses-cookies/)
-
-[### Privacy and Cookie Policy](https://info.privacy.schibsted.com/en/category/privacy-cookie-policy/)
-
 * [Processing of personal data within real estate advertising](https://info.privacy.schibsted.com/en/processing-of-personal-data-within-real-estate-advertising/)
 * [Cookies on Services from Schibsted Norge](https://info.privacy.schibsted.com/en/cookies-pa-tjenester-fra-schibsted-norge-english/)
 * [Cookies on Services from Schibsted Sverige](https://info.privacy.schibsted.com/en/cookies-on-services-from-schibsted-sverige-english/)
 * [Privacy and Cookie Policy, English, Schibsted](https://info.privacy.schibsted.com/en/privacy-and-cookie-policy-english-schibsted-sverige/)
-
-[### Uncategorized](https://info.privacy.schibsted.com/en/category/uncategorized/)
-
-* [Schibsted: changes in how we process your data](https://info.privacy.schibsted.com/en/schibsted-changes-in-how-we-process-your-data/)
-
-[### Your rights](https://info.privacy.schibsted.com/en/category/your-rights/)
-
-* [Your privacy settings, Schibsted Sverige](https://info.privacy.schibsted.com/en/your-privacy-controls-schibsted-sverige-english/)
-* [Your privacy settings, Schibsted Norge](https://info.privacy.schibsted.com/en/your-privacy-controls-schibsted-norge-english/)
-* [How to change ads preferences](https://info.privacy.schibsted.com/en/how-to-change-ads-preferences/)
-* [Your right to delete your data](https://info.privacy.schibsted.com/en/your-right-to-delete-your-data/)
-* [Your right to see your data](https://info.privacy.schibsted.com/en/digital-data-and-the-law/)
-* [Take control of your privacy](https://info.privacy.schibsted.com/en/take-control-of-your-privacy/)
