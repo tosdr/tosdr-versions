@@ -65,11 +65,13 @@ Main Menu
     
     [PragerU in Schools Petition](https://www.prageru.com/prageru-in-schools-petition)
     
+    [Parent Alert](https://www.prageru.com/series/parent-alert)
+    
     [Cash Course E-learning](https://www.prageru.com/cashcourse)
     
     [Educator Resources](https://www.prageru.com/prageru-in-your-school)
     
-    [Parent Resources](https://www.prageru.com/kids/resources)
+    [Watch Challenge](https://www.prageru.com/prageru-kids-red-white-and-you)
     
     [Grades K - 5th:](https://www.prageru.com/kids/browse?refinementList%5BgradeLevel%5D%5B0%5D=K-2nd&refinementList%5BgradeLevel%5D%5B1%5D=3rd-5th&page=1&configure%5BhitsPerPage%5D=12)
     
@@ -153,7 +155,7 @@ Main Menu
     
     [PragerU Merch](https://shop.prageru.com/)
     
-    [Kids Books](https://www.prageru.com/kids/read)
+    [Kids Books](https://shop.prageru.com/collections/prageru-kids-book-bundles)
     
 * Login
 * [Search](https://www.prageru.com/search)
@@ -169,9 +171,9 @@ Privacy Policy
 
 * * *
 
-_Updated February 21, 2024_ 
+_Updated July 10, 2024_ 
 
-Prager University (“PragerU,” “we,” “our,” or “us”) is a not-for-profit foundation based in the United States of America. Prager University and its affiliated programs have created this Privacy Policy to explain why we collect particular information, what information we collect, how we process the information we collect, and how we help protect your personal privacy. The following policy also discloses our information gathering and dissemination practices for websites and/or mobile applications we operate at PragerU.com, PragerU.org, PragerUniversity.com, PragerPedia.com, PragerU Mobile App, PragerUMyShopify.com and elsewhere. The term “Websites” will be used to refer to these and other websites and apps owned and maintained by Prager University that link to this Privacy Policy.
+Prager University (“PragerU,” “we,” “our,” or “us”) is a not-for-profit foundation based in the United States of America. Prager University and its affiliated programs have created this Privacy Policy to explain why we collect particular information, what information we collect, how we process the information we collect, and how we help protect your personal privacy. The following policy also discloses our information gathering and dissemination practices for websites and/or mobile applications we operate at PragerU.com, PragerU.org, PragerUniversity.com, PragerPedia.com, PragerU Mobile App, PragerUMyShopify.com and elsewhere, including Roku/OTT applications. The term “Websites” will be used to refer to these and other websites and apps owned and maintained by Prager University that link to this Privacy Policy.
 
 In order to fully understand your rights, we encourage you to read this Privacy Policy as well as our Terms of Use. Prager University and its affiliated programs reserve the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Websites. Any such change will be effective immediately upon posting.  We encourage you to visit this page periodically to learn of any updates. 
 
@@ -258,7 +260,7 @@ You may visit the DAA Webchoices tool at www.aboutads.info to learn more about t
 
 If you delete your cookies or use a different browser or mobile device, you may need to renew your opt-out choices exercised through the DAA Webchoices tool.  Note that electing to opt out will not stop advertising from appearing in your browser or applications.  It may make the ads you see less relevant to your interests.  
 
-We may also work with third parties that collect data about your use of the Websites and other sites or apps over time for non-advertising purposes.  Our Websites use Google Analytics, MixPanel, and other third-party services to improve the performance of the Websites and for analytics and marketing purposes. For more information about how Google Analytics collects and uses data when you use our Websites, visit www.google.com/policies/privacy/partners, and to opt out of Google Analytics, visit tools.google.com/dlpage/gaoptout.  
+We may also work with third parties that collect data about your use of the Websites and other sites or apps over time for non-advertising purposes. Our Websites use Google Analytics, MixPanel, Retention, and other third-party services to improve the performance of the Websites and for analytics and marketing purposes. For more information about how Google Analytics collects and uses data when you use our Websites, visit [www.google.com/policies/ privacy/partners](http://www.google.com/policies/privacy/partners), and to opt out of Google Analytics, visit [tools.google.com/dlpage/ gaoptout](http://tools.google.com/dlpage/gaoptout). To opt out of Retention, visit [https://app.retention.com/ optout](https://app.retention.com/optout).
 
 **Third-Party Tools**
 
