@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=938084&fmt=gif)
 
-[![Sharethrough Logo Dark Transparent SVG](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/6501ce7d903c832db24ebb76_Sharethrough-Logo.svg)](https://www.sharethrough.com/)
+[![Sharethrough | An Equativ Group Company logo](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/6695666901c39e0708f455d3_Logo_sharethrough_equativ_dark_horizontal.svg)](https://www.sharethrough.com/)
 
 Advertisers
 
@@ -20,7 +20,7 @@ Achieve your campaign goals with enhanced ads that deliver better performance ac
 
 **Advertiser Resources**
 
-[Inventory Packages & PMPs](https://www.sharethrough.com/advertisers/curation/inventory-curation)[Advertiser Case Studies](https://www.sharethrough.com/advertisers/case-studies)[Carbon Emissions Estimator](https://www.sharethrough.com/carbon-emissions-estimator)[Political Advertising](https://www.sharethrough.com/campaigns/increase-candidate-consideration-this-upcoming-election)[Support ↗](https://support.sharethrough.com/hc/en-us)
+[Inventory Packages](https://www.sharethrough.com/advertisers/curation/inventory-curation)[Advertiser Case Studies](https://www.sharethrough.com/advertisers/case-studies)[Carbon Emissions Estimator](https://www.sharethrough.com/carbon-emissions-estimator)[Political Advertising](https://www.sharethrough.com/campaigns/increase-candidate-consideration-this-upcoming-election)[Support ↗](https://support.sharethrough.com/hc/en-us)
 
 **Featured Product**
 
@@ -110,11 +110,11 @@ Stay up-to-date on our latest product updates, case studies and market analysis 
 
 **Recent Blog Post**
 
-Sharethrough & Equativ Merge to Create One of The Largest Independent Ad Platforms in The World
+TVision Study Reveals Sports Ticker Increases Attention of CTV Creatives
 
-June 12, 2024
+July 17, 2024
 
-[Read Blog Post →](https://www.sharethrough.com/blog/sharethrough-and-equativ-are-merging)
+[Read Blog Post →](https://www.sharethrough.com/blog/tvision-study-reveals-sports-ticker-increases-attention-of-ctv-creatives)
 
 [Contact](https://www.sharethrough.com/contact)
 
@@ -124,7 +124,7 @@ En
 
 [Log in](http://pubmaestro.sharethrough.com/)
 
-[![Sharethrough Logo Dark Transparent SVG](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/6501ce7d903c832db24ebb76_Sharethrough-Logo.svg)](https://www.sharethrough.com/)
+[![Sharethrough | An Equativ Group Company logo](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/6695666901c39e0708f455d3_Logo_sharethrough_equativ_dark_horizontal.svg)](https://www.sharethrough.com/)
 
 Advertisers
 
@@ -296,7 +296,7 @@ Sharethrough may source Ad Impressions from third party services in connection w
 
 **14.17. Electronic Signatures and Facsimiles Binding.** This Agreement, including Order Forms and related documents, may be accepted in electronic form (e.g., by an electronic or digital signature or other means of demonstrating assent) and Publisher’s acceptance will be deemed binding between the Parties. Publisher acknowledges and agrees it will not contest the validity or enforceability of this Agreement including Order Forms and related documents, including under any applicable statute of frauds, because they were accepted and/or signed in electronic form. Publisher further acknowledges and agrees that it will not contest the validity or enforceability of an electronically accepted or signed copy of this Agreement and related documents on the basis that it lacks an original handwritten signature. Electronic, PDF, or facsimile signatures shall be considered valid signatures as of the date hereof. Computer maintained records of a Party when produced in hard copy form shall constitute business records and shall have the same validity as any other generally recognized business records.
 
-[![Sharethrough Logo White Transparent SVG](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/6501ce7d903c832db24ebb87_Sharethrough-Logo-Rev.svg)](https://www.sharethrough.com/)
+[![Sharethrough | An Equativ Group Company logo](https://cdn.prod.website-files.com/6501ce7d903c832db24ebb6b/66981266e6f3a358f7de0d4f_Logo_sharethrough_equativ_light_stacked_V2.svg)](https://www.sharethrough.com/)
 
 [](https://www.linkedin.com/company/sharethrough/)[](https://www.facebook.com/sharethrough/)[](https://twitter.com/sharethrough)[](https://www.instagram.com/sharethrough/)
 
