@@ -711,15 +711,15 @@
         * [Multipurpose](https://qodeinteractive.com/theme-category/multipurpose-wordpress-themes/)104
         * [Photography](https://qodeinteractive.com/theme-category/photography-wordpress-themes/)48
         * [Architecture](https://qodeinteractive.com/theme-category/architecture-wordpress-themes/)35
-    * [Business](https://qodeinteractive.com/theme-category/business-wordpress-themes/)188
-        * [All](https://qodeinteractive.com/theme-category/business-wordpress-themes/)188
+    * [Business](https://qodeinteractive.com/theme-category/business-wordpress-themes/)190
+        * [All](https://qodeinteractive.com/theme-category/business-wordpress-themes/)190
         * [Corporate](https://qodeinteractive.com/theme-category/corporate-wordpress-themes/)59
-        * [Services & Industry](https://qodeinteractive.com/theme-category/services-industry-wordpress-themes/)48
+        * [Services & Industry](https://qodeinteractive.com/theme-category/services-industry-wordpress-themes/)49
         * [Nonprofit](https://qodeinteractive.com/theme-category/nonprofit-wordpress-themes/)28
-        * [Medical](https://qodeinteractive.com/theme-category/medical-wordpress-themes/)27
+        * [Medical](https://qodeinteractive.com/theme-category/medical-wordpress-themes/)28
         * [Marketing](https://qodeinteractive.com/theme-category/marketing-wordpress-themes/)14
         * [Law](https://qodeinteractive.com/theme-category/law-wordpress-themes/)13
-    * [Online Store](https://qodeinteractive.com/theme-category/online-store-wordpress-themes/)183
+    * [Online Store](https://qodeinteractive.com/theme-category/online-store-wordpress-themes/)185
     * [Wellness & Lifestyle](https://qodeinteractive.com/theme-category/wellness-lifestyle-wordpress-themes/)110
         * [All](https://qodeinteractive.com/theme-category/wellness-lifestyle-wordpress-themes/)110
         * [Sport & Fitness](https://qodeinteractive.com/theme-category/sport-fitness-wordpress-themes/)51
@@ -756,28 +756,28 @@
     * [Real Estate](https://qodeinteractive.com/theme-category/real-estate-wordpress-themes/)13
     * [Listing](https://qodeinteractive.com/theme-category/listing-wordpress-themes/)11
     * [Colors](#)
-        * [White](https://qodeinteractive.com/theme-color/white-wordpress-themes/)601
-        * [Grey](https://qodeinteractive.com/theme-color/grey-wordpress-themes/)691
+        * [White](https://qodeinteractive.com/theme-color/white-wordpress-themes/)605
+        * [Grey](https://qodeinteractive.com/theme-color/grey-wordpress-themes/)693
         * [Black](https://qodeinteractive.com/theme-color/black-wordpress-themes/)452
         * [Brown](https://qodeinteractive.com/theme-color/brown-wordpress-themes/)259
-        * [Beige](https://qodeinteractive.com/theme-color/beige-wordpress-themes/)484
+        * [Beige](https://qodeinteractive.com/theme-color/beige-wordpress-themes/)486
         * [Yellow](https://qodeinteractive.com/theme-color/yellow-wordpress-themes/)189
-        * [Orange](https://qodeinteractive.com/theme-color/orange-wordpress-themes/)179
-        * [Red](https://qodeinteractive.com/theme-color/red-wordpress-themes/)173
+        * [Orange](https://qodeinteractive.com/theme-color/orange-wordpress-themes/)180
+        * [Red](https://qodeinteractive.com/theme-color/red-wordpress-themes/)174
         * [Pink](https://qodeinteractive.com/theme-color/pink-wordpress-themes/)209
         * [Purple](https://qodeinteractive.com/theme-color/purple-wordpress-themes/)137
-        * [Blue](https://qodeinteractive.com/theme-color/blue-wordpress-themes/)327
-        * [Turquoise](https://qodeinteractive.com/theme-color/turquoise-wordpress-themes/)168
-        * [Green](https://qodeinteractive.com/theme-color/green-wordpress-themes/)267
-        * [Multicolor](https://qodeinteractive.com/theme-color/multi-wordpress-themes/)288
+        * [Blue](https://qodeinteractive.com/theme-color/blue-wordpress-themes/)330
+        * [Turquoise](https://qodeinteractive.com/theme-color/turquoise-wordpress-themes/)170
+        * [Green](https://qodeinteractive.com/theme-color/green-wordpress-themes/)269
+        * [Multicolor](https://qodeinteractive.com/theme-color/multi-wordpress-themes/)289
     * [Styles](#)
-        * [Modern](https://qodeinteractive.com/theme-style/modern-wordpress-themes/)861
-        * [Creative](https://qodeinteractive.com/theme-style/creative-wordpress-themes/)429
+        * [Modern](https://qodeinteractive.com/theme-style/modern-wordpress-themes/)865
+        * [Creative](https://qodeinteractive.com/theme-style/creative-wordpress-themes/)430
         * [Clean](https://qodeinteractive.com/theme-style/clean-wordpress-themes/)352
-        * [Colorful](https://qodeinteractive.com/theme-style/colorful-wordpress-themes/)332
+        * [Colorful](https://qodeinteractive.com/theme-style/colorful-wordpress-themes/)334
         * [Elegant](https://qodeinteractive.com/theme-style/elegant-wordpress-themes/)329
-        * [Bold](https://qodeinteractive.com/theme-style/bold-wordpress-themes/)280
-        * [Pastel](https://qodeinteractive.com/theme-style/pastel-wordpress-themes/)295
+        * [Bold](https://qodeinteractive.com/theme-style/bold-wordpress-themes/)281
+        * [Pastel](https://qodeinteractive.com/theme-style/pastel-wordpress-themes/)298
         * [Urban](https://qodeinteractive.com/theme-style/urban-wordpress-themes/)270
         * [Feminine](https://qodeinteractive.com/theme-style/feminine-wordpress-themes/)222
         * [Minimal](https://qodeinteractive.com/theme-style/minimal-wordpress-themes/)204
@@ -786,9 +786,9 @@
         * [Alternative](https://qodeinteractive.com/theme-style/alternative-wordpress-themes/)148
         * [Luxurious](https://qodeinteractive.com/theme-style/luxurious-wordpress-themes/)133
     * [Effects](#)
-        * [Scroll Animations](https://qodeinteractive.com/theme-effect/scroll-animations-wordpress-themes/)239
-        * [Typography Effects](https://qodeinteractive.com/theme-effect/typography-effects-wordpress-themes/)210
-        * [Parallax Effects](https://qodeinteractive.com/theme-effect/parallax-effects-wordpress-themes/)166
+        * [Scroll Animations](https://qodeinteractive.com/theme-effect/scroll-animations-wordpress-themes/)241
+        * [Typography Effects](https://qodeinteractive.com/theme-effect/typography-effects-wordpress-themes/)212
+        * [Parallax Effects](https://qodeinteractive.com/theme-effect/parallax-effects-wordpress-themes/)167
         * [Split Slider](https://qodeinteractive.com/theme-effect/split-slider-wordpress-themes/)157
         * [Smooth Page Transitions](https://qodeinteractive.com/theme-effect/smooth-page-transitions-wordpress-themes/)77
         * [Intro Section Effects](https://qodeinteractive.com/theme-effect/intro-section-effects-wordpress-themes/)79
