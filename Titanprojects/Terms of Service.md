@@ -1,4 +1,4 @@
-[![logo](https://titanprojects.co/asset/img/logo.svg)](https://titanprojects.co/)
+[![logo](asset/img/logo.svg)](https://titanprojects.co/)
 
 [](https://titanexplorer.co/ "Explorer 1")[](https://chainz.cryptoid.info/ttn/ "Explorer 2")[](https://github.com/titancoinproject/Titan)
 
@@ -304,8 +304,8 @@ You can reach out to us for clarifications and queries related to these “Terms
 
 Last Updated : Apr 18th, 2021
 
-[FAQs](https://titanprojects.co/faqs) [Privacy Policy](https://titanprojects.co/privacy_policy) [Terms and conditions](https://titanprojects.co/terms_condition) [Terms of use](https://titanprojects.co/terms_of_use) [Fees](https://titanprojects.co/fees) [\[email protected\]](https://titanprojects.co/cdn-cgi/l/email-protection)
+[FAQs](https://titanprojects.co/faqs) [Privacy Policy](https://titanprojects.co/privacy_policy) [Terms and conditions](https://titanprojects.co/terms_condition) [Terms of use](https://titanprojects.co/terms_of_use) [Fees](https://titanprojects.co/fees) [Support](https://titanprojects.co/#9feceaefeff0edebdfebf6ebfef1efedf0f5fafcebecb1fcf0)
 
-Copyright © 2024 titanprojects.co
+Copyright © 2022 titanprojects.co
 
 [](# "Back to top")
