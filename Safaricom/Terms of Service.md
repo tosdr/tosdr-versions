@@ -1,16 +1,16 @@
-Rated 4.9 / 5 based on [516 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [565 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
 Trustpilot
 
 World Travel Awards Nominee 2024 - [Vote for us](https://www.worldtravelawards.com/vote-for-safaricom-africas-leading-safari-company-2024)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
 [+1 (800) 854-1896](tel:+1(800)854-1896)
 
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94417ac4c3ae77682541_logo-cream.svg)](https://www.safari.com/)
+[![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94417ac4c3ae77682541_logo-cream.svg)](https://www.safari.com/)
 
 __
 
@@ -54,8 +54,6 @@ SOUTHERN AFRICA
 
 [Okavango Delta](https://www.safari.com/destinations/okavango-delta)
 
-[SA National Parks](https://www.safari.com/destinations/sanparks)
-
 [Victoria Falls](https://www.safari.com/destinations/victoria-falls)
 
 [Zambia](https://www.safari.com/destinations/zambia)
@@ -92,7 +90,7 @@ HOLIDAY TYPES
 
 About us
 
-[Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Contact us](https://www.safari.com/contact)
+[Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Contact us](https://www.safari.com/contact)
 
 Menu
 
@@ -108,7 +106,7 @@ GENERAL INFORMATION
 3. You can learn more about the Afritrip shareholders [here](https://www.safari.com/travel-with-us#financial-protection).
 4. Safari.com is an authorised reseller of all products listed on this website. In particular it is an authorised reseller of products in which it has a binding tour operator agreement.
 5. Currency and merchant outlet country - transaction Currency is ZAR (South African Rand). The merchant outlet country at the time of presenting payment options to the cardholder is South Africa.
-6. Users may contact Safari.com by sending an email to [enquiry@safari.com](mailto:enquiry@safari.com) or by using the ‘Contact Us’ button on the website. Users may also make contact by calling **+27 21 468 7255** or sending a fax to **+27 21 468 7250**.
+6. Users may contact Safari.com by sending an email to [\[email protected\]](https://www.safari.com/cdn-cgi/l/email-protection) or by using the ‘Contact Us’ button on the website. Users may also make contact by calling **+27 21 468 7255** or sending a fax to **+27 21 468 7250**.
 7. Safari.com may use all information submitted to further promote it and its partners’ websites and or services.
 8. Safari.com may, in its sole discretion, change this agreement or any part thereof at any time without notice.
 9. Safari.com chooses as its domicilium citandi et executandi for all purposes under this agreement, whether in respect of court process, notice, or other documents or communication of whatsoever nature, 4 Loop Street, Gardens, Cape town, 8000, South Africa.
@@ -119,7 +117,7 @@ GENERAL INFORMATION
 
 DISCLAIMER
 
-1. All information and systems are the property of Afritrip Group. Apart from the provisions of sections 43(5) and 43(6) of the Electronic Communications and Transactions Act, neither Safari.com nor any of its agents or representatives shall be liable for any damage, loss or liability of whatsoever nature arising from the use or inability to use this website or the services or content provided from and through this website. Furthermore, Safari.com makes no representations or warranties, implied or otherwise, that, amongst others, the content and technology available from this website are free from errors or omissions or that the service will be uninterrupted and error free. Users are encouraged to report any possible malfunctions and errors to [dev@afritrip.com](mailto:dev@afritrip.com).
+1. All information and systems are the property of Afritrip Group. Apart from the provisions of sections 43(5) and 43(6) of the Electronic Communications and Transactions Act, neither Safari.com nor any of its agents or representatives shall be liable for any damage, loss or liability of whatsoever nature arising from the use or inability to use this website or the services or content provided from and through this website. Furthermore, Safari.com makes no representations or warranties, implied or otherwise, that, amongst others, the content and technology available from this website are free from errors or omissions or that the service will be uninterrupted and error free. Users are encouraged to report any possible malfunctions and errors to [\[email protected\]](https://www.safari.com/cdn-cgi/l/email-protection).
 2. Information, ideas and opinions expressed on this site should not be regarded as professional advice or the official opinion of Safari.com and users are encouraged to consult professional advice before taking any course of action related to information, ideas or opinions expressed on this site.
 3. The establishment owner and/or operator agrees that guest comments can be published on the establishment listing by guests who have stayed at the establishment and further agrees that Safari.com is not liable or responsible in any way for the verification or accuracy of any guest comments made.
 4. In terms of these standard trading conditions, and any contract/s concluded pursuant hereto, Safari.com acts as agent only for and on behalf of the client in procuring the services. As such, Safari.com shall procure the services for and behalf of the client as agent for it with relevant third party service providers concerned. Safari.com shall, under no circumstances, be liable for the acts and omissions of the relevant third party suppliers concerned.
@@ -211,139 +209,139 @@ VARIATION OF THESE TERMS
 
 1. No variation of these standard terms and conditions will be accepted unless present in a written document, signed by a director of Afritrip Group.
 
-![Trustpilot Logo](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
+![Trustpilot Logo](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
 
 4.9
 
 out of 5 based on
 
-[516 reviews](https://www.trustpilot.com/review/www.safari.com)
+[565 reviews](https://www.trustpilot.com/review/www.safari.com)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 20, 2024
+> Jul 19, 2024
 
-> Booking
+> Safari had a lot of tours to choose…
 
-> Booking Easy and convenient. Response from Safari was promt. Thank you Heleen
+> Safari had a lot of tours to choose from. I’m not a big fan of communicating via emails but they responded promptly! Candis reached out to us immediately and within 2 hours or so we knew which tour company we wanted to use.
 
-Genie Conradie
+Paul N Brenda
 
 ,
 
-ZA
+US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 20, 2024
+> Jul 19, 2024
 
-> I contacted Safari.com and spoke to…Mel
+> Nicole has been incredible with her…
 
-> I contacted Safari.com and spoke to Mel, what can be a daunting process Mel’s friendly, professional attitude put me straight away at ease, our conversations went on for a couple of days , I now all booked for my trip to Cape Town and Safari I so looking forward to it , thank you Mel I would definitely recommend booking through Safari.com and if your as lucky as I was you may get Mel. Also I would like to add that Mel now is our guide for our trip and that is so assuring! Thank you again Mel
+> Nicole has been incredible with her responses and even communicating with us after hours. A 5-star level of customer service 👍👍
 
-David Myerscough
+Fabio Comana
+
+,
+
+US
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 18, 2024
+
+> Anja did everything we asked of her in…
+
+> Anja did everything we asked of her in a very personal and professional manner, If my circumstances change in the near future I will not hesitate to get in touch with her again.
+
+Mr Paul Rolt
 
 ,
 
 GB
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 19, 2024
+> Jul 18, 2024
 
-> Dolan is a great travel agent
+> I want to thank safari
 
-> Dolan is very knowledgeable, friendly and helpful. He answered all of our questions and worked very hard to create the itinerary that we wanted.
+> I want to thank safari. com and special mention to Leigh Ann! This is the second time she has organized travel for me, and she does it simply gorgeous.
 
-JP
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 19, 2024
-
-> Leigh-Ann Croeser is a Gem
-
-> Leigh-Ann Croeser is a Gem. We never had an agent so dedicated and full of surprises like her. She gave us options we did not even know they exist. We feel lucky and welcomed. Thank you so much Leigh-Ann Croeser. You are our main agent from now on.
-
-Anas Almajed
+DMITRY
 
 ,
 
-SA
+RU
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 19, 2024
+> Jul 17, 2024
 
-> Efficient and friendly service!
+> We were in contact with them…
 
-> Had quick, efficient and friendly service from Tanya Lomas. Effortless process and looking forward to our stay!
+> We were in contact with them immediately and they replied all our doubts. Leigh-Ann was very clear with explanations about how to reach the Lodge and what is included. Also, the payment process is simple and gave us the possibility to make half payment as we were sharing a room
 
-Lynne Groenewald
-
-,
-
-ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jun 19, 2024
-
-> We are immensely grateful for Shann’s…
-
-> We are immensely grateful for Shann’s extraordinary efforts in booking our African safari. Her attention to detail, tireless work, and exceptional service have made this experience unforgettable. Thank you from the bottom of our hearts. A shout out to the lovely Clarisha for finalising the bookings and ticketing. We are so excited for our Safari ..
-
-Lily Nelson
+sonia
 
 ,
 
-AU
+ES
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 18, 2024
+> Jul 17, 2024
 
-> Dorothy has been great ..
+> Simply the most helpful agent I have…
 
-> Dorothy has been great ... prompt, professional, flexible, answers all questions.
+> Simply the most helpful agent I have dealt with. Shann goes way beyond what you would expect to make sure you have the holiday you are really looking for. We will definitely use again. Thank you
 
-Doug Frost
+GREG
 
 ,
 
-US
+GB
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 18, 2024
+> Jul 17, 2024
 
-> Thank you Heleen for your excellent…
+> The lady that assisted me with this…
 
-> Thank you Heleen for your excellent service every time I want to make a booking.
+> The lady that assisted me with this booking was very professional and helpful. Made the process painless
 
-Wilma
+James Daniels
 
 ,
 
 ZA
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
-> Jun 15, 2024
+> Jul 17, 2024
 
-> Our agent Dolan Sequera was superb
+> Great and friendly service
 
-> Our agent Dolan Sequera was superb. Responsive, easy to talk to over WhatsApp and full of good ideas and options to fulfill our requirements. I couldn’t recommend him more highly and through him Safari.com. We’ve never been happier with travel service.
+> Mel offered exceptional and friendly service and really went out of her way to meet an extensive wish list. She is a true ambassador for the Safari brand, and I look forward to collaborating with Safari for future travel.
 
-Tan Chi Chiu
+Jacqui L
 
 ,
 
-SG
+ZA
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 16, 2024
+
+> Great experience booking with Dolan
+
+> Great experience booking with Dolan. Just got back from our trip and had the the absolute best time. Everything was seamless and perfect.
+
+Liz H
+
+,
+
+US
 
 VIP service
 
@@ -363,11 +361,11 @@ Consultants available 24/7
 
 Contact a safari expert now
 
- [![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/638500515c3f6754a3924b53_WhatsApp%20icon.png)
+ [![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/638500515c3f6754a3924b53_WhatsApp%20icon.png)
 
- WhatsApp](https://go.wa.link/africansafari)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd3dae70e909fa3afc073_Flag%20SA.png)
+ WhatsApp](https://go.wa.link/africansafari)[![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd3dae70e909fa3afc073_Flag%20SA.png)
 
-+27 21 468 7255](tel:+27214687255)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
++27 21 468 7255](tel:+27214687255)[![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
 (800) 854-1896](tel:(800)854-1896)
 
@@ -379,12 +377,12 @@ Contact a safari expert now
 
 ### About us
 
-* [Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)
-* [Contact Us](https://www.safari.com/contact)[Safari specials](https://www.safari.com/offers)
+* [Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
+* [Contact Us](https://www.safari.com/contact)
 
 ### Blog
 
-* [Blog home](https://www.safari.com/blog)[Top 10 African Safaris](https://www.safari.com/blog/top-10-best-african-safari-tours)[Top 10 lodges in Kruger Park](https://www.safari.com/blog/top-10-luxury-lodges-in-the-greater-kruger-park)[Top 10 Okavango Lodges](https://www.safari.com/blog/top-10-okavango-delta-lodges)[Top 10 lodges in the Sabi Sands](https://www.safari.com/blog/top-10-lodges-in-the-sabi-sands)[Top 10 migration lodges](https://www.safari.com/blog/top-10-great-migration-lodges)[What does a safari cost in Africa](https://www.safari.com/blog/what-does-a-safari-cost-in-africa)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
+* [Blog home](https://www.safari.com/blog)[Top 10 African Safaris](https://www.safari.com/blog/top-10-best-african-safari-tours)[Top 10 lodges in Kruger Park](https://www.safari.com/blog/top-10-luxury-lodges-in-the-greater-kruger-park)[Top 10 Okavango Lodges](https://www.safari.com/blog/top-10-okavango-delta-lodges)[Top 10 lodges in the Sabi Sands](https://www.safari.com/blog/top-10-lodges-in-the-sabi-sands)[Top 10 migration lodges](https://www.safari.com/blog/top-10-great-migration-lodges)[What does a safari cost in Africa](https://www.safari.com/blog/what-does-a-safari-cost-in-africa)[Best value for money lodges in Africa](https://www.safari.com/blog/best-value-for-money-luxury-safari-lodges)[Safety tips for traveling in Africa](https://www.safari.com/blog/safety-tips-for-travel-in-africa)
 
 ### Social
 
@@ -392,11 +390,11 @@ Contact a safari expert now
 * [Instagram](https://www.instagram.com/safaridotcom)
 * [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@Safaricom-iz5ff)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
 
 #### Travel Wise  
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/664ccabd035a0696e62d82e3_africas-leading-safari-company-2024-nominee-shield-256.png)
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/664ccabd035a0696e62d82e3_africas-leading-safari-company-2024-nominee-shield-256.png)
 
 #### Safari.com is a nominee for the World Travel Awards 2024, to vote for us [click here](https://www.worldtravelawards.com/vote-for-safaricom-africas-leading-safari-company-2024)  
 
@@ -405,7 +403,7 @@ Contact a safari expert now
 Victoria & Alfred Waterfront,  
 Cape Town  
 
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
+[![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)](https://www.safari.com/travel-with-us#atta-certified)[![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)](https://www.safari.com/travel-with-us#satsa-certified)
 
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
