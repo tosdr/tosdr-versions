@@ -1,8 +1,10 @@
 [Skip to content](#content)
 
-[Facebook](https://www.facebook.com/zeamhealth) [Instagram](https://www.instagram.com/zeam_aesthetics/)
+[Patient Portal](https://pp-wfe-102.advancedmd.com/150204/account/logon)
 
-[![](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
+Request an Appointment
+
+[![zeam health and wellness, primary care, mental heatlh, aesthetics](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
 
 * [About](https://www.zeamhealth.com/about/)
     * [Mental Health Team](https://www.zeamhealth.com/mental-health-team/)
@@ -10,42 +12,29 @@
     * [Aesthetics Team](https://www.zeamhealth.com/aesthetics-team/)
 * Services
     
-    [![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Primary-Care-Hero-Image-1-768x563.jpg)](http://zeamhealth.com/primary-care/)
-    
-    [Primary Care](http://zeamhealth.com/primary-care/)
-    
-    [![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Aesthetics-768x432.webp)](http://zeamhealth.com/mental-health/)
-    
-    [Mental Health](http://zeamhealth.com/mental-health/)
-    
-    [![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Primary-Care-768x432.webp)](http://zeamhealth.com/aesthetics/)
-    
-    [Aesthetics](http://zeamhealth.com/aesthetics/)
-    
+    * [Mental Health](https://www.zeamhealth.com/mental-health/)
+    * [Primary Care](https://www.zeamhealth.com/primary-care/)
+    * [Aesthetics](https://www.zeamhealth.com/aesthetics/)
 * Patient Resources
     
-    * [Blog](https://www.zeamhealth.com/blog/)
-    * [Insurances & Financing](https://www.zeamhealth.com/insurances-financing/)
+    * [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
+    * [Insurance & Financing](https://www.zeamhealth.com/insurances-financing/)
     * [Membership Program](https://www.zeamhealth.com/membership-program/)
-* [Testimonials](https://www.zeamhealth.com/testimonials/)
+* Locations
+    
+    * [Sacramento](https://www.zeamhealth.com/locations/sacramento/)
+    * [Roseville](https://www.zeamhealth.com/locations/roseville/)
+    * [Folsom](https://www.zeamhealth.com/locations/folsom/)
 * [Contact Us](https://www.zeamhealth.com/contact-us/)
-
-[](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc2MzQiLCJ0b2dnbGUiOnRydWV9)
-
-Request an Appointment
 
 [Patient Portal](https://pp-wfe-102.advancedmd.com/150204/account/logon)
 
-![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Path_.png)
-
-![](https://www.zeamhealth.com/wp-content/uploads/2024/04/Path_.png)
+Request an Appointment
 
 Terms & Conditions
 ==================
 
 Here are the legal terms that govern your use of our health and wellness information, emphasizing that it is not a substitute for professional medical advice.
-
-[Read More](#)
 
 ![Terms and Conditions](https://www.zeamhealth.com/wp-content/uploads/2024/05/Terms-and-Conditions.jpg)
 
@@ -122,83 +111,96 @@ Connect with us at Zeam Health & Wellness. Whether you need detailed information
 
 [Contact Us](https://www.zeamhealth.com/contact-us/)
 
-[![](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
+###### For more information or to schedule an appointment, feel free to contact us directly.
 
-[Facebook](https://www.facebook.com/zeamhealth) [Instagram](https://www.instagram.com/zeam_aesthetics/)
+[Text us](sms:%20+19164714494)
 
-Pioneering pathways to health and beauty. Discover our holistic approach to wellness. Visit us, follow our journey, or reach out for expert care.
+[![zeam health and wellness, primary care, mental heatlh, aesthetics](https://www.zeamhealth.com/wp-content/uploads/2024/03/zeam-logo-Color.png)](https://www.zeamhealth.com/)
+
+Discover our holistic approach to wellness. Visit us, follow our journey, or reach out for expert care
+
+### [Sacramento](https://www.zeamhealth.com/locations/sacramento/)
+
+* Psychiatry & Therapy Services
+* 1451 River Park Dr. Ste 100  
+    Sacramento, CA 95815
+* [(916) 292-9700](tel:+19162929700)
+
+### [Folsom](https://www.zeamhealth.com/locations/folsom/)
+
+* Psychiatry, Therapy & Primary Care
+* 193 Blue Ravine Rd, Ste 170A  
+    Folsom, CA 95630
+* [(916) 608-0714](tel:+19166080714)
+
+### [Roseville](https://www.zeamhealth.com/locations/roseville/)
+
+* Psychiatry, Therapy, Primary Care & Aesthetics
+* 508 Gibson Dr. Ste 150-160  
+    Roseville, CA 95678
+* [(916) 865-3670](tel:+19168653670)
 
 ### Other Links
 
 * [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/)
 * [Terms & Conditions](https://www.zeamhealth.com/our-terms/)
 * [Accessibility Notice](https://www.zeamhealth.com/accessibility-notice/)
+* [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
+* [Insurance & Financing](https://www.zeamhealth.com/insurances-financing/)
 * [Contact Us](https://www.zeamhealth.com/contact-us/)
 
 * [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/)
 * [Terms & Conditions](https://www.zeamhealth.com/our-terms/)
 * [Accessibility Notice](https://www.zeamhealth.com/accessibility-notice/)
+* [Zeam Wellness Digest](https://www.zeamhealth.com/blog/)
+* [Insurance & Financing](https://www.zeamhealth.com/insurances-financing/)
 * [Contact Us](https://www.zeamhealth.com/contact-us/)
 
-### Contact Details
+Appointment Request Form
+------------------------
 
-* [916-865-3670](tel:916-865-3670)
-* 508 Gibson Dr, Suite 150-160,  
-    Roseville, CA 95678
+            
 
-Appointment Request
--------------------
+Are you a new or returning patient?  
+NewReturning
+
+First Name  
+
+Last Name  
+
+Email  
+
+Phone  
+
+Date of Birth  
+
+Are you the patient?  
+YesNo
+
+Sex  
+MaleFemaleOther
+
+Reason (optional)  
+
+Insurance carrier and plan name  
+
+Insurance member id #  
+
+Insurance group id #  
+
+Additional notes for the office:  
 
   
+1  
+I have read and agreed to the [Privacy Policy](https://www.zeamhealth.com/privacy-policy-2/) and [Terms of Use](https://www.zeamhealth.com/our-terms/) and I am at least 13 and have the authority to make this appointment.  
 
-Preferred method of communication \*
+I agree to receive text messages from this practice and understand that message frequency and data rates may apply.
 
-Returning
-
-New
-
-First Name \*
-
-Last Name \*
-
-Email \*
-
-Phone \*
-
-Date of Birth
-
-Sex
-
-Male
-
-Female
-
-Other
-
-Reason (optional)
-
-I have read and agreed to the <a target="\_blank" href="https://zeamhealth.com/your-privacy" aria-describedby="audioeye\_new\_window\_message"> Privacy Policy </a> and <a target="\_blank" href="https://zeamhealth.com/our-terms" aria-describedby="audioeye\_new\_window\_message"> Terms of Use </a> and I am at least 13 and have the authority to make this appointment.
-
-I Agree
+* * *
 
 PLEASE NOTE: This is an appointment request only. The office will reach out to you to confirm the appointment date and time. If this is an emergency, please call the office.
 
-Request Appointment
-
-* [About](https://www.zeamhealth.com/about/)
-    * [Mental Health Team](https://www.zeamhealth.com/mental-health-team/)
-    * [Primary Care Team](https://www.zeamhealth.com/primary-care-team/)
-    * [Aesthetics Team](https://www.zeamhealth.com/aesthetics-team/)
-* Services
-    * [Primary Care](https://www.zeamhealth.com/primary-care/)
-    * [Mental Health](https://www.zeamhealth.com/mental-health/)
-    * [Aesthetics](https://www.zeamhealth.com/aesthetics/)
-* Patient Resources
-    * [Blog](https://www.zeamhealth.com/blog/)
-    * [Insurances & Financing](https://www.zeamhealth.com/insurances-financing/)
-    * [Membership Program](https://www.zeamhealth.com/membership-program/)
-* [Testimonials](https://www.zeamhealth.com/testimonials/)
-* [Contact Us](https://www.zeamhealth.com/contact-us/)
+* * *
 
 Appointment Request
 -------------------
