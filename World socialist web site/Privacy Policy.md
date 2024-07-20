@@ -177,13 +177,13 @@ You can opt-out of having made your activity on the Service available to Google 
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
-**SharpSpring**
+**GetSiteControl**
 
-Our website uses “SharpSpring” software to collect information about your use of our site, which we then use to learn about your interests and market products and services to you via phone, email or through our website. SharpSpring can only collect personally identifiable information if you provide your information through a form submission. However, it can collect non-personal information, such as IP addresses, browser types, system types, and the referring URLs. It also assigns your device a unique user ID, which can then be used to track the content and pages that you access, as well as the frequency and duration of your visits to our site.
+Our website uses “GetSiteControl” software to collect information about your use of our site, which we then use to learn about your interests and improve your experience through targeted content and marketing efforts. GetSiteControl can only collect personally identifiable information if you provide your information through a form submission. However, it can collect IP addresses, browser types, system types, and referring URLs. It also adds a cookie which can then be used to track the content and pages that you access, as well as the frequency and duration of your visits to our site.
 
-SharpSpring has chosen to take part in and certify its adherence to the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. You can read more about the steps SharpSpring has taken to protect the privacy of your information here: [https://sharpspring.com/legal/us-eu-privacy-notice/](https://sharpspring.com/legal/us-eu-privacy-notice/)
+GetSiteControl adheres to strict data protection practices and complies with relevant privacy regulations to ensure the security of your information. You can read more about the measures GetSiteControl has taken to protect the privacy of your information here: [GetSiteControl Privacy Policy](https://getsitecontrol.com/privacy/).
 
-While SharpSpring plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but SharpSpring. SharpSpring’s ability to use and share information collected by their software about your visits to our site is restricted by SharpSpring’s Privacy Policy: [https://sharpspring.com/legal/privacy/](https://sharpspring.com/legal/privacy/). You can prevent SharpSpring from recognizing you on return visits to this site by disabling cookies on your browser.
+While GetSiteControl adds a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but GetSiteControl. GetSiteControl’s ability to use and share information collected by their software about your visits to our site is restricted by GetSiteControl’s Privacy Policy. You can prevent GetSiteControl from recognizing you on return visits to this site by disabling cookies on your browser.
 
 #### Transfer of Data
 
