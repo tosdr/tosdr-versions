@@ -558,10 +558,10 @@ Hosting
 
 [Insurance & protection](https://turo.com/us/en/car-rental/united-states/insurance)
 
-* [Facebook](https://www.facebook.com/turo)
-* [Twitter](https://www.twitter.com/turo)
+* [Facebook](http://www.facebook.com/turo)
+* [Twitter](http://www.twitter.com/turo)
 * [Instagram](https://instagram.com/turo/)
-* [Youtube](https://www.youtube.com/turo)
+* [Youtube](http://www.youtube.com/turo)
 * [Blog](https://turo.com/blog/)
 
 * [App Store](https://itunes.apple.com/app/relayrides/id555063314?mt=8&ls=1)
