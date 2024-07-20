@@ -209,7 +209,11 @@ If you have any comments or questions about the information presented here, plea
 **USDA Ethics Mobile Application (USDA Ethics App) and USDA Civil Rights Mobile Application (USDA Civil Rights App)**
 ---------------------------------------------------------------------------------------------------------------------
 
-When you browse through the USDA Ethics App and/or the USDA Civil Rights App and read pages or download information, we do not gather personal information about your visit. We do not use technologies to track your browsing habits on either of these mobile applications and we do not track your viewing activities on either of these mobile applications.
+When you browse through the USDA Ethics App and/or the USDA Civil Rights App and read pages or download information, the app automatically collects certain information about usage of the Application to help understand how users use the Application, none of this information identifies individuals personally.
+
+The information collected is solely on the usage of the Application from within the Application, and none of this information identifies individuals personally. For example, each time an individual visit the Application, it automatically collects users access times, bandwidth usage and the modules contained in the Application individuals use the most. The information collected is used to (1) better understand individual needs and the needs of the Application and Services users in the aggregate; (2) for statistical purposes to keep track of the usage of the Services with a view to introducing improvements; and (3) to trace any fraudulent or criminal activity, or any activity in violation of the Terms of Use.
+
+Location Opting In: When a individuals opt in to background location tracking by the app, only the last known location is saved (replaces the previous location). Static locations may also be configured by subscribing to one or many U.S. ZIP code regions.
 
 [Return to top](#)
 
