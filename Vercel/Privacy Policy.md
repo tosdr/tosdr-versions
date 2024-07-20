@@ -2,47 +2,6 @@
 
 [](https://vercel.com/home)
 
-[Sign Up](https://vercel.com/signup)[Log In](https://vercel.com/login)
-
-* ### Products
-    
-    * [Previews](https://vercel.com/products/previews)
-    * [AI](https://vercel.com/ai)
-    * [Rendering](https://vercel.com/products/rendering)
-    * [Observability](https://vercel.com/products/observability)
-    * [Security](https://vercel.com/security)
-    * [Next.js](https://vercel.com/frameworks/nextjs)
-    * [Turborepo](https://vercel.com/solutions/turborepo)
-    
-* ### Solutions
-    
-    * [Enterprise](https://vercel.com/enterprise)
-    * [AI Apps](https://vercel.com/ai)
-    * [Composable Commerce](https://vercel.com/solutions/composable-commerce)
-    * [Web Apps](https://vercel.com/solutions/web-apps)
-    * [Platform Engineering](https://vercel.com/solutions/platform-engineering)
-    * [Marketing Sites](https://vercel.com/solutions/marketing-sites)
-    * [Multi-tenant SaaS](https://vercel.com/solutions/multi-tenant-saas)
-    
-* ### Resources
-    
-    * [Resource Center](https://vercel.com/resources)
-    * [Integrations](https://vercel.com/integrations)
-    * [Templates](https://vercel.com/templates)
-    * [Guides](https://vercel.com/guides)
-    * [Customers](https://vercel.com/customers)
-    * [Blog](https://vercel.com/blog)
-    * [Changelog](https://vercel.com/changelog)
-    
-* [Docs](https://vercel.com/docs)
-* [Pricing](https://vercel.com/pricing)
-* [Contact](https://vercel.com/contact)
-
-* Theme
-    
-    Select a display theme:
-    
-
 * Products
     
     * ##### DX Platform
@@ -75,26 +34,31 @@
     
 * Solutions
     
-    * ##### Industries
+    * ##### Use Cases
         
         * [AI Apps
             
-            Powering breakthroughs](https://vercel.com/ai)
+            Deploy at the speed of AI](https://vercel.com/ai)
         * [Composable Commerce
             
-            Storefronts that convert](https://vercel.com/solutions/composable-commerce)
-        * [Web Apps
-            
-            Lightning speed, max polish](https://vercel.com/solutions/web-apps)
-        * [Platform Engineering
-            
-            Your platform for success](https://vercel.com/solutions/platform-engineering)
+            Power storefronts that convert](https://vercel.com/solutions/composable-commerce)
         * [Marketing Sites
             
-            Content-heavy, blazing fast](https://vercel.com/solutions/marketing-sites)
-        * [Multi-tenant SaaS
+            Launch campaigns fast](https://vercel.com/solutions/marketing-sites)
+        * [Multi-tenant Platforms
             
-            One codebase, infinite domains](https://vercel.com/solutions/multi-tenant-saas)
+            Scale apps with one codebase](https://vercel.com/solutions/multi-tenant-saas)
+        * [Web Apps
+            
+            Ship features, not infrastructure](https://vercel.com/solutions/web-apps)
+    * ##### Users
+        
+        * [Platform Engineers
+            
+            Automate away repetition](https://vercel.com/solutions/platform-engineering)
+        * [Design Engineers
+            
+            Deploy for every idea](https://vercel.com/solutions/design-engineering)
     
 * Resources
     
@@ -128,14 +92,14 @@
 * [Docs](https://vercel.com/docs)
 * [Pricing](https://vercel.com/pricing)
 
-[Contact](https://vercel.com/contact)[Log In](https://vercel.com/login)
+[Log In](https://vercel.com/login)[Contact](https://vercel.com/contact)
 
 [Sign Up](https://vercel.com/signup)
 
 Privacy Policy
 ==============
 
-Last Updated Apr 22, 2024
+Last Updated April 22, 2024
 
 On this page
 
@@ -622,4 +586,4 @@ Company
 * [](https://github.com/vercel)
 * [](https://x.com/vercel)
 
-Select a display theme:
+Select a display theme:systemlightdark
