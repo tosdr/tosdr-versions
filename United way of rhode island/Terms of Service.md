@@ -146,39 +146,41 @@ In the News
 
 [See all news](https://www.unitedwayri.org/about-us/newsroom/)
 
-![Studio10's Ben DeCastro talking with Kevin Matta, senior director of people and culture for United Way of Rhode Island.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Screen-Shot-2024-06-17-at-9.21.26-AM-1024x577-landscape-898330ae2a425dd551d96965c925002f-.png "Ben_DeCastro_Kevin_Matta")
+![Courtney_Bourns_Headshot-transformed-1365x2048](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Courtney_Bourns_Headshot-transformed-1365x2048-1-683x1024-landscape-8e1d6bf6977d12f28280f94d6e825f3f-.jpeg "Courtney_Bourns_Headshot-transformed-1365x2048")
 
-#### United Way’s Equity Challenge to honor Juneteenth
+#### Grantmakers Council of R.I. names Bourns new executive director
 
-June 17, 2024
+July 17, 2024
 
-###### Studio10
+###### PBN
 
-[Studio10](https://turnto10.com/studio10)'s Ben DeCastro is learning more about... [United Way of Rhode Island's Equity Challenge](https://www.unitedwayri.org/get-involved/commit-to-equity/). The event is meant to help people and businesses become more knowledgeable about topics surrounding diversity, equity, inclusion, justice and more.
+Courtney Bourns, who has served as a strategy and program consultant for multiple foundations across the country for the last six years, has been named the new executive director for the Grantmakers Council of Rhode Island, the financial support nonprofit announced Tuesday.
 
-[VIEW ON SITE](https://turnto10.com/studio10/united-way-of-rhode-islands-equity-challenge-to-honor-juneteenth#)
+[VIEW ON SITE](https://pbn.com/grantmakers-council-of-r-i-names-bourns-new-executive-director/)
 
-![Roshni Darnal is United Way of Rhode Island’s director of community investments. / Courtesy United Way of Rhode Island.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Five_Questions_With_Roshni_Darnal_Featured_Image-landscape-20d9e5a7c321ddf7475f491e433bfaa4-.png "Five_Questions_With_Roshni_Darnal_Featured_Image")
+![Americans-turn-to-211-helpline-amid-mounting-economic-hardships-CBS-News](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Americans-turn-to-211-helpline-amid-mounting-economic-hardships-CBS-News-1024x576-landscape-9b27b99916c65648926c52e6ef641c59-.png "Americans-turn-to-211-helpline-amid-mounting-economic-hardships-CBS-News")
 
-#### Five Questions With: Roshni Darnal
+#### Americans turn to 211 helpline amid mounting economic hardships
 
-June 6, 2023
+July 11, 2024
 
-###### Providence Business News
+###### CBS News
 
-Roshni Darnal is the director of community investments for [United Way of Rhode Island](https://www.unitedwayri.org/)... where she manages the organization's strategic direction to address the needs of Rhode Islanders through its grantmaking processes… Darnal spoke with [Providence Business News](https://pbn.com/) about those grantmaking changes and what it means for the nonprofit community moving forward.
+The Wall Street Journal reports Americans are turning to social services helpline 211 in economic emergencies. Rachel Wolfe, consumer trends reporter for The Wall Street Journal, joins CBS News to discuss.
 
-[READ ON SITE](https://pbn.com/five-questions-with-roshni-darnal/?bypass=647fb397abf74)
+[VIEW ON SITE](https://www.youtube.com/watch?v=rldtvx4swxw)
 
-![fcari-migration-6](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/fcari-migration-6-landscape-1a9793fdb325b7708189b2e1afa433d8-.jpg "fcari-migration-6")
+![RogerWilliamsEast1-JeremyBernfeld-scaled](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/RogerWilliamsEast1-JeremyBernfeld-scaled-1-1024x576-landscape-42ea7e8de02cedd2fe5d2f5b0468725f-.webp "RogerWilliamsEast1-JeremyBernfeld-scaled")
 
-#### FCARI: Prescription Delivery Services for Seniors
+#### Internet After the End of the COVID-era Affordable Connectivity Program
 
-May 10, 2023
+June 21, 2024
 
-According to the Kaiser Family Foundation, 89% of adults 65 and older take prescription medicine. For seniors who have mobility issues or are unable to leave their homes to go to the pharmacy, using a prescription delivery service is a simple solution.
+###### The Public's Radio
 
-This resource provides seniors and their caregivers with the top prescription delivery services, information on financial assistance options, and guidance on choosing the best service for their specific needs. Learn more at: [www.caring.com/best-prescription-delivery-services/](https://www.caring.com/best-prescription-delivery-services/)
+Courtney Smith, Director of Innovation and Community Outreach at the United Way of Rhode Island joins The Public's Radio to discuss tips on accessing affordable and reliable internet after the end of the COVID-era Affordable Connectivity program.
+
+[VIEW ON SITE](https://thepublicsradio.org/the-weekly-catch/how-medical-malpractice-fails-everyone-big-changes-coming-to-rhode-island-hospitals-and-more/)
 
 Press Releases
 
@@ -215,19 +217,7 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
-[![WebBanners1](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/WebBanners1-scaled-1024x455-landscape-d1e25a036d62cdc3377f93e606b98a7d-.jpg "WebBanners1")](https://www.unitedwayri.org/event/equity-challenge-2024/)
-
-19 Jun
-
-#### [Equity Challenge 2024](https://www.unitedwayri.org/event/equity-challenge-2024/ "Equity Challenge 2024")
-
-June 19 - 27, 2024
-
-Over the course of 7 days, employees throughout the state of Rhode Island will have the opportunity to participate in various activities, each designed to broaden perspectives and inspire meaningful conversations while demonstrating an individual and/or organizational commitment to equity.
-
-[Register](https://www.unitedwayri.org/get-involved/commit-to-equity/)
-
-[![Bill Allen and Elliott Rivera laughing with another attendee.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-102-scaled-1024x683-landscape-c225b92d7005baf4964dc22096a671db-.jpg "DAP_United_FarmF-102")](https://www.unitedwayri.org/event/annual-celebration-2024/)
+[![DAP_United_FarmF-113_web](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://www.unitedwayri.org/event/annual-celebration-2024/)
 
 10 Oct
 
