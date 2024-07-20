@@ -74,7 +74,7 @@ Hardware
 
 YubiEnterprise Services
 
-* [YubiEnterprise Subscription](https://www.yubico.com/products/yubienterprise-subscription/)
+* [YubiKey as a Service](https://www.yubico.com/products/yubikey-as-a-service/)
 * [YubiEnterprise Delivery](https://www.yubico.com/products/yubienterprise-delivery/)
 
 Software and Services
@@ -175,11 +175,11 @@ Industries
 
 * [High tech](https://www.yubico.com/industries/technology/)
 * [Federal government](https://www.yubico.com/industries/federal/)
+* [Department of Defense](https://www.yubico.com/industries/us-department-of-defense/)
 * [Federal systems integrators](https://www.yubico.com/industries/federal-systems-integrators/)
 * [State & local government](https://www.yubico.com/industries/state-local-government/)
 * [Education](https://www.yubico.com/industries/education/)
 * [Financial services](https://www.yubico.com/industries/finance/)
-* [Insurance organizations](https://www.yubico.com/industries/phishing-resistant-mfa-and-passwordless-for-insurance-organizations/)
 
 * [Retail & hospitality](https://www.yubico.com/industries/retail-and-hospitality/)
 * [Telecommunications](https://www.yubico.com/industries/telecommunications/)
@@ -189,6 +189,7 @@ Industries
 * [Energy & natural resources](https://www.yubico.com/industries/energy-and-natural-resources/)
 * [Manufacturing](https://www.yubico.com/industries/manufacturing/)
 * [Elections & campaigns](https://www.yubico.com/industries/political-campaigns/)
+* [Insurance organizations](https://www.yubico.com/industries/phishing-resistant-mfa-and-passwordless-for-insurance-organizations/)
 
 [![man working a manufacturing line](https://www.yubico.com/wp-content/uploads/2023/03/img-mfg-nav.jpg)
 
@@ -280,7 +281,7 @@ Services
 
 * [Support Services](https://www.yubico.com/support/support-services/)
 * [Professional Services](https://www.yubico.com/support/yubico-for-professional-services/)
-* [YubiEnterprise Subscription](https://www.yubico.com/products/yubienterprise-subscription/)
+* [YubiKey as a Service](https://www.yubico.com/products/yubikey-as-a-service/)
 
 Additional resources
 
