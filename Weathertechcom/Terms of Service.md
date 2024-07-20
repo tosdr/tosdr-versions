@@ -7,6 +7,7 @@ $
 [Skip to Main Content](#maincontent) [WeatherTech](https://www.weathertech.com/)
 
 * View All Products
+    * [View All Products](https://www.weathertech.com/products/)
     * [Interior Protection](https://www.weathertech.com/products/interior-protection/)
     * [Exterior Protection](https://www.weathertech.com/products/exterior-protection/)
     * [Anti-Fatigue Comfort Mats](https://www.weathertech.com/products/anti-fatigue-comfort-mats/)
@@ -24,7 +25,6 @@ $
     * [Gift Cards](https://www.weathertech.com/gift-cards/)
     * [New Products](https://www.weathertech.com/products/new-products/)
     * [Bracelets for Africa](https://www.braceletsforafrica.com/)
-    * [View All Products](https://www.weathertech.com/products/)
 * Vehicle selected 0 Shop Your Vehicle
     
     Close
