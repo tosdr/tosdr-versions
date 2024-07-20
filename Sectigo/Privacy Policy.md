@@ -2,6 +2,8 @@ Redirecting you to
 
 Click if you are not redirected within 5 seconds
 
+Search
+
 Cart
 
 USD
@@ -27,6 +29,14 @@ USD
 * Swedish Krona (SEK)
 * Singapore Dollar (SGD)
 * Turkish Lira (TRY)
+
+English
+
+* [English](https://www.sectigo.com/privacy-policy)
+* [Français](https://www.sectigo.com/fr/privacy-policy)
+* [Español](https://www.sectigo.com/es/privacy-policy)
+* [Italiano](https://www.sectigo.com/it/privacy-policy)
+* [Deutsch](https://www.sectigo.com/de/privacy-policy)
 
 [Support](https://www.sectigo.com/support)
 
@@ -65,9 +75,9 @@ Sectigo Certificate Manager (SCM) Pro
 
 Purpose-built digital certificate management for small businesses
 
-[Try it Free](https://www.sectigo.com/certificate-manager-pro?ref=navad)
+[Try it free](https://www.sectigo.com/certificate-manager-pro?ref=navad)
 
-[Platform](https://www.sectigo.com/enterprise-solutions/certificate-manager)
+[Enterprise](https://www.sectigo.com/enterprise-solutions/certificate-manager)
 
 [Certificate Lifecycle Management](https://www.sectigo.com/enterprise-solutions/certificate-manager)
 
@@ -86,11 +96,11 @@ CA agnostic certificate lifecycle management platform for the modern enterprise.
 
 [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [90-Day certificates are coming](https://www.sectigo.com/90-day-ssl)
 
-Sectigo Certificate Manager 30-Day Free Trial
+Entrust customer?
 
-Start your certificate discovery today!
+We make CA migration and certificate replacement easy!
 
-[Enroll](#scm-trial)
+[Learn More](https://www.sectigo.com/entrust-certificates-distrust)
 
 [Partners](https://www.sectigo.com/partners/channel)
 
@@ -110,7 +120,7 @@ Connect Partner Portal
 
 [Resources](https://www.sectigo.com/resource-library)
 
-[Resource Library](https://www.sectigo.com/resource-library)
+Resource Library
 
 * [Blog Posts](https://www.sectigo.com/resource-library/blog-posts)
 * [Case Studies](https://www.sectigo.com/resource-library/case-studies)
@@ -118,7 +128,7 @@ Connect Partner Portal
 * [In the News](https://www.sectigo.com/resource-library/news)
 * [Knowledge Base](https://www.sectigo.com/knowledge-base)
 * [Notifications](https://www.sectigo.com/resource-library/notifications)
-* [Podcasts](https://www.sectigo.com/resource-library/podcasts)
+* [Podcasts](https://www.sectigo.com/root-causes-podcast)
 * [Press Releases](https://www.sectigo.com/resource-library/press-releases)
 * [Product Videos](https://www.sectigo.com/resource-library/videos)
 * [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
@@ -128,23 +138,21 @@ Connect Partner Portal
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [Quantum-ready movement: How waiting is not an option](https://www.sectigo.com/resource-library/quantum-ready-movement-how-waiting-is-not-an-option)
+* [Webinar: Entrust distrusted](https://www.sectigo.com/resource-library/entrust-distrusted-webinar)
 
-[Root Causes Podcast Series](https://www.sectigo.com/resource-library/podcasts)
+[Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
-* [Root Causes 394: Snowflake, Ticketmaster, and MFA](https://www.sectigo.com/resource-library/root-causes-394-snowflake-ticketmaster-and-mfa)
-* [Root Causes 393: PQC-enabled Chrome Breaks Other Software](https://www.sectigo.com/resource-library/root-causes-393-pqc-enabled-chrome-breaks-other-software)
-* [Root Causes 392: Chromium Issues a Quality Ultimatum](https://www.sectigo.com/resource-library/root-causes-392-chromium-issues-a-quality-ultimatum)
-* [Root Causes 391: 20 Percent of Web Visits Are PQC Enabled Today](https://www.sectigo.com/resource-library/root-causes-391-20-percent-of-web-visits-are-pqc-enabled-today)
-* [Root Causes 390: Chromium Boosts Its Distrust Agility with a New Root Trust Deprecation](https://www.sectigo.com/resource-library/root-causes-390-chromium-boosts-its-distrust-agility-with-a-new-root-trust-deprecation)
+* [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
+* [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
+* [Root Causes 402: New Social Engineering Powershell Attack](https://www.sectigo.com/resource-library/root-causes-402-new-social-engineering-powershell-attack)
+* [Root Causes 401: New SSH Remote Code Execution Vulnerability Revealed](https://www.sectigo.com/resource-library/root-causes-401-new-ssh-remote-code-execution-vulnerability-revealed)
+* [Root Causes 400: French Court Orders DNS Poisoning](https://www.sectigo.com/resource-library/root-causes-400-french-court-orders-dns-poisoning)
 
 Moving beyond Microsoft AD Certificate Services
 
 Read how the challenges of Microsoft AD CS can be addressed with Certificate Lifecycle Management.
 
 [Download](https://www.sectigo.com/download-content?target=resource-library/ebook-moving-beyond-microsoft-ad-cs&utm_campaign=moving-beyond-microsoft-ad-cs)
-
- #}
 
 Login
 
@@ -153,6 +161,8 @@ Login
 [SCM Pro](https://scm.sectigo.com/)
 
 [Partners](https://secure.trust-provider.com/products/)
+
+[Free Trial](#scm-trial)
 
 ![Sectigo](/images/sectigo-logo.svg)
 
@@ -177,7 +187,7 @@ Login
     * [HackerGuardian PCI Scanning](https://www.sectigo.com/ssl-certificates-tls/pci-scanning)
     * [eIDAS Solutions](https://www.sectigo.com/eidas-products)
     
-* Platform
+* Enterprise
     
     * [Overview](https://www.sectigo.com/enterprise-solutions/certificate-manager)
     * Certificate Lifecycle Management
@@ -215,7 +225,7 @@ Login
     * [In the News](https://www.sectigo.com/resource-library/news)
     * [Knowledge Base](https://www.sectigo.com/knowledge-base)
     * [Notifications](https://www.sectigo.com/resource-library/notifications)
-    * [Podcasts](https://www.sectigo.com/resource-library/podcasts)
+    * [Podcasts](https://www.sectigo.com/root-causes-podcast)
     * [Press Releases](https://www.sectigo.com/resource-library/press-releases)
     * [Product Videos](https://www.sectigo.com/resource-library/videos)
     * [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
@@ -223,13 +233,13 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Quantum-ready movement: How waiting is not an option](https://www.sectigo.com/resource-library/quantum-ready-movement-how-waiting-is-not-an-option)
-    * [Root Causes Podcast Series](https://www.sectigo.com/resource-library/podcasts)
-    * [Root Causes 394: Snowflake, Ticketmaster, and MFA](https://www.sectigo.com/resource-library/root-causes-394-snowflake-ticketmaster-and-mfa)
-    * [Root Causes 393: PQC-enabled Chrome Breaks Other Software](https://www.sectigo.com/resource-library/root-causes-393-pqc-enabled-chrome-breaks-other-software)
-    * [Root Causes 392: Chromium Issues a Quality Ultimatum](https://www.sectigo.com/resource-library/root-causes-392-chromium-issues-a-quality-ultimatum)
-    * [Root Causes 391: 20 Percent of Web Visits Are PQC Enabled Today](https://www.sectigo.com/resource-library/root-causes-391-20-percent-of-web-visits-are-pqc-enabled-today)
-    * [Root Causes 390: Chromium Boosts Its Distrust Agility with a New Root Trust Deprecation](https://www.sectigo.com/resource-library/root-causes-390-chromium-boosts-its-distrust-agility-with-a-new-root-trust-deprecation)
+    * [Webinar: Entrust distrusted](https://www.sectigo.com/resource-library/entrust-distrusted-webinar)
+    * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
+    * [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
+    * [Root Causes 402: New Social Engineering Powershell Attack](https://www.sectigo.com/resource-library/root-causes-402-new-social-engineering-powershell-attack)
+    * [Root Causes 401: New SSH Remote Code Execution Vulnerability Revealed](https://www.sectigo.com/resource-library/root-causes-401-new-ssh-remote-code-execution-vulnerability-revealed)
+    * [Root Causes 400: French Court Orders DNS Poisoning](https://www.sectigo.com/resource-library/root-causes-400-french-court-orders-dns-poisoning)
     
 
 *  #}
@@ -242,6 +252,8 @@ Login
     
     [Partners](https://secure.trust-provider.com/products/)
     
+* [Support](https://www.sectigo.com/support)
+* [Contact Us](https://www.sectigo.com/contact)
 
 Legal and Compliance
 
@@ -264,7 +276,7 @@ This Privacy Policy applies to Sectigo Limited and its subsidiaries, including S
 
 Sectigo Limited is the data controller of your personal information processed for purposes set forth herein (including the issuance of Qualified Certificates and other publicly-trusted Certificates) and, unless expressly specified otherwise, is responsible for the collection, use, disclosure, retention, and protection of your personal information in accordance with our privacy standards, this privacy policy, and applicable laws.
 
-Sectigo’s subsidiary SSL247 SAS will act as data controller if you use the Website [https://www.ssl247.fr](https://www.ssl247.fr/), purchase goods or services via this Website, and/or are otherwise in contact with SSL247 SAS. The contact details for SSL247 SAS are listed at the end of this Privacy Policy.
+Sectigo’s subsidiary SSL247 SAS will act as data controller if you use the Website [https://www.ssl247.com/fr/](https://www.ssl247.com/fr/), purchase goods or services via this Website, and/or are otherwise in contact with SSL247 SAS. The contact details for SSL247 SAS are listed at the end of this Privacy Policy.
 
 We have appointed a data protection officer to be responsible for our privacy program. Our Data Protection Officer can be contacted at:  
 
@@ -308,7 +320,7 @@ We’ve defined the following terms, which are used throughout this Privacy Poli
 
 **· “CA/B Forum”** means the Certificate Authority and Browser Forum, a consensus-driven forum of Certificate authorities (like us) and browsers that promulgates industry guidelines governing the issuance and management of X.509 v.3 digital certificates, and whose website is [https://cabforum.org/](https://cabforum.org/).
 
-**· “Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo. · “Cookies Policy” refers to the most recent version of our COOKIES POLICY, accessible here: https://www.sectigo.com/. · “CPS” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
+**· “Certificate”** means a digitally signed electronic data file issued by Sectigo to a person or entity seeking to conduct business over a communications network, which may contain the identity of the person authorized to use the digital signature, a copy of their public key, a serial number, a time period during which the data file may be used, and a digital signature issued by Sectigo. · “Cookies Policy” refers to the most recent version of our COOKIES POLICY, accessible here: [https://www.sectigo.com/](https://www.sectigo.com/%7Bentry:321889@4:url||%7D). · “CPS” refers the most recent version of our CERTIFICATION PRACTICES STATEMENT, accessible here: [https://sectigo.com/legal](https://www.sectigo.com/legal).
 
 **· “eIDAS Regulation”** means Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market, as amended.
 
@@ -657,19 +669,19 @@ Call (International)
 
 ### Resources
 
-* [Blog Posts](https://www.sectigo.com/resource-library/blog-posts)
-* [Case Studies](https://www.sectigo.com/resource-library/case-studies)
-* [Datasheets](https://www.sectigo.com/resource-library/datasheets)
 * [In the News](https://www.sectigo.com/resource-library/news)
+* [Blog Posts](https://www.sectigo.com/resource-library/blog-posts)
 * [Knowledge Base](https://www.sectigo.com/knowledge-base)
+* [Press Releases](https://www.sectigo.com/resource-library/press-releases)
+* [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
+* [Case Studies](https://www.sectigo.com/resource-library/case-studies)
+* [Upcoming Events](https://www.sectigo.com/upcoming-events)
+* [Datasheets](https://www.sectigo.com/resource-library/datasheets)
+* [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
 * [Notifications](https://www.sectigo.com/resource-library/notifications)
 * [Podcasts](https://www.sectigo.com/resource-library/podcasts)
-* [Press Releases](https://www.sectigo.com/resource-library/press-releases)
 * [Product Videos](https://www.sectigo.com/resource-library/videos)
-* [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
 * [Webinars](https://www.sectigo.com/resource-library/webinars)
-* [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
-* [Upcoming Events](https://www.sectigo.com/upcoming-events)
 
 ### Company
 
@@ -679,7 +691,7 @@ Call (International)
 * [Industry Awards](https://www.sectigo.com/awards)
 * [Contact Us](https://www.sectigo.com/contact)
 
-[](https://www.cpacanada.ca/webtrustseal?sealid=11169)[](https://www.cpacanada.ca/webtrustseal?sealid=11170)[](https://www.cpacanada.ca/webtrustseal?sealid=11167)[](https://www.cpacanada.ca/webtrustseal?sealid=11168)[](https://www.cpacanada.ca/webtrustseal?sealid=11171)[](https://esignature.ec.europa.eu/efda/tl-browser/#/screen/tl/ES/43)[](https://www.sectigo.com//uploads/files/C2120-ISMS759-10-23-cert.pdf)
+[](https://www.cpacanada.ca/webtrustseal?sealid=11420)[](https://www.cpacanada.ca/webtrustseal?sealid=11422)[](https://www.cpacanada.ca/webtrustseal?sealid=11421)[](https://www.cpacanada.ca/webtrustseal?sealid=11423)[](https://www.cpacanada.ca/webtrustseal?sealid=11424)[](https://www.cpacanada.ca/webtrustseal?sealid=11425)[](https://esignature.ec.europa.eu/efda/tl-browser/#/screen/tl/ES/43)[](https://www.sectigo.com//uploads/files/C2120-ISMS759-10-23-cert.pdf)
 
 © 2024 Sectigo Limited. All rights reserved.
 
