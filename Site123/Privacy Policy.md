@@ -1,4 +1,4 @@
-[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83880)![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_white.svg?v=y83880)](https://www.site123.com/)
+[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83990)![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_white.svg?v=y83990)](https://www.site123.com/)
 
 * [Homepage](https://www.site123.com/)
 * [Pricing](https://www.site123.com/pricing)
@@ -8,9 +8,9 @@
 * 
 * |
 * [Login](https://app.site123.com/manager/login/login.php?l=en)
-* [Start Here](https://app.site123.com/manager/login/sign_up.php?l=en)
+* [START HERE](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-![logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83880)
+![logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83990)
 
 * [Homepage](https://www.site123.com/)
 * [Pricing](https://www.site123.com/pricing)
@@ -18,13 +18,13 @@
 * [Support](https://www.site123.com/support)
 * 
 
-[Login](https://app.site123.com/manager/login/login.php?l=en) [Start Here](https://app.site123.com/manager/login/sign_up.php?l=en)
+[Login](https://app.site123.com/manager/login/login.php?l=en) [START HERE](https://app.site123.com/manager/login/sign_up.php?l=en)
 
 SITE123 Privacy
 ===============
 
-Effective Date: May 24, 2018
-----------------------------
+Effective Date: July 11, 2024
+-----------------------------
 
 **1\. Introduction**
 ====================
@@ -205,12 +205,16 @@ You possess specific rights regarding the personal data we hold about you. These
 
 It is your right to be fully informed about the nature and purpose of the data we collect and how we process it. You can access, correct, and update your personal details using the tools available in your account control panel. Additionally, you have the authority to limit our use of your data, while also preserving the capability to utilize your personal data for your own reasons. Moreover, you hold the right to decline any decision that impacts you based solely on automated data processing.
 
+For Google Calendar data, you can view, update, or delete your data directly through your Google Account settings. You can also contact us to request deletion of any Google Calendar data we may have stored.
+
   
 
 **10\. Security**
 =================
 
 Your privacy is of utmost importance to us. This section outlines our commitment and methods in maintaining the security and integrity of your personal information. While we implement rigorous security protocols to guard against unauthorized access and potential breaches, it's essential to note that no method can guarantee absolute security. Our aim is always to minimize risks and protect your data to the best of our ability.
+
+We apply the same rigorous security measures to Google user data as we do to all other user data we collect and process.
 
   
 
@@ -224,7 +228,8 @@ Our website might link to external sites not operated by us. We're not responsib
 **12\. User Consent**
 =====================
 
-Your continued use of our platform implies your consent to the collection, storage, and utilization of your data in accordance with this Privacy Policy. Should you require further clarity or have queries pertaining to our privacy practices, we encourage you to reach out to our Privacy team at privacy@site123.com. 
+Your continued use of our platform implies your consent to the collection, storage, and utilization of your data in accordance with this Privacy Policy. Should you require further clarity or have queries pertaining to our privacy practices, we encourage you to reach out to our Privacy team at privacy@site123.com.   
+By connecting your Google Calendar to our service, you explicitly consent to our access and use of your Google Calendar data as described in this Privacy Policy.
 
   
 
@@ -240,9 +245,38 @@ This policy primarily details how we manage and handle data. While we strive to 
 
 We may occasionally modify this privacy policy. When such changes are made, they will be evident on our privacy policy page. As a user, it's your responsibility to stay updated by frequently reviewing our policy. While we will do our utmost to inform you of significant changes, it's essential to ensure you remain informed by checking our policy page. Your continued use of our site following any updates signifies your acceptance of our amended privacy practices.
 
+We will keep our Privacy Policy and in-product privacy notifications up to date regarding our use of Google user data. Any changes to how we handle Google user data will be promptly reflected in these documents.
+
   
 
-**15\. Contacting Us**
+**15\. Google Login**
+=====================
+
+Our service offers the option to connect with your Google account email to your account in the system. We'll only get your email address from Google.
+
+  
+
+**16\. Google Calendar Integration**
+====================================
+
+Our service offers the option to connect your Google Calendar to your account. When you choose to use this feature:
+
+* We access your Google Calendar data, including event details, dates, and times.
+* We use this data to display your calendar events on your account for different use cases like schedule booking and events tool.
+* We store your events detail and make a live sync a long you keep the connection active. You can choose to disconnect any time you like.
+
+Our use of Google user data complies with Google's Limited Use requirements. We do not use this data for any purpose other than integrating your calendar with your website as requested by you.You can revoke our access to your Google Calendar data at any time through your Google Account settings or by from your account.
+
+  
+
+**17\. Google API Services Compliance**
+=======================================
+
+SITE123's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.For more information, please visit: [https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)
+
+  
+
+**18\. Contacting Us**
 ======================
 
 Feel free to contact us if you have any concerns or questions about how we handle your data and personal information. For any inquiries or concerns related to this policy or your data, please contact:
@@ -256,7 +290,7 @@ Privacy Department - privacy@site123.com
 
 Don't wait any longer, create your website today! [Create a website](https://app.site123.com/manager/login/sign_up.php?l=en)
 
-[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83880)](https://www.site123.com/)
+[![SITE123 logo](https://static.s123-cdn-network-a.com/admin/InterfaceStatisFiles/allOther/all/site123/logos/Logo/Horizontal/SVG/Horizontal_Blue.svg?v=y83990)](https://www.site123.com/)
 
 SITE123: built differently, built better.
 
@@ -321,6 +355,6 @@ Copyright © 2024 All rights reserved - SITE123
 Close [Yes! I want to try](https://app.site123.com/manager/login/sign_up.php?l=en)
 
 ![](https://cdn-cms-s.f-static.net/files/vendor/flag-icons-main/flags/4x3/gb.svg)  
-More than 2148 SITE123 websites created in GB today!
+More than 1764 SITE123 websites created in GB today!
 
      ![](https://www.facebook.com/tr?id=1074611005929279&ev=PageView&noscript=1)![](https://px.ads.linkedin.com/collect/?pid=32899&fmt=gif)![](https://q.quora.com/_/ad/c8f86d2183d6400d8288bbf9f7d9e950/pixel?tag=ViewContent&noscript=1)![](/include/pix_manage.php)
