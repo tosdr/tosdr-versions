@@ -606,7 +606,7 @@ If you have any questions, complaints, or comments regarding this EULA or our Pr
 * [](https://twitter.com/wargaming_net)
 * [](https://plus.google.com/u/0/105483340120702728969/posts)
 
-© 2012– Wargaming.net.All rights reserved. Powered by BigWorld Technology™ ©
+© 2012– Wargaming.net. All rights reserved. Powered by BigWorld Technology™ ©
 
 [{{region->current}}](#)
 
@@ -641,12 +641,14 @@ Europe:
 * [Українська](http://legal.eu.wargaming.net/uk/)
 * [Magyar](https://legal.eu.wargaming.net/hu/)
 * [Русский](https://legal.eu.wargaming.net/ru/)
+* [Español (Mexico)](https://legal.eu.wargaming.net/es-mx/)
+* [Español (Argentina)](https://legal.eu.wargaming.net/es-ar/)
 * [Português](https://legal.eu.wargaming.net/pt-br/)
 * [日本語](https://legal.eu.wargaming.net/ja/)
+* [ไทย](https://legal.eu.wargaming.net/th/)
 * [繁體中文](https://legal.eu.wargaming.net/zh-tw/)
 * [한국어](https://legal.eu.wargaming.net/ko/)
 * [简体中文](https://legal.eu.wargaming.net/zh-sg/)
-* [Español (Mexico)](https://legal.eu.wargaming.net/es-mx/)
 
 Asia:
 -----
