@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[![](https://assets.sanebox.com/assets/logo-sanebox-2022-c35e76ce0c0fc9f37d39aa426d6c2ca17a175e7ce8bc502a4306647643ebe97c.png)](https://www.sanebox.com/home)
+[![](https://assets.sanebox.com/assets/logo-sanebox-2022-523d5281e8703bd0596767a6a638dc2cf95cf23b556b637673d39c556b70cf95.png)](https://www.sanebox.com/home)
 
 * [Tour](https://www.sanebox.com/learn)
 * [Help](https://www.sanebox.com/help)
@@ -20,10 +20,10 @@ You can [create a help request](https://www.sanebox.com/help/request/new) or [C
 * * *
 
 **Share an idea or feedback**  
-Send feature requests and comments to [\[email protected\]](https://www.sanebox.com/cdn-cgi/l/email-protection).
+Send feature requests and comments to [feedback@sanebox.com](mailto:feedback@sanebox.com).
 
 **Report a bug**  
-Submit bug reports to [\[email protected\]](https://www.sanebox.com/cdn-cgi/l/email-protection).
+Submit bug reports to [support@sanebox.com](mailto:support@sanebox.com).
 
 Close
 
@@ -54,7 +54,7 @@ Please don’t blame us. The lawyers made us do it. We just want to make it easi
 
 * New email still arrives directly to your email server Inbox. When the SaneBox algorithm determines an email doesn't deserve to be in your Inbox, it is your email server that moves it. At all times, during this process, your email server maintains possession of your email just like it always has.
 * Your data is completely private. SaneBox algorithms analyze the patterns in your email behavior (which emails you open, which emails you respond to, how quickly, etc) to determine what’s important to you. Our robots never look at the content of your emails except when you choose optional features like Sane Attachments that require us to change that content. And our employees never ever look at the content.
-* We are really good guys so if you need anything, don’t hesitate to reach out to [\[email protected\]](https://www.sanebox.com/cdn-cgi/l/email-protection)
+* We are really good guys so if you need anything, don’t hesitate to reach out to [support@sanebox.com](mailto:support@sanebox.com)
 
   
   
