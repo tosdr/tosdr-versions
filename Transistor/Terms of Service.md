@@ -2,29 +2,29 @@
 
 Features
 
-[#### Integrations
+[#### Podcast Hosting
 
-Integrations for your podcast workflow](https://transistor.fm/features/integrations/)[#### Embeddable Player
+Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Private Podcasts
 
-Custom embeddable podcast player](https://transistor.fm/features/embeddable-podcast-player/)[#### Collaborate
+Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Analytics
 
-Invite team members to your podcast](https://transistor.fm/features/invite-multiple-collaborators/)[#### Website Builder
+Podcast analytics software](https://transistor.fm/features/podcast-analytics-software/)[#### AI Transcription
 
-Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[#### YouTube Auto-posting
+Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Distribution
 
-Auto-post your podcast to YouTube](https://transistor.fm/features/youtube/)[#### Dynamic Ads
+Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### Dynamic Ads
 
-Automatically insert ads in episodes.](https://transistor.fm/features/dynamic-ads/)[#### Distribution
+Automatically insert ads in episodes.](https://transistor.fm/features/dynamic-ads/)[#### YouTube Auto-posting
 
-Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### AI Transcription
+Auto-post your podcast to YouTube](https://transistor.fm/features/youtube/)[#### Website Builder
 
-Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Analytics
+Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[#### Collaborate
 
-Podcast analytics software](https://transistor.fm/features/podcast-analytics-software/)[#### Private Podcasts
+Invite team members to your podcast](https://transistor.fm/features/invite-multiple-collaborators/)[#### Embeddable Player
 
-Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Podcast Hosting
+Custom embeddable podcast player](https://transistor.fm/features/embeddable-podcast-player/)[#### Integrations
 
-Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)
+Integrations for your podcast workflow](https://transistor.fm/features/integrations/)
 
 [View all Features](https://transistor.fm/features/)
 
@@ -52,9 +52,23 @@ Podcast hosting reviews](https://transistor.fm/reviews/)
 
 [Dashboard →](https://dashboard.transistor.fm/)
 
-![Transistor Logo](/images/logos/transistor-white.svg) Toggle menu
+ [![Transistor Logo](/images/logos/transistor-white.svg)](https://transistor.fm/)Toggle menu
 
-[#### Integrations](https://transistor.fm/features/integrations/)[#### Embeddable Player](https://transistor.fm/features/embeddable-podcast-player/)[#### Collaborate](https://transistor.fm/features/invite-multiple-collaborators/)[#### Website Builder](https://transistor.fm/features/podcast-website-builder/)[#### YouTube Auto-posting](https://transistor.fm/features/youtube/)
+### Features
+
+[#### Podcast Hosting
+
+Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Private Podcasts
+
+Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Analytics
+
+Podcast analytics software](https://transistor.fm/features/podcast-analytics-software/)[#### AI Transcription
+
+Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Distribution
+
+Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[View all Features](https://transistor.fm/features/)
+
+### Menu
 
 [How to start a podcast](https://transistor.fm/how-to-start-a-podcast/) [Pricing](https://transistor.fm/pricing/) [Blog](https://transistor.fm/blog/) [About us](https://transistor.fm/about/) [Our customers](https://transistor.fm/customers/) [Reviews](https://transistor.fm/reviews/)
 
