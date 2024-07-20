@@ -2,11 +2,11 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
-Important
+We are currently experiencing high call volumes.  Please only call if you are travelling within the next 72 hours
 
 Close
 
-Our existing Basic fare has been replaced by our new [UltraBasic](https://www.westjet.com/en-ca/news/2024/westjet-introduces-ultrabasic-) fare. Guests who booked a Basic fare on or before June 3, 2024 will still be able to bring a carry-on bag.
+Please visit our [Self-serve](https://www.westjet.com/en-ca/contact/on-hold-self-serve) page for available options
 
 By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/en-ca/legal/terms-use), the [privacy statement](https://www.westjet.com/en-ca/legal/privacy-policy), and the [use of cookies](https://www.westjet.com/en-ca/legal/privacy-policy#cookies).  
 
@@ -512,6 +512,13 @@ We'll redirect you to the home page of the country/region site you choose.
 [Update](#)
 
 [Contact us](https://www.westjet.com/en-ca/contact)
+
+* [](https://twitter.com/westjet)
+* [](http://instagram.com/westjet)
+* [](https://www.facebook.com/westjet/)
+* [](https://www.linkedin.com/company/westjet)
+* [](http://youtube.com/westjet)
+* [](https://www.tiktok.com/@MS4wLjABAAAAe40vZfb-6oN0KdsGwMKtVl7qyE7KVBiL0cWU0x6PXI83JgsuloTNosZNmklLovEj)
 
 Booking Options
 ---------------
