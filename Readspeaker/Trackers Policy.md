@@ -226,7 +226,7 @@ Yasmin
 Arabic  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ca](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ca](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/es.svg)![Roser](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roser.png)
 
 Roser  
 Catalan  
@@ -418,7 +418,7 @@ Olivia
 English (New Zealand)  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sc.svg)
+![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/sc.svg)![Aidan](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aidan.png)
 
 Aidan  
 English (Scotland)  
@@ -442,13 +442,13 @@ Adam
 English (UK)  
 Male
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)
+![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Barwyn](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/barwyn.png)
 
 Barwyn  
 English (UK)  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Branwen](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/branwen.png)
 
 Branwen  
 English (UK)  
@@ -574,7 +574,7 @@ Leo
 French (Canada)  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![de](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![de](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/de.svg)![Klara](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/klara.png)
 
 Klara  
 German  
@@ -598,7 +598,7 @@ Tim
 German  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![el](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gr.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![el](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gr.svg)![Irini](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/irini.png)
 
 Irini  
 Greek  
@@ -628,7 +628,7 @@ Kinga
 Hungarian  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![is](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/is.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![is](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/is.svg)![Hildur](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hildur.png)
 
 Hildur  
 Icelandic  
@@ -1012,7 +1012,7 @@ Sven
 Swedish  
 Male
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fi.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![sv](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fi.svg)![Saga](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/saga.png)
 
 Saga  
 Swedish (Finland)  
@@ -1042,7 +1042,7 @@ Seda
 Turkish  
 Female
 
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![uk](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ua.svg)
+![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![uk](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/ua.svg)![Mila](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mila.png)
 
 Mila  
 Ukrainian  
@@ -1060,7 +1060,7 @@ Anwen
 Welsh  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![cy](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)
+![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![cy](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Arwyn](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/arwyn.png)
 
 Arwyn  
 Welsh  
