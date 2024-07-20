@@ -293,7 +293,7 @@ United States
 
 If you have a complaint concerning our compliance with applicable privacy laws, we will investigate your complaint and take appropriate measures where justified.
 
-###### [Solutions ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Solutions ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [Securly Platform](https://www.securly.com/)
 * [Student Safety](https://www.securly.com/solutions/student-safety)
@@ -301,14 +301,14 @@ If you have a complaint concerning our compliance with applicable privacy laws, 
 * [Student Engagement](https://www.securly.com/solutions/student-engagement)
 * [Technology](https://www.securly.com/solutions/technology)
 
-###### [Company ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Company ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [About](https://www.securly.com/about-us)
 * [Contact](https://www.securly.com/contact-us)
 * [Partners](https://www.securly.com/partners)
 * [Careers](https://www.securly.com/careers)
 
-###### [Products ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Products ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [Filter](https://www.securly.com/filter)
 * [Aware](https://www.securly.com/aware)
@@ -317,7 +317,7 @@ If you have a complaint concerning our compliance with applicable privacy laws, 
 * [MDM](https://www.securly.com/mdm)
 * [Observe](https://www.securly.com/observe)
 
-###### [Resources hub ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#) 
+**[Resources hub ![Arrow](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/down-ar.jpg)](#)** 
 
 * [Securly support](https://support.securly.com/)
 * [Home support](https://homesupport.securly.com/)
@@ -329,7 +329,7 @@ If you have a complaint concerning our compliance with applicable privacy laws, 
 * [Securly vs. Alternatives](https://www.securly.com/vs-alternatives)
 * [Lookup tool](https://www.securly.com/lookup-tool)
 
-###### Contact us
+**Contact us**
 
 * School:
 * Sales number - [0141 343 8322](tel:01413438322)
