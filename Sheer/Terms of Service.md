@@ -99,6 +99,7 @@ _By using Sheer.com, you agree to the following:_
 * The 3-year projected value from the sales of exclusive content is paid in advance to your account 15 days after the release date of the video.
 * Abusing the exclusive option may result in the loss of the ability to receive advance payments or even the removal of the ability to release exclusive content completely.
 * Abuse includes (but is not limited to) releasing exclusive content again as exclusive, or content that you did not have the right to sell.
+* You cannot close your account while you have exclusive content that has been prepaid until the real earnings of that content have reached the same amount that was prepaid, or more.
 
 ##### Payouts for content creators
 
@@ -108,19 +109,19 @@ Percentages of net revenue of the creator. These values are subject to change at
 
 For example, as a content partner you earn 80% of the net membership revenue for all the customers on your Sheer profile, and 90% for tips and customs, and usually less for customers coming from partner websites (because they have to be paid for providing you with extra sales and giving more visibility to your brand).
 
-|     |     |     |
-| --- | --- | --- |
-|     | For customers on  <br>**Sheer.com**  <br>you earn : | For customers on  <br>**partner sites**  <br>you earn : |
-| Memberships | 80% | 50% |
-| PPV (non-exclusive) | 80% | 50% |
-| PPV (exclusive) | 80% | 50-80% |
-| Tips | 90% | 90% |
-| Customs | 90% | 90% |
-| Live streaming | 95% | ≥40% |
-| Ads (non-exclusive) | \-  | 50% |
-| Ads (exclusive) | \-  | 90% |
-| Premium (non-exclusive) | \-  | ≥50% |
-| Premium (exclusive) | \-  | ≥90% |
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     | For customers on  <br>**Sheer.com**  <br>you earn : | For customers on  <br>**partner sites**  <br>you earn : | **Affiliate sales (all sites)** |
+| Memberships | 80% | 50% | 30%  <br>(50% for affiliate) |
+| PPV (non-exclusive) | 80% | 50% | 30%  <br>(50% for affiliate) |
+| PPV (exclusive) | 80% | 50-80% | 30%  <br>(50% for affiliate) |
+| Tips | 90% | 90% | 30%  <br>(50% for affiliate) |
+| Customs | 90% | 90% | \-  |
+| Live streaming | 95% | ≥40% | \-  |
+| Ads (non-exclusive) | \-  | 50% | \-  |
+| Ads (exclusive) | \-  | 90% | \-  |
+| Premium (non-exclusive) | \-  | ≥50% | \-  |
+| Premium (exclusive) | \-  | ≥90% | \-  |
 
 ##### Payouts for standard referrals
 
