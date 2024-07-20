@@ -55,24 +55,25 @@ Site search input
         * [Classroom Activities](https://www.teachervision.com/lesson-planning/activity)
         * [Classroom Forms](https://www.teachervision.com/lesson-planning/form-chart)
         * [Classroom Passes & Notes](https://www.teachervision.com/lesson-planning/classroom-pass-note)
-    * * [Games](https://www.teachervision.com/lesson-planning/game)
-        * [Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
+    * * [Daily Warm-Ups](https://www.teachervision.com/lesson-planning/daily-warm-ups)
+        * [Games](https://www.teachervision.com/lesson-planning/game)
+        * [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
         * [Graphs & Charts](https://www.teachervision.com/lesson-planning/graph-chart-teacher-resources)
         * [Lesson Plans](https://www.teachervision.com/lesson-planning/lesson)
         * [Literature Guides](https://www.teachervision.com/lesson-planning/literature-guide)
         * [Mini-Lessons](https://www.teachervision.com/lesson-planning/mini-lesson)
-        * [Project-based Learning](https://www.teachervision.com/lesson-planning/futurefit-projects)
-    * * [Rubrics](https://www.teachervision.com/lesson-planning/rubric)
+    * * [Project-based Learning](https://www.teachervision.com/lesson-planning/futurefit-projects)
+        * [Rubrics](https://www.teachervision.com/lesson-planning/rubric)
         * [Themed Packets](https://www.teachervision.com/lesson-planning/themed-packet)
         * [Videos & Activities](https://www.teachervision.com/lesson-planning/video)
-        * [Worksheets](https://www.teachervision.com/classroom-management/printable/6391.html)
+        * [Worksheets](https://www.teachervision.com/lesson-planning/worksheet)
         * [Educator's Calendar](https://www.teachervision.com/calendar/holidays-and-seasonal-events)
     
 * [Strategies](https://www.teachervision.com/teaching-strategies)
     
     * * [Assessment](https://www.teachervision.com/teaching-strategies/assessment)
         * [Behavior Management](https://www.teachervision.com/teaching-strategies/behavior-management)
-        * [Classroom Management](https://www.teachervision.com/classroom-management/resource/5776.html)
+        * [Classroom Management](https://www.teachervision.com/teaching-strategies/classroom-management)
         * [Classroom Organization](https://www.teachervision.com/teaching-strategies/classroom-organization)
         * [Educational Technology](https://www.teachervision.com/teaching-strategies/educational-technology)
     * * [English-Language Learners](https://www.teachervision.com/teaching-strategies/english-language-learners)
@@ -160,10 +161,10 @@ Site search input
 ##### Breadcrumb
 
 1. [](https://www.teachervision.com/)
-2. TeacherVision® Membership Terms (Revised 8/2022)
+2. TeacherVision® Membership Terms (Revised 07/2024)
 
-TeacherVision® Membership Terms (Revised 8/2022)
-================================================
+TeacherVision® Membership Terms (Revised 07/2024)
+=================================================
 
 Updated on: August 3, 2022
 
@@ -175,7 +176,7 @@ TeacherVision® Subscription Terms
 
 3.    Automatic Renewal. All Subscriptions are automatically renewed upon their expiration (i.e., the last day of their then-current terms) for additional renewal terms of equal duration. You agree to pay the Subscription fees for each such renewal term at the then-current pricing, and that we may charge you for the same on the credit card account or other billing information provided by you during the registration process (or as updated by you thereafter on the Site). We will notify you when such automatic renewal of your Subscription has occurred.
 
-4.    Cancellation. All initial Subscriptions come with a 14-day money back guarantee. If you are not satisfied for any reason, you may cancel your Subscription on the Site or by contacting our Customer Support Department by email at [help@teachervision.com](mailto:help@teachervision.com "TeacherVision Customer Service Email") or by telephone at 800-498-3264. We must receive your cancellation request on or before the 14th day after your Subscription initially starts. If you decide to cancel after the 14th day of the start of your Subscription, you will not receive any refund of Subscription fees paid, but your initial Subscription will not renew for any additional terms (your Subscription will remain active until the end of its then-current term). For additional information on the Subscription fees and on how to cancel your Subscription (including to avoid automatic Subscription renewals/charges), please see our FAQs on this topic.
+4.    Cancellation. All initial Subscriptions come with a 14-day money back guarantee. If you are not satisfied for any reason, you may cancel your Subscription on the Site or by contacting our Customer Support Department by email at [help@teachervision.com](mailto:help@teachervision.com "TeacherVision Customer Service Email"). We must receive your cancellation request on or before the 14th day after your Subscription initially starts. If you decide to cancel after the 14th day of the start of your Subscription, you will not receive any refund of Subscription fees paid, but your initial Subscription will not renew for any additional terms (your Subscription will remain active until the end of its then-current term). For additional information on the Subscription fees and on how to cancel your Subscription (including to avoid automatic Subscription renewals/charges), please see our FAQs on this topic.
 
 5.    Tax. For certain purchases on this Site including Subscriptions, SNI may be required to collect sales, use, or similar taxes. In states or regions that impose such tax, a purchase is subject to tax unless specifically exempt. Where applicable, such taxes will be billed as a separate item, and you are required to and agree to pay them. SNI will collect any tax due as required by law unless you provide us with a valid sales tax exemption certificate.
 
@@ -189,7 +190,7 @@ TeacherVision® Subscription Terms
 
 10.    Termination. You agree that SNI may terminate your Subscription or otherwise terminate your access to the Site, if SNI believes (a) that you have breached these Subscription Terms or any other applicable terms including the Site’s Terms of Use, or (b) that you have violated the rights of SNI or any third party including other Site subscribers or users. You will not be entitled to any refund of any Subscription fees in the event of such termination. You acknowledge and agree such termination may be affected without prior notice, and you acknowledge and agree that SNI may immediately delete any content maintained by you on the Site. 
 
-Updated on August 3, 2022
+Updated on July 16, 2024.
 
 ADVERTISEMENT |  [REMOVE ADS](https://www.teachervision.com/user/register?destination=/select-plan)
 
@@ -207,7 +208,7 @@ Easy to implement.
 
 ADVERTISEMENT |  [REMOVE ADS](https://www.teachervision.com/user/register?destination=/select-plan)
 
-[Register](https://www.teachervision.com/user/register?destination=/tv/membership-terms)
+[Register](https://www.teachervision.com/upgrade-premium?destination=/tv/membership-terms)
 
 Search our growing library of professionally created teacher resources.
 
