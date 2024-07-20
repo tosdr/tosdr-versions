@@ -1,5 +1,3 @@
-[Limited time! 25% off your first contacts order ›](https://www.warbyparker.com/contacts)
-
 [](https://www.warbyparker.com/)
 
 1. Home Try-On
