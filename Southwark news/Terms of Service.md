@@ -1,4 +1,4 @@
-                    
+                        
 
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
@@ -19,41 +19,41 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Giant-3x3m-screen2017-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Mayor-of-London-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
     
-    ### [Where to watch the Euros in south London](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+    ### [Sadiq Khan’s book Breathe and the claims he’ll introduce the ‘pay per mile’ system on London drivers](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Overground0901-1-360x180.jpeg)](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+    [![Google Maps: Guy's Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-21-05-2024-at-12.43-e1716292032869-360x180.jpg)](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
     
-    ### [London Overground: South-east London disruption this weekend](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+    ### [NHS cyber attack: ‘Most services’ at south London hospitals back to ‘near normal’](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
+    [![Witnesses say the incident took place on Adelaide Close, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/07/Witnesses-say-the-incident-took-place-on-Adelaide-Close-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
     
-    ### [Nunhead fire damages two properties](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
+    ### [Man fires gun at boys on residential Brixton street, witnesses say](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
     
-    [![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
+    [![Deptford does Art](https://southwarknews.co.uk/wp-content/uploads/2024/07/Deptford-does-Art-360x180.jpg)](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
     
-    ### [Second man charged with Deptford murder](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
+    ### [The husband and wife team behind ‘Deptford does Art’](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
     
-    [![L: Debra Holloway R: Professor Jane Davies](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-20-06-2024-at-07.39-360x180.jpg)](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+    [![The Two Towers TMO is among those that owe money to Southwark Council, according to council dossier](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Two-Towers-TMO-is-among-those-that-owe-money-to-Southwark-Council-according-to-council-dossier-360x180.png)](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
     
-    ### [Woman behind ‘revolutionary’ cystic fibrosis treatment among those on King’s Honours list](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+    ### [Exclusive: Bombshell dossier reveals Southwark Council’s £3 million debt crisis amid fears that council estates have been financially mismanaged](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
     
-    [![The Feel Good Festival. Credit: Juliahawkins](https://southwarknews.co.uk/wp-content/uploads/2024/06/photo-by_Julia-Hawkins-360x180.jpg)](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
+    [![Top row (left to right): Jalees Selby-Gangera, Connor Brooks, Enriko Spahiu, Kai Osibodu. Bottow row left to right: Bradlee Reeve, Charlie Brabon, Anthony Wallder](https://southwarknews.co.uk/wp-content/uploads/2024/07/Top-row-left-to-right-Jalees-Selby-Gangera-Connor-Brooks-Enriko-Spahiu-Kai-Osibodu.-Bottow-row-left-to-right-Bradlee-Reeve-Charlie-Brabon-Anthony-Wallder-360x180.png)](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
     
-    ### [Camberwell holding trio of free community festivals and events in July](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
+    ### [Seven jailed for over 150 years after gunning down Bermondsey man in the street](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
     
-    [![Left: Okinawa Day, The Blue. Right: Ark Globe Academy Summer Fair.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+    [![People inspecting the plans ahead of the refurbishment. Image: Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/07/People-inspecting-the-plans-ahead-of-the-refurbishment.-Image-Brunel-Museum-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
     
-    ### [What’s on this weekend: Bermondsey, South Bank, Elephant and Peckham](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+    ### [Brunel Museum to close until summer 2025 for landmark refurbishment that will restore historic Thames Tunnel site to its former glory](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/New-Scotland-Yard-360x180.jpg)](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
+    [![Police have released images of a motorbike they believe could be linked to the shooting in Dalston. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-have-released-images-of-a-motorbike-they-believe-could-be-linked-to-the-shooting-in-Dalston.-Image-Met-Police-360x180.png)](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
     
-    ### [Local police officer sacked after he sent 1,000 texts to his ex-girlfriend in three weeks](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
+    ### [Motorbike ‘linked’ to Dalston shooting that critically injured nine-year-old girl has ‘been in Peckham and Crystal Palace’](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
     
-    [![Part of the Holy Family Convent on Albert Square in Stockwell could be converted into flats. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Part-of-the-Holy-Family-Convent-on-Albert-Square-in-Stockwell-could-be-converted-into-flats.-Photo-from-Google-Street-View-360x180.jpg)](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
+    [![Jailed: Louis Collins](https://southwarknews.co.uk/wp-content/uploads/2024/07/Louis-Collins-e1721310876591-360x180.jpeg)](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
     
-    ### [Nuns set to turn convent into flats for key workers in one of South London’s most sought-after squares](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
+    ### [Serial South London sex offender given life sentence](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -95,41 +95,41 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Giant-3x3m-screen2017-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Mayor-of-London-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
     
-    ### [Where to watch the Euros in south London](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+    ### [Sadiq Khan’s book Breathe and the claims he’ll introduce the ‘pay per mile’ system on London drivers](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Overground0901-1-360x180.jpeg)](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+    [![Google Maps: Guy's Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-21-05-2024-at-12.43-e1716292032869-360x180.jpg)](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
     
-    ### [London Overground: South-east London disruption this weekend](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+    ### [NHS cyber attack: ‘Most services’ at south London hospitals back to ‘near normal’](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
+    [![Witnesses say the incident took place on Adelaide Close, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/07/Witnesses-say-the-incident-took-place-on-Adelaide-Close-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
     
-    ### [Nunhead fire damages two properties](https://southwarknews.co.uk/area/nunhead/nunhead-fire-damages-two-properties/)
+    ### [Man fires gun at boys on residential Brixton street, witnesses say](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
     
-    [![Police received reports of a stabbing on Carteret Way, Deptford. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/06/Police-received-reports-of-a-stabbing-on-Carteret-Way-Deptford.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
+    [![Deptford does Art](https://southwarknews.co.uk/wp-content/uploads/2024/07/Deptford-does-Art-360x180.jpg)](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
     
-    ### [Second man charged with Deptford murder](https://southwarknews.co.uk/area/deptford/second-man-charged-with-deptford-murder/)
+    ### [The husband and wife team behind ‘Deptford does Art’](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
     
-    [![L: Debra Holloway R: Professor Jane Davies](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-20-06-2024-at-07.39-360x180.jpg)](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+    [![The Two Towers TMO is among those that owe money to Southwark Council, according to council dossier](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Two-Towers-TMO-is-among-those-that-owe-money-to-Southwark-Council-according-to-council-dossier-360x180.png)](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
     
-    ### [Woman behind ‘revolutionary’ cystic fibrosis treatment among those on King’s Honours list](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+    ### [Exclusive: Bombshell dossier reveals Southwark Council’s £3 million debt crisis amid fears that council estates have been financially mismanaged](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
     
-    [![The Feel Good Festival. Credit: Juliahawkins](https://southwarknews.co.uk/wp-content/uploads/2024/06/photo-by_Julia-Hawkins-360x180.jpg)](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
+    [![Top row (left to right): Jalees Selby-Gangera, Connor Brooks, Enriko Spahiu, Kai Osibodu. Bottow row left to right: Bradlee Reeve, Charlie Brabon, Anthony Wallder](https://southwarknews.co.uk/wp-content/uploads/2024/07/Top-row-left-to-right-Jalees-Selby-Gangera-Connor-Brooks-Enriko-Spahiu-Kai-Osibodu.-Bottow-row-left-to-right-Bradlee-Reeve-Charlie-Brabon-Anthony-Wallder-360x180.png)](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
     
-    ### [Camberwell holding trio of free community festivals and events in July](https://southwarknews.co.uk/news/camberwell-holding-trio-of-free-community-festivals-and-events-in-july/)
+    ### [Seven jailed for over 150 years after gunning down Bermondsey man in the street](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
     
-    [![Left: Okinawa Day, The Blue. Right: Ark Globe Academy Summer Fair.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-13.42-360x180.jpg)](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+    [![People inspecting the plans ahead of the refurbishment. Image: Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/07/People-inspecting-the-plans-ahead-of-the-refurbishment.-Image-Brunel-Museum-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
     
-    ### [What’s on this weekend: Bermondsey, South Bank, Elephant and Peckham](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+    ### [Brunel Museum to close until summer 2025 for landmark refurbishment that will restore historic Thames Tunnel site to its former glory](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
     
-    [![](https://southwarknews.co.uk/wp-content/uploads/2022/06/New-Scotland-Yard-360x180.jpg)](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
+    [![Police have released images of a motorbike they believe could be linked to the shooting in Dalston. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-have-released-images-of-a-motorbike-they-believe-could-be-linked-to-the-shooting-in-Dalston.-Image-Met-Police-360x180.png)](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
     
-    ### [Local police officer sacked after he sent 1,000 texts to his ex-girlfriend in three weeks](https://southwarknews.co.uk/area/southwark/local-police-officer-sacked-after-he-sent-1000-texts-to-his-ex-girlfriend-in-three-weeks/)
+    ### [Motorbike ‘linked’ to Dalston shooting that critically injured nine-year-old girl has ‘been in Peckham and Crystal Palace’](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
     
-    [![Part of the Holy Family Convent on Albert Square in Stockwell could be converted into flats. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Part-of-the-Holy-Family-Convent-on-Albert-Square-in-Stockwell-could-be-converted-into-flats.-Photo-from-Google-Street-View-360x180.jpg)](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
+    [![Jailed: Louis Collins](https://southwarknews.co.uk/wp-content/uploads/2024/07/Louis-Collins-e1721310876591-360x180.jpeg)](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
     
-    ### [Nuns set to turn convent into flats for key workers in one of South London’s most sought-after squares](https://southwarknews.co.uk/news/housing/nuns-set-to-turn-convent-into-flats-for-key-workers-in-one-of-south-londons-most-sought-after-squares/)
+    ### [Serial South London sex offender given life sentence](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -187,79 +187,79 @@ Terms of Use
 
 ### Popular Articles
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-has-been-criticised-by-statistics-watchdog-over-claims-he-has-made-about-his-affordable-house-building-record/)
+[![The new flats will be built on the site of the former Beormund Community Centre. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-new-flats-will-be-built-on-the-site-of-the-former-Beormund-Community-Centre.-Image-Google--120x86.png)](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
 
-### [Sadiq Khan has been criticised by statistics watchdog over claims he has made about his affordable house-building record](https://southwarknews.co.uk/area/london/sadiq-khan-has-been-criticised-by-statistics-watchdog-over-claims-he-has-made-about-his-affordable-house-building-record/)
+### [Nurses and teachers to be offered flats in purpose-built Bermondsey development](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
 
-[16th June 2024](https://southwarknews.co.uk/area/london/sadiq-khan-has-been-criticised-by-statistics-watchdog-over-claims-he-has-made-about-his-affordable-house-building-record/)
+[15th July 2024](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
 
-[![Local resident Vanessa Muyiwa-Ojo said she had 'not been consulted at all'](https://southwarknews.co.uk/wp-content/uploads/2024/06/local-resident-Vanessa-Muyiwa-Ojo-said_-I-have-not-been-consulted-at-all.-I-have-lived-here-34-years-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+[![The difference 130 years makes: L: 1894; R: 2024](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-11-07-2024-at-15.09-120x86.jpg)](https://southwarknews.co.uk/news/recreation-of-tower-bridge-photo-130-years-after-it-was-taken/)
 
-### [Defiant Bermondsey residents camping out in plant pots to sabotage ‘unwanted’ estate ‘improvements’](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+### [Recreation of Tower Bridge photo 130 years after it was taken](https://southwarknews.co.uk/news/recreation-of-tower-bridge-photo-130-years-after-it-was-taken/)
 
-[18th June 2024](https://southwarknews.co.uk/area/bermondsey/defiant-bermondsey-residents-camping-out-in-plant-pots-to-sabotage-unwanted-estate-improvements/)
+[14th July 2024](https://southwarknews.co.uk/news/recreation-of-tower-bridge-photo-130-years-after-it-was-taken/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Eric-Cantona-was-filming-for-a-new-advert-onn-location-at-The-Victoria-in-Bermondsey-e1718360345703-120x86.png)](https://southwarknews.co.uk/area/bermondsey/eric-cantona-spotted-walking-goat-outside-old-school-bermondsey-boozer/)
+[![Neil Harris has so far made three signings. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-2721829-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
 
-### [Eric Cantona spotted walking goat outside old school Bermondsey boozer](https://southwarknews.co.uk/area/bermondsey/eric-cantona-spotted-walking-goat-outside-old-school-bermondsey-boozer/)
+### [The ‘priority position’ Millwall boss is still looking to recruit in following last week’s three signings](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
 
-[14th June 2024](https://southwarknews.co.uk/area/bermondsey/eric-cantona-spotted-walking-goat-outside-old-school-bermondsey-boozer/)
+[17th July 2024](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-14-06-2024-at-16.38-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/inside-the-only-dungeons-and-dragons-themed-pub-in-south-london/)
+[![Police were called to East Surrey Grove, Peckham, following reports of an injured man. Image: Google Maps (2022)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-were-called-to-East-Surrey-Grove-Peckham-following-reports-of-an-injured-man.-Image-Google-Maps-2022-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-in-shock-after-fatal-shooting-by-damilola-taylor-centre-in-peckham/)
 
-### [Inside the only Dungeons and Dragons-themed-pub in south London](https://southwarknews.co.uk/area/elephant-and-castle/inside-the-only-dungeons-and-dragons-themed-pub-in-south-london/)
+### [Peckham in ‘shock’ after fatal shooting by Damilola Taylor Centre](https://southwarknews.co.uk/area/peckham/peckham-in-shock-after-fatal-shooting-by-damilola-taylor-centre-in-peckham/)
 
-[15th June 2024](https://southwarknews.co.uk/area/elephant-and-castle/inside-the-only-dungeons-and-dragons-themed-pub-in-south-london/)
+[14th July 2024](https://southwarknews.co.uk/area/peckham/peckham-in-shock-after-fatal-shooting-by-damilola-taylor-centre-in-peckham/)
 
-[![Parents gathered with placards outside Comber Grove Primary School](https://southwarknews.co.uk/wp-content/uploads/2023/11/Parents-gathered-with-placards-outside-Comber-Grove-Primary-School-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Plans-have-been-submitted-to-turn-the-Walworth-Road-Post-Office-into-a-chicken-shop-2-e1720515625767-120x86.png)](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
 
-### [Fourth primary school in two years is set to shut its doors in Southwark](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
+### [Why are Walworth’s essential services becoming chicken shops and kebab houses?](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
 
-[17th June 2024](https://southwarknews.co.uk/area/camberwell/fourth-primary-school-in-two-years-is-set-to-shut-its-doors-in-southwark/)
+[15th July 2024](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
 
-[![Eze's mum, dad and family members proudly stand by their son's mural. (credit: Kirby Estate)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-17-06-2024-at-11.23-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
+[![Neil Harris oversaw the arrival of three new players last week. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-64458459-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/harris-transfers-director-football-gallen/)
 
-### [Eberechi Eze’s whole family visit his mural on the Kirby Estate](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
+### [Millwall boss pays tribute to new transfer chief who is working ’24/7′ and was ‘instrumental’ to last week’s signings](https://southwarknews.co.uk/sport/football/millwall/harris-transfers-director-football-gallen/)
 
-[17th June 2024](https://southwarknews.co.uk/area/bermondsey/eberechi-ezes-whole-family-visit-his-mural-on-the-kirby-estate/)
+[15th July 2024](https://southwarknews.co.uk/sport/football/millwall/harris-transfers-director-football-gallen/)
 
 ### Featured Articles
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Giant-3x3m-screen2017-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+[![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Mayor-of-London-Sadiq-Khan.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
 
-### [Where to watch the Euros in south London](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+### [Sadiq Khan’s book Breathe and the claims he’ll introduce the ‘pay per mile’ system on London drivers](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
 
-[20th June 2024](https://southwarknews.co.uk/area/peckham/where-to-watch-the-euros-in-south-london/)
+[19th July 2024](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/06/Overground0901-1-120x86.jpeg)](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+[![Google Maps: Guy's Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-21-05-2024-at-12.43-e1716292032869-120x86.jpg)](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
 
-### [London Overground: South-east London disruption this weekend](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+### [NHS cyber attack: ‘Most services’ at south London hospitals back to ‘near normal’](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
 
-[20th June 2024](https://southwarknews.co.uk/featured/london-overground-south-east-london-disruption-this-weekend/)
+[19th July 2024](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
 
-[![(Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/06/651A8373-120x86.jpg)](https://southwarknews.co.uk/area/southwark/free-food-and-holiday-clubs-for-kids-in-southwark-this-summer/)
+[![The Two Towers TMO is among those that owe money to Southwark Council, according to council dossier](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Two-Towers-TMO-is-among-those-that-owe-money-to-Southwark-Council-according-to-council-dossier-120x86.png)](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
 
-### [Free food and holiday clubs for kids in Southwark this summer](https://southwarknews.co.uk/area/southwark/free-food-and-holiday-clubs-for-kids-in-southwark-this-summer/)
+### [Exclusive: Bombshell dossier reveals Southwark Council’s £3 million debt crisis amid fears that council estates have been financially mismanaged](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
 
-[20th June 2024](https://southwarknews.co.uk/area/southwark/free-food-and-holiday-clubs-for-kids-in-southwark-this-summer/)
+[19th July 2024](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
 
-[![L: Debra Holloway R: Professor Jane Davies](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-20-06-2024-at-07.39-120x86.jpg)](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+[![Top row (left to right): Jalees Selby-Gangera, Connor Brooks, Enriko Spahiu, Kai Osibodu. Bottow row left to right: Bradlee Reeve, Charlie Brabon, Anthony Wallder](https://southwarknews.co.uk/wp-content/uploads/2024/07/Top-row-left-to-right-Jalees-Selby-Gangera-Connor-Brooks-Enriko-Spahiu-Kai-Osibodu.-Bottow-row-left-to-right-Bradlee-Reeve-Charlie-Brabon-Anthony-Wallder-120x86.png)](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
 
-### [Woman behind ‘revolutionary’ cystic fibrosis treatment among those on King’s Honours list](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+### [Seven jailed for over 150 years after gunning down Bermondsey man in the street](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
 
-[20th June 2024](https://southwarknews.co.uk/featured/woman-behind-revolutionary-cystic-fibrosis-treatment-among-those-on-kings-honours-list/)
+[19th July 2024](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
 
-[![Left: Okinawa Day, The Blue. Right: Ark Globe Academy Summer Fair.](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-18-06-2024-at-13.42-120x86.jpg)](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+[![People inspecting the plans ahead of the refurbishment. Image: Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/07/People-inspecting-the-plans-ahead-of-the-refurbishment.-Image-Brunel-Museum-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
 
-### [What’s on this weekend: Bermondsey, South Bank, Elephant and Peckham](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+### [Brunel Museum to close until summer 2025 for landmark refurbishment that will restore historic Thames Tunnel site to its former glory](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
 
-[19th June 2024](https://southwarknews.co.uk/area/peckham/whats-on-this-weekend-bermondsey-south-bank-elephant-and-peckham/)
+[18th July 2024](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
 
-[![Peter Wisby returned to the estate to tell the story of the post-Blitz Kiddies' Party (inset) of 1946](https://southwarknews.co.uk/wp-content/uploads/2024/06/Peter-Wisby-returned-to-the-estate-to-tell-the-story-of-the-post-Blitz-Kiddies-Party-inset-of-1946-e1718722979519-120x86.png)](https://southwarknews.co.uk/area/bermondsey/the-kirby-has-always-been-patriotic-war-baby-remembers-the-england-loving-estates-post-blitz-party/)
+[![Police have released images of a motorbike they believe could be linked to the shooting in Dalston. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-have-released-images-of-a-motorbike-they-believe-could-be-linked-to-the-shooting-in-Dalston.-Image-Met-Police-120x86.png)](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
 
-### [‘The Kirby has always been patriotic’: War baby remembers the England-loving estate’s post-Blitz party](https://southwarknews.co.uk/area/bermondsey/the-kirby-has-always-been-patriotic-war-baby-remembers-the-england-loving-estates-post-blitz-party/)
+### [Motorbike ‘linked’ to Dalston shooting that critically injured nine-year-old girl has ‘been in Peckham and Crystal Palace’](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
 
-[19th June 2024](https://southwarknews.co.uk/area/bermondsey/the-kirby-has-always-been-patriotic-war-baby-remembers-the-england-loving-estates-post-blitz-party/)
+[18th July 2024](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
 
 ### USEFUL PAGES
 
@@ -281,46 +281,6 @@ Terms of Use
 © 2022 Southwark News
 
 [](#back-to-top)
-
-Manage Cookie Consent
-
-To provide the best experiences, we and our partners use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us and our partners to process personal data such as browsing behavior or unique IDs on this site and show (non-) personalized ads. Not consenting or withdrawing consent, may adversely affect certain features and functions.
-
-Click below to consent to the above or make granular choices. Your choices will be applied to this site only. You can change your settings at any time, including withdrawing your consent, by using the toggles on the Cookie Policy, or by clicking on the manage consent button at the bottom of the screen.
-
-Functional  Functional Always active
-
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-
-Preferences  Preferences
-
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-
-Statistics  Statistics
-
-The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-
-Marketing  Marketing
-
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-
-Statistics
-
-Marketing
-
-Features
-
-Always active
-
-Always active
-
-[Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
-
-Accept Deny View preferences Save preferences [View preferences](#)
-
-[{title}](#) [{title}](#) [{title}](#)
-
-Manage consent
 
 [](#)
 
