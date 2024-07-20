@@ -56,14 +56,6 @@
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![The Smooth Legend - Complete Collection](//www.trulybeauty.com/cdn/shop/files/SMOOTHLEGEND_CompleteCollection_pink_V5_e01da89a-f881-490a-b808-2dc059378b4b_750X937.jpg?v=1695116853)](javascript:void(0))
-
-[##### The Smooth Legend - Complete Collection](javascript:void(0))
-
-$226.98 ~$502.20~
-
-   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
-
 [![Glazed Donut Shave Set](//www.trulybeauty.com/cdn/shop/files/GlazedDonutShaveSet_pink_V2_1_750X937.jpg?v=1695118535)](javascript:void(0))
 
 [##### Glazed Donut Shave Set](javascript:void(0))
@@ -72,7 +64,7 @@ $129 ~$161~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Signature VIP Collection](//www.trulybeauty.com/cdn/shop/files/TrulyVIP4-BoxClosed4x5_750X937.jpg?v=1701203064)](javascript:void(0))
+[![Signature VIP Collection](//www.trulybeauty.com/cdn/shop/files/TrulyVIP4-BoxClosed4x5_1_750X937.jpg?v=1720006032)](javascript:void(0))
 
 [##### Signature VIP Collection](javascript:void(0))
 
@@ -80,11 +72,19 @@ $270 ~$590.90~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![KP Treatment Routine](//www.trulybeauty.com/cdn/shop/files/KPTreatmentNewandImprovedBadge2023_750X937.png?v=1690222905)](javascript:void(0))
+[![KP Treatment Routine](//www.trulybeauty.com/cdn/shop/files/KPTreatmentNewandImprovedBadge2023_750X937.jpg?v=1720071405)](javascript:void(0))
 
 [##### KP Treatment Routine](javascript:void(0))
 
 $101.30 ~$118.60~
+
+   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
+
+[![Ultimate Body Routine](//www.trulybeauty.com/cdn/shop/products/UltimateBodyBundle_pink_V4_750X937.jpg?v=1626955346)](javascript:void(0))
+
+[##### Ultimate Body Routine](javascript:void(0))
+
+$172.30 ~$191.40~
 
 [Shop all](https://www.trulybeauty.com/collections/best-sellers)
 
@@ -92,35 +92,35 @@ $101.30 ~$118.60~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Bodne Routine](//www.trulybeauty.com/cdn/shop/files/BODNE_ROUTINE_BUNDLE_pink_V3_750X937.jpg?v=1718289357)](javascript:void(0))
+[![Birthday Sex Luxury Body Oil](//www.trulybeauty.com/cdn/shop/files/BIRTHDAYSEX_LuxuryBodyOil_NEWFrench_pink_V2_1_750X937.jpg?v=1719310877)](javascript:void(0))
 
-[##### Bodne Routine](javascript:void(0))
+[##### Birthday Sex Luxury Body Oil](javascript:void(0))
 
-$131.40 ~$146~
-
-   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
-
-[![Cooka Colada Luxury Shave Butter](//www.trulybeauty.com/cdn/shop/files/COOKACOLADA_LuxuryShaveButter_NEWFrench_pink_V2_54524dd4-322f-481c-a0ec-08bd637f5861_750X937.jpg?v=1714107560)](javascript:void(0))
-
-[##### Cooka Colada Luxury Shave Butter](javascript:void(0))
-
-$32
+$38
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Dreamiest Shave Set](//www.trulybeauty.com/cdn/shop/files/NEWNESSBUNDLE_pink_V1_750X937.jpg?v=1709282868)](javascript:void(0))
+[![Golden Glaze Luxury Body Oil](//www.trulybeauty.com/cdn/shop/files/GOLDENGLAZE_LuxuryBodyOil_NEWFrench_pink_V1_1_750X937.jpg?v=1719311112)](javascript:void(0))
 
-[##### Dreamiest Shave Set](javascript:void(0))
+[##### Golden Glaze Luxury Body Oil](javascript:void(0))
 
-$99 ~$117~
+$38
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Glazed Donut Whipped Shave Butter](//www.trulybeauty.com/cdn/shop/files/GLAZEDDONUT_WhippedShaveButter_pink_V1_e9058564-c433-4d8f-a124-9e7812efbf35_750X937.jpg?v=1709285290)](javascript:void(0))
+[![Vanilla Baby Luxury Body Oil](//www.trulybeauty.com/cdn/shop/files/VANILLABABY_LuxuryBodyOil_NEWFrench_pink_V1_1_750X937.jpg?v=1719312106)](javascript:void(0))
 
-[##### Glazed Donut Whipped Shave Butter](javascript:void(0))
+[##### Vanilla Baby Luxury Body Oil](javascript:void(0))
 
-$33
+$38
+
+   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
+
+[![Luxury Body Oil Trio](//www.trulybeauty.com/cdn/shop/files/LUXURYBODYOILSx3_pink_V1_750X937.jpg?v=1720034169)](javascript:void(0))
+
+[##### Luxury Body Oil Trio](javascript:void(0))
+
+$102.60 ~$114~
 
 [Shop all](https://www.trulybeauty.com/collections/new-arrivals-1)
 
@@ -183,14 +183,6 @@ $33
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![The Smooth Legend - Complete Collection](//www.trulybeauty.com/cdn/shop/files/SMOOTHLEGEND_CompleteCollection_pink_V5_e01da89a-f881-490a-b808-2dc059378b4b_750X937.jpg?v=1695116853)](javascript:void(0))
-
-[##### The Smooth Legend - Complete Collection](javascript:void(0))
-
-$226.98 ~$502.20~
-
-   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
-
 [![Glazed Donut Shave Set](//www.trulybeauty.com/cdn/shop/files/GlazedDonutShaveSet_pink_V2_1_750X937.jpg?v=1695118535)](javascript:void(0))
 
 [##### Glazed Donut Shave Set](javascript:void(0))
@@ -199,7 +191,7 @@ $129 ~$161~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Signature VIP Collection](//www.trulybeauty.com/cdn/shop/files/TrulyVIP4-BoxClosed4x5_750X937.jpg?v=1701203064)](javascript:void(0))
+[![Signature VIP Collection](//www.trulybeauty.com/cdn/shop/files/TrulyVIP4-BoxClosed4x5_1_750X937.jpg?v=1720006032)](javascript:void(0))
 
 [##### Signature VIP Collection](javascript:void(0))
 
@@ -207,45 +199,53 @@ $270 ~$590.90~
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![KP Treatment Routine](//www.trulybeauty.com/cdn/shop/files/KPTreatmentNewandImprovedBadge2023_750X937.png?v=1690222905)](javascript:void(0))
+[![KP Treatment Routine](//www.trulybeauty.com/cdn/shop/files/KPTreatmentNewandImprovedBadge2023_750X937.jpg?v=1720071405)](javascript:void(0))
 
 [##### KP Treatment Routine](javascript:void(0))
 
 $101.30 ~$118.60~
 
+   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
+
+[![Ultimate Body Routine](//www.trulybeauty.com/cdn/shop/products/UltimateBodyBundle_pink_V4_750X937.jpg?v=1626955346)](javascript:void(0))
+
+[##### Ultimate Body Routine](javascript:void(0))
+
+$172.30 ~$191.40~
+
 [Shop all](https://www.trulybeauty.com/collections/best-sellers)
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Bodne Routine](//www.trulybeauty.com/cdn/shop/files/BODNE_ROUTINE_BUNDLE_pink_V3_750X937.jpg?v=1718289357)](javascript:void(0))
+[![Birthday Sex Luxury Body Oil](//www.trulybeauty.com/cdn/shop/files/BIRTHDAYSEX_LuxuryBodyOil_NEWFrench_pink_V2_1_750X937.jpg?v=1719310877)](javascript:void(0))
 
-[##### Bodne Routine](javascript:void(0))
+[##### Birthday Sex Luxury Body Oil](javascript:void(0))
 
-$131.40 ~$146~
-
-   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
-
-[![Cooka Colada Luxury Shave Butter](//www.trulybeauty.com/cdn/shop/files/COOKACOLADA_LuxuryShaveButter_NEWFrench_pink_V2_54524dd4-322f-481c-a0ec-08bd637f5861_750X937.jpg?v=1714107560)](javascript:void(0))
-
-[##### Cooka Colada Luxury Shave Butter](javascript:void(0))
-
-$32
+$38
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Dreamiest Shave Set](//www.trulybeauty.com/cdn/shop/files/NEWNESSBUNDLE_pink_V1_750X937.jpg?v=1709282868)](javascript:void(0))
+[![Golden Glaze Luxury Body Oil](//www.trulybeauty.com/cdn/shop/files/GOLDENGLAZE_LuxuryBodyOil_NEWFrench_pink_V1_1_750X937.jpg?v=1719311112)](javascript:void(0))
 
-[##### Dreamiest Shave Set](javascript:void(0))
+[##### Golden Glaze Luxury Body Oil](javascript:void(0))
 
-$99 ~$117~
+$38
 
    ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
 
-[![Glazed Donut Whipped Shave Butter](//www.trulybeauty.com/cdn/shop/files/GLAZEDDONUT_WhippedShaveButter_pink_V1_e9058564-c433-4d8f-a124-9e7812efbf35_750X937.jpg?v=1709285290)](javascript:void(0))
+[![Vanilla Baby Luxury Body Oil](//www.trulybeauty.com/cdn/shop/files/VANILLABABY_LuxuryBodyOil_NEWFrench_pink_V1_1_750X937.jpg?v=1719312106)](javascript:void(0))
 
-[##### Glazed Donut Whipped Shave Butter](javascript:void(0))
+[##### Vanilla Baby Luxury Body Oil](javascript:void(0))
 
-$33
+$38
+
+   ![](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/plus_circle.svg?v=1687434603)
+
+[![Luxury Body Oil Trio](//www.trulybeauty.com/cdn/shop/files/LUXURYBODYOILSx3_pink_V1_750X937.jpg?v=1720034169)](javascript:void(0))
+
+[##### Luxury Body Oil Trio](javascript:void(0))
+
+$102.60 ~$114~
 
 [Shop all](https://www.trulybeauty.com/collections/new-arrivals-1)
 
@@ -406,7 +406,7 @@ Exclusive Perks:
 * Special access and priority response time from our Priority Customer Experience Team
 * Pause or cancel anytime
 
-![icon](//www.trulybeauty.com/cdn/shop/t/601/assets/close_icon.png?v=92615843721948701681717044205)
+![icon](//www.trulybeauty.com/cdn/shop/t/621/assets/close_icon.png?v=92615843721948701681721056463)
 
 Search
 
@@ -460,15 +460,9 @@ Smooth Legend Pre-Shave Scrub Mini
 
 #### shop best sellers
 
-[![The Smooth Legend - Complete Collection](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/Truly-placeholder-image-pink.png?v=1684759789)](https://www.trulybeauty.com/products/the-smooth-legend-complete-collection)
+[![Glazed Donut Shave Set](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/Truly-placeholder-image-pink.png?v=1684759789)](https://www.trulybeauty.com/products/glazed-donut-shave-set)
 
-[##### The Smooth Legend - Complete Collection](https://www.trulybeauty.com/products/the-smooth-legend-complete-collection)
-
-$226.98 ~$502.20~
-
-[![Glazed Donut Shave Set](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/Truly-placeholder-image-pink.png?v=1684759789)](https://www.trulybeauty.com/products/elsa-hosk-glazed-donut-shave-set)
-
-[##### Glazed Donut Shave Set](https://www.trulybeauty.com/products/elsa-hosk-glazed-donut-shave-set)
+[##### Glazed Donut Shave Set](https://www.trulybeauty.com/products/glazed-donut-shave-set)
 
 $129 ~$161~
 
@@ -489,5 +483,11 @@ $101.30 ~$118.60~
 [##### Ultimate Body Routine](https://www.trulybeauty.com/products/ultimate-body-bundle)
 
 $172.30 ~$191.40~
+
+[![Vegan Collagen Booster Set](https://cdn.shopify.com/s/files/1/0053/4462/4675/files/Truly-placeholder-image-pink.png?v=1684759789)](https://www.trulybeauty.com/products/vegan-collagen-booster-bundle)
+
+[##### Vegan Collagen Booster Set](https://www.trulybeauty.com/products/vegan-collagen-booster-bundle)
+
+$159.50 ~$409.50~
 
 #### Already in bag
