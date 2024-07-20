@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Pride Transparent 01](https://yello.co/wp-content/uploads/2024/06/pride_transparent_01-1.png)](https://yello.co/)
+[![Yello logo](https://yello.co/wp-content/uploads/2021/04/yello-logo@4x.png)](https://yello.co/)
 
 * [Why Yello?](https://yello.co/why-yello/)
 * [Solutions](#)
@@ -37,7 +37,17 @@ Menu
 Yello Privacy Policy
 ====================
 
-**Yello Privacy Policy** _Effective Date/Last Updated: January 9, 2024_ RECSOLU, Inc., DBA Yello (“Yello” or “we” or “us” or “our”) is committed to protecting the privacy of visitors and users of the yello.co website (the “Site”) and our mobile and web recruiting applications (the “Apps”), and in connection with providing our services (the “Services”). We want our Customers and their Authorized Users (collectively, our “Customer(s)”) and Candidates (“Candidate(s)”) to have a positive experience while using the Site or Apps. We respect and protect our Customers’ and Candidates’ rights to privacy as set forth in this Privacy Policy. This Privacy Policy applies to both the Site and the Apps and other platforms where this Privacy Policy is posted. To provide some background to our Customers and Candidates, we primarily process Personal Information (defined below) on behalf of and in accordance with the instructions of our Customers, who may collect such information from Candidates during the employment recruitment process or otherwise. In addition, we act as a data controller with respect to some Candidate Personal Information that we make available to our Customers upon authorization from such Candidates. We and our Customers collect such information from Candidates using the Site or the Apps. We also work with partners, who obtain information from Candidates, and offer this information to our Customers. The Personal Information from the Candidate(s) is concurrently and automatically stored and backed up from the Site and/or the Apps to servers that are under the control and in the possession of our hosting provider, who acts as our sub-processor. It is important to note that the provision of Personal Information by Customers or Candidates is not mandatory, and Customers and Candidates can refrain from such provision at any time and still maintain access to the Site and Apps. We may modify this Privacy Notice at any time. All changes will be effective immediately upon posting to the Site. Material changes will be conspicuously posted on the Site or otherwise communicated to you. **Click on the links below to jump to each section:**
+**Yello Privacy Policy**
+
+_Effective Date/Last Updated: January 9, 2024_
+
+RECSOLU, Inc., DBA Yello (“Yello” or “we” or “us” or “our”) is committed to protecting the privacy of visitors and users of the yello.co website (the “Site”) and our mobile and web recruiting applications (the “Apps”), and in connection with providing our services (the “Services”). We want our Customers and their Authorized Users (collectively, our “Customer(s)”) and Candidates (“Candidate(s)”) to have a positive experience while using the Site or Apps. We respect and protect our Customers’ and Candidates’ rights to privacy as set forth in this Privacy Policy. This Privacy Policy applies to both the Site and the Apps and other platforms where this Privacy Policy is posted.
+
+To provide some background to our Customers and Candidates, we primarily process Personal Information (defined below) on behalf of and in accordance with the instructions of our Customers, who may collect such information from Candidates during the employment recruitment process or otherwise. In addition, we act as a data controller with respect to some Candidate Personal Information that we make available to our Customers upon authorization from such Candidates. We and our Customers collect such information from Candidates using the Site or the Apps. We also work with partners, who obtain information from Candidates, and offer this information to our Customers. The Personal Information from the Candidate(s) is concurrently and automatically stored and backed up from the Site and/or the Apps to servers that are under the control and in the possession of our hosting provider, who acts as our sub-processor. It is important to note that the provision of Personal Information by Customers or Candidates is not mandatory, and Customers and Candidates can refrain from such provision at any time and still maintain access to the Site and Apps.
+
+We may modify this Privacy Notice at any time. All changes will be effective immediately upon posting to the Site. Material changes will be conspicuously posted on the Site or otherwise communicated to you.
+
+**Click on the links below to jump to each section:**
 
 * [**_How do we collect Candidate and Customer Personal Information?_**](#1)
 * [**_What Personal Information do we collect?_**](#2)
@@ -63,11 +73,14 @@ Yello collects Personal Information relating to Candidates and Customers’ use 
 * **Directly from Customers.** We collect information from our Customers when they sign up to use our services or interact with us.
 * **Directly from Candidates.**  We collect information from Candidates when they register an account with us, request information, send us email, send us postal mail, speak with us on the telephone, or otherwise interact with us.  When Candidates register an account on our Site or Apps, Candidates will be prompted to give their consent to our processing of their Personal Information. By indicating their consent, Candidates expressly authorize Yello to collect and process their Personal Information consistent with the purposes described in this Privacy Policy.
 * **From our apps.** We may collect information from mobile devices when our Apps are installed on mobile devices or when Candidates or Customers provide information to us via the Apps. When Candidates install our Apps on their mobile device and sign up, they will be prompted to give their consent to our processing of their Personal Information. By indicating their consent, Candidates expressly authorize Yello to collect and process their Personal Information consistent with the purposes described in this Privacy Policy.
+* **No mobile information** will be shared with third parties/affiliates for marketing/promotional purposes. All other categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties
 
 * **From other third party sources**. We may receive information about Candidates and Customers from our third-party service providers ( and may include sourcing partners), who help us to provide our services. Our sourcing partners may provide us with Candidate information, collected from the Candidates, which we may share with our Customers.
 * **Automatically as Customers and Candidates navigate the websites and apps**. Information collected automatically may include usage details, email address, IP addresses, and information collected through cookies, device identifiers, and other online tracking technologies. We and our service providers may also use pixels, web beacons, and local storage to collect usage and browser information about how you use the Site. We process the information collected through such technologies, which may include or be combined with Personal Information, to help operate certain features of the Site, to enhance your experience through personalization, and to help us better understand the features of the Site that you and other users are most interested in.
 
-Most web browsers automatically accept cookies, but you can change your browser’s settings to disable all or certain cookies if you wish. Please note that by disabling or deleting cookies, you may not be able to access the full functionality of our Sites.  Disabling or clearing cookies also may affect cookie-based opt-outs by either preventing you from using such cookie-based opt-outs or clearing opt-outs that you previously set. For more information about how we use cookies, please see our [Cookie Policy](https://yello.co/cookie-policy/). Some of our service providers or plug-ins may use cookies or other methods to gather information regarding your use of the Site and may combine the information in these cookies with any Personal Information about you that they may have. The use of such tracking information by a third party depends on the privacy notice of that third party. We do not respond to Do Not Track (“DNT”) signals sent to us by your browser at this time. To learn more about how DNT works, please visit [http://allaboutdnt.com/](http://allaboutdnt.com/).
+Most web browsers automatically accept cookies, but you can change your browser’s settings to disable all or certain cookies if you wish. Please note that by disabling or deleting cookies, you may not be able to access the full functionality of our Sites.  Disabling or clearing cookies also may affect cookie-based opt-outs by either preventing you from using such cookie-based opt-outs or clearing opt-outs that you previously set. For more information about how we use cookies, please see our [Cookie Policy](https://yello.co/cookie-policy/).
+
+Some of our service providers or plug-ins may use cookies or other methods to gather information regarding your use of the Site and may combine the information in these cookies with any Personal Information about you that they may have. The use of such tracking information by a third party depends on the privacy notice of that third party. We do not respond to Do Not Track (“DNT”) signals sent to us by your browser at this time. To learn more about how DNT works, please visit [http://allaboutdnt.com/](http://allaboutdnt.com/).
 
 * **We use Google to serve ads across various websites**. Google uses Cookies to collect data about your visits to the Site to generate targeted advertisements to you on other websites that you visit. To opt-out of this type of advertising by Google, to customize your ad preferences, or to limit Google’s collection or use of such data, visit [Google’s Safety Center](https://www.google.com/safetycenter/tools) and [Google’s Ad Settings](http://www.google.com/settings/ads) and follow [Google’s personalized ad opt-out instructions](https://support.google.com/ads/answer/2662922?hl=en&ref_topic=7048998). Opting out will not affect your use of the Site.
 * **Online Behavioral Advertising**.  We use third parties and/or service providers to provide interest-based advertising services. These services may serve advertisements on our behalf that are customized based on predictions about your interests generated from your visits to websites (including this Site) over time and across different websites. The data collected may be associated with your Personal Information. These advertisements may appear on the Site and on other websites and may be sent to you via email.
@@ -102,7 +115,11 @@ Through the Site and Apps, we automatically gather certain information about the
 How do we use Customer Personal Information?
 --------------------------------------------
 
-We use Customer information in order to administer our Customers’ accounts and allow them to use the Site and Apps. We use Customer information to support and enhance our Customers’ use of the Site and its features and the Apps, including, at times and as an example, tracking emails that our Customers send. We will also use Customer information to fulfill customer requests, such as provide customer service. We also use our Customer’s Personal Information for any purpose for which they provide it (for example, if a Customer wishes to share its email address or Personal Information with us for a particular purpose). In addition, we may send our Customers service or promotional communications, including notifying them of new services, offerings, or changes to the Site, Apps, or this Privacy Policy. Our Customers can opt-out of receiving these emails by contacting us at privacy@yello.co. We may use Customer information to enable us to display advertisements to third parties’ target audiences. Even though we do not disclose your Personal Information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume you meet its target criteria.
+We use Customer information in order to administer our Customers’ accounts and allow them to use the Site and Apps. We use Customer information to support and enhance our Customers’ use of the Site and its features and the Apps, including, at times and as an example, tracking emails that our Customers send. We will also use Customer information to fulfill customer requests, such as provide customer service.
+
+We also use our Customer’s Personal Information for any purpose for which they provide it (for example, if a Customer wishes to share its email address or Personal Information with us for a particular purpose). In addition, we may send our Customers service or promotional communications, including notifying them of new services, offerings, or changes to the Site, Apps, or this Privacy Policy. Our Customers can opt-out of receiving these emails by contacting us at privacy@yello.co.
+
+We may use Customer information to enable us to display advertisements to third parties’ target audiences. Even though we do not disclose your Personal Information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume you meet its target criteria.
 
 How do we use Candidate Personal Information?
 ---------------------------------------------
@@ -124,7 +141,11 @@ We may share de-identified information and reports and analyses based on de-iden
 
 ### Third-Party Service Providers
 
-We may disclose Personal Information to our vendors and other third-party service providers that help us provide our services. The purpose of such disclosure is to provide our services to our Customers, and may include: the sub-processing of such Personal Information between our Site, the Apps, and our and our Customers’ networks; the parsing of such Personal Information to allow our Customers to filter through the information that the Candidates voluntarily provide to our Customers via the Site or Apps; and, generally, allowing our Customers to build a work candidate database based on the information provided by Candidates and manage their recruitment process. We may also disclose aggregated, de-identified Personal Information, and analyses and reports derived from such information, to service providers, advertisers, merchants, consumer and market research companies and other organizations. These service providers are responsible for their own compliance with data protection laws.
+We may disclose Personal Information to our vendors and other third-party service providers that help us provide our services.
+
+The purpose of such disclosure is to provide our services to our Customers, and may include: the sub-processing of such Personal Information between our Site, the Apps, and our and our Customers’ networks; the parsing of such Personal Information to allow our Customers to filter through the information that the Candidates voluntarily provide to our Customers via the Site or Apps; and, generally, allowing our Customers to build a work candidate database based on the information provided by Candidates and manage their recruitment process.
+
+We may also disclose aggregated, de-identified Personal Information, and analyses and reports derived from such information, to service providers, advertisers, merchants, consumer and market research companies and other organizations. These service providers are responsible for their own compliance with data protection laws.
 
 ### To Third Parties for Marketing Purposes
 
@@ -149,7 +170,11 @@ If you no longer wish to receive promotional or informational emails from us, yo
 
 ### Data Subject Access Requests (DSARs)
 
-To the extent provided for in applicable data protection laws of Candidates’ countries residence, upon written request from a Candidate, with proper verification of identity at our sole discretion (_e.g._ via certification from a notary public), we can promptly destroy, correct, amend and/or return, to such verified Candidate, any and all Personal Information in our or our sub-processor’s control or possession, subject to both our right to retain such information as deemed necessary to comply with legal obligations and the obligations detailed in our written agreements with Customers. We will use commercially reasonable efforts to respond to such requests within the prescribed period of time set forth in applicable data protection laws.  All requests in this regard should be submitted via email to [privacy@yello.co](mailto:privacy@yello.co). Yello responds to DSARs over email, directly with the Candidate or an authorized representative of the Candidate. We will not log into third party portals or respond to requests within third party applications (including but not limited to: portals, etc). Additionally, please note that if you withdraw your consent or object to processing, or if you choose not to provide certain Personal Information, we may be unable to provide some or all of our services to you.
+To the extent provided for in applicable data protection laws of Candidates’ countries residence, upon written request from a Candidate, with proper verification of identity at our sole discretion (_e.g._ via certification from a notary public), we can promptly destroy, correct, amend and/or return, to such verified Candidate, any and all Personal Information in our or our sub-processor’s control or possession, subject to both our right to retain such information as deemed necessary to comply with legal obligations and the obligations detailed in our written agreements with Customers. We will use commercially reasonable efforts to respond to such requests within the prescribed period of time set forth in applicable data protection laws.  All requests in this regard should be submitted via email to [privacy@yello.co](mailto:privacy@yello.co).
+
+Yello responds to DSARs over email, directly with the Candidate or an authorized representative of the Candidate. We will not log into third party portals or respond to requests within third party applications (including but not limited to: portals, etc).
+
+Additionally, please note that if you withdraw your consent or object to processing, or if you choose not to provide certain Personal Information, we may be unable to provide some or all of our services to you.
 
 ### Contact by our Customers
 
@@ -157,12 +182,16 @@ As described above, we will disclose to our Customers Candidates’ Personal Inf
 
 ### Your Choices and Controls
 
-Our Customers or an authorized user of our Customers may access, update, receive, correct, and/or delete registration and other Personal Information by logging into the Site or Apps and modifying their user profile, or by sending us an email at privacy@yello.co. Customers may also close their account at any time by contacting us at [privacy@yello.co](mailto:privacy@yello.co). We will take commercially reasonable steps to implement our Customers’ requests promptly, but it may take some time to process. While we make efforts to accommodate requests to restrict our use of Personal Information, we reserve the right to erase all or any portion of a Customer or Candidate’s information if we are not able to reasonably accommodate a requested restriction. Please note that in some instances, we may not be able to delete the Personal Information or our Customers or Candidates except by closing such Customer’s user account. We will notify our Customers if we are not able to accommodate their requests or if we have elected to close a Customer account as a result of a failure to accommodate such request.
+Our Customers or an authorized user of our Customers may access, update, receive, correct, and/or delete registration and other Personal Information by logging into the Site or Apps and modifying their user profile, or by sending us an email at privacy@yello.co. Customers may also close their account at any time by contacting us at [privacy@yello.co](mailto:privacy@yello.co). We will take commercially reasonable steps to implement our Customers’ requests promptly, but it may take some time to process.
+
+While we make efforts to accommodate requests to restrict our use of Personal Information, we reserve the right to erase all or any portion of a Customer or Candidate’s information if we are not able to reasonably accommodate a requested restriction. Please note that in some instances, we may not be able to delete the Personal Information or our Customers or Candidates except by closing such Customer’s user account. We will notify our Customers if we are not able to accommodate their requests or if we have elected to close a Customer account as a result of a failure to accommodate such request.
 
 Location of our Site
 --------------------
 
-Our Site is hosted and operated in the United States. However, we and our service providers may store information about individuals in the United States, or we may transfer it to, and store it within, other countries. In very limited circumstances and at our sole discretion, we may provide certain Customers with the option to elect that their data is hosted in Ireland. Visitors from jurisdictions outside the United States visit us at their own choice and risk. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your Personal Information outside your home jurisdiction, and that we may store your Personal Information in the United States or elsewhere. Please note that the level of legal protection provided in the United States from which you may access our Sites may not be as stringent as that under privacy standards or the privacy laws of other countries, possibly including your home jurisdiction.
+Our Site is hosted and operated in the United States. However, we and our service providers may store information about individuals in the United States, or we may transfer it to, and store it within, other countries. In very limited circumstances and at our sole discretion, we may provide certain Customers with the option to elect that their data is hosted in Ireland.
+
+Visitors from jurisdictions outside the United States visit us at their own choice and risk. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your Personal Information outside your home jurisdiction, and that we may store your Personal Information in the United States or elsewhere. Please note that the level of legal protection provided in the United States from which you may access our Sites may not be as stringent as that under privacy standards or the privacy laws of other countries, possibly including your home jurisdiction.
 
 How long do we retain your Personal Information?
 ------------------------------------------------
@@ -177,12 +206,22 @@ Occasionally, at our discretion, we may include or offer third party products or
 How do we protect your information?
 -----------------------------------
 
-We are committed to protecting the information we receive from our Customers and Candidates. We have implemented commercially reasonable, appropriate technical and organizational measures to protect the confidentiality, security and integrity of data stored on the Site and on the Apps, including from loss, misuse, and unauthorized access, disclosure, alteration and destruction, while considering the risks involved; including, but not limited to, severity of foreseeable harm and likelihood that our processing could threaten the individual rights and freedoms of the Candidates. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved. In addition, only those employees and third parties who need access to Personal Information in order to perform their duties are allowed such access. Although we do our best to protect the Personal Information of our Customers and Candidates, we cannot guarantee the security of Personal Information transmitted to the Site or Apps. Any transmission of Personal Information is at the Customer’s or Candidate’s own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on the Site or Apps. The safety and security of Personal Information also depends on the Customers and Candidates. Customers and Candidates are responsible for keeping their self-created passwords confidential, and Customers and Candidates must not share passwords with anyone. Customers and Candidates must also take all reasonable steps to ensure the protection of their Personal Information and must be careful about giving out information in public areas of the Site or Apps or elsewhere.
+We are committed to protecting the information we receive from our Customers and Candidates. We have implemented commercially reasonable, appropriate technical and organizational measures to protect the confidentiality, security and integrity of data stored on the Site and on the Apps, including from loss, misuse, and unauthorized access, disclosure, alteration and destruction, while considering the risks involved; including, but not limited to, severity of foreseeable harm and likelihood that our processing could threaten the individual rights and freedoms of the Candidates. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+In addition, only those employees and third parties who need access to Personal Information in order to perform their duties are allowed such access.
+
+Although we do our best to protect the Personal Information of our Customers and Candidates, we cannot guarantee the security of Personal Information transmitted to the Site or Apps. Any transmission of Personal Information is at the Customer’s or Candidate’s own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on the Site or Apps. The safety and security of Personal Information also depends on the Customers and Candidates. Customers and Candidates are responsible for keeping their self-created passwords confidential, and Customers and Candidates must not share passwords with anyone. Customers and Candidates must also take all reasonable steps to ensure the protection of their Personal Information and must be careful about giving out information in public areas of the Site or Apps or elsewhere.
 
 California residents
 --------------------
 
-This Section applies to our collection and use of Personal Information if you are a resident of California, as required by the California Consumer Privacy Act of 2018 and its implementing regulations, as amended by the California Privacy Rights Act (the “CCPA”). This Section describes (1) the categories of Personal Information, collected and disclosed by us, (2) your privacy rights, and (3) how to exercise your rights. If you would like to receive a copy of this Section in an alternate format (e.g., printable) or language, please contact us using the information provided in the Contact Us section below. When we use the term “Personal Information” in this section, we mean information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Yello makes the following disclosures regarding the categories of Personal Information (enumerated in Section 1798.140(o)(1) of the CCPA) that we have collected within the last 12 months:
+This Section applies to our collection and use of Personal Information if you are a resident of California, as required by the California Consumer Privacy Act of 2018 and its implementing regulations, as amended by the California Privacy Rights Act (the “CCPA”). This Section describes (1) the categories of Personal Information, collected and disclosed by us, (2) your privacy rights, and (3) how to exercise your rights.
+
+If you would like to receive a copy of this Section in an alternate format (e.g., printable) or language, please contact us using the information provided in the Contact Us section below.
+
+When we use the term “Personal Information” in this section, we mean information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.
+
+Yello makes the following disclosures regarding the categories of Personal Information (enumerated in Section 1798.140(o)(1) of the CCPA) that we have collected within the last 12 months:
 
 ### Candidate Personal Data:
 
@@ -231,12 +270,24 @@ If you are a California resident, you have the following rights:
 | **To Opt Out of Sales or Sharing of Personal Information** | You can request to opt out of us selling or sharing your Personal Information. To exercise this right please [click here](https://learn.yello.co/Privacy-Policy-Opt-Out-2023_LP---Privacy-Policy-Opt-Out.html) and follow the instructions to submit your request. As noted above, in the past 12 months we may have enabled advertisers to collect certain information, which the advertisers may use to improve their interest-based advertising networks, and this may be considered a “sale” or “share” under the CCPA. Except under these circumstances, Yello does not sell or share your Personal Information. |
 | **Limit Use of Sensitive Personal Information** | Yello does not use or disclose Sensitive Personal Information other than for the purpose for which it was originally collected that are reasonably expected by the average consumer. However, if we used or disclosed Sensitive Personal Information for other purposes, you would have the right to opt out. |
 
-Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a request related to your Personal Information. You may only make a request for access twice within a 12-month period. The request must:
+Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a request related to your Personal Information.
+
+You may only make a request for access twice within a 12-month period. The request must:
 
 * Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
 * Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it
 
-We must verify your identity before fulfilling your requests.  If we cannot initially verify your identity, we may request additional information to complete the verification process. We will only use Personal Information provided in a request to verify the requestor’s identity. If you are an authorized agent making a request on behalf of a California consumer, we will also need to verify your identity, which may require proof of your written authorization or evidence of a power of attorney. We endeavor to respond to requests within the time period required by applicable law. If we require more time, we will inform you of the reason and extension period in writing. We do not charge a fee to process or respond to your request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request. We cannot respond to your request or provide you with Personal Information if we cannot verify your identity and confirm the Personal Information relates to you. Making a verifiable consumer request does not require you to create an account with us. We may deny certain requests, or only fulfill some in part, as permitted or required by law.  For example, if you request to delete Personal Information, we may retain Personal Information that we need to retain for legal purposes. To exercise your California rights described in this section, please contact us at [privacy@yello.com](mailto:privacy@yello.com). Yello will not discriminate against you in the event you exercise any of the aforementioned rights under CCPA, including, but not limited to, by:
+We must verify your identity before fulfilling your requests.  If we cannot initially verify your identity, we may request additional information to complete the verification process. We will only use Personal Information provided in a request to verify the requestor’s identity. If you are an authorized agent making a request on behalf of a California consumer, we will also need to verify your identity, which may require proof of your written authorization or evidence of a power of attorney.
+
+We endeavor to respond to requests within the time period required by applicable law. If we require more time, we will inform you of the reason and extension period in writing.
+
+We do not charge a fee to process or respond to your request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity and confirm the Personal Information relates to you. Making a verifiable consumer request does not require you to create an account with us.
+
+We may deny certain requests, or only fulfill some in part, as permitted or required by law.  For example, if you request to delete Personal Information, we may retain Personal Information that we need to retain for legal purposes.
+
+To exercise your California rights described in this section, please contact us at [privacy@yello.com](mailto:privacy@yello.com). Yello will not discriminate against you in the event you exercise any of the aforementioned rights under CCPA, including, but not limited to, by:
 
 * denying goods or services to you;
 * charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;
@@ -248,7 +299,49 @@ European residents
 
 ### GDPR
 
-If you are located in the EU, you have certain rights under EU data protection law with respect to your personal data, including the right to request access to, correct, and delete your personal data. You may also have the right to receive a copy of your personal data in a commonly used and machine-readable format, and to transmit such data to another controller. You also may object to processing of your personal data, or ask that we restrict the processing of your personal data in certain instances. Upon written request from a Candidate or Customer, with proper verification of identity at our sole discretion (e.g. via certification from a notary public), we can promptly destroy, correct, amend and/or return to such verified Candidate or Customer any and all Personal Information in our or our sub-processor’s control or possession, subject to our right to retain such information as deemed necessary to comply with legal obligations. We will use commercially reasonable efforts to respond to such requests within thirty (30) days of receipt of such request and proper identity verification.  All requests in this regard should be submitted via email to privacy@yello.co. Please note that not all requests can be honored. Our legal basis for processing the personal data of Candidates is that processing is necessary for the performance of a contract, or in order to take steps at the request of the Candidate. Yello processes Candidate personal data in order to fulfill contractual obligations with its Customers, who are Data Controllers, and have instructed Yello, as a data processor, to process the personal data of their Candidates. Our legal basis for processing personal data of Yello Customers is that the Yello Customer(s) has given consent to the processing of their personal data for one or more specific purposes including developing new services, management and completion of demo requests, the building of leads as related to product purchases, and/or the provision of thought leadership and blog content to those Yello Customers who are voluntarily subscribed (such subscription is revocable upon written request to marketing@yello.co). We have formally appointed a Data Protection Officer, Greg Leighton, reachable via email at , gleighton@polsinelli.com who will, amongst other things: monitor compliance with the GDPR, applicable Union or Member State data protection laws, and our policies related to the protection of personal data; provide advice, where requested and appropriate, regarding data protection impact assessments; reasonably cooperate with applicable supervisory authority; and act as the contact point on issues related to our processing of personal information. Candidates have the right to submit a GDPR complaint to their local data protection authority. Contact details for the EU data protection authorities can be found at [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm) or [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en) . Yello commits to resolve complaints about our collection or use of your Personal Information.  EU, Swiss and California individuals with inquiries or complaints should first contact Yello at: [privacy@yello.co](mailto:privacy@yello.co) OR RECSOLU INC., DBA Yello Attn: Privacy 55 E Monroe St Suite 3600 Chicago, IL 60603 Yello’s representatives in the EU: Postal Address: The DPO Centre Europe Ltd, Alexandra House, 3 Ballsbridge Park, Dublin, D04C 7H2 Phone number: +353 1 631 9460 Email: EUREP@YELLO.CO Yello’s representatives in the UK: Postal Address: The DPO Centre Ltd, 50 Liverpool street, London, EC2M 7PY, UK Phone number: +44 (0) 203 797 6340 EMAIL: UKREP@YELLO.CO Yello commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and to comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+If you are located in the EU, you have certain rights under EU data protection law with respect to your personal data, including the right to request access to, correct, and delete your personal data. You may also have the right to receive a copy of your personal data in a commonly used and machine-readable format, and to transmit such data to another controller. You also may object to processing of your personal data, or ask that we restrict the processing of your personal data in certain instances.
+
+Upon written request from a Candidate or Customer, with proper verification of identity at our sole discretion (e.g. via certification from a notary public), we can promptly destroy, correct, amend and/or return to such verified Candidate or Customer any and all Personal Information in our or our sub-processor’s control or possession, subject to our right to retain such information as deemed necessary to comply with legal obligations. We will use commercially reasonable efforts to respond to such requests within thirty (30) days of receipt of such request and proper identity verification.  All requests in this regard should be submitted via email to privacy@yello.co. Please note that not all requests can be honored.
+
+Our legal basis for processing the personal data of Candidates is that processing is necessary for the performance of a contract, or in order to take steps at the request of the Candidate. Yello processes Candidate personal data in order to fulfill contractual obligations with its Customers, who are Data Controllers, and have instructed Yello, as a data processor, to process the personal data of their Candidates. Our legal basis for processing personal data of Yello Customers is that the Yello Customer(s) has given consent to the processing of their personal data for one or more specific purposes including developing new services, management and completion of demo requests, the building of leads as related to product purchases, and/or the provision of thought leadership and blog content to those Yello Customers who are voluntarily subscribed (such subscription is revocable upon written request to marketing@yello.co).
+
+We have formally appointed a Data Protection Officer, Greg Leighton, reachable via email at , gleighton@polsinelli.com who will, amongst other things: monitor compliance with the GDPR, applicable Union or Member State data protection laws, and our policies related to the protection of personal data; provide advice, where requested and appropriate, regarding data protection impact assessments; reasonably cooperate with applicable supervisory authority; and act as the contact point on issues related to our processing of personal information.
+
+Candidates have the right to submit a GDPR complaint to their local data protection authority. Contact details for the EU data protection authorities can be found at [http://ec.europa.eu/justice/data-protection/bodies/authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm) or [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en) .
+
+Yello commits to resolve complaints about our collection or use of your Personal Information.  EU, Swiss and California individuals with inquiries or complaints should first contact Yello at:
+
+[privacy@yello.co](mailto:privacy@yello.co)
+
+OR
+
+RECSOLU INC., DBA Yello
+
+Attn: Privacy
+
+55 E Monroe St
+
+Suite 3600
+
+Chicago, IL 60603
+
+Yello’s representatives in the EU:
+
+Postal Address: The DPO Centre Europe Ltd, Alexandra House, 3 Ballsbridge Park, Dublin, D04C 7H2
+
+Phone number: +353 1 631 9460
+
+Email: EUREP@YELLO.CO
+
+Yello’s representatives in the UK:
+
+Postal Address: The DPO Centre Ltd, 50 Liverpool street, London, EC2M 7PY, UK
+
+Phone number: +44 (0) 203 797 6340
+
+EMAIL: UKREP@YELLO.CO
+
+Yello commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and to comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
 
 Do we collect information from children?
 ----------------------------------------
@@ -258,7 +351,19 @@ We do not solicit or knowingly collect any Personal Information from children un
 Contacting us
 -------------
 
-For any questions, or to request further information regarding this Privacy Policy, please contact us at: RECSOLU, Inc., DBA Yello 55 E. Monroe St., Suite 3600 Chicago, IL 60603 Attn: General Counsel 1-312-517-3200 privacy@yello.co
+For any questions, or to request further information regarding this Privacy Policy, please contact us at:
+
+RECSOLU, Inc., DBA Yello
+
+55 E. Monroe St., Suite 3600
+
+Chicago, IL 60603
+
+Attn: General Counsel
+
+1-312-517-3200
+
+privacy@yello.co
 
 Changes to our privacy policy
 -----------------------------
@@ -299,7 +404,7 @@ Privacy laws and guidelines are part of a constantly changing environment. We re
     * [Newsroom](https://yello.co/about/newsroom/)
     * [Testimonials](https://yello.co/about/yello-clients/)
 
-![Yello Logo White](https://yello.co/wp-content/uploads/2024/06/yello-logo-white.png)
+ ![Yello Logo White](https://yello.co/wp-content/uploads/2024/06/yello-logo-white.png)
 
 © 2024 Yello
 
