@@ -10,8 +10,6 @@ at
 
 Log InSign Up
 
-Advertisement
-
 Terms of use
 ============
 
