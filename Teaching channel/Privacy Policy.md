@@ -1,4 +1,4 @@
-[Skip to main](#main)    
+[Skip to main](#main)     
 
 K12 Coalition
 
@@ -26,7 +26,6 @@ K12 Coalition
         * [Course Bundles](https://courses.teachingchannel.com/courses/dl/all?content=course-bundles&grade=&credits=&format=&partner=&srch=&nat=false)
         * [Certificates](https://www.teachingchannel.com/license-renewal-salary-advancement/certificates/)
         * [Flex Credit Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=FlexCredit&partner=&srch=&nat=false)
-        * [Hybrid Learning Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=OS&partner=&srch=&nat=false)
         * [Hours-Only PD Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=PD&partner=&srch=&nat=false)
         * [Advanced Degrees](https://www.teachingchannel.com/advanced-degrees/)
     * [Registration Info](#)
@@ -121,7 +120,7 @@ K12 Coalition
     * hidden
         * [FAQs](https://support.teachingchannel.com/en/help)
         * [Contact Us](https://www.teachingchannel.com/contact/)
-        * [Chat With Us](https://www.teachingchannel.com/contact/)
+        * [Chat With Us](https://www.teachingchannel.com/?open-chat=1)
         * [In the Press](https://www.teachingchannel.com/press-page/)
     * [K12 Hub](https://www.teachingchannel.com/k12-hub/)
         * [Blogs](https://www.teachingchannel.com/k12-hub/?_k12_hub_content_type=blog)
@@ -149,7 +148,6 @@ K12 Coalition
         * [Course Bundles](https://courses.teachingchannel.com/courses/dl/all?content=course-bundles&grade=&credits=&format=&partner=&srch=&nat=false)
         * [Certificates](https://www.teachingchannel.com/license-renewal-salary-advancement/certificates/)
         * [Flex Credit Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=FlexCredit&partner=&srch=&nat=false)
-        * [Hybrid Learning Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=OS&partner=&srch=&nat=false)
         * [Hours-Only PD Courses](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=PD&partner=&srch=&nat=false)
         * [Advanced Degrees](https://www.teachingchannel.com/advanced-degrees/)
     * [Registration Info](#)
@@ -244,7 +242,7 @@ K12 Coalition
     * hidden
         * [FAQs](https://support.teachingchannel.com/en/help)
         * [Contact Us](https://www.teachingchannel.com/contact/)
-        * [Chat With Us](https://www.teachingchannel.com/contact/)
+        * [Chat With Us](https://www.teachingchannel.com/?open-chat=1)
         * [In the Press](https://www.teachingchannel.com/press-page/)
     * [K12 Hub](https://www.teachingchannel.com/k12-hub/)
         * [Blogs](https://www.teachingchannel.com/k12-hub/?_k12_hub_content_type=blog)
@@ -524,7 +522,7 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 
  
 
-Pay as You Learn with our Course Bundles. Select Bundles on SALE now! [Explore Your Options >>](https://courses.teachingchannel.com/courses/dl/all?content=course-bundles&grade=&credits=&format=&partner=&bundle=10%20Course%20Bundle%7C5%20Course%20Lane%20Change%20Bundle%7CACE%203%20Course%20Bundle%7CBookless%20Bundle%7CCertificate%20Bundle%7CPredetermined%20Bundle&srch=&nat=false)
+Pay as You Learn with our Course Bundles. Select Bundles on SALE through June 30! [Explore Your Options >>](https://courses.teachingchannel.com/courses/dl/all?content=course-bundles&grade=&credits=&format=&partner=&bundle=10%20Course%20Bundle%7C5%20Course%20Lane%20Change%20Bundle%7CACE%203%20Course%20Bundle%7CBookless%20Bundle%7CCertificate%20Bundle%7CPredetermined%20Bundle&srch=&nat=false)
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
@@ -532,7 +530,7 @@ Pay as You Learn with our Course Bundles. Select Bundles on SALE now! [Explore 
 
  
 
-Pay As You Learn with our flexible payment plan - starting from $75 per month! [Learn More >](https://www.teachingchannel.com/continuing-education-courses-for-teachers/course-pricing/pay-as-you-learn-payment-plan/)\>
+**Last Day of Summer Session Registration. Use DOGDAYS24 and get a** 3-Credit Course for $399! [Learn More >](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
@@ -543,9 +541,3 @@ Pay As You Learn with our flexible payment plan - starting from $75 per month! 
 What are you looking for?
 
  Search
-
-This site uses cookies to enhance user experience, analyze site usage and provide a personalized browsing experience. By continuing to use this site, you are giving us your consent to do this. Learn more about cookies by visiting our [privacy policy](https://www.teachingchannel.com/privacy-policy/#cookies) page.
-
-[Learn More](https://www.teachingchannel.com/privacy-policy/#cookies)[I Agree](https://www.teachingchannel.com/)
-
-[Ok](#)
