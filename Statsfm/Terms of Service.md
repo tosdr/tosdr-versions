@@ -119,6 +119,7 @@ Email Address:  [contact@stats.fm](mailto:contact@stats.fm)
 
 * [Support](https://support.stats.fm/)
 * [Beta program](https://stats.fm/beta)
+* [Creator program](https://stats.fm/creator-program)
 * [stats.fm Plus](https://stats.fm/plus)
 
 #### Company
