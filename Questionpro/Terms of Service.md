@@ -139,6 +139,7 @@
 * [Allow Multiple Files - Attache/Upload Question Type](https://www.questionpro.com/help/multiple-files-upload.html)
 * [Text box - Keyboard input type](https://www.questionpro.com/help/text-input-keyboard-type.html)
 * [Deep Dive](https://www.questionpro.com/help/deep-dive.html)
+* [Answer Display Order](https://www.questionpro.com/help/answer-display-order.html)
 
 #### [Design & branding _arrow\_right_](#collapse6072)
 
