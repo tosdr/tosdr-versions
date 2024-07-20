@@ -1,6 +1,4 @@
-[![concrete background](https://fast-images.static-thomann.de/pics//images/special/70years/concrete_background.jpg)
-
-![seventy years logo](https://thumbs.static-thomann.de/thumb//thumb130/pics/images/special/70years/70-with-flare.png)
+[![seventy years logo](https://thumbs.static-thomann.de/thumb//thumb130/pics/images/special/70years/70-without-flare.png)
 
 Join Thomann's Anniversary! We award your loyalty with special offers! Get your deals
 
@@ -20,8 +18,8 @@ Get your deals](https://www.thomann.de/gb/social_70th-anniversary.html)
 
 search  
 
-* [3-Year Thomann Warranty](https://www.thomann.de/gb/helpdesk_warranty.html)
 * [Free Shipping Over £149](https://www.thomann.de/gb/helpdesk_shipping.html)
+* [Satisfaction Guarantee](https://www.thomann.de/gb/helpdesk_satisfaction.html)
 
 en · £
 
@@ -33,23 +31,23 @@ en · £
 
 [basket basket basket](https://www.thomann.de/gb/basket.html)
 
-* [Guit/Bass](https://www.thomann.de/gb/guitars_and_basses.html?ref=hea_cat_GI)
-* [Drums](https://www.thomann.de/gb/drums_and_percussion.html?ref=hea_cat_DR)
-* [Keys](https://www.thomann.de/gb/keys.html?ref=hea_cat_TA)
-* [Studio](https://www.thomann.de/gb/studio_equipment.html?ref=hea_cat_ST)
-* [Software](https://www.thomann.de/gb/software.html?ref=hea_cat_SW)
-* [PA](https://www.thomann.de/gb/equipment_for_pa.html?ref=hea_cat_PA)
-* [Lighting](https://www.thomann.de/gb/lighting_and_stage.html?ref=hea_cat_LI)
-* [DJ](https://www.thomann.de/gb/dj_equipment.html?ref=hea_cat_DJ)
-* [Video](https://www.thomann.de/gb/broadcast_video.html?ref=hea_cat_VI)
-* [Microphones](https://www.thomann.de/gb/microphones.html?ref=hea_cat_MI)
-* [Signal Proc.](https://www.thomann.de/gb/effects_and_signal_processors.html?ref=hea_cat_SP)
-* [Brass](https://www.thomann.de/gb/wind_instruments.html?ref=hea_cat_BL)
-* [Traditional](https://www.thomann.de/gb/traditional_instruments.html?ref=hea_cat_TR)
-* [Sheet](https://www.thomann.de/gb/sheetmusic_books_dvds.html?ref=hea_cat_NO)
-* [Cases](https://www.thomann.de/gb/cases_racks_bags.html?ref=hea_cat_CA)
-* [Cables](https://www.thomann.de/gb/cables_and_plugs.html?ref=hea_cat_KA)
-* [Accessories](https://www.thomann.de/gb/accessories.html?ref=hea_cat_ZU)
+* [Guit/Bass](https://www.thomann.de/gb/guitars_and_basses.html)
+* [Drums](https://www.thomann.de/gb/drums_and_percussion.html)
+* [Keys](https://www.thomann.de/gb/keys.html)
+* [Studio](https://www.thomann.de/gb/studio_equipment.html)
+* [Software](https://www.thomann.de/gb/software.html)
+* [PA](https://www.thomann.de/gb/equipment_for_pa.html)
+* [Lighting](https://www.thomann.de/gb/lighting_and_stage.html)
+* [DJ](https://www.thomann.de/gb/dj_equipment.html)
+* [Video](https://www.thomann.de/gb/broadcast_video.html)
+* [Microphones](https://www.thomann.de/gb/microphones.html)
+* [Signal Proc.](https://www.thomann.de/gb/effects_and_signal_processors.html)
+* [Brass](https://www.thomann.de/gb/wind_instruments.html)
+* [Traditional](https://www.thomann.de/gb/traditional_instruments.html)
+* [Sheet](https://www.thomann.de/gb/sheetmusic_books_dvds.html)
+* [Cases](https://www.thomann.de/gb/cases_racks_bags.html)
+* [Cables](https://www.thomann.de/gb/cables_and_plugs.html)
+* [Accessories](https://www.thomann.de/gb/accessories.html)
 
 * Products
 * Service
