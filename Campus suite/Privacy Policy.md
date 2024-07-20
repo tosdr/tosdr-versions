@@ -1,4 +1,4 @@
-[![SchoolNow-logo](https://www.schoolnow.com/hubfs/SchoolNow-logo.svg "SchoolNow-logo")](https://www.campussuite.com/)
+[![SchoolNow-logo](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/SchoolNow-logo.svg "SchoolNow-logo")](https://www.campussuite.com/)
 
 * [Solutions](javascript:;)
     * [](javascript:;)
@@ -11,69 +11,69 @@
 * [Contact](https://www.schoolnow.com/contact)
 
 * [Help?](#help_window_popup)
-* [See a demo](https://content.schoolnow.com/request-demo)
+* [See a demo](https://staging-schoolnow-com.sandbox.hs-sites.com/schedule-a-schoolnow-school-communication-platform-demo)
 
 * [Solutions](javascript:;)
-    * [Social Media](https://www.schoolnow.com/social-media-manager)
-    * [Website](https://www.schoolnow.com/school-websites)
-    * [Messages](https://www.schoolnow.com/notifications)
-    * [Mobile App](https://www.schoolnow.com/school-mobile-app)
-    * [See our feature overview](https://www.schoolnow.com/plans)
+    * [Social Media](javascript:;)
+    * [Website](javascript:;)
+    * [Messages](javascript:;)
+    * [Mobile App](javascript:;)
+    * [See our feature overview](javascript:;)
 * [Services](javascript:;)
-    * [Digital brand launch](https://www.schoolnow.com/branding)
-    * [Website accessibility](https://www.schoolnow.com/accessibility)
-    * [Website design](https://www.schoolnow.com/design)
-    * [See our website design library](https://www.schoolnow.com/design-library)
+    * [Digital brand launch](javascript:;)
+    * [Website accessibility](javascript:;)
+    * [Website design](javascript:;)
+    * [See our website design library](javascript:;)
 * [Learn](javascript:;)
-    * [Blog](https://www.schoolnow.com/blog)
-    * [Guides and videos](https://www.schoolnow.com/resources)
-    * [Case studies](https://www.schoolnow.com/case-studies)
-    * [Website accessibility](https://www.schoolnow.com/accessibility-center)
-    * [Customer help center](https://www.schoolnow.com/support)
+    * [Blog](javascript:;)
+    * [Guides and videos](javascript:;)
+    * [Case studies](javascript:;)
+    * [Website accessibility](javascript:;)
+    * [Customer help center](javascript:;)
     * [See all resources](javascript:;)
 * [Company](javascript:;)
-    * [About us](https://www.schoolnow.com/company)
-    * [Careers](https://www.schoolnow.com/careers)
-    * [Become a partner](https://www.schoolnow.com/partner-program)
-* [Contact](https://www.schoolnow.com/contact)
-* [Help?](#help_window_popup)
-* [See a demo](https://content.schoolnow.com/request-demo)
+    * [About us](javascript:;)
+    * [Careers](javascript:;)
+    * [Become a partner](javascript:;)
+* [Contact](javascript:;)
+* [Help?](javascript:;)
+* [See a demo](javascript:;)
 
 The all-in-one communication hub
 
-[![website-icon](https://www.schoolnow.com/hubfs/website-icon.svg)
+[![website-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/website-icon.svg)
 
 Website
 
 The official hub of all your school communication](https://www.schoolnow.com/school-websites)
 
-[![mobile-icon](https://www.schoolnow.com/hubfs/mobile-icon.svg)
+[![mobile-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/mobile-icon.svg)
 
 Mobile app
 
 Your school right where and when everyone wants](https://www.schoolnow.com/school-mobile-app)
 
-[![social-icon](https://www.schoolnow.com/hubfs/social-icon.svg)
+[![social-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/social-icon.svg)
 
 Social media
 
 Sharing all your great stories in social and school feeds](https://www.schoolnow.com/social-media-manager)
 
-[![messages-icon](https://www.schoolnow.com/hubfs/messages-icon.svg)
+[![messages-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/messages-icon.svg)
 
 Messages
 
 Every kind of message delivered just how families want](https://www.schoolnow.com/notifications)
 
-[![auto-notices-icon](https://www.schoolnow.com/hubfs/auto-notices-icon.svg)
+[![auto-notices-icon](https://www.schoolnow.com/hubfs/SchoolNow%20June%202024/Images/auto-notices-icon.svg)
 
 Auto-notices
 
-From attendance to automated reminders](https://www.schoolnow.com/auto-notices)
+From attendance to automated reminders](https://staging-schoolnow-com.sandbox.hs-sites.com/auto-notices)
 
-[See all features and plans](https://www.schoolnow.com/plans)
+[See all features and plans](https://staging-schoolnow-com.sandbox.hs-sites.com/plans)
 
-![service_icon_1](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/service_icon_1.png?width=56&height=56&name=service_icon_1.png)
+![service_icon_1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/service_icon_1.png?width=56&height=56&name=service_icon_1.png)
 
 Digital brand
 
@@ -81,7 +81,7 @@ Give families the choice for connecting
 
 [](https://www.schoolnow.com/branding)
 
-![service_icon_2](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/service_icon_2.png?width=67&height=52&name=service_icon_2.png)
+![service_icon_2](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/service_icon_2.png?width=67&height=52&name=service_icon_2.png)
 
 Website design
 
@@ -89,7 +89,7 @@ Give families the choice for connecting
 
 [](https://www.schoolnow.com/design)
 
-![Group (4)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(4).png?width=64&height=63&name=Group%20(4).png)
+![Website-Accessibility-icon](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(4).png?width=64&height=63&name=Group%20(4).png)
 
 Compliance
 
@@ -97,45 +97,45 @@ Website accessibility and privacy
 
 [](https://www.schoolnow.com/accessibility)
 
-![service_icon_4-1](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/service_icon_4-1.png?width=58&height=58&name=service_icon_4-1.png)
+![service_icon_4-1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/service_icon_4-1.png?width=58&height=58&name=service_icon_4-1.png)
 
 Customers
 
 Give families the choice for connecting
 
-[](https://www.schoolnow.com/customers)
+[](https://staging-schoolnow-com.sandbox.hs-sites.com/customers)
 
 Bridgestone design
 
 [See our website design library](https://www.schoolnow.com/design-library)
 
-[![parent](https://www.schoolnow.com/hubfs/parent.svg)
+[![9B8C926C-C179-4545-B001-A703AAFE3ADA-1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/9B8C926C-C179-4545-B001-A703AAFE3ADA-1.jpeg?width=500&height=352&name=9B8C926C-C179-4545-B001-A703AAFE3ADA-1.jpeg)
 
-I am a parent](https://www.schoolnow.com/get-started/schoolnow)
+I am a parent](https://staging-schoolnow-com.sandbox.hs-sites.com/get-started/schoolnow)
 
-[![staff-1](https://www.schoolnow.com/hubfs/staff-1.svg)
+[![staff-member-support](https://www.schoolnow.com/hubfs/staff-member-support.svg)
 
-I am school staff](https://www.schoolnow.com/support)
+I am school staff](https://staging-schoolnow-com.sandbox.hs-sites.com/support)
 
-[![Group (5)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(5).png?width=66&height=64&name=Group%20(5).png)
+[![Group (5)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(5).png?width=66&height=64&name=Group%20(5).png)
 
 Blog
 
-Sharing learning for school professionals](https://www.campussuite.com/blog)
+Sharing learning for school professionals](https://www.schoolnow.com/blog)
 
-[![Group (6)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(6).png?width=56&height=60&name=Group%20(6).png)
+[![Guides-videos-icon](https://www.schoolnow.com/hubfs/Guides-videos-icon.svg)
 
 Resources
 
 Plans and best practices for schools](https://www.schoolnow.com/resources)
 
-[![Group (7)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(7).png?width=66&height=52&name=Group%20(7).png)
+[![Group (7)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(7).png?width=66&height=52&name=Group%20(7).png)
 
 Case studies
 
 Learn about the challenges and solution](https://www.schoolnow.com/case-studies)
 
-[![Group (4)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(4).png?width=64&height=63&name=Group%20(4).png)
+[![Group (4) (1)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(4)%20(1).png?width=64&height=63&name=Group%20(4)%20(1).png)
 
 Website Accessibility
 
@@ -145,7 +145,7 @@ How-to resources
 
 [Communication
 
-The complete communication planning guide for schools](https://www.schoolnow.com/school-communications-planning-guide)
+The complete communication planning guide for schools](https://staging-schoolnow-com.sandbox.hs-sites.com/school-communications-planning-guide)
 
 [website
 
@@ -153,32 +153,32 @@ Steps to create a school website design for results](https://www.schoolnow.com/s
 
 [Website accessibility guide
 
-School Website accessibility guide](https://www.schoolnow.com/school-website-accessibility-guide)
+School Website accessibility guide](https://staging-schoolnow-com.sandbox.hs-sites.com/school-website-accessibility-guide)
 
 [See all resources](https://www.campussuite.com/resources)
 
-[![Group (9)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(9).png?width=56&height=56&name=Group%20(9).png)
+[![Group (9)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(9).png?width=56&height=56&name=Group%20(9).png)
 
 About us
 
 Who we are, our vision and history](https://www.schoolnow.com/company)
 
-[![Group (10)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(10).png?width=59&height=52&name=Group%20(10).png)
+[![Group (10)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(10).png?width=59&height=52&name=Group%20(10).png)
 
 Careers
 
-Become a SchoolNow team member](https://www.schoolnow.com/careers)
+Give families the choice for connecting](https://www.schoolnow.com/company/careers)
 
-[![Group (11)](https://www.schoolnow.com/hs-fs/hubfs/Aug2022/Group%20(11).png?width=64&height=44&name=Group%20(11).png)
+[![Group (11)](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/Group%20(11).png?width=64&height=44&name=Group%20(11).png)
 
 Partner network
 
-Collaborate for customer success](https://www.schoolnow.com/partner-program)
+Collaborate for customer success](https://staging-schoolnow-com.sandbox.hs-sites.com/partner-program)
 
 SchoolNow™ Privacy Policy
 =========================
 
-![Ferpa](https://www.schoolnow.com/hubfs/Ferpa.svg)
+![Ferpa](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow/Social%20Images/Ferpa.png?width=236&height=236&name=Ferpa.png)
 
 SchoolNow™ collects some Personal Data from its Users and this Statement governs all the services that we provide directly to you. Whether you are browsing our websites, receiving our newsletters, or using our SchoolNow™ products and services. We take your privacy seriously so please take the time to review how we collect and use your information. By accessing or using the Service, you are consenting to the collection, use, disclosure and other handling of your information as described below. 
 
@@ -525,13 +525,13 @@ Get a personalized demo.
 
 If you want to see SchoolNow in action or just want to learn more, let us know.
 
-[Schedule a demo](https://content.schoolnow.com/request-demo)
+[Schedule a demo](https://content.schoolnow.com/schedule-a-schoolnow-school-communication-platform-demo)
 
 [Speak to a specialist](https://www.schoolnow.com/contact)
 
-![Request demo for school website, notifications and school mobile app](https://www.schoolnow.com/hubfs/request-school-demo.jpg "Request demo for school website, notifications and school mobile app")
+![Request demo for school website, notifications and school mobile app](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/Frame%20523-2.jpg "Request demo for school website, notifications and school mobile app")
 
-[![SchoolNow-logo](https://www.schoolnow.com/hubfs/SchoolNow-logo.svg "SchoolNow-logo")](https://www-campussuite-com.sandbox.hs-sites.com/schoolnow-home-page)
+[![SchoolNow-logo](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/SchoolNow-logo.svg "SchoolNow-logo")](https://www.campussuite.com/)
 
 Communication
 
@@ -539,44 +539,42 @@ Communication
 * [Messages](https://www.schoolnow.com/notifications)
 * [Mobile app](https://www.schoolnow.com/school-mobile-app)
 * [Social media](https://www.schoolnow.com/social-media-manager)
-* [Feature list](https://www.schoolnow.com/plans)
+* [Feature list](https://staging-schoolnow-com.sandbox.hs-sites.com/plans)
 
 Services
 
 * [Digital branding](https://www.schoolnow.com/branding)
-* [Website design](https://www.schoolnow.com/design)
+* [Website Design](https://www.schoolnow.com/design)
 * [Compliance](https://www.schoolnow.com/accessibility)
-* [Customers](https://www.schoolnow.com/customers)
+* [Customers](https://staging-schoolnow-com.sandbox.hs-sites.com/customers)
 
 Company
 
 * [About us](https://www.schoolnow.com/company)
-* [Careers](https://www.schoolnow.com/careers)
-* [Partner program](https://www.schoolnow.com/partner-program)
+* [Careers](javascript:void(0);)
+* [Partner program](https://staging-schoolnow-com.sandbox.hs-sites.com/partner-program)
 * [Contact us](https://www.schoolnow.com/contact)
 
 Resources
 
-* [Blog](https://www.schoolnow.com/blog)
+* [Blog](javascript:void(0);)
 * [Guides and videos](https://www.schoolnow.com/resources)
 * [Case studies](https://www.schoolnow.com/case-studies)
-* [Website accessibility](https://www.schoolnow.com/accessibility)
+* [Website Accessibility](https://www.schoolnow.com/accessibility)
 * [Log in](https://app.campussuite.com/_instances/)
-* [Customer support](https://www.campussuite.com/support)
+* [Customer Support](https://www.campussuite.com/support)
 
 ### Follow Us on
 
-* [![SchoolNow on Twitter](https://www.schoolnow.com/hubfs/x-icon.png)](https://twitter.com/goschoolnow)
-* [![SchoolNow on Facebook](https://www.schoolnow.com/hubfs/facebook-icon.png)](https://www.facebook.com/getschoolnow/)
-* [![SchoolNow on LinkedIn](https://www.schoolnow.com/hubfs/linkedin-icon.png)](https://www.linkedin.com/company/schoolnow/)
-* [![SchoolNow on YouTube](https://www.schoolnow.com/hubfs/youtube-icon.png)](https://www.youtube.com/@schoolnow)
-* [![SchoolNow on Instagram](https://www.schoolnow.com/hubfs/instagram-icon.png)](https://www.instagram.com/schoolnowapp/)
-* [![SchoolNow on Soundcloud](https://www.schoolnow.com/hubfs/soundcloud-icon.png)](https://soundcloud.com/schoolnow)
+* [![SchoolNow on Twitter](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/x-icon.png)](https://twitter.com/goschoolnow)
+* [![SchoolNow on Facebook](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/facebook-icon.png)](https://www.facebook.com/getschoolnow/)
+* [![SchoolNow on LinkedIn](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/linkedin-icon.png)](https://www.linkedin.com/company/schoolnow/)
+* [![SchoolNow on YouTube](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/youtube-icon.png)](https://www.youtube.com/@schoolnow)
+* [![SchoolNow on Instagram](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/instagram-icon.png)](https://www.instagram.com/schoolnowapp/)
+* [![SchoolNow on Soundcloud](https://296999.fs1.hubspotusercontent-na1.net/hubfs/296999/soundcloud-icon.png)](https://soundcloud.com/schoolnow)
 
 © 2023 SchoolNow. All Rights Reserved.
 
-* [Privacy policy](https://www.schoolnow.com/privacy-policy)
-* [Website accessibility](https://www.schoolnow.com/accessibility)
-* [Terms and conditions](https://www.schoolnow.com/campus-suite-terms-conditions)
-
-![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/980411178/?value=0&guid=ON&script=0)
+* [Privacy policy](https://staging-schoolnow-com.sandbox.hs-sites.com/privacy-policy)
+* [Website accessibility](https://staging-schoolnow-com.sandbox.hs-sites.com/accessibility)
+* [Terms and conditions](https://staging-schoolnow-com.sandbox.hs-sites.com/campus-suite-terms-conditions)
