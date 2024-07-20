@@ -113,7 +113,7 @@ If you do not agree with these terms, please do not register or use this Service
 
 ### Quick Navigation
 
-[Home](https://xiaomi.eu/community) [Forums](https://xiaomi.eu/community/) [Contact us](https://xiaomi.eu/community/misc/contact)
+[Home](https://xiaomi.eu/community) [Forums](https://xiaomi.eu/community/)
 
 ### User Menu
 
@@ -126,7 +126,6 @@ If you do not agree with these terms, please do not register or use this Service
 * [Cookies](https://xiaomi.eu/community/misc/cookies "Cookie consent")
 * 
 
-* [Contact us](https://xiaomi.eu/community/misc/contact)
 * [Terms and rules](https://xiaomi.eu/community/help/terms/)
 * [Privacy policy](https://xiaomi.eu/community/help/privacy-policy/)
 * [Help](https://xiaomi.eu/community/help/)
@@ -149,7 +148,7 @@ If you do not agree with these terms, please do not register or use this Service
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1718961219%2Cc5d3e6f43fb6f047e99ab791edf9f2af) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1718961219%2Cc5d3e6f43fb6f047e99ab791edf9f2af)
+    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1721477505%2C4bc53c2d36a20ab67808b058f315b604) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1721477505%2C4bc53c2d36a20ab67808b058f315b604)
     
     * Essential cookies
     
