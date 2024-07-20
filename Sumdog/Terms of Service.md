@@ -69,7 +69,7 @@
 Sumdog Terms of Use
 ===================
 
-Updated 5th June 2024
+Updated 18th July 2024
 
 Whenever you use Sumdog, you must make sure that you understand and accept these terms of use. If you don’t understand them, please ask someone – for example, a parent or teacher – to help you with them.  
   
