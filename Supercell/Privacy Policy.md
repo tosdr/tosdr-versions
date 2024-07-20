@@ -37,9 +37,6 @@
     * [![creators icon](/_next/static/media/supercell_creators_grey.f699541d.svg)](https://creators.supercell.com/)
     * [![make icon](/_next/static/media/supercell_make_grey.964b2d8d.svg)](https://make.supercell.com/en/)
     * [![id icon](/_next/static/media/supercell_id_grey.62affa0b.svg)](https://supercell.com/en/supercell-id/)
-    
-    ![search icon](/_next/static/media/search_icon.b6970f79.png)
-    
 
 * ### Games
     
@@ -79,8 +76,6 @@
 * [Level Up](https://supercell.com/en/levelup/)
 * [Ilkka's Long Texts](https://supercell.com/en/ilkkas-long-texts/)
 * [Games First](https://gamesfirsthelsinki.com/)
-
-* [![](/_next/static/media/search_icon.b6970f79.png)Search](https://supercell.com/en/s/)
 
 * [](https://store.supercell.com/)
 * [![creators icon](/_next/static/media/supercell_creators_grey.f699541d.svg)](https://creators.supercell.com/)
