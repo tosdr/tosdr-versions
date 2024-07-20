@@ -200,7 +200,7 @@ H διαχείριση και προστασία των προσωπικών δ�
 ΣΚΡΟΥΤΖ ΑΕ Υπηρεσίες Διαδικτύου - ΑΦΜ 800863970 Αρ. ΓΕΜΗ 143321901000 Αλέκου Παναγούλη 91, 14234 Νέα Ιωνία Τηλέφωνο +30 215 215 4200
 
 Ακολουθήστε μας:  
-[![](//b.scdn.gr/assets/media/facebook-88f60ef3d6db5a3ec66819d5dc483661.svg)](https://www.facebook.com/Skroutz.gr) [![](//a.scdn.gr/assets/media/twitter-170e2c998421e76f4b4642cef2257803.svg)](https://twitter.com/skroutzit) [![](//a.scdn.gr/assets/media/instagram-e7aac3e4559e5f3068ff5c9236bcdaa7.svg)](https://www.instagram.com/skroutz.gr/)
+[![](//b.scdn.gr/assets/media/facebook-88f60ef3d6db5a3ec66819d5dc483661.svg)](https://www.facebook.com/Skroutz.gr) [![](//a.scdn.gr/assets/media/twitter-170e2c998421e76f4b4642cef2257803.svg)](https://twitter.com/skroutzit) [![](//a.scdn.gr/assets/media/instagram-e7aac3e4559e5f3068ff5c9236bcdaa7.svg)](https://www.instagram.com/skroutz.official/)
 
-[FAQ](https://www.skroutz.gr/faq) | [Όροι χρήσης](https://www.skroutz.gr/terms) | [Πολιτική απορρήτου](https://www.skroutz.gr/privacy) | [Cookies](https://www.skroutz.gr/cookies)  
+[FAQ](https://www.skroutz.gr/faq) | [Όροι χρήσης](https://www.skroutz.gr/terms) | [Πολιτική Απορρήτου](https://www.skroutz.gr/privacy) | [Cookies](https://www.skroutz.gr/cookies)  
 © 20\[0-9\]{2} Skroutz Α.Ε. All Rights and Lefts reserved.
