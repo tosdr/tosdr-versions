@@ -136,7 +136,7 @@ Navigation menu
 
 ### Today's Stardate
 
-* [Stardate 240106.21](https://wiki.starbase118.net/wiki/index.php?title=Stardate)
+* [Stardate 240107.20](https://wiki.starbase118.net/wiki/index.php?title=Stardate)
 * [Current Year: 2401](https://wiki.starbase118.net/wiki/index.php?title=Timeline)
 
 ### StarBase 118
@@ -175,6 +175,7 @@ Navigation menu
 * [Denali Station](https://wiki.starbase118.net/wiki/index.php?title=Denali_Station)
 * [USS Artemis](https://wiki.starbase118.net/wiki/index.php?title=USS_Artemis-A)
 * [USS Astraeus](https://wiki.starbase118.net/wiki/index.php?title=USS_Astraeus)
+* [USS Chin'toka](https://wiki.starbase118.net/wiki/index.php?title=USS_Chin%27toka)
 * [USS Constitution](https://wiki.starbase118.net/wiki/index.php?title=USS_Constitution-B)
 * [USS Gorkon](https://wiki.starbase118.net/wiki/index.php?title=USS_Gorkon)
 * [USS Khitomer](https://wiki.starbase118.net/wiki/index.php?title=USS_Khitomer)
