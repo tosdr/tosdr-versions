@@ -34,6 +34,7 @@
     * [Developer Partners](https://zubie.com/developer-partners/)
 * [Resources](#)
     * [About](https://zubie.com/about/)
+    * [Case Studies](https://zubie.com/case-studies/)
     * [White Papers](https://zubie.com/white_paper/)
     * [In the News](https://zubie.com/in_the_news/)
     * [Press Releases](https://zubie.com/press-releases/)
@@ -66,12 +67,7 @@ Latest Press Release
 
 [Read More](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
 
-Contact Us
-
-* Contact Us
-* [For Sales 612-276-6300](tel:612-276-6300)
-* [For Support 651-504-1452](tel:651-504-1452)
-* [Contact](https://zubie.com/contact/)
+[Contact Us](https://zubie.com/contact/)
 
 Menu Close
 
