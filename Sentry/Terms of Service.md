@@ -45,7 +45,6 @@ This app works best with JavaScript enabled.
     * [Metrics](https://sentry.io/features/metrics/)
     * [Dashboards](https://sentry.io/features/dashboards/)
     * [Cross-project Issues](https://sentry.io/features/cross-project-issues/)
-    * [Distributed Tracing](https://sentry.io/features/distributed-tracing/)
     * [Stack Traces](https://sentry.io/features/stacktrace/)
     * [Context](https://sentry.io/features/context/)
     * [Releases](https://sentry.io/features/releases/)
