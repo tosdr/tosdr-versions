@@ -5,8 +5,8 @@
 * [Pricing](https://rebrandly.com/pricing)
 * Resources
 
+* [Get a demo](https://rebrandly.com/book-a-demo)
 * [Login](https://app.rebrandly.com/login?opt=eyJwbGFuSWQiOiIxNmYwOGZiOTc0OWQ0MTdlYjE0MmEzMjZhMmQwNTI3YyJ9)
-* [Get started](https://app.rebrandly.com/free-trial)
 * [My Dashboard](https://app.rebrandly.com/)
 
 [Terms of use](https://rebrandly.com/terms-conditions)[Privacy Policy](https://rebrandly.com/privacy-policy)[Cookie policy](https://rebrandly.com/cookies)[Anti spam policy](https://rebrandly.com/anti-spam-policy)[User Research](https://rebrandly.com/user-research)
