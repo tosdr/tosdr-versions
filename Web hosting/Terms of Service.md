@@ -4,8 +4,8 @@
 
 [![Webo.Hosting](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 147 58'%3E%3C/svg%3E)
 
-![Webo.Hosting](https://webo.hosting/wp-content/uploads/2020/01/webo_logo_cloud_white-1.png)](https://webo.hosting/)
-======================================================================================================================================================================================================================================
+![Webo.Hosting](https://webo.hosting/wp-content/uploads/2020/01/webo_logo_cloud_white-1.png.webp)](https://webo.hosting/)
+===========================================================================================================================================================================================================================================
 
 * [Hosting](#)
     
@@ -753,8 +753,8 @@ XI. Obligations for Service Provision
 
 [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 147 58'%3E%3C/svg%3E)
 
-![](https://webo.hosting/wp-content/uploads/2018/12/webo_logo_cloud_white.png)](#)
-========================================================================================================================================================================================
+![](https://webo.hosting/wp-content/uploads/2018/12/webo_logo_cloud_white.png.webp)](#)
+=============================================================================================================================================================================================
 
 Web hosting, VPS, domain and SSL. Fast and reliable web hosting, VPS, domains and much more at crazy prices!
 
@@ -777,8 +777,8 @@ info@webo.hosting
 
 [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 430 37'%3E%3C/svg%3E)
 
-![](https://webo.hosting/wp-content/uploads/2018/12/placila_footer2.png)](#)
-==================================================================================================================================================================================
+![](https://webo.hosting/wp-content/uploads/2018/12/placila_footer2.png.webp)](#)
+=======================================================================================================================================================================================
 
 Hosting
 =======
@@ -824,7 +824,7 @@ Webo.Hosting
 
 © 2022 Webo Hosting. All rights reserved -  All prices are in EUR and include VAT and discounts!![Logo](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 55'%3E%3C/svg%3E)
 
-![Logo](https://webo.hosting/wp-content/uploads/2021/03/Logo_Main-e1616714196348.png)
+![Logo](https://webo.hosting/wp-content/uploads/2021/03/Logo_Main-e1616714196348.png.webp)
 
 We are using cookies to give you the best experience on our website.
 
@@ -838,7 +838,7 @@ Close GDPR Cookie Settings
 
 ![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 147 58'%3E%3C/svg%3E)
 
-![](https://webo.hosting/wp-content/uploads/2020/01/webo_logo_cloud_white.png)
+![](https://webo.hosting/wp-content/uploads/2020/01/webo_logo_cloud_white.png.webp)
 
 * Privacy Overview
 * Strictly Necessary Cookies
