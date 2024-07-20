@@ -32,7 +32,7 @@
 
 * * *
 
-v20240621-0145
+v20240720-0102
 
 EnglishfrançaisDeutsch
 
@@ -48,7 +48,7 @@ WHATNOT
 TERMS OF SERVICE FOR EUROPEAN USERS
 -----------------------------------
 
-Last Updated: 16 May 2024
+Last Updated: June 26, 2024
 
 * * *
 
@@ -128,9 +128,9 @@ Buyers are solely responsible for the purchase of and payment for Items and NFTs
 
 **WHATNOT IS A PLATFORM. WHATNOT FACILITATES TRANSACTIONS BETWEEN THE BUYER AND SELLER ON THE APP BUT IS NOT A PARTY TO ANY SALES CONTRACT BETWEEN THE BUYER AND SELLER OF ITEMS OR NFTS OR BETWEEN ANY USERS UNLESS EXPRESSLY STATED OTHERWISE ON THE APP OR IN THESE TERMS.**
 
-**2.2 Eligibility to Use the App**
+**2.2 Eligibility to Create an Account and/or Use the App**
 
-You must be at least 18 years old in order to create an Account or use the App. By using the App, you represent and warrant that you are at least 18 years of age, and meet all of the eligibility requirements of these Terms. If you do not meet these requirements or, if for any reason, you do not agree with all of the terms and provisions of these Terms, you must stop using the App immediately.
+You must be at least 18 years old in order to create an Account. By creating an Account, you represent and warrant that you are at least 18 years of age, and meet all of the eligibility requirements of these Terms. If you do not meet these requirements or, if for any reason, you do not agree with all of the terms and provisions of these Terms, you may not create an Account, and must cease or prevent any use of any existing Account(s). Teens between the ages of 13-17 may use the App only if they are using an Account created by their parent or legal guardian and are doing so with the permission and under the supervision of that parent or legal guardian. Any and all User Information associated with the Account must be that of the parent or legal guardian.
 
 **2.3 Whatnot Users**
 
@@ -146,6 +146,8 @@ The App was created by avid fans who were seeking a marketplace for the Items or
 
 In order to create Listings, to sell and buy Items and NFTs, and to enter into Transactions, through the App, a User must first create a Whatnot account ("Account"). A User may create an Account by selecting a user name and password; providing certain requested information (such as first name and last name), which, for the purposes of these Terms, will be considered (together with any content supplied as part of any application to become a Seller, if applicable) "User Information"; and accepting these Terms.
 
+All Sellers must provide the following information in their Profile: (1) first and last name, (2) email address, (3) physical address, (4) phone number, and (5) a social media account. All Users may provide additional information as requested in your Profile and Account (the foregoing will also be considered "User Information").
+
 Once an Account is created, if the User wishes to create Listings and to sell Items or NFTs, the User will need to apply to become a Seller by submitting an application via the App to become a Seller, after which point the User may be permitted, at our discretion, to create Listings and to sell Items or NFTs on the App. All applications to become a Seller must be approved by us in advance of any Seller to create Listings, selling Items or NFTs, or entering into Transactions on the App. All User Information you provide to register with the App, is governed by our [Privacy Policy](http://www.whatnot.com/privacy-eu).
 
 It is a condition of your use of the App that all the User Information you provide is, current, complete, accurate, and not false or misleading. However, please note that Whatnot does not verify or ensure such User Information is correct, accurate, complete and not misleading.
@@ -158,7 +160,7 @@ By agreeing to these Terms of Service, you agree to be bound by the Royal Mail G
 
 It is your responsibility to protect your personal data and maintain the confidentiality of your User Information. You agree to change your password and notify us immediately if you suspect or become aware of any unauthorized use of your Account or User Information, or any unauthorized breach of your Account or User Information.
 
-You also acknowledge that your Account and User Information is personal to you and agree not to allow any other person to access the App or any portion of it using your User Information. In the event you share your Account or User Information with others, you do so at your own risk and you are still responsible for all use of your Account and User Information.
+You also acknowledge that your Account and User Information is personal to you and agree not to allow any other person to access the App or any portion of it using your User Information, unless you have provided them with permission to do so. In the event you choose to provide others with permission to access and/or use your Account or User Information, you do so at your own risk. You acknowledge you are the owner and controller of your Account and are responsible, accountable, and liable for all access to and/or use of your Account and User Information, even if such access and/or use was not authorized.
 
 **3.3 Unauthorized Use of Your Account**
 
@@ -181,7 +183,8 @@ You agree that you will not (and will not encourage or enable another User or th
 * Post, upload, publish, submit or transmit any User Content that: (i) infringes, misappropriates or breaches Whatnot’s or a third party's patent, copyright, trademark, database, trade secret, moral rights or other intellectual property rights, or rights of publicity, personality or privacy; (ii) breaches, or encourages any conduct that would breach, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is defamatory, obscene, pornographic, vulgar, offensive, harmful or otherwise objectionable; (v) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vi) is violent or threatening or promotes violence, terrorism, or actions that are threatening to any person or entity; (vii) promotes illegal or harmful activities or substances; or (viii) bring the App or Whatnot into disrepute;
 * Use the App for any unlawful purpose or for the promotion of illegal activities;
 * Use the App to, or to attempt to, harass, abuse, or harm another person or group;
-* Provide others with access to or use of your Account, or use the Account or any other User's Account without permission;
+* Provide others with access to or use of your Account, unless you have granted them permission to do so and their access to or use of your Account or the App does not violate these Terms.
+* Access or use the Account of any other User, unless that User has granted you permission to do so and your access to or use of their Account or the App does not violate these Terms.
 * Provide false or inaccurate information in the App or in your Account;
 * Use the App for the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, inducing them to enter into Transactions, asking for personally identifiable information, or otherwise;
 * Make any automated use of the App, or take any action that we deem to impose or to potentially impose an unreasonable or disproportionately large load on the App;
@@ -501,9 +504,10 @@ Please include the following information in your “Infringement Notice”:
 
 Copyright Agent  
 c/o Whatnot, Inc.  
-578 Washington Boulevard #1019  
-Marina del Rey, CA 90292  
-(323) 948-1820  
+2261 Market Street  
+STE 10754  
+San Francisco, CA 94114  
++1 (323) 948-1820  
 [\[email protected\]](https://www.whatnot.com/cdn-cgi/l/email-protection)
 
 * * *
