@@ -1,6 +1,6 @@
-                         Terms & Conditions | Public Storage                    
+ 
 
-   
+ 
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent) 
 
@@ -102,7 +102,7 @@ Pay Bill
     * [Vehicle & RV Storage](https://www.publicstorage.com/vehicle-car-rv-storage)
     * [Boat Storage](https://www.publicstorage.com/boat-storage)
     * [Climate Controlled Storage](https://www.publicstorage.com/climate-controlled-storage)
-* [Help Center](https://www.publicstorage.com/help-center)
+* [Frequently Asked Questions](https://www.publicstorage.com/help-center)
 * About Us
     * [Our Story](https://www.publicstorage.com/our-story.html)
     * [Investor Relations](https://investors.publicstorage.com/investor-relations/default.aspx)
@@ -122,7 +122,7 @@ Your Account
 
 [Pay Bill](https://www.publicstorage.com/simplified/bill-pay/login)[](javascript:void(0))
 
-   
+    
 
 Terms and Conditions
 ====================
@@ -273,7 +273,7 @@ Public Storage
 Attention: Litigation & Operations Counsel  
 701 Western Avenue  
 Glendale, California 91201  
-E-mail: **copyright@publicstorage.com**
+E-mail: **[\[email protected\]](https://www.publicstorage.com/cdn-cgi/l/email-protection)**
 
 It is often difficult to determine if your copyright has been infringed. Public Storage may elect to not respond to DMCA Notices that do not substantially comply with all of the foregoing requirements, and Public Storage may elect to remove allegedly infringing material that comes to its attention via notices that do not substantially comply with the DMCA.
 
@@ -381,7 +381,7 @@ Public Storage reserves the right, in its sole discretion, to terminate your acc
 **PLEASE READ THESE PROVISIONS CAREFULLY, AS THEY AFFECT YOUR RIGHTS**
 
 **18.1. Notice; Process**  
-Before filing a claim against us in any forum, you agree to first attempt to resolve the dispute informally by notifying us of your claim by sending an email to **disputeresolution@publicstorage.com** or sending a letter to the Dispute Resolution Department, 701 Western Avenue, Glendale, California 91201. The notice must specifically describe the nature of the dispute and the relief you seek. You will give us sixty (60) days from the date we receive your notice to try to resolve the dispute. Either party may file a claim if the dispute is not resolved after sixty (60) days.
+Before filing a claim against us in any forum, you agree to first attempt to resolve the dispute informally by notifying us of your claim by sending an email to **[\[email protected\]](https://www.publicstorage.com/cdn-cgi/l/email-protection)** or sending a letter to the Dispute Resolution Department, 701 Western Avenue, Glendale, California 91201. The notice must specifically describe the nature of the dispute and the relief you seek. You will give us sixty (60) days from the date we receive your notice to try to resolve the dispute. Either party may file a claim if the dispute is not resolved after sixty (60) days.
 
 **18.2. Dispute Resolution and Arbitration**  
 Both you and Public Storage agree that any and all dispute, claim, or controversy between you and Public Storage arising in connection with or in any way relating to the relationship between you and Public Storage, including your use of the Public Storage online bill paying service, will be determined by mandatory binding individual (not class) arbitration. You and Public Storage further agree that the arbitrator shall have the exclusive power to rule on his or her own jurisdiction, including any objections with respect to the existence, scope or validity of the Arbitration Agreement or to the arbitrability of any claim or counterclaim. By agreeing to arbitrate, both parties are giving up the right to proceed in court. Arbitration is a method of claim resolution that is less formal than a traditional court proceeding. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. There may be more limited discovery than in court. The arbitrator must follow this agreement and can award the same damages and relief as in court, except that the arbitrator may not award any relief, including declaratory or injunctive relief, benefiting anyone but the parties to the arbitration. This arbitration provision will survive termination of the Agreement.
@@ -490,7 +490,7 @@ Public Storage Locations in the Country:
 
 [Contact](https://www.publicstorage.com/contact-us/contact-us.html)
 
-[Help Center](https://www.publicstorage.com/help-center)
+[Frequently Asked Questions](https://www.publicstorage.com/help-center)
 
 [Size Guide](https://www.publicstorage.com/size-guide)
 
@@ -514,7 +514,7 @@ Public Storage Locations in the Country:
 
 ### Follow Public Storage®
 
-[](https://www.facebook.com/PublicStorage/)[](https://twitter.com/PublicStorage)[](https://www.youtube.com/user/PUBLICSTORAGE)[](https://www.instagram.com/publicstorage/)[](https://www.linkedin.com/company/public-storage/)[](https://www.pinterest.com/publicstorage/)[](https://www.tiktok.com/@publicstorage/)
+[](https://www.facebook.com/PublicStorage/)[](https://www.youtube.com/user/PUBLICSTORAGE)[](https://www.instagram.com/publicstorage/)[](https://www.linkedin.com/company/public-storage/)[](https://www.pinterest.com/publicstorage/)[](https://www.tiktok.com/@publicstorage/)
 
 ### Download App
 
@@ -539,10 +539,10 @@ PUBLIC STORAGE, PS, and the Orange Door Trade Dress are trademarks or registered
 
 Facilities with a ![Green Leaf](https://www.publicstorage.com/on/demandware.static/-/Sites-publicstorage-Library/default/dwf3c38869/ps-images/footer/icon-leaf-circle.svg) have one or more of the following sustainable initiatives in place to help you make an informed storage decision: LED lighting, Efficient HVAC Systems, Solar power generation, Eco-Friendly Water Practices, or High R-value Insulation.
 
-Promotion: Subject to change. Offered only on selected units. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual unit sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Temperature and humidity levels within any storage space including climate-controlled spaces may vary. Please inspect any unit before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don’t worry, online pricing discount will be honored for any rental originating from an online reservation. If the promotion is associated with the 2024 Memorial Day Sale: the promotional period runs until 6/9/24 and you must move in within 7 days of reservation.
+Promotion: Subject to change. Offered only on selected units. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual unit sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Temperature and humidity levels within any storage space including climate-controlled spaces may vary. Please inspect any unit before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don’t worry, online pricing discount will be honored for any rental originating from an online reservation.
 
 #### Promotion
 
 ×
 
-Subject to change. Offered only on selected space at select locations. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual space sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Please inspect any space before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don't worry, online pricing discount will be honored for any rental originating from an online reservation. If the promotion is associated with the 2024 Memorial Day Sale: the promotional period runs until 6/9/24 and you must move in within 7 days of reservation.
+Subject to change. Offered only on selected space at select locations. Subject to availability. Limit one offer per household. This offer applies only to the rental fee. Other restrictions, taxes, and fees, including an administrative fee, apply. See contract for full details. Promotions good for new customers only. Not available on transfers or additional spaces. Pricing subject to change. Reservation required to guarantee price. Actual space sizes may vary from approximate size estimate and reservations do not guarantee unit availability. Please inspect any space before renting. Online pricing available only for online reservations and rentals. Not sure about the size you need? Don't worry, online pricing discount will be honored for any rental originating from an online reservation.
