@@ -1,46 +1,62 @@
 [Skip to content](#content)
 
-[![Referrizer logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAxNjIgMzIiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://business.referrizer.com/)
+[![Referrizer logo](https://business.referrizer.com/wp-content/uploads/2024/04/referrizer-logo.svg)](https://business.referrizer.com/)
 
-* [Solutions](#)
-    
-    Close Solutions Open Solutions
+* [Solutions](#) Close Solutions Open Solutions
+* [Pricing](https://business.referrizer.com/pricing/)
 * [Case Studies](https://business.referrizer.com/casestudy/)
-    
 
-[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDM2IDM2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/reputation-management-icon.svg)
 
 #### Reputation Management
 
-Turn your customers into your salesforce](https://business.referrizer.com/features/reputationmanagement/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQwIDQwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Turn your customers into your salesforce](https://business.referrizer.com/features/reputationmanagement/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/offers-referrals-icon.svg)
 
 #### Offers & Referrals
 
-Turn your customers into your salesforce](https://business.referrizer.com/features/offersreferrals/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIyOSIgdmlld0JveD0iMCAwIDM2IDI5Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Turn your customers into your salesforce](https://business.referrizer.com/features/offersreferrals/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2029'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/lead-management-icon.svg)
 
 #### Lead Management System
 
-Convert more leads to customers and members](https://business.referrizer.com/features/leadmanagementsystem/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNyIgaGVpZ2h0PSIzNCIgdmlld0JveD0iMCAwIDM3IDM0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Convert more leads to customers and members](https://business.referrizer.com/features/leadmanagementsystem/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2034'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/loyality-program-icon.svg)
 
 #### Loyalty Program
 
-Increase customer retention with Loyalty Program](https://business.referrizer.com/features/loyalty/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNSIgdmlld0JveD0iMCAwIDM2IDM1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Increase customer retention with Loyalty Program](https://business.referrizer.com/features/loyalty/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/email-marketing-icon.svg)
 
 #### Email Marketing
 
-Keep in touch with your contacts all the time](https://business.referrizer.com/features/emailmarketing/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MSIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDQxIDQwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Keep in touch with your contacts all the time](https://business.referrizer.com/features/emailmarketing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2041%2040'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/2-way-messaging-icon.svg)
 
 #### 2-Way Text Messaging
 
-Communicate with your clients using text messages](https://business.referrizer.com/features/textmarketing/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNyIgaGVpZ2h0PSIyOSIgdmlld0JveD0iMCAwIDM3IDI5Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Communicate with your clients using text messages](https://business.referrizer.com/features/textmarketing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2029'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/landing-pages-icon.svg)
 
 #### Landing Pages
 
-Promote your business online and generate sales](https://business.referrizer.com/features/landing/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MSIgdmlld0JveD0iMCAwIDQwIDQxIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Promote your business online and generate sales](https://business.referrizer.com/features/landing/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2041'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/smart-line-icon.svg)
 
 #### Smart Line
 
-Keep in touch with your contacts all the time](https://business.referrizer.com/features/smartline/)[![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDM2IDM2Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)
+Keep in touch with your contacts all the time](https://business.referrizer.com/features/smartline/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+
+![](https://business.referrizer.com/wp-content/uploads/2024/04/partner-network-icon.svg)
 
 #### Partner Up Network
 
@@ -356,7 +372,9 @@ You agree that these User Terms are binding on you. Your agreement is effective 
 
 1 Facebook and Twitter are registered trademarks of Facebook, Inc. ,, and Twitter, Inc., respectively. Referrizer is not in any way affiliated with, partnered with, or endorsed by Facebook, Inc. or Twitter, Inc.
 
-[![Referrizer logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODMiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAxODMgMzYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://business.referrizer.com/)
+[![Referrizer logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2036'%3E%3C/svg%3E)
+
+![Referrizer logo](https://business.referrizer.com/wp-content/uploads/2024/04/referrizer-logo-dark.svg)](https://business.referrizer.com/)
 
 ### Solutions
 
@@ -388,7 +406,9 @@ You agree that these User Terms are binding on you. Your agreement is effective 
 * [Contact Us](https://business.referrizer.com/contactus/)
 * [Knowledge Base](https://support.referrizer.com/en)
 
-[![Referrizer logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODMiIGhlaWdodD0iMzYiIHZpZXdCb3g9IjAgMCAxODMgMzYiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://business.referrizer.com/)
+[![Referrizer logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2036'%3E%3C/svg%3E)
+
+![Referrizer logo](https://business.referrizer.com/wp-content/uploads/2024/04/referrizer-logo-dark.svg)](https://business.referrizer.com/)
 
 [Facebook-f](https://www.facebook.com/Referrizer) [Instagram](https://www.instagram.com/referrizer/) [Linkedin](https://www.linkedin.com/company/referrizer-llc) [Youtube](https://www.youtube.com/c/Referrizer)
 
