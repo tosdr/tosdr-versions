@@ -77,6 +77,10 @@ We'll use your location to find clinics, hospitals and doctors closest to you.
 
 [](javascript:void(0) "Close")
 
+Providence Swedish Response to CrowdStrike Outage
+
+Providence Swedish was impacted by the CrowdStrike outage and is working to restore impacted services. [Please see our statement to learn more.](https://blog.swedish.org/swedish-news/providence-swedish-response-to-crowdstrike-outage)
+
 Terms of Use & Privacy Policy
 =============================
 
