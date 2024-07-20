@@ -8,20 +8,21 @@ Open search form Close menu Close search form Menu Open menu Close menu Close me
 * [Profiles](https://www.thetransmitter.org/profiles/)
 * [Beyond the bench](https://www.thetransmitter.org/beyond-the-bench/)
 * [Podcasts](https://www.thetransmitter.org/podcasts/)
-* [Videos](https://www.thetransmitter.org/videos/)
 * [Books](https://www.thetransmitter.org/books/)
-* [_The Transmitter_ books](https://www.thetransmitter.org/transmitter-books/)
 
 [Spectrum logo](https://www.thetransmitter.org/spectrum/)
 
+* [AI: From bench to bot](https://www.thetransmitter.org/from-bench-to-bot/)
 * [Brain imaging](https://www.thetransmitter.org/brain-imaging/)
-* [Craft and careers](https://www.thetransmitter.org/craft-and-careers/)
-* [Neural circuits](https://www.thetransmitter.org/neural-circuits/)
-* [Connectivity](https://www.thetransmitter.org/connectivity/)
-* [Systems neuroscience](https://www.thetransmitter.org/systems-neuroscience/)
-* [Science and society](https://www.thetransmitter.org/science-and-society/)
-* [Open neuroscience](https://www.thetransmitter.org/open-neuroscience/)
 * [Computational neuroscience](https://www.thetransmitter.org/computational-neuroscience/)
+* [Craft and careers](https://www.thetransmitter.org/craft-and-careers/)
+* [Defining cell types](https://www.thetransmitter.org/defining-cell-types/)
+* [Defining representations](https://www.thetransmitter.org/defining-representations/)
+* [How to teach this paper](https://www.thetransmitter.org/how-to-teach-this-paper/)
+* [Neural circuits](https://www.thetransmitter.org/neural-circuits/)
+* [Open neuroscience and data-sharing](https://www.thetransmitter.org/open-neuroscience-and-data-sharing/)
+* [Science and society](https://www.thetransmitter.org/science-and-society/)
+* [Systems neuroscience](https://www.thetransmitter.org/systems-neuroscience/)
 
 [See all topics](https://www.thetransmitter.org/topics/)
 
@@ -55,7 +56,7 @@ Please read this Privacy Policy carefully to understand our policies and practic
 
 For information about the Simons Foundation’s privacy practices in other contexts, or for individuals located in the European Union, please see our Institutional Privacy Policy [here](https://www.simonsfoundation.org/sf-privacy-policy/).
 
-**Table of Contents**
+### **Table of Contents**
 
 Personal Information We Collect  
 How We Use Your Personal Information  
@@ -70,7 +71,7 @@ Contact Us
 Personal Information We Collect
 -------------------------------
 
-**Information you give us**
+### **Information you give us**
 
 We collect personal information about individuals who interact with the Simons Foundation, including by using our website and subscribing to our publications. We collect some of this information automatically when individuals navigate through the site, such as IP addresses and information collected through cookies and other tracking technologies. The types of personal information we collect include, but are not limited to:
 
@@ -80,14 +81,14 @@ We collect personal information about individuals who interact with the Simons F
 
 **Subscription information**, such your preferences for receiving communications about our activities, events, and publications, and details about how you engage with our communications
 
-**Information automatically collected**
+### **Information automatically collected**
 
 When you access our websites, we, our service providers and our partners may automatically log information about you, your computer or mobile device, and your activity on our websites. The information that may be collected automatically includes your device’s operating system type and version number, manufacturer and model, device identifier, browser type, screen resolution, IP address, the website you visited before browsing to our websites, general location information such as city, state or geographic area, and information about your use of and actions on our websites, such as pages you viewed, how long you spent on a page, navigation paths between pages, information about your activity on a page, access times and length of access. This information is collected using cookies, pixel tags and similar technologies. Pixel tags (which are also known as web beacons and clear GIFs) are used on our websites and HTML-formatted emails to track the actions of users on our websites. Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website, pixel tags are embedded invisibly on webpages or within HTML-formatted emails. Pixel tags measure the success of our marketing campaigns and compile statistics about usage of our websites or engagement with email notices so that we can manage our content more effectively. Please refer to our [Cookies Policy](https://www.simonsfoundation.org/cookies-policy/) for more details about our use of cookies.
 
 How We Use Your Personal Information
 ------------------------------------
 
-**To provide our services**
+### **To provide our services**
 
 We use your personal information to provide our services in the following ways:
 
@@ -99,73 +100,73 @@ We use your personal information to provide our services in the following ways:
 * to respond to your requests, questions and feedback;
 * to fulfill any other purpose for which you provide it.
 
-**To communicate with you**
+### **To communicate with you**
 
 If you request information from us (such as by signing up for our newsletter or publications), register on our websites or request resources from us in order to support our mission, we may send you Simons Foundation–related marketing communications as permitted by law. You will have the ability to opt out of such communications.
 
-**To comply with law**
+### **To comply with law**
 
 We use your personal information as we believe necessary or appropriate to comply with any applicable court order, law, regulation and legal processes, including to respond to any government or regulatory request.
 
-**With your consent**
+### **With your consent**
 
 We will request your consent to use your personal information where required by law, such as where we use certain cookies or similar technologies or before sending you certain marketing messages. You have the right to withdraw your consent at any time in the manner that was indicated when we requested the consent or by contacting us at [\[email protected\]](https://www.spectrumnews.org/cdn-cgi/l/email-protection). If you have consented to receive marketing communications from our third-party partners, you may withdraw your consent by contacting those partners directly.
 
-**To create anonymous data for analytics**
+### **To create anonymous data for analytics**
 
 We may create anonymous data from your personal information and other individuals whose personal information we collect. We make personal information into anonymous data by excluding information that makes the data personally identifiable to you, and use that anonymous data for business purposes.
 
-**For compliance, fraud prevention and safety**
+### **For compliance, fraud prevention and safety**
 
 We use your personal information as we believe necessary or appropriate to (a) enforce the terms and conditions that govern the service; (b) protect our rights, privacy, safety or property, and/or that of you or others; and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
 
-**As stated in a supplemental privacy notice**
+### **As stated in a supplemental privacy notice**
 
 In some circumstances, we may provide a supplemental privacy notice that explains how we use personal information in a specific context.
 
 How We Share Your Personal Information
 --------------------------------------
 
-**Affiliates**
+### **Affiliates**
 
 We may disclose your personal information to our subsidiaries and affiliates for purposes consistent with this Privacy Policy.
 
-**Contractors and Service Providers**
+### **Contractors and Service Providers**
 
 We may employ third-party companies and individuals to administer and provide our services on our behalf (such as customer support, hosting, email delivery, database management services and job applicant management systems, as well as external reviewers and advisers who help us process and make determinations regarding grant applications). These third parties may use your information only as directed by Simons Foundation and in a manner consistent with this Privacy Policy. Contractors and Service Providers are prohibited from using or disclosing your information for any other purpose.
 
-**Partners**
+### **Partners**
 
 We may sometimes share your personal information with partners or enable partners to collect information via our websites. For example, some of our websites use Disqus, a third-party service that enables our visitors to post comments on our website. You may view the Disqus Privacy Policy [here](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) and control Disqus targeting and personalization [here](https://disqus.com/data-sharing-settings/).
 
-**Professional advisers and corporate transactions**
+### **Professional advisers and corporate transactions**
 
 We may disclose your personal information to professional advisers, such as lawyers, bankers, auditors, accountants and insurers, where necessary in the course of the professional services rendered to us, including to the extent reasonably needed to proceed with the negotiation or completion of a corporate transaction, such as a merger, reorganization, acquisition, or transfer or sale of all or a portion of our assets, in which case your personal information may be part of that corporate transaction.
 
-**Compliance with laws and law enforcement; protection and safety**
+### **Compliance with laws and law enforcement; protection and safety**
 
 We may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe necessary or appropriate to (a) comply with any applicable court order, laws, regulation and lawful requests and legal processes, such as to respond to subpoenas; (b) enforce the terms and conditions that govern our websites; (c) protect our rights, privacy, safety or property, and/or that of you or others; and (d) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
 
 Your Choices
 ------------
 
-**Access, update, correct or delete your information**
+### **Access, update, correct or delete your information**
 
 An individual who has registered for an account with us may review, update, correct or delete the personal information in their account profile by logging into their account.
 
-**Marketing communications**
+### **Marketing communications**
 
 You may opt out of marketing-related emails by following the instructions contained at the bottom of our emails, or by contacting us at [\[email protected\]](https://www.spectrumnews.org/cdn-cgi/l/email-protection). You may continue to receive service-related and other nonmarketing emails.
 
-**Online behavioral advertising**
+### **Online behavioral advertising**
 
 Some of the partners that collect information about users’ activities on our websites may be members of organizations or programs that provide choices to individuals regarding targeted advertising. Users may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/choices) or the Digital Advertising Alliance by clicking [here](http://www.aboutads.info/choices). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking [here](https://www.youronlinechoices.eu/), selecting the user’s country and then clicking “Choices” (or similarly titled link). If you choose to opt out of targeted advertisements, you will still see advertisements online, but they may not be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioral advertising are included in this list, so you may still receive cookies and tailored advertisements from companies that are not listed.
 
-**“Do Not Track” signals**
+### **“Do Not Track” signals**
 
 Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not honor “Do Not Track” signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-**Choosing not to share your personal information**
+### **Choosing not to share your personal information**
 
 You may choose not to provide personal information to us. However, we may not be able to provide services to you if we are required to collect your personal information or if we need your personal information in order to provide the services. We will tell you what information you must provide to receive our services by designating it as required or through other appropriate means.
 
@@ -176,7 +177,7 @@ We take a number of organizational, technical and physical measures designed to 
 
 The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-**Children**
+### **Children**
 
 Our websites are not intended for children under 16. If you become aware that a child has provided us with information without parental or guardian consent, please contact us at [\[email protected\]](https://www.spectrumnews.org/cdn-cgi/l/email-protection). We will delete such information from our files as soon as reasonably practicable.
 
@@ -252,5 +253,3 @@ Close menu
 Welcome to _The Transmitter_
 
 _Spectrum_ is now a key section of _The Transmitter_ and continues to publish news and perspectives about autism research. Previous _Spectrum_ articles are available at thetransmitter.org.
-
-We care about your data, and we'd like to use cookies to give you a smooth browsing experience. Please agree and read more about our [privacy policy](https://www.spectrumnews.org/privacy-policy/).[AGREE](#)
