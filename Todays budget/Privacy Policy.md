@@ -1,4 +1,4 @@
-![](https://assets-global.website-files.com/63763459e7b1c626bf750855/6377e8bd7d7d48ec0dbb1f8c_iconDBO.png)[Daily Budget Original](https://apps.apple.com/us/app/daily-budget-original/id651896614)
+![](https://cdn.prod.website-files.com/63763459e7b1c626bf750855/6377e8bd7d7d48ec0dbb1f8c_iconDBO.png)[Daily Budget Original](https://apps.apple.com/us/app/daily-budget-original/id651896614)
 
 * [English](#PrivacyEnglish)
 * [Deutsch](#PrivacyGerman)
