@@ -25,10 +25,6 @@ Search
 
 [Home](https://blitz.gg/)
 
-[Remove Ads](https://blitz.gg/pro)
-
-[Remove Ads](https://blitz.gg/premium)
-
 Legal Info / Policy Info
 ========================
 
