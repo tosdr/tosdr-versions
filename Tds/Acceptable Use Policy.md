@@ -222,8 +222,9 @@ Find out for yourself what TDS has to offer for you.
 * [Carrier Wholesale](https://tdsbusiness.com/carrier-wholesale.html)
 * [TDS Connect](https://hellotds.com/information/tds-connect.html)
 * [Moving?](https://hellotds.com/information/moving.html)
+*  [![Privacy Options](/content/dam/tdstelecom/images/logos/privacyoptions.png) Your Privacy Choices](https://tdstelecom.com/policies/state-consumer-privacy-choices.html)
 
-* [![Follow us on Twitter](/content/dam/tdstelecom/images/ui/social/icon_social-twitter.svg)](https://twitter.com/tdstelecom)
+* [![Follow us on Twitter](/content/dam/tdstelecom/images/ui/social/icon_social-twitter.svg)](https://x.com/tdstelecom)
 * [![Find us on Facebook](/content/dam/tdstelecom/images/ui/social/icon_social-facebook.svg)](https://www.facebook.com/TDSTelecommunications)
 * [![Read our Blog](/content/dam/tdstelecom/images/ui/social/icon_social-wordpress.svg)](https://blog.hellotds.com/)
 
