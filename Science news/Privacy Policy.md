@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Pain may take different pathways in men and women](https://www.sciencenews.org/article/pain-nerve-cells-different-men-women)
+            ### [How to stay healthy during the COVID-19 summertime surge](https://www.sciencenews.org/article/summer-covid-19-surge)
             
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")9 hours ago
-            
-        * [Science & Society](https://www.sciencenews.org/topic/science-society)
-            
-            ### [‘After 1177 B.C.’ describes how societies fared when the Bronze Age ended](https://www.sciencenews.org/article/1177-bc-bronze-age-societies-review)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")June 18, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")11 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [AI could take medical imaging to the next level](https://www.sciencenews.org/article/ai-medical-imaging-artificial-intelligence) 
+            ### [The odds of developing long COVID dropped as the coronavirus evolved](https://www.sciencenews.org/article/odds-long-covid-dropped-coronavirus-evolved)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")June 17, 2024
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")July 17, 2024
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Psilocybin temporarily dissolves brain networks](https://www.sciencenews.org/article/psilocybin-brain-networks)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")July 17, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
             
-            ### [Pain may take different pathways in men and women](https://www.sciencenews.org/article/pain-nerve-cells-different-men-women)
+            ### [Can bioluminescent ‘milky seas’ be predicted?](https://www.sciencenews.org/article/bioluminescent-milky-seas-predicted)
             
-            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")9 hours ago
+            By [Bas den Hond](https://www.sciencenews.org/author/bas-den-hond "Posts by Bas den Hond")July 18, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [Can leeches leap? New video may help answer that debate](https://www.sciencenews.org/article/leeches-jump-video-answer-debate)
+            ### [Psilocybin temporarily dissolves brain networks](https://www.sciencenews.org/article/psilocybin-brain-networks)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")11 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")July 17, 2024
             
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Meet _Lokiceratops_, a newly discovered species of horned dinosaur](https://www.sciencenews.org/article/lokiceratops-new-species-horned-dinosaur)
+            ### [Bird flu has been invading the brains of mammals. Here’s why](https://www.sciencenews.org/article/bird-mammal-brain-outbreak-influenza)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")13 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")July 11, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,69 +138,69 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Earth](https://www.sciencenews.org/topic/earth)
+    * * [Climate](https://www.sciencenews.org/topic/climate)
             
-            ### [50 years ago, the sun’s influence on Earth’s lightning was revealed](https://www.sciencenews.org/article/50-years-ago-sun-earth-lightning)
+            ### [_Twisters_ asks if you can 'tame' a tornado. We have the answer](https://www.sciencenews.org/article/twisters-movie-tame-tornado-fire)
             
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")June 18, 2024
+            By [Abby Wallace](https://www.sciencenews.org/author/abby-wallace "Posts by Abby Wallace")13 hours ago
             
-        * [Climate](https://www.sciencenews.org/topic/climate)
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
-            ### [The Arctic is warming rapidly. These clouds may hold clues as to why](https://www.sciencenews.org/article/arctic-warming-rapidly-clouds-clues-why)
+            ### [Can bioluminescent ‘milky seas’ be predicted?](https://www.sciencenews.org/article/bioluminescent-milky-seas-predicted)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")June 14, 2024
+            By [Bas den Hond](https://www.sciencenews.org/author/bas-den-hond "Posts by Bas den Hond")July 18, 2024
             
-        * [Earth](https://www.sciencenews.org/topic/earth)
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
-            ### [Geoscientists found the most dangerous part of a famous West Coast fault](https://www.sciencenews.org/article/geoscientist-dangerous-west-coast-fault)
+            ### [This AI can predict ship-sinking ‘freak’ waves minutes in advance](https://www.sciencenews.org/article/ai-predict-ship-sinking-freak-waves)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")June 7, 2024
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")July 18, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
             
-            ### [Physicists measured Earth’s rotation using quantum entanglement](https://www.sciencenews.org/article/earth-rotation-quantum-entanglement)
+            ### [Can light spark superconductivity? A new study reignites debate](https://www.sciencenews.org/article/light-superconductivity-cuprates)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")June 14, 2024
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")9 hours ago
+            
+        * [Materials Science](https://www.sciencenews.org/topic/materials-science)
+            
+            ### [_Jurassic Park_’s amber-preserved dino DNA is now inspiring a way to store data](https://www.sciencenews.org/article/jurassic-park-amber-dna-data) 
+            
+            By [Payal Dhar](https://www.sciencenews.org/author/payal-dhar "Posts by Payal Dhar")July 15, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
-            ### [The second law of thermodynamics underlies nearly everything. But is it inviolable?](https://www.sciencenews.org/article/disorder-thermodynamics-second-law)
+            ### [Advanced nuclear reactors need a different type of uranium. Here’s 4 things to know](https://www.sciencenews.org/article/nuclear-fuel-reactors-uranium) 
             
-            By [Tom Siegfried](https://www.sciencenews.org/author/tom-siegfried "Posts by Tom Siegfried")June 12, 2024
-            
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-            
-            ### [Scientists propose a hunt for never-before-seen ‘tauonium’ atoms](https://www.sciencenews.org/article/tauonium-atoms-particles) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")May 29, 2024
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 3, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Space](https://www.sciencenews.org/topic/space)
+    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
-            ### [Astronomers watch a supermassive black hole turn on for the first time](https://www.sciencenews.org/article/supermassive-black-hole-turn-on-agn)
+            ### [Jupiter’s Great Red Spot may be less than 200 years old](https://www.sciencenews.org/article/jupiter-great-red-spot-shrinking)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 18, 2024
+            By [Carolyn Wilke](https://www.sciencenews.org/author/carolyn-wilke "Posts by Carolyn Wilke")July 17, 2024
             
-        * [Earth](https://www.sciencenews.org/topic/earth)
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
-            ### [50 years ago, the sun’s influence on Earth’s lightning was revealed](https://www.sciencenews.org/article/50-years-ago-sun-earth-lightning)
+            ### [Sulfur was key to the first water on Earth](https://www.sciencenews.org/article/sulfur-key-first-water-earth)
             
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")June 18, 2024
+            By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")July 15, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
-            ### [Human spaceflight’s new era is fraught with medical and ethical questions](https://www.sciencenews.org/article/human-spaceflight-medical-and-ethical-questions)
+            ### [A _Dune_\-inspired spacesuit turns astronaut pee into drinking water](https://www.sciencenews.org/article/dune-spacesuit-astronaut-pee-water)
             
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")June 11, 2024
+            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")July 12, 2024
             
 
 Privacy Policy
