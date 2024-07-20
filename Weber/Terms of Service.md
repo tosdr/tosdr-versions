@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
- [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw74cd0cea/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+ [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw3f7ebea2/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -29,7 +29,7 @@ Genesis® NEW](https://www.weber.com/US/en/gas/genesis/ "Genesis®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/00_Spirit_E210_NAV_207x165.png?auto=compress,format)
 
-Spirit® $50 OFF](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
+Spirit®](https://www.weber.com/US/en/gas/spirit/ "Spirit®")
 
 [![](https://dw-images.weber.com/navigation/default/gas-grills/summit_2024_207x165.png?auto=compress,format)
 
@@ -246,6 +246,7 @@ Grill Covers
 [Grill Tools and Cookware](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/ "Grill Tools and Cookware")
 
 * [Griddles NEW](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/griddles/ "Griddles")
+* [Weber Works™ NEW](https://www.weber.com/US/en/griddle/weber-works/ "Weber Works™")
 * [Cookware, Baskets and Pans](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/cookware--baskets-and-pans/ "Cookware, Baskets and Pans")
 * [Tools](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/tools/ "Tools")
 * [Racks and Rotisseries](https://www.weber.com/US/en/accessories/grill-tools-and-cookware/racks-and-rotisseries/ "Racks and Rotisseries")
@@ -362,7 +363,7 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw74cd0cea/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dw3f7ebea2/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
