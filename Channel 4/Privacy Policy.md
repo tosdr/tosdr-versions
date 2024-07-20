@@ -101,6 +101,7 @@
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
 * [Loneliness](https://www.channel4.com/4viewers/loneliness)
 * [Contact us](https://www.channel4.com/4viewers/contact-us)
+* [Paris 2024: Paralympics](https://www.channel4.com/4viewers/blog/paris-2024-paralympics)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
