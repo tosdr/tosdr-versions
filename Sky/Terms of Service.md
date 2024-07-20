@@ -103,7 +103,47 @@ Close
 
 [My Sky](https://www.sky.com/mysky)
 
+* [Bills & Payments](https://www.sky.com/bill)
+    
+* [Your Products](https://www.sky.com/hub)
+    
+* [Product Settings](https://www.sky.com/productsettings)
+    
+* [Service Checker](https://www.sky.com/servicechecker)
+    
+* [Sky VIP & Rewards](https://www.sky.com/myaccount/rewards-and-extras)
+    
+* [My Details](https://www.sky.com/mydetails)
+    
+* [My Orders](https://www.sky.com/ordertracking)
+    
+* [My Messages](https://www.sky.com/mymessages)
+    
+* [Moving Home](https://www.sky.com/moving-home)
+    
+
+Close My Sky menu
+
 [Help](https://www.sky.com/help/home)
+
+* [Help](https://www.sky.com/help/home)
+    
+* [My Account](https://www.sky.com/help/home/your-account)
+    
+* [Broadband](https://www.sky.com/help/home/broadband)
+    
+* [TV](https://www.sky.com/help/home/sky-tv)
+    
+* [Mobile](https://www.sky.com/help/home/sky-mobile)
+    
+* [Talk](https://www.sky.com/help/home/sky-talk)
+    
+* [VIP](https://www.sky.com/help/home/sky-vip)
+    
+* [Sky Customer Forum](https://helpforum.sky.com/)
+    
+
+Close Help menu
 
 Alerts
 
@@ -113,7 +153,47 @@ Close Alerts
 
 [My Sky](https://www.sky.com/mysky)
 
+* [Bills & Payments](https://www.sky.com/bill)
+    
+* [Your Products](https://www.sky.com/hub)
+    
+* [Product Settings](https://www.sky.com/productsettings)
+    
+* [Service Checker](https://www.sky.com/servicechecker)
+    
+* [Sky VIP & Rewards](https://www.sky.com/myaccount/rewards-and-extras)
+    
+* [My Details](https://www.sky.com/mydetails)
+    
+* [My Orders](https://www.sky.com/ordertracking)
+    
+* [My Messages](https://www.sky.com/mymessages)
+    
+* [Moving Home](https://www.sky.com/moving-home)
+    
+
+Close My Sky menu
+
 [Help](https://www.sky.com/help/home)
+
+* [Help](https://www.sky.com/help/home)
+    
+* [My Account](https://www.sky.com/help/home/your-account)
+    
+* [Broadband](https://www.sky.com/help/home/broadband)
+    
+* [TV](https://www.sky.com/help/home/sky-tv)
+    
+* [Mobile](https://www.sky.com/help/home/sky-mobile)
+    
+* [Talk](https://www.sky.com/help/home/sky-talk)
+    
+* [VIP](https://www.sky.com/help/home/sky-vip)
+    
+* [Sky Customer Forum](https://helpforum.sky.com/)
+    
+
+Close Help menu
 
 Close the navigation menu
 
