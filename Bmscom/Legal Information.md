@@ -413,19 +413,25 @@ Jump to:
 General Privacy Notice
 ----------------------
 
-**Click [here](https://www.bms.com/assets/bms/us/en-us/pdf/general-privacy-notice.pdf) to download or print a copy of this BMS general privacy notice.**
+##### **Click [here](https://www.bms.com/assets/bms/us/en-us/pdf/general-privacy-notice.pdf) to download or print a copy of this BMS general privacy notice.**
 
+##### If you are a healthcare professional, you can access our other notice here: [**HCP Privacy Notice**](#hcp).  
+ 
+
+##### **BMS-acquired companies**:
+
+* For Mirati, click **[here](https://www.bms.com/assets/bms/us/en-us/pdf/mirati_privacy.pdf)**
+
+##### **United States Privacy laws**  
+
+#####   
 If you reside in California, Colorado, Connecticut, Virginia, or Utah, please find additional information here: [**State Privacy Rights section**](#general16).
 
-If you are a healthcare professional, you can access our other notice here: [**HCP Privacy Notice**](#hcp).
+#####   
+**BMS US Consumer Health Data Privacy Policy**
 
-**BMS US Consumer Health Data Privacy Policy**   
-
-Click on the links below to print, download, or view the following policies:
-
-[**Washington Consumer Health Data Privacy Policy**](https://www.bms.com/assets/bms/us/en-us/pdf/wa-bms-us-consumer-health-data-privacy-notice.pdf): if you are a resident of Washington or an individual who falls within the definition of Consumer under Washington’s My Health My Data Act.
-
-[**Nevada Consumer Health Data Privacy Policy**](https://www.bms.com/assets/bms/us/en-us/pdf/nv-bms-us-consumer-health-data-privacy-notice.pdf): if you are a resident of Nevada.
+* [**Washington Consumer Health Data Privacy Policy**](https://www.bms.com/assets/bms/us/en-us/pdf/wa-bms-us-consumer-health-data-privacy-notice.pdf): if you are a resident of Washington or an individual who falls within the definition of Consumer under Washington’s My Health My Data Act.
+* [**Nevada Consumer Health Data Privacy Policy**](https://www.bms.com/assets/bms/us/en-us/pdf/nv-bms-us-consumer-health-data-privacy-notice.pdf): if you are a resident of Nevada.
 
 * * *
 
@@ -1795,6 +1801,6 @@ Follow us
 * [Contact us](https://www.bms.com/about-us/contact-us.html)
 * [Worldwide locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
 
-May 13, 2024
+July 19, 2024
 
 © 2024 [Bristol-Myers Squibb Company](https://www.bms.com/)
