@@ -1,7 +1,5 @@
 * [](https://www.smogon.com/forums/account/dismiss-notice?notice_id=124 "Dismiss notice")Welcome to Smogon! Take a moment to read the [**Introduction to Smogon**](https://www.smogon.com/forums/threads/3710821/) for a run-down on everything Smogon, and make sure you take some time to read the [**global rules**](https://www.smogon.com/rules).
     
-* [](https://www.smogon.com/forums/account/dismiss-notice?notice_id=123 "Dismiss notice")Congrats to the winners of [the 2023 Smog Awards!](https://www.smogon.com/forums/threads/smog-awards-2023-nomination-round.3737409/)
-    
 
 * [Home](https://www.smogon.com/) 
 * [Help](https://www.smogon.com/forums/help/) 
