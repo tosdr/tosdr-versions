@@ -191,9 +191,9 @@ Freizeit
 Alle Magazine des SPIEGEL
 
 *  [![Cover: DER SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)DER SPIEGEL](https://www.spiegel.de/spiegel/print/index-2024.html "DER SPIEGEL")
+*  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
 *  [![Cover: SPIEGEL BESTSELLER](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL BESTSELLER](https://www.spiegel.de/spiegel/spbest/index-2024.html "SPIEGEL BESTSELLER")
 *  [![Cover: SPIEGEL SPEZIAL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL SPEZIAL](https://www.spiegel.de/spiegel/print/index-2024-54.html "SPIEGEL SPEZIAL")
-*  [![Cover: SPIEGEL GESCHICHTE](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL GESCHICHTE](https://www.spiegel.de/spiegel/spiegelgeschichte/index-2024.html "SPIEGEL GESCHICHTE")
 *  [![Cover: SPIEGEL WISSEN](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL WISSEN](https://www.spiegel.de/spiegel/spiegelwissen/index-2024.html "SPIEGEL WISSEN")
 *  [![Cover: SPIEGEL COACHING](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 181' width='136' height='181' %3E%3C/svg%3E)SPIEGEL COACHING](https://www.amazon.de/dp/B0CRKN547S?tag=spiegel1-21 "SPIEGEL COACHING")
 *  [![Cover: Dein SPIEGEL](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 136 175' width='136' height='175' %3E%3C/svg%3E)Dein SPIEGEL](https://www.spiegel.de/spiegel/deinspiegel/index-2024.html "Dein SPIEGEL")
@@ -204,7 +204,7 @@ SPIEGEL Gruppe
 
 [Abo](https://abo.spiegel.de/?b=SPOHFOOTER&utm_campaign=abbinder&utm_content=SPOHFOOTER&utm_medium=text&utm_source=spon "Abo") [Abo kündigen](https://gruppenkonto.spiegel.de/kuendigung.html "Abo kündigen") [Shop](https://www.amazon.de/stores/page/9A033B74-B98E-4CE4-BB30-C47BD542801B?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&linkId=ddec9c715dda90b1e0d431bb3abc5d3c&tag=wwwspiegelde-21 "Shop") [manager magazin](https://www.manager-magazin.de/ "manager magazin") [Harvard Business manager](https://www.manager-magazin.de/hbm/ "Harvard Business manager") [11FREUNDE](https://www.11freunde.de/ "11FREUNDE") [Werbung](https://spiegel.media/ "Werbung") [Jobs](https://www.spiegelgruppe.de/karriere/stellenboerse-in-der-spiegel-gruppe "Jobs") [MANUFAKTUR](https://manufaktur.spiegel.de/ "MANUFAKTUR") [SPIEGEL Akademie](https://akademie.spiegel.de/ "SPIEGEL Akademie") [SPIEGEL Ed](https://ed.spiegel.de/ "SPIEGEL Ed")
 
-[Impressum](https://www.spiegel.de/impressum "Impressum") [Datenschutz](https://www.spiegel.de/datenschutz-spiegel "Datenschutz") [Nutzungsbedingungen](https://www.spiegel.de/nutzungsbedingungen "Nutzungsbedingungen") [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen "Teilnahmebedingungen") [Cookies & Tracking](#sp_privacy_manager "Cookies & Tracking") [Newsletter](https://www.spiegel.de/newsletter "Newsletter") [Kontakt](https://www.spiegel.de/kontakt "Kontakt") [Hilfe](https://www.spiegel.de/services/ "Hilfe") [Text- & Nutzungsrechte](https://www.spiegelgruppe.de/syndication "Text- & Nutzungsrechte")
+[Impressum](https://www.spiegel.de/impressum "Impressum") [Datenschutz](https://www.spiegel.de/datenschutz-spiegel "Datenschutz") [Nutzungsbedingungen](https://www.spiegel.de/nutzungsbedingungen "Nutzungsbedingungen") [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen "Teilnahmebedingungen") [Cookies & Tracking](#sp_privacy_manager "Cookies & Tracking") [Newsletter](https://www.spiegel.de/newsletter "Newsletter") [Kontakt](https://www.spiegel.de/kontakt "Kontakt") [Hilfe & Service](https://www.spiegel.de/services/ "Hilfe & Service") [Text- & Nutzungsrechte](https://www.spiegelgruppe.de/syndication "Text- & Nutzungsrechte")
 
 [Facebook](https://www.facebook.com/DerSpiegel/ "Facebook") [Instagram](https://www.instagram.com/spiegelmagazin/ "Instagram") [Wo Sie uns noch folgen können](https://www.spiegel.de/backstage/bei-diesen-diensten-koennen-sie-dem-spiegel-folgen-a-a68cce85-8be8-4707-bd6e-0706090cbbbe "Wo Sie uns noch folgen können")
 
@@ -304,6 +304,7 @@ SPIEGEL Gruppe
     * [Fahrberichte](https://www.spiegel.de/auto/fahrberichte/ "Fahrberichte")
     * [Fahrkultur](https://www.spiegel.de/auto/fahrkultur/ "Fahrkultur")
 
+* [SPIEGEL in English](https://www.spiegel.de/international/ "SPIEGEL in English")
 * [Dein SPIEGEL](https://www.spiegel.de/deinspiegel/ "Dein SPIEGEL")
 * [Audio](https://www.spiegel.de/audio/ "Audio")
 * [Video](https://www.spiegel.de/video/ "Video")
