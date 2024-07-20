@@ -16,7 +16,7 @@ Toggle navigation [![Logo](/img/logo-pride.svg)](https://scrap.tf/)[![Logo](/img
         * AutoSell Hats
         
         * [Keys](https://scrap.tf/keys)
-        * [Price: 85.33/89.33](https://scrap.tf/keys)
+        * [Price: 57.33/61.00](https://scrap.tf/keys)
         * AutoSmelt Metal
         
         * [Items](https://scrap.tf/items)
@@ -67,7 +67,7 @@ Toggle navigation [![Logo](/img/logo-pride.svg)](https://scrap.tf/)[![Logo](/img
 * [Forum](https://scrap.tf/forum)
 * [Servers](#)
     * [Server 1 - Custom Gamemodes \[0/24\]](steam://connect/172.104.16.244:27015)
-    * [Server 2 - Hangout/Chill \[9/24\]](steam://connect/198.74.56.8:27015)
+    * [Server 2 - Hangout/Chill \[8/24\]](steam://connect/198.74.56.8:27015)
     
     * [Discord Server](https://discord.scrap.tf/)
     * [Sourcebans](https://bans.scrap.tf/)
