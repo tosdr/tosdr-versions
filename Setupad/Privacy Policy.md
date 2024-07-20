@@ -94,6 +94,8 @@ Products
 
 [Prebid Self-Serve](https://setupad.com/setupad-prebid-self-serve/)
 
+[Prebid Adapter](https://setupad.com/setupad-prebid-adapter/)
+
 [CMP](https://setupad.com/cmp/)
 
 [Wordpress Plugin](https://setupad.com/wordpress-plugin/)
