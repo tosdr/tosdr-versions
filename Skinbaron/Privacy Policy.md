@@ -479,6 +479,8 @@ Services +
 * 3D-Viewer
 * [SmokeBaron](https://skinbaron.de/smokebaron)
 * Screenshots
+* [ToS](https://skinbaron.de/en/tos)
+* [Privacy statement](https://skinbaron.de/en/privacy_policy)
 
 Get to know us +
 
@@ -514,9 +516,5 @@ EN | EUR (€)
 © 2024 SkinBaron GmbH
 
 [Legal notice](https://skinbaron.de/en/imprint)
-
-[ToS](https://skinbaron.de/en/tos)
-
-[Privacy statement](https://skinbaron.de/en/privacy_policy)
 
 Currently unavailable
