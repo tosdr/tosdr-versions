@@ -45,20 +45,36 @@ Toggle navigation
     
 * Solutions
     
-    For
+    By size
     
     * [Enterprise](https://github.com/enterprise)
     * [Teams](https://github.com/team)
     * [Startups](https://github.com/enterprise/startups)
-    * [Education](https://education.github.com/)
     
-    By Solution
+    By industry
+    
+    * [Healthcare](https://github.com/solutions/industries/healthcare)
+    * [Financial services](https://github.com/solutions/industries/financial-services)
+    * [Manufacturing](https://github.com/solutions/industries/manufacturing)
+    
+    By use case
     
     * [CI/CD & Automation](https://github.com/solutions/ci-cd)
     * [DevOps](https://github.com/solutions/devops)
     * [DevSecOps](https://github.com/solutions/devsecops)
     
-    Resources
+* Resources
+    
+    Topics
+    
+    * [AI](https://github.com/resources/articles/ai)
+    * [DevOps](https://github.com/resources/articles/devops)
+    * [Innersource](https://github.com/resources/articles/innersource)
+    * [Open Source](https://github.com/resources/articles/open-source)
+    * [Security](https://github.com/resources/articles/security)
+    * [Software Development](https://github.com/resources/articles/software-development)
+    
+    Explore
     
     * [Learning Pathways](https://resources.github.com/learn/pathways)
     * [White papers, Ebooks, Webinars](https://resources.github.com/)
@@ -145,7 +161,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2Fgorhill%2FuBlock) You must be signed in to change notification settings
 * [Fork 3k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
-* [Star 44.3k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Star 44.7k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
     
 
 * [Code](https://github.com/gorhill/uBlock)
@@ -187,7 +203,7 @@ The only time uBO connects to a remote server is to update the filter lists and 
 
 uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-### Toggle table of contents Pages 138
+### Toggle table of contents Pages 139
 
 * Loading
     
@@ -368,6 +384,10 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 * Loading
     
     [Does uBlock Origin block ads or just hide them?](https://github.com/gorhill/uBlock/wiki/Does-uBlock-Origin-block-ads-or-just-hide-them%3F)
+    
+* Loading
+    
+    [Does uBO has a parental control or password protection?](https://github.com/gorhill/uBlock/wiki/Does-uBO-has-a-parental-control-or-password-protection%3F)
     
 * Loading
     
@@ -741,7 +761,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     
     [µBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-vs.-ABP:-efficiency-compared)
     
-* Show 123 more pages…
+* Show 124 more pages…
 
 * [Wiki home](https://github.com/gorhill/uBlock/wiki/Home)
 * [Permissions](https://github.com/gorhill/uBlock/wiki/Permissions)
@@ -798,6 +818,7 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     * [About "This other extension reports more stuff blocked!"](https://github.com/gorhill/uBlock/wiki/About-%22This-other-extension-reports-more-stuff-blocked!%22)
     * [About "uBlock is inferior in capabilities as a result of being lighter on the browser"](https://github.com/gorhill/uBlock/wiki/About-%22uBlock-is-inferior-in-capabilities-as-a-result-of-being-lighter-on-the-browser%22)
     * [Does uBlock protect against fingerprinting?](https://github.com/gorhill/uBlock/wiki/Does-uBO-protect-against-fingerprinting%3F)
+    * [Does uBlock has parental control or password protection?](https://github.com/gorhill/uBlock/wiki/Does-uBO-has-a-parental-control-or-password-protection%3F)
 * uBlock's resource usage and efficiency:
     * [Memory footprint: what happens inside uBlock after installation](https://github.com/gorhill/uBlock/wiki/Memory-footprint:-what-happens-inside-uBlock-after-installation)
     * [uBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/uBlock-vs.-ABP:-efficiency-compared)
