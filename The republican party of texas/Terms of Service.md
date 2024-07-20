@@ -55,7 +55,7 @@ Skip links
     [2024 Primary Runoff Canvass](https://texasgop.org/2024-primary-runoff-canvass/)
     --------------------------------------------------------------------------------
     
-    [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/) | [Legislative Priorities](https://texasgop.org/category/legislative-priorities/)
+    [Legislative Priorities](https://texasgop.org/category/legislative-priorities/) | [Press releases](https://texasgop.org/category/press-releases/) | [Statement](https://texasgop.org/category/statement/)
     
     [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
     -------------------------------------------------------------------------------------------------------------------
@@ -134,7 +134,7 @@ X
     * [About Chairman Abraham George](https://texasgop.org/about-chairman-abraham-george/)
     * [About Vice-Chair D’rinda Randall](https://texasgop.org/about-vice-chair-drinda-randall/)
     * [RPT Staff](https://texasgop.org/rpt-staff/)
-    * [Partnerships & Auxiliaries](https://texasgop.org/partnerships-auxiliaries/)
+    * [Partnerships & Coalitions](https://texasgop.org/partnerships-coalitions/)
 * [News](#)
     * [News](https://texasgop.org/news/)
     * [Media Requests](https://texasgop.org/media-requests/)
@@ -166,7 +166,7 @@ X
     * [About Chairman Abraham George](https://texasgop.org/about-chairman-abraham-george/)
     * [About Vice-Chair D’rinda Randall](https://texasgop.org/about-vice-chair-drinda-randall/)
     * [RPT Staff](https://texasgop.org/rpt-staff/)
-    * [Partnerships & Auxiliaries](https://texasgop.org/partnerships-auxiliaries/)
+    * [Partnerships & Coalitions](https://texasgop.org/partnerships-coalitions/)
 * [News](#)
     * [News](https://texasgop.org/news/)
     * [Media Requests](https://texasgop.org/media-requests/)
@@ -320,7 +320,7 @@ Consent(Required)
 
  I agree to opt in to text messages and/or emails from the Republican Party of Texas\*(Required)
 
-Text "Texas" to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information. By participating, you agree to the terms & privacy policy for auto dialed messages from The Republican Party of Texas to the phone number you provide. No consent is required to buy. Msg&data rates may apply. Privacy Policy can be found here.
+Text "Texas" to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information. By participating, you agree to the terms & privacy policy for auto dialed messages from The Republican Party of Texas to the phone number you provide. No consent is required to buy. Msg&data rates may apply. [Privacy Policy](https://texasgop.org/privacy-policy/) can be found here.
 
         
 
@@ -339,7 +339,7 @@ Without a doubt, Texas is the strongest Republican state in the nation.
 * [SREC](https://texasgop.org/leadership-category/state-republican-executive-committee/)
 * [SREC Reports](https://texasgop.org/official-documents/#lqd-tab-7304)
 * [Victory](https://deployyourvote.com/)
-* [Partners](https://texasgop.org/partnerships-auxiliaries/)
+* [Partners](https://texasgop.org/partnerships-coalitions/)
 * [Candidate Resource Committee](https://texasgop.org/crc/)
 
 * [Bylaws](https://texasgop.org/official-documents/#lqd-tab-7305)
@@ -351,7 +351,7 @@ Without a doubt, Texas is the strongest Republican state in the nation.
 * [SREC](https://texasgop.org/leadership-category/state-republican-executive-committee/)
 * [SREC Reports](https://texasgop.org/official-documents/#lqd-tab-7304)
 * [Victory](https://deployyourvote.com/)
-* [Partners](https://texasgop.org/partnerships-auxiliaries/)
+* [Partners](https://texasgop.org/partnerships-coalitions/)
 * [Candidate Resource Committee](https://texasgop.org/crc/)
 
 #### Elections
