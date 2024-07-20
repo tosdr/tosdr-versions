@@ -46,7 +46,7 @@ Hopefully that has clarified things for you and as was previously mentioned if t
 
 However if you are still looking for more information then you can contact us through one of our preferred contact methods:
 
-* Email: [\[email protected\]](https://premid.app/cdn-cgi/l/email-protection)
+* Email: contact@premid.app
 
 Ready to use PreMiD?
 
