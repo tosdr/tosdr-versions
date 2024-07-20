@@ -1,43 +1,3 @@
-#### Cookie Settings
-
-**Accept Optional Cookies:**
-
-Tellwut uses advertising to support the platform and to provide you with access to our services. We use advertising technologies from third-party vendors, including Publisher First, Inc. dba Freestar and Google AdSense, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites to provide advertisements about goods and services that may be of interest to you. This may include the use of cookies, web beacons, or other similar technologies to help them better understand your preferences based on your online activity. For details on how these work please visit our [Privacy Policy](https://www.tellwut.com/privacy_policy) under “Advertising” section.
-
-Please note that if you choose to disable cookies, you may still see advertisements on our website, but they may not be tailored to your interests.
-
-We take your privacy very seriously and strive to be transparent about our advertising practices. If you have any questions or concerns about our use of advertising technologies, please contact us at [support@tellwut.com](mailto:support@tellwut.com)
-
-**Strictly Necessary Cookies** → **Always Active**
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
-
-* **Targeting Cookies**
-    
-    These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-    
-
-* * *
-
-**Sale of Personal Data**
-
-Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.
-
-If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.
-
-* **Performance Cookies**
-    
-    These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-    
-
-Accept Selected
-
-This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising, and analytics partners.
-
-[Accept Cookies](https://www.tellwut.com/home/cookieConsent?accept=all&p=/privacy_policy)
-
-Cookie settings
-
 [](https://www.tellwut.com/)
 
 Sign Up Login
@@ -122,7 +82,7 @@ Take surveys and collect rewards from the industry-leading e-commerce website, A
 Privacy Policy
 ==============
 
-Paradigm Sample, LLC. ("PS") is a US market research company that oversees operation  of [www.tellwut.com](http://www.tellwut.com/), a social networking site (the "Site") together with its Canadian affiliate, who owns the Site (individually and collectively referred to in this policy as  “We” ).  The Site which allows users to post online surveys, answer surveys, either Internal  surveys or third party surveys ( "External Surveys") from other companies ( "External Survey Company" or External Survey Companies") engaged by PS.  The Site also allows participants to  refer friends to the Site to similarly post and answer internal surveys and External Surveys, and provide certain personal information about themselves all while earning rewards that can be redeemed for merchandise under the TW Rewards Program. The Site also allows businesses and other organizations or individuals to participate in a variety of fee-based programs regarding the posting of surveys and the collection of survey data.
+Paradigm Sample, LLC. ("PS") is a US market research company that oversees operation  of [www.tellwut.com](https://www.tellwut.com/), a social networking site (the "Site") together with its Canadian affiliate, who owns the Site (individually and collectively referred to in this policy as  “We” ).  The Site which allows users to post online surveys, answer surveys, either Internal  surveys or third party surveys ( "External Surveys") from other companies ( "External Survey Company" or External Survey Companies") engaged by PS.  The Site also allows participants to  refer friends to the Site to similarly post and answer internal surveys and External Surveys, and provide certain personal information about themselves all while earning rewards that can be redeemed for merchandise under the TW Rewards Program. The Site also allows businesses and other organizations or individuals to participate in a variety of fee-based programs regarding the posting of surveys and the collection of survey data.
 
 This **Privacy Policy** ("Policy") and the **Terms and Conditions** contain important details about registration and participation in the Site and the TW Rewards Program. Please read them carefully. This Policy was last modified on: Novemer 22, 2023.
 
@@ -235,7 +195,7 @@ We take your privacy very seriously and strive to be transparent about our adver
 
 **Does the Site use Google Analytics?**
 
-Yes, the Site uses Google Analytics, a web analytics tool provided by Google, Inc. ("Google") that helps us understand how visitors engage with our website. Google Analytics uses cookies and IP addresses. The information generated by cookies about the use of our website and your IP address will be transmitted and stored by Google on servers in the United States. Google will use this information to evaluate how visitors use our website, compile reports on website activity for us and provide other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google Analytics collects information anonymously, and will not associate your IP address with any other data held by Google. To opt-out of Google Analytics, you can install Google Analytics Opt-out Browser Add-On. For information about and to install Google Analytics Opt-out Browser Add-on, click here: [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en) For more information related to Google Analytics, click here: [http://www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)
+Yes, the Site uses Google Analytics, a web analytics tool provided by Google, Inc. ("Google") that helps us understand how visitors engage with our website. Google Analytics uses cookies and IP addresses. The information generated by cookies about the use of our website and your IP address will be transmitted and stored by Google on servers in the United States. Google will use this information to evaluate how visitors use our website, compile reports on website activity for us and provide other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google Analytics collects information anonymously, and will not associate your IP address with any other data held by Google. To opt-out of Google Analytics, you can install Google Analytics Opt-out Browser Add-On. For information about and to install Google Analytics Opt-out Browser Add-on, click here: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en) For more information related to Google Analytics, click here: [https://support.google.com/analytics/answer/6004245?hl=en](https://support.google.com/analytics/answer/6004245?hl=en)
 
 **How do We use IP addresses or website log files?**
 
@@ -263,7 +223,7 @@ Any Personal Information you provide to us and any content posted on the Site is
 
 For all users (Unregistered Users & Members), your use of the Site constitutes your consent to the collection and use of non-personal information such as cookie information, website logs and IP addresses by us as described in this Policy. By providing your Account Information on registering as Members, you consent to the collection and use of any Personal Information by us as described in this Policy and agree to receive email survey invitations to participate in surveys.
 
-We will post changes to this Policy at [www.tellwut.com](http://www.tellwut.com/), as described above. Your continued use of the Site will constitute your consent to the changes to the Policy. It is your responsibility to check the "last modified" date of the Policy periodically.
+We will post changes to this Policy at [www.tellwut.com](https://www.tellwut.com/), as described above. Your continued use of the Site will constitute your consent to the changes to the Policy. It is your responsibility to check the "last modified" date of the Policy periodically.
 
 **How do I contact Us?**
 
@@ -285,7 +245,7 @@ This Policy is subject to applicable national privacy laws such as the Children'
 
 Please see our [Copyright Policy and Claims Page](https://www.tellwut.com/copyright_policy_and_claims) for information on DMCA registration and Take Down policy.
 
-© 2023 Paradigm. All rights reserved.
+© 2024 Paradigm. All rights reserved.
 
 Member polls
 
@@ -393,13 +353,13 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 
 * [Privacy Policy](https://www.tellwut.com/privacy_policy)
 * [Terms & Conditions](https://www.tellwut.com/terms-and-conditions)
-* [Affiliate](https://www.tellwut.com/affilates)
+* [Affiliate](https://www.tellwut.com/affiliates)
 * [Advertising](https://www.tellwut.com/advertising)
 
-* Surveys: **89,393**
+* Surveys: **89,831**
 
-* Voters: **2,650,872**
-
-* Cookie settings
+* Voters: **2,691,931**
 
 * Light / Dark / Auto
+
+Privacy Manager
