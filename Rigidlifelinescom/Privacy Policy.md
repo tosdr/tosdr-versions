@@ -4,9 +4,7 @@
 
 [Skip to content](#fl-main-content)
 
-[![Rigid-LifeLines-Logo-PtP](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203071%201373'%3E%3C/svg%3E "Rigid-LifeLines-Logo-PtP")
-
-![Rigid-LifeLines-Logo-PtP](https://www.rigidlifelines.com/wp-content/uploads/2020/02/Rigid-LifeLines-Logo-PtP.png "Rigid-LifeLines-Logo-PtP")](https://www.rigidlifelines.com/)
+[![Rigid-LifeLines-Logo-PtP](https://www.rigidlifelines.com/wp-content/uploads/2020/02/Rigid-LifeLines-Logo-PtP.png "Rigid-LifeLines-Logo-PtP")](https://www.rigidlifelines.com/)
 
 * [Rigid Lifelines Configurator](https://www.rigidlifelinesconfigurator.com/)
 * [Architects & Engineers Portal](http://microsite.caddetails.com/5180)
