@@ -2,77 +2,165 @@
 
 [![SmartDeploy logo](//images.ctfassets.net/jizxy0othtmu/1QZUbLGviyGo4BTVItLw8y/68ca5177fa9ff6c4520c4b9daf70277e/SD_logo.svg)](https://www.smartdeploy.com/)
 
-Product
-
-[Features](https://www.smartdeploy.com/solutions/)  
-[Image new PCs, report on device status, and update endpoints with just a few clicks](https://www.smartdeploy.com/solutions/)
-
-[Platform Pack library](https://www.smartdeploy.com/platform-packs/)   
-[Explore our library of over 1500 device drivers, covering all major manufacturer makes and models](https://www.smartdeploy.com/platform-packs/)
-
-[Application Pack library](https://www.smartdeploy.com/support/application-packs/)  
-[Deploy software, patches, and scripts with our pre-built and customizable Application Packs](https://www.smartdeploy.com/support/application-packs/)
-
-[Comparisons](https://www.smartdeploy.com/comparisons/)  
-[See how SmartDeploy’s computer imaging solution stacks up against the competition](https://www.smartdeploy.com/comparisons/)
-
-[Demo request](https://www.smartdeploy.com/request-a-demo/)  
-[Interested in learning what SmartDeploy can do for your business?](https://www.smartdeploy.com/request-a-demo/)
-
-[Product security](https://www.smartdeploy.com/product-security/)  
-[We're committed to top-tier security measures](https://www.smartdeploy.com/product-security/)
-
-Use cases
-
-[Construction](https://www.smartdeploy.com/use-case/construction/)  
-[Seamless Windows deployment to lay the right foundations](https://www.smartdeploy.com/use-case/construction/)
-
-[Education](https://www.smartdeploy.com/use-case/education-it/)  
-[Smarter endpoint management to support next-gen classrooms](https://www.smartdeploy.com/use-case/education-it/)
-
-[Finance](https://www.smartdeploy.com/use-case/finance/)  
-[Device management for high-performing financial systems](https://www.smartdeploy.com/use-case/finance/)
-
-[Government](https://www.smartdeploy.com/use-case/government-it/)  
-[Optimized IT operations to serve communities at scale](https://www.smartdeploy.com/use-case/government-it/)
-
-[Healthcare](https://www.smartdeploy.com/use-case/healthcare-it/)  
-[Endpoint management to support quality healthcare](https://www.smartdeploy.com/use-case/healthcare-it/)
-
-[Nonprofit](https://www.smartdeploy.com/use-case/nonprofit/)  
-[Computer imaging software that makes a difference](https://www.smartdeploy.com/use-case/nonprofit/)
-
-Resources
-
-[Blog](https://www.smartdeploy.com/blog/)  
-[Read the latest product updates and features for SmartDeploy](https://www.smartdeploy.com/blog/)
-
-[Support center](https://smartdeploy.pdq.com/hc/en-us)  
-[Get answers to common questions with our extensive documentation](https://smartdeploy.pdq.com/hc/en-us)
-
-[Case studies](https://www.smartdeploy.com/customers/)  
-[See why our customers can't live without our products](https://www.smartdeploy.com/customers/)
-
-[Webcasts](https://www.smartdeploy.com/events/)  
-[Attend live or on-demand webcasts to learn about SmartDeploy](https://www.smartdeploy.com/events/)
-
-[Product guide](https://www.smartdeploy.com/download/trial-guide/)  
-[Get up and running quickly with easy step-by-step instructions](https://www.smartdeploy.com/download/trial-guide/)
-
-[Product roadmap](https://www.smartdeploy.com/roadmap/)  
-[Product roadmap](https://www.smartdeploy.com/roadmap/)
-
-[Pricing](https://www.smartdeploy.com/buy/ "Pricing")
-
-[Sign in](https://register.smartdeploy.com/signin/ "Sign in")
+* Product
+    
+* Use cases
+    
+* Resources
+    
+* [Pricing](https://www.smartdeploy.com/buy/)
 
 [Request a demo](https://www.smartdeploy.com/request-a-demo/)[Download trial](https://www.smartdeploy.com/download/)
+
+[![Log in icon](//images.ctfassets.net/jizxy0othtmu/3kft0zE1xwzhw94eRoZqBO/5e335fa5329f307c4437f313a7ffac0c/Log_in_icon.svg)Log in](https://register.smartdeploy.com/signin/ "Log in")
+
+### Product
+
+FEATURES
+
+Streamline your endpoint management
+
+* [![Overview icon](//images.ctfassets.net/jizxy0othtmu/6dC7Q26ENUCOn0puGUZzTc/7a5a26f87e46657971397bdb526e41d9/Overview_icon.svg)Overview](https://www.smartdeploy.com/solutions/)
+* [![Platform pack icon](//images.ctfassets.net/jizxy0othtmu/5iQfnq8tYoV0YmqvELdKAI/1d01cb7c9096f062cd830a00ed740a5c/Platform_pack_icon.svg)Platform Pack library](https://www.smartdeploy.com/platform-packs/)
+* [![Application Pack Library icon](//images.ctfassets.net/jizxy0othtmu/6sSIWQYijuNkHnivOXPI8Y/ccee82a5ff41a3db15c5bbd613c89564/Application_Pack_Library_icon.svg)Application Pack library](https://www.smartdeploy.com/support/application-packs/)
+* [![Comparisons icon](//images.ctfassets.net/jizxy0othtmu/7Dxw4PRMoUCRApRSaQ1DBd/a513f1ca9dfe43a13f5f93f693c22892/Comparisons_icon.svg)Comparisons](https://www.smartdeploy.com/comparisons/)
+
+PRODUCT INFO
+
+A peek behind the curtain
+
+* [![Security overview icon](//images.ctfassets.net/jizxy0othtmu/2zkoMAtbCHsTLAOq46gwnW/259c533d421cd00c3aed97b11bab4b5e/Security_overview_icon.svg)Security overview](https://www.smartdeploy.com/product-security/)
+* [![Product status icon](//images.ctfassets.net/jizxy0othtmu/79XiGdZjFI3GMoAaPLL0j6/7302c5483ba53756d75f706993f32fb0/Product_status_icon.svg)Product status](https://pdq.statuspage.io/)
+* [![Release notes icon](//images.ctfassets.net/jizxy0othtmu/2tDwV947fnvPPjHpmbPfiO/2306c8345826421cd36004b8c47e759a/Release_notes_icon.svg)Release notes](https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule)
+* [![Product Roadmap icon 1](//images.ctfassets.net/jizxy0othtmu/29qpiiMMgmQ3dnWPEg26wg/f18e3c45bbe6b817cee9c5a03f1018df/Product_Roadmap_icon_1.svg)Product roadmap](https://www.smartdeploy.com/roadmap/)
+
+### Use cases
+
+BY INDUSTRY
+
+Scalable solutions for every sector
+
+* [![Education icon](//images.ctfassets.net/jizxy0othtmu/26hxo4FfZPAB8SzEyhq8Qq/49d86e62e3294fc3032a204527ffb35f/Education_icon.svg)Education](https://www.smartdeploy.com/use-case/education-it/)
+* [![Government icon](//images.ctfassets.net/jizxy0othtmu/2cP6X9gENJEWRqE2WgnVWD/da0dc2e74c935187be06d0b075fb3c72/Government_icon.svg)Government](https://www.smartdeploy.com/use-case/government-it/)
+* [![Healthcare icon](//images.ctfassets.net/jizxy0othtmu/21c1GnWcHXqF1lwNcGOpuv/6ed6a823c8ba2a956af90cd383886e67/Healthcare_icon.svg)Healthcare](https://www.smartdeploy.com/use-case/healthcare-it/)
+* [![Finance icon](//images.ctfassets.net/jizxy0othtmu/4gmbb7ele6mRDbMcFj0Uqv/fb69eb2b1d84e0ac651d8a0da673ee47/Finance_icon.svg)Finance](https://www.smartdeploy.com/use-case/finance/)
+* [![Non-profit icon](//images.ctfassets.net/jizxy0othtmu/1SapbAZFzEYDPPOFdPJcIb/87a1c5405cbca78e38cd9cb3deccdb4c/Non-profit_icon.svg)Non-profit](https://www.smartdeploy.com/use-case/nonprofit/)
+* [![Construction icon](//images.ctfassets.net/jizxy0othtmu/1eBb3lZj8yBLJS4X2qUCEF/1ae228461de8ca83404a98b0e06c7a8d/Construction_icon.svg)Construction](https://www.smartdeploy.com/use-case/construction/)
+
+BY JOB TO BE DONE
+
+So many jobs to do, so little time
+
+* [![Computer imaging icon](//images.ctfassets.net/jizxy0othtmu/1dd0iCsh4RgDNNnUvEOSIW/30558b4e8961dd715725dc6a22076c0e/Computer_imaging_icon.svg)Computer imaging](https://www.smartdeploy.com/solutions/computer-imaging/)
+* [![Remote computer imaging icon](//images.ctfassets.net/jizxy0othtmu/7wzAsV3olDHB7ZSSXWSpPY/057acd02cedc64a327a01b5fc235f2d5/Remote_computer_imaging_icon.svg)Remote computer imaging](https://www.smartdeploy.com/solutions/remote-computer-imaging/)
+* [![Software and application deployment icon](//images.ctfassets.net/jizxy0othtmu/4PZ4rVOLlSie3ql9xW7z2m/b4ede362c6479eb8188e2bfa0de7b05e/Software_and_application_deployment_icon.svg)Software and application deployment](https://www.smartdeploy.com/solutions/software-and-application-deployment/)
+* [![Desktop management icon](//images.ctfassets.net/jizxy0othtmu/6fgSvwPMpH1cDht1OcKe8v/1f166205da45b7e1141b94a43a99bd6d/Desktop_management_icon.svg)Desktop management](https://www.smartdeploy.com/solutions/desktop-management/)
+* [![Remote computer imaging icon](//images.ctfassets.net/jizxy0othtmu/7wzAsV3olDHB7ZSSXWSpPY/057acd02cedc64a327a01b5fc235f2d5/Remote_computer_imaging_icon.svg)Remote desktop management](https://www.smartdeploy.com/solutions/remote-desktop-management/)
+* [![Windows icon](//images.ctfassets.net/jizxy0othtmu/3AeF4nJpkyJhFuPKmx28fJ/740cbe66e21507230b41d82304c077bf/Windows_icon.svg)Windows migration](https://www.smartdeploy.com/solutions/windows-migration/)
+
+### Resources
+
+LEARN
+
+Insights to get the most out of SmartDeploy
+
+* [![Blog icon](//images.ctfassets.net/jizxy0othtmu/4ZOSjLcirp3vLhNPafqedP/2b059646af203fe9248a2bc90a5e69e5/Blog_icon.svg)Blog](https://www.smartdeploy.com/blog/)
+* [![Knowledge Base icon](//images.ctfassets.net/jizxy0othtmu/6MSiEEGD2gkRwXqQoMoE6P/c74756d0b8ce818749d84077f02bfbcd/Knowledge_Base_icon.svg)Knowledge Base](https://smartdeploy.pdq.com/hc/en-us)
+* [![Trial guide icon](//images.ctfassets.net/jizxy0othtmu/1kBLUXUCRfUOf3qts4MSSB/61a7ed4e11dca23555cbf6751901418a/Trial_guide_icon.svg)Product guide](https://www.smartdeploy.com/download/trial-guide/)
+* [![Case studies icon](//images.ctfassets.net/jizxy0othtmu/7IOxXQSPRq1Y0DLZZYj6uu/aff2856f2670257da842fda02c8fe878/Case_studies_icon.svg)Case studies](https://www.smartdeploy.com/customers/)
+* [![Webcasts icon](//images.ctfassets.net/jizxy0othtmu/1JXUpAoDqw4wWr1BwVnsBX/47e25f7b9ab877242cec2494e2e1b997/Webcasts_icon.svg)Webcasts](https://www.smartdeploy.com/events/)
+
+ENGAGE
+
+Connect with other sysadmins like you
+
+* [![Contact support icon](//images.ctfassets.net/jizxy0othtmu/76WUIXZXfvIMhzx1gQvtlS/ddebd338aa6578004634ae9e7e9df24f/Contact_support_icon.svg)Contact support](https://smartdeploy.pdq.com/hc/en-us/requests/new)
+* [![Discord community icon](//images.ctfassets.net/jizxy0othtmu/2ebUptHYhqYETJi31L2kdZ/6ed46793f6158497df129b7a388cf8a0/Discord_community_icon.svg)Discord community](https://discord.com/invite/pdq)
+* [\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
+
+### Pricing
+
+FEATURES
+
+Streamline your endpoint management
+
+* [![Overview icon](//images.ctfassets.net/jizxy0othtmu/6dC7Q26ENUCOn0puGUZzTc/7a5a26f87e46657971397bdb526e41d9/Overview_icon.svg)Overview](https://www.smartdeploy.com/solutions/)
+* [![Platform pack icon](//images.ctfassets.net/jizxy0othtmu/5iQfnq8tYoV0YmqvELdKAI/1d01cb7c9096f062cd830a00ed740a5c/Platform_pack_icon.svg)Platform Pack library](https://www.smartdeploy.com/platform-packs/)
+* [![Application Pack Library icon](//images.ctfassets.net/jizxy0othtmu/6sSIWQYijuNkHnivOXPI8Y/ccee82a5ff41a3db15c5bbd613c89564/Application_Pack_Library_icon.svg)Application Pack library](https://www.smartdeploy.com/support/application-packs/)
+* [![Comparisons icon](//images.ctfassets.net/jizxy0othtmu/7Dxw4PRMoUCRApRSaQ1DBd/a513f1ca9dfe43a13f5f93f693c22892/Comparisons_icon.svg)Comparisons](https://www.smartdeploy.com/comparisons/)
+
+PRODUCT INFO
+
+A peek behind the curtain
+
+* [![Security overview icon](//images.ctfassets.net/jizxy0othtmu/2zkoMAtbCHsTLAOq46gwnW/259c533d421cd00c3aed97b11bab4b5e/Security_overview_icon.svg)Security overview](https://www.smartdeploy.com/product-security/)
+* [![Product status icon](//images.ctfassets.net/jizxy0othtmu/79XiGdZjFI3GMoAaPLL0j6/7302c5483ba53756d75f706993f32fb0/Product_status_icon.svg)Product status](https://pdq.statuspage.io/)
+* [![Release notes icon](//images.ctfassets.net/jizxy0othtmu/2tDwV947fnvPPjHpmbPfiO/2306c8345826421cd36004b8c47e759a/Release_notes_icon.svg)Release notes](https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule)
+* [![Product Roadmap icon 1](//images.ctfassets.net/jizxy0othtmu/29qpiiMMgmQ3dnWPEg26wg/f18e3c45bbe6b817cee9c5a03f1018df/Product_Roadmap_icon_1.svg)Product roadmap](https://www.smartdeploy.com/roadmap/)
+
+[![smartdeploy product roadmap](//images.ctfassets.net/jizxy0othtmu/1nmCo7f1FDbSXbubg9Hokf/32adcb77b14e808977002852fcef69b1/smartdeploy_product_roadmap_2x.webp)](https://www.smartdeploy.com/roadmap/)
+
+See what features and enhancements are on the SmartDeploy roadmap
+
+[Learn more ->](https://www.smartdeploy.com/roadmap/)
+
+BY INDUSTRY
+
+Scalable solutions for every sector
+
+* [![Education icon](//images.ctfassets.net/jizxy0othtmu/26hxo4FfZPAB8SzEyhq8Qq/49d86e62e3294fc3032a204527ffb35f/Education_icon.svg)Education](https://www.smartdeploy.com/use-case/education-it/)
+* [![Government icon](//images.ctfassets.net/jizxy0othtmu/2cP6X9gENJEWRqE2WgnVWD/da0dc2e74c935187be06d0b075fb3c72/Government_icon.svg)Government](https://www.smartdeploy.com/use-case/government-it/)
+* [![Healthcare icon](//images.ctfassets.net/jizxy0othtmu/21c1GnWcHXqF1lwNcGOpuv/6ed6a823c8ba2a956af90cd383886e67/Healthcare_icon.svg)Healthcare](https://www.smartdeploy.com/use-case/healthcare-it/)
+* [![Finance icon](//images.ctfassets.net/jizxy0othtmu/4gmbb7ele6mRDbMcFj0Uqv/fb69eb2b1d84e0ac651d8a0da673ee47/Finance_icon.svg)Finance](https://www.smartdeploy.com/use-case/finance/)
+* [![Non-profit icon](//images.ctfassets.net/jizxy0othtmu/1SapbAZFzEYDPPOFdPJcIb/87a1c5405cbca78e38cd9cb3deccdb4c/Non-profit_icon.svg)Non-profit](https://www.smartdeploy.com/use-case/nonprofit/)
+* [![Construction icon](//images.ctfassets.net/jizxy0othtmu/1eBb3lZj8yBLJS4X2qUCEF/1ae228461de8ca83404a98b0e06c7a8d/Construction_icon.svg)Construction](https://www.smartdeploy.com/use-case/construction/)
+
+BY JOB TO BE DONE
+
+So many jobs to do, so little time
+
+* [![Computer imaging icon](//images.ctfassets.net/jizxy0othtmu/1dd0iCsh4RgDNNnUvEOSIW/30558b4e8961dd715725dc6a22076c0e/Computer_imaging_icon.svg)Computer imaging](https://www.smartdeploy.com/solutions/computer-imaging/)
+* [![Remote computer imaging icon](//images.ctfassets.net/jizxy0othtmu/7wzAsV3olDHB7ZSSXWSpPY/057acd02cedc64a327a01b5fc235f2d5/Remote_computer_imaging_icon.svg)Remote computer imaging](https://www.smartdeploy.com/solutions/remote-computer-imaging/)
+* [![Software and application deployment icon](//images.ctfassets.net/jizxy0othtmu/4PZ4rVOLlSie3ql9xW7z2m/b4ede362c6479eb8188e2bfa0de7b05e/Software_and_application_deployment_icon.svg)Software and application deployment](https://www.smartdeploy.com/solutions/software-and-application-deployment/)
+* [![Desktop management icon](//images.ctfassets.net/jizxy0othtmu/6fgSvwPMpH1cDht1OcKe8v/1f166205da45b7e1141b94a43a99bd6d/Desktop_management_icon.svg)Desktop management](https://www.smartdeploy.com/solutions/desktop-management/)
+* [![Remote computer imaging icon](//images.ctfassets.net/jizxy0othtmu/7wzAsV3olDHB7ZSSXWSpPY/057acd02cedc64a327a01b5fc235f2d5/Remote_computer_imaging_icon.svg)Remote desktop management](https://www.smartdeploy.com/solutions/remote-desktop-management/)
+* [![Windows icon](//images.ctfassets.net/jizxy0othtmu/3AeF4nJpkyJhFuPKmx28fJ/740cbe66e21507230b41d82304c077bf/Windows_icon.svg)Windows migration](https://www.smartdeploy.com/solutions/windows-migration/)
+
+[![WallaWalla 01](//images.ctfassets.net/jizxy0othtmu/3jhTyE4yQ9xCsCllM7PyC1/d8f3cbbb302a55f9a194597cecf3f772/WallaWalla_01.png)](https://www.smartdeploy.com/customers/walla-walla-university/)
+
+Case study
+
+How WWU streamlines computer imaging for 100+ devices
+
+[Learn more ->](https://www.smartdeploy.com/customers/walla-walla-university/)
+
+LEARN
+
+Insights to get the most out of SmartDeploy
+
+* [![Blog icon](//images.ctfassets.net/jizxy0othtmu/4ZOSjLcirp3vLhNPafqedP/2b059646af203fe9248a2bc90a5e69e5/Blog_icon.svg)Blog](https://www.smartdeploy.com/blog/)
+* [![Knowledge Base icon](//images.ctfassets.net/jizxy0othtmu/6MSiEEGD2gkRwXqQoMoE6P/c74756d0b8ce818749d84077f02bfbcd/Knowledge_Base_icon.svg)Knowledge Base](https://smartdeploy.pdq.com/hc/en-us)
+* [![Trial guide icon](//images.ctfassets.net/jizxy0othtmu/1kBLUXUCRfUOf3qts4MSSB/61a7ed4e11dca23555cbf6751901418a/Trial_guide_icon.svg)Product guide](https://www.smartdeploy.com/download/trial-guide/)
+* [![Case studies icon](//images.ctfassets.net/jizxy0othtmu/7IOxXQSPRq1Y0DLZZYj6uu/aff2856f2670257da842fda02c8fe878/Case_studies_icon.svg)Case studies](https://www.smartdeploy.com/customers/)
+* [![Webcasts icon](//images.ctfassets.net/jizxy0othtmu/1JXUpAoDqw4wWr1BwVnsBX/47e25f7b9ab877242cec2494e2e1b997/Webcasts_icon.svg)Webcasts](https://www.smartdeploy.com/events/)
+
+ENGAGE
+
+Connect with other sysadmins like you
+
+* [![Contact support icon](//images.ctfassets.net/jizxy0othtmu/76WUIXZXfvIMhzx1gQvtlS/ddebd338aa6578004634ae9e7e9df24f/Contact_support_icon.svg)Contact support](https://smartdeploy.pdq.com/hc/en-us/requests/new)
+* [![Discord community icon](//images.ctfassets.net/jizxy0othtmu/2ebUptHYhqYETJi31L2kdZ/6ed46793f6158497df129b7a388cf8a0/Discord_community_icon.svg)Discord community](https://discord.com/invite/pdq)
+* [\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
+
+[![StateofSysadmin](//images.ctfassets.net/jizxy0othtmu/2Xk2mpE9StOSsUX3LVKnYy/1cb54a2c394cb5601dbb4cd0f3d01eea/StateofSysadmin.svg)](https://www.pdq.com/state-of-sysadmin/download/)
+
+[Read our 2024 State of System Administration ->](https://www.pdq.com/state-of-sysadmin/download/)
 
 Terms of Use
 ============
 
 Terms of Use
-------------
+============
 
 _Last updated: April 12, 2023_
 
@@ -276,38 +364,26 @@ Call us: 888-7DEPLOY | [\[email protected\]](https://www.smartdeploy.com/cdn-cg
 
 © 2024 SmartDeploy - All Rights Reserved
 
-Company
-
-* [About](https://www.pdq.com/about/)
-* [Careers](https://www.pdq.com/careers/)
-* [EULA](https://www.pdq.com/eula/)
-* [Security](https://www.smartdeploy.com/product-security/)
-* [Terms and privacy](https://www.smartdeploy.com/terms-privacy/)
-
 PDQ products
 
 * [SmartDeploy](https://www.smartdeploy.com/)
 * [PDQ Connect](https://www.pdq.com/pdq-connect/)
-* [PDQ Detect](https://www.pdq.com/pdq-detect/)
 * [PDQ Deploy](https://www.pdq.com/pdq-deploy/)
 * [PDQ Inventory](https://www.pdq.com/pdq-inventory/)
+* [PDQ Detect](https://www.pdq.com/pdq-detect/)
 * [SimpleMDM](https://simplemdm.com/)
 
 Resources
 
 * [Blog](https://www.smartdeploy.com/blog/)
-* [Support center](https://smartdeploy.pdq.com/hc/en-us)
-* [Case studies](https://www.smartdeploy.com/customers/)
-* [Webcasts](https://www.smartdeploy.com/events/)
+* [Knowledge base](https://smartdeploy.pdq.com/hc/en-us)
+* [Solutions](https://www.smartdeploy.com/solutions/)
 * [Product guide](https://www.smartdeploy.com/download/trial-guide/)
-* [Product roadmap](https://www.smartdeploy.com/roadmap/)
 * [\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
 
-Solutions
+Company
 
-* [Computer imaging](https://www.smartdeploy.com/solutions/computer-imaging/)
-* [Remote computer imaging](https://www.smartdeploy.com/solutions/remote-computer-imaging/)
-* [Software and application deployment](https://www.smartdeploy.com/solutions/software-and-application-deployment/)
-* [Desktop management](https://www.smartdeploy.com/solutions/desktop-management/)
-* [Remote desktop management](https://www.smartdeploy.com/solutions/remote-desktop-management/)
-* [Windows migration](https://www.smartdeploy.com/solutions/windows-migration/)
+* [About](https://www.pdq.com/about/)
+* [Careers](https://www.pdq.com/careers/)
+* [EULA](https://www.pdq.com/eula/)
+* [Terms and privacy](https://www.smartdeploy.com/terms-privacy/)
