@@ -56,7 +56,7 @@ Follow Us
 
 Back to Main Menu About Verisign
 
-* [Overview](https://www.verisign.com/en_US/company-information/index.xhtml) [Mission and Values](https://www.verisign.com/en_US/company-information/mission-values/index.xhtml)\\ [Newsroom](https://www.verisign.com/en_US/internet-technology-news/index.xhtml) [Executive Team](https://www.verisign.com/en_US/company-information/jim-bidzos/index.xhtml) [Careers](https://www.verisign.com/en_US/company-information/verisign-careers/index.xhtml) [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) [Blog](https://blog.verisign.com/) [Contact Us](https://www.verisign.com/en_US/company-information/contact-us/index.xhtml) [Investors](https://investor.verisign.com/index.cfm)
+* [Overview](https://www.verisign.com/en_US/company-information/index.xhtml) [Mission and Values](https://www.verisign.com/en_US/company-information/mission-values/index.xhtml) [Newsroom](https://www.verisign.com/en_US/internet-technology-news/index.xhtml) [Executive Team](https://www.verisign.com/en_US/company-information/jim-bidzos/index.xhtml) [Careers](https://www.verisign.com/en_US/company-information/verisign-careers/index.xhtml) [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) [Blog](https://blog.verisign.com/) [Contact Us](https://www.verisign.com/en_US/company-information/contact-us/index.xhtml) [Investors](https://investor.verisign.com/index.cfm)
     
 
 Got a great website name? See if it's available:
