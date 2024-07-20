@@ -145,7 +145,7 @@
         
         Create multichannel marketing campaigns.](https://www.twilio.com/en-us/use-cases/marketing-and-promotions)
         
-        [SMS Marketing](https://www.twilio.com/en-us/solutions/text-marketing)
+        [SMS marketing](https://www.twilio.com/en-us/solutions/text-marketing) [Customer surveys](https://www.twilio.com/en-us/use-cases/automated-customer-surveys)
         
     * [**Contact Center**
         
@@ -319,7 +319,7 @@
     
     * * *
     
-    * [Twilio MessagingX logo
+    * [Twilio Messaging logo
         
         **Messaging**](https://www.twilio.com/en-us/pricing/messaging)
         
@@ -496,7 +496,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         Create multichannel marketing campaigns.](https://www.twilio.com/en-us/use-cases/marketing-and-promotions)
         
-        [SMS Marketing](https://www.twilio.com/en-us/solutions/text-marketing)
+        [SMS marketing](https://www.twilio.com/en-us/solutions/text-marketing) [Customer surveys](https://www.twilio.com/en-us/use-cases/automated-customer-surveys)
         
     * [**Contact Center**
         
@@ -670,7 +670,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
     
     * * *
     
-    * [Twilio MessagingX logo
+    * [Twilio Messaging logo
         
         **Messaging**](https://www.twilio.com/en-us/pricing/messaging)
         
@@ -902,7 +902,7 @@ Twilio Inc., a Delaware corporation, with a place of business at 101 Spear Stree
 
 Any country within the European Economic Area or its regions or territories, the United Kingdom, Switzerland, Andorra, Vatican City, or Monaco
 
-Twilio Ireland Limited, a company registered in the Republic of Ireland, whose registered address is 3 Dublin Landings, North Wall Quay, Dublin 1, Ireland
+Twilio Ireland Limited, a company registered in the Republic of Ireland, whose registered address is 70 Sir John Rogerson’s Quay, Dublin 2, D02 R296, Ireland
 
 * * *
 
@@ -1402,10 +1402,10 @@ _If we go to court to resolve a dispute between us, then the courts specified in
 
 | **If you are domiciled in:** | **Governing law:** | **Courts with personal jurisdiction:** |
 | --- | --- | --- |
-| Any country outside of the (a) European Economic Area or its regions or territories, the United Kingdom, Switzerland, Andorra, Vatican City, and Monaco and (b) Asia-Pacific region, other than Brazil and Japan | State of California | State or federal courts of San Francisco, California, United States of America |
+| Any country outside of the (a) European Economic Area and its regions and territories, the United Kingdom, Switzerland, Andorra, Vatican City, and Monaco and (b) Asia-Pacific region, other than Brazil and Japan | State of California | State or federal courts of San Francisco, California, United States of America |
 | Any country within the European Economic Area or its regions or territories, the United Kingdom, Switzerland, Andorra, Vatican City, or Monaco | England and Wales | Courts of London, England, United Kingdom |
 | Any country within the Asia-Pacific region, other than Japan | Singapore | Courts of Singapore |
-| Brazil | Brazil | City and State of São Paulo, Brazil |
+| Brazil | Brazil | Courts of the City and State of São Paulo, Brazil |
 | Japan | Japan (including its procedural rules) | Tokyo District Court |
 
 * * *
@@ -1414,7 +1414,7 @@ _If there is a dispute (except for intellectual property disputes) between us, e
 
 * * *
 
-9.7 Dispute Resolution.  In the event of any dispute, claim, or controversy in connection with this Agreement (other than for disputes, claims, or controversies related to the intellectual property of a party) (collectively, “_**Disputes**_”), each party’s senior representatives will, in good faith, attempt to resolve a Dispute. If the parties are unable to resolve a Dispute within thirty (30) days or within such other time period as the parties may agree in writing, then the parties may commence binding arbitration under JAMS’ Comprehensive Arbitration Rules and Procedures. The parties will share equally the fees and expenses of the JAMS arbitrator. The arbitration will be conducted by a sole arbitrator mutually agreed to between the parties or, failing that, by JAMS under its then prevailing rules. Judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. The arbitrator will have the authority to grant specific performance or any other equitable or legal remedy, including provisional remedies. Each party will be responsible for its own incurred expenses arising out of any dispute resolution procedure. Any arbitration proceedings will take place in the English language in (a) San Francisco, California, if you are domiciled in any country outside of the (i) European Economic Area or its regions or territories, the United Kingdom, Switzerland, Andorra, Vatican City, and Monaco and (ii) Asia-Pacific region; (b) London, England, if you are domiciled in any country within the European Economic Area or its regions or territories, the United Kingdom, Switzerland, Andorra, Vatican City, or Monaco; or (c) Singapore, if you are domiciled in any country within the Asia-Pacific region.
+9.7 Dispute Resolution.  In the event of any dispute, claim, or controversy in connection with this Agreement (other than for disputes, claims, or controversies related to the intellectual property of a party) (collectively, “_**Disputes**_”), each party’s senior representatives will, in good faith, attempt to resolve a Dispute. If the parties are unable to resolve a Dispute within thirty (30) days or within such other time period as the parties may agree in writing, then the parties may commence binding arbitration under JAMS’ Comprehensive Arbitration Rules and Procedures. The parties will share equally the fees and expenses of the JAMS arbitrator. The arbitration will be conducted by a sole arbitrator mutually agreed to between the parties or, failing that, by JAMS under its then prevailing rules. Judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. The arbitrator will have the authority to grant specific performance or any other equitable or legal remedy, including provisional remedies. Each party will be responsible for its own incurred expenses arising out of any dispute resolution procedure. Any arbitration proceedings will take place in the English language in (a) San Francisco, California, if you are domiciled in any country outside of the (i) European Economic Area and its regions and territories, the United Kingdom, Switzerland, Andorra, Vatican City, and Monaco and (ii) Asia-Pacific region; (b) London, England, if you are domiciled in any country within the European Economic Area or its regions or territories, the United Kingdom, Switzerland, Andorra, Vatican City, or Monaco; or (c) Singapore, if you are domiciled in any country within the Asia-Pacific region.
 
 * * *
 
@@ -1556,8 +1556,8 @@ _If you are joining or participating in any of Twilio's partner programs, these 
 
 10.6.3 Use of Marks and Publicity.  Each party (“_**Licensor**_”) grants the other party (“_**Licensee**_”) the right to use and display Licensor’s trademarks, service marks, names, logos, images, Partner Program participation badges, collateral, or similar materials (“_**Brand Elements**_”) (a) to identify the parties’ relationship and (b) for marketing activities relating to the applicable Partner Program. Any Brand Elements will be used in accordance with Licensor’s then-current Brand Elements guidelines. Twilio’s Brand Elements guidelines are available at [https://www.twilio.com/legal/trademark](https://www.twilio.com/legal/trademark) and [https://brand.segment.com](https://brand.segment.com/ "https://brand.segment.com"). Twilio’s Brand Elements are non-transferrable, and Twilio may revoke your right to use and display Twilio’s Brand Elements at any time upon written notice to you. Neither party will issue any press releases or public announcements relating to the Partner Program, or your participation in the Partner Program, without the other party’s prior written approval.
 
-10.6.4 Partner Program Removal.  Twilio may, for any reason or no reason, remove you from the applicable Partner Program, or your access to the applicable Partner Program account portal, upon thirty (30) days prior written notice to you.  
-  
+10.6.4 Partner Program Removal.  Twilio may, for any reason or no reason, remove you from the applicable Partner Program, or your access to the applicable Partner Program account portal, upon thirty (30) days prior written notice to you.
+
 10.6.5 Conflict.  In the event of any conflict between this Section 10.6 and any other terms of this Agreement, this Section 10.6 will prevail.
 
 We can't wait to see what you build.
