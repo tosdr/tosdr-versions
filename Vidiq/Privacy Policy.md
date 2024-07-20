@@ -1,30 +1,22 @@
-[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==)![vidIQ Logo](https://cdn.sanity.io/images/7g6d2cj1/production/a2bf9b53ebbd3c08a8b691276185b95f65a7ca85-131x44.svg?w=100&h=44&q=70&auto=format)
-
-![vidIQ Logo](https://cdn.sanity.io/images/7g6d2cj1/production/a2bf9b53ebbd3c08a8b691276185b95f65a7ca85-131x44.svg?w=100&h=44&q=70&auto=format)](https://vidiq.com/)
+[![vidIQ Logo](https://cdn.sanity.io/images/7g6d2cj1/production/a2bf9b53ebbd3c08a8b691276185b95f65a7ca85-131x44.svg?w=100&h=44&q=70&auto=format)](https://vidiq.com/)
 
 [Features](# "vidIQ Tools & Features")
 
-[](# "vidIQ Tools & Features")
-
-[](# "vidIQ Tools & Features")
-
-[](# "vidIQ Tools & Features")[Daily Ideas](https://vidiq.com/features/daily-ideas/ "YouTube Ideas Generator ")[Keyword Tools](https://vidiq.com/features/keyword-tools/ "YouTube Keyword Research Tools")[Competitors Tools](https://vidiq.com/features/competitors/)[Channel Audit Tool](https://vidiq.com/features/channel-audit/)[All Features](https://vidiq.com/features/ "All vidIQ Tool Features")
+[Daily Ideas](https://vidiq.com/features/daily-ideas/ "YouTube Ideas Generator ")[Keyword Tools](https://vidiq.com/features/keyword-tools/ "YouTube Keyword Research Tools")[Competitors Tools](https://vidiq.com/features/competitors/)[Channel Audit Tool](https://vidiq.com/features/channel-audit/)[All Features](https://vidiq.com/features/ "All vidIQ Tool Features")
 
 [AI Tools](#)
 
-[](#)
+[ChatGPT for YouTubers](https://vidiq.com/chat/)[YouTube Title Generator](https://vidiq.com/ai-title-generator/)[Channel Name Generator](https://vidiq.com/ai-channel-name-generator/)[Content Generator](https://vidiq.com/generate/)[YouTube Video Ideas](https://vidiq.com/ai-video-ideas-generator/)[Keyword Generator](https://vidiq.com/ai-keyword-generator/)[Video Script Generator](https://vidiq.com/ai-script-generator/)[YouTube Description Generator](https://vidiq.com/ai-description-generator/)[YouTube Tag Generator](https://vidiq.com/video-tags-generator/ "YouTube Tag Generator")[Thumbnails Generator](https://vidiq.com/ai-thumbnails-generator/)
 
-[](#)
+[Top YouTube Channels](https://vidiq.com/youtube-stats/top/100/)
 
-[](#)[ChatGPT for YouTubers](https://vidiq.com/chat/)[YouTube Title Generator](https://vidiq.com/ai-title-generator/)[Channel Name Generator](https://vidiq.com/ai-channel-name-generator/)[Content Generator](https://vidiq.com/generate/)[YouTube Video Ideas](https://vidiq.com/ai-video-ideas-generator/)[Keyword Generator](https://vidiq.com/ai-keyword-generator/)[Video Script Generator](https://vidiq.com/ai-script-generator/)[YouTube Description Generator](https://vidiq.com/ai-description-generator/)[YouTube Tag Generator](https://vidiq.com/video-tags-generator/ "YouTube Tag Generator")
+[Coaching](https://vidiq.com/coaching/?utm_source=youtube-stats "1-on-1 coaching for YouTube")
 
-[Top YouTube Channels](https://vidiq.com/youtube-stats/top/100/)[Coaching](https://vidiq.com/coaching/?utm_source=youtube-stats "1-on-1 coaching for YouTube")[Extension](https://vidiq.com/extension/ "vidIQ's Extension for YouTube")[Blog](https://vidiq.com/blog/ "vidIQ Blog & Resources")
+[Extension](https://vidiq.com/extension/ "vidIQ's Extension for YouTube")
 
-[](https://vidiq.com/blog/ "vidIQ Blog & Resources")
+[Blog](https://vidiq.com/blog/ "vidIQ Blog & Resources")
 
-[](https://vidiq.com/blog/ "vidIQ Blog & Resources")
-
-[](https://vidiq.com/blog/ "vidIQ Blog & Resources")[Views](https://vidiq.com/blog/category/how-to-get-more-views/ "Tips for Growing YouTube Views")[Monetization](https://vidiq.com/blog/category/how-to-make-money-on-youtube/ "YouTube Monetization Tips")[Subscribers](https://vidiq.com/blog/category/youtube-subscribers/ "Tips for Growing YouTube Subscribers")[Analytics](https://vidiq.com/blog/category/youtube-analytics/ "YouTube Analytics Tips")[All Tips & Insights](https://vidiq.com/blog/ "YouTube Creator Tips & Resources")
+[Views](https://vidiq.com/blog/category/how-to-get-more-views/ "Tips for Growing YouTube Views")[Monetization](https://vidiq.com/blog/category/how-to-make-money-on-youtube/ "YouTube Monetization Tips")[Subscribers](https://vidiq.com/blog/category/youtube-subscribers/ "Tips for Growing YouTube Subscribers")[Analytics](https://vidiq.com/blog/category/youtube-analytics/ "YouTube Analytics Tips")[All Tips & Insights](https://vidiq.com/blog/ "YouTube Creator Tips & Resources")
 
 [Pricing](https://vidiq.com/plans/ "vidIQ Plans & Pricing")
 
@@ -34,27 +26,21 @@
 
 [Features](# "vidIQ Tools & Features")
 
-[](# "vidIQ Tools & Features")
-
-[](# "vidIQ Tools & Features")
-
-[](# "vidIQ Tools & Features")[Daily Ideas](https://vidiq.com/features/daily-ideas/ "YouTube Ideas Generator ")[Keyword Tools](https://vidiq.com/features/keyword-tools/ "YouTube Keyword Research Tools")[Competitors Tools](https://vidiq.com/features/competitors/)[Channel Audit Tool](https://vidiq.com/features/channel-audit/)[All Features](https://vidiq.com/features/ "All vidIQ Tool Features")
+[Daily Ideas](https://vidiq.com/features/daily-ideas/ "YouTube Ideas Generator ")[Keyword Tools](https://vidiq.com/features/keyword-tools/ "YouTube Keyword Research Tools")[Competitors Tools](https://vidiq.com/features/competitors/)[Channel Audit Tool](https://vidiq.com/features/channel-audit/)[All Features](https://vidiq.com/features/ "All vidIQ Tool Features")
 
 [AI Tools](#)
 
-[](#)
+[ChatGPT for YouTubers](https://vidiq.com/chat/)[YouTube Title Generator](https://vidiq.com/ai-title-generator/)[Channel Name Generator](https://vidiq.com/ai-channel-name-generator/)[Content Generator](https://vidiq.com/generate/)[YouTube Video Ideas](https://vidiq.com/ai-video-ideas-generator/)[Keyword Generator](https://vidiq.com/ai-keyword-generator/)[Video Script Generator](https://vidiq.com/ai-script-generator/)[YouTube Description Generator](https://vidiq.com/ai-description-generator/)[YouTube Tag Generator](https://vidiq.com/video-tags-generator/ "YouTube Tag Generator")[Thumbnails Generator](https://vidiq.com/ai-thumbnails-generator/)
 
-[](#)
+[Top YouTube Channels](https://vidiq.com/youtube-stats/top/100/)
 
-[](#)[ChatGPT for YouTubers](https://vidiq.com/chat/)[YouTube Title Generator](https://vidiq.com/ai-title-generator/)[Channel Name Generator](https://vidiq.com/ai-channel-name-generator/)[Content Generator](https://vidiq.com/generate/)[YouTube Video Ideas](https://vidiq.com/ai-video-ideas-generator/)[Keyword Generator](https://vidiq.com/ai-keyword-generator/)[Video Script Generator](https://vidiq.com/ai-script-generator/)[YouTube Description Generator](https://vidiq.com/ai-description-generator/)[YouTube Tag Generator](https://vidiq.com/video-tags-generator/ "YouTube Tag Generator")
+[Coaching](https://vidiq.com/coaching/?utm_source=youtube-stats "1-on-1 coaching for YouTube")
 
-[Top YouTube Channels](https://vidiq.com/youtube-stats/top/100/)[Coaching](https://vidiq.com/coaching/?utm_source=youtube-stats "1-on-1 coaching for YouTube")[Extension](https://vidiq.com/extension/ "vidIQ's Extension for YouTube")[Blog](https://vidiq.com/blog/ "vidIQ Blog & Resources")
+[Extension](https://vidiq.com/extension/ "vidIQ's Extension for YouTube")
 
-[](https://vidiq.com/blog/ "vidIQ Blog & Resources")
+[Blog](https://vidiq.com/blog/ "vidIQ Blog & Resources")
 
-[](https://vidiq.com/blog/ "vidIQ Blog & Resources")
-
-[](https://vidiq.com/blog/ "vidIQ Blog & Resources")[Views](https://vidiq.com/blog/category/how-to-get-more-views/ "Tips for Growing YouTube Views")[Monetization](https://vidiq.com/blog/category/how-to-make-money-on-youtube/ "YouTube Monetization Tips")[Subscribers](https://vidiq.com/blog/category/youtube-subscribers/ "Tips for Growing YouTube Subscribers")[Analytics](https://vidiq.com/blog/category/youtube-analytics/ "YouTube Analytics Tips")[All Tips & Insights](https://vidiq.com/blog/ "YouTube Creator Tips & Resources")
+[Views](https://vidiq.com/blog/category/how-to-get-more-views/ "Tips for Growing YouTube Views")[Monetization](https://vidiq.com/blog/category/how-to-make-money-on-youtube/ "YouTube Monetization Tips")[Subscribers](https://vidiq.com/blog/category/youtube-subscribers/ "Tips for Growing YouTube Subscribers")[Analytics](https://vidiq.com/blog/category/youtube-analytics/ "YouTube Analytics Tips")[All Tips & Insights](https://vidiq.com/blog/ "YouTube Creator Tips & Resources")
 
 [Pricing](https://vidiq.com/plans/ "vidIQ Plans & Pricing")
 
@@ -326,9 +312,7 @@ If you have questions about the privacy aspects of our Site or Services, or woul
 
 This Policy is current as of the Effective Date set forth above. We may make changes to this Policy from time to time, so please be sure to check back periodically. If you continue to use the Site or Service after those changes are in effect, you agree to the revised Policy.
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTMxIiBoZWlnaHQ9IjQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIvPg==)![vidIQ Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![vidIQ Logo](https://cdn.sanity.io/images/7g6d2cj1/production/a2bf9b53ebbd3c08a8b691276185b95f65a7ca85-131x44.svg?w=131&h=44&q=70&auto=format)
+![vidIQ logo](https://cdn.sanity.io/images/7g6d2cj1/production/a2bf9b53ebbd3c08a8b691276185b95f65a7ca85-131x44.svg?w=131&h=44&q=70&auto=format)
 
 Our mission is to empower every video creator with the insights and inspiration they need to grow. That’s why we’re obsessed with providing an intelligent mix of technological and human expertise that boosts your productivity and gets you more views. Whatever your next challenge, we’ll shine a light on the way forward.
 
@@ -350,16 +334,6 @@ Connect with us
 
 Call Sales 888-998-VIDIQ (8434)
 
-[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![You Tube Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![You Tube Icon](https://cdn.sanity.io/images/7g6d2cj1/production/c8f35f8006dd1519e4d4cc809e95bec21638775d-32x24.svg?w=32&h=24&q=70&auto=format)](https://www.youtube.com/user/vidIQchannel "YouTube")[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![1 Cf 6 D 514421 F 699 D 45 C 2 A 36 Caabe 4 C 3 E 4 Cdd 59 F 1 24 X 24](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![1 Cf 6 D 514421 F 699 D 45 C 2 A 36 Caabe 4 C 3 E 4 Cdd 59 F 1 24 X 24](https://cdn.sanity.io/images/7g6d2cj1/production/1dc333788987a52c82b41deab87ef37714cbbbf3-24x24.svg?w=24&h=24&q=70&auto=format)](https://www.facebook.com/vidIQapp/ "Facebook")[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![67 Db 2640 Caf 97 Ec 887 A 640 Bc 57279012 D 471 B 837 26 X 26](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![67 Db 2640 Caf 97 Ec 887 A 640 Bc 57279012 D 471 B 837 26 X 26](https://cdn.sanity.io/images/7g6d2cj1/production/59cb92571b97d296b06ea0672eb0c68cb768ef94-26x26.svg?w=26&h=26&q=70&auto=format)](https://www.instagram.com/vidiq/ "Instagram")[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![920326 E 02 B 00 Db 79 Fa 7 B 7 Da 6 A 0 D 18 Bf 06 E 37 Fd 37 25 X 21](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![920326 E 02 B 00 Db 79 Fa 7 B 7 Da 6 A 0 D 18 Bf 06 E 37 Fd 37 25 X 21](https://cdn.sanity.io/images/7g6d2cj1/production/2749b5908b5e697990b0dbe006bdf78b91693216-25x21.svg?w=25&h=21&q=70&auto=format)](https://twitter.com/vidiq "Twitter")[![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUiIGhlaWdodD0iMjMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+)![31 B 218 Ee 4 F 9 Df 79 Ea 04 Eea 8 A 9 A 7 E 56 Cfd 07 Bbc 0 F 25 X 23](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![31 B 218 Ee 4 F 9 Df 79 Ea 04 Eea 8 A 9 A 7 E 56 Cfd 07 Bbc 0 F 25 X 23](https://cdn.sanity.io/images/7g6d2cj1/production/6bc4aaf79883ae0397229ccb255a348809ef3ab3-25x23.svg?w=25&h=23&q=70&auto=format)](https://www.linkedin.com/company/vidiq/ "LinkedIn")
+[![YouTube logo](https://cdn.sanity.io/images/7g6d2cj1/production/c8f35f8006dd1519e4d4cc809e95bec21638775d-32x24.svg?w=32&h=24&q=70&auto=format)](https://www.youtube.com/user/vidIQchannel "YouTube")[![Facebook logo](https://cdn.sanity.io/images/7g6d2cj1/production/1dc333788987a52c82b41deab87ef37714cbbbf3-24x24.svg?w=24&h=24&q=70&auto=format)](https://www.facebook.com/vidIQapp/ "Facebook")[![Instagram logo](https://cdn.sanity.io/images/7g6d2cj1/production/59cb92571b97d296b06ea0672eb0c68cb768ef94-26x26.svg?w=26&h=26&q=70&auto=format)](https://www.instagram.com/vidiq/ "Instagram")[![Twitter logo](https://cdn.sanity.io/images/7g6d2cj1/production/2749b5908b5e697990b0dbe006bdf78b91693216-25x21.svg?w=25&h=21&q=70&auto=format)](https://twitter.com/vidiq "Twitter")[![LinkedIn logo](https://cdn.sanity.io/images/7g6d2cj1/production/6bc4aaf79883ae0397229ccb255a348809ef3ab3-25x23.svg?w=25&h=23&q=70&auto=format)](https://www.linkedin.com/company/vidiq/ "LinkedIn")
 
 [English](https://vidiq.com/privacy/)[Français](https://vidiq.com/fr/privacy/)[Español](https://vidiq.com/es/privacy/)[Русский](https://vidiq.com/ru/privacy/)[Português](https://vidiq.com/pt/privacy/)[Türkçe](https://vidiq.com/tr/privacy/)[Tiếng Việt](https://vidiq.com/vi/privacy/)
