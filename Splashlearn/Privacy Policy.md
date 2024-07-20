@@ -1058,7 +1058,7 @@ Questions or Concerns
 
 If you have any questions or concerns regarding privacy on our Services, please send us a detailed email at [compliance@splashlearn.com](mailto:compliance@splashlearn.com). We will make every effort to resolve your concerns.
 
-StudyPad, Inc. 201 Spear Street, Suite 1100 San Francisco California - 94105 Phone: +1 855 979 8948
+StudyPad, Inc. 201 Spear Street, Suite 1100 San Francisco California - 94105
 
 For data subjects in the EU, Prighter Group with its local partners has been appointed as our representative. If you want to make use of your data privacy rights, please visit: [https://prighter.com/q/17025404](https://prighter.com/q/17025404)
 
