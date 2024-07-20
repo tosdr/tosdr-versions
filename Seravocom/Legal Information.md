@@ -22,7 +22,7 @@
     * [WP Business](https://seravo.com/fi/wp-business/)
     * [WP Corporate](https://seravo.com/fi/wp-corporate/)
     * [WP Enterprise](https://seravo.com/fi/wp-enterprise/)
-    * Lisäpalvelut
+    * [Lisäpalvelut](https://seravo.com/fi/lisapalvelut/)
         * [Verkkotunnukset](https://seravo.com/fi/verkkotunnukset/)
         * [Konesalipalvelut](https://www.domainkeskus.com/konesali/)
 * Kumppaneille
