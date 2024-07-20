@@ -16,12 +16,12 @@
     * [Secure](https://seravo.com/en/features/secure/)
     * [Green](https://seravo.com/en/features/green/)
     * [Real](https://seravo.com/en/features/real/)
-* [Plans](https://seravo.com/en/plans/)
+* [Services](https://seravo.com/en/plans/)
     * [WP Start](https://seravo.com/en/wp-start/)
     * [WP Pro](https://seravo.com/en/wp-pro/)
     * [WP Business](https://seravo.com/en/wp-business/)
     * [WP Corporate](https://seravo.com/en/wp-corporate/)
-    * Additional Services
+    * [Additional Services](https://seravo.com/en/additional-services/)
         * [Domains](https://seravo.com/en/domains/)
         * [Data Center Services](https://en.domainkeskus.com/data-center/)
 * Partners
