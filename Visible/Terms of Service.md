@@ -24,6 +24,7 @@ Skip to main content navigation region started
 * [See our coverage](https://www.visible.com/plans/coverage)
 * [Can I keep my phone number?](https://www.visible.com/switch-to-visible)
 * [Try Visible for free](https://www.visible.com/free-trial)
+* [Global Pass](https://www.visible.com/globalpass)
 
 [Deals](https://www.visible.com/deals)
 
@@ -84,6 +85,7 @@ Account
 * [See our coverage](https://www.visible.com/plans/coverage)
 * [Can I keep my phone number?](https://www.visible.com/switch-to-visible)
 * [Try Visible for free](https://www.visible.com/free-trial)
+* [Global Pass](https://www.visible.com/globalpass)
 
 [Deals](https://www.visible.com/deals)
 
@@ -298,6 +300,7 @@ Plans
 * [Visible coverage map](https://www.visible.com/plans/coverage)
 * [Bring a Friend](https://www.visible.com/plans/bring-a-friend)
 * [Try Visible for free](https://www.visible.com/free-trial/)
+* [Global Pass](https://www.visible.com/globalpass)
 
 Services
 
@@ -381,6 +384,7 @@ Plans
 * [Visible coverage map](https://www.visible.com/plans/coverage)
 * [Bring a Friend](https://www.visible.com/plans/bring-a-friend)
 * [Try Visible for free](https://www.visible.com/free-trial/)
+* [Global Pass](https://www.visible.com/globalpass)
 
 Apps
 
@@ -393,6 +397,7 @@ Plans
 * [Visible coverage map](https://www.visible.com/plans/coverage)
 * [Bring a Friend](https://www.visible.com/plans/bring-a-friend)
 * [Try Visible for free](https://www.visible.com/free-trial/)
+* [Global Pass](https://www.visible.com/globalpass)
 
 Services
 
@@ -447,12 +452,8 @@ Company
 
  [![Visible by Verizon logo](/content/dam/visible-aem/footer/visiblelogo.svg)](https://www.visible.com/)© 2023 Visible. All rights reserved.
 
-10000 Park Meadows Drive Suite 200, Lone Tree, CO 80124
-
- [![Visible by Verizon logo](/content/dam/visible-aem/footer/visiblelogo.svg)](https://www.visible.com/)© 2023 Visible. All rights reserved. 10000 Park Meadows Drive Suite 200, Lone Tree, CO 80124
-
  [![Visible by Verizon logo](/content/dam/visible-aem/footer/visiblelogo.svg)](https://www.visible.com/)© 2023 Visible. All rights reserved.
 
-10000 Park Meadows Drive Suite 200, Lone Tree, CO 80124
+ [![Visible by Verizon logo](/content/dam/visible-aem/footer/visiblelogo.svg)](https://www.visible.com/)© 2023 Visible. All rights reserved.
 
 Footer region ended
