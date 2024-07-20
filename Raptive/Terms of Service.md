@@ -1,7 +1,5 @@
 **Warning!** Your browser does not support JavaScript!
 
-AI IS HERE TO STAY. CONTENT CREATORS SHOULD BE TOO. [SIGN THE LETTER](https://raptive.com/ai-open-letter/)
-
 [](https://raptive.com/ "Raptive")[Apply now](https://dashboard.raptive.com/apply/site-info)
 
 * [Creators](#dropdown-menu-1)
