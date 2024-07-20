@@ -35,10 +35,10 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google�
 Recent Updates
 --------------
 
-* [Big The Cat Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-big/)
-* [Lakitu Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-lakitu/)
-* [Sonic The Hedgehog 2 Sprite Sheets – Sega Game Gear](https://www.sonicgalaxy.net/sprites-gg-sonic-2/)
-* [Egg Pawn Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-eggpawn/)
-* [Pianta Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-pianta/)
+* [Zavok Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-zavok/)
+* [Knuckles’ Chaotix Sprite Sheets – Sega Genesis 32X](https://www.sonicgalaxy.net/sprites-gen-kc/)
+* [Toad Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-toad/)
+* [Zazz Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-zazz/)
+* [Koopa Troopa Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-koopatroopa/)
 
 © 2013- • [Sonic Galaxy.net](https://www.sonicgalaxy.net/) • Division of [Realm of Darkness.net](https://www.realmofdarkness.net/) • [Contact](https://www.sonicgalaxy.net/contact) • [Privacy](https://www.sonicgalaxy.net/privacy) [Frontier Theme](https://ronangelo.com/frontier/)
