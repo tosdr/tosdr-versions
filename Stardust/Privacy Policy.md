@@ -1,6 +1,6 @@
 [![Stardust Logo](images/Stardust-Logo.svg)](https://www.thestardustapp.com/index.html)
 
-[About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html)
+[About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Shop](https://shop.stardust.app/)
 
 [Download app](#)
 
@@ -10,8 +10,11 @@
 
 [](https://instagram.com/stardust/?hl=en)[](https://www.tiktok.com/@stardust.app)
 
-You’re a different person every day. That’s a good thing.
-=========================================================
+You’re a different person every day.
+====================================
+
+We’re here for all of it.
+-------------------------
 
 ![](images/Hero-Orb-Image.svg)
 
