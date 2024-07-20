@@ -39,7 +39,7 @@ WSECU Routing Number: **325181028**
     
     * [Personal Savings Calculator](https://wsecu.org/resources/personal-savings-calculator)
     * [How to Order Checks](https://wsecu.org/resources/how-to-order-checks)
-    * [FAQ](https://wsecu.org/resources?format=FAQ)
+    * [FAQ](https://wsecu.org/resources?topic=Checking+and+Savings&format=FAQ)
     * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
     
      [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.75% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
@@ -158,8 +158,9 @@ WSECU Routing Number: **325181028**
     * [Term Life Insurance](https://wsecu.org/insurance/term-life)
     * [Long-Term Care](https://wsecu.org/insurance/long-term-care)
     * [Medicare](https://wsecu.org/insurance/medicare)
+    * [Identity Theft Protection](https://wsecu.org/insurance/identity-protection)
     
-     [![](/Images/Mega%20Menu/become-a-member.jpg) Become a member. Get Started](https://wsecu.org/join-wsecu)
+     [![](/Images/Mega%20Menu/auto-insurance.png) Save an average of $670 a year\* Get an auto insurance quote](https://wsecu.org/insurance/auto)
     
 * Financial Planning Menu
     -----------------------
@@ -289,7 +290,7 @@ Go back to the search field
     
     * [Personal Savings Calculator](https://wsecu.org/resources/personal-savings-calculator)
     * [How to Order Checks](https://wsecu.org/resources/how-to-order-checks)
-    * [FAQ](https://wsecu.org/resources?format=FAQ)
+    * [FAQ](https://wsecu.org/resources?topic=Checking+and+Savings&format=FAQ)
     * [View All](https://wsecu.org/resources?topic=Checking+and+Savings)
     
      [![](/Images/Mega%20Menu/share-certificates.jpg) Earn 4.75% APY on 7-month Certificates Open today](https://wsecu.org/checking-and-savings/share-certificates)
@@ -408,8 +409,9 @@ Go back to the search field
     * [Term Life Insurance](https://wsecu.org/insurance/term-life)
     * [Long-Term Care](https://wsecu.org/insurance/long-term-care)
     * [Medicare](https://wsecu.org/insurance/medicare)
+    * [Identity Theft Protection](https://wsecu.org/insurance/identity-protection)
     
-     [![](/Images/Mega%20Menu/become-a-member.jpg) Become a member. Get Started](https://wsecu.org/join-wsecu)
+     [![](/Images/Mega%20Menu/auto-insurance.png) Save an average of $670 a year\* Get an auto insurance quote](https://wsecu.org/insurance/auto)
     
 * Financial Planning Menu
     -----------------------
