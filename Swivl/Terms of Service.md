@@ -25,7 +25,7 @@ Swivl
     * [Adaptability in Leadership panels](https://www.swivl.com/leadership-panel/)
 * [Talk to us](https://www.swivl.com/consultation/)
 * [Login](https://cloud.swivl.com/login?utm_source=swivlsite&utm_medium=swivlcom&utm_campaign=signinlink)
-* [Mirror demo](https://www.swivl.com/mirror-demo/)
+* [Mirror trial](https://www.swivl.com/mirror-demo/)
 
 Terms
 -----
