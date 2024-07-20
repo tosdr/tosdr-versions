@@ -553,7 +553,7 @@ Help
 Follow us
 ---------
 
-[Find us on Facebook](https://www.facebook.com/thehomesecuritysuperstore "Facebook") [Find us on Twitter](https://twitter.com/Stay_Safe_Dave "Twitter")
+[Find us on Facebook](https://www.facebook.com/thehomesecuritysuperstore "Facebook") [Find us on Twitter](https://x.com/Stay_Safe_Dave "Twitter") [Find us on Instagram](https://www.instagram.com/thehomesecuritysuperstore/ "Instagram") [Find us on Youtube](https://www.youtube.com/@thehomesecuritysuperstore51/videos "Youtube")
 
 Copyright © 2024 The Home Security Superstore.
 
