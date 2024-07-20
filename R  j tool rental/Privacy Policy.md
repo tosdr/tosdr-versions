@@ -37,7 +37,7 @@ Equipment & Tool Rental in Danville, VA
 * [Location](https://rjtoolrental.com/location/)
 * [Contact Us](https://rjtoolrental.com/contact-us/)
 
-* [](https://rjtoolrental.com/privacy-policy/)
+* [](https://rjtoolrental.com/privacy-policy/ "Login")
 
 * **For all your tool and equipment rental needs in the Danville, VA area.**
 
