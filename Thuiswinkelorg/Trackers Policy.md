@@ -65,52 +65,74 @@ Trefwoord
 Cookieverklaring
 ================
 
-Hieronder vind je alle cookiebronnen die Thuiswinkel.org gebruikt. Thuiswinkel.org maakt gebruik van cookies en vergelijkbare technieken, zodat je op andere websites en social media gepersonaliseerde content van Thuiswinkel.org te zien krijgt.
+Thuiswinkel.org gebruikt verschillende soorten cookies. Naast noodzakelijke cookies, plaatsen wij functionele cookies die nodig zijn om onze website te laten functioneren. Ook plaatsen wij prestatie cookies om de prestatie en kwaliteit van onze website te meten. Tot slot plaatsen wij advertentie cookies waarmee we jou kunnen identificeren en volgen. Door op “Accepteer alles” te klikken geef je toestemming voor het plaatsen van alle cookies. Wanneer je klikt op "Nee, pas aan" kun je zelf een selectie maken en wanneer je klikt op “Weigeren” plaatsen we alleen noodzakelijke cookies. Via de cookiemelding kun je jouw cookiekeuze later weer aanpassen.
+
+### Noodzakelijke cookies
+
+Cookies die geplaatst worden zonder toestemming:
+
+|     |     |
+| --- | --- |
+| **Naam** | **Doel** |
+| \_\_cf\_bm | Cookie die nodig is om Cloudflare Bot Management te ondersteunen, momenteel in privé-bèta. Als onderdeel van onze botbeheerservice helpt deze cookie inkomend verkeer te beheren dat overeenkomt met criteria die aan bots zijn gekoppeld. |
+| \_\_cfuvid | Deze cookie maakt deel uit van de diensten van Cloudflare - inclusief taakverdeling, levering van website-inhoud en het leveren van DNS-verbindingen voor website-exploitanten. |
+| \_\_RequestVerificationToken | Slaat verificatietoken op voor het verzenden van de magic link. Hiermee krijgt de bezoeker toegang tot extra (service) informatie op de website. |
+| MagicLink | Biedt inlogfunctionaliteit via een Magic Link. |
+| ASP.NET\_SessionId | ADDER. Net\_SessionId is een cookie die wordt gebruikt om de sessie van de gebruiker op de server te identificeren. De sessie die wordt gebruikt om gegevens op te slaan tussen HTTP-verzoeken op de server. |
+| COMPASS | Deze cookie slaat noodzakelijke informatie op voor het ontwerp en de lay-out van onze website. |
+| cookiefirst-consent | Deze cookie bewaart uw cookie-voorkeuren voor deze website. U kunt deze eenvoudig wijzigen of uw toestemming intrekken. |
+| cookiefirst-consent | Deze cookie bewaart uw cookie-voorkeuren voor deze website. U kunt deze eenvoudig wijzigen of uw toestemming intrekken. |
+| cookiefirst-ID | Dit cookie bevat uw unieke ID zodat CookieFirst unieke bezoekers van deze website kan identificeren. |
+| S   | Dit is een noodzakelijke sessiecookie om een correct gebruik van de website mogelijk te maken. |
+| yourAuthCookie | Slaat authenticatietoken op voor de inlogprocedure. |
+
+### Prestatie cookies
 
 Cookies die alleen geplaatst worden na uw toestemming:
 
 |     |     |
 | --- | --- |
-| #### **AddThis** | #### **Doel** |
-| \_atuvc | AddThis gebruikt cookies om bij te houden op welke websites die gebruik maken van AddThis een bezoeker komt. Daarnaast kunnen via AddThis nog veel meer share-buttons getoond worden, van Facebook, LinkedIn, Reddit, Pinterest etc. Het gebruik van deze functionaliteiten loopt via AddThis. |
+| #### **Naam** | #### **Doel** |
+| \_ga | Registreert een uniek ID voor een websitebezoeker om bij te houden hoe de bezoeker de website gebruikt. De gegevens worden gebruikt voor statistieken. Gegevensoverdracht naar derde landen: VS. Google LLC. is gecertificeerd onder het Data Privacy Framework, wat aangeeft dat uw rechten als betrokkene kunnen worden gegarandeerd. |
+| \_ga\_\*\*\*\*\*\*\*\* | Deze cookie slaat een uniek ID op voor een websitebezoeker en houdt bij hoe de bezoeker de website gebruikt. De gegevens worden gebruikt voor statistieken. Data overdracht. naar derde landen: VS. Google LLC. is gecertificeerd onder het Data Privacy Framework, wat aangeeft dat uw rechten als betrokkene kunnen worden gegarandeerd. |
+| \_hjSession\_\*\*\*\*\*\* | Een cookie die de huidige sessiegegevens bevat. Dit zorgt ervoor dat volgende verzoeken binnen het sessievenster worden toegeschreven aan dezelfde Hotjar-sessie. |
+| \_hjSessionUser\_\*\*\*\*\*\* | Hotjar-cookie die wordt ingesteld wanneer een gebruiker voor het eerst op een pagina met het Hotjar-script terechtkomt. Het wordt gebruikt om de Hotjar-gebruikers-ID te behouden, die uniek is voor die site in de browser. Dit zorgt ervoor dat gedrag bij volgende bezoeken aan dezelfde site wordt toegeschreven aan hetzelfde gebruikers-ID. |
+| hjActiveViewportIds | Dit item wordt door Hotjar ingesteld voor prestatie- en analysedoeleinden. |
+| UserMatchHistory | Deze cookie wordt gebruikt om het gedrag van bezoekers op de website bij gebruik van Matomo/Piwik vast te leggen. Het wordt gebruikt om statistieken te verzamelen over het gebruik van de website, zoals het tijdstip van het laatste bezoek aan de website. De cookie bevat geen persoonsgegevens en wordt uitsluitend gebruikt voor website-analyse (vervalt na 30 minuten). |
+
+### Functionele cookies
+
+Cookies die alleen geplaatst worden na uw toestemming:
 
 |     |     |
 | --- | --- |
-| #### Thuiswinkel.org / Mijn Account | #### Doel |
-| SPQUID | Als u bij het inloggen in Mijn Account, "wachtwoord onthouden" aanvinkt onthoudt deze cookie uw authenticatiegegevens. |
+| #### Naam | #### Doel |
+| li\_gc | Dit is een cookie van LinkedIn en wordt gebruikt om de toestemming van bezoekers met betrekking tot het gebruik van cookies voor niet-essentiële doeleinden op te slaan. |
+| VISITOR\_INFO1\_LIVE | Met deze cookie kan YouTube het bandbreedtegebruik controleren. |
+| vuid | Dit is een cookie van Vimeo die wordt gebruikt voor de videospeler op onze website. |
+| YSC | Registreer unieke ID's en houd statistieken bij over welke video's gebruikers van YouTube hebben bekeken. |
+
+### Marketing/advertentie cookies
+
+Cookies die alleen geplaatst worden na uw toestemming:
+
+|     |     |
+| --- | --- |
+| **Naam** | #### Doel |
+| AnalyticsSyncHistory | Deze cookie wordt gebruikt voor het opslaan van informatie over het tijdstip waarop een synchronisatie met de lms\_analytics-cookie heeft plaatsgevonden voor gebruikers in de aangewezen landen. |
+| bcookie | Cookie van LinkedIn gebruikt door deelknoppen en advertentietags. |
+| bscookie | Cookie van LinkedIn gebruikt door deelknoppen en advertentietags. |
+| li\_sugr | Cookie van LinkedIn gebruikt door deelknoppen en advertentietags. |
+| lidc | Cookie van LinkedIn gebruikt door deelknoppen en advertentietags. |
+| sp\_landing | Gebruikt om Spotify-audio-inhoud op de website te implementeren. Kan ook worden gebruikt om gebruikersinteractie en voorkeuren op te nemen in combinatie met audio-inhoud. Dit kan statistieken en marketingdoeleinden dienen. |
+| sp\_t | Gebruikt om Spotify-audio-inhoud op de website te implementeren. Kan ook worden gebruikt om gebruikersinteractie en voorkeuren op te nemen in combinatie met audio-inhoud. Dit kan statistieken en marketingdoeleinden dienen. |
+| VISITOR\_PRIVACY\_METADATA | Deze cookie wordt gebruikt om de privacy-instellingen van gebruikers op YouTube bij te houden en te verrijken. |
+
+|     |     |
+| --- | --- |
+| #### mijn.thuiswinkel.org / Mijn certificering | #### Doel |
+| SPQUID | Als u bij het inloggen in Mijn Certificering, "wachtwoord onthouden" aanvinkt onthoudt deze cookie uw authenticatiegegevens. |
 | authCookieThuiswinkelOrg | Alleen als u ingelogd bent én wachtwoord onthouden hebt aangevinkt, onthoudt deze cookie uw authenticatiegegevens versleuteld. |
-
-Cookies die altijd geplaatst worden (analytische cookies, en functionele en communicatieve cookies waar geen wettelijke toestemming voor vereist is):
-
-|     |     |
-| --- | --- |
-| #### Thuiswinkel.org | #### Doel |
-| ASP.NET\_Sessionid | Deze cookie zorgt ervoor dat de webserver weet welke sessie bij welke gebruiker hoort en is noodzakelijk voor de werking van de website |
-
-|     |     |
-| --- | --- |
-| #### Google Analytics | #### Doel |
-| * \_ga<br>* \_utma cookie<br>* \_utmb cookie<br>* \_utmc cookie<br>* \_utmz cookie | Google Analytics is een webanalyse-service die wordt aangeboden door Google Inc. Via deze cookies krijgt Thuiswinkel.org inzage in het websitebezoek. Denk aan bezoekersaantallen, populaire pagina’s en onderwerpen. Op deze manier stemt Thuiswinkel.org de communicatie beter af op de behoeften van de websitebezoekers.<br><br>Voor het plaatsen van Google Analytics cookies hebben wij enkele maatregelen genomen die ervoor zorgen dat gegevens enkel op een privacy vriendelijke manier worden verwerkt:<br><br>We hebben een bewerkersovereenkomst gesloten met Google. Hierin is vastgelegd dat Google alleen als bewerker optreedt bij de verwerking van de persoonsgegevens van onze websitebezoekers.  <br>Uw IP-adres wordt geanonimiseerd meegegeven door het laatste octet van het IP-adres te maskeren.  <br>Ook hebben wij Google niet toegestaan de verkregen informatie te gebruiken voor andere Google diensten in combinatie met Google Analytics cookies.  <br>De standaardinstelling om gegevens met Google te delen zijn uitgevinkt. |
-
-|     |     |
-| --- | --- |
-| #### Google Maps | #### Doel |
-| * NID cookie<br>* PREF cookie<br>* SNID cookie | Met behulp van Google Maps wordt op de contactpagina gedetailleerde informatie over de locatie van de organisatie getoond. |
-
-|     |     |
-| --- | --- |
-| #### Youtube | #### Doel |
-| * VISITOR\_INFO1\_LIVE cookie<br>* PREF cookie | YouTube verzamelt via een ingesloten YouTube-video bezoekersinformatie en aangepaste voorkeurinstellingen. |
-
-|     |     |
-| --- | --- |
-| #### Leadinfo B.V. | #### Doel |
-| * \_li\_id<br>* \_li\_ses | Leadinfo plaatst twee first party cookies waarmee alleen Thuiswinkel.org inzage krijgt in het gedrag op de website. Deze cookies worden niet gekoppeld aan andere informatie en worden niet gedeeld met andere partijen. |
-
-|     |     |
-| --- | --- |
-| #### cookieState | #### Doel |
-| cookieState | Uw keuze met betrekking tot het wel of niet mogen plaatsen van alle cookies wordt hierin bewaard, zodat u niet bij ieder bezoek opnieuw een scherm met de keuze-opties te zien krijgt. |
 
 ![Thuiswinkel Logo](/Images/logo-thuiswinkel-org_horizontaal-zwart.svg)
 
