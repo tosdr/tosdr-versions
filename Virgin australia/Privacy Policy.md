@@ -19,7 +19,7 @@ disabled Mode
     
     * [Happy Hour](https://specials.virginaustralia.com/au/sale/happy-hour)
     * [Featured sales](https://specials.virginaustralia.com/au)
-    * [Sign up to V-mail](https://specials.virginaustralia.com/vmail/)
+    * [Sign up to V-mail](https://www.virginaustralia.com/au/en/vmail/)
     
     Manage booking
     
@@ -129,13 +129,14 @@ disabled Mode
     
     * [About the program](https://www.virginaustralia.com/au/en/fly-for-business/business-flyer/)
     * [Join Virgin Australia Business Flyer](https://www.virginaustralia.com/au/en/fly-for-business/business-flyer/business-flyer-application/)
+    * [Partner offers](https://www.velocityfrequentflyer.com/business-flyer)
     * [Log in](https://businesslogin.virginaustralia.com/Account/Login?ReturnUrl=%2F)
-    * [Partner Offers](https://www.velocityfrequentflyer.com/business-flyer)
     
     Corporate travel
     
     * Why choose Virgin Australia
-    * Enquire now
+    * [Other solutions](https://www.virginaustralia.com/au/en/fly-for-business/corporate-travel/#solutions)
+    * [Enquire now](https://www.virginaustralia.com/au/en/forms/corporate-air-agreement-form/)
     
 * [Velocity](https://www.virginaustralia.com/au/en/velocity/)
     
