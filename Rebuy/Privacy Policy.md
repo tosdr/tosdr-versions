@@ -73,10 +73,10 @@
             A/B Testing](https://www.rebuyengine.com/product/ab-testing)
         * [![Data Sources Icon](https://www.rebuyengine.com/hubfs/Navigation/icon-data-sources.svg)
             
-            Data Sources](#)
+            Data Sources](https://help.rebuyengine.com/en/collections/3401117-data-sources)
         * [![Reporting & Analytics Icon](https://www.rebuyengine.com/hubfs/Navigation/icon-reporting-analytics.svg)
             
-            Reporting & Analytics](#)
+            Reporting & Analytics](https://help.rebuyengine.com/en/collections/3413614-reports)
     
 * [Partners](#)
     
@@ -174,6 +174,9 @@
         Merchant Success & Launch
         
         Ramp up faster with a white glove strategy just for you](https://www.rebuyengine.com/merchant-success)
+    * [New Releases
+        
+        Stay updated with the latest product news and subscribe for update alerts](https://www.rebuyengine.com/product/new)
     
     #### Featured Content
     
@@ -182,9 +185,9 @@
     #### Free Merchandising Audit Checklist: Learn How to Optimize Revenue and Set New Sales Records!](https://www.rebuyengine.com/tools/merchandising-audit-checklist?website_utm_page=navigation&website_utm_section=featured-content&website_utm_cta=free-merchandising-audit-checklist&website_utm_test=merchandising-audit)
     
 
-* [Log In](https://rebuyengine.com/admin/login/)
-* [Try Free](https://rebuyengine.com/admin/login/create-account/)
-* [Get a Demo](https://www.rebuyengine.com/request-a-demo?website_utm_page=homepage&website_utm_section=navigation&website_utm_cta=get-a-demo&website_utm_test=navigation)
+* [Log In](https://rebuyengine.com/admin/login?website_utm_page=legal-privacy-notice&website_utm_section=navigation&website_utm_cta=log-in&website_utm_test=navigation)
+* [Try Free](https://rebuyengine.com/admin/login/create-account?website_utm_page=legal-privacy-notice&website_utm_section=navigation&website_utm_cta=try-free&website_utm_test=navigation)
+* [Get a Demo](https://www.rebuyengine.com/request-a-demo?website_utm_page=legal-privacy-notice&website_utm_section=navigation&website_utm_cta=get-a-demo&website_utm_test=navigation)
 
 Privacy Notice
 --------------
