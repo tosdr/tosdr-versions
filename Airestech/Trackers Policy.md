@@ -16,7 +16,7 @@ FREE SHIPPING ON ORDERS $100+ FREE SHIPPING ON ORDERS $100+
     * [DUO DOCK](https://www.airestech.com/products/duo-dock)
     * [MAX MULTI MOUNT](https://www.airestech.com/products/max-multi-mount)
     
-* [SHOP BUNDLES](https://www.airestech.com/collections/bundles)
+* [BUILD A BUNDLE](https://airestech.com/pages/build-your-own-bundle)
 * [OUR TECHNOLOGY](https://www.airestech.com/pages/tech)
 * [Blog](https://www.airestech.com/pages/blogs)
 * AIRES ATHLETES
@@ -546,7 +546,7 @@ United Kingdom (GBP £)
     * [DUO DOCK](https://www.airestech.com/products/duo-dock)
     * [MAX MULTI MOUNT](https://www.airestech.com/products/max-multi-mount)
     
-* [SHOP BUNDLES](https://www.airestech.com/collections/bundles)
+* [BUILD A BUNDLE](https://airestech.com/pages/build-your-own-bundle)
 * [OUR TECHNOLOGY](https://www.airestech.com/pages/tech)
 * [Blog](https://www.airestech.com/pages/blogs)
 * [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
