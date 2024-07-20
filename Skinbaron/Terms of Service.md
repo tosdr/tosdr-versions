@@ -72,7 +72,7 @@ This is a translation into english of the General Terms and Conditions of SkinBa
     
     Sales tax identification number: DE306127058
     
-    SkinBaron GmbH is represented by its managing directors Tobias Herberhold and Werner Fugmann.
+    SkinBaron GmbH is represented by its managing director Tobias Andro.
     
 2. These GTC contain the conditions and rules of conduct for the use of the online platform and for all legal transactions and actions similar to legal transactions that are carried out between you and the provider. However, it is possible that for certain special services additional conditions apply. These will then be provided to you in the form of additional terms and conditions prior to use. Terms and conditions that deviate from these General Terms and Conditions are not valid unless the Provider expressly agrees to them.
     
@@ -374,6 +374,8 @@ Services +
 * 3D-Viewer
 * [SmokeBaron](https://skinbaron.de/smokebaron)
 * Screenshots
+* [ToS](https://skinbaron.de/en/tos)
+* [Privacy statement](https://skinbaron.de/en/privacy_policy)
 
 Get to know us +
 
@@ -409,9 +411,5 @@ EN | EUR (€)
 © 2024 SkinBaron GmbH
 
 [Legal notice](https://skinbaron.de/en/imprint)
-
-[ToS](https://skinbaron.de/en/tos)
-
-[Privacy statement](https://skinbaron.de/en/privacy_policy)
 
 Currently unavailable
