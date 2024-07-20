@@ -146,11 +146,11 @@ How can we help your organization? \*
 
 Organization Name \* 
 
-Organization State / Province \* \--None--AlabamaAlaskaAlbertaArizonaArkansasBritish ColumbiaCaliforniaColoradoConnecticutDelawareDevonshireDistrict of ColumbiaFederal DistrictFloridaGeorgiaHamiltonHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineManitobaMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew BrunswickNewfoundland and LabradorNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthwest TerritoriesNova ScotiaNunavutOhioOklahomaOntarioOregonPagetPembrokePennsylvaniaPrince Edward IslandPuerto RicoQuebecRhode IslandSandysSaskatchewanSmithsSouthamptonSouth CarolinaSouth DakotaSt GeorgesTennesseeTexasUtahVermontVirginiaWarwickWashingtonWest VirginiaWisconsinWyomingYukon Territories
+Organization State / Province \* \--None--Alabama Alaska Alberta Arizona Arkansas British Columbia California Colorado Connecticut Delaware Devonshire District of Columbia Federal District Florida Georgia Hamilton Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Manitoba Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Brunswick Newfoundland and Labrador New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northwest Territories Nova Scotia Nunavut Ohio Oklahoma Ontario Oregon Paget Pembroke Pennsylvania Prince Edward Island Puerto Rico Quebec Rhode Island Sandys Saskatchewan Smiths Southampton South Carolina South Dakota St Georges Tennessee Texas Utah Vermont Virginia Warwick Washington West Virginia Wisconsin Wyoming Yukon Territories
 
-Are you currently a Safety-Care Customer? \* \--None--Yes, my organization uses Safety CareNo, we do not currently use Safety Care
+Are you currently a Safety-Care Customer? \* \--None--Yes, my organization uses Safety Care No, we do not currently use Safety Care
 
-Industry \* \--None--AgricultureApparelBankingBiotechnologyChemicalsCommunicationsConstructionConsultingEducationElectronicsEmergency ServicesEnergyEngineeringEntertainmentEnvironmentalFinanceFood & BeverageGovernmentHealthcareHospitalityInsuranceMachineryManufacturingMediaNot For ProfitOtherRecreationRetailShippingTechnologyTelecommunicationsTransportationUtilities
+Industry \* \--None--Agriculture Apparel Banking Biotechnology Chemicals Communications Construction Consulting Education Electronics Emergency Services Energy Engineering Entertainment Environmental Finance Food & Beverage Government Healthcare Hospitality Insurance Machinery Manufacturing Media Not For Profit Other Recreation Retail Shipping Technology Telecommunications Transportation Utilities
 
 Subscribe to Newsletter
 
