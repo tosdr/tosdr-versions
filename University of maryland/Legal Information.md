@@ -295,7 +295,7 @@ Giving back is a fearless Terp tradition, and there are many ways you can not on
 
 [![Clark Challenge for the Maryland Promise](/sites/umd.edu/files/MPP-workmark%404x.png)](https://promise.umd.edu/)
 
-![University of Maryland](/sites/default/themes/umd/build/images/logo-inverted.svg)
+![University of Maryland](/sites/umd.edu/themes/umd/build/images/logo-inverted.svg)
 
 * [University of Maryland on YouTube](https://www.youtube.com/user/UMD2101)
 * [University of Maryland on Facebook](https://www.facebook.com/UnivofMaryland)
