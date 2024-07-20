@@ -183,7 +183,7 @@ This Privacy Policy was last updated July 15, 2022.
 
 ![logo](//cdn.clickmagick.com/images/website/v3/c8eb64412ee28c74232d02d4e5814bff53247b36.smallLg.png)
 
-#### Sign up for a free trial to increase ad ROI and improve all your online promotions. It’s simple.
+#### Increase ad ROI and improve all your online promotions. It’s simple, and guaranteed.
 
 [Start for free](https://www.clickmagick.com/signup/)
 
