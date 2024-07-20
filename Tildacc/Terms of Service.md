@@ -323,7 +323,7 @@ The Administration is not responsible for performance and correct operation of T
 
   
 
-3.4. Terms of Use of Images and Fonts. When using images posted in the Personal Account in the "Image Library" section, the User, in addition to provisions of this Agreement, shall also be guided by provisions of the [Agreement on the Terms and Conditions of the Use of Images](https://tilda.cc/terms/images/).
+3.4. Terms of Use of Images and Fonts. When using images posted in the Personal Account in the "Image Library" section, the User, in addition to provisions of this Agreement, shall also be guided by provisions of the [Terms of Use of Images](https://tilda.cc/terms/images/).
 
   
 
@@ -331,7 +331,7 @@ When using icons located on the [link](https://tilda.cc/free-icons/) , the User,
 
   
 
-When using fonts from the built-in collection, the User, in addition to provisions of this Agreement, shall also be guided by provisions of the [Agreement on the Terms of Use of Fonts](https://tilda.cc/terms/fonts/).
+When using fonts from the built-in collection, the User, in addition to provisions of this Agreement, shall also be guided by provisions of the [Terms of Use of Fonts](https://tilda.cc/terms/fonts/).
 
   
 
@@ -343,7 +343,7 @@ When creating a Project, the User shall replace images, icons, texts located in 
 
   
 
-3.6. Tilda Feeds Service User Agreement. When using the Feeds feature of the Platform, the User, in addition to this Agreement, shall also be guided by provisions of the [Tilda Feeds Service User Agreement](https://tilda.cc/terms/feeds/).
+3.6. Tilda Feeds Service User Agreement. When using the Feeds feature of the Platform, the User, in addition to this Agreement, shall also be guided by provisions of the [Feeds Function Terms of Use](https://tilda.cc/terms/feeds/).
 
 4\. Export
 
@@ -875,7 +875,7 @@ The User has the right to copy the program code of Emails for posting in mailing
 
   
 
-Use of such items must be subject to the provisions of the Agreement on the [Terms and Conditions of the Use of Images](https://tilda.cc/terms/images/) and the [Agreement on the Terms of Use of Fonts](https://tilda.cc/terms/fonts/) respectively.
+Use of such items must be subject to the provisions of the Agreement on the [Terms of Use of Images](https://tilda.cc/terms/images/) and the [Terms of Use of Fonts](https://tilda.cc/terms/fonts/) respectively.
 
   
 
@@ -1067,7 +1067,7 @@ For legal issues: [legal@tilda.cc](mailto:legal@tilda.cc)
 
 To request financial documents: [docs@tilda.cc](mailto:docs@tilda.cc)
 
-_The current version of the Terms of Service is dated 31.05.2024_
+_The current version of the Terms of Service is dated 12.07.2024_
 
 The website you've been dreaming of is just one click away
 
