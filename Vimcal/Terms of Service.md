@@ -233,8 +233,6 @@ The headings and captions contained herein will not be considered to be part of 
 
 Vimcal is operated by Vimcal Inc., a Delaware corporation with an address at 6798 Lopez Canyon Way, San Diego, CA 92126. All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy in the manner and by the means set forth therein.  All other feedback, comments, requests for technical support and other communications relating to Vimcal should be directed to: aloha@vimcal.com.
 
-Please make sure the Privacy Policy is available at this link.
-
 ‍
 
 [![](https://cdn.prod.website-files.com/5f303e34821294abdf7d62ec/644bf64aad86bb3b7274b4ea_vimcal_logo.png)](#)
