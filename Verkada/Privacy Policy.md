@@ -32,7 +32,7 @@ Privacy Policy
 Privacy Policy
 ==============
 
-Last Revised: 30 April 2024
+Last Revised: 3 July 2024
 
 [Download PDF](https://docs.verkada.com/docs/Verkada-Privacy-Policy.pdf)
 
@@ -320,7 +320,7 @@ This Privacy Policy does not apply to information we process as a data processor
     
     The CCPA sets forth certain obligations for businesses that “sell” or “share” personal information. Where we refer to “sell” or “share” (or their variants) in quotes, we are referring to those terms as uniquely defined in the CCPA.
     
-    We may use third-party analytics services and online advertising services that may result in the “sharing” of online identifiers and other identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, usage information, email addresses) with analytics partners to help us analyze and understand use of the Site and our Products and to advertise the Products on other websites. In some cases, such practice may also constitute a “sale” of personal information under the CCPA. If you or your authorized agent would like to opt out of our “sharing” or “sale” of your information for such purposes, you may do so by clicking Your Privacy Choices on the footer of the Site. To opt-out of the “sharing” or “sale” of personal information that is not based on cookies or other tracking technologies, please contact [\[email protected\]](https://www.verkada.com/cdn-cgi/l/email-protection).  For more information, see our [Cookies Policy](https://www.verkada.com/privacy/cookie-policy).
+    We may use third-party analytics services and online advertising services that may result in the “sharing” of online identifiers and other identifiers (e.g., cookie data, IP addresses, device identifiers, general location information, usage information, email addresses) with analytics partners to help us analyze and understand use of the Site and our Products and to advertise the Products on other websites. In some cases, such practice may also constitute a “sale” of personal information under the CCPA. If you or your authorized agent would like to opt out of our “sharing” or “sale” of your information for such purposes, you may do so by clicking Your Privacy Choices on the footer of the Site. To opt-out of the “sharing” or “sale” of personal information that is not based on cookies or other tracking technologies, please contact [\[email protected\]](https://www.verkada.com/cdn-cgi/l/email-protection).  For more information, see our [Cookies Policy](https://www.verkada.com/privacy/cookie-policy). For clarity, if you’ve provided consent to receive text messages from us, we do not share that consent with unaffiliated third parties for their own use unless you have consented to that disclosure.
     
     Please note that we also respond to and abide by opt-out preference signals sent through the Global Privacy Control. Any opt-out preferences you have exercised through these methods will only apply to the specific device/browser on which you made them.  For more information on how to use the Global Privacy Control, see [www.globalprivacycontrol.org](http://www.globalprivacycontrol.org/).
     
