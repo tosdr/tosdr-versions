@@ -8,7 +8,7 @@
 Privacy Policy
 ==============
 
-Effective Date: June 20, 2023.
+Effective Date: July 1, 2024.
 
 [theamericansweepstakes.com](https://theamericansweepstakes.com/) (the "Website", “Company”, “us”, “we”, or “our”) developed this Privacy Policy. This Privacy Policy, together with our [Terms and Conditions](https://theamericansweepstakes.com/terms-and-conditions.html) (collectively, the "Agreement") form a legally binding agreement between you (“you” or “your”) and the Company. This Agreement governs your access to and use of any Company website and your use or attempted use of our products and services (collectively, "Your Use"). Continued use of the Website constitutes your consent to be bound by this Agreement and shall be enforceable in the same way as if it was signed by you.
 
@@ -192,8 +192,8 @@ Certain browsers may offer you a “Do Not Track” (DNT) option, which allows y
 B. States Rights
 ----------------
 
-California Residents.
----------------------
+1\. California Residents.
+-------------------------
 
 **Shine the Light.**  
 Cal. Civ. Code § 1798.83 permits customers who are California residents to request certain information regarding and/or opt-out of our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please email us at [contact@theamericansweepstakes.com](mailto:contact@theamericansweepstakes.com) and include your full name, residential address, email address, and phone number, along with why you are writing, so that we can process your request.
@@ -230,8 +230,8 @@ Please note that in certain circumstances, we may request for additional informa
 
 **Response Timing.** We try to respond to a consumer request(s) for access or deletion of information within 45 days of receiving it. If we require more time, we will inform you of the reason and extension period in writing. In any case, the total period required to respond to your request shall not exceed 90 days from the date of receiving the request.
 
-Colorado Residents.
--------------------
+2\. Colorado Residents.
+-----------------------
 
 _Effective July 1, 2023._
 
@@ -265,8 +265,8 @@ Webform: You may fill out a [Webform](https://privacyportal.onetrust.com/webform
 
 **Response Timing.** We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing. If we decline to act regarding a consumer request, we will inform you of the reason within 45 days of receiving that request.
 
-Connecticut Residents.
-----------------------
+3\. Connecticut Residents.
+--------------------------
 
 _Effective July 1, 2023_
 
@@ -300,13 +300,13 @@ Webform: You may fill out a [Webform](https://privacyportal.onetrust.com/webform
 
 **Response Timing.** We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing. If we decline to act regarding a consumer request, we will inform you of the reason within 45 days of receiving that request.
 
-Nevada Residents
-----------------
+4\. Nevada Residents.
+---------------------
 
 **Do Not Sell or Share My Personal Information.** Nevada residents have the right to request that we do not sell your personal information. Please  [click here](https://privacyportal.onetrust.com/webform/9778300d-e8e2-4455-a4ff-488f60a54302/42dc3232-51fe-4da9-a18e-245d4aecc031) so that we can process your request. We aim to respond to a consumer request within 60 days of receiving that request.
 
-Utah Residents.
----------------
+5\. Utah Residents.
+-------------------
 
 _Effective December 31, 2023._
 
@@ -338,8 +338,8 @@ Webform: You may fill out a [Webform](https://privacyportal.onetrust.com/webform
 
 **Response Timing.** We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing. If we decline to act regarding a consumer request, we will inform you of the reason within 45 days of receiving that request.
 
-Virginia Residents.
--------------------
+6\. Virginia Residents.
+-----------------------
 
 The Virginia Consumer Data Protection Act (VCDPA) provides Virginia residents with the additional rights listed below.
 
@@ -370,6 +370,76 @@ Email: You may write to us to exercise rights. Please include your full name, re
 Webform: You may fill out a [Webform](https://privacyportal.onetrust.com/webform/9778300d-e8e2-4455-a4ff-488f60a54302/42dc3232-51fe-4da9-a18e-245d4aecc031) to exercise rights. Please include your full name, email address, and phone number, along with why you are writing, so that we can process your request.
 
 **Response Timing.** . We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing. If we decline to act regarding a consumer request, we will inform you of the reason within 45 days of receiving that request.
+
+7\. Texas Residents.
+--------------------
+
+_Effective July 1, 2024._
+
+The Texas Data Privacy and Security Act provides Texas residents with the additional rights listed below.
+
+**Right to Know.** You have the right to confirm whether we are processing your personal data and access such data, including:
+
+* The categories of personal information we have collected about you;
+* The purpose for processing your personal information;
+* How you can exercise your rights and appeal a decision regarding your request;
+* The categories of personal information that we have shared with third parties; and
+* The categories of third parties with whom we have shared your personal information.
+
+**Right to Correct.** You have a right to correct inaccuracies in the personal data we have collected about you, considering the nature of the personal data and the purposes of the processing of your personal data.
+
+**Right to Delete.** You have the right to request that we delete the personal information we have collected from you unless we need to retain that information for a specified purpose as exempted under state law.
+
+**Right to Obtain a Copy.** You have a right to obtain a copy of the personal data we have collected on you.
+
+**Right to Opt Out.** You have the right to opt out of the processing of your personal data for purposes of (i) targeted advertising, (ii) the sale of personal data, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+**Right to Appeal.** If we decline to act regarding your request, you have the right to appeal this decision.
+
+**Other Rights.**  You also have the right not to be discriminated against for exercising any of the rights listed above.
+
+**Exercising Your Texas Privacy Rights.** To request access to or deletion of your personal information, or to exercise any other data rights under Texas law, please contact us using the following method:
+
+Email: You may write to us to exercise rights. Please include your full name, residential address, email address, and phone number, along with why you are writing, so that we can process your request. Please email us at [contact@theamericansweepstakes.com](mailto:contact@theamericansweepstakes.com).
+
+Webform: You may fill out a [Webform](https://privacyportal.onetrust.com/webform/9778300d-e8e2-4455-a4ff-488f60a54302/42dc3232-51fe-4da9-a18e-245d4aecc031) to exercise rights. Please include your full name, email address, and phone number, along with why you are writing, so that we can process your request.
+
+**Response Timing.** We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing. If we decline to act regarding a consumer request, we will inform you of the reason within 45 days of receiving that request.
+
+8\. Oregon Residents.
+---------------------
+
+_Effective July 1, 2024._
+
+The Oregon Consumer Privacy Act provides Oregon residents with the additional rights listed below.
+
+**Right to Know.** You have the right to confirm whether we are processing your personal data and access such data, including:
+
+* The categories of personal information we have collected about you;
+* The purpose for processing your personal information;
+* How you can exercise your rights and appeal a decision regarding your request;
+* The categories of personal information that we have shared with third parties; and
+* The categories of third parties with whom we have shared your personal information.
+
+**Right to Correct.** You have a right to correct inaccuracies in the personal data we have collected about you, considering the nature of the personal data and the purposes of the processing of your personal data.
+
+**Right to Delete.** You have the right to request that we delete the personal information we have collected from you unless we need to retain that information for a specified purpose as exempted under state law.
+
+**Right to Obtain a Copy.** You have a right to obtain a copy of the personal data we have collected on you.
+
+**Right to Opt Out.** You have the right to opt out of the processing of your personal data for purposes of (i) targeted advertising, (ii) the sale of personal data, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+
+**Right to Appeal.** If we decline to act regarding your request, you have the right to appeal this decision.
+
+**Other Rights.**  You also have the right not to be discriminated against for exercising any of the rights listed above.
+
+**Exercising Your Oregon Privacy Rights.** To request access to or deletion of your personal information, or to exercise any other data rights under Oregon law, please contact us using the following method:
+
+Email: You may write to us to exercise rights. Please include your full name, residential address, email address, and phone number, along with why you are writing, so that we can process your request. Please email us at [contact@theamericansweepstakes.com](mailto:contact@theamericansweepstakes.com).
+
+Webform: You may fill out a [Webform](https://privacyportal.onetrust.com/webform/9778300d-e8e2-4455-a4ff-488f60a54302/42dc3232-51fe-4da9-a18e-245d4aecc031) to exercise rights. Please include your full name, email address, and phone number, along with why you are writing, so that we can process your request.
+
+**Response Timing.** We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing. If we decline to act regarding a consumer request, we will inform you of the reason within 45 days of receiving that request.
 
 7\. THIRD PARTY LINKS AND BEHAVIORAL TRACKING
 ---------------------------------------------
