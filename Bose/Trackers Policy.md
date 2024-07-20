@@ -1,8 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-Save on select products during our Summer Sale. [SHOP](https://www.bose.com/c/summer-sale)
-
-  
+Summer bonus deals: Save over 50% on bestsellers this weekend only. [SHOP](https://www.bose.com/c/summer-sale)
 
 Back
 
@@ -26,20 +24,18 @@ Back
     
     [View all products](https://www.bose.com/c/all-products)
     
-    [![](https://assets.bosecreative.com/m/541b633853eee001/webimage-SF_HP-PANEL-Summer-Sale_QCUH_v2.png)
+    [![](https://assets.bosecreative.com/m/32a4520a4af703d2/webimage-Editorial-Product-Category-Card_Prime-Day-July_v2.png)
     
-    Summer sale
+    Summer bonus deals
     
-    ### Save up to 50% on select Certified Refurbished products](https://www.bose.com/c/summer-sale "SHOP")
+    ### Save over 50% on bestsellers this weekend only.](https://www.bose.com/c/summer-sale "SHOP")
     
-     ![Bose QuietComfort Ultra Headphones](https://assets.bosecreative.com/transform/4f3f1cad-f128-42d3-931c-eebb3c531ef9/Editorial-Product-Category-Card_Summer-Sale_QCUH_V2?io=transform:crop,height:1920,width:1920,path:square&io=filter:sharpness,amount:100&quality=95)
+     ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/b3e8c543-dc98-4a1c-bec5-fefce30074e5/Editorial-Product-Category-Card_Prime-Day-July_v2?io=transform:crop,height:1920,width:1920,path:square&io=filter:sharpness,amount:100&quality=95)
     
-    Summer sale
+    Summer bonus deals
+    ------------------
     
-    Catch a summer sound wave
-    -------------------------
-    
-    Save up to 50% on select Certified Refurbished products.
+    Save over 50% on bestsellers this weekend only.
     
     [SHOP](https://www.bose.com/c/summer-sale "SHOP")
     
@@ -106,7 +102,7 @@ Summer bonus deals
 
 ### Save over 50% on bestsellers this weekend only.](https://www.bose.com/c/summer-sale "SHOP")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw61b121f1/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw560e452d/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
