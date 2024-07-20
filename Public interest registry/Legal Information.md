@@ -1,167 +1,112 @@
-WHAT'S NEW
+[![a blue circle with the word pir in it.](https://pir.org/wp-content/uploads/2023/06/logo_pir.png)](https://pir.org/)
 
-**Call for Nominations: Sixth Annual .ORG Impact Awards to Recognize Global Changemakers**
+* [Who We Are](https://pir.org/who-we-are/)
+    * * * [Background](#)
+            * [Mission](https://thenew.org/who-we-are#mission)
+            * [History](https://thenew.org/who-we-are#history)
+            * [Leadership](https://pir.org/who-we-are/teams/)
+            * [Join Our Team](https://pir.org/who-we-are/careers/)
+        * * [Learn More](#)
+            * [PIR Policies](https://pir.org/our-impact/privacy/)
+            * [Annual Reports and 990s](https://pir.org/who-we-are/annual-reports/)
+            * [Blog and News](https://pir.org/news-insights/)
+        * * [Resources](#)
+            * [Contact](https://pir.org/contact/)
+            * [Glossary](https://pir.org/who-we-are/glossary/)
+* [Our Impact](https://pir.org/our-impact/)
+    * * * [Initiatives](#)
+            * [Anti-Abuse Initiatives](https://pir.org/our-impact/abuse-initiatives/)
+            * [NetBeacon Institute](https://pir.org/our-impact/netbeacon-institute/)
+            * [Supporting ORGs](https://pir.org/for-orgs/)
+        * * [Policies in Action](#)
+            * [Anti-Abuse Policy](https://pir.org/our-impact/anti-abuse-policy/)
+            * [Privacy Policy](https://pir.org/our-impact/privacy/)
+            * [Vendor Standards of Behavior](https://pir.org/our-impact/vendor-standards-of-behavior/)
+            * [Reserved Name Policy](https://pir.org/our-impact/reserved-names-policy/)
+            * [.NGO + .ONG Registration Policy](https://pir.org/our-impact/ngo-ong-policy/)
+            * [DNSSEC Practice Statement](https://pir.org/products/dnssec-practice-statement/)
+* [For ORGs](https://pir.org/for-orgs/)
+    * * * [Celebrate](#)
+            * [.ORG Impact Awards](https://pir.org/for-orgs/org-impact-awards/)
+            * [Why Enter the OIAs](https://pir.org/for-orgs/org-impact-awards/why-enter-the-oias/)
+            * [How To Enter the OIAs](https://pir.org/for-orgs/org-impact-awards/how-to-enter/)
+            * [.ORG Impact Award Alumni](https://pir.org/for-orgs/org-impact-awards/winners-history/)
+        * * [Empower](#)
+            * [ORG In Action](https://pir.org/for-orgs/org-in-action/)
+            * [Tell us your story](https://pir.org/for-orgs/be-an-org-in-action/)
+        * * [Educate](#)
+            * [.ORG Learning Center](https://pir.org/for-orgs/learning-center/)
+            * [Bootcamp](https://pir.org/for-orgs/bootcamp/)
+            * [Lessons from Leaders](https://pir.org/for-orgs/lessons-from-leaders/)
+            * [GCA Cybersecurity Toolkit](https://gcatoolkit.org/mission-based-orgs/)
+    
+* [Our Domains](https://pir.org/our-domains/)
+    * * * [Domains](#)
+            * [Our Domains](https://pir.org/our-domains/)
+            * [.ORG Domain](https://pir.org/our-domains/org-domain/)
+            * [.ORG Family of Domains](https://pir.org/our-domains/org-family/)
+        * * [Registrar Resources](#)
+            * [Become A Registrar](https://pir.org/our-domains/become-a-registrar/)
+            * [QPI](https://pir.org/our-impact/qpi/)
+            * [Anti-Abuse Metrics](https://pir.org/our-domains/anti-abuse/)
+            * [Partner Portal](https://registrar.publicinterestregistry.org/)
+        * * [Support](#)
+            * [Find A Registrar](https://pir.org/our-domains/find-a-registrar/)
+            * [Whois Look Up](https://pir.org/our-domains/whois-look-up/)
+            * [PIR Policies](https://pir.org/our-impact/privacy/)
+            * [Contact](https://pir.org/contact/)
+* [Contact](https://pir.org/contact/)
 
-[](https://thenew.org/call-for-nominations-sixth-annual-org-impact-awards-to-recognize-global-changemakers/)
+Search: search  
 
-×
+[search](https://pir.org/search/)
 
-* [](https://www.facebook.com/PIRegistry "https://www.facebook.com/PIRegistry")
-* [](https://www.linkedin.com/company/public-interest-registry/ "https://www.linkedin.com/company/public-interest-registry/")
-* [](https://twitter.com/piregistry "https://twitter.com/piregistry")
-* [](https://instagram.com/piregistry "https://instagram.com/piregistry")
-* [](https://thenew.org/org-people/work-with-us/contact/ "https://thenew.org/org-people/work-with-us/contact/")
+PIR Policies
+============
 
-Search
+Policies
 
-Latest News
------------
+[Anti-Abuse Policy](https://pir.org/our-impact/anti-abuse-policy/)
 
-### Celebrating Excellence: Public Interest Registry Receives Three 2024 Telly Awards
+[Privacy Policy](https://pir.org/our-impact/privacy/)
 
-by Judy Song-Marshall, Chief Strategy Officer, PIR   Public Interest Registry (PIR) has a longstanding commitment to support nonprofits, NGOs,...
+[Vendor Standards of Behavior](https://pir.org/our-impact/vendor-standards-of-behavior/)
 
-[Read More...](https://thenew.org/celebrating-excellence-public-interest-registry-receives-three-2024-telly-awards/)
+[Reserved Names Policy](https://pir.org/our-impact/reserved-names-policy/)
 
-### Call for Nominations: Sixth Annual .ORG Impact Awards to Recognize Global Changemakers
+[.NGO + .ONG Registration Policy](https://pir.org/our-impact/ngo-ong-policy/)
 
-Winners eligible for prize donations up to $50,000 USD out of $180,000 USD total prize awards All finalists will be...
-
-[Read More...](https://thenew.org/call-for-nominations-sixth-annual-org-impact-awards-to-recognize-global-changemakers/)
-
-### PIR and IWF Announce Partnership
-
-Public Interest Registry (PIR) announced its Request for Proposal (RFP) process for its Registry Service Provider (RSP) capability.
-
-[Read More...](https://thenew.org/pir-partners-with-iwf-to-disrupt-csam/)
-
-### Public Interest Registry Concludes RFP Process for Registry Service Provider
-
-Public Interest Registry (PIR) announced its Request for Proposal (RFP) process for its Registry Service Provider (RSP) capability.
-
-[Read More...](https://thenew.org/public-interest-registry-concludes-rfp-process-for-registry-service-provider/)
-
-### Public Interest Registry Announces 2023 .ORG Impact Awards Finalists, Padma Lakshmi to Host
-
-Public Interest Registry (PIR), the people behind .ORG, is now accepting nominations for its fifth annual .ORG Impact Awards.
-
-[Read More...](https://thenew.org/public-interest-registry-announces-2023-org-impact-awards-finalists/)
-
-Main Nav
---------
-
-* [Choose .ORG](https://thenew.org/choose/)
-    * [Why .ORG?](https://thenew.org/choose/why-org/)
-    * [Purpose](https://thenew.org/choose/purpose/)
-    * [.ORGs in Action](https://thenew.org/choose/orgs-in-action/)
-* [Get .ORG](https://thenew.org/get/)
-    * [How Do I Start?](https://thenew.org/get/how-do-i-start/)
-    * [Find My .ORG](https://thenew.org/get/find-my-org/)
-        * [Domain Availability](https://thenew.org/get/find-my-org/domain-search2/)
-        * [Whois Lookup](https://thenew.org/get/find-my-org/whois/)
-    * [Register My .ORG](https://thenew.org/get/register-my-org/)
-        * [Find a Registrar](https://thenew.org/get/org-find-registrar/)
-* [Use .ORG](https://thenew.org/use/)
-    * [Community](https://thenew.org/use/community/)
-        * [.ORG Stories](https://thenew.org/org-stories/)
-        * [Submit Your .ORG Story](https://thenew.org/use/community/submit-your-org-story/)
-    * [.ORG Newsroom](https://thenew.org/category/org-newsroom/)
-    * [Tools](https://thenew.org/use/tools/)
-* [The People Behind .ORG](https://thenew.org/org-people/)
-    * [About PIR](https://thenew.org/org-people/about-pir/)
-        * [Team](https://thenew.org/org-people/about-pir/team/)
-            * [Executive Team](https://thenew.org/org-people/about-pir/team/executive-team/)
-            * [Staff](https://thenew.org/org-people/about-pir/team/staff/)
-            * [Board](https://thenew.org/org-people/about-pir/team/board/)
-            * [Advisory Council](https://thenew.org/org-people/about-pir/team/advisory-council/)
-            * [About The Internet Society](https://thenew.org/org-people/about-pir/about-the-internet-society/)
-        * [PIR Newsroom](https://thenew.org/category/pir-newsroom/)
-        * [Resources](https://thenew.org/org-people/about-pir/resources/)
-            * [990 and Annual Report](https://thenew.org/org-people/about-pir/resources/990-annual-report/)
-            * [FAQs](https://thenew.org/org-people/about-pir/resources/faqs/)
-            * [Glossary](https://thenew.org/org-people/about-pir/resources/glossary/)
-            * [Zone File Access](https://thenew.org/org-people/about-pir/resources/zone-file-access/)
-            * [Anti-Abuse Policy Appeals Process](https://thenew.org/org-people/about-pir/resources/anti-abuse-policy-appeals-process/)
-        * [PIR Careers](https://thenew.org/org-people/about-pir/careers/)
-        * [Policies](https://thenew.org/org-people/about-pir/policies/)
-            * [Anti-Abuse Policy](https://thenew.org/org-people/about-pir/policies/anti-abuse-policy/)
-            * [.NGO and .ONG Registration Policy](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)
-            * [PIR Privacy Notice](https://thenew.org/org-people/about-pir/policies/pir-privacy-notice/)
-            * [Reserved Names Policy](https://thenew.org/org-people/about-pir/policies/reserved-names-policy/)
-            * [Vendor Standards of Behavior](https://thenew.org/org-people/about-pir/policies/vendor-standards-of-behavior/)
-    * [Domain Products](https://thenew.org/org-people/domain-products/)
-        * [.ORG Domain](https://thenew.org/org-people/domain-products/org/)
-        * [.CHARITY Domain](https://thenew.org/org-people/domain-products/charity-domain/)
-        * [.FOUNDATION Domain](https://thenew.org/org-people/domain-products/foundation-domain/)
-        * [.GIVES Domain](https://thenew.org/org-people/domain-products/gives-domain/)
-        * [.NGO and .ONG](https://thenew.org/org-people/domain-products/ngo-and-ong/)
-        * [.संगठन](https://thenew.org/org-people/domain-products/%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8/)
-        * [.机构](https://thenew.org/org-people/domain-products/%e6%9c%ba%e6%9e%84/)
-        * [.OPR](https://thenew.org/org-people/domain-products/opr/)
-    * [Become a Registrar](https://thenew.org/org-people/work-with-us/)
-        * [Step 1: Documentation](https://thenew.org/org-people/work-with-us/step-1/)
-        * [Step 2: Meet The Technical Requirements](https://thenew.org/org-people/work-with-us/step-2/)
-        * [Step 3: Fund Your Account](https://thenew.org/org-people/work-with-us/step-3/)
-
-Quick Links
------------
-
-* [Contact Us](https://thenew.org/org-people/work-with-us/contact/)
-* [PIR News](https://thenew.org/category/pir-newsroom/)
-* [Registrar Portal](https://registrar.publicinterestregistry.org/)
-* [Become a Registrar](https://thenew.org/org-people/work-with-us/)
-* [Domain Availability](https://thenew.org/get/find-my-org/domain-search2/)
-* [Whois Lookup](https://thenew.org/get/find-my-org/whois/)
-* [.ORG Learning Center](https://orglearningcenter.org/)
-* [DNS Abuse Institute](https://dnsabuseinstitute.org/)
-
-×
-
- Search Site
-
-OR
-
-Search for .ORG, .CHARITY, .FOUNDATION, .GIVES, .GIVING, .NGO, .ONG, .OPT, .संगठन or .机构   Search for Domains
-
-[![](https://thenew.org/wp-content/themes/pir-theme/assets/images/pir-logo.svg)](https://thenew.org/ ".ORG")
-
-PIR Privacy Notice
-==================
-
-[Home](https://thenew.org/ "Go to .ORG.")[The People Behind .ORG](https://thenew.org/org-people/ "Go to The People Behind .ORG.")[About PIR](https://thenew.org/org-people/about-pir/ "Go to About PIR.")[Policies](https://thenew.org/org-people/about-pir/policies/ "Go to Policies.")PIR Privacy Notice
-
-**Privacy Notice**
-------------------
+Privacy Notice
+--------------
 
 Our globally diverse team is committed to providing a stable online platform where everyone has a voice. As part of our commitment to provide a secure, stable space to empower people’s voices, your privacy is important to us. Likewise, we strive to respect your human rights and fundamental freedoms.
 
 This Privacy Notice outlines what information Public Interest Registry (PIR) collects through your interactions with our products and services, how we use that information, and how we work to protect your privacy and personal data.
 
-### **Privacy Notice (****all gTLDs under management)**
+#### Privacy Notice (all gTLDs under management)
 
 PIR provides reliable, secure management of the .org, .ngo, .ong, .charity, .foundation, .gives, .giving, .机构, .संगठन, and .орг domains. As the registry operator for these generic top-level domains (gTLD), PIR is responsible for the operation of each gTLD, including maintaining a registry of the domain names within each gTLD.
 
-PIR serves as the registry operator for these gTLDs under contracts with the Internet Corporation for Assigned Names and Numbers  
-([ICANN](https://www.icann.org/)), a not-for-profit private sector organization which is charged with coordinating and ensuring the stable and secure operation of the Internet’s unique identifier systems.
+PIR serves as the registry operator for these gTLDs under contracts with the Internet Corporation for Assigned Names and Numbers ([ICANN](https://www.icann.org/)), a not-for-profit private sector organization which is charged with coordinating and ensuring the stable and secure operation of the Internet’s unique identifier systems.
 
 This Privacy Notice outlines policies that apply to information processed in conjunction with all PIR’s products and services.  
-Inquiries can be made electronically via e-mail at [privacy@pir.org](mailto:privacy@pir.org), or via mail to Public Interest Registry c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, USA , or via PIR’s EU Representative at [datenschutz@rickert.net](mailto:datenschutz@rickert.net) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
+Inquiries can be made electronically via e-mail at [privacy@pir.org](mailto:privacy@pir.org), or via mail to Public Interest Registry c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, USA , or via PIR’s EU Representative at [datenschutz@rickert.net](mailto:datenschutz@rickert.net) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
 
-### **I. Why Do We Collect Information?**
+#### I. Why Do We Collect Information?
 
-As a registry operator, PIR has the responsibility to maintain the operation of each of its gTLDs, including effecting registrations in TLDs and maintaining a registry of the domain names within each gTLD.  PIR takes actions to process information and directs the actions of third parties to process data in connection with our responsibilities as a registry operator to ensure domain name registrations function in a predictable and reliable way as required by our [contracts with ICANN](https://www.icann.org/resources/agreement/org-2013-08-22-en).
+As a registry operator, PIR has the responsibility to maintain the operation of each of its gTLDs, including effecting registrations in TLDs and maintaining a registry of the domain names within each gTLD.  PIR takes actions to process information and directs the actions of third parties to process data in connection with our responsibilities as a registry operator to ensure domain name registrations function in a predictable and reliable way as required by our [contracts with ICANN](https://www.icann.org/resources/agreement/org-2013-08-22-en).
 
 As defined by our ICANN contracts, PIR works with ICANN accredited registrars to enable the sale of domain names and to ensure those domain names properly function for registrants (domain name owners).  In order to provide domain name services and maintain a secure zone, registrars are required to collect information from registrants upon registration of a domain name.  Registrars are then required to pass certain information to registries to maintain the functionality of the zone.  All of these requirements are outlined in both the registry and registrar contracts with ICANN and the subsequent required contracts between registries and registrars.
 
 Registrars are responsible for collecting and transferring registration data, presenting each registrant with their privacy policies, that of their registry partners, and information on the mechanisms for access and correction of their data.  Because you may choose any ICANN accredited registrar to register a domain name, questions regarding a registrar’s privacy policy or practices should be directed to your Registrar.
 
-ICANN, registries, and registrars are joint controllers for all information collected, stored, transferred, and processed in line with our Registry [contracts with ICANN](https://www.icann.org/resources/agreement/org-2019-06-30-en). 
+ICANN, registries, and registrars are joint controllers for all information collected, stored, transferred, and processed in line with our Registry [contracts with ICANN](https://www.icann.org/resources/agreement/org-2019-06-30-en).
 
 In addition to the joint controller relationship between ICANN, registries, and registrars, registries and registrars are required to securely escrow registry data with ICANN accredited data escrow providers to provide protection against the unlikely event of registry or registrar failure or loss.
 
 PIR will also collect and process information from employees and applicants seeking employment with PIR.  Information collected for employment and hiring will only be used for those purposes and will only be retained for as long as is required by applicable law.
 
-### **II. Information We Collect**
+#### II. Information We Collect
 
 PIR receives domain name registrations, and the associated personal data provided upon registration of a domain name by registrants, from ICANN accredited registrars.  In addition to domain name registration data, PIR collects information from users interacting with our websites and services. The data PIR collects depends on your interactions with our websites and services:
 
@@ -169,7 +114,7 @@ PIR receives domain name registrations, and the associated personal data provide
 * We collect information about you when you interact with a PIR website, participate in a survey, request a newsletter or mailing list membership, and apply for a job.
 * PIR may also obtain data from sources such as cookies, third-party website analytics and ad platforms (Google), publicly available datasets, and third-party data analysis.
 
-#### **1\. Registrants**
+##### 1\. Registrants
 
 PIR accepts domain name registrations only from ICANN-accredited domain name registrars. PIR does not accept domain name registrations directly from registrants. When you register a domain name through a registrar, the registrar collects information (in accordance with their ICANN accreditation and ICANN contract requirements and discloses it to PIR (Registration Data or WHOIS Data)). Registrant data is not collected at the registry level by PIR. Information may be collected from the registrant, a nominated administrative domain contact, technical contact, or billing contact. This Notice defines “registrant” or “you” as these persons. Registrars then pass the registrant data to PIR as required by our contracts with ICANN to fulfill our requirements and service as a registry operator to register and maintain the domain name. A list of registration data received and processed by PIR:
 
@@ -213,9 +158,9 @@ Tech Email:
 
 Please note that each registrar has its own policies and procedures and you should review a registrar’s privacy policy and procedures prior to your registration of a domain name.
 
-#### **2\. Website Users**
+##### 2\. Website Users
 
-_a. User Information_
+_a. User Information_
 
 You may visit PIR websites without identifying yourself. If you are interested in our services (other than registering a domain name, which must be done through an accredited registrar) or wish to subscribe to our newsletter, you may be required to register with PIR. When you register, we may request certain personal data, including your name, address, e-mail address and other personal data. In addition to website registration, PIR may request personal data for purposes such as the provision of customer service, service offerings, network management, surveys, and other exchanges of information.
 
@@ -223,7 +168,7 @@ _b. Cookies_
 
 A cookie is a small data file that certain websites write to your hard drive when you visit the site. A cookie file can contain information that allows PIR to track the pages you have visited. PIR uses cookies to tell when a user is a repeat visitor and to let us know how the user found the website. Cookies also allow us to automatically link users to their personalized accounts (should you choose to register with PIR), enabling you to enter various services as a member and to visit member-restricted areas of the site without having to log in each time. This applies to the use of cookies by PIR and does not apply to the use of cookies or other tracking technologies used by any third parties.
 
-Visitors to our sites have the option to disable cookies via their browser preferences or through [www.allaboutcookies.org](https://www.allaboutcookies.org/). You can refuse cookies by turning them off in your browser ([Google Chrome](https://support.google.com/chrome/answer/95647), [Safari](https://support.apple.com/en-us/HT201265), [Internet Explorer](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d), [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US)). However, PIR maintains a legitimate interest in using cookies, as some portions of our website and services will not work if the ability to accept cookies is disabled. This applies to the use of cookies by PIR and does not apply to the use of cookies or other tracking technologies used by any third parties.
+Visitors to our sites have the option to disable cookies via their browser preferences or through [www.allaboutcookies.org](https://www.allaboutcookies.org/). You can refuse cookies by turning them off in your browser ([Google Chrome](https://support.google.com/chrome/answer/95647), [Safari](https://support.apple.com/en-us/HT201265), [Internet Explorer](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d), [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US)). However, PIR maintains a legitimate interest in using cookies, as some portions of our website and services will not work if the ability to accept cookies is disabled. This applies to the use of cookies by PIR and does not apply to the use of cookies or other tracking technologies used by any third parties.
 
 _c. Analytics_
 
@@ -247,7 +192,7 @@ PIR may utilize third-party ads (Google, Facebook, Instagram). In general, PIR r
 
 _h. Children_
 
-Please note that we do not knowingly solicit information from children, and we do not knowingly market our products or services to children. If you have reason to believe anyone under the age of 18 has provided PIR with any personal data, please contact us at [privacy@pir.org](mailto:privacy@pir.org).
+Please note that we do not knowingly solicit information from children, and we do not knowingly market our products or services to children. If you have reason to believe anyone under the age of 18 has provided PIR with any personal data, please contact us at [privacy@pir.org](mailto:privacy@pir.org).
 
 _i. Sensitive Personal Information_
 
@@ -255,43 +200,43 @@ Similarly, PIR dos not ordinarily or knowingly require or collect sensitive pers
 
 _j. DNS Abuse Institute (Institute) & Compass_
 
-The DNS Abuse Institute (Institute) was created by, and is a part of  PIR, and is tasked with creating outcomes-based initiatives that will create recommended practices, foster collaboration, and develop industry shared solutions to combat abuses of the Domain Name System (DNS). DNSAI: Compass (Compass) is an initiative of the Institute to measure the use of the DNS for phishing and malware.  In order to access the service, users of Compass may be asked to provide personal data. In order to provide access to the Compass dashboards, that personal data will also be securely processed through PIR’s instances of Snowflake and Tableau. If you have questions about the Institute’s NetBeacon initiative, it has a separate Privacy Policy located [here](https://netbeacon.org/privacy-policy/).
+The DNS Abuse Institute (Institute) was created by, and is a part of  PIR, and is tasked with creating outcomes-based initiatives that will create recommended practices, foster collaboration, and develop industry shared solutions to combat abuses of the Domain Name System (DNS). DNSAI: Compass (Compass) is an initiative of the Institute to measure the use of the DNS for phishing and malware.  In order to access the service, users of Compass may be asked to provide personal data. In order to provide access to the Compass dashboards, that personal data will also be securely processed through PIR’s instances of Snowflake and Tableau. If you have questions about the Institute’s NetBeacon initiative, it has a separate Privacy Policy located [here](https://netbeacon.org/privacy-policy/).
 
-#### **3\. Employment Data**
+##### 3\. Employment Data
 
 During the interview, hiring, and onboarding process, PIR will process personal data applicants and employees provide to PIR in order to fulfill PIR’s employer obligations to employee and/or job applicants as outlined in its Human Resources Policies, including its Employee Data Notice.
 
 The data collected for employment purposes will not be used by PIR for any other purpose. PIR will only retain employment information for as long as is required by applicable law.
 
-If you have any questions or concerns about employment data please feel free to contact Human Resources [hr@pir.org](mailto:hr@pir.org) or the Privacy Office at [privacy@pir.org](mailto:privacy@pir.org).
+If you have any questions or concerns about employment data please feel free to contact Human Resources [hr@pir.org](mailto:hr@pir.org) or the Privacy Office at [privacy@pir.org](mailto:privacy@pir.org).
 
-### **III. Purpose for Using Personal Data**
+#### III. Purpose for Using Personal Data
 
 PIR will make all reasonable efforts to ensure that personal information is processed only for the purposes set out below (including to provide the services requested by you and to fulfill PIR’s contracts with ICANN). We will make all reasonable efforts to ensure that personal information is not further processed in a way incompatible with the purpose for which it was collected or received. PIR will only disclose this information, or elements of this information, in certain defined situations defined below in the Data Sharing and Disclosure.
 
-#### **1\. Domain Name Registration**
+##### 1\. Domain Name Registration
 
-PIR uses the information provided by registrars to effect domain name registrations and to maintain the security and stability of our TLDs to ensure continued and reliable function to domain name users; to conduct analysis in order to optimize our service to you; and investigate and mitigate abuse in line with PIR’s [Abuse Policy](https://pir.org/policies/org-idn-policies/anti-abuse-policy/). In addition to ensuring the secure and stable registration and operation of your domain name, PIR may use registration data to improve our services, promotions, and systems and to develop and collect aggregate anonymous statistics related to PIR’s systems and services. In addition, because .ngo and .ong are restricted TLDs, meaning that only non-governmental organizations may register these domain names, PIR will use the registration information we receive from registrars, as well as additional credential information provided by the registrant organization, to complete an audit to assess compliance with the [Eligibility Requirements](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)  of .ngo and .ong.
+PIR uses the information provided by registrars to effect domain name registrations and to maintain the security and stability of our TLDs to ensure continued and reliable function to domain name users; to conduct analysis in order to optimize our service to you; and investigate and mitigate abuse in line with PIR’s [Abuse Policy](https://pir.org/policies/org-idn-policies/anti-abuse-policy/). In addition to ensuring the secure and stable registration and operation of your domain name, PIR may use registration data to improve our services, promotions, and systems and to develop and collect aggregate anonymous statistics related to PIR’s systems and services. In addition, because .ngo and .ong are restricted TLDs, meaning that only non-governmental organizations may register these domain names, PIR will use the registration information we receive from registrars, as well as additional credential information provided by the registrant organization, to complete an audit to assess compliance with the [Eligibility Requirements](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)  of .ngo and .ong.
 
-#### **2\. WHOIS**
+##### 2\. WHOIS
 
 PIR is required by our ICANN contracts to maintain a public searchable WHOIS or RDDS lookup for domain names in our TLDS. To that end, PIR will display all non-personal registration information publicly via both web-based WHOIS or RDDS lookup and a Port 43 WHOIS service. PIR will retain and maintain the full set of registration information provided by registrants upon registration of a domain name.
 
-#### **3\. Website & Third-party Ad Information**
+##### 3\. Website & Third-party Ad Information
 
 If you submit personal data to PIR through our website, we may use that information to assist with the functionality of the website. This may include sending you information you have requested to receive (i.e. newsletters, emails from lead generation ads) and providing you with policy and services updates. Be aware that any information you voluntarily provide via message boards or public discussion tools becomes publicly available information and may be used by PIR or others.
 
 PIR collects aggregated anonymized data from visitors to our websites via third-party data analytics (Google) (i.e. cookies, log files, usage data, IP address, browser, click stream data, etc.) as well as general performance data from any third-party ads and may use that data to analyze and evaluate the effectiveness of our website design, services, marketing, and campaigns.
 
-#### **4\. DNS Abuse Institute (Institute) & Compass**
+##### 4\. DNS Abuse Institute (Institute) & Compass
 
 Personal data submitted to PIR by users of the Institute’s Compass dashboards will be processed solely to provide the requested service, access to Compass dashboards. Personal data will be processed through PIR instances of Snowflake, Tableau, Azure, AWS, and Sharepoint software in order to provide access to the PIR developed dashboards.
 
-#### **5\. Employment Data**
+##### 5\. Employment Data
 
 PIR will process employee information in order to fulfill PIR’s employer obligations as outlined in its Human Resources Policies. During the job application process PIR may collect applicant information in order to evaluate and contact candidates.
 
-### **IV. Lawful Bases for Processing Personal Data**
+#### IV. Lawful Bases for Processing Personal Data
 
 PIR processes your personal data: (a) based on the performance of a contract to which you are a subject or (b) where we have a legitimate business interest in doing so.
 
@@ -301,15 +246,15 @@ PIR may also have a legitimate interest in using personal data that is provided 
 
 PIR will process data related to Institute’s Compass dashboards based upon user consent which will be recorded and is revocable at any time by the user.
 
-### **V. Data Sharing and Disclosure**
+#### V. Data Sharing and Disclosure
 
-#### **1\. Partners and Service Providers**
+##### 1\. Partners and Service Providers
 
 Our trusted processors (vendors, subcontractors, and other similar business partners) are responsible for processing some of the personal data that we receive. Therefore, PIR discloses some personal data as received from your registrar to our processors. These processors are not authorized to use such personal data for purposes beyond those specified by us and to the extent that they process any personal data they are required to provide security and privacy protections in line with PIR’s Privacy Policy and in compliance with applicable privacy and data protection laws.
 
 _a. WHOIS and Registration Data_
 
-PIR only requires the registrars to disclose to us the registration data dictated by ICANN as necessary for the registration and maintenance of a domain name. ICANN requires the maintenance of both web-based WHOIS access and Port 43 WHOIS access. The below shows the non-personal data that PIR will make publicly available via PIR’s web-based WHOIS portal and Port 43 access pursuant to the redaction requirements in ICANN’s [Interim Registration Data Policy for gTLDs](https://www.icann.org/resources/pages/interim-registration-data-policy-en).
+PIR only requires the registrars to disclose to us the registration data dictated by ICANN as necessary for the registration and maintenance of a domain name. ICANN requires the maintenance of both web-based WHOIS access and Port 43 WHOIS access. The below shows the non-personal data that PIR will make publicly available via PIR’s web-based WHOIS portal and Port 43 access pursuant to the redaction requirements in ICANN’s [Interim Registration Data Policy for gTLDs](https://www.icann.org/resources/pages/interim-registration-data-policy-en).
 
 Domain Name: example.tld  
 Registry Domain ID: D13664-LRMS  
@@ -353,21 +298,21 @@ This Privacy Notice only addresses the processing of personal data we collect fr
 
 _f. Traffic Data_
 
-PIR is authorized by our contracts with ICANN to make use of “traffic data” for a variety of purposes (the relevant registry contract provision can be viewed [here](https://www.icann.org/tlds/agreements/org/registry-agmt-08dec06.htm); Sec. 3.1(f)). PIR makes use of traffic data for technical purposes to enhance security and stability in its operations. PIR may make use of such data for purposes connected with the sale of domain names provided that such use does not involve collection or dissemination of personally identifiable information.
+PIR is authorized by our contracts with ICANN to make use of “traffic data” for a variety of purposes (the relevant registry contract provision can be viewed [here](https://www.icann.org/tlds/agreements/org/registry-agmt-08dec06.htm); Sec. 3.1(f)). PIR makes use of traffic data for technical purposes to enhance security and stability in its operations. PIR may make use of such data for purposes connected with the sale of domain names provided that such use does not involve collection or dissemination of personally identifiable information.
 
 _f. Software Providers_
 
 PIR utilizes third-party software providers (Microsoft, Sharepoint, Azure Services, Amazon Web Services, Snowflake, and Tableau) to allow us to do internal research in order to maintain and improve the services we provide. This data is only shared with providers which have appropriate data processing agreements in place and they are prohibited from processing PIR provided data for any other purposes. In some instances PIR will process personal data provided to us via our instances of Snowflake and Tableau in order to provide the service requested by the user.
 
-#### **2\. Exceptions and Special Circumstances**
+##### 2\. Exceptions and Special Circumstances
 
 There are occasionally special circumstances that require PIR to disclose information which could include personal data.
 
 In certain circumstances, PIR must disclose information beyond the limits outlined above including when it is necessary to fulfill a transaction or provide information you have requested; necessary to protect the rights, property or personal safety of PIR, its customers or the public; in the vital interests of the data subject or another person; required by law or necessary to respond to legal process; necessary to meet the requirements of requests, lawfully made by public authorities, including requests to meet national security or law enforcement requirements.
 
-PIR reserves the right to disclose personal data or non-personal data that PIR believes, in good faith, is appropriate or necessary to enforce our [Registry Policies](https://thenew.org/org-people/about-pir/policies/), and to protect the security or integrity of our Website.
+PIR reserves the right to disclose personal data or non-personal data that PIR believes, in good faith, is appropriate or necessary to enforce our [Registry Policies](https://thenew.org/org-people/about-pir/policies/), and to protect the security or integrity of our Website.
 
-### **VI. How to Access, Amend, and Control Your Personal Data**
+#### VI. How to Access, Amend, and Control Your Personal Data
 
 If you have any questions about a domain name registration, you should begin by contacting the registrar of record. Except for certain extraordinary circumstances, PIR only alters a record in the registry at the request of a relevant and authorized registrar.
 
@@ -375,63 +320,138 @@ If you are a domain name registrant and wish to update your domain account infor
 
 If you are another type of user, you may request to have your personal data changed or corrected (e.g., a change of address). If you object to the processing of your personal data by third party service providers for online advertising please change your personal privacy settings within those services (i.e. Facebook Companies, Google, Twitter) or in your browser.
 
-You may also wish to contact us should you no longer desire our service. You may contact PIR via e-mail at [privacy@pir.org](mailto:privacy@pir.org) or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
+You may also wish to contact us should you no longer desire our service. You may contact PIR via e-mail at [privacy@pir.org](mailto:privacy@pir.org) or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
 
-#### **Special Note for EU Data Subjects**
+##### Special Note for EU Data Subjects
 
-##### **1\. Data Subject Rights**
+**1\. Data Subject Rights**
 
 The EU General Data Protection Regulation (2016/679) affords you certain rights. Where applicable you may request confirmation that PIR does or does not process personal data related to you. You may request a copy of your personal data or request that a copy is sent to a third party. You may request that your data, such as your address, is amended or corrected. In some circumstances you may request that your data processed by PIR be deleted. You may also request, in certain cases, that we restrict processing of your personal data by PIR. You also have the right to object to receiving direct marketing. To the extent your information is processed by PIR based upon consent, you may withdraw that consent at any time.
 
-Should you wish to exercise any of these rights or other rights afforded you by the GDPR please contact us via e-mail at [privacy@pir.org](mailto:privacy@pir.org), or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
+Should you wish to exercise any of these rights or other rights afforded you by the GDPR please contact us via e-mail at [privacy@pir.org](mailto:privacy@pir.org), or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
 
-You may contact PIR’s EU Representative at [datenschutz@rickert.net](mailto:datenschutz@rickert.net) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
+You may contact PIR’s EU Representative at [datenschutz@rickert.net](mailto:datenschutz@rickert.net) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
 
-##### **2\. Data Transfer**
+**2\. Data Transfer**
 
 In order to fulfill the requirements of our contracts with ICANN and registrars, and to provide the promised services to you, PIR may receive data from EEA countries or transfer your data to third countries. PIR, as a non-profit, US-based entity, is not able to avail itself of the Privacy Shield Frameworks and instead transfers EEA data to third countries as is necessary to perform the requirements of our contracts using model contractual clauses as our legal basis for transfer. Ordinarily, PIR will not operate on the basis of consent, however, for certain non-contractual operations, PIR may transfer your data on the basis of consent. In such cases, your consent will be explicitly requested and is revocable at any time.
 
-### **VII. Security**
+#### VII. Security
 
 PIR takes strong precautions to protect information and continually strives to ensure we are adhering to industry best practices and security standards. When you submit personal data via our websites or when registrars submit specifics about a domain name registration, as required by our ICANN contracts, your personal data are protected both online and offline.
 
 We are required to take reasonable steps to protect personal data from loss, misuse, unauthorized disclosure, alteration, or destruction and not to use or authorize the use of personal data in a way that is incompatible with the purposes for which it was collected or with the notice provided to registrars. All joint controllers and vendor (third party processors) partners are to adhere to the requirements in this privacy policy and to meet security standards that are commensurate with the data they receive and process. These third parties also have their own privacy and security policies. Should you have questions about their privacy policies or security practices, you should contact them.
 
-##### **1\. Data Breaches**
+##### 1\. Data Breaches
 
 PIR, upon discovering a data breach, will ensure we meet all data privacy requirements, including GDPR Articles 33 and 34 where applicable.
 
-##### **2\. Data Retention**
+##### 2\. Data Retention
 
 PIR does not retain personal data for any longer than is necessary for its original purpose.
 
-### **VIII. Update**
+#### VIII. Update
 
 We reserve the right to amend this Privacy Notice at any time. This Privacy Notice was last updated in October 2023.
 
-* [Anti-Abuse Policy](https://thenew.org/org-people/about-pir/policies/anti-abuse-policy/)
-* [.NGO and .ONG Registration Policy](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)
-* [PIR Privacy Notice](https://thenew.org/org-people/about-pir/policies/pir-privacy-notice/)
-* [Reserved Names Policy](https://thenew.org/org-people/about-pir/policies/reserved-names-policy/)
-* [Vendor Standards of Behavior](https://thenew.org/org-people/about-pir/policies/vendor-standards-of-behavior/)
+Policies
 
-* [](https://www.facebook.com/PIRegistry "https://www.facebook.com/PIRegistry")
-* [](https://www.linkedin.com/company/public-interest-registry/ "https://www.linkedin.com/company/public-interest-registry/")
-* [](https://twitter.com/piregistry "https://twitter.com/piregistry")
-* [](https://instagram.com/piregistry "https://instagram.com/piregistry")
-* [](https://thenew.org/org-people/work-with-us/contact/ "https://thenew.org/org-people/work-with-us/contact/")
+menu close
 
-Search
+[Anti-Abuse Policy](https://pir.org/our-impact/anti-abuse-policy/)
 
-* [Become a registrar](https://thenew.org/org-people/work-with-us/)
-* [Find a Registrar](https://thenew.org/org-people/work-with-us/find-a-registrar/)
-* [Policies](https://thenew.org/org-people/about-pir/policies/)
-* [Glossary](https://thenew.org/org-people/about-pir/resources/glossary/)
-* [PIR Careers](https://thenew.org/org-people/about-pir/careers/)
-* [Contact Us](https://thenew.org/org-people/work-with-us/contact/)
-* [PIR Privacy Notice](https://thenew.org/org-people/about-pir/policies/pir-privacy-notice/)
-* [.ORG Learning Center](https://orglearningcenter.org/)
+[Privacy Policy](https://pir.org/our-impact/privacy/)
 
-![PIR Logo](https://thenew.org/wp-content/themes/pir-theme/assets/images/pir-logo.svg)
+[Vendor Standards of Behavior](https://pir.org/our-impact/vendor-standards-of-behavior/)
 
-We use cookies that are required to make our website function properly for you. We also use cookies to provide third-party (Google) analytics to help us improve our website. You may disable both types of cookies via your browser settings. For more information see the Cookie section of our Privacy Notice.[Ok](#)[No](#)[Privacy policy](https://thenew.org/org-people/about-pir/policies/pir-privacy-notice/)
+[Reserved Names Policy](https://pir.org/our-impact/reserved-names-policy/)
+
+[.NGO + .ONG Registration Policy](https://pir.org/our-impact/ngo-ong-policy/)
+
+![a blue circle with the word pir in it.](https://pir.org/wp-content/uploads/2023/06/logo_pir.png)
+
+Company  
+
+Menu
+
+* [Contact](https://pir.org/contact/)
+* [Careers](https://pir.org/who-we-are/careers/)
+
+close
+
+Policies  
+
+Menu
+
+* [Anti-Abuse](https://pir.org/our-impact/anti-abuse-policy/)
+* [DNSSC Practice Statement](https://pir.org/products/dnssec-practice-statement/)
+* [.NGO & .ONG Registration](https://pir.org/our-impact/policies/#-ngo-and-ong-registration-policy)
+* [Privacy Policy](https://pir.org/our-impact/privacy/)
+* [Reserved Name](https://pir.org/our-impact/reserved-names-policy/)
+* [Vendor Standards of Behavior](https://pir.org/our-impact/vendor-standards-of-behavior/)
+
+close
+
+Resources  
+
+Menu
+
+* [Report Domain Abuse](https://pir.org/report-abuse/)
+* [Anti-Abuse Policy Appeals Process](https://pir.org/anti-abuse-policy-appeals-process/)
+* [Zone Access File](https://czds.icann.org/home)
+* [Glossary](https://pir.org/who-we-are/glossary/)
+* [FAQ](https://pir.org/for-orgs/faq/)
+
+close
+
+News  
+
+Menu
+
+* [News and Blog](https://pir.org/news-insights/)
+
+close
+
+[](https://twitter.com/piregistry)
+
+[](https://www.facebook.com/PIRegistry)
+
+[](https://instagram.com/piregistry)
+
+[](https://www.linkedin.com/company/public-interest-registry/)
+
+© 2024 PIR. ALL RIGHTS RESERVED
+
+close
+
+close
+
+close
+
+close
+
+close
+
+close
+
+close
+
+close
+
+closearrow-circle-o-downellipsis-v                   [Skip to content](#content)
+
+[Open toolbar Accessibility Tools](javascript:void(0); "Accessibility Tools")
+
+Accessibility Tools
+
+* [Increase TextIncrease Text](#)
+* [Decrease TextDecrease Text](#)
+* [GrayscaleGrayscale](#)
+* [High ContrastHigh Contrast](#)
+* [Negative ContrastNegative Contrast](#)
+* [Light BackgroundLight Background](#)
+* [Links UnderlineLinks Underline](#)
+* [Readable FontReadable Font](#)
+* [Reset Reset](#)
+
+We use necessary cookies to provide basic website functionality and security. You can disable necessary cookies through your browser settings. Please note that refusing necessary cookies or disabling them through your browser settings may affect your website experience and functionality. Additionally, we use third-party analytics cookies (Google) to understand website usage and improve performance and service. All analyzes are aggregated and anonymous. We will only set cookies if you agree below. For more information about our use of cookies, please see our Privacy Notice.[Accept All Cookies](#)[Reject All Cookies](#)[Privacy policy](https://pir.org/our-impact/privacy/)
