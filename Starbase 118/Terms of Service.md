@@ -356,39 +356,39 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2013/07/StarfleetAcademyflag-e1648664193765-768x480.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-academy-graduates-457/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-khitomer-returns-after-raid-uss-arrow-feared-lost/)
 
-### [New Academy Graduates](https://www.starbase118.net/2024/new-academy-graduates-457/)
+### [USS Khitomer returns after raid, USS Arrow feared lost](https://www.starbase118.net/2024/uss-khitomer-returns-after-raid-uss-arrow-feared-lost/)
 
-FltAdml. Tristan Wolf June 20, 2024
+Federation News Service July 19, 2024
 
-Please welcome our newest Academy graduates to the StarBase 118 fleet: Niev Galanis, Nera Ay, Solkon, Ashra, Eliana Darius, and Lera Michaels!
+ALPHA ISLES — The USS Khitomer has returned following an unsanctioned raid against the Lattice Alliance, with the USS Arrow now feared lost.
 
-[Read More »](https://www.starbase118.net/2024/new-academy-graduates-457/)
+[Read More »](https://www.starbase118.net/2024/uss-khitomer-returns-after-raid-uss-arrow-feared-lost/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-oddas-aria-denali-station-honor-of-the-admiralty-award/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-azura-ada-uss-constitution-b-xalor-clan-xifilis-award/)
 
-### [Award winner – Oddas Aria, Denali Station (Honor of the Admiralty Award)](https://www.starbase118.net/2024/award-winner-oddas-aria-denali-station-honor-of-the-admiralty-award/)
+### [Award winner – Azura Ada, USS Constitution-B (Xalor Clan Xifilis Award)](https://www.starbase118.net/2024/award-winner-azura-ada-uss-constitution-b-xalor-clan-xifilis-award/)
 
-gogi8972 June 20, 2024
+gogi8972 July 18, 2024
 
 Join us for another in a series of interviews with winners of awards from our 2023 Awards Ceremony. Our goal is to give you insight
 
-[Read More »](https://www.starbase118.net/2024/award-winner-oddas-aria-denali-station-honor-of-the-admiralty-award/)
+[Read More »](https://www.starbase118.net/2024/award-winner-azura-ada-uss-constitution-b-xalor-clan-xifilis-award/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/awards-and-mixed-emotions-as-uss-artemis-wraps-up-shoreleave/)
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2020/05/24th-century-Constitution-refit-768x434.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/update-on-drever-iv-crop-sickness-on-drever-ii/)
 
-### [Awards and mixed emotions as USS Artemis wraps up shoreleave](https://www.starbase118.net/2024/awards-and-mixed-emotions-as-uss-artemis-wraps-up-shoreleave/)
+### [Update on Drever IV crop sickness on Drever II](https://www.starbase118.net/2024/update-on-drever-iv-crop-sickness-on-drever-ii/)
 
-Federation News Service June 19, 2024
+Federation News Service July 17, 2024
 
-DEEP SPACE NINE – Shore leave ends with awards and anticipation for the Artemis’ crew.
+PAOIKE COLONY — The crew of the USS Constitution NCC-9012-B has made a significant breakthrough in addressing the crop sickness that has plagued Paokie Colony
 
-[Read More »](https://www.starbase118.net/2024/awards-and-mixed-emotions-as-uss-artemis-wraps-up-shoreleave/)
+[Read More »](https://www.starbase118.net/2024/update-on-drever-iv-crop-sickness-on-drever-ii/)
 
 Ready to get started?
 ---------------------
