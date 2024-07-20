@@ -1,8 +1,8 @@
 [![Untitled UI logotext](https://cdn.prod.website-files.com/65f36a007b9322599125cdb7/6650c0dafbafeb00fd5d7daf_logo-1.svg)](http://getshogun.com/)
 
-Features
+product
 
-#### product
+#### features
 
 [Visual Editor
 
@@ -20,7 +20,7 @@ Supercharge SEO growth](https://getshogun.com/features/seo-keyword-insights/)[Pa
 
 Easily track performance](https://getshogun.com/features/page-analytics/)
 
-#### use cases
+#### Capabilities
 
 [Content Management
 
@@ -50,11 +50,11 @@ solutions
 
 [Fashion and Apparel
 
-Grow your fashion and apparel brand with Shogun](https://getshogun.com/fashion-apparel-ecommerce/)[Ecommerce Managers
+Grow your fashion and apparel brand with Shogun](https://getshogun.com/solutions/fashion-apparel-ecommerce)[Ecommerce Managers
 
-Drive revenue growth for your brand](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies
+Drive revenue growth for your brand](https://getshogun.com/solutions/ecommerce-managers)[Ecommerce Agencies
 
-Bring value to your clients and grow your business](https://getshogun.com/page-builder/ecommerce-agencies/)
+Bring value to your clients and grow your business](https://getshogun.com/solutions/ecommerce-agencies)
 
 #### partners
 
@@ -90,15 +90,13 @@ See Shogun feature demos, design best practices, and more](https://getshogun.com
 
 Explore documentation and in-builder help articles](https://getshogun.com/help/en)
 
-#### personalize
+#### use cases
 
-[Translations
+[Personalization
 
-Translate key site pages for specific regions](https://getshogun.com/experiences/translations/)[Previous Purchase History
+Explore strategies for personalizing your store](https://getshogun.com/use-case-library/personalization)[A/B Testing
 
-Create customized experiences based on customer history](https://getshogun.com/experiences/previous-purchase-targeting/)[Influencer Marketing
-
-Generate unique experiences for traffic coming from specific influencers](https://getshogun.com/experiences/influencer-marketing/)
+Discover A/B testing ideas to help you optimize your store](https://getshogun.com/use-case-library/ab-testing)
 
 #### case study
 
@@ -155,15 +153,15 @@ Product
 
 Shogun For
 
-[Ecommerce Managers](https://getshogun.com/page-builder/ecommerce-managers/)[Ecommerce Agencies](https://getshogun.com/page-builder/ecommerce-agencies/)[Fashion & Apparel Brands](https://getshogun.com/fashion-apparel-ecommerce/)[BigCommerce](https://getshogun.com/bigcommerce-page-builder/)
+[Ecommerce Managers](https://getshogun.com/solutions/ecommerce-managers)[Ecommerce Agencies](https://getshogun.com/solutions/ecommerce-agencies)[Fashion & Apparel Brands](https://getshogun.com/solutions/fashion-apparel-ecommerce)[BigCommerce](https://getshogun.com/solutions/bigcommerce-page-builder)
 
-Use Cases
+Capabilities
 
 [Content Management](https://getshogun.com/solutions/ecommerce-content-management/)[Multi-store Expansion](https://getshogun.com/solutions/multi-store-ecommerce-platform/)[Visual Merchandising](https://getshogun.com/solutions/ecommerce-merchandising/)[SEO](https://getshogun.com/solutions/ecommerce-seo-tools/)[Paid Campaigns](https://getshogun.com/solutions/ecommerce-ppc/)[Ecommerce Landing Pages](https://getshogun.com/solutions/ecommerce-landing-pages/)[AI Website Builder](https://getshogun.com/shopify-ai-website-builder/)
 
 Resources
 
-[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
+[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Personalization Use Cases](https://getshogun.com/use-case-library/personalization)[A/B Testing Use Cases](https://getshogun.com/use-case-library/ab-testing)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
 
 Company
 
