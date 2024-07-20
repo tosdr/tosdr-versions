@@ -97,17 +97,19 @@ a) Spokeo may use Personal Information You provide to Spokeo.com to create and m
 
 b) Spokeo uses certain trusted third parties to help us provide, improve, protect, and promote the services offered on Spokeo.com. Spokeo shares Personal Information with these third parties. These third parties will access Your information only to perform tasks on Spokeo’s behalf and in compliance with this Privacy Policy. For example, Spokeo provides payment data that You provide to certain payment processors, solely to effect the sale of products or subscriptions that You have requested, and provides other Personal Information to third party services for purposes such as delivering email communications, providing customer support, and preventing fraudulent transactions. Spokeo may also use a third party service provider to facilitate upload of Your contacts from Your contact management providers, using the OAuth standard whenever possible (If Your contact management providers support the OAuth standard, use of the OAuth standard does not require Spokeo or its third-party service provider to have access to, and Spokeo and its third-party service provider, will not in fact have access to, the passwords that You established with Your contact management providers). Spokeo uses the Google Maps API(s), which is subject to the [Google Privacy Policy](https://policies.google.com/privacy).
 
-c) Spokeo may share IP addresses used to access Spokeo.com with designated third parties for the sole purpose of preventing and detecting fraud. Spokeo may also use services and technologies provided by other companies to assist Spokeo in understanding how You use Spokeo.com. As a result, information about how You use Spokeo.com may be available to these other companies to the extent that their technology collects such information for Spokeo’s use or for purposes of delivering relevant online or mobile advertising to You. Further information is available at: [https://www.spokeo.com/third-party-privacy](https://www.spokeo.com/third-party-privacy).
+c) Spokeo may share IP addresses used to access Spokeo.com with designated third parties for the sole purpose of preventing and detecting fraud. Spokeo may also use services and technologies provided by other companies to assist Spokeo in understanding how You use Spokeo.com. As a result, information about how You use Spokeo.com may be available to these other companies to the extent that their technology collects such information for Spokeo’s use or for purposes of delivering relevant online or mobile advertising to You. Further information is available at: [https://www.spokeo.com/third-party-privacy](https://www.spokeo.com/third-party-privacy) and [https://www.spokeo.com/cookie-policy](https://www.spokeo.com/cookie-policy).
 
-d) Spokeo reserves the right to disclose Personal Information to third parties, without notice to You, if required to do so by law, or if Spokeo has a good faith belief that disclosure is necessary to (1) comply with legal process served on us; (2) protect and defend Spokeo’s rights or property; or (3) act in an emergency to protect someone’s safety. This disclosure may include Your search query, and may be disclosed to the subject of Your search query, notwithstanding any statements on the Spokeo.com website about confidentiality and notification.
+d) Spokeo may also share Your Personal Information with advertisers and other third parties who may use it for advertising purposes, including to serve targeted advertising on Spokeo’s websites and mobile applications and on unaffiliated third-party websites. These companies may utilize cookies, pixels, or other technologies to collect user information (e.g., hashed, de-identified data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during Your visits to this and other websites to provide advertisements about goods and services likely to be of greater interest to You. Some of those ads may be personalized, meaning that they are intended to be relevant to You based on information about Your online activities on Spokeo’s websites, applications, and/or other websites over time. For example, information collected across multiple sites may enable the ad network to predict Your preferences and show You ads that are likely to be of interest to You. To opt out of these types of ads, please visit the Network Advertising Initiative for information about how to opt-out of interest-based advertising by their members. See [https://www.thenai.org](https://www.thenai.org/) for general information about the NAI and [https://thenai.org/opt-out](https://thenai.org/opt-out) for the opt-out page. You may also visit [https://optout.aboutads.info/?c=2&lang=E](https://optout.aboutads.info/?c=2&lang=E) to learn about interest-based advertising and how to opt out from online behavioral ads served by some or all participating companies. Please note that You may need to opt out on each device and browser You use to access Spokeo’s websites and applications.
 
-e) Spokeo reserves the right to transfer Personal Information to any successor in interest to the Spokeo business.
+e) Spokeo reserves the right to disclose Personal Information to third parties, without notice to You, if required to do so by law, or if Spokeo has a good faith belief that disclosure is necessary to (1) comply with legal process served on us; (2) protect and defend Spokeo’s rights or property; or (3) act in an emergency to protect someone’s safety. This disclosure may include Your search query, and may be disclosed to the subject of Your search query, notwithstanding any statements on the Spokeo.com website about confidentiality and notification.
 
-f) Spokeo (either directly or via its third party partners) collects anonymized session and anonymized click-tracking data regardless of a computer's Do-Not-Track signal.
+f) Spokeo reserves the right to transfer Personal Information to any successor in interest to the Spokeo business.
 
-g) Spokeo may provide Your search query to third party data vendors in order to fulfill requests You make for certain kinds of reports.
+g) Spokeo (either directly or via its third party partners) collects anonymized session and anonymized click-tracking data regardless of a computer's Do-Not-Track signal.
 
-h) Except as specifically noted in this Privacy Policy or at [https://www.spokeo.com/third-party-privacy](https://www.spokeo.com/third-party-privacy), Spokeo does not sell, exchange, transfer, or give Personal Information to any other company.
+h) Spokeo may provide Your search query to third party data vendors in order to fulfill requests You make for certain kinds of reports.
+
+i) Except as specifically noted in this Privacy Policy or at [https://www.spokeo.com/third-party-privacy](https://www.spokeo.com/third-party-privacy) or at [https://www.spokeo.com/cookie-policy](https://www.spokeo.com/cookie-policy), Spokeo does not sell, exchange, transfer, or give Personal Information to any other company.
 
 **4\. Children’s Privacy**
 
@@ -147,15 +149,17 @@ f) Notice to California Residents:
 
 (v) You have the right to request that Spokeo disclose what Personal Information it collects, uses, and discloses and to request that Spokeo correct it, taking into account the nature and the purposes of the processing of the Personal Information. You also have the right to request that Spokeo delete the Personal Information it has collected. See Section 6c) above for instructions about how to exercise Your rights to make such requests. You will be required to log in to Your Spokeo account or provide sufficient matching information in order for Spokeo to verify Your request. Spokeo cannot delete Personal Information that it is under a legal obligation to maintain and may also decline to delete Personal Information in certain excluded scenarios that are specified in CCPA. Spokeo will not discriminate against You for exercising Your rights under this section of this Privacy Policy. An authorized agent may make a request on Your behalf. No additional proof will be required from an authorized agent, except that, for Your protection, Spokeo will only disclose the categories of Personal Information collected to authorized agents that make requests through Spokeo’s toll free number.
 
-(vi) From January 1, 2022 through December 31, 2022, Spokeo:
+(vi) From January 1, 2023 through December 31, 2023, with respect to Personal Information, Spokeo:
 
-(i) Received 54,805 Requests to Opt-Out, complied in whole or in part with 54,805 Requests to Opt-Out, and denied 0.
+(i) Received 43 Right to Know Requests, complied in whole or in part with 43 Right to Know Requests, and denied 0.
 
-(ii) Received 180 Right to Know Requests, complied in whole or in part with 168 Right to Know Requests, and denied 12.
+(ii) Received 23 Requests to Delete, complied in whole or in part with 23 Requests to Delete, and denied 0. For each of these 23 Requests to Delete, certain Personal Information was not deleted pursuant to California Civil Code § 1798.145(a)(1).
 
-(iii) Received 29 Requests to Delete, complied in whole or in part with 29 Requests to Delete, and denied 0.
+(iii) Received 0 Requests to limit the use of Personal Information. Spokeo does not use Personal Information for purposes other than those described in this Privacy Policy.
 
-For Requests to Opt-Out and Right to Know Requests made between January 1, 2022 and December 31, 2022, such requests were carried out as if Public Information was “personal information” under CCPA due to the more limited definitional scope of “publicly available information” that was in effect during that timeframe. Starting January 1, 2023, Spokeo will regard Public Information as “publicly available information” as defined in the California Privacy Rights Act. Nevertheless, as Spokeo has voluntarily done for many years, Spokeo will continue to accommodate requests to remove Public Information. Please refer to Section 1e) above for instructions and information about submitting such requests.
+When such requests with respect to Personal Information are submitted in accordance with the instructions in Section 6c) above, such requests take effect in real time following completion of the request submittal.
+
+Since January 1, 2023, Spokeo has regarded Public Information as “publicly available information” as defined in the California Privacy Rights Act. Nevertheless, as Spokeo has voluntarily done for many years, Spokeo continues to accommodate requests to remove Public Information. Please refer to Section 1e) above for instructions and information about submitting such requests. When such requests are submitted in accordance with the instructions in Section 1e) above, the Remove A Public Listing tool removes Public Information in real time following completion of the request submittal.
 
 **7\. Specific Clauses for EU Data Subjects**
 
@@ -177,7 +181,7 @@ d) If Spokeo is processing Your Personal Information based upon the lawful groun
 
 e) If You are an EU data subject and have inquiries about Your Personal Information, please contact Spokeo’s Data Protection Officer at [privacy@spokeo.com](mailto:privacy@spokeo.com).
 
-_Last Revised: August 2nd, 2023_
+_Last Revised: July 17th, 2024_
 
 [Email Lookup](https://www.spokeo.com/email-search)
 
