@@ -5,26 +5,22 @@
     * [Comfort in the Wake of the Storm](https://www.samaritanspurse.ca/knowing-god/)
     * [Employment](https://www.samaritanspurse.ca/getinvolved/employment-opportunities)
     * [Annual Report and Financial Accountability](https://www.samaritanspurse.ca/annual-report-and-financial-accountability/)
-    * [Newsroom](https://www.samaritanspurse.ca/news-room)
-    * [Government Partnerships](https://www.samaritanspurse.ca/?page_id=13043)
     * [Contact Us](https://www.samaritanspurse.ca/contact-us/)
 * [WHAT WE DO](#)
     * [Project Initiatives](#)
         * [Animals, Agriculture & Livelihoods](https://www.samaritanspurse.ca/what-we-do/animals-agriculture-livelihoods/)
         * [Canadian Disaster Relief](https://www.samaritanspurse.ca/what-we-do/canadian-disaster-relief)
-        * [Children’s Ministries](https://www.samaritanspurse.ca/what-we-do/childrens-ministries/)
-        * [Discipleship, Education & Training](https://www.samaritanspurse.ca/what-we-do/discipleship-education-training/)
         * [Health & Medical Ministries](https://www.samaritanspurse.ca/what-we-do/health-medical-ministries/)
-        * [Human Trafficking Prevention](https://www.samaritanspurse.ca/what-we-do/human-trafficking-prevention/)
         * [International Crisis Response](https://www.samaritanspurse.ca/what-we-do/international-crisis-response/)
         * [Water Projects](https://www.samaritanspurse.ca/what-we-do/water-sanitation-hygiene/)
-        * [Women’s Programs](https://www.samaritanspurse.ca/what-we-do/womens-programs/)
-    * [Samaritan’s Purse Ministry](#)
+        * [Protection of Women and Children](https://www.samaritanspurse.ca/what-we-do/womens-programs/)
         * [Operation Christmas Child](https://www.samaritanspurse.ca/what-we-do/operation-christmas-child/)
         * [The Greatest Journey](https://www.samaritanspurse.ca/the-greatest-journey/)
-        * [World Medical Mission](https://www.samaritanspurse.ca/what-we-do/world-medical-mission/)
+        * [World Medical Mission](https://www.samaritanspurse.ca/getinvolved/world-medical-mission/)
+    
     * [CURRENT RESPONSES](#)
-        * [Israel Relief](https://www.samaritanspurse.ca/article/help-for-palestinians/)
+        * [Minnesota Flood Response​](https://www.samaritanspurse.ca/article/minnesota-floods/)
+        * [Hurricane Beryl Response](https://www.samaritanspurse.ca/hurricane-beryl)
         * [Ukraine Response](https://www.samaritanspurse.ca/single-donation/samaritans-purse-ready-to-help-fleeing-ukrainians/)
 * [GET INVOLVED](https://www.samaritanspurse.ca/getinvolved/start)
     * [Canadian Disaster Relief](https://www.samaritanspurse.ca/getinvolved/canadian-disaster-relief/)
@@ -255,6 +251,8 @@ After sharing the story of the Good Samaritan, Jesus said “Go and do likewise.
 
 Top Stories
 
+[Samaritan's Purse Working in Ukraine](https://www.samaritanspurse.ca/ukraine-response-2/)
+
 [Samaritan’s Purse Responding to BC, NWT Wildfires](https://www.samaritanspurse.ca/article/samaritans-purse-responding-to-bc-nwt-wildfires/)
 
 [Samaritan’s Purse Responding after Alberta Tornado Damages Several Homes](https://www.samaritanspurse.ca/article/samaritans-purse-responding-after-alberta-tornado-damages-several-homes/)
@@ -262,8 +260,6 @@ Top Stories
 [Reflections on the War in Ukraine](https://www.samaritanspurse.ca/article/reflections-on-the-war-in-ukraine/)
 
 [Sending Relief Supplies to Maui](https://www.samaritanspurse.ca/article/sending-relief-supplies-to-maui/)
-
-[Finding Precious Heirloom Gives Joy to Nova Scotia Wildfire Survivor](https://www.samaritanspurse.ca/article/finding-precious-heirloom-gives-joy-to-nova-scotia-wildfire-victim/)
 
 STAY IN THE KNOW
 ----------------
