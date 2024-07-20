@@ -9,6 +9,12 @@ BluPeak Credit Union ![BluPeak Credit Union App stars rating](https://www.blupea
 
 [Install App](https://apps.apple.com/us/app/id390555899) [Install App](https://play.google.com/store/apps/details?id=com.ifs.androidmobilebanking.fiid3265)
 
+Notice
+
+As a reminder, please remain vigilant for any suspicious communications. Our BluPeak team will never reach out to you directly via phone or text to ask you to reset your password or share your credentials. Never share your one-time passcode under any circumstances.
+
+[](#)
+
 [Skip to web banking login](#js-header_login_panel)
 
 What can we help you find?
@@ -109,6 +115,10 @@ Menu
     
 * [Join](https://app.consumer.meridianlink.com/xa/xpressApp.aspx?lenderref=Usecuretail6618&type=1&referralsource=USEWEBSITE&branchid=05218e3a86ef45a198e23a7adb4d88ae&_ga=2.98660574.1115279142.1712597770-165323722.1711652736&_gl=1*1mslxlk*_ga*MTY1MzIzNzIyLjE3MTE2NTI3MzY.*_ga_15KJX9KCR2*MTcxMjU5Nzc2OS45LjAuMTcxMjU5Nzc3My4wLjAuMA..)
     
+    * [Checking and Savings](https://app.consumer.meridianlink.com/apply.aspx?lenderref=Usecuretail6618&list=XASAST)
+    * [Auto Loans](https://app.consumer.meridianlink.com/vl/VehicleLoan.aspx?lenderref=Usecuretail6618&type=1)
+    * [Mortgages](https://bpcu-pos.co.otdigitals.bkicloud.com/landingPage)
+    * [Personal Loans](https://app.consumer.meridianlink.com/pl/PersonalLoan.aspx?lenderref=Usecuretail6618&type=1)
     * [Application Status](https://app.consumer.meridianlink.com/cu/ViewSubmittedLoans.aspx?enc=Kw21Wblm1yxpjJabdoZaDz0T0VW-iEm_E64sgJxwXLFNQnyqFjmbW8tjTwORGQ47dq5vs6Lim_1UkKDT7v6VcK5fySOy2lrvd6L6BDu5qjX-B1RD9G755ZBr-06sqBvJwWbrzfvHUOIAVd8w-Eka5Q&_ga=2.98660574.1115279142.1712597770-165323722.1711652736&_gl=1*1mslxlk*_ga*MTY1MzIzNzIyLjE3MTE2NTI3MzY.*_ga_15KJX9KCR2*MTcxMjU5Nzc2OS45LjAuMTcxMjU5Nzc3My4wLjAuMA..)
     
 
