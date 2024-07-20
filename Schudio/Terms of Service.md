@@ -263,6 +263,6 @@ Chorley PR7 1NY, United Kingdom
 * [](http://www.twitter.com/schudio)
 * [](https://www.instagram.com/schudioschoolwebsites/)
 
-![Cleantalk Pixel](https://moderate10.cleantalk.org/pixel/a88cc0570bc642c558eeee8a30b3c06b.gif)
+![Cleantalk Pixel](https://moderate8.cleantalk.org/pixel/47878f7f4f95f3cd25805b3d9152a8f2.gif)
 
 [WordPress Lightbox Plugin](http://www.wonderplugin.com/wordpress-lightbox/ "WordPress Lightbox Plugin")
