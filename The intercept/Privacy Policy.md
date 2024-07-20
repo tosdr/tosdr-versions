@@ -21,6 +21,7 @@ Search for:
 * [More Ways to Donate](https://theintercept.com/donor-faq/)
 * [Impact & Reports](https://theintercept.com/reports/)
 * [Join Newsletter](https://theintercept.com/newsletter/?campaign=web_hamburger)
+* [Jobs](https://theintercept.com/jobs-at-the-intercept/)
 * [Become a Source](https://theintercept.com/source/)
 
 * [](https://www.facebook.com/theinterceptflm)
@@ -290,6 +291,7 @@ New York New York 10018
 * [About](https://theintercept.com/about/ "About")
 * [Support Us](https://join.theintercept.com/donate/now/?source=web_intercept_20221129_footer_nov-campaign-launch)
 * [Join Newsletter](https://theintercept.com/newsletter/?campaign=web_footer)
+* [Jobs](https://theintercept.com/jobs-at-the-intercept/)
 * [Contact Us](https://theintercept.com/about/#contact-us)
 
 * [Policies](https://theintercept.com/policies/)
