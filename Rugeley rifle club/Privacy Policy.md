@@ -12,6 +12,7 @@ Search for:  Search
 
 Menu
 
+* [Open Day](https://www.rugeleyrifleclub.org.uk/open-day/)
 * [About Us](https://www.rugeleyrifleclub.org.uk/about-us/)
     * [About Us](https://www.rugeleyrifleclub.org.uk/about-us/)
     * [History](https://www.rugeleyrifleclub.org.uk/history/)
