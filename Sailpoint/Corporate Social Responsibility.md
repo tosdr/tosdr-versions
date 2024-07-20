@@ -199,18 +199,18 @@ Languages
 Modern Slavery Statement
 ========================
 
-Modern Slavery Statement for the 2023 Financial Year
-----------------------------------------------------
+Modern Slavery Statement for the Financial Year ending 31 January 2025
+----------------------------------------------------------------------
 
 ### Summary
 
-This statement sets out the steps that SailPoint Technologies, Inc. and our subsidiaries (“SailPoint”) have taken and are continuing to take to ensure that modern slavery and human trafficking are not taking place within our business or supply chain. This statement relates to the 2023 financial year.
+This statement sets out the steps that SailPoint Technologies, Inc. and our subsidiaries (“SailPoint”) have taken and are continuing to take to ensure that modern slavery and human trafficking are not taking place within our business or supply chain. This statement relates to the extended financial year 1 January 2024 to 31 January 2025.
 
 SailPoint’s fundamental policy is to conduct its business with honesty and integrity in accordance with the highest legal and ethical standards. We are committed to protecting and respecting human rights and have a zero-tolerance approach to modern slavery in our business dealings and supply chain in all forms including human trafficking, servitude and forced labor.
 
 ### Our Structure
 
-SailPoint is headquartered in the United States, and has office locations in Australia, Canada, France, India, Israel, Japan, Mexico, the Netherlands, Singapore, and the United Kingdom. While the majority of our business is conducted in these jurisdictions, we also conduct business in a number of other countries around the world.
+SailPoint is headquartered in the United States, and has office locations in Australia, Canada, Dubai, France, Germany, Hong Kong, India, Israel, Japan, Mexico, the Netherlands, Singapore, and the United Kingdom. While the majority of our business is conducted in these jurisdictions, we also conduct business in a number of other countries around the world.
 
 ### Our Operations and Supply Chain
 
@@ -220,7 +220,7 @@ Our products, services and software development are generally provided in-house 
 
 We continue to implement our modern slavery framework, which includes a number of policies and practices to ensure we conduct business in an ethical manner. This framework establishes SailPoint’s processes in respect to modern slavery and also provides our staff with guidance in circumstances where modern slavery is identified. This framework includes:
 
-_Training_. We require employees within our legal, compliance, procurement and talent acquisition teams to complete a training course on human trafficking, which includes human trafficking warning signs, how to prevent human trafficking in the organization and its supply chain, and how to support anti-trafficking efforts through awareness, advocacy and action.
+_Training_. We require employees within our legal, compliance, procurement and talent acquisition teams to complete a training course on human trafficking, which includes human trafficking warning signs, how to prevent human trafficking in the organization and its supply chain, and how to support anti-trafficking efforts through awareness, advocacy and action. We will continue to review the effectiveness of this training each year and make improvements to this training when identified in 2025.
 
 _Contracting practice_. To help mitigate any risk, to the extent possible when we enter into negotiated agreements, we require that our contractors, partners, resellers, vendors and other suppliers comply with all applicable laws, which may include the Modern Slavery Act, depending on the type of the particular transaction and the nature of the counterparty.
 
@@ -228,15 +228,16 @@ _Supplier procurement_. We maintain a supplier code of conduct, which we expect 
 
 _Recruitment policy_. We conduct eligibility to work checks for all employees to safeguard against human trafficking or individuals being forced to work against their will.
 
-_Corporate code of business conduct and ethics_. We maintain a corporate code of business conduct and ethics which covers a wide range of business practices and procedures and outlines our fundamental policy to conduct business with honesty and integrity in accordance with the highest legal and ethical standards. The policy requires that all SailPoint stakeholders comply with applicable legal requirements of the State of Delaware, the United States and each country in which the company conducts business.
+_Corporate code of business conduct and ethics_. We maintain a corporate code of business conduct and ethics which covers a wide range of business practices and procedures and outlines our fundamental policy to conduct business with honesty and integrity in accordance with the highest legal and ethical standards. The policy requires that all SailPoint stakeholders comply with applicable legal requirements of the State of Delaware, the United States and each country in which the company conducts business (including the United Kingdom).
 
-### Next Steps in 2024 and Beyond
+### Next Steps in the year to 31 January 2026 and Beyond
 
-We will revisit and update our Modern Slavery Statement in the 2024 financial year and in doing so, will take steps including the following:
+We will revisit and update our Modern Slavery Statement in the financial year ending 31 January 2026 and in doing so, will take steps including the following:
 
-* Review our current internal controls,
-* Review the effectiveness of our human trafficking training course to understand the effect to which participants are more able to identify human trafficking warning signs and take action to prevent human trafficking within the organization and its supply chains; and
-* Continue to monitor any potential or arising risks of modern slavery within our supply chain.
+* review our current internal controls, including to evaluate the effectiveness of our actions being taken to assess ad address modern slavery risks;
+* review the effectiveness of our human trafficking training course to understand the effect to which participants are more able to identify human trafficking warning signs and take action to prevent human trafficking within the organization and its supply chains;
+* review the effectiveness of our supplier code of conduct and supplier due diligence processes to understand the extent to which these practices enable us to engage with more reputable third-party contractors and help those suppliers understand their responsibility to identifying and preventing modern slavery in their supply chains; and
+* continue to monitor any potential or arising risks of modern slavery within our supply chain
 
 ### Board Approval
 
@@ -246,7 +247,7 @@ This statement has been approved by the Board of Directors of SailPoint Technolo
 
 Chris Schmitt  
 Director, SailPoint Technologies, Inc.  
-Date: June 29, 2023
+Date: June 25, 2024
 
 [](https://www.sailpoint.com/)
 
