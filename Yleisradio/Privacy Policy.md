@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Jalkapallon EM](https://yle.fi/t/18-247479/fi)[Futistietäjä](https://yle.fi/a/74-20087576)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Olympialaiset](https://yle.fi/t/18-146187/fi)
 
 [Hae](https://haku.yle.fi/)
 
@@ -13,9 +13,7 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Jalkapallon EM](https://yle.fi/t/18-247479/fi)
-* [Futistietäjä](https://yle.fi/a/74-20087576)
-* [Olo 2.0](https://yle.fi/t/18-356272/fi)
+* [Olympialaiset](https://yle.fi/t/18-146187/fi)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
@@ -40,6 +38,7 @@ Pinnalla nyt
 * [TV-opas](https://areena.yle.fi/tv/opas)
 * [Radio-opas](https://areena.yle.fi/podcastit/opas)
 * [RSS-syötteet](https://yle.fi/uutiset/rss)
+* [Uutiskirjeet](https://tunnus.yle.fi/viestiasetukset)
 
 [Yle Areena
 
