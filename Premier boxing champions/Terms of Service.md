@@ -5,7 +5,7 @@
 ![](https://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&ActivityID=591533&ns=1)
 
 * [![Premier Boxing Champions](/sites/all/themes/haymon/images/global/pbc_logo.jpg)](https://www.premierboxingchampions.com/)
-* [Fighters](https://www.premierboxingchampions.com/fighters) [Video](https://www.premierboxingchampions.com/boxing-videos) [Schedule](https://www.premierboxingchampions.com/boxing-schedule) [News](https://www.premierboxingchampions.com/boxing-news) [Past Fights](https://www.premierboxingchampions.com/past-boxing-fights) [Press](http://presscenter.premierboxingchampions.com/) [Podcast](https://www.premierboxingchampions.com/podcast) [Shop](https://pbcmerch.com/) [Fight Alerts](https://premierboxing.calreplyapp.com/us-schedule)
+* [Fighters](https://www.premierboxingchampions.com/fighters) [Video](https://www.premierboxingchampions.com/boxing-videos) [Schedule](https://www.premierboxingchampions.com/boxing-schedule) [News](https://www.premierboxingchampions.com/boxing-news) [Past Fights](https://www.premierboxingchampions.com/past-boxing-fights) [Press](http://presscenter.premierboxingchampions.com/) [Podcast](https://www.premierboxingchampions.com/podcast) [Shop](https://pbcmerch.com/) [Fight Alerts](https://pbc.ecal.com/)
     
     Menu Open Full Site Navigation
     
@@ -224,7 +224,7 @@ Close Overlay ![Boxing Image Close Overlay](/sites/all/themes/haymon/images/glob
 * [Podcast](https://www.premierboxingchampions.com/podcast)
 * [Shop](https://pbcmerch.com/)
 * [Fight Alerts](https://www.premierboxingchampions.com/content/get-fight-alerts-and-news)
-* [Get Fight Alerts](https://premierboxing.calreplyapp.com/us-schedule)
+* Get Fight Alerts
 * Follow Us:
     
     * [_Facebook_](https://www.facebook.com/premierboxingchampions "Facebook")
