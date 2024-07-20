@@ -72,7 +72,7 @@ You have the right to request a copy of all the data we store pertaining to you 
 We will not share your personal information or data hosted on our servers with outside entities or authorities not explicitly defined within this privacy agreement. The only exception to this, is if we are served with a warrant or civil subpoena by a government authority or where otherwise required by law.  
   
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: legal@spryservers.net
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: [\[email protected\]](https://www.spryservers.net/cdn-cgi/l/email-protection)
 
 * * *
 
