@@ -35,7 +35,7 @@ When You cancel Your subscription pursuant to Section 14.2, no credit or [refund
 
 [Read More](https://spacial.com/sam-broadcaster-cloud-user-agreement/)
 
-##### [Contact Us](https://spacial.com/contact-us/)
+##### [**Contact Us**](https://spacial.com/contact-us/)
 
 Contact the
 
@@ -47,7 +47,7 @@ From 4 am to 4 pm CST (UTC-6)
 Mail us: [support@spacial.com](mailto:support@spacial.com)  
 Web: [Contact form](https://spacial.zendesk.com/anonymous_requests/new)
 
-##### [Products](https://spacial.com/radio-automation-software/)
+##### [**Products**](https://spacial.com/contact-us/)
 
 * [SAM Broadcaster](https://spacial.com/what-we-do-features/)
 * [SAM Broadcaster Cloud](https://spacial.com/sam-broadcaster-cloud/)
@@ -56,33 +56,26 @@ Web: [Contact form](https://spacial.zendesk.com/anonymous_requests/new)
 * [SAM DJ](https://spacial.com/sam-dj/)
 * [Background Music Providers](https://spacial.com/background-music-providers/)
 * [Terrestrial Radio Broadcasters](https://spacial.com/terrestrial-radio-broadcasters/)
-* [Radio Software For Schools](https://spacial.com/radio-software-for-schools/)
-* [Spacial Swag](https://spacial.com/spacial-swag/)
 
-##### [Help Center](https://spacial.com/help-center/)
+##### [**Help Center**](https://spacial.com/help-center/)
 
 * [SAM Broadcaster Cloud](https://support.spacial.com/hc/en-us/categories/204149787-SAM-Broadcaster-Cloud)
 * [SAM Broadcaster PRO](https://support.spacial.com/hc/en-us/categories/204149767-SAM-Broadcaster)
 * [SAM Cast](https://support.spacial.com/hc/en-us/categories/204149707-SAM-Cast)
 * [SAM DJ](https://support.spacial.com/hc/en-us/categories/204149807-SAM-DJ)
 * [Radio Software FAQ](https://spacial.com/help-center/radio-software-faq/)
-* [Forum](http://support.spacialaudio.com/forums)
 * [Email Support](https://spacial.zendesk.com/anonymous_requests/new)
 
-##### [About Us](https://spacial.com/about-us/)
+##### [**About Us**](https://spacial.com/about-us/)
 
 * [Contact Us](https://spacial.com/contact-us/)
-* [Careers](https://spacial.com/careers/)
 * [Press Releases](https://spacial.com/press-releases/)
 * [Enhance Your Station](https://spacial.com/enhance-your-station/)
-* [Affiliate](https://spacial.com/affiliate/)
 * [Client Testimonials](https://spacial.com/client-testimonials/)
 
-##### Want to hear from us?
+##### **Want to hear from us?**
 
-[Subscribe to our Newsletter](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYzMDg1IiwidG9nZ2xlIjpmYWxzZX0%3D)
-
-[Facebook-f](https://www.facebook.com/spacialaudio) [Twitter](https://twitter.com/spacial) [Linkedin-in](https://www.linkedin.com/company/spacial-audio) [Youtube](https://www.youtube.com/user/spacial) [Pinterest](https://www.pinterest.com/spacialaudio/)
+[Linkedin-in](https://www.linkedin.com/company/spacial-audio) [Youtube](https://www.youtube.com/user/spacial)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20182%2048'%3E%3C/svg%3E)
 
@@ -103,20 +96,7 @@ SPACIAL
 * [What we do: SAM Broadcaster](https://spacial.com/what-we-do-features/)
 * [Terrestrial](https://spacial.com/terrestrial-radio-broadcasters/)
 * [Pricing](https://spacial.com/pricing/)
-* [Spacial Swag](https://spacial.com/spacial-swag/)
 * [Blog](https://spacial.com/blog/)
 * [About Us](https://spacial.com/about-us/)
 * [Contact Us](https://spacial.com/contact-us/)
 * [Enhance Your Station](https://spacial.com/enhance-your-station/)
-* [Affiliate](https://spacial.com/affiliate/)
-
-Subscribe to our Newsletter
----------------------------
-
-First Name
-
-Last Name
-
-Email
-
- I agree
