@@ -1,5 +1,3 @@
-    Privacy policy | World Anvil                                                        
-
 * [![](/images/wa-logo-165px.png)](https://www.worldanvil.com/)
     
     **The Ultimate Worldbuilding Toolset & RPG Campaign Manager**
@@ -210,4 +208,4 @@ If you have questions about this Privacy Policy or our policies, please talk to 
 
 * * *
 
-by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.015 © 2017-2024 \[en\] | Anvil Time: **09:55**, Jun 21 2024
+by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.015 © 2017-2024 \[en\] | Anvil Time: **12:55**, Jul 20 2024
