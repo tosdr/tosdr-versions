@@ -390,6 +390,6 @@ en
 
 [](https://www.instagram.com/thepureapp/)[](https://www.tiktok.com/@puredatingapp)[](https://twitter.com/thepureapp)[\[email protected\]](https://pure.app/cdn-cgi/l/email-protection)
 
-[Community guidelines](https://pure.app/content/en/guidelines)[Safety and Privacy](https://pure.app/content/en/security)[Terms and Conditions](https://pure.app/content/en/terms)[Cookie policy](https://pure.app/content/en/legal/cookies)[Privacy Policy](https://pure.app/content/en/privacy)[FAQ](https://pure.app/content/en/faq)[Contact us](https://pure.app/content/en/contact-us)
+[Community guidelines](https://pure.app/content/en/guidelines)[Safety and Privacy](https://pure.app/content/en/security)[Terms and Conditions](https://pure.app/content/en/terms)[Cookie policy](https://pure.app/content/en/legal/cookies)[Privacy Policy](https://pure.app/content/en/privacy)[FAQ](https://pure.app/content/en/faq)[Consumer Health Data Privacy Policy](https://pure.app/content/en/legal/consumer-health-data-privacy-policy)[Contact us](https://pure.app/content/en/contact-us)
 
 © 2024 PURE. Online Classifieds AG, Switzerland
