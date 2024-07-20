@@ -41,6 +41,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
+    * [Causeway](https://www.charitynavigator.org/donor-basics/tools-for-giving/causeway.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
@@ -137,6 +138,7 @@
     
     * [Donor Tools](https://www.charitynavigator.org/donor-basics/tools-for-giving.html)
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
+    * [Causeway](https://www.charitynavigator.org/donor-basics/tools-for-giving/causeway.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
