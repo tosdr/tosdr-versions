@@ -1,151 +1,9 @@
-[MENU](javascript:void(0);) [ABOUT US](https://www.theepochtimes.com/about-us) [MAKE A DONATION](https://subscribe.theepochtimes.com/p/?page=donation&utm_source=makeadonationtop)
+[![The Epoch Times](/_next/static/media/logo.32553ed2.svg)](https://www.theepochtimes.com/)
 
-[![The Epoch Times](/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
-
-[Login](javascript:void(0))
-
-[SEARCH](javascript:void(0);)
-
-[CLOSE](javascript:void(0);)
-
-[Help Center](https://service.theepochtimes.com/web/) [subscribe](https://subscribe.theepochtimes.com/p/?page=subhome) [newsletter](https://www.theepochtimes.com/newsletter) [Newsstands](https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper) [Epoch Shop](https://epochshop.com/) [Gift](https://subscribe.theepochtimes.com/gift)
-
-* [TOP NEWS](https://www.theepochtimes.com/top-news)
-* [SPECIAL SERIES](https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world)
-* [SPECIAL COVERAGE](https://www.theepochtimes.com/c-shen-yun)
-* [LATEST ARTICLES](https://www.theepochtimes.com/latest)
-
-* [US](https://www.theepochtimes.com/us-news)
-    * [US News](https://www.theepochtimes.com/us/us-news)
-    * [US Features](https://www.theepochtimes.com/us/us-features)
-    * [US Politics](https://www.theepochtimes.com/us/us-politics)
-    * [US Crime News](https://www.theepochtimes.com/us/crime-us)
-    * [New York News](https://www.theepochtimes.com/us/nyc)
-    * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
-    * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Perspectives](https://www.theepochtimes.com/opinion)
-    * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
-    * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
-    * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
-    * [The Reader’s Turn](https://www.theepochtimes.com/readers-turn)
-
-* [China News](https://www.theepochtimes.com/china-news)
-    * [US-China Relations](https://www.theepochtimes.com/china/china-us-news)
-    * [Chinese Regime](https://www.theepochtimes.com/china/regime)
-    * [Business & Economy](https://www.theepochtimes.com/china/business-economy)
-    * [Chinese Culture](https://www.theepochtimes.com/culture)
-    * [China Human Rights](https://www.theepochtimes.com/china/human-rights)
-    * [Social Issues](https://www.theepochtimes.com/china/society)
-    * [Organ Harvesting in China](https://www.theepochtimes.com/china/organ-harvesting-in-china)
-* [World News](https://www.theepochtimes.com/world)
-    * [Africa News](https://www.theepochtimes.com/world/africa)
-    * [Americas](https://www.theepochtimes.com/world/americas)
-    * [Asia & Pacific](https://www.theepochtimes.com/world/asia-pacific)
-    * [Canada](https://www.theepochtimes.com/world/canada)
-    * [Europe](https://www.theepochtimes.com/world/europe)
-    * [UK News](https://www.theepochtimes.com/world/uk)
-    * [Australia News](https://www.theepochtimes.com/world/australia)
-    * [International](https://www.theepochtimes.com/world/international)
-    * [Middle East](https://www.theepochtimes.com/world/middle-east)
-* [Business & Markets](https://www.theepochtimes.com/business/markets)
-    * [Companies](https://www.theepochtimes.com/business/companies)
-    * [Economy](https://www.theepochtimes.com/business/economies)
-    * [Markets](https://markets.theepochtimes.com/)
-    * [Real Estate](https://www.theepochtimes.com/real-estate)
-    * [Gold and Commodities](https://www.theepochtimes.com/business/gold-commodities)
-
-* [ARTS & CULTURE](https://www.theepochtimes.com/bright/arts-culture)
-    * [Fine Arts & Craftsmanship](https://www.theepochtimes.com/bright/fine-arts)
-    * [Performing Arts](https://www.theepochtimes.com/bright/performing-arts)
-    * [Books](https://www.theepochtimes.com/bright/books)
-    * [Traditional Culture](https://www.theepochtimes.com/c-traditional-culture)
-    * [Shen Yun Special Coverage](https://www.theepochtimes.com/shenyun)
-    * [Film & TV](https://www.theepochtimes.com/bright/film)
-* [Science](https://www.theepochtimes.com/science)
-    * [News](https://www.theepochtimes.com/science/science-news)
-    * [Space](https://www.theepochtimes.com/science/space)
-    * [Environment](https://www.theepochtimes.com/science/environment)
-* [Tech](https://www.theepochtimes.com/tech)
-    * [Tech News](https://www.theepochtimes.com/tech/tech-news)
-    * [Tech Products & Reviews](https://www.theepochtimes.com/tech/products-reviews)
-    * [Social Media](https://www.theepochtimes.com/tech/tech-social-media)
-* [Sports](https://www.theepochtimes.com/sports)
-* [Video](https://www.theepochtimes.com/video)
-    * [American Thought Leaders](https://www.theepochtimes.com/c-american-thought-leaders)
-    * [China Insider](https://www.theepochtimes.com/c-china-insider)
-    * [Crossroads](https://www.theepochtimes.com/c-crossroads)
-
-* [Bright](https://www.theepochtimes.com/page/bright)
-    * [Lifestyle](https://www.theepochtimes.com/bright/radiant-life)
-    * [Inspired](https://www.theepochtimes.com/bright/inspired)
-    * [Family & Education](https://www.theepochtimes.com/bright/family-education)
-    * [Personal Finance](https://www.theepochtimes.com/business/personal-finance)
-    * [American Essence](https://www.theepochtimes.com/bright/american-essence)
-* [Entertainment](https://www.theepochtimes.com/entertainment)
-    * [Film & TV](https://www.theepochtimes.com/entertainment/film-tv)
-    * [Entertainment News](https://www.theepochtimes.com/entertainment/entertainment-news)
-* [Health](https://www.theepochtimes.com/health)
-    * [Experts](https://www.theepochtimes.com/health/experts)
-    * [Conditions](https://www.theepochtimes.com/health/treatments)
-    * [Life & Wellness](https://www.theepochtimes.com/health/life-wellness)
-* [Special Topics](https://www.theepochtimes.com/most-popular)
-    * [Battlefields](https://www.theepochtimes.com/t-battlefields)
-
-Search Text  [SEARCH](javascript:void(0);)
-
-* [EpochTV](https://www.theepochtimes.com/epochtv)
-* [US](https://www.theepochtimes.com/us-news)
-* [US Politics](https://www.theepochtimes.com/us/us-politics)
-* [Perspectives](https://www.theepochtimes.com/opinion)
-* [World News](https://www.theepochtimes.com/world)
-* [China](https://www.theepochtimes.com/china-news)
-* [Hong Kong](https://www.theepochtimes.com/hong-kong)
-* [Health](https://www.theepochtimes.com/health)
-* [Bright](https://www.theepochtimes.com/bright)
-* [Arts](https://www.theepochtimes.com/bright/arts-culture)
-* [Falun Gong](https://www.theepochtimes.com/falun-gong)
-* [Premium](https://www.theepochtimes.com/editions)
-* [Business & Markets News](https://www.theepochtimes.com/business/markets)
-* [Games](https://www.theepochtimes.com/epochfun)
-* [Livestream](https://www.theepochtimes.com/epochtv/live)
-* More
+[![The Epoch Times](/_next/static/media/logo.32553ed2.svg)](https://www.theepochtimes.com/)
 
 Terms of Service
 ================
-
-[\[email protected\]](https://www.theepochtimes.com/cdn-cgi/l/email-protection)[Telegram](https://t.me/share/url?url=https%3A%2F%2Fwww.theepochtimes.com%2F%3Fpage_id%3D43216%3Futm_campaign%3Dsocialshare_telegram%26utm_source%3Dt.me)[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.theepochtimes.com%2F%3Fpage_id%3D43216%3Futm_campaign%3Dsocialshare_fb%26utm_source%3Dfacebook.com)[Tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.theepochtimes.com%2F%3Fpage_id%3D43216%3Futm_campaign%3Dsocialshare_twitter%26utm_source%3Dtwitter.com)[MeWe](https://mewe.com/share?link=https%3A%2F%2Fwww.theepochtimes.com%2F%3Fpage_id%3D43216%3Futm_campaign%3Dsocialshare_mewe%26utm_source%3Dmewe.com)[Reddit](http://www.reddit.com/submit?url=https%3A%2F%2Fwww.theepochtimes.com%2F%3Fpage_id%3D43216%3Futm_campaign%3Dsocialshare_reddit%26utm_source%3Dreddit.com)
-
-[1\. ENTIRE AGREEMENT](#1_entire_agreement)  
-[2\. DESCRIPTION OF SERVICE](#2_description)  
-[3\. MODIFICATIONS TO SERVICE AND TERMS OF SERVICE](#3_modification)  
-[4\. NO RESALE OF SERVICE](#4_nosale)  
-[5\. DELIVERY](#5_delivery)  
-[6\. CONTENT OWNERSHIP](#6_ownership)  
-[7\. CONTENT RESPONSIBILITY](#7_responsibility)  
-[8\. CONTENT SUBMITTED TO EPOCH TIMES](#8_content_submitted)  
-[9\. USER CONDUCT](#9_user_conduct)  
-[10\. USER ACCOUNT PASSWORD AND SECURITY](#10_user_account)  
-[11\. PAYMENTS](#11_payments)  
-[12\. REFUND](#12_refund)  
-[13\. TERMINATION](#13_termination)  
-[14\. PROMOTING PRODUCTS ON EPOCH TIMES](#14_promoting)  
-[15\. ADVERTISEMENTS PROMOTIONS AND AFFILIATE DISCLOSURE](#15_advertisement)  
-[16\. DISCLAIMER OF WARRANTIES](#16_warranties)  
-[17\. LIMITATION OF LIABILITY](#17_liability)  
-[18\. INJUNCTIVE RELIEF](#18_injunctove_relief)  
-[19\. INDEMNITY](#19_idemnity)  
-[20\. LAWS](#20_laws)  
-[21\. ARBITRATION CLAUSE AND CLASS ACTION WAIVER](#21_waiver)  
-[22\. NOTICE](#22_notice)  
-[23\. PRIVACY POLICY](#23_privacy_policy)  
-[24\. GENERAL INFORMATION](#24_general_info)  
-[25\. VIOLATIONS](#25_violations)  
-[26\. EPOCH TIMES PROPRIETARY RIGHTS](#26_proprietary_rights)  
-[27\. COPYRIGHT AND TRADEMARK](#27_copyright)  
-[28\. NOTICE OF INFRINGEMENT](#28_infringement)  
-[29\. CHILDREN INFORMATION](#29_children_info)  
-[30\. RELIANCE ON INFORMATION POSTED](#30_repliance)  
-[31\. HOW TO CONTACT US](#31_contact_us)
 
 The Epoch Times Association Inc. and its affiliates and subsidiaries (collectively “Epoch Times,” “our,” “us,” or “we”) owns and operates https://www.TheEpochTimes.com and its associated websites and mobile sites (the “Sites”). Epoch Times provides its Sites, including but not limited to all information, videos, images, tools, webinars, commenting and linking publishing capabilities, and all other services made available by us to Users from time to time, whether through our Sites or through other means (collectively, the “Services”).
 
@@ -246,11 +104,7 @@ Any User Content you post to the Services will be considered non-confidential an
 
 We have the right to:
 
-(i). Remove or refuse to post any User Content for any or no reason at our sole discretion.  
-(ii). Take any action with respect to any User Content that we deem necessary or appropriate at our sole discretion, including if we believe that such User Content violates the Terms of Service Agreement, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Services or the public, or could create liability for Epoch Times.  
-(iii). Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Services.  
-(iv). Terminate or suspend your access to all or part of the Services for any violation of these Terms of Use.  
-(v). Without limiting the foregoing, we have the right to cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Services. YOU WAIVE AND HOLD HARMLESS EPOCH TIMES FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY EPOCH TIMES DURING, OR TAKEN AS A CONSEQUENCE OF, INVESTIGATIONS BY EPOCH TIMES OR LAW ENFORCEMENT AUTHORITIES.
+(i). Remove or refuse to post any User Content for any or no reason at our sole discretion. (ii). Take any action with respect to any User Content that we deem necessary or appropriate at our sole discretion, including if we believe that such User Content violates the Terms of Service Agreement, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Services or the public, or could create liability for Epoch Times. (iii). Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Services. (iv). Terminate or suspend your access to all or part of the Services for any violation of these Terms of Use. (v). Without limiting the foregoing, we have the right to cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Services. YOU WAIVE AND HOLD HARMLESS EPOCH TIMES FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY EPOCH TIMES DURING, OR TAKEN AS A CONSEQUENCE OF, INVESTIGATIONS BY EPOCH TIMES OR LAW ENFORCEMENT AUTHORITIES.
 
 However, we cannot review all material before it is posted on the Services and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions.
 
@@ -302,20 +156,14 @@ Any cancelled paid account will then have free account access which includes a l
 
 Epoch Times may, at its sole discretion and at any time, discontinue providing the Services, or any part thereof, with or without notice, if Epoch Times believes that you have violated any law or the spirit of this Agreement.
 
+If you are a Canada resident and have subscribed to any of our Services, you may cancel at any time by calling Customer Service Hotline 1-800-766-0157 to notify Epoch Times of your intent to terminate your subscription.
+
 14\. PROMOTING PRODUCTS ON EPOCH TIMES.
 ---------------------------------------
 
 If You (“Promoter”) promote, market, or otherwise advertise (“Promote” or a “Promotion”) any product or service via any online or offline channel or medium for the purpose of earning a percentage of the sale price of any product or service (“Product”) sold as a result of such Promotion (“Commissions”), You agree, acknowledge, represent, and warrant that:
 
-(a) You will not suggest or imply any endorsement by Epoch Times, its contributors, or sponsors for the Product.  
-(b) You will not make any unlicensed or unauthorized use of or otherwise infringe or misappropriate any materials protected by any patent, copyright, trademark, trade secret, right of privacy, right of publicity or other intellectual property or other proprietary right (“IP Rights”).  
-(c) You will not interfere with Epoch Times’ tracking of visits, page views, click throughs, or the normal flow of traffic to, through, or from the Epoch Times Services.  
-(d) All communications and/or representations made by you in connection with any Promotions and/or in relation to any Product will be accurate and contain all disclosures and disclaimers necessary to prevent such Promotions from being false or deceptive. Such disclosures and disclaimers must be made in a clear and conspicuous manner, and will otherwise comply with your country’s laws and all Federal and State laws, including U.S. Federal Trade Commission (“FTC”) regulations, policies and guidelines governing advertising, disclosure and consumer protection, including the FTCs endorsement rules.  
-(e) You will not offer, suggest, or imply the availability of any rebates, coupons, tickets, vouchers, or similar incentives to induce or encourage the purchase of a Product.  
-(f) Epoch Times reserves the right, but not the obligation, to review your Promotions as they appear on our Sites and Services. You agree that Epoch Times, in its sole discretion and at any time, may demand changes to product promotion and delivery pages, customer support, or other items related to the content of Your Promotions. Epoch Times may remove your Promotion at any time from its Service by refunding any fees paid for that Promotion.  
-(g) You will provide valid contact information, including but not limited to a working email address, where Epoch Times can send inquiries and receive a non-automated reply by end of the following business day.  
-(h) Epoch Times does not guarantee, or assume any responsibility or liability for the accuracy, completeness, efficacy, or timeliness of any such information, nor is it responsible for any bonuses, prizes, or other incentives offered in any Promotions. Your use of any information presented by Epoch Times does not guarantee, or assume any responsibility or liability for, the accuracy, completeness, efficacy, or timeliness of any such information, nor is it responsible for any bonuses, prizes, or other incentives offered in any Promotions. Your use of any information presented by a Promoter is strictly at your own risk. In no event shall Epoch Times have any liability for your purchase or use of a Product or Service Promoted on Epoch Times; and  
-(i) Promotion is voluntary, and your reliance is at your own risk. Epoch Times does not independently review or verify information provided in any Promotion for accuracy, completeness, efficacy, or timeliness. You acknowledge and understand that Epoch Times does not verify statements, claims, incentives, or promotions made by Promotions.
+(a) You will not suggest or imply any endorsement by Epoch Times, its contributors, or sponsors for the Product. (b) You will not make any unlicensed or unauthorized use of or otherwise infringe or misappropriate any materials protected by any patent, copyright, trademark, trade secret, right of privacy, right of publicity or other intellectual property or other proprietary right (“IP Rights”). (c) You will not interfere with Epoch Times’ tracking of visits, page views, click throughs, or the normal flow of traffic to, through, or from the Epoch Times Services. (d) All communications and/or representations made by you in connection with any Promotions and/or in relation to any Product will be accurate and contain all disclosures and disclaimers necessary to prevent such Promotions from being false or deceptive. Such disclosures and disclaimers must be made in a clear and conspicuous manner, and will otherwise comply with your country’s laws and all Federal and State laws, including U.S. Federal Trade Commission (“FTC”) regulations, policies and guidelines governing advertising, disclosure and consumer protection, including the FTCs endorsement rules. (e) You will not offer, suggest, or imply the availability of any rebates, coupons, tickets, vouchers, or similar incentives to induce or encourage the purchase of a Product. (f) Epoch Times reserves the right, but not the obligation, to review your Promotions as they appear on our Sites and Services. You agree that Epoch Times, in its sole discretion and at any time, may demand changes to product promotion and delivery pages, customer support, or other items related to the content of Your Promotions. Epoch Times may remove your Promotion at any time from its Service by refunding any fees paid for that Promotion. (g) You will provide valid contact information, including but not limited to a working email address, where Epoch Times can send inquiries and receive a non-automated reply by end of the following business day. (h) Epoch Times does not guarantee, or assume any responsibility or liability for the accuracy, completeness, efficacy, or timeliness of any such information, nor is it responsible for any bonuses, prizes, or other incentives offered in any Promotions. Your use of any information presented by Epoch Times does not guarantee, or assume any responsibility or liability for, the accuracy, completeness, efficacy, or timeliness of any such information, nor is it responsible for any bonuses, prizes, or other incentives offered in any Promotions. Your use of any information presented by a Promoter is strictly at your own risk. In no event shall Epoch Times have any liability for your purchase or use of a Product or Service Promoted on Epoch Times; and (i) Promotion is voluntary, and your reliance is at your own risk. Epoch Times does not independently review or verify information provided in any Promotion for accuracy, completeness, efficacy, or timeliness. You acknowledge and understand that Epoch Times does not verify statements, claims, incentives, or promotions made by Promotions.
 
 We reserve the right to delete Promotions at our sole discretion without previous notice to User.
 
@@ -335,8 +183,7 @@ THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. EXCEPT A
 
 USER UNDERSTANDS AND AGREES THAT ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT USER’S OWN DISCRETION AND RISK AND THAT USER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO USER’S COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL AND/OR DATA. EPOCH TIMES MAKES NO WARRANTY REGARDING ANY GOODS OR SERVICES PURCHASED OR OBTAINED THROUGH THE SERVICES OR ANY TRANSACTIONS ENTERED INTO THROUGH THE SERVICES.
 
-NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY USER FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.  
-SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY USER FROM OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
 
 17\. LIMITATION OF LIABILITY.
 -----------------------------
@@ -447,230 +294,26 @@ If you have any questions about these Terms of Service, please contact us at the
 
 United States:
 
-Email: Contact us [here](https://help.theepochtimes.com/hc/en-us/requests/new)  
-Call us: 1-833-699-1888  
-Write us: 5 Penn Plaza, 8th Floor, New York, NY 10001
+Email: Contact us [here](https://help.theepochtimes.com/hc/en-us/requests/new) Call us: 1-833-699-1888 Write us: 5 Penn Plaza, 8th Floor, New York, NY 10001
 
 Canada:
 
-Email: Contact us [here](https://help.epochtimes.ca/hc/en-us/requests/new)Call us: 1-800-766-0157  
-Write us: 195 Allstate Parkway, Markham, ON, L3R 4T8
+Email: Contact us [here](https://help.epochtimes.ca/hc/en-us/requests/new) Call us: 1-800-766-0157 Write us: 195 Allstate Parkway, Markham, ON, L3R 4T8
 
 Australia:
 
-Email: Contact us [here](https://help.theepochtimes.au/hc/en-au/requests/new)  
-Call us: 61-2-8988-5600  
-Write us: PO Box 843 Hurstville BC NSW 1481
+Email: Contact us [here](https://help.theepochtimes.au/hc/en-au/requests/new) Call us: 61-2-8988-5600 Write us: PO Box 843 Hurstville BC NSW 1481
 
 If you need to contact our customer service team, please find the contact information of different editions [HERE](https://help.theepochtimes.com/hc/en-us/sections/360009226592-Contact-Us).
 
 UPDATED: FEBRUARY 01, 2024
 
-TOP NEWS
+Index
 
-* [Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://www.theepochtimes.com/us/paxton-warns-texas-schools-not-to-comply-with-title-ix-transgender-rules-or-face-legal-action-5672471)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Paxton Warns Texas Schools Not to Comply With Title IX Transgender Rules or Face Legal Action](https://img.theepochtimes.com/assets/uploads/2024/05/03/id5643334-GettyImages-1235388995-205x123.jpg.webp)](https://www.theepochtimes.com/us/paxton-warns-texas-schools-not-to-comply-with-title-ix-transgender-rules-or-face-legal-action-5672471)
-* [Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://www.theepochtimes.com/us/billionaire-timothy-mellon-donates-50-million-to-trump-pac-5672593)
-    
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Billionaire Timothy Mellon Donates $50 Million to Trump PAC](https://img.theepochtimes.com/assets/uploads/2024/06/03/id5661551-Trump-presser-GettyImages-2155437737-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/billionaire-timothy-mellon-donates-50-million-to-trump-pac-5672593)
-* [US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://www.theepochtimes.com/world/us-says-ukraine-can-strike-anywhere-inside-russia-where-cross-border-attacks-emanate-5672415)
-    
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Says Ukraine Can Strike ‘Anywhere’ Inside Russia Where Cross-Border Attacks Emanate](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672570-GettyImages-1248456070KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-says-ukraine-can-strike-anywhere-inside-russia-where-cross-border-attacks-emanate-5672415)
-* [New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://www.theepochtimes.com/us/new-york-governor-signs-bill-restricting-social-media-algorithms-for-minors-5672411)
-    
-    5hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New York Governor Signs Bill Restricting Social Media Algorithms for Minors](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672645-Hochul-signs-bill-AP24172690553171-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-governor-signs-bill-restricting-social-media-algorithms-for-minors-5672411)
-* [US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://www.theepochtimes.com/world/rep-pelosi-meets-with-exiled-tibetan-government-in-india-as-chinas-xi-visits-tibet-5671855)
-    
-    6hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
-    
-    [![US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Lawmakers Meet With Exiled Tibetan Government in India as China’s Xi Visits Tibet](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5672578-pelosi-205x123.jpeg.webp)](https://www.theepochtimes.com/world/rep-pelosi-meets-with-exiled-tibetan-government-in-india-as-chinas-xi-visits-tibet-5671855)
-* [Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://www.theepochtimes.com/us/nearly-half-of-us-ev-drivers-consider-switching-back-to-gas-vehicles-mckinsey-study-5672246)
-    
-    8hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Nearly Half of US EV Drivers Consider Switching Back to Gas Vehicles: McKinsey Study](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672481-GettyImages-1241748391-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/nearly-half-of-us-ev-drivers-consider-switching-back-to-gas-vehicles-mckinsey-study-5672246)
-* [Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://www.theepochtimes.com/us/federal-judge-to-hear-arguments-on-lawfulness-of-jack-smith-appointment-5669979)
-    
-    8hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Judge to Hear Arguments on Lawfulness of Jack Smith Appointment](https://img.theepochtimes.com/assets/uploads/2024/06/16/id5669709-Donald-Trump-Judge-Cannon-Jack-Smith--205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-to-hear-arguments-on-lawfulness-of-jack-smith-appointment-5669979)
-* [Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://www.theepochtimes.com/us/mayorkas-responds-to-growing-public-support-for-mass-deportation-of-illegal-immigrants-5671495)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mayorkas Responds to Growing Public Support for Mass Deportation of Illegal Immigrants](https://img.theepochtimes.com/assets/uploads/2024/04/17/id5631284-Mayorkas-GettyImages-2148177662-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mayorkas-responds-to-growing-public-support-for-mass-deportation-of-illegal-immigrants-5671495)
-* [Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://www.theepochtimes.com/world/biden-admin-moves-ukraine-to-front-of-line-for-air-defense-missiles-5672231)
-    
-    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Admin Prioritizes Ukraine for Air Defense Missiles](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672441-missiles-OP-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-admin-moves-ukraine-to-front-of-line-for-air-defense-missiles-5672231)
-* [‘M\*A\*S\*H’ Actor Donald Sutherland Dies at 88](https://www.theepochtimes.com/entertainment/mash-actor-donald-sutherland-dies-at-88-post-5672320)
-    
-    10hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![‘M*A*S*H’ Actor Donald Sutherland Dies at 88](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘M*A*S*H’ Actor Donald Sutherland Dies at 88](https://img.theepochtimes.com/assets/uploads/2024/06/20/id5672399-96859cb44f8b7613540f6a706700c657-OP-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/mash-actor-donald-sutherland-dies-at-88-post-5672320)
+[1\. entire agreement](#1_entire_agreement)[2\. description of service](#2_description)[3\. modifications to service and terms of service](#3_modification)[4\. no resale of service](#4_nosale)[5\. delivery](#5_delivery)[6\. content ownership](#6_ownership)[7\. content responsibility](#7_responsibility)[8\. content submitted to epoch times](#8_content_submitted)[9\. user conduct](#9_user_conduct)[10\. user account password and security](#10_user_account)[11\. payments](#11_payments)[12\. refund](#12_refund)[13\. termination](#13_termination)[14\. promoting products on epoch times](#14_promoting)[15\. advertisements promotions and affiliate disclosure](#15_advertisement)[16\. disclaimer of warranties](#16_warranties)[17\. limitation of liability](#17_liability)[18\. injunctive relief](#18_injunctove_relief)[19\. indemnity](#19_idemnity)[20\. laws](#20_laws)[21\. arbitration clause and class action waiver](#21_waiver)[22\. notice](#22_notice)[23\. privacy policy](#23_privacy_policy)[24\. general information](#24_general_info)[25\. violations](#25_violations)[26\. epoch times proprietary rights](#26_proprietary_rights)[27\. copyright and trademark](#27_copyright)[28\. notice of infringement](#28_infringement)[29\. children information](#29_children_info)[30\. reliance on information posted](#30_repliance)[31\. how to contact us](#31_contact_us)
 
-[![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
+[![home-icon](/_next/static/media/ET-circle-icon.0fdcab18.svg)](https://www.theepochtimes.com/)[![epochtv-icon](/_next/static/media/epochtv-icon-gray.f18c326d.svg)](https://www.theepochtimes.com/epochtv)[![health-icon](/_next/static/media/epoch-health-icon-gray.aef57f67.svg)](https://www.theepochtimes.com/health)[![bright-icon](/_next/static/media/bright-icon-gray.34047535.svg)](https://www.theepochtimes.com/bright)[![epochfun-icon](/_next/static/media/games-icon-gray.e413b2ba.svg)](https://www.theepochtimes.com/epochfun)
 
-[Help Center](https://help.theepochtimes.com/hc/en-us) [subscribe](https://subscribe.theepochtimes.com/p/?page=digitalsub) [newsletter](https://www.theepochtimes.com/newsletter) [Newsstands](https://www.theepochtimes.com/where-to-buy-the-epoch-times-newspaper) [Epoch Shop](https://epochshop.com/) [Gift](https://subscribe.theepochtimes.com/gift)
-
-* [TOP NEWS](https://www.theepochtimes.com/top-news)
-* [SPECIAL SERIES](https://www.theepochtimes.com/how-the-specter-of-communism-is-ruling-our-world)
-* [SPECIAL COVERAGE](https://www.theepochtimes.com/c-shen-yun)
-* [LATEST ARTICLES](https://www.theepochtimes.com/latest)
-
-[![You deserve to hear the truth.](https://img.theepochtimes.com/assets/uploads/2020/12/11/subscribe-footerbutton.jpg)](https://subscribe.theepochtimes.com/p/?page=digitalsub)
-
-* [Contact Us](https://www.theepochtimes.com/contact-us)
-* [Media Statements](https://www.theepochtimes.com/epoch-announcements)
-* [About Us](https://www.theepochtimes.com/about-us)
-* [RSS Feeds](https://www.theepochtimes.com/rssfeeds)
-* [Terms of Services](https://www.theepochtimes.com/terms-of-service)
-* [Privacy Policy](https://www.theepochtimes.com/privacy-notice)
-* [Copyright Policy](https://www.theepochtimes.com/copyright-infringement-notification)
-* [Data Disclaimer](https://www.theepochtimes.com/data-disclaimer)
-* [Digital Newspaper](https://reader.epoch.cloud/)
-* [Our Story](https://www.theepochtimes.com/about-us#our-story)
-* [Subscribe](https://subscribe.theepochtimes.com/p/?page=subhome)
-* [Careers](https://www.theepochtimes.com/job-openings)
-
-36 COUNTRIES, 22 LANGUAGES
-
-* [Bulgarian](https://epochtimes.bg/)
-* [English](https://www.theepochtimes.com/)
-* [Chinese](https://www.epochtimes.com/)
-* [Spanish](https://es.theepochtimes.com/)
-* [Japanese](https://www.epochtimes.jp/)
-* [Korean](https://kr.theepochtimes.com/)
-* [Indonesian](http://www.erabaru.net/)
-* [French](https://www.epochtimes.fr/)
-* [German](https://www.epochtimes.de/)
-* [Greek](https://theepochtimes.gr/)
-* [Italian](https://www.epochtimes.it/)
-* [Portuguese](https://www.epochtimes.com.br/)
-* [Swedish](https://www.epochtimes.se/)
-* [Dutch](https://www.epochtimes.nl/)
-* [Russian](https://www.epochtimes.ru/)
-* [Ukrainian](https://www.epochtimes.com.ua/)
-* [Romanian](https://www.epochtimes-romania.com/)
-* [Czech](https://www.epochtimes.cz/)
-* [Slovak](https://www.epochtimes.cz/)
-* [Polish](https://epochtimes.pl/)
-* [Turkish](http://epochtimestr.com/)
-* [Persian](https://persianepochtimes.com/)
-* [Vietnamese](https://www.epochtimesviet.com/)
-
-DOWNLOAD OUR APP
-
-[![iOS](https://img.theepochtimes.com/assets/uploads/2020/10/27/Desktop-AppleStoreBadge.png)](https://subscribe.theepochtimes.com/p/?page=mobile) [![Android](https://img.theepochtimes.com/assets/uploads/2020/10/27/Desktop-GooglePlayBadge.png)](https://subscribe.theepochtimes.com/p/?page=mobile)
-
-* [US](https://www.theepochtimes.com/us-news)
-    * [US News](https://www.theepochtimes.com/us/us-news)
-    * [US Features](https://www.theepochtimes.com/us/us-features)
-    * [US Politics](https://www.theepochtimes.com/us/us-politics)
-    * [US Crime News](https://www.theepochtimes.com/us/crime-us)
-    * [New York News](https://www.theepochtimes.com/us/nyc)
-    * [San Francisco](https://www.theepochtimes.com/us/nor-cal-san-francisco)
-    * [Los Angeles](https://www.theepochtimes.com/us/so-cal-los-angeles)
-* [Perspectives](https://www.theepochtimes.com/opinion)
-    * [Thinking About China](https://www.theepochtimes.com/opinion/thinking-about-china)
-    * [Viewpoints](https://www.theepochtimes.com/opinion/viewpoints)
-    * [Unbridled Evil: The Corrupt Reign of Jiang Zemin in China](https://www.theepochtimes.com/jiang-zemin-story)
-    * [The Reader’s Turn](https://www.theepochtimes.com/readers-turn)
-
-* [China News](https://www.theepochtimes.com/china-news)
-    * [US-China Relations](https://www.theepochtimes.com/china/china-us-news)
-    * [Chinese Regime](https://www.theepochtimes.com/china/regime)
-    * [Business & Economy](https://www.theepochtimes.com/china/business-economy)
-    * [Chinese Culture](https://www.theepochtimes.com/culture)
-    * [China Human Rights](https://www.theepochtimes.com/china/human-rights)
-    * [Social Issues](https://www.theepochtimes.com/china/society)
-    * [Organ Harvesting in China](https://www.theepochtimes.com/china/organ-harvesting-in-china)
-* [World News](https://www.theepochtimes.com/world)
-    * [Africa News](https://www.theepochtimes.com/world/africa)
-    * [Americas](https://www.theepochtimes.com/world/americas)
-    * [Asia & Pacific](https://www.theepochtimes.com/world/asia-pacific)
-    * [Canada](https://www.theepochtimes.com/world/canada)
-    * [Europe](https://www.theepochtimes.com/world/europe)
-    * [UK News](https://www.theepochtimes.com/world/uk)
-    * [Australia News](https://www.theepochtimes.com/world/australia)
-    * [International](https://www.theepochtimes.com/world/international)
-    * [Middle East](https://www.theepochtimes.com/world/middle-east)
-* [Business & Markets](https://www.theepochtimes.com/business/markets)
-    * [Companies](https://www.theepochtimes.com/business/companies)
-    * [Economy](https://www.theepochtimes.com/business/economies)
-    * [Markets](https://markets.theepochtimes.com/)
-    * [Real Estate](https://www.theepochtimes.com/real-estate)
-    * [Gold and Commodities](https://www.theepochtimes.com/business/gold-commodities)
-
-* [ARTS & CULTURE](https://www.theepochtimes.com/bright/arts-culture)
-    * [Fine Arts & Craftsmanship](https://www.theepochtimes.com/bright/fine-arts)
-    * [Performing Arts](https://www.theepochtimes.com/bright/performing-arts)
-    * [Books](https://www.theepochtimes.com/bright/books)
-    * [Traditional Culture](https://www.theepochtimes.com/c-traditional-culture)
-    * [Shen Yun Special Coverage](https://www.theepochtimes.com/shenyun)
-    * [Film & TV](https://www.theepochtimes.com/bright/film)
-* [Science](https://www.theepochtimes.com/science)
-    * [News](https://www.theepochtimes.com/science/science-news)
-    * [Space](https://www.theepochtimes.com/science/space)
-    * [Environment](https://www.theepochtimes.com/science/environment)
-* [Tech](https://www.theepochtimes.com/tech)
-    * [Tech News](https://www.theepochtimes.com/tech/tech-news)
-    * [Tech Products & Reviews](https://www.theepochtimes.com/tech/products-reviews)
-    * [Social Media](https://www.theepochtimes.com/tech/tech-social-media)
-* [Sports](https://www.theepochtimes.com/sports)
-* [Video](https://www.theepochtimes.com/video)
-    * [American Thought Leaders](https://www.theepochtimes.com/c-american-thought-leaders)
-    * [China Insider](https://www.theepochtimes.com/c-china-insider)
-    * [Crossroads](https://www.theepochtimes.com/c-crossroads)
-
-* [Bright](https://www.theepochtimes.com/page/bright)
-    * [Lifestyle](https://www.theepochtimes.com/bright/radiant-life)
-    * [Inspired](https://www.theepochtimes.com/bright/inspired)
-    * [Family & Education](https://www.theepochtimes.com/bright/family-education)
-    * [Personal Finance](https://www.theepochtimes.com/business/personal-finance)
-    * [American Essence](https://www.theepochtimes.com/bright/american-essence)
-* [Entertainment](https://www.theepochtimes.com/entertainment)
-    * [Film & TV](https://www.theepochtimes.com/entertainment/film-tv)
-    * [Entertainment News](https://www.theepochtimes.com/entertainment/entertainment-news)
-* [Health](https://www.theepochtimes.com/health)
-    * [Experts](https://www.theepochtimes.com/health/experts)
-    * [Conditions](https://www.theepochtimes.com/health/treatments)
-    * [Life & Wellness](https://www.theepochtimes.com/health/life-wellness)
-* [Special Topics](https://www.theepochtimes.com/most-popular)
-    * [Battlefields](https://www.theepochtimes.com/t-battlefields)
+[![The Epoch Times](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FEET_footer.d4ea1157.png&w=750&q=75)](https://www.theepochtimes.com/)
 
 Copyright © 2000 - 2024 The Epoch Times Association Inc. All Rights Reserved.
-
-[Back Top](javascript:void(0); "back to top")
-
-Cookie Settings
