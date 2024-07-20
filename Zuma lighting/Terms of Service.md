@@ -57,6 +57,8 @@ Terms & Conditions
 
 **LIMITATION OF LIABILITY:** Zuma Lighting, LLC shall not be responsible, obligated or liable for any injury or damage resulting from an application or use of its products, either simply or in combination with other products. Zuma Lighting, LLC sole liability for breach of warranty or any other claim shall be limited to repair or replacement of products, or return of purchase price, at Zuma Lighting’s sole option. Zuma Lighting shall not be liable for damages including but not limited to consequential or special damages arising out of or in connection with the use of performance of the products or arising out of acceptance of a specific order.
 
+**HOLD FOR RELEASE (HFR):**  Zuma Lighting defines Hold for Release (HFR) Orders as any order received where the customer has not released the material for shipment, subject to approval of submittals and/or staging requirements of materials for the project. Note that HFR orders are used for planning and informational purposes only as Zuma Lighting does not allocate any materials nor do we schedule any production for HFR orders until the orders have been released in writing for production by the distributor. Pricing is not held or otherwise guaranteed unless so indicated on the quotation and must be updated to the price in effect at the time of release. To have pricing held, material allocated, and production planned - please enter a fully released order noted as either "Release for Immediate Shipment" or "Release But Do Not Ship Before ​\_\_ ​/\_\_/\_\_ " with a ship date within 90 days of the released order date. 
+
 Quality Outdoor Solutions
 -------------------------
 
