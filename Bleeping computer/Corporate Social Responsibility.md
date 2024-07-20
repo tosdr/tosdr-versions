@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft announces new Windows 'checkpoint' cumulative updates](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![CrowdStrike update crashes Windows systems, causes outages worldwide](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft announces new Windows 'checkpoint' cumulative updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-windows-checkpoint-cumulative-updates/)
-    * [![Email addresses of 15 million Trello users leaked on hacking forum](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
+    * [![Russians plead guilty to involvement in LockBit ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Email addresses of 15 million Trello users leaked on hacking forum](https://www.bleepingcomputer.com/news/security/email-addresses-of-15-million-trello-users-leaked-on-hacking-forum/)
-    * [![June Windows Server updates break Microsoft 365 Defender features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Russians plead guilty to involvement in LockBit ransomware attacks](https://www.bleepingcomputer.com/news/security/russians-plead-guilty-to-involvement-in-lockbit-ransomware-attacks/)
+    * [![Exchange Online adds Inbound DANE with DNSSEC for security boost](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        June Windows Server updates break Microsoft 365 Defender features](https://www.bleepingcomputer.com/news/microsoft/june-windows-server-updates-break-microsoft-365-defender-features/)
-    * [![Over 400,000 Life360 user phone numbers leaked via unsecured API](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Exchange Online adds Inbound DANE with DNSSEC for security boost](https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-security-boost/)
+    * [![Major Microsoft 365 outage caused by Azure configuration change](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Over 400,000 Life360 user phone numbers leaked via unsecured API](https://www.bleepingcomputer.com/news/security/over-400-000-life360-user-phone-numbers-leaked-via-unsecured-android-api/)
+        Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
     
-    * [![Here's how to get 1TB of Koofr cloud storage for life for $120](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft confirms CrowdStrike update also hit Windows 365 PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Here's how to get 1TB of Koofr cloud storage for life for $120](https://www.bleepingcomputer.com/offer/deals/heres-how-to-get-1tb-of-koofr-cloud-storage-for-life-for-120/)
-    * [![SolarWinds fixes 8 critical bugs in access rights audit software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft confirms CrowdStrike update also hit Windows 365 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-cloud-pcs-stuck-restarting-after-crowdstrike-update/)
+    * [![Start your IT education with this $30 CompTIA prep bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        SolarWinds fixes 8 critical bugs in access rights audit software](https://www.bleepingcomputer.com/news/security/solarwinds-fixes-8-critical-bugs-in-access-rights-audit-software/)
-    * [![Microsoft fixes bug blocking Windows 11 Photos from starting](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Start your IT education with this $30 CompTIA prep bundle](https://www.bleepingcomputer.com/offer/deals/start-your-it-education-with-this-30-comptia-prep-bundle/)
+    * [![MediSecure: Ransomware gang stole data of 12.9 million people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft fixes bug blocking Windows 11 Photos from starting](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-blocking-windows-11-photos-from-starting/)
-    * [![Critical Cisco bug lets hackers add root users on SEG devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        MediSecure: Ransomware gang stole data of 12.9 million people](https://www.bleepingcomputer.com/news/security/medisecure-ransomware-gang-stole-data-of-129-million-people/)
+    * [![CrowdStrike update crashes Windows systems, causes outages worldwide](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Critical Cisco bug lets hackers add root users on SEG devices](https://www.bleepingcomputer.com/news/security/critical-cisco-bug-lets-hackers-add-root-users-on-seg-devices/)
+        CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,16 +302,16 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-discount_smartest-minds_cta-2.jpg)](https://www.bleepingcomputer.com/mgo/48/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-discount_everything-you-want.jpg)](https://www.bleepingcomputer.com/mgo/45/)
 
 Popular Stories
 
-* [![Trello](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Email addresses of 15 million Trello users leaked on hacking forum](https://www.bleepingcomputer.com/news/security/email-addresses-of-15-million-trello-users-leaked-on-hacking-forum/)
-* [![Kaspersky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
+* [![CrowdStrike](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Kaspersky offers free security software for six months in U.S. goodbye](https://www.bleepingcomputer.com/news/security/kaspersky-offers-free-security-software-for-six-months-in-us-goodbye/)
+    CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
 
 Latest Downloads
 
@@ -337,7 +337,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,499 _Downloads_**
+    **54,526 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,7 +345,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **42,191 _Downloads_**
+    **42,216 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -353,7 +353,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,477 _Downloads_**
+    **103,492 _Downloads_**
     
 
 ##### Follow us:
