@@ -1,12 +1,10 @@
-[![Sleeper Support Center](https://downloads.intercomcdn.com/i/o/530542/f40d57ef0b7ddc3f1e684b1f/69c2058a0950e97158772a28dacd8400.png)](https://sleeper.app/en/)
+[Skip to main content](#main-content)
 
-[Go to Sleeper](https://sleeper.com/)
+[![Sleeper Support Center](https://downloads.intercomcdn.com/i/o/530542/f40d57ef0b7ddc3f1e684b1f/69c2058a0950e97158772a28dacd8400.png)](https://sleeper.app/en/)
 
 English한국어PortuguêsEspañolTiếng Việt;
 
 English
-
-[Go to Sleeper](https://sleeper.com/)
 
 English한국어PortuguêsEspañolTiếng Việt;
 
