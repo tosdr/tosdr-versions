@@ -9,7 +9,7 @@
 
 * [About](https://www.zeptolab.com/about)
 * [Games](https://www.zeptolab.com/games)
-* [Careers 7](https://www.zeptolab.com/careers)
+* [Careers 4](https://www.zeptolab.com/careers)
 * [Publishing](https://publishing.zeptolab.com/)
 * [Advertise](https://www.zeptolab.com/advertisement)
 * [Contact](https://www.zeptolab.com/contact)
@@ -157,9 +157,9 @@ D. How to File Complaints. If you believe your rights under the GDPR have been v
 If you have any questions about our Privacy Policy or about our use of your personal information, then you may contact us at:
 
 _ZeptoLab UK Limited  
-2 Eaton Gate, London, SW1W 9BJ, United Kingdom  
+27 Old Gloucester St, Holborn, London WC1N 3AX  
 [privacy@zeptolab.com](mailto:privacy@zeptolab.com)  
-[+44 (0)7376294346](tel:+4407376294346)  
+[+44 7985 352042](tel:+447985352042)  
 _
 
 [Back](javascript:history.back())
