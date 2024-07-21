@@ -229,9 +229,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://lagged.com/imgs/3d4b54bf-6073-461d-02ab-b39292ff0000/w=220)
 
-[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
-
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://lagged.com/imgs/4a73e91f-f6ec-4426-ec8c-0015c281d000/w=220)
+
+[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://lagged.com/imgs/b0d52620-578b-4391-03bc-f5bd8e580f00/w=220)
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://lagged.com/imgs/eb88af9c-7f5b-46de-3cde-71d303dd9600/w=220)
 
