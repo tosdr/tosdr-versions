@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                             
+Privacy policy – G FUEL                                                                                                 
 
 [Skip to content](#MainContent) 
 
@@ -631,55 +631,55 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.4 out of 5 stars
 
-1,653 Reviews
+1,656 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,410 Reviews
+1,412 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,841 Reviews
+2,842 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,988 Reviews
+1,996 Reviews
 
 4.4
 
 Rated 4.4 out of 5 stars
 
-2,131 Reviews
+2,133 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,421 Reviews
+2,422 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-4,663 Reviews
+4,666 Reviews
 
 4.5
 
 Rated 4.5 out of 5 stars
 
-4,410 Reviews
+4,415 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,863 Reviews
+1,867 Reviews
 
 4.7
 
