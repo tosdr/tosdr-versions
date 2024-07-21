@@ -37,6 +37,7 @@ Docs Menu
         16. [6\. Violent Content](#6-violent-content)
         17. [6.1 War Footage](#61-war-footage)
         18. [6.2 Violent Content (Exceptions)](#62-violent-content-exceptions)
+        19. [7.0 Advertising](#70-advertising)
     7. [Factually of content](#factually-of-content)
     8. [Our Rights](#our-rights)
     9. [Bot Usage and Guidelines](#bot-usage-and-guidelines)
@@ -88,7 +89,7 @@ This page is made to be helpful to you.
 
 Please view the website sidebar for documentation in detail.
 
-**LAST REVISED:** 2024-05-15:
+**LAST REVISED:** 2024-07-19:
 
 ![header](/images/header.jpg)
 
