@@ -222,6 +222,14 @@ Questions about the Terms of Service should be sent to us using the Contact page
 
 DreamBranding.com Terms, 2200 Winter Springs Blvd, #106-234, Oviedo FL 32765, United States
 
+![](//dream.shop/cdn/shop/files/shf-logo_123x.png?v=1651257958)
+
+No more missing drops or new products, you're going to be a part of the action!
+
+ 
+
+  
+
 ###### CONTACT
 
 [support@dreambranding.com](https://dream.shop/pages/contact-us "Contact Us")
