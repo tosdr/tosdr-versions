@@ -18,7 +18,7 @@ Close
 Privacy Policy
 --------------
 
-Last updated: May 20, 2024
+Last updated: July 1, 2024
 
 ### 1\. About Us
 
@@ -202,15 +202,13 @@ To help protect your privacy and maintain security, we take steps to verify your
 
 Right to Non-Discrimination or Retaliatory Treatment for Exercise of Privacy Rights: You have the right to exercise your privacy rights without receiving discriminatory or retaliatory treatment. If you exercise any of your privacy rights, including the right to restrict the selling or sharing of your Personal Information, you will not be treated differently from those who do not exercise their privacy rights.
 
-**10.5. Additional Rights and Provisions for Colorado, Connecticut and Virginia Residents**
-
-This section applies to Colorado, Connecticut and Virginia Residents as defined by the Colorado Privacy Act (“CPA”), Connecticut Data Privacy Act (“CTDPA”), and Virginia Consumer Data Protection Act (“VCDPA”). Capitalized terms defined in the CTDPA, CPA, VCDPA that are used in this section shall have the same meaning as in the CTDPA, CPA and VCDPA.
+**10.5. Additional Rights and Provisions for Colorado, Connecticut and Virginia Residents** This section applies to Colorado, Connecticut, , Oregon, Texas, Utah, Virginia and Utah Residents as defined by the Colorado Privacy Act (“CPA”), Connecticut Data Privacy Act (“CTDPA”), Oregon Consumer Privacy Act (“OCPA”), Texas Data Privacy and Security Act (“TDPS”), Utah Consumer Privacy Act ("UCPA") and Virginia Consumer Data Protection Act (“VCDPA”). Capitalized terms defined in the CPA, CTDPA, OCPA, TDPS, UCPA and VCDPA that are used in this section shall have the same meaning as in the CPA, CTDPA, OCPA, TDPS, UCPA and VCDPA.
 
 This section describes our collection, use, and disclosure of personal information. You can learn more about the personal information we process, how we process the personal information, the purpose for processing such personal information and the categories of third parties with whom we share such data, in sections 10.2 and 10.3 above.
 
-We do not sell personal information (as defined under the CTDPA, CPA, VCDPA) for monetary consideration.
+We do not sell personal information for monetary consideration.
 
-If you are a Colorado, Connecticut, or Virginia Consumer, subject to certain conditions and restrictions set out in the CTDPA, CPA, VCDPA and other applicable laws, you may have certain rights regarding your personal information (as applicable, depending on where you reside), as described below:
+If you are a Colorado, Connecticut, Oregon, Texas, Utah, or Virginia Consumer, subject to certain conditions and restrictions set out in the CPA, CTDPA, OCPA, TDPS, UCPA, VCDPA and other applicable laws, you may have certain rights regarding your personal information (as applicable, depending on where you reside), as described below:
 
 * Access the personal information that we may hold about you.
 * Request that we correct inaccuracies in your personal information.
@@ -221,7 +219,7 @@ If you are a Colorado, Connecticut, or Virginia Consumer, subject to certain con
 
 Please note that, depending on the nature of your request, you may be asked to provide information to verify your identity before your request can be processed.
 
-You may exercise your privacy rights under the CTDPA, CPA, and VCDPA no more than twice in a 12-month period.
+You may exercise your privacy rights under the CPA, CTDPA, OCPA, TDPS, UCPA, VCDPA no more than twice in a 12-month period.
 
 **10.6. Exercising Your Rights**
 
