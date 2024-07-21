@@ -113,7 +113,7 @@ Transfers in near real-time.
 Initiate faster transactions by utilizing Dwolla's Digital Wallet to hold funds.
 
 **[Dwolla Dashboard](https://www.dwolla.com/features/dashboard)**  
-Access and manage your payments data through the our user-friendly interface.
+Access and manage your payments data through our user-friendly interface.
 
 **[Mass Pay](https://www.dwolla.com/features/mass-pay)**  
 Send multiple bank transfers with a single API request.
