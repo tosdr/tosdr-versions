@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Peppa Pig: Puddles of Fun](https://www.myabandonware.com/game/peppa-pig-puddles-of-fun-r84)
-* [MaDD Bomber](https://www.myabandonware.com/game/madd-bomber-r83)
-* [Atlantis Rising](https://www.myabandonware.com/game/atlantis-rising-r82)
-* [Elimination 2](https://www.myabandonware.com/game/elimination-2-r81)
-* [Zap Zilden](https://www.myabandonware.com/game/zap-zilden-r80)
+* [Challenge World Poker Championship](https://www.myabandonware.com/game/challenge-world-poker-championship-r9q)
+* [World Poker Championship 2: Final Table Showdown](https://www.myabandonware.com/game/world-poker-championship-2-final-table-showdown-r9p)
+* [Casablanca ni Ai o: Satsujinsha wa Jikū o Koete](https://www.myabandonware.com/game/casablanca-ni-ai-o-satsujinsha-wa-jiku-o-koete-7y6)
+* [Xtreme Arcade 12 Pack](https://www.myabandonware.com/game/xtreme-arcade-12-pack-r8v)
+* [Xtreme Brain Games 12 Pack](https://www.myabandonware.com/game/xtreme-brain-games-12-pack-r8t)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* ["Sento Monogatari" Sono I](https://www.myabandonware.com/game/sento-monogatari-sono-i-otl)
-* [Dreadnaught](https://www.myabandonware.com/game/dreadnaught-n05)
-* [Battleship](https://www.myabandonware.com/game/battleship-pm6)
+* [The Magic Garden](https://www.myabandonware.com/game/the-magic-garden-7dz)
+* [Time Runners 3: The Big Run](https://www.myabandonware.com/game/time-runners-3-the-big-run-hi0)
+* [Il Tesoro dell'Isola dei Giochi](https://www.myabandonware.com/game/il-tesoro-dell-isola-dei-giochi-plr)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
