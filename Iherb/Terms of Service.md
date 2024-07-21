@@ -256,11 +256,11 @@ Themenwelten
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/bone-joint-cartilage)
 
-[\-40% auf Beauty
+[\-40% für die Gehirnleistung
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/beauty?specialtyFilters=7)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/brain-cognitive?specialtyFilters=7)
 
       
 
