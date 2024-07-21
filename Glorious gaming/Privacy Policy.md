@@ -64,7 +64,7 @@ Please read this policy carefully to understand our policies and practices regar
 Children Under the Age of 16
 ----------------------------
 
-Our Website is not intended for children under 16 years of age. No one under age 16 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or username you may use. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at privacy@gloriousgaming.com.
+Our Website is not intended for children under 16 years of age. No one under age 16 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on this Website, make any purchases through the Website, use any of the interactive or public comment features of this Website, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or username you may use. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us at [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection).
 
 Information We Collect About You and How We Collect It
 ------------------------------------------------------
@@ -181,7 +181,7 @@ Accessing and Correcting Your Information
 
 You can review and change your personal information by logging into the Website and visiting your account profile page.
 
-You may also send us an email at privacy@gloriousgaming.com to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an email at [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection) to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
 If you delete your User Contributions from the Website, copies of your User  
 Contributions may remain viewable in cached and archived pages, or might have  
@@ -204,7 +204,7 @@ California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Montana, Or
 * profiling in furtherance of decisions that produce legal or similarly significant effects (excluding Iowa and Utah).
 * Either limit (opt-out of) or require consent to process sensitive personal data.
 
-The exact scope of these rights may vary by state. To exercise any of these rights, or to appeal a decision regarding a consumer rights request, please email privacy@gloriousgaming.com
+The exact scope of these rights may vary by state. To exercise any of these rights, or to appeal a decision regarding a consumer rights request, please email [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection)
 
 Nevada provides its residents with a limited right to opt-out of certain personal information sales. However, please know we do not currently sell data triggering that statute's opt-out requirements.
 
@@ -224,7 +224,7 @@ If you reside in the EU/EEA, you may have the following rights with regard to yo
 * Right to withdraw consent - I f you have given us consent to collect or process your personal information, you may withdraw that consent at any time.
 * The Right to Non-Discrimination - We may not discriminate against you if you exercise your privacy rights.
 
-If you wish to exercise any of these rights please submit a request to privacy@gloriousgaming.com.
+If you wish to exercise any of these rights please submit a request to [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection).
 
 We may charge a reasonable fee if your request is not valid under applicable law, repetitive or excessive.  We may also request additional information from you in order to verify  
 your identity before processing your request.
@@ -249,7 +249,7 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 Contact Information
 -------------------
 
-To ask questions or comment about this Privacy Policy and our privacy practices, please email us at privacy@gloriousgaming.com
+To ask questions or comment about this Privacy Policy and our privacy practices, please email us at [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection)
 
 ![Glorious head mark logo](//www.gloriousgaming.com/cdn/shop/files/logo-headmark.svg?v=1715017270)
 
