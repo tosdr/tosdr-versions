@@ -229,7 +229,7 @@ Reach out to our team for help understanding if Enhance Select is right for you.
 
 [(800) 854-2772](tel:8008542772 "Call us")
 
-[Review hearing results](https://www.listenlively.com/cart)
+[Start your 100-day trial](https://www.listenlively.com/survey)
 
 \*Minimum purchase of $50.00 is required. Availability of terms may vary based on purchase price, product, and state of residence. Down payment may be required. Subject to approval of credit application. Rates range from 0.00% to 34.99% APR, resulting in, for example, 36 monthly payments of $38.19 at 21.99% APR, per $1,000.00 borrowed. APRs will vary depending on credit qualifications, loan amount, and term.  Bread Pay™ loans are made by Comenity Capital Bank, a Bread Financial™ company.
 
