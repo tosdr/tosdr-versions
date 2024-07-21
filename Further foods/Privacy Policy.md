@@ -299,7 +299,6 @@ Our Company
 * [About Us](https://www.furtherfood.com/pages/our-story)
 * [Our Mission](https://www.furtherfood.com/pages/our-mission)
 * [Resale Policy](https://www.furtherfood.com/pages/authorized-resale-policy)
-* [Wholesale Inquiries](https://www.furtherfood.com/pages/wholesale-application-form)
 * [Give $10. Get $10](https://furtherfood.referralcandy.com/)
 
 Terms
