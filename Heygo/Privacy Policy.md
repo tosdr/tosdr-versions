@@ -363,7 +363,7 @@ Featured travel offers
     
     [Order a brochure](https://www.rssc.com/order-brochure?s=PE_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTM)
     
-    From £6,429pp
+    From £5,879pp
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.rssc.com%2Fcruises%2FMAR240914%2Fsummary%3Fs%3DDI_RSS_OP_BRA_RST_NA_PAR_NA_Deals_NA_UK_DESTMULTI&item=traveldeal&item_id=13835ecb-dac1-4d73-b340-ee7911d6f0d1&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -522,6 +522,18 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![15 adventures you can enjoy without leaving your home](https://media.restless.co.uk/uploads/2020/08/12_adventures_you_can_enjoy_without_leaving_your_home_hero-e1709129300389-768x366.jpg)](https://restless.co.uk/health/healthy-mind/adventures-you-can-enjoy-without-leaving-your-home/)
+
+### [15 adventures you can enjoy without leaving your home](https://restless.co.uk/health/healthy-mind/adventures-you-can-enjoy-without-leaving-your-home/)
+
+[Read More »](https://restless.co.uk/health/healthy-mind/adventures-you-can-enjoy-without-leaving-your-home/)
+
+[![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
+
+### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
+
+[Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
+
 [![12 idyllic beach destinations in Southern Europe](https://media.restless.co.uk/uploads/2023/08/idyllic-beach-destinations-in-southern-europe-768x512.jpg)](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
 
 ### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
@@ -546,20 +558,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/best-places-to-cruise-month-by-month/)
 
-[![Why cruise the Mediterranean? Discover hidden gems and sun-soaked shores](https://media.restless.co.uk/uploads/2024/07/cruising-the-mediterranean-768x512.jpg)](https://restless.co.uk/travel/why-cruise-the-mediterranean-discover-hidden-gems-and-sun-soaked-shores/)
-
-### [Why cruise the Mediterranean? Discover hidden gems and sun-soaked shores](https://restless.co.uk/travel/why-cruise-the-mediterranean-discover-hidden-gems-and-sun-soaked-shores/)
-
-[Read More »](https://restless.co.uk/travel/why-cruise-the-mediterranean-discover-hidden-gems-and-sun-soaked-shores/)
-
-[![14 spectacular countries to add to your travel wish list](https://media.restless.co.uk/uploads/2022/12/spectacular-countries-to-add-to-your-travel-wish-list-768x511.jpg)](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
-
-### [14 spectacular countries to add to your travel wish list](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
-
-[Read More »](https://restless.co.uk/travel/spectacular-countries-to-add-to-your-travel-wish-list/)
-
 Popular travel guides
 ---------------------
+
+[![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
+
+### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
+
+[Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [![10 amazing countries you can get to in under four hours](https://media.restless.co.uk/uploads/2023/10/amazing-countries-you-can-get-to-in-under-four-hours-768x512.jpg)](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
 
@@ -626,12 +632,6 @@ Popular travel guides
 ### [12 things to do and places to visit in February in the UK](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-[![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [![14 of the best travel destinations to visit in April](https://media.restless.co.uk/uploads/2023/11/the-best-travel-destinations-to-visit-in-april-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
 
