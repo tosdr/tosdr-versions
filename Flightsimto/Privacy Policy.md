@@ -40,6 +40,10 @@
     
     A comprehensive list of new uploads
     
+    [Recent Updates](https://flightsim.to/recent-updates)
+    
+    Most recent updated add-ons
+    
     [Trending right now](https://flightsim.to/trending-right-now)
     
     Trending add-ons of the day
@@ -47,10 +51,6 @@
     [Trending Updates](https://flightsim.to/trending-updates)
     
     Most popular updates of the day
-    
-    [Recent Updates](https://flightsim.to/recent-updates)
-    
-    Most recent updated add-ons
     
     [Most Downloaded](https://flightsim.to/featured/downloads/today)
     
