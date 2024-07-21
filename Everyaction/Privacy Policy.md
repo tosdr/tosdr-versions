@@ -567,32 +567,31 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![Two masked frontline workers pose together, knowing they are supported by Bonterra Program management.](/sites/default/files/styles/card_image_short/public/2023-06/program-management-roadmap_feature.jpg?h=9dd951d5&itok=fXeKOvrr)
+* ![Two nonprofit professionals look at a monitor while one types on a keyboard to develop a strategy to implement subscription giving.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1349494654.jpg?h=3fa75cc7&itok=22yMbpnX)
     
-    ### [How Bonterra Program Management invests in frontline workers](https://www.everyaction.com/blog/program-management-roadmap)
+    ### [Subscription giving: A new era of fundraising is here](https://www.everyaction.com/blog/subscription-giving-fundraising)
+    
+    * Digital communications & marketing
+    * Fundraising ideas
+    * Nonprofits
+    * Donor Engagement
+    
+* ![Two teachers working on a laptop discuss implementing their new student data management system.](/sites/default/files/styles/card_image_short/public/2023-05/student-data-management_feature.jpg?h=b2774bcf&itok=PezSKBK0)
+    
+    ### [Tips for implementing a new student data management system](https://www.everyaction.com/blog/student-data-management)
     
     * Coordinating social services
-    * Nonprofits
-    * Public agencies
-    * Program Management
+    * Educational institutions
+    * Case Management
+    * Education
     
-* ![Two nonprofit professionals sit at a table with a laptop, paper, and a pen to prepare their website for the year-end giving season.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1215413960.jpg?h=9f5479df&itok=O2mSJEmT)
+* ![A nonprofit volunteer listens to a constituent's story.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1092113002.jpg?h=119335f7&itok=sEG-g4es)
     
-    ### [How to prepare your website for the year-end giving season](https://www.everyaction.com/blog/preparing-your-website-for-year-end-giving)
-    
-    * Digital communications & marketing
-    * Fundraising ideas
-    * Nonprofits
-    * Donor Engagement
-    
-* ![Two women sit together at a desk, looking at a few papers and nonprofit websites that promote planned giving on a laptop.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1363140233.jpg?h=2992ba0a&itok=t_RQEi-k)
-    
-    ### [5 ways your nonprofit website can promote planned giving](https://www.everyaction.com/blog/planned-giving-websites)
+    ### [Share supporter stories with our Story Collection tool](https://www.everyaction.com/blog/story-collection-tool)
     
     * Digital communications & marketing
-    * Fundraising ideas
     * Nonprofits
-    * Donor Engagement
+    * Fundraising
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
