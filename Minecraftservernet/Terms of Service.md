@@ -29,17 +29,15 @@ Version All 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.19.3 1.
 
 Active Servers
 
-[![StormyLagoon](plugins/MineCraft/icons/25x25xStormyLagoon_1705294327.png.pagespeed.ic.5kMdctX_te.png)
+[![Hytitude_Network](plugins/MineCraft/icons/25x25xHytitude_Network_1721334884.png.pagespeed.ic.LfLWooJJUc.png)
 
-Stormy Lagoon - Crossplay 1.20.4](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.20.4")[![StinkyEnderwear](plugins/MineCraft/icons/25x25xStinkyEnderwear_1721291882.png.pagespeed.ic.mMvAXsSLtN.png)
+Hytitude](https://minecraft-server.net/details/Hytitude_Network/ "Hytitude") [The best Lifesteal and economy server!!!](https://minecraft-server.net/details/RULERMC/ "The best Lifesteal and economy server!!!")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1710773881.png.pagespeed.ic.GN-yKvGqoG.png)
 
-Island PVP \[Survival & Raiding\]](https://minecraft-server.net/details/StinkyEnderwear/ "Island PVP [Survival & Raiding]")[![chillzonesmp](plugins/MineCraft/icons/25x25xchillzonesmp_1720845017.png.pagespeed.ic.cfh9_HKrci.png)
+Fermium MC (Custom ores & more)](https://minecraft-server.net/details/A2rath/ "Fermium MC (Custom ores & more)")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1721589239.png.pagespeed.ic.Cd50vz760y.jpg)
 
-ChillZone SMP {Whitelisted}](https://minecraft-server.net/details/chillzonesmp/ "ChillZone SMP {Whitelisted}")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1718343705.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1721389087.png.pagespeed.ce.4K26pX4nDP.png)
-
-feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07935 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07032 - Created by [Debaucus](https://debauc.us/)
