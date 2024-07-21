@@ -171,15 +171,19 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Big cleanup and smaller repo](https://f-droid.org/en/2024/07/18/twif.html) Jul 18, 2024
 * [Maps, emulators, croissants and changed keys](https://f-droid.org/en/2024/07/11/twif.html) Jul 11, 2024
 * [Soon to be modern](https://f-droid.org/en/2024/07/04/twif.html) Jul 04, 2024
 * [225K downloads/week? Those are rookie numbers, lets update Termux!](https://f-droid.org/en/2024/06/27/twif.html) Jun 27, 2024
 * [Additional repos shaping the UI](https://f-droid.org/en/2024/06/20/twif.html) Jun 20, 2024
-* [One twenty for everyone](https://f-droid.org/en/2024/06/13/twif.html) Jun 13, 2024
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/threads.thor/en-US/icon_h529wR-N5X9khCqHqY3bSG-AQel7uSZNzBmL9YUQ0ws=.png)
+[![](https://f-droid.org/repo/ua.syt0r.kanji.fdroid/en-US/icon_WOSc49VcLgMELOmUR06ULIlzfKwH2sOslgW-JZ7UgoI=.png)
+
+#### Kanji Dojo
+
+Learn & practice writing Japanese characters](https://f-droid.org/en/packages/ua.syt0r.kanji.fdroid/)[![](https://f-droid.org/repo/threads.thor/en-US/icon_h529wR-N5X9khCqHqY3bSG-AQel7uSZNzBmL9YUQ0ws=.png)
 
 #### Thor
 
@@ -187,26 +191,22 @@ Web browser which supports magnet and pns URLs](https://f-droid.org/en/packages/
 
 #### Odin
 
-IPFS Lite node with modern UI to support standard use cases of IPFS](https://f-droid.org/en/packages/threads.server/)[![](https://f-droid.org/repo/org.tasks/en-US/icon_YftLJ2dGZxgevP1f0n9c9X9HZKYmyz06c370Udel8Tk=.png)
+IPFS Lite node with modern UI to support standard use cases of IPFS](https://f-droid.org/en/packages/threads.server/)
 
-#### Tasks.org: Open-source To-Do Lists & Reminders
+### Neuvorstellungen
 
-Private, ad-free task lists! Optional sync with Google Tasks, CalDAV or EteSync!](https://f-droid.org/en/packages/org.tasks/)
+[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
 
-### Latest Apps
+#### Podcini
 
-[![](https://f-droid.org/repo/biz.binarysolutions.vatcalculator/en-US/icon_xyjzZE2Jy1XClHRJpRPCjye4q9GrRlWyIYfDma_Aa3g=.png)
-
-#### VAT Calculator
-
-Calculate VAT for any country in the world](https://f-droid.org/en/packages/biz.binarysolutions.vatcalculator/)[![](https://f-droid.org/repo/au.id.colby.nfcquicksettings/en-US/icon_lMRh5fIIoraGsZf5gdSlzULKKRCT1KY6Asiv775TqGI=.png)
-
-#### NFC Quick Settings
-
-View NFC status, and quickly access NFC settings, from the Quick Settings menu](https://f-droid.org/en/packages/au.id.colby.nfcquicksettings/)[![](https://f-droid.org/repo/org.sbv.pockettracker/en-US/icon_XYqZ3C0KEzJ1La7ydXCCZrTdZl9HmgMbnHFk2uDOacg=.png)
+Einfach zu benutzender und anpassbarer Open-Source Podcast-Manager](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/org.sbv.pockettracker/en-US/icon_XYqZ3C0KEzJ1La7ydXCCZrTdZl9HmgMbnHFk2uDOacg=.png)
 
 #### PocketTRacker
 
-An app to reliably track the scores of your straight pool games](https://f-droid.org/en/packages/org.sbv.pockettracker/)
+Eine App die verlässlich deine Pool 14/1e Spielstände erfasst](https://f-droid.org/en/packages/org.sbv.pockettracker/)[![](https://f-droid.org/repo/net.casimirlab.frigoligo/en-US/icon_DEQmJEA6LavFrqcTizXRZUTmzGSsijpQ_EZey1v7E_w=.png)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-07-11, fdroid-website [2.241](https://gitlab.com/fdroid/fdroid-website/tree/149b692699)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+#### Frigoligo
+
+Ihre Artikel bei Ihnen](https://f-droid.org/en/packages/net.casimirlab.frigoligo/)
+
+© 2010-2024 F-Droid Contributors (F-Droid 2024-07-20, fdroid-website [2.243](https://gitlab.com/fdroid/fdroid-website/tree/2099c1006e)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
