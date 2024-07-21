@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/JH339251-suspects-326x245.jpg)](https://cwbchicago.com/2024/07/16-year-old-charged-with-attacking-robbing-man-on-cta-train-at-least-7-more-suspects-at-large.html "16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large")
+![](https://cwbchicago.com/wp-content/uploads/2022/05/Demarlin-Brewer-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/07/30-years-for-man-who-raped-robbed-woman-in-old-town.html "30 years for man who raped, robbed woman in Old Town")
 
-CTA
+Old Town
 
-### [16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large](https://cwbchicago.com/2024/07/16-year-old-charged-with-attacking-robbing-man-on-cta-train-at-least-7-more-suspects-at-large.html "16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large")
+### [30 years for man who raped, robbed woman in Old Town](https://cwbchicago.com/2024/07/30-years-for-man-who-raped-robbed-woman-in-old-town.html "30 years for man who raped, robbed woman in Old Town")
 
-[July 16, 2024 3:17 PM](https://cwbchicago.com/2024/07)
+[July 18, 2024 5:25 AM](https://cwbchicago.com/2024/07)
 
-Police have arrested a 16-year-old boy in connection with the violent attack and robbery of a 63-year-old man on the Orange Line last week. At least seven more attackers remain on the loose.[](https://cwbchicago.com/2024/07/16-year-old-charged-with-attacking-robbing-man-on-cta-train-at-least-7-more-suspects-at-large.html "16-year-old charged with attacking, robbing man on CTA train; at least 7 more suspects at large")
+A man was sentenced on Wednesday to 30 years in prison for raping and robbing a woman after following her off of a CTA bus in Old Town.[](https://cwbchicago.com/2024/07/30-years-for-man-who-raped-robbed-woman-in-old-town.html "30 years for man who raped, robbed woman in Old Town")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2023/10/Generic-0-edited-326x245.jpg)](https://cwbchicago.com/2024/07/woman-shot-in-albany-park-last-week-has-died-officials-say.html "Woman shot in Albany Park last week has died, officials say")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/3300-block-west-lawrence-sv-326x245.jpg)](https://cwbchicago.com/2024/07/man-found-fatally-shot-on-albany-park-sidewalk.html "Man found fatally shot on Albany Park sidewalk")
 
 Albany Park
 
-### [Woman shot in Albany Park last week has died, officials say](https://cwbchicago.com/2024/07/woman-shot-in-albany-park-last-week-has-died-officials-say.html "Woman shot in Albany Park last week has died, officials say")
+### [Man found fatally shot on Albany Park sidewalk](https://cwbchicago.com/2024/07/man-found-fatally-shot-on-albany-park-sidewalk.html "Man found fatally shot on Albany Park sidewalk")
 
-[July 16, 2024 2:46 PM](https://cwbchicago.com/2024/07)
+[July 17, 2024 7:50 PM](https://cwbchicago.com/2024/07)
 
-A 21-year-old woman who was shot in Albany Park last week has died.[](https://cwbchicago.com/2024/07/woman-shot-in-albany-park-last-week-has-died-officials-say.html "Woman shot in Albany Park last week has died, officials say")
+A man found unresponsive on a sidewalk in Albany Park early Tuesday was shot to death, officials say.[](https://cwbchicago.com/2024/07/man-found-fatally-shot-on-albany-park-sidewalk.html "Man found fatally shot on Albany Park sidewalk")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/04/Virgil-Gibson-326x245.jpg)](https://cwbchicago.com/2024/07/feds-charge-chicago-rapper-pfg-nuk-with-violent-carjackings-kidnapping-machine-gun-possession.html "Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/Dakuras-and-video-images-326x245.jpg)](https://cwbchicago.com/2024/07/cpd-supervisor-stripped-after-tavern-altercation-goes-viral.html "CPD supervisor stripped after tavern altercation goes viral")
 
 Citywide
 
-### [Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession](https://cwbchicago.com/2024/07/feds-charge-chicago-rapper-pfg-nuk-with-violent-carjackings-kidnapping-machine-gun-possession.html "Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession")
+### [CPD supervisor stripped after tavern altercation goes viral](https://cwbchicago.com/2024/07/cpd-supervisor-stripped-after-tavern-altercation-goes-viral.html "CPD supervisor stripped after tavern altercation goes viral")
 
-[July 16, 2024 2:24 PM](https://cwbchicago.com/2024/07)
+[July 17, 2024 11:30 AM](https://cwbchicago.com/2024/07)
 
-Federal prosecutors on Tuesday charged Chicago rapper PGF Nuk with committing two violent carjackings earlier this year. CWBChicago first told you about the allegations against Virgil Gibson, 22, after state prosecutors filed charges against him in April.[](https://cwbchicago.com/2024/07/feds-charge-chicago-rapper-pfg-nuk-with-violent-carjackings-kidnapping-machine-gun-possession.html "Feds charge Chicago rapper PFG Nuk with violent carjackings, kidnapping, machine gun possession")
+A veteran Chicago police supervisor has been relieved of his police powers while officials investigate allegations of off-duty misconduct.[](https://cwbchicago.com/2024/07/cpd-supervisor-stripped-after-tavern-altercation-goes-viral.html "CPD supervisor stripped after tavern altercation goes viral")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Phone
+Comment
 
 Submit
 
