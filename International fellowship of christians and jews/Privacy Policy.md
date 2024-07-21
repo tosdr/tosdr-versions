@@ -358,7 +358,7 @@ Who We Are
 * [Ratings and Reviews](https://www.ifcj.org/who-we-are/ratings-and-reviews)
 * [Financial Accountability](https://www.ifcj.org/who-we-are/financial-accountability)
 * [Careers](https://www.ifcj.org/who-we-are/careers)
-* [FAQ's](https://www.ifcj.org/who-we-are/faq)
+* [FAQ](https://www.ifcj.org/who-we-are/faq)
 * [Contact Us](https://www.ifcj.org/who-we-are/contact-us)
 
 Who We Help
