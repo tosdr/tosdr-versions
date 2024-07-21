@@ -367,121 +367,65 @@ Les commentaires ont été désactivés.
 
 filtrer : tous les sports
 
-[18:30
+[17:44
 
-L'Equipe explore,
+F1,
 
-Série vidéo
+GP de Hongrie
 
-Affaire Festina : séisme sur le Tour 1998](https://www.lequipe.fr/explore/video/tourbillons-ep-4-la-bombe-festina/20193100 "Affaire Festina : séisme sur le Tour 1998")
+Piastri : «Le jour dont j'ai rêvé enfant»](https://www.lequipe.fr/Formule-1/Actualites/Oscar-piastri-apres-sa-victoire-en-hongrie-le-jour-dont-j-ai-reve-quand-j-etais-enfant/1484080 "Piastri : «Le jour dont j'ai rêvé enfant»")
 
-[18:24
-
-Athlé,
-
-Championnats de France U23
-
-Erius en 9"98 sur 100 m](https://www.lequipe.fr/Athletisme/Actualites/Jeff-erius-reussit-un-temps-canon-de-9-98-sur-100-m-aux-championnats-de-france-u23/1483681 "Erius en 9"98 sur 100 m")
-
-[18:18
-
-Tour de France
-
-Démare hors délai sur la 19e étape](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Arnaud-demare-hors-delai-sur-la-19e-etape-du-tour-de-france/1483679 "Démare hors délai sur la 19e étape")
-
-[18:18
-
-Tour de France
-
-Pogacar : «Je me suis dit que Visma nous préparait quelque chose»](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Tadej-pogacar-apres-sa-victoire-sur-la-19e-etape-je-me-suis-dit-que-visma-nous-preparait-quelque-chose/1483678 "Pogacar : «Je me suis dit que Visma nous préparait quelque chose»")
-
-[18:15
-
-Moto,
-
-8 Heures de Suzuka
-
-Zarco rêve d'une victoire de prestige](https://www.lequipe.fr/Endurance/Article/-j-aime-le-challenge-au-coeur-d-une-saison-decevante-en-motogp-zarco-reve-de-victoire-aux-huit-heures-de-suzuka/1483676 "Zarco rêve d'une victoire de prestige")
-
-[18:05
-
-Foot,
-
-Italie
-
-Cesc Fabregas entraîneur de Côme](https://www.lequipe.fr/Football/Actualites/Mercato-cesc-fabregas-prend-les-renes-de-come/1483672 "Cesc Fabregas entraîneur de Côme")
-
-[18:05
-
-Rallye,
-
-WRC,
-
-Lettonie
-
-Rovanperä creuse l'écart, Sesks résiste à Ogier](https://www.lequipe.fr/Rallye/Actualites/Kalle-rovanpera-creuse-l-ecart-en-tete-du-rallye-de-lettonie-sesks-resiste-a-ogier/1483670 "Rovanperä creuse l'écart, Sesks résiste à Ogier")
-
-[18:00
+[17:30
 
 JO 2024,
 
-Podcast
+Guide
 
-«Médaillables», votre rendez-vous quotidien pendant les Jeux](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/-medaillables-votre-podcast-quotidien-pendant-les-jo-de-paris-2024/1483370 "«Médaillables», votre rendez-vous quotidien pendant les Jeux")
+Baptiste Addis, le petit prodige du tir à l'arc](https://www.lequipe.fr/Tir-a-l-arc/Fiche-guide/Athlete/Baptiste-addis/249 "Baptiste Addis, le petit prodige du tir à l'arc")
 
-[17:52
-
-Tennis,
-
-ATP,
-
-Bastad
-
-Nadal en demi-finales après 4 heures de combat](https://www.lequipe.fr/Tennis/Actualites/Rafael-nadal-en-demi-finales-a-bastad-apres-un-combat-de-quatre-heures/1483664 "Nadal en demi-finales après 4 heures de combat")
-
-[17:40
-
-JO 2024
-
-Emmanuel Macron se baignera bien dans la Seine](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/Emmanuel-macron-va-se-baigner-dans-la-seine-mais-pas-forcement-avant-les-jo-2024/1483660 "Emmanuel Macron se baignera bien dans la Seine")
-
-[17:34
-
-Foot,
-
-Espagne
-
-L'UEFA ouvre une enquête après le chant sur Gibraltar](https://www.lequipe.fr/Football/Actualites/L-uefa-ouvre-une-enquete-apres-le-chant-des-espagnols-assurant-que-gibraltar-est-espagnol/1483658 "L'UEFA ouvre une enquête après le chant sur Gibraltar")
-
-[17:20
-
-Foot,
-
-Transferts
-
-Stuttgart veut Kalimuendo (Rennes)](https://www.lequipe.fr/Football/Actualites/Mercato-stuttgart-veut-kalimuendo-rennes/1483656 "Stuttgart veut Kalimuendo (Rennes)")
-
-[17:11
+[17:26
 
 Tour de France
 
-Le classement de la 19e étape](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-classement-de-la-19e-etape-du-tour-de-france-remportee-par-tadej-pogacar/1483652 "Le classement de la 19e étape")
+Girmay : «J'ai grandi avec les images du Tour»](https://www.lequipe.fr/Cyclisme-sur-route/Article/Biniam-girmay-maillot-vert-et-vainqueur-de-trois-etapes-je-me-reveille-chaque-matin-en-me-disant-que-je-suis-le-meilleur/1483902 "Girmay : «J'ai grandi avec les images du Tour»")
 
-[17:07
+[17:24
 
-Foot,
+F1,
 
-Ligue des nations
+GP de Hongrie
 
-Le match Belgique-Israël se jouera en Hongrie](https://www.lequipe.fr/Football/Actualites/Ligue-des-nations-le-match-belgique-israel-se-tiendra-en-hongrie/1483650 "Le match Belgique-Israël se jouera en Hongrie")
+L'accrochage entre Verstappen et Hamilton en vidéo](https://www.lequipe.fr/Formule-1/Actualites/L-accrochage-entre-max-verstappen-et-lewis-hamilton-au-gp-de-hongrie-en-video/1484070 "L'accrochage entre Verstappen et Hamilton en vidéo")
 
-[17:00
+[17:14
 
-Rugby,
+JO 2024,
 
-Coupe du monde U20
+Beach-volley
 
-Australie - Argentine sur L'Équipe live 2](https://www.lequipe.fr/tv/videos/live/k5TgcOKBUTM2KnqwBWC "Australie - Argentine sur L'Équipe live 2")
+Van de Velde privé de village olympique](https://www.lequipe.fr/Jo-2024-paris/Beach-volley/Actualites/Condamne-pour-viol-sur-mineure-van-de-velde-interdit-de-village-olympique-et-de-contact-avec-les-medias/1484067 "Van de Velde privé de village olympique")
+
+[17:10
+
+Triathlon
+
+L'IRONMAN à Lake Placid sur L'Équipe live 4](https://www.lequipe.fr/tv/videos/live/k6oih7JyuEmhrnqwBZT "L'IRONMAN à Lake Placid sur L'Équipe live 4")
+
+[17:06
+
+JO 2024,
+
+Basket (H),
+
+Prépa
+
+Fournier cherche la flamme](https://www.lequipe.fr/Basket/Article/Maladroit-et-en-manque-de-confiance-evan-fournier-cherche-la-flamme-avant-les-jeux-olympiques/1483881 "Fournier cherche la flamme")
+
+[17:02
+
+Tour de France
+
+Cavendish signe ses adieux... en finissant lanterne rouge](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mark-cavendish-signe-ses-adieux-au-tour-de-france-en-finissant-lanterne-rouge/1484064 "Cavendish signe ses adieux... en finissant lanterne rouge")
 
 [17:00
 
@@ -491,39 +435,97 @@ spécial L'Équipe
 
 Typhaine Soldé : un modèle d'éducation](https://www.lequipe.fr/Tous-sports/Actualites/Typhaine-solde-un-modele-d-education/1482738 "Typhaine Soldé : un modèle d'éducation")
 
-[17:00
+[16:57
 
-Le Magazine,
+JO 2024,
 
-JO 2024
+Bleues
 
-Ils ont égaré leurs médailles olympiques](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Article/Ces-athletes-qui-ont-egare-leurs-medailles-olympiques/1483205 "Ils ont égaré leurs médailles olympiques")
+Public, es-tu là ?](https://www.lequipe.fr/Football/Article/Apres-avoir-boude-les-bleues-le-public-francais-sera-t-il-au-rendez-vous-du-tournoi-olympique/1483917 "Public, es-tu là ?")
 
-[16:49
+[16:55
 
 Foot,
 
 Transferts
 
-Accord OM-Nice pour Clauss](https://www.lequipe.fr/Football/Actualites/Mercato-accord-om-nice-pour-le-transfert-de-jonathan-clauss/1483644 "Accord OM-Nice pour Clauss")
+Bénie Traoré quitte Sheffield Utd pour Bâle](https://www.lequipe.fr/Football/Actualites/Passe-par-nantes-benie-traore-quitte-sheffield-united-pour-bale/1484059 "Bénie Traoré quitte Sheffield Utd pour Bâle")
 
-[16:40
+[16:43
+
+F1,
+
+GP de Hongrie
+
+Doublé pour McLaren, avec Piastri devant Norris](https://www.lequipe.fr/Formule-1/Actualites/Mclaren-signe-un-double-en-hongrie-avec-la-victoire-d-oscar-piastri-devant-lando-norris/1484057 "Doublé pour McLaren, avec Piastri devant Norris")
+
+[16:41
+
+JO 2024,
+
+Rugby à 7
+
+Bain de foule pour les Bleus à Marcoussis](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Article/Les-bleus-retrouvent-marcoussis-avant-le-village-olympique/1483940 "Bain de foule pour les Bleus à Marcoussis")
+
+[16:33
 
 Tour de France
 
-Pogacar écrase la 19e étape à Isola 2000](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/En-demonstration-a-isola-2000-tadej-pogacar-remporte-la-19e-etape-et-se-rapproche-d-un-3e-tour-de-france/1483642 "Pogacar écrase la 19e étape à Isola 2000")
+Girmay remporte le maillot vert de meilleur sprinteur](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Biniam-girmay-remporte-le-maillot-vert-de-meilleur-sprinteur-du-tour-de-france/1484055 "Girmay remporte le maillot vert de meilleur sprinteur")
 
-[16:20
+[16:24
 
-Golf,
+Tour de France
 
-British Open
+Van der Poel sans matériel spécifique pour le chrono final](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mathieu-van-der-poel-s-est-elance-sur-le-contre-la-montre-final-du-tour-de-france-sans-materiel-specifique/1484053 "Van der Poel sans matériel spécifique pour le chrono final")
 
-Pas de miracle pour Tiger Woods](https://www.lequipe.fr/Golf/Actualites/Pas-de-miracle-pour-tiger-woods-au-british-open/1483639 "Pas de miracle pour Tiger Woods")
+[16:05
+
+Foot,
+
+Ligue 1,
+
+Brest
+
+L'effectif paraît léger à un mois de la reprise](https://www.lequipe.fr/Football/Article/A-brest-l-effectif-parait-un-peu-leger-a-un-mois-de-la-reprise-de-la-ligue-1/1483939 "L'effectif paraît léger à un mois de la reprise")
+
+[15:51
+
+Tennis,
+
+ATP,
+
+Bastad
+
+Nadal cale en finale](https://www.lequipe.fr/Tennis/Actualites/Rafael-nadal-battu-par-nuno-borges-en-finale-de-l-open-de-bastad/1484048 "Nadal cale en finale")
+
+[15:44
+
+Tour de France
+
+Matxín, le révélateur de talents d'UAE](https://www.lequipe.fr/Cyclisme-sur-route/Article/-il-voit-l-homme-chez-le-coureur-matxin-directeur-sportif-d-uae-et-revelateur-de-talents/1483977 "Matxín, le révélateur de talents d'UAE")
+
+[15:43
+
+Foot,
+
+Belgique
+
+Salut nazis et cris de singe ont entaché la Supercoupe](https://www.lequipe.fr/Football/Actualites/Salut-nazis-et-cris-de-singe-denonces-lors-de-la-supercoupe-de-belgique/1484045 "Salut nazis et cris de singe ont entaché la Supercoupe")
+
+[15:31
+
+Rugby,
+
+Afrique du Sud,
+
+Dopage
+
+Nkosi contrôlé positif](https://www.lequipe.fr/Rugby/Actualites/Sbu-nkosi-champion-du-monde-en-2019-avec-l-afrique-du-sud-a-ete-controle-positif/1484044 "Nkosi contrôlé positif")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/728/covers/Preview-MEDIUM-35430.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/731/covers/Preview-MEDIUM-35598.jpg?v=4)
 
 lire l'édition
 
