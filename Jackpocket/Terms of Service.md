@@ -1,4 +1,4 @@
-![Jackpocket Logo](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
+[![Jackpocket Logo](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)](https://www.jackpocket.com/)
 
 About
 
@@ -6,7 +6,7 @@ About
 
 [Winners](https://blog.jackpocket.com/featured-winners/)[News](https://blog.jackpocket.com/)[Lottery Results](https://www.jackpocket.com/lottery-results)[Sweepstakes](https://www.jackpocket.com/sweepstakes)
 
-GET THE APP
+[Log In](https://play.jackpocket.com/auth/signin)GET APP
 
 **Jackpocket Terms of Service**
 ===============================
@@ -640,7 +640,7 @@ These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any
 
 © 2024 Jackpocket, Inc.
 
-![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
+[![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)](https://www.jackpocket.com/)
 
 * [Facebook](https://www.facebook.com/jackpocket/)
 * [Instagram](https://www.instagram.com/jackpocket/)
@@ -650,7 +650,7 @@ These Terms of Service, our Privacy Policy, the Prize Sharing Agreement, and any
 * [TikTok](https://www.tiktok.com/@jackpocket)
 
 * Jackpocket
-* [Home](https://jackpocket.com/)
+* [Home](https://www.jackpocket.com/)
 * [About](https://www.jackpocket.com/team)
 * [Support](https://support.jackpocket.com/hc/en-us)
 * [Careers](https://www.jackpocket.com/careers)
