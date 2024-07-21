@@ -129,7 +129,7 @@ Trending Now
     
     Quick view](https://us.dantelabs.com/products/all-panels-package "All Panels Package")
     
-    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~£392.00~ £157.00 /
+    [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~£393.00~ £157.00 /
     
 * [![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351_20x_crop_center.jpg?v=1714589736)
     
