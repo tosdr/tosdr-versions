@@ -364,6 +364,8 @@ About Herbalife
         
     * [​​Understanding GLP-1 Weight-Loss Drugs and How Herbalife Fills the Nutritional Gap​](https://www.herbalife.com/en-us/wellness-resources/articles/understanding-glp-1-weight-loss-drugs-and-how-herbalife-fills-the-nutritional-gap)
         
+    * [Fuel your fitness](https://www.herbalife.com/en-us/wellness-resources/articles/fuel-your-fitness)
+        
 * [Recipes](https://www.herbalife.com/en-us/wellness-resources/recipes)
     
     * [Apricot Mango Smoothie with HERBALIFE V Plant-Based Greens Booster](https://www.herbalife.com/en-us/wellness-resources/recipes/apricot-mango-smoothie-with-herbalide-v-plant-based-greens-booster)
