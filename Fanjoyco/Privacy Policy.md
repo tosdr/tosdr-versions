@@ -30,7 +30,7 @@
 
 Account
 
-* [Log in](https://fanjoy.co/customer_identity/redirect?locale=en)
+* [Log in](https://shopify.com/7141079/account?locale=en)
 * [Create account](https://shopify.com/7141079/account?locale=en)
 
 [![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_1000x1000.png?v=1630032270)
@@ -55,7 +55,7 @@ Account
 
 Search
 
-* [](https://fanjoy.co/customer_identity/redirect?locale=en "Log in")
+* [](https://shopify.com/7141079/account?locale=en "Log in")
 * [0](https://fanjoy.co/cart)
 
 Menu
@@ -64,7 +64,7 @@ Menu
 
 ![Fanjoy](//fanjoy.co/cdn/shop/files/Fanjoy_Logo_v3_Black-use_0a125238-7535-47a2-8b57-75fbca51ad73_150x.png?v=1630032270)](https://fanjoy.co/)
 
-* [](https://fanjoy.co/customer_identity/redirect?locale=en "Log in")
+* [](https://shopify.com/7141079/account?locale=en "Log in")
 [0 Cart](https://fanjoy.co/cart)
 
 Search
@@ -221,12 +221,7 @@ Contact
 
 Please email hello@fanjoy.co with any questions and we'll always be happy to help.
 
-Currency
---------
-
-CAD $ GBP £ USD $
-
-Amazon American Express Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
+PayPal Venmo
 
 * [© 2024, Fanjoy](https://fanjoy.co/)
 * [](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
