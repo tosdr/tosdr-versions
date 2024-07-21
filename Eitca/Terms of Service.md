@@ -353,13 +353,13 @@ Search for:
 
 ### MOST RATED
 
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-MIIT-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-miit-icon.png) EITC/BI/MIIT Management in information technologies](https://eitca.org/certification/eitcbimiit-management-in-information-technologies/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AD-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-ad-icon.png) EITC/CG/AD Web pages design fundamentals (Adobe Dreamweaver)](https://eitca.org/certification/eitccgad-web-pages-design-fundamentals-adobe-dreamweaver/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-IS-ISCF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-is-iscf-icon.png) EITC/IS/ISCF Information security and cryptography fundamentals](https://eitca.org/certification/eitcisiscf-information-security-and-cryptography-fundamentals/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-el-ldash-icon.png) EITC/EL/LDASH LearnDash WordPress LMS](https://eitca.org/certification/eitc-el-ldash-learndash-wordpress-lms/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CN-SCN2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cn-scn2-icon.png) EITC/CN/SCN2 Computer networking 2](https://eitca.org/certification/eitccnscn2-computer-networking-2/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-CAG1-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-cag-icon.png) EITC/CG/CAG Conceptual aspects of graphics](https://eitca.org/certification/eitccgcag-conceptual-aspects-of-graphics/) € 110.00
-*  [![](https://eitca.org/wp-content/uploads/2021/02/EITC-AI-ADL-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/02/eitc-ai-adl-icon.png) EITC/AI/ADL Advanced Deep Learning](https://eitca.org/certification/eitc-ai-adl-advanced-deep-learning/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-BI-MSO13-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-bi-mso13-icon.png) EITC/BI/MSO13 Office software fundamentals (Microsoft Office 2013)](https://eitca.org/certification/eitcbimso13-office-software-fundamentals-microsoft-office-2013/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-INT-IT2-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-int-it2-icon.png) EITC/INT/IT2 Internet technologies 2](https://eitca.org/certification/eitcintit2-internet-technologies-2/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-hcf-300x200.jpg)![](https://eitca.org/wp-content/uploads/2021/03/eitc-wd-hcf-icon.png) EITC/WD/HCF HTML and CSS Fundamentals](https://eitca.org/certification/eitc-wd-hcf-html-and-css-fundamentals/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-TC-CGT-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-tc-cgt-icon.png) EITC/TC/CGT Computer graphics for telework](https://eitca.org/certification/eitctccgt-computer-graphics-for-telework/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-CG-AIDF-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-cg-aidf-icon.png) EITC/CG/AIDF Desktop publishing software (Adobe InDesign)](https://eitca.org/certification/eitccgaidf-desktop-publishing-software-adobe-indesign/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2015/10/EITC-TC-TSSA-300x200.jpg)![](https://eitca.org/wp-content/uploads/2015/10/eitc-tc-tssa-icon.png) EITC/TC/TSSA Telework support systems and applications](https://eitca.org/certification/eitctctssa-telework-support-systems-and-applications/) € 110.00
+*  [![](https://eitca.org/wp-content/uploads/2022/01/EITC-IS-WSA-300x200.jpg)![](https://eitca.org/wp-content/uploads/2022/01/eitc-is-wsa-icon.png) EITC/IS/WSA Windows Server Administration](https://eitca.org/certification/eitc-is-wsa-windows-server-administration/) € 110.00
 
 ### What are you looking for?
 
