@@ -83,7 +83,7 @@
 * * search
     * 
     
-    [Sign In](https://hub.docker.com/login/) [Get started](https://www.docker.com/get-started/)
+    [Sign In](https://app.docker.com/login/) [Get started](https://www.docker.com/get-started/)
 
 * search
 * 
@@ -167,7 +167,7 @@
 * [Docs](https://docs.docker.com/build/cloud/)
 * [Get support](https://www.docker.com/support/)
 * [Contact sales](https://www.docker.com/pricing/contact-sales/)
-* [Sign In](https://hub.docker.com/login/) [Get started](https://www.docker.com/get-started/)
+* [Sign In](https://app.docker.com/login/) [Get started](https://www.docker.com/get-started/)
 
 Trademark Guidelines
 ====================
