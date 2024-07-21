@@ -147,8 +147,6 @@
 * [Help](https://helpdesk.gandi.net/hc/en-us)
 * [Log in](https://admin.gandi.net/?locale=en)
 
-[](https://news.gandi.net/fr/2024/06/deces-de-notre-collegue-stephane-penaceque/ "In Memoriam Stéphane Pénacèque")
-
 * [gandi.net](https://www.gandi.net/en)
 * [Our contracts](https://www.gandi.net/en/contracts/terms-of-service)
 * Privacy Policy
