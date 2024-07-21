@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Surf Nation** | Doc World](https://video.nhpbs.org/video/surf-nation-vqjdnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Trump to accept nomination days after assassination attempt** | PBS News Hour](https://video.nhpbs.org/video/rnc-day-4-wrap-1721337487?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**July 18, 2024** | Amanpour and Company](https://video.nhpbs.org/video/july-17-2024-utiu16?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**City of Contradictions** | A Boston (R)Evolution](https://video.nhpbs.org/video/city-of-contradictions-0mnr1m?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Sea Change: Peril in the Gulf of Maine Preview** | NOVA](https://video.nhpbs.org/video/sea-change-peril-in-the-gulf-of-maine-preview-vu2mly?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Pay Equity** | Citizen Better](https://video.nhpbs.org/video/pay-equity-m8asd4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Public Truth** | Betrayal](https://video.nhpbs.org/video/the-public-truth-dgabc8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**After serving time, this cook now serves the night owls of Anchorage INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/after-serving-time-this-cook-now-serves-the-night-owls-of-anchorage-indie-alaska-8ux1eo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**A Female Perspective** | Grantchester](https://video.nhpbs.org/video/a-female-perspective-h2fh4k?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**More migrants attempt risky Pacific Ocean route to the U.S.** | PBS News Hour](https://video.nhpbs.org/video/on-the-border-1721506702?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2024 Honda Ridgeline TrailSport & 2024 Mercedes-AMG CLA 35** | MotorWeek](https://video.nhpbs.org/video/2024-honda-ridgeline-trailsport-2024-mercedes-amg-cla-35-aikj1n?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"Goodnight Thoughts" by Max Greenfield** | PBS Books](https://video.nhpbs.org/video/goodnight-thoughts-by-max-greenfield-u6p3do?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Mike Murphy** | Firing Line](https://video.nhpbs.org/video/mike-murphy-emoqiq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump delivers regular rhetoric after GOP pledged unity** | Washington Week with The Atlantic](https://video.nhpbs.org/video/rnc-hp4rks?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**July 19, 2024** | Amanpour and Company](https://video.nhpbs.org/video/july-19-2024-e4pzhp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Republican National Convention; Biden Called to Drop Out** | To The Contrary](https://video.nhpbs.org/video/republican-national-convention-biden-called-to-drop-out-koxcal?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Surf Nation In Sport and Life, the Pressure and Motivation** | Doc World](https://video.nhpbs.org/video/doc-world-surf-nation-sport-and-life-pressure-and-motivation?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Earth's History Is Hidden in These Strange Maps** | Overview](https://video.nhpbs.org/video/earths-history-is-hidden-in-these-strange-maps-1hesiq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
