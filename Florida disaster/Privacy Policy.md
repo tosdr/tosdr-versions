@@ -19,6 +19,7 @@ Search
  [![State Emergency Response Team](/Content/images/SERT.png)](#)![close menu](/Content/images/icon-close.png)
 
 * [About the Division](https://www.floridadisaster.org/dem/)
+    * [About the Division](https://www.floridadisaster.org/dem/about-the-division/)
     * [Director's Office](https://www.floridadisaster.org/dem/directors-office/)
         * [Meet The Director](https://www.floridadisaster.org/dem/directors-office/FDEMdirector/)
         * [Media](https://www.floridadisaster.org/dem/directors-office/media/)
@@ -33,6 +34,11 @@ Search
         * [Work Opportunities at the Division of Emergency Management](https://www.floridadisaster.org/dem/directors-office/current-job-openings/)
         * [Internships](https://www.floridadisaster.org/dem/directors-office/interns/)
             * [Internship FAQs](https://www.floridadisaster.org/dem/directors-office/interns/faqs/)
+    * [Financial Management](https://www.floridadisaster.org/dem/finance/)
+        * [Budget](https://www.floridadisaster.org/dem/finance/budget/)
+        * [Disbursement](https://www.floridadisaster.org/dem/finance/disbursement/)
+        * [Financial Grants Management](https://www.floridadisaster.org/dem/finance/financial-grants-management/)
+        * [Fiscal Operations](https://www.floridadisaster.org/dem/finance/fiscal-operations/)
     * [Information Technology and Management](https://www.floridadisaster.org/dem/ITM/)
         * [Telecommunications Unit](https://www.floridadisaster.org/dem/ITM/telecommunications-unit/)
         * [Geographic Information Systems](https://www.floridadisaster.org/dem/ITM/geographic-information-systems/)
@@ -56,11 +62,6 @@ Search
         * [Watershed Planning Initiative](https://www.floridadisaster.org/dem/mitigation/watershed-planning-initiative/)
         * [STORM Revolving Loan Fund](https://www.floridadisaster.org/dem/mitigation/safeguarding-tomorrow-through-ongoing-risk-mitigation-storm-revolving-loan-fund/)
         * [Swift Current](https://www.floridadisaster.org/dem/mitigation/swift-current/)
-    * [Financial Management](https://www.floridadisaster.org/dem/finance/)
-        * [Budget](https://www.floridadisaster.org/dem/finance/budget/)
-        * [Disbursement](https://www.floridadisaster.org/dem/finance/disbursement/)
-        * [Financial Grants Management](https://www.floridadisaster.org/dem/finance/financial-grants-management/)
-        * [Fiscal Operations](https://www.floridadisaster.org/dem/finance/fiscal-operations/)
     * [Procurement](https://www.floridadisaster.org/dem/procurement-and-contract-management/)
         * [How to Do Business With the State](https://www.floridadisaster.org/dem/procurement-and-contract-management/how-to-do-business-with-the-state/)
     * [Preparedness](https://www.floridadisaster.org/dem/preparedness/)
@@ -91,6 +92,7 @@ Search
         * [Logistics](https://www.floridadisaster.org/dem/response/logistics/)
         * [Operations](https://www.floridadisaster.org/dem/response/operations/)
             * [State Watch Office](https://www.floridadisaster.org/dem/response/operations/state-watch-office/)
+        * [Regional Response Coordinators](https://www.floridadisaster.org/dem/response/regional-response-coordinators/)
         * [Technological Hazards](https://www.floridadisaster.org/dem/response/technological-hazards/)
             * [State Emergency Response Commission](https://www.floridadisaster.org/dem/response/technological-hazards/serc/)
                 * [Local Emergency Planning Committees](https://www.floridadisaster.org/dem/response/technological-hazards/serc/lepc/)
@@ -102,7 +104,7 @@ Search
                 * [Information for Ingestion Pathway](https://www.floridadisaster.org/dem/response/technological-hazards/rep/information-for-the-ingestion-pathway/)
                 * [Nuclear Power Plants Emergency Classification Levels](https://www.floridadisaster.org/dem/response/technological-hazards/rep/nuclear-power-plants-emergency-classification-levels/)
                 * [testpage02](https://www.floridadisaster.org/dem/response/technological-hazards/rep/testpage02/)
-    * [About the Division](https://www.floridadisaster.org/dem/about-the-division/)
+    * [SERT](https://www.floridadisaster.org/dem/sert/)
     * [Library](https://www.floridadisaster.org/dem/library/)
         * [Mitigation Publications](https://www.floridadisaster.org/dem/library/publications-and-guides/)
             * [State Mitigation Strategy](https://www.floridadisaster.org/dem/library/publications-and-guides/state-mitigation-strategy/)
@@ -118,6 +120,7 @@ Search
         * [Sponsorship Opportunities](https://www.floridadisaster.org/events/floridas-training-for-emergency-management-ftem/sponsorship-opportunities/)
     * [2023 Local News & Meteorology Communications Summit](https://www.floridadisaster.org/events/summit/)
     * [2024 Local News & Meteorology Summit](https://www.floridadisaster.org/events/2024-local-news--meteorology-summit/)
+    * [Human Services Summit 2024](https://www.floridadisaster.org/events/human-services-summit-2024/)
 * [Plan & Prepare](https://www.floridadisaster.org/planprepare/)
     * [Florida Hurricane Guide](https://www.floridadisaster.org/planprepare/florida-hurricane-guide/)
     * [Preparing for the Hurricane Season](https://www.floridadisaster.org/planprepare/preparing-for-hurricane-season/)
@@ -202,9 +205,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, July 18, 2024**
+**Saturday, July 20, 2024**
 
-**...Scattered Showers and Thunderstorms Along the Florida Panhandle This Morning To Move Eastward and Become More Numerous Later Today As An Approaching Frontal Boundary and Abundant Moisture Interact With Sea Breeze Activity...Scattered Showers and Thunderstorms Across the Peninsula With the Sea Breezes This Afternoon and Evening...Locally Strong to Severe Thunderstorms Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Cannot Be Ruled Out...Heavy Downpours and Slow-Moving Or Training Showers and Thunderstorms May Give Way to Instances of Localized Flooding; Marginal Risk For Flash Flooding Along the Florida Panhandle...Heat Indices In the Upper 90s And Triple Digits Statewide Today...Heat Advisories Issued For the Southeastern Peninsula...Moderate Risk For Rip Currents Along Panhandle and East Coast...Showers and Thunderstorms to Dissipate Nearly Statewide Overnight But Persist Along the Panhandle...**
+**...Scattered Showers and Thunderstorms Along the Florida Panhandle and Coastal Gulf Waters This Morning To Move Inland and Become More Numerous and Widespred This Afternoon With the Sea Breezes...Scattered to Numerous Showers and Thunderstorms Across the Peninsula With the Sea Breezes This Afternoon and Evening...Locally Strong to Severe Thunderstorms Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Possible; Marginal Risk For Severe Weather Along Northeastern Peninsula...Heavy Downpours and Slow-Moving or Training Showers and Thunderstorms May Give Way to Instances of Localized Flooding; Marginal Risk For Flash Flooding Along the Florida Panhandle and Northeastern Peninsula...Heat Indices In the Upper 90s And Triple Digits...Heat Advisories Issued For Southern Peninsula And the Keys...Moderate Risk For Rip Currents Along Panhandle and East Coast...Showers and Thunderstorms to Persist Along Coastlines, The Florida Panhandle, and The Northeastern and Central Peninsula Overnight...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
