@@ -1,4 +1,4 @@
-[![](/static/logos/fastquicksearch.com.svg)](https://www.fastquicksearch.com/?ueid=268BFF61-50C2-4590-AAEC-B720D65AA6F3&ad=dirN "https://www.fastquicksearch.com/?ueid=268BFF61-50C2-4590-AAEC-B720D65AA6F3&ad=dirN")
+[![](/static/logos/fastquicksearch.com.svg)](https://www.fastquicksearch.com/?ueid=18411FFA-B82F-41A8-8145-1792D27AC658&ad=dirN "https://www.fastquicksearch.com/?ueid=18411FFA-B82F-41A8-8145-1792D27AC658&ad=dirN")
 
 Ask Media Group, LLC Terms of Service
 
@@ -276,9 +276,9 @@ Oakland, CA 94612
 
 If you have any questions or concerns with respect to these Terms of Service or Sites and Services, please contact us [here](https://help.askmediagroup.com/hc/en-us).
 
-* [Privacy Policy](https://www.fastquicksearch.com/privacy?ueid=268BFF61-50C2-4590-AAEC-B720D65AA6F3&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.fastquicksearch.com/terms?ueid=268BFF61-50C2-4590-AAEC-B720D65AA6F3&ad=dirN "Terms of Service")
-* [About us](https://www.fastquicksearch.com/about?ueid=268BFF61-50C2-4590-AAEC-B720D65AA6F3&ad=dirN "About us")
+* [Privacy Policy](https://www.fastquicksearch.com/privacy?ueid=18411FFA-B82F-41A8-8145-1792D27AC658&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.fastquicksearch.com/terms?ueid=18411FFA-B82F-41A8-8145-1792D27AC658&ad=dirN "Terms of Service")
+* [About us](https://www.fastquicksearch.com/about?ueid=18411FFA-B82F-41A8-8145-1792D27AC658&ad=dirN "About us")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * Manage Privacy
 * © 2024 Ask Media Group, LLC
