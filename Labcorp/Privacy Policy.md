@@ -5,12 +5,11 @@ Alert Banner
 
 Alert:
 
-Labcorp Message (as of July 19 at 11 a.m. ET):
+Labcorp Message (as of July 21, 11:00 a.m. ET) 
 
-* Labcorp systems are currently impacted by the CrowdStrike issues affecting companies globally.
-* This event impacts certain Labcorp business systems, including results delivery to physicians and patients.
-* Currently, this is not considered to be a cyber event and is due to a CrowdStrike software update.
-* We are working to restore full services as soon as possible.
+* All Labcorp core systems impacted by the CrowdStrike issues are currently back online. 
+* We thank you for your patience. 
+* Please continue to check this site for additional updates.
 
 Dismiss
 
