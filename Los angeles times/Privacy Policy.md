@@ -198,10 +198,6 @@ Show Search
 
  Search Query Submit Search
 
-Breaking News
-
-[Global tech outage strands passengers at LAX, other airports; hospitals also hit](https://www.latimes.com/california/story/2024-07-19/microsoft-outage-global-impacts)
-
 Privacy Policy
 ==============
 
