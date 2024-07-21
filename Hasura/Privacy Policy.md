@@ -1,4 +1,4 @@
-[Join us for a special Community Call on 7/25. We unveil DDN Advanced! Register now](https://hasura.io/events/community-call/2024/may)
+[Join us for a special Community Call on 7/25. We unveil DDN Advanced! Register now](https://hasura.io/events/community-call/latest)
 
 [![](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
