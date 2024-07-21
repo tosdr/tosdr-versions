@@ -89,7 +89,7 @@ Packs con Internet
 
 Televisión
 
-* [Paquetes Movistar TV](https://www.movistar.es/tv/ "Paquetes Movistar TV")
+* [Movistar Plus](https://www.movistar.es/tv/movistar-plus/ "Movistar Plus")
 * [Contratar fútbol](https://www.movistar.es/tv/futbol/ "Contratar fútbol")
 * [Oferta con Dazn](https://www.movistar.es/tv/dazn/ "Oferta con Dazn")
 * [Max en Movistar](https://www.movistar.es/tv/max/ "Max en Movistar")
