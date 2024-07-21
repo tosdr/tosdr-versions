@@ -405,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![RNC 2024: Trump formally accepts GOP nomination for president](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2161990481.jpg?ve=1&tl=1)
+ [![Grayson Rodriguez gets AL-best 12th win as Orioles hit 3 more homers to beat Rangers 8-4](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2162222869.jpg?ve=1&tl=1)
 
- ![RNC 2024: Trump formally accepts GOP nomination for president](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2161990481.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rnc-2024-trump-speech)
+ ![Grayson Rodriguez gets AL-best 12th win as Orioles hit 3 more homers to beat Rangers 8-4](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162222869.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/grayson-rodriguez-gets-al-best-12th-win-orioles-hit-3-more-homers-beat-rangers-8-4)
 
-### [RNC 2024: Trump formally accepts GOP nomination for president](https://www.fox4news.com/news/rnc-2024-trump-speech)
+### [Grayson Rodriguez gets AL-best 12th win as Orioles hit 3 more homers to beat Rangers 8-4](https://www.fox4news.com/sports/grayson-rodriguez-gets-al-best-12th-win-orioles-hit-3-more-homers-beat-rangers-8-4)
 
- [![Masked burglars target Hispanic-owned North Texas businesses](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/P-PEYTON-GP-BUSINESS-BURGLARY-9P_00.00.54.04.jpg?ve=1&tl=1)
+ [![Arike Ogunbowale and Caitlin Clark lead WNBA All-Stars to 117-109 win over U.S. Olympic team](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2162845764.jpg?ve=1&tl=1)
 
- ![Masked burglars target Hispanic-owned North Texas businesses](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/P-PEYTON-GP-BUSINESS-BURGLARY-9P_00.00.54.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lilis-restaurant-burglary-ceviche-loco-burglars-dallas-grand-prairie)
+ ![Arike Ogunbowale and Caitlin Clark lead WNBA All-Stars to 117-109 win over U.S. Olympic team](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162845764.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/arike-ogunbowale-caitlin-clark-lead-wnba-all-stars-117-109-win-over-u-s-olympic-team)
 
-### [Masked burglars target Hispanic-owned North Texas businesses](https://www.fox4news.com/news/lilis-restaurant-burglary-ceviche-loco-burglars-dallas-grand-prairie)
+### [Arike Ogunbowale and Caitlin Clark lead WNBA All-Stars to 117-109 win over U.S. Olympic team](https://www.fox4news.com/sports/arike-ogunbowale-caitlin-clark-lead-wnba-all-stars-117-109-win-over-u-s-olympic-team)
 
- [![East Texas woman 8 months pregnant loses baby in hit-and-run: 'They took something from me'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/casi-hughes-palestine-hit-and-run.png?ve=1&tl=1)
+ [![SEC official makes 'Horns Down' penalty decision as college football season nears](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/12/32/18/GettyImages-1817403220.jpg?ve=1&tl=1)
 
- ![East Texas woman 8 months pregnant loses baby in hit-and-run: 'They took something from me'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/casi-hughes-palestine-hit-and-run.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/palestine-casi-hughes-hit-and-run-investigation-victim-speaks)
+ ![SEC official makes 'Horns Down' penalty decision as college football season nears](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/12/32/18/592/333/GettyImages-1817403220.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/sec-official-makes-horns-down-penalty-decision-college-football-season-nears)
 
-### [East Texas woman 8 months pregnant loses baby in hit-and-run: 'They took something from me'](https://www.fox4news.com/news/palestine-casi-hughes-hit-and-run-investigation-victim-speaks)
+### [SEC official makes 'Horns Down' penalty decision as college football season nears](https://www.fox4news.com/sports/sec-official-makes-horns-down-penalty-decision-college-football-season-nears)
 
- [![Motorcyclist flees from Arizona troopers for nearly 70 miles, then is arrested at a casino](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/07/32/18/vlcsnap-2024-07-18-18h40m46s940-copy.jpg?ve=1&tl=1)
+ [![First Baptist Dallas' historic sanctuary may need to be demolished, cause undetermined](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/DAMAGE-1.jpg?ve=1&tl=1)
 
- ![Motorcyclist flees from Arizona troopers for nearly 70 miles, then is arrested at a casino](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/07/32/18/592/333/vlcsnap-2024-07-18-18h40m46s940-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-flees-from-arizona-troopers-nearly-70-miles-is-arrested-casino)
+ ![First Baptist Dallas' historic sanctuary may need to be demolished, cause undetermined](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/DAMAGE-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-baptist-dallas-fire-update-demolished)
 
-### [Motorcyclist flees from Arizona troopers for nearly 70 miles, then is arrested at a casino](https://www.fox4news.com/news/motorcyclist-flees-from-arizona-troopers-nearly-70-miles-is-arrested-casino)
+### [First Baptist Dallas' historic sanctuary may need to be demolished, cause undetermined](https://www.fox4news.com/news/first-baptist-dallas-fire-update-demolished)
 
- [![List of top Democrats who have called on Biden to exit race](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2059261395.jpg?ve=1&tl=1)
+ [![Gunman used drone to scope rally site before Trump assassination attempt](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2161333690.jpg?ve=1&tl=1)
 
- ![List of top Democrats who have called on Biden to exit race](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2059261395.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/list-democrats-biden-exit-race-drop-out)
+ ![Gunman used drone to scope rally site before Trump assassination attempt](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2161333690.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gunman-drone-trump-shooting)
 
-### [List of Democrats calling on Biden to drop out](https://www.fox4news.com/news/list-democrats-biden-exit-race-drop-out)
+### [Gunman used drone to scope rally site before Trump assassination attempt](https://www.fox4news.com/news/gunman-drone-trump-shooting)
 
 ###### [News](https://www.fox4news.com/news)
 
