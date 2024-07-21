@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei smartwatches auto-gesture control](https://www.huaweicentral.com/wp-content/uploads/2024/07/Wearable-400x240.jpg)
+        
+        Future Huawei smartwatches may use auto-gesture control features](https://www.huaweicentral.com/future-huawei-smartwatches-may-use-auto-gesture-control-features/)
     * [![Huawei Watch Fit 3 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Fit-3-image-400x240.jpg)
         
         Huawei Watch Fit 3 grabs a massive July 2024 feature update](https://www.huaweicentral.com/huawei-watch-fit-3-grabs-a-massive-july-2024-feature-update/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch D July 2024 improvements](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-D-400x240.jpg)
         
         Huawei Watch D welcomes July 2024 system stability improvements](https://www.huaweicentral.com/huawei-watch-d-welcomes-july-2024-system-stability-improvements/)
-    * [![Huawei Watch Fit 2 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Fit-2-400x240.jpg)
-        
-        Huawei optimizes Watch Fit 2 with July 2024 update](https://www.huaweicentral.com/huawei-optimizes-watch-fit-2-with-july-2024-update/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
