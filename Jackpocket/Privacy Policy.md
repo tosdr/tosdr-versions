@@ -1,4 +1,4 @@
-![Jackpocket Logo](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
+[![Jackpocket Logo](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)](https://jackpocket.com/)
 
 About
 
@@ -6,7 +6,7 @@ About
 
 [Winners](https://blog.jackpocket.com/featured-winners/)[News](https://blog.jackpocket.com/)[Lottery Results](https://jackpocket.com/lottery-results)[Sweepstakes](https://jackpocket.com/sweepstakes)
 
-GET THE APP
+[Log In](https://play.jackpocket.com/auth/signin)GET APP
 
 Privacy Policy
 ==============
@@ -313,7 +313,7 @@ To the extent any provision of this Privacy Policy is found by a competent tribu
   
 Please contact Jackpocket with any questions or comments about this Privacy Policy by emailing: privacyrequests@jackpocket.com. 
 
-![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)
+[![Jackpocket](https://7j66bvtd.media.zestyio.com/logo_jackpocket_dotcom_on-white.svg)](https://jackpocket.com/)
 
 * [Facebook](https://www.facebook.com/jackpocket/)
 * [Instagram](https://www.instagram.com/jackpocket/)
