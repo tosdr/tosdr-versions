@@ -14,9 +14,9 @@ Saving
 
 ![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/135542fe1721394594.webp?1721394619)
 
-[](https://glorpis.newgrounds.com/)
+[](https://imdrunkontea.newgrounds.com/)
 
-[Glorpis](https://glorpis.newgrounds.com/) just joined the crew!
+[imdrunkontea](https://imdrunkontea.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -292,17 +292,17 @@ If you have any questions about this privacy policy, the practices of this site,
 
 GamesMoviesAudioArtChannelsUsers
 
-[Cosmiccookie2000 **Coming to terms**](https://cosmiccookie2000.newgrounds.com/news/post/1460782)
+[Rippi **What I am or who I am...**](https://rippi.newgrounds.com/news/post/1461279)
 
-[SchultzV2 **game possibility...**](https://schultzv2.newgrounds.com/news/post/1460781)
+[flooferland **hi !!**](https://flooferland.newgrounds.com/news/post/1461278)
 
-[Chipsoapart **It would be nice**](https://chipsoapart.newgrounds.com/news/post/1460780)
+[ElYimy **I returned**](https://elyimy.newgrounds.com/news/post/1461277)
 
-[alt3rEgo **Check out this artist!!**](https://alt3rego.newgrounds.com/news/post/1460779)
+[Finasty **Making Collage**](https://finasty.newgrounds.com/news/post/1461276)
 
-[ralph2320 **two weeks in artfight**](https://ralph2320.newgrounds.com/news/post/1460778)
+[NoahMlp123 **Vent**](https://noahmlp123.newgrounds.com/news/post/1461275)
 
-[MiklipiGD **BACK TO NG!!!!**](https://miklipigd.newgrounds.com/news/post/1460776)
+[Snackers **All I Can Do**](https://snackers.newgrounds.com/news/post/1461274)
 
 [**Wall Art by**
 
