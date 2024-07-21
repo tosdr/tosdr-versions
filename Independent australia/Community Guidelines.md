@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Tenacious D comedy-rocker makes gag — prepare the gallows!](https://independentaustralia.net/article-display/tenacious-d-comedy-rocker-makes-gag-prepare-the-gallows,18785 "Permanent Link : Tenacious D comedy-rocker makes gag — prepare the gallows!")
-* [The next frontier in Australian STEM education: Opportunities in early childhood education](https://independentaustralia.net/article-display/the-next-frontier-in-australian-stem-education-opportunities-in-early-childhood-education,18789 "Permanent Link : The next frontier in Australian STEM education: Opportunities in early childhood education")
-* [CARTOONS: Trump picks new running mate](https://independentaustralia.net/article-display/cartoons-trump-picks-new-running-mate,18780 "Permanent Link : CARTOONS: Trump picks new running mate")
-* [America's gathering storm: Trump a victim of his own violent rhetoric](https://independentaustralia.net/article-display/americas-gathering-storm-trump-a-victim-of-his-own-violent-rhetoric,18788 "Permanent Link : America's gathering storm: Trump a victim of his own violent rhetoric")
-* [Rise in overseas students ringing alarm bells](https://independentaustralia.net/article-display/rise-in-overseas-students-ringing-alarm-bells,18787 "Permanent Link : Rise in overseas students ringing alarm bells")
-* ['Used to dying' — memoir tells brutal history of East Timor](https://independentaustralia.net/article-display/used-to-dying-memoir-tells-brutal-history-of-east-timor,18786 "Permanent Link : 'Used to dying' — memoir tells brutal history of East Timor")
-* [A literary giant's fall: Alice Munro's Faustian trade-off](https://independentaustralia.net/article-display/a-literary-giants-fall-alice-munros-faustian-trade-off,18773 "Permanent Link : A literary giant's fall: Alice Munro's Faustian trade-off")
+* [POEM: The siren's call](https://independentaustralia.net/article-display/poem-the-sirens-call,18781 "Permanent Link : POEM: The siren's call")
+* [Unconventional music ventures set to shake up the Australian scene](https://independentaustralia.net/article-display/unconventional-music-ventures-set-to-shake-up-the-australian-scene,18792 "Permanent Link : Unconventional music ventures set to shake up the Australian scene")
+* [Passing the sniff test: 'Use by' dates for U.S. presidents](https://independentaustralia.net/article-display/passing-the-sniff-test-use-by-dates-for-us-presidents,18778 "Permanent Link : Passing the sniff test: 'Use by' dates for U.S. presidents")
+* [Longlegs reinvents the crime genre with pure nightmare fuel](https://independentaustralia.net/article-display/longlegs-reinvents-the-crime-genre-with-pure-nightmare-fuel,18791 "Permanent Link : Longlegs reinvents the crime genre with pure nightmare fuel")
+* [Kevin Bartlett — the toughest of Tigers](https://independentaustralia.net/article-display/kevin-bartlett-the-toughest-of-tigers,18777 "Permanent Link : Kevin Bartlett — the toughest of Tigers")
+* [Peter Dutton's nuclear power policy puts longevity in doubt](https://independentaustralia.net/article-display/peter-duttons-nuclear-power-policy-puts-longevity-in-doubt,18790 "Permanent Link : Peter Dutton's nuclear power policy puts longevity in doubt")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
