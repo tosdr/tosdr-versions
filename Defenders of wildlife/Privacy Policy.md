@@ -14,6 +14,12 @@ Thank you!
 
 [![ site logo](/themes/custom/particle/dist/assets/logo.png)](https://defenders.org/)
 
+[Donate](https://support.defenders.org/page/65016/donate/1?ea.tracking.id=web_menu_donate-button)
+
+[One-Time Donation](https://support.defenders.org/page/65016/donate/1?ea.tracking.id=web_menu_donate-button)
+
+[Monthly Donation](https://defenders.org/be-a-guardian)
+
 ### Main navigation
 
 [Wildlife](https://defenders.org/wildlife)[](#)
