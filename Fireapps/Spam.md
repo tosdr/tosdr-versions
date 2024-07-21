@@ -424,7 +424,7 @@ SHOP LOCATION
 
 *  Email: support@genericday.com
 *  Working Hours: 9:00A.M - 8:00P.M (IST)
-*  We are open 24\*7
+*  We are available 24/7
 * * [](https://www.facebook.com/Genericdayusa/)
     * [](https://twitter.com/Genericdayusa)
     * [](https://www.instagram.com/genericdayusa/)
