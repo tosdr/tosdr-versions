@@ -1,7 +1,7 @@
 [](https://facebook.com/kulturlandimpulse)[](https://www.kulturlandimpulse.at/feed/)
 
 * [](tel:+43 650 7909484)
-* [office@kulturlandimpulse.at](mailto:%6fffice@k%75lturl%61nd%69mpul%73e.at)
+* [office@kulturlandimpulse.at](mailto:off%69ce@%6b%75%6c%74%75%72l%61ndim%70uls%65%2e%61t)
 
 [![kuli -  Kultur.Land.Impulse  Gemeinsam gestalten](https://www.kulturlandimpulse.at/wp-content/uploads/2020/07/kuliLogo_klein-e1594027797115.png)](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[kuli - Kultur.Land.Impulse](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")[Gemeinsam gestalten](https://www.kulturlandimpulse.at/ "kuli -  Kultur.Land.Impulse  Gemeinsam gestalten")
 
@@ -99,12 +99,6 @@ https://www.dsb.gv.at/
 
 Kommende Veranstaltungen
 ------------------------
-
-Jul 19
-
-20:30 - 22:00
-
-### [Sommerkino im Schärdinger Schlosspark](https://www.kulturlandimpulse.at/veranstaltung/sommerkino-am-hof-the-ants-and-the-grasshopper-2/ "Sommerkino im Schärdinger Schlosspark")
 
 Aug 6
 
