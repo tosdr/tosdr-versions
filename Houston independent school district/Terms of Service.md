@@ -745,7 +745,6 @@ Translate Language
     * [Cyber Safety](https://www.houstonisd.org/domain/33079)
     * [Literacy By 3](https://www.houstonisd.org/domain/33223)
     * [Attendance Matters](https://www.houstonisd.org/domain/34554)
-    * [Total Earth Stories](https://www.houstonisd.org/domain/57226)
     * [Community Resources Guide](https://www.houstonisd.org/domain/37566)
     * [Teach Forward Houston](https://www.houstonisd.org/domain/39074)
     * [12 Days of Code OLD](https://www.houstonisd.org/domain/44764)
