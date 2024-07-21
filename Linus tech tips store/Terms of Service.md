@@ -6,8 +6,6 @@ Accept & Dismiss
 
 [Skip to content](#MainContent)
 
-[LIME Day: The Last Squeeze! Save up to 90% and get FREE SHIPPING on all orders over $100!](https://www.lttstore.com/pages/lime-day)
-
 New orders are expected to ship by
 
      
