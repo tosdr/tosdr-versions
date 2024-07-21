@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Hugo van Sittert
+Henry Venter
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=105087364)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=29340781)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=144062866)  
-J.M. HUMAN RESOURCES
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=194992817)  
+LEO DEVELOPMENT GROUP
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=62208433)  
-Cape Adventure Zone
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=51808863)  
-ARCHITEK PTY LTD
-
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=4780608)  
-Leef in Afrikaans
-
-![valued client Reliable Store](https://www.invoicesonline.co.za/scripts/image.php?bid=6792&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=85740904)  
-Reliable Store
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=147660496)  
-FJW Security Cc
-
-![valued client Zwashu Bed Manufacturing](https://www.invoicesonline.co.za/scripts/image.php?bid=8380&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=105867681)  
-Zwashu Bed Manufacturing
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=194621807)  
-Abandoned Vehicle and Truck Solutions
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=150822114)  
-Hydroworld T/A Milliqua
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=78269324)  
-Wiselink Broadband Vryheid
-
-![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=71204053)  
+![valued client Stories4Kids (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=71561658)  
 Stories4Kids (Pty) Ltd t/a Storietyd
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=5537947)  
-Super Sound Man (PTY) Ltd
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=202301959)  
+Three Moons Emporium
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=43813380)  
-Immediate Health (pty)ltd
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=119855199)  
+Gemini-IT Group
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=78216c6b229760481c266fecf1e870465dede33a6e1fae5cb8128f326a0bb67d&c=186990417)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client New Beginnings Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=4126513)  
+New Beginnings Designs
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=89864164)  
+MSPCloud (Pty) Ltd
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=59322658)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=132092266)  
+Tiny Cuddles Photography
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=208054224)  
+SR Travel Services
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=106635579)  
+Sonic Electrical Services PTY Ltd
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=123932067)  
+Know Informatics
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=68883825)  
+APTV Telecoms CC
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=57976403)  
+Konsortium Operations (PTY) LTD
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=3242263d8142e9113b4a3b73a3dc860f375a31cd68fee2d2df6b1fd19c7665d1&c=90688807)  
+FX ACCOUNTING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
