@@ -31,965 +31,969 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-De los casos Metástasis y Purga a la educación Cívica
-=====================================================
+El Nacional se clasifica para octavos de final de Copa Ecuador
+==============================================================
 
-Los casos Metástasis y Purga han sacudido a Ecuador, revelando profundas conexiones entre el narcotráfico, la política y la justicia.
--------------------------------------------------------------------------------------------------------------------------------------
+El Nacional con mucho sufrimiento avanzó a la siguiente ronda de la Copa Ecuador. El cotejo se definió por penales.
+-------------------------------------------------------------------------------------------------------------------
 
-![Prompt: Estudiantes de colegio en un ambiente que se ve a personajes corruptos, políticos, narcotráfico, illustration, cinematic.](https://www.elcomercio.com/wp-content/uploads/2024/07/Educacio%CC%81n-ci%CC%81vica.jpg)
+![El Nacional y Ciudad Baños de Fuego se enfrentaron por los dieciseisavos de final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-20T203736.053.jpg)
 
-En los últimos meses, Ecuador ha sido testigo de dos escándalos de corrupción que han sacudido los cimientos de su sistema judicial y político: los casos **Metástasis y Purga**. Se ha revelado la profunda infiltración del narcotráfico en las instituciones del país y se ha expuesto una red de corrupción que involucra a políticos, jueces y fuerzas del orden.
+**El Nacional** inició con pie derecho su camino en la Copa Ecuador 2024. En su debut, que fue este sábado 20 de julio, el ‘Bi-Tri’ derrotó a **Baños de Ciudad de Fuego**, equipo de la Segunda Categoría de Tungurahua, por penales.
 
-El caso **Metástasis** ha sido uno de los más sonados en la historia reciente de Ecuador. La investigación, que comenzó a principios de 2024, ha desvelado los vínculos entre la justicia y el narcotráfico. Entre los primeros sentenciados se encuentran dos policías y un abogado, quienes fueron condenados por su participación en esta trama delictiva. La **Fiscalía** ha presentado pruebas que demuestran cómo estos individuos facilitaban operaciones ilegales a cambio de sobornos.
-
-Por otro lado, el **caso Purga**, que surgió a raíz de las investigaciones del caso Metástasis, ha destapado una red de corrupción en el sistema judicial. En marzo de 2024, la Fiscalía y la Policía Nacional realizaron un operativo en Guayas, deteniendo a 12 personas, entre ellas un **exasambleísta y varios jueces.** Purga ha revelado cómo se compraban sentencias y se beneficiaban judicialmente.
-
-Estos escándalos subrayan la urgente necesidad de una educación cívica y ética efectiva en Ecuador. La educación cívica y ética no debe ser vista como un simple material escolar de relleno o un anuncio coyuntural. Es fundamental que las nuevas generaciones de ecuatorianos comprendan la importancia de la integridad, la transparencia y el respeto por las leyes.
-
-Paralelamente, la **ministra de Educación, Alegría Crespo**, anunció que la cátedra de Cívica volverá al currículo de los planteles educativos. Y sí, la educación cívica y ética debe ser una prioridad en el sistema educativo ecuatoriano. Los jóvenes deben ser formados en valores que promuevan la honestidad, la responsabilidad y el compromiso con la sociedad. ¿Pero está preparado el sistema para abordar esta cátedra?
-
-> Para que la educación cívica y ética sea efectiva, es necesario que se implemente de manera integral y se le dé la importancia que merece. Esto implica no solo incluirla en el currículo escolar, sino también capacitar a los docentes para que puedan impartir estos conocimientos de manera adecuada. Además, es crucial que se realice un seguimiento constante para evaluar el impacto de estas enseñanzas en los estudiantes.
-
-Además de la capacitación a los profesores en los tópicos específicos, es necesario que la materia sea considerada como necesaria. La experiencia demuestra que en el pasado se la tomaba como un curso secundario, de relleno. Asimismo, se debe apuntar la entrega de recursos educativos como libros, materiales didácticos y herramientas tecnológicas.
-
-El **Gobierno, y a la larga el Estado**, deben considerar que para que este proyecto funcione; hay que mantener el apoyo y que no se queden en un enunciado o disposición de implementación. Sin un compromiso claro y sostenido por parte de las autoridades, es difícil llevar a cabo las reformas necesarias. Y ese respaldo incluye el entendimiento de que Ecuador es diverso y que -además- existe desigualdad educativa. No son lo mismo, por ejemplo, las escuelas rurales que las urbanas; lo que lleva a pensar en una verdadera reforma educativa integral.
-
-Francia: No a la extrema derecha
-================================
-
-Los franceses han vuelto a dejarlo claro que no quieren a la extrema derecha en el gobierno.
---------------------------------------------------------------------------------------------
-
-![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
-
-Luego de las **elecciones para el Parlamento Europeo**, el pasado 9 de junio, que han sacudido la vida política francesa, el presidente Emmanuel Macron utilizó una de sus prerrogativas constitucionales y disolvió la Asamblea Nacional como la “solución más responsable”: la extrema derecha se había posicionado, con una diferencia de votos nada estrecha, como primera fuerza política en la Eurocámara. Convocó entonces a elecciones legislativas a llevarse a cabo en dos vueltas, el 30 de junio y el 7 de julio.
-
-Aunque los franceses siguen profundamente apegados a los valores democráticos, al euro y a la seguridad, que creen que garantiza la **Unión Europea**, querían castigar al gobierno especialmente por la pérdida del poder adquisitivo, y manifestarse en contra de la inmigración percibida como una amenaza para su seguridad. Con la convocatoria, **Francia** se enfrentó al desafío de confirmar o no su intención de confiar el poder al Rassemblement National (RN), el partido de derecha radical heredero del ultraderechista Front National fundado por Jean-Marie Le Pen en 1972.
-
-Las **clases populares francesas** se encuentran en un estado de insatisfacción por el largo proceso de desindustrialización de Francia, de 40 años aproximadamente, que ha generado pérdidas de puestos de trabajo y empobrecimiento, exacerbado por el gobierno de Macron y la falta de respuestas por parte de las élites políticas.
-
-Esto explica que un alto porcentaje de ciudadanos que perciben ingresos por debajo del mínimo legal encuentren una forma de protesta depositando su voto a favor de la extrema derecha en las elecciones de las últimas 4 décadas. La izquierda que ha gobernado no ha sabido responder a las necesidades de un electorado relegado, y la llamada **nueva izquierda** tiene preocupaciones de otro tipo, **ecológico y antirracista**, dejando por fuera a un importante sector de una **Francia pobre y relegada**.
-
-**Francia acudió a las urnas y dio una sorpresa electoral**: después de lo que parecía una inminente victoria del partido de extrema derecha Agrupación Nacional, el electorado prefirió al Nuevo Frente Popular, que no es un partido político, sino una alianza coyuntural de socialistas, ecologistas, comunistas y La Francia Insumisa; tienen algunas diferencias clave en su ideología y enfoque, pero decidieron formar un bloque para mantener a la **extrema derecha fuera del gobierno**.
-
-El desafío es, además de preservar la democracia, la definición de una estrategia que permita la gobernabilidad para la puesta en marcha de un programa que responda al descontento reinante en los sectores que expresaron su protesta. **Al no haber una** **mayoría relativa** que parezca viable, todo va a depender de las negociaciones entre las tres grandes fuerzas triunfadoras para definir sobre el nombramiento del jefe de gobierno, el Primer Ministro.
-
-Los franceses han vuelto a dejarlo claro que no quieren a la **extrema derecha** en el gobierno, ya sea porque se oponen a sus ideas o porque temen la inestabilidad que traería si llega al poder. Por eso decidieron detener el avance de una de  las llamadas nuevas extremas derechas que se expanden por el mundo, cada una con su propia genealogía, y también con elementos comunes entre sí y con posicionamientos internacionales. La Agrupación Nacional de Marine Le Pen es un partido de posturas extremistas manifestadas con polémicas declaraciones, especialmente en temas relacionados con las inmigraciones y la identidad nacional. Propone **reducir la inmigración** y controlar su acceso a los servicios públicos, **políticas de seguridad interna** y busca reformar la **Unión Europea** desde dentro.
-
-El centro de gravedad se ha desplazado al centro-izquierda, pero existe incertidumbre sobre el rumbo que puede tomar el nuevo gobierno.
-
-Cartas a Quito / 19 de julio de 2024
-====================================
-
-Estas son las cartas a Quito de este viernes 19 de julio de 2024
-----------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Metodología enredada, debe ser archivada.  ANT
-----------------------------------------------
-
-En diciembre 2021, la Agencia Nacional de Tránsito ANT, socializó la “Metodología para la definición de la tarifa de transporte terrestre público intercantonal urbano en Ecuador”, cuyo objetivo es: Proporcionar un instrumento técnico a los GAD Municipales y, Metropolitanos, Mancomunidades y Consorcios, para el cálculo de la tarifa del transporte terrestre público intercantonal urbano, que permita regular a nivel nacional una tarifa real del servicio del transporte público dentro de sus competencias. Al margen de su competencia, se debe aplaudir la iniciativa de la ANT. Desgraciadamente su contenido es poco fiable, adolece de: 
-
-Imprecisiones: El financiamiento para la compra del vehículo se realiza por una sola vez (capital propio o prestado), los recambios se financian con la depreciación y el valor de rescate (eso es lo que no dice la metodología, prescinde de una ayuda importante al empresario transportista). Además, la depreciación es inversamente proporcional a la vida útil o económica, no al valor de la norma contable, son conceptos distintos, el uno es contable  y el otro físico (es la causa de la penuria económica del transportista, el mantenimiento es mayor a la depreciación).
-
-Conceptos errados: el análisis dimensional practicado en la fórmula del rendimiento del combustible por galón, tiene dimensiones Km/$, distinta a las que deben ser Km/Gln, luego el resultado es errado. Siendo esta fórmula  la base para muchas otras, las siguientes arrastran el error, en consecuencia el valor del gasto del combustible por día de la metodología, no es confiable. Este valor en la práctica se obtiene fácilmente multiplicar el consumo diario de combustible de la unidad por el precio unitario del mismo (Costo combustible/día = consumo/día  x   precio unitario,  $/día).
-
-Dilación en los procesos matemáticos, lo más grave de esta metodología es que los procesos matemáticos son engorrosos, muchas vueltas y vericuetos para llegar a un resultado muchas veces errado. En el caso del gasto por combustible día hay 3 fórmulas matemáticas disparadas, cuando se hace con una sola operación, como se expresó en el párrafo  anterior. Igual sucede con el cálculo de la tarifa (Pasaje) de equilibrio (objetivo), donde para obtener el costo variable la metodología utiliza una serie de operaciones matemáticas que confunden al usuario. Cuando el procedimiento es simple, se  suman  todos sus componentes del costo variable (combustible, llantas y mantenimiento) en una unidad de tiempo.  Luego sumar a los costos fijos y, dividir por la cantidad de pasajeros servidos en esa unidad de tiempo (Pasaje = (costo directo + costo indirecto)/cantidad de pasajeros). Otra dilación innecesaria es en el cálculo del mantenimiento, la metodología pide analizar más de 50 rubros, uno por uno, para un año cualquiera, haciendo perder tiempo y precisión, Lo correcto es cotizar esos y otros rubros en función del kilometraje recorrido durante la vida útil, utilizando el programa de mantenimiento proporcionado por el proveedor del vehículo. En fin, esta metodología es enredada, debe ser archivada y, reemplazada, utilizando criterio ingenieril más que económico.  
-
-Marco A. Zurita Ríos 
-
-¿La actividad camaronera en manos de grandes empresas?
-------------------------------------------------------
-
-Paradójicamente, el Ecuador sigue siendo unos de los países que más produce camarón y sus exportaciones se mantienen a niveles altos Pero se dice que la actividad, en la actualidad,  está en manos de unos cuantos grandes productores, unidos a unos cuantos medianos productores Los pequeños (100 ha.)  y medianos (500 a 1000 ha.) se están viendo en una crisis de no tener a quien vender o a que le paguen a precios que no permite ganancia alguna. Las grandes empresas (15.000 ha), aducen que hay superproducción de camarón en el mundo y con la nueva tecnología cada vez es más el superávit que se obtiene en las piscinas camaroneras del Ecuador.
-
-Se pensaba que esto era cíclico, ya que siempre bajan las compras del camarón por fin de año, pero la situación se mantiene y ya está creando problemas serios. Qué sucede, que las grandes productoras de camarón, tienen su círculo de producción integrado. Cuentan con laboratorio de larva  controlada por ellos mismos, balanceado con la calidad que ellos la prefieren, el sistema del manejo del camarón en las piscinas con sistema de  alta tecnología y con producción por hectárea insuperable, un control fitosanitario que evita la mortalidad lo que les permite producir más;  tienen un sistema de cosecha que hace que el camarón pueda ser recogido sin mayores maltratos. Tienen sus fábricas de hielo. Sus plantas de procesamiento del camarón y el respectivo embalaje para la exportación. Su sistema de enfriamiento, transporte.-  Y por ello el costo de producción es mucho menor al del mejor productor mediano, por lo que el rendimiento es mayor en todo sentido.  La tecnología permite controlar al animal en su estado natural, la alimentación apropiada  y el control administrativo y de seguridad al más alto nivel.
-
-Cerrados los laboratorios pequeños  de larvas, los productores de balanceado, las plantas de hielo y a los cientos y miles de empleados que utiliza esta actividad unida a los  pequeños y medianos productores ven que su actividad ya no es rentable y prefieren no sembrar para no perder.-  Súmele a esto el robo, las extorsiones y las diferentes enfermedades que hay que combatir en la producción de camarón. Deja en la desocupación a cientos y miles de personas que de una u otra  manera dependían de esta actividad y ahora se ven afectados por la falta de trabajo. Para el gobierno, el Ecuador todo está bien porque los ingresos por la exportación del camarón se mantienen en niveles óptimos.
-
-Esto ha traído una quiebra de cientos de pequeños y medianos productores que se han visto obligados a  dejar de producir porque no les es rentable la actividad.- Y unos pocos siguen insistiendo para poder sobrevivir y vender al mercado nacional.
-
-El gobierno ecuatoriano a través de su Ministerio debe tomar asunto al tema, ya que se está volviendo una quiebra muy grave para el productor de larva, para el que produce el balanceado, para el técnico que no tiene donde trabajar, las fábricas de hielo e igual a los trabajadores de campo, los cosechadores, las descabeza doras,  el transportista, y con ello cientos de pequeños comerciantes que proveían los suministros requeridos para la producción, así como los que les proveían de los productos alimenticios. Son muchas familias que viven de esto y  con ello una mayor pobreza y falta de trabajo. 
-
-Lionel Efraín Romero Reyes
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/C7ATpdWugsd/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/C7ATpdWugsd/?utm_source=ig_embed&utm_campaign=loading)
-
-Los minerales necesarios para la revolución verde (Parte 2)                             
-========================================================================================
-
-La minería está en el corazón de la solución al problema del cambio climático.
-------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-Cuando miramos **turbinas eólicas** debemos pensar que las mismas requieren de una gran cantidad de insumos y materiales, por ejemplo: en una turbina generadora de 3 MW se utilizan, aproximadamente, 4,7 ton. de cobre, 335 ton. de acero y 1.200 ton. de concreto, a más de 2 ton de tierras raras, zinc y molibdeno.  En paneles solares se utiliza un 70% de vidrio, 10% de polímeros, y, 7% aluminio; además de silicona, plata, cobre, estaño y plomo; por supuesto, se utiliza cobre para la transmisión en ambos casos. El 10% de la plata mundial se usa para **paneles fotovoltaicos**. Para turbinas eólicas, paneles solares y vehículos eléctricos se necesita **hierro, acero, silicio, cobre y aluminio**.  
-
-Se proyecta que, para llegar a cumplir los objetivos del **Acuerdo de París** para el año 2059, en referencia al **cambio climático,** se debe incrementar la producción de Litio en 965%, cobalto 585%, Grafito 383%, Indio 241%, Vanadio 173%, Níquel 108%, Plata 60%, Neodimio 47%, Molibdeno 11%, Aluminio 9%, Cobre 7%, Manganeso 4%. Considerando que el cobre es el elemento fundamental para la transición a  energías limpias, se estiman necesarias, aproximadamente, unos 550 millones de toneladas en los próximos 25 años.  
-¿De dónde se obtendrán estos minerales? Esta transición a un futuro limpio de carbón es una oportunidad para los **países emergentes** y para sus economías, en apoyo a un **desarrollo sostenible**. Para tomar ventaja, los países necesitan implementar prácticas de buena gobernanza, **estrategia de desarrollo sostenible**, transferencia tecnológica, capacidad de ejecución, transparencia, financiamiento y práctica de una **minería ecológica** que minimicen la **afectación ambiental** y eliminen la huella del carbono, con una colaboración sinérgica entre **sectores público y privado**.
-
-La minería está en el corazón de la solución al problema del **cambio climático**. ¿Por qué?  Porque para frenar el **cambio climático** lo que el mundo tiene que hacer, en esencia, y es lo que está haciendo en Chile, es limpiar la matriz de **generación eléctrica**, dejando atrás los **combustibles fósiles**.
-
-En esa línea, tanto las **centrales de generación de energía renovables** como la electromovilidad requieren cuatro veces más cobre que las **centrales de generación eléctrica** o vehículos convencionales. En el caso de Chile que produce el 30% de cobre del mundo, sin el cobre sería imposible que el mundo construya la capacidad de generación renovable que es necesaria para limpiar nuestras matrices y tener la electricidad limpia que nos permitirá reemplazar a los **combustibles fósiles** en distintos sectores de la economía. Aquí es donde puede entrar Ecuador, ser importante proveedor de estos minerales al mundo y así un activo protagonista con acción, donde hoy solamente participa de boca.
-
-Asimismo, es necesario **introducir las tecnologías** para reducir la huella de carbono de la **industria minera** y el resto del sector productivo para utilizar **energías renovables,** implementar sistemas de uso eficiente del agua y aportar con innovación para hacer más eficientes y seguros sus procesos.
-
-También podemos pensar al ser el Ecuador un país con múltiples opciones de **energía limpia** y principalmente la hidráulica se debe para promover una nueva industria en la **economía local**, la del hidrógeno verde (H2v), tomando en cuenta que este combustible permitirá limpiar procesos que son difíciles de electrificar, como el uso de diésel en los camiones mineros, transporte pesado y de pasajeros entre ciudades, maquinarias y otras herramientas que podrían funcionar con H2v. bajando su huella de carbono y acelerando, además, el desarrollo de esa industria tan promisoria para nuestro país como potencial generador de divisas con la exportación de sus derivados e-metanol y amoniaco verde o cualquiera de sus formas, así como ahorro de divisas en **sustitución de hidrocarburos combustibles** y agroquímicos, con una propia **producción de fertilizantes verdes** que permitirán una agroexportación carbono neutro, cumpliendo normas y exigencias de los mercados internacionales.
-
-Las 22 plantas de tratamiento de aguas residuales para Quito dependerán de 5 alcaldías
-======================================================================================
-
-El actual Municipio avanza en los estudios de las tres plantas más grandes y otras siete de zonas rurales
----------------------------------------------------------------------------------------------------------
-
-![Con la PTAR Quito se busca descontaminar las aguas del río Machángara. Foto: Julio Estrella](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo_20240718_163135_0000.jpg)
-
-Si no tienes tiempo te lo resumimos en estas líneas
----------------------------------------------------
-
-* La PTAR Quito y la PTAR Calderón son las prioridades, con una inversión de 300 millones de dólares y 90 millones de dólares, respectivamente.
-* La PTAR Quito tratará el 49,49% de las aguas residuales de la ciudad. Se espera que en 10 años, el 80% de las aguas residuales de Quito sean tratadas.
-* De forma paralela se realizan consultorías para armar planes de manejo de ríos y microcuencas hidrográficas.
-
-* * *
-
-Las acciones para limpiar los ríos de Quito se concentran, principalmente, en los estudios de diez de las **22 Plantas de Tratamiento de Aguas Residuales (PTAR)** previstas para un horizonte de **17 años**.
-
-De forma paralela se desarrollan tres consultorías para hacer los planes estratégicos de **ríos y quebradas**; de manejo de **microcuencas hidrográficas** y de la **infraestructura verde azul**.
-
-Esto es parte de la estrategia de descontaminación de los ríos de Quito, que aprobó el directorio de la Empresa Pública Metropolitana de Agua Potable y Saneamiento (Epmaps). Pero también es parte de las [sentencias en las que se ordena la remediación de los ríos Machángara y Monjas](https://www.elcomercio.com/actualidad/quito/rio-machangara-contaminacion-demanda-accion-proteccion.html "https://www.elcomercio.com/actualidad/quito/rio-machangara-contaminacion-demanda-accion-proteccion.html"). Además se busca cumplir con la ordenanza Verde Azul, que se aprobó en julio del 2023.
-
-### Más temas
-
-* [Blanca Ríos: ‘Debería verse a la sentencia como una oportunidad para cambiar la historia del río Machángara’](https://www.elcomercio.com/actualidad/blanca-rios-deberia-verse-a-la-sentencia-como-una-oportunidad-para-cambiar-la-historia-del-rio-machangara.html "Blanca Ríos: ‘Debería verse a la sentencia como una oportunidad para cambiar la historia del río Machángara’")
-* [Río Machángara tendrá una planta para aguas residuales, ¿cuánto demorará construirla?](https://www.elcomercio.com/actualidad/quito/rio-machangara-planta-tratamiento-tiempo-construccion.html "Río Machángara tendrá una planta para aguas residuales, ¿cuánto demorará construirla?")
-
-La ciudadanía tendrá que esperar entre tres a cinco años para que se concrete, entre otros trámites, el diseño y construcción de una PTAR. Y una vez que entre en operación se verá cómo las aguas, sobre todo, de los ríos **Machángara**, **San Pedro**, **Monjas** y **Guayllabamba** son descontaminadas.  
-
-De las 22 plantas aprobadas para Quito, los esfuerzos del Municipio se enfocan en los estudios y la construcción de la PTAR **Quito** y la PTAR **Calderón**. Ambas se realizan en un solo proceso. La primera y la más grande tratará el **49,49%** de las aguas residuales (Ver en el mapa más detalles de cada una).
-
-Ubicación de 4 plantas de tratamiento de aguas servidas
--------------------------------------------------------
-
-De clic en cada ubicación para conocer su capacidad y la población beneficiada. Fuente: Epmaps
-
-En ambos casos se iniciará con estudios básicos, según **Verónica Sánchez**, gerente de Epmaps. Para esto se cuenta con el financiamiento del Banco Interamericano de Desarrollo (BID) y de la Cooperación Española, a través del **Programa Agua Potable y Alcantarillado para Quito.** 
-
-En una primera etapa se realizarán los estudios de prefactibilidad y factibilidad y en un segundo tiempo, los estudios definitivos y la construcción. Estos estudios duran cerca de año y medio en ambas plantas.
-
-La PTAR Quito requiere de 300 millones de dólares  
----------------------------------------------------
-
-Para la PTAR Quito, que demanda **300** millones de dólares, hay que definir cuál será el modelo de gestión y cómo se financiará. Hay tres opciones: aporte privado, multilaterales o recursos de la misma Epmaps. 
-
-En este caso está avanzada la colocación del **85%** de interceptores sanitarios. Estos son túneles que captan las aguas residuales para evitar que lleguen a los ríos y se dirijan a las plantas de tratamiento. 
-
-Se espera que la PTAR Quito llegue a feliz término y no sea descartada como ocurrió con la de **Vindobona**. Pese a que se contaba con los estudios, no se consiguieron 1 000 millones de dólares para su construcción. 
-
-Para la PTAR **Calderón** se requieren **90** millones de dólares, que se cubrirán con fondos de la Epmaps. Una vez listos los estudios se procederá a sacar la licencia ambiental y se iniciará con los interceptores. 
-
-La construcción de ambas plantas tomará cinco años. Sánchez enfatiza que si se concretan los estudios y el financiamiento en los tiempos previstos, en 10 años Quito contará con **80%** de las aguas residuales tratadas. Es decir, en 2034.
-
-Actualmente, Quito solo se cuenta con la PTAR **Quitumbe** que beneficia a 75 000 habitantes y tiene una cobertura de apenas el **3%**. 
-
-Tras estas dos grandes plantas está la PTAR **Monjas**, que busca tratar las aguas residuales que van al río del mismo nombre. Hay que recordar, que vía judicial también se ordenó la remediación de este río. Adicionalmente, se preven otras **19 plantas**, que se ubicarán en las parroquias rurales de Quito.
-
-> Toda esta estrategia tendría un horizonte de 17 años. En otras palabras dependerá de la actual gestión municipal y de otras cuatro administraciones. 
-
-![Las aguas del río San Pedro recorren las localidades de Machachi, Cumbayá, Sangolquí, entre otras zonas. Foto: Diego Pallero / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2021/09/riosanpedro-700x391.jpg)
-
-Las aguas del río San Pedro recorren las localidades de Machachi, Cumbayá, Sangolquí, entre otras zonas. Foto: Diego Pallero / EL COMERCIO
-
-**Avances de 4 plantas rurales** 
----------------------------------
-
-Una de las PTAR más grandes en los sectores rurales es la planta **Cumbayá – Tumbaco,** que permitirá la descontaminación del río San Pedro.  Esta sería cuatro veces más grande que la de Quitumbe. Su capacidad será de 500 litros por segundo, mientras que la de Quitumbe es de 100 litros por segundo.  
-
-Actualmente se encuentran ejecutándose los estudios definitivos y se prevé que para fines de este julio del 2024 o para agosto estén listos y entregados. 
-
-Con esto se prevé tramitar la **licencia ambiental** e iniciar la construcción de **interceptores**, para que capten las aguas de los alcantarillados. Según la Epmaps, esta planta estaría acabada en cuatro años. 
-
-Para la PTAR **La Merced** y **Checa** ya se están realizando estudios, mientras que en el Chocó Andino están previstas estas cinco plantas: Calacalí, Nanegalito, Nanegal, Pacto y Gualea.
-
-Según la gerente de la Epmaps, los estudios de cuatro de las cinco están en fase inicial.
-
-Las otras PTAR son: **Guayllabamba**, **Uravía**, **Lalagachi**, **Yaruquí**, **Tababela**, **Pintag**, **Pifo** y **Puembo**, **Itulcachi**. También está **Oyacoto**, **Perucho**, **Atahualpa**, **San José de Minas**.
-
-346 000 dólares para dos consultorías de planes estratégicos
-------------------------------------------------------------
-
-De forma paralela a las acciones de la Epmaps, la Secretaría del Ambiente se ha enfocado en definir tres instrumentos, que exige la ordenanza Verde Azul.
-
-El primero se trata del Plan Estratégico Integral en los ríos y quebradas de Quito. En este se debe identificar y caracterizar las quebradas, incluidos los factores de afectación y establecer las acciones necesarias para la recuperación de sus servicios ecosistémicos.
-
-En la ordenanza Verde Azul no se menciona específicamente la realización de consultorías para la elaboración de planes, por parte de la autoridad ambiental.
-
-Para cumplir con este mandato, la Secretaría, a través de su recién creada Unidad de Microcuencas, ha optado por la contratación de consultores externos para realizar este plan. Pablo Zapata, coordinador, señala que se prevé la entrega de este plan para fines de noviembre de 2024.
-
-La ordenanza también señala la participación de actores como la academia, sociedad civil, gremios interesados y la ciudadanía en el proceso de formulación del plan.
-
-Asimismo se prevé que en noviembre finalice la consultoría a cargo del segundo instrumento: el plan de manejo de las cuencas hidrográficas del Distrito Metropolitano. La Secretaría registra 98 ríos y 819 quebradas y quebradillas en la urbe.
-
-Ambas consultorías cuestan 346 000 dólares. Esto representa el 41% del presupuesto total asignado de 845 000 dólares a la Unidad de Microcuencas para este 2024.
-
-La tercera consultoría y que aún no se contrata es para efectuar el Plan de Gestión y Manejo de la Infraestructura Verde Azul.
-
-Este último instrumento de política pública abarca desde la identificación de espacios naturales hasta la definición de acciones concretas, roles de las entidades involucradas y fuentes de financiamiento. De esta manera se busca garantizar la conservación y uso sostenible de la infraestructura verde azul en el Distrito Metropolitano de Quito.
-
-La concejal de Quito y miembro de la comision de Ambiente, Cristina López, cuestiona que ya es un año de la aprobación de la ordenanza Verde Azul y no conocen en qué fase se encuentran todas las consultorías, creación de departamentos especializados y presupuestos. “Es preocupante la falta de información no solo para los concejales sino para la ciudadania en general”.
-
-Terremoto de magnitud 7,3 sacude Chile
-======================================
-
-Un terremoto de magnitud 7,3 sacudió el noreste de Chile cerca de San Pedro de Atacama, según el USGS, sin riesgo de tsunami. Se sintió también en Perú.
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Un terremoto de magnitud 7,3 sacudió el noreste de Chile cerca de San Pedro de Atacama, causando alarma en la región y también se sintió en Perú.](https://www.elcomercio.com/wp-content/uploads/2024/07/Terremoto-en-Chile.jpg)
-
-Un terremoto de magnitud 7,3 sacudió este jueves 18 de julio, por la noche, **el noreste de Chile**, cerca de San Pedro de Atacama, según el **Instituto Geológico de Estados Unidos (USGS)**.
-
-El terremoto, con epicentro en torno al **Salar de Atacama y a 126 kilómetros de profundidad**, tuvo lugar a la 1.50 hora GMT, indica USGS en su página web.
-
-> Nuevas imágenes que nos envían por terremoto en San Pedro de Atacama en la Región de Antofagasta con una Magnitud de 7.3 Mw, reportan rodados en la Ruta 1 Tocopilla, y corte de suministro eléctrico en algunos sectores [@biobio](https://twitter.com/biobio?ref_src=twsrc%5Etfw) [@chile\_accidente](https://twitter.com/chile_accidente?ref_src=twsrc%5Etfw) [@Louisvasquez23](https://twitter.com/Louisvasquez23?ref_src=twsrc%5Etfw) [@Pabl0Manzanares](https://twitter.com/Pabl0Manzanares?ref_src=twsrc%5Etfw) [pic.twitter.com/toxI4pObc2](https://t.co/toxI4pObc2)
-> 
-> — IEC-180 CONTROL STGO (@fdo2000) [July 19, 2024](https://twitter.com/fdo2000/status/1814135482491519475?ref_src=twsrc%5Etfw)
-
-El **Sistema Nacional de Prevención y Respuesta ante Desastres** (Senapred) cifró la magnitud también en 7,3 grados y a 20 kilómetros al sur de San Pedro de Atacama, indicó que el sismo no revierte riesgos de generar un tsunami en las costas del país.
-
-El sismo también se registró en las regiones sureñas de **Tacna y Arequipa en Perú** causando alarma en la población. Hasta las 22:50 de Ecuador no se ha reportado de daños personales o materiales en esas regiones, aunque los pobladores manifestaron, en las redes sociales, que se sintió también en Arequipa, una región vecina a Tacna y con mayor número de habitantes.
-
-Boric dice que el sismo no deja heridos ni accidentes hasta ahora
------------------------------------------------------------------
-
-El presidente de Chile, **Gabriel Boric**, dijo este jueves que de manera preliminar “no hay reporte de heridos ni accidentes”.
-
-En un mensaje en su cuenta de X, el Mandatario indicó que hay “algunos rodados en la ruta de Calama a Tocopilla” y “cortes de luz en San Pedro de Atacama”.
-
-> Tenemos algunos rodados en la ruta de Calama a Tocopilla y corte de luz en San Pedro de Atacama. No hay reporte de heridos ni accidentes por el momento. Ministra de Defensa se comunicó con Generales a cargo de resguardo de frontera y todo el contingente desplegado está bien.…
-> 
-> — Gabriel Boric Font (@GabrielBoric) [July 19, 2024](https://twitter.com/GabrielBoric/status/1814126978515005464?ref_src=twsrc%5Etfw)
-
-“No hay reporte de heridos ni accidentes por el momento. La ministra de Defensa se comunicó con Generales a cargo de resguardo de frontera y todo el contingente desplegado está bien”, añadió Boric, quien convocó una reunión de emergencia con las autoridades regionales de Antogafasta para “tomar medidas que sean necesarias”.
-
-Según el **Centro Sismológico de Chile**, el movimiento telúrico se registró a las 21:51 hora local (01:51 GMT) y tuvo una profundidad de 165,5 kilómetros.
-
-El Servicio Nacional de Prevención y Respuesta ante Desastres. (Senapred) indicó por su parte que “las características del sismo NO reúnen las condiciones necesarias para generar un tsunami en las costas de Chile”.
-
-Chile está localizado en la zona suroriental del cinturón de fuego del Pacífico, la zona más sísmica del mundo, y sufre cientos de pequeños movimientos telúricos a causa de la subducción de la placa de Nazca bajo la placa Sudamericana.
-
-En 1960, la región meridional chilena de Valdivia sufrió el terremoto más potente registrado en los tiempos modernos, de magnitud 9,6 en la escala abierta de Richter.
-
-Masacre en bus interprovincial deja al menos cuatro asesinados, en Los Ríos
-===========================================================================
-
-El asesinato múltiple se registró en el sector La Aurora, en la provincia de Los Ríos.
---------------------------------------------------------------------------------------
-
-![El bus quedó parado a un costado de la vía tras el ataque armado](https://www.elcomercio.com/wp-content/uploads/2024/07/bus-masacre-los-rios.jpg)
-
-Una **masacre** se registró en el interior de un **bus** de transporte **interprovincial**, en el sector La Aurora, en la provincia de **Los Ríos**.
-
-Según información extraoficial, el vehículo de la **Cooperativa San Cristóbal** cubría la ruta Guayaquil – Tulcán cuando fue interceptado por desconocidos, la noche de este jueves 18 de julio de 2024.
-
-### Más noticias
-
-* [Siniestro en la av. Mariscal Sucre de Quito deja un fallecido](https://www.elcomercio.com/actualidad/quito/siniestro-en-la-av-mariscal-sucre-de-quito-deja-un-fallecido.html "Siniestro en la av. Mariscal Sucre de Quito deja un fallecido")
-* [Vías libres de violencia para los transportistas de Ecuador](https://www.elcomercio.com/opinion/editorial/vias-libres-de-violencia-para-los-transportistas-de-ecuador.html "Vías libres de violencia para los transportistas de Ecuador")
-* [Daniel Noboa mantiene el diálogo con los transportistas, ¿qué pasa con el paro?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-mantiene-dialogo-con-transportistas-que-pasa-con-paro.html "Daniel Noboa mantiene el diálogo con los transportistas, ¿qué pasa con el paro?")
-
-Los individuos abordaron la **unidad 135** y dispararon contra varios de los viajeros. El ataque armado ocurrió pasadas las 20:00.
-
-Producto de las balas, **cuatro personas** **fueron asesinadas**; dos ciudadanos que resultaron heridos fueron trasladados hacia casas de salud cercanas.
-
-Uno de los afectados en la masacre es un **niño** de aproximadamente **10 años**.
-
-Los cuerpos de las víctimas quedaron tendidos sobre el **piso del bus interprovincial**.
-
-Testigos reportaron que los armados **huyeron en motocicletas** tras cometer el crimen.
-
-Tras recibir la alerta de la emergencia, la Policía Nacional se trasladó al lugar para investigar lo sucedido.
-
-Fenacotip se pronunció tras el crimen
--------------------------------------
-
-La Federación Nacional de Cooperativas de Transporte Interprovincial de Pasajeros del Ecuador (**Fenacotip**) lamentó el hecho.
-
-“Nuestra solidaridad a las víctimas de este lamentable suceso ocurrido en un bus de la Cooperativa San Cristóbal. Como Fenacotip, rechazamos y condenamos enérgicamente estos actos delictivos”, manifestó la organización a través de un mensaje en la red social X[.](https://fenacotip-ec.com/ "https://fenacotip-ec.com/")
-
-> Nuestra solidaridad a las víctimas de este lamentable suceso ocurrido en un bus de la Cooperativa San Cristóbal. Como Fenacotip, rechazamos y condenamos enérgicamente estos actos delictivos. [#Inseguridad](https://twitter.com/hashtag/Inseguridad?src=hash&ref_src=twsrc%5Etfw) [#Transporte](https://twitter.com/hashtag/Transporte?src=hash&ref_src=twsrc%5Etfw) [#Transportación](https://twitter.com/hashtag/Transportaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) [#transportepúblico](https://twitter.com/hashtag/transportep%C3%BAblico?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/AHbkkH8AVX](https://t.co/AHbkkH8AVX)
-> 
-> — Fenacotip (@info\_fenacotip) [July 19, 2024](https://twitter.com/info_fenacotip/status/1814135601605611875?ref_src=twsrc%5Etfw)
-
-Este hecho ocurre luego del pedido que hicieron los transportistas por mayor seguridad en las vías.
-
-Ante el anuncio de la Fenacotip de un ‘**apagado de motores**‘ que estaba previsto para el 16 y 17 de julio, el Gobierno se comprometió a establecer mesas de diálogo con este sector y a reforzar los controles policiales y de las Fuerzas Armadas en las carreteras.
-
-Se desconoce si el ataque armado en el bus interprovincial responde a un **robo** o si se trató de un crimen al estilo **sicariato**.
-
-Tomás Peribonio, el nadador de los récords para los Juegos Olímpicos de París 2024
-==================================================================================
-
-Con récords y títulos en su espalda, Tomás Peribonio llega a los Juegos Olímpicos de París 2024 para representar a Ecuador en natación.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Tomás Peribonio durante una de sus pruebas acuáticas en representación de Ecuador antes de los Juegos Olímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/IMG-20240718-WA0051.jpg)
-
-La delegación de Ecuador tendrá 40 atletas en los Juegos Olímpicos de París 2024 y entre ellos se encuentra un especialista en romper récords. David Peribonio representará al país en la categoría de natación y llega con credenciales.
-
-El deportista tricolor de 28 años competirá en el certamen en la categoría de 200 metros combinados de natación. Junto al tricolor, Anicka Delgado y David Farinango -Aguas Abiertas- estarán presentes en la disciplina, pero en distintas categorías.
+Gracias a la victoria, el elenco militar se clasificó para los octavos de final del torneo que organiza la **Federación Ecuatoriana de Fútbol**. En la siguiente ronda, El Nacional se enfrentará al ganador de la llave entre Orense y Deportivo Santo Domingo. 
 
 ### Más noticias:
 
-* [Aimara Nazareno y su lucha constante para llegar a los Juegos Olímpicos](https://www.elcomercio.com/deportes/juegos-olimpicos/aimara-nazareno-atletismo-team-ecuador.html "Aimara Nazareno y su lucha constante para llegar a los Juegos Olímpicos")
-* [Magaly Bonilla llega motivada para los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/atletismo/magaly-bonilla-juegos-olimpicos-paris2024-marcha.html "Magaly Bonilla llega motivada para los Juegos Olímpicos de París 2024")
-* [Alfredo Campo disputará sus terceros Juegos Olímpicos en París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/alfredo-campo-disputara-terceros-juegos-olimpicos-paris-2024.html "Alfredo Campo disputará sus terceros Juegos Olímpicos en París 2024")
-
-Estos serán los segundos Juegos Olímpicos para Tomás Peribonio, quien ya tuvo una participación en Tokio 2020+1. Allí también estuvo en los 200 metros combinados y en los 400, en la primera prueba terminó en el puesto 36; en la segunda, en el 24.
-
-Antes del máximo evento deportivo venidero, el ecuatoriano no solo ha conseguido récords. Este también cuenta con medallas en su haber en otros torneos.
-
-Los récords de Tomás Peribonio
-------------------------------
-
-Tomás Peribonio ha batido marcas de manera constante y ha llegado a superarse a sí mismo. Este cuenta con ocho récords nacionales de piscina larga y seis de piscina corta.
-
-A nivel global, el nadador también ha conseguido destacadas posiciones. En 2018, este fue finalista mundial y se ubicó en la sexta posición.
-
-El medallero del atleta también está complementado por un oro en los Juegos Bolivarianos de 2017. A su vez, Peribonio cuenta con una presea de la misma valía en **Campeonato Sudamericano Absoluto de Deportes Acuáticos de 2021.**
-
-¿Cuándo compite en los Juegos Olímpicos de París 2024?
-------------------------------------------------------
-
-El deportista disputará los 200 metros combinados de natación durante el 28 de julio del 2024. En tal fecha, a las 04:00, el ecuatoriano saltará al aguaen busca de un nuevo récord y de dejar al nombre del país en alto.
-
-La prueba que tendrá abarca la natación de pecho, espalda, estilo mariposa y libre. En el último punto, este tiene libertad para elegir cómo atravesará la piscina.
-
-Siniestro en la av. Mariscal Sucre de Quito deja un fallecido
-=============================================================
-
-El siniestro ocurrió en la av. Mariscal Sucre, la noche de este jueves 18 de julio.
------------------------------------------------------------------------------------
-
-![El siniestro de tránsito se produjo en la av. Mariscal Sucre, a la altura del túnel de San Juan](https://www.elcomercio.com/wp-content/uploads/2024/07/tunel-san-juan-bus-quito.jpg)
-
-Un **fatal siniestro de tránsito** se registró en el centro de Quito, la noche de este jueves 18 de julio de 2024.
-
-Una **motocicleta** se movilizaba por la **av. Mariscal Sucre** cuando se impactó con un **bus** de transporte público.
-
-### Más noticias
-
-* [Siniestros de tránsito en Quito y Guayaquil dejan personas heridas](https://www.elcomercio.com/actualidad/ecuador/siniestro-de-transito-quito-guayaquil-heridos.html "Siniestros de tránsito en Quito y Guayaquil dejan personas heridas")
-* [Los siniestros en la av. Simón Bolívar no cesan en julio](https://www.elcomercio.com/actualidad/quito/avenida-simon-bolivar-siniestros-julio.html "Los siniestros en la av. Simón Bolívar no cesan en julio")
-* [Motociclista quedó atrapado entre árboles tras siniestro en la av. Mariscal Sucre](https://www.elcomercio.com/actualidad/quito/motocicilista-mariscal-sucre-siniestro-quito.html "Motociclista quedó atrapado entre árboles tras siniestro en la av. Mariscal Sucre")
-
-El hecho se registró pasadas las **18:00** en la intersección de esta vía con la calle **Hermano Miguel**, a la altura del **túnel de San Juan**.
-
-Tras recibir la alerta, personeros de la **Policía Nacional**, del Cuerpo de **Bomberos** de Quito y de salud se trasladaron al lugar para brindar su apoyo.
-
-Los Bomberos confirmaron que el conductor de la motocicleta **falleció** en el siniestro.
-
-Debido al hecho, las avenidas **Mariscal Sucre y Universitaria**, en el sector de Miraflores, permanecieron cerradas cerca de **tres horas** mientras los uniformados atendían la emergencia.
-
-La Agencia Metropolitana de Tránsito (**AMT**), quien estuvo a cargo de la movilidad, informó a las **21:00** que estas calles fueron habilitadas y que el **contraflujo** que se realizó en la av. Mariscal Sucre finalizó.
-
-> [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Vía habilitada! [pic.twitter.com/YnBXkrEDFx](https://t.co/YnBXkrEDFx)
-> 
-> — AMTQuito (@AMT\_Quito) [July 19, 2024](https://twitter.com/AMT_Quito/status/1814115020449382776?ref_src=twsrc%5Etfw)
-
-Choques en la av. Mariscal Sucre
---------------------------------
-
-Según datos recogidos por la AMT, de **enero a junio** de 2024, la **av. Mariscal Sucre** es la **segunda vía** donde más choques se producen en la capital[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
-
-Esta avenida, que une el norte con el sur de Quito, registró **172 siniestros** en los primeros seis meses del año; 17 menos que la vía con más siniestros de la ciudad, la **av. Simón Bolívar**.
-
-Este dato se suma a que Quito es el cantón que registra **más fallecidos** a causa de siniestros de tránsito en Ecuador.
-
-Las cifras de 2023 demostraron que en la ciudad **fallecieron 329 personas**, un ciudadano cada 26 horas.
-
-Daniel Noboa visitó Solca de Guayaquil, tras acuerdo de pagos pendientes
-========================================================================
-
-El Gobierno de Daniel Noboa pagó a Solca 16 millones de dólares, entre enero y julio de 2024.
----------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa hizo un recorrido por varias áreas de Solca Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/07/FOTOS-WEB-2024-07-18T214515.404.jpg)
-
-**Daniel Noboa** visitó la **Sociedad de Lucha Contra el Cáncer del Ecuador (Solca)**, núcleo **Guayaquil**, tras acuerdo de pagos pendientes.
-
-El presidente de Solca, **José Jouvín,** invitó al mandatario para hacer un recorrido, este jueves 18 de julio de 2024.
-
-### Más noticias:
-
-* [Solca de Quito retoma atención a pacientes del IESS tras concretar acuerdo](https://www.elcomercio.com/actualidad/negocios/solca-quito-acuerdo-deuda-pagos.html "Solca de Quito retoma atención a pacientes del IESS tras concretar acuerdo")
-* [Presidente del IESS se excusó ante el llamado de la Asamblea frente a la crisis con Solca](https://www.elcomercio.com/actualidad/politica/salud-iess-asamblea-crisis-solca.html "Presidente del IESS se excusó ante el llamado de la Asamblea frente a la crisis con Solca")
-
-El presidente Daniel Noboa recorrió las áreas de quimioterapia, radioterapia, tomógrafos, emergencia pediátrica y otras.
-
-Hace algunas semanas, Solca decidió suspender la atención a los pacientes del **Instituto Ecuatoriano de Seguridad Social (IESS)** por las deudas pendientes del Estado con la entidad.
-
-Después, la Sociedad, especializada en enfermedades oncológicas, logró un acuerdo con el Gobierno para levantar la medida.
-
-Entonces, Jouvín señaló que agradecen el compromiso de la Presidencia de la República por “priorizar una problemática tan sensible”.
-
-Los pagos del Gobierno de Daniel Noboa a Solca
-----------------------------------------------
-
-El Gobierno de Daniel Noboa, a través del **Ministerio de Economía y Finanzas (MEF)**, pagó 16,1 millones de dólares a Solca, entre enero y julio de 2024.
-
-La mayoría de estos recursos correspondían a la cancelación de deudas pendientes de administraciones anteriores.
-
-En cuanto a pagos mediante el **Instituto Ecuatoriano de Seguridad Social (IESS)**, en lo que va de este año, se ha cancelado 57 millones de dólares a Solca.
-
-El Gobierno informó que, el pasado 18 de junio, se estableció **un acuerdo de pagos** para solventar la  
-deuda heredada por anteriores gobiernos y así garantizar la atención oncológica.
-
-En la misma línea de garantizar el derecho de la salud, a fines de junio, el Gobierno dispuso la asignación de más de 100 millones de dólares para pagos y atención prioritaria en este sector.  
-
-El perro que sobrevivió a un voraz incendio es ‘vocero’ de los Bomberos de Quito
-================================================================================
-
-Este can sobrevivió a un devastador incendio en 2023. Hoy aparece para generar conciencia sobre los riesgos de quemar bosques.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Chaupi sobrevivió a un incendio. Foto cortesía: Cuerpo de Bomberos del Distrito Metropolitano de Quito](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo77.jpg)
-
-‘J**untos contra el fuego**‘ es el nombre de la **campaña** que presentó el **Cuerpo de Bomberos del Distrito** Metropolitano de Quito; tiene varias acciones que involucran a los ciudadanos no solo en el cuidado del entorno, sino también en la corresponsabilidad para denunciar al 911 si ven incendios forestales o a las personas que los provoquen.
-
-### Más noticias
-
-* [Quito tiene un perro callejero por cada 19 habitantes](https://www.elcomercio.com/tendencias/perros-callejeros-quito-esterilizacion-adopcion.html "https://www.elcomercio.com/tendencias/perros-callejeros-quito-esterilizacion-adopcion.html")
-* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
-* [Multa ejemplar para un caso de crueldad animal en Ecuador](https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link")
-
-### **¿Quién es Chaupi, el perro bombero?**
-
-**Chaupi** es el **perro** que sobrevivió a un incendio forestal en **Quito**; con su historia, el **[Cuerpo de Bomberos](https://www.bomberosquito.gob.ec/ "https://www.bomberosquito.gob.ec/")** del Distrito Metropolitano de Quito busca generar conciencia a la ciudadanía sobre los riesgos de quemar bosques y parques.
-
-El 2 de agosto de 2023, mientras múltiples puntos de la ciudad estaban en llamas, los bomberos rescataron a **Chaupi**, quien sufrió graves quemaduras en gran parte de su cuerpo y sus patas.
-
-A pesar del peligro, este valiente animalito logró encontrar una manera de escapar entre el fuego y pedir ayuda.
-
-### **Así fue el rescate del Chaupi, el perro bombero**
-
-Tras su rescate, los **bomberos** lo llevaron al veterinario y se encargaron de sus cuidados y gastos médicos. Durante su recuperación, lo visitaron regularmente, y una vez que estuvo listo para volver a una vida normal, el jefe del Cuerpo de Bomberos, Esteban Cárdenas, decidió darle un hogar en la **Comandancia**, ya que el perrito estaba solo y no tenía familia.
-
-Hoy, **Chaupi** no solo ha encontrado un hogar, sino que se ha convertido en un miembro honorario del Cuerpo de Bomberos.
-
-Desde ahora, llevará su mensaje junto con el de muchos animales de los bosques de Quito para sensibilizar, informar y educar a la comunidad sobre la importancia de prevenir incendios forestales, que no solo causan daños materiales, sino que también ponen en riesgo la vida de innumerables animales que habitan en estos ecosistemas.
-
-Gobierno de Daniel Noboa recibe préstamo millonario del CAF
-===========================================================
-
-El préstamo fue suscrito por representantes del CAF y del Ministerio de Economía y Finanzas.
---------------------------------------------------------------------------------------------
-
-![El Gobierno detalló en que se invertirá el dinero recibido del CAF](https://www.elcomercio.com/wp-content/uploads/2024/07/caf-noboa.jpg)
-
-El Banco de Desarrollo de América Latina y el Caribe (**CAF**) realizó un **millonario préstamo** a Ecuador a través de **seis contratos de crédito** firmados este jueves 18 de julio de 2024.
-
-Según detalló el Ministerio de Economía y Finanzas, los **483 millones de dólares** que recibirá el Gobierno serán invertidos en “políticas y obras de beneficio ciudadano”.
-
-### Más noticias
-
-* [Este es el peso de los subsidios en las finanzas públicas ecuatorianas](https://www.elcomercio.com/actualidad/negocios/peso-subsidios-finanzas-publicas-ecuatorianas.html "Este es el peso de los subsidios en las finanzas públicas ecuatorianas")
-* [Daniel Noboa llega a Durán con bonos, créditos y operativos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-duran-bonos-creditos-y-operativos.html "Daniel Noboa llega a Durán con bonos, créditos y operativos")
-* [Gobierno de Daniel Noboa recibirá millonario crédito del BID](https://www.elcomercio.com/actualidad/negocios/gobierno-daniel-noboa-recibira-credito-bid.html "Gobierno de Daniel Noboa recibirá millonario crédito del BID")
-
-De este monto, **250 millones de dólares** se destinarán al programa económico del Estado para potenciar las políticas públicas de empleo juvenil, igualdad de género e inclusión social.
-
-La otra parte del dinero, **233 millones de dólares**, se utilizará en obras de **vialidad**, **dotación de agua** y **saneamiento** de cinco gobiernos autónomos descentralizados (GAD).
-
-Asignación para los GAD
------------------------
-
-Los **GAD** beneficiados con este financiamiento son aquellos que previamente recibieron la aprobación de las **garantías soberanas** por parte del Ministerio de Economía y Finanzas.
-
-La distribución de los 233 millones de dólares se asignará de la siguiente forma:
-
-* Programa de conectividad vial para el desarrollo productivo de **Manabí** (43 millones)
-* Programa de desarrollo productivo y social de **Guayas** (50 millones)
-* Programa de desarrollo integral de **Pichincha** (41 millones)
-* Programa de fortalecimiento de la infraestructura urbana de **Guayaquil** (49 millones)
-* Proyecto hidrosanitario de la zona norte urbana de **Portoviejo** (50 millones)
-
-Además del monto total, el Gobierno de Ecuador recibirá del CAF, **250 mil dólares** no reembolsables como “cooperación técnica para atender las necesidades de los estragos de la temporada invernal”.
-
-Los contratos de crédito fueron suscritos por **Juan Carlos Vega**, ministro de Economía y Finanzas, y el presidente ejecutivo del CAF, **Sergio Díaz**.
-
-Las autoridades no detallaron los **plazos e intereses** de este nuevo préstamo[.](https://www.caf.com/ "https://www.caf.com/")
-
-> 🗞️ [#ComunicadoMEF](https://twitter.com/hashtag/ComunicadoMEF?src=hash&ref_src=twsrc%5Etfw) | [@JuanCVegaEC](https://twitter.com/JuanCVegaEC?ref_src=twsrc%5Etfw), ministro de [@FinanzasEc](https://twitter.com/FinanzasEc?ref_src=twsrc%5Etfw), y [@sergiodigra](https://twitter.com/sergiodigra?ref_src=twsrc%5Etfw), presidente ejecutivo de [@AgendaCAF](https://twitter.com/AgendaCAF?ref_src=twsrc%5Etfw), firmaron 6⃣ contratos de crédito por USD 4⃣8⃣3⃣ millones para impulsar políticas y obras de beneficio ciudadano.  
->   
-> ⏹️: [https://t.co/AmLqXQgvEF](https://t.co/AmLqXQgvEF)[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JZVxsrvzYC](https://t.co/JZVxsrvzYC)
-> 
-> — Economía Finanzas Ec (@FinanzasEc) [July 18, 2024](https://twitter.com/FinanzasEc/status/1814057425164546167?ref_src=twsrc%5Etfw)
-
-Crédito de 200 millones de dólares del BID
-------------------------------------------
-
-El préstamo del CAF se suma a otro reciente que recibió el país del **Banco de Desarrollo del Ecuador** (BDE).
-
-El convenio firmado el 2 de julio de 2024 acordó un crédito **200 millones de dólares** que serán invertidos en programas de agua potable, saneamiento y mejoramiento de las **vías** en Ecuador.
-
-De este valor, el 60% (**120 millones de dólares**) se utilizará en el **Programa de Inversiones para Agua Potable y Saneamiento**.
-
-Mientras que el 40% (80 millones de dólares) restante será destinado al **Programa de Caminos Rurales Provial II**.
-
-¿Qué pasó con Argentina en la lesión de Lionel Messi?
-=====================================================
-
-Rodrigo de Paul, jugador de la Selección de Argentina, reveló que pasó en la final de la Copa América tras la lesión de Lionel Messi.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi y Rodrigo de Paúl tras ganar la Copa América con Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo-68.jpg)
-
-El centrocampista argentino **Rodrigo de Paul** reveló este jueves que, tras ver al capitán de su selección, **Lionel Messi**, llorando en el banquillo a causa de la lesión que le impidió terminar la final de Copa América, el resto de jugadores se unieron para “ganar por él”.
-
-En el minuto 66 del partido contra **Colombia** en Miami, el jugador de 37 años debió ser sustituido por una dolencia en el tobillo derecho que lo llevó al banquillo, donde las imágenes de televisión mostraron a Messi llorando.
-
-### Más noticias:
-
-* [¿Cuál es la lesión de Lionel Messi tras Copa América?](https://www.elcomercio.com/deportes/lionel-messi-resultado-lesion-copa-america.html "¿Cuál es la lesión de Lionel Messi tras Copa América?")
-* [La final de la Copa América en Miami dejó 27 detenidos](https://www.elcomercio.com/deportes/copa-america/final-copa-america-caos-entrada.html "La final de la Copa América en Miami dejó 27 detenidos")
-* [Argentina vivió una noche de fiesta por celebraciones de Copa América](https://www.elcomercio.com/deportes/copa-america-celebraciones-argentina.html "Argentina vivió una noche de fiesta por celebraciones de Copa América")
-
-El centrocampista del **Atlético de Madrid** dijo en una entrevista con el medio argentino Olga que no es usual que las pantallas de los estadios muestren imágenes como esa, pero que la visión del capitán entre lágrimas hizo que los jugadores sintieran que tenían que ganar por él.
-
-Toda Argentina por Lionel Messi
--------------------------------
-
-“Cuando salió Leo no sé si pensamos: ‘Uy, cagamos’, d**ecís ‘la \*\*\*\* madre’, salió el que frota la lámpara. Y cuando vemos la imagen se genera en la gente un griterío total. Nosotros lo vimos y dijimos: ‘Es por él’. Yo siento que fue por é**l”, expresó De Paul.
-
-El exjugador de Racing Club, de 30 años, acumuló **cuatro títulos** seguidos con la selección: Copa América 2021, Finalissima 2022, Mundial 2022 y Copa América 2024.
-
-El **mediocentro** afirmó que había disfrutado mucho la última conquista porque le ha proporcionado “paz”, aunque no detalló por qué.
-
-A su regreso a **Argentina**, De Paul pasó por un entrenamiento del Racing Club, en el que se le pudo ver conversando con miembros de la entidad y con el actual técnico del equipo, Gustavo Costas, según publicó la Academia en sus redes sociales. 
-
-Asamblea inició el trámite de juicio político contra Fernando Muñoz, juez del TCE
-=================================================================================
-
-El correísmo quiere un juicio político contra Fernando Muñoz, quien tramita denuncia contra la 'Liga Azul', del Cpccs.
-----------------------------------------------------------------------------------------------------------------------
-
-![Fernando Muñoz, vocal del TCE con solicitud de juicio político en su contra calificada por el CAL en la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/07/FOTOS-WEB-2024-07-18T191616.085.jpg)
-
-La Asamblea inició trámite de juicio político contra **Fernando Muñoz**, juez del **Tribunal Contencioso Electoral (TCE).**
-
-El **Consejo de Administración Legislativa (CAL)** calificó el juicio político contra el vocal del TCE, solicitado por el correísmo.
-
-### Más noticias:
-
-* [TCE admite a trámite denuncia contra consejeros del Cpccs afines al correísmo](https://www.elcomercio.com/actualidad/politica/tce-admite-tramite-denuncia-contra-consejeros-cpccs-afines-correismo.html "TCE admite a trámite denuncia contra consejeros del Cpccs afines al correísmo")
-* [Juez del TCE archivó denuncia contra Verónica Abad](https://www.elcomercio.com/actualidad/politica/juez-tce-archivo-denuncia-contra-veronica-abad-primera-instancia.html "Juez del TCE archivó denuncia contra Verónica Abad")
-
-La calificación del CAL da paso a que la Comisión de Fiscalización inicie con el proceso de juicio político, establezca un cronograma de pruebas y comparecencias.
-
-Todo, con el objetivo de emitir un informe recomendando al Pleno de la Asamblea el enjuiciamiento del funcionario o no.
-
-De recomendar el juicio político, el Pleno de la Asamblea necesita de 92 votos para la censura y destitución.
-
-Correísmo plantea juicio político contra Fernando Muñoz con tres causales
--------------------------------------------------------------------------
-
-El asambleísta correísta **Roberto Cuero (RC)** planteó un juicio político contra el vocal del TCE, Fernando Muñoz, con tres causales.
-
-Cuero sostiene que Muñoz ha vulnerado la independencia judicial al haber intervenido en una causa.
-
-Además, que ha vulnerado el principio de celeridad procesal y que, supuestamente, se ha arrogado funciones.
-
-Roberto Cuero señaló que el juez Muñoz ha incurrido en acciones que justifican plenamente un juicio político, “afectando la independencia y transparencia del proceso electoral”, en el país.
-
-Fernando Muñoz tramita la denuncia contra los consejeros del Cpccs de la ‘Liga Azul’ afín al correísmo
-------------------------------------------------------------------------------------------------------
-
-Actualmente, el juez del TCE, Fernando Muñoz, tramita la denuncia en contra cuatro consejeros del Consejo de Participación Ciudadana y Control Social (Cpccs).
-
-Estos consejeros son: **Yadira Saltos y Augusto Verduga**, principales; y **Vielka Párraga** con **Eduardo Franco Loor**, suplentes.
-
-Los cuatro hicieron campaña con los colores de la Revolución Ciudadana, con la intervención del líder del correísmo y expresidente Rafael Correa.
-
-Son conocidos como los consejeros de la **“Liga Azul”**.
-
-Los excandidatos al Cpccs, **Pamela Troya y Santiago Becdach** presentaron una denuncia contra estos consejeros porque, al igual que el destituido Alembert Vera, habrían recibido auspicio del correísmo.
-
-La denuncia fue aceptada a trámite en el TCE y está a cargo del juez Fernando Muñoz, quien difirió la audiencia por pedido de una denunciante más.
-
-La abogada **Mónica Jaramillo**, presidenta del Observatorio Control Ciudadano, denunció a estos consejeros por los mismos motivos.
-
-Los tres buscan una sanción por infracción electoral grave.
-
-Liga de Quito golea a Always Ready en Copa Sudamericana
-=======================================================
-
-Liga de Quito goleó a Always Ready de Bolivia en la Copa Sudamericana y tiene un pie en los octavos de final.
--------------------------------------------------------------------------------------------------------------
-
-![Álex Arce de Liga de Quito festeja uno de sus goles ante Always Ready en la Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/07/a9a3ed74e92d7dbad24dff580ba3fc353b3b78b2.jpg)
-
-**Liga de Quito** y Always Ready se midieron los dieciseisavos de final de la Copa Sudamericana. A partir de las 19:30 de este jueves 18 de julio del 2024, el equipo debutó en el torneo en este 2024.
-
-El conjunto albo recibió a los bolivianos en el Estadio Rodrigo Paz Delgado de Quito, Ecuador. Los azucenas arribaron al compromiso tras finalizar en la tercera posición de la **Copa Libertadores**, lo cual les permitió obtener el boleto hacia el segundo torneo de mayor importancia.
-
-### Más noticias:
-
-* [¿Cuál es la alineación de Liga de Quito ante Always Ready?](https://www.elcomercio.com/deportes/alineacion-liga-quito-always-ready-sudamericana.html "¿Cuál es la alineación de Liga de Quito ante Always Ready?")
-* [¿Con quién juega Liga de Quito en Sudamericana?](https://www.elcomercio.com/deportes/futbol/con-quien-juega-liga-quito-sudamericana.html "¿Con quién juega Liga de Quito en Sudamericana?")
-* [¿De dónde es Always Ready, rival de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/always-ready-rival-liga-quito.html "¿De dónde es Always Ready, rival de Liga de Quito?")
-
-El compromiso, no solo marcó el estreno del conjunto universitario en el torneo, sino también el de su entrenador de manera oficial. **Pablo ‘Vitamina’ Sánchez** debutó oficialmente con el equipo y frente a sus hinchas.
-
-Para el cotejo, el entrenador argentino optó por un esquema de **4-2-3-1**. A su vez, dio la posibilidad de debutar al chileno Fernando Cornejo, refuerzo del plantel capitalino que llegó gracias a su pedido, pues coincidieron previeamente.
-
-En el caso de **Always Ready**, este arribo tras finalizar segundo en su grupo de la Copa Sudamericana. Los bolivianos, acostumbrados a la altura, también contaron con dos ecuatorianos en su plantilla: Luis Caicedo y José Carabalí.
-
-Liga de Quito se puso adelante pronto
--------------------------------------
-
-Después del pitazo inicial, a **Liga de Quito** no le costó mucho ponerse en ventaja en el marcador. El equipo de ‘Vitamina’ se caracterizó por su vocación ofensiva y el permanente asedio sobre sus adversarios.
-
-El trabajo de los albos dio frutos y el delantero Álex Arce apareció a los 16 minutos. El máximo goleador del conjunto azucena en la temporada recibió la pelota en el área chica en zona de goleador y definió tras una jugada con toques exquisitos entre **Jhojan Julio y Leonel Quiñónez**.
-
-Con el gol a favor, el club blanco fue por más y a los 27′, **Ricardo Adé** amplió el marcador y puso el 2-0. El defensa central haitiano encontró una pelota libre en el área y sacó el remate que puso su primero gol con Liga de Quito y desde su arribo al fútbol ecuatoriano.
-
-Uno más para los albos y un tanto anulado a Always Ready
---------------------------------------------------------
-
-El segundo tiempo de la ‘U’ fue arrollador. Con la ventaja en el marcador, el conjunto de **‘Vitamina’ Sánchez** mantuvo el ímpetu y un nombre más se sumó a la lista de goleadores en el compromiso.
-
-A los 52 minutos, tras un remate desde fuera del área que rebotó en un defensor, José Quintero interceptó el balón y sacó un pase rasante en diagonal para **Jhojan Julio**. El ecuatorino estaba en el área y sacó un remate cruzado que puso el 3-0.
-
-Always Ready parecía conseguir un gol a los 77′ gracias a Cristian Cañonzales. Un error en la zona defensiva propició la llegada de los bolivianos, sin embargo, el autor del tanto se encontraba en posición adelantada. El VAR revisó la jugada y no convalidó el tanto.
-
-Con los tres goles de ventaja, el 25 de julio del 2024 a las 19:30, Liga de Quito se presentará en El Alto (Bolivia) para la definición de la serie.
-
-Alineaciones de Liga de Quito y Always Ready en Copa Sudamericana
------------------------------------------------------------------
-
-**Liga de Quito**: Alexander Domínguez (Arquero); José Quintero, Ricardo Adé, Richard Mina y Leonel Quiñónez (Defensas); Óscar Zambrano, Marco Angulo y Fernando Cornejo (Volantes); Jhojan Julio, Álex Arce y Lisandro Alzugaray (Delanteros).
-
-**Always Ready**: Alain Baroja (Arquero); Pablo Vaca, Diego Medina, Marcelo Suárez, Luis Caicedo y Héctor Cuellar (Defensas); Robson Matheus, José Carabalí, Adalid Terrazas y Karl Mboudou (Volantes); Cristian Cañozales (delantero).
-
-Pugna entre Aquiles Alvarez y Daniel Noboa crece tras sus recientes declaraciones
-=================================================================================
-
-Daniel Noboa: 'Yo cumplí mis metas económicas (...) no como otros pillos que han contrabandeado combustible'
-------------------------------------------------------------------------------------------------------------
-
-![El distanciamiento entre Alvarez y Noboa se ha evidenciado en varias ocasiones](https://www.elcomercio.com/wp-content/uploads/2024/07/NOBOA-ALVAREZ.jpg)
-
-El presidente **Daniel Noboa** aprovechó su visita a la provincia de **Los Ríos**, este jueves 18 de julio de 2024, para referirse a sus **adversarios políticos**.
-
-El primer mandatario cumplió con una agenda de varias actividades en la provincia, que incluyó la entrega de **10,2 millones de dólares** para **obras de viabilidad** y una reunión del **Gabinete Sectorial** de Infraestructura, Energía y Medio Ambiente que lideró en Babahoyo.
-
-### Más noticias
-
-* [Gobierno logra acuerdo para renegociar el contrato del puerto de Manta](https://www.elcomercio.com/actualidad/negocios/puerto-manta-acuerdo-gobierno-agunsa.html "Gobierno logra acuerdo para renegociar el contrato del puerto de Manta")
-* [Daniel Noboa entregó financiamientos y dirigió gabinete en Los Ríos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-entrego-financiamientos-y-dirigio-gabinete-en-los-rios.html "Daniel Noboa entregó financiamientos y dirigió gabinete en Los Ríos")
-* [Daniel Noboa: ‘El viejo Ecuador quiere que Durán siga siendo una sede del narcotráfico’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-duran-progreso-narcotrafico-operativos.html "Daniel Noboa: ‘El viejo Ecuador quiere que Durán siga siendo una sede del narcotráfico’")
-
-Justamente, en el evento de entrega de recursos públicos, Noboa dio un discurso en el que, además de comprometerse con “el futuro de la provincia”, se refirió indirectamente a la pugna que mantiene con el alcalde de Guayaquil, **Aquiles Alvarez**.
-
-Durante su intervención, el presidente dijo: “**Estoy aquí para servir, yo cumplí con mis metas económicas, gracias a Dios me lo he ganado trabajando, no como otros pillos que lo que han hecho es contrabandear combustible**“.
-
-Si bien el funcionario no mencionó a Alvarez, sus palabras podrían estar relacionadas con la **discusión pública** que mantiene con el alcalde por el desacuerdo de la **garantía soberana** comprometida para **Monte Sinaí**.
-
-Pugna entre Daniel Noboa y Aquiles Alvarez
-------------------------------------------
-
-El distanciamiento entre **Daniel Noboa y Aquiles Alvarez** parte, de raíz, de sus **tendencias políticas**.
-
-**Más del tema**
-
-* [Gobierno denuncia presunta comercialización ilegal de combustibles, ¿quiénes están implicados?](https://www.elcomercio.com/actualidad/politica/gobierno-combustible-presunta-comercializacion-ilegal-implicados.html "Gobierno denuncia presunta comercialización ilegal de combustibles, ¿quiénes están implicados?")
-
-Por un lado, el presidente llegó al máximo cargo del Ecuador por el partido de derecha Acción Democrática Nacional (**ADN**); mientras que el alcalde logró liderar la ciudad de Guayaquil apoyado por el movimiento correísta **Revolución Ciudadana**; aunque este último ha mostrado su deseo de alejarse de su partido.
-
-El **primer roce público** que mostraron Noboa y Alvarez fue en octubre de 2023, en las fiestas por la Independencia de la ciudad.
-
-En ese momento, el alcalde mostró su molestia, por lo que a su criterio fue un intento de **proselitismo político** por parte del entonces candidato a la Presidencia, quien realizó un mitin cercano al lugar donde se realizaba la sesión solemne.
-
-Denuncia contra Fuelcorp
+* [El Nacional debuta en la Copa Ecuador 2024](https://www.elcomercio.com/deportes/futbol/el-nacional-debuta-en-la-copa-ecuador.html "El Nacional debuta en la Copa Ecuador 2024")
+* [Aucas goleó y eliminó a La Castellana de la Copa Ecuador](https://www.elcomercio.com/deportes/aucas-la-castellana-copa-ecuador.html "Aucas goleó y eliminó a La Castellana de la Copa Ecuador")
+* [La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa](https://www.elcomercio.com/deportes/futbol/copa-ecuador-partidos-dieciseisavos-final.html "La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa")
+
+El Nacional sufrió mucho
 ------------------------
 
-La disputa se agravó con la denuncia que hizo la Agencia de Regulación y Control de Energía y Recursos Naturales no Renovables contra la empresa **Fuelcorp S. A.** por una presunta **comercialización ilegal de combustibles**.
+El primer tiempo en el Estadio José Silva Romo, en la ciudad de Baños, Tungurahua, fue una **pesadilla** **para el Nacional**.
 
-**Más del tema**
+Los militares **fueron superados en intensidad** e idea de juego por su rival Baños Ciudad de Fuego, que estuvo más lúcido.
 
-* [Aquiles Alvarez niega que denuncia de Daniel Noboa esté dirigida a él](https://www.elcomercio.com/actualidad/politica/aquiles-alvarez-denuncia-daniel-noboa.html "Aquiles Alvarez niega que denuncia de Daniel Noboa esté dirigida a él")
+Pese a que, El Nacional estuvo muy incomodó, se adelantó en el marcador gracias a una genialidad de **Jawer** **Guisamano**, que se unió hace poco al club.
 
-La denuncia presentada el viernes 12 de julio en Fiscalía argumentó que se detectó que Fuelcorp habría adquirido productos hidrocarburíficos de cuatro **personas jurídicas no autorizadas**. En este grupo constan las gasolineras **Codepesa Grasgrupco**, compañía de la familia **Alvarez**.
+El volante sacó un derechazo a media distancia y la guardó en el ángulo del arco.
 
-Codepesa es una empresa familiar que la conforman el alcalde, sus hermanos y otras seis personas naturales y jurídicas.
-
-El alcalde de Guayaquil, **Aquiles Alvarez**, reaccionó afirmando que la denuncia es producto de una retaliación por la garantía soberana para que el Municipio acceda a un crédito del Banco de Desarrollo de América Latina y el Caribe (**CAF**).
-
-> ¡Haremos historia en Monte Sinaí! 💪  
+> ¡GOOOL DE EL NACIONAL! 🔥🔴  
 >   
-> Hoy, el alcalde [@aquilesalvarez](https://twitter.com/aquilesalvarez?ref_src=twsrc%5Etfw), recorrió las calles de este sector para garantizar que sus pedidos serán una realidad.  
+> ⚽ Guisamano enganchó y sacó un TREMENDO derechazo que se metió en ángulo.  
 >   
-> Miles de familias se beneficiarán de contar con agua potable en sus hogares.  
->   
-> Luchemos juntos por una [#CiudadDeTodos](https://twitter.com/hashtag/CiudadDeTodos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/9SGDqbdO5D](https://t.co/9SGDqbdO5D)
+> 🎙️ [@FPHidalgo](https://twitter.com/FPHidalgo?ref_src=twsrc%5Etfw), [@CarlosAndresMN](https://twitter.com/CarlosAndresMN?ref_src=twsrc%5Etfw) y [@sambaalvaradoc](https://twitter.com/sambaalvaradoc?ref_src=twsrc%5Etfw)[#CopaEcuadorEnDSPORTS](https://twitter.com/hashtag/CopaEcuadorEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#CopaEcuadorDIRECTVPlayGreen](https://twitter.com/hashtag/CopaEcuadorDIRECTVPlayGreen?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/iRgCdWI0Wt](https://t.co/iRgCdWI0Wt)
 > 
-> — Muy Ilustre Municipalidad de Guayaquil (@alcaldiagye) [July 9, 2024](https://twitter.com/alcaldiagye/status/1810506857686966293?ref_src=twsrc%5Etfw)
+> — DSPORTS (@DSports) [July 21, 2024](https://twitter.com/DSports/status/1814820030347132994?ref_src=twsrc%5Etfw)
 
-Garantía soberana para Monte Sinaí
-----------------------------------
+Pese a la anotación, **El Nacional nunca mejoró**, mientras que, Baños Ciudad de Fuego se mantuvo concentrado e intentó igualar el marcador.
 
-Para Alvarez, todo arrancó luego de confrontar al gobierno de **Daniel Noboa** y mencionar que **“no hay Estado”**.
+Para la segunda mitad, el conjunto local sorprendió con un gol de camerino.
 
-La polémica gira en torno a una **garantía soberana** comprometida y firmada por el Gobierno en favor de la Alcaldía.
+**Duffer** **Carabalí**, el 10 de Baños Ciudad de Fuego, igualó el cotejo, con un remate cruzado a media distancia, con complicidad de Leodán Chalá, arquero del El Nacional, que tuvo una floja reacción.
 
-Este compromiso estará destinado para la construcción del **quinto acueducto** en el sector de Monte Sinaí, que una vez sea adjudicado, tardará 18 meses en finalizarse.
+> ¡GOOOL DE BAÑOS CIUDAD DE FUEGO! 🔥  
+>   
+> ⚽ Carabali sacó el zurdazo y puso el 1 a 1 ante El Nacional.  
+>   
+> 🎙️ [@FPHidalgo](https://twitter.com/FPHidalgo?ref_src=twsrc%5Etfw), [@CarlosAndresMN](https://twitter.com/CarlosAndresMN?ref_src=twsrc%5Etfw) y [@sambaalvaradoc](https://twitter.com/sambaalvaradoc?ref_src=twsrc%5Etfw)[#CopaEcuadorEnDSPORTS](https://twitter.com/hashtag/CopaEcuadorEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#CopaEcuadorDIRECTVPlayGreen](https://twitter.com/hashtag/CopaEcuadorDIRECTVPlayGreen?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OXjWY0pHzy](https://t.co/OXjWY0pHzy)
+> 
+> — DSPORTS (@DSports) [July 21, 2024](https://twitter.com/DSports/status/1814832216146325778?ref_src=twsrc%5Etfw)
 
-**Daniel Noboa**, en un enlace radial del 8 de julio, dijo que no es obligación del Gobierno dar la **garantía soberana**.
+El elenco de Baños estuvo cerca del batacazo a los 80 minutos, con un centro raso, que no aprovecharon.
 
-Además, apuntó que **no se trata solo de firmar un papel**, pues, compromete la capacidad de endeudamiento del **Estado**.
+Al final el partido terminó en 1-1, y se fue a los penales.
 
-Por su parte, Alvarez ha mostrado su inconformidad con la demora en el cumplimiento de la garantía soberana, que se ha retrasado por **cuatro meses**.
+En los penales El Nacional ganó 3-1 y avanzó a la siguiente ronda.
 
-Distanciamiento entre Alvarez y Noboa
--------------------------------------
+Los premios de la Copa Ecuador
+------------------------------
 
-En declaraciones brindadas en Radio Centro, este miércoles 17 de julio, Aquiles Alvarez habló del **distanciamiento** que mantiene con Daniel Noboa.
+El campeón representará al país en la **Copa Libertadores 2025** con la denominación de Ecuador 4. Irá a la primera fase y asegurará, tomando en cuenta los montos de 2024, de 400 000  dólares.
 
-Al ser consultado sobre la **mala relación** que existe entre la Alcaldía y el Gobierno, el alcalde dijo:
+Otro premio deportivo del monarca de la Copa Ecuador, **será disputar la Supercopa Ecuador** con el campeón de la Liga Pro 2024.
 
-“**Es público y notorio** (el distanciamiento), **aquí hay una persecución** (…) nosotros con valentía afrontaremos el tema, y no vamos a tirar cortinas de humo, ni me voy a prestar como ‘pato’ (…) del Gobierno”, señaló.
+En lo económico, la [Copa Ecuador repartirá 1,6 millones de dólares](https://x.com/CopaEcuador/status/1812991803077107887). El ganador sumará a sus arcas 340 000 dólares.
 
-“Nosotros hemos demostrado que siempre estamos con las puertas abiertas con el Gobierno (…) **pero si uno tiene que defender las causas y eso le molesta al Gobierno**, que podemos hacer”, puntualizó.
+En Calacalí, la gastronomía es un atractivo vacacional que afina los sentidos
+=============================================================================
 
-Dos sesiones solemnes por las Fiestas Julianas
-----------------------------------------------
+Un restaurante de Calacalí tiene una propuesta un poco peculiar. Una opción para estas vacaciones.
+--------------------------------------------------------------------------------------------------
 
-La rivalidad evidenciada entre Alvarez y Noboa se reflejará el jueves **25 de julio**, en el cierre de las **Fiestas Julianas de Guayaquil**.
+![Chef Alfredo Guamaní, dueño de un restaurante curioso de Calacalí. Foto: EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Gatronomia-Calacali.jpg)
 
-Ese día se prevé **dos reuniones solemnes** por los **489 años de fundación** de la ciudad, una por parte de la Alcaldía y otra por la **Gobernación del Guayas**.
-
-Aquiles Alvarez realizará su sesión en el Palacio de Cristal, mientras que Daniel Noboa participará de la reunión organizada entre los miembros del Gobierno.
-
-Ambas autoridades no han brindado mayor información de los eventos.
-
-Prefecto de Manabí, Leonardo Orlando
-------------------------------------
-
-En el contexto de la disputa entre Daniel Noboa y Aquiles Alvarez, el alcalde también se refirió al Prefecto de Manabí, **Leonardo Orlando**, quien es parte de su mismo movimiento político.
-
-“**Al presidente le molesta que se lo confronte**, cuatro meses esperando por una garantía soberana (…) con todo el cariño, pero con Leonardo Orlando **yo estoy decepcionado** por estar detrás del presidente **rogándole** (…) hace un show por un papel cuando es una obligación, a mí no me parece”, comentó el alcalde.
-
-Por su parte, el Prefecto solo se limitó a responder que estos comentarios le parecieron “**innecesarios e inexplicables”.**
-
-“Eso no se hace a un compañero (…) fue absolutamente innecesario, no es noble (…) ya debemos dejar la violencia y el odio político”, refirió Orlando.
-
-¿Cuál es la alineación de Liga de Quito ante Always Ready?
-==========================================================
-
-Pablo 'Vitamina' Sánchez puso su primera alineación como DT de Liga de Quito para enfrentar a Always Ready en Copa Sudamericana.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Óscar Zambrano estará presente en la alineación de Pablo 'Vitamina' Sánchez para Liga de Quito en Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo-67.jpg)
-
-**Liga de Quito** se enfrenta ante **Always Ready** por los dieciseiavos de final de la Copa Sudamericana durante este jueves 18 de julio a las 19:30. El conjunto azucena tendrá su debut en el certamen durante este 2024 tras haber sido eliminado de la Copa Libertadores.
-
-Los ecuatorianos alcanzaron la clasificación tras finalizar terceros en su grupo dentro del torneo de máxima importancia. En la última fecha, el equipo venció al **Universitario** de Perú y se hizo con el penúltimo puesto de la llave.
-
-### Más noticias:
-
-* [¿Con quién juega Liga de Quito en Sudamericana?](https://www.elcomercio.com/deportes/futbol/con-quien-juega-liga-quito-sudamericana.html "¿Con quién juega Liga de Quito en Sudamericana?")
-* [¿De dónde es Always Ready, rival de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/always-ready-rival-liga-quito.html "¿De dónde es Always Ready, rival de Liga de Quito?")
-* [Liga de Quito tiene dos bajas para la Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/liga-quito-tiene-dos-bajas-para-copa-sudamericana.html "Liga de Quito tiene dos bajas para la Copa Sudamericana")
-
-A diferencia de **Liga de Quito**, Always Ready arriba al compromiso tras finalizar en el segundo puesto de la fase de grupos de la Copa Sudamericana. Los bolivianos disputarán el partido de ida en el Estadio Rodrigo Paz y definirán la serie como locales en El Alto.
-
-En el caso del elenco albo, el fútbol volverá después del fin de la Liga Pro y el parón por la Copa América desde junio del 2024. Aquel compromiso, además, marcará el estreno oficial de **Pablo ‘Vitamina’ Sánchez**, nuevo DT del conjunto universitario.
-
-El debut de Pablo ‘Vitamina’ Sánchez
-------------------------------------
-
-El entrenador argentino podrá mostrarse frente a la afición de **Liga de Quito** después de 28 días de estar al mando. Asimismo, tendrá la oportunidad de hacer uso de los cuatro nuevos fichajes que arribaron; uno lo hizo a la par de su llegada y otros tres ya con él a cargo.
-
-Para su primera prueba con la escuadra de Ponceano, ‘Vitamina’ Sánchez optará por un **4-2-3-1**. En el medio campo estarán dos volantes de marca y un enganche, así como dos mediocampistas laterales, mientas que en la delantera quedará un solo hombre en solitario.
-
-Alineaciones de Liga de Quito y Always Ready en Copa Sudamericana
------------------------------------------------------------------
-
-Liga de Quito: Alexander Domínguez (Arquero); José Quintero, Ricardo Adé, Richard Mina y Leonel Quiñónez (Defensas); Óscar Zambrano, Marco Angulo y Fernando Cornejo (Volantes); Jhojan Julio, Álex Arce y Lisandro Alzugaray (Delanteros).
-
-Always Ready: Alain Baroja (Arquero); Pablo Vaca, Diego Medina, Marcelo Suárez, Luis Caicedo y Héctor Cuellar (Defensas); Robson Matheus, José Carabalí, Adalid Terrazas y Karl Mboudou (Volantes); Cristian Cañozales (delantero).
-
-Esta expectativa salarial se tuvo en el primer semestre de 2024 en Ecuador
-==========================================================================
-
-La expectativa salarial en Ecuador aumentó en el primer semestre de 2024, alcanzando un salario promedio requerido de 832 dolares en junio.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las mujeres pretendieron salarios menores a los que los hombres, en el primer semestre de 2024. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/07/salarios.jpg)
-
-La expectativa salarial en **Ecuador** tuvo un incremento del 2% durante el primer semestre de 2024. Este aumento se refleja en un salario promedio requerido de 832 dólares en junio, marcando una variación al alza del 3,15% respecto a mayo del este año[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [¿Cuándo se paga el décimo cuarto sueldo en la Sierra y Amazonía?](https://www.elcomercio.com/actualidad/negocios/cuando-se-paga-el-decimo-cuarto-sueldo-en-la-sierra-y-amazonia.html "¿Cuándo se paga el décimo cuarto sueldo en la Sierra y Amazonía?")
-* [El SRI identifica estafas en devolución de IVA a adultos mayores](https://www.elcomercio.com/actualidad/negocios/sri-identifica-estafas-proceso-devolucion-iva-adultos-mayores.html "El SRI identifica estafas en devolución de IVA a adultos mayores")
-* [¿Por qué mayo fue el mejor mes para las exportaciones de Ecuador?](https://www.elcomercio.com/actualidad/negocios/mayo-mejor-mes-exportaciones-ecuador.html "¿Por qué mayo fue el mejor mes para las exportaciones de Ecuador?")
-
-El índice muestra una tendencia ascendente en los **últimos seis mese**s, con excepción de marzo, cuando se registró una disminución significativa del 1,26%. Esta baja coincidió con una **tasa de desempleo** del 4,2%, la más alta desde abril de 2022, según el Instituto Nacional de Estadística y Censos (INEC).
-
-“Las aspiraciones salariales de los ecuatorianos fluctúan en línea con los índices de empleo. Para puestos junior, las aspiraciones incluso superan el salario básico actual de 460 dólares”, señaló **Jeff Morales**, gerente de Marketing de Multitrabajos.
-
-El incremento acumulado en 2024 supera ligeramente al primer semestre de 2023, con un aumento del 2%.
-
-En junio de 2024, el salario promedio requerido por los ecuatorianos fue el más alto del año, con 832 dólares por mes. Las variaciones mensuales han sido relativamente estables, con la excepción de junio, que registró un aumento considerable del 3,15% respecto a mayo.
-
-Expectativa salarial del personal con experiencia en junio
-----------------------------------------------------------
-
-En junio, los salarios promedios para las posiciones de supervisor y jefe fueron de 1 149 dólares, con un incremento del 1,73% respecto al mes anterior. Para las categorías semi senior y senior, el salario promedio fue de 873 dólares, con un aumento del 1,15%. Mientras que para los niveles junior, fue de 538 dólares, con un leve cambio del 0,43%.
-
-Brecha salarial por género
---------------------------
-
-Durante el primer semestre de 2024, la brecha salarial alcanzó un pico del 12,84% en enero, siendo la más alta registrada, mientras que la más baja fue del 6,19% en febrero. En junio, la brecha salarial por género fue del 9,64%, favoreciendo a los hombres. Las mujeres solicitaron, en promedio, un salario de 790 dólares, mientras que, los hombres pretendieron 866 dólares mensuales.
-
-La **participación femenina** en las postulaciones disminuye en cargos altos. En junio, el 62,70% de las postulaciones provinieron de hombres, mientras que el 39,98% fueron de mujeres.
-
-En cargos de jefe o responsable, el 69,85% de los postulantes fueron hombres y el 30,15% mujeres; en posiciones senior o semi senior, el 61,78% correspondieron a hombres y el 38,22% a mujeres; y en puestos junior, el 60,02% fueron hombres y el 39,98% mujeres.
-
-Trabajos en la avenida Colón molesta a los ciudadanos, esto dice la Epmmop
-==========================================================================
-
-Los trabajos de la avenida Colón se realizan desde mayo de 2024.
-----------------------------------------------------------------
-
-![Los peatones tienen que caminar por la calzada de la avenida Colón. Foto: EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Avenida-Colon.jpg)
-
-La avenida **Colón** es intervenida por el personal de la **Empresa Pública** **Metropolitana** de **Movilidad** y **Obras Públicas** (Epmmop) desde mayo de 2024. Los trabajos provocaron **malestar** en los ciudadanos que transitan por el sector todos los días[.](https://es.wikipedia.org/wiki/Estaci%C3%B3n_multimodal_Seminario_Mayor#:~:text=%E2%80%8BLa%20Empresa%20P%C3%BAblica%20Metropolitana,de%20aproximadamente%20238%20mil%20d%C3%B3lares. "https://es.wikipedia.org/wiki/Estaci%C3%B3n_multimodal_Seminario_Mayor#:~:text=%E2%80%8BLa%20Empresa%20P%C3%BAblica%20Metropolitana,de%20aproximadamente%20238%20mil%20d%C3%B3lares.")
+**Calacalí** es una de las parroquias más **antiguas** de **Quito**. Es conocida por tener una **cultura agricultora** y una **gastronomía** que invita a **turistas** durante las vacaciones[.](https://es.wikipedia.org/wiki/Gastronom%C3%ADa "https://es.wikipedia.org/wiki/Gastronom%C3%ADa")
 
 Más noticias
 ------------
 
-* [¿Los Senderos Seguros son suficientes para manejar la inseguridad de Quito?](https://www.elcomercio.com/actualidad/quito/senderos-seguros-quito-municipio-empleo-pobreza.html "¿Los Senderos Seguros son suficientes para manejar la inseguridad de Quito?")
-* [¿Cómo está la seguridad de Quito en los primeros seis meses de 2024?](https://www.elcomercio.com/actualidad/quito/seguridad-delincuencia-homicidios-quito-policia-robos.html "¿Cómo está la seguridad de Quito en los primeros seis meses de 2024?")
-* [Las vías en Quito que están cerradas por trabajos de bacheo son estas](https://www.elcomercio.com/actualidad/quito/las-vias-en-quito-que-estan-cerradas-por-trabajos-de-bacheo-son-estas.html "Las vías en Quito que están cerradas por trabajos de bacheo son estas")
+* [La migración integró la comida venezolana a la oferta gastronómica de Quito](https://www.elcomercio.com/video/la-migracion-integro-la-comida-venezolana-a-la-oferta-gastronomica-de-quito.html "La migración integró la comida venezolana a la oferta gastronómica de Quito")
+* [Ecuador ganó seis premios en los ‘Óscar del Turismo’ 2024](https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html "Ecuador ganó seis premios en los ‘Óscar del Turismo’ 2024")
+* [12 actividades divertidas para realizar en casa en estas vacaciones](https://www.elcomercio.com/actualidad/quito/12-actividades-divertidas-casa-vacaciones-ninos-adolescentes.html "12 actividades divertidas para realizar en casa en estas vacaciones")
 
-En esta zona se realiza un **soterramiento** de cables, por lo que se levantaron las **aceras**, lo que provoca que los **peatones** tengan que transitar por la **calzada,** poniendo en **riesgo su vida.**
+En este sector hay un restaurante que tiene un proyecto peculiar que promete hacer un cambio en la **mentalidad de las personas.**
 
-La avenida **Colón** es un lugar bastante concurrido, porque en sus inmediaciones hay una **universidad**, conecta **sectores económicamente activos** y está el **Hospital Pediátrico Baca Ortiz.**
+El Patio, un restaurante que desafía los miedos en Calacalí
+-----------------------------------------------------------
 
-Ciudadanos expresan su incomodidad por los trabajos en la avenida Colón
------------------------------------------------------------------------
+El proyecto nació de la mano del chef **Alfredo Guamaní**, quien siempre ha vivido en **Calacalí** y convirtió al **patio** de su casa en un **restaurante**[.](https://es.wikipedia.org/wiki/Calacal%C3%AD "https://es.wikipedia.org/wiki/Calacal%C3%AD")
 
-**Carlos Velasteguí** camina por la calle de la avenida **Colón** casi todos los días para ir a sus clases. Llega en la Ecovía, que pasa por la avenida 6 de Diciembre, y camina cuesta a arriba esquivando carros, franjas de seguridad y maquinaria pesada.
+Este **restaurante** deja una gran **enseñanza**: aprender a no juzgar a las personas por sus **apariencias**. Lo hace de una **manera curiosa**.
 
-En las redes sociales también hay muestras de **indignación** por parte de los **usuarios**. Detallan que hace meses repavimentaron la **avenida Colón** y comentan que en ese entonces debieron haber levantado las aceras, para incomodar lo menos posible a los ciudadanos.
+Al inicio, unos **guías** reciben a los **turistas** y les vendan los ojos. Les explican las **reglas del juego**, les dicen qué van a hacer y luego, solamente hay que confiar.
 
-De igual manera, los conductores se quejan con frecuencia del tráfico que se crea en la **Plaza Artigas**, que está entre la avenida **Colón** y **12 de Octubre.**
+En fila, todos caminan por el espacio donde el chef tiene sus ingredientes frescos: su huerto, que está en la parte posterior de su casa.
 
-José Javier López conduce un taxi y pasa por el sector constantemente. Al transitar por el **redondel** tiene que estar bien atento, porque los conos, el personal que trabaja y una que otra maquinaria no dejan ver bien el paso de otros **vehículos**.
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/Experiencia-gastronomia-1024x683.jpg)
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C9iVcEENoQP/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Diario El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/C9iVcEENoQP/?utm_source=ig_embed&utm_campaign=loading)
+Los turistas caminan con los ojos vendados por un huerto. Foto: EL COMERCIO.
 
-¿Por qué en la avenida Colón se intervino primero la calzada y luego las aceras?
---------------------------------------------------------------------------------
+Luego ingresan al **restaurante**, o sea, el patio de la casa de **Guamaní** y se sientan en orden con la ayuda de los guías.
 
-EL COMERCIO consultó a la Empresa Pública Metropolitana de Movilidad y Obras Públicas sobre por qué se intervino primero la calzada y luego las aceras de la avenida Colón.
+A estas alturas, ya se asimila de qué trata la experiencia: de saber cómo hacen las **personas no videntes** para realizar sus actividades diarias.
 
-La respuesta fue que “la intervención de la calzada en la av. Colón se realizó mediante contratación e inició en la administración anterior”.
+Nuevamente, un guía da las indicaciones de cómo deben actuar en la mesa para no tener **accidentes** con los **utensilios**.
 
-Por otro lado, los trabajos en las aceras comprenden una “**rehabilitación integral** mediante el proyecto **Sendero Seguro** La Colón”.
+Para que la **experiencia** siga siendo única, el orden en que se **sirven** los **alimentos** es diferente al convencional.
 
-El proyecto incluye el soterramiento, mejoramiento de aceras[,](https://es.wikipedia.org/wiki/Acera#:~:text=Una%20acera%2C%E2%80%8B%20and%C3%A9n%2C%E2%80%8B,al%20paramento%20de%20las%20casas. "https://es.wikipedia.org/wiki/Acera#:~:text=Una%20acera%2C%E2%80%8B%20and%C3%A9n%2C%E2%80%8B,al%20paramento%20de%20las%20casas.") accesibilidad universal, iluminación ornamental y arborización, que se ejecuta con base a los lineamientos de la actual alcaldía y “se realiza con administración directa”.
+La comida se sirve en platos de un **material duro** para que en caso de que se **caigan** no se **rompan** y lastimen a alguien.
 
-El costo referencial para hacer el **Sendero Seguro** en la avenida **Colón** es de 1 297 147,27 dólares, según la Epmmop.
+Uno de los desafíos al comer con los ojos cerrados es el de saber dónde están los cubiertos. Pero gracias a una **técnica** que el guía explica con mucho detalle, el alimentarse se hace un poco más fácil.
 
-Daniel Salcedo pidió salir de La Roca para atención médica; la CNJ tomó una resolución
-======================================================================================
+En caso de que la **desesperación** de no saber qué se está comiendo o de no poder hacerlo de la mejor manera, las reglas del juego permiten **quitarse la venda**, pero no se puede decir nada a los demás.
 
-Daniel Salcedo argumentó dolores en sus rodillas para salir de La Roca y ser atendido por un especialista.
-----------------------------------------------------------------------------------------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/Gatronomia-Experiencia-1024x768.jpeg)
 
-![Daniel Salcedo, quien solicitó el recurso de habeas corpus, es uno de los involucrados en los casos Metástasis.](https://www.elcomercio.com/wp-content/uploads/2022/01/Daniel_Salcedo.jpg)
+El comer con los ojos vendados se vuelve un desafío. Foto: EL COMERCIO.
 
-**Daniel Salcedo**, sentenciado por peculado en el caso Fundas para cadáveres y procesado por delincuencia organizada en el caso Metástasis, presentó un recurso de **habeas corpus** para ser **trasladado de La Roca a un hospital público** por dolencias en sus rodillas.
+Al final de la experiencia, por lo menos por un instante, todos se vuelven un poco más **tolerantes** ante las **dificultades** de los demás.
 
-Este recurso fue tratado por un Tribunal de la Sala de lo Contencioso Administrativo de la **Corte Nacional de Justicia (CNJ)** compuesto por los jueces Hipatia Ortiz, Iván Larco, Milton Velásquez.
+Como último paso, el **chef** explica qué comida les sirvió y los **ingredientes** que tenía cada una de sus preparaciones.
+
+Todos elementos que utiliza **Guamaní** para sus recetas son de su **huerto** y comprados en la misma comunidad de **Calacalí**.
+
+La única forma en que se puede comer en **El Patio** es bajo **reserva**, porque en palabras de su dueño: “están en contra de **recalentar la comida**”.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/Guias-de-El-Patio-1024x683.jpg)
+
+Guías de El Patio. Foto: EL COMERCIO.
+
+Las muertes crecen en las vías de Quito por no usar cascos ni cinturones de seguridad
+=====================================================================================
+
+EL COMERCIO desarrolló un especial analizado la data de la Agencia Nacional de Tránsito. Los resultados son impactantes.
+------------------------------------------------------------------------------------------------------------------------
+
+![Los siniestros en la Simón Bolívar de Quito son frecuentes. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/07/Siniestro-en-la-Simo%CC%81n-Boli%CC%81var.jpg)
+
+Entre enero y mayo de 2024, **Quito** ha experimentado un promedio alarmante de un siniestro cada dos horas, con un trágico resultado: un fallecido diario.
+
+Los motociclistas aparecen como los más vulnerables en los accidentes debido al incumplimiento de normas básicas de seguridad como el uso de **cascos homologados** y el respeto a los **límites de velocidad.**
+
+Los habitantes de **Quito** han tenido que acostumbrarse a estos reportes diarios de tragedias en las vías.
+
+Eso ha generado un preocupante aumento en la siniestralidad en los **ámbitos local y nacional**, con un incremento significativo en el número de muertes y lesiones graves.
+
+La data de la Agencia Nacional de Tránsito
+------------------------------------------
+
+Los datos recopilados por la **Agencia Nacional de Tránsito (ANT)**, fueron utilizados por **EL COMERCIO** para desarrollar cinco visualizaciones que revelan la magnitud del problema durante los primeros meses del 2024.
+
+La **Agencia Metropolitana de Tránsito (AMT)** ha reconocido la importancia de estos datos para la planificación de medidas preventivas y correctivas, destacando la disparidad en cifras registradas en años anteriores entre ambas entidades.
+
+**Revisa el especial completo. Clic en este link:**
+
+[##### 68 de 1 111 personas usaron el cinturón en 1 603 siniestros en Quito; ninguna usó casco
+
+En las calles urbanas de Quito se incrementa la siniestralidad por exceso de velocidad. Las carreteras de 90 km/h no son los únicos puntos peligrosos.
+
+Clic para saber más](https://www.elcomercio.com/actualidad/68-personas-usaron-el-cinturon-en-1603-siniestros-ninguna-uso-casco-en-quito/?source=Internal&ref=Single+Content+Link)
+
+¿Por qué se deterioró el físico de Pedro El Escamoso?
+=====================================================
+
+Miguel Varoni, quien interpreta a Pedro Coral, y su esposa explicaron por qué cambió la imagen de este actor colombiano.
+------------------------------------------------------------------------------------------------------------------------
+
+![Miguel Varoni, conocido por su icónico papel como Pedro Coral en la serie Pedro El Escamoso, ha experimentado un notable cambio físico en los últimos años. Foto: Imdb](https://www.elcomercio.com/wp-content/uploads/2024/07/pedro-el-escamoso-el-comercio.jpg)
+
+Mig**uel Varoni**, conocido por su icónico papel como **Pedro Coral** en la serie **Pedro El Escamoso**, ha experimentado un notable cambio físico en los últimos años.
+
+Su imagen ha generado una gran atención en **redes sociales y medios de comunicación.** 
+
+La segunda temporada de **Pedro el Escamoso** se estrenó el 16 de julio de 2024 en el **Canal Caracol de Colombia** y en la plataforma de streaming **Disney+.** 
+
+La serie sigue la historia de Pedro Coral, interpretado por Miguel Varoni, quien regresa a **Colombia** después de vivir 20 años en el extranjero.
+
+Al regresar, Pedro se encuentra con su hijo **Pedrito**, ahora un hombre exitoso, interpretado por **Carlos Torres.** La relación entre padre e hijo se convierte en el eje central de la trama, ya que Pedrito se avergüenza del extravagante estilo de vida de su padre. 
+
+Recuperación del covid
+----------------------
+
+Una de las principales razones del cambio en el físico de **Varoni** es su lucha contra el **covid-19.**
+
+Según su **esposa, Catherine Siachoqu**e, el actor sufrió de manera severa durante su contagio, lo que resultó en una drástica pérdida de peso.
+
+Durante su enfermedad, **Varoni** tuvo dificultades para comer, lo que contribuyó a su delgadez extrema. Siachoque relató que ella tuvo que administrarle medicamentos y alimentos especiales para ayudarlo a recuperarse.
+
+Decisión de estilo de vida
+--------------------------
+
+A más de los efectos del covid, **Miguel** Varoni ha optado por un cambio en su estilo de vida, incluyendo una **dieta vegana.**
+
+Esta decisión, que comparte con su esposa, ha influido en su peso y apariencia general. 
+
+**Varoni** ha expresado que se siente feliz con su nueva imagen, a pesar de las críticas que ha recibido en redes sociales sobre su apariencia.
+
+Retoques estéticos
+------------------
+
+El actor también ha mencionado que se ha sometido a algunos retoques estéticos.
+
+Aunque esto ha generado comentarios mixtos entre sus seguidores, **Varoni** ha defendido su derecho a mejorar su apariencia y ha manifestado que es un tema personal que le resulta complicado.
+
+La reacción del público
+-----------------------
+
+La transformación de **Varoni** no ha pasado desapercibida. Muchos de sus seguidores han expresado preocupación por su salud, preguntándose si estaba lidiando con alguna enfermedad.
+
+Sin embargo, tanto él como su **esposa** han aclarado que su **cambio físico** no se debe a problemas de salud, sino a las razones mencionadas anteriormente.
+
+Jordy Caicedo convirtió un doblete con el Sporting Gijón
+========================================================
+
+El delantero ecuatoriano Jordy Caicedo empezó a mostrar sus capacidades ofensivas en el Sporting Gijón de España.
+-----------------------------------------------------------------------------------------------------------------
+
+![Jordy Caicedo anotó con el Sporting Gijón.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-20T183955.218.jpg)
+
+**Jordy** **Caicedo** disputó su primer partido amistoso con el Sporting Gijón, club que milita en la segunda división de España. En sus primeros minutos, el ecuatoriano dejó una buena actuación y anotó dos goles. 
+
+El **Sporting Gijón se enfrentó al Club Marino de Luanco**, de la cuarta categoría de España, este sábado 20 de julio. El partido terminó 2-0 a favor de los ‘Gijoneses’.
 
 ### Más noticias:
 
-* [Caso Metástasis: ¿Qué tiene que ver Wilman Terán y Daniel Salcedo con la excusa del juez Felipe Córdova?](https://www.elcomercio.com/actualidad/caso-metastasis-wilman-teran-daniel-salcedo-excusa-juez-felipe-cordova.html "Caso Metástasis: ¿Qué tiene que ver Wilman Terán y Daniel Salcedo con la excusa del juez Felipe Córdova?")
-* [¿Qué dijo Virgilio Hernández sobre las declaraciones de Daniel Salcedo?](https://www.elcomercio.com/actualidad/politica/virgilio-hernandez-daniel-salcedo-declaraciones.html "¿Qué dijo Virgilio Hernández sobre las declaraciones de Daniel Salcedo?")
+* [Jordy Caicedo llega a potenciar el ataque del Sporting Gijón](https://www.elcomercio.com/deportes/jordy-caicedo-refuerzo-sporting-gijon.html "Jordy Caicedo llega a potenciar el ataque del Sporting Gijón")
+* [¿Por qué es tendencia Angelo Preciado?](https://www.elcomercio.com/deportes/futbol/angelo-preciado-tendencia-redes-sociales.html "¿Por qué es tendencia Angelo Preciado?")
+* [Félix Sánchez Bas se reencontrará con Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/felix-sanchez-bas-reencontrara-gonzalo-plata.html "Félix Sánchez Bas se reencontrará con Gonzalo Plata")
 
-La defensa de Daniel Salcedo señaló que este último tiene problemas en las piernas y, al no contar con equipos médicos necesarios en La Roca, el dolor se ha agravado y no puede pararse.
+Los goles de Jordy Caicedo
+--------------------------
 
-El abogado de Daniel Salcedo presentó este escrito el 11 de junio de 2024 al **Servicio de Atención de Personas Privadas de la Libertad y Adolescentes Infractores (SNAI).**
+J**ordy Caicedo anotó los dos únicos goles** del compromiso. En el primero mostró su presión e intensidad, y en el segundo un poco más de su técnica y calidad. 
 
-La defensa dijo que su defendido necesita atención de un especialista y no puede mantenerse solo con analgésicos.
+Su primera anotación llegó a los siete minutos del compromiso. El ‘Expreso de la Medianoche’ presionó fuertemente al defensa rival para robarle el balón. 
 
-Además, Daniel Salcedo tuvo una caída el 6 de junio tras una intervención militar en la cárcel, que abravó su situación, dijo.
+Tras conseguirlo, el delantero ecuatoriano **definió con tranquilidad** para poner el 1-0 parcial. 
 
-Daniel Salcedo, la defensa y el resto de las partes asistieron de forma telemática.
+> Primer gol de Jordy Caicedo con el [@RealSporting](https://twitter.com/RealSporting?ref_src=twsrc%5Etfw) [pic.twitter.com/i7qNQLYG1k](https://t.co/i7qNQLYG1k)
+> 
+> — Celorio10 (@BlogInn) [July 20, 2024](https://twitter.com/BlogInn/status/1814711826090799138?ref_src=twsrc%5Etfw)
 
-MSP, SNAI y La Roca señalan que Daniel Salcedo sí cuenta con atención médica
-----------------------------------------------------------------------------
+El segundo tanto fue a los 33 minutos del primer tiempo. Jordy Caicedo aprovechó un pase en profundidad de un compañero para **definir por encima del guardameta** rival con un sutil toque. 
 
-Según los reportes del SNAI, La Roca y del Ministerio de Salud Pública (MSP), presentados en la audiencia de habeas corpus; Daniel Salcedo cuenta con atención médica.
+Jordy Caicedo jugó solo 45 minutos del compromiso. 
 
-El SNAI aseguró que, en La Roca, existen 20 profesionales de salud al servicio de los privados de la libertad, que Daniel Salcedo ha sido valorado médicamente seis veces y que no se ha vulnerado el derecho a la salud.
+> Segundo gol de Jordy Caicedo con el [@RealSporting](https://twitter.com/RealSporting?ref_src=twsrc%5Etfw) [pic.twitter.com/gWJh30aVl2](https://t.co/gWJh30aVl2)
+> 
+> — Celorio10 (@BlogInn) [July 20, 2024](https://twitter.com/BlogInn/status/1814716746521006430?ref_src=twsrc%5Etfw)
 
-El representante de La Roca citó un informe del doctor Wilfrido Rosero, sobre el estado de salud de Daniel Salcedo; por lo que, el Tribunal dispuso contactar a dicho doctor.
+Sporting Gijón fichó a Jordy Caicedo
+------------------------------------
 
-**Wilfrido Rosero** señaló que Daniel Salcedo presentó dolor de rodilla izquierda, acompañado de edema y se recetó tratamiento analgésico, antinflamatorio y antibiótico.
+El delantero internacional ecuatoriano **Jordy Caicedo** llegó a Gijón para reforzar al Sporting en una operación llevada a cabo por el Grupo Orlegi, según la cual, Caicedo se incorpora al conjunto gijonés y Uros Djurdjevic se desvincula de este para fichar por el Atlas de México.
 
-Ante las preguntas de Daniel Salcedo a Wilfrido Rosero, el doctor agregó que se pidió un **eco y rayos X**.
+Caicedo es un delantero que viene de jugar la **Copa América** con Ecuador y que tiene experiencia en el fútbol europeo, ya que jugó una temporada en el CSKA Sofía de Bulgaria y el Sivasspor de Turquía, pero que no ha tenido una buena última temporada en el Atlas mexicano.
 
-Que, según el rayo X es un “pequeño golpe” y no hay fracturas.
+El delantero aseguró que le gusta mucho “el fútbol europeo” y que está deseoso de ponerse a entrenar a las órdenes de Albes “**para ayudar a conseguir el objetivo del ascenso con un club que es histórico”.**
 
-Sin embargo, **es necesaria la ecografía para poder** saber qué tiene; pues, al momento del análisis había una contusión y con los rayos X no había ningún problema.
+AMC suspende por tercera vez la construcción de un edificio en Quito y hay un hecho fatal
+=========================================================================================
 
-El doctor Rosero agregó que se necesita el eco para ver si se deriva a Daniel Salcedo a un traumatólogo, hay que esperar ese resultado.
+Un hecho trágico está ligado a la obra que suspendió la AMC, en Quito.
+----------------------------------------------------------------------
 
-En la última intervención, el MSP, el SNAI, La Roca y la Procuraduría pidieron negar el habeas corpus por improcedente, porque sí tiene atención.
+![La AMC suspendió una construcción en el centro-norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/07/Suspension-de-obra.jpg)
 
-El SNAI señaló que se podría crear “conmoción social” si se acepta el habeas corpus
+Una **construcción en Quito** se detuvo por tercera vez, luego de que la Agencia Metropolitana de Control (AMC). Las autoridades informaron las causas de la suspensión[.](https://es.wikipedia.org/wiki/Quito)
 
-Daniel Salcedo lamentó tener que acudir a un habeas corpus para ser atendido por un especialista fuera de La Roca
------------------------------------------------------------------------------------------------------------------
+El hecho no quedará únicamente en las instancias del Municipio del **Distrito Metropolitano de Quito**. Hasta tanto, los funcionarios de la **AMC** colocaron sellos de suspensión.
 
-El tribunal receptó el testimonio de Daniel Salcedo sobre su condición de salud.
+### Más noticias
 
-Daniel Salcedo insistió que ha pasado más de un mes desde que tuvo una caída y no se le ha realizado una ecografía.
+* [El Sucre Viajero 2024 llega con arte a los barrios de Quito](https://www.elcomercio.com/uncategorized/sucre-viajero-2024-arte-barrios-quito.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
+* [¡Precaución! Alerta de radiación UV extremadamente alta para Quito](https://www.elcomercio.com/actualidad/ecuador/alerta-radiacion-uv-extremadamente-alta-quito.html?source=Internal&ref=Single+Content+Link)
 
-Tampoco se le ha permitido una cita con un especialista en traumatología.
+Las causas para la suspensión de la construcción en Quito
+---------------------------------------------------------
 
-Salcedo expresó que es una pena que se tenga que recurrir a un habeas corpus, por falta de gestión del SNAI.
+La **AMC**, con el apoyo de la **Policía Nacional**, suspendió la construcción por tercera vez. Esta acción se tomó luego de que, indicó la entidad municipal, verificó que no contaban con los permisos correspondientes.
 
-Salcedo indicó que se encuentra en uno de los centros más complicados, sin poder caminar y sin un traumatólogo haga una resonancia.
+El edificio se encuentra en el centro-norte de **Quito** y está en proceso de obra gris. Ya en el 2023, la **AMC** colocó el primer sello de suspensión al encontrar un proceso inicial de construcción sin los permisos habilitantes.
 
-Que ninguno de los **20 profesionales de salud** mencionados es traumatólogos y no son de La Roca, sino de otros centros.
+Este se encuentra en la fase final del procedimiento, donde se dictaminará la **sanción y multa  
+correspondiente a los responsables.**
 
-El privado de la libertad insistió que se le permita el traslado a un lugar para que se pueda verificar el estado de sus rodillas.
+Un proceso previo en la construcción
+------------------------------------
 
-Para que los profesionales señalen si es necesaria una intervención quirúrgica porque el “paracetamol no va a ayudar absolutamente en nada”.
+De acuerdo con la **AMC**, la segunda suspensión se desarrolló el 10 de julio, cuando los inspectores metropolitanos corroboraron que la constructora no disponía de la licencia LMU-20.
 
-Pidió una resonancia magnética y recordó que está colaborando con la justicia como testigo protegido.
+El documento certifica los planos **arquitectónicos y estructurales**, entre otros requisitos como contar con un plan de seguridad.
 
-Decisión de Tribunal
---------------------
+Los sellos de suspensión de obra constituyen medidas provisionales o cautelares. Con este paso, se detienen las actividades mientras se continúa con el **procedimiento administrativo sancionatorio**.
 
-El Tribunal determinó que sí se ha garantizado el acceso a servicios de salud de Daniel Salcedo, sin evidencia de haber restringido, limitado u obstaculizado la atención.
+No obstante, por tratarse de un incumplimiento reiterativo de la Ley, constatado el 17 de julio de 2024, se procederá a colocar una denuncia en la **Fiscalía**.
 
-El Tribunal conminó al SNAI, La Roca y el MSP a que continúen garantizando su derecho a la salud e integridad física.
+Un hecho fatal en la construcción
+---------------------------------
 
-Además, señaló que se deben realizar los exámenes médicos a Daniel Salcedo y se dispone que cumplan con las medidas generales contenidas en los informes médicos.
+La **AMC** informó que hay otro hecho en el caso. Este corresponde, según el reporte del **ECU-911**, un obrero falleció tras caer desde una altura aproximada de 10 metros.
 
-La Roca, el SNAI y el MSP tienen el plazo diez días para cumplir esto. La Defensoría del Pueblo debe dar seguimiento a esta decisión.
+Por eso, informó la entidad, ante este trágico incidente, y considerando que la obra se encuentra con orden de suspensión desde el 2023, la **denuncia** se presentará para que sea la justicia la que defina las medidas y acciones.
 
-Finalmente, el Tribunal rechazó la supuesta vulneración de derechos a Daniel Salcedo y resuelve declarar improcedente el habeas corpus correctivo.
+Cuatro cadáveres fueron hallados en una vivienda en Machala
+===========================================================
+
+La Policía encontró los cuerpos en el inmueble ubicado en la ciudadela Los Ceibos. Hay tres detenidos para las investigaciones.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Los cuerpos fueron encontrados en una casa de la ciudadela Los Ceibos, en Machala. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/07/Machala-EL-Oro-1.jpg)
+
+##### Agencia EFE
+
+La **Policía ecuatoriana** encontró este sábado 20 de julio de 2024 **cuatro cadáveres** en una vivienda en lMachala, capital de la provincia de **El Oro**. Se presume que los asesinatos están relacionados con una pugna entre grupos delictivos.
+
+Según la Policía, en la ciudadela **Los Ceibos** hallaron los cuatro cuerpos “con heridas de armas de fuego”. 
+
+Anotó que las unidades especializadas de la **Policía Naciona**l realizan el levantamiento de información y avanzan en la identificación de las **víctimas**, ya que **no portaban documentación.** 
+
+En el lugar, la Policía encontró cuatro armas de fuego y un vehículo reportado como robado, entre otros indicios. 
+
+El avance de las investigaciones
+--------------------------------
+
+Hasta el momento, la **Policía** ha aprehendido a **tres personas para investigaciones**, quienes fueron puestos a disposición de la autoridad competente para determinar su grado de implicación en este hecho.
+
+“Las investigaciones preliminares sugieren que este **crimen** está relacionado con una pugna entre grupos delictivos por el control de espacios para actividades ilícitas”, indicó la **Policía**.
+
+En la provincia de **El Oro** se han registrado varios hechos violentos en los últimos meses.
+
+A las bandas del crimen organizado, dedicadas principalmente al narcotráfico, se les atribuye la ola de violencia que azota a **Ecuador** y que le ha llevado a figurar como el país con más homicidios per cápita, al registrar 47,2 por cada 100 000 habitantes en 2023, según el **Observatorio Ecuatoriano de Crimen Organizado (OECO).**
+
+CAL conoció el pedido de juicio político a la Ministra del Interior de Daniel Noboa
+===================================================================================
+
+Juicios políticos a ministros de Daniel Noboa están en marcha.
+--------------------------------------------------------------
+
+![La Asamblea Nacional procesa juicios políticos en contra de funcionarias.](https://www.elcomercio.com/wp-content/uploads/2024/07/Juicio-politico.jpg)
+
+El **Consejo de Administración Legislativa (CA**L) avocó conocimiento de la solicitud de enjuiciamiento político en contra de Mónica Palencia, ministra del Interior del gobierno de **Daniel Noboa**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+La proponente del proceso es la asambleísta de la **Revolución Ciudadana**, **Paola Cabezas**. En el organismo se fijó un plazo de tres días para contar con un informe técnico, corriendo desde este 19 de julio de 2024.
+
+### Más noticias
+
+* [Daniel Noboa es acusado por la Asamblea Nacional de cometer una inconstitucionalidad](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-veto-daniel-noboa-inconstitucional.html)
+* [Asamblea inició el trámite de juicio político contra Fernando Muñoz, juez del TCE](https://www.elcomercio.com/actualidad/politica/asamblea-inicio-tramite-juicio-politico-contra-fernando-munoz-juez-tce.html?source=Internal&ref=Single+Content+Link)
+* [Pleno de la Asamblea no obtuvo los votos suficientes para censurar a Wilman Terán](https://www.elcomercio.com/actualidad/politica/wilman-teran-asistira-juicio-politico.html?source=Internal&ref=Single+Content+Link)
+* [¿Daniel Noboa aún tiene cartas para evitar que Verónica Abad llegue a la Presidencia?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veronica-abad-presidencia.html?source=Internal&ref=Single+Content+Link)
+
+Pasos en juicios políticos de funcionarios de gobierno de Daniel Noboa
+----------------------------------------------------------------------
+
+El **CAL** resolvió requerir a la **Unidad de Técnica Legislativa** el informe técnico-jurídico no vinculante, respecto del cumplimiento de requisitos para el proceso de control político.
+
+El argumento para el juicio político es que la ministra Palencia sería responsable de la inseguridad. Esto debido a que, presuntamente, no hay claridad sobre las aristas del **Plan Fénix**. La propuesta fue parte de las ofertas de campaña de **Daniel Noboa**.
+
+Según declaraciones de Paola Cabezas, el juicio está respaldado por legisladores de las organizaciones políticas Construye, Partido Social Cristiano, Pachakutik e independientes.
+
+Otros procesos de juicio político
+---------------------------------
+
+La **Constitución** establece que la **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es)** puede impulsar un **juicio político** a **autoridades estatales** como ministros, procurador, contralor, fiscal, defensor del pueblo, superintendentes, y miembros de los **consejos electoral**, contencioso electoral, de la judicatura y de participación ciudadana.
+
+El juicio puede darse por **incumplimiento de funciones** asignadas por la Constitución y la ley, durante el ejercicio de su cargo y hasta **un año después de terminar**.
+
+La canciller Gabriela **Sommerfeld** ya enfrenta un proceso rumbo a un juicio político en la Asamblea Nacional.
+
+El juicio político a **Sommerfeld** también lo impulsa el correísmo. La solicitud se sustenta, principalmente, en la incursión policial en la **Embajada de México en Quito** en abril de 2024.
+
+Jorge Glas, actualmente, se encuentra en el centro de rehabilitación **La Roca**, en Guayas.
+
+De acuerdo con la Canciller**, el juicio no es en su contra, sino de todo Ecuador.** La Canciller aseguró que **presentó más de 20 pruebas de descargo** sobre las acusaciones que se le imputan, entre estas, supuestos incumplimientos de funciones.
+
+Procesos del juicio político
+----------------------------
+
+En los juicios políticos en la Asamblea Nacional hay varios pasos que tomar en cuenta.
+
+1. **Inicio del proceso**: El proceso de juicio político puede ser iniciado por una solicitud formal presentada por un asambleísta, quien debe contar con el respaldo de al menos una cuarta parte de los miembros de la Asamblea Nacional.
+2. **Análisis preliminar**: La solicitud es revisada por la Comisión de Fiscalización y Control Político de la Asamblea Nacional, que evalúa si hay mérito suficiente para proceder con el juicio. Esta comisión puede convocar a los implicados para que presenten pruebas y argumentos en su defensa.
+3. **Pleno de la Asamblea Nacional**: Si la Comisión de Fiscalización encuentra mérito, el caso es remitido al Pleno de la Asamblea, donde se lleva a cabo un debate y se presenta la evidencia recopilada. Los funcionarios acusados tienen el derecho de defensa y pueden presentar sus argumentos ante el pleno.
+4. **Votación**: Para destituir a un funcionario mediante un juicio político, se requiere una mayoría calificada de los asambleístas, que actualmente corresponde a dos tercios del total de miembros de la Asamblea Nacional.
+
+Otras acciones del CAL
+----------------------
+
+El **CAL**, además de conocer la solicitud de juicio político, definió una prórroga de 30 días, del 21 de julio al 19 de agosto de 2024, para las labores de la **Comisión Ocasional para la Investigación de Irregularidades en Contra de la Administración Pública**.
+
+La delegación temporal está encabezada por el asambleísta Jaime Moreno. La **Ley Orgánica de la Función Legislativa** contempla que el **CAL** podrá prorrogar, por una sola vez, el funcionamiento de las comisiones ocasionales.
+
+Audiencia del caso Independencia Judicial se reinstaló este 20 de julio
+=======================================================================
+
+La audiencia del caso Independencia Judicial contó con la defensa de Wilman Terán.
+----------------------------------------------------------------------------------
+
+![La audiencia del caso Independencia Judicial se reinstaló en la Corte Nacional de Justicia, este 20 de julio de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/Independencia-Judicial.jpg)
+
+Este sábado, 20 de julio de 2024, se reinstaló la audiencia preparatoria de juicio del **caso Independencia Judicial**, en el que está implicado el expresidente del **Consejo Nacional de la Judicatura (CNJ)**.
+
+La diligencia legal empezó con la presencia del fiscal general (s), **Wilson Toainga**. Se trató de la preparatoria de juicio contra 11 procesados por presunta obstrucción de la justicia. Las defensas técnicas procedieron a presentar sus alegaciones.
+
+La audiencia se reinstaló luego de que el 19 de julio, ya se desarrolló parte del proceso, en el que Terán solicitó un **hábeas corpus oral**.
+
+### Más noticias
+
+* [Caso Independencia Judicial: Fiscalía presenta el dictamen acusatorio](https://www.elcomercio.com/actualidad/seguridad/en-vivo-caso-independencia-judicial-wilman-teran-grita-y-presenta-habeas-corpus-oral.html)
+* [Caso Independencia Judicial: CNJ declara validez de lo actuado y que expediente no fue ‘mutilado’](https://www.elcomercio.com/actualidad/seguridad/caso-independencia-judicial-cnj-declara-validez-expediente-no-fue-mutilado.html?source=Internal&ref=Single+Content+Link)
+* [Nueva demora en audiencia de Wilman Terán en caso Independencia Judicial](https://www.elcomercio.com/actualidad/seguridad/nueva-demora-audiencia-wilman-teran-independencia-judicial.html?source=Internal&ref=Single+Content+Link)
+
+Wilman Terán y su defensa en el caso Independencia Judicial
+-----------------------------------------------------------
+
+El **Expresidente del Consejo Na**cional de la Judicatura fue el primero en intervenir en la audiencia, luego de manifestar los problemas en su visión.
+
+**Wilman Terán** relató algunos de los hechos en torno al caso y volvió a reiterar las condiciones y limitaciones que tiene por estar recluido en la cárcel La Roca. Estas, argumentó, ha limitado su defensa. No ha tenido acceso a los expedientes para establecer este derecho.
+
+El procesado insistió en querer salir de la cárcel y dejar ese **“ambiente de violencia”** para ejercer su defensa. Temporalmente, él se encuentra en la cárcel 4, en Quito. Esto debido a las diligencias.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoIndependenciaJudicial](https://twitter.com/hashtag/CasoIndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general (s) Wilson Toainga, se reinstala la audiencia preparatoria de juicio contra 11 procesados por presunta [#obstruccióndelajusticia](https://twitter.com/hashtag/obstrucci%C3%B3ndelajusticia?src=hash&ref_src=twsrc%5Etfw). Las defensas técnicas de los procesados presentarán sus alegaciones. [pic.twitter.com/IPHBYj2soz](https://t.co/IPHBYj2soz)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [July 20, 2024](https://twitter.com/FiscaliaEcuador/status/1814742786081763616?ref_src=twsrc%5Etfw)
+
+¿En qué consiste el caso Independencia Judicial?
+------------------------------------------------
+
+La investigación del caso Independencia Judicial empezó en el 2022, por el presunto cometimiento del delito de tráfico de influencias contra los exvocales del **Consejo de la Judicatura**.
+
+La Fiscalía detalló que, luego del sorteo correspondiente, la competencia para tramitar la causa recayó en el juez **Walter Macías Fernández**, quien señaló la audiencia para el 4 de mayo de 2023.
+
+No obstante, no se instaló, debido a que un día antes (el 3 de mayo), se presentó una demanda de recusación en su contra.
+
+El 11 de mayo de 2023, los integrantes del pleno del **Consejo de la Judicatura** suspendieron de sus funciones al Juez, con amparo de informes técnicos y memorandos emitidos por sus subalternos. Esto pese a que la recusación fue rechazada.
+
+El 8 de marzo de 2023 se presentó una denuncia administrativa en contra del juez Walter Macías, en el marco del denominado caso **Las Torres**. Esta por una presunta infracción al no haber informado al Presidente de la **Corte Nacional** la demanda de recusación en contra del juez Adrián Rojas (juez del Tribunal de dicha causa).
+
+La Fiscalía recapituló que el Consejo de la Judicatura calificó a la denuncia administrativa como “infracción gravísima” y destituyó al **juez Macías**.
+
+Según Terán, durante su defensa en el juicio político en la **Asamblea**, el pasado 1 de julio de 2024, Macías debería estar procesado por tráfico de influencias.
+
+Los avances en la audiencia
+---------------------------
+
+Ya el 19 de julio de 2024, el **fiscal general (s) Wilson Toainga** presentó su dictamen acusatorio en el caso. El funcionario definió que **Wilman Terán** y la exvocal del Consejo de la Judicatura, **Ruth Maribel Barreno**, están en calidad de **autores directos del delito de obstrucción de la justicia.**
+
+Adicionalmente, **Wilson Toainga** definió como **cómplices** a **nueve procesados**, exfuncionarios del **Consejo de la Judicatura**.
+
+Ya este 20 de julio, **Wilman Terán** enfatizó que sus actuaciones estaban apegadas a lo que dictaminan la norma. Luego de recapitular puntos del **Derecho Administrativo**, dijo que la suspensión de Macías se dio, justamente, en función de esos parámetros.
+
+Terán recalcó que lo volvería a hacer. El procesado cerró su intervención, que duró una hora y 30 minutos, diciendo que cumplió sus funciones. Calificó a las pruebas de Fiscalía y la Procuraduría como irrelevantes.
+
+Defensa de Maribel Barreno
+--------------------------
+
+El abogado defensor de **Maribel Barren**o, Christopher Gallegos, empezó su intervención cuestionando la calidad de los elementos presentados por la Fiscalía.
+
+Según él, la entidad no tiene un caso sólido y ha contaminado la opinión pública con las publicaciones en sus redes. No gana el que más elementos presenta, sino por la calidad de estos.
+
+El Abogado defensor hizo esta puntualización respecto de una publicación realizada este 20 de julio, en la que se mencionó que son más de **150 elementos de convicción**. Estos, añadió, deben regresar a la Fiscalía.
+
+Solo dos son relevantes y tampoco demuestra una obstrucción en la justicia, pues, dijo Gallegos, Barrena no destituyó a **Walter Macías**. De hecho, se abstuvo en la votación. Habló, incluso, de una persecución sistemática judicial.
+
+A las 17:40, luego de la defensa de Berreno, se dio un receso en la audiencia.
+
+> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Caso [#IndependenciaJudicial](https://twitter.com/hashtag/IndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): con base en los más de 150 elementos de convicción presentados, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) acusa a Wilman T. y Maribel B. como autores directos del delito y a otros 9 ciudadanos como cómplices. Además, solicita al Juez que sean llamados a juicio. [pic.twitter.com/0jKDgGHMqP](https://t.co/0jKDgGHMqP)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [July 20, 2024](https://twitter.com/FiscaliaEcuador/status/1814556155730911556?ref_src=twsrc%5Etfw)
+
+Alerta por ceniza del volcán Sangay este sábado 20 de julio
+===========================================================
+
+El Instituto Geofísico alertó sobre la probabilidad de que caiga ceniza en Chimborazo y Guayas.
+-----------------------------------------------------------------------------------------------
+
+![Foto referencial. El Instituto Geofísico alertó sobre la posible caída de ceniza en Guayas y Chimborazo. Archivo/ Secretaría de Riesgos](https://www.elcomercio.com/wp-content/uploads/2024/05/volcan-sangay-erupcion.jpg)
+
+El **Instituto Geofísico de Ecuador** informó el sábado 20 de julio de 2024 sobre la posibilidad de una nueva caída de ceniza del volcán Sangay.
+
+La presencia de ceniza se registraría en provincias cercanas, debido a una emisión continua de gases con bajo contenido de ceniza. Estas alcanzan alturas inferiores a 800 metros sobre el nivel del cráter, en dirección suroeste.
+
+Este fenómeno es similar a lo observado durante la actividad del actual del proceso eruptivo, que empezó en mayo de 2019.
+
+La dirección de la ceniza
+-------------------------
+
+Como resultado, existe la probabilidad de que caiga ceniza en las áreas al **suroccidente** del volcán, específicamente en las provincias de **Chimborazo y Guayas**.
+
+En los últimos se registró una leve precipitación de polvo volcánico en **Naranjito**, en la provincia costera de **Guayas**, y en **Chauzán**, en la provincia andina de **Chimborazo**.
+
+El **Sangay**, con una altura de 5 230 metros sobre el nivel del mar, se encuentra en el extremo oeste de la provincia amazónica de **Morona Santiago**. Está ubicado en una cadena montañosa que se interna en la selva.
+
+Este **volcán** está situado en una zona deshabitada y ha sido designado como **Parque Nacional** debido a su rica biodiversidad.
+
+El Sucre Viajero 2024 llega con arte a los barrios de Quito
+===========================================================
+
+El Sucre Viajero 2024 empieza este 20 de julio, en el sur de Quito.
+-------------------------------------------------------------------
+
+![El Sucre Viajero ha llegado a sitios como Calderón, en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/07/Sucre-Viajero.jpg)
+
+La nueva edición del **[Sucre Viajero](https://teatrosucre.com/lugar/complejo-deportivo-de-la-liga-barrial-matilde-alvarez/)** llega a barrios de **Quito**. La ruta empieza este sábado, 20 de julio de 2024, en el sur de la urbe[.](https://es.wikipedia.org/wiki/Quito)
+
+La iniciativa promovida por la **Fundación Teatro Nacional Sucre** y la Secretaría de Cultura incluye ferias de emprendimientos, actividades lúdicas, música, entre otras actividades.
+
+El Sucre Viajero surgió en 2006 con la premisa de llevar espectáculos artísticos a distintos sectores del **Distrito Metropolitano de Quito**.
+
+### Más noticias
+
+* [¿A qué hora podrás disfrutar de la Luna de Ciervo en Ecuador?](https://www.elcomercio.com/actualidad/politica/gabriela-sommerfeld-prepara-defensa-juicio-politico.html)
+* [Festival de Sabores de la Perla se realiza en el Holiday Inn Guayaquil](https://www.elcomercio.com/empresariales/festival-sabores-perla-holiday-inn-guayaquil.html)
+* [¡Precaución! Alerta de radiación UV extremadamente alta para Quito](https://www.elcomercio.com/actualidad/ecuador/alerta-radiacion-uv-extremadamente-alta-quito.html)
+
+La agenda del Sucre Viajero en Quito
+------------------------------------
+
+El **Sucre Viajero 2024** llegará a Turubamba, Lumbisí y el parque El Arbolito. Este 20 de julio, las actividades están programadas desde las 15:00, en el primero de estos destinos.
+
+El primer evento de la nueva edición de la iniciativa será el homenaje a los tríos de **Ecuador** y a lo más representativo del repertorio tradicional.
+
+El escenario está en el complejo deportivo de la **Liga Barrial Matilde Álvarez**. También se instalará la denominada **Placita del Viajero**.
+
+Se sumará una banda de pueblo y se desarrollará la obra de teatro **Andes, la ruta de los sueños**.
+
+Desde las 19:00, el turno será para las presentaciones de los grupos musicales **Quimera, Grupo Yavirac  
+Trío Pambil y Los Garles.**
+
+Siguiente parada, 27 de julio
+-----------------------------
+
+El **Sucre Viajero** llegará a **Lumbisí** con un homenaje a lo más representativo de la música popular. La Plaza de la Identidad del sector será el punto de encuentro. También se desplegarán la **Plaza del Viajero** y la obra de teatro.
+
+En el bloque musical participarán **Andrea Cóndor,** **Ángela Valencia, Iraiz Oviedo y La Toquilla**.
+
+El Arbolito es la última parada
+-------------------------------
+
+El 3 de agosto de 2024, el **Sucre Viajero** cierra su temporada en el parque El Arbolito. Será el turno del rock ecuatoriano junto a **Sal y Mileto, Trébol y Narviko**.
+
+En este espacio, al igual que en las dos primeras paradas del evento, habrá la opción de apoyar a emprendimientos.
+
+El Nacional debuta en la Copa Ecuador 2024
+==========================================
+
+El Nacional, el primer campeón de la Copa Ecuador, regresa al torneo este sábado por los dieciseisavos de final.
+----------------------------------------------------------------------------------------------------------------
+
+![El Nacional debuta en la Copa Ecuador 2024 contra Baños Ciudad de Fuego.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-20T143449.446.jpg)
+
+**El Nacional** inicia su aventura por la Copa Ecuador 2024 este sábado 20 de julio, cuando se enfrente a Baños Ciudad de Fuego, equipo de la Segunda Categoría de Tungurahua.
+
+La partida corresponde a los **dieciseisavos de final del torneo**. Y el ganador se enfrentará en octavos al ganador de la llave entre Orense y Deportivo Santo Domingo. 
+
+### Más noticias:
+
+* [Aucas goleó y eliminó a La Castellana de la Copa Ecuador](https://www.elcomercio.com/deportes/aucas-la-castellana-copa-ecuador.html "Aucas goleó y eliminó a La Castellana de la Copa Ecuador")
+* [Marco Pazos revela profunda crisis de El Nacional](https://www.elcomercio.com/deportes/el-nacional-deuda-crisis-marco-pazos.html "Marco Pazos revela profunda crisis de El Nacional")
+* [La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa](https://www.elcomercio.com/deportes/futbol/copa-ecuador-partidos-dieciseisavos-final.html "La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa")
+
+¿A qué hora juega El Nacional en Copa Ecuador?
+----------------------------------------------
+
+El partido entre el **‘Bi-Tri’ y Baños Ciudad de Fuego** arrancará a las 19:00 y se jugará en el Estadio José Silva Romo, en la ciudad de Baños, Tungurahua. 
+
+Los militares tienen buenos números en la **Copa Ecuador,** ya que fueron los primeros campeones del certamen en la edición de 1970.
+
+En la segunda edición, en la campaña 18/19, El Nacional llegó hasta los cuartos de final y fue eliminado por Barcelona SC por gol de visitante. 
+
+Mientras que, en el último certamen que se realizó en 2022, **El Nacional alcanzó las semifinales** y entró al cuadrangular. Al final la ‘Máquina Gris’ quedó tercera. 
+
+Los premios de la Copa Ecuador
+------------------------------
+
+El campeón representará al país en la **Copa Libertadores 2025** con la denominación de Ecuador 4. Irá a la primera fase y asegurará, tomando en cuenta los montos de 2024, de 400 000  dólares.
+
+Otro premio deportivo del monarca de la Copa Ecuador, **será disputar la Supercopa Ecuador** con el campeón de la Liga Pro 2024.
+
+En lo económico, la [Copa Ecuador repartirá 1,6 millones de dólares](https://x.com/CopaEcuador/status/1812991803077107887). El ganador sumará a sus arcas 340 000 dólares.
+
+Copa Ecuador – dieciseisavos de final
+-------------------------------------
+
+### Sábado 20 de julio
+
+**Partido: Baños Ciudad de Fuego vs. El Nacional**
+
+Hora: 19:00
+
+Estadio: José Silva Romo
+
+### Domingo 21 de julio
+
+**Partido: Leones del Norte vs. Mushuc Runa**
+
+Hora: 16:30
+
+Estadio: Olímpico de Ibarra
+
+**Partido: Manta vs. Deportivo Cuenca**
+
+Hora: 19:00
+
+Estadio: Jocay
+
+Tres presuntos integrantes de Los Lobos detenidos en Zamora Chinchipe, en Ecuador
+=================================================================================
+
+La detención de los presuntos integrantes de los Lobos se dio durante un operativo.
+-----------------------------------------------------------------------------------
+
+![La Policía de Ecuador aprehendió a tres personas, presuntamente vinculadas a una organización delictiva.](https://www.elcomercio.com/wp-content/uploads/2024/07/Los-lobos-2.jpg)
+
+Un operativo policial dejó tres presuntos integrantes del grupo delincuencial Los Lobos aprehendidos. Las labores se realizaron en la provincia de **Zamora Chinchipe**, en **Ecuador**[.](https://es.wikipedia.org/wiki/Los_Lobos_(pandilla))
+
+Las personas se dedicarían al tráfico de sustancias **sujetas a fiscalización**. Las tareas policiales se realizaron el 19 de julio de 2024.
+
+### Más noticias
+
+* [Transportistas interprovinciales reaccionan a la masacre en un bus en Los Ríos](https://www.elcomercio.com/actualidad/transportistas-interprovinciales-reaccionan-masacre-bus-los-rios.html)
+* [Dos personas detenidas tras la masacre en un bus en Los Ríos](https://www.elcomercio.com/actualidad/ecuador/dos-personas-detenidas-masacre-bus-los-rios.html?source=Internal&ref=Single+Content+Link)
+* [Masacre en bus interprovincial deja al menos cuatro asesinados, en Los Ríos](https://www.elcomercio.com/actualidad/seguridad/masacre-bus-interprovincial-los-rios.html?source=Internal&ref=Single+Content+Link)
+* [Siniestro en la av. Mariscal Sucre de Quito deja un fallecido](https://www.elcomercio.com/actualidad/quito/siniestro-en-la-av-mariscal-sucre-de-quito-deja-un-fallecido.html?source=Internal&ref=Single+Content+Link)
+
+Detalles de detención de los presuntos integrantes de Los Lobos
+---------------------------------------------------------------
+
+La **[Policía Nacional del Ecuador](https://noticias.policia.gob.ec/)**, a través de la subzona **Zamora Chinchipe**, aprehendió a los tres ciudadanos, en el malecón de **Playa Rica**, cantón Yantzaza.
+
+Las tres personas tenían diversas sustancias y equipos utilizados para el presunto tráfico de drogas. Se trata de Fausto V., de 32 años, y dos  adolescentes, de 14 y 16 años.
+
+Los indicios encontrado
+-----------------------
+
+Durante el operativo, la Policía encontró varios indicios en poder de los aprehendidos:
+
+* Una balanza
+* 14 fundas plásticas con una sustancia color beige, presumiblemente **cocaína**
+* 08 fundas plásticas con una sustancia vegetal color verdosa, presumiblemente **marihuana**
+* Un paquete con una sustancia vegetal color verdosa, presumiblemente **marihuana**
+* Un objeto tipo roca de color beige, presumiblemente **cocaína**
+
+Las sustancias halladas en poder de los tres hombres suman **69,68 gramos de cocaína y 158,56 gramos de marihuana**. Los ciudadanos y las evidencias fueron puestos a disposición de las autoridades competentes y las investigaciones continuarán.
+
+Otros casos registrados
+-----------------------
+
+La Policía, por medio de la Dirección Nacional de Investigación Antidrogas, ejecutó el operativo denominado **Costanera**. Este se dio la madrugada del 19 de julio y se logró la aprehensión de **300 paquetes tipo ladrillo**. Estos contenían sustancias sujetas a fiscalización.
+
+El hecho se registró en **Esmeraldas**, en el Distrito Río Verde, sector Palestina. Este fue el resultado de investigaciones en las vías que conectan con el perfil costanero.
+
+En el punto, los efectivos policiales identificaron un camión color blanco sospechoso. Una vez realizado el registro del automotor, el resultado fue el hallazgo de los paquetes, con **295 kilos y 500 gramo**s de una sustancia blanquecina. Tras las pruebas respectivas, esta dio positivo para clorhidrato de **cocaína**.
+
+Luego de identificar las **sustancias**, los policías continuaron con las indagaciones para aprehender a los posibles infractores.
+
+Dos detenidos por intentar robar una pieza del monumento de La Independencia en Quito
+=====================================================================================
+
+La pieza tallada en Italia fue una de las cuatro hojas de acanto del monumento. En días anteriores ya se sustrajeron otras dos.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Los individuos fueron trasladados a la Unidad de Flagrancia, donde la Procuraduría del Municipio presentará una denuncia formal. Cortesía AMC](https://www.elcomercio.com/wp-content/uploads/2024/07/Quito-robo-.jpg)
+
+Dos ciudadanos intentaron robar **una de las cuatro hojas de acant**o, que adornan el monumento de **La Independencia, en la Plaza Grande,** en el Centro Histórico de **Quito**.
+
+Los uniformados de la **Agencia Metropolitana de Control (AMC), Cuerpo de Agentes de Control Metropolitano de Quito y la Policía** lo impidieron la madrugada de este sábado 20 de julio de 2024.
+
+### Más noticias
+
+* [El museo Templo del Sol, un espacio para curiosear en Quito en vacaciones](https://www.elcomercio.com/actualidad/quito/museo-templo-sol-historia-tradicion.html "El museo Templo del Sol, un espacio para curiosear en Quito en vacaciones")
+* [Esto son los cierres viales en Quito para este sábado 20 de julio de 2024](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-sabado-20-julio-2024.html "Esto son los cierres viales en Quito para este sábado 20 de julio de 2024")
+* [¡Precaución! Alerta de radiación UV extremadamente alta para Quito](https://www.elcomercio.com/actualidad/ecuador/alerta-radiacion-uv-extremadamente-alta-quito.html "¡Precaución! Alerta de radiación UV extremadamente alta para Quito")
+
+El operativo y monitoreo
+------------------------
+
+El personal de la AMC observó a varios individuos cerca del monumento de la **Independencia**, por lo que realizó el control con las cámaras panorámicas del ECU 911.
+
+Al identificar a dos personas en actitud sospechosa, empezó su seguimiento. Uno de ellos cargaba en su espalda un **bulto cubierto con una tela de color rojo**, en dirección a la **calle Venezuela.**
+
+Al presumir que sustrajeron una pieza del monumento, se alertó a la Policía, que los interceptó y detuvo en las **calles Venezuela y 24 de Mayo.**
+
+Las piezas sustraídas del monumento
+-----------------------------------
+
+El personal del **Cuerpo de Agentes de Control Metropolitano** verificó que la pieza sustraída correspondía al **monumento** de la **Independencia**.
+
+Los individuos fueron trasladados a la **Unidad de Flagrancia**, donde la Procuraduría del Municipio presentará una denuncia formal.
+
+La pieza sustraída es una de las cuatro hojas de acanto que adornan las esquinas del basamento del monumento. 
+
+Otro robo en la Plaza Grande
+----------------------------
+
+En días anteriores se registró **la sustracción de dos de ella**s. Las piezas que conforman el monumento de la Plaza Grande fueron t**alladas en Italia** y **trasladadas** en **barco y ferrocarril a Quito.**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/IMG_6608-1024x1020.jpg)
+
+La pieza que fue sustraída del monumento de La Independencia, en la Plaza Grande.
+
+Cada una tiene un significado histórico, las hojas de acanto, según la tradición griega, representan el triunfo logrado con esfuerzo y dolor.
+
+Nueva inversión por bloque petrolero ubicado en Orellana
+========================================================
+
+La firma del contrato se realizó entre los representantes del Ministerio de Energía y Minas y la empresa ENAP Sipec.
+--------------------------------------------------------------------------------------------------------------------
+
+![Firma del contrato modificatorio No. 6, sobre la negociación del bloque 46 Mauro Dávalos Cordero (MDC), ubicado en la provincia de Orellana.](https://www.elcomercio.com/wp-content/uploads/2024/07/bloque-inversion.jpg)
+
+Una [inversión adicional](https://www.elcomercio.com/actualidad/negocios/ecuador-pais-atractivo-grandes-marcas-mod.html "https://www.elcomercio.com/actualidad/negocios/ecuador-pais-atractivo-grandes-marcas-mod.html") de USD 90 millones hasta el 2035, es uno de los principales compromisos establecidos, tras la firma del **contrato modificatorio** de la negociación del bloque 46 Mauro Dávalos Cordero (MDC). Está ubicado en la provincia de **Orellana**.
+
+### Más noticias
+
+* [Ecuador vive un desastre vial por la falta de mantenimiento e inversión](https://www.elcomercio.com/opinion/editorial/ecuador-vive-desastre-vial-por-falta-mantenimiento-inversion.html "Ecuador vive un desastre vial por la falta de mantenimiento e inversión")
+* [Carreteras con inversión privada](https://www.elcomercio.com/opinion/carreteras-inversion-privada-washington-herrera-columnista.html "Carreteras con inversión privada")
+* [Las importaciones cayeron en Ecuador, ¿qué implicaciones tiene?](https://www.elcomercio.com/actualidad/negocios/las-importaciones-cayeron-en-ecuador-que-implicaciones-tiene.html "Las importaciones cayeron en Ecuador, ¿qué implicaciones tiene?")
+
+La suscripción de este documento se efectuó entre el **Ministerio de Energía y Minas** y la empresa **ENAP** **Sipec**. Se trata de una compañía privada de origen **chilena** que opera actualmente, el bloque.
+
+**Antonio Goncalves, ministro de Energía y Minas**, destacó que la suscripción del contrato es una muestra del interés que tiene el Gobierno de potenciar el **sector de los hidrocarburos** de **Ecuador**.
+
+“Con esta firma se aumentarán las reservas en 5,6 millones de barriles de crudo. Es importante destacar que el 98% de las nuevas inversiones, comprometidas por parte de la operadora, se realizarán durante los primeros cinco años posteriores a la **suscripción de la documentación**. Seguiremos impulsando una industria responsable con las comunidades y sostenible con el ambiente”, dijo Goncalves.
+
+Actividades adicionales
+-----------------------
+
+De acuerdo con una publicación del Ministerio de Energía y Minas como parte de las propuestas presentadas por la contratista se contemplan **actividades adicionales** como: ocho pozos en plataformas de avanzada, dos pozos inyectores, dos conversiones a pozos inyectores. Además de facilidades como mejoras de procesos, **generación eléctrica, repotenciación de oleoductos,** líneas de flujo, entre otros.
+
+El gerente General de **ENAP Ecuador**, Juan Cuervo, señaló “tenemos en nuestra cartera muchas más inversiones para hacer en el país, con la intención de mantener una industria sostenible y responsable en todos los ámbitos”.
+
+  
+
+El G20 presentará las bases de la alianza global contra la pobreza
+==================================================================
+
+Se negocia la participación de organismos como el Fondo Monetario Internacional (FMI) y el Banco Mundial.
+---------------------------------------------------------------------------------------------------------
+
+![El ministro de Hacienda de Brasil, Fernando Haddad, participa durante una reunión de ministros de Economía del G20 en Sao Paulo (Brasil).](https://www.elcomercio.com/wp-content/uploads/2024/07/G20-Brasil-efe.jpg)
+
+ El [G20](https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html "https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html") presentará la semana próxima en **Río de Janeiro** las bases de la **Alianza Global** contra el **Hambre y la Pobreza** impulsada por Brasil. Este país este año ejerce la **presidencia de la organización**, informaron este viernes fuentes oficiales.
+
+### Más noticias
+
+* [En el G20 avanza la propuesta de un impuesto para los ultrarricos](https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html "En el G20 avanza la propuesta de un impuesto para los ultrarricos")
+* [El papa Francisco y Javier Milei se abrazan en la cumbre del G7](https://www.elcomercio.com/actualidad/mundo/papa-francisco-javier-milei-cumbre-g7.html "El papa Francisco y Javier Milei se abrazan en la cumbre del G7")
+* [En el G20 avanza la propuesta de un impuesto para los ultrarricos](https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html "https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html")
+
+La presentación del marco en que se encuadrará esta propuesta será hecha el **próximo miércoles** 24 de julio de 2024, por el presidente brasileño, **Luiz Inácio Lula da Silva**, y la primera ministra de Bangladesh, Sheikh Hasina. Esto en el marco de una **reunión ministerial** del G20 sobre desarrollo.
+
+El embajador Mauricio Carvalho Lyrio, jefe del equipo negociador brasileño en el G20, explicó en rueda de prensa sobre las bases de esa alianza. Son consensuadas por las **grandes economías** del mundo e incluirán, más allá de una **“consagración de principios”** sobre el combate al **hambre y la pobreza,** lo que definió como “un pilar financiero”.
+
+“Será un gran espacio para el intercambio de experiencias y la cooperación”. También incluirá **mecanismos financieros**, que aún están en discusión. El objetivo es ayudar a los países en desarrollo a cumplir con el objetivo principal de atender a los más pobres, dijo Lyrio.
+
+Entre esos diversos mecanismos, se negocia la participación de organismos multinacionales, como el Fondo Monetario Internacional (FMI) y el Banco Mundial. Otra opción es el **perdón de deudas** de países a fin de liberar recursos para atajar el hambre y la miseria, señaló.
+
+“Existe una infeliz coincidencia, y es que los países en los que hay mucho hambre también hay mucha deuda” externa. La intención es **facilitar la apertura** “del espacio fiscal necesario” para que esas naciones pueden **enfrentar sus dificultades sociales**, indicó.
+
+Según Lyrio, la alianza no estará restringida solamente a los miembros del G20. Por el contrario, “estará abierta a todos los países”, ya que el objetivo es **poner fin** a “una tragedia absoluta” para la propia humanidad.
+
+El diplomático brasileño citó informes de las Naciones Unidas. Uno de ellos es que 750 millones de personas en el mundo “pasan hambre”, y subrayó que esos “números crecientes” desde hace años ponen de manifiesto las “**enormes desigualdades**” del planeta.
+
+La iniciativa para la **Alianza Global** contra el **Hambre y la Pobreza** se enmarca en las grandes prioridades que se traza Brasil para su presidencia del G20. Son la reducción de las desigualdades, el combate al **cambio climático** y una profunda reforma de la gobernanza global.
+
+Labores de sofocación continúan en el cerro Quingo, en Azuay
+============================================================
+
+Más de 400 hectáreas fueron afectadas por este incendio forestal, según la Secretaría Nacional de Gestión de Riesgos.
+---------------------------------------------------------------------------------------------------------------------
+
+![Cuerpo de Bomberos de Cuenca.](https://www.elcomercio.com/wp-content/uploads/2024/07/bomberos-cuencia-incendio.jpg)
+
+Este sábado 20 de julio de 2024 continúan las labores de sofocación en los cantones azuayos de **Girón** y **Santa Isabel**, debido al **incendio forestal** que se originó en el cerro **Quingo**.
+
+Más noticias
+------------
+
+* [Terrible incendio se originó en el cerro Quingo, en Azuay](https://www.elcomercio.com/actualidad/ecuador/terrible-incendio-azuay-cerro-quingo.html "Terrible incendio se originó en el cerro Quingo, en Azuay")
+* [Rápido operativo policial y militar salvó 49 vidas en Azuay](https://www.elcomercio.com/actualidad/seguridad/rapido-operativo-policial-y-militar-salvo-49-vidas-en-azuay.html "Rápido operativo policial y militar salvó 49 vidas en Azuay")
+* [Quito firmó dos convenios con la prefectura de Azuay](https://www.elcomercio.com/actualidad/quito/quito-azuay-convenios-obras-publicas.html "Quito firmó dos convenios con la prefectura de Azuay")
+
+La mañana de este sábado, un helicóptero de las **Fuerzas Armadas del Ecuador** se sumó al **Cuerpo de Bomberos** y con un el dispositivo bambi bucket empezó a combatir el fuego en el incendio forestal. Afecta principalmente, a los cantones de **Girón y Santa Isabe**l.
+
+Son más de 400 hectáreas afectadas por este incendio forestal, según las estimaciones de la **Secretaría Nacional de Gestión de Riesgos.**
+
+Inamhi alerta de condiciones climáticas
+---------------------------------------
+
+El **Instituto Nacional de Meteorología e Hidrología** determinó que desde hasta el lunes 22 de julio de 2024 existirán **condiciones atmosféricas favorables** para la activación y propagación de **incendios forestales.** Específicamente en distintos sectores de la **Sierra** y **zonas puntuales** del Litoral.
+
+¿Qué hacer según el Inamhi?
+---------------------------
+
+El Inamhi recomienda **evitar realizar actividades** que puedan generar chispas o fuego en áreas rurales y forestales. **No arroje colillas** de cigarrillos ni fósforos encendidos.
+
+Además, mantengase informado a través de medios oficiales y siga las indicaciones de las autoridades locales. En caso de detectar un incendio, **notificar inmediatamente** a las autoridades competentes.
+
+Zonas afectadas
+---------------
+
+En la **región litoral** se prevé los niveles más altos en la provincia de **Guayas**. En la Región Interandina el Inamhi pronostica altos niveles a lo largo de la Sierra, con mayor énfasis en **Imbabura, Pichincha, Azuay y Loja.**
+
+¿Qué ocurrió en el cerro Quingo, en Azuay?
+------------------------------------------
+
+El **Cuerpo de Bomberos de Cuenca** informó la noche del miércoles 17 de julio de 2024, sobre un **incendio forestal** en el cerro **Quingo**.
+
+Este cerro está ubicado entre los sectores **Girón y Santa Isabel,** en la provincia de Azuay. Esto se encuentra a 50 kilómetros aproximadamente de la ciudad de Cuenca.
+
+El museo Templo del Sol, un espacio para curiosear en Quito en vacaciones
+=========================================================================
+
+El museo Templo del sol es un espacio destinado al aprendizaje.
+---------------------------------------------------------------
+
+![En el museo Templo del sol se cuentan historias de las culturas ancestrales del Quito. Foto: EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Museo-Templo-del-sol.jpg)
+
+El museo **Templo del sol** es un lugar donde la energía humana se puede relajar un instante. Sus instalaciones están diseñadas para aprender sobre **historia** y cómo funciona el **humano** en su aspecto **espiritual**.
+
+Más noticias
+------------
+
+* [12 actividades divertidas para realizar en casa en estas vacaciones](https://www.elcomercio.com/actualidad/quito/12-actividades-divertidas-casa-vacaciones-ninos-adolescentes.html "12 actividades divertidas para realizar en casa en estas vacaciones")
+* [Vacaciones recorriendo el patrimonio de Quito, con rutas y leyendas](https://www.elcomercio.com/actualidad/quito/vacaciones-patrimonio-quito-rutas.html "Vacaciones recorriendo el patrimonio de Quito, con rutas y leyendas")
+* [Si viajas por carretera en estas vacaciones, ten en cuenta estas recomendaciones](https://www.elcomercio.com/actualidad/ecuador/carretera-viajes-recomendaciones-vialidad-vacaciones-ecuador.html "Si viajas por carretera en estas vacaciones, ten en cuenta estas recomendaciones")
+
+Este **museo**, que fue construido en piedra, está ubicado en el sector de **Pululahua**, al cual se llega por la avenida **Manuel Córdova Galarza**, vía a **Calacalí**.
+
+¿Qué hay en el templo del sol?
+------------------------------
+
+Para ir al **Templo del** **Sol** se necesita ser una persona curiosa. A la llegada, una de las **guías** da la bienvenida en una **lengua ancestral** y se hace un ritual que **purifica** el **espíritu** de los turistas.
+
+Más tarde se ingresa al Templo del Sol, donde un reloj marca la hora con la luz solar.
+
+Luego de una explicación sobre este extraño fenómeno se ingresa a una sala de relajación en donde se aprende de las virtudes de la meditación y la función de una variedad de **minerales,** que existe en **Ecuador** y que los ancestros utilizaban para su **protección**.
+
+La **aromaterapia** también es una de las **actividades** que se pueden hacer en el **Templo del Sol**. Este pequeño ritual está acompañado de **sonidos** similares a los que hacen los **animales**, pero creados a través de **instrumentos ancestrales**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/Museo-del-sol-1024x683.jpg)
+
+Esculturas hechas en piedra que son parte del museo Templo del Sol y que fueron hechas por Ortega Maila. Foto: EL COMERCIO.
+
+Salón de arte
+-------------
+
+Dentro del museo hay un espacio destinado a las obras del **pintor** y **escultor** ecuatoriano **Ortega Maila**, quien es el **dueño** y **fundador** del **Templo del sol.**
+
+Ahí se puede ver una gran variedad de **pinturas** y **esculturas** que el artista realizó durante toda su carrera. Algunas obras son **copias**, porque las originales fueron **vendidas** o **subastadas** en otros países.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/Arte-museo-del-sol-1024x683.jpg)
+
+Cuadros pintados por Ortega Maila. Foto: EL COMERCIO.
+
+Templo de la luna
+-----------------
+
+El Templo de la luna está ubicado en la parte posterior del Templo del sol. Su entrada está rodeada de estatuas de piedra, que según sus guías, contienen las almas de los indígenas que no se dejaron colonizar por los españoles.
+
+En el interior del santuario, la guía explica la relación que tenían los **indígenas** con la **Pacha mama**, y cómo manejaban su **calendario agrícola**, dependiendo de las fases lunares.
+
+Las **leyendas**, **historias** y **creencias** son la parte más atractiva de este recorrido que dura aproximadamente dos horas.
+
+El **Templo del Sol** abre sus puertas al público de 09:00 a 20:00 de lunes a domingo. El precio de las entradas es de dos dólares para niños y cuatro para los adultos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/Museo-del-sol-obras-1024x683.jpg)
+
+Esculturas que representan el papel de la mujer dentro de las culturas ancestrales de Quito. Foto: EL COMERCIO.
+
+Biden insistió en regresar a la campaña presidencial, pese a los pedidos demócratas
+===================================================================================
+
+El portavoz de la campaña, Michael Tyler, aseguró que el presidente Biden no desistirá. Regresará cuando sea dado de alta por covid 19.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Biden se encuentra actualmente en aislamiento en su vivienda de Delaware, después de que el miércoles diera positivo por covid-19 mientras hacía campaña en Nevada. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2023/05/13-5.jpg)
+
+##### Agencia EFE
+
+Pese a las crecientes críticas sobre la idoneidad del presidente de EE.UU., **Joe Biden**, para presentarse a la reelección, la campaña del mandatario continúa cerrando filas en torno al demócrata.
+
+Este sábado aseguró que **pronto regresará a la carretera**, tan pronto como se recupere del **covid-19.**
+
+“Tan pronto como tengamos luz verde, volveremos a estar en la campaña” y el presidente “seguirá haciéndolo, como lo vieron hacer todos los días desde el debate en Atlanta”, apuntó en una llamada con medios el portavoz de la campaña, **Michael Tyler.**
+
+La situación de salud de Biden
+------------------------------
+
+**Biden** se encuentra actualmente en aislamiento en su vivienda de **Delaware**, después de que diera positivo por covid-19 mientras hacía campaña en **Nevada**, estado clave para los comicios de noviembre de 2024. 
+
+Según el último informe del médico del mandatario, **Kevin O’Connor**, Biden ha experimentado una mejoría “significativa” aunque sigue con síntomas, especialmente **tos seca y ronquera.**
+
+El pedido demócrata de que se retire crece
+------------------------------------------
+
+Todo ello mientras cada vez **más demócratas del Congreso** le piden que ponga **fin a su candidatura** para las elecciones de noviembre de 2024. Al menos una treintena han pedido a **Biden** públicamente que se retire.
+
+**Tyler** no hizo balance este sábado 20 de julio de 2024 de las críticas pero aseguró que el **presidente volverá** lo antes que pueda.
+
+No ofreció detalles sobre dónde podría reaparecer, pero explicó que probablemente se seguirá centrando en estados clave como **Nevada, Arizona, Georgia y Carolina del Norte**, así como en el conocido como ‘muro azul’: **Pensilvania, Wisconsin y Míchigan.**
+
+En este último, en la localidad de **Grand Rapids**, ofrecerá este sábado 20 de julio de 2024 un mitin el expresidente **Donald Trump (2017-2021**), el primero tras el intento de asesinato en su contra de hace una semana y también el primero desde que aceptó la nominación esta semana en la convención del **Partido Republicano en Milwaukee (Wisconsin).** 
+
+**Trump** estará acompañado de su candidato a vicepresidente, el senador por **Ohio J.D. Vance**, en el primer mitin de la **fórmula presidencial republicana.**
+
+Estos son los cierres viales en Quito para el sábado 20 de julio de 2024
+========================================================================
+
+Desde las 16:00 de este sábado 20 de julio, un grupo de 57 agentes civiles de tránsito (ACT) realizarán un operativo.
+---------------------------------------------------------------------------------------------------------------------
+
+![Agentes Civiles de Tránsito (ACT) realizarán un operativo](https://www.elcomercio.com/wp-content/uploads/2024/07/amt-cierres.jpg)
+
+La **Agencia Metropolitana** de **Tránsito (AMT)** informó sobre los cierres viales para este sábado 20 de julio de 2024 debido el concierto de la agrupación mexicana Morat.
+
+### Más noticias
+
+* [Horario de cierres viales en la avenida Simón Bolívar este 10 de julio de 2024](https://www.elcomercio.com/actualidad/quito/avenida-simon-bolivar-horarios-cierres-trabajos-municipio.html "Horario de cierres viales en la avenida Simón Bolívar este 10 de julio de 2024")
+* [Quito tendrá 94 cierres viales por Ruta de las Iglesias, este sábado 6 de julio](https://www.elcomercio.com/actualidad/quito/cierres-viales-carrera-rutas-iglesias-quito.html "Quito tendrá 94 cierres viales por Ruta de las Iglesias, este sábado 6 de julio")
+* [Horario de cierres viales en la avenida Simón Bolívar este 3 de julio de 2024](https://www.elcomercio.com/actualidad/quito/avenida-simon-bolivar-cierres-trabajos-rehabilitacion.html "Horario de cierres viales en la avenida Simón Bolívar este 3 de julio de 2024")
+
+Desde las 16:00 de este sábado 20 de julio de 2024, un total de 57 agentes civiles de tránsito (ACT) realizará un operativo con los siguientes cierres viales debido al concierto de Morat en el **Estadio Olímpico Atahualpa** (norte).
+
+Cierre principal
+----------------
+
+A las 16:00 se encontrará con restricción vehicular las siguientes calles:
+
+* José Correa y Sebastián Quinteros.
+* Manuel María Sánchez y Quintero.
+* 6 de Diciembre y Germán Alemán.
+
+Cierre secundario
+-----------------
+
+Al existir una alta afluencia de peatones en la vía, se implementarán cierres:
+
+* 6 de Diciembre y José Correa.
+* José Correa y Gonzalo Serrano.
+* José Correa y Carlos Arroyo del Río.
+* Manuel María Sánchez y Carlos Arroyo del Río.
+* Manuel María Sánchez y Juan Ramírez.
+* Manuel María Sánchez y Javier Arauz.
+* Manuel María Sánchez y av. 6 de Diciembre.
+* 6 de Diciembre y av. Portugal.
+* Suecia y Av. De los Shyris.
+* Naciones Unidas y av. De los Shyris.
+* Naciones Unidas y av. República del Salvador.
+* Portugal y av. República del Salvado.
+* El Comercio y Av. 6 de Diciembre.
+
+Vías alternas
+-------------
+
+* De los Shyris.
+* Amazonas.
+* Eloy Alfaro.
+* 10 de Agosto.
+
+Recomendaciones de la AMT
+-------------------------
+
+Para este sábado 20 de julio de 2024 se recomienda utilizar transporte público, estacionar solo en lugares permitidos y priorizar la circulación de peatones.
