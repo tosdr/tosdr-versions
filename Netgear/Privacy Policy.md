@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[PRIME-TIME SAVINGS **\>>**](https://store.netgear.com/home/?lang=en_us)
+[LIMITED TIME OFFERS **\>>**](https://store.netgear.com/home/?lang=en_us)
 
 [UPGRADE TO ORBI WIFI 7 **\>>**](https://www.netgear.com/home/wifi/mesh/rbe973sb/)
 
@@ -83,7 +83,6 @@ Previous Next
     
     * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/smbnet-wireless-accpoi-remgmt/)
     * [Business Essentials Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-locmgmt/)
-    * [Accessories](https://www.netgear.com/business/wired/switches/accessories/)
     * [Cables](https://www.netgear.com/business/wifi/cables/)
     
     Wired Networking
@@ -310,7 +309,7 @@ Checkout
 
 [Skip to main content](#main)
 
-[PRIME-TIME SAVINGS **\>>**](https://store.netgear.com/home/?lang=en_us)
+[LIMITED TIME OFFERS **\>>**](https://store.netgear.com/home/?lang=en_us)
 
 [UPGRADE TO ORBI WIFI 7 **\>>**](https://www.netgear.com/home/wifi/mesh/rbe973sb/)
 
@@ -388,7 +387,6 @@ Shop By Brand :
 
 * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/smbnet-wireless-accpoi-remgmt/)
 * [Business Essentials Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-locmgmt/)
-* [Accessories](https://www.netgear.com/business/wired/switches/accessories/)
 * [Cables](https://www.netgear.com/business/wifi/cables/)
 
 [Wired Networking](#navdrop9)
@@ -595,7 +593,7 @@ Sign up and enjoy these benefits!
 * [Management Team](https://www.netgear.com/about/management/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Releases](https://www.netgear.com/about/press-releases/)
-* [Careers](https://www.netgear.com/about/careers/)
+* [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
 * [Regulatory/Export Compliance](https://www.netgear.com/about/regulatory/)
 * [Security Advisory](https://www.netgear.com/about/security/)
 * [Privacy Policy](https://www.netgear.com/about/privacy-policy/)
@@ -967,7 +965,7 @@ CUSTOMER CARE
 COMPANY
 
 * [About Us](https://www.netgear.com/about/)
-* [Careers](https://www.netgear.com/about/careers/)
+* [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
 * [Social Responsibility](https://www.netgear.com/about/esg-environmental-social-governance/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Room](https://www.netgear.com/hub/pressroom/)
