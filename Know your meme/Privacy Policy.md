@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![These Laughing Emoji Memes Hit Right Where It Hurts: The Deep-Rooted Psychological Problems](https://i.kym-cdn.com/featured_items/icons/wide/000/025/188/cover3.jpg "These Laughing Emoji Memes Hit Right Where It Hurts: The Deep-Rooted Psychological Problems")
+* [!["Hey Beter" Memes Are Ironic Hell](https://i.kym-cdn.com/featured_items/icons/wide/000/025/226/Screen_Shot_2017-03-16_at_12.03.00_PM.png "Happy Anniversary To 'Hey Beter' Perhaps The First Sign Memes Were Becoming Brain Rot")
     
-    These Laughing Emoji Memes Hit Right Where It Hurts: The Deep-Rooted Psychological Problems](https://knowyourmeme.com/memes/existential-roast-emoji-youre-too-invested-in-how-you-are-perceived)
+    Happy Anniversary To 'Hey Beter' Perhaps The First Sign Memes Were Becoming Brain Rot](https://knowyourmeme.com/memes/hey-beter)
     
-* [![Genshin Impact Cultural Appropriation And Whitewashing Allegations Becomes Viral Topic On The Internet](https://i.kym-cdn.com/featured_items/icons/wide/000/025/187/genshin_cover.jpg "Genshin Impact Cultural Appropriation And Whitewashing Allegations Becomes Viral Topic On The Internet")
+* [![The 'Don't Send Me Any' Memes Demonstrate Reverse Psychology In Action](https://i.kym-cdn.com/featured_items/icons/wide/000/025/225/cover8.jpg "The 'Don't Send Me Any' Memes Demonstrate Reverse Psychology In Action")
     
-    Genshin Impact Cultural Appropriation And Whitewashing Allegations Becomes Viral Topic On The Internet](https://knowyourmeme.com/memes/events/genshin-impact-cultural-appropriation-and-whitewashing-controversy)
+    The 'Don't Send Me Any' Memes Demonstrate Reverse Psychology In Action](https://knowyourmeme.com/memes/i-hate-x-pics-dont-send-me-any)
     
-* [![McDonald's Caters To Anime Fans Again, Lets Memers Go Nuts With PNG Of Hands Holding Hashbrowns](https://i.kym-cdn.com/featured_items/icons/wide/000/025/186/mcd_hashbrowns.jpg "McDonald's Caters To Anime Fans Again, Lets Memers Go Nuts With PNG Of Hands Holding Hashbrowns")
+* [![Dan Hentschel Drinking Vodka In A Car Becomes Viral Reaction Video On Twitter](https://i.kym-cdn.com/featured_items/icons/wide/000/025/224/Dan_Hentschel_cover.jpg "Dan Hentschel Drinking Vodka In A Car Becomes Viral Reaction Video On Twitter")
     
-    McDonald's Caters To Anime Fans Again, Lets Memers Go Nuts With PNG Of Hands Holding Hashbrowns](https://knowyourmeme.com/memes/hands-holding-mcdonalds-hashbrowns)
+    Dan Hentschel Drinking Vodka In A Car Becomes Viral Reaction Video On Twitter](https://knowyourmeme.com/memes/dan-hentschel-drinking-vodka-in-a-car)
     
-* [![Images Of This Fellow Showing Off His Bands Has Been Showing Up More And More In Memes Lately](https://i.kym-cdn.com/featured_items/icons/wide/000/025/185/cover1.jpg "Images Of This Fellow Showing Off His Bands Has Been Showing Up More And More In Memes Lately")
+* [![If You Ever Want To Troll An Artist, Ask Them 'What Prompt Did You Use?'](https://i.kym-cdn.com/featured_items/icons/wide/000/025/223/wp.jpg "If You Ever Want To Troll An Artist, Ask Them 'What Prompt Did You Use?'")
     
-    Images Of This Fellow Showing Off His Bands Has Been Showing Up More And More In Memes Lately](https://knowyourmeme.com/memes/fat-black-guy-with-bands)
+    If You Ever Want To Troll An Artist, Ask Them 'What Prompt Did You Use?'](https://knowyourmeme.com/memes/what-prompt-did-you-use)
     
-* [![Homework Spelled Backwards meme](https://i.kym-cdn.com/featured_items/icons/wide/000/025/184/homework_spelled_backwards.jpg "'Homework' Spelled Backwards Is 'Krowemoh' Which Means Something Bad According To Google")
+* [![People Are Writing Mini-Memoirs In TikTok Slides With The 'If You Asked Me On A Deeper Level' Format](https://i.kym-cdn.com/featured_items/icons/wide/000/025/222/if-you-asked-me-on-a-deeper-level.jpg "People Are Writing Mini-Memoirs In TikTok Slides With The 'If You Asked Me On A Deeper Level' Format")
     
-    'Homework' Spelled Backwards Is 'Krowemoh' Which Means Something Bad According To Google](https://knowyourmeme.com/memes/homework-spelled-backwards)
+    People Are Writing Mini-Memoirs In TikTok Slides With The 'If You Asked Me On A Deeper Level' Format](https://knowyourmeme.com/memes/if-you-asked-me-on-a-deeper-level-tiktok-trend)
     
 
 ##### Also Trending:
 
-[CrowdStrike Microsoft Global Outage](https://knowyourmeme.com/memes/events/crowdstrike-microsoft-global-outage--2 "CrowdStrike Microsoft Global Outage") [Bumps Into You, Directly Injecting](https://knowyourmeme.com/memes/bumps-into-you-directly-injecting-x-into-your-y "Bumps Into You, Directly Injecting") [Tomboy Milk](https://knowyourmeme.com/memes/femboy-milk-tomboy-milk "Tomboy Milk") ["Homework" Spelled Backwards](https://knowyourmeme.com/memes/homework-spelled-backwards ""Homework" Spelled Backwards")
+[Derp](https://knowyourmeme.com/memes/derp)
 
 Privacy Policy
 ==============
