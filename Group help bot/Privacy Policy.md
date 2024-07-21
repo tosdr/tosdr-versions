@@ -118,12 +118,13 @@ For each type of data collected it is specified how we collect them, why we coll
     
     * These are saved as long as your account exists on Telegram (and up to 20 years after its eventual cancellation).
     * These are saved to allow us to help you in the best possible way and to improve the quality of our support service.
-15. We save the date, type of service bought for each purchase made in our bots. We may save the type payment method used (like Stripe, PayPal, Bitcoin, etc.).
+15. We save the date, type of service bought for each purchase made in our bots. We may save the type payment method used (like Telegram Stars, Stripe, PayPal, etc.).
     
-    * If you use Stripe we may also store the Stripe transaction ID.
-    * If you use PayPal we may also store your PayPal e-mail address.
-    * If you use a cryptocurrency, we may also store the transaction ID you send to us.
-    * These are saved as long as your account exists on Telegram (and up to 20 years after its eventual cancellation).
+    * If you use Telegram Stars we may also store the Telegram Stars transaction ID to be able to refund it
+    * If you used Stripe we may also store the Stripe transaction ID.
+    * If you used PayPal we may also store your PayPal e-mail address.
+    * If you used a cryptocurrency, we may also store the transaction ID you send to us.
+    * These are saved until you specifically request their deletion, to allow you to always use the purchased functions.
     * If you ask for the deletion of this data you will no longer be able to use the options you have purchased and also all the information of the following 4 points will be deleted.
 16. We save in which groups you activated the "PRO" option.
     
@@ -134,7 +135,7 @@ For each type of data collected it is specified how we collect them, why we coll
 17. We save in which groups you activated the "ULTRAPRO" option, when you did it and for how many months you activated it.
     
     * These are sent by yourself using the bot commands.
-    * These are saved as long as your account exists on Telegram (and up to 20 years after its eventual cancellation).
+    * These are saved until you specifically request their deletion, to allow you to always use the purchased functions.
     * If you ask for the deletion of this data, the groups in which you activated the "ULTRAPRO" will no longer be ULTRAPRO, but you won't be able to use in other groups the ULTRAPRO months already consumed.
 18. We save in which bots you activated the "Start custom" option.
     
@@ -144,7 +145,7 @@ For each type of data collected it is specified how we collect them, why we coll
 19. We save your eventually "Lang custom" codes and names.
     
     * These are sent by yourself when you buy it and when you use the commands in [@GHTranslationsTeamBot](https://t.me/GHTranslationsTeamBot).
-    * These are saved as long as your account exists on Telegram (and up to 20 years after its eventual cancellation).
+    * These are saved until you specifically request their deletion, to allow you to always use the purchased functions.
     * If you ask for the deletion of this data, the group in which you activated your "Lang customs" will no longer have them and you will no longer be able to modify or active in groups the "Lang customs" already purchased.
 20. We save that you've been included in our global [Blocklist](https://www.grouphelp.top/blocklist), the date of adding, the date of removing, the reasons that led to this provision and the eventually proofs (textual or multimedia) that may support these reasons.
     
@@ -154,6 +155,7 @@ For each type of data collected it is specified how we collect them, why we coll
     * Reasons and evidence of the Blocklist could also be communicated by our support to other Telegram accounts which we believe are yours, if they request them to our support.
     * If you join a group in which your Blocklist is activated, all users of the group and in particular the group's staff may become aware that you are included in it, but they will not receive any further information about it.
     * These are saved as long as your account exists on Telegram (and up to 20 years after its eventual cancellation).
+    * These are saved forever, to guarantee the safety of the groups and identify any recidivism.
     * You cannot request the deletion of this data as it is necessary to offer our public service.
 
 The data is stored in our systems, which run on servers located exclusively in European Union countries. Your information may be accessible, in addition to the users already specified point by point, also to [our Bot Staff](https://t.me/s/GHSupporters), to provide the service in the best possible way and for the verification of abuse of the service.
@@ -194,6 +196,8 @@ Group Help does not knowingly collect any Personal Identifiable Information from
 Bruno Andreuccetti  
 E-mail: [bruno@grouphelp.top](mailto:bruno@grouphelp.top)  
 PEC: bruno.andreuccetti@postecert.it
+
+Last update: July 19, 2024
 
 Copyright © 2016-2024 · Group Help · P.IVA/VAT IT07072510485 P.IVA/VAT IT07072510485  
 Copyright © 2016-2024
