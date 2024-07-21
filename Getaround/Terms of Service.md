@@ -76,13 +76,13 @@ Available all over the United States
 
 [Las Vegas](https://www.getaround.com/car-rental/las-vegas-nv)
 
+[Portland](https://www.getaround.com/car-rental/portland-or)
+
+[Baltimore](https://www.getaround.com/car-rental/baltimore-md)
+
+[San Diego](https://www.getaround.com/car-rental/san-diego-ca)
+
 [New York City](https://www.getaround.com/car-rental/new-york-city-ny)
-
-[Denver](https://www.getaround.com/car-rental/denver-co)
-
-[Oakland](https://www.getaround.com/car-rental/oakland-ca)
-
-[Seattle](https://www.getaround.com/car-rental/seattle-wa)
 
 Own a car? Put it to work!
 --------------------------
