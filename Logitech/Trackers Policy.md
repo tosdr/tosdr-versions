@@ -514,7 +514,7 @@ CUSTOMERS
 
  [![](/content/dam/logitech/common/facebook.svg)](http://www.facebook.com/Logitech)[![](/content/dam/logitech/common/twitter.svg)](http://www.twitter.com/Logitech)[![](/content/dam/logitech/common/instagram-logo.svg)](http://instagram.com/logitech?ref=badge)
 
-   
+    
 
  Yes, I want to receive news and product emails. Read our [privacy policy](https://www.logitech.com/en-us/legal/web-privacy-policy.html).
 
@@ -558,7 +558,7 @@ Your cart is currently empty. Begin shopping now Close
 
 We'll email you when this product becomes available for purchase
 
-      
+       
 
 SUBMIT
 
