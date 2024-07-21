@@ -89,8 +89,6 @@ Search the National Theatre  Search
     
     Shop](https://shop.nationaltheatre.org.uk/)
 
-**Please note**: you can purchase tickets and memberships online. However, phone booking and support are still unavailable
-
 Cookies
 =======
 
