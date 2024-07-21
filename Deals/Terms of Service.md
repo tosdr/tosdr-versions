@@ -1,11 +1,5 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)   
 
-![](https://img.gg.deals/2b/46/36efa4539b68ae7eaaa4b2415cac07fdb6ff_1224cr120_Q100.jpg)
-
-![](https://img.gg.deals/af/5d/ed030f16bb3d5f2190d057f80cafe4cd2d38_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/gb/redirect/0b09abd946c59be794aaf099e1c27476ac098895/?utm_source=page%2Fpage)
-
 Region: United Kingdom
 
 Keyshops: Enabled
@@ -41,6 +35,12 @@ Light Dark
 ![Loading](https://img.gg.deals/__/__/loading_40cr40.gif)
 
 * [Sign in through **Steam**](https://gg.deals/user/login/?return=%2Fterms%2F)
+
+![](https://img.gg.deals/ff/e6/a2cc82544cc240bb6627f979d39117cfa27f_1272cr200_Q100.jpg)
+
+![](https://img.gg.deals/3a/11/d8f68316d1bc40815c8e882f9ad86dfb5bc6_2560xt1440_Q100.jpg)
+
+[](https://gg.deals/gb/redirect/d5986de2360315e41bc20891ae8cab00057b8c6d/?utm_source=page%2Fpage)[](https://gg.deals/gb/redirect/d5986de2360315e41bc20891ae8cab00057b8c6d/?utm_source=page%2Fpage)[](https://gg.deals/gb/redirect/d5986de2360315e41bc20891ae8cab00057b8c6d/?utm_source=page%2Fpage)
 
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
