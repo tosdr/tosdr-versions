@@ -13,8 +13,8 @@ X
         --------
         
         *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gkd-nav.svg)  GitKraken Desktop](https://www.gitkraken.com/git-client)
-        *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-cli-nav.svg)  GitKraken CLI](https://www.gitkraken.com/cli)
         *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gl-nav.svg)  GitLens for VS Code](https://www.gitkraken.com/gitlens)
+        *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-cli-nav.svg)  GitKraken CLI](https://www.gitkraken.com/cli)
         *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/Group-19573.svg)  GitKraken.dev](https://www.gitkraken.com/gitkraken-dev)
         *   [![](https://www.gitkraken.com/wp-content/uploads/2024/05/gk-be-nav.svg)  GitKraken Browser Extension](https://www.gitkraken.com/browser-extension)
         
