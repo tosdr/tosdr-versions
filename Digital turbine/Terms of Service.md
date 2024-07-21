@@ -1,3 +1,5 @@
+![“”](“https://px.ads.linkedin.com/collect/?pid=2666130&fmt=gif”)
+
 [![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661917c5a7cc10c6a4630e9f_logo-digital-turbine.svg)![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661d1550ed5858b5b592dd33_DT%20footer%20mobile%20logo.svg)](https://www.digitalturbine.com/)
 
 [App Developers](https://www.digitalturbine.com/app-developers)
@@ -111,3 +113,5 @@ Copyright © 2024 Digital Turbine, Inc. All rights Reserved.
 [Terms of Use](https://www.digitalturbine.com/legal/terms-of-use)[Privacy Policy](https://www.digitalturbine.com/legal/privacy-policy)[Cookie Policy](https://www.digitalturbine.com/legal/cookie-policy)[Do Not Sell or Share My Personal Information](https://www.digitalturbine.com/legal/do-not-sell-or-share-my-personal-information-website)[Legal](https://www.digitalturbine.com/legal)[Brand Safety Policy](https://www.digitalturbine.com/legal/brand-safety)[Ad Content Guidelines](https://www.digitalturbine.com/legal/adv-content-guidelines)[Digital Services Act](https://www.digitalturbine.com/legal/dsa)
 
 We use cookies to operate our site and for marketing purposes. Please view our [Privacy Policy](https://www.digitalturbine.com/legal/privacy-policy) or [Do Not Sell My Personal Information](https://www.digitalturbine.com/legal/do-not-sell-or-share-my-personal-information-website) Policy for more details.
+
+![](“https://www.facebook.com/tr?id=547747572565535&ev=PageView&noscript=1”)
