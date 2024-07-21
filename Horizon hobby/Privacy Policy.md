@@ -1,7 +1,8 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------
+**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
  
 
@@ -85,8 +86,9 @@ My store
 
 [](#)
 
-New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
------------------------------------------------------------------------------------------
+**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -376,16 +378,6 @@ Check out all the deals on your favorite RC Product.
 
 Shop & Save!
 
-##### 12 Days of Christmas in July
-
-![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwdb3bd5ff/merch/promotions/949484-12-days/949484-324x190.jpg)
-
-New RC Deal Every Day!
-
-July 8th - July 19th
-
-[SAVE NOW](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
-
 ##### RC Summer Savings Sale
 
 ![deals 2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw408fa807/merch/promotions/949303-hot-summer-savings/949303-324x190.jpg)
@@ -394,7 +386,7 @@ Save up to $120
 
 July 3rd - July 28th
 
-[SAVE NOW](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+[SAVE NOW](https://www.horizonhobby.com/hot-summer-savings-sale/)
 
 ![image asset2](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwcc75a16e/merch/promotions/nelp/nelp-324x190.jpg)
 
