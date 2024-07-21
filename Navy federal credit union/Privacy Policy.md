@@ -6,6 +6,8 @@
 
 Please enter a search term
 
+[VISIT HELP CENTER](https://www.navyfederal.org/help-center.html)
+
 * [Personal](https://www.navyfederal.org/)
     
     * [Personal Main](https://www.navyfederal.org/)
@@ -32,7 +34,7 @@ Please enter a search term
         
     * Credit Cards
         
-        * [Our Cards](https://www.navyfederal.org/loans-cards/credit-cards.html)
+        * [Browse All Cards](https://www.navyfederal.org/loans-cards/credit-cards.html)
             * [Card Benefits](https://www.navyfederal.org/loans-cards/credit-cards/features.html)
             * [Deals for Cardholders](https://www.navyfederal.org/loans-cards/credit-cards/cardholder-resources/member-deals.html)
             * [Prequalify for a Card](https://www.navyfederal.org/loans-cards/credit-cards/credit-card-basics/prequalification.html)
@@ -66,9 +68,9 @@ Please enter a search term
             * [Home Project Financing Center](https://www.navyfederal.org/loans-cards/equity/home-improvement.html)
         * [Auto Loans](https://www.navyfederal.org/loans-cards/auto-loans.html)
             * [Auto Loan Rates](https://www.navyfederal.org/loans-cards/auto-loans/auto-rates.html)
+            * [Refinancing](https://www.navyfederal.org/loans-cards/auto-loans/auto-refinance-rates.html)
             * [Preapproval](https://www.navyfederal.org/loans-cards/auto-loans/auto-learning-center/preapproval.html)
             * [Auto Loan Calculator](https://www.navyfederal.org/loans-cards/auto-loans/calculators.html)
-            * [Refinancing](https://www.navyfederal.org/loans-cards/auto-loans/auto-refinance-rates.html)
             * [Motorcycle, Boat & RV Loans](https://www.navyfederal.org/loans-cards/auto-loans/motorcycle-boat-rv.html)
             * [Car Buying Center](https://www.navyfederal.org/loans-cards/auto-loans/auto-resources/car-buying-center.html)
             * [Auto Insurance](https://www.navyfederal.org/loans-cards/auto-loans/auto-resources/insurance.html)
@@ -149,18 +151,18 @@ Please enter a search term
             * [Estate Planning](https://www.navyfederal.org/investment-services/estate-planning.html)
             * [Digital Investor](https://www.navyfederal.org/investment-services/investments/digital-investor.html)
         * [Life Insurance](https://www.navyfederal.org/investment-services/life-insurance.html)
-        * * Sign In:
+        * Sign In:
             * [Investment Account](https://mpv3.orcasnet.com/#/login/NAVY?accessor=)
             * [Digital Investor Account](https://digitalinvestor.navyfederal.org/#/login)
         * * [Find an Advisor](https://www.navyfederal.org/investment-services/contact.html)
         
-        [![A mother and daughter are lying on their tummies on the floor reading a book together, while dad and their son are watching a digital screen in the background](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-1527900211?qlt=80&ts=1718734310234&dpr=off "1527900211")
+        [![A mother and daughter are lying on their tummies on the floor reading a book together, while dad and their son are watching a digital screen in the background](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-1527900211?qlt=80&ts=1719320195109&dpr=off "1527900211")
         
         ### Simplifying Investing—for Beginners to Pros
         
         In as little as 10 minutes, you could be investing with Digital Investor’s automated or self-directed tools. Want personalized guidance? Our financial advisors can help you create an investing strategy that matches your needs and preferences.](https://www.navyfederal.org/investment-services/investments.html?intcmp=nfo|nav||nfis|invst|menu|02242024||investments|)
         
-        [![Smiling young couple using laptop while having coffee at table in cottage](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-4995505311?qlt=80&ts=1718734310234&dpr=off "499550531")
+        [![Smiling young couple using laptop while having coffee at table in cottage](https://dm-assets.navyfederal.org/is/image/nfcu/gettyimages-4995505311?qlt=80&ts=1719320195109&dpr=off "499550531")
         
         ### 7 Investing Strategies to Multiply Your Earnings
         
@@ -255,10 +257,12 @@ Please enter a search term
     
 
 * [Sign In](https://digitalapps.navyfederal.org/signin/) [Sign Out](https://links.navyfederal.org/signout)
+* [Help Center](https://www.navyfederal.org/help-center.html)
 * [Branches & ATMs](https://www.navyfederal.org/branches-atms.html)
 * Routing Number: **256074974**
 
 * [Sign In](https://digitalapps.navyfederal.org/signin/) [Sign Out](https://links.navyfederal.org/signout)
+* [Help Center](https://www.navyfederal.org/help-center.html)
 * [Branches & ATMs](https://www.navyfederal.org/branches-atms.html)
 * Routing Number: **256074974**
 
@@ -378,7 +382,7 @@ _"Be the most preferred and trusted financial institution serving the military a
 * [Contact Us](https://www.navyfederal.org/contact-us.html)
 * [Branches & ATMs](https://www.navyfederal.org/branches-atms.html)
 * [Current Rates](https://www.navyfederal.org/rates.html)
-* [FAQs](https://www.navyfederal.org/membership/faqs.html)
+* [Help Center](https://www.navyfederal.org/help-center.html)
 * [Security Center](https://www.navyfederal.org/services/security.html)
 * [Forms & Brochures](https://www.navyfederal.org/forms.html)
 
