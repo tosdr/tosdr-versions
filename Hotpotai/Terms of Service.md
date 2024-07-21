@@ -22,7 +22,7 @@ AI Game
 
 Create game content with AI
 
-[AI Game Tools](https://hotpot.ai/game-tools) [AI Game Background](https://hotpot.ai/background-generator-game) [AI Game Copywriter](https://hotpot.ai/sparkwriter-game) [AI Game Logo](https://hotpot.ai/logo-generator-game) [AI Characters](https://hotpot.ai/ai-character) [AI DnD Generator](https://hotpot.ai/dnd-generator)
+[AI Game Tools](https://hotpot.ai/game-tools) [AI Game Background](https://hotpot.ai/background-generator) [AI Game Copywriter](https://hotpot.ai/sparkwriter) [AI Game Logo](https://hotpot.ai/logo-generator) [AI Characters](https://hotpot.ai/ai-character) [AI DnD Generator](https://hotpot.ai/dnd-generator)
 
 AI Writing
 
