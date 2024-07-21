@@ -17,8 +17,9 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's Paris Olympics Opening Ceremony** Get tickets now to watch in IMAX Theatres!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get a free ticket to see Touch** Use code TOUCH at checkout
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Experience AMC Screen Unseen: July 22nd** Be the First to Watch! Film Revealed @ Showtime](https://www.fandango.com/amc-screen-unseen-july-22-237021/movie-overview?date=2024-07-22&cmp=TARS~FANDANGO~AMCSCREENUNSEEN722_GlobalNav)
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's Paris Olympics Opening Ceremony** Get tickets now to watch in IMAX Theatres!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Get a ticket to see Despicable Me 4 in theaters** Plus a Team USA Minions T-Shirt!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $5 on The X Trilogy Bundle** When you buy a ticket to MaXXXine
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
@@ -228,13 +229,13 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [CHECK OUT YOUR LOCAL SUMMER MOVIE SPECIALS! image link ![CHECK OUT YOUR LOCAL SUMMER MOVIE SPECIALS!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b894ae00-242b-11ef-8321-2b978811c524--fan-globalofferunit-homepage-summerexhibitor-292x118.png)](https://www.fandangomovietickets.com/exhibitorsummerseries1?cmp=TARS~FANDANGO~exhibitorsummerseries_Footer) 
+* [GET A FREE TICKET TO SEE TOUCH image link ![GET A FREE TICKET TO SEE TOUCH](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b6f980d0-4536-11ef-8321-2b978811c524--fan-globalofferunit-homepage-touch-292x118.png)](https://www.fandangomovietickets.com/TouchSpecialOffer?cmp=TARS~FANDANGO~TouchTicketingOffer_Footer) 
     
-    ### CHECK OUT YOUR LOCAL SUMMER MOVIE SPECIALS!
+    ### GET A FREE TICKET TO SEE TOUCH
     
-    Beat the heat with these great deals all season long
+    Get a free ticket to see Touch (Up to $15 ticket price and fees) Use code TOUCH at checkout
     
-    [LEARN MORE](https://www.fandangomovietickets.com/exhibitorsummerseries1?cmp=TARS~FANDANGO~exhibitorsummerseries_Footer)
+    [GET TICKETS](https://www.fandangomovietickets.com/TouchSpecialOffer?cmp=TARS~FANDANGO~TouchTicketingOffer_Footer)
     
 * [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5368a700-35a8-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-dm4-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~DM4OlympicsFanatics_Footer) 
     
@@ -342,6 +343,20 @@ New & Coming soon
 
 © 2024 Fandango
 
+### Special Offer
+
+Close
+
+![Get a free ticket to see Touch](https://images.fandango.com/cms/assets/e6a06b20-4539-11ef-8321-2b978811c524--fan-globalnavbar-touch-343x362.jpg)
+
+#### Get a free ticket to see Touch (Up to $15 ticket price and fees) Use code TOUCH at checkout
+
+Limited time offer. While supplies last. Fandango Promotional Code (“Code”) is good towards the purchase of one ticket (up to $15 total ticket price and associated fees and charges) to see Touch at Fandango partner theaters in the US. Code expires, and can no longer be used, upon the earlier of 7/30/24, or when Touch is no longer in theaters, or when the limit of Code redemptions has been reached. One-time use only. Code must be entered at checkout. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. Not for resale; void if sold or exchanged. You may have to pay taxes, shipping, and handling additionally. If cost of the ticket and associated fees and charges is more than maximum value of the Code, then you must pay the difference. Any price difference between the total transaction price and maximum value of the Code will not be refunded. Limit 1 Code per person. Fandango reserves the right to modify or cancel this offer at any time and without notice. The offer and redemption of the Code are subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. [Get Tickets](https://www.fandangomovietickets.com/TouchSpecialOffer?cmp=TARS~FANDANGO~TouchTicketingOffer_GlobalNav)
+
+### Experience AMC Screen Unseen: July 22nd
+
+Close
+
 ### Special Event
 
 Close
@@ -351,10 +366,6 @@ Close
 #### Get tickets to see the 2024 Olympics Opening Ceremony in IMAX Theaters!
 
 [Buy Tickets](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_GlobalNav)
-
-### Experience AMC Screen Unseen: July 22nd
-
-Close
 
 ### Ticket and a Tee Pack!
 
