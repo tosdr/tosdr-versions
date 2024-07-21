@@ -422,7 +422,7 @@ Activate your premium subscription today.
 * [Home](https://www.manoramaonline.com/)
 * Search
 * [Obituary](https://www.manoramaonline.com/district-news/thiruvananthapuram/obituary.html)
-* [Shortz](https://www.manoramaonline.com/shortz.html)
+* [Quick Read](https://quickread.manoramaonline.com/)
 * [Our Sites](https://www.manoramaonline.com/services.html)
 
 ### Our Sites
