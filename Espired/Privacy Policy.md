@@ -17,7 +17,7 @@ Privacy policy
 
 **Website Privacy Policy**
 
-**Last modified: June 22, 2021**
+**Last modified: July 19, 2024**
 
 **Introduction**
 
@@ -57,6 +57,8 @@ We collect this information:
 * Directly from you when you provide it to us.
 * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies.
 * From third parties, for example, our business partners.
+
+When you visit or log in to our website, cookies and similar technologies may be used by our online data partners or vendors to associate these activities with other personal information they or others have about you, including by association with your email or home address. We (or service providers on our behalf) may then send communications and marketing to these email or home addresses. You may opt out of receiving this advertising by visiting [https://app.retention.com/optout](https://app.retention.com/optout)
 
 **Information You Provide to Us.** 
 
