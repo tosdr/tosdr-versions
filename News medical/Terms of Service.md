@@ -350,6 +350,10 @@ Last Updated: May 26, 2022
     
     [COVID-19 leads to long-term changes in the immune system, study shows](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
     
+* [![Breakthrough in aging research: Blocking IL-11 extends lifespan and improves health in mice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240718/Breakthrough-in-aging-research-Blocking-IL-11-extends-lifespan-and-improves-health-in-mice.aspx)
+    
+    [Breakthrough in aging research: Blocking IL-11 extends lifespan and improves health in mice](https://www.news-medical.net/news/20240718/Breakthrough-in-aging-research-Blocking-IL-11-extends-lifespan-and-improves-health-in-mice.aspx)
+    
 * [![Research reveals optimal magnesium levels could lower dementia risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240715/Research-reveals-optimal-magnesium-levels-could-lower-dementia-risk.aspx)
     
     [Research reveals optimal magnesium levels could lower dementia risk](https://www.news-medical.net/news/20240715/Research-reveals-optimal-magnesium-levels-could-lower-dementia-risk.aspx)
@@ -358,13 +362,9 @@ Last Updated: May 26, 2022
     
     [J.D. Vance, Trump’s VP pick, says media twisted his remarks on abortion and domestic violence](https://www.news-medical.net/news/20240716/JD-Vance-Trumpe28099s-VP-pick-says-media-twisted-his-remarks-on-abortion-and-domestic-violence.aspx)
     
-* [![What is the association of Mediterranean diet–based interventions with cardiometabolic biomarkers in children and adolescents?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240716/What-is-the-association-of-Mediterranean-diete28093based-interventions-with-cardiometabolic-biomarkers-in-children-and-adolescents.aspx)
+* [![Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240717/Heart-of-the-Matter-Early-Diagnosis-and-Intervention-in-Heart-Failure-with-Prof-Martin-Cowie-Dr-Lisa-Anderson.aspx)
     
-    [What is the association of Mediterranean diet–based interventions with cardiometabolic biomarkers in children and adolescents?](https://www.news-medical.net/news/20240716/What-is-the-association-of-Mediterranean-diete28093based-interventions-with-cardiometabolic-biomarkers-in-children-and-adolescents.aspx)
-    
-* [![Groundbreaking mRNA vaccine administered to captive elephant to fight EEHV](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240713/Groundbreaking-mRNA-vaccine-administered-to-captive-elephant-to-fight-EEHV.aspx)
-    
-    [Groundbreaking mRNA vaccine administered to captive elephant to fight EEHV](https://www.news-medical.net/news/20240713/Groundbreaking-mRNA-vaccine-administered-to-captive-elephant-to-fight-EEHV.aspx)
+    [Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson](https://www.news-medical.net/news/20240717/Heart-of-the-Matter-Early-Diagnosis-and-Intervention-in-Heart-Failure-with-Prof-Martin-Cowie-Dr-Lisa-Anderson.aspx)
     
 
 [### The Future is Wearable: Advancing Human Health Through Portable Spectroscopy
@@ -415,25 +415,25 @@ Dispen3D is setting new standards in single-cell biology, enabling researchers t
 Latest News
 -----------
 
-* [![Physical modulation of the tumor microenvironment to enhance cancer therapy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Physical-modulation-of-the-tumor-microenvironment-to-enhance-cancer-therapy.aspx)
+* [![UCLA chosen to lead dementia care under new Medicare alternative payment model](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/UCLA-chosen-to-lead-dementia-care-under-new-Medicare-alternative-payment-model.aspx)
     
-    [Physical modulation of the tumor microenvironment to enhance cancer therapy](https://www.news-medical.net/news/20240719/Physical-modulation-of-the-tumor-microenvironment-to-enhance-cancer-therapy.aspx)
+    [UCLA chosen to lead dementia care under new Medicare alternative payment model](https://www.news-medical.net/news/20240719/UCLA-chosen-to-lead-dementia-care-under-new-Medicare-alternative-payment-model.aspx)
     
-* [![Pharmacists and community health workers lead successful hypertension interventions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Pharmacists-and-community-health-workers-lead-successful-hypertension-interventions.aspx)
+* [![Study confirms high success rates of combined chemotherapy in treating testicular cancer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Study-confirms-high-success-rates-of-combined-chemotherapy-in-treating-testicular-cancer.aspx)
     
-    [Pharmacists and community health workers lead successful hypertension interventions](https://www.news-medical.net/news/20240719/Pharmacists-and-community-health-workers-lead-successful-hypertension-interventions.aspx)
+    [Study confirms high success rates of combined chemotherapy in treating testicular cancer](https://www.news-medical.net/news/20240719/Study-confirms-high-success-rates-of-combined-chemotherapy-in-treating-testicular-cancer.aspx)
     
-* [![Study reveals a promising approach to developing universal influenza vaccine](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Study-reveals-a-promising-approach-to-developing-universal-influenza-vaccine.aspx)
+* [![High mutation count in new COVID-19 variants does not increase immune evasion, study finds](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/High-mutation-count-in-new-COVID-19-variants-does-not-increase-immune-evasion-study-finds.aspx)
     
-    [Study reveals a promising approach to developing universal influenza vaccine](https://www.news-medical.net/news/20240719/Study-reveals-a-promising-approach-to-developing-universal-influenza-vaccine.aspx)
+    [High mutation count in new COVID-19 variants does not increase immune evasion, study finds](https://www.news-medical.net/news/20240719/High-mutation-count-in-new-COVID-19-variants-does-not-increase-immune-evasion-study-finds.aspx)
     
-* [![At Trump’s GOP convention, there’s little to be heard on health care](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/At-Trumpe28099s-GOP-convention-theree28099s-little-to-be-heard-on-health-care.aspx)
+* [![New electronic cigarette products may couple nicotine addiction with gaming disorder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/New-electronic-cigarette-products-may-couple-nicotine-addiction-with-gaming-disorder.aspx)
     
-    [At Trump’s GOP convention, there’s little to be heard on health care](https://www.news-medical.net/news/20240719/At-Trumpe28099s-GOP-convention-theree28099s-little-to-be-heard-on-health-care.aspx)
+    [New electronic cigarette products may couple nicotine addiction with gaming disorder](https://www.news-medical.net/news/20240719/New-electronic-cigarette-products-may-couple-nicotine-addiction-with-gaming-disorder.aspx)
     
-* [![Misleading ads play key role in schemes to gin up unauthorized ACA sign-ups, lawsuit alleges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Misleading-ads-play-key-role-in-schemes-to-gin-up-unauthorized-ACA-sign-ups-lawsuit-alleges.aspx)
+* [![DDX41: A unique player in myeloid leukemogenesis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/DDX41-A-unique-player-in-myeloid-leukemogenesis.aspx)
     
-    [Misleading ads play key role in schemes to gin up unauthorized ACA sign-ups, lawsuit alleges](https://www.news-medical.net/news/20240719/Misleading-ads-play-key-role-in-schemes-to-gin-up-unauthorized-ACA-sign-ups-lawsuit-alleges.aspx)
+    [DDX41: A unique player in myeloid leukemogenesis](https://www.news-medical.net/news/20240719/DDX41-A-unique-player-in-myeloid-leukemogenesis.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -507,7 +507,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Friday 19 Jul 2024
+Last Updated: Sunday 21 Jul 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
