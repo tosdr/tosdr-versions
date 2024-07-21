@@ -126,6 +126,14 @@ When ordering from Dreambranding.com you're responsible for assuring the product
 
 Countries policies vary widely; you should contact your local customs office for more information. When customs clearance procedures are required, it can cause delays beyond our original delivery estimates.
 
+![](//dream.shop/cdn/shop/files/shf-logo_123x.png?v=1651257958)
+
+No more missing drops or new products, you're going to be a part of the action!
+
+ 
+
+  
+
 ###### CONTACT
 
 [support@dreambranding.com](https://dream.shop/pages/contact-us "Contact Us")
