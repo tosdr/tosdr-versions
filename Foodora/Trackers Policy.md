@@ -196,6 +196,8 @@ SuomiSwedish
     
 * [Responsibility](https://www.foodora.fi/en/contents/responsibility.htm)
     
+* [foodora app](https://www.foodora.fi/en/contents/app)
+    
 
 [](https://www.instagram.com/foodora.fi)
 
