@@ -1,5 +1,3 @@
-![](https://s.lalal.ai/img/sale-graphic/disco-ball.svg) Groove Into Savings: Get Up to 50 FREE Minutes Till 7/19 ![](https://s.lalal.ai/img/sale-graphic/disco-ball.svg)
-
 [](https://www.lalal.ai/)
 
 Products New
