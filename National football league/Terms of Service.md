@@ -199,14 +199,6 @@ Action related nav
 * [Clear Bag Policy](https://www.nfl.com/legal/clear-bag-policy "Clear Bag Policy")
 * [Vulnerability Disclosure Program](https://www.nfl.com/legal/responsible-disclosure "Vulnerability Disclosure Program")
 
-BREAKING NEWS
-
-Watch Flag Championships
-
-The 2024 NFL Flag Championships are live! Here's how to tune in.
-
-[More](https://www.nfl.com/news/how-to-watch-the-2024-nfl-flag-championships)
-
 Terms and Conditions | NFL.com
 ==============================
 
