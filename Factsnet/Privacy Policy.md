@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![18 Facts About Splits59 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/18-facts-about-splits59/)
+[![15 Facts About Venus Mythology ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/15-facts-about-venus-mythology/)
 
-Fitness & Wellbeing
+General
 
-17 Jul 2024
+19 Jul 2024
 
-[18 Facts About Splits59](https://facts.net/fitness-and-wellbeing/18-facts-about-splits59/)
+[15 Facts About Venus Mythology](https://facts.net/general/15-facts-about-venus-mythology/)
 
-[![30 Facts About Suranne Jones ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/30-facts-about-suranne-jones/)
+[![14 Facts About Sam E ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/14-facts-about-sam-e/)
 
 Celebrity
 
-17 Jul 2024
+19 Jul 2024
 
-[30 Facts About Suranne Jones](https://facts.net/celebrity/30-facts-about-suranne-jones/)
+[14 Facts About Sam E](https://facts.net/celebrity/14-facts-about-sam-e/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
