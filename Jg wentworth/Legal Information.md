@@ -401,7 +401,7 @@ Legal Information
 * [Privacy Policy](https://www.jgwentworth.com/jg-wentworth-company-r-consumer-privacy-notice)
 * [Licenses](https://www.jgwentworth.com/licenses)
 * [Asset-Backed Securitization](https://www.jgwentworth.com/asset-backed-securitization)
-* [American Association for Debt Relief Disclosure](https://www.jgwentworth.com/aard-program-disclosure-statement)
+* [American Association for Debt Relief Disclosure](https://www.jgwentworth.com/aadr-program-disclosure-statement)
 * [Do Not Sell or Share My Personal Information](https://www.jgwentworth.com/#/no-link)
 
 * [Terms of Use](https://www.jgwentworth.com/terms-use)
@@ -411,7 +411,7 @@ Legal Information
 * [Privacy Policy](https://www.jgwentworth.com/jg-wentworth-company-r-consumer-privacy-notice)
 * [Licenses](https://www.jgwentworth.com/licenses)
 * [Asset-Backed Securitization](https://www.jgwentworth.com/asset-backed-securitization)
-* [American Association for Debt Relief Disclosure](https://www.jgwentworth.com/aard-program-disclosure-statement)
+* [American Association for Debt Relief Disclosure](https://www.jgwentworth.com/aadr-program-disclosure-statement)
 * [Do Not Sell or Share My Personal Information](https://www.jgwentworth.com/#/no-link)
 
 Copyright © 2024 The JG Wentworth Company. All rights reserved
