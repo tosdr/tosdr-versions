@@ -200,6 +200,18 @@ Our end-to-end encryption safeguards your business and customers' data.
 Latest news and blogs
 ---------------------
 
+[![](https://cdn.prod.website-files.com/654151be5c8f07ebc15119fb/66953e8e58eef3db386b3e97_Invoicing%20Blogpost%20Header%20(1).png)
+
+### Easy Invoicing for Nigerian Freelancers
+
+July 15, 2024
+
+ • 
+
+Sentz
+
+At Sentz, our primary goal is to simplify the freelancing journey. Understanding the critical role of invoicing for freelancers, we developed our Invoicing feature to provide the easiest way to send invoices and receive payments from global clients.](https://www.mobilecoin.com/blog/easy-invoicing-for-nigerian-freelancers) 
+
 [![](https://cdn.prod.website-files.com/654151be5c8f07ebc15119fb/665a0bb69984ee39112a8237_Blog_Template_ShapesText.png)
 
 ### Nigeria, Sentz Is Here!
@@ -223,18 +235,6 @@ May 24, 2024
 Sentz
 
 Customers in Nigeria have the ability to conveniently deposit and withdraw funds on Sentz using their bank accounts, providing them with easier access to their money when they need it.](https://www.mobilecoin.com/blog/empowering-nigerian-customers-bank-funding-and-withdrawals)
-
-[![](https://cdn.prod.website-files.com/654151be5c8f07ebc15119fb/6629681de58d0fa40875a766_Blog-Header.png)
-
-### Introducing Invoicing in Sentz: Freelancer Payments Simplified
-
-April 24, 2024
-
- • 
-
-Sentz
-
-We get it – time is money, and waiting days or even weeks for payments can be excruciating, especially when you've worked hard for it. We took matters into our own hands and built an invoicing feature directly into the Sentz app!](https://www.mobilecoin.com/blog/introducing-invoicing-in-sentz-freelancer-payments-simplified)
 
 [View More](https://www.mobilecoin.com/blog)
 
