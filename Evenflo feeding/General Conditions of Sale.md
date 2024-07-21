@@ -292,13 +292,13 @@ $29.99
 
 $14.99
 
- [](https://www.evenflofeeding.com/products/balance-baby-bottles-copy)
+ [](https://www.evenflofeeding.com/products/classic-baby-bottles-glass)
 
-[sold out](https://www.evenflofeeding.com/products/balance-baby-bottles-copy)
+[sold out](https://www.evenflofeeding.com/products/classic-baby-bottles-glass)
 
-#### [Balance + Bottles - Angled, Woodland Creatures, STANDARD Neck, Plastic](https://www.evenflofeeding.com/products/balance-baby-bottles-copy)
+#### [Classic Baby Bottles GLASS](https://www.evenflofeeding.com/products/classic-baby-bottles-glass)
 
-$29.99
+$16.99
 
 [_image/svg+xml_ 0](javascript:void(0))
 
