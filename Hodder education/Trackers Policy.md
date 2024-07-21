@@ -70,10 +70,6 @@ Sign in
 * [News & Views](https://www.hoddereducation.com/blog)
 * [Answers & Extras](https://www.hoddereducation.com/answers-and-extras)
 
-Important customer notice: we are unable to process any orders on this website from 6:30am BST on Saturday 20th July until 7:00pm BST on Sunday 21st July. We apologise for any inconvenience. 
-
-Close
-
 Close
 
 ### Sign in for a more personalised experience
