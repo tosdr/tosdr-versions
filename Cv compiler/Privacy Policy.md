@@ -1267,6 +1267,20 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Visual Artist](https://cvcompiler.com/visual-artist-resume-examples)
 
+[Application Developer](https://cvcompiler.com/application-developer-resume-examples)
+
+[Catering](https://cvcompiler.com/catering-resume-examples)
+
+[Hotel Experience](https://cvcompiler.com/hotel-experience-resume-examples)
+
+[Technical Recruiter](https://cvcompiler.com/technical-recruiter-resume-examples)
+
+[Volunteer](https://cvcompiler.com/volunteer-resume-examples)
+
+[IT System Administrator](https://cvcompiler.com/it-system-administrator-resume-examples)
+
+[Content Moderator](https://cvcompiler.com/content-moderator-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
