@@ -136,81 +136,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![MonisiaMisia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1594406-1698276321.jpg)](https://lyricstranslate.com/en/translator/monisiamisia "MonisiaMisia")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Perfume - ふりかえるといるよ (Furikaeru to Iru Yo)](https://lyricstranslate.com/en/perfume-furikaeru-iru-yo-transliteration)
+[Nino D'Angelo - Nun sî da mia](https://lyricstranslate.com/en/nino-dangelo-nun-si-da-mia-english)
 
-Japanese → Transliteration
-
-[![Iceland OC](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1518758-1637511230.jpg)](https://lyricstranslate.com/en/translator/iceland-oc "Iceland OC")
-
-New translation
-
-[50 Cent - Many Men (Wish Death)](https://lyricstranslate.com/en/50-cent-many-men-wish-death-german)
-
-English → German
-
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1710199504.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
-
-New comment
-
-De nada, estoy feliz de ayudar  [more](https://lyricstranslate.com/en/comment/1155380#comment-1155380)
-
-[![Skirlet Hutsen](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1363638-1602964434.jpg)](https://lyricstranslate.com/en/translator/skirlet-hutsen "Skirlet Hutsen")
-
-New translation
-
-[Vladislav Kachura - Твой день (Tvoy denʹ)](https://lyricstranslate.com/en/vladislav-kachura-tvoy-den-french)
-
-Russian → French
-
-[![fatix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1590177-1705957152.png)](https://lyricstranslate.com/en/translator/fatix "fatix")
-
-New comment
-
-muchas gracias por la traducción al inglés🎵💞🌹🎼  [more](https://lyricstranslate.com/en/comment/1155379#comment-1155379)
-
-[![shellygold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1584411-1688934960.png)](https://lyricstranslate.com/en/translator/shellygold "shellygold")
-
-New translation
-
-[Noa Kirel - DOCTOR](https://lyricstranslate.com/en/noa-kirel-doctor-transliteration)
-
-English → Transliteration
-
-[![Felix Maas](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/felix-maas "Felix Maas")
-
-Transcription request fulfilled
-
-[Nijntje, Lief Klein Konijntje](https://lyricstranslate.com/en/nijntje-nijntje-lief-klein-konij-lyrics-0)
-
-Dutch
-
-[![Felix Maas](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/felix-maas "Felix Maas")
-
-New song
-
-[Nijntje - Nijntje, Lief Klein Konijntje](https://lyricstranslate.com/en/nijntje-nijntje-lief-klein-konij-lyrics-0)
-
-Dutch
-
-[![Ondagordanto](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1229450-1720314349.png)](https://lyricstranslate.com/en/translator/ondagordanto "Ondagordanto")
-
-New song
-
-[Mihail Yonchev - Елегия](https://lyricstranslate.com/en/mihail-yonchev-elegiya-lyrics)
-
-Bulgarian
+Neapolitan → English
 
 [![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1710199504.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
 
 New translation
 
-[Quest for Camelot (OST) - Y solo voy \[I Stand Alone\] (Castillian Spanish)](https://lyricstranslate.com/en/quest-camelot-o-y-solo-voy-i-stand-alone-english)
+[My Friends Tigger and Pooh - Intro (Castilian Spanish)](https://lyricstranslate.com/en/my-friends-tigger-intro-castilian-spanish-english)
 
 Spanish → English
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[kuqe 2115 - zostań, proszę](https://lyricstranslate.com/en/kuqe-2115-zostan-prosze-lyrics)
+
+Polish
+
+[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
+
+New song
+
+[Qdot - Jalikima](https://lyricstranslate.com/en/qdot-jalikima-lyrics)
+
+Yoruba
+
+[![Evegau](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624391-1721498062.jpg)](https://lyricstranslate.com/en/translator/evegau "Evegau")
+
+New translation
+
+[Ivan Cornejo - Atención](https://lyricstranslate.com/en/ivan-cornejo-atencion-english)
+
+Spanish → English
+
+[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
+
+New song
+
+[Qdot - Ijo Gelede](https://lyricstranslate.com/en/qdot-ijo-gelede-lyrics)
+
+Yoruba
+
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1708243119.png)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
+
+New request
+
+[National Anthems & Patriotic Songs - Russian Federation National Anthem - Государственный гимн Российской Федерации (Gosudarstvennyi gimn Rossiyskoy Federatsii)](https://lyricstranslate.com/en/request/russian-federation-national-anthem-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B3%D0%B8%D0%BC%D0%BD-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-19)
+
+Russian → Estonian
+
+[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
+
+New translation
+
+[Maud Lübeck - Le Parapluie](https://lyricstranslate.com/en/maud-lubeck-le-parapluie-english)
+
+French → English
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Ati242 - Değişmene Rağmen](https://lyricstranslate.com/en/ati242-degismene-ragmen-lyrics)
+
+Turkish
+
+[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1710199504.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
+
+New song
+
+[My Friends Tigger and Pooh - Intro (Castilian Spanish)](https://lyricstranslate.com/en/my-friends-tigger-and-poo-intro-castilian-spanish-lyrics)
+
+Spanish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
