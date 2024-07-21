@@ -10,9 +10,9 @@ DISMISS
 
 * [Scores](https://www.foxsports.com/scores)
 * [Watch](https://www.foxsports.com/live)
-* [MLB All-Star](https://www.foxsports.com/mlb/mlb-all-star-game-national-league-vs-american-league-jul-16-2024-game-boxscore-90661)
 * [Odds](https://www.foxsports.com/odds)
 * [Stories](https://www.foxsports.com/stories)
+* [Podcasts](https://www.foxsports.com/podcasts)
 * Search
     
 
