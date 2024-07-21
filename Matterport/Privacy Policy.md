@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-Prime Day savings. Up to 40% off best-selling Pro Series camera kits. [Buy on Amazon](https://www.amazon.com/stores/page/357AE85A-E2EE-4ECD-A144-067C84768EE8?maas=maas_adg_6B3EB6FB7C56DBC35BB655FEFE6DBEFC_afap_abs&ref_=aa_maas&tag=maas).
+20% off Ricoh Theta X or Z1 with annual Pro Plan purchase now through July 31st. [Buy Now](https://matterport.com/en-gb/ricoh).
 
 Keywords
 
