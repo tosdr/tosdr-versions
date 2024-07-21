@@ -215,7 +215,7 @@ Cookie Policy | Datadog
     
     * [Amazon Web Services Monitoring](https://www.datadoghq.com/solutions/aws/)
     * [Azure Monitoring](https://www.datadoghq.com/solutions/azure/)
-    * [Google Cloud Platform Monitoring](https://www.datadoghq.com/solutions/gcp/)
+    * [Google Cloud Monitoring](https://www.datadoghq.com/solutions/googlecloud/)
     * [Kubernetes Monitoring](https://www.datadoghq.com/solutions/kubernetes/)
     * [Red Hat OpenShift](https://www.datadoghq.com/solutions/openshift/)
     * [Pivotal Platform](https://www.datadoghq.com/solutions/pivotal-platform/)
@@ -391,7 +391,7 @@ Toggle navigation
     
     * [Amazon Web Services Monitoring](https://www.datadoghq.com/solutions/aws/)
     * [Azure Monitoring](https://www.datadoghq.com/solutions/azure/)
-    * [Google Cloud Platform Monitoring](https://www.datadoghq.com/solutions/gcp/)
+    * [Google Cloud Monitoring](https://www.datadoghq.com/solutions/googlecloud/)
     * [Kubernetes Monitoring](https://www.datadoghq.com/solutions/kubernetes/)
     * [Red Hat OpenShift](https://www.datadoghq.com/solutions/openshift/)
     * [Pivotal Platform](https://www.datadoghq.com/solutions/pivotal-platform/)
