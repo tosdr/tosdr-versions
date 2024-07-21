@@ -86,7 +86,7 @@ contents, features, and functionality (including but not limited to all informat
 
 These Terms of Service permit you to use the Website for your personal, non-commercial use only. You must not access or use for any commercial purposes any part of the Website or any services or materials available through the Website.
 
-If you wish to make any use of material on the Website other than that set out in this section, please address your request to: support@gloriousgaming.com.
+If you wish to make any use of material on the Website other than that set out in this section, please address your request to: [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection).
 
 Trademarks
 ----------
@@ -189,7 +189,7 @@ Glorious LLC
 13809 Research Blvd,  
 Suite 500, PMB 93206  
 Austin, TX 78750  
-copyright@gloriousgaming.com
+[\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection)
 
 If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective.
 
@@ -379,7 +379,7 @@ To return a product for any of the above reasons, please visit our [Support Page
 
 **Service and Support**
 
-All requests for technical service and support should be made according to our terms and conditions as set forth in the product manual and relating information accompanying our products. You may contact us through our [Support Page](https://www.gloriousgaming.com/pages/support "https://www.gloriousgaming.com/pages/support") or by email at support@gloriousgaming.com. We will do our best to help you; however, we cannot guarantee that every problem will be resolved to your satisfaction.
+All requests for technical service and support should be made according to our terms and conditions as set forth in the product manual and relating information accompanying our products. You may contact us through our [Support Page](https://www.gloriousgaming.com/pages/support "https://www.gloriousgaming.com/pages/support") or by email at [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection). We will do our best to help you; however, we cannot guarantee that every problem will be resolved to your satisfaction.
 
 Entire Agreement
 ----------------
@@ -391,7 +391,7 @@ both written and oral, with respect to the Website.
 
 This website is operated by Glorious, LLC, 13809 Research Blvd, Suite 500, PMB 93206, Austin, Texas 78750.
 
-All feedback, comments, requests for technical support and other communications relating to the Website should be directed to: support@gloriousgaming.com.
+All feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [\[email protected\]](https://www.gloriousgaming.com/cdn-cgi/l/email-protection).
 
 ![Glorious head mark logo](//www.gloriousgaming.com/cdn/shop/files/logo-headmark.svg?v=1715017270)
 
