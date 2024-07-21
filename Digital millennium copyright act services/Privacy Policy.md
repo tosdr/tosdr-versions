@@ -140,11 +140,11 @@ Welcome[](https://www.dmca.com/Accounts)* [DASHBOARD](#)
     
     [Compliance Badge](https://www.dmca.com/compliantsignup.aspx?r=mmcb)
     
-* [Managed Takedowns (0)](https://www.dmca.com/cases/default.aspx?r=mmpp-b)
+* [Managed Takedowns (1)](https://www.dmca.com/cases/default.aspx?r=mmpp-b)
     
     [DIY Takedowns (0)](https://www.dmca.com/Cases/DIY.aspx?r=mmpp-b)
     
-    [My Support Cases (0)](https://www.dmca.com/Support/default.aspx?r=mmmymysupcases)
+    [My Support Cases (1)](https://www.dmca.com/Support/default.aspx?r=mmmymysupcases)
     
     #### [TAKEDOWNS](https://www.dmca.com/Takedowns.aspx?r=mmtd)[](#collapseTakedown )
     
@@ -249,6 +249,8 @@ Welcome[](https://www.dmca.com/Accounts)* [DASHBOARD](#)
 * [About Us](https://www.dmca.com/about-us?r=mmabout)
 * [Contact](https://www.dmca.com/Contact-Us.aspx?r=mmabout)
 * [Chat on FB Messenger](https://m.me/DMCAtakedown)
+
+[](https://www.dmca.com/checkout.aspx)
 
 DMCA.com Privacy Policy
 =======================
