@@ -161,7 +161,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2Fspesmilo%2Felectrum) You must be signed in to change notification settings
 * [Fork 3k](https://github.com/login?return_to=%2Fspesmilo%2Felectrum)
-* [Star 7.2k](https://github.com/login?return_to=%2Fspesmilo%2Felectrum)
+* [Star 7.3k](https://github.com/login?return_to=%2Fspesmilo%2Felectrum)
     
 
 * [Code](https://github.com/spesmilo/electrum)
