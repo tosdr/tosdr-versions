@@ -37,10 +37,6 @@ Donate
 
 * [Donate to Miraheze](https://meta.miraheze.org/wiki/Donate)
 
-Languages
-
-Language links are at the top of the page across from the title.
-
  [![](https://static.miraheze.org/metawiki/3/35/Miraheze_Logo.svg) ![Miraheze Meta](https://static.miraheze.org/commonswiki/f/f6/Meta-wordmark.svg)](https://meta.miraheze.org/wiki/Miraheze_Meta)
 
 [Search](https://meta.miraheze.org/wiki/Special:Search "Search Miraheze Meta [f]")
@@ -48,6 +44,7 @@ Language links are at the top of the page across from the title.
 Search
 
 * [English](#)
+
 * [Create account](https://meta.miraheze.org/wiki/Special:CreateAccount?returnto=Privacy+Policy "You are encouraged to create an account and log in; however, it is not mandatory")
 * [Log in](https://meta.miraheze.org/wiki/Special:UserLogin?returnto=Privacy+Policy "You are encouraged to log in; however, it is not mandatory [o]")
 
@@ -127,7 +124,7 @@ Other languages:
 * [Ελληνικά](https://meta.miraheze.org/wiki/Privacy_Policy/el "Πολιτική Απορρήτου (2% translated)")
 * [русский](https://meta.miraheze.org/wiki/Privacy_Policy/ru "Политика конфиденциальности (2% translated)")
 * [العربية](https://meta.miraheze.org/wiki/Privacy_Policy/ar "سياسة الخصوصية (2% translated)")
-* [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (2% translated)")
+* [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (60% translated)")
 * [বাংলা](https://meta.miraheze.org/wiki/Privacy_Policy/bn "গোপনীয়তার নীতি (2% translated)")
 * [中文](https://meta.miraheze.org/wiki/Privacy_Policy/zh "隐私政策 (6% translated)")
 * [中文（中国大陆）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-cn "隐私政策 (2% translated)")
@@ -258,7 +255,7 @@ You can browse previous version of privacy policy in the following links.
 * [Privacy Policy (2018-06-04 ~ 2019-12-30)](https://meta.miraheze.org/wiki/Special:PermanentLink/49571 "Special:PermanentLink/49571")
 * [Privacy Policy (2016-12-10 ~ 2018-05-25)](https://meta.miraheze.org/wiki/Special:PermanentLink/40609 "Special:PermanentLink/40609")
 
-![](https://meta.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+![](https://login.miraheze.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
 Retrieved from "[https://meta.miraheze.org/wiki/Privacy\_Policy?oldid=374226](https://meta.miraheze.org/wiki/Privacy_Policy?oldid=374226)"
 
@@ -280,8 +277,8 @@ Cookies help us deliver our services. By using our services, you agree to our us
 * [Donate to Miraheze](https://meta.miraheze.org/wiki/Special:MyLanguage/Donate)
 * [Mobile view](https://meta.miraheze.org/wiki/Privacy_Policy?mobileaction=toggle_view_mobile)
 
-* [![Hosted by Miraheze](https://static.miraheze.org/commonswiki/f/ff/Powered_by_Miraheze.svg)](https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze)[![Powered by MediaWiki](/1.41/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
-* [![Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://meta.miraheze.org/1.41/resources/assets/licenses/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+* [![Hosted by Miraheze](https://static.miraheze.org/commonswiki/f/ff/Powered_by_Miraheze.svg)](https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze)[![Powered by MediaWiki](/1.42/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://meta.miraheze.org/1.42/resources/assets/licenses/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 * Toggle limited content width
 
