@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/events/sale/indie-game-campaign/)
+[](https://www.hrkgame.com/it/events/sale/indie-game-campaign/)
 
 Refund Policy
 -------------
