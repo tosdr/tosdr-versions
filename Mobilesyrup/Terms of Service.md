@@ -16,6 +16,30 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
+    
+    Jul 19, 2024 | 8:31 AM EDT
+    
+    ### [Canada’s Digital Extremes to reveal big Warframe updates at TennoCon 2024 this weekend](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
+    
+    [](https://mobilesyrup.com/2024/07/18/resident-evil-7-poor-sales-iphone-report/)
+    
+    Jul 18, 2024 | 6:18 PM EDT
+    
+    ### [Resident Evil 7 has reportedly bombed on iOS with just 2,000 copies sold](https://mobilesyrup.com/2024/07/18/resident-evil-7-poor-sales-iphone-report/)
+    
+    [](https://mobilesyrup.com/2024/07/18/nintendo-switch-lite-hyrule-edition-canada/)
+    
+    Jul 18, 2024 | 3:45 PM EDT
+    
+    ### [Where to pre-order Nintendo Switch Lite: Hyrule Edition in Canada](https://mobilesyrup.com/2024/07/18/nintendo-switch-lite-hyrule-edition-canada/)
+    
+    [](https://mobilesyrup.com/2024/07/18/nintendo-official-switch-joy-con-charging-stand/)
+    
+    Jul 18, 2024 | 11:18 AM EDT
+    
+    ### [Nintendo reveals official Switch Joy-Con charging stand… over 7 years after launch](https://mobilesyrup.com/2024/07/18/nintendo-official-switch-joy-con-charging-stand/)
+    
     [](https://mobilesyrup.com/2024/07/17/xbox-cheeky-controller-deadpool-and-wolverine/)
     
     Jul 17, 2024 | 1:59 PM EDT
@@ -28,31 +52,31 @@
     
     ### [PlayStation kicks off big Summer Sale, discounts nearly 5,000 titles](https://mobilesyrup.com/2024/07/17/playstation-kicks-off-big-summer-sale-discounts-nearly-5000-titles/)
     
-    [](https://mobilesyrup.com/2024/07/16/amazon-prime-day-2024-best-video-game-deals-canada/)
-    
-    Jul 16, 2024 | 1:11 PM EDT
-    
-    ### [Here are the best video game deals in Canada for Amazon Prime Day 2024](https://mobilesyrup.com/2024/07/16/amazon-prime-day-2024-best-video-game-deals-canada/)
-    
-    [](https://mobilesyrup.com/2024/07/16/xbox-game-pass-console-cloud-pc-new-games-july-2024-wave-2/)
-    
-    Jul 16, 2024 | 11:23 AM EDT
-    
-    ### [New on Xbox Game Pass on console, cloud and PC in July 2024 \[Wave 2\]](https://mobilesyrup.com/2024/07/16/xbox-game-pass-console-cloud-pc-new-games-july-2024-wave-2/)
-    
-    [](https://mobilesyrup.com/2024/07/15/microsoft-xbox-360-store-closure-july-2024-reminder/)
-    
-    Jul 15, 2024 | 12:02 PM EDT
-    
-    ### [Reminder: Microsoft to close Xbox 360 store at the end of the month](https://mobilesyrup.com/2024/07/15/microsoft-xbox-360-store-closure-july-2024-reminder/)
-    
-    [](https://mobilesyrup.com/2024/07/13/game-discovery-exhibition-canada-largest-indie-game-festival-edmonton-july-2024/)
-    
-    Jul 13, 2024 | 2:40 PM EDT
-    
-    ### [Canada’s largest indie game festival returns to Edmonton next week](https://mobilesyrup.com/2024/07/13/game-discovery-exhibition-canada-largest-indie-game-festival-edmonton-july-2024/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
+        
+        Jul 19, 2024 | 8:31 AM EDT
+        
+        ### [Canada’s Digital Extremes to reveal big Warframe updates at TennoCon 2024 this weekend](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
+        
+        [](https://mobilesyrup.com/2024/07/18/resident-evil-7-poor-sales-iphone-report/)
+        
+        Jul 18, 2024 | 6:18 PM EDT
+        
+        ### [Resident Evil 7 has reportedly bombed on iOS with just 2,000 copies sold](https://mobilesyrup.com/2024/07/18/resident-evil-7-poor-sales-iphone-report/)
+        
+        [](https://mobilesyrup.com/2024/07/18/nintendo-switch-lite-hyrule-edition-canada/)
+        
+        Jul 18, 2024 | 3:45 PM EDT
+        
+        ### [Where to pre-order Nintendo Switch Lite: Hyrule Edition in Canada](https://mobilesyrup.com/2024/07/18/nintendo-switch-lite-hyrule-edition-canada/)
+        
+        [](https://mobilesyrup.com/2024/07/18/nintendo-official-switch-joy-con-charging-stand/)
+        
+        Jul 18, 2024 | 11:18 AM EDT
+        
+        ### [Nintendo reveals official Switch Joy-Con charging stand… over 7 years after launch](https://mobilesyrup.com/2024/07/18/nintendo-official-switch-joy-con-charging-stand/)
         
         [](https://mobilesyrup.com/2024/07/17/xbox-cheeky-controller-deadpool-and-wolverine/)
         
@@ -66,68 +90,44 @@
         
         ### [PlayStation kicks off big Summer Sale, discounts nearly 5,000 titles](https://mobilesyrup.com/2024/07/17/playstation-kicks-off-big-summer-sale-discounts-nearly-5000-titles/)
         
-        [](https://mobilesyrup.com/2024/07/16/amazon-prime-day-2024-best-video-game-deals-canada/)
-        
-        Jul 16, 2024 | 1:11 PM EDT
-        
-        ### [Here are the best video game deals in Canada for Amazon Prime Day 2024](https://mobilesyrup.com/2024/07/16/amazon-prime-day-2024-best-video-game-deals-canada/)
-        
-        [](https://mobilesyrup.com/2024/07/16/xbox-game-pass-console-cloud-pc-new-games-july-2024-wave-2/)
-        
-        Jul 16, 2024 | 11:23 AM EDT
-        
-        ### [New on Xbox Game Pass on console, cloud and PC in July 2024 \[Wave 2\]](https://mobilesyrup.com/2024/07/16/xbox-game-pass-console-cloud-pc-new-games-july-2024-wave-2/)
-        
-        [](https://mobilesyrup.com/2024/07/15/microsoft-xbox-360-store-closure-july-2024-reminder/)
-        
-        Jul 15, 2024 | 12:02 PM EDT
-        
-        ### [Reminder: Microsoft to close Xbox 360 store at the end of the month](https://mobilesyrup.com/2024/07/15/microsoft-xbox-360-store-closure-july-2024-reminder/)
-        
-        [](https://mobilesyrup.com/2024/07/13/game-discovery-exhibition-canada-largest-indie-game-festival-edmonton-july-2024/)
-        
-        Jul 13, 2024 | 2:40 PM EDT
-        
-        ### [Canada’s largest indie game festival returns to Edmonton next week](https://mobilesyrup.com/2024/07/13/game-discovery-exhibition-canada-largest-indie-game-festival-edmonton-july-2024/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/07/17/tiny-pods-apple-watch-case-clickwheel/)
+    [](https://mobilesyrup.com/2024/07/19/how-to-use-ios-focus-modes-full-potential/)
     
-    Jul 17, 2024 | 5:45 PM EDT
+    Jul 19, 2024 | 5:09 PM EDT
     
-    ### [This case makes the Apple Watch act like an iPod… er, iPhone?](https://mobilesyrup.com/2024/07/17/tiny-pods-apple-watch-case-clickwheel/)
+    ### [What I’ve learned by using iOS focus modes to their full potential](https://mobilesyrup.com/2024/07/19/how-to-use-ios-focus-modes-full-potential/)
     
-    [](https://mobilesyrup.com/2024/07/17/rogers-35-75gb-winback-deal/)
+    [](https://mobilesyrup.com/2024/07/19/samsung-pauses-galaxy-buds-pro-shipments-faulty-eartips/)
     
-    Jul 17, 2024 | 4:28 PM EDT
+    Jul 19, 2024 | 1:00 PM EDT
     
-    ### [Rogers reportedly offers $35/75GB 5G ‘win-back’ deals and more](https://mobilesyrup.com/2024/07/17/rogers-35-75gb-winback-deal/)
+    ### [Samsung pauses Galaxy Buds Pro shipments over faulty ear tips](https://mobilesyrup.com/2024/07/19/samsung-pauses-galaxy-buds-pro-shipments-faulty-eartips/)
     
-    [](https://mobilesyrup.com/2024/07/17/prime-day-ikea-rechargeable-batteries-eneloop/)
+    [](https://mobilesyrup.com/2024/07/19/apple-reveals-immersive-videos-coming-vision-pro/)
     
-    Jul 17, 2024 | 3:52 PM EDT
+    Jul 19, 2024 | 12:03 PM EDT
     
-    ### [Rechargeable batteries are always handy to buy, regardless of Prime Day](https://mobilesyrup.com/2024/07/17/prime-day-ikea-rechargeable-batteries-eneloop/)
+    ### [Apple reveals Immersive videos coming to Vision Pro in 2024](https://mobilesyrup.com/2024/07/19/apple-reveals-immersive-videos-coming-vision-pro/)
     
-    [](https://mobilesyrup.com/2024/07/17/shogun-leading-emmy-nominations-25-vancouver-procution/)
+    [](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-canada/)
     
-    Jul 17, 2024 | 2:47 PM EDT
+    Jul 19, 2024 | 10:55 AM EDT
     
-    ### [B.C. production Shōgun leads 2024 Emmys with 25 nominations](https://mobilesyrup.com/2024/07/17/shogun-leading-emmy-nominations-25-vancouver-procution/)
+    ### [Looks like Google is bringing the Pixel 9 Pro Fold to Canada](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-canada/)
     
-    [](https://mobilesyrup.com/2024/07/17/xbox-cheeky-controller-deadpool-and-wolverine/)
+    [](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-name-design/)
     
-    Jul 17, 2024 | 1:59 PM EDT
+    Jul 19, 2024 | 9:44 AM EDT
     
-    ### [Forget the popcorn bucket — this new Xbox Controller is shaped like Deadpool’s ass](https://mobilesyrup.com/2024/07/17/xbox-cheeky-controller-deadpool-and-wolverine/)
+    ### [Google confirms Pixel 9 Pro Fold name and design](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-name-design/)
     
-    [](https://mobilesyrup.com/2024/07/17/leaked-google-pixel-watch-3-price-hike/)
+    [](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
     
-    Jul 17, 2024 | 1:13 PM EDT
+    Jul 19, 2024 | 8:31 AM EDT
     
-    ### [Leaked Google Pixel Watch 3 EU pricing points to price hikes](https://mobilesyrup.com/2024/07/17/leaked-google-pixel-watch-3-price-hike/)
+    ### [Canada’s Digital Extremes to reveal big Warframe updates at TennoCon 2024 this weekend](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
@@ -169,6 +169,24 @@
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
+        [](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-canada/)
+        
+        Jul 19, 2024 | 10:55 AM EDT
+        
+        ### [Looks like Google is bringing the Pixel 9 Pro Fold to Canada](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-canada/)
+        
+        [](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-name-design/)
+        
+        Jul 19, 2024 | 9:44 AM EDT
+        
+        ### [Google confirms Pixel 9 Pro Fold name and design](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-name-design/)
+        
+        [](https://mobilesyrup.com/2024/07/18/google-confirms-pixel-9-pro-redesign/)
+        
+        Jul 18, 2024 | 1:57 PM EDT
+        
+        ### [Google confirms Pixel 9 Pro redesign in new video](https://mobilesyrup.com/2024/07/18/google-confirms-pixel-9-pro-redesign/)
+        
         [](https://mobilesyrup.com/2024/07/17/essential-phone-gem-video-long-phone/)
         
         Jul 17, 2024 | 12:00 PM EDT
@@ -186,24 +204,6 @@
         Jul 16, 2024 | 10:00 AM EDT
         
         ### [The metal unibody OnePlus Nord 4 skips out on North America](https://mobilesyrup.com/2024/07/16/the-metal-unibody-oneplus-nord-4/)
-        
-        [](https://mobilesyrup.com/2024/07/15/how-to-get-ios-18-public-beta-with-rcs-and-a-new-control-center/)
-        
-        Jul 15, 2024 | 4:34 PM EDT
-        
-        ### [How to get iOS 18 Public Beta with RCS and a new Control Center](https://mobilesyrup.com/2024/07/15/how-to-get-ios-18-public-beta-with-rcs-and-a-new-control-center/)
-        
-        [](https://mobilesyrup.com/2024/07/12/pixel-9-series-pricing-leak-higher-cost/)
-        
-        Jul 12, 2024 | 11:39 AM EDT
-        
-        ### [Pixel 9 series French pricing leak points to higher costs than Pixel 8](https://mobilesyrup.com/2024/07/12/pixel-9-series-pricing-leak-higher-cost/)
-        
-        [](https://mobilesyrup.com/2024/07/11/apple-google-transfer-photos-between-icloud-google-photos/)
-        
-        Jul 11, 2024 | 12:49 PM EDT
-        
-        ### [You can now easily transfer photos between iCloud and Google Photos](https://mobilesyrup.com/2024/07/11/apple-google-transfer-photos-between-icloud-google-photos/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -283,6 +283,12 @@
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
+        [](https://mobilesyrup.com/2024/07/18/hisense-art-tv-canada-samsung-frame-tv/)
+        
+        Jul 18, 2024 | 3:03 PM EDT
+        
+        ### [More companies are finally starting to compete with the Samsung Frame TV](https://mobilesyrup.com/2024/07/18/hisense-art-tv-canada-samsung-frame-tv/)
+        
         [](https://mobilesyrup.com/2024/06/13/tile-breach-personal-data/)
         
         Jun 13, 2024 | 5:28 PM EDT
@@ -313,13 +319,13 @@
         
         ### [Ecobee is shuttering support for its original smart thermostat: Update](https://mobilesyrup.com/2024/05/03/ecobee-shuttering-support-original-smart-thermostat/)
         
-        [](https://mobilesyrup.com/2024/04/30/roku-more-video-ads-report/)
-        
-        Apr 30, 2024 | 2:55 PM EDT
-        
-        ### [Roku to shove more ads onto its home screen](https://mobilesyrup.com/2024/04/30/roku-more-video-ads-report/)
-        
     * [Automotive](https://mobilesyrup.com/categories/news/news-automotive/)
+        
+        [](https://mobilesyrup.com/2024/07/18/ford-ev-oakville-factory-trucks/)
+        
+        Jul 18, 2024 | 10:07 AM EDT
+        
+        ### [Ford no longer making EVs in Oakville, transitions to trucks instead](https://mobilesyrup.com/2024/07/18/ford-ev-oakville-factory-trucks/)
         
         [](https://mobilesyrup.com/2024/07/16/reduced-auto-theft-canada-first-half-2024-report/)
         
@@ -350,12 +356,6 @@
         Jun 21, 2024 | 3:43 PM EDT
         
         ### [Thousand of car dealerships slowed down due to cyberattack](https://mobilesyrup.com/2024/06/21/thousand-car-dealerships-cyberattack/)
-        
-        [](https://mobilesyrup.com/2024/06/19/automakers-think-canadas-2035-ev-goal-needs-to-be-adjusted/)
-        
-        Jun 19, 2024 | 4:27 PM EDT
-        
-        ### [Automakers think Canada’s 2035 EV goal needs to be adjusted](https://mobilesyrup.com/2024/06/19/automakers-think-canadas-2035-ev-goal-needs-to-be-adjusted/)
         
     * [Accessories](https://mobilesyrup.com/categories/news/news-accessories/)
         
@@ -397,6 +397,12 @@
         
     * [Streaming](https://mobilesyrup.com/categories/news/news-streaming/)
         
+        [](https://mobilesyrup.com/2024/07/19/apple-reveals-immersive-videos-coming-vision-pro/)
+        
+        Jul 19, 2024 | 12:03 PM EDT
+        
+        ### [Apple reveals Immersive videos coming to Vision Pro in 2024](https://mobilesyrup.com/2024/07/19/apple-reveals-immersive-videos-coming-vision-pro/)
+        
         [](https://mobilesyrup.com/2024/07/15/amazon-prime-day-canada-stack-tv-three-months-deal/)
         
         Jul 15, 2024 | 1:19 PM EDT
@@ -426,12 +432,6 @@
         Jul 9, 2024 | 11:38 AM EDT
         
         ### [Deadpool and Wolverine hit Etalk on July 23rd](https://mobilesyrup.com/2024/07/09/deadpool-and-wolverine-hit-etalk-on-july-23rd/)
-        
-        [](https://mobilesyrup.com/2024/07/05/netflix-crazy-frog-beverly-hills-cop-axel-f/)
-        
-        Jul 5, 2024 | 5:33 PM EDT
-        
-        ### [Happy Friday: Netflix brings back Crazy Frog to promote Beverly Hills Cop: Axel F](https://mobilesyrup.com/2024/07/05/netflix-crazy-frog-beverly-hills-cop-axel-f/)
         
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
         
@@ -473,6 +473,12 @@
         
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
+        [](https://mobilesyrup.com/2024/07/19/best-buys-big-summer-sale-ac-units-e-bikes-drones-cameras/)
+        
+        Jul 19, 2024 | 1:38 PM EDT
+        
+        ### [Best Buy’s Big Summer Sale brings big savings on AC units and e-bikes](https://mobilesyrup.com/2024/07/19/best-buys-big-summer-sale-ac-units-e-bikes-drones-cameras/)
+        
         [](https://mobilesyrup.com/2024/07/17/rogers-35-75gb-winback-deal/)
         
         Jul 17, 2024 | 4:28 PM EDT
@@ -502,12 +508,6 @@
         Jul 16, 2024 | 5:14 PM EDT
         
         ### [Apple Watch, Fire TV, Google Nest — here are the best Amazon Prime Day tech deals](https://mobilesyrup.com/2024/07/16/best-amazon-prime-day-tech-deals-apple-watch-fire-tv-google-nest/)
-        
-        [](https://mobilesyrup.com/2024/07/16/best-buy-48-hour-sale-pixel-watch-galaxy-ipad/)
-        
-        Jul 16, 2024 | 2:27 PM EDT
-        
-        ### [Save big on Pixel Watch, Galaxy, iPad and more during Best Buy’s 48-hour sale](https://mobilesyrup.com/2024/07/16/best-buy-48-hour-sale-pixel-watch-galaxy-ipad/)
         
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
@@ -817,6 +817,12 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/07/19/nintendo-world-championships-nes-edition-nintendo-switch-review/)
+    
+    Jul 19, 2024 | 4:09 PM EDT
+    
+    ### [Nintendo World Championships: NES Edition made me appreciate the classics even more](https://mobilesyrup.com/2024/07/19/nintendo-world-championships-nes-edition-nintendo-switch-review/)
+    
     [](https://mobilesyrup.com/2024/07/09/kashamara-productions-prakash-amarasooriya-canadian-pop-culture-concerts-interview/)
     
     Jul 9, 2024 | 1:49 PM EDT
@@ -846,12 +852,6 @@
     Jun 22, 2024 | 2:32 PM EDT
     
     ### [Flintlock: The Siege of Dawn is the first Soulslike in a while to grab my attention](https://mobilesyrup.com/2024/06/22/flintlock-the-siege-of-dawn-summer-game-fest-preview/)
-    
-    [](https://mobilesyrup.com/2024/06/19/hello-kitty-island-adventure-summer-game-fest-nintendo-switch-preview/)
-    
-    Jun 19, 2024 | 7:11 PM EDT
-    
-    ### [Hello Kitty Island Adventure could be your next sim obsession](https://mobilesyrup.com/2024/06/19/hello-kitty-island-adventure-summer-game-fest-nintendo-switch-preview/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,12 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/07/19/nintendo-world-championships-nes-edition-nintendo-switch-review/)
+        
+        Jul 19, 2024 | 4:09 PM EDT
+        
+        ### [Nintendo World Championships: NES Edition made me appreciate the classics even more](https://mobilesyrup.com/2024/07/19/nintendo-world-championships-nes-edition-nintendo-switch-review/)
+        
         [](https://mobilesyrup.com/2024/07/09/kashamara-productions-prakash-amarasooriya-canadian-pop-culture-concerts-interview/)
         
         Jul 9, 2024 | 1:49 PM EDT
@@ -998,12 +1004,6 @@
         Jun 19, 2024 | 7:11 PM EDT
         
         ### [Hello Kitty Island Adventure could be your next sim obsession](https://mobilesyrup.com/2024/06/19/hello-kitty-island-adventure-summer-game-fest-nintendo-switch-preview/)
-        
-        [](https://mobilesyrup.com/2024/06/15/vancouver-offworld-industries-casper-van-dien-starship-troopers-interview/)
-        
-        Jun 15, 2024 | 2:28 PM EDT
-        
-        ### [Vancouver’s Offworld and Casper Van Dien team up on Starship Troopers: Extermination](https://mobilesyrup.com/2024/06/15/vancouver-offworld-industries-casper-van-dien-starship-troopers-interview/)
         
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
@@ -1163,6 +1163,18 @@
     
 * [Business](https://mobilesyrup.com/categories/business/)
     
+    [](https://mobilesyrup.com/2024/07/19/global-it-outage-disrupts-airports-banks-and-other-businesses/)
+    
+    Jul 19, 2024 | 9:29 AM EDT
+    
+    ### [Global IT outage disrupts airports, banks, healthcare and more](https://mobilesyrup.com/2024/07/19/global-it-outage-disrupts-airports-banks-and-other-businesses/)
+    
+    [](https://mobilesyrup.com/2024/07/18/rogers-fido-connection-fees-raise-increase-70/)
+    
+    Jul 18, 2024 | 12:38 PM EDT
+    
+    ### [Rogers/Fido boosts connection fees to an eye-watering $70](https://mobilesyrup.com/2024/07/18/rogers-fido-connection-fees-raise-increase-70/)
+    
     [](https://mobilesyrup.com/2024/07/17/canada-industry-minister-competition-bureau-look-into-digital-wallets/)
     
     Jul 17, 2024 | 10:28 AM EDT
@@ -1187,19 +1199,13 @@
     
     ### [Telus tells Ontario workers to move to Montreal after closing Barrie office](https://mobilesyrup.com/2024/07/11/telus-call-centre-montreal-backdoor-layoffs/)
     
-    [](https://mobilesyrup.com/2024/07/11/costco-raising-membership-prices-in-canada/)
-    
-    Jul 11, 2024 | 10:20 AM EDT
-    
-    ### [Costco raising membership prices after seven years](https://mobilesyrup.com/2024/07/11/costco-raising-membership-prices-in-canada/)
-    
-    [](https://mobilesyrup.com/2024/07/04/canada-online-harms-act-200-million-dollar-estimated-budget/)
-    
-    Jul 4, 2024 | 4:13 PM EDT
-    
-    ### [Canada’s Online Harms Act estimated to cost at least $200 million](https://mobilesyrup.com/2024/07/04/canada-online-harms-act-200-million-dollar-estimated-budget/)
-    
     * [General](https://mobilesyrup.com/categories/business/general/)
+        
+        [](https://mobilesyrup.com/2024/07/18/rogers-fido-connection-fees-raise-increase-70/)
+        
+        Jul 18, 2024 | 12:38 PM EDT
+        
+        ### [Rogers/Fido boosts connection fees to an eye-watering $70](https://mobilesyrup.com/2024/07/18/rogers-fido-connection-fees-raise-increase-70/)
         
         [](https://mobilesyrup.com/2024/07/16/apple-advertising-partner-stocks-apple-news/)
         
@@ -1230,12 +1236,6 @@
         Jun 13, 2024 | 12:33 PM EDT
         
         ### [Collision 2024 will be the last one in Toronto](https://mobilesyrup.com/2024/06/13/collision-tech-conference-last-toronto/)
-        
-        [](https://mobilesyrup.com/2024/06/06/pearson-airport-store-amazon-just-walk-out/)
-        
-        Jun 6, 2024 | 10:07 AM EDT
-        
-        ### [Pearson Airport store to use Amazon’s Just Walk Out tech](https://mobilesyrup.com/2024/06/06/pearson-airport-store-amazon-just-walk-out/)
         
     * [Government](https://mobilesyrup.com/categories/business/business-general/)
         
@@ -1315,6 +1315,12 @@
         
     * [5G & Infrastructure](https://mobilesyrup.com/categories/business/business-infrastructure/)
         
+        [](https://mobilesyrup.com/2024/07/19/global-it-outage-disrupts-airports-banks-and-other-businesses/)
+        
+        Jul 19, 2024 | 9:29 AM EDT
+        
+        ### [Global IT outage disrupts airports, banks, healthcare and more](https://mobilesyrup.com/2024/07/19/global-it-outage-disrupts-airports-banks-and-other-businesses/)
+        
         [](https://mobilesyrup.com/2024/07/12/copper-thieves-increasingly-targeting-telecom-equipment-in-canada/)
         
         Jul 12, 2024 | 4:52 PM EDT
@@ -1344,12 +1350,6 @@
         Apr 15, 2024 | 5:24 PM EDT
         
         ### [Xplore, CommScope to deploy high-speed fibre broadband in rural Ontario](https://mobilesyrup.com/2024/04/15/xplore-commscope-fibre-broadband-rural-ontario/)
-        
-        [](https://mobilesyrup.com/2024/04/10/small-but-many-5g-towers-phone-battery/)
-        
-        Apr 10, 2024 | 6:27 PM EDT
-        
-        ### [Study reveals many small 5G towers could improve phone battery life by 50 percent](https://mobilesyrup.com/2024/04/10/small-but-many-5g-towers-phone-battery/)
         
     
 * [Streaming](https://mobilesyrup.com/categories/streaming/)
