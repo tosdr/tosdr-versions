@@ -110,6 +110,7 @@ Search
         
         YouTube Widget](https://embedsocial.com/youtube-widget/ "YouTube Widget")
     * [![facebook feeds](https://embedsocial.com/wp-content/uploads/2020/12/facebook.svg)Facebook Albums](https://embedsocial.com/facebook-albums/ "Facebook Albums")
+    * [Free Threads Widget](https://embedsocial.com/free-threads-widget/ "Free Threads Widget")
     
     [EmbedReviewsReviews management](https://embedsocial.com/products/reviews/)
     
@@ -494,6 +495,8 @@ Office: Park Residence, Skopje Macedonia
 * [Google Reviews Slider](https://embedsocial.com/google-reviews-slider/)
     
 * [Free Google Reviews Badge](https://embedsocial.com/google-reviews-badge/)
+    
+* [Free Threads Widget](https://embedsocial.com/free-threads-widget/)
     
 
 ### Popular Templates
