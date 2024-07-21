@@ -12,7 +12,7 @@ GET - On the App Store
 
 View
 
-[](https://www.mattressfirm.com/sale/5637147613.c) [Semi-Annual Sale & Clearance is here: Shop our best deals in-store & online](https://www.mattressfirm.com/sale/5637147613.c) [Shop Now](https://www.mattressfirm.com/sale/5637147613.c)
+[](https://www.mattressfirm.com/mattresses/5637147600.c?special_offers=72_Hour_Sale)[72 Hour Sale: Up to 72% off **ends Monday**](https://www.mattressfirm.com/mattresses/5637147600.c?special_offers=72_Hour_Sale) 01:05:19:07[Shop Now](https://www.mattressfirm.com/mattresses/5637147600.c?special_offers=72_Hour_Sale)
 
   
 
