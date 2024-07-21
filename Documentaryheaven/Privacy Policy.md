@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Inside LSD](/wp-content/thumbnails/5954-100x70.jpg?x53432)
+* [![Amy Winehouse: The Final Goodbye](/wp-content/thumbnails/15774-100x70.jpg?x53432)
     
-    Inside LSD
+    Amy Winehouse: The Final Goodbye
     
-    Could LSD be the next drug in your doctor's arsenal? New experiments have a few researchers believing that this trippy drug could become a pharmaceutical of the future.Outlawed in 1970, the street](https://documentaryheaven.com/inside-lsd/ "Inside LSD")
-* [![Louis Theroux: Survivalists](/wp-content/thumbnails/3439-100x70.jpg?x53432)
+    Amy Winehouse was one of the greatest singer-songwriters of her generation, not only was she incredibly talented but she also had a profound effect on the music industry as a whole. After all, there](https://documentaryheaven.com/amy-winehouse-final-goodbye/ "Amy Winehouse: The Final Goodbye")
+* [![The Horrific World of England’s Workhouse](/wp-content/thumbnails/9102-100x70.jpg?x53432)
     
-    Louis Theroux: Survivalists
+    The Horrific World of England’s Workhouse
     
-    In Idaho, Louis meets military enthusiasts and right-wing patriots who are preparing for a global catastrophe, including trips to survivalists’ store Safetrek and a mountain refuge for conspiracy theo](https://documentaryheaven.com/louis-theroux-survivalists/ "Louis Theroux: Survivalists")
-* [![Africa’s Moonshine Epidemic](/wp-content/thumbnails/6794-100x70.jpg?x53432)
+    The Workhouse was a hallmark of Victorian Britain in an era associated with imperial pomp and industrial revolution, the workhouse represented the vast underbelly of society. An institution that cause](https://documentaryheaven.com/horrific-world-englands-workhouse/ "The Horrific World of England’s Workhouse")
+* [![Comet Catcher: The Rosetta Landing](/wp-content/thumbnails/9321-100x70.jpeg?x53432)
     
-    Africa’s Moonshine Epidemic
+    Comet Catcher: The Rosetta Landing
     
-    Ugandans are the hardest drinking Africans in the motherland, both in terms of per capita consumption and the hooch they choose to chug. Waregi, or "war gin," is what they call the local moonshine, an](https://documentaryheaven.com/africas-moonshine-epidemic/ "Africa’s Moonshine Epidemic")
-* [![Breaking Inequality: Why You Will Always Be Poor](/wp-content/thumbnails/7085-100x70.jpg?x53432)
+    On November the 12th 2014, the Rosetta mission successfully reached it's goal, a comet, after being launched ten years ago in 2004. The mission was attempting to make history as this was the first mis](https://documentaryheaven.com/comet-catcher-rosetta-landing/ "Comet Catcher: The Rosetta Landing")
+* [![Costa Concordia](/wp-content/thumbnails/6451-100x70.jpg?x53432)
     
-    Breaking Inequality: Why You Will Always Be Poor
+    Costa Concordia
     
-    "This is one of the most important issues our country faces right now and it demands everyone's attention or else the consequences could be catastrophic.Breaking Inequality is a documentary film a](https://documentaryheaven.com/breaking-inequality-why-you-will-always-be-poor/ "Breaking Inequality: Why You Will Always Be Poor")
-* [![A Mathematical Mystery Tour](/wp-content/thumbnails/7760-100x70.jpg?x53432)
+    In an exclusive, National Geographic Channel will take viewers on the gripping passage to death and drama on high-seas when the ill-fated Costa Concordia, sunk off the coast of Italy on the 13th of Ja](https://documentaryheaven.com/costa-concordia/ "Costa Concordia")
+* [![Kasparov and The Machine](/wp-content/thumbnails/1504-100x70.jpg?x53432)
     
-    A Mathematical Mystery Tour
+    Kasparov and The Machine
     
-    A fascinating BBC Horizon program from 1984 looking at the greatest unsolved problems in mathematics including Fermat’s Last Theorem (since solved), The Goldback Conjecture, The Riemann hypothesis, th](https://documentaryheaven.com/mathematical-mystery-tour/ "A Mathematical Mystery Tour")
+    Garry Kasparov is arguably the greatest chess player who has ever lived. In 1997 he played a chess match against IBM's computer Deep Blue. Kasparov lost the match. This film shows the match and the ev](https://documentaryheaven.com/kasparov-and-the-machine/ "Kasparov and The Machine")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
