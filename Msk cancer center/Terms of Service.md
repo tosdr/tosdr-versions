@@ -210,7 +210,7 @@
         * [Visitor policy](https://www.mskcc.org/locations/visiting-us/policy-visitors-patients)
     
 * [Patient Portal: MyMSK](https://mymsksso.mskcc.org/ssoportal/Account/Login)
-* [Donate Now](https://secure2.convio.net/mskcc/site/Donation2?df_id=19633&mfc_pref=T&19633.donation=form1&s_channel=giving-day2024-MSKCC-nav "Donate Now")
+* [Donate Now](https://secure2.convio.net/mskcc/site/Donation2?df_id=19195&19195.donation=form1&mfc_pref=T&s_channel=2024-MSKCCNavigation "Donate Now")
 * * [Sloan Kettering Institute](https://www.mskcc.org/research/ski)
     * [Research](#)
         
@@ -529,4 +529,4 @@ Next
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44140.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
+* [Log in web-44141.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
