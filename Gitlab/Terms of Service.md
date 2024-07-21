@@ -1894,6 +1894,7 @@
                 * [ ]  [Tracking Web Events with Google Tag Manager](https://about.gitlab.com/handbook/marketing/digital-experience/analytics/google-tag-manager/)
             * [ ]  [Buyer Experience Repository](https://about.gitlab.com/handbook/marketing/digital-experience/buyer-experience-repository/)
             * [ ]  [Contentful CMS](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms/)
+                * [ ]  [Contentful CMS 'The Source' Pages](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms/the-source/)
                 * [ ]  [Contentful CMS Custom Pages](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms/custom-pages/)
                 * [ ]  [Contentful CMS Solutions Pages](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms/solutions-pages/)
                 * [ ]  [Editing content in Contentful](https://about.gitlab.com/handbook/marketing/digital-experience/contentful-cms/editing-content/)
