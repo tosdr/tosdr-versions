@@ -356,7 +356,7 @@ _s_
 
 |     |     |
 | --- | --- |
-| [Mail.ru](https://r.mail.ru/n154506914?sz=36&rnd=143490248)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=143490248)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=143490248)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=143490248) |     |
+| [Mail.ru](https://r.mail.ru/n154506914?sz=36&rnd=153084007)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=153084007)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=153084007)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=153084007) |     |
 
             
 
