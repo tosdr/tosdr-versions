@@ -25,6 +25,8 @@ Header Buttons
 * [Member Sign In](https://members.lacare.org/)
 * [Provider Sign in](https://www.lacare.org/providers)
 
+L.A. Care is experiencing longer call wait times than normal. We thank you for your patience as we resolve this issue.
+
 Main navigation
 ---------------
 
