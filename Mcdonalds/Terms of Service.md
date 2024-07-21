@@ -614,7 +614,7 @@ Contact Us
 
     [![download the mcdonald's app on the app store](/content/dam/sites/usa/nfl/logo/app_store_badge.png)](https://itunes.apple.com/us/app/mcdonalds-mobile/id922103212?mt=8)
 
-    [![get the mcdonald's app on google play](/content/dam/sites/usa/nfl/logo/google_play_badge.png)](https://play.google.com/store/apps/details?id=com.mcdonalds.app&hl=en)
+    [![get the mcdonald's app on google play](/content/dam/sites/usa/nfl/logo/DownloadApp_Googleplay_154x40.png)](https://play.google.com/store/apps/details?id=com.mcdonalds.app&hl=en)
 
 * * *
 
