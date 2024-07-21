@@ -389,3 +389,5 @@ Copyright © 2024 Digital Turbine, Inc. All rights Reserved.
 [Terms of Use](https://www.digitalturbine.com/legal/terms-of-use)[Privacy Policy](https://www.digitalturbine.com/legal/privacy-policy)[Cookie Policy](https://www.digitalturbine.com/legal/cookie-policy)[Do Not Sell or Share My Personal Information](https://www.digitalturbine.com/legal/do-not-sell-or-share-my-personal-information-website)[Legal](https://www.digitalturbine.com/legal)[Brand Safety Policy](https://www.digitalturbine.com/legal/brand-safety)[Ad Content Guidelines](https://www.digitalturbine.com/legal/adv-content-guidelines)[Digital Services Act](https://www.digitalturbine.com/legal/dsa)
 
 We use cookies to operate our site and for marketing purposes. Please view our [Privacy Policy](https://www.digitalturbine.com/legal/privacy-policy) or [Do Not Sell My Personal Information](https://www.digitalturbine.com/legal/do-not-sell-or-share-my-personal-information-website) Policy for more details.
+
+![](“https://www.facebook.com/tr?id=547747572565535&ev=PageView&noscript=1”)
