@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_01306_2024/1306-2024-tamatha-paul-to-the-associate-minister-of/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/order-paper/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/WQ_01306_2024/1306-2024-tamatha-paul-to-the-associate-minister-of/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/order-paper/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
