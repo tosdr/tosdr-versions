@@ -140,21 +140,24 @@ MSX Music player
 
 Latest reactions
 
+* [Do you emulate?](https://www.msx.org/poll/do-you-emulate "Do you emulate?")
 * [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
+* [MRC Mystery Challenge entry 9](https://www.msx.org/photoshoots/bussum-2005/mrc-mystery-challenge-entry-9 "MRC Mystery Challenge entry 9")
+* [Petition for Konami to reissue physical MSX games](https://www.msx.org/news/petition-konami-reissue-physical-msx-games "Petition for Konami to reissue physical MSX games")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MSXdev24 #03 Puzzle Mania - MSXdev24 Edition](https://www.msx.org/news/challenges/en/msxdev24-03-Puzzle%20Mania%20-MSXdev24%20Edition "MSXdev24 #03 Puzzle Mania - MSXdev24 Edition")
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
-* [Petition for Konami to reissue physical MSX games](https://www.msx.org/news/petition-konami-reissue-physical-msx-games "Petition for Konami to reissue physical MSX games")
 * [MSXdev22 #16 Bufonada](https://www.msx.org/news/challenges/en/msxdev22-16-bufonada "MSXdev22 #16 Bufonada")
 * [Lilly's Saga - The Stones of Evergreen OST](https://www.msx.org/news/music/en/lillys-saga-the-stones-of-evergreen-ost "Lilly's Saga - The Stones of Evergreen OST")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
-* [K-Jo Chases the Cheese](https://www.msx.org/news/software/en/k-jo-chases-the-cheese "K-Jo Chases the Cheese")
-* [MSXdev24 #05 Minas](https://www.msx.org/news/challenges/en/msxdev24-05-minas "MSXdev24 #05 Minas")
 
 Latest forum posts
 
-* [Totally headless openMSX ?](https://www.msx.org/forum/msx-talk/emulation/totally-headless-openmsx?page=1 "Totally headless openMSX ?")
+* ["Shit!" vs "Oh Shit!" releases](https://www.msx.org/forum/msx-talk/general-discussion/shit-vs-oh-shit-releases ""Shit!" vs "Oh Shit!" releases")
+* [Hidden MSX, aucnet NIA-1001 terminal (not same as NIA-2001)](https://www.msx.org/forum/msx-talk/hardware/hidden-msx-aucnet-nia-1001-terminal-not-same-as-nia-2001?page=2 "Hidden MSX, aucnet NIA-1001 terminal (not same as NIA-2001)")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=11 "Full English translation of Illusion City for MSX Turbo-R")
+* [Are you on Mastodon? Post your username here!](https://www.msx.org/forum/msx-talk/off-topic/are-you-on-mastodon-post-your-username-here?page=1 "Are you on Mastodon? Post your username here!")
+* [Totally headless openMSX ?](https://www.msx.org/forum/msx-talk/emulation/totally-headless-openmsx?page=1 "Totally headless openMSX ?")
 * [Custom Joymega config via sofarun](https://www.msx.org/forum/msx-talk/software/custom-joymega-config-via-sofarun "Custom Joymega config via sofarun")
 * [Stuck in Sales Discontinued](https://www.msx.org/forum/msx-talk/software/stuck-in-sales-discontinued "Stuck in Sales Discontinued")
 * [pack freeware games](https://www.msx.org/forum/msx-talk/software/pack-freeware-games "pack freeware games")
@@ -163,9 +166,6 @@ Latest forum posts
 * [SEV9938 Sprites Editor for MSX2 by JamQue](https://www.msx.org/forum/msx-talk/development/sev9938-sprites-editor-for-msx2-by-jamque "SEV9938 Sprites Editor for MSX2 by JamQue")
 * [Prince of Persia](https://www.msx.org/forum/msx-talk/development/prince-of-persia?page=4 "Prince of Persia")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
-* ["Shit!" vs "Oh Shit!" releases](https://www.msx.org/forum/msx-talk/general-discussion/shit-vs-oh-shit-releases ""Shit!" vs "Oh Shit!" releases")
-* [Hyperdontia - caused by MSX1 and MSX2 genes (?!)](https://www.msx.org/forum/msx-talk/off-topic/hyperdontia-caused-by-msx1-and-msx2-genes "Hyperdontia - caused by MSX1 and MSX2 genes (?!)")
-* [A Great New World (it will be my MSXdev'24 entry)](https://www.msx.org/forum/msx-talk/development/a-great-new-world-it-will-be-my-msxdev24-entry "A Great New World (it will be my MSXdev'24 entry)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
