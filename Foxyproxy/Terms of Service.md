@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service is great. Keep up the good work. I'll be paying for this service again the next time I need it. Thanks.
+Thanks for the great service, works very well!
 
-Hui Ghieh Loy
+Antonio
