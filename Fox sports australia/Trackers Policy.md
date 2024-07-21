@@ -18,12 +18,12 @@ FOX SCORES
     
 * [Major
     
-    Round 2
+    Round 3
     
     |     |
     | --- |
-    | British Open |
-    | S. Lowry tied on -6 |
+    | The Open Championship |
+    | B. Horschel leads by 1 |
     
     Match Centre](https://www.foxsports.com.au/golf/match?matchid=TOC20240010017B23F)
 * NRL
@@ -34,42 +34,72 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | CBR | 14  |
-    | WAR | 0   |
+    | MAN | 0   |
+    | GLD | 8   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242001)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242006)
+* [NRL
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | PEN | 28  |
+    | DOL | 26  |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242005/match-report)
+* [NRL
+    
+    21/7 18:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NQL | –   |
+    | CBY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242007)
 * AFL
     
 * [AFL
     
-    2nd Qtr
+    Half Time
     
     |     |     |
     | --- | --- |
-    | ESS | 5.3.33 |
-    | ADE | 5.3.33 |
+    | FRE | 7.9.51 |
+    | MEL | 3.3.21 |
     
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241901)
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241908)
+* [AFL
+    
+    Complete
+    
+    |     |     |
+    | --- | --- |
+    | BRI | 11.13.79 |
+    | SYD | 11.11.77 |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241907)
+* [AFL
+    
+    21/7 16:40 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAR | –   |
+    | NM  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241909)
 * Netball
     
 * [Super Netball
     
-    20/7 17:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | THU | –   |
-    | VIX | –   |
-    
-    Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241501)
-* [Super Netball
-    
-    21/7 14:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | FEV | –   |
-    | LIG | –   |
+    | FEV | 72  |
+    | LIG | 62  |
     
     Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241502)
 * Motorsport
@@ -86,8 +116,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=587)
 * [Supercars
     
-    19/7 17:00 AEST
-    
     |     |
     | --- |
     | Sydney SuperNight |
@@ -98,12 +126,12 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2 Session 1
+    Day 3
     
     |     |     |
     | --- | --- |
-    | ENG | 416 |
-    | WI  | 0 /20 |
+    | ENG | 416 & 3 /248 |
+    | WI  | 457 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240102)
 * Rugby
@@ -114,10 +142,10 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | TGA | 20  |
-    | ESP | 29  |
+    | CHL | 11  |
+    | SCO | 52  |
     
-    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20240401)
+    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20240406)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -762,6 +790,7 @@ FOX SCORES
 
 [Football](https://www.foxsports.com.au/video/football)
 
+* [EPL](https://www.foxsports.com.au/video/football/epl)
 * [A-League](https://www.foxsports.com.au/video/football/a-league)
 * [Women's World Cup](https://www.foxsports.com.au/video/football/womens-world-cup)
 * [Asian Cup](https://www.foxsports.com.au/video/football/asian-cup)
