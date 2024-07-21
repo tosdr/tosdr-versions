@@ -113,10 +113,10 @@ The Help feature on most browsers details the procedure to prevent the use and a
 
 #### Latest blog articles
 
+* 19.07.2024[12 Best Domain Extensions for the Healthcare Industry](https://www.eurodns.com/blog/best-domains-healthcare)
 * 18.07.2024[Top 4 Benefits of Using a Custom Email Domain](https://www.eurodns.com/blog/benefits-of-personalised-domain-email)
 * 17.07.2024[What is a Domain Name Redirect or URL Forwarding? How does it work?](https://www.eurodns.com/blog/redirect-domain-names-with-url-forwarding)
 * 11.07.2024[What are IDN domains? How to register them?](https://www.eurodns.com/blog/internationalised-domain-names-global-market)
-* 08.07.2024[Price change for multiple domain extensions as of 10th July](https://www.eurodns.com/blog/price-change-for-multilple-tlds)
 
 #### Domain Name Discounts
 
