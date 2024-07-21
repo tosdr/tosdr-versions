@@ -106,83 +106,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![SeviDonk](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523673-1641568965.png)](https://lyricstranslate.com/en/translator/sevidonk "SeviDonk")
-
-New request
-
-[Alan Wake II (OST) - Yötön Yö](https://lyricstranslate.com/en/request/y%C3%B6t%C3%B6n-y%C3%B6-0)
-
-Finnish → Estonian
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New comment
-
-https://lyricstranslate.com/it/...  [more](https://lyricstranslate.com/en/comment/1155297#comment-1155297)
-
-[![maritahl](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/maritahl "maritahl")
-
-New song
-
-[Amanda Somerville - Sometimes](https://lyricstranslate.com/en/amanda-somerville-sometimes-lyrics)
-
-English
-
-[![Sapfw](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176598-1694077551.jpg)](https://lyricstranslate.com/en/translator/sapfw "Sapfw")
-
-New song
-
-[Hot Mulligan - Drink Milk and Run](https://lyricstranslate.com/en/hot-mulligan-drink-milk-and-run-lyrics)
-
-English
-
-[![Sapfw](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176598-1694077551.jpg)](https://lyricstranslate.com/en/translator/sapfw "Sapfw")
-
-New song
-
-[The Armed - Big Shell](https://lyricstranslate.com/en/armed-big-shell-lyrics)
-
-English
-
-[![Sapfw](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176598-1694077551.jpg)](https://lyricstranslate.com/en/translator/sapfw "Sapfw")
-
-New song
-
-[The Armed - Liar](https://lyricstranslate.com/en/armed-liar-lyrics)
-
-English
-
-[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
-
-New transcription request
-
-[Winx Club (ost) - Кого Кохаю Я \[Crazy In Love With You\]](https://lyricstranslate.com/en/winx-club-ost-%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BA%D0%BE%D1%85%D0%B0%D1%8E-%D1%8F-crazy-love-you)
-
-Ukrainian
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![Emine2823](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/emine2823 "Emine2823")
 
 New translation
 
-[Toto Cutugno - Amore no](https://lyricstranslate.com/en/toto-cutugno-amore-no-english)
+[Hülya Polat - Çarşambayı Sel Aldı](https://lyricstranslate.com/en/hulya-polat-carsambayi-sel-aldi-english-1)
 
-Italian → English
+Turkish → English
 
-[![maritahl](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/maritahl "maritahl")
-
-New song
-
-[Amanda Somerville - Carnival](https://lyricstranslate.com/en/amanda-somerville-carnival-lyrics)
-
-English
-
-[![Sapfw](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176598-1694077551.jpg)](https://lyricstranslate.com/en/translator/sapfw "Sapfw")
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1716734982.gif)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
 
 New song
 
-[The Armed - Everything’s Glitter](https://lyricstranslate.com/en/armed-everythings-glitter-lyrics)
+[Keiko Nishina - ミッキー・マウス・メロディ](https://lyricstranslate.com/en/keiko-nishina-mickey-mouse-melody-lyrics)
 
-English
+Japanese
+
+[![kc11](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1582398-1687436945.png)](https://lyricstranslate.com/en/translator/kc11 "kc11")
+
+New translation
+
+[Yan Ting - 晨星 (San4 Sing1)](https://lyricstranslate.com/en/yan-ting-san4-sing1-english)
+
+Chinese (Cantonese) → English
+
+[![Emine2823](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/emine2823 "Emine2823")
+
+New translation
+
+[Hülya Polat - Sen Rüzgar Bende Yaprak](https://lyricstranslate.com/en/hulya-polat-sen-ruzgar-bende-yaprak-english)
+
+Turkish → English
+
+[![kc11](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1582398-1687436945.png)](https://lyricstranslate.com/en/translator/kc11 "kc11")
+
+New song
+
+[Yan Ting - 晨星](https://lyricstranslate.com/en/yan-ting-san4-sing1-lyrics)
+
+Chinese (Cantonese)
+
+[![Emine2823](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/emine2823 "Emine2823")
+
+New translation
+
+[Hülya Polat - Vagomaktinen](https://lyricstranslate.com/en/hulya-polat-vagomaktinen-english-0)
+
+Laz → English
+
+[![JordanYT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442908-1647878147.jpg)](https://lyricstranslate.com/en/translator/jordanyt "JordanYT")
+
+Transcription request fulfilled
+
+[Sveicu jūs Rozā \[Welcome to Rosas\]](https://lyricstranslate.com/en/wish-ost-sveicu-jus-roza-welcome-lyrics)
+
+Latvian
+
+[![JordanYT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442908-1647878147.jpg)](https://lyricstranslate.com/en/translator/jordanyt "JordanYT")
+
+New song
+
+[Wish (OST) - Sveicu jūs Rozā \[Welcome to Rosas\]](https://lyricstranslate.com/en/wish-ost-sveicu-jus-roza-welcome-lyrics)
+
+Latvian
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Gruppa Skryptonite - Это любовь (It’s Love)](https://lyricstranslate.com/en/gruppa-skryptonite-eto-lyubov-its-love-lyrics)
+
+Russian
+
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1716734982.gif)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+
+New song
+
+[Keiko Okuda - 瞳の中に](https://lyricstranslate.com/en/keiko-okuda-hitomi-no-naka-ni-lyrics)
+
+Japanese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
