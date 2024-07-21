@@ -1,6 +1,6 @@
 5.37.5
 
-1721420582238
+1721602002126
 
                                           
 
@@ -12,17 +12,17 @@ en
 
 3.13.9
 
-1721420743167
+1721601300510
 
      Next Cookies & Privacy Policy | Next Official Site                                  
 
-               [Click here to use our accessible website](https://accessible.next.co.uk/)
+                  [Click here to use our accessible website](https://accessible.next.co.uk/)
 
 5.37.5
 
 cutaway22
 
-1721421165684
+1721602222213
 
 You need to enable JavaScript to run this app.
 
@@ -91,7 +91,7 @@ en
 
 #### HOME
 
-[New: Homeware](https://www.next.co.uk/shop/department-homeware/feat-newin)[Just Launched: Autumn Decor](https://www.next.co.uk/shop/promotion-autumndecor-0)[July Top Picks](https://www.next.co.uk/shop/promotion-homewarejulytoppicks-0)[Garden & Outdoors](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors-0)[Summer Sleep - Stay Cool](https://www.next.co.uk/shop/department-homeware-promotion-summersleep-0)[Trending: Animal Decor](https://www.next.co.uk/shop/promotion-animalhomeware-0)[Trending: Candles & Diffusers](https://www.next.co.uk/shop/department-homeware-productaffiliation-homefragrance-0)[Trending: Rockett St George](https://www.next.co.uk/shop/department-homeware-brand-rockettstgeorge-0)[All Garden](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors-0)[All Garden Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture-0)[BBQs](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-bbq)[Conservatory Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-conservatoryfurniture-0)[Garden Accessories](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-gardenaccessories)[Garden Buildings](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/category-gardenbuildings)[Gazebos](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/type-gazebo)[Outdoor Cushions](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-cushions)[Outdoor Heating & Fire Pits](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-outdoorheaters)[Outdoor Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-outdoorlighting)[Outdoor Rugs & Runners](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-rugs)[Parasols](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/type-parasols)[Pergolas](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/type-pergola)[Picnicware](https://www.next.co.uk/shop/department-homeware-productaffiliation-picnicware-0)[Planters & Plant Pots](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-planters)[Sun Loungers](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/category-gardenchairsloungers-type-sunlounger)[The Sofa Shop](https://www.next.co.uk/homeware/sofasbynext)[Accent & Armchairs](https://www.next.co.uk/shop/department-homeware-category-sofas/sofatype-accentchair-sofatype-armchair-sofatype-chair-sofatype-chairbed-sofatype-rockingchair)[Accent & Armchairs](https://www.next.co.uk/shop/promotion-accentchairs)[All Sofas](https://www.next.co.uk/homeware/sofa-collection)[All Custom Sofas](https://www.next.co.uk/homeware/sofa-collection#all)[Custom Designer Sofas](https://www.next.co.uk/homeware/sofa-collection#brands)[Custom Corner Sofas](https://www.next.co.uk/homeware/sofa-collection#cornersofa)[Corner Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofatype-corner)[Fabric Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/fabrictype-fabric)[Custom Leather Sofas](https://www.next.co.uk/homeware/sofa-collection#leather)[Leather Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/fabrictype-leather)[Bean Bags & Pouffes](https://www.next.co.uk/shop/department-homeware-category-beanbags-0)[Ready-Made Sofas](https://www.next.co.uk/shop/promotion-readytogosofas-0)[2 Seater Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofasize-2seats)[3 Seater Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofasize-3seats)[Sofa Beds](https://www.next.co.uk/shop/department-homeware-category-sofas/function-sofabed)[Velvet Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/fabricdesign-velvet)[Bar Stools](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-barstool)[Dining Chairs](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-diningchairs)[Fabric by the Metre](https://www.next.co.uk/shop/category-fabricbythemetre-0)[All Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-furniture-0)[New In Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-furniture/feat-newin)[Bathroom Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-bathroomfurniture-0)[Beds](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-beds)[Beds](https://www.next.co.uk/shop/department-homeware/category-beds)[Bedside Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-bedsidetables)[Chest of Drawers](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-chests)[Coffee Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-coffeesidetables-0)[Consoles](https://www.next.co.uk/shop/department-homeware-category-consoletable-0)[Desks](https://www.next.co.uk/shop/department-homeware-productaffiliation-homeoffice/category-officedesk)[Dining Benches](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-benches)[Dining Chairs](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-diningchairs)[Dining Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-diningtables)[Dressing Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-dressersconsoles)[Footstools & Ottomans](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-stoolsottomans)[Mattresses](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses)[Nest of Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-livingfurniture/category-nestoftables)[Office Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-homeoffice-0)[Shelves & Bookcases](https://www.next.co.uk/shop/department-homeware-category-shelves-0)[Sideboards](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-sideboards)[Side Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-coffeesidetables/category-sidetable)[TV Units](https://www.next.co.uk/shop/department-homeware-productaffiliation-livingfurniture/category-tvunits)[Wardrobes](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-wardrobes)[Furniture Recycling Services](https://www.next.co.uk/homeware/furniture-recycling)[New In Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/feat-newin)[All Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding-0)[Summer Sleep - Stay Cool](https://www.next.co.uk/shop/department-homeware-promotion-summersleep-0)[Duvet Covers & Sets](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedlinensets-0)[Bed Sheets](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedsheets-0) [Duvets](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-duvets)[Kids' Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-childrensbedding-0)[Pillowcases](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-pillowcases)[Pillows](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-pillows)[Protectors](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-protectors)[Mattresses](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses)[Toppers](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-toppers)[White Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/colour-white)[100% Cotton Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/material-100cotton)[All Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting-0)[Bathroom Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/room-bathroom) [Ceiling Lights](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-ceilinglights)[Floor Lamps](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-floorlights)[Light Bulbs](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-lightbulbs)[Table & Desk Lamps](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-desktablelamps)[Touch Lamps](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-desktablelamps-type-touchlamp)[Outdoor Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-outdoorlighting) [Wall Lights](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-walllights)[Line Lights & Novelty Lights](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-linelightsnoveltylights)[Lighting Spare Parts](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting-0)
+[New: Homeware](https://www.next.co.uk/shop/department-homeware/feat-newin)[Just Launched: Autumn Decor](https://www.next.co.uk/shop/promotion-autumndecor-0)[July Top Picks](https://www.next.co.uk/shop/promotion-homewarejulytoppicks-0)[Garden & Outdoors](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors-0)[Summer Sleep - Stay Cool](https://www.next.co.uk/shop/department-homeware-promotion-summersleep-0)[Trending: Animal Decor](https://www.next.co.uk/shop/promotion-animalhomeware-0)[Trending: Candles & Diffusers](https://www.next.co.uk/shop/department-homeware-productaffiliation-homefragrance-0)[Trending: Rockett St George](https://www.next.co.uk/shop/department-homeware-brand-rockettstgeorge-0)[All Garden](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors-0)[All Garden Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture-0)[BBQs](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-bbq)[Conservatory Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-conservatoryfurniture-0)[Garden Accessories](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-gardenaccessories)[Garden Buildings](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/category-gardenbuildings)[Gazebos](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/type-gazebo)[Outdoor Cushions](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-cushions)[Outdoor Heating & Fire Pits](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-outdoorheaters)[Outdoor Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-outdoorlighting)[Outdoor Rugs & Runners](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-rugs)[Parasols](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/type-parasols)[Pergolas](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/type-pergola)[Picnicware](https://www.next.co.uk/shop/department-homeware-productaffiliation-picnicware-0)[Planters & Plant Pots](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenandoutdoors/category-planters)[Sun Loungers](https://www.next.co.uk/shop/department-homeware-productaffiliation-gardenfurniture/category-gardenchairsloungers-type-sunlounger)[The Sofa Shop](https://www.next.co.uk/homeware/sofasbynext)[Accent & Armchairs](https://www.next.co.uk/shop/department-homeware-category-sofas/sofatype-accentchair-sofatype-armchair-sofatype-chair-sofatype-chairbed-sofatype-rockingchair)[Accent & Armchairs](https://www.next.co.uk/shop/promotion-accentchairs)[All Sofas](https://www.next.co.uk/homeware/sofa-collection)[All Custom Sofas](https://www.next.co.uk/homeware/sofa-collection#all)[Custom Designer Sofas](https://www.next.co.uk/homeware/sofa-collection#brands)[Custom Corner Sofas](https://www.next.co.uk/homeware/sofa-collection#cornersofa)[Corner Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofatype-corner)[Fabric Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/fabrictype-fabric)[Custom Leather Sofas](https://www.next.co.uk/homeware/sofa-collection#leather)[Leather Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/fabrictype-leather)[Modular Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofatype-modular)[Bean Bags & Pouffes](https://www.next.co.uk/shop/department-homeware-category-beanbags-0)[Ready-Made Sofas](https://www.next.co.uk/shop/promotion-readytogosofas-0)[2 Seater Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofasize-2seats)[3 Seater Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/sofasize-3seats)[Sofa Beds](https://www.next.co.uk/shop/department-homeware-category-sofas/function-sofabed)[Velvet Sofas](https://www.next.co.uk/shop/department-homeware-category-sofas/fabricdesign-velvet)[Bar Stools](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-barstool)[Dining Chairs](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-diningchairs)[Fabric by the Metre](https://www.next.co.uk/shop/category-fabricbythemetre-0)[All Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-furniture-0)[New In Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-furniture/feat-newin)[Bathroom Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-bathroomfurniture-0)[Beds](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-beds)[Beds](https://www.next.co.uk/shop/department-homeware/category-beds)[Bedside Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-bedsidetables)[Chest of Drawers](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-chests)[Coffee Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-coffeesidetables-0)[Consoles](https://www.next.co.uk/shop/department-homeware-category-consoletable-0)[Desks](https://www.next.co.uk/shop/department-homeware-productaffiliation-homeoffice/category-officedesk)[Dining Benches](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-benches)[Dining Chairs](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-diningchairs)[Dining Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-diningtables)[Dressing Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-dressersconsoles)[Footstools & Ottomans](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-stoolsottomans)[Mattresses](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses)[Nest of Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-livingfurniture/category-nestoftables)[Office Furniture](https://www.next.co.uk/shop/department-homeware-productaffiliation-homeoffice-0)[Shelves & Bookcases](https://www.next.co.uk/shop/department-homeware-category-shelves-0)[Sideboards](https://www.next.co.uk/shop/department-homeware-productaffiliation-diningroomfurniture/category-sideboards)[Side Tables](https://www.next.co.uk/shop/department-homeware-productaffiliation-coffeesidetables/category-sidetable)[TV Units](https://www.next.co.uk/shop/department-homeware-productaffiliation-livingfurniture/category-tvunits)[Wardrobes](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-wardrobes)[Furniture Recycling Services](https://www.next.co.uk/homeware/furniture-recycling)[New In Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/feat-newin)[All Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding-0)[Summer Sleep - Stay Cool](https://www.next.co.uk/shop/department-homeware-promotion-summersleep-0)[Duvet Covers & Sets](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedlinensets-0)[Bed Sheets](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedsheets-0) [Duvets](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-duvets)[Kids' Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-childrensbedding-0)[Pillowcases](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-pillowcases)[Pillows](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-pillows)[Protectors](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-protectors)[Mattresses](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedroomfurniture/category-mattresses)[Toppers](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/category-toppers)[White Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/colour-white)[100% Cotton Bedding](https://www.next.co.uk/shop/department-homeware-productaffiliation-bedding/material-100cotton)[All Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting-0)[Bathroom Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/room-bathroom) [Ceiling Lights](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-ceilinglights)[Floor Lamps](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-floorlights)[Light Bulbs](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-lightbulbs)[Table & Desk Lamps](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-desktablelamps)[Touch Lamps](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-desktablelamps-type-touchlamp)[Outdoor Lighting](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-outdoorlighting) [Wall Lights](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-walllights)[Line Lights & Novelty Lights](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting/category-linelightsnoveltylights)[Lighting Spare Parts](https://www.next.co.uk/shop/department-homeware-productaffiliation-lighting-0)
 
 #### HOLIDAY
 
@@ -115,7 +115,7 @@ en
 
 #### GIFTS & FLOWERS
 
-[Gift Ideas](https://www.next.co.uk/gift-ideas)[All Flowers](https://www.next.co.uk/shop/productaffiliation-flowersplants/category-flowers)[All Plants](https://www.next.co.uk/shop/productaffiliation-flowersplants/category-plants)[Letterbox Flowers](https://www.next.co.uk/shop/productaffiliation-flowersplants/category-flowers-gift-letterboxflowers)[All Flowers](https://www.next.co.uk/rcflowers#browser)[All Plants](https://www.next.co.uk/rcplants#browser)[Letterbox Flowers](https://www.next.co.uk/rcletterbox#browser)[Gifts For Her](https://www.next.co.uk/shop/promotion-giftsforher-0)[Gifts For Him](https://www.next.co.uk/shop/promotion-giftsforhim-0)[Gifts For Children](https://www.next.co.uk/shop/promotion-childrengifts-0)[Gifts For Pets](https://www.next.co.uk/shop/productaffiliation-gifts/category-pets)[Anniversary](https://www.next.co.uk/shop/promotion-anniversarygifts-0)[Birthday](https://www.next.co.uk/shop/promotion-birthdaygifts-0)[Christening](https://www.next.co.uk/shop/promotion-christeninggifts-0)[Engagement](https://www.next.co.uk/shop/promotion-engagement-0)[New Baby](https://www.next.co.uk/shop/giftsbyoccasion-newbaby-0)[New Home](https://www.next.co.uk/shop/promotion-allnewhome-0)[Thank You](https://www.next.co.uk/shop/promotion-allthankyougifts-0)[Thank You Teacher](https://www.next.co.uk/shop/promotion-thankyouteacher-0)[Thinking of You](https://www.next.co.uk/shop/promotion-thinkingofyou-0)[Wedding](https://www.next.co.uk/shop/productaffiliation-gifts/occasion-wedding)[Beauty & Grooming](https://www.next.co.uk/shop/department-beauty-productaffiliation-beautygifting-0)[Candles & Diffusers](https://www.next.co.uk/shop/department-homeware-productaffiliation-homefragrance-0)[Electrical Gifts](https://www.next.co.uk/shop/promotion-giftingelectricals-0)[Flowers & Plants](https://www.next.co.uk/flowers)[Food & Drink](https://www.next.co.uk/shop/productaffiliation-gifts/category-confectionery-category-foodanddrinkgifts-category-winespiritsbeer)[Gift Experiences](https://www.next.co.uk/shop/category-giftexperiences-0)[Jewellery & Watches](https://www.next.co.uk/shop/productaffiliation-jewellery-0)[Novelty Gifts](https://www.next.co.uk/shop/promotion-noveltygifts-0)[Personalised Gifts](https://www.next.co.uk/shop/productaffiliation-personalisedgifting-0)[Photo Frames](https://www.next.co.uk/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes) [Premium Gifts](https://www.next.co.uk/shop/promotion-premiumgifting-0)[Self Care](https://www.next.co.uk/shop/promotion-selfcare-0)[Sports Gifts](https://www.next.co.uk/shop/promotion-sportsgifting-0)[Stationery & Books](https://www.next.co.uk/shop/productaffiliation-stationery-0)[Toys & Games](https://www.next.co.uk/shop/productaffiliation-toysandgames-0)[All Cards & Wrap](https://www.next.co.uk/shop/productaffiliation-cardsandwrap-0)[Cards](https://www.next.co.uk/shop/productaffiliation-cardsandwrap/category-cards)[Wrapping Paper & Gift Bags](https://www.next.co.uk/shop/productaffiliation-cardsandwrap/category-giftbag-category-wrappingpaper)[Gifts £20 & Under](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-100-maxprice-2000)[Gifts £20 - £50](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-2000-maxprice-5000)[Gifts £50 - £100](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-5000-maxprice-10000)[Gifts £100 & Over](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-10000-maxprice-150000)[All Food & Drink](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts-0)[Beer, Wine & Spirits](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts/category-alcoholgifts-category-winespiritsbeer)[Chocolate & Sweets](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts/category-confectionery)[Hampers](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts/type-hampers)[Personalised Food & Drinks](https://www.next.co.uk/shop/productaffiliation-gifts/category-confectionery-category-foodanddrinkgifts-category-winespiritsbeer-personalised-canbepersonalised)[All Toys & Games](https://www.next.co.uk/shop/productaffiliation-toysandgames-0)[Games & Puzzles](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-gamespuzzles)[Baby & Preschool](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-babypreschool)[Building & Construction](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-constructiontoys)[Dolls & Accessories](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-dollsaccessories)[Fancy Dress](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-fancydressaccessories)[All Personalised Gifts](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/personalised-canbepersonalised)[Cups & Mugs](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/category-cupsmugs-personalised-canbepersonalised)[Cushions](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/category-cushions-personalised-canbepersonalised)[Food & Drink](https://www.next.co.uk/shop/productaffiliation-gifts/category-confectionery-category-foodanddrinkgifts-category-winespiritsbeer-personalised-canbepersonalised)[Jewellery](https://www.next.co.uk/shop/productaffiliation-jewellery/personalised-canbepersonalised)[Nightwear](https://www.next.co.uk/shop/productaffiliation-nightwear/personalised-canbepersonalised)[Pictures & Wall Art](https://www.next.co.uk/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-category-wallart-personalised-canbepersonalised)[Tops & T-Shirts](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/category-sweattops-category-tshirts-personalised-canbepersonalised)[E-Gift Cards](https://www.next.co.uk/evouchers)[Gift Cards](https://www.next.co.uk/gift-cards)[Activity Superstore](https://www.next.co.uk/shop/brand-activitysuperstore-0)[Bath & Body Works](https://www.next.co.uk/shop/brand-bathbodyworks-0)[Beaverbrooks](https://www.next.co.uk/shop/brand-beaverbrooks)[Cadbury](https://www.next.co.uk/shop/brand-cadbury-0)[Calvin Klein](https://www.next.co.uk/shop/brand-calvinklein-0)[Clarins](https://www.next.co.uk/shop/brand-clarins-0)[ghd](https://www.next.co.uk/shop/brand-ghd)[Hallmark](https://www.next.co.uk/shop/brand-hallmark-0)[LEGO](https://www.next.co.uk/shop/brand-lego-0)[MenKind](https://www.next.co.uk/shop/brand-menkind-0)[Smiggle](https://www.next.co.uk/shop/brand-smiggle-0)[Victoria's Secret](https://www.next.co.uk/shop/brand-victoriassecret-0)[Virgin Experiences](https://www.next.co.uk/shop/brand-virginexperiencedays-0)[Gift Ideas](https://www.next.co.uk/gift-ideas)[All Flowers](https://www.next.co.uk/rcflowers#browser)[All Plants](https://www.next.co.uk/rcplants#browser)[Letterbox Flowers](https://www.next.co.uk/rcletterbox#browser)[Gifts For Her](https://www.next.co.uk/shop/promotion-giftsforher-0)[Gifts For Him](https://www.next.co.uk/shop/promotion-giftsforhim-0)[Gifts For Children](https://www.next.co.uk/shop/promotion-childrengifts-0)[Gifts For Pets](https://www.next.co.uk/shop/productaffiliation-gifts/category-pets)
+[Gift Ideas](https://www.next.co.uk/gift-ideas)[All Flowers](https://www.next.co.uk/shop/productaffiliation-flowersplants/category-flowers)[All Plants](https://www.next.co.uk/shop/productaffiliation-flowersplants/category-plants)[Letterbox Flowers](https://www.next.co.uk/shop/productaffiliation-flowersplants/category-flowers-gift-letterboxflowers)[All Flowers](https://www.next.co.uk/rcflowers#browser)[All Plants](https://www.next.co.uk/rcplants#browser)[Letterbox Flowers](https://www.next.co.uk/rcletterbox#browser)[Gifts For Her](https://www.next.co.uk/shop/promotion-giftsforher-0)[Gifts For Him](https://www.next.co.uk/shop/promotion-giftsforhim-0)[Gifts For Children](https://www.next.co.uk/shop/promotion-childrengifts-0)[Gifts For Pets](https://www.next.co.uk/shop/productaffiliation-gifts/category-pets)[Anniversary](https://www.next.co.uk/shop/promotion-anniversarygifts-0)[Birthday](https://www.next.co.uk/shop/promotion-birthdaygifts-0)[Christening](https://www.next.co.uk/shop/promotion-christeninggifts-0)[Engagement](https://www.next.co.uk/shop/promotion-engagement-0)[New Baby](https://www.next.co.uk/shop/giftsbyoccasion-newbaby-0)[New Home](https://www.next.co.uk/shop/promotion-allnewhome-0)[Thank You](https://www.next.co.uk/shop/promotion-allthankyougifts-0)[Thinking of You](https://www.next.co.uk/shop/promotion-thinkingofyou-0)[Wedding](https://www.next.co.uk/shop/productaffiliation-gifts/occasion-wedding)[Beauty & Grooming](https://www.next.co.uk/shop/department-beauty-productaffiliation-beautygifting-0)[Candles & Diffusers](https://www.next.co.uk/shop/department-homeware-productaffiliation-homefragrance-0)[Electrical Gifts](https://www.next.co.uk/shop/promotion-giftingelectricals-0)[Flowers & Plants](https://www.next.co.uk/flowers)[Food & Drink](https://www.next.co.uk/shop/productaffiliation-gifts/category-confectionery-category-foodanddrinkgifts-category-winespiritsbeer)[Gift Experiences](https://www.next.co.uk/shop/category-giftexperiences-0)[Jewellery & Watches](https://www.next.co.uk/shop/productaffiliation-jewellery-0)[Novelty Gifts](https://www.next.co.uk/shop/category-noveltygifts-0)[Personalised Gifts](https://www.next.co.uk/shop/productaffiliation-personalisedgifting-0)[Photo Frames](https://www.next.co.uk/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes) [Premium Gifts](https://www.next.co.uk/shop/promotion-premiumgifting-0)[Self Care](https://www.next.co.uk/shop/promotion-selfcare-0)[Sports Gifts](https://www.next.co.uk/shop/promotion-sportsgifting-0)[Stationery & Books](https://www.next.co.uk/shop/productaffiliation-stationery-0)[Toys & Games](https://www.next.co.uk/shop/productaffiliation-toysandgames-0)[All Cards & Wrap](https://www.next.co.uk/shop/productaffiliation-cardsandwrap-0)[Cards](https://www.next.co.uk/shop/productaffiliation-cardsandwrap/category-cards)[Wrapping Paper & Gift Bags](https://www.next.co.uk/shop/productaffiliation-cardsandwrap/category-giftbag-category-wrappingpaper)[Gifts £20 & Under](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-100-maxprice-2000)[Gifts £20 - £50](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-2000-maxprice-5000)[Gifts £50 - £100](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-5000-maxprice-10000)[Gifts £100 & Over](https://www.next.co.uk/shop/productaffiliation-gifts/isort-price-minprice-10000-maxprice-150000)[All Food & Drink](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts-0)[Beer, Wine & Spirits](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts/category-alcoholgifts-category-winespiritsbeer)[Chocolate & Sweets](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts/category-confectionery)[Hampers](https://www.next.co.uk/shop/productaffiliation-fooddrinkgifts/type-hampers)[Personalised Food & Drinks](https://www.next.co.uk/shop/productaffiliation-gifts/category-confectionery-category-foodanddrinkgifts-category-winespiritsbeer-personalised-canbepersonalised)[All Toys & Games](https://www.next.co.uk/shop/productaffiliation-toysandgames-0)[Games & Puzzles](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-gamespuzzles)[Baby & Preschool](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-babypreschool)[Building & Construction](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-constructiontoys)[Dolls & Accessories](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-dollsaccessories)[Fancy Dress](https://www.next.co.uk/shop/productaffiliation-toysandgames/range-fancydressaccessories)[All Personalised Gifts](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/personalised-canbepersonalised)[Cups & Mugs](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/category-cupsmugs-personalised-canbepersonalised)[Cushions](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/category-cushions-personalised-canbepersonalised)[Food & Drink](https://www.next.co.uk/shop/productaffiliation-gifts/category-confectionery-category-foodanddrinkgifts-category-winespiritsbeer-personalised-canbepersonalised)[Jewellery](https://www.next.co.uk/shop/productaffiliation-jewellery/personalised-canbepersonalised)[Nightwear](https://www.next.co.uk/shop/productaffiliation-nightwear/personalised-canbepersonalised)[Pictures & Wall Art](https://www.next.co.uk/shop/department-homeware-productaffiliation-decorativeaccessories/category-photoframes-category-wallart-personalised-canbepersonalised)[Tops & T-Shirts](https://www.next.co.uk/shop/productaffiliation-personalisedgifting/category-sweattops-category-tshirts-personalised-canbepersonalised)[E-Gift Cards](https://www.next.co.uk/evouchers)[Gift Cards](https://www.next.co.uk/gift-cards)[Activity Superstore](https://www.next.co.uk/shop/brand-activitysuperstore-0)[Bath & Body Works](https://www.next.co.uk/shop/brand-bathbodyworks-0)[Beaverbrooks](https://www.next.co.uk/shop/brand-beaverbrooks)[Cadbury](https://www.next.co.uk/shop/brand-cadbury-0)[Calvin Klein](https://www.next.co.uk/shop/brand-calvinklein-0)[Clarins](https://www.next.co.uk/shop/brand-clarins-0)[ghd](https://www.next.co.uk/shop/brand-ghd)[Hallmark](https://www.next.co.uk/shop/brand-hallmark-0)[LEGO](https://www.next.co.uk/shop/brand-lego-0)[MenKind](https://www.next.co.uk/shop/brand-menkind-0)[Smiggle](https://www.next.co.uk/shop/brand-smiggle-0)[Victoria's Secret](https://www.next.co.uk/shop/brand-victoriassecret-0)[Virgin Experiences](https://www.next.co.uk/shop/brand-virginexperiencedays-0)[Gift Ideas](https://www.next.co.uk/gift-ideas)[All Flowers](https://www.next.co.uk/rcflowers#browser)[All Plants](https://www.next.co.uk/rcplants#browser)[Letterbox Flowers](https://www.next.co.uk/rcletterbox#browser)[Gifts For Her](https://www.next.co.uk/shop/promotion-giftsforher-0)[Gifts For Him](https://www.next.co.uk/shop/promotion-giftsforhim-0)[Gifts For Children](https://www.next.co.uk/shop/promotion-childrengifts-0)[Gifts For Pets](https://www.next.co.uk/shop/productaffiliation-gifts/category-pets)[Anniversary](https://www.next.co.uk/shop/promotion-anniversarygifts-0)
 
 #### BEAUTY
 
@@ -142,107 +142,89 @@ Back
 
 …
 
-* * *
-
 Privacy & Cookie Policy
 =======================
 
-Last updated June 2024
+Last Updated **June 2024**  
 
-Introduction
-============
+ Introduction
 
 Choosing to shop with us means you've placed trust in us to handle your personal data responsibly. In sharing your personal data we hope you in return benefit from a tailored and convenient shopping experience. With trust comes responsibility and we take this responsibility very seriously.
 
-This privacy policy helps you to understand how we use your personal data and who we share it with. It applies if you shop on our websites, use our apps, shop in our stores, contact customer services or if you otherwise share your personal data with us; for example if you contact us with a query or where you tell us that you would like to receive marketing communications from us.
+This privacy policy helps you to understand how we use your personal data and who we share it with. It applies if you shop on our websites, use our apps, shop in our stores or if you otherwise share your personal data with us; for example if you contact us with a query or where you tell us that you would like to receive marketing communications from us.
 
 We change the terms of this privacy policy from time to time and you should check it regularly. The last updated date is shown at the beginning of the document. If we make any material changes we will take steps to bring it to your attention.
 
-Who we are
-==========
+ Who we are
 
 When we say “we”, “our” or “us” in this policy we are referring to the companies that make up the NEXT Group. This privacy policy applies to the following companies:
 
-Next Retail Limited, Next Holdings Limited, Next Distribution Limited, Next Manufacturing Limited, Next Sourcing Limited, Next Retail Ireland Limited, Next Germany GmbH, Next General Trading LLC, Next General Trading FZE, Next Beauty Limited, Lipsy Limited, Victoria’s Secret (VS Brands Holdings UK Limited), GAP (West Apparel UK Holdings Limited), Reiss (Pink Topco Limited), JoJo Maman Bébé (Regent BidCo 1 Limited), Joules (The Harborough Hare Limited) and Fatface (Bridgetown Holdco Limited).
+Next Retail Limited, Next Holdings Limited, Next Distribution Limited, Next Manufacturing Limited, Next Sourcing Limited, Next Retail Ireland Limited, Next Germany GmbH, Next General Trading LLC, Next General Trading FZE, Next Beauty Limited, Lipsy Limited, Victoria’s Secret (VS Brands Holdings UK Limited), GAP (West Apparel UK Holdings Limited), Reiss (Pink Topco Limited), JoJo Maman Bébé (Regent BidCo 1 Limited) , Joules (The Harborough Hare Limited) and Fatface (Bridgetown Holdco Limited).
 
 The company named within the T&Cs on the website or app is the data controller of your personal data, which means we are responsible for deciding how and why your personal data is used. We are also responsible for making sure it is kept safe, secure and handled legally.
 
 We sometimes work with other organisations in connection with some of the processing activities described in this privacy policy, such as social media platforms. Where that data is collected and sent to other organisations for processing that is for a common purpose, we will be making decisions together in relation to that particular processing and will be ‘joint data controllers’ with the organisations involved. As joint data controllers, we and the other organisations involved in making these decisions will be jointly responsible to you under data protection laws for this processing.
 
-We operate to the highest standards when protecting your personal data and respecting your privacy. If you have any questions about your personal data, or how we use it, you can contact our Data Protection Officer via email at [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk) or by writing to our registered office at the following addresses:
+We operate to the highest standards when protecting your personal data and respecting your privacy. If you have any questions about your personal data, or how we use it, you can contact our Data Protection Officer via email at [dataprotection@next.co.uk](https://forms.dataprotection.ie/contact) or by writing to our registered office at the following addresses:
 
-UK registered address: Data Protection Officer, NEXT Group, Desford Road, Enderby, Leicester, LE19 4AT.
+**UK registered address:** Data Protection Officer, NEXT Group, Desford Road, Enderby, Leicester, LE19 4AT.
 
-EU registered address: Data Protection Officer, NEXT Retail (Ireland) Ltd, 13–18 City Quay, Dublin 2, D02 ED70, Ireland.
+**EU registered address:** Data Protection Officer, NEXT Retail (Ireland) Ltd, 13–18 City Quay, Dublin 2, D02 ED70, Ireland.
 
-Your rights
-===========
+ Your rights
 
-You have a number of “Data Subject Rights”, we have explained below what they are and how you can exercise them. You can read more about these rights on the UK Information Commissioner's Office website at [ico.org.uk/for-the-public](https://www.google.com/url?q=https://ico.org.uk/for-the-public/&sa=D&source=editors&ust=1721321875754667&usg=AOvVaw26GdoBrOyOKn9Hpq7ZtyYp), or on your local [Data Protection Authority](https://www.google.com/url?q=https://edpb.europa.eu/about-edpb/about-edpb/members_en&sa=D&source=editors&ust=1721321875754936&usg=AOvVaw1NbHRl4WRPj0Ij7ATZCQJO) website.
+You have a number of “Data Subject Rights”, we have explained below what they are and how you can exercise them. You can read more about these rights on the UK Information Commissioner's Office website at [ico.org.uk/for-the-public](https://ico.org.uk/for-the-public/), or on your local [Data Protection Authority](https://edpb.europa.eu/about-edpb/about-edpb/members_en) website.
 
-* Right of access - You have the right to request a copy of the personal data that we hold about you.
-* Right to rectification – If you think any of your personal data that we hold is inaccurate, you have the right to request it is updated. We may ask you for evidence to show it is inaccurate.
-* Right to erasure (also known as the right to be forgotten) - You have the right to request that we delete your personal data that we hold. This right is not absolute and only applies in certain circumstances.
-* Right to restriction of processing – You have the right to request we restrict or suppress the personal data we hold about you.
-* Right to data portability – You have the right to ask us to electronically transfer your personal data to another organisation in certain circumstances.
-* Rights with regards to automated decision making, including profiling – You have the right not to be subject to a decision that is based solely on automated processing if the decision affects your legal rights or other equally important matters and to object to profiling in certain situations, including for direct marketing.
-* Right to withdraw Consent – Where we are relying on your consent for processing you can withdraw or change your consent at any time.
+* **Right of access –**You have the right to request a copy of the personal data that we hold about you.
+* **Right to rectification –**If you think any of your personal data that we hold is inaccurate, you have the right to request it is updated. We may ask you for evidence to show it is inaccurate.
+* **Right to erasure–** (also known as the right to be forgotten) - You have the right to request that we delete your personal data that we hold..
+* **Right to restriction of processing–**You have the right to request we restrict or suppress the personal data we hold about you.
+* **Right to data portability –**You have the right to ask us to electronically transfer your personal data to another organisation in certain circumstances.
+* **Rights with regards to automated decision making, including profiling –** You have the right not to be subject to a decision that is based solely on automated processing if the decision affects your legal rights or other equally important matters and to object to profiling in certain situations, including for direct marketing.
+* **Right to withdraw Consent –** Where we are relying on your consent for processing you can withdraw or change your consent at any time.
 
-The above rights may be limited in some circumstances, for example: if fulfilling your request would reveal personal data about another person, if you ask us to delete data which we are required to have by law, or if we have compelling legitimate interests to keep it. We will let you know if that is the case and will then only use your data for these purposes. You may also be unable to continue using our services if you want us to stop processing your personal data.
+The above rights may be limited in some circumstances, for example, if fulfilling your request would reveal personal data about another person, if you ask us to delete data which we are required to have by law, or if we have compelling legitimate interests to keep it. We will let you know if that is the case and will then only use your data for these purposes. You may also be unable to continue using our services if you want us to stop processing your personal data.
 
-If you have any general questions or want to exercise any of your rights, please see the “how you can get in touch” section of this privacy policy. In order to maintain the security of our customers' personal details, we may need to request proof of identity before we disclose personal data to you in response to any request.
+If you have any general questions or want to exercise any of your rights, please see the **“how you can get in touch”** section of this privacy policy. In order to maintain the security of our customers' personal details, we may need to request proof of identity before we disclose personal data to you in response to any request.
 
-We encourage you to get in touch if you have any concerns with how we collect or use your personal data. You have the right to lodge a complaint directly with a Data Protection Authority. The Data Protection Authority in the UK, where we are based, is the Information Commissioner's Office (ICO), you can contact the ICO here: [ico.org.uk/make-a-complaint](https://www.google.com/url?q=http://ico.org.uk/make-a-complaint&sa=D&source=editors&ust=1721321875756301&usg=AOvVaw3YEQ-vRpUHZ21RqD-hWsWu). Our main supervisory authority in the EU is the Data Protection Commission (DPC) based in the Republic of Ireland, you can contact the DPC here: [forms.dataprotection.ie/contact](https://www.google.com/url?q=https://forms.dataprotection.ie/contact&sa=D&source=editors&ust=1721321875756503&usg=AOvVaw3QWjTuejDDRZQqp9Pc_je4).
+We encourage you to get in touch if you have any concerns with how we collect or use your personal data. You have the right to lodge a complaint directly with a Data Protection Authority. The Data Protection Authority in the UK, where we are based, is the Information Commissioner's Office (ICO), you can contact the ICO here: [ico.org.uk/make-a-complaint](https://ico.org.uk/make-a-complaint/). Our main supervisory authority in the EU is the Data Protection Commission (DPC) based in the Republic of Ireland, you can contact the DPC here: [forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)
 
-The lawful bases we use to process data
-=======================================
+ The lawful bases we use to process data
 
 We will only ever process your data if we have a lawful basis to do so. The lawful bases we rely on are:
-========================================================================================================
 
-* Contract – This is where we process your data to fulfil a contractual arrangement we have made with you or because you have asked us to carry out a service before entering into a contract.
-* Consent – This is where we have asked you to provide permission to process your data for a particular purpose.
-* Legitimate Interests - This is where we rely on our interests as a basis for processing. Generally this is to provide you with the best products and services in the most secure and appropriate way, but not where our interests are overridden by your interests.
-* Legal Obligation – This is where we have a statutory or other legal obligation to process the data, such as to comply with regulatory requirements and/or requests.
-* Vital Interests - This is where the processing of personal data is necessary to protect someone’s life.
+* **Contract –** This is where we process your data to fulfil a contractual arrangement we have made with you or because you have asked us to carry out a service before entering into a contract.
+* **Consent –**This is where we have asked you to provide permission to process your data for a particular purpose.
+* **Legitimate Interests -** This is where we rely on our interests as a basis for processing. Generally this is to provide you with the best products and services in the most secure and appropriate way, but not where our interests are overridden by your interests.
+* **Legal Obligation –**This is where we have a statutory or other legal obligation to process the data, such as to comply with regulatory requirements and/or requests.
+* **Vital interests –**This is where the processing of personal data is necessary to protect someone’s life.
 
-The data we collect and how we use it
-=====================================
+ The Data we collect and how we use it
 
 We collect and use the data that you provide to us directly, for example; when you register for an account; we use cookies and other similar technologies to collect data from your devices when you interact with our advertising or use our website (you can find out more information in the “Cookie Policy” section below); we keep records when you speak to our customer service teams; we use CCTV in our stores for security monitoring and market research purposes; we take personal data from a number of third parties to help us manage your account and improve your shopping experience.
 
-To process any orders that you place with us and to facilitate any returns
-
-Lawful basis: Contract
+**To process any orders that you place with us and to facilitate any returns _Lawful basis: Contract_**
 
 * We take payment details to process payment for any credit or debit card orders you place with us. We share these details with our chosen payment processors.
 * We use your account data plus your chosen delivery address details to; deliver your purchases and keep you informed of their status, and to process any returns including (where appropriate) collecting the item from you.
 * Additionally, where you consent our chosen payment processors may store your payment card details at your request to speed up your checkout in the future.
 
-To provide you with access to an account
-
-Lawful basis: Contract
+**To provide you with access to an account _Lawful basis: Contract_**
 
 * To register an account with us we capture data such as your name, contact and delivery information, and a password to protect your account (account data). We use the same data on an ongoing basis to manage and provide secure access to your account, and provide you with the services you request.
 
-To provide customer service to you
+**To provide customer service to you _Lawful basis: Legitimate Interest in providing customer support_**
 
-Lawful basis: Legitimate Interest in providing customer support
-
-* We record calls and keep correspondence (customer service records) when you contact our customer service teams or interact with us on social media. Using these customer service records is necessary to manage your queries or complaints effectively, for quality monitoring, for the defence of any claims and to continually improve our services.
+* We record calls and and keep correspondence (customer service records) when you contact our customer service teams or interact with us on social media. Using these customer service records is necessary to manage your queries or complaints effectively, for quality monitoring, for the defence of any claims and to continually improve our services.
 * We may use automated machine learning systems to generate responses when you communicate with our customer contact centres. This helps us to resolve common queries quickly, provide you with a more efficient service and reduce the average response time for our customers.
 
-To offer and manage any credit we provide to you
-
-Lawful basis: Contract/Legitimate Interest in ensuring product suitability and managing debts
+**To offer and manage any credit we provide to you _Lawful basis: Contract/Legitimate Interest in ensuring product suitability and managing debts_**
 
 * When you apply for and use credit with us we will use your account data to make searches with third parties who will give us data about you, such as your financial history. We do this as it is necessary to assess your creditworthiness and product suitability.
-* We use purchase and payment history, along with your account data on a cyclical basis, as it is necessary to manage your credit facility with us.
+* We use purchase and payment history, along with your account data on a cyclical basis as it is necessary to manage your credit facility with us.
 * We use your account data, purchase history, payment history and third party data as it is necessary to collect and recover money that is owed to us (debt recovery) should your account fall into arrears. Please see the section on “third parties we share data with and receive data from” below for more information.
 
-To personalise and improve your experience when you shop
-
-Lawful basis: Consent/Legitimate Interest in providing relevant and personalised experiences when you shop with us
+**To personalise and improve your experience when you shop** **Lawful basis: Consent/Legitimate Interest in providing relevant and personalised experiences when you shop with us**
 
 * We keep a record of how you interact with our website or app and any marketing you are exposed to. We use this data, along with purchase history across the NEXT Group, demographics, account data and third party data. We do this so we can create a profile about you, which helps us to tailor your shopping experience, to show you products and offers from across our brands that we think you will be most interested in, and find ways to improve our stores, apps and websites.
 * We use your account data, information about the devices you use to access our sites and your interactions with us to operate personalised features across our websites, apps and communication.
@@ -250,56 +232,46 @@ Lawful basis: Consent/Legitimate Interest in providing relevant and personalised
 * We record your purchases made in one of our stores using tokenised data from your payment card. Your payment card(s) have a unique tokenised reference number and this is used to match it to your profile.
 * We will send you a receipt by email if you have requested this when you shop in one of our stores.
 
-To inform you about products and services that may interest you
-
-Lawful basis: Consent
+**To inform you about products and services that may interest you** **Lawful basis: Consent**
 
 * We use technologies such as cookies within digital marketing networks, ad exchanges and social media networks such as Facebook’s Custom Audience to get relevant marketing messages across to you and other customers. We share aggregated and anonymised data about the customer segments we are interested in reaching with advertising partners, so they can focus on showing adverts to those who are most likely to be interested in our products, services and offers, and to prevent them showing you irrelevant or repetitive advertisements.
 * We share limited data with selected suppliers to enable them to identify new prospective customers on our behalf and to prevent us repeatedly advertising products or services you have already bought.
 
-Lawful basis: Legitimate Interest in assessing how and where to place advertising
+_Lawful basis: Legitimate Interest in assessing how and where to place advertising_
 
 * We receive data on how you interact with our adverts and content on third party websites and social media platforms (such as Google or Facebook) which it is necessary to use to tailor and personalise the products and services that are displayed to you.
 
-To personalise and engage with you on social media
-
-Lawful basis: Consent/Legitimate Interest to personalise the marketing and services we provide to you
+**To personalise and engage with you on social media** **Lawful basis: Consent/Legitimate Interest to personalise the marketing and services we provide to you**
 
 * We use your personal data to engage with you on social media.
 * We place targeted advertising in social media. You may receive advertising based on data about you that we have provided to a social media platform, or allowed it to collect using cookies on our website or code in our applications (or a combination of the two). For some of our marketing campaigns, we may use this data to exclude you from receiving advertising, if we believe it will not be relevant to you.
 * You may also receive advertising because, at our request, the platform has identified you as falling within a group whose attributes we have selected or a group that has similar attributes to the individuals whose details it has received from us (or a combination of the two).
 * We view statistical data and reports regarding your interactions with the pages and accounts we administer on social media platforms.
-* To find out more, please refer to the information provided in the help pages of the platforms on which you receive advertising from us. Please also see the section below for further information regarding our use of social media, including specific platforms and the arrangements we have in place with them.
+* To find out more, please refer to the information provided in the help pages of the platforms on which you receive advertising from us. Please also see the section below for further information regarding our use of social media, including specific platforms and the arrangements we have in place with them
 
-To keep in touch with you
+**To keep in touch with you** **Lawful basis: Consent/Contract**
 
-Lawful basis: Consent/Contract
-
-* When you agree to receive marketing we will keep you up to date with news of products and services including store events, offers, promotions and sale data. We may send you marketing via email, SMS, post or push notifications, depending on your preferences. You can unsubscribe from marketing at any time through the “my account” or using the link in every email that we send to you.
+* When you agree to receive marketing we will keep you up to date with news of products and services including store events, offers, promotions and sale data. We may send you marketing via email, SMS or post, depending on your preferences. You can unsubscribe from marketing at any time through the “my account” or using the link in every email that we send to you.
 * If you enter or apply for a prize draw or competition we will collect your contact details so that we can inform you if you are a winner.
 
-Lawful basis: Legitimate interest in marketing to you and keeping customers updated
+_Lawful basis: Legitimate interest in marketing to you and keeping customers updated_
 
 * Where we are permitted to market to you without consent, we will update you on the latest similar products and services sold on our websites or in our stores that we think you will be interested in.
-* When we send you communications we use records of how you interact with our website and any other marketing we have sent to you, along with purchase history, to personalise the marketing we send you so it is relevant and interesting
-* When we respond to any communications and queries from you if you contact us via any of our customer contact channels, including when we interact with you through the chat function on our websites or apps or via WhatsApp.
+* When we send you communications we use records of how you interact with our website and any other marketing we have sent to you, along with purchase history, to personalise the marketing we send you so it is relevant and interesting.
+* When we respond to any communications and queries from you if you contact us via any of our customer contact channels, including when we interact with you through the chat function on our websites or apps.
 * We use your account data to notify you about important service messages, such as material changes to this policy, product recalls or information about your account.
 
-To ensure the Website and the services we offer you operate properly
-
-Lawful basis: Consent
+**To ensure the Website and the services we offer you operate properly** **Lawful basis: Consent**
 
 * We use cookies and other similar technologies to keep track of your preferences when using our site.
-* We use cookies and similar technologies to help us understand how you use the site, this allows us to optimise your shopping experience and continually improve our site.
+* We use cookies and similar technologies to help us understand how you use the site, this allows us to optimise your shopping experience and continually improve our site
 
-Lawful basis: Legitimate Interest in planning and delivering efficient operations and to prevent and detect crime or fraudulent activity
+_Lawful basis: Legitimate Interest in planning and delivering efficient operations and to prevent and detect crime or fraudulent activity_
 
 * We use data for logistics planning, demand forecasting, management information, dealing with errors on our site, and general research and development as it is necessary to keep the business running efficiently.
 * We gather data about the devices you use to access our sites (desktop and mobile) for example your IP address and device type, to ensure the site is secure and works across multiple platforms.
 
-To develop and improve our products, range and services
-
-Lawful basis: Legitimate Interest in understanding our customers’ needs and behaviours to provide a better experience
+**To develop and improve our products, range and services** **Lawful basis: Legitimate Interest in understanding our customers’ needs and behaviours to provide a better experience**
 
 * We share insights about our customers (in an anonymised and aggregated format) with the companies whose products we sell. This is necessary to help them better understand the different profiles of our customers, focusing on those who buy their products or are interested in them.
 * We may contact you to take part in customer satisfaction surveys, if you respond we collect your feedback and contributions (customer feedback). We use this data to develop the services we offer.
@@ -307,25 +279,20 @@ Lawful basis: Legitimate Interest in understanding our customers’ needs and be
 
 You can view the privacy policy for Experian and Merkle, including the ways in which they use and share personal data here:
 
-* [experian.co.uk/privacy/privacy-policies](https://www.google.com/url?q=https://www.experian.co.uk/privacy/privacy-policies&sa=D&source=editors&ust=1721321875764435&usg=AOvVaw0rYxqIKC7OtIeWAix_AjOS)
-* [merkle.com/privacy](https://www.google.com/url?q=http://merkle.com/privacy&sa=D&source=editors&ust=1721321875764740&usg=AOvVaw1-CzkzxtP0PawH1oCMIBac)
-
+* [experian.co.uk/privacy/privacy-policies](https://www.experian.co.uk/privacy/privacy-policies)
+* [merkle.com/privacy](https://www.merkle.com/en/privacy-policy.html)
 * When we send you electronic communications, such as emails, we capture whether the message has been opened, if you have clicked on any links within that message and the device you used. We do this because we want to make sure that our communications are useful for you, so if you don’t open them or don’t click on any links in them, we know we need to improve our services.
 * We use data about how you browse and engage with our website to improve our websites.
 * We use all data, including third party data in the development of new products, services and systems to ensure they work as expected and will be useful to our customers.
 
-To prevent and detect crime and other incidents
-
-Lawful basis: Legitimate Interest in keeping our customers and staff safe, reducing theft and fraud
+**To prevent and detect crime and other incidents** **Lawful basis: Legitimate Interest in keeping our customers and staff safe, reducing theft and fraud**
 
 * When you shop in our stores we use CCTV for the prevention and detection of crime, for operational efficiency and analytics purposes or for the protection of our staff, customers and products. This includes for the investigation of accidents, incidents, criminal activities and breaches of our policies.
 * Our employees may wear body-worn devices to protect themselves in limited circumstances. These devices record both audio and video and are only activated in high risk situations where it is necessary such as aggressive behaviour and/or when there is a threat of violence.
 * When you register an account, apply for credit or contact our customer contact centres we use your account, application and purchase history data as they are necessary to confirm your identity.
 * We use device identifiers, IP addresses and account numbers in fraud prevention and investigation, as they are necessary to maintain network and data security.
 
-To fulfil our legal obligations
-
-Lawful basis: Legal Obligation
+**To fulfil our legal obligations** **Lawful basis: Legal obligation**
 
 * We use your data to ensure we comply with any requirements imposed on us by law or court order, including disclosure to law or tax enforcement agencies and authorities or pursuant to legal proceedings.
 * We use your account data, order history and payment history to assist in monitoring for fraudulent transactions or suspected money laundering.
@@ -333,17 +300,17 @@ Lawful basis: Legal Obligation
 * We will maintain records to meet regulatory and tax requirements.
 * We will use your account data to contact you in connection with product recalls or other similar product quality issues and to comply with our legal obligations in connection with the sale of age restricted products.
 
-Our use of social media
+ Our use of social media
 
 We use a number of different social media platforms to communicate with you and to promote products and services. We process your personal data using these platforms in a variety of ways, as follows:
 
-Pages/accounts. We use your personal data when you post content or otherwise interact with us on our official pages and accounts on Facebook, Instagram, Pinterest, Snapchat, TikTok, LinkedIn, X (formerly Twitter) and other social media platforms. We also use the Page Insights service for Facebook, Instagram, Pinterest, TikTok, Snapchat and X to view statistical data and reports regarding your interactions with the pages and accounts we administer on those platforms and their content. Where those interactions are recorded and form part of the data we access through these page insights services, we and the relevant platform are joint data controllers of the processing necessary to provide that service to us.
+_Pages/accounts._ We use your personal data when you post content or otherwise interact with us on our official pages and accounts on Facebook, Instagram, Pinterest, Snapchat, TikTok, LinkedIn, X (formally Twitter) and other social media platforms. We also use the Page Insights service for Facebook, Instagram, Pinterest, TikTok, Snapchat and X to view statistical data and reports regarding your interactions with the pages and accounts we administer on those platforms and their content. Where those interactions are recorded and form part of the data we access through these page insights services, we and the relevant platform are joint data controllers of the processing necessary to provide that service to us.
 
-Cookies. We use cookies and similar technologies in our website to collect and send data to social media platforms about actions you take on our website and applications. In particular:
+_Cookies._ We use cookies and similar technologies in our website to collect and send data to social media platforms about actions you take on our website and applications. In particular:
 
 * Meta (who operates the Facebook and Instagram platforms) uses this data to provide services to us and also for further processing for its own business purposes. We and Meta are joint data controllers of the processing involved in collecting and sending your personal data to Meta using cookies and similar technologies as each of us has a business interest in Meta receiving this data. The services we receive from Meta that use this data are delivered to us through Meta Business Tools, which include Meta pixel, social plugins, code in our applications and website custom audiences. These tools allow us to target advertising to you within Meta’s social media platforms by creating audiences based on your actions on our website and applications and allow Meta to improve and optimise the targeting and delivery of our advertising campaigns for us.
 
-Our relationship with Meta and LinkedIn. As we are joint data controllers with these platforms for certain processing, we and each platform have:
+_Our relationship with Meta and LinkedIn._ As we are joint data controllers with these platforms for certain processing, we and each platform have:
 
 * entered into agreements in which we have agreed each of our data protection responsibilities for the processing of your personal data described above;
 * agreed that we are responsible for providing to you the information in this privacy policy about our relationship with each platform; and
@@ -351,20 +318,18 @@ Our relationship with Meta and LinkedIn. As we are joint data controllers with t
 
 Meta also processes, as our processor, contact information that we submit for the purposes of matching, online targeting, measurement, reporting and analytics purposes. These services include the processing Meta carries out when they display our advertisements to you in your news feed at our request after matching contact details for you that we have uploaded to the social media platforms they operate.
 
-Further information. The Meta company that is a joint data controller of your personal data is Meta Platforms, Inc., 1601 Willow Road, Menlo Park, CA 94025, USA (if you are a UK-registered user) or Meta Platforms Ireland Limited, Block J, Serpentine Avenue, Dublin 4, Ireland (if you are an EEA-registered user). The LinkedIn company that is a joint data controller of your personal data is LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland For further information regarding these platforms and their use of your personal data, please see:
+_Further information._ The Meta company that is a joint data controller of your personal data is Meta Platforms, Inc., 1601 Willow Road, Menlo Park, CA 94025, USA (if you are a UK-registered user) or Meta Platforms Ireland Limited, Block J, Serpentine Avenue, Dublin 4, Ireland (if you are an EEA-registered user). The LinkedIn company that is a joint data controller of your personal data is LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland For further information regarding these platforms and their use of your personal data, please see:
 
-* Meta’s [Controller Addendum for Page Insights](https://www.google.com/url?q=https://www.facebook.com/legal/terms/page_controller_addendum&sa=D&source=editors&ust=1721321875767106&usg=AOvVaw0ZCNfpY80OHVoirzfmpAlw) and [UK Controller Addendum for Business Tools](https://www.google.com/url?q=https://www.facebook.com/legal/terms/uk_controller_addendum&sa=D&source=editors&ust=1721321875767380&usg=AOvVaw32VS9_-bilM8tnjyXWTaW_) (for users located in the UK) and [Controller Addendum](https://www.google.com/url?q=https://www.facebook.com/legal/controller_addendum&sa=D&source=editors&ust=1721321875767560&usg=AOvVaw2YQ-35XcAdbT2j3_JBA1Bl) (for users located in the EEA), and LinkedIn’s [Page Insights Joint Controller Addendum](https://www.google.com/url?q=https://legal.linkedin.com/pages-joint-controller-addendum&sa=D&source=editors&ust=1721321875767726&usg=AOvVaw3Uojzgu5IB1wYNVeuYRW_T), which include information regarding how our and these platforms’ responsibilities to you are allocated as controllers of your personal data;
-* Meta’s Privacy Center including its privacy policy at [www.facebook.com/privacy](https://www.google.com/url?q=https://www.facebook.com/privacy&sa=D&source=editors&ust=1721321875767935&usg=AOvVaw0-VaU8L5NjqPGOSVWWZL_r) and LinkedIn’s privacy policy at [www.linkedin.com/legal/privacy-policy](https://www.google.com/url?q=https://www.linkedin.com/legal/privacy-policy&sa=D&source=editors&ust=1721321875768112&usg=AOvVaw07WMQuYBun9S0p980wjvA4) which include details of the legal reasons (known as ‘lawful bases’) on which each platform relies to process your personal data, together with details regarding your data protection rights.
+* Meta’s [Controller Addendum for Page Insights](https://https//www.facebook.com/legal/terms/page_controller_addendum) and UK [UK Controller Addendum for Business Tools](https://www.facebook.com/legal/terms/uk_controller_addendum) (for users located in the UK) and [Controller Addendum](https://www.facebook.com/legal/controller_addendum) (for users located in the EEA), and LinkedIn’s [Page Insights Joint Controller Addendum](https://legal.linkedin.com/pages-joint-controller-addendum), which include information regarding how our and these platforms’ responsibilities to you are allocated as controllers of your personal data;
+* Meta’s Privacy Center including its privacy policy at [www.facebook.com/privacy](https://www.facebook.com/privacy/center/) and LinkedIn’s privacy policy at [www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) which include details of the legal reasons (known as ‘lawful bases’) on which each platform relies to process your personal data, together with details regarding your data protection rights.
 
-Cookie Policy
+ Cookie Policy
 
-What are cookies?
------------------
+**What are cookies?**
 
-Cookies are small text files that are stored on your computer, mobile device or other web enabled device when you visit one of our websites or apps. Cookies allow us to “remember” your actions or preferences over a period of time, or they may contain data related to the function or delivery of our websites. We also use the term “cookie” to describe similar technologies such as pixels or tags.
+* Cookies are small text files that are stored on your computer, mobile device or other web enabled device when you visit one of our websites or apps. Cookies allow us to “remember” your actions or preferences over a period of time, or they may contain data related to the function or delivery of our websites. We also use the term “cookie” to describe similar technologies such as pixels or tags.
 
-What do we use cookies for?
----------------------------
+**What do we use cookies for?**
 
 Some cookies are required by our site to enable you to transact whilst other cookies enable us to give you an enhanced, personalised web experience. We use cookies for the following purposes:
 
@@ -377,27 +342,23 @@ Some cookies are required by our site to enable you to transact whilst other coo
 
 We also offer you the facility to share your experience on our website through social sites. More information about how these sites use cookies can be found on their websites.
 
-What cookies do we use?
------------------------
+**What cookies do we use?**
 
 We use the following cookies on our websites and apps:
-------------------------------------------------------
 
-* Strictly Necessary Cookies. These cookies are necessary for the website to function and cannot be switched off. They are used, for example, to make sure your transaction is secure, to enable you to log in to the secure areas of your account, such as your order history and to add items to your basket. Blocking these cookies through your browser will mean that some parts of our website won’t work.
-* Performance Cookies or Analytical Cookies. These cookies allow us to monitor visitors to our websites and ensure it is performing correctly. We use this data to measure overall performance, improve your website experience and improve the design of our website.
-* Functionality Cookies. These cookies enable enhanced functionality on our website, such as allowing you to add to favourites or remember your language preferences.
-* Onsite Targeting: Marketing and Personalisation Cookies. These cookies are placed by us and are used to help us to build an understanding of your interests (for example by understanding what products you have browsed on our website) and show you products, services and advertisements relevant to you whilst you are on the website. These cookies make it possible for us to personalise your experience on the websites and (if you are subscribed) in our email marketing.
-* Off Site Targeting: Marketing and Personalisation Cookies. These cookies are placed by our advertising and marketing partners (including social networks). These help us to build an understanding of your interests (for example by understanding what products you have browsed on our website) and show you products, services and advertisements relevant to you. These cookies make it possible for us to ensure that you don’t see irrelevant, duplicate or multiple ads from us in a short period of time. We do want to prevent ads continuously re-appearing and annoying you.
+* **Strictly necessary Cookies.**These cookies are necessary for the website to function and cannot be switched off. They are used, for example, to make sure your transaction is secure, to enable you to log in to the secure areas of your account, such as your order history and to add items to your basket. Blocking these cookies through your browser will mean that some parts of our website won’t work.
+* **Performance Cookies or analytical Cookies.** These cookies allow us to monitor visitors to our websites and ensure it is performing correctly. We use this data to measure overall performance, improve your website experience and improve the design of our website.
+* **Functionality Cookies.** These cookies enable enhanced functionality on our website, such as allowing you to add to favourites or remember your language preferences.
+* **Onsite Targeting: Marketing and Personalisation Cookies.** These cookies are placed by us and are used to help us to build an understanding of your interests (for example by understanding what products you have browsed on our website) and show you products, services and advertisements relevant to you whilst you are on the website. These cookies make it possible for us to personalise your experience on the websites and (if you are subscribed) in our email marketing.
+* **Off Site Targeting: Marketing and Personalisation Cookies.** These cookies are placed by our advertising and marketing partners (including social networks). These help us to build an understanding of your interests (for example by understanding what products you have browsed on our website) and show you products, services and advertisements relevant to you. These cookies make it possible for us to ensure that you don’t see irrelevant, duplicate or multiple ads from us in a short period of time. We do want to prevent ads continuously re-appearing and annoying you.
 
-Can I turn off or block cookies?
---------------------------------
+**Can I turn off or block cookies?**
 
 We use cookies to ensure that we provide the best possible standard of service to our online customers. You can change your cookie preferences at any time by clicking on “Manually Manage Cookies” at the bottom of the page. You can then adjust the available sliders to on or off, then click “Confirm my choices”. If you choose not to consent to the use of cookies your experience of our website may be impaired and many integral aspects of the website, including (but not limited to) adding items to your shopping bag and accessing your account, will not work.
 
-Alternatively, most web browsers allow some control of most cookies through the browser settings. To find out more about how to manage cookies, including how to delete cookies, visit [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org&sa=D&source=editors&ust=1721321875770490&usg=AOvVaw2DUCo3APZ2XKGCN29QLEeh)
+Alternatively, most web browsers allow some control of most cookies through the browser settings. To find out more about how to manage cookies, including how to delete cookies, visit [www.allaboutcookies.org](https://allaboutcookies.org/.org)
 
-How long we keep your data for
-==============================
+ How long we keep your data for
 
 We keep your personal data as long as you are a customer of ours and generally for up to 7 years afterwards to comply with legal requirements. During that time we take steps to remove any personal data as soon as we no longer need it.
 
@@ -409,8 +370,7 @@ We consider you a customer:
 
 We keep CCTV footage on our systems for up to 30 days, it is then deleted. Where accidents, incidents, criminal activities or breaches of our policies are recorded CCTV footage will be kept for longer, however only as long as necessary.
 
-Third Parties we share data with and receive data from
-======================================================
+ Third Parties we share data with and receive data from
 
 We work with a number of trusted third parties to provide you high quality goods and services. Anybody we work with is subject to stringent security and data protection assessments before we begin to do business with them and on an ongoing basis.
 
@@ -418,41 +378,41 @@ We always make efforts to anonymise data and only pass over personal data that i
 
 We have contracts in place with all suppliers that help us to ensure security and privacy of your personal data, these are reviewed and updated regularly and always in line with data protection laws.
 
-* NEXT Group companies – We will share your personal data, in certain circumstances with the other companies within the NEXT Group. This is so that we can provide personalised services across our group companies.
-* Delivery partners – Helping us to deliver the goods you order to you including our brand partners that dispatch and deliver goods to you directly.
-* IT companies – Supporting us in maintaining our website and other business systems including; providing phone lines, data storage facilities, and providing and supporting Cloud based infrastructure used in providing our products and services.
-* Marketing companies and online advertising - Helping us to manage our electronic communications to you and to help us show you the advertising you are most likely to be interested in, companies that provide marketing and advertising assistance (including management of email marketing operations, mobile messaging services such as SMS, and services that deploy advertising on the internet or social media platforms, such as Facebook and Google) as well as analysis of the effectiveness of our advertising and communications campaigns.
-* We use technologies such as cookies, pixels, and device IDs within digital marketing networks, ad exchanges and social media networks such as Facebook’s Custom Audience to get relevant marketing messages across to you.
-* Consumer profiling organisations - These organisations provide demographic or other data to help better understand customers' demographics, lifestyles or shopping.
-* Payment processors - Payment card processors to process credit and debit card payments and store payment data.
-* Credit reference agencies (CRAs) - We share your personal data with CRAs on an ongoing basis, including details of settled accounts and any debts not fully repaid on time. CRAs will share your data with other organisations.
+* **NEXT Group companies** – We will share your personal data, in certain circumstances with the other companies within the NEXT Group. This is so that we can provide personalised services across our group companies.
+* **Delivery Partners** – Helping us to deliver the goods you order to you including our brand partners that dispatch and deliver goods to you directly.
+* **IT Companies** – Supporting us in maintaining our website and other business systems including; providing phone lines, data storage facilities, and providing and supporting Cloud based infrastructure used in providing our products and services.
+* **Marketing Companies and Online Advertising** – Helping us to manage our electronic communications to you and to help us show you the advertising you are most likely to be interested in, companies that provide marketing and advertising assistance (including management of email marketing operations, mobile messaging services such as SMS, and services that deploy advertising on the internet or social media platforms, such as Facebook and Google) as well as analysis of the effectiveness of our advertising and communications campaigns.
+* **We use technologies such as cookies, pixels, and device IDs** within digital marketing networks, ad exchanges and social media networks such as Facebook’s Custom Audience to get relevant marketing messages across to you.
+* **Consumer profiling organisations** – These organisations provide demographic or other data to help better understand customers' demographics, lifestyles or shopping.
+* **Payment processors** – Payment card processors to process credit and debit card payments and store payment data.
+* **Credit Reference Agencies (CRAs)** – We share your personal data with CRAs on an ongoing basis, including details of settled accounts and any debts not fully repaid on time. CRAs will share your data with other organisations.
 
 The identities of the CRAs, and the ways in which they use and share personal data, are explained in more detail at:
 
-* [Experian Credit Reference Agency Information Notice](https://www.google.com/url?q=https://www.experian.co.uk/legal/crain/&sa=D&source=editors&ust=1721321875772549&usg=AOvVaw1P9z8boOFp4DAEJ__HU1UR)
-* [TransUnion Credit Reference Agency Information Notice](https://www.google.com/url?q=https://www.transunion.co.uk/legal/privacy-centre&sa=D&source=editors&ust=1721321875772828&usg=AOvVaw1aqgaVjJjjf-p34Nvu82W3)
-* [Equifax Credit Reference Agency Information Notice](https://www.google.com/url?q=https://www.equifax.co.uk/crain/&sa=D&source=editors&ust=1721321875773038&usg=AOvVaw33pSlptI4cbTYyqdj6SgOb)
+\- [Experian Credit Reference Agency Information Notice](https://www.experian.co.uk/legal/crain/)
+
+\- [TransUnion Credit Reference Agency Information Notice](https://www.transunion.co.uk/legal/privacy-centre)
+
+\- [Equifax Credit Reference Agency Information Notice](https://www.equifax.co.uk/crain/)
 
 We also take data from CRAs to allow us to make decisions about your credit account and credit facility.
 
-* Fraud prevention services - Before we provide goods and services to you, we use third parties to undertake fraud and money laundering checks and verify your identity. These organisations will report to us on industry fraud indicators and if they have reason to believe an identity is fraudulent. If we have reason to suspect fraud or other criminal offences we will pass your personal data to fraud prevention agencies or law enforcement agencies for the detection, investigation and prevention of crime. If we think there is a risk of fraud, we may suspend activity on your account or refuse access to your account and/or cancel an order. If we do this we will inform you by email or SMS and ask you to contact us.
-* Claims management companies \- where we have received appropriate instruction we will share your data with them if it is requested in order to manage your claim.
-* Debt collection agencies (DCAs) - If you default on repayments to your credit account we may share your data with DCAs to allow them to collect the outstanding debts from you.
+* **Fraud prevention services** – Before we provide goods and services to you, we use third parties to undertake fraud and money laundering checks and verify your identity. These organisations will report to us on industry fraud indicators and if they have reason to believe an identity is fraudulent. If we have reason to suspect fraud or other criminal offences we will pass your personal data to fraud prevention agencies or law enforcement agencies for the detection, investigation and prevention of crime. If we think there is a risk of fraud, we may suspend activity on your account or refuse access to your account and/or cancel an order. If we do this we will inform you by email or SMS and ask you to contact us.
+* **Claims management companies** – where we have received appropriate instruction we will share your data with them if it is requested in order to manage your claim.
+* **Debt collection agencies (DCAs)** – If you default on repayments to your credit account we may share your data with DCAs to allow them to collect the outstanding debts from you.
 
 The identities of the DCAs, and the ways in which they use and share personal data, are explained in more detail at:
 
-* [tdxgroup.com/privacy](https://www.google.com/url?q=https://www.tdxgroup.com/privacy&sa=D&source=editors&ust=1721321875773693&usg=AOvVaw2GXPKgiOEZ0JEde_jNuYB4)
+\- [tdxgroup.com/privacy](https://www.tdxgroup.com/privacy)
 
-* Debt purchase companies – Where appropriate will share certain data on defaulted accounts with prospective debt purchasers as part of the negotiations for sale of the debt.
-* Debt management companies – where we have received appropriate instruction we will share data about your credit account with debt management companies to allow them to assist you with managing your debts.
-* Research and analytics companies - We may share personal details to allow research companies and feedback providers to contact you directly on our behalf in order to capture your opinions on our products, services, websites and apps. We may ask these research companies to analyse the results so that we can better understand your online experience, which will help us to improve our services. We only provide them with the data they need to perform their function. This may take the form of a survey, where you may be asked to review a product or service you’ve bought or provide general feedback on our products and services. You will always have the choice about whether to take part in our market research or surveys. We may share data with specialist companies to analyse customer data to help us better understand how you use our services and to tailor products, services and offers that may be relevant for you.  
-    We utilise companies that help us track and record the way you navigate our website, so that we can understand your online experience and use it to improve our services and offer a more personalised experience.
-* Product technicians – We use professional third party companies to assist us in independently reviewing issues and complaints with our products. We will share data with these technicians to allow them to review the product and return it to you or to review the product in your home.
-* General service companies - Such as insurance companies, printers and mailing houses that assist us in providing our products and services.
-* Regulators and law enforcement - We will share data with regulators and other official bodies (including law enforcement) if they make formal requests or pursuant to legal proceedings.
+* **Debt purchase companies** – Where appropriate will share certain data on defaulted accounts with prospective debt purchasers as part of the negotiations for sale of the debt.
+* **Debt management companies** – where we have received appropriate instruction we will share data about your credit account with debt management companies to allow them to assist you with managing your debts.
+* **Research and analytics companies** – We may share personal details to allow research companies and feedback providers to contact you directly on our behalf in order to capture your opinions on our products, services, websites and apps. We may ask these research companies to analyse the results so that we can better understand your online experience, which will help us to improve our services. We only provide them with the data they need to perform their function. This may take the form of a survey, where you may be asked to review a product or service you’ve bought or provide general feedback on our products and services. You will always have the choice about whether to take part in our market research or surveys. We may share data with specialist companies to analyse customer data to help us better understand how you use our services and to tailor products, services and offers that may be relevant for you. We utilise companies that help us track and record the way you navigate our website, so that we can understand your online experience and use it to improve our services and offer a more personalised experience.
+* **Product technicians** – We use professional third party companies to assist us in independently reviewing issues and complaints with our products. We will share data with these technicians to allow them to review the product and return it to you or to review the product in your home.
+* **General service companies** – Such as insurance companies, printers and mailing houses that assist us in providing our products and services.
+* **Regulators and law enforcement** – We will share data with regulators and other official bodies (including law enforcement) if they make formal requests or pursuant to legal proceedings.
 
-International Transfers
-=======================
+ International Transfers
 
 Our main operations are based in the UK and your personal data is generally processed, stored and used within the UK. In some instances your personal data may be processed outside the UK. For example, we operate a customer contact centre in Pune, India. Operatives in this location will have access to your account data in order to assist you with your query. We also work with suppliers and partners who may make use of Cloud and /or hosted technologies across multiple geographies.
 
@@ -463,23 +423,21 @@ Where we need to transfer your personal data outside the UK, and if the recipien
 * The use of European Commission approved standard contractual clauses in contracts for the transfer of personal data to third countries; and/or
 * The International Data Transfer Agreement or Addendum for the transfer of personal data to third countries.
 
-Keeping your personal data secure
-=================================
+ Keeping your personal data secure
 
 We always ensure that personal data is secure by continuously developing our security systems and training for our employees. We have implemented appropriate technical and organisational security measures designed to protect your personal data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure, unauthorised access, and other unlawful or unauthorised forms of processing, in accordance with applicable law.
 
-Third party apps, websites and services
+ Third party apps, websites and services
 
 If you use any third party apps, websites or services to access our services, your usage is subject to the relevant third party's terms and conditions, cookies policy, and privacy policy. For example, if you interact with us on social media, your use is subject to the terms and conditions and privacy policies of the relevant social media platform (Facebook, X etc.). The same applies if you use third party services, like Amazon's Alexa. In certain cases we may be required to share your personal data, in relation to transactions and usage of the services, with the relevant third party.
 
-How you can get in touch
-========================
+ How you can get in touch
 
-If you would like to exercise any of your rights mentioned within this privacy policy you can submit these through our [privacy portal](https://www.google.com/url?q=https://next-privacy.my.onetrust.com/webform/ed3af7a2-8a20-4164-91fc-f042d4368382/1b3fa915-24a2-474a-b082-7d0943cc6aaa&sa=D&source=editors&ust=1721321875775614&usg=AOvVaw21RCh0-nZqB1bjXJEZlhQP).
+If you would like to exercise any of your rights mentioned within this privacy policy you can submit these through our [privacy portal.](https://next-privacy.my.onetrust.com/webform/ed3af7a2-8a20-4164-91fc-f042d4368382/1b3fa915-24a2-474a-b082-7d0943cc6aaa)
 
-Alternatively, should you need to contact our Data Protection Officer please email: [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk) or you can write to:
+Alternatively, should you need to contact our Data Protection Officer please email: dataprotection@next.co.uk or you can write to:
 
-UK registered address:
+**UK registered address:**
 
 Data Protection Officer
 
@@ -493,7 +451,7 @@ Leicester
 
 LE19 4AT
 
-EU registered address:
+**EU registered address:**
 
 Data Protection Officer
 
@@ -506,8 +464,6 @@ Dublin 2
 D02 ED70
 
 Ireland
-
-V.2.0 Public
 
 Max Limit Reached
 
@@ -566,7 +522,7 @@ You need to enable JavaScript to run this app.
 
 3.13.9
 
-1721420710153
+1721601039017
 
 ### Our Social Networks
 
