@@ -8,7 +8,7 @@
 * [](https://youtube.com/user/elementaryproject "YouTube")
 * [](https://mastodon.social/@elementary "Mastodon")
 * [](https://www.reddit.com/r/elementaryos "Reddit")
-* [](https://discord.gg/dGdDfGNa "Discord")
+* [](https://discord.com/invite/kwRyqGCzm5 "Discord")
 
 **JavaScript is required** for parts of this site, like downloading elementary OS and some interactive components.
 
