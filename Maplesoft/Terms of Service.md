@@ -285,7 +285,7 @@ Web site: [http://www.maplesoft.com](http://www.maplesoft.com/) | Email: [info@m
 
 **Related Resources**
 
-[Privacy Policy](https://www.maplesoft.com/privacy/) [MapleCloud Terms of Service](https://www.maplesoft.com/cloud/terms.aspx) [Maple Calculator Terms of Use](https://www.maplesoft.com/terms/Maplecalculator/) [Maple Learn Terms of Use](https://www.maplesoft.com/terms/MapleLearn/)[Application Center Author’s Agreement](https://www.maplesoft.com/applications/authors/licence.aspx)[MaplePrimes Community Guidelines](https://www.mapleprimes.com/help/guidelines)[General Maplesoft Contest and Sweepstakes Rules](https://www.maplesoft.com/terms/Maplesoft-Contest-and-Sweepstakes-Rules.aspx)[Maplesoft End User License Agreement](https://www.maplesoft.com/documentation_center/Maplesoft_EULA.pdf)
+[Terms of Use](https://www.maplesoft.com/terms/) [Privacy Policy](https://www.maplesoft.com/privacy/) [MapleCloud Terms of Service](https://www.maplesoft.com/cloud/terms.aspx) [Maple Calculator Terms of Use](https://www.maplesoft.com/terms/Maplecalculator/) [Maple Learn Terms of Use](https://www.maplesoft.com/terms/MapleLearn/)[Application Center Author’s Agreement](https://www.maplesoft.com/Applications/submit/License.aspx)[MaplePrimes Community Guidelines](https://www.mapleprimes.com/help/guidelines)[General Maplesoft Contest and Sweepstakes Rules](https://www.maplesoft.com/terms/Maplesoft-Contest-and-Sweepstakes-Rules.aspx)[Maplesoft Subscriptions License Agreement](https://www.maplesoft.com/terms/maplesoft-subscriptions.aspx)[Maplesoft End User License Agreement](https://www.maplesoft.com/documentation_center/Maplesoft_EULA.pdf)
 
 [About Us](https://www.maplesoft.com/company/about/)
 
