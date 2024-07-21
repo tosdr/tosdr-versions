@@ -1,4 +1,4 @@
-[**710 Sale! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients)
+[**SUMMER SALE!! - Up to 50% Off 🦍**](https://www.gorillagrowtent.com/collections/lotus-nutrients)
 
 [Menu](#nav)[![Lotus Premium Plant Nutrients](//lotusnutrients.com/cdn/shop/files/Lotus-W_copy_400x.webp?v=1721263128)
 
