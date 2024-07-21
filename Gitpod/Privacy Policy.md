@@ -8,13 +8,13 @@
 * [Customers](https://www.gitpod.io/customers)
 * [Pricing](https://www.gitpod.io/pricing)
 
-[12.5k](https://github.com/gitpod-io/gitpod)
+[12.6k](https://github.com/gitpod-io/gitpod)
 
 * [Login](https://gitpod.io/login/)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
-[12.5k](https://github.com/gitpod-io/gitpod)
+[12.6k](https://github.com/gitpod-io/gitpod)
 
 [Login](https://gitpod.io/login/)
 
