@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1790945618044813&ev=PageView&noscript=1)      [Skip to content](#main)
+[Skip to content](#main)
 
 * [About](https://duradek.com/about-duradek/)
     * [About Duradek](https://duradek.com/about-duradek/)
@@ -200,7 +200,6 @@ USA: [1-800-338-3568](tel:1-800-338-3568) | CANADA: [1-866-591-5594](tel:1-866-5
         * [Architectural Resources](https://duradek.com/architectural-resources/vinyl-decking-resources)
 * [Durarail](https://duradek.com/deck-railing/)
     * [Deck Railing Products](#)
-        
         * [Aluminum Railings](https://duradek.com/deck-railing/aluminum-railings/)
             * [Deck Railing Colors](https://duradek.com/deck-railing/aluminum-railings/deck-railing-colors/)
             * [Powder Coating](https://duradek.com/deck-railing/aluminum-railings/powder-coating/)
@@ -365,8 +364,6 @@ Search
 © 2024 Duradek. All rights reserved. |  [Terms & Conditions](https://duradek.com/terms-conditions) |  [Site Map](https://duradek.com/site-map)  |  [Website by Artovermatter](https://artovermatter.com/) - This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
 [](https://www.houzz.com/pro/duradek/)[](https://ca.linkedin.com/company/duradek)[](https://www.instagram.com/duradek/)[](https://www.youtube.com/user/TheDuradek)[](https://twitter.com/Duradekspert)[](https://www.facebook.com/Duradek)[](https://www.pinterest.ca/duradek/)
-
-![](https://px.ads.linkedin.com/collect/?pid=4007420&fmt=gif)
 
 Translate »
 
