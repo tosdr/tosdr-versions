@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-**IT issues:** Trains are running normally but some customer systems have been affected by a global IT outage on Friday 19 July. Please allow more time for journeys to get your tickets and pass through ticket gates.
+**IT issues:** Trains are running normally but some customer systems may still be affected over the weekend. Please speak to station staff if you need assistance or check the latest departure information on GWR.com or the GWR app.
 
 [Check your journey](https://www.gwr.com/travel-information/travel-updates/check-your-journey)
 
