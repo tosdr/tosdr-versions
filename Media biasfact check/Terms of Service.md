@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [July 21, 2024 | MBFC’s Daily Vetted Fact Checks for 07/21/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/21/mbfcs-daily-vetted-fact-checks-for-07-21-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 07/21/2024 (Weekend Edition)")
+* [July 20, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of July 14th – July 20th](https://mediabiasfactcheck.com/2024/07/20/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-july-14th-july-20th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of July 14th – July 20th")
+* [July 20, 2024 | MBFC’s Daily Vetted Fact Checks for 07/20/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/20/mbfcs-daily-vetted-fact-checks-for-07-20-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 07/20/2024 (Weekend Edition)")
 * [July 19, 2024 | (Media News) American Journalist Evan Gershkovich Jailed for Espionage in Russia](https://mediabiasfactcheck.com/2024/07/19/media-news-american-journalist-evan-gershkovich-jailed-for-espionage-in-russia/ "(Media News) American Journalist Evan Gershkovich Jailed for Espionage in Russia")
 * [July 19, 2024 | MBFC’s Daily Vetted Fact Checks for 07/19/2024](https://mediabiasfactcheck.com/2024/07/19/mbfcs-daily-vetted-fact-checks-for-07-19-2024/ "MBFC’s Daily Vetted Fact Checks for 07/19/2024")
-* [July 18, 2024 | MBFC’s Daily Vetted Fact Checks for 07/18/2024](https://mediabiasfactcheck.com/2024/07/18/mbfcs-daily-vetted-fact-checks-for-07-18-2024/ "MBFC’s Daily Vetted Fact Checks for 07/18/2024")
-* [July 18, 2024 | Source of the Day: Protect Democracy](https://mediabiasfactcheck.com/2024/07/18/source-of-the-day-protect-democracy/ "Source of the Day: Protect Democracy")
-* [July 17, 2024 | MBFC’s Daily Vetted Fact Checks for 07/17/2024](https://mediabiasfactcheck.com/2024/07/17/mbfcs-daily-vetted-fact-checks-for-07-17-2024/ "MBFC’s Daily Vetted Fact Checks for 07/17/2024")
 
 Search for:  
 
@@ -153,76 +153,76 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [Dewsbury Reporter – Bias and Credibility](https://mediabiasfactcheck.com/dewsbury-reporter-bias-and-credibility/)
+* [Redditch Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/redditch-advertiser-bias/)
     
-    July 19, 2024
+    July 21, 2024
     
-* [Environment and Resources Journal – Bias and Credibility](https://mediabiasfactcheck.com/environment-and-resources-journal-bias/)
+* [WKYU – NPR – Bowling Green – Bias and Credibility](https://mediabiasfactcheck.com/wkyu-npr-bowling-green-bias/)
     
-    July 19, 2024
+    July 21, 2024
     
-* [KMUW – NPR – Wichita – Bias and Credibility](https://mediabiasfactcheck.com/kmuw-npr-wichita-bias/)
+* [Positive Health Wellness – Bias and Credibility](https://mediabiasfactcheck.com/positive-health-wellness-bias-and-credibility/)
     
-    July 19, 2024
+    July 21, 2024
     
-* [Elway Research – Bias and Credibility](https://mediabiasfactcheck.com/elway-research-bias-and-credibility/)
+* [Kent Reporter – Bias and Credibility](https://mediabiasfactcheck.com/kent-reporter-bias/)
     
-    July 18, 2024
+    July 21, 2024
     
-* [BMC Artificial Intelligence – Bias and Credibility](https://mediabiasfactcheck.com/bmc-artificial-intelligence-bias/)
+* [Frontiers in Forests and Global Change – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-forests-and-global-change-bias/)
     
-    July 18, 2024
+    July 20, 2024
     
-* [Praying Medic – Bias and Credibility](https://mediabiasfactcheck.com/praying-medic-bias-and-credibility/)
+* [Physicians for a National Health Program (PNHP) – Bias and Credibility](https://mediabiasfactcheck.com/physicians-for-a-national-health-program-pnhp-bias-and-credibility/)
     
-    July 18, 2024
+    July 20, 2024
     
-* [Skagit Valley Herald – Bias and Credibility](https://mediabiasfactcheck.com/skagit-valley-herald-bias/)
+* [Atlantic News-Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/atlantic-news-telegraph-bias/)
     
-    July 18, 2024
+    July 20, 2024
     
-* [Mid Valley Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mid-valley-reporter-bias/)
+* [Coasts Journal – Bias and Credibility](https://mediabiasfactcheck.com/coasts-journal-bias-and-credibility/)
     
-    July 17, 2024
+    July 20, 2024
     
 
 [See More](https://mediabiasfactcheck.com/whats-new-recently-added-sources-and-pages/)
 
 #### Recently Updated Pages
 
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - July 19, 2024
+* [Psychiatric Times – Bias and Credibility](https://mediabiasfactcheck.com/psychiatric-times/ "View Psychiatric Times – Bias and Credibility") - July 21, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - July 19, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - July 21, 2024
     
-* [Dewsbury Reporter – Bias and Credibility](https://mediabiasfactcheck.com/dewsbury-reporter-bias-and-credibility/ "View Dewsbury Reporter – Bias and Credibility") - July 19, 2024
+* [Redditch Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/redditch-advertiser-bias/ "View Redditch Advertiser – Bias and Credibility") - July 21, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - July 19, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - July 21, 2024
     
-* [Environment and Resources Journal – Bias and Credibility](https://mediabiasfactcheck.com/environment-and-resources-journal-bias/ "View Environment and Resources Journal – Bias and Credibility") - July 19, 2024
+* [WKYU – NPR – Bowling Green – Bias and Credibility](https://mediabiasfactcheck.com/wkyu-npr-bowling-green-bias/ "View WKYU – NPR – Bowling Green – Bias and Credibility") - July 21, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - July 19, 2024
+* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - July 21, 2024
     
-* [KMUW – NPR – Wichita – Bias and Credibility](https://mediabiasfactcheck.com/kmuw-npr-wichita-bias/ "View KMUW – NPR – Wichita – Bias and Credibility") - July 19, 2024
+* [Positive Health Wellness – Bias and Credibility](https://mediabiasfactcheck.com/positive-health-wellness-bias-and-credibility/ "View Positive Health Wellness – Bias and Credibility") - July 21, 2024
     
-* [Elway Research – Bias and Credibility](https://mediabiasfactcheck.com/elway-research-bias-and-credibility/ "View Elway Research – Bias and Credibility") - July 18, 2024
+* [Kent Reporter – Bias and Credibility](https://mediabiasfactcheck.com/kent-reporter-bias/ "View Kent Reporter – Bias and Credibility") - July 21, 2024
     
-* [BMC Artificial Intelligence – Bias and Credibility](https://mediabiasfactcheck.com/bmc-artificial-intelligence-bias/ "View BMC Artificial Intelligence – Bias and Credibility") - July 18, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - July 21, 2024
     
-* [Electoral College Map 2024 – Biden vs. Trump](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/ "View Electoral College Map 2024 – Biden vs. Trump") - July 18, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - July 20, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [MBFC's Daily Vetted Fact Checks for 07/18/2024](https://mediabiasfactcheck.com/2024/07/18/mbfcs-daily-vetted-fact-checks-for-07-18-2024/)
-* [MBFC's Daily Vetted Fact Checks for 07/19/2024](https://mediabiasfactcheck.com/2024/07/19/mbfcs-daily-vetted-fact-checks-for-07-19-2024/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
+* [MBFC's Daily Vetted Fact Checks for 07/20/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/20/mbfcs-daily-vetted-fact-checks-for-07-20-2024-weekend-edition/)
+* [MBFC's Daily Vetted Fact Checks for 07/21/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/07/21/mbfcs-daily-vetted-fact-checks-for-07-21-2024-weekend-edition/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Axios - Bias and Credibility](https://mediabiasfactcheck.com/axios/)
-* [Newsmax - Bias and Credibility](https://mediabiasfactcheck.com/newsmax-bias-credibilty-reliability/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MSNBC - Bias and Credibility](https://mediabiasfactcheck.com/msnbc/)
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [MBFC's Weekly Media Literacy Quiz Covering the Week of July 14th - July 20th](https://mediabiasfactcheck.com/2024/07/20/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-july-14th-july-20th/)
+* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 
 #### Subscribe via Email
 
