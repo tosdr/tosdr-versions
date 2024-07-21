@@ -307,15 +307,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEFtSDk1alJxd3IzSGg4RjNEUDBKREE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIlqXY)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
-
-Wize SMS: Message & Messenger
-
-Browser by Fulldive Co.
-
-4.4_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHJHSGxNRldib043aWtpdDdjUHZXWnc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIrdaA)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
 
@@ -325,13 +317,29 @@ Handcent
 
 4.6_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
 
-[![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
+[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
 
-Textra SMS
+Wize SMS: Message & Messenger
 
-Delicious
+Browser by Fulldive Co.
 
-4.4_star_](https://play.google.com/store/apps/details?id=com.textra)
+4.4_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/Gsx3yt1FXuT0O_UAkA0KM48N_zVWGFBDPZ61pMTeMLlyfPhPwvpPX3_V-qYhutV1O2HR=s64)
+
+search.ch
+
+search.ch (Swisscom Directories AG)
+
+4.0_star_](https://play.google.com/store/apps/details?id=ch.search.android.search)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/EMDdIjOW7r2d2p5_nbnHxBwqLujyRriopTSQ5mqJPa_PY5Ohrjx3WGb3F_KK9OJOxyQ=s64)
+
+SimpleLogin | Anti-spam
+
+Simple Login
+
+4.6_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/626BhIA8sAh3fc5TupUvOSrbAMirQpJmaSKJXdrxEyqr87jj1SBRdaW3N08Du-uM6A=s64)
 
@@ -340,22 +348,6 @@ Wire - Secure Messenger
 Wire Swiss GmbH
 
 2.5_star_](https://play.google.com/store/apps/details?id=com.wire)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/-ooeBnI1kvNwxfyqRCweRVFpFj8JcPw6lowM_2q9eNW_cJolWk7HVXFutJiPrupVgQ=s64)
-
-Text Vault - Texting App
-
-Appsverse, Inc.
-
-4.5_star_](https://play.google.com/store/apps/details?id=com.appsverse.textvault)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/DSMBLC-yGuWCdMYzqpNio-brFDS4Th6ERZcmilckYtU9tXqEqMEetwC9JCQoJSLVGF4=s64)
-
-FairEmail, privacy aware email
-
-Marcel Bokhorst, FairCode BV
-
-4.7_star_](https://play.google.com/store/apps/details?id=eu.faircode.email)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
