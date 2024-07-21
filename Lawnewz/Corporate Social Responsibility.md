@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Sergio Pino raid](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Sergio-Pino-432x243.jpg)](https://lawandcrime.com/crime/how-the-feds-unfurled-a-high-powered-real-estate-developers-multiple-plots-to-kill-his-wife-via-fentanyl-poisoning-hit-and-runs-and-fake-armed-robberies/)
+1. [![Linda St. Leger appears in a booking photo](https://am22.mediaite.com/lc/cnt/uploads/2024/07/Linda-Leger-432x243.jpg)](https://lawandcrime.com/crime/florida-woman-allegedly-left-her-3-young-children-at-home-in-the-middle-of-the-night-to-work-an-unexpected-late-shift-at-wawa/)
     
-    ### [How the feds unfurled a high-powered real estate developer's multiple plots to kill his wife via fentanyl poisoning, hit-and-runs and fake armed robberies](https://lawandcrime.com/crime/how-the-feds-unfurled-a-high-powered-real-estate-developers-multiple-plots-to-kill-his-wife-via-fentanyl-poisoning-hit-and-runs-and-fake-armed-robberies/)
+    ### [Florida woman allegedly left her 3 young children at home in the middle of the night to work an unexpected late shift at Wawa](https://lawandcrime.com/crime/florida-woman-allegedly-left-her-3-young-children-at-home-in-the-middle-of-the-night-to-work-an-unexpected-late-shift-at-wawa/)
     
-2. [![Tyler Campanella faces misdemeanor charges in the Jan. 6, 2021, riots at the U.S. Capitol. (Court documents)](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Campanella-432x243.jpg)](https://lawandcrime.com/high-profile/jan-6-defendant-and-stepson-of-real-housewives-star-allowed-to-travel-to-hamptons-while-awaiting-trial/)
+2. [![Inset/ Megan Stack Sattizahn (Catawba County Sheriff's Office). Background/ The home where she allegedly killed her 9-month-old daughter (WSOC).](https://am23.mediaite.com/lc/cnt/uploads/2024/07/Inset-Megan-Stack-Sattizahn-Catawba-County-Sheriffs-Office.-Background-The-home-where-she-allegedly-killed-her-9-month-old-daughter-WSOC-432x243.jpg)](https://lawandcrime.com/crime/mercy-killing-of-infant-discovered-after-mom-found-wandering-streets-led-cops-to-body/)
     
-    ### [Jan. 6 defendant and stepson of 'Real Housewives' star allowed to travel to Hamptons while awaiting trial](https://lawandcrime.com/high-profile/jan-6-defendant-and-stepson-of-real-housewives-star-allowed-to-travel-to-hamptons-while-awaiting-trial/)
+    ### ['Mercy killing' of infant discovered after mom found wandering streets led cops to body](https://lawandcrime.com/crime/mercy-killing-of-infant-discovered-after-mom-found-wandering-streets-led-cops-to-body/)
     
-3. [![Kerilyn Johnson and Olin Johnson](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Johnson-432x243.jpg)](https://lawandcrime.com/crime/i-cant-go-back-in-that-room-chilling-moments-distraught-son-called-911-from-million-dollar-home-where-dad-shot-mom-himself-after-recent-drama/)
+3. [![Escambia County School Board](https://am21.mediaite.com/lc/cnt/uploads/2024/07/Escambia-School-Board-432x243.jpg)](https://lawandcrime.com/lawsuit/school-board-wants-to-depose-7-year-old-girl-about-what-library-books-she-wants-to-check-out-but-cant-because-they-are-banned/)
     
-    ### ['I can't go back in that room': Chilling moments distraught son called 911 from million-dollar home where dad shot mom, himself after recent 'drama'](https://lawandcrime.com/crime/i-cant-go-back-in-that-room-chilling-moments-distraught-son-called-911-from-million-dollar-home-where-dad-shot-mom-himself-after-recent-drama/)
+    ### [School board wants to depose 7-year-old girl about what library books she wants to check out but can't because they are banned](https://lawandcrime.com/lawsuit/school-board-wants-to-depose-7-year-old-girl-about-what-library-books-she-wants-to-check-out-but-cant-because-they-are-banned/)
     
-4. [![Dominique Side, on the left; Vgn Bae Studios, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/07/Dominique-Side-1-432x243.jpg)](https://lawandcrime.com/lawsuit/surrogacy-company-owner-stole-millions-from-parents-to-fund-lavish-lifestyle-vegan-clothing-line-music-career-lawsuit/)
+4. [![Left to right: Republican presidential candidate former President Donald Trump at the Republican National Convention, July 2024, in Milwaukee (AP Photo/Matt Rourke). The Supreme Court in Washington, D.C., June 2019 (AP Photo/J. Scott Applewhite). Special counsel Jack Smith at a Department of Justice office in Washington, D.C., August 2023 (AP Photo/Jacquelyn Martin).](https://am24.mediaite.com/lc/cnt/uploads/2024/07/trumpo-compo-432x243.jpg)](https://lawandcrime.com/high-profile/the-trump-docket-jack-smith-could-invoke-nearly-140-years-of-history-to-appeal-cannon-mar-a-lago-dismissal/)
     
-    ### [Surrogacy company owner stole millions from parents to fund 'lavish' lifestyle, vegan clothing line, music career: Lawsuit](https://lawandcrime.com/lawsuit/surrogacy-company-owner-stole-millions-from-parents-to-fund-lavish-lifestyle-vegan-clothing-line-music-career-lawsuit/)
+    ### [The Trump Docket: Jack Smith could invoke 'nearly 140 years' of history to appeal Cannon Mar-a-Lago dismissal](https://lawandcrime.com/high-profile/the-trump-docket-jack-smith-could-invoke-nearly-140-years-of-history-to-appeal-cannon-mar-a-lago-dismissal/)
     
-5. [![A man calls out to his girlfriend after a high-speed chase in Los Angeles](https://am24.mediaite.com/lc/cnt/uploads/2024/07/High-Speed-Chase-LA-2024-432x243.jpg)](https://lawandcrime.com/crime/its-over-bro-its-over-man-allegedly-leads-police-on-lengthy-high-speed-chase-throughout-los-angeles-during-rush-hour-while-livestreaming-with-infant-girl-in-the-back-seat/)
+5. [![Inset, from top to bottom: Nathaniel Bridges (Facebook) and Blu Rolland (Arkansas State Police). Background: The home where Bridges killed Blu (WHBQ/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/07/Inset-from-top-to-bottom-Nathaniel-Bridges-Facebook-and-Blu-Rolland-Arkansas-State-Police.-Background-The-home-where-Bridges-killed-Blu-WHBQYouTube-432x243.jpg)](https://lawandcrime.com/crime/man-drowned-5-year-old-in-toilet-as-punishment-for-biting-his-finger-removed-floorboards-and-buried-child-under-the-house/)
     
-    ### ['It's over, bro, it's over': Man allegedly leads police on lengthy high-speed chase throughout Los Angeles during rush hour while livestreaming with infant girl in the back seat](https://lawandcrime.com/crime/its-over-bro-its-over-man-allegedly-leads-police-on-lengthy-high-speed-chase-throughout-los-angeles-during-rush-hour-while-livestreaming-with-infant-girl-in-the-back-seat/)
+    ### [Man drowned 5-year-old in toilet as 'punishment' for biting his finger, removed floorboards and buried child under the house](https://lawandcrime.com/crime/man-drowned-5-year-old-in-toilet-as-punishment-for-biting-his-finger-removed-floorboards-and-buried-child-under-the-house/) 
     
 
 [](http://eepurl.com/c89Jdb)
