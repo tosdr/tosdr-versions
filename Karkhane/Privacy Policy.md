@@ -34,9 +34,6 @@ Privacy Policy
 * [![همه‌چیز برای فروش؛ نقدی بر روایت زندگی کارگران در فیلم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![همه‌چیز برای فروش؛ نقدی بر روایت زندگی کارگران در فیلم](https://karkhane.org/app/uploads/2023/12/hame-chiz-baraye-forush-95x65.jpg)](https://karkhane.org/5231/everything-for-sale-movie-review/)[همه‌چیز برای فروش؛ نقدی بر روایت زندگی کارگران در فیلم](https://karkhane.org/5231/everything-for-sale-movie-review/)
-* [![نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](https://karkhane.org/app/uploads/2024/01/negahi-be-masaleye-siyahan-black-and-blue-film-95x65.jpg)](https://karkhane.org/5322/the-problem-of-blacks-in-the-lights-of-the-black-and-blue-movie-2019/)[نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](https://karkhane.org/5322/the-problem-of-blacks-in-the-lights-of-the-black-and-blue-movie-2019/)
 * [![به پاس یک عمر خدمت برای سرمایه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![به پاس یک عمر خدمت برای سرمایه](https://karkhane.org/app/uploads/2024/03/be-paas-yek-omr-khedmat-95x65.jpg)](https://karkhane.org/5412/nili-aminolzarb/)[به پاس یک عمر خدمت برای سرمایه](https://karkhane.org/5412/nili-aminolzarb/)
@@ -46,15 +43,18 @@ Privacy Policy
 * [![مصوبه دستمزد ۱۴۰۳](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![مصوبه دستمزد ۱۴۰۳](https://karkhane.org/app/uploads/2024/04/Wage-95x65.jpg)](https://karkhane.org/5444/local-wage/)[چرا همیشه ارزش کار در عصر سرمایه پرداخت نشده باقی خواهند ماند؟](https://karkhane.org/5444/local-wage/)
+* [![نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](https://karkhane.org/app/uploads/2024/01/negahi-be-masaleye-siyahan-black-and-blue-film-95x65.jpg)](https://karkhane.org/5322/the-problem-of-blacks-in-the-lights-of-the-black-and-blue-movie-2019/)[نگاهی به مسئله‌ی سیاهان در پرتوی فیلم سیاه و آبی (Black and Blue)](https://karkhane.org/5322/the-problem-of-blacks-in-the-lights-of-the-black-and-blue-movie-2019/)
+* [![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![حامیِ طبقه‌ی حاکم؛ نگاهی به مستند حامی](https://karkhane.org/app/uploads/2023/09/hami-e-tabaqeye-hakem-95x65.jpg)](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)[حامیِ طبقه‌ی حاکم؛ نگاهی به مستند «حامی»](https://karkhane.org/5162/protector-of-the-ruling-class-a-look-at-the-documentary-hami/)
+* [![آشنایی با مواد قانون کار، بستری برای اتحاد کارگران؛ نگاهی به قراردادِ کار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![آشنایی با مواد قانون کار، بستری برای اتحاد کارگران؛ نگاهی به قراردادِ کار](https://karkhane.org/app/uploads/2021/05/asnayi-ba-qanun-e-kar-qarardad-e-kar-95x65.jpg)](https://karkhane.org/2717/%d8%a2%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%a8%d8%a7-%d9%85%d9%88%d8%a7%d8%af-%d9%82%d8%a7%d9%86%d9%88%d9%86-%da%a9%d8%a7%d8%b1-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1/)[آشنایی با مواد قانون کار، بستری برای اتحاد کارگران؛ نگاهی به قرارداد کار](https://karkhane.org/2717/%d8%a2%d8%b4%d9%86%d8%a7%db%8c%db%8c-%d8%a8%d8%a7-%d9%85%d9%88%d8%a7%d8%af-%d9%82%d8%a7%d9%86%d9%88%d9%86-%da%a9%d8%a7%d8%b1-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/07/6-95x65.jpg)](https://karkhane.org/5682/capitalist-psychotherapy/)[روانشناسی صنعتی‌ـ‌سازمانی: ابزاری برای به‌هنجارسازی نیروی کار و افزایش استثمار](https://karkhane.org/5682/capitalist-psychotherapy/)
-* [![«آرژانتین 1985» و جادوی دموکراسی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![«آرژانتین 1985» و جادوی دموکراسی](https://karkhane.org/app/uploads/2023/12/argentina-1985-and-the-magic-of-democracy-95x65.jpg)](https://karkhane.org/5265/argentina-1985-and-the-magic-of-democracy/)[«آرژانتین ۱۹۸۵» و جادوی دموکراسی](https://karkhane.org/5265/argentina-1985-and-the-magic-of-democracy/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/07/file-95x65.png)](https://karkhane.org/5691/exploitation-of-teachers/)[بار کنکور بر دوش معلمان](https://karkhane.org/5691/exploitation-of-teachers/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
