@@ -471,15 +471,15 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 ### Most read articles
 
 * 1[Heat pump sales collapse leaves new EU Commission with tough task](http://en.euractiv.eu/section/energy-environment/news/heat-pump-sales-collapse-leaves-new-eu-commission-with-tough-task/?utm_source=website&utm_campaign=popular)
-* 2[Von der Leyen’s speech: The topics that burn](http://en.euractiv.eu/section/politics/news/von-der-leyens-speech-the-topics-that-burn/?utm_source=website&utm_campaign=popular)
-* 3[Commissioners to boycott attendance at Hungary meetings over Orbán's Ukraine diplomacy](http://en.euractiv.eu/section/eu-council-presidency/news/commissioners-to-boycott-attendance-at-hungary-meetings-over-orbans-ukraine-diplomacy/?utm_source=website&utm_campaign=popular)
-* 4[EU hard-right parties to back von der Leyen after ‘intense’ meeting](http://en.euractiv.eu/section/politics/news/eu-hard-right-parties-to-back-von-der-leyen-after-intense-meeting/?utm_source=website&utm_campaign=popular)
-* 5[‘Forever chemical’ in water far above limits set in future EU water law, NGO finds](http://en.euractiv.eu/section/health-consumers/news/forever-chemical-in-water-far-above-limits-set-in-future-eu-water-law-ngo-finds/?utm_source=website&utm_campaign=popular)
-* 6[Von der Leyen wins 401-strong parliamentary majority with tactical concessions, Greens support](http://en.euractiv.eu/section/politics/news/von-der-leyen-wins-401-strong-parliamentary-majority-with-tactical-concessions-greens-support/?utm_source=website&utm_campaign=popular)
-* 7[Europeans fear US isolationism as Trump picks JD Vance as running mate](http://en.euractiv.eu/section/global-europe/news/europeans-fear-us-isolationism-as-trump-picks-jd-vance-as-running-mate/?utm_source=website&utm_campaign=popular)
-* 8[Von der Leyen pitches new portfolio for Mediterranean, teases enlargement file split](http://en.euractiv.eu/section/enlargement-neighbourhood/news/von-der-leyen-pitches-new-portfolio-for-mediterranean-teases-enlargement-file-split/?utm_source=website&utm_campaign=popular)
-* 9[General Court slams Commission for lack of transparency over COVID vaccines contracts](http://en.euractiv.eu/section/justice-home-affairs/news/eu-court-of-justice-slams-commission-for-lack-of-transparency-over-covid-vaccines-contracts/?utm_source=website&utm_campaign=popular)
-* 10[Meloni to decide on support for von der Leyen after ECR meeting](http://en.euractiv.eu/section/politics/news/meloni-to-decide-on-support-for-von-der-leyen-after-ecr-meeting-2/?utm_source=website&utm_campaign=popular)
+* 2[Von der Leyen pitches new portfolio for Mediterranean, teases enlargement file split](http://en.euractiv.eu/section/enlargement-neighbourhood/news/von-der-leyen-pitches-new-portfolio-for-mediterranean-teases-enlargement-file-split/?utm_source=website&utm_campaign=popular)
+* 3[Chinese wind turbine-makers move into Europe as trade tensions flare](http://en.euractiv.eu/section/economy-jobs/news/chinese-wind-turbine-makers-move-into-europe-as-trade-tensions-flare/?utm_source=website&utm_campaign=popular)
+* 4[Meloni's vote against von der Leyen risks backfiring](http://en.euractiv.eu/section/politics/news/melonis-vote-against-von-der-leyen-risks-backfiring/?utm_source=website&utm_campaign=popular)
+* 5[Von der Leyen wins 401-strong parliamentary majority with tactical concessions, Greens support](http://en.euractiv.eu/section/politics/news/von-der-leyen-wins-401-strong-parliamentary-majority-with-tactical-concessions-greens-support/?utm_source=website&utm_campaign=popular)
+* 6[EU hard-right parties to back von der Leyen after ‘intense’ meeting](http://en.euractiv.eu/section/politics/news/eu-hard-right-parties-to-back-von-der-leyen-after-intense-meeting/?utm_source=website&utm_campaign=popular)
+* 7[Ursula von der Leyen lays out vision for tech-enabled competitiveness](http://en.euractiv.eu/section/digital/news/ursula-von-der-leyen-lays-out-vision-for-tech-enabled-competitiveness/?utm_source=website&utm_campaign=popular)
+* 8[General Court slams Commission for lack of transparency over COVID vaccines contracts](http://en.euractiv.eu/section/justice-home-affairs/news/eu-court-of-justice-slams-commission-for-lack-of-transparency-over-covid-vaccines-contracts/?utm_source=website&utm_campaign=popular)
+* 9[ENVI and ITRE: Many familiar faces, but some big names relegated to backbenches](http://en.euractiv.eu/section/energy-environment/news/envi-and-itre-many-familiar-faces-but-some-big-names-relegated-to-backbenches/?utm_source=website&utm_campaign=popular) 
+* 10[How the new EU Battery Fund can put Europe on the battery map](http://en.euractiv.eu/section/energy-environment/opinion/how-the-new-eu-battery-fund-can-put-europe-on-the-battery-map/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
