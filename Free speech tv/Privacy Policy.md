@@ -29,7 +29,7 @@ Topics [Shows](https://freespeech.org/shows/)
 * [religion](https://freespeech.org/topic/religion/)
 * [War and Peace](https://freespeech.org/topic/war-and-peace/)
 
-* [The Thom Hartmann Program](https://freespeech.org/shows/the-thom-hartmann-program/)
+* [The Thom Hartmann Program](https://freespeech.org/?post_type=show&p=19)
 * [The Stephanie Miller Show](https://freespeech.org/shows/the-stephanie-miller-show/)
 * [Democracy Now!](https://freespeech.org/shows/democracy-now/)
 * [The Bill Press Show](https://freespeech.org/?post_type=show&p=78)
