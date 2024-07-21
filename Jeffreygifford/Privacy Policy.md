@@ -96,11 +96,11 @@ The information we collect typically includes the commenter’s IP address, user
     
     1. RJJJr on [Broken Everywhere](https://jeffreygifford.com/2021/03/11/broken-everywhere/#comment-57)
         
-    2. [Jeffrey](http://jeffreygifford.com/) on [Emacs versus vi](https://jeffreygifford.com/2011/01/07/emacs-versus-vi/#comment-31)
+    2. [Jeffrey](https://jeffreygifford.com/) on [Emacs versus vi](https://jeffreygifford.com/2011/01/07/emacs-versus-vi/#comment-31)
         
     3. Fred Douglis on [Emacs versus vi](https://jeffreygifford.com/2011/01/07/emacs-versus-vi/#comment-30)
         
-    4. [Jeffrey](http://jeffreygifford.com/) on [Vendors: Superheroes or Villains?](https://jeffreygifford.com/2013/08/08/vendors-superheroes-or-villains/#comment-56)
+    4. [Jeffrey](https://jeffreygifford.com/) on [Vendors: Superheroes or Villains?](https://jeffreygifford.com/2013/08/08/vendors-superheroes-or-villains/#comment-56)
         
     5. [CJ Nusbaum](http://about.me/nusbaum) on [Vendors: Superheroes or Villains?](https://jeffreygifford.com/2013/08/08/vendors-superheroes-or-villains/#comment-55)
         
