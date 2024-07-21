@@ -170,14 +170,6 @@ Enter your email address to receive our monthly newsletter, the
 
 [![RSS feed](/static/fsforg/css/img/rss.gif)](https://www.fsf.org/static/fsforg/rss/events.xml "Subscribe to an RSS feed of FSF events")
 
-[Upcoming Events](https://www.fsf.org/events)
-
- [![Event C source code](https://www.fsf.org/static/fsforg/css/img/newsitem_icon.gif) Free Software Directory meeting on IRC: Friday, July 19, starting at 12:00 EDT (16:00 UTC)](https://www.fsf.org/events/fsd-20240719-irc " Join the FSF and friends on Friday, July 19 from 12:00 to 15:00 EDT (16:00 to 19:00 UTC)  to help improve the Free Software Directory. ") Jul 19, 2024 12:00 PM - 03:00 PM — #fsf on libera.chat
-
-[Previous events…](https://www.fsf.org/events/aggregator/previous)
-
-[Upcoming events…](https://www.fsf.org/events)
-
  
 
 The FSF is a charity with a worldwide mission to advance software freedom — [learn about our history and work.](https://www.fsf.org/about/)
