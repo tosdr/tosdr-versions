@@ -1008,11 +1008,11 @@ Full Menu
 [Fairfax County Public Schools
 =============================](https://www.fcps.edu/ "Home")
 
-![](https://openweathermap.org/img/wn/01n.png)
+![](https://openweathermap.org/img/wn/02n.png)
 
 70°F
 
-Clear sky
+Few clouds
 
 * [Alerts](https://www.fcps.edu/alerts)
 
