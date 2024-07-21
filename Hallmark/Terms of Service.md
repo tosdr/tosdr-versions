@@ -648,7 +648,7 @@ We found suggestions
     [Contact Us](https://care.hallmark.com/)
     
 
-Ornament Premiere ends Sunday [Shop now](https://www.hallmark.com/keepsake-ornament-events/ornament-premiere/?icid=glbl_rib_071824_op-urgency)
+Ornament Premiere ends Today [Shop now](https://www.hallmark.com/keepsake-ornament-events/ornament-premiere/?icid=glbl_rib_071824_op-urgency)
 
 Hallmark Terms of Use
 ---------------------
