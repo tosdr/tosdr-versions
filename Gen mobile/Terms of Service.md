@@ -409,7 +409,9 @@ SERVICE FEATURES
 * [Affordable Connectivity Program](https://www.genmobile.com/pages/acp)
 * [Lifeline](https://www.genmobile.com/pages/lifeline-program)
 * [Coverage](https://www.genmobile.com/pages/5g)
-* [Call Mexico From the US](https://www.genmobile.com/pages/call-international-mexico)
+* [Call Mexico](https://www.genmobile.com/pages/call-international-mexico)
+* [Call China](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-china)
+* [Call India](https://www.genmobile.com/pages/buy-prepaid-phone-card-to-call-india)
 
 OUR COMPANY
 
