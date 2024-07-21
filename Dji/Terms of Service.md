@@ -11,7 +11,6 @@
     * [Enterprise](https://enterprise.dji.com/?site=brandsite&from=nav)
     * [Agriculture](https://ag.dji.com/?site=brandsite&from=nav)
     * [DJI Delivery](https://www.dji.com/uk/delivery?site=brandsite&from=nav)
-    * [DJI Automotive](https://auto.dji.com/?site=brandsite&from=nav)
     * [Drive System](https://www.dji.com/uk/avinox?site=brandsite&from=nav)
     
 * Explore
