@@ -226,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC and FDA Send Second Set of Cease-and-Desist Letters to Companies Selling Products Containing Delta-8 THC in Packaging Designed to Look Like Children’s Snacks](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-fda-send-second-set-cease-desist-letters-companies-selling-products-containing-delta-8-thc)
+    ### [FTC and DOJ Extend Public Comment on Request for Information Targeting Serial Acquisitions, Roll-Up Strategies Across U.S. Economy](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-doj-extend-public-comment-request-information-targeting-serial-acquisitions-roll-strategies)
     
-    July 16, 2024
+    July 19, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Jul19
+    Nov14
     
-    ### [Prehearing Scheduling Conference In the Matter of Tempur Sealy International, Inc. and Mattress Firm Group, Inc.](https://www.ftc.gov/news-events/events/2024/07/prehearing-scheduling-conference-matter-tempur-sealy-international-inc-mattress-firm-group-inc)
+    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
     
-    Friday, July 19, 2024 | 3:00PM - 3:30PM
+    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
