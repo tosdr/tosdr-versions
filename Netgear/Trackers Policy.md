@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[PRIME-TIME SAVINGS **\>>**](https://store.netgear.com/home/?lang=en_us)
+[LIMITED TIME OFFERS **\>>**](https://store.netgear.com/home/?lang=en_us)
 
 [UPGRADE TO ORBI WIFI 7 **\>>**](https://www.netgear.com/home/wifi/mesh/rbe973sb/)
 
@@ -83,7 +83,6 @@ Previous Next
     
     * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/smbnet-wireless-accpoi-remgmt/)
     * [Business Essentials Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-locmgmt/)
-    * [Accessories](https://www.netgear.com/business/wired/switches/accessories/)
     * [Cables](https://www.netgear.com/business/wifi/cables/)
     
     Wired Networking
@@ -310,7 +309,7 @@ Checkout
 
 [Skip to main content](#main)
 
-[PRIME-TIME SAVINGS **\>>**](https://store.netgear.com/home/?lang=en_us)
+[LIMITED TIME OFFERS **\>>**](https://store.netgear.com/home/?lang=en_us)
 
 [UPGRADE TO ORBI WIFI 7 **\>>**](https://www.netgear.com/home/wifi/mesh/rbe973sb/)
 
@@ -388,7 +387,6 @@ Shop By Brand :
 
 * [Pro WiFi Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/smbnet-wireless-accpoi-remgmt/)
 * [Business Essentials Access Points](https://www.netgear.com/business/wifi/access-points/listing-filter/ax-wifi6e1/ax-wifi6/smbnet-wireless-accpoi-locmgmt/)
-* [Accessories](https://www.netgear.com/business/wired/switches/accessories/)
 * [Cables](https://www.netgear.com/business/wifi/cables/)
 
 [Wired Networking](#navdrop9)
