@@ -16,7 +16,7 @@ Free - Google Play
 
 ![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/header/nav-close.svg)
 
-![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logomark.7bd46e0e.svg) ![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/arrow-right-midnight.e7cbd64c.svg) Back
+![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/logos/freshbooks-logomark.7bd46e0e.svg) ![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/arrow-right-midnight.e7cbd64c.svg) Back ![](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/arrow-right-midnight.e7cbd64c.svg) Back
 
 * Features
     
