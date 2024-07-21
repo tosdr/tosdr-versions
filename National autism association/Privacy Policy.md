@@ -1,11 +1,11 @@
 877.622.2884 [naa@nationalautism.org](mailto:naa@nationalautism.org)
 
 * [Facebook](https://facebook.com/nationalautism)
-* [Twitter](https://twitter.com/NationalAutism)
+* [X](https://twitter.com/NationalAutism)
 * [Instagram](https://instagram.com/NationalAutism)
 
 * [Facebook](https://facebook.com/nationalautism)
-* [Twitter](https://twitter.com/NationalAutism)
+* [X](https://twitter.com/NationalAutism)
 * [Instagram](https://instagram.com/NationalAutism)
 
 * [Donate or Give Monthly](https://donorbox.org/donaations-that-do-more)
@@ -124,7 +124,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Should you have other questions or concerns about these privacy policies, please call us at 877-622-2884.
 
 * [Facebook](https://facebook.com/nationalautism)
-* [Twitter](https://twitter.com/NationalAutism)
+* [X](https://twitter.com/NationalAutism)
 * [Instagram](https://instagram.com/NationalAutism)
 
 ©️National Autism Association, all rights reserved.
