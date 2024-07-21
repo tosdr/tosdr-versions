@@ -414,13 +414,13 @@ Top
     
     [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+* [![How to Buy Gold in Dubai & Check It's REAL!](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/04/Dubai-Gold-Souk-Entrance.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/ "How to Buy Gold in Dubai & Check It's REAL!")
     
-    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+    [How to Buy Gold in Dubai & Check It's REAL!](https://blog.karlrock.com/how-to-buy-gold-in-dubai-and-test-it/ "How to Buy Gold in Dubai & Check It's REAL!")
     
-* [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
+* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-    [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
+    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
