@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![23 Facts About Attachment Theory ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/psychology/23-facts-about-attachment-theory/)
+[![20 Facts About Nathan Cleary ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/20-facts-about-nathan-cleary/)
 
-Psychology
+Sports
 
-17 Jul 2024
+16 Jul 2024
 
-[23 Facts About Attachment Theory](https://facts.net/fitness-and-wellbeing/psychology/23-facts-about-attachment-theory/)
+[20 Facts About Nathan Cleary](https://facts.net/lifestyle/sports/20-facts-about-nathan-cleary/)
 
-[![20 Facts About Jovenel Moses Assassination ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/20-facts-about-jovenel-moises-assassination/)
+[![14 Facts About Painted Dog ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/14-facts-about-painted-dog/)
 
-Historical Events
+Animals
 
-17 Jul 2024
+16 Jul 2024
 
-[20 Facts About Jovenel Moses Assassination](https://facts.net/history/historical-events/20-facts-about-jovenel-moises-assassination/)
+[14 Facts About Painted Dog](https://facts.net/nature/animals/14-facts-about-painted-dog/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
