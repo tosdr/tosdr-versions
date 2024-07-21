@@ -287,7 +287,7 @@ Mag Promo
 
 ### Independent. In print. In your mailbox.
 
-Inexpensive, too! Subscribe today and get a full year of _Mother Jones_ for just $14.95.
+Inexpensive, too! Subscribe today and get a full year of _Mother Jones_ for just $19.95.
 
 [Subscribe](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHGP&c=SEGHGC&d=SEGHGD&f=SEGHGF "Subscribe")
 
