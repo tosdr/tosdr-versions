@@ -25,7 +25,6 @@
     [New course
     
     SEC-100: CyberCore - Security Essentials
-    ----------------------------------------
     
     Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
     
@@ -44,7 +43,6 @@
     [Exclusive
     
     Hands-on training in live-fire, enterprise environments
-    -------------------------------------------------------
     
     Use our most powerful cyber range to develop a cyber resilient workforce
     
@@ -71,7 +69,6 @@
     [Recommended
     
     Learn Enterprise
-    ----------------
     
     Address your talent gap through continuous skills development and knowledge acquisition
     
@@ -90,7 +87,6 @@
     [New course
     
     SEC-100: CyberCore - Security Essentials
-    ----------------------------------------
     
     Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
     
@@ -117,7 +113,6 @@
     [Recommended
     
     Learn Enterprise
-    ----------------
     
     Provide continuous learning and skill development with Learn Enterprise. Access to the entire Learning Library and the Enterprise Cyber Range for everyone on your team.
     
@@ -146,7 +141,6 @@
     [New course
     
     SEC-100: CyberCore - Security Essentials
-    ----------------------------------------
     
     Get equipped with the essential knowledge and hands-on skills needed to launch a successful career in cybersecurity.
     
@@ -157,7 +151,6 @@
     [Global Partner Program](https://www.offsec.com/global-partners/)[Partner Portal Login](https://partnerportal.offsec.com/?utm_source=offsec#/page/login)[Find a Partner](https://www.offsec.com/partner-locator/)
     
     Become a Partner
-    ----------------
     
     Add OffSec to your list of training providers
     
@@ -168,7 +161,6 @@
     [Join Our Community](https://www.offsec.com/community-sign-up/)[Kali Linux](http://www.kali.org/get-kali/?utm_source=offsec)[Community Projects](https://www.offsec.com/community-projects/)[OffSec Discord](https://offs.ec/discord?utm_source=offsec)[OffSec Live](https://www.twitch.tv/offsecofficial?utm_source=offsec)
     
     Connect with us
-    ---------------
     
     OffSec office hours every Friday on Twitch
     
@@ -218,7 +210,6 @@
     [Press Release
     
     OffSec's Cybersecurity Training Solutions Now Available in AWS Marketplace Through Carahsoft
-    --------------------------------------------------------------------------------------------
     
     Carahsoft's CarahCloud-Marketplace Program Simplifies Procurement Process for OffSec's Offerings
     
@@ -324,7 +315,6 @@ Partners
 [Global Partner Program](https://www.offsec.com/global-partners/)[Partner Portal Login](https://partnerportal.offsec.com/?utm_source=offsec#/page/login)[Find a Partner](https://www.offsec.com/partner-locator/)
 
 Become a Partner
-----------------
 
 Add OffSec to your list of training providers
 
@@ -335,7 +325,6 @@ Kali & Community
 [Join Our Community](https://www.offsec.com/community-sign-up/)[Kali Linux](http://www.kali.org/get-kali/?utm_source=offsec)[Community Projects](https://www.offsec.com/community-projects/)[OffSec Discord](https://offs.ec/discord?utm_source=offsec)[OffSec Live](https://www.twitch.tv/offsecofficial?utm_source=offsec)
 
 Connect with us
----------------
 
 OffSec office hours every Friday on Twitch
 
