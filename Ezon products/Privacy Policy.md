@@ -1,6 +1,4 @@
-[![EZ-ON Products](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20180'%3E%3C/svg%3E)
-
-![EZ-ON Products](https://ezonpro.com/wp-content/uploads/2023/03/ezon-logo-400.png)](https://ezonpro.com/)
+[![EZ-ON Products](https://ezonpro.com/wp-content/uploads/2023/03/ezon-logo-400.png)](https://ezonpro.com/)
 
 * [Products](https://ezonpro.com/products/)
     * [Transportation Vests](https://ezonpro.com/products/transportation-vests/)
