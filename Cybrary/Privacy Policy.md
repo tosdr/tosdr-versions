@@ -430,10 +430,10 @@ When you visit or log in to our website, cookies and similar technologies may be
 
 ‍
 
-Start learning for free today
------------------------------
+Start cybersecurity training for free today
+-------------------------------------------
 
-Join over 3 million professionals and 96% of Fortune 1000 companies improving their cybersecurity capabilities with Cybrary.
+Join over 3 million professionals and 96% of Fortune 1000 companies improving their cybersecurity training & capabilities with Cybrary.
 
 ![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/6422fa83dbda4c850389c7bb_Group%20170.webp)
 
