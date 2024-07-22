@@ -364,6 +364,14 @@ Connect with us[](https://www.facebook.com/ZEE5/ "facebook")[](https://www.insta
 
 [Premium Movies](https://www.zee5.com/movies)
 
+[Kakuda](https://www.zee5.com/movies/details/kakuda/0-0-1z5581177 "Kakuda")
+
+[Rautu Ka Raaz](https://www.zee5.com/movies/details/rautu-ka-raaz/0-0-1z5577122 "Rautu Ka Raaz")
+
+[Luv Ki Arrange Marriage](https://www.zee5.com/movies/details/luv-ki-arrange-marriage/0-0-1z5570723 "Luv Ki Arrange Marriage")
+
+[Swatantrya Veer Savarkar](https://www.zee5.com/movies/details/swatantrya-veer-savarkar/0-0-1z5566630 "Swatantrya Veer Savarkar")
+
 [Bastar](https://www.zee5.com/movies/details/bastar-the-naxal-story/0-0-1z5559828 "Bastar")
 
 [Main Atal Hoon](https://www.zee5.com/movies/details/main-atal-hoon/0-0-1z5528544 "Main Atal Hoon")
@@ -374,23 +382,17 @@ Connect with us[](https://www.facebook.com/ZEE5/ "facebook")[](https://www.insta
 
 [Sam Bahadur](https://www.zee5.com/movies/details/sam-bahadur/0-0-1z5500337 "Sam Bahadur")
 
-[Tejas](https://www.zee5.com/movies/details/tejas/0-0-1z5489618 "Tejas")
-
 [Kadak Singh](https://www.zee5.com/movies/details/kadak-singh/0-0-1z5469034 "Kadak Singh")
 
 [Gadar 2](https://www.zee5.com/movies/details/gadar-2/0-0-1z5437988 "Gadar 2")
 
 [Hanu-Man](https://www.zee5.com/movies/details/hanu-man/0-0-1z5531939 "Hanu-Man")
 
-[Kisi Ka Bhai Kisi Ki Jaan](https://www.zee5.com/movies/details/kisi-ka-bhai-kisi-ki-jaan/0-0-1z5379692 "Kisi Ka Bhai Kisi Ki Jaan")
-
 [Bandaa](https://www.zee5.com/movies/details/sirf-ek-bandaa-kaafi-hai/0-0-1z5359029 "Bandaa")
 
 [RRR](https://www.zee5.com/movies/details/rrr/0-0-1z5145092 "RRR")
 
 [Uri: The Surgical Strike](https://www.zee5.com/movies/details/uri-the-surgical-strike/0-0-33204 "Uri: The Surgical Strike")
-
-[The Kashmir Files](https://www.zee5.com/movies/details/the-kashmir-files/0-0-1z5133458 "The Kashmir Files")
 
 [Popular LIVE TV Channels](https://www.zee5.com/live-tv)
 
@@ -401,6 +403,10 @@ Connect with us[](https://www.facebook.com/ZEE5/ "facebook")[](https://www.insta
 [Zee Marathi HD](https://www.zee5.com/live-tv/zee-marathi-hd/0-9-zeemarathi "Zee Marathi HD")
 
 [Popular Web Series](https://www.zee5.com/web-series)
+
+[Paruvu](https://www.zee5.com/web-series/details/paruvu/0-6-4z5570736 "Paruvu")
+
+[Thalaimai Seyalagam](https://www.zee5.com/web-series/details/thalaimai-seyalagam/0-6-4z5556586 "Thalaimai Seyalagam")
 
 [The Broken News](https://www.zee5.com/web-series/details/the-broken-news/0-6-4z5145215 "The Broken News")
 
