@@ -13,21 +13,9 @@ Request a Demo
 UserWay’s Terms of Use
 ======================
 
-Should any conflict or inconsistency exist between the provisions of these Terms and the information appearing on any other pages of the Website, the terms of these Terms shall govern.
-
-No Waiver; Severability
------------------------
-
-Our failure to practice or implement any right or provision of these Terms does not mean We waive such right or provision. If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will remain enforceable and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.
-
-Publications
-------------
-
-Notwithstanding anything contained herein, You hereby authorize UserWay and its affiliates: (i) to use Your name, logo and other applicable trademarks, at any time, on their websites and other promotional marketing materials,These Terms and Conditions of Service (“**Terms**“, “**Terms and Conditions**“) govern your (“**You**“, “**Your**” or “**Licensee**“) relationship with UserWay Inc. (together with its subsidiaries, representatives, affiliates, officers, and directors, “**UserWay**” or “**We**” or “**Us**” or “**Our**“) regarding your access and use of our website whose address is https://userway.org/ (together with any other associated websites running which we make use of such as UserWay.org or UserWay.com the “**UserWay Website**“) and the UserWay professional services or Products which include the AI-Powered Accessibility Widget (the “**AI-Widget**“) UserWay’s Free Accessibility Widget (the “**Free-Widget**“, which together with the AI-Widget shall be referred to herein as the “Widget”); UserWay’s Accessibility Scanning & Monitoring (which together with the UserWay Inspector shall be referred to herein as the “**Scanner**“); UserWay Audits (the “**Audit**“), UserWay AI-Powered Content Moderator (the “**Moderator**“) UserWay FixMyCode (“**FixMyCode**”) and any additional services or products that UserWay may provide (collectively referred to herein as the “**Products**” and together with the UserWay Website, the “**Service**“). The Service is used either on a website or on digital content owned or controlled by Licensee (the “**Licensee Website**“).
-
 Please read these Terms carefully before using the Services. Your access to and use of the Services is conditioned on your acceptance of and compliance with these Terms, which may be indicated by clicking the “I Accept” or “I Agree” option available in some of the Products, completing the registration process, or using the Services. By accessing or using the Service, You agree to be bound by these Terms. If You disagree with any part of these Terms, then you may not use or access the Service. In order to agree to these Terms, You need to (i) be at least 18 years old or You need to have Your parent or guardian’s consent to agree to these Terms (as per the stipulations of the United States’ Children Online Privacy Protection Act (COPPA)); and (ii) have the power to enter into a binding contract with Us and not be prohibited from doing so under any applicable law.
 
-Your use of the Service is subject to any additional terms, policies, rules, or guidelines applicable to the Service or certain features of the Service, that may be published by Us from time to time. All such additional terms, policies, rules, or guidelines are incorporated herein by reference, and shall be considered an integral part of these Terms.
+Your use of the Service is subject to any additional terms, policies, rules, or guidelines applicable to the Service or certain features of the Service, that may be published by Us from time to time. All such additional terms, policies, rules, or guidelines are incorporated herein by reference, and shall be considered an integral part of these Terms. Should any conflict or inconsistency exist between the provisions of these Terms and the information appearing on any other pages of the Website, the terms of these Terms shall govern.
 
 Non-exclusive License
 ---------------------
@@ -72,6 +60,7 @@ You acknowledge and agree that You are not permitted to purchase or sell any Use
 By accessing or using UserWay Services and Products, you represent and warrant that you are not located in any country or territory subject to comprehensive U.S. trade sanctions or embargoes, including but not limited to the embargoed countries identified by the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC).
 
 Privacy
+-------
 
 You have reviewed and agree to comply with UserWay’s Privacy Policy.  While using FixMyCode, You agree not to enter or provide any personal identifiable information (PII) while using the AI service. PII includes but is not limited to names, addresses, social security numbers, email addresses, phone numbers, or any other information that can be used to identify an individual. You understand that UserWay may store Your code or content on its servers for the sole purpose of training its model and providing better service.  UserWay will not publish Your code or content for any purpose.
 
@@ -172,6 +161,16 @@ These Terms shall be governed and construed in accordance with the laws of the S
 
 Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between Us regarding Our Service and supersede and replace any prior agreements We might have between Us regarding the Service.
 
+No Waiver; Severability
+-----------------------
+
+Our failure to practice or implement any right or provision of these Terms does not mean We waive such right or provision. If any provision of these Terms is, for any reason, held to be invalid or unenforceable, the other provisions of these Terms will remain enforceable and the invalid or unenforceable provision will be deemed modified so that it is valid and enforceable to the maximum extent permitted by law.
+
+Publications
+------------
+
+Notwithstanding anything contained herein, You hereby authorize UserWay and its affiliates: (i) to use Your name, logo and other applicable trademarks, at any time, on their websites and other promotional marketing materials,These Terms and Conditions of Service (“**Terms**“, “**Terms and Conditions**“) govern your (“**You**“, “**Your**” or “**Licensee**“) relationship with UserWay Inc. (together with its subsidiaries, representatives, affiliates, officers, and directors, “**UserWay**” or “**We**” or “**Us**” or “**Our**“) regarding your access and use of our website whose address is https://userway.org/ (together with any other associated websites running which we make use of such as UserWay.org or UserWay.com the “**UserWay Website**“) and the UserWay professional services or Products which include the AI-Powered Accessibility Widget (the “**AI-Widget**“) UserWay’s Free Accessibility Widget (the “**Free-Widget**“, which together with the AI-Widget shall be referred to herein as the “Widget”); UserWay’s Accessibility Scanning & Monitoring (which together with the UserWay Inspector shall be referred to herein as the “**Scanner**“); UserWay Audits (the “**Audit**“), UserWay AI-Powered Content Moderator (the “**Moderator**“) UserWay FixMyCode (“**FixMyCode**”) and any additional services or products that UserWay may provide (collectively referred to herein as the “**Products**” and together with the UserWay Website, the “**Service**“). The Service is used either on a website or on digital content owned or controlled by Licensee (the “**Licensee Website**“).
+
 Changes
 -------
 
@@ -185,6 +184,5 @@ Contact
 For further information and clarifications, please contact support@userway.org
 
 Last updated
-------------
 
-June 2024
+July 2024
