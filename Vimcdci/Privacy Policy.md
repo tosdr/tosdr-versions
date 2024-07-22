@@ -291,7 +291,7 @@ Subject \*
 
 Your Message \*
 
-Comment
+Email
 
 SEND MESSAGE
 
