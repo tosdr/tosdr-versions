@@ -1630,19 +1630,21 @@ Genre: [Drama](https://playtube.pk/category/drama/)
 
 HD
 
- [![بيت أم الغلام](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/%d8%a8%d9%8a%d8%aa-%d8%a3%d9%85-%d8%a7%d9%84%d8%ba%d9%84%d8%a7%d9%85/)0
+ [![Lex Africana](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/lex-africana/)0
 
-### [بيت أم الغلام](https://playtube.pk/%d8%a8%d9%8a%d8%aa-%d8%a3%d9%85-%d8%a7%d9%84%d8%ba%d9%84%d8%a7%d9%85/)
+### [Lex Africana](https://playtube.pk/lex-africana/)
 
-SS 1 EP 30 _TV_
+SS 1 EP 2 _TV_
 
-بيت أم الغلام
+Lex Africana
 
-0 2024 n/a HD
+0 2024 52 min HD
 
-Genre: [Drama](https://playtube.pk/category/drama/)
+Country: [Senegal](https://playtube.pk/country/senegal/)
 
-[](#)[Watch Now](https://playtube.pk/%d8%a8%d9%8a%d8%aa-%d8%a3%d9%85-%d8%a7%d9%84%d8%ba%d9%84%d8%a7%d9%85/)
+Genre: [Mystery](https://playtube.pk/category/mystery/)
+
+[](#)[Watch Now](https://playtube.pk/lex-africana/)
 
 PlayTube Movies - Watch Free HD Movies And TV Series
 ====================================================
