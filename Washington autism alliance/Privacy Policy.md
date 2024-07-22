@@ -134,7 +134,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Aug 01 2024
     
-    #### [MY FIRST IEP WORKSHOP](https://washingtonautismalliance.org/events/my-first-iep-workshop-2/?occurrence=2024-08-01)
+    #### [MY FIRST IEP WORKSHOP (An Intro to Special Education)](https://washingtonautismalliance.org/events/my-first-iep-workshop-2/?occurrence=2024-08-01)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
@@ -160,13 +160,13 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Zoom
     
-    [![Blueprints Presentation](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABIAQMAAAAu+57+AAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABNJREFUGBljGAWjYBSMglEwKAEABaAAASLzhGQAAAAASUVORK5CYII=)
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
-    ![Blueprints Presentation](https://washingtonautismalliance.org/wp-content/uploads/2021/06/blueprints-presentation-waa-960x462px-150x72.jpg)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-09-21)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/Online-Academy-BP-Special-Education-Event-Cover-2-150x56.png)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-09-21)
     
     Sep 21 2024
     
-    #### [Blueprints to Special Education Online Workshop](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-09-21)
+    #### [Blueprints to Special Education (How to build effective school services)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-09-21)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
