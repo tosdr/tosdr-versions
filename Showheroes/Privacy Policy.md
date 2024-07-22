@@ -442,7 +442,7 @@ In any case, the updated version of the privacy information will be published on
 #### Legal
 
 * [Privacy policy](https://showheroes.com/privacy-policy/)
-* [Publisher Terms and Conditions](https://showheroes.com/app/uploads/2023/10/Publisher-TCs-05-October-2023.pdf)
+* [Publisher Terms and Conditions](https://showheroes.com/app/uploads/2024/07/Publisher-TCs-July-2024.docx.pdf)
 * [Advertiser Terms and Conditions](https://showheroes.com/app/uploads/2023/02/Advertiser-Terms-and-Conditions-2023.pdf)
 * [GoodHero Ads Terms and Conditions](https://showheroes.com/app/uploads/2023/09/GoodHero-Ads-Terms-Conditions.docx.pdf)
 * [Imprint](https://showheroes.com/imprint/)
