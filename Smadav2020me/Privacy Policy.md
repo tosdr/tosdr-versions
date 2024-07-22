@@ -168,10 +168,10 @@ Message \*
 * [Smadav Antivirus 2024 Free Download](https://www.smadav2023.me/2019/04/smadav-antivirus-2020-free-download.html "Smadav Antivirus 2024 Free Download ")
 * [Download Smadav 2024 For Windows 7, 8.1, 10](https://www.smadav2023.me/2019/05/download-smadav-2020-for-windows.html "Download Smadav 2024 For Windows 7, 8.1, 10")
 * [Download Smadav 2024 New Version](https://www.smadav2023.me/2019/04/download-smadav-2020-new-version.html "Download Smadav 2024 New Version")
-* [Download Smadav Antivirus Rev 15.1 Update February 2024](https://www.smadav2023.me/2021/02/Download-smadav-antivirus-2021-rev.html "Download Smadav Antivirus Rev 15.1 Update February 2024")
+* [Download Smadav Antivirus Rev 15.2 Update July 2024](https://www.smadav2023.me/2021/02/Download-smadav-antivirus-2021-rev.html "Download Smadav Antivirus Rev 15.2 Update July 2024")
 * [Smadav Antivirus Update Terbaru 2024](https://www.smadav2023.me/2019/05/smadav-antivirus-update-terbaru-2020.html "Smadav Antivirus Update Terbaru 2024")
 * [Smadav 2024 Update Free Download](https://www.smadav2023.me/2019/04/smadav-2020-update-free-download.html "Smadav 2024 Update Free Download")
-* [Télécharger Smadav Antivirus 2024 Rev. 15.1](https://www.smadav2023.me/2022/01/telecharger-smadav-antivirus-2022-rev.html "Télécharger Smadav Antivirus 2024 Rev. 15.1")
+* [Télécharger Smadav Antivirus 2024 Rev. 15.2](https://www.smadav2023.me/2022/01/telecharger-smadav-antivirus-2022-rev.html "Télécharger Smadav Antivirus 2024 Rev. 15.2")
 
 ### Recent Posts
 
