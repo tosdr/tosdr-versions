@@ -122,7 +122,7 @@ Fax: 610-436-6288
 
 Our Customers Say...
 
-Your books are the perfect size and length for my kindergarten students. They don't feel overwhelmed and look forward to choosing new books.
+The pictures in the books are colorful and help my students to understand the text that they are reading. Thank you for your great books!
 
 [Read More »](https://www.wilbooks.com/testimonials)
 
