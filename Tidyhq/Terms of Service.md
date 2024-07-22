@@ -1,10 +1,10 @@
-[![Tidyhq2 logo inverse color](https://assets-global.website-files.com/5b43b3614a052736729f16dd/5b61f39af40d761db3e52d16_TidyHQ_2.png)](https://www.tidyhq.com/)[![white tidy hq logo](https://assets-global.website-files.com/5b43b3614a052736729f16dd/5d0970119c790085d7d945c2_white_tidyhq.png)](https://www.tidyhq.com/)
+[![Tidyhq2 logo inverse color](https://cdn.prod.website-files.com/5b43b3614a052736729f16dd/5b61f39af40d761db3e52d16_TidyHQ_2.png)](https://www.tidyhq.com/)[![white tidy hq logo](https://cdn.prod.website-files.com/5b43b3614a052736729f16dd/5d0970119c790085d7d945c2_white_tidyhq.png)](https://www.tidyhq.com/)
 
 [Features](https://www.tidyhq.com/features)[Pricing](https://www.tidyhq.com/pricing-legacy)[Case Studies](https://www.tidyhq.com/case-studies)[Login](https://accounts.tidyhq.com/)[Start a Trial](https://accounts.tidyhq.com/onboarding/new?source=tc&ref=thq-marketing-site)
 
-[![tidy hq logo](https://assets-global.website-files.com/5b43b3614a052736729f16dd/609df2d851335a171206c146_tidyhq%20lg.png)](https://www.tidyhq.com/)
+[![](https://cdn.prod.website-files.com/5b43b3614a052736729f16dd/669df6f58fc2c5576b8aa74e_Black%20logo2.png)](https://www.tidyhq.com/)
 
-[Features](https://www.tidyhq.com/features)[Wall of Love](https://www.tidyhq.com/love)[Pricing](https://www.tidyhq.com/pricing)[Case Studies](https://www.tidyhq.com/case-studies)[Login](https://accounts.tidyhq.com/)[START A TRIAL](https://accounts.tidyhq.com/onboarding/new?source=tc&ref=thq-marketing-site)
+[Features](https://www.tidyhq.com/features)[Wall of Love](https://www.tidyhq.com/love)[Pricing](https://www.tidyhq.com/pricing)[Case Studies](https://www.tidyhq.com/case-studies)[Tidy Connect](https://tidyconnect.io/)[Login](https://accounts.tidyhq.com/)[START A TRIAL](https://accounts.tidyhq.com/onboarding/new?source=tc&ref=thq-marketing-site)
 
 TidyHQ Terms of Service
 =======================
