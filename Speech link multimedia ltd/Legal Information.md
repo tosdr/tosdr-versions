@@ -146,11 +146,11 @@ Our speech and language courses will give your staff the skills they need to imp
 
 [Read more](https://speechandlanguage.info/whole-school-approach/secondary-language-link/)
 
-### FREE RESOURCES - The Link Community
+### In the news
 
-Everyone loves a freebie! Check out The Link Community and its range of free speech and language resources. From our Ultimate guide to SLCN and our classroom activities to our Parent Portal and our SLCN Audit Tool ,there is something for everyone involved in supporting speech and language in school.
+Suffolk Delivering Better Value (DBV) funding for Speech & Language Link. Suffolk County Council has been awarded a DfE grant to run a school-based intervention programme...
 
-[Explore our free Link Community membership](https://speechandlanguage.info/the-link-community/)
+[Find out more](https://speechandlanguage.info/news/suffolk-speech-language-link/)
 
 [](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
 
@@ -170,11 +170,11 @@ We are recruiting schools and nurseries to join our latest national trials. If y
 
 ![corner image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20340'%3E%3C/svg%3E) [Find out more](https://speechandlanguage.info/research-opportunities-for-schools/)
 
-### In the news
+### FREE RESOURCES - The Link Community
 
-We were thrilled to visit Llandudno last week for the National Education Show.
+Everyone loves a freebie! Check out The Link Community and its range of free speech and language resources. From our Ultimate guide to SLCN and our classroom activities to our Parent Portal and our SLCN Audit Tool ,there is something for everyone involved in supporting speech and language in school.
 
-[Find out more](https://speechandlanguage.info/news/speech-language-link-visit-llandudno-for-the-national-education-show/)
+[Explore our free Link Community membership](https://speechandlanguage.info/the-link-community/)
 
 ### Support for families
 
