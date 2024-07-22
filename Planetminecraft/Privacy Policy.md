@@ -26,7 +26,7 @@ Browse [Servers](https://www.planetminecraft.com/servers/ "Minecraft Servers") [
 
 Tools [PMCSkin3D](https://www.planetminecraft.com/skin-editor/ "Minecraft Skin Editor | PMCSkin3D") [Banners](https://www.planetminecraft.com/banners/ "Banners") [Papercraft](https://www.planetminecraft.com/papercraft/ "Papercraft")
 
-[![Bisect + PMC](https://www.planetminecraft.com/images/special/bisect/bisect-plus-pmc-300.png)](https://www.bisecthosting.com/PMC "Bisect Hosting + code PMC = 25% off first month!")
+[![PMC Interviews](https://www.planetminecraft.com/images/special/member-interviews.png)](https://www.planetminecraft.com/collection/39846/interviews/?morder=order_updated "PMC Interviews with Members")
 
 Community
 
@@ -36,7 +36,7 @@ Entertainment [Jams](https://www.planetminecraft.com/jams/ "Jams") [CFT Cards](h
 
 Support [Tickets](https://www.planetminecraft.com/tickets/ "Tickets") [Help](https://www.planetminecraft.com/forums/help/ "Help")
 
-[![Data Pack Series](https://www.planetminecraft.com/images/special/data-pack-tutorial.png)](https://www.planetminecraft.com/forums/minecraft/datapacks/function-data-packs-for-dummies-a-tutorial-blog-series-604217/ "Learn about Function Data Packs")
+[![PMC Groups](https://www.planetminecraft.com/images/special/pmc_groups-300x250.png)](https://www.planetminecraft.com/groups/ "Groups on Planet Minecraft")
 
 ...
 
