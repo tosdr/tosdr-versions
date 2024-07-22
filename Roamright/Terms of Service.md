@@ -1,8 +1,3 @@
-* **COVERAGE ALERT:** We are aware of a global outage impacting airlines and other travel providers.  Our customer service team is available online or by phone to answer questions you have related to this event.
-    
-
-Close
-
  
 
  
