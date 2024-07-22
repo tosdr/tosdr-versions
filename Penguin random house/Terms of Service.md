@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    How To Read More in 2024
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
-* [![Your Summer Reading Guide](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/16153839/PRH_Summer-Site_Social-Share-1200x628-watermelon.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/06/12120535/ReadDown-2024-1200x628_nav.jpg)
     
-    Your Summer Reading Guide
+    New Releases
     
-    Read More >](https://www.penguinrandomhouse.com/summer-reading/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
 
 * * *
 
-* [![Best Audiobooks for Road Trips](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171556/PRH-Staff-Picks-HP-RJD_600x314-nav.jpg)
+* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
     
-    Best Audiobooks for Road Trips
+    30 Great LGBTQ+ Picture Books for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
+    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
 
 * <
     
