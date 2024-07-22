@@ -100,6 +100,28 @@ Discover CNBCTV18
 * [NewSME Champion Awards](https://www.cnbctv18.com/ms/sme-champion-awards/awards/?utm_source=cnbctv18&utm_medium=l2&utm_campaign=nomination "SME Champion Awards")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 
+[![Budget 2024](/static/images/budget2024/Web-Banner.png?impolicy=website&width=1260&height=199 "Budget 2024")](https://www.cnbctv18.com/budget/)
+
+[](https://www.cnbctv18.com/budget/)
+
+[Associate Partners](https://www.cnbctv18.com/budget/)
+
+[](https://www.cnbctv18.com/budget/)
+
+[](https://www.cnbctv18.com/budget/)[![mirae](/static/images/budget2024/mirae.png?impolicy=website&width=150&height=45 "mirae")](http://pubads.g.doubleclick.net/gampad/clk?id=6757842413&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_MIRAE_ASSET_CLK_TRACKER "mirae")
+
+[![IBM](/static/images/budget2024/ibm.png?impolicy=website&width=150&height=69 "IBM")](http://pubads.g.doubleclick.net/gampad/clk?id=6755316215&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_IBM_CLK_TRACKER "ibm")
+
+[![SBI](https://images.cnbctv18.com/uploads/2024/07/sbi-logo-1-1-2024-07-e2623b1deb807ee16f3a33763cf7a52e.png?impolicy=website&width=120&height=40 "SBI")](http://pubads.g.doubleclick.net/gampad/clk?id=6754669845&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_SBI_CLK_TRACKER "sbi")
+
+[![JANA](/static/images/budget2024/janalogo.jpg?impolicy=website&width=150&height=69 "JANA BANK")](http://pubads.g.doubleclick.net/gampad/clk?id=6754707336&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_JANA_BANK_CLK_TRACKER "jana bank")
+
+[![COIN SWITCH](https://images.cnbctv18.com/uploads/2024/07/lemon-logo-1-2024-07-c286ffed682a502ffcd77d1e53882017.png?impolicy=website&width=113&height=42 "COIN SWITCH")](http://pubads.g.doubleclick.net/gampad/clk?id=6756938311&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_COINSWITCH_CLK_TRACKER "coin switch")
+
+[![JSW STEEL](/static/images/budget2024/jswlogo.jpg?impolicy=website&width=150&height=58 "JSW STEEL")](http://pubads.g.doubleclick.net/gampad/clk?id=6758398994&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_JSW_CLK_TRACKER "jsw steel")
+
+[![smart world](/static/images/budget2024/sm_desk.png?impolicy=website&width=150&height=69 "smart world")](http://pubads.g.doubleclick.net/gampad/clk?id=6758122318&iu=/1039154/CNBCTV18_ENG_DESKTOP/CNBCTV18_ENG_TRACKERS_WEB_WAP/CNBCTV18_ENG_SMARTWORLD_CLK_TRACKER "smart world")
+
 [Home](https://www.cnbctv18.com/ "Home")
 ----------------------------------------
 
