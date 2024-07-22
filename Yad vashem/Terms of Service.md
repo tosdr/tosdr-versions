@@ -83,7 +83,7 @@ Follow us:
 * [Research](https://www.yadvashem.org/research.html)
     * [About the Institute](https://www.yadvashem.org/research/about.html)
     * [Publications](https://www.yadvashem.org/research/about/publications.html)
-    * [Yad Vashem Studies](https://www.yadvashem.org/research/about/studies.html)
+    * [Yad Vashem Studies](https://www.yadvashem.org/research/yv-studies.html)
     * [Events of the Intl Institute](https://www.yadvashem.org/research/events.html)
     * [Projects](https://www.yadvashem.org/research/research-projects.html)
     * [Postdoc Fellowships](https://www.yadvashem.org/research/fellowships/postdoctoral-fellowships.html)
