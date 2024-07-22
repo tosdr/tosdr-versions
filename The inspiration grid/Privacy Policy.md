@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/07/illustration-giang-gio-feature.jpg)
+
+[](https://theinspirationgrid.com/vietnamese-pop-bold-illustrations-by-giang-gio/)
+
+### Vietnamese Pop: Bold Illustrations by Giang Giô
+
+![](https://inspgr.id/app/uploads/2024/07/design-vratislav-pecka-feature.jpg)
+
+[](https://theinspirationgrid.com/posterlad-an-art-project-by-vratislav-pecka/)
+
+### PosterLad: An Art Project by Vratislav Pecka
+
 ![](https://inspgr.id/app/uploads/2024/07/illustration-masha-foya-feature.jpg)
 
 [](https://theinspirationgrid.com/captivating-illustrations-by-masha-foya/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/contemplative-sculptures-by-joseph-klibansky/)
 
 ### Contemplative Sculptures by Joseph Klibansky
-
-![](https://inspgr.id/app/uploads/2024/07/illustration-ryan-ragnini-feature.jpg)
-
-[](https://theinspirationgrid.com/east-meets-west-illustrations-by-ryan-ragnini/)
-
-### East Meets West: Illustrations by Ryan Ragnini
-
-![](https://inspgr.id/app/uploads/2024/07/lettering-david-leutert-feature.jpg)
-
-[](https://theinspirationgrid.com/more-than-words-lettering-creations-by-david-leutert/)
-
-### More Than Words: Lettering Creations by David Leutert
 
 Awesome products for creatives
 ------------------------------
