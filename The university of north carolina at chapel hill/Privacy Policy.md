@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/SoccerTrafficHERO-250x141.jpg)
+    
+    July 23 soccer match will impact campus traffic and parking](https://www.unc.edu/posts/2024/07/19/july-23-soccer-match-will-impact-campus-traffic-and-parking/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/07/StudentConductHERO-250x141.jpg)
     
     A message from University leadership: Adapting the Student Conduct process](https://www.unc.edu/posts/2024/07/17/a-message-from-university-leadership-adapting-the-student-conduct-process/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/AngelHsu-250x141.jpg)
-    
-    Angel Hsu holds net-zero pledgers accountable](https://www.unc.edu/posts/2024/07/17/angel-hsu-holds-net-zero-pledgers-accountable/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=90bdc7ba66&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7035cd52a1&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
