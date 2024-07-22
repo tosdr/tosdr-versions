@@ -191,7 +191,7 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Publications
 
-* [July 2024](https://unric.org/en/2024/07/) (18)
+* [July 2024](https://unric.org/en/2024/07/) (19)
 * [June 2024](https://unric.org/en/2024/06/) (34)
 * [May 2024](https://unric.org/en/2024/05/) (26)
 * [April 2024](https://unric.org/en/2024/04/) (34)
