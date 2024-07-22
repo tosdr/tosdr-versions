@@ -94,8 +94,8 @@ Select a product:
 Privacy Policy
 ==============
 
-Privacy Policy Updated: December 2023
--------------------------------------
+Privacy Policy Updated: June 2024
+---------------------------------
 
 Thank you for your interest in Typing.com! Please read the below privacy policy in detail. However, in plain English: Typing.com offers both a free (Student and Teacher), ad-supported version and a premium (Student and Teacher), subscription-based version. The personal information that we collect, use, share, and disclose is dependent upon the version utilized. **In either version, we do not share, sell, or otherwise give away private information or information that, by itself, can identify you as a specific individual!**
 
@@ -155,6 +155,8 @@ We use the information described above to communicate with you, manage and impro
 **First Party Data:** Typing.com retains data directly collected from you for education purposes only. Student names and optional email addresses are used by teachers to track student progress and manage classes.
 
 **Google Analytics:** The free version of our site uses [Google Analytics](https://marketingplatform.google.com/about/analytics/). Google Analytics places a cookie on your web browser and collects your IP address. It does not collect names or other identifying account information. We use this information to diagnose problems and to improve and administer the site.
+
+**Google APIs:** Typing.com's use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
 
 **Stripe:** When optionally purchasing a premium version account, a payment processing software, Stripe, directly collects all personal payment information. Payment confirmation information is shared with us. We will not sell, share, or disclose this information. See the privacy policy for [Stripe](https://stripe.com/privacy) for additional information.
 
@@ -311,8 +313,5 @@ Powered by:
 * |
     
     [Support](https://www.typing.com/support)
-
-* [](https://www.twitter.com/typing_com)
-* [](https://www.facebook.com/typingcom)
 
 ![](/dist/site_typing/images/pile-of-keys-0_5.png)
