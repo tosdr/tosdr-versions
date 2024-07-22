@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [565 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [581 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -209,13 +209,86 @@ VARIATION OF THESE TERMS
 
 1. No variation of these standard terms and conditions will be accepted unless present in a written document, signed by a director of Afritrip Group.
 
+Customer Testimonials
+---------------------
+
 ![Trustpilot Logo](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
 
 4.9
 
 out of 5 based on
 
-[565 reviews](https://www.trustpilot.com/review/www.safari.com)
+[581 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 21, 2024
+
+> Dorothy my travel agent
+
+> Dorothy is the agent assigned to me. She was very patient and polite . Each time I gave her feedback of what wasn't suitable or to my liking she came back with better. She really listened and made us good priced tailor made package. She was also very responsive weekends , late night and early morning. When ever I got around to responding to a message she sent she would always respond within minutes.
+
+Emily
+
+,
+
+MU
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 20, 2024
+
+> Great experience setting up a safari
+
+> Great experience setting up a safari. Communication was prompt and Candis stayed within our budget. Excellent work.
+
+Thomas Hughes
+
+,
+
+US
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 20, 2024
+
+> Highly recommend Safari.com and Dolan!
+
+> I can't say enough good things about Safari.com and in particular Dolan Sequera. South Africa was daunting to plan for and felt I needed some help. I did a lot of research and chose Safari.com and was matched with Dolan. I had a general idea of the trip I wanted to plan for my husband, myself, and our two children (19, 21). Dolan was incredible. He listened to what I wanted and make excellent recommendations. Then he helped book it all. Our trip was 16 days and we visited Cape Town, an Elephant sanctuary, and Safari. And everything went incredibly smooth - no hiccups. He even welcomed me when I landed in South Africa and checked in along our trip. A couple of times I needed to change transfer times and he responded immediately. I felt confident he would help us if any issues arose. It was a trip of a lifetime for my whole family and I am thankful for the help from Dolan and his team at Safari.com.
+
+Julie Marshall
+
+,
+
+US
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 20, 2024
+
+> Sara from Safari.com was the agent who…
+
+> Sara from Safari.com was the agent who handled our itinerary. She was extremely responsive and provided several choices which fit our timelines and budget. She was always available for discussions over WhatsApp whenever I had questions. I am writing this review prior to actually going on the trip, but everything up to this point has been very smooth.
+
+Antoni Kajetanowicz
+
+,
+
+CA
+
+![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Jul 20, 2024
+
+> Efficient
+
+> They were very clear with the explanations given resolving our doubts. Easy payment method
+
+sonia
+
+,
+
+ES
 
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -273,76 +346,6 @@ DMITRY
 
 RU
 
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 17, 2024
-
-> We were in contact with them…
-
-> We were in contact with them immediately and they replied all our doubts. Leigh-Ann was very clear with explanations about how to reach the Lodge and what is included. Also, the payment process is simple and gave us the possibility to make half payment as we were sharing a room
-
-sonia
-
-,
-
-ES
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 17, 2024
-
-> Simply the most helpful agent I have…
-
-> Simply the most helpful agent I have dealt with. Shann goes way beyond what you would expect to make sure you have the holiday you are really looking for. We will definitely use again. Thank you
-
-GREG
-
-,
-
-GB
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 17, 2024
-
-> The lady that assisted me with this…
-
-> The lady that assisted me with this booking was very professional and helpful. Made the process painless
-
-James Daniels
-
-,
-
-ZA
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 17, 2024
-
-> Great and friendly service
-
-> Mel offered exceptional and friendly service and really went out of her way to meet an extensive wish list. She is a true ambassador for the Safari brand, and I look forward to collaborating with Safari for future travel.
-
-Jacqui L
-
-,
-
-ZA
-
-![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Jul 16, 2024
-
-> Great experience booking with Dolan
-
-> Great experience booking with Dolan. Just got back from our trip and had the the absolute best time. Everything was seamless and perfect.
-
-Liz H
-
-,
-
-US
-
 VIP service
 
 Your own personal travel assistant
@@ -392,7 +395,7 @@ Contact a safari expert now
 
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
 
-#### Travel Wise  
+#### Effortless safaris, your way  
 
 ![](https://www.safari.com/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/636e23f049cf1220392fecac/664ccabd035a0696e62d82e3_africas-leading-safari-company-2024-nominee-shield-256.png)
 
