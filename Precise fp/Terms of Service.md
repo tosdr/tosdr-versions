@@ -1,4 +1,4 @@
-      Terms of Service                                                                            
+      Terms of Service                                                                               
 
 [![](https://precisefp.com/wp-content/themes/pfp/img/logo-header.svg)](https://precisefp.com/)
 
