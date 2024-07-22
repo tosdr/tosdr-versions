@@ -304,37 +304,37 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/ "Clint Eastwood's Longtime Partner Dead At 61")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/ "Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid")
 
 1
 
-[Clint Eastwood's Longtime Partner Dead At 61](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/)
+[Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/)
 
-Entertainment
+Politics
 
 2
 
-[Rachel Maddow Goes On Hilarious Rant Against 'The Lord Of The Rings'](https://dailycaller.com/2024/07/19/rachel-maddow-lord-of-the-rings-jd-vance/)
+[Biden Drops Out Of Presidential Race, Endorses Kamala Harris As Replacement](https://dailycaller.com/2024/07/21/joe-biden-drops-out-presidential-race-2024/)
 
-Opinion
+Politics
 
 3
 
-[Court Ordered To Reconsider Biden Admin Green Investing Rule Following Landmark Supreme Court Ruling](https://dailycaller.com/2024/07/19/court-reconsider-biden-admin-green-investing-rule/)
+['Kamala Was In On It': Trump-Aligned PAC Drops Anti-Kamala Harris Ad Less Than Two Hours After Biden Quit](https://dailycaller.com/2024/07/21/kamala-was-in-on-it-trump-aligned-pac-drops-harris-attack-ad-an-hour-after-biden-quit/)
 
-US
+Media
 
 4
 
-['All Of A Sudden, Whammo!': 89-Year-Old Stand-Up Comedian Receives Sucker Punch To Face, Police Say](https://dailycaller.com/2024/07/19/dyan-forest-comedian-sucker-punched-random-attack-new-york-city-assault/)
+[Ancient Fortifications Discovered In Holy Land Reveals Hidden History](https://dailycaller.com/2024/07/22/jerusalem-city-of-david-moat-discovered/)
 
-US
+World
 
 5
 
-[NBC Has Now Interrupted Two Prayers At The RNC, And The Second Time Didn’t Go Well](https://dailycaller.com/2024/07/18/nbc-news-interrupts-republican-national-convention-prayers/)
+[Hunter Biden Drops Fox News Lawsuit](https://dailycaller.com/2024/07/22/hunter-biden-drops-fox-news-lawsuit-joe-biden/)
 
-Media
+Politics
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
