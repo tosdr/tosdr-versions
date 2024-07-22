@@ -319,8 +319,9 @@ Search for:
 Recent Posts
 ------------
 
+* [We were always in dark-mode.](https://www.s-config.com/we-were-always-in-dark-mode/) July 21, 2024
 * [Stupid Android time – Ads on Startup.](https://www.s-config.com/stupid-android-time-ads-on-startup/) July 6, 2024
-* [It’s June! Oh Hai!](https://www.s-config.com/its-june-oh-hai/) June 18, 2024
+* [It’s June! Oh Hai!](https://www.s-config.com/june2024/) June 18, 2024
 * [We are mortal.](https://www.s-config.com/we-are-mortal/) April 2, 2024
 * [State of the blog – 2024.](https://www.s-config.com/state-of-the-blog-2024/) January 28, 2024
 * [Website – Changelog 12/17/2023](https://www.s-config.com/website-changelog-12-17-2023/) December 17, 2023
@@ -328,7 +329,6 @@ Recent Posts
 * [Website – Changelog 11/06/2023](https://www.s-config.com/website-changelog-11-06-2023/) November 6, 2023
 * [Oh no, another YouTube article!](https://www.s-config.com/oh-no-another-youtube-article/) November 3, 2023
 * [Banned on Ahmia](https://www.s-config.com/banned-on-ahmia/) October 18, 2023
-* [DIY Lighting.](https://www.s-config.com/diy-lighting/) October 8, 2023
 
 The only advertisement banner you will see.
 -------------------------------------------
