@@ -118,7 +118,7 @@
 * [EN](https://www.uopeople.edu/privacy-policy/ "EN")
 
 * [Search](#)
-* [Search](#)
+* [](#)
     
 
 Privacy Policy
