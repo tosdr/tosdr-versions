@@ -65,11 +65,11 @@
 Cookies and Sumdog
 ==================
 
-**Updated 27 March 2024**
+**Updated 22 July 2024**
 
 At Sumdog we use essential cookies for the functioning and improvement of our website. These are anonymous. Other cookies are non-essential and help improve your experience and deliver you relevant content. You can consent to all cookies, decline all cookies or manage non-essential cookies. 
 
-Our Cookie Policy covers all sumdog.com domains including: sumdog.com, play.sumdog.com, learn.sumdog.com, content.sumdog.com, blog.sumdog.com and support.sumdog.com 
+Our Cookie Policy covers all sumdog.com domains including: sumdog.com, play.sumdog.com, learn.sumdog.com, content.sumdog.com and support.sumdog.com 
 
 [View our UK Privacy Policy.](https://learn.sumdog.com/en-gb/about-us/privacy-policy)  
 [View our US Privacy Policy.](https://learn.sumdog.com/en-us/about-us/privacy-policy) 
@@ -117,9 +117,9 @@ These cookies relate to the Sumdog product and apply to student users who log in
 Website
 -------
 
-These cookies apply to visitors on our website domains including learn.sumdog.com, content.sumdog.com, blog.sumdog.com and support.sumdog.com 
+These cookies apply to visitors on our website domains including learn.sumdog.com, content.sumdog.com and support.sumdog.com 
 
-### Necessary (6)
+### Necessary (9)
 
 These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. [Learn more about necessary cookies.](https://knowledge.hubspot.com/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser#necessary-cookies)  
   
@@ -131,9 +131,12 @@ These cookies are necessary for the website to function and cannot be switched o
 | \_cfruid | sumdog.com | Used by the content network, Cloudflare, to identify trusted web traffic. | session |
 | \_cfuvid | hubspot.com | This cookie is used to apply rate limits to traffic. It allows the Cloudflare WAF to distinguish individual users who share the same IP address. | session |
 | \_hs\_do\_not\_track | sumdog.com | Prevents the tracking code from sending any information to HubSpot | 179 days |
-| hs\_ab\_test | sumdog.com | Used to consistently serve visitors the same version of an A/B test page they've seen before | session |
+| hs\_ab\_test | sumdog.com | Used to consistently serve visitors the same version of an A/B test page they've seen before. | session |
+| \_SECURE-ENID | google.com | This cookie is used by Google to remember your preferences and other information. | 395 days |
+| \_GRECAPTCHA | sumdog.com | Google reCAPTCHA sets a necessary cookie (\_GRECAPTCHA) when executed for the purpose of providing its risk analysis. | session |
+| hs-membership-csrf | sumdog.com | Used to protect againts forgery of content memberships. | session |
 
-### Functionality (2)
+### Functionality (3)
 
 We use a set of cookies that are optional for the website to function. They are usually only set in response to information provided to the website to personalize and optimize your experience as well as remember your chat history. [Learn more about functionality cookies.](https://knowledge.hubspot.com/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser#functionality-cookies)  
   
@@ -141,7 +144,8 @@ We use a set of cookies that are optional for the website to function. They are 
 | Name | Provider | Purpose | Expiry |
 | --- | --- | --- | --- |
 | SRM\_B | bing.com | Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior. | session |
-| messagesUtk | sumdog.com | Remembers the identity of the visitor using the chat widget | session |
+| messagesUtk | sumdog.com | Remembers the identity of the visitor using the chat widget. | session |
+| li\_gc | linkedin.com | Used to store guest consent to the use of cookies for non-essential purposes. | 180 days |
 
 ### Analytics (6)
 
@@ -156,9 +160,11 @@ These cookies help us to understand how visitors engage with the website. We may
 | \_\_hssrc | sumdog.com | Used to determine if a session is a new session | session |
 | \_ga | sumdog.com | ID used to identify users | 399 days |
 
-### Advertisement (11)
+### Advertisement (15)
 
 We use cookies to make our ads more engaging and valuable to site visitors. Some common applications of cookies are to select advertising based on what’s relevant to a user; to improve reporting on ad campaign performance; and to avoid showing ads the user has already seen. [Learn more about advertisement cookies.](https://knowledge.hubspot.com/reports/what-cookies-does-hubspot-set-in-a-visitor-s-browser#advertisement-cookies)
+
+NI
 
 | Name | Provider | Purpose | Expiry |
 | --- | --- | --- | --- |
@@ -173,6 +179,10 @@ We use cookies to make our ads more engaging and valuable to site visitors. Some
 | CLID | clarity.ms | Identifies the first-time Clarity saw this user on any site using Clarity. | session |
 | MR  | bing.com | Used to collect information for analytics purposes. | session |
 | MUID | bing.com | Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes. | session |
+| bcookie | linked.com | Used by LinkedIn to track the use of embedded services. | 364 days |
+| lidc | linked.com | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 1439 minutes |
+| ar\_debug | google-analytics.com | This cookie is used by Google Ad Services to debug ads. | 89 days |
+| NID | google.com | This cookies is used to collect website statistics and track conversion rates and Google ad personalisation | 182 days |
 
 [![Sumdog](https://learn.sumdog.com/hubfs/raw_assets/public/Sumdog_December2023/images/Sumdog_logo.svg "Sumdog")](https://learn.sumdog.com/)
 
