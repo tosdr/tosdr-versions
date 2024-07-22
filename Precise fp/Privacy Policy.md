@@ -1,4 +1,4 @@
-      Privacy Policy                                                                            
+      Privacy Policy                                                                               
 
 [![](https://precisefp.com/wp-content/themes/pfp/img/logo-header.svg)](https://precisefp.com/)
 
