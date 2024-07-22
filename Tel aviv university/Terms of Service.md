@@ -7,13 +7,14 @@
 [![Tel Aviv University Logo](/sites/default/files/TAU_Logo_HomePage_Eng.png)](https://english.tau.ac.il/ "Go to homepage")
 
 * [Strategy](https://english.tau.ac.il/strategy)
-* [Student Portal](https://nidp.tau.ac.il/nidp/saml2/sso?id=userNamePassword&sid=0&option=credential&sid=0)
 * [Libraries](https://en-libraries.tau.ac.il/)
 * [Staff Directory](https://english.tau.ac.il/tau/index)
 * [עברית](http://new.tau.ac.il/)
 * [عربي](https://ar-go.tau.ac.il/)
 * [中文网](https://china.tau.ac.il/)
 * [Русский](https://russian.tau.ac.il/)
+
+[Inquiry Portal](https://tau-int.formtitan.com/ftproject/CRM_TAU_guest "Visit Inquiry Portal")[Student Portal](https://my.tau.ac.il/TAU_Student "Visit Student Portal")[Registration](https://portal.telavivuniv.org/createprofile.php "Visit Registration")
 
 Search 
 
