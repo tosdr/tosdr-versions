@@ -11,7 +11,7 @@ You are using an **outdated** browser. Please [upgrade your browser](https://bro
 
 [](https://www.thetrevorproject.org/search)
 
-[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/599352/#!/donation/checkout)
+[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/599354/#!/donation/checkout)
 
 [](https://www.thetrevorproject.org/)
 
@@ -101,7 +101,7 @@ You are using an **outdated** browser. Please [upgrade your browser](https://bro
 
 [](https://www.thetrevorproject.org/search)
 
-[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/599352/#!/donation/checkout)
+[Reach A Counselor](https://www.thetrevorproject.org/get-help/) [Donate](https://give.thetrevorproject.org/give/599354/#!/donation/checkout)
 
 Find Support
 
