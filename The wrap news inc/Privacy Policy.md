@@ -81,7 +81,7 @@ Follow Us
 Trending Topics:
 ----------------
 
-* [Emmy Nominations](https://www.thewrap.com/category/emmys/)
+* [Biden Steps Aside](https://thewrap.com/tag/joe_biden/)
 
 Privacy Policy
 ==============
