@@ -3,7 +3,9 @@
 [![Upside Logo Black](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/64c1a62413b572ad7b845e4a_logo-upside.svg)](#)![](https://cdn.prod.website-files.com/63ff7b678c2b03cb7b788c27/6686bca053a283faa343384b_menu-close-button.svg)
 
 * [Find offers near you](https://www.upside.com/find-offers)
+    
 * [Customer support](https://support.upside.com/hc/en-us)
+    
 
 [Get the app](https://upside.app.link/cf39NBorXxb)[For business](https://www.upside.com/business)
 
