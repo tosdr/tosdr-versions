@@ -214,7 +214,7 @@ Please select your shipping region
     
     [](https://www.ralphlauren.co.uk/en/men/brands/mens-golf/709452?webcat=content-brands-golf&ab=EU_navimage_men_brands_S4_IMAGE)
     
-    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.ab/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1721372800908/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+    ![](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.ad/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/en_GB/v1721545603127/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
     
     * Brands [Brands](javascript:void(0))
         
@@ -1351,7 +1351,7 @@ Seaside Ease
 
 [](https://www.ralphlauren.co.uk/en/men/brands/golf/70601?webcat=content-golf-men)
 
-![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.ab/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
+![Polo Ralph Lauren](https://cdn-fsly.yottaa.net/5f85aab3d93140f2cca82579/www.ralphlauren.co.uk/v~4b.ad/on/demandware.static/-/Library-Sites-RalphLauren_EU_Library/default/dwc59bf9cf/img/Brand_Logo_Library/RLX/2022_rlx_stacked_logo_white.svg?yocs=8I_8L_8M_8Q_)
 
 Tournament Style
 ----------------
