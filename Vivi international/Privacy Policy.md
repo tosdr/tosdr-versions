@@ -110,7 +110,7 @@ We maintain all product data within Australia and do not engage in data transfer
 
 Our data interactions with third parties are limited to specific purposes:
 
-* Google Analytics/AdWords: For marketing and analytics.
+* Google Analytics/AdWords: For marketing and analytics purposes on our marketing website.
 * HubSpot: For CRM and customer account management.
 * Amazon Web Services: For hosting the Vivi platform.
 * Microsoft: For various business operations.
