@@ -21,16 +21,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-08:46:10
+17:25:50
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Saturday, 20 July, 2024, week 29
+Monday, 22 July, 2024, week 30
 
-[International Chess Day](https://en.wikipedia.org/wiki/International_Chess_Day) / [International Ride MTB Day](https://www.ridemtbday.com/)
+[Pi Approximation Day](https://en.wikipedia.org/wiki/Pi_Day)
 
-Sun: ↑ 05:00 ↓ 21:35 (16h 35m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 05:03 ↓ 21:32 (16h 29m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
 
 ×
 
