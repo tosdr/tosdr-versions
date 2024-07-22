@@ -118,7 +118,7 @@
 * [EN](https://www.uopeople.edu/terms-of-service/ "EN")
 
 * [Search](#)
-* [Search](#)
+* [](#)
     
 
 Terms of Service
