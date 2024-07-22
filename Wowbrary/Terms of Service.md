@@ -2,7 +2,7 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](/images/wowlogob.gif "Wowbrary: The newest stuff at your library")](http://wowbrary.org/index.aspx) |     | [![](/banner.aspx?l=1&b)](http://wowbrary.org/bannerlink.aspx?l=1) |     |
+| [![](/images/wowlogob.gif "Wowbrary: The newest stuff at your library")](http://wowbrary.org/index.aspx) |     | [![Click to learn more about this](/banner.aspx?l=1&b "Click to learn more about this")](http://wowbrary.org/bannerlink.aspx?l=1) |     |
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
