@@ -108,6 +108,14 @@ You have also the right to data portability if the processing of your personal d
 
 You have also the right to lodge a complaint with the supervisory authority. If you need more information on the supervisory authorities in the European Union, go to [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm "DPAs").
 
+Other web projects
+
+* [uncleboob.com](https://www.uncleboob.com/)
+* [Der Beschwerer](https://www.der-beschwerer.de/)
+* [Heidi Kraken](https://www.heidi-kraken.com/)
+* [Heidi Kraken LiFePO4 Shop](https://shop.heidi-kraken.com/)
+* [IT student computer service](https://www.informatik-student.net/)
+
 Proudly powered by [WordPress](https://wordpress.org/) | Theme: [Bulk](https://themes4wp.com/)
 
 In case you want to change your privacy settings (e.g. issue consent or revoke an already issued consent) please click on the button below. [Settings](#)
