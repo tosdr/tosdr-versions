@@ -497,6 +497,10 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
     Eagan, MN 55121](https://goo.gl/maps/x4zNN47DmAr5qTsL7)
 * [952-469-3454](tel:9524693454)
 
+[![Corp B](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2088'%3E%3C/svg%3E)
+
+![Corp B](https://www.teachingchannel.com/wp-content/themes/wp-teachingchannel/assets/img/b-corp-logo-black-rgb.svg)](https://k12coalition.com/b-corp/)
+
 * [About Us](https://www.teachingchannel.com/about-us/)
 * [Reviews](https://www.teachingchannel.com/reviews/)
 * [Partnerships](https://www.teachingchannel.com/partnerships/)
@@ -541,3 +545,9 @@ Pay as You Learn with our Course Bundles. Select Bundles on SALE through June 
 What are you looking for?
 
  Search
+
+This site uses cookies to enhance user experience, analyze site usage and provide a personalized browsing experience. By continuing to use this site, you are giving us your consent to do this. Learn more about cookies by visiting our [privacy policy](https://www.teachingchannel.com/privacy-policy/#cookies) page.
+
+[Learn More](https://www.teachingchannel.com/privacy-policy/#cookies)[I Agree](https://www.teachingchannel.com/)
+
+[Ok](#)
