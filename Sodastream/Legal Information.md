@@ -10,13 +10,19 @@ SHOP
 
 SHOP
 
+![](//sodastream.com/cdn/shop/files/US_-_cylinder_menu_image__15576_550X.png?v=1721647733)
+
+CO2
+
+CO2
+
 ![](//sodastream.com/cdn/shop/files/caraffe_Pink_MOB_glass_lemon_Hamburger_menu_tile_400x400_53253dd9-b8e6-4819-a0f1-56d9e06a6977_550X.png?v=1662315296)
 
 IMPACT
 
 IMPACT
 
-[GET CO2](https://sodastream.com/products/refill)
+[CO2 REFILL](https://sodastream.com/products/refill)
 
 Quick Links
 
@@ -45,6 +51,24 @@ Flavors](https://sodastream.com/collections/flavors)[Flavors](https://sodastream
 Bottles and More](https://sodastream.com/collections/accessories)[Bottles and More](https://sodastream.com/collections/accessories)
 
 [![90 day carbonation bundle](//sodastream.com/cdn/shop/files/US--navigation-bonus-tile-rebranded-CO2_9510US_tile_carbonation_bundle-20240219-080719.png?crop=center&height=550&v=1708334169&width=550)](https://sodastream.com/products/terra-bundle)
+
+Back
+
+[![](//sodastream.com/cdn/shop/files/Subscription_3_2.png?crop=center&height=550&v=1721635368&width=550)
+
+CO2 Subscription](https://sodastream.com/products/subscription)[CO2 Subscription](https://sodastream.com/products/subscription)
+
+[![](//sodastream.com/cdn/shop/files/exchange_3_2.png?crop=center&height=550&v=1721635325&width=550)
+
+Exchange CO2](https://sodastream.com/products/refill)[Exchange CO2](https://sodastream.com/products/refill)
+
+[![](//sodastream.com/cdn/shop/files/Spare_3_1.png?crop=center&height=550&v=1721635279&width=550)
+
+Spare Cylinder](https://sodastream.com/products/spare-carbonator)[Spare Cylinder](https://sodastream.com/products/spare-carbonator)
+
+[![](//sodastream.com/cdn/shop/files/view_all_2.png?crop=center&height=550&v=1721635235&width=550)
+
+View All](https://sodastream.com/pages/co2-gas-cylinders)[View All](https://sodastream.com/pages/co2-gas-cylinders)
 
 Back
 
