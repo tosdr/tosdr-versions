@@ -1,24 +1,6 @@
- [![The postmarketOS logo](/logo.svg) postmarketOS](https://postmarketos.org/)
+ [![](/static/img/2024-04-redesign/logo.svg) postmarketOS](https://postmarketos.org/)
 
-[blog](https://postmarketos.org/blog/) [faq](https://postmarketos.org/faq/) [wiki](https://wiki.postmarketos.org/) [src](https://postmarketos.org/source-code/) [merch](https://postmarketos.org/merch/)
-
-[download](https://postmarketos.org/download/) [podcast](https://cast.postmarketos.org/)
-
-[@postmarketOS](https://postmarketos.org/chats-and-social-media/)
-
-[donate](https://opencollective.com/postmarketOS) [edge](https://postmarketos.org/edge/)
-
-A real Linux  
-distribution  
-for phones  
-and other mobile devices
-
-A real Linux distribution for phones  
-and other mobile devices
-
-[For Linux enthusiasts](https://postmarketos.org/state/)
-
-Latest news: [pmOS selected for NGI0 Core funding](https://postmarketos.org/blog/2024/07/17/news-on-grant-applications/)
+[Home](https://postmarketos.org/) [Install](https://postmarketos.org/install/) [Blog](https://postmarketos.org/blog/) [Explore](https://postmarketos.org/explore/) [Team](https://postmarketos.org/team/) [Donate](https://postmarketos.org/donate/)
 
 Code of Conduct
 ===============
@@ -106,8 +88,9 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 
 For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
 
- [![A heart symbol](/static/img/icons-numix/emote-love-symbolic.svg) Contribute](https://wiki.postmarketos.org/wiki/Contributing)
+[Contribute](https://wiki.postmarketos.org/wiki/Contributing)
 
- [![A symbol indicating the top of the page](/static/img/icons-numix/go-top-symbolic.svg) Back to Top](#^)[![An RSS symbol](/static/img/icons-numix/application-rss+xml-symbolic.svg) Feed](https://postmarketos.org/blog/feed.atom)[![A padlock symbol](/static/img/icons-numix/changes-secure-symbolic.svg) Privacy Policy](https://postmarketos.org/privacy-policy)[![A symbol of one person standing behind another](/static/img/icons-numix/system-users-symbolic.svg) Code of Conduct](https://postmarketos.org/coc)
+[Back to Top](#^) [Feed](https://postmarketos.org/blog/feed.atom) [Privacy Policy](https://postmarketos.org/privacy-policy) [Code of Conduct](https://postmarketos.org/coc)
 
-© 2024 postmarketOS.org contributors
+© 2024 postmarketOS.org contributors  
+design by [Dika Setya](https://gitlab.com/dikasetyaprayogi), [Markus Göllnitz](https://bewares.it/) and [Oliver Smith](https://postmarketos.org/core-contributors/#oliver-smith-ollieparanoid)
