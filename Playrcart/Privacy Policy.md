@@ -756,7 +756,7 @@ contents15
 
 [Sub-Processors](https://www.glui.io/sub-processors)
 
-![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
+![](https://static.wixstatic.com/media/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png/v1/fill/w_123,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8dd289_3c9095ea6cd8498a88e7a677b4678a07~mv2.png)
 
 Solutions
 =========
