@@ -67,7 +67,7 @@
     
     Identity
     
-    Detect malicious actors in Video Conferencing](https://www.resemble.ai/deepfake-detection-for-google-meet/)
+    Voice Enrollment for Identity Protection](https://www.resemble.ai/identity)
 * [![](data:image/svg+xml;nitro-empty-id=MzQ3OjExNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI2MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Reports
@@ -213,7 +213,7 @@ We’ve dedicated years towards building AI models that aid in the safe deployme
     
     Identity
     
-    Detect malicious actors in Video Conferencing](https://www.resemble.ai/deepfake-detection-for-google-meet/)
+    Voice Enrollment for Identity Protection](https://www.resemble.ai/identity)
 * [![](data:image/svg+xml;nitro-empty-id=NjY4OjExNw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNDggNjIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI2MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
     
     Reports
