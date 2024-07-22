@@ -13,6 +13,7 @@ en
 [](https://www.the-qrcode-generator.com/mycodes)[](https://www.the-qrcode-generator.com/mycodes)
 
 Terms of Use
+============
 
 Thank you for using the-qrcode-generator.com! These terms of service (Terms) cover your use and access of our website, our Chrome Extension and related software (our Services).
 
