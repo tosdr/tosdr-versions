@@ -1,4 +1,4 @@
-Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)                                                                                      Soylent Nutrition, Inc. Privacy Policy - Soylent                                 
+Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)                                                                                       Soylent Nutrition, Inc. Privacy Policy - Soylent                                
 
 Date Override:
 
@@ -13,8 +13,6 @@ Date Override:
  Update Clear
 
 [Instagram Instagram](https://www.instagram.com/soylent/ "Instagram") [Tiktok Tiktok](https://www.tiktok.com//@soylent_nutrition "Tiktok") [Reddit Reddit](https://www.reddit.com/r/soylent/ "Reddit")
-
-save 25% sitewide with code SUMMER24 at checkout! [see details](https://faq.soylent.com/en-US/602535-d7d23eebfefd443196ef5f79bf42722f "SUMMER24 Promotion Details")
 
 get free shipping on orders over $50!
 
