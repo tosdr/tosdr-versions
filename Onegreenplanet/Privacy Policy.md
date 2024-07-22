@@ -73,71 +73,71 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Plant-Based Cookbooks to Buy](https://www.onegreenplanet.org/vegancookbooks)
         
-    * [](https://www.onegreenplanet.org/vegan-food/new-butter-is-made-from-air-not-cows/)
+    * [](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)
         
-        [](https://www.onegreenplanet.org/vegan-food/new-butter-is-made-from-air-not-cows/)[![butter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)[![hiker eating a snack](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![butter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2290652719-e1721230959313.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/new-butter-is-made-from-air-not-cows/)
+        ![hiker eating a snack](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2187475943-e1721138534319.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)
         
-        [New Butter is Made from Air, Not Cows](https://www.onegreenplanet.org/vegan-food/new-butter-is-made-from-air-not-cows/)
+        [10 Vegan High-Protein Snacks You Should Buy](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)
         
-    * [](https://www.onegreenplanet.org/vegan-food/soy-sauce-coconut-aminos-liquid-aminos-comparison/)
+    * [](https://www.onegreenplanet.org/vegan-food/15-ways-to-use-bananas-that-isnt-banana-bread/)
         
-        [](https://www.onegreenplanet.org/vegan-food/soy-sauce-coconut-aminos-liquid-aminos-comparison/)[![soy sauce](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/vegan-food/15-ways-to-use-bananas-that-isnt-banana-bread/)[![Chocolate Banana Avocado Pudding](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![soy sauce](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/06/shutterstock_189950354-scaled-e1686564859391.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/soy-sauce-coconut-aminos-liquid-aminos-comparison/)
+        ![Chocolate Banana Avocado Pudding](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/chocolate-banana-avocado-pudding.webp?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/vegan-food/15-ways-to-use-bananas-that-isnt-banana-bread/)
         
-        [Soy Sauce vs. Coconut Aminos vs. Liquid Aminos: A Comparison](https://www.onegreenplanet.org/vegan-food/soy-sauce-coconut-aminos-liquid-aminos-comparison/)
+        [15 Ways to Use Bananas That Isn’t Banana Bread](https://www.onegreenplanet.org/vegan-food/15-ways-to-use-bananas-that-isnt-banana-bread/)
         
     
 * [News](https://www.onegreenplanet.org/channel/news/)
-    * [](https://www.onegreenplanet.org/news/daily-top-news-romania-approves-bear-culling-calls-for-reform-in-nyc-carriage-horse-industry-new-butter-made-from-air-and-more/)
+    * [](https://www.onegreenplanet.org/news/weekly-top-news-lithium-ion-batteries-linked-to-pfas-pollution-hawaiis-seabed-mining-ban-new-butter-made-from-air-and-more/)
         
-        [](https://www.onegreenplanet.org/news/daily-top-news-romania-approves-bear-culling-calls-for-reform-in-nyc-carriage-horse-industry-new-butter-made-from-air-and-more/)[![Carriage horses in New York City](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/news/weekly-top-news-lithium-ion-batteries-linked-to-pfas-pollution-hawaiis-seabed-mining-ban-new-butter-made-from-air-and-more/)[![Lithium-ion batteries](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEDAQAAAACQHglKAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cExAQAAAMIg+6e2w25gAAAAAAAAAAAAAAAAAABAdzuxAAFBC70jAAAAAElFTkSuQmCC)
         
-        ![Carriage horses in New York City](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-642633787.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/news/daily-top-news-romania-approves-bear-culling-calls-for-reform-in-nyc-carriage-horse-industry-new-butter-made-from-air-and-more/)
+        ![Lithium-ion batteries](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2336751263.jpg?fit=460%2C259&ssl=1)](https://www.onegreenplanet.org/news/weekly-top-news-lithium-ion-batteries-linked-to-pfas-pollution-hawaiis-seabed-mining-ban-new-butter-made-from-air-and-more/)
         
-        [Daily Top News: Romania Approves Bear Culling, Calls for Reform in NYC Carriage Horse Industry, New Butter Made from Air, and More!](https://www.onegreenplanet.org/news/daily-top-news-romania-approves-bear-culling-calls-for-reform-in-nyc-carriage-horse-industry-new-butter-made-from-air-and-more/)
+        [Weekly Top News: Lithium Ion Batteries Linked to PFAS Pollution, Hawaii’s Seabed Mining Ban, New Butter Made from Air, and More!](https://www.onegreenplanet.org/news/weekly-top-news-lithium-ion-batteries-linked-to-pfas-pollution-hawaiis-seabed-mining-ban-new-butter-made-from-air-and-more/)
         
-    * [](https://www.onegreenplanet.org/animals/abandoned-puppy-rescued-during-thunderstorm-goes-viral/)
+    * [](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-man-caught-smuggling-over-100-live-snakes-zoologist-faces-249-year-sentence-for-animal-cruelty-77-pilot-whales-die-in-mass-stranding-and-more/)
         
-        [](https://www.onegreenplanet.org/animals/abandoned-puppy-rescued-during-thunderstorm-goes-viral/)[![dog tied to park bench](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-man-caught-smuggling-over-100-live-snakes-zoologist-faces-249-year-sentence-for-animal-cruelty-77-pilot-whales-die-in-mass-stranding-and-more/)[![Stranded pilot whales](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAExAQAAAADZrK/sAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAA4N0ZLAAEUf2MtAAAAAElFTkSuQmCC)
         
-        ![dog tied to park bench](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2155968161-e1721134401702.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/abandoned-puppy-rescued-during-thunderstorm-goes-viral/)
+        ![Stranded pilot whales](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1389427790.jpg?fit=460%2C305&ssl=1)](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-man-caught-smuggling-over-100-live-snakes-zoologist-faces-249-year-sentence-for-animal-cruelty-77-pilot-whales-die-in-mass-stranding-and-more/)
         
-        [Abandoned Puppy Rescued During Thunderstorm Goes Viral](https://www.onegreenplanet.org/animals/abandoned-puppy-rescued-during-thunderstorm-goes-viral/)
+        [Weekly Top Animal and Video News: Man Caught Smuggling Over 100 Live Snakes, Zoologist Faces 249-Year Sentence for Animal Cruelty, 77 Pilot Whales Die in Mass Stranding, and More!](https://www.onegreenplanet.org/news/weekly-top-animal-and-video-news-man-caught-smuggling-over-100-live-snakes-zoologist-faces-249-year-sentence-for-animal-cruelty-77-pilot-whales-die-in-mass-stranding-and-more/)
         
-    * [](https://www.onegreenplanet.org/animals/this-dog-loves-to-sit-on-everyones-lap/)
+    * [](https://www.onegreenplanet.org/animals/florida-officer-rescues-dog-from-sweltering-car/)
         
-        [](https://www.onegreenplanet.org/animals/this-dog-loves-to-sit-on-everyones-lap/)[![dog walker](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/florida-officer-rescues-dog-from-sweltering-car/)[![dog in hot car](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![dog walker](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1399290365.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/this-dog-loves-to-sit-on-everyones-lap/)
+        ![dog in hot car](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1043529928-e1721308680266.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/florida-officer-rescues-dog-from-sweltering-car/)
         
-        [This Dog Loves to Sit on Everyone’s Lap!](https://www.onegreenplanet.org/animals/this-dog-loves-to-sit-on-everyones-lap/)
+        [Florida Officer Rescues Dog from Sweltering Car](https://www.onegreenplanet.org/animals/florida-officer-rescues-dog-from-sweltering-car/)
         
-    * [](https://www.onegreenplanet.org/natural-health/you-wont-believe-what-caused-this-womans-allergy-video/)
+    * [](https://www.onegreenplanet.org/animals/after-473-days-in-shelter-dog-gets-a-new-chance-at-life/)
         
-        [](https://www.onegreenplanet.org/natural-health/you-wont-believe-what-caused-this-womans-allergy-video/)[![Woman wiping tears from her eyes](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/after-473-days-in-shelter-dog-gets-a-new-chance-at-life/)[![dog in shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![Woman wiping tears from her eyes](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2430449191.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/you-wont-believe-what-caused-this-womans-allergy-video/)
+        ![dog in shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2151336521-e1721308215565.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/after-473-days-in-shelter-dog-gets-a-new-chance-at-life/)
         
-        [You Won’t Believe What Caused This Woman’s Allergy \[Video\]](https://www.onegreenplanet.org/natural-health/you-wont-believe-what-caused-this-womans-allergy-video/)
+        [After 473 Days in Shelter, Dog Gets a New Chance at Life](https://www.onegreenplanet.org/animals/after-473-days-in-shelter-dog-gets-a-new-chance-at-life/)
         
-    * [](https://www.onegreenplanet.org/animals/romania-approves-bear-culling-to-manage-overpopulation-amid-safety-concerns/)
+    * [](https://www.onegreenplanet.org/animals/oldest-dog-in-shelter-finds-forever-home/)
         
-        [](https://www.onegreenplanet.org/animals/romania-approves-bear-culling-to-manage-overpopulation-amid-safety-concerns/)[![brown bear](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEpAQAAAAA2KS8aAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAEcGRHMAAXF5J6UAAAAASUVORK5CYII=)
+        [](https://www.onegreenplanet.org/animals/oldest-dog-in-shelter-finds-forever-home/)[![senior dog](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![brown bear](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2018232173-e1721157545728.jpg?fit=460%2C297&ssl=1)](https://www.onegreenplanet.org/animals/romania-approves-bear-culling-to-manage-overpopulation-amid-safety-concerns/)
+        ![senior dog](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2294724389-e1721307838424.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/oldest-dog-in-shelter-finds-forever-home/)
         
-        [Romania Approves Bear Culling to Manage Overpopulation Amid Safety Concerns](https://www.onegreenplanet.org/animals/romania-approves-bear-culling-to-manage-overpopulation-amid-safety-concerns/)
+        [Oldest Dog in Shelter Finds Forever Home](https://www.onegreenplanet.org/animals/oldest-dog-in-shelter-finds-forever-home/)
         
-    * [](https://www.onegreenplanet.org/animals/calls-for-reform-as-nyc-carriage-horse-industry-faces-legal-scrutiny/)
+    * [](https://www.onegreenplanet.org/animals/new-animal-based-scandal-documentary-teased-in-trailer/)
         
-        [](https://www.onegreenplanet.org/animals/calls-for-reform-as-nyc-carriage-horse-industry-faces-legal-scrutiny/)[![carriage horse](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEDAQAAAACQHglKAAAAAnRSTlMAAHaTzTgAAAAlSURBVHja7cExAQAAAMIg+6e2w25gAAAAAAAAAAAAAAAAAABAdzuxAAFBC70jAAAAAElFTkSuQmCC)
+        [](https://www.onegreenplanet.org/animals/new-animal-based-scandal-documentary-teased-in-trailer/)[![chimp](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
         
-        ![carriage horse](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1997877068-e1721231387837.jpg?fit=460%2C259&ssl=1)](https://www.onegreenplanet.org/animals/calls-for-reform-as-nyc-carriage-horse-industry-faces-legal-scrutiny/)
+        ![chimp](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-553094830-e1721231781549.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/new-animal-based-scandal-documentary-teased-in-trailer/)
         
-        [Calls for Reform as NYC Carriage Horse Industry Faces Legal Scrutiny](https://www.onegreenplanet.org/animals/calls-for-reform-as-nyc-carriage-horse-industry-faces-legal-scrutiny/)
+        [New Documentary “Chimp Crazy” is About Woman Who Cares for a Menagerie of Captive Chimps](https://www.onegreenplanet.org/animals/new-animal-based-scandal-documentary-teased-in-trailer/)
         
 * [Earth](https://www.onegreenplanet.org/channel/environment/)
     * [](https://www.onegreenplanet.org/environment/climate-resilient-foods-feeding-the-world-in-the-face-of-climate-change/)
@@ -244,6 +244,30 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         
         [Must-Have Plant-Based Cookbooks](https://www.onegreenplanet.org/vegancookbooks)
         
+    * [](https://www.onegreenplanet.org/natural-health/10-effective-plant-based-natural-remedies-to-boost-testosterone-levels/)
+        
+        [](https://www.onegreenplanet.org/natural-health/10-effective-plant-based-natural-remedies-to-boost-testosterone-levels/)[![fenugreek leaves and seeds in a spoon. fenugreek boosts testosterone levels](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![fenugreek leaves and seeds in a spoon. fenugreek boosts testosterone levels](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/shutterstock-756200080-e1703901329300.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/10-effective-plant-based-natural-remedies-to-boost-testosterone-levels/)
+        
+        [10 Effective Plant-Based Natural Remedies to Boost Testosterone Levels](https://www.onegreenplanet.org/natural-health/10-effective-plant-based-natural-remedies-to-boost-testosterone-levels/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)
+        
+        [](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)[![hiker eating a snack](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![hiker eating a snack](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2187475943-e1721138534319.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)
+        
+        [10 Vegan High-Protein Snacks You Should Buy](https://www.onegreenplanet.org/natural-health/10-vegan-high-protein-snacks/)
+        
+    * [](https://www.onegreenplanet.org/natural-health/9-plant-based-natural-remedies-to-boost-estrogen-levels/)
+        
+        [](https://www.onegreenplanet.org/natural-health/9-plant-based-natural-remedies-to-boost-estrogen-levels/)[![red clover estrogen boosting herbs](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEMAQAAAABhSLufAAAAAnRSTlMAAHaTzTgAAAAmSURBVGje7cExAQAAAMKg9U9tCU+gAAAAAAAAAAAAAAAAAAAAeBk9xAABOfpZngAAAABJRU5ErkJggg==)
+        
+        ![red clover estrogen boosting herbs](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/12/shutterstock-2293467363-e1703819119550.jpg?fit=460%2C268&ssl=1)](https://www.onegreenplanet.org/natural-health/9-plant-based-natural-remedies-to-boost-estrogen-levels/)
+        
+        [9 Plant-Based Natural Remedies to Boost Estrogen Levels](https://www.onegreenplanet.org/natural-health/9-plant-based-natural-remedies-to-boost-estrogen-levels/)
+        
     * [](https://www.onegreenplanet.org/natural-health/you-wont-believe-what-caused-this-womans-allergy-video/)
         
         [](https://www.onegreenplanet.org/natural-health/you-wont-believe-what-caused-this-womans-allergy-video/)[![Woman wiping tears from her eyes](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
@@ -259,30 +283,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![Raw vegetables](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2018/08/rawveg.jpg?fit=460%2C259&ssl=1)](https://www.onegreenplanet.org/natural-health/raw-benefits-plant-based-daily-meals/)
         
         [The Benefits of Incorporating Raw Plant-Based Ingredients into Your Daily Meals](https://www.onegreenplanet.org/natural-health/raw-benefits-plant-based-daily-meals/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/say-goodbye-to-tech-neck-with-this-quick-exercise-fix-video/)
-        
-        [](https://www.onegreenplanet.org/natural-health/say-goodbye-to-tech-neck-with-this-quick-exercise-fix-video/)[![Guy grabbing shoulder with pained expression](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![Guy grabbing shoulder with pained expression](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2268529355.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/say-goodbye-to-tech-neck-with-this-quick-exercise-fix-video/)
-        
-        [Say Goodbye to Tech Neck with This Quick Exercise Fix \[Video\]](https://www.onegreenplanet.org/natural-health/say-goodbye-to-tech-neck-with-this-quick-exercise-fix-video/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/why-your-reusable-water-bottle-might-be-growing-its-own-mini-ecosystem-video/)
-        
-        [](https://www.onegreenplanet.org/natural-health/why-your-reusable-water-bottle-might-be-growing-its-own-mini-ecosystem-video/)[![Woman holding reusable water bottle](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![Woman holding reusable water bottle](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2192833843.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/natural-health/why-your-reusable-water-bottle-might-be-growing-its-own-mini-ecosystem-video/)
-        
-        [Why Your Reusable Water Bottle Might Be Growing Its Own Mini Ecosystem \[Video\]](https://www.onegreenplanet.org/natural-health/why-your-reusable-water-bottle-might-be-growing-its-own-mini-ecosystem-video/)
-        
-    * [](https://www.onegreenplanet.org/natural-health/are-pulse-flours-better-for-us/)
-        
-        [](https://www.onegreenplanet.org/natural-health/are-pulse-flours-better-for-us/)[![beans and pulses](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEfAQAAAADkCsuqAAAAAnRSTlMAAHaTzTgAAAAnSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAALg3QiUAAa80YRkAAAAASUVORK5CYII=)
-        
-        ![beans and pulses](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2023/05/shutterstock_465981986-scaled-e1685475222924.jpg?fit=460%2C287&ssl=1)](https://www.onegreenplanet.org/natural-health/are-pulse-flours-better-for-us/)
-        
-        [Are Pulse Flours Better For Us?](https://www.onegreenplanet.org/natural-health/are-pulse-flours-better-for-us/)
         
 * [People](https://www.onegreenplanet.org/channel/human-interest/)
     * [](https://www.onegreenplanet.org/human-interest/global-waters-exceed-safe-pfa-levels-new-study-reveals/)
@@ -334,6 +334,14 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         [Climate Change Forces Four Native Groups to Relocate](https://www.onegreenplanet.org/environment/climate-change-forces-four-native-groups-to-relocate/)
         
 * [Animals](https://www.onegreenplanet.org/channel/animals/)
+    * [](https://www.onegreenplanet.org/animals/five-heartbroken-dogs-who-were-returned-to-the-shelter/)
+        
+        [](https://www.onegreenplanet.org/animals/five-heartbroken-dogs-who-were-returned-to-the-shelter/)[![sad dog in shelter](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
+        
+        ![sad dog in shelter](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2302006979-e1721221758264.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/five-heartbroken-dogs-who-were-returned-to-the-shelter/)
+        
+        [Five Heartbroken Dogs Who Were Returned to the Shelter](https://www.onegreenplanet.org/animals/five-heartbroken-dogs-who-were-returned-to-the-shelter/)
+        
     * [](https://www.onegreenplanet.org/animals/five-incredible-stranded-dolphin-rescues/)
         
         [](https://www.onegreenplanet.org/animals/five-incredible-stranded-dolphin-rescues/)[![stranded dolphin rescue](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
@@ -373,14 +381,6 @@ Toggle navigation[OneGreenPlanet](https://www.onegreenplanet.org/)
         ![sweet pitbull](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-1868183239-e1720442787362.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/four-pitbulls-that-show-you-why-they-arent-an-aggressive-breed/)
         
         [Four Pitbulls That Show You Why They AREN’T an Aggressive Breed](https://www.onegreenplanet.org/animals/four-pitbulls-that-show-you-why-they-arent-an-aggressive-breed/)
-        
-    * [](https://www.onegreenplanet.org/animals/10-animal-companion-travel-bags/)
-        
-        [](https://www.onegreenplanet.org/animals/10-animal-companion-travel-bags/)[![dog traveling](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcwAAAEzAQAAAACUZA7nAAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tB2+gAAAAAAAAAAAAAAAAAAAAAADgMEbBAAG19/toAAAAAElFTkSuQmCC)
-        
-        ![dog traveling](https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2024/07/shutterstock-2284554331-e1720013453527.jpg?fit=460%2C307&ssl=1)](https://www.onegreenplanet.org/animals/10-animal-companion-travel-bags/)
-        
-        [10 Animal Companion Travel Bags!](https://www.onegreenplanet.org/animals/10-animal-companion-travel-bags/)
         
 * [Video](https://www.onegreenplanet.org/channel/videos/)
     * [](https://www.onegreenplanet.org/news/abandoned-dog-finds-forever-home-at-bed-and-breakfast-video/)
@@ -536,9 +536,9 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
+    * [ ] N/A
     * [ ] N/A
     * [ ] N/A
     * [ ] Pet Food
@@ -733,9 +733,9 @@ No products in the cart.
     * [ ] N/A
     * [ ] N/A
     * [ ] N/A
-    * [ ] N/A
-    * [ ] N/A
     * [ ] n/a
+    * [ ] N/A
+    * [ ] N/A
     * [ ] N/A
     * [ ] N/A
     * [ ] Pet Food
