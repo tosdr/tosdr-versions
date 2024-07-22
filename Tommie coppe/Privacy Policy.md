@@ -1,30 +1,30 @@
 [Skip to main content](#main-content)
 
-Summer Sale: Save up to 60% DETAILS
+Big Sale: BOGO Free! DETAILS
 
-ACTIVE SUMMER ESSENTIALS
-
-Close the Modal
-
-#### SAVE UP TO 60%
-
-[SHOP NOW](https://www.tommiecopper.com/special/active-summer-essentials/)
-
-Offer valid 7/19/2024 8AM ET - 7/22/2024 6AM ET.
-
-Up to 60% Active Summer Essentials discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-COMPRESSION GLOVES
+BIG 2 DAY SALE
 
 Close the Modal
 
-#### Buy 1 Get 1 Free Today!
+#### BUY 1 GET 1 FREE
 
-[SHOP MEN](https://www.tommiecopper.com/men/compression-wear/accessories/)    [SHOP WOMEN](https://www.tommiecopper.com/women/compression-wear/accessories/)
+[SHOP NOW](https://www.tommiecopper.com/special/big-sale)
 
-Offer valid 5/17/2024 8AM ET - 5/20/2024 6AM ET
+Offer valid 7/22/2024 8AM ET - 7/24/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount on all compression gloves, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+FREE GIFT WITH PURCHASE
+
+Close the Modal
+
+#### Free Pain Relief Liquid Roller on Orders $100+
+
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+
+Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
+
+Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
