@@ -1,4 +1,4 @@
-Saturday, July 20 2024
+Monday, July 22 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -135,7 +135,7 @@ Quick Guides
     
     [How U.S. presidential elections influence stock market trends](https://fifthperson.com/us-presidential-elections-stock-market-trends/)
     
-    2 days ago
+    5 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -143,7 +143,7 @@ Quick Guides
     
     [8 things I learned from the 2024 Dutch Lady Milk Industries AGM](https://fifthperson.com/2024-dutch-lady-milk-industries-agm/)
     
-    4 days ago
+    7 days ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -151,7 +151,7 @@ Quick Guides
     
     [7 things I learned from Temasek Review 2024](https://fifthperson.com/temasek-review-2024/)
     
-    1 week ago
+    2 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -175,7 +175,7 @@ Quick Guides
     
     [How this drink company’s stock grew 4,270% in five years](https://fifthperson.com/drink-company-stock-grew-in-five-years/)
     
-    3 weeks ago
+    4 weeks ago
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -191,7 +191,7 @@ Quick Guides
     
     [12 things I learned from the 2024 Public Bank AGM](https://fifthperson.com/2024-public-bank-agm/)
     
-    4 weeks ago
+    June 21, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -291,6 +291,18 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/us-presidential-elections-stock-market-trends/#comment-674205)
+    
+    [Adam Wong](https://fifthperson.com/us-presidential-elections-stock-market-trends/#comment-674205)
+    
+    The 20th century was American, could we see another American...
+    
 * [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -347,6 +359,8 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672951)
     
     [Adam Wong](https://fifthperson.com/lululemon-crashed-is-there-an-undervalued-opportunity/#comment-672951)
@@ -369,6 +383,8 @@ Quick Guides
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
     ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672863)
     
     [Adam Wong](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672863)
@@ -382,14 +398,6 @@ Quick Guides
     [md nur](https://fifthperson.com/dont-pay-off-your-home-loan-immediately/#comment-672358)
     
     good...
-    
-* [![Photo of Max](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Max](https://secure.gravatar.com/avatar/443af085e945c4eb00fddb53e71f13e1?s=70&d=mm&r=g)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672112)
-    
-    [Max](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/#comment-672112)
-    
-    Hi I m thinking to open a DBS premier Account next year.But...
     
 
 Advertisement
