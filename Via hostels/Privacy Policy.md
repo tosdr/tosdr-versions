@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_669b8eb5b5761)
+* [fun from day one!](#tab_669ebe34814c5)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_669b8eb5b5761)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_669ebe34814c5)
     
-* [fomo no more!](#tab_669b8eb5b5770)
+* [fomo no more!](#tab_669ebe34814d4)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_669b8eb5b5770)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_669ebe34814d4)
     
-* [we’ve got you covered, dude](#tab_669b8eb5b577c)
+* [we’ve got you covered, dude](#tab_669ebe34814e0)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_669b8eb5b577c)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_669ebe34814e0)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,8 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[We've got you, 24/7🫶 ![We've got you, 24/7🫶](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9sMXZmJXEj/) 
+
 [Who would you pick to make your drink? 😏 make s ![Who would you pick to make your drink? 😏 make sure to watch till the end! #freepourchallenge #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9m7ZXZtAYD/) 
 
 [Share to that person you're going to explore with ![Share to that person you're going to explore with 🤩
@@ -139,8 +141,6 @@ follow us on social
 [These 10PM sunsets in Amsterdam💛 ![These 10PM sunsets in Amsterdam💛](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8e2RZxC8Tc/) 
 
 [#beerpong questions: are you the one getting your ![#beerpong questions: are you the one getting your mouth or your balls wet? Let us know in the comments 🍻 #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8SEjAUN4yx/) 
-
-[Share to that person😉 #amsterdam #viaamsterdam ![Share to that person😉 #amsterdam #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C8KKcAiN_Bs/) 
 
 current & upcoming events
 -------------------------
@@ -169,23 +169,17 @@ Feeling artsy? Grab a drink and join us at the Dude bar. We’ve got you covered
 The Dude Bar**  
 It’s play time everyone! Bring your friends or meet a bunch of new ones while playing some of the funnest games. Loser pays the next round?
 
-#### Jukebox jackpot!
-
-**Wednesday | 20:00  
-The Dude Bar**  
-Bingo with a spice! Don’t be fooled by the stereotypes of granny bingo, this one’s got music rounds, free shots, and fun surprises. Don’t miss out 😉
-
 #### Kings of cups
 
 **Thursday | 20:00  
 The Dude Bar**  
 Are you the king of our beer pong tournament? Gather a winning team from your fellow travellers and we’ll find out about it tonight!
 
-#### Karaoke party
+#### via summer olympics
 
-**Friday | 20:00  
+**Friday | 14:00  
 The Dude Bar**  
-Come rock and sing the night away in our all-time favourite karaoke party. Heads up, there are free courage shots for the singers 😉
+Via Summer Olympics are here! Warm up with our mini games and snap a photo on the podium of our Photo Booth to immortalise your wins🥇💪
 
 #### Social Saturday ft. live DJ
 
