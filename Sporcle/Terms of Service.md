@@ -1,5 +1,3 @@
-[MDQL is packed to the gills.](https://www.youtube.com/watch?v=HLKLHL4oFIM)
-
 1. [Quizzes](https://www.sporcle.com/)
 2. [Events](https://www.sporcle.com/events/)
 
@@ -83,7 +81,7 @@
     4. [](https://www.tiktok.com/@sporcle.com)
     5. [](https://www.instagram.com/sporcle/)
 
-[![Sporcle ](https://d31xsmoz1lk3y3.cloudfront.net/images/header_logos/cfa053779226546994ed6414444976c1.svg)](https://www.sporcle.com/)
+[![Sporcle ](/images/sporcle-logo-theme-light.svg)](https://www.sporcle.com/)
 
 1. [Categories](https://www.sporcle.com/categories/)
 2. [Quiz Types](https://www.sporcle.com/type/)
@@ -446,7 +444,7 @@ est. 2007
 
 mentally stimulating diversions](https://www.sporcle.com/)
 
-5,685,851,335 quizzes played
+5,688,318,644 quizzes played
 
 Remove Ads.
 
