@@ -273,6 +273,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -285,24 +295,14 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/slike/paitings/gospodin-leprsic.jpg?itok=UGCElPNa)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/slikepaitings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/museum-beginners/11museum-freedom-001.jpg?itok=WhXY_ljC)](http://seecult.org/galerija/galerija-umetnika/manik/museum-beginners)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii/balkan-djiha.jpg?itok=7I1Slm81)](http://seecult.org/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/trupa-accropap.jpg?itok=KcgxWB89)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,16 +318,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 * [Partibrejkers uveličali Zemun fest](http://seecult.org/vest/partibrejkers-uvelicali-zemun-fest)
 
+* [Miki Tanili nagrada Underground Spirit](http://seecult.org/vest/miki-tanili-nagrada-underground-spirit)
+* [Kenović: Najvažniji su međuljudski odnosi](http://seecult.org/vest/kenovic-najvazniji-su-meduljudski-odnosi)
+* [Anica Dobra: Ideja je danas najskuplja stvar](http://seecult.org/vest/anica-dobra-ideja-je-danas-najskuplja-stvar)
+* [Počeo 31. Palićki filmski festival](http://seecult.org/vest/poceo-31-palicki-filmski-festival)
+* [Naš sin u Dizeldorfu](http://seecult.org/vest/nas-sin-u-dizeldorfu)
 * [Bistre reke ponovo na staroj planini](http://seecult.org/vest/bistre-reke-ponovo-na-staroj-planini)
 * [Početak 31. Palića u slavu dobitnika Lifke](http://seecult.org/vest/pocetak-31-palica-u-slavu-dobitnika-lifke)
 * [Kraljevački festival antiratnog, angažovanog i akademskog filma](http://seecult.org/vest/kraljevacki-festival-antiratnog-angazovanog-i-akademskog-filma)
 * [Sećanje... Ivana Simeonović Ćelić](http://seecult.org/vest/secanje-ivana-simeonovic-celic)
 * [50 godina Derviša i smrti u Puli](http://seecult.org/vest/50-godina-dervisa-i-smrti-u-puli)
-* [7\. Dunav film fest u Smederevu](http://seecult.org/vest/7-dunav-film-fest-u-smederevu)
-* [Trijumf Proslave na 71. Puli](http://seecult.org/vest/trijumf-proslave-na-71-puli)
-* [Digitalni arhiv Pulskog filmskog festivala](http://seecult.org/vest/digitalni-arhiv-pulskog-filmskog-festivala)
-* [Nagrada Novica Tadić Tamari Radević](http://seecult.org/vest/nagrada-novica-tadic-tamari-radevic)
-* [Mekšanje otvara 58. Bitef](http://seecult.org/vest/meksanje-otvara-58-bitef)
 
 * [Konkursi](#tab1_1)
 
