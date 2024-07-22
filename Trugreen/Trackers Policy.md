@@ -129,7 +129,7 @@ For further enquiries:
 
 ServiceMaster Limited incorporated and registered in England and Wales with registered number 01250088 whose registered office is ServiceMaster House, The Whittle Estate, Cambridge Road, Whetstone, Leicester LE8 6LH and whose correspondence and trading address is ServiceMaster House, The Whittle Estate, Cambridge Road, Whetstone, Leicester LE8 6LH.  
   
-Copyright - ServiceMaster
+Copyright - ServiceMaster - Marketing by [Yopp](https://www.yopp.co.uk/)
 
 [Scroll to top](#top "Scroll to top")
 
