@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[July 20, 2024](https://www.japantimes.co.jp/archive/2024/07/20/ "archive page")
+[July 23, 2024](https://www.japantimes.co.jp/archive/2024/07/23/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,61 +463,61 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Triple whammy takes Japan bankruptcies to decade high](https://www.japantimes.co.jp/business/2024/07/18/economy/japan-bankruptcies-rising/ "Triple whammy takes Japan bankruptcies to decade high")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![More Japanese firms have gone bankrupt in the first half of this year due to soaring costs, labor shortages and the end of pandemic-related support.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/18/410076.jpg&w=400&q=100&f=jpg&t=1.2 "More Japanese firms have gone bankrupt in the first half of this year due to soaring costs, labor shortages and the end of pandemic-related support.  ")](https://www.japantimes.co.jp/business/2024/07/18/economy/japan-bankruptcies-rising/ "Triple whammy takes Japan bankruptcies to decade high")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Japan mostly spared in global IT meltdown despite reports of some bugs](https://www.japantimes.co.jp/news/2024/07/19/japan/worldwide-tech-issues/ "Japan mostly spared in global IT meltdown despite reports of some bugs")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![A screen displays an error message at a self-checkout terminal of a supermarket in Sydney on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410275.jpg&w=400&q=100&f=jpg&t=1.2 "A screen displays an error message at a self-checkout terminal of a supermarket in Sydney on Friday. ")](https://www.japantimes.co.jp/news/2024/07/19/japan/worldwide-tech-issues/ "Japan mostly spared in global IT meltdown despite reports of some bugs")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[Japan pharma startup developing world-first drug to grow new teeth](https://www.japantimes.co.jp/news/2023/09/24/japan/science-health/japan-pharma-grows-new-teeth/ "Japan pharma startup developing world-first drug to grow new teeth")
+
+  [![A new tooth is seen in a ferret's mouth after it was administered a drug to stimulate the growth of tooth buds.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/24/253589.jpg&w=400&q=100&f=jpg&t=1.2 "A new tooth is seen in a ferret's mouth after it was administered a drug to stimulate the growth of tooth buds.")](https://www.japantimes.co.jp/news/2023/09/24/japan/science-health/japan-pharma-grows-new-teeth/ "Japan pharma startup developing world-first drug to grow new teeth")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[Biden drops out of presidential race, endorsing Kamala Harris](https://www.japantimes.co.jp/news/2024/07/22/world/joe-biden-exits-presidential-race/ "Biden drops out of presidential race, endorsing Kamala Harris")
+
+  [![U.S. President Joe Biden and Vice President Kamala Harris at the White House in Washington on July 4.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410593.JPG&w=400&q=100&f=jpg&t=1.2 "U.S. President Joe Biden and Vice President Kamala Harris at the White House in Washington on July 4.")](https://www.japantimes.co.jp/news/2024/07/22/world/joe-biden-exits-presidential-race/ "Biden drops out of presidential race, endorsing Kamala Harris")
+
+[Why Japanese researchers are looking to submarine cables for faster tsunami warnings](https://www.japantimes.co.jp/environment/2024/07/21/earth-science/tsunami-warnings-submarine-cables/ "Why Japanese researchers are looking to submarine cables for faster tsunami warnings")
+
+  [![Lamposts and other signs throughout Hirogawa, Wakayama Prefecture, display warnings, evacuation routes and measurements of height above sea level. The town has been hit by eight tsunami in its recorded history. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/21/410355.jpg&w=400&q=100&f=jpg&t=1.2 "Lamposts and other signs throughout Hirogawa, Wakayama Prefecture, display warnings, evacuation routes and measurements of height above sea level. The town has been hit by eight tsunami in its recorded history. ")](https://www.japantimes.co.jp/environment/2024/07/21/earth-science/tsunami-warnings-submarine-cables/ "Why Japanese researchers are looking to submarine cables for faster tsunami warnings")
+
+[Akatsuki Japan believes it can 'surprise the world' in Paris](https://www.japantimes.co.jp/olympics/2024/07/22/japan-women-basketball-surprise/ "Akatsuki Japan believes it can 'surprise the world' in Paris")
+
+  [![Mai Yamamoto drives to the basket during an Olympic tune-up game against New Zealand in Tokyo on July 4. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410496.jpg&w=400&q=100&f=jpg&t=1.2 "Mai Yamamoto drives to the basket during an Olympic tune-up game against New Zealand in Tokyo on July 4. ")](https://www.japantimes.co.jp/olympics/2024/07/22/japan-women-basketball-surprise/ "Akatsuki Japan believes it can 'surprise the world' in Paris")
 
 [How to prevent and respond to heatstroke in Japan this summer](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
 
   [![A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410148.jpg&w=400&q=100&f=jpg&t=1.2 "A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.")](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
 
-[Japanese gymnast Shoko Miyata leaves Olympic team over drinking and smoking](https://www.japantimes.co.jp/olympics/2024/07/19/miyata-smoking-olympics/ "Japanese gymnast Shoko Miyata leaves Olympic team over drinking and smoking")
+[‘Sniper from Oita’ sets her sights on Paris Olympics target](https://www.japantimes.co.jp/olympics/2024/07/19/olympic-shooter-misaki-nobata/ "‘Sniper from Oita’ sets her sights on Paris Olympics target")
 
-  [![Shoko Miyata had been set to lead the Japanese women's gymnastics team at the Paris Games. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410262.jpg&w=400&q=100&f=jpg&t=1.2 "Shoko Miyata had been set to lead the Japanese women's gymnastics team at the Paris Games. ")](https://www.japantimes.co.jp/olympics/2024/07/19/miyata-smoking-olympics/ "Japanese gymnast Shoko Miyata leaves Olympic team over drinking and smoking")
-
-[Yen rally shakes markets, sending dollar to weakest level since May](https://www.japantimes.co.jp/business/2024/07/18/markets/yen-rally-against-dollar/ "Yen rally shakes markets, sending dollar to weakest level since May")
-
-  [![The yen rose to the ¥155 range against the dollar, the highest in almost two months, in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/18/409887.jpg&w=400&q=100&f=jpg&t=1.2 "The yen rose to the ¥155 range against the dollar, the highest in almost two months, in Tokyo on Thursday.")](https://www.japantimes.co.jp/business/2024/07/18/markets/yen-rally-against-dollar/ "Yen rally shakes markets, sending dollar to weakest level since May")
-
-[How to prevent and respond to heatstroke in Japan this summer](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
-
-  [![A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410148.jpg&w=400&q=100&f=jpg&t=1.2 "A passerby holding a parasol wipes her face as she walks on the street amid a heatstroke alert in Tokyo and other prefectures, in Tokyo on July 9.")](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/heatstroke-explainer/ "How to prevent and respond to heatstroke in Japan this summer")
-
-[Households struggle as Japan’s inflation rises near U.S. levels](https://www.japantimes.co.jp/business/2024/07/19/economy/japan-inflation-rises-near-us/ "Households struggle as Japan’s inflation rises near U.S. levels")
-
-  [![The Nishiki market in Kyoto. June’s inflation report shows extraordinary jumps in the prices of some items favored by households, including cabbage (27.6%), potatoes (28.5%) and tomatoes (15.6%).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410184.jpg&w=400&q=100&f=jpg&t=1.2 "The Nishiki market in Kyoto. June’s inflation report shows extraordinary jumps in the prices of some items favored by households, including cabbage (27.6%), potatoes (28.5%) and tomatoes (15.6%).")](https://www.japantimes.co.jp/business/2024/07/19/economy/japan-inflation-rises-near-us/ "Households struggle as Japan’s inflation rises near U.S. levels")
-
-[As risk of heatstroke rises in Japan, so does that of COVID-19](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/covid-summer-heatstroke/ "As risk of heatstroke rises in Japan, so does that of COVID-19")
-
-  [![People hold umbrellas while watching baseball to deal with the heat in the city of Shizuoka on July 7.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410261.jpg&w=400&q=100&f=jpg&t=1.2 "People hold umbrellas while watching baseball to deal with the heat in the city of Shizuoka on July 7.")](https://www.japantimes.co.jp/news/2024/07/19/japan/science-health/covid-summer-heatstroke/ "As risk of heatstroke rises in Japan, so does that of COVID-19")
-
-[German, French and Spanish fighter aircraft arrive in Japan for joint drills](https://www.japantimes.co.jp/news/2024/07/19/japan/fighters-drill-germany-france-spain/ "German, French and Spanish fighter aircraft arrive in Japan for joint drills")
-
-  [![Two Air Self-Defense Force F-15s (right) escort two German Air Force Eurofighter jets and an A330MRTT aerial tanker on their arrival in Japan Friday. The ASDF is conducting training exercises with the German, French and Spanish air forces this weekend.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410183.png&w=400&q=100&f=jpg&t=1.2 "Two Air Self-Defense Force F-15s (right) escort two German Air Force Eurofighter jets and an A330MRTT aerial tanker on their arrival in Japan Friday. The ASDF is conducting training exercises with the German, French and Spanish air forces this weekend.")](https://www.japantimes.co.jp/news/2024/07/19/japan/fighters-drill-germany-france-spain/ "German, French and Spanish fighter aircraft arrive in Japan for joint drills")
-
-[How to beat Japan’s summer heat in ways better for the planet](https://www.japantimes.co.jp/environment/2024/07/14/sustainability/sustainable-cooling/ "How to beat Japan’s summer heat in ways better for the planet")
-
-  [![Tenugui towels hang up to dry at a dyeing company in Sakai, Osaka Prefecture, on May 8. The durable and versatile tenugui, which many people have in their homes, can be used in many ways to cool one’s body.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/14/408909.jpg&w=400&q=100&f=jpg&t=1.2 "Tenugui towels hang up to dry at a dyeing company in Sakai, Osaka Prefecture, on May 8. The durable and versatile tenugui, which many people have in their homes, can be used in many ways to cool one’s body.")](https://www.japantimes.co.jp/environment/2024/07/14/sustainability/sustainable-cooling/ "How to beat Japan’s summer heat in ways better for the planet")
+  [![Misaki Nobata competes at the World University Games in 2023. A hero in her hometown of Oita, Nobata is one of three Japanese shooters who will compete at the upcoming Paris Olympics. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/19/410188.jpeg&w=400&q=100&f=jpg&t=1.2 "Misaki Nobata competes at the World University Games in 2023. A hero in her hometown of Oita, Nobata is one of three Japanese shooters who will compete at the upcoming Paris Olympics. ")](https://www.japantimes.co.jp/olympics/2024/07/19/olympic-shooter-misaki-nobata/ "‘Sniper from Oita’ sets her sights on Paris Olympics target")
 
 Podcast
 -------
 
-  [![You can often see generations of families enjoying performances together at Fuji Rock Festival.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/04/407344.jpg&w=400&q=100&f=jpg&t=1.2 "You can often see generations of families enjoying performances together at Fuji Rock Festival.")](https://www.japantimes.co.jp/podcast/2024/07/04/deep-dive/summer-festivals-climate-change/ "Japan’s summer music festivals are feeling the heat in more ways than one")
+  [![One of the many entrances to the Kabuki-cho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabuki-cho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabuki-cho: Tokyo’s ‘stadium of desire’")
 
-[Japan’s summer music festivals are feeling the heat in more ways than one](https://www.japantimes.co.jp/podcast/2024/07/04/deep-dive/summer-festivals-climate-change/ "Japan’s summer music festivals are feeling the heat in more ways than one")
+[Kabuki-cho: Tokyo’s ‘stadium of desire’](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabuki-cho: Tokyo’s ‘stadium of desire’")
 
 Longform
 --------
 
-  [![Akiko Trush says her experience with the neurological disorder dystonia left her feeling like she wanted to chop her own hand off. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/13/408481.jpg&w=400&q=100&f=jpg&t=1.2 "Akiko Trush says her experience with the neurological disorder dystonia left her feeling like she wanted to chop her own hand off. ")](https://www.japantimes.co.jp/news/2024/07/14/japan/science-health/focal-dystonia-musician-health/ "The neurological disorder that 'kills culture'")
+  [![Traditional folk rituals like Mizudome-no-mai (dance to stop the rain) provide a sense of agency to a population that feels largely powerless in the face of the climate crisis. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/21/409896.jpg&w=400&q=100&f=jpg&t=1.2 "Traditional folk rituals like Mizudome-no-mai (dance to stop the rain) provide a sense of agency to a population that feels largely powerless in the face of the climate crisis. ")](https://www.japantimes.co.jp/news/2024/07/21/japan/society/japanese-weather-rituals-rain/ "As climate extremes intensify, Japan embraces ancient weather rituals")
 
-[The neurological disorder that 'kills culture'](https://www.japantimes.co.jp/news/2024/07/14/japan/science-health/focal-dystonia-musician-health/ "The neurological disorder that 'kills culture'")
+[As climate extremes intensify, Japan embraces ancient weather rituals](https://www.japantimes.co.jp/news/2024/07/21/japan/society/japanese-weather-rituals-rain/ "As climate extremes intensify, Japan embraces ancient weather rituals")
 
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[LDP plans to launch leadership election board next week](https://www.japantimes.co.jp/news/2024/07/20/japan/politics/ldp-leadership-election-board/ "LDP plans to launch leadership election board next week")
+[Short of _ama_ female free divers, Chiba festival turns to volunteers](https://www.japantimes.co.jp/news/2024/07/22/japan/ama-divers-volunteers/ "Short of ama female free divers, Chiba festival turns to volunteers")
 
-2 hours ago
+3 hours ago
 
-[Japan eyes new law to introduce 'active cyberdefense'](https://www.japantimes.co.jp/news/2024/07/20/japan/politics/active-cyberdefense-law/ "Japan eyes new law to introduce 'active cyberdefense'")
+[Yokohama to buy Goodyear’s off-road tire business for $905 million](https://www.japantimes.co.jp/business/2024/07/22/companies/yokohama-goodyear-off-road/ "Yokohama to buy Goodyear’s off-road tire business for $905 million")
 
-2 hours ago
+5 hours ago
 
-[Nippon Steel hires Mike Pompeo to help clinch purchase of U.S. Steel](https://www.japantimes.co.jp/business/2024/07/20/companies/nippon-steel-mike-pompeo/ "Nippon Steel hires Mike Pompeo to help clinch purchase of U.S. Steel")
+[China to allow delayed retirement to combat population woes](https://www.japantimes.co.jp/news/2024/07/22/asia-pacific/society/china-retirement-age-raise/ "China to allow delayed retirement to combat population woes")
 
-2 hours ago
+5 hours ago
 
-[U.K. defense chief to discuss joint fighter program with Italy and Japan](https://www.japantimes.co.jp/news/2024/07/20/japan/gcap-uk-japan-italy/ "U.K. defense chief to discuss joint fighter program with Italy and Japan")
+[Volkswagen and Xpeng deepen software collaboration across EVs in China](https://www.japantimes.co.jp/business/2024/07/22/tech/vw-xpeng-software-evs-china/ "Volkswagen and Xpeng deepen software collaboration across EVs in China")
 
-2 hours ago
+7 hours ago
 
-[U.S.-Japan Patriot missile production plan hits Boeing component snag](https://www.japantimes.co.jp/news/2024/07/20/japan/us-japan-patriots-component-roadblock/ "U.S.-Japan Patriot missile production plan hits Boeing component snag")
+[Nvidia preparing version of new flagship AI chip for Chinese market, sources say](https://www.japantimes.co.jp/business/2024/07/22/tech/nvidia-ai-chip-chinese-market/ "Nvidia preparing version of new flagship AI chip for Chinese market, sources say")
 
-4 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
