@@ -67,11 +67,11 @@
     
     **What’s New**
     
-    ![🚀 May 2024 Experience Updates: Ticket Management, SLAs, and Document Management are here!](https://www.salesmate.io/blog/wp-content/uploads/2024/05/may-2024-product-upate-thumbnail.jpg)
+    ![Salesmate’s July 2024 Updates: Enhancing Your CRM Experience! ](https://www.salesmate.io/wp-content/uploads/2024/07/July-2024-1.jpg)
     
-    🚀 May 2024 Experience Updates: Ticket Management, SLAs, and Document Management are here!
+    Salesmate’s July 2024 Updates: Enhancing Your CRM Experience!
     
-    [Read More](https://www.salesmate.io/blog/may-2024-experience-updates/)
+    [Read More](https://www.salesmate.io/blog/salesmate-july-2024-updates/)
     
 * [pricing](https://www.salesmate.io/pricing/)
 
