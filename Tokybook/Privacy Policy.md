@@ -1,6 +1,6 @@
     Simple Mailbox
 
-Contact 24/7
+REQUEST BOOK
 
 [Skip to content](#content "Skip to content")
 
