@@ -17,13 +17,13 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's Paris Olympics Opening Ceremony** Get tickets now to watch in IMAX Theatres!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Experience AMC Screen Unseen: July 22nd** Be the First to Watch! Film Revealed @ Showtime](https://www.fandango.com/amc-screen-unseen-july-22-237021/movie-overview?date=2024-07-22&cmp=TARS~FANDANGO~AMCSCREENUNSEEN722_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get a free ticket to see Touch** Use code TOUCH at checkout
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Get a ticket to see Despicable Me 4 in theaters** Plus a Team USA Minions T-Shirt!
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's Paris Olympics Opening Ceremony** Get tickets now to watch in IMAX Theatres!
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Ticket and a Tee pack!** Get a ticket and a Team USA Minions T-Shirt!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Save $5 on The X Trilogy Bundle** When you buy a ticket to MaXXXine
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **NBC's coverage of the Paris Olympics** Get tickets for live broadcasts in AMC Theatres!
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Buy a ticket to Bad Boys: Ride or Die** Get $5 off the Bad Boys 4-Movie Collection
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
 * **LEGOLANDOFFER 2024** Receive Promo Link with any ticket purchase
@@ -59,13 +59,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [NBC'S PARIS OLYMPICS OPENING CEREMONY image link ![NBC'S PARIS OLYMPICS OPENING CEREMONY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/25eae180-34e5-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-imaxolympicsoc-292x118.png)](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer) 
+* [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5368a700-35a8-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-dm4-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~DM4OlympicsFanatics_Footer) 
     
-    ### NBC'S PARIS OLYMPICS OPENING CEREMONY
+    ### TICKET AND A TEE PACK!
     
-    Get tickets now to watch in IMAX Theatres!
+    Get a ticket to see Illumination's Despicable Me 4 in theaters, plus a Team USA Minions T-Shirt.
     
-    [BUY NOW](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer)
+    [BUY NOW](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~DM4OlympicsFanatics_Footer)
     
 * [GET DEADPOOL'S PREMIUM PACKAGE image link ![GET DEADPOOL'S PREMIUM PACKAGE](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/da59af90-13af-11ef-a14e-3f3f55d13640--fan-globalofferunit-homepage-deadpoolpackage-292x118.png)](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer) 
     
@@ -75,21 +75,21 @@ Offers
     
     [BUY NOW](https://deadpoolandwolverine.fandango.egifter.com/?cmp=TARS~FANDANGO~DeadpoolMicrosite_Footer)
     
-* [GET A FREE TICKET TO SEE TOUCH image link ![GET A FREE TICKET TO SEE TOUCH](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b6f980d0-4536-11ef-8321-2b978811c524--fan-globalofferunit-homepage-touch-292x118.png)](https://www.fandangomovietickets.com/TouchSpecialOffer?cmp=TARS~FANDANGO~TouchTicketingOffer_Footer) 
+* [NBC'S PARIS OLYMPICS OPENING CEREMONY image link ![NBC'S PARIS OLYMPICS OPENING CEREMONY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/25eae180-34e5-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-imaxolympicsoc-292x118.png)](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer) 
     
-    ### GET A FREE TICKET TO SEE TOUCH
+    ### NBC'S PARIS OLYMPICS OPENING CEREMONY
     
-    Get a free ticket to see Touch (Up to $15 ticket price and fees) Use code TOUCH at checkout
+    Get tickets now to watch in IMAX Theatres!
     
-    [GET TICKETS](https://www.fandangomovietickets.com/TouchSpecialOffer?cmp=TARS~FANDANGO~TouchTicketingOffer_Footer)
+    [BUY NOW](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_Footer)
     
-* [TICKET AND A TEE PACK! image link ![TICKET AND A TEE PACK!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5368a700-35a8-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-dm4-olympics-292x118.png)](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~DM4OlympicsFanatics_Footer) 
+* [NBC'S COVERAGE OF THE PARIS OLYMPICS image link ![NBC'S COVERAGE OF THE PARIS OLYMPICS](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/717f5460-21fc-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-amcdailyolympics-292x118.png)](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer) 
     
-    ### TICKET AND A TEE PACK!
+    ### NBC'S COVERAGE OF THE PARIS OLYMPICS
     
-    Get a ticket to see Illumination's Despicable Me 4 in theaters, plus a Team USA Minions T-Shirt.
+    Get tickets now for the live broadcasts in AMC Theatres!
     
-    [BUY NOW](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~DM4OlympicsFanatics_Footer)
+    [BUY NOW](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_Footer)
     
 
 New & Coming soon
@@ -189,15 +189,15 @@ New & Coming soon
 
 © 2024 Fandango
 
-### Special Event
+### Get Deadpool's Premium Package Today!
 
 Close
 
-![NBC's Paris Olympics Opening Ceremony](https://images.fandango.com/cms/assets/d46e0530-3313-11ef-a07e-5b03d6159fe4--fan-globalnavbar-imaxolympicsoc-343x362.jpg)
+![Get Deadpool's Premium Package](https://images.fandango.com/cms/assets/a4c07f00-13b2-11ef-8321-2b978811c524--fan-globalnavbar-deadpoolpackage-343x362.jpg)
 
-#### Get tickets to see the 2024 Olympics Opening Ceremony in IMAX Theaters!
+#### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
 
-[Buy Tickets](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_GlobalNav)
+Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
 
 ### Experience AMC Screen Unseen: July 22nd
 
@@ -213,15 +213,25 @@ Close
 
 Limited time offer. While supplies last. Fandango Promotional Code (“Code”) is good towards the purchase of one ticket (up to $15 total ticket price and associated fees and charges) to see Touch at Fandango partner theaters in the US. Code expires, and can no longer be used, upon the earlier of 7/30/24, or when Touch is no longer in theaters, or when the limit of Code redemptions has been reached. One-time use only. Code must be entered at checkout. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. Not for resale; void if sold or exchanged. You may have to pay taxes, shipping, and handling additionally. If cost of the ticket and associated fees and charges is more than maximum value of the Code, then you must pay the difference. Any price difference between the total transaction price and maximum value of the Code will not be refunded. Limit 1 Code per person. Fandango reserves the right to modify or cancel this offer at any time and without notice. The offer and redemption of the Code are subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. [Get Tickets](https://www.fandangomovietickets.com/TouchSpecialOffer?cmp=TARS~FANDANGO~TouchTicketingOffer_GlobalNav)
 
+### Special Event
+
+Close
+
+![NBC's Paris Olympics Opening Ceremony](https://images.fandango.com/cms/assets/d46e0530-3313-11ef-a07e-5b03d6159fe4--fan-globalnavbar-imaxolympicsoc-343x362.jpg)
+
+#### Get tickets to see the 2024 Olympics Opening Ceremony in IMAX Theaters!
+
+[Buy Tickets](https://www.fandango.com/nbcs-paris-olympics-opening-ceremony-in-imax-2024-236336/movie-overview?cmp=TARS~FANDANGO~IMAXOlympicsOC_GlobalNav)
+
 ### Ticket and a Tee Pack!
 
 Close
 
-![Get a ticket to see Despicable Me 4 in theaters](https://images.fandango.com/cms/assets/4ad3db60-35ac-11ef-a588-3b078e6b3d8a--fan-globalnavbar-dm4-olympics-343x362.jpg)
+![Ticket and a Tee pack!](https://images.fandango.com/cms/assets/4088fda0-454e-11ef-8321-2b978811c524--fan-globalnavbar-amcminions-olympics-343x362.jpg)
 
-#### Get a ticket to see Illumination's Despicable Me 4 in theaters, plus a Team USA Minions T-Shirt.
+#### Get a ticket to see the Paris Olympics NBCU Watch Party at AMC Theatres, plus a Team USA Minions T-Shirt.
 
-Ticket and a Tee Pack, including Fanatics Team USA Minion T-Shirt and movie ticket are non-refundable and non-exchangeable. Limited time offer. While supplies last. T-shirts are expected to be made available on Fanatics.com for selection and redemption in mid-July. See Offer Terms for full details. [Buy Now](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~DM4OlympicsFanatics_GlobalNav)
+Ticket and a Tee Pack, including Fanatics Team USA Minion T-Shirt and movie ticket are non-refundable and non-exchangeable. Limited time offer. While supplies last. T-shirts are expected to be made available on Fanatics.com for selection and redemption in mid-July. See Offer Terms for full details. [Buy Now](https://minions.fandango.egifter.com/?cmp=TARS~FANDANGO~AMCOlympicsFanatics_GlobalNav)
 
 ### Special Offer
 
@@ -242,16 +252,6 @@ Close
 #### Get tickets to see NBC's coverage of the Paris Olympics, broadcasted live in AMC Theatres!
 
 [Buy Tickets](https://www.fandango.com/paris-olympics-on-nbc-at-amc-theatres-2024-236338/movie-overview?cmp=TARS~FANDANGO~AMCDailyOlympics_GlobalNav)
-
-### Get Deadpool's Premium Package Today!
-
-Close
-
-![Get Deadpool's Premium Package](https://images.fandango.com/cms/assets/a4c07f00-13b2-11ef-8321-2b978811c524--fan-globalnavbar-deadpoolpackage-343x362.jpg)
-
-#### Get Deadpool's Premium Package - Includes 2 tickets to Deadpool & Wolverine, the Official Best Friends Necklaces, and more
-
-Deadpool’s Premium Package is non-refundable. While supplies last. Tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a package. See Offer Terms for full terms and conditions for each item included in Deadpool’s Premium Package, including full rules for the sweepstakes. [Buy Now](https://www.fandango.com/deadpoolandwolverine?cmp=TARS~FANDANGO~DeadpoolMicrosite_GlobalNav)
 
 ### Save $5 on Bad Boys 4-Movie Collection
 
