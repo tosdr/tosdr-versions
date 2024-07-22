@@ -544,7 +544,7 @@ We’re hop­ing to rely on our loy­al read­ers rather than errat­ic ads. To 
     
     ![](https://www.openculture.com/wp-content/plugins/native-lazyload/assets/images/placeholder.svg "click to reload")
     
-    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1721421364&formid=1 "click to reload")
+    ![](https://www.openculture.com/wp-admin/admin-ajax.php?action=mailster_coolcaptcha_img&nocache=1721608315&formid=1 "click to reload")
     
 * About Us
     --------
@@ -889,4 +889,4 @@ All rights reserved.
 
 Open Culture was founded by [Dan Colman.](https://www.linkedin.com/in/dancolman "Linkedin")
 
-![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/f377272a60a9164a162d75aaff5d47af.gif "Cleantalk Pixel")
+![Cleantalk Pixel](https://moderate9-v4.cleantalk.org/pixel/d43fe864f371f4682b376383cd7c9fa8.gif "Cleantalk Pixel")
