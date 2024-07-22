@@ -44,13 +44,13 @@
     
     ##### 100% Apple Juice
     
-    [![Tree Top 100% Apple Juice 64 oz](https://treetop.com/wp-content/uploads/2023/11/Thumbnails_0000s_0004_Thumbnail_Apple-Juice-64oz-28700102718.png)](https://treetop.com/products/100-percent-apple-juice/ "View this product")
+    [![](https://treetop.com/wp-content/uploads/2023/11/Thumbnail_64oz-apple-juice_00028700102718.webp)](https://treetop.com/products/100-percent-apple-juice/ "View this product")
     
     Featured
     
     ##### No Sugar Added Apple Sauce Pouch
     
-    [![Tree Top Apple Sauce pouch](https://treetop.com/wp-content/uploads/2023/11/Thumbnail_TT-NSA-Apple-Pouch-Render-28700144930.png)](https://treetop.com/products/no-sugar-added-apple-sauce-pouch/ "View this product")
+    [![](https://treetop.com/wp-content/uploads/2023/11/Thumbnail_TT-NSA-Apple-Pouch-Render-28700144930.webp)](https://treetop.com/products/no-sugar-added-apple-sauce-pouch/ "View this product")
     
 * [Health & Life](https://treetop.com/health-and-life/)
     
