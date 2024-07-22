@@ -198,7 +198,7 @@ About Us
     
     [Overview](https://www.unibocconi.eu/en/about-us/international-networks)
     
-    * [CIVICA, the European University of Social Sciences](https://www.unibocconi.eu/en/about-us/international-relations/civica-european-university-social-sciences)
+    * [CIVICA, the European University of Social Sciences](https://www.unibocconi.eu/en/about-us/international-networks/civica-european-university-social-sciences)
     
 * Diversity, Equity and Inclusion
     
