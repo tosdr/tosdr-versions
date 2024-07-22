@@ -1,6 +1,4 @@
-[![wyng logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2040'%3E%3C/svg%3E)
-
-![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
+[![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
 
 * Platform
     * * * Platform
@@ -44,9 +42,7 @@
 * [Free Trial](https://www.wyng.com/trial/)
 * [Contact Sales](https://www.wyng.com/how-to-buy/)
 
-[![wyng logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2040'%3E%3C/svg%3E)
-
-![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
+[![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
 
 * Platform
     * Platform
