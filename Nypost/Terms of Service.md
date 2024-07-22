@@ -71,9 +71,9 @@ Search
 
 Search
 
-#### Breaking News
+#### Live updates
 
-[CrowdStrike CEO speaks out after failed tech update causes worldwide chaos at airports and banks](https://nypost.com/2024/07/19/us-news/crowdstrike-ceo-george-kurtz-speaks-out-after-failed-tech-update-causes-worldwide-chaos-at-airports-and-banks/)
+[Biden endorses Kamala Harris as Dem nominee after dropping out — follow The Post's live blog for updates](https://nypost.com/2024/07/21/us-news/biden-drops-out-of-presidential-race-live-updates-reactions-photos/)
 
 Terms Of Use
 ============
