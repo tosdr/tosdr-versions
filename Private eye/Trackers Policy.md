@@ -359,20 +359,6 @@ However, the GDPR and the DPA contain an exemption which allows us not to apply 
 
 MORE TOP STORIES ONLINE
 
-[![American psyche ](https://www.private-eye.co.uk/pictures/news/small/trump-shooting.jpg)](http://www.private-eye.co.uk/news)
-
-[American psyche](http://www.private-eye.co.uk/news)  
-The blame game over Trump shooting
-
-News, Issue 1628
-
-[![Farm hands ](https://www.private-eye.co.uk/pictures/street_of_shame/small/clarkson.jpg)](http://www.private-eye.co.uk/issue-1627/street-of-shame)
-
-[Farm hands](http://www.private-eye.co.uk/issue-1627/street-of-shame)  
-The Sunday Times helps its own
-
-Street Of Shame, Issue 1627
-
 [![Bench press](https://www.private-eye.co.uk/pictures/hp_sauce/small/jo-white.jpg)](http://www.private-eye.co.uk/hp-sauce)
 
 [Bench press](http://www.private-eye.co.uk/hp-sauce)  
@@ -380,19 +366,33 @@ Labour's ones to watch
 
 HP Sauce, Issue 1628
 
+[![Day in the Sun  ](https://www.private-eye.co.uk/pictures/street_of_shame/small/starmer-terrace.jpg)](http://www.private-eye.co.uk/issue-1626/street-of-shame)
+
+[Day in the Sun](http://www.private-eye.co.uk/issue-1626/street-of-shame)  
+Starmer wooing Murdoch's paper
+
+Street Of Shame, Issue 1626
+
+[![Taking cover ](https://www.private-eye.co.uk/pictures/in_the_back/small/ppe.jpg)](http://www.private-eye.co.uk/issue-1627/in-the-back)
+
+[Taking cover](http://www.private-eye.co.uk/issue-1627/in-the-back)  
+PPE profiteers' offshore moves
+
+In The Back, Issue 1627
+
 ALSO IN THIS ISSUE
+
+[![HP Sauce](https://www.private-eye.co.uk/pictures/hp_sauce/thumb/thumb.gif)](https://www.private-eye.co.uk/hp-sauce) [HP Sauce](https://www.private-eye.co.uk/hp-sauce)  
+[Latest stories](https://www.private-eye.co.uk/hp-sauce)  
+[more »](https://www.private-eye.co.uk/hp-sauce)
+
+[![News](https://www.private-eye.co.uk/pictures/news/thumb/thumb.gif)](https://www.private-eye.co.uk/news) [News](https://www.private-eye.co.uk/news)  
+[Top Stories](https://www.private-eye.co.uk/news)  
+[more »](https://www.private-eye.co.uk/news)
 
 [![In The Back](https://www.private-eye.co.uk/pictures/in_the_back/thumb/thumb.gif)](https://www.private-eye.co.uk/in-the-back) [In The Back](https://www.private-eye.co.uk/in-the-back)  
 [The latest stories](https://www.private-eye.co.uk/in-the-back)  
 [more »](https://www.private-eye.co.uk/in-the-back)
-
-[![Number](https://www.private-eye.co.uk/pictures/number_crunching/thumb/thumb.gif)](https://www.private-eye.co.uk/number-crunching) [Number](https://www.private-eye.co.uk/number-crunching)  
-[Crunching](https://www.private-eye.co.uk/number-crunching)  
-[more »](https://www.private-eye.co.uk/number-crunching)
-
-[![Crossword](https://www.private-eye.co.uk/pictures/crossword/thumb/thumb.gif)](https://www.private-eye.co.uk/crossword) [Crossword](https://www.private-eye.co.uk/crossword)  
-[Win a cash prize](https://www.private-eye.co.uk/crossword)  
-[more »](https://www.private-eye.co.uk/crossword)
 
 ONLY IN THE MAGAZINE
 
@@ -436,28 +436,28 @@ VIEWING ISSUE 1628
 
 [![](https://www.private-eye.co.uk/pictures/adverts/mpu/overseas.png)](http://www.subsonline.co.uk/) 
 
-ALSO AVAILABLE ONLINE
+MORE FROM PRIVATE EYE
 
-[![](https://www.private-eye.co.uk/pictures/boxes/covid-casebook.png)](https://www.private-eye.co.uk/books/dr-hammonds-covid-casebook)[Books](https://www.private-eye.co.uk/books/dr-hammonds-covid-casebook)
+[![](https://www.private-eye.co.uk/pictures/boxes/special-reports.png)](https://www.private-eye.co.uk/special-reports)[Special Reports](https://www.private-eye.co.uk/special-reports)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/covers.png)](https://www.private-eye.co.uk/covers)[Covers Library](https://www.private-eye.co.uk/covers)
+[![](https://www.private-eye.co.uk/pictures/boxes/gift.png)](http://www.subsonline.co.uk/)[Gift Subscriptions](http://www.subsonline.co.uk/)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/60-yearbook.png)](https://www.private-eye.co.uk/books/the-60-yearbook)[The 60 Yearbook](https://www.private-eye.co.uk/books/the-60-yearbook)
+[![](https://www.private-eye.co.uk/pictures/boxes/page-94.png)](https://www.private-eye.co.uk/podcast)[Page 94 Podcast](https://www.private-eye.co.uk/podcast)
 
-[![](https://www.private-eye.co.uk/pictures/boxes/eyeplayer.png)](https://www.private-eye.co.uk/eyeplayer)[EyePlayer](https://www.private-eye.co.uk/eyeplayer)
+[![](https://www.private-eye.co.uk/pictures/boxes/subscriptions.png)](http://www.subsonline.co.uk/)[Subscriptions](http://www.subsonline.co.uk/)
 
   
   
 
 [SPECIAL REPORTS](http://www.private-eye.co.uk/special-reports)
 
-[![Profits Of Doom](https://www.private-eye.co.uk/pictures/special_reports/v-profits-of-doom.jpg)](https://www.private-eye.co.uk/special-reports/profits-of-doom) [Profits Of Doom](https://www.private-eye.co.uk/special-reports/profits-of-doom)
-
-[![Tax Havens](https://www.private-eye.co.uk/pictures/special_reports/v-tax-havens.jpg)](https://www.private-eye.co.uk/special-reports/tax-havens) [Tax Havens](https://www.private-eye.co.uk/special-reports/tax-havens)
-
 [![Shoot The Messenger](https://www.private-eye.co.uk/pictures/special_reports/v-shoot-the-messenger.jpg)](https://www.private-eye.co.uk/special-reports/shoot-the-messenger) [Shoot The Messenger](https://www.private-eye.co.uk/special-reports/shoot-the-messenger)
 
 [![London's Closed Courts](https://www.private-eye.co.uk/pictures/special_reports/v-closed-courts.jpg)](https://www.private-eye.co.uk/special-reports/londons-closed-courts) [London's Closed Courts](https://www.private-eye.co.uk/special-reports/londons-closed-courts)
+
+[![Lockerbie - The Flight From Justice](https://www.private-eye.co.uk/pictures/special_reports/v-lockerbie.jpg)](https://www.private-eye.co.uk/special-reports/lockerbie) [Lockerbie - The Flight From Justice](https://www.private-eye.co.uk/special-reports/lockerbie)
+
+[![Tax Havens](https://www.private-eye.co.uk/pictures/special_reports/v-tax-havens.jpg)](https://www.private-eye.co.uk/special-reports/tax-havens) [Tax Havens](https://www.private-eye.co.uk/special-reports/tax-havens)
 
 [![gnitty](https://www.private-eye.co.uk/grfx/logos/gnitty-footer.png)](http://www.private-eye.co.uk/contact)
 
