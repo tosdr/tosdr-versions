@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» организовала летний отдых для детей из приграничных районов Белгородской области](https://cdn.er.ru/media/news/July2024/2fWtYD86OJF6L7I0cxsK-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-letnij-otdyh-dlya-detej-iz-prigranichnyh-rajonov-belgorodskoj-oblasti)
+[![«Единая Россия» проводит неделю водных видов спорта марафона «Сила России»](https://cdn.er.ru/media/news/July2024/gmb733VzqCDYTeHFU5vy-small.png)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-vodnyh-vidov-sporta-marafona-sila-rossii)
 
-[«Единая Россия» организовала летний отдых для детей из приграничных районов Белгородской области](https://er.ru/activity/news/edinaya-rossiya-organizovala-letnij-otdyh-dlya-detej-iz-prigranichnyh-rajonov-belgorodskoj-oblasti)
+[«Единая Россия» проводит неделю водных видов спорта марафона «Сила России»](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-vodnyh-vidov-sporta-marafona-sila-rossii)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#детскийотдых](https://er.ru/activity/news?tags%5B0%5D=106418) [#летнийотдых](https://er.ru/activity/news?tags%5B0%5D=110164) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#марафон](https://er.ru/activity/news?tags%5B0%5D=2873) [#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [#лето](https://er.ru/activity/news?tags%5B0%5D=53) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньВМФ](https://er.ru/activity/news?tags%5B0%5D=110070) [водныевидыспорта](https://er.ru/activity/news?tags%5B0%5D=153325)
 
-Сегодня 09:25
+Сегодня 14:58
 
-[![Лариса Швалкене, куратор Молодёжного парламента при заксобрании Калининградской области: Конкурс законотворческих инициатив объединит молодёжь в стремлении к разработке решений общественных проблем](https://cdn.er.ru/media/news/July2024/wwR7SWuMHxvigsjLXtwp-small.jpg)](https://er.ru/activity/news/larisa-shvalkene-kurator-molodyozhnogo-parlamenta-pri-zaksobranii-kaliningradskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-obedinit-molodyozh-v-stremlenii-k-razrabotke-reshenij-obshestvennyh-problem)
+[![Владимир Васильев: «Единая Россия» и Минобрнауки продолжат совместную работу по увеличению финансирования науки](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/vladimir-vasilev-edinaya-rossiya-i-minobrnauki-prodolzhat-sovmestnuyu-rabotu-po-uvelicheniyu-finansirovaniya-nauki)
 
-[Лариса Швалкене, куратор Молодёжного парламента при заксобрании Калининградской области: Конкурс законотворческих инициатив объединит молодёжь в стремлении к разработке решений общественных проблем](https://er.ru/activity/news/larisa-shvalkene-kurator-molodyozhnogo-parlamenta-pri-zaksobranii-kaliningradskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-obedinit-molodyozh-v-stremlenii-k-razrabotke-reshenij-obshestvennyh-problem)
+[Владимир Васильев: «Единая Россия» и Минобрнауки продолжат совместную работу по увеличению финансирования науки](https://er.ru/activity/news/vladimir-vasilev-edinaya-rossiya-i-minobrnauki-prodolzhat-sovmestnuyu-rabotu-po-uvelicheniyu-finansirovaniya-nauki)
 
-[#Калининградская область](https://er.ru/activity/news?tags%5B0%5D=780) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
+[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Фальков](https://er.ru/activity/news?tags%5B0%5D=42929) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#президиумфракции](https://er.ru/activity/news?tags%5B0%5D=142781) [#наука](https://er.ru/activity/news?tags%5B0%5D=354)
 
-19.07.24
+Сегодня 14:15
 
-[![Алёна Герасименко, член Молодёжного парламента при Госдуме от Ярославской области: Конкурс законотворческих инициатив является уникальной возможностью внести вклад в развитие страны](https://cdn.er.ru/media/news/July2024/Nd9S5OJn4SlrMD7YXJut-small.jpg)](https://er.ru/activity/news/alyona-gerasimenko-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-yaroslavskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-yavlyaetsya-unikalnoj-vozmozhnostyu-vnesti-vklad-v-razvitie-strany)
+[![«Единая Россия» передала оборудование и воду в медучреждения Херсонской области](https://cdn.er.ru/media/news/July2024/19vtonK7BYf1JPisphI2-small.png)](https://er.ru/activity/news/edinaya-rossiya-peredala-oborudovanie-i-vodu-v-meduchrezhdeniya-hersonskoj-oblasti)
 
-[Алёна Герасименко, член Молодёжного парламента при Госдуме от Ярославской области: Конкурс законотворческих инициатив является уникальной возможностью внести вклад в развитие страны](https://er.ru/activity/news/alyona-gerasimenko-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-yaroslavskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-yavlyaetsya-unikalnoj-vozmozhnostyu-vnesti-vklad-v-razvitie-strany)
+[«Единая Россия» передала оборудование и воду в медучреждения Херсонской области](https://er.ru/activity/news/edinaya-rossiya-peredala-oborudovanie-i-vodu-v-meduchrezhdeniya-hersonskoj-oblasti)
 
-[#Ярославская область](https://er.ru/activity/news?tags%5B0%5D=2445) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#Молодежный парламент](https://er.ru/activity/news?tags%5B0%5D=1090130) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
+[#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=134793) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
 
-19.07.24
+Сегодня 10:58
 
-[![Владимир Якушев встретился с активом первичных отделений «Единой России» и молодогвардейцами Магнитогорска](https://cdn.er.ru/media/news/July2024/5NQ3qS40k0h4m9d6eofK-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-aktivom-pervichnyh-otdelenij-edinoj-rossii-i-molodogvardejcami-magnitogorska)
+[![Передвижная выставка трофейной техники НАТО «Сила V правде – гордость и победа» открылась в Кургане](https://cdn.er.ru/media/news/July2024/dgVsCw9AFKcUgpkSEAQb-small.png)](https://er.ru/activity/news/peredvizhnaya-vystavka-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda-otkrylas-v-kurgane)
 
-[Владимир Якушев встретился с активом первичных отделений «Единой России» и молодогвардейцами Магнитогорска](https://er.ru/activity/news/vladimir-yakushev-vstretilsya-s-aktivom-pervichnyh-otdelenij-edinoj-rossii-i-molodogvardejcami-magnitogorska)
+[Передвижная выставка трофейной техники НАТО «Сила V правде – гордость и победа» открылась в Кургане](https://er.ru/activity/news/peredvizhnaya-vystavka-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda-otkrylas-v-kurgane)
 
-[#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#благоустройствогорода](https://er.ru/activity/news?tags%5B0%5D=122041) [#Магнитогорск](https://er.ru/activity/news?tags%5B0%5D=916) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#Текслер](https://er.ru/activity/news?tags%5B0%5D=131613) [#Рашников](https://er.ru/activity/news?tags%5B0%5D=10684)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#передвижнаявыставка](https://er.ru/activity/news?tags%5B0%5D=135712) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Курганская область](https://er.ru/activity/news?tags%5B0%5D=957) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-19.07.24
+Сегодня 10:09
 
-[![Алексей Тришков, член Молодёжного парламента при Госдуме от Марий Эл: Конкурс законотворческих инициатив позволит органам власти услышать инициативы молодёжи](https://cdn.er.ru/media/news/July2024/NuirPwIM41wGe55DElQp-small.jpg)](https://er.ru/activity/news/aleksej-trishkov-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-marij-el-konkurs-zakonotvorcheskih-iniciativ-pozvolit-organam-vlasti-uslyshat-iniciativy-molodyozhi)
+[![«Единая Россия» завершила выдвижение кандидатов на основных уровнях выборов](https://cdn.er.ru/media/news/July2024/EC71VlOoqLEHsydx0AwW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zavershila-vydvizhenie-kandidatov-na-osnovnyh-urovnyah-vyborov)
 
-[Алексей Тришков, член Молодёжного парламента при Госдуме от Марий Эл: Конкурс законотворческих инициатив позволит органам власти услышать инициативы молодёжи](https://er.ru/activity/news/aleksej-trishkov-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-marij-el-konkurs-zakonotvorcheskih-iniciativ-pozvolit-organam-vlasti-uslyshat-iniciativy-molodyozhi)
+[«Единая Россия» завершила выдвижение кандидатов на основных уровнях выборов](https://er.ru/activity/news/edinaya-rossiya-zavershila-vydvizhenie-kandidatov-na-osnovnyh-urovnyah-vyborov)
 
-[#Республика Марий Эл](https://er.ru/activity/news?tags%5B0%5D=1090104) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Молодежный парламент](https://er.ru/activity/news?tags%5B0%5D=1090130) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#выдвижение кандидатов](https://er.ru/activity/news?tags%5B0%5D=26605) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
 
-19.07.24
+Сегодня 09:54
 
-[![Кристина Малхасян, член Молодёжного парламента при Госдуме от Воронежской области: Конкурс законотворческих инициатив направлен на популяризацию парламентской деятельности среди молодёжи](https://cdn.er.ru/media/news/July2024/EzjMBJmsI2reo5cYce1u-small.jpg)](https://er.ru/activity/news/kristina-malhasyan-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-voronezhskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-napravlen-na-populyarizaciyu-parlamentskoj-deyatelnosti-sredi-molodyozhi)
+[![«Единая Россия»: более 160 тысяч человек посетили выставку «Сила V правде – гордость и победа» в Челябинске](https://cdn.er.ru/media/news/July2024/Ed0Hw1ROru90SxP5hCNy-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-bolee-160-tysyach-chelovek-posetili-vystavku-sila-v-pravde-gordost-i-pobeda-v-chelyabinske)
 
-[Кристина Малхасян, член Молодёжного парламента при Госдуме от Воронежской области: Конкурс законотворческих инициатив направлен на популяризацию парламентской деятельности среди молодёжи](https://er.ru/activity/news/kristina-malhasyan-chlen-molodyozhnogo-parlamenta-pri-gosdume-ot-voronezhskoj-oblasti-konkurs-zakonotvorcheskih-iniciativ-napravlen-na-populyarizaciyu-parlamentskoj-deyatelnosti-sredi-molodyozhi)
+[«Единая Россия»: более 160 тысяч человек посетили выставку «Сила V правде – гордость и победа» в Челябинске](https://er.ru/activity/news/edinaya-rossiya-bolee-160-tysyach-chelovek-posetili-vystavku-sila-v-pravde-gordost-i-pobeda-v-chelyabinske)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#Молодежный парламент](https://er.ru/activity/news?tags%5B0%5D=1090130) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инициативы](https://er.ru/activity/news?tags%5B0%5D=2868)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566)
 
-19.07.24
+20.07.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
