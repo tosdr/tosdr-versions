@@ -13,6 +13,7 @@ en
 [](https://www.the-qrcode-generator.com/mycodes)[](https://www.the-qrcode-generator.com/mycodes)
 
 Privacy Policy
+==============
 
 Thank you for using the-qrcode-generator.com! Here we describe what information we collect, why we collect it and how we handle it.
 
