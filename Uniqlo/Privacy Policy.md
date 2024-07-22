@@ -408,10 +408,8 @@ Contact UNIQLO Indonesia
 
  ![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png) CHAT SUPPORT
 
-* Click "CHAT SUPPORT" button to open a window on the page to start chatting with our ChatBot
-* Please note that our IQ Chatbot Support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
-* In the case our IQ Chatbot Support is unable to answer your inquiry, one of our Customer Support members will assist you further.  
-    IQ Chat Support Operating Hours: 9 am - 6 pm(Including weekends and Public Holidays)
+* Our IQ Chatbot support is available 24/7 to answer your frequently asked questions in a chat format. Live Chat Support is available Mon-Sun, 9 am - 6 pm
+* Please note that our IQ Chatbot support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
 
   
 
@@ -432,10 +430,8 @@ Inquiry
 
  ![](https://www.uniqlo.com/jp/cs/img/UNIQLOIQlogo2.png) CHAT SUPPORT
 
-* Click "CHAT SUPPORT" button to open a window on the page to start chatting with our ChatBot
-* Please note that our IQ Chatbot Support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
-* In the case our IQ Chatbot Support is unable to answer your inquiry, one of our Customer Support members will assist you further.  
-    IQ Chat Support Operating Hours: 9 am - 6 pm(Including weekends and Public Holidays)
+* Our IQ Chatbot support is available 24/7 to answer your frequently asked questions in a chat format. Live Chat Support is available Mon-Sun, 9 am - 6 pm
+* Please note that our IQ Chatbot support cannot recognize specific information such as order numbers, delivery status, personal information, and product names
 
 [By Email](https://faq-id.uniqlo.com/contactusen/)
 
