@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Cadastro Único Benedito Bentes começa a atender população da parte alta](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/8/csm_CAD-Maceio-reproducao-assessoria_7997039ea7.jpeg)
+   [![Mulher e adolescente são resgatadas após caírem em fossa de quase 6 metros de profundidade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/7/csm_Bombeiros_assessori_6057c7461a.jpg)
 
-unidade exclusiva
+No Santos Dumont
 
-Cadastro Único Benedito Bentes começa a atender população da parte alta](https://www.tnh1.com.br/noticia/nid/cadastro-unico-benedito-bentes-comeca-a-atender-populacao-da-parte-alta/ "Cadastro Único Benedito Bentes começa a atender população da parte alta")   [![Vídeos: protesto por falta de água causa bloqueio de trecho da Ladeira do Óleo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/7/csm_incendio_ladeira_do_oleo_-protesto_-_foto_divulgacao_6b0d101b59.jpg)
+Mulher e adolescente são resgatadas após caírem em fossa de quase 6 metros de profundidade](https://www.tnh1.com.br/noticia/nid/mulher-e-adolescente-sao-resgatadas-apos-cairem-em-fossa-de-quase-6-metros-de-profundidade/ "Mulher e adolescente são resgatadas após caírem em fossa de quase 6 metros de profundidade")   [![Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_UPA-Benedito-Bentes_-_Foto_Ascom_Isac_29c959ea00.jpg)
 
-população na bronca
+No Benedito Bentes
 
-Vídeos: protesto por falta de água causa bloqueio de trecho da Ladeira do Óleo](https://www.tnh1.com.br/noticia/nid/videos-protesto-por-falta-de-agua-causa-bloqueio-de-trecho-da-ladeira-do-oleo/ "Vídeos: protesto por falta de água causa bloqueio de trecho da Ladeira do Óleo")   [![Braskem planta mais de 1.800 árvores em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/6/csm_braskem-plantio-maceio_812323a866.jpeg)
+Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://www.tnh1.com.br/noticia/nid/crianca-e-baleada-na-cabeca-apos-tiroteio-provocado-por-grupo-encapuzado-mulher-tambem-ficou-ferida/ "Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida")   [![Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
 
-Meio Ambiente
+No Benedito Bentes
 
-Braskem planta mais de 1.800 árvores em Maceió](https://www.tnh1.com.br/noticia/nid/braskem-planta-mais-de-1800-arvores-em-maceio/ "Braskem planta mais de 1.800 árvores em Maceió")   [![Homem é preso em flagrante por armazenar e compartilhar cenas de abuso sexual infantil](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/c/csm_operacao_ponto_a_ponto_5_policia_federal_b5f6f68318.jpeg)
+Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-estuprar-cunhada-apos-deixar-esposa-dormindo-em-quarto/ "Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto")   [![Vídeo: carro bate em poste e pega fogo nesta madrugada no Petrópolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_incendio_carro_maceio_2651dd889a.jpg)
 
-Operação Ponto a Ponto
+assustou população
 
-Homem é preso em flagrante por armazenar e compartilhar cenas de abuso sexual infantil](https://www.tnh1.com.br/noticia/nid/homem-e-preso-em-flagrante-por-armazenar-e-compartilhar-cenas-de-abuso-sexual-infantil/ "Homem é preso em flagrante por armazenar e compartilhar cenas de abuso sexual infantil")   [![Jovem em situação de rua é atacado de surpresa e esfaqueado nas costas no Barro Duro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/9/csm_csm_UPA_do_Jacintinho_-_Foto_Carla_Cleto_3389c59758_58f78e3eba.jpg)
+Vídeo: carro bate em poste e pega fogo nesta madrugada no Petrópolis](https://www.tnh1.com.br/noticia/nid/video-carro-bate-em-poste-e-pega-fogo-nesta-madrugada-no-petropolis/ "Vídeo: carro bate em poste e pega fogo nesta madrugada no Petrópolis")   [![Ônibus pega fogo e chamas assustam motoristas em Maceió; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/6/csm_onibus-pega-fogo-reproducao-cortesia_663e81adf7.png)
 
-Foi socoriddo
+trânsito
 
-Jovem em situação de rua é atacado de surpresa e esfaqueado nas costas no Barro Duro](https://www.tnh1.com.br/noticia/nid/jovem-em-situacao-de-rua-e-atacado-de-surpresa-e-esfaqueado-nas-costas-no-barro-duro/ "Jovem em situação de rua é atacado de surpresa e esfaqueado nas costas no Barro Duro")   [![Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta Verde](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/f/csm_Turista_Queda_007282610e.jpeg)
+Ônibus pega fogo e chamas assustam motoristas em Maceió; veja vídeo](https://www.tnh1.com.br/noticia/nid/onibus-pega-fogo-e-chamas-assustam-motoristas-em-maceio-veja-video/ "Ônibus pega fogo e chamas assustam motoristas em Maceió; veja vídeo")   [![Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/2/csm_Acidente_em_Maceio_-_foto_cortesia_4b39bccd2b.jpg)
 
-Maceió
+na marília mendonça
 
-Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta Verde](https://www.tnh1.com.br/noticia/nid/turista-argentina-fica-ferida-ao-cair-de-patinete-no-marco-dos-corais-em-ponta-verde/ "Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta Verde")
+Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió](https://www.tnh1.com.br/noticia/nid/idoso-e-vitima-de-acidente-com-capotamento-de-carro-na-parte-alta-de-maceio/ "Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Turista argentina fica ferida ao cair de patinete no Marco dos Corais, em Ponta 
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/2/csm_csm_Praia_de_Jatiuca_-_Foto_Paulo_Victor_Malta_-_TNH1_c4dfd843cf_a1cae05989.jpeg)
+   [![TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_TRE-arquivo_TNH1_041b51aab4_e47c25aa8b_1ada2f54a1.jpg)
+
+Alagoas
+
+TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://www.tnh1.com.br/noticia/nid/tre-lanca-manual-para-os-registros-de-candidaturas-e-cartilha-de-propaganda-eleitoral/ "TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral")   [![Van que voltava de festival se envolve em acidente e dois morrem em Água Branca ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_acidente_aguabranca__3__852772f019.jpeg)
+
+tragédia no trânsito
+
+Van que voltava de festival se envolve em acidente e dois morrem em Água Branca](https://www.tnh1.com.br/noticia/nid/van-que-voltava-de-festival-se-envolve-em-acidente-e-dois-morrem-em-agua-branca/ "Van que voltava de festival se envolve em acidente e dois morrem em Água Branca ")    [![Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_csm_Praia_de_Jatiuca_-_Foto_Paulo_Victor_Malta_-_TNH1_c4dfd843cf_a1cae05989.jpeg)
 
 balneabilidade
 
-Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-sao-os-10-trechos-improprios-para-banho-no-litoral-de-alagoas/ "Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas")   [![Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/7/csm_Chuva_e_sol_em_Maceio_-_foto_TNH1_b1c9b7c5ca.jpeg)
+Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-sao-os-10-trechos-improprios-para-banho-no-litoral-de-alagoas/ "Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas")   [![Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_Chuva_e_sol_em_Maceio_-_foto_TNH1_b1c9b7c5ca.jpeg)
 
 confira a lista
 
-Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://www.tnh1.com.br/noticia/nid/inmet-dispara-alerta-de-chuvas-para-58-cidades-de-alagoas-ate-a-noite-de-sabado/ "Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado")   [![Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/c/csm_feira_discos_arapiraca_7e0dff3399.jpeg)
+Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://www.tnh1.com.br/noticia/nid/inmet-dispara-alerta-de-chuvas-para-58-cidades-de-alagoas-ate-a-noite-de-sabado/ "Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado")   [![Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/c/csm_feira_discos_arapiraca_7e0dff3399.jpeg)
 
 Alagoas
 
-Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://www.tnh1.com.br/noticia/nid/feira-de-discos-de-arapiraca-traz-venda-de-raridades-e-shows-gratuitos-neste-sabado/ "Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado")   [![Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_chuva_-_maceio_-_foto_caio_lui_tv_pajucara_6c746bf479.jpeg)
+Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://www.tnh1.com.br/noticia/nid/feira-de-discos-de-arapiraca-traz-venda-de-raridades-e-shows-gratuitos-neste-sabado/ "Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado")   [![Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_chuva_-_maceio_-_foto_caio_lui_tv_pajucara_6c746bf479.jpeg)
 
 programe-se
 
-Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões](https://www.tnh1.com.br/noticia/nid/final-de-semana-tem-minima-de-18o-c-em-alagoas-confira-a-previsao-para-todas-as-regioes/ "Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ")    [![Apagão cibernético afeta serviços bancários em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_uso_de_smartphone_e_celular050720211245-agencia-brasil_d6d4ee75de.jpg)
-
-Alagoas
-
-Apagão cibernético afeta serviços bancários em Alagoas](https://www.tnh1.com.br/noticia/nid/apagao-cibernetico-afeta-servicos-bancarios-em-alagoas/ "Apagão cibernético afeta serviços bancários em Alagoas")   [![Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibernético, diz Aena](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/1/csm_csm_Aeroporto_Zumbi_dos_Palmares-SEMTEL-fotos-Jonathan-Lins-6_d26fca10ce_6d07057cc2.jpg)
-
-Sem problemas
-
-Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibernético, diz Aena](https://www.tnh1.com.br/noticia/nid/aeroporto-zumbi-dos-palmares-esta-funcionando-normalmente-apos-apagao-cibernetico-diz-aena/ "Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibernético, diz Aena")
+Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões](https://www.tnh1.com.br/noticia/nid/final-de-semana-tem-minima-de-18o-c-em-alagoas-confira-a-previsao-para-todas-as-regioes/ "Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ") 
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Aeroporto Zumbi dos Palmares está funcionando normalmente após apagão cibern�
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Policial que fez sexo com mulher na areia da praia de Ponta Verde é indiciado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/a/csm_sexo-praia-ponta-verde-reproducao_f141a9cdf8.png)
+   [![Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/7/csm_operacao-na-base-do-sossego-apreende-15-aparelhos-de-som-em-bairros-de-maceio_d272865c25.jpg)
 
-turista
+'base do sossego'
 
-Policial que fez sexo com mulher na areia da praia de Ponta Verde é indiciado](https://www.tnh1.com.br/noticia/nid/policial-que-fez-sexo-com-mulher-na-areia-da-praia-de-ponta-verde-e-indiciado/ "Policial que fez sexo com mulher na areia da praia de Ponta Verde é indiciado")   [![Mulher morta a facadas e deixada em carro abandonado estava sem calças; polícia suspeita de estupro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_mulher_morta_em_sao_paulo_-_foto_arquivo_pessoal_eac4c281e7.jpg)
+Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://www.tnh1.com.br/noticia/nid/quinze-aparelhos-de-som-sao-apreendidos-em-maceio-nesse-fim-de-semana/ "Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana")   [![Polícia investiga tiroteio que deixou menina de 11 anos ferida na cabeça ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/f/csm_fachada_DHPP_8fbbe2ab9b.jpeg)
 
-Em São Paulo
+Polícia
 
-Mulher morta a facadas e deixada em carro abandonado estava sem calças; polícia suspeita de estupro](https://www.tnh1.com.br/noticia/nid/mulher-morta-a-facadas-e-deixada-em-carro-abandonado-estava-sem-calcas-policia-suspeita-de-estupro/ "Mulher morta a facadas e deixada em carro abandonado estava sem calças; polícia suspeita de estupro")   [![Mais de 30 kg de maconha são apreendidos em residencial de Arapiraca; traficante é preso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/d/csm_grande_apreensao_maconha_-_foto_pm_5abefe8422.jpg)
+Polícia investiga tiroteio que deixou menina de 11 anos ferida na cabeça](https://www.tnh1.com.br/noticia/nid/policia-investiga-tiroteio-que-deixou-menina-de-11-anos-ferida-na-cabeca/ "Polícia investiga tiroteio que deixou menina de 11 anos ferida na cabeça ")    [![Vigilante rende homem com faca após invasão de escola de cegos no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_escola_estadual_de_cegos_ciro_accyoli_foto_google_street_view_a9c3c0581d.jpg)
 
-45 dias investigando
+suspeito de furto
 
-Mais de 30 kg de maconha são apreendidos em residencial de Arapiraca; traficante é preso](https://www.tnh1.com.br/noticia/nid/mais-de-30-kg-de-maconha-sao-apreendidos-em-residencial-de-arapiraca-traficante-e-preso/ "Mais de 30 kg de maconha são apreendidos em residencial de Arapiraca; traficante é preso")   [![Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/9/csm_video_tiros_ponta_grossa_24-4-24_c505279436.jpg)
+Vigilante rende homem com faca após invasão de escola de cegos no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/vigilante-rende-homem-com-faca-apos-invasao-de-escola-de-cegos-no-centro-de-maceio/ "Vigilante rende homem com faca após invasão de escola de cegos no Centro de Maceió")   [![Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_UPA-Benedito-Bentes_-_Foto_Ascom_Isac_29c959ea00.jpg)
 
-fez tocaia
+No Benedito Bentes
 
-Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto](https://www.tnh1.com.br/noticia/nid/crime-na-ponta-grossa-veja-o-que-disse-enteado-segundos-antes-de-matar-padrasto/ "Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ")   [![Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_csm_assassinato_ponta_grossa_735c862428_8a37fdb4b1.jpg)
+Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://www.tnh1.com.br/noticia/nid/crianca-e-baleada-na-cabeca-apos-tiroteio-provocado-por-grupo-encapuzado-mulher-tambem-ficou-ferida/ "Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida")   [![Mulher é agredida e companheiro é preso após ser flagrado com faca suja de sangue ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_prisao_agressor_delmiro_gouveia_-_foto_pm_751bb40aa6.jpg)
 
-suspeito de 29 anos
+em Delmiro Gouveia
 
-Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://www.tnh1.com.br/noticia/nid/policia-prende-jovem-que-matou-padrasto-com-tiro-a-queima-roupa-em-rua-da-ponta-grossa/ "Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa")   [![Polícia conclui investigação contra falsa médica que atendia em famoso centro médico de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/5/csm_csm_Nutricionista-Pixabay_510a57f8a7_fb3b9c4905.jpg)
+Mulher é agredida e companheiro é preso após ser flagrado com faca suja de sangue](https://www.tnh1.com.br/noticia/nid/mulher-e-agredida-e-companheiro-e-preso-apos-ser-flagrado-com-faca-suja-de-sangue/ "Mulher é agredida e companheiro é preso após ser flagrado com faca suja de sangue ")   [![Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
 
-veja crimes
+No Benedito Bentes
 
-Polícia conclui investigação contra falsa médica que atendia em famoso centro médico de Maceió](https://www.tnh1.com.br/noticia/nid/policia-conclui-investigacao-contra-falsa-medica-que-atendia-em-famoso-centro-medico-de-maceio/ "Polícia conclui investigação contra falsa médica que atendia em famoso centro médico de Maceió")
+Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-estuprar-cunhada-apos-deixar-esposa-dormindo-em-quarto/ "Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -120,27 +120,9 @@ Polícia conclui investigação contra falsa médica que atendia em famoso centr
 
 Pessoas & Negócios
 
-Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária](https://www.tnh1.com.br/noticia/nid/alagoas-ganha-dois-representantes-no-conselho-nacional-de-autorregulamentacao-publicitaria/ "Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária")   [![Fernanda Studart: Gerente de Marketing do Parque Shopping faz idade nova](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/a/csm_Fernanda_Studart_a6042850d8.jpeg)
-
-Pessoas & Negócios
-
-Fernanda Studart: Gerente de Marketing do Parque Shopping faz idade nova](https://www.tnh1.com.br/noticia/nid/fernanda-studart-gerente-de-marketing-do-parque-shopping-faz-idade-nova/ "Fernanda Studart: Gerente de Marketing do Parque Shopping faz idade nova")   [![Moda alagana ganha projeção nacional](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/d/csm_montagem_lu_90c23a8155.png)
-
-Pessoas & Negócios
-
-Moda alagana ganha projeção nacional](https://www.tnh1.com.br/noticia/nid/moda-alagana-ganha-projecao-nacional/ "Moda alagana ganha projeção nacional")
+Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária](https://www.tnh1.com.br/noticia/nid/alagoas-ganha-dois-representantes-no-conselho-nacional-de-autorregulamentacao-publicitaria/ "Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária")
 
 [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
-
-Últimas de Literatura
-
-[Leia tudo sobre Literatura](https://www.tnh1.com.br/index.php?id=789 "Ir para Literatura")
-
-   [![Entregador é assassinado durante atentado na frente de pizzaria em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/0/csm_Entregador_Pizza_Morte_Rio_Largo_f0bbe2a614.jpeg)
-
-Artigos
-
-Entregador é assassinado durante atentado na frente de pizzaria em Rio Largo](https://www.tnh1.com.br/noticia/nid/entregador-e-assassinado-durante-atentado-na-frente-de-pizzaria-em-rio-largo/ "Entregador é assassinado durante atentado na frente de pizzaria em Rio Largo")
 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
@@ -216,73 +198,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/a/csm_guarda_municipal_ead08fd80b.png)
+[![Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_csm_motel_maribondo_0775499f0b_984df6bd73.jpeg)
 
-Concursos
+Em Maribondo
 
-Concursos
+Em Maribondo
 
-Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção
+Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime
 
-Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção](https://www.tnh1.com.br/noticia/nid/guarda-municipal-de-maceio-vai-lancar-concurso-publico-24-anos-depois-da-ultima-selecao/ "Guarda Municipal de Maceió vai lançar concurso público 24 anos depois da última seleção")[![Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/9/csm_video_tiros_ponta_grossa_24-4-24_359b3baae5.jpg)
+Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime](https://www.tnh1.com.br/noticia/nid/vitimas-de-chacina-em-motel-sao-identificadas-veja-o-que-se-sabe-sobre-o-crime/ "Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime ")[![Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
 
-fez tocaia
+No Benedito Bentes
 
-fez tocaia
+No Benedito Bentes
 
-Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto
+Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto
 
-Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto](https://www.tnh1.com.br/noticia/nid/crime-na-ponta-grossa-veja-o-que-disse-enteado-segundos-antes-de-matar-padrasto/ "Crime na Ponta Grossa: veja o que disse enteado segundos antes de matar padrasto ")[![Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/e/csm_filha-deputado-morta-tiros-reproducao_73c9e021d3.jpg)
+Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-estuprar-cunhada-apos-deixar-esposa-dormindo-em-quarto/ "Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto")[!["Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_confusao-metro-homem-aranha-reproducao_fd48f650de.jpg)
 
-26 anos
+EM MG
 
-26 anos
+EM MG
 
-Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros
+"Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo
 
-Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-filha-do-deputado-gilberto-cattani-que-foi-assassinada-a-tiros/ "Saiba quem é a filha do deputado Gilberto Cattani que foi assassinada a tiros ")[![Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/d/csm_csm_assassinato_ponta_grossa_735c862428_220d60fd94.jpg)
+"Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo](https://www.tnh1.com.br/noticia/nid/homem-aranha-e-atacado-em-metro-e-joga-passageiro-nos-trilhos-veja-video/ ""Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo ")[![Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_UPA-Benedito-Bentes_-_Foto_Ascom_Isac_d2e3a6c406.jpg)
 
-suspeito de 29 anos
+No Benedito Bentes
 
-suspeito de 29 anos
+No Benedito Bentes
 
-Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa
+Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida
 
-Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa](https://www.tnh1.com.br/noticia/nid/policia-prende-jovem-que-matou-padrasto-com-tiro-a-queima-roupa-em-rua-da-ponta-grossa/ "Polícia prende jovem que matou padrasto com tiro à queima-roupa em rua da Ponta Grossa")
+Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://www.tnh1.com.br/noticia/nid/crianca-e-baleada-na-cabeca-apos-tiroteio-provocado-por-grupo-encapuzado-mulher-tambem-ficou-ferida/ "Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida")
 
-[![Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/6/csm_rocha-brilhante-divulgacao-nasa_5c900bf968.jpg)
+[![Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_defensoria_foto_divulgacao_324c818202.png)
 
-primeira evidência
+Mercado de Trabalho
 
-primeira evidência
+Mercado de Trabalho
 
-Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte
+Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova
 
-Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte](https://www.tnh1.com.br/noticia/nid/robo-da-nasa-quebra-rocha-sem-querer-e-descobre-material-inedito-em-marte/ "Robô da Nasa quebra rocha sem querer e descobre material inédito em Marte")[![Argentina se desculpa com França após polêmica de vice sobre canto racista](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/d/csm_jogadores-argentina-musica-racista-reproducao_c65b71a971.jpg)
+Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova](https://www.tnh1.com.br/noticia/nid/defensoria-publica-abre-vagas-para-estagio-em-direito-em-igaci-e-igreja-nova/ "Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova")[![TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_TRE-arquivo_TNH1_041b51aab4_e47c25aa8b_65475825b0.jpg)
 
-CRISE DIPLOMÁTICA
+Alagoas
 
-CRISE DIPLOMÁTICA
+Alagoas
 
-Argentina se desculpa com França após polêmica de vice sobre canto racista
+TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral
 
-Argentina se desculpa com França após polêmica de vice sobre canto racista](https://www.tnh1.com.br/noticia/nid/argentina-se-desculpa-com-franca-apos-polemica-de-vice-sobre-canto-racista/ "Argentina se desculpa com França após polêmica de vice sobre canto racista")[![Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/a/csm_tributacao-pauta-governo-shopee-divulgacao_e16983613d.jpeg)
+TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://www.tnh1.com.br/noticia/nid/tre-lanca-manual-para-os-registros-de-candidaturas-e-cartilha-de-propaganda-eleitoral/ "TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral")[![Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_prouni_4ebef7b49c.png)
 
-novo imposto
+Educação
 
-novo imposto
+Educação
 
-Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data
+Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo
 
-Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data](https://www.tnh1.com.br/noticia/nid/taxa-das-blusinhas-sera-cobrada-ainda-neste-mes-por-aliexpress-e-shopee-veja-data/ "Taxa das blusinhas' será cobrada ainda neste mês por Aliexpress e Shopee; veja data ")[![Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/e/csm_Celular__redes_sociais_-_foto_Pexels_48bfbfda7d.jpeg)
+Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo](https://www.tnh1.com.br/noticia/nid/inscricoes-para-o-prouni-abrem-nesta-terca-feira-veja-o-passo-a-passo/ "Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo ")[![Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/7/csm_operacao-na-base-do-sossego-apreende-15-aparelhos-de-som-em-bairros-de-maceio_0da716e5c7.jpg)
 
-efeitos indiretos
+'base do sossego'
 
-efeitos indiretos
+'base do sossego'
 
-Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos
+Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana
 
-Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos](https://www.tnh1.com.br/noticia/nid/problemas-causados-pelo-apagao-global-de-tecnologia-podem-levar-dias-ate-serem-corrigidos/ "Problemas causados pelo apagão global de tecnologia podem levar dias até serem corrigidos")
+Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://www.tnh1.com.br/noticia/nid/quinze-aparelhos-de-som-sao-apreendidos-em-maceio-nesse-fim-de-semana/ "Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
