@@ -1,82 +1,28 @@
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://rossmanngroup.com/wp-content/uploads/2022/12/Rossmann-long-ff.png)](https://rossmanngroup.com/)
+[![](https://rossmanngroup.com/wp-content/uploads/2022/12/Rossmann-long-ff.png)](https://rossmanngroup.com/)
 
 Menu
 
 * [MacBook Repair](http://rossmanngroup.com/macbook-repair)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer.png)
-        
-        Water Damage Repair](http://rossmanngroup.com/macbook-water-damage-repair/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2030'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer-1.png)
-        
-        Not turning on](http://rossmanngroup.com/macbook-not-turning-on/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer-screen.png)
-        
-        Cracked Screen](http://rossmanngroup.com/macbook-screen-replacement/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/power.png)
-        
-        Battery Not Charging?](http://rossmanngroup.com/macbook-battery-not-charging/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/biometrics.png)
-        
-        Trackpad](http://rossmanngroup.com/macbook-trackpad-not-working/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/keyboard.png)
-        
-        Keyboard](https://rossmanngroup.com/macbook-keyboard-replacement/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer-2.png)
-        
-        Overheating](http://rossmanngroup.com/macbook-overheating/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/monitor.png)
-        
-        Broken Hinge](http://rossmanngroup.com/broken-macbook-hinge/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/05/pc-tower.png)
-        
-        USB ports not working](http://rossmanngroup.com/macbook-usb-ports-not-working/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer.png)Water Damage Repair](http://rossmanngroup.com/macbook-water-damage-repair/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer-1.png)Not turning on](http://rossmanngroup.com/macbook-not-turning-on/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer-screen.png)Cracked Screen](http://rossmanngroup.com/macbook-screen-replacement/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/power.png)Battery Not Charging?](http://rossmanngroup.com/macbook-battery-not-charging/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/biometrics.png)Trackpad](http://rossmanngroup.com/macbook-trackpad-not-working/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/keyboard.png)Keyboard](https://rossmanngroup.com/macbook-keyboard-replacement/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/computer-2.png)Overheating](http://rossmanngroup.com/macbook-overheating/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/monitor.png)Broken Hinge](http://rossmanngroup.com/broken-macbook-hinge/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/05/pc-tower.png)USB ports not working](http://rossmanngroup.com/macbook-usb-ports-not-working/)
     
 * [Lab Data Recovery](https://rossmanngroup.com/data-recovery-service-austin/)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/hard-disk-1.png)
-        
-        Hard Drive Data Recovery](https://rossmanngroup.com/data-recovery-service-austin/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/smartphone.png)
-        
-        iPhone Data Recovery](https://rossmanngroup.com/iphone-data-recovery/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/smartphone-1.png)
-        
-        Samsung Galaxy data recovery](https://rossmanngroup.com/samsung-galaxy-android-phone-data-recovery/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/hard-disk-1.png)Hard Drive Data Recovery](https://rossmanngroup.com/data-recovery-service-austin/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/smartphone.png)iPhone Data Recovery](https://rossmanngroup.com/iphone-data-recovery/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/smartphone-1.png)Samsung Galaxy data recovery](https://rossmanngroup.com/samsung-galaxy-android-phone-data-recovery/)
     
 * [About Us](https://rossmanngroup.com/about-us/)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/faq.png)
-        
-        FAQ](http://rossmanngroup.com/faq/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/faq.png)FAQ](http://rossmanngroup.com/faq/)
         
         * [Can Hard Drive Data Be Recovered?](https://rossmanngroup.com/can-hard-drive-data-be-recovered/)
         * [Can Geek Squad Help Recover Data from a Hard Drive?](https://rossmanngroup.com/can-geek-squad-recover-your-data/)
@@ -97,44 +43,24 @@ Menu
         * [What happens during data recovery?](https://rossmanngroup.com/what-happens-during-data-recovery/)
         * [Do data recovery companies look at your files?](https://rossmanngroup.com/do-data-recovery-companies-look-at-your-files/)
         * [Does putting a hard drive in the freezer really work?](https://rossmanngroup.com/does-putting-a-hard-drive-in-the-freezer-really-work/)
+        * [How to Recover Files from a Dead Laptop](https://rossmanngroup.com/how-to-recover-files-from-a-dead-laptop/)
+        * [How to Fix a Hard Disk Not Detected in BIOS Without Losing Data](https://rossmanngroup.com/how-to-fix-a-hard-disk-not-detected-in-bios-without-losing-data/)
+        * [How to Recover Data from a Broken USB Flash Drive](https://rossmanngroup.com/how-to-recover-data-from-a-broken-usb-flash-drive/)
+        * [What Causes Hard Drives to Fail?](https://rossmanngroup.com/what-causes-hard-drives-to-fail/)
         
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/computer-4.png)
-        
-        Blog](https://rossmanngroup.com/blog)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/computer-3.png)
-        
-        Our Reviews](https://rossmanngroup.com/reviews/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/computer-4.png)Blog](https://rossmanngroup.com/blog)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/computer-3.png)Our Reviews](https://rossmanngroup.com/reviews/)
     * [Weren’t you in New York? What happened?](https://rossmanngroup.com/werent-you-in-new-york-what-happened/)
     
 * [Mail-In Repair](https://rossmanngroup.com/mail-in-macbook-repair/)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/van.png)
-        
-        Mail-in Instructions](https://rossmanngroup.com/mail-in-macbook-repair/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/computer-3.png)
-        
-        Mail-in Form](https://rossmanngroup2.repairshopr.com/wf/mail-in-estimate/start)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/australia.png)
-        
-        MacBook Repair in Australia by Paul Daniels](https://rossmanngroup.com/macbook-repair-in-australia/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/van.png)Mail-in Instructions](https://rossmanngroup.com/mail-in-macbook-repair/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/computer-3.png)Mail-in Form](https://rossmanngroup2.repairshopr.com/wf/mail-in-estimate/start)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/australia.png)MacBook Repair in Australia by Paul Daniels](https://rossmanngroup.com/macbook-repair-in-australia/)
     
 * [Contact](https://rossmanngroup.com/contact/)
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2013%2013'%3E%3C/svg%3E)
-        
-        ![](http://rossmanngroup.com/wp-content/uploads/2022/07/monitor-1.png)
-        
-        Board Repair Forum](https://boards.rossmanngroup.com/)
+    * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/monitor-1.png)Board Repair Forum](https://boards.rossmanngroup.com/)
     
 * [Online Store](https://store.rossmanngroup.com/)
     
