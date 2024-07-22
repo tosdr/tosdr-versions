@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-164 Views
+167 Views
 
 Report
 
@@ -287,239 +287,233 @@ You may also like
 
 HD
 
- [![A Frog in Winter](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-frog-in-winter/)8
+ [![Much Ado](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/much-ado/)10
 
-### [A Frog in Winter](https://playtube.pk/a-frog-in-winter/)
+### [Much Ado](https://playtube.pk/much-ado/)
 
-2011 18 min _Movie_
+2022 116 min _Movie_
 
-A Frog in Winter
+Much Ado
 
-8 2011 18 min HD
+10 2022 116 min HD
 
-Benjamin's wife died in his arms after a long fight against a disease. He can't take suicide off his mind but a young Japanese woman will help him though his mourning.
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/a-frog-in-winter/)
-
-HD
-
- [![2012: Ice Age](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/2012-ice-age/)4.5
-
-### [2012: Ice Age](https://playtube.pk/2012-ice-age/)
-
-2011 91 min _Movie_
-
-2012: Ice Age
-
-4.5 2011 91 min HD
-
-A volcanic eruption in Iceland sends a glacier towards North America, causing everything in it's path to freeze. A family man struggles to escape the onslaught of the coming ice age.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
-
-[](#)[Watch Now](https://playtube.pk/2012-ice-age/)
-
-HD
-
- [![Junk Space Berlin](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/junk-space-berlin/)0
-
-### [Junk Space Berlin](https://playtube.pk/junk-space-berlin/)
-
-2023 108 min _Movie_
-
-Junk Space Berlin
-
-0 2023 108 min HD
-
-Welcome to the marginal deviation of reality. An inexplicable rift runs through the dystopian Berlin of tomorrow, where four outsiders venture on a mission to find their missing friend ...
-
-Country: [Germany](https://playtube.pk/country/germany/)
-
-Genre: [Mystery](https://playtube.pk/category/mystery/), [Science Fiction](https://playtube.pk/category/science-fiction/)
-
-[](#)[Watch Now](https://playtube.pk/junk-space-berlin/)
-
-HD
-
- [![Rock-A-Doodle](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rock-a-doodle/)6.2
-
-### [Rock-A-Doodle](https://playtube.pk/rock-a-doodle/)
-
-1991 77 min _Movie_
-
-Rock-A-Doodle
-
-6.2 1991 77 min HD
-
-Chanticleer is a foolhardy farm rooster who believes his crows can actually make the sun come up and shine. When the sun rises one morning without Chanticleer's crow, he leaves the farm ...
-
-Country: [Ireland](https://playtube.pk/country/ireland/)
-
-Genre: [Animation](https://playtube.pk/category/animation/), [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/rock-a-doodle/)
-
-HD
-
- [![Purchè finisca bene – Se mi lasci ti sposo](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/purche-finisca-bene-se-mi-lasci-ti-sposo/)6.8
-
-### [Purchè finisca bene – Se mi lasci ti sposo](https://playtube.pk/purche-finisca-bene-se-mi-lasci-ti-sposo/)
-
-2022 0 min _Movie_
-
-Purchè finisca bene – Se mi lasci ti sposo
-
-6.8 2022 0 min HD
-
-Country: [Italy](https://playtube.pk/country/italy/)
-
-Genre: [Comedy](https://playtube.pk/category/comedy/), [TV Movie](https://playtube.pk/category/tv-movie/)
-
-[](#)[Watch Now](https://playtube.pk/purche-finisca-bene-se-mi-lasci-ti-sposo/)
-
-HD
-
- [![What Separates Us](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/what-separates-us/)6.3
-
-### [What Separates Us](https://playtube.pk/what-separates-us/)
-
-2016 90 min _Movie_
-
-What Separates Us
-
-6.3 2016 90 min HD
-
-A young brawler falls in love with a beautiful artist and must choose between his support system and his dreams.
-
-Country: [USA](https://playtube.pk/country/usa/)
-
-Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
-
-[](#)[Watch Now](https://playtube.pk/what-separates-us/)
-
-HD
-
- [![Smile with heart](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/smile-with-heart/)8
-
-### [Smile with heart](https://playtube.pk/smile-with-heart/)
-
-2019 92 min _Movie_
-
-Smile with heart
-
-8 2019 92 min HD
-
-Paco is a young man who has gone through many difficulties since he was orphaned, he had to work hard as a clown in the streets of Guanajuato to be able to stay. One day, Paco meets ...
-
-Country: [Mexico](https://playtube.pk/country/mexico/)
+Hero and Beatrice, cousins and best friends, have very different approaches to love. Beatrice, burned once, is fiercely avoiding her arrogant ex-boyfriend Benedick and has sworn off men ...
 
 Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
 
-[](#)[Watch Now](https://playtube.pk/smile-with-heart/)
+[](#)[Watch Now](https://playtube.pk/much-ado/)
 
 HD
 
- [![Simple Passion](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/simple-passion/)4.9
+ [![Norwegian Ninja](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/norwegian-ninja/)4.8
 
-### [Simple Passion](https://playtube.pk/simple-passion/)
+### [Norwegian Ninja](https://playtube.pk/norwegian-ninja/)
 
-2021 99 min _Movie_
+2010 77 min _Movie_
 
-Simple Passion
+Norwegian Ninja
 
-4.9 2021 99 min HD
+4.8 2010 77 min HD
 
-A man and a woman are brought together by chance for several months. He is younger than she is, married, Russian, officially a diplomat stationed in Paris. She is a beautiful teacher ...
+Norwegian Ninja is the true story of how Commander Arne Treholt and his Ninja Force saved Norway during the Cold War. In 1983 the Ninja Force discovers that the sinister NATO force Stay ...
 
-Country: [Belgium](https://playtube.pk/country/belgium/)
+Country: [Norway](https://playtube.pk/country/norway/)
 
-Genre: [Drama](https://playtube.pk/category/drama/), [Romance](https://playtube.pk/category/romance/)
+Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
 
-[](#)[Watch Now](https://playtube.pk/simple-passion/)
-
-HD
-
- [![Padre Pio](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/padre-pio/)5
-
-### [Padre Pio](https://playtube.pk/padre-pio/)
-
-2023 104 min _Movie_
-
-Padre Pio
-
-5 2023 104 min HD
-
-It is the end of World War I and the young Italian soldiers are making their way back to San Giovanni Rotondo, a land of poverty, with a tradition of violence and submission to the ...
-
-Country: [Germany](https://playtube.pk/country/germany/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/padre-pio/)
+[](#)[Watch Now](https://playtube.pk/norwegian-ninja/)
 
 HD
 
- [![Hearth](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/hearth/)0
+ [![Giant Snake Incident at Yellow River](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/giant-snake-incident-at-yellow-river/)6
 
-### [Hearth](https://playtube.pk/hearth/)
+### [Giant Snake Incident at Yellow River](https://playtube.pk/giant-snake-incident-at-yellow-river/)
 
-2019 13 min _Movie_
+2023 84 min _Movie_
 
-Hearth
+Giant Snake Incident at Yellow River
 
-0 2019 13 min HD
+6 2023 84 min HD
 
-An arsonist-for-hire faces moral complications while on a difficult job, exacerbated when another criminal chooses the same house and same night for his crimes.
+Country: [China](https://playtube.pk/country/china/)
+
+Genre: [Adventure](https://playtube.pk/category/adventure/), [Fantasy](https://playtube.pk/category/fantasy/)
+
+[](#)[Watch Now](https://playtube.pk/giant-snake-incident-at-yellow-river/)
+
+HD
+
+ [![Hollywood.Con](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/hollywood-con/)4
+
+### [Hollywood.Con](https://playtube.pk/hollywood-con/)
+
+2021 101 min _Movie_
+
+Hollywood.Con
+
+4 2021 101 min HD
+
+Every hot production company in Los Angeles is in a race to make the next big Mayan movie: hurry quick, sell out your company, and do whatever it takes.
+
+Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
+
+[](#)[Watch Now](https://playtube.pk/hollywood-con/)
+
+HD
+
+ [![How Tommy Lemenchick Became a Grade 7 Legend](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/how-tommy-lemenchick-became-a-grade-7-legend/)7.5
+
+### [How Tommy Lemenchick Became a Grade 7 Legend](https://playtube.pk/how-tommy-lemenchick-became-a-grade-7-legend/)
+
+2017 10 min _Movie_
+
+How Tommy Lemenchick Became a Grade 7 Legend
+
+7.5 2017 10 min HD
+
+Ophelia is a whip-smart 12-year-old girl who must solve a vexing problem: she’s never been kissed. There are several candidates in her class, but none have Tommy Lemenchick’s smile.
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
+
+[](#)[Watch Now](https://playtube.pk/how-tommy-lemenchick-became-a-grade-7-legend/)
+
+HD
+
+ [![Camp Murder](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/camp-murder/)6
+
+### [Camp Murder](https://playtube.pk/camp-murder/)
+
+2022 73 min _Movie_
+
+Camp Murder
+
+6 2022 73 min HD
+
+In August of 1984, seven very stereotypical teenagers head up to their local summer camp. Little do they know, the movie is called Camp Murder. A loving throwback to cheap and cheesy ...
 
 Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/camp-murder/)
+
+HD
+
+ [![Beyond Fury](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/beyond-fury/)0
+
+### [Beyond Fury](https://playtube.pk/beyond-fury/)
+
+2019 113 min _Movie_
+
+Beyond Fury
+
+0 2019 113 min HD
+
+Ex-Mercenary Michael Walker and his pregnant girlfriend Claudia are brutally attacked. Now with Claudia and the unborn child dead, Walker reverts to his military training to hunt down ...
+
+Country: [UK](https://playtube.pk/country/uk/)
 
 Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
 
-[](#)[Watch Now](https://playtube.pk/hearth/)
+[](#)[Watch Now](https://playtube.pk/beyond-fury/)
 
 HD
 
- [![Lajjpal](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/lajjpal/)0
+ [![Thug](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/thug/)0
 
-### [Lajjpal](https://playtube.pk/lajjpal/)
+### [Thug](https://playtube.pk/thug/)
 
-2024 203 min _Movie_
+2024 0 min _Movie_
 
-Lajjpal
+Thug
 
-0 2024 203 min HD
+0 2024 0 min HD
 
-"Lajjpal" is a compelling narrative following the journey of an ordinary individual seeking divine empowerment to combat the malevolence of evil forces. Fueled by a deep sense of ...
+An aging gangster attempts to reconnect with his children and rectify the mistakes in his past, but the criminal underworld won't loosen their grip willingly.
 
-Country: [India](https://playtube.pk/country/india/)
+Country: [USA](https://playtube.pk/country/usa/)
 
-Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
+Genre: [Crime](https://playtube.pk/category/crime/), [Drama](https://playtube.pk/category/drama/)
 
-[](#)[Watch Now](https://playtube.pk/lajjpal/)
+[](#)[Watch Now](https://playtube.pk/thug/)
 
 HD
 
- [![Le principal](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/le-principal/)5.5
+ [![Boy Gets Eaten](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/boy-gets-eaten/)5.3
 
-### [Le principal](https://playtube.pk/le-principal/)
+### [Boy Gets Eaten](https://playtube.pk/boy-gets-eaten/)
 
-2023 82 min _Movie_
+2018 25 min _Movie_
 
-Le principal
+Boy Gets Eaten
 
-5.5 2023 82 min HD
+5.3 2018 25 min HD
 
-Sabri Lahlali, the assistant principal of a local high school, is ready to do anything to ensure that his son, who is about to take his high school diploma, has the ideal academic ...
+A boy is pressured to lose his virginity, and now his childhood trauma will no longer be ignored.
 
-Country: [France](https://playtube.pk/country/france/)
+Country: [Norway](https://playtube.pk/country/norway/)
+
+Genre: [Horror](https://playtube.pk/category/horror/)
+
+[](#)[Watch Now](https://playtube.pk/boy-gets-eaten/)
+
+HD
+
+ [![Rio Negro](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rio-negro/)0
+
+### [Rio Negro](https://playtube.pk/rio-negro/)
+
+2023 0 min _Movie_
+
+Rio Negro
+
+0 2023 0 min HD
+
+Country: [Brazil](https://playtube.pk/country/brazil/)
+
+Genre: [Documentary](https://playtube.pk/category/documentary/)
+
+[](#)[Watch Now](https://playtube.pk/rio-negro/)
+
+HD
+
+ [![Circle](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/circle/)4.1
+
+### [Circle](https://playtube.pk/circle/)
+
+2010 84 min _Movie_
+
+Circle
+
+4.1 2010 84 min HD
+
+When remorseless killer James Bennett escapes from lockdown in a mental hospital, an FBI agent and a U.S. Marshal track the madman to his hometown, where he plans to slay a group of ...
+
+Country: [USA](https://playtube.pk/country/usa/)
+
+Genre: [Horror](https://playtube.pk/category/horror/), [Thriller](https://playtube.pk/category/thriller/)
+
+[](#)[Watch Now](https://playtube.pk/circle/)
+
+HD
+
+ [![Widowed](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/widowed/)0
+
+### [Widowed](https://playtube.pk/widowed/)
+
+2023 30 min _Movie_
+
+Widowed
+
+0 2023 30 min HD
+
+A young widow tries to inhale her husband's ashes whilst struggling to come to terms with his death.
+
+Country: [UK](https://playtube.pk/country/uk/)
 
 Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
 
-[](#)[Watch Now](https://playtube.pk/le-principal/)
+[](#)[Watch Now](https://playtube.pk/widowed/)
 
 Report Content
 
