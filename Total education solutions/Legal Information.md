@@ -132,7 +132,7 @@ International schoolsUK editionAustralia edition
 Privacy Notice
 ==============
 
-LAST UPDATED 14 JULY 2024 Open all
+LAST UPDATED 21 JULY 2024 Open all
 
 Latest Changes to this Policy
 
