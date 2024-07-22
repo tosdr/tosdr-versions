@@ -217,7 +217,7 @@ Emailed Daily. Always Free!
     * [UFL](https://www.yardbarker.com/ufl)
     * [WNBA](https://www.yardbarker.com/wnba)
     * [Wrestling](https://www.yardbarker.com/wrestling)
-    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1__32807957)
+    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_13132_40102025)
     
 
 * [![](/images/icons/icon-search-white.svg)](#)
@@ -324,9 +324,9 @@ YB Media, LLC
 Burlingame, CA 94010
 
 [![Yardbarker](/images/logos/131016_YBlogos_H_line_W_T.png)](https://www.yardbarker.com/)  
-[![Playmaker](/images/logos/playmaker_white.png)](https://www.playmaker.fans/)
 
-[TERMS OF SERVICE](https://www.yardbarker.com/terms) [PRIVACY POLICY](https://www.yardbarker.com/privacy) [CONTACT US](https://www.yardbarker.com/help/contact_us) [MY ACCOUNT](https://www.yardbarker.com/favorites) [SUBSCRIBE](https://www.yardbarker.com/newsletters?sf=footer_link) [ADVERTISE](https://www.yardbarker.com/help/contact_us) [JOBS](https://www.yardbarker.com/jobs) [FAQ](https://www.yardbarker.com/help/faq)  
+[ABOUT YARDBARKER](https://www.yardbarker.com/about) [TERMS OF SERVICE](https://www.yardbarker.com/terms) [PRIVACY POLICY](https://www.yardbarker.com/privacy) [CONTACT US](https://www.yardbarker.com/help/contact_us)  
+[MY ACCOUNT](https://www.yardbarker.com/favorites) [SUBSCRIBE](https://www.yardbarker.com/newsletters?sf=footer_link) [ADVERTISE](https://www.yardbarker.com/help/contact_us) [JOBS](https://www.yardbarker.com/jobs) [FAQ](https://www.yardbarker.com/help/faq)  
 [![Flipboard](/images/icons/flipboard_white.png)](https://flipboard.com/@Yardbarker) [![Facebook](/images/icons/fb.png)](http://www.facebook.com/pages/Yardbarker/14819567244) [![Twitter](/images/icons/twitter.png)](http://twitter.com/Yardbarker)  
 FREE NEWSLETTERS
 
