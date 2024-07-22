@@ -69,7 +69,7 @@
 Sumdog Privacy Notice
 =====================
 
-**Updated April 2024**
+**Updated 22nd July 2024**
 
 This Privacy Notice tells you what Personal Information we collect, what we do with it, who can access it, and your rights in relation to your Personal Information. It forms part of [Sumdog’s Terms of Use.](https://learn.sumdog.com/en-gb/about-us/terms-of-use "/about-us/terms-of-use?hsLang=en-gb")
 
@@ -164,11 +164,13 @@ Parent User accounts are confirmed by credit/debit details input at sign up.
 
 #### **Student Users**
 
-Student User accounts are created by a teacher, parent, or guardian. Student User logins are created by Sumdog when the Student User accounts are set up. Whilst using Sumdog, Student Users will not be asked to input anything that by itself is considered Personal Information.
+Student User accounts are created by a teacher, parent, or guardian. Student User logins are created by Sumdog when the Student User accounts are set up. Whilst using Sumdog, Student Users will not be asked to input anything that by itself is considered Personal Information. Questions on Sumdog have multiple choice answers, apart from specific Maths skills and all of Spelling.
 
-When a Parent User or Teacher User submits any Personal Information relating to a Child User, the Parent User or Teacher User represents that they have the authority to do so and agrees to us using the Personal Information in accordance with this Privacy Notice and [Cookie Policy.](https://learn.sumdog.com/en/about-us/cookie-policy "/about-us/cookie-policy?hsLang=en-gb")
+When a Parent User or Teacher User submits any Personal Information relating to a Child User, the Parent User or Teacher User represents that they have the authority to do so and agrees to us using the Personal Information in accordance with this Privacy Notice and [Cookie Policy.](https://learn.sumdog.com/en/about-us/cookie-policy)
 
 Student Users can choose the visual appearance of their on screen avatar from a range of preset options. They can also specify profile details in the old interface, such as their favourite Sumdog game.
+
+Student Users earn coins for correct answers. Teacher and Parent Users can give coin rewards once per day. These are recorded in a coin ledger shown to students, along with the cost of gifts sent to friends. This information is kept for as long as the Student account exists.
 
 If we’re informed that we have collected Personal Information from anyone under 18 without permission, we will delete that Personal Information as quickly as possible. If you believe that this has happened, please contact us at [privacy@sumdog.com](mailto:privacy@sumdog.com "mailto:privacy@sumdog.com").
 
@@ -199,11 +201,13 @@ When you use Sumdog, we collect the following information automatically:
 
 ·       educational progress data, such as your accuracy and place in the curriculum, if you are a Student User
 
-Some of the information that we collect from Student Users may be accessed by the Parent Users in their Sumdog Family, or the Teacher Users linked to their Sumdog School.
+Some of the information that we collect from Student Users may be accessed by the Parent Users in their Sumdog Family, or the Teacher Users linked to their Sumdog School in the form of reports. This is to improve the understanding of how Sumdog is being used in the Family or School and to aid the Student Users.
 
 We also use analytics software to help us understand how Sumdog is used. For example, to help us optimise our email communication, we may use customised links, or small images called web beacons. These allow us to understand how our messages are received by our Users.
 
-When you use our website, Sumdog employs Cookies. For information on the Cookies that we use, please view our Cookie Policy, found here: [Cookie policy](https://learn.sumdog.com/en/about-us/cookie-policy) .
+When you use our website, Sumdog employs Cookies. For information on the Cookies that we use, [please view our Cookie Policy](https://learn.sumdog.com/en/about-us/cookie-policy). 
+
+You can change your Cookie preferences at any time by clicking the ‘Cookie Settings’ button in the footer of our company websites.  
 
 When you use our website, you may be asked to input your email address to access content. You must be 18 years of age or older to use this form. When accessing this content, we will automatically collect what you are interested in and we may email you with customised content.
 
