@@ -13,7 +13,7 @@ Search Menu
 
 Secondary Menu Search
 
-Go
+
 
 ALL CATEGORIES
 
@@ -162,10 +162,10 @@ We use a third party to provide monetization technologies for our site. You can 
 
 #### Recent Articles
 
-* [![](https://www.switchingtomac.com/wp-content/uploads/2023/06/airpods-130x85.jpeg)](https://www.switchingtomac.com/how-to-use-your-airpods-pro-controls-and-gestures/ "How to Use Your AirPods Pro Controls and Gestures")[How to Use Your AirPods Pro Controls and Gestures](https://www.switchingtomac.com/how-to-use-your-airpods-pro-controls-and-gestures/ "How to Use Your AirPods Pro Controls and Gestures")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2020/04/01-applepencil-130x85.jpeg)](https://www.switchingtomac.com/5-things-to-try-if-your-apple-pencil-is-not-working/ "5 Things To Try If Your Apple Pencil Is Not Working")[5 Things To Try If Your Apple Pencil Is Not Working](https://www.switchingtomac.com/5-things-to-try-if-your-apple-pencil-is-not-working/ "5 Things To Try If Your Apple Pencil Is Not Working")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2019/12/view-manage-delete-icloud-backups-featured-130x85.png)](https://www.switchingtomac.com/how-to-view-your-icloud-backups/ "How To View, Manage & Delete iCloud Backups")[How To View, Manage & Delete iCloud Backups](https://www.switchingtomac.com/how-to-view-your-icloud-backups/ "How To View, Manage & Delete iCloud Backups")
-* [![](https://www.switchingtomac.com/wp-content/uploads/2019/09/calendar-1-130x85.jpg)](https://www.switchingtomac.com/4-best-free-calendar-apps-for-ios/ "4 Best Free Calendar Apps For iOS")[4 Best Free Calendar Apps For iOS](https://www.switchingtomac.com/4-best-free-calendar-apps-for-ios/ "4 Best Free Calendar Apps For iOS")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2020/07/What-Is-Apple-Keychain-How-To-Use-It-130x85.png)](https://www.switchingtomac.com/what-is-apple-keychain-how-to-use-it/ "What Is Apple Keychain & How To Use It")[What Is Apple Keychain & How To Use It](https://www.switchingtomac.com/what-is-apple-keychain-how-to-use-it/ "What Is Apple Keychain & How To Use It")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2021/08/Apple-Music-sleep-timer-130x85.png)](https://www.switchingtomac.com/how-to-set-a-sleep-timer-for-apple-music-on-iphone/ "How to Set a Sleep Timer for Apple Music on iPhone")[How to Set a Sleep Timer for Apple Music on iPhone](https://www.switchingtomac.com/how-to-set-a-sleep-timer-for-apple-music-on-iphone/ "How to Set a Sleep Timer for Apple Music on iPhone")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2023/06/zpptv-130x85.jpg)](https://www.switchingtomac.com/how-to-use-a-web-browser-on-your-apple-tv/ "How to Use a Web Browser on Your Apple TV")[How to Use a Web Browser on Your Apple TV](https://www.switchingtomac.com/how-to-use-a-web-browser-on-your-apple-tv/ "How to Use a Web Browser on Your Apple TV")
+* [![](https://www.switchingtomac.com/wp-content/uploads/2018/08/Image-1-IFTT-home-page-1-130x85.png)](https://www.switchingtomac.com/automate-your-mac-and-ios-devices-with-ifttt/ "Automate Your Mac and iOS Devices with IFTTT")[Automate Your Mac and iOS Devices with IFTTT](https://www.switchingtomac.com/automate-your-mac-and-ios-devices-with-ifttt/ "Automate Your Mac and iOS Devices with IFTTT")
 
 #### Our Publishing Family
 
