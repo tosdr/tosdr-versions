@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How quickly does lung cancer develop?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-quickly-does-lung-cancer-develop.jpg "How Quickly Does Lung Cancer Develop?")](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/ "How Quickly Does Lung Cancer Develop?")
+[![What is talc used for?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-is-talc-used-for.jpg "What Is Talc Used For?")](https://www.pintas.com/talcum-powder/what-is-talc-used-for/ "What Is Talc Used For?")
 
-[#### How Quickly Does Lung Cancer Develop?](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/)
+[#### What Is Talc Used For?](https://www.pintas.com/talcum-powder/what-is-talc-used-for/)
 
-[![Is roundup harmful to dogs?](https://www.pintas.com/wp-content/uploads/2021/02/dog-watching-owner-spray-weeds-300x225.jpg "Is Roundup Harmful to Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-harmful-to-dogs/ "Is Roundup Harmful to Dogs?")
+[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
 
-[#### Is Roundup Harmful to Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/is-roundup-harmful-to-dogs/)
+[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
 
-[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
+[![What qualifies as pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-what-qualifies-as-pain-and-suffering.jpg "What Qualifies As Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/ "What Qualifies As Pain and Suffering?")
 
-[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
+[#### What Qualifies As Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
