@@ -165,7 +165,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
   
 
-“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”
+“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”
 
 – Client review of Gottman Therapist Dave Lechnyr, Eugene Oregon
 
