@@ -6,7 +6,7 @@ We use cookies and similar technologies that are necessary to run our Websites (
 
 Accept All Cookies Accept Only Essential Cookies Customize Cookies
 
-[![](/images/nutaku-logo-icon.svg?t=20220511170233)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?t=20220511170233 "Nutaku.net")](https://www.nutaku.net/home/)
+[![](/images/nutaku-logo-icon.svg?t=20220511170610)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?t=20220511170610 "Nutaku.net")](https://www.nutaku.net/home/)
 
 Search
 
@@ -65,12 +65,12 @@ Filter games by content type:
 
 * Trending Genres
 * [RPG](https://www.nutaku.net/games/rpg/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Simulation](https://www.nutaku.net/games/simulation/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
+* [Clicker](https://www.nutaku.net/games/clicker/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Strategy](https://www.nutaku.net/games/strategy/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Dating Sim](https://www.nutaku.net/games/dating-sim/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Visual Novel](https://www.nutaku.net/games/visual-novel/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Clicker](https://www.nutaku.net/games/clicker/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Puzzle](https://www.nutaku.net/games/puzzle/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
-* [Simulation](https://www.nutaku.net/games/simulation/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Adventure](https://www.nutaku.net/games/adventure/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [Fighting](https://www.nutaku.net/games/fighting/tag/platform/os/dev/pub/lang/filter/price/features/status/ranking/)
 * [VIEW ALL GENRES](https://www.nutaku.net/directory/genres/)
@@ -507,7 +507,7 @@ Oops nothing found for ""
 
 Try again, hentai warrior! We're not going anywhere. Check your spelling or try another search
 
-![](/images/nutaku-logo-icon.svg?t=20220511170233)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?t=20220511170233 "Nutaku.net")
+![](/images/nutaku-logo-icon.svg?t=20220511170610)![Nutaku.net : Best Hentai and Porn Games](/images/nutaku-logo-text.svg?t=20220511170610 "Nutaku.net")
 
 Customize Cookies
 
