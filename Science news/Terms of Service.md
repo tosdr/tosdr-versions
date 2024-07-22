@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How to stay healthy during the COVID-19 summertime surge](https://www.sciencenews.org/article/summer-covid-19-surge)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")12 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 19, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [_Twisters_ asks if you can 'tame' a tornado. We have the answer](https://www.sciencenews.org/article/twisters-movie-tame-tornado-fire)
             
-            By [Abby Wallace](https://www.sciencenews.org/author/abby-wallace "Posts by Abby Wallace")14 hours ago
+            By [Abby Wallace](https://www.sciencenews.org/author/abby-wallace "Posts by Abby Wallace")July 19, 2024
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Can light spark superconductivity? A new study reignites debate](https://www.sciencenews.org/article/light-superconductivity-cuprates)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")10 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 19, 2024
             
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
             
