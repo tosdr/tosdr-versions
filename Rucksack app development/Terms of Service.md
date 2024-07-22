@@ -48,6 +48,14 @@ If you have any questions or suggestions about my Terms and Conditions, do not h
 
 [Business photo created by yanalya – www.freepik.com](https://www.freepik.com/free-photos-vectors/business)
 
+Other web projects
+
+* [uncleboob.com](https://www.uncleboob.com/)
+* [Der Beschwerer](https://www.der-beschwerer.de/)
+* [Heidi Kraken](https://www.heidi-kraken.com/)
+* [Heidi Kraken LiFePO4 Shop](https://shop.heidi-kraken.com/)
+* [IT student computer service](https://www.informatik-student.net/)
+
 Proudly powered by [WordPress](https://wordpress.org/) | Theme: [Bulk](https://themes4wp.com/)
 
 In case you want to change your privacy settings (e.g. issue consent or revoke an already issued consent) please click on the button below. [Settings](#)
