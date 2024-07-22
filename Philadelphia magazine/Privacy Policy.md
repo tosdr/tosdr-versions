@@ -264,12 +264,6 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [Delco Pol Swears Her “A for Effort” Post Was Not About Trump](https://www.phillymag.com/news/2024/07/16/jess-branas-trump-shooting/)
+1. ### [Quiz Five – Philadelphia Magazine](https://www.phillymag.com/big-philly-quiz/quiz-five/)
     
-2. ### [Josh Shapiro Outperforms Joe Biden In New Poll](https://www.phillymag.com/news/2024/07/18/joe-biden-poll-josh-shapiro/)
-    
-3. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
-    
-4. ### [Where to Eat in Old City Philadelphia](https://www.phillymag.com/foobooz/old-city-restaurants-philadelphia/)
-    
-5. ### [Our Favorite Philly Takeout Windows for Grab-and-Go Food](https://www.phillymag.com/foobooz/takeout-windows-philadelphia/)
+2. ### [Take the Big Philly Quiz! | Philadelphia History, Sports, Music](https://www.phillymag.com/big-philly-quiz/)
