@@ -223,7 +223,7 @@ U.S. Postal Service links
 
 [![USPS logo](/root/global/images/usps_hor-logo-white.png)](https://about.usps.com/ "Go to About USPS home page")
 
-[![Facebook logo](/root/global/images/fb-icon-64.png)](https://www.facebook.com/usps "Like us on Facebook") [![Twitter logo](/root/global/images/twitter-bird-64.png)](https://www.twitter.com/usps "Follow us on Twitter") [![YouTube logo](/root/global/images/youtube-icon-64.png)](https://www.youtube.com/usps "Watch us on YouTube") [![Pinterest logo](/root/global/images/pinterest-icon-64.png)](https://pinterest.com/uspsstamps/ "View our Pinterest boards") [![Instagram logo](/root/global/images/instagram-icon-64.png)](https://www.instagram.com/uspostalservice "Follow us on Instagram") [![Postal corporate blog logo](/root/global/images/postal-posts-icon-light.png)](https://uspsblog.com/ "Visit the Postal corporate blog") [![LinkedIn logo](/root/global/images/linkedin-icon-64.png)](https://linkedin.com/company/usps "Visit USPS on LinkedIn")
+[![Facebook logo](/root/global/images/social/facebook_logo.png)](https://www.facebook.com/usps "Like us on Facebook") [![Instagram logo](/root/global/images/social/instagram_logo.png)](https://www.instagram.com/uspostalservice/?hl=en "Follow us on Instagram") [![Pinterest logo](/root/global/images/social/pinterest_logo.png)](https://pinterest.com/uspsstamps/ "View our Pinterest boards") [![Threads logo](/root/global/images/social/threads_logo.png)](https://www.threads.net/@uspostalservice?hl=en "Follow us on Threads") [![X logo (formally Twitter)](/root/global/images/social/x_logo.png)](https://x.com/usps "Follow us on X") [![YouTube logo](/root/global/images/social/youtube_logo.png)](https://www.youtube.com/usps "Watch us on YouTube") 
 
 ### USPS.com
 
