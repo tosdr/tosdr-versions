@@ -308,37 +308,37 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/ "Clint Eastwood's Longtime Partner Dead At 61")
+[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/ "Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid")
 
 1
 
-[Clint Eastwood's Longtime Partner Dead At 61](https://dailycaller.com/2024/07/19/clint-eastwood-christina-sandera-partner-dead-61/)
-
-Entertainment
-
-2
-
-[George Conway Uses Props On 'Morning Joe' In Attempt To Diagnose Trump As A 'Psychopath'](https://dailycaller.com/2024/07/19/george-conway-uses-props-on-morning-joe-in-attempt-to-diagnose-trump-as-a-psychopath/)
-
-Media
-
-3
-
-[100s Of Tracks Predating The Dinosaurs Discovered On US Man's Property](https://dailycaller.com/2024/07/19/snowflake-arizona-dinosaur-footprint-chirotherium-giant-lizard-discovered-date/)
-
-US
-
-4
-
-[REPORT: Disgusting Last Internet Search Of Thomas Matthew Crooks Before Trump Shooting Revealed](https://dailycaller.com/2024/07/19/internet-search-thomas-matthew-crooks-trump-shooting-porn/)
+[Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/)
 
 Politics
 
+2
+
+[Biden Drops Out Of Presidential Race, Endorses Kamala Harris As Replacement](https://dailycaller.com/2024/07/21/joe-biden-drops-out-presidential-race-2024/)
+
+Politics
+
+3
+
+['Kamala Was In On It': Trump-Aligned PAC Drops Anti-Kamala Harris Ad Less Than Two Hours After Biden Quit](https://dailycaller.com/2024/07/21/kamala-was-in-on-it-trump-aligned-pac-drops-harris-attack-ad-an-hour-after-biden-quit/)
+
+Media
+
+4
+
+[Ancient Fortifications Discovered In Holy Land Reveals Hidden History](https://dailycaller.com/2024/07/22/jerusalem-city-of-david-moat-discovered/)
+
+World
+
 5
 
-[Country Singer Among Hundreds Paying Tribute In Memorial Service For Firefighter Who Died During Trump Rally](https://dailycaller.com/2024/07/19/billy-ray-cyrus-tribute-memorial-service-firefighter-died-trump-rally/)
+[Hunter Biden Drops Fox News Lawsuit](https://dailycaller.com/2024/07/22/hunter-biden-drops-fox-news-lawsuit-joe-biden/)
 
-Entertainment
+Politics
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
