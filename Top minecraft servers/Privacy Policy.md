@@ -47,17 +47,17 @@ We also use third party advertisements to support our site. Some of these advert
 
 Random Server Videos
 
-[![Storyfortune Trailer](//i.ytimg.com/vi/vZTDdLEcGy8/0.jpg)  
-Storyfortune](https://topminecraftservers.org/server/35785)
+[![MineCO Trailer](//i.ytimg.com/vi/pEx3HKnUWsU/0.jpg)  
+MineCO](https://topminecraftservers.org/server/25112)
 
-[![CoolCraft Trailer](//i.ytimg.com/vi/7jIcHdK2ZJU/0.jpg)  
-CoolCraft](https://topminecraftservers.org/server/13514)
+[![Vanilla Demon Trailer](//i.ytimg.com/vi/yi-KQ3CKOQU/0.jpg)  
+Vanilla Demon](https://topminecraftservers.org/server/19736)
 
-[![The Loft MC [SMP] (play.theloftmc.com) Trailer](//i.ytimg.com/vi/84jvl9rOBWo/0.jpg)  
-The Loft MC \[SMP\] (play.theloftmc.com)](https://topminecraftservers.org/server/23034)
+[![Minehop Trailer](//i.ytimg.com/vi/SbtLo7VbOvk/0.jpg)  
+Minehop](https://topminecraftservers.org/server/37524)
 
-[![TrickCraft Trailer](//i.ytimg.com/vi/z1JBAuPjHcg/0.jpg)  
-TrickCraft](https://topminecraftservers.org/server/37459)
+[![World of Eldin Trailer](//i.ytimg.com/vi/hQHdI650jhM/0.jpg)  
+World of Eldin](https://topminecraftservers.org/server/4690)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -65,4 +65,4 @@ TrickCraft](https://topminecraftservers.org/server/37459)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.983727 seconds to load
+Page took 0.442010 seconds to load
