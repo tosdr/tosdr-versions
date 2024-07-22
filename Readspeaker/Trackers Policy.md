@@ -168,7 +168,7 @@ Solutions
 
 © ReadSpeaker B.V. All rights reserved.
 
-[linkedin](https://www.linkedin.com/company/readspeaker)[facebook](https://www.facebook.com/ReadSpeaker/)[youtube](https://www.youtube.com/channel/UC1XftPBh3QPQzoN0VW1QwWQ)[instagram](https://www.instagram.com/readspeaker/)[tiktok](https://www.tiktok.com/@readspeaker)[discord](https://okt.to/Fw4PZy)[twitter](https://twitter.com/ReadSpeaker)
+[linkedin](https://www.linkedin.com/company/readspeaker) [facebook](https://www.facebook.com/ReadSpeaker/) [youtube](https://www.youtube.com/channel/UC1XftPBh3QPQzoN0VW1QwWQ) [instagram](https://www.instagram.com/readspeaker/) [tiktok](https://www.tiktok.com/@readspeaker) [discord](https://okt.to/Fw4PZy) [twitter](https://twitter.com/ReadSpeaker)
 
 [](https://www.readspeaker.com/)
 
@@ -286,21 +286,9 @@ Lene
 Danish  
 Female
 
-![male](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Guus-P](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/guus.png)
-
-Guus-P  
-Dutch  
-Male
-
 ![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Ilse](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ilse.png)
 
 Ilse  
-Dutch  
-Female
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Ilse-P](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/ilse.png)
-
-Ilse-P  
 Dutch  
 Female
 
@@ -687,12 +675,6 @@ Female
 Kota  
 Japanese  
 Male
-
-![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Misaki_emotional](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/misaki.png)
-
-Misaki(emotional)  
-Japanese  
-Female
 
 ![female](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ja](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/jp.svg)![Nao](https://assets-www.readspeaker.com/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/nao.png)
 
