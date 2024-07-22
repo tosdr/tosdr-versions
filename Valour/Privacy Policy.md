@@ -166,7 +166,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Code](https://github.com/Valour-Software/Valour)
 * [Issues 62](https://github.com/Valour-Software/Valour/issues)
-* [Pull requests 0](https://github.com/Valour-Software/Valour/pulls)
+* [Pull requests 1](https://github.com/Valour-Software/Valour/pulls)
 * [Discussions](https://github.com/Valour-Software/Valour/discussions)
 * [Actions](https://github.com/Valour-Software/Valour/actions)
 * [Projects 0](https://github.com/Valour-Software/Valour/projects)
