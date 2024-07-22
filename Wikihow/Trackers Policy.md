@@ -138,23 +138,21 @@ Save settings
 
 ### Featured Articles
 
-[![Are You Smarter than a 5th Grader Quiz](https://www.wikihow.com/images/thumb/7/76/Are_you_smarter_than_a_fifth_grader_quiz.png/-crop-126-120-126px-Are_you_smarter_than_a_fifth_grader_quiz.png)
+[![What to Say when Someone Passes Away](https://www.wikihow.com/images/thumb/8/82/What-to-Say-when-Someone-Passes-Away-Step-17.jpg/-crop-126-120-126px-What-to-Say-when-Someone-Passes-Away-Step-17.jpg)
 
-Am I Smarter than a 5th Grader Quiz](https://www.wikihow.com/Are-You-Smarter-than-a-5th-Grader-Quiz)
+17 Comforting Things to Say When Someone Passes Away](https://www.wikihow.com/What-to-Say-when-Someone-Passes-Away)
 
-[![Write a Diary](https://www.wikihow.com/images/thumb/0/04/Write-a-Diary-Step-17-Version-4.jpg/-crop-126-120-126px-Write-a-Diary-Step-17-Version-4.jpg)
+[![Become Heartless](https://www.wikihow.com/images/thumb/c/cc/Become-Heartless-Step-14-Version-2.jpg/-crop-126-120-126px-Become-Heartless-Step-14-Version-2.jpg)
 
-How to  
-Write a Diary](https://www.wikihow.com/Write-a-Diary)
+Learn to Be Emotionless & Cope with Whatever Life Throws at You](https://www.wikihow.com/Become-Heartless)
 
-[![Be Elegant](https://www.wikihow.com/images/thumb/b/b6/Be-Elegant-Step-23.jpeg/-crop-126-120-126px-Be-Elegant-Step-23.jpeg)
+[![Be Emo](https://www.wikihow.com/images/thumb/6/66/Be-Emo-Step-14-Version-2.jpg/-crop-126-120-126px-Be-Emo-Step-14-Version-2.jpg)
 
-How to  
-Be Elegant](https://www.wikihow.com/Be-Elegant)
+How to Be Emo: A Guide to Emo Culture](https://www.wikihow.com/Be-Emo)
 
-[![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
+[![Be Romantic with Your Boyfriend](https://www.wikihow.com/images/thumb/2/29/Be-Romantic-with-Your-Boyfriend-Step-23-Version-5.jpg/-crop-126-120-126px-Be-Romantic-with-Your-Boyfriend-Step-23-Version-5.jpg)
 
-How to Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
+How to Romance Your Boyfriend](https://www.wikihow.com/Be-Romantic-with-Your-Boyfriend)
 
   
 
@@ -195,4 +193,4 @@ Follow Us
 
 \-
 
-289
+132
