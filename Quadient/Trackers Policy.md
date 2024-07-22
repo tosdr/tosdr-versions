@@ -146,17 +146,17 @@ Property Management Company slashes invoicing time with Quadient Impress Distrib
 
 Communications
 
+[![Headshot of Andrew Stevens against Quadient Connects background](https://backend.quadient.com/files/default/2024-07/thumb-blog-qconnects-ccm-consolidation-720x480.png)
+
+Making the Case for CCM Consolidation
+
+More efficiency—less cost](https://www.quadient.com/en/blog/making-case-ccm-consolidation)
+
 [![Kaspar Roos, CEO & Founder of Aspire CCS at Quadient Connects](https://backend.quadient.com/files/default/2024-06/thumb-qconnects.png)
 
 Why 2024-2025 is Pivotal to the CCM-to-CXM Evolution
 
 Insights from Aspire's keynote presentation](https://www.quadient.com/en/blog/quadient-connects-why-2024-2025-are-pivotal-ccm-cxm-evolution)
-
-[![Why your outdated CCM system is costing you more than it should](https://backend.quadient.com/files/default/2024-05/expensive_technology_blog_image_-_720_x_480p.jpg)
-
-Why your outdated customer communication management system is costing you more than it should
-
-Part 2 in our blog series "Revolutionizing Legacy Customer Communications."](https://www.quadient.com/en/blog/why-your-outdated-ccm-system-is-costing-you-more-than-it-should)
 
 About Quadient [News](https://www.quadient.com/en/news) Our story [Standard of excellence](https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](https://www.quadient.com/en/about-us/worldwide-presence) [Corporate social responsibility](https://invest.quadient.com/en-US/about-us/corporate-social-responsibility)
 
