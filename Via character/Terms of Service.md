@@ -1,7 +1,3 @@
-This website uses cookies to enhance user experience, and to analyze performance and traffic on our website. By clicking "Accept", you consent to the use of cookies as described in our [Cookie Policy](https://www.viacharacter.org/cookie-policy).
-
-Accept
-
 [Sign in](https://www.viacharacter.org/account/login)
 
 [0](https://www.viacharacter.org/combinedstore/shoppingcart)
