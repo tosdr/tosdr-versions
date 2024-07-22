@@ -1,150 +1,37 @@
-![](https://www.facebook.com/tr?id=3344828648888954&ev=PageView&noscript=1)    
+![hamburger-menu](https://website.cdn.speechify.com/hamburger-menu-1.svg)
 
-[Skip to content](#primary)
+[![speechify-light](https://website.cdn.speechify.com/speechify-light.svg)](https://speechify.com/)
 
-[![](https://speechify.com/wp-content/themes/speechify-custom/assets/images/SpeechifyLogo-test.svg)](https://speechify.com/)
+[Text to Speech](https://speechify.com/text-to-speech-online/)
 
-[Download now](https://speechify.com/onboarding/quiz/intro/)
+[AI Voice Generator](https://speechify.com/voiceover/)
 
-* [Text to Speech](https://speechify.com/text-to-speech-online/)
-    * [![Online](https://speechify.com/wp-content/uploads/sites/29/2023/06/speechify-icon-2.svg)
-        
-        ![Online](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Text to SpeechListen & organize your files in your browser](https://speechify.com/text-to-speech-online/)
-    *  [![iPhone & iPad app](https://speechify.com/wp-content/uploads/sites/29/2023/06/ios-2.svg)
-        
-        ![iPhone & iPad app](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E) iPhone & iPad appListen on the go on your Apple devices](https://speechify.com/text-to-speech-ios/)
-    * [![Chrome extension](https://speechify.com/wp-content/uploads/sites/29/2023/06/chrome-2.svg)
-        
-        ![Chrome extension](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Chrome extensionListen to Google docs, web articles, Gmail, Twitter, and more](https://speechify.com/text-to-speech-chrome-extension/)
-    * [![Android app](https://speechify.com/wp-content/uploads/sites/29/2023/06/android-2.svg)
-        
-        ![Android app](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Android appListen on the go on your Android device](https://speechify.com/text-to-speech-android/)
-    * [![Mac app](https://speechify.com/wp-content/uploads/sites/29/2023/06/iMac-2.svg)
-        
-        ![Mac app](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Mac appListen everywhere on your computer](https://speechify.com/text-to-speech-mac/)
-    * [![PDF Reader](https://speechify.com/wp-content/uploads/sites/29/2023/08/speechify-pdf-reader.svg)
-        
-        ![PDF Reader](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)PDF ReaderA PDF Reader that Reads Out Loud](https://speechify.com/pdf-reader/)
-    * [![Edge Add-on](https://speechify.com/wp-content/uploads/sites/29/2023/09/ms-edge-tts.svg)
-        
-        ![Edge Add-on](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Edge Add-onTurn text into natural sounding voice in Microsoft Edge](https://speechify.com/edge-text-to-speech-extension/)
-    
-    * [![TTS for Education](https://speechify.com/wp-content/uploads/2024/03/edu-nav-icon3.svg)
-        
-        ![TTS for Education](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)TTS for EducationTalk to sales & request a free demo](https://speechify.com/edu/)[![TTS for Business](https://speechify.com/wp-content/uploads/2024/03/ttso-bussiness-nav-icon.svg)
-        
-        ![TTS for Business](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)TTS for BusinessTalk to sales & request a free demo](https://speechify.com/tts-for-business/)
-* [AI Voice Generator](https://speechify.com/voiceover/)
-    * [![AI Voice Over](https://speechify.com/wp-content/uploads/sites/29/2023/07/AI-Voice-over.svg)
-        
-        ![AI Voice Over](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Al Voice OverConvert your content into a voice over and download it as an .MP3, .OGG, or .WAV file](https://speechify.com/voiceover/)
-    * [![Voice Cloning](https://speechify.com/wp-content/uploads/sites/29/2023/07/Voice-Cloning.svg)
-        
-        ![Voice Cloning](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Voice CloningCreate high quality Al clones of human voices within seconds.](https://speechify.com/voice-cloning//)
-    * [![AI Dubbing](https://speechify.com/wp-content/uploads/sites/29/2023/07/AI-Dubbing.svg)
-        
-        ![AI Dubbing](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Al DubbingAutomatically translate and dub new or existing videos in over 100's of languages with Al video dubbing.](https://speechify.com/dubbing/)
-    * [![Transcription](https://speechify.com/wp-content/uploads/sites/29/2023/07/AI-Voice-over.svg)
-        
-        ![Transcription](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)TranscriptionEasily, and quickly, transcribe any video. Get the most accurate transcription in over 20 languages.](https://speechify.com/transcription/)
-    * [![AI Avatar](https://speechify.com/wp-content/uploads/sites/29/2023/07/Video-Generator.svg)
-        
-        ![AI Avatar](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Al AvatarLaptop, browser, action. Create Al generated videos in minutes.](https://speechify.com/ai-video-generator/)
-    *  [![AI Avatars & Video](https://speechify.com/wp-content/uploads/2024/02/text-to-speech-api.svg)
-        
-        ![AI Avatars & Video](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E) Text to Speech APIThe most natural sounding text to speech API on the market.](https://speechify.com/api/)
-    * [![Voice Over Studio for Business](https://speechify.com/wp-content/uploads/2024/03/vo-bussiness-nav-icon.svg)
-        
-        ![Voice Over Studio for Business](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Voice Over Studio for BusinessTalk to sales & request a free demo](https://speechify.com/voiceover-studio-contact/)
-* [Teams](https://speechify.com/#)
-    * SMBs to Enterprise
-        * [![Text to Speech for Business](https://speechify.com/wp-content/uploads/2024/03/ttso-nav-icon2.svg)
-            
-            ![Text to Speech for Business](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Text to Speech for Business](https://speechify.com/tts-for-business/)
-        * [![Voice Over Studio for Business](https://speechify.com/wp-content/uploads/2024/03/vo-nav-icon2.svg)
-            
-            ![Voice Over Studio for Business](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Voice Over Studio for Business](https://speechify.com/voiceover-studio-contact/)
-* [Education](https://speechify.com/#)
-    * For Administrators & Teachers
-        * [![Text to Speech for Schools](https://speechify.com/wp-content/uploads/2024/03/schools-nav-icon2.svg)
-            
-            ![Text to Speech for Schools](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Text to Speech for Schools](https://speechify.com/edu/)
-        * [![Text to speech for Disabled Students Allowance](https://speechify.com/wp-content/uploads/2024/03/students-nav-icon2.svg)
-            
-            ![Text to speech for Disabled Students Allowance](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Text to speech for Disabled Students Allowance](https://speechify.com/dsa/)
-        * [![Text to speech for NYC public schools](https://speechify.com/wp-content/uploads/2024/03/public-schools-nav-icon2.svg)
-            
-            ![Text to speech for NYC public schools](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Text to speech for NYC public schools](https://speechify.com/nyc/)
-* [About](https://speechify.com/#)
-    * Company
-        * [![Our Story](https://speechify.com/wp-content/uploads/sites/29/2023/06/lightbulb.svg)
-            
-            ![Our Story](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Our Story](https://speechify.com/about/)
-        * [![Reviews](https://speechify.com/wp-content/uploads/sites/29/2023/06/comment-alt-lines.svg)
-            
-            ![Reviews](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Reviews](https://speechify.com/reviews/)
-        * [![Contact](https://speechify.com/wp-content/uploads/sites/29/2023/06/address-card.svg)
-            
-            ![Contact](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Contact](https://speechify.com/contact/)
-        * [![Blog](https://speechify.com/wp-content/uploads/sites/29/2023/06/page-icon.svg)
-            
-            ![Blog](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Blog](https://speechify.com/blog/)
-        * [![Pricing](https://speechify.com/wp-content/uploads/sites/29/2023/08/pricing-icon-1.svg)
-            
-            ![Pricing](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)Pricing](https://speechify.com/pricing/)
-    * Learn
-        * [Audiobooks](https://speechify.com/audiobooks/)
-        * [Best text to speech online](https://speechify.com/blog/best-text-to-speech-online/)
-        * [How text to speech helps an Individualized Education Program](https://speechify.com/blog/how-text-to-speech-helps-iep/)
-        * [Text to speech tools to address ADHD challenges](https://speechify.com/blog/text-to-speech-tools-for-adhd-challenges/)
-        * [Text-to-speech WAV file](https://speechify.com/blog/text-to-speech-wav-file/)
-        * [Best AI voice generators. The Ultimate List](https://speechify.com/blog/best-ai-voice-generators/)
-        * [The top 5 best text to speech apps](https://speechify.com/blog/best-text-to-speech-apps/)
-        * [Voice changer](https://speechify.com/blog/voice-changer/)
-        * [Read my paper out loud](https://speechify.com/blog/read-my-paper-out-loud/)
-        * [Text to speech on Amazon](https://speechify.com/blog/text-to-speech-amazon/)
-        * [Text to Speech on Apple Devices](https://speechify.com/blog/text-to-speech-apple/)
-        * [Alternatives to Google Cloud Text to Speech](https://speechify.com/blog/alternatives-google-cloud-text-to-speech/)
-        * [Alternatives to Google WaveNet](https://speechify.com/blog/alternatives-to-google-wavenet/)
-        * [Best text to speech apps for Android](https://speechify.com/blog/best-tts-apps-android/)
-        * [Brandon Sanderson audiobooks](https://speechify.com/blog/brandon-sanderson-audiobooks/)
-        * [Text to speech Google Docs](https://speechify.com/blog/text-to-speech-google-docs/)
-        * [Alternatives to FakeYou text to speech](https://speechify.com/blog/alternatives-to-fakeyou/)
-        * [Everything you need to know about text to speech on TikTok](https://speechify.com/blog/text-to-speech-tiktok/)
-        * [Girl voice changer](https://speechify.com/blog/girl-voice-changer/)
-        * [The best alternatives to Synthesia.io](https://speechify.com/blog/best-alternatives-to-synthesia/)
-        * [Robotic text to speech](https://speechify.com/blog/robotic-text-to-speech/)
-        * [Female voice changer](https://speechify.com/blog/female-voice-changer/)
-        * [Download audio](https://speechify.com/voiceover/)
-        * [Celebrity voice-over generator](https://speechify.com/blog/celebrity-voice-over-generator/)
-        * [How to have your PDF read out loud](https://speechify.com/blog/pdf-read-out-loud/)
-        * [5 apps that read out text](https://speechify.com/blog/apps-that-read-out-text/)
-        * [The top female text to speech voices](https://speechify.com/blog/female-text-speech/)
-        * [How to get celebrity voices with text to speech](https://speechify.com/blog/celebrity-voices-with-text-to-speech/)
-        * [Deepfake voice](https://speechify.com/blog/deepfake-voice/)
-        * [How to convert a PDF to speech](https://speechify.com/blog/pdf-to-speech/)
+[Teams](#)
 
-[Log in](https://app.speechify.com/login) [Try for free](https://speechify.com/onboarding/quiz/intro/)
+[Education](#)
+
+[About](#)
+
+[Log In](https://app.speechify.com/login)[Try For Free](https://speechify.com/onboarding/quiz/intro/?from=homepage&selected=Snoop+Dogg&voiceRedirect=true)
+
+[Download Now](https://speechify.com/onboarding/quiz/intro/?from=homepage&selected=Snoop+Dogg&voiceRedirect=true)
 
 Privacy Policy
 ==============
 
-Updated June 10, 2024
+_Updated June 10, 2024_
 
 At Speechify, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why. We hope you will read it carefully.  
 
-What is the scope of this Privacy Policy?
------------------------------------------
+### What is the scope of this Privacy Policy?
 
-This Privacy Policy is incorporated into [Speechify’s Terms of Service](https://speechify.com/terms/) and License Agreement, located at [Speechify.com/terms](https://speechify.com/terms/), and applies to the information obtained by us through your use of Speechify’s Site, Software, and Services (“Information”) as described in this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the [Terms of Service](https://speechify.com/terms/).  
+This Privacy Policy is incorporated into [Speechify’s Terms of Service](https://speechify.com/terms/) and License Agreement, located at [Speechify.com/terms](https://speechify.com/terms/), and applies to the information obtained by us through your use of Speechify’s Site, Software, and Services (“Information”) as described in this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the [Terms of Service](https://speechify.com/terms/).  
 
-What is Speechify’s business model?
------------------------------------
+### What is Speechify’s business model?
 
 Speechify offers a free service and paid services. To make money, we encourage the users of our free service to upgrade to one of our paid services. We don’t help third parties to advertise their products to you. We also do not—and will not—sell your information.  
 
-Information collection and use
-------------------------------
+### Information collection and use
 
 #### What Information does Speechify collect about me?
 
@@ -172,7 +59,7 @@ Certain data about the devices you use to connect with Speechify and your use of
 * Log data. As with most websites and technology services delivered over the internet, our servers automatically collect data when you access or use our Site, Software, and/or Services and record it in log files. This log data may include IP address, browser type and settings, date and time of use, information about browser configuration, language preferences, and cookie data.
 * Usage information. This is information about the Speechify Site, Software, and/or Services you use and how you use them. We may also obtain data from our third-party partners and service providers to analyze how users use our Site, Software, and/or Services. For example, we will know how many users access a specific page on the Site and which links they clicked on. We use this aggregated information to better understand and optimize the Site.
 * Device information. This is data from your computer or mobile device, such as the type of hardware and software you are using (for example, your operating system and browser type), as well as unique device identifiers for devices that are using Speechify Software.
-* Cookies. Data obtained from cookies is described in the “[Does Speechify use cookies?](#speechify-use-cookies)” section and in our [Cookie Policy](#cookie-policy).
+* Cookies. Data obtained from cookies is described in the “[Does Speechify use cookies?](https://speechify.com/privacy/#speechify-use-cookies)” section and in our [Cookie Policy](https://speechify.com/privacy/#cookie-policy).
 
 #### Information collected from other sources
 
@@ -184,7 +71,7 @@ We use, process, and store your Information as necessary to perform our contract
 
 * To help us provide and administer our Site, Software, and/or Services, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Site, Software, and/or Services.
 * To communicate with you about your use of our Site, Software, and/or Services, product announcements, and software updates, as well as respond to your requests for assistance, including providing account verification support if you’re having difficulty accessing your account.
-* To send you direct marketing emails and special offers about Speechify, from which you can unsubscribe at any time. For more information, please see the section titled, “[Will Speechify send me emails?](#speechify-send-emails)” If you are located in the European Economic Area (EEA), Switzerland, or the UK, we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter.
+* To send you direct marketing emails and special offers about Speechify, from which you can unsubscribe at any time. For more information, please see the section titled, “[Will Speechify send me emails?](https://speechify.com/privacy/#speechify-send-emails)” If you are located in the European Economic Area (EEA), Switzerland, or the UK, we will only send you marketing information if you consent to us doing so at the time you create your account or any point thereafter.
 * To display User Content associated with your account and make sure it is available to you when you use our Services.
 * To provide human proofreading services for users who submit User Content in connection with this specific service.
 * To calculate aggregate statistics on the number of unique devices using our Site, Software, and/or Services, and to detect and prevent fraud and misuse of those.
@@ -193,8 +80,7 @@ We use, process, and store your Information as necessary to perform our contract
 
 As a rule, Speechify employees do not monitor or view your User Content stored in or transferred through our Site, Software, and/or Services, but it may be viewed if we believe the Terms of Service have been violated and confirmation is required, if we need to do so to respond to your requests for support, if we otherwise determine that we have an obligation to review it as described in the Terms of Service, or to improve our algorithms as described in the User Content section of our Terms of Service. In addition, if you request our human proofreading services, our proofreaders may also read the User Content you submit for this specific service, as necessary to perform our contract with you and for our legitimate business interests. Finally, your Information may be viewed where necessary to protect the rights, property, or personal safety of Speechify and its users, or to comply with our legal obligations, such as responding to warrants, court orders, or other legal processes.
 
-Information access and disclosure
----------------------------------
+### Information access and disclosure
 
 #### Does Speechify share my Information?
 
@@ -208,7 +94,7 @@ We only disclose Personal Data to third parties when…
 
 We may disclose Non-Personal Data publicly and to third parties—for example, in public reports about word usage, to partners under agreement with us, or as part of progress reports we may provide to users.
 
-Through the use of cookies, we help deliver advertisements for relevant Speechify products and services to you. For more details on cookies, please see the “[Does Speechify use cookies?](#speechify-use-cookies)” section below.
+Through the use of cookies, we help deliver advertisements for relevant Speechify products and services to you. For more details on cookies, please see the “[Does Speechify use cookies?](https://speechify.com/privacy/#speechify-use-cookies)” section below.
 
 Speechify does not share your Personal Data with third parties for the purpose of enabling them to deliver their advertisements to you.
 
@@ -216,10 +102,9 @@ Speechify does not share your Personal Data with third parties for the purpose o
 
 No, Speechify does not sell or rent your Personal Data.
 
-Does Speechify use cookies?
----------------------------
+#### Does Speechify use cookies?
 
-Cookies are small text files stored on your device and used by web browsers to deliver personalized content and remember logins and account settings. Speechify uses cookies and similar technologies, including tracking pixels and web beacons, to collect usage and analytic data that helps us provide our Site, Software, and/or Services to you, as well as to help deliver ads for relevant Speechify products and services to you when you visit certain pages on the Site and then visit certain third-party sites. For more information on cookies and how Speechify uses them, please see our [Cookie Policy](#cookie-policy). Our products currently do not respond to Do Not Track requests.
+Cookies are small text files stored on your device and used by web browsers to deliver personalized content and remember logins and account settings. Speechify uses cookies and similar technologies, including tracking pixels and web beacons, to collect usage and analytic data that helps us provide our Site, Software, and/or Services to you, as well as to help deliver ads for relevant Speechify products and services to you when you visit certain pages on the Site and then visit certain third-party sites. For more information on cookies and how Speechify uses them, please see our [Cookie Policy](https://speechify.com/privacy/#cookie-policy). Our products currently do not respond to Do Not Track requests.
 
 #### How do third-party apps and plugins work?
 
@@ -237,11 +122,11 @@ Data collected by third parties through these apps and plugins is subject to eac
 
 From time to time, we may want to contact you with information about product announcements, software updates, and special offers. We also may want to contact you with information about products and services from our business partners. You may opt out of such communications at any time by clicking the “unsubscribe” link found within Speechify emails and changing your contact preferences. All Speechify account holders will continue to receive transactional messages related to our Services, even if you unsubscribe from promotional emails.
 
-For EEA, Swiss, and UK users: We only send marketing communications to you with your prior consent. Please see the section “[For EEA, Swiss, and UK users](#eea-swiss-uk)” below.
+For EEA, Swiss, and UK users: We only send marketing communications to you with your prior consent. Please see the section “[For EEA, Swiss, and UK users](https://speechify.com/privacy/#eea-swiss-uk)” below.
 
 #### Does Speechify ever make any of my Personal Data or User Content public?
 
-No, we do not share Personal Data or User Content except in the limited circumstances described in the “[Does Speechify share my Information?](#share-my-info)” section of the Policy.
+No, we do not share Personal Data or User Content except in the limited circumstances described in the “[Does Speechify share my Information?](https://speechify.com/privacy/#share-my-info)” section of the Policy.
 
 #### Does Speechify collect information from children?
 
@@ -249,8 +134,7 @@ Unless your Speechify account is part of a Speechify for Education license, Spee
 
 Please note that in some countries the age of digital consent is older than 13. If you are in one of those countries, you must be at least that age to use the Site, Software, and/or Services.
 
-Data storage, transfer, retention, and deletion
------------------------------------------------
+### Data storage, transfer, retention, and deletion
 
 #### Where is my Information stored?
 
@@ -278,14 +162,13 @@ You can remove your Personal Data from Speechify at any time by deleting your ac
 
 If Speechify closes your account due to your violation of the Terms of Service, then you may contact Speechify to request deletion of your data. Speechify will evaluate such requests on a case by case basis, pursuant to our legal obligations.
 
-Will this Privacy Policy ever change?
--------------------------------------
+### Will this Privacy Policy ever change?
 
 As Speechify evolves, we may need to update this Policy to keep pace with changes in our Site, Software, and Services, our business, and laws applicable to us and you. We will, however, always maintain our commitment to respect your privacy. We will notify you of any material changes that impact your rights under this Policy by email (to your most recently provided email address) or post any other revisions to this Policy, along with their effective date, in an easy-to-find area of the Site, so we recommend that you periodically check back here to stay informed of any changes. Please note that your continued use of Speechify after any change means that you agree with and consent to be bound by the new Policy. If you disagree with any changes in this Policy and do not wish your information to be subject to it, you will need to delete your Speechify account.
 
 ### For EEA, Swiss, and UK users
 
-Speechify uses, processes, and stores Personal Data, including what is listed in the “[What Information does Speechify collect about me?](#info-we-collect)” section, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Services. We rely on your consent to process Personal Data to send promotional emails and to place cookies on your devices. In some cases, Speechify may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
+Speechify uses, processes, and stores Personal Data, including what is listed in the “[What Information does Speechify collect about me?](https://speechify.com/privacy/#info-we-collect)” section, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Services. We rely on your consent to process Personal Data to send promotional emails and to place cookies on your devices. In some cases, Speechify may process Personal Data pursuant to legal obligation or to protect your vital interests or those of another person.
 
 When Speechify transfers the personal data of EEA, Swiss, and UK residents outside of those regions it does so via appropriate safeguards of user privacy, such as standard contractual clauses.
 
@@ -293,18 +176,18 @@ When Speechify transfers the personal data of EEA, Swiss, and UK residents outsi
 
 Individuals located in the European Economic Area (EEA), Switzerland, and the UK have certain rights in respect to their personal information, including the right to access, correct, or delete Personal Data we process through your use of the Site, Software, and/or Services. If you’re a user based in the EEA, Switzerland, or the UK, you can:
 
-* Request a Personal Data report by submitting a support ticket through [this link](https://help.speechify.com/en). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format. You must be signed into your Speechify account to submit this request. Please note that Speechify may request additional information from you to verify your identity before we disclose any information.
-* Have your Personal Data corrected or deleted. Some Personal Data can be updated by you: You can update your name and email address, as well as language preference, through your Speechify account settings. If you registered for Speechify using Google or Facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://help.speechify.com/en). You can remove your Personal Data from Speechify by [deleting your account](#delete-your-account).
+* Request a Personal Data report by submitting a support ticket through [this link](https://help.speechify.com/en). This report will include the Personal Data we have about you, provided to you in a structured, commonly used, and portable format. You must be signed into your Speechify account to submit this request. Please note that Speechify may request additional information from you to verify your identity before we disclose any information.
+* Have your Personal Data corrected or deleted. Some Personal Data can be updated by you: You can update your name and email address, as well as language preference, through your Speechify account settings. If you registered for Speechify using Google or Facebook, or if you otherwise have problems updating this information, please [submit a support ticket](https://help.speechify.com/en). You can remove your Personal Data from Speechify by [deleting your account](https://speechify.com/privacy/#delete-your-account).
 * Object to us processing your Personal Data. You can ask us to stop using your Personal Data, including when we use your Personal Data to send you marketing emails. We only send marketing communications to users located in the EEA, Switzerland, and the UK with your prior consent, and you may withdraw your consent at any time by clicking the “unsubscribe” link found within Speechify emails and changing your contact preferences. Please note that you will continue to receive transactional messages related to our Services, even if you unsubscribe from marketing emails.
 * Complain to a regulator. If you’re based in the EEA, Switzerland, or the UK and think that we haven’t complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
 
-If you have other questions or do not have a Speechify account, contact us by [submitting a support ticket](https://help.speechify.com/en?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F).
+If you have other questions or do not have a Speechify account, contact us by [submitting a support ticket](https://help.speechify.com/en?landing_url=https%3A%2F%2Fspeechify.com%2Fvoiceover-new%2F).
 
 #### Data transfers
 
-As stated in the “[Where is my Information stored](#store-my-info)?” section above, information submitted to Speechify will be transferred to, processed, and stored in the United States. When you use the Software on your computing device, User Content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States. Please note that the privacy laws of the United States may be different from those in the place where you are a resident.
+As stated in the “[Where is my Information stored](https://speechify.com/privacy/#store-my-info)?” section above, information submitted to Speechify will be transferred to, processed, and stored in the United States. When you use the Software on your computing device, User Content you save will be stored locally on that device and synced with our servers. If you post or transfer any Information to or through our Site, Software, and/or Services, you are agreeing to such Information, including Personal Data and User Content, being hosted and accessed in the United States. Please note that the privacy laws of the United States may be different from those in the place where you are a resident.
 
-Where required, we will use appropriate safeguards for transferring data outside of Europe, Switzerland, and the UK. This includes signing Standard Contractual Clauses that govern the transfers of such data, which may be used in conjunction with additional safeguards. For more information about these transfer mechanisms, please contact us as detailed in the “[Contact us](#contact-us)” section below.
+Where required, we will use appropriate safeguards for transferring data outside of Europe, Switzerland, and the UK. This includes signing Standard Contractual Clauses that govern the transfers of such data, which may be used in conjunction with additional safeguards. For more information about these transfer mechanisms, please contact us as detailed in the “[Contact us](https://speechify.com/privacy/#contact-us)” section below.
 
 ### Your California Privacy Rights For California users
 
@@ -337,7 +220,7 @@ We collect and use your personal information for the following business and comm
 * To detect, prevent, and address security or technical issues
 * To comply with legal obligations
 
-We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy. Please see the section titled “[How does Speechify use my Information?](#use-my-info)” above for more information. We share this information with the categories of third parties described in the section titled, “[Does Speechify share my Information?](#share-my-info)”
+We and our service providers may use the categories of personal information we collect from and about you consistent with the various business and commercial purposes we discuss throughout this Privacy Policy. Please see the section titled “[How does Speechify use my Information?](https://speechify.com/privacy/#use-my-info)” above for more information. We share this information with the categories of third parties described in the section titled, “[Does Speechify share my Information?](https://speechify.com/privacy/#share-my-info)”
 
 We may also use the categories of personal information for compliance with applicable laws and regulations, and we may aggregate the information we collect or de-identify the information to limit or prevent identification of any particular user or device.
 
@@ -353,14 +236,14 @@ You may have the right to receive information about the financial incentives tha
 
 To exercise these rights, you can:
 
-* Request a personal data report by submitting a support ticket through [this link](https://help.speechify.com/en). You must be signed into your Speechify account to submit this request, and you may be required to log into your account to access the summary or the report.
-* Request the summary described above by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+* Request a personal data report by submitting a support ticket through [this link](https://help.speechify.com/en). You must be signed into your Speechify account to submit this request, and you may be required to log into your account to access the summary or the report.
+* Request the summary described above by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 * Delete your personal information from Speechify by deleting your account. You must be signed into your Speechify account to submit this request, and you will be required to provide your password to confirm that you want to delete your account.
-* You can also submit requests by submitting a [support ticket](https://help.speechify.com/en) or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+* You can also submit requests by submitting a [support ticket](https://help.speechify.com/en) or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
 You’ll need to provide us with information sufficient to verify your identity before we can satisfy your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services. You can also designate an authorized agent to make a request on your behalf. To do so, you need to provide us with written authorization for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
-The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](#cookie-policy). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](#cookie-policy).
+The CCPA sets forth certain obligations for businesses that “sell” personal information. Based on the definition of “sell” under the CCPA and under current regulatory guidance, we don’t believe we engage in such activity and have not engaged in such activity in the past twelve months. Even though we do not sell your personal information, you have the right to opt-out of any potential future selling of your personal information. If you would like to opt-out of any potential future selling of your personal information, please submit a support ticket or email us at . We do share certain information as described in the “Information access and disclosure” section above, and we allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://speechify.com/privacy/#cookie-policy). You can control these cookies through browser settings and other controls; for more information, see our [Cookie Policy](https://speechify.com/privacy/#cookie-policy).
 
 #### Authorized Agents
 
@@ -368,11 +251,11 @@ California residents can also exercise their rights under the CCPA by designatin
 
 #### California Shine the Light
 
-If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+If you’re a California resident, you can ask for a list of third parties (if any) that have received your information for their direct marketing purposes during the previous calendar year. This list also contains the types of information shared. We provide this list at no cost. To make such a request, contact us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
 ### For Nevada Users
 
-Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons. “Personally identifiable information” includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
+Under Nevada law, certain Nevada consumers may opt out of the sale of “personally identifiable information” for monetary consideration to a person for that person to license or sell such information to additional persons. “Personally identifiable information” includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
 
 ### For Brazil Users
 
@@ -390,7 +273,7 @@ If you’re a resident of Brazil, you may have certain rights. Brazilian law may
 * Provide you with information about the possibility of withdrawing consent and the consequences of such withdrawal, where applicable.
 * Withdraw your consent.
 
-You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
+You can exercise some of these rights by logging in and visiting the My Account page. For example, you can download a copy of your Personal Data, delete your Personal Data by deleting your account, or correct your Personal Data in your Speechify account settings. You can also submit requests by submitting a support ticket or emailing [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. To do so, you’ll need to log into your account or provide us with certain information regarding yourself and/or your usage of the Site, Software, and Services.
 
 #### International Data Transfers
 
@@ -400,49 +283,47 @@ Speechify is a global service with users and operations around the world. To pro
 
 If your Speechify account is part of a Speechify for Education license, your parents and your school administrator may have the legal right to access your account and may delete it.
 
-Contact Us
-----------
+### Contact Us
 
-You may contact us with any questions relating to this Privacy Policy by submitting a [help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
+You may contact us with any questions relating to this Privacy Policy by submitting a [help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).
 
 For the purposes of this Policy, when we say “Speechify,” “we,” or “us,” we mean Speechify, Inc., 382 NE 191st St PMB 69469, Miami, FL, 33179-3899
 
-Cookie Policy
--------------
+### Cookie Policy
 
-In the spirit of transparency, this Cookie Policy (“Policy”) provides detailed information about why, how, and when we use cookies on our Site, Software, and/or Services, as defined in our [Terms of Service](https://speechify.com/terms/).
+In the spirit of transparency, this Cookie Policy (“Policy”) provides detailed information about why, how, and when we use cookies on our Site, Software, and/or Services, as defined in our [Terms of Service](https://speechify.com/terms/).
 
-### Table of Contents
+#### Table of Contents
 
-* [What is a cookie?](#what-is-cookie)
-* [Why does Speechify use cookies?](#why-cookies)
-* [How to disable cookies](#disable-cookies)
-* [Types of cookies Speechify uses](#types-cookies)
-* [Cookies subject to change](#cookies-change)
-* [Updating this Policy](#updating-policy)
-* [Contact us](#contact-us)
+* [What is a cookie?](https://speechify.com/privacy/#what-is-cookie)
+* [Why does Speechify use cookies?](https://speechify.com/privacy/#why-cookies)
+* [How to disable cookies](https://speechify.com/privacy/#disable-cookies)
+* [Types of cookies Speechify uses](https://speechify.com/privacy/#types-cookies)
+* [Cookies subject to change](https://speechify.com/privacy/#cookies-change)
+* [Updating this Policy](https://speechify.com/privacy/#updating-policy)
+* [Contact us](https://speechify.com/privacy/#contact-us)
 
-### What is a cookie?
+#### What is a cookie?
 
 A cookie is a small text file that is placed on your hard drive by a web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies are essential to the Site, Software, and/or Services, and will always be used. Web beacons, tags, and scripts may be used in the Site or in emails to help us deliver cookies and count visits, understand usage and campaign effectiveness, and determine whether an email has been opened and acted upon. We may receive reports based on the use of these technologies by our service/analytics providers (for example, Google Analytics) on an individual and aggregated basis.
 
-### Why does Speechify use cookies?
+#### Why does Speechify use cookies?
 
 Speechify and our marketing partners, affiliates, and analytics or service providers use cookies and other technologies to ensure everyone who uses the Site, Software, and/or Services has the best possible experience. For example, when you use our Site, we may place a number of cookies in your browser. We use these cookies to enable us to hold session information as you navigate from page to page within the Site, improve your experience, and track and analyze usage and other statistical information. If you elect not to activate the cookie or to later disable cookies, you may still visit our Site, and use our Software or Services, but your ability to use some features or areas of those offerings may be limited.
 
-### How to disable cookies
+#### How to disable cookies
 
 You can generally activate or later deactivate the use of cookies through a functionality built into your web browser. To learn more about how to control cookie settings through your browser:
 
-* [Click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about managing cookie settings in Mozilla Firefox;
-* [Click here](https://support.google.com/chrome/answer/95647) to learn more about managing cookie settings in Google Chrome;
-* [Click here](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies) to learn more about managing cookie settings in Microsoft Internet Explorer;
-* [Click here](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac) to learn more about managing cookie settings in Safari;
-* [Click here](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) to learn more about managing cookie settings in Microsoft Edge.
+* [Click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) to learn more about managing cookie settings in Mozilla Firefox;
+* [Click here](https://support.google.com/chrome/answer/95647) to learn more about managing cookie settings in Google Chrome;
+* [Click here](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies) to learn more about managing cookie settings in Microsoft Internet Explorer;
+* [Click here](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac) to learn more about managing cookie settings in Safari;
+* [Click here](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) to learn more about managing cookie settings in Microsoft Edge.
 
-If you want to learn more about cookies or how to control, disable, or delete them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with your Internet browsing. To learn more about this feature from Google, [click here](https://adssettings.google.com/).
+If you want to learn more about cookies or how to control, disable, or delete them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for detailed guidance. In addition, certain third-party advertising networks, including Google, permit users to opt out of or customize preferences associated with your Internet browsing. To learn more about this feature from Google, [click here](https://adssettings.google.com/).
 
-### Types of cookies Speechify uses
+#### Types of cookies Speechify uses
 
 Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.
 
@@ -454,7 +335,7 @@ Essential cookies (First-Party Cookies) are sometimes called “strictly necessa
 
 #### Analytics cookies
 
-These cookies track information about your visits and usage of the Site, Software, and/or Services so that we can make improvements and report our performance — for example, to analyze visitor and user behavior so as to provide more relevant content or suggest certain activities. We might also use analytics cookies to test new ads, pages, or features to see how users react to them. Google Analytics is the main technology we currently use in this regard. To learn more about Google Analytics and your privacy, visit the “How Google uses data when you use our partners’ sites or apps” page at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To opt out of being tracked by Google Analytics when using our website, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
+These cookies track information about your visits and usage of the Site, Software, and/or Services so that we can make improvements and report our performance — for example, to analyze visitor and user behavior so as to provide more relevant content or suggest certain activities. We might also use analytics cookies to test new ads, pages, or features to see how users react to them. Google Analytics is the main technology we currently use in this regard. To learn more about Google Analytics and your privacy, visit the “How Google uses data when you use our partners’ sites or apps” page at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To opt out of being tracked by Google Analytics when using our website, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
 #### Functionality or preference cookies
 
@@ -473,49 +354,35 @@ The Site includes third-party social media features, such as the Facebook Like b
 * [Twitter Privacy Policy](https://twitter.com/privacy)
 * [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
 
-### Cookies subject to change
+#### Cookies subject to change
 
 The content of this Policy is for your general information and use only.
 
-Third-Party Links/Integrations
-------------------------------
+### Third-Party Links/Integrations
 
 Speechify’s platforms may contain links to third-party websites, applications, or services that are not operated or controlled by Speechify. This Privacy Policy applies solely to information collected by Speechify through its platforms and does not apply to the privacy practices of these third-party services. We encourage you to review the privacy policies of any third-party services you access through our platforms.
 
-Third-Party Disclaimer
-----------------------
+### Third-Party Disclaimer
 
 Speechify is not responsible for the privacy practices or content of third-party websites, applications, or services. Your interactions with these third parties are governed by their respective privacy policies and terms of use, which we encourage you to review.
 
-Updating this Policy
---------------------
+### Updating this Policy
 
 We will occasionally update this Policy. We encourage you to periodically review this page for the latest information on the Policy. Your continued use of the Site, Software, and/or Services constitutes your agreement to be bound by such changes to this Policy. Your only remedy, if you do not accept the terms of this Policy, is to discontinue use of and access to the Site, Software, and/or Services.
 
-Contact Us
-----------
+### Contact Us
 
-If you have any questions regarding this Policy or how Speechify uses cookies, you may contact us by [submitting a help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).  
+If you have any questions regarding this Policy or how Speechify uses cookies, you may contact us by [submitting a help desk request here](https://help.speechify.com/en) or by contacting us at [\[email protected\]](https://speechify.com/cdn-cgi/l/email-protection).  
   
-Link to [Previous Version](https://web.archive.org/web/20240406231209/https://speechify.com/privacy/)
+Link to [Previous Version](https://web.archive.org/web/20240406231209/https://speechify.com/privacy/)
 
-![footer-waves](https://speechify.com/wp-content/themes/speechify-custom/assets/images/footer-waves.svg)
+![footer-waves](https://website.cdn.speechify.com/footer-waves.svg)
 
-![footer-waves](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+![](https://website.cdn.speechify.com/logo.svg)
 
-![speechify-footer-logo](https://speechify.com/wp-content/themes/speechify-custom/assets/images/speechify-footer-logo-white.svg)
+[![app-store](https://website.cdn.speechify.com/app-store.svg)](https://apps.apple.com/us/app/speechify-text-to-speech-audio/id1209815023/)[![play-store](https://website.cdn.speechify.com/play-store.svg)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
 
-![speechify-footer-logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
-
-[![appstorebadge-logo](https://speechify.com/wp-content/themes/speechify-custom/assets/images/app-store.svg)
-
-![appstorebadge-logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://apps.apple.com/us/app/speechify-text-to-speech-audio/id1209815023/)
-
-[![playstorebadge-logo](https://speechify.com/wp-content/themes/speechify-custom/assets/images/play-store.svg)
-
-![playstorebadge-logo](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://play.google.com/store/apps/details?id=com.cliffweitzman.speechify2)
-
-#### Products
+### Products
 
 * [Text to speech online](https://speechify.com/text-to-speech-online/)
 * [Text to speech for business](https://speechify.com/business/)
@@ -536,7 +403,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://sp
 * [PDF Reader](https://speechify.com/pdf-reader/)
 * [Speaking time calculator](https://speechify.com/speaking-time-calculator/)
 
-#### Company
+### Company
 
 * [About](https://speechify.com/about/)
 * [Contact](https://speechify.com/contact/)
@@ -551,26 +418,14 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://sp
 * [Terms & Conditions](https://speechify.com/terms/)
 * [Sitemap](https://speechify.com/browse/)
 
-* [![instagram](https://speechify.com/wp-content/themes/speechify-custom/assets/images/icon-instagram.svg)
-    
-    ![instagram](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://www.instagram.com/speechifyapp/?hl=en)
-* [![facebook](https://speechify.com/wp-content/themes/speechify-custom/assets/images/icon-facebook.svg)
-    
-    ![facebook](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://www.facebook.com/getspeechify/)
-* [![twitter](https://speechify.com/wp-content/themes/speechify-custom/assets/images/icon-twitter-x.svg)
-    
-    ![twitter](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://twitter.com/SpeechifyAI/)
-* [![tiktok](https://speechify.com/wp-content/themes/speechify-custom/assets/images/icon-tiktok.svg)
-    
-    ![tiktok](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://www.tiktok.com/@speechifyapp/)
-* [![linkedin](https://speechify.com/wp-content/themes/speechify-custom/assets/images/icon-linkedin.svg)
-    
-    ![linkedin](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://www.linkedin.com/company/getspeechify/)
-* [![youtube](https://speechify.com/wp-content/themes/speechify-custom/assets/images/icon-youtube.svg)
-    
-    ![youtube](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](https://www.youtube.com/channel/UCdVAkcFLzG-nAWWASbZb4ZA/)
+* [![icon-instagram](https://website.cdn.speechify.com/icon-instagram.svg)](https://www.instagram.com/speechifyapp/?hl=en)
+* [![icon-facebook](https://website.cdn.speechify.com/icon-facebook.svg)](https://www.facebook.com/getspeechify/)
+* [![icon-twitter-x](https://website.cdn.speechify.com/icon-twitter-x.svg)](https://twitter.com/SpeechifyAI/)
+* [![icon-tiktok](https://website.cdn.speechify.com/icon-tiktok.svg)](https://www.tiktok.com/@speechifyapp/)
+* [![icon-linkedin](https://website.cdn.speechify.com/icon-linkedin.svg)](https://www.linkedin.com/company/getspeechify/)
+* [![icon-youtube](https://website.cdn.speechify.com/icon-youtube.svg)](https://www.youtube.com/channel/UCdVAkcFLzG-nAWWASbZb4ZA/)
 
-#### Recommended reading
+### Recommended reading
 
 * [5 apps that read out text](https://speechify.com/blog/apps-that-read-out-text/)
 * [How to have your PDF read aloud](https://speechify.com/blog/pdf-read-out-loud/)
@@ -588,7 +443,7 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://sp
 * [Best AI voice generators. The Ultimate List](https://speechify.com/blog/best-ai-voice-generators/)
 * [Deepfake voice](https://speechify.com/blog/deepfake-voice/)
 * [6 Best PDF Text to Speech Apps for Android](https://speechify.com/blog/pdf-text-to-speech-android/)
-* [Top Speechify Alternatives of 2023](https://speechify.com/blog/speechify-alternatives-top-choices/)
+* [Top Speechify Alternatives of 2024](https://speechify.com/blog/speechify-alternatives-top-choices/)
 * [Voice over generator for YouTube videos](https://speechify.com/blog/voice-over-generator-for-youtube-videos/)
 * [Read to me: Make your devices read aloud](https://speechify.com/blog/read-to-me/)
 * [How to get celebrity voices with text to speech](https://speechify.com/blog/celebrity-voices-with-text-to-speech/)
@@ -608,9 +463,9 @@ Link to [Previous Version](https://web.archive.org/web/20240406231209/https://sp
 
 Made with ❤️ around the 🌍 | @ Speechify Inc 2024
 
-English
+![icon-globe](https://website.cdn.speechify.com/icons-globe.png)English![icon-down](https://website.cdn.speechify.com/icons-down.png)
 
-#### Book Sitemap
+Book Sitemap
 
 * [All](https://speechify.com/audiobooks/booklist/)
 * [0](https://speechify.com/audiobooks/booklist/0)
@@ -650,7 +505,7 @@ English
 * [Y](https://speechify.com/audiobooks/booklist/y)
 * [Z](https://speechify.com/audiobooks/booklist/z)
 
-#### Category Sitemap
+Category Sitemap
 
 * [All](https://speechify.com/audiobooks/categorylist)
 * [0](https://speechify.com/audiobooks/categorylist/0)
@@ -689,74 +544,3 @@ English
 * [X](https://speechify.com/audiobooks/categorylist/x)
 * [Y](https://speechify.com/audiobooks/categorylist/y)
 * [Z](https://speechify.com/audiobooks/categorylist/z)
-
-[×](javascript:void(0);)
-
-* [Chinese (Simplified) (中文 (简体))](https://speechify.com/zh-hans)
-* [Chinese (Traditional) (中文 (台灣) )](https://speechify.com/zh-hant)
-* [Czech (Čeština)](https://speechify.com/cs)
-* [Danish (Dansk)](https://speechify.com/da)
-* [Dutch (Nederlands)](https://speechify.com/nl)
-* [English](https://speechify.com/)
-* [Finnish (Suomi)](https://speechify.com/fi)
-* [French (Français)](https://speechify.com/fr)
-* [German (Deutsch)](https://speechify.com/de)
-* [Hindi (हिन्दी)](https://speechify.com/hi)
-* [Italian (Italiano)](https://speechify.com/it)
-* [Japanese (日本語)](https://speechify.com/ja)
-* [Korean (한국어)](https://speechify.com/ko)
-* [Norwegian (Norsk bokmål)](https://speechify.com/nb)
-* [Polish (Polski)](https://speechify.com/pl)
-* [Portuguese (Brazil) (Português (Brasil))](https://speechify.com/pt-br)
-* [Russian (Русский)](https://speechify.com/ru)
-* [Spanish (Español)](https://speechify.com/es)
-* [Swedish (Svenska)](https://speechify.com/sv)
-* [Thai (ภาษาไทย)](https://speechify.com/th)
-* [Turkish (Türkçe)](https://speechify.com/tr)
-
-[![modalcloseicon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/modalcloseicon.svg)
-
-![modalcloseicon](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](javascript:void(0);)
-
-![appleicon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/appleicon.svg)
-
-![appleicon](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
-
-Only available on iPhone and iPad
----------------------------------
-
-To access our catalog of 100,000+ audiobooks, you need to use an iOS device.
-
-Coming to Android soon...
-
-[I have an iPhone or iPad](https://speechify.com/onboarding/?help=false&isProfile=false&activate=false&teams=false&renewal=false&scantopay=false&priceId=price_1MHNBRBtf7hakIXC7Z26I8qI) [Join the Android waitlist](javascript:void(0) "Join the Android waitlist")
-
-[![modalcloseicon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/modalcloseicon.svg)
-
-![modalcloseicon](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](javascript:void(0);)
-
-![newspapericon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/newspapericon.svg)
-
-![newspapericon](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
-
-Join the waitlist
------------------
-
-Enter your email and we will notify you as soon as Speechify Audiobooks is available for you.
-
-  Enter your email-id here Email-id is invalid
-
-[![modalcloseicon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/modalcloseicon.svg)
-
-![modalcloseicon](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)](javascript:void(0);)
-
-![supporticon](https://speechify.com/wp-content/themes/speechify-custom/assets/images/supporticon.svg)
-
-![supporticon](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
-
-You’re in!
-----------
-
-You’ve been added to the waitlist. We will notify you as soon as Speechify Audiobooks is available for you.
-
-[Continue exploring](javascript:void(0))
