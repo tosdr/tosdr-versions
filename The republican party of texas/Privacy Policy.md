@@ -55,7 +55,7 @@ Skip links
     [2024 Primary Runoff Canvass](https://texasgop.org/2024-primary-runoff-canvass/)
     --------------------------------------------------------------------------------
     
-    [Legislative Priorities](https://texasgop.org/category/legislative-priorities/) | [Press releases](https://texasgop.org/category/press-releases/) | [Statement](https://texasgop.org/category/statement/)
+    [Statement](https://texasgop.org/category/statement/) | [Press releases](https://texasgop.org/category/press-releases/) | [Legislative Priorities](https://texasgop.org/category/legislative-priorities/)
     
     [2024 Platform and Legislative Priorities Released](https://texasgop.org/2024-platform-and-legislative-priorities/)
     -------------------------------------------------------------------------------------------------------------------
