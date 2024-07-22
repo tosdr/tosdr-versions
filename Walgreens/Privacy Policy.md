@@ -1,7 +1,8 @@
 [Skip to main content](#page-content)
 
-* [**Extra 20% off $40+ select beauty & personal care: HAUL20**](https://www.walgreens.com/topic/promotion/beauty-personal-care-deals.jsp?ban=dl_dl_Nav_07142024_BPCTierSale_HAUL20)
-* [**Up to 60% off clearance**](https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=dl_dl_Nav_07142024_Clearance)
+* [**Extra 15% off $20+ Pickup orders with code PICKUP15**](https://www.walgreens.com/store/store/category/productlist.jsp?inStore=true&N=4294896499&Eon=4294896499?ban=dl_dl_Nav_07212024_Sitewide_Ex15PO20Pickup)
+* [**Buy 2 get 3rd FREE select Walgreens branded items**](https://www.walgreens.com/store/store/family_products.jsp?pluCode=3192&ban=dl_dl_Nav_07212024_OB_B2G3F)
+* [**Up to 60% off clearance**](https://www.walgreens.com/search/results.jsp?Ntt=Clearance&ban=dl_dl_Nav_07212024_Clearance)
 
 [![Walgreens: Trusted since 1901](/images/adaptive/livestyleguide/v5/icons/Branding.svg)](https://www.walgreens.com/)
 
