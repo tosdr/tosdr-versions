@@ -135,6 +135,7 @@ Toggle Nav [![Woodpeckers](https://cdn.woodpeck.com/static/version1719941236/fro
         * [Bits for Shaper Origin](https://www.woodpeck.com/routing/ultra-shear-router-bits/bits-for-shaper-origin.html)
         * [Carbide Tipped](https://www.woodpeck.com/routing/ultra-shear-router-bits/carbide-tipped.html)
             * [Roundover](https://www.woodpeck.com/routing/ultra-shear-router-bits/carbide-tipped/roundover.html)
+            * [Juice Groove](https://www.woodpeck.com/routing/ultra-shear-router-bits/carbide-tipped/juice-groove.html)
         * [Half Round](https://www.woodpeck.com/routing/ultra-shear-router-bits/half-round.html)
             * [Inch](https://www.woodpeck.com/routing/ultra-shear-router-bits/half-round/inch.html)
         * [Solid Carbide](https://www.woodpeck.com/routing/ultra-shear-router-bits/solid-carbide.html)
