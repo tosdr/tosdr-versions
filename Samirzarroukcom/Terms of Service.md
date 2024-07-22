@@ -286,5 +286,3 @@ Turn on post notifications at the top right of this post&bull;&bull;&bull; so yo
 Angle Up
 
 Top
-
-ChatGPT To modify the code to only show images that are equal to or greater than 1000 pixels, you can add a condition to filter out images based on their dimensions. Here's the updated code: html Copy code
