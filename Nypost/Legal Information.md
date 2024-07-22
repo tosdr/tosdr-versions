@@ -73,7 +73,7 @@ Search
 
 #### Breaking News
 
-[Martin Heinrich becomes third Dem senator to call on Biden to drop out of race, joins 24 House reps](https://nypost.com/2024/07/19/us-news/third-dem-senator-martin-heinrich-calls-on-biden-to-drop-out-of-race-joining-24-house-reps/)
+[Joe Manchin joins four Democratic senators in calling for President Biden to drop out](https://nypost.com/2024/07/21/us-news/joe-manchin-joins-4-dem-senators-calling-on-biden-to-bow-out/)
 
 Privacy Notice Highlights
 =========================
