@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**July 19, 2024**
+**July 21, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Converting Plastic Waste Into Electronic Devices](https://www.sciencedaily.com/releases/2024/07/240719180317.htm)
 * [New Snake Discovery Rewrites History](https://www.sciencedaily.com/releases/2024/07/240719180253.htm)
 * [New Antidote for Cobra Bites](https://www.sciencedaily.com/releases/2024/07/240717162410.htm)
 * [How Our Brains Track Time](https://www.sciencedaily.com/releases/2024/07/240718205236.htm)
@@ -217,7 +218,6 @@ this hour
 * [New Gene Therapy for Muscular Dystrophy](https://www.sciencedaily.com/releases/2024/07/240717120903.htm)
 * [Soft, Stretchy 'Jelly Batteries'](https://www.sciencedaily.com/releases/2024/07/240717162405.htm)
 * [Forests Endure as Carbon Sink Despite Pressures](https://www.sciencedaily.com/releases/2024/07/240717120933.htm)
-* [Extremely Fast, Compact Computer Memory](https://www.sciencedaily.com/releases/2024/07/240717120924.htm)
 
 Trending Topics
 ---------------
@@ -232,13 +232,13 @@ this week
 
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Astrophysics](https://www.sciencedaily.com/news/space_time/astrophysics/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
@@ -248,7 +248,7 @@ this week
 
 [Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
 
-[Geochemistry](https://www.sciencedaily.com/news/earth_climate/chemistry/)
+[Bird Flu Research](https://www.sciencedaily.com/news/plants_animals/bird_flu/)
 
   
 
