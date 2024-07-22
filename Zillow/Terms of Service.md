@@ -69,7 +69,7 @@
     * ###### Touring homes & making offers
         
         * * [Discover Zillow Home Loans](https://www.zillow.com/homeloans/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav#source=Z_Mortgageshovertopnav)
-            * [See how much you qualify for](https://www.zillow.com/homeloans/eligibility/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav&zga_z_guid=c9110ecf-ad22-4cbd-8a68-23aed182a6f9)
+            * [See how much you qualify for](https://www.zillow.com/homeloans/eligibility/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav&zga_z_guid=bf0e343f-cff9-4561-8afc-1f3622af8314)
             * [Estimate your monthly payment](https://www.zillow.com/mortgage-calculator/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav#source=Z_Mortgageshovertopnav)
     * ###### Just getting started
         
@@ -78,7 +78,7 @@
     * ###### Explore more options
         
         * * [See today's rates](https://www.zillow.com/mortgage-rates/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav#source=Z_Mortgageshovertopnav)
-            * [Refinance your home](https://www.zillow.com/homeloans/refinance/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav&zga_z_guid=c9110ecf-ad22-4cbd-8a68-23aed182a6f9)
+            * [Refinance your home](https://www.zillow.com/homeloans/refinance/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav&zga_z_guid=bf0e343f-cff9-4561-8afc-1f3622af8314)
             * [Calculate your refinance savings](https://www.zillow.com/mortgage-calculator/refinance-calculator/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav#source=Z_Mortgageshovertopnav)
             * [Browse lenders in your area](https://www.zillow.com/lender-directory/?utm_source=zillow&utm_medium=referral&utm_campaign=Z_Mortgageshovertopnav#source=Z_Mortgageshovertopnav)
     
