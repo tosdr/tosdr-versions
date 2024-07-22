@@ -1,3 +1,5 @@
+[To the page content](#main)
+
 [![seventy years logo](https://thumbs.static-thomann.de/thumb//thumb130/pics/images/special/70years/70-without-flare.png)
 
 Join Thomann's Anniversary! We award your loyalty with special offers! Get your deals
@@ -19,7 +21,7 @@ Get your deals](https://www.thomann.de/gb/social_70th-anniversary.html)
 search  
 
 * [Free Shipping Over £149](https://www.thomann.de/gb/helpdesk_shipping.html)
-* [Satisfaction Guarantee](https://www.thomann.de/gb/helpdesk_satisfaction.html)
+* [30-Days Money-Back](https://www.thomann.de/gb/helpdesk_moneyback.html)
 
 en · £
 
