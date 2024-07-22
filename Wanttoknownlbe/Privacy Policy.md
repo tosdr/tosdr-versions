@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/heftige-zonnevlam-bereikte-onze-aarde-zaterdag/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/reactie-op-gratis-griepmedicijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -208,7 +208,7 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [14 juli 2024](h
 
 [Een onnavolgbare analyse van Leon de Winter over de chaos in de VS. Een goed verborgen chaos, want krachten ‘achter de schermen’ metselen de gaten die op VS-bestuurlijk niveau vallen, helemaal dicht. En toch is de meest simpele vraag de rode vlag voor ieder weldenkend mens: “Als Joe Biden niet of nauwelijks nog weet wat er speelt in zijn directe omgeving, dan kan hij de VS toch niet meer leiden; maar wie doet dat dan..??!!” Deze vraag is natuurlijk essentieel voor de situatie in de wereld. Wij hebben hier op de site regelmatig verslag gedaan de afgelopen jaren, van de breekbaar-mentale situatie van de familie Biden, waar vooral Hunter Biden (Joe’s zoon) de situatie volledig uit de hand liet lopen. Een krachtige analyse van Leon de Winter. …](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/#respond)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [1 reactie](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/#comments)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
@@ -217,6 +217,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Marie-José](https://secure.gravatar.com/avatar/c913238cd212a2c5422b677c807b1129?s=50&d=identicon&r=g)
+
+##### **Marie-José** reacts on:
+
+##### Wie weet wie de VS bestuurt..??
+
+[Ik ben het met Léon de Winter eens : Obama is degene die nog…](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/comment-page-1/#comment-626303)
+
+![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
+
+##### **Senjutsu** reacts on:
+
+##### Donald Trump’s argwaan over beveiliging..!!
+
+[Het is toch net een script uit een B-film niet? Maar dan één…](https://www.wanttoknow.nl/overige/donald-trumps-argwaan-over-beveiliging/comment-page-1/#comment-626302)
 
 ![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
 
@@ -457,22 +473,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is nou precies een ‘complotdenker’..?
 
 [Deze morgen zag en hoorde ik op verschillende "nieuws uitzen…](https://www.wanttoknow.nl/overige/wat-is-nou-precies-een-complotdenker/comment-page-1/#comment-626268)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### Orbs, zie jij ze ook vliegen..? (+ updates!)
-
-[Hoi IRIS, Jij schrijft>duidelijk een kleurrijke lichtbol…](https://www.wanttoknow.nl/wetenschap/energie/orbs-zie-jij-ze-ook-vliegen/comment-page-2/#comment-626267)
-
-![Salal](https://secure.gravatar.com/avatar/8aea4dfb1d2428af5e1ac09378505abd?s=50&d=identicon&r=g)
-
-##### **Salal** reacts on:
-
-##### Het Stockholm-syndroom…
-
-[Mooi artikel. Dank je wel, Harriet. Alleen jammer van dat St…](https://www.wanttoknow.nl/inspiratie/het-stockholm-syndroom/comment-page-1/#comment-626266)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
