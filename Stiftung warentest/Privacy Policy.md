@@ -800,12 +800,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
+* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Fußbereich
 
@@ -3783,12 +3783,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
+* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Weitere spannende Themen
 
@@ -3803,12 +3803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
+* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Neueste Tests
 
@@ -3821,12 +3821,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit aktiv gemanagten Fonds: Mit den besten Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiv-gemanagten-Fonds-Mit-den-besten-Fonds-den-Markt-schlagen-6003925-0/ "Fünf-Punkte-Strategie mit aktiv gemanagten Fonds - Mit den besten Fonds den Markt schlagen")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [49-Euro-Ticket: Günstig reisen mit dem Deutsch­land­ticket](https://www.test.de/49-Euro-Ticket-Das-muessen-Sie-wissen-5944873-0/ "49-Euro-Ticket - Günstig reisen mit dem Deutschlandticket")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
+* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
 
 Service Stiftung Warentest
 
