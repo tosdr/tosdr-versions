@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Congress Could Help Turn Tide Against Forced Organ Harvesting in China, Say Advocates](https://www.theepochtimes.com/china/us-congress-could-help-turn-tide-against-crime-of-forced-organ-harvesting-in-china-say-advocates-5690228)
+* [Secret Service Director Admits ‘Significant Operational Failure’ in Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-director-admits-significant-operational-failure-in-trump-assassination-attempt-5691473)
     
-    3hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Congress Could Help Turn Tide Against Forced Organ Harvesting in China, Say Advocates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Secret Service Director Admits ‘Significant Operational Failure’ in Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Congress Could Help Turn Tide Against Forced Organ Harvesting in China, Say Advocates](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690522-04082024-DSC03582-us-capitol-SB-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-congress-could-help-turn-tide-against-crime-of-forced-organ-harvesting-in-china-say-advocates-5690228)
-* [China’s Children Scarred by CCP’s 25-Year Persecution of Falun Gong](https://www.theepochtimes.com/article/chinas-children-scarred-by-ccps-25-year-persecution-of-falun-gong-5687609)
+    ![Secret Service Director Admits ‘Significant Operational Failure’ in Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687551-1p2p3p12p312p3p213ppKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-director-admits-significant-operational-failure-in-trump-assassination-attempt-5691473)
+* [Harris Racks Up Endorsements After Biden Drops Out](https://www.theepochtimes.com/us/harris-racks-up-endorsements-after-biden-drops-out-5691513)
     
-    3hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![China’s Children Scarred by CCP’s 25-Year Persecution of Falun Gong](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Racks Up Endorsements After Biden Drops Out](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![China’s Children Scarred by CCP’s 25-Year Persecution of Falun Gong](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690224-Persecution-Children-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/chinas-children-scarred-by-ccps-25-year-persecution-of-falun-gong-5687609)
-* [Rep. Sheila Jackson Lee Dies at 74 After Cancer Battle](https://www.theepochtimes.com/us/rep-sheila-jackson-lee-dies-at-74-after-cancer-battle-5690504)
+    ![Harris Racks Up Endorsements After Biden Drops Out](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691175-GettyImages-2159966599-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-racks-up-endorsements-after-biden-drops-out-5691513)
+* [Secret Service Director Testifies to Congress on Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-director-testifies-to-congress-on-trump-assassination-attempt-5691489)
     
-    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Rep. Sheila Jackson Lee Dies at 74 After Cancer Battle](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Secret Service Director Testifies to Congress on Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Rep. Sheila Jackson Lee Dies at 74 After Cancer Battle](https://img.theepochtimes.com/assets/uploads/2024/03/06/id5601914-Rep.-Sheila-Jackson-Lee-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/rep-sheila-jackson-lee-dies-at-74-after-cancer-battle-5690504)
-* [Corey Comperatore Laid to Rest as Thousands Gather to Mourn](https://www.theepochtimes.com/us/corey-comperatore-laid-to-rest-as-thousands-gather-to-mourn-5690230)
+    ![Secret Service Director Testifies to Congress on Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691547-Election_2024_Trump_Shooting_Congress_24204529902971-205x123.jpg)](https://www.theepochtimes.com/us/secret-service-director-testifies-to-congress-on-trump-assassination-attempt-5691489)
+* [White House Confirms Biden Won’t Resign Before Term Ends](https://www.theepochtimes.com/us/white-house-confirms-biden-wont-resign-before-term-ends-5691386)
     
-    4hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Corey Comperatore Laid to Rest as Thousands Gather to Mourn](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![White House Confirms Biden Won’t Resign Before Term Ends](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Corey Comperatore Laid to Rest as Thousands Gather to Mourn](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690345-ccfuneral7-205x123.jpg.webp)](https://www.theepochtimes.com/us/corey-comperatore-laid-to-rest-as-thousands-gather-to-mourn-5690230)
-* [Maricopa County Says Some Voting Locations Impacted by Global Tech Outage](https://www.theepochtimes.com/us/maricopa-county-says-some-voting-locations-impacted-by-global-tech-outage-5690154)
+    ![White House Confirms Biden Won’t Resign Before Term Ends](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690065-GettyImages-2161163478-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-confirms-biden-wont-resign-before-term-ends-5691386)
+* [5:2 Intermittent Fasting Promising for Brain Health in Older Adults–Study](https://www.theepochtimes.com/health/52-intermittent-fasting-promising-for-brain-health-in-older-adults-study-5684351)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    5hr By [Jennifer Sweenie](https://www.theepochtimes.com/author/jennifer-sweenie)
     
-    [![Maricopa County Says Some Voting Locations Impacted by Global Tech Outage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5:2 Intermittent Fasting Promising for Brain Health in Older Adults–Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Maricopa County Says Some Voting Locations Impacted by Global Tech Outage](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569702-GettyImages-1439826650-205x123.jpg.webp)](https://www.theepochtimes.com/us/maricopa-county-says-some-voting-locations-impacted-by-global-tech-outage-5690154)
-* [Not All Body Fat Is Created Equal, Some Can Be Protective](https://www.theepochtimes.com/health/not-all-body-fat-is-created-equal-some-can-be-protective-5686571)
+    ![5:2 Intermittent Fasting Promising for Brain Health in Older Adults–Study](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684362-IMG_3810-205x123.jpeg.webp)](https://www.theepochtimes.com/health/52-intermittent-fasting-promising-for-brain-health-in-older-adults-study-5684351)
+* [Biden Admin Announces $4.3 Billion in Community Grants to Cut Climate Pollution](https://www.theepochtimes.com/us/biden-admin-announces-4-3-billion-in-community-grants-to-cut-climate-pollution-5690852)
     
-    10hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
+    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Not All Body Fat Is Created Equal, Some Can Be Protective](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Admin Announces $4.3 Billion in Community Grants to Cut Climate Pollution](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Not All Body Fat Is Created Equal, Some Can Be Protective](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5689572-shutterstock_396411568-205x123.jpg.webp)](https://www.theepochtimes.com/health/not-all-body-fat-is-created-equal-some-can-be-protective-5686571)
-* [Sugar: A Potential Culprit in Pancreatic Cancer, the ‘King of Cancer’](https://www.theepochtimes.com/health/sugar-a-potential-culprit-in-pancreatic-cancer-the-king-of-cancer-5684345)
+    ![Biden Admin Announces $4.3 Billion in Community Grants to Cut Climate Pollution](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691137-GettyImages-2162319822-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-admin-announces-4-3-billion-in-community-grants-to-cut-climate-pollution-5690852)
+* [After Biden Exits 2024 Race, Harris Scores Commanding Endorsements](https://www.theepochtimes.com/us/after-biden-exits-2024-race-harris-scores-commanding-endorsements-5691284)
     
-    10hr By [Shan Lam](https://www.theepochtimes.com/author/shan-lam) and [JoJo Novaes](https://www.theepochtimes.com/author/jojo-novaes)
+    11hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov), [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Sugar: A Potential Culprit in Pancreatic Cancer, the ‘King of Cancer’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![After Biden Exits 2024 Race, Harris Scores Commanding Endorsements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Sugar: A Potential Culprit in Pancreatic Cancer, the ‘King of Cancer’](https://img.theepochtimes.com/assets/uploads/2023/10/23/id5514915-FeatureImageSize-205x123.jpg.webp)](https://www.theepochtimes.com/health/sugar-a-potential-culprit-in-pancreatic-cancer-the-king-of-cancer-5684345)
-* [COVID Social Distancing Linked to Newborn Mortality and Preterm Births, Study Finds](https://www.theepochtimes.com/health/covid-social-distancing-linked-to-newborn-mortality-and-preterm-births-study-finds-5689980)
+    ![After Biden Exits 2024 Race, Harris Scores Commanding Endorsements](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691449-GettyImages-2161943649-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-biden-exits-2024-race-harris-scores-commanding-endorsements-5691284)
+* [Secret Service Director: ‘Eager to Cooperate’ With Independent Review](https://www.theepochtimes.com/us/secret-service-director-eager-to-cooperate-with-independent-review-5691256)
     
-    12hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    12hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
-    [![COVID Social Distancing Linked to Newborn Mortality and Preterm Births, Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Secret Service Director: ‘Eager to Cooperate’ With Independent Review](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![COVID Social Distancing Linked to Newborn Mortality and Preterm Births, Study Finds](https://img.theepochtimes.com/assets/uploads/2023/11/08/id5525571-Newbornshutterstock_1531703333-205x123.jpeg.webp)](https://www.theepochtimes.com/health/covid-social-distancing-linked-to-newborn-mortality-and-preterm-births-study-finds-5689980)
-* [White House Physician Provides Update on Biden’s COVID Symptoms](https://www.theepochtimes.com/us/white-house-physician-provides-update-on-bidens-covid-symptoms-5690016)
+    ![Secret Service Director: ‘Eager to Cooperate’ With Independent Review](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691452-Cheatle-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-director-eager-to-cooperate-with-independent-review-5691256)
+* [Strategists Share Predictions on What’s Next for Democratic Party](https://www.theepochtimes.com/us/strategists-share-predictions-on-whats-next-for-democratic-party-5691211)
     
-    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    16hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![White House Physician Provides Update on Biden’s COVID Symptoms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Strategists Share Predictions on What’s Next for Democratic Party](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![White House Physician Provides Update on Biden’s COVID Symptoms](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5688898-Biden-_-Las-Vegas3-e1721280648599-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-physician-provides-update-on-bidens-covid-symptoms-5690016)
-* [Top UN Court’s Opinion Says Israeli Settlements Violate International Law](https://www.theepochtimes.com/world/top-un-courts-opinion-says-israeli-settlements-violate-international-law-5689960)
+    ![Strategists Share Predictions on What’s Next for Democratic Party](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691175-GettyImages-2159966599-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/strategists-share-predictions-on-whats-next-for-democratic-party-5691211)
+* [Harris Announces Run for Democratic Nominee, Earns Endorsements](https://www.theepochtimes.com/us/harris-accepts-bidens-endorsement-for-democratic-presidential-ticket-5691196)
     
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    16hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Top UN Court’s Opinion Says Israeli Settlements Violate International Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Announces Run for Democratic Nominee, Earns Endorsements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Top UN Court’s Opinion Says Israeli Settlements Violate International Law](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690049-ISRAEL-PALESTINIANS-WORLD-COURT-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/top-un-courts-opinion-says-israeli-settlements-violate-international-law-5689960)
+    ![Harris Announces Run for Democratic Nominee, Earns Endorsements](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691133-GettyImages-2161943692-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-accepts-bidens-endorsement-for-democratic-presidential-ticket-5691196)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
