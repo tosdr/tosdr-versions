@@ -557,6 +557,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    July 22, 2024
+    
+    [Detailed Guidance and Press Schedule for Secretary of the Treasury Janet L. Yellen’s Travel to Brazil](https://home.treasury.gov/news/press-releases/jy2474)
+    
     July 19, 2024
     
     [Treasury Sanctions Leader and Primary Member of the Cyber Army of Russia Reborn](https://home.treasury.gov/news/press-releases/jy2473)
@@ -564,10 +568,6 @@ MENU MENU
     July 18, 2024
     
     [Treasury International Capital Data for May](https://home.treasury.gov/news/press-releases/jy2472)
-    
-    July 18, 2024
-    
-    [Treasury Targets Transnational Criminal Organization Smuggling Migrants into the United States](https://home.treasury.gov/news/press-releases/jy2470)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
