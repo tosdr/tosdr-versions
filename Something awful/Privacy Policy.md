@@ -205,25 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Dragon Ball: The Magic Begins](https://www.somethingawful.com/movie-reviews/dragon-ball-magic/1/)
-* [Carliving.info (Thanks, just some guy!)](https://www.somethingawful.com/awful-links/car-living-vandwellers/)
-* [MoonStones... (Thanks, Sniperzombies!)](https://www.somethingawful.com/awful-links/moonstones-store-pittsburgh/)
-* [MANDAMUS: VOID Orders/Judgments (Thanks, blarzgh!)](https://www.somethingawful.com/awful-links/paul-chen-mandamus/)
-* [Tumblr's lifting community (Thanks, EgoEgress!)](https://www.somethingawful.com/awful-links/tumblr-lifting-community/)
+* [Fun Adventures in Racism](https://www.somethingawful.com/comedy-goldmine/fun-adventures-racism/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [THE TUBE ADVENTURE!](https://www.somethingawful.com/news/tube-adventure-game/)
+* [Doctor Strange - Master of Sorcery and Convenient Snacks](https://www.somethingawful.com/news/doctor-strange-eatery/)
+* [The War for Lake Michigan](https://www.somethingawful.com/news/lake-michigan-war/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [Anyone else get a BIG WIN on the swift case?](http://forums.somethingawful.com/showthread.php?threadid=4065985 "Anyone else get a BIG WIN on the swift case?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tech.png) [Something I never got about the game StarCraft brood war. Spoilers](http://forums.somethingawful.com/showthread.php?threadid=4065951 "Something I never got about the game StarCraft brood war. Spoilers")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/tech.png) [So some computer program ate shit and fucked itself today?](http://forums.somethingawful.com/showthread.php?threadid=4065941 "So some computer program ate shit and fucked itself today?")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [do kids today have traumatizing media like we did](http://forums.somethingawful.com/showthread.php?threadid=4066146 "do kids today have traumatizing media like we did")
+* ![](https://fi.somethingawful.com/forums/posticons/tg-scrunt.gif) [what is the nastiest type of body hair?](http://forums.somethingawful.com/showthread.php?threadid=4066125 "what is the nastiest type of body hair?")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-mccain.gif) [How in the fuck are you supposed to live?](http://forums.somethingawful.com/showthread.php?threadid=4066080 "How in the fuck are you supposed to live?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [What is the greatest internet flash game youve ever played](http://forums.somethingawful.com/showthread.php?threadid=4066142 "What is the greatest internet flash game youve ever played")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/fruity.png) [ITT you just fell out of a coconut tree](http://forums.somethingawful.com/showthread.php?threadid=4066131 "ITT you just fell out of a coconut tree")
+* ![](https://fi.somethingawful.com/forums/posticons/tg-scrunt.gif) [Yo I've got an interior design question](http://forums.somethingawful.com/showthread.php?threadid=4066165 "Yo I've got an interior design question")
 
 ### Random Articles
 
-* [Tetsuko,](https://www.somethingawful.com/awful-links/awful-link-1224/)
-* [Advanced Dungeons & Dragons: 1st Edition Fiend Folio (part 1)](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-1/1/)
-* [More Dogs???](https://www.somethingawful.com/mooflogs/daily-combtracking/)
-* [The Hottest Tech Deals Made at Burning Man 2013](https://www.somethingawful.com/feature-articles/tech-burning-man/1/)
-* [I Hate You Page 94](https://www.somethingawful.com/cliff-yablonski/i-hate-you-94/)
+* [Bullying is Bad! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/bullying-comics-bitstrips/1/)
+* [Awful Places: Hampton Beach, NH](https://www.somethingawful.com/news/hampton-beach-awful/)
+* [Fighting Like ATHENA](https://www.somethingawful.com/horrors-of-porn/fighting-like-athena/)
+* [Honey, We Blew Up Your Pussy](https://www.somethingawful.com/horrors-of-porn/honey-we-blew/)
+* [SA Holiday Shopping Guide!](https://www.somethingawful.com/comedy-goldmine/unlicensed-knockoffs-dealextreme/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
