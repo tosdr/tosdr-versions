@@ -160,15 +160,15 @@ Advanced Search
 
 Trending Splashtags
 
-[#bidenharris2024](https://spoutible.com/search/posts?q=%23bidenharris2024)
+[#harris2024](https://spoutible.com/search/posts?q=%23harris2024)
 
-[#restinpower](https://spoutible.com/search/posts?q=%23restinpower)
+[#sample](https://spoutible.com/search/posts?q=%23sample)
+
+[#dailypicturetheme](https://spoutible.com/search/posts?q=%23dailypicturetheme)
 
 [#music](https://spoutible.com/search/posts?q=%23music)
 
-[#anythinggoes](https://spoutible.com/search/posts?q=%23anythinggoes)
-
-[#haiku](https://spoutible.com/search/posts?q=%23haiku)
+[#spoutible](https://spoutible.com/search/posts?q=%23spoutible)
 
 [Show More](https://spoutible.com/trending)
 
