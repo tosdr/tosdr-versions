@@ -51,15 +51,15 @@ It looks like this page is not here...someone ran a command!
 
 ### Affiliates
 
-* [ProWritingAid](https://tlm.li/pwa)
-* [A2Hosting](https://tlm.li/a2h)
-* [Mint Mobile](http://fbuy.me/ooPje)
-* [Digital Ocean](https://tlm.li/doh)
-* [Namecheap](https://tlm.li/nc)
 * [Amazon](http://amzn.to/2oFr4Wa)
-* [In Motion Hosting](https://tlm.li/imh)
+* [Mint Mobile](http://fbuy.me/ooPje)
 * [Nord VPN](https://tlm.li/nord)
+* [ProWritingAid](https://tlm.li/pwa)
 * [Siteground](https://tlm.li/sgh)
+* [A2Hosting](https://tlm.li/a2h)
+* [Namecheap](https://tlm.li/nc)
+* [In Motion Hosting](https://tlm.li/imh)
+* [Digital Ocean](https://tlm.li/doh)
 
 ### Support Sites
 
