@@ -12,6 +12,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
 
 * [Electric Scooters](https://www.voromotors.com/en-gb/collections/electric-scooters)
     * [EMOVE Electric Scooters](https://www.voromotors.com/en-gb/collections/emove-electric-scooters)
+        * [Cruiser V2(New!)](https://www.voromotors.com/en-gb/products/emove-cruiser-v2)
         * [Cruiser S](https://www.voromotors.com/en-gb/products/emove-cruiser)
         * [Touring](https://www.voromotors.com/en-gb/products/emove-touring)
         * [RoadRunner V2](https://www.voromotors.com/en-gb/products/emove-roadrunner)
@@ -208,6 +209,7 @@ Continue Shopping
 
 * [EMOVE Electric Scooters](https://www.voromotors.com/en-gb/collections/emove-electric-scooters)
 
+* [Cruiser V2(New!)](https://www.voromotors.com/en-gb/products/emove-cruiser-v2)
 * [Cruiser S](https://www.voromotors.com/en-gb/products/emove-cruiser)
 * [Touring](https://www.voromotors.com/en-gb/products/emove-touring)
 * [RoadRunner V2](https://www.voromotors.com/en-gb/products/emove-roadrunner)
