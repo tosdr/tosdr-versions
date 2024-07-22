@@ -203,7 +203,7 @@ The only time uBO connects to a remote server is to update the filter lists and 
 
 uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-### Toggle table of contents Pages 139
+### Toggle table of contents Pages 141
 
 * Loading
     
@@ -231,7 +231,15 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     
 * Loading
     
+    [About Safari and Canary support](https://github.com/gorhill/uBlock/wiki/About-Safari-and-Canary-support)
+    
+* Loading
+    
     [About the required permissions](https://github.com/gorhill/uBlock/wiki/About-the-required-permissions)
+    
+* Loading
+    
+    [About the Wiki documentation](https://github.com/gorhill/uBlock/wiki/About-the-Wiki-documentation)
     
 * Loading
     
@@ -761,9 +769,10 @@ uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     
     [µBlock vs. ABP: efficiency compared](https://github.com/gorhill/uBlock/wiki/%C2%B5Block-vs.-ABP:-efficiency-compared)
     
-* Show 124 more pages…
+* Show 126 more pages…
 
 * [Wiki home](https://github.com/gorhill/uBlock/wiki/Home)
+* [About the Wiki documentation](https://github.com/gorhill/uBlock/wiki/About-the-Wiki-documentation)
 * [Permissions](https://github.com/gorhill/uBlock/wiki/Permissions)
     * [Can you trust uBlock Origin?](https://github.com/gorhill/uBlock/wiki/Can-you-trust-uBlock-Origin%3F)
 * [Privacy policy](https://github.com/gorhill/uBlock/wiki/Privacy-policy)
