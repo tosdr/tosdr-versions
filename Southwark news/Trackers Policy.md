@@ -19,41 +19,41 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Mayor-of-London-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+    [![Victim Jesse Lloyd Smith](https://southwarknews.co.uk/wp-content/uploads/2024/07/Victim-Jesse-Lloyd-Smith-263x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
     
-    ### [Sadiq Khan’s book Breathe and the claims he’ll introduce the ‘pay per mile’ system on London drivers](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+    ### [Peckham shooting victim named as Jesse Lloyd-Smith](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
     
-    [![Google Maps: Guy's Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-21-05-2024-at-12.43-e1716292032869-360x180.jpg)](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+    [![East side of Neckinger.](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
     
-    ### [NHS cyber attack: ‘Most services’ at south London hospitals back to ‘near normal’](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+    ### [New cycle lane in Bermondsey could get rid of ‘half of the parking’ for nearby estate](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
     
-    [![Witnesses say the incident took place on Adelaide Close, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/07/Witnesses-say-the-incident-took-place-on-Adelaide-Close-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
     
-    ### [Man fires gun at boys on residential Brixton street, witnesses say](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
+    ### [Social housing watchdog begins Southwark Council probe amid suspected serious failings](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
     
-    [![Deptford does Art](https://southwarknews.co.uk/wp-content/uploads/2024/07/Deptford-does-Art-360x180.jpg)](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
+    [![Sadiq Khan and Susan Hall clash at Mayor's Question Time. Image from London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-and-Susan-Hall-clash-at-Mayors-Question-Time.-Image-from-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
     
-    ### [The husband and wife team behind ‘Deptford does Art’](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
+    ### [Sadiq Khan accused of continuing to fight a “war on the motorist”, as he said he will remove the congestion charge exemption for electric vehicles](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
     
-    [![The Two Towers TMO is among those that owe money to Southwark Council, according to council dossier](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Two-Towers-TMO-is-among-those-that-owe-money-to-Southwark-Council-according-to-council-dossier-360x180.png)](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+    [![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-360x180.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
     
-    ### [Exclusive: Bombshell dossier reveals Southwark Council’s £3 million debt crisis amid fears that council estates have been financially mismanaged](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+    ### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
     
-    [![Top row (left to right): Jalees Selby-Gangera, Connor Brooks, Enriko Spahiu, Kai Osibodu. Bottow row left to right: Bradlee Reeve, Charlie Brabon, Anthony Wallder](https://southwarknews.co.uk/wp-content/uploads/2024/07/Top-row-left-to-right-Jalees-Selby-Gangera-Connor-Brooks-Enriko-Spahiu-Kai-Osibodu.-Bottow-row-left-to-right-Bradlee-Reeve-Charlie-Brabon-Anthony-Wallder-360x180.png)](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+    [![Councillor Donatus Anyanwu defended the use of Brockwell Park for events at Lambeth Council meeting on July 17, 2024. Screenshot of Lambeth Council meeting](https://southwarknews.co.uk/wp-content/uploads/2024/07/Councillor-Donatus-Anyanwu-defended-the-use-of-Brockwell-Park-for-events-at-Lambeth-Council-meeting-on-July-17-2024.-Screenshot-of-Lambeth-Council-meeting-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
     
-    ### [Seven jailed for over 150 years after gunning down Bermondsey man in the street](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+    ### [Campaigners pour cold water on councillor’s claim that events boost biodiversity in Brockwell Park](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
     
-    [![People inspecting the plans ahead of the refurbishment. Image: Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/07/People-inspecting-the-plans-ahead-of-the-refurbishment.-Image-Brunel-Museum-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+    [![Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/07/Southwark_Park_Sporting_Green-scaled-1-360x180.jpg)](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
     
-    ### [Brunel Museum to close until summer 2025 for landmark refurbishment that will restore historic Thames Tunnel site to its former glory](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+    ### [‘Vital’ Southwark parks retain thirty prestigious Green Flag Awards](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
     
-    [![Police have released images of a motorbike they believe could be linked to the shooting in Dalston. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-have-released-images-of-a-motorbike-they-believe-could-be-linked-to-the-shooting-in-Dalston.-Image-Met-Police-360x180.png)](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+    [![SWAP Scheme tutorial in action.](https://southwarknews.co.uk/wp-content/uploads/2024/07/SWAP-scheme-tutorial-at-the-Tessa-Jowell-Health-Centre-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
     
-    ### [Motorbike ‘linked’ to Dalston shooting that critically injured nine-year-old girl has ‘been in Peckham and Crystal Palace’](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+    ### [Over half of the people on new employment scheme get jobs in local GP surgery](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
     
-    [![Jailed: Louis Collins](https://southwarknews.co.uk/wp-content/uploads/2024/07/Louis-Collins-e1721310876591-360x180.jpeg)](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
     
-    ### [Serial South London sex offender given life sentence](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
+    ### [Comment: Southwark Council’s apology for failing residents on electrical safety is meaningless without proper soul-searching](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -95,41 +95,41 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Mayor-of-London-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+    [![Victim Jesse Lloyd Smith](https://southwarknews.co.uk/wp-content/uploads/2024/07/Victim-Jesse-Lloyd-Smith-263x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
     
-    ### [Sadiq Khan’s book Breathe and the claims he’ll introduce the ‘pay per mile’ system on London drivers](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+    ### [Peckham shooting victim named as Jesse Lloyd-Smith](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
     
-    [![Google Maps: Guy's Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-21-05-2024-at-12.43-e1716292032869-360x180.jpg)](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+    [![East side of Neckinger.](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
     
-    ### [NHS cyber attack: ‘Most services’ at south London hospitals back to ‘near normal’](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+    ### [New cycle lane in Bermondsey could get rid of ‘half of the parking’ for nearby estate](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
     
-    [![Witnesses say the incident took place on Adelaide Close, Brixton. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/07/Witnesses-say-the-incident-took-place-on-Adelaide-Close-Brixton.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
     
-    ### [Man fires gun at boys on residential Brixton street, witnesses say](https://southwarknews.co.uk/area/bermondsey/man-fires-gun-at-boys-on-residential-brixton-street-witnesses-say/)
+    ### [Social housing watchdog begins Southwark Council probe amid suspected serious failings](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
     
-    [![Deptford does Art](https://southwarknews.co.uk/wp-content/uploads/2024/07/Deptford-does-Art-360x180.jpg)](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
+    [![Sadiq Khan and Susan Hall clash at Mayor's Question Time. Image from London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-and-Susan-Hall-clash-at-Mayors-Question-Time.-Image-from-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
     
-    ### [The husband and wife team behind ‘Deptford does Art’](https://southwarknews.co.uk/area/deptford/the-husband-and-wife-team-behind-deptford-does-art/)
+    ### [Sadiq Khan accused of continuing to fight a “war on the motorist”, as he said he will remove the congestion charge exemption for electric vehicles](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
     
-    [![The Two Towers TMO is among those that owe money to Southwark Council, according to council dossier](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Two-Towers-TMO-is-among-those-that-owe-money-to-Southwark-Council-according-to-council-dossier-360x180.png)](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+    [![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-360x180.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
     
-    ### [Exclusive: Bombshell dossier reveals Southwark Council’s £3 million debt crisis amid fears that council estates have been financially mismanaged](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+    ### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
     
-    [![Top row (left to right): Jalees Selby-Gangera, Connor Brooks, Enriko Spahiu, Kai Osibodu. Bottow row left to right: Bradlee Reeve, Charlie Brabon, Anthony Wallder](https://southwarknews.co.uk/wp-content/uploads/2024/07/Top-row-left-to-right-Jalees-Selby-Gangera-Connor-Brooks-Enriko-Spahiu-Kai-Osibodu.-Bottow-row-left-to-right-Bradlee-Reeve-Charlie-Brabon-Anthony-Wallder-360x180.png)](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+    [![Councillor Donatus Anyanwu defended the use of Brockwell Park for events at Lambeth Council meeting on July 17, 2024. Screenshot of Lambeth Council meeting](https://southwarknews.co.uk/wp-content/uploads/2024/07/Councillor-Donatus-Anyanwu-defended-the-use-of-Brockwell-Park-for-events-at-Lambeth-Council-meeting-on-July-17-2024.-Screenshot-of-Lambeth-Council-meeting-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
     
-    ### [Seven jailed for over 150 years after gunning down Bermondsey man in the street](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+    ### [Campaigners pour cold water on councillor’s claim that events boost biodiversity in Brockwell Park](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
     
-    [![People inspecting the plans ahead of the refurbishment. Image: Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/07/People-inspecting-the-plans-ahead-of-the-refurbishment.-Image-Brunel-Museum-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+    [![Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/07/Southwark_Park_Sporting_Green-scaled-1-360x180.jpg)](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
     
-    ### [Brunel Museum to close until summer 2025 for landmark refurbishment that will restore historic Thames Tunnel site to its former glory](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+    ### [‘Vital’ Southwark parks retain thirty prestigious Green Flag Awards](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
     
-    [![Police have released images of a motorbike they believe could be linked to the shooting in Dalston. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-have-released-images-of-a-motorbike-they-believe-could-be-linked-to-the-shooting-in-Dalston.-Image-Met-Police-360x180.png)](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+    [![SWAP Scheme tutorial in action.](https://southwarknews.co.uk/wp-content/uploads/2024/07/SWAP-scheme-tutorial-at-the-Tessa-Jowell-Health-Centre-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
     
-    ### [Motorbike ‘linked’ to Dalston shooting that critically injured nine-year-old girl has ‘been in Peckham and Crystal Palace’](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+    ### [Over half of the people on new employment scheme get jobs in local GP surgery](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
     
-    [![Jailed: Louis Collins](https://southwarknews.co.uk/wp-content/uploads/2024/07/Louis-Collins-e1721310876591-360x180.jpeg)](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
+    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
     
-    ### [Serial South London sex offender given life sentence](https://southwarknews.co.uk/news/crime/serial-south-london-sex-offender-given-life-sentence/)
+    ### [Comment: Southwark Council’s apology for failing residents on electrical safety is meaningless without proper soul-searching](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -189,23 +189,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [15th July 2024](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
 
-[![The difference 130 years makes: L: 1894; R: 2024](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-11-07-2024-at-15.09-120x86.jpg)](https://southwarknews.co.uk/news/recreation-of-tower-bridge-photo-130-years-after-it-was-taken/)
-
-### [Recreation of Tower Bridge photo 130 years after it was taken](https://southwarknews.co.uk/news/recreation-of-tower-bridge-photo-130-years-after-it-was-taken/)
-
-[14th July 2024](https://southwarknews.co.uk/news/recreation-of-tower-bridge-photo-130-years-after-it-was-taken/)
-
 [![Neil Harris has so far made three signings. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-2721829-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
 
 ### [The ‘priority position’ Millwall boss is still looking to recruit in following last week’s three signings](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
 
 [17th July 2024](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
 
-[![Police were called to East Surrey Grove, Peckham, following reports of an injured man. Image: Google Maps (2022)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-were-called-to-East-Surrey-Grove-Peckham-following-reports-of-an-injured-man.-Image-Google-Maps-2022-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-in-shock-after-fatal-shooting-by-damilola-taylor-centre-in-peckham/)
+[![Billy Mitchell is set to be on the sidelines for weeks. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/B-Mitchell-82823736-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/billy-mitchell-injury-pre-season/)
 
-### [Peckham in ‘shock’ after fatal shooting by Damilola Taylor Centre](https://southwarknews.co.uk/area/peckham/peckham-in-shock-after-fatal-shooting-by-damilola-taylor-centre-in-peckham/)
+### [Millwall midfielder set to miss the beginning of the season but trio of senior players ready to be involved in behind closed doors games](https://southwarknews.co.uk/sport/football/millwall/billy-mitchell-injury-pre-season/)
 
-[14th July 2024](https://southwarknews.co.uk/area/peckham/peckham-in-shock-after-fatal-shooting-by-damilola-taylor-centre-in-peckham/)
+[16th July 2024](https://southwarknews.co.uk/sport/football/millwall/billy-mitchell-injury-pre-season/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Plans-have-been-submitted-to-turn-the-Walworth-Road-Post-Office-into-a-chicken-shop-2-e1720515625767-120x86.png)](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
 
@@ -213,49 +207,55 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [15th July 2024](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
 
-[![Neil Harris oversaw the arrival of three new players last week. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-64458459-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/harris-transfers-director-football-gallen/)
+[![Romain Esse fired home for Millwall against Reading. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/R-Esse-44994-2024-04-02T16_57_45.293-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/esse-flemming-goals-reading-friendly/)
 
-### [Millwall boss pays tribute to new transfer chief who is working ’24/7′ and was ‘instrumental’ to last week’s signings](https://southwarknews.co.uk/sport/football/millwall/harris-transfers-director-football-gallen/)
+### [Romain Esse on target as Millwall beat Reading in behind closed doors friendly](https://southwarknews.co.uk/sport/football/millwall/esse-flemming-goals-reading-friendly/)
 
-[15th July 2024](https://southwarknews.co.uk/sport/football/millwall/harris-transfers-director-football-gallen/)
+[19th July 2024](https://southwarknews.co.uk/sport/football/millwall/esse-flemming-goals-reading-friendly/)
+
+[![Shaun Hutchinson is back at Millwall. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/S-Hutchinson-982871-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/shaun-hutchinson-return-one-year-deal/)
+
+### [Millwall re-sign Shaun Hutchinson on one-year deal](https://southwarknews.co.uk/sport/football/millwall/shaun-hutchinson-return-one-year-deal/)
+
+[18th July 2024](https://southwarknews.co.uk/sport/football/millwall/shaun-hutchinson-return-one-year-deal/)
 
 ### Featured Articles
 
-[![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Mayor-of-London-Sadiq-Khan.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+[![Victim Jesse Lloyd Smith](https://southwarknews.co.uk/wp-content/uploads/2024/07/Victim-Jesse-Lloyd-Smith-e1721639155872-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
 
-### [Sadiq Khan’s book Breathe and the claims he’ll introduce the ‘pay per mile’ system on London drivers](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+### [Peckham shooting victim named as Jesse Lloyd-Smith](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
 
-[19th July 2024](https://southwarknews.co.uk/area/london/sadiq-khans-book-breathe-and-the-claims-hell-introduce-the-pay-per-mile-system-on-london-drivers/)
+[22nd July 2024](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
 
-[![Google Maps: Guy's Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-21-05-2024-at-12.43-e1716292032869-120x86.jpg)](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+[![East side of Neckinger.](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
 
-### [NHS cyber attack: ‘Most services’ at south London hospitals back to ‘near normal’](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+### [New cycle lane in Bermondsey could get rid of ‘half of the parking’ for nearby estate](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
 
-[19th July 2024](https://southwarknews.co.uk/area/southwark/nhs-cyber-attack-most-services-at-south-london-hospitals-back-to-near-normal/)
+[22nd July 2024](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
 
-[![The Two Towers TMO is among those that owe money to Southwark Council, according to council dossier](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Two-Towers-TMO-is-among-those-that-owe-money-to-Southwark-Council-according-to-council-dossier-120x86.png)](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+[![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
-### [Exclusive: Bombshell dossier reveals Southwark Council’s £3 million debt crisis amid fears that council estates have been financially mismanaged](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+### [Social housing watchdog begins Southwark Council probe amid suspected serious failings](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
-[19th July 2024](https://southwarknews.co.uk/featured/exclusive-bombshell-dossier-reveals-southwark-councils-3-million-debt-crisis-amid-fears-that-council-estates-have-been-financially-mismanaged/)
+[22nd July 2024](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
-[![Top row (left to right): Jalees Selby-Gangera, Connor Brooks, Enriko Spahiu, Kai Osibodu. Bottow row left to right: Bradlee Reeve, Charlie Brabon, Anthony Wallder](https://southwarknews.co.uk/wp-content/uploads/2024/07/Top-row-left-to-right-Jalees-Selby-Gangera-Connor-Brooks-Enriko-Spahiu-Kai-Osibodu.-Bottow-row-left-to-right-Bradlee-Reeve-Charlie-Brabon-Anthony-Wallder-120x86.png)](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+[![Sadiq Khan and Susan Hall clash at Mayor's Question Time. Image from London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-and-Susan-Hall-clash-at-Mayors-Question-Time.-Image-from-London-Assembly-webcast-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
 
-### [Seven jailed for over 150 years after gunning down Bermondsey man in the street](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+### [Sadiq Khan accused of continuing to fight a “war on the motorist”, as he said he will remove the congestion charge exemption for electric vehicles](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
 
-[19th July 2024](https://southwarknews.co.uk/area/bermondsey/seven-jailed-for-over-150-years-after-gunning-down-bermondsey-man-in-the-street/)
+[21st July 2024](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
 
-[![People inspecting the plans ahead of the refurbishment. Image: Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/07/People-inspecting-the-plans-ahead-of-the-refurbishment.-Image-Brunel-Museum-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+[![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-120x86.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
 
-### [Brunel Museum to close until summer 2025 for landmark refurbishment that will restore historic Thames Tunnel site to its former glory](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
 
-[18th July 2024](https://southwarknews.co.uk/area/rotherhithe/brunel-museum-to-close-until-summer-2025-for-landmark-refurbishment-that-will-restore-historic-thames-tunnel-site-to-its-former-glory/)
+[21st July 2024](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
 
-[![Police have released images of a motorbike they believe could be linked to the shooting in Dalston. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-have-released-images-of-a-motorbike-they-believe-could-be-linked-to-the-shooting-in-Dalston.-Image-Met-Police-120x86.png)](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+[![Councillor Donatus Anyanwu defended the use of Brockwell Park for events at Lambeth Council meeting on July 17, 2024. Screenshot of Lambeth Council meeting](https://southwarknews.co.uk/wp-content/uploads/2024/07/Councillor-Donatus-Anyanwu-defended-the-use-of-Brockwell-Park-for-events-at-Lambeth-Council-meeting-on-July-17-2024.-Screenshot-of-Lambeth-Council-meeting-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
 
-### [Motorbike ‘linked’ to Dalston shooting that critically injured nine-year-old girl has ‘been in Peckham and Crystal Palace’](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+### [Campaigners pour cold water on councillor’s claim that events boost biodiversity in Brockwell Park](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
 
-[18th July 2024](https://southwarknews.co.uk/area/crystal-palace/motorbike-linked-to-dalston-shooting-that-critically-injured-nine-year-old-girl-has-been-in-peckham-and-crystal-palace/)
+[21st July 2024](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
 
 ### USEFUL PAGES
 
