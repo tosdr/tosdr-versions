@@ -24,6 +24,7 @@ For more details about cookies and how you may control them, please see our tabl
 | Alibi | [Alibi cookie policy](https://alibi.uktv.co.uk/legal/alibi-cookie-policy) |
 | Gold | [Gold cookie policy](https://gold.uktv.co.uk/legal/gold-cookie-policy) |
 | Eden | [Eden cookie policy](https://corporate.uktv.co.uk/legal/cookie-policy) |
+| U&Us | [U&Us cookie policy](https://uandus.uktv.co.uk/p/cookies) |
 
   
 
