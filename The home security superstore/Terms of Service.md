@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% OFF SITEWIDE SALE I Use Code: SAVE15%](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?view_all=true&utm_source=website&utm_medium=banner&utm_campaign=15%25+OFF+SITEWIDE+Code%3A+OFF15)
+[15% Off SECURITY PRODUCTS I Code: PROTECT](https://www.thehomesecuritysuperstore.com/collections/security?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SECURITY+PRODUCTS)
 
-Today’s offer: :: | 15% OFF SITEWIDE SALE I Use Code: SAVE15%
+Today’s offer: :: | 15% Off SECURITY PRODUCTS I Code: PROTECT
 
 Today’s offer: : :
 
- 15% OFF SITEWIDE SALE I Use Code: SAVE15%
+ 15% Off SECURITY PRODUCTS I Code: PROTECT
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
