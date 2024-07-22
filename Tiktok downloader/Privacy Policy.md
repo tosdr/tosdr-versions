@@ -1,7 +1,6 @@
 [![TikTok Downloader Logo](/assets/img/logo_header_96x96.png?h=c8c945d05580c289ba81ece09a91e1c5)TikTok Downloader](https://tiktokdownloader.com/ "TikTok Downloader")
 
 *  [Home](https://tiktokdownloader.com/)
-*  [Chrome Extension](https://chrome.google.com/webstore/detail/tiktok-downloader/ghhcamahihkbgfioeimocdmmiiejjnfe)
 *  [Firefox add-on](https://addons.mozilla.org/firefox/addon/tiktok-download)
 *  [Contact Us](https://tiktokdownloader.com/contact)
 *  [FAQ](https://tiktokdownloader.com/faq)
