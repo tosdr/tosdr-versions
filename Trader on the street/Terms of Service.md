@@ -30,13 +30,6 @@
 
 [](#)
 
-[](https://traderonthestreet.com/cart/)
-
-Cart
-----
-
-No products in the cart.
-
 [Sign in](https://traderonthestreet.com/login) [Sign up](https://traderonthestreet.com/register/)
 
 [](#)
@@ -51,8 +44,8 @@ No products in the cart.
 
 [](https://traderonthestreet.com/cart/)
 
-Cart
-----
+Shopping Cart
+-------------
 
 No products in the cart.
 
@@ -60,15 +53,11 @@ Search for:
 
 [](#)
 
-[](#)
-
   [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20127'%3E%3C/svg%3E)
 
  ![](https://traderonthestreet.com/wp-content/uploads/2020/06/tots-black.png)](https://traderonthestreet.com/)
 
-* * *
-
-[Sign in](https://traderonthestreet.com/wp-login.php) [Sign up](https://traderonthestreet.com/register/)
+[](#)
 
 Terms and Conditions for Trader On The Street
 
