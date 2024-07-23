@@ -1,4 +1,4 @@
-[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
+[](https://www.deepl.com/)[](https://www.deepl.com/translator)![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
 
 DeepL Translator (free)
 
