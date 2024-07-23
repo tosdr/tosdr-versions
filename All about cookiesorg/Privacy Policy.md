@@ -259,6 +259,7 @@ Delray Beach, FL 33444
 All About Cookies is an informational website that provides tips, advice, and recommendations to help you with Online Privacy, Identity Theft Prevention, Antivirus Protection, and Digital Security. We strive to provide up-to-date information, but make no warranties regarding the accuracy of our information. Ultimately, you are responsible for your digital security. All About Cookies is not a digital security product and does not provide any digital security products.
 
 * [About Us](https://www.allaboutcookies.org/about-us)
+* [Press](https://www.allaboutcookies.org/press)
 * [Ratings Methodology](https://www.allaboutcookies.org/how-we-test)
 * [Privacy Policy](https://www.allaboutcookies.org/privacy)
 * [Do Not Sell or Share My Personal Information](https://www.allaboutcookies.org/privacy#do-not-sell)
