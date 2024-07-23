@@ -116,6 +116,8 @@ Enter Search Term  ![Search](/profiles/dhsd8_gov/themes/custom/dhs_uswds_subthem
     
     [Honoring Veterans](https://www.dhs.gov/honoring-veterans)
     
+    [Independent Review of 2024 Attempted Assassination](https://www.dhs.gov/independent-review-2024-attempted-assassination)
+    
     [Operation Allies Welcome](https://www.dhs.gov/allieswelcome)
     
     [Recognizing DHS Excellence](https://www.dhs.gov/recognizing-dhs-excellence)
