@@ -27,7 +27,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -278,6 +278,8 @@ Solargraf Terms of Use
 [Belgium (Dutch)](https://enphase.com/legal/solargraf-terms-belgium-dutch)
 
 [Belgium (French)](https://enphase.com/legal/solargraf-terms-belgium-french)
+
+[Philippines](https://enphase.com/legal/solargraf-terms-philippines)
 
 Questions? Contact us. We’ll help you build your system, today.
 
