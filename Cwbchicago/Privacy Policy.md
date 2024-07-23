@@ -244,39 +244,39 @@ This privacy policy was created in party by using [Termly’s Privacy Policy Ge
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2022/05/Demarlin-Brewer-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/07/30-years-for-man-who-raped-robbed-woman-in-old-town.html "30 years for man who raped, robbed woman in Old Town")
+![](https://cwbchicago.com/wp-content/uploads/2024/07/Timothy-Harvey-326x245.jpg)](https://cwbchicago.com/2024/07/man-charged-with-making-3000-zelle-transfer-during-millennium-park-robbery.html "Man charged with making $3,000 Zelle transfer during Millennium Park robbery")
 
-Old Town
+Loop
 
-### [30 years for man who raped, robbed woman in Old Town](https://cwbchicago.com/2024/07/30-years-for-man-who-raped-robbed-woman-in-old-town.html "30 years for man who raped, robbed woman in Old Town")
+### [Man charged with making $3,000 Zelle transfer during Millennium Park robbery](https://cwbchicago.com/2024/07/man-charged-with-making-3000-zelle-transfer-during-millennium-park-robbery.html "Man charged with making $3,000 Zelle transfer during Millennium Park robbery")
 
-[July 18, 2024 5:25 AM](https://cwbchicago.com/2024/07)
+[July 21, 2024 9:22 AM](https://cwbchicago.com/2024/07)
 
-A man was sentenced on Wednesday to 30 years in prison for raping and robbing a woman after following her off of a CTA bus in Old Town.[](https://cwbchicago.com/2024/07/30-years-for-man-who-raped-robbed-woman-in-old-town.html "30 years for man who raped, robbed woman in Old Town")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
-
-![](https://cwbchicago.com/wp-content/uploads/2024/07/3300-block-west-lawrence-sv-326x245.jpg)](https://cwbchicago.com/2024/07/man-found-fatally-shot-on-albany-park-sidewalk.html "Man found fatally shot on Albany Park sidewalk")
-
-Albany Park
-
-### [Man found fatally shot on Albany Park sidewalk](https://cwbchicago.com/2024/07/man-found-fatally-shot-on-albany-park-sidewalk.html "Man found fatally shot on Albany Park sidewalk")
-
-[July 17, 2024 7:50 PM](https://cwbchicago.com/2024/07)
-
-A man found unresponsive on a sidewalk in Albany Park early Tuesday was shot to death, officials say.[](https://cwbchicago.com/2024/07/man-found-fatally-shot-on-albany-park-sidewalk.html "Man found fatally shot on Albany Park sidewalk")
+It’s the hottest scam going, one that everyone would be well-advised to keep in mind as they wander the streets of Chicago: fake charity solicitors and “homeless” people commandeer phones and transfer large sums of money to themselves using the victims’ electronic banking apps.[](https://cwbchicago.com/2024/07/man-charged-with-making-3000-zelle-transfer-during-millennium-park-robbery.html "Man charged with making $3,000 Zelle transfer during Millennium Park robbery")
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
 
-![](https://cwbchicago.com/wp-content/uploads/2024/07/Dakuras-and-video-images-326x245.jpg)](https://cwbchicago.com/2024/07/cpd-supervisor-stripped-after-tavern-altercation-goes-viral.html "CPD supervisor stripped after tavern altercation goes viral")
+![](https://cwbchicago.com/wp-content/uploads/2023/04/CPD-Generic-2-cars-edited-326x245.jpg)](https://cwbchicago.com/2024/07/boys-armed-with-machine-gun-robbed-14-year-old-in-uptown-police-say.html "Boys armed with machine gun robbed 14-year-old in Uptown, police say.")
+
+Uptown
+
+### [Boys armed with machine gun robbed 14-year-old in Uptown, police say.](https://cwbchicago.com/2024/07/boys-armed-with-machine-gun-robbed-14-year-old-in-uptown-police-say.html "Boys armed with machine gun robbed 14-year-old in Uptown, police say.")
+
+[July 21, 2024 8:07 AM](https://cwbchicago.com/2024/07)
+
+In a shocking announcement, Chicago police said on Sunday that two teenage boys have been charged with using a machine gun to rob a 14-year-old in Uptown.[](https://cwbchicago.com/2024/07/boys-armed-with-machine-gun-robbed-14-year-old-in-uptown-police-say.html "Boys armed with machine gun robbed 14-year-old in Uptown, police say.")
+
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20326%20245'%3E%3C/svg%3E)
+
+![](https://cwbchicago.com/wp-content/uploads/2024/07/Juan-Salgado-326x245.jpg)](https://cwbchicago.com/2024/07/man-attacked-and-carjacked-uber-driver-prosecutors-say.html "Man attacked and carjacked Uber driver, prosecutors say")
 
 Citywide
 
-### [CPD supervisor stripped after tavern altercation goes viral](https://cwbchicago.com/2024/07/cpd-supervisor-stripped-after-tavern-altercation-goes-viral.html "CPD supervisor stripped after tavern altercation goes viral")
+### [Man attacked and carjacked Uber driver, prosecutors say](https://cwbchicago.com/2024/07/man-attacked-and-carjacked-uber-driver-prosecutors-say.html "Man attacked and carjacked Uber driver, prosecutors say")
 
-[July 17, 2024 11:30 AM](https://cwbchicago.com/2024/07)
+[July 20, 2024 8:13 PM](https://cwbchicago.com/2024/07)
 
-A veteran Chicago police supervisor has been relieved of his police powers while officials investigate allegations of off-duty misconduct.[](https://cwbchicago.com/2024/07/cpd-supervisor-stripped-after-tavern-altercation-goes-viral.html "CPD supervisor stripped after tavern altercation goes viral")
+Chicago police detectives were able to identify the man who attacked and carjacked an Uber driver because he ordered the rideshare on an account linked to his driver’s license, officials said.[](https://cwbchicago.com/2024/07/man-attacked-and-carjacked-uber-driver-prosecutors-say.html "Man attacked and carjacked Uber driver, prosecutors say")
 
 Search
 
@@ -292,7 +292,7 @@ Email \*
 
 Message \*
 
-Comment
+Email
 
 Submit
 
