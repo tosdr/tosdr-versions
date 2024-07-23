@@ -17,12 +17,12 @@ auf dieser Website (Portal, im Folgenden „Angebot").
 
 Bei jedem Zugriff auf unser Internetangebot und bei jedem Abruf einer Datei werden automatisch folgende Informationen gespeichert:
 
-*     IP-Adresse des Nutzers
-*     Internet Service Provider des Nutzers
+*     IP-Adresse des Nutzenden
+*     Internet Service Provider des Nutzenden
 *     Datum und Uhrzeit des Zugriffs
 *     aufgerufene Seite unseres Internetangebotes/Name der abgerufenen Datei
-*     Websites, von denen das System des Nutzers auf unsere Internetseite gelangt
-*     Websites, die vom System des Nutzers über unsere Website aufgerufen werden
+*     Websites, von denen das System des Nutzenden auf unsere Internetseite gelangt
+*     Websites, die vom System des Nutzenden über unsere Website aufgerufen werden
 *     übertragene Datenmenge
 *     Meldung, ob der Zugriff / Abruf erfolgreich war
 *     verwendeter Browser und Betriebssystem
@@ -31,11 +31,11 @@ Bei jedem Zugriff auf unser Internetangebot und bei jedem Abruf einer Datei werd
 *     sicherheitsrelevante Aktionen (zum Beispiel fehlerhafte Kennworteingabe, Löschen des Benutzerkontos)
 *     sicherheitsrelevante Manipulationen der Anwendung
 
-Die Logfiles enthalten IP-Adressen des aufrufenden Systems, die eine Zuordnung zu einem Nutzer ermöglichen. Weitere Daten, die geloggt werden, beschränken sich auf rein technische Informationen. Die Daten werden in den Logfiles unseres Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt.
+Die Logfiles enthalten IP-Adressen des aufrufenden Systems, die eine Zuordnung zu Nutzenden ermöglichen. Weitere Daten, die geloggt werden, beschränken sich auf rein technische Informationen. Die Daten werden in den Logfiles unseres Systems gespeichert. Eine Speicherung dieser Daten zusammen mit anderen personenbezogenen Daten der Nutzenden findet nicht statt.
 
-Das Logging der Internet-Seiten der BA erfolgt ausschließlich auf den BA-eigenen Webservern für die Dauer von maximal 27 Tagen.
+Das Logging der Internet-Seiten der BA erfolgt ausschließlich auf den BA-eigenen Webservern für die Dauer von maximal 27 Tagen. Andere Kategorien von Datenempfängern als die Mitarbeiterinnen und Mitarbeiter, die das Portal der BA betreuen, gibt es nicht.
 
-Diese Informationen werden für Sicherungszwecke verarbeitet. Die BA verfolgt damit berechtigte Interessen im Sinne des Artikels 6 littera e der EU-Datenschutzgrundverordnung (DSGVO) in Verbindung mit § 3 Bundesdatenschutzgesetz (BDSG), da nur so die Verfügbarkeit und die Integrität des Portals sichergestellt werden kann. Andere Kategorien von Datenempfängern als die Mitarbeiterinnen und Mitarbeiter, die das Portal der BA betreuen, gibt es nicht.
+Diese Informationen werden für Sicherungszwecke verarbeitet. Die BA verfolgt damit berechtigte Interessen im Sinne des Artikels 6 littera e der EU-Datenschutzgrundverordnung (DSGVO) in Verbindung mit § 3 Bundesdatenschutzgesetz (BDSG), da nur so die Verfügbarkeit und die Integrität des Portals sichergestellt werden kann. 
 
 Daten und Dokumente, die im Zuge der Beantragung einer Vorabzustimmung zur Ausländerbeschäftigung eingegeben beziehungsweise hochgeladen werden, werden außerdem im Ausländerzentralregister gespeichert. Nach den §§ 86 AufenthG darf die BA die für die Bearbeitung der Zustimmungsanfragen erforderlichen Daten verarbeiten.
 
@@ -62,11 +62,11 @@ Das System wird auf unserer Website zu folgenden Zwecken eingesetzt. Rechtsgrund
 
 Kampagnenwirkungstracking:
 
-Durch das Tracking können wir Interaktionen des Nutzers (z.B. Klick auf Banner-/Content-Elemente) mit unseren Online-Inhalten auf Websites von Dritten erfassen.   Dieses Nutzungsverhalten setzen wir zu statistischen Zwecken in Bezug zu nachfolgenden Interaktionen auf unserer Website. Die erhobenen Daten werden ausgewertet, um die Leistung der Mediakampagnen optimieren zu können. Sämtliche erhobenen Nutzungsdaten werden unter Verwendung einer anonymen User-ID gespeichert. Die erhobenen Daten werden nicht dazu genutzt, die Besucher unserer Website persönlich zu identifizieren und werden ebenfalls nicht mit personenbezogenen Daten zusammengeführt.
+Durch das Tracking können wir Interaktionen der Nutzenden (z.B. Klick auf Banner-/Content-Elemente) mit unseren Online-Inhalten auf Websites von Dritten erfassen.   Dieses Nutzungsverhalten setzen wir zu statistischen Zwecken in Bezug zu nachfolgenden Interaktionen auf unserer Website. Die erhobenen Daten werden ausgewertet, um die Leistung der Mediakampagnen optimieren zu können. Sämtliche erhobenen Nutzungsdaten werden unter Verwendung einer anonymen User-ID gespeichert. Die erhobenen Daten werden nicht dazu genutzt, die Besucher unserer Website persönlich zu identifizieren und werden ebenfalls nicht mit personenbezogenen Daten zusammengeführt.
 
 Aussteuerung interessenbasierter Online-Inhalte (inklusive Re-Targeting und Personalisierung):
 
-Der Dienstleister erhebt und verarbeitet anonym das Verhalten der Nutzer auf unserer Website. Diese Daten werden dazu verwendet, um Nutzer nach dem Besuch unserer Website mit gezielten, relevanten Informationen zu unseren Services und Dienstleistungen wieder anzusprechen. Diese Werbeeinblendungen erfolgen außerhalb unserer Website. Die Nutzerdaten werden ausschließlich in Form einer individuellen Zeichenfolge („ID“) erfasst und es erfolgt keine personenbezogene Identifikation.
+Der Dienstleister erhebt und verarbeitet anonym das Verhalten der Nutzenden auf unserer Website. Diese Daten werden dazu verwendet, um Nutzende nach dem Besuch unserer Website mit gezielten, relevanten Informationen zu unseren Services und Dienstleistungen wieder anzusprechen. Diese Werbeeinblendungen erfolgen außerhalb unserer Website. Die Nutzerdaten werden ausschließlich in Form einer individuellen Zeichenfolge („ID“) erfasst und es erfolgt keine personenbezogene Identifikation.
 
 Zur Datenerhebung wird folgendes Third-Party-Cookie eingesetzt:
 
@@ -77,14 +77,13 @@ Gespeicherte Information: ID
 
 Auf dieser Webseite sind Videos eingebunden, die über eine Video-Managementplattform des externen Dienstleisters movingimage EVP GmbH (Tempelhofer Ufer 1, 10961 Berlin) bereitgestellt werden. Beim Aufruf eines Videos wird dabei über unsere Webanalysesoftware ein sogenanntes 'View Event' erstellt. D.h. die Video-ID und die URL, über die das Video eingebettet ist, werden an uns übersandt. Die dadurch gewonnenen Informationen erlauben uns dabei keinen Rückschluss auf eine natürliche Person.
 
-Beim Abspielen der Videos werden vom Videoplattformbetreiber movingimage standardmäßig First-Party-Cookies, in denen bestimmte Informationen zur Darstellung und zur Wiedergabe von Videos an movingimage übergeben werden, für analytische Auswertungen eingesetzt. Die dadurch gewonnenen Informationen erlauben keinen Rückschluss auf eine natürliche Person. Die IP-Adresse der/des Videonutzer-in/s wird von movingimage in verschlüsselter Form für die Dauer von maximal 13 Monaten gespeichert.  
-Zusätzliche Informationen zur Datenerhebung durch movingimage sowie Ihre diesbezüglichen Rechte und die vorhandenen Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre können Sie den Datenschutzhinweisen von movingimage unter [https://www.movingimage.com/gtc/datenschutzerklaerung-der-movingimage-evp-gmbh](https://www.arbeitsagentur.de/weiterleitung/1478926176492) entnehmen.
+Beim Abspielen der Videos werden vom Videoplattformbetreiber movingimage standardmäßig First-Party-Cookies sowie Third-Party-Cookies, in denen bestimmte Informationen zur Darstellung und zur Wiedergabe von Videos an movingimage übergeben werden, für analytische Auswertungen eingesetzt. Die dadurch gewonnenen Informationen erlauben keinen Rückschluss auf eine natürliche Person. Die IP-Adresse der Nutzenden wird von movingimage nicht gespeichert und zu Analysezwecken nur gekürzt weitergegeben. Die letzten acht Stellen der IP-Adresse werden dafür anonymisiert. Zusätzliche Informationen zur Datenerhebung durch movingimage sowie Ihre diesbezüglichen Rechte und die vorhandenen Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre können Sie den Datenschutzhinweisen von movingimage unter [https://www.movingimage.com/gtc/datenschutzerklaerung-der-movingimage-evp-gmbh](https://www.arbeitsagentur.de/weiterleitung/1478926176492) entnehmen.
 
-Für die statistische Besucherauswertung der Webseite setzt die BA die Webanalyse-Software Matomo ein (Tracking). Damit wird das Besucherverhalten auf der Plattform anonym ausgewertet. Die Anonymisierung erfolgt über eine Maskierung der letzten beiden Bytes der IP-Adresse (Beispiel IP-Adresse: 192.168.xxx.xxx). Rückschlüsse auf die Identität der „Nutzer“ und „Teilnehmer“ sind damit nicht möglich.
+Für die statistische Besucherauswertung der Webseite setzt die BA die Webanalyse-Software Matomo ein (Tracking). Damit wird das Besucherverhalten auf der Plattform anonym ausgewertet. Die Anonymisierung erfolgt über eine Maskierung der letzten beiden Bytes der IP-Adresse (Beispiel IP-Adresse: 192.168.xxx.xxx). Rückschlüsse auf die Identität der „Nutzenden“ und „Teilnehmenden“ sind damit nicht möglich.
 
 Für Newsletter, bestimmte Formulare und Marketingautomatisierung benutzt die Webseite nach Einwilligung die Open Source Technologie Mautic. 
 
-Mautic verwendet Technologien, die die seitenübergreifende Wiedererkennung des Nutzers zur Analyse des Nutzerverhaltens ermöglichen (z.B. Cookies). Auch verwendet es Technologien, um Informationen über die Nutzung von Onlineformularen und Email Newslettern zu erheben, zu speichern und zu verarbeiten.
+Mautic verwendet Technologien, die die seitenübergreifende Wiedererkennung der Nutzenden zur Analyse des Nutzerverhaltens ermöglichen (z.B. Cookies). Auch verwendet es Technologien, um Informationen über die Nutzung von Onlineformularen und Email Newslettern zu erheben, zu speichern und zu verarbeiten.
 
 Die durch Mautic erfassten Informationen über die Benutzung dieser Website werden auf dem Server der BA gespeichert. Die IP-Adresse wird vor der Speicherung anonymisiert.
 
@@ -102,7 +101,7 @@ Ihre anonymisierten Mautic- und Webseite-Daten können aufgrund Ihrer Erlaubnis 
 
 Neben dieser Sammlung von Daten bietet die Technologie außerdem die Möglichkeit von Testungen, wie zum Beispiel A/B-Testings, um verschiedene Versionen unserer Seiten oder deren Bestandteile zu verproben und zu optimieren. 
 
-Nutzer dieser Website können unentgeltlich schriftliche Auskunft darüber verlangen, welche personenbezogenen Daten von der Bundesagentur für Arbeit gespeichert werden. Mögliche Berichtigungen, Sperrungen oder Löschungen werden wir — sofern gesetzlich zugelassen — unverzüglich vornehmen. Sie können der Nutzung und Verarbeitung Ihrer personenbezogenen Daten zu Marketingzwecken jederzeit durch Mitteilung in Textform widersprechen. Ebenso können Sie jederzeit der Anfertigung von pseudonymen Nutzerprofilen mit Ihren Daten widersprechen. Wenn Sie dies wünschen, deaktivieren Sie bitte die Cookies in Ihrem Browser.
+Nutzende dieser Website können unentgeltlich schriftliche Auskunft darüber verlangen, welche personenbezogenen Daten von der Bundesagentur für Arbeit gespeichert werden. Mögliche Berichtigungen, Sperrungen oder Löschungen werden wir — sofern gesetzlich zugelassen — unverzüglich vornehmen. Sie können der Nutzung und Verarbeitung Ihrer personenbezogenen Daten zu Marketingzwecken jederzeit durch Mitteilung in Textform widersprechen. Ebenso können Sie jederzeit der Anfertigung von pseudonymen Nutzerprofilen mit Ihren Daten widersprechen. Wenn Sie dies wünschen, deaktivieren Sie bitte die Cookies in Ihrem Browser.
 
 Das Rechenzentrum der Bundesagentur für Arbeit ist in Nürnberg ansässig. Die Informationen dienen zur Weiterentwicklung und Verbesserung der Plattform.
 
@@ -112,7 +111,7 @@ Ihre Einstellungen können Sie über den Link ändern: [Cookie Einstellungen](ja
 
 Sie haben die Möglichkeit, sich an den Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu wenden (Graurheindorfer Str. 153, 53117 Bonn), sofern Sie der Meinung sind, dass die Verarbeitung Ihrer personenbezogenen Daten nicht der EU-Datenschutzgrundverordnung entspricht.
 
-Hier gelangen Sie zur [Datenschutzerklärung](https://www.arbeitsagentur.de/datei/datenschutzerklaerung_ba018190.pdf) für den angemeldeten/registrierten Bereich.
+Hier gelangen Sie zur [Datenschutzerklärung](https://www.arbeitsagentur.de/link/datenschutzerklaerung) für den angemeldeten/registrierten Bereich.
 
 Den Datenschutzbeauftragten der BA, **Herr Marc Rompf**, erreichen Sie unter der Postanschrift:
 
