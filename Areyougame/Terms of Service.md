@@ -2,7 +2,7 @@
 
 **Free Standard Shipping When You Spend $50+!**
 
-[![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Hor_nocom_Customer_Service_Phone_Number_d8fc8331-13da-4b64-93e7-907dd180367d_900x.png?v=1698346806)](https://areyougame.com/)
+[![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
 [Search](https://areyougame.com/search)
 
@@ -12,7 +12,7 @@ Search
 
 Close search
 
-[![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Hor_nocom_Customer_Service_Phone_Number_d8fc8331-13da-4b64-93e7-907dd180367d_900x.png?v=1698346806)](https://areyougame.com/)
+[![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
 [Search](https://areyougame.com/search)
 
@@ -339,12 +339,6 @@ Close search
 
 [0](https://areyougame.com/cart)
 
-[ORDER TRACKING](https://areyougame.com/apps/order-tracking)
-
-[WISHLIST](https://areyougame.com/a/wishlist)
-
-[GIFT CARDS](https://areyougame.com/products/gift-card)
-
 [](#)
 
 1. [Home](https://areyougame.com/) Right
@@ -420,6 +414,7 @@ Sponsor reserves the right to modify, extend, suspend, or terminate the Sweepsta
 * [Order Tracking](https://areyougame.com/apps/order-tracking)
 * [Shop By Character](https://areyougame.com/pages/shop-by-character)
 * [Wishlist](https://areyougame.com/a/wishlist)
+* [Gift Cards](https://areyougame.com/products/gift-card)
 
 * [ABOUT US](https://areyougame.com/pages/about-us)
 * [Our Brands](https://areyougame.com/pages/our-brands)
