@@ -122,6 +122,10 @@ News
 
 Latest Adopters
 
+[Into the Multiverse
+
+The Endless Runner with advanced controls, abilities, and parkour.](https://www.enjin.com/ecosystem/into-the-multiverse)
+
 [Stones Luxury
 
 Enjin Expands Tokenized Real World Assets to Luxury Interior Designs with Stones Luxury](https://www.enjin.com/ecosystem/stones-luxury-real-world-assets)
@@ -129,10 +133,6 @@ Enjin Expands Tokenized Real World Assets to Luxury Interior Designs with Stones
 [BeamWeb
 
 BeamWeb - the Premier Rewards Hub for Enjin-based Digital Assets](https://www.enjin.com/ecosystem/beamweb)
-
-[Akvel
-
-Akvel Weaves Multiverse Stories Through Enjin NFTs](https://www.enjin.com/ecosystem/akvel)
 
 Lastest News
 
@@ -215,7 +215,7 @@ Secure the network, get rewards](https://www.enjin.com/governance-and-staking)
 Build Web3 games with confidence.
 =================================
 
-The world's most advanced Web3 gaming ecosystem. Built on Enjin, powered by Substrate.
+The world's most advanced Web3 gaming ecosystem.
 
 [I'm a Developer](https://www.enjin.com/join)[I'm a Collector](https://www.enjin.com/community)
 
