@@ -76,13 +76,13 @@ Available all over the United States
 
 [Las Vegas](https://www.getaround.com/car-rental/las-vegas-nv)
 
-[Portland](https://www.getaround.com/car-rental/portland-or)
+[Seattle](https://www.getaround.com/car-rental/seattle-wa)
 
-[Baltimore](https://www.getaround.com/car-rental/baltimore-md)
+[Newark](https://www.getaround.com/car-rental/newark-nj)
+
+[Atlanta](https://www.getaround.com/car-rental/atlanta-ga)
 
 [San Diego](https://www.getaround.com/car-rental/san-diego-ca)
-
-[New York City](https://www.getaround.com/car-rental/new-york-city-ny)
 
 Own a car? Put it to work!
 --------------------------
@@ -134,7 +134,7 @@ Getaround offers a huge array of [fleet styles](https://getaround.com/) includin
 
 In our category filter, you can choose the type of vehicle you need: SUV/Jeep? Coupe/Sedan? Minivan? Pickup truck? The car rental options are endless. In our class filter, you can choose between economy, luxury, and performance. And guess what? You can even filter by transmission (automatic or manual) and by drivetrain (all-wheel drive, anyone?). But it doesn’t end there! You can even filter by special features. If you’re going on a ski trip and need a roof rack, you can search specifically for that. Pet-friendly cars, cars with bike racks, and cars with Bluetooth… You can request whatever you need from your Getaround rental car.  
 
-Whether you’re [/going on a road trip with friends](https://getaround.com/blog/road-tripping-with-getaround/) or taking a weekend getaway, Getaround car rental meets all your vehicle rental needs.
+Whether you’re [going on a road trip with friends](https://getaround.com/blog/road-tripping-with-getaround/) or taking a weekend getaway, Getaround car rental meets all your vehicle rental needs.
 
 ![Getaround logo](https://getaround-assets.gumlet.io/images/shared/logos/getaround-logo-circle-outline.svg?compress=true&h=32&mode=crop&w=32)
 
