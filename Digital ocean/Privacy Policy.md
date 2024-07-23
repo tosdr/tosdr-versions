@@ -237,7 +237,7 @@
 Privacy Policy
 ==============
 
-Last Updated on July 16, 2024
+Last Updated on May 14, 2024
 
 This Privacy Policy describes how DigitalOcean, LLC and its affiliates (“DigitalOcean,” “we,” “our” or “us”) collect, use, and share information in connection with your use of our websites (including www.digitalocean.com), services, and applications (collectively, the “Services”). This Privacy Policy (the “Privacy Policy”) does not apply to information our customers may process when using our Services.
 
