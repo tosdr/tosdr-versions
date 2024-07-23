@@ -19,7 +19,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-eye-cream)
 
-5700 reviews (5700)
+5702 reviews (5702)
 
 £13.00 £23.00
 
@@ -39,7 +39,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-86 reviews (86)
+87 reviews (87)
 
 £58.00
 
@@ -47,7 +47,9 @@ CHOOSE Size
 
 ADD TO TOTE
 
-[![fruit-pigmented®-ultra-lengthening-mascara](https://www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_239x254.png?v=1698279922)](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
+[30% off
+
+![fruit-pigmented®-ultra-lengthening-mascara](https://www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_239x254.png?v=1698279922)](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
 ![ Fruit Pigmented® Ultra Lengthening Mascara](//www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_220x.png?v=1698279922)
 
@@ -55,13 +57,15 @@ ADD TO TOTE
 
 5265 reviews (5265)
 
-£23.00 £23.00
+£16.00 £23.00
 
-Black Tea - £23 Blackberry - £23 Blueberry - £23 Dark Chocolate - £23
+Black Tea - £16 Blackberry - £23 Blueberry - £23 Dark Chocolate - £23
 
 Blueberry
 
 Black Tea
+
+Sale
 
 Blackberry
 
@@ -79,7 +83,7 @@ CHOOSE Color
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2366 reviews (2366)
+2366 reviews (2367)
 
 £16.00 £23.00
 
@@ -101,19 +105,25 @@ CHOOSE Color
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-highly_5740347f-5398-4b6d-a922-1a68a16e37da.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/grow-more-shampoo)
 
-[![glossy-locks-grow-more-shampoo](https://www.100percentpure.com/cdn/shop/products/GLHSGM_Grow_More_Shampoo_Primary_239x254.jpg?v=1695865361)](https://www.100percentpure.com/products/grow-more-shampoo)
+[29% off
+
+![glossy-locks-grow-more-shampoo](https://www.100percentpure.com/cdn/shop/products/GLHSGM_Grow_More_Shampoo_Primary_239x254.jpg?v=1695865361)](https://www.100percentpure.com/products/grow-more-shampoo)
 
 ![ GLHSGM_Primary](//www.100percentpure.com/cdn/shop/products/GLHSGM_Grow_More_Shampoo_Primary_220x.jpg?v=1695865361)
 
 ### [Glossy Locks Grow More Shampoo](https://www.100percentpure.com/products/grow-more-shampoo)
 
-684 reviews (684)
+685 reviews (685)
 
-£27.00 £31.00
+£19.00 £22.00
 
-16 oz - £31 13.5 oz - £27
+16 oz - £22 13.5 oz - £19
+
+Sale
 
 13.5 oz
+
+Sale
 
 16 oz
 
@@ -121,25 +131,19 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[40% off
-
-![coconut-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_239x254.jpg?v=1695865138)](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
+[![coconut-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_239x254.jpg?v=1695865138)](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
 ![ 1BLTC_Primary](//www.100percentpure.com/cdn/shop/products/1BLTC_Nourishing_Body_Cream_Coconut_Primary_4d624834-7905-47e0-ae9f-d40a3591894e_220x.jpg?v=1695865138)
 
 ### [Coconut Nourishing Body Cream](https://www.100percentpure.com/products/coconut-nourishing-body-cream)
 
-750 reviews (750)
+751 reviews (751)
 
-£6.00 £13.00
+£10.00 £21.00
 
-1.7 oz - £6 8 oz - £13
-
-Sale
+1.7 oz - £10 8 oz - £21
 
 8 oz
-
-Sale
 
 1.7 oz
 
@@ -149,9 +153,7 @@ CHOOSE Size
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-green-beauty-awards-highly_08c009e8-1e2b-416b-a8f2-94ecc2cccee7.png?crop=center&height=85&v=1697822128&width=85)](https://www.100percentpure.com/products/bright-eyes-masks)
 
-[50% off
-
-![bright-eyes-masks](https://www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_239x254.jpg?v=1695873942)](https://www.100percentpure.com/products/bright-eyes-masks)
+[![bright-eyes-masks](https://www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_239x254.jpg?v=1695873942)](https://www.100percentpure.com/products/bright-eyes-masks)
 
 ![ 1FEMBE_Primary](//www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_220x.jpg?v=1695873942)
 
@@ -159,11 +161,9 @@ CHOOSE Size
 
 967 reviews (967)
 
-£3.00 £24.00
+£6.00 £24.00
 
-Single - £3 5 Pack - £24
-
-Sale
+Single - £6 5 Pack - £24
 
 Single
 
@@ -173,9 +173,7 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[50% off
-
-![collagen-boost-sheet-mask](https://www.100percentpure.com/cdn/shop/files/1FSMDDCBB5_Collagen_Boost_Sheet_Mask_Five_Pack_Primary_239x254.jpg?v=1709747336)](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
+[![collagen-boost-sheet-mask](https://www.100percentpure.com/cdn/shop/files/1FSMDDCBB5_Collagen_Boost_Sheet_Mask_Five_Pack_Primary_239x254.jpg?v=1709747336)](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
 ![ Collagen Boost Sheet Mask](//www.100percentpure.com/cdn/shop/files/1FSMDDCBB5_Collagen_Boost_Sheet_Mask_Five_Pack_Primary_220x.jpg?v=1709747336)
 
@@ -183,11 +181,9 @@ CHOOSE Size
 
 30 reviews (30)
 
-£3.00 £23.00
+£6.00 £23.00
 
-Single - £3 5 Pack - £23
-
-Sale
+Single - £6 5 Pack - £23
 
 Single
 
@@ -197,9 +193,7 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[50% off
-
-![deep-hydration-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDDHB5_Deep_Hydration_Sheet_Mask_5_Pack_Primary_fab1681c-0b2b-4c15-b55e-e15b73e95821_239x254.jpg?v=1695863950)](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
+[![deep-hydration-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDDHB5_Deep_Hydration_Sheet_Mask_5_Pack_Primary_fab1681c-0b2b-4c15-b55e-e15b73e95821_239x254.jpg?v=1695863950)](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
 
 ![ 1FSMDDHB5_primary](//www.100percentpure.com/cdn/shop/products/1FSMDDHB5_Deep_Hydration_Sheet_Mask_5_Pack_Primary_fab1681c-0b2b-4c15-b55e-e15b73e95821_220x.jpg?v=1695863950)
 
@@ -207,9 +201,9 @@ CHOOSE Size
 
 368 reviews (368)
 
-£3.00 £6.00
+£6.00
 
-Single - £3
+Single - £6
 
 ADD TO TOTE
 
@@ -219,7 +213,7 @@ ADD TO TOTE
 
 ### [Watermelon Cucumber Water Locking Moisturizer](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
 
-92 reviews (92)
+93 reviews (93)
 
 £20.00
 
@@ -227,21 +221,9 @@ Default Title - £20
 
 ADD TO TOTE
 
-[![hydra-drench-cream](https://www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_239x254.png?v=1696526624)](https://www.100percentpure.com/products/hydra-drench-cream)
+[50% off
 
-![ 1FHDC_Primary](//www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_220x.png?v=1696526624)
-
-### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
-
-503 reviews (504)
-
-£39.00
-
-Default Title - £39
-
-ADD TO TOTE
-
-[![creamy-long-last-liner](https://www.100percentpure.com/cdn/shop/products/1CPEB_Creamy_Long_Last_Liner_Blackest_Primary_f041ef44-fa84-44ee-80e3-fdc092d5bb82_239x254.jpg?v=1695868707)](https://www.100percentpure.com/products/creamy-long-last-liner)
+![creamy-long-last-liner](https://www.100percentpure.com/cdn/shop/products/1CPEB_Creamy_Long_Last_Liner_Blackest_Primary_f041ef44-fa84-44ee-80e3-fdc092d5bb82_239x254.jpg?v=1695868707)](https://www.100percentpure.com/products/creamy-long-last-liner)
 
 ![ 1CPEB_Primary](//www.100percentpure.com/cdn/shop/products/1CPEB_Creamy_Long_Last_Liner_Blackest_Primary_f041ef44-fa84-44ee-80e3-fdc092d5bb82_220x.jpg?v=1695868707)
 
@@ -249,23 +231,25 @@ ADD TO TOTE
 
 1993 reviews (1993)
 
-£22.00 £22.00
+£11.00 £22.00
 
-Blackest - £22 Dark Cacao - £22 Gleaming Pewter - £22
+Blackest - £11 Dark Cacao - £11 Gleaming Pewter - £22
 
 Gleaming Pewter
 
 Blackest
 
+Sale
+
 Dark Cacao
+
+Sale
 
 ADD TO TOTE
 
 CHOOSE Color
 
-[30% off
-
-![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
+[![watermelon-cucumber--water-locking-mist](https://www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_239x254.png?v=1665003385)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-mist)
 
 ![ Watermelon Cucumber  Water Locking Mist](//www.100percentpure.com/cdn/shop/products/FG1FWCAM_Primary_220x.png?v=1665003385)
 
@@ -273,15 +257,13 @@ CHOOSE Color
 
 39 reviews (39)
 
-£14.00 £20.00
+£20.00
 
-Default Title - £14
+Default Title - £20
 
 ADD TO TOTE
 
-[50% off
-
-![does-it-all-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDIAMB5_Sheet_Does_It_All_Sheet_Mask_5_Pack_Primary_d66833ce-2cfa-4856-b51c-ffec085b5001_239x254.jpg?v=1695863929)](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
+[![does-it-all-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDIAMB5_Sheet_Does_It_All_Sheet_Mask_5_Pack_Primary_d66833ce-2cfa-4856-b51c-ffec085b5001_239x254.jpg?v=1695863929)](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
 ![ 1FSMDIAMB5_Primary](//www.100percentpure.com/cdn/shop/products/1FSMDIAMB5_Sheet_Does_It_All_Sheet_Mask_5_Pack_Primary_d66833ce-2cfa-4856-b51c-ffec085b5001_220x.jpg?v=1695863929)
 
@@ -289,13 +271,11 @@ ADD TO TOTE
 
 353 reviews (353)
 
-£3.00 £26.00
+£6.00 £26.00
 
-Single - £3 5 Pack - £26
+Single - £6 5 Pack - £26
 
 5 Pack
-
-Sale
 
 Single
 
@@ -303,9 +283,7 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[38% off
-
-![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
+[![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_220x.jpg?v=1655916708)
 
@@ -313,9 +291,9 @@ CHOOSE Size
 
 830 reviews (830)
 
-£19.00 £31.00
+£31.00
 
-Default Title - £19
+Default Title - £31
 
 ADD TO TOTE
 
@@ -335,23 +313,23 @@ Default Title - £46
 
 ADD TO TOTE
 
-[![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
+[57% off
+
+![organic-mint-lip-balm](https://www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_239x254.jpg?v=1627032871)](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
 ![ Organic Mint Lip Balm](//www.100percentpure.com/cdn/shop/products/1LBM_Organic_Mint_Lip_Balm_Primary_220x.jpg?v=1627032871)
 
 ### [Organic Mint Lip Balm](https://www.100percentpure.com/products/organic-mint-lip-balm)
 
-499 reviews (499)
+501 reviews (501)
 
-£7.00
+£3.00 £7.00
 
-Default Title - £7
+Default Title - £3
 
 ADD TO TOTE
 
-[38% off
-
-![blood-orange-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTBO_Nourishing_Body_Cream_Blood_Orange_Primary_c6416b43-3112-4228-aa33-eb5aa15684dc_239x254.jpg?v=1626850757)](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
+[![blood-orange-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTBO_Nourishing_Body_Cream_Blood_Orange_Primary_c6416b43-3112-4228-aa33-eb5aa15684dc_239x254.jpg?v=1626850757)](https://www.100percentpure.com/products/blood-orange-nourishing-body-cream)
 
 ![ Blood Orange Nourishing Body Cream](//www.100percentpure.com/cdn/shop/products/1BLTBO_Nourishing_Body_Cream_Blood_Orange_Primary_c6416b43-3112-4228-aa33-eb5aa15684dc_220x.jpg?v=1626850757)
 
@@ -359,15 +337,13 @@ ADD TO TOTE
 
 288 reviews (288)
 
-£13.00 £21.00
+£21.00
 
-Default Title - £13
+Default Title - £21
 
 ADD TO TOTE
 
-[38% off
-
-![french-lavender-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_239x254.jpg?v=1627033063)](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
+[![french-lavender-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_239x254.jpg?v=1627033063)](https://www.100percentpure.com/products/french-lavender-nourishing-body-cream)
 
 ![ French Lavender Nourishing Body Cream](//www.100percentpure.com/cdn/shop/products/1BLTFL_Nourishing_Body_Cream_French_Lavender_Primary_bf8907a0-c486-421f-b61b-08d96e7cbd53_220x.jpg?v=1627033063)
 
@@ -375,15 +351,13 @@ ADD TO TOTE
 
 343 reviews (343)
 
-£13.00 £21.00
+£21.00
 
-Default Title - £13
+Default Title - £21
 
 ADD TO TOTE
 
-[38% off
-
-![honey-almond-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_239x254.jpg?v=1630365979)](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
+[![honey-almond-nourishing-body-cream](https://www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_239x254.jpg?v=1630365979)](https://www.100percentpure.com/products/honey-almond-nourishing-body-cream)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1BLTHA_Nourishing_Body_Cream_Honey_Almond_Primary_fc544a05-141c-4b0d-93aa-8b17689e74b3_220x.jpg?v=1630365979)
 
@@ -391,13 +365,15 @@ ADD TO TOTE
 
 378 reviews (378)
 
-£13.00 £21.00
+£21.00
 
-Default Title - £13
+Default Title - £21
 
 ADD TO TOTE
 
-[![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
+[50% off
+
+![cucumber-cloud-foam-cleanser](https://www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_239x254.jpg?v=1617318615)](https://www.100percentpure.com/products/cucumber-cloud-foam-cleanser)
 
 ![ Cucumber Cloud Foam Cleanser](//www.100percentpure.com/cdn/shop/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_220x.jpg?v=1617318615)
 
@@ -405,15 +381,13 @@ ADD TO TOTE
 
 111 reviews (111)
 
-£24.00
+£12.00 £24.00
 
-Default Title - £24
+Default Title - £12
 
 ADD TO TOTE
 
-[48% off
-
-![blood-orange-cleansing-balm](https://www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_239x254.jpg?v=1696526483)](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
+[![blood-orange-cleansing-balm](https://www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_239x254.jpg?v=1696526483)](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FBOCB_Blood_Orange_Cleansing_Balm_Primary_220x.jpg?v=1696526483)
 
@@ -421,15 +395,17 @@ ADD TO TOTE
 
 858 reviews (859)
 
-£16.00 £31.00
+£31.00
 
-Default Title - £16
+Default Title - £31
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-earth-day-award_5f820e94-8db7-4f53-92e2-88fc33703b6d.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
-[![lavender-niacinamide--pore-minimizer-tonique](https://www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_239x254.png?v=1696450154)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
+[37% off
+
+![lavender-niacinamide--pore-minimizer-tonique](https://www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_239x254.png?v=1696450154)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
 
 ![ FG1FLNPMT_Primary](//www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_220x.png?v=1696450154)
 
@@ -437,9 +413,9 @@ ADD TO TOTE
 
 74 reviews (74)
 
-£16.00
+£10.00 £16.00
 
-Default Title - £16
+Default Title - £10
 
 ADD TO TOTE
 
@@ -459,19 +435,23 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2019-cert-clean-beauty-awards_f8ee0482-640f-4d06-9684-b33f8c6cf113.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-[![long-last-liquid-eye-liner](https://www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_239x254.jpg?v=1695867746)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
+[29% off
+
+![long-last-liquid-eye-liner](https://www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_239x254.jpg?v=1695867746)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
 ![ 1CELLBT_Primary](//www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_220x.jpg?v=1695867746)
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1543 reviews (1543)
+1544 reviews (1544)
 
-£24.00 £24.00
+£17.00 £24.00
 
-Black Tea - £24 Dark Chocolate - £24 Blackberry - £24
+Black Tea - £17 Dark Chocolate - £24 Blackberry - £24
 
 Black Tea
+
+Sale
 
 Blackberry
 
@@ -497,6 +477,20 @@ Default Title - £46
 
 ADD TO TOTE
 
+[![hydra-drench-cream](https://www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_239x254.png?v=1696526624)](https://www.100percentpure.com/products/hydra-drench-cream)
+
+![ 1FHDC_Primary](//www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_220x.png?v=1696526624)
+
+### [Hydra Drench Cream](https://www.100percentpure.com/products/hydra-drench-cream)
+
+503 reviews (504)
+
+£39.00
+
+Default Title - £39
+
+ADD TO TOTE
+
 Subtotal
 
 £0.00
@@ -513,7 +507,7 @@ or 4 interest-free payments of **£0.00** with ![Klarna Logo](https://www.100per
 
  
 
-[🎉 Semi-Annual Sale Drop 2 is LIVE! 🎉 Up to 80% OFF new products added. Limited time only!](https://www.100percentpure.com/collections/semi-annual-sale "🎉 Semi-Annual Sale Drop 2 is LIVE! 🎉 Up to 80% OFF new products added. Limited time only!")
+[🎉 Semi-Annual Sale Drop 3 is LIVE! 🎉 Up to 80% OFF new products added. Limited time only!](https://www.100percentpure.com/collections/semi-annual-sale "🎉 Semi-Annual Sale Drop 3 is LIVE! 🎉 Up to 80% OFF new products added. Limited time only!")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
