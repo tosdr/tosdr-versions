@@ -30,6 +30,8 @@ Menu
     
 * [Photography](https://apnews.com/photography)
     
+* [Climate](https://apnews.com/climate-and-environment)
+    
 * [Health](https://apnews.com/health)
     
 * [Tech](https://apnews.com/technology)
@@ -114,6 +116,8 @@ Menu
     * [Newsletters](https://apnews.com/newsletters)
         
     * [Photography](https://apnews.com/photography)
+        
+    * [Climate](https://apnews.com/climate-and-environment)
         
     * [Health](https://apnews.com/health)
         
@@ -207,6 +211,8 @@ Show Search
     
 * [Photography](https://apnews.com/photography)
     
+* [Climate](https://apnews.com/climate-and-environment)
+    
 * [Health](https://apnews.com/health)
     
 * [Tech](https://apnews.com/technology)
@@ -265,15 +271,15 @@ Show Search
 * Copyright 2024 The Associated Press. All Rights Reserved.
     
 
-[Live updates: Election 2024](https://apnews.com/live/rnc-trump-biden-election-updates)
+[Live updates: Election 2024](https://apnews.com/live/biden-trump-election-campaign-updates)
 
-[CrowdStrike](https://apnews.com/article/what-is-crowdstrike-worldwide-outage-94b4fc5ac6eed46ddcd565a5f1e4b916)
+[Abdul ‘Duke’ Fakir dies](https://apnews.com/article/duke-fakir-dead-four-tops-e99f0d29e9db40cd01670cf383838a94)
 
-[Biden and Democratic Party](https://apnews.com/article/biden-election-trump-democrats-329071c25dfaaae583b5f06184586267)
+[Miss Kansas](https://apnews.com/article/miss-kansas-alexis-smith-domestic-violence-4ea520487500bc82c415fb4b6a317513)
 
-[Tel Aviv strike](https://apnews.com/article/israel-palestinians-tel-aviv-strike-daa70aa0f6a3248a00997a281c3731ab)
+[Stock market](https://apnews.com/article/stock-markets-rates-outage-biden-69813d651e9f20f087c3c456705d6ce3)
 
-[Listeria deaths](https://apnews.com/article/listeria-deli-meat-cdc-deaths-916ee047b0df234d860afc406928ee86)
+[Israel-Hamas war](https://apnews.com/hub/israel-hamas-war)
 
 The Associated Press
 ====================
