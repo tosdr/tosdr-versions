@@ -162,25 +162,25 @@
         
          ![](/content/dam/avast/cb/product-all-platform-icons.svg)
         
-        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        Secure, private, and easy to use web browser](https://www.avast.com/secure-browser)
         
          [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
         
          ![](/content/dam/avast/cb/product-all-platform-icons.svg)
         
-        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        Secure, private, and easy to use web browser](https://www.avast.com/secure-browser)
         
          [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
         
          ![](/content/dam/avast/cb/product-all-platform-icons.svg)
         
-        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        Secure, private, and easy to use web browser](https://www.avast.com/secure-browser)
         
          [![](/content/dam/avast/icon/40/secure-browser-color-1.svg) Secure Browser
         
          ![](/content/dam/avast/cb/product-all-platform-icons.svg)
         
-        Secure, private, and easy to use web browser](https://www.avast.com/securebrowser)
+        Secure, private, and easy to use web browser](https://www.avast.com/secure-browser)
         
     *  [![](/content/dam/avast/icon/secure-browser-pro-color-boxed.svg) Secure Browser PRO
         
