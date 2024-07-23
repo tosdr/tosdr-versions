@@ -5,7 +5,7 @@ _​_
 We need your help!
 ------------------
 
-Like many organizations, the FSF is suffering from inflation. Operational costs have risen and revenue has not kept up, because people all over the world are going through the same challenges as we are. The FSF has an important role to play for computer users globally for years to come, and we still have a lot of work to do.
+Like many organizations, the FSF is suffering financially. Operational costs have risen and revenue has not kept up, because people all over the world are going through the same challenges as we are. The FSF has an important role to play for computer users globally for years to come, and we still have a lot of work to do.
 
 Can you support our efforts by joining the FSF as an associate member for only $12/month ($6 for students), introducing a friend to free software, or gifting a membership?
 
