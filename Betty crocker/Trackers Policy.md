@@ -78,17 +78,6 @@ Menu
         * [Salad Recipes](https://www.bettycrocker.com/recipes/dishes/salad-recipes)
         * [Slow Cooker Recipes](https://www.bettycrocker.com/recipes/preparation/slow-cooker-recipes)
         * [Smoker Recipes](https://www.bettycrocker.com/recipes/preparation/smoker-recipes)
-    * Kick-Off to Summer
-        * [Grilling Recipes](https://www.bettycrocker.com/recipes/preparation/grill-recipes)
-        * [Pasta Salad Recipes](https://www.bettycrocker.com/recipes/dishes/pasta-recipes/pasta-salad)
-        * [Appetizers](https://www.bettycrocker.com/recipes/courses/appetizer-recipes)
-    * [Graduation](https://www.bettycrocker.com/special-occasions/graduation-recipes)
-        * [Graduation Desserts](https://www.bettycrocker.com/special-occasions/graduation-recipes/graduation-desserts)
-        * [Graduation Drink Recipes](https://www.bettycrocker.com/special-occasions/graduation-recipes/punch-and-drink-recipes)
-    * [July Fourth](https://www.bettycrocker.com/special-occasions/july-4th)
-        * [Best Fourth of July Desserts](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-fourth-of-july-desserts)
-        * [Fourth of July Cake Recipes](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/fourth-of-july-cake-ideas)
-        * [Fourth of July Appetizers](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/holidays/best-fourth-of-july-appetizers)
     
 * [How-To](https://www.bettycrocker.com/how-to)
     
