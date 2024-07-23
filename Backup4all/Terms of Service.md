@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
+* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
     
-* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
+* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
     
-* [How to activate Backup4all Monitor](https://www.backup4all.com/how-to-activate-backup4all-monitor-kb.html)  
+* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
     
-* [How to back up data files from Connectria usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-connectria-using-backup4all-kb.html)  
+* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
     
-* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
+* [Using Backup4all - FAQ 9](https://www.backup4all.com/using-backup4all-faq-9-kb.html)  
     
 
 Choose language:
