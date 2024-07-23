@@ -63,13 +63,13 @@ Add a search term to continue
 Terms of Use
 ============
 
-Last updated on June 9, 2023
+Last updated on July 21, 2024
 
 **Welcome to BrainPOP®!**
 
-The use of any of the BrainPOP and its affiliates (“BrainPOP”) owned and operated websites and/or mobile applications (Collectively referred to as “Services”), whether accessed via computer, mobile device or otherwise, is subject to these terms and conditions (“Terms of Use”). Your use of the Services constitutes your agreement to the Terms of Use, so please read them carefully. Additional terms and conditions may apply to some services offered on this Website if we post such terms within such services or if we signed a separate agreement with you for such services. Our mobile applications are also subject to our End User License Agreement found [here](https://www.brainpop.com/about/mobile_app_eula/). Please contact [legal@brainpop.com](mailto:legal@brainpop.com) if you have any questions about these Terms of Use.
+The use of any of the BrainPOP and its affiliates (“BrainPOP”) owned and operated websites, professional learning services and/or mobile applications (Collectively referred to as “Services”), whether accessed via computer, mobile device or otherwise, is subject to these terms and conditions (“Terms of Use”). Your use of the Services constitutes your agreement to the Terms of Use, so please read them carefully. Additional terms and conditions may apply to some services offered on this Website if we post such terms within such services or if we signed a separate agreement with you for such services. Our mobile applications are also subject to our End User License Agreement found [here](https://www.brainpop.com/about/mobile_app_eula/). Your use of our professional learning services is also subject to the Professional Learning Services Terms and Conditions found [here](https://www.brainpop.com/about/professional_learning_terms/), in addition to these Terms of Use. Please contact [legal@brainpop.com](mailto:legal@brainpop.com) if you have any questions about these Terms of Use.
 
-MINORS: SOME PORTIONS OF THE SERVICES ARE NOT INTENDED FOR MINORS, INCLUDING BRAINPOP EDUCATORS, THE ABOUT BRAINPOP PAGE AND THE STORE. ALSO, REGISTERING AN ACCOUNT REQUIRES SUPERVISION OF A PARENT OR LEGAL GUARDIAN IF YOU ARE A MINOR.
+MINORS: SOME PORTIONS OF THE SERVICES ARE NOT INTENDED FOR MINORS, INCLUDING BRAINPOP EDUCATORS, THE ABOUT BRAINPOP PAGE, PROFESSIONAL LEARNING SERVICES, AND THE STORE. ALSO, REGISTERING AN ACCOUNT REQUIRES SUPERVISION OF A PARENT OR LEGAL GUARDIAN IF YOU ARE A MINOR.
 
 EDUCATORS: IF YOU ARE AN EDUCATOR, WHETHER IN A PUBLIC OR PRIVATE SCHOOL OR EDUCATIONAL ORGANIZATION, THEN, YOU ARE REPRESENTING AND WARRANTING TO US THAT YOU ARE AUTHORIZED TO AGREE TO THESE TERMS OF USE ON BEHALF OF YOUR ORGANIZATION AND YOUR STUDENTS.
 
@@ -88,7 +88,7 @@ CHANGES TO OUR SERVICES
 
   
 
-In our sole discretion and without prior notice or liability, we may discontinue, modify or alter any aspect of the Services and suspend, discontinue, delete, modify, or remove any content or functionality offered in the Services from time to time. In addition, in the future, we may charge users for certain content or functionality which may be presently available for free.
+In our sole discretion and without prior notice or liability, we may discontinue, modify or alter any aspect of the Services and suspend, discontinue, delete, modify, or remove any content or functionality offered in the Services from time to time. Should we make material changes to this Terms of Use, we will provide advance notice. In the event of any non-material changes, we will provide prominent notice as required by law. Posting the modified Terms of Use on our Services and providing notice as stated above will give effect to the revised Terms of Use. Your continued use of the Services constitutes your acceptance of any revised Terms of Use. If you do not agree to the revised Terms of Use, please refrain from using the Services and/or leave this website(s) or app(s). In addition, in the future, we may charge users for certain content or functionality which may be presently available for free.
 
   
 
@@ -97,7 +97,7 @@ PRIVACY POLICY
 
   
 
-Please review our [privacy policy](https://www.brainpop.com/about/privacy_policy/) ("Privacy Policy"), which is incorporated into, and considered part of, these Terms of Use. The Privacy Policy explains our privacy practices for the Services. By visiting our Services, you also consent to our Privacy Policy, so please read them carefully. As stated in the Privacy Policy, we provide prominent notice to users and send out email notices to customers before making any material changes. Should we make material changes to the Terms of Use or Privacy Policy, we will provide notice and request your consent.
+Please review our [privacy policy](https://www.brainpop.com/about/privacy_policy/) ("Privacy Policy"), which is incorporated into, and considered part of, these Terms of Use. The Privacy Policy explains our privacy practices for the Services. By visiting or using our Services, you also consent to our Privacy Policy, so please read them carefully. As stated in the Privacy Policy, we provide prominent notice to users and send out email notices to customers before making any material changes. Should we make material changes to the Terms of Use or Privacy Policy, we will provide notice and request your consent.
 
   
 
@@ -196,7 +196,7 @@ Display of User Content on our Services does not constitute our approval or endo
 
   
 
-Certain content and functionalities of the Services require registration in order to be able to enjoy such content and functionalities. We reserve the right to decide which content and functionalities require registration or will require registration in the future. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. You agree to notify us immediately in the event of any known or suspected unauthorized use of your user account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your or anyone else's password. You are entirely responsible for any and all activities which occur under your user account. You agree to immediately notify us of any unauthorized use of your user account or any other breach of security known to you.
+Certain content and functionalities of the Services require registration in order to be able to enjoy such content and functionalities. We reserve the right to decide which content and functionalities require registration or will require registration in the future. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer or device, and you agree to accept responsibility for all activities that occur under your account or password. You agree to notify us immediately in the event of any known or suspected unauthorized use of your user account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your or anyone else's password. You are entirely responsible for any and all activities which occur under your user account. You agree to immediately notify us of any unauthorized use of your user account or any other breach of security known to you.
 
 If you provide any information that is untrue, inaccurate, or incomplete (including but not limited to falsely self-identifying), or we have reasonable grounds to suspect that such is the case, we reserve the right to suspend or terminate your user account and refuse any and all current or future use of our Services.
 
@@ -320,7 +320,7 @@ COMMUNICATION WITH US
 
 You agree to receive communications from us electronically regarding your account, these Terms of Use and the Services, and such communications sent from us shall be considered sufficient means of notice, whether applicable law requires written notice or not. You further agree that your electronic communications, except for communications regarding subscriptions, are not confidential.
 
-[Please click on this link to view the previous version of our Terms of Use, in effect before June 9, 2023.](https://www.brainpop.com/about/terms_of_use_may2023/)  
+[Please click on this link to view the previous version of our Terms of Use, in effect before July 21, 2024.](https://www.brainpop.com/about/terms_of_use_june2024/)  
   
 
 Translations
