@@ -922,7 +922,9 @@ Newsletters from the future
 * Meta Pay
 * Google Pay
 * Mastercard
+* PayPal
 * Shop Pay
+* Venmo
 * Visa
 
 United Kingdom
