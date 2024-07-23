@@ -1,7 +1,7 @@
 Conjuguemos Data and Privacy Policy
 ===================================
 
-Last updated April 18, 2023.
+Last updated July 23, 2024.
 
 Overview
 --------
@@ -124,7 +124,7 @@ Conjuguemos collects the minimal amount of information from students necessary t
 
 EDUCATIONAL INSTITUTIONS UTILIZING THE SERVICE ARE RESPONSIBLE FOR MONITORING THE RIGHTS AND INTERESTS OF THEIR STUDENTS AND MUST THEREFORE TAKE SPECIAL CARE WHEN REVIEWING THIS PRIVACY POLICY. EDUCATIONAL INSTITUTIONS SHALL BE RESPONSIBLE FOR OBTAINING, WHERE APPLICABLE, PERTINENT CONSENT FROM PARENTS, LEGAL GUARDIANS OR ELIGIBLE STUDENTS PRIOR TO UTILIZING THE SERVICE. Conjuguemos SHALL NOT BE RESPONSIBLE FOR ANY NEGLIGENCE OF THE EDUCATIONAL INSTITUTION IN THE REVIEWING OF THIS PRIVACY POLICY OR THE OBTAINMENT, WHERE APPLICABLE, OF THE NECESSARY PARENTAL CONSENT.
 
-We use this information to provide the Service to the child, for security and safety purposes, or as required by law or to enforce our Terms. We will not require children to provide more personal information than is reasonably necessary in order to participate in the Service. If we discover that we have collected information from a child in a manner inconsistent with COPPA, FERPA, GDPR, or any other applicable laws or regulations, we will take appropriate steps to delete the information. We do not disclose any personal information about children to third parties, except to service providers necessary to provide the Service, as permitted by law, or to protect the security of the Service or other users. Information collected from students (including personal information and information collected automatically) is never used or disclosed for third-party advertising, including any kind of first- or third-party behaviorally targeted advertising, and children’s personal information is never sold or rented to anyone, including marketers or advertisers.
+We use this information to provide the Service to the child, for security and safety purposes, or as required by law or to enforce our Terms. We will not require children to provide more personal information than is reasonably necessary in order to participate in the Service. If we discover that we have collected information from a child in a manner inconsistent with COPPA, FERPA, GDPR, or any other applicable laws or regulations, we will take appropriate steps to delete the information. We do not disclose any personal information about children to third parties, except to service providers necessary to provide the Service, as permitted by law, or to protect the security of the Service or other users. While Conjuguemos does not sell/rent personal information, however, non-premium users will see ads that are served via third-party companies. These third-party companies (such as GoogleAds) do collect information on visits. For users that choose to use the site on a free (“unpaid”) basis, however, Conjuguemos will serve ads that are provided by a third-party ad company, Users can opt-out of these ads by purchasing a premium feature to do so.
 
 #### What children's information is visible to others?
 
