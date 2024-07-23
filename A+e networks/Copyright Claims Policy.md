@@ -27,7 +27,7 @@ At A+E Networks EMEA, we share stories that matter. A global broadcaster since 1
 
 [![BLAZE](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/brand_logo/public/2022-07/blaze.png?itok=9Tq23UYE)](https://www.aenetworks.com/brands/blaze)
 
-[![COSMO](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/brand_logo/public/2024-04/cosmo.png?VersionId=HI72RFZdqpDo7czOGGtVHl6AufjuLtQT&itok=cn6buxTq)](https://www.aenetworks.com/brands/cosmo)
+[![COSMO](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/brand_logo/public/2024-07/LOGO_COSMO_FondoBlanco%20new.png?VersionId=9KbPrNezQYqTwcS795R3dV11DbPWqA6p&itok=-1aGtkxH)](https://www.aenetworks.com/brands/cosmo)
 
 Our culture
 -----------
@@ -82,7 +82,7 @@ Latest news
 
 ### A+E NETWORKS EMEA CEMENTS GROWING ORIGINAL SHORT-FORM SLATE WITH NEW TRUE CRIME COMMISSIONS](https://www.aenetworks.com/news/ae-networks-emea-cements-growing-original-short-form-slate-new-true-crime-commissions)
 
-    [![Death in Paradise](/s3/files/styles/card_tablet/public/2024-07/CRIMEN_PARAISO_T13_16-9.jpg?itok=qcVML_Yz)
+    [![Death in Paradise](https://aetncorporate.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-07/CRIMEN_PARAISO_T13_16-9.jpg?VersionId=jqUg.vHayNPl.t0bGIaJtYkCZJxRplWl&itok=qcVML_Yz)
 
 5 July 2024
 
