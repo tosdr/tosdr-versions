@@ -205,9 +205,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, July 20, 2024**
+**Tuesday, July 23, 2024**
 
-**...Scattered Showers and Thunderstorms Along the Florida Panhandle and Coastal Gulf Waters This Morning To Move Inland and Become More Numerous and Widespred This Afternoon With the Sea Breezes...Scattered to Numerous Showers and Thunderstorms Across the Peninsula With the Sea Breezes This Afternoon and Evening...Locally Strong to Severe Thunderstorms Producing Frequent Lightning, Gusty Winds, and Heavy Downpours Possible; Marginal Risk For Severe Weather Along Northeastern Peninsula...Heavy Downpours and Slow-Moving or Training Showers and Thunderstorms May Give Way to Instances of Localized Flooding; Marginal Risk For Flash Flooding Along the Florida Panhandle and Northeastern Peninsula...Heat Indices In the Upper 90s And Triple Digits...Heat Advisories Issued For Southern Peninsula And the Keys...Moderate Risk For Rip Currents Along Panhandle and East Coast...Showers and Thunderstorms to Persist Along Coastlines, The Florida Panhandle, and The Northeastern and Central Peninsula Overnight...**
+**...High Pressure Over Western Atlantic Dominating Weather Pattern for Sunshine State...Tropcial Wave Near Bahamas Bringing Late Morning Showers and Thunderstorms...Daily Showers and Thunderstorms Along the Sea Breeze Throughout Afternoon and Evening...Locally Strong to Severe Thunderstorms Possible; Frequent Lightning, Gusty Wins and Heavy Downpours...Heavy Rainfall or Slow-Moving Thunderstorms Could Bring Localized Flooding At Times...Warm and Muggy Conditions With Heat Index Values in Triple Digits...Moderate Risk for Rip Currents Persists Along Numerous Panhandle and all East Coast Beaches...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
