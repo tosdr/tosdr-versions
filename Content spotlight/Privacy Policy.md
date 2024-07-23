@@ -4,7 +4,7 @@
 * [+91-9831405832](tel: +91-9831405832)
 * [info@contentspotlight.org](mailto:info@contentspotlight.org)
 
-[![Content Spotlight - A Keyword Research SEO company](https://i0.wp.com/www.contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png?fit=400%2C400&ssl=1)](https://www.contentspotlight.org/)
+[![Content Spotlight - A Keyword Research SEO company](https://www.contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png)](https://www.contentspotlight.org/)
 
 [CONTENT SPOTLIGHT](https://www.contentspotlight.org/)
 ======================================================
@@ -46,25 +46,6 @@ What rights you have over your data
 -----------------------------------
 
 **Suggested text:** If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. We do not send your personal data to anyone. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-
-### Share this:
-
-* [Click to share on Pinterest (Opens in new window)](https://www.contentspotlight.org/privacy-policy/?share=pinterest "Click to share on Pinterest")
-* [Click to share on LinkedIn (Opens in new window)](https://www.contentspotlight.org/privacy-policy/?share=linkedin "Click to share on LinkedIn")
-
-### Like this:
-
-Like Loading...
-
-* * *
-
-### Discover more from CONTENT SPOTLIGHT
-
-Subscribe to get the latest posts sent to your email.
-
-Type your email… 
-
-        Subscribe
 
 [![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120g.png?ID=d2228e87-b455-44e4-a401-ff8698cd0998)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
 
@@ -152,5 +133,3 @@ Accept Deny View preferences Save preferences [View preferences](#)
 [{title}](#) [{title}](#) [{title}](#)
 
 Manage consent
-
-%d
