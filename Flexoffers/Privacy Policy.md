@@ -27,7 +27,7 @@ Search for:
 Search
 
 * LoginExpand
-    * [Publisher Login](https://publisherpro.flexoffers.com/Account/Login)
+    * [Publisher Login](https://publisherprobeta.flexoffers.com/login)
     * [Advertiser Login](https://advertiserpro.flexoffers.com/signin)
 
 [Get Started](https://www.flexoffers.com/sign-up/)
