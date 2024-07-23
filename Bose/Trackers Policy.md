@@ -1,18 +1,19 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-Summer bonus deals: Save over 50% on bestsellers this weekend only. [SHOP](https://www.bose.com/c/summer-sale)
+90-day risk-free trial | Free shipping for orders of $49 or more
+
+New QuietComfort Headphones in limited-edition Chilled Lilac. [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html)
 
 Back
 
 * [Shop](#)
     
-    * [Summer Sale](https://www.bose.com/c/summer-sale)
     * [All Products](https://www.bose.com/c/all-products)
     * [New & Featured](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
-    
     * [Speakers](https://www.bose.com/c/speakers)
+    
     * [Home Theater](https://www.bose.com/c/home-theater)
     * [Portable PA](https://www.bose.com/c/portable-pa)
     * [Aviation](https://www.bose.com/c/headphones-aviation-headsets)
@@ -22,22 +23,24 @@ Back
     * [Gift Cards](https://www.bose.com/gift-cards)
     * [Accessories](https://www.bose.com/c/accessories)
     
+    Back
+    
     [View all products](https://www.bose.com/c/all-products)
     
-    [![](https://assets.bosecreative.com/m/32a4520a4af703d2/webimage-Editorial-Product-Category-Card_Prime-Day-July_v2.png)
+    [![](https://assets.bosecreative.com/m/7f282209b7c5ee31/webimage-SF_QCH_M-NAV_EXPRESSIVE_CHILLED-LILAC.png)
     
-    Summer bonus deals
+    Limited-edition
     
-    ### Save over 50% on bestsellers this weekend only.](https://www.bose.com/c/summer-sale "SHOP")
+    ### New QuietComfort Headphones in Chilled Lilac.](https://www.bose.com/en_us/legal/QC-HEADPHONEARN.html "BUY NOW")
     
-     ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/b3e8c543-dc98-4a1c-bec5-fefce30074e5/Editorial-Product-Category-Card_Prime-Day-July_v2?io=transform:crop,height:1920,width:1920,path:square&io=filter:sharpness,amount:100&quality=95)
+     
     
-    Summer bonus deals
-    ------------------
+    Listen with flair
+    -----------------
     
-    Save over 50% on bestsellers this weekend only.
+    NEW QuietComfort Headphones in Limited-edition Chilled Lilac.
     
-    [SHOP](https://www.bose.com/c/summer-sale "SHOP")
+    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html "BUY NOW")
     
 
 * [Explore](#)
@@ -52,18 +55,14 @@ Back
     * [Turn The Dial](https://www.bose.com/stories/turn-the-dial-initiative)
     * [Bose Stories](https://www.bose.com/stories)
     
-    [![](https://assets.bosecreative.com/m/303540fa2f785b78/webimage-CTP-48214_NME_C24_Release_SF_Nav_Flyout.png)
+    Back
     
-    Dropping soon:
+     
     
-    ### Bose x NME C24 Album](https://www.bose.com/stories/c24-the-next-generation-of-music "LEARN MORE")
+    A generation-defining album
+    ---------------------------
     
-     ![Bose x NME C24 with Teddy Swims, Laufey, and Artemas](https://assets.bosecreative.com/transform/c15c953b-abf0-45e9-960c-8d54465a8ff2/CTP-48214_NME_C24_Announce_SF_Nav_Flyout?io=transform:fit,height:1000,width:1000&io=overlay:box,color:000000,opacity:15&quality=95)
-    
-    Dropping soon: Bose x NME C24 album
-    -----------------------------------
-    
-    From Teddy Swims to Laufey, get ready for new tracks from the next gen of music.
+    Bose x NME present C24: a mixtape showcasing the future of music.
     
     [LEARN MORE](https://www.bose.com/stories/c24-the-next-generation-of-music "LEARN MORE")
     
@@ -81,9 +80,11 @@ Back
     * [Product Warranty](https://www.bose.com/legal/product-warranty)
     * [My Bose](https://www.bose.com/my-account)
     
+    Back
+    
     [Support homepage](https://support.bose.com/s/?language=en_US)
     
-     ![Bose QuietComfort Headphones](https://assets.bosecreative.com/transform/7bc70bbb-324a-49bc-9681-27be5161f26d/CREA-1005_QCH24_BoseBlack_0273?io=transform:crop,height:1350,width:1080,path:square,gravity:top&io=overlay:box,color:000,opacity:20&quality=95)
+     
     
     We're here to help
     ------------------
@@ -96,13 +97,13 @@ Back
 * [Contact](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/32a4520a4af703d2/webimage-Editorial-Product-Category-Card_Prime-Day-July_v2.png)
+[![](https://assets.bosecreative.com/m/7f282209b7c5ee31/webimage-SF_QCH_M-NAV_EXPRESSIVE_CHILLED-LILAC.png)
 
-Summer bonus deals
+Limited-edition
 
-### Save over 50% on bestsellers this weekend only.](https://www.bose.com/c/summer-sale "SHOP")
+### New QuietComfort Headphones in Chilled Lilac.](https://www.bose.com/en_us/legal/QC-HEADPHONEARN.html "BUY NOW")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw560e452d/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw05755e93/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
@@ -244,22 +245,18 @@ Glossary
 
 [Back to top](#maincontent)
 
-Be the first to know. Sign up to receive Bose emails & communications.
+1. [Home](https://www.bose.com/home)
+2. Cookies Notice
 
- Email address
+##### Notify me
+
+**We are sorry**
+
+The product you have selected is not available at the moment. Leave your email address and we will notify you as soon as it becomes available again.
 
 Please enter a valid email address.
 
-Send
-
-Thanks for signing up! You're now a Bose insider - keep an eye on your inbox.
-
 We are experiencing issues at this moment. Please try again later.
-
-   
-
-1. [Home](https://www.bose.com/home)
-2. Cookies Notice
 
 ##### Customer Care Customer Care
 
