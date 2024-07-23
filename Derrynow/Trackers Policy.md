@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-21 Jul 2024
+23 Jul 2024
 
 * [Home
     
@@ -259,95 +259,137 @@ Advertise with Us
 
 Most Popular
 
-[![County Derry road closed this morning following serious road traffic collision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry road closed this morning following serious road traffic collision")](https://www.derrynow.com/news/home/1559403/county-derry-road-closed-this-morning-following-serious-road-traffic-collision.html)
+[!['So much promise' - Girl killed in Majorca balcony fall named as tributes are paid](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'So much promise' - Girl killed in Majorca balcony fall named as tributes are paid")](https://www.derrynow.com/news/national-news/1561118/so-much-promise-girl-killed-in-majorca-balcony-fall-named-as-tributes-are-paid.html)
 
-The PSNI are asking motorists to avoid the Mussenden Road this morning.
+'So much promise' - Girl killed in Majorca balcony fall named as tributes are paid
 
-[Home](https://www.derrynow.com/)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[County Derry road closed this morning following serious road traffic collision](https://www.derrynow.com/news/home/1559403/county-derry-road-closed-this-morning-following-serious-road-traffic-collision.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['So much promise' - Girl killed in Majorca balcony fall named as tributes are paid](https://www.derrynow.com/news/national-news/1561118/so-much-promise-girl-killed-in-majorca-balcony-fall-named-as-tributes-are-paid.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1559044/derry-death-notices-saturday-20th-july-2024.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1560783/in-pictures-derry-city-fans-watch-their-team-dominate-st-patrick-s-athletic-at-the-brandywell.html)
+
+Derry City fans at the Brandywell last night. Pics by nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City fans watch their team dominate St. Patrick's Athletic at the Brandywell](https://www.derrynow.com/news/derry-sport/1560783/in-pictures-derry-city-fans-watch-their-team-dominate-st-patrick-s-athletic-at-the-brandywell.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1560734/derry-death-notices-tuesday-23rd-july-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Saturday, 20th July 2024](https://www.derrynow.com/news/deaths/1559044/derry-death-notices-saturday-20th-july-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Tuesday, 23rd July 2024](https://www.derrynow.com/news/deaths/1560734/derry-death-notices-tuesday-23rd-july-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![55-year-old man charged with attempting to prevent lawful burial in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "55-year-old man charged with attempting to prevent lawful burial in Derry")](https://www.derrynow.com/news/local-news/1559639/55-year-old-man-charged-with-attempting-to-prevent-lawful-burial-in-derry.html)
+[![Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1560708/throwback-tuesday-out-and-about-alzheimer-s-society-table-quiz-in-claudy-2014.html)
 
-He is due to appear at Derry Magistrates Court on Monday.
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)](https://www.derrynow.com/story-telling/pictures---videos/1560708/throwback-tuesday-out-and-about-alzheimer-s-society-table-quiz-in-claudy-2014.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who was contacting former fiancee in breach of a restraining order remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who was contacting former fiancee in breach of a restraining order remanded")](https://www.derrynow.com/news/local-news/1561401/derry-man-who-was-contacting-former-fiancee-in-breach-of-a-restraining-order-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[55-year-old man charged with attempting to prevent lawful burial in Derry](https://www.derrynow.com/news/local-news/1559639/55-year-old-man-charged-with-attempting-to-prevent-lawful-burial-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man who was contacting former fiancee in breach of a restraining order remanded](https://www.derrynow.com/news/local-news/1561401/derry-man-who-was-contacting-former-fiancee-in-breach-of-a-restraining-order-remanded.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Shall Diver garden](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Shall Diver garden")](https://www.derrynow.com/news/county-derry-post/1559467/county-derry-man-is-encouraging-others-to-take-pride-in-their-gardens.html)
+[![Derry man charged with assaulting female and harassment remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with assaulting female and harassment remanded")](https://www.derrynow.com/news/local-news/1561399/derry-man-charged-with-assaulting-female-and-harassment-remanded.html)
 
-Shall Diver and his garden in Strafoyle
+Derry Magistrate's Court
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man is encouraging others to take pride in their gardens](https://www.derrynow.com/news/county-derry-post/1559467/county-derry-man-is-encouraging-others-to-take-pride-in-their-gardens.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Maiden City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Maiden City")](https://www.derrynow.com/news/derry-sport/1559662/maiden-city-u16s-finish-foyle-cup-week-in-style.html)
-
-Maiden City players celebrate their victory. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Maiden City U16s finish Foyle Cup week in style!](https://www.derrynow.com/news/derry-sport/1559662/maiden-city-u16s-finish-foyle-cup-week-in-style.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman seriously injured in Co Londonderry road crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman seriously injured in Co Londonderry road crash")](https://www.derrynow.com/news/northern-ireland/1559605/woman-seriously-injured-in-co-londonderry-road-crash.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Woman seriously injured in Co Londonderry road crash](https://www.derrynow.com/news/northern-ireland/1559605/woman-seriously-injured-in-co-londonderry-road-crash.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1559661/five-star-showing-from-derry-city-u15s-in-foyle-cup-final.html)
-
-Derry City U15s celebrate their victory.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Five-star showing from Derry City U15s in Foyle Cup Final](https://www.derrynow.com/news/derry-sport/1559661/five-star-showing-from-derry-city-u15s-in-foyle-cup-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1559666/penalty-shoot-out-heartbreak-for-derry-city-in-foyle-cup-u14s-final.html)
-
-Hillsborough players celebrate their penalty shoot-out win. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Penalty shoot-out heartbreak for Derry City in Foyle Cup U14s final](https://www.derrynow.com/news/derry-sport/1559666/penalty-shoot-out-heartbreak-for-derry-city-in-foyle-cup-u14s-final.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man due in court charged with attempting to prevent a lawful burial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due in court charged with attempting to prevent a lawful burial")](https://www.derrynow.com/news/northern-ireland/1559672/man-due-in-court-charged-with-attempting-to-prevent-a-lawful-burial.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man due in court charged with attempting to prevent a lawful burial](https://www.derrynow.com/news/northern-ireland/1559672/man-due-in-court-charged-with-attempting-to-prevent-a-lawful-burial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Cup")](https://www.derrynow.com/news/derry-sport/1559671/foyle-cup-u19s-final-heartbreak-for-trojans-joy-for-carndonagh.html)
-
-Carndonagh players celebrate. Pic by om Heaney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Foyle Cup U19s final - Heartbreak for Trojans, joy for Carndonagh](https://www.derrynow.com/news/derry-sport/1559671/foyle-cup-u19s-final-heartbreak-for-trojans-joy-for-carndonagh.html)
+[Derry man charged with assaulting female and harassment remanded](https://www.derrynow.com/news/local-news/1561399/derry-man-charged-with-assaulting-female-and-harassment-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![All-Ireland Football Final 2024: Armagh v Galway throw-in time, TV channel, stats and news](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All-Ireland Football Final 2024: Armagh v Galway throw-in time, TV channel, stats and news")](https://www.derrynow.com/news/gaa/1560731/all-ireland-football-final-2024-armagh-v-galway-throw-in-time-tv-channel-stats-and-news.html)
+
+Armagh’s Oisín O’Neill in action against Johnny Heaney of Galway during the GAA Football All-Ireland Senior Championship Round 3 clash at Markievicz Park. Photo: Brendan Moran/Sportsfile
+
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
+
+[All-Ireland Football Final 2024: Armagh v Galway throw-in time, TV channel, stats and news](https://www.derrynow.com/news/gaa/1560731/all-ireland-football-final-2024-armagh-v-galway-throw-in-time-tv-channel-stats-and-news.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (50s) dies in diving incicent off Donegal coast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (50s) dies in diving incicent off Donegal coast")](https://www.derrynow.com/news/local-news/1561359/man-50s-dies-in-diving-incident-off-donegal-coast.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (50s) dies in diving incident off Donegal coast](https://www.derrynow.com/news/local-news/1561359/man-50s-dies-in-diving-incident-off-donegal-coast.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry are investigating number of recent car thefts and attempted burglaries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry are investigating number of recent car thefts and attempted burglaries")](https://www.derrynow.com/news/local-news/1561478/police-in-derry-are-investigating-number-of-recent-car-thefts-and-attempted-burglaries.html)
+
+PSNI are appealing to anyone with information about any of these reports
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry are investigating number of recent car thefts and attempted burglaries](https://www.derrynow.com/news/local-news/1561478/police-in-derry-are-investigating-number-of-recent-car-thefts-and-attempted-burglaries.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Wilson Burgess](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Wilson Burgess")](https://www.derrynow.com/news/local-news/1560659/derry-poets-work-draws-parallels-to-renowned-poet-robert-burns-after-critical-analysis.html)
+
+Wilson Burgess from the recording of A Kist o Wurds.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry poet’s work draws parallels to renowned poet Robert Burns after critical analysis](https://www.derrynow.com/news/local-news/1560659/derry-poets-work-draws-parallels-to-renowned-poet-robert-burns-after-critical-analysis.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1560708/throwback-tuesday-out-and-about-alzheimer-s-society-table-quiz-in-claudy-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Alzheimer's Society Table Quiz in Claudy (2014)](https://www.derrynow.com/story-telling/pictures---videos/1560708/throwback-tuesday-out-and-about-alzheimer-s-society-table-quiz-in-claudy-2014.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1560783/in-pictures-derry-city-fans-watch-their-team-dominate-st-patrick-s-athletic-at-the-brandywell.html)
+
+Derry City fans at the Brandywell last night. Pics by nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City fans watch their team dominate St. Patrick's Athletic at the Brandywell](https://www.derrynow.com/news/derry-sport/1560783/in-pictures-derry-city-fans-watch-their-team-dominate-st-patrick-s-athletic-at-the-brandywell.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Family Fun Day celebrated in style at Ballymagroarty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Family Fun Day celebrated in style at Ballymagroarty")](https://www.derrynow.com/story-telling/pictures---videos/1560645/in-pictures-family-fun-day-celebrated-in-style-at-ballymagroarty.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Family Fun Day celebrated in style at Ballymagroarty](https://www.derrynow.com/story-telling/pictures---videos/1560645/in-pictures-family-fun-day-celebrated-in-style-at-ballymagroarty.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Cross community fun day held in Maydown Play Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cross community fun day held in Maydown Play Park")](https://www.derrynow.com/story-telling/pictures---videos/1560644/in-pictures-cross-community-fun-day-held-in-maydown-play-park.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Cross community fun day held in Maydown Play Park](https://www.derrynow.com/story-telling/pictures---videos/1560644/in-pictures-cross-community-fun-day-held-in-maydown-play-park.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: O'NEILL'S FOYLE CUP 2024 - Fantastic feast of football comes to end](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: O'NEILL'S FOYLE CUP 2024 - Fantastic feast of football comes to end")](https://www.derrynow.com/story-telling/pictures---videos/1560374/in-pictures-o-neill-s-foyle-cup-2024-fantastic-feast-of-football-comes-to-end.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: O'NEILL'S FOYLE CUP 2024 - Fantastic feast of football comes to end](https://www.derrynow.com/story-telling/pictures---videos/1560374/in-pictures-o-neill-s-foyle-cup-2024-fantastic-feast-of-football-comes-to-end.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Watch: Daring 92-year-old Donegal woman completes charity skydive in memory of son](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Watch: Daring 92-year-old Donegal woman completes charity skydive in memory of son")](https://www.derrynow.com/video/local-news/1560018/watch-daring-92-year-old-donegal-woman-completes-charity-skydive-in-memory-of-son.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Watch: Daring 92-year-old Donegal woman completes charity skydive in memory of son](https://www.derrynow.com/video/local-news/1560018/watch-daring-92-year-old-donegal-woman-completes-charity-skydive-in-memory-of-son.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: 'Lone Moor Road' book launch at Derry's Little Acorns Bookstore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Lone Moor Road' book launch at Derry's Little Acorns Bookstore")](https://www.derrynow.com/story-telling/pictures---videos/1558813/in-pictures-lone-moor-road-book-launch-at-derry-s-little-acorns-bookstore.html)
 
@@ -378,50 +420,6 @@ Secretary of state for Northern Ireland Hilary Benn MP pictured during his visit
 
 [WATCH: New NI Secretary of State visits Derry](https://www.derrynow.com/video/pictures---videos/1558065/watch-new-ni-secretary-of-state-visits-derry.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Mayoral reception marks 30 years of Craft Training Ltd](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayoral reception marks 30 years of Craft Training Ltd")](https://www.derrynow.com/story-telling/pictures---videos/1557999/in-pictures-mayoral-reception-marks-30-years-of-craft-training-ltd.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Mayoral reception marks 30 years of Craft Training Ltd](https://www.derrynow.com/story-telling/pictures---videos/1557999/in-pictures-mayoral-reception-marks-30-years-of-craft-training-ltd.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: O'NEILL'S FOYLE CUP 2024 - Action from Girls U9 and U11 at Lisneal and Wilton Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: O'NEILL'S FOYLE CUP 2024 - Action from Girls U9 and U11 at Lisneal and Wilton Park")](https://www.derrynow.com/story-telling/pictures---videos/1557555/in-pictures-o-neill-s-foyle-cup-2024-action-from-girls-u9-and-u11-at-lisneal-and-wilton-park.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: O'NEILL'S FOYLE CUP 2024 - Action from Girls U9 and U11 at Lisneal and Wilton Park](https://www.derrynow.com/story-telling/pictures---videos/1557555/in-pictures-o-neill-s-foyle-cup-2024-action-from-girls-u9-and-u11-at-lisneal-and-wilton-park.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: O'NEILL'S FOYLE CUP 2024 - U9 action from Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: O'NEILL'S FOYLE CUP 2024 - U9 action from Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1557554/in-pictures-o-neill-s-foyle-cup-2024-u9-action-from-templemore-sports-complex.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: O'NEILL'S FOYLE CUP 2024 - U9 action from Templemore Sports Complex](https://www.derrynow.com/story-telling/pictures---videos/1557554/in-pictures-o-neill-s-foyle-cup-2024-u9-action-from-templemore-sports-complex.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: O'NEILL'S FOYLE CUP 2024 - U8 action from Brandywell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: O'NEILL'S FOYLE CUP 2024 - U8 action from Brandywell")](https://www.derrynow.com/story-telling/pictures---videos/1557553/in-pictures-o-neill-s-foyle-cup-2024-u8-action-from-brandywell.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: O'NEILL'S FOYLE CUP 2024 - U8 action from Brandywell](https://www.derrynow.com/story-telling/pictures---videos/1557553/in-pictures-o-neill-s-foyle-cup-2024-u8-action-from-brandywell.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about in Derry's Dungloe Bar (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Dungloe Bar (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1555020/throwback-thursday-partytime-out-and-about-in-derry-s-dungloe-bar-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Derry's Dungloe Bar (2009)](https://www.derrynow.com/story-telling/pictures---videos/1555020/throwback-thursday-partytime-out-and-about-in-derry-s-dungloe-bar-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Meet the adorable entries sniffing out the Nose of Tralee 2024 crown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Meet the adorable entries sniffing out the Nose of Tralee 2024 crown")](https://www.derrynow.com/news/pictures---videos/1557041/pictures-spot-the-darling-derry-pet-sniffing-out-the-nose-of-tralee-2024-title.html)
-
-A total of 32 pets are battling it out for the crown of Nose of Tralee 2024
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Spot the darling Derry pet sniffing out the Nose of Tralee 2024 title](https://www.derrynow.com/news/pictures---videos/1557041/pictures-spot-the-darling-derry-pet-sniffing-out-the-nose-of-tralee-2024-title.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,59 +523,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Foyle Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Cup")](https://www.derrynow.com/news/derry-sport/1559671/foyle-cup-u19s-final-heartbreak-for-trojans-joy-for-carndonagh.html)
+[![Oxford Jetty Lough Neagh ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Oxford Jetty Lough Neagh ")](https://www.derrynow.com/news/county-derry-post/1561561/public-invited-to-lough-neagh-consultation-webinar.html)
 
-Carndonagh players celebrate. Pic by om Heaney, nwpresspics
+Oxford Jetty Lough Neagh
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Foyle Cup U19s final - Heartbreak for Trojans, joy for Carndonagh](https://www.derrynow.com/news/derry-sport/1559671/foyle-cup-u19s-final-heartbreak-for-trojans-joy-for-carndonagh.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Public Invited to Lough Neagh Consultation Webinar](https://www.derrynow.com/news/county-derry-post/1561561/public-invited-to-lough-neagh-consultation-webinar.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Foyle Cup](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Cup")](https://www.derrynow.com/news/derry-sport/1559667/early-goal-wins-it-for-loughgall-in-u12-foyle-cup-final-at-the-brandywell.html)
+[![UN ‘must co-operate’ with Private Rooney inquest, lawyer says](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "UN ‘must co-operate’ with Private Rooney inquest, lawyer says")](https://www.derrynow.com/news/local-news/1561550/un-must-co-operate-with-private-rooney-inquest-lawyer-says.html)
 
-Loughgall celebrate with Derry City and Strabane District Council Mayor Lilian Seenoi-Barr. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Early goal wins it for Loughgall in U12 Foyle Cup Final at the Brandywell](https://www.derrynow.com/news/derry-sport/1559667/early-goal-wins-it-for-loughgall-in-u12-foyle-cup-final-at-the-brandywell.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_07_20/U14_Final%2C_Derry_City_FC_v_Hillsborough_Boys_03_-1721497556929.jpg--.jpg?1721497557065 "Derry City")](https://www.derrynow.com/news/derry-sport/1559666/penalty-shoot-out-heartbreak-for-derry-city-in-foyle-cup-u14s-final.html)
-
-Hillsborough players celebrate their penalty shoot-out win. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Penalty shoot-out heartbreak for Derry City in Foyle Cup U14s final](https://www.derrynow.com/news/derry-sport/1559666/penalty-shoot-out-heartbreak-for-derry-city-in-foyle-cup-u14s-final.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Maiden City](https://www.derrynow.com/resizer/165/93/true/2024_07_20/U16_Final%2C_Maiden_City_Academy_v_Atlantic_United_04_-1721497329903.jpg--.jpg?1721497330091 "Maiden City")](https://www.derrynow.com/news/derry-sport/1559662/maiden-city-u16s-finish-foyle-cup-week-in-style.html)
-
-Maiden City players celebrate their victory. Pic by George Sweeney, nwpresspics
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Maiden City U16s finish Foyle Cup week in style!](https://www.derrynow.com/news/derry-sport/1559662/maiden-city-u16s-finish-foyle-cup-week-in-style.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_07_20/452023696_10161885799073523_2742971576231107099_n-1721497012963.jpg--.jpg?1721497013078 "Derry City")](https://www.derrynow.com/news/derry-sport/1559661/five-star-showing-from-derry-city-u15s-in-foyle-cup-final.html)
-
-Derry City U15s celebrate their victory.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Five-star showing from Derry City U15s in Foyle Cup Final](https://www.derrynow.com/news/derry-sport/1559661/five-star-showing-from-derry-city-u15s-in-foyle-cup-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![55-year-old man charged with attempting to prevent lawful burial in Derry](https://www.derrynow.com/resizer/165/93/true/2023_05_29/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg--.jpg?1685351040804 "55-year-old man charged with attempting to prevent lawful burial in Derry")](https://www.derrynow.com/news/local-news/1559639/55-year-old-man-charged-with-attempting-to-prevent-lawful-burial-in-derry.html)
-
-He is due to appear at Derry Magistrates Court on Monday.
+Private Sean Rooney was killed while serving in Lebanon when his UN peacekeeping convoy was attacked in 2022. Photo: PA
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[55-year-old man charged with attempting to prevent lawful burial in Derry](https://www.derrynow.com/news/local-news/1559639/55-year-old-man-charged-with-attempting-to-prevent-lawful-burial-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[UN ‘must co-operate’ with Private Rooney inquest, lawyer says](https://www.derrynow.com/news/local-news/1561550/un-must-co-operate-with-private-rooney-inquest-lawyer-says.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![The Rivers Trust welcomes Lough Neagh Action Plan](https://www.derrynow.com/resizer/165/93/true/2024_05_24/1713801912734_0.jpg---1716549573570.jpg--.jpg?1716549573598 "The Rivers Trust welcomes Lough Neagh Action Plan")](https://www.derrynow.com/news/county-derry-post/1561549/the-rivers-trust-welcomes-lough-neagh-action-plan.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[The Rivers Trust welcomes Lough Neagh Action Plan](https://www.derrynow.com/news/county-derry-post/1561549/the-rivers-trust-welcomes-lough-neagh-action-plan.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Causeway Coastal Route placed fourth for the most scenic road routes in the UK](https://www.derrynow.com/resizer/165/93/true/2024_07_23/d76a29de5bc29b04cfb00efaf8c4d61bb50d26ca-1721739273340.png--.png?1721739273448 "Causeway Coastal Route placed fourth for the most scenic road routes in the UK")](https://www.derrynow.com/news/county-derry-post/1561540/causeway-coastal-route-placed-fourth-for-the-most-scenic-road-routes-in-the-uk.html)
+
+Causeway Coastal Route placed fourth for the most scenic road routes in the UK
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Causeway Coastal Route placed fourth for the most scenic road routes in the UK](https://www.derrynow.com/news/county-derry-post/1561540/causeway-coastal-route-placed-fourth-for-the-most-scenic-road-routes-in-the-uk.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City face long trip to Cork City in FAI Cup third round](https://www.derrynow.com/resizer/165/93/true/2024_03_08/2757406-1709934138247.jpg--.jpg?1709934139179 "Derry City face long trip to Cork City in FAI Cup third round")](https://www.derrynow.com/news/derry-sport/1561520/derry-city-face-long-trip-to-cork-city-in-fai-cup-third-round.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City face long trip to Cork City in FAI Cup third round](https://www.derrynow.com/news/derry-sport/1561520/derry-city-face-long-trip-to-cork-city-in-fai-cup-third-round.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry are investigating number of recent car thefts and attempted burglaries](https://www.derrynow.com/resizer/165/93/true/2023_05_29/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg--.jpg?1685351040804 "Police in Derry are investigating number of recent car thefts and attempted burglaries")](https://www.derrynow.com/news/local-news/1561478/police-in-derry-are-investigating-number-of-recent-car-thefts-and-attempted-burglaries.html)
+
+PSNI are appealing to anyone with information about any of these reports
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry are investigating number of recent car thefts and attempted burglaries](https://www.derrynow.com/news/local-news/1561478/police-in-derry-are-investigating-number-of-recent-car-thefts-and-attempted-burglaries.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
