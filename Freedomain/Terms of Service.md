@@ -183,7 +183,7 @@ Newsletter
 To contact, please email [support@freedomain.com](mailto:support@freedomain.com)
 
 Freedomain is funded by the generosity of its viewers - to make a donation  
-please [click here](https://freedomain.com/donate/) or use the Bitcoin address here:
+please [click here](https://freedomain.com/donate/) or use the Bitcoin address here:
 
 1Fd8RuZqJNG4v56rPD1v6rgYptwnHeJRWs
 
