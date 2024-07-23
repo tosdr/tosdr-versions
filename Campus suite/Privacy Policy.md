@@ -69,9 +69,9 @@ Every kind of message delivered just how families want](https://www.schoolnow.co
 
 Auto-notices
 
-From attendance to automated reminders](https://staging-schoolnow-com.sandbox.hs-sites.com/auto-notices)
+From attendance to automated reminders](https://www.schoolnow.com/auto-notices)
 
-[See all features and plans](https://staging-schoolnow-com.sandbox.hs-sites.com/plans)
+[See all features and plans](https://www.schoolnow.com/plans)
 
 ![service_icon_1](https://www.schoolnow.com/hs-fs/hubfs/SchoolNow%20June%202024/Images/service_icon_1.png?width=56&height=56&name=service_icon_1.png)
 
@@ -103,7 +103,7 @@ Customers
 
 Give families the choice for connecting
 
-[](https://staging-schoolnow-com.sandbox.hs-sites.com/customers)
+[](https://www.schoolnow.com/customers)
 
 Bridgestone design
 
@@ -145,7 +145,7 @@ How-to resources
 
 [Communication
 
-The complete communication planning guide for schools](https://staging-schoolnow-com.sandbox.hs-sites.com/school-communications-planning-guide)
+The complete communication planning guide for schools](https://www.schoolnow.com/school-communications-planning-guide)
 
 [website
 
@@ -153,7 +153,7 @@ Steps to create a school website design for results](https://www.schoolnow.com/s
 
 [Website accessibility guide
 
-School Website accessibility guide](https://staging-schoolnow-com.sandbox.hs-sites.com/school-website-accessibility-guide)
+School Website accessibility guide](https://www.schoolnow.com/school-website-accessibility-guide)
 
 [See all resources](https://www.campussuite.com/resources)
 
@@ -173,7 +173,7 @@ Give families the choice for connecting](https://www.schoolnow.com/company/caree
 
 Partner network
 
-Collaborate for customer success](https://staging-schoolnow-com.sandbox.hs-sites.com/partner-program)
+Collaborate for customer success](https://www.schoolnow.com/partner-program)
 
 SchoolNow™ Privacy Policy
 =========================
@@ -539,20 +539,20 @@ Communication
 * [Messages](https://www.schoolnow.com/notifications)
 * [Mobile app](https://www.schoolnow.com/school-mobile-app)
 * [Social media](https://www.schoolnow.com/social-media-manager)
-* [Feature list](https://staging-schoolnow-com.sandbox.hs-sites.com/plans)
+* [Feature list](https://www.schoolnow.com/plans)
 
 Services
 
 * [Digital branding](https://www.schoolnow.com/branding)
 * [Website Design](https://www.schoolnow.com/design)
 * [Compliance](https://www.schoolnow.com/accessibility)
-* [Customers](https://staging-schoolnow-com.sandbox.hs-sites.com/customers)
+* [Customers](https://www.schoolnow.com/customers)
 
 Company
 
 * [About us](https://www.schoolnow.com/company)
 * [Careers](javascript:void(0);)
-* [Partner program](https://staging-schoolnow-com.sandbox.hs-sites.com/partner-program)
+* [Partner program](https://www.schoolnow.com/partner-program)
 * [Contact us](https://www.schoolnow.com/contact)
 
 Resources
