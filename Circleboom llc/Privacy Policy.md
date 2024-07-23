@@ -4,7 +4,7 @@
 
 Products
 
-![circleboom_publish](https://assets.circleboom.com/website/images/circleboom_publish.svg)[Social Media Hashtag Generator](https://circleboom.com/social-media-scheduler/social-media-content-creation/social-media-hashtag-generator)[Pinterest Scheduler](https://circleboom.com/social-media-scheduler/pinterest-scheduler)[Social Media Content Curation](https://circleboom.com/social-media-scheduler/content-curation)[Twitter Scheduler](https://circleboom.com/social-media-scheduler/twitter-scheduler)[LinkedIn Post Scheduler](https://circleboom.com/social-media-scheduler/linkedin-post-scheduler)[Google Business Profile Manager](https://circleboom.com/social-media-scheduler/google-business-profile-manager)[Social Media AI Post Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator)[Instagram AI Caption Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-instagram-caption-generator)[Get Started with Circleboom Publish](https://circleboom.com/social-media-scheduler)
+![circleboom_publish](https://assets.circleboom.com/website/images/circleboom_publish.svg)[Pinterest Scheduler](https://circleboom.com/social-media-scheduler/pinterest-scheduler)[Twitter Scheduler](https://circleboom.com/social-media-scheduler/twitter-scheduler)[LinkedIn Post Scheduler](https://circleboom.com/social-media-scheduler/linkedin-post-scheduler)[Google Business Profile Manager](https://circleboom.com/social-media-scheduler/google-business-profile-manager)[Instagram AI Caption Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-instagram-caption-generator)[Get Started with Circleboom Publish](https://circleboom.com/social-media-scheduler)
 
 ![circleboom_twitter](https://assets.circleboom.com/website/images/circleboom_twitter.svg)[Delete All Tweets](https://circleboom.com/twitter-management-tool/delete-all-tweets)[Twitter Circle Generator](https://circleboom.com/twitter-management-tool/twitter-user-analytics/twitter-circle-generator)[Followers & Friends](https://circleboom.com/twitter-management-tool/twitter-circle-tool)[Fake Twitter Account Checker](https://circleboom.com/twitter-management-tool/twitter-circle-tool/fake-twitter-account-checker)[Who Unfollowed Me](https://circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-audience-insights/who-unfollowed-me-on-twitter)[Get Started with Circleboom Twitter](https://circleboom.com/twitter-management-tool)
 
@@ -177,13 +177,10 @@ By using this site, you consent to the collection and use of this information by
 * [RSS](https://circleboom.com/blog/rss)
 
 * PUBLISH TOOL
-* [Social Media Hashtag Generator](https://circleboom.com/social-media-scheduler/social-media-content-creation/social-media-hashtag-generator)
 * [Pinterest Scheduler](https://circleboom.com/social-media-scheduler/pinterest-scheduler)
-* [Social Media Content Curation](https://circleboom.com/social-media-scheduler/content-curation)
 * [Twitter Scheduler](https://circleboom.com/social-media-scheduler/twitter-scheduler)
 * [LinkedIn Post Scheduler](https://circleboom.com/social-media-scheduler/linkedin-post-scheduler)
 * [Google Business Profile Manager](https://circleboom.com/social-media-scheduler/google-business-profile-manager)
-* [Social Media AI Post Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator)
 * [Instagram AI Caption Generator](https://circleboom.com/social-media-scheduler/social-media-post-generator/ai-instagram-caption-generator)
 * [Circleboom Publish Help](https://help.circleboom.com/publish)
 
