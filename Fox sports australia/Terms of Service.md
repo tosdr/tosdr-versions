@@ -14,138 +14,74 @@ FOX SCORES
 * NHL
 * US Sports
 
-* Golf
-    
-* [Major
-    
-    Round 3
-    
-    |     |
-    | --- |
-    | The Open Championship |
-    | B. Horschel leads by 1 |
-    
-    Match Centre](https://www.foxsports.com.au/golf/match?matchid=TOC20240010017B23F)
 * NRL
     
-* [NRL
+* [NRL Women's
     
-    1st Half
-    
-    |     |     |
-    | --- | --- |
-    | MAN | 0   |
-    | GLD | 8   |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242006)
-* [NRL
-    
-    Complete
+    25/7 19:45 AEST
     
     |     |     |
     | --- | --- |
-    | PEN | 28  |
-    | DOL | 26  |
+    | NEW | –   |
+    | SYD | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242005/match-report)
+    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20240101)
 * [NRL
     
-    21/7 18:15 AEST
+    26/7 18:00 AEST
     
     |     |     |
     | --- | --- |
-    | NQL | –   |
-    | CBY | –   |
+    | WAR | –   |
+    | WST | –   |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242007)
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242101)
+* [NRL
+    
+    26/7 20:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PAR | –   |
+    | MEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20242102)
 * AFL
     
 * [AFL
     
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | FRE | 7.9.51 |
-    | MEL | 3.3.21 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241908)
-* [AFL
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 11.13.79 |
-    | SYD | 11.11.77 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241907)
-* [AFL
-    
-    21/7 16:40 AEST
+    26/7 19:40 AEST
     
     |     |     |
     | --- | --- |
     | CAR | –   |
-    | NM  | –   |
+    | POR | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20241909)
+    Match Centre](https://www.foxsports.com.au/afl/match-centre/AFL20242001)
 * Netball
     
 * [Super Netball
     
-    Full Time
+    27/7 17:00 AEST
     
     |     |     |
     | --- | --- |
-    | FEV | 72  |
-    | LIG | 62  |
+    | VIX | –   |
+    | FEV | –   |
     
-    Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241502)
+    Match Centre](https://www.foxsports.com.au/netball/match-centre/SSN20241601)
 * Motorsport
     
 * [Formula 1
     
-    19/7 21:30 AEST
+    26/7 21:30 AEST
     
     |     |
     | --- |
-    | Hungarian Grand Prix |
+    | Belgian Grand Prix |
     |     |
     
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=587)
-* [Supercars
-    
-    |     |
-    | --- |
-    | Sydney SuperNight |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=734)
-* Cricket
-    
-* [Men's Test
-    
-    Day 3
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 416 & 3 /248 |
-    | WI  | 457 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST20240102)
-* Rugby
-    
-* [Men's Test
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | CHL | 11  |
-    | SCO | 52  |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20240406)
+    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=588)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -801,7 +737,6 @@ FOX SCORES
 
 [Rugby](https://www.foxsports.com.au/video/rugby)
 
-* [Super Rugby](https://www.foxsports.com.au/video/rugby/super-rugby)
 * [Wallabies](https://www.foxsports.com.au/video/rugby/wallabies)
 * [Sponsored](https://www.foxsports.com.au/video/rugby/sponsored)
 
@@ -813,6 +748,7 @@ FOX SCORES
 * [WWE](https://www.foxsports.com.au/video/other-sports/wwe)
 * [Netball](https://www.foxsports.com.au/video/other-sports/netball)
 * [Cycling](https://www.foxsports.com.au/video/other-sports/cycling)
+* [Surfing](https://www.foxsports.com.au/video/other-sports/surfing)
 * [Horse Racing](https://www.foxsports.com.au/video/other-sports/horse-racing)
 * Olympics
 
@@ -897,7 +833,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
