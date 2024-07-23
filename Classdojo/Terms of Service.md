@@ -16,7 +16,6 @@ Terms of Service
 Print policyContents
 
 * [Privacy Policy](https://www.classdojo.com/privacy)
-* [Security](https://www.classdojo.com/security)
 * [Website Privacy Policy](https://www.classdojo.com/website-privacy)
 * [Terms of Service](https://www.classdojo.com/terms)
     * [ClassDojo Terms of Service](#introduction)
@@ -55,7 +54,6 @@ Print policyContents
     * [Contact Information](#contact-information)
 * [Transparency](https://www.classdojo.com/transparency)
 * [Cookies Policy](https://www.classdojo.com/cookies-policy)
-* [Security Vulnerability Disclosure Program](https://www.classdojo.com/securitydisclosureprogram)
 * [Premium Features Terms](https://www.classdojo.com/premium-features-terms)
 * [Third Party Service Providers](https://www.classdojo.com/third-party-service-providers)
 * [Child Privacy Terms](https://www.classdojo.com/child-privacy)
