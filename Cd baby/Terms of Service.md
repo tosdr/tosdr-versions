@@ -89,6 +89,9 @@
     
 * [Pricing](https://cdbaby.com/cd-baby-cost/)
 
+Take 50% off all releases until July 28 🎉  
+Use code JULY50. [Get started!](https://members.cdbaby.com/login)
+
 Terms of Service
 ================
 
