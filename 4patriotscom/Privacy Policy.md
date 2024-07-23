@@ -43,7 +43,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3302 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3303 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
     
 * [New Arrivals](https://4patriots.com/collections/newly-added)
@@ -101,7 +101,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month Emergency Survival Food Kit
         
-        3302 reviews](https://4patriots.com/products/3-month-survival-food-kit)
+        3303 reviews](https://4patriots.com/products/3-month-survival-food-kit)
         
         [![ 4Patriots 4-Week Survival Food Kits individual pouches. 196 servings.](//4patriots.com/cdn/shop/products/4WK-ARRAY-192-SERVINGS-WHITE_360x.png?v=1680541659)
         
@@ -167,7 +167,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Nanomesh™ Replacement Water Filter
         
-        45 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+        47 reviews](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
         
     
 * [RV & Camping](https://4patriots.com/collections/camping-outdoor)
@@ -198,7 +198,7 @@ We Champion Freedom & Self-Reliance
         
         ###### BugOUT 2-in-1 Solar Lantern & Bug Zapper
         
-        152 reviews](https://4patriots.com/products/bugout-solar-lantern)
+        153 reviews](https://4patriots.com/products/bugout-solar-lantern)
         
     
 * [Home & Health](https://4patriots.com/collections/home-garden)
