@@ -12,8 +12,6 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
-[The CDKeys Summer Sale is here! Shop the hottest deals with up to 90% off your next favourite game 💰🔥 Ends 23rd July](https://www.cdkeys.com/summer-sale)
-
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -118,7 +116,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -454,93 +451,93 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Hogwarts Legacy Deluxe Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/capsule_616x353_1__1_3_1_1.jpg)   No 1. \-70%](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww)
+1.    [![Elden Ring Xbox One & Xbox Series X|S (UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/l/elden_ring_xbox_one_xbox_series_x_s_uk_1_.jpg)   No 1. \-42%](https://www.cdkeys.com/xbox-live/elden-ring-xbox-one-xbox-series-x-s-uk)
+    
+    **[Elden Ring Xbox One & Xbox Series X|S (UK)](https://www.cdkeys.com/xbox-live/elden-ring-xbox-one-xbox-series-x-s-uk "Elden Ring Xbox One & Xbox Series X|S (UK)")**
+    
+    Special Price £28.99 RRP £49.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+2.    [![Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-12t171950.016.jpg)   No 2. \-51%](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam)
+    
+    **[Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam "Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC")**
+    
+    Special Price £35.99 RRP £73.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![Abiotic Factor PC](https://cdn.cdkeys.com/245x340/media/catalog/product/a/b/abioticfactor-steam.jpg)   No 3. \-27%](https://www.cdkeys.com/pc/abiotic-factor-pc-steam)
+    
+    **[Abiotic Factor PC](https://www.cdkeys.com/pc/abiotic-factor-pc-steam "Abiotic Factor PC")**
+    
+    Special Price £12.49 RRP £17.09
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![KAKU: Ancient Seal PC](https://cdn.cdkeys.com/245x340/media/catalog/product/k/a/kaku.jpg)   No 4. \-55%](https://www.cdkeys.com/pc/kaku-ancient-seal-pc-steam)
+    
+    **[KAKU: Ancient Seal PC](https://www.cdkeys.com/pc/kaku-ancient-seal-pc-steam "KAKU: Ancient Seal PC")**
+    
+    Special Price £8.49 RRP £18.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![EA SPORTS College Football 25 Xbox Series X|S (UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/e/a/eascf25-xbox_3.jpg)   No 5. \-24%](https://www.cdkeys.com/xbox-live/ea-sports-college-football-25-xbox-series-xs-uk)
+    
+    **[EA SPORTS College Football 25 Xbox Series X|S (UK)](https://www.cdkeys.com/xbox-live/ea-sports-college-football-25-xbox-series-xs-uk "EA SPORTS College Football 25 Xbox Series X|S (UK)")**
+    
+    Special Price £52.99 RRP £69.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Nobody Wants to Die PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/o/nobody_wants_to_die.jpg)   No 6. \-10%](https://www.cdkeys.com/pc/nobody-wants-to-die-pc-steam)
+    
+    **[Nobody Wants to Die PC](https://www.cdkeys.com/pc/nobody-wants-to-die-pc-steam "Nobody Wants to Die PC")**
+    
+    Special Price £17.99 RRP £19.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Norland PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/o/norland-steam.jpg)   No 7. \-36%](https://www.cdkeys.com/pc/norland-pc-steam)
+    
+    **[Norland PC](https://www.cdkeys.com/pc/norland-pc-steam "Norland PC")**
+    
+    Special Price £13.99 RRP £21.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 8. \-31%
+    
+    Pre-order DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
+    
+    **[The Sims 4: Lovestruck Expansion Pack PC/Mac](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app "The Sims 4: Lovestruck Expansion Pack PC/Mac")**
+    
+    Special Price £23.39 RRP £33.99
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![Hogwarts Legacy Deluxe Edition PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/c/a/capsule_616x353_1__1_3_1_1.jpg)   No 9. \-70%](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww)
     
     **[Hogwarts Legacy Deluxe Edition PC (WW)](https://www.cdkeys.com/pc/hogwarts-legacy-deluxe-edition-pc-steam-ww "Hogwarts Legacy Deluxe Edition PC (WW)")**
     
     Special Price £17.99 RRP £59.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 2. \-46%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
-    
-    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
-    
-    Special Price £26.99 RRP £49.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![OCTOPATH TRAVELER II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_66_.jpg)   No 3. \-52%](https://www.cdkeys.com/pc/octopath-traveler-ii-pc-steam)
-    
-    **[OCTOPATH TRAVELER II PC](https://www.cdkeys.com/pc/octopath-traveler-ii-pc-steam "OCTOPATH TRAVELER II PC")**
-    
-    Special Price £23.99 RRP £49.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![The Crew Motorfest PC (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-07-06t153913.523_2.jpg)   No 4. \-57%](https://www.cdkeys.com/pc/the-crew-motorfest-pc-eu-uplay)
-    
-    **[The Crew Motorfest PC (Europe & UK)](https://www.cdkeys.com/pc/the-crew-motorfest-pc-eu-uplay "The Crew Motorfest PC (Europe & UK)")**
-    
-    Special Price £25.99 RRP £59.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![METAL GEAR SOLID: MASTER COLLECTION VOL. 1 PC (EMEA)](https://cdn.cdkeys.com/245x340/media/catalog/product/u/n/untitled-1s414ca41c.jpg)   No 5. \-46%](https://www.cdkeys.com/pc/metal-gear-solid-master-collection-vol-1-pc-steam)
-    
-    **[METAL GEAR SOLID: MASTER COLLECTION VOL. 1 PC (EMEA)](https://www.cdkeys.com/pc/metal-gear-solid-master-collection-vol-1-pc-steam "METAL GEAR SOLID: MASTER COLLECTION VOL. 1 PC (EMEA)")**
-    
-    Special Price £26.99 RRP £49.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Destiny 2: Lightfall + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/e/g/egs_destiny2lightfall_bungie_addon_s2_1200x1600-3a820ab4d96977371ca4e152059efa8c_1__1.jpg)   No 6. \-83%
-    
-    DLC](https://www.cdkeys.com/pc/destiny-2-lightfall-annual-pass-pc-dlc-steam)
-    
-    **[Destiny 2: Lightfall + Annual Pass PC - DLC](https://www.cdkeys.com/pc/destiny-2-lightfall-annual-pass-pc-dlc-steam "Destiny 2: Lightfall + Annual Pass PC - DLC")**
-    
-    Special Price £13.49 RRP £79.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-7.    [![Football Manager 2024 PC (Steam)  (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/_/w/_wck_v.jpg)   No 7. \-68%](https://www.cdkeys.com/pc/football-manager-2024-pc-steam-eu)
-    
-    **[Football Manager 2024 PC (Steam) (Europe & UK)](https://www.cdkeys.com/pc/football-manager-2024-pc-steam-eu "Football Manager 2024 PC (Steam)  (Europe & UK)")**
-    
-    Special Price £14.49 RRP £44.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-28t153630.660.jpg)   No 8. \-75%](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc)
-    
-    **[Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC](https://www.cdkeys.com/pc/grand-theft-auto-online-megalodon-shark-cash-card-pc "Grand Theft Auto Online (GTA V 5): Megalodon Shark Cash Card PC")**
-    
-    Special Price £14.99 RRP £59.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-9.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 9. \-63%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
-    
-    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
-    
-    Special Price £14.99 RRP £39.99
     
     [Add to Wish List](# "Add to Wish List")
     
