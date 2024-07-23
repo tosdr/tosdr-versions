@@ -214,7 +214,7 @@
         
         * [Dataset Marketplace
             
-            Starts from $300/mo](https://brightdata.com/pricing/datasets)
+            Starts from $500/mo](https://brightdata.com/pricing/datasets)
         * [Custom Datasets
             
             Starts from $300/mo](https://brightdata.com/pricing/datasets)
@@ -461,13 +461,17 @@ Service Agreement
 
 [Start Free Trial](#popup-155639)
 
+Follow Us
+
+[](https://il.linkedin.com/company/bright-data)[](https://www.youtube.com/channel/UCM_0cG1ljAoEUcZIyoUIq6g)[](https://github.com/luminati-io)
+
 Contact Us
 
 [](https://wa.me/972543536332)[\[email protected\]](https://brightdata.com/cdn-cgi/l/email-protection)[](https://t.me/bright_data)
 
-Follow Us
+Bright Data Ltd. (Headquarters), 4 Hamahshev St., Netanya 4250714, Israel (POB 8025).
 
-[](https://il.linkedin.com/company/bright-data)[](https://www.youtube.com/channel/UCM_0cG1ljAoEUcZIyoUIq6g)[](https://github.com/luminati-io)
+Bright Data, Inc., 500 7th Ave, 9th Floor Office 9A1234, New York, NY 10018, United States.
 
 * Cloud partnerships
     
@@ -564,7 +568,3 @@ Follow Us
         
 
 © Copyright 2024 Bright Data Ltd. | All rights reserved
-
-Bright Data Ltd. (Headquarters), 4 Hamahshev St., Netanya 4250714, Israel (POB 8025).
-
-Bright Data, Inc., 500 7th Ave, 9th Floor Office 9A1234, New York, NY 10018, United States.
