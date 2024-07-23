@@ -8,8 +8,8 @@
 
 [Login](https://gamcore.com/login) [Register](https://gamcore.com/register)
 
-* [Sex Games](https://gamcore.com/fuckyou/670)
-* [WebCams](https://gamcore.com/fuckyou/671)
+* [AI Porn](https://gamcore.com/fuckyou/670)
+* [WebCams🍒](https://gamcore.com/fuckyou/671)
 * [Cartoon Porn](https://porcore.com/)
 * [Favourites](https://gamcore.com/favourites)
 * [History](https://gamcore.com/history)
@@ -114,7 +114,7 @@ Main Tags
 * [High Resolution](https://gamcore.com/high_resolution)
 * [Holio U](https://gamcore.com/holio_u)
 * [HTML Games](https://gamcore.com/html_games)
-* [Incest](https://gamcore.com/incest)
+* [Step Fantasies](https://gamcore.com/incest)
 * [Interracial Sex](https://gamcore.com/interracial_sex)
 * [iOS Porn Games](https://gamcore.com/ios_porn_games)
 * [Japanese](https://gamcore.com/japanese)
