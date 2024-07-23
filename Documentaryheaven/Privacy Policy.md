@@ -113,11 +113,11 @@ Advertisement
     Extraordinary People: The Boy Who Lived Before
     
     Ever since he could talk, Cameron has been telling stories of his life on Barra, a remote island in the Outer Hebrides, some 220 miles from his current home in Glasgow. He describes in detail his chil...](https://documentaryheaven.com/extraordinary-people-the-boy-who-lived-before/ "Extraordinary People: The Boy Who Lived Before")
-* [![Ball of Light](/wp-content/thumbnails/5709-100x70.jpg?x53432)
+* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
     
-    Ball of Light
+    Canada’s woke nightmare: A warning to the West
     
-    This 15 minute documentary tells the story of Denis Smith, professional light painter. Two years ago, Denis was in a high pressure sales job, struggling with drink, debt and depression. His family lif...](https://documentaryheaven.com/ball-of-light/ "Ball of Light")
+    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
 * [![Homo Futurus](/wp-content/thumbnails/2808-100x70.jpeg?x53432)
     
     Homo Futurus
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Amy Winehouse: The Final Goodbye](/wp-content/thumbnails/15774-100x70.jpg?x53432)
+* [![Who Gets the Best Jobs?](/wp-content/thumbnails/7762-100x70.jpg?x53432)
     
-    Amy Winehouse: The Final Goodbye
+    Who Gets the Best Jobs?
     
-    Amy Winehouse was one of the greatest singer-songwriters of her generation, not only was she incredibly talented but she also had a profound effect on the music industry as a whole. After all, there](https://documentaryheaven.com/amy-winehouse-final-goodbye/ "Amy Winehouse: The Final Goodbye")
-* [![The Horrific World of England’s Workhouse](/wp-content/thumbnails/9102-100x70.jpg?x53432)
+    Britain is a less equal society than at any time since World War One. In Who Gets the Best Jobs, Richard Bilton investigates access to the professions - and finds that the best jobs are being snapped](https://documentaryheaven.com/who-gets-best-jobs/ "Who Gets the Best Jobs?")
+* [![Bone Diggers](/wp-content/thumbnails/6628-100x70.png?x53432)
     
-    The Horrific World of England’s Workhouse
+    Bone Diggers
     
-    The Workhouse was a hallmark of Victorian Britain in an era associated with imperial pomp and industrial revolution, the workhouse represented the vast underbelly of society. An institution that cause](https://documentaryheaven.com/horrific-world-englands-workhouse/ "The Horrific World of England’s Workhouse")
-* [![Comet Catcher: The Rosetta Landing](/wp-content/thumbnails/9321-100x70.jpeg?x53432)
+    Broadcast (2007) NOVA takes viewers to the stark Australian outback in search of the elusive bones of one of the world’s most bizarre prehistoric creatures—a giant predatory marsupial called Thylacole](https://documentaryheaven.com/bone-diggers/ "Bone Diggers")
+* [![My Penis and I](/wp-content/thumbnails/5048-100x70.jpg?x53432)
     
-    Comet Catcher: The Rosetta Landing
+    My Penis and I
     
-    On November the 12th 2014, the Rosetta mission successfully reached it's goal, a comet, after being launched ten years ago in 2004. The mission was attempting to make history as this was the first mis](https://documentaryheaven.com/comet-catcher-rosetta-landing/ "Comet Catcher: The Rosetta Landing")
-* [![Costa Concordia](/wp-content/thumbnails/6451-100x70.jpg?x53432)
+    This is a film I made (The Author) in 2005 for the BBC. “I guess this thing is about having a small dick, and it’s horrible saying that because it’s true…. And why is it such a problem? This is what](https://documentaryheaven.com/my-penis-and-i/ "My Penis and I")
+* [![Cry of the Snow Lion](/wp-content/thumbnails/1604-100x70.jpg?x53432)
     
-    Costa Concordia
+    Cry of the Snow Lion
     
-    In an exclusive, National Geographic Channel will take viewers on the gripping passage to death and drama on high-seas when the ill-fated Costa Concordia, sunk off the coast of Italy on the 13th of Ja](https://documentaryheaven.com/costa-concordia/ "Costa Concordia")
-* [![Kasparov and The Machine](/wp-content/thumbnails/1504-100x70.jpg?x53432)
+    Ten years in the making, this award-winning feature-length documentary was filmed during nine journeys throughout Tibet, India and Nepal. Cry of the Snow Lion brings audiences to the long-forbidden "r](https://documentaryheaven.com/cry-of-the-snow-lion/ "Cry of the Snow Lion")
+* [![Among the Sex Offenders](/wp-content/thumbnails/8917-100x70.jpg?x53432)
     
-    Kasparov and The Machine
+    Among the Sex Offenders
     
-    Garry Kasparov is arguably the greatest chess player who has ever lived. In 1997 he played a chess match against IBM's computer Deep Blue. Kasparov lost the match. This film shows the match and the ev](https://documentaryheaven.com/kasparov-and-the-machine/ "Kasparov and The Machine")
+    Louis Theroux has spent the last few months filming a series of documentaries titled "LA Stories", this particular film "Among The Sex Offenders" is the final episode to air. Louis takes a look a](https://documentaryheaven.com/among-sex-offenders/ "Among the Sex Offenders")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
