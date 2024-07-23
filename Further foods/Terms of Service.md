@@ -4,13 +4,7 @@
 * [SUBSCRIBE](https://www.furtherfood.com/pages/subscribe-and-save)
 * [LEARN](https://www.furtherfood.com/pages/our-story)
 
-* **FREE SHIPPING ON U.S. ORDERS $59+**
-    
-* **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
-    
-* **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
-    
-* [**SHARE THE LOVE 💕 GIVE $10. GET $10 >>**](https://furtherfood.referralcandy.com/)
+* [**PROTEIN FLASH SALE: Save 25% with code TAKE25. Save 30% on 2+ with code TAKE30**](https://www.furtherfood.com/products/unflavored-plant-based-protein) 
 
 [![](//www.furtherfood.com/cdn/shop/files/FurtherFood_Logo_Digital_White_290x88.png?v=1703188360)
 
