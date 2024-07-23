@@ -51,9 +51,9 @@
         * [Subtitled, Audio Described and Signed programming](https://www.channel4.com/4viewers/accessibility/subtitled-audio-described-and-signed-programming)
         * [BSL Interpreter Service](https://www.channel4.com/4viewers/accessibility/bsl-contact)
         * [Using Channel 4 Streaming, if you have a disability or impairment](https://www.channel4.com/4viewers/accessibility/using-our-video-demand-service)
-        * [Channel 4 Website Accessibility Statement](https://www.channel4.com/4viewers/accessibility/channel-4-website-accessibility-statement)
-        * [Channel 4 iOS App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/ios-digital-accessibility-statement)
-        * [Channel 4 Android App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/android-digital-accessibility-statement)
+        * [Channel 4 Streaming Accessibility Statement](https://www.channel4.com/4viewers/accessibility/channel-4-streaming-accessibility-statement)
+        * [Channel 4 Streaming iOS App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/ios-digital-accessibility-statement)
+        * [Channel 4 Streaming Android App Accessibility Statement](https://www.channel4.com/4viewers/accessibility/android-digital-accessibility-statement)
         
     
 * [Take Part](#)
@@ -87,6 +87,7 @@
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
+        * [Paris 2024: Paralympics](https://www.channel4.com/4viewers/blog/paris-2024-paralympics)
         * [Energy Tips from 4](https://www.channel4.com/4viewers/blog/energy-saving-tips)
         * [Help! I need somebody, not just anybody](https://www.channel4.com/4viewers/news/help-i-need-somebody-not-just-anybody)
         * [Banged Up: Stars Behind Bars](https://www.channel4.com/4viewers/blog/banged-up)
@@ -101,7 +102,7 @@
 * [C4 Investigations](https://www.channel4.com/4viewers/c4IU)
 * [Loneliness](https://www.channel4.com/4viewers/loneliness)
 * [Contact us](https://www.channel4.com/4viewers/contact-us)
-* [Paris 2024: Paralympics](https://www.channel4.com/4viewers/blog/paris-2024-paralympics)
+* [Paris 2024: Paralympics](https://www.channel4.com/4viewers/paris-2024-paralympics)
 * [FAQs](https://www.channel4.com/4viewers/faqs)
     
     * [Channel 4 streaming - Website and Apps](https://www.channel4.com/4viewers/faqs/category/36)
