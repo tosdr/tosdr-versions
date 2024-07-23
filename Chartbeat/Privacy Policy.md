@@ -128,6 +128,7 @@ For more information on our data security practices, you can access our data sec
 * [Privacy](https://chartbeat.com/privacy/)
 * [Your Privacy Settings](#)
 * [Security & Compliance](https://chartbeat.com/data-protection/)
+* [Trust Center](https://trust.chartbeat.com/)
 
 ![](https://dev-chartbeat.pantheonsite.io/wp-content/uploads/2024/02/Footer-Logos-2.png)
 
