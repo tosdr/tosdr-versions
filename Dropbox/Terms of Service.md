@@ -344,6 +344,7 @@ If you don’t agree to the updates we make, please cancel your account and stop
 * [Security](https://www.dropbox.com/features/security)
 * [Early access](https://www.dropbox.com/early-access)
 * [Templates](https://www.dropbox.com/templates)
+* [Free tools](https://www.dropbox.com/tools)
 
 ### Products
 
