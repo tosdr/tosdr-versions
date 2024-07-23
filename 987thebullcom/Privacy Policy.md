@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Good DirectionsBilly Currington<br><br>6:49am |
-| OutskirtsSam Hunt<br><br>6:46am |
-| I See YouLuke Bryan<br><br>6:39am |
-| Where The Wild Things AreLuke Combs<br><br>6:35am |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>6:32am |
+| OutskirtsSam Hunt<br><br>6:08pm |
+| Pretty Little PoisonWarren Zeiders<br><br>6:05pm |
+| Rock And A Hard PlaceBailey Zimmerman<br><br>5:55pm |
+| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>5:51pm |
+| Angel EyesLove And Theft<br><br>5:48pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Pacific NW
+Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
