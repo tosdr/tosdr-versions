@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![CrowdStrike update crashes Windows systems, causes outages worldwide](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Google rolls back decision to kill third-party cookies in Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
-    * [![Russians plead guilty to involvement in LockBit ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google rolls back decision to kill third-party cookies in Chrome](https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/)
+    * [![New Play ransomware Linux version targets VMware ESXi VMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Russians plead guilty to involvement in LockBit ransomware attacks](https://www.bleepingcomputer.com/news/security/russians-plead-guilty-to-involvement-in-lockbit-ransomware-attacks/)
-    * [![Exchange Online adds Inbound DANE with DNSSEC for security boost](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Play ransomware Linux version targets VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/new-play-ransomware-linux-version-targets-vmware-esxi-vms/)
+    * [![Telegram zero-day allowed sending malicious Android APKs as videos](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Exchange Online adds Inbound DANE with DNSSEC for security boost](https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-security-boost/)
-    * [![Major Microsoft 365 outage caused by Azure configuration change](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Telegram zero-day allowed sending malicious Android APKs as videos](https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/)
+    * [![Fake CrowdStrike fixes target companies with malware, data wipers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
+        Fake CrowdStrike fixes target companies with malware, data wipers](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/)
     
-    * [![Microsoft confirms CrowdStrike update also hit Windows 365 PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Greece’s Land Registry agency breached in wave of 400 cyberattacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft confirms CrowdStrike update also hit Windows 365 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-cloud-pcs-stuck-restarting-after-crowdstrike-update/)
-    * [![Start your IT education with this $30 CompTIA prep bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Greece’s Land Registry agency breached in wave of 400 cyberattacks](https://www.bleepingcomputer.com/news/security/greeces-land-registry-agency-breached-in-wave-of-400-cyberattacks/)
+    * [![Google rolls back decision to kill third-party cookies in Chrome](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Start your IT education with this $30 CompTIA prep bundle](https://www.bleepingcomputer.com/offer/deals/start-your-it-education-with-this-30-comptia-prep-bundle/)
-    * [![MediSecure: Ransomware gang stole data of 12.9 million people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Google rolls back decision to kill third-party cookies in Chrome](https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/)
+    * [![US sanctions Russian hacktivists who breached water facilities](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        MediSecure: Ransomware gang stole data of 12.9 million people](https://www.bleepingcomputer.com/news/security/medisecure-ransomware-gang-stole-data-of-129-million-people/)
-    * [![CrowdStrike update crashes Windows systems, causes outages worldwide](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        US sanctions Russian hacktivists who breached water facilities](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-hacktivists-who-breached-water-facilities/)
+    * [![New Play ransomware Linux version targets VMware ESXi VMs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
+        New Play ransomware Linux version targets VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/new-play-ransomware-linux-version-targets-vmware-esxi-vms/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -302,16 +302,16 @@ BleepingComputer.com has partnered with [StackCommerce](https://stackcommerce.co
 
 If you have any questions or concerns regarding these policies, please free to contact us here: [https://www.bleepingcomputer.com/contact/](https://www.bleepingcomputer.com/contact/)
 
-[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/registration-discount_everything-you-want.jpg)](https://www.bleepingcomputer.com/mgo/45/)
+[![Mandiant mWise Conference 2024](https://www.bleepstatic.com/c/m/mandiant/conference_ai-zero-trust.jpg)](https://www.bleepingcomputer.com/mgo/49/)
 
 Popular Stories
 
-* [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Major Microsoft 365 outage caused by Azure configuration change](https://www.bleepingcomputer.com/news/microsoft/major-microsoft-365-outage-caused-by-azure-configuration-change/)
-* [![CrowdStrike](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Microsoft releases Windows repair tool to remove CrowdStrike driver](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-repair-tool-to-remove-crowdstrike-driver/)
+* [![Crowdstrike](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
+    Fake CrowdStrike fixes target companies with malware, data wipers](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/)
 
 Latest Downloads
 
@@ -337,7 +337,7 @@ Latest Downloads
     
     Version: 1.33.075
     
-    **54,526 _Downloads_**
+    **54,574 _Downloads_**
     
 * ![PuTTY Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -345,7 +345,7 @@ Latest Downloads
     
     Version: 0.81
     
-    **42,216 _Downloads_**
+    **42,253 _Downloads_**
     
 * ![BitDefender Uninstall Tool Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -353,7 +353,7 @@ Latest Downloads
     
     Version: NA
     
-    **103,492 _Downloads_**
+    **103,510 _Downloads_**
     
 
 ##### Follow us:
