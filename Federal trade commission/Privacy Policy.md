@@ -151,11 +151,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [On Open-Weights Foundation Models](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/open-weights-foundation-models)
+    ### [Behind the FTC’s Inquiry into Surveillance Pricing Practices](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/07/behind-ftcs-inquiry-surveillance-pricing-practices)
     
-    Staff in the Office of Technology
+    FTC Staff
     
-    July 10, 2024
+    July 23, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -226,20 +226,20 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC and DOJ Extend Public Comment on Request for Information Targeting Serial Acquisitions, Roll-Up Strategies Across U.S. Economy](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-doj-extend-public-comment-request-information-targeting-serial-acquisitions-roll-strategies)
+    ### [FTC, DOJ, and International Enforcers Issue Joint Statement on AI Competition Issues](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-doj-international-enforcers-issue-joint-statement-ai-competition-issues)
     
-    July 19, 2024
+    July 23, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
     Upcoming Event
     --------------
     
-    Nov14
+    Jul23
     
-    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
+    ### [Chair Lina M. Khan keynote speaker at the American Federation of Teachers Conference](https://www.ftc.gov/news-events/events/2024/07/chair-lina-m-khan-keynote-speaker-american-federation-teachers-conference)
     
-    Thursday, November 14, 2024 | 9:00AM - Friday, November 15, 2024 | 5:00PM
+    Tuesday, July 23, 2024 | 12:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
