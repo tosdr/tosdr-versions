@@ -211,9 +211,9 @@ Toggle navigation
     
     ##### Promoted Content
     
+    * [Reshaping recycling: The complex quest for circular plastics](https://www.euractiv.com/section/energy-environment/opinion/reshaping-recycling-the-complex-quest-for-circular-plastics/)
+    * [The EU Moves to Regulate Sports Shooters](https://www.euractiv.com/section/energy-environment/opinion/the-eu-moves-to-regulate-sports-shooters/)
     * [Political will and collaboration can revise plastics system](https://www.euractiv.com/section/energy-environment/opinion/political-will-and-collaboration-can-revise-plastics-system/)
-    * [From 9 to 45 TWh: Urgent intervention for UHS needed for a cost-effective & swift energy transition](https://www.euractiv.com/section/energy-environment/opinion/from-9-to-45-twh-urgent-intervention-for-uhs-needed-for-a-cost-effective-swift-energy-transition/)
-    * [Biodiversity problems, power sector solutions](https://www.euractiv.com/section/energy-environment/opinion/biodiversity-problems-power-sector-solutions/)
     
 * [Global Europe](https://www.euractiv.com/sections/global-europe/)
     
@@ -972,16 +972,16 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 
 ### Most read articles
 
-* 1[Heat pump sales collapse leaves new EU Commission with tough task](http://en.euractiv.eu/section/energy-environment/news/heat-pump-sales-collapse-leaves-new-eu-commission-with-tough-task/?utm_source=website&utm_campaign=popular)
-* 2[Von der Leyen pitches new portfolio for Mediterranean, teases enlargement file split](http://en.euractiv.eu/section/enlargement-neighbourhood/news/von-der-leyen-pitches-new-portfolio-for-mediterranean-teases-enlargement-file-split/?utm_source=website&utm_campaign=popular)
-* 3[Chinese wind turbine-makers move into Europe as trade tensions flare](http://en.euractiv.eu/section/economy-jobs/news/chinese-wind-turbine-makers-move-into-europe-as-trade-tensions-flare/?utm_source=website&utm_campaign=popular)
-* 4[Meloni's vote against von der Leyen risks backfiring](http://en.euractiv.eu/section/politics/news/melonis-vote-against-von-der-leyen-risks-backfiring/?utm_source=website&utm_campaign=popular)
-* 5[Von der Leyen wins 401-strong parliamentary majority with tactical concessions, Greens support](http://en.euractiv.eu/section/politics/news/von-der-leyen-wins-401-strong-parliamentary-majority-with-tactical-concessions-greens-support/?utm_source=website&utm_campaign=popular)
-* 6[EU hard-right parties to back von der Leyen after ‘intense’ meeting](http://en.euractiv.eu/section/politics/news/eu-hard-right-parties-to-back-von-der-leyen-after-intense-meeting/?utm_source=website&utm_campaign=popular)
-* 7[Ursula von der Leyen lays out vision for tech-enabled competitiveness](http://en.euractiv.eu/section/digital/news/ursula-von-der-leyen-lays-out-vision-for-tech-enabled-competitiveness/?utm_source=website&utm_campaign=popular)
-* 8[General Court slams Commission for lack of transparency over COVID vaccines contracts](http://en.euractiv.eu/section/justice-home-affairs/news/eu-court-of-justice-slams-commission-for-lack-of-transparency-over-covid-vaccines-contracts/?utm_source=website&utm_campaign=popular)
-* 9[ENVI and ITRE: Many familiar faces, but some big names relegated to backbenches](http://en.euractiv.eu/section/energy-environment/news/envi-and-itre-many-familiar-faces-but-some-big-names-relegated-to-backbenches/?utm_source=website&utm_campaign=popular) 
-* 10[How the new EU Battery Fund can put Europe on the battery map](http://en.euractiv.eu/section/energy-environment/opinion/how-the-new-eu-battery-fund-can-put-europe-on-the-battery-map/?utm_source=website&utm_campaign=popular)
+* 1[Chinese wind turbine-makers move into Europe as trade tensions flare](http://en.euractiv.eu/section/economy-jobs/news/chinese-wind-turbine-makers-move-into-europe-as-trade-tensions-flare/?utm_source=website&utm_campaign=popular)
+* 2[Meloni's vote against von der Leyen risks backfiring](http://en.euractiv.eu/section/politics/news/melonis-vote-against-von-der-leyen-risks-backfiring/?utm_source=website&utm_campaign=popular)
+* 3[EU foreign ministers to meet in Brussels, not Budapest, over Ukraine diplomacy spat](http://en.euractiv.eu/section/europe-s-east/news/eu-foreign-ministers-to-meet-in-brussels-not-budapest-over-ukraine-diplomacy-spat/?utm_source=website&utm_campaign=popular)
+* 4[Eight EU member states call for Syria policy reset](http://en.euractiv.eu/section/global-europe/news/eight-eu-member-states-call-for-syria-policy-reset/?utm_source=website&utm_campaign=popular)
+* 5[EU backs ICJ ruling on 'illegal' Israeli occupation](http://en.euractiv.eu/section/global-europe/news/eu-backs-icj-ruling-on-illegal-israeli-occupation/?utm_source=website&utm_campaign=popular)
+* 6[Confusion on France’s renewable commitments in national energy, climate plan](http://en.euractiv.eu/section/energy-environment/news/confusion-on-frances-renewable-commitments-in-national-energy-climate-plan/?utm_source=website&utm_campaign=popular)
+* 7[Pilots launch bathroom campaign against one-pilot-only flights](http://en.euractiv.eu/section/aviation/news/plots-launch-bathroom-campaign-against-one-pilot-only-flights/?utm_source=website&utm_campaign=popular)
+* 8[Slovak PM blasts Ukraine's Lukoil sanctions as oil flow stops](http://en.euractiv.eu/section/europe-s-east/news/slovak-pm-blasts-ukraines-lukoil-sanctions-as-oil-flow-stops/?utm_source=website&utm_campaign=popular)
+* 9[EPP feud with German Liberals escalates after vote against von der Leyen](http://en.euractiv.eu/section/politics/news/epp-feud-with-german-liberals-escalates-after-vote-against-von-der-leyen-2/?utm_source=website&utm_campaign=popular)
+* 10[EPP feud with German Liberals escalates after vote against von der Leyen](http://en.euractiv.eu/section/politics/news/epp-feud-with-german-liberals-escalates-after-vote-against-von-der-leyen/?utm_source=website&utm_campaign=popular)
 
 ###### Advertisement
 
