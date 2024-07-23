@@ -202,7 +202,7 @@ We are committed to providing you transparency by letting you know when we've ma
 
 ×
 
-Effective July 17th, we updated the contact information for questions regarding our privacy notices.
+Effective July 17th, we updated the contact information for questions regarding our privacy notices. Also, on July 22nd we noted that for some employees our analytics tools may use individual data.
 
 * [July 17, 2024 \[current\]](#)
 * [April 19, 2024](#)
