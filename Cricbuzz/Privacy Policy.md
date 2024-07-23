@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SFU vs SOR - Preview](https://www.cricbuzz.com/live-cricket-scores/95007/sfu-vs-sor-18th-match-major-league-cricket-2024 "San Francisco Unicorns v Seattle Orcas, 18th Match - Preview")[ENG vs WI - Stumps](https://www.cricbuzz.com/live-cricket-scores/76493/eng-vs-wi-2nd-test-west-indies-tour-of-england-2024 "England v West Indies, 2nd Test - Stumps")[INDW vs UAEW - Preview](https://www.cricbuzz.com/live-cricket-scores/91942/indw-vs-uaew-5th-match-group-a-womens-asia-cup-t20-2024 "India Women v United Arab Emirates Women, 5th Match, Group A - Preview")[GAM vs JKS - Preview](https://www.cricbuzz.com/live-cricket-scores/93119/gam-vs-jks-final-lanka-premier-league-2024 "Galle Marvels v Jaffna Kings, Final - Preview")[DGD vs LKK - Preview](https://www.cricbuzz.com/live-cricket-scores/92649/dgd-vs-lkk-19th-match-tamil-nadu-premier-league-2024 "Dindigul Dragons v Lyca Kovai Kings, 19th Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[INDW vs NEPW - Toss](https://www.cricbuzz.com/live-cricket-scores/91974/indw-vs-nepw-10th-match-group-a-womens-asia-cup-t20-2024 "India Women v Nepal Women, 10th Match, Group A - Toss")[MADURAI vs LKK - Toss](https://www.cricbuzz.com/live-cricket-scores/92680/madurai-vs-lkk-22nd-match-tamil-nadu-premier-league-2024 "Siechem Madurai Panthers v Lyca Kovai Kings, 22nd Match - Toss")[WAF vs SFU - SFU Won](https://www.cricbuzz.com/live-cricket-scores/95016/waf-vs-sfu-20th-match-major-league-cricket-2024 "Washington Freedom v San Francisco Unicorns, 20th Match - SFU Won")[OVL vs BRM - Preview](https://www.cricbuzz.com/live-cricket-scores/88576/ovl-vs-brm-1st-match-the-hundred-mens-competition-2024 "Oval Invincibles v Birmingham Phoenix, 1st Match - Preview")[TSK vs SOR - Preview](https://www.cricbuzz.com/live-cricket-scores/95020/tsk-vs-sor-21st-match-major-league-cricket-2024 "Texas Super Kings v Seattle Orcas, 21st Match - Preview")
 
 AllLive NowToday
 
@@ -56,137 +56,153 @@ AllLive NowToday
     
     England v West Indies, 2024
     
-    [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/76493/eng-vs-wi-2nd-test-england-v-west-indies-2024 "England v West Indies, 2nd Test - Stumps")
+    [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/76493/eng-vs-wi-2nd-test-england-v-west-indies-2024 "England v West Indies, 2nd Test - ENG Won")
     
     2nd Test
     
+* Ireland v Zimbabwe
+    
+    [Ireland vs Zimbabwe](https://www.cricbuzz.com/live-cricket-scores/93639/ire-vs-zim-only-test-ireland-v-zimbabwe "Ireland v Zimbabwe, Only Test - Upcoming")
+    
+    Only Test
+    
 * ICC CWC League Two 2023-27
     
-    [Scotland vs Namibia](https://www.cricbuzz.com/live-cricket-scores/94296/sco-vs-nam-15th-match-icc-cwc-league-two-2023-27 "Scotland v Namibia, 15th Match - SCO Won")
-    
-    15th Match
-    
-* [Scotland vs Oman](https://www.cricbuzz.com/live-cricket-scores/94305/sco-vs-oman-16th-match-icc-cwc-league-two-2023-27 "Scotland v Oman, 16th Match - Upcoming")
+    [Oman vs Scotland](https://www.cricbuzz.com/live-cricket-scores/94305/oman-vs-sco-16th-match-icc-cwc-league-two-2023-27 "Oman v Scotland, 16th Match - SCO Won")
     
     16th Match
+    
+* [Namibia vs Oman](https://www.cricbuzz.com/live-cricket-scores/94314/nam-vs-oman-17th-match-icc-cwc-league-two-2023-27 "Namibia v Oman, 17th Match - Upcoming")
+    
+    17th Match
     
 * T20 LEAGUE
     
     MLC 2024
     
-    [San Francisco Unicorns vs MI New York](https://www.cricbuzz.com/live-cricket-scores/94993/sfu-vs-miny-16th-match-mlc-2024 "San Francisco Unicorns v MI New York, 16th Match - SFU Won")
-    
-    16th Match
-    
-* [Washington Freedom vs Texas Super Kings](https://www.cricbuzz.com/live-cricket-scores/95002/waf-vs-tsk-17th-match-mlc-2024 "Washington Freedom v Texas Super Kings, 17th Match - WAF Won")
-    
-    17th Match
-    
-* [San Francisco Unicorns vs Seattle Orcas](https://www.cricbuzz.com/live-cricket-scores/95007/sfu-vs-sor-18th-match-mlc-2024 "San Francisco Unicorns v Seattle Orcas, 18th Match - Preview")
-    
-    18th Match
-    
-* [Los Angeles Knight Riders vs MI New York](https://www.cricbuzz.com/live-cricket-scores/95011/lakr-vs-miny-19th-match-mlc-2024 "Los Angeles Knight Riders v MI New York, 19th Match - Upcoming")
+    [Los Angeles Knight Riders vs MI New York](https://www.cricbuzz.com/live-cricket-scores/95011/lakr-vs-miny-19th-match-mlc-2024 "Los Angeles Knight Riders v MI New York, 19th Match - MINY Won")
     
     19th Match
     
+* [Washington Freedom vs San Francisco Unicorns](https://www.cricbuzz.com/live-cricket-scores/95016/waf-vs-sfu-20th-match-mlc-2024 "Washington Freedom v San Francisco Unicorns, 20th Match - SFU Won")
+    
+    20th Match
+    
+* [Texas Super Kings vs Seattle Orcas](https://www.cricbuzz.com/live-cricket-scores/95020/tsk-vs-sor-21st-match-mlc-2024 "Texas Super Kings v Seattle Orcas, 21st Match - Preview")
+    
+    21st Match
+    
+* [Texas Super Kings vs MI New York](https://www.cricbuzz.com/live-cricket-scores/95029/tsk-vs-miny-eliminator-mlc-2024 "Texas Super Kings v MI New York, Eliminator - Upcoming")
+    
+    Eliminator
+    
 * LPL 2024
     
-    [Jaffna Kings vs Kandy Falcons](https://www.cricbuzz.com/live-cricket-scores/93112/jks-vs-kfs-qualifier-2-lpl-2024 "Jaffna Kings v Kandy Falcons, Qualifier 2 - JKS Won")
-    
-    Qualifier 2
-    
-* [Galle Marvels vs Jaffna Kings](https://www.cricbuzz.com/live-cricket-scores/93119/gam-vs-jks-final-lpl-2024 "Galle Marvels v Jaffna Kings, Final - Preview")
+    [Galle Marvels vs Jaffna Kings](https://www.cricbuzz.com/live-cricket-scores/93119/gam-vs-jks-final-lpl-2024 "Galle Marvels v Jaffna Kings, Final - JKS Won")
     
     Final
     
 * TNPL 2024
     
-    [Nellai Royal Kings vs Trichy Grand Cholas](https://www.cricbuzz.com/live-cricket-scores/92640/nrk-vs-trichy-18th-match-tnpl-2024 "Nellai Royal Kings v Trichy Grand Cholas, 18th Match - TRICHY Won")
-    
-    18th Match
-    
-* [Dindigul Dragons vs Lyca Kovai Kings](https://www.cricbuzz.com/live-cricket-scores/92649/dgd-vs-lkk-19th-match-tnpl-2024 "Dindigul Dragons v Lyca Kovai Kings, 19th Match - Preview")
-    
-    19th Match
-    
-* [IDream Tiruppur Tamizhans vs Salem Spartans](https://www.cricbuzz.com/live-cricket-scores/92658/itt-vs-slst-20th-match-tnpl-2024 "IDream Tiruppur Tamizhans v Salem Spartans, 20th Match - Preview")
+    [IDream Tiruppur Tamizhans vs Salem Spartans](https://www.cricbuzz.com/live-cricket-scores/92658/itt-vs-slst-20th-match-tnpl-2024 "IDream Tiruppur Tamizhans v Salem Spartans, 20th Match - ITT Won")
     
     20th Match
     
-* [Trichy Grand Cholas vs Chepauk Super Gillies](https://www.cricbuzz.com/live-cricket-scores/92678/trichy-vs-csg-21st-match-tnpl-2024 "Trichy Grand Cholas v Chepauk Super Gillies, 21st Match - Upcoming")
+* [Chepauk Super Gillies vs Trichy Grand Cholas](https://www.cricbuzz.com/live-cricket-scores/92678/csg-vs-trichy-21st-match-tnpl-2024 "Chepauk Super Gillies v Trichy Grand Cholas, 21st Match - CSG Won")
     
     21st Match
     
-* T20 Blast
+* [Siechem Madurai Panthers vs Lyca Kovai Kings](https://www.cricbuzz.com/live-cricket-scores/92680/madurai-vs-lkk-22nd-match-tnpl-2024 "Siechem Madurai Panthers v Lyca Kovai Kings, 22nd Match - Toss")
     
-    [Nottinghamshire vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/85183/notts-vs-yorks-north-group-t20-blast "Nottinghamshire v Yorkshire, North Group - NOTTS Won")
+    22nd Match
     
-    North Group
+* [Nellai Royal Kings vs IDream Tiruppur Tamizhans](https://www.cricbuzz.com/live-cricket-scores/92698/nrk-vs-itt-23rd-match-tnpl-2024 "Nellai Royal Kings v IDream Tiruppur Tamizhans, 23rd Match - Upcoming")
     
-* [Kent vs Surrey](https://www.cricbuzz.com/live-cricket-scores/85176/kent-vs-sur-south-group-t20-blast "Kent v Surrey, South Group - KENT Won")
+    23rd Match
     
-    South Group
+* Hundred Mens Competition 2024
     
-* [Hampshire vs Essex](https://www.cricbuzz.com/live-cricket-scores/85169/ham-vs-ess-south-group-t20-blast "Hampshire v Essex, South Group - HAM Won")
+    [Oval Invincibles vs Birmingham Phoenix](https://www.cricbuzz.com/live-cricket-scores/88576/ovl-vs-brm-1st-match-hundred-mens-competition-2024 "Oval Invincibles v Birmingham Phoenix, 1st Match - Preview")
     
-    South Group
+    1st Match
     
-* [Middlesex vs Sussex](https://www.cricbuzz.com/live-cricket-scores/85162/mdx-vs-sus-south-group-t20-blast "Middlesex v Sussex, South Group - SUS Won")
+* [Southern Brave vs London Spirit](https://www.cricbuzz.com/live-cricket-scores/88583/sou-vs-ldn-2nd-match-hundred-mens-competition-2024 "Southern Brave v London Spirit, 2nd Match - Upcoming")
     
-    South Group
+    2nd Match
     
-* [Lancashire vs Northamptonshire](https://www.cricbuzz.com/live-cricket-scores/85155/lancs-vs-nhnts-north-group-t20-blast "Lancashire v Northamptonshire, North Group - NHNTS Won")
+* DOMESTIC
     
-    North Group
+    ENG Domestic One-Day Cup
     
-* [Glamorgan vs Somerset](https://www.cricbuzz.com/live-cricket-scores/85148/glam-vs-som-south-group-t20-blast "Glamorgan v Somerset, South Group - GLAM Won")
+    [Essex vs Warwickshire](https://www.cricbuzz.com/live-cricket-scores/83923/ess-vs-warks-group-a-eng-domestic-one-day-cup "Essex v Warwickshire, Group A - Upcoming")
     
-    South Group
+    Group A
     
-* [Warwickshire vs Leicestershire](https://www.cricbuzz.com/live-cricket-scores/95854/warks-vs-leic-north-group-t20-blast "Warwickshire v Leicestershire, North Group - WARKS Won")
+* [Leicestershire vs Nottinghamshire](https://www.cricbuzz.com/live-cricket-scores/83916/leic-vs-notts-group-b-eng-domestic-one-day-cup "Leicestershire v Nottinghamshire, Group B - Upcoming")
     
-    North Group
+    Group B
     
-* [Derbyshire vs Durham](https://www.cricbuzz.com/live-cricket-scores/85197/derby-vs-dur-north-group-t20-blast "Derbyshire v Durham, North Group - DUR Won")
+* [Lancashire vs Durham](https://www.cricbuzz.com/live-cricket-scores/83909/lancs-vs-dur-group-a-eng-domestic-one-day-cup "Lancashire v Durham, Group A - Upcoming")
     
-    North Group
+    Group A
+    
+* [Worcestershire vs Middlesex](https://www.cricbuzz.com/live-cricket-scores/83902/worcs-vs-mdx-group-a-eng-domestic-one-day-cup "Worcestershire v Middlesex, Group A - Upcoming")
+    
+    Group A
+    
+* [Northamptonshire vs Derbyshire](https://www.cricbuzz.com/live-cricket-scores/83895/nhnts-vs-derby-group-a-eng-domestic-one-day-cup "Northamptonshire v Derbyshire, Group A - Upcoming")
+    
+    Group A
+    
+* [Surrey vs Yorkshire](https://www.cricbuzz.com/live-cricket-scores/83937/sur-vs-yorks-group-b-eng-domestic-one-day-cup "Surrey v Yorkshire, Group B - Upcoming")
+    
+    Group B
+    
+* [Glamorgan vs Gloucestershire](https://www.cricbuzz.com/live-cricket-scores/83930/glam-vs-gloucs-group-b-eng-domestic-one-day-cup "Glamorgan v Gloucestershire, Group B - Upcoming")
+    
+    Group B
     
 * WOMEN
     
     Womens Asia Cup
     
-    [United Arab Emirates Women vs Nepal Women](https://www.cricbuzz.com/live-cricket-scores/91911/uaew-vs-nepw-1st-match-group-a-womens-asia-cup "United Arab Emirates Women v Nepal Women, 1st Match, Group A - NEPW Won")
-    
-    1st Match, Group A
-    
-* [Pakistan Women vs India Women](https://www.cricbuzz.com/live-cricket-scores/91915/pakw-vs-indw-2nd-match-group-a-womens-asia-cup "Pakistan Women v India Women, 2nd Match, Group A - INDW Won")
-    
-    2nd Match, Group A
-    
-* [Thailand Women vs Malaysia Women](https://www.cricbuzz.com/live-cricket-scores/91924/thaiw-vs-mlyw-3rd-match-group-b-womens-asia-cup "Thailand Women v Malaysia Women, 3rd Match, Group B - THAIW Won")
-    
-    3rd Match, Group B
-    
-* [Bangladesh Women vs Sri Lanka Women](https://www.cricbuzz.com/live-cricket-scores/91933/banw-vs-slw-4th-match-group-b-womens-asia-cup "Bangladesh Women v Sri Lanka Women, 4th Match, Group B - SLW Won")
-    
-    4th Match, Group B
-    
-* [India Women vs United Arab Emirates Women](https://www.cricbuzz.com/live-cricket-scores/91942/indw-vs-uaew-5th-match-group-a-womens-asia-cup "India Women v United Arab Emirates Women, 5th Match, Group A - Preview")
-    
-    5th Match, Group A
-    
-* [Pakistan Women vs Nepal Women](https://www.cricbuzz.com/live-cricket-scores/91947/pakw-vs-nepw-6th-match-group-a-womens-asia-cup "Pakistan Women v Nepal Women, 6th Match, Group A - Preview")
+    [Nepal Women vs Pakistan Women](https://www.cricbuzz.com/live-cricket-scores/91947/nepw-vs-pakw-6th-match-group-a-womens-asia-cup "Nepal Women v Pakistan Women, 6th Match, Group A - PAKW Won")
     
     6th Match, Group A
     
-* [Sri Lanka Women vs Malaysia Women](https://www.cricbuzz.com/live-cricket-scores/91956/slw-vs-mlyw-7th-match-group-b-womens-asia-cup "Sri Lanka Women v Malaysia Women, 7th Match, Group B - Upcoming")
+* [Sri Lanka Women vs Malaysia Women](https://www.cricbuzz.com/live-cricket-scores/91956/slw-vs-mlyw-7th-match-group-b-womens-asia-cup "Sri Lanka Women v Malaysia Women, 7th Match, Group B - SLW Won")
     
     7th Match, Group B
     
-* [Bangladesh Women vs Thailand Women](https://www.cricbuzz.com/live-cricket-scores/91960/banw-vs-thaiw-8th-match-group-b-womens-asia-cup "Bangladesh Women v Thailand Women, 8th Match, Group B - Upcoming")
+* [Thailand Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/91960/thaiw-vs-banw-8th-match-group-b-womens-asia-cup "Thailand Women v Bangladesh Women, 8th Match, Group B - BANW Won")
     
     8th Match, Group B
+    
+* [United Arab Emirates Women vs Pakistan Women](https://www.cricbuzz.com/live-cricket-scores/91969/uaew-vs-pakw-9th-match-group-a-womens-asia-cup "United Arab Emirates Women v Pakistan Women, 9th Match, Group A - PAKW Won")
+    
+    9th Match, Group A
+    
+* [India Women vs Nepal Women](https://www.cricbuzz.com/live-cricket-scores/91974/indw-vs-nepw-10th-match-group-a-womens-asia-cup "India Women v Nepal Women, 10th Match, Group A - Toss")
+    
+    10th Match, Group A
+    
+* [Bangladesh Women vs Malaysia Women](https://www.cricbuzz.com/live-cricket-scores/91978/banw-vs-mlyw-11th-match-group-b-womens-asia-cup "Bangladesh Women v Malaysia Women, 11th Match, Group B - Preview")
+    
+    11th Match, Group B
+    
+* [Sri Lanka Women vs Thailand Women](https://www.cricbuzz.com/live-cricket-scores/91987/slw-vs-thaiw-12th-match-group-b-womens-asia-cup "Sri Lanka Women v Thailand Women, 12th Match, Group B - Upcoming")
+    
+    12th Match, Group B
+    
+* The Hundred Womens Competition
+    
+    [Oval Invincibles Women vs Birmingham Phoenix Women](https://www.cricbuzz.com/live-cricket-scores/88734/ovlw-vs-brmw-1st-match-the-hundred-womens-competition "Oval Invincibles Women v Birmingham Phoenix Women, 1st Match - Toss")
+    
+    1st Match
+    
+* [Southern Brave Women vs London Spirit Women](https://www.cricbuzz.com/live-cricket-scores/88737/souw-vs-ldnw-2nd-match-the-hundred-womens-competition "Southern Brave Women v London Spirit Women, 2nd Match - Upcoming")
+    
+    2nd Match
     
 
 Privacy Policy
@@ -354,41 +370,41 @@ We request you to please provide the following information in your complaint:
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/131104/shreyanka-patil-ruled-out-of-asia-cup-with-fractured-finger "Shreyanka Patil ruled out of Asia Cup with fractured finger")
+  [](https://www.cricbuzz.com/cricket-news/131129/pakistan-strengthen-semifinal-bid-with-another-massive-win "Pakistan strengthen semifinal bid with another massive win")
 
-[Shreyanka Patil ruled out of Asia Cup with fractured finger](https://www.cricbuzz.com/cricket-news/131104/shreyanka-patil-ruled-out-of-asia-cup-with-fractured-finger "Shreyanka Patil ruled out of Asia Cup with fractured finger")
+[Pakistan strengthen semifinal bid with another massive win](https://www.cricbuzz.com/cricket-news/131129/pakistan-strengthen-semifinal-bid-with-another-massive-win "Pakistan strengthen semifinal bid with another massive win")
 
-4h ago
+1h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131103/brook-leads-englands-charge-as-lead-goes-past-200 "Brook leads England's charge as lead goes past 200")
+  [](https://www.cricbuzz.com/cricket-news/131128/charith-asalanka-to-lead-sl-in-t20i-series-against-india "Charith Asalanka to lead SL in T20I series against India")
 
-[Brook leads England's charge as lead goes past 200](https://www.cricbuzz.com/cricket-news/131103/brook-leads-englands-charge-as-lead-goes-past-200 "Brook leads England's charge as lead goes past 200")
+[Charith Asalanka to lead SL in T20I series against India](https://www.cricbuzz.com/cricket-news/131128/charith-asalanka-to-lead-sl-in-t20i-series-against-india "Charith Asalanka to lead SL in T20I series against India")
 
-5h ago
+7h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131102/gunaratne-powers-sri-lankas-winning-start "Gunaratne powers Sri Lanka's winning start")
+  [](https://www.cricbuzz.com/cricket-news/131127/krishnamurthi-inglis-fire-unicorns-to-win-in-hit-a-thon "Krishnamurthi, Inglis fire Unicorns to win in hit-a-thon")
 
-[Gunaratne powers Sri Lanka's winning start](https://www.cricbuzz.com/cricket-news/131102/gunaratne-powers-sri-lankas-winning-start "Gunaratne powers Sri Lanka's winning start")
+[Krishnamurthi, Inglis fire Unicorns to win in hit-a-thon](https://www.cricbuzz.com/cricket-news/131127/krishnamurthi-inglis-fire-unicorns-to-win-in-hit-a-thon "Krishnamurthi, Inglis fire Unicorns to win in hit-a-thon")
 
-6h ago
+7h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131101/duckett-pope-tee-off-again-as-england-overturn-deficit "Duckett, Pope tee off again as England overturn deficit")
+  [](https://www.cricbuzz.com/cricket-news/131126/with-campaign-on-the-ropes-pollard-shakes-off-the-rust-and-channels-his-best-version "With campaign on the ropes, Pollard shakes off the rust and channels his best version")
 
-[Duckett, Pope tee off again as England overturn deficit](https://www.cricbuzz.com/cricket-news/131101/duckett-pope-tee-off-again-as-england-overturn-deficit "Duckett, Pope tee off again as England overturn deficit")
+[With campaign on the ropes, Pollard shakes off the rust and channels his best version](https://www.cricbuzz.com/cricket-news/131126/with-campaign-on-the-ropes-pollard-shakes-off-the-rust-and-channels-his-best-version "With campaign on the ropes, Pollard shakes off the rust and channels his best version")
 
-9h ago
+11h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131100/unicorns-look-to-seal-top-two-berth-as-they-face-struggling-orcas "Unicorns look to seal top-two berth as they face struggling Orcas")
+  [](https://www.cricbuzz.com/cricket-news/131125/bangladesh-brush-thailand-aside-for-first-win "Bangladesh brush Thailand aside for first win")
 
-[Unicorns look to seal top-two berth as they face struggling Orcas](https://www.cricbuzz.com/cricket-news/131100/unicorns-look-to-seal-top-two-berth-as-they-face-struggling-orcas "Unicorns look to seal top-two berth as they face struggling Orcas")
+[Bangladesh brush Thailand aside for first win](https://www.cricbuzz.com/cricket-news/131125/bangladesh-brush-thailand-aside-for-first-win "Bangladesh brush Thailand aside for first win")
 
-9h ago
+19h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131099/bcci-to-meet-ipl-owners-at-month-end-player-retentions-salary-cap-on-agenda "BCCI to meet IPL owners at month-end; player retentions, salary cap on agenda")
+  [](https://www.cricbuzz.com/cricket-news/131124/private-investors-ipl-interests-loom-over-the-hundred-ecb-promises-different-look-from-2025 "Private investors, IPL interests loom over The Hundred; ECB promises 'different look' from 2025")
 
-[BCCI to meet IPL owners at month-end; player retentions, salary cap on agenda](https://www.cricbuzz.com/cricket-news/131099/bcci-to-meet-ipl-owners-at-month-end-player-retentions-salary-cap-on-agenda "BCCI to meet IPL owners at month-end; player retentions, salary cap on agenda")
+[Private investors, IPL interests loom over The Hundred; ECB promises 'different look' from 2025](https://www.cricbuzz.com/cricket-news/131124/private-investors-ipl-interests-loom-over-the-hundred-ecb-promises-different-look-from-2025 "Private investors, IPL interests loom over The Hundred; ECB promises 'different look' from 2025")
 
-9h ago
+20h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
