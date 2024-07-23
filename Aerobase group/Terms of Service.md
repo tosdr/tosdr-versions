@@ -150,36 +150,36 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [The first of 14 new F-16 fighter jets from the US land in Slovakia](https://www.defensenews.com/air/2024/07/22/the-first-of-14-new-f-16-fighter-jets-from-the-us-land-in-slovakia/)  
+    07/22/24 05:06pm  
+    
+    The United States has delivered the first two of 14 F-16 Fighting Falcon jets to Slovakia under a deal inked in 2018. A U.S. Air Force F-16 is shown here in 2019. (Air Force)
+    
+* [US Air Force, Boeing reach deal on prototype E-7](https://www.defensenews.com/air/2024/07/22/us-air-force-boeing-reach-deal-on-prototype-e-7/)  
+    07/22/24 01:00am  
+    
+    The U.S. Air Force has decided to buy a fleet of up to 26 E-7As from Boeing, similar to this E-7 Wedgetail from the Royal Australian Air Force, to replace its fleet of aging E-3 Sentry airborne warning and control planes. (Boeing Australia)
+    
+* [F-35 deliveries resume, but upgrade delays have ripple effects](https://www.defensenews.com/air/2024/07/21/f-35-deliveries-resume-but-upgrade-delays-have-ripple-effects/)  
+    07/21/24 06:10am  
+    
+    An F-35A Lightning II assigned to the F-35A Lightning II Demonstration Team performs a practice aerial demonstration prior to the Warriors Over the Wasatch Air Show at Hill Air Force Base, Utah, on June 28, 2024. The U.S. military has once again started accepting new F-35s from Lockheed Martin after a yearlong delivery halt. But the delay will have ripple effects on forces. (1st Lt. Nathan Poblete/Air Force)
+    
 * [How the sixth-generation fighter jet will upend air warfare](https://www.defensenews.com/air/2024/07/19/how-the-sixth-generation-fighter-jet-will-upend-air-warfare/)  
     07/19/24 01:44pm  
     
     The first prototype B-21 Raider stealth bomber conducts a flight test at Edwards Air Force Base in California on Jan. 17. Northrop Grumman, which builds the B-21, has touted it as the world's first sixth-generation aircraft — and more could be on the way as the Air Force works on its Next Generation Air Dominance program. (Air Force)
     
-* [Drone warfare in Ukraine prompts fresh thinking in helicopter tactics](https://www.defensenews.com/global/europe/2024/07/19/drone-warfare-in-ukraine-prompts-fresh-thinking-in-helicopter-tactics/)  
-    07/19/24 09:13am  
-    
-    A Russian Ka-52 helicopter gunship is seen in the field after a forced landing outside Kyiv, Ukraine, on Feb. 24, 2022, the first day of Russia's full-scale invasion. (AP Photo/Efrem Lukatsky)
-    
-* [How the Swedish Air Force is finding its flow as part of NATO](https://www.defensenews.com/global/europe/2024/07/17/how-the-swedish-air-force-is-finding-its-flow-as-part-of-nato/)  
-    07/17/24 12:37pm  
-    
-    A Swedish Air Force Gripen jet prepares to take off from Orland Air Base during the The Arctic Fighter Meet exercises west of Trondheim, Norway, on Aug. 23, 2023. (Photo by Jonathan Nackstrand/AFP via Getty Images)
-    
-* [Embraer banks on Farnborough Airshow to boost C-390 cargo plane sales](https://www.defensenews.com/global/the-americas/2024/07/16/embraer-banks-on-farnborough-airshow-to-boost-c-390-cargo-plane-sales/)  
-    07/16/24 02:00am  
-    
-    An Embraer C-390 Millennium military transport aircraft, used by Brazil's Air Force, is pictured at the Farnborough Airshow near London on July 19, 2022. (Photo by Justin Tallis/AFP via Getty Images)
-    
 
 Recent parts by keyword  
 
-* [bf-150](https://aerobasegroup.com/search/?term=bf-150)
-* [level](https://aerobasegroup.com/search/?term=level)
-* [nas1351n5h20](https://aerobasegroup.com/search/?term=nas1351n5h20)
-* [btr](https://aerobasegroup.com/search/?term=btr)
-* [nas1305-15](https://aerobasegroup.com/search/?term=nas1305-15)
-* [ms17984c1429](https://aerobasegroup.com/search/?term=ms17984c1429)
-* [z5602a](https://aerobasegroup.com/search/?term=z5602a)
+* [s320-22](https://aerobasegroup.com/search/?term=s320-22)
+* [bp908](https://aerobasegroup.com/search/?term=bp908)
+* [G7094](https://aerobasegroup.com/search/?term=G7094)
+* [mil-c-5809](https://aerobasegroup.com/search/?term=mil-c-5809)
+* [G62318](https://aerobasegroup.com/search/?term=G62318)
+* [bc1-0](https://aerobasegroup.com/search/?term=bc1-0)
+* [ms1423](https://aerobasegroup.com/search/?term=ms1423)
 
 The AeroBase Group Family ..
 
