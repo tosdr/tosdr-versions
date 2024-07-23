@@ -247,7 +247,7 @@ You acknowledge and agree that we may in our sole discretion, from time to time,
 
 Such affiliates may include, without limitation, Freelancer Technology Pty Ltd, Freelancer India Pty Ltd Australia, Warrior Forum Pty Ltd, Warrior Technology Pty Ltd, Payments Pty Ltd, Payments International Pty Ltd, Payments Australia Pty Ltd, Payments IP Pty Ltd, Freelancer Networks (Canada) Inc., Freelancer Outsourcing Inc, Freelancer.com Pte Limited, Freelancer International GmbH, Freemarket (Switzerland) GmbH, Freelancer Online India Private Limited, Freelancer.com Philippines, Inc., Freelancer Outsourcing UK Limited and Freelancer (Shanghai) Information Technology Co., Ltd.
 
-If your payment is made through an Ingenico Group (Global Collect) gateway in GBP, your acquiring bank will be Allied Irish Banks p.l.c. and merchant of record will be Freelancer Outsourcing UK Limited as Payment Administration Agent under this agreement.
+If your payment is made through a Worldpay Group gateway or an Adyen Group gateway in GBP, your merchant of record will be Freelancer Outsourcing UK Limited as Payment Administration Agent under this agreement.
 
 Such a third party will have the same rights, powers and privileges that we have under this User Agreement and will be entitled to exercise or enforce their rights, powers and privileges as our agent or in their own name. In no event shall we be liable to any User for any loss, damage or liability resulting from the Payment Administration Agent's negligence and/or acts beyond the authority given by Freelancer.
 
