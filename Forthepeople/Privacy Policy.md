@@ -89,7 +89,6 @@
     * Massachusetts
         * [Boston](https://www.forthepeople.com/office-locations/massachusetts/boston/)
         * [Medford](https://www.forthepeople.com/office-locations/massachusetts/medford/)
-        * [Waltham](https://www.forthepeople.com/office-locations/massachusetts/waltham/)
     * Michigan
         * [Grand Rapids](https://www.forthepeople.com/office-locations/michigan/grand-rapids/)
         * [Southfield](https://www.forthepeople.com/office-locations/michigan/southfield/)
