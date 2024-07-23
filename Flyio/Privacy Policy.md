@@ -20,20 +20,20 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Fly.io Blueprints](https://fly.io/docs/blueprints/) Toggle Fly.io Blueprints section
 
-* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
-* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
-* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
-* [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
-* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
-* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
-* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
-* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
-* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
-* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
-* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
 * [Jack into your private network with WireGuard](https://fly.io/docs/blueprints/connect-private-network-wireguard/)
+* [Multi-region databases and fly-replay](https://fly.io/docs/blueprints/multi-region-fly-replay/)
+* [Run an SSH server](https://fly.io/docs/blueprints/opensshd/)
+* [Autoscale Machines](https://fly.io/docs/blueprints/autoscale-machines/)
+* [Session Affinity (a.k.a. Sticky Sessions)](https://fly.io/docs/blueprints/sticky-sessions/)
+* [Git Branch Preview Environments on Github](https://fly.io/docs/blueprints/review-apps-guide/)
+* [Resilient apps use multiple Machines](https://fly.io/docs/blueprints/resilient-apps-multiple-machines/)
+* [Deno KV with LiteFS Cloud](https://fly.io/docs/blueprints/deno-kv-litefs/)
+* [Run private apps with Flycast](https://fly.io/docs/blueprints/private-applications-flycast/)
+* [Bridge your other deployments to Fly.io](https://fly.io/docs/blueprints/bridge-deployments-wireguard/)
 * [Staging and production isolation](https://fly.io/docs/blueprints/staging-prod-isolation/)
+* [Autostart and autostop private apps](https://fly.io/docs/blueprints/autostart-internal-apps/)
 * [Crontab with Supercronic](https://fly.io/docs/blueprints/supercronic/)
+* [Going to Production with Healthcare Apps](https://fly.io/docs/blueprints/going-to-production-with-healthcare-apps/)
 
 [Apps on Fly.io](https://fly.io/docs/apps/) Toggle Apps on Fly.io section
 
@@ -91,12 +91,13 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 
 [Fly Kubernetes](https://fly.io/docs/kubernetes/) Toggle Fly Kubernetes section
 
-* [Kubernetes Quickstart](https://fly.io/docs/kubernetes/fks-quickstart/)
-* [Create an FKS cluster](https://fly.io/docs/kubernetes/clusters/)
-* [Connect to an FKS cluster](https://fly.io/docs/kubernetes/connect-clusters/)
+* [Fly Kubernetes Quickstart](https://fly.io/docs/kubernetes/fks-quickstart/)
+* [Fly Kubernetes Features](https://fly.io/docs/kubernetes/fks-features/)
+* [Create an FKS Cluster](https://fly.io/docs/kubernetes/clusters/)
+* [Connect to an FKS Cluster](https://fly.io/docs/kubernetes/connect-clusters/)
 * [Configure FKS Services](https://fly.io/docs/kubernetes/services/)
-* [Use volumes with FKS](https://fly.io/docs/kubernetes/using-volumes/)
 * [Use GPUs with FKS](https://fly.io/docs/kubernetes/using-gpus/)
+* [Use Volumes with FKS](https://fly.io/docs/kubernetes/using-volumes/)
 
 [Networking](https://fly.io/docs/networking/) Toggle Networking section
 
@@ -125,6 +126,7 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [SSO for organizations](https://fly.io/docs/security/sso/)
 * [TLS termination](https://fly.io/docs/security/tls-termination/)
 * [Deploy Tokens](https://fly.io/docs/security/deploy-tokens/)
+* [OpenID Connect](https://fly.io/docs/reference/openid-connect/)
 * [Security practices and compliance](https://fly.io/docs/security/security-at-fly-io/)
 * [App Security by Arcjet](https://fly.io/docs/reference/arcjet/)
 
@@ -139,7 +141,6 @@ Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https:
 * [Load Balancing](https://fly.io/docs/reference/load-balancing/)
 * [Machine migration](https://fly.io/docs/reference/machine-migration/)
 * [Multiple Processes in Apps](https://fly.io/docs/app-guides/multiple-processes/)
-* [OpenID Connect](https://fly.io/docs/reference/openid-connect/)
 * [Fly Proxy](https://fly.io/docs/reference/fly-proxy/)
 * [Regions](https://fly.io/docs/reference/regions/)
 
