@@ -85,7 +85,7 @@ Not open for further replies.
 
 Messages
 
-3,526
+3,537
 
 * Feb 14, 2008
 
@@ -239,7 +239,7 @@ Last edited: Jun 9, 2024
 
 * ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
 
-Reactions: LostMyShy, PrincessCarmilla, hiimanew and 139 others
+Reactions: LittleChrissy, LostMyShy, PrincessCarmilla and 140 others
 
 Status
 
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1721485462) [LinkedIn](#_xfUid-1-1721485462) [Reddit](#_xfUid-1-1721485462) [Pinterest](#_xfUid-1-1721485462) [Tumblr](#_xfUid-1-1721485462) [WhatsApp](#_xfUid-1-1721485462) [Email](#_xfUid-1-1721485462) [Share](#_xfUid-1-1721485462) [Link](#_xfUid-1-1721485462)
+[X (Twitter)](#_xfUid-1-1721699140) [LinkedIn](#_xfUid-1-1721699140) [Reddit](#_xfUid-1-1721699140) [Pinterest](#_xfUid-1-1721699140) [Tumblr](#_xfUid-1-1721699140) [WhatsApp](#_xfUid-1-1721699140) [Email](#_xfUid-1-1721699140) [Share](#_xfUid-1-1721699140) [Link](#_xfUid-1-1721699140)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -268,11 +268,11 @@ Share:
 * Cookies
     -------
     
-    We use essential [cookies](https://www.adisc.org/forum/help/cookies) to make this site work, and third party cookies for purposes such as web analytics.
+    We use essential [cookies](https://www.adisc.org/forum/help/cookies) to make this site work, and third party cookies for purposes such as web analytics and showing videos in posts.
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1721485462%2C9ce5cdc38a9e34aa67e74494eeba175c) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1721485462%2C9ce5cdc38a9e34aa67e74494eeba175c)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1721699140%2C6eddc51e6d91f53a4f71f9f66572dd60) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1721699140%2C6eddc51e6d91f53a4f71f9f66572dd60)
     
     * Essential cookies
     
