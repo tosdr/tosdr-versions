@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Jerry Fuller, Producer And Songwriter For...](https://classiccountrymusic.com/jerry-fuller-producer-and-songwriter-for-many-musical-icons-dies-at-85/)
+* [7 Facts About “The Best Little...](https://classiccountrymusic.com/7-facts-about-the-best-little-whorehouse-in-texas/)
 * [George Strait Shares Carefree Feelings In...](https://classiccountrymusic.com/george-strait-shares-carefree-feelings-in-new-song-three-drinks-behind/)
-* [Dollywood Reopens After Brief & Unexpected...](https://classiccountrymusic.com/dollywood-reopens-after-brief-unexpected-closure/)
-* [Dolly Parton’s Dollywood Theme Park Announces...](https://classiccountrymusic.com/dolly-partons-dollywood-theme-park-announces-temporary-closure/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
