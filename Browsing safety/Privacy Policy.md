@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: September 10, 2023
+Last updated: July 1, 2024
 
 ### 1\. About Us
 
