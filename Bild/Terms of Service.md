@@ -77,7 +77,7 @@ Menü
 * [Royals](https://www.bild.de/unterhaltung/royals/royals/home-15702890.bild.html)
 * [Kino](https://www.bild.de/unterhaltung/kino/kino/home-15697512.bild.html)
 * [TV](https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html)
-* [Streaming & Gaming](https://www.bild.de/digital/internet/twitch/thema-twitch-alle-infos-81174082.bild.html)
+* [Bild.GG](https://www.bild.de/digital/internet/twitch/thema-twitch-alle-infos-81174082.bild.html)
 * [Gewinnspiele](https://www.bild.de/bildplus/gewinnspiel/gewinnspiele/gewinnspiele-75208514.bild.html)
 
 * [Olympia 2024](https://www.bild.de/sport/olympia/olympia/startseite-olympische-spiele-54193140.bild.html)
@@ -210,7 +210,7 @@ Menü
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
 -------------------------------------------------------------
 
-[Teilen](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fagb%2Fbild-de%2Fartikel-agb-2952414.bild.html%3Fwtmc%3Dfb.shr) [Twittern](https://twitter.com/intent/tweet?text=AGB&url=https%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fagb%2Fbild-de%2Fartikel-agb-2952414.bild.html%3Fwtmc%3Dtwttr.shr) [Senden](mailto:?subject=Meine%20Empfehlung:%20AGB&body=Hallo%2C%0Aich%20habe%20gerade%20diesen%20interessanten%20Inhalt%20auf%20BILD.de%20gelesen%3A%0Ahttps%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fagb%2Fbild-de%2Fartikel-agb-2952414.bild.html%0AAbonniere%20hier%20den%20BILD-Newsletter%3A%20https%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fnewsletter%2Fbild-service%2Fnewsletter-44536448.bild.html%0AViele%20Gr%C3%BC%C3%9Fe)
+[Teilen](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fagb%2Fbild-de%2Fartikel-agb-2952414.bild.html%3Fwtmc%3Dfb.shr) [Posten](https://twitter.com/intent/tweet?text=AGB&url=https%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fagb%2Fbild-de%2Fartikel-agb-2952414.bild.html%3Fwtmc%3Dtwttr.shr) [Senden](mailto:?subject=Meine%20Empfehlung:%20AGB&body=Hallo%2C%0Aich%20habe%20gerade%20diesen%20interessanten%20Inhalt%20auf%20BILD.de%20gelesen%3A%0Ahttps%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fagb%2Fbild-de%2Fartikel-agb-2952414.bild.html%0AAbonniere%20hier%20den%20BILD-Newsletter%3A%20https%3A%2F%2Fwww.bild.de%2Fcorporate-site%2Fnewsletter%2Fbild-service%2Fnewsletter-44536448.bild.html%0AViele%20Gr%C3%BC%C3%9Fe)
 
 29.11.2007 - 17:51 Uhr
 
