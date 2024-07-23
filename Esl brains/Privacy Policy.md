@@ -59,10 +59,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
+* [Workplace safety](https://eslbrains.com/workplace-safety/ "Workplace safety")
+* [The power of breathing](https://eslbrains.com/the-power-of-breathing/ "The power of breathing")
+* [Talking about experiences using Present Perfect and Past Simple](https://eslbrains.com/lesson-set/talking-about-experiences-using-present-perfect-and-past-simple/ "Talking about experiences using Present Perfect and Past Simple")
 * [Therapy speak](https://eslbrains.com/therapy-speak/ "Therapy speak")
-* [Sharing experiences (Present Perfect and Past Simple)](https://eslbrains.com/sharing-experiences-present-perfect-and-past-simple/ "Sharing experiences (Present Perfect and Past Simple)")
-* [Open-source software: use, study, share, improve](https://eslbrains.com/open-source-software-use-study-share-improve/ "Open-source software: use, study, share, improve")
-* [Is free speech hate speech?](https://eslbrains.com/is-free-speech-hate-speech/ "Is free speech hate speech?")
 
 © ESL Brains 2023
 
