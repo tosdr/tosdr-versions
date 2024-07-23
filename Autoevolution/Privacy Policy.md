@@ -33,15 +33,15 @@
 
 editorial \_
 
-[![Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions](https://s1.cdn.autoevolution.com/images/news/thieves-stealing-ev-charger-cables-for-scrap-copper-has-reached-epidemic-proportions-237250-5.jpeg "Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions")
+[![Netizens Up in Arms Over BMW Adaptive Headlight Subscription](https://s1.cdn.autoevolution.com/images/news/netizens-up-in-arms-over-bmw-adaptive-headlight-subscription-237335-5.jpg "Netizens Up in Arms Over BMW Adaptive Headlight Subscription")
 
-#### Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions](https://www.autoevolution.com/news/thieves-stealing-ev-charger-cables-for-scrap-copper-has-reached-epidemic-proportions-237250.html "Thieves Stealing EV Charger Cables for Scrap Copper Has Reached Epidemic Proportions")
+#### Netizens Up in Arms Over BMW Adaptive Headlight Subscription](https://www.autoevolution.com/news/netizens-up-in-arms-over-bmw-adaptive-headlight-subscription-237335.html "Netizens Up in Arms Over BMW Adaptive Headlight Subscription")
 
 coverstory \_
 
-[![1988 Chevrolet Monte Carlo SS Rocks 8k 'Original Miles' and a Fair Asking Price ](https://s1.cdn.autoevolution.com/images/news/1988-chevrolet-monte-carlo-ss-rocks-8k-original-miles-and-a-fair-asking-price-237110-5.jpg "1988 Chevrolet Monte Carlo SS Rocks 8k 'Original Miles' and a Fair Asking Price ")
+[![This Luxurious Outdoor Haven Reveals a Sophisticated Take on Tiny Living](https://s1.cdn.autoevolution.com/images/news/this-luxurious-outdoor-haven-reveals-a-sophisticated-take-on-tiny-living-237370-5.jpg "This Luxurious Outdoor Haven Reveals a Sophisticated Take on Tiny Living")
 
-1988 Chevrolet Monte Carlo SS Rocks 8k 'Original Miles' and a Fair Asking Price](https://www.autoevolution.com/news/1988-chevrolet-monte-carlo-ss-rocks-8k-original-miles-and-a-fair-asking-price-237110.html) 
+This Luxurious Outdoor Haven Reveals a Sophisticated Take on Tiny Living](https://www.autoevolution.com/news/this-luxurious-outdoor-haven-reveals-a-sophisticated-take-on-tiny-living-237370.html)
 
 how-to \_
 
