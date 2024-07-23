@@ -6,9 +6,7 @@ By using our website you consent that Clue may use cookies and third-party servi
 
 Read more on our [Privacy Policy](https://helloclue.com/privacy) how we use cookies.
 
-Accept all
-
-Manage preferencesEssential cookies only
+Accept allReject allManage preferences
 
 [Exclusive web offer 🎁 25% off Clue PlusSubscribe now](https://helloclue.com/pricing?discount_code=BANNER25)
 
@@ -310,7 +308,7 @@ _\- End of the revocation policy -_
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: 07cf9eddc2024-07-18 12:33:07
+v: 64fd18fdb2024-07-22 13:31:17
 
 English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
@@ -363,4 +361,4 @@ English (EN)Português (PT)Español (ES)Deutsch (DE)Français (FR)
 
 © 2024 Clue by Biowink GmbH, All rights reserved
 
-v: 07cf9eddc2024-07-18 12:33:07
+v: 64fd18fdb2024-07-22 13:31:17
