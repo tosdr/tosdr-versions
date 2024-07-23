@@ -80,7 +80,7 @@ GoFundMe Terms of Service
 Questions about our terms? [Contact Us](https://support.gofundme.com/hc)
 ------------------------------------------------------------------------
 
-Our Terms of Service will be updated, and our updated Terms of Service will be effective starting on August 1, 2024. To view the updated Terms of Service, [click here](https://www.gofundme.com/c/gofundme-terms-of-service).
+Our Terms of Service will be updated, and our updated Terms of Service will be effective starting on August 1, 2024. To view the updated Terms of Service, [click here](https://www.gofundme.com/c/gofundme-terms-of-service).
 
 **Date of Last Revision: January 11, 2024**
 
@@ -506,4 +506,4 @@ More resources
 
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&referrer=utm_source%3Dgofundme%26utm_medium%3Dpublic_web_mobileapp) [Available on the App Store](https://itunes.apple.com/app/apple-store/id734130700?pt=2179020&ct=gofundme_public_web_mobileapp&mt=8)
 
-© 2010-2024 GoFundMe [Terms](https://www.gofundme.com/c/terms) [Privacy](https://www.gofundme.com/c/privacy) [Legal](https://www.gofundme.com/legal) [Accessibility Statement](https://www.gofundme.com/c/accessibility-statement)
+© 2010-2024 GoFundMe [Terms](https://www.gofundme.com/c/terms) [Privacy](https://www.gofundme.com/c/privacy) [Legal](https://www.gofundme.com/legal) [Accessibility Statement](https://www.gofundme.com/c/accessibility-statement) [Your Privacy Choices ![](https://www.gofundme.com/nextassets/shared/privacy-pill.png)](https://www.gofundme.com/c/opt-out-rights)
