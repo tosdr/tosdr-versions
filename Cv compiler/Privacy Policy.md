@@ -1281,6 +1281,26 @@ What do top resumes look like? Check out these expertly-written samples:
 
 [Content Moderator](https://cvcompiler.com/content-moderator-resume-examples)
 
+[Investment Banking Analyst](https://cvcompiler.com/investment-banking-analyst-resume-examples)
+
+[Warehouse Operations Manager](https://cvcompiler.com/warehouse-operations-manager-resume-examples)
+
+[Long-Term Substitute Teacher](https://cvcompiler.com/long-term-substitute-teacher-resume-examples)
+
+[Counselor](https://cvcompiler.com/counselor-resume-examples)
+
+[Visual Merchandiser](https://cvcompiler.com/visual-merchandiser-resume-examples)
+
+[Digital Marketing Executive](https://cvcompiler.com/digital-marketing-executive-resume-examples)
+
+[Entry-Level Medical Sales](https://cvcompiler.com/entry-level-medical-sales-resume-examples)
+
+[Structural Engineer](https://cvcompiler.com/structural-engineer-resume-examples)
+
+[Artificial Intelligence](https://cvcompiler.com/artificial-intelligence-resume-examples)
+
+[Entry-Level Full Stack Developer](https://cvcompiler.com/entry-level-full-stack-developer-resume-examples)
+
 ![Upload resume illustration](uploads-pre-acq/img/upload-illustration.svg)
 
 ### Upload  
