@@ -135,214 +135,327 @@ Do not sell my dataShow Preferences
 PRIVACY POLICY
 --------------
 
-> Last updated: April 27, 2023
+> Last updated: June 2024
 
-MAXFLOW BV, a limited liability company under Belgian law with registered office at Ketelmakerij 20, 3010 Kessel-Lo, Belgium, registered under company registration number 0550.758.377 (RLE Leuven), with trade name “CrazyGames” (hereinafter: “**CrazyGames**”, “**us**”, “**we**”, or “**our**”) operates the following sites:
+### 1\. **WHO WE ARE**
 
-* [https://www.crazygames.com](https://www.crazygames.com/)
-* [https://www.1001juegos.com](https://www.1001juegos.com/)
-* [https://www.crazygames.nl](https://www.crazygames.nl/)
-* [https://www.crazygames.co.id](https://www.crazygames.co.id/)
-* [https://www.crazygames.fr](https://www.crazygames.fr/)
-* [https://www.crazygames.com.br](https://www.crazygames.com.br/)
-* [https://www.crazygames.ru](https://www.crazygames.ru/)
-* [https://www.crazygames.com.ua](https://www.crazygames.com.ua/)
-* [https://www.crazygames.fi](https://www.crazygames.fi/)
-* [https://www.crazygames.ro](https://www.crazygames.ro/)
-* [https://www.crazygames.se](https://www.crazygames.se/)
-* [https://www.crazygames.no](https://www.crazygames.no/)
-* [https://www.crazygames.hu](https://www.crazygames.hu/)
-* [https://www.crazygames.cz](https://www.crazygames.cz/)
-* [https://it.crazygames.com](https://it.crazygames.com/)
-* [https://de.crazygames.com](https://de.crazygames.com/)
-* [https://www.crazygames.pl](https://www.crazygames.pl/)
-* [https://gr.crazygames.com](https://gr.crazygames.com/)
-* [https://www.crazygames.dk](https://www.crazygames.dk/)
-* [https://tr.crazygames.com](https://tr.crazygames.com/)
-* [https://ar.crazygames.com](https://ar.crazygames.com/)
-* [https://vn.crazygames.com](https://vn.crazygames.com/)
-* [https://th.crazygames.com](https://th.crazygames.com/)
-* [https://www.crazygames.co.kr](https://www.crazygames.co.kr/)
+We are CrazyGames. We offer a browser game platform where you can discover and experience many different web games in an easy and accessible way (“**Platform**”). You can access our Platform via an account (“**Account**”) or without. The Platform is made available via one of CrazyGames' websites as visible in the address bar depending on your region (“**Website**”).
 
-(the “**Site**”). This privacy policy applies to all of CrazyGames services and products. You should be aware that CrazyGames cannot be held responsible for the privacy policy of other sites and sources.
+Legal information about CrazyGames ("**CrazyGames**", "**we**", "**us**"):
 
-CrazyGames will act as the data controller in the framework of this Privacy Policy. By using this Site, you accept this Privacy Policy and you affirm that you are of legal age to agree to the terms of this Privacy Policy.
+Maxflow BV
 
-Whenever important changes are made to this Privacy Policy, your continued use of the Site will be considered as your consent with the revised Privacy Policy. CrazyGames respects the privacy of all users of its Site and shall ensure the personal information you provide is treated confidentially.
+Ketelmakerij 20, 3010 Kessel-Lo, Belgium
 
-We are aware of the trust you place in us. We see it as our responsibility to protect your privacy. On this page, we will let you know what information we collect when you use our Site, why we collect it and how we improve your user experience. Thus, you will understand exactly how we work.
+KBO 0550.758.377.
 
-I. WHICH DATA DO WE COLLECT?
-----------------------------
+We recognize the trust you place in us and take our responsibility to protect your privacy seriously. This Privacy Policy (this “**Policy**”) provides important details about how we collect, process, disclose, retain, and protect your personal data. Please review it carefully to understand your rights and our obligations regarding your information.
 
-### 1\. Data we receive from you
+The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are under thirteen (13) years of age (or the applicable minimum age in your country), this Platform is not intended for you. We do not knowingly collect or solicit personal information from children under the age of thirteen (13) (or the applicable minimum age in your country) through our Platform. However, we have launched a website specifically for younger children below the applicable minimum age, [https://kids.crazygames.com/](https://kids.crazygames.com/) (“**Kids Site**”) and have a separate privacy policy for the Kids Site, available on [https://kids.crazygames.com/privacy-policy](https://kids.crazygames.com/privacy-policy). CrazyGames does not allow personalised advertising on its Kids Site.
 
-#### Contact form
+For information about the terms upon which we do business, you should also read our [Terms of Service](https://www.crazygames.com/terms-and-conditions).
 
-When you fill in the contact form provided on our Site or send us an e-mail, we will optionally process the following types of personal data on the basis of consent:
+### 2\. **WHAT IS PERSONAL DATA?**
 
-* First name
-* Name
-* E-mail
-* Other information that you provide
+Personal Data is any information about you that allows us to identify you. This could be, for example, your name or email address. But equally data about the games you played if we can link it to your account on our Platform (“**Account**”) .
 
-#### Account registration
+**CrazyGames strongly recommends not to use your real name or share any other personal data in any of the games provided on our Platform including, without limitation, when engaging in multiplayer.**
 
-If you register an account with us you give explicit consent to collect a password, email address, phone number, user agent, and IP address. We do not store this data ourselves but work with Google Firebase authentication services to do so. The data is used to enable end-user authentication, and facilitate end-user account management. It also uses user-agent strings and IP addresses to provide added security and prevent abuse during sign-up and authentication. We use Firebase as described in [“How Google Uses Information From Sites Or Apps That Use Our Services”](https://policies.google.com/technologies/partner-sites).
+### 3\. **FROM WHOM DO WE COLLECT PERSONAL DATA?**
 
-IP addresses are logged for a few weeks. Other authentication information is retained until you initiate deletion of the associated user, after which data is removed from live and backup systems within 180 days. You can delete your account via Account Settings.
+In order to operate our Platform, we may collect data from users and visitors of the Platform and Website, developers of web games, persons who otherwise provide us with their contact details, and persons who contact us by email or other means. As described above under article 1.3, we do collect personal data from children older than the age of thirteen (13) or the applicable minimum age in your country.
 
-### 2\. Data we receive automatically
+### 4\. **WHAT PERSONAL DATA DOES CRAZYGAMES PROCESS AND WHY?**
 
-We can collect some personal data through the use of cookies: see Section V of this Privacy Policy.
+CrazyGames may collect the following Personal Data of you:
 
-Some other (personal) data may be collected without the use of cookies. Said data can only be read and used during your visit to our Site:
+| **WHY?** | **WHICH PERSONAL DATA?** | **ON WHAT BASIS?** |
+| --- | --- | --- |
+| To evaluate your job application | email address, name, age, gender, CV | Necessary for the **performance of a contract** or to take steps at your request, before entering a contract |
+| To register and authenticate your Account of the Platform | email address, name, age, gender external account, username and password | The prior, express, free, specific and informed **consent** of you |
+| Personalisation of your game experience (Account) | username, device and connection data, selected interests, gaming behaviour and feedback | The prior, express, free, specific and informed **consent** of you |
+| To respond to your question or complaint, or to help you with technical problems | name, e-mail address and other information that you provide to us | Necessary for the exercise of our **legitimate interests**, in particular to enhance the quality of our Platform |
+| To inform you of new functionalities of our Platform | username and email address | Necessary for the exercise of our **legitimate interests**, in particular to communicate relevant information about our Platform |
+| To analyse statistics about visitors to our Platform and games in order to improve the Platform, the games and user experience | data on visitors' behaviour (usage & device data) and in-game statistics | Necessary for the exercise of our **legitimate interests**, in particular collecting statistics about the usage and performance of our Platform and the games |
+| To comply with legal obligations | data required by applicable law | Necessary to comply with a **legal obligation** |
+| To prevent, detect and combat fraud and other illegal or unauthorised activities | data required for detection of fraud and illegal activities | Necessary for the exercise of our **legitimate interests**, in particular the prevention of fraud and other illegal activities |
+| For marketing of CrazyGames (for example newsletters) | username and email address | The prior, express, free, specific and informed **consent** of you |
+| To enable advertising on our Platform | data gathered by the use cookies, web beacons or similar technologies such as IP address, user ID’s, browser type and operating system | The prior, express, free, specific and informed **consent** of you when you accept our Privacy and Cookie Policy, and confirm your ad preferences. This authorisation can be withdrawn by you at any time. For more information, please consult ‘Manage Your Ad Preferences’ and our Cookie Policy. |
+| To fulfil our obligations to game developers | e-mail, tax identification number, bank account identification, Paypal Account, preferred payment method | Necessary for the **performance of a contract** |
+| To enable in-game purchases | data related to the in-game purchase<br><br>CrazyGames does not collect any specific payment data when you make an in-game purchase. The payment is executed by a third party payment provider. We store and link your in-game purchases to your Account. | Necessary for the **performance of a contract** |
 
-1. Your IP-address (used e.g. for preventing double voting and location based advertising);
-2. Your browser type and revision;
-3. The last visited internet page;
-4. (mobile) device ID’s;
-5. cookie data;
-6. user level data (i.e. whether a user viewed or clicked on an advertisement);
+**Registration of Account**. If you register an Account with us you give your explicit consent to collect a password, email address, user agent, and IP address. We also facilitate the login via third party providers. If you log-in to our Platform using social media (such as Facebook) or Google log-in, you are granting permission to the third party service to share your user details with us. This may include your name, email address, date of birth and location, which will then be used to create your Account. These third party services may use information about your visit to our Platform on their pages. If you browse these pages while still logged in to your Account with us, information they collect may be connected to your Account on their website. For more information on how these third party services use information, please review their privacy policies.
 
-### 3\. Data we receive from third parties
+**Advertising**. CrazyGames displays ads from various advertising companies on the Platform. These ads may be personalised or non-personalised content-related ads. To show you personalised ads and only if you have given consent via our Consent Management Platform (“**CMP**”), we share certain data (such as your IP address, ad identifiers and the information that you have given consent for personalised ads) with third-party advertisers and ad networks. We also use this information to measure how effective these ads are. In our CMP shown to you when you first visit our Website, you can customise your ad tracking preferences or choose not to accept personalised ads at all. You can change your ad preferences at any time via “Preferences” in the menu of the Website. If you choose not to receive personalised ads at all, we will still show you ads, but they may not reflect your interests, as these ads will be content-specific and not user-specific.
 
-When we receive Personal Information from third parties we will inform you personally.
+**Profiling**. CrazyGames may analyse your game data from the web games you play. Based on your game statistics, CrazyGames may then recommend games you might be interested in. However, you will not be subject to decisions that will have a significant impact on you based solely on automated decision making, unless we have a lawful basis for doing so, e.g., if we have compelling legitimate grounds for us to continue or to establish a legal defence,and we have notified you. Please note that if you are located in the European Economic Area (EEA) or the United Kingdom (UK), you may have the right to object at any time to your personal data being processed for direct marketing purposes (including profiling to the extent that it is related to such direct marketing).
 
-II. WHY DO WE COLLECT THESE DATA? BASED ON WHICH LEGAL GROUND?
---------------------------------------------------------------
+### 5\. **DO WE SHARE YOUR PERSONAL DATA WITH OTHERS?**
 
-Your personal data will be used to enable us to optimise the services we render and the content we provide on the Site. In certain cases when we are under a legal requirement to process personal data, like age limits, we will process said personal data.
+Yes. We may share your personal data with other companies. These companies help CrazyGames to perform tasks for the Platform. For example, we may disclose your personal data to suppliers of IT and payment services, external consultants and other subcontractors of CrazyGames who provide services for the Website andPlatform.
 
-We may also use your personal data for direct marketing purposes, such as updates on new or existing games and newsletters.
+**Users.** We provide the option for our users to view profiles of other users, send friend requests and game invites. By default your profile is open to other users which means that other users can send you friend requests. But only friends that you have accepted can view your profile (profile name, picture and background, games played, liked and activity). If you want to customise these settings, you can do so in the ‘Privacy Preferences’.
 
-We may opt to use your personal data for statistical purposes and to improve our services and product. These processing activities are thus based on a justified legitimate interest of CrazyGames.
+**Advertising**. Additionally, we may share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our identity partners/service providers. These partners return an online identification code that we may store in our first-party cookie for our use in advertising and it may be shared with advertising companies to enable interest-based and personalised advertising. Personalised advertising means that companies can send you ads for products you might be interested in. CrazyGames works among others with the following ad partners:
 
-Advertisers on our website might use information gathered by the use cookies and/or web beacons for the purpose of online behavioral advertising and/or multisite advertising. Further information as regards the use of cookies and web beacons is set out in Section V below.
+* Appnexus - [for privacy policy click here](https://www.appnexus.com/platform-privacy-policy)
+* Google Ad Exchange - [for privacy policy click here](https://policies.google.com/technologies/ads)
+* Google Adsense - [for privacy policy click here](https://policies.google.com/technologies/ads)
+* Magnite - [for privacy policy click here](https://www.magnite.com/legal/advertising-platform-privacy-policy/)
+* Index Exchange - [for privacy policy click here](http://www.indexexchange.com/privacy/)
+* Pubmatic - [for privacy policy click here](https://pubmatic.com/legal/privacy-policy/)
+* Amazon - [for privacy policy click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496)
+* OpenX - [for privacy policy click here](https://www.openx.com/legal/privacy-policy/)
+* TripleLift - [for privacy policy click here](https://triplelift.com/privacy/)
+* Media.net - [for privacy policy click here](https://www.media.net/privacy-policy/)
+* Sharethrough - [for privacy policy click here](https://privacy-center.sharethrough.com/en/consumer-privacy-notice/)
+* SmartAdServer - [for privacy policy click here](https://smartadserver.com/end-user-privacy-policy/)
+* Unruly - [for privacy policy click here](https://unruly.co/legal/privacy/)
+* Venatus - [for privacy policy click here](https://venatus.com/privacy)
+* Headerlift - [for privacy policy click here](https://www.headerlift.com/privacy.html)
+* Adagio - [for privacy policy click here](https://adagio.io/privacy)
+* Rise - [for privacy policy click here](https://www.riseinteractive.com/privacy-policy)
+* Cadent - [for privacy policy click here](https://cadent.tv/services-privacy-policy/)
+* Vidazoo - [for privacy policy click here](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
 
-Additionally, we may share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our identity partners/service providers. These partners return an online identification code that we may store in our first-party cookie for our use in advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click [here](https://optout.aboutads.info/?c=2&lang=EN).
+**ID.** ID providers manage and distribute unique identifiers associated with users across various digital platforms. Unique identifiers are pieces of information assigned to individual users to track their activities and preferences across different websites and apps. These identifiers help advertisers and platforms understand user behaviour and deliver personalised ads. Due to the changing privacy-landscape, ID providers are adapting by finding ways to maintain personalised advertising capabilities while respecting user privacy. This might involve using anonymized or aggregated data, implementing stricter data protection measures (e.g., encryption), and providing users with more control over their data and ad preferences. Encryption scrambles for example your email address into a secret code that can only be deciphered with a decryption key. We work with among others the following ID providers:
 
-CrazyGames is not responsible for any personal data collected via any third party software or methods present on the Site and to which said third parties’ general terms and conditions may apply.
+* [Unified ID2.0](https://www.thetradedesk.com/us/about-us/industry-initiatives/unified-id-solution-2-0) - [for privacy policy click here](https://www.thetradedesk.com/general/privacy)
+* [ID5](https://www.id5.io/) - [for privacy policy click here](https://id5.io/platform-privacy-policy/): ID5 uses an encrypted email address and ID5 IDs. You can opt out of this use directly via [https://id5-sync.com/privacy/.](https://id5-sync.com/privacy/)
+* [Criteo](https://www.criteo.com/) - [for privacy policy click here](https://www.criteo.com/privacy/):Criteo uses a pseudonymized email address. Criteo and CrazyGames share responsibility as joint-controllers. You can opt-out of this use via the ‘Disable’ button on [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/).
+* [LiveRamp](https://liveramp.com/) - [for privacy policy click here](https://liveramp.com/privacy/): LiveRamp uses an encrypted email address. You can opt out of this use directly via [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/).
+* [Lotame](https://www.lotame.com/) - [for privacy policy click here](https://www.lotame.com/privacy/privacy-notices/services/): Lotame uses pseudonymous and declared IDs. You can opt out of this use directly via their Privacy Manager ([https://www.lotame.com/privacy/privacy-manager/](https://www.lotame.com/privacy/privacy-manager/)).
+* [LiveIntent](https://www.liveintent.com/) - [for privacy policy click here](https://www.liveintent.com/services-privacy-policy/)
+* [The Trade Desk](https://www.thetradedesk.com/us/our-platform/identity-solutions) - [for privacy policy click here](https://www.thetradedesk.com/us/privacy): Trade Desk used an encrypted EUID. For the creation of the encrypted EUID, Trade Desk and CrazyGames share responsibility as joint-controllers. You can opt-out of this use directly via [https://transparentadvertising.eu/](https://transparentadvertising.eu/), as well as find additional information about EUID.
+* [Amazon Publisher Services – Publisher Audiences](https://aps.amazon.com/) [for privacy policy click here](https://aps.amazon.com/aps/privacy-policy/%29): You can opt-out of this use via [https://youradchoices.com/.](https://youradchoices.com/)
 
-You are advised not to use your real name or share any other personal information in any of the games provided on our Site including, without limitation, when engaging in multi-player.
+By accepting our Privacy Policy and accepting these ID-providers in the CMP, you accept the sharing of these identifiers with these providers for advertising purposes.
 
-We have the right to share your data with all Google CPS Vendors so that Google DV360 may return GDPR compliant bids for ad delivery.
+**Game developers**. Games on our Platform may be our own games or games offered by external game developers. CrazyGames may share specific personal data with such external game developers if that’s strictly required for the performance of our contractual obligations with the game developers. When sharing usage data with a game developer about his game, CrazyGames will always anonymize the data. In addition, if you share feedback with us about a game, we can also share this feedback with the developer of the game.
 
-III. DATA RETENTION PERIODS
----------------------------
+**Payment providers**. If you make in-game purchases, the transaction is processed by an external payment provider and is subject to the external payment provider's privacy policy.
 
-Your personal data will only be processed for as long as this is necessary for the purposes mentioned above. Unless there is a justified reason to retain the personal data, for example within the framework of customer relation management, your personal data will be deleted one month after you failed to visit our site during a consecutive period of \[2\] years.
+**International Data Transfers**. CrazyGames may share your personal data outside the European Economic Area. In such a case, CrazyGames will always take appropriate and required measures to protect your data and privacy, including implementing the European Commission's Standard Contractual Clauses (also known as Model Clauses) or UK International Data Transfer Addendums where necessary to provide safeguards for your personal data.
 
-IV. YOUR RIGHTS
----------------
+Should you need further details regarding how we transfer data internationally and the protective measures we employ, please reach out to us via email at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact)
 
-You can get access to your personal data and rectify or erase them, free of charge. You also have the right to restrict the processing of your personal data.
+### 6\. **HOW LONG DO WE KEEP YOUR PERSONAL DATA?**
 
-If you do not wish to receive newsletters or information about our products or services, you can at any moment and without any need for justification, object to the processing of your personal data for these purposes (“unsubscribe”). You can do this by sending us an e-mail or by contacting as at the address mentioned below. You can also do this by clicking on the unsubscribe link in our advertising e-mails.
+CrazyGames will keep your data for as long as strictly necessary for the purposes listed below. With respect to your Account and linked personal data, we will keep your Account until you request us to delete it. You can always delete your account via Account Settings. Please be aware that the deletion of your Account is permanent and you will no longer have access to any purchases linked to your Account.
 
-Moreover, you have the right to data portability for the personal data you have provided to CrazyGames if any and to the extent that CrazyGames has retained your personal data. If you want more information on your rights, you can always contact us or take a look at the website of the Belgian Data Protection Authority:
+Following a long period of inactivity, CrazyGames might delete or archive personal data. Where we have your email address, we will notify you in advance before such deletion or archiving of data.
 
-[https://www.dataprotectionauthority.be/](https://www.dataprotectionauthority.be/).
+We might keep your data for longer if necessary to comply with a particular law or regulation, protect against fraud or abusive incidents, or in correspondence with any legal claims or disputes.
 
-To exercise these rights, we ask you to send a clear request, to the address mentioned below, that states clearly what it is you want to know, rectify or erase. This request needs to be signed and dated and contain a copy of the front side of your identity card or driver’s license.
+### 7\. **IS YOUR DATA SAFE AT CRAZYGAMES?**
 
-You should specifically motivate your request if you want to rectify or erase personal data or restrict the processing thereof. Once these conditions are fulfilled, CrazyGames will execute your request as soon as possible and send you a message on this matter.
-
-V. COOKIES
-----------
-
-### What are cookies?
-
-Cookies are small files that are saved on your computer when you visit web pages. They contain information linked to a web browser and the specific website. They are saved in a specific folder on your hard drive. If you return to a specific website, this page can recognize the visitor by means of the cookie and further elaborate the history. A web beacon is an (often transparent) graphic image, usually no larger than 1 pixel, that is placed on a website and that is used to monitor the behavior of the user visiting the website.
-
-Cookies are used to increase visitor-friendliness: by identifying visitors with a cookie, they do not always have to enter the same data such as login information or screen settings every time you visit the website.
-
-### Which kind of cookies exist?
-
-Often a distinction is made between two large groups of cookies:
-
-**First party cookies**: these cookies are created by a website to have the web page function better. They regulate the technical part of a site, such as language choice or remembering the products in the shopping basket in an online store. The visited website creates and places first party cookies.
-
-**Third party cookies**: these cookies are created and placed on your computer by another (third) party than the website you visit. They remember the behavior of a surfer. Examples are social media such as Facebook or Twitter, but Google Analytics as well. This is the system used most to measure website visits.
-
-Cookies required for the correct functioning of the Site do not require permission. All other cookies do.
-
-### Which cookies do we use?
-
-We will only use first party cookies to help improve your user experience on the Site. We would do this by recording specific information about the user such as the language chosen, the pages visited and the duration of the visits.
-
-We may offer games from third-party game distributors on our portal. By playing a third-party game, your Personal Data may be processed by the third-party game distributor (directly or through the use of cookies or similar technology). Please note that if you choose to play a third-party game, you are playing that game in the environment of that game's third-party developer, over which we have no control. We, therefore, recommend that you read the privacy statement of that game distributor before playing the game.
-
-* Game Distribution: [Privacy Policy](https://azerion.com/business/privacy.html)
-* Famobi: [Privacy Policy](https://famobi.com/privacy-policy/?locale=en)
-* Gamerina: [Privacy Policy](https://prinxy.app/tos/privacy/)
-* Coolgames: [Privacy Policy](https://www.coolgames.com/privacy-policy)
-* FRVR: [Privacy Policy](https://frvr.com/legal#PrivacyPolicy)
-
-#### Your acceptance of this Privacy Policy by using the Site, entails that third parties may drop cookies and/or use web beacons for advertising and tracking purposes.\*\*
-
-Third parties might use information gathered by cookies and/or web beacons for the purpose of online behavioral advertising and/or multisite advertising. The types of information that is gathered by third party cookies and/or web beacons as well as the purpose(s) for which this information is used, are set out in the privacy policy of said third parties which CrazyGames encourages you to review. CrazyGames declines all and any liability for any third party cookies or web beacons deployed by third parties for whatever purpose.
-
-The Site may therefore use third party cookies such as cookies from:
-
-* Appnexus - [Privacy Policy](https://www.appnexus.com/platform-privacy-policy)
-* Google Ad Exchange - [Privacy Policy](https://policies.google.com/technologies/ads)
-* Google Adsense - [Privacy Policy](https://policies.google.com/technologies/ads)
-* Magnite - [Privacy Policy](https://www.magnite.com/legal/advertising-technology-privacy-policy/)
-* Index Exchange - [Privacy Policy](http://www.indexexchange.com/privacy/)
-* Pubmatic - [Privacy Policy](https://pubmatic.com/legal/privacy-policy/)
-* Amazon - [Privacy Policy](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496)
-* OpenX - [Privacy Policy](https://www.openx.com/legal/privacy-policy/)
-* AppMonet - [Privacy Policy](https://appmonet.com/privacy-policy/8)
-* TripleLift - [Privacy Policy](https://triplelift.com/privacy/)
-* IpOnWeb - [Privacy Policy](https://www.iponweb.com/privacy-policy/)
-* Media.net - [Privacy Policy](https://www.media.net/privacy-policy/)
-* Sharethrough - [Privacy Policy](https://www.sharethrough.com/privacy-center/website-privacy-notice)
-* YieldMo - [Privacy Policy](https://yieldmo.com/privacy-policy/)
-* Fluct - [Privacy Policy](https://corp.fluct.jp/privacy/ads/)
-* SmartAdServer - [Privacy Policy](https://smartadserver.com/end-user-privacy-policy/)
-* Unruly - [Privacy Policy](https://unruly.co/legal/privacy/)
-* Venatus - [Privacy Policy](https://venatus.com/privacy)
-* Headerlift - [Privacy Policy](https://www.headerlift.com/privacy.html)
-* Rise - [Privacy Policy](https://risecodes.com/wp-content/uploads/2023/03/Risecodes.com-Privacy-Policy-March-23-2023.pdf)
-
-In addition, the Site also uses third party cookies such as cookies from Google Analytics.
-
-Google Analytics is a free service by Google to collect statistics of websites and to represent them in detail. The website administrator thus has a clear view on visitor flows, traffic flows and page displays. This way it is possible to adapt parts of a website or complete websites to the behavior and interests of the visitors.
-
-### How to manage cookies?
-
-You can do so by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. Contact us if you need any help in doing so.
-
-We also work with the following ID providers:
-
-* [Unified ID](https://www.thetradedesk.com/industry-initiatives/unified-id-solution) - [Privacy Policy](https://www.thetradedesk.com/general/privacy)
-* [ID5](https://www.id5.io/) - [Privacy Policy](https://www.id5.io/privacy-policy)
-* [Criteo](https://www.criteo.com/) - [Privacy Policy](https://www.criteo.com/privacy/)
-* [LiveRamp](https://liveramp.com/) - [Privacy Policy](https://liveramp.com/privacy/)
-* [Lotame](https://www.lotame.com/) - [Privacy Policy](https://www.lotame.com/about-lotame/privacy/lotames-products-services-privacy-policy/)
-
-VI. SECURITY MEASURES
----------------------
-
-CrazyGames has taken all reasonable and appropriate technical and organizational measures to ensure that your Personal Information is processed securely.
-
-If you have any questions on these security measures, feel free to contact us at the address mentioned below.
+Yes. A secure environment for your personal data is very important to us. We promise that we will make every effort to keep any personal data safe and take appropriate security measures.
 
 Within CrazyGames, personal data is only available to people who need to have access to it in relation to their job.
 
-At no moment in time will we directly sell or rent out your personal data to third parties. Occasionally we may use an external processor. If we do this, we will always ensure that your information is handled confidentially and in a safe manner. We also always draw up a contract with these processors. This way the processor will never be allowed to use your data on its own initiative and your data has to be erased as soon as the processor has finished the assignment.
+When we use external providers to help us with the processing of your personal data (“**Processor**”), we will always ensure that your personal data is handled confidentially and in a safe manner. We also always draw up a contract with these Processors. This way the Processor will never be allowed to use your personal data on its own initiative and your personal data has to be erased as soon as the Processor has completed the assignment for CrazyGames.
 
-VII. CONTACT INFORMATION OF DATA CONTROLLER
--------------------------------------------
+If you have any questions on these security measures, feel free to contact us at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact). 3. **IN CHARGE OF YOUR DATA**
 
-For all your questions or complaints regarding this Privacy Policy, you should contact us at the following e-mail address: [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/?contact=1). If you have any complaints regarding the processing of Your personal data, you can also address this complaint to the following address by registered mail:
+You are and always will be the boss of your personal data. After all, it is your personal data. You therefore have some rights that you can use. You can do the following with your data:
 
-    BV MAXFLOW
-    Data Protection desk
-    Ketelmakerij 20
-    3010 Kessel-Lo
-    Belgium
+* **View**: to see what personal data CrazyGames keeps about you;
+* **Edit**: to let CrazyGames know that, for example, your name is written incorrectly, or you have a different email address. You can edit your personal data of your Account (email address, location, username;
+* **Delete**: to let CrazyGames know that you no longer want CrazyGames to keep your personal data. You can also withdraw your previously given consent at any time. If CrazyGames has no valid reason to keep your data, CrazyGames will delete it;
+* **Freeze**: in some cases you can request the restriction of your personal data, which means that we are not allowed to do anything more with your personal data for a while;
+* **Stop receiving marketing communications**: to let CrazyGames know that you no longer wish to receive marketing communications (for example, a newsletter). To do so, you can unsubscribe at the bottom of every newsletter we send to you.
+* **Object to personalised advertising**: you can ask CrazyGames to stop processing data when approaching you with personalised advertising. You can manage this yourself via the CMP (see ‘Manage Your Ad Preferences’). Please note that CrazyGames offers the Platform for free to its users and generates revenue by allowing companies to advertise on our Platform. Therefore, it is not possible to use our Platform without any advertisements at all;
+* **Transfer**: in some cases you can ask CrazyGames to provide you with a copy of your personal data so it can be transferred to another company.
+* **Submit a complaint**: to submit a complaint about the processing of your personal information to CrazyGames at any time. You also have the right to take your complaint to a data protection supervisory authority.
+* **Object to Automated Individual Decision Making**: to let Crazy Games know that you do not want to be subject to a decision based solely on automated processing If you believe you believe that the automated decision-making process has a significant impact on your rights, interests, or legal status.
+* **Withdraw Consents**: in the situation where CrazyGames has used your consent as the foundation for processing your personal information, you have the right to retract that consent at any moment.
+
+You can exercise these rights by sending an email to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
+
+We will respond to all requests without undue delay. Should our response take more than one month due to the complexity or number of requests, we will inform you in a timely manner and keep you informed. In addition, we may ask you for more information to confirm your identity before we can respond to a request.
+
+### 9\. **MANAGE YOUR AD PREFERENCES**
+
+When you first visit our Websites, you will be prompted to accept, reject or set advertising services according to your preference via our Consent Management Platform (“**CMP**”). You can access this CMP at any time in the menu of our Platform via the "Preferences"-button.
+
+In addition, at the browser level you can manage your cookies by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Platform. For more information about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). Please note that limiting third-party cookies via your browser controls does not prevent our first-party cookies from being set in this way.
+
+If you would like to learn more about behavioural advertising or to opt-out of having this information used by companies that are part of the Network Advertising Initiative to deliver personalised ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt-out of receiving personalised ads from them at [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
+
+Some advertising networks require that we specifically list their opt-out links below. When you opt-out of a network, you may receive an “opt-out” cookie so that the network will know not to assign you new cookies in the future. You will continue to receive ads from that network, but not behaviorally targeted ads. If you erase your browser’s cookies, you may need to perform this process again.
+
+Please remember, if you opt-out of behaviorally targeted advertising you will continue to receive ads on our free, ad-supported Platform, but not behaviorally targeted ads. Also, if you opt-out of CrazyGames’s practices, you may continue to receive interest-based or contextual advertising through other companies.
+
+### 10\. **PRIVACY OF CHILDREN**
+
+CrazyGames strives to provide a safe environment for children. The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are younger than thirteen (13) years of age or the applicable minimum age in your country, then please use the [Kids Site](https://kids.crazygames.com/). The Kids Site doesn’t have any chat system or user login whatsoever and personalised advertising is not enabled.
+
+When creating an Account via your Google or Facebook account, Google or Facebook has verified your age. When you’re younger than thirteen (13) years of age or the applicable minimum age in your country, the consent of your parents will be asked by Google. More information about Google’s policy [https://families.google.com/familylink/privacy/child-policy/](https://families.google.com/familylink/privacy/child-policy/). Facebook does not allow children younger than thirteen (13) years of age or the applicable minimum age in the relevant country to create a Facebook account under its current terms of service. If you create an Account using your email, CrazyGames will ask you to confirm that you are older than thirteen (13) years of age.
+
+### 11\. **LINKS TO OTHER WEBSITES**
+
+Our Platform or web games of developers may contain links to other websites that do not belong to us. If you click on such a link, you will be directed to that other company's website such as social media. You should check the privacy policy of each website you visit by clicking on such a link.
+
+We have no control over and take no responsibility for the content, privacy policies or practices of any third-party websites or services.
+
+### 12\. **EXTERNALLY HOSTED GAMES**
+
+This Privacy Policy does not apply to the processing of personal data by data controllers other than CrazyGames, such as providers of third-party games available on the Platform. Such game providers may, for example, post their own advertisements, offer their own game accounts or a chat system to talk to other players. We will provide you with an explicit notice when you click to play such a game. The relevant provider of such a third-party game is itself responsible for ensuring that any processing of personal data by it in the context of a game complies with applicable data protection legislation.
+
+In principle, CrazyGames does not allow third-party providers to collect personal data on Platform users. If personal data is nevertheless collected by third-party providers, CrazyGames will require that any processing of personal data by them, for example in the context of a game, complies with applicable legislation.
+
+**Please note that if you choose to play a third-party game, you are playing that game in the environment of that game's third-party developer, over which we have no control. We, therefore, recommend that you read the privacy statement of that game distributor before playing the game. Below are CrazyGames' main gaming partners**:
+
+* Game Distribution - [for privacy policy click here](https://static.gamedistribution.com/policy/privacy-enduser.html)
+* Famobi - [for privacy policy click here](https://famobi.com/privacy-policy/?locale=en)
+* Gamepix - [for privacy policy click here](https://company.gamepix.com/privacy-policy/)
+* Gamerina - [for privacy policy click here](https://gamerina.eu/privacy/)
+* Coolgames - [for privacy policy click here](https://www.coolgames.com/privacy-policy)
+* FRVR - [for privacy policy click here](https://frvr.com/legal#PrivacyPolicy)
+
+### 13\. **UNITED STATES PRIVACY RIGHTS**
+
+**Residents of certain US states are granted specific legal rights regarding their personal information. These rights are not absolute and may be subject to exceptions and exemptions. For the purposes of this section, "Personal Information" is defined according to the California Consumer Privacy Act of 2018 ("CCPA") as information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.**
+
+**In these states, individuals have enhanced rights concerning their Personal Information, including the ability to access, confirm, correct, obtain a copy of, delete, and opt-out of the sale or sharing of their Personal Information. They also have the right to opt-out of profiling for targeted advertising. Depending on the circumstances, we may need to obtain consent before collecting sensitive personal information and limit its use and disclosure. Detailed notices about these rights and how to exercise them will be provided upon request.**
+
+We may collect or process (and may have collected or received during the 12 months prior to the last updated date of this Policy) the same categories of personal information as mentioned in Section 7 of this Policy. We collect and use these categories of personal data for the business purposes described in the "Why" column of Section 7, of this Policy, for the business purposes described therein. Furthermore, CrazyGames does not collect or process sensitive personal information for the purpose of inferring characteristics about a user.
+
+While we do not generally sell personal information in the traditional sense, certain state laws, such as the CCPA, may interpret certain activities involving the sharing or disclosure of personal information as a "sale" or to the extent that any activities described in Sections 4 and 5 of this Privacy Policy are considered a "sale" or "share" of personal information under applicable state laws, CrazyGames will comply with all legal requirements regarding such activities.
+
+Crazy Games retention practices are detailed in Section 6 "How Long Do We Keep Your Personal Data."
+
+Depending on your state of residence, your rights may include:
+
+* Right to Know and Delete: You may have the right to delete personal information we have collected about you and to know certain information about our data practices in the preceding 12 months.
+* Right to Opt-Out: You may have the right to opt-out of the sale or sharing of your personal information to third parties, targeted advertising, and profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. To opt out, click the opt-out link provided \[here\].
+* Right to Limit Use and Disclosure of Sensitive Personal Information: You may have the right to request that we limit the use and disclosure of your sensitive personal information.
+* Right to Obtain Consent: We may be required to obtain your consent before processing your sensitive Personal Information.
+* Right to Confirm and Obtain a Copy: You may have the right to confirm whether we are processing your Personal Information and, if feasible, obtain a copy of the Personal Information we have collected about you.
+* Right to Correct: You may have the right to correct inaccurate personal information that we maintain about you.
+* Right to Non-Discrimination For The Exercise Of Your Privacy Rights: You have the right to be protected from discrimination for exercising your CCPA rights. We will not discriminate against you for exercising your rights under the CCPA.
+
+To exercise any of these rights, please contact us via email [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact)
+
+### 14\. **CHANGES TO OUR PRIVACY POLICY**
+
+From time to time, it may be necessary to amend this Privacy Policy. When we announce changes to our Privacy Policy, we will change the "last updated" date at the top of the document. In case you have an Account, we will also notify you by email. You will always be able to access the most recent version of this Privacy Policy on our Websites.
+
+### 15\. **MORE QUESTIONS ABOUT YOUR DATA**
+
+If you have any questions or concerns about this Privacy Policy or our handling of your data, please send a message to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
+
+We hope that you will first contact us. But If your question or request is not resolved by us, you can also always lodge a complaint with the Belgian data protection authority. This authority supervises and makes sure that Belgium companies follow the rules with regards to the processing of personal data. You can reach this authority at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or by post at the following address:
+
+Data Protection Authority
+
+Drukpersstraat 35
+
+1000 Brussels
+
+**CRAZYGAMES COOKIE POLICY**
+----------------------------
+
+### 1\. **WHO WE ARE**
+
+We are CrazyGames. We offer a browser game platform where you can discover and experience many different web games in an easy way (“**Platform**”). You can access our Platform via an account (“**Account**”) or without. The Platform is made available via one of CrazyGames' websites as visible in the address bar (“**Websites**”).
+
+Legal information about CrazyGames ("**CrazyGames**", "**we**", "**us**"):
+
+Maxflow BV
+
+Ketelmakerij 20, 3010 Kessel-Lo, Belgium
+
+KBO 0550.758.377.
+
+### 2\. **WHAT ARE COOKIES?**
+
+Cookies are small files that are saved on your computer when you visit web pages. They contain information linked to a web browser and the specific website. They are saved in a specific folder on your hard drive. If you return to a specific website, this page can recognize the visitor by means of the cookie and further elaborate the history. A web beacon is an (often transparent) graphic image, usually no larger than 1 pixel, that is placed on a website and that is used to monitor the behaviour of the user visiting the website.
+
+Cookies are used to increase visitor-friendliness: by identifying visitors with a cookie, they do not always have to enter the same data such as login information or screen settings every time you visit the website.
+
+In this Cookie Policy, we explain what cookies are, their purposes and which cookies we use on our Websites. More information on your privacy and data protection rights can be found in our Privacy Policy.
+
+### 3\. **WHAT KIND OF COOKIES EXIST?**
+
+Often a distinction is made between two large groups of cookies:
+
+* **First party cookies**: these cookies are created by a website to make the web page function better. They regulate the technical part of a site, such as language choice or remembering the products in the shopping basket in an online store. The visited website creates and places first party cookies.
+    
+* **Third party cookies**: these cookies are created and placed on your computer by another (third) party than the website you visit. They remember the behaviour of a surfer. Examples are social media such as Facebook or Twitter, but Google Analytics as well. This is the system used most to measure website visits.
+    
+* Cookies essential for the correct functioning of our Websites do not require permission. All other cookies do.
     
 
-Afterwards, you can contact your Data Protection Authority to assist you or to file a complaint.
+### 4\. **WHY DO WE USE COOKIES?**
+
+Cookies are generally used to increase visitor-friendliness: by identifying visitors with a cookie, they do not always have to enter the same data such as login information or screen settings every time you visit the Websites. Like other commercial websites, CrazyGames and our authorised, third-party service providers use cookies and other similar information-gathering technologies throughout our Platform to collect certain information automatically and store it in log files for a variety of legitimate business interests and purposes.
+
+CrazyGames and its authorised, third-party service providers use cookies, beacons, and other similar technologies on our Websites either with your consent or for our legitimate business purposes to ensure you can navigate or otherwise use our Websites and access secure areas of our Websites. We also use these technologies for statistical purposes and to analyse and improve the use of our Platform and prepare aggregated usage reports.
+
+CrazyGames wants to inform users as much as possible about the cookies we use. Cookies are essential for us to optimise each visit to the Platform and offer you a better game experience or offer you relevant ads that you might be interested in. For example, cookies remember each choice made by you (e.g. choices related to language, newsletter, etc.) and help offer you all relevant services and suggestions.
+
+### 5\. **WHAT IS OUR LEGAL BASIS?**
+
+On our free, ad-supported Platform, we use these technologies for our legitimate business purposes of providing standard advertising controls, determining user response to advertisements and promotions, and delivering targeted advertisements that we or our authorised, third-party service providers believe will be of most interest to you.
+
+### 6\. **WHICH COOKIES DO WE USE?**
+
+**First party**. We will only use first party cookies to help improve your user and game experience on the Platform. We would do this by recording specific information about the user such as the language chosen, the pages visited and the duration of the visits.
+
+**Game distributors**. We may offer games from third-party game distributors on our Platform. By playing a third-party game, your personal data may be processed by the third-party game distributor (directly or through the use of cookies or similar technologies). We will provide you with an explicit notice when you click to play such a game.
+
+**Please note that if you choose to play a third-party game, you are playing that game in the environment of that game's third-party developer, over which we have no control. We, therefore, recommend that you read the privacy statement of that game distributor before playing the game. Below are CrazyGames' main gaming partners:**
+
+* Game Distribution - [for privacy policy click here](https://static.gamedistribution.com/policy/privacy-enduser.html)
+* Famobi - [for privacy policy click here](https://famobi.com/privacy-policy/?locale=en)
+* Gamepix - [for privacy policy click here](https://company.gamepix.com/privacy-policy/)
+* Gamerina - [for privacy policy click here](https://gamerina.eu/privacy/)
+* Coolgames - [for privacy policy click here](https://www.coolgames.com/privacy-policy)
+* FRVR - [for privacy policy click here](https://frvr.com/legal#PrivacyPolicy)
+
+**Third party**. Third parties might use information gathered by cookies and/or web beacons for the purpose of online behavioural advertising and/or multisite advertising. The types of information that is gathered by third party cookies and/or web beacons as well as the purpose(s) for which this information is used, are set out in the privacy policy of said third parties which CrazyGames encourages you to review. CrazyGames declines all and any liability for any third-party cookies or web beacons deployed by third parties for whatever purpose.
+
+The Websites may therefore use third party cookies such as cookies from:
+
+* Appnexus - [for privacy policy click here](https://www.appnexus.com/platform-privacy-policy)
+* Google Ad Exchange - [for privacy policy click here](https://policies.google.com/technologies/ads)
+* Google Adsense - [for privacy policy click here](https://policies.google.com/technologies/ads)
+* Magnite - [for privacy policy click here](https://www.magnite.com/legal/advertising-platform-privacy-policy/)
+* Index Exchange - [for privacy policy click here](http://www.indexexchange.com/privacy/)
+* Pubmatic - [for privacy policy click here](https://pubmatic.com/legal/privacy-policy/)
+* Amazon - [for privacy policy click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_sib?ie=UTF8&nodeId=468496)
+* OpenX - [for privacy policy click here](https://www.openx.com/legal/privacy-policy/)
+* TripleLift - [for privacy policy click here](https://triplelift.com/privacy/)
+* Media.net - [for privacy policy click here](https://www.media.net/privacy-policy/)
+* Sharethrough - [for privacy policy click here](https://privacy-center.sharethrough.com/en/consumer-privacy-notice/)
+* SmartAdServer - [for privacy policy click here](https://smartadserver.com/end-user-privacy-policy/)
+* Unruly - [for privacy policy click here](https://unruly.co/legal/privacy/)
+* Venatus - [for privacy policy click here](https://venatus.com/privacy)
+* Headerlift - [for privacy policy click here](https://www.headerlift.com/privacy.html)
+* Adagio - [for privacy policy click here](https://adagio.io/privacy)
+* Rise - [for privacy policy click here](https://www.riseinteractive.com/privacy-policy)
+* Cadent - [for privacy policy click here](https://cadent.tv/services-privacy-policy/)
+* Vidazoo - [for privacy policy click here](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
+
+**Google Analytics**. In addition, the Website also uses third party cookies such as cookies from Google Analytics. Google Analytics is a free service by Google to collect statistics of websites and to represent them in detail. The website administrator thus has a clear view on visitor flows, traffic flows and page displays. This way it is possible to adapt parts of a website or complete websites to the behaviour and interests of the visitors.
+
+### 7\. **HOW TO MANAGE YOUR COOKIES?**
+
+When you first visit our Websites, you will be prompted to accept, reject or set our cookies according to your preference via our Consent Management Platform (“**CMP**”). You can access this CMP at any time in the top right corner of our Websites (next to the "Login" button) via the "Preferences" button and you can configure your ad preferences.
+
+In addition, at the browser level you can manage your cookies by adapting your browser settings. Modern browsers allow you to choose to block cookies or to accept only cookies from specific websites. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Platform. For more information about cookies, please visit [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/). Please note that limiting third-party cookies via your browser controls does not prevent our first-party cookies from being set in this way.
+
+If you would like to learn more about behavioural advertising or to opt-out of having this information used by companies that are part of the Network Advertising Initiative to deliver personalised ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). Many of the same companies are members of the Self-Regulatory Program for Online Behavioral Advertising. You can learn more and opt-out of receiving personalised ads from them at [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
+
+Some advertising networks require that we specifically list their opt-out links below. When you opt-out of a network, you may receive an “opt-out” cookie so that the network will know not to assign you new cookies in the future. You will continue to receive ads from that network, but not behaviorally targeted ads. If you erase your browser’s cookies, you may need to perform this process again.
+
+Please remember, if you opt-out of interest-based advertising you will continue to receive ads on our free, ad-supported Platform, but not behaviorally targeted ads. Also, if you opt-out of CrazyGames’s practices, you may continue to receive interest-based advertising through other companies.
+
+### 8\. **CHANGES TO OUR COOKIE POLICY**
+
+From time to time, it may be necessary to amend this Cookie Policy. When we announce changes to our Cookie Policy, we will change the "last updated" date at the top of the document. In case you have an Account, we will also notify you by email. You will always be able to access the most recent version of this Cookie Policy on our Platform.
+
+### 9\. **MORE QUESTIONS ABOUT COOKIES**
+
+If you have any questions or concerns about this Cookie Policy or our use of cookies, please send a message to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) or through [our contact form](https://www.crazygames.com/contact).
