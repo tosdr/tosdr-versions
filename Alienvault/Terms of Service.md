@@ -1,4 +1,4 @@
-be\_ixf;ym\_202407 d\_20; ct\_50
+be\_ixf;ym\_202407 d\_22; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -169,9 +169,9 @@ be\_ixf;ym\_202407 d\_20; ct\_50
             
             Blog: Security Essentials
             
-            ##### Proactive Cyber Defense: The Essential Role of Internal Penetration Testing in the Age of AI
+            ##### 4 “Low-Priority” Online Threats That Can Inflict Serious Brand Damage
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/proactive-cyber-defense-the-essential-role-of-internal-penetration-testing-in-the-age-of-ai)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/4-low-priority-online-threats-that-can-inflict-serious-brand-damage)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -546,13 +546,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Bindu Sundaresan](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![David Balaban](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Bindu Sundaresan
+#### David Balaban
 
-Jul 17, 2024
+Jul 22, 2024
 
-### [Proactive Cyber Defense: The Essential Role of Internal Penetration Testing in the Age of AI](https://cybersecurity.att.com/blogs/security-essentials/proactive-cyber-defense-the-essential-role-of-internal-penetration-testing-in-the-age-of-ai)
+### [4 “Low-Priority” Online Threats That Can Inflict Serious Brand Damage](https://cybersecurity.att.com/blogs/security-essentials/4-low-priority-online-threats-that-can-inflict-serious-brand-damage)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
