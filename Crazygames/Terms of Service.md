@@ -133,172 +133,211 @@ General terms and conditions and privacy policy
 TERMS OF SERVICE
 ----------------
 
-> Last updated: 07.01.2020
+> Last updated: June 2024
 
-Please read these Terms of Service (the “**Agreement**”) carefully. By accepting these “Terms of Service, you consent to this Agreement.
+### 1\. **INTRODUCTION**
 
-This Agreement is between you and BV MAXFLOW, a limited liability company under Belgian law with registered office at Ketelmakerij 20, 3010 Kessel-Lo, Belgium, registered under company registration number 0550.758.377 (RLE Leuven), with trade name “CrazyGames” (hereinafter: “**CrazyGames**”, “**us**", "**we**", or "**our**") which operates the following sites:
+Welcome to the CrazyGames website (the "**Website**"). These Terms of Service (These "**Terms**") are concluded between Maxflow BV, a company incorporated under Belgian law, having its registered office at Ketelmakerij 20, 3010 Kessel-Lo, Belgium, registered under company registration number 0550.758.377 (RLE Leuven), with trade name “CrazyGames” ("**CrazyGames**", "**we**", "**us**") and the User ("**User**", "**you**" or "**your**") (together, the "**Parties**"). CrazyGames provides a web-based gaming platform ("**Platform**"). A User is a person who visits the Website and/or the Platform, plays web games, registers via any form available on the Website and/or the Platform, creates a login, subscribes or enters into a contract with CrazyGames.
 
-* [https://www.crazygames.com](https://www.crazygames.com/)
-* [https://www.1001juegos.com](https://www.1001juegos.com/)
-* [https://www.crazygames.nl](https://www.crazygames.nl/)
-* [https://www.crazygames.co.id](https://www.crazygames.co.id/)
-* [https://www.crazygames.fr](https://www.crazygames.fr/)
-* [https://www.crazygames.com.br](https://www.crazygames.com.br/)
-* [https://www.crazygames.ru](https://www.crazygames.ru/)
-* [https://www.crazygames.com.ua](https://www.crazygames.com.ua/)
-* [https://www.crazygames.fi](https://www.crazygames.fi/)
-* [https://www.crazygames.ro](https://www.crazygames.ro/)
-* [https://www.crazygames.se](https://www.crazygames.se/)
-* [https://www.crazygames.no](https://www.crazygames.no/)
-* [https://www.crazygames.hu](https://www.crazygames.hu/)
-* [https://www.crazygames.cz](https://www.crazygames.cz/)
-* [https://it.crazygames.com](https://it.crazygames.com/)
-* [https://de.crazygames.com](https://de.crazygames.com/)
-* [https://www.crazygames.pl](https://www.crazygames.pl/)
-* [https://gr.crazygames.com](https://gr.crazygames.com/)
-* [https://www.crazygames.dk](https://www.crazygames.dk/)
-* [https://tr.crazygames.com](https://tr.crazygames.com/)
-* [https://ar.crazygames.com](https://ar.crazygames.com/)
-* [https://vn.crazygames.com](https://vn.crazygames.com/)
-* [https://th.crazygames.com](https://th.crazygames.com/)
-* [https://www.crazygames.co.kr](https://www.crazygames.co.kr/)
+THESE TERMS OUTLINE OUR RELATIONSHIP WITH YOU, AS SUPPLEMENTED BY OUR [PRIVACY AND COOKIE POLICY](https://www.crazygames.com/privacy-policy). BY PLAYING WEB GAMES ON OUR PLATFORM OR OTHERWISE USING THE WEBSITE OR PLATFORM, YOU AGREE TO BE BOUND BY THE FOLLOWING TERMS AND CONDITIONS AND ALL APPLICABLE LAWS AND REGULATIONS.
 
-This Agreement concerns your use of (including any access to) our website currently (together with any materials and services available therein, and successor site(s) thereto, the “**Site**”).
+**The Platform is intended for visitors and users who are thirteen (13) years of age (or the applicable minimum age in your country) or older. If you are under thirteen (13) years of age (or the applicable minimum age in your country), this Platform is not intended for you. We do not knowingly collect or solicit personal information from children under the age of thirteen (13) (or the applicable minimum age in your country) through our Platform. However, we have launched a website specifically for younger children below the applicable minimum age, [https://kids.crazygames.com/](https://kids.crazygames.com/) (“Kids Site”) and have a separate privacy policy for the Kids Site, available on [https://kids.crazygames.com/privacy-policy](https://kids.crazygames.com/privacy-policy). CrazyGames does not allow personalised advertising on its Kids Site.**
 
-#### **BY USING THE SITE, YOU ACCEPT THESE TERMS OF SERVICE AND AFFIRM THAT YOU ARE OLDER THAN 13 YEARS.**
+**Your use of the Website and/or the Platform means that you are aware of, and agree to, the most recent version of the Terms and our Privacy Policy as published on the Website. It is your sole responsibility to ensure that your use of any and all third party websites or content complies with all third party requirements.**
 
-References to “you” and “your” in this Agreement will refer to both the individual using the Site.
+**We may modify these Terms from time to time. We will notify you of any material changes by email (if you are registered on our Platform via an account (“Account”)) or notice on the Website (where deemed necessary) and will note the date of the last change. If you use the Website or Platform after these updates are posted, you will be deemed to accept these changes and agree to be bound by them. These Terms will continue to apply until terminated, either by you or by us, as described in these Terms.**
 
-THIS AGREEMENT CONTAINS A MANDATORY ARBITRATION PROVISION THAT, AS FURTHER SET FORTH IN SECTION 18 BELOW, REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR ANY OTHER COURT PROCEEDINGS, OR CLASS ACTIONS OF ANY KIND.
+### 2\. **USER LICENSE AND GAMING CONTENT**
 
-### 1\. Changes
+**Summary: Our Platform (and all the available content) is licensed for your use, but its ownership as a property remains with CrazyGames and its licensors. Provided that you comply with all Terms of this Agreement, CrazyGames grants you a limited license to use our Platform and play the available web games for your personal, non-commercial use. You may also upload videos and stream games from our Platform on third party video sharing and streaming platforms but only when you follow our rules.**
 
-We may change this Agreement from time to time by notifying you of such changes by any reasonable means, including by posting a revised Agreement through the Site. Any such changes will not apply to any dispute between you and us arising prior to the date on which we posted the revised Agreement incorporating such changes, or otherwise notified you of such changes.
+CrazyGames grants you a non-exclusive, limited, non-sublicensable and non-transferable right to use our Platform, subject to the limitations set forth in these Terms and any other limitations communicated by us in writing. Nothing in these Terms prohibits CrazyGames from providing our Platform to others.
 
-You agree that your continued use of the Site following any changes to this Agreement will constitute an irrefutable presumption of your acceptance of such changes. The “_Last Updated_” legend above indicates when this Agreement was last changed. We may, at any time and without liability, modify or discontinue all or part of the Site (including access to the Site via any third-party links); charge, modify or waive any fees (which shall remain free for the foreseeable future) required to use the Site; or offer opportunities to some or all Site users.
+Except for the limited rights expressly granted below, we reserve all right, title and interest in and to the Website and our Platform, including all associated intellectual property rights. Any games available through our Platform are owned by CrazyGames or its partners. No rights are granted to you hereunder other than as expressly set forth herein. You agree not to reproduce, duplicate, copy, sell, resell or exploit any part of the Website/Platform, use of the Website/Platform or access to the Website/Platform without our express written consent. You may not duplicate, copy or reuse any part of the visual design elements without our express written consent.
 
-### 2\. Information Submitted Through the Site
+Users may upload, create and provide content to CrazyGames on its own ("**User Content**"). To the extent you upload, create or otherwise provide User Content to us, you grant CrazyGames a non-exclusive, royalty-free, worldwide, sublicensable, transferable, license to use, copy, store, modify, transmit and display such User Content as may be necessary or useful to provide and maintain the Website and/or Services. CrazyGames reserves the right, but is not obligated, to review and remove User Content that is deemed to violate the provisions of these Terms or otherwise inappropriate, third-party rights, or applicable laws or regulations.
 
-Your submission of information through the Site is governed by the CrazyGames Privacy Policy, located at [https://www.crazygames.com/privacy-policy](https://www.crazygames.com/privacy-policy) (the “**Privacy Policy**”). You represent and warrant that any information you provide in connection with the Site is and will remain accurate and complete, and that you will maintain and update such information as needed. To the extent that there is any contradiction between the provisions of this Agreement and the Privacy Policy regarding personal data, the provisions of the Privacy Policy shall prevail.
+Users may create, upload, livestream and monetise videos on online (live streaming) websites using gameplay and screenshots from games available on our Platform (“**Gaming Content**”), subject to the following conditions: (i) CrazyGames’ Platform and its logo will be clearly visible and not obscured, (ii) only monetise such videos and streams in accordance with the monetisation methods available on such online websites (e.g., Youtube, Twitch,...), (iii) you do not imply or state that your Gaming Content is officially affiliated with, sponsored, endorsed or approved by CrazyGames (except when we have entered into a partnership with you) and (iv) the User is responsible for any third party content (e.g. music) that it uses together with the Gaming Content. CrazyGames reserves the right to take action at any time against Gaming Content that CrazyGames believes is unlawful, infringing, inappropriate or not in accordance with these Terms.
 
-### 3\. Jurisdictional Issues
+CrazyGames will use its best efforts to resolve any issues, provided that the User complies with these Terms.
 
-The Site is controlled or operated (or both) from the European Economic Area, and is not intended to subject us to any jurisdiction or law outside this area. The Site may not be appropriate or available for use in some jurisdictions. Any use of the Site is at your own risk, and you must comply with all applicable laws, rules and regulations in doing so. We may limit the Site’s availability at any time, in whole or in part, to any person, geographic area or jurisdiction that we choose.
+### 3\. **ACCESS AND USE**
 
-### 4\. Rules of Conduct
+**Summary: You can access our Platform and play web games with or without an Account. You should keep your username and password protected and secure. All activities that occur under your Account or on our Website are your responsibility. The Account information you provide to us must be accurate, complete, and your own. We are not responsible for any loss or damage arising from your failure to comply with these requirements or as a result of the use of your Account. If you are under 13 years old (or the applicable minimum age in your country of residence) or do not understand what this agreement is about, you and your parent or guardian must review this agreement together. Your right to use our Platform is also subject to limitations. In general, you should avoid doing anything that might harm CrazyGames or anyone else. Among other things, you may not copy the Platform or use any content in an illegal or harmful manner, make any misrepresentations of or abuse our services, or otherwise violate anyone’s rights or any applicable laws. Failure to abide by any of these rules may bring us to revoke and cancel your Account, and void this agreement.**
 
-In connection with the Site, you must not:
+You can access our Platform with or without an Account. In order to create your Account, log in to the Website, and/or participate in the Platform offered, you must be eligible and agree to the terms and conditions set forth below. Failure to qualify and continuously comply with any of the following terms and conditions constitutes a violation of these Terms and may result in the termination of your Account and permission to use the Website and Platform. In particular, you agree that:
 
-* Post, transmit or otherwise make available through or in connection with the Site any materials that are or may be: (a) threatening, harassing, degrading, hateful or intimidating, or otherwise fail to respect the rights and dignity of others; (b) defamatory, libelous, fraudulent or otherwise tortious; (c) obscene, indecent, pornographic or otherwise objectionable; or (d) protected by copyright, trademark, trade secret, right of publicity or privacy or any other proprietary right, without the express prior written consent of the applicable owner.
-* Post, transmit or otherwise make available through or in connection with the Site any virus, worm, Trojan horse, Easter egg, time bomb, spyware or other computer code, file or program that is or is potentially harmful or invasive or intended to damage or hijack the operation of, or to monitor the use of, any hardware, software or equipment (each, a “Virus”).
-* Use the Site for any commercial purpose other than the one agreed upon by CrazyGames, or for any purpose that is fraudulent or otherwise tortious or unlawful.
-* Harvest or collect information about users of the Site unless this is done in accordance with the Privacy Policy.
-* Interfere with or disrupt the operation of the Site or the servers or networks used to make the Site available, including by hacking or defacing any portion of the Site; or violate any requirement, procedure or policy of such servers or networks.
-* Restrict or inhibit any other person from using the Site.
-* Reproduce, modify, adapt, translate, create derivative works of, sell, rent, lease, loan, timeshare, distribute or otherwise exploit any portion of (or any use of) the Site except as expressly authorized herein, without our express prior written consent.
-* Reverse engineer, decompile or disassemble any portion of the Site, except where such restriction is expressly prohibited by applicable law.
-* Remove any copyright, trademark or other proprietary rights notice from the Site.
-* Frame or mirror any portion of the Site, or otherwise incorporate any portion of the Site into any product or service, without our express prior written consent.
-* Systematically download and store Site content.
-* Use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, “scrape,” “data mine” or otherwise gather Site content, or reproduce or circumvent the navigational structure or presentation of the Site, without our express prior written consent. You are responsible for obtaining, maintaining and paying for all hardware and all telecommunications and other services needed to use the Site.
+* **You are either (a) of age to give legal consent or (b) you are a minor over thirteen (13) years old or the applicable minimum age in your country, state, or province or (c) have the consent of your parents (or your legal guardian), to access the Website under the laws of all jurisdictions applicable to you. We expressly reserve the right (but have no obligation) to request proof of your age at any time;**
+    
+* All information you provide to us in your registration form for the purpose of establishing your Account will be true and correct and you will promptly notify us of any changes to such information;
+    
+* Your Account is solely for your use and may not be used by any third party. You may not allow any third party to use your Account, password, login or user ID to access or use the Website, the Platform, or for any other purpose. We take no responsibility for any third party access to your Account. You must immediately notify us of any unauthorized use of your password and identification and/or breach. You accept responsibility for all activities that occur under your Account, username or password and all such use is deemed authorized by you. You are responsible for the security of the password you use to access the Platform and for all activities or actions under your password, whether your password is with our Platform or with a third party service;
+    
+* You have verified and determined that your use of the Website and Platform does not violate any law or regulation in any jurisdiction applicable to you. It is your sole responsibility to ensure that this is the case;
+    
+* You will not use the Website or the Platform for fraudulent or otherwise illegal purposes;
+    
+* You understand that we may detect your Internet access location, without obligation, and may use techniques intended to block or restrict access from a jurisdiction where participation in the Website or Platform is illegal or restricted;
+    
+* You will not mask your identity in any way, including, but not limited to, IP masking or accessing the Website through any type of proxy server; and
+    
+* You will ensure that all use of your Account is in full compliance with these Terms. We may suspend or terminate your access to the Website and Platform without notice to you if you do not use the Website or Platform for an extended period of time.
+    
+* You agree to use the Website and/or the Platform only for its intended purpose, and You will not:
+    
+    * sublicense, lease, rent, lend, distribute or otherwise transfer the Website and Platform to any third party;
+    * decompile, reverse engineer, disassemble or otherwise derive the source code of the Website and/or the Platform;
+    * use or copy the Website or the Platform, except as expressly permitted in these Terms;
+    * use the Website and/or the Platform to generate unsolicited email advertisements or spam;
+    * modify, remove or render illegible any copyright notice, digital watermark, proprietary legend or other notice contained on the Website and/or Platform.
+    * intentionally distribute worms, Trojan horses, corrupt files or other items of a destructive or misleading nature or use the Website and/or Platform for illegal, invasive, infringing, defamatory or fraudulent purposes;
+    * remove or in any way circumvent technical or other protection measures on the Website and/or on the Platform;
+    * Web Scraping and Automatic Data Collection: You may not, without our prior written consent, use any robot, spider, scraper, deep link or other automated data gathering or extraction tools, program, algorithm or methodology to access, acquire, copy or monitor any portion of the Website/Platform or its content, including user accounts, user data, or any other proprietary information or data related to the Website, for any purpose, including, but not limited to, commercial purposes such as training machine learning algorithms or artificial intelligence models
 
-### 5\. Embedding Games
+Notwithstanding above, you may (a) temporarily store copies of such materials in RAM, (b) store files that are automatically cached by your web browser to improve screen display, and (c) print a reasonable number of pages from the Website; provided that, in each case, you do not modify or delete any reference to copyright or other proprietary notices contained in such materials.
 
-CrazyGames allows other websites to iframe portions of the website only when it provides a button “embed” to retrieve an iframe source code.
+All content and/or opinions uploaded, expressed or submitted on any message board, blog, chat room or other publicly accessible part of the Website or games available on the Platform, and all articles and answers to questions, other than content provided by CrazyGames, are solely the opinions and responsibility of the person or entity sharing them and do not reflect the opinions of CrazyGames. You understand and acknowledge that you are responsible for the content you share and that you bear full responsibility for such content, including its legality, reliability and appropriateness.
+
+Notwithstanding the above, you agree to not post, transmit or otherwise make available through or in connection with the Platform any materials that are or may be: (a) threatening, harassing, degrading, hateful, intimidating an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability, or otherwise fail to respect the rights and dignity of others; (b) defamatory, libelous, fraudulent, invasive of another's privacy or otherwise tortious; (c) obscene, endangers or exploits children, indecent, pornographic or otherwise objectionable; or (d) protected by copyright, trademark, trade secret, right of publicity or privacy or any other proprietary right, without the express prior written consent of the applicable owner.
+
+### 4\. **VERIFICATION OF ACCOUNT INFORMATION**
+
+**Summary: We can always check whether your information and use of the Platform complies with our rules.**
+
+We reserve the right (but do not assume the obligation) to conduct an audit at any time to validate your Account information and/or to ensure that your participation on the Website and use of the Platform does not violate these Terms and/or any applicable law. You authorize us and our agents to make any inquiries to you and for us to use and disclose to third parties that we deem necessary to validate this information. To facilitate the aforementioned validation, you agree to provide sufficient information or documentation as we, in our sole discretion, may request. If you do not provide such information within thirty (30) days of our request, if your responses are incomplete or otherwise insufficient, or if we are unable to verify the information applicable to your account, your account may be terminated.
+
+Notwithstanding the above, CrazyGames reserves the right to remove the username linked to your Account if it does not comply with these Terms.
+
+### 5\. **PRIVACY**
+
+CrazyGames's use of your personal data and our responsibilities in protecting your privacy are described in our [Privacy Policy](https://www.crazygames.com/privacy-policy).
+
+### 6\. **THIRD PARTY WEBSITES AND PROMOTIONS**
+
+**Summary: We don’t control third-party services, and we’re not liable for any transactions you may perform with them, or for what they do. When using third-party services, your security is your responsibility. Please be aware that promotions that are made available through our Platform may be subject to additional rules.**
+
+Our Website contains links to other websites on the internet. CrazyGames is neither responsible for nor endorses the content, products, services or practices of third-party websites, including, but not limited to, websites embedded in our Website or third-party advertisements, and makes no representations regarding the quality, content, accuracy or suitability of these websites in the context of your viewing or use. Your use of third-party websites is at your own risk and subject to the terms of use of such websites.
+
+IN THE EVENT THAT YOU CHOOSE TO PURCHASE A PRODUCT OR SERVICE FROM A THIRD PARTY, CRAZYGAMES IS NOT RESPONSIBLE FOR SUCH PRODUCTS OR SERVICES, AS IT IS NOT A PARTY TO SUCH A TRANSACTION AND IS NOT LIABLE FOR ANY DIRECT OR INDIRECT COSTS OR DAMAGES ARISING FROM ANY DISPUTE BETWEEN YOU AND SUCH THIRD PARTY. NEITHER CRAZYGAMES, NOR ITS LICENSORS OR CONTRACTORS, MAKE ANY EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES REGARDING THE GOODS OR SERVICES OFFERED BY SUCH MERCHANT, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT OF CERTAIN RIGHTS OR COMPATIBILITY.
+
+Any sweepstakes, contests, raffles, surveys, games or similar promotions (collectively, “**Promotions**”) made available through the Website may be governed by rules that are separate from these Terms. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with these Terms, the Promotion rules will govern.
+
+### 7\. **IN-GAME PURCHASES & SERVICES**
+
+**Summary: CrazyGames does not sell in-game items or offer in-game services to our users. We do, however, facilitate such purchases and services through a third party. When you purchase in-game items or services for a web game, these purchases are linked to your Account with us. We have no control over these in-game items and services and reject any liability with respect to these purchases. Please carefully read the relevant terms and conditions of the third party and their refund policy before you buy any in-game items or services.**
+
+CrazyGames facilitates the purchase of in-game purchases between you and the developer of the web game through the third-party provider Xsolla. You acknowledge that this third-party has its own terms and conditions ([https://xsolla.com/eula](https://xsolla.com/eula)) and that we are not responsible for these terms. Your in-game purchases will be linked to your Account as well as to your account with the third-party provider.
+
+Please note that in-game purchases and the quality of the game are regulated by the agreement between you and the third party and/or game developers, where applicable. For example, CrazyGames is not responsible for any missing in-game items or any bugs that may occur. Refunds are subject to the refund policy of the third party. For Xsolla related purchases please refer to [https://xsolla.com/refund-policy](https://xsolla.com/refund-policy).
+
+### 8\. **TRADEMARKS, TRADE NAMES AND SERVICE MARKS**
+
+**Summary: You are not allowed to misuse any logos or names that are available on the Website.**
+
+Unless otherwise indicated, all logos, names, packaging designs and marks on the Website are trademarks or service marks owned or used under license by us or our business partners. The use or misuse of any of these marks or other information is strictly prohibited.
+
+### 9\. **EMBEDDING GAMES**
+
+**Summary: Other websites can embed our games under the conditions below. We can stop embedding any game at any time without justification.**
+
+CrazyGames allows other websites to iframe portions of the Website only when it provides a button “embed” to retrieve an iframe source code.
 
 When embedded, there will be in-game advertisements inside the game.
 
-The site reserves the right to withdraw qualification at any time and block sites from embedding games at its own discretion, without warning or the requirement to provide justification.
+CrazyGames reserves the right to withdraw qualification at any time and block sites from embedding games at its own discretion, without warning or the requirement to provide justification.
 
 It is strictly forbidden to:
 
-* Reproduce, modify, adapt, translate, create derivative works of any iframed portion of the Site
-* Remove, hide or in any other way hinder the viewability of any copyright, trademark or other proprietary rights notice from the iframed portion of the Site.
-* Remove, block, hide or in any other way hinder the performance of links in the iframed portion of the Site.
-* Remove, block, make invisible or in any other way hinder the operation of advertising included in the iframed portion of the Site.
-* Add any layers above the iframed portion of the Site.
+* Reproduce, modify, adapt, translate, create derivative works of any iframed portion of the Website.
+* Remove, hide or in any other way hinder the viewability of any copyright, trademark or other proprietary rights notice from the iframed portion of the Website.
+* Remove, block, hide or in any other way hinder the performance of links in the iframed portion of the Website.
+* Remove, block, make invisible or in any other way hinder the operation of advertising included in the iframed portion of the Website.
+* Add any layers above the iframed portion of the Website.
+* CrazyGames reserves the right to discontinue an iframed portion of the Website at any time.
+* If you have any questions regarding embedding our games, please reach out to \[[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)\](mailto:[\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)).
 
-The site reserves the right to discontinue an iframed portion of the Site at any time.
+### 10\. **WARRANTIES; DISCLAIMER**
 
-If you have any questions regarding embedding our games, please reach out to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection).
+**Summary: We offer no warranties regarding our services and the Platform, including any regarding their quality, reliability, security, or compatibility.**
 
-### 6\. Products
+**YOU WARRANT THAT YOU WILL ABIDE BY AND RESPECT THESE TERMS OF SERVICE AND ANY ADDITIONAL GUIDELINES OF OUR PLATFORM. IF THESE CAUSE YOU ANY HARM, WE WILL NOT BE HELD LIABLE.**
 
-The Site may make available listings, descriptions and images of goods or services or related coupons or discounts (collectively, “**Products**”), as well as references and links to Products. Such Products may be made available by us or by third parties, and may be made available for any purpose, including general information purposes. The availability through the Site of any listing, description or image of a Product does not imply our endorsement of such Product or affiliation with the provider of such Product. We make no representations as to the completeness, accuracy, reliability, validity or timeliness of such listings, descriptions or images (including any features, specifications and prices contained therein). Such information and the availability of any Products (including the validity of any coupon or discount) is subject to change at any time without notice. It is your responsibility to ascertain and obey all applicable local, state, federal and foreign laws (including minimum age requirements) regarding the possession, use and sale of any Product.
+You understand that we cannot and do not represent or warrant that files available for downloading from the Internet will be free of viruses, worms, Trojan horses or other code that may have contaminated or destructive properties. You are responsible for implementing sufficient procedures and checkpoints to meet your specific requirements for accuracy of data input and output, and for maintaining a means outside the Website and Platform for reconstructing lost data. We assume no responsibility or risk for your use of the Internet.
 
-### 7\. Profiles and Forums.
+OUR SERVICES AND ALL MATERIALS ON THE WEBSITE AND PLATFORM ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. CRAZYGAMES MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE ACCURACY, COMPLETENESS, OR SUITABILITY OF ANY MATERIAL ON THE WEBSITE, OR ON ANY WEBSITE OR WEBSITES "LINKED" TO THE WEBSITE. CRAZYGAMES DOES NOT WARRANT THAT THE WEBSITE AND/OR OUR PLATFORM WILL BE AVAILABLE, UNINTERRUPTED, ERROR-FREE, OR FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
-If we decide to implement this functionality, Site visitors may make available certain materials (each, a “**Submission**”) through or in connection with the Site, including on profile pages or on the Site’s interactive services, such as message boards and other forums, and chatting, commenting and other messaging functionality in accordance with the Rules of Conduct set out in Section 4. CrazyGames has no control over and is not responsible or liable for any use or misuse (including any distribution) by any third party of Submissions. **IF YOU CHOOSE TO MAKE ANY OF YOUR PERSONALLY IDENTIFIABLE OR OTHER INFORMATION PUBLICLY AVAILABLE THROUGH THE SITE, YOU DO SO AT YOUR OWN RISK.** See however Section V.3 of the Privacy Policy as it relates to the collection of personal information.
+### 11\. **LIMITATION OF LIABILITY**
 
-### 8\. License.
+**Summary: To the extent permitted under applicable law, we are not liable for user damages exceeding 100 EUR, as our Platform is free to play.**
 
-For purposes of clarity, you retain ownership of your Submissions. For each Submission, you hereby grant to us a worldwide, royalty-free, fully paid-up, non-exclusive, perpetual, irrevocable, transferable and fully sub-licensable (through multiple tiers) license, without additional consideration to you or any third party, to reproduce, distribute, perform and display (publicly or otherwise), create derivative works of, adapt, modify and otherwise use, analyze and exploit such Submission, in any format or media now known or hereafter developed, and for any purpose (including promotional purposes, such as testimonials).
+**TO THE EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES WILL CRAZYGAMES OR ITS DIRECTORS, EMPLOYEES, PARTNERS, LICENSORS, CONTRACTORS, AGENTS, SUPPLIERS OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOST PROFITS, LOSS OF DATA, USE, GOODWILL OR OTHER INTANGIBLE LOSSES, ARISING FROM (I) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PLATFORM; (II) ANY THIRD-PARTY CONDUCT OR CONTENT ON THE PLATFORM; (III) ANY CONTENT OBTAINED FROM THE PLATFORM; (IV) ANY ACTION TAKEN IN CONNECTION WITH COPYRIGHT, TRADEMARK, OR INTELLECTUAL PROPERTY RIGHTS INFRINGEMENT; (V) ANY DAMAGE CAUSED BY A USER'S COMPUTER, SOFTWARE, HARDWARE SECURITY BREACH INCLUDING, BUT NOT LIMITED TO, DAMAGE FROM ANY SECURITY BREACH, VIRUS, BUGS, TAMPERING, FRAUD, ERRORS, DELAYS, OR MALFUNCTIONS; AND (IIV) UNAUTHORIZED ACCESS, USE OR MODIFICATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF ANY REMEDY SET FORTH HEREIN IS FOUND TO FAIL OF ITS ESSENTIAL PURPOSE.**
 
-In addition, if you provide to us any ideas, proposals, suggestions or other materials through any means (“**Feedback**”), whether related to the Site or otherwise, such Feedback will be deemed a Submission, and you hereby acknowledge and agree that such Feedback is not confidential, and that your provision of such Feedback is gratuitous, unsolicited and without restriction, and does not place CrazyGames under any fiduciary or other obligation.
+CERTAIN JURISDICTIONS PROHIBIT THE DISCLAIMER OF IMPLIED WARRANTIES OR THE LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. THEREFORE, SOME OF THE LIMITATIONS AND EXCLUSIONS STATED ABOVE MAY NOT APPLY TO YOU IF YOU RESIDE IN ONE OF THOSE JURISDICTIONS.
 
-You represent and warrant that you have all rights necessary to grant the licenses granted in this section, and that your Submissions, and your provision thereof through and in connection with the Site, are complete and accurate, and are not fraudulent, tortious or otherwise in violation of any applicable law or any right of any third party. To the extent permitted by applicable law, you further irrevocably waive any “moral rights” or other rights with respect to attribution of authorship or integrity of materials regarding each Submission that you may have under any applicable law under any legal theory.
+TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, THE MAXIMUM LIABILITY OF CRAZYGAMES TO YOU ARISING FROM THESE TERMS OF SERVICE WILL IN NO EVENT EXCEED THE AMOUNT OF ONE HUNDRED (100) EUR CONSIDERING THE USE OF THE WEBSITE IS FREE OF CHARGE. THE AFOREMENTIONED LIMITATIONS WILL NOT IMPACT USER’S STATUTORY RIGHTS AND DOES NOT APPLY TO A PARTY'S LIABILITY RESULTING FROM (I) FRAUD OR DECEIT, (II) GROSS NEGLIGENCE; (III) DEATH OR PERSONAL INJURY; AND/OR (IV) WILLFUL MISCONDUCT.
 
-### 9\. Monitoring
+12\. **INDEMNIFICATION**
+------------------------
 
-We may (but have no obligation to) monitor, evaluate, alter or remove Submissions before or after they appear on the Site, or analyze your access to or use of the Site. We may disclose information regarding your access to and use of the Site, and the circumstances surrounding such access and use, to anyone for any reason or purpose without prejudice to the Privacy Policy.
+**Summary: If CrazyGames is sued or otherwise put in harm’s way because of something you did, you will bear the associated costs and damages.**
 
-### 10\. Your Limited Rights
+You agree to defend, indemnify and hold harmless CrazyGames, its subsidiaries, affiliates, licensors, content providers, service providers, employees, agents, officers, directors and contractors (the "**Indemnified Parties**") from and against any and all liability, loss or damage, costs or expenses, including but not limited to court costs, attorneys' fees, and any awards or damages caused by, in connection with or incidental to: (a) your use of our Platform; (b) the Website; or (c) other services offered through the Website.
 
-Subject to your compliance with this Agreement, and solely for so long as you are permitted by us for you to use the Site, you may view any portion of the Site to which we provide you access under this Agreement solely for your personal, non-commercial use.
+### 13\. **TERMINATION OR DELETION OF ACCOUNTS**
 
-### 11\. CrazyGames’ Proprietary Rights
+**Summary: You can delete your Account at any time yourself in our Platform. Furthermore, we can terminate or suspend your access to our Platform when we believe that you do not follow our rules.**
 
-We and our suppliers own the Site, which is protected by proprietary rights and laws. Our trade names, trademarks and service marks include CrazyGames, 1001Juegos and any associated logos. All trade names, trademarks, service marks and logos on the Site not owned by us are the property of their respective owners. You may not use our trade names, trademarks, service marks or logos in connection with any product or service that is not ours, or in any manner that is likely to cause confusion. Nothing contained or made available on the Site should be construed as granting any right to use any trade names, trademarks, service marks or logos without the express prior written consent of the owner.
+**CrazyGames reserves the right to terminate these Terms and end your access to the Website and/or Platform, or temporarily suspend all or part of your access, at any time and without prior notice under the following circumstances:** \* **If we have a reasonable belief that you have violated, or may potentially violate, any term or provision outlined in these Terms;** \* **If we determine that termination or suspension of your access is required by applicable law or legal obligation;** \* **At our sole discretion, for any other reason we deem suspension or termination necessary or appropriate.** \* We may delete any Account Information or other material related to your use of the Website and/or our Platform on our servers or otherwise in our possession. You acknowledge that we will not be liable to you or any third party for any termination of your access to the Website and/or our Platform. \* You can delete your Account at any time by going to account settings and clicking on “Delete your account”, or request us to delete your Account by email.
 
-### 12\. Third Party Materials; Links
+### 14\. **INFORMATION, COMPLAINTS & COPYRIGHT CLAIMS**
 
-Certain Site functionality may make available access to information, products, services and other materials (including, without limitation, advertisements and promotional material) made available by third parties (including, without limitation, through techniques such as iFrames), including Submissions (“Third Party Materials”), or allow for the routing or transmission of such Third Party Materials, including via links. By using such functionality, you are directing us to access, route and transmit to you the applicable Third Party Materials.
+**Summary: If you have any concerns or complaints, please email us at** [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)**, or write to us at: Ketelmakerij 20, 3010 Kessel-Lo, Belgium. When you provide us with feedback we are free to use such feedback at our own discretion.**
 
-We neither control nor endorse, nor are we responsible for, any Third Party Materials, including the accuracy, validity, timeliness, completeness, reliability, integrity, quality, legality, usefulness or safety of Third Party Materials, or any intellectual property rights therein. Certain Third Party Materials may, among other things, be inaccurate, misleading or deceptive. Nothing in this Agreement shall be deemed to be a representation or warranty by CrazyGames with respect to any Third Party Materials including, without limitation, any cookies or web beacons for whatever purposes pursued. We have no obligation to monitor Third Party Materials, and we may block or disable access to any Third Party Materials (in whole or part) through the Site at any time. In addition, the availability of any Third Party Materials through the Site does not imply our endorsement of, or our affiliation with, any provider of such Third Party Materials, nor does such availability create any legal relationship between you and any such provider.
+If you have a question or complaint regarding the Platform or Website, please fill in our contact form at [https://www.crazygames.com/contact](https://www.crazygames.com/contact) or send an e-mail to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection). You may also contact us by writing to Ketelmakerij 20, 3010 Kessel-Lo, Belgium.
 
-**YOUR USE OF THIRD PARTY MATERIALS IS AT YOUR OWN RISK AND IS SUBJECT TO ANY ADDITIONAL TERMS, CONDITIONS AND POLICIES APPLICABLE TO SUCH THIRD PARTY MATERIALS (SUCH AS TERMS OF SERVICE OR PRIVACY POLICIES OF THE PROVIDERS OF SUCH THIRD PARTY MATERIALS).**
+We value your opinion. if you provide us with feedback, including data, variables, comments, suggestions, ideas, notes, drawings, graphics, concepts or other information ("**Feedback**"), you are providing that Feedback, and all of your rights thereto, to us free of charge, and such Feedback will be treated as non-confidential and non-proprietary and may be used by us for any purpose, without your consent or any compensation to you or anyone else. This applies whether you submit such Feedback to us by email, through a form on the Website, on a bulletin board or otherwise.
 
-### 13\. Promotions
+If you believe in good faith that materials available on the Website or Platform infringe your copyright, you (or your agent) may send us a written notice by courier, mail or e-mail, requesting that we remove such material or block access to it. If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, you can send us a counter-notice. Notices and counter-notices must be sent in writing to: BV MAXFLOW, IP Infringement Desk, Ketelmakerij 20, 3010 Kessel-Lo, Belgium or by e-mail to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection).
 
-Any sweepstakes, contests, raffles, surveys, games or similar promotions (collectively, “**Promotions**”) made available through the Site may be governed by rules that are separate from this Agreement. If you participate in any Promotions, please review the applicable rules as well as our Privacy Policy. If the rules for a Promotion conflict with this Agreement, the Promotion rules will govern.
+**For US Residents Only**: If you are a copyright owner or an agent thereof and believe that your intellectual property rights have been infringed upon, you may submit a notification pursuant to the Digital Millennium Copyright Act (“DMCA”) by providing our copyright agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail):
 
-### 14\. Disclaimer Of Warranties
+* A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+* identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
+* identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled and information reasonably sufficient to permit CrazyGames to locate the material;
+* information reasonably sufficient to permit CrazyGames to contact you, such as an address, telephone number, and, if available, an e-mail address;
+* a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+* a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+* You can contact us via email ([\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection)). Upon receipt of a notification, CrazyGames will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Website or Platform.
+* We suggest that you consult your legal advisor before filing a notice or counter-notice.
 
-TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW: (A) THE SITE AND ANY PRODUCTS AND THIRD PARTY MATERIALS ARE MADE AVAILABLE TO YOU ON AN “AS IS,” “WHERE IS” AND “WHERE AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY; AND (B) CrazyGames DISCLAIMS ALL WARRANTIES WITH RESPECT TO THE SITE AND ANY PRODUCTS AND THIRD PARTY MATERIALS, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND TITLE. ALL DISCLAIMERS OF ANY KIND (INCLUDING IN THIS SECTION AND ELSEWHERE IN THIS AGREEMENT) ARE MADE FOR THE BENEFIT OF BOTH CrazyGames AND ITS AFFILIATES AND THEIR RESPECTIVE SHAREHOLDERS, DIRECTORS, OFFICERS, EMPLOYEES, AFFILIATES, AGENTS, REPRESENTATIVES, LICENSORS, SUPPLIERS AND SERVICE PROVIDERS (COLLECTIVELY, THE “**AFFILIATED ENTITIES**”), AND THEIR RESPECTIVE SUCCESSORS AND ASSIGNS.
+### 15\. **DISPUTES**
 
-While we try to maintain the timeliness, integrity and security of the Site, we do not guarantee that the Site is or will remain updated, complete, correct or secure, or that access to the Site will be uninterrupted. The Site may include inaccuracies, errors and materials that violate or conflict with this Agreement. Additionally, third parties may make unauthorized alterations to the Site. If you become aware of any such alteration, contact us at [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection) with a description of such alteration and its location on the Site.
+**Summary: Mindful of the high costs of legal disputes, we want to try to settle any disputes with you related to the Terms by initially attempting to resolve the matter in good faith through written notice.**
 
-### 15\. Limitation Of Liability
+Mindful of the high cost of legal dispute, not only in money but also in time and energy, both you and CrazyGames agree to the following dispute resolution procedure: In the event of any controversy, claim, action, or dispute arising out of or related to the breach, enforcement, interpretation, or validity of these Terms or any part of it, the party asserting the dispute will first try in good faith to settle such dispute by providing written notice to the other party by registered mail describing the facts and circumstances (including any relevant documentation) of the dispute and allowing the receiving party 30 days from the date of mailing to respond to the dispute. Notice will be sent to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection). You may also contact us by writing to Ketelmakerij 20, 3010 Kessel-Lo, Belgium.
 
-TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW: (A) CrazyGames WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY OR PUNITIVE DAMAGES OF ANY KIND, UNDER ANY CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHER THEORY, INCLUDING DAMAGES FOR LOSS OF PROFITS, USE OR DATA, LOSS OF OTHER INTANGIBLES, LOSS OF SECURITY OF SUBMISSIONS (INCLUDING UNAUTHORIZED INTERCEPTION BY THIRD PARTIES OF ANY SUBMISSIONS (B) WITHOUT LIMITING THE FOREGOING, WE SHALL NOT BE LIABLE FOR DAMAGES OF ANY KIND RESULTING FROM YOUR USE OF OR INABILITY TO USE THE SITE OR FROM ANY PRODUCTS OR THIRD PARTY MATERIALS, INCLUDING FROM ANY VIRUS THAT MAY BE TRANSMITTED IN CONNECTION THEREWITH; (C) YOUR SOLE AND EXCLUSIVE REMEDY FOR DISSATISFACTION WITH THE SITE OR ANY PRODUCTS OR THIRD PARTY MATERIALS IS TO STOP USING THE SITE; AND (D) OUR MAXIMUM AGGREGATE LIABILITY OF FOR ALL DAMAGES, LOSSES AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, SHALL BE THE GREATER OF THE TOTAL AMOUNT, IF ANY, PAID BY YOU TO US TO USE THE SITE BUT NO MORE THAN 100 EUR CONSIDERING USE OF THE SITE IS FREE OF CHARGE. ALL LIMITATIONS OF LIABILITY OF ANY KIND (INCLUDING IN THIS SECTION AND ELSEWHERE IN THIS AGREEMENT) ARE MADE FOR THE BENEFIT OF BOTH US AND THE AFFILIATED ENTITIES, AND THEIR RESPECTIVE SUCCESSORS AND ASSIGNS.
+Unless you indicate otherwise in your notice, CrazyGames will respond to your notice using your last-used e-mail address that we have.
 
-### 16\. Indemnity
+In the event that CrazyGames is unable to resolve the dispute, you and CrazyGames both agree that the parties will resolve their dispute in accordance with article 16 below.
 
-To the fullest extent permitted under applicable law, you agree to defend, indemnify and hold us and the Affiliated Entities harmless including their respective successors and assigns, from and against all claims, liabilities, damages, judgments, awards, losses, costs, expenses and fees (including attorneys’ fees) arising out of or relating to (a) your use of, or activities in connection with, the Site (including all Submissions); and (b) any violation or alleged violation of this Agreement by you.
+### 16\. **APPLICABLE LAW AND COMPETENT COURT**
 
-### 17\. Termination
+**Summary: As a Belgium-based company, the law that governs these terms and conditions and our relationship with you is Belgian law. Any disputes need to be resolved by the competent courts of Leuven (Belgium).**
 
-This Agreement is effective until terminated. We may terminate or suspend your use of the Site at any time and without prior notice, for any or no reason, including, without limitation, if CrazyGames determines in its sole discretion that you have not adhered to the Rules of Conduct or if CrazyGames believes that you have violated or acted inconsistently with the letter or spirit of this Agreement. Upon any such termination or suspension, your right to use the Site will immediately cease, and CrazyGames may, without liability to you or any third party, immediately deactivate or delete your user name, password and account, and all associated materials, without any obligation to provide any further access to such materials.
+These Terms will be construed in accordance with Belgian law, without prejudice to any other imperative provision of law more favorable to you applicable in your country of habitual residence.
 
-### 18\. Governing Law; Arbitration
+The competent courts of Leuven will have exclusive jurisdiction over any dispute or controversy arising from or related to these Terms or its subject matter. If you are a resident of an EU Member State or a country or state where this clause is prohibited by local law, this clause does not apply to you and does not deprive you of the protection of the mandatory provisions of consumer protection laws in your country. CrazyGames nonetheless reserves the right to take legal proceedings in a country other than Belgium, to protect its interests or to enforce its rights where it deems it appropriate to do so.
 
-The terms of this Agreement are governed by the laws of Belgium without regard to its principles of conflicts of law, and regardless of your location. ALL DISPUTES ARISING OUT OF OR RELATED TO THIS AGREEMENT OR ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND CrazyGames, WHETHER BASED IN CONTRACT, TORT, STATUTE, FRAUD, MISREPRESENTATION OR ANY OTHER LEGAL THEORY, WILL BE RESOLVED THROUGH FINAL AND BINDING ARBITRATION BEFORE A NEUTRAL ARBITRATOR INSTEAD OF IN A COURT BY A JUDGE OR JURY AND YOU AGREE THAT YOU AND CrazyGames ARE EACH WAIVING THE RIGHT TO TRIAL BY A JURY. YOU AGREE THAT ANY ARBITRATION UNDER THIS AGREEMENT WILL TAKE PLACE ON AN INDIVIDUAL BASIS; CLASS ARBITRATIONS AND CLASS ACTIONS ARE NOT PERMITTED AND YOU ARE AGREEING TO GIVE UP THE ABILITY TO PARTICIPATE IN A CLASS ACTION. The arbitration will be administered by CEPINA by a single arbitrator in accordance with the rules of procedure of CEPINA. The place of arbitration will be Brussels, Belgium and the language of the proceedings will be English unless the parties decide otherwise. The arbitrator will conduct hearings, if any, by teleconference or videoconference, rather than by personal appearances, unless the arbitrator determines upon request by you or by us that an in-person hearing is appropriate. The arbitrator’s decision will follow the terms of this Agreement and will be final and binding. The arbitrator will have authority to award temporary, interim or permanent injunctive relief or relief providing for specific performance of this Agreement, but only to the extent necessary to provide relief warranted by the individual claim before the arbitrator. The award rendered by the arbitrator may be confirmed and enforced in any court having jurisdiction thereof.
+To the extent permitted by law, the Parties agree that all claims and disputes made against the other in your or its individual capacity, and not as a plaintiff or class member in any purported class action, class arbitration, or representative proceeding.
 
-### 19\. Filtering
+### 17\. **MISCELLANEOUS**
 
-We hereby notify you that parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available from [https://en.wikipedia.org/wiki/Comparison\_of\_content-control\_software\_and\_providers](https://en.wikipedia.org/wiki/Comparison_of_content-control_software_and_providers). Please note that CrazyGames does not endorse any of the products or services listed on such site.
+If any provision of these Terms is deemed invalid, illegal or unenforceable, such provision will be deemed amended to comply with applicable law and the remaining provisions of the Terms will continue in full force and effect to the extent permitted by law.
 
-### 20\. Information or Complaints
+These Terms and our Privacy Policy represent the entire understanding and agreement between the parties with respect to the subject matter hereof and supersede all prior or contemporaneous oral or written communications with respect to the subject matter.
 
-If you have a question or complaint regarding the Site, please fill in our contact form at [https://www.crazygames.com](https://www.crazygames.com/?contact=1) or send an e-mail to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection). You may also contact us by writing to Ketelmakerij 20, 3010 Kessel-Lo, Belgium.
+Your use of the Website/Platform does not create an employment, partnership, joint venture or any other relationship beyond that of a website user governed by these Terms. CrazyGames cannot be held responsible in case of default (temporary or otherwise) or in case of failure to perform any of its obligations as a result of a case of force majeure or coincidence.
 
-### 21\. Copyright Infringement Claims
+These Terms, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by CrazyGames without restriction.
 
-If you believe in good faith that materials available on the Site infringe your copyright, you (or your agent) may send us a written notice by courier, mail or e-mail, requesting that we remove such material or block access to it. If you believe in good faith that someone has wrongly filed a notice of copyright infringement against you, you can send us a counter-notice. Notices and counter-notices must be sent in writing to : BV MAXFLOW, IP Infringement Desk, Ketelmakerij 20, 3010 Kessel-Lo, Belgium or by e-mail to [\[email protected\]](https://www.crazygames.com/cdn-cgi/l/email-protection).
-
-We suggest that you consult your legal advisor before filing a notice or counter-notice.
-
-### 22\. Miscellaneous
-
-This Agreement does not, and shall not be construed to, create any partnership, joint venture, employer-employee, agency or franchisor-franchisee relationship between you and CrazyGames. If any provision of this Agreement is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from this Agreement and will not affect the validity and enforceability of any remaining provision. You may not assign, transfer or sublicense any or all of your rights or obligations under this Agreement without our express prior written consent. We may assign, transfer or sublicense any or all of our rights or obligations under this Agreement without restriction. No waiver by either party of any breach or default under this Agreement will be deemed to be a waiver of any preceding or subsequent breach or default. All terms defined in the singular shall have the same meanings when used in the plural, where appropriate and unless otherwise specified. Any use of the term “including” or variations thereof in this Agreement shall be construed as if followed by the phrase “without limitation.” This Agreement, including any terms and conditions incorporated herein, is the entire agreement between you and CrazyGames relating to the subject matter hereof, and supersedes any and all prior or contemporaneous written or oral agreements or understandings between you and CrazyGames relating to such subject matter. Notices to you (including notices of changes to this Agreement) may be made via posting on the Site or by e-mail (including in each case via links), or by regular mail. Without limitation, a printed version of this Agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. CrazyGames will not be responsible for any failure to fulfill any obligation due to any cause beyond its control.
+CrazyGames' waiver of any term in these Terms does not imply an ongoing or additional waiver of that term or any other term, and CrazyGames' failure to enforce a right or provision does not constitute a waiver of that right or provision.
