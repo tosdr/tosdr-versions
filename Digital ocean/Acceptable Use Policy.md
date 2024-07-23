@@ -237,7 +237,7 @@
 Acceptable Use Policy
 =====================
 
-Last Updated on July 16, 2024
+Last Updated on October 14, 2020
 
 This Acceptable Use Policy (this “AUP”) describes material and activities that are not allowed in connection with the Services offered by DigitalOcean. This AUP is not exhaustive, and DigitalOcean reserves the right to take remedial action in connection with content or uses that are not specifically described below.
 
