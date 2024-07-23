@@ -215,7 +215,7 @@ We are leading the call to action for accountability in our industry. Location t
 Your privacy choices
 --------------------
 
-Foursquare knows that you take your privacy seriously. We do, too. That’s why we are transparent about our data practices and give you control over your personal data.
+Foursquare knows that you take your privacy seriously. We do, too. We seek to be transparent about our data practices and give you control over your personal data.
 
 ![Privacy Choices](https://location.foursquare.com/wp-content/uploads/sites/2/2023/06/privacy-choices-thumb-v1.png)
 
@@ -225,14 +225,14 @@ Foursquare has established processes for you to exercise your privacy rights. Yo
   
 In addition, you may have the right to (1) opt out of the sale of your personal data, (2) opt out of the sharing of your personal data for cross-context behavioral advertising purposes, (3) opt out of the processing of your personal data for targeted advertising, and (4) limit the use and disclosure of your sensitive personal data.  
   
-**Detailed instructions on the steps you can take are provided below.**
+****Detailed instructions on the steps you can take are provided below.****
 
 ****View your personal data****
 -------------------------------
 
 #### ****City Guide****
 
-Log into the Foursquare City Guide app and click on the History tab to view your location history.
+Log into the Foursquare City Guide app and click on the History tab to view your location history.
 
 #### ****Swarm****
 
@@ -242,8 +242,8 @@ Log into the Swarm app and view your location history on the home screen.
 
 Log into your Developer account and go to My Account.
 
-****Request copies of your personal data****
---------------------------------------------
+******Request copies of your personal data******
+------------------------------------------------
 
 #### ****City Guide****
 
@@ -253,18 +253,14 @@ Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Setting
 
 Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Settings > Privacy Settings > Initiate Data Download Request.
 
-#### ****Rewards****
-
-Submit your request via our [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25/group/78/create/572).
-
 #### ****Developer Account****
 
 Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Settings > Privacy Settings > “Initiate Data Download Request”.
 
-To help protect your privacy and maintain security, you must be able to log in to your City Guide or Swarm account in order to receive copies of your data. If you are unable to log in to your City Guide or Swam account, please follow the steps to [reset your password](https://foursquare.atlassian.net/servicedesk/customer/portal/20/topic/4461659e-7b3d-41dd-84a1-a2d41fafb600/article/938410255) as outlined in our [Support Center](https://foursquare.atlassian.net/servicedesk/customer/portal/20). In the event you signed up for City Guide or Swarm using an email address you no longer have access to, you will need to contact your email service provider to recover your email account.
+To help protect your privacy and maintain security, you must be able to login to your City Guide or Swarm account in order to receive copies of your data. If you are unable to login to your City Guide or Swam account, please follow the steps to [reset your password](https://foursquare.atlassian.net/servicedesk/customer/portal/20/topic/4461659e-7b3d-41dd-84a1-a2d41fafb600/article/938410255) as outlined in our [Support Center](https://foursquare.atlassian.net/servicedesk/customer/portal/20). In the event you signed up for City Guide or Swarm using an email address you no longer have access to, you will need to contact your email service provider to recover your email account.
 
-****Correct/update your personal data****
------------------------------------------
+******Correct/Update your personal data******
+---------------------------------------------
 
 #### ****City Guide****
 
@@ -278,8 +274,8 @@ Log into the Swarm app and go to Settings > Edit profile.
 
 Log into your Developer account and go to My Account.
 
-**Delete your personal data**
------------------------------
+****Delete your personal data****
+---------------------------------
 
 #### ****City Guide****
 
@@ -289,104 +285,108 @@ Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Setting
 
 Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Settings > “Delete My Account”.
 
-#### ****Rewards****
-
-Submit your request via our [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25/group/78/create/509).
-
 #### ****Developer Account****
 
 Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Settings > Privacy Settings > “Delete your account”.
 
-**Opt out of sale/sharing or limit use of personal information**
-----------------------------------------------------------------
+****Opt Out of Sale/Sharing Of Your Data or Limit Use of Your Sensitive Data****
+--------------------------------------------------------------------------------
 
-If you would like to opt out of the sale/sharing of your personal data or would like to limit the user of your sensitive personal data, you can submit your request on our [opt out page](https://foursquare.com/data-requests). To fulfill your request, you must provide us with a mobile advertising identifier, which can be located as follows:
+If you would like to opt out of the sale/sharing of your personal data or would like to limit the user of your sensitive personal data, you can submit your request on [Foursquare’s Opt-Out Page](https://foursquare.com/data-requests). To fulfill your request, you must provide us with a Mobile Advertising Identifier, which can be located as follows: 
 
-**iOS advertising identifier (“IDFA”)**. If you use an iOS operating system, a third party application is required to locate your Apple IDFA. We do not control such third party tools and are not responsible for their content, privacy policies, or use of your personal information.
+**iOS Advertising Identifier (“IDFA”).** If you use an iOS operating system, a third-party application is required to locate your Apple IDFA. We do not control such third-party tools and are not responsible for their content, privacy policies, or use of your personal information.
 
-**Android advertising identifier**. If you use an Android operating system, open the Google Settings app on your Android device and select “Ads.” Your advertising identifier should be listed at the bottom of the screen.
+**Android Advertising Identifier.** If you use an Android operating system, open the Google Settings app on your Android device and select “Ads.” Your Advertising Identifier should be listed at the bottom of the screen.
 
 If you choose to limit the use of your sensitive personal data, your location data will not be sold or shared.
 
 **Opt out of internet-based advertising**
 -----------------------------------------
 
-**Desktop or Mobile Web Browser (US only)**. You may opt out of seeing interest-based ads from us or our third party advertising partners on your desktop browser and/or mobile web browser by visiting the Digital Advertising Alliance’s (“DAA”) [AdChoices](http://www.aboutads.info/choices/) or by visiting the Network Advertising Initiative’s (“NAI”) [Consumer Opt-Out Choices](http://www.networkadvertising.org/choices/). 
+**Desktop or Mobile Web Browser (US only).** You may opt out of seeing interest-based ads from us or our third party advertising partners on your desktop browser and/or mobile web browser by visiting the Digital Advertising Alliance’s (“DAA”) [AdChoices](http://www.aboutads.info/choices/) or by visiting the Network Advertising Initiative’s (“NAI”) [Consumer Opt-Out Choices](http://www.networkadvertising.org/choices/). 
 
-**Connected TVs (US only).** You may also opt out of seeing interest-based ads on TV streaming devices and connected TVs by visiting the NAI’s [Internet Connected TV Choices](https://www.networkadvertising.org/internet-connected-tv-choices/).  
+**Connected TVs (US only).** You may also opt out of seeing interest-based ads on TV streaming devices and connected TVs by visiting the NAI’s [Internet Connected TV Choices](https://www.networkadvertising.org/internet-connected-tv-choices/).  
+
   
-Mobile Apps (US only). You may opt out of seeing mobile app interest-based ads and ad delivery/reporting by downloading the DAA’s AppChoices mobile application, which is available here:
+**Mobile Apps (US only).** You may opt out of seeing mobile app interest-based ads and ad delivery/reporting by downloading the DAA’s AppChoices mobile application, which is available here:
 
 – [DAA AppChoices iOS](https://apps.apple.com/us/app/appchoices/id894822870)  
 – [DAA AppChoices Android](https://play.google.com/store/apps/details?id=com.DAA.appchoices&hl=en_US&gl=US)  
 – [DAA AppChoices Amazon](https://www.amazon.com/Digital-Advertising-Alliance-AppChoices/dp/B00SVQ4FMO)
 
-You can learn more about how opting-out of interest-based advertising works by visiting our [cookies & similar technologies policy](https://docs.google.com/document/d/1Y23qIMs104BJCL2Tl10sb-KYwaxnPMhE4vZk95qaQNg/edit).
+You can learn more about how opting-out of interest-based advertising works by visiting our [Cookies & Similar Technologies Policy](https://docs.google.com/document/d/1Y23qIMs104BJCL2Tl10sb-KYwaxnPMhE4vZk95qaQNg/edit). 
 
-Unsubscribe from marketing email/text messages
+**Unsubscribe from Marketing Emails & Text Messages**
+-----------------------------------------------------
+
+**Email.** You can unsubscribe from marketing or promotional emails at any time by logging into your Foursquare account adjusting your preferences in Settings. You may also unsubscribe from marketing emails by following the instructions in the email. Please note that you cannot unsubscribe from updates regarding service terms or legal notices.
+
+**Text (SMS).**  If you have elected to receive SMS messages, you can always unsubscribe at any time by texting STOP in response to a message or by following the instructions in the SMS iOS Advertising Identifier (“IDFA”).
+
+**Other Ways to Exercise Your Privacy Rights**
 ----------------------------------------------
 
-**Email**. You can unsubscribe from marketing or promotional emails at any time by logging into your Foursquare account adjusting your preferences in settings. You may also unsubscribe from marketing emails by following the instructions in the email. Please note that you cannot unsubscribe from updates regarding service terms or legal notices.
+If you would like to delete your data and are unable to login to your City Guide or Swarm account, you may submit a request to delete your personal data  via our [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25). 
 
-**Text (SMS)**. If you have elected to receive SMS messages, you can always unsubscribe at any time by texting STOP in response to a message or by following the instructions in the SMS iOS advertising identifier (“IDFA”).
-
-Other Ways to Exercise Your Privacy Rights
-------------------------------------------
-
-If you would like to delete your data and are unable to login to your City Guide or Swarm account, you may submit a request to delete your personal data via our [privacy portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25).
-
-To help protect your privacy and maintain security, we will take steps to verify your identity before taking action on your request. We will not use the data you provide as part of your deletion request for any purpose other than to fulfill your request.
+To help protect your privacy and maintain security, we will take steps to verify your identity before taking action on your request . We will not use the data you provide as part of your deletion request for any purpose other than to fulfill your request.
 
 In the United States, you can exercise your privacy rights by calling us toll-free at (800) 673-0117.
 
-Authorized agents
------------------
+**Authorized Agents**
+---------------------
 
-Requests from authorized agents can be submitted via the [privacy portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25). Please include a notarized power of attorney and/or other signed permission that authorizes you to act on behalf of the individual you are representing. Requests from agents that do not submit sufficient proof that they have been authorized to act on behalf of an individual will be denied.
+Requests from authorized agents can be submitted via the [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25). Please include a notarized power of attorney and/or other signed permission that authorizes you to act on behalf of the individual you are representing. Requests from agents that do not submit sufficient proof that they have been authorized to act on behalf of an individual will be denied.  
 
-Privacy rights reporting
-------------------------
+**Privacy Rights Reporting** 
+-----------------------------
 
-The following metrics are for January through December 2022 and reflect where users took advantage of our self-serve features and tools to access and delete data, as well as those where Foursquare took action to honor the requests.
+The following metrics reflect all privacy requests received from consumers worldwide between January 1 and December 31, 2023.
 
-Global privacy rights reporting
+Privacy Rights Reporting (Global)
 
 #### Requests for deletion
 
 Received:  
-171,652  
-Completed (wholly/partly):  
-171,652  
-Days to respond (average):  
-16
+104,819  
+Completed in whole or in part:  
+104,767  
+Denied\*:   
+52  
+Average days to complete:  
+21
 
 #### Requests for access
 
 Received:  
-42,964  
-Completed (wholly/partly):  
-42,964  
-Days to respond (average):  
-3
+19,488  
+Completed in whole or in part:  
+19,451  
+Denied\*:   
+37  
+Average days to complete:  
+8
 
 #### Requests to opt-out
 
 Received:  
-228,986  
-Completed (wholly/partly):  
-228,986  
-Days to respond (average):  
-9
+1,197,964  
+Completed in whole or in part:  
+1,197,964  
+Denied\*:  
+0  
+Average days to complete:  
+14
 
-Digital Services Act reporting
+\*Requests are denied because a request was not verifiable or FSQ was unable to locate an account and/or data related to the consumer who made the request. 
 
-Foursquare has approximately 37,770 monthly average EU users.   
-This number is the best available information at time of publication and will be updated from time to time.
+Digital Services Act Reporting
+
+Foursquare has approximately 42,817 monthly average EU users.  This number is the best available information at the time of publication and will be updated from time to time.   
 
   
-**Appeal:**  
+****Appeal**:**  
   
-You may appeal our decision with respect to a request you have submitted via the [privacy portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25).
+You may appeal our decision with respect to a request you have submitted via the [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25).
 
 Our privacy policies
 --------------------
