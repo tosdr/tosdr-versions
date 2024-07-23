@@ -2,8 +2,6 @@
 
 [Log in](https://factorio.com/login) | [Sign up](https://factorio.com/signup)
 
-[🇺🇦 We support the Ukrainian Red Cross.](https://donate.redcrossredcrescent.org/ua/donate/~my-donation)
-
 [![](https://cdn.factorio.com/assets/img/web/factorio-logo.png)](https://factorio.com/)
 
 [Game](https://factorio.com/game/game-overview)
