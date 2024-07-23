@@ -1,5 +1,3 @@
-Help
-
 [Brands](https://www.fetchrewards.com/brands) [Rewards](https://www.fetchrewards.com/rewards)
 
 Blog
