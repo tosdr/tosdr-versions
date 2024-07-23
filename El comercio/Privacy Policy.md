@@ -31,969 +31,1001 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-El Nacional se clasifica para octavos de final de Copa Ecuador
-==============================================================
+Caso Encuentro, Fiscalía realizó una petición sobre los investigados
+====================================================================
 
-El Nacional con mucho sufrimiento avanzó a la siguiente ronda de la Copa Ecuador. El cotejo se definió por penales.
--------------------------------------------------------------------------------------------------------------------
+La Fiscalía realizó una solicitud en el Caso Encuentro por presunta delincuencia organizada.
+--------------------------------------------------------------------------------------------
 
-![El Nacional y Ciudad Baños de Fuego se enfrentaron por los dieciseisavos de final de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-20T203736.053.jpg)
+![Abogados de Danilo Carrera en la audiencia del caso Encuentro en el Complejo Judicial Norte.](https://www.elcomercio.com/wp-content/uploads/2024/07/caso-enc-tro.jpg)
 
-**El Nacional** inició con pie derecho su camino en la Copa Ecuador 2024. En su debut, que fue este sábado 20 de julio, el ‘Bi-Tri’ derrotó a **Baños de Ciudad de Fuego**, equipo de la Segunda Categoría de Tungurahua, por penales.
+La continuación de la audiencia sobre el **caso Encuentro** se reanudó este martes 23 de julio de 2023. El 22 de julio de 2024[,](https://es.wikipedia.org/wiki/Caso_Encuentro "https://es.wikipedia.org/wiki/Caso_Encuentro") la **Fiscalía General del Estado** presentó su dictamen contra **Danilo Carrera, Hernán Luque y otros procesados** en el caso por presunta **delincuencia organizada**.
 
-Gracias a la victoria, el elenco militar se clasificó para los octavos de final del torneo que organiza la **Federación Ecuatoriana de Fútbol**. En la siguiente ronda, El Nacional se enfrentará al ganador de la llave entre Orense y Deportivo Santo Domingo. 
+* [Caso Encuentro, Fiscalía hizo esta acusación contra Danilo Carrera y otros procesados](https://www.elcomercio.com/actualidad/seguridad/caso-encuentro-fiscalia-acusa-autores-danilo-carrera-otros-procesados.html "Caso Encuentro, Fiscalía hizo esta acusación contra Danilo Carrera y otros procesados")
+* [En el caso Encuentro, juez Renán Andrade tomó nuevas medidas](https://www.elcomercio.com/actualidad/politica/juez-tomo-medidas-caso-encuentro.html "En el caso Encuentro, juez Renán Andrade tomó nuevas medidas")
+* [Caso Encuentro: juez René Andrade tomó una decisión sobre este proceso](https://www.elcomercio.com/actualidad/seguridad/caso-encuentro-juez-dicto-medidas-danilo-carrera.html "Caso Encuentro: juez René Andrade tomó una decisión sobre este proceso")
 
-### Más noticias:
+La **audiencia de evaluación y preparatoria de juicio,** previamente suspendida, se reinstaló para conocer los argumentos y pruebas de la Fiscalía.
 
-* [El Nacional debuta en la Copa Ecuador 2024](https://www.elcomercio.com/deportes/futbol/el-nacional-debuta-en-la-copa-ecuador.html "El Nacional debuta en la Copa Ecuador 2024")
-* [Aucas goleó y eliminó a La Castellana de la Copa Ecuador](https://www.elcomercio.com/deportes/aucas-la-castellana-copa-ecuador.html "Aucas goleó y eliminó a La Castellana de la Copa Ecuador")
-* [La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa](https://www.elcomercio.com/deportes/futbol/copa-ecuador-partidos-dieciseisavos-final.html "La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa")
+Según el dictamen, **Danilo Carrera y Rubén Cherres**, asesinado anteriormente, cometieron varios delitos para obtener **beneficios económicos indebidos**. Utilizaron varias empresas públicas y contaron con la colaboración de funcionarios, personas particulares y contratistas vinculados al sector eléctrico.
 
-El Nacional sufrió mucho
-------------------------
+La Fiscalía reveló los **elementos de convicción** para acusar a los siete procesados y solicitó que sean llamados a la etapa de juzgamiento.
 
-El primer tiempo en el Estadio José Silva Romo, en la ciudad de Baños, Tungurahua, fue una **pesadilla** **para el Nacional**.
+Solicitud de la Fiscalía en el caso Encuentro
+---------------------------------------------
 
-Los militares **fueron superados en intensidad** e idea de juego por su rival Baños Ciudad de Fuego, que estuvo más lúcido.
+La **Fiscalía General del Estado** solicitó al juez que llame a juicio a **Danilo C., Hernán L., Antonio I., Leonardo C., Gabriel M., Karen C. y Ericka F.,** como presuntos **autores directos del delito de delincuencia organizada** en el **caso Encuentro**.
 
-Pese a que, El Nacional estuvo muy incomodó, se adelantó en el marcador gracias a una genialidad de **Jawer** **Guisamano**, que se unió hace poco al club.
+La solicitud se basa en la evidencia recopilada durante la instrucción fiscal que, según la Fiscal del caso, demuestra con **claridad y certeza** la existencia de una estructura criminal de corrupción que operó dentro de varias empresas públicas.
 
-El volante sacó un derechazo a media distancia y la guardó en el ángulo del arco.
-
-> ¡GOOOL DE EL NACIONAL! 🔥🔴  
->   
-> ⚽ Guisamano enganchó y sacó un TREMENDO derechazo que se metió en ángulo.  
->   
-> 🎙️ [@FPHidalgo](https://twitter.com/FPHidalgo?ref_src=twsrc%5Etfw), [@CarlosAndresMN](https://twitter.com/CarlosAndresMN?ref_src=twsrc%5Etfw) y [@sambaalvaradoc](https://twitter.com/sambaalvaradoc?ref_src=twsrc%5Etfw)[#CopaEcuadorEnDSPORTS](https://twitter.com/hashtag/CopaEcuadorEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#CopaEcuadorDIRECTVPlayGreen](https://twitter.com/hashtag/CopaEcuadorDIRECTVPlayGreen?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/iRgCdWI0Wt](https://t.co/iRgCdWI0Wt)
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoEncuentro](https://twitter.com/hashtag/CasoEncuentro?src=hash&ref_src=twsrc%5Etfw): en el Complejo Judicial Norte de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw), se reinstala la audiencia de evaluación y preparatoria de juicio contra Danilo C., Hernán L. y otros procesados por presunta [#delincuenciaorganizada](https://twitter.com/hashtag/delincuenciaorganizada?src=hash&ref_src=twsrc%5Etfw). Hoy, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) concluirá con su intervención. [pic.twitter.com/rHg4A8r2UO](https://t.co/rHg4A8r2UO)
 > 
-> — DSPORTS (@DSports) [July 21, 2024](https://twitter.com/DSports/status/1814820030347132994?ref_src=twsrc%5Etfw)
+> — Fiscalía Ecuador (@FiscaliaEcuador) [July 23, 2024](https://twitter.com/FiscaliaEcuador/status/1815745180340822412?ref_src=twsrc%5Etfw)
 
-Pese a la anotación, **El Nacional nunca mejoró**, mientras que, Baños Ciudad de Fuego se mantuvo concentrado e intentó igualar el marcador.
+La Fiscal afirmó que los **elementos probatorios** son contundentes y respaldan la acusación de **delincuencia organizada** contra los implicados.
 
-Para la segunda mitad, el conjunto local sorprendió con un gol de camerino.
+Estos individuos, presuntamente, formaron parte de una **red dedicada a actividades ilícitas** que afectaron significativamente el **funcionamiento y la integridad de las instituciones estatales**.
 
-**Duffer** **Carabalí**, el 10 de Baños Ciudad de Fuego, igualó el cotejo, con un remate cruzado a media distancia, con complicidad de Leodán Chalá, arquero del El Nacional, que tuvo una floja reacción.
-
-> ¡GOOOL DE BAÑOS CIUDAD DE FUEGO! 🔥  
->   
-> ⚽ Carabali sacó el zurdazo y puso el 1 a 1 ante El Nacional.  
->   
-> 🎙️ [@FPHidalgo](https://twitter.com/FPHidalgo?ref_src=twsrc%5Etfw), [@CarlosAndresMN](https://twitter.com/CarlosAndresMN?ref_src=twsrc%5Etfw) y [@sambaalvaradoc](https://twitter.com/sambaalvaradoc?ref_src=twsrc%5Etfw)[#CopaEcuadorEnDSPORTS](https://twitter.com/hashtag/CopaEcuadorEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#CopaEcuadorDIRECTVPlayGreen](https://twitter.com/hashtag/CopaEcuadorDIRECTVPlayGreen?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/OXjWY0pHzy](https://t.co/OXjWY0pHzy)
-> 
-> — DSPORTS (@DSports) [July 21, 2024](https://twitter.com/DSports/status/1814832216146325778?ref_src=twsrc%5Etfw)
-
-El elenco de Baños estuvo cerca del batacazo a los 80 minutos, con un centro raso, que no aprovecharon.
-
-Al final el partido terminó en 1-1, y se fue a los penales.
-
-En los penales El Nacional ganó 3-1 y avanzó a la siguiente ronda.
-
-Los premios de la Copa Ecuador
-------------------------------
-
-El campeón representará al país en la **Copa Libertadores 2025** con la denominación de Ecuador 4. Irá a la primera fase y asegurará, tomando en cuenta los montos de 2024, de 400 000  dólares.
-
-Otro premio deportivo del monarca de la Copa Ecuador, **será disputar la Supercopa Ecuador** con el campeón de la Liga Pro 2024.
-
-En lo económico, la [Copa Ecuador repartirá 1,6 millones de dólares](https://x.com/CopaEcuador/status/1812991803077107887). El ganador sumará a sus arcas 340 000 dólares.
-
-En Calacalí, la gastronomía es un atractivo vacacional que afina los sentidos
-=============================================================================
-
-Un restaurante de Calacalí tiene una propuesta un poco peculiar. Una opción para estas vacaciones.
---------------------------------------------------------------------------------------------------
-
-![Chef Alfredo Guamaní, dueño de un restaurante curioso de Calacalí. Foto: EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Gatronomia-Calacali.jpg)
-
-**Calacalí** es una de las parroquias más **antiguas** de **Quito**. Es conocida por tener una **cultura agricultora** y una **gastronomía** que invita a **turistas** durante las vacaciones[.](https://es.wikipedia.org/wiki/Gastronom%C3%ADa "https://es.wikipedia.org/wiki/Gastronom%C3%ADa")
-
-Más noticias
-------------
-
-* [La migración integró la comida venezolana a la oferta gastronómica de Quito](https://www.elcomercio.com/video/la-migracion-integro-la-comida-venezolana-a-la-oferta-gastronomica-de-quito.html "La migración integró la comida venezolana a la oferta gastronómica de Quito")
-* [Ecuador ganó seis premios en los ‘Óscar del Turismo’ 2024](https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html "Ecuador ganó seis premios en los ‘Óscar del Turismo’ 2024")
-* [12 actividades divertidas para realizar en casa en estas vacaciones](https://www.elcomercio.com/actualidad/quito/12-actividades-divertidas-casa-vacaciones-ninos-adolescentes.html "12 actividades divertidas para realizar en casa en estas vacaciones")
-
-En este sector hay un restaurante que tiene un proyecto peculiar que promete hacer un cambio en la **mentalidad de las personas.**
-
-El Patio, un restaurante que desafía los miedos en Calacalí
------------------------------------------------------------
-
-El proyecto nació de la mano del chef **Alfredo Guamaní**, quien siempre ha vivido en **Calacalí** y convirtió al **patio** de su casa en un **restaurante**[.](https://es.wikipedia.org/wiki/Calacal%C3%AD "https://es.wikipedia.org/wiki/Calacal%C3%AD")
-
-Este **restaurante** deja una gran **enseñanza**: aprender a no juzgar a las personas por sus **apariencias**. Lo hace de una **manera curiosa**.
-
-Al inicio, unos **guías** reciben a los **turistas** y les vendan los ojos. Les explican las **reglas del juego**, les dicen qué van a hacer y luego, solamente hay que confiar.
-
-En fila, todos caminan por el espacio donde el chef tiene sus ingredientes frescos: su huerto, que está en la parte posterior de su casa.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Experiencia-gastronomia-1024x683.jpg)
-
-Los turistas caminan con los ojos vendados por un huerto. Foto: EL COMERCIO.
-
-Luego ingresan al **restaurante**, o sea, el patio de la casa de **Guamaní** y se sientan en orden con la ayuda de los guías.
-
-A estas alturas, ya se asimila de qué trata la experiencia: de saber cómo hacen las **personas no videntes** para realizar sus actividades diarias.
-
-Nuevamente, un guía da las indicaciones de cómo deben actuar en la mesa para no tener **accidentes** con los **utensilios**.
-
-Para que la **experiencia** siga siendo única, el orden en que se **sirven** los **alimentos** es diferente al convencional.
-
-La comida se sirve en platos de un **material duro** para que en caso de que se **caigan** no se **rompan** y lastimen a alguien.
-
-Uno de los desafíos al comer con los ojos cerrados es el de saber dónde están los cubiertos. Pero gracias a una **técnica** que el guía explica con mucho detalle, el alimentarse se hace un poco más fácil.
-
-En caso de que la **desesperación** de no saber qué se está comiendo o de no poder hacerlo de la mejor manera, las reglas del juego permiten **quitarse la venda**, pero no se puede decir nada a los demás.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Gatronomia-Experiencia-1024x768.jpeg)
-
-El comer con los ojos vendados se vuelve un desafío. Foto: EL COMERCIO.
-
-Al final de la experiencia, por lo menos por un instante, todos se vuelven un poco más **tolerantes** ante las **dificultades** de los demás.
-
-Como último paso, el **chef** explica qué comida les sirvió y los **ingredientes** que tenía cada una de sus preparaciones.
-
-Todos elementos que utiliza **Guamaní** para sus recetas son de su **huerto** y comprados en la misma comunidad de **Calacalí**.
-
-La única forma en que se puede comer en **El Patio** es bajo **reserva**, porque en palabras de su dueño: “están en contra de **recalentar la comida**”.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Guias-de-El-Patio-1024x683.jpg)
-
-Guías de El Patio. Foto: EL COMERCIO.
-
-Las muertes crecen en las vías de Quito por no usar cascos ni cinturones de seguridad
-=====================================================================================
-
-EL COMERCIO desarrolló un especial analizado la data de la Agencia Nacional de Tránsito. Los resultados son impactantes.
-------------------------------------------------------------------------------------------------------------------------
-
-![Los siniestros en la Simón Bolívar de Quito son frecuentes. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/07/Siniestro-en-la-Simo%CC%81n-Boli%CC%81var.jpg)
-
-Entre enero y mayo de 2024, **Quito** ha experimentado un promedio alarmante de un siniestro cada dos horas, con un trágico resultado: un fallecido diario.
-
-Los motociclistas aparecen como los más vulnerables en los accidentes debido al incumplimiento de normas básicas de seguridad como el uso de **cascos homologados** y el respeto a los **límites de velocidad.**
-
-Los habitantes de **Quito** han tenido que acostumbrarse a estos reportes diarios de tragedias en las vías.
-
-Eso ha generado un preocupante aumento en la siniestralidad en los **ámbitos local y nacional**, con un incremento significativo en el número de muertes y lesiones graves.
-
-La data de la Agencia Nacional de Tránsito
-------------------------------------------
-
-Los datos recopilados por la **Agencia Nacional de Tránsito (ANT)**, fueron utilizados por **EL COMERCIO** para desarrollar cinco visualizaciones que revelan la magnitud del problema durante los primeros meses del 2024.
-
-La **Agencia Metropolitana de Tránsito (AMT)** ha reconocido la importancia de estos datos para la planificación de medidas preventivas y correctivas, destacando la disparidad en cifras registradas en años anteriores entre ambas entidades.
-
-**Revisa el especial completo. Clic en este link:**
-
-[##### 68 de 1 111 personas usaron el cinturón en 1 603 siniestros en Quito; ninguna usó casco
-
-En las calles urbanas de Quito se incrementa la siniestralidad por exceso de velocidad. Las carreteras de 90 km/h no son los únicos puntos peligrosos.
-
-Clic para saber más](https://www.elcomercio.com/actualidad/68-personas-usaron-el-cinturon-en-1603-siniestros-ninguna-uso-casco-en-quito/?source=Internal&ref=Single+Content+Link)
-
-¿Por qué se deterioró el físico de Pedro El Escamoso?
-=====================================================
-
-Miguel Varoni, quien interpreta a Pedro Coral, y su esposa explicaron por qué cambió la imagen de este actor colombiano.
-------------------------------------------------------------------------------------------------------------------------
-
-![Miguel Varoni, conocido por su icónico papel como Pedro Coral en la serie Pedro El Escamoso, ha experimentado un notable cambio físico en los últimos años. Foto: Imdb](https://www.elcomercio.com/wp-content/uploads/2024/07/pedro-el-escamoso-el-comercio.jpg)
-
-Mig**uel Varoni**, conocido por su icónico papel como **Pedro Coral** en la serie **Pedro El Escamoso**, ha experimentado un notable cambio físico en los últimos años.
-
-Su imagen ha generado una gran atención en **redes sociales y medios de comunicación.** 
-
-La segunda temporada de **Pedro el Escamoso** se estrenó el 16 de julio de 2024 en el **Canal Caracol de Colombia** y en la plataforma de streaming **Disney+.** 
-
-La serie sigue la historia de Pedro Coral, interpretado por Miguel Varoni, quien regresa a **Colombia** después de vivir 20 años en el extranjero.
-
-Al regresar, Pedro se encuentra con su hijo **Pedrito**, ahora un hombre exitoso, interpretado por **Carlos Torres.** La relación entre padre e hijo se convierte en el eje central de la trama, ya que Pedrito se avergüenza del extravagante estilo de vida de su padre. 
-
-Recuperación del covid
-----------------------
-
-Una de las principales razones del cambio en el físico de **Varoni** es su lucha contra el **covid-19.**
-
-Según su **esposa, Catherine Siachoqu**e, el actor sufrió de manera severa durante su contagio, lo que resultó en una drástica pérdida de peso.
-
-Durante su enfermedad, **Varoni** tuvo dificultades para comer, lo que contribuyó a su delgadez extrema. Siachoque relató que ella tuvo que administrarle medicamentos y alimentos especiales para ayudarlo a recuperarse.
-
-Decisión de estilo de vida
+Proceso del caso Encuentro
 --------------------------
 
-A más de los efectos del covid, **Miguel** Varoni ha optado por un cambio en su estilo de vida, incluyendo una **dieta vegana.**
+El **juez anticorrupción Renán Andrade** presidió la primera jornada de la diligencia del caso Encuentro el 5 de julio. Tras analizar los alegatos de la **fiscal Luzmila Lluglla**, determinó su competencia para conocer la causa y no encontró **vulneraciones de derechos a los procesados**, declarando la validez procesal.
 
-Esta decisión, que comparte con su esposa, ha influido en su peso y apariencia general. 
+Esta decisión permitió avanzar a la fase preparatoria de juicio, donde se definirá si los acusados enfrentan cargos por el **presunto delito de delincuencia organizada**. La fiscal Luzmila Lluglla acusó a Danilo Carrera, Luque Lecaro y Antonio I. como autores directos del delito de delincuencia organizada.
 
-**Varoni** ha expresado que se siente feliz con su nueva imagen, a pesar de las críticas que ha recibido en redes sociales sobre su apariencia.
+También señaló a Leonardo C., Gabriel Naim M., y a las empresarias Karen Leonor C. O. y Érika Tatiana F. M.
 
-Retoques estéticos
-------------------
+La Fiscalía sostuvo que Carrera y Rubén Cherres cometieron varios delitos para obtener **réditos económicos indebidos a través de varias empresas públicas**. Esto se daría con la participación de funcionarios, particulares y contratistas del sector eléctrico.
 
-El actor también ha mencionado que se ha sometido a algunos retoques estéticos.
-
-Aunque esto ha generado comentarios mixtos entre sus seguidores, **Varoni** ha defendido su derecho a mejorar su apariencia y ha manifestado que es un tema personal que le resulta complicado.
-
-La reacción del público
------------------------
-
-La transformación de **Varoni** no ha pasado desapercibida. Muchos de sus seguidores han expresado preocupación por su salud, preguntándose si estaba lidiando con alguna enfermedad.
-
-Sin embargo, tanto él como su **esposa** han aclarado que su **cambio físico** no se debe a problemas de salud, sino a las razones mencionadas anteriormente.
-
-Jordy Caicedo convirtió un doblete con el Sporting Gijón
-========================================================
-
-El delantero ecuatoriano Jordy Caicedo empezó a mostrar sus capacidades ofensivas en el Sporting Gijón de España.
------------------------------------------------------------------------------------------------------------------
-
-![Jordy Caicedo anotó con el Sporting Gijón.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-20T183955.218.jpg)
-
-**Jordy** **Caicedo** disputó su primer partido amistoso con el Sporting Gijón, club que milita en la segunda división de España. En sus primeros minutos, el ecuatoriano dejó una buena actuación y anotó dos goles. 
-
-El **Sporting Gijón se enfrentó al Club Marino de Luanco**, de la cuarta categoría de España, este sábado 20 de julio. El partido terminó 2-0 a favor de los ‘Gijoneses’.
-
-### Más noticias:
-
-* [Jordy Caicedo llega a potenciar el ataque del Sporting Gijón](https://www.elcomercio.com/deportes/jordy-caicedo-refuerzo-sporting-gijon.html "Jordy Caicedo llega a potenciar el ataque del Sporting Gijón")
-* [¿Por qué es tendencia Angelo Preciado?](https://www.elcomercio.com/deportes/futbol/angelo-preciado-tendencia-redes-sociales.html "¿Por qué es tendencia Angelo Preciado?")
-* [Félix Sánchez Bas se reencontrará con Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/felix-sanchez-bas-reencontrara-gonzalo-plata.html "Félix Sánchez Bas se reencontrará con Gonzalo Plata")
-
-Los goles de Jordy Caicedo
---------------------------
-
-J**ordy Caicedo anotó los dos únicos goles** del compromiso. En el primero mostró su presión e intensidad, y en el segundo un poco más de su técnica y calidad. 
-
-Su primera anotación llegó a los siete minutos del compromiso. El ‘Expreso de la Medianoche’ presionó fuertemente al defensa rival para robarle el balón. 
-
-Tras conseguirlo, el delantero ecuatoriano **definió con tranquilidad** para poner el 1-0 parcial. 
-
-> Primer gol de Jordy Caicedo con el [@RealSporting](https://twitter.com/RealSporting?ref_src=twsrc%5Etfw) [pic.twitter.com/i7qNQLYG1k](https://t.co/i7qNQLYG1k)
-> 
-> — Celorio10 (@BlogInn) [July 20, 2024](https://twitter.com/BlogInn/status/1814711826090799138?ref_src=twsrc%5Etfw)
-
-El segundo tanto fue a los 33 minutos del primer tiempo. Jordy Caicedo aprovechó un pase en profundidad de un compañero para **definir por encima del guardameta** rival con un sutil toque. 
-
-Jordy Caicedo jugó solo 45 minutos del compromiso. 
-
-> Segundo gol de Jordy Caicedo con el [@RealSporting](https://twitter.com/RealSporting?ref_src=twsrc%5Etfw) [pic.twitter.com/gWJh30aVl2](https://t.co/gWJh30aVl2)
-> 
-> — Celorio10 (@BlogInn) [July 20, 2024](https://twitter.com/BlogInn/status/1814716746521006430?ref_src=twsrc%5Etfw)
-
-Sporting Gijón fichó a Jordy Caicedo
-------------------------------------
-
-El delantero internacional ecuatoriano **Jordy Caicedo** llegó a Gijón para reforzar al Sporting en una operación llevada a cabo por el Grupo Orlegi, según la cual, Caicedo se incorpora al conjunto gijonés y Uros Djurdjevic se desvincula de este para fichar por el Atlas de México.
-
-Caicedo es un delantero que viene de jugar la **Copa América** con Ecuador y que tiene experiencia en el fútbol europeo, ya que jugó una temporada en el CSKA Sofía de Bulgaria y el Sivasspor de Turquía, pero que no ha tenido una buena última temporada en el Atlas mexicano.
-
-El delantero aseguró que le gusta mucho “el fútbol europeo” y que está deseoso de ponerse a entrenar a las órdenes de Albes “**para ayudar a conseguir el objetivo del ascenso con un club que es histórico”.**
-
-AMC suspende por tercera vez la construcción de un edificio en Quito y hay un hecho fatal
-=========================================================================================
-
-Un hecho trágico está ligado a la obra que suspendió la AMC, en Quito.
-----------------------------------------------------------------------
-
-![La AMC suspendió una construcción en el centro-norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/07/Suspension-de-obra.jpg)
-
-Una **construcción en Quito** se detuvo por tercera vez, luego de que la Agencia Metropolitana de Control (AMC). Las autoridades informaron las causas de la suspensión[.](https://es.wikipedia.org/wiki/Quito)
-
-El hecho no quedará únicamente en las instancias del Municipio del **Distrito Metropolitano de Quito**. Hasta tanto, los funcionarios de la **AMC** colocaron sellos de suspensión.
-
-### Más noticias
-
-* [El Sucre Viajero 2024 llega con arte a los barrios de Quito](https://www.elcomercio.com/uncategorized/sucre-viajero-2024-arte-barrios-quito.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front)
-* [¡Precaución! Alerta de radiación UV extremadamente alta para Quito](https://www.elcomercio.com/actualidad/ecuador/alerta-radiacion-uv-extremadamente-alta-quito.html?source=Internal&ref=Single+Content+Link)
-
-Las causas para la suspensión de la construcción en Quito
----------------------------------------------------------
-
-La **AMC**, con el apoyo de la **Policía Nacional**, suspendió la construcción por tercera vez. Esta acción se tomó luego de que, indicó la entidad municipal, verificó que no contaban con los permisos correspondientes.
-
-El edificio se encuentra en el centro-norte de **Quito** y está en proceso de obra gris. Ya en el 2023, la **AMC** colocó el primer sello de suspensión al encontrar un proceso inicial de construcción sin los permisos habilitantes.
-
-Este se encuentra en la fase final del procedimiento, donde se dictaminará la **sanción y multa  
-correspondiente a los responsables.**
-
-Un proceso previo en la construcción
-------------------------------------
-
-De acuerdo con la **AMC**, la segunda suspensión se desarrolló el 10 de julio, cuando los inspectores metropolitanos corroboraron que la constructora no disponía de la licencia LMU-20.
-
-El documento certifica los planos **arquitectónicos y estructurales**, entre otros requisitos como contar con un plan de seguridad.
-
-Los sellos de suspensión de obra constituyen medidas provisionales o cautelares. Con este paso, se detienen las actividades mientras se continúa con el **procedimiento administrativo sancionatorio**.
-
-No obstante, por tratarse de un incumplimiento reiterativo de la Ley, constatado el 17 de julio de 2024, se procederá a colocar una denuncia en la **Fiscalía**.
-
-Un hecho fatal en la construcción
----------------------------------
-
-La **AMC** informó que hay otro hecho en el caso. Este corresponde, según el reporte del **ECU-911**, un obrero falleció tras caer desde una altura aproximada de 10 metros.
-
-Por eso, informó la entidad, ante este trágico incidente, y considerando que la obra se encuentra con orden de suspensión desde el 2023, la **denuncia** se presentará para que sea la justicia la que defina las medidas y acciones.
-
-Cuatro cadáveres fueron hallados en una vivienda en Machala
-===========================================================
-
-La Policía encontró los cuerpos en el inmueble ubicado en la ciudadela Los Ceibos. Hay tres detenidos para las investigaciones.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Los cuerpos fueron encontrados en una casa de la ciudadela Los Ceibos, en Machala. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/07/Machala-EL-Oro-1.jpg)
-
-##### Agencia EFE
-
-La **Policía ecuatoriana** encontró este sábado 20 de julio de 2024 **cuatro cadáveres** en una vivienda en lMachala, capital de la provincia de **El Oro**. Se presume que los asesinatos están relacionados con una pugna entre grupos delictivos.
-
-Según la Policía, en la ciudadela **Los Ceibos** hallaron los cuatro cuerpos “con heridas de armas de fuego”. 
-
-Anotó que las unidades especializadas de la **Policía Naciona**l realizan el levantamiento de información y avanzan en la identificación de las **víctimas**, ya que **no portaban documentación.** 
-
-En el lugar, la Policía encontró cuatro armas de fuego y un vehículo reportado como robado, entre otros indicios. 
-
-El avance de las investigaciones
---------------------------------
-
-Hasta el momento, la **Policía** ha aprehendido a **tres personas para investigaciones**, quienes fueron puestos a disposición de la autoridad competente para determinar su grado de implicación en este hecho.
-
-“Las investigaciones preliminares sugieren que este **crimen** está relacionado con una pugna entre grupos delictivos por el control de espacios para actividades ilícitas”, indicó la **Policía**.
-
-En la provincia de **El Oro** se han registrado varios hechos violentos en los últimos meses.
-
-A las bandas del crimen organizado, dedicadas principalmente al narcotráfico, se les atribuye la ola de violencia que azota a **Ecuador** y que le ha llevado a figurar como el país con más homicidios per cápita, al registrar 47,2 por cada 100 000 habitantes en 2023, según el **Observatorio Ecuatoriano de Crimen Organizado (OECO).**
-
-CAL conoció el pedido de juicio político a la Ministra del Interior de Daniel Noboa
-===================================================================================
-
-Juicios políticos a ministros de Daniel Noboa están en marcha.
---------------------------------------------------------------
-
-![La Asamblea Nacional procesa juicios políticos en contra de funcionarias.](https://www.elcomercio.com/wp-content/uploads/2024/07/Juicio-politico.jpg)
-
-El **Consejo de Administración Legislativa (CA**L) avocó conocimiento de la solicitud de enjuiciamiento político en contra de Mónica Palencia, ministra del Interior del gobierno de **Daniel Noboa**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-La proponente del proceso es la asambleísta de la **Revolución Ciudadana**, **Paola Cabezas**. En el organismo se fijó un plazo de tres días para contar con un informe técnico, corriendo desde este 19 de julio de 2024.
-
-### Más noticias
-
-* [Daniel Noboa es acusado por la Asamblea Nacional de cometer una inconstitucionalidad](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-veto-daniel-noboa-inconstitucional.html)
-* [Asamblea inició el trámite de juicio político contra Fernando Muñoz, juez del TCE](https://www.elcomercio.com/actualidad/politica/asamblea-inicio-tramite-juicio-politico-contra-fernando-munoz-juez-tce.html?source=Internal&ref=Single+Content+Link)
-* [Pleno de la Asamblea no obtuvo los votos suficientes para censurar a Wilman Terán](https://www.elcomercio.com/actualidad/politica/wilman-teran-asistira-juicio-politico.html?source=Internal&ref=Single+Content+Link)
-* [¿Daniel Noboa aún tiene cartas para evitar que Verónica Abad llegue a la Presidencia?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veronica-abad-presidencia.html?source=Internal&ref=Single+Content+Link)
-
-Pasos en juicios políticos de funcionarios de gobierno de Daniel Noboa
-----------------------------------------------------------------------
-
-El **CAL** resolvió requerir a la **Unidad de Técnica Legislativa** el informe técnico-jurídico no vinculante, respecto del cumplimiento de requisitos para el proceso de control político.
-
-El argumento para el juicio político es que la ministra Palencia sería responsable de la inseguridad. Esto debido a que, presuntamente, no hay claridad sobre las aristas del **Plan Fénix**. La propuesta fue parte de las ofertas de campaña de **Daniel Noboa**.
-
-Según declaraciones de Paola Cabezas, el juicio está respaldado por legisladores de las organizaciones políticas Construye, Partido Social Cristiano, Pachakutik e independientes.
-
-Otros procesos de juicio político
----------------------------------
-
-La **Constitución** establece que la **[Asamblea Nacional](https://www.asambleanacional.gob.ec/es)** puede impulsar un **juicio político** a **autoridades estatales** como ministros, procurador, contralor, fiscal, defensor del pueblo, superintendentes, y miembros de los **consejos electoral**, contencioso electoral, de la judicatura y de participación ciudadana.
-
-El juicio puede darse por **incumplimiento de funciones** asignadas por la Constitución y la ley, durante el ejercicio de su cargo y hasta **un año después de terminar**.
-
-La canciller Gabriela **Sommerfeld** ya enfrenta un proceso rumbo a un juicio político en la Asamblea Nacional.
-
-El juicio político a **Sommerfeld** también lo impulsa el correísmo. La solicitud se sustenta, principalmente, en la incursión policial en la **Embajada de México en Quito** en abril de 2024.
-
-Jorge Glas, actualmente, se encuentra en el centro de rehabilitación **La Roca**, en Guayas.
-
-De acuerdo con la Canciller**, el juicio no es en su contra, sino de todo Ecuador.** La Canciller aseguró que **presentó más de 20 pruebas de descargo** sobre las acusaciones que se le imputan, entre estas, supuestos incumplimientos de funciones.
-
-Procesos del juicio político
-----------------------------
-
-En los juicios políticos en la Asamblea Nacional hay varios pasos que tomar en cuenta.
-
-1. **Inicio del proceso**: El proceso de juicio político puede ser iniciado por una solicitud formal presentada por un asambleísta, quien debe contar con el respaldo de al menos una cuarta parte de los miembros de la Asamblea Nacional.
-2. **Análisis preliminar**: La solicitud es revisada por la Comisión de Fiscalización y Control Político de la Asamblea Nacional, que evalúa si hay mérito suficiente para proceder con el juicio. Esta comisión puede convocar a los implicados para que presenten pruebas y argumentos en su defensa.
-3. **Pleno de la Asamblea Nacional**: Si la Comisión de Fiscalización encuentra mérito, el caso es remitido al Pleno de la Asamblea, donde se lleva a cabo un debate y se presenta la evidencia recopilada. Los funcionarios acusados tienen el derecho de defensa y pueden presentar sus argumentos ante el pleno.
-4. **Votación**: Para destituir a un funcionario mediante un juicio político, se requiere una mayoría calificada de los asambleístas, que actualmente corresponde a dos tercios del total de miembros de la Asamblea Nacional.
-
-Otras acciones del CAL
-----------------------
-
-El **CAL**, además de conocer la solicitud de juicio político, definió una prórroga de 30 días, del 21 de julio al 19 de agosto de 2024, para las labores de la **Comisión Ocasional para la Investigación de Irregularidades en Contra de la Administración Pública**.
-
-La delegación temporal está encabezada por el asambleísta Jaime Moreno. La **Ley Orgánica de la Función Legislativa** contempla que el **CAL** podrá prorrogar, por una sola vez, el funcionamiento de las comisiones ocasionales.
-
-Audiencia del caso Independencia Judicial se reinstaló este 20 de julio
-=======================================================================
-
-La audiencia del caso Independencia Judicial contó con la defensa de Wilman Terán.
-----------------------------------------------------------------------------------
-
-![La audiencia del caso Independencia Judicial se reinstaló en la Corte Nacional de Justicia, este 20 de julio de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/Independencia-Judicial.jpg)
-
-Este sábado, 20 de julio de 2024, se reinstaló la audiencia preparatoria de juicio del **caso Independencia Judicial**, en el que está implicado el expresidente del **Consejo Nacional de la Judicatura (CNJ)**.
-
-La diligencia legal empezó con la presencia del fiscal general (s), **Wilson Toainga**. Se trató de la preparatoria de juicio contra 11 procesados por presunta obstrucción de la justicia. Las defensas técnicas procedieron a presentar sus alegaciones.
-
-La audiencia se reinstaló luego de que el 19 de julio, ya se desarrolló parte del proceso, en el que Terán solicitó un **hábeas corpus oral**.
-
-### Más noticias
-
-* [Caso Independencia Judicial: Fiscalía presenta el dictamen acusatorio](https://www.elcomercio.com/actualidad/seguridad/en-vivo-caso-independencia-judicial-wilman-teran-grita-y-presenta-habeas-corpus-oral.html)
-* [Caso Independencia Judicial: CNJ declara validez de lo actuado y que expediente no fue ‘mutilado’](https://www.elcomercio.com/actualidad/seguridad/caso-independencia-judicial-cnj-declara-validez-expediente-no-fue-mutilado.html?source=Internal&ref=Single+Content+Link)
-* [Nueva demora en audiencia de Wilman Terán en caso Independencia Judicial](https://www.elcomercio.com/actualidad/seguridad/nueva-demora-audiencia-wilman-teran-independencia-judicial.html?source=Internal&ref=Single+Content+Link)
-
-Wilman Terán y su defensa en el caso Independencia Judicial
------------------------------------------------------------
-
-El **Expresidente del Consejo Na**cional de la Judicatura fue el primero en intervenir en la audiencia, luego de manifestar los problemas en su visión.
-
-**Wilman Terán** relató algunos de los hechos en torno al caso y volvió a reiterar las condiciones y limitaciones que tiene por estar recluido en la cárcel La Roca. Estas, argumentó, ha limitado su defensa. No ha tenido acceso a los expedientes para establecer este derecho.
-
-El procesado insistió en querer salir de la cárcel y dejar ese **“ambiente de violencia”** para ejercer su defensa. Temporalmente, él se encuentra en la cárcel 4, en Quito. Esto debido a las diligencias.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoIndependenciaJudicial](https://twitter.com/hashtag/CasoIndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general (s) Wilson Toainga, se reinstala la audiencia preparatoria de juicio contra 11 procesados por presunta [#obstruccióndelajusticia](https://twitter.com/hashtag/obstrucci%C3%B3ndelajusticia?src=hash&ref_src=twsrc%5Etfw). Las defensas técnicas de los procesados presentarán sus alegaciones. [pic.twitter.com/IPHBYj2soz](https://t.co/IPHBYj2soz)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 20, 2024](https://twitter.com/FiscaliaEcuador/status/1814742786081763616?ref_src=twsrc%5Etfw)
-
-¿En qué consiste el caso Independencia Judicial?
-------------------------------------------------
-
-La investigación del caso Independencia Judicial empezó en el 2022, por el presunto cometimiento del delito de tráfico de influencias contra los exvocales del **Consejo de la Judicatura**.
-
-La Fiscalía detalló que, luego del sorteo correspondiente, la competencia para tramitar la causa recayó en el juez **Walter Macías Fernández**, quien señaló la audiencia para el 4 de mayo de 2023.
-
-No obstante, no se instaló, debido a que un día antes (el 3 de mayo), se presentó una demanda de recusación en su contra.
-
-El 11 de mayo de 2023, los integrantes del pleno del **Consejo de la Judicatura** suspendieron de sus funciones al Juez, con amparo de informes técnicos y memorandos emitidos por sus subalternos. Esto pese a que la recusación fue rechazada.
-
-El 8 de marzo de 2023 se presentó una denuncia administrativa en contra del juez Walter Macías, en el marco del denominado caso **Las Torres**. Esta por una presunta infracción al no haber informado al Presidente de la **Corte Nacional** la demanda de recusación en contra del juez Adrián Rojas (juez del Tribunal de dicha causa).
-
-La Fiscalía recapituló que el Consejo de la Judicatura calificó a la denuncia administrativa como “infracción gravísima” y destituyó al **juez Macías**.
-
-Según Terán, durante su defensa en el juicio político en la **Asamblea**, el pasado 1 de julio de 2024, Macías debería estar procesado por tráfico de influencias.
-
-Los avances en la audiencia
----------------------------
-
-Ya el 19 de julio de 2024, el **fiscal general (s) Wilson Toainga** presentó su dictamen acusatorio en el caso. El funcionario definió que **Wilman Terán** y la exvocal del Consejo de la Judicatura, **Ruth Maribel Barreno**, están en calidad de **autores directos del delito de obstrucción de la justicia.**
-
-Adicionalmente, **Wilson Toainga** definió como **cómplices** a **nueve procesados**, exfuncionarios del **Consejo de la Judicatura**.
-
-Ya este 20 de julio, **Wilman Terán** enfatizó que sus actuaciones estaban apegadas a lo que dictaminan la norma. Luego de recapitular puntos del **Derecho Administrativo**, dijo que la suspensión de Macías se dio, justamente, en función de esos parámetros.
-
-Terán recalcó que lo volvería a hacer. El procesado cerró su intervención, que duró una hora y 30 minutos, diciendo que cumplió sus funciones. Calificó a las pruebas de Fiscalía y la Procuraduría como irrelevantes.
-
-Defensa de Maribel Barreno
---------------------------
-
-El abogado defensor de **Maribel Barren**o, Christopher Gallegos, empezó su intervención cuestionando la calidad de los elementos presentados por la Fiscalía.
-
-Según él, la entidad no tiene un caso sólido y ha contaminado la opinión pública con las publicaciones en sus redes. No gana el que más elementos presenta, sino por la calidad de estos.
-
-El Abogado defensor hizo esta puntualización respecto de una publicación realizada este 20 de julio, en la que se mencionó que son más de **150 elementos de convicción**. Estos, añadió, deben regresar a la Fiscalía.
-
-Solo dos son relevantes y tampoco demuestra una obstrucción en la justicia, pues, dijo Gallegos, Barrena no destituyó a **Walter Macías**. De hecho, se abstuvo en la votación. Habló, incluso, de una persecución sistemática judicial.
-
-A las 17:40, luego de la defensa de Berreno, se dio un receso en la audiencia.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Caso [#IndependenciaJudicial](https://twitter.com/hashtag/IndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): con base en los más de 150 elementos de convicción presentados, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) acusa a Wilman T. y Maribel B. como autores directos del delito y a otros 9 ciudadanos como cómplices. Además, solicita al Juez que sean llamados a juicio. [pic.twitter.com/0jKDgGHMqP](https://t.co/0jKDgGHMqP)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [July 20, 2024](https://twitter.com/FiscaliaEcuador/status/1814556155730911556?ref_src=twsrc%5Etfw)
-
-Alerta por ceniza del volcán Sangay este sábado 20 de julio
-===========================================================
-
-El Instituto Geofísico alertó sobre la probabilidad de que caiga ceniza en Chimborazo y Guayas.
------------------------------------------------------------------------------------------------
-
-![Foto referencial. El Instituto Geofísico alertó sobre la posible caída de ceniza en Guayas y Chimborazo. Archivo/ Secretaría de Riesgos](https://www.elcomercio.com/wp-content/uploads/2024/05/volcan-sangay-erupcion.jpg)
-
-El **Instituto Geofísico de Ecuador** informó el sábado 20 de julio de 2024 sobre la posibilidad de una nueva caída de ceniza del volcán Sangay.
-
-La presencia de ceniza se registraría en provincias cercanas, debido a una emisión continua de gases con bajo contenido de ceniza. Estas alcanzan alturas inferiores a 800 metros sobre el nivel del cráter, en dirección suroeste.
-
-Este fenómeno es similar a lo observado durante la actividad del actual del proceso eruptivo, que empezó en mayo de 2019.
-
-La dirección de la ceniza
--------------------------
-
-Como resultado, existe la probabilidad de que caiga ceniza en las áreas al **suroccidente** del volcán, específicamente en las provincias de **Chimborazo y Guayas**.
-
-En los últimos se registró una leve precipitación de polvo volcánico en **Naranjito**, en la provincia costera de **Guayas**, y en **Chauzán**, en la provincia andina de **Chimborazo**.
-
-El **Sangay**, con una altura de 5 230 metros sobre el nivel del mar, se encuentra en el extremo oeste de la provincia amazónica de **Morona Santiago**. Está ubicado en una cadena montañosa que se interna en la selva.
-
-Este **volcán** está situado en una zona deshabitada y ha sido designado como **Parque Nacional** debido a su rica biodiversidad.
-
-El Sucre Viajero 2024 llega con arte a los barrios de Quito
-===========================================================
-
-El Sucre Viajero 2024 empieza este 20 de julio, en el sur de Quito.
--------------------------------------------------------------------
-
-![El Sucre Viajero ha llegado a sitios como Calderón, en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/07/Sucre-Viajero.jpg)
-
-La nueva edición del **[Sucre Viajero](https://teatrosucre.com/lugar/complejo-deportivo-de-la-liga-barrial-matilde-alvarez/)** llega a barrios de **Quito**. La ruta empieza este sábado, 20 de julio de 2024, en el sur de la urbe[.](https://es.wikipedia.org/wiki/Quito)
-
-La iniciativa promovida por la **Fundación Teatro Nacional Sucre** y la Secretaría de Cultura incluye ferias de emprendimientos, actividades lúdicas, música, entre otras actividades.
-
-El Sucre Viajero surgió en 2006 con la premisa de llevar espectáculos artísticos a distintos sectores del **Distrito Metropolitano de Quito**.
-
-### Más noticias
-
-* [¿A qué hora podrás disfrutar de la Luna de Ciervo en Ecuador?](https://www.elcomercio.com/actualidad/politica/gabriela-sommerfeld-prepara-defensa-juicio-politico.html)
-* [Festival de Sabores de la Perla se realiza en el Holiday Inn Guayaquil](https://www.elcomercio.com/empresariales/festival-sabores-perla-holiday-inn-guayaquil.html)
-* [¡Precaución! Alerta de radiación UV extremadamente alta para Quito](https://www.elcomercio.com/actualidad/ecuador/alerta-radiacion-uv-extremadamente-alta-quito.html)
-
-La agenda del Sucre Viajero en Quito
-------------------------------------
-
-El **Sucre Viajero 2024** llegará a Turubamba, Lumbisí y el parque El Arbolito. Este 20 de julio, las actividades están programadas desde las 15:00, en el primero de estos destinos.
-
-El primer evento de la nueva edición de la iniciativa será el homenaje a los tríos de **Ecuador** y a lo más representativo del repertorio tradicional.
-
-El escenario está en el complejo deportivo de la **Liga Barrial Matilde Álvarez**. También se instalará la denominada **Placita del Viajero**.
-
-Se sumará una banda de pueblo y se desarrollará la obra de teatro **Andes, la ruta de los sueños**.
-
-Desde las 19:00, el turno será para las presentaciones de los grupos musicales **Quimera, Grupo Yavirac  
-Trío Pambil y Los Garles.**
-
-Siguiente parada, 27 de julio
------------------------------
-
-El **Sucre Viajero** llegará a **Lumbisí** con un homenaje a lo más representativo de la música popular. La Plaza de la Identidad del sector será el punto de encuentro. También se desplegarán la **Plaza del Viajero** y la obra de teatro.
-
-En el bloque musical participarán **Andrea Cóndor,** **Ángela Valencia, Iraiz Oviedo y La Toquilla**.
-
-El Arbolito es la última parada
+¿Qué se investiga en este caso?
 -------------------------------
 
-El 3 de agosto de 2024, el **Sucre Viajero** cierra su temporada en el parque El Arbolito. Será el turno del rock ecuatoriano junto a **Sal y Mileto, Trébol y Narviko**.
+El caso Encuentro es una investigación en curso llevada a cabo por la **Fiscalía General del Estad**o.
 
-En este espacio, al igual que en las dos primeras paradas del evento, habrá la opción de apoyar a emprendimientos.
+Este caso se centra en una presunta organización criminal, que estaría **conformada por funcionarios públicos y particulares** que habrían utilizado su influencia política para interferir en instituciones públicas y obtener réditos económicos indebidos.
 
-El Nacional debuta en la Copa Ecuador 2024
-==========================================
+Además, la investigación apunta a que esta organización direccionaba la adjudicación de contratos y facilitaba el ingreso irregular de personas en empresas estatales como **CNEL EP, BanEcuador y el Servicio Nacional de Aduanas**.
 
-El Nacional, el primer campeón de la Copa Ecuador, regresa al torneo este sábado por los dieciseisavos de final.
-----------------------------------------------------------------------------------------------------------------
+La red criminal habría operado de manera planificada y coordinada, aprovechando su proximidad con el **poder político** para sus actividades ilícitas​.
 
-![El Nacional debuta en la Copa Ecuador 2024 contra Baños Ciudad de Fuego.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-20T143449.446.jpg)
+**_Noticia en desarrollo...._**
 
-**El Nacional** inicia su aventura por la Copa Ecuador 2024 este sábado 20 de julio, cuando se enfrente a Baños Ciudad de Fuego, equipo de la Segunda Categoría de Tungurahua.
+Durán y los resultados después de la toma ordenada por Daniel Noboa
+===================================================================
 
-La partida corresponde a los **dieciseisavos de final del torneo**. Y el ganador se enfrentará en octavos al ganador de la llave entre Orense y Deportivo Santo Domingo. 
+Allanamientos y aprehensión son parte de las labores en Durán, tras la toma de Daniel Noboa.
+--------------------------------------------------------------------------------------------
+
+![El Bloque de Seguridad llegó a Durán para desarrollar labores contra los grupos delincuenciales.](https://www.elcomercio.com/wp-content/uploads/2024/07/Duran-1.jpg)
+
+**Bloque de Seguridad** opera en el cantón **Durán**, de forma permanente, desde el 17 de julio de 2024. Según el gobierno de **Daniel Nobo**a. Este martes 23 se informaron algunos resultados de las labores[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+Según el **Ministerio de Defensa**, el contingente militar y policial se triplicó. En el lugar se han realizado allanamientos con personal de fuerzas especiales y lucha contra el terrorismo.
+
+### Más noticias
+
+* [Los habitantes de Durán esperan los resultados en seguridad](https://www.elcomercio.com/actualidad/seguridad/los-habitantes-de-duran-esperan-comprobar-los-resultados-en-seguridad.html)
+* [Daniel Noboa se toma Durán, un día después hay un sicariato](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-toma-de-duran-sicariato.html)
+* [Policía presentó los primeros resultados que deja la intervención a Durán](https://www.elcomercio.com/actualidad/seguridad/operativo-duran-balance-policia-noboa.html)
+* [Daniel Noboa: ‘El viejo Ecuador quiere que Durán siga siendo una sede del narcotráfico’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-duran-progreso-narcotrafico-operativos.html?source=Internal&ref=Single+Content+Link)
+* [Daniel Noboa liderará la seguridad en Durán durante al menos una semana](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-seguridad-duran-policia.html?source=Internal&ref=Single+Content+Link)
+* [Daniel Noboa entregó equipamiento nuevo a la Policía Nacional](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-entrega-equipamento-nuevo-policia-nacional.html?source=Internal&ref=Single+Content+Link)
+
+Acciones en Durán tras la toma de Daniel Noboa
+----------------------------------------------
+
+El Grupo de Tarea Conjunta **Durán** se encuentra desplegado en diferentes puntos para combatir a los grupos narcoterroristas que operan en este cantón.
+
+Según declaraciones del ministro de Defensa, **Gian Carlo Loffredo**, No descansarán hasta devolver la paz y la tranquilidad a los ciudadanos de este cantón.
+
+En los primeros días, por medio de labores de inteligencia, se logró la desarticulación de una oficina paralela al **Municipio** de ese cantón.
+
+También se capturó a personas consideradas como objetivos de alto valor, como alias ‘Pistola’ y varios  
+miembros del grupo de delincuencia organizada **‘Chonekillers’**.
+
+Del mismo modo, se desmanteló una bodega clandestina de trámites de tránsito de, al menos, **31 gobiernos municipales.**
+
+Según el **Ministerio de Defensa**, los allanamientos se realizan a diario, incautando droga, dinero en efectivo, armas, municiones y vehículos.
+
+Resultados hasta este 23 de julio
+---------------------------------
+
+El gobernador del Guayas, **Vicente Auad**, informó que están trabajando de acuerdo con mapas de calor geo referenciados. Entre los resultados destacó que se han recuperado casas que habían sido tomadas por la delincuencia.
+
+Por parte de las **Fuerzas Armadas**, este 23 de julio, en rueda de prensa, informaron que hacen un acompañamiento permanente a la comunidad, para que, de a poco, se recupere la paz.
+
+Desde la **Policía** indicaron que en la semana del 15 al 21 de julio de 2024 hubo una reducción de 20 muertes violentas (hubo cinco) respecto del mismo período de 2023, cuando hubo 25.
+
+No obstante, apuntaron, ya han registrado días sin muertes de ese tipo. Además, ya hubo **28 personas aprehendidas**, ocho armas ubicadas, 138 cartuchos, dos vehículos recuperados y seis motos.
+
+Viviendas vuelven a manos de sus dueños
+---------------------------------------
+
+****Se entregaron 70 viviendas a sus propietarios,**** a quienes grupos delictivos despojaron de los predios violentamente. 
+
+Este 23 de julio también se aprehendieron a tres sujetos que extorsionaban a la población.
+
+Según las **fuerzas del orden**, las personas ya empiezan a salir de sus viviendas, se acercan a los policías y militares.
+
+Claro que, enfatizó el **Gobernador del Guayas**, es una lucha de largo aliento y no van a salir de **Durán** hasta recuperar el cantón. Anunció que este proceso será integral, con capacitaciones y servicios.
+
+Beyoncé autorizó el uso de Freedom en la campaña de Kamala Harris
+=================================================================
+
+La cantante estadounidense Beyoncé autorizó el uso de Freedom, un himno a la libertad.
+--------------------------------------------------------------------------------------
+
+![Beyoncé es la intérprete de Freedom. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo79.jpg)
+
+La reconocida cantante **Beyoncé** dio su visto bueno para que **Kamala Harris**, vicepresidenta del gobierno estadounidense y aspirante a la candidatura demócrata para las presidenciales de noviembre, utilice su popular canción Freedom en los eventos de su campaña.
+
+Según informaciones de **CNN**, el equipo de **Harris** recibió la autorización de los representantes de Beyoncé para emplear el tema en sus actos políticos.
+
+### Más noticias
+
+* [Shakira es un camaleón latino con visión](https://www.elcomercio.com/tendencias/entretenimiento/shakira-latina-influyente-pop-musica.html "https://www.elcomercio.com/tendencias/entretenimiento/shakira-latina-influyente-pop-musica.html")
+* [Shakira todavía incomoda a Piqué y Clara Chía](https://www.elcomercio.com/afull/shakira-todavia-incomoda-a-pique-y-clara-chia.html "https://www.elcomercio.com/afull/shakira-todavia-incomoda-a-pique-y-clara-chia.html")
+* [Thalía es criticada y alabada por lucir una prenda de vestir que recordó a ‘Marimar’](https://www.elcomercio.com/tendencias/entretenimiento/thalia-cantante-actriz-outfit-maquillaje-redes-sociales.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/thalia-cantante-actriz-outfit-maquillaje-redes-sociales.html?source=Internal&ref=Single+Content+Link")
+
+### **Beyoncé autorizó el uso de Freedom a Kamala Harris**
+
+El permiso fue otorgado de manera rápida después de que el equipo de **Harris** solicitara el uso de Freedom el pasado lunes.
+
+A pesar de que **Beyoncé** no ha manifestado un apoyo público explícito hacia **Harris**, la autorización para el uso de su canción refleja una clara inclinación de la superestrella hacia la vicepresidenta.
+
+Esta colaboración se produjo en un momento crucial, justo después de que el presidente **Joe Biden** anunciara que no buscará un segundo mandato.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C0AFOafy4sm/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Beyoncé (@beyonce)](https://www.instagram.com/reel/C0AFOafy4sm/?utm_source=ig_embed&utm_campaign=loading)
+
+Harris ya hizo uso de Freedom en su primera visita oficial a su sede de campaña la noche anterior. **Beyoncé**, conocida por sus estrictas normas en la autorización de su música, muestra así su respaldo de una manera significativa, alineándose con su historial de apoyo a candidatos demócratas.
+
+En 2013, **Beyoncé** interpretó el himno nacional en la toma de posesión del presidente **Barack Obama**. En 2016, junto a su esposo Jay-Z, participó en un concierto para **Bill Clinton** en Cleveland, y en 2020, respaldó públicamente la candidatura Biden-Harris.
+
+### **¿De qué trata Freedom de Beyoncé?**
+
+Freedom, un himno a la libertad incluido en el álbum ‘Lemonade’ de 2016, será ahora una pieza clave en la campaña de **Harris**, subrayando el apoyo continuo de **Beyoncé** hacia el partido Demócrata y sus candidatos.
+
+Félix Sánchez Bas es el nuevo DT de Gonzalo Plata en Catar
+==========================================================
+
+Félix Sánchez Bas y Gonzalo Plata se volverán a encontrar, pero esta vez no será en la Selección de Ecuador.
+------------------------------------------------------------------------------------------------------------
+
+![Félix Sánchez Bas dirigirá a Gonzalo Plata en Catar.](https://www.elcomercio.com/wp-content/uploads/2024/07/ENDRICK-PALMEIRAS-2024-07-23T112029.280.jpg)
+
+**Félix Sánchez Bas**, quien fue entrenador de la Selección de Ecuador desde marzo de 2023 hasta principios de julio de 2024, ya encontró un nuevo equipo. El estratega español dirigirá en Catar y coincidirá con **Gonzalo Plata**. 
+
+El ex DT de la ‘Tri’ **volverá al país que lo vio nacer como entrenador** cuando se unió al Aspire Academy en 2006, para después pasar por todos los equipos juveniles de la Selección de Catar hasta llegar al conjunto absoluto y dirigirlo en el primer Mundial (2022) de su historia. 
 
 ### Más noticias:
 
-* [Aucas goleó y eliminó a La Castellana de la Copa Ecuador](https://www.elcomercio.com/deportes/aucas-la-castellana-copa-ecuador.html "Aucas goleó y eliminó a La Castellana de la Copa Ecuador")
-* [Marco Pazos revela profunda crisis de El Nacional](https://www.elcomercio.com/deportes/el-nacional-deuda-crisis-marco-pazos.html "Marco Pazos revela profunda crisis de El Nacional")
-* [La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa](https://www.elcomercio.com/deportes/futbol/copa-ecuador-partidos-dieciseisavos-final.html "La Copa Ecuador se reanuda con cuatro partidos de la segunda etapa")
+* [Fernando León criticó fuertemente a Félix Sánchez Bas](https://www.elcomercio.com/deportes/futbol/fernando-leon-critico-fuertemente-felix-sanchez-bas.html "Fernando León criticó fuertemente a Félix Sánchez Bas")
+* [Las razones de la renuncia de Félix Sánchez Bas de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/felix-sanchez-bas-razones-renuncia-seleccion-ecuador.html "Las razones de la renuncia de Félix Sánchez Bas de la Selección de Ecuador")
+* [Félix Sánchez Bas se reencontrará con Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/felix-sanchez-bas-reencontrara-gonzalo-plata.html "Félix Sánchez Bas se reencontrará con Gonzalo Plata")
 
-¿A qué hora juega El Nacional en Copa Ecuador?
-----------------------------------------------
+**Al Sadd, el equipo más importante y ganador de Catar**, con 17 títulos nacionales, anunció a través de sus redes sociales que Félix Sánchez será el nuevo director técnico del equipo. 
 
-El partido entre el **‘Bi-Tri’ y Baños Ciudad de Fuego** arrancará a las 19:00 y se jugará en el Estadio José Silva Romo, en la ciudad de Baños, Tungurahua. 
+“Félix Sánchez será el entrenador del campeón por las **próximas dos temporadas**“, publicó el equipo catarí en su cuenta de Instagram. 
 
-Los militares tienen buenos números en la **Copa Ecuador,** ya que fueron los primeros campeones del certamen en la edición de 1970.
+Lo curioso de la presentación de Félix Sánchez Bas, es que el mensaje estuvo acompañado de un video con varios momentos del español como entrenador, pero ninguno fue con la **Selección de Ecuador.** 
 
-En la segunda edición, en la campaña 18/19, El Nacional llegó hasta los cuartos de final y fue eliminado por Barcelona SC por gol de visitante. 
+Todas las imágenes eran cuando era el DT de Catar o estaba en la Aspire Academy.
 
-Mientras que, en el último certamen que se realizó en 2022, **El Nacional alcanzó las semifinales** y entró al cuadrangular. Al final la ‘Máquina Gris’ quedó tercera. 
+> Welcome to [#AlSadd](https://twitter.com/hashtag/AlSadd?src=hash&ref_src=twsrc%5Etfw), Felix Sanchez! 👋 [pic.twitter.com/L9ckefUoVm](https://t.co/L9ckefUoVm)
+> 
+> — 🏆 #79 Al Sadd SC | نادي السد (@AlsaddSC) [July 23, 2024](https://twitter.com/AlsaddSC/status/1815764901912092909?ref_src=twsrc%5Etfw)
 
-Los premios de la Copa Ecuador
+Félix Sánchez, el nuevo DT de Gonzalo Plata
+-------------------------------------------
+
+En el Al Sadd milita el ecuatoriano **Gonzalo Plata**, que fue una de las figuras en la temporada pasada y con quien Sánchez Bas ya coincidió en la Selección de Ecuador. 
+
+Bajo la tutela del español, P**lata tuvo un inconveniente en una concentración con la ‘Tri’,** cuando se fue a un club nocturno con otros jugadores. Dicha acción le costó al extremo la participación en la Copa América 2024. 
+
+En la Selección de Ecuador, Gonzalo Plata y Félix Sánchez Bas coincidieron en cancha en cuatro partidos, **tres amistosos y uno por las Eliminatorias** Sudamericanas para el Mundial de 2026. 
+
+Con Sánchez Bas como DT, el extremo fue tres veces titular, sumó 253 minutos, anotó un gol y repartió una asistencia. 
+
+Adiós a la voz de Nobita de Doraemon 
+=====================================
+
+La icónica voz de Nobita en ‘Doraemon’ falleció a los 88 años, Conoce más sobre su destacada carrera en el mundo del anime.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Noriko Ohara, la voz emblemática de Nobita, dejó una huella imborrable en el anime. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/07/actriz-doraemon-nobita.jpg)
+
+Quien ha visto **Doraemon**, de ley conoce a **Nobita**. Él es un niño de 10 años que suele tener malas notas en la escuela y problemas con sus amigos.
+
+Uno de los aspectos más memorables de las series, en general, son las voces de los personajes. En este caso, las de Nobita, Doraemon, Shizuka y Gigante. Justamente, una de esas voces se apagó.
+
+**La actriz de doblaje Noriko Ohara** que daba la voz en japonés a Nobita falleció. El deceso ocurrió el 12 de julio de 2024, a los 88 años.
+
+Sin embargo, la noticia fue anunciada este 23 de julio por la página web de **81 Produce**, una reconocida agencia japonesa de **representantes de actores de voz en Japón (‘seiyūs’)**. Así lo informa [Menéame](https://www.meneame.net/m/actualidad/fallece-noriko-ohara-voz-japones-nobita "https://www.meneame.net/m/actualidad/fallece-noriko-ohara-voz-japones-nobita").  
+
+### Más noticias
+
+* [El ‘remake’ de ‘Ranma ½’ ya tiene tráiler y fecha de estreno en Netflix](https://www.elcomercio.com/afull/ranma-anime-manga-remake-estreno.html "https://www.elcomercio.com/afull/ranma-anime-manga-remake-estreno.html")
+* [Así fue la inauguración del Budokan 2024](https://www.elcomercio.com/audios/tendencias/asi-fue-la-inauguracion-del-budokan-2024.html "https://www.elcomercio.com/audios/tendencias/asi-fue-la-inauguracion-del-budokan-2024.html")
+
+La agencia 81 Produce es dirigida por **Rihoko Yoshida**, una ex ‘seiyū’. La noticia del fallecimiento se hizo pública hoy por respeto al **luto de la familia** y por la privacidad con la que manejaron la enfermedad y la muerte de la actriz. 
+
+Ohara es recordada por su contribución a la infancia de muchos niños amantes del **anime y el manga**. La actriz de doblaje estaba en tratamiento contra una enfermedad no especificada al momento de su muerte. La familia efectuó un funeral en privado, para respetar la privacidad y el duelo. 
+
+**Noriko Ohara** deja un legado imborrable en la **industria del doblaje**. Su voz marcó generaciones y su partida es una gran pérdida para la cultura japonesa.  
+
+> 所属事務所の81プロデュースより発表となりましたとおり、去る7月12日に小原乃梨子は永眠いたしました。[https://t.co/iOo7ExdN3M](https://t.co/iOo7ExdN3M)  
+>   
+> 長年にわたり温かな応援をしてくださったファンの皆様、創造的な活動をご一緒してくださったスタッフ、キャストの皆様に御礼を申し上げます。  
+> ありがとうございました。
+> 
+> — 小原乃梨子 出演情報 (@voice\_nohara) [July 23, 2024](https://twitter.com/voice_nohara/status/1815632025673707570?ref_src=twsrc%5Etfw)
+
+**Una trayectoria inolvidable en el mundo del anime** 
+------------------------------------------------------
+
+La carrera de **Noriko Ohara**, a decir de [Hobbyconsolas](https://www.hobbyconsolas.com/noticias/ha-muerto-noriko-ohara-iconica-voz-nobita-doraemon-88-anos-1396938 "https://www.hobbyconsolas.com/noticias/ha-muerto-noriko-ohara-iconica-voz-nobita-doraemon-88-anos-1396938"), comenzó en los años sesenta. Participó en series legendarias como ‘Heidi’ y ‘Marco’. En ‘Heidi’, **Ohara dio vida a Pedro**, en 1974, y en ‘Marco’, a Cocetta Peppino, en 1976. 
+
+**La voz de Nobita Nobi** 
+--------------------------
+
+El papel más destacado de Ohara fue como **Nobita Nobi** en ‘Doraemon’. Su trabajo en la serie comenzó en 1973, como la **madre de Nobita**.
+
+Luego, en 1979, asumió el papel de Nobita. Le dio su voz durante 26 años en la serie, las películas y los especiales de ‘Doraemon’. 
+
+Según [Sensacine](https://www.sensacine.com/series/serie-17684/ "https://www.sensacine.com/series/serie-17684/"), ‘Doraemon’ es una serie de televisión basada en el manga homónimo de **Fujiko F. Fujio**. Narra las aventuras de un gato-robot del futuro que llega al siglo XX para ayudar a Nobita Nobi, un niño perezoso y mal estudiante.  
+
+Nobita, acosado por sus compañeros y apoyado por su amor platónico, Shizuka Minamoto, pide ayuda a Doraemon para resolver sus problemas. **El gato cósmico** utiliza su **bolsillo mágico** para sacar artefactos futuristas, que a menudo complican más las situaciones.
+
+Doraemon fue emitida en Japón entre 1979 y 2005. Tuvo gran éxito con 1 787 capítulos. 
+
+**Premios y reconocimientos** 
 ------------------------------
 
-El campeón representará al país en la **Copa Libertadores 2025** con la denominación de Ecuador 4. Irá a la primera fase y asegurará, tomando en cuenta los montos de 2024, de 400 000  dólares.
+La carrera de Ohara fue galardonada con **múltiples premios** en Japón. Recibió el **Anime Grand Prix** y los **Seiyu Awards**, según ADN Radio.
 
-Otro premio deportivo del monarca de la Copa Ecuador, **será disputar la Supercopa Ecuador** con el campeón de la Liga Pro 2024.
+The New York Times destacó su trabajo en el doblaje de películas extranjeras, donde prestó su voz a personajes femeninos maduros y elegantes, como los interpretados por la actriz norteamericana **Jane Fonda**. 
 
-En lo económico, la [Copa Ecuador repartirá 1,6 millones de dólares](https://x.com/CopaEcuador/status/1812991803077107887). El ganador sumará a sus arcas 340 000 dólares.
+Prioridades para avanzar
+========================
 
-Copa Ecuador – dieciseisavos de final
--------------------------------------
+El esfuerzo del país debe ir también hacia la creación de oportunidades para las personas, tanto laborales como educativas.
+---------------------------------------------------------------------------------------------------------------------------
 
-### Sábado 20 de julio
+![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
 
-**Partido: Baños Ciudad de Fuego vs. El Nacional**
+Hace unos días, la ONUDC informaba sobre las seis prioridades en las que trabajará de manera conjunta con el **Gobierno del Ecuador,** para afrontar el **crimen organizado**, en los próximos meses.
 
-Hora: 19:00
+La primera será **combatir la corrupción** en el sistema portuario del país. Esto implicará no solo reforzar la seguridad, sino entender los **riesgos de corrupción** que hay dentro de estos espacios, justamente por la presión que ejercen los **grupos criminales**. La empresa privada también será incluida en este trabajo, lo cual es clave, porque hay, entre otros, problemas, los de contaminación de carga, falta de mayor control en contenedores, mayor coordinación en seguridad con los puertos privados.
 
-Estadio: José Silva Romo
+La segunda línea será el **refuerzo del control penitenciario**, entendido como **combate al crimen organizado dentro de las cárceles.** Esto incluirá, por ejemplo, estrategias para impedir el reclutamiento de más integrantes a los carteles, reforzar la cooperación entre la Policía, la Fiscalía y el SNAI.
 
-### Domingo 21 de julio
+La tercera línea será el **fortalecimiento de las capacidades para enfrentar el lavado de dinero y activos**. Una de las ideas que se dieron a conocer es que el Gobierno tome los activos identificados como producto de lavado y los utilice para el desarrollo del país.
 
-**Partido: Leones del Norte vs. Mushuc Runa**
+La cuarta plantea la **cooperación transfronteriza fluvial y marítima**, lo cual incluirá una reforma a las capacidades de la Policía y la Armada.
 
-Hora: 16:30
+También se anunció que se trabajará, como quinta prioridad, en el **fortalecimiento de la capacidad de adaptación de las instituciones de justicia penal**. Frente a los asesinatos de jueces, el miedo de ser testigos, se trabajará en el reforzamiento de la seguridad de actores y testigos en los procesos. La protección de derechos humanos es planteada como clave en este punto.
 
-Estadio: Olímpico de Ibarra
+La sexta prioridad será la mejora en la cooperación regional e internacional para prevención y combate del **crimen organizado**, lo cual implicará intercambio de información, inteligencia, operativos conjuntos, en una suerte de uso de redes del país y de la región para entender lo que ocurre y continuar afrontándolo.
 
-**Partido: Manta vs. Deportivo Cuenca**
+En términos generales, se puede decir, que es una propuesta importante en la **lucha contra la criminalidad,** pero solo a cierta escala.
 
-Hora: 19:00
+El esfuerzo del país debe ir también hacia la **creación de oportunidades** para las personas, tanto laborales como educativas.
 
-Estadio: Jocay
+La forma como ha contaminado el tejido social, **la criminalidad es profunda** y sobre ese tema hay demasiado por hacer. Solo basta mencionar un pequeño ejemplo: el uso que se está dando a menores, como campanas o sicarios, de los grupos delictivos.
 
-Tres presuntos integrantes de Los Lobos detenidos en Zamora Chinchipe, en Ecuador
-=================================================================================
+Más allá de las buenas intenciones y de los resultados que se logren -y que ojalá sean positivos-, aún damos manotazos de ahogados en este tema.
 
-La detención de los presuntos integrantes de los Lobos se dio durante un operativo.
------------------------------------------------------------------------------------
+El país necesita conversar, en serio, sobre qué hacer, cómo hacerlo, qué alianzas generar, qué propuesta regional hacer. Mientras no se trace un objetivo claro, más allá de responder con fuego frente a la **violencia y las actividades criminales**, no avanzaremos mucho.
 
-![La Policía de Ecuador aprehendió a tres personas, presuntamente vinculadas a una organización delictiva.](https://www.elcomercio.com/wp-content/uploads/2024/07/Los-lobos-2.jpg)
+Remoción en el Servicio Secreto de EE.UU. tras críticas por el atentado a Trump
+===============================================================================
 
-Un operativo policial dejó tres presuntos integrantes del grupo delincuencial Los Lobos aprehendidos. Las labores se realizaron en la provincia de **Zamora Chinchipe**, en **Ecuador**[.](https://es.wikipedia.org/wiki/Los_Lobos_(pandilla))
+La oposición republicana presionó para que la directora del departamento dimita.
+--------------------------------------------------------------------------------
 
-Las personas se dedicarían al tráfico de sustancias **sujetas a fiscalización**. Las tareas policiales se realizaron el 19 de julio de 2024.
+![La directora del Servicio Secreto de Estados Unidos testifica en una audiencia en la Cámara de Representantes en el Capitolio, el pasado 22 de julio del 2024. FOTO: EFE](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo-14.jpg)
 
-### Más noticias
+La hasta ahora directora del Servicio Secreto estadounidense, Kimberly Cheatle, dimitió este martes 23 de julio del 2024, según adelantó la cadena NBC.
 
-* [Transportistas interprovinciales reaccionan a la masacre en un bus en Los Ríos](https://www.elcomercio.com/actualidad/transportistas-interprovinciales-reaccionan-masacre-bus-los-rios.html)
-* [Dos personas detenidas tras la masacre en un bus en Los Ríos](https://www.elcomercio.com/actualidad/ecuador/dos-personas-detenidas-masacre-bus-los-rios.html?source=Internal&ref=Single+Content+Link)
-* [Masacre en bus interprovincial deja al menos cuatro asesinados, en Los Ríos](https://www.elcomercio.com/actualidad/seguridad/masacre-bus-interprovincial-los-rios.html?source=Internal&ref=Single+Content+Link)
-* [Siniestro en la av. Mariscal Sucre de Quito deja un fallecido](https://www.elcomercio.com/actualidad/quito/siniestro-en-la-av-mariscal-sucre-de-quito-deja-un-fallecido.html?source=Internal&ref=Single+Content+Link)
-
-Detalles de detención de los presuntos integrantes de Los Lobos
----------------------------------------------------------------
-
-La **[Policía Nacional del Ecuador](https://noticias.policia.gob.ec/)**, a través de la subzona **Zamora Chinchipe**, aprehendió a los tres ciudadanos, en el malecón de **Playa Rica**, cantón Yantzaza.
-
-Las tres personas tenían diversas sustancias y equipos utilizados para el presunto tráfico de drogas. Se trata de Fausto V., de 32 años, y dos  adolescentes, de 14 y 16 años.
-
-Los indicios encontrado
------------------------
-
-Durante el operativo, la Policía encontró varios indicios en poder de los aprehendidos:
-
-* Una balanza
-* 14 fundas plásticas con una sustancia color beige, presumiblemente **cocaína**
-* 08 fundas plásticas con una sustancia vegetal color verdosa, presumiblemente **marihuana**
-* Un paquete con una sustancia vegetal color verdosa, presumiblemente **marihuana**
-* Un objeto tipo roca de color beige, presumiblemente **cocaína**
-
-Las sustancias halladas en poder de los tres hombres suman **69,68 gramos de cocaína y 158,56 gramos de marihuana**. Los ciudadanos y las evidencias fueron puestos a disposición de las autoridades competentes y las investigaciones continuarán.
-
-Otros casos registrados
------------------------
-
-La Policía, por medio de la Dirección Nacional de Investigación Antidrogas, ejecutó el operativo denominado **Costanera**. Este se dio la madrugada del 19 de julio y se logró la aprehensión de **300 paquetes tipo ladrillo**. Estos contenían sustancias sujetas a fiscalización.
-
-El hecho se registró en **Esmeraldas**, en el Distrito Río Verde, sector Palestina. Este fue el resultado de investigaciones en las vías que conectan con el perfil costanero.
-
-En el punto, los efectivos policiales identificaron un camión color blanco sospechoso. Una vez realizado el registro del automotor, el resultado fue el hallazgo de los paquetes, con **295 kilos y 500 gramo**s de una sustancia blanquecina. Tras las pruebas respectivas, esta dio positivo para clorhidrato de **cocaína**.
-
-Luego de identificar las **sustancias**, los policías continuaron con las indagaciones para aprehender a los posibles infractores.
-
-Dos detenidos por intentar robar una pieza del monumento de La Independencia en Quito
-=====================================================================================
-
-La pieza tallada en Italia fue una de las cuatro hojas de acanto del monumento. En días anteriores ya se sustrajeron otras dos.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Los individuos fueron trasladados a la Unidad de Flagrancia, donde la Procuraduría del Municipio presentará una denuncia formal. Cortesía AMC](https://www.elcomercio.com/wp-content/uploads/2024/07/Quito-robo-.jpg)
-
-Dos ciudadanos intentaron robar **una de las cuatro hojas de acant**o, que adornan el monumento de **La Independencia, en la Plaza Grande,** en el Centro Histórico de **Quito**.
-
-Los uniformados de la **Agencia Metropolitana de Control (AMC), Cuerpo de Agentes de Control Metropolitano de Quito y la Policía** lo impidieron la madrugada de este sábado 20 de julio de 2024.
-
-### Más noticias
-
-* [El museo Templo del Sol, un espacio para curiosear en Quito en vacaciones](https://www.elcomercio.com/actualidad/quito/museo-templo-sol-historia-tradicion.html "El museo Templo del Sol, un espacio para curiosear en Quito en vacaciones")
-* [Esto son los cierres viales en Quito para este sábado 20 de julio de 2024](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-sabado-20-julio-2024.html "Esto son los cierres viales en Quito para este sábado 20 de julio de 2024")
-* [¡Precaución! Alerta de radiación UV extremadamente alta para Quito](https://www.elcomercio.com/actualidad/ecuador/alerta-radiacion-uv-extremadamente-alta-quito.html "¡Precaución! Alerta de radiación UV extremadamente alta para Quito")
-
-El operativo y monitoreo
-------------------------
-
-El personal de la AMC observó a varios individuos cerca del monumento de la **Independencia**, por lo que realizó el control con las cámaras panorámicas del ECU 911.
-
-Al identificar a dos personas en actitud sospechosa, empezó su seguimiento. Uno de ellos cargaba en su espalda un **bulto cubierto con una tela de color rojo**, en dirección a la **calle Venezuela.**
-
-Al presumir que sustrajeron una pieza del monumento, se alertó a la Policía, que los interceptó y detuvo en las **calles Venezuela y 24 de Mayo.**
-
-Las piezas sustraídas del monumento
------------------------------------
-
-El personal del **Cuerpo de Agentes de Control Metropolitano** verificó que la pieza sustraída correspondía al **monumento** de la **Independencia**.
-
-Los individuos fueron trasladados a la **Unidad de Flagrancia**, donde la Procuraduría del Municipio presentará una denuncia formal.
-
-La pieza sustraída es una de las cuatro hojas de acanto que adornan las esquinas del basamento del monumento. 
-
-Otro robo en la Plaza Grande
-----------------------------
-
-En días anteriores se registró **la sustracción de dos de ella**s. Las piezas que conforman el monumento de la Plaza Grande fueron t**alladas en Italia** y **trasladadas** en **barco y ferrocarril a Quito.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/IMG_6608-1024x1020.jpg)
-
-La pieza que fue sustraída del monumento de La Independencia, en la Plaza Grande.
-
-Cada una tiene un significado histórico, las hojas de acanto, según la tradición griega, representan el triunfo logrado con esfuerzo y dolor.
-
-Nueva inversión por bloque petrolero ubicado en Orellana
-========================================================
-
-La firma del contrato se realizó entre los representantes del Ministerio de Energía y Minas y la empresa ENAP Sipec.
---------------------------------------------------------------------------------------------------------------------
-
-![Firma del contrato modificatorio No. 6, sobre la negociación del bloque 46 Mauro Dávalos Cordero (MDC), ubicado en la provincia de Orellana.](https://www.elcomercio.com/wp-content/uploads/2024/07/bloque-inversion.jpg)
-
-Una [inversión adicional](https://www.elcomercio.com/actualidad/negocios/ecuador-pais-atractivo-grandes-marcas-mod.html "https://www.elcomercio.com/actualidad/negocios/ecuador-pais-atractivo-grandes-marcas-mod.html") de USD 90 millones hasta el 2035, es uno de los principales compromisos establecidos, tras la firma del **contrato modificatorio** de la negociación del bloque 46 Mauro Dávalos Cordero (MDC). Está ubicado en la provincia de **Orellana**.
-
-### Más noticias
-
-* [Ecuador vive un desastre vial por la falta de mantenimiento e inversión](https://www.elcomercio.com/opinion/editorial/ecuador-vive-desastre-vial-por-falta-mantenimiento-inversion.html "Ecuador vive un desastre vial por la falta de mantenimiento e inversión")
-* [Carreteras con inversión privada](https://www.elcomercio.com/opinion/carreteras-inversion-privada-washington-herrera-columnista.html "Carreteras con inversión privada")
-* [Las importaciones cayeron en Ecuador, ¿qué implicaciones tiene?](https://www.elcomercio.com/actualidad/negocios/las-importaciones-cayeron-en-ecuador-que-implicaciones-tiene.html "Las importaciones cayeron en Ecuador, ¿qué implicaciones tiene?")
-
-La suscripción de este documento se efectuó entre el **Ministerio de Energía y Minas** y la empresa **ENAP** **Sipec**. Se trata de una compañía privada de origen **chilena** que opera actualmente, el bloque.
-
-**Antonio Goncalves, ministro de Energía y Minas**, destacó que la suscripción del contrato es una muestra del interés que tiene el Gobierno de potenciar el **sector de los hidrocarburos** de **Ecuador**.
-
-“Con esta firma se aumentarán las reservas en 5,6 millones de barriles de crudo. Es importante destacar que el 98% de las nuevas inversiones, comprometidas por parte de la operadora, se realizarán durante los primeros cinco años posteriores a la **suscripción de la documentación**. Seguiremos impulsando una industria responsable con las comunidades y sostenible con el ambiente”, dijo Goncalves.
-
-Actividades adicionales
------------------------
-
-De acuerdo con una publicación del Ministerio de Energía y Minas como parte de las propuestas presentadas por la contratista se contemplan **actividades adicionales** como: ocho pozos en plataformas de avanzada, dos pozos inyectores, dos conversiones a pozos inyectores. Además de facilidades como mejoras de procesos, **generación eléctrica, repotenciación de oleoductos,** líneas de flujo, entre otros.
-
-El gerente General de **ENAP Ecuador**, Juan Cuervo, señaló “tenemos en nuestra cartera muchas más inversiones para hacer en el país, con la intención de mantener una industria sostenible y responsable en todos los ámbitos”.
-
-  
-
-El G20 presentará las bases de la alianza global contra la pobreza
-==================================================================
-
-Se negocia la participación de organismos como el Fondo Monetario Internacional (FMI) y el Banco Mundial.
----------------------------------------------------------------------------------------------------------
-
-![El ministro de Hacienda de Brasil, Fernando Haddad, participa durante una reunión de ministros de Economía del G20 en Sao Paulo (Brasil).](https://www.elcomercio.com/wp-content/uploads/2024/07/G20-Brasil-efe.jpg)
-
- El [G20](https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html "https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html") presentará la semana próxima en **Río de Janeiro** las bases de la **Alianza Global** contra el **Hambre y la Pobreza** impulsada por Brasil. Este país este año ejerce la **presidencia de la organización**, informaron este viernes fuentes oficiales.
-
-### Más noticias
-
-* [En el G20 avanza la propuesta de un impuesto para los ultrarricos](https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html "En el G20 avanza la propuesta de un impuesto para los ultrarricos")
-* [El papa Francisco y Javier Milei se abrazan en la cumbre del G7](https://www.elcomercio.com/actualidad/mundo/papa-francisco-javier-milei-cumbre-g7.html "El papa Francisco y Javier Milei se abrazan en la cumbre del G7")
-* [En el G20 avanza la propuesta de un impuesto para los ultrarricos](https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html "https://www.elcomercio.com/actualidad/mundo/g20-propuesta-impuesto-ultrarricos.html")
-
-La presentación del marco en que se encuadrará esta propuesta será hecha el **próximo miércoles** 24 de julio de 2024, por el presidente brasileño, **Luiz Inácio Lula da Silva**, y la primera ministra de Bangladesh, Sheikh Hasina. Esto en el marco de una **reunión ministerial** del G20 sobre desarrollo.
-
-El embajador Mauricio Carvalho Lyrio, jefe del equipo negociador brasileño en el G20, explicó en rueda de prensa sobre las bases de esa alianza. Son consensuadas por las **grandes economías** del mundo e incluirán, más allá de una **“consagración de principios”** sobre el combate al **hambre y la pobreza,** lo que definió como “un pilar financiero”.
-
-“Será un gran espacio para el intercambio de experiencias y la cooperación”. También incluirá **mecanismos financieros**, que aún están en discusión. El objetivo es ayudar a los países en desarrollo a cumplir con el objetivo principal de atender a los más pobres, dijo Lyrio.
-
-Entre esos diversos mecanismos, se negocia la participación de organismos multinacionales, como el Fondo Monetario Internacional (FMI) y el Banco Mundial. Otra opción es el **perdón de deudas** de países a fin de liberar recursos para atajar el hambre y la miseria, señaló.
-
-“Existe una infeliz coincidencia, y es que los países en los que hay mucho hambre también hay mucha deuda” externa. La intención es **facilitar la apertura** “del espacio fiscal necesario” para que esas naciones pueden **enfrentar sus dificultades sociales**, indicó.
-
-Según Lyrio, la alianza no estará restringida solamente a los miembros del G20. Por el contrario, “estará abierta a todos los países”, ya que el objetivo es **poner fin** a “una tragedia absoluta” para la propia humanidad.
-
-El diplomático brasileño citó informes de las Naciones Unidas. Uno de ellos es que 750 millones de personas en el mundo “pasan hambre”, y subrayó que esos “números crecientes” desde hace años ponen de manifiesto las “**enormes desigualdades**” del planeta.
-
-La iniciativa para la **Alianza Global** contra el **Hambre y la Pobreza** se enmarca en las grandes prioridades que se traza Brasil para su presidencia del G20. Son la reducción de las desigualdades, el combate al **cambio climático** y una profunda reforma de la gobernanza global.
-
-Labores de sofocación continúan en el cerro Quingo, en Azuay
-============================================================
-
-Más de 400 hectáreas fueron afectadas por este incendio forestal, según la Secretaría Nacional de Gestión de Riesgos.
----------------------------------------------------------------------------------------------------------------------
-
-![Cuerpo de Bomberos de Cuenca.](https://www.elcomercio.com/wp-content/uploads/2024/07/bomberos-cuencia-incendio.jpg)
-
-Este sábado 20 de julio de 2024 continúan las labores de sofocación en los cantones azuayos de **Girón** y **Santa Isabel**, debido al **incendio forestal** que se originó en el cerro **Quingo**.
+Esto ocurre tras las críticas por los errores en la seguridad del mitin en Butler (Pensilvania). En este sitio el expresidente Donald Trump (2017-2021) sufrió un intento de asesinato.
 
 Más noticias
 ------------
 
-* [Terrible incendio se originó en el cerro Quingo, en Azuay](https://www.elcomercio.com/actualidad/ecuador/terrible-incendio-azuay-cerro-quingo.html "Terrible incendio se originó en el cerro Quingo, en Azuay")
-* [Rápido operativo policial y militar salvó 49 vidas en Azuay](https://www.elcomercio.com/actualidad/seguridad/rapido-operativo-policial-y-militar-salvo-49-vidas-en-azuay.html "Rápido operativo policial y militar salvó 49 vidas en Azuay")
-* [Quito firmó dos convenios con la prefectura de Azuay](https://www.elcomercio.com/actualidad/quito/quito-azuay-convenios-obras-publicas.html "Quito firmó dos convenios con la prefectura de Azuay")
+* [Kamala Harris contra Donald Trump, un pulso al machismo y racismo](https://www.elcomercio.com/actualidad/mundo/kamala-harris-donald-trump-machismo-racismo.html "Kamala Harris contra Donald Trump, un pulso al machismo y racismo")
+* [Kamala Harris es la principal candidata por el Partido Demócrata en EE. UU. ¡Pero…!](https://www.elcomercio.com/actualidad/mundo/kamala-harris-es-candidata-principal-partido-democrata.html "Kamala Harris es la principal candidata por el Partido Demócrata en EE. UU. ¡Pero…!")
 
-La mañana de este sábado, un helicóptero de las **Fuerzas Armadas del Ecuador** se sumó al **Cuerpo de Bomberos** y con un el dispositivo bambi bucket empezó a combatir el fuego en el incendio forestal. Afecta principalmente, a los cantones de **Girón y Santa Isabe**l.
+La cadena NBC adelantó, citando a tres fuentes familiarizadas con el tema, que la renuncia se produjo después de varios llamamientos de los legisladores para que renuncie a su cargo.
 
-Son más de 400 hectáreas afectadas por este incendio forestal, según las estimaciones de la **Secretaría Nacional de Gestión de Riesgos.**
+Precisamente ayer Cheatle compareció en un comité de la Cámara de Representantes. Afirmó que el intento de asesinato al expresidente Donald Trump supuso el “mayor fallo operativo” de la agencia “en décadas”.
 
-Inamhi alerta de condiciones climáticas
----------------------------------------
+Cheatle asumió “la responsabilidad completa” del lapso en “seguridad” de su agencia y aseguró que coopera con las investigaciones en curso sobre el atentado.
 
-El **Instituto Nacional de Meteorología e Hidrología** determinó que desde hasta el lunes 22 de julio de 2024 existirán **condiciones atmosféricas favorables** para la activación y propagación de **incendios forestales.** Específicamente en distintos sectores de la **Sierra** y **zonas puntuales** del Litoral.
+La oposición republicana había pedido la renuncia de Cheatle, al frente de la agencia encargada de la seguridad de Trump.
 
-¿Qué hacer según el Inamhi?
----------------------------
+Trump fue herido de bala en una oreja mientras participaba en un mitin en Butler (Pensilvania) el 13 de julio por un tirador que había trepado a un tejado a unos 140 metros del expresidente, aunque fuera del perímetro de seguridad.
 
-El Inamhi recomienda **evitar realizar actividades** que puedan generar chispas o fuego en áreas rurales y forestales. **No arroje colillas** de cigarrillos ni fósforos encendidos.
+Testigos habían alertado desde dos minutos antes de los disparos de la sospechosa presencia del agresor, un joven de 20 años cuyos motivos aún se desconocen y que fue abatido por agentes del Servicio Secreto.
 
-Además, mantengase informado a través de medios oficiales y siga las indicaciones de las autoridades locales. En caso de detectar un incendio, **notificar inmediatamente** a las autoridades competentes.
+Durante la audiencia, los republicanos protestaron por la negativa de Cheatle de responder a la mayoría de sus preguntas alegando que hay varias investigaciones en curso con las que el Servicio Secreto está colaborando para esclarecer qué falló en el operativo.
 
-Zonas afectadas
----------------
+Así funciona el Metro de Quito este martes 23 de julio
+======================================================
 
-En la **región litoral** se prevé los niveles más altos en la provincia de **Guayas**. En la Región Interandina el Inamhi pronostica altos niveles a lo largo de la Sierra, con mayor énfasis en **Imbabura, Pichincha, Azuay y Loja.**
+Los horarios del servicio son de lunes a viernes de 05:30 a 23:00. Los sábados de 07:00 a 23:00 y los domingos y feriados de 07:00 a 22:00.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-¿Qué ocurrió en el cerro Quingo, en Azuay?
-------------------------------------------
+![Los horarios del servicio son de lunes a viernes de 05:30 a 23:00.](https://www.elcomercio.com/wp-content/uploads/2024/07/Metro-.jpg)
 
-El **Cuerpo de Bomberos de Cuenca** informó la noche del miércoles 17 de julio de 2024, sobre un **incendio forestal** en el cerro **Quingo**.
-
-Este cerro está ubicado entre los sectores **Girón y Santa Isabel,** en la provincia de Azuay. Esto se encuentra a 50 kilómetros aproximadamente de la ciudad de Cuenca.
-
-El museo Templo del Sol, un espacio para curiosear en Quito en vacaciones
-=========================================================================
-
-El museo Templo del sol es un espacio destinado al aprendizaje.
----------------------------------------------------------------
-
-![En el museo Templo del sol se cuentan historias de las culturas ancestrales del Quito. Foto: EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/07/Museo-Templo-del-sol.jpg)
-
-El museo **Templo del sol** es un lugar donde la energía humana se puede relajar un instante. Sus instalaciones están diseñadas para aprender sobre **historia** y cómo funciona el **humano** en su aspecto **espiritual**.
-
-Más noticias
-------------
-
-* [12 actividades divertidas para realizar en casa en estas vacaciones](https://www.elcomercio.com/actualidad/quito/12-actividades-divertidas-casa-vacaciones-ninos-adolescentes.html "12 actividades divertidas para realizar en casa en estas vacaciones")
-* [Vacaciones recorriendo el patrimonio de Quito, con rutas y leyendas](https://www.elcomercio.com/actualidad/quito/vacaciones-patrimonio-quito-rutas.html "Vacaciones recorriendo el patrimonio de Quito, con rutas y leyendas")
-* [Si viajas por carretera en estas vacaciones, ten en cuenta estas recomendaciones](https://www.elcomercio.com/actualidad/ecuador/carretera-viajes-recomendaciones-vialidad-vacaciones-ecuador.html "Si viajas por carretera en estas vacaciones, ten en cuenta estas recomendaciones")
-
-Este **museo**, que fue construido en piedra, está ubicado en el sector de **Pululahua**, al cual se llega por la avenida **Manuel Córdova Galarza**, vía a **Calacalí**.
-
-¿Qué hay en el templo del sol?
-------------------------------
-
-Para ir al **Templo del** **Sol** se necesita ser una persona curiosa. A la llegada, una de las **guías** da la bienvenida en una **lengua ancestral** y se hace un ritual que **purifica** el **espíritu** de los turistas.
-
-Más tarde se ingresa al Templo del Sol, donde un reloj marca la hora con la luz solar.
-
-Luego de una explicación sobre este extraño fenómeno se ingresa a una sala de relajación en donde se aprende de las virtudes de la meditación y la función de una variedad de **minerales,** que existe en **Ecuador** y que los ancestros utilizaban para su **protección**.
-
-La **aromaterapia** también es una de las **actividades** que se pueden hacer en el **Templo del Sol**. Este pequeño ritual está acompañado de **sonidos** similares a los que hacen los **animales**, pero creados a través de **instrumentos ancestrales**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Museo-del-sol-1024x683.jpg)
-
-Esculturas hechas en piedra que son parte del museo Templo del Sol y que fueron hechas por Ortega Maila. Foto: EL COMERCIO.
-
-Salón de arte
--------------
-
-Dentro del museo hay un espacio destinado a las obras del **pintor** y **escultor** ecuatoriano **Ortega Maila**, quien es el **dueño** y **fundador** del **Templo del sol.**
-
-Ahí se puede ver una gran variedad de **pinturas** y **esculturas** que el artista realizó durante toda su carrera. Algunas obras son **copias**, porque las originales fueron **vendidas** o **subastadas** en otros países.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Arte-museo-del-sol-1024x683.jpg)
-
-Cuadros pintados por Ortega Maila. Foto: EL COMERCIO.
-
-Templo de la luna
------------------
-
-El Templo de la luna está ubicado en la parte posterior del Templo del sol. Su entrada está rodeada de estatuas de piedra, que según sus guías, contienen las almas de los indígenas que no se dejaron colonizar por los españoles.
-
-En el interior del santuario, la guía explica la relación que tenían los **indígenas** con la **Pacha mama**, y cómo manejaban su **calendario agrícola**, dependiendo de las fases lunares.
-
-Las **leyendas**, **historias** y **creencias** son la parte más atractiva de este recorrido que dura aproximadamente dos horas.
-
-El **Templo del Sol** abre sus puertas al público de 09:00 a 20:00 de lunes a domingo. El precio de las entradas es de dos dólares para niños y cuatro para los adultos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/07/Museo-del-sol-obras-1024x683.jpg)
-
-Esculturas que representan el papel de la mujer dentro de las culturas ancestrales de Quito. Foto: EL COMERCIO.
-
-Biden insistió en regresar a la campaña presidencial, pese a los pedidos demócratas
-===================================================================================
-
-El portavoz de la campaña, Michael Tyler, aseguró que el presidente Biden no desistirá. Regresará cuando sea dado de alta por covid 19.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Biden se encuentra actualmente en aislamiento en su vivienda de Delaware, después de que el miércoles diera positivo por covid-19 mientras hacía campaña en Nevada. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2023/05/13-5.jpg)
-
-##### Agencia EFE
-
-Pese a las crecientes críticas sobre la idoneidad del presidente de EE.UU., **Joe Biden**, para presentarse a la reelección, la campaña del mandatario continúa cerrando filas en torno al demócrata.
-
-Este sábado aseguró que **pronto regresará a la carretera**, tan pronto como se recupere del **covid-19.**
-
-“Tan pronto como tengamos luz verde, volveremos a estar en la campaña” y el presidente “seguirá haciéndolo, como lo vieron hacer todos los días desde el debate en Atlanta”, apuntó en una llamada con medios el portavoz de la campaña, **Michael Tyler.**
-
-La situación de salud de Biden
-------------------------------
-
-**Biden** se encuentra actualmente en aislamiento en su vivienda de **Delaware**, después de que diera positivo por covid-19 mientras hacía campaña en **Nevada**, estado clave para los comicios de noviembre de 2024. 
-
-Según el último informe del médico del mandatario, **Kevin O’Connor**, Biden ha experimentado una mejoría “significativa” aunque sigue con síntomas, especialmente **tos seca y ronquera.**
-
-El pedido demócrata de que se retire crece
-------------------------------------------
-
-Todo ello mientras cada vez **más demócratas del Congreso** le piden que ponga **fin a su candidatura** para las elecciones de noviembre de 2024. Al menos una treintena han pedido a **Biden** públicamente que se retire.
-
-**Tyler** no hizo balance este sábado 20 de julio de 2024 de las críticas pero aseguró que el **presidente volverá** lo antes que pueda.
-
-No ofreció detalles sobre dónde podría reaparecer, pero explicó que probablemente se seguirá centrando en estados clave como **Nevada, Arizona, Georgia y Carolina del Norte**, así como en el conocido como ‘muro azul’: **Pensilvania, Wisconsin y Míchigan.**
-
-En este último, en la localidad de **Grand Rapids**, ofrecerá este sábado 20 de julio de 2024 un mitin el expresidente **Donald Trump (2017-2021**), el primero tras el intento de asesinato en su contra de hace una semana y también el primero desde que aceptó la nominación esta semana en la convención del **Partido Republicano en Milwaukee (Wisconsin).** 
-
-**Trump** estará acompañado de su candidato a vicepresidente, el senador por **Ohio J.D. Vance**, en el primer mitin de la **fórmula presidencial republicana.**
-
-Estos son los cierres viales en Quito para el sábado 20 de julio de 2024
-========================================================================
-
-Desde las 16:00 de este sábado 20 de julio, un grupo de 57 agentes civiles de tránsito (ACT) realizarán un operativo.
----------------------------------------------------------------------------------------------------------------------
-
-![Agentes Civiles de Tránsito (ACT) realizarán un operativo](https://www.elcomercio.com/wp-content/uploads/2024/07/amt-cierres.jpg)
-
-La **Agencia Metropolitana** de **Tránsito (AMT)** informó sobre los cierres viales para este sábado 20 de julio de 2024 debido el concierto de la agrupación mexicana Morat.
+Este martes 23 de julio, el **Metro de Quito** arrancó sus operaciones con normalidad a las **05:30** en sus 15 estaciones distribuidas a lo largo de la ciudad.
 
 ### Más noticias
 
-* [Horario de cierres viales en la avenida Simón Bolívar este 10 de julio de 2024](https://www.elcomercio.com/actualidad/quito/avenida-simon-bolivar-horarios-cierres-trabajos-municipio.html "Horario de cierres viales en la avenida Simón Bolívar este 10 de julio de 2024")
-* [Quito tendrá 94 cierres viales por Ruta de las Iglesias, este sábado 6 de julio](https://www.elcomercio.com/actualidad/quito/cierres-viales-carrera-rutas-iglesias-quito.html "Quito tendrá 94 cierres viales por Ruta de las Iglesias, este sábado 6 de julio")
-* [Horario de cierres viales en la avenida Simón Bolívar este 3 de julio de 2024](https://www.elcomercio.com/actualidad/quito/avenida-simon-bolivar-cierres-trabajos-rehabilitacion.html "Horario de cierres viales en la avenida Simón Bolívar este 3 de julio de 2024")
+* [¡Cuidado! Vías de Quito tienen otro cierre por caída de un árbol](https://www.elcomercio.com/actualidad/quito/cuidado-vias-de-quito-cierre-caida-arbol.html "¡Cuidado! Vías de Quito tienen otro cierre por caída de un árbol")
+* [Capturan a sujetos que se disfrazaban de policías y médicos para delinquir](https://www.elcomercio.com/actualidad/seguridad/captura-sujetos-disfrazaban-policias-medicos-para-delinquir.html "Capturan a sujetos que se disfrazaban de policías y médicos para delinquir")
+* [Así funciona el Pico y placa en Quito este martes 23 de julio](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-23-de-julio.html "Así funciona el Pico y placa en Quito este martes 23 de julio")
 
-Desde las 16:00 de este sábado 20 de julio de 2024, un total de 57 agentes civiles de tránsito (ACT) realizará un operativo con los siguientes cierres viales debido al concierto de Morat en el **Estadio Olímpico Atahualpa** (norte).
-
-Cierre principal
+La Cultura Metro
 ----------------
 
-A las 16:00 se encontrará con restricción vehicular las siguientes calles:
+Dentro de las estaciones del **Metro de Quito** es importante respetar ciertas normas bajo las directrices del personal que está en cada una de las estaciones.
 
-* José Correa y Sebastián Quinteros.
-* Manuel María Sánchez y Quintero.
-* 6 de Diciembre y Germán Alemán.
+Estas normas se han establecido no solo para cuidar el **patrimonio de todos** y hacer buen uso del bien público, sino para tener una **mejor convivencia** entre todos.
 
-Cierre secundario
------------------
+Pero, sobre todo, ciertas de las normas se han definido para **precautelar la seguridad** de todos los usuarios del **sistema Metro**.
 
-Al existir una alta afluencia de peatones en la vía, se implementarán cierres:
+Una de ellas es la **línea amarilla**, la cual es una señal de **seguridad** en los andenes del Metro que significan una alerta para que no te acerques más a las rieles.
 
-* 6 de Diciembre y José Correa.
-* José Correa y Gonzalo Serrano.
-* José Correa y Carlos Arroyo del Río.
-* Manuel María Sánchez y Carlos Arroyo del Río.
-* Manuel María Sánchez y Juan Ramírez.
-* Manuel María Sánchez y Javier Arauz.
-* Manuel María Sánchez y av. 6 de Diciembre.
-* 6 de Diciembre y av. Portugal.
-* Suecia y Av. De los Shyris.
-* Naciones Unidas y av. De los Shyris.
-* Naciones Unidas y av. República del Salvador.
-* Portugal y av. República del Salvado.
-* El Comercio y Av. 6 de Diciembre.
+Si no haces caso al **reglamento** ni a los miembros de la **seguridad de las estaciones**, puedes ser sancionado con una multa de **460 dólares**.
 
-Vías alternas
--------------
+Así funciona el Metro de Quito hoy
+----------------------------------
 
-* De los Shyris.
-* Amazonas.
-* Eloy Alfaro.
-* 10 de Agosto.
+Este martes 23 de julio de 2024, el **Metro de Quito** opera con normalidad en todas **estaciones** distribuidas entre el norte y el [sur de Quito](https://es.wikipedia.org/wiki/Metro_de_Quito).
 
-Recomendaciones de la AMT
--------------------------
+Los horarios del servicio son de **lunes a viernes** de 05:30 a 23:00. Los **sábados** de 07:00 a 23:00 y los **domingos y feriados** de 07:00 a 22:00.
 
-Para este sábado 20 de julio de 2024 se recomienda utilizar transporte público, estacionar solo en lugares permitidos y priorizar la circulación de peatones.
+Los trenes recorren los 22 km que unen a **Quitumbe con El Labrador** a una velocidad promedio de 40 km/hora.
+
+El trayecto entre **El Labrador y Quitumbe** se realiza en 35 minutos, en horas pico.
+
+El costo del pasaje es de **0,45 centavos de dólar** y se maneja a través de **códigos QR** que se leen a través de máquinas con sensor.
+
+¿Cuándo correrá Richard Carapaz en el Mundial de Ciclismo?
+==========================================================
+
+Richard Carapaz fue uno de los protagonistas del Tour de Francia 2024. Ahora competirá en la Vuelta a España.
+-------------------------------------------------------------------------------------------------------------
+
+![Richard Carapaz con el EF Education-EasyPost en el Tour de Francia 2024.](https://www.elcomercio.com/wp-content/uploads/2024/07/carapaz_circuito_mundial.jpg)
+
+**Richard Carapaz** será el líder del equipo de Ecuador que competirá en Zúrich, Suiza, en la edición 91 del Campeonato Mundial de Ciclismo en Ruta.
+
+Para Richard Carapaz esta será su **cuarta participación en el Campeonato Mundial de Ciclismo en Ruta**. Llega consagrado como el mejor ciclista del país de todos los tiempos y  uno de los más destacados del mundo.
+
+### Más noticias:
+
+* [¿Cuándo juega Liga de Quito por Copa Sudamericana?](https://www.elcomercio.com/deportes/cuando-juega-liga-de-quito-copa-sudamericana-vuelta-always-ready.html "¿Cuándo juega Liga de Quito por Copa Sudamericana?")
+* [Liga de Quito jugará en el estadio más alto de Bolivia por Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/liga-de-quito-jugara-en-el-estadio-mas-alto-de-bolivia-por-copa-sudamericana.html "Liga de Quito jugará en el estadio más alto de Bolivia por Copa Sudamericana")
+* [Vanessa Chalá representa al judo de Ecuador en los Juegos Olímpicos de París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/vanessa-chala-judo-juegos-olimpicos-paris2024-ecuador.html "Vanessa Chalá representa al judo de Ecuador en los Juegos Olímpicos de París 2024")
+
+La primera vez que Carapaz dijo presente en el **Mundial de Ciclismo fue en el 2018 en Innsbruck, Austria**. El ganador fue el español Alejandro Valverde, mientras que el carchense se colocó en la casilla 72.
+
+En el **2019 estuvo en Yorkshire, Reino Unido**. Esta vez no logró terminar el recorrido de 261,8 kilómetros y se retiró. El campeón fue el danés Mads Pedersen.
+
+En el **2020 representó al país en Ímola, Italia**. Terminó el recorrido de 258,2 kilómetros en el puesto 22. El francés Julian Alaphilippe se apoderó del puesto.
+
+Para el 2024 el recorrido contempla una distancia de 273,9 kilómetros. Arrancará en Winterthur, la sexta ciudad más poblada de Suiza, y terminará en Zúrich, la capital del país.
+
+¿Cuándo es la competencia de Richard Carapaz?
+---------------------------------------------
+
+La participación de **Richard Carapaz y el equipo de Ecuador en el Mundial de Ciclismo en Ruta**, está programada para el domingo 29 de septiembre.
+
+La Unión Ciclista Internacional (UCI) determinó que la carrera arranque a las 10:30 de Suiza, esto quiere decir que en Ecuador serán las 03:30 de la madrugada.
+
+El recorrido se estima que se cubra en un **tiempo aproximado de seis horas y 30 minutos**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/07/recorrido_mundial.png)
+
+Foto: zurich2024.com.
+
+La carrera tiene su punto de inicio en Winterthur, pasa por Kyburg y antes de llegar  a Zúrich, el circuito recorrerá Illnau, Volketswil, Fällanden, Maur, Binz, Zumikon, Küsnacht y Zollikon.
+
+Ya en Zúrich **tendrán que completar seis vueltas en un circuito que alcanza 501 metros** de elevación entre distintos puntos de la referida ciudad y sus alrededores.
+
+El recorridos están acompañados por el los lagos de Greifensee y de Zúrich.
+
+El actual campeón mundial de ruta es el neerlandés Mathieu van der Poel. Lo logró en el 2023 en Glasgow, Escocia.
+
+Equipo de Ecuador para el Mundial de Ciclismo
+---------------------------------------------
+
+Richard Carapaz (EF Education-EasyPost) será el líder del equipo de Ecuador en la competencia.
+
+Sus compañeros son un verdadero lujo y son la élite del ciclimo ecuatoriano: **Jhonatan Narváez  (INEOS Grenadiers)**, Jonathan Caicedo (Petrolike), Alexander Cepeda (EF Education-EasyPost)  y Jefferson Cepeda (Caja Rural-Seguros RGA).
+
+La presencia de **Harold Martín López (Astana Qazaqstan Team)** aún no confirma su participación por motivo de agenda, pero tiene la primera opción para integrar el equipo. En caso de no ser así, se tomará en cuenta a otro deportista.
+
+No te pierdas – San viernes con Richard Carapaz
+-----------------------------------------------
+
+Karol G transmitirá en vivo para Ecuador el último concierto de su histórica gira
+=================================================================================
+
+Ecuador también disfrutará del último concierto de Karol G. La transmisión será hoy, en tiempo real.
+----------------------------------------------------------------------------------------------------
+
+![Karol G transmitirá su último concierto de la gira 'Mañana Será Bonito' por su canal de YouTube. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo78.jpg)
+
+**Karol G** transmitirá en vivo el último concierto de su gira ¿A qué hora se verá en **Ecuador**? La reconocida cantante **colombiana** está lista para culminar su histórica gira mundial ‘**Mañana Será Bonito’** con un megaconcierto hoy 23 de julio de 2024 en **Madrid**.
+
+Ese será el último de una serie de cuatro **shows** en tierras españolas. La transmisión será a través de su cuenta oficial de **YouTube**.
+
+### Más noticias
+
+* [Karol G transmitirá en vivo el último concierto de su gira ¿A qué hora se verá en Ecuador?](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-concierto-vivo-youtube-ecuador.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-concierto-vivo-youtube-ecuador.html")
+* [Karol G y otros famosos que no cumplieron las expectativas al cantar el himno nacional](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-himno-nacionanl-criticas-multas-carcel-mexico.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-himno-nacionanl-criticas-multas-carcel-mexico.html?source=Internal&ref=Single+Content+Link")
+* [Karol G y el beso apasionado que agitó las redes sociales](https://www.elcomercio.com/afull/karol-g-feid-colombia-copa-america.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/afull/karol-g-feid-colombia-copa-america.html?source=Internal&ref=Single+Content+Link")
+
+### **¿Quién es Karol G?**
+
+Karol G, cuyo nombre real es Carolina Giraldo Navarro, es una destacada cantante y compositora colombiana. Nació en Medellín el 14 de febrero de 1991.
+
+Comenzó su carrera musical a una edad temprana y ha logrado consolidarse como una de las figuras más influyentes del reguetón y la música urbana.
+
+Su álbum debut, ‘Unstoppable’ (2017), marcó el inicio de su éxito internacional, que se consolidó con su segundo álbum, ‘Ocean (2019)’, y éxitos globales como Ahora Me Llama y Tusa.
+
+Karol G es conocida por su habilidad para combinar ritmos pegajosos con letras empoderadoras, lo que le ha ganado una base de seguidores leal y numerosos premios.
+
+Su influencia en la música latina y su estilo distintivo continúan capturando la atención del público a nivel mundial.
+
+### **Karol G: su último concierto también se verá en Ecuador**
+
+“Mañana es el último concierto de ‘Mañana Será Bonito Tour’ y lo vamos transmitir por mi canal de **YouTube** para que todas las personas que hubieran querido estar, y por alguna razón no pudieron, puedan verlo (…)”. Reúnanse con su familia, amigos… en la casa, en el barrio, en el colegio, en la universidad… Pongan pantalla gigante en la cuadra o vayan a su bar favorito… Pero por nada del mundo me faltes a esta última cita”.
+
+> [View this post on Instagram](https://www.instagram.com/p/C8ASP0dCd_p/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by KAROL G (@karolg)](https://www.instagram.com/p/C8ASP0dCd_p/?utm_source=ig_embed&utm_campaign=loading)
+
+Eso escribió la cantante colombiana en una de sus historias en su cuenta oficial de Instagram; por ese canal también compartió un poco de lo que fue su penúltimo concierto en Madrid.
+
+En esa misma historia, Karol G confirmó el horario de transmisión de su último show; será a las 17:30 de Ecuador.
+
+Tras la detención de alias ‘Chabalo’, así está su situación judicial
+====================================================================
+
+Juan Carlos Ch., alias 'Chabalo', fue detenido tras décadas por narcotráfico. En su arresto se incautaron armas y dinero.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Militares capturan a alias 'Chabalo' objetivo de alto valor.](https://www.elcomercio.com/wp-content/uploads/2024/07/chabelo-narcotraficante.jpg)
+
+**Juan Carlos Ch., alias ‘Chabalo’,** estuvo involucrado en **narcotráfico desde 1999**. En ese año, junto a otras 10 personas, fue procesado por esta causa en el **caso Retorno**. El 21 de julio de 2024 fue detenido en un departamento en **Manta**[.](https://es.wikipedia.org/wiki/Manta_(Ecuador) "https://es.wikipedia.org/wiki/Manta_(Ecuador)")
+
+Las autoridades ecuatorianas, con apoyo de **Estados Unidos**, lo buscaban intensamente.
+
+### Más noticias
+
+* [Gestión de Daniel Noboa con Bloque de Seguridad detalla estos crímenes](https://www.elcomercio.com/actualidad/seguridad/gestion-daniel-noboa-bloque-de-seguridad-revela-crimenes.html "Gestión de Daniel Noboa con Bloque de Seguridad detalla estos crímenes")
+* [Ministro de Defensa cuestiona a la justicia en medio de crisis de inseguridad en Ecuador](https://www.elcomercio.com/actualidad/seguridad/ministro-defensa-cuestiona-justicia-inseguridad-ecuador.html "Ministro de Defensa cuestiona a la justicia en medio de crisis de inseguridad en Ecuador")
+
+Sin embargo, el proceso se diluyó y, en 2020, prescribió. Juan Carlos Ch. **nunca se presentó ante la justicia** y fue liberado junto con otro procesado, Pedro Antonio V. D.
+
+Desde mayo de 2024, ‘Chabalo’ solicitó ocultar sus datos **personales del sistema judicial**, calificando su caso como injusto.
+
+Mientras lo buscaban se convirtió en un próspero empresario del **transporte pesado**. Es accionista en tres empresas de transporte, algunas con nombres que llevan sus apellidos. Aunque sus declaraciones de impuestos **muestran cifras modestas**, su estilo de vida sugiere mayor rentabilidad.
+
+Situación judicial de Juan Carlos Ch. alias ‘Chabalo’
+-----------------------------------------------------
+
+En su arresto, se incautaron más de **medio millón de dólares** en efectivo, armas, municiones y vehículos blindados. También se encontraron sandalias de lujo, lo que indica un **alto nivel de vida**. Las autoridades lo vinculan con los **Comandos de la Frontera**, una **organización narcoguerrillera** que opera entre Ecuador y Colombia.
+
+> Con acciones contundentes, el [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) ha logrado la aprehensión de blancos de alto y mediano valor, a fin de reducir los índices de inseguridad a nivel nacional.  
+>   
+> Retiramos nuestro compromiso de continuar trabajando por la paz, la seguridad y el bienestar de los 🇪🇨. [pic.twitter.com/usUVPUMabQ](https://t.co/usUVPUMabQ)
+> 
+> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [July 22, 2024](https://twitter.com/DefensaEc/status/1815491636773978208?ref_src=twsrc%5Etfw)
+
+La Fiscalía abrió un proceso por **delincuencia organizada**. La instrucción fiscal durará 30 días. Junto a Juan Carlos Ch., otras **seis personas fueron detenidas** y se dictó **prisión preventiva**. La justicia también ordenó la **prohibición de enajenar los bienes** de los procesados, así como de los vehículos retenidos.
+
+Su influencia en la ruta del **narcotráfico entre Sucumbíos y los puertos de Manabí refuerza la teoría de tener** nexos con el narcotráfico colombiano. La conexión con los Comandos de la Frontera se evidenció con el hallazgo de un **campamento armado en Sucumbíos en 2020**.
+
+Venezolanos que viven en Ecuador no votarán este 28 de julio de 2024
+====================================================================
+
+Venezolanos en Ecuador no podrán sufragar debido a que los consulados de Quito y Guayaquil fueron cerrados.
+-----------------------------------------------------------------------------------------------------------
+
+![Ecuador es el centro de múltiples desplazamientos de población.](https://www.elcomercio.com/wp-content/uploads/2024/07/venezuela-migrantes-archivo.jpg)
+
+Los **venezolanos en Ecuador** no podrán votar el domingo 28 de julio de 2024 para las elecciones presidenciales de Venezuela[.](https://es.wikipedia.org/wiki/Venezuela)
+
+Esto se debe a que los [consulados de Quito y Guayaquil](https://www.elcomercio.com/actualidad/mundo/impacto-consulados-venezuela-quito-guayaquil.html "https://www.elcomercio.com/actualidad/mundo/impacto-consulados-venezuela-quito-guayaquil.html") fueron cerrados, por decisión de **Nicolás Maduro**, quien hizo el anuncio el 16 de abril de 2024.
+
+Más noticias
+------------
+
+* [Venezolanos en el extranjero no podrán votar por las trabas gubernamentales](https://www.elcomercio.com/actualidad/mundo/venezolanos-extranjero-votar-trabas-gubernamentales.html "Venezolanos en el extranjero no podrán votar por las trabas gubernamentales")
+* [Comercio, un pilar económico de los venezolanos en Quito](https://www.elcomercio.com/video/comercio-un-pilar-economico-de-los-venezolanos-en-quito.html "Comercio, un pilar económico de los venezolanos en Quito")
+* [Venezolanos en Ecuador solicitan a Daniel Noboa renovar visas y regularización](https://www.elcomercio.com/actualidad/politica/venezolanos-en-ecuador-solicitan-a-daniel-noboa-renovar-visas-y-regularizacion.html "Venezolanos en Ecuador solicitan a Daniel Noboa renovar visas y regularización")
+
+[Venezuela](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-bano-sangre-elecciones-venezuela.html?source=Internal&ref=Single+Content+Link) cuenta actualmente, con una **población de aproximadamente** **29,4 millones de personas**. De ellos, **21,4 millones** pueden teóricamente sufragar en las **elecciones presidenciales** del próximo 28 de julio, tanto dentro como fuera del país, de acuerdo con la agencia Efe.
+
+Sin embargo, debido a los diversos requisitos impuestos por el Gobierno para el registro electoral en el extranjero, **solo 69 211 venezolanos** en el exterior están habilitados para las votaciones, según la publicación de la agencia Efe
+
+Venezolanos en Ecuador
+----------------------
+
+Para **Eduardo Febres Cordero**, director de la firma Tu Migrante y exdiplomático, la falta de sufragio es una forma de coartar a los venezolanos el derecho a elegir sus autoridades.
+
+Al no haber sedes diplomáticas, no se sabe cuántos venezolanos que viven en Ecuador están habilitados para las votaciones desde este domingo 28 de julio.
+
+En **Venezuela el voto no es obligatorio**, por lo que no implica algún tipo de sanción a las personas que no acudan a las votaciones. Tampoco se otorga algún certificado de votación necesario para trámites. “El régimen busca las mil y una maneras de restringir los derechos a los ciudadanos en todos los aspectos”, según información proporcionada por Febres Cordero.
+
+“Es un sentimiento frustrante porque muchos de los que estamos afuera luchamos”. Por ejemplo, yo hice huelga de hambre en Quito para poder hacer mi cambio de residencia y poder sufragar en Ecuador. “Resulta que no lo voy a poder hacer”, indica **Luis Magallanes,** coordinador Nacional De Voluntad Popular Ecuador.
+
+Colombia, cerca de tres millones de desplazados
+-----------------------------------------------
+
+Cerca de tres millones de venezolanos **viven actualmente en Colombia**, convirtiéndolo en el país que más ciudadanos de esa nacionalidad ha acogido.
+
+Según la **Plataforma de Coordinación Interagencial para Refugiados y Migrantes de Venezuela** de la **Organización Internacional** para las Migraciones (OIM) en Colombia **hay 2,9 millones de refugiados** y **migrantes venezolanos**. Esto sitúa a este país como el epicentro regional del éxodo venezolano, indica Efe.
+
+España, el país europeo con más venezolanos
+-------------------------------------------
+
+España es el **país europeo** que más **migrantes venezolanos acoge**. Incluye a muchos líderes opositores que abandonaron Venezuela en los últimos años, de acuerdo con Efe.
+
+Entre ellos están **Dinorah Figuera, Antonio Ledezma, Diego Arria y Leopoldo López**, quienes forman parte del comando de campaña español de María Corina Machado.
+
+Estos opositores trabajaron en favor de la **candidatura de Edmundo González Urrutia**.
+
+Perú y la situación de los venezolanos
+--------------------------------------
+
+En Perú residen cerca de 1,5 millones de venezolanos, de los cuales unos **900 000 tienen edad para votar**. Según cifras del **Consejo Nacional Electoral** (CNE) solo 589 están habilitados para votar.
+
+Una publicación de la agencia Efe, la mayoría no pudo inscribirse debido a los **obstáculos impuestos** por las autoridades, que exigen residencia permanente, **pasaporte vigente y cédula de identidad**.
+
+¡Cuidado! Vías de Quito tienen otro cierre por caída de un árbol
+================================================================
+
+La Agencia Metropolitana de Tránsito desplegó a sus agentes para asistir en las vías cerradas con la gestión del flujo vehicular
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Foto referencial. Los agentes de tránsito asisten en las vías cerradas de esta mañana.](https://www.elcomercio.com/wp-content/uploads/2024/07/cierre-vial.jpg)
+
+La **Agencia Metropolitana de Tránsito** (AMT) informó sobre un **nuevo cierre vial** en las calles del norte de Quito este martes 23 de julio de 2024.
+
+El primer cierre se produjo a las 06:00 en la **av. Maldonado**, en el sur de Quito.
+
+### Más noticias
+
+* [Capturan a sujetos que se disfrazaban de policías y médicos para delinquir](https://www.elcomercio.com/actualidad/seguridad/captura-sujetos-disfrazaban-policias-medicos-para-delinquir.html "Capturan a sujetos que se disfrazaban de policías y médicos para delinquir")
+* [Así funciona el Pico y placa en Quito este martes 23 de julio](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-23-de-julio.html "Así funciona el Pico y placa en Quito este martes 23 de julio")
+* [Una vía de Quito está cerrada por la caída de un árbol este martes 23 de julio](https://www.elcomercio.com/actualidad/quito/via-cerrada-quito-caida-arbol-trole-martes-23-de-julio.html "Una vía de Quito está cerrada por la caída de un árbol este martes 23 de julio")
+
+El primer cierre vial
+---------------------
+
+El **Cuerpo de Bomberos Quito** informó este martes 23 de julio **sobre un incidente** registrado esta mañana en una de las calles de Quito.
+
+**Bomberos** informó que **un árbol cayó sobre un trolebús.** En la imagen compartida por la institución se puede ver el árbol reposando sobre el techo del vehículo.
+
+Este incidente se dio en la **av. Pedro Vicente Maldonado**, a la altura de **La Recoleta**, aproximadamente a las 06:00 de este martes.
+
+Según **Bomberos**, posiblemente **la fuerza del viento** habría causado la caída del árbol. A pesar de que cayó sobre cables, no hay afectaciones eléctricas. La **electricidad** de los cables del Trolebús fue desconectada mientras se ejecutan las labores.
+
+**Parques y Jardines**, del Municipio, se encarga del **corte y el retiro**. Afortunadamente, **no existen** personas heridas en esta emergencia.
+
+**La vía se cerró** en sus dos carriles mientras se soluciona el inconveniente. **Agentes de tránsito** asisten en el sitio para gestionar el flujo vehicular.
+
+El cierre de la vía va desde **la calle Borrero** hasta la calle Tijano. A esta hora (09:48), la vía se encuentra completamente habilitada el tránsito vehicular.
+
+> 🌳 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia en la Av. Pedro Vicente Maldonado, a la altura de La Recoleta.  
+>   
+> 👨🏻‍🚒 Un árbol cayó sobre un vehículo.  
+>   
+> No existen heridos.  
+>   
+> 🚧 La vía se encuentra cerrada. Toma precauciones. [pic.twitter.com/E3KZKCnnBo](https://t.co/E3KZKCnnBo)
+> 
+> — Bomberos Quito (@BomberosQuito) [July 23, 2024](https://twitter.com/BomberosQuito/status/1815711476314743259?ref_src=twsrc%5Etfw)
+
+El segundo cierre, esta vez en el norte de Quito
+------------------------------------------------
+
+La **Agencia de Tránsito** informó que se tuvo que realizar un cierre vial nuevamente en la ciudad, en la avenida **6 de Diciembre y Portuga**l, norte de Quito.
+
+La causa es la misma: **la caída de un árbol.** Mientras este inconveniente se resuelve, la vía se cerró en el carril derecho en sentido norte-sur.
+
+Los organismos de socorro **atienden la emergencia** y realizan las pericias necesarias para retirar el árbol y habilitar [la vía](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 🚧 Cierre: av. 6 de Diciembre y Portugal  
+> 🛣️ Carriles cerrados: carril derecho en sentido norte-sur  
+> ❌ Motivo: caída del árbol  
+>   
+> 👆🏼 Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/dva06HQJXY](https://t.co/dva06HQJXY)
+> 
+> — AMTQuito (@AMT\_Quito) [July 23, 2024](https://twitter.com/AMT_Quito/status/1815754553456722099?ref_src=twsrc%5Etfw)
+
+Richard Carapaz lidera otra vez el ranking UCI en Ecuador
+=========================================================
+
+Después del Tour de Francia, Richard Carapaz está en el primer lugar del ranking en Ecuador. Jhonatan Narváez está segundo.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Después del Tour de Francia, Richard Carapaz (izq.) mejoró 41 posiciones en el ranking mundial de la UCI.](https://www.elcomercio.com/wp-content/uploads/2024/07/carapas2024tour.jpg)
+
+Después de los puntos sumados en el **Tour de Francia**, **Richard Carapaz** volvió al primer lugar del ranking en Ecuador, según la clasificación mundial de la Unión Ciclista Internacional (UCI).
+
+Con la actualización al 23 de julio del 2024, ‘Richie’ retornó a lo más alto del escalafón, entre los ciclistas ecuatorianos, con 2044 puntos. En el ranking mundial mejoró 41 posiciones.
+
+**Jhonatan Narváez**, con 1695 unidades, es el segundo ecuatoriano mejor ubicado en el escalafón.
+
+### Más noticias:
+
+* [Richard Carapaz lidera el equipazo de Ecuador para el Mundial de Ciclismo](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-mundial-ciclismo-suiza.html "Richard Carapaz lidera el equipazo de Ecuador para el Mundial de Ciclismo")
+* [Richard Carapaz en la Vuelta a España 2024, faltan 26 días](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-vuelta-espana-2024.html "Richard Carapaz en la Vuelta a España 2024, faltan 26 días")
+* [El trazado de Juegos Olímpicos de París favorece a Jhonatan Narváez](https://www.elcomercio.com/deportes/jonathan-narvaez-juegos-olimpicos-objetivo.html "El trazado de Juegos Olímpicos de París favorece a Jhonatan Narváez")
+
+Desde finales de mayo, el **‘Lagarto’ Narváez** se colocó al frente del ranking, gracias a su memorable actuación en el **Giro de Italia**, donde ganó una etapa.
+
+No obstante, Carapaz retornó al primer lugar por lo sumado en el **Tour de Francia 2024**, donde ganó la etapa 17, se coronó campeón de la montaña y además fue declarado el ciclista más combativo de la carrera.
+
+Los puntos sumados por Richard Carapaz
+--------------------------------------
+
+La **UCI** realiza la clasificación de acuerdo con los puntos que gana cada deportista por sus distintas participaciones a nivel mundial en el último año.
+
+Las ubicaciones en las carreras y en las etapas tienen distintas puntuaciones. Así, por ejemplo, ‘Richie’ sumó **210 puntos** por haber ganado la clasificación de la montaña en el **Tour de Francia**.
+
+La **‘Locomotora del Carchi’** sumó otros 210 puntos por ganar la etapa 17 del Tour.
+
+Por su puesto 17 en la general, **Carapaz** obtuvo otras 85 unidades.
+
+90 puntos más logró por el cuarto lugar en la etapa 19. Así, otras ubicaciones también le han dado el puntaje que le ha permitido retornar al primer lugar del escalafón entre los ciclistas de Ecuador.
+
+Richard Carapaz y Jhonatan Narváez en el ranking mundial
+--------------------------------------------------------
+
+La clasificación mundial de la UCI la lidera el esloveno **Tadej Pogaca**r, ganador del Giro de Italia y del Tour de Francia en este año.
+
+**Pogacar** suma 10928 puntos.
+
+Le siguen **Remco Evenepoel** con 5904,57 unidades y [**Jonas Vingegaard**](https://es.wikipedia.org/wiki/Jonas_Vingegaard) con 4770,5 en el tercer lugar.
+
+**Richard Carapaz** mejoró 41 puestos y ahora está en el casillero 26 del **ranking mundial.**
+
+J**honatan Narváez**, representante de Ecuador en los Juegos Olímpicos de París 2024, está en el puesto 37 en el mundo.
+
+**Carapaz y Narváez** son los únicos ecuatorianos que aparecen en top 100 de la UCI.
+
+El ranking de Ecuador
+---------------------
+
+1. Richard Carapaz (EF Education), 2044 puntos
+2. Jhonatan Narváez (Ineos), 1695
+3. Jefferson Cepeda (Caja Rural), 578
+4. Jonathan Caicedo (Petrolike), 477,88
+5. Alexander Cepeda (EF Education), 386
+6. Martín López (Astana), 232
+
+Precisamente los cinco primeros corredores han sido confirmados por Ecuador para el mundial de ciclismo en Suiza, en septiembre.
+
+López, podría ser el sexto hombre del seleccionado, pero aún no está confirmado.
+
+![Jhonatan Narváez con la 'maglia rosa' del Giro de Italia](https://www.elcomercio.com/wp-content/uploads/2024/05/1000040759-1024x683.jpg)
+
+Jhonatan Narváez con la ‘maglia rosa’ del Giro de Italia. Foto: EFE
+
+### Más del tema:
+
+* [Alexander Cepeda, campeón del Tour de l’Ain en Francia](https://www.elcomercio.com/deportes/ciclismo/alexander-cepeda-campeon-tour-de-lain-francia.html "Alexander Cepeda, campeón del Tour de l’Ain en Francia")
+* [Jefferson Cepeda gana en China y emociona a su equipo](https://www.elcomercio.com/deportes/ciclismo/jefferson-cepeda-gana-china-equipo-ecuatoriano.html "Jefferson Cepeda gana en China y emociona a su equipo")
+* [Jonathan Caicedo gana la etapa 3 del Sibiu Cycling Tour en Rumanía](https://www.elcomercio.com/deportes/ciclismo/jonathan-caicedo-gana-etapa3-sibiu-tour-rumania.html "Jonathan Caicedo gana la etapa 3 del Sibiu Cycling Tour en Rumanía")
+
+Kamala Harris alcanza el apoyo de suficientes delegados para garantizar su nominación
+=====================================================================================
+
+Harris no se convertiría en la candidata presidencial del partido hasta que los delegados voten el 7 de agosto.
+---------------------------------------------------------------------------------------------------------------
+
+![La vicepresidenta estadounidense, Kamala Harris, participa en un acto de la Asociación Nacional Deportiva Universitaria (NCAA), este 22 de julio de 2024, en la Casa Blanca, Washington (EE.UU.).](https://www.elcomercio.com/wp-content/uploads/2024/07/kamala-harris-estados-unidos.jpg)
+
+[Kamala Harris](https://www.elcomercio.com/actualidad/mundo/kamala-harris-record-recaudacion-81-millones-dolares-24-horas.html "https://www.elcomercio.com/actualidad/mundo/kamala-harris-record-recaudacion-81-millones-dolares-24-horas.html") alcanzó el **apoyo de suficientes delegados** como para garantizar su nominación en el **Partido Demócrata** como candidata a las **elecciones presidenciales** de noviembre, según el congresista de California Robert Garcia.
+
+### Más noticias
+
+* [Kamala Harris es la principal candidata por el Partido Demócrata en EE. UU. ¡Pero…!](https://www.elcomercio.com/actualidad/mundo/kamala-harris-es-candidata-principal-partido-democrata.html "Kamala Harris es la principal candidata por el Partido Demócrata en EE. UU. ¡Pero…!")
+* [Kamala Harris bate récord de recaudación al conseguir 81 millones de dólares en 24 horas](https://www.elcomercio.com/actualidad/mundo/kamala-harris-record-recaudacion-81-millones-dolares-24-horas.html "Kamala Harris bate récord de recaudación al conseguir 81 millones de dólares en 24 horas")
+* [Kamala Harris contra Donald Trump, un pulso al machismo y racismo](https://www.elcomercio.com/actualidad/mundo/kamala-harris-donald-trump-machismo-racismo.html "Kamala Harris contra Donald Trump, un pulso al machismo y racismo")
+
+“California acaba de votar unánimemente para nominar a Kamala Harris para presidenta. ¡Nuestros delegados pusieron a la **vicepresidenta por encima** del número requerido que necesita para ser nuestra nominada para la convención!”, escribió Garcia en X.
+
+Apoyo para ganar la nominación
+------------------------------
+
+Para ganar la nominación en la primera vuelta de la votación, un candidato necesita el apoyo de al menos 1 976 delegados de un total de 4 000.
+
+Estas promesas de apoyo por parte de los delegados son una **muestra simbólica de aval a Harris**, ya que los delegados podrían cambiar de opinión de aquí a la votación en agosto.
+
+Harris no se convertiría oficialmente en la candidata presidencial del partido hasta que los delegados voten en una **votación nominal virtual** que se espera concluya el 7 de agosto.
+
+La vicepresidenta, quien anunció su candidatura ayer tras la retirada de la carrera del presidente, Joe Biden, ya es la candidata favorita de los demócratas. Esto, tras recibir el apoyo de Biden, la expresidenta de la Cámara de Representantes, Nancy Pelosi, y todos los gobernadores demócratas del país -algunos de los cuales **sonaban como posibles candidato**s-.
+
+No obstante, se podrían **presentar otros candidatos** que consigan las firmas de nominación de al menos 300 delegados, y no más de 50 de un solo estado.
+
+Si solo un candidato, con toda probabilidad Harris, alcanza el **umbral de 300 firmas,** la votación virtual podría tener lugar tan pronto como el 1 de agosto. Esto dijeron **funcionarios del partido** a medios locales este lunes, y si hay varios candidatos, la votación se llevaría a cabo días después, pero se completaría antes del 7 de agosto.
+
+En tanto, si la nominación se produce a principios de agosto, la convención demócrata que se celebrará el 19 de agosto en Chicago, será una **función puramente ceremonial.** 
+
+¿Qué pasa con el DT de la Selección de Ecuador?
+===============================================
+
+La Selección de Ecuador espera contratar un nuevo DT tras la Copa América, pero acumula rechazos y no hay candidatos firmes.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Jonhn Yeboah en un partido de la Selección de Ecuador en la Copa América con Félix Sánchez Bas como DT.](https://www.elcomercio.com/wp-content/uploads/2024/07/Disen%CC%83o-sin-ti%CC%81tulo-24.jpg)
+
+La **Selección de Ecuador** permanece sin DT a casi un mes de la salida de Félix Sánchez Bas del cargo. A las opciones se le han sumado rechazos y no hay un candidato firme para tomar las riendas del equipo.
+
+El último entrenador en negarse a tomar al equipo fue el argentino **Eduardo Domínguez**. Aunque ya se sabía de su negativa, este detalló los motivos de está en una rueda de prensa.
+
+### Más noticias:
+
+* [Eduardo Domínguez explicó el no a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/eduardo-dominguez-razonez-rechazo-ecuador.html "Eduardo Domínguez explicó el no a la Selección de Ecuador")
+* [Alexander Bolaños ganó campeonato juvenil con la Selección de Ecuador](https://www.elcomercio.com/deportes/alexander-bolanos-titulo-seleccion-ecuador.html "Alexander Bolaños ganó campeonato juvenil con la Selección de Ecuador")
+* [¿Qué técnicos han rechazado a la Selección de Ecuador?](https://www.elcomercio.com/deportes/selaccion-ecuador-rechazos-entrenadores.html "¿Qué técnicos han rechazado a la Selección de Ecuador?")
+
+El estratega de Estudiantes de la Plata sostuvo que la oferta para llegar a la **Selección de Ecuador** le resultó sorpresiva. A su vez, señaló que se siente cómodo en el conjunto ‘pincha’ y cuenta con el objetivo de ganar un nuevo título y potenciar a los jugadores con los que cuenta.
+
+Domínguez agregó que su intención no es desmerecer a la Tri y lo que esta representa, sin embargo, su camino está en otro lugar. De igual forma, mencionó que su decisión no tiene que ver con la propuesta o el factor económico, sino con sus **motivaciones**.
+
+Otros técnicos han rechazado a la Selección de Ecuador
+------------------------------------------------------
+
+A Eduardo Domínguez se le suman técnicos como **Luis Zubeldía, Marcelo Gallardo y Fernando Batista**. Dos de ellos tuvieron contacto con la Federación Ecuatoriana de Fútbol (FER) mientras que otro sonó como uno de los candidatos, pero manifestó su desinterés.
+
+En el caso de Zubeldía, este apuntó a una decisión vinculada “**100% a sus valores**“. Así lo dijo cuando fue consultado por su decisión y, además, contó que se siente feliz y cómodo en Sao Paulo, su actual club al que le debe su concentración.
+
+El ‘Muñeco’ Gallardo recibió la oferta de la FEF, son embargo, brindó una respuesta por medio de su manager. Este argumentó **motivos personales** para rechazar a la Selección de Ecuador.
+
+Batista, finalmente, también se sumó al listado. El entrenador de Venezuela relató no ser ajeno a las vinculaciones, sin embargo, este se encuentra **enfocado en llevar a Venezuela al Mundial** y que no se iría. Francisco Egas, presidente de la FEF, señaló el haber llamado a su similar venezolano para aclararle que no buscaba arrebatarle a su DT.
+
+¿Cómo le fue a Félix Sánchez Bas como DT de la Selección de Ecuador?
+--------------------------------------------------------------------
+
+El español **Félix Sánchez Bas** se despidió de la Tri después de su papel en la Copa América. Con el combinado nacional, este avanzó hasta los cuartos de final y la eliminación llegó desde los penales tras un empate de 1-1 ante Argentina, cuadro que terminó por consagrarse campeón.
+
+A nivel de eliminatorias, el ibérico supo dar vuelta a los tres puntos menos con los cuales empezó la S**elección de Ecuador** debido a una sanción. Asimismo la dejó en el quinto puesto, zona de clasificación, con ocho puntos luego de tres victorias, dos empates y una derrota.
+
+Otro siniestro de tránsito en Quito. Esto fue lo que pasó la mañana de hoy
+==========================================================================
+
+A través del ECU-911 se coordinó la movilización de los Bomberos y de personal médico.
+--------------------------------------------------------------------------------------
+
+![Una buseta escolar se impactó contra un camión cargado de madera. FOTO: Cortesía AMT](https://www.elcomercio.com/wp-content/uploads/2024/07/Diseno-sin-titulo_20240723_082103_0000.jpg)
+
+Un siniestro vial se produjo a las 07:30 de hoy, martes 23 de julio del 2024, en Tumbaco, el sector La Morita, en la avenida Interoceánica antes del semáforo.
+
+Más noticias
+------------
+
+* [¡Asombroso! Esta cantidad de personas iba en el auto del siniestro de la vía Cuenca](https://www.elcomercio.com/actualidad/asombroso-esta-cantidad-de-personas-iba-en-el-auto-del-siniestro-de-la-via-cuenca.html "¡Asombroso! Esta cantidad de personas iba en el auto del siniestro de la vía Cuenca")
+* [Las muertes crecen en las vías de Quito por no usar cascos ni cinturones de seguridad](https://www.elcomercio.com/actualidad/muertes-crecen-vias-quito-usar-cascos-cinturones-seguridad.html "Las muertes crecen en las vías de Quito por no usar cascos ni cinturones de seguridad")
+
+En las imágenes difundidas por la Agencia Metropolitana de Tránsito (AMT) se ve que se dio un choque entre un camión cargado de tablones de madera y una buseta escolar de color amarillo.
+
+Los tablones entraron en el parabrisas del automotor.
+
+Desde el ECU-911 se coordinó la atención de cuatro personas heridas con el personal de los Bomberos de Quito y del Ministerio de Salud Pública (MSP).
+
+La AMT informó a las 08:53, a través de su cuenta de X, que los dos carriles de la vía están cerrados. Esto ocurre en el sentido Quito-Quinche.
+
+La siniestralidad aumenta en la Interoceánica
+---------------------------------------------
+
+La avenida Interoceánica es una de las carreteras que muestra una tendencia creciente de siniestros de tránsito, principalmente, por exceso de velocidad por parte de los conductores.
+
+Los siniestros se presentan en horas de la mañana y en la noche. Es por esto que la AMT insta a los propietarios de vehículos a que bajen la velocidad y se coloquen los cinturones de seguridad.
+
+La entidad realiza este mes de julio operativos educativos en varias vías de alta siniestralidad. La Interoceánica tiene varias intersecciones críticas para el tránsito vehicular.
+
+Capturan a sujetos que se disfrazaban de policías y médicos para delinquir
+==========================================================================
+
+Las labores investigativas se realizaban como seguimiento a una banda que usaba armas de grueso calibre para asaltar en bancos y domicilios.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![La madrugada de este martes 23 de julio, la Policía capturó a asaltantes.](https://www.elcomercio.com/wp-content/uploads/2024/07/Policia-1.jpg)
+
+La **Policía Nacional** informó este martes 23 de julio sobre la ejecución del **operativo Gran Félix 35**, durante la madrugada de hoy.
+
+### Más noticias
+
+* [Una vía de Quito está cerrada por la caída de un árbol este martes 23 de julio](https://www.elcomercio.com/actualidad/quito/via-cerrada-quito-caida-arbol-trole-martes-23-de-julio.html "Una vía de Quito está cerrada por la caída de un árbol este martes 23 de julio")
+* [Otra parada de la Ecovía cerrada por 50 días](https://www.elcomercio.com/actualidad/quito/ecovia-parada-cerrada-repotenciacion-pasajeros.html "Otra parada de la Ecovía cerrada por 50 días")
+* [Así funciona el Pico y placa en Quito este martes 23 de julio](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-23-de-julio.html "Así funciona el Pico y placa en Quito este martes 23 de julio")
+
+Esta **operación** tuvo el objetivo de desarticular una **organización delictiva** dedicada al robo de entidades financieras e inmuebles residenciales.
+
+La operación Gran Fénix 35
+--------------------------
+
+Este operativo se ejecutó en **Quito**, Guayaquil y Manabí, a través de **varios allanamientos** a distintos inmuebles.
+
+Las labores investigativas se realizaban como seguimiento a una banda que usaba **armas de grueso** calibre para asaltar en **bancos y domicilios**.
+
+Los antisociales operaban bajo la modalidad de realizar **falsos operativos policiales** vestidos con prendas de la Policía y de empresas de seguridad privada.
+
+Indicios recogidos
+------------------
+
+* Nueve armas de fuego
+* 15 alimentadoras
+* Siete vehículos de alta gama
+* Tres motocicletas
+* Seis chalecos antibalas
+* Un dron
+* Prendas de vestir de uso policial, uniformes de seguridad y de médicos
+* Dinero en efectivo
+
+Además, la Policía capturó a **14 personas involucradas** en estos delitos, mediante la ejecución de 19 allanamientos realizados en las tres provincias del país.
+
+Estas pruebas halladas serán presentadas para **formular cargos** a las personas detenidas en este [operativo](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil").
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw)||  
+>   
+> EJECUTAMOS ALLANAMIENTOS PARA DESARTICULAR UNA ESTRUCTURA DELICTIVA  
+>   
+> Esta madrugada se desarrollan varios allanamientos en [#DMQ](https://twitter.com/hashtag/DMQ?src=hash&ref_src=twsrc%5Etfw) [#DMG](https://twitter.com/hashtag/DMG?src=hash&ref_src=twsrc%5Etfw) y [#Manabí](https://twitter.com/hashtag/Manab%C3%AD?src=hash&ref_src=twsrc%5Etfw), a fin de capturar a integrantes de una organización delictiva, dedicada al robo de entidades financieras mediante el uso de… [pic.twitter.com/rRINMtoz71](https://t.co/rRINMtoz71)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [July 23, 2024](https://twitter.com/PoliciaEcuador/status/1815692052014715080?ref_src=twsrc%5Etfw)
+
+Operativos en Durán
+-------------------
+
+La **Policía Nacional** ejecutó también varios operativos contra actividades delictivas y **grupos armados** en Durán, Guayas, este martes 23 de julio de 2024.
+
+Esta megaoperación se realiza como parte de la toma militar que el **gobierno de Daniel Noboa** ejecutó para tratar de contener los crímenes.
+
+En este mismo cantón, ayer la **Policía realizó operativos APC** en puntos estratégicos, en donde recuperó dos motos robadas y aprehendió a un ciudadano, el que fue puesto a órdenes de la autoridad.
+
+> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> OPERATIVOS CONTRA ACTIVIDADES DELICTIVAS Y GRUPOS ARMADOS ORGANIZADOS EN [#DURÁN](https://twitter.com/hashtag/DUR%C3%81N?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Al momento, unidades especializadas de [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw), ejecutan un mega operativo a fin de combatir actividades delincuenciales de grupos armados organizados.  
+>   
+> En desarrollo…… [pic.twitter.com/ofM0tRfYed](https://t.co/ofM0tRfYed)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [July 23, 2024](https://twitter.com/PoliciaEcuador/status/1815726797255815242?ref_src=twsrc%5Etfw)
+
+Una vía de Quito está cerrada por la caída de un árbol este martes 23 de julio
+==============================================================================
+
+Bomberos informó que no se registran personas heridas en este incidente en el sur de Quito. Tome precauciones y busque vías alternas
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Este martes 23 de julio, Bomberos informó que un árbol cayó sobre un trolebús.](https://www.elcomercio.com/wp-content/uploads/2024/07/Trole.jpg)
+
+El **Cuerpo de Bomberos Quito** informó este martes 23 de julio **sobre un incidente** registrado esta mañana en una de las calles de Quito.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este martes 23 de julio](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-23-de-julio.html "Así funciona el Pico y placa en Quito este martes 23 de julio")
+* [Dos incendios forestales se registran en menos de 24 horas en Quito](https://www.elcomercio.com/actualidad/quito/dos-incendios-forestales-se-registran-en-menos-de-24-horas-en-quito.html "Dos incendios forestales se registran en menos de 24 horas en Quito")
+* [Incendio en el cerro Quingo afectó 850 hectáreas de vegetación](https://www.elcomercio.com/actualidad/ecuador/incendio-cerro-quingo-afecto-850-hectareas-de-vegetacion.html "Incendio en el cerro Quingo afectó 850 hectáreas de vegetación")
+
+La emergencia en Quito
+----------------------
+
+El **Cuerpo de Bomberos** informó que **un árbol cayó sobre un trolebús.** En la imagen compartida por la institución se puede ver el árbol reposando sobre el techo del vehículo.
+
+Este incidente se dio en la **av. Pedro Vicente Maldonado**, a la altura de **La Recoleta**, aproximadamente a las 06:00 de este martes.
+
+Según **Bomberos**, posiblemente **la fuerza del viento** habría causado la caída del árbol. A pesar de que cayó sobre cables, no hay afectaciones eléctricas. La **electricidad** de los cables del Trolebús fue desconectada mientras se ejecutan las labores.
+
+**Parques y Jardines**, del Municipio, se encarga del **corte y el retiro**. Afortunadamente, **no existen** personas heridas en esta emergencia.
+
+Vía cerrada
+-----------
+
+**La vía se cerró** en sus dos carriles mientras se soluciona el inconveniente. **Agentes de tránsito** asisten en el sitio para gestionar el flujo vehicular.
+
+El cierre de la vía va desde **la calle Borrero** hasta la calle Tijano. Tome [rutas alternas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 🚧 En el sector La Recoleta, en la av. Maldonado, hay el cierre total de la vía, ambos sentidos desde la Borrero hasta la Tijano por la caída de un árbol.  
+>   
+> 👮‍♀️ Con precaución y atención en las vías [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/hd0JdwzNTi](https://t.co/hd0JdwzNTi)
+> 
+> — AMTQuito (@AMT\_Quito) [July 23, 2024](https://twitter.com/AMT_Quito/status/1815707252797374760?ref_src=twsrc%5Etfw)
+
+Bomberos apagaron un incendio en el Ilaló
+-----------------------------------------
+
+El **Cuerpo de Bomberos Quito** informó ayer, lunes 22 de julio, que atendieron un conato de **incendio** en Cununyacu en el volcán Ilaló.
+
+El **ECU911** reportó que brindan apoyo visual en este conato de incendio. El **Cuerpo de Bomberos** desplegó sus recursos y elementos en la zona para tratar de controlar el fuego.
+
+Bomberos informó que para esta emergencia desplegó **45 efectivos y 16 vehículos** de ayuda.
+
+Para luchar contra esta emergencia, Bomberos ejecutó la técnica del **‘chorro maestro’,** que se utiliza para alcanzar distancias más largas y mayores alturas.
+
+> Uno de los ataques utilizados para controlar el incendio forestal fue el "chorro maestro"  
+>   
+> Aquí te contamos más: [pic.twitter.com/NPJc9glchL](https://t.co/NPJc9glchL)
+> 
+> — Bomberos Quito (@BomberosQuito) [July 22, 2024](https://twitter.com/BomberosQuito/status/1815533151361675271?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este martes 23 de julio
+=============================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento del Pico y placa.](https://www.elcomercio.com/wp-content/uploads/2024/07/Pico-y-placaq.jpg)
+
+La medida del **Pico y Placa** sigue vigente en Quito para **restringir la movilidad** de ciertos vehículos un día de la semana, según el último dígito del registro metálico.
+
+### Más noticias
+
+* [Dos incendios forestales se registran en menos de 24 horas en Quito](https://www.elcomercio.com/actualidad/quito/dos-incendios-forestales-se-registran-en-menos-de-24-horas-en-quito.html "Dos incendios forestales se registran en menos de 24 horas en Quito")
+* [Incendio en el cerro Quingo afectó 850 hectáreas de vegetación](https://www.elcomercio.com/actualidad/ecuador/incendio-cerro-quingo-afecto-850-hectareas-de-vegetacion.html "Incendio en el cerro Quingo afectó 850 hectáreas de vegetación")
+* [Múltiple asesinato en restaurante de Manta se investiga como un hecho aislado](https://www.elcomercio.com/actualidad/seguridad/multiple-asesinato-en-restaurante-de-manta-se-investiga-como-un-hecho-aislado.html "Múltiple asesinato en restaurante de Manta se investiga como un hecho aislado")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+Según el último dígito de la placa, el cronograma es el siguiente:
+
+* **Lunes**: placas terminadas en **1 y 2**.
+* **Martes**: placas terminadas en **3 y 4**.
+* **Miércoles**: placas terminadas en **5 y 6**.
+* **Jueves**: placas terminadas en **7 y 8**.
+* **Viernes**: placas terminadas en **9 y 0**.
+
+Este **martes**, los vehículos con placas terminadas en **3 y 4** no podrán circular dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es esencial tener la **licencia** y la matrícula vigentes.
+
+Si tu licencia está **caducada**, debes seguir estos pasos para renovarla:
+
+1. Generar una orden de pago en la página de la **Agencia Nacional de Tránsito** (ANT).
+2. **Cancelar** el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+3. Obtener un turno para la emisión de la **licencia** en la agencia de tu preferencia.
+4. Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el **turno impreso** con la hora y día agendado.
+5. Realizar la **evaluación teórica**.
+6. Esperar la entrega de la **nueva licencia**.
+
+Para **circular**, necesitas tener **impreso el turno** para renovar la licencia.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del **Pico y placa** para mejorar el flujo vehicular en las horas pico.
+
+Planificar los **recorridos** y verificar que todos los documentos **estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, los **vehículos** con placas terminadas en **3 y 4** no pueden [circular](https://es.wikipedia.org/wiki/Quito) dentro de Quito. Asegúrate de tener tu **licencia y matrícula** vigentes para evitar inconvenientes.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas y evita sanciones!  
+>   
+> 💁‍♀️ Recuerda, la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito, construyamos juntos la cultura vial que necesitamos.  
+>   
+> 💪 Al conducir con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nKuRc348qf](https://t.co/nKuRc348qf)
+> 
+> — AMTQuito (@AMT\_Quito) [July 9, 2024](https://twitter.com/AMT_Quito/status/1810618027504742623?ref_src=twsrc%5Etfw)
