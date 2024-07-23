@@ -1,3 +1,11 @@
+![](https://fiverr-res.cloudinary.com/npm-assets/layout-service/bulb.f211dcf.png)
+
+Our latest product release is here.
+
+Make all your big projects possible with new features.
+
+[Get updatedCheck out our release](https://release.fiverr.com/summer24/?utm_source=release_message&utm_campaign=202407_release&utm_content=guest&utm_term=customers)
+
 [](https://www.fiverr.com/?source=top_nav)
 
 * Fiverr Pro
