@@ -24,23 +24,19 @@
     
     [Glasses Under $20](https://www.eyebuydirect.com/campaign/glasses-under-19#gtype=eyeglasses "Glasses Under $20")
     
-    [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
+    [![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    [Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
+    ![Best Sellers](https://img.ebdcdn.com/cms/Top_Nav_320_424_ce94f52b5c.jpg?q=85&seo=best-sellers)
     
-    [![Future Classic](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")[![Under $50](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Future Classic](https://img.ebdcdn.com/cms/Top_Nav_320_424_fc5de74910.jpg?q=85&seo=future-classic)
+    ![Under $50](https://img.ebdcdn.com/cms/top_nav_under_50_7d83bd90bf.jpg?q=85&seo=under-$50)
     
-    Future Classic](https://www.eyebuydirect.com/collections/future-classic "Future Classic")[![5 TO SEE®](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Under $50](https://www.eyebuydirect.com/campaign/glasses-20-49 "Under $50")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![5 TO SEE®](https://img.ebdcdn.com/cms/Top_Nav_320_424_7c616eb2c8.jpg?q=85&seo=5-to-see®)
+    ![Eco Friendly](https://img.ebdcdn.com/cms/top_nav_csr_f14d042f39.jpg?q=85&seo=eco-friendly)
     
-    5 TO SEE®](https://www.eyebuydirect.com/collections/5-to-see "5 TO SEE®")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
-    
-    New Designer Brands](https://www.eyebuydirect.com/campaign/new-brands "New Designer Brands")
+    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
 * Sunglasses
     
@@ -191,13 +187,15 @@ live chat
 Terms and Conditions of Use
 ===========================
 
-Thank you for visiting EyeBuyDirect.com! — an Essilor Group US Inc. website (the "Site").
+Thank you for visiting EyeBuyDirect.com! — an Essilor of America Inc. website (the "Site").
 
 EyeBuyDirect is a leading online retail store and source for all things eyewear. The Site is designed by us, EyeBuyDirect ("we" and "us"), a company with limited liability situated in and vested under the laws of Dallas TX, to provide a convenient, private, and informative shopping experience for consumers to purchase eyewear and eyewear related products — 24 hours a day, 7 days a week.
 
 We offer a large selection of eyewear and eyewear related products, along with a wealth of information designed to help consumers make educated purchasing decisions. We want each visitor to the Site ("you" — i.e. any natural person acting on the Site with purposes having no relationship to his/her commercial or professional activity) to have a safe, enjoyable visit. That’s why we’ve established the following general terms and conditions so that we (“us” and “you”) know what to expect from each other.
 
 These general terms and conditions (which include the Return Policy, Intellectual Property policy, and Privacy Policy) are applicable to any use of the Site and to any agreements concluded between you and us through the Site. If you do not agree to these Terms and Conditions, you cannot use or access this Site, you cannot buy any optical products or services through this Site, and you should immediately exit this Site. We may make changes to the Site, these Terms and Conditions of Use, or the policies and conditions that govern the use of the Site at any time in our sole discretion. We encourage you to review the Site and the General Terms and Conditions periodically for any updates or changes. By accessing the Site, using its current or future services and/or buying eyeglasses or other optical products through the Site, you agree that you have read, understood and agree to be bound by these Terms of Use. Your continued access or use of the Site shall also be deemed to be your acceptance of any updates and changes, and of the reasonableness of these Terms of Use.
+
+### BY ACCEPTING THIS AGREEMENT, YOU CONSENT TO A CLASS ACTION WAIVER.
 
 Your Account Obligations
 ------------------------
@@ -339,6 +337,12 @@ Termination
 
 These terms are effective until terminated by either party. If you no longer agree to be bound by the Terms and Conditions of Use, you must cease your use of the Site. Subject to applicable law, we reserve the right to suspend or deny, in our sole discretion, your access to all or any portion of the Site with or without notice. You agree that any termination of your access to the Site may be effected without prior notice, and acknowledge and agree that we may immediately deactivate or delete your account and all related information and files in your account and bar any further access to such files or the Site. Further, you agree that we shall not be liable to you or any third-party for any termination of your access to the Site.
 
+### DISPUTE RESOLUTION: PROHIBITION OF CLASS AND REPRESENTATIVE ACTIONS AND NON-INDIVIDUALIZED RELIEF
+
+THIS SECTION LIMITS THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS ACTION.
+
+You and EyeBuyDirect agree that, except where prohibited by applicable law, each of us may bring claims that relate to or arise from your use of or access to our website, any products or services sold, offered, or purchased through our Services, or communications (including calls, texts, or emails) that relate to or arise from your use of or access to our website only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding, including but not limited to actions under the Telephone Consumer Protection Act, 47 U.S.C. § 227 et seq., the California Invasion of Privacy Act, Cal. Penal Code § 630 et seq., the Illinois Biometric Privacy Act, 740 ILCS § 14/1 et seq., the Texas Capture or Use of Biometric Identifier Act, Bus. & Com. § 503.001 et seq., and other federal and state telemarketing and privacy laws. If a court decides that this prohibition of class and representative actions and non-individualized relief is invalid or unenforceable, then the remainder of the Agreement will continue to apply.
+
 Applicable Law
 --------------
 
@@ -392,19 +396,23 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our website, you can email us at [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com)
 
-Disclaimer of Warranty
-----------------------
+### WARRANTY DISCLAIMER.
 
-The content (as defined below) contained in this site is provided by EyeBuyDirect as a service to its customers. This site does not contain information about all eye diseases, nor does this site contain all medical information that may be relevant to your eyecare needs. The information provided in this site is only general health information, and is intended only to facilitate communication between you and your professional eyecare provider. This site does not provide medical diagnosis for any individual and must not be used as a substitute for professional medical advice, diagnosis, treatment, or care. All specific medical questions you may have about your specific medical condition, treatment, care, or diagnosis must be presented to your professional eyecare provider. You should never disregard medical advice or delay seeking professional advice because of any information contained in or related to this site. Except as expressly and unambiguously stated otherwise, EyeBuyDirect does not endorse, operate, control, or assume responsibility for any product, brand, method, treatment, information, or service on this site. The information, services, and products contained in this site are provided "as is" without warranty of any kind, expressed or implied. EyeBuyDirect and our medical advisors, consultants, and staff expressly disclaim and exclude all warranties with respect to all information, services, and products contained in this site, expressed or implied, including but not limited to any warranties of merchantability, fitness for a particular purpose, and non-infringement.
+AS PERMITTED BY APPLICABLE LAW AND EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN OUR WARRANTY POLICY EYEBUYDIRECT MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SITE OR ANY GOODS PURCHASED BY YOU THROUGH THE WEBSITE FOR ANY PURPOSE AND EXPRESSLY DISCLAIMS ANY AND ALL EXPRESS OR IMPLIED WARRANTIES AND REPRESENTATIONS INCLUDING, WITHOUT LIMITATION ANY WARRANTIES OF MERCHANTABILITY, WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE, ACCURACY OF DATA, AND NONINFRINGEMENT, AND DOES NOT GUARANTEE THAT THE SERVICES WILL FUNCTION WITHOUT INTERRUPTION OR ERRORS AND PROVIDES SERVICES (INCLUDING CONTENT AND INFORMATION) ON AN “AS IS” AND “AS AVAILABLE” BASIS, AND “WITH ALL FAULTS” BASIS. SOME LAWS MAY NOT PERMIT CERTAIN DISCLAIMERS SO SOME OR ALL OF THESE DISCLAIMERS MAY NOT APPLY TO YOU.
 
 This site includes content provided by third parties and users. For such content, EyeBuyDirect is a distributor and not a publisher. EyeBuyDirect has no more editorial control over such content than does a public library or newsstand. Any opinions, advice, statements, services, offers, or other information expressed or made available by third parties (including merchants and licensors) are those of the respective authors or distributors of such content and not of EyeBuyDirect or its affiliates, officers, directors, employees, or agents. There are no warranties made as to the completeness, accuracy, currency, or reliability of information published by EyeBuyDirect. EyeBuyDirect does not warrant that information, services, and products contained in this site will satisfy your requirements or is without defect or error.
+
+**HEALTH DISCLAIMER.** ANY GENERAL HEALTH INFORMATION ON THIS WEBSITE IS ONLY INTENDED TO FACILITATE COMMUNICATION BETWEEN YOU AND YOUR HEALTHCARE PROVIDER. IT IS NOT INTENDED FOR DIAGNOSIS OR AS A SUBSTITUTE FOR SEEKING PROFESSIONAL MEDICAL ADVICE. ALL SPECIFIC MEDICAL QUESTIONS SHOULD BE DIRECTED TO A PROFESSIONAL HEALTHCARE PROVIDER.
 
 Limitation on Liability
 -----------------------
 
-You acknowledge and agree by your use of this site to assume full responsibility for all risk associated with your use of this site, including responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use of this website.
+AS PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL EYEBUYDIRECT BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE SITE OR WITH THE DELAY OR INABILITY TO USE THE WEBSITE, SERVICES, OR USER-GENERATED-CONTENT, WHETHER BASED IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE. NOTWITHSTANDING THE FOREGOING, TOTAL LIABILITY OF EYEBUYDIRECT FOR ANY REASON WHATSOEVER RELATED TO USE OF THE WEBSITE SHALL NOT EXCEED THE TOTAL AMOUNT PAID BY YOU TO EYEBUYDIRECT IN CONNECTION WITH THE SUBJECT MATTER OF THE PARTICULAR DISPUTE.
 
-Under no circumstances shall we or any other party involved in creating, producing, or distributing the site be liable for any direct, indirect, incidental, special, or consequential damages for loss of profits, good will, use, data or other intangible losses (even if we have been advised of the possibility of such damages) that result from (i) the use of or inability to use the site, (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained, or messages received or transactions entered into through or from the site; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the site; or (v) any other matter relating to the service. You hereby acknowledge that this paragraph shall apply to all content, merchandise, and services available through the site. Because some states and provinces do not allow the exclusion or limitation of liability for consequential or incidental damages, in such states and provinces liability is limited to the fullest extent permitted by law. You agree to indemnify and hold us, and our subsidiaries, affiliates, officers, directors, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys fees, made by any third party due to or arising out of content you submit, post to or transmit through the site, your use of the site, your connection to the site, your violation of the terms of use, or your violation of any rights of another.
+Indemnity
+---------
+
+As permitted by applicable law, by using this application, You agree to defend, indemnify and hold harmless EyeBuyDirect and its parent and affiliates, and their directors, employees and agents, against any loss, damage, liability, cost, expense (including legal fees) asserted by any third party and arising from: (i) your use of and access to the Site; (ii) any User-Generated Content; (iii) your breach of any of these Terms and Conditions of Use; and (iii) your infringement of any third party rights, including without limitation any property, privacy or intellectual property rights. This indemnity shall survive the duration of your use of the Site.
 
 General Information
 -------------------
@@ -420,7 +428,7 @@ If you have any questions or comments, we are always pleased to hear from our cu
 
 Read our full [Privacy Policy](https://www.eyebuydirect.com/privacy-policy)
 
-Effective Date: January 13, 2022.
+Effective Date: July 23, 2024.
 
 COPYRIGHT NOTICE. Copyright ©EyeBuyDirect, All rights reserved. Any rights not expressly granted herein are hereby reserved.
 
@@ -466,4 +474,4 @@ Our Brands
 
 © 2006-2024 [eyebuydirect.com](https://www.eyebuydirect.com/)
 
-[Privacy Policy](https://www.eyebuydirect.com/privacy-policy) [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use) Do Not Sell or Share My Personal Information [Cookie Notice](https://www.eyebuydirect.com/privacy-policy#cookie-notice) [AdChoices](https://www.eyebuydirect.com/privacy-policy#adchoices) [California Collection Notice](https://www.eyebuydirect.com/privacy-policy#california-notice) [Consumer Health Data Privacy Policy](https://www.eyebuydirect.com/consumer-health-data-privacy-policy)
+[Privacy Policy](https://www.eyebuydirect.com/privacy-policy) [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use) [Cookie Notice](https://www.eyebuydirect.com/privacy-policy#cookie-notice) [AdChoices](https://www.eyebuydirect.com/privacy-policy#adchoices) [California Collection Notice](https://www.eyebuydirect.com/privacy-policy#california-notice) [Consumer Health Data Privacy Policy](https://www.eyebuydirect.com/consumer-health-data-privacy-policy) Your Privacy Choices ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
