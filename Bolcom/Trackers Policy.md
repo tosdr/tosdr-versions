@@ -92,8 +92,6 @@
 * NL
     
 
-[Festival essentials](https://www.bol.com/nl/nl/cmp/Festival-2024/1963/?promo=HEAD_907_Mnav_1_CRS_festival_1)[Klusweken](https://www.bol.com/nl/nl/cmp/klusweken/1966/?promo=HEAD_907_Mnav_1_CRS_klusweken_2)[Sale hardlopers](https://www.bol.com/nl/nl/ra/hardlopers/344106/?promo=HEAD_907_Mnav_1_CRS_salehardlopers_3)[Hitte](https://www.bol.com/nl/nl/sf/hitte/?promo=HEAD_907_Mnav_1_CRS_hitte_4)[Saleop=op](https://www.bol.com/nl/nl/cmp/sale-juli/1962/?promo=HEAD_907_Mnav_1_CRS_sale_5)
-
 Inhoudsopgave
 
 Cookiebeleid
