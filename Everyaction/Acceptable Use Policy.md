@@ -567,31 +567,30 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
-* ![Two nonprofit professionals look at a monitor while one types on a keyboard to develop a strategy to implement subscription giving.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1349494654.jpg?h=3fa75cc7&itok=22yMbpnX)
+* ![A nonprofit employee in an office smiles, confident in the fundraising goal her organization has set.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1394347360.jpg?h=4d18bf5b&itok=bfr2s0Ry)
     
-    ### [Subscription giving: A new era of fundraising is here](https://www.everyaction.com/blog/subscription-giving-fundraising)
+    ### [Create actionable fundraising goals for nonprofits: 4 steps](https://www.everyaction.com/blog/actionable-fundraising-goal)
+    
+    * Fundraising ideas
+    * Nonprofits
+    * Guided Fundraising
+    
+* ![These nonprofit employees are using a bulletin board to plan their accessible fundraising appeal.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1432497677_0.jpg?h=2992ba0a&itok=3b2mNRQX)
+    
+    ### [How to write universal and accessible fundraising appeals](https://www.everyaction.com/blog/accessible-fundraising-appeals)
     
     * Digital communications & marketing
     * Fundraising ideas
     * Nonprofits
     * Donor Engagement
     
-* ![Two teachers working on a laptop discuss implementing their new student data management system.](/sites/default/files/styles/card_image_short/public/2023-05/student-data-management_feature.jpg?h=b2774bcf&itok=PezSKBK0)
+* ![This image shows a diverse group of nonprofit professionals gathered in a circle discussing questions their fundraising plan must answer.](/sites/default/files/styles/card_image_short/public/2023-05/questions-fundraising-plan_feature.jpg?h=2992ba0a&itok=pFg39muj)
     
-    ### [Tips for implementing a new student data management system](https://www.everyaction.com/blog/student-data-management)
+    ### [4 questions to answer in a comprehensive fundraising plan](https://www.everyaction.com/blog/questions-your-fundraising-plan-must-answer)
     
-    * Coordinating social services
-    * Educational institutions
-    * Case Management
-    * Education
-    
-* ![A nonprofit volunteer listens to a constituent's story.](/sites/default/files/styles/card_image_short/public/2023-05/istock-1092113002.jpg?h=119335f7&itok=sEG-g4es)
-    
-    ### [Share supporter stories with our Story Collection tool](https://www.everyaction.com/blog/story-collection-tool)
-    
-    * Digital communications & marketing
+    * Fundraising ideas
     * Nonprofits
-    * Fundraising
+    * Guided Fundraising
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
