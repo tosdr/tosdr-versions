@@ -1269,6 +1269,7 @@ In case of litigation, the parties will try to reach an agreement before any jud
 * [New releases](https://www.deezer.com/en/channels/new)
 * [The Backstage - Deezer Blog](https://www.thebackstage-deezer.com/)
 * [Deezer Community](https://en.deezercommunity.com/)
+* [Purple Club](https://www.deezer.com/explore/features/purpleclub/)
 
 * [About us](https://www.deezer.com/en/)
 * [Press & News](https://www.newsroom-deezer.com/)
