@@ -1,5 +1,9 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
+✖
+
+[](#_)[](#_)[](#_)[](#_)[](#_)
+
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
 * [Companies](https://www.thehindubusinessline.com/companies/) 
@@ -654,8 +658,8 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-15-july-2024/article68403274.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) HCL Technologies Share Price Today](https://www.thehindubusinessline.com/markets/stock-markets/hcl-technologies-share-price-today-live-updates-15-july-2024/article68405521.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Budget 2024 Live Updates](https://www.thehindubusinessline.com/economy/budget/union-budget-2024-live-updates-finance-minister-nirmala-sitharaman-7th-budget-taxation-railways-announcements-news-23-july-2024/article68432665.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live Today](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-23-july-2024/article68432848.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) HDFC Bank Share Price Today](https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-share-price-today-live-updates-5-july-2024/article68369733.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-june-2024-highlights/article68258609.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election Results 2024](https://www.thehindubusinessline.com/news/elections/india-general-election-results-2024-updates/article68246360.ece)
