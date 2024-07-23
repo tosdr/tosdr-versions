@@ -1,9 +1,10 @@
 [Skip to main content](#content)
 
-* [Log in](https://accounts.eclipse.org/user/login/?takemeback=https%3A%2F%2Fwww.eclipse.org%2Flegal%2Fprivacy.php)
+* [View My Account](https://accounts.eclipse.org/user)
+* [Edit My Account](https://accounts.eclipse.org/user/edit)
 * Manage Cookies
 
-[![Eclipse Foundation](/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-grey-orange.svg)](https://www.eclipse.org/)
+[![](https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-grey-orange.svg)](https://www.eclipse.org/ "Eclipse Foundation")
 
 * Projects
 * Supporters
@@ -13,64 +14,64 @@
 
 [Download](https://www.eclipse.org/downloads/)
 
-* [Projects](#)
+* Projects
     
-    * [Technologies](#)
+    * Technologies
         
         * [Developer Tools & IDEs](https://www.eclipse.org/topics/ide/)
         * [Cloud Native](https://www.eclipse.org/topics/cloud-native/)
-        * [Edge & IoT](https://www.eclipse.org/topics/edge-and-iot/)
+        * [Edge & IoT](https://www.eclipse.org/topics/edge-and-iot)
         * [Automotive & Mobility](https://www.eclipse.org/topics/automotive-and-mobility/)
         
-    * [Projects](#)
+    * Projects
         
         * [Project Finder](https://projects.eclipse.org/)
         * [Project Activity](https://www.eclipse.org/projects/project_activity.php)
-        * [Project Resources](https://www.eclipse.org/projects/resources/)
-        * [Specifications](https://www.eclipse.org/specifications/)
+        * [Project Resources](https://www.eclipse.org/projects/resources)
+        * [Specifications](https://www.eclipse.org/specifications)
         * [Contribute](https://www.eclipse.org/contribute/)
         
     
-* [Supporters](#)
+* Supporters
     
-    * [Membership](#)
+    * Membership
         
-        * [Our Members](https://www.eclipse.org/membership/exploreMembership.php)
+        * [Our Members](https://www.eclipse.org/membership/explore-membership/)
         * [Member Benefits](https://www.eclipse.org/membership/)
         * [Membership Levels & Fees](https://www.eclipse.org/membership/#tab-levels)
         * [Membership Application](https://www.eclipse.org/membership/#tab-membership)
         * [Member Resources](https://www.eclipse.org/membership/#tab-resources)
         * [Member Portal](https://membership.eclipse.org/portal)
         
-    * [Sponsorship](#)
+    * Sponsorship
         
-        * [Sponsor](https://newsroom.eclipse.org/)
-        * [Corporate Sponsorship](https://www.eclipse.org/org/corporate_sponsors/)
+        * [Sponsor](https://www.eclipse.org/sponsor/)
+        * [Corporate Sponsorship](https://www.eclipse.org/org/corporate_sponsors)
         * [Sponsor a Collaboration](https://www.eclipse.org/sponsor/collaboration/)
         
     
-* [Collaborations](#)
+* Collaborations
     
-    * [Industry Collaborations](#)
+    * Industry Collaborations
         
         * [About Industry Collaborations](https://www.eclipse.org/collaborations/)
         * [Current Collaborations](https://www.eclipse.org/org/workinggroups/explore.php)
         * [About Working Groups](https://www.eclipse.org/org/workinggroups/about.php)
         * [About Interest Groups](https://www.eclipse.org/collaborations/interest-groups/)
         
-    * [Research Collaborations](#)
+    * Research Collaborations
         
         * [Research @ Eclipse](https://www.eclipse.org/research/)
         
     
-* [Resources](#)
+* Resources
     
-    * [Open Source for Business](#)
+    * Open Source for Business
         
         * [Business Value of Open Source](https://www.eclipse.org/org/value/)
         * [Open Source Program Offices](https://www.eclipse.org/os4biz/ospo/)
         
-    * [What's Happening](#)
+    * What's Happening
         
         * [News](https://newsroom.eclipse.org/)
         * [Events](https://events.eclipse.org/)
@@ -78,32 +79,32 @@
         * [Press Releases](https://newsroom.eclipse.org/news/press-releases)
         * [Awards & Recognition](https://www.eclipse.org/org/foundation/eclipseawards/)
         
-    * [Developer Resources](#)
+    * Developer Resources
         
-        * [Forum](https://www.eclipse.org/forums/)
+        * [Forum](https://eclipse.org/forums/)
         * [Mailing Lists](https://accounts.eclipse.org/mailing-list)
-        * [Blogs & Videos](https://blogs.eclipse.org/)
-        * [Marketplaces](https://www.eclipse.org/resources/marketplaces)
+        * [Blogs & Videos](https://www.eclipse.org/blogs-and-videos/)
+        * [Marketplaces](https://www.eclipse.org/resources/marketplaces/)
         
     
-* [The Foundation](#)
+* The Foundation
     
-    * [About](#)
+    * About
         
         * [About the Eclipse Foundation](https://www.eclipse.org/org/)
         * [Board & Governance](https://www.eclipse.org/org/governance)
         * [Staff](https://www.eclipse.org/org/foundation/staff.php)
         * [Services](https://www.eclipse.org/org/services)
         
-    * [Legal](#)
+    * Legal
         
         * [Legal Policies](https://www.eclipse.org/legal/)
         * [Privacy Policy](https://www.eclipse.org/legal/privacy.php)
         * [Terms of Use](https://www.eclipse.org/legal/termsofuse.php)
-        * [Compliance](https://www.eclipse.org/legal/compliance/)
+        * [Compliance](https://www.eclipse.org/legal/compliance)
         * [Eclipse Public License](https://www.eclipse.org/legal/epl-2.0/)
         
-    * [More](#)
+    * More
         
         * [Press Releases](https://newsroom.eclipse.org/news/press-releases)
         * [Careers](https://www.eclipse.org/careers/)
@@ -120,15 +121,15 @@ Technologies
 
 * [Developer Tools & IDEs](https://www.eclipse.org/topics/ide/)
 * [Cloud Native](https://www.eclipse.org/topics/cloud-native/)
-* [Edge & IoT](https://www.eclipse.org/topics/edge-and-iot/)
+* [Edge & IoT](https://www.eclipse.org/topics/edge-and-iot)
 * [Automotive & Mobility](https://www.eclipse.org/topics/automotive-and-mobility/)
 
 Projects
 
 * [Project Finder](https://projects.eclipse.org/)
 * [Project Activity](https://www.eclipse.org/projects/project_activity.php)
-* [Project Resources](https://www.eclipse.org/projects/resources/)
-* [Specifications](https://www.eclipse.org/specifications/)
+* [Project Resources](https://www.eclipse.org/projects/resources)
+* [Specifications](https://www.eclipse.org/specifications)
 * [Contribute](https://www.eclipse.org/contribute/)
 
 Supporters
@@ -137,7 +138,7 @@ The Eclipse Foundation is an international non-profit association supported by o
 
 Membership
 
-* [Our Members](https://www.eclipse.org/membership/exploreMembership.php)
+* [Our Members](https://www.eclipse.org/membership/explore-membership/)
 * [Member Benefits](https://www.eclipse.org/membership/)
 * [Membership Levels & Fees](https://www.eclipse.org/membership/#tab-levels)
 * [Membership Application](https://www.eclipse.org/membership/#tab-membership)
@@ -147,12 +148,12 @@ Membership
 Sponsorship
 
 * [Sponsor](https://www.eclipse.org/sponsor/)
-* [Corporate Sponsorship](https://www.eclipse.org/org/corporate_sponsors/)
+* [Corporate Sponsorship](https://www.eclipse.org/org/corporate_sponsors)
 * [Sponsor a Collaboration](https://www.eclipse.org/sponsor/collaboration/)
 
 Collaborations
 
-Whether you intend on contributing to Eclipse technologies that are important to your product strategy, or simply want to explore a specific innovation area with like-minded organizations, the Eclipse Foundation is the open source home for industry collaboration.
+Whether you intend on contributing to Eclipse technologies that are important to your product strategy, or simply want to explore a specific innovation area with like-minded organisations, the Eclipse Foundation is the open source home for industry collaboration.
 
 Industry Collaborations
 
@@ -167,7 +168,7 @@ Research Collaborations
 
 Resources
 
-The Eclipse community consists of individual developers and organizations spanning many industries. Stay up to date on our open source community and find resources to support your journey.
+The Eclipse community consists of individual developers and organisations spanning many industries. Stay up to date on our open source community and find resources to support your journey.
 
 Open Source for Business
 
@@ -178,20 +179,20 @@ What's Happening
 
 * [News](https://newsroom.eclipse.org/)
 * [Events](https://events.eclipse.org/)
-* [Newsletter](https://www.eclipse.org/community/eclipse_newsletter)
+* [Newsletter](https://www.eclipse.org/community/eclipse_newsletter/)
 * [Press Releases](https://newsroom.eclipse.org/news/press-releases)
 * [Awards & Recognition](https://www.eclipse.org/org/foundation/eclipseawards/)
 
 Developer Resources
 
-* [Forum](https://www.eclipse.org/forums/)
+* [Forum](https://eclipse.org/forums/)
 * [Mailing Lists](https://accounts.eclipse.org/mailing-list)
-* [Blogs & Videos](https://blogs.eclipse.org/)
-* [Marketplaces](https://www.eclipse.org/resources/marketplaces)
+* [Blogs & Videos](https://www.eclipse.org/blogs-and-videos/)
+* [Marketplaces](https://www.eclipse.org/resources/marketplaces/)
 
 The Foundation
 
-The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and vendor-neutral environment for open source software collaboration and innovation.
+The Eclipse Foundation provides our global community of individuals and organisations with a mature, scalable, and vendor-neutral environment for open source software collaboration and innovation.
 
 About
 
@@ -205,7 +206,7 @@ Legal
 * [Legal Policies](https://www.eclipse.org/legal/)
 * [Privacy Policy](https://www.eclipse.org/legal/privacy.php)
 * [Terms of Use](https://www.eclipse.org/legal/termsofuse.php)
-* [Compliance](https://www.eclipse.org/legal/compliance/)
+* [Compliance](https://www.eclipse.org/legal/compliance)
 * [Eclipse Public License](https://www.eclipse.org/legal/epl-2.0/)
 
 More
@@ -215,11 +216,9 @@ More
 * [Logos & Artwork](https://www.eclipse.org/org/artwork/)
 * [Contact Us](https://www.eclipse.org/org/foundation/contact.php)
 
-### Breadcrumbs
-
 1. [Home](https://www.eclipse.org/)
-2. [Legal](https://www.eclipse.org/legal)
-3. Eclipse Foundation Website Privacy ...
+2. [Eclipse Foundation Legal Resources](https://www.eclipse.org/legal/)
+3. [Eclipse Foundation Website Privacy Policy](https://www.eclipse.org/legal/privacy/)
 
 Eclipse Foundation Website Privacy Policy
 =========================================
@@ -327,7 +326,7 @@ Your Personal Information may be stored in Canada, Switzerland, the European Uni
 
 It must be noted that the following Personal Information will be publicly available in unencrypted form and without access restriction:
 
-* Any Personal Information collected by virtue of your contributions, including but not limited to your contributions to Our forums, public mailing lists, source code repositories, etc., which are subject to specific agreements you must enter into with Us (for example, the [Eclipse Contributor Agreement (ECA)](https://www.eclipse.org/legal/ECA.php)) prior to you contributing;
+* Any Personal Information collected by virtue of your contributions, including but not limited to your contributions to Our forums, public mailing lists, source code repositories, etc., which are subject to specific agreements you must enter into with Us (for example, the [Eclipse Contributor Agreement (ECA)](https://www.eclipse.org/legal/eca)) prior to you contributing;
 * Any data you store with Eclipse Group through Our services including, but not limited to, the User Storage Service (USS). We strongly advise you to not use these services to store passwords, any Personal Information, any confidential business information, or anything else that you do not want publicly available.
 
 Should you identify yourself as working for an Eclipse Member when you create your Eclipse account with Us, then we may disclose to the Member Representative of your organisation (as that term is defined in our Bylaws) any Personal Information collected by virtue of your contributions.
@@ -352,49 +351,56 @@ Questions Regarding This Policy
 
 Questions regarding this Privacy Policy should be directed to: [privacy@eclipse.org](mailto:privacy@eclipse.org).
 
-###### Related Links
+Related Links
 
-* [Legal resources](https://www.eclipse.org/legal/index.php)
-* [Guide to legal documents](https://www.eclipse.org/legal/guidetolegaldoc.php)
+* * *
 
-* Legal
-* [ECA](#sidebar-item-1)
+* [Legal resources](https://www.eclipse.org/legal)
+* [Guide to legal documents](https://www.eclipse.org/projects/handbook#legaldoc)
+
+* [Legal](https://www.eclipse.org/legal)
+
+* [ECA](#legal-eca)
     
-    * [About](https://www.eclipse.org/legal/ECA.php)
+    * [About](https://www.eclipse.org/legal/eca)
     * [Sign](https://accounts.eclipse.org/user/eca)
-    * [Validation Tool](https://www.eclipse.org/contribute/cla)
+    * [Validation Tool](https://accounts.eclipse.org/user/eca)
     
-* [EPL-2.0](#sidebar-item-5)
+
+* [EPL-2.0](#legal-epl-20)
     
-    * [About](https://www.eclipse.org/legal/epl-2.0)
+    * [About](https://www.eclipse.org/legal/epl-2.0/)
     * [Plain HTML](https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.html)
     * [Plain Text](https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt)
     * [PDF](https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.pdf)
-    * [FAQ](https://www.eclipse.org/legal/epl-2.0/faq.php)
+    * [FAQ](https://www.eclipse.org/legal/epl-2.0/faq/)
     
-* [EPL-1.0](#sidebar-item-11)
+
+* [EPL-1.0](#legal-epl-10)
     
     * [About](https://www.eclipse.org/org/documents/epl-v10.php)
     * [Plain HTML](https://www.eclipse.org/org/documents/epl-v10.html)
     * [Plain Text](https://www.eclipse.org/org/documents/epl-1.0/EPL-1.0.txt)
-    * [FAQ](https://www.eclipse.org/legal/eplfaq.php)
-    
-* [Licenses](#sidebar-item-16)
-    
-    * [Approved 3rd Party](https://www.eclipse.org/legal/licenses.php#approved)
-    * [Non Approved](https://www.eclipse.org/legal/licenses.php#nonapproved)
-    * [File Headers](https://www.eclipse.org/projects/handbook/#ip-copyright-headers)
-    * [Docs & examples](https://www.eclipse.org/legal/noncodelicenses.php)
-    
-* [Specifications](#sidebar-item-21)
-    
-    * [Specification Process](https://www.eclipse.org/projects/efsp)
-    * [Specification Operations](https://www.eclipse.org/projects/efsp/operations.php)
-    * [Specification License](https://www.eclipse.org/legal/efsl.php)
-    * [TCK License](https://www.eclipse.org/legal/tck.php)
+    * [FAQ](https://www.eclipse.org/legal/epl/faq)
     
 
-[Back to the top](#top)
+* [Licenses](#legal-licenses)
+    
+    * [Approved 3rd Party](https://www.eclipse.org/legal/licenses#approved)
+    * [Non Approved](https://www.eclipse.org/legal/licenses#nonapproved)
+    * [File Headers](https://www.eclipse.org/projects/handbook/#ip-copyright-headers)
+    * [Docs & Examples](https://www.eclipse.org/legal/non-code-licenses)
+    
+
+* [Specifications](#legal-specs)
+    
+    * [Specifications Process](https://www.eclipse.org/projects/efsp/)
+    * [Specifications Operations](https://www.eclipse.org/projects/efsp/operations.php)
+    * [Specification License](https://www.eclipse.org/legal/efsl)
+    * [TCK License](https://www.eclipse.org/legal/tck)
+    
+
+[Back to the top](#)
 
 Eclipse Foundation
 
@@ -411,19 +417,21 @@ Legal
 * [Compliance](https://www.eclipse.org/legal/compliance/)
 * [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php)
 * [Legal Resources](https://www.eclipse.org/legal/)
-
 * [Manage Cookies](#)
 
 More
 
 * [Report a Vulnerability](https://www.eclipse.org/security/)
-* [Service Status](https://www.eclipsestatus.io/)
-* [Contact](https://www.eclipse.org/org/foundation/contact.php)
-* [Support](https://www.eclipse.org//projects/support/)
+* [Service Status](https://status.eclipse.org/)
+* [Contact Us](https://www.eclipse.org/org/foundation/contact.php)
+* [Support](https://www.eclipse.org/projects/support/)
 
 Follow Us:
 
-[](https://www.youtube.com/channel/UCej18QqbZDxuYxyERPgs2Fw "YouTube Channel")[](https://www.linkedin.com/company/eclipse-foundation/ "LinkedIn")[](https://www.facebook.com/eclipse.org/ "Facebook")[](https://twitter.com/EclipseFdn "Twitter")
+* [Twitter account](https://twitter.com/EclipseFdn "Twitter account")
+* [Facebook account](https://www.facebook.com/eclipse.org "Facebook account")
+* [Youtube account](https://www.youtube.com/user/EclipseFdn "Youtube account")
+* [Linkedin account](https://www.linkedin.com/company/eclipse-foundation "Linkedin account")
 
 Subscribe to our Newsletter
 
