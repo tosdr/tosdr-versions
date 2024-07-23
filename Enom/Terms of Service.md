@@ -79,7 +79,7 @@ If you qualify to become an Enom® Certified Reseller (defined further below), y
     * [Sell low-cost email](https://www.enom.com/reseller/email/)
 * Support
     * [Contact us](https://www.enom.com/reseller/contact-us/)
-    * [Help Center](https://support.enom.com/support/home/)
+    * [Help Center](http://help.enom.com/)
     * [System status](https://enomstatus.com/)
 * Resources
     * [Whois lookup](https://tucowsdomains.com/whois-search/)
