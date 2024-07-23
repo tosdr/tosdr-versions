@@ -63,13 +63,6 @@
     [![](https://www.edsby.com/wp-content/uploads/2023/09/search.png)](#exampleModalToggle)
 * [Contact Sales](https://forms.edsby.com/contact-sales)
 
-Usage Policy
-============
-
-* [Home](https://www.edsby.com/ "Home")
-
-* **Usage Policy**
-
 **Date of last revision of this policy: September 28, 2021**
 ============================================================
 
