@@ -37,7 +37,7 @@ All plugins are included in the Professional edition.
 |     | Syslog Plugin - 1 Machine (Lifetime) | $20 USD |
 |     | Printing Plugin - 1 Machine (Lifetime) | $20 USD |
 
-            
+             
 
 Directory Monitor PRO - 1 Machine (Lifetime) Directory Monitor PRO - 3 Machines (Lifetime) Directory Monitor PRO - 5 Machines (Lifetime) Directory Monitor PRO - 10 Machines (Lifetime) Directory Monitor PRO - Unlimited Machines (Lifetime) Directory Monitor PRO - 1 Machine (Annual) Directory Monitor PRO - 3 Machines (Annual) Directory Monitor PRO - 5 Machines (Annual) Directory Monitor PRO - 10 Machines (Annual) Directory Monitor PRO - Unlimited Machines (Annual) Emailer Plugin - 1 Machine Grid Log Plugin - 1 Machine Database Plugin - 1 Machine Sounds Plugin - 1 Machine Growl Plugin - 1 Machine Syslog Plugin - 1 Machine Printing Plugin - 1 Machine
 
