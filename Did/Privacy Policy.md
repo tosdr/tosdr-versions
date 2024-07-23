@@ -22,8 +22,8 @@ How can AI avatars be used for good? Find out on July 24th >> [Register now](htt
     * [Speaking Portrait](https://www.d-id.com/speaking-portrait/)
 * [Ethics](https://www.d-id.com/ethics/)
 * Pricing
-    * [API](https://www.d-id.com/pricing/api/)
     * [Studio](https://www.d-id.com/pricing/studio/)
+    * [API](https://www.d-id.com/pricing/api/)
 * Company
     * [About Us](https://www.d-id.com/about-us/)
     * [Blog](https://www.d-id.com/blog/)
