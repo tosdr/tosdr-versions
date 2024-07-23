@@ -156,9 +156,9 @@ Ok](https://www.emp.co.uk/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/extra-sale/ "Jetzt sparen!")
+[](https://www.emp.de/extra-sale/)
 
-Gönn' dir deine neue Rüstung!
+Black Deals Reloaded
 
 \-50%\*
 
@@ -497,7 +497,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
