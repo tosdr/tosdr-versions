@@ -237,7 +237,7 @@
 Terms of Service Agreement
 ==========================
 
-Last Updated on July 16, 2024
+Last Updated on May 11, 2023
 
 [Introduction](#introduction)[](#introduction)
 ----------------------------------------------
