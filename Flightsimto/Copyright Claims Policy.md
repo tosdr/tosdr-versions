@@ -118,17 +118,13 @@
     
     See what's popular in the community right now
     
-    [Intl. Airports](https://flightsim.to/sceneries/airports/)
+    [Most Downloaded](https://flightsim.to/sceneries/featured/trending/all-time)
     
-    Gateway to the world: Experience International Airport add-ons
-    
-    [Cities](https://flightsim.to/sceneries/cities/)
-    
-    Urban Landscapes reimagined: Explore city scenery add-ons
+    Browse our most popular downloads to date
     
     [Scenery Map](https://map.flightsim.to/)
     
-    Your World, enhanced: Navigate our Scenery Map to find even more content
+    Find even more content for your enhanced experience
     
     ### Countries
     
@@ -162,7 +158,7 @@
     
     Discover the latest additions to our library
     
-    [New Aircraft](https://flightsim.to/others/aircraft)
+    [New Aircraft Releases](https://flightsim.to/others/aircraft)
     
     Discover the latest additions to our aircraft collection
     
@@ -174,7 +170,7 @@
     
     Explore diverse helicopter models for an elevated flying experience
     
-    [Airline Aviation](https://flightsim.to/others/civil-aircraft/)
+    [Airliners](https://flightsim.to/others/civil-aircraft/)
     
     Diverse fleet of civilian aircraft for flight simulation
     
