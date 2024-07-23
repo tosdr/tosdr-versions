@@ -113,9 +113,9 @@ Search
         * [Modeling Digital Habits Teacher Training](https://www.commonsense.org/education/training/healthy-digital-habits)
         * [Student Privacy Teacher Training](https://www.commonsense.org/education/training/privacy)
     * [Training](https://www.commonsense.org/)
-        * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/events/training-course-ai-foundations-for-educators)
+        * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/training/ai-foundations)
             
-            ### [Training Course: AI Foundations for Educators](https://www.commonsense.org/education/events/training-course-ai-foundations-for-educators)
+            ### [Training Course: AI Foundations for Educators](https://www.commonsense.org/education/training/ai-foundations)
             
     * [Programs](https://www.commonsense.org/)
         * [![](/components/src/commonkit_components/ck_image/images/ratio_16_9_xsmall.png)](https://www.commonsense.org/education/recognition-program)
