@@ -69,7 +69,7 @@ Privacy Policy
 * We do not rent or sell student data.
 * BrainPOP uses industry standard protocol to ensure that student data is encrypted and transmitted securely from end to end and at rest.
 * We limit the data collected from students or children to only that which is necessary to meet the educational purposes of BrainPOP.
-* We do not collect sensitive data like biometric or health data or behavior data.
+* We do not collect sensitive data like biometric or health data.
 * Students cannot interact with other users outside their school, classroom or family account. The product is not intended and does not allow for social interactions between students.
 * Districts, schools and homeschools are able to delete student personally identifiable information at any time.
 * We are proud supporters of the [K-12 School Service Provider Pledge to Safeguard Student Privacy.](https://studentprivacypledge.org/privacy-pledge/)
@@ -84,9 +84,9 @@ Privacy Policy
 Privacy Policy
 --------------
 
-Last updated June 9th, 2023.
+Last updated July 21, 2024.
 
-This privacy policy applies to all the BrainPOP and its affiliates (“BrainPOP”) owned and operated websites and mobile applications (which we collectively refer to as “Services”). By accessing or using our Services, you agree to the terms of this Privacy Policy.
+This privacy policy applies to all the BrainPOP and its affiliates (“BrainPOP”) owned and operated websites, professional learning services, and mobile applications (which we collectively refer to as “Services”). By accessing or using our Services, you agree to the terms of this Privacy Policy.
 
   
 
@@ -124,7 +124,7 @@ If a school or district uses and accesses individual accounts through any of the
 
 ##### Students:
 
-Students accounts can be created by the school, the district, or by the teachers, or the teacher can invite the students to create the accounts using a class code provided by the teacher. We collect students’ full name, class, graduation year/grade, username, password and may collect student school email addresses and other teacher and student unique identifiers for certain single sign on services login integrations. Students will be able to store their activities, quizzes, movies and other projects they’ve created and correspondences with their teachers within their individual accounts. We collect student’s voice-recording if they use the recording feature in Make-a-Movie®. Students cannot interact with other users outside their school or classroom subscription. Students’ PII is not posted publicly. Student emails shall only be used for the purposes of providing login integration. We will not send emails to students, for any reason.
+Students accounts can be created by the school, the district, or by the teachers, or the teacher can invite the students to create the accounts using a class code provided by the teacher. We collect students’ full name, class, graduation year/grade, username, password and may collect student school email addresses and other teacher and student unique identifiers for certain single sign on services login integrations. Students will be able to store their activities, quizzes, answers, movies and other projects they’ve created and correspondences with their teachers within their individual accounts. We collect student’s voice-recording if they use the recording feature in Make-a-Movie® and we use students' answers in certain AI based features (to learn about our AI features, see section below). Students cannot interact with other users outside their school or classroom subscription. Students’ PII is not posted publicly. Student emails shall only be used for the purposes of providing login integration. We will not send emails to students, for any reason.
 
   
 
@@ -184,11 +184,23 @@ We also subscribe to various third parties’ education market information and d
 
   
 
+### How We Use Artificial Intelligence (AI)
+
+BrainPOP Science® users have access to our Claims, Evidence, Reasoning (CER) model AI-assisted grading tool (“AI Grading Tool”). The AI Grading Tool uses a custom AI model to analyze student responses on CER assignments. It provides scoring suggestions and explanations to help you, the teacher, assess student work more efficiently.
+
+We actively develop our AI features to be ethical and transparent, ensuring responsible use for everyone. The AI Grading Tool provides suggested scores and feedback based on the CER rubric. However, teachers have full control and can always modify or override AI-generated results. Students only see teacher-approved final scores. We never share Personally Identifiable student data or use Student Records to train any third-party AI models. We use Google's Vertex AI within a highly secure environment to protect student data. The AI Grading Tool only analyzes student responses for scoring purposes. We may use de-identified or aggregated student data to make the AI Grading Tool more accurate and helpful in the future.
+
+Opt-Out Option: Teachers can hide the AI Grading Tool on their accounts if they do not want the input from the AI Grading Tool. For complete disabling of the feature and use of Students Records, please contact [legal@brainpop.com](mailto:legal@brainpop.com) or use the setting to opt out if available (note: we will add a settings option for Administrators in future updates).
+
+We encourage teachers to provide us feedback on the AI Grading Tool. We'll use this to guide future improvements.
+
 ### How Long We Retain Personal Information:
 
 Districts, schools and homeschools are able to delete student personally identifiable information at any time and in real time using the Administrator dashboard as mentioned above. Once that information is deleted, it is deleted from our servers – first from our servers and then, after two weeks later, from any back-up server. If information was not deleted by the school or the district before the subscription expired, we retain such information for a limited period of six months after expiration.
 
-Student classroom accounts and the student identifiable information within them are automatically deleted after two years of inactivity - first from our server and then, two weeks later, from any back-up server. At that point it cannot be restored.
+Student classroom accounts and the student identifiable information within them are automatically deleted after two years of inactivity - first from our server and then, two weeks later, from any back-up server. At that point it cannot be restored. Students that are no longer at the school and removed by the admin, are deleted after 7 days.
+
+Teacher accounts will be deleted after one year of inactivity.
 
 If your jurisdiction requires the deletion of student data within a shorter time period, or upon immediate termination of the subscription, you are required to delete such data using the Administrator dashboard as mentioned above or contact us for assistance at [legal@brainpop.com](mailto:legal@brainpop.com).
 
@@ -222,7 +234,7 @@ We apply a Secure Sockets Layer (SSL or HTTPS) encrypting technology to encrypt 
 
 Governance policies and access controls are in place to ensure that the information of each district, school, or other subscriber is separated, and all subscribers can only access their own data.
 
-Only limited BrainPOP personnel have access to the database, and personnel only access it when necessary to provide services. Personnel with access to Student Records pass criminal background checks and undergo periodic privacy training.
+Only limited BrainPOP personnel have access to the database, and personnel only access it when necessary to provide services. Personnel with access to Student Records pass criminal or other background checks and undergo periodic privacy training.
 
 We follow standardized and documented procedures for coding, configuration management, patch installation, and change management for all applicable servers, and we have a third party audit our practices at least once a year.
 
@@ -388,7 +400,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 If you wish to report a security breach, please contact us at [security@brainpop.com](mailto:security@brainpop.com).
 
-[Please click on this link to view the previous version of our Privacy Policy, in effect before June 9, 2023.](https://www.brainpop.com/about/privacy_policy_may2023)  
+[Please click on this link to view the previous version of our Privacy Policy, in effect before July 21, 2024.](https://www.brainpop.com/about/privacy_policy_june2024)  
   
 
 ### Translations
