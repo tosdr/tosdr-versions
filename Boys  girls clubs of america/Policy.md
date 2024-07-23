@@ -22,7 +22,7 @@ Search  ![Search](https://www.bgca.org/wp-content/themes/bgca/images/icons/searc
     * [Leadership](https://www.bgca.org/about-us/leadership-team/)
     * [Our Partners](https://www.bgca.org/about-us/our-partners/)
     * [Alumni Hall of Fame](https://www.bgca.org/about-us/alumni-hall-of-fame/)
-    * [Military Youth Centers](https://www.bgca.org/about-us/military/)
+    * [Military Services](https://www.bgca.org/about-us/military/)
     * [Clubs on Native Lands](https://www.bgca.org/about-us/local-clubs/native-services/)
     
     ![Close](https://www.bgca.org/wp-content/themes/bgca/images/icons/Icon_Close.svg)
