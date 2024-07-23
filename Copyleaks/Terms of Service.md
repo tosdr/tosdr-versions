@@ -56,7 +56,7 @@
                 
     * * * [About usMeet the Copyleaks leadership team and learn about who we are, our mission and history.](https://copyleaks.com/about-us)
         * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
-        * * [AI Detector Testing MethodologiesLearn the different testing methodologies used to gauge the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
+        * * [AI Testing MethodologiesLearn the different testing methodologies used to gauge the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
         * * [![NewsletterQ2_FeaturedImage-v3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20732'%3E%3C/svg%3E)
                 
@@ -77,7 +77,7 @@
         * * [The Original Source PodcastCopyleaks COO, Shouvik Paul, speaks with leading industry experts on the latest in AI, EdTech, plagiarism, and more.](https://copyleaks.com/the-original-source-podcast)
         * * [BlogYour resource for learning about the best plagiarism practices, latest findings, and more.](https://copyleaks.com/blog)
 * [Get a Demo](https://copyleaks.com/book-a-demo)
-* [Try it Now](https://app.copyleaks.com/dashboard/v1?isGuest=true)
+* [Try it Now](https://app.copyleaks.com/signup)
 * [Login](https://app.copyleaks.com/dashboard/v1)
 * [![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
     
