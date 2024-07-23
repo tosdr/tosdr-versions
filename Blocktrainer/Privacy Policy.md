@@ -46,6 +46,7 @@
     * [Transaktions-Rechner](https://www.blocktrainer.de/tools-services/transaktions-rechner)
     * [UTXO-Dust-Rechner](https://www.blocktrainer.de/tools-services/utxo-dust-rechner)
     * [Blockzeit-Rechner](https://www.blocktrainer.de/tools-services/blockzeit-rechner)
+    * [Deutschlands Verlust](https://www.blocktrainer.de/tools-services/deutschlands-verlust)
     * [Halving-Countdown](https://www.blocktrainer.de/tools-services/halving-countdown)
     * [Bitcoin Kalender](https://www.blocktrainer.de/tools-services/bitcoin-kalender)
     * [Bitcoin versichern](https://www.blocktrainer.de/tools-services/btc-versichern)
@@ -59,7 +60,7 @@
     * [Wallet Backups](https://www.blocktrainer.de/shop/wallet-backups)
 * [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
 
-* [Startseite](https://www.blocktrainer.de/ "Startseite")
+* [Bitcoin - sachlich und fundiert erklärt.](https://www.blocktrainer.de/ "Bitcoin - sachlich und fundiert erklärt.")
 * [RECHTLICHE INFOS](https://www.blocktrainer.de/rechtliche-infos "RECHTLICHE INFOS")
 * [Datenschutz](https://www.blocktrainer.de/datenschutz "Datenschutz")
 
@@ -588,4 +589,4 @@ Kopieren
 
 [](#)
 
-[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_d60a2d5bca.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
