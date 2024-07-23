@@ -443,6 +443,7 @@ If you are not satisfied with our response, you can contact our Data Protection 
 * [New releases](https://www.deezer.com/en/channels/new)
 * [The Backstage - Deezer Blog](https://www.thebackstage-deezer.com/)
 * [Deezer Community](https://en.deezercommunity.com/)
+* [Purple Club](https://www.deezer.com/explore/features/purpleclub/)
 
 * [About us](https://www.deezer.com/en/)
 * [Press & News](https://www.newsroom-deezer.com/)
