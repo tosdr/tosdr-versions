@@ -356,4 +356,4 @@ Support Center FAQ Knowledge base Version history Report an issue AdGuard Status
 
 Legal documents
 
-EULA Privacy Policy Terms of sale Refund policy
+EULA Privacy Policy Terms of sale Refund policy Terms and conditions
