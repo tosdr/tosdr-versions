@@ -106,8 +106,6 @@ These policies may get updated without prior notice.
 * [Regards](https://hyti.org/category/regards/)
 * [Society](https://hyti.org/category/society/)
 
-[![I support free software badge](https://hyti.org/wp-content/uploads/2021/05/i-support-fs_red-bg.png)](https://gnu.org/)
-
 ![CC BY-SA 4.0](/wp-content/uploads/2023/08/cc-by-sa-80x15-1.png)  
 Original material on hyti.org is published under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), except where otherwise noted.  
 Check the [policies page](https://alirezahayati.com/policies) for more information.
