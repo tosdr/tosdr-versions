@@ -435,7 +435,7 @@ English
     * [About Us](https://www.freshbooks.com/about)
     * [Our Story](https://www.freshbooks.com/about/ourstory)
     * [Careers](https://www.freshbooks.com/careers)
-    * [Diversity and Inclusivity](https://www.freshbooks.com/diversity-and-inclusivity)
+    * [Diversity & Inclusivity](https://www.freshbooks.com/diversity-and-inclusivity)
     * [Press Center](https://www.freshbooks.com/press)
     * [Contact](https://www.freshbooks.com/contact)
     * [Blog](https://www.freshbooks.com/blog/)
