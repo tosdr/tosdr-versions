@@ -1,6 +1,6 @@
 [Algolia mark blueAlgolia logo blue](https://www.algolia.com/)Menu
 
-[Search Algolia](https://www.algolia.com/search/)
+Search Algolia
 
 Solutions
 
@@ -96,7 +96,7 @@ Learn more](https://www.algolia.com/lp/gartner-mq-2024/)
 
 [Algolia mark blueAlgolia logo blue](https://www.algolia.com/)Menu
 
-[Search Algolia](https://www.algolia.com/search/)
+Search Algolia
 
 * Solutions
 * Industries
@@ -104,7 +104,7 @@ Learn more](https://www.algolia.com/lp/gartner-mq-2024/)
 * Developers
 * Resources
 
-[Search Algolia](https://www.algolia.com/search/)
+Search Algolia
 
 [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/ai-blue.svg)AI Search
 
