@@ -17,7 +17,7 @@
     * [Desktop (32)](https://an1.com/games/desktop/)
     * [Logical (152)](https://an1.com/games/logical/)
     * [Quests (8)](https://an1.com/games/quests/)
-    * [Adventure (261)](https://an1.com/games/adventure/)
+    * [Adventure (262)](https://an1.com/games/adventure/)
     * [Music (30)](https://an1.com/games/music/)
     * [Role Playing (251)](https://an1.com/games/role-playing/)
     * [Puzzle (161)](https://an1.com/games/puzzle/)
