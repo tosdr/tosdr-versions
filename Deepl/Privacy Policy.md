@@ -1,4 +1,4 @@
-[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
+[](https://www.deepl.com/)[](https://www.deepl.com/translator)![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/translator)
 
 Privacy Policy DeepL
 ====================
@@ -131,24 +131,21 @@ Processing is carried out in accordance with Art. 6 para. 1 sentence 1 lit. f) G
 
 Our website also uses services of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, USA ("Cloudflare"), which operates a so-called Content Delivery Network (CDN). To protect our website, the data transfer between your browser and our servers is routed through Cloudflare's infrastructure in order to analyze whether it is an abusive attack. As part of this analysis, your data is transmitted to Cloudflare in encrypted form, if necessary also to Cloudflare servers in the USA. However, since your requests and other customer data are encrypted between your end device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-data (such as your IP address). Only static resources (such as graphics) are loaded directly from Cloudflare-servers. In addition, Cloudflare determines a so-called bot score immediately before the login to DeepL, which is based on the analysis of the metadata of the client (browser) used. The use of Cloudflare is in our legitimate interest to secure the use of our website and to prevent and defend harmful attacks from outside, Art. 6 para. 1 sentence 1 lit. f) GDPR. We have concluded a data processing agreement with Cloudflare and Cloudflare may therefore only process the data according to our instructions and not for its own purposes. You can find more information about Cloudflare's handling of personal data [here](https://www.cloudflare.com/de-de/privacypolicy/).
 
-9\. Cookies and Web Storage on deepl.com and Analysis of User Behavior 
------------------------------------------------------------------------
+9\. Use of Cookies and other Technologies on deepl.com and Analysis of User Behavior 
+-------------------------------------------------------------------------------------
 
-### 9.1 Use of Cookies and Web Storage on deepl.com
+### 9.1 Use of Cookies, Web Storage and other Technologies on deepl.com
 
-We use "cookies" and web storage objects to provide you with a variety of features and improve your user experience. Cookies and web storage objects are small text files that are temporarily stored on your computer via your browser.
-
-If you do not want us to use cookies or web storage objects, you can change your browser settings accordingly. Please note that if you completely disable the use of cookies or web storage objects, the functionality and scope of the website may be impaired.
+We use cookies, web storage objects and other technologies to provide you with a variety of features and improve your user experience. If you do not want us to use such technologies, you can change your browser settings accordingly. Please note that if you completely disable the use of cookies, web storage objects and other technologies, the functionality and scope of the website may be impaired.
 
 We specifically use cookies or web storage objects in the following categories:
 
-* Necessary: These cookies or web storage objects are necessary to ensure the functioning of our website and the formation as well as the performance of contracts. The cookies serve security purposes, the smooth navigation on our website, the provision of the most important functions of our products, the storage of your settings such as the display language of the website and the selected translation language as well as the handling of the checkout process for DeepL Pro. In addition, statistical data about the use of our website is collected. The collecting of data via the necessary cookies or web storage objects is justified according to § 25 para. 2 no. 2 TTDSG (“Telekommunikation-Telemedien-Datenschutz-Gesetz”: German Telecommunications and Telemedia Data Protection Act). The further processing of this data is either necessary in accordance with Art. 6 para. 1 sentence 1 lit. b) GDPR for performing the contract or justified due to our legitimate interest in presenting our products and our company in accordance with Art. 6 para. 1 sentence 1 lit. f) GDPR.
-* Performance: In order to continuously improve our website, we collect data for statistical and analytical purposes. We and our external service providers use these cookies or web storage objects with your explicit consent in accordance with § 25 para. 1 TTDSG. The further processing of this data is also based on your consent, Art. 6 para. 1 sentence 1 lit. a) GDPR.
-* Comfort: We use these cookies or web storage objects to make using our website more comfortable for you. For example, we remember which areas of the website you have already visited and help you to use the website in the best possible way. In accordance with § 25 para. 1 TTDSG and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only use these cookies or web storage objects and process the data collected from them with your explicit consent. 
+* Necessary: These cookies or web storage objects are necessary for our website to work properly, to enable smooth navigation and access our most important functions. This includes essential security and accessibility features and preferences such as interface and translator language as well as the handling of the checkout process for DeepL Pro. The collecting of data via the necessary cookies or web storage objects is justified according to § 25 para. 2 no. 2 TTDSG (“Telekommunikation-Telemedien-Datenschutz-Gesetz”: German Telecommunications and Telemedia Data Protection Act). The further processing of this data is either necessary in accordance with Art. 6 para. 1 sentence 1 lit. b) GDPR for performing the contract or justified due to our legitimate interest in presenting our products and our company in accordance with Art. 6 para. 1 sentence 1 lit. f) GDPR.
+* Performance: These cookies or web storage objects measure how our site is used. We use this information to improve our website and services. With these cookies we measure, for example, how often users return and which functions they use. We and our external service providers use these cookies or web storage objects with your explicit consent in accordance with § 25 para. 1 TTDSG. The further processing of this data is also based on your consent, Art. 6 para. 1 sentence 1 lit. a) GDPR.
+* Functional: These cookies or web storage objects enable us to provide you with enhanced functionality and personalization on our website. For example, we can personalize your experience based on which pages you visited. In accordance with § 25 para. 1 TTDSG and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only use these cookies or web storage objects and process the data collected from them with your explicit consent. 
+* Marketing: These cookies and other technologies are used to deliver advertising more relevant to you and your interests. By selecting this category, you also consent to DeepL sending your data to third parties outside the EU (e.g., Google), including the sharing of hashed email addresses. In accordance with § 25 para. 1 TTDSG and Art. 6 para. 1 sentence 1 lit. a) GDPR, we only use these cookies, web storage objects and other technologies and process the data collected from them with your explicit consent.
 
-The table below lists the different types of cookies and web storage objects that may be used on our website. Cookies or web storage objects are stored until the specified expiration time or until you delete them in your browser or, if it is a session cookie, until the session has expired. You can withdraw your consent for the use of cookies or web storage objects in the categories “Performance” and “Comfort” in each of these categories directly in the table below.
-
-With the exception of the third-party cookies from our payment service provider Stripe (see explanatory notes, section [6.2](#section_6_2)), the customer support software from Zendesk (see explanatory notes, section [13.1](#section_13_1)) and the marketing software from HubSpot (see explanatory notes, section [14](#section_14)) the information generated by cookies and web storage objects is transmitted to servers within the EU and stored exclusively there. Data is not passed on to third parties.
+The table below lists the different types of technologies that may be used on our website. Cookies or web storage objects are stored until the specified expiration time or until you delete them in your browser or, if it is a session cookie, until the session has expired. You can withdraw the consent you have given for the use of cookies, web storage objects and other technologies in the categories “Performance”, “Functional” and “Marketing” or manage your settings at any time. You can do this by deactivating (or activating) the slide button in the top right-hand corner of the respective category in the table below.
 
 ### 9.2 Analysis of User Behavior
 
@@ -205,7 +202,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Visit Count | IDdapVn | Description<br><br>Stores how many times the user has visited the site. | TechnologyCookie | Expiry12 months | OwnerDeepL |
 | Page views | IDpv | Description<br><br>Stores the page ID of the pages accessed by the user, including a timestamp indicating when this access was last made. Based on this, corresponding information is displayed to the user. | TechnologyLocal storage | ExpiryPersistent Data | OwnerDeepL |
 
-### Comfort
+### Functional
 
 | Context | ID  | Description | Technology | Expiry | Owner |
 | --- | --- | --- | --- | --- | --- |
@@ -219,6 +216,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Context | ID  | Description | Technology | Expiry | Owner |
 | --- | --- | --- | --- | --- | --- |
 | Conversion Tracking | ID  | Description<br><br>Records and evaluates conversions from DeepL’s LinkedIn advertising campaigns | TechnologyTracking Pixel | ExpiryPersistent Data | OwnerLinkedIn |
+| Conversion Tracking | ID\- | Description<br><br>Records and evaluates conversions from DeepL’s Google advertising campaigns. | TechnologyServer-to-server tracking | ExpiryOngoing until consent is revoked | OwnerGoogle |
 
 10\. Speech-to-text function for web
 ------------------------------------
