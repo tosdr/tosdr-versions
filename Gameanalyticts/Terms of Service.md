@@ -1,3 +1,7 @@
+📈\[NEW\] Export your game data to Google Cloud Storage to build your custom data warehouse
+
+[Learn more](https://gameanalytics.com/datasuite/raw-export/)
+
 [Skip to content](#main) [![GameAnalytics](https://gameanalytics.com/wp-content/themes/ga-v3/dist/images/logo.png)](https://gameanalytics.com/)
 
 * [Analytics Tools](#)
@@ -55,14 +59,14 @@
             Do much more with your data](https://gameanalytics.com/datasuite)
         * [![](https://gameanalytics.com/wp-content/uploads/2022/12/databook.svg)
             
-            Player Warehouse
+            Data Warehouse
             
-            Switch on your own data warehouse](https://gameanalytics.com/datasuite/player-warehouse/)
+            Switch on your own data warehouse](https://gameanalytics.com/datasuite/data-warehouse)
         * [![](https://gameanalytics.com/wp-content/uploads/2022/12/cloud.svg)
             
-            Raw Export
+            Data Export
             
-            Your data delivered in JSON format](https://gameanalytics.com/datasuite/raw-export/)
+            Your data delivered in JSON format](https://gameanalytics.com/datasuite/data-export)
     
 * [Resources](https://gameanalytics.com/resources)
     
@@ -493,8 +497,8 @@ Data Tools
 ----------
 
 * [DataSuite](https://gameanalytics.com/datasuite)
-* [Player Warehouse](https://gameanalytics.com/datasuite/player-warehouse/)
-* [Raw Export](https://gameanalytics.com/datasuite/raw-export/)
+* [Data Warehouse](https://gameanalytics.com/datasuite/data-warehouse)
+* [Data Export](https://gameanalytics.com/datasuite/data-export)
 * [Private Instance](https://gameanalytics.com/private-instance/)
 * [Pricing](https://gameanalytics.com/pricing/#datasuite)
 
