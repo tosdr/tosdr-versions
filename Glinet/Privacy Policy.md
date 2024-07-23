@@ -334,7 +334,7 @@ This GL.iNet Privacy Policy was revised and posted as of April 17, 2020.
 
 [![glinet biz logo](https://static.gl-inet.com/www/images/home/logo/biz-group_logo.png)](https://www.glinet.biz/)
 
-[![GL.iNet logo](https://static.gl-inet.com/www/images/home/logo/glinet_logo.png)](https://www.gl-inet.com/)[![AstroRelay logo](https://static.gl-inet.com/www/images/home/logo/astrorelay_logo.png)](https://astrorelay.com/)[![UMINO logo](https://static.gl-inet.com/www/images/home/logo/umino_logo.png)](https://www.umino.io/)[![XTRAL logo](https://static.gl-inet.com/www/images/home/logo/xtral_logo.png)](https://www.xtral.io/)[![Refala logo](https://static.gl-inet.com/www/images/home/logo/refala_logo.png)](https://www.amazon.com/dp/B09J88G29P)[![Refala logo](https://static.gl-inet.com/www/images/home/logo/vixmini_logo.png)](https://vixmini.com/)
+[![GL.iNet logo](https://static.gl-inet.com/www/images/home/logo/glinet_logo.png)](https://www.gl-inet.com/)[![AstroRelay logo](https://static.gl-inet.com/www/images/home/logo/astrorelay_logo.png)](https://astrorelay.com/)[![Astrowarp logo](https://static.gl-inet.com/www/images/home/logo/astrowarp_logo.png)](https://www.astrowarp.net/)[![UMINO logo](https://static.gl-inet.com/www/images/home/logo/umino_logo.png)](https://www.umino.io/)[![Refala logo](https://static.gl-inet.com/www/images/home/logo/vixmini_logo.png)](https://vixmini.com/)
 
 Copyright © 2024 GL Technologies (HK) Ltd & Microuter Technologies Ltd & GL Intelligence, Inc
 
