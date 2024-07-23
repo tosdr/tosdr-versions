@@ -1,4 +1,7 @@
 * [Sign in](https://www.charitynavigator.org/profile)
+    
+    [Sign Out](https://www.charitynavigator.org/api/auth/logout)
+    
 * [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html)
 * [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
 * [](https://www.charitynavigator.org/basket/checkout)
@@ -193,7 +196,12 @@
     * [Our Team](https://www.charitynavigator.org/about-us/our-team.html)
     
 
-[Sign in](https://www.charitynavigator.org/profile) [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html) [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
+[Sign in](https://www.charitynavigator.org/profile) [Sign Out](https://www.charitynavigator.org/api/auth/logout) [Nonprofit Resources](https://www.charitynavigator.org/landing-pages/for-nonprofits.html.html) [Support Charity Navigator](https://give.charitynavigator.org/give/546005/#!/donation/checkout?c_src=W20231228&c_src2=WebsiteHeader)
+
+1. [Home](https://www.charitynavigator.org/content/cn/us/en/homepage.html) 
+2. [About Us](https://www.charitynavigator.org/about-us.html) 
+3. [Financials and Policies](https://www.charitynavigator.org/about-us/financials-and-policies.html) 
+4. Privacy Policy 
 
 ![Charity Navigator Logo](/content/dam/cn/cn/logos/CharityNav_Logo_Stack.png)
 
