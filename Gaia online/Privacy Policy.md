@@ -13,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-96df5c70cf9b53222d99068ea07a044b309f14c3685f10e342b659486bc1866f96df5c70cf9b53222d99068ea07a044b
+88c084f9978cbb870814491d75d78ccb3b63fa0a54200a520c1b089526f6357888c084f9978cbb870814491d75d78ccb
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops](https://www.gaiaonline.com/market/)
+* [Shops !](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -345,9 +345,9 @@ Get Items
 
 More Items
 
-* [Deals & New Items](https://www.gaiaonline.com/deals/)
+* [Deals & New Items](https://www.gaiaonline.com/deals?m=newitems)
     
-    Find new items, and discounts
+    New item released!
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -408,7 +408,7 @@ Other Community Areas
     
 * [Chat](http://www.gaiaonline.com/launch/chat/)
     
-    chat in real time with other Gaian's
+    chat in real time with other Gaians
     
 * [Art Arenas](https://www.gaiaonline.com/arena/)
     
@@ -541,4 +541,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1721547185)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1721772894)
