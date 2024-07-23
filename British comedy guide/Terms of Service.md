@@ -178,6 +178,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![My Name Is Harry Worth. Harry Worth (Harry Worth). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/my_name_is_harry_worth.jpg "My Name Is Harry Worth. Harry Worth (Harry Worth). Copyright: Thames Television")](https://www.comedy.co.uk/features/comedy-rewind/my-name-is-harry-worth/) Features
+
+[Comedy Rewind: A touch of confusion as My Name Is Harry Worth](https://www.comedy.co.uk/features/comedy-rewind/my-name-is-harry-worth/)
+
 [![Sharon Wanjohi](https://cdn.comedy.co.uk/images/library/people/300x200/s/sharon_wanjohi.jpg "Sharon Wanjohi")](https://www.comedy.co.uk/live/fgwg/sharon-wanjohi/) Live
 
 [First Gig, Worst Gig: Sharon Wanjohi](https://www.comedy.co.uk/live/fgwg/sharon-wanjohi/)
@@ -189,10 +193,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![A Private Function. Image shows left to right: Joyce Chilvers (Maggie Smith), Gilbert Chilvers (Michael Palin)](https://cdn.comedy.co.uk/images/library/comedies/300x200/p/private_function.jpg "A Private Function. Image shows left to right: Joyce Chilvers (Maggie Smith), Gilbert Chilvers (Michael Palin)")](https://www.comedy.co.uk/quiz/315/) Quiz
 
 [British Comedy Quiz #315](https://www.comedy.co.uk/quiz/315/)
-
-[![Kaleidoscope 2024. Credit: Si Hawkins](https://cdn.comedy.co.uk/images/library/misc/300x200/k/kaleidoscope_2024.jpg "Kaleidoscope 2024. Credit: Si Hawkins")](https://www.comedy.co.uk/live/features/kaleidoscope-2024-report/) Live
-
-[Kaleidoscope 2024: Brian Blessed, Simon Amstell and more - up a hill](https://www.comedy.co.uk/live/features/kaleidoscope-2024-report/)
 
 #### Subscribe to our newsletters
 
