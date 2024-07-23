@@ -1,3 +1,5 @@
+We’re excited to announce our latest improvements for B2B companies including a new Hubspot Integration and a wide variety of APIs. [Learn more here.](https://fastspring.com/blog/fastspring-launches-hubspot-integration-and-expands-its-b2b-offering-with-summer-product-releases/)
+
 [![FastSpring](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/logos/fastspring-logo-orange-gray.svg?2)](https://fastspring.com/)
 
 * [Product](#)
