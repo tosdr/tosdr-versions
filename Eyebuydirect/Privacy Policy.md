@@ -24,23 +24,19 @@
     
     [Glasses Under $20](https://www.eyebuydirect.com/campaign/glasses-under-19#gtype=eyeglasses "Glasses Under $20")
     
-    [2-Day Delivery](https://www.eyebuydirect.com/fast-shipping-service "2-Day Delivery")
+    [![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    [Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
+    ![Best Sellers](https://img.ebdcdn.com/cms/Top_Nav_320_424_ce94f52b5c.jpg?q=85&seo=best-sellers)
     
-    [![Future Classic](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")[![Under $50](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Future Classic](https://img.ebdcdn.com/cms/Top_Nav_320_424_fc5de74910.jpg?q=85&seo=future-classic)
+    ![Under $50](https://img.ebdcdn.com/cms/top_nav_under_50_7d83bd90bf.jpg?q=85&seo=under-$50)
     
-    Future Classic](https://www.eyebuydirect.com/collections/future-classic "Future Classic")[![5 TO SEE®](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Under $50](https://www.eyebuydirect.com/campaign/glasses-20-49 "Under $50")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![5 TO SEE®](https://img.ebdcdn.com/cms/Top_Nav_320_424_7c616eb2c8.jpg?q=85&seo=5-to-see®)
+    ![Eco Friendly](https://img.ebdcdn.com/cms/top_nav_csr_f14d042f39.jpg?q=85&seo=eco-friendly)
     
-    5 TO SEE®](https://www.eyebuydirect.com/collections/5-to-see "5 TO SEE®")[![New Designer Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![New Designer Brands](https://img.ebdcdn.com/cms/Top_Nav_320_424_updated_082add86ba.jpg?q=85&seo=new-designer-brands)
-    
-    New Designer Brands](https://www.eyebuydirect.com/campaign/new-brands "New Designer Brands")
+    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
 * Sunglasses
     
@@ -191,19 +187,15 @@ live chat
 Privacy Policy
 ==============
 
-Effective as of March 28, 2024
+For more information on Interest-based Advertising and your choices regarding it [click here](#adchoices)
 
-This Policy describes how Eyebuydirect, Inc. (“Eyebuydirect”), collects, uses, discloses, and safeguards your information. This Policy applies to individuals who access this website and any other websites that link to this Policy (collectively “Sites”), and where applicable, our Virtual Try-on technology (“VTO”), and certain other services as described below (collectively, the “Platforms”). Other EssilorLuxottica websites, products, and services may have their own privacy policies. This Policy, together with our [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use), collectively govern your use of our Site.This Policy applies to our Platforms that link to this Policy.
+This Privacy Policy (“Policy”) is effective as of July 23, 2024.
+
+This Policy describes how Essilor of America Inc., including all direct and indirect subsidiaries (collectively “Essilor,” “we,” “our,” or “us”), collects, uses, discloses, and safeguards your information. This Policy applies to individuals who access this website and any other websites that link to this Policy (collectively “Sites”), and where applicable, our Virtual Try-on technology (“VTO”), and certain other services as described below (collectively, the “Platforms”). Other EssilorLuxottica websites, products, and services may have their own privacy policies. This Policy, together with our [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use), collectively govern your use of our Site.This Policy applies to our Platforms that link to this Policy.
 
 From time to time, we may change this Policy. If we do, we will post an amended version on this webpage. Please review this Policy periodically.
 
-If you have any questions regarding our use of your personal data, you can of course contact us here:
-
-Our contact details are: **EyeBuyDirect, Inc.**, [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com)
-
-Our Data Protection Officer is: **Stéphane Larriere,** [DataProtectionOfficer@eyebuydirect.com](mailto:DataProtectionOfficer@eyebuydirect.com)
-
-Our GDPR representative in the European Union is TNP Consultants. You may contact our representative at: [representativeEBD@eyebuydirect.com](mailto:representativeEBD@eyebuydirect.com)
+You may submit a request to exercise rights you may have under applicable state law through our interactive webform available [here](https://www.eyebuydirect.com/ccpa) or by calling us toll free at 1-855-393-2891.
 
 This Privacy Policy covers the following topics:
 
@@ -461,18 +453,22 @@ If we are required by applicable law to obtain your consent to process sensitive
 
 The right not to receive discriminatory treatment by us for the exercise of your privacy rights.
 
-We use cookies and other tracking technologies to display advertisements about our products to you on nonaffiliated websites, applications, and online services. This is “targeted advertising” under applicable privacy laws. When we engage in those activities, we sell personal information (i.e., information from cookies) to third-party advertisers and analytics companies. For more information on our use of cookies, other tracking technologies, and Interest-based Advertising, see the “**COOKIES AND OTHER TRACKING TECHNOLOGIES**” and “**DIGITAL ADVERTISING & ANALYTICS/INTEREST-BASED ADS**” sections above. We do not use personal information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals. For more information on how we use your personal information, see the “**HOW WE USE YOUR INFORMATION**” section above.
+We use cookies and other tracking technologies to display advertisements about our products to you on nonaffiliated websites, applications, and online services. This is “targeted advertising” under applicable privacy laws. When we engage in those activities, we sell personal information (i.e., information from cookies) to third-party advertisers and analytics companies. For more information on our use of cookies, other tracking technologies, and Interest-based Advertising, see the “**COOKIES AND OTHER TRACKING TECHNOLOGIES**” and “**DIGITAL ADVERTISING & ANALYTICS/INTEREST-BASED ADS**” sections above. We do not use personal data for profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals. For more information on how we use your personal information, see the “**HOW WE USE YOUR INFORMATION**” section above.
 
 To exercise your rights, please submit a request through our interactive webform available [here](https://www.eyebuydirect.com/ccpa) or by emailing us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). If legally required, we will comply with your request upon verification of your identity and, to the extent applicable, the identity of the individual on whose behalf you are making such request. To do so, we will ask you to verify data points based on information we have in our records. If you are submitting a request on behalf of another individual, please use the same contact methods described above. If we refuse to take action regarding your request, you may appeal our decision through our interactive webform available [here](https://www.eyebuydirect.com/ccpa) or by emailing us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com).
 
-If you would like to opt out of targeted advertising, you may alter your cookie preferences here by toggling off the three cookie options in the cookie manager tool.
+If you would like to opt out of targeted advertising, you may alter your cookie preferences here by toggling off the three cookie options in the cookie manager tool.
 
-We do not provide your personal information to data brokers.
+If you enter into a Loyalty Program with us, we will collect your name, email address, and you may choose to provide us with your birth date and gender. We do not provide your personal data to data brokers. If you ask us to delete your personal data, we will not be able to provide you with the benefits of our Loyalty Program because we will delete your account.
+
+###### Universal Opt-Out Mechanisms
+
+The Sites recognize the Global Privacy Control (“GPC”) signal. If you are using a browser setting or plug-in that sends an opt-out preference signal to each website you visit, we will treat that as a valid request to opt out. To download and use a browser supporting the GPC browser signal, click here: [https://globalprivacycontrol.org/orgs](https://globalprivacycontrol.org/orgs). If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use. See the “**DO NOT TRACK SIGNALS**” section below for information on our treatment of do not track signals.
 
 9\. NOTICE TO NEVADA RESIDENTS
 ------------------------------
 
-Nevada law allows Nevada residents to opt out of the sale of certain types of personal information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange of certain types of personal information for monetary consideration to another person. We currently do not sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt out of sales and will record your instructions and incorporate them in the future if our policy changes. You may send opt-out requests to [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com) or via our interactive web form located [here](https://www.eyebuydirect.com/ccpa).
+Nevada law allows Nevada residents to opt out of the sale of certain types of personal information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange of certain types of personal information for monetary consideration to another person. We currently do not sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt out of sales and will record your instructions and incorporate them in the future if our policy changes. You may send opt-out requests to [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com) or via our interactive web form located [here](https://www.eyebuydirect.com/ccpa).
 
 10\. NOTICE TO VIRGINIA RESIDENTS
 ---------------------------------
@@ -485,7 +481,7 @@ If you are a Virginia resident, the VCDPA grants you the right to: (1) confirm w
 
 We process personal data for targeted advertising.
 
-To exercise your rights, please email us at [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com), with your name, the fact that you are a Virginia resident, and specifying the right(s) you wish to invoke. You may also submit your request via our interactive webform located [here](https://www.eyebuydirect.com/ccpa). If we refuse to take action regarding your request, you may appeal our decision by email us at [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com). If you would like to opt out of targeted advertising, you may alter your cookie preferences by following the instructions in the Cooke Policy section of this Site.
+To exercise your rights, please email us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com), with your name, the fact that you are a Virginia resident, and specifying the right(s) you wish to invoke. You may also submit your request via our interactive webform located [here](https://www.eyebuydirect.com/ccpa). If we refuse to take action regarding your request, you may appeal our decision by email us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). If you would like to opt out of targeted advertising, you may alter your cookie preferences by following the instructions in the Cooke Policy section of this Site.
 
 11\. NOTICE TO CALIFORNIA RESIDENTS
 -----------------------------------
@@ -604,7 +600,7 @@ The right not to receive discriminatory treatment by us for the exercise of priv
 
 ##### How to Submit a Request to Know, Delete, and/or Correct
 
-You may submit a request to know, delete, and/or correct through our interactive webform available [here](https://www.eyebuydirect.com/ccpa) or by calling us toll free at 1-855-393-2891 or emailing [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com).
+You may submit a request to know, delete, and/or correct through our interactive webform available [here](https://www.eyebuydirect.com/ccpa) or by calling us toll free at 1-855-393-2891 or emailing [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com).
 
 If you are submitting a request on behalf of a California resident, please submit the request through one of the designated methods discussed above. After submitting the request, we will require additional information to verify your authority to act on behalf of the California resident.
 
@@ -622,7 +618,7 @@ For requests to access specific pieces of Personal Information or for requests t
 
 If you are a California resident, you have the right to direct us to stop selling or sharing your Personal Information.
 
-You may submit a request to opt out of sales or sharing through our interactive webform available by clicking on this [link](https://www.eyebuydirect.com/ccpa). You also may submit a request by calling us a 1-855-393-2891 or emailing us at [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com). To opt out of our use of third-party advertising Cookies, please see the section “How You Can Opt Out of Cookies” above.
+You may submit a request to opt out of sales or sharing through our interactive webform available by clicking on this [link](https://www.eyebuydirect.com/ccpa). You also may submit a request by calling us a 1-855-393-2891 or emailing us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com). To opt out of our use of third-party advertising Cookies, please see the section “How You Can Opt Out of Cookies” above.
 
 ##### California privacy rights metrics
 
@@ -653,7 +649,7 @@ This data reflects all requests received from individuals in the U.S. as well as
 
 ##### Notice of Financial Incentives
 
-EBD offers programs, benefits, and other offerings related to the collection, retention, use, or sale of your Personal Information that may be deemed a “financial incentive” or “price or service difference” under the California Consumer Privacy Act (“CCPA”). We are providing you this information so that you may make an informed decision on whether to participate in our programs, including our Loyalty Program, Referral Program, and Exclusive Club. Participation in our promotional programs is always optional! You can end program participation at any time by contacting us at [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com) to unsubscribe or cancel your participation in any program. We will not discriminate against you, in any manner prohibited by applicable law, for exercising these rights. Please note that we may add or change incentive programs, or their terms by posting notice on the program descriptions and terms linked to above, so check them regularly.
+EBD offers programs, benefits, and other offerings related to the collection, retention, use, or sale of your Personal Information that may be deemed a “financial incentive” or “price or service difference” under the California Consumer Privacy Act (“CCPA”). We are providing you this information so that you may make an informed decision on whether to participate in our programs, including our Loyalty Program, Referral Program, and Exclusive Club. Participation in our promotional programs is always optional! You can end program participation at any time by contacting us at [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com) to unsubscribe or cancel your participation in any program. We will not discriminate against you, in any manner prohibited by applicable law, for exercising these rights. Please note that we may add or change incentive programs, or their terms by posting notice on the program descriptions and terms linked to above, so check them regularly.
 
 Each financial incentive or price or service difference relate to the collection and use of personal information is based upon our reasonable, good-faith determination of the estimated value of such information to our business, taking into consideration the value of the offer or benefit itself and the anticipated revenue generation that may be realized by rewarding brand loyalty. We calculate the value of the offer and financial incentive by using the expense related to the offer.
 
@@ -661,12 +657,12 @@ By participating in any of the referenced promotional programs, you agree that t
 
 ##### Shine the Light Law
 
-If you are a California resident, California Civil Code § 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third -parties’ direct marketing purposes (as those terms are defined in that statute). To make such a request, please send an email to [eyecare@eyebuydirect.com](mailto:eyecare@eyebuydirect.com) with the subject line “Shine the Light Request”.
+If you are a California resident, California Civil Code § 1798.83 permits you to request information regarding the disclosure of your personal information by us to third parties for the third -parties’ direct marketing purposes (as those terms are defined in that statute). To make such a request, please send an email to [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com) with the subject line “Shine the Light Request”.
 
 12\. NOTICE TO CANADA RESIDENTS
 -------------------------------
 
-Please see Parts 1-3, above, for a description of the personal information held by us, a general account of its use, and what personal information we make available to related organizations. Subject to exceptions set out in privacy legislation, residents of Canada may request to view, update, or correct their personal information by contacting our privacy officer at the information provided in the “**CONTACT**” section below. In order to protect your privacy, we will take steps to verify your identity before granting you access to the information or enabling you to make corrections. Please keep in mind that certain information may be subject to exceptions if, for example, the information is protected by solicitor-client privilege, part of a formal dispute resolution process, about another individual that would reveal their personal information or confidential commercial information, or would be prohibitively expensive to provide. In some instances, you may have consented to the collection of your personal information. Subject to legal and contractual requirements and reasonable notice, you may withdraw your consent at any time; however, without your consent, we may not be able to provide you with our services or products if your personal information is necessary for us to be able to provide them.
+Please see above, for a description of the personal information held by us, a general account of its use, and what personal information we make available to related organizations. Subject to exceptions set out in privacy legislation, residents of Canada may request to view, update, or correct their personal information by contacting our privacy officer at the information provided in the “**CONTACT**” section below. In order to protect your privacy, we will take steps to verify your identity before granting you access to the information or enabling you to make corrections. Please keep in mind that certain information may be subject to exceptions if, for example, the information is protected by solicitor-client privilege, part of a formal dispute resolution process, about another individual that would reveal their personal information or confidential commercial information, or would be prohibitively expensive to provide. In some instances, you may have consented to the collection of your personal information. Subject to legal and contractual requirements and reasonable notice, you may withdraw your consent at any time; however, without your consent, we may not be able to provide you with our services or products if your personal information is necessary for us to be able to provide them.
 
 13\. YOUR CHOICES
 -----------------
@@ -712,7 +708,7 @@ We are committed to ensuring this Policy is accessible to individuals with disab
 20\. COOKIE POLICY
 ------------------
 
-Like many other companies, Luxottica of America Inc. (“Luxottica,” “we,” “our,” or “us”) uses cookies and other tracking technologies (such as pixels and web beacons) (collectively, “Cookies”) when you visit our websites including our blogs and client portals (“Sites”), and use the services provided through our Sites (“Services”). This Cookie Policy explains how we use Cookies and how you can manage them. Please review the Privacy Policy featured on our Sites to learn more about our privacy practices.
+Like many other companies, Essilor uses cookies and other tracking technologies (such as pixels and web beacons) (collectively, “Cookies”) when you visit our websites including our blogs and client portals (“Sites”), and use the services provided through our Sites (“Services”). This Cookie Policy explains how we use Cookies and how you can manage them.
 
 This Cookie Policy covers the following topics:
 
@@ -796,10 +792,10 @@ No mobile information will be shared with third parties/affiliates for marketing
 
 If you have questions or wish to contact us about this Policy, please direct inquiries to:
 
-Privacy OfficerLuxottica Retail North America, Inc.  
+Privacy Officer Luxottica Retail North America, Inc.  
 4000 Luxottica Place  
 Mason, Ohio 45040  
-Phone: 513-765-4321  
+Phone: 1-800-776-4085  
 Email: [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.com)
 
 See our latest collections & exclusive offers before the crowd!
@@ -842,4 +838,4 @@ Our Brands
 
 © 2006-2024 [eyebuydirect.com](https://www.eyebuydirect.com/)
 
-[Privacy Policy](https://www.eyebuydirect.com/privacy-policy) [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use) Do Not Sell or Share My Personal Information [Cookie Notice](https://www.eyebuydirect.com/privacy-policy#cookie-notice) [AdChoices](https://www.eyebuydirect.com/privacy-policy#adchoices) [California Collection Notice](https://www.eyebuydirect.com/privacy-policy#california-notice) [Consumer Health Data Privacy Policy](https://www.eyebuydirect.com/consumer-health-data-privacy-policy)
+[Privacy Policy](https://www.eyebuydirect.com/privacy-policy) [Terms and Conditions of Use](https://www.eyebuydirect.com/terms-of-use) [Cookie Notice](https://www.eyebuydirect.com/privacy-policy#cookie-notice) [AdChoices](https://www.eyebuydirect.com/privacy-policy#adchoices) [California Collection Notice](https://www.eyebuydirect.com/privacy-policy#california-notice) [Consumer Health Data Privacy Policy](https://www.eyebuydirect.com/consumer-health-data-privacy-policy) Your Privacy Choices ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
