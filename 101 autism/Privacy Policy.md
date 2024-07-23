@@ -180,11 +180,11 @@ Follow:
 
 ### Advertisement
 
+* [Embracing Geek Girl Autism: Where Special Interests and Neurodiversity Meet](https://101autism.com/embracing-geek-girl-autism-where-special-interests-and-neurodiversity-meet/)
+* [Reversing Severe Autism: Groundbreaking Research and Long-term Benefits](https://101autism.com/reversing-severe-autism-groundbreaking-research-and-long-term-benefits/)
 * [Top Online Autism Tests for Initial Assessment and Insights](https://101autism.com/top-online-autism-tests-for-initial-assessment-and-insights/)
 * [Pop Tubes Stocking Stuffers Toddler Toys: Versatile and Colorful Sensory Tools](https://101autism.com/pop-tubes-stocking-stuffers-toddler-toys-versatile-and-colorful-sensory-tools/)
 * [ABCya.com: Educational Games & Activities for Children](https://101autism.com/httpabcya-com/)
-* [Discover the Ultimate Stress Relief: MOZACI Fidget Toys Set Review](https://101autism.com/discover-the-ultimate-stress-relief-mozaci-fidget-toys-set-review/)
-* [Trinity Christian Academy Controversy: Outrage Over Autism Awareness Week Ban](https://101autism.com/trinity-christian-academy-controversy-outrage-over-autism-awareness-week-ban/)
 
 [![weighted blankets for autism](https://static.shareasale.com/image/64644/littlegirlinpink.jpeg)](https://shareasale.com/r.cfm?b=1905074&u=475781&m=64644&urllink=&afftrack=)
 
