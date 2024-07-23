@@ -91,31 +91,31 @@ last week
 
 [doPDF
 
-9,645](https://dopdf.apps112.com/ "Continue to app")  
+9,134](https://dopdf.apps112.com/ "Continue to app")  
 
 [Daily Cash - Earn Real Money Online
 
-4,120](https://daily-cash-earn-real-money-online.apps112.com/ "Continue to app")  
-
-[Free Recharge Unlimited App
-
-4,000](https://free-recharge-unlimited-app.apps112.com/ "Continue to app")  
-
-[Bitcoin Ice Mine
-
-3,200](https://bitcoin-ice-mine.apps112.com/ "Continue to app")  
-
-[MalO ver1.0.0
-
-2,487](https://malo-ver1-0-0.apps112.com/ "Continue to app")  
-
-[CashMama- Instant Personal Loan App Online
-
-2,428](https://cashmama-instant-personal-loan-app-online.apps112.com/ "Continue to app")  
+5,350](https://daily-cash-earn-real-money-online.apps112.com/ "Continue to app")  
 
 [ML Rewards
 
-2,271](https://ml-rewards-lite.apps112.com/ "Continue to app")  
+3,595](https://ml-rewards-lite.apps112.com/ "Continue to app")  
+
+[Free Recharge Unlimited App
+
+3,260](https://free-recharge-unlimited-app.apps112.com/ "Continue to app")  
+
+[Bitcoin Ice Mine
+
+3,074](https://bitcoin-ice-mine.apps112.com/ "Continue to app")  
+
+[CashMama- Instant Personal Loan App Online
+
+2,585](https://cashmama-instant-personal-loan-app-online.apps112.com/ "Continue to app")  
+
+[Temple Run: Oz
+
+2,398](https://temple-run-oz.apps112.com/ "Continue to app")  
 
   [View All Top Downloads](https://www.apps112.com/top-downloads-overall.html?categ=)
 
@@ -124,19 +124,19 @@ last week
 Trending Apps
 =============
 
-[Chest Legend](https://chest-legend.apps112.com/ "Continue to app")
+[Guru Purnima Photo Editor](https://guru-purnima-photo-editor.apps112.com/ "Continue to app")
 
-[Fixando](https://fixando.apps112.com/ "Continue to app")
+[Dr.Web Security Space](https://dr-web-security-space-46.apps112.com/ "Continue to app")
 
-[9Weather: Weather forecast](https://9weather-weather-forecast-ios.apps112.com/ "Continue to app")
+[Navy Warship Air Battle 3D](https://navy-warship-air-battle-3d.apps112.com/ "Continue to app")
 
-[Sparrow - Golf](https://sparrow-golf-ios.apps112.com/ "Continue to app")
+[Gems or jewels ?](https://gems-or-jewels.apps112.com/ "Continue to app")
 
-[Boom Cash - Games with Rewards](https://shoot-6.apps112.com/ "Continue to app")
+[Video Player for Android](https://video-player-for-android.apps112.com/ "Continue to app")
 
-[Platifiy: Movie Show & Tv](https://platifiy-movie-show-tv-ios.apps112.com/ "Continue to app")
+[QuestN](https://questn-ios.apps112.com/ "Continue to app")
 
-[Tiki Bar: Free Bartender Game](https://tiki-bar-free-bartender-game.apps112.com/ "Continue to app")
+[Aim master 8 ball pool Cheto](https://aim-master-8-ball-pool-cheto-ios.apps112.com/ "Continue to app")
 
   
 
