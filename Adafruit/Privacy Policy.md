@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I am driven by two main philosophies, know more today about the world than I knew yesterday. And lessen the suffering of others. You'd be surprised how far that gets you”
+“ If you have some power, then your job is to empower somebody else”
 
-[Neil deGrasse Tyson](http://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)
+[Toni Morrison](https://en.wikipedia.org/wiki/Toni_Morrison)
 
 [](https://www.adafruit.com/about)
 
