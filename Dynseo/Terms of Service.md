@@ -1,4 +1,4 @@
- ![](https://www.dynseo.com/wp-content/uploads/2024/01/logo.jpg)
+ ![logo](https://www.dynseo.com/wp-content/uploads/2024/01/logo.jpg)
 
 * [Home](https://www.dynseo.com/en/)
 * [Coaches](https://www.dynseo.com/en/brain-games-apps/memory-games/)
