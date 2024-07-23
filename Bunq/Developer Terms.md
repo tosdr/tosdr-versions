@@ -338,7 +338,7 @@ Company
 
 [About Us](https://www.bunq.com/assets/media/legal/en/about)
 
-[Our Green Impact](https://www.bunq.com/assets/media/legal/en/)
+[Sustainability](https://www.bunq.com/assets/media/legal/en/sustainability)
 
 [Imprint](https://www.bunq.com/assets/media/legal/en/imprint)
 
@@ -406,7 +406,7 @@ Company
 
 [About Us](https://www.bunq.com/assets/media/legal/en/about)
 
-[Our Green Impact](https://www.bunq.com/assets/media/legal/en/)
+[Sustainability](https://www.bunq.com/assets/media/legal/en/sustainability)
 
 [Imprint](https://www.bunq.com/assets/media/legal/en/imprint)
 
@@ -474,7 +474,7 @@ Company
 
 [About Us](https://www.bunq.com/assets/media/legal/en/about)
 
-[Our Green Impact](https://www.bunq.com/assets/media/legal/en/)
+[Sustainability](https://www.bunq.com/assets/media/legal/en/sustainability)
 
 [Imprint](https://www.bunq.com/assets/media/legal/en/imprint)
 
