@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![Man squatting and pointing to his tattooed arm in a wooden-paneled room, embodying the essence of an Agile Human Being.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
+
+[Podcast #885: The Essential Habits for Becoming an Agile, Vital, and Durable Human Being](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
+
 [![a man squatting with weights on a metal rack](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/how-to-hatfield-squat/)
 
 [My New Favorite Squat](https://www.artofmanliness.com/health-fitness/fitness/how-to-hatfield-squat/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A person in a gym using a cable machine for strength training, performing a chest exercise with focused expression, showcasing the efficacy of cable machine workouts.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/full-body-cable-machine-functional-trainer-workouts/)
 
 [How to Get a Full-Body Workout on a Cable Machine/Functional Trainer](https://www.artofmanliness.com/health-fitness/fitness/full-body-cable-machine-functional-trainer-workouts/)
-
-[![A man in a tuxedo performs a James Bond workout, executing a push-up over a martini glass on the floor.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/the-james-bond-workout/)
-
-[The James Bond Workout](https://www.artofmanliness.com/health-fitness/fitness/the-james-bond-workout/)
 
 [![a man with a mustache wearing sunglasses](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1004-the-sunscreen-debate-are-we-blocking-our-way-to-better-health/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
+
+[Podcast #885
+
+###### The Essential Habits for Becoming an Agile, Vital, and Durable Human Being](https://www.artofmanliness.com/health-fitness/fitness/podcast-885-the-essential-habits-for-becoming-an-agile-vital-and-durable-human-being/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/podcast/the-10-most-popular-aom-podcast-episodes-of-2024-so-far/)
 
 [The 10 Most Popular AoM Podcast Episodes of 2024 (So Far)](https://www.artofmanliness.com/podcast/the-10-most-popular-aom-podcast-episodes-of-2024-so-far/)
@@ -664,12 +670,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,006
 
 ###### Stop Drowning in Tedious Tasks by Taming Your Life Admin](https://www.artofmanliness.com/lifestyle/homeownership/podcast-1006-stop-drowning-in-tedious-tasks-by-taming-your-life-admin/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-1005-a-surprising-solution-for-disordered-masculinity/)
-
-[Podcast #1,005
-
-###### A Surprising Solution for Disordered Masculinity](https://www.artofmanliness.com/character/knowledge-of-men/podcast-1005-a-surprising-solution-for-disordered-masculinity/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
