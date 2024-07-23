@@ -19,6 +19,7 @@
 
 * [Pricing](https://www.clickmagick.com/pricing/)
 * [FAQs](https://www.clickmagick.com/faqs/)
+* Don’t run ads?
 
 [Sign in](https://www.clickmagick.com/login/) [Start for free](https://www.clickmagick.com/signup/)
 
