@@ -50,6 +50,8 @@ Solutions
 
 [Construction](https://www.drawboard.com/solutions/construction)
 
+[Education](https://www.drawboard.com/solutions/education)
+
 [Legal](https://www.drawboard.com/solutions/legal)
 
 [Finance](https://www.drawboard.com/solutions/finance)
