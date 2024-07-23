@@ -395,4 +395,4 @@ More resources
 
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&referrer=utm_source%3Dgofundme%26utm_medium%3Dpublic_web_mobileapp) [Available on the App Store](https://itunes.apple.com/app/apple-store/id734130700?pt=2179020&ct=gofundme_public_web_mobileapp&mt=8)
 
-© 2010-2024 GoFundMe [Terms](https://www.gofundme.com/c/terms) [Privacy](https://www.gofundme.com/c/privacy) [Legal](https://www.gofundme.com/legal) [Accessibility Statement](https://www.gofundme.com/c/accessibility-statement)
+© 2010-2024 GoFundMe [Terms](https://www.gofundme.com/c/terms) [Privacy](https://www.gofundme.com/c/privacy) [Legal](https://www.gofundme.com/legal) [Accessibility Statement](https://www.gofundme.com/c/accessibility-statement) [Your Privacy Choices ![](https://www.gofundme.com/nextassets/shared/privacy-pill.png)](https://www.gofundme.com/c/opt-out-rights)
