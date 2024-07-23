@@ -196,6 +196,7 @@ We reserve the right to take appropriate action in response to violations of thi
 * [Security](https://www.dropbox.com/features/security)
 * [Early access](https://www.dropbox.com/early-access)
 * [Templates](https://www.dropbox.com/templates)
+* [Free tools](https://www.dropbox.com/tools)
 
 ### Products
 
