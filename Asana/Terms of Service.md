@@ -54,9 +54,9 @@ Featureschevron-down icon
 
 ### ALL PLANS
 
-* [list iconStarter](https://asana.com/plan/starter)
-* [premium iconAdvanced](https://asana.com/plan/advanced)
-* [briefcase iconEnterprise](https://asana.com/enterprise)
+* [list iconPersonal](https://asana.com/pricing)
+* [premium iconStarter](https://asana.com/plan/starter)
+* [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
 Solutionschevron-down icon
 
@@ -188,9 +188,9 @@ CAPABILITIES
 
 ALL PLANS
 
-* [list iconStarter](https://asana.com/plan/starter)
-* [premium iconAdvanced](https://asana.com/plan/advanced)
-* [briefcase iconEnterprise](https://asana.com/enterprise)
+* [list iconPersonal](https://asana.com/pricing)
+* [premium iconStarter](https://asana.com/plan/starter)
+* [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
 Teams
 
@@ -501,7 +501,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Wavelength](https://wavelength.asana.com/)
 * [Inside Asana](https://asana.com/inside-asana)
 * [Investor Relations](https://investors.asana.com/)
-* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/site-map)
+* [Sitemap](https://asana.com/inside-asana/site-map)
 * [Modern Slavery Transparency Statement](https://asana.com/terms/modern-slavery-statement)
 
 * Workflow Solutions
