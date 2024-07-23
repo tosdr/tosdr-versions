@@ -405,35 +405,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Grayson Rodriguez gets AL-best 12th win as Orioles hit 3 more homers to beat Rangers 8-4](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2162222869.jpg?ve=1&tl=1)
+ [![Here's who Texans want to be Kamala Harris' running mate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2162549268.jpg?ve=1&tl=1)
 
- ![Grayson Rodriguez gets AL-best 12th win as Orioles hit 3 more homers to beat Rangers 8-4](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162222869.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/grayson-rodriguez-gets-al-best-12th-win-orioles-hit-3-more-homers-beat-rangers-8-4)
+ ![Here's who Texans want to be Kamala Harris' running mate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162549268.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-texas-running-mate)
 
-### [Grayson Rodriguez gets AL-best 12th win as Orioles hit 3 more homers to beat Rangers 8-4](https://www.fox4news.com/sports/grayson-rodriguez-gets-al-best-12th-win-orioles-hit-3-more-homers-beat-rangers-8-4)
+### [Here's who Texans want to be Kamala Harris' running mate](https://www.fox4news.com/news/kamala-harris-texas-running-mate)
 
- [![Arike Ogunbowale and Caitlin Clark lead WNBA All-Stars to 117-109 win over U.S. Olympic team](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/GettyImages-2162845764.jpg?ve=1&tl=1)
+ [![First Baptist Dallas hopeful it can save portion of historic sanctuary](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/DAMAGE-1.jpg?ve=1&tl=1)
 
- ![Arike Ogunbowale and Caitlin Clark lead WNBA All-Stars to 117-109 win over U.S. Olympic team](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/GettyImages-2162845764.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/arike-ogunbowale-caitlin-clark-lead-wnba-all-stars-117-109-win-over-u-s-olympic-team)
+ ![First Baptist Dallas hopeful it can save portion of historic sanctuary](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/DAMAGE-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-baptist-dallas-historic-sanctuary-update-july-23)
 
-### [Arike Ogunbowale and Caitlin Clark lead WNBA All-Stars to 117-109 win over U.S. Olympic team](https://www.fox4news.com/sports/arike-ogunbowale-caitlin-clark-lead-wnba-all-stars-117-109-win-over-u-s-olympic-team)
+### [First Baptist Dallas hopeful it can save portion of historic sanctuary](https://www.fox4news.com/news/first-baptist-dallas-historic-sanctuary-update-july-23)
 
- [![SEC official makes 'Horns Down' penalty decision as college football season nears](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/12/32/18/GettyImages-1817403220.jpg?ve=1&tl=1)
+ [![Shots fired on campus: UTPD asking public for help identifying suspect](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/07/32/18/ut-suspect.jpg?ve=1&tl=1)
 
- ![SEC official makes 'Horns Down' penalty decision as college football season nears](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/12/32/18/592/333/GettyImages-1817403220.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/sec-official-makes-horns-down-penalty-decision-college-football-season-nears)
+ ![Shots fired on campus: UTPD asking public for help identifying suspect](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/07/32/18/592/333/ut-suspect.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shooting-campus-texas-utpd-identify-suspect)
 
-### [SEC official makes 'Horns Down' penalty decision as college football season nears](https://www.fox4news.com/sports/sec-official-makes-horns-down-penalty-decision-college-football-season-nears)
+### [Shots fired on campus: UTPD asking public for help identifying suspect](https://www.fox4news.com/news/shooting-campus-texas-utpd-identify-suspect)
 
- [![First Baptist Dallas' historic sanctuary may need to be demolished, cause undetermined](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/DAMAGE-1.jpg?ve=1&tl=1)
+ [![These top Democrats are endorsing Harris in presidential race](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2161823525-a.jpg?ve=1&tl=1)
 
- ![First Baptist Dallas' historic sanctuary may need to be demolished, cause undetermined](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/DAMAGE-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-baptist-dallas-fire-update-demolished)
+ ![These top Democrats are endorsing Harris in presidential race](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2161823525-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-harris-endorsements)
 
-### [First Baptist Dallas' historic sanctuary may need to be demolished, cause undetermined](https://www.fox4news.com/news/first-baptist-dallas-fire-update-demolished)
+### [These top Democrats are endorsing Harris in presidential race](https://www.fox4news.com/news/kamala-harris-endorsements)
 
- [![Gunman used drone to scope rally site before Trump assassination attempt](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/GettyImages-2161333690.jpg?ve=1&tl=1)
+ [![Uber driver arrested for sexually assaulting 12-year-old rider](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/Robert-Johnson-III-mug-e1721751974708.png?ve=1&tl=1)
 
- ![Gunman used drone to scope rally site before Trump assassination attempt](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/07/32/18/592/333/GettyImages-2161333690.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gunman-drone-trump-shooting)
+ ![Uber driver arrested for sexually assaulting 12-year-old rider](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/Robert-Johnson-III-mug-e1721751974708.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/uber-driver-arrested-sexually-assaulting-12-year-old-rider)
 
-### [Gunman used drone to scope rally site before Trump assassination attempt](https://www.fox4news.com/news/gunman-drone-trump-shooting)
+### [Uber driver arrested for sexually assaulting 12-year-old rider](https://www.fox4news.com/news/uber-driver-arrested-sexually-assaulting-12-year-old-rider)
 
 ###### [News](https://www.fox4news.com/news)
 
