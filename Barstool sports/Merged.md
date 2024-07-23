@@ -142,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Viva TV](https://www.barstoolsports.com/video/3519975/we-broke-the-mlb-home-run-record-in-6-hours-or-viva-tv)
-* [Shanghai Marriage Market](https://www.barstoolsports.com/video/3519731/i-tried-to-find-nicky-smokes-and-ben-mintz-a-wife-at-the-shanghai-marriage-market)
+* [Rundown](https://www.barstoolsports.com/video/3520148/lebron-crowns-himself-free-throw-king-july-22nd-2024-barstool-rundown)
+* [Aaron Rodgers](https://www.barstoolsports.com/blog/3520073/aaron-rodgers-clears-the-air-on-missing-two-ota-days-for-a-trip-to-egypt)
+* [Open Championship Recap](https://www.barstoolsports.com/podcast/3520049/the-open-championship-is-awesome-fore-play-episode-683)
 * [Pardon My Cheesesteak](https://www.pardonmycheesesteak.com/?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_featuredtopicblog)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
-* [Barstool Golf Time App](https://apps.apple.com/app/apple-store/id1550158305?pt=1548021&ct=bsdisplay&mt=8)
 
 Privacy Policy
 ==============
@@ -560,6 +560,6 @@ We will respond to your request as quickly as we can. The content of our respons
 
 [Level Access website accessibility icon](https://www.levelaccess.com/a/barstoolsports)
 
-[App](https://www.barstoolsports.com/download)[Advertising Inquiries](https://www.barstoolsports.com/partnerships)[Terms of Use](https://www.barstoolsports.com/terms-of-use)[Privacy Policy](https://www.barstoolsports.com/privacy-policy)[Content Policy](https://www.barstoolsports.com/content-policy)[Cookie Policy](https://www.barstoolsports.com/cookie-policy)[Messaging Terms](https://www.barstoolsports.com/messaging-terms)[Subscription Terms](https://www.barstoolsports.com/subscription-terms)
+[App](https://www.barstoolsports.com/download)[Advertising Inquiries](https://www.barstoolsports.com/partnerships)[Terms of Use](https://www.barstoolsports.com/terms-of-use)[Privacy Policy](https://www.barstoolsports.com/privacy-policy)[Content Policy](https://www.barstoolsports.com/content-policy)[Cookie Policy](https://www.barstoolsports.com/cookie-policy)[Messaging Terms](https://www.barstoolsports.com/messaging-terms)[Digital Sale Terms](https://www.barstoolsports.com/digital-sale-terms)
 
 © 2024 Barstool Sports. All rights reserved.
