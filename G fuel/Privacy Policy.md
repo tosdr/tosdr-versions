@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                 
+Privacy policy – G FUEL                                                                                               
 
 [Skip to content](#MainContent) 
 
@@ -327,13 +327,12 @@ General Disclosure of Your Information:  We may disclose the information we co
 * to our affiliates and their respective employees, agents and representatives involved in delivering our Services, products and other services to you. For example, we use (and thus disclose certain of Your Information to): 
     * Google Firebase when you access our Services through our mobile app. Google Firebase usage is subject to Google’s Privacy Policy (link provided above). 
     * LoyaltyLion in order to serve our loyalty and rewards program -- you can read more about how Loyalty Lion uses Your Information here: [https://loyaltylion.com/privacy](https://loyaltylion.com/privacy). 
-    * tv for purposes of watching esports from our Services -- you can read more about how Theta.tv uses Your Information here: [https://www.theta.tv/privacy-policy](https://www.theta.tv/privacy-policy).
     * Attentive Mobile Inc. in order to provide SMS messaging -- you can read more about how Attentive uses Your Information here: [https://www.attentivemobile.com/privacy](https://www.attentivemobile.com/privacy).
 * to our third-party vendors or suppliers so that they may provide support for our internal and business operations, including for the handling of the purchase and sale of our products or services, data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials and our Services’ maintenance and security. For example, we use (and thus disclose certain of Your Information to): 
     * Shopify in order to power our online store--you can read more about how Shopify uses Your Information here: [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy). 
     * Google Analytics so that they can help us understand how our customers use the Site – you can read more about how Google uses Your Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). 
     * ShipHero to fulfill your orders — you can read more about how ShipHero uses Your Information here: [https://shiphero.com/privacy-data-policy](https://shiphero.com/privacy-data-policy). 
-    * HubStop and JustUnoin order to effectuate our marketing campaigns — you can read more about how HubSpot and JustUno use Your Information here: [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy?__hstc=185383542.28f8f0ea1999f20011a67d21467c270a.1655310711513.1659449850243.1659459411314.5&__hssc=185383542.4.1659459411314&__hsfp=1191625704) and [https://www.justuno.legal/privacy-policy.html](https://www.justuno.legal/privacy-policy.html). 
+    * Klaviyo in order to effectuate our marketing campaigns — you can read more about how Klaviyo uses Your Information here: [https://www.klaviyo.com/legal/privacy/privacy-notice](https://www.klaviyo.com/legal/privacy/privacy-notice)  
 * to fulfill the purpose for which you provide it; 
 * to any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney); 
 * to third parties when you engage in certain activities through our Services that are sponsored by such third parties, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party or electing to participate in contests, sweepstakes, games or other programs sponsored, in whole or in part, by a third party; 
@@ -631,7 +630,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.4 out of 5 stars
 
-1,656 Reviews
+1,658 Reviews
 
 4.7
 
@@ -643,46 +642,46 @@ Rated 4.7 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,842 Reviews
+2,845 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,996 Reviews
+2,003 Reviews
 
 4.4
 
 Rated 4.4 out of 5 stars
 
-2,133 Reviews
+2,135 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,422 Reviews
+2,427 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-4,666 Reviews
+4,668 Reviews
 
 4.5
 
 Rated 4.5 out of 5 stars
 
-4,415 Reviews
+4,423 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,867 Reviews
+1,870 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-1,361 Reviews
+1,362 Reviews
