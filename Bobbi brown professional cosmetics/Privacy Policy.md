@@ -2,7 +2,7 @@
 
 Previous
 
-[Last call. Enjoy up to 30% off on select products.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+[Pick 5 mini items on $85+ after checkout. Plus, get a Makeup Bag on $100+. No code needed.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
