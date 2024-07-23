@@ -63,13 +63,6 @@
     [![](https://www.edsby.com/wp-content/uploads/2023/09/search.png)](#exampleModalToggle)
 * [Contact Sales](https://forms.edsby.com/contact-sales)
 
-Services Privacy Policy
-=======================
-
-* [Home](https://www.edsby.com/ "Home")
-
-* **Services Privacy Policy**
-
 **Date of last revision of this policy: February 3rd, 2023**
 ============================================================
 
