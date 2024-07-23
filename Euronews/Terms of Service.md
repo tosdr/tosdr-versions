@@ -12,56 +12,56 @@
     
     Trending
     
-    * [European elections 2024](https://www.euronews.com/tag/european-elections-2024)
-    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-    * [Ukraine war](https://www.euronews.com/tag/war-in-ukraine)
-    * [2024 French legislative election](https://www.euronews.com/tag/2024-french-legislative-election)
-    * [UEFA Euro 2024](https://www.euronews.com/tag/uefa-euro-2024)
-    * [Benjamin Netanyahu](https://www.euronews.com/tag/benjamin-netanyahu)
+    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [Joe Biden](https://www.euronews.com/tag/joe-biden)
+    * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+    * [Paris](https://www.euronews.com/tag/paris)
+    * [European Parliament](https://www.euronews.com/tag/european-parliament)
     
     * * *
     
     Latest stories
     
-    [![71% of consumers expect companies to deliver personalised interactions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "71% of consumers expect companies to deliver personalised interactions")
+    [![Police officers near the site of shooting in Zagreb, 12 October 2020, FILE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Police officers near the site of shooting in Zagreb, 12 October 2020, FILE")
     
-    ![71% of consumers expect companies to deliver personalised interactions](https://static.euronews.com/articles/stories/08/52/17/86/368x207_cmsv2_149b4fd5-4c70-567c-ad7a-3efb3acf82b5-8521786.jpg "71% of consumers expect companies to deliver personalised interactions")](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
-    
-    Now playing Next
-    
-    [Business](https://www.euronews.com/business/business)
-    
-    ### [The rise of the ‘Me economy’](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
-    
-    [![Picasso artwork hanging in Mona gallery women's toilet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Picasso artwork hanging in Mona gallery women's toilet")
-    
-    ![Picasso artwork hanging in Mona gallery women's toilet](https://static.euronews.com/articles/stories/08/52/56/12/368x207_cmsv2_f3a790a3-fd91-5af4-8f5a-9543bb4e2bb9-8525612.jpg "Picasso artwork hanging in Mona gallery women's toilet")](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
-    
-    Now playing Next
-    
-    [Art](https://www.euronews.com/culture/art)
-    
-    ### [Tasmanian museum hangs Picassos in women's toilet](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
-    
-    [![EU foreign affairs ministers met on Monday in Luxembourg.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "EU foreign affairs ministers met on Monday in Luxembourg.")
-    
-    ![EU foreign affairs ministers met on Monday in Luxembourg.](https://static.euronews.com/articles/stories/08/52/49/38/368x207_cmsv2_01f6132f-d7f2-5383-adf7-1a02393a2e62-8524938.jpg "EU foreign affairs ministers met on Monday in Luxembourg.")](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+    ![Police officers near the site of shooting in Zagreb, 12 October 2020, FILE](https://static.euronews.com/articles/stories/08/59/41/32/368x207_cmsv2_a018fe12-08f2-58be-a2fb-c3878af174b4-8594132.jpg "Police officers near the site of shooting in Zagreb, 12 October 2020, FILE")](https://www.euronews.com/my-europe/2024/07/22/gunman-kills-at-least-four-people-at-nursing-home-in-central-croatia)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [EU foreign ministers try to bypass Hungary's veto on Ukraine aid](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+    ### [Gunman kills at least four people at nursing home in central Croatia](https://www.euronews.com/my-europe/2024/07/22/gunman-kills-at-least-four-people-at-nursing-home-in-central-croatia)
     
-    [![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")
+    [![Lead Ventures looking to encourage start-ups in Central and Eastern Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lead Ventures looking to encourage start-ups in Central and Eastern Europe")
     
-    ![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](https://static.euronews.com/articles/stories/08/52/54/32/368x207_cmsv2_87cd62be-c82d-5c4d-abe4-c4713909a4c7-8525432.jpg "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
+    ![Lead Ventures looking to encourage start-ups in Central and Eastern Europe](https://static.euronews.com/articles/stories/08/59/35/54/368x207_cmsv2_8a2e26d0-4f74-58fb-b1a3-71430c76178a-8593554.jpg "Lead Ventures looking to encourage start-ups in Central and Eastern Europe")](https://www.euronews.com/business/2024/07/22/hungarys-lead-ventures-on-the-lookout-for-more-chances-for-start-ups)
     
     Now playing Next
     
-    [South Korea](https://www.euronews.com/news/asia/south-korea)
+    [Business](https://www.euronews.com/business/business)
     
-    ### [Fire at South Korean lithium battery factory claims at least 16 lives](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
+    ### [Hungary's Lead Ventures on the lookout for more chances for start-ups](https://www.euronews.com/business/2024/07/22/hungarys-lead-ventures-on-the-lookout-for-more-chances-for-start-ups)
+    
+    [![Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ")
+    
+    ![Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ](https://static.euronews.com/articles/stories/08/59/35/70/368x207_cmsv2_dceff0ee-5ab6-5600-8bae-a383eb615590-8593570.jpg "Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ")](https://www.euronews.com/2024/07/22/israel-orders-humanitarian-zone-in-gaza-to-be-evacuated-for-a-military-operation)
+    
+    Now playing Next
+    
+    [Gaza](https://www.euronews.com/news/asia/gaza)
+    
+    ### [Israel orders humanitarian zone to be evacuated to begin operations](https://www.euronews.com/2024/07/22/israel-orders-humanitarian-zone-in-gaza-to-be-evacuated-for-a-military-operation)
+    
+    [![Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.")
+    
+    ![Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.](https://static.euronews.com/articles/stories/08/55/70/54/368x207_cmsv2_360f2621-073a-5de9-aceb-426c5c219705-8557054.jpg "Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.")](https://www.euronews.com/my-europe/2024/07/22/the-end-of-airbnb-in-barcelona-what-does-the-tourism-industry-have-to-say)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [The end of Airbnb in Barcelona: what does the industry have to say?](https://www.euronews.com/my-europe/2024/07/22/the-end-of-airbnb-in-barcelona-what-does-the-tourism-industry-have-to-say)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -88,7 +88,7 @@
     
     Featured
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
         ![](https://static.euronews.com/articles/programs/featured-programs/featured-radio-schuman.jpg)
         
@@ -120,7 +120,7 @@
     
     Featured
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
         ![](https://static.euronews.com/articles/programs/featured-programs/featured-nocomment.jpg)
         
@@ -141,7 +141,7 @@
     
     Programmes
     
-    * [Business Line](https://www.euronews.com/business/business-series/business-line)
+    * [Business Planet](https://www.euronews.com/business/business-series/business-planet)
     * [Focus](https://www.euronews.com/business/business-series/focus)
     * [Global Japan](https://www.euronews.com/business/business-series/global-japan)
     * [My Wildest Prediction](https://www.euronews.com/business/business-series/my-wildest-prediction)
@@ -156,14 +156,14 @@
     
     Featured
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
         ![](https://static.euronews.com/articles/programs/featured-programs/featured-my-wildest-prediction.jpg)
         
         My Wildest Prediction
         
         Dare to imagine the future with business and tech visionaries](https://www.euronews.com/business/business-series/my-wildest-prediction)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
         ![](https://static.euronews.com/articles/programs/featured-programs/featured-the-big-question.jpg)
         
@@ -197,7 +197,7 @@
     
     Featured
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
         ![](https://static.euronews.com/articles/programs/featured-programs/featured-euronews-tech-talks.jpg)
         
@@ -229,14 +229,14 @@
     
     Featured
     
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
-        ![](https://static.euronews.com/articles/programs/featured-programs/featured-ocean.jpg)
+        ![](https://static.euronews.com/articles/programs/featured-programs/featured-water-matters.jpg)
         
-        Ocean
+        Water Matters
         
-        Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more. We also look at the policies and projects designed to protect our seas.](https://www.euronews.com/green/green-series/ocean)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+        Europe's water is under increasing pressure. Pollution, droughts, floods are taking their toll on our drinking water, lakes, rivers and coastlines. Join us on a journey around Europe to see why protecting ecosystems matters, how our wastewater can be better managed, and to discover some of the best water solutions. Video reports, an animated explainer series and live debate – find out why Water Matters, from Euronews.](https://www.euronews.com/green/green-series/water-matters)
+    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
         
         ![](https://static.euronews.com/articles/programs/featured-programs/featured-climate-now.jpg)
         
@@ -316,7 +316,14 @@ More
 
 Special coverage
 
+* [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
+* [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
+* [Discover Türkiye](https://www.euronews.com/special/discover-turkiye)
+* [Discover Sharjah](https://www.euronews.com/special/discover-sharjah)
+* [Explore Azerbaijan](https://www.euronews.com/special/explore-azerbaijan)
 * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+* [Here we grow: Spain](https://www.euronews.com/special/here-we-grow)
+* [From Qatar](https://www.euronews.com/special/qatar-programmes)
 
 * * *
 
@@ -332,6 +339,16 @@ Partner content
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
 
+* * *
+
+Services
+
+* [Weather](https://www.euronews.com/weather)
+* [Job offers from Amply](https://joboffers.euronews.com/)
+* [Bulletin](https://www.euronews.com/bulletin)
+* [Messaging apps](https://www.euronews.com/messaging-apps)
+* [Widgets & Services](https://www.euronews.com/widgets)
+
 [Live](https://www.euronews.com/live)
 
 Close menu sidebar
@@ -342,62 +359,62 @@ Close menu sidebar
 
 Trending
 
-* [European elections 2024](https://www.euronews.com/tag/european-elections-2024)
-* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-* [Ukraine war](https://www.euronews.com/tag/war-in-ukraine)
-* [2024 French legislative election](https://www.euronews.com/tag/2024-french-legislative-election)
-* [UEFA Euro 2024](https://www.euronews.com/tag/uefa-euro-2024)
-* [Benjamin Netanyahu](https://www.euronews.com/tag/benjamin-netanyahu)
+* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [Joe Biden](https://www.euronews.com/tag/joe-biden)
+* [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
+* [Paris](https://www.euronews.com/tag/paris)
+* [European Parliament](https://www.euronews.com/tag/european-parliament)
 
 * * *
 
 Latest stories
 
-[![71% of consumers expect companies to deliver personalised interactions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "71% of consumers expect companies to deliver personalised interactions")
+[![Police officers near the site of shooting in Zagreb, 12 October 2020, FILE](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Police officers near the site of shooting in Zagreb, 12 October 2020, FILE")
 
-![71% of consumers expect companies to deliver personalised interactions](https://static.euronews.com/articles/stories/08/52/17/86/368x207_cmsv2_149b4fd5-4c70-567c-ad7a-3efb3acf82b5-8521786.jpg "71% of consumers expect companies to deliver personalised interactions")](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
-
-Now playing Next
-
-[Business](https://www.euronews.com/business/business)
-
-### [The rise of the ‘Me economy’](https://www.euronews.com/business/2024/06/24/the-rise-of-the-me-economy-what-can-brands-do-to-stay-relevant-and-profitable)
-
-* * *
-
-[![Picasso artwork hanging in Mona gallery women's toilet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Picasso artwork hanging in Mona gallery women's toilet")
-
-![Picasso artwork hanging in Mona gallery women's toilet](https://static.euronews.com/articles/stories/08/52/56/12/368x207_cmsv2_f3a790a3-fd91-5af4-8f5a-9543bb4e2bb9-8525612.jpg "Picasso artwork hanging in Mona gallery women's toilet")](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
-
-Now playing Next
-
-[Art](https://www.euronews.com/culture/art)
-
-### [Tasmanian museum hangs Picassos in women's toilet](https://www.euronews.com/culture/2024/06/24/tasmanian-museum-hangs-picassos-in-womens-toilet-after-discrimination-complaint)
-
-* * *
-
-[![EU foreign affairs ministers met on Monday in Luxembourg.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "EU foreign affairs ministers met on Monday in Luxembourg.")
-
-![EU foreign affairs ministers met on Monday in Luxembourg.](https://static.euronews.com/articles/stories/08/52/49/38/368x207_cmsv2_01f6132f-d7f2-5383-adf7-1a02393a2e62-8524938.jpg "EU foreign affairs ministers met on Monday in Luxembourg.")](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+![Police officers near the site of shooting in Zagreb, 12 October 2020, FILE](https://static.euronews.com/articles/stories/08/59/41/32/368x207_cmsv2_a018fe12-08f2-58be-a2fb-c3878af174b4-8594132.jpg "Police officers near the site of shooting in Zagreb, 12 October 2020, FILE")](https://www.euronews.com/my-europe/2024/07/22/gunman-kills-at-least-four-people-at-nursing-home-in-central-croatia)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [EU foreign ministers try to bypass Hungary's veto on Ukraine aid](https://www.euronews.com/my-europe/2024/06/24/eu-foreign-ministers-try-to-bypass-hungarys-veto-on-military-aid-to-ukraine)
+### [Gunman kills at least four people at nursing home in central Croatia](https://www.euronews.com/my-europe/2024/07/22/gunman-kills-at-least-four-people-at-nursing-home-in-central-croatia)
 
 * * *
 
-[![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")
+[![Lead Ventures looking to encourage start-ups in Central and Eastern Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lead Ventures looking to encourage start-ups in Central and Eastern Europe")
 
-![Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.](https://static.euronews.com/articles/stories/08/52/54/32/368x207_cmsv2_87cd62be-c82d-5c4d-abe4-c4713909a4c7-8525432.jpg "Firefighters carry a body at the site of a fire at a lithium battery manufacturing factory in Hwaseong, South Korea.")](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
+![Lead Ventures looking to encourage start-ups in Central and Eastern Europe](https://static.euronews.com/articles/stories/08/59/35/54/368x207_cmsv2_8a2e26d0-4f74-58fb-b1a3-71430c76178a-8593554.jpg "Lead Ventures looking to encourage start-ups in Central and Eastern Europe")](https://www.euronews.com/business/2024/07/22/hungarys-lead-ventures-on-the-lookout-for-more-chances-for-start-ups)
 
 Now playing Next
 
-[South Korea](https://www.euronews.com/news/asia/south-korea)
+[Business](https://www.euronews.com/business/business)
 
-### [Fire at South Korean lithium battery factory claims at least 16 lives](https://www.euronews.com/2024/06/24/deadly-fire-at-south-korean-lithium-battery-factory-claims-16-lives)
+### [Hungary's Lead Ventures on the lookout for more chances for start-ups](https://www.euronews.com/business/2024/07/22/hungarys-lead-ventures-on-the-lookout-for-more-chances-for-start-ups)
+
+* * *
+
+[![Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ")
+
+![Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ](https://static.euronews.com/articles/stories/08/59/35/70/368x207_cmsv2_dceff0ee-5ab6-5600-8bae-a383eb615590-8593570.jpg "Palestinians mourn their relatives killed in the Israeli bombardment of the Gaza Strip in a hospital in Deir al-Balah, Sunday, July 21, 2024. ")](https://www.euronews.com/2024/07/22/israel-orders-humanitarian-zone-in-gaza-to-be-evacuated-for-a-military-operation)
+
+Now playing Next
+
+[Gaza](https://www.euronews.com/news/asia/gaza)
+
+### [Israel orders humanitarian zone to be evacuated to begin operations](https://www.euronews.com/2024/07/22/israel-orders-humanitarian-zone-in-gaza-to-be-evacuated-for-a-military-operation)
+
+* * *
+
+[![Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.")
+
+![Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.](https://static.euronews.com/articles/stories/08/55/70/54/368x207_cmsv2_360f2621-073a-5de9-aceb-426c5c219705-8557054.jpg "Demonstrators march shouting slogans against the Formula 1 Barcelona Fan Festival in downtown Barcelona, Spain, Wednesday, June 19, 2024.")](https://www.euronews.com/my-europe/2024/07/22/the-end-of-airbnb-in-barcelona-what-does-the-tourism-industry-have-to-say)
+
+Now playing Next
+
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+
+### [The end of Airbnb in Barcelona: what does the industry have to say?](https://www.euronews.com/my-europe/2024/07/22/the-end-of-airbnb-in-barcelona-what-does-the-tourism-industry-have-to-say)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -424,7 +441,7 @@ Programmes
 
 Featured
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
     ![](https://static.euronews.com/articles/programs/featured-programs/featured-radio-schuman.jpg)
     
@@ -456,7 +473,7 @@ Programmes
 
 Featured
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
     ![](https://static.euronews.com/articles/programs/featured-programs/featured-nocomment.jpg)
     
@@ -478,7 +495,7 @@ Categories
 
 Programmes
 
-* [Business Line](https://www.euronews.com/business/business-series/business-line)
+* [Business Planet](https://www.euronews.com/business/business-series/business-planet)
 * [Focus](https://www.euronews.com/business/business-series/focus)
 * [Global Japan](https://www.euronews.com/business/business-series/global-japan)
 * [My Wildest Prediction](https://www.euronews.com/business/business-series/my-wildest-prediction)
@@ -493,14 +510,14 @@ Programmes
 
 Featured
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
     ![](https://static.euronews.com/articles/programs/featured-programs/featured-my-wildest-prediction.jpg)
     
     My Wildest Prediction
     
     Dare to imagine the future with business and tech visionaries](https://www.euronews.com/business/business-series/my-wildest-prediction)
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
     ![](https://static.euronews.com/articles/programs/featured-programs/featured-the-big-question.jpg)
     
@@ -535,7 +552,7 @@ Programmes
 
 Featured
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
     ![](https://static.euronews.com/articles/programs/featured-programs/featured-euronews-tech-talks.jpg)
     
@@ -567,14 +584,14 @@ Programmes
 
 Featured
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
-    ![](https://static.euronews.com/articles/programs/featured-programs/featured-ocean.jpg)
+    ![](https://static.euronews.com/articles/programs/featured-programs/featured-water-matters.jpg)
     
-    Ocean
+    Water Matters
     
-    Ocean explores the themes of pollution and marine life, the blue economy, sustainable fishing, aquaculture, climate change, ocean energy and more. We also look at the policies and projects designed to protect our seas.](https://www.euronews.com/green/green-series/ocean)
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20114%2064'%3E%3C/svg%3E)
+    Europe's water is under increasing pressure. Pollution, droughts, floods are taking their toll on our drinking water, lakes, rivers and coastlines. Join us on a journey around Europe to see why protecting ecosystems matters, how our wastewater can be better managed, and to discover some of the best water solutions. Video reports, an animated explainer series and live debate – find out why Water Matters, from Euronews.](https://www.euronews.com/green/green-series/water-matters)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20112%2063'%3E%3C/svg%3E)
     
     ![](https://static.euronews.com/articles/programs/featured-programs/featured-climate-now.jpg)
     
@@ -654,7 +671,14 @@ More
 
 Special coverage
 
+* [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
+* [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
+* [Discover Türkiye](https://www.euronews.com/special/discover-turkiye)
+* [Discover Sharjah](https://www.euronews.com/special/discover-sharjah)
+* [Explore Azerbaijan](https://www.euronews.com/special/explore-azerbaijan)
 * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+* [Here we grow: Spain](https://www.euronews.com/special/here-we-grow)
+* [From Qatar](https://www.euronews.com/special/qatar-programmes)
 
 * * *
 
@@ -669,6 +693,16 @@ Partner content
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
+
+* * *
+
+Services
+
+* [Weather](https://www.euronews.com/weather)
+* [Job offers from Amply](https://joboffers.euronews.com/)
+* [Bulletin](https://www.euronews.com/bulletin)
+* [Messaging apps](https://www.euronews.com/messaging-apps)
+* [Widgets & Services](https://www.euronews.com/widgets)
 
 [Newsletter Newsletters](https://www.euronews.com/newsletters)
 
