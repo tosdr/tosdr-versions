@@ -354,6 +354,26 @@ For good and valuable consideration, the receipt and sufficiency of which is her
 
 [Archived ToS](https://www.dnsfilter.com/terms-of-service-archived)
 
+[![Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition](https://www.dnsfilter.com/hs-fs/hubfs/revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp?width=500&height=190&name=revvingupthefundnsfiltersindycarexperiencerecaptorontoedition1.webp)
+
+Posted on July 22, 2024 by Alina Gordilova
+
+ **
+
+Revving Up the Fun: DNSFilter's IndyCar Experience Recap — Toronto Edition
+
+**](https://www.dnsfilter.com/blog/indycar-race-recap-toronto)
+
+[![Lookalike Crowdstrike Domains Discovered by DNSFilter to Date](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp?width=500&height=190&name=newsroom_lookalikecrowdstrikedomainsdiscoveredbydnsfiltertodate1.webp)
+
+Posted on July 22, 2024 by Will Strafach
+
+ **
+
+Lookalike Crowdstrike Domains Discovered by DNSFilter to Date
+
+**](https://www.dnsfilter.com/blog/crowdstrike-lookalike-domains)
+
 [![Traversing the World of AI with Judy Security](https://www.dnsfilter.com/hs-fs/hubfs/blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp?width=500&height=190&name=blog_traversingtheworldofaiwithjudysecurity%281%291-1.webp)
 
 Posted on June 28, 2024 by Anvesha Tiwary
@@ -363,26 +383,6 @@ Posted on June 28, 2024 by Anvesha Tiwary
 Traversing the World of AI with Judy Security
 
 **](https://www.dnsfilter.com/blog/traversing-the-world-of-ai-with-judy-security)
-
-[![Exploring the Security of Free Public Wi-Fi with eero](https://www.dnsfilter.com/hs-fs/hubfs/blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp?width=500&height=190&name=blog_exploringthesecurityoffreepublicwi_fiwitheero1.webp)
-
-Posted on June 26, 2024 by Anvesha Tiwary
-
- **
-
-Exploring the Security of Free Public Wi-Fi with eero
-
-**](https://www.dnsfilter.com/blog/exploring-the-security-of-free-public-wi-fi-with-eero)
-
-[![Why Securing Public Wi-Fi is More Important Than Ever](https://www.dnsfilter.com/hs-fs/hubfs/blog_whysecuringpublicwi_fiismoreimportantthanever1.webp?width=500&height=190&name=blog_whysecuringpublicwi_fiismoreimportantthanever1.webp)
-
-Posted on June 17, 2024 by Anvesha Tiwary
-
- **
-
-Why Securing Public Wi-Fi is More Important Than Ever
-
-**](https://www.dnsfilter.com/blog/why-securing-public-wi-fi-is-more-important-than-ever)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
