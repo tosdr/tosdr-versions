@@ -26,6 +26,7 @@ Free Shipping On Orders Over $59 📦
     
     * [Blog](https://elsenutrition.com/blogs/news)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
@@ -69,6 +70,7 @@ Menu
     
     * [Blog](https://elsenutrition.com/blogs/news)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
@@ -101,6 +103,7 @@ Menu
     
     * [Blog](https://elsenutrition.com/blogs/news)
     * [Recipes](https://elsenutrition.com/blogs/else-recipes)
+    * [Video Hub](https://elsenutrition.com/pages/video)
     * [Resources](https://elsenutrition.com/a/resources/)
     * [FAQs](https://elsenutrition.com/apps/frequently-asked-questions)
     * [Pediatrician Approved](https://elsenutrition.com/pages/meet-our-experts)
