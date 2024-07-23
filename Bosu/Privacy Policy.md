@@ -63,6 +63,7 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
     * [Getting Started](https://www.bosu.com/pages/get-started)
 * [Company](https://www.bosu.com/)
     * [Our Story](https://www.bosu.com/pages/about-us)
+* [Deals](https://www.bosu.com/collections/deals)
 
 [Log in](https://www.bosu.com/account/login)
 
@@ -81,6 +82,7 @@ Subscribe Notice
 * Compare
 * Explore
 * Company
+* [Deals](https://www.bosu.com/collections/deals)
 
 Back
 
