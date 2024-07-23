@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [Unknown 9: Awakening Gameplay Walkthrough Highlights](https://en.bandainamcoent.eu/unknown-9/news/unknown-9-awakening-gameplay-walkthrough-highlights)
-* [ARMORED CORE VI FIRES OF RUBICON - Ranked Match Season Update Notice (July 2024)](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-ranked-match-season-update-notice-july-2024)
+* [Season Pass 4 and a new mode in beta test coming for Guilty Gear -Strive-](https://en.bandainamcoent.eu/guilty-gear/news/season-pass-4-and-new-mode-beta-test-coming-guilty-gear-strive)
+* [The king of iron fist returns to TEKKEN 8 in first-ever free story expansion for the series announced at EVO](https://en.bandainamcoent.eu/tekken/news/the-king-of-iron-fist-returns-tekken-8-first-ever-free-story-expansion-the-series)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
