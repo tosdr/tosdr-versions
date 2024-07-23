@@ -18,12 +18,13 @@ Trees
 
 Loading
 
-* [Family History Learning Hub](https://www.ancestry.com/c/family-history-learning-hub)
 * [My Trees](https://www.ancestry.com/family-tree/tree)
-* [Family Trees Support](https://support.ancestry.com/s/family-trees)
+* [First Name Meanings](https://www.ancestry.com/first-name-meaning)
 * [Surnames](https://www.ancestry.com/learn/facts)
 * [Individual Records Search](https://www.ancestry.com/genealogy/records)
+* [Family History Learning Hub](https://www.ancestry.com/c/family-history-learning-hub)
 * [Historical Insights](https://www.ancestry.com/c/historical-insights)
+* [Family Trees Support](https://support.ancestry.com/s/family-trees)
 * [Start a New Tree](https://www.ancestry.com/begin/family-tree)
 * [Upload a GEDCOM](https://www.ancestry.com/family-tree/pt/uploadfile.aspx)
 
@@ -51,7 +52,7 @@ Loading
 * [AncestryDNA® Learning Hub](https://www.ancestry.com/c/dna-learning-hub)
 * [DNA & You](https://www.ancestry.com/c/discover/dna-you)
 * [Traits Learning Hub](https://www.ancestry.com/c/traits-learning-hub)
-* [Ancestry DNA Support](https://support.ancestry.com/s/ancestrydna)
+* [AncestryDNA® Support](https://support.ancestry.com/s/ancestrydna)
 
 Help
 
