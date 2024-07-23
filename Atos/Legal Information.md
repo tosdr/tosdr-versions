@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        18 July 2024
+        22 July 2024
         
-        Eviden supports the University of Reims Champagne-Ardenne (URCA) in its move towards quantum computing
-        ------------------------------------------------------------------------------------------------------
+        Atos successfully delivered key IT services and applications for UEFA EURO 2024™, to connect football fans globally
+        -------------------------------------------------------------------------------------------------------------------
         
     * [Blog](https://atos.net/en/atos-blog)˅
         
