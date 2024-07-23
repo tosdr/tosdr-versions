@@ -42,13 +42,13 @@ Main navigation
     
     [Search by Map](https://www.amtrakvacations.com/trip-planning/search-by-map) [View Top 10 Destinations](https://www.amtrakvacations.com/destinations/top-10-destinations) [View all Destinations](https://www.amtrakvacations.com/destinations)
     
-    [##### Limited-Time Offer, 15+ Nights
+    [##### Flash Sale 15+ Nights
     
-    Save $600](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
+    Flash Sale](https://www.amtrakvacations.com/limited-time-offer)
     
-    Upgrade your rail journey! Save $600 per couple on our vacations inclusive of 15 nights or more!
+    For a limited time only, save $600 on rail vacations inclusive of 15 nights or more!
     
-    [View Trips](https://www.amtrakvacations.com/trips?minDuration=16&maxDuration=40)
+    [View Details](https://www.amtrakvacations.com/limited-time-offer)
     
 * [Travel Styles](https://www.amtrakvacations.com/vacation-types?nav=)
     
@@ -137,13 +137,13 @@ Main navigation
     
     [Map Your Trip](https://www.amtrakvacations.com/trip-planning/search-by-map) [Travel Advisor Login](https://www.amtrakvacations.com/plan-your-amtrak-trip/travel-agent-login)
     
-    [##### Limited-Time Offer, 10+ Nights
+    [##### Flash Sale 10+ Nights
     
-    Save $500](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
+    Flash Sale](https://www.amtrakvacations.com/limited-time-offer)
     
-    Upgrade your rail journey! Save $500 per couple on our vacations inclusive of 10 nights or more!
+    For a limited time only, save $500 per couple on any of our rail vacations inclusive of 10 nights or more!
     
-    [View Trips](https://www.amtrakvacations.com/trips?minDuration=11&maxDuration=15)
+    [View Details](https://www.amtrakvacations.com/limited-time-offer)
     
 * [Deals View the latest deals, grab early booking discounts, and check out our everyday special offers.](https://www.amtrakvacations.com/deals?nav=)
 
@@ -255,12 +255,9 @@ Close
 
 [×](#)
 
-### All Aboard!
+### USA Rail Sale Happening Now!
 
-Travel in 2024 & Save up to $600
---------------------------------
-
-Sign up and view our latest deals and save on our most popular destinations and trips!
+Sign up, access this sale, and save on our most popular vacations!
 
 First Name 
 
@@ -269,6 +266,8 @@ Last Name
 Email 
 
  
+
+Leave this field blank 
 
 Privacy **Policy**
 ==================
