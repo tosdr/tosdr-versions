@@ -395,11 +395,11 @@ A human neural network trained on Anime subtitles was used to generate this arti
 
 ##### Latest
 
-1. [9 Best Go (Golang) Courses for 2024](https://www.classcentral.com/report/best-go-courses/)
-2. [70+ FutureLearn Courses with Free Certificates](https://www.classcentral.com/report/futurelearn-free-certificates/)
-3. [10 Best Free SQL Courses for 2024](https://www.classcentral.com/report/best-free-sql-courses/)
-4. [10 Best JavaScript Courses for 2024: Create Interactive Websites](https://www.classcentral.com/report/best-javascript-courses/)
-5. [6 Best TikTok Marketing Courses for 2024](https://www.classcentral.com/report/best-tiktok-marketing-courses/)
+1. [5 Best Free Raspberry Pi Courses for Beginners in 2024](https://www.classcentral.com/report/best-raspberry-pi-courses/)
+2. [Learn Something New: 75 Most Popular Courses For August](https://www.classcentral.com/report/most-popular-august-2024/)
+3. [30 Hours of MATLAB Courses with Free Certificate](https://www.classcentral.com/report/matlab-free-certificates/)
+4. [9 Best Go (Golang) Courses for 2024](https://www.classcentral.com/report/best-go-courses/)
+5. [70+ FutureLearn Courses with Free Certificates](https://www.classcentral.com/report/futurelearn-free-certificates/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -410,38 +410,38 @@ A human neural network trained on Anime subtitles was used to generate this arti
 Most common
 -----------
 
-1. java
+1. marketing
     
-2. machine learning
+2. c
     
-3. html
+3. web development
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    6,021 courses](https://www.classcentral.com/subject/ai)
-2. [Python
+    9,935 courses](https://www.classcentral.com/subject/web-development)
+2. [Software Development
+    
+    5,624 courses](https://www.classcentral.com/subject/software-development)
+3. [Python
     
     7,253 courses](https://www.classcentral.com/subject/python)
-3. [Entrepreneurship
-    
-    2,570 courses](https://www.classcentral.com/subject/entrepreneurship)
 
 Popular courses
 ---------------
 
-1. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+1. [Aprender
     
-    Stanford University](https://www.classcentral.com/course/algorithms-divide-conquer-374)
-2. [Medicine and the Arts: Humanising Healthcare
+    Universidad Nacional Autónoma de México](https://www.classcentral.com/course/aprendo-4631)
+2. [EU policy and implementation: making Europe work!
     
-    University of Cape Town](https://www.classcentral.com/course/medicine-and-the-arts-3015)
-3. [Bioseguridad y equipo de protección para la prevención de COVID-19
+    Leiden University](https://www.classcentral.com/course/eu-making-europe-work-7408)
+3. [Transforming Digital Learning: Learning Design Meets Service Design
     
-    Galileo University](https://www.classcentral.com/course/coronavirus-universidad-galileo-bioseguridad-y-eq-20375)
+    Deakin University](https://www.classcentral.com/course/digital-learning-12213)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
