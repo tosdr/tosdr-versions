@@ -213,7 +213,7 @@ For the purpose of these Terms, “person” means any legal entity, including a
 
 ### 9\. Communications services
 
-(a) carsales may provide you with the ability to communicate with carsales, sellers, third party advertisers and other users of the carsales Network through online forms, interactive voice response, electronic requests and enquiries, bulletin boards, blogs, competition entries, online forums, inbound phone number services and other forms of communication (“Communications Services”).
+(a) carsales may provide you with the ability to communicate with carsales, sellers, third party advertisers and other users of the carsales Network through online forms, interactive voice response, electronic requests and enquiries, bulletin boards, blogs, competition entries, online forums, inbound phone number services, messaging services and other forms of communication (“Communications Services”).
 
 (b) Unless stated otherwise, please assume that Communications Services are public and not private communications, and you agree to publication of your communications. carsales may collect, store or scan communications, however you should not rely on it doing so.
 
@@ -303,7 +303,7 @@ Email - complaints:
 
 [Complaints form](https://help.carsales.com.au/hc/en-gb/requests/new?ticket_form_id=26179)
 
-_Version 10 (1 July 2024)_
+_Version 11 (23 July 2024)_
 
 Contact
 
