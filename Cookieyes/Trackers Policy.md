@@ -34,9 +34,10 @@
     * [CPA Colorado](https://www.cookieyes.com/colorado-privacy-act-cpa/)
     * [CTDPA Connecticut](https://www.cookieyes.com/connecticut-data-privacy-act-ctdpa/)
     * [GDPR EU & UK](https://www.cookieyes.com/product/cookie-consent/)
-    * [LGPD Brazil](https://www.cookieyes.com/brazil-lgpd-compliance/)
-    
+    * [Google Consent Mode](https://www.cookieyes.com/google-consent-mode-certified-cmp/)
     * [IAB TCF v2.2](https://www.cookieyes.com/iab-tcf-compliance/)
+    
+    * [LGPD Brazil](https://www.cookieyes.com/brazil-lgpd-compliance/)
     * [PDPA Singapore](https://www.cookieyes.com/pdpa-singapore-compliance/)
     * [PDPA Thailand](https://www.cookieyes.com/pdpa-thailand-compliance/)
     * [PDPL Saudi Arabia](https://www.cookieyes.com/saudi-arabia-pdpl-compliance/)
@@ -156,7 +157,7 @@ Reach out to us and we’ll answer them.
 
 ![G2 Badges](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/g2-badges-large.svg) ![G2 Badges](https://www.cookieyes.com/wp-content/themes/cookieyes-new/assets/images/g2-badges-small.svg)
 
-### Start your compliance right away  
+### Subscribe to get a monthly  
 newsletter in your inbox
 
 ![loader](https://www.cookieyes.com/wp-includes/images/spinner.gif)
