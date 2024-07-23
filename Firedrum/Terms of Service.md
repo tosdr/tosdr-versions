@@ -255,6 +255,8 @@ More Solutions
 
 [FireDrum Email Marketing Reviews](https://sourceforge.net/software/product/FireDrum-Email-Marketing/)
 
+[![sourceforge-spmarketing](https://firedrumemailmarketing.com/wp-content/uploads/2016/08/sourceforge-spmarketing.png)](https://sourceforge.net/software/product/FireDrum-Email-Marketing/)
+
 * [Facebook](https://www.facebook.com/firedrumemailmarketing)
 * [X](https://twitter.com/FireDrum)
 * [Instagram](https://www.instagram.com/firedrumemailmarketing/)
