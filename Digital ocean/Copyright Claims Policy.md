@@ -237,7 +237,7 @@
 DMCA Copyright Policy
 =====================
 
-Last Updated on July 16, 2024
+Last Updated on March 8, 2023
 
 DigitalOcean, LLC (“Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act ([http://lcweb.loc.gov/copyright/legislation/dmca.pdf](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)) (“DMCA”). The abuse form to Receive Notification of Claimed Infringement (“Designated Agent”) is listed below.
 
