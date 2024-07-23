@@ -35,7 +35,7 @@ What can we help you with?
 * [한국어](https://www.beyondtrust.com/ko)
 * [português](https://www.beyondtrust.com/pt)
 
-* [Home](https://www.beyondtrust.com/) 
+* [BeyondTrust Identity and Access Security](https://www.beyondtrust.com/) 
 * [Privacy Center](https://www.beyondtrust.com/privacy-center) 
 * [Privacy Notice](https://www.beyondtrust.com/privacy-center/privacy-notice) 
 
