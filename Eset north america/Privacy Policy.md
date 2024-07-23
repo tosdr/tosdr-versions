@@ -199,11 +199,11 @@ San Diego, CA 92101
     
     ![](/fileadmin/ESET/INT/Boxes/155x185-Balanced/Gemini/boxes-EHSE-EHSP-EHSU.png)
     
-    ### HOME Security
+    ### [HOME Security](https://www.eset.com/us/brand-special-offer-2024/) 30% OFF
     
-    All-in-one protection of your digital life. Choose a plan according to your needs.
+    [All-in-one protection of your digital life. Choose a plan according to your needs.](https://www.eset.com/int/home/protection-plans/)
     
-    [Choose your plan](https://www.eset.com/us/home/protection-plans/)
+    [Choose your plan](https://www.eset.com/us/back-to-school-2024/)
     
     **Special solutions:**
     
@@ -639,7 +639,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/about/newsroom/corporate-blog/)
+[United States (EN)](https://www.eset.com/us/business/enterprise/)
 
 * * *
 
