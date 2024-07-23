@@ -1,26 +1,26 @@
-[![Digital Trends Media Logo](https://assets-global.website-files.com/5f93336bff93911443e348a2/5f933d2c3e883ef380862d59_Logo.svg)](https://www.dtmg.co/)
+[![Digital Trends Media Logo](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/5f933d2c3e883ef380862d59_Logo.svg)](https://www.dtmg.co/)
 
 [Home](https://www.dtmg.co/)
 
-![Right Arrow](https://assets-global.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
+![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
 
 [Our Brands](https://www.dtmg.co/our-brands)
 
-![Right Arrow](https://assets-global.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
+![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
 
 [Our Company](https://www.dtmg.co/our-company)
 
-![Right Arrow](https://assets-global.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
+![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
 
 [Work With Us](https://www.dtmg.co/work-with-us)
 
-![Right Arrow](https://assets-global.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
+![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
 
 [Diversity](https://www.dtmg.co/diversity-equity-inclusion)
 
-![Right Arrow](https://assets-global.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
+![Right Arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/6050f62f73c0bb4441301e64_Path%202092.svg)
 
-![Digital Trends Media Group Logo](https://assets-global.website-files.com/5f93336bff93911443e348a2/60525d4e62bd097372d89038_Rectangle%201423.svg)
+![Digital Trends Media Group Logo](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/60525d4e62bd097372d89038_Rectangle%201423.svg)
 
 [](#)
 
@@ -419,11 +419,11 @@ Work
 with us.
 ===============
 
-[![right arrow](https://assets-global.website-files.com/5f93336bff93911443e348a2/5f99b0d597b1df4eda43876e_large%20arrow%20icon.svg)](https://www.dtmg.co/work-with-us)
+[![right arrow](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/5f99b0d597b1df4eda43876e_large%20arrow%20icon.svg)](https://www.dtmg.co/work-with-us)
 
 Businesses and agencies of all sizes can now reach the world’s most sought-after audiences through Digital Trends Media Group’s portfolio of sites and network of partners.
 
-![The Revolution will be Humanized](https://assets-global.website-files.com/5f93336bff93911443e348a2/605264185f5a5538d02e1895_TRWBH%402x.png)
+![The Revolution will be Humanized](https://cdn.prod.website-files.com/5f93336bff93911443e348a2/605264185f5a5538d02e1895_TRWBH%402x.png)
 
 [Privacy Policy](https://www.dtmg.co/privacy-policy)[Do Not Sell My Info](https://privacyportal.onetrust.com/webform/02415369-d14e-4829-9531-e64920e85f34/f4bffa0b-c51b-4b13-b40f-2874e00a4ca5)[Manage Preferences](#)[Terms of Use](https://www.dtmg.co/terms-of-use)
 
