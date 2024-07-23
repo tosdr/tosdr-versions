@@ -179,34 +179,34 @@ F-Droid is powered by your donations!
 
 ### Last Updated
 
-[![](https://f-droid.org/repo/ua.syt0r.kanji.fdroid/en-US/icon_WOSc49VcLgMELOmUR06ULIlzfKwH2sOslgW-JZ7UgoI=.png)
+[![](https://f-droid.org/repo/org.openhab.habdroid/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
 
-#### Kanji Dojo
+#### openHAB
 
-Learn & practice writing Japanese characters](https://f-droid.org/en/packages/ua.syt0r.kanji.fdroid/)[![](https://f-droid.org/repo/threads.thor/en-US/icon_h529wR-N5X9khCqHqY3bSG-AQel7uSZNzBmL9YUQ0ws=.png)
+Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid/)[![](https://f-droid.org/repo/org.openhab.habdroid.beta/en-US/icon_MbJ4aGShNFnfKlhvFAVK16j1qoM_JBPo0xjNuwSsP_g=.png)
 
-#### Thor
+#### openHAB Beta
 
-Web browser which supports magnet and pns URLs](https://f-droid.org/en/packages/threads.thor/)[![](https://f-droid.org/repo/threads.server/en-US/icon_sWorSWpbmIWO9Qq4aLDTz0sOcqs-we772prGunW4-DM=.png)
+Vendor and technology agnostic open source home automation](https://f-droid.org/en/packages/org.openhab.habdroid.beta/)[![](https://f-droid.org/repo/io.github.saeeddev94.xray/en-US/icon_Puf76yrqSxZAtK6fywh-nez38YmehIzBcmrg9pxrLgs=.png)
 
-#### Odin
+#### Xray
 
-IPFS Lite node with modern UI to support standard use cases of IPFS](https://f-droid.org/en/packages/threads.server/)
+Xray GUI Client For Android](https://f-droid.org/en/packages/io.github.saeeddev94.xray/)
 
-### Neuvorstellungen
+### Latest Apps
 
-[![](https://f-droid.org/repo/ac.mdiq.podcini.R/en-US/icon_O12aJDb4GhueOvrF174ocFnxMJHR8fItA0PRVR4ngVE=.png)
+[![](https://f-droid.org/repo/com.sjapps.jsonlist/en-US/icon_gotPN7waIhNhcNNl77icMEW7uLSOQUgLQ5AXRyRiXEE=.png)
 
-#### Podcini
+#### Json List
 
-Einfach zu benutzender und anpassbarer Open-Source Podcast-Manager](https://f-droid.org/en/packages/ac.mdiq.podcini.R/)[![](https://f-droid.org/repo/org.sbv.pockettracker/en-US/icon_XYqZ3C0KEzJ1La7ydXCCZrTdZl9HmgMbnHFk2uDOacg=.png)
+previewing JSON files in a user-friendly list format](https://f-droid.org/en/packages/com.sjapps.jsonlist/)[![](https://f-droid.org/repo/org.owntracks.android/en-US/icon_F6aZox7GzPIJW2kz8SJIFWk4c6-9qog5gD_JcN9NH3U=.png)
 
-#### PocketTRacker
+#### OwnTracks
 
-Eine App die verlässlich deine Pool 14/1e Spielstände erfasst](https://f-droid.org/en/packages/org.sbv.pockettracker/)[![](https://f-droid.org/repo/net.casimirlab.frigoligo/en-US/icon_DEQmJEA6LavFrqcTizXRZUTmzGSsijpQ_EZey1v7E_w=.png)
+Your location companion](https://f-droid.org/en/packages/org.owntracks.android/)[![](https://f-droid.org/repo/github.umer0586.sensorserver/en-US/icon_vp3mPlLVlv9KAjMsviuXXx_TkNOOxa5DWTBIZQFjZHg=.png)
 
-#### Frigoligo
+#### Sensor Server
 
-Ihre Artikel bei Ihnen](https://f-droid.org/en/packages/net.casimirlab.frigoligo/)
+Stream phone's sensors to websocket clients](https://f-droid.org/en/packages/github.umer0586.sensorserver/)
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-07-20, fdroid-website [2.243](https://gitlab.com/fdroid/fdroid-website/tree/2099c1006e)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-07-22, fdroid-website [2.243](https://gitlab.com/fdroid/fdroid-website/tree/2099c1006e)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
