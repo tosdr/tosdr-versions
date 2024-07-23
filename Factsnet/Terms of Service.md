@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![20 Facts About Nathan Cleary ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/20-facts-about-nathan-cleary/)
+[![15 Facts About Aspirin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/15-facts-about-aspirin/)
 
-Sports
+Health Science
 
-16 Jul 2024
+23 Jul 2024
 
-[20 Facts About Nathan Cleary](https://facts.net/lifestyle/sports/20-facts-about-nathan-cleary/)
+[15 Facts About Aspirin](https://facts.net/fitness-and-wellbeing/health-science/15-facts-about-aspirin/)
 
-[![14 Facts About Painted Dog ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/14-facts-about-painted-dog/)
+[![13 Facts About Italy Government ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/13-facts-about-italy-government/)
 
-Animals
+Society & Social Sciences
 
-16 Jul 2024
+23 Jul 2024
 
-[14 Facts About Painted Dog](https://facts.net/nature/animals/14-facts-about-painted-dog/)
+[13 Facts About Italy Government](https://facts.net/society-and-social-sciences/13-facts-about-italy-government/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
