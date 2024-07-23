@@ -275,6 +275,7 @@ Have questions or concerns about Dropbox, our Services, and privacy? Contact our
 * [Security](https://www.dropbox.com/features/security)
 * [Early access](https://www.dropbox.com/early-access)
 * [Templates](https://www.dropbox.com/templates)
+* [Free tools](https://www.dropbox.com/tools)
 
 ### Products
 
