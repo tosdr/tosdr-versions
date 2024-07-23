@@ -94,9 +94,7 @@ To
 * [##### Youth concession fares are changing 29 July. Top up your Bee Card, tag on and tag off the bus, don't get caught short!
     
     Mon 29 Jul 06:00 am - Mon 01 Jan 12:00 am](https://www.baybus.co.nz/latest-updates/service-updates/youth-concession-fares-are-changing-29-july-top-up-your-bee-card-tag-on-and-tag-off-the-bus-dont-get-caught-short/)
-* [##### Permanent Bus Stop Closure for Routes 2, 20, 21: Girven Rd - Baywave
-    
-    Mon 22 Jul 06:00 am - Mon 01 Jan 12:00 am](https://www.baybus.co.nz/latest-updates/service-updates/permanent-bus-stop-closure-for-routes-2-20-21-girven-rd-baywave/)
+* [##### Permanent Bus Stop Closure for Routes 2, 20, 21: Girven Rd - Baywave](https://www.baybus.co.nz/latest-updates/service-updates/permanent-bus-stop-closure-for-routes-2-20-21-girven-rd-baywave/)
 * [##### Detour, Bus Stop Closures Route 21 - Closure of Maranui Street & Oceanbeach Road
     
     Now until Mon 30 Sept 06:00 am](https://www.baybus.co.nz/latest-updates/service-updates/detour-bus-stop-closures-route-21-closure-of-maranui-street-oceanbeach-road/)
