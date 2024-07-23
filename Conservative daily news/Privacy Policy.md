@@ -1,15 +1,15 @@
-Saturday, July 20 2024
+Tuesday, July 23 2024
 
 Breaking News
 
-* [Democrats Should Cancell Biden – And the Convention](https://www.conservativedailynews.com/2024/07/democrats-should-cancell-biden-and-the-convention/)
-* [New York On Track To Miss Deadlines On Majority Of Its Lofty Climate Goals](https://www.conservativedailynews.com/2024/07/new-york-on-track-to-miss-deadlines-on-majority-of-its-lofty-climate-goals/)
-* [The Democrat Party’s Wilful Slide toward Tyranny](https://www.conservativedailynews.com/2024/07/the-democrat-partys-wilful-slide-toward-tyranny/)
-* [A Personal Note About This Author’s Journey](https://www.conservativedailynews.com/2024/07/a-personal-note-about-this-authors-journey/)
-* [Trump Rally Gunman Reportedly Flew Drone Over Site Of Event Hours Before Shooting](https://www.conservativedailynews.com/2024/07/trump-rally-gunman-reportedly-flew-drone-over-site-of-event-hours-before-shooting/)
-* [There’s A Way To Stop Noncitizens From Voting And Dems Are Fighting It](https://www.conservativedailynews.com/2024/07/theres-a-way-to-stop-noncitizens-from-voting-and-dems-are-fighting-it/)
-* [Biden Admin Inks $12.6 Billion Deal With Blue State For Massive New Green Energy Hub](https://www.conservativedailynews.com/2024/07/biden-admin-inks-12-6-billion-deal-with-blue-state-for-massive-new-green-energy-hub/)
-* [See Ya’: Bureaucrats Worry Behind Closed Doors They’ll Be Sent Packing Under Trump](https://www.conservativedailynews.com/2024/07/see-ya-bureaucrats-worry-behind-closed-doors-theyll-be-sent-packing-under-trump/)
+* [A Great Convention — With One Big Mistake](https://www.conservativedailynews.com/2024/07/a-great-convention-with-one-big-mistake/)
+* [California Is Awash In Misleading Data — And The Consequences Have Been Devastating](https://www.conservativedailynews.com/2024/07/california-is-awash-in-misleading-data-and-the-consequences-have-been-devastating/)
+* [Elon Musk Opens Up About Eldest Son Coming Out As Trans](https://www.conservativedailynews.com/2024/07/elon-musk-opens-up-about-eldest-son-coming-out-as-trans/)
+* [If You Thought Things Were Bad Under Biden, Just Wait](https://www.conservativedailynews.com/2024/07/if-you-thought-things-were-bad-under-biden-just-wait/)
+* [MSNBC Legal Analyst Urges Media To Attack Trump And Take It Easy On Harris](https://www.conservativedailynews.com/2024/07/msnbc-legal-analyst-urges-media-to-attack-trump-and-take-it-easy-on-harris/)
+* [Biden Pentagon To Give Troops ‘Economic Hardship’ Bonus Of Only $20 Per Month](https://www.conservativedailynews.com/2024/07/biden-pentagon-to-give-troops-economic-hardship-bonus-of-only-20-per-month/)
+* [The “Best Biden ever” Forced Out Because He has Cognitive Dementia](https://www.conservativedailynews.com/2024/07/the-best-biden-ever-forced-out-because-he-has-cognitive-dementia/)
+* [President Joe Biden’s Schedule for Monday, July 22, 2024](https://www.conservativedailynews.com/2024/07/president-joe-bidens-schedule-for-monday-july-22-2024/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -28,7 +28,7 @@ Breaking News
 * [Home](https://www.conservativedailynews.com/)
 * [2024 Election](https://www.conservativedailynews.com/the-2024-presidential-election/)
     * [Donald Trump](https://www.conservativedailynews.com/tag/donald-trump/)
-    * [Joe Biden](https://www.conservativedailynews.com/tag/joe-biden/)
+    * [Kamala Harris](https://www.conservativedailynews.com/tag/kamala-harris/)
 * [Sections](https://conservativedailynews.com/)
     * [News and Politics](https://www.conservativedailynews.com/category/trending-topics/breaking-news/ "Breaking News")
     * [Editorial Cartoons](https://www.conservativedailynews.com/category/trending-topics/political-cartoons/ "The Best Political Cartoons")
@@ -105,82 +105,82 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 * [Twitter](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/07/trump-youre-fired-600-x-300.jpg)](https://www.conservativedailynews.com/2024/07/see-ya-bureaucrats-worry-behind-closed-doors-theyll-be-sent-packing-under-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/Kamala-Harris-cover-up-of-Biden-mental-decline-ad-220x150.jpg)](https://www.conservativedailynews.com/2024/07/the-best-biden-ever-forced-out-because-he-has-cognitive-dementia/)
     
-    [See Ya’: Bureaucrats Worry Behind Closed Doors They’ll Be Sent Packing Under Trump](https://www.conservativedailynews.com/2024/07/see-ya-bureaucrats-worry-behind-closed-doors-theyll-be-sent-packing-under-trump/)
+    [The “Best Biden ever” Forced Out Because He has Cognitive Dementia](https://www.conservativedailynews.com/2024/07/the-best-biden-ever-forced-out-because-he-has-cognitive-dementia/)
     
-    July 20, 2024
+    July 22, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/)
+* [![Joe Biden Kamala Harris](https://www.conservativedailynews.com/wp-content/uploads/2023/09/mrz090823dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/biden-drops-out-kamala-gets-top-billing-prepare-for-unity/)
     
-    [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/)
+    [Biden Drops Out, Kamala Gets Top Billing – Prepare for Unity?](https://www.conservativedailynews.com/2024/07/biden-drops-out-kamala-gets-top-billing-prepare-for-unity/)
     
-    July 18, 2024
+    July 21, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5242-220x150.jpeg)](https://www.conservativedailynews.com/2024/07/democrats-should-cancell-biden-and-the-convention/)
+* [![2024 Election Democrats saving democracy](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg072324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/saviors-of-democracy/)
     
-    [Democrats Should Cancell Biden – And the Convention](https://www.conservativedailynews.com/2024/07/democrats-should-cancell-biden-and-the-convention/)
+    [Saviors of Democracy…](https://www.conservativedailynews.com/2024/07/saviors-of-democracy/)
     
-    July 20, 2024
+    July 23, 2024
     
-* [![Joe Biden wind energy renewable green](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-60-220x150.png)](https://www.conservativedailynews.com/2024/07/new-york-on-track-to-miss-deadlines-on-majority-of-its-lofty-climate-goals/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Opioids.jpg)](https://www.conservativedailynews.com/2024/07/a-quick-easy-legit-way-to-cut-prescription-drug-costs/)
     
-    [New York On Track To Miss Deadlines On Majority Of Its Lofty Climate Goals](https://www.conservativedailynews.com/2024/07/new-york-on-track-to-miss-deadlines-on-majority-of-its-lofty-climate-goals/)
+    [A Quick, Easy, Legit Way to Cut Prescription Drug Costs](https://www.conservativedailynews.com/2024/07/a-quick-easy-legit-way-to-cut-prescription-drug-costs/)
     
-    July 20, 2024
+    July 23, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/New-York-Slimes-Times-220x150.png)](https://www.conservativedailynews.com/2024/07/the-new-york-times-doesnt-understand-maganomics/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/07/a-great-convention-with-one-big-mistake/)
     
-    [The New York Times Doesn’t Understand Maganomics](https://www.conservativedailynews.com/2024/07/the-new-york-times-doesnt-understand-maganomics/)
+    [A Great Convention — With One Big Mistake](https://www.conservativedailynews.com/2024/07/a-great-convention-with-one-big-mistake/)
     
-    July 20, 2024
+    July 23, 2024
     
-* [![Joe Biden lawfare democrats](https://www.conservativedailynews.com/wp-content/uploads/2024/04/stg042424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/the-democrat-partys-wilful-slide-toward-tyranny/)
+* [![Election 2024 Joe Biden drops out Democrats](https://www.conservativedailynews.com/wp-content/uploads/2024/07/mrz072324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/frozen/)
     
-    [The Democrat Party’s Wilful Slide toward Tyranny](https://www.conservativedailynews.com/2024/07/the-democrat-partys-wilful-slide-toward-tyranny/)
+    [Frozen](https://www.conservativedailynews.com/2024/07/frozen/)
     
-    July 20, 2024
+    July 23, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/07/IMG_5235-220x150.jpeg)](https://www.conservativedailynews.com/2024/07/a-personal-note-about-this-authors-journey/)
+* [![California bear leaving](https://www.conservativedailynews.com/wp-content/uploads/2024/01/mrz010624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/california-is-awash-in-misleading-data-and-the-consequences-have-been-devastating/)
     
-    [A Personal Note About This Author’s Journey](https://www.conservativedailynews.com/2024/07/a-personal-note-about-this-authors-journey/)
+    [California Is Awash In Misleading Data — And The Consequences Have Been Devastating](https://www.conservativedailynews.com/2024/07/california-is-awash-in-misleading-data-and-the-consequences-have-been-devastating/)
     
-    July 20, 2024
+    July 23, 2024
     
-* [![Kimberly Cheatle Secret Service Thomas Crooks Trump assassination](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg071824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/trump-rally-gunman-reportedly-flew-drone-over-site-of-event-hours-before-shooting/)
+* [![Elon Musk](https://www.conservativedailynews.com/wp-content/uploads/2022/01/1280px-Elon_Musk_at_a_Press_Conference-220x150.jpg)](https://www.conservativedailynews.com/2024/07/elon-musk-opens-up-about-eldest-son-coming-out-as-trans/)
     
-    [Trump Rally Gunman Reportedly Flew Drone Over Site Of Event Hours Before Shooting](https://www.conservativedailynews.com/2024/07/trump-rally-gunman-reportedly-flew-drone-over-site-of-event-hours-before-shooting/)
+    [Elon Musk Opens Up About Eldest Son Coming Out As Trans](https://www.conservativedailynews.com/2024/07/elon-musk-opens-up-about-eldest-son-coming-out-as-trans/)
     
-    July 20, 2024
+    July 22, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/02/Illegal-aliens-i-want-you-out-of-my-country.jpg)](https://www.conservativedailynews.com/2024/07/theres-a-way-to-stop-noncitizens-from-voting-and-dems-are-fighting-it/)
+* [![Kamala Harris blunder woman gaffes](https://www.conservativedailynews.com/wp-content/uploads/2023/05/stg050923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/07/if-you-thought-things-were-bad-under-biden-just-wait/)
     
-    [There’s A Way To Stop Noncitizens From Voting And Dems Are Fighting It](https://www.conservativedailynews.com/2024/07/theres-a-way-to-stop-noncitizens-from-voting-and-dems-are-fighting-it/)
+    [If You Thought Things Were Bad Under Biden, Just Wait](https://www.conservativedailynews.com/2024/07/if-you-thought-things-were-bad-under-biden-just-wait/)
     
-    July 20, 2024
+    July 22, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/06/69857-the-simpsons-homer-simpson-raining-money-300x169-1.jpg)](https://www.conservativedailynews.com/2024/07/biden-admin-inks-12-6-billion-deal-with-blue-state-for-massive-new-green-energy-hub/)
+* [![Joe Biden Kamala Harris 2024 election bailing out](https://www.conservativedailynews.com/wp-content/uploads/2024/07/gv072224dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/07/msnbc-legal-analyst-urges-media-to-attack-trump-and-take-it-easy-on-harris/)
     
-    [Biden Admin Inks $12.6 Billion Deal With Blue State For Massive New Green Energy Hub](https://www.conservativedailynews.com/2024/07/biden-admin-inks-12-6-billion-deal-with-blue-state-for-massive-new-green-energy-hub/)
+    [MSNBC Legal Analyst Urges Media To Attack Trump And Take It Easy On Harris](https://www.conservativedailynews.com/2024/07/msnbc-legal-analyst-urges-media-to-attack-trump-and-take-it-easy-on-harris/)
     
-    July 20, 2024
+    July 22, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Match Ammo Bargain: 4140 Armory 5.56 mm NATO 75-Grain Hornady Match](https://www.thegunpage.com/match-ammo-bargain-4140-armory-5-56-mm-nato-75-grain-hornady-match/10609357)
+* [POTD: U.S. Marines With The FAMAS In Action](https://www.thegunpage.com/potd-u-s-marines-with-the-famas-in-action/10609355)
+* [The Rimfire Report: Plain Ole CCI Standard Velocity 40 Grain](https://www.thegunpage.com/the-rimfire-report-plain-ole-cci-standard-velocity-40-grain/10609356)
+* [Opening Ceremony Kicks Off 2024 NRA National Matches At Camp Atterbury](https://www.thegunpage.com/opening-ceremony-kicks-off-2024-nra-national-matches-at-camp-atterbury/10609354)
+* [National Rifle Association Files Lawsuit Challenging ATF’s “Engaged in the Business” Final Rule](https://www.thegunpage.com/national-rifle-association-files-lawsuit-challenging-atfs-engaged-in-the-business-final-rule/10609351)
+* [TFB Weekly Web Deals 98: Deals for July 22nd, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-98-deals-for-july-22nd-2024/10609349) 
+* [A Competitor’s Story: Sam Adkins](https://www.thegunpage.com/a-competitors-story-sam-adkins/10609348)
+* [U.S. Shotgun Team Captures Four Medals At ISSF Porpetto Junior World Cup](https://www.thegunpage.com/u-s-shotgun-team-captures-four-medals-at-issf-porpetto-junior-world-cup/10609345)
+* [SILENCER SATURDAY #338: Range Time With The HUXWRX FLOW 556 TI](https://www.thegunpage.com/silencer-saturday-338-range-time-with-the-huxwrx-flow-556-ti/10609334)
 * [POTD: The LMT M203 in Danish International Sniper Competition](https://www.thegunpage.com/potd-the-lmt-m203-in-danish-international-sniper-competition/10609327)
-* [TFB Podcast Roundup 138: The July 19th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-138-the-july-19th-roundup/10609326)
-* [The S&W Bodyguard 2.0 Is Smaller Than You Think](https://www.thegunpage.com/the-sw-bodyguard-2-0-is-smaller-than-you-think/10609324)
-* [Mesa Tactical Adds Benelli M2 And M4 RMR Co-witness Mounts](https://www.thegunpage.com/mesa-tactical-adds-benelli-m2-and-m4-rmr-co-witness-mounts/10609322)
-* [F.A.B. Defense Introduces The Gradus-X Ergonomic Grip](https://www.thegunpage.com/f-a-b-defense-introduces-the-gradus-x-ergonomic-grip/10609323)
-* [Biden’s hometown AG cares less about the constitution than he does](https://www.thegunpage.com/bidens-hometown-ag-cares-less-about-the-constitution-than-he-does/10609316)
-* [Seven Popular Firearm Brands For USPSA Production Division](https://www.thegunpage.com/seven-popular-firearm-brands-for-uspsa-production-division/10609321)
-* [TFB Review: Simtek StealthALERT System](https://www.thegunpage.com/tfb-review-simtek-stealthalert-system/10609313)
-* [POTD: U.S. Marine With M27 Reconnaissance Weapons Kit](https://www.thegunpage.com/potd-u-s-marine-with-m27-reconnaissance-weapons-kit/10609314)
-* [Concealed Carry Corner: Carrying In Tricky Situations](https://www.thegunpage.com/concealed-carry-corner-carrying-in-tricky-situations/10609315)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -222,6 +222,8 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Biden is Officially a Lame Duck President](https://www.conservativedailynews.com/2024/07/biden-is-officially-a-lame-duck-president/#comment-777497)
+* KayCee on [See Ya’: Bureaucrats Worry Behind Closed Doors They’ll Be Sent Packing Under Trump](https://www.conservativedailynews.com/2024/07/see-ya-bureaucrats-worry-behind-closed-doors-theyll-be-sent-packing-under-trump/#comment-777426)
 * [clm](http://conservativedailynews.com/) on [Republicans Backing Away From Most Important Issue Of Our Day](https://www.conservativedailynews.com/2024/07/republicans-backing-away-from-most-important-issue-of-our-day/#comment-777357)
 * Stan on [Trump Rally Gunman Reportedly Flew Drone Over Site Of Event Hours Before Shooting](https://www.conservativedailynews.com/2024/07/trump-rally-gunman-reportedly-flew-drone-over-site-of-event-hours-before-shooting/#comment-777356)
 * KayCee on [Here’s To Missing You](https://www.conservativedailynews.com/2024/07/heres-to-missing-you/#comment-777331)
@@ -229,8 +231,6 @@ Recent Comments
 * [clm](http://conservativedailynews.com/) on [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/#comment-777284)
 * [clm](http://conservativedailynews.com/) on [It Really Isn’t About Biden vs. Trump](https://www.conservativedailynews.com/2024/07/it-really-isnt-about-biden-vs-trump/#comment-777283)
 * Jeff L. on [The Democrat “News”-media Storyline that Trump is a Liar](https://www.conservativedailynews.com/2024/07/the-democrat-news-media-storyline-that-trump-is-a-liar/#comment-777157)
-* Tommy Hall on [God Has Interfered In The Election](https://www.conservativedailynews.com/2024/07/god-has-interfered-in-the-election/#comment-777140)
-* KayCee on [Former Volunteer Fire Chief Identified By Family As Crowd Member Killed At Trump Rally](https://www.conservativedailynews.com/2024/07/former-volunteer-fire-chief-identified-by-family-as-crowd-member-killed-at-trump-rally/#comment-777116)
 
 ![sponsored](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
