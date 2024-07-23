@@ -132,13 +132,15 @@ Let our experts advise you on how you can use easyfeedback.
 
 **Data protection made in Germany** – GDPR | German Server | Certified
 
-[Login](https://app.easy-feedback.com/login?l=en)
+[Login](https://easy-feedback.de/easyfeedback-not-available/)
 
-[Create survey](https://app.easy-feedback.com/register?l=en)
+[Create survey](https://easy-feedback.de/easyfeedback-not-available/)
 
 [EN](https://easy-feedback.com/privacy/privacy-policy/)
 
 * [DE](https://easy-feedback.de/privacy/datenschutzerklaerung/)
+
+Some functions within easyfeedback are currently not available. We will inform you about the status via this [**page**](https://easy-feedback.de/systemstatus-en/). If you have any problems or questions, please feel free to contact us using our [**support form**](https://easy-feedback.de/contact/).
 
 Secure German data protection
 -----------------------------
