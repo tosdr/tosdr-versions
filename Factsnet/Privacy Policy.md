@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![15 Facts About Venus Mythology ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/15-facts-about-venus-mythology/)
+[![20 Facts About Valhalla Golf Club ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/20-facts-about-valhalla-golf-club/)
 
-General
+Sports
 
-19 Jul 2024
+22 Jul 2024
 
-[15 Facts About Venus Mythology](https://facts.net/general/15-facts-about-venus-mythology/)
+[20 Facts About Valhalla Golf Club](https://facts.net/lifestyle/sports/20-facts-about-valhalla-golf-club/)
 
-[![14 Facts About Sam E ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/14-facts-about-sam-e/)
+[![15 Facts About Port Adelaide Football Club ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/15-facts-about-port-adelaide-football-club/)
 
-Celebrity
+Sports
 
-19 Jul 2024
+22 Jul 2024
 
-[14 Facts About Sam E](https://facts.net/celebrity/14-facts-about-sam-e/)
+[15 Facts About Port Adelaide Football Club](https://facts.net/lifestyle/sports/15-facts-about-port-adelaide-football-club/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
