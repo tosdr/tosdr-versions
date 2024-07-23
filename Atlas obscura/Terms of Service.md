@@ -101,73 +101,7 @@ Making Scents: Experimental Perfumery With Saskia Wilson-Brown](https://www.atla
 
 The Truth About Sharks With Melissa Cristina Márquez](https://www.atlasobscura.com/experiences/sharks-course)
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![The Anderton Boat Lift](https://img.atlasobscura.com/IPMVSGwrArWDN7H4Ji4v5RVrVnqnYpqzx-O0wP5NesE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZDQ0/OWQ0ZC02ZTQ0LTQ0/MzYtOWU4Yy05OTIw/ODVkMzU4NTBmYmJj/ZDA5MzdlMTYyYjc4/OTlfYW5kZXJ0b25i/b2F0bGlmdDEuanBn.jpg)
-
-Anderton Boat Lift](https://www.atlasobscura.com/places/anderton-boat-lift)
-
-   [![](https://img.atlasobscura.com/1b69ElGo1wrg8cSrnxnMqseDoz4AICUSLEmP_kiT7nI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMmIy/N2JlNy1jZGMxLTQ4/YWEtYmQ2ZC05YjRj/OTY1NzM5MjFlNGI5/Y2ZmMTE5NjU2OTk5/MTRfMjAyNDA1MThf/MTQwOTU1LmpwZw.jpg)
-
-Defiled Baptismal Font](https://www.atlasobscura.com/places/defiled-baptismal-font-koge)
-
-   [![](https://img.atlasobscura.com/aLDy6XlzD1TchW6of_7bRMjHaQkv0GYefhCBtik46kU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hYTJj/YjFiMy0zNTYxLTQ3/MWEtOTZmMi04NjFj/YWY2MmE1NTQxY2Iz/ZDkwNDNmM2M0ODk0/MGJfSU1HXzQ2MTMu/SlBH.jpg)
-
-Bilger's Rocks](https://www.atlasobscura.com/places/bilgers-rocks-pennsylvania)
-
-   [![](https://img.atlasobscura.com/F_2AF92glIwIwPxIvTL0s1mI9Tc0_ETaj26e6YH7hjQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80Yzcz/ZWNmNS04NWZkLTQ2/YzItODRhZS0zNGEx/NGE3ZDU3YTcyNmZk/NTc2ZjViYWEyMzAz/N2NfMS5qcGc.jpg)
-
-Karla Caves](https://www.atlasobscura.com/places/karla-caves)
+Loading...
 
 Latest Places to Eat & Drink
 
@@ -201,6 +135,10 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![Octopuses investigate the skeleton of a whale at a whale fall site off the California coast.](https://img.atlasobscura.com/5AHtUbkg4_K6yTX7VYVHh2K3ggiuBkhvj614f4VYiNw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8yNWE1ZTlkYy1l/Y2YwLTQ5ZTYtOTY3/OS1kNDZiZDU4N2Jm/NDI5NGYyMDExYjg1/OWMzYTQzOGZfV2hh/bGVfRmFsbF9OT0FB/LmpwZw.jpg)
+
+There Are More Whale Falls Off Los Angeles Than the Rest of the World Combined](https://www.atlasobscura.com/articles/whale-falls-los-angeles)
+
    [![Camera traps have allowed scientists to study elusive animals, like the Andean cat.](https://img.atlasobscura.com/4IH-RtLcwcjkSZ3j-AA1ooFt8ExSGxHzFcqyQoFdw1A/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82ZjAxMWQ4ZGRi/YTFiOTE4MzZfMDEx/MTA0NjEuSlBH.jpg)
 
 How Camera Traps Capture Rare Wildlife Candids](https://www.atlasobscura.com/articles/wild-life-excerpt-camera-traps)
@@ -212,10 +150,6 @@ How Camera Traps Capture Rare Wildlife Candids](https://www.atlasobscura.com/art
    [![One of the Peabody's pampered ducks descends the red-carpeted stairs from the lobby fountain.](https://img.atlasobscura.com/5fiDGQTwOzEqo5oF2MMK1iaIpMlcLx58UT6zcUkVjbk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kNjNhYTk5YjI4/OWE3ZjVjN2ZfUGFt/cGVyZWRfUGVhYm9k/eV9kdWNrLmpwZw.jpg)
 
 What It Takes To Be This Luxury Memphis Hotel’s ‘Duckmaster’](https://www.atlasobscura.com/articles/peabody-ducks)
-
-   [![An Elvis impersonator officiates a wedding at Graceland Wedding Chapel in Las Vegas.](https://img.atlasobscura.com/GyJx7WK1DQy9c0Uil6VFluUhcj2TFTxWPKRbsViawVM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zNDQ5YWI1NmJj/NDQ1ZTBkNTRfRWx2/aXMgb2ZmaWNpYXRp/bmcgYXQgR3JhY2Vs/YW5kIFdlZGRpbmcg/Q2hhcGVsLmpwZw.jpg)
-
-How Elvis Became the King of Las Vegas Weddings](https://www.atlasobscura.com/articles/elvis-wedding-las-vegas)
 
 No search results found for  
 “”
