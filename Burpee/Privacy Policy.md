@@ -10,7 +10,7 @@ Ok
 
 [Skip to Content](#contentarea)
 
-**[20% off Select Gardening Supplies](https://www.burpee.com/gardening-supplies/summer-supplies-sale/ " 20% off Select Gardening Supplies ") (no code) -PLUS-  [30% off ALL Seeds](https://www.burpee.com/vegetables/direct-sow-vegetable-seeds/ "Direct Sow Seeds") with code SEEDSALE724 (exclusions apply)**
+**EXTENDED! [20% off Select Gardening Supplies](https://www.burpee.com/gardening-supplies/summer-supplies-sale/ " 20% off Select Gardening Supplies ") (no code) + [30% off ALL SEEDS](https://www.burpee.com/vegetables/direct-sow-vegetable-seeds/ "Direct Sow Veg") with code SEEDSALE724 (exclusions apply)**
 
 [Shipping Schedule](https://www.burpee.com/shipping-information/)
 
@@ -22,7 +22,7 @@ Sign in
 * [Sign In](https://www.burpee.com/customer/account/login/referer/aHR0cHM6Ly93d3cuYnVycGVlLmNvbS9wcml2YWN5LXBvbGljeQ~~/)
 * [Create an Account](https://www.burpee.com/customer/account/create/)
 
-[![Burpee](https://www.burpee.com/static/version1721198291/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
+[![Burpee](https://www.burpee.com/static/version1721631141/frontend/Burpee/default/en_US/images/logo.svg "Burpee")](https://www.burpee.com/ "Burpee")
 
 Close
 
