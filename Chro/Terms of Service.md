@@ -53,10 +53,10 @@ Proudly organised by:![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/20
 
 ### Events
 
-[Singapore](https://chroseries.com/country/singapore/)[Indonesia](https://chroseries.com/country/indonesia/)[Malaysia](https://chroseries.com/country/malaysia/)
+[Singapore](https://chroseries.com/country/singapore/)[Indonesia](https://chroseries.com/country/indonesia/)[Malaysia](https://chroseries.com/country/malaysia/)[Philippines](https://chroseries.com/country/philippines/)[Vietnam](https://chroseries.com/country/vietnam/)
 
 ### Resources
 
-[Exhibit/Sponsor](https://chroseries.com/become-sponsor/)[Become a Speaker](https://chroseries.com/apply-speaker/)[Privacy policy](https://chroseries.com/privacy-policy/)[Terms and conditions](https://chroseries.com/terms-and-conditions/)
+[Exhibit/Sponsor](https://chroseries.com/become-sponsor/)[Become a Speaker](https://chroseries.com/apply-speaker/)[Privacy Policy](https://chroseries.com/privacy-policy/)[Terms and Conditions](https://chroseries.com/terms-and-conditions/)
 
 Copyright © 2022 - 2024 | An event by HRM Asia - CHRO Series | All Rights Reserved.
