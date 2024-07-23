@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/la-punizione-delle-tre-generazioni/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/who-put-bella-wych-elm-cadavere-albero/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
@@ -69,7 +69,7 @@ Cookie Policy
 
                
 
-[🔓 Privacy Policy](https://www.bottegamistero.com/privacy-policy) [⚙ Impostazioni privacy](#) [🟢 Stato online](https://bottegamistero.betteruptime.com/)
+[Privacy Policy](https://www.iubenda.com/privacy-policy/420485 "Privacy Policy ") [Cookie Policy](https://www.iubenda.com/privacy-policy/420485/cookie-policy "Cookie Policy ") [Impostazioni privacy](#) [Termini e Condizioni](https://www.iubenda.com/termini-e-condizioni/420485 "Termini e Condizioni ") [Stato online](https://bottegamistero.betteruptime.com/)
 
 Copyright © 2014 - 2024 Bottega Mistero. All rights reserved.  
 Made with ❤ by [Armando "FL3R" Fiore](https://twitter.com/Armando_Fiore).
