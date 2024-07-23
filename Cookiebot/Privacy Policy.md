@@ -14,9 +14,9 @@ Regulations
 
 [DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-and-google-consent-mode/)
 
-Resellers
+Partners
 
-[Become a Reseller](https://www.cookiebot.com/en/resellers/) [Reseller Certification](https://www.cookiebot.com/en/partner-certification/) [Find a Reseller](https://www.cookiebot.com/en/cookiebot-reseller/)
+[Become an Affiliate](https://www.cookiebot.com/en/affiliate-program/) [Become a Reseller](https://www.cookiebot.com/en/resellers/) [Reseller Certification](https://www.cookiebot.com/en/partner-certification/) [Find a Reseller](https://www.cookiebot.com/en/cookiebot-reseller/)
 
 Resources
 
