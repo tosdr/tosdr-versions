@@ -280,6 +280,6 @@ Getting started is fast, free, and easy. [Improve your file upload performance t
 * [Java](https://www.filestack.com/sdks/java/)
 * [PHP](https://www.filestack.com/sdks/php/)
 
-© 2020 Filestack. All rights reserved.
+© 2024 Filestack. All rights reserved.
 
 [![facebook](/img/fb.png)](https://www.facebook.com/filepickerio/) [![linkedin](/img/linkedin.png)](https://www.linkedin.com/company/filestack) [![twitter](/img/twitter.png)](https://twitter.com/filestack)
