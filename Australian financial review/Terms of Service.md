@@ -319,57 +319,57 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.8189%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_144%2C$y_332/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6bf3e0afa485f3bc5aea01abf0dfcfb0b8be4951)](https://www.afr.com/life-and-luxury/arts-and-culture/this-perth-artist-is-about-to-be-showcased-at-design-miami-20240705-p5jraf)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c162e14b2b5e48bee6e3e3b59855496019634404)](https://www.afr.com/life-and-luxury/food-and-wine/what-michael-kirby-makes-of-the-law-school-building-named-in-his-honour-20240619-p5jn72)
 
-### [This Perth artist is about to be showcased at Design Miami](https://www.afr.com/life-and-luxury/arts-and-culture/this-perth-artist-is-about-to-be-showcased-at-design-miami-20240705-p5jraf)
+### [What Michael Kirby makes of the law school building named in his honour](https://www.afr.com/life-and-luxury/food-and-wine/what-michael-kirby-makes-of-the-law-school-building-named-in-his-honour-20240619-p5jn72)
 
-* Michael Bleby
+* Stephen Todd
 
-* ### [The Sydney-born solution to NYC’s paragon of inefficiency](https://www.afr.com/life-and-luxury/design/the-sydney-born-solution-that-could-revolutionise-inefficient-buildings-20240702-p5jqea)
+* ### [A new wave of Chinese watchmakers is taking on the Swiss giants](https://www.afr.com/life-and-luxury/fashion-and-style/a-new-wave-of-chinese-watchmakers-is-taking-on-the-swiss-giants-20240618-p5jmvq)
     
-* ### [The luxury watches that insiders were talking about in Geneva](https://www.afr.com/life-and-luxury/fashion-and-style/the-watches-everyone-was-watching-at-the-geneva-fair-20240614-p5jlxa)
+* ### [This managing director caught a 300kg marlin – and threw it back](https://www.afr.com/wealth/people/this-managing-director-caught-a-300kg-marlin-and-threw-it-back-20240703-p5jqvj)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Sam Hupert of Pro Medicus says a lack of debt has been an important part of the company’s success.](https://static.ffx.io/images/$zoom_0.7527%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_705%2C$y_92/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/55eaa3c00bd74ec0b3ea1f447c96fe888c8172a2)](https://www.afr.com/work-and-careers/leaders/the-secrets-to-becoming-a-rich-boss-20240710-p5jsja)
+[![Kiria McNamara says one of the hardest things about her job is having to make people redundant. ](https://static.ffx.io/images/$zoom_0.3167%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_764%2C$y_177/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1b9b1c9d508f2ec8ed1e58ed5f27aa90e2bf0549)](https://www.afr.com/work-and-careers/leaders/my-sixth-form-teacher-told-me-to-lower-my-sights-20240711-p5jsxw)
 
-### [The secrets to becoming a rich boss](https://www.afr.com/work-and-careers/leaders/the-secrets-to-becoming-a-rich-boss-20240710-p5jsja)
+### [My sixth form teacher told me to lower my sights](https://www.afr.com/work-and-careers/leaders/my-sixth-form-teacher-told-me-to-lower-my-sights-20240711-p5jsxw)
 
-* Patrick Durkin and Sally Patten
+* Sally Patten
 
-* ### [Nation’s richest boss ‘can’t find anything to invest in’ but WiseTech](https://www.afr.com/work-and-careers/leaders/wisetech-ceo-rules-as-rich-bosses-rebound-from-tech-wreck-20240701-p5jq34)
+* ### [The secrets to becoming a rich boss](https://www.afr.com/work-and-careers/leaders/the-secrets-to-becoming-a-rich-boss-20240710-p5jsja)
     
-* ### [Why only four execs have kept spot on rich bosses list over decade](https://www.afr.com/work-and-careers/leaders/the-four-execs-who-have-been-on-the-rich-bosses-list-for-a-decade-20240709-p5jsbf)
+* ### [Nation’s richest boss ‘can’t find anything to invest in’ but WiseTech](https://www.afr.com/work-and-careers/leaders/wisetech-ceo-rules-as-rich-bosses-rebound-from-tech-wreck-20240701-p5jq34)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Evenings in Dubrovnik’s old town. ](https://static.ffx.io/images/$zoom_0.2151%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dc92fc8a51f29a40ffb0dfa7529a83f3d1a33d58)](https://www.afr.com/life-and-luxury/travel/don-t-seize-the-day-in-europe-seize-the-night-20240717-p5jukv)
+[![Sarah Wilson.](https://static.ffx.io/images/$zoom_0.1935%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_6/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9c9479ba0f27d6d5d0aa1773757b558ccb71a71e)](https://www.afr.com/life-and-luxury/travel/paris-is-the-perfect-place-for-older-women-20240702-p5jqb3)
 
-### [Don’t seize the day in Europe. Seize the night](https://www.afr.com/life-and-luxury/travel/don-t-seize-the-day-in-europe-seize-the-night-20240717-p5jukv)
+### [‘Paris is the perfect place for older women’](https://www.afr.com/life-and-luxury/travel/paris-is-the-perfect-place-for-older-women-20240702-p5jqb3)
 
-* Natalie B. Compton and Andrea Sachs
+* Hans van Leeuwen
 
-* ### [The six best wines from this year’s Penfolds collection](https://www.afr.com/life-and-luxury/food-and-wine/the-six-best-wines-from-this-year-s-penfolds-collection-20240710-p5jsj6)
+* ### [How to nail the 30-plants-a-week meal challenge](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-nail-the-30-plants-a-week-meal-challenge-20240716-p5ju7r)
     
-* ### [The secret to French beauty? It’s simple, and powerful](https://www.afr.com/life-and-luxury/fashion-and-style/the-secret-to-french-beauty-it-s-simple-and-powerful-20240620-p5jnej)
+* ### [Gen Z tells me I’m wearing my socks wrong. Am I?](https://www.afr.com/life-and-luxury/fashion-and-style/gen-z-tells-me-i-m-wearing-my-socks-wrong-am-i-20240716-p5ju4m)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f4aaa1124b58e3c26d778dc072de1a424b4c89e0)](https://www.afr.com/wealth/people/how-exquisite-timing-and-meditating-shaped-this-rich-lister-s-fortune-20240711-p5jt04)
+[![The Captain Cook Hotel has changed hands again for $6.6m.](https://static.ffx.io/images/$zoom_0.1794%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/73951815f810f873c00b74b09f7c18abc40a29db)](https://www.afr.com/property/commercial/historic-pub-to-close-after-new-owner-takes-pokies-sells-building-20240722-p5jvii)
 
-### [How exquisite timing and meditating shaped this Rich Lister’s fortune](https://www.afr.com/wealth/people/how-exquisite-timing-and-meditating-shaped-this-rich-lister-s-fortune-20240711-p5jt04)
+### [Historic pub to close after Rich Lister sells building, keeps pokies](https://www.afr.com/property/commercial/historic-pub-to-close-after-new-owner-takes-pokies-sells-building-20240722-p5jvii)
 
-* Julie-anne Sprague
+* Larry Schlesinger
 
-* ### [They’re young, rich, and in the French Riviera](https://www.afr.com/rich-list/they-re-young-they-re-rich-and-they-re-in-the-french-riviera-20240709-p5jscf)
+* ### [What it’s like to sell your tech start-up for $180m](https://www.afr.com/technology/what-it-s-like-to-sell-your-tech-start-up-for-180m-20240718-p5jupl)
     
-* ### [The workshop that teaches young rich kids to manage huge fortunes](https://www.afr.com/wealth/personal-finance/the-workshop-that-teaches-young-rich-kids-to-manage-huge-fortunes-20240708-p5jrwe)
+* ### [How exquisite timing and meditating shaped this Rich Lister’s fortune](https://www.afr.com/wealth/people/how-exquisite-timing-and-meditating-shaped-this-rich-lister-s-fortune-20240711-p5jt04)
     
 
 [The Australian Financial Review](https://www.afr.com/)
