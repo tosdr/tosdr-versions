@@ -1,3 +1,11 @@
+![](https://fiverr-res.cloudinary.com/npm-assets/layout-service/bulb.f211dcf.png)
+
+Our latest product release is here.
+
+Make all your big projects possible with new features.
+
+[Get updatedCheck out our release](https://release.fiverr.com/summer24/?utm_source=release_message&utm_campaign=202407_release&utm_content=guest&utm_term=customers)
+
 [](https://www.fiverr.com/?source=top_nav)
 
 * Fiverr Pro
@@ -1358,19 +1366,21 @@ AED - AED
 Fiverr's Terms of Service
 =========================
 
-##### Last updated: May 2024
+##### Last update: July 2024
 
   
 
-The following terms of service (these **"****Terms of Service****"**), govern your access to and use of the Fiverr website and mobile application, including any content, functionality and services offered on or through www.fiverr.com or the Fiverr mobile application (the **"Site"**) by Fiverr International Ltd. (8 Kaplan St., Tel Aviv 6473409, Israel) and its subsidiaries: Fiverr Inc. (26 Mercer St., New York, NY 10013, USA) and Fiverr Limited (6 Vasili Vryonides st., 3095 Limassol, Cyprus), as applicable. Fiverr International Ltd. and its subsidiaries are collectively referred hereto as "**Fiverr**", "**we**" or "**us**" and "**you**" or "**user**" means you as a user of the Site.
+The following terms of service (these **"Terms of Service"**), govern your access to and use of the Fiverr website and mobile application, including any content, functionality and services offered on or through [www.fiverr.com](http://www.fiverr.com/) or the Fiverr mobile application (the **"Site"**) by Fiverr International Ltd. (8 Kaplan St. Tel Aviv 6473409, Israel) and its subsidiaries: Fiverr Inc. (26 Mercer St., New York, NY 10013, USA) and Fiverr Limited (6, Vasili Vryonides str., 3095 Limassol, Cyprus), as applicable. Fiverr International Ltd. and its subsidiaries are collectively referred hereto as "**Fiverr**" "**we**" or "**us**" and **“you” or “user”** means you as an user of the Site.
 
   
 
-Please read the Terms of Service carefully before you start to use the Site. **By using the Site, opening an account or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree, on behalf of yourself or on behalf of your employer or any other entity (if applicable), to be bound and abide by these Terms of Service, Fiverr Payment Terms, found** [**here**](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service) **(“Payment Terms”), Fiverr's Community Standards, found** [**here**](https://www.fiverr.com/community/standards)**, and any additional standards, conditions, policies, guidelines and in-product disclosures (collectively, the "Terms"), which are incorporated herein by reference. You further acknowledge, you have read and understood our Privacy Policy, found** [**here**](https://www.fiverr.com/legal-portal/privacy/privacy-policy). If you do not want to agree to these Terms or the Privacy Policy, you must not access or use the Site. For more detailed policies surrounding the activity and usage on the Site, please access the designated articles herein.
+Please read the Terms of Service carefully before you start to use the Site. **By using the Site, opening an account or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree, on behalf of yourself or on behalf of your employer or any other entity (if applicable), to be bound and abide by these Terms of Service, Fiverr Payment Terms, found** [**here**](https://www.fiverr.com/content/payments-terms-and-conditions) **(“Payment Terms”), Fiverr’s Community Standards, found** [**here**](https://www.fiverr.com/community/standards)**, and any additional standards, conditions, policies, guidelines and in-product disclosures (collectively, the “Terms”), which are incorporated herein by reference. You further acknowledge, you have read and understood our Privacy Policy, found** [**here**](https://www.fiverr.com/privacy-policy). If you do not want to agree to these Terms or the Privacy Policy, you must not access or use the Site. For more detailed policies surrounding the activity and usage on the Site, please access the designated articles herein.
 
   
 
-Our Customer Support team is available 24/7 if you have any questions regarding the Site or Terms. Contacting our Customer Support team can be performed by submitting a request [here](http://support.fiverr.com/). For additional information on our designated contact points, see [here](https://help.fiverr.com/hc/en-us/articles/23164982594577-DSA-Contact-Points).
+Our Customer Support team is available 24/7 if you have any questions regarding the Site or Terms. Contacting our Customer Support team can be performed by submitting a request [here](http://support.fiverr.com/). For additional information on our designated contact points, see [here](https://help.fiverr.com/hc/en-us/articles/23164982594577-DSA-Contact-Points).
+
+  
 
   
 
@@ -1379,7 +1389,7 @@ Our Customer Support team is available 24/7 if you have any questions regarding 
 
   
 
-This Site is offered and available to users who are at least 18 years of age and of legal age to form a binding contract. If you are under 18 and at least 13 years of age, you are only permitted to use the Site through an account owned by a parent or legal guardian with their appropriate permission. If you are under 13 you are not permitted to use the Site or the Fiverr services.
+This Site is offered and available to users who are at least 18 years of age and of legal age to form a binding contract. If you are under 18 and at least 13 years of age, you are only permitted to use the Site through an account owned by a parent or legal guardian with their appropriate permission. If you are under 13 you are not permitted to use the Site or the Fiverr services. 
 
   
 
@@ -1396,53 +1406,73 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-**Buyers** are users who purchase services on Fiverr.
+**Buyers** are users who purchase services on Fiverr.
 
   
 
-**Custom Offers** are exclusive proposals that a Seller can create in response to specific requirements of a Buyer.
+**Custom Offers** are exclusive proposals that a Seller can create in response to specific requirements of a Buyer.   
+
+**Gig® Extras** are additional services offered on top of the Seller’s Gig for an additional price defined by the Seller.
 
   
 
-**Custom Orders** are requests made by a Buyer to receive a Custom Offer from a Seller.
+**Gig® Packages** allow Sellers to offer services in different formats and prices. Packages can include upgrades, which lets Sellers price their service for a basic price of over $5.​
 
   
 
-**Gig® Extras** are additional services offered on top of the Seller’s Gig for an additional price defined by the Seller.
+**Gig® Page** is where the Seller can describe their Gig and the Gig’s terms, and the Buyer can purchase the Gig and create an Order.
 
   
 
-**Gig® Packages** allow Sellers to offer services in different formats and prices. Packages can include upgrades, which lets Sellers price their service for a basic price of over $5.​
+**Gig® / Gigs® / Services**  are services offered on Fiverr.
 
   
 
-**Gig® Page** is where the Seller can describe their Gig and the Gig’s terms, and the Buyer can purchase the Gig and create an order.
+**Hourly Contract** means an Order based on an hourly Custom Offer with an Hourly Rate.
 
   
 
-**Gig® / Gigs® / Services** are services offered on Fiverr.
+**Hourly Limit / Weekly Hourly Limit** means the limit on the working hours per week defined in an Hourly Contract.
 
   
 
-**Logo Design** is an original design for a logo uploaded by a Seller through the Fiverr Logo Maker.
+**Hourly Rate** means the rate per hour agreed between Seller and Buyer for an Hourly Contract.
 
   
 
-**Logo Maker** is the automated logo design tool offered by Fiverr to users as further explained in these Terms of Service.
+**Hourly Weekly Report / Weekly Report** means the working hours reported by Seller on a weekly basis in connection with an Hourly Contract.
 
   
 
-**Order Page** is where Buyers and Sellers communicate with each other in connection with an ordered Gig.
+**Logo Design** is an original design for a logo uploaded by a Seller through the Fiverr Logo Maker.
 
   
 
-**Orders** are the formal agreements between a Buyer and Seller after a purchase was made from the Seller’s Gig Page.
+**Logo Maker** is the automated Logo Design tool offered by Fiverr to users as further explained in these Terms of Service.
 
   
 
-**Sellers or Freelancers** are users who offer and perform services through Gigs/Services or through the Logo Maker on Fiverr.
+**Order Page** is where Buyers and Sellers communicate with each other in connection with an ordered Service.
 
-###   
+  
+
+**Orders** are the formal agreements between a Buyer and Seller.
+
+  
+
+**Professions** is where eligible Sellers can showcase the Services they offer on Fiverr based on specific skills.
+
+  
+
+**Sellers** or **Freelancers** are users who offer and provide Services on Fiverr.
+
+  
+
+**Seller Page** is where Sellers can include all of their information, present a portfolio of other works, showcase their Professions and anything that could be helpful to Buyers.
+
+  
+
+  
 
 **3\. Overview (Main terms, in a nutshell)**
 --------------------------------------------
@@ -1453,35 +1483,31 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Gigs on Fiverr may be offered at a base starting price of $5. Fiverr reserves the right to set a higher base starting price in certain categories, Sellers determine their Gig pricing, at their sole discretion.
+* Sellers determine their pricing, at their sole discretion. Services on Fiverr may be offered at a base starting price of US$5 and a minimum Hourly Rate of US$7.25. Fiverr reserves the right to set a higher base starting price in certain categories.
 
   
 
-* Buyers pay Fiverr in advance to create an order (see [Payment Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service)).
+* Buyers pay Fiverr in advance to create an Order, as further detailed on the [Payment Terms](https://www.fiverr.com/content/payments-terms-and-conditions). For Hourly Contracts, Fiverr Pro Clients pay once a week, every Monday, for the hours detailed in the Hourly Weekly Report (for more information, see the Hourly Contract section on the [Payment Terms)](https://www.fiverr.com/content/payments-terms-and-conditions).
 
   
 
-* Orders are purchased through the Order button found on a Seller’s Gig page or through a Custom Offer.
+* For fees and payments please read the [Payment Terms](https://www.fiverr.com/content/payments-terms-and-conditions)[.](https://www.fiverr.com/terms_of_service?source=footer#buyers-purchasing)
 
   
 
-* For fees and payments please read the [Payment Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service).
+* Sellers must fulfill their Orders, and may not cancel Orders on a regular basis or without cause. Cancelling Orders will affect Sellers’ reputation and level.
 
   
 
-* Sellers must fulfill their orders, and may not cancel orders on a regular basis or without cause. Cancelling orders will affect Sellers’ reputation and level.
+* Sellers gain account levels based on their performance metrics. You can read more about it on the Levels section below.
 
   
 
-* Sellers gain account levels based on their performance metrics. You can read more about it in the Levels section below.
+* Users may not offer or accept payments using any method other than placing an Order through Fiverr.com.
 
   
 
-* Users may not offer or accept payments using any method other than placing an order through Fiverr.com.
-
-  
-
-* When purchasing a Gig, Buyers are granted all rights for the delivered work, unless otherwise specified by the Seller on their Gig page. Note: some Gigs charge additional payments (through Gig Extras) for Commercial Use License. See our “[Ownership](#ownership)” and “[Commercial Use License](#gig-commercial)” sections below for more information.
+* When purchasing on Fiverr, Buyers are granted all rights for the delivered work, unless otherwise specified by the Seller on their Gig page or unless agreed otherwise between Seller and Buyer. Note: some Gigs charge additional payments (through Gig Extras) for Commercial Use License. See our “[Ownership](https://www.fiverr.com/terms_of_service?source=footer#ownership)” and “[Commercial Use License](https://www.fiverr.com/terms_of_service?source=footer#commercial-use-license)” sections below for more information.
 
   
 
@@ -1489,7 +1515,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* We care about your privacy. You can read our Privacy Policy [here](https://www.fiverr.com/legal-portal/privacy/privacy-policy).
+* We care about your privacy. You can read our Privacy Policy [here](https://www.fiverr.com/privacy-policy).
 
   
 
@@ -1497,14 +1523,14 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-*  If you are buying on Fiverr Pro, an end-to-end solution for businesses with curated freelance talent, please refer to Fiverr Pro Terms of Service available [here](https://www.fiverr.com/business/terms_of_service).
+* If you are buying on Fiverr Pro (“**Pro Client**”), an end-to-end solution for businesses with curated freelance talent, please refer to Fiverr Pro Terms of Service available [here](https://www.fiverr.com/business/terms_of_service).
 
   
 
 **4\. Sellers**
 ---------------
 
-###   
+  
 
 ### **4.1 Basics**
 
@@ -1514,27 +1540,27 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Sellers may also offer Custom Offers to Buyers in addition to their Gigs.
+* Sellers may also offer Custom Offers to Buyers in addition to their Gigs. Eligible Sellers may also offer eligible Pro Clients, Custom Offers on hourly basis as detailed below.
 
   
 
-* Each Gig you sell and successfully complete, accredits your account with a revenue equal to 80% of the purchase amount.
+* Each Gig you sell and successfully complete, accredits your account with a revenue equal to 80% of the purchase amount. For Hourly Contracts, the Services detailed in a Weekly Report you successfully complete, accredits your account with revenue equal to 80% of the Hourly Rate for the number of hours on the completed Weekly Report.
 
   
 
-* Fiverr accredits Sellers once an order is completed. See our "[Orders](#orders)" section below for a definition of a completed order.
+* Fiverr accredits Sellers once an Order, or for Hourly Contracts - Hourly Weekly Report, is completed. See our ["Orders"](https://www.fiverr.com/terms_of_service?source=footer#orders) section below for more information.
 
   
 
-* For more information about receiving payments, fees and taxes see the [Payment Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service).
+* For more information about receiving payments, fees and taxes see the [Payment Terms](https://www.fiverr.com/content/payments-terms-and-conditions). 
 
   
 
-* Sellers may not promote their Gigs or any Fiverr content via the Google Ads platform.
+* Sellers may not promote their Gigs, Seller Page or any Fiverr content via the Google Ads platform.
 
   
 
-* The Seller's rating is calculated based on the order reviews posted by Buyers or Pro Account Team Members (for Fiverr Pro). High ratings allow Sellers to obtain advanced Seller levels. In certain cases, exceedingly low ratings may lead to the suspension of the Seller’s account (see Levels section below).
+* The Seller's rating is calculated based on the reviews posted by Buyers or Pro Account Team Members (for Fiverr Pro). High ratings allow Sellers to obtain advanced Seller levels. In certain cases, exceedingly low ratings may lead to the suspension of the Seller’s account (see Levels section below).
 
   
 
@@ -1542,11 +1568,11 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* If you declare yourself to sell on Fiverr for purposes relating to your primary job or profession, you will be considered as a "Business Seller" and the following additional term will apply to you: (i) upon creating a Gig, or upon our request, Business Sellers, will be required to submit the following information and documents to Fiverr: (a) name, address, telephone number and email address; (b) copy of an identification document (e.g. identity card, passport) or other electronic identification as may be required by us; (c) payment details; (d) trade registration number or equivalent means of identification and the trade register in which the Business Seller is registered (if applicable); (e) self certification by the Business Seller committing to only offer products or services that comply with the European Union applicable regulations; and (f) upon our request, further appropriate documents that prove the information provided. (ii) If a Business Seller fails to provide this information and documents within a given reasonable deadline, Fiverr may restrict or suspend the account.
+* If you declare yourself to sell on Fiverr for purposes relating to your primary job or profession, you will be considered as a “Business Seller” and the following additional term will apply to you: (i) Upon creating a Gig, or upon our request, Business Sellers, will be required to submit the following information and documents to Fiverr: (a) Name, address, telephone number and email address; (b) Copy of an identification document (e.g. identity card, passport) or other electronic identification as may be required by us; (c) Payment details; (d) Trade registration number or equivalent means of identification and the trade register in which the Business Seller is registered (if applicable); (e) Self certification by the Business Seller committing to only offer products or services that comply with the European Union applicable regulations; and (f)Upon our request, further appropriate documents that prove the information provided. (ii) If a Business Seller fails to provide this information and documents within a given reasonable deadline, Fiverr may restrict or suspend the account.
 
   
 
-### **4.2 Gigs®**
+### **4.2** **Gigs®**
 
   
 
@@ -1554,7 +1580,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Gigs created on Fiverr are [User Generated Content.](https://fr.fiverr.com/legal-portal/legal-terms/terms-of-service#1)
+* Gigs created on Fiverr are [User Generated Content](https://www.fiverr.com/terms_of_service?source=footer#user-generated-content).
 
   
 
@@ -1566,7 +1592,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Copyright Infringement, Trademark Infringement, and violation of a third party's terms of service reported through our Intellectual Property Claims Policy found [here](https://www.fiverr.com/intellectual-property)
+* Copyright Infringement, trademark infringement, and violation of a third party's terms of service reported through our Intellectual Property Claims Policy found [here](https://www.fiverr.com/intellectual-property)
 
   
 
@@ -1578,7 +1604,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Spam, nonsense, or violent or deceptive Gigs
+* Spam, nonsense, violent or deceptive Gigs
 
   
 
@@ -1598,7 +1624,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Promoting Fiverr and/or Fiverr Gigs through activities that are prohibited by any laws, regulations, and/or third parties' terms of service, as well as through any marketing activity that negatively affects our relationships with our users or partners.
+* Promoting Fiverr and/or Fiverr Gigs through activities that are prohibited by any laws, regulations and/or third parties’ terms of service, as well as through any marketing activity that negatively affects our relationships with our users or partners.
 
   
 
@@ -1610,7 +1636,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Gigs may be removed from our listings due to violations of our Terms, poor performance and/or user misconduct.
+* Gigs may be removed from our listings due to violations of our Terms, poor performance, and/or user misconduct.
 
   
 
@@ -1618,11 +1644,11 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
   
 
-* Gigs are required to have an appropriate Gig image related to the service offered. Sellers must deliver the same quality of service as shown on their Gig images. Recurring deliveries that don’t match the quality shown on the Gig images may lead to the Seller’s account losing Seller status or becoming permanently disabled.
+* Gigs are required to have an appropriate Gig image related to the service offered. Sellers must deliver the same quality of service as shown on their Gig images. Recurring deliveries that don’t match the quality shown on the Gig images may lead to the Seller’s account losing Seller level or becoming permanently disabled.
 
   
 
-* Gigs may contain an approved Gig Video uploaded through the Gig management tools available on Fiverr, as further described [here](https://help.fiverr.com/hc/en-us/articles/360010451657-Adding-a-Video-to-your-Gig).
+* Gigs may contain an approved Gig video uploaded through the Gig management tools available on Fiverr, as further described [here](https://help.fiverr.com/hc/en-us/articles/360010451657-Adding-a-Video-to-your-Gig).
 
   
 
@@ -1660,7 +1686,7 @@ By using the Site, you represent and warrant that you meet all of the foregoing 
 
 * Sellers have the option to extend the duration of an Order for each Gig Extra that is added to the Order. This is to cover the time needed to complete the extra service.
 
-###   
+  
 
 ### **4.4 Levels**
 
@@ -1670,7 +1696,7 @@ Our level system empowers Sellers with metrics demonstrating what drives their p
 
   
 
-* Fiverr Sellers can gain account levels based on their activity and performance metrics. For Top Rated Seller Level (TRS), eligibility is also based on manual evaluation. Details about the level criteria and the relevant performance metrics can be found [here](https://help.fiverr.com/hc/en-us/articles/360010560118-Achieving-levels).
+* Fiverr Sellers can gain account levels based on their activity and performance metrics. For Top Rated Seller Level (TRS), eligibility is also based on manual evaluation. Details about the level criteria and the relevant performance metrics can be found [here](https://www.fiverr.com/support/articles/360010560118-Achieving-levels?segment=seller).
 
   
 
@@ -1682,23 +1708,23 @@ Our level system empowers Sellers with metrics demonstrating what drives their p
 
   
 
-* Violations of these Terms, may result in your account being placed on hold from progress in the leveling system, excluding your account from participation in the leveling system and/or affect your eligibility to certain benefits and tools.
+* Violations of these Terms, may result in your account being placed on hold from progress in the leveling system, excluding your account from participation in the leveling system and/or affect your eligibility to certain benefits and tools.  
 
-###   
+  
 
 ### **4.5 Pro Freelancers**
 
   
 
-* Pro Freelancers are pre-vetted and hand-selected professionals vetted by Fiverr. Applying for Fiverr Pro is open to everyone: new and existing Freelancers.
+* Pro Freelancers are pre vetted hand-selected professionals vetted by Fiverr. Applying for Fiverr Pro is open to everyone: new and existing Freelancers.
 
   
 
-* Pro Freelancers eligibility is constantly evaluated by Fiverr to ensure that the quality standards and expectations of the Pro Freelancer selection is kept. Fiverr retains the right to change a Pro Freelancer status in light of such evaluation. In addition, Pro Freelancers who cannot maintain their high quality service through a severe drop in ratings, stop delivering on time, increase cancellation rate or violate our Terms, also risk losing their Pro status and the benefits that come with it.
+* Pro Freelancers eligibility is constantly evaluated by Fiverr to ensure that the quality standards and expectations of the Pro Freelancer selection is kept. Fiverr retains the right to change a Pro Freelancer status in light of such evaluation. In addition, Pro Freelancers who cannot maintain their high quality service through a severe drop in ratings, stop delivering on time, increased cancellation rate or violate our Terms, also risk losing their Pro status and the benefits that come with it.
 
   
 
-* As part of Fiverr Business Solutions, Pro Freelancers public profile will also be featured on [Fiverr Enterprise](https://enterprise.fiverr.com/) catalog.
+* As part of Fiverr Business Solutions, Pro Freelancers public profile will also be featured on [Fiverr Enterprise](https://enterprise.fiverr.com/) catalog. Pro Freelancers may opt-out from [Fiverr Enterprise](https://enterprise.fiverr.com/) catalog [here](https://help-pro.fiverr.com/hc/en-us/articles/21873902897041-Fiverr-Enterprise).
 
   
 
@@ -1710,7 +1736,7 @@ Fiverr Sellers have access to several exclusive features that help customize the
 
   
 
-**Custom Offer**
+#### **Custom Offer**
 
   
 
@@ -1730,51 +1756,97 @@ Fiverr Sellers have access to several exclusive features that help customize the
 
   
 
-**Project Milestones**
+#### **Hourly Contract**
 
   
 
-* Gig and Custom Offers above $100 may include up to six project milestones, the minimum amount for each milestone is $50 and the project should include at least two milestones. Each milestone is paid and delivered separately in accordance with each Gig or Custom Offer’s description and timelines.
+* Eligible Sellers may offer eligible Pro Clients with Hourly Contracts.
 
   
 
-* Once a milestone is delivered and marked as completed, Buyers may choose to either continue with the Order and pay for the next milestone, or to stop the Order. If Buyer does not pay for the next milestone within 10 days of acceptance of previous milestones, the Order under the next milestones will not start. A milestone will be automatically marked as complete if no acceptance or request for modification were submitted within 8 days after being marked as Delivered, however, in such case all further milestones will not start.
+* The Custom Offer sent by Seller must address the Hourly Rate and estimated number of working hours during the Hourly Contract. The minimal number of working hours on Hourly Contracts is 8 hours.
 
   
 
-**Gig Subscription**
+* Pro Clients can also ask Seller to define an Hourly Limit on the number of working hours per week, and in such case Seller must include such details in the hourly Custom Offer. Pro Client can modify the Hourly Limit, at any time, and such modification will enter into force immediately. If during a specific week the Seller already reported working hours, the updated Hourly Limit cannot exceed the number of hours already reported by Seller in the same week.
 
   
 
-* Eligibile Sellers may offer Buyers a fixed term subscription for a specific Gig (the “Gig Subscription”). During the Gig Subscription term, Seller will deliver one Order of the same Gig on a recurring basis, as agreed between the Seller and Buyer.
+* Each of Pro Client and Seller can terminate the Hourly Contract at any time, upon a 24 hours prior notice via the Hourly Contract Order Page. Pro Client can also pause the Hourly Contract at any time, upon a 24 hours prior notice. Sellers must report their working hours, and provide the delivery of their work within the said 24 hours prior notice period and Pro Client must pay the applicable amount on the next weekly billing cycle (as detailed in the [Payment Terms](https://www.fiverr.com/content/payments-terms-and-conditions)).
 
   
 
-* Buyers may cancel future Orders under the Gig Subscription before payment is made for such future Orders. In such case, the Orders under the Gig Subscription will be cancelled, as applicable. Once payment is made, Fiverr’s Order Cancelation policy under the [Payments Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service) will apply.
+* Any Hourly Contract that had no activity during a period of 3 months will be automatically terminated.
 
   
 
-* Sellers may cancel the Gig Subscription up to 10 days before the next consecutive Order. Otherwise, Fiverr’s Order Cancelation policy under the [Payments Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service) will apply.
+* Time reporting:
 
   
+
+* Sellers should report their hours immediately after performing the work, with sufficient information describing the work performed by them. Once Sellers log their working hours, it will be sent to the client for their review. Sellers are welcome to add additional information and attach any relevant files to provide additional context. Such additional information might be used by Fiverr’s Customer Support in case of a dispute.
+
+  
+
+* Sellers reported hours must be accurate and complete, reflecting true working hours, all in accordance with the Hourly Contract.
+
+  
+
+* Sellers acknowledge and understand they will not be paid for any reported hours exceeding the Hourly Limit as well as any time significantly exceeding the time estimation.
+
+  
+
+* All working hours performed during a week must be reported by Sunday, 23:59 UTC. Any hours not reported within this deadline will not be included in the Weekly Report and the Seller will not be paid for it. 
+
+  
+
+* Additional information about Hourly Contracts is available [here](https://help-pro.fiverr.com/hc/en-us/articles/26508859967377-Hourly-work-for-freelancers).
+
+  
+
+#### **Project Milestones**
+
+  
+
+* Gigs and Custom Offers above $100 may include up to six project milestones, the minimum amount for each milestone is $50 and the project should include at least two milestones. Each milestone is paid and delivered separately in accordance with each Gig or Custom Offer’s description and timelines.
+
+  
+
+* Once a milestone is delivered and marked as completed, Buyers may choose to either continue with the Order and pay for the next milestone, or to stop the Order. If Buyer does not pay for the next milestone within 10 days of acceptance of previous milestones, the Order under the next milestones will not start. A milestone will be automatically marked as complete if no acceptance or request for modification were submitted within 8 days after being marked as Delivered, however, in such case all further milestones will not start.
+
+  
+
+#### **Gig Subscription**  
+
+  
+
+* Eligible Sellers may offer Buyers a fixed term subscription for a specific Gig (the “Gig Subscription”). During the Gig Subscription term, Seller will deliver one Order of the same Gig on a recurring basis, as agreed between the Seller and Buyer.
+
+  
+
+* Buyers may cancel future Orders under the Gig Subscription before payment is made for such future Orders. In such case, the Orders under the Gig Subscription will be cancelled, as applicable. Once payment is made, Fiverr’s Order Cancelation policy under the [Payments Terms](https://www.fiverr.com/content/payments-terms-and-conditions) will apply.
+
+  
+
+* Sellers may cancel the Gig Subscription up to 10 days before the next consecutive Order. Otherwise, Fiverr’s Order Cancelation policy under the [Payments Terms](https://www.fiverr.com/content/payments-terms-and-conditions) will apply.
 
 **Stock Media**
 
   
 
-* Eligible Gigs have the option to access and use a catalog of licensed images, music and footage clips ("**Stock Media**").
+* Eligible Gigs have the option to access and use a catalog of licensed images, music and footage clips (“**Stock Media**”).
 
   
 
-* Sellers earn 20% of the fees charged directly for standard license Stock Media. Fiverr may offer Buyers to enhance their standard license after the purchase, and such enhanced license does not entitle Sellers to additional revenue share.
+* Sellers earn 20% of the fees charged directly for standard license Stock Media. Fiverr may offer Buyers to enhance their standard license after the purchase, and such enhanced license does not entitle Sellers to additional revenue share. 
 
   
 
-* Important: Each selected Stock Media item is authorized for a one time use. The selected media item must be integrated into the delivered work only and must not be used as a stand-alone or for recurring use. Sellers are not authorized to share the original image file with the Buyer or any third party.. In addition, Stock Media are governed by special license terms, that are set forth by Shutterstock. Please see the full Stock Media license terms [here](https://www.fiverr.com/legal-portal/legal-terms/shutterstock-licensed-media-terms-and-tonditions).
+* Important: Each selected Stock Media item is authorized for a one time use. The selected media item must be integrated into the delivered work only and must not be used as a stand-alone or for recurring use. Sellers are not authorized to share the original image file with the Buyer or any third party. In addition, Stock Media are governed by special license terms, that are set forth by Shutterstock. Please see the full Stock Media license terms [here](https://www.fiverr.com/legal-portal/legal-terms/shutterstock-licensed-media-terms-and-tonditions).
 
   
 
-* Important: If you cancel an Order that includes Stock Media, the license to these Stock Media will be cancelled as well and you will no longer be able to use these Stock Media.
+* Important: If you cancel an Order that includes Stock Media, the license to these Stock Media will be canceled as well and you will no longer be able to use these Stock Media.
 
   
 
@@ -1782,7 +1854,7 @@ Fiverr Sellers have access to several exclusive features that help customize the
 
   
 
-* Users can contact Fiverr's customer support department for assistance [here](https://help.fiverr.com/hc/en-us).
+* Users can contact Fiverr's customer support department for assistance [here](http://support.fiverr.com/).
 
   
 
@@ -1790,7 +1862,7 @@ Fiverr Sellers have access to several exclusive features that help customize the
 
   
 
-Some of the services on Fiverr are delivered physically (arts and crafts, collectable items, etc.). For these types of Gigs, Sellers may decide to define a shipping pricing factor.
+Some of the Services on Fiverr are delivered physically (arts and crafts, collectable items, etc.). For these types of Gigs, Sellers may decide to define a shipping pricing factor. The following must apply in case Seller and Buyer agreed on Shipping Physical Deliverables:
 
   
 
@@ -1831,15 +1903,15 @@ Some of the services on Fiverr are delivered physically (arts and crafts, collec
 
   
 
-* Fiverr retains the right to use all delivered work that the user has agreed to include and is published as part of a review, and Logo Designs for Fiverr marketing and promotional purposes.
+* Fiverr retains the right to use all delivered work that the user has agreed to include and is published as part of a review, and Logo Designs for Fiverr marketing and promotion purposes.
 
   
 
-* Buyers may request a specific service from the Brief feature. Services requested on Fiverr must be an allowed service on Fiverr. Please click [here](https://www.fiverr.com/community/standards) for guidelines on approved services. Users should refrain from using the Brief feature for any purpose other than looking for services on Fiverr.
+* Buyers can request Seller a Custom Offer which addresses specific Buyer requirements. Buyers may also use brief features to ask for services. Services requested on Fiverr must be an allowed service on Fiverr. Please click [here](https://www.fiverr.com/community/standards?source=footer) for guidelines on approved services. Users should refrain from using such features for any purpose other than looking for services on Fiverr.
 
   
 
-* When placing an order on the Fiverr platform you may only use funds that were obtained from legal sources and are not, directly or indirectly, connected to any unlawful or fraudulent activities.
+* When placing an Order on the Fiverr platform you may only use funds that were obtained from legal sources and are not, directly or indirectly, connected to any unlawful or fraudulent activities.
 
   
 
@@ -1847,15 +1919,11 @@ Some of the services on Fiverr are delivered physically (arts and crafts, collec
 
   
 
-* Please refer to the [Payment Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service) for making Payments through the Fiverr platform and to learn about fees and taxes.
+* Please refer to the [Payment Terms](https://www.fiverr.com/content/payments-terms-and-conditions) for making payments through the Site and to learn about fees and taxes.
 
   
 
-* Buyers can request a Custom Order which addresses specific Buyer requirements, and receive a Custom Offer from Sellers through the site.
-
-  
-
-* You may not offer Sellers to pay, or make payment using any method other than through the Fiverr.com site. In case you have been asked to use an alternative payment method, please report it immediately to Customer Support [here](https://help.fiverr.com/hc/en-us).
+* You may not offer Sellers to pay, or make payment using any method other than through the Fiverr.com site. In case you have been asked to use an alternative payment method, please report it immediately to Customer Support [here](http://support.fiverr.com/).
 
   
 
@@ -1864,8 +1932,6 @@ Some of the services on Fiverr are delivered physically (arts and crafts, collec
   
 
 We make personalized recommendations of content to our users in order to enhance the experience on Fiverr. To learn more about Fiverr's Recommendation System, see [here](https://help.fiverr.com/hc/en-us/articles/23429542870161-Understanding-Fiverr-s-Search-and-Recommendation-System).
-
-  
 
 **6\. Orders**
 --------------
@@ -1876,23 +1942,15 @@ We make personalized recommendations of content to our users in order to enhance
 
   
 
-* Once payment is confirmed, your order will be created and given a unique Fiverr order number (#FO).
+* Once payment is confirmed, your Order will be created. For Hourly Contracts, once payment of the Order Initiation Fee is confirmed the Order will be created.
 
   
 
-* Sellers must deliver completed files and/or proof of work using the Deliver Work button (located on the Order page) according to the service that was purchased and advertised on their Gig.
+* An Order is marked as Complete after it is marked as “Delivered” and then accepted by a Buyer. An Order will be automatically marked as “Complete” if not accepted and no request for modification was submitted within 3 days after the Order was marked as “Delivered”. The Buyer may extend such period by up to 5 additional days.
 
   
 
-* The Deliver Work button may not be abused by Sellers to circumvent Order guidelines described in these Terms. Using the “Deliver Work” button when an Order was not fulfilled may result in a cancellation of that Order after review, affect the Seller’s rating and result in a warning to Seller.
-
-  
-
-* An Order is marked as Complete after it is marked as Delivered and then accepted by a Buyer. An Order will be automatically marked as Complete if not accepted and no request for modification was submitted within 3 days after the Order was marked as Delivered. The Buyer may extend such period by up to 5 additional days.
-
-  
-
-* We encourage our Buyers and Sellers to try and settle conflicts amongst themselves. If for any reason this fails after using the Resolution Center or if you encounter non-permitted usage on the Site, users can contact Fiverr's Customer Support department for assistance [here](http://support.fiverr.com/). For more information about disputes, Order cancellations and refunds please refer to the [Payment Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service).
+* For Hourly Contracts, a Weekly Report will be automatically marked as complete if not disputed within 72 hours after charging the Client's payment method.
 
   
 
@@ -1900,11 +1958,11 @@ We make personalized recommendations of content to our users in order to enhance
 
   
 
-* A milestone (on an Order with milestones) is marked as "Complete" after it is delivered by the Seller and then accepted by the Buyer. A milestone will be automatically marked as "Complete" if no acceptance or request for modification were submitted within 8 days after being marked as Delivered, however, in such case the Order will be stopped and all further milestones will not start. Once a milestone is delivered and accepted, Buyers may choose to either continue with the Order and pay for the next milestone, or to stop the Order. If Buyer does not pay for the next milestone within 10 days of acceptance of previous milestones, the Order under the next milestones will not start. Please note that if you choose to stop the future milestones, the current ordered milestone will not be cancelled.
+* A milestone (on an Order with milestones) is marked as “Complete” after it is delivered by the Seller and then accepted by the Buyer. A milestone will be automatically marked as “Complete” if no acceptance or request for modification were submitted within 8 days after being marked as Delivered, however, in such case the Order will stop and all further milestones will not start. Once a milestone is delivered and accepted, Buyers may choose to either continue with the Order and pay for the next milestone, or to stop the Order. If Buyer does not pay for the next milestone within 10 days of acceptance of previous milestones, the Order under the next milestones will not start. Please note that if you choose to stop future milestones, the current ordered milestone will not be cancelled.
 
   
 
-* Buyers may purchase a Gig Subscription, if available on the Seller’s Gig page. During the Gig Subscription term, a new Order of the same Gig will be automatically created on a recurring basis, as agreed between the Seller and Buyer. By purchasing a Gig Subscription, you authorize us to automatically charge you for each Order under the Gig Subscription from your Fiverr Balance or saved payment method, as applicable. If you do not have any Fiverr Balance or a saved payment method, you will be requested to approve the payment prior to the next Order. In case a payment is not processed or made by Buyer, for any other reason, the Orders under the Gig Subscription will be cancelled. Buyer may also cancel future Orders under the Gig Subscription before payment is made for such future Orders. Once payment is made, Fiverr’s Order Cancelation policy under the [Payments Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service) will apply. Please note that Sellers can cancel future Orders under the Gig Subscription 10 days prior to the next consecutive Order.
+* Buyers may purchase a Gig Subscription, if available on the Seller’s Gig Page. During the Gig Subscription term, a new Order of the same Gig will be automatically created on a recurring basis, as agreed between the Seller and Buyer. By purchasing a Gig Subscription, you authorize us to automatically charge you for each Order under the Gig Subscription from your Fiverr Balance or saved payment method, as applicable. If you do not have any Fiverr Balance or a saved payment method, you will be requested to approve the payment prior to the next Order. In case a payment is not processed or made by Buyer, for any other reason, the Orders under the Gig Subscription will be canceled. Buyer may also cancel future Orders under the Gig Subscription before payment is made for such future Orders. Once payment is made, Fiverr’s Order Cancelation policy under the [Payments Terms](https://www.fiverr.com/content/payments-terms-and-conditions) will apply. Please note that Sellers can cancel future Orders under the Gig Subscription 10 days prior to the next consecutive Order.
 
   
 
@@ -1912,23 +1970,23 @@ We make personalized recommendations of content to our users in order to enhance
 
   
 
-* For Gigs that offer integration of Stock Media in the delivered work through Gig Extras, the following Stock Media license [terms](https://www.fiverr.com/legal-portal/legal-terms/shutterstock-licensed-media-terms-and-tonditions) apply. Buyers are granted a license to use the delivered work containing Stock Media in accordance with these [terms](https://www.fiverr.com/legal-portal/legal-terms/shutterstock-licensed-media-terms-and-tonditions) which outline the permissible uses and restrictions associated with the Stock Media.
-
-  
-
 ### **6.2 Handling Orders**
 
   
 
-* When a Buyer orders a Gig, the Seller is notified by email as well as notifications on the site while logged into the account.
+* When a Buyer places an Order, the Seller is notified by email as well as notifications on the Site while logged into the account.
 
   
 
-* Sellers are required to meet the delivery time they specified when creating their Gigs. Failing to do so will allow the Buyer to cancel the Order when an Order is marked as late and may harm the Seller's level.
+* Sellers are required to meet the delivery time they specified when creating their Gigs or Custom Offer. Failing to do so will allow the Buyer to cancel the Order when an Order is marked as late and may harm the Seller's level.
 
   
 
-* Sellers must send completed files and/or proof of work using the Deliver Completed Work button (located on the Order page) to mark the Order as "Delivered".
+* Sellers must send completed files and/or proof of work when marking the Order as “Delivered”.
+
+  
+
+* The Deliver Work button may not be abused by Sellers to circumvent Order guidelines described in these Terms. Using the “Deliver Work” button when an Order was not fulfilled may result in a cancellation of that Order after review, affect the Seller’s rating and result in a warning to Seller.
 
   
 
@@ -1936,7 +1994,7 @@ We make personalized recommendations of content to our users in order to enhance
 
   
 
-* Buyers may use the "Request Revisions" feature located on the Order Page while an Order is marked as Delivered if the delivered materials do not match the Seller's description on their Gig page or they do not match the requirements sent to the Seller at the beginning of the order process.
+* Buyers may use the "Request Revisions" feature located on the Order Page while an Order is marked as Delivered if the delivered materials do not match the Seller's description on their Gig Page or they do not match the requirements sent to the Seller at the beginning of the Order process.
 
   
 
@@ -1964,12 +2022,11 @@ We make personalized recommendations of content to our users in order to enhance
 
   
 
-* Work Samples are added to a Seller's Live Portfolio on their Gig page if the Buyer chooses to publish the Work Sample while providing a public feedback review. Work Samples are the delivered images and videos sent to a Buyer in a delivery message.
+* Work Samples are added to a Seller's Gig gallery on their Gig Page if the Buyer chooses to publish the Work Sample while providing a public feedback review. Work Samples are the delivered images and videos sent to a Buyer in a delivery message.
 
   
 
-**7\. Fiverr Logo Maker**
--------------------------
+### **7\. Fiverr Logo Maker**
 
   
 
@@ -1983,8 +2040,6 @@ Fiverr Logo Maker Sellers are chosen manually by Fiverr editors through an ongoi
 
 By uploading a Logo Design to Fiverr Logo Maker you represent and warrant that it is your original work, you exclusively own all rights to such design, and it does not infringe any third party rights. You further warrant that such design was never sold before to anyone and that you will not offer it for sale outside of Fiverr Logo Maker.
 
-  
-
 ### **7.1 Editing Tool Commercial Use License**
 
   
@@ -1995,22 +2050,18 @@ In addition to purchasing a Logo Design, Buyers can purchase a package that allo
 
 Please note that reselling the Logo Design and/or Logo Design variations is forbidden and may result in restrictions to your account. Fiverr reserves the right to provide you with generally available updates to the editing tool and/or terminate the service at its sole discretion.
 
-  
-
 ### **7.2 Logo Design Commercial Use License**
 
   
 
-When an order through the Logo Maker is completed, and subject to payment, the Seller grants the Buyer a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to use the Logo Design embedded with the Buyer’s brand name for any purpose, except for any illegal, immoral or defamatory purpose. There is no warranty, express or implied, with the grant of this license, including with respect to fitness for a particular purpose. Neither the Seller nor Fiverr will be liable for any claims, or incidental, consequential or other damages arising out of this license, the Logo Design or the Buyers use of the Logo Design. For the avoidance of doubt, the Seller retains all ownership rights to the Logo Design, and no ownership or copyrights are granted to the Buyer.
-
-  
+When an Order through the Logo Maker is completed, and subject to payment, the Seller grants the Buyer a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to use the Logo Design embedded with the Buyer’s brand name for any purpose, except for any illegal, immoral or defamatory purpose. There is no warranty, express or implied, with the grant of this license, including with respect to fitness for a particular purpose. Neither the Seller nor Fiverr will be liable for any claims, or incidental, consequential or other damages arising out of this license, the Logo Design or the Buyers use of the Logo Design. For the avoidance of doubt, the Seller retains all ownership rights to the Logo Design, and no ownership or copyrights are granted to the Buyer.
 
 **8\. User Conduct and Protection**
 -----------------------------------
 
   
 
-Fiverr enables people around the world to create, share, sell and purchase nearly any service they need at an unbeatable value. Services offered on Fiverr reflect the diversity of an expanding Gig economy. Members of the Fiverr community communicate and engage through orders, social media, and on Fiverr’s Community Forums.
+Fiverr enables people around the world to create, share, sell and purchase nearly any service they need at an unbeatable value.
 
   
 
@@ -2056,8 +2107,6 @@ To report a violation of our Terms, User Misconduct, or inquiries regarding your
 
 * Users may not submit proposals or solicit parties introduced through Fiverr to contract, engage with, or pay outside of Fiverr.
 
-  
-
 ### **8.2 Orders**
 
   
@@ -2066,33 +2115,31 @@ To report a violation of our Terms, User Misconduct, or inquiries regarding your
 
   
 
-* Users are to refrain from spamming or soliciting previous Buyers or Sellers to pursue removing/modifying reviews or cancelling orders that do not align on Order Cancellation or Feedback policies.
+* Users are to refrain from spamming or soliciting previous Buyers or Sellers to pursue removing/modifying reviews or cancelling Orders that do not align on Order Cancellation or Feedback policies.
+
+### **8.3 Gigs & Seller Page**
 
   
 
-### **8.3 Gigs**
+* Sellers warrant that any content included in their Services, Gig Page and Seller Page, is original work conceived by the Seller and does not infringe any third party rights, including, without limitation, copyrights, trademarks or service marks. In the event that certain music or stock-footage media are incorporated within the Service, Gig Page or Seller Page, Sellers represent and warrant that they hold a valid license to use such music and/or footage and to include them in the Gigs.
 
   
 
-* Users may report Gigs that may be in violation of Fiverr’s Terms based on the reported Gig’s replicated similarity to pre-existing services (copycat Gigs) through our reporting system or to Customer Support.
+* Users may report Gigs, that may be in violation of Fiverr’s Terms based on the reported Gig’s replicated similarity to pre-existing services (copycat Gigs) through our reporting system or to Customer Support.
 
   
 
-* Sellers warrant that any content included in their Gigs is original work conceived by the Seller and does not infringe any third party rights, including, without limitation, copyrights, trademarks or service marks. In the event that certain music or stock-footage media are incorporated within the Gigs, Sellers represent and warrant that they hold a valid license to use such music and/or footage and to include them in the Gigs.
+* Fiverr will respond to clear and complete notices of alleged copyright or trademark infringement. To learn how to report IP violations click [here](https://help.fiverr.com/hc/en-us/articles/9596156809105-How-to-report-content-or-behavior-on-Fiverr). If you are reporting copyright or trademark infringement, see our designated Intellectual Property Claims Policy [here](https://www.fiverr.com/intellectual-property).
 
   
-
-* Fiverr will respond to clear and complete notices of alleged copyright or trademark infringement. To learn how to report our IP violations click [here](https://help.fiverr.com/hc/en-us/articles/9596156809105-How-to-report-content-or-behavior-on-Fiverr). If you are reporting copyright under DMCA or if you are reporting trademark infringement, see our designated Intellectual Property Claims Policy [here](https://www.fiverr.com/intellectual-property).
-
-###   
 
 ### **8.4 Reporting Violations**
 
   
 
-If you come across any content that may violate our Terms and/or our Community Standards, you should report it to us through the appropriate channels created to handle those issues as outlined in our Terms. All cases are reviewed by our Trust & Safety team. Our decision, among others, may rely on the information that you provided to us. To protect individual privacy, the results of the investigation are not shared. You can review our Privacy Policy for more information. Any misuse of our reporting system, as further detailed [here](https://help.fiverr.com/hc/en-us/articles/9596156809105-How-to-report-content-or-behavior-on-Fiverr), may result in restriction or a permanent suspension of the related accounts.
+If you come across any content that may violate our Terms and/or our Community Standards, you should report it to us through the appropriate channels created to handle those issues as outlined in our Terms. All cases are reviewed by our Trust & Safety team. Our decision, among others, may rely on the information that you provided to us . To protect individual privacy, the results of the investigation are not shared. You can review our Privacy Policy for more information. Any misuse of our reporting system, as further detailed [here](https://help.fiverr.com/hc/en-us/articles/9596156809105-How-to-report-content-or-behavior-on-Fiverr), may result in a restriction or a permanent suspension of the related accounts.
 
-###   
+  
 
 ### **8.5 Violations**
 
@@ -2102,39 +2149,39 @@ If you come across any content that may violate our Terms and/or our Community S
 
   
 
-* If we have taken action against a user's account or a Gig(s), for the violation of our Terms, we will send the user an email explaining the reasons and basis for such actions as well as their options regarding an additional review. For more information see our Content Moderation, Notices and Appeals section.
+* If we have taken action against a user’s account or a Gig(s), for the violation of our Terms, we will send the user an email explaining the reasons and basis for such actions as well as their options regarding an additional review. For more information see our Notices and Appeals section.
 
   
 
-**Non-Permitted Usage**
+#### **Non-Permitted Usage**
 
   
 
-* **Adult Services & Pornography** - Fiverr does not allow any exchange of adult oriented or pornographic materials and services.
+* **Adult Services & Pornography** - Fiverr does not allow any exchange of adult oriented or pornographic materials and services.
 
   
 
-* **Inappropriate Behavior & Language** - Communication on Fiverr should be friendly, constructive, and professional. Fiverr condemns bullying, harassment, and hate speech towards others. We allow users a medium for which messages are exchanged between individuals, a system to rate orders, and to engage on larger platforms such as our Community Forum and Social Media pages.
+* **Inappropriate Behavior & Language** - Communication on Fiverr should be friendly, constructive, and professional. Fiverr condemns bullying, harassment, and hate speech towards others. We allow users a medium for which messages are exchanged between individuals, a system to rate orders, and to engage on larger platforms such as our Community Forum and Social Media pages.
 
   
 
-* **Phishing and Spam** - Members’ security is a top priority. Any attempts to publish or send malicious content with the intent to compromise another member’s account or computer environment is strictly prohibited. Please respect our members privacy by not contacting them with offers, questions, suggestions or anything which is not directly related to their Gigs or orders.
+* **Phishing and Spam** - Members’ security is a top priority. Any attempts to publish or send malicious content with the intent to compromise another member’s account or computer environment is strictly prohibited. Please respect our members privacy by not contacting them with offers, questions, suggestions or anything which is not directly related to their Services  or Orders.
 
   
 
-* **Privacy & Identity** - You may not publish or post other people's private and confidential information. Any exchange of personal information required for the completion of a service must be provided in the Order Page. Sellers further confirm that whatever information they receive from the Buyer, which is not public domain, shall not be used for any purpose whatsoever other than for the delivery of the work to the Buyer. Any users who engage and communicate off of Fiverr will not be protected by our Terms of Service.
+* **Privacy & Identity** - You may not publish or post other people's private and confidential information. Any exchange of personal information required for the completion of a service must be provided in the Order Page. Sellers further confirm that whatever information they receive from the Buyer, which is not public domain, shall not be used for any purpose whatsoever other than for the delivery of the work to the Buyer. Any users who engage and communicate off of Fiverr will not be protected by our Terms of Service.
 
   
 
-* **Authentic Fiverr Profile** - You may not create a false identity on Fiverr, misrepresent your identity, create a Fiverr profile for anyone other than yourself (a real person), or use or attempt to use another user’s account or information; Your profile information, including your description, skills, location, etc., must be accurate and complete and may not be misleading, illegal, offensive or otherwise harmful. Fiverr reserves the right to require users to go through a verification process in order to use the Site (whether by using ID, phone, camera, register excerpts, documents, etc.).
+* **Authentic Fiverr Profile** - You may not create a false identity on Fiverr, misrepresent your identity, create a Fiverr profile for anyone other than yourself (a real person), or use or attempt to use another user’s account or information; Your profile information, including your description, skills, location, etc., must be accurate and complete and may not be misleading, illegal, offensive or otherwise harmful. Fiverr reserves the right to require users to go through a verification process in order to use the Site (whether by using ID, phone, camera, register excerpts, documents, etc.).    
 
   
 
-* **Intellectual Property Claims** - Fiverr will respond to clear and complete notices of alleged copyright or trademark infringement, and/or violation of third party’s terms of service. Our Intellectual Property claims procedures can be reviewed here.
+* **Intellectual Property Claims** - Fiverr will respond to clear and complete notices of alleged copyright or trademark infringement, and/or violation of third party’s terms of service. Our Intellectual Property claims procedures can be reviewed [here](https://www.fiverr.com/intellectual-property).
 
   
 
-* **Fraud / Unlawful Use** - You may not use Fiverr for any unlawful purposes or to conduct illegal activities, including to bypass economic sanctions or trade restrictions imposed by the United States, European Union or any other applicable jurisdiction.
+* **Fraud / Unlawful Use** - You may not use Fiverr for any unlawful purposes or to conduct illegal activities, including to bypass economic sanctions or trade restrictions imposed by the United States, European Union or any other applicable jurisdiction.
 
   
 
@@ -2142,15 +2189,15 @@ If you come across any content that may violate our Terms and/or our Community S
 
   
 
-* **Multiple Accounts** - To prevent fraud and abuse, users are limited to one active Fiverr account and one active Fiverr Pro account. Any additional account determined to be created to circumvent guidelines, promote competitive advantages, or mislead the Fiverr community will be disabled. Mass account creation may result in disabling of all related accounts. Note: any violations of Fiverr’s Terms may be a cause for permanent suspension of all accounts.
+* **Multiple Accounts** - To prevent fraud and abuse, users are limited to one active Fiverr account and one active Fiverr Pro account. Any additional account determined to be created to circumvent guidelines, promote competitive advantages, or mislead the Fiverr community will be disabled. Mass account creation may result in disabling of all related accounts. Note: any violations of Fiverr’s Terms may be a cause for permanent suspension of all accounts.
 
   
 
-* **Targeted Abuse** - We do not tolerate users who engage in targeted abuse or harassment towards other users on Fiverr. This includes creating new multiple accounts to harass members through our message or ordering system.
+* **Targeted Abuse** - We do not tolerate users who engage in targeted abuse or harassment towards other users on Fiverr. This includes creating new multiple accounts to harass members through our message or ordering system.
 
   
 
-* **Selling Accounts** - You may not buy or sell Fiverr accounts.
+* **Selling Accounts** - You may not buy or sell Fiverr accounts.
 
   
 
@@ -2158,19 +2205,17 @@ If you come across any content that may violate our Terms and/or our Community S
 
   
 
-We encourage our Buyers and Sellers to try and settle conflicts amongst themselves. If for any reason this fails after using the Resolution Center or if you encounter non-permitted usage on the Site, users can contact Fiverr's Customer Support department for assistance [here](http://support.fiverr.com/). For more information about disputes, Order cancellations and refunds please refer to the [Payment Terms](https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service).
-
-  
+We encourage our Buyers and Sellers to try and settle conflicts amongst themselves. If for any reason this fails after using the Resolution Center or if you encounter non-permitted usage on the Site, users can contact Fiverr's Customer Support department for assistance [here](http://support.fiverr.com/). For more information about disputes, Order cancellations and refunds please refer to the [Payment Terms](https://www.fiverr.com/content/payments-terms-and-conditions).
 
 ### **8.7 Content Moderation, Notices and Appeals**
 
-###   
+  
 
 * Fiverr is generally not obligated to proactively check the content posted by users for its legality or compatibility with Terms. We are nonetheless entitled to carry out voluntary checks on our own initiative to identify and determine illegal or incompatible content and to take appropriate measures. We may take appropriate actions if we find, or are notified of, a violation of the Terms. For more information on our content moderation processes, see [here](https://help.fiverr.com/hc/en-us/articles/22569899568913-How-we-enforce-policies).
 
   
 
-* If Fiverr takes action concerning you, your account or content, you can file a complaint against this decision. You may also file a complaint if you disagree with our decision following a notice you submitted. In both cases ,the deadline for submitting a complaint is six months following the notification of the respective decision to you. You may file a complaint by contacting our Customer Support. Please explain in your complaint why you believe we should reverse our decision.
+* If Fiverr takes action concerning you, your account or content, you can file a complaint against this decision. You may also file a complaint if you disagree with our decision following a notice you submitted. In both cases, the deadline for submitting a complaint is six months following the notification of the respective decision to you. You may file a complaint by contacting our Customer Support. Please explain in your complaint why you believe we should reverse our decision.
 
   
 
@@ -2178,7 +2223,7 @@ We encourage our Buyers and Sellers to try and settle conflicts amongst themselv
 
   
 
-* If you have your place of establishment or are located in the European Economic Area (EEA), you may select a out-of-court dispute settlement bodies that have been certified in accordance with Art. 21 (3) of the EU Digital Services Act ("**Dispute Settlement Body**") to resolve disputes relating to our decisions concerning content you uploaded or notices you submitted, including complaints that our internal complaint-handling system did not resolve.
+* If you have your place of establishment or are located in the European Economic Area (EEA), you may select a out-of-court dispute settlement bodies that have been certified in accordance with Art. 21 (3) of the EU Digital Services Act (“Dispute Settlement Body”) to resolve disputes relating to our decisions concerning content you uploaded or notices you submitted, including complaints that our internal complaint-handling system did not resolve.
 
   
 
@@ -2200,51 +2245,43 @@ The Site, including its general layout, look and feel, design, information, cont
 
 Except for the limited right to use the Site according to these Terms of Service, Fiverr owns all right, title and interest in and to the Site (including any and all intellectual property rights therein) and you agree not to take any action(s) inconsistent with such ownership interests. We reserve all rights in connection with the Site and its content (other than UGC) including, without limitation, the exclusive right to create derivative works.
 
-  
-
 ### **8.9 Feedback Rights**
 
   
 
-To the extent that you provide Fiverr with any comments, suggestions or other feedback regarding the Site, as well as other Fiverr products or services (collective, the “**Feedback**”), you will be deemed to have granted Fiverr an exclusive, royalty-free, fully paid up, perpetual, irrevocable, worldwide ownership rights in the Feedback. Fiverr is under no obligation to implement any Feedback it may receive from users.
-
-  
+To the extent that you provide Fiverr with any comments, suggestions or other feedback regarding the the Site, as well as other Fiverr products or services (collective, the “**Feedback**”), you will be deemed to have granted Fiverr an exclusive, royalty-free, fully paid up, perpetual, irrevocable, worldwide ownership rights in the Feedback. Fiverr is under no obligation to implement any Feedback it may receive from users.
 
 ### **8.10 Confidentiality**
 
   
 
-Sellers should recognize that there might be a need for Buyers to disclose certain confidential information to be used by Sellers for the purpose of delivering the ordered work, and to protect such confidential information from unauthorized use and disclosure. Therefore, Sellers agree to treat any information received from Buyers as highly sensitive, top secret and classified material. Without derogating from the generality of the above, Sellers specifically agree to (i) maintain all such information in strict confidence; (ii) not disclose the information to any third parties; (iii) not use the information for any purpose except for delivering the ordered work; and (vi) not to copy or reproduce any of the information without the Buyer’s permission.
-
-  
+Sellers should recognize that there might be a need for Buyers to disclose certain confidential information to be used by Sellers for the purpose of delivering the Services, and to protect such confidential information from unauthorized use and disclosure. Therefore, Sellers agree to treat any information received from Buyers as highly sensitive, top secret and classified material. Without derogating from the generality of the above, Sellers specifically agree to (i) maintain all such information in strict confidence; (ii) not disclose the information to any third parties; (iii) not use the information for any purpose except for delivering the Services; and (vi) not to copy or reproduce any of the information without the Buyer’s permission.
 
 **9\. User Generated Content**
 ------------------------------
 
   
 
-User Generated Content ("**UGC**") refers to the content uploaded by users as opposed to content created by the Site. All content uploaded to the Site by our users (Buyers and Sellers) is User Generated Content. Fiverr does not proactively check UGC for appropriateness, violations of copyright, trademarks, other rights or violations and the user uploading/creating such content shall be solely responsible for it and the consequences of using, disclosing, storing, or transmitting it. By uploading to, or creating content on, the Site, you represent and warrant that you own or have obtained all rights, licenses, consents, permissions, power and/or authority, necessary to use and/or upload such content and that such content or the use thereof in the Site does not and shall not (a) infringe or violate any intellectual property, proprietary or privacy, data protection or publicity rights of any third party; (b) violate any applicable local, state, federal and international laws, regulations and conventions; and/or (c) violate any of your or third party’s policies and/or terms of service. We invite everyone to report violations together with proof of ownership as appropriate. Violating content may be removed or disabled. To learn more on our reporting tools, see [here](https://help.fiverr.com/hc/en-us/articles/9596156809105-How-to-report-content-or-behavior-on-Fiverr).
+User Generated Content ("UGC") refers to the content uploaded by users as opposed to content created by the Site. All content uploaded to the Site by our users (Buyers and Sellers) is User Generated Content. Fiverr does not proactively check UGC for appropriateness, violations of copyright, trademarks, other rights or violations and the user uploading/creating such content shall be solely responsible for it and the consequences of using, disclosing, storing, or transmitting it. By uploading to, or creating content on, the Site, you represent and warrant that you own or have obtained all rights, licenses, consents, permissions, power and/or authority, necessary to use and/or upload such content and that such content or the use thereof in the Site does not and shall not (a) infringe or violate any intellectual property, proprietary or privacy, data protection or publicity rights of any third party; (b) violate any applicable local, state, federal and international laws, regulations and conventions; and/or (c) violate any of your or third party’s policies and/or terms of service. We invite everyone to report violations together with proof of ownership as appropriate. Violating content may be removed or disabled. To learn more on our reporting tools, see [here](https://help.fiverr.com/hc/en-us/articles/9596156809105-How-to-report-content-or-behavior-on-Fiverr).
 
   
 
-Furthermore, Fiverr is not responsible for the content, quality or the level of service provided by the Sellers (even if they are Pro Freelancers, Top Rated Sellers, offer Promoted Gigs or otherwise). We provide no warranty with respect to the Gigs, their delivery, any communications between Buyers and Sellers, and the Logo Designs created through the Logo Maker. We encourage users to take advantage of our rating system, our community and common sense in choosing appropriate services.
+Furthermore, Fiverr is not responsible for the content, quality or the level of service provided by the Sellers (even if they are Pro Freelancers, Top Rated Sellers, Fiverr Choice, offer Promoted Gigs or otherwise). We provide no warranty with respect to Services on Fiverr, their delivery, any communications between Buyers and Sellers, and the Logo Designs created through the Logo Maker. We encourage users to take advantage of our rating system, our community and common sense in choosing appropriate services.
 
   
 
-By offering a service, the Seller undertakes that they have sufficient permissions, rights and/or licenses to provide, sell or resell the service that is offered on Fiverr. Sellers advertising online their Gig or Logo Design created through the Logo Maker must comply with laws and terms of service of the advertising platform or relevant website used to advertise. Failing to do so may result in removal of the Gig or Logo Design from the Logo Maker, as applicable, and may lead to the suspension of Seller's account.
+By offering a Service, the Seller undertakes that they have sufficient permissions, rights and/or licenses to provide, sell or resell the service that is offered on Fiverr. Sellers advertising online their Services, including Gig Page, Seller Page, or Logo Design created through the Logo Maker must comply with laws and terms of service of the advertising platform or relevant website used to advertise. Failing to do so may result in removal of the Gig or Logo Design from the Logo Maker, as applicable, and may lead to the suspension of Seller's account.
 
   
 
-For specific terms related to Intellectual Property rights and for reporting claims of copyright infringement (DMCA notices) or trademark infringement - please see our [Intellectual Property Claims Policy](https://www.fiverr.com/legal-portal/community/intellectual-property) which forms an integral part of the Terms. Note that it is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
-
-  
+For specific terms related to Intellectual Property rights and for reporting claims of copyright infringement or trademark infringement - please see our [Intellectual Property Claims Policy](https://www.fiverr.com/intellectual-property) which forms an integral part of the Terms. Note that it is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
 
 **10\. Ownership**
 ------------------
 
   
 
-Ownership and limitations: When purchasing a Gig on Fiverr, unless clearly stated otherwise on the Seller's Gig page/description, when the work is delivered, and subject to payment, the Buyer is granted all intellectual property rights, including but not limited to, copyright in the work delivered from the Seller, and the Seller waives any and all moral rights (to the extent permitted by applicable law) therein. Accordingly, the Seller expressly assigns to the Buyer the copyright in the delivered work. All transfer and assignment of intellectual property to the Buyer shall be subject to full payment for the Gig, and the delivery may not be used if payment is cancelled for any reason. For removal of doubt, in custom created work (such as art work, design work, report generation etc.), the delivered work and its copyright shall be the exclusive property of the Buyer and, upon delivery, the Seller agrees that it thereby, pursuant to the Terms, assigns all right, title and interest in and to the delivered work to the Buyer. Some Gigs (including for custom created work) charge additional payments (through Gig Extras) for a Commercial Use License. This means that if you purchase the Gig for personal use, you will own all rights you require for such use, and will not need the Commercial Use License. If you intend to use it for any charge or other consideration, or for any purpose that is directly or indirectly in connection with any business, or other undertaking intended for profit, you will need to buy the Commercial Use License through a Gig Extra and will have broader rights that cover your business use.
+Ownership and limitations: When purchasing a Service on Fiverr, unless clearly stated otherwise on the Seller's Gig page/description or in the Custom Offer, when the work is delivered, and subject to payment, the Buyer is granted all intellectual property rights, including but not limited to, copyright in the work delivered from the Seller, and the Seller waives any and all moral rights (to the extent permitted by applicable law) therein. Accordingly, the Seller expressly assigns to the Buyer the copyright in the delivered work. All transfer and assignment of intellectual property to the Buyer shall be subject to full payment, and the delivery may not be used if payment is cancelled for any reason. For removal of doubt, in custom created work (such as art work, design work, report generation etc.), the delivered work and its copyright shall be the exclusive property of the Buyer and, upon delivery, the Seller agrees that it thereby, pursuant to the Terms, assigns all right, title and interest in and to the delivered work to the Buyer_._ Some Gigs (including for custom created work) charge additional payments (through Gig Extras) for a Commercial Use License. This means that if you purchase the Gig for personal use, you will own all rights you require for such use, and will not need the Commercial Use License. If you intend to use it for any charge or other consideration, or for any purpose that is directly or indirectly in connection with any business, or other undertaking intended for profit, you will need to buy the Commercial Use License through a Gig Extra and will have broader rights that cover your business use.
 
   
 
@@ -2252,37 +2289,37 @@ For Voice Over Gigs, when the work is delivered, and subject to payment, the Buy
 
   
 
-Furthermore, users (both Buyers and Sellers) agree that unless they explicitly indicate otherwise, the content users voluntarily create/upload to Fiverr, including Gig texts, photos, videos, usernames, user photos, user videos and any other information, including the display of delivered work, may be used by Fiverr for no consideration for marketing purposes and/or other purposes relevant for the operation and function of the Site.
-
-  
+Furthermore, users (both Buyers and Sellers) agree that unless they explicitly indicate otherwise, the content users voluntarily create/upload to Fiverr, including Gig texts, photos, videos, usernames, user photos, user videos and any other information, including the display of delivered work, may be used by Fiverr for no consideration for marketing purposes and/or other purpose relevant for the operation and function of the Site.
 
 ### **10.1 Voice Over Commercial Buy-Out**
 
   
 
-When purchasing a Voice Over Gig, the Seller grants you a non-commercial perpetual, exclusive, non-transferable, worldwide license to use the purchased Voice Over. This excludes any commercial use, including radio, television and internet commercial spots.
+When purchasing a Voice Over Service, the Seller grants you a non-commercial, perpetual, exclusive, non-transferable, worldwide license to use the purchased Voice Over. This excludes any commercial use, including radio, television and internet commercial spots.
 
   
 
-By purchasing a Commercial Rights (Buy-Out) with your order, in addition to the basic rights, the Seller grants you with a license to use the Voice Over for any commercial, promotional and non-broadcast purposes for such period agreed with the Seller (and unless agreed otherwise - in perpetuity). Commercial, promotional and non-broadcast purposes means any business related use for the creation of, or to promote a for-profit product or service (with the exception of paid marketing channels), such as (by way of example): explainer videos posted to company websites, social networks or email campaigns, audiobooks, podcast intros, and strictly excludes any illegal, immoral or defamatory purpose.
+By purchasing a Commercial Rights (Buy-Out) with your Order, in addition to the basic rights, the Seller grants you with a license to use the Voice Over for any commercial promotional and non-broadcast purposes for such period agreed with the Seller (and unless agreed otherwise - in perpetuity). Commercial, promotional and non-broadcast purposes means any business related use for the creation of, or to promote a for-profit product or service (with the exception of paid marketing channels), such as (by way of example): explainer videos posted to company websites, social networks or email campaigns, audiobooks, podcast intros, and strictly excludes any illegal, immoral or defamatory purpose.
 
   
 
-By purchasing a Full Broadcast Rights (Buy-Out) with your order, in addition to the Commercial Rights, the Seller grants you with a license for full broadcasting for such period agreed with the Seller (and unless agreed otherwise - in perpetuity). Full Broadcasting includes internet, radio, and TV "paid channels", such as (by way of example), television commercials, radio commercials, internet radio, and music/video streaming platforms, and strictly excludes any illegal, immoral or defamatory purpose.
+By purchasing a Full Broadcast Rights (Buy-Out) with your Order, in addition to the Commercial Rights, the Seller grants you with a license for full broadcasting for such period agreed with the Seller (and unless agreed otherwise - in perpetuity). Full Broadcasting includes internet, radio, and TV "paid channels", such as (by way of example), television commercials, radio commercials, internet radio, and music/video streaming platforms, and strictly excludes any illegal, immoral or defamatory purpose.
 
   
 
 This Buy-Out is subject to Fiverr's Terms. There is no warranty, express or implied, with the purchase of this delivery, including with respect to fitness for a particular purpose. Neither the Seller nor Fiverr will be liable for any claims, or incidental, consequential or other damages arising out of this license, the delivery or your use of the delivery.
 
-  
-
-### **10.2 Gig Commercial Use License**
+### **10.2 Commercial Use License**
 
   
 
-By purchasing a “Commercial Use License” with your Gig Order, the Seller grants you a perpetual, exclusive, non-transferable, worldwide license to use the purchased delivery for Permitted Commercial Purposes. For the avoidance of doubt, the Seller retains all ownership rights. “Permitted Commercial Purposes” means any business related use, such as (by way of example) advertising, promotion, creating web pages, integration into product, software or other business related tools etc., and strictly excludes any illegal, immoral or defamatory purpose. This License is subject to Fiverr’s Terms. There is no warranty, express or implied, with the purchase of this delivery, including with respect to fitness for a particular purpose. Neither the Seller nor Fiverr will be liable for any claims, or incidental, consequential or other damages arising out of this license, the delivery or your use of the delivery.
+By purchasing a “Commercial Use License” with your Order, the Seller grants you a perpetual, exclusive, non-transferable, worldwide license to use the purchased delivery for Permitted Commercial Purposes. For the avoidance of doubt, the Seller retains all ownership rights. “Permitted Commercial Purposes” means any business related use, such as (by way of example) advertising, promotion, creating web pages, integration into product, software or other business related tools etc., and strictly excludes any illegal, immoral or defamatory purpose. This License is subject to Fiverr’s Terms. There is no warranty, express or implied, with the purchase of this delivery, including with respect to fitness for a particular purpose. Neither the Seller nor Fiverr will be liable for any claims, or incidental, consequential or other damages arising out of this license, the delivery or your use of the delivery.
 
-###   
+### **10.3 Stock Media**
+
+  
+
+For Gigs that offer integration of Stock Media in the delivered work through Gig Extras, the Stock Media license terms, available [here](https://www.fiverr.com/legal-portal/legal-terms/shutterstock-licensed-media-terms-and-tonditions), apply. Buyers are granted a license to use the delivered work containing Stock Media in accordance with these [terms](https://www.fiverr.com/legal-portal/legal-terms/shutterstock-licensed-media-terms-and-tonditions) which outline the permissible uses and restrictions associated with the Stock Media.
 
 **11\. Disclaimer of Warranties**
 ---------------------------------
@@ -2294,8 +2331,6 @@ YOUR USE OF THE SITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE
   
 
 THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
-
-###   
 
 **12\. Machine Translation**
 ----------------------------
@@ -2312,8 +2347,6 @@ Google disclaims all warranties related to the translations, express or implied,
 
 The official text is the English version of the Site. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the accuracy of the information contained in the translated content, please refer to the English version of the content which is the official version.
 
-###   
-
 **13\. Limitation on Liability**
 --------------------------------
 
@@ -2329,7 +2362,7 @@ THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED 
 
 The term “Affiliate” referred to herein, is an entity that, directly or indirectly, controls, or is under the control of, or is under common control with Fiverr, where control means having more than fifty percent (50%) voting stock or other ownership interest or the majority of voting rights of such entity.
 
-###   
+  
 
 **14\. Deactivate and Disable Account**
 ---------------------------------------
@@ -2348,7 +2381,7 @@ The term “Affiliate” referred to herein, is an entity that, directly or indi
 
   
 
-* Users may also deactivate their account with Fiverr at any time from their account settings. Users that deactivate their account will still be responsible for any outstanding payment obligations. For more information, see "[How to deactivate or permanently delete your account](https://help-pro.fiverr.com/hc/en-us/articles/16193988043025-How-to-deactivate-or-permanently-delete-your-account#:~:text=To%20delete%20your%20account%3A,from%20the%20dropdown%20%3E%20Deactivate%20Account.)".
+* Users may also deactivate their account with Fiverr at any time from their account settings. Users that deactivate their account will still be responsible for any outstanding payment obligations. For more information, see "[How to deactivate or permanently delete your account (opens in a new tab)](https://help-pro.fiverr.com/hc/en-us/articles/16193988043025-How-to-deactivate-or-permanently-delete-your-account#:~:text=To%20delete%20your%20account%3A,from%20the%20dropdown%20%3E%20Deactivate%20Account.)".
 
   
 
@@ -2382,7 +2415,7 @@ The term “Affiliate” referred to herein, is an entity that, directly or indi
 
   
 
-* You understand and agree that if you use Fiverr after the date on which the Terms have changed, Fiverr will treat your use as acceptance of the updated Terms. If you do not agree to the changes of the Terms, you will have to deactivate your account. For more information, see "[How to deactivate or permanently delete your account](https://help-pro.fiverr.com/hc/en-us/articles/16193988043025-How-to-deactivate-or-permanently-delete-your-account#:~:text=To%20delete%20your%20account%3A,from%20the%20dropdown%20%3E%20Deactivate%20Account.)".
+* You understand and agree that if you use Fiverr after the date on which the Terms have changed, Fiverr will treat your use as acceptance of the updated Terms. If you do not agree to the changes of the Terms, you will have to deactivate your account. For more information, see "[How to deactivate or permanently delete your account (opens in a new tab)](https://help-pro.fiverr.com/hc/en-us/articles/16193988043025-How-to-deactivate-or-permanently-delete-your-account#:~:text=To%20delete%20your%20account%3A,from%20the%20dropdown%20%3E%20Deactivate%20Account.)".
 
   
 
@@ -2394,9 +2427,7 @@ The term “Affiliate” referred to herein, is an entity that, directly or indi
 
   
 
-To the fullest extent possible pursuant to applicable law, you agree to defend, indemnify, and hold Fiverr harmless, including its officers, directors, or shareholders, employees, affiliates and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs, debt and expenses (including attorneys’ fees) arising from: (1) your violation of any of these Terms or any other Fiverr Terms, policies and standards; (2) your violation of any third-party right, including any intellectual property right, access rights, property, or privacy right; and/or (3) any other type of claim that your Gig Page and/or Gigs and/or your use of the Site or services caused to a third party, provided that Fiverr acts with reasonable professional diligence. Fiverr reserves the right to handle its legal defense however it deems fit—even if you are indemnifying Fiverr—in which case you agree to cooperate with Fiverr so it can execute its strategy.
-
-  
+To the fullest extent possible pursuant to applicable law, you agree to defend, indemnify, and hold Fiverr harmless, including its officers, directors, or shareholders, employees, affiliates and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs, debt and expenses (including attorneys’ fees) arising from: (1) your violation of any of these Terms or any other Fiverr Terms, policies and standards; (2) your violation of any third-party right, including any intellectual property right, access rights, property, or privacy right; and/or (3) any other type of claim that your Gig Page, Seller Page, Services, your profile and/or your use of the Site or Fiverr services caused to a third party, provided that Fiverr acts with reasonable professional diligence. Fiverr reserves the right to handle its legal defense however it deems fit—even if you are indemnifying Fiverr—in which case you agree to cooperate with Fiverr so it can execute its strategy.
 
 ### **16.3 Severability**
 
@@ -2404,15 +2435,13 @@ To the fullest extent possible pursuant to applicable law, you agree to defend, 
 
 If any part of the Terms is found to be unenforceable, that part will be limited to the minimum extent necessary so that the Terms will otherwise remain in full force and effect. Fiverr’s failure to enforce any part of the Terms is not a waiver of its right to later enforce that or any other part of the Terms.
 
-  
-
 ### **16.4 Entire Agreement**
 
   
 
 Our Terms constitute the entire agreement concerning the subject matter therein, and supersede any other agreement regarding the Site or services.
 
-  
+###   
 
 ### **16.5 Interpretation**
 
@@ -2422,7 +2451,9 @@ Our Terms constitute the entire agreement concerning the subject matter therein,
 
   
 
-* The original language of the Terms is English. Fiverr makes this translation available for convenience only. In case of conflicts between the original English version and any translation, the English version shall prevail. For consumers only, if you are residing in the EEA, the interpretation more favorable with the consumer shall prevail.
+* The original language of the Terms is English. Fiverr makes this translation available for convenience only. In case of conflicts between the original English version and any translation, the English version shall prevail. For consumers only, if you are residing in the EEA, the interpretation more favorable with the consumer shall prevail.
+
+  
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=1269a57212df4631b866219ba2013fa8)![](https://cdn.builder.io/api/v1/pixel?apiKey=1269a57212df4631b866219ba2013fa8)
 
