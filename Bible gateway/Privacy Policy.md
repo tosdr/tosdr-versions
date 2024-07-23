@@ -38,11 +38,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[BibleGateway+ is less than $5/mo. 50+ premium resources (now $3,100+ value!).](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_5permonth_value_053024)
+[Be **encouraged** daily by Max Lucado.](https://www.biblegateway.com/landing/encouragingword/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_lucado20240716)
 
 close
 
-[Interested in learning Biblical Greek? Take 5 Steps and start your Bible Gateway Plus FREE trial. Learn more!](https://www.biblegateway.com/join/5-steps-to-understanding-biblical-greek/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_greekchallenge)
+[Less than $5/mo. to access to $3,100 worth of PREMIUM resources to enhance your UNDERSTANDING of Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100for5_071624)
 
 close
 
