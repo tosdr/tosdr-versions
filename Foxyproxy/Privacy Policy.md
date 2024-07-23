@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I must say you guys are very responsive and helpful. It's refreshing in today's world!
+Service has been as been as smooth as the ice we endured last month. No problems at all, still quick, consistant connections as well.
 
-Tim C.
+Dennis Cote
