@@ -523,7 +523,7 @@ Apply
     
     3327 total reviews
     
-* On sale
+* Sold out
     
     [![PupRug™ Runner Faux Fur Memory Foam Dog Bed - Curve White with Brown Accents](//www.alphapaw.com/cdn/shop/files/11_ae532a7a-6486-4bf7-8f90-43472cc1f631_533x.jpg?v=1712597248)
     
