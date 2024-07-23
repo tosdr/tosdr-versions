@@ -4,7 +4,7 @@
 * [+91-9831405832](tel: +91-9831405832)
 * [info@contentspotlight.org](mailto:info@contentspotlight.org)
 
-[![Content Spotlight - A Keyword Research SEO company](https://i0.wp.com/www.contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png?fit=400%2C400&ssl=1)](https://www.contentspotlight.org/)
+[![Content Spotlight - A Keyword Research SEO company](https://www.contentspotlight.org/wp-content/uploads/2023/01/0001-1965548380.png)](https://www.contentspotlight.org/)
 
 [CONTENT SPOTLIGHT](https://www.contentspotlight.org/)
 ======================================================
@@ -27,25 +27,6 @@ By accessing ‘www.contentspotlight.org’, you consent to the use of the below
 **CONTENT SUBMISSION**
 
 ‘CONTENT SPOTLIGHT’ does not have control over your content. It does not give any guarantee to the content posted or submitted by other bloggers and writers to the correctness, quality, or legality. Under no circumstances will we be accountable in any way for any content or infringement of other’s rights including intellectual rights.
-
-### Share this:
-
-* [Click to share on Pinterest (Opens in new window)](https://www.contentspotlight.org/terms-of-use/?share=pinterest "Click to share on Pinterest")
-* [Click to share on LinkedIn (Opens in new window)](https://www.contentspotlight.org/terms-of-use/?share=linkedin "Click to share on LinkedIn")
-
-### Like this:
-
-Like Loading...
-
-* * *
-
-### Discover more from CONTENT SPOTLIGHT
-
-Subscribe to get the latest posts sent to your email.
-
-Type your email… 
-
-        Subscribe
 
 [![DMCA.com Protection Status](https://images.dmca.com/Badges/dmca_protected_sml_120g.png?ID=d2228e87-b455-44e4-a401-ff8698cd0998)](https://www.dmca.com/Protection/Status.aspx?ID=d2228e87-b455-44e4-a401-ff8698cd0998 "DMCA.com Protection Status")
 
@@ -133,5 +114,3 @@ Accept Deny View preferences Save preferences [View preferences](#)
 [{title}](#) [{title}](#) [{title}](#)
 
 Manage consent
-
-%d
