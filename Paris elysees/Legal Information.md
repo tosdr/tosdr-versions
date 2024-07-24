@@ -26,78 +26,6 @@ No products in the cart.
 
 Select Page
 
-[Contact details & Contact Form](https://paris-elysees.com/homepage/contact-paris-elysees/ "Contact Paris Elysees Parfums Europe")
-
-#### Paris Elysees Perfumes & Beauty
-
-_Global Distribution_  
-Calle Gran de Gracia 15 / 3 / 2, 08012 Barcelone, Espagne.
-
-#### Laboratoires Paris Elysees
-
-_Logistic Europe_  
-+32 56 84 34 14  
-info@paris-elysees.com
-
-You can also get in touch with us via our [Contact Form](https://paris-elysees.com/homepage/contact-paris-elysees/ "Contact Paris Elysees using our Contact Form")
-
-![P.E. Classics Collection of Fragrances for Women | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/11/250px_SquareSil_W_ClassicsCollection.jpg "P.E. Classics Collection of Fragrances for Women | Paris Elysees Parfums")
-
-[P.E. Classics  
-Collection](https://paris-elysees.com/product-category/women-fragrances/classics/ "P.E. Classics Collection of Fragrances for Women")
-
-[Billion Woman Night NEW!](https://paris-elysees.com/product/billion-woman-night/ "Billion Woman Night Eau de Toilette 100ml (3.3 fl.oz) for Women")  
-[Sexy Woman Love NEW!](https://paris-elysees.com/product/sexy-woman-love/ "Sexy Woman Love Eau de Toilette 100ml (3.3 fl.oz) for Women")  
-[Blue Melody NEW!](https://paris-elysees.com/product/blue-melody/ "Blue Melody Eau de Toilette 100ml (3.3 fl.oz) for Women")  
-[Billion Woman](https://paris-elysees.com/product/billion-woman/ "Billion Woman Eau de Toilette 100ml (3.3 fl.oz) for Women")  
-[Billion Woman Love](https://paris-elysees.com/product/billion-woman-love/ "Billion Woman Love Eau de Toilette 100ml (3.3 fl.oz) for Women")
-
-![Vodka Feminine Collection of Fragrances for Women | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_MW_VodkaCollection.jpg "Vodka Feminine Collection of Fragrances for Women | Paris Elysees Parfums")
-
-[Vodka Feminine  
-Collection](https://paris-elysees.com/product-category/women-fragrances/vodka-women/ "Vodka Feminine Collection of Fragrances for Women")
-
-[Vodka Love](https://paris-elysees.com/product/vodka-love/ "Vodka Love Eau de Toilette 100ml (3.3 fl.oz) for Women")
-
-![Romantic Collection of Fragrances for Women | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_W_RomanticCollection.jpg "Romantic Collection of Fragrances for Women | Paris Elysees Parfums")
-
-[Romantic  
-Collection](https://paris-elysees.com/product-category/women-fragrances/romantic/ "Romantic Collection of Fragrances for Women")
-
-[Romantic Dream](https://paris-elysees.com/product/romantic-dream/ "Romantic Dream Eau de Parfum 100ml (3.3 fl.oz) for Women")  
-[Romantic Glamour](https://paris-elysees.com/product/romantic-glamour/ "Romantic Glamour Eau de Parfum 100ml (3.3 fl.oz) for Women")  
-[Romantic Night](https://paris-elysees.com/product/romantic-night/ "Romantic Night Eau de Parfum 100ml (3.3 fl.oz) for Women")
-
-![Billion Dollar Collection of Fragrances for Men | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_M_BillionDollarCollection.jpg "Billion Dollar Collection of Fragrances for Men | Paris Elysees Parfums")
-
-[Billion Dollar  
-Collection](https://paris-elysees.com/product-category/men-fragrances/billion-dollar/ "Billion Dollar Collection of Fragrances for Men")
-
-[Billion Dollar Night NEW!](https://paris-elysees.com/product/billion-dollar-night/ "Billion Dollar Night Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Billion Dollar](https://paris-elysees.com/product/billion-dollar/ "Billion Dollar Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Billion Dollar Casino Royal](https://paris-elysees.com/product/billion-dollar-casino-royal/ "Billion Dollar Casino Royal Eau de Toilette 100ml (3.3 fl.oz) for Men")
-
-![Caviar Collection of Fragrances for Men | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_M_CaviarCollection.jpg "Caviar Collection of Fragrances for Men | Paris Elysees Parfums")
-
-[Caviar  
-Collection](https://paris-elysees.com/product-category/men-fragrances/caviar/ "Caviar Collection of Fragrances for Men")
-
-[Caviar Night NEW!](https://paris-elysees.com/product/caviar-night/ "Caviar Night Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Caviar Amber](https://paris-elysees.com/product/caviar-amber/ "Caviar Amber Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Caviar Black](https://paris-elysees.com/product/caviar-black/ "Caviar Black Eau de Toilette 100ml (3.3 fl.oz) for Men")
-
-![Vodka Masculine Collection of Fragrances for Men | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_MW_VodkaCollection.jpg "Vodka Masculine Collection of Fragrances for Men | Paris Elysees Parfums")
-
-[Vodka Masculine  
-Collection](https://paris-elysees.com/product-category/men-fragrances/vodka-men/ "Vodka Masculine Collection of Fragrances for Men")
-
-[Vodka Wild NEW!](https://paris-elysees.com/product/vodka-wild/ "Vodka Wild Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Vodka Diamond](https://paris-elysees.com/product/vodka-diamond/ "Vodka Diamond Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Vodka Extreme](https://paris-elysees.com/product/vodka-extreme/ "Vodka Extreme Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Vodka Limited Edition](https://paris-elysees.com/product/vodka-limited-edition/ "Vodka Limited Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Vodka Man](https://paris-elysees.com/product/vodka-man/ "Vodka Man Eau de Toilette 100ml (3.3 fl.oz) for Men")  
-[Vodka Night](https://paris-elysees.com/product/vodka-night/ "Vodka Night Eau de Toilette 100ml (3.3 fl.oz) for Men")
-
 Paris Elysees [Homepage](https://paris-elysees.com/) > Legal Notice
 
 ##### table of content
@@ -274,5 +202,77 @@ Account
 © 2021-23 Paris Elysees Parfums | All Rights Reserved Worldwide.
 
  [](https://parely.at/FaceBook "Paris Elysees is on FaceBook")  [](https://parely.at/Twitter "Paris Elysees is on Twitter")  [](https://parely.at/Instagram "Paris Elysees is on Instagram")  [](https://parely.at/YouTube "Paris Elysees is on YouTube")
+
+[Contact details & Contact Form](https://paris-elysees.com/homepage/contact-paris-elysees/ "Contact Paris Elysees Parfums Europe")
+
+#### Paris Elysees Perfumes & Beauty
+
+_Global Distribution_  
+Calle Gran de Gracia 15 / 3 / 2, 08012 Barcelone, Espagne.
+
+#### Laboratoires Paris Elysees
+
+_Logistic Europe_  
++32 56 84 34 14  
+info@paris-elysees.com
+
+You can also get in touch with us via our [Contact Form](https://paris-elysees.com/homepage/contact-paris-elysees/ "Contact Paris Elysees using our Contact Form")
+
+![P.E. Classics Collection of Fragrances for Women | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/11/250px_SquareSil_W_ClassicsCollection.jpg "P.E. Classics Collection of Fragrances for Women | Paris Elysees Parfums")
+
+[P.E. Classics  
+Collection](https://paris-elysees.com/product-category/women-fragrances/classics/ "P.E. Classics Collection of Fragrances for Women")
+
+[Billion Woman Night NEW!](https://paris-elysees.com/product/billion-woman-night/ "Billion Woman Night Eau de Toilette 100ml (3.3 fl.oz) for Women")  
+[Sexy Woman Love NEW!](https://paris-elysees.com/product/sexy-woman-love/ "Sexy Woman Love Eau de Toilette 100ml (3.3 fl.oz) for Women")  
+[Blue Melody NEW!](https://paris-elysees.com/product/blue-melody/ "Blue Melody Eau de Toilette 100ml (3.3 fl.oz) for Women")  
+[Billion Woman](https://paris-elysees.com/product/billion-woman/ "Billion Woman Eau de Toilette 100ml (3.3 fl.oz) for Women")  
+[Billion Woman Love](https://paris-elysees.com/product/billion-woman-love/ "Billion Woman Love Eau de Toilette 100ml (3.3 fl.oz) for Women")
+
+![Vodka Feminine Collection of Fragrances for Women | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_MW_VodkaCollection.jpg "Vodka Feminine Collection of Fragrances for Women | Paris Elysees Parfums")
+
+[Vodka Feminine  
+Collection](https://paris-elysees.com/product-category/women-fragrances/vodka-women/ "Vodka Feminine Collection of Fragrances for Women")
+
+[Vodka Love](https://paris-elysees.com/product/vodka-love/ "Vodka Love Eau de Toilette 100ml (3.3 fl.oz) for Women")
+
+![Romantic Collection of Fragrances for Women | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_W_RomanticCollection.jpg "Romantic Collection of Fragrances for Women | Paris Elysees Parfums")
+
+[Romantic  
+Collection](https://paris-elysees.com/product-category/women-fragrances/romantic/ "Romantic Collection of Fragrances for Women")
+
+[Romantic Dream](https://paris-elysees.com/product/romantic-dream/ "Romantic Dream Eau de Parfum 100ml (3.3 fl.oz) for Women")  
+[Romantic Glamour](https://paris-elysees.com/product/romantic-glamour/ "Romantic Glamour Eau de Parfum 100ml (3.3 fl.oz) for Women")  
+[Romantic Night](https://paris-elysees.com/product/romantic-night/ "Romantic Night Eau de Parfum 100ml (3.3 fl.oz) for Women")
+
+![Billion Dollar Collection of Fragrances for Men | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_M_BillionDollarCollection.jpg "Billion Dollar Collection of Fragrances for Men | Paris Elysees Parfums")
+
+[Billion Dollar  
+Collection](https://paris-elysees.com/product-category/men-fragrances/billion-dollar/ "Billion Dollar Collection of Fragrances for Men")
+
+[Billion Dollar Night NEW!](https://paris-elysees.com/product/billion-dollar-night/ "Billion Dollar Night Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Billion Dollar](https://paris-elysees.com/product/billion-dollar/ "Billion Dollar Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Billion Dollar Casino Royal](https://paris-elysees.com/product/billion-dollar-casino-royal/ "Billion Dollar Casino Royal Eau de Toilette 100ml (3.3 fl.oz) for Men")
+
+![Caviar Collection of Fragrances for Men | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_M_CaviarCollection.jpg "Caviar Collection of Fragrances for Men | Paris Elysees Parfums")
+
+[Caviar  
+Collection](https://paris-elysees.com/product-category/men-fragrances/caviar/ "Caviar Collection of Fragrances for Men")
+
+[Caviar Night NEW!](https://paris-elysees.com/product/caviar-night/ "Caviar Night Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Caviar Amber](https://paris-elysees.com/product/caviar-amber/ "Caviar Amber Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Caviar Black](https://paris-elysees.com/product/caviar-black/ "Caviar Black Eau de Toilette 100ml (3.3 fl.oz) for Men")
+
+![Vodka Masculine Collection of Fragrances for Men | Paris Elysees Parfums](https://paris-elysees.com/wp-content/uploads/2021/09/250px_SquareSil_MW_VodkaCollection.jpg "Vodka Masculine Collection of Fragrances for Men | Paris Elysees Parfums")
+
+[Vodka Masculine  
+Collection](https://paris-elysees.com/product-category/men-fragrances/vodka-men/ "Vodka Masculine Collection of Fragrances for Men")
+
+[Vodka Wild NEW!](https://paris-elysees.com/product/vodka-wild/ "Vodka Wild Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Vodka Diamond](https://paris-elysees.com/product/vodka-diamond/ "Vodka Diamond Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Vodka Extreme](https://paris-elysees.com/product/vodka-extreme/ "Vodka Extreme Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Vodka Limited Edition](https://paris-elysees.com/product/vodka-limited-edition/ "Vodka Limited Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Vodka Man](https://paris-elysees.com/product/vodka-man/ "Vodka Man Eau de Toilette 100ml (3.3 fl.oz) for Men")  
+[Vodka Night](https://paris-elysees.com/product/vodka-night/ "Vodka Night Eau de Toilette 100ml (3.3 fl.oz) for Men")
 
 ### Pin It on Pinterest
