@@ -141,7 +141,7 @@ Education
 * [Microsoft in education](https://www.microsoft.com/en-us/education)
 * [Devices for education](https://www.microsoft.com/en-us/education/devices/overview)
 * [Microsoft Teams for Education](https://www.microsoft.com/en-us/education/products/teams)
-* [Microsoft 365 Education](https://www.microsoft.com/en-us/education/buy-license/microsoft365)
+* [Microsoft 365 Education](https://www.microsoft.com/en-us/education/products/microsoft-365)
 * [How to buy for your school](https://www.microsoft.com/education/how-to-buy)
 * [Educator training and development](https://education.microsoft.com/)
 * [Deals for students and parents](https://www.microsoft.com/en-us/store/b/education)
