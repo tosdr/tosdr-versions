@@ -205,7 +205,7 @@ Privacy Policy for Businesses
 
 Privacy Notice
 
-Last Updated: 6 January 2023
+Last Updated: 23 July 2024
 
 **Summary**  
   
@@ -469,8 +469,12 @@ XIV
       
           Collegium Auditores GmbH  
           Datenschutz OROPE  
-          Wilhelmstrasse 74, 53721 Siegburg, Germany  
+          Haufeld 2a, 53721 Siegburg, Germany  
     
+* Our UK representative is：  
+      
+          Unumplus Limited  
+          7 Albert Buildings, 49 Queen Victoria Street, London, United Kingdom, EC4N 4SA
 * Our EU representative is：  
       
           OROPE Germany GmbH  
