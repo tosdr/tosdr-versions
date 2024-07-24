@@ -2,13 +2,13 @@
 
 Live webinar
 
-  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MjMyOjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MjMzOjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
+  ![Arrow Down](data:image/svg+xml;nitro-empty-id=MjMzOjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MjM0OjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
 
 | Accessibility Outlook: Laws, Lawsuits, and Learnings Shaping Compliance in 2024 |
 
 [Register today](https://www.levelaccess.com/resources/webinar-accessibility-outlook-laws-lawsuits-and-learnings-shaping-compliance-in-2024/)
 
-[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MjU3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
+[![Level Access logo - Go to home page](data:image/svg+xml;nitro-empty-id=MjU4OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.levelaccess.com/)
 
 Main menu
 
@@ -295,7 +295,7 @@ Arlington, VA 22201, USA
 
 We thank you for your interest in our privacy program. Your feedback helps us realize our commitment to provide and improve a transparent and robust privacy program for all people with whom we interact.
 
-![Level Access logo](data:image/svg+xml;nitro-empty-id=ODA5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Level Access logo](data:image/svg+xml;nitro-empty-id=ODEwOjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzY4IDE4NSIgd2lkdGg9IjM2OCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 1310 N Courthouse Road  
 Suite 860  
@@ -306,11 +306,11 @@ Arlington, VA 22201
 Follow us
 ---------
 
-[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODI4OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
+[![X previously Twitter logo](data:image/svg+xml;nitro-empty-id=ODI5OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://twitter.com/levelaccessa11y)
 
-[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODM3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
+[![YouTube icon](data:image/svg+xml;nitro-empty-id=ODM4OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.youtube.com/@LevelAccessA11y)
 
-[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODQ2OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
+[![LinkedIn logo](data:image/svg+xml;nitro-empty-id=ODQ3OjIy-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://www.linkedin.com/company/level-access/)
 
 ### Solutions
 
