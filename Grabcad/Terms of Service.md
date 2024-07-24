@@ -17,7 +17,7 @@ Get to know GrabCAD as an open software platform for Additive Manufacturing
     
     * [Community](https://grabcad.com/dashboard)
 
-* [Log in](https://grabcad.com/community/login?return=true)
+* [Log in](https://grabcad.com/community/login)
 
 * * [Library](https://grabcad.com/library)
     * [Challenges](https://grabcad.com/challenges)
