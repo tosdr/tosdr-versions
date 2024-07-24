@@ -277,6 +277,7 @@ IEEE Help Main Menu
 
 * [Create an IEEE Account](https://www.ieee.org/about/help/my-account/web-account.html)
 * [Join IEEE or an IEEE Society](https://www.ieee.org/about/help/my-account/join-ieee-or-an-ieee-society.html)
+* [Create an IEEE Account](https://www.ieee.org/about/help/my-account/web-account-1.html)
 
  The below terms and conditions govern your use of all IEEE Web sites unless noted otherwise by a Web site in its own terms of use.
 
