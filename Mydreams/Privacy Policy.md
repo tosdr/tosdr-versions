@@ -46,7 +46,6 @@ Košík je prázdný
 * [VPS servery](https://www.mydreams.cz/cz/vps-servery.html)
     
     * [\# Srovnání VPS #](https://www.mydreams.cz/cz/vps-servery.html)
-    * [Super levné VPS](https://www.mydreams.cz/cz/vps-servery/super-levne-vps.html)
     * [VPS server Light](https://www.mydreams.cz/cz/vps-servery/vps-server-light.html)
     * [VPS server Full](https://www.mydreams.cz/cz/vps-servery/vps-server-full.html)
     * [VPS server Full + Správa](https://www.mydreams.cz/cz/vps-servery/vps-server-full-sprava.html)
