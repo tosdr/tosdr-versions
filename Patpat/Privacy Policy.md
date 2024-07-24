@@ -2,6 +2,7 @@ Free Shipping Over €36.00 | Easy Returns
 
 [](https://eur.patpat.com/)
 
+* [Halloween](https://eur.patpat.com/category/halloween.html)
 * [New In](https://eur.patpat.com/category/new-in.html)
 * [Characters](https://eur.patpat.com/category/characters.html)
 * [Baby](https://eur.patpat.com/category/baby-clothes.html)
@@ -1954,6 +1955,15 @@ Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons,
 This privacy statement has been prepared based on provisions of multiple legislations.
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
+
+Use of Customer Content in Advertisements
+-----------------------------------------
+
+By sharing content (such as photos, videos, or reviews) on our platform, you agree to grant PatPat the right to use this content for promotional purposes, including advertisements displayed on our website and other marketing materials. This includes the right to display, reproduce, and distribute your content in various forms of media.
+
+We respect your privacy and will handle your personal information in accordance with our privacy policy. Your consent to use your content in advertisements is given when you submit it to our platform. If you have any concerns or wish to opt-out of this authorization, please contact our customer service team.
+
+This authorization applies to customers based in the United States, Europe, and other regions where we operate, in compliance with relevant data protection laws such as GDPR and CCPA. You have the right to request deletion of your data or to opt-out of promotional use at any time.
 
 Latest update: March 08, 2024
 
