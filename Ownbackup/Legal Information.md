@@ -102,17 +102,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Data Archiving
+[ServiceNow
 
-How Can Automated Data Archiving Simplify Regulatory Compliance](https://www.ownbackup.com/blog/salesforce-data-retention-for-regulatory-compliance)
+Safeguarding ServiceNow: Admin Tips for Data Resilience](https://www.ownbackup.com/blog/safeguarding-servicenow-admin-tips-for-data-resilience)
 
-[Data Archiving
+[Data Seeding
 
-Preserve Your Data with Confidence: Why Data Archiving is Essential During Economic Uncertainty](https://www.ownbackup.com/blog/why-data-archiving-is-essential-during-economic-uncertainty)
+Four Ways To Ensure More Error-Free Releases in Salesforce](https://www.ownbackup.com/blog/four-ways-to-ensure-more-error-free-releases-in-salesforce)
 
-[Data Archiving
+[Backup and Recovery
 
-Spring Clean Your Data: Why Archiving Is the Ultimate Organizational Tool](https://www.ownbackup.com/blog/spring-clean-your-data-with-archive)
+Your Salesforce Org Doesn’t Need to Stop Growing. It Just Needs Some Guardrails.](https://www.ownbackup.com/blog/your-salesforce-org-doesnt-need-to-stop-growing-it-just-needs-some-guardrails)
 
 Company
 
@@ -308,17 +308,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Data Archiving
+[ServiceNow
 
-How Can Automated Data Archiving Simplify Regulatory Compliance](https://www.ownbackup.com/blog/salesforce-data-retention-for-regulatory-compliance)
+Safeguarding ServiceNow: Admin Tips for Data Resilience](https://www.ownbackup.com/blog/safeguarding-servicenow-admin-tips-for-data-resilience)
 
-[Data Archiving
+[Data Seeding
 
-Preserve Your Data with Confidence: Why Data Archiving is Essential During Economic Uncertainty](https://www.ownbackup.com/blog/why-data-archiving-is-essential-during-economic-uncertainty)
+Four Ways To Ensure More Error-Free Releases in Salesforce](https://www.ownbackup.com/blog/four-ways-to-ensure-more-error-free-releases-in-salesforce)
 
-[Data Archiving
+[Backup and Recovery
 
-Spring Clean Your Data: Why Archiving Is the Ultimate Organizational Tool](https://www.ownbackup.com/blog/spring-clean-your-data-with-archive)
+Your Salesforce Org Doesn’t Need to Stop Growing. It Just Needs Some Guardrails.](https://www.ownbackup.com/blog/your-salesforce-org-doesnt-need-to-stop-growing-it-just-needs-some-guardrails)
 
 [Support](https://www.ownbackup.com/support)
 
@@ -451,8 +451,6 @@ A cookie is a small piece of data that a website asks your browser to store on y
 When you use the Website, we may collect certain information by automated means (e.g., via cookies, plugins, and similar technologies), including for example IP address, browser type, operating system, referring URLs and information on actions taken or interaction with our Website, and other mobile trackers. We may use third-party plugins and/or web analytics services on our Website. The providers that administer these services use technologies such as cookies and web beacons to help us communicate with visitors and analyze how visitors use our Website.
 
 We use this information to improve our Website by, for example, assessing how many users access or use our Website, which content, products, and features most interest our visitors, what types of offers our customers like to see, and how our service performs from a technical point of view.
-
-a. Personal Data We Obtain in the context of the Services
 
 When you use our website’s chatbot, we collect certain information so that we can respond to your inquiries. This information typically may include, first and last name, title, employer, and contact information (email and phone number) and may be used for the purposes set out in the “How We May Use Your Personal Data” section below. In addition, we record chat conversations to allow us to provide the most appropriate responses to your requests. Responses range from setting up demos to simply calling you back.
 
