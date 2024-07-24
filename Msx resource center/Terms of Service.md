@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [What kind of physical storage do you use?](https://www.msx.org/poll/what-kind-of-physical-storage-do-you-use "What kind of physical storage do you use?")
 * [Do you emulate?](https://www.msx.org/poll/do-you-emulate "Do you emulate?")
 * [MSXdev24 #07 Sam.Pr](https://www.msx.org/news/challenges/en/msxdev24-07-sampr "MSXdev24 #07 Sam.Pr")
 * [MRC Mystery Challenge entry 9](https://www.msx.org/photoshoots/bussum-2005/mrc-mystery-challenge-entry-9 "MRC Mystery Challenge entry 9")
@@ -149,23 +150,22 @@ Latest reactions
 * [Rambo MSX2 remake announced](https://www.msx.org/news/en/rambo-msx2-remake "Rambo MSX2 remake announced")
 * [MSXdev22 #16 Bufonada](https://www.msx.org/news/challenges/en/msxdev22-16-bufonada "MSXdev22 #16 Bufonada")
 * [Lilly's Saga - The Stones of Evergreen OST](https://www.msx.org/news/music/en/lillys-saga-the-stones-of-evergreen-ost "Lilly's Saga - The Stones of Evergreen OST")
-* [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 
 Latest forum posts
 
+* [Philips VG-8180 and serial basic](https://www.msx.org/forum/msx-talk/hardware/philips-vg-8180-and-serial-basic "Philips VG-8180 and serial basic")
+* [Was the r800 really a 16-bit ? Seriously ?](https://www.msx.org/forum/msx-talk/general-discussion/was-the-r800-really-a-16-bit-seriously?page=2 "Was the r800 really a 16-bit ? Seriously ?")
+* [Candidate games for MSX Conversion.](https://www.msx.org/forum/msx-talk/general-discussion/candidate-games-for-msx-conversion?page=4 "Candidate games for MSX Conversion. ")
+* [The Big MegaFlashROM SCC+ SD Topic](https://www.msx.org/forum/msx-talk/hardware/big-megaflashrom-scc-sd-topic?page=97 "The Big MegaFlashROM SCC+ SD Topic")
+* [MSX1 Overscan](https://www.msx.org/forum/msx-talk/general-discussion/msx1-overscan?page=2 "MSX1 Overscan")
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
+* [Philips VG8235 diskdrive only formats but doesn't read files](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-diskdrive-only-formats-but-doesnt-read-files?page=1 "Philips VG8235 diskdrive only formats but doesn't read files")
+* [Q:But was really a tech issue?](https://www.msx.org/forum/msx-talk/graphics-and-music/qbut-was-really-a-tech-issue "Q:But was really a tech issue?")
+* [Philips VG-8235 unknown ROM modification](https://www.msx.org/forum/msx-talk/hardware/philips-vg-8235-unknown-rom-modification "Philips VG-8235 unknown ROM modification")
+* [Questions about .openmsx/share/software](https://www.msx.org/forum/msx-talk/openmsx/questions-about-openmsxsharesoftware "Questions about .openmsx/share/software")
+* [Carnivore 2 - 2.50 firmware CF card problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-250-firmware-cf-card-problem "Carnivore 2 - 2.50 firmware CF card problem")
+* [CVBasic: New BASIC compiler for MSX](https://www.msx.org/forum/msx-talk/development/cvbasic-new-basic-compiler-for-msx?page=4 "CVBasic: New BASIC compiler for MSX")
 * ["Shit!" vs "Oh Shit!" releases](https://www.msx.org/forum/msx-talk/general-discussion/shit-vs-oh-shit-releases ""Shit!" vs "Oh Shit!" releases")
-* [Hidden MSX, aucnet NIA-1001 terminal (not same as NIA-2001)](https://www.msx.org/forum/msx-talk/hardware/hidden-msx-aucnet-nia-1001-terminal-not-same-as-nia-2001?page=2 "Hidden MSX, aucnet NIA-1001 terminal (not same as NIA-2001)")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=11 "Full English translation of Illusion City for MSX Turbo-R")
-* [Are you on Mastodon? Post your username here!](https://www.msx.org/forum/msx-talk/off-topic/are-you-on-mastodon-post-your-username-here?page=1 "Are you on Mastodon? Post your username here!")
-* [Totally headless openMSX ?](https://www.msx.org/forum/msx-talk/emulation/totally-headless-openmsx?page=1 "Totally headless openMSX ?")
-* [Custom Joymega config via sofarun](https://www.msx.org/forum/msx-talk/software/custom-joymega-config-via-sofarun "Custom Joymega config via sofarun")
-* [Stuck in Sales Discontinued](https://www.msx.org/forum/msx-talk/software/stuck-in-sales-discontinued "Stuck in Sales Discontinued")
-* [pack freeware games](https://www.msx.org/forum/msx-talk/software/pack-freeware-games "pack freeware games")
-* [@djh1697 --> MSX/Naim](https://www.msx.org/forum/msx-talk/off-topic/djh1697-msxnaim "@djh1697  --> MSX/Naim")
-* [Do you want interlace a line?](https://www.msx.org/forum/msx-talk/general-discussion/do-you-want-interlace-a-line "Do you want interlace a line?")
-* [SEV9938 Sprites Editor for MSX2 by JamQue](https://www.msx.org/forum/msx-talk/development/sev9938-sprites-editor-for-msx2-by-jamque "SEV9938 Sprites Editor for MSX2 by JamQue")
-* [Prince of Persia](https://www.msx.org/forum/msx-talk/development/prince-of-persia?page=4 "Prince of Persia")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=60 "List of undumped MSX software (PLEASE HELP!)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
