@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/beyond-50-an-untapped-audience/)
+            [**Blog**](#)[](https://www.is.com/community/blog/implementing-ads-without-cannibalizing-subscription-conversions-a-brief-guide-by-ad-format/)
             
-            Beyond 50: An untapped audience
+            Implementing ads without cannibalizing subscription conversions: A brief guide by ad format
             
-            [Read more >](https://www.is.com/community/blog/beyond-50-an-untapped-audience/)
+            [Read more >](https://www.is.com/community/blog/implementing-ads-without-cannibalizing-subscription-conversions-a-brief-guide-by-ad-format/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
