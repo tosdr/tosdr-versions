@@ -209,3 +209,7 @@ We believe in the power of learning, and we built an intelligent platform to hel
 Copyright © 2024 Panopto. All Rights reserved.
 
 ![](https://px.ads.linkedin.com/collect/?pid=3246241&fmt=gif)
+
+[![](https://www.panopto.com/wp-content/uploads/2024/07/What-Students-Want-Most_1200x628_popup-5-1.png)](https://www.panopto.com/resource/webinar-live/what-students-want-most/?utm_source=homepage&utm_medium=pop_up&utm_campaign=what_students_want_most_webinar&utm_id=1161)
+
+X
