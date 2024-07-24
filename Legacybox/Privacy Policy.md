@@ -4,7 +4,7 @@
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/212/assets/placeholder-pixel.png?v=50439485113009717681650994805)
 
-THE PRIME TIME EVENT - UP TO 65% OFF LEGACYBOX PRIME TIME EVENT! UP TO 65% OFF LEGACYBOX Plus, get an extra 10% off with code GETLB10
+FLASH SALE – 50% OFF LEGACYBOX WITH CODE: **HALF** 50% OFF LEGACYBOX WITH CODE: **HALF** Plus, get an extra 10% off with code GETLB10
 
 00 DAY
 
@@ -14,9 +14,9 @@ THE PRIME TIME EVENT - UP TO 65% OFF LEGACYBOX PRIME TIME EVENT! UP TO 65% OFF L
 
 00 SEC
 
-DEALS STARTING AT JUST $27! Plus, get an extra 10% off with code GETLB10
+DIGITIZE TODAY FOR JUST $36 Plus, get an extra 10% off with code GETLB10
 
-[SHOP SALE >](https://legacybox.com/pages/deals)
+[SHOP SALE >](https://legacybox.com/products/legacybox-digitizing-kit)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/logo.svg?v=1684795981)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 ===============================================================================================================================================================================================================================================================================================================
