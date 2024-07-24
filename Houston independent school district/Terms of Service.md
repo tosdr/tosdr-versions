@@ -613,6 +613,7 @@ Translate Language
     * [TRAINING-Dept Blackboard](https://www.houstonisd.org/domain/55372)
     * [TRAINING-For Blackboard PARTICIPANTS Only](https://www.houstonisd.org/domain/50320)
     * [Wraparound Services - Testing](https://www.houstonisd.org/domain/56174)
+    * [AI](https://www.houstonisd.org/domain/57237)
     
     * [Academics](https://www.houstonisd.org/domain/51244)
     * [Achieve 180](https://www.houstonisd.org/achieve180)
