@@ -287,7 +287,7 @@ Main
         * Events
             * [Upcoming Events](https://www.instructure.com/events)
             * [InstructureCon 2025](https://www.instructure.com/instructurecon/spokane)
-            * [InstructureCon 2024](https://www.instructure.com/events/instructurecon)
+            * [InstructureCon 2024](https://www.instructure.com/resources/instructurecon-2024)
             * [Webinars](https://www.instructure.com/resources/webinars)
         * News
             * [Latest News](https://www.instructure.com/news)
@@ -549,7 +549,7 @@ Main
         * Events
             * [Upcoming Events](https://www.instructure.com/events)
             * [InstructureCon 2025](https://www.instructure.com/instructurecon/spokane)
-            * [InstructureCon 2024](https://www.instructure.com/events/instructurecon)
+            * [InstructureCon 2024](https://www.instructure.com/resources/instructurecon-2024)
             * [Webinars](https://www.instructure.com/resources/webinars)
         * News
             * [Latest News](https://www.instructure.com/news)
@@ -1032,7 +1032,7 @@ Global HQ
 Footer menu
 -----------
 
-* Instructure Learning Platform
+* Instructure Learning Ecosystem
     * [Canvas LMS](https://www.instructure.com/higher-education/products/canvas/canvas-lms)
     * [Canvas Studio](https://www.instructure.com/higher-education/products/canvas/canvas-studio)
     * [Canvas Catalog](https://www.instructure.com/higher-education/products/canvas/canvas-catalog)
