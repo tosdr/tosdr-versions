@@ -1,12 +1,8 @@
 [Skip to content](#content)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20143'%3E%3C/svg%3E)
+[![](https://namnamnam.no/wp-content/uploads/2021/01/Wordmark.svg)](https://namnamnam.no/)
 
-![](https://namnamnam.no/wp-content/uploads/2021/01/Wordmark.svg)](https://namnamnam.no/)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2075'%3E%3C/svg%3E)
-
-![](https://namnamnam.no/wp-content/uploads/2021/01/Pictogram-1.svg)](https://namnamnam.no/)
+[![](https://namnamnam.no/wp-content/uploads/2021/01/Pictogram-1.svg)](https://namnamnam.no/)
 
 * [Frokoster](https://namnamnam.no/kategori/frokoster/)
 * [Lunsjretter](https://namnamnam.no/kategori/lunsjretter/)
@@ -50,9 +46,7 @@ Søk  Søk
 * [Alle oppskrifter](https://namnamnam.no/oppskrifter/)
 * [Om oss](https://namnamnam.no/om-oss/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20602%20602'%3E%3C/svg%3E)
-
-![](https://namnamnam.no/wp-content/uploads/2021/01/5-Mouth_wordmark_circle_white.png.webp)](https://www.namnamnam.no/?redirect_to=random&cat=11)
+[![](https://namnamnam.no/wp-content/uploads/2021/01/5-Mouth_wordmark_circle_white.png.webp)](https://www.namnamnam.no/?redirect_to=random&cat=11)
 
 ### [Ubesluttsom?](https://www.namnamnam.no/?redirect_to=random&cat=11)
 
