@@ -118,7 +118,7 @@ Pronatura Service Navigation
 
 Pronatura Main
 
-* [Biodiversitätskrise](https://www.pronatura.ch/de/ja-oui-si)
+* [Biodiversitätskrise](https://www.pronatura.ch/de/biodiversitaet)
     
     * [3 Gründe für ein JA](https://www.pronatura.ch/de/2024/drei-gruende-fuer-ein-ja-zur-biodiversitaetsinitiative)
     * [3 Wege aktiv zu werden](https://www.pronatura.ch/de/biodiversitaet/lebensraum-retten)
@@ -133,7 +133,7 @@ Pronatura Main
     * [Schutzgebiete sichern](https://www.pronatura.ch/de/schutzgebiete)
     * [Weitere Themen](https://www.pronatura.ch/de/unsere-themen)
     
-* [Mitmachen](https://www.pronatura.ch/de/engagement)
+* [Mitmachen](https://www.pronatura.ch/de/ihr-engagement)
     
     * [Freiwilligenarbeit](https://www.pronatura.ch/de/freiwilligenarbeit "Freiwilligeneinsatz bei Pro Natura hilft der Natur und macht Spass")
     * [Für Kinder & Jugendliche](https://www.pronatura.ch/de/jugend)
