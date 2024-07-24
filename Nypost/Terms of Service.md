@@ -71,10 +71,6 @@ Search
 
 Search
 
-#### Live updates
-
-[Biden endorses Kamala Harris as Dem nominee after dropping out — follow The Post's live blog for updates](https://nypost.com/2024/07/21/us-news/biden-drops-out-of-presidential-race-live-updates-reactions-photos/)
-
 Terms Of Use
 ============
 
