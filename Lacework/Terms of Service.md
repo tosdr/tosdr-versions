@@ -49,13 +49,13 @@
     
     [For EnterprisesGain automated code-to-cloud security at scale](https://www.lacework.com/solutions/enterprise-cloud-security)[For StartupsAutomate processes to accelerate small business growth](https://www.lacework.com/solutions/cloud-security-for-startups)
     
-    [![product gif](https://brand.lacework.com/m/42ca6952985dd532/original/Lacework-Product-Tour-resource-card.jpg)
+    [![product gif](https://cdn.builder.io/api/v1/file/assets%2Ff3229fa9116546a5bb8eacf7cc42baaa%2F8108c4456b2b4268a344c8d1697fcb81)
     
-    Product Tours
+    See Lacework in action
     
-    Join our interactive Lacework product tours.
+    Experience the Lacework advantage in cloud security
     
-    Learn More](https://www.lacework.com/resources/product-tours)
+    Learn More](https://www.lacework.com/demo-center/)
     
 * Customers
     
@@ -87,7 +87,7 @@
     
     Experience the Lacework advantage in cloud security
     
-    Learn More](https://www.lacework.com/on-demand-demo/)
+    Learn More](https://www.lacework.com/demo-center/)
     
 * Company
     
