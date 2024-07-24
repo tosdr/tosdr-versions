@@ -96,17 +96,17 @@ Hamburger [Parliament of Victoria logo](https://parliament.vic.gov.au/)
     
     * [Next
         
+        Vapes adding to a mounting e-waste problem
+        
+        Next](https://parliament.vic.gov.au/news/environment/vaping-ewaste)[Next
+        
         MPs lead students on journey of service and sacrifice
         
         Next](https://parliament.vic.gov.au/news/general-news/kokoda24return)[Next
         
         Youth facing financial and mental health challenges
         
-        Next](https://parliament.vic.gov.au/news/society/young-victorians)[Next
-        
-        Youth Parliament inspires a new generation
-        
-        Next](https://parliament.vic.gov.au/news/general-news/yp24closing)
+        Next](https://parliament.vic.gov.au/news/society/young-victorians)
     
 * Visit Chevron-down
     
