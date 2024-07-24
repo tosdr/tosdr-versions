@@ -200,6 +200,80 @@
 
 ##### Moloco Streaming Monetization - Future-proof your streaming ads platform
 
+##### Solutions
+
+[![click here to open the menu](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b02eda0132f5f03118e9_Nav-bar-arrow.webp)](#)
+
+##### Solutions
+
+[##### For Marketers
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-ads)
+
+[##### For Publishers
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/sdk)
+
+[##### For Retailers/Marketplaces
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-commerce-media)
+
+[##### For Streaming Platforms
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-streaming-monetization)
+
+[##### Moloco Ads
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+##### Grow your app on the open internet
+
+[##### Moloco Ads for Agencies
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Moloco Ads Developer Hub
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Moloco Ads Help Center
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+[##### Moloco SDK
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+##### Maximize your app's revenue
+
+[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Moloco SDK Help Center
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+[##### Moloco Commerce Media
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+##### Build your own performance ads business
+
+[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Commerce Media GrowthU
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Commerce Media Developer Hub
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+[##### Moloco Streaming
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+##### Future-proof your streaming ads platform
+
+[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
 ##### Resources
 
 [![click here to open the menu](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b02eda0132f5f03118e9_Nav-bar-arrow.webp)](#)
@@ -309,6 +383,76 @@
 [##### For Retailer/Marketplaces](https://www.molocoads.com/solutions/moloco-commerce-media)[##### Moloco Commerce Media - Build your own performance ads business](https://www.molocoads.com/solutions/moloco-commerce-media)
 
 [##### For Streaming Platforms](https://www.molocoads.com/solutions/moloco-streaming-monetization)[##### Moloco Streaming Monetization - Future-proof your streaming ads platform](https://www.molocoads.com/solutions/moloco-streaming-monetization)
+
+##### Solutions
+
+Back
+
+[##### Moloco Ads
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-ads)
+
+##### Grow your app on the open internet
+
+[##### Moloco Ads for Agencies
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Moloco Ads Developer Hub
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Moloco Ads Help Center
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+Back
+
+[##### Moloco SDK
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-ads)
+
+##### Maximize your app's revenue
+
+[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Moloco SDK Help Center
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+Back
+
+[##### Moloco Commerce Media
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-ads)
+
+##### Build your own performance ads business
+
+[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Commerce Media GrowthU+
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)[##### Commerce Media Developer Hub
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+Back
+
+[##### Moloco Streaming Monetization
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](https://www.molocoads.com/solutions/moloco-ads)
+
+##### Future-proof your streaming ads platform
+
+[##### Case studies, blogs, reports
+
+![Dark blue arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6543b2b845a2672524fa4e23_Right-arrow.webp)](#)
+
+##### For Marketers
+
+##### For Publishers
+
+##### For Retailer/Marketplaces  
+
+##### For Streaming Platforms
 
 ##### Resources
 
