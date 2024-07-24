@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/it/events/sale/indie-game-campaign/)
+[](https://www.hrkgame.com/en/games/products/?search=ELDEN+RING+Shadow+of+the+Erdtree)
 
 Privacy Policy
 --------------
