@@ -60,6 +60,7 @@ Main navigation - header
         * [Early Career Resources](https://ota.org/careers-practice/careers/early-career-resources)
         * [Fellowship](https://ota.org/careers-practice/careers/fellowship)
     * [Practice](https://ota.org/careers-practice/practice)
+        * [OTA Prescription Pads](https://ota.org/careers-practice/practice/ota-prescription-pads)
         * [Patient Resources](https://ota.org/node/6563)
         * [Health and Policy Advocacy](https://ota.org/careers-practice/practice/health-and-policy-advocacy)
         * [Disaster Management and Emergency Preparedness](https://ota.org/careers-practice/practice/disaster-management-and-emergency-preparedness)
