@@ -861,11 +861,11 @@ New York, NY 10018
 
 Attention: Privacy Administrator/Legal Department
 
-* [![MLS NEXT Pro](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/mls-next-pro_d3fakn.png)](https://www.mlsnextpro.com/)
-* [![MLS NEXT](https://images.mlssoccer.com/image/upload/v1719428286/assets/logos/mls-next_suwanh.png)](https://www.mlssoccer.com/mlsnext/)
-* [![MLS GO](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/MLS_GO_xcw4eo.png)](https://www.mlssoccer.com/mlsgo/)
+* [![MLS NEXT Pro](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/mls-next-pro_d3fakn.png)](https://www.mlsnextpro.com/?utm_source=mlssoccer&utm_medium=site-footer&utm_campaign=mnp)
+* [![MLS NEXT](https://images.mlssoccer.com/image/upload/v1719428286/assets/logos/mls-next_suwanh.png)](https://www.mlssoccer.com/mlsnext/?utm_source=mlssoccer&utm_medium=site-footer&utm_campaign=mls-next)
+* [![MLS GO](https://images.mlssoccer.com/image/upload/v1719428285/assets/logos/MLS_GO_xcw4eo.png)](https://www.mlssoccer.com/mlsgo/?utm_source=mlssoccer&utm_medium=site-footer&utm_campaign=mls-go)
 
-* [![Leagues Cup](https://images.mlssoccer.com/image/upload/v1719428284/assets/logos/Leagues_cup-vertical_yuhvsx.png)](https://www.leaguescup.com/)
+* [![Leagues Cup](https://images.mlssoccer.com/image/upload/v1719428284/assets/logos/Leagues_cup-vertical_yuhvsx.png)](https://www.leaguescup.com/?utm_source=mlssoccer&utm_medium=site-footer&utm_campaign=lc)
 
 * About MLS
 * [Fact & Record Book](https://www.mlssoccer.com/about/fact-and-record-book)
