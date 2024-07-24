@@ -251,7 +251,7 @@ Install the app!
 
 Scan your everyday foods
 
-[![Download on the App Store](/images/misc/appstore/black/appstore_US.svg)](https://apps.apple.com/app/open-food-facts/id588797948?utm_source=off&utf_medium=web&utm_campaign=install_the_app_ios_footer_en) [![Get It On Google Play](https://static.openfoodfacts.org/images/misc/playstore/img/en_get.svg)](https://world.openfoodfacts.org/files/off.apk?utm_source=off&utf_medium=web&utm_campaign=install_the_app_android_footer_en) [![Android APK](https://static.openfoodfacts.org/images/misc/android-apk.svg)](https://world.openfoodfacts.org/files/off.apk?utm_source=off&utf_medium=web&utm_campaign=install_the_app_apk_footer_en)
+[![Download on the App Store](/images/misc/appstore/black/appstore_US.svg)](https://apps.apple.com/app/open-food-facts/id588797948?utm_source=off&utf_medium=web&utm_campaign=install_the_app_ios_footer_en) [![Get It On Google Play](https://static.openfoodfacts.org/images/misc/playstore/img/en_get.svg)](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner?utm_source=off&utf_medium=web&utm_campaign=install_the_app_android_footer_en) [![Android APK](https://static.openfoodfacts.org/images/misc/android-apk.svg)](https://world.openfoodfacts.org/files/off.apk?utm_source=off&utf_medium=web&utm_campaign=install_the_app_apk_footer_en)
 
 Help us make food transparency the norm!
 
