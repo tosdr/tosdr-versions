@@ -45,7 +45,7 @@ Mezo - Spam Blocker, SMS Block
 
 Contains adsIn-app purchases
 
-4.0_star_
+3.9_star_
 
 75.7K reviews
 
@@ -247,20 +247,18 @@ Yes
 
 No
 
-![](https://play-lh.googleusercontent.com/a-/ALV-UjVAhiPSJM89P9j3muuMUstVdu_B2AaEdcjK7aH7Cx7_kjWJ5-6z=s32)
+![](https://play-lh.googleusercontent.com/a-/ALV-UjWkYk3kKu02eNl8ysADgRt1gFfGpGfG2WSWAovE3KPBP-tJJUDl=s32)
 
-Beautiful Flower
+Gary Lawson
 
 _more\_vert_
 
 * Flag inappropriate
 * Show review history
 
-July 2, 2024
+July 20, 2024
 
-It has definitely reduced the amount of spam texts and emails I receive every day. But the user interface could use some work. It's a little awkward and not as smooth as the messenger app that comes with my phone.
-
-6 people found this review helpful
+This is the WORST messaging app that I have ever used. I'm talking POS. It crashes all the time and it completely deletes messages that I type, after I hit send. I spent 30 minutes typing and retyping the same two messages over and over about 5 or 6 times. Won't mark messages as read,,, sometimes. DUH, RIP, RIP, RIP!
 
 Did you find this helpful?
 
@@ -303,51 +301,6 @@ Address
 [_shield_
 
 Privacy Policy](https://www.mezo.ai/privacypolicy)
-
-Similar apps
-------------
-
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHJHSGxNRldib043aWtpdDdjUHZXWnc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIrdaA)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
-
-Handcent Next SMS messenger
-
-Handcent
-
-4.6_star_](https://play.google.com/store/apps/details?id=com.handcent.app.nextsms)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
-
-Wize SMS: Message & Messenger
-
-Browser by Fulldive Co.
-
-4.4_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/Gsx3yt1FXuT0O_UAkA0KM48N_zVWGFBDPZ61pMTeMLlyfPhPwvpPX3_V-qYhutV1O2HR=s64)
-
-search.ch
-
-search.ch (Swisscom Directories AG)
-
-4.0_star_](https://play.google.com/store/apps/details?id=ch.search.android.search)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/EMDdIjOW7r2d2p5_nbnHxBwqLujyRriopTSQ5mqJPa_PY5Ohrjx3WGb3F_KK9OJOxyQ=s64)
-
-SimpleLogin | Anti-spam
-
-Simple Login
-
-4.6_star_](https://play.google.com/store/apps/details?id=io.simplelogin.android)
-
-[![Thumbnail image](https://play-lh.googleusercontent.com/626BhIA8sAh3fc5TupUvOSrbAMirQpJmaSKJXdrxEyqr87jj1SBRdaW3N08Du-uM6A=s64)
-
-Wire - Secure Messenger
-
-Wire Swiss GmbH
-
-2.5_star_](https://play.google.com/store/apps/details?id=com.wire)
 
 [_flag_Flag as inappropriate](https://support.google.com/googleplay/?p=report_content)
 
