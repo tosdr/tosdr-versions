@@ -74,11 +74,11 @@ Any rights not expressly granted herein are reserved.
 
 ### From the Blog
 
-#### [3 great reasons to use email templates in your healthcare practice](https://blog.hushmail.com/blog/using-email-templates/)
+#### [How to get an NPI endpoint with Hush™ Secure Forms](https://blog.hushmail.com/blog/npi-endpoint/)
 
-Published on July 8, 2024
+Published on July 22, 2024
 
-Writing the same emails over and over? Learn how to use templates to save time, reduce errors, and email like a pro. [Read more.](https://blog.hushmail.com/blog/using-email-templates/)
+Confused about endpoints in your NPI application? Learn what they are and how to quickly get one using Hush™ Secure Forms. [Read more.](https://blog.hushmail.com/blog/npi-endpoint/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -133,7 +133,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=6165FF4BB27C3C6D52EDC781964023E9)
+![](https://hushforms.com/visitorid?visitorid=644149C9ADABD94B69DAC69B6CE39824)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
