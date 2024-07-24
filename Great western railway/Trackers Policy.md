@@ -1,14 +1,10 @@
 [Skip to main content](#main-content)
 
-**IT issues:** Trains are running normally but some customer systems may still be affected over the weekend. Please speak to station staff if you need assistance or check the latest departure information on GWR.com or the GWR app.
-
-[Check your journey](https://www.gwr.com/travel-information/travel-updates/check-your-journey)
-
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-(2) Travel updatesDisruption
+Travel updatesGood service
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
