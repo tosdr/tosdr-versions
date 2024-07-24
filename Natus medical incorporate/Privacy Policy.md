@@ -1,32 +1,10 @@
-[![Natus logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+[![Natus logo](https://natus.com/wp-content/uploads/natus-logo.svg)](https://natus.com/)
 
-![Natus logo](https://natus.com/wp-content/uploads/natus-logo.svg)](https://natus.com/)
-
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-    
-    ![](https://natus.com/wp-content/uploads/flags/global-flag.svg)
-    
-    English](#)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)
-        
-        French](https://natus.com/fr/declaration-relative-confidentialite/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)
-        
-        German](https://natus.com/de/datenschutzerklaerung/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.svg)
-        
-        Italian](https://natus.com/it/dichiarazione-sulla-privacy/)
-    * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-        
-        ![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)
-        
-        Spanish](https://natus.com/es/declaracion-de-privacidad/)
+* [![](https://natus.com/wp-content/uploads/flags/global-flag.svg)English](#)
+    * [![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.svg)French](https://natus.com/fr/declaration-relative-confidentialite/)
+    * [![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.svg)German](https://natus.com/de/datenschutzerklaerung/)
+    * [![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.svg)Italian](https://natus.com/it/dichiarazione-sulla-privacy/)
+    * [![](https://natus.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.svg)Spanish](https://natus.com/es/declaracion-de-privacidad/)
 
 * [Natus Medical Store](https://natus.com/natus-medical-stores/)
 * [Partner Login](https://partner.natus.com/)
@@ -148,6 +126,8 @@
     
     [Hearing Screening](https://natus.com/sensory/hearing-screening/)
     
+    [ALGO® Pro](https://natus.com/sensory/algo-pro/)
+    
     [ALGO® 7i](https://natus.com/sensory/algo-7i/)
     
     [ALGO® 5](https://natus.com/sensory/algo-5/)
@@ -205,11 +185,7 @@
 * [CONTACT US](https://natus.com/locations/)
 * [Search Icon](#)
 
-![Natus logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Natus logo](https://natus.com/wp-content/uploads/natus-logo.svg)
-
-×
+![Natus logo](https://natus.com/wp-content/uploads/natus-logo.svg) ×
 
  
 
@@ -322,6 +298,8 @@
 [Hi-Pro® 2](https://natus.com/sensory/hi-pro-2/)
 
 [Hearing Screening](https://natus.com/sensory/hearing-screening/)
+
+[ALGO® Pro](https://natus.com/sensory/algo-pro/)
 
 [ALGO® 7i](https://natus.com/sensory/algo-7i/)
 
@@ -570,9 +548,7 @@ Stay connected
 
 [LinkedIn](https://www.linkedin.com/company/natus-medical/)
 
-[![Natus logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Natus logo](https://natus.com/wp-content/uploads/natus-logo.svg)](https://natus.com/)
+[![Natus logo](https://natus.com/wp-content/uploads/natus-logo.svg)](https://natus.com/)
 
 * [Natus Medical Store](https://natus.com/natus-medical-stores/)
 * [Partner Login](https://partner.natus.com/)
