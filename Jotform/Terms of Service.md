@@ -287,6 +287,8 @@ THE SERVICES ARE PROVIDED AS-IS. JOTFORM DISCLAIMS ALL IMPLIED REPRESENTATIONS A
 
 Jotform is not liable for any loss or damage from your (or your Users’) failure to comply with these Terms. You are solely responsible for all Data posted to your account, and for Data you collect from form submissions, whether or not you personally posted, gathered, or received the Data.
 
+Jotform makes no warranties, representations, or assurances as to the actual qualifications of, or as to the work or advice of, any individual who has obtained a certificate from Jotform Academy. If you choose to utilize or rely on any such person or entity with which they work to help you with the use of the Jotform platform, you do so at your own risk.
+
 9\. Indemnification
 -------------------
 
@@ -370,7 +372,7 @@ If you have any questions about this terms of use, please feel free to [contact 
 
   
 
-Revision June 14, 2024
+Revision July 22, 2024
 
   
 
@@ -393,6 +395,7 @@ Jotform
         * [Booking Forms](https://www.jotform.com/form-templates/category/booking)
         * [Request Forms](https://www.jotform.com/form-templates/category/request-form)
     * Popular Uses
+        * [GovernmentNEW](https://www.jotform.com/government/)
         * [Healthcare](https://www.jotform.com/hipaa/)
         * [Summer Camps](https://www.jotform.com/summer-camp/)
         * [Restaurants and Groceries](https://www.jotform.com/food-ordering-system/)
