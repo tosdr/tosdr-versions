@@ -71,10 +71,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Joe Manchin joins four Democratic senators in calling for President Biden to drop out](https://nypost.com/2024/07/21/us-news/joe-manchin-joins-4-dem-senators-calling-on-biden-to-bow-out/)
-
 Privacy Notice Highlights
 =========================
 
