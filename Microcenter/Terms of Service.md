@@ -262,7 +262,7 @@ Product category, brand navigation and general site naviation
         
     * Computers
         
-        ### Computers options - 6 groups of items - 35 total selections
+        ### Computers options - 6 groups of items - 36 total selections
         
         * #### Desktop Computing
             
@@ -310,6 +310,7 @@ Product category, brand navigation and general site naviation
             * [View Desktops](https://www.microcenter.com/site/products/desktop-computers.aspx)
             * [View Laptops](https://www.microcenter.com/site/products/laptops-notebooks.aspx)
             * [View Computer Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
+            * [Explore AI PCs](https://www.microcenter.com/site/content/ai-pcs.aspx)
             * [View All](https://www.microcenter.com/site/products/computers.aspx)
         
     * Apple
@@ -375,12 +376,12 @@ Product category, brand navigation and general site naviation
             * [Curved Screen Monitors](https://www.microcenter.com/category/4294966896,4294818215/curved-monitor)
             * [All Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
             * [Monitor Mounts & Stands](https://www.microcenter.com/category/4294966837,4294803511,4294803514/monitor-mounts-and-stands)
-        * #### Digital Photography
+        * #### Photography & Imaging
             
-            * [Digital Cameras](https://www.microcenter.com/category/4294966817/digital-cameras)
-            * [Digital SLR Cameras](https://www.microcenter.com/category/4294966816/digital-slr-cameras)
-            * [Camcorders](https://www.microcenter.com/category/4294966815/camcorder)
-            * [Photo Accessories](https://www.microcenter.com/category/4294966814/camera-accessories)
+            * [DSLR Cameras](https://www.microcenter.com/category/4294966816,4294802750/dslr-camera)
+            * [Video Cameras](https://www.microcenter.com/category/4294966816,4294802772/video-cameras)
+            * [Digital Cameras](https://www.microcenter.com/category/4294966816,4294802743/digital-cameras)
+            * [Camera Accessories](https://www.microcenter.com/category/4294966814/camera-accessories)
         * #### Cell Phones & Accessories
             
             * [Cell Phones](https://www.microcenter.com/category/4294939905/cell-phones)
@@ -754,7 +755,7 @@ Product category, brand navigation and general site naviation
         
     * Brands
         
-        ### Brands options - 2 groups of items - 23 total selections
+        ### Brands options - 2 groups of items - 24 total selections
         
         * #### A - M
             
@@ -780,6 +781,7 @@ Product category, brand navigation and general site naviation
             * [PowerSpec](https://www.microcenter.com/site/brands/powerspec.aspx)
             * [Samsung](https://www.microcenter.com/site/brands/samsung.aspx)
             * [Shure](https://www.microcenter.com/site/brands/shure-showcase.aspx)
+            * [Snapdragon](https://www.microcenter.com/site/brands/snapdragon.aspx)
             * [Toshiba](https://www.microcenter.com/site/brands/2022toshiba.aspx)
             * [TP-LINK](https://www.microcenter.com/site/brands/tp-link.aspx)
             * [WD](https://www.microcenter.com/site/brands/western-digital.aspx)
@@ -884,7 +886,7 @@ Product category, brand navigation and general site naviation
         
     * [Account Sign in](https://account.microcenter.com/members/account.aspx)
 * [Top Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv)
-    * [Insider Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
+    * [Back to School Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
     * [PC Parts](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966998)
     * [Processors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966995)
     * [SSDs](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294945779)
@@ -915,6 +917,7 @@ Product category, brand navigation and general site naviation
     * [Workstations](https://www.microcenter.com/site/products/workstation-computers.aspx)
     * [Servers](https://www.microcenter.com/site/products/servers.aspx)
     * [Computer Monitors](https://www.microcenter.com/site/products/computer_monitors.aspx)
+    * [Explore AI PCs](https://www.microcenter.com/site/content/ai-pcs.aspx)
 * [Apple](https://www.microcenter.com/site/brands/apple-showcase.aspx)
     * [MacBook](https://www.microcenter.com/category/4294967288,4294820432/macbook)
     * [Mac Desktops](https://www.microcenter.com/category/4294967292,4294819353/apple-imac-mac-mini-and-mac-pro)
