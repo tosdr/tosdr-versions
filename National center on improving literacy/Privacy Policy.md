@@ -1,6 +1,6 @@
 [Skip to content](#main-content)
 
-Toggle navigation Menu [National Center on Improving Literacy ![Home](https://improvingliteracy.org/code-assets/images/NCIL-Logo.png)](https://improvingliteracy.org/index.html "Home") 
+Toggle navigation Menu [National Center on Improving Literacy ![Home](https://improvingliteracy.org/code-assets/images/NCIL-Logo.png)](https://improvingliteracy.org/ "Home") 
 
 * [For Parents & Families](https://improvingliteracy.org/family/index.html)
 * [For Schools & Districts](https://improvingliteracy.org/school/index.html)
@@ -10,7 +10,7 @@ Toggle navigation Menu [National Center on Improving Literacy ![Home](https://im
         
         [Implementation Toolkits](https://improvingliteracy.org/kit/index.html)
         
-        [MTSS-R Implementation Guide](https://improvingliteracy.org/guide/mtss-r-implementation-guide/index.html)
+        [MTSS-R Implementation Guide](https://improvingliteracy.org/guide/mtss-r-implementation-guide.html)
         
         [Resource Repository](https://improvingliteracy.org/resource-repository/index.html)
         
@@ -27,14 +27,13 @@ Toggle navigation Menu [National Center on Improving Literacy ![Home](https://im
         [Learning Literacy Glossary](https://improvingliteracy.org/glossary/index.html)
         
 
-* [](https://improvingliteracy.org/#page-top)
+* [](#page-top)
+* [Lead for Literacy](https://leadforliteracy.org/)
 * [News](https://improvingliteracy.org/news/index.html)
 * [About](https://improvingliteracy.org/about/index.html)
 * [TA](https://contact.improvingliteracy.org/targeted-technical-assistance-request/)
 * [Contact](https://contact.improvingliteracy.org/contact-form/)
-* [Site Search](https://www.improvingliteracy.org/search/index.html)
-
-Please pardon our dust! We're migrating to new web servers and improving our site. We know it’s taking a while but sit tight and we’ll be back better than ever very soon.
+* [Site Search](https://improvingliteracy.org/search/index.html)
 
 Privacy Policy
 ==============
