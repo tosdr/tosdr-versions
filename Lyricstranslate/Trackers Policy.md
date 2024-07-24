@@ -136,85 +136,85 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
 
-New translation
+New song
 
-[Nino D'Angelo - Nun sî da mia](https://lyricstranslate.com/en/nino-dangelo-nun-si-da-mia-english)
+[Kalyani Menon - அலைபாயுதே](https://lyricstranslate.com/en/kalyani-menon-alaipayuthey-lyrics)
 
-Neapolitan → English
-
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1710199504.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
-
-New translation
-
-[My Friends Tigger and Pooh - Intro (Castilian Spanish)](https://lyricstranslate.com/en/my-friends-tigger-intro-castilian-spanish-english)
-
-Spanish → English
+Tamil
 
 [![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
 
 New song
 
-[kuqe 2115 - zostań, proszę](https://lyricstranslate.com/en/kuqe-2115-zostan-prosze-lyrics)
+[Ella Langley - you look like you love me](https://lyricstranslate.com/en/ella-langley-you-look-you-love-me-lyrics)
 
-Polish
+English
 
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
+[![ExterminateTheHumans](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624583-1721696506.jpg)](https://lyricstranslate.com/en/translator/exterminatethehumans "ExterminateTheHumans")
 
-New song
+New transcription request
 
-[Qdot - Jalikima](https://lyricstranslate.com/en/qdot-jalikima-lyrics)
+[Mr Hyde - On the prowl](https://lyricstranslate.com/en/mr-hyde-prowl)
 
-Yoruba
+English
 
-[![Evegau](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624391-1721498062.jpg)](https://lyricstranslate.com/en/translator/evegau "Evegau")
-
-New translation
-
-[Ivan Cornejo - Atención](https://lyricstranslate.com/en/ivan-cornejo-atencion-english)
-
-Spanish → English
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[Qdot - Ijo Gelede](https://lyricstranslate.com/en/qdot-ijo-gelede-lyrics)
-
-Yoruba
-
-[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1708243119.png)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
-
-New request
-
-[National Anthems & Patriotic Songs - Russian Federation National Anthem - Государственный гимн Российской Федерации (Gosudarstvennyi gimn Rossiyskoy Federatsii)](https://lyricstranslate.com/en/request/russian-federation-national-anthem-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B3%D0%B8%D0%BC%D0%BD-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-19)
-
-Russian → Estonian
-
-[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
+[![ellene](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624509-1721645386.jpg)](https://lyricstranslate.com/en/translator/ellene "ellene")
 
 New translation
 
-[Maud Lübeck - Le Parapluie](https://lyricstranslate.com/en/maud-lubeck-le-parapluie-english)
+[David Kushner - Daylight](https://lyricstranslate.com/en/david-kushner-daylight-indonesian)
 
-French → English
+English → Indonesian
+
+[![ganchu](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/ganchu "ganchu")
+
+New translation
+
+[Saucy Dog - 君がいない (Kimi ga inai)](https://lyricstranslate.com/en/saucy-dog-kimi-ga-inai-italian)
+
+Japanese → Italian
 
 [![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
 
 New song
 
-[Ati242 - Değişmene Rağmen](https://lyricstranslate.com/en/ati242-degismene-ragmen-lyrics)
+[Babasha - Ia-ma Du-ma](https://lyricstranslate.com/en/babasha-ia-ma-du-ma-lyrics)
 
-Turkish
+Romanian
 
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1710199504.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
+[![Thế Anh Võ](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1617135-1721712536.jpg)](https://lyricstranslate.com/en/translator/th%E1%BA%BF-anh-v%C3%B5 "Thế Anh Võ")
 
-New song
+New translation
 
-[My Friends Tigger and Pooh - Intro (Castilian Spanish)](https://lyricstranslate.com/en/my-friends-tigger-and-poo-intro-castilian-spanish-lyrics)
+[MY FIRST STORY - 夢幻 (Mugen)](https://lyricstranslate.com/en/my-first-story-mugen-transliteration-0)
 
-Spanish
+Japanese → Transliteration
+
+[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
+
+New translation
+
+[Kid - 言葉の宝石箱 (Kotoba no Hōsekibako)](https://lyricstranslate.com/en/kid-kotoba-no-hosekibako-english)
+
+Japanese → English
+
+[![SkreamQueenbitch](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1623964-1721254468.jpg)](https://lyricstranslate.com/en/translator/skreamqueenbitch "SkreamQueenbitch")
+
+New transcription request
+
+[Brabo Gator - Love song](https://lyricstranslate.com/en/brabo-gator-love-song)
+
+English
+
+[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
+
+New translation
+
+[Kid - 言葉の宝石箱 (Kotoba no Hōsekibako)](https://lyricstranslate.com/en/kid-kotoba-no-hosekibako-transliteration)
+
+Japanese → Transliteration
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
