@@ -67,7 +67,7 @@
 
 服务
 
-[![PostChat图标](https://p.zhheo.com/EOjpsa22490781720592484600.png!cover_mini)PostChat](https://postchat.zhheo.com/ "访问PostChat")[![HeoChat图标](https://p.zhheo.com/U3XiOX20190581716526261020.png!cover_mini)HeoChat](https://chat.zhheo.com/ "访问HeoChat")[![HeoMusic图标](https://p.zhheo.com/jcwF4v20890381678676288724.webp!cover_mini)HeoMusic](https://music.zhheo.com/?id=8668419170&server=tencent "访问HeoMusic")[![公众号图标](https://p.zhheo.com/202319c8ac4827b3c198908bfebf6867d971074702.png!cover_mini)公众号](https://wechat.zhheo.com/ "访问公众号")[![应用图标库图标](https://p.zhheo.com/202300b4b458642ccff4f63554897fffbb83075702.png!cover_mini)应用图标库](https://icon.zhheo.com/ "访问应用图标库")[![产品反馈图标](https://p.zhheo.com/2023b8e4c8d756c621fc83633fd8d21ead8c075802.png!cover_mini)产品反馈](https://support.qq.com/product/335533 "访问产品反馈")
+[![PostChat图标](https://p.zhheo.com/EOjpsa22490781720592484600.png!cover_mini)PostChat](https://postchat.zhheo.com/ "访问PostChat")[![HeoMusic图标](https://p.zhheo.com/jcwF4v20890381678676288724.webp!cover_mini)HeoMusic](https://music.zhheo.com/?id=8668419170&server=tencent "访问HeoMusic")[![公众号图标](https://p.zhheo.com/202319c8ac4827b3c198908bfebf6867d971074702.png!cover_mini)公众号](https://wechat.zhheo.com/ "访问公众号")[![应用图标库图标](https://p.zhheo.com/202300b4b458642ccff4f63554897fffbb83075702.png!cover_mini)应用图标库](https://icon.zhheo.com/ "访问应用图标库")[![产品反馈图标](https://p.zhheo.com/2023b8e4c8d756c621fc83633fd8d21ead8c075802.png!cover_mini)产品反馈](https://support.qq.com/product/335533 "访问产品反馈")
 
 表情
 
@@ -207,7 +207,7 @@ P
 
 服务
 
-[![PostChat图标](https://p.zhheo.com/EOjpsa22490781720592484600.png!cover_mini)PostChat](https://postchat.zhheo.com/ "访问PostChat")[![HeoChat图标](https://p.zhheo.com/U3XiOX20190581716526261020.png!cover_mini)HeoChat](https://chat.zhheo.com/ "访问HeoChat")[![HeoMusic图标](https://p.zhheo.com/jcwF4v20890381678676288724.webp!cover_mini)HeoMusic](https://music.zhheo.com/?id=8668419170&server=tencent "访问HeoMusic")[![公众号图标](https://p.zhheo.com/202319c8ac4827b3c198908bfebf6867d971074702.png!cover_mini)公众号](https://wechat.zhheo.com/ "访问公众号")[![应用图标库图标](https://p.zhheo.com/202300b4b458642ccff4f63554897fffbb83075702.png!cover_mini)应用图标库](https://icon.zhheo.com/ "访问应用图标库")[![产品反馈图标](https://p.zhheo.com/2023b8e4c8d756c621fc83633fd8d21ead8c075802.png!cover_mini)产品反馈](https://support.qq.com/product/335533 "访问产品反馈")
+[![PostChat图标](https://p.zhheo.com/EOjpsa22490781720592484600.png!cover_mini)PostChat](https://postchat.zhheo.com/ "访问PostChat")[![HeoMusic图标](https://p.zhheo.com/jcwF4v20890381678676288724.webp!cover_mini)HeoMusic](https://music.zhheo.com/?id=8668419170&server=tencent "访问HeoMusic")[![公众号图标](https://p.zhheo.com/202319c8ac4827b3c198908bfebf6867d971074702.png!cover_mini)公众号](https://wechat.zhheo.com/ "访问公众号")[![应用图标库图标](https://p.zhheo.com/202300b4b458642ccff4f63554897fffbb83075702.png!cover_mini)应用图标库](https://icon.zhheo.com/ "访问应用图标库")[![产品反馈图标](https://p.zhheo.com/2023b8e4c8d756c621fc83633fd8d21ead8c075802.png!cover_mini)产品反馈](https://support.qq.com/product/335533 "访问产品反馈")
 
 表情
 
@@ -319,7 +319,7 @@ P
 
 本着互联网开放精神，你可以在博客文章下方留言要求授权博文的衍生品的分享和分发，标注你的网站地址。
 
-关于主题样式的版权信息，可以详见[Acrylic主题说明](https://blog.zhheo.com/update/)
+禁止多篇文章的批量转载。本站文章仅在本站和「张洪Heo」微信公众号上发布和投稿，不会在其他站点投稿。如有侵权欢迎联系举报邮箱：[zhheo@qq.com](mailto:zhheo@qq.com)
 
 [](#网站源代码协议 "网站源代码协议")网站源代码协议
 -----------------------------
