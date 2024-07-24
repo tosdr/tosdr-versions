@@ -365,167 +365,171 @@ Les commentaires ont été désactivés.
 
 ![icône bouton suivant](/img/icons/arrow_right.svg)](https://www.lequipe.fr/Chrono)
 
-filtrer : tous les sports
+filtrer : athlétisme
 
-[17:44
-
-F1,
-
-GP de Hongrie
-
-Piastri : «Le jour dont j'ai rêvé enfant»](https://www.lequipe.fr/Formule-1/Actualites/Oscar-piastri-apres-sa-victoire-en-hongrie-le-jour-dont-j-ai-reve-quand-j-etais-enfant/1484080 "Piastri : «Le jour dont j'ai rêvé enfant»")
-
-[17:30
+[09:35
 
 JO 2024,
 
-Guide
+Foot
 
-Baptiste Addis, le petit prodige du tir à l'arc](https://www.lequipe.fr/Tir-a-l-arc/Fiche-guide/Athlete/Baptiste-addis/249 "Baptiste Addis, le petit prodige du tir à l'arc")
+Notre onze type des joueurs sélectionnés aux Jeux Olympiques](https://www.lequipe.fr/Jo-2024-paris/Football/Article/Notre-onze-type-des-joueurs-selectionnes-aux-jeux-olympiques/1484613 "Notre onze type des joueurs sélectionnés aux Jeux Olympiques")
 
-[17:26
-
-Tour de France
-
-Girmay : «J'ai grandi avec les images du Tour»](https://www.lequipe.fr/Cyclisme-sur-route/Article/Biniam-girmay-maillot-vert-et-vainqueur-de-trois-etapes-je-me-reveille-chaque-matin-en-me-disant-que-je-suis-le-meilleur/1483902 "Girmay : «J'ai grandi avec les images du Tour»")
-
-[17:24
-
-F1,
-
-GP de Hongrie
-
-L'accrochage entre Verstappen et Hamilton en vidéo](https://www.lequipe.fr/Formule-1/Actualites/L-accrochage-entre-max-verstappen-et-lewis-hamilton-au-gp-de-hongrie-en-video/1484070 "L'accrochage entre Verstappen et Hamilton en vidéo")
-
-[17:14
+[09:30
 
 JO 2024,
 
-Beach-volley
+Foot
 
-Van de Velde privé de village olympique](https://www.lequipe.fr/Jo-2024-paris/Beach-volley/Actualites/Condamne-pour-viol-sur-mineure-van-de-velde-interdit-de-village-olympique-et-de-contact-avec-les-medias/1484067 "Van de Velde privé de village olympique")
+Découvrez les Bleus avant leur entrée en lice](https://www.lequipe.fr/stories/80 "Découvrez les Bleus avant leur entrée en lice")
 
-[17:10
+[09:06
 
-Triathlon
+JO 2024
 
-L'IRONMAN à Lake Placid sur L'Équipe live 4](https://www.lequipe.fr/tv/videos/live/k6oih7JyuEmhrnqwBZT "L'IRONMAN à Lake Placid sur L'Équipe live 4")
+À Paris, le calme avant les trois coups](https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Article/Du-village-olympique-aux-bords-de-seine-le-calme-avant-le-lancement-des-jeux-olympiques/1484672 "À Paris, le calme avant les trois coups")
 
-[17:06
-
-JO 2024,
-
-Basket (H),
-
-Prépa
-
-Fournier cherche la flamme](https://www.lequipe.fr/Basket/Article/Maladroit-et-en-manque-de-confiance-evan-fournier-cherche-la-flamme-avant-les-jeux-olympiques/1483881 "Fournier cherche la flamme")
-
-[17:02
-
-Tour de France
-
-Cavendish signe ses adieux... en finissant lanterne rouge](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mark-cavendish-signe-ses-adieux-au-tour-de-france-en-finissant-lanterne-rouge/1484064 "Cavendish signe ses adieux... en finissant lanterne rouge")
-
-[17:00
-
-Athlétisme,
-
-spécial L'Équipe
-
-Typhaine Soldé : un modèle d'éducation](https://www.lequipe.fr/Tous-sports/Actualites/Typhaine-solde-un-modele-d-education/1482738 "Typhaine Soldé : un modèle d'éducation")
-
-[16:57
+[09:05
 
 JO 2024,
 
-Bleues
+Jeux t'explique
 
-Public, es-tu là ?](https://www.lequipe.fr/Football/Article/Apres-avoir-boude-les-bleues-le-public-francais-sera-t-il-au-rendez-vous-du-tournoi-olympique/1483917 "Public, es-tu là ?")
+Pourquoi les JO ont lieu seulement tous les quatre ans ?](https://www.lequipe.fr/Jo-2024-paris/Athletisme/Actualites/Jo-de-paris-2024-pourquoi-les-jeux-ont-lieu-seulement-tous-les-quatre-ans/1484536 "Pourquoi les JO ont lieu seulement tous les quatre ans ?")
 
-[16:55
+[09:04
+
+JO 2024,
+
+Hand,
+
+Bleus
+
+Petite alerte pour Nikola Karabatic](https://www.lequipe.fr/Jo-2024-paris/Handball/Actualites/Petite-alerte-mais-pas-d-inquietude-pour-la-legende-des-bleus-nikola-karabatic/1484657 "Petite alerte pour Nikola Karabatic")
+
+[08:43
 
 Foot,
 
-Transferts
+Droits TV
 
-Bénie Traoré quitte Sheffield Utd pour Bâle](https://www.lequipe.fr/Football/Actualites/Passe-par-nantes-benie-traore-quitte-sheffield-united-pour-bale/1484059 "Bénie Traoré quitte Sheffield Utd pour Bâle")
+beIN veut adosser sa participation à des sponsors qatariens](https://www.lequipe.fr/Football/Article/Bein-sports-veut-adosser-sa-participation-a-la-diffusion-de-la-ligue-1-a-des-sponsors-qatariens/1484699 "beIN veut adosser sa participation à des sponsors qatariens")
 
-[16:43
+[08:40
 
-F1,
+JO 2024
 
-GP de Hongrie
+Nos posters collectors avant l'ouverture des Jeux](https://www.lequipe.fr/Medias/Actualites/Qui-figurera-en-une-de-l-equipe-pour-l-ouverture-des-jo-de-paris-2024/1483985 "Nos posters collectors avant l'ouverture des Jeux")
 
-Doublé pour McLaren, avec Piastri devant Norris](https://www.lequipe.fr/Formule-1/Actualites/Mclaren-signe-un-double-en-hongrie-avec-la-victoire-d-oscar-piastri-devant-lando-norris/1484057 "Doublé pour McLaren, avec Piastri devant Norris")
+[08:35
 
-[16:41
+JO 2024
+
+Les Français à suivre ce mercredi](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Actualites/Antoine-dupont-alexandre-lacazette-les-francais-a-suivre-aux-jo-ce-mercredi-24-juillet/1484682 "Les Français à suivre ce mercredi")
+
+[08:31
+
+JO 2030,
+
+Alpes françaises
+
+Les conditions d'attribution du CIO en détail](https://www.lequipe.fr/Tous-sports/Actualites/Les-conditions-d-attribution-des-jo-2030-aux-alpes-francaises-edictees-par-le-cio/1484697 "Les conditions d'attribution du CIO en détail")
+
+[08:31
+
+Foot,
+
+Bordeaux
+
+La désillusion des supporters des Girondins](https://www.lequipe.fr/Football/Article/-lopez-joue-au-poker-et-perd-a-chaque-fois-la-desillusion-des-supporters-des-girondins-de-bordeaux/1484679 "La désillusion des supporters des Girondins")
+
+[08:30
+
+JO 2024,
+
+Médias
+
+Le grand show de la cérémonie d'ouverture](https://www.lequipe.fr/Medias/Actualites/-la-plus-grande-couverture-en-direct-jamais-realisee-le-grand-show-inedit-de-la-ceremonie-d-ouverture/1484638 "Le grand show de la cérémonie d'ouverture")
+
+[08:11
+
+JO 2024,
+
+Foot (F)
+
+La Nouvelle-Zélande dénonce l'espionnage par drone du Canada](https://www.lequipe.fr/Jo-2024-paris/Football/Actualites/La-nouvelle-zelande-denonce-le-canada-au-cio-apres-le-survol-d-un-drone-lors-d-un-entrainement/1484696 "La Nouvelle-Zélande dénonce l'espionnage par drone du Canada")
+
+[08:01
+
+JO 2024,
+
+Bleu(e)s
+
+Les sports co ont la cote](https://www.lequipe.fr/Jo-2024-paris/Basket/Article/Foot-basket-rugby-volley-handball-ces-sports-collectifs-qui-peuvent-rapporter-des-medailles-a-la-france/1484583 "Les sports co ont la cote")
+
+[08:00
+
+JO 2024,
+
+Surf
+
+À Teahupoo, les Bleus «au top» et «sereins»](https://www.lequipe.fr/Jo-2024-paris/Surf/Actualites/A-teahupoo-les-bleus-sont-prets-pour-l-epreuve-de-surf-aux-jo-2024/1484695 "À Teahupoo, les Bleus «au top» et «sereins»")
+
+[08:00
+
+JO 2024,
+
+Le guide
+
+Antoine Dupont, l'une des grandes stars françaises des Jeux](https://www.lequipe.fr/Rugby-a-7/Fiche-guide/Athlete/Antoine-dupont/553 "Antoine Dupont, l'une des grandes stars françaises des Jeux")
+
+[08:00
+
+Cyclisme,
+
+spécial L'Équipe
+
+Inside le Team TotalEnergies](https://special.lequipe.fr/stories/web-stories/2024-team-totalenergies-3/ "Inside le Team TotalEnergies")
+
+[07:59
+
+JO 2024,
+
+Foot,
+
+Bleus
+
+Entre complicité et exigence, les ressorts de la méthode Henry](https://www.lequipe.fr/Jo-2024-paris/Football/Article/-il-a-les-codes-de-cette-generation-mais-est-intransigeant-sur-le-terrain-la-methode-thierry-henry-decrite-par-ceux-qui-la-vivent/1484637 "Entre complicité et exigence, les ressorts de la méthode Henry")
+
+[07:50
 
 JO 2024,
 
 Rugby à 7
 
-Bain de foule pour les Bleus à Marcoussis](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Article/Les-bleus-retrouvent-marcoussis-avant-le-village-olympique/1483940 "Bain de foule pour les Bleus à Marcoussis")
+Programmation TV des équipes de France](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Actualites/Programme-tv-des-matchs-des-equipes-de-france-de-rugby-a-7-aux-jo-de-paris-2024-date-horaires-chaines/1484437 "Programmation TV des équipes de France")
 
-[16:33
+[07:35
 
-Tour de France
+JO 2024,
 
-Girmay remporte le maillot vert de meilleur sprinteur](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Biniam-girmay-remporte-le-maillot-vert-de-meilleur-sprinteur-du-tour-de-france/1484055 "Girmay remporte le maillot vert de meilleur sprinteur")
+Rugby à 7,
 
-[16:24
+Edito
 
-Tour de France
+Mérite olympique](https://www.lequipe.fr/Jo-2024-paris/Rugby-a-7/Article/L-edito-de-jean-philippe-leclaire-sur-le-decalage-entre-le-rugby-et-le-football-aux-jo-merite-olympique/1484616 "Mérite olympique")
 
-Van der Poel sans matériel spécifique pour le chrono final](https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Mathieu-van-der-poel-s-est-elance-sur-le-contre-la-montre-final-du-tour-de-france-sans-materiel-specifique/1484053 "Van der Poel sans matériel spécifique pour le chrono final")
+[07:30
 
-[16:05
+JO 2024,
 
-Foot,
+Podcast
 
-Ligue 1,
-
-Brest
-
-L'effectif paraît léger à un mois de la reprise](https://www.lequipe.fr/Football/Article/A-brest-l-effectif-parait-un-peu-leger-a-un-mois-de-la-reprise-de-la-ligue-1/1483939 "L'effectif paraît léger à un mois de la reprise")
-
-[15:51
-
-Tennis,
-
-ATP,
-
-Bastad
-
-Nadal cale en finale](https://www.lequipe.fr/Tennis/Actualites/Rafael-nadal-battu-par-nuno-borges-en-finale-de-l-open-de-bastad/1484048 "Nadal cale en finale")
-
-[15:44
-
-Tour de France
-
-Matxín, le révélateur de talents d'UAE](https://www.lequipe.fr/Cyclisme-sur-route/Article/-il-voit-l-homme-chez-le-coureur-matxin-directeur-sportif-d-uae-et-revelateur-de-talents/1483977 "Matxín, le révélateur de talents d'UAE")
-
-[15:43
-
-Foot,
-
-Belgique
-
-Salut nazis et cris de singe ont entaché la Supercoupe](https://www.lequipe.fr/Football/Actualites/Salut-nazis-et-cris-de-singe-denonces-lors-de-la-supercoupe-de-belgique/1484045 "Salut nazis et cris de singe ont entaché la Supercoupe")
-
-[15:31
-
-Rugby,
-
-Afrique du Sud,
-
-Dopage
-
-Nkosi contrôlé positif](https://www.lequipe.fr/Rugby/Actualites/Sbu-nkosi-champion-du-monde-en-2019-avec-l-afrique-du-sud-a-ete-controle-positif/1484044 "Nkosi contrôlé positif")
+Vincent Milou, une certaine idée du skate](https://www.lequipe.fr/Jo-2024-paris/Skateboard/Actualites/Podcast-medaillables-vincent-milou-une-certaine-idee-du-skate/1484484 "Vincent Milou, une certaine idée du skate")
 
 le journal
 
-![](https://eqp-eqp-webreader-production.twipemobile.com/data/731/covers/Preview-MEDIUM-35598.jpg?v=4)
+![](https://eqp-eqp-webreader-production.twipemobile.com/data/737/covers/Preview-MEDIUM-35974.jpg?v=4)
 
 lire l'édition
 
@@ -534,7 +538,6 @@ L'ÉQUIPE
 réglages accessibilité
 
 * [Paris 2024](https://www.lequipe.fr/Jo-2024-paris/)
-* [Le Tour](https://www.lequipe.fr/Cyclisme-sur-route/Tour-de-france/)
 
 * [![lire le journal](//www.lequipe.fr/img/icons/kiosk.svg)
     
@@ -575,11 +578,11 @@ réglages accessibilité
     
 * [handball](https://www.lequipe.fr/Handball/)
     
-* [Jeux Olympiques](https://www.lequipe.fr/Jo/)
 * [golf](https://www.lequipe.fr/Golf/)
     
 * [combat](https://www.lequipe.fr/Sports-de-combat/)
     
+* [Jeux Olympiques](https://www.lequipe.fr/Jo/)
 * [ski-glace](https://www.lequipe.fr/Ski-glace/)
     
 * [esport](https://www.lequipe.fr/Esport/)
@@ -587,7 +590,6 @@ réglages accessibilité
 * [médias](https://www.lequipe.fr/Medias/)
 * [dopage](https://www.lequipe.fr/Dopage/)
 * [coaching](https://www.lequipe.fr/Coaching/)
-* [aviron](https://www.lequipe.fr/Aviron/)
 * les autres sports de A à Z...
 
 * accès rapide
