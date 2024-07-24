@@ -27,7 +27,7 @@ Close menu
         
         * [Complete Systems](https://www.lacrossetechnology.com/collections/complete-systems)
         * [Add-on Sensors](https://www.lacrossetechnology.com/collections/add-on-sensors)
-        * [Subscription Plans](https://www.lacrossetechnology.com/pages/subscription_plans)
+        * [Subscription Plans](https://www.lacrossetechnology.com/pages/view-subscription-plans)
         * [Sensor Compatibility Chart](https://www.lacrossetechnology.com/pages/view-sensor-compatibility-us)
         
     * [Monitoring & More](https://www.lacrossetechnology.com/pages/monitoring-landing)
@@ -116,7 +116,7 @@ Your cart is currently empty.
     
     [Add-on Sensors](https://www.lacrossetechnology.com/collections/add-on-sensors)
     
-    [Subscription Plans](https://www.lacrossetechnology.com/pages/subscription_plans)
+    [Subscription Plans](https://www.lacrossetechnology.com/pages/view-subscription-plans)
     
     [Sensor Compatibility Chart](https://www.lacrossetechnology.com/pages/view-sensor-compatibility-us)
     
