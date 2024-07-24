@@ -100,15 +100,15 @@ Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000
 
 [Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-ya-pueden-pedir-su-bono-digital-de-3000 "Ir al contenido de: Las empresas de menos de 3 trabajadores ya pueden pedir su bono digital de 3.000 euros ")
 
-![Informe UE](/sites/redes/files/styles/ratio_1_1/public/media/images/Informeweb.png?h=d3e663cf&itok=9nxaipRK)
+![San Francisco. Edición 2024](/sites/redes/files/styles/ratio_1_1/public/media/images/SF_0.png?h=c16165f9&itok=UDTjqoci)
 
 Noticia
 
-IA & Tecnologías habilitadoras
+Internacionalización
 
-La UE destaca el impulso que Kit Consulting y Kit Digital brindan a las pymes, en su informe Década Digital 2024 donde se mide la digitalización europea
+Desafía San Francisco vuelve a poner el foco en el talento femenino para seleccionar a las emprendedoras que formarán parte de su segunda edición
 
-[La UE destaca el impulso que Kit Consulting y Kit Digital brindan a las pymes, en su informe Década Digital 2024 donde se mide la digitalización europea](http://red.es/es/actualidad/noticias/informe-decada-digital-ue "Ir al contenido de: La UE destaca el impulso que Kit Consulting y Kit Digital brindan a las pymes, en su informe Década Digital 2024 donde se mide la digitalización europea")
+[Desafía San Francisco vuelve a poner el foco en el talento femenino para seleccionar a las emprendedoras que formarán parte de su segunda edición](http://red.es/es/actualidad/noticias/desafia-san-francisco-emprendedoras-segunda-edicion "Ir al contenido de: Desafía San Francisco vuelve a poner el foco en el talento femenino para seleccionar a las emprendedoras que formarán parte de su segunda edición ")
 
 Noticia
 
