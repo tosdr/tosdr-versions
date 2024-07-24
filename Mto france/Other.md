@@ -202,7 +202,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-21/07/2024
+24/07/2024
 
 Décharge de responsabilité
 --------------------------
@@ -250,6 +250,8 @@ Météo-France se réserve cependant le droit de
 * Modifier ou de corriger le contenu de ce site à tout moment et sans préavis.
 
 Tous les droits qui ne sont pas expressément concédés aux termes des présentes sont réservés par Météo-France. 
+
+[![En vigilance vent, un petit trajet, c'est un grand danger](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "En vigilance vent, un petit trajet, c'est un grand danger")](https://meteofrance.com/comprendre-la-vigilance)
 
 Top 20 des villes les plus consultées
 
