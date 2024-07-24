@@ -18,7 +18,7 @@ Menu
     
     ### Cards by Recipient
     
-    * [All Birthday Cards](https://www.moonpig.com/uk/personalised-cards/birthday/all/)
+    * [All Birthday Cards](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [For Him](https://www.moonpig.com/uk/personalised-cards/birthday/for-him/)
     * [For Her](https://www.moonpig.com/uk/personalised-cards/birthday/for-her/)
     * [For Friend](https://www.moonpig.com/uk/personalised-cards/birthday/for-friends/)
@@ -67,19 +67,19 @@ Menu
     
     ### Celebrations
     
-    * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/all/)
-    * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/all/)
+    * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
+    * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
     * [Graduation](https://www.moonpig.com/uk/personalised-cards/graduation/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
-    * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/all/)
-    * [Congratulations](https://www.moonpig.com/uk/personalised-cards/congratulations/)
+    * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
     * [New Home](https://www.moonpig.com/uk/personalised-cards/new-home/)
-    * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/all/)
+    * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/)
     * [Retirement](https://www.moonpig.com/uk/personalised-cards/retirement/)
     
     ### Sentiment
     
+    * [Congratulations](https://www.moonpig.com/uk/personalised-cards/congratulations/)
     * [Good Luck](https://www.moonpig.com/uk/personalised-cards/good-luck/)
     * [Just A Note](https://www.moonpig.com/uk/personalised-cards/just-note/)
     * [Thinking Of You](https://www.moonpig.com/uk/personalised-cards/thinking-of-you/)
