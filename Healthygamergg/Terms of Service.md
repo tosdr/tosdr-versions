@@ -62,7 +62,9 @@ Partnerships](https://www.healthygamer.gg/partnerships)
 
 Shop
 
-[![T-shirt icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a671cdf8540e14c30b55_Group%2036929.svg)
+[![](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6682bd3d9a0c90e7ab78bd7c_HG%20Resources%20Nav%20Icon.svg)
+
+Products & Services](https://www.healthygamer.gg/products-services)[![T-shirt icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a671cdf8540e14c30b55_Group%2036929.svg)
 
 Merch](https://merch.healthygamer.gg/)[![Book icon - Healthy Gamer Images](https://cdn.prod.website-files.com/607df3e34c19e5591b91647d/6532a671b17406d764ba8d27_Group%2036928.svg)
 
