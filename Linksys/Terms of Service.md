@@ -83,17 +83,6 @@ Search
 
   Search
 
-![popup logo](//www.linksys.com/cdn/shop/t/6/assets/popup-logo.svg?v=143105520703559523211713756545)
-
-Welcome, Would you like to be redirected to Linksys US Website?
----------------------------------------------------------------
-
-  United States
-
-United States
-
-YES or NO
-
 End-User License Agreement
 ==========================
 
