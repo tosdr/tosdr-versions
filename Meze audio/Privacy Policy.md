@@ -24,8 +24,7 @@ Open navigation menu [Open search](https://mezeaudio.com/search)
     * [Headphones](https://mezeaudio.com/collections?index=1)
     * [Amps & DACs](https://mezeaudio.com/collections?index=2)
     * [Accessories](https://mezeaudio.com/collections?index=3)
-    * [Spare parts](https://mezeaudio.com/collections?index=4)
-    * [Merchandise](https://mezeaudio.com/collections?index=5)
+    * [Merchandise](https://mezeaudio.com/collections?index=4)
     
 * COMMUNITY
     
@@ -79,8 +78,7 @@ Country
 * [Headphones](https://mezeaudio.com/collections?index=1)
 * [Amps & DACs](https://mezeaudio.com/collections?index=2)
 * [Accessories](https://mezeaudio.com/collections?index=3)
-* [Spare parts](https://mezeaudio.com/collections?index=4)
-* [Merchandise](https://mezeaudio.com/collections?index=5)
+* [Merchandise](https://mezeaudio.com/collections?index=4)
 
 * COMMUNITY
 * [Artists](https://mezeaudio.com/blogs/artists)
@@ -103,10 +101,6 @@ Country
 
 * Limited edition
 * [109 PRO Primal](https://mezeaudio.com/pages/109-pro-primal)
-
-LIMITED TIME OFFER: 30% OFF 99 SERIES HEADPHONES FROM JULY 15TH TO 21ST
-
-[SHOP NOW](https://mezeaudio.com/collections/limited-offer)
 
 Close
 
