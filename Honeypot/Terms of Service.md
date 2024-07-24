@@ -554,7 +554,7 @@ We're social, too!
 
 [Youtube](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos)
 
-[hello@honeypot.io](mailto:hello@honeypot.io)
+[\[email protected\]](https://www.honeypot.io/cdn-cgi/l/email-protection)
 
 * [EN](https://www.honeypot.io/en/terms_of_service/)
 
