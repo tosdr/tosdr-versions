@@ -1,10 +1,14 @@
   
 
-[](https://community.klaviyo.com/events/origin-story-fireside-chat-with-gabrielle-pitman-218)
+[](https://community.klaviyo.com/product-updates-announcements-51/join-us-in-shaping-the-future-of-our-home-dashboard-your-input-matters-paid-research-activity-13015)
 
-Origin Story Fireside Chat with Gabrielle Pitman
+Join Us in Shaping the Future of Our Home Dashboard – Your Input Matters (Paid Research Activity)!
 
-(Tue, 23 Jul, 4:00 pm)
+[![stephen.trumble](https://uploads-us-west-2.insided.com/klaviyo-en/icon/200x200/85b26450-bf2c-4208-b777-c42777d38fb9.png)
+
+![Community Manager](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/9f033269-0104-436f-83e0-ae33d1594720_thumb.png "Community Manager")](https://community.klaviyo.com/members/stephen-trumble-4206)
+
+9 hours ago
 
 * [Home](https://community.klaviyo.com/)
 * Terms
