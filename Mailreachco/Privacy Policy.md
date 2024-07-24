@@ -36,6 +36,8 @@ We may use your personal data to :
 * **Give access to our service** : When creating an account, you agree to our Terms of Use which allow us to process your data to give you access to MailReach.
 * **Online customer support:** We offer and include free customer support via email or via chat, to help you to use the MailReach service or fix issue you may find while using the service.
 
+Summer Sale: Get **20% OFF** for the first 30 days of warming up your first mailbox – [**Start now**](https://app.mailreach.co/signup?utm_content=top-bar) 🎉
+
 [![](https://cdn.prod.website-files.com/6336c0ecc4a07d5c2a6b36c2/6654dfc2b63d07a2d0a3132b_MailReach%20Logo.svg)](https://www.mailreach.co/)
 
 [Email Warmup](https://www.mailreach.co/email-warmup)[Email Spam Test](https://www.mailreach.co/email-spam-test)[Features](#)[Pricing](https://www.mailreach.co/pricing)
