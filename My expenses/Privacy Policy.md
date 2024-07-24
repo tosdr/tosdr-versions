@@ -187,6 +187,14 @@ With your support, My Expenses keeps growing in functionality, while being distr
 * Please consider purchasing one of the [Licence Keys](#premium) and gain access to more features.
 * If you just want to express your support to the project, you can send a donation via [Github Sponsors](https://github.com/sponsors/mtotschnig), [Bitcoin](bitcoin:15WECHs6zGQyyiRYoLmVzWYfoKVDoipmSp) (15WECHs6zGQyyiRYoLmVzWYfoKVDoipmSp) or [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KPXNZHMXJE8ZJ).
 
+3.8.72024-07-19
+
+[![](https://github.com/favicon.ico)](https://github.com/users/mtotschnig/projects/3) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112780201819204851) Search for transactions with same properties.
+
+3.8.62024-06-14
+
+[![](https://github.com/favicon.ico)](https://github.com/users/mtotschnig/projects/1) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112611283595024791) Distribution per expenses and distribution per income can be shown together in double-ring donut chart.
+
 3.8.52014-05-28
 
 [![](https://github.com/favicon.ico)](https://github.com/mtotschnig/MyExpenses/projects/143#column-19888171) [![](https://mastodon.social/favicon.ico)](https://mastodon.social/@myexpenses/112514030317651128) FinTS: ING-DiBa. Print: Configuration (Paper format, Orientation, Font size)
