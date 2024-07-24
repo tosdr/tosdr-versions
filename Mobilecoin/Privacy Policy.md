@@ -32,6 +32,152 @@ Sentz
 
 ![A graphic of two smiling women that are connected by a dotted line. There is a dollar sign in ](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/654d96496341137b0f807a01_hero-image.png)![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/654da46760adf4ec3518fad2_hero-image_Mobile.png)
 
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
+
+0
+
+Investors
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
+
+$0M
+
+Raised to Date
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
+
+0k+
+
+Wallets Created
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
+
+0+
+
+Partners
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
+
+0
+
+Countries Reached
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fdcbe0fc8eff02b11_security_purple.svg)
+
+E2EE
+
+Security
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
+
+35
+
+Investors
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
+
+$80M
+
+Raised to Date
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
+
+64k+
+
+Wallets Created
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
+
+20+
+
+Partners
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
+
+180
+
+Countries Reached
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fdcbe0fc8eff02b11_security_purple.svg)
+
+E2EE
+
+Security
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
+
+35
+
+Investors
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
+
+$80M
+
+Raised to Date
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
+
+64k+
+
+Wallets Created
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
+
+20+
+
+Partners
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
+
+180
+
+Countries Reached
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fdcbe0fc8eff02b11_security_purple.svg)
+
+E2EE
+
+Security
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
+
+35
+
+Investors
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
+
+$80M
+
+Raised to Date
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
+
+64k+
+
+Wallets Created
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
+
+20+
+
+Partners
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
+
+180
+
+Countries Reached
+
+![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fdcbe0fc8eff02b11_security_purple.svg)
+
+E2EE
+
+Security
+
+[Learn More](https://www.mobilecoin.com/trusted-by-freelancers)
+
 Join us in the future of  
 cross-border payments
 ------------------------------------------------
