@@ -114,6 +114,9 @@
             Explore partners to work with](https://connect.klaviyo.com/)
     * Discover more
         
+        * [BFCM 2024
+            
+            All the resources you need to succeed and grow this holiday season](https://www.klaviyo.com/solutions/bfcm)
         * [Case studies
             
             Learn from customers who have grown with Klaviyo](https://www.klaviyo.com/customers)
@@ -240,6 +243,9 @@
             Explore partners to work with](https://connect.klaviyo.com/)
     * Discover more
         
+        * [BFCM 2024
+            
+            All the resources you need to succeed and grow this holiday season](https://www.klaviyo.com/solutions/bfcm)
         * [Case studies
             
             Learn from customers who have grown with Klaviyo](https://www.klaviyo.com/customers)
@@ -395,6 +401,6 @@ English - US
 
 Copyright © 2024 Klaviyo. All rights reserved.
 
-[Site Map](https://klaviyo.com/sitemap)[Terms and Privacy](https://klaviyo.com/legal)[Security](https://klaviyo.com/security)[Trademarks](https://klaviyo.com/legal/trademarks)
+[Site Map](https://www.klaviyo.com/sitemap)[Terms and Privacy](https://www.klaviyo.com/legal)[Security](https://www.klaviyo.com/security)[Trust](https://www.klaviyo.com/trust)[Trademarks](https://www.klaviyo.com/legal/trademarks)
 
 Your privacy settings
