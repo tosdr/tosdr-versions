@@ -199,8 +199,8 @@ Newsweek Pulse (2x3 Times a Month)
 
 You can unsubscribe at any time. By signing up you are agreeing to our [Terms of Service](https://www.newsweek.com/terms-service) and [Privacy Policy](https://www.newsweek.com/privacy-policy "terms and conditions")
 
- In The Magazine [![Newsweek magazine cover](https://d.newsweek.com/en/full/2429850/cover-july-26-2024.jpg?w=400&f=6bd65bfb54233c9a9e324fbe6802ff4b)July 26  
-2024 Issue](https://www.newsweek.com/2024/07/26/issue.html "newsweek magazine")
+ In The Magazine [![Newsweek magazine cover](https://d.newsweek.com/en/full/2435078/cover-august-2-9-2024.jpg?w=400&f=1fdfdd45f05e23a01287a57b2d00a1d4)August 09  
+2024 Issue](https://www.newsweek.com/2024/08/09/issue.html "newsweek magazine")
 
 * * *
 
