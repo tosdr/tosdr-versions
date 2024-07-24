@@ -434,14 +434,21 @@ Quality Logo Products® website responds to DNT requests.
 
 This Privacy Notice may be updated from time to time so you may wish to check it each time you submit PI to Quality Logo Products®. If you do not agree to any changes, please do not continue to use Quality Logo Products's website or submit your PI to Quality Logo Products®. You can also delete your PI that Quality Logo Products® holds at any time, subject to any legal reasons we may have to keep some of the data we hold about you.
 
-14\. Sharing Your Data with Others
+14\. The Telephone Consumer Protection Act (TCPA).
+--------------------------------------------------
+
+Customers who provide their phone number consent to receive telephonic communications from Quality Logo Products in relation to any engagement they initiate with us, or any communication we receive from you, or any other parties involved in the service we provide for you. For example, we may use your name, email, phone number, and/or postal address to contact you regarding your order or information request.
+
+You acknowledge, that even if the phone number provided is registered in the National Do Not Call Registry, by sharing your phone number, you are giving express written consent to receive telephonic communication at this number, and expressly waive any protections or remedies as provided by The Telephone Consumer Protection Act (TCPA).
+
+15\. Sharing Your Data with Others
 ----------------------------------
 
 As part of the goods/service that we provide, it may be necessary to share data we hold about you with third parties, for example, Facebook and Google. Before we share any of your PI we hold about you with any third party, we will gain consent from you. If you do not want us to share your PI with any third party, please let us know.
 
 You also have the right to ask us to share your PI with anyone you wish. To exercise this right to data portability, please write to us, giving full details, using the details provided at Section 14 of this Notice.
 
-15\. Contacting Quality Logo Products® About This Privacy Notice
+16\. Contacting Quality Logo Products® About This Privacy Notice
 ----------------------------------------------------------------
 
 To exercise any of these rights, or to designate an agent or authorized representative to act on your behalf, you can contact us by calling us at [1-866-312-5646 to speak to a QLP representative](tel:1-866-312-5646) or by going to our Manage My Preferences link to submit an electronic form. When you submit a rights request through one of these designated methods, we will use the information you submit and the information we have in our systems (or through the systems of our Service Provider if we use a Service Provider) to try to verify your identity and to match the personal information we have collected about you, if any, to your identity. If we are successful in validating your identity, we will respond to your request within the time and in the manner required by CCPA. If we cannot validate your identity, we will attempt to contact you to inform you of this issue.
@@ -488,12 +495,12 @@ Zip \*
 
 In what role have you interacted with QLP? \* Visited WebsiteCalledEmailedPlaced an OrderRequested a Quote or Free ProofNone of the Above
 
-16\. Where is My Personal Information Stored?
+17\. Where is My Personal Information Stored?
 ---------------------------------------------
 
 QLP has implemented a data security program that contains administrative, technical and physical controls that are designed to reasonably safeguard your PI from unlawful use and unauthorized disclosure. The security of information transmitted through the internet cannot, however, be guaranteed. We are not responsible for any interception or interruption of any communications or for changes to or losses of data through the internet. You are responsible for maintaining the security of any password, user ID or other form of authentication involved in obtaining access to password protected or secure areas of websites, applications, or other services. Any access to websites, applications, or other services through your user ID and password will be treated as authorized by you. To help protect your PI, we may suspend your use of all or part of the websites, applications, or services, without notice, if we suspect or detect any security issues.
 
-17\. Children's Privacy
+18\. Children's Privacy
 -----------------------
 
 While QLP likes kids, the Quality Logo Products website is not intended to attract children, and we do not knowingly collect any Personal Information from anyone under the age of 16. If you believe your child is using our website, please [contact us](https://www.qualitylogoproducts.com/contact.htm) so we can investigate and delete any data as may be appropriate.
