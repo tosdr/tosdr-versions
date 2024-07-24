@@ -54,23 +54,23 @@ blankblankblankblankblank
     
     How AI is transforming customer service tech stacksTake your tech stack into a new age…](https://www.intercom.com/blog/videos/customer-service-tech-stack-platform-ai/)
     
-    [Blog
+    [Why Intercom?
     
-    Customer service news and insights](https://www.intercom.com/blog)[Help Center
+    Six reasons to choose Intercom](https://www.intercom.com/why-choose-intercom)[Customers
     
-    How to install, set up & use Intercom](https://www.intercom.com/help)[Resource Library
+    Browse real world CS case studies](https://www.intercom.com/customers)[Events
     
-    Explore the latest trends & releases](https://www.intercom.com/resources)[Developer Hub
+    Sign up to hear from industry experts](https://events.intercom.com/)[Help Center
     
-    Integrate with, or build on Intercom](https://developers.intercom.com/)[Events
+    How to install, set up & use Intercom](https://www.intercom.com/help)[Intercom Community
     
-    Sign up to hear from industry experts](https://events.intercom.com/)[Academy
+    Find expert answers and inspiration](https://community.intercom.com/)[Academy
     
-    Take a deep dive course on Intercom](https://academy.intercom.com/)[Intercom Community
+    Take a deep dive course on Intercom](https://academy.intercom.com/)[Blog
     
-    Find expert answers and inspiration](https://community.intercom.com/)[Customers
+    Customer service news and insights](https://www.intercom.com/blog)[Developer Hub
     
-    Browse real world CS case studies](https://www.intercom.com/customers)
+    Integrate with, or build on Intercom](https://developers.intercom.com/)
     
 * [Pricing](https://www.intercom.com/pricing)
 * [Demo](https://www.intercom.com/watch-demo)
