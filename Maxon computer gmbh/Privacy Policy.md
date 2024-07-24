@@ -117,6 +117,12 @@ LEGAL
 
 LEGAL
 
+* [IMPRINT](https://www.maxon.net/en/legal)
+* [PRIVACY](https://www.maxon.net/en/legal/privacy-policy)
+* [TERMS](https://www.maxon.net/en/legal/terms-of-use)
+* [LICENSE TRANSFER](https://www.maxon.net/en/legal/license-transfer)
+* [EULA](https://www.maxon.net/en/legal/eula)
+
 ![](https://maxonassets.imgix.net/images/Vladislav_Solovjov_4.jpg?fm=webp&auto=format,compress&w=1920&h=800&ar=16:9&fit=clip&crop=faces&q=10&blur=100)
 
 Artist: Vladislav Solovjov
