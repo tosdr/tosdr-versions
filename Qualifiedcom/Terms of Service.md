@@ -593,7 +593,7 @@ COMPANY
 
 RESOURCES
 
-[Qualified +](https://www.qualified.com/plus)[Blog](https://www.qualified.com/blog)[Books](https://www.qualified.com/books)[Podcasts](https://www.qualified.com/podcasts)[Events & Webinars](https://www.qualified.com/events)[ROI Calculator](https://www.qualified.com/resources/roi-calculator)[Pipeline Council Blueprint](https://www.qualified.com/resources/pipeline-council-template)[Conversations Playbook](https://www.qualified.com/conversations/playbook)[Meetings Playbook](https://www.qualified.com/meetings/playbook)[Signals Playbook](https://www.qualified.com/signals/playbook)[Inbound Sales Playbook](https://www.qualified.com/inbound-sales-playbook)
+[Qualified +](https://www.qualified.com/plus)[Blog](https://www.qualified.com/blog)[ROI Calculator](https://www.qualified.com/resources/roi-calculator)[Conversations Playbook](https://www.qualified.com/conversations/playbook)[Meetings Playbook](https://www.qualified.com/meetings/playbook)[Signals Playbook](https://www.qualified.com/signals/playbook)[Inbound Sales Playbook](https://www.qualified.com/inbound-sales-playbook)
 
 LEGAL
 
