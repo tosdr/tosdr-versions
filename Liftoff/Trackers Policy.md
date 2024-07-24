@@ -57,11 +57,11 @@
     * [Webinars](https://liftoff.io/resources/?type=webinar "Webinars")
     * [Help Center](https://liftoff.io/help/ "Help Center")
     
-    [![](https://liftoff.io/wp-content/uploads/2024/04/Casual-gaming-resource-4@2x-1024x535.png)](https://liftoff.io/blog/2024-casual-gaming-apps-report-announcement/)
+    [![Guide to Growing Chinese Gaming Apps Overseas](https://liftoff.io/wp-content/uploads/2024/07/Resource-EN-3-1024x533.png)](https://info.liftoff.io/2024-growing-chinese-gaming-apps)
     
     ###### FEATURED
     
-    [Introducing Liftoff’s 2024 Casual Gaming Apps Report](https://liftoff.io/blog/2024-casual-gaming-apps-report-announcement/)
+    [Guide to Growing Chinese Gaming Apps Overseas](https://info.liftoff.io/2024-growing-chinese-gaming-apps)
     
 * Mobile Heroes
     
