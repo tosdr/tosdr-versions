@@ -59,7 +59,7 @@
         * [Legacy Middle School](https://legacyms.ocps.net/ "Go to Legacy Middle School")
         * [Liberty Middle School](https://libertyms.ocps.net/ "Go to Liberty Middle School")
         * [Lockhart Middle School](https://lockhartms.ocps.net/ "Go to Lockhart Middle School")
-        * [Luminary Middle School](https://luminaryms.ocps.net/ "Go to Luminary Middle School")
+        * [Luminary Middle School](https://luminary_ms@ocps.net/ "Go to Luminary Middle School")
         * [Maitland Middle School](https://maitlandms.ocps.net/ "Go to Maitland Middle School")
         * [Meadow Woods Middle School](https://meadowwoodsms.ocps.net/ "Go to Meadow Woods Middle School")
         * [Meadowbrook Middle School](https://meadowbrookms.ocps.net/ "Go to Meadowbrook Middle School")
