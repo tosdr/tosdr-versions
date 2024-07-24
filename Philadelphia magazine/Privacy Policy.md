@@ -264,6 +264,12 @@ _Unsubscribe Requests:_ If you would like to unsubscribe from our email lists, y
 Trending
 --------
 
-1. ### [Quiz Five – Philadelphia Magazine](https://www.phillymag.com/big-philly-quiz/quiz-five/)
+1. ### [Philadelphia Mayor’s Back to Work Plan Isn’t Going So Well](https://www.phillymag.com/news/2024/07/23/philadelphia-return-to-office-cherelle-parker/)
     
-2. ### [Take the Big Philly Quiz! | Philadelphia History, Sports, Music](https://www.phillymag.com/big-philly-quiz/)
+2. ### [Preston and Steve Tell All In New Philly Mag Interview](https://www.phillymag.com/news/2024/07/23/preston-and-steve-interview/)
+    
+3. ### [Bloomsday and Green Engine Coffee Announce Loretta’s Cafe](https://www.phillymag.com/foobooz/2024/07/23/bloomsday-green-engine-coffee-lorettas-cafe/)
+    
+4. ### [Things to Do in Philadelphia This Weekend](https://www.phillymag.com/things-to-do/weekend-philadelphia/)
+    
+5. ### [The Best Dive Bars in Philly](https://www.phillymag.com/foobooz/best-dive-bars-philly/)
