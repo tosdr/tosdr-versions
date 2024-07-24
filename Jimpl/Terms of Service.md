@@ -49,20 +49,16 @@ If you have any questions about these Terms, please [contact us](https://contact
 
 [](#)
 
-![](/assets/logo-7140b31ff082690f0eb7d51de90174f086901434c51a29375817936efda630b8.svg) Jimpl
+©2010-2024 Jimpl.com
 
-©2024 jimpl.com
+[Remove EXIF data](https://jimpl.com/remove-exif/)
 
-[Contact](https://contact.do/jimpl)
+[Camera shutter count](https://jimpl.com/shutter-count/)
 
 Powered by awesome  
 [ExifTool by Phil Harvey](https://exiftool.org/)
 
-Share Jimpl with others!
-
-[](https://www.facebook.com/sharer/sharer.php?u=https://jimpl.com)[](https://twitter.com/intent/tweet?url=https://jimpl.com&text=Check%20out%20this%20free%20online%20image%20metadata%20viewer.%20Upload%20a%20photo%20to%20find%20where,%20when,%20and%20how%20it%20was%20taken.&via=jimpl_com)[](https://pinterest.com/pin/create/button/?url=https://jimpl.com&media=&description=Check%20out%20this%20free%20online%20image%20metadata%20viewer.%20Upload%20a%20photo%20to%20find%20where,%20when,%20and%20how%20it%20was%20taken.)[](https://www.linkedin.com/shareArticle?mini=false&url=https://jimpl.com&title=Free%20online%20photo%20metadata%20and%20EXIF%20data%20viewer&summary=Check%20out%20this%20online%20image%20metadata%20viewer.%20Upload%20a%20photo%20to%20find%20where,%20when,%20and%20how%20it%20was%20taken.&source=)
-
-[Remove EXIF data](https://jimpl.com/remove-exif)
+[Contact](https://contact.do/jimpl)
 
 [Terms and conditions](https://jimpl.com/terms)
 
