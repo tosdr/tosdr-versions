@@ -29,8 +29,6 @@ Resources
 
 [Credit card resources](https://www.nerdwallet.com/h/category/credit-card-resources?trk=nw_gn_6.0)
 
-[Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
-
 Banking
 
 * Banking
@@ -222,8 +220,6 @@ Tax preparation and filing[View all tax preparation and filing](https://www.nerd
     * Credit card calculators
         
     * Guides and resources
-        
-    * [Get your approval odds](https://www.nerdwallet.com/m/credit-cards/analyze/get-started?trk=nw_gn_6.0)
         
     * [View all credit cards](https://www.nerdwallet.com/h/category/credit-cards?trk=nw_gn_6.0)
         
