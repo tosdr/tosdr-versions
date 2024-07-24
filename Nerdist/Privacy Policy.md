@@ -13,6 +13,7 @@ Open menu
 * [LISTEN](https://nerdist.com/listen/ "LISTEN")
 * [SHOP](https://shop.legendary.com/search?type=product&q=nerdist&options%5Bprefix%5D=last "SHOP")
 * [PITCH](https://nerdist.com/how-to-pitch/ "PITCH")
+* [ADVERTISE](https://nerdist.com/advertise/ "ADVERTISE")
 * Open search
 
 [](https://nerdist.com/play)
@@ -285,6 +286,8 @@ Close menu
 * [Newsletter](https://nerdist.com/newsletter/)
     
 * [Pitch](https://nerdist.com/how-to-pitch/)
+    
+* [Advertise](https://nerdist.com/advertise/)
     
 
 * [About](https://nerdist.com/about)
