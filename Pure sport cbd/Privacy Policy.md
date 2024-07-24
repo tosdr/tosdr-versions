@@ -38,7 +38,7 @@ Check out
     
     ---------
     
-    [COLLECTION 01](https://puresport.co/collections/collection-01) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [SOCKS & CAPS](https://puresportcbd.com/collections/socks)
+    [SHOP ALL](https://puresportcbd.com/collections/shop-all-apparel) [COLLECTION 01](https://puresport.co/collections/collection-01) [PERFORMANCE WEAR](https://puresport.co/collections/performance-wear) [SOCKS & CAPS](https://puresportcbd.com/collections/socks)
     
 * SHOP BY GOAL
     
@@ -69,11 +69,11 @@ Check out
 
 * [ ]  [Apparel](https://puresportcbd.com/collections/collection-01)
     
-    [![](//puresport.co/cdn/shop/files/Collection_01.jpg?v=1719560352&width=900)](https://puresportcbd.com/collections/collection-01)[![](//puresport.co/cdn/shop/files/Performance.jpg?v=1719560391&width=900)](https://puresportcbd.com/collections/performance-wear)[![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/collections/socks)
+    [![](//puresport.co/cdn/shop/files/V2_Mobile_Banner.jpg?v=1721205064&width=900)](https://puresportcbd.com/collections/shop-all-apparel)[![](//puresport.co/cdn/shop/files/Collection_01.jpg?v=1719560352&width=900)](https://puresportcbd.com/collections/collection-01)[![](//puresport.co/cdn/shop/files/Performance.jpg?v=1719560391&width=900)](https://puresportcbd.com/collections/performance-wear)[![](//puresport.co/cdn/shop/files/Square_Extra_Socks2_1.jpg?v=1720541194&width=900)](https://puresportcbd.com/collections/socks)
     
     SHOP BY CATEGORY
     
-    [Collection 01](https://puresportcbd.com/collections/collection-01) [Performance](https://puresportcbd.com/collections/performance-wear) [Socks & Caps](https://puresportcbd.com/collections/socks)
+    [Shop All](https://puresportcbd.com/collections/shop-all-apparel) [Collection 01](https://puresportcbd.com/collections/collection-01) [Performance](https://puresportcbd.com/collections/performance-wear) [Socks & Caps](https://puresportcbd.com/collections/socks)
     
 * [Our Story](https://puresportcbd.com/pages/our-story)
 * [Clubs](https://puresportcbd.com/pages/clubs)
@@ -189,27 +189,16 @@ To opt out please click [here.](http://optout.networkadvertising.org/)
   
   
 
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-Sign up and receive 10% off
----------------------------
-
-#### Get 10% off your first order, information on promotions and apparel drops.
-
-\*Discount applies to full price products only and excludes bundles & subscriptions.
-
       
 
 ![](//puresport.co/cdn/shop/files/title.png?v=1705319392)
 
-* [Twitter](https://twitter.com/puresportco)
-* [TikTok](https://www.tiktok.com/@puresport.co)
+* [TikTok](https://www.tiktok.com/@puresport)
 * [Instagram](https://www.instagram.com/puresport/)
 * [YouTube](https://www.youtube.com/channel/UCgMb_715-KFq48rpVMEzqBg)
 * [Facebook](https://www.facebook.com/puresportclubs)
 
 * [Learn](https://puresportcbd.com/pages/learn)
-* [Lab Reports](https://puresportcbd.com/pages/lab-reports)
 * [Ambassadors](https://puresportcbd.com/pages/ambassadors)
 * [Subscription](https://puresportcbd.com/pages/subscription)
 * [Contact](https://puresportcbd.com/pages/contact)
