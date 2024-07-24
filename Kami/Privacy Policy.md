@@ -789,3 +789,9 @@ Additional Message (optional)
 CLOSE
 
 19744
+
+![](/wp-content/uploads/2024/07/Instagram-post-131-1-1024x1024.png)
+
+Join our webinars for a deep dive into our latest features
+
+[Register now](https://www.kamiapp.com/new-world-webinars/)
