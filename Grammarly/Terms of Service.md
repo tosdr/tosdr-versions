@@ -45,7 +45,7 @@
         * [Paraphrasing Tool](https://www.grammarly.com/paraphrasing-tool)
     
 
-[Contact Sales](https://go.grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
+[Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
 [Grammarly Home](https://www.grammarly.com/)
 
@@ -94,7 +94,7 @@
         * [Paraphrasing Tool](https://www.grammarly.com/paraphrasing-tool)
     
 
-[Contact Sales](https://go.grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
+[Contact Sales](https://grammarly.com/contact/sales)[Log in](https://www.grammarly.com/signin)
 
 Effective as of October 30, 2023 | Posted: October 27, 2023
 
