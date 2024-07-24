@@ -349,6 +349,14 @@
     
     Blog
     
+    [![](https://www.kaseya.com/wp-content/uploads/2024/07/AdobeStock_428812335-600x400.jpeg)
+    
+    Five Key Highlights From the Future of IT Survey Report
+    
+    July 22
+    
+    4 minute read](https://www.kaseya.com/blog/five-highlights-from-the-future-of-it-survey/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/07/KAS-Webinar-Introducing-Kaseya-600x400-1.png)
     
     What are Update Rings and Why are they Important? 
@@ -356,14 +364,6 @@
     July 19
     
     7 minute read](https://www.kaseya.com/blog/update-rings/)
-    
-    [![](https://www.kaseya.com/wp-content/uploads/2024/07/Badge-Winner-600x400.jpg)
-    
-    Kaseya Awarded Over a Dozen Channel Program Badges
-    
-    July 17
-    
-    1 minute read](https://www.kaseya.com/blog/kaseya-awarded-channel-program-badges/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
