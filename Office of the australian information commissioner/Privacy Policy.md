@@ -483,15 +483,15 @@ Related pages
 
 [### Privacy policy summary
 
-![Arrow](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)](https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/plans-policies-and-procedures/privacy-policy-summary)[### Human resources privacy policy
+![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)](https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/plans-policies-and-procedures/privacy-policy-summary)[### Human resources privacy policy
 
-![Arrow](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)](https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/plans-policies-and-procedures/human-resources-privacy-policy)
+![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)](https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/plans-policies-and-procedures/human-resources-privacy-policy)
 
 Did you find this helpful?
 
  [![This is helpful](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsup.svg) Yes](#)[![This is not helpful](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsdown.svg) No](#)
 
-    
+ Yes  No   
 
 Share
 
