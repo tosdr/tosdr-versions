@@ -174,7 +174,7 @@ Terms of Use
     
     Trending Now
     
-    [Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin) [Mob Wife Aesthetic](https://www.morphe.com/collections/mob-wife-aesthetic)
+    [Festival Shop](https://www.morphe.com/pages/festival-shop) [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready) [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
     
     [![How Do I Apply Blush Drops?](//www.morphe.com/cdn/shop/articles/Morphe-2024-July-Blog-Thumbail-Application-1020x580_600x.jpg?v=1720706595)
     
@@ -382,8 +382,6 @@ SEARCH COUNTRIES  search Created with Sketch. Or select from the list below:
     [Travel Sized/Mini](https://www.morphe.com/collections/travel-ready)
     
     [Cloud Skin](https://www.morphe.com/collections/cloud-skin)
-    
-    [Mob Wife Aesthetic](https://www.morphe.com/collections/mob-wife-aesthetic)
     
 * [ ] 
     
