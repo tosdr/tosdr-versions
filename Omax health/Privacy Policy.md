@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)             
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)         
 
-                    
+                  
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -302,13 +302,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3338 reviews](https://omaxhealth.com/pages/reviews)
+[3340 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3024)
+(3026)
 
 5%
 
@@ -326,7 +326,25 @@ Go to product page
 
 (49)
 
-2148
+2149
+
+C
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+C B.
+
+**Helps Relieve the Pain**
+
+My husband and I use for muscle and joint pain. He uses daily and we have not found another product that helps relieve pain as quickly as this product. We just signed up for the automatic renewal every 6 months. Great product!!
+
+V
+
+[O-Shot® CBD Arousal Oil for Women](https://omaxhealth.com/products/o-shot#judgeme_product_reviews)
+
+V.P.
+
+I never want to be without this!! That is why I signed up for the subscription!
 
 Y
 
@@ -337,23 +355,5 @@ Yvonne L.
 **This Combo is 5 STAR**
 
 The cream is fantastic. It is a wonderful compliment to the roll on. The menthol cooling effect of the cream is soothing to my 76 yo aches and pains.
-
-G
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-GWEN C.
-
-Product is superb and customer service is superior!
-
-L
-
-[Omax3® Omega 3 Fish Oil | 750 mg](https://omaxhealth.com/products/omax3-ultra-pure#judgeme_product_reviews)
-
-Lea B.
-
-**Neck pain**
-
-I’m an active 61 and since I was 31 I’ve had electric pain shocks in my neck due to injury and have two herniated discs. I started omax around 3 years ago and It took about a month of omax but my electric pain has been gone. So for me, it’s Truely improved my life. Also my cardiologist is very happy with the quality of this product
 
 Load More
