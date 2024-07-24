@@ -2,55 +2,66 @@
 
 [![Pinkerton Logo](/logo.svg)](https://pinkerton.com/)
 
-* Embedded SMEs
+* Services
     
     Embedded SMEs
     
-    * [Embedded SMEs](https://pinkerton.com/services/embedded-smes)
+    * [Overview](https://pinkerton.com/services/embedded-smes)
     
-* Protection
+    Protection
     
-    Ad hoc protection
+    * Dedicated protection
+        
+        * [Onsite Protection](https://pinkerton.com/protection/onsite-protection)
+        * [Executive Protection](https://pinkerton.com/protection/executive-protection)
+        * [High Net Worth Individuals](https://pinkerton.com/programs/high-net-worth-individuals-hnwi)
+        * [Travel Security](https://pinkerton.com/programs/corporate-travel-safety-and-security)
+        
+    * Ad hoc protection
+        
+        * [Response Protection](https://pinkerton.com/protection/response-services)
+        * [Workplace Violence Mitigation](https://pinkerton.com/protection/workplace-violence-mitigation)
+        * [Event Security](https://pinkerton.com/advisory/event-security)
+        
     
-    * [Response Protection](https://pinkerton.com/protection/response-services)
-    * [Workplace Violence Mitigation](https://pinkerton.com/protection/workplace-violence-mitigation)
-    * [Event Security](https://pinkerton.com/advisory/event-security)
+    Investigations
     
-    Dedicated protection
+    * Practice area
+        
+        * [Corporate Investigations](https://pinkerton.com/investigations/corporate-investigations)
+        * [Compliance & Ethics](https://pinkerton.com/investigations/compliance)
+        * [Litigation Support](https://pinkerton.com/investigations/litigation-support)
+        * [Threat Management](https://pinkerton.com/investigations/threat-assessment-and-management)
+        * [Threat Analysis](https://pinkerton.com/advisory/threat-analysis)
+        * [Event Security](https://pinkerton.com/advisory/event-security)
+        
+    * Reports
+        
+        * [SCOUT | Due Diligence](https://pinkerton.com/investigations/scout-due-diligence)
+        
     
-    * [Onsite Protection](https://pinkerton.com/protection/onsite-protection)
-    * [Executive Protection](https://pinkerton.com/protection/executive-protection)
-    * [High Net Worth Individuals](https://pinkerton.com/programs/high-net-worth-individuals-hnwi)
-    * [Travel Security](https://pinkerton.com/programs/corporate-travel-safety-and-security)
+    Consulting
     
-* Investigations
+    * Advisory
+        
+        * [Security and Risk Consulting](https://pinkerton.com/advisory/security-and-risk-consulting)
+        * [Risk Assessments](https://pinkerton.com/advisory/risk-assessments)
+        * [Enterprise Security Risk Management](https://pinkerton.com/advisory/enterprise-security-risk-management)
+        * [Event Security](https://pinkerton.com/advisory/event-security)
+        
+    * Analysis
+        
+        * [Pinkerton Crime Index](https://pinkerton.com/products/pinkerton-crime-index/)
+        * [Pinkerton Risk Pulse](https://pinkerton.com/advisory/pinkerton-risk-pulse)
+        
     
-    Practice area
+* Industries
     
-    * [Corporate Investigations](https://pinkerton.com/investigations/corporate-investigations)
-    * [Compliance & Ethics](https://pinkerton.com/investigations/compliance)
-    * [Litigation Support](https://pinkerton.com/investigations/litigation-support)
-    * [Threat Management](https://pinkerton.com/investigations/threat-assessment-and-management)
-    * [Threat Analysis](https://pinkerton.com/advisory/threat-analysis)
-    * [Event Security](https://pinkerton.com/advisory/event-security)
+    Industries
     
-    Reports
-    
-    * [SCOUT | Due Diligence](https://pinkerton.com/investigations/scout-due-diligence)
-    
-* Consulting
-    
-    Advisory
-    
-    * [Security and Risk Consulting](https://pinkerton.com/advisory/security-and-risk-consulting)
-    * [Risk Assessments](https://pinkerton.com/advisory/risk-assessments)
-    * [Enterprise Security Risk Management](https://pinkerton.com/advisory/enterprise-security-risk-management)
-    * [Event Security](https://pinkerton.com/advisory/event-security)
-    
-    Analysis
-    
-    * [Pinkerton Crime Index](https://pinkerton.com/products/pinkerton-crime-index/)
-    * [Pinkerton Risk Pulse](https://pinkerton.com/advisory/pinkerton-risk-pulse)
+    * [Healthcare](https://pinkerton.com/industries/healthcare)
+    * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
+    * [Data Centers](https://pinkerton.com/industries/data-centers)
     
 * About Us
     
@@ -157,55 +168,66 @@ We welcome reports of suspected infringement of any of these rights. Please dire
 
 ©2024 Pinkerton Consulting & Investigations, Inc. All Rights Reserved.
 
-* [Embedded SMEs](https://pinkerton.com/services/embedded-smes)
+* Services
     
     Embedded SMEs
     
-    * [Embedded SMEs](https://pinkerton.com/services/embedded-smes)
+    * [Overview](https://pinkerton.com/services/embedded-smes)
     
-* Protection
+    Protection
     
-    Ad hoc protection
+    * Dedicated protection
+        
+        * [Onsite Protection](https://pinkerton.com/protection/onsite-protection)
+        * [Executive Protection](https://pinkerton.com/protection/executive-protection)
+        * [High Net Worth Individuals](https://pinkerton.com/programs/high-net-worth-individuals-hnwi)
+        * [Travel Security](https://pinkerton.com/programs/corporate-travel-safety-and-security)
+        
+    * Ad hoc protection
+        
+        * [Response Protection](https://pinkerton.com/protection/response-services)
+        * [Workplace Violence Mitigation](https://pinkerton.com/protection/workplace-violence-mitigation)
+        * [Event Security](https://pinkerton.com/advisory/event-security)
+        
     
-    * [Response Protection](https://pinkerton.com/protection/response-services)
-    * [Workplace Violence Mitigation](https://pinkerton.com/protection/workplace-violence-mitigation)
-    * [Event Security](https://pinkerton.com/advisory/event-security)
+    Investigations
     
-    Dedicated protection
+    * Practice area
+        
+        * [Corporate Investigations](https://pinkerton.com/investigations/corporate-investigations)
+        * [Compliance & Ethics](https://pinkerton.com/investigations/compliance)
+        * [Litigation Support](https://pinkerton.com/investigations/litigation-support)
+        * [Threat Management](https://pinkerton.com/investigations/threat-assessment-and-management)
+        * [Threat Analysis](https://pinkerton.com/advisory/threat-analysis)
+        * [Event Security](https://pinkerton.com/advisory/event-security)
+        
+    * Reports
+        
+        * [SCOUT | Due Diligence](https://pinkerton.com/investigations/scout-due-diligence)
+        
     
-    * [Onsite Protection](https://pinkerton.com/protection/onsite-protection)
-    * [Executive Protection](https://pinkerton.com/protection/executive-protection)
-    * [High Net Worth Individuals](https://pinkerton.com/programs/high-net-worth-individuals-hnwi)
-    * [Travel Security](https://pinkerton.com/programs/corporate-travel-safety-and-security)
+    Consulting
     
-* Investigations
+    * Advisory
+        
+        * [Security and Risk Consulting](https://pinkerton.com/advisory/security-and-risk-consulting)
+        * [Risk Assessments](https://pinkerton.com/advisory/risk-assessments)
+        * [Enterprise Security Risk Management](https://pinkerton.com/advisory/enterprise-security-risk-management)
+        * [Event Security](https://pinkerton.com/advisory/event-security)
+        
+    * Analysis
+        
+        * [Pinkerton Crime Index](https://pinkerton.com/products/pinkerton-crime-index/)
+        * [Pinkerton Risk Pulse](https://pinkerton.com/advisory/pinkerton-risk-pulse)
+        
     
-    Practice area
+* Industries
     
-    * [Corporate Investigations](https://pinkerton.com/investigations/corporate-investigations)
-    * [Compliance & Ethics](https://pinkerton.com/investigations/compliance)
-    * [Litigation Support](https://pinkerton.com/investigations/litigation-support)
-    * [Threat Management](https://pinkerton.com/investigations/threat-assessment-and-management)
-    * [Threat Analysis](https://pinkerton.com/advisory/threat-analysis)
-    * [Event Security](https://pinkerton.com/advisory/event-security)
+    Industries
     
-    Reports
-    
-    * [SCOUT | Due Diligence](https://pinkerton.com/investigations/scout-due-diligence)
-    
-* Consulting
-    
-    Advisory
-    
-    * [Security and Risk Consulting](https://pinkerton.com/advisory/security-and-risk-consulting)
-    * [Risk Assessments](https://pinkerton.com/advisory/risk-assessments)
-    * [Enterprise Security Risk Management](https://pinkerton.com/advisory/enterprise-security-risk-management)
-    * [Event Security](https://pinkerton.com/advisory/event-security)
-    
-    Analysis
-    
-    * [Pinkerton Crime Index](https://pinkerton.com/products/pinkerton-crime-index/)
-    * [Pinkerton Risk Pulse](https://pinkerton.com/advisory/pinkerton-risk-pulse)
+    * [Healthcare](https://pinkerton.com/industries/healthcare)
+    * [Financial Institutions](https://pinkerton.com/industries/financial-institutions)
+    * [Data Centers](https://pinkerton.com/industries/data-centers)
     
 * About Us
     
