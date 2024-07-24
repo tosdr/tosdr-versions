@@ -90,7 +90,7 @@ PIR provides reliable, secure management of the .org, .ngo, .ong, .charity, .fou
 PIR serves as the registry operator for these gTLDs under contracts with the Internet Corporation for Assigned Names and Numbers ([ICANN](https://www.icann.org/)), a not-for-profit private sector organization which is charged with coordinating and ensuring the stable and secure operation of the Internet’s unique identifier systems.
 
 This Privacy Notice outlines policies that apply to information processed in conjunction with all PIR’s products and services.  
-Inquiries can be made electronically via e-mail at [privacy@pir.org](mailto:privacy@pir.org), or via mail to Public Interest Registry c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, USA , or via PIR’s EU Representative at [datenschutz@rickert.net](mailto:datenschutz@rickert.net) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
+Inquiries can be made electronically via e-mail at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection), or via mail to Public Interest Registry c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, USA , or via PIR’s EU Representative at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
 
 #### I. Why Do We Collect Information?
 
@@ -192,7 +192,7 @@ PIR may utilize third-party ads (Google, Facebook, Instagram). In general, PIR r
 
 _h. Children_
 
-Please note that we do not knowingly solicit information from children, and we do not knowingly market our products or services to children. If you have reason to believe anyone under the age of 18 has provided PIR with any personal data, please contact us at [privacy@pir.org](mailto:privacy@pir.org).
+Please note that we do not knowingly solicit information from children, and we do not knowingly market our products or services to children. If you have reason to believe anyone under the age of 18 has provided PIR with any personal data, please contact us at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection).
 
 _i. Sensitive Personal Information_
 
@@ -208,7 +208,7 @@ During the interview, hiring, and onboarding process, PIR will process personal 
 
 The data collected for employment purposes will not be used by PIR for any other purpose. PIR will only retain employment information for as long as is required by applicable law.
 
-If you have any questions or concerns about employment data please feel free to contact Human Resources [hr@pir.org](mailto:hr@pir.org) or the Privacy Office at [privacy@pir.org](mailto:privacy@pir.org).
+If you have any questions or concerns about employment data please feel free to contact Human Resources [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection) or the Privacy Office at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection).
 
 #### III. Purpose for Using Personal Data
 
@@ -216,7 +216,7 @@ PIR will make all reasonable efforts to ensure that personal information is proc
 
 ##### 1\. Domain Name Registration
 
-PIR uses the information provided by registrars to effect domain name registrations and to maintain the security and stability of our TLDs to ensure continued and reliable function to domain name users; to conduct analysis in order to optimize our service to you; and investigate and mitigate abuse in line with PIR’s [Abuse Policy](https://pir.org/policies/org-idn-policies/anti-abuse-policy/). In addition to ensuring the secure and stable registration and operation of your domain name, PIR may use registration data to improve our services, promotions, and systems and to develop and collect aggregate anonymous statistics related to PIR’s systems and services. In addition, because .ngo and .ong are restricted TLDs, meaning that only non-governmental organizations may register these domain names, PIR will use the registration information we receive from registrars, as well as additional credential information provided by the registrant organization, to complete an audit to assess compliance with the [Eligibility Requirements](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)  of .ngo and .ong.
+PIR uses the information provided by registrars to effect domain name registrations and to maintain the security and stability of our TLDs to ensure continued and reliable function to domain name users; to conduct analysis in order to optimize our service to you; and investigate and mitigate abuse in line with PIR’s [Abuse Policy](https://pir.org/policies/org-idn-policies/anti-abuse-policy/). In addition to ensuring the secure and stable registration and operation of your domain name, PIR may use registration data to improve our services, promotions, and systems and to develop and collect aggregate anonymous statistics related to PIR’s systems and services. In addition, because .ngo and .ong are restricted TLDs, meaning that only non-governmental organizations may register these domain names, PIR will use the registration information we receive from registrars, as well as additional credential information provided by the registrant organization, to complete an audit to assess compliance with the [Eligibility Requirements](https://pir.org/our-impact/ngo-ong-policy/)  of .ngo and .ong.
 
 ##### 2\. WHOIS
 
@@ -266,7 +266,7 @@ Registry Expiry Date: 2018-07-29T23:51:48Z
 Registrar Registration Expiration Date:  
 Registrar: Example Registrar  
 Registrar IANA ID: XXX  
-Registrar Abuse Contact Email: abuse@pir.org  
+Registrar Abuse Contact Email: [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection)  
 Registrar Abuse Contact Phone: +XX.XXXXXXX  
 Reseller:  
 Domain Status: ok https://icann.org/epp#ok  
@@ -310,7 +310,7 @@ There are occasionally special circumstances that require PIR to disclose inform
 
 In certain circumstances, PIR must disclose information beyond the limits outlined above including when it is necessary to fulfill a transaction or provide information you have requested; necessary to protect the rights, property or personal safety of PIR, its customers or the public; in the vital interests of the data subject or another person; required by law or necessary to respond to legal process; necessary to meet the requirements of requests, lawfully made by public authorities, including requests to meet national security or law enforcement requirements.
 
-PIR reserves the right to disclose personal data or non-personal data that PIR believes, in good faith, is appropriate or necessary to enforce our [Registry Policies](https://thenew.org/org-people/about-pir/policies/), and to protect the security or integrity of our Website.
+PIR reserves the right to disclose personal data or non-personal data that PIR believes, in good faith, is appropriate or necessary to enforce our Registry Policies, and to protect the security or integrity of our Website.
 
 #### VI. How to Access, Amend, and Control Your Personal Data
 
@@ -320,7 +320,7 @@ If you are a domain name registrant and wish to update your domain account infor
 
 If you are another type of user, you may request to have your personal data changed or corrected (e.g., a change of address). If you object to the processing of your personal data by third party service providers for online advertising please change your personal privacy settings within those services (i.e. Facebook Companies, Google, Twitter) or in your browser.
 
-You may also wish to contact us should you no longer desire our service. You may contact PIR via e-mail at [privacy@pir.org](mailto:privacy@pir.org) or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
+You may also wish to contact us should you no longer desire our service. You may contact PIR via e-mail at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection) or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
 
 ##### Special Note for EU Data Subjects
 
@@ -328,9 +328,9 @@ You may also wish to contact us should you no longer desire our service. You may
 
 The EU General Data Protection Regulation (2016/679) affords you certain rights. Where applicable you may request confirmation that PIR does or does not process personal data related to you. You may request a copy of your personal data or request that a copy is sent to a third party. You may request that your data, such as your address, is amended or corrected. In some circumstances you may request that your data processed by PIR be deleted. You may also request, in certain cases, that we restrict processing of your personal data by PIR. You also have the right to object to receiving direct marketing. To the extent your information is processed by PIR based upon consent, you may withdraw that consent at any time.
 
-Should you wish to exercise any of these rights or other rights afforded you by the GDPR please contact us via e-mail at [privacy@pir.org](mailto:privacy@pir.org), or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
+Should you wish to exercise any of these rights or other rights afforded you by the GDPR please contact us via e-mail at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection), or at Public Interest Registry, c/o Privacy Office, 11911 Freedom Drive, 10th Floor, Suite 1000, Reston, VA 20190, United States of America.
 
-You may contact PIR’s EU Representative at [datenschutz@rickert.net](mailto:datenschutz@rickert.net) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
+You may contact PIR’s EU Representative at [\[email protected\]](https://thenew.org/cdn-cgi/l/email-protection) or Rickert Rechtsanwaltsgesellschaft mbH, Kaiserplatz 7-9, 53113, Bonn, Germany.
 
 **2\. Data Transfer**
 
