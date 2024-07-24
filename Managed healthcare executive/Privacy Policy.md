@@ -58,6 +58,8 @@ Choose Topic
 
 [FDA](https://www.managedhealthcareexecutive.com/clinical/fda)
 
+[Friedreich Ataxia](https://www.managedhealthcareexecutive.com/clinical/friedreich-ataxia)
+
 [Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
 
 [Graft Versus Host Disease](https://www.managedhealthcareexecutive.com/clinical/graft-versus-host-disease)
@@ -199,6 +201,8 @@ Choose Topic
 [Eyecare](https://www.managedhealthcareexecutive.com/clinical/eyecare)
 
 [FDA](https://www.managedhealthcareexecutive.com/clinical/fda)
+
+[Friedreich Ataxia](https://www.managedhealthcareexecutive.com/clinical/friedreich-ataxia)
 
 [Gene Therapy](https://www.managedhealthcareexecutive.com/clinical/gene-therapy)
 
