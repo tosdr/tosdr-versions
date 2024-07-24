@@ -171,7 +171,7 @@ What’s your kink?
 Older Posts
 ===========
 
-* [July 2024](https://metalbondnyc.com/2024/07/) (77)
+* [July 2024](https://metalbondnyc.com/2024/07/) (89)
 * [June 2024](https://metalbondnyc.com/2024/06/) (121)
 * [May 2024](https://metalbondnyc.com/2024/05/) (108)
 * [April 2024](https://metalbondnyc.com/2024/04/) (110)
@@ -197,7 +197,7 @@ Older Posts
 * [August 2022](https://metalbondnyc.com/2022/08/) (94)
 * [July 2022](https://metalbondnyc.com/2022/07/) (100)
 * [June 2022](https://metalbondnyc.com/2022/06/) (93)
-* [May 2022](https://metalbondnyc.com/2022/05/) (70)
+* [May 2022](https://metalbondnyc.com/2022/05/) (69)
 * [April 2022](https://metalbondnyc.com/2022/04/) (60)
 * [March 2022](https://metalbondnyc.com/2022/03/) (84)
 * [February 2022](https://metalbondnyc.com/2022/02/) (88)
