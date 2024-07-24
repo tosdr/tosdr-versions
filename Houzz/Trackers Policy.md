@@ -181,6 +181,8 @@ Get Advice[Design Dilemmas](https://www.houzz.com/discussions/design-dilemma)[Be
 * [Kansas City, MO Flooring Contractors](https://www.houzz.com/professionals/hardwood-flooring-dealers/kansas-city-mo-us-probr0-bo~t_28349~r_4393217)
 * [Denver, CO Countertop Installers](https://www.houzz.com/professionals/custom-countertops/denver-co-us-probr0-bo~t_33909~r_5419384)
 * [San Francisco, CA New Home Builders](https://www.houzz.com/professionals/home-builders/san-francisco-ca-us-probr0-bo~t_11823~r_5391959)
+* [How to Build a House](https://www.houzz.com/professionals/general-contractor/how-to-build-a-house-mc~a2)
+* [How to Remodel a Bathroom](https://www.houzz.com/professionals/kitchen-and-bath-remodelers/how-to-remodel-a-bathroom-mc~a3)
 
 [All Professionals](https://www.houzz.com/professionals/probr0-bo~)[All Services](https://www.houzz.com/services)[For Professionals](https://www.houzz.com/pro)
 
@@ -555,7 +557,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28688899/pic/houzz_logo.svg?v=28688899)
+![Houzz Logo Print](//www.houzz.com/res/28696248/pic/houzz_logo.svg?v=28696248)
 
 **COOKIE POLICY**
 =================
