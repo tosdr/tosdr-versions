@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    30 Great LGBTQ+ Picture Books for Kids
+    How To Read More in 2024
     
-    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * * *
 
-* [![Best Audiobooks for Road Trips](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171556/PRH-Staff-Picks-HP-RJD_600x314-nav.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/06/12120535/ReadDown-2024-1200x628_nav.jpg)
     
-    Best Audiobooks for Road Trips
+    New Releases
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
 
 * * *
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    Browse All Our Lists, Essays, and Interviews
+    Books Bans Are on the Rise in America
     
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
@@ -264,9 +264,9 @@ Categories
 
 [Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
-[30 Great LGBTQ+ Picture Books for Kids
+[Swoon-Worthy YA Romantasy Books To Obsess Over
 
-Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
+Learn More >](https://www.readbrightly.com/ya-fantasy-romance-books/)
 
 Popular
 
@@ -360,9 +360,9 @@ Featured
 
 Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
-[Best Audiobooks for Road Trips
+[Audiobooks for Kids
 
-Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 [![search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-search.svg)](javascript:void(0) "Search site")
 
