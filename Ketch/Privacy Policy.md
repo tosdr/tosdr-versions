@@ -1,6 +1,6 @@
-[**\[🔔 New\] No-code, full control: introducing Ketch Privacy Experiences**
+[**\[🔔 New\] No-Code Rights Automation: unparalleled in DSR vendor market**
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/privacy-experiences-product)
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6348baa4ea56f615eca27f50_arrow_right_steel.svg)](https://www.ketch.com/blog/posts/no-code-rights-automation)
 
 [![Ketch logo](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6644b89f975ccad87be46f40_Ketch_logo.svg)](https://www.ketch.com/)
 
@@ -16,7 +16,7 @@ Ketch helps brands collect and mobilize permissioned data for growth
 
 Programmatic Privacy
 
-[Data mapping](https://www.ketch.com/platform/data-mapping)[Consent management](https://www.ketch.com/platform/consent-management)[Risk assessments & reporting](https://www.ketch.com/platform/risk-assessments-and-reporting)[DSR automation](https://www.ketch.com/platform/dsr-automation)[Marketing preference management](https://www.ketch.com/platform/marketing-preference-management)
+[Consent management](https://www.ketch.com/platform/consent-management)[DSR automation](https://www.ketch.com/platform/dsr-automation)[Data mapping](https://www.ketch.com/platform/data-mapping)[Marketing preference management](https://www.ketch.com/platform/marketing-preference-management)[Risk assessments & reporting](https://www.ketch.com/platform/risk-assessments-and-reporting)
 
 Data and AI Governance
 
@@ -36,9 +36,11 @@ By vertical
 
 [For retail & consumer goods](https://www.ketch.com/customers/retail-consumer-goods)[For travel & hospitality](https://www.ketch.com/customers/travel-and-hospitality)[For technology](https://www.ketch.com/customers/technology)[For communications & media](https://www.ketch.com/customers/communications-and-media)[For financial services](https://www.ketch.com/customers/financial-services)
 
-[No-code, full control: introducing Ketch Privacy Experiences
+[Product
 
-![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/privacy-experiences-product)
+Ketch launches No-Code Rights Automation: unparalleled in DSR vendor market
+
+![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a160e6a79c55d614caff0_arrow_right_white.svg)](https://www.ketch.com/blog/posts/no-code-rights-automation)
 
 [Download our compliance guide for retail and eCommerce brands
 
@@ -110,7 +112,7 @@ Platform
 
 [Programmatic Privacy](#)
 
-[Data mapping](https://www.ketch.com/platform/data-mapping)[Consent management](https://www.ketch.com/platform/consent-management)[Risk assessments & reporting](https://www.ketch.com/platform/risk-assessments-and-reporting)[DSR automation](https://www.ketch.com/platform/dsr-automation)[Marketing preference management](https://www.ketch.com/platform/marketing-preference-management)
+[Consent management](https://www.ketch.com/platform/consent-management)[DSR automation](https://www.ketch.com/platform/dsr-automation)[Data mapping](https://www.ketch.com/platform/data-mapping)[Marketing preference management](https://www.ketch.com/platform/marketing-preference-management)[Risk assessments & reporting](https://www.ketch.com/platform/risk-assessments-and-reporting)
 
 [Data and AI Governance](#)
 
