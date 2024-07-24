@@ -129,50 +129,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=178253821)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=121120162)  
+Tantra Sound and Lightz
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=98305837)  
-CBR Verwe/Paints
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=2119716)  
-Mtunzini Group
-
-![valued client VA AND M BUSINESSES (PTY)LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8454&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=156426823)  
-VA AND M BUSINESSES (PTY)LTD
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=149328932)  
-Repairs In Motion
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=145814034)  
-FX ACCOUNTING
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=66397128)  
-Oukraal Merino's
-
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=132794957)  
-Testpro Laboratory (Pty) Ltd
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=19394346)  
-TechnoDezi PTY(LTD)
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=15975527)  
-Fox Alarms & Security
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=180443069)  
-AMS Ambu Medical Supplies
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=118281357)  
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=187590299)  
 Printo
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=147615596)  
-LEO DEVELOPMENT GROUP
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=63427430)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client New Beginnings Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=122474682)  
-New Beginnings Designs
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=129455840)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=184d4ed6c7d0e0049913ebb2cd5a9726a260ac2649cd9ed690ca7e87a50e7813&c=39630461)  
-Roamfree Boerdery (PTY) LTD
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=199957605)  
+SR Travel Services
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=115363862)  
+Digifax Pty) Ltd t/a Findfish
+
+![valued client BOHMER TECH (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8479&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=201284261)  
+BOHMER TECH (Pty) Ltd
+
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=155712005)  
+SafeTclip
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=163165491)  
+Goju-Ryu Pretoria East
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=186951137)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=92161329)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=114588400)  
+MOSELA GROUP Pty(ltd)
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=150536453)  
+All Trucking Solutions
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=132501914)  
+Chiron Medical Solutions
+
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=34f2b62e835285cb2f0ce6ade1cc79abe805ce1cede89b5cca9bae71ac1d930d&c=93301657)  
+Sportspro Management (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
