@@ -49,7 +49,7 @@
     * [Technical Diagramming](https://miro.com/technical-diagramming/)
     * [Whiteboarding](https://miro.com/whiteboard/)
     * [Wireframing](https://miro.com/wireframe/)
-    * [Agile development](https://miro.com/pt/agile/)
+    * [Agile development](https://miro.com/agile/)
     * [Process Mapping](https://miro.com/process-mapping/)
     * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
     * [Strategy & Planning](https://miro.com/strategic-planning/)
@@ -466,7 +466,6 @@ RealtimeBoard BV ATTN: Data Protection Team Singel 542 1017 AZ Amsterdam, NL
     * [Blog](https://miro.com/blog/)
     * [Status](https://status.miro.com/)
     * [Miro Community](https://miro.com/community/)
-    * [Miro Experts Directory](https://miro.com/experts/)
     * [Miro Events](https://community.miro.com/events)
 * **Company**
     
@@ -528,7 +527,6 @@ RealtimeBoard BV ATTN: Data Protection Team Singel 542 1017 AZ Amsterdam, NL
     * [Blog](https://miro.com/blog/)
     * [Status](https://status.miro.com/)
     * [Miro Community](https://miro.com/community/)
-    * [Miro Experts Directory](https://miro.com/experts/)
     * [Miro Events](https://community.miro.com/events)
     
 * Company
