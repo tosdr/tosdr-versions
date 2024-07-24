@@ -79,7 +79,7 @@ The term “Visitors” in this Privacy Policy refers to individuals who visit o
 
 ### End-User License Agreement:
 
-For information regarding our Terms and Conditions for RapidIdentity customers and their users, please reference our customer End-User License Agreement [**here**](https://www.identityautomation.com/terms-and-conditions/?hsLang=en).
+For information regarding our Terms and Conditions for RapidIdentity customers and their users, please reference our customer End-User License Agreement [**here**](https://www.identityautomation.com/identity-automation-saas-subscription-agreement/?hsLang=en).
 
 ### Trust Center:
 
