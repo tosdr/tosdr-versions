@@ -1,6 +1,9 @@
 [Skip to main content](#main)
 
 [![Nextcloud Hub 8 is here!
+](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![Nextcloud Hub 8 is here!
 ](https://nextcloud.com/c/uploads/2024/03/nc-hub-8-icon-blue-gradient-custom-2.svg)](https://nextcloud.com/blog/nextcloud-hub8/ "Nextcloud Hub 8 is here!
 ")
 
@@ -26,7 +29,9 @@
 
 [Register now](https://nextcloud.com/conference-2024/ "Nextcloud Community Conference 2024")
 
-[![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
+[![Nextcloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+
+![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](# "Products")
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
