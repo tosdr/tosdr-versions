@@ -55,7 +55,7 @@ Idiomia
 
 언어
 
-中文
+中文 (中国)
 
 语
 
@@ -86,6 +86,38 @@ Bahasa
 Nederlands
 
 Taal
+
+Tiếng Việt
+
+Ngôn ngữ  
+
+ภาษาไทย
+
+ภาษา  
+
+Filipino
+
+Wika  
+
+Română
+
+Limba  
+
+中文 (台灣)
+
+語言  
+
+Svenska
+
+Språk  
+
+ภาษาไทย
+
+Dil  
+
+Suomi
+
+Kieli  
 
 Legal
 
