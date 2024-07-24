@@ -42,6 +42,10 @@
     
     Latest News Releases
     
+    July 24, 2024
+    
+    [Sharpie® is Giving Away Half a Million Markers to Inspire the Next Generation of Creativity](http://ir.newellbrands.com/news-releases/news-release-details/sharpier-giving-away-half-million-markers-inspire-next)
+    
     July 12, 2024
     
     [Newell Brands to Webcast Second Quarter 2024 Earnings Results](http://ir.newellbrands.com/news-releases/news-release-details/newell-brands-webcast-second-quarter-2024-earnings-results)
@@ -53,10 +57,6 @@
     June 05, 2024
     
     [DYMO PARTNERS WITH TAYLOR TO OFFER CUSTOM PRE-PRINTED LABELS FOR DYMO LABELWRITER 5 SERIES PRINTERS](http://ir.newellbrands.com/news-releases/news-release-details/dymo-partners-taylor-offer-custom-pre-printed-labels-dymo)
-    
-    June 04, 2024
-    
-    [Celebrate 140th Anniversary of the Ball® Brand with New Keepsake Jar](http://ir.newellbrands.com/news-releases/news-release-details/celebrate-140th-anniversary-ballr-brand-new-keepsake-jar)
     
     [View All Press Releases](http://ir.newellbrands.com/news-releases)
     
