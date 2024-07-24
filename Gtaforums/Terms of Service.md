@@ -4,7 +4,7 @@
 
 GTAFORUMS
 
-IT'S RACE & CHASE - CROTCH ROCKETS!](https://gtaforums.com/)
+RAGEQUITTING LIFE FOR ONE ON GTAFORUMS](https://gtaforums.com/)
 
 * [](#)
 
@@ -80,4 +80,4 @@ Important Information
 
 By using GTAForums.com, you agree to our [Terms of Use](https://gtaforums.com/terms/) and [Privacy Policy](https://gtaforums.com/gtanet/privacy).
 
-  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=61b5303367e0655b4a3878d9aa168df5)
+  [I accept](https://gtaforums.com/index.php?app=core&module=system&controller=terms&do=dismiss&ref=aHR0cHM6Ly9ndGFmb3J1bXMuY29tL3Rlcm1zLw==&csrfKey=adbd4471837b07efdf44e23327be36bd)
