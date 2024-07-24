@@ -3,8 +3,7 @@
 [![MCProHosting Logo](https://cdn.mcprohosting.com/assets/logo.png)](https://mcprohosting.com/)
 
 * [Home](https://mcprohosting.com/)
-* [Buy a Server](https://mcprohosting.com/order)
-* [Partners](https://mcprohosting.com/partners)
+* Buy a Server
 * [About](#)
     
     * [News](https://mcprohosting.com/news)
@@ -96,31 +95,9 @@ Founded in 2011, MCProHosting is the world's largest and leading game server hos
 * [Join Official Discord](https://mcprohosting.com/discord)
 * [Spotify Playlist](https://open.spotify.com/user/kvx0f4zp9tm7iyldcaom2z3q1?si=f035e6ecffc9490e)
 
-#### Minecraft Hosting
-
-* [Minecraft Server Plans](https://mcprohosting.com/billing/store/minecraft)
-* [Titan Server Plans](https://mcprohosting.com/billing/store/minecraft)
-* [Trial Servers](https://mcprohosting.com/billing/store/minecraft-trial)
-* [Free Servers](https://mcprohosting.com/freebee)
-
-#### Services
-
-* [Server Management Packs](https://mcprohosting.com/serverpacks)
-* [Minigames](https://mcprohosting.com/minigames)
-* [Shield DDoS Protection](https://mcprohosting.com/shield)
-* [Referrals Program](https://mcprohosting.com/refer)
-* [Partner Program](https://mcprohosting.com/partners)
-
-#### Support
-
-* [Knowledgebase](https://mcprohosting.com/billing/knowledgebase.php)
-* [Submit Ticket](https://mcprohosting.com/billing/submitticket.php)
-* [Contact Us](https://mcprohosting.com/contact)
-
 #### Company
 
 * [Our Team](https://mcprohosting.com/team)
-* [Partners](https://mcprohosting.com/partners)
 * [Press Pack](https://mcprohosting.com/press)
 * [News](https://mcprohosting.com/news)
 * [Privacy Policy](https://mcprohosting.com/privacy)
@@ -128,4 +105,25 @@ Founded in 2011, MCProHosting is the world's largest and leading game server hos
 * [Terms of Service](https://mcprohosting.com/tos)
 * [MSA](https://mcprohosting.com/msa)
 
+#### Support
+
+* [Knowledgebase](https://mcprohosting.com/billing/knowledgebase.php)
+* [Submit Ticket](https://mcprohosting.com/billing/submitticket.php)
+* [Contact Us](https://mcprohosting.com/contact)
+
 Copyright © 2011-2024 MCProHosting LLC. All Rights Reserved.
+
+×
+
+![](https://cdn.mcprohosting.com/assets/logo.png) ![](https://cdn.apexminecrafthosting.com/assets/images/apex_logo.png)
+
+#### MCPROHOSTING IS MIGRATING TO APEX HOSTING
+
+We want to inform you about an exciting transition: MCProHosting is merging with our sister brand, Apex Hosting. This means that all future game server purchases will now be made through Apex Hosting.
+
+**Why the change?** By consolidating our brands, we can offer you:
+
+* **Better Performance:** With more server locations and upgraded hardware, your gaming experience will be smoother and faster
+* **Better Pricing:** Enjoy improved services at more competitive rates
+
+[Order Server](https://apexminecrafthosting.com/pricing/)
