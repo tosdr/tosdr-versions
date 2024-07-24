@@ -184,22 +184,22 @@ _Last Updated: Mon 3rd Apr 2023 11:32_
 
 Popular Right Now
 
-* [![Best Nintendo Switch Flight Sim And Space Combat Games](https://images.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games/130x100.jpg)Best Nintendo Switch Flight Sim And Space Combat GamesFri, 6pm](https://www.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games)
-* [![Best Teenage Mutant Ninja Turtles Games, Ranked - Every TMNT Game On Switch And Nintendo Systems](https://images.nintendolife.com/guides/best-teenage-mutant-ninja-turtles-games-ranked-every-tmnt-game-on-switch-and-nintendo-systems/130x100.jpg)Best Teenage Mutant Ninja Turtles Games, Ranked - Every TMNT Game On Switch And Nintendo SystemsYesterday, 2pm](https://www.nintendolife.com/guides/best-teenage-mutant-ninja-turtles-games-ranked-every-tmnt-game-on-switch-and-nintendo-systems)
+* [![Best Nintendo Switch Puzzle Games](https://images.nintendolife.com/guides/best-nintendo-switch-puzzle-games/130x100.jpg)Best Nintendo Switch Puzzle GamesYesterday, 7pm](https://www.nintendolife.com/guides/best-nintendo-switch-puzzle-games)
+* [![Best Nintendo Switch Flight Sim And Space Combat Games](https://images.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games/130x100.jpg)Best Nintendo Switch Flight Sim And Space Combat GamesFri 19th Jul 2024](https://www.nintendolife.com/guides/best-nintendo-switch-flight-sim-and-space-combat-games)
+* [![Review: Bō: Path Of The Teal Lotus (Switch) - Charm Meets Challenge In This Gorgeous Metroidvania](https://images.nintendolife.com/reviews/switch-eshop/bo-path-of-the-teal-lotus/130x100.jpg)Review: Bō: Path Of The Teal Lotus (Switch) - Charm Meets Challenge In This Gorgeous Metroidvania2pm](https://www.nintendolife.com/reviews/switch-eshop/bo-path-of-the-teal-lotus)
+* [![Nintendo Expands 'Controller Button Collection' In Japan With SNES, N64 & GameCube Keychains](https://images.nintendolife.com/news/2024/07/nintendo-expands-controller-button-collection-in-japan-with-snes-n64-and-gamecube-keychains/130x100.jpg)Nintendo Expands 'Controller Button Collection' In Japan With SNES, N64 & GameCube KeychainsYesterday, 10:15am](https://www.nintendolife.com/news/2024/07/nintendo-expands-controller-button-collection-in-japan-with-snes-n64-and-gamecube-keychains)
+* [![Best Teenage Mutant Ninja Turtles Games, Ranked - Every TMNT Game On Switch And Nintendo Systems](https://images.nintendolife.com/guides/best-teenage-mutant-ninja-turtles-games-ranked-every-tmnt-game-on-switch-and-nintendo-systems/130x100.jpg)Best Teenage Mutant Ninja Turtles Games, Ranked - Every TMNT Game On Switch And Nintendo SystemsSat 20th Jul 2024](https://www.nintendolife.com/guides/best-teenage-mutant-ninja-turtles-games-ranked-every-tmnt-game-on-switch-and-nintendo-systems)
 * [![Amazon Prime Day 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And More](https://images.nintendolife.com/guides/amazon-prime-day-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more/130x100.jpg)Amazon Prime Day 2024 - Best Deals On Nintendo Switch Games, Consoles, Accessories, SD Cards And MoreWed 17th Jul 2024](https://www.nintendolife.com/guides/amazon-prime-day-2024-best-deals-on-nintendo-switch-games-consoles-accessories-sd-cards-and-more)
-* [![Video: Here's Marvel vs. Capcom Fighting Collection At EVO 2024](https://images.nintendolife.com/news/2024/07/video-heres-marvel-vs-capcom-fighting-collection-at-evo-2024/130x100.jpg)Video: Here's Marvel vs. Capcom Fighting Collection At EVO 20246:45am](https://www.nintendolife.com/news/2024/07/video-heres-marvel-vs-capcom-fighting-collection-at-evo-2024)
+* [![All Humble Games Staff Reportedly Laid Off As Publisher Announces "Restructuring"](https://images.nintendolife.com/news/2024/07/all-humble-games-staff-reportedly-laid-off-as-publisher-announces-restructuring/130x100.jpg)All Humble Games Staff Reportedly Laid Off As Publisher Announces "Restructuring"12pm](https://www.nintendolife.com/news/2024/07/all-humble-games-staff-reportedly-laid-off-as-publisher-announces-restructuring)
+* [![Random: Nintendo's New 'Button Collection' Toys Can Be Used For Real Controller Repairs](https://images.nintendolife.com/news/2024/07/random-nintendos-new-button-collection-toys-can-be-used-for-real-controller-repairs/130x100.jpg)Random: Nintendo's New 'Button Collection' Toys Can Be Used For Real Controller Repairs12:45pm](https://www.nintendolife.com/news/2024/07/random-nintendos-new-button-collection-toys-can-be-used-for-real-controller-repairs)
 * [![Best Nintendo Switch Football Games](https://images.nintendolife.com/guides/best-nintendo-switch-football-games/130x100.jpg)Best Nintendo Switch Football GamesThu 11th Jul 2024](https://www.nintendolife.com/guides/best-nintendo-switch-football-games)
-* [![Switch Online NES Controller Limited-Time Sale Now Live (North America)](https://images.nintendolife.com/news/2024/07/switch-online-nes-controller-limited-time-sale-now-live-north-america/130x100.jpg)Switch Online NES Controller Limited-Time Sale Now Live (North America)Fri, 4:30am](https://www.nintendolife.com/news/2024/07/switch-online-nes-controller-limited-time-sale-now-live-north-america)
-* [![SNK vs. Capcom: SVC Chaos Announced For Nintendo Switch](https://images.nintendolife.com/news/2024/07/snk-vs-capcom-svc-chaos-announced-for-nintendo-switch/130x100.jpg)SNK vs. Capcom: SVC Chaos Announced For Nintendo Switch2am](https://www.nintendolife.com/news/2024/07/snk-vs-capcom-svc-chaos-announced-for-nintendo-switch)
-* [![Nintendo Announces Official Switch Joy-Con Charging Stand](https://images.nintendolife.com/news/2024/07/nintendo-announces-official-switch-joy-con-charging-stand/130x100.jpg)Nintendo Announces Official Switch Joy-Con Charging StandFri, 2:30am](https://www.nintendolife.com/news/2024/07/nintendo-announces-official-switch-joy-con-charging-stand)
-* [![The Pokemon Company Will Be One Of The 'Line-Up Highlights' At Gamescom](https://images.nintendolife.com/news/2024/07/the-pokemon-company-will-be-one-of-the-line-up-highlights-at-gamescom/130x100.jpg)The Pokemon Company Will Be One Of The 'Line-Up Highlights' At GamescomYesterday, 1pm](https://www.nintendolife.com/news/2024/07/the-pokemon-company-will-be-one-of-the-line-up-highlights-at-gamescom)
-* [![Rumour: 'Tales Of Xillia Remastered' Switch Release Spotted Online](https://images.nintendolife.com/news/2024/07/rumour-tales-of-xillia-remastered-switch-release-spotted-online/130x100.jpg)Rumour: 'Tales Of Xillia Remastered' Switch Release Spotted Online3pm](https://www.nintendolife.com/news/2024/07/rumour-tales-of-xillia-remastered-switch-release-spotted-online)
-* [![Every Game In The Switch eShop 'Recollection Collection' Sale (North America)](https://images.nintendolife.com/guides/every-game-in-the-switch-eshop-recollection-collection-sale-north-america/130x100.jpg)Every Game In The Switch eShop 'Recollection Collection' Sale (North America)Sat 13th Jul 2024](https://www.nintendolife.com/guides/every-game-in-the-switch-eshop-recollection-collection-sale-north-america)
-* [![Crocs And Pokémon Are Teaming Up Again With Four New Designs](https://images.nintendolife.com/news/2024/07/crocs-and-pokemon-are-teaming-up-again-with-four-new-designs/130x100.jpg)Crocs And Pokémon Are Teaming Up Again With Four New DesignsWed 17th Jul 2024](https://www.nintendolife.com/news/2024/07/crocs-and-pokemon-are-teaming-up-again-with-four-new-designs)
+* [![Random: The New Denpa Men Is Getting Roasted For Its Translation Issues](https://images.nintendolife.com/news/2024/07/random-the-new-denpa-men-is-getting-roasted-for-its-translation-issues/130x100.jpg)Random: The New Denpa Men Is Getting Roasted For Its Translation Issues11am](https://www.nintendolife.com/news/2024/07/random-the-new-denpa-men-is-getting-roasted-for-its-translation-issues)
+* [![Nintendo Strips Team Jackpot Of Splatoon 3 World Championship Win](https://images.nintendolife.com/news/2024/07/nintendo-strips-team-jackpot-of-splatoon-3-world-championship-win/130x100.jpg)Nintendo Strips Team Jackpot Of Splatoon 3 World Championship Win10am](https://www.nintendolife.com/news/2024/07/nintendo-strips-team-jackpot-of-splatoon-3-world-championship-win)
+* [![Mario + Rabbids Director Davide Soliani Leaves Ubisoft After 25 Years](https://images.nintendolife.com/news/2024/07/mario-plus-rabbids-director-davide-soliani-leaves-ubisoft-after-25-years/130x100.jpg)Mario + Rabbids Director Davide Soliani Leaves Ubisoft After 25 Years11:30am](https://www.nintendolife.com/news/2024/07/mario-plus-rabbids-director-davide-soliani-leaves-ubisoft-after-25-years)
 
 [Show More](https://www.nintendolife.com/news)
 
-Join **1,451,037** people following **Nintendo Life**:
+Join **1,451,953** people following **Nintendo Life**:
 
 * [RSS Feed](https://www.nintendolife.com/feeds/latest "Subscribe to our RSS Feed")
 * [YouTube](https://www.youtube.com/nintendolife "Nintendo Life on YouTube")
@@ -209,18 +209,18 @@ Join **1,451,037** people following **Nintendo Life**:
 * [Facebook](https://www.facebook.com/nintendolife "Nintendo Life on Facebook")
 * [DeviantArt](https://www.deviantart.com/nintendolife "Nintendo Life on DeviantArt")
 
-© 2024 [Hookshot Media](https://hookshot.media/), partner of [Gamer Network](https://gamer.network/). Hosted by [44 Bytes](https://www.44bytes.net/).
+© 2024 [Hookshot Media](https://hookshot.media/), partner of [IGN Entertainment](https://www.ziffdavis.com/brands/entertainment). Hosted by [44 Bytes](https://www.44bytes.net/).
 
 * Friends:
 * [Push Square](https://www.pushsquare.com/)
 * [Pure Xbox](https://www.purexbox.com/)
 * [Time Extension](https://www.timeextension.com/)
-* [Nintendo News](https://nintendonews.com/ "Nintendo News - All the latest Nintendo News from across the web.")
+* [Nintendo News](https://nintendonews.com/ "Nintendo News - All the latest Nintendo News from across the web")
+* [IGN](https://www.ign.com/ "IGN - Video Game News, Reviews, and Walkthroughs")
 * [Eurogamer.net](https://www.eurogamer.net/ "European coverage of the world of gaming - the mighty Eurogamer.net")
 * [VGC](https://www.videogameschronicle.com/ "The latest news from Video Games Chronicle")
-* [RPS](https://www.rockpapershotgun.com/ "Specialist PC gaming blog - Rock, Paper, Shotgun")
-* [VG247](https://www.vg247.com/ "Up to the minute news coverage for all formats - VG24/7")
 * [GamesIndustry.biz](https://www.gamesindustry.biz/ "Stay on the pulse with industry news with the #1 resource - GamesIndustry.biz")
+* [RPS](https://www.rockpapershotgun.com/ "Specialist PC gaming blog - Rock, Paper, Shotgun")
 
 All the latest Nintendo goodness straight to your inbox 
 
