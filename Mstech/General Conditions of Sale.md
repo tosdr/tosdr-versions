@@ -12,6 +12,7 @@
     * [MG PDF Split Merge](https://mstechglobal.com/mg-pdf-split-merge/)
     * [MG Search in Contents](https://mstechglobal.com/search-in-contents/)
     * [MG QR Code Generator](https://mstechglobal.com/mg-qr-code-generator/)
+    * [MG Uninstaller](https://mstechglobal.com/mg-uninstaller/)
 * [Downloads](#)
     * [Download Products](https://mstechglobal.com/download-products/)
     * [Folder Icon](#)
@@ -376,7 +377,7 @@ Your cart is empty[Return to Shop](https://mstechglobal.com/shop/)
 
 [Continue Shopping](#)
 
-                                                                                           
+                                                                                        
 
 Insert/edit link
 ================
