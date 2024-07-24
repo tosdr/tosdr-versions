@@ -59,7 +59,7 @@ Idiomia
 
 언어
 
-中文
+中文 (中国)
 
 语
 
@@ -90,6 +90,41 @@ Bahasa
 Nederlands
 
 Taal
+
+Filipino
+
+Wika
+
+Tiếng Việt
+
+Ngôn ngữ
+
+ภาษาไทย
+
+ภาษา  
+  
+
+中文 (台灣)
+
+語言
+
+Suomi
+
+Kieli
+
+Română
+
+Limba  
+  
+
+Türkçe
+
+Dil  
+  
+
+Svenska
+
+Språk  
 
 ![](https://cdn.prod.website-files.com/5f39912be9da2f5c8fc5cc45/64ef6dc1946c1218ca171412_mh-logo-footer.svg)
 
