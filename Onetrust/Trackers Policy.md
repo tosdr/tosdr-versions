@@ -285,9 +285,9 @@ Your partner in trust transformation
 
 ### Resources
 
-* [The road to 50 states: Rhode Island joins the US privacy landscape with a new law](https://www.onetrust.com/resources/the-road-to-50-states-rhode-island-joins-the-us-privacy-landscape-with-a-new-law-webinar/)
-* [Ensuring compliance and operational readiness under the EU AI Act](https://www.onetrust.com/resources/ensuring-compliance-and-operational-readiness-under-the-eu-ai-act-webinar/)
-* [OneTrust Live: Complying with US Privacy Laws Effective July 2024](https://www.onetrust.com/resources/onetrust-live-complying-with-us-privacy-laws-effective-july-2024-webinar/)
+* [Tech risk & compliance masterclass: The anatomy of a framework](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-the-anatomy-of-a-framework-webinar/)
+* [New European cyber laws: What you need to know](https://www.onetrust.com/resources/new-european-cyber-laws-what-you-need-to-know-webinar/)
+* [Enhancing Data Governance: OneTrust and Snowflake strategies for data-driven businesses](https://www.onetrust.com/resources/enhancing-data-governance-onetrust-and-snowflake-strategies-for-data-driven-businesses-webinar/)
 
 ### Platform
 
