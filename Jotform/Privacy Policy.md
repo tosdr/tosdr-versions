@@ -415,6 +415,7 @@ Jotform
         * [Booking Forms](https://www.jotform.com/form-templates/category/booking)
         * [Request Forms](https://www.jotform.com/form-templates/category/request-form)
     * Popular Uses
+        * [GovernmentNEW](https://www.jotform.com/government/)
         * [Healthcare](https://www.jotform.com/hipaa/)
         * [Summer Camps](https://www.jotform.com/summer-camp/)
         * [Restaurants and Groceries](https://www.jotform.com/food-ordering-system/)
