@@ -1,6 +1,5 @@
 English Hindi
 
-* [Arogya Maitri Bhishm Cube](http://www.lifecarehll.com/page/render/reference/Bhishmcube)
 * [Careers](http://www.lifecarehll.com/career)
 * [Tenders](http://www.lifecarehll.com/tender)
 * [RTI](http://www.lifecarehll.com/page/render/reference/Rti_Downloads_)
@@ -45,6 +44,7 @@ English Hindi
     * [GAPL](http://www.lifecarehll.com/page/render/reference/Gapl)
     * [HITES](http://www.lifecarehll.com/page/render/reference/Hites)
     * [HLL Management Academy](http://www.lifecarehll.com/page/render/reference/Hll_Management_Academy_Hma)
+* [Arogya Maitri Bhishm Cube](http://www.lifecarehll.com/page/render/reference/Bhishmcube)
 
 Disclaimer
 ----------
