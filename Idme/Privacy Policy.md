@@ -1,4 +1,4 @@
-To sign in to a government program using ID.me, go to the matching tile on [ID.me Government](https://www.id.me/government) and follow the steps to connect.
+Did you know you can access the [Social Security Administration](https://secure.ssa.gov/RIL/SiView.action) with your ID.me account? [Learn more](https://insider.id.me/your-guide-to-using-ssa-gov-your-key-to-social-security-benefits/) about how ID.me can help you access your SSA benefits.
 
 [![ID.me](/assets/idme-logo-826e178c68fa7ebbac1591400456e290ef2ef181a1c2a5b43f060047dd6b2743.svg)](https://www.id.me/)
 
