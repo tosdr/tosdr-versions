@@ -18,81 +18,81 @@ We, IBIS INC., a company registered in Nagoya, Japan, issue this privacy policy.
 
 As we provide you with our services, we collect, use, store, generate or disclose to third-parties (hereinafter collectively referred to as "process") your personal data for the following purposes:
 
-1. To manage your application purchase information on the application store, such as Google Play, App Store, and Microsoft Store.
-    1. Categories of your personal data we process: Purchase ID, Purchased product, Device information on purchase, Date and time of purchase, continuation, and cancellation.  
+1. To manage your application purchase information on the application store, such as Google Play, App Store, and Microsoft Store:
+    1. Categories of your personal data we process: Purchase ID, Purchased product, Device information on purchase, Date and time of purchase; Continuation, and Cancellation.  
         We collect these categories of your personal data from your activity on the application store.  
         If you do not provide them, it prevents us from giving you our service.
-    2. Lawful basis: the processing is necessary for the performance of a contract.
-    3. Period for which we store your personal data: until the end of the service to maintain purchase information.
-    4. Recipients we disclose your personal data to: our contractors that assist us in providing ibisPaint.
-2. To manage your application accounts (ibisAccount, Twitter account, Facebook account, Apple ID, YouTube account, CLIP STUDIO account).
-    1. Categories of your personal data we process: ibisAccount name, ibisAccount access token, Twitter account name, Twitter access token, Facebook account name, Facebook access token, YouTube account name, YouTube access token, YouTube refresh token, CLIP STUDIO account name, CLIP STUDIO access token, Apple account name, Apple access token, Apple refresh token, Apple identity token, IP address.  
+    2. Lawful basis: The processing is necessary for the performance of a contract.
+    3. Period for which we store your personal data: Until the end of the service to maintain purchase information.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in providing ibisPaint.
+2. To manage your application accounts (ibisAccount, Twitter account, Facebook account, Apple ID, YouTube account, CLIP STUDIO account):
+    1. Categories of your personal data we process: ibisAccount name, ibisAccount access token, Twitter account name, Twitter access token, Facebook account name, Facebook access token, YouTube account name, YouTube access token, YouTube refresh token, CLIP STUDIO account name, CLIP STUDIO access token, Apple account name, Apple access token, Apple refresh token, Apple identity token, and IP address.  
         We collect these categories of your personal data from your posting on our service.  
         If you do not provide them, it prevents us from giving you our service.
-    2. Lawful basis: the processing is necessary for the performance of a contract.
-    3. Period for which we store your personal data: as long as user maintain their account of this service.
-    4. Recipients we disclose your personal data to: our contractors that assist us in providing ibisPaint.
-3. To manage our personalized advertising.
-    1. Categories of your personal data we process: your operational history on our service collected by the application, including Device token, FCM token, App UUID, Platform type, App type, IP address, user-agent, device language settings, terminal carrier information, screen size, orientation, and resolution, sound volume, battery, memory use, country, time zone, and local settings, network connection type and speed, advertisement ID.  
+    2. Lawful basis: The processing is necessary for the performance of a contract.
+    3. Period for which we store your personal data: As long as user maintain their account of this service.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in providing ibisPaint.
+3. To manage our personalized advertising:
+    1. Categories of your personal data we process: Your operational history on our service collected by the application, including Device token, FCM token, App UUID, Platform type, App type, IP address, User-agent, Device language settings, Terminal carrier information, Screen size, Orientation, Resolution, Sound volume, Battery, Memory use, Country, Time zone, Local settings, Network connection type and speed; and Advertisement ID.  
         We collect these categories of your personal data from the Device on which you use this application.
-    2. Lawful basis: your consent. You can withdraw your consent at any time. Your withdrawal of consent does not affect the lawfulness of our processing of your personal data based on consent before its withdrawal.
-    3. Period for which we store your personal data: as long as the user maintains their account of this service or until you withdraw your consent of our services.
-    4. Recipients we disclose your personal data to: our contractors that assist us in advertising.
+    2. Lawful basis: Your consent. You can withdraw your consent at any time. Your withdrawal of consent does not affect the lawfulness of our processing of your personal data based on consent before its withdrawal.
+    3. Period for which we store your personal data: As long as the user maintains their account of this service or until you withdraw your consent of our services.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in advertising.
 4. To analyze your use of our service in order to generate insight that is useful for improving our services, products and marketing:
-    1. Categories of your personal data we process: App UUID, platform type, App type, model name, OS version, and region of use.  
+    1. Categories of your personal data we process: App UUID, Platform type, App type, Model name, OS version, Region of use, Screen size, User Ad ID, ID created by the UET SDK, and ID that allows Microsoft to identify which ad this application was downloaded from.  
         We collect these categories of your personal data from your activity on the application store.
-    2. Lawful basis: your consent. You can withdraw your consent at any time. Your withdrawal of consent does not affect the lawfulness of our processing of your personal data based on consent before its withdrawal.
-    3. Period for which we store your personal data: until loss of relation to personal information via deletion of the app or until you withdraw your consent.
-    4. Recipients we disclose your personal data to: our contractors that assist us in analyzing service usage data.
+    2. Lawful basis: Your consent. You can withdraw your consent at any time. Your withdrawal of consent does not affect the lawfulness of our processing of your personal data based on consent before its withdrawal.
+    3. Period for which we store your personal data: Until loss of relation to personal information via deletion of the app or until you withdraw your consent.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in analyzing service usage data.
 5. To investigate App bugs:
-    1. Categories of your personal data we process: App UUID, platform type, App type, model name, OS version, region of use, and stack trace.  
+    1. Categories of your personal data we process: App UUID, Platform type, App type, Model name, OS version, Region of use, and Stack trace.  
         We collect these categories of your personal data from your activity on the application store.  
         If you do not provide them, it prevents us from giving you as appropriate and precise information as we can.
-    2. Lawful basis: the processing is necessary for the performance of a contract and for the purpose of our legitimate interest, i.e. to improve and expand this service for our customers.
-    3. Period for which we store your personal data: until loss of relation to personal information via deletion of the app.
-    4. Recipients we disclose your personal data to: our contractors that assist us in analyzing service usage data.
+    2. Lawful basis: The processing is necessary for the performance of a contract and for the purpose of our legitimate interest, i.e. to improve and expand this service for our customers.
+    3. Period for which we store your personal data: Until loss of relation to personal information via deletion of the app.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in analyzing service usage data.
 6. To protect your privacy and security, integrity and availability of our website:
-    1. Categories of your personal data we process: IP address, user-agent, access time, and access URL.  
+    1. Categories of your personal data we process: IP address, User-agent, Access time, and Access URL.  
         We collect these categories of your personal data from your activity on the application store.  
         If you do not provide them, it prevents us from giving you as appropriate and precise information as we can.
-    2. Lawful basis: the processing is necessary for the performance of a contract and for the purpose of our legitimate interest, i.e. protecting your privacy and our website from fraudulent or unlawful access by monitoring web access traffic.
-    3. Period for which we store your personal data: seven (7) days.
-    4. Recipients we disclose your personal data to: our contractors that assist us in providing ibisPaint.
-7. To manage user communication on official postings sites (Online Gallery)
+    2. Lawful basis: The processing is necessary for the performance of a contract and for the purpose of our legitimate interest, i.e. protecting your privacy and our website from fraudulent or unlawful access by monitoring web access traffic.
+    3. Period for which we store your personal data: Seven (7) days.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in providing ibisPaint.
+7. To manage user communication on official postings sites (Online Gallery):
     1. Categories of your personal data we process: ibisAccount name, Twitter account name, Facebook account name, Apple account name, and Your responses to posts such as comments or Likes.  
         We collect these categories of your personal data from your posting on our service.  
         If you do not provide them, it prevents us from giving you our service.
-    2. Lawful basis: the processing is necessary for the performance of a contract
+    2. Lawful basis: The processing is necessary for the performance of a contract.
     3. Period for which we store your personal data: The shortest duration of the commented work, the deletion of the comment, or the deletion of your account.
-    4. Recipients we disclose your personal data to: our contractors that assist us in managing user communication.
-8. To manage inappropriate artwork reports.
-    1. Categories of your personal data we process: ibisAccount name, Twitter account name, Facebook account name, Apple account name, Device's model name, Artwork data, Inappropriate artwork report history, IP address.  
+    4. Recipients we disclose your personal data to: Our contractors that assist us in managing user communication.
+8. To manage inappropriate artwork reports:
+    1. Categories of your personal data we process: ibisAccount name, Twitter account name, Facebook account name, Apple account name, Device's model name, Artwork data, Inappropriate artwork report history, and IP address.  
         We collect these categories of your personal data from your posting on our service.  
         If you do not provide them, it prevents us from giving you our service.
-    2. Lawful basis: the processing is necessary for the performance of a contract
+    2. Lawful basis: The processing is necessary for the performance of a contract.
     3. Period for which we store your personal data: Until the end of this service.
-    4. Recipients we disclose your personal data to: our contractors that assist us in managing user communication.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in managing user communication.
 9. To manage user upload:
     1. Categories of your personal data we process: ibisAccount name, Twitter account name, Facebook account name, Apple account name, Device's model name, and Artwork data.  
         We collect these categories of your personal data from your posting on our service.  
         If you do not provide them, it prevents us from giving you our service.
-    2. Lawful basis: the processing is necessary for the performance of a contract
+    2. Lawful basis: The processing is necessary for the performance of a contract.
     3. Period for which we store your personal data: Until the deletion of artwork with the user's YouTube or Online Gallery account.
-    4. Recipients we disclose your personal data to: our contractors that assist us in managing user communication.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in managing user communication.
 10. To manage contest:
-    1. Categories of your personal data we process: Twitter account name, e-mail address, and Artwork data.  
+    1. Categories of your personal data we process: Twitter account name, E-mail address, and Artwork data.  
         We collect these categories of your personal data from your posting on our service.  
         If you do not provide them, it prevents us from giving you our service.
-    2. Lawful basis: the processing is necessary for the performance of a contract
-    3. Period for which we store your personal data: Two (2) weeks after prize payment
-    4. Recipients we disclose your personal data to: our contractors that assist us in managing contests.
+    2. Lawful basis: The processing is necessary for the performance of a contract.
+    3. Period for which we store your personal data: Two (2) weeks after prize payment.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in managing contests.
 11. To respond to your Enquiries (bug reports, requests, complaints, etc.):
-    1. Categories of your personal data we process: name, e-mail address, user-agent, and inquiry content.  
+    1. Categories of your personal data we process: Name, E-mail address, User-agent, and Inquiry content.  
         We collect these categories of your personal data from your posting on our service.  
         If you do not provide them, it prevents us from giving you as appropriate and precise information as we can.
-    2. Lawful basis: the processing is necessary for the performance of a contract
-    3. Period for which we store your personal data: until deletion upon request.
-    4. Recipients we disclose your personal data to: our contractors that assist us in storing the user content.
+    2. Lawful basis: The processing is necessary for the performance of a contract.
+    3. Period for which we store your personal data: Until deletion upon request.
+    4. Recipients we disclose your personal data to: Our contractors that assist us in storing the user content.
 
 ### 3\. SENSITIVE PERSONAL DATA
 
