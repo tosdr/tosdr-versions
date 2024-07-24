@@ -124,7 +124,17 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Book Recommendations
+    1. The Olympics
+        
+        In Focus
+        
+        **The Olympics** At the 2024 Paris Games, members of the Harvard community will add to the University’s Olympics history, which dates back to the first modern games in 1896. [Explore the games](https://www.harvard.edu/in-focus/the-olympics/)
+        
+        1. **What's inside?**
+            1. [**Explore all the Olympic coverage from Harvard Athletics**](https://gocrimson.com/feature/paris-2024)
+            2. [**Learn how we can apply Olympic values to everyday life**](https://www.sir.advancedleadership.harvard.edu/articles/reframing-dei-higher-ed-olympic-values-game-theory)
+        
+    2. Book Recommendations
         
         In Focus
         
@@ -134,7 +144,7 @@ Menu
             1. [**Recommendations from Harvard Law School**](https://hls.harvard.edu/today/what-harvard-law-profs-are-reading-this-summer/)
             2. [**Need a book for a young person?**](https://news.harvard.edu/gazette/story/2020/12/faculty-experts-and-expert-parents-recommend-gift-books-for-children/)
         
-    2. The Senses
+    3. The Senses
         
         In Focus
         
@@ -143,16 +153,6 @@ Menu
         1. **What's inside**
             1. [**Read Harvard Medical School's exploration of our senses**](https://magazine.hms.harvard.edu/issues/senses)
             2. [**Learn the science behind why we itch**](https://news.harvard.edu/gazette/story/2023/11/researchers-identify-whats-behind-that-urge-to-scratch/)
-        
-    3. Physical Fitness
-        
-        In Focus
-        
-        **Physical Fitness** Exercise—from gentle stretching to high-intensity training—is not only important for physical health, but Harvard experts are finding benefits for stress, memory, mood, and more. [On your mark, get set, go](https://www.harvard.edu/in-focus/exercise/)
-        
-        1. **What's inside?**
-            1. [**Explore different types of exercise**](https://www.hsph.harvard.edu/nutritionsource/staying-active/)
-            2. [**Learn how short bursts can make a big difference**](https://news.harvard.edu/gazette/story/2020/11/12-minute-bursts-of-exercise-have-bigger-impact-than-thought/)
         
     4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
