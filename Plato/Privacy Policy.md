@@ -136,7 +136,7 @@ Retention
 
 We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained Personal Information will remain subject to the terms of this Privacy Policy. Please note that if you request that your Personal Information be removed from our databases, it may not be possible to completely delete all of your Personal Information due to technological and legal constraints. We will, nonetheless, comply with applicable law as it pertains to the responding to requests for deletion of Personal Information.  
   
-Please note that if you delete our app without letting us know you want to delete your account, we will not know you no longer wish to use the Services. Therefore, we may end up retaining your Personal Information indefinitely. If you want to terminate your relationship with us and have us delete your account, please contact us at: hello@platoteam.com.  
+Please note that if you delete our app without letting us know you want to delete your account, we will not know you no longer wish to use the Services. Therefore, we may end up retaining your Personal Information indefinitely. If you want to terminate your relationship with us and have us delete your account, please contact us at: [\[email protected\]](https://www.platoapp.com/cdn-cgi/l/email-protection).  
 
 Amendment of this Privacy Policy
 --------------------------------
@@ -165,7 +165,7 @@ Please note that we may ask you to verify your identity before responding to suc
 \- Past Plato ID associated with the account  
 \- Verification of past purchases with Apple or Google  
   
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [legal@platoteam.com](mailto:legal@platoteam.com).  
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [\[email protected\]](https://www.platoapp.com/cdn-cgi/l/email-protection).  
 
 Service Providers
 -----------------
@@ -177,12 +177,12 @@ A list of our current Service Providers can be found at the following URL: [http
 Contact Us
 ----------
 
-If you would like to access your information, if you have any questions, comments or suggestions, if you find any errors in our information about you, or if you have a complaint concerning our compliance with applicable privacy laws, please contact us at [legal@platoteam.com](mailto:legal@platoteam.com) or by mail at:
+If you would like to access your information, if you have any questions, comments or suggestions, if you find any errors in our information about you, or if you have a complaint concerning our compliance with applicable privacy laws, please contact us at [\[email protected\]](https://www.platoapp.com/cdn-cgi/l/email-protection) or by mail at:
 
 Plato Team Inc.  
 1769 Hillsdale Ave. #24035,  
 San Jose, CA 95154  
-[legal@platoteam.com](mailto:legal@platoteam.com)
+[\[email protected\]](https://www.platoapp.com/cdn-cgi/l/email-protection)
 
 Additional Information for European Users
 -----------------------------------------
@@ -237,7 +237,7 @@ European data protection laws give you certain rights regarding your personal in
   
 **Object** - Object to our reliance on our legitimate interests as the basis of our processing ofyour personal information that impacts your rights.  
   
-You can submit these requests by email to hello@platoteam.com. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described in Section 13 of our Privacy Policy or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here: [https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
+You can submit these requests by email to [\[email protected\]](https://www.platoapp.com/cdn-cgi/l/email-protection). We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described in Section 13 of our Privacy Policy or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here: [https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
 
 ### Cross-Border Data Transfer
 
