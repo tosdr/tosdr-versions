@@ -23,20 +23,20 @@ Mobile Navigation
     
     United States
     
-    * [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Child Therapist in Austin, TX")
-    * [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Child Therapist in Brooklyn, NY")
-    * [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Child Therapist in Chicago, IL")
-    * [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Child Therapist in Denver, CO")
-    * [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Child Therapist in Houston, TX")
-    * [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Child Therapist in Los Angeles, CA")
-    * [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Child Therapist in New York, NY")
-    * [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Child Therapist in Portland, OR")
-    * [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Child Therapist in San Diego, CA")
-    * [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Child Therapist in San Francisco, CA")
-    * [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Child Therapist in Seattle, WA")
-    * [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Child Therapist in Washington, DC")
-    * [Atlanta, GA](https://www.psychologytoday.com/us/therapists/ga/atlanta "Find a Child Therapist in Atlanta, GA")
-    * [Sacramento, CA](https://www.psychologytoday.com/us/therapists/ca/sacramento "Find a Child Therapist in Sacramento, CA")
+    * [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Therapist in Austin, TX")
+    * [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Therapist in Brooklyn, NY")
+    * [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Therapist in Chicago, IL")
+    * [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Therapist in Denver, CO")
+    * [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Therapist in Houston, TX")
+    * [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Therapist in Los Angeles, CA")
+    * [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Therapist in New York, NY")
+    * [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Therapist in Portland, OR")
+    * [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Therapist in San Diego, CA")
+    * [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Therapist in San Francisco, CA")
+    * [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Therapist in Seattle, WA")
+    * [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Therapist in Washington, DC")
+    * [Atlanta, GA](https://www.psychologytoday.com/us/therapists/ga/atlanta "Find a Therapist in Atlanta, GA")
+    * [Sacramento, CA](https://www.psychologytoday.com/us/therapists/ca/sacramento "Find a Therapist in Sacramento, CA")
     
 * [Get Help](#)
     
@@ -175,7 +175,11 @@ vii) When you register to be listed in our directories. We collect information t
 
 viii) When you open an email communication from us in your email program, we may use a software technology called “web beacons” that to let us know which emails have been opened by the recipients. This allows us to know how well customers respond to certain communications and the effectiveness of our marketing campaigns.
 
-b) In addition, like most sites, we maintain logs of site usage for purposes such as evaluating user interest in areas of the website, determining which and how many pages are viewed, the buttons that are clicked, the duration of visits, and the types of web browsers used. This data is tracked in aggregate form and is not individually identifiable. The aggregate data may be shared with third parties and the public. We use Google Analytics for this purpose, which involves the use of cookies. If you wish to opt out of tracking cookies or learn more about our data practices, please refer to our **'Do not sell or share my personal information'** link at the foot of this page below.
+b) In addition, like most sites, we use cookies on our pages, sometimes provided by third parties, to help us understand user behavior on our site, as follows:  
+  
+i) We maintain logs of site usage for purposes such as evaluating user interest in areas of the website, determining which and how many pages are viewed, the buttons that are clicked, the duration of visits, and the types of web browsers used. This data is tracked in aggregate form and is not individually identifiable. The aggregate data may be shared with third parties and the public. We use Google Analytics for this purpose, which involves the use of cookies. If you wish to opt out of tracking cookies or learn more about our data practices, please refer to our **'Do not sell or share my personal information'** link at the foot of this page below.  
+  
+ii) On occasion we use a site experimentation and testing service provided by Optimizely to help us analyze how users interact with our site. We use Optimizely to perform A/B testing and multivariate testing and to personalize content and user experiences. Optimizely anonymizes your IP address. The information generated by the cookies about your use of the website will be transmitted to and stored by Optimizely. If you wish to opt out of tracking cookies or learn more about our data practices, please refer to our **'Do not sell or share my personal information'** link at the foot of this page below
 
 2. **Our Use of Your Information.** We only use information we collect to provide you the services on our website that you request.
 
@@ -260,18 +264,18 @@ Find a Therapist
 * [Sign Up](https://join.psychologytoday.com/us/signup)
 
 * United States
-* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Child Therapist in Austin, TX")
-* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Child Therapist in Brooklyn, NY")
-* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Child Therapist in Chicago, IL")
-* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Child Therapist in Denver, CO")
-* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Child Therapist in Houston, TX")
-* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Child Therapist in Los Angeles, CA")
-* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Child Therapist in New York, NY")
-* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Child Therapist in Portland, OR")
-* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Child Therapist in San Diego, CA")
-* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Child Therapist in San Francisco, CA")
-* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Child Therapist in Seattle, WA")
-* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Child Therapist in Washington, DC")
+* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Relationship Issues Therapist in Austin, TX")
+* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Relationship Issues Therapist in Brooklyn, NY")
+* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Relationship Issues Therapist in Chicago, IL")
+* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Relationship Issues Therapist in Denver, CO")
+* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Relationship Issues Therapist in Houston, TX")
+* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Relationship Issues Therapist in Los Angeles, CA")
+* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Relationship Issues Therapist in New York, NY")
+* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Relationship Issues Therapist in Portland, OR")
+* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Relationship Issues Therapist in San Diego, CA")
+* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Relationship Issues Therapist in San Francisco, CA")
+* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Relationship Issues Therapist in Seattle, WA")
+* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Relationship Issues Therapist in Washington, DC")
 
 Back
 
