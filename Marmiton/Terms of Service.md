@@ -55,7 +55,6 @@ Connexion
 *  [![Top Chrono !](https://assets.afcdn.com/recipe/20240703/152478_origin.png) Top Chrono !](https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html)
 *  [![Barbecue party](https://assets.afcdn.com/recipe/20240703/152488_origin.png) Barbecue party](https://www.marmiton.org/barbecue-pique-nique/barbecue-tp123357.html)
 * [Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
-* [Bien manger par](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
