@@ -10,10 +10,8 @@ dark
 
 ### 
 
-Maintaining a big Invidious instance has it's costs. Please consider [donating](https://ko-fi.com/weidenwiesel) in order to help me keep this instance up and running.
-
-ATTENTION: There is another ongoing attack from YouTube. This instance might be down temporarly in the near future.  
-I recommend DOWNLOADING videos you wanna watch before its too late!
+This instance now uses several load-balanced HTTP proxies to bypass blockage from YouTube.  
+Sadly, the proxies are unable to properly handle DASH video playback, so DASH (including downloads and livestreams) is disabled for now.
 
 Privacy
 -------
@@ -76,8 +74,8 @@ To remove data stored in your browser, you can log out of the website, or you ca
 
 To remove data that has been stored in the website's database, you can use the [delete my account](https://invidious.nerdvpn.de/delete_account) page.
 
-[Original source code](https://github.com/iv-org/invidious) / [Modified source code](https://github.com/Sommerwiesel/invidious) [Documentation](https://github.com/iv-org/documentation)
+[Original source code](https://github.com/iv-org/invidious) / [Modified source code](https://github.com/Sommerwiesel/invidious-nerdvpn) [Documentation](https://github.com/iv-org/documentation)
 
 [Released under the AGPLv3 on GitHub.](https://github.com/iv-org/invidious/blob/master/LICENSE) [View JavaScript license information.](https://invidious.nerdvpn.de/licenses) [View privacy policy.](https://invidious.nerdvpn.de/privacy)
 
-[Donate](https://invidious.io/donate/) Current version: 2024.04.27-eda7444 @ master
+[Donate](https://invidious.nerdvpn.de/donate/) Current version: 2024.07.21-325561e7 @ nerdvpn
