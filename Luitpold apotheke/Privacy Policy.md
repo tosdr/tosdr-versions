@@ -268,15 +268,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY-ratiopharm Kinder kons.frei](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-kinder-kons-frei-10ml-00999854)
-    
-    1,85 €\*
-    
-     1
-    
 * [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
     
     1,57 €\*
+    
+     1
+    
+* [NASENSPRAY-ratiopharm Kinder kons.frei](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-kinder-kons-frei-10ml-00999854)
+    
+    1,85 €\*
     
      1
     
@@ -315,25 +315,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[GAVISCON Dual Suspension mit Zweifachwirkung gegen Sodbrennen (48x10 ml)](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)  
+[ANTISTAX extra Venentabletten 90 Stück bei Venenschwäche](https://www.medikamente-per-klick.de/product?artnr=05954715&simpleContentAttachmentId=14183&wochenklick)  
 \*\*\*Sonderpreis\*\*\*  
-[![Sonderpreis](/images/products/medikamenteperklick/mittel/16511079_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=16511079&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderpreis](/images/products/medikamenteperklick/mittel/05954715_m.jpg "Sonderpreis")](https://www.medikamente-per-klick.de/product?artnr=05954715&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-44,98 €\*
+54,17 €\*
 
 Ihr Preis:
 
-29,28 €\*
+34,98 €\*
 
 Sie sparen:
 
-15,70 € \-35%
+19,19 € \-35%
 
-2024-07-17 21:00:00
+2024-07-27 10:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=16511079&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=05954715&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -624,4 +624,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=pnfhxyljgcbzysqvnbybhkjpcffohdkc&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=pgljtdedjjenxmzqtbzpvdgjidvasuos&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
