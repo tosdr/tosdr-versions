@@ -1,6 +1,6 @@
 [![invideo logo](https://web-assets.invideo.io/common/prod/logos/purple_logo_with_text.svg)](https://invideo.io/studio)
 
-invideo Studio![angle bottom](https://web-assets.invideo.io/common/prod/header-icons/angle-bottom-v1.svg)invideo AI![angle bottom](https://web-assets.invideo.io/common/prod/header-icons/angle-bottom-v1.svg)Help![angle bottom](https://web-assets.invideo.io/common/prod/header-icons/angle-bottom-v1.svg)[Community](https://www.facebook.com/groups/invideo.io/)[Pricing](https://invideo.io/pricing)
+invideo Studio![angle bottom](https://web-assets.invideo.io/common/prod/header-icons/angle-bottom-v1.svg)invideo AI![angle bottom](https://web-assets.invideo.io/common/prod/header-icons/angle-bottom-v1.svg)Help![angle bottom](https://web-assets.invideo.io/common/prod/header-icons/angle-bottom-v1.svg)[Community](https://www.facebook.com/groups/invideo.io/)[Pricing](https://invideo.io/studio-pricing)
 
 LoginSign up
 
@@ -261,7 +261,7 @@ Company
 Pricing
 -------
 
-[invideo AI](https://invideo.io/ai-pricing/)[invideo Studio](https://invideo.io/pricing)
+[invideo AI](https://invideo.io/pricing/)[invideo Studio](https://invideo.io/studio-pricing)
 
 [![twitter logo](https://web-assets.invideo.io/common/prod/social-icons/icon-twitter.svg)](https://twitter.com/@InVideoOfficial)[![facebook logo](https://web-assets.invideo.io/common/prod/social-icons/icon-fb.svg)](https://www.facebook.com/invideo.io/)[![instagram logo](https://web-assets.invideo.io/common/prod/social-icons/icon-snap.svg)](https://www.instagram.com/invideo.io/)[![youtube logo](https://web-assets.invideo.io/common/prod/social-icons/icon-yt.svg)](https://www.youtube.com/channel/UCgxMiiBKk-xYskc2KNLiBTg)[![linkedin logo](https://web-assets.invideo.io/common/prod/social-icons/icon-in.svg)](https://www.linkedin.com/company/invideoio)[![pinterest logo](https://web-assets.invideo.io/common/prod/social-icons/icon-pin.svg)](https://in.pinterest.com/InVideo_Official/?eq=invideo_off&etslf=8499)
 
