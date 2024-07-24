@@ -346,18 +346,18 @@ Find a Therapist
 * [Sign Up](https://join.psychologytoday.com/us/signup)
 
 * United States
-* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Therapist in Austin, TX")
-* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Therapist in Brooklyn, NY")
-* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Therapist in Chicago, IL")
-* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Therapist in Denver, CO")
-* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Therapist in Houston, TX")
-* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Therapist in Los Angeles, CA")
-* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Therapist in New York, NY")
-* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Therapist in Portland, OR")
-* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Therapist in San Diego, CA")
-* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Therapist in San Francisco, CA")
-* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Therapist in Seattle, WA")
-* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Therapist in Washington, DC")
+* [Austin, TX](https://www.psychologytoday.com/us/therapists/tx/austin "Find a Relationship Issues Therapist in Austin, TX")
+* [Brooklyn, NY](https://www.psychologytoday.com/us/therapists/ny/brooklyn "Find a Relationship Issues Therapist in Brooklyn, NY")
+* [Chicago, IL](https://www.psychologytoday.com/us/therapists/il/chicago "Find a Relationship Issues Therapist in Chicago, IL")
+* [Denver, CO](https://www.psychologytoday.com/us/therapists/co/denver "Find a Relationship Issues Therapist in Denver, CO")
+* [Houston, TX](https://www.psychologytoday.com/us/therapists/tx/houston "Find a Relationship Issues Therapist in Houston, TX")
+* [Los Angeles, CA](https://www.psychologytoday.com/us/therapists/ca/los-angeles "Find a Relationship Issues Therapist in Los Angeles, CA")
+* [New York, NY](https://www.psychologytoday.com/us/therapists/ny/new-york "Find a Relationship Issues Therapist in New York, NY")
+* [Portland, OR](https://www.psychologytoday.com/us/therapists/or/portland "Find a Relationship Issues Therapist in Portland, OR")
+* [San Diego, CA](https://www.psychologytoday.com/us/therapists/ca/san-diego "Find a Relationship Issues Therapist in San Diego, CA")
+* [San Francisco, CA](https://www.psychologytoday.com/us/therapists/ca/san-francisco "Find a Relationship Issues Therapist in San Francisco, CA")
+* [Seattle, WA](https://www.psychologytoday.com/us/therapists/wa/seattle "Find a Relationship Issues Therapist in Seattle, WA")
+* [Washington, DC](https://www.psychologytoday.com/us/therapists/dc/washington "Find a Relationship Issues Therapist in Washington, DC")
 
 Back
 
