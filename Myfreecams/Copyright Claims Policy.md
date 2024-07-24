@@ -3,12 +3,12 @@ DMCA Information
 
 From Wiki.MyFreeCams.com
 
-Jump to: [navigation](#mw-head), [search](#p-search)
+[Jump to navigation](#mw-head) [Jump to search](#searchInput)
 
 Contents
 --------
 
-* [1 DMCA Notice & Takedown Policy and Procedures](#DMCA_Notice_.26_Takedown_Policy_and_Procedures)
+* [1 DMCA Notice & Takedown Policy and Procedures](#DMCA_Notice_&_Takedown_Policy_and_Procedures)
     * [1.1 Notice of Claimed Infringement](#Notice_of_Claimed_Infringement)
     * [1.2 Take Down Procedure](#Take_Down_Procedure)
     * [1.3 DMCA Counter-Notification Procedure](#DMCA_Counter-Notification_Procedure)
@@ -91,56 +91,50 @@ The Site reserves the right to modify, alter or add to this policy, and all affe
 
 Please note that the DMCA Agent is not associated with the Site in any other capacity, but is an attorney with a private law firm. Customer service inquiries, payment questions, and cancellation requests will not receive a response. All such communications must be directed to the Site's customer service department, at the [Contact Support](https://wiki.myfreecams.com/wiki/Contact_Support "Contact Support") link.
 
-Retrieved from "[https://wiki.myfreecams.com/index.php?title=DMCA\_Information&oldid=2830](https://wiki.myfreecams.com/index.php?title=DMCA_Information&oldid=2830)"
+Retrieved from "[https://wiki.myfreecams.com/wiki/index.php?title=DMCA\_Information&oldid=2830](https://wiki.myfreecams.com/wiki/index.php?title=DMCA_Information&oldid=2830)"
 
 Navigation menu
 ---------------
 
 ### Personal tools
 
-* [Log in](https://wiki.myfreecams.com/index.php?title=Special:UserLogin&returnto=DMCA+Information "You are encouraged to log in; however, it is not mandatory [o]")
-
 ### Namespaces
 
 * [Page](https://wiki.myfreecams.com/wiki/DMCA_Information "View the content page [c]")
-* [Discussion](https://wiki.myfreecams.com/index.php?title=Talk:DMCA_Information&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+* [Discussion](https://wiki.myfreecams.com/wiki/index.php?title=Talk:DMCA_Information&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
 
-### Variants
+ English
 
 ### Views
 
 * [Read](https://wiki.myfreecams.com/wiki/DMCA_Information)
-* [View source](https://wiki.myfreecams.com/index.php?title=DMCA_Information&action=edit "This page is protected.
-    You can view its source [e]")
-* [View history](https://wiki.myfreecams.com/index.php?title=DMCA_Information&action=history "Past revisions of this page [h]")
 
-### More
+ More
 
 ### Search
+
+   
 
 [](https://wiki.myfreecams.com/wiki/Main_Page "Visit the main page")
 
 ### Navigation
 
 * [Main page](https://wiki.myfreecams.com/wiki/Main_Page "Visit the main page [z]")
-* [Recent changes](https://wiki.myfreecams.com/wiki/Special:RecentChanges "A list of recent changes in the wiki [r]")
-* [Random page](https://wiki.myfreecams.com/wiki/Special:Random "Load a random page [x]")
-* [Help about MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents)
 
 ### Tools
 
 * [What links here](https://wiki.myfreecams.com/wiki/Special:WhatLinksHere/DMCA_Information "A list of all wiki pages that link here [j]")
 * [Related changes](https://wiki.myfreecams.com/wiki/Special:RecentChangesLinked/DMCA_Information "Recent changes in pages linked from this page [k]")
 * [Special pages](https://wiki.myfreecams.com/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Printable version](https://wiki.myfreecams.com/index.php?title=DMCA_Information&printable=yes "Printable version of this page [p]")
-* [Permanent link](https://wiki.myfreecams.com/index.php?title=DMCA_Information&oldid=2830 "Permanent link to this revision of the page")
-* [Page information](https://wiki.myfreecams.com/index.php?title=DMCA_Information&action=info "More information about this page")
+* [Printable version](javascript:print(); "Printable version of this page [p]")
+* [Permanent link](https://wiki.myfreecams.com/wiki/index.php?title=DMCA_Information&oldid=2830 "Permanent link to this revision of this page")
+* [Page information](https://wiki.myfreecams.com/wiki/index.php?title=DMCA_Information&action=info "More information about this page")
 
 * This page was last edited on 25 February 2015, at 02:39.
 
-* [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy "Wiki.MyFreeCams.com:Privacy policy")
-* [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About "Wiki.MyFreeCams.com:About")
-* [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer "Wiki.MyFreeCams.com:General disclaimer")
-* [Mobile view](https://wiki.myfreecams.com/index.php?title=DMCA_Information&mobileaction=toggle_view_mobile)
+* [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy)
+* [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About)
+* [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer)
+* [Mobile view](https://wiki.myfreecams.com/wiki/index.php?title=DMCA_Information&mobileaction=toggle_view_mobile)
 
-* [![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Powered by MediaWiki](/wiki/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
