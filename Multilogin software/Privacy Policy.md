@@ -4,18 +4,32 @@ Multilogin | Privacy Policy
 
 [![](https://a.storyblok.com/f/264268/154x34/4b51f57eaa/full-logo-blue-original-dark-new.svg)](https://multilogin.com/)
 
-* Solution
+* Platform
     
-    * [Web Scraping & Automation](https://multilogin.com/web-scraping-automation/)
-    * [Multi-Accounting](https://multilogin.com/multi-accounting/)
+    * [Antidetect browserCreate multiple online identities from the same computer without being detected.](https://multilogin.com/undetectable/antidetect-browser/)
+    * [Headless browserAntidetect browser for scraping and web automation tasks with reduced system resource consumption.](https://multilogin.com/undetectable/headless-browser/)
+    * [Multi-account managementManage multiple accounts on any website alone or in a team without being detected. All accounts on the same dashboard.](https://multilogin.com/undetectable/multi-account-management/)
+    * [Mobile antidetect browserEmulate mobile website visitors with unique identities from a desktop device.](https://multilogin.com/undetectable/mobile-antidetect-browser/)
+    * [Residential proxiesHighest quality rotating residential proxies suitable for most business cases. Natively integrated with an antidetect browser.](https://multilogin.com/undetectable/residential-proxies/)
+    * [Web automationCreate complex automation scenarios in an antidetect browser. Automatically manipulate multiple online accounts.](https://multilogin.com/web-scraping-automation/)
+    
+* Solutions
+    
+    * [Multi-account managementManage multiple accounts on any website alone or in a team without being detected. All accounts on the same dashboard.](https://multilogin.com/undetectable/multi-account-management/)
+    * [Ticket scalpingBe the first in line to buy tickets for popular events.](https://multilogin.com/undetectable/automate-ticket-scalping/)
+    * [Airdrop farmingGet higher token allocation to multiple wallets without sybil detection.](https://multilogin.com/undetectable/scale-your-airdrop-farming/)
+    
+* Resources
+    
+    * [Knowledge baseLearn how to use Multilogin features with our robust knowledge base.](https://help.multilogin.com/en_US)
+    * [API documentationStart automating Multilogin browsers in no time with our API documentation specifically designed for developers.](https://documenter.getpostman.com/view/28533318/2s946h9Cv9)
+    * [GlossaryLearn terminology used in the industry.](https://multilogin.com/antidetect/glossary/)
+    * [BlogStay tuned for Multilogin industry tips and updates.](https://multilogin.com/blog/)
+    * [Multilogin 6 downloadDownload the previous version of Multilogin (only for pre-2023 users).](https://multilogin.com/multilogin-app/)
+    * [Billing dashboardAccess information about your subscription status and the invoice list.](https://billing.multilogin.com/auth)
+    * [Server statusCheck the status of our services and maintenance work announcements.](https://status.multilogin.com/)
     
 * [Pricing](https://multilogin.com/pricing/)
-* Support
-    
-    * [Knowledge Base](https://help.multilogin.com/en_US)
-    * [Contact Us](https://multilogin.com/contact-us/)
-    
-* [Blog](https://multilogin.com/blog/)
 
 EN
 
@@ -573,59 +587,50 @@ Any changes to the Privacy Policy will only impact the information collected on 
 
 Effective Date: **July 1st, 2022** 
 
-SOLUTIONS
+* Antidetect platform
+* [Antidetect browser](https://multilogin.com/undetectable/antidetect-browser/)
+* [Mobile antidetect browser](https://multilogin.com/undetectable/mobile-antidetect-browser/)
+* [Headless browser](https://multilogin.com/undetectable/headless-browser/)
+* [Multilogin residential proxies](https://multilogin.com/undetectable/residential-proxies/)
+* [Multi-account management](https://multilogin.com/undetectable/multi-account-management/)
+* [Web automation](https://multilogin.com/undetectable/web-automation/)
 
-* [Product](https://multilogin.com/product/)
-* [Web Scraping and Automation](https://multilogin.com/web-scraping-automation/)
-* [Multi-Accounting](https://multilogin.com/multi-accounting/)
-
-PRICING
-
-* [Pricing Plans](https://multilogin.com/pricing/)
-* [Billing](https://billing.multilogin.com/auth)
-
-USE CASES
-
-* [Overview](https://multilogin.com/use-cases/)
-* [E-commerce](https://multilogin.com/use-cases/e-commerce-dropshipping/)
-* [Affiliate](https://multilogin.com/use-cases/affiliate-marketing/)
-* [Ads](https://multilogin.com/use-cases/advertising/)
-* [Agency](https://multilogin.com/use-cases/agency/)
-* [Arbitrage](https://multilogin.com/use-cases/traffic-arbitrage/)
-* [Betting](https://multilogin.com/use-cases/betting/)
-* [Ticketing](https://multilogin.com/use-cases/ticketing/)
-* [Cryptocurrency](https://multilogin.com/use-cases/cryptocurrency/)
-
-RESOURCES
-
+* Resources
+* [Knowledge base](https://help.multilogin.com/en_US)
+* [API documentation](https://documenter.getpostman.com/view/28533318/2s946h9Cv9)
+* [Glossary](https://multilogin.com/antidetect/glossary/)
 * [Blog](https://multilogin.com/blog/)
-* [Download Logo Kit](https://a.storyblok.com/f/245445/x/7f994d1109/multilogin-logo-kit.zip)
+* [Multilogin 6 download](https://multilogin.com/multilogin-app/)
+* [Billing dashboard](https://billing.multilogin.com/auth)
+* [Server status](https://status.multilogin.com/)
 
-SUPPORT
+* Airdrops
+* [Scale your airdrop farming](https://multilogin.com/undetectable/scale-your-airdrop-farming/)
+* [Solana airdrops](https://multilogin.com/undetectable/get-more-airdrops-on-solana/)
+* [Crypto airdrop](https://multilogin.com/undetectable/crypto-airdrops/)
 
-* [Knowledge Base](https://help.multilogin.com/en_US)
-* [Release Notes](https://multilogin.com/release-notes/)
-* [App Status](https://status.multilogin.com/)
-* [Download Multilogin 6](https://multilogin.com/multilogin-app/)
-
-JOIN US
-
+* Get in touch
+* [\[email protected\]](https://multilogin.com/cdn-cgi/l/email-protection)
+* [Contact sales](https://multilogin.com/contact-sales/)
+* [Affiliate program](https://multilogin.com/affiliate-program/)
 * [Careers](https://careers.multilogin.com/)
 
-PARTNERS
+* Ticket scalping
+* [Automate ticket scalping](https://multilogin.com/undetectable/automate-ticket-scalping/)
+* [Bypass the ticketmaster queue](https://multilogin.com/undetectable/bypass-the-ticketmaster-queue/)
 
-* [Affiliate Program](https://multilogin.com/affiliate-program/)
+* Web automation
+* [Facebook account scraper](https://multilogin.com/undetectable/facebook-account-scraper/)
+* [Amazon web scraper](https://multilogin.com/undetectable/amazon-web-scraper/)
+* [OnlyFans scraper](https://multilogin.com/undetectable/build-an-onlyfans-scraper/)
+* [Twitter scraping](https://multilogin.com/undetectable/speed-up-twitter-scraping/)
+* [LinkedIn scraping](https://multilogin.com/undetectable/secure-linkedin-scraping/)
+* [Google scraping at a scale](https://multilogin.com/undetectable/scrape-google-search/)
 
-INFORMATION
+© 2024 Multilogin. All rights reserved.
 
-* [Privacy Policy](https://multilogin.com/privacy-policy/)
-* [Terms of Service](https://multilogin.com/terms-of-service/)
-* [Cookie Policy](https://multilogin.com/cookie-policy/)
+* [Privacy policy](https://multilogin.com/privacy-policy/)
+* [Terms of use](https://multilogin.com/terms-of-service/)
+* [Cookies policy](https://multilogin.com/cookie-policy/)
 
-CONTACT SUPPORT[Send an Email](https://multilogin.com/contact-us/)
-
-CONNECT WITH US
-
-[](https://www.linkedin.com/company/multilogin/)[](https://www.facebook.com/Multilogin-126072544645572/)[](https://www.instagram.com/lifeatmultilogin/)[](https://t.me/multilogin)[](https://www.youtube.com/c/Multilogin)[](https://twitter.com/multilogin_en)
-
-![](https://a.storyblok.com/f/264268/170x170/d351d58b45/logo-footer-new.svg)
+[](https://www.linkedin.com/company/multilogin/)[](https://www.facebook.com/Multilogin-126072544645572/)[](https://www.instagram.com/lifeatmultilogin/)[](https://t.me/multilogin)[](https://twitter.com/multilogin_en)[](https://www.youtube.com/c/Multilogin)
