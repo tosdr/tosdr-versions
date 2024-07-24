@@ -133,29 +133,29 @@
 
 #### Latest news
 
+[![Tiktok-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/tiktok-web.jpg?width=1920&height=1085&quality=80)
+
+### TikTok fined £1.875m for providing inaccurate data on safety controls
+
+24 July 2024](https://www.ofcom.org.uk/online-safety/protecting-children/tiktok-fined-1.875m-for-providing-inaccurate-data-on-safety-controls)
+
+[![Close up of womans face with highlighted data points for deepfake technology.](/siteassets/resources/images/-news-centre/thumbnail-images/misc/abstract/deepfake-web.jpg?width=1920&height=1085&quality=80)
+
+### A deep dive into deepfakes that demean, defraud and disinform
+
+23 July 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/deepfakes-demean-defraud-disinform/)
+
+[![BT-999-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/phones/bt-999-web.jpg?width=1920&height=1085&quality=80)
+
+### BT fined £17.5m for 999 call-handling failures
+
+22 July 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/bt-fined-17.5m-for-999-call-handling-failures?language=en)
+
 [![Man on tablet looking at bills](/siteassets/resources/images/-news-centre/thumbnail-images/pricing-and-billing/man-on-tablet-looking-at-bills.png?width=1920&height=1085&quality=80)
 
 ### Ofcom bans mid-contract price rises linked to inflation
 
 19 July 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ofcom-bans-mid-contract-price-rises-linked-to-inflation/)
-
-[![Listed-Events-2024-(Web)](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/listed-events-2024-web.jpg?width=1920&height=1085&quality=80)
-
-### What will future rules around showing major sporting events look like?
-
-18 July 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/listed-sporting-events/what-will-future-rules-around-showing-major-sporting-events-look-like/)
-
-[![A person looking at the Welsh BBC news site on a tablet device](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-ol-web.jpg?width=1920&height=1085&quality=80)
-
-### Review of the BBC’s materiality assessment of proposed new music streams on BBC Sounds
-
-16 July 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/review-of-the-bbcs-materiality-assessment-of-proposed-new-music-streams-on-bbc-sounds/)
-
-[![The Glastonbury festival 2024](/siteassets/resources/images/-news-centre/thumbnail-images/spectrum/glasto-2024-web.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom at Glastonbury 2024
-
-5 July 2024](https://www.ofcom.org.uk/spectrum/radio-equipment/ofcom-at-glastonbury-2024/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
