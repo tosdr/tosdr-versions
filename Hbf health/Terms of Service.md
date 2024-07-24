@@ -327,7 +327,7 @@ Weekly prices quoted on this website or in HBF marketing material are indicative
 Unless otherwise specified, advertised prices for health insurance cover: 
 
 * include a discount for payments made by direct debit. Further discounts may apply if premium is paid annually, six-monthly or quarterly in advance, 
-* take into account the [Australian Government Rebate](https://www.hbf.com.au/health-insurance/explained/australian-government-rebate-explained "Australian Government Rebate") and deducts an amount equal to the base tier rebate (which as at 1 April 2023 is 24.608%). 
+* take into account the [Australian Government Rebate](https://www.hbf.com.au/health-insurance/explained/australian-government-rebate-explained "Australian Government Rebate") and deducts an amount equal to the base tier rebate (which as at 1 April 2024 is 24.608%). 
 * exclude any [Lifetime Health Cover loading.](https://www.hbf.com.au/health-insurance/explained/lifetime-health-cover-loading-explained "Lifetime Health Cover loading.")
 
 For more tailored pricing, we include an option to “[personalise your pricing](https://www.hbf.com.au/health-insurance/personal-details?intcmp=termsofuse:pd "personalise your pricing")” for selected products.   
@@ -362,7 +362,7 @@ Unless expressly stated to the contrary, these Terms of Use are governed by the 
 
 ### VERSION INFORMATION
 
-These Terms of Use were last updated in March 2023.  
+These Terms of Use were last updated in July 2024.  
 
   
 
