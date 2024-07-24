@@ -60,6 +60,11 @@ Hello, 你好!
 * [熱門角色](javascript:;)
 * [當家台柱](javascript:;)
 
+* [![疏樓龍宿](https://www.pili.com.tw/img/role/240x278/longshou_1.jpg?v=1721642028)
+    
+    儒
+    
+    ###### 疏樓龍宿](https://www.pili.com.tw/role-view/longshou/)
 * [![如果先生](https://www.pili.com.tw/img/role/240x278/ruguoxiansheng_1.jpg?v=1720774513)
     
     雜學
@@ -105,11 +110,6 @@ Hello, 你好!
     雜學
     
     ###### 搖風吟](https://www.pili.com.tw/role-view/yaofengyin/)
-* [![淥宇塵](https://www.pili.com.tw/img/role/240x278/luyuchen_1.jpg?v=1715853682)
-    
-    雜學
-    
-    ###### 淥宇塵](https://www.pili.com.tw/role-view/luyuchen/)
 
 *  [![素還真](/img/role/240x278/su_1.jpg)
     
@@ -265,6 +265,13 @@ Hello, 你好!
 
 #### 焦點新聞
 
+* [![《肥羊重生後》x TBF東離番外篇 將於 MOJOIN 獨家上線！](/img/news/548x316/2024072310485131658.jpg)
+    
+    公告
+    
+    2024.07.23
+    
+    ##### 《肥羊重生後》x TBF東離番外篇 將於 MOJOIN 獨家上線！](https://www.pili.com.tw/news-view/2024072310485131658/)
 * [![台北直營店搬遷預告](/img/news/548x316/2024071910532923943.jpg)
     
     公告
@@ -272,13 +279,6 @@ Hello, 你好!
     2024.07.19
     
     ##### 台北直營店搬遷預告](https://www.pili.com.tw/news-view/2024071910532923943/)
-* [![霹靂史上第一次大型售票演唱會【霹靂盛典】10月19、20日盛大開唱！](/img/news/548x316/2024071612025623931.jpg)
-    
-    公告
-    
-    2024.07.16
-    
-    ##### 霹靂史上第一次大型售票演唱會【霹靂盛典】10月19、20日盛大開唱！](https://www.pili.com.tw/news-view/2024071612025623931/)
 
 [探索全部](https://www.pili.com.tw/news-browse.php)
 
