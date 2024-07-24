@@ -29,15 +29,17 @@ Version All 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.19.3 1.
 
 Active Servers
 
-[![Hytitude_Network](plugins/MineCraft/icons/25x25xHytitude_Network_1721334884.png.pagespeed.ic.LfLWooJJUc.png)
+[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1721724905.png.pagespeed.ic.Cd50vz760y.jpg)
 
-Hytitude](https://minecraft-server.net/details/Hytitude_Network/ "Hytitude") [The best Lifesteal and economy server!!!](https://minecraft-server.net/details/RULERMC/ "The best Lifesteal and economy server!!!")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1710773881.png.pagespeed.ic.GN-yKvGqoG.png)
+Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![anarchyac](plugins/MineCraft/icons/25x25xanarchyac_1719165747.png.pagespeed.ic.kZQ7Exczo_.png)
 
-Fermium MC (Custom ores & more)](https://minecraft-server.net/details/A2rath/ "Fermium MC (Custom ores & more)")[![simplyvanilla](plugins/MineCraft/icons/25x25xsimplyvanilla_1721589239.png.pagespeed.ic.Cd50vz760y.jpg)
+Anarchy](https://minecraft-server.net/details/anarchyac/ "Anarchy")[![SUSMinecraft](plugins/MineCraft/icons/SUSMinecraft_1721432861.png.pagespeed.ce.4K26pX4nDP.png)
 
-Simply Vanilla \[Anarchy with no hacks\]](https://minecraft-server.net/details/simplyvanilla/ "Simply Vanilla [Anarchy with no hacks]")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+feather64](https://minecraft-server.net/details/SUSMinecraft/ "feather64")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![EagleMc](plugins/MineCraft/icons/25x25xEagleMc_1710253555.png.pagespeed.ic.huWT-_k4Yk.jpg)
+
+EagleMC](https://minecraft-server.net/details/EagleMc/ "EagleMC")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07679 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0789 - Created by [Debaucus](https://debauc.us/)
