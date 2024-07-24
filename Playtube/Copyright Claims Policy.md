@@ -596,26 +596,6 @@ Genre: [Horror](https://playtube.pk/category/horror/), [Mystery](https://playtub
 
 HD
 
- [![Arthur the King](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/arthur-the-king/)6.1
-
-### [Arthur the King](https://playtube.pk/arthur-the-king/)
-
-2024 107 min _Movie_
-
-Arthur the King
-
-6.1 2024 107 min HD
-
-Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is ...
-
-Country: [Canada](https://playtube.pk/country/canada/)
-
-Genre: [Adventure](https://playtube.pk/category/adventure/), [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/arthur-the-king/)
-
-HD
-
  [![Ghostbusters: Frozen Empire](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/ghostbusters-frozen-empire/)6.6
 
 ### [Ghostbusters: Frozen Empire](https://playtube.pk/ghostbusters-frozen-empire/)
@@ -633,6 +613,26 @@ Country: [USA](https://playtube.pk/country/usa/)
 Genre: [Adventure](https://playtube.pk/category/adventure/), [Comedy](https://playtube.pk/category/comedy/)
 
 [](#)[Watch Now](https://playtube.pk/ghostbusters-frozen-empire/)
+
+HD
+
+ [![Arthur the King](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/arthur-the-king/)6.1
+
+### [Arthur the King](https://playtube.pk/arthur-the-king/)
+
+2024 107 min _Movie_
+
+Arthur the King
+
+6.1 2024 107 min HD
+
+Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is ...
+
+Country: [Canada](https://playtube.pk/country/canada/)
+
+Genre: [Adventure](https://playtube.pk/category/adventure/), [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/arthur-the-king/)
 
 HD
 
@@ -957,26 +957,6 @@ Genre: [Comedy](https://playtube.pk/category/comedy/)
 
 HD
 
- [![Compartment No. 6](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/compartment-no-6/)7.0
-
-### [Compartment No. 6](https://playtube.pk/compartment-no-6/)
-
-2021 106 min _Movie_
-
-Compartment No. 6
-
-7.0 2021 106 min HD
-
-A young Finnish woman escapes an enigmatic love affair in Moscow by boarding a train to the arctic port of Murmansk. Forced to share the long ride and a tiny sleeping car with a larger ...
-
-Country: [Estonia](https://playtube.pk/country/estonia/)
-
-Genre: [Drama](https://playtube.pk/category/drama/)
-
-[](#)[Watch Now](https://playtube.pk/compartment-no-6/)
-
-HD
-
  [![The Eyes of Tammy Faye](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-eyes-of-tammy-faye/)6.5
 
 ### [The Eyes of Tammy Faye](https://playtube.pk/the-eyes-of-tammy-faye/)
@@ -994,6 +974,26 @@ Country: [USA](https://playtube.pk/country/usa/)
 Genre: [Drama](https://playtube.pk/category/drama/), [History](https://playtube.pk/category/history/)
 
 [](#)[Watch Now](https://playtube.pk/the-eyes-of-tammy-faye/)
+
+HD
+
+ [![Compartment No. 6](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/compartment-no-6/)7.0
+
+### [Compartment No. 6](https://playtube.pk/compartment-no-6/)
+
+2021 106 min _Movie_
+
+Compartment No. 6
+
+7.0 2021 106 min HD
+
+A young Finnish woman escapes an enigmatic love affair in Moscow by boarding a train to the arctic port of Murmansk. Forced to share the long ride and a tiny sleeping car with a larger ...
+
+Country: [Estonia](https://playtube.pk/country/estonia/)
+
+Genre: [Drama](https://playtube.pk/category/drama/)
+
+[](#)[Watch Now](https://playtube.pk/compartment-no-6/)
 
 HD
 
