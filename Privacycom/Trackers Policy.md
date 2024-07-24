@@ -43,19 +43,19 @@ We collect and use the minimum amount of your data necessary in order to stay in
 ### **We Collect and Use Data:**
 
 * Provided by you to verify your identity and eligibility:
-* ~Your name, email address, phone number, birth date
-* ~Government-issued identification number
-* ~Payment card and bank information
-* ~Other information you may be asked to provide when signing-up for an account, providing identity verification, or engaging in a transaction
+    * Your name, email address, phone number, birth date
+    * Government-issued identification number
+    * Payment card and bank information
+    * Other information you may be asked to provide when signing-up for an account, providing identity verification, or engaging in a transaction
 * For anti-fraud and payment protection purposes:
-* ~Transaction Data: when, where and how a transaction takes place including, but not limited to, the devices and payment methods used
-* ~Device Data: hardware model, operating system, unique device identifiers, mobile network data, browser type, and Internet Protocol (”IP”) address
+    * Transaction Data: when, where and how a transaction takes place including, but not limited to, the devices and payment methods used
+    * Device Data: hardware model, operating system, unique device identifiers, mobile network data, browser type, and Internet Protocol (”IP”) address
 
 * To improve your experience with our Services:
-* ~Cookies: small data files we may store on your computer or mobile device memory to help us manage your engagement with our Services (discussed below)
+    * Cookies: small data files we may store on your computer or mobile device memory to help us manage your engagement with our Services (discussed below)
 * Collected from third-party sources to help us verify your identity, prevent fraud or assess risk. We collect (and/or have collected during at least the 12-month period preceding the effective date of this Policy) information about you from the following categories of sources:
-* ~Third-party identity verification services and publicly available sources, including your government-issued identification number.
-* ~Third-party sources related to any investigation, eligibility, identity or account verification process, fraud detection process, or collection procedure, or as may otherwise be required by applicable law. This includes, without limitation, the receipt and exchange of account or transaction-related information with any consumer reporting agency.
+    * Third-party identity verification services and publicly available sources, including your government-issued identification number.
+    * Third-party sources related to any investigation, eligibility, identity or account verification process, fraud detection process, or collection procedure, or as may otherwise be required by applicable law. This includes, without limitation, the receipt and exchange of account or transaction-related information with any consumer reporting agency.
 
 #### We Share Personal Information Under Controlled Circumstances Only:
 
