@@ -180,8 +180,6 @@ All Rooms](https://www.ikea.com/us/en/rooms/)
 * [Appliance deals & offers](https://www.ikea.com/us/en/campaigns/appliance-deals-and-offers-pub075ee210)
 * [Home essentials under $10](https://www.ikea.com/us/en/campaigns/affordable-home-essentials-pubfbd3fdc0)
 * [As-is online](https://www.ikea.com/us/en/customer-service/shopping-at-ikea/as-is-online-pubce1eedc0)
-* [30% off select office chairs](https://www.ikea.com/us/en/offers/family-offers/?filters=f-subcategories%3A20652#product-list-skip)
-* [30% off STARKVIND floor air purifiers](https://www.ikea.com/us/en/cat/air-quality-products-49081/?filters=f-special-price%3Atrue#product-list-skip)
 
 * [Get $20 off Taskrabbit assembly now until 7/23/24\*
     ---------------------------------------------------](https://www.ikea.com/us/en/customer-service/services/taskrabbit-and-ikea-partnership-pubddab78f4)
