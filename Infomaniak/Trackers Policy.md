@@ -101,7 +101,7 @@ Events & Marketing
         DynDNS Access your devices remotely](https://www.infomaniak.com/en/dyndns)
     * [![Dyn DNS](/img/common/suite/renewal-warranty.svg)
         
-        Renewal Warranty Secure your domains against loss and theft](https://www.infomaniak.com/en/renewal-warranty)
+        Renewal Warranty Secure your domains against loss and theft](https://www.infomaniak.com/en/secure/renewal-warranty)
     
     ![](/img/nav-v2/cloud-computing.svg)
     
