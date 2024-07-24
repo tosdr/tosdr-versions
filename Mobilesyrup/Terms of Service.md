@@ -93,6 +93,12 @@
     
 * [News](https://mobilesyrup.com/categories/news/)
     
+    [](https://mobilesyrup.com/2024/07/21/hear-me-out-google-should-have-refined-the-pixel-fold-not-give-it-a-redesign/)
+    
+    Jul 21, 2024 | 11:02 AM EDT
+    
+    ### [Hear me out: Google should have refined the Pixel Fold, not give it a redesign](https://mobilesyrup.com/2024/07/21/hear-me-out-google-should-have-refined-the-pixel-fold-not-give-it-a-redesign/)
+    
     [](https://mobilesyrup.com/2024/07/19/how-to-use-ios-focus-modes-full-potential/)
     
     Jul 19, 2024 | 5:09 PM EDT
@@ -122,12 +128,6 @@
     Jul 19, 2024 | 9:44 AM EDT
     
     ### [Google confirms Pixel 9 Pro Fold name and design](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-name-design/)
-    
-    [](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
-    
-    Jul 19, 2024 | 8:31 AM EDT
-    
-    ### [Canada’s Digital Extremes to reveal big Warframe updates at TennoCon 2024 this weekend](https://mobilesyrup.com/2024/07/19/london-ontario-digital-extremes-warframe-tennocon-2024-july-2024/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
@@ -169,6 +169,12 @@
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
+        [](https://mobilesyrup.com/2024/07/21/hear-me-out-google-should-have-refined-the-pixel-fold-not-give-it-a-redesign/)
+        
+        Jul 21, 2024 | 11:02 AM EDT
+        
+        ### [Hear me out: Google should have refined the Pixel Fold, not give it a redesign](https://mobilesyrup.com/2024/07/21/hear-me-out-google-should-have-refined-the-pixel-fold-not-give-it-a-redesign/)
+        
         [](https://mobilesyrup.com/2024/07/19/pixel-9-pro-fold-canada/)
         
         Jul 19, 2024 | 10:55 AM EDT
@@ -198,12 +204,6 @@
         Jul 17, 2024 | 9:21 AM EDT
         
         ### [Huge Pixel 9 series leaks reveal the 9 Pro Fold, camera specs](https://mobilesyrup.com/2024/07/17/pixel-9-series-big-leak/)
-        
-        [](https://mobilesyrup.com/2024/07/16/the-metal-unibody-oneplus-nord-4/)
-        
-        Jul 16, 2024 | 10:00 AM EDT
-        
-        ### [The metal unibody OnePlus Nord 4 skips out on North America](https://mobilesyrup.com/2024/07/16/the-metal-unibody-oneplus-nord-4/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -512,6 +512,24 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/07/21/logitech-mx-keys-has-been-my-go-to-keyboard-for-years/)
+    
+    Jul 21, 2024 | 2:29 PM EDT
+    
+    ### [The Logitech MX Keys has been my go-to keyboard for years](https://mobilesyrup.com/2024/07/21/logitech-mx-keys-has-been-my-go-to-keyboard-for-years/)
+    
+    [](https://mobilesyrup.com/2024/07/20/capcom-kunitsu-gami-path-of-the-goddess-review/)
+    
+    Jul 20, 2024 | 2:31 PM EDT
+    
+    ### [Capcom’s Kunitsu-Gami is one of the freshest new games in a while](https://mobilesyrup.com/2024/07/20/capcom-kunitsu-gami-path-of-the-goddess-review/)
+    
+    [](https://mobilesyrup.com/2024/07/20/razer-kishi-ultra-review-gaming-controller/)
+    
+    Jul 20, 2024 | 11:03 AM EDT
+    
+    ### [Razer’s Kishi Ultra controller is one of the best I’ve used](https://mobilesyrup.com/2024/07/20/razer-kishi-ultra-review-gaming-controller/)
+    
     [](https://mobilesyrup.com/2024/07/16/hands-fullmetal-oneplus-nord-4/)
     
     Jul 16, 2024 | 11:46 AM EDT
@@ -529,24 +547,6 @@
     Jul 14, 2024 | 2:23 PM EDT
     
     ### [This BenQ monitor proves 3:2 is the perfect computer aspect ratio](https://mobilesyrup.com/2024/07/14/benq-monitor-rd280u-square-review/)
-    
-    [](https://mobilesyrup.com/2024/07/10/samsung-galaxy-z-fold-6-flip-6-keep-their-crowns/)
-    
-    Jul 10, 2024 | 9:00 AM EDT
-    
-    ### [Samsung’s Galaxy Z Fold 6 and Z Flip 6: Can they keep their crowns?](https://mobilesyrup.com/2024/07/10/samsung-galaxy-z-fold-6-flip-6-keep-their-crowns/)
-    
-    [](https://mobilesyrup.com/2024/07/10/samsung-galaxy-ring-hands-on/)
-    
-    Jul 10, 2024 | 9:00 AM EDT
-    
-    ### [I finally tried on the Samsung Galaxy Ring](https://mobilesyrup.com/2024/07/10/samsung-galaxy-ring-hands-on/)
-    
-    [](https://mobilesyrup.com/2024/07/09/moto-razr-review-brings-foldables-to-mainstream/)
-    
-    Jul 9, 2024 | 9:00 AM EDT
-    
-    ### [Moto Razr+ Review: Foldables are finally ready for the mainstream](https://mobilesyrup.com/2024/07/09/moto-razr-review-brings-foldables-to-mainstream/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -702,6 +702,18 @@
         
     * [Accessories](https://mobilesyrup.com/categories/reviews/reviews-accessories/)
         
+        [](https://mobilesyrup.com/2024/07/21/logitech-mx-keys-has-been-my-go-to-keyboard-for-years/)
+        
+        Jul 21, 2024 | 2:29 PM EDT
+        
+        ### [The Logitech MX Keys has been my go-to keyboard for years](https://mobilesyrup.com/2024/07/21/logitech-mx-keys-has-been-my-go-to-keyboard-for-years/)
+        
+        [](https://mobilesyrup.com/2024/07/20/razer-kishi-ultra-review-gaming-controller/)
+        
+        Jul 20, 2024 | 11:03 AM EDT
+        
+        ### [Razer’s Kishi Ultra controller is one of the best I’ve used](https://mobilesyrup.com/2024/07/20/razer-kishi-ultra-review-gaming-controller/)
+        
         [](https://mobilesyrup.com/2024/07/14/benq-monitor-rd280u-square-review/)
         
         Jul 14, 2024 | 2:23 PM EDT
@@ -726,19 +738,13 @@
         
         ### [The new Beats Pill is a fantastic speaker with a questionable control scheme](https://mobilesyrup.com/2024/06/25/new-beats-pill-review-speaker/)
         
-        [](https://mobilesyrup.com/2024/06/07/dockcase-8-in-1-studio-adapter-cfexpress-ds/)
-        
-        Jun 7, 2024 | 5:03 PM EDT
-        
-        ### [Dockcase’s Studio 8-in-1 adapter is for camera nerds](https://mobilesyrup.com/2024/06/07/dockcase-8-in-1-studio-adapter-cfexpress-ds/)
-        
-        [](https://mobilesyrup.com/2024/05/26/magnetic-coiling-cable-review/)
-        
-        May 26, 2024 | 2:01 PM EDT
-        
-        ### [Never worry about cable ties again with this magnetic coiling cable](https://mobilesyrup.com/2024/05/26/magnetic-coiling-cable-review/)
-        
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
+        
+        [](https://mobilesyrup.com/2024/07/20/capcom-kunitsu-gami-path-of-the-goddess-review/)
+        
+        Jul 20, 2024 | 2:31 PM EDT
+        
+        ### [Capcom’s Kunitsu-Gami is one of the freshest new games in a while](https://mobilesyrup.com/2024/07/20/capcom-kunitsu-gami-path-of-the-goddess-review/)
         
         [](https://mobilesyrup.com/2024/06/25/luigis-mansion-2-hd-nintendo-switch-review/)
         
@@ -769,12 +775,6 @@
         May 15, 2024 | 12:00 PM EDT
         
         ### [Lorelei and the Laser Eyes is one of the most captivating puzzle games I’ve ever played](https://mobilesyrup.com/2024/05/15/lorelei-and-the-laser-eyes-nintendo-switch-review/)
-        
-        [](https://mobilesyrup.com/2024/04/30/endless-ocean-luminous-nintendo-switch-review/)
-        
-        Apr 30, 2024 | 9:00 AM EDT
-        
-        ### [Endless Ocean Luminous is an empty underwater world](https://mobilesyrup.com/2024/04/30/endless-ocean-luminous-nintendo-switch-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
