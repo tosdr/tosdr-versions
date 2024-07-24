@@ -10,7 +10,7 @@ Advertisement
 
 * [View all journals](https://www.nature.com/siteindex)
 * [Search](#search-menu)
-* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/terms-and-conditions?error=cookies_not_supported&code=7b49d40d-ccda-440c-bfda-e2eb94dd5795)
+* [Log in](https://idp.nature.com/auth/personal/springernature?redirect_uri=https://www.nature.com/info/terms-and-conditions?error=cookies_not_supported&code=447ed76e-4e66-4d0c-b111-e6f1fc6f4b06)
 
 1. [nature](https://www.nature.com/)
 2. [nature info](https://www.nature.com/info)
@@ -588,7 +588,11 @@ Once your article has been assigned to a handling  editor and you have provided
 
 ####   c. Publication
 
-Articles published through the Guided OA Programme will be published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+Articles published through the Guided OA Programme will be published under a open access under a CC BY-NC-ND (Creative Commons Attribution Non-Commercial No Derivatives 4.0 International licence) or CC BY (Creative Commons Attribution 4.0 International licence) licence.
+
+• CC BY-NC-ND: The article can be shared for non-commercial purposes as long as the authors are credited. Permission is needed for commercial re-use or sharing adapted and derivative versions.
+
+• CC BY: The article may be shared and adapted for any purpose, including commercially, so long as the authors are credited. To learn more about OA licences visit our [licensing and copyright guide](https://www.springernature.com/gp/open-research/policies/journal-policies/licensing-and-copyright).
 
 ### 2\. **Eligibility**
 
