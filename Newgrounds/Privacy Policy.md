@@ -14,9 +14,9 @@ Saving
 
 ![Newgrounds Background Image Theme](//img.ngfiles.com/themes/000/135542fe1721394594.webp?1721394619)
 
-[](https://imdrunkontea.newgrounds.com/)
+[](https://worgenguy.newgrounds.com/)
 
-[imdrunkontea](https://imdrunkontea.newgrounds.com/) just joined the crew!
+[worgenguy](https://worgenguy.newgrounds.com/) just joined the crew!
 
 We need **you** on the team, too.
 
@@ -292,17 +292,17 @@ If you have any questions about this privacy policy, the practices of this site,
 
 GamesMoviesAudioArtChannelsUsers
 
-[Rippi **What I am or who I am...**](https://rippi.newgrounds.com/news/post/1461279)
+[monarquis **Milking Company V0.10-alpha (Game)**](https://monarquis.newgrounds.com/news/post/1461890)
 
-[flooferland **hi !!**](https://flooferland.newgrounds.com/news/post/1461278)
+[Simoes1000 **NGTV DAMAGE Bash**](https://simoes1000.newgrounds.com/news/post/1461889)
 
-[ElYimy **I returned**](https://elyimy.newgrounds.com/news/post/1461277)
+[dj-evil-1000 **Hello Everyone**](https://dj-evil-1000.newgrounds.com/news/post/1461888)
 
-[Finasty **Making Collage**](https://finasty.newgrounds.com/news/post/1461276)
+[RexARock **New project**](https://rexarock.newgrounds.com/news/post/1461887)
 
-[NoahMlp123 **Vent**](https://noahmlp123.newgrounds.com/news/post/1461275)
+[Shinari **Hello**](https://shinari.newgrounds.com/news/post/1461886)
 
-[Snackers **All I Can Do**](https://snackers.newgrounds.com/news/post/1461274)
+[BroSkullEmoji **Okay I did it**](https://broskullemoji.newgrounds.com/news/post/1461884)
 
 [**Wall Art by**
 
