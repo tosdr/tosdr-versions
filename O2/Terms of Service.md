@@ -371,6 +371,8 @@ Related links
 * [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
 * [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
 * [Business](https://www.o2.co.uk/termsandconditions/business)
+* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
+* [Broadband](https://www.o2.co.uk/termsandconditions/broadband)
 
 * * *
 
