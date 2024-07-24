@@ -70,7 +70,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/privacy-policy)
 * [한국어](https://www.lelo.com/ko/privacy-policy)
 
-PRIME DEALS - UP TO 50% OFF + WIN A FREE TOY
+LAST CALL TO SAVE UP TO 50% OFF + WIN A FREE TOY
 
 [SHOP NOW](https://www.lelo.com/discount-and-deals)
 
