@@ -180,7 +180,7 @@ Mathspace uses third-party service providers for customer support, to monitor ou
 
 #### Milo Chat Tutor
 
-Mathspace uses APIs from OpenAI and the Microsoft Azure OpenAI Service to power the Milo Chat tutor functionality. While we transmit question data from Mathspace and any text or answers provided by users during the chat sessions to OpenAI, we do not share any personal user data. We proactively display a message to students to refrain from disclosing personal details while engaging with the chat feature.
+Mathspace uses APIs from OpenAI and the Microsoft Azure OpenAI Service to power the Milo Chat tutor functionality. While we transmit question data from Mathspace and any text or answers provided by users during the chat sessions to OpenAI, all transmitted data is not used for training per our Data Processing Agreement with OpenAI.
 
 #### Advertising Optimisation Purposes
 
