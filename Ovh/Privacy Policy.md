@@ -15,18 +15,24 @@ Open menu
     * [Help center](https://help.ovhcloud.com/csm/world-home?id=csm_index)
     * [Support levels](https://www.ovhcloud.com/en/support-levels/ "Support levels")
     * [Professional Services](https://www.ovhcloud.com/en/professional-services/)
-    * [Guides](https://help.ovhcloud.com/csm/en-documentation?id=kb_home)
 * Communities
     * Back to menu
     * OVHcloud Community
         
-    * [Case Studies](https://www.ovhcloud.com/en/case-studies/)
-    * [OVHcloud Videos](https://www.ovhcloud.com/en/video/)
-    * [OVHcloud Stories](https://www.ovhcloud.com/en/stories/)
+    * [OVHcloud Blog](https://blog.ovhcloud.com/ "OVHcloud Blog")
+    * [Events](https://events.ovhcloud.com/en/)
+* Learn
+    * Back to menu
+    * [Documentation](https://help.ovhcloud.com/csm/en-documentation?id=kb_home)
     * [Tutorials](https://www.ovhcloud.com/en/community/tutorials/)
     * [Use cases](https://www.ovhcloud.com/en/use-cases/)
-    * [Learn](https://www.ovhcloud.com/en/learn/)
-* [OVHcloud Blog](https://blog.ovhcloud.com/ "OVHcloud Blog")
+    * [Developer Centre](https://www.ovhcloud.com/en/developer-center/)
+    * [Learning Centre](https://www.ovhcloud.com/en/learn/)
+    * [Compliance](https://www.ovhcloud.com/en/enterprise/certification-conformity/)
+    * [Case Studies](https://www.ovhcloud.com/en/case-studies/)
+    * [Videos](https://www.ovhcloud.com/en/video/)
+    * [Stories](https://www.ovhcloud.com/en/stories/)
+    * [Training course](https://partner.ovhcloud.com/en/training-certification/)
 *  ![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en.svg) World \[$\]
     
     Back to menu
@@ -400,6 +406,7 @@ Log in to order, manage your products and services, and track your orders.
             * [AI Notebooks](https://www.ovhcloud.com/en/public-cloud/ai-notebooks/) Launch your Jupyter or VS Code notebooks in the cloud
             * [AI Training](https://www.ovhcloud.com/en/public-cloud/ai-training/) Train your AI models
             * [AI Deploy](https://www.ovhcloud.com/en/public-cloud/ai-deploy/) Deploy machine learning models & get your predictions
+            * [AI Endpoints Alpha](https://labs.ovhcloud.com/en/ai-endpoints/) Enhance your applications with cutting-edge AI APIs
             * [NVIDIA NGC Platform](https://www.ovhcloud.com/en/public-cloud/nvidia-gpu-cloud/) Launch applications that leverage the power of NVIDIA GPUs
             * Our documentation Browse our documentation for the AI & Machine Learning range
     * Quantum computing
