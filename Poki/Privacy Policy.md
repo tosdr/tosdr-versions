@@ -10,7 +10,7 @@
 1\. Some info about us!
 -----------------------
 
-![Poki logo](https://a.poki.com/privacy/privacystatement/privacyStatementUK-1.png)
+![Poki logo](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-1.png)
 
 Hello there! Thanks for visiting our privacy info page. We are a company called Poki B.V. On this page, we'll explain what is done with the data collected via our website. Data such as which game you played and at what level you stopped. We also want to make sure your privacy is protected. Therefore, we'll tell you about the steps we take for that and also explain what you can do.
 
@@ -31,7 +31,7 @@ _\* Please note that we determine from which region you visit our Website based 
 2\. Which parties use your data?
 --------------------------------
 
-![Parties](https://a.poki.com/privacy/privacystatement/privacyStatementUK-2.png)
+![Parties](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-2.png)
 
 We use your data to offer our website. We use the data to make the website work and to analyse how it's used. That way, we know what to improve. We do not share this data with other parties to use for their own purpose.
 
@@ -60,7 +60,7 @@ _\* Please note that this list may not be complete, since randomized cookies tha
 3\. What data do we use and what for?
 -------------------------------------
 
-![Use of data](https://a.poki.com/privacy/privacystatement/privacyStatementUK-3.png)
+![Use of data](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-3.png)
 
 In Privacy-Friendly Mode, we try extra hard to use as little data as possible! That's why we don't use accounts, and why there's no chat-box. We collect the data we need to keep our website working and some privacy-friendly analytical data.
 
@@ -140,7 +140,7 @@ Poki may also process your personal data when you contact our support team.
 4\. How do we get your data and who has access?
 -----------------------------------------------
 
-![Data processing](https://a.poki.com/privacy/privacystatement/privacyStatementUK-4.png)
+![Data processing](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-4.png)
 
 When you play games on our website, we automatically receive some information from you. We use a special thing called a "cookie" (not the tasty kind you eat) for this. The cookie collects the information. This for instance includes information on the type of device you use, in order to properly show you the game. You can learn more about cookies below!
 
@@ -182,7 +182,7 @@ We could share your data on a need-to-know basis with the parties mentioned belo
 5\. What about cookies?
 -----------------------
 
-![Cookie](https://a.poki.com/privacy/privacystatement/privacyStatementUK-10.png)
+![Cookie](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-10.png)
 
 We talked a little bit about cookies before, but let's dive deeper! The cookies we talk about are not the tasty kind 😉. Technical cookies are tiny bits of information, used on your computer or smartphone. When a cookie from our website is used on your device, it helps us to recognize you every time you visit our website. The cookie will "remember" you unless you delete it or if it stops working because it's expired. Thanks to cookies, we can "remember" your language settings, which games you played, and how far you've progressed in those games.
 
@@ -266,7 +266,7 @@ Analytical cookies are used to analyse the use of the Website, so that the quali
 6\. How about security?
 -----------------------
 
-![Lock](https://a.poki.com/privacy/privacystatement/privacyStatementUK-5.png)
+![Lock](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-5.png)
 
 Keeping your data safe is super important to us! We have done lots of things to make sure nothing bad happens to it. We have secret rules about security that only the people who work at Poki know about. These rules help us keep your data really safe! Everyone who works here is also trained to follow all the privacy rules. Also if something doesn't go according to plan.
 
@@ -281,7 +281,7 @@ Poki has internal documentation which describes how we safeguard an appropriate 
 7\. Is my data used in other countries?
 ---------------------------------------
 
-![Countries](https://a.poki.com/privacy/privacystatement/privacyStatementUK-6.png)
+![Countries](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-6.png)
 
 Most likely, yes. We keep all our data in a country called the Netherlands (it's a really cool place, you should check it out!). If you visit our website from the United Kingdom, your data travels between your country and the Netherlands.
 
@@ -310,7 +310,7 @@ You can contact us if you want additional information about the way in which we 
 8\. For how long do you use my data?
 ------------------------------------
 
-![Clock](https://a.poki.com/privacy/privacystatement/privacyStatementUK-7.png)
+![Clock](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-7.png)
 
 The cookies we use expire after up to six months. But remember, this period may be extended. If you come back to our website within six months, the six-month period starts over again. If you do not want that, you can delete your cookies.
 
@@ -333,7 +333,7 @@ In general, we do not keep your data for longer than what is necessary in relati
 9\. What are my rights?
 -----------------------
 
-![Rights](https://a.poki.com/privacy/privacystatement/privacyStatementUK-8.png)
+![Rights](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-8.png)
 
 You can always ask what information we have about you. If you want, you can also ask us to delete your information or just keep it without using it anymore. If you think something is wrong with the information we have, you can ask us to fix it.
 
@@ -398,7 +398,7 @@ Follow-up of your requests. We will provide you with information about the follo
 10\. How can you contact us?
 ----------------------------
 
-![Rights](https://a.poki.com/privacy/privacystatement/privacyStatementUK-9.png)
+![Rights](https://a.poki-cdn.com/privacy/privacystatement/privacyStatementUK-9.png)
 
 If you have any questions about this Privacy Statement or about how we use your data, please contact us at [privacy@poki.com](mailto:privacy@poki.com) or via:
 
@@ -421,4 +421,4 @@ Let the world play
 
 ⚙️ Cookies[About](https://about.poki.com/)[Poki for Developers](https://developers.poki.com/)[Jobs](https://jobs.poki.com/)[Privacy Statement](https://poki.com/en/c/privacy-statement)[Terms of Use](https://poki.com/en/c/terms-of-use)[FAQ](https://poki.com/en/c/faq)[Contact](https://poki.com/en/c/contact)
 
-Poki v5.12.0+29bedb4acf8dafb63c9407897f25591326e2b507 - SDK 372d1d2fb397343a240619df4558e76734e4d551
+Poki v5.12.0+a32089c27212e9597f900ceb86829157665bd75b - SDK v2
