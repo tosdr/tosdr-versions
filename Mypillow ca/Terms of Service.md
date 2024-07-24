@@ -44,7 +44,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
     * [Blankets](https://www.mypillow.com/bedding/blankets)
     * [Comforters](https://www.mypillow.com/bedding/blankets/downcomforters)
-    * [Duvet Covers](https://www.mypillow.com/mypillow-duvets)
+    * [Duvet Covers](https://www.mypillow.com/bedding/duvets)
 * [Mattresses](https://www.mypillow.ca/mattress)
     * [The Complete Mattress Sleep System](https://www.mypillow.ca/the-complete-mattress-sleep-system)
     * [Coil Mattress](https://www.mypillow.com/mattresses/coil-mattresses)
@@ -93,11 +93,11 @@ Get Even Lower Prices!
 
 Apply
 
+[](https://www.mypillow.com/tv-mypillow-premium)
+
 [](https://www.mypillow.ca/25-extravaganza-new)
 
 [](https://www.mypillow.com/mymattress-topper)
-
-[](https://www.mypillow.com/tv-mypillow-premium)
 
 [](https://www.mypillow.com/mycoffee-options)
 
@@ -105,27 +105,27 @@ Apply
 
    [](https://www.mypillow.com/mypillows)
 
-   [](https://www.mypillow.com/bath/bath-towels)
+   [](https://www.mypillow.com/accessory-pillows)
 
    [](https://www.mypillow.com/bath/kitchen-towels)
 
    [](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.ca/mypillow-2-0)
+   [](https://www.mypillow.ca/mypillow-sandals)
 
    [](https://www.mypillow.com/toppers)
 
-   [](https://www.mypillow.com/accessory-pillows)
+   [](https://www.mypillow.com/bath/bath-towels)
 
-   [](https://www.mypillow.ca/mypillow-sandals)
+   [](https://www.mypillow.ca/mypillow-2-0)
 
    [](https://www.mypillow.com/mattresses)
 
-   [](https://www.mypillow.com/mypillow-sandals)
+   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
-   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
+   [](https://www.mypillow.com/accessory-pillows)
 
-   [](https://www.mypillow.com/mycoffee-options)
+   [](https://www.mypillow.com/pet)
 
 [SAVE up to 80% with promo code
 
@@ -157,15 +157,15 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
    [](https://www.mypillow.com/accessory-pillows)
 
-   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
+   [](https://www.mypillow.com/mypillow-sandals)
 
    [](https://www.mypillow.ca/bath/beach-towels/mytowelstm-beach-towels)
 
-   [](https://www.mypillow.com/pet)
+   [](https://www.mypillow.com/mycoffee-options)
 
    [](https://www.mypillow.com/pet)
 
-   [](https://www.mypillow.com/accessory-pillows)
+   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
 
    [](https://www.mypillow.com/bedding/blankets)
 
