@@ -5,11 +5,11 @@ Alert Banner
 
 Alert:
 
-Labcorp Message (as of July 21, 11:00 a.m. ET) 
+Labcorp Message (as of July 23, 5:00 p.m. ET)
 
-* All Labcorp core systems impacted by the CrowdStrike issues are currently back online. 
-* We thank you for your patience. 
-* Please continue to check this site for additional updates.
+* All Labcorp core systems impacted by the CrowdStrike issues are currently back online.
+* In addition, our patient service centers have returned to normal service levels.
+* We appreciate your patience as our teams worked to restore business operations.
 
 Dismiss
 
