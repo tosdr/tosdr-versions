@@ -194,13 +194,13 @@
 *   ![Google](//static-www.o2.co.uk/sites/default/files/2021-07/quick-links-google-1100.png)
 *   ![Virgin Media](//static-www.o2.co.uk/sites/default/files/2024-07/BAU-44171-ProjectHalo-NavChanges-Nav-Bar-Portal-Page--110724-VMlogo-110724.jpg)
 
-  [![Why O2](https://origin-dapi.o2.co.uk/system/files/2024-07/5g-why-o2-thumbnail-dark-140220_1.jpg)
+  [![5G with O2](https://origin-dapi.o2.co.uk/system/files/2024-07/5g-why-o2-thumbnail-dark-230724.jpg)
 
 Are you ready for 5G?
 
 Check coverage](https://www.o2.co.uk/5g)
 
-  [![why O2](https://origin-dapi.o2.co.uk/system/files/2024-07/why-o2-thumbnail-dark-260220_0.jpg)
+  [![Why O2](https://origin-dapi.o2.co.uk/system/files/2024-07/why-o2-thumbnail-dark-230724.jpg)
 
 See all the reasons to choose O2
 
