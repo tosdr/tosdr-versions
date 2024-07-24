@@ -106,85 +106,83 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Emine2823](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/emine2823 "Emine2823")
+[![vevvev](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405697-1716148489.jpg)](https://lyricstranslate.com/en/translator/vevvev "vevvev")
 
 New translation
 
-[Hülya Polat - Çarşambayı Sel Aldı](https://lyricstranslate.com/en/hulya-polat-carsambayi-sel-aldi-english-1)
+[Hubert Clos Lus - Lao Tseu. Trop loin à l'est](https://lyricstranslate.com/en/hubert-clos-lus-lao-tseu-trop-loin-le-russian)
 
-Turkish → English
+French → Russian
 
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1716734982.gif)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New song
 
-[Keiko Nishina - ミッキー・マウス・メロディ](https://lyricstranslate.com/en/keiko-nishina-mickey-mouse-melody-lyrics)
+[Conny Vandenbos - Drie zomers lang](https://lyricstranslate.com/en/conny-vandenbos-drie-zomers-lang-lyrics)
 
-Japanese
+Dutch
 
-[![kc11](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1582398-1687436945.png)](https://lyricstranslate.com/en/translator/kc11 "kc11")
+[![fifi95](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1443833-1633445703.png)](https://lyricstranslate.com/en/translator/fifi95 "fifi95")
 
 New translation
 
-[Yan Ting - 晨星 (San4 Sing1)](https://lyricstranslate.com/en/yan-ting-san4-sing1-english)
+[Ethel Cain - Strangers](https://lyricstranslate.com/en/ethel-cain-strangers-serbian)
 
-Chinese (Cantonese) → English
+English → Serbian
 
-[![Emine2823](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/emine2823 "Emine2823")
-
-New translation
-
-[Hülya Polat - Sen Rüzgar Bende Yaprak](https://lyricstranslate.com/en/hulya-polat-sen-ruzgar-bende-yaprak-english)
-
-Turkish → English
-
-[![kc11](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1582398-1687436945.png)](https://lyricstranslate.com/en/translator/kc11 "kc11")
-
-New song
-
-[Yan Ting - 晨星](https://lyricstranslate.com/en/yan-ting-san4-sing1-lyrics)
-
-Chinese (Cantonese)
-
-[![Emine2823](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/emine2823 "Emine2823")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New translation
 
-[Hülya Polat - Vagomaktinen](https://lyricstranslate.com/en/hulya-polat-vagomaktinen-english-0)
+[Nino D'Angelo - A domani](https://lyricstranslate.com/en/nino-dangelo-domani-english)
 
-Laz → English
+Neapolitan → English
 
-[![JordanYT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442908-1647878147.jpg)](https://lyricstranslate.com/en/translator/jordanyt "JordanYT")
-
-Transcription request fulfilled
-
-[Sveicu jūs Rozā \[Welcome to Rosas\]](https://lyricstranslate.com/en/wish-ost-sveicu-jus-roza-welcome-lyrics)
-
-Latvian
-
-[![JordanYT](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1442908-1647878147.jpg)](https://lyricstranslate.com/en/translator/jordanyt "JordanYT")
+[![George Tzamouranis](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1427103-1562836422.jpg)](https://lyricstranslate.com/en/translator/george-tzamouranis "George Tzamouranis")
 
 New song
 
-[Wish (OST) - Sveicu jūs Rozā \[Welcome to Rosas\]](https://lyricstranslate.com/en/wish-ost-sveicu-jus-roza-welcome-lyrics)
+[Gor Grigoryan - Սիրտդ սրտովս լի է](https://lyricstranslate.com/en/gor-grigoryan-sirted-sartovs-li-e-lyrics)
 
-Latvian
+Armenian
 
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+
+New translation
+
+[Humbert Humbert - 喪に服すとき (Mo ni fukusu toki)](https://lyricstranslate.com/en/humbert-humbert-mo-ni-fukusu-toki-transliteration)
+
+Japanese → Transliteration
+
+[![mdubbelman](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/mdubbelman "mdubbelman")
+
+New translation
+
+[Chappell Roan - Coffee](https://lyricstranslate.com/en/chappell-roan-coffee-dutch)
+
+English → Dutch
+
+[![Moshe Kaye](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1457601-1594906407.jpg)](https://lyricstranslate.com/en/translator/moshe-kaye "Moshe Kaye")
 
 New song
 
-[Gruppa Skryptonite - Это любовь (It’s Love)](https://lyricstranslate.com/en/gruppa-skryptonite-eto-lyubov-its-love-lyrics)
+[Shuli Rand - הכלים השבורים](https://lyricstranslate.com/en/shuli-rand-hakailim-hashavorim-lyrics)
 
-Russian
+Hebrew
 
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1716734982.gif)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+[![Hubert Clolus](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1378346-1634557946.jpg)](https://lyricstranslate.com/en/translator/hubert-clolus "Hubert Clolus")
 
-New song
+New vote
 
-[Keiko Okuda - 瞳の中に](https://lyricstranslate.com/en/keiko-okuda-hitomi-no-naka-ni-lyrics)
+[Taoistischer Grundsatz](https://lyricstranslate.com/en/hubert-clos-lus-principe-taoiste-german)
 
-Japanese
+5
+
+[![novo_balanco](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611343-1719005005.jpg)](https://lyricstranslate.com/en/translator/novobalanco "novo_balanco")
+
+New comment
+
+Apologies as I didn't see your comment. I didn't ...  [more](https://lyricstranslate.com/en/comment/1155965#comment-1155965)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
