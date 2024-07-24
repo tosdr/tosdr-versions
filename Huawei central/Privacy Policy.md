@@ -47,6 +47,9 @@ Huawei Central
     * [HarmonyOS 2](https://www.huaweicentral.com/?s=harmonyos+2)
 * [Updates](https://www.huaweicentral.com/category/updates/)
     
+    * [![Huawei FreeClip July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeClip-400x240.jpg)
+        
+        Huawei FreeClip gets July 2024 update with new improvements](https://www.huaweicentral.com/huawei-freeclip-gets-july-2024-update-with-new-improvements/)
     * [![Huawei FreeBuds 5 HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/07/FreeBuds-5-400x240.jpg)
         
         Huawei FreeBuds 5 is grabbing HarmonyOS 4.2 enhancements](https://www.huaweicentral.com/huawei-freebuds-5-is-grabbing-harmonyos-4-2-enhancements/)
@@ -59,27 +62,24 @@ Huawei Central
     * [![Huawei FreeBuds Pro 3 stable HarmonyOS 4.2](https://www.huaweicentral.com/wp-content/uploads/2024/05/FreeBuds-Pro-3-400x240.jpg)
         
         Huawei FreeBuds Pro 3 receives stable HarmonyOS 4.2 software update](https://www.huaweicentral.com/huawei-freebuds-pro-3-receives-stable-harmonyos-4-2-software-update/)
-    * [![Huawei M-Pencil 3 May 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/05/M-pencil-device-400x240.jpg)
-        
-        Huawei M-Pencil 3 grabs May 2024 update with new optimizations](https://www.huaweicentral.com/huawei-m-pencil-3-grabs-may-2024-update-with-new-optimizations/)
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch D2 wearable](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-D2-400x240.jpg)
+        
+        Huawei might unveil Watch D2 wearable this month](https://www.huaweicentral.com/huawei-might-unveil-watch-d2-wearable-this-month/)
+    * [![Huawei Watch GT 5 Indonesian certification](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-GT-5-SDPPI-400x240.jpg)
+        
+        Huawei Watch GT 5 appears on Indonesian certification](https://www.huaweicentral.com/huawei-watch-gt-5-appears-on-indonesian-certification/)
+    * [![Huawei VLI-B29 smartwatches 3C](https://www.huaweicentral.com/wp-content/uploads/2024/07/Smartwatches-400x240.jpg)
+        
+        Huawei VLI-B29 and VLI-B19 smartwatches get 3C certificates with 18W charger](https://www.huaweicentral.com/huawei-vli-b29-and-vli-b19-smartwatches-get-3c-certificates-with-18w-charger/)
     * [![Huawei smartwatches auto-gesture control](https://www.huaweicentral.com/wp-content/uploads/2024/07/Wearable-400x240.jpg)
         
         Future Huawei smartwatches may use auto-gesture control features](https://www.huaweicentral.com/future-huawei-smartwatches-may-use-auto-gesture-control-features/)
     * [![Huawei Watch Fit 3 July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Fit-3-image-400x240.jpg)
         
         Huawei Watch Fit 3 grabs a massive July 2024 feature update](https://www.huaweicentral.com/huawei-watch-fit-3-grabs-a-massive-july-2024-feature-update/)
-    * [![Huawei Watch 4 series June 2024 patch](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-4-series-update-400x240.jpg)
-        
-        Huawei Watch 4 series is getting June 2024 security patch globally](https://www.huaweicentral.com/huawei-watch-4-series-is-getting-june-2024-security-patch-globally/)
-    * [![Huawei Watch Buds July 2024 update](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-Buds-400x240.jpg)
-        
-        Huawei Watch Buds users getting July 2024 improvements update](https://www.huaweicentral.com/huawei-watch-buds-users-getting-july-2024-improvements-update/)
-    * [![Huawei Watch D July 2024 improvements](https://www.huaweicentral.com/wp-content/uploads/2024/07/Watch-D-400x240.jpg)
-        
-        Huawei Watch D welcomes July 2024 system stability improvements](https://www.huaweicentral.com/huawei-watch-d-welcomes-july-2024-system-stability-improvements/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
