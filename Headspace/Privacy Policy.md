@@ -1,3 +1,5 @@
+[![Default Share Image](//images.ctfassets.net/v3n26e09qg2r/11CfrjeTLEc8iYUoC0eM2U/92d6c74060317d5ab12cc6df7db56dc8/logo.svg)](https://www.headspace.com/)
+
 Headspace Privacy Policy
 ========================
 
