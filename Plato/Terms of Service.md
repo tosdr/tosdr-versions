@@ -156,7 +156,7 @@ Grellas Shah LLP
 Plato Team Inc.  
 3031 Tisch Way, Suite 306  
 San Jose, CA 95128, USA  
-[legal@platoteam.com](http://legal@platoteam.com/)  
+[\[email protected\]](http://legal@platoteam.com/)  
 
 Third-Party Content  
 
@@ -191,7 +191,7 @@ Contact Us
 
 -------------
 
-If you have any questions about these Terms or if you wish to make any complaint or claim with respect to the Services, please contact us at: [hello@platoteam.com](mailto:hello@platoteam.com)  
+If you have any questions about these Terms or if you wish to make any complaint or claim with respect to the Services, please contact us at: [\[email protected\]](https://www.platoapp.com/cdn-cgi/l/email-protection)  
   
 When submitting a complaint, please provide a brief description of nature of your complaint and the specific services to which your complaint relates.  
 
