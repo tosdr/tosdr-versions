@@ -44,19 +44,19 @@
     
 * [Services](https://www.rapid7.com/services/)
     
-    * NEW
+    * New
         
         MDR with Unlimited Incident Response
         
         Managed Threat Complete
         
-        [Explore offer](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/)
+        [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
         
     
     * MANAGED SERVICES
     * [Managed Detection and Response
         
-        24/7 MONITORING & REMEDIATION FROM MDR EXPERTS](https://www.rapid7.com/services/managed-services/managed-detection-and-response-services/)
+        MANAGED THREAT COMPLETE](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
     * [Managed Vulnerability Management
         
         PERFECTLY OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
@@ -71,7 +71,7 @@
     * [Training & Certification
         
         SKILLS & ADVANCEMENT](https://www.rapid7.com/services/training-certification/)
-    * [Penetration Services
+    * [Penetration Testing
         
         TEST YOUR DEFENSES IN REAL-TIME](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
     * [IoT Security Testing
@@ -220,19 +220,19 @@
     
 * [Services](https://www.rapid7.com/services/)
     
-    * NEW
+    * New
         
         MDR with Unlimited Incident Response
         
         Managed Threat Complete
         
-        [Explore offer](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/)
+        [Request Demo](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/get-started/)
         
     
     * MANAGED SERVICES
     * [Managed Detection and Response
         
-        24/7 MONITORING & REMEDIATION FROM MDR EXPERTS](https://www.rapid7.com/services/managed-services/managed-detection-and-response-services/)
+        MANAGED THREAT COMPLETE](https://www.rapid7.com/services/managed-detection-and-response-mdr/)
     * [Managed Vulnerability Management
         
         PERFECTLY OPTIMIZED RISK ASSESSMENT](https://www.rapid7.com/services/managed-services/vulnerability-management/)
@@ -247,7 +247,7 @@
     * [Training & Certification
         
         SKILLS & ADVANCEMENT](https://www.rapid7.com/services/training-certification/)
-    * [Penetration Services
+    * [Penetration Testing
         
         TEST YOUR DEFENSES IN REAL-TIME](https://www.rapid7.com/services/security-consulting/penetration-testing-services/)
     * [IoT Security Testing
@@ -761,7 +761,7 @@ Need to report an Escalation or a Breach?
 
 SOLUTIONS
 
-[Insight Platform](https://www.rapid7.com/products/insight-platform/) [Managed Threat Complete](https://www.rapid7.com/solutions/unified-mdr-xdr-vm/) [Cloud Risk Complete](https://www.rapid7.com/solutions/unified-cloudsec-vm-appsec/)
+[Insight Platform](https://www.rapid7.com/products/insight-platform/) [Managed Threat Complete](https://www.rapid7.com/services/managed-detection-and-response-mdr/) [Cloud Risk Complete](https://www.rapid7.com/solutions/unified-cloudsec-vm-appsec/)
 
 SUPPORT & RESOURCES
 
