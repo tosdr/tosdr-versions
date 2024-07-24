@@ -372,26 +372,42 @@ Last Updated: Feb 23, 2024
 * [Top Health  
     Articles](#tabs-3)
 
-* [![COVID-19 leads to long-term changes in the immune system, study shows](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
+* [![Long-term immune changes persist in unvaccinated COVID-19 patients](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240721/Long-term-immune-changes-persist-in-unvaccinated-COVID-19-patients.aspx)
     
-    [COVID-19 leads to long-term changes in the immune system, study shows](https://www.news-medical.net/news/20240715/COVID-19-leads-to-long-term-changes-in-the-immune-system-study-shows.aspx)
+    [Long-term immune changes persist in unvaccinated COVID-19 patients](https://www.news-medical.net/news/20240721/Long-term-immune-changes-persist-in-unvaccinated-COVID-19-patients.aspx)
+    
+* [![Unexpected T-cell reactions to adenoviral COVID-19 vaccines discovered](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Unexpected-T-cell-reactions-to-adenoviral-COVID-19-vaccines-discovered-Researchers-From-The-U.aspx)
+    
+    [Unexpected T-cell reactions to adenoviral COVID-19 vaccines discovered](https://www.news-medical.net/news/20240719/Unexpected-T-cell-reactions-to-adenoviral-COVID-19-vaccines-discovered-Researchers-From-The-U.aspx)
     
 * [![Breakthrough in aging research: Blocking IL-11 extends lifespan and improves health in mice](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240718/Breakthrough-in-aging-research-Blocking-IL-11-extends-lifespan-and-improves-health-in-mice.aspx)
     
     [Breakthrough in aging research: Blocking IL-11 extends lifespan and improves health in mice](https://www.news-medical.net/news/20240718/Breakthrough-in-aging-research-Blocking-IL-11-extends-lifespan-and-improves-health-in-mice.aspx)
     
-* [![Research reveals optimal magnesium levels could lower dementia risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240715/Research-reveals-optimal-magnesium-levels-could-lower-dementia-risk.aspx)
+* [![Understanding the new coronavirus mutant strain KP.3.1.1](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240722/Understanding-the-new-coronavirus-mutant-strain-KP311.aspx)
     
-    [Research reveals optimal magnesium levels could lower dementia risk](https://www.news-medical.net/news/20240715/Research-reveals-optimal-magnesium-levels-could-lower-dementia-risk.aspx)
+    [Understanding the new coronavirus mutant strain KP.3.1.1](https://www.news-medical.net/news/20240722/Understanding-the-new-coronavirus-mutant-strain-KP311.aspx)
     
-* [![J.D. Vance, Trump’s VP pick, says media twisted his remarks on abortion and domestic violence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240716/JD-Vance-Trumpe28099s-VP-pick-says-media-twisted-his-remarks-on-abortion-and-domestic-violence.aspx)
+* [![Scurvy on the rise in the United States: Pediatric cases triple in five years](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Scurvy-on-the-rise-in-the-United-States-Pediatric-cases-triple-in-five-years.aspx)
     
-    [J.D. Vance, Trump’s VP pick, says media twisted his remarks on abortion and domestic violence](https://www.news-medical.net/news/20240716/JD-Vance-Trumpe28099s-VP-pick-says-media-twisted-his-remarks-on-abortion-and-domestic-violence.aspx)
+    [Scurvy on the rise in the United States: Pediatric cases triple in five years](https://www.news-medical.net/news/20240719/Scurvy-on-the-rise-in-the-United-States-Pediatric-cases-triple-in-five-years.aspx)
     
-* [![Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240717/Heart-of-the-Matter-Early-Diagnosis-and-Intervention-in-Heart-Failure-with-Prof-Martin-Cowie-Dr-Lisa-Anderson.aspx)
-    
-    [Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson](https://www.news-medical.net/news/20240717/Heart-of-the-Matter-Early-Diagnosis-and-Intervention-in-Heart-Failure-with-Prof-Martin-Cowie-Dr-Lisa-Anderson.aspx)
-    
+
+[### E-Cigarettes and Ethanol: A forensic Perspective on Vaping
+
+Michelle Peace
+
+In this interview conducted at Pittcon 2024 in San Diego, we spoke to Professor Michelle Peace about the challenges and implications of detecting ethanol in e-cigarettes for drug testing and forensic toxicology.
+
+![E-Cigarettes and Ethanol: A forensic Perspective on Vaping](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240723/E-Cigarettes-and-Ethanol-A-forensic-Perspective-on-Vaping.aspx)
+
+[### Understanding Consumer-Consented Data to Optimize Digital Health Programs
+
+LexisNexis® Risk Solutions
+
+In this interview, News Medical speaks with the Healthcare Business of LexisNexis® Risk Solutions about optimizing clinical trial screening and digital health programs through a better understanding of consumer-consented data.
+
+![Understanding Consumer-Consented Data to Optimize Digital Health Programs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240722/Understanding-Consumer-Consented-Data-to-Optimize-Digital-Health-Programs.aspx)
 
 [### The Future is Wearable: Advancing Human Health Through Portable Spectroscopy
 
@@ -401,65 +417,49 @@ In this interview conducted at Pittcon 2024 in San Diego, we spoke to Richard Cr
 
 ![The Future is Wearable: Advancing Human Health Through Portable Spectroscopy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240718/The-Future-is-Wearable-Advancing-Human-Health-Through-Portable-Spectroscopy.aspx)
 
-[### Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson
-
-Prof. Martin Cowie & Dr. Lisa Anderson
-
-The future of heart failure treatment with AstraZeneca's Prof. Martin Cowie and Heart Failure Specialist and Consultant Cardiologist at St George’s Hospital Dr. Lisa Anderson.
-
-![Heart of the Matter: Early Diagnosis and Intervention in Heart Failure with Prof. Martin Cowie & Dr. Lisa Anderson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240717/Heart-of-the-Matter-Early-Diagnosis-and-Intervention-in-Heart-Failure-with-Prof-Martin-Cowie-Dr-Lisa-Anderson.aspx)
-
-[### Accelerate Your Research: Harness the Power of 3D Models with Dispen3D
-
-Charlotte Broennimann
-
-Dispen3D is setting new standards in single-cell biology, enabling researchers to conduct high-precision experiments that drive advancements in drug discovery, personalized medicine, and regenerative therapies.
-
-![Accelerate Your Research: Harness the Power of 3D Models with Dispen3D](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240712/Accelerate-Your-Research-Dispen3D-Harnesses-the-Power-of-3D-Models.aspx)
-
-* [![Sudden Dizziness and Loss of Balance: Potential Underlying Issues](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
-    
-    [Sudden Dizziness and Loss of Balance: Potential Underlying Issues](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
-    
 * [![Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
     
     [Stomach Cramps and Diarrhea: Distinguishing Between Common and Serious Causes](https://www.news-medical.net/health/Stomach-Cramps-and-Diarrhea-Distinguishing-Between-Common-and-Serious-Causes.aspx)
+    
+* [![Sudden Dizziness and Loss of Balance: Potential Underlying Issues](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
+    
+    [Sudden Dizziness and Loss of Balance: Potential Underlying Issues](https://www.news-medical.net/health/Sudden-Dizziness-and-Loss-of-Balance-Potential-Underlying-Issues.aspx)
     
 * [![The Role of Vitamin D in Hormonal Balance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
     
     [The Role of Vitamin D in Hormonal Balance](https://www.news-medical.net/health/The-Role-of-Vitamin-D-in-Hormonal-Balance.aspx)
     
-* [![The Connection Between Vitamin D and Mental Health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/The-Connection-Between-Vitamin-D-and-Mental-Health.aspx)
-    
-    [The Connection Between Vitamin D and Mental Health](https://www.news-medical.net/health/The-Connection-Between-Vitamin-D-and-Mental-Health.aspx)
-    
 * [![Understanding the Glycemic Index](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/Understanding-the-Glycemic-Index.aspx)
     
     [Understanding the Glycemic Index](https://www.news-medical.net/health/Understanding-the-Glycemic-Index.aspx)
+    
+* [![How Does Cortisol Affect The Body?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/health/How-Does-Cortisol-Affect-The-Body.aspx)
+    
+    [How Does Cortisol Affect The Body?](https://www.news-medical.net/health/How-Does-Cortisol-Affect-The-Body.aspx)
     
 
 Latest News
 -----------
 
-* [![UCLA chosen to lead dementia care under new Medicare alternative payment model](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/UCLA-chosen-to-lead-dementia-care-under-new-Medicare-alternative-payment-model.aspx)
+* [![Study reveals skin bacteria's role in chronic bone infections after joint surgery](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Study-reveals-skin-bacterias-role-in-chronic-bone-infections-after-joint-surgery.aspx)
     
-    [UCLA chosen to lead dementia care under new Medicare alternative payment model](https://www.news-medical.net/news/20240719/UCLA-chosen-to-lead-dementia-care-under-new-Medicare-alternative-payment-model.aspx)
+    [Study reveals skin bacteria's role in chronic bone infections after joint surgery](https://www.news-medical.net/news/20240724/Study-reveals-skin-bacterias-role-in-chronic-bone-infections-after-joint-surgery.aspx)
     
-* [![Study confirms high success rates of combined chemotherapy in treating testicular cancer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/Study-confirms-high-success-rates-of-combined-chemotherapy-in-treating-testicular-cancer.aspx)
+* [![Chronic and new anxiety tied to increased dementia risk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Chronic-and-new-anxiety-tied-to-increased-dementia-risk.aspx)
     
-    [Study confirms high success rates of combined chemotherapy in treating testicular cancer](https://www.news-medical.net/news/20240719/Study-confirms-high-success-rates-of-combined-chemotherapy-in-treating-testicular-cancer.aspx)
+    [Chronic and new anxiety tied to increased dementia risk](https://www.news-medical.net/news/20240724/Chronic-and-new-anxiety-tied-to-increased-dementia-risk.aspx)
     
-* [![High mutation count in new COVID-19 variants does not increase immune evasion, study finds](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/High-mutation-count-in-new-COVID-19-variants-does-not-increase-immune-evasion-study-finds.aspx)
+* [![Comprehensive dataset from A4 study yields key insights about Alzheimer's disease](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Comprehensive-dataset-from-A4-study-yields-key-insights-about-Alzheimers-disease.aspx)
     
-    [High mutation count in new COVID-19 variants does not increase immune evasion, study finds](https://www.news-medical.net/news/20240719/High-mutation-count-in-new-COVID-19-variants-does-not-increase-immune-evasion-study-finds.aspx)
+    [Comprehensive dataset from A4 study yields key insights about Alzheimer's disease](https://www.news-medical.net/news/20240724/Comprehensive-dataset-from-A4-study-yields-key-insights-about-Alzheimers-disease.aspx)
     
-* [![New electronic cigarette products may couple nicotine addiction with gaming disorder](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/New-electronic-cigarette-products-may-couple-nicotine-addiction-with-gaming-disorder.aspx)
+* [![Challenging antibiotic resistance with dual-action macrolones](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Dual-Action-Antibiotic-Could-Make-Bacterial-Resistance-Nearly-Impossible.aspx)
     
-    [New electronic cigarette products may couple nicotine addiction with gaming disorder](https://www.news-medical.net/news/20240719/New-electronic-cigarette-products-may-couple-nicotine-addiction-with-gaming-disorder.aspx)
+    [Challenging antibiotic resistance with dual-action macrolones](https://www.news-medical.net/news/20240724/Dual-Action-Antibiotic-Could-Make-Bacterial-Resistance-Nearly-Impossible.aspx)
     
-* [![DDX41: A unique player in myeloid leukemogenesis](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240719/DDX41-A-unique-player-in-myeloid-leukemogenesis.aspx)
+* [![Waters new Rapid Screening-DSC enables up to 24x faster thermal stability testing at ultra-low sample volumes for antibody drugs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.news-medical.net/news/20240724/Waters-new-Rapid-Screening-DSC-enables-up-to-24x-faster-thermal-stability-testing-at-ultra-low-sample-volumes-for-antibody-drugs.aspx)
     
-    [DDX41: A unique player in myeloid leukemogenesis](https://www.news-medical.net/news/20240719/DDX41-A-unique-player-in-myeloid-leukemogenesis.aspx)
+    [Waters new Rapid Screening-DSC enables up to 24x faster thermal stability testing at ultra-low sample volumes for antibody drugs](https://www.news-medical.net/news/20240724/Waters-new-Rapid-Screening-DSC-enables-up-to-24x-faster-thermal-stability-testing-at-ultra-low-sample-volumes-for-antibody-drugs.aspx)
     
 
  [![NewsGuard](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-logo.svg) ![NewsGuard 100/100 Score](https://d2jx2rerrg6sh3.cloudfront.net/images/newsguard-100.svg)](https://www.news-medical.net/medical/newsguard)
@@ -533,7 +533,7 @@ News-Medical.Net provides this medical information service in accordance with th
 
 Update Your Privacy Preferences
 
-Last Updated: Sunday 21 Jul 2024
+Last Updated: Wednesday 24 Jul 2024
 
 [![AZoNetwork](https://www.azonetwork.com/images/azonetwork_logo_footer_80.png)](https://www.azonetwork.com/)
 
