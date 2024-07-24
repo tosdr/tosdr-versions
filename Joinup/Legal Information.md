@@ -1,12 +1,13 @@
 [![European Commission logo](/themes/ventuno/assets/images/logo-ec--en.svg)](https://ec.europa.eu/info/index_en)
 
-[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/)
+[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/ "Interoperable Europe Portal")
 
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
     * [Software](https://joinup.ec.europa.eu/software-solutions)
     * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+    * [Discussions](https://joinup.ec.europa.eu/discussions)
 * [Governance](https://joinup.ec.europa.eu/)
     * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
@@ -24,12 +25,13 @@
         * [Software](https://joinup.ec.europa.eu/software-solutions)
         * [Other](https://joinup.ec.europa.eu/other_solutions)
     * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+        * [Discussions](https://joinup.ec.europa.eu/discussions)
     * [Governance](https://joinup.ec.europa.eu/)
         * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
     * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
     * [About us](https://joinup.ec.europa.eu/collection/joinup)
     
-* [](https://joinup.ec.europa.eu/modal/anonymous/bookmarks?destination=/user/bookmarks "Bookmark")
+* [](https://joinup.ec.europa.eu/modal/anonymous/bookmarks?destination=/user/bookmarks "Bookmarks")
 * Toggle search box
     
     Search
@@ -97,7 +99,7 @@ Privacy Statement
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
+[v1.110.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.110.0)
 
 Useful links
 ------------
@@ -137,13 +139,14 @@ Useful links
 
 [![European Commission logo](/themes/ventuno/assets/images/logo-ec--en.svg)](https://ec.europa.eu/info/index_en)
 
-[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/)
+[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/ "Interoperable Europe Portal")
 
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
     * [Software](https://joinup.ec.europa.eu/software-solutions)
     * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+    * [Discussions](https://joinup.ec.europa.eu/discussions)
 * [Governance](https://joinup.ec.europa.eu/)
     * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
@@ -161,12 +164,13 @@ Useful links
         * [Software](https://joinup.ec.europa.eu/software-solutions)
         * [Other](https://joinup.ec.europa.eu/other_solutions)
     * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+        * [Discussions](https://joinup.ec.europa.eu/discussions)
     * [Governance](https://joinup.ec.europa.eu/)
         * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
     * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
     * [About us](https://joinup.ec.europa.eu/collection/joinup)
     
-* [](https://joinup.ec.europa.eu/modal/anonymous/bookmarks?destination=/user/bookmarks "Bookmark")
+* [](https://joinup.ec.europa.eu/modal/anonymous/bookmarks?destination=/user/bookmarks "Bookmarks")
 * Toggle search box
     
     Search
@@ -234,7 +238,7 @@ Privacy Statement
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
+[v1.110.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.110.0)
 
 Useful links
 ------------
@@ -276,13 +280,14 @@ Useful links
 
 [![European Commission logo](/themes/ventuno/assets/images/logo-ec--en.svg)](https://ec.europa.eu/info/index_en)
 
-[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/)
+[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/ "Interoperable Europe Portal")
 
 * [Interoperable Europe](https://joinup.ec.europa.eu/interoperable-europe)
 * [Solutions](https://joinup.ec.europa.eu/interoperable_solutions)
     * [Software](https://joinup.ec.europa.eu/software-solutions)
     * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+    * [Discussions](https://joinup.ec.europa.eu/discussions)
 * [Governance](https://joinup.ec.europa.eu/)
     * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
@@ -300,18 +305,19 @@ Useful links
         * [Software](https://joinup.ec.europa.eu/software-solutions)
         * [Other](https://joinup.ec.europa.eu/other_solutions)
     * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+        * [Discussions](https://joinup.ec.europa.eu/discussions)
     * [Governance](https://joinup.ec.europa.eu/)
         * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
     * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
     * [About us](https://joinup.ec.europa.eu/collection/joinup)
     
-* [](https://joinup.ec.europa.eu/modal/anonymous/bookmarks?destination=/user/bookmarks "Bookmark")
+* [](https://joinup.ec.europa.eu/modal/anonymous/bookmarks?destination=/user/bookmarks "Bookmarks")
 * Toggle search box
     
     Search
     
 
-[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/)
+[![Interoperable Europe logo](/themes/ventuno/assets/images/logo-interoperable-europe.svg)](https://joinup.ec.europa.eu/ "Interoperable Europe Portal")
 
 [Create an account](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
 
@@ -323,6 +329,7 @@ As a signed-in user you can create content, become a member of a community, rece
     * [Software](https://joinup.ec.europa.eu/software-solutions)
     * [Other](https://joinup.ec.europa.eu/other_solutions)
 * [Support Centre](https://joinup.ec.europa.eu/interoperable-europe-support-centre)
+    * [Discussions](https://joinup.ec.europa.eu/discussions)
 * [Governance](https://joinup.ec.europa.eu/)
     * [EU Digital Funding Opportunities](https://joinup.ec.europa.eu/eu-digital-funding-opportunities)
 * [Sign in](https://joinup.ec.europa.eu/caslogin?destination=/joinup/legal-notice)
@@ -636,7 +643,7 @@ Privacy Statement
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
+[v1.110.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.110.0)
 
 Useful links
 ------------
@@ -676,7 +683,7 @@ Useful links
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
+[v1.110.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.110.0)
 
 Useful links
 ------------
@@ -716,7 +723,7 @@ Useful links
 
 [Interoperable Europe](https://joinup.ec.europa.eu/)
 
-[v1.109.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.109.0)
+[v1.110.0](https://git.fpfis.tech.ec.europa.eu/ec-europa/digit-joinup-reference/-/releases/v1.110.0)
 
 ### About us
 
