@@ -227,7 +227,7 @@ Toggle light
 
 Comments
 
-167 Views
+172 Views
 
 Report
 
@@ -287,233 +287,237 @@ You may also like
 
 HD
 
- [![Much Ado](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/much-ado/)10
+ [![Grands Enfants](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/grands-enfants/)0
 
-### [Much Ado](https://playtube.pk/much-ado/)
+### [Grands Enfants](https://playtube.pk/grands-enfants/)
 
-2022 116 min _Movie_
+2023 15 min _Movie_
 
-Much Ado
+Grands Enfants
 
-10 2022 116 min HD
+0 2023 15 min HD
 
-Hero and Beatrice, cousins and best friends, have very different approaches to love. Beatrice, burned once, is fiercely avoiding her arrogant ex-boyfriend Benedick and has sworn off men ...
+Country: [France](https://playtube.pk/country/france/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
+Genre: [Music](https://playtube.pk/category/music/)
 
-[](#)[Watch Now](https://playtube.pk/much-ado/)
-
-HD
-
- [![Norwegian Ninja](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/norwegian-ninja/)4.8
-
-### [Norwegian Ninja](https://playtube.pk/norwegian-ninja/)
-
-2010 77 min _Movie_
-
-Norwegian Ninja
-
-4.8 2010 77 min HD
-
-Norwegian Ninja is the true story of how Commander Arne Treholt and his Ninja Force saved Norway during the Cold War. In 1983 the Ninja Force discovers that the sinister NATO force Stay ...
-
-Country: [Norway](https://playtube.pk/country/norway/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Comedy](https://playtube.pk/category/comedy/)
-
-[](#)[Watch Now](https://playtube.pk/norwegian-ninja/)
+[](#)[Watch Now](https://playtube.pk/grands-enfants/)
 
 HD
 
- [![Giant Snake Incident at Yellow River](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/giant-snake-incident-at-yellow-river/)6
+ [![A Nutcracker Christmas](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/a-nutcracker-christmas/)6.7
 
-### [Giant Snake Incident at Yellow River](https://playtube.pk/giant-snake-incident-at-yellow-river/)
+### [A Nutcracker Christmas](https://playtube.pk/a-nutcracker-christmas/)
 
-2023 84 min _Movie_
+2016 86 min _Movie_
 
-Giant Snake Incident at Yellow River
+A Nutcracker Christmas
 
-6 2023 84 min HD
+6.7 2016 86 min HD
 
-Country: [China](https://playtube.pk/country/china/)
+When her niece is cast in The Philadelphia Ballet’s production of the Nutcracker, a jaded ex-ballerina is forced to come to terms with the life and love she left behind.
 
-Genre: [Adventure](https://playtube.pk/category/adventure/), [Fantasy](https://playtube.pk/category/fantasy/)
+Country: [Canada](https://playtube.pk/country/canada/)
 
-[](#)[Watch Now](https://playtube.pk/giant-snake-incident-at-yellow-river/)
+Genre: [Drama](https://playtube.pk/category/drama/), [Family](https://playtube.pk/category/family/)
 
-HD
-
- [![Hollywood.Con](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/hollywood-con/)4
-
-### [Hollywood.Con](https://playtube.pk/hollywood-con/)
-
-2021 101 min _Movie_
-
-Hollywood.Con
-
-4 2021 101 min HD
-
-Every hot production company in Los Angeles is in a race to make the next big Mayan movie: hurry quick, sell out your company, and do whatever it takes.
-
-Genre: [Action](https://playtube.pk/category/action/), [Adventure](https://playtube.pk/category/adventure/)
-
-[](#)[Watch Now](https://playtube.pk/hollywood-con/)
+[](#)[Watch Now](https://playtube.pk/a-nutcracker-christmas/)
 
 HD
 
- [![How Tommy Lemenchick Became a Grade 7 Legend](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/how-tommy-lemenchick-became-a-grade-7-legend/)7.5
+ [![Westgate Tango](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/westgate-tango/)2
 
-### [How Tommy Lemenchick Became a Grade 7 Legend](https://playtube.pk/how-tommy-lemenchick-became-a-grade-7-legend/)
+### [Westgate Tango](https://playtube.pk/westgate-tango/)
 
-2017 10 min _Movie_
+2012 0 min _Movie_
 
-How Tommy Lemenchick Became a Grade 7 Legend
+Westgate Tango
 
-7.5 2017 10 min HD
+2 2012 0 min HD
 
-Ophelia is a whip-smart 12-year-old girl who must solve a vexing problem: she’s never been kissed. There are several candidates in her class, but none have Tommy Lemenchick’s smile.
+Feature debut by notable film critic Wang Wei. The film takes Taipei’s trendy Ximending district, best known for its mix of alternative lifestyles, youth fashion and the antimony of ...
+
+Country: [Taiwan](https://playtube.pk/country/taiwan/)
 
 Genre: [Comedy](https://playtube.pk/category/comedy/), [Romance](https://playtube.pk/category/romance/)
 
-[](#)[Watch Now](https://playtube.pk/how-tommy-lemenchick-became-a-grade-7-legend/)
+[](#)[Watch Now](https://playtube.pk/westgate-tango/)
 
 HD
 
- [![Camp Murder](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/camp-murder/)6
+ [![Corporate Affairs](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/corporate-affairs/)0
 
-### [Camp Murder](https://playtube.pk/camp-murder/)
+### [Corporate Affairs](https://playtube.pk/corporate-affairs/)
 
-2022 73 min _Movie_
+1990 82 min _Movie_
 
-Camp Murder
+Corporate Affairs
 
-6 2022 73 min HD
+0 1990 82 min HD
 
-In August of 1984, seven very stereotypical teenagers head up to their local summer camp. Little do they know, the movie is called Camp Murder. A loving throwback to cheap and cheesy ...
+An executive discovers that his former lover has given their firm's CEO a fatal heart attack during sex.
 
 Country: [USA](https://playtube.pk/country/usa/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Horror](https://playtube.pk/category/horror/)
+Genre: [Comedy](https://playtube.pk/category/comedy/)
 
-[](#)[Watch Now](https://playtube.pk/camp-murder/)
-
-HD
-
- [![Beyond Fury](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/beyond-fury/)0
-
-### [Beyond Fury](https://playtube.pk/beyond-fury/)
-
-2019 113 min _Movie_
-
-Beyond Fury
-
-0 2019 113 min HD
-
-Ex-Mercenary Michael Walker and his pregnant girlfriend Claudia are brutally attacked. Now with Claudia and the unborn child dead, Walker reverts to his military training to hunt down ...
-
-Country: [UK](https://playtube.pk/country/uk/)
-
-Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
-
-[](#)[Watch Now](https://playtube.pk/beyond-fury/)
+[](#)[Watch Now](https://playtube.pk/corporate-affairs/)
 
 HD
 
- [![Thug](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/thug/)0
+ [![The Dogman Triangle: Werewolves in the Lone Star State](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/the-dogman-triangle-werewolves-in-the-lone-star-state/)0
 
-### [Thug](https://playtube.pk/thug/)
+### [The Dogman Triangle: Werewolves in the Lone Star State](https://playtube.pk/the-dogman-triangle-werewolves-in-the-lone-star-state/)
 
-2024 0 min _Movie_
+2023 74 min _Movie_
 
-Thug
+The Dogman Triangle: Werewolves in the Lone Star State
 
-0 2024 0 min HD
+0 2023 74 min HD
 
-An aging gangster attempts to reconnect with his children and rectify the mistakes in his past, but the criminal underworld won't loosen their grip willingly.
+Witnesses have reported seeing upright-walking canids in Texas.
 
 Country: [USA](https://playtube.pk/country/usa/)
 
-Genre: [Crime](https://playtube.pk/category/crime/), [Drama](https://playtube.pk/category/drama/)
+Genre: [Documentary](https://playtube.pk/category/documentary/), [Horror](https://playtube.pk/category/horror/)
 
-[](#)[Watch Now](https://playtube.pk/thug/)
-
-HD
-
- [![Boy Gets Eaten](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/boy-gets-eaten/)5.3
-
-### [Boy Gets Eaten](https://playtube.pk/boy-gets-eaten/)
-
-2018 25 min _Movie_
-
-Boy Gets Eaten
-
-5.3 2018 25 min HD
-
-A boy is pressured to lose his virginity, and now his childhood trauma will no longer be ignored.
-
-Country: [Norway](https://playtube.pk/country/norway/)
-
-Genre: [Horror](https://playtube.pk/category/horror/)
-
-[](#)[Watch Now](https://playtube.pk/boy-gets-eaten/)
+[](#)[Watch Now](https://playtube.pk/the-dogman-triangle-werewolves-in-the-lone-star-state/)
 
 HD
 
- [![Rio Negro](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/rio-negro/)0
+ [![Mister Elephant](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/mister-elephant/)0
 
-### [Rio Negro](https://playtube.pk/rio-negro/)
+### [Mister Elephant](https://playtube.pk/mister-elephant/)
 
-2023 0 min _Movie_
+2024 8 min _Movie_
 
-Rio Negro
+Mister Elephant
 
-0 2023 0 min HD
+0 2024 8 min HD
+
+After the murder of a baker, a police officer teams up with his partner on the case, Mr. Elephant. As more tracks are discovered, they go through different moments, until a terrible ...
 
 Country: [Brazil](https://playtube.pk/country/brazil/)
 
-Genre: [Documentary](https://playtube.pk/category/documentary/)
+Genre: [Comedy](https://playtube.pk/category/comedy/), [Crime](https://playtube.pk/category/crime/)
 
-[](#)[Watch Now](https://playtube.pk/rio-negro/)
+[](#)[Watch Now](https://playtube.pk/mister-elephant/)
 
 HD
 
- [![Circle](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/circle/)4.1
+ [![Sala de espera a una muerte segura](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/sala-de-espera-a-una-muerte-segura/)0
 
-### [Circle](https://playtube.pk/circle/)
+### [Sala de espera a una muerte segura](https://playtube.pk/sala-de-espera-a-una-muerte-segura/)
 
-2010 84 min _Movie_
+2020 0 min _Movie_
 
-Circle
+Sala de espera a una muerte segura
 
-4.1 2010 84 min HD
+0 2020 0 min HD
 
-When remorseless killer James Bennett escapes from lockdown in a mental hospital, an FBI agent and a U.S. Marshal track the madman to his hometown, where he plans to slay a group of ...
+Country: [Mexico](https://playtube.pk/country/mexico/)
 
-Country: [USA](https://playtube.pk/country/usa/)
+Genre: [Action](https://playtube.pk/category/action/), [Western](https://playtube.pk/category/western/)
+
+[](#)[Watch Now](https://playtube.pk/sala-de-espera-a-una-muerte-segura/)
+
+HD
+
+ [![Coming Back](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/coming-back/)7
+
+### [Coming Back](https://playtube.pk/coming-back/)
+
+2011 88 min _Movie_
+
+Coming Back
+
+7 2011 88 min HD
+
+A comedic crime drama starring Echoes of the Rainbow actor Simon Yam. In Coming Back, which was shot in Mandarin, Yam plays a painter who restores art to increse its value. He’s also a ...
+
+Country: [China](https://playtube.pk/country/china/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
+
+[](#)[Watch Now](https://playtube.pk/coming-back/)
+
+HD
+
+ [![Plan 75](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/plan-75/)7
+
+### [Plan 75](https://playtube.pk/plan-75/)
+
+2022 113 min _Movie_
+
+Plan 75
+
+7 2022 113 min HD
+
+In a Japan of the near future, the government program Plan 75 encourages senior citizens to be voluntarily euthanized to remedy a super-aged society. An elderly woman whose means of ...
+
+Country: [France](https://playtube.pk/country/france/)
+
+Genre: [Drama](https://playtube.pk/category/drama/), [Science Fiction](https://playtube.pk/category/science-fiction/)
+
+[](#)[Watch Now](https://playtube.pk/plan-75/)
+
+HD
+
+ [![Day 13](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/day-13/)6
+
+### [Day 13](https://playtube.pk/day-13/)
+
+2023 0 min _Movie_
+
+Day 13
+
+6 2023 0 min HD
+
+A horror feature that tells the story of Ezz El-Din, who returns from abroad after many years, looking for his family, and while staying at his family's mansion, he discovers an ...
+
+Country: [Egypt](https://playtube.pk/country/egypt/)
 
 Genre: [Horror](https://playtube.pk/category/horror/), [Thriller](https://playtube.pk/category/thriller/)
 
-[](#)[Watch Now](https://playtube.pk/circle/)
+[](#)[Watch Now](https://playtube.pk/day-13/)
 
 HD
 
- [![Widowed](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/widowed/)0
+ [![Chocolat Cadabra](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/chocolat-cadabra/)0
 
-### [Widowed](https://playtube.pk/widowed/)
+### [Chocolat Cadabra](https://playtube.pk/chocolat-cadabra/)
 
-2023 30 min _Movie_
+2024 3 min _Movie_
 
-Widowed
+Chocolat Cadabra
 
-0 2023 30 min HD
+0 2024 3 min HD
 
-A young widow tries to inhale her husband's ashes whilst struggling to come to terms with his death.
+Music video by Studio Trigger for the 60th anniversary of Lotte's chocolate production.
 
-Country: [UK](https://playtube.pk/country/uk/)
+Country: [Japan](https://playtube.pk/country/japan/)
 
-Genre: [Comedy](https://playtube.pk/category/comedy/), [Drama](https://playtube.pk/category/drama/)
+Genre: [Animation](https://playtube.pk/category/animation/)
 
-[](#)[Watch Now](https://playtube.pk/widowed/)
+[](#)[Watch Now](https://playtube.pk/chocolat-cadabra/)
+
+HD
+
+ [![天网行动](data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAgA0JaQAA3AA/vv9UAA=)](https://playtube.pk/%e5%a4%a9%e7%bd%91%e8%a1%8c%e5%8a%a8/)0
+
+### [天网行动](https://playtube.pk/%e5%a4%a9%e7%bd%91%e8%a1%8c%e5%8a%a8/)
+
+1994 0 min _Movie_
+
+天网行动
+
+0 1994 0 min HD
+
+Country: [China](https://playtube.pk/country/china/)
+
+Genre: [Action](https://playtube.pk/category/action/), [Crime](https://playtube.pk/category/crime/)
+
+[](#)[Watch Now](https://playtube.pk/%e5%a4%a9%e7%bd%91%e8%a1%8c%e5%8a%a8/)
 
 Report Content
 
