@@ -1,4 +1,4 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6695807f2ff7ffbc808b23e1_PROLONGATION.png)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669687c20376bfc5993dbe17_Acheel%20nouveau.svg)
 
 0
 
@@ -12,7 +12,7 @@ Jours
 
 Heures
 
-En ce moment votre pack permis complet dès 619,99€\* Code inclus ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+VOTRE ASSURANCE HABITATION - dès 2,17€/ mois! [J'en profite](https://www.ornikar.com/assurance-habitation)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -241,7 +241,11 @@ J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)[Assurez votre véhi
 Découvrez et choisissez la formule la plus  
 adaptée à votre profil de conducteur.
 
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto)[Le permis financé avec le CPF !
+
+Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir votre permis de conduire ? Avec Ornikar c’est possible !
+
+Je découvre](https://www.ornikar.com/financer-permis-cpf)
 
 [_Télécharger la version actuelle_](https://ornikar.cdn.prismic.io/ornikar/ec711fca-9db1-4395-80a0-c3c47d214808_ORNIKAR+-+Politique+de+Confidentialit%C3%A9+-+24.01.2023+-+CLEAN.pdf)
 
@@ -727,13 +731,21 @@ Faites le choix Ornikar.
 
 Démarrez un test de Code Gratuit
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code/gratuit)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6421a1e4e001a226cef24c09_femme-assurance.png)](https://www.ornikar.com/code/gratuit)[Le permis financé avec le CPF !
+
+Vous souhaitez utiliser votre Compte Personnel de Formation (CPF) pour obtenir votre permis ? Avec Ornikar c’est possible !
+
+Je finance mon permis
+
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/669e1b10efce1dd13353f7c7_Heroe-image-CPF%20(1).png)](https://www.ornikar.com/financer-permis-cpf)
 
 ### A lire également
 
 Aucun article pour le moment
 
 Envie d'en savoir plus
+
+[Jeu concours Ornikar - JO Juillet 2024](https://www.ornikar.com/a-propos/promo-juillet-2024)
 
 [Les jours Ornikar](https://www.ornikar.com/a-propos/promo-juillet-2024)
 
@@ -841,7 +853,7 @@ Aide & Contact
 
 AUTO-ÉCOLE & ASSURANCE
 
-[Série de code offerte](https://app.ornikar.com/inscription)[Devis assurance auto gratuit](https://www.ornikar.com/assurance-auto/souscription)[Actualités et réformes](https://www.ornikar.com/actualites)
+[Série de code offerte](https://app.ornikar.com/inscription)[Devis assurance auto gratuit](https://www.ornikar.com/assurance-auto/souscription)[Devis assurance habitation gratuit](https://habitation.ornikar.com/subscribe/ornikar_mrh)[Actualités et réformes](https://www.ornikar.com/actualites)
 
 ENSEIGNANTS
 
