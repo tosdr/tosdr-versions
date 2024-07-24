@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Challenge World Poker Championship](https://www.myabandonware.com/game/challenge-world-poker-championship-r9q)
-* [World Poker Championship 2: Final Table Showdown](https://www.myabandonware.com/game/world-poker-championship-2-final-table-showdown-r9p)
-* [Casablanca ni Ai o: Satsujinsha wa Jikū o Koete](https://www.myabandonware.com/game/casablanca-ni-ai-o-satsujinsha-wa-jiku-o-koete-7y6)
-* [Xtreme Arcade 12 Pack](https://www.myabandonware.com/game/xtreme-arcade-12-pack-r8v)
-* [Xtreme Brain Games 12 Pack](https://www.myabandonware.com/game/xtreme-brain-games-12-pack-r8t)
+* [Mary-Kate and Ashley: Crush Course](https://www.myabandonware.com/game/mary-kate-and-ashley-crush-course-rau)
+* [The Golf Pro](https://www.myabandonware.com/game/the-golf-pro-ras)
+* [Marvel Trading Card Game](https://www.myabandonware.com/game/marvel-trading-card-game-rao)
+* [Stacked with Daniel Negreanu](https://www.myabandonware.com/game/stacked-with-daniel-negreanu-ram)
+* [World Series of Poker: Tournament of Champions](https://www.myabandonware.com/game/world-series-of-poker-tournament-of-champions-ral)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [The Magic Garden](https://www.myabandonware.com/game/the-magic-garden-7dz)
-* [Time Runners 3: The Big Run](https://www.myabandonware.com/game/time-runners-3-the-big-run-hi0)
-* [Il Tesoro dell'Isola dei Giochi](https://www.myabandonware.com/game/il-tesoro-dell-isola-dei-giochi-plr)
+* [Flyspy](https://www.myabandonware.com/game/flyspy-ho6)
+* [Star Wars: Jedi Reading](https://www.myabandonware.com/game/star-wars-jedi-reading-mtc)
+* [Theatre Wars: Goraku no Dendō](https://www.myabandonware.com/game/theatre-wars-goraku-no-dendo-oty)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
