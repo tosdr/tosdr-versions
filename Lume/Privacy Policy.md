@@ -25,6 +25,16 @@
     
     [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='280'%20width='280'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
     
+    ![Sweat Control Stick](https://shop.lumedeodorant.com/cdn/shop/files/main-menu-sweat-control-stick_280x280_crop_center.png)
+    
+    New!
+    
+    #### \+ Sweat Control Stick
+    
+    Powered by aluminum salts](https://lumedeodorant.com/collections/solid-deodorant-sweat-control)
+    
+    [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='280'%20width='280'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
+    
     ![Cream Tube Deodorant](https://shop.lumedeodorant.com/cdn/shop/files/main-menu-cream-tube-deodorant_280x280_crop_center.png)
     
     #### Cream Tube Deodorant
@@ -33,11 +43,15 @@
     
     [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='280'%20width='280'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
     
-    ![Sweat Control](https://shop.lumedeodorant.com/cdn/shop/files/main-menu-sweat-control_280x280_crop_center.png)
+    ![Sweat Control Tube](https://shop.lumedeodorant.com/cdn/shop/files/main-menu-sweat-control-tube_280x280_crop_center.png)
     
     New!
     
-    #### \+ Sweat Control
+    #### \+ Sweat Control Tube
+    
+    Powered by aluminum salts](https://lumedeodorant.com/collections/cream-deodorant-sweat-control)
+    
+    [#### \+ Sweat Control
     
     Powered by aluminum salts](https://lumedeodorant.com/collections/deodorant-sweat-control)
     
@@ -663,12 +677,13 @@ Snag it while supplies last →](https://lumedeodorant.com/products/starter-pack
 
 * [Best Sellers](https://lumedeodorant.com/collections/most-popular-products)
 * [Solid Deodorant](https://lumedeodorant.com/collections/solid-sticks)
+* [\+ Sweat Control StickNew!](https://lumedeodorant.com/collections/solid-deodorant-sweat-control)
 * [Cream Tube Deodorant](https://lumedeodorant.com/collections/tubes)
+* [\+ Sweat Control TubeNew!](https://lumedeodorant.com/collections/cream-deodorant-sweat-control)
 * [Cream Stick Deodorant](https://lumedeodorant.com/collections/cream-sticks)
-* [Deo + Sweat ControlNew!](https://lumedeodorant.com/collections/deodorant-sweat-control)
 * [Body Wash](https://lumedeodorant.com/collections/odor-control-wash#body-wash)
-* [Cleansing BarNew!](https://lumedeodorant.com/collections/odor-control-wash#cleansing-bar)
 
+* [Cleansing BarNew!](https://lumedeodorant.com/collections/odor-control-wash#cleansing-bar)
 * [Soap](https://lumedeodorant.com/collections/soaps)
 * [Wipes](https://lumedeodorant.com/collections/wipes)
 * [Body Cream](https://lumedeodorant.com/collections/body-cream)
@@ -699,9 +714,10 @@ Snag it while supplies last →](https://lumedeodorant.com/products/starter-pack
 
 * [Best Sellers](https://lumedeodorant.com/collections/most-popular-products)
 * [Solid Deodorant](https://lumedeodorant.com/collections/solid-sticks)
+* [\+ Sweat Control StickNew!](https://lumedeodorant.com/collections/solid-deodorant-sweat-control)
 * [Cream Tube Deodorant](https://lumedeodorant.com/collections/tubes)
+* [\+ Sweat Control TubeNew!](https://lumedeodorant.com/collections/cream-deodorant-sweat-control)
 * [Cream Stick Deodorant](https://lumedeodorant.com/collections/cream-sticks)
-* [Deo + Sweat ControlNew!](https://lumedeodorant.com/collections/deodorant-sweat-control)
 * [Body Wash](https://lumedeodorant.com/collections/odor-control-wash#body-wash)
 * [Cleansing BarNew!](https://lumedeodorant.com/collections/odor-control-wash#cleansing-bar)
 * [Soap](https://lumedeodorant.com/collections/soaps)
