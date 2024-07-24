@@ -77,7 +77,7 @@ We use cookies to improve your experience and increase the relevancy of content 
     
     * [Blog](https://nitropay.com/blog)
     * [Contact us](https://nitropay.com/#contact)
-* [![](//s.nit.ro/assets/ow-large.png)](https://www.overwolf.com/)
+* [![](//s.nit.ro/assets/ow-large.png)](https://www.overwolf.com/) [![](https://s.nit.ro/ow/ISO.svg)](https://www.overwolf.com/iso/)
 
 **© Overwolf. All rights reserved.**
 
