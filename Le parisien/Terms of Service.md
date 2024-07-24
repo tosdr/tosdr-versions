@@ -53,6 +53,7 @@ Rechercher sur Le Parisien
     * [Programme et calendrier](https://www.leparisien.fr/jo-paris-2024/programme/)
     * [Résultats par discipline](https://www.leparisien.fr/jo-paris-2024/resultats-par-discipline/)
     * [Résultats JO Paris 2024 en direct](https://www.leparisien.fr/jo-paris-2024/resultats/)
+    * [Tous les directs des JO 2024](https://www.leparisien.fr/jo-paris-2024/directs/)
     * [Tableau des médailles](https://www.leparisien.fr/jo-paris-2024/tableau-des-medailles/)
     * [Équipe de France olympique](https://www.leparisien.fr/jo-paris-2024/equipe-de-france/)
     * [Village olympique](https://www.leparisien.fr/jo-paris-2024/village-olympique/)
@@ -820,9 +821,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=707)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=708)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=707)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=708)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
