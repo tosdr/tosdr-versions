@@ -2,6 +2,7 @@ Free Shipping Over €36.00 | Easy Returns
 
 [](https://eur.patpat.com/)
 
+* [Halloween](https://eur.patpat.com/category/halloween.html)
 * [New In](https://eur.patpat.com/category/new-in.html)
 * [Characters](https://eur.patpat.com/category/characters.html)
 * [Baby](https://eur.patpat.com/category/baby-clothes.html)
