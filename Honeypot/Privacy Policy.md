@@ -23,10 +23,10 @@ Privacy Policy of New Work
 
 The protection of your privacy is of particular importance to us.
 
-New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, e-mail: datenschutzbeauftragter@new-work.se, hereinafter "We", as operator of the  
+New Work SE, Am Strandkai 1, 20457 Hamburg, Germany, e-mail: [\[email protected\]](https://www.honeypot.io/cdn-cgi/l/email-protection), hereinafter "We", as operator of the  
 website "www.honeypot.io" is the controller for the use of the personal data of  
 users of the website pursuant to Art. 4 (7) of the EU General Data Protection  
-Regulation (“GDPR”). You can contact our data protection officer Christian Schmidt via [datenschutzbeauftragter@new-work.se](mailto:datenschutzbeauftragter@new-work.se) or our postal address with reference to "Data protection  
+Regulation (“GDPR”). You can contact our data protection officer Christian Schmidt via [\[email protected\]](https://www.honeypot.io/cdn-cgi/l/email-protection) or our postal address with reference to "Data protection  
 officer".
 
 Furthermore, it is important to us that you know, at any point, when we store  
@@ -520,7 +520,7 @@ Am Strandkai 1
 
 or
 
-[datenschutzbeauftragter@new-work.se](mailto:datenschutzbeauftragter@new-work.se)
+[\[email protected\]](https://www.honeypot.io/cdn-cgi/l/email-protection)
 
 [You can find the privacy policy for cult.honeypot.io here](https://cult.honeypot.io/privacy-policy).
 -----------------------------------------------------------------------------------------------------
@@ -579,7 +579,7 @@ We're social, too!
 
 [Youtube](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA/videos)
 
-[hello@honeypot.io](mailto:hello@honeypot.io)
+[\[email protected\]](https://www.honeypot.io/cdn-cgi/l/email-protection)
 
 * [EN](https://www.honeypot.io/en/privacy_policy/)
 
