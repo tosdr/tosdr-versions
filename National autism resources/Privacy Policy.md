@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183373052157)                        [Skip to main content](#main-content)
+![null](https://www.facebook.com/tr?id=3417458191625757&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-5-prd-us-central1-183503394387)                        [Skip to main content](#main-content)
 
 Free U.s. Shipping On Orders Over $59 (Excludes items with truck symbol, AK & HI)
 
@@ -10,7 +10,7 @@ Search
 
 [![National Autism Resources](https://cdn11.bigcommerce.com/s-wkp9y2ej/images/stencil/266x109/national-logo_1717482994__30968.original.png "National Autism Resources")](https://nationalautismresources.com/)
 
-[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/header-stk-lg.png)](https://nationalautismresources.com/)
+[![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/header-stk-lg.png)](https://nationalautismresources.com/)
 
 * [Teaching](https://nationalautismresources.com/classroom-materials-teaching-supplies/)
     
@@ -28,7 +28,7 @@ Search
     * [Math](https://nationalautismresources.com/teaching-supplies/math/)
     * [Speech & Communication](https://nationalautismresources.com/speech-language/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-1.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-1.png)
     
     ### social emotional learning
     
@@ -55,7 +55,7 @@ Search
     * [Reinforcer Toys](https://nationalautismresources.com/toys/reinforcer-toys/)
     * [Manipulatives](https://nationalautismresources.com/manipulatives/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-2.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-2.png)
     
     ### Top Toys & Gifts
     
@@ -74,7 +74,7 @@ Search
     * [Headphones](https://nationalautismresources.com/headphones/)
     * [Calm Lighting](https://nationalautismresources.com/calming/calm-lighting/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-3.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-3.png)
     
     ### Calming Favorites
     
@@ -94,7 +94,7 @@ Search
     * [Fine Motor](https://nationalautismresources.com/fine-motor/)
     * [Self Regulation](https://nationalautismresources.com/self-regulation/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-4.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-4.png)
     
     ### Sensory Room Furniture
     
@@ -119,7 +119,7 @@ Search
     * [Weighted Vest FAQs](https://nationalautismresources.com/weighted-vest-faqs/)
     * [Weighted Blanket](https://nationalautismresources.com/blog/how-much-weight-should-your-weighted-blanket-have/)
     
-    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/cat-5.png)
+    [![img](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/cat-5.png)
     
     ### 2024 Catalog
     
@@ -139,7 +139,7 @@ Search
     
     [CONTINUE & LOGIN](https://nationalautismresources.com/login.php)
     
-    #### Business Account
+    #### Educator Account
     
     I am **shopping as a member of a school, business or organization** and may purchase with a PO or credit card.
     
@@ -323,7 +323,7 @@ Join our eNewsletter for updates, tips, and news!
 
 Email Address
 
-![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/d6079140-27be-013d-e4d9-125f1846727c/e/7f024b60-249a-013d-d949-0271c811cfc3/img/footer-logo.png)
+![](https://cdn11.bigcommerce.com/s-wkp9y2ej/stencil/13ed7af0-2af2-013d-c90e-6e9598c4e945/e/84eae070-2a2d-013d-4dfb-22cff4efabf1/img/footer-logo.png)
 
 ### Account
 
