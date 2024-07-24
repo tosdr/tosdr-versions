@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 3,662
+* 4,311
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 5,951
+* 6,106
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,687
+* 14,798
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 12,246
+* 12,337
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,820
+* 16,096
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,124
+* 7,172
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,266
+* 14,289
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 12,135
+* 12,185
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 5,906
+* 5,921
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,555
+* 7,581
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,028
+* 13,045
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 34,008
+* 34,037
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,421
+* 14,436
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 36,167
+* 36,193
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 22,565
+* 22,703
 * 12
 
 ### The 1.18.2 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,088
+* 23,125
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,302
+* 8,322
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1318,38 +1318,42 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 33 (members: 0, guests: 33)
+Total: 36 (members: 0, guests: 36)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
-[I](https://papermc.io/members/icottage.10142/)
+[I](https://papermc.io/members/ikonodim.10109/)
 
-[what stacking raid farms work on papermc?](https://papermc.io/threads/what-stacking-raid-farms-work-on-papermc.1278/)
+* Solved
 
-* [iCottage](https://papermc.io/members/icottage.10142/)
-* [Today at 12:17 AM](https://papermc.io/threads/what-stacking-raid-farms-work-on-papermc.1278/)
-* [Discussion](https://papermc.io/forums/paper-discussion/)
+[Maven failed to download sonatype metadata](https://papermc.io/threads/maven-failed-to-download-sonatype-metadata.1281/)
+
+* [ikonodim](https://papermc.io/members/ikonodim.10109/)
+* [Yesterday at 3:37 PM](https://papermc.io/threads/maven-failed-to-download-sonatype-metadata.1281/)
+* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
 
-0
+3
 
 Views
 
-17
+78
 
-[Discussion](https://papermc.io/forums/paper-discussion/) [Today at 12:17 AM](https://papermc.io/threads/what-stacking-raid-farms-work-on-papermc.1278/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 3:50 PM](https://papermc.io/threads/maven-failed-to-download-sonatype-metadata.1281/latest)
 
-[iCottage](https://papermc.io/members/icottage.10142/)
+[electronicboy](https://papermc.io/members/electronicboy.2/)
 
-[I](https://papermc.io/members/icottage.10142/)
+[![electronicboy](/data/avatars/s/0/2.jpg?1639525591)](https://papermc.io/members/electronicboy.2/)
 
-[D](https://papermc.io/members/devsnx.10084/)
+[![Stormyz](https://secure.gravatar.com/avatar/222b183c3251180341556abe3879a92f?s=48)](https://papermc.io/members/stormyz.10107/)
 
-[Paper 1.21 Custom Skulls](https://papermc.io/threads/paper-1-21-custom-skulls.1272/)
+* Question
 
-* [DevSnx](https://papermc.io/members/devsnx.10084/)
-* [Wednesday at 3:23 PM](https://papermc.io/threads/paper-1-21-custom-skulls.1272/)
+Question [NMS NPC spawning issue \[1.21\]](https://papermc.io/threads/nms-npc-spawning-issue-1-21.1274/)
+
+* [Stormyz](https://papermc.io/members/stormyz.10107/)
+* [Thursday at 3:54 PM](https://papermc.io/threads/nms-npc-spawning-issue-1-21.1274/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
@@ -1358,13 +1362,37 @@ Replies
 
 Views
 
-95
+139
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 11:38 PM](https://papermc.io/threads/paper-1-21-custom-skulls.1272/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 3:35 PM](https://papermc.io/threads/nms-npc-spawning-issue-1-21.1274/latest)
 
-[Andre\_601](https://papermc.io/members/andre_601.415/)
+[egg82](https://papermc.io/members/egg82.10168/)
 
-[![Andre_601](https://secure.gravatar.com/avatar/c2673d1eeae910a09b42d8f96f3287ed?s=48)](https://papermc.io/members/andre_601.415/)
+[![egg82](https://secure.gravatar.com/avatar/75dbcc1bacd3934fd5d0a36d9a4518db?s=48)](https://papermc.io/members/egg82.10168/)
+
+[I](https://papermc.io/members/ikonodim.10109/)
+
+* Solved
+
+Solved [Maven reload download warnings (Maven server outage)](https://papermc.io/threads/maven-reload-download-warnings-maven-server-outage.1280/)
+
+* [ikonodim](https://papermc.io/members/ikonodim.10109/)
+* [Yesterday at 2:39 PM](https://papermc.io/threads/maven-reload-download-warnings-maven-server-outage.1280/)
+* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
+
+Replies
+
+1
+
+Views
+
+77
+
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 2:42 PM](https://papermc.io/threads/maven-reload-download-warnings-maven-server-outage.1280/latest)
+
+[electronicboy](https://papermc.io/members/electronicboy.2/)
+
+[![electronicboy](/data/avatars/s/0/2.jpg?1639525591)](https://papermc.io/members/electronicboy.2/)
 
 [O](https://papermc.io/members/oxygenlover.10129/)
 
@@ -1376,17 +1404,112 @@ Question [Casting error - deserialization at custom PersistentDataContainer](htt
 
 Replies
 
+3
+
+Views
+
+111
+
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 2:25 PM](https://papermc.io/threads/casting-error-deserialization-at-custom-persistentdatacontainer.1277/latest)
+
+[electronicboy](https://papermc.io/members/electronicboy.2/)
+
+[![electronicboy](/data/avatars/s/0/2.jpg?1639525591)](https://papermc.io/members/electronicboy.2/)
+
+[F](https://papermc.io/members/flamango.10117/)
+
+* Question
+
+Question [Internal Exception: io.netty.handler.codec.DecoderException: Badly compressed packet](https://papermc.io/threads/internal-exception-io-netty-handler-codec-decoderexception-badly-compressed-packet.1276/)
+
+* [Flamango](https://papermc.io/members/flamango.10117/)
+* [Friday at 9:04 PM](https://papermc.io/threads/internal-exception-io-netty-handler-codec-decoderexception-badly-compressed-packet.1276/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+1
+
+Views
+
+131
+
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 2:19 PM](https://papermc.io/threads/internal-exception-io-netty-handler-codec-decoderexception-badly-compressed-packet.1276/latest)
+
+[electronicboy](https://papermc.io/members/electronicboy.2/)
+
+[![electronicboy](/data/avatars/s/0/2.jpg?1639525591)](https://papermc.io/members/electronicboy.2/)
+
+[![cleversheep2011](/data/avatars/s/10/10150.jpg?1721631792)](https://papermc.io/members/cleversheep2011.10150/)
+
+* Locked
+* Question
+
+Question [Paper1.18.1 net.minecraft.nbt.TagParser](https://papermc.io/threads/paper1-18-1-net-minecraft-nbt-tagparser.1279/)
+
+* [cleversheep2011](https://papermc.io/members/cleversheep2011.10150/)
+* [Monday at 8:02 AM](https://papermc.io/threads/paper1-18-1-net-minecraft-nbt-tagparser.1279/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
 2
 
 Views
 
-60
+69
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 2:16 AM](https://papermc.io/threads/casting-error-deserialization-at-custom-persistentdatacontainer.1277/latest)
+[Help](https://papermc.io/forums/paper-help/) [Monday at 12:38 PM](https://papermc.io/threads/paper1-18-1-net-minecraft-nbt-tagparser.1279/latest)
 
-[OxygenLover](https://papermc.io/members/oxygenlover.10129/)
+[mbaxter](https://papermc.io/members/mbaxter.18/)
 
-[O](https://papermc.io/members/oxygenlover.10129/)
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
+
+[I](https://papermc.io/members/icottage.10142/)
+
+* Question
+
+[what stacking raid farms work on papermc?](https://papermc.io/threads/what-stacking-raid-farms-work-on-papermc.1278/)
+
+* [iCottage](https://papermc.io/members/icottage.10142/)
+* [Monday at 12:17 AM](https://papermc.io/threads/what-stacking-raid-farms-work-on-papermc.1278/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+65
+
+[Help](https://papermc.io/forums/paper-help/) [Monday at 12:17 AM](https://papermc.io/threads/what-stacking-raid-farms-work-on-papermc.1278/latest)
+
+[iCottage](https://papermc.io/members/icottage.10142/)
+
+[I](https://papermc.io/members/icottage.10142/)
+
+[D](https://papermc.io/members/devsnx.10084/)
+
+[Paper 1.21 Custom Skulls](https://papermc.io/threads/paper-1-21-custom-skulls.1272/)
+
+* [DevSnx](https://papermc.io/members/devsnx.10084/)
+* [Jul 17, 2024](https://papermc.io/threads/paper-1-21-custom-skulls.1272/)
+* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
+
+Replies
+
+1
+
+Views
+
+131
+
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sunday at 11:38 PM](https://papermc.io/threads/paper-1-21-custom-skulls.1272/latest)
+
+[Andre\_601](https://papermc.io/members/andre_601.415/)
+
+[![Andre_601](https://secure.gravatar.com/avatar/c2673d1eeae910a09b42d8f96f3287ed?s=48)](https://papermc.io/members/andre_601.415/)
 
 [![PaperMC](/data/avatars/s/0/44.jpg?1692045896)](https://papermc.io/members/papermc.44/)
 
@@ -1412,30 +1535,6 @@ Views
 
 [![halfblood_drag0n](https://secure.gravatar.com/avatar/232ebdc096d1c6729e41a3149b36f99d?s=48)](https://papermc.io/members/halfblood_drag0n.10128/)
 
-[F](https://papermc.io/members/flamango.10117/)
-
-* Question
-
-Question [Internal Exception: io.netty.handler.codec.DecoderException: Badly compressed packet](https://papermc.io/threads/internal-exception-io-netty-handler-codec-decoderexception-badly-compressed-packet.1276/)
-
-* [Flamango](https://papermc.io/members/flamango.10117/)
-* [Friday at 9:04 PM](https://papermc.io/threads/internal-exception-io-netty-handler-codec-decoderexception-badly-compressed-packet.1276/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-0
-
-Views
-
-80
-
-[Help](https://papermc.io/forums/paper-help/) [Friday at 9:04 PM](https://papermc.io/threads/internal-exception-io-netty-handler-codec-decoderexception-badly-compressed-packet.1276/latest)
-
-[Flamango](https://papermc.io/members/flamango.10117/)
-
-[F](https://papermc.io/members/flamango.10117/)
-
 [I](https://papermc.io/members/ikonodim.10109/)
 
 * Solved
@@ -1452,109 +1551,13 @@ Replies
 
 Views
 
-113
+136
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Thursday at 7:04 PM](https://papermc.io/threads/replacement-for-chatcolor-translatealternatecolorcodes.1275/latest)
 
 [mbaxter](https://papermc.io/members/mbaxter.18/)
 
 [![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
-
-[![Stormyz](https://secure.gravatar.com/avatar/222b183c3251180341556abe3879a92f?s=48)](https://papermc.io/members/stormyz.10107/)
-
-* Question
-
-Question [NMS NPC spawning issue \[1.21\]](https://papermc.io/threads/nms-npc-spawning-issue-1-21.1274/)
-
-* [Stormyz](https://papermc.io/members/stormyz.10107/)
-* [Thursday at 3:54 PM](https://papermc.io/threads/nms-npc-spawning-issue-1-21.1274/)
-* [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
-
-Replies
-
-0
-
-Views
-
-86
-
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Thursday at 3:54 PM](https://papermc.io/threads/nms-npc-spawning-issue-1-21.1274/latest)
-
-[Stormyz](https://papermc.io/members/stormyz.10107/)
-
-[![Stormyz](https://secure.gravatar.com/avatar/222b183c3251180341556abe3879a92f?s=48)](https://papermc.io/members/stormyz.10107/)
-
-[![二次元的香瓜](/data/avatars/s/10/10054.jpg?1721106684)](https://papermc.io/members/%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E9%A6%99%E7%93%9C.10054/)
-
-* Question
-
-[Paper1.21: The server core cannot brush blankets, rails, and TNT](https://papermc.io/threads/paper1-21-the-server-core-cannot-brush-blankets-rails-and-tnt.1269/)
-
-* [二次元的香瓜](https://papermc.io/members/%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E9%A6%99%E7%93%9C.10054/)
-* [Tuesday at 6:17 AM](https://papermc.io/threads/paper1-21-the-server-core-cannot-brush-blankets-rails-and-tnt.1269/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-2
-
-Views
-
-135
-
-[Help](https://papermc.io/forums/paper-help/) [Wednesday at 2:54 AM](https://papermc.io/threads/paper1-21-the-server-core-cannot-brush-blankets-rails-and-tnt.1269/latest)
-
-[二次元的香瓜](https://papermc.io/members/%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E9%A6%99%E7%93%9C.10054/)
-
-[![二次元的香瓜](/data/avatars/s/10/10054.jpg?1721106684)](https://papermc.io/members/%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E9%A6%99%E7%93%9C.10054/)
-
-[S](https://papermc.io/members/stinchik.10062/)
-
-* Question
-
-Question [Searching for one function](https://papermc.io/threads/searching-for-one-function.1271/)
-
-* [Stinchik](https://papermc.io/members/stinchik.10062/)
-* [Tuesday at 3:58 PM](https://papermc.io/threads/searching-for-one-function.1271/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-0
-
-Views
-
-62
-
-[Help](https://papermc.io/forums/paper-help/) [Tuesday at 3:58 PM](https://papermc.io/threads/searching-for-one-function.1271/latest)
-
-[Stinchik](https://papermc.io/members/stinchik.10062/)
-
-[S](https://papermc.io/members/stinchik.10062/)
-
-[O](https://papermc.io/members/omegalke.10060/)
-
-* Question
-
-Question [Error](https://papermc.io/threads/error.1270/)
-
-* [omegalke](https://papermc.io/members/omegalke.10060/)
-* [Tuesday at 12:24 PM](https://papermc.io/threads/error.1270/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-2
-
-Views
-
-89
-
-[Help](https://papermc.io/forums/paper-help/) [Tuesday at 12:29 PM](https://papermc.io/threads/error.1270/latest)
-
-[omegalke](https://papermc.io/members/omegalke.10060/)
-
-[O](https://papermc.io/members/omegalke.10060/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
