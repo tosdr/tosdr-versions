@@ -157,7 +157,7 @@ Primary nav
         * [NFL Pride](https://www.nfl.com/causes/pride/ "NFL Pride")
         * [Football and Flow](https://www.nfl.com/causes/football-and-flow "Football and Flow")
         
-* [Flag Football](https://www.nfl.com/flag-football/ways-to-watch/ "Flag Football")
+* [Training Camp](https://www.nfl.com/training-camp/ "Training Camp")
 * [](#2ndlevel "...")
     * [Players](https://www.nfl.com/players/ "Players")
     * [Videos](https://www.nfl.com/videos/ "Videos")
@@ -651,7 +651,7 @@ General & Media Info
 * \*\*\*\*\*
 * [Rule Book](https://operations.nfl.com/the-rules/nfl-rulebook/)
 * [Accessibility](https://www.nfl.com/legal/accessibility)
-* [Record & Fact Book](https://static.www.nfl.com/image/upload/league/apps/league-site/media-guides/2022/2022_NFL_Record_and_Fact_Book.pdf)
+* [Record & Fact Book](https://static.www.nfl.com/league/apps/league-site/media-guides/2024/2024-Record-and-Fact-Book.pdf)
 * [Sitemap](https://www.nfl.com/sitemap/html/)
 * [Activate - CTV](https://www.nfl.com/activate/)
 
