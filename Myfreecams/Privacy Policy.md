@@ -3,7 +3,7 @@ Privacy Policy
 
 From Wiki.MyFreeCams.com
 
-Jump to: [navigation](#mw-head), [search](#p-search)
+[Jump to navigation](#mw-head) [Jump to search](#searchInput)
 
 **POLICY LAST UPDATED: June 9, 2021**
 
@@ -41,19 +41,19 @@ Contents
 --------
 
 * [1 1\. Revisions To This Policy](#1._Revisions_To_This_Policy)
-* [2 2\. Are Minors Welcome?](#2._Are_Minors_Welcome.3F)
-* [3 3\. What Types Of Information Do We Collect About You And How Is It Collected?](#3._What_Types_Of_Information_Do_We_Collect_About_You_And_How_Is_It_Collected.3F)
+* [2 2\. Are Minors Welcome?](#2._Are_Minors_Welcome?)
+* [3 3\. What Types Of Information Do We Collect About You And How Is It Collected?](#3._What_Types_Of_Information_Do_We_Collect_About_You_And_How_Is_It_Collected?)
 * [4 4\. How We Use Your Information](#4._How_We_Use_Your_Information)
-* [5 5\. With Whom Do We Share Your Information?](#5..09With_Whom_Do_We_Share_Your_Information.3F)
-* [6 6\. Special Cases](#6..09Special_Cases)
-* [7 7\. What Choices Do You Have About How We Use And Disclose Your Information?](#7..09What_Choices_Do_You_Have_About_How_We_Use_And_Disclose_Your_Information.3F)
-* [8 8\. Data Collection, Retention, Access, Correction, And Removal](#8..09Data_Collection.2C_Retention.2C_Access.2C_Correction.2C_And_Removal)
-* [9 9\. Our Commitment To Data Security](#9..09Our_Commitment_To_Data_Security)
-* [10 10\. Links To Other Sites](#10._.09Links_To_Other_Sites)
-* [11 11\. Do Not Track Policy](#11..09Do_Not_Track_Policy)
-* [12 12\. Your California Privacy Rights](#12..09Your_California_Privacy_Rights)
-* [13 13\. International Users](#13..09International_Users)
-* [14 14\. No Third-Party Rights](#14..09No_Third-Party_Rights)
+* [5 5\. With Whom Do We Share Your Information?](#5._With_Whom_Do_We_Share_Your_Information?)
+* [6 6\. Special Cases](#6._Special_Cases)
+* [7 7\. What Choices Do You Have About How We Use And Disclose Your Information?](#7._What_Choices_Do_You_Have_About_How_We_Use_And_Disclose_Your_Information?)
+* [8 8\. Data Collection, Retention, Access, Correction, And Removal](#8._Data_Collection,_Retention,_Access,_Correction,_And_Removal)
+* [9 9\. Our Commitment To Data Security](#9._Our_Commitment_To_Data_Security)
+* [10 10\. Links To Other Sites](#10.__Links_To_Other_Sites)
+* [11 11\. Do Not Track Policy](#11._Do_Not_Track_Policy)
+* [12 12\. Your California Privacy Rights](#12._Your_California_Privacy_Rights)
+* [13 13\. International Users](#13._International_Users)
+* [14 14\. No Third-Party Rights](#14._No_Third-Party_Rights)
 
 ### 1\. Revisions To This Policy
 
@@ -251,56 +251,50 @@ This Policy is intended to cover collection of information on or through our Sit
 
 This Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Services.
 
-Retrieved from "[https://wiki.myfreecams.com/index.php?title=Privacy\_Policy&oldid=5364](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&oldid=5364)"
+Retrieved from "[https://wiki.myfreecams.com/wiki/index.php?title=Privacy\_Policy&oldid=5364](https://wiki.myfreecams.com/wiki/index.php?title=Privacy_Policy&oldid=5364)"
 
 Navigation menu
 ---------------
 
 ### Personal tools
 
-* [Log in](https://wiki.myfreecams.com/index.php?title=Special:UserLogin&returnto=Privacy+Policy "You are encouraged to log in; however, it is not mandatory [o]")
-
 ### Namespaces
 
 * [Page](https://wiki.myfreecams.com/wiki/Privacy_Policy "View the content page [c]")
-* [Discussion](https://wiki.myfreecams.com/index.php?title=Talk:Privacy_Policy&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+* [Discussion](https://wiki.myfreecams.com/wiki/index.php?title=Talk:Privacy_Policy&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
 
-### Variants
+ English
 
 ### Views
 
 * [Read](https://wiki.myfreecams.com/wiki/Privacy_Policy)
-* [View source](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&action=edit "This page is protected.
-    You can view its source [e]")
-* [View history](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&action=history "Past revisions of this page [h]")
 
-### More
+ More
 
 ### Search
+
+   
 
 [](https://wiki.myfreecams.com/wiki/Main_Page "Visit the main page")
 
 ### Navigation
 
 * [Main page](https://wiki.myfreecams.com/wiki/Main_Page "Visit the main page [z]")
-* [Recent changes](https://wiki.myfreecams.com/wiki/Special:RecentChanges "A list of recent changes in the wiki [r]")
-* [Random page](https://wiki.myfreecams.com/wiki/Special:Random "Load a random page [x]")
-* [Help about MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents)
 
 ### Tools
 
 * [What links here](https://wiki.myfreecams.com/wiki/Special:WhatLinksHere/Privacy_Policy "A list of all wiki pages that link here [j]")
 * [Related changes](https://wiki.myfreecams.com/wiki/Special:RecentChangesLinked/Privacy_Policy "Recent changes in pages linked from this page [k]")
 * [Special pages](https://wiki.myfreecams.com/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Printable version](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&printable=yes "Printable version of this page [p]")
-* [Permanent link](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&oldid=5364 "Permanent link to this revision of the page")
-* [Page information](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&action=info "More information about this page")
+* [Printable version](javascript:print(); "Printable version of this page [p]")
+* [Permanent link](https://wiki.myfreecams.com/wiki/index.php?title=Privacy_Policy&oldid=5364 "Permanent link to this revision of this page")
+* [Page information](https://wiki.myfreecams.com/wiki/index.php?title=Privacy_Policy&action=info "More information about this page")
 
 * This page was last edited on 9 June 2021, at 20:10.
 
-* [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy "Wiki.MyFreeCams.com:Privacy policy")
-* [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About "Wiki.MyFreeCams.com:About")
-* [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer "Wiki.MyFreeCams.com:General disclaimer")
-* [Mobile view](https://wiki.myfreecams.com/index.php?title=Privacy_Policy&mobileaction=toggle_view_mobile)
+* [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy)
+* [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About)
+* [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer)
+* [Desktop](https://wiki.myfreecams.com/wiki/index.php?title=Privacy_Policy&mobileaction=toggle_view_desktop)
 
-* [![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Powered by MediaWiki](/wiki/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
