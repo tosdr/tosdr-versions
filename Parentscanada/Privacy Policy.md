@@ -30,13 +30,7 @@ to All Things Parenting
 Made possible with support from The  
 Support Of Ontario Creates  
 
-![Funded by the Government of Canada](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Funded by the Government of Canada](https://www.parentscanada.com/wp-content/uploads/2023/03/canadaLogoEng.png)
-
-[![Ontario Creates Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Ontario Creates Logo](https://www.parentscanada.com/wp-content/themes/parentscanada/assets/images/Ontario_Creates_Logo.png)](https://www.ontariocreates.ca/)
+![Funded by the Government of Canada](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) [![Ontario Creates Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.ontariocreates.ca/)
 
 © 2022 ParentsCanada. All rights reserved.
 
@@ -46,31 +40,7 @@ Support Of Ontario Creates
 
 [![We Are Here To Help With Expert Advice - Parents Canada](https://www.parentscanada.com/wp-content/themes/parentscanada/assets/images/ParentsCanada_wTag_Horz_180.png)](https://www.parentscanada.com/)
 
-[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (4).svg)
-
-![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (5).svg)](https://www.facebook.com/ParentsCanada)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (4).svg)
-
-![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (2).svg)](https://twitter.com/ParentsCanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (2).svg)
-
-![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (1).svg)](https://www.instagram.com/parentscanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (2).svg)
-
-![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (1).svg)](https://www.youtube.com/user/ParentsCanada)
+  [![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.facebook.com/ParentsCanada)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://twitter.com/ParentsCanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.instagram.com/parentscanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.youtube.com/user/ParentsCanada)
 
 * [Resources](#)
     * [The Importance Of Iron For Babies – Ironing Out The Facts](https://www.parentscanada.com/canada-beef-hub/)
@@ -160,31 +130,7 @@ Support Of Ontario Creates
 * [Newsletter](https://www.parentscanada.com/newsletter-old/)
 * [](#)
     
-    [](#)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (4).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (5).svg)](https://www.facebook.com/ParentsCanada)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (4).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (2).svg)](https://twitter.com/ParentsCanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (2).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (1).svg)](https://www.instagram.com/parentscanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (2).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (1).svg)](https://www.youtube.com/user/ParentsCanada)
+    [](#)  [![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.facebook.com/ParentsCanada)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://twitter.com/ParentsCanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.instagram.com/parentscanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.youtube.com/user/ParentsCanada)
     
 
 [![Parents Canada Logo](https://www.parentscanada.com/wp-content/themes/parentscanada/assets/images/ParentsCanada_wTag_Horz_180.png)](https://www.parentscanada.com/)
@@ -263,31 +209,7 @@ Support Of Ontario Creates
 * [Newsletter](https://www.parentscanada.com/newsletter-old/)
 * [](#)
     
-    [](#)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (4).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (5).svg)](https://www.facebook.com/ParentsCanada)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (4).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (2).svg)](https://twitter.com/ParentsCanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (2).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (1).svg)](https://www.instagram.com/parentscanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (2).svg)
-    
-    ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-    
-    ![](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (1).svg)](https://www.youtube.com/user/ParentsCanada)
+    [](#)  [![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.facebook.com/ParentsCanada)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://twitter.com/ParentsCanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.instagram.com/parentscanada/)[![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.youtube.com/user/ParentsCanada)
     
 
  
@@ -339,9 +261,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 #### Made Possible With The Support Of Ontario Creates
 
-[![Ontario Creates Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Ontario Creates Logo](https://www.parentscanada.com/wp-content/uploads/2019/04/Ontario_Creates_Logo.png)](https://www.ontariocreates.ca/)
+[![Ontario Creates Logo](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.ontariocreates.ca/)
 
 ### Keep Reading
 
@@ -375,36 +295,10 @@ If you have any questions about this privacy statement, the practices of this si
 ### Parenting is hard. We’re here to help  
 with our FREE weekly newsletter!
 
-[![Facebook Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Facebook Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (3).svg)
-
-![Facebook Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Facebook Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-facebook (5).svg)](https://www.facebook.com/ParentsCanada)[![Twitter Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Twitter Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (1).svg)
-
-![Twitter Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Twitter Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-twitter (2).svg)](https://twitter.com/ParentsCanada/)[![Instagram Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Instagram Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram.svg)
-
-![Instagram Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Instagram Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-instagram (1).svg)](https://www.instagram.com/parentscanada/)[![Youtube Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Youtube Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube.svg)
-
-![Youtube Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![Youtube Icon](https://www.parentscanada.com/wp-content/themes/parentscanada/images/icons8-youtube (1).svg)](https://www.youtube.com/user/ParentsCanada)
+  [![Facebook Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![Facebook Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.facebook.com/ParentsCanada)[![Twitter Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![Twitter Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://twitter.com/ParentsCanada/)[![Instagram Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![Instagram Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.instagram.com/parentscanada/)[![Youtube Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![Youtube Icon](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://www.youtube.com/user/ParentsCanada)
 
 © 2024 ParentsCanada. All rights reserved.
 
-Website Powered by The Influence Agency [![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-![](https://www.parentscanada.com/wp-content/uploads/2024/02/TIA.webp)](https://theinfluenceagency.com/)
+Website Powered by The Influence Agency [![](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)](https://theinfluenceagency.com/)
 
 [Privacy Policy](https://www.parentscanada.com/privacy/)[Sitemap](https://www.parentscanada.com/sitemap/)[Terms of Use](https://www.parentscanada.com/terms-of-use/)[Product Sample Terms of Use](https://www.parentscanada.com/product-sample-terms-of-use/)
