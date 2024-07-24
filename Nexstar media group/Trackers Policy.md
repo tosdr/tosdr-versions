@@ -228,10 +228,10 @@ _Nexstar has the right to change these terms at any time. Nexstar will notify Cl
 
 ### News
 
+* [Nexstar Promotes Two Sales Leaders To Vice President And General Manager Of Its Broadcast And Digital Operations In Huntsville, Alabama, And Lubbock, Texas](https://www.nexstar.tv/nexstar-promotes-two-to-vp-and-gm-in-huntsville-and-lubbock/)
 * [(CNBC.com) Cramer’s Stop Trading: Nexstar Media Group](https://www.nexstar.tv/cnbc-com-cramers-stop-trading-nexstar-media-group/)
 * [(KSWB-TV) Nexstar Supports Armed Services YMCA Morning News](https://www.nexstar.tv/kswb-tv-nexstar-supports-armed-services-ymca-morning-news/)
 * [Privacy Policy](https://www.nexstar.tv/privacy-policy/)
-* [Nexstar Media Group 2024 Second Quarter Financial Results Webcast](https://www.nexstar.tv/nexstar-media-group-2024-second-quarter-financial-results-webcast/)
 
 ### More
 
