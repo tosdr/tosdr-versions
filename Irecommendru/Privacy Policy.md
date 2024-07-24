@@ -145,7 +145,7 @@
 Копирование разрешается только с письменного разрешения администрации сайта.  
 По вопросам работы сайта пишите на [info@irecommend.ru](mailto:info@irecommend.ru).  
 [Политика конфиденциальности](https://irecommend.ru/politikakonfidentsialnosti)  
-[Реклама на сайте](https://irecommend.ru/advert)  
+[Реклама на сайте](https://irecommend.ru/sites/default/files/public/mediakit_4.0.pdf)  
 [Новости в VK](https://vk.com/irecommend_ru)
 
 ![](https://mc.yandex.ru/watch/8092381)
