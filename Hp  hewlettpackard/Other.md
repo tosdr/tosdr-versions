@@ -124,7 +124,7 @@ Shop
 
 [* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education "Student discounts")
 
-[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html "New HP All-In Plan")
+[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers "New HP All-In Plan")
 
 [* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor "HP Business Technology Advisors")
 
@@ -145,6 +145,8 @@ Shop
 [* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations "Business desktops")
 
 [* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations "Z Workstations")
+
+[* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1 "Small Business Servers")
 
 [* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients "Thin Clients")
 
@@ -168,7 +170,7 @@ Shop
 
 [* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers "Large format plotter printers")
 
-[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html "New HP All-In Plan")
+[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers "New HP All-In Plan")
 
 [* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink "Instant Ink")
 
@@ -299,15 +301,15 @@ https://www.hp.com/webapp/wcs/stores/servlet/HPHeaderServices?storeId=10151&cb=c
 
 * Featured
 
-[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
+[* HP.com store](https://www.hp.com/us-en/shop)[* Ink & toner cartridges](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Business store](https://www.hp.com/us-en/shop/cat/business-solutions)[* Weekly Deals](https://www.hp.com/us-en/shop/slp/weekly-deals)[* New HP Financing](https://www.hp.com/us-en/shop/cv/hpfinancing)[* Student discounts](https://www.hp.com/us-en/shop/cv/hp-education)[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* HP Business Technology Advisors](https://www.hp.com/us-en/shop/cv/smallbusinessadvisor)[* #MyHP](https://www.hp.com/us-en/shop/cv/myhp-social-gallery)[* Copilot+ PCs](https://www.hp.com/us-en/shop/cv/copilot-plus-pcs)
 
 * Shop PCs
 
-[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming PCs](https://www.hp.com/us-en/shop/slp/hp-gaming)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
+[* Laptops](https://www.hp.com/us-en/shop/cat/laptops)[* Desktops](https://www.hp.com/us-en/shop/cat/desktops)[* Gaming PCs](https://www.hp.com/us-en/shop/slp/hp-gaming)[* Business laptops](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop)[* Business desktops](https://www.hp.com/us-en/shop/mlp/business-solutions/desktops-and-workstations)[* Z Workstations](https://www.hp.com/us-en/shop/mlp/business-solutions/workstations)[* Small Business Servers](https://www.hp.com/us-en/shop/mdp/smb-servers-3074457345617969168--1)[* Thin Clients](https://www.hp.com/us-en/shop/mlp/business-solutions/hp-thin-clients)[* Chromebooks](https://www.hp.com/us-en/shop/cv/hp-chromebooks)
 
 * Shop Print
 
-[* Ink, Toner, & Paper](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Printers](https://hp.com/us-en/shop/cat/printers)[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank)[* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser)[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango)[* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home)[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank)[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers)[* New HP All-In Plan](https://www.hp.com/us-en/all-in-plan/printers.html)[* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink)
+[* Ink, Toner, & Paper](https://www.hp.com/us-en/shop/cat/ink--toner---paper)[* Printers](https://hp.com/us-en/shop/cat/printers)[* Business printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet,LaserJet-Tank,OfficeJet,Smart-Tank)[* Laser printers](https://www.hp.com/us-en/shop/vwa/printers/prnttyp=Laser)[* Inkjet printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=DeskJet,ENVY,OfficeJet,Smart-Tank,Tango)[* Home printers](https://www.hp.com/us-en/shop/vwa/printers/segm=Home)[* Tank printers](https://www.hp.com/us-en/shop/vwa/printers/prntbrnd=LaserJet-Tank,Smart-Tank)[* Large format plotter printers](https://www.hp.com/us-en/shop/slp/designjet-plotter-printers)[* New HP All-In Plan](https://www.hp.com/us-en/shop/cv/all-in-plan-printers)[* Instant Ink](https://www.hp.com/us-en/shop/cv/instantink)
 
 * Shop Accessories
 
