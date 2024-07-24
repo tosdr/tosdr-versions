@@ -499,7 +499,7 @@ Jam City is a member of the PRIVO Kids Privacy Assured COPPA Safe Harbor Certifi
 
 [![](https://www.jamcity.com/wp-content/ewww/lazy/placeholder-140x70.png)
 
-![](https://jamcity.fuerzastudio.com/wp-content/uploads/COPPA.png)](https://cert.privo.com/#/companies/jamCity)
+![](https://privohub.privo.com/files/images/certSeal2018/COPPA.png)](https://cert.privo.com/#/companies/jamCity)
 
 ### Contact Us
 
