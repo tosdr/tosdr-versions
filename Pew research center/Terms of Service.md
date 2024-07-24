@@ -8,7 +8,7 @@ Numbers, Facts and Trends Shaping Your World
 
 Read our research on:
 
-* [Supreme Court](https://www.pewresearch.org/topic/politics-policy/government/supreme-court/)
+* [Joe Biden](https://www.pewresearch.org/topic/politics-policy/leaders/joe-biden/)
 * [Climate, Energy & Environment](https://www.pewresearch.org/topic/science/science-issues/climate-energy-environment/)
 * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
 
@@ -97,7 +97,7 @@ Search
     
     Read Our Research On:
     
-    * [Supreme Court](https://www.pewresearch.org/topic/politics-policy/government/supreme-court/)
+    * [Joe Biden](https://www.pewresearch.org/topic/politics-policy/leaders/joe-biden/)
     * [Climate, Energy & Environment](https://www.pewresearch.org/topic/science/science-issues/climate-energy-environment/)
     * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
     
