@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![30 Great LGBTQ+ Picture Books for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/31102400/Pride2024_850x607.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    30 Great LGBTQ+ Picture Books for Kids
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+* [![Your Summer Reading Guide](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/05/16153839/PRH_Summer-Site_Social-Share-1200x628-watermelon.jpg)
     
-    Join Our Authors for Upcoming Events
+    Your Summer Reading Guide
     
-    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+    Read More >](https://www.penguinrandomhouse.com/summer-reading/)
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/06/12120535/ReadDown-2024-1200x628_nav.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/06/26144801/PRH_New-Audio_site_1200x626_July2024.jpg)
     
-    New Releases
+    New Stories to Listen to
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-july/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
@@ -206,7 +206,7 @@ Audio
 
 [cart](https://cart.penguinrandomhouse.com/prhcart/prhcart.php)
 
-[![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg)](https://www.penguinrandomhouse.com/)
+[![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2)](https://www.penguinrandomhouse.com/)
 
 [Books](https://www.penguinrandomhouse.com/books/)
 
@@ -264,9 +264,9 @@ Categories
 
 [Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
-[30 Great LGBTQ+ Picture Books for Kids
+[Swoon-Worthy YA Romantasy Books To Obsess Over
 
-Learn More >](https://www.readbrightly.com/30-great-lgbtq-books-kids/)
+Learn More >](https://www.readbrightly.com/ya-fantasy-romance-books/)
 
 Popular
 
@@ -360,21 +360,19 @@ Featured
 
 Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
-[Best Audiobooks for Road Trips
+[Audiobooks for Kids
 
-Learn More >](https://www.penguinrandomhouse.com/articles/staff-picks-best-audiobooks-for-road-trips/)
+Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 [![search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-search.svg)](javascript:void(0) "Search site")
 
- [![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg) ![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/logo-mobile.svg)](https://www.penguinrandomhouse.com/)
+ [![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2) ![Penguin Random House](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/prh-logo.svg?v=2)](https://www.penguinrandomhouse.com/)
 
 ![Sign In](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-account-icon.svg)
 
 [cart](https://cart.penguinrandomhouse.com/prhcart/prhcart.php)
 
 [![search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/nav-search.svg)](javascript:void(0) "Search site")
-
-![Penguin RandomHouse](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/logo-white.svg)
 
   [![close search](https://www.penguinrandomhouse.com/wp-content/themes/penguinrandomhouse/images/search-close.svg)](javascript:void(0) "Close search window")
 
