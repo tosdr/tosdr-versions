@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🐳 Featured Group: [Gameplay feature: Auto-mapping](https://www.mobygames.com/group/8836/gameplay-feature-auto-mapping/)
+🕹️ [Enjoy your favorite Atari 2600 and 7800 games on one system, the Atari 2600+](https://atari.com/collections/atari-2600-plus?utm_source=mobygames)
 
 Terms of Service
 ================
@@ -132,4 +132,4 @@ In addition to any other available relief, MobyGames and You agree that any comm
 
 © 1999–2024 MobyGames ™
 
-v2024.07.17a
+v2024.07.23
