@@ -111,6 +111,8 @@ We may share your information with:
 * **Special Notice to Vermont Residents.** We will not share any personal information about you with our affiliated companies to the extent prohibited by applicable Vermont law or to the extent your prior consent to share is required by applicable Vermont law.
 * **Additional Disclosure.** We may disclose your personal and financial information with law enforcement or other government agencies as required by law or for the purposes of limiting fraud. We reserve the right to disclose your personally identifiable information when we believe that disclosure is necessary to establish, protect, or exercise our rights, defend against legal claims, or as otherwise required by law. We may also disclose your personal and financial information to respond to a subpoena or similar investigative demand, court order or request for cooperation from a law enforcement or other government agency, or legal process served upon us. We may also share your information with third parties in connection with a substantial company transaction, such as the potential or actual sale of all or a portion of our business, a merger, consolidation, asset sale, or bankruptcy.
 
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
 ### California residents
 
 If you are a resident of California, in addition to your rights set forth in this Privacy Policy, you have the right to request information from us regarding the manner in which we share your personal information with third parties for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
