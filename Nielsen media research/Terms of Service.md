@@ -96,9 +96,7 @@ Explore what consumers are watching, playing and listening to around the world.
 
 [Top Trends – Germany](https://www.nielsen.com/data-center/top-ten-deutschland/)
 
-[Women’s World Cup](https://www.nielsen.com/womens-world-cup-2023-data-hub/)
-
-[Men’s World Cup](https://www.nielsen.com/insights/2022/fifa-world-cup-2022-data-hub/)
+[Olympic Games](https://www.nielsen.com/data-center/paris-2024-olympic-games-hub/)
 
 [**Methodology**](https://www.nielsen.com/data-center/data-center/#methodology)
 
@@ -176,8 +174,7 @@ Data Center
 * [Top 10 – U.S.](https://www.nielsen.com/data-center/top-ten/)
 * [Top Trends – Denmark](https://www.nielsen.com/data-center/top-ten-denmark/)
 * [Top Trends – Germany](https://www.nielsen.com/data-center/top-ten-deutschland/)
-* [Women’s World Cup](https://www.nielsen.com/womens-world-cup-2023-data-hub/)
-* [Men’s World Cup](https://www.nielsen.com/insights/2022/fifa-world-cup-2022-data-hub/)
+* [Olympic Games](https://www.nielsen.com/data-center/paris-2024-olympic-games-hub/)
 * [Big Data](https://www.nielsen.com/insights/2023/pros-and-cons-of-big-data-in-audience-measurement/)
 * [Panels](https://www.nielsen.com/insights/2023/what-is-panel-data-and-why-does-it-matter/)
 * [Big Data + Panel](https://www.nielsen.com/data-center/big-data-panel/)
