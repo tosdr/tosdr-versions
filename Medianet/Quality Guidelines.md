@@ -34,6 +34,8 @@ Buyer(s) shall defend, indemnify and hold harmless Media.net and its affiliates,
 * Buyer(s) shall use the personal data passed by Media.net only for the purposes of advertising, solely via the Media.net platform, on behalf of themselves or their customers or clients, and in accordance with our agreement
 * Buyer(s) shall not transfer or provide the personal data of an individual they know or suspect to be a minor or child (being any data subject under the age of 13)
 * No ads may request geo location data from user/browser where it is served
+* Video advertisements shall be displayed exclusively on inventory that has been explicitly designated to support video monetization.
+* Buyers must fully comply with all parameters as specified in the OpenRTB bid request. This includes, but is not limited to, adherence to category blocks, blocked creative attributes, and format classification.
 
 ### II. Ad Creative & Behavior Policies
 
