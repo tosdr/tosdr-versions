@@ -104,7 +104,7 @@
     
     Overview
     
-    * [Sustainable in a Generation Plan](https://www.mars.com/sustainability-plan/progress-and-impact-report-scorecard)
+    * [Sustainable in a Generation Plan](https://www.mars.com/sustainability-plan/sustainability-report-progress)
         
         View progress & impact report
         
@@ -143,6 +143,8 @@
     Sustainability Plan (Footer)
     ----------------------------
     
+    * [Sustainability Reports](https://www.mars.com/sustainability-plan/sustainability-reports)
+        
     * [Policies & Practices](https://www.mars.com/about/policies-and-practices)
         
     * [Careers(Opens a new window)](https://careers.mars.com/)
