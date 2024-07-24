@@ -45,9 +45,9 @@ MenuClose
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
+    * [![Avetica Moodle Workplace traffic education](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-4-200x150.png)ANWB Streetwise implemented Moodle Workplace to empower primary schools with traffic education](https://moodle.com/news/anwb-streetwise-uses-moodle-workplace-for-traffic-education/)
+    * [![Lifelong learning with Moodle](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-3-200x150.png)What are the features of Lifelong Learning?](https://moodle.com/news/what-are-the-features-of-lifelong-learning/)
     * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)MoodleMoot Global 2024 highlights, advice, and insights with Marie Achour](https://moodle.com/news/moodlemoot-global-2024-highlights-and-insights-with-marie-achour/)
-    * [![MoodleMoot Global 2024 early bird registration](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-1-200x150.png)Key tips for networking effectively at MoodleMoot Global 2024](https://moodle.com/news/key-tips-for-networking-effectively-at-moodlemoot-global-2024/)
-    * [![Early bird registrations for MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-200x150.png)Less than two weeks left: Secure your early bird ticket for MoodleMoot Global 2024!](https://moodle.com/news/moodlemoot-global-less-than-two-weeks-left-for-early-bird-registration/)
 
 [Get Moodle](https://moodle.com/get-moodle/) [Contact Us](https://moodle.com/contact/)
 
@@ -217,9 +217,9 @@ The tables below list the internal and third-party cookies we use. As the names,
     * [AwardsDiscover our global awards and rankings that are a testament to Moodle’s 20+ years of expertise in education technology.](https://moodle.com/about/awards/)
 * [News](https://moodle.com/news/)
     * NewsFind news and resources about Moodle products, solutions, services, releases, case studies, and more.[View All News](https://moodle.com/news/)
+    * [![Avetica Moodle Workplace traffic education](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-4-200x150.png)ANWB Streetwise implemented Moodle Workplace to empower primary schools with traffic education](https://moodle.com/news/anwb-streetwise-uses-moodle-workplace-for-traffic-education/)
+    * [![Lifelong learning with Moodle](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-3-200x150.png)What are the features of Lifelong Learning?](https://moodle.com/news/what-are-the-features-of-lifelong-learning/)
     * [![Moodle Podcast](https://moodle.com/wp-content/uploads/2024/04/Copy-of-Blog-Image-600-x-450-2-1-200x150.png)MoodleMoot Global 2024 highlights, advice, and insights with Marie Achour](https://moodle.com/news/moodlemoot-global-2024-highlights-and-insights-with-marie-achour/)
-    * [![MoodleMoot Global 2024 early bird registration](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-1-200x150.png)Key tips for networking effectively at MoodleMoot Global 2024](https://moodle.com/news/key-tips-for-networking-effectively-at-moodlemoot-global-2024/)
-    * [![Early bird registrations for MoodleMoot Global 2024](https://moodle.com/wp-content/uploads/2024/07/Blog-Images-V2-200x150.png)Less than two weeks left: Secure your early bird ticket for MoodleMoot Global 2024!](https://moodle.com/news/moodlemoot-global-less-than-two-weeks-left-for-early-bird-registration/)
 
 Empowering educators to improve our world.
 
