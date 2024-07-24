@@ -268,6 +268,8 @@ Unsere Website nutzt das „Skalierbare Zentrale Messverfahren“ (SZM) der [INF
 **4\. Konferenz-Teilnehmende**  
 Wenn ihr über pretix ein Ticket für unsere Konferenz „Bildet Netze!“ kauft und euch dort als Teilnehmende:r registriert, werden wir nach der Konferenz eine Präsenz-Teilnehmendenliste mit den von euch eingegebenen Vor- und Nachnamen/Institution/Ort/Land an den Kongressfond der Investitionsbank Berlin (IBB) weitergeben.
 
+Innerhalb unseres Veranstaltungsangebotes werden Funktionen und Inhalte des Dienstes pretix, angeboten durch rami.io GmbH, Berthold-Mogel-Straße 1, 69126 Heidelberg, Deutschland, eingebunden. Hierzu gehört der Ticketshop, welcher über ein JavaScript-Widget eingebunden ist. Wenn du ein Ticket kaufst, nutzt pretix ein technisch notwendiges Cookie, um den Bestellablauf zu ermöglichen und sich zu merken, welcher Warenkorb zu dir gehört. Das Cookie wird gesetzt, sobald du mit dem Widget interagierst. pretix speichert keine IP-Adressen, Browser-Informationen oder andere unnötige Metadaten über die Dauer deiner Anfrage hinaus. Weitere Infos zu [Datenschutz bei pretix findest du hier](https://pretix.eu/about/de/privacy).
+
 ### IX. Rechte der Betroffenen
 
 Werden personenbezogene Daten von dir verarbeitet, bist du Betroffene\*r i.S.d. DSGVO und es stehen dir folgende Rechte gegenüber uns zu:
