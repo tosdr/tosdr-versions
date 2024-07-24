@@ -3,22 +3,7 @@ Terms and Conditions
 
 From Wiki.MyFreeCams.com
 
-Jump to: [navigation](#mw-head), [search](#p-search)
-
-| [Information for Members](https://wiki.myfreecams.com/wiki/Information_for_Members "Information for Members") |     |
-| --- |
-|     |
-| [Instructions and Features](https://wiki.myfreecams.com/wiki/Instructions_and_Features "Instructions and Features") |     |
-|     |
-| [Rules and Guidelines](https://wiki.myfreecams.com/wiki/Rules_and_Guidelines "Rules and Guidelines") |     |
-|     |
-| [Technical Help](https://wiki.myfreecams.com/wiki/Technical_Help "Technical Help") |     |
-|     |
-| [Billing Help](https://wiki.myfreecams.com/wiki/Billing_Help "Billing Help") |     |
-|     |
-| [Video Player](https://wiki.myfreecams.com/wiki/Video_Player "Video Player") |     |
-|     |
-| [Contact Support](https://wiki.myfreecams.com/wiki/Contact_Support "Contact Support") |     |
+[Jump to navigation](#mw-head) [Jump to search](#searchInput)
 
 [MyFreeCams.com](https://wiki.myfreecams.com/wiki/MyFreeCams.com "MyFreeCams.com") and its affiliated sites, (the “Website”), is an online, worldwide webcam network. The owners and operators of this Website ("we","us") would like to welcome you. It is important to us that you have the best possible experience while using the Website, and that, when you use this Website, you understand your legal rights and obligations. This terms-of-use agreement (“Agreement”) between you and us governs your use of the Website and the services we offer to you through the Website. The terms of this Agreement apply (1) to the entire contents of this Website (regardless whether you purchase services), (2) to any associated websites that we own or operate and that we grant you access to as part of your registration, and (3) to any email correspondence between you and us. Additional contractual provisions apply to any model broadcasting on this Website, which provisions are included in the Model Agreement.
 
@@ -27,7 +12,7 @@ Please read this Agreement carefully before using our Website because it is a le
 Contents
 --------
 
-* [1 Description of Service; Age of Majority; and Legal Certifications](#Description_of_Service.3B_Age_of_Majority.3B_and_Legal_Certifications)
+* [1 Description of Service; Age of Majority; and Legal Certifications](#Description_of_Service;_Age_of_Majority;_and_Legal_Certifications)
 * [2 No Child Pornography or Exploitation of Minors](#No_Child_Pornography_or_Exploitation_of_Minors)
 * [3 Limited License to Use the Website](#Limited_License_to_Use_the_Website)
 * [4 Registration](#Registration)
@@ -35,20 +20,20 @@ Contents
 * [6 Suggestions](#Suggestions)
 * [7 Third-Party Links](#Third-Party_Links)
 * [8 Intellectual Property Rights](#Intellectual_Property_Rights)
-* [9 User Conduct; Chat Room Rules](#User_Conduct.3B_Chat_Room_Rules)
+* [9 User Conduct; Chat Room Rules](#User_Conduct;_Chat_Room_Rules)
 * [10 User Submissions](#User_Submissions)
-* [11 Privacy Policy; Usage Information](#Privacy_Policy.3B_Usage_Information)
+* [11 Privacy Policy; Usage Information](#Privacy_Policy;_Usage_Information)
 * [12 Modifications and Interruption to Service](#Modifications_and_Interruption_to_Service)
 * [13 Warranty Disclaimers](#Warranty_Disclaimers)
 * [14 Release and Disclaimer of Liability](#Release_and_Disclaimer_of_Liability)
 * [15 Limitation of Liability and Exclusion of Damages](#Limitation_of_Liability_and_Exclusion_of_Damages)
 * [16 Scope of Disclaimers](#Scope_of_Disclaimers)
-* [17 Loss Payment (also known as Indemnification)](#Loss_Payment_.28also_known_as_Indemnification.29)
+* [17 Loss Payment (also known as Indemnification)](#Loss_Payment_(also_known_as_Indemnification))
 * [18 Limited Time to Bring Claims](#Limited_Time_to_Bring_Claims)
 * [19 Compliance with Laws](#Compliance_with_Laws)
 * [20 Governing Law](#Governing_Law)
 * [21 Place for Resolving Disputes](#Place_for_Resolving_Disputes)
-* [22 Dispute Resolution; Exception for Small Claims](#Dispute_Resolution.3B_Exception_for_Small_Claims)
+* [22 Dispute Resolution; Exception for Small Claims](#Dispute_Resolution;_Exception_for_Small_Claims)
 * [23 Class Action Waiver](#Class_Action_Waiver)
 * [24 Rights to Injunctive Relief](#Rights_to_Injunctive_Relief)
 * [25 General Provisions](#General_Provisions)
@@ -196,6 +181,7 @@ User Submissions
 5. You understand that the content displayed on the Website is primarily posted by users, including models/performers, and that we do not pre-screen or preemptively monitor the content. Thus, you understand that when accessing the Website, you may be exposed to submissions from a variety of sources, and that we are not responsible for the accuracy, usefulness, safety, or intellectual property rights for these submissions. You further understand that you may be exposed to submissions that are inaccurate, offensive, illegal, indecent, obscene, or objectionable, and you waive any rights or remedies you have or may have against us for this exposure. We may refuse to publish, remove, or block access to any submission that is available through the Website or our network or services without notice.
 6. We provide this Website as an entertainment service to our users. We assume no responsibility for monitoring the Website for inappropriate content or conduct. If we choose to monitor the Website, we assume (1) no responsibility for the content, (2) no obligation to modify or remove any inappropriate content, and (3) no responsibility for the conduct of the user submitting that content. We may review and delete any submissions that violates these terms or that may be otherwise offensive or illegal. We may also review and delete any submissions that harm or threatens the safety of any user or person not associated with the Website, or that otherwise violates another person’s rights. You are solely responsible for the submissions that you make to the Website and for any other material or information that you transmit or share with other users or unrelated persons through the Website.
 7. We will fully cooperate with any law enforcement authorities or court orders requesting or directing us to disclose the identity or location of anyone posting content in breach of these terms, in accordance with our privacy policies, subpoena compliance policies, and applicable law or regulation.
+8. Our policy is to review and resolve all reported content complaints within seven (7) business days. In the event there is evidence of illegal content, it will be removed immediately and the Acquirer(s) will be notified of the event.
 
 Privacy Policy; Usage Information
 ---------------------------------
@@ -357,9 +343,9 @@ Notices
 
 We may serve you notice by sending an e-mail to your e-mail address on your account.
 
-You may serve us notice by sending an e-mail to [![Legalatmyfreecamsmail.gif](/images/d/dc/Legalatmyfreecamsmail.gif)](https://wiki.myfreecams.com/wiki/File:Legalatmyfreecamsmail.gif).
+You may serve us notice by sending an e-mail to [![](/images/d/dc/Legalatmyfreecamsmail.gif)](https://wiki.myfreecams.com/wiki/File:Legalatmyfreecamsmail.gif).
 
-Retrieved from "[https://wiki.myfreecams.com/index.php?title=Terms\_and\_Conditions&oldid=5553](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&oldid=5553)"
+Retrieved from "[https://wiki.myfreecams.com/wiki/index.php?title=Terms\_and\_Conditions&oldid=5578](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&oldid=5578)"
 
 [Category](https://wiki.myfreecams.com/wiki/Special:Categories "Special:Categories"):
 
@@ -370,49 +356,43 @@ Navigation menu
 
 ### Personal tools
 
-* [Log in](https://wiki.myfreecams.com/index.php?title=Special:UserLogin&returnto=Terms+and+Conditions "You are encouraged to log in; however, it is not mandatory [o]")
-
 ### Namespaces
 
 * [Page](https://wiki.myfreecams.com/wiki/Terms_and_Conditions "View the content page [c]")
-* [Discussion](https://wiki.myfreecams.com/index.php?title=Talk:Terms_and_Conditions&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
+* [Discussion](https://wiki.myfreecams.com/wiki/index.php?title=Talk:Terms_and_Conditions&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
 
-### Variants
+ English
 
 ### Views
 
 * [Read](https://wiki.myfreecams.com/wiki/Terms_and_Conditions)
-* [View source](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&action=edit "This page is protected.
-    You can view its source [e]")
-* [View history](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&action=history "Past revisions of this page [h]")
 
-### More
+ More
 
 ### Search
+
+   
 
 [](https://wiki.myfreecams.com/wiki/Main_Page "Visit the main page")
 
 ### Navigation
 
 * [Main page](https://wiki.myfreecams.com/wiki/Main_Page "Visit the main page [z]")
-* [Recent changes](https://wiki.myfreecams.com/wiki/Special:RecentChanges "A list of recent changes in the wiki [r]")
-* [Random page](https://wiki.myfreecams.com/wiki/Special:Random "Load a random page [x]")
-* [Help about MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents)
 
 ### Tools
 
 * [What links here](https://wiki.myfreecams.com/wiki/Special:WhatLinksHere/Terms_and_Conditions "A list of all wiki pages that link here [j]")
 * [Related changes](https://wiki.myfreecams.com/wiki/Special:RecentChangesLinked/Terms_and_Conditions "Recent changes in pages linked from this page [k]")
 * [Special pages](https://wiki.myfreecams.com/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Printable version](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&printable=yes "Printable version of this page [p]")
-* [Permanent link](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&oldid=5553 "Permanent link to this revision of the page")
-* [Page information](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&action=info "More information about this page")
+* [Printable version](javascript:print(); "Printable version of this page [p]")
+* [Permanent link](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&oldid=5578 "Permanent link to this revision of this page")
+* [Page information](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&action=info "More information about this page")
 
-* This page was last edited on 4 October 2023, at 18:03.
+* This page was last edited on 25 June 2024, at 12:54.
 
-* [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy "Wiki.MyFreeCams.com:Privacy policy")
-* [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About "Wiki.MyFreeCams.com:About")
-* [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer "Wiki.MyFreeCams.com:General disclaimer")
-* [Mobile view](https://wiki.myfreecams.com/index.php?title=Terms_and_Conditions&mobileaction=toggle_view_mobile)
+* [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy)
+* [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About)
+* [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer)
+* [Desktop](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&mobileaction=toggle_view_desktop)
 
-* [![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Powered by MediaWiki](/wiki/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
