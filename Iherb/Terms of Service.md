@@ -252,15 +252,15 @@ Themenwelten
 
 [Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-[\-20% für Knochen & Gelenke
+[\-20% ab 60 US$ Bestellwert
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/bone-joint-cartilage)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=PARIS2024)
 
-[\-40% für die Gehirnleistung
+[\-50% auf Sierra Bees
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/brain-cognitive?specialtyFilters=7)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sierra-bees)
 
       
 
