@@ -91,7 +91,7 @@ This page tells you the terms on which you may use certain sound recordings (“
 
 NCS.io is operated by NoCopyrightSounds, a UK Limited company registered in England under company number 09090596. Some important details about us:
 
-* Our registered office is at: 303 The Pill Box 115 Coventry Road, London, England, E2 6GH
+* Our registered office is at: Fourth Floor, Unit 5b The Parklands, Bolton, United Kingdom, BL6 4SD
 * Our trading office is at: 42-44 De Beauvoir Crescent, London N1 5SB
 * Our VAT number is: GB241796979
 
@@ -105,9 +105,9 @@ c. “Platform(s)” means online sites primarily intented to host User Generate
 
 d. “Independent Creator” means an individual or small group of individuals (including without limitation, Vloggers, Gamers, fitness professionals, make up artists, influencers, product reviewers) whose primary activity is creation of user generated content primarily for the creation of your own channel or personal brand and in respect of which you are not receiving any direct and identifiable commercial gain as a result of the usage of NCS Music (save for ad revenue from the relevant Platforms. A corporation or organization whose primary activities extend beyond this, will not be considered an Independent Creator.
 
-e. “Student” refers to a TV or film production (or similar) created without the support of a major studio or considerable financial backing.
+e. “Student” refers to any individual involved in full or part-time education, in particular with regards to NCS music, creating content or involved in a project with no commercial ambition, created solely for the purpose of contributing to the education of the individual(s).
 
-f. “Indie film” means an individual or small group of individuals (including without limitation, Vloggers, Gamers, fitness professionals, make up artists, influencers, product reviewers) whose primary activity is creation of user generated content primarily for the creation of your own channel or personal brand and in respect of which you are not receiving any direct and identifiable commercial gain as a result of the usage of NCS Music (save for ad revenue from the relevant Platforms. A corporation or organization whose primary activities extend beyond this, will not be considered an Independent Creator.
+f. “Indie film” refers to a TV or film production (or similar) created without the support of a major studio or considerable financial backing.
 
 5\. We hereby reserve all other rights not expressly granted herein and by way of example but without limitation you shall not have the right to:
 
