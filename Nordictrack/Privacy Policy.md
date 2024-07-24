@@ -511,7 +511,7 @@ You may revoke your consent and withdraw from a financial incentive program at a
 
 ![Nordictrack](https://iconfitness-res.cloudinary.com/image/upload/v1620313742/nordictrack.com/cdn/images/logos/logo_financing_inline_white.svg)
 
-0% APR for 12 or 39 Months with Equal Payments±
+0% APR FOR 39 MONTHS† ON SELECT PRODUCTS
 
 Restrictions apply. [Learn More](https://www.nordictrack.com/treadmills#cat-seo)
 
@@ -633,7 +633,7 @@ Contact Us
 
 [Privacy Policy](https://www.ifit.com/privacy-policy) [Cookie Policy](https://www.nordictrack.com/cookie-policy) [Mobile Terms and Conditions](https://www.ifit.com/mobile-terms-and-conditions) [Membership Policy](https://www.ifit.com/terms-of-membership) [Do not sell or share my personal information](https://www.nordictrack.com/cookie-policy)
 
-Pricing valid only within the Continental U.S. Site Last Updated on 21 Jul 2024 | Copyright ©2024 iFIT Inc.
+Pricing valid only within the Continental U.S. Site Last Updated on 24 Jul 2024 | Copyright ©2024 iFIT Inc.
 
 CLOSE
 
