@@ -79,7 +79,7 @@
     
     * * Investors
             * Investors
-            * [Financial results at 31 March 2024](https://www.orange.com/en/latest-consolidated-results)
+            * [Financial results at 30 June 2024](https://www.orange.com/en/latest-consolidated-results)
             * [Results](https://www.orange.com/en/finance/investors/consolidated-results)
             * [Investors' conferences](https://www.orange.com/en/finance/investors/investors-conferences)
             * [Financial press releases](https://newsroom.orange.com/section/communiques-dossiers/?cat=71&lang=en)
