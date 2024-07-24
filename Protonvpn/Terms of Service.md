@@ -24,7 +24,11 @@
     
     ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Pass](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/pass-purple_h2rbko.svg)
     
-    An encrypted password manager that protects your online identity.](https://protonvpn.com/pass)
+    An encrypted password manager that protects your online identity.](https://protonvpn.com/pass)[![Proton Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/icons/wallet_hnlslt.svg)
+    
+    ![Proton](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/proton-black_zvq72v.svg)![Wallet](https://res.cloudinary.com/dbulfrlrz/image/upload/v1703162849/static/logos/texts/wallet-purple_gxmyyv.svg)
+    
+    Store and transact Bitcoin privately with an encrypted self-custody wallet.](https://protonvpn.com/wallet)
     
     * * *
     
@@ -93,9 +97,11 @@ Open menu
 Terms of Service
 ================
 
-Last modified: July 18, 2024
+Last modified: July 24, 2024
 
 By using the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass (the “Services”), you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+
+The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://protonvpn.com/wallet/terms).
 
 If you agree to these Terms on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates, and all users who access the Services through your Account to these Terms. In the absence of such an authority, you are not authorized to use the Services.
 
@@ -379,6 +385,7 @@ Proton - Privacy by default
     * [Proton Drive](https://protonvpn.com/drive)
     * [Proton VPN(new window)](https://protonvpn.com/)
     * [Proton Pass](https://protonvpn.com/pass)
+    * [Proton Wallet](https://protonvpn.com/wallet)
     * [Proton for Business](https://protonvpn.com/business)
 * ### Privacy and community
     
