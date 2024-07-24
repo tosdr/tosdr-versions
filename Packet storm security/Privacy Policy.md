@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,101 +28,101 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 237 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 85 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 31 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 269 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 99 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 29 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 19 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 17 files
-* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 8 files
 * [Sina Kheirkhah](https://packetstormsecurity.com/files/authors/13586) 7 files
+* [tmrswrr](https://packetstormsecurity.com/files/authors/16714) 7 files
 * [Rodolfo Tavares](https://packetstormsecurity.com/files/authors/14480) 4 files
-* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 3 files
-* [bRpsd](https://packetstormsecurity.com/files/authors/12095) 3 files
-* [ron190](https://packetstormsecurity.com/files/authors/15365) 2 files
+* [jheysel-r7](https://packetstormsecurity.com/files/authors/15682) 2 files
+* [Pierre Kim](https://packetstormsecurity.com/files/authors/11740) 2 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
-[MarineMax Notifying 123,000 Of Data Breach](https://packetstormsecurity.com/news/view/36125/MarineMax-Notifying-123-000-Of-Data-Breach.html)
+[Physicists Just Created An Element Using A Particle Beam](https://packetstormsecurity.com/news/view/36145/Physicists-Just-Created-An-Element-Using-A-Particle-Beam.html)
 
-Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:57:17 UTC")
+Posted [Jul 24, 2024](https://packetstormsecurity.com/news/date/2024-07-24/ "13:09:20 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [science](https://packetstormsecurity.com/news/tags/science)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36125/) | [View](https://www.securityweek.com/marinemax-notifying-123000-of-data-breach-following-ransomware-attack/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36145/) | [View](https://gizmodo.com/physicists-just-created-an-element-using-a-particle-beam-2000475917)
 
-[Recent Adobe Commerce Vulnerability Exploited In Wild](https://packetstormsecurity.com/news/view/36124/Recent-Adobe-Commerce-Vulnerability-Exploited-In-Wild.html)
+[Spain Arrested Three In Pro-Russian DDoS Crew Takedown](https://packetstormsecurity.com/news/view/36144/Spain-Arrested-Three-In-Pro-Russian-DDoS-Crew-Takedown.html)
 
-Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:57:14 UTC")
+Posted [Jul 24, 2024](https://packetstormsecurity.com/news/date/2024-07-24/ "13:09:18 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [adobe](https://packetstormsecurity.com/news/tags/adobe)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [russia](https://packetstormsecurity.com/news/tags/russia), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [spain](https://packetstormsecurity.com/news/tags/spain)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36124/) | [View](https://www.securityweek.com/recent-adobe-commerce-vulnerability-exploited-in-wild/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36144/) | [View](https://www.scmagazine.com/news/spain-arrests-three-in-pro-russian-ddos-crew-takedown)
 
-[Pentagon Leaker Jack Teixeira To Face Military Court-Martial](https://packetstormsecurity.com/news/view/36123/Pentagon-Leaker-Jack-Teixeira-To-Face-Military-Court-Martial.html)
+[Why CrowdStrike-Style Chaos Is Here To Stay](https://packetstormsecurity.com/news/view/36139/Why-CrowdStrike-Style-Chaos-Is-Here-To-Stay.html)
 
-Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:57:06 UTC")
+Posted [Jul 23, 2024](https://packetstormsecurity.com/news/date/2024-07-23/ "13:06:28 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [military](https://packetstormsecurity.com/news/tags/military)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36123/) | [View](https://www.securityweek.com/pentagon-leaker-jack-teixeira-to-face-military-court-martial-air-force-says/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36139/) | [View](https://www.theguardian.com/global/article/2024/jul/23/why-crowdstrike-style-chaos-is-here-to-stay)
 
-[Malware Scammers Gearing Up For 2024 Summer Olympics](https://packetstormsecurity.com/news/view/36122/Malware-Scammers-Gearing-Up-For-2024-Summer-Olympics.html)
+[VMware ESXi Servers Targeted By New Linux Ransomware Variant](https://packetstormsecurity.com/news/view/36138/VMware-ESXi-Servers-Targeted-By-New-Linux-Ransomware-Variant.html)
 
-Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:56:56 UTC")
+Posted [Jul 23, 2024](https://packetstormsecurity.com/news/date/2024-07-23/ "13:06:26 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [france](https://packetstormsecurity.com/news/tags/france)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36122/) | [View](https://www.scmagazine.com/news/malware-scammers-gearing-up-for-2024-summer-olympics-in-paris)
+[Favorite](https://packetstormsecurity.com/news/favorite/36138/) | [View](https://www.scmagazine.com/news/vmware-esxi-servers-targeted-by-new-linux-ransomware-variant)
 
-[Vulnerability In Cisco Smart Software Manager Lets Attacker Change Any User Password](https://packetstormsecurity.com/news/view/36121/Vulnerability-In-Cisco-Smart-Software-Manager-Lets-Attacker-Change-Any-User-Password.html)
+[Telegram Zero-Day Enabled Malware Delivery](https://packetstormsecurity.com/news/view/36137/Telegram-Zero-Day-Enabled-Malware-Delivery.html)
 
-Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:56:47 UTC")
+Posted [Jul 23, 2024](https://packetstormsecurity.com/news/date/2024-07-23/ "13:06:23 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36121/) | [View](https://arstechnica.com/security/2024/07/vulnerability-in-cisco-smart-software-manager-lets-attackers-change-any-user-password/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36137/) | [View](https://www.securityweek.com/telegram-zero-day-enabled-malware-delivery/)
 
-[FIN7 Is Peddling EDR-Nerfing Malware To Ransomware Operators](https://packetstormsecurity.com/news/view/36120/FIN7-Is-Peddling-EDR-Nerfing-Malware-To-Ransomware-Operators.html)
+[Ransomware Attack Shuts Down Three Dozen Los Angeles Courts](https://packetstormsecurity.com/news/view/36136/Ransomware-Attack-Shuts-Down-Three-Dozen-Los-Angeles-Courts.html)
 
-Posted [Jul 18, 2024](https://packetstormsecurity.com/news/date/2024-07-18/ "13:56:41 UTC")
+Posted [Jul 23, 2024](https://packetstormsecurity.com/news/date/2024-07-23/ "13:06:17 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36120/) | [View](https://www.theregister.com/2024/07/18/russias_fin7_is_peddling_its/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36136/) | [View](https://www.scmagazine.com/news/ransomware-attack-shuts-down-three-dozen-los-angeles-courts)
 
-[Iran Phishes Israeli Orgs With Custom BugSleep Backdoor](https://packetstormsecurity.com/news/view/36119/Iran-Phishes-Israeli-Orgs-With-Custom-BugSleep-Backdoor.html)
+[Google Won't Kill Third Party Cookies After All](https://packetstormsecurity.com/news/view/36135/Google-Wont-Kill-Third-Party-Cookies-After-All.html)
 
-Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:16:07 UTC")
+Posted [Jul 23, 2024](https://packetstormsecurity.com/news/date/2024-07-23/ "13:06:10 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [israel](https://packetstormsecurity.com/news/tags/israel), [phish](https://packetstormsecurity.com/news/tags/phish), [iran](https://packetstormsecurity.com/news/tags/iran), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [google](https://packetstormsecurity.com/news/tags/google)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36119/) | [View](https://www.theregister.com/2024/07/17/irans_muddywater_phishes_israeli_orgs/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36135/) | [View](https://gizmodo.com/google-wont-kill-third-party-cookies-after-all-2000477595)
 
-[Ransomware Continues To Pile On Costs For Critical Infrastructure Victims](https://packetstormsecurity.com/news/view/36118/Ransomware-Continues-To-Pile-On-Costs-For-Critical-Infrastructure-Victims.html)
+[Global Cops Power Down World's Most Prolific DDoS Dealership](https://packetstormsecurity.com/news/view/36134/Global-Cops-Power-Down-Worlds-Most-Prolific-DDoS-Dealership.html)
 
-Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:16:03 UTC")
+Posted [Jul 23, 2024](https://packetstormsecurity.com/news/date/2024-07-23/ "13:06:06 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36118/) | [View](https://www.theregister.com/2024/07/17/ransomware_continues_to_pile_on/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36134/) | [View](https://www.theregister.com/2024/07/22/ddos_for_hire_shutdown/)
 
-[Atlassian Patches High Severity Vulns In Bamboo, Confluence, Jira](https://packetstormsecurity.com/news/view/36117/Atlassian-Patches-High-Severity-Vulns-In-Bamboo-Confluence-Jira.html)
+[Delta Cancels Another 600 Flights On Monday In Wake Of Cyber Outage](https://packetstormsecurity.com/news/view/36133/Delta-Cancels-Another-600-Flights-On-Monday-In-Wake-Of-Cyber-Outage.html)
 
-Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:15:59 UTC")
+Posted [Jul 22, 2024](https://packetstormsecurity.com/news/date/2024-07-22/ "12:44:33 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36117/) | [View](https://www.securityweek.com/atlassian-patches-high-severity-vulnerabilities-in-bamboo-confluence-jira/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36133/) | [View](http://www.reuters.com/business/aerospace-defense/delta-cancels-another-600-flights-monday-wake-cyber-outage-2024-07-22/)
 
-[Rite Aid Says Hack Impacts 2.2 Million People](https://packetstormsecurity.com/news/view/36116/Rite-Aid-Says-Hack-Impacts-2.2-Million-People.html)
+[CrowdStrike's Falcon Sensor Also Linked To Linux Kernel Panics](https://packetstormsecurity.com/news/view/36132/CrowdStrikes-Falcon-Sensor-Also-Linked-To-Linux-Kernel-Panics.html)
 
-Posted [Jul 17, 2024](https://packetstormsecurity.com/news/date/2024-07-17/ "17:15:55 UTC")
+Posted [Jul 22, 2024](https://packetstormsecurity.com/news/date/2024-07-22/ "12:44:28 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36116/) | [View](https://www.securityweek.com/rite-aid-says-hack-impacts-2-2m-people-as-ransomware-gang-threatens-to-leak-data/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36132/) | [View](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1860644677&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1860644677.1721612902.1721612902.1721612902.1%3B%2B__utmz%3D32867617.1721612902.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1933497733&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1933497733.1721846623.1721846623.1721846623.1%3B%2B__utmz%3D32867617.1721846623.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
