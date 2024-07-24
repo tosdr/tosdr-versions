@@ -230,12 +230,12 @@ _Looking for our **Data Security and Store Sales Policies**, including informati
 
 **View Statistics:**
 
-Past 24 Hours: 11
+Past 24 Hours: 14
 
-Past 7 Days: 97
+Past 7 Days: 114
 
-Past 30 Days: 488
+Past 30 Days: 504
 
-All Time: 58,859
+All Time: 58,903
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F254%2Fen)
