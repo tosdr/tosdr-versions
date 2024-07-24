@@ -1,4 +1,4 @@
-[Help center](https://support.pandadoc.com/hc/en-us) [Log in](https://app.pandadoc.com/login/?lng=en-US) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
+[Log in](https://app.pandadoc.com/login/?lng=en-US) [Help center](https://support.pandadoc.com/hc/en-us) English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
 
 English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Svenska (Sverige) Deutsch (Deutschland) Português (Portugal) English (United States)
 
