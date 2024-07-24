@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Imagem de uma mão segurando uma lampada.](https://postgrain.com/wp-content/uploads/2024/07/THUMB-BLOG-Estrategias-para-fortalecer-sua-reputacao-de-marca-580x290.jpg)](https://postgrain.com/?post_type=post&p=12335)
+[![responder mensagens diretas - a imagem que ilustra o tema tem uma mulher, branca, de cabelo rosa, usando uma camisa de manga longa azul, sentada numa cadeira amarela, segurando o celular e sorrindo.](https://postgrain.com/wp-content/uploads/2024/07/THUMB-BLOG-3-dicas-para-responder-mensagens-diretas-de-forma-mais-rapida-e-eficiente-580x290.jpg)](https://postgrain.com/?post_type=post&p=12352)
 
-[Construindo uma marca inabalável: Estratégias para fortalecer sua reputação de marca](https://postgrain.com/?post_type=post&p=12335)
+[3 dicas para responder mensagens diretas de forma mais rápida e eficiente](https://postgrain.com/?post_type=post&p=12352)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12335)
+[Leia mais](https://postgrain.com/?post_type=post&p=12352)
 
 Ilustração de um dos personagens do Postgrain
 
