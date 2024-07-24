@@ -39,7 +39,7 @@ You can revert to English at any time by clicking on the language menu on the to
 * [For Business](# "For Business")
     * [Ledger Enterprise Solutions](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Enterprise Solutions")
     * [Ledger Partners](https://shop.ledger.com/partners "Ledger Partners")
-    * [Ledger Co-branded Partnership](https://co-branded.ledger.com/ "Ledger Co-branded Partnership")
+    * [Ledger Co-branded Partnership](https://ledger.com/co-branded "Ledger Co-branded Partnership")
 * [For Developers](https://developers.ledger.com/ "For Developers")
 * [Support](https://support.ledger.com/hc "Support")
 * [English](#)
