@@ -84,7 +84,7 @@ Location
         
         Innovation [Clinical trials at GSK](https://www.gsk.com/en-gb/innovation/trials/)
         
-        * [Provision of unlicensed medicines for unmet medical needs](https://www.gsk.com/en-gb/innovation/trials/provision-of-unlicensed-medicines-for-unmet-medical-needs/)
+        * [Provision of unapproved medicines for unmet medical needs](https://www.gsk.com/en-gb/innovation/trials/provision-of-unlicensed-medicines-for-unmet-medical-needs/)
         * [Data transparency](https://www.gsk.com/en-gb/innovation/trials/data-transparency/)
         * [Diversity in clinical trials](https://www.gsk.com/en-gb/innovation/trials/diversity-in-clinical-trials/)
         
