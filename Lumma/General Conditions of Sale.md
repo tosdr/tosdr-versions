@@ -65,6 +65,7 @@ USA
 * [Refund Policy](https://mylumma.com/policies/refund-policy)
 * [Privacy Policy](https://mylumma.com/policies/privacy-policy)
 * [Shipping Policy](https://mylumma.com/policies/shipping-policy)
+* [PayPal Payment](https://mylumma.com/pages/step-by-step-to-make-your-lumma-payment-with-paypal-in-the-usa)
 * [Contact Us](https://mylumma.com/pages/contact)
 
 ### Follow
@@ -91,11 +92,11 @@ Not enough items available. Only \[max\] left.
 
 Shopping cart
 
-Surprise Gift! Just add a menstrual disc to discover
+USA Only - Surprise Gift! Just add a menstrual disc to discover
 
-Surprise Gift! Just add a menstrual disc to discover
+USA Only - Surprise Gift! Just add a menstrual disc to discover
 
-Great! You just won 1 Puzzy by Anitta - Intimate Perfume!
+Only for USA You just won 1 Puzzy by Anitta - Intimate Perfume!
 
 Your cart is empty.
 
