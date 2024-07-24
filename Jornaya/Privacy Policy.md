@@ -1,6 +1,8 @@
- [![](/wp-content/uploads/2024/02/TMR-Logo-HORZ.png) Listen Now
+[![](/wp-content/uploads/2024/07/snowflake-logo-color-rgb-white-161px.png)
 
-New episode available.](https://www.jornaya.com/the-marketing-rapport-podcast/)
+NEW! Verisk Native Application in Snowflake Marketplace
+
+Learn More](https://www.jornaya.com/partners/snowflake/)
 
 * [myJornaya](https://app.jornaya.com/login)
 * [Support](https://marketing.verisk.com/helpcenter/)
@@ -25,9 +27,9 @@ New episode available.](https://www.jornaya.com/the-marketing-rapport-podcast/)
             * [Lead Seller](https://www.jornaya.com/lead-sellers/)
             * [Product & Strategy](https://www.jornaya.com/product-strategy/)
 * What We Do
-    * * ![TMR-Website-Sidebar-Card-24](https://marketing.verisk.com/wp-content/uploads/2024/01/TMR-Website-Sidebar-Card-24.png)New Episodes Available
+    * * ![snowflake-menu-inset](https://marketing.verisk.com/wp-content/uploads/2024/07/snowflake-menu-inset.png)Discover Verisk datasets through Snowflake Marketplace
             
-            [Listen Now](https://www.jornaya.com/the-marketing-rapport-podcast/)
+            [Learn More](https://www.jornaya.com/partners/snowflake/)
             
     * * What We Do
             * [Real-Time Decisions](https://www.jornaya.com/real-time-decisions)
