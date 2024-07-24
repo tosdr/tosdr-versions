@@ -141,6 +141,7 @@
         * [Cryptocurrencies](https://moneysmart.gov.au/investment-warnings/cryptocurrencies)
         * [Forex trading](https://moneysmart.gov.au/investment-warnings/forex-trading)
         * [Investment seminars](https://moneysmart.gov.au/investment-warnings/investment-seminars)
+        * [Insider trading](https://moneysmart.gov.au/investment-warnings/insider-trading)
         * [Land banking](https://moneysmart.gov.au/investment-warnings/land-banking)
 * [Super and retirement](#super-and-retirement)
     * [How super works](https://moneysmart.gov.au/how-super-works)
