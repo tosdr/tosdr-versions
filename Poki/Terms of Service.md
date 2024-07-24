@@ -10,7 +10,7 @@
 1\. General information
 -----------------------
 
-![Notepad](https://a.poki.com/privacy/termsofuse/image2.svg)
+![Notepad](https://a.poki-cdn.com/privacy/termsofuse/image2.svg)
 
 Welcome to Poki! We are a company based in the Netherlands. You can find more information about us in our [Privacy Statement - UK](https://poki.com/en/c/privacy-statement).
 
@@ -35,14 +35,14 @@ _\* Please note that we determine from which region you visit our website based 
 2\. Age
 -------
 
-![Cake](https://a.poki.com/privacy/termsofuse/image14.svg)
+![Cake](https://a.poki-cdn.com/privacy/termsofuse/image14.svg)
 
 We wish to make sure this website is privacy-friendly for all players. Poki has therefore created the Privacy-Friendly Mode. The Privacy-Friendly Mode is for all ages. When you go to our website, you are already in the Privacy-Friendly Mode. In the Privacy-Friendly Mode we only show family-friendly ads. Read more about our Privacy-Friendly Mode in our [Privacy Statement - UK](https://poki.com/en/c/privacy-statement).
 
 3\. Use of the website
 ----------------------
 
-![Computer](https://a.poki.com/privacy/termsofuse/image13.svg)
+![Computer](https://a.poki-cdn.com/privacy/termsofuse/image13.svg)
 
 Don't do anything bad or mean to others, when you use our website. What does that mean? It means you shouldn't do things that are against the law in any country. You also shouldn't act against our Rules. Here are some examples of what you shouldn't do:
 
@@ -74,14 +74,14 @@ You agree to use the Website only for lawful purposes:
 4\. Privacy: protection of personal data
 ----------------------------------------
 
-![Shield](https://a.poki.com/privacy/termsofuse/image17.svg)
+![Shield](https://a.poki-cdn.com/privacy/termsofuse/image17.svg)
 
 If you want to know more about how we use your data, take a look at our [Privacy Statement - UK](https://poki.com/en/c/privacy-statement).
 
 5\. Data charges
 ----------------
 
-![Coins](https://a.poki.com/privacy/termsofuse/image10.svg)
+![Coins](https://a.poki-cdn.com/privacy/termsofuse/image10.svg)
 
 Our website is free to use, but you may have to pay for the internet. When you use the internet, your parents or the people taking care of you may have to pay the internet bill. This is because the internet provider charges them for the time you spend online.
 
@@ -96,7 +96,7 @@ To the extent that your use of the Website requires, or permits utilization of, 
 6\. Copyright restriction / use of content
 ------------------------------------------
 
-![Copyright](https://a.poki.com/privacy/termsofuse/image15.svg)
+![Copyright](https://a.poki-cdn.com/privacy/termsofuse/image15.svg)
 
 The things on our website are basically 'our stuff', or from other parties that we work with. You are not allowed to use any content from our website, without asking us first. For example, you cannot copy the logo of a game and use it for your own website. If the data is copied by your device automatically for technical reasons so that you can use our website in the normal way, this is not a violation of our Rules.
 
@@ -107,7 +107,7 @@ The entire contents of this Website (including all information, text, displays, 
 7\. Software and downloads
 --------------------------
 
-![Download](https://a.poki.com/privacy/termsofuse/image8.svg)
+![Download](https://a.poki-cdn.com/privacy/termsofuse/image8.svg)
 
 Sometimes it is possible to download something from our website. This does not mean that this is now 'your' stuff. You cannot do with it whatever you want: we are still the 'owners'; it's still our stuff.
 
@@ -118,7 +118,7 @@ If Poki offers downloads of, or access to, software on this Website and you down
 8\. Access and interference
 ---------------------------
 
-![Access](https://a.poki.com/privacy/termsofuse/image11.svg)
+![Access](https://a.poki-cdn.com/privacy/termsofuse/image11.svg)
 
 We want our website to work smoothly and properly. It's therefore important not to do anything that might make our website stop working right. We know it can be frustrating when your computer is slow or if you lose a game. Still, please don't use any (automatic) means that interfere with our website. This for example includes so-called robots, spiders or other software that may hamper the functioning of our website. Also please do not try to (automatically) refresh the webpage super quickly many times in a row. Just be patient and give it a little time.
 
@@ -129,7 +129,7 @@ You agree that you will not (a) use any robot, spider or other automatic device,
 9\. Trademarks
 --------------
 
-![Trademarks](https://a.poki.com/privacy/termsofuse/image16.svg)
+![Trademarks](https://a.poki-cdn.com/privacy/termsofuse/image16.svg)
 
 The name 'Poki', the special Poki image, and everything else about Poki on our website belongs to us. It's like having a special mark that only we can use. That means you can't use the 'Poki' name or image without asking us first.
 
@@ -140,7 +140,7 @@ Poki's name and logos, and all related names, logos, product and service names, 
 10\. Liability of Poki and its licensors
 ----------------------------------------
 
-![Liability](https://a.poki.com/privacy/termsofuse/image4.svg)
+![Liability](https://a.poki-cdn.com/privacy/termsofuse/image4.svg)
 
 We want to make sure you know that we're not liable for anything on our website. We are only responsible if we purposely put something illegal on our website that hurts or harms you. Otherwise, if something on our website causes you harm, we won't pay for it. This means that when you use our website, you need to be careful. You also need to know that there might be risks. So: using our website is at your own risk.
 
@@ -153,7 +153,7 @@ The website is provided "as is" and "as available," without any warranty or guar
 11\. Interaction with other users
 ---------------------------------
 
-![Interaction](https://a.poki.com/privacy/termsofuse/image9.svg)
+![Interaction](https://a.poki-cdn.com/privacy/termsofuse/image9.svg)
 
 It may be that someone complains about what you did and blames us because you broke the Rules. In that case, you (or your parents or the people taking care of you) will protect us and hold us harmless. That means you would have to pay for any harm or damage that happened because of your actions. It's a good idea to avoid breaking these Rules to prevent any problems like that.
 
@@ -164,7 +164,7 @@ As a condition of access to the Website, you indemnify Poki (and its shareholder
 12\. Indemnification
 --------------------
 
-![Money](https://a.poki.com/privacy/termsofuse/image5.svg)
+![Money](https://a.poki-cdn.com/privacy/termsofuse/image5.svg)
 
 If you do something that goes against our Rules, this may have consequences. You, your parents, or the people taking care of you may have to take responsibility and make things right. Breaking the Rules could mean that you have to pay for any damages or costs that happen because of it.
 
@@ -175,7 +175,7 @@ You agree to indemnify and hold harmless Poki and its shareholders, partners, af
 13\. Comments and submissions
 -----------------------------
 
-![Thumbs up](https://a.poki.com/privacy/termsofuse/image7.svg)
+![Thumbs up](https://a.poki-cdn.com/privacy/termsofuse/image7.svg)
 
 We love hearing from you! You can always reach out to us. For instance, if you want to share your thoughts or ask us something. If you share any ideas, we may use these freely. Let's say you give us a great idea to make our website even better, and we decide to use it. That idea then becomes ours to work with and make it even more awesome.
 
@@ -186,7 +186,7 @@ Poki welcomes your comments. All comments, suggestions or other information sent
 14\. Links to other websites
 ----------------------------
 
-![Link](https://a.poki.com/privacy/termsofuse/image1.svg)
+![Link](https://a.poki-cdn.com/privacy/termsofuse/image1.svg)
 
 Sometimes, you may see links to other websites on our website. If you choose to click on these links, that's up to you. We can't be held responsible for what you see or do on those other websites.
 
@@ -197,7 +197,7 @@ The Website contains links to other websites on the Internet. Poki is not respon
 15\. Copyright infringement and other intellectual property infringement
 ------------------------------------------------------------------------
 
-![Scale](https://a.poki.com/privacy/termsofuse/image3.svg)
+![Scale](https://a.poki-cdn.com/privacy/termsofuse/image3.svg)
 
 If you break our Rules, we may block you from our website. This means that you can no longer access our website. We may do this especially if you break these Rules multiple times. Or if you break the rules on how we are the owners of all the content on our website.
 
@@ -210,7 +210,7 @@ Please contact our designated agent at [privacy@poki.com](mailto:privacy@poki.co
 16\. Choice of law
 ------------------
 
-![Judge](https://a.poki.com/privacy/termsofuse/image6.svg)
+![Judge](https://a.poki-cdn.com/privacy/termsofuse/image6.svg)
 
 The Rules we have here follow the laws of a country called 'the Netherlands'. It's a cool place you can look up and learn more about! If you break these Rules, we'll use the laws of the Netherlands to decide what should happen next as a result of what you did.
 
@@ -223,7 +223,7 @@ Any dispute arising out of or in connection with these Terms of Use or your use 
 17\. Miscellaneous
 ------------------
 
-![Shield](https://a.poki.com/privacy/termsofuse/image17.svg)
+![Shield](https://a.poki-cdn.com/privacy/termsofuse/image17.svg)
 
 We're almost done! We want to tell you one more time, it's really important not to break the rules! Breaking the rules can lead to bad things happening to you, your parents or the people taking care of you. Even if we don't do anything right away when you do something wrong, it doesn't mean we think it's okay.
 
@@ -245,4 +245,4 @@ Let the world play
 
 ⚙️ Cookies[About](https://about.poki.com/)[Poki for Developers](https://developers.poki.com/)[Jobs](https://jobs.poki.com/)[Privacy Statement](https://poki.com/en/c/privacy-statement)[Terms of Use](https://poki.com/en/c/terms-of-use)[FAQ](https://poki.com/en/c/faq)[Contact](https://poki.com/en/c/contact)
 
-Poki v5.12.0+29bedb4acf8dafb63c9407897f25591326e2b507 - SDK v2
+Poki v5.12.0+a32089c27212e9597f900ceb86829157665bd75b - SDK v2
