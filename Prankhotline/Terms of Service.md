@@ -84,7 +84,7 @@ Login with IG
 * Block Number
 * Account
 
-* * **10.4m** prank calls sent
+* * **10.5m** prank calls sent
         
         App coming soon!
         
