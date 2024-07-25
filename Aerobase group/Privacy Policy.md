@@ -200,36 +200,36 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
-* [The first of 14 new F-16 fighter jets from the US land in Slovakia](https://www.defensenews.com/air/2024/07/22/the-first-of-14-new-f-16-fighter-jets-from-the-us-land-in-slovakia/)  
-    07/22/24 05:06pm  
+* [Here are the munitions Navy jets used for first time against Houthis](https://www.defensenews.com/news/your-navy/2024/07/25/here-are-the-munitions-navy-jets-used-for-first-time-against-houthis/)  
+    07/25/24 12:32pm  
     
-    The United States has delivered the first two of 14 F-16 Fighting Falcon jets to Slovakia under a deal inked in 2018. A U.S. Air Force F-16 is shown here in 2019. (Air Force)
+    An F/A-18E Super Hornet fighter jet prepares to take off from the flight deck of the aircraft carrier Dwight D. Eisenhower in January in the Red Sea. (Mass Communication Specialist 3rd Class Janae Chambers/Navy)
     
-* [US Air Force, Boeing reach deal on prototype E-7](https://www.defensenews.com/air/2024/07/22/us-air-force-boeing-reach-deal-on-prototype-e-7/)  
-    07/22/24 01:00am  
+* [B-1 bomber crash report blasts crew mistakes, culture of ‘complacency’](https://www.defensenews.com/air/2024/07/25/b-1-bomber-crash-report-blasts-crew-mistakes-culture-of-complacency/)  
+    07/25/24 12:00pm  
     
-    The U.S. Air Force has decided to buy a fleet of up to 26 E-7As from Boeing, similar to this E-7 Wedgetail from the Royal Australian Air Force, to replace its fleet of aging E-3 Sentry airborne warning and control planes. (Boeing Australia)
+    A B-1B Lancer bomber that crashed while landing at Ellsworth Air Force Base, South Dakota, on Jan. 4, 2024, skidded 5,000 feet and then erupted into flames. The nearly $451 million bomber was a total loss. (Air Force)
     
-* [F-35 deliveries resume, but upgrade delays have ripple effects](https://www.defensenews.com/air/2024/07/21/f-35-deliveries-resume-but-upgrade-delays-have-ripple-effects/)  
-    07/21/24 06:10am  
+* [Dassault says Rafale jet production ramp-up hit by supply chain snags](https://www.defensenews.com/global/europe/2024/07/24/dassault-says-rafale-jet-production-ramp-up-hit-by-supply-chain-snags/)  
+    07/24/24 09:57am  
     
-    An F-35A Lightning II assigned to the F-35A Lightning II Demonstration Team performs a practice aerial demonstration prior to the Warriors Over the Wasatch Air Show at Hill Air Force Base, Utah, on June 28, 2024. The U.S. military has once again started accepting new F-35s from Lockheed Martin after a yearlong delivery halt. But the delay will have ripple effects on forces. (1st Lt. Nathan Poblete/Air Force)
+    French President Emmanuel Macron speaks with Dassault Aviation's CEO Eric Trappier (2nd L), in front of a model of the French multirole fighter aircraft Dassault Rafale as he visits the International Paris Air Show at the Paris Le Bourget Airport on June 19, 2023. (Photo by Ludovic Marin/POOL/AFP via Getty Images)
     
-* [How the sixth-generation fighter jet will upend air warfare](https://www.defensenews.com/air/2024/07/19/how-the-sixth-generation-fighter-jet-will-upend-air-warfare/)  
-    07/19/24 01:44pm  
+* [Boeing says it will shun fixed-price contracts for drone wingmen](https://www.defensenews.com/air/2024/07/23/boeing-says-it-will-shun-fixed-price-contracts-for-drone-wingmen/)  
+    07/23/24 12:29pm  
     
-    The first prototype B-21 Raider stealth bomber conducts a flight test at Edwards Air Force Base in California on Jan. 17. Northrop Grumman, which builds the B-21, has touted it as the world's first sixth-generation aircraft — and more could be on the way as the Air Force works on its Next Generation Air Dominance program. (Air Force)
+    The Royal Australian Air Force has experimented with teaming drones up with piloted aircraft through its Loyal Wingman program, which uses Boeing's MQ-28 Ghost Bat. The U.S. Air Force is interested in Australia's experiments with the Ghost Bat as it considers how its own program will take shape. (Boeing Australia)
     
 
 Recent parts by keyword  
 
-* [s320-22](https://aerobasegroup.com/search/?term=s320-22)
-* [bp908](https://aerobasegroup.com/search/?term=bp908)
-* [G7094](https://aerobasegroup.com/search/?term=G7094)
-* [mil-c-5809](https://aerobasegroup.com/search/?term=mil-c-5809)
-* [G62318](https://aerobasegroup.com/search/?term=G62318)
-* [bc1-0](https://aerobasegroup.com/search/?term=bc1-0)
-* [ms1423](https://aerobasegroup.com/search/?term=ms1423)
+* [51b06](https://aerobasegroup.com/search/?term=51b06)
+* [hood](https://aerobasegroup.com/search/?term=hood)
+* [809a060](https://aerobasegroup.com/search/?term=809a060)
+* [h2372](https://aerobasegroup.com/search/?term=h2372)
+* [landing gear](https://aerobasegroup.com/search/?term=landing+gear)
+* [40051g02](https://aerobasegroup.com/search/?term=40051g02)
+* [mil-c--4339](https://aerobasegroup.com/search/?term=mil-c--4339)
 
 The AeroBase Group Family ..
 
