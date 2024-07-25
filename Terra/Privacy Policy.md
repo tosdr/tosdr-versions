@@ -256,18 +256,18 @@ The Illinois Biometric Information Privacy Act, 740 ILCS 14/1, et seq. (“BIPA�
 
 The undersigned employee acknowledges that he/she has received the attached Biometric Information Privacy Policy, and that he/she consents to the Company and the licensor of the Company’s time and attendance software’s collection, storage, and use of biometric data through a biometric time clock, including to the extent that it utilizes the employee’s biometric identifiers or biometric information as defined in BIPA, and consents to the Company providing such biometric data to the licensor of the Company’s time and attendance software.
 
-![Photo of Success Story, Erika Hillman](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+![Photo of Success Story, Austin Klapthor](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20946%20946'%3E%3C/svg%3E)
 
-![Photo of Success Story, Erika Hillman](https://www.terrastaffinggroup.com/wp-content/uploads/2024/02/Erika-Hillman-Feature.jpg)
+![Photo of Success Story, Austin Klapthor](https://www.terrastaffinggroup.com/wp-content/uploads/2024/07/Austin-e1721171897493.jpg)
 
 Featured Success Story
 ----------------------
 
-### My New Job Turned Into A Fulfilling Career
+### From High School to Job Success—Thanks TERRA
 
-The right job can unlock something that you didn’t even know you were passionate about.  That’s what happened to Erika Hillman.  We’ll let her share her story.   Back in 2021, I was living in Florida where I worked at Disney World in a few different roles. I worked in a restaurant as a Hostess, I …
+Starting a career straight out of high school may not always go as planned. But for Austin Klapthor, the unexpected turned into a great opportunity.  Let’s hear from Austin himself.  I had a part-time job when I was in high school, and I wanted to eventually work there full-time. I told them that I’d finish …
 
-[Read More from My New Job Turned Into A Fulfilling Career](https://www.terrastaffinggroup.com/resources/blog/tacoma-success-story-erika-hillman/)
+[Read More from From High School to Job Success—Thanks TERRA](https://www.terrastaffinggroup.com/resources/blog/scottsdale-success-story-austin-klapthor/)
 
 ![HR HotSpot: Presented by TERRA Staffing, a Verstela Company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201556%20276'%3E%3C/svg%3E)
 
@@ -279,14 +279,6 @@ HR Hotspot
 Looking for practical guidance, real-world solutions and best practices for managing the human resources of your organization? You’ve come to the right place!
 
 [SEE ALL WEBINARS](https://www.terrastaffinggroup.com/hr-hot-spot/)
-
-### Next Up:
-
-#### Performance as Narrative
-
-Join TERRA’s Chief Strategy Officer, Jen Lambert, and two seasoned HR HotSpot speakers for an insightful webinar on revolutionizing performance management. Discover strategies to build stronger relationships, enhance performance outcomes, and streamline the process. …
-
-[Read More from Performance as Narrative](https://www.terrastaffinggroup.com/resources/hr-hot-spot/performance-as-narrative/)
 
 * [Privacy Policy](https://www.terrastaffinggroup.com/privacy-policy/)
 * [Careers at TERRA](https://www.terrastaffinggroup.com/about/join-our-team)
