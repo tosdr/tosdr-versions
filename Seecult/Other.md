@@ -273,16 +273,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Neopaženo ob cesti. Grafična tehnika Marjana Pogačnika, LJ](javascript:void(0);)
     
     **19.04.2024 | 10:00**
@@ -295,20 +285,31 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
+    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
+    
+    **19.04.2024 | 10:00**
+    
+    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
+    
+    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
+    
+    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/museum-beginners/11museum-freedom-001.jpg?itok=WhXY_ljC)](http://seecult.org/galerija/galerija-umetnika/manik/museum-beginners)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/lokalna-podrska/igp5875.jpg?itok=le1C4r0v)](http://seecult.org/galerija/galerija-umetnika/karavukovo/lokalna-podrska)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/trupa-accropap.jpg?itok=KcgxWB89)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/audiovizuelni-arhiv-i-centar-za-digitalizaciju-sanu/sanu-digi18.jpg?itok=lRUOvoRI)](http://seecult.org/galerija/foto-galerija/digitalizacija/audiovizuelni-arhiv-i-centar-za-digitalizaciju-sanu)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
 
 * [Okupirani bioskop prvi put u Čačku](http://seecult.org/vest/okupirani-bioskop-prvi-put-u-cacku)
 * [Aleksandar Denić predstavlja Srbiju na 60. Bijenalu u Veneciji](http://seecult.org/vest/aleksandar-denic-predstavlja-srbiju-na-60-bijenalu-u-veneciji)
+* [Iskustvo u gužvi u Zrenjaninu](http://seecult.org/vest/iskustvo-u-guzvi-u-zrenjaninu)
 * [Marijana Cvetković: Raste bes u svim sektorima kulture](http://seecult.org/vest/marijana-cvetkovic-raste-bes-u-svim-sektorima-kulture)
 * [Praviti se lud ili otvoriti oči](http://seecult.org/vest/praviti-se-lud-ili-otvoriti-oci)
 * [A1 Kinoteka letnji bioskop ponovo na krovu Doma Vojske](http://seecult.org/vest/a1-kinoteka-letnji-bioskop-ponovo-na-krovu-doma-vojske)
@@ -316,18 +317,17 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
-* [Partibrejkers uveličali Zemun fest](http://seecult.org/vest/partibrejkers-uvelicali-zemun-fest)
 
-* [Miki Tanili nagrada Underground Spirit](http://seecult.org/vest/miki-tanili-nagrada-underground-spirit)
-* [Kenović: Najvažniji su međuljudski odnosi](http://seecult.org/vest/kenovic-najvazniji-su-meduljudski-odnosi)
-* [Anica Dobra: Ideja je danas najskuplja stvar](http://seecult.org/vest/anica-dobra-ideja-je-danas-najskuplja-stvar)
-* [Počeo 31. Palićki filmski festival](http://seecult.org/vest/poceo-31-palicki-filmski-festival)
-* [Naš sin u Dizeldorfu](http://seecult.org/vest/nas-sin-u-dizeldorfu)
-* [Bistre reke ponovo na staroj planini](http://seecult.org/vest/bistre-reke-ponovo-na-staroj-planini)
-* [Početak 31. Palića u slavu dobitnika Lifke](http://seecult.org/vest/pocetak-31-palica-u-slavu-dobitnika-lifke)
-* [Kraljevački festival antiratnog, angažovanog i akademskog filma](http://seecult.org/vest/kraljevacki-festival-antiratnog-angazovanog-i-akademskog-filma)
-* [Sećanje... Ivana Simeonović Ćelić](http://seecult.org/vest/secanje-ivana-simeonovic-celic)
-* [50 godina Derviša i smrti u Puli](http://seecult.org/vest/50-godina-dervisa-i-smrti-u-puli)
+* [Dopunjena Šijanova antologija jugoslovenskog filma](http://seecult.org/vest/dopunjena-sijanova-antologija-jugoslovenskog-filma)
+* [Proslava - upozorenje na pogrešne odluke u životu](http://seecult.org/vest/proslava-upozorenje-na-pogresne-odluke-u-zivotu)
+* [Baština na Kosovu i dalje na Listi u opasnosti](http://seecult.org/vest/bastina-na-kosovu-i-dalje-na-listi-u-opasnosti)
+* [Preminuo Milan Lojanica](http://seecult.org/vest/preminuo-milan-lojanica)
+* [U10 bez podrške za rad](http://seecult.org/vest/u10-bez-podrske-za-rad)
+* [Nedostatak solidarnosti i zajedništva](http://seecult.org/vest/nedostatak-solidarnosti-i-zajednistva)
+* [Iskustvo u gužvi u Zrenjaninu](http://seecult.org/vest/iskustvo-u-guzvi-u-zrenjaninu)
+* [Mi sadimo šumu, šuma sadi nas!](http://seecult.org/vest/mi-sadimo-sumu-suma-sadi-nas)
+* [Ronaldo: Film je kao cirkus](http://seecult.org/vest/ronaldo-film-je-kao-cirkus)
+* [Važnost podrške mladim autorima](http://seecult.org/vest/vaznost-podrske-mladim-autorima)
 
 * [Konkursi](#tab1_1)
 
