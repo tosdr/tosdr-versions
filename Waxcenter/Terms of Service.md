@@ -24,6 +24,7 @@
         * [Leg Waxing](https://waxcenter.com/pages/services/leg-waxing)
         * [Butt Waxing](https://waxcenter.com/pages/services/butt-waxing)
         * [Back and Shoulder Waxing](https://waxcenter.com/pages/services/back-shoulder-waxing)
+        * [Full Body Waxing](https://waxcenter.com/pages/body-waxing)
         
     * Facial Waxing
         
@@ -36,6 +37,7 @@
         * [Cheek Waxing](https://waxcenter.com/pages/services/cheek-waxing)
         * [Neck Waxing](https://waxcenter.com/pages/services/neck-waxing)
         * [Ear Hair Waxing](https://waxcenter.com/pages/services/ear-hair-waxing)
+        * [Full Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
     * [Brow Tint](https://waxcenter.com/pages/brow-tint)
@@ -113,6 +115,7 @@
         * [Leg Waxing](https://waxcenter.com/pages/services/leg-waxing)
         * [Butt Waxing](https://waxcenter.com/pages/services/butt-waxing)
         * [Back and Shoulder Waxing](https://waxcenter.com/pages/services/back-shoulder-waxing)
+        * [Full Body Waxing](https://waxcenter.com/pages/body-waxing)
         
     * [Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
@@ -123,6 +126,7 @@
         * [Cheek Waxing](https://waxcenter.com/pages/services/cheek-waxing)
         * [Neck Waxing](https://waxcenter.com/pages/services/neck-waxing)
         * [Ear Hair Waxing](https://waxcenter.com/pages/services/ear-hair-waxing)
+        * [Full Facial Waxing](https://waxcenter.com/pages/facial-hair-waxing)
         
     * [All Waxing Services](https://waxcenter.com/pages/wax-services)
     * [Brow Tint](https://waxcenter.com/pages/brow-tint)
