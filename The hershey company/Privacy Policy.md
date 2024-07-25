@@ -590,5 +590,6 @@ Email: [GDPR-hershey@intertrustgroup.com](mailto:GDPR-hershey@intertrustgroup.co
 * [PRIVACY POLICY](https://www.thehersheycompany.com/en_us/home/privacy-policy.html)
 * [TERMS AND CONDITIONS](https://www.thehersheycompany.com/en_us/home/terms-and-conditions.html)
 * [WEB ACCESSIBILITY](https://www.thehersheycompany.com/en_us/home/web-accessibility.html)
+* [PRIVACY CHOICES](https://privacyportal.onetrust.com/ui/#/preferences/multipage/login/94591938-731c-4d8d-a43f-37f7c1e7b359)
 
 © 2022 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.
