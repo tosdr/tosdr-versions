@@ -69,8 +69,6 @@ Toggle navigation
     
     * [AI](https://github.com/resources/articles/ai)
     * [DevOps](https://github.com/resources/articles/devops)
-    * [Innersource](https://github.com/resources/articles/innersource)
-    * [Open Source](https://github.com/resources/articles/open-source)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
     
@@ -161,7 +159,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2Fgorhill%2FuBlock) You must be signed in to change notification settings
 * [Fork 3k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
-* [Star 44.7k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Star 44.8k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
     
 
 * [Code](https://github.com/gorhill/uBlock)
