@@ -74,15 +74,15 @@ Finquarium
 
 A secure, transparent platform for financial prediction data](https://finquarium.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c058c6c7580c8ed6db6_gptdatadao.png)
 
-GPT data DAO
+GPT Data DAO
 
-Own your chatGPT data”](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
+Own your ChatGPT data](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
 
-Reddit data DAO
+Reddit Data DAO
 
-The first data DAO, focused on Reddit data](https://www.rdatadao.org/) [![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
 
- Valora
+Volara
 
 Run a miner to contribute twitter data](https://volara.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66884ca84a4376b52ff0adf1_flirtual%20(1).png)
 
@@ -92,7 +92,7 @@ Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[![](https
 
 Resume Data DAO
 
-Earn from your LinkedIn data - COMING SOON](#)
+Earn from your LinkedIn data](https://www.ldatadao.org/home)
 
 Data Portability Layer
 
