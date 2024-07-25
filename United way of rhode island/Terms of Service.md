@@ -146,6 +146,18 @@ In the News
 
 [See all news](https://www.unitedwayri.org/about-us/newsroom/)
 
+![Headshot of Kyle Bennett.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/team-k-bennett-landscape-ef7b64e8e71809a1ce2ac89bed977688-.png "team-k-bennett")
+
+#### Bennett Named Chief of Staff & Public Affairs Officer
+
+July 23, 2024
+
+###### GoLocalProv
+
+Kyle Bennett, who has long been at the forefront of [United Way of Rhode Island](https://www.unitedwayri.org/)'s legislative and policy work, has been promoted to the organization's Chief of Staff & Public Affairs Officer. Most recently, he served as senior director of public policy and equity, and joined United Way in 2006.
+
+[READ ON SITE](https://www.golocalprov.com/business/People-on-the-Move-Bennett-Named-Chief-of-Staff-Public-Affairs-Officer-a)
+
 ![Courtney_Bourns_Headshot-transformed-1365x2048](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/Courtney_Bourns_Headshot-transformed-1365x2048-1-683x1024-landscape-8e1d6bf6977d12f28280f94d6e825f3f-.jpeg "Courtney_Bourns_Headshot-transformed-1365x2048")
 
 #### Grantmakers Council of R.I. names Bourns new executive director
@@ -169,18 +181,6 @@ July 11, 2024
 The Wall Street Journal reports Americans are turning to social services helpline 211 in economic emergencies. Rachel Wolfe, consumer trends reporter for The Wall Street Journal, joins CBS News to discuss.
 
 [VIEW ON SITE](https://www.youtube.com/watch?v=rldtvx4swxw)
-
-![RogerWilliamsEast1-JeremyBernfeld-scaled](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/RogerWilliamsEast1-JeremyBernfeld-scaled-1-1024x576-landscape-42ea7e8de02cedd2fe5d2f5b0468725f-.webp "RogerWilliamsEast1-JeremyBernfeld-scaled")
-
-#### Internet After the End of the COVID-era Affordable Connectivity Program
-
-June 21, 2024
-
-###### The Public's Radio
-
-Courtney Smith, Director of Innovation and Community Outreach at the United Way of Rhode Island joins The Public's Radio to discuss tips on accessing affordable and reliable internet after the end of the COVID-era Affordable Connectivity program.
-
-[VIEW ON SITE](https://thepublicsradio.org/the-weekly-catch/how-medical-malpractice-fails-everyone-big-changes-coming-to-rhode-island-hospitals-and-more/)
 
 Press Releases
 
