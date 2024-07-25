@@ -3,30 +3,30 @@
         
         [London concerts](https://www.songkick.com/metro-areas/24426-uk-london) [London concerts](https://www.songkick.com/metro-areas/24426-uk-london "London concerts")
         
-        *  [![pecq Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) pecq  
-            Courtyard Theatre](https://www.songkick.com/concerts/42067356-pecq-at-courtyard-theatre)
-        *  [![Our Man In The Field Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Our Man In The Field  
-            Bush Hall](https://www.songkick.com/concerts/42049072-our-man-in-the-field-at-bush-hall)
-        *  [![MEMORIALS (UK) Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) MEMORIALS (UK)  
-            The Lexington](https://www.songkick.com/concerts/42054684-memorials-uk-at-lexington)
+        *  [![Olive Jones Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Olive Jones  
+            The Lower Third](https://www.songkick.com/concerts/42060049-olive-jones-at-lower-third)
+        *  [![Vigilantes Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vigilantes  
+            The Water Rats](https://www.songkick.com/concerts/42056977-vigilantes-at-water-rats)
+        *  [![Circus Cannon Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Circus Cannon  
+            The Black Heart](https://www.songkick.com/concerts/42051143-circus-cannon-at-black-heart)
+        *  [![MISANTROPIC Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) MISANTROPIC  
+            New Cross Inn](https://www.songkick.com/concerts/42063529-misantropic-at-new-cross-inn)
+        *  [![Mishra Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mishra  
+            Servant Jazz Quarters](https://www.songkick.com/concerts/42066777-mishra-at-servant-jazz-quarters)
+        *  [![The Milk Men Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Milk Men  
+            100 Club](https://www.songkick.com/concerts/42069604-milk-men-at-100-club)
+        *  [![Steve Wilson Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Steve Wilson  
+            Ye Olde Rose & Crown Theatre Pub](https://www.songkick.com/concerts/42051355-steve-wilson-at-ye-olde-rose-and-crown-theatre-pub)
+        *  [![Merry Hell Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Merry Hell  
+            Ye Olde Rose & Crown Theatre Pub](https://www.songkick.com/concerts/42051356-merry-hell-at-ye-olde-rose-and-crown-theatre-pub)
+        *  [![Half Happy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Half Happy  
+            Two Palms](https://www.songkick.com/concerts/42052404-half-happy-at-two-palms)
         *  [![Julian Clary Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Julian Clary  
             London Palladium](https://www.songkick.com/concerts/42071254-julian-clary-at-london-palladium)
-        *  [![Suitman Jungle Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Suitman Jungle  
-            Paper Dress Vintage](https://www.songkick.com/concerts/42062844-suitman-jungle-at-paper-dress-vintage)
-        *  [![Keo Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Keo  
-            The Windmill, Brixton](https://www.songkick.com/concerts/42049910-keo-at-windmill-brixton)
-        *  [![Negative Frame Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Negative Frame  
-            The Black Heart](https://www.songkick.com/concerts/42052428-negative-frame-at-black-heart)
-        *  [![Hattie Whitehead Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Hattie Whitehead  
-            The Grace](https://www.songkick.com/concerts/42050987-hattie-whitehead-at-grace)
-        *  [![Mountainscape Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mountainscape  
-            229](https://www.songkick.com/concerts/42051149-mountainscape-at-229)
-        *  [![Zeñel Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Zeñel  
-            Peckham Audio](https://www.songkick.com/concerts/42077409-zenel-at-peckham-audio)
         
         [](https://www.songkick.com/metro-areas/24426-uk-london)See all London concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
-        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F22%2F2024&filters%5BminDate%5D=07%2F22%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F29%2F2024&filters%5BminDate%5D=07%2F22%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F22%2F2024&filters%5BminDate%5D=07%2F22%2F2024#date-filter-form)
+        [Today ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=07%2F25%2F2024&filters%5BminDate%5D=07%2F25%2F2024#date-filter-form) [Next 7 days ·](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F01%2F2024&filters%5BminDate%5D=07%2F25%2F2024#date-filter-form) [Next 30 days](https://www.songkick.com/en/metro-areas/24426-uk-london?filters%5BmaxDate%5D=08%2F25%2F2024&filters%5BminDate%5D=07%2F25%2F2024#date-filter-form)
         
     * [Artists](https://www.songkick.com/artists)
         
