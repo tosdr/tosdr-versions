@@ -311,7 +311,11 @@ Somerville, MA 02145
 Phone: +1 (617) 684-2600  
 [\[email protected\]](https://smartbear.com/cdn-cgi/l/email-protection)
 
-In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, SmartBear commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, SmartBear commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. If you have a complaint that we have violated the DPF Principles that has not been resolved by other means, you may have the ability to invoke binding arbitration as outlined more fully at [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If we transfer your personal data onward to a third party, we will continue to remain liable under the DPF Principles if the information is processed in a manner inconsistent with the DPF Principles.
 
 14\. Links to Third Parties and their Sites
 -------------------------------------------
