@@ -138,9 +138,41 @@ Join Your Baby Club today for [exclusive offers](https://www.yourbabyclub.com/of
 Featured articles
 -----------------
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/c81ba64f-b242-418d-88fb-2141a87d7a58-2-small.jpeg)
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
 
-Buying Advice
+Sleeping Environment
+
+07/24/2024
+
+###### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+
+Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[![mom and dad with child in Disney ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/25154c18-c3fa-4d62-b903-21520dcd1ce0-2-small.jpeg)
+
+Family Life
+
+05/05/2023
+
+###### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
+
+As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
+
+[](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
+
+[Pregnancy Symptoms and Challenges
+
+07/18/2024
+
+###### Metallic Taste During Pregnancy? Causes & Solutions Explained
+
+So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+
+[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+
+[Buying Advice
 
 07/19/2024
 
@@ -150,37 +182,39 @@ At Your Baby Club, we aim to provide our members with all the insights on the be
 
 [](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/91116db4-73e8-4308-8c40-24da0a96f0ae-2-small.jpeg)
-
-Your Pregnancy Mental Health and Well-being
+[Your Pregnancy Mental Health and Well-being
 
 07/22/2024
 
-###### Maintaining a Healthy Relationship with Your Partner During Pregnancy 
+###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
 
-“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)
+“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)
+[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[Family Life
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-small.jpeg)
+
+Sleeping Environment
+
+07/24/2024
+
+##### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+
+Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[![mom and dad with child in Disney ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/25154c18-c3fa-4d62-b903-21520dcd1ce0-2-small.jpeg)
+
+Family Life
 
 05/05/2023
 
-###### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
+##### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
 
 As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
 
 [](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[Formula Feeding
-
-05/24/2024
-
-###### Formula Allergy or Intolerance: When To Worry
-
-There are many reasons a baby may be formula-fed, but what to do when the formula you need for your baby seems to be doing more harm than good? If you suspect your baby may have a formula allergy, read on to see what signs to look out for and what next steps to take. Allergy vs. Intolerance Like children and adults, babies are just as susceptible to having allergies and intolerances. A formula allergy (such as cow milk allergy) is an immunologic response while a formula intolerance (such as lact](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
-
-[](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)[Read article](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
 
 [Pregnancy Symptoms and Challenges
 
@@ -192,49 +226,49 @@ So you have a metallic taste in your mouth, and you are pregnant. This probably 
 
 [](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/c81ba64f-b242-418d-88fb-2141a87d7a58-2-small.jpeg)
-
-Buying Advice
+[Buying Advice
 
 07/19/2024
 
-##### Our 2024 ABC Kids Expo Product Top Picks
+###### Our 2024 ABC Kids Expo Product Top Picks
 
 At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
 [](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/91116db4-73e8-4308-8c40-24da0a96f0ae-2-small.jpeg)
-
-Your Pregnancy Mental Health and Well-being
+[Your Pregnancy Mental Health and Well-being
 
 07/22/2024
 
-##### Maintaining a Healthy Relationship with Your Partner During Pregnancy 
+###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
 
-“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)
+“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)
+[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[Family Life
+[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/99bd08a6-fa85-4cc2-a952-24dde41a2bd2-2-thumbnail.jpeg)
+
+Sleeping Environment
+
+07/24/2024
+
+##### Why Do Babies Arch Their Backs, Kick, and Grunt Throughout the Night?
+
+Any parent that has ever attempted to sleep with their baby in the same room will be familiar with their baby moving and making noises during the night. It can disrupt a parent’s sleep and may cause extra worry if you’re not familiar with the potential reasons babies grunt and squirm throughout the night. In this blog, I will discuss the potential reasons for such noises and movements and learn how you can handle it for both your baby’s and your sleep. 1. Normal Newborn Sleep Behavior Newborns s](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)[Read article](https://www.yourbabyclub.com/why-do-babies-arch-their-backs-kick-and-grunt-throughout-the-night-218)
+
+[![mom and dad with child in Disney ](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/25154c18-c3fa-4d62-b903-21520dcd1ce0-2-small.jpeg)
+
+Family Life
 
 05/05/2023
 
-###### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
+##### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
 
 As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
 
 [](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[Formula Feeding
-
-05/24/2024
-
-###### Formula Allergy or Intolerance: When To Worry
-
-There are many reasons a baby may be formula-fed, but what to do when the formula you need for your baby seems to be doing more harm than good? If you suspect your baby may have a formula allergy, read on to see what signs to look out for and what next steps to take. Allergy vs. Intolerance Like children and adults, babies are just as susceptible to having allergies and intolerances. A formula allergy (such as cow milk allergy) is an immunologic response while a formula intolerance (such as lact](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
-
-[](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)[Read article](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
 
 [Pregnancy Symptoms and Challenges
 
@@ -246,59 +280,25 @@ So you have a metallic taste in your mouth, and you are pregnant. This probably 
 
 [](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/c81ba64f-b242-418d-88fb-2141a87d7a58-2-thumbnail.jpeg)
-
-Buying Advice
+[Buying Advice
 
 07/19/2024
 
-##### Our 2024 ABC Kids Expo Product Top Picks
+###### Our 2024 ABC Kids Expo Product Top Picks
 
 At Your Baby Club, we aim to provide our members with all the insights on the best and most effective products for parents. We sent someone to the ABC Expo in Las Vegas to get the lowdown on the latest and greatest brands and products out there for new moms and dads. Below are some of our favorites: Maxi-Cosi What we like: The See Pro 360 Baby Monitor not only allows you to keep a close eye on your baby in their crib-it can also tell you why they are crying! Their cryosis technology analyzes you](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
 [](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)[Read article](https://www.yourbabyclub.com/our-2024-abc-kids-expo-product-top-picks-216)
 
-[![](https://cdn.verticalize.ai/2c716bae-d09c-4c75-91ed-1b4e64857402/91116db4-73e8-4308-8c40-24da0a96f0ae-2-small.jpeg)
-
-Your Pregnancy Mental Health and Well-being
+[Your Pregnancy Mental Health and Well-being
 
 07/22/2024
 
-##### Maintaining a Healthy Relationship with Your Partner During Pregnancy 
+###### Maintaining a Healthy Relationship with Your Partner During Pregnancy
 
-“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)
+“I'm calling bullsh\*t on the whole thing. Pregnancy sucks. Making a human being is really hard. I have no control over my body or my emotions. Gar-bear, I'm sorry. All I want to do is punch you in the face! But I love you so much so I don't mean it!” - Wendy, What to Expect When You’re Expecting This scene in the 2012 movie What to Expect When You’re Expecting always cracks me up!  When I saw this, my firstborn was 1 year old and all those experiences and emotions were still very fresh. Pregnanc](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
-[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy%C2%A0-260)
-
-[Family Life
-
-05/05/2023
-
-###### 5 Best Kept Secrets to Enjoying Disney Parks with Babies and Toddlers
-
-As a Florida resident for the better part of thirty years, I spent a fair amount of time visiting Disney World. However, most of those visits were as a child or a single person. Any parent can tell you the world with babies and toddlers is a very different place, and Disney parks are no exception.  The first time I took children to Disney World was in July (first mistake), and by the end of the day, my then-four-year-old declared, "I hate Disney." Not exactly how I thought things would go at the](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)[Read article](https://www.yourbabyclub.com/5-best-kept-secrets-to-enjoying-disney-parks-with-babies-and-toddlers-615)
-
-[Formula Feeding
-
-05/24/2024
-
-###### Formula Allergy or Intolerance: When To Worry
-
-There are many reasons a baby may be formula-fed, but what to do when the formula you need for your baby seems to be doing more harm than good? If you suspect your baby may have a formula allergy, read on to see what signs to look out for and what next steps to take. Allergy vs. Intolerance Like children and adults, babies are just as susceptible to having allergies and intolerances. A formula allergy (such as cow milk allergy) is an immunologic response while a formula intolerance (such as lact](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
-
-[](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)[Read article](https://www.yourbabyclub.com/formula-allergy-or-intolerance-when-to-worry-466)
-
-[Pregnancy Symptoms and Challenges
-
-07/18/2024
-
-###### Metallic Taste During Pregnancy? Causes & Solutions Explained
-
-So you have a metallic taste in your mouth, and you are pregnant. This probably is not your worst pregnancy symptom, but it can be pretty annoying. This condition has a scientific name called Dysgeusia, and the metallic taste it gives off can occur when you eat food and when you are not. A lot of individuals describe this sensation as though they were just sucking on a penny. Talk about yuck! Causes So, what causes 93% of pregnant individuals to experience Dysgeusia? It is caused by surprise, su](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
-
-[](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)[Read article](https://www.yourbabyclub.com/metallic-taste-during-pregnancy-causes-solutions-explained-995)
+[](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)[Read article](https://www.yourbabyclub.com/maintaining-a-healthy-relationship-with-your-partner-during-pregnancy-260)
 
 [See all articles](https://www.yourbabyclub.com/content)
 
