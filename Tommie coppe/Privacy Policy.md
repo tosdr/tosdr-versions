@@ -1,30 +1,32 @@
 [Skip to main content](#main-content)
 
-Big Sale: BOGO Free! DETAILS
+BOGO Free Sitewide! DETAILS
 
-BIG 2 DAY SALE
+24 HOURS ONLY!
 
 Close the Modal
 
-#### BUY 1 GET 1 FREE
+#### Everything is Buy 1 Get 1 Free!
 
-[SHOP NOW](https://www.tommiecopper.com/special/big-sale)
+**Mix & Match or Double Up!**
 
-Offer valid 7/22/2024 8AM ET - 7/24/2024 6AM ET.
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-To receive Buy 1 Get 1 Free discount, must add two (2) eligible full-price products to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Offer valid 7/24/2024 8AM ET - 7/26/2024 6AM ET.
+
+To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Excludes Mattresses. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Pain Relief Liquid Roller on Orders $100+
+#### Free Baseball Hat on Orders $200+
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 8/1/2023 8AM EST - 8/5/2023 6AM EST.
+Offer valid 6/20/2024 8AM ET - 6/21/2024 6AM ET.
 
-Free Pain Relief Liquid Roller - Cucumber & Peppermint automatically applied on orders $100+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Baseball Hat automatically applied on orders $200+. Order subtotal must reach $200 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
