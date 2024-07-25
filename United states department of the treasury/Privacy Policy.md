@@ -557,34 +557,34 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    July 22, 2024
+    July 25, 2024
     
-    [Detailed Guidance and Press Schedule for Secretary of the Treasury Janet L. Yellen’s Travel to Brazil](https://home.treasury.gov/news/press-releases/jy2474)
+    [IRS Reaches Key Milestones in Effort to Save Americans Time and Money by Expanding Taxpayer Services and Online Tools with Inflation Reduction Act Funding](https://home.treasury.gov/news/press-releases/jy2487)
     
-    July 19, 2024
+    July 24, 2024
     
-    [Treasury Sanctions Leader and Primary Member of the Cyber Army of Russia Reborn](https://home.treasury.gov/news/press-releases/jy2473)
+    [U.S. Departments of Treasury, Health and Human Services, Interior, and the Executive Office of the President Release Report on Reducing Administrative Burden of Tribal Grant Recipients](https://home.treasury.gov/news/press-releases/jy2486)
     
-    July 18, 2024
+    July 24, 2024
     
-    [Treasury International Capital Data for May](https://home.treasury.gov/news/press-releases/jy2472)
+    [U.S. Department of the Treasury Announces New Jersey To Join IRS Direct File for Filing Season 2025](https://home.treasury.gov/news/press-releases/jy2484)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    July 24, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at a Joint Ministerial Meeting on the Global Alliance against Hunger and Poverty](https://home.treasury.gov/news/press-releases/jy2485)
+    
+    July 24, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Pandemic Fund Investment Case Launch Event](https://home.treasury.gov/news/press-releases/jy2483)
+    
     July 18, 2024
     
     [Statement for the United States on IMF Article IV Consultation](https://home.treasury.gov/news/press-releases/jy2471)
-    
-    July 17, 2024
-    
-    [Remarks by Under Secretary for Terrorism and Financial Intelligence Brian Nelson at Beneficial Ownership Event with Rep. Joyce Beatty (D-OH) in Columbus, OH](https://home.treasury.gov/news/press-releases/jy2468)
-    
-    July 15, 2024
-    
-    [Outcomes Statement of the Pacific Banking Forum](https://home.treasury.gov/news/press-releases/jy2463)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
