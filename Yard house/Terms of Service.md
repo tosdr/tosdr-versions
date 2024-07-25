@@ -1,4 +1,4 @@
-                                                                    
+                                                                     
 
 [Careers](https://careers.yardhouse.com/)
 
@@ -15,7 +15,7 @@
 * [Gift cards](https://www.yardhouse.com/gift-cards)
 * [Group Dining](https://www.yardhouse.com/private-dining/home)
 * [Careers](https://careers.yardhouse.com/)
-* [Login](https://www.yardhouse.com/customer-service/account-login)
+* [Log In](https://www.yardhouse.com/customer-service/account-login)
 
 * [Menu](https://www.yardhouse.com/menu-listing/eat)
 * [Order Online](https://www.yardhouse.com/menu-listing/eat)
@@ -32,7 +32,7 @@
     
     [CHOOSE NEW LOCATION](https://www.yardhouse.com/locations/location-search)
     
-* [Login](https://www.yardhouse.com/customer-service/account-login)
+* [Log In](https://www.yardhouse.com/customer-service/account-login)
 *  [![cart](https://media.yardhouse.com/images/site/responsive/wl_carticon.png) Cart 0](javascript:void(0))
     
     Your cart is empty
@@ -76,19 +76,19 @@ NO LOCATION SELECTED
 
 ???subtext2-choose-items-cart???
 
-???ttip\_text-moretoqualify??? ???subtext-choose-items-cart-qualified???
+???ttip\_text-anyitem-moretoqualify??? ???subtext-choose-items-cart-qualified???
 
 i
 
-???ttip\_text-moretoqualify???
+???ttip\_text-anyitem-moretoqualify???
 
 ???subtext-choose-items-cart-delivery???
 
 i
 
-???ttip\_text-moretoqualify???
+???ttip\_text-anyitem-moretoqualify???
 
-For orders totaling $0.00 or more, please call us and we'll be happy to assist you.  
+For orders totaling $0.00 $500.00 or more, please call us and we'll be happy to assist you.  
 
 #### HAVE A SPECIAL REQUEST?
 
@@ -96,7 +96,7 @@ For orders totaling $0.00 or more, please call us and we'll be happy to assist y
 
 We're here for you. If you have a specific request about your order, please give us a call.
 
-Call :
+Call : (206) 682-2087
 
   
 
@@ -112,7 +112,7 @@ Coupon Code
 
  Apply
 
-[Login](# "Login") to redeem.
+[Log In](# "Login") to redeem.
 
 Sub Total:
 
