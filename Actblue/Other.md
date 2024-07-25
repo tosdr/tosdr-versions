@@ -6,7 +6,7 @@
 * [Blog](http://blog.actblue.com/)
 * [Help](https://support.actblue.com/)
 
-[Sign in](https://secure.actblue.com/signin)
+[Sign in](https://secure.actblue.com/signin?source=homepage_header)
 
 The Fine Print
 --------------
