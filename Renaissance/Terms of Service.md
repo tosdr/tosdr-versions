@@ -165,7 +165,7 @@ Menu Close
     * About
         
         * [About Renaissance](https://www.renaissance.com/about-us/)
-        * [DEI at Renaissance](https://www.renaissance.com/about-us/dei/)
+        * [Diversity & Inclusion](https://www.renaissance.com/about-us/dei/)
     * People
         
         * [Leadership](https://www.renaissance.com/about-us/renaissance-leadership/)
@@ -456,7 +456,7 @@ Connect with us
 About Us
 
 * [About Renaissance](https://www.renaissance.com/about-us/)
-* [DEI at Renaissance](https://www.renaissance.com/about-us/dei/)
+* [Diversity & Inclusion](https://www.renaissance.com/about-us/diversity-inclusion/)
 * [Leadership](https://www.renaissance.com/about-us/renaissance-leadership/)
 * [Careers](https://www.renaissance.com/about-us/careers/)
 * [Newsroom](https://www.renaissance.com/about-us/newsroom/)
@@ -473,7 +473,7 @@ ARP ESSER funds can still be used to purchase Renaissance solutions. Private sch
 
 [Learn more about funding](https://www.renaissance.com/resources/funding/)
 
-© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/?page_id=56405) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
+© 2024 Renaissance Learning, Inc. All rights reserved. | [Privacy hub](https://www.renaissance.com/privacy/) | [Copyright policy](https://www.renaissance.com/copyright-policy/) | [Terms of use](https://www.renaissance.com/terms-of-use/) | [Privacy settings](#)
 
 Select your school
 
