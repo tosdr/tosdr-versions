@@ -41,7 +41,18 @@ Using our Services does not give you ownership of any intellectual property righ
 2Privacy and Copyright Protection
 ---------------------------------
 
-SafeDNS’s privacy policies explain how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that SafeDNS can use such data in accordance with our Privacy Policies. We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act.
+SafeDNS’s privacy policies explain how we treat your personal data and protect your privacy when you use our Services. By using our Services, you agree that SafeDNS can use such data in accordance with our Privacy Policies. We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act.  
+  
+By using our Services, you grant to SafeDNS a non-exclusive, royalty-free, worldwide rights to use all your intellectual property, including but limited to your name; your trademarks; your photographic and other works depicting goods marked with your trademark, etc.  
+  
+The purposes and/or ways of using the above rights are:  
+  
+a) to publish successful cases of cooperation between you and SafeDNS (what problem SafeDNS solved; what results you achieved; what solutions you had considered; why you picked SafeDNS);  
+  
+b) publication of information for advertising and informational purposes, including by the creation of advertising and informational materials, distributed on television, in mobile applications, on the Internet and in other ways not prohibited by law.  
+  
+By using our Services, you confirm that SafeDNS has no need to mention or specify in any ways you as the author or the owner of the intellectual property that has been granted to use by SafeDNS by these provisions.  
+At any time, you may by written revoke your consent to grant such a right to use your intellectual property by SafeDNS.
 
 3Your Content in our Services
 -----------------------------
