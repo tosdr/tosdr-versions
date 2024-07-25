@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[July 23, 2024](https://www.japantimes.co.jp/archive/2024/07/23/ "archive page")
+[July 25, 2024](https://www.japantimes.co.jp/archive/2024/07/25/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Donald Trump](https://www.japantimes.co.jp/tag/donald-trump/ "Donald Trump")
+* [Kamala Harris](https://www.japantimes.co.jp/tag/kamala-harris/ "Kamala Harris")
 * [Extreme heat](https://www.japantimes.co.jp/tag/heat-waves/ "Extreme heat")
-* [Yen volatility](https://www.japantimes.co.jp/tag/yen/ "Yen volatility")
+* [Paris Olympics](https://www.japantimes.co.jp/tag/2024-paris-olympics// "Paris Olympics")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive Podcast](https://www.japantimes.co.jp/podcast/deep-dive/ "Deep Dive Podcast")
 
@@ -130,73 +130,75 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Japan loses top spot on strongest passport list to Singapore](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411243.png&w=400&q=100&f=jpg&t=1.2 "Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.")](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Many summer fireworks festivals in Japan canceled due to complaints](https://www.japantimes.co.jp/news/2024/07/22/japan/society/japan-fireworks-canceled/ "Many summer fireworks festivals in Japan canceled due to complaints")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Fireworks during Irumagawa Tanabata Festival in Sayama, Saitama Prefecture in July 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410180.jpg&w=400&q=100&f=jpg&t=1.2 "Fireworks during Irumagawa Tanabata Festival in Sayama, Saitama Prefecture in July 2023")](https://www.japantimes.co.jp/news/2024/07/22/japan/society/japan-fireworks-canceled/ "Many summer fireworks festivals in Japan canceled due to complaints")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Japan's population continues to fall even as foreign resident count rises](https://www.japantimes.co.jp/news/2024/07/25/japan/society/japan-population/ "Japan's population continues to fall even as foreign resident count rises")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The number of residents in Tokyo as of Jan. 1 rose by 0.03% from a year before, data shows, marking a year-on-year increase for the first time in three years, while the country's other 46 prefectures saw their populations continue to decline.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411228.jpg&w=400&q=100&f=jpg&t=1.2 "The number of residents in Tokyo as of Jan. 1 rose by 0.03% from a year before, data shows, marking a year-on-year increase for the first time in three years, while the country's other 46 prefectures saw their populations continue to decline.")](https://www.japantimes.co.jp/news/2024/07/25/japan/society/japan-population/ "Japan's population continues to fall even as foreign resident count rises")
 
-[Japan pharma startup developing world-first drug to grow new teeth](https://www.japantimes.co.jp/news/2023/09/24/japan/science-health/japan-pharma-grows-new-teeth/ "Japan pharma startup developing world-first drug to grow new teeth")
+[Continuity in Asia: Harris' policies likely to assuage concerns in Japan](https://www.japantimes.co.jp/news/2024/07/23/japan/politics/kamala-harris-japan-asia-policy/ "Continuity in Asia: Harris' policies likely to assuage concerns in Japan")
 
-  [![A new tooth is seen in a ferret's mouth after it was administered a drug to stimulate the growth of tooth buds.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/24/253589.jpg&w=400&q=100&f=jpg&t=1.2 "A new tooth is seen in a ferret's mouth after it was administered a drug to stimulate the growth of tooth buds.")](https://www.japantimes.co.jp/news/2023/09/24/japan/science-health/japan-pharma-grows-new-teeth/ "Japan pharma startup developing world-first drug to grow new teeth")
+  [![U.S. Vice President Kamala Harris speaks aboard the USS Howard destroyer at the Yokosuka Naval Base, in Yokosuka, Kanagawa Prefecture, in September 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/23/410866.jpg&w=400&q=100&f=jpg&t=1.2 "U.S. Vice President Kamala Harris speaks aboard the USS Howard destroyer at the Yokosuka Naval Base, in Yokosuka, Kanagawa Prefecture, in September 2022.")](https://www.japantimes.co.jp/news/2024/07/23/japan/politics/kamala-harris-japan-asia-policy/ "Continuity in Asia: Harris' policies likely to assuage concerns in Japan")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Yen rally could help end crushing wage decay in Japan](https://www.japantimes.co.jp/business/2024/07/24/economy/weak-yen-real-wages/ "Yen rally could help end crushing wage decay in Japan")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Some economists say a sticky weak yen trend would have a negative impact on Japan's real wage growth.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411084.jpg&w=400&q=100&f=jpg&t=1.2 "Some economists say a sticky weak yen trend would have a negative impact on Japan's real wage growth.")](https://www.japantimes.co.jp/business/2024/07/24/economy/weak-yen-real-wages/ "Yen rally could help end crushing wage decay in Japan")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Japan loses top spot on strongest passport list to Singapore](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411243.png&w=400&q=100&f=jpg&t=1.2 "Japan had the strongest passport for six years running from 2018, before being dethroned by Singapore on the 2024 list.")](https://www.japantimes.co.jp/business/2024/07/24/japan-second-strongest-passport/ "Japan loses top spot on strongest passport list to Singapore")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Many summer fireworks festivals in Japan canceled due to complaints](https://www.japantimes.co.jp/news/2024/07/22/japan/society/japan-fireworks-canceled/ "Many summer fireworks festivals in Japan canceled due to complaints")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![Fireworks during Irumagawa Tanabata Festival in Sayama, Saitama Prefecture in July 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410180.jpg&w=400&q=100&f=jpg&t=1.2 "Fireworks during Irumagawa Tanabata Festival in Sayama, Saitama Prefecture in July 2023")](https://www.japantimes.co.jp/news/2024/07/22/japan/society/japan-fireworks-canceled/ "Many summer fireworks festivals in Japan canceled due to complaints")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan's population continues to fall even as foreign resident count rises](https://www.japantimes.co.jp/news/2024/07/25/japan/society/japan-population/ "Japan's population continues to fall even as foreign resident count rises")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The number of residents in Tokyo as of Jan. 1 rose by 0.03% from a year before, data shows, marking a year-on-year increase for the first time in three years, while the country's other 46 prefectures saw their populations continue to decline.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411228.jpg&w=400&q=100&f=jpg&t=1.2 "The number of residents in Tokyo as of Jan. 1 rose by 0.03% from a year before, data shows, marking a year-on-year increase for the first time in three years, while the country's other 46 prefectures saw their populations continue to decline.")](https://www.japantimes.co.jp/news/2024/07/25/japan/society/japan-population/ "Japan's population continues to fall even as foreign resident count rises")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan pharma startup developing world-first drug to grow new teeth](https://www.japantimes.co.jp/news/2023/09/24/japan/science-health/japan-pharma-grows-new-teeth/ "Japan pharma startup developing world-first drug to grow new teeth")
+[Continuity in Asia: Harris' policies likely to assuage concerns in Japan](https://www.japantimes.co.jp/news/2024/07/23/japan/politics/kamala-harris-japan-asia-policy/ "Continuity in Asia: Harris' policies likely to assuage concerns in Japan")
 
-  [![A new tooth is seen in a ferret's mouth after it was administered a drug to stimulate the growth of tooth buds.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/09/24/253589.jpg&w=400&q=100&f=jpg&t=1.2 "A new tooth is seen in a ferret's mouth after it was administered a drug to stimulate the growth of tooth buds.")](https://www.japantimes.co.jp/news/2023/09/24/japan/science-health/japan-pharma-grows-new-teeth/ "Japan pharma startup developing world-first drug to grow new teeth")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+  [![U.S. Vice President Kamala Harris speaks aboard the USS Howard destroyer at the Yokosuka Naval Base, in Yokosuka, Kanagawa Prefecture, in September 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/23/410866.jpg&w=400&q=100&f=jpg&t=1.2 "U.S. Vice President Kamala Harris speaks aboard the USS Howard destroyer at the Yokosuka Naval Base, in Yokosuka, Kanagawa Prefecture, in September 2022.")](https://www.japantimes.co.jp/news/2024/07/23/japan/politics/kamala-harris-japan-asia-policy/ "Continuity in Asia: Harris' policies likely to assuage concerns in Japan")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-By F.D. Flam  
+[Yen rally could help end crushing wage decay in Japan](https://www.japantimes.co.jp/business/2024/07/24/economy/weak-yen-real-wages/ "Yen rally could help end crushing wage decay in Japan")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Some economists say a sticky weak yen trend would have a negative impact on Japan's real wage growth.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/24/411084.jpg&w=400&q=100&f=jpg&t=1.2 "Some economists say a sticky weak yen trend would have a negative impact on Japan's real wage growth.")](https://www.japantimes.co.jp/business/2024/07/24/economy/weak-yen-real-wages/ "Yen rally could help end crushing wage decay in Japan")
 
 Podcast
 -------
 
-  [![One of the many entrances to the Kabuki-cho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabuki-cho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabuki-cho: Tokyo’s ‘stadium of desire’")
+  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
-[Kabuki-cho: Tokyo’s ‘stadium of desire’](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabuki-cho: Tokyo’s ‘stadium of desire’")
+[Kabukicho: Tokyo’s ‘stadium of desire’](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 Longform
 --------
@@ -210,9 +212,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Exploring Japanese culturevia Tohoku’s festivals](https://sustainable.japantimes.com/magazine/vol37/37-02?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Exploring Japanese culturevia Tohoku’s festivals")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![Exploring Japanese culturevia Tohoku’s festivals](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_magazine_37_02_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol37/37-02?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Exploring Japanese culturevia Tohoku’s festivals")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Short of _ama_ female free divers, Chiba festival turns to volunteers](https://www.japantimes.co.jp/news/2024/07/22/japan/ama-divers-volunteers/ "Short of ama female free divers, Chiba festival turns to volunteers")
+[Heatstroke prevention goods exhibited in Tokyo](https://www.japantimes.co.jp/news/2024/07/25/japan/japan-heatstroke-goods-exhibit/ "Heatstroke prevention goods exhibited in Tokyo")
 
-3 hours ago
+1 hours ago
 
-[Yokohama to buy Goodyear’s off-road tire business for $905 million](https://www.japantimes.co.jp/business/2024/07/22/companies/yokohama-goodyear-off-road/ "Yokohama to buy Goodyear’s off-road tire business for $905 million")
+[The LDP members best placed to deal with the next U.S. president](https://www.japantimes.co.jp/news/2024/07/25/japan/politics/trump-harris-ldp-presidential-election/ "The LDP members best placed to deal with the next U.S. president")
 
-5 hours ago
+1 hours ago
 
-[China to allow delayed retirement to combat population woes](https://www.japantimes.co.jp/news/2024/07/22/asia-pacific/society/china-retirement-age-raise/ "China to allow delayed retirement to combat population woes")
+[Raid on Philippine gambling hub unravels elaborate scheme implicating mayor](https://www.japantimes.co.jp/news/2024/07/25/asia-pacific/crime-legal/inside-philippine-scam-centers/ "Raid on Philippine gambling hub unravels elaborate scheme implicating mayor")
 
-5 hours ago
+1 hours ago
 
-[Volkswagen and Xpeng deepen software collaboration across EVs in China](https://www.japantimes.co.jp/business/2024/07/22/tech/vw-xpeng-software-evs-china/ "Volkswagen and Xpeng deepen software collaboration across EVs in China")
+[Japan’s minimum wage set for record ¥50 hike in major boost](https://www.japantimes.co.jp/business/2024/07/25/economy/japan-minimum-wage-record-hike/ "Japan’s minimum wage set for record ¥50 hike in major boost")
 
-7 hours ago
+1 hours ago
 
-[Nvidia preparing version of new flagship AI chip for Chinese market, sources say](https://www.japantimes.co.jp/business/2024/07/22/tech/nvidia-ai-chip-chinese-market/ "Nvidia preparing version of new flagship AI chip for Chinese market, sources say")
+[Nikkei closes at 3-month low as yen strengthens](https://www.japantimes.co.jp/business/2024/07/25/markets/nikkei-down-yen-up/ "Nikkei closes at 3-month low as yen strengthens")
 
-7 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
