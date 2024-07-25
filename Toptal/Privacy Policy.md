@@ -551,7 +551,7 @@ Toptal Finance Experts
 * [Business Management Consultants](https://www.toptal.com/finance/business-management-consultants)
 * [Business Plan Consultants](https://www.toptal.com/finance/business-plan-consultants)
 * [Business Process Optimization Consultants](https://www.toptal.com/finance/business-process-optimization)
-* [Certified Public Accountants (CPA)](https://www.toptal.com/finance/cpa)
+* [Certified Public Accountants](https://www.toptal.com/finance/cpa)
 * [Economic Development Consultants](https://www.toptal.com/finance/economic-development-consulting)
 * [Equity Research Analysts](https://www.toptal.com/finance/equity-research-analysts)
 * [Excel Experts](https://www.toptal.com/finance/excel-experts)
