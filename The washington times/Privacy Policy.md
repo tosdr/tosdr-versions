@@ -125,7 +125,6 @@ Search Search Keyword:     Search
     * [Invest in Ireland](https://www.washingtontimes.com/specials/invest-ireland/ "Invest in Ireland")
     * [ESG Investments](https://www.washingtontimes.com/specials/esg-investments/ "ESG Investments")
     * [U.S. & South Korea Alliance](https://www.washingtontimes.com/specials/celebrating-70-years-us-south-korea-alliance/ "U.S. & South Korea Alliance")
-    * [Transportation 2023](https://www.washingtontimes.com/specials/transportation-2023/ "Transportation 2023")
     * [146 Heroes](https://www.washingtontimes.com/specials/146-heroes/ "146 Heroes")
     * [Invest in Malta](https://www.washingtontimes.com/specials/invest-malta/ "Invest in Malta")
     * [National Clean Energy Week](https://www.washingtontimes.com/specials/national-clean-energy-week-2023/ "National Clean Energy Week")
@@ -133,6 +132,7 @@ Search Search Keyword:     Search
     * [Energy 2024](https://www.washingtontimes.com/specials/energy-2024/ "Energy 2024")
     * [Infrastructure 2024](https://www.washingtontimes.com/specials/infrastructure-2024/ "Infrastructure 2024")
     * [Free Iran 2024](https://www.washingtontimes.com/specials/free-iran-global-assembly-2024/ "Free Iran 2024")
+    * [Transportation 2024](https://www.washingtontimes.com/specials/transportation-2024/ "Transportation 2024")
 * [Events](javascript:; "Events")
     * [Corrections](https://www.washingtontimes.com/news/corrections/ "Corrections")
     * [Reinventing after Globalization](https://www.washingtontimes.com/video/reinventing-globalization-livestream/ "Reinventing after Globalization")
@@ -169,47 +169,47 @@ Search Search Keyword:     Search
 * [Subscribe](https://www.washingtontimes.com/subscribe/?subscribe-button-scroll "Subscribe")
 * [Sign In](https://www.washingtontimes.com/my-account/ "Sign In")
 
-### Happening Now
+### Sponsored
 
-[WATCH: Oversight panel grills Secret Service director on Trump assassination attempt](https://www.washingtontimes.com/video/watch-live/)
------------------------------------------------------------------------------------------------------------------------------------------
+[Transportation 2024: Finding common ground through overcoming challenges](https://www.washingtontimes.com/specials/transportation-2024/?utm_source=twt_banner)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Front Page Podcast](https://twt-thumbs.washtimes.com/media/specials/0722_FRONT_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/front-page-podcast/)
+[![Court Watch with Alex Swoyer](https://twt-thumbs.washtimes.com/media/specials/0725_COURT_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/court-watch-alex-swoyer-podcast/)
 
-[Listen: Today’s Front Page](https://www.washingtontimes.com/specials/front-page-podcast/ "Front Page Podcast") Get the top stories from The Washington Times
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Lie detector tests for Secret Service agents?](https://www.washingtontimes.com/specials/court-watch-alex-swoyer-podcast/ "Court Watch with Alex Swoyer") Peter Navarro joins Court Watch
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Investigating the Trump assassination attempt](https://twt-thumbs.washtimes.com/media/specials/Election_2024_Trump_54746_k65x65.jpg?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/trump-survives-assassination-attempt-pa-rally/)
 
 [Investigating the Trump assassination attempt](https://www.washingtontimes.com/specials/trump-survives-assassination-attempt-pa-rally/ "Investigating the Trump assassination attempt") Full coverage from The Washington Times
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Vice President Kamala Harris speaks as President Joe Biden listens in the Rose Garden of the White House in Washington, Monday, May 13, 2024, during a reception celebrating Asian American, Native Hawaiian, and Pacific Islander Heritage Month. President Biden said Sunday he is dropping out of the race against former President Donald Trump, ceding to unrelenting pressure from Democrats who said his declining abilities and poll numbers would drag down the party and imperil the nation. (AP Photo/Susan Walsh) ** FILE **](https://twt-thumbs.washtimes.com/media/image/2024/05/13/Biden_61045_c994-0-3266-2272_s170x170.jpg?660bfdcdae610c16858b7a3cc6e941d2da4fa07e)](https://www.washingtontimes.com/news/2024/jul/21/joe-biden-drops-out-presidential-race/)
+[![History As It Happens Podcast](https://twt-thumbs.washtimes.com/media/specials/0723_HAIH_900_k65x65.png?25e518aeb5fddef9cfade2c3459a6609d7980e02)](https://www.washingtontimes.com/specials/history-happens-podcast/)
 
-[Biden drops out of presidential race after rising pressure from Democrats, endorses Kamala Harris](https://www.washingtontimes.com/news/2024/jul/21/joe-biden-drops-out-presidential-race/ "Biden drops out of presidential race after rising pressure from Democrats, endorses Kamala Harris")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[New: George Washington’s wisdom](https://www.washingtontimes.com/specials/history-happens-podcast/ "History As It Happens Podcast") Joseph Ellis joins Martin Di Caro
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **TRENDING:**
 
-[Joe Biden](https://www.washingtontimes.com/topics/joe-biden/ "Joe Biden")
+[Kamala Harris](https://www.washingtontimes.com/topics/kamala-harris/ "Kamala Harris")
 
 [Donald Trump](https://www.washingtontimes.com/topics/donald-trump/ "Donald Trump")
 
-[Kamala Harris](https://www.washingtontimes.com/topics/kamala-harris/ "Kamala Harris")
+[Benjamin Netanyahu](https://www.washingtontimes.com/topics/benjamin-netanyahu/ "Benjamin Netanyahu")
+
+[Federal Bureau of Investigation](https://www.washingtontimes.com/topics/federal-bureau-of-investigation/ "Federal Bureau of Investigation")
+
+[Hamas](https://www.washingtontimes.com/topics/hamas/ "Hamas")
+
+[Paris](https://www.washingtontimes.com/topics/paris/ "Paris")
+
+[Christopher A. Wray](https://www.washingtontimes.com/topics/christopher-a-wray/ "Christopher A. Wray")
+
+[Congress](https://www.washingtontimes.com/topics/congress/ "Congress")
 
 [Israel](https://www.washingtontimes.com/topics/israel/ "Israel")
 
-[White House](https://www.washingtontimes.com/topics/white-house/ "White House")
-
-[Russia](https://www.washingtontimes.com/topics/russia/ "Russia")
-
-[Ukraine](https://www.washingtontimes.com/topics/ukraine/ "Ukraine")
-
-[Gaza](https://www.washingtontimes.com/topics/gaza/ "Gaza")
-
-[Jill Biden](https://www.washingtontimes.com/topics/jill-biden/ "Jill Biden")
-
-[Secret Service](https://www.washingtontimes.com/topics/secret-service/ "Secret Service")
+[Joe Biden](https://www.washingtontimes.com/topics/joe-biden/ "Joe Biden")
 
 Advertisement
 
@@ -335,13 +335,15 @@ Advertisement
 Most Popular
 ------------
 
-### [Hiding in plain sight: Joe Biden's mental, physical decline on display from the start](https://www.washingtontimes.com/news/2024/jul/10/hiding-in-plain-sight-joe-bidens-mental-physical-d/ "Hiding in plain sight: Joe Biden's mental, physical decline on display from the start")
+### [Chinese, Russian bombers intercepted inside U.S. air defense zone near Alaska](https://www.washingtontimes.com/news/2024/jul/24/chinese-russian-bombers-intercepted-inside-us-air-/ "Chinese, Russian bombers intercepted inside U.S. air defense zone near Alaska")
 
-### [Barack Obama praises Joe Biden for dropping out but doesn't endorse Harris, while Clintons back her](https://www.washingtontimes.com/news/2024/jul/21/barack-obama-praises-joe-biden-for-dropping-out-bu/ "Barack Obama praises Joe Biden for dropping out but doesn't endorse Harris, while Clintons back her")
+### [Border Patrol numbers undermine Biden claims in Oval Office speech](https://www.washingtontimes.com/news/2024/jul/24/border-patrol-numbers-undermine-biden-claims-in-ov/ "Border Patrol numbers undermine Biden claims in Oval Office speech")
 
-### [Questions the Biden admin must answer (but don't wait for the political press to ask)](https://www.washingtontimes.com/news/2024/jul/21/name-democracy-urgent-questions/ "Questions the Biden admin must answer (but don't wait for the political press to ask)")
+### [Biden's revenge on those who ousted him: Endorsing Harris](https://www.washingtontimes.com/news/2024/jul/24/bidens-revenge-on-those-who-ousted-him-endorsing-h/ "Biden's revenge on those who ousted him: Endorsing Harris")
 
-### [Secret Service chief Kimberly Cheatle grills on Trump assassination attempt](https://www.washingtontimes.com/news/2024/jul/22/secret-service-chief-kimberly-cheatle-to-be-grille/ "Secret Service chief Kimberly Cheatle grills on Trump assassination attempt")
+### [Here are Donald Trump's top three arguments for appeal after guilty verdict in hush money trial](https://www.washingtontimes.com/news/2024/may/30/here-are-donald-trumps-top-three-arguments-for-app/ "Here are Donald Trump's top three arguments for appeal after guilty verdict in hush money trial")
+
+### [Will a Japanese fire sale crash U.S. debt?](https://www.washingtontimes.com/news/2024/jul/24/will-japanese-fire-sale-crash-us-debt/ "Will a Japanese fire sale crash U.S. debt?")
 
 Advertisement
 
@@ -350,78 +352,78 @@ Advertisement
 Commentary
 ----------
 
-![Charles Hurt](https://twt-thumbs.washtimes.com/media/img/staff/2016/charles-hurt-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+![Rowan Scarborough](https://twt-thumbs.washtimes.com/media/img/staff/2022/rowan-350-v2_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
-### [Charles Hurt](https://www.washingtontimes.com/staff/charles-hurt/)
+### [Rowan Scarborough](https://www.washingtontimes.com/staff/rowan-scarborough/)
 
-[Questions the Biden admin must answer (but don’t wait for the political press to ask)](https://www.washingtontimes.com/news/2024/jul/21/name-democracy-urgent-questions/ "Questions the Biden admin must answer (but don’t wait for the political press to ask)")
-
-![Kelly Sadler](https://twt-thumbs.washtimes.com/media/img/staff/2021/kelly-riddell-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Kelly Sadler](https://www.washingtontimes.com/staff/kelly-sadler/)
-
-[President Kamala Harris?](https://www.washingtontimes.com/news/2024/jul/21/president-kamala-harris/ "President Kamala Harris?")
-
-![Robert Knight](https://twt-thumbs.washtimes.com/media/img/staff/2016/robert-knight-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
-
-### [Robert Knight](https://www.washingtontimes.com/staff/robert-knight/)
-
-[American companies are scrapping DEI programs](https://www.washingtontimes.com/news/2024/jul/21/american-companies-are-scrapping-dei-programs/ "American companies are scrapping DEI programs")
+[Biden skirts messy criminal trials as presidency winds down](https://www.washingtontimes.com/news/2024/jul/24/biden-skirts-messy-criminal-trials-as-presidency-w/ "Biden skirts messy criminal trials as presidency winds down")
 
 ![Cheryl K. Chumley](https://twt-thumbs.washtimes.com/media/img/staff/2023/cheryl-chumley-350-v3_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
 ### [Cheryl K. Chumley](https://www.washingtontimes.com/staff/cheryl-k-chumley/)
 
-[America — Israel — the world — needs Donald Trump](https://www.washingtontimes.com/news/2024/jul/18/america-israel-world-needs-donald-trump/ "America — Israel — the world — needs Donald Trump")
+[Biden economy an albatross around Democrats’ necks](https://www.washingtontimes.com/news/2024/jul/25/joe-biden-economy-albatross-about-democrats-necks/ "Biden economy an albatross around Democrats’ necks")
 
-![Jed Babbin](https://twt-thumbs.washtimes.com/media/img/staff/2022/jed-babbin-nonstaffmug_s170x237.jpg?ccf39860011bb0797889141b58013696f93bc380)
+![Michael McKenna](https://twt-thumbs.washtimes.com/media/img/staff/2020/michael-mckenna-nonstaffmug-v2_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
 
-### [Jed Babbin](https://www.washingtontimes.com/staff/jed-babbin/)
+### [Michael McKenna](https://www.washingtontimes.com/staff/michael-mckenna/)
 
-[We need more bang for our Pentagon buck](https://www.washingtontimes.com/news/2024/jul/21/we-need-more-bang-for-our-pentagon-buck/ "We need more bang for our Pentagon buck")
+[Do we want to win AI race, or achieve a net-zero carbon footprint?](https://www.washingtontimes.com/news/2024/jul/24/do-we-want-to-win-ai-race-or-achieve-net-zero-carb/ "Do we want to win AI race, or achieve a net-zero carbon footprint?")
+
+![Billy Hallowell](https://twt-thumbs.washtimes.com/media/img/staff/2021/billy-hallowell-350_s170x238.jpg?4b4bbcd7d52068c3c9611573fce381be0c51d1e2)
+
+### [Billy Hallowell](https://www.washingtontimes.com/staff/billy-hallowell/)
+
+[Newsom’s assault on parental rights is a litmus test for every 2024 candidate](https://www.washingtontimes.com/news/2024/jul/24/california-gov-gavin-newsoms-assault-on-parental-r/ "Newsom’s assault on parental rights is a litmus test for every 2024 candidate")
+
+![Joseph Curl](https://twt-thumbs.washtimes.com/media/img/staff/2014/JOSEPHCURL_s170x255.jpg?c2b569b870632a1f92472d224952a26f127ab236)
+
+### [Joseph Curl](https://www.washingtontimes.com/staff/joseph-curl/)
+
+[Biden’s revenge on those who ousted him: Endorsing Harris](https://www.washingtontimes.com/news/2024/jul/24/bidens-revenge-on-those-who-ousted-him-endorsing-h/ "Biden’s revenge on those who ousted him: Endorsing Harris")
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)More News
 -------------------------------------------------------------------------------------------
 
 ### [Waste, Fraud & Abuse](https://www.washingtontimes.com/news/waste-fraud-abuse/)
 
-#### [Oversight panel grills Secret Service director on security failures in Trump assassination attempt](https://www.washingtontimes.com/news/2024/jul/22/secret-service-chief-kimberly-cheatle-to-be-grille/)
+#### [U.S. Sen. Bob Menendez of New Jersey to resign Aug. 20 after corruption conviction](https://www.washingtontimes.com/news/2024/jul/23/bob-menendez-of-new-jersey-is-resigning-from-offic/)
 
-#### [Feds drop Jan. 6 obstruction charge against Proud Boys after Supreme Court ruling](https://www.washingtontimes.com/news/2024/jul/19/feds-drop-jan-6-obstruction-charge-against-proud-b/)
+#### [House committee grills FBI director about Trump shooting](https://www.washingtontimes.com/news/2024/jul/23/fbis-christopher-wray-to-be-grilled-by-house-commi/)
 
-#### [Founder of D.C. nonprofit for homeless LGBTQ+ youth pleads guilty to diverting COVID relief money](https://www.washingtontimes.com/news/2024/jul/17/founder-dc-nonprofit-homeless-lgbtq-youth-pleads-g/)
+#### [U.S. Army worker who stole nearly $109 million to buy mansions and luxury cars is sentenced](https://www.washingtontimes.com/news/2024/jul/23/janet-yamanaka-mello-who-stole-nearly-109-million-/)
 
 ### [Security](https://www.washingtontimes.com/news/security/)
 
-#### [Rep. Jamie Raskin calls for AR-15 ban in wake of Trump shooting](https://www.washingtontimes.com/news/2024/jul/22/rep-jamie-raskin-calls-for-ar-15-ban-in-wake-of-tr/)
+#### [U.S. jets scrambled to intercept four Chinese, Russian bombers near Alaska](https://www.washingtontimes.com/news/2024/jul/24/chinese-russian-bombers-intercepted-inside-us-air-/)
 
-#### [Israeli PM Benjamin Netanyahu confirms meeting this week with Biden before speech to Congress](https://www.washingtontimes.com/news/2024/jul/21/benjamin-netanyahu-israeli-leader-confirms-meeting/)
+#### [Pentagon spokesman defends record of U.S. operations in Europe, Middle East](https://www.washingtontimes.com/news/2024/jul/24/pentagon-spokesman-defends-record-of-us-operations/)
 
-#### [Trump, Zelenskyy talk by phone amid questions over future of U.S. support for Ukraine](https://www.washingtontimes.com/news/2024/jul/21/donald-trump-volodymyr-zelenskyy-talk-amid-questio/)
+#### [Forceful Netanyahu tells Congress he will defeat Hamas, free hostages, defy critics](https://www.washingtontimes.com/news/2024/jul/24/benjamin-netanyahu-tells-congress-he-will-defeat-h/)
 
 ### [D.C. Local](https://www.washingtontimes.com/news/local/)
 
-#### [Widespread Microsoft outage grounds airlines at D.C.-area airports](https://www.washingtontimes.com/news/2024/jul/19/widespread-microsoft-outage-grounds-airlines-dc-ar/)
+#### [Police deploy pepper spray as crowd protesting Israel’s war in Gaza marches toward U.S. Capitol](https://www.washingtontimes.com/news/2024/jul/24/police-pepper-spray-crowd-protesting-israels-war-i/)
 
-#### [Two men killed, 2-year-old girl wounded in shooting near day care center in Southeast](https://www.washingtontimes.com/news/2024/jul/18/two-men-killed-and-2-year-old-girl-wounded-in-shoo/)
+#### [Netanyahu’s visit inflames political divisions among Democrats](https://www.washingtontimes.com/news/2024/jul/23/israel-pm-benjamin-netanyahus-visit-to-washington-/)
 
-#### [Maryland board approves $148M in cuts to help support Medicaid, child care](https://www.washingtontimes.com/news/2024/jul/18/maryland-board-oks-148m-in-cuts-to-help-support-me/)
+#### [Pickleball will be a varsity sport at all Montgomery County high schools this fall](https://www.washingtontimes.com/news/2024/jul/24/pickleball-will-be-varsity-sport-at-all-montgomery/)
 
 ### [World](https://www.washingtontimes.com/news/world/)
 
-#### [U.S.-Russian journalist convicted in a rapid, secret trial, court records show](https://www.washingtontimes.com/news/2024/jul/22/alsu-kurmasheva-us-russian-journalist-convicted-in/)
+#### [U.S. jets scrambled to intercept four Chinese, Russian bombers near Alaska](https://www.washingtontimes.com/news/2024/jul/24/chinese-russian-bombers-intercepted-inside-us-air-/)
 
-#### [European leaders praise Biden as he steps aside, while Russia holds its fire](https://www.washingtontimes.com/news/2024/jul/21/european-leaders-praise-biden-as-he-steps-aside-wh/)
+#### [Pentagon spokesman defends record of U.S. operations in Europe, Middle East](https://www.washingtontimes.com/news/2024/jul/24/pentagon-spokesman-defends-record-of-us-operations/)
 
-#### [Biden’s withdrawal injects uncertainty into wars, trade disputes and other foreign policy challenges](https://www.washingtontimes.com/news/2024/jul/22/bidens-withdrawal-adds-uncertainty-into-wars-trade/)
+#### [Forceful Netanyahu tells Congress he will defeat Hamas, free hostages, defy critics](https://www.washingtontimes.com/news/2024/jul/24/benjamin-netanyahu-tells-congress-he-will-defeat-h/)
 
 ### [Business & Economy](https://www.washingtontimes.com/news/business-economy/)
 
-#### [U.S. investigating some Jeep and Ram vehicles after getting complaints of abrupt engine stalling](https://www.washingtontimes.com/news/2024/jul/22/us-probing-some-jeep-and-ram-vehicles-after-gettin/)
+#### [WNBA reaches landmark 11-year media rights deal with Disney, Amazon Prime and NBC](https://www.washingtontimes.com/news/2024/jul/24/wnba-reaches-landmark-11-year-media-rights-deal-wi/)
 
-#### [Troubled Boeing stays close to the ground at a major U.K. air show](https://www.washingtontimes.com/news/2024/jul/22/boeing-stays-close-to-ground-at-major-uk-air-show/)
+#### [NBA says it has signed new 11-year media rights deal with Disney, NBC and Amazon](https://www.washingtontimes.com/news/2024/jul/24/new-deal-nba-says-it-has-signed-11-year-media-righ/)
 
-#### [EPA awards $4.3 billion to fund projects in 30 states to reduce climate pollution](https://www.washingtontimes.com/news/2024/jul/22/epa-awards-43b-to-fund-projects-in-30-states-to-re/)
+#### [CrowdStrike offers $10 Uber Eats gift cards as apology for botched update - report](https://www.washingtontimes.com/news/2024/jul/24/crowdstrike-offers-10-uber-eats-gift-cards-as-apol/)
 
 ### [Higher Ground](https://www.washingtontimes.com/specials/higher-ground/)
 
@@ -433,42 +435,42 @@ Commentary
 
 ### [Health](https://www.washingtontimes.com/culture/health/)
 
-#### [Meet some of the world’s cleanest pigs, raised to grow kidneys and hearts for humans](https://www.washingtontimes.com/news/2024/jul/21/some-of-worlds-cleanest-pigs-raised-to-grow-kidney/)
+#### [Jon Stewart pushes VA to help veterans sickened after post-9/11 exposure to uranium](https://www.washingtontimes.com/news/2024/jul/23/jon-stewart-pushes-veterans-affairs-to-help-those-/)
 
-#### [CDC investigates listeria outbreak across the U.S., here’s how to handle deli meats](https://www.washingtontimes.com/news/2024/jul/20/cdc-investigates-listeria-outbreak-across-us-heres/)
+#### [Biden’s virus symptoms are gone, says his doctor](https://www.washingtontimes.com/news/2024/jul/23/joe-bidens-virus-symptoms-are-gone-says-white-hous/)
 
-#### [Biden’s doctor says he’s improving ‘steadily’ after 6th round of COVID medication](https://www.washingtontimes.com/news/2024/jul/20/bidens-doctor-says-hes-improving-steadily-after-6t/)
+#### [Biles, Osaka and Phelps spoke up about mental health. Has anything changed for the Paris Olympics?](https://www.washingtontimes.com/news/2024/jul/23/biles-phelps-and-osaka-spoke-up-about-mental-healt/)
 
 ### [Entertainment](https://www.washingtontimes.com/culture/entertainment/)
 
-#### [Hollywood reacts to Biden exiting the presidential race](https://www.washingtontimes.com/news/2024/jul/21/celebrities-in-hollywood-react-to-joe-biden-exitin/)
+#### [WNBA reaches landmark 11-year media rights deal with Disney, Amazon Prime and NBC](https://www.washingtontimes.com/news/2024/jul/24/wnba-reaches-landmark-11-year-media-rights-deal-wi/)
 
-#### [Ernest Hemingway fans celebrate the author’s 125th birthday in his beloved Key West](https://www.washingtontimes.com/news/2024/jul/21/fans-of-ernest-hemingway-celebrate-authors-125th-b/)
+#### [Comic Con 2024: What to expect as the convention returns to San Diego](https://www.washingtontimes.com/news/2024/jul/24/comic-con-2024-returns-to-san-diego-what-to-expect/)
 
-#### [‘Twisters’ whips up $80.5 million at box office, while ‘Deadpool & Wolverine’ looms](https://www.washingtontimes.com/news/2024/jul/21/deadpool-wolverine-looms-while-twisters-whips-up-8/)
+#### [NBA says it has signed new 11-year media rights deal with Disney, NBC and Amazon](https://www.washingtontimes.com/news/2024/jul/24/new-deal-nba-says-it-has-signed-11-year-media-righ/)
 
 ### [Travel](https://www.washingtontimes.com/culture/travel/)
 
-#### [Athletes are as excited as regular visitors to be tourists in Paris during the Olympic Games](https://www.washingtontimes.com/news/2024/jul/22/athletes-excited-as-visitors-to-be-tourists-in-par/)
+#### [Real-life cocaine sharks: Scientists say sharks off the coast of Rio de Janeiro testing positive](https://www.washingtontimes.com/news/2024/jul/24/sharks-off-coast-of-rio-de-janeiro-test-positive-f/)
 
-#### [Delta Air Lines says cancellations continue as it tries to restore operations after tech outage](https://www.washingtontimes.com/news/2024/jul/21/cancellations-at-delta-air-lines-continue-as-it-tr/)
+#### [Taylor Swift eras on full display at London’s Victoria and Albert Museum](https://www.washingtontimes.com/news/2024/jul/24/taylor-swift-on-full-display-at-londons-victoria-a/)
 
-#### [Plane crashes at Ohio airport, killing all 3 aboard](https://www.washingtontimes.com/news/2024/jul/20/plane-crashes-ohio-airport-killing-all-3-aboard/)
+#### [Surprise Yellowstone geyser eruption highlights little known hazard at popular park](https://www.washingtontimes.com/news/2024/jul/24/yellowstone-hydrothermal-explosion-highlights-litt/)
 
 ### [Technology](https://www.washingtontimes.com/culture/technology/)
 
-#### [Delta Air Lines says cancellations continue as it tries to restore operations after tech outage](https://www.washingtontimes.com/news/2024/jul/21/cancellations-at-delta-air-lines-continue-as-it-tr/)
+#### [CrowdStrike offers $10 Uber Eats gift cards as apology for botched update - report](https://www.washingtontimes.com/news/2024/jul/24/crowdstrike-offers-10-uber-eats-gift-cards-as-apol/)
 
-#### [What to know about the Kids Online Safety Act and its chances of passing](https://www.washingtontimes.com/news/2024/jul/21/information-about-kids-online-safety-act-and-its-c/)
+#### [Meta takes down thousands of Facebook accounts running sextortion scams](https://www.washingtontimes.com/news/2024/jul/24/meta-takes-down-thousands-of-facebook-accounts-run/)
 
-#### [8.5 million devices running Windows affected by faulty update from CrowdStrike](https://www.washingtontimes.com/news/2024/jul/20/85-million-devices-running-windows-affected-by-fau/)
+#### [Senate tees up votes on child online safety bills](https://www.washingtontimes.com/news/2024/jul/24/senate-tees-up-votes-on-child-online-safety-bills/)
 
 ![Logo: The Washington Times (small)](/static/images/W_RedCircle.af82cbe68606.svg)Policy
 ----------------------------------------------------------------------------------------
 
 ### [Energy & Environment](https://www.washingtontimes.com/specials/energy-environment-news/)
 
-#### [EPA awards $4.3 billion to fund projects in 30 states to reduce climate pollution](https://www.washingtontimes.com/news/2024/jul/22/epa-awards-43b-to-fund-projects-in-30-states-to-re/ "EPA awards $4.3 billion to fund projects in 30 states to reduce climate pollution")
+#### [Taiwan prepares for a strong typhoon that worsened monsoon rains in the Philippines, killing 13](https://www.washingtontimes.com/news/2024/jul/24/taiwan-gets-ready-for-strong-typhoon-that-worsened/ "Taiwan prepares for a strong typhoon that worsened monsoon rains in the Philippines, killing 13")
 
 ### [Banking & Finance](https://www.washingtontimes.com/specials/banking-finance/)
 
@@ -476,11 +478,11 @@ Commentary
 
 ### [Coronavirus (COVID-19) pandemic updates](https://www.washingtontimes.com/specials/coronavirus-covid-19-pandemic-updates/)
 
-#### [Biden's COVID-19 symptoms improving, doctor says](https://www.washingtontimes.com/news/2024/jul/19/bidens-covid-19-symptoms-improving-doctor-says/ "Biden's COVID-19 symptoms improving, doctor says")
+#### [Biden's virus symptoms are gone, says his doctor](https://www.washingtontimes.com/news/2024/jul/23/joe-bidens-virus-symptoms-are-gone-says-white-hous/ "Biden's virus symptoms are gone, says his doctor")
 
 ### [Second Amendment & Gun Control](https://www.washingtontimes.com/specials/second-amendment-and-gun-control/)
 
-#### [Shooter's attack on Trump doesn't dent gun-rights fealty at RNC](https://www.washingtontimes.com/news/2024/jul/17/shooters-attack-on-trump-didnt-dent-gun-rights-fea/ "Shooter's attack on Trump doesn't dent gun-rights fealty at RNC")
+#### [Wisconsin agrees to drop ban on carrying firearms while fishing following challenge](https://www.washingtontimes.com/news/2024/jul/24/wisconsin-dropping-ban-on-carrying-firearms-while-/ "Wisconsin agrees to drop ban on carrying firearms while fishing following challenge")
 
 ### [Immigration Reform](https://www.washingtontimes.com/specials/immigration-reform/)
 
@@ -488,19 +490,19 @@ Commentary
 
 ### [Homeland & Cybersecurity](https://www.washingtontimes.com/specials/intelligence-cybersecurity/)
 
-#### [Widespread technology outage disrupts flights, banks, media outlets and companies around the world](https://www.washingtontimes.com/news/2024/jul/19/widespread-tech-outage-disrupts-flights-banks-medi/ "Widespread technology outage disrupts flights, banks, media outlets and companies around the world")
+#### [U.S. regulators rush to team with foreign governments on AI as Biden prepares exit](https://www.washingtontimes.com/news/2024/jul/23/us-regulators-rush-to-team-with-foreign-government/ "U.S. regulators rush to team with foreign governments on AI as Biden prepares exit")
 
 ### [Aerospace & Defense](https://www.washingtontimes.com/specials/defense-aerospace/)
 
-#### [Playing the victim can be a potent weapon in the modern art of cognitive warfare](https://www.washingtontimes.com/news/2024/jul/18/playing-victim-can-be-potent-weapon-in-modern-art-/ "Playing the victim can be a potent weapon in the modern art of cognitive warfare")
+#### [U.S. jets scrambled to intercept four Chinese, Russian bombers near Alaska](https://www.washingtontimes.com/news/2024/jul/24/chinese-russian-bombers-intercepted-inside-us-air-/ "U.S. jets scrambled to intercept four Chinese, Russian bombers near Alaska")
 
 ### [Taxes & Budget](https://www.washingtontimes.com/specials/taxes-budget/)
 
-#### [Delivery charge: States tax Amazon deliveries to replenish dwindling highway repair funds](https://www.washingtontimes.com/news/2024/jul/19/delivery-charge-states-tax-amazon-deliveries-to-re/ "Delivery charge: States tax Amazon deliveries to replenish dwindling highway repair funds")
+#### [House cancels votes next week amid trouble passing spending bills](https://www.washingtontimes.com/news/2024/jul/24/house-cancels-votes-next-week-amid-trouble-passing/ "House cancels votes next week amid trouble passing spending bills")
 
 ### [Law Enforcement & Intelligence](https://www.washingtontimes.com/specials/law-enforcement-intelligence/)
 
-#### [Oversight panel grills Secret Service director on security failures in Trump assassination attempt](https://www.washingtontimes.com/news/2024/jul/22/secret-service-chief-kimberly-cheatle-to-be-grille/ "Oversight panel grills Secret Service director on security failures in Trump assassination attempt")
+#### [FBI Director Wray says Trump questionnaire not created by bureau official](https://www.washingtontimes.com/news/2024/jul/24/fbi-director-christopher-wray-says-donald-trump-qu/ "FBI Director Wray says Trump questionnaire not created by bureau official")
 
 ### [Transportation & Infrastructure](https://www.washingtontimes.com/specials/transportation-infrastructure/)
 
@@ -629,7 +631,6 @@ Commentary
 * [Invest in Ireland](https://www.washingtontimes.com/specials/invest-ireland/ "Invest in Ireland")
 * [ESG Investments](https://www.washingtontimes.com/specials/esg-investments/ "ESG Investments")
 * [U.S. & South Korea Alliance](https://www.washingtontimes.com/specials/celebrating-70-years-us-south-korea-alliance/ "U.S. & South Korea Alliance")
-* [Transportation 2023](https://www.washingtontimes.com/specials/transportation-2023/ "Transportation 2023")
 * [146 Heroes](https://www.washingtontimes.com/specials/146-heroes/ "146 Heroes")
 * [Invest in Malta](https://www.washingtontimes.com/specials/invest-malta/ "Invest in Malta")
 * [National Clean Energy Week](https://www.washingtontimes.com/specials/national-clean-energy-week-2023/ "National Clean Energy Week")
@@ -637,6 +638,7 @@ Commentary
 * [Energy 2024](https://www.washingtontimes.com/specials/energy-2024/ "Energy 2024")
 * [Infrastructure 2024](https://www.washingtontimes.com/specials/infrastructure-2024/ "Infrastructure 2024")
 * [Free Iran 2024](https://www.washingtontimes.com/specials/free-iran-global-assembly-2024/ "Free Iran 2024")
+* [Transportation 2024](https://www.washingtontimes.com/specials/transportation-2024/ "Transportation 2024")
 
 * [Subscribe](https://www.washingtontimes.com/subscribe/?subscribe-link-footer "Subscribe")
 * [Classifieds](http://classified.washingtontimes.com/ "Classifieds")
