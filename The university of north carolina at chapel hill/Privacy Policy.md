@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/SoccerTrafficHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/Olympics-list-hero-250x141.jpg)
     
-    July 23 soccer match will impact campus traffic and parking](https://www.unc.edu/posts/2024/07/19/july-23-soccer-match-will-impact-campus-traffic-and-parking/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/07/StudentConductHERO-250x141.jpg)
+    Tar Heels set for 2024 Paris Olympics](https://www.unc.edu/posts/2024/07/24/tar-heels-set-for-2024-paris-olympics/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/07/LAUNCH-hero-250x141.jpg)
     
-    A message from University leadership: Adapting the Student Conduct process](https://www.unc.edu/posts/2024/07/17/a-message-from-university-leadership-adapting-the-student-conduct-process/)
+    Launch tour opens local doors to students](https://www.unc.edu/posts/2024/07/24/launch-tour-opens-local-doors-to-students/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7035cd52a1&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7c6bc00c35&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
