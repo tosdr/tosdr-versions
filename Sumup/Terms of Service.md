@@ -14,7 +14,9 @@ SumUp, Inc. is a Delaware corporation, with its registered office at 1209 Orange
 
 This agreement is separated into three parts:  Part One contains terms relating to your use of the Services in general. Part Two contains terms relating to payment processing as part of the Services. Part Three contains additional terms relating to the legal relationship between you and SumUp.
 
-For SumUp Kiosk terms and conditions, please click here.
+In order to use our Services you must fully accept these Terms together with our privacy policy (“[Privacy Policy](https://www.sumup.com/en-us/privacy/)”) and upon acceptance of these Terms, you confirm that you have read, understood and accepted our Privacy Policy.
+
+For SumUp Kiosk terms and conditions, please click [here](https://www.sumup.com/en-us/terms/us-sumup-kiosk/).
 
 **PART ONE - The Services**
 
