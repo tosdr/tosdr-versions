@@ -7,13 +7,13 @@ Songwhip terms of service
 
 Effective date: 04 December 2020
 
-These Terms of Service ("Terms", "Terms of Service") govern your relationship with the website https://songwhip.com (the "Website", “Service”) operated by Wilson Page Ltd. (“we”, “us” and “our”).
+These Terms of Service (“Terms“, “Terms of Service“) govern your relationship with the website https://songwhip.com (the “Website“, “Service”) operated by Wilson Page Ltd. (“we”, “us” and “our”).
 
 Please read these Terms of Service carefully before using our Service. Your access to and use of the Service is based on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service. By accessing or using the Service you agree to be bound by these Terms and accept all legal consequences. If you do not agree to these terms and conditions, in whole or in part, please do not use the Service.
 
 ### **Content**
 
-Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material ("Content"). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
+Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (“Content“). You are responsible for the Content that you post to the Service, including its legality, reliability, and appropriateness.
 
 By posting, uploading or otherwise submit Content to the Service, you grant us the right and license to use, modify, publicly perform, publicly display, reproduce, and distribute such Content on and through the Service. You retain any and all of your rights to any Content you submit, post, upload or display on or through the Service and you are responsible for protecting those rights.
 
@@ -35,7 +35,7 @@ Wilson Page Ltd., its directors, employees, partners, agents, suppliers, or affi
 
 ### **Disclaimer And Non-Waiver of Rights**
 
-Wilson Page Ltd. makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance, except as provided for under the laws of any province in the United Kingdom. In such cases, the provincial law shall apply to the extent necessary.
+Wilson Page Ltd. makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk. The Service is provided on an “AS IS“ and “AS AVAILABLE“ basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance, except as provided for under the laws of any province in the United Kingdom. In such cases, the provincial law shall apply to the extent necessary.
 
 Wilson Page Ltd. its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components, or d) the results of using the Service will meet your requirements.
 
@@ -71,7 +71,7 @@ Our Service earns a commission on sales referred from the Website to both Amazon
 
 ### **Changes**
 
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is a material we will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is a material we will make reasonable efforts to provide at least 30 days‘ notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 
 By continuing to access or use our Service after those revisions become “Effective”, you agree to be bound by the revised terms. If you do not agree to the new terms, in whole or in part, please stop using the website and the Service.
 
@@ -94,7 +94,7 @@ You may not use as a username the name of another person or entity or that is no
 
 ### **Subscriptions**
 
-Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
+Some parts of the Service are billed on a subscription basis (“Subscription(s)“). You will be billed in advance on a recurring and periodic basis (“Billing Cycle“). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
 
 At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or we cancel it. You may cancel your Subscription renewal either through your online account management page or by contacting our customer support team.
 
@@ -104,7 +104,7 @@ Should automatic billing fail to occur for any reason, we’ll issue an electron
 
 ### **Free Trial**
 
-Wilson Page Ltd. may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
+Wilson Page Ltd. may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (“Free Trial“).
 
 You may be required to enter your billing information in order to sign up for the Free Trial.
 
@@ -136,30 +136,11 @@ Upon termination, your right to use the Service will immediately cease. If you w
 
 When you utilize the Facebook Pixel Integration feature of Website, you are placing your Facebook Pixel on your profile and you, therefore, become the controller of your Facebook data, and you are providing this data to Facebook Inc. By using this feature you agree to Facebook Inc’s terms and agree that you now are in a data controller/data processor relationship with Facebook Inc.
 
-* [Home](https://songwhip.com/)
-* [Make a link](https://songwhip.com/create)
-* [About Songwhip](https://songwhip.com/about)
-* [Contact](https://songwhip.com/contact)
-* [FAQs](https://songwhip.com/faq)
+[](https://songwhip.com/ "Home")
 
-Top searches
-
-* [Smart music links for indie artists](https://songwhip.com/ "Smart music links for indie artists")
-* [Linkfire alternative](https://songwhip.com/linkfire-alternative "Linkfire alternative")
-* [Free smart music links](https://songwhip.com/music-link-app "Free smart music links")
-
-Featured artists
-
-* [Ali Hosseinzadeh](https://songwhip.com/ali-hosseinzadeh "Ali Hosseinzadeh")
-* [M3NSA](https://songwhip.com/m3nsa "M3NSA")
-* [The Mouse Outfit](https://songwhip.com/themouseoutfit "The Mouse Outfit")
-* [Jackie Venson](https://songwhip.com/jackievenson "Jackie Venson")
-
-© 2024 Songwhip · [Privacy](https://songwhip.com/privacy) & [Terms](https://songwhip.com/terms)
+© 2024 Songwhip [Privacy](https://songwhip.com/privacy) & [Terms](https://songwhip.com/terms)
 
 [](https://songwhip.com/ "Go to Homepage")
-
-Login
 
 * [Home](https://songwhip.com/)
 * [Make a page](https://songwhip.com/create)
