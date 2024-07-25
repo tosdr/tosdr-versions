@@ -22,7 +22,7 @@
 Privacy Policy
 ==============
 
-Last Updated: April 12, 2022
+Last Updated: July 18, 2024
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=c52d4a60-12ce-4110-81a9-33024a499f77)](https://privacy.truste.com/privacy-seal/validation?rid=c52d4a60-12ce-4110-81a9-33024a499f77)
 
