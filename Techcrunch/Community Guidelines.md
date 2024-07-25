@@ -97,11 +97,12 @@ Legal
 Trending Tech Topics
 --------------------
 
-* [Fandango Founder](https://techcrunch.com/2024/07/18/fandango-founder-dies-in-fall-from-manhattan-skyscraper/)
-* [Musk and Biden](https://techcrunch.com/2024/07/18/elon-musk-is-now-a-villain-in-joe-bidens-presidential-campaign/)
-* [CrowdStrike](https://techcrunch.com/2024/07/19/what-we-know-about-crowdstrikes-update-fail-thats-causing-global-outages-and-travel-chaos/)
-* [USPS](https://techcrunch.com/2024/07/18/usps-shared-customer-postal-addresses-with-meta-linkedin-and-snap/)
-* [Tech Layoffs](https://techcrunch.com/2024/07/17/tech-layoffs-2024-list/)
+* [CrowdStrike Outage](https://techcrunch.com/2024/07/24/crowdstrike-offers-a-10-apology-gift-card-to-say-sorry-for-outage/)
+* [Colin Kaepernick’s AI Startup](https://techcrunch.com/2024/07/24/colin-kaepernick-launches-ai-startup-help-creators-storytelling/)
+* [New Google Play Features](https://techcrunch.com/2024/07/24/google-play-launches-new-features/)
+* [TikTok Lite](https://techcrunch.com/2024/07/24/tiktok-lite-exposes-users-to-harmful-content-say-mozilla-researchers/)
+* [Optimus Robot](https://techcrunch.com/2024/07/23/elon-musk-sets-2026-optimus-sale-date-heres-where-other-humanoid-robots-stand/)
+* [Tech Layoffs](https://techcrunch.com/2024/07/23/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/07/18/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 * [Facebook](https://www.facebook.com/techcrunch)
