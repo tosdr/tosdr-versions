@@ -31,7 +31,7 @@
 
 [Question more](https://www.rt.com/)
 
-[Russian forces advancing in Ukraine and Donbass – MOD | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
+[Russia responds to Zelensky proposal for talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [live](https://www.rt.com/on-air/)
 
@@ -64,9 +64,7 @@
 
 [](https://odysee.com/@RT:fd)
 
-[Russian forces advancing in Ukraine and Donbass – MOD | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
-
-[Republicans call on Biden to resign as president, Democrats endorse Harris: LIVE UPDATES](https://www.rt.com/news/601426-biden-drops-out/)
+[Russia responds to Zelensky proposal for talks | Russia-Ukraine conflict](https://www.rt.com/trends/russia-ukraine-conflict/)
 
 [Home](https://www.rt.com/)
 
