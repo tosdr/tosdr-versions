@@ -139,7 +139,7 @@ WSECU Routing Number: **325181028**
     * [Business Credit Card](https://wsecu.org/business/credit-card)
     * [Business Insurance](https://wsecu.org/business/insurance)
     
-     [![](/Images/Mega%20Menu/become-a-member.jpg) Become a member. Get Started](https://wsecu.org/join-wsecu)
+     [![A woman and man leaning on the counter of a food truck, smiling](/Images/Mega%20Menu/business.jpg) Specialty vehicle loans for your small business Get rolling](https://wsecu.org/business/term-loan)
     
     * [Playbook for Starting a Business in WA](https://wsecu.org/resources/playbook-for-starting-a-business-in-washington)
     
@@ -390,7 +390,7 @@ Go back to the search field
     * [Business Credit Card](https://wsecu.org/business/credit-card)
     * [Business Insurance](https://wsecu.org/business/insurance)
     
-     [![](/Images/Mega%20Menu/become-a-member.jpg) Become a member. Get Started](https://wsecu.org/join-wsecu)
+     [![A woman and man leaning on the counter of a food truck, smiling](/Images/Mega%20Menu/business.jpg) Specialty vehicle loans for your small business Get rolling](https://wsecu.org/business/term-loan)
     
     * [Playbook for Starting a Business in WA](https://wsecu.org/resources/playbook-for-starting-a-business-in-washington)
     
