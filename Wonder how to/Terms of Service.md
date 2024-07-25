@@ -6,7 +6,7 @@
 
 [![](https://img.wonderhowto.com/images/logos/wonderhowto.mark.png)](https://www.wonderhowto.com/)
 
-[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/)
+[Gadget Hacks](https://www.gadgethacks.com/) [Next Reality](https://next.reality.news/) [Food Hacks](https://food-hacks.wonderhowto.com/) [Null Byte](https://null-byte.wonderhowto.com/) [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/) [MacGyverisms](https://macgyverisms.wonderhowto.com/) [Invisiverse](https://invisiverse.wonderhowto.com/) [Mind Hacks](https://mind-hacks.wonderhowto.com/) [Mad Science](https://mad-science.wonderhowto.com/) [Lock Picking](https://lock-picking.wonderhowto.com/) [Driverless](https://driverless.wonderhowto.com/)
 
 WonderHowTo Terms of Use Agreement
 ==================================
@@ -169,8 +169,8 @@ This Agreement was last revised on Dec 1, 2020.
     * [The Secret Yumiverse](https://thesecretyumiverse.wonderhowto.com/)
     * [MacGyverisms](https://macgyverisms.wonderhowto.com/)
     * [Invisiverse](https://invisiverse.wonderhowto.com/)
-    * [Mad Science](https://mad-science.wonderhowto.com/)
     * [Mind Hacks](https://mind-hacks.wonderhowto.com/)
+    * [Mad Science](https://mad-science.wonderhowto.com/)
     * [Lock Picking](https://lock-picking.wonderhowto.com/)
     * [Driverless](https://driverless.wonderhowto.com/)
 * Categories
