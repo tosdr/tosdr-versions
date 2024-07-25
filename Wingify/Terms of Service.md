@@ -161,10 +161,6 @@
     
     Fireside Chat: Evolution of Statistics and Experimentation with VWO’s Lead Data Scientist](https://vwo.com/webinars/fireside-chat-evolution-statistics-experimentation-vwos-lead-data-scientist/)
     
-    [![Kanishk Mehta](https://static.wingify.com/gcp/uploads/2024/07/Photo-Kanishk-Mehta-1.jpeg?tr=w-60,h-50)
-    
-    Retention Mastery: Proven Strategies to Keep Your Mobile App Users Hooked](https://vwo.com/webinars/retention-mastery-proven-strategies-to-keep-your-mobile-app-users-hooked/)
-    
     [![Steven Waller](https://static.wingify.com/gcp/uploads/2024/06/steve-waller-headshot-1-scaled.jpg?tr=w-60,h-50)
     
     Cut Through the Noise to Drive More Conversions](https://vwo.com/webinars/cut-through-the-noise-to-drive-more-conversions/)
@@ -177,11 +173,19 @@
     
     Navigation Optimization: The Overlooked Path to Higher Conversions](https://vwo.com/webinars/navigation-optimization-overlooked-path-higher-conversions/)
     
+    [![Richard Joe](https://static.wingify.com/gcp/uploads/2024/06/Professional_Profile_Pic-copy-1-1.jpg?tr=w-60,h-50)
+    
+    The Crucial Role of Feedback Loops in A/B Testing](https://vwo.com/webinars/crucial-role-feedback-loops-a-b-testing/)
+    
     [View all webinars](https://vwo.com/webinars)
     
     VWO Blog
     
     Latest Blogs
+    
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-CRO-Perspectives-Gladwin-Ngo-1.jpg?tr=w-60,h-50)
+    
+    Allocate resources to experiments to proactively adapt to changes: Insights from Gladwin Ngo](https://vwo.com/blog/insights-from-gladwin-ngo/)
     
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-Women-in-CRO_-Insights-from-Our-Conversation-with-Eden-Bidani-Head-of-Strategy-Copy-at-CAPE.Agency@2x-1.jpg?tr=w-60,h-50)
     
@@ -198,10 +202,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-CRO-Perspectives-Jared-Brown-1-1.jpg?tr=w-60,h-50)
     
     CRO’s Evolution from Silo to Business Strategy and Innovation: Insights from Ruben de Boer](https://vwo.com/blog/cro-insights-ruben-de-boer/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/06/Feature-image-Visitor-Behavior-Analysis-6-Must-Watch-Webinars-to-Improve-Website-Experience.jpg?tr=w-60,h-50)
-    
-    Visitor Behavior Analysis – 6 Must-Watch Webinars to Improve Website Experience](https://vwo.com/blog/6-must-watch-webinars-to-improve-website-experience/)
     
     Featured Blogs
     
