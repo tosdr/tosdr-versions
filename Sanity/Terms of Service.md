@@ -1,7 +1,5 @@
 [Skip to content](#mainContentBlock)
 
-[Go Behind the Experience to see how Tecovas brings the West to life with Sanity 🤠 July 18th](https://www.sanity.io/events/tecovas-bts?ref=banner&utm_source=websitebanner)
-
 [Sanity](https://www.sanity.io/)
 
 * * Product
