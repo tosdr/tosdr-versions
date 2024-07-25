@@ -131,6 +131,13 @@ YesNo
 
 Submit
 
+Need more help?
+---------------
+
+### Try these next steps:
+
+[Post to the help community Get answers from community members](https://support.google.com/youtube/community?hl=en&help_center_link=[2814000,%22Copyright%20strike%20basics%22])
+
 true
 
 [Copyright claim basics](https://support.google.com/youtube/topic/9282678?hl=en&ref_topic=2676339)
@@ -183,7 +190,7 @@ Google apps
 
 Main menu
 
-10343227895172873487
+601778527311635552
 
 true
 
