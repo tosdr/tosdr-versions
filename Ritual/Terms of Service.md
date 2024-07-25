@@ -21,9 +21,9 @@ Our Policies
 
 * * *
 
-[Terms of Service](https://ritual.com/terms-of-service)[Privacy Policy](https://ritual.com/privacy-policy)[Cookie Notice](https://ritual.com/cookie-notice)[Reviews Policy](https://ritual.com/reviews-policy)[Return Policy](https://ritual.com/return-policy)[DE&I Initiatives](https://ritual.com/diversity-equity-and-inclusion)[Editorial Policy](https://ritual.com/editorial-policy)[Accessibility](https://ritual.com/accessibility)
+[Terms of Service](https://ritual.com/terms-of-service)[Privacy Policy](https://ritual.com/privacy-policy)[Cookie Notice](https://ritual.com/cookie-notice)[Reviews Policy](https://ritual.com/reviews-policy)[Return Policy](https://ritual.com/return-policy)[DE&I Initiatives](https://ritual.com/diversity-equity-and-inclusion)[Authorized Reseller Policy](https://ritual.com/authorized-reseller-policy)[Editorial Policy](https://ritual.com/editorial-policy)[Accessibility](https://ritual.com/accessibility)
 
-Terms of ServicePrivacy PolicyCookie NoticeReviews PolicyReturn PolicyDE&I InitiativesEditorial PolicyAccessibility
+Terms of ServicePrivacy PolicyCookie NoticeReviews PolicyReturn PolicyDE&I InitiativesAuthorized Reseller PolicyEditorial PolicyAccessibility
 
 Terms of Service
 
@@ -38,6 +38,8 @@ Reviews Policy
 Return Policy
 
 DE&I Initiatives
+
+Authorized Reseller Policy
 
 Editorial Policy
 
