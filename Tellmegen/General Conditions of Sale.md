@@ -631,7 +631,7 @@ Hours: Mon-Fri, 24 hours
 
 [](https://www.facebook.com/tellmeGen/ "facebook")[](https://twitter.com/tellmegen "twitter")[](https://www.instagram.com/tellmegen_english/ "instagram")[](https://ar.linkedin.com/company/tellmegen "linkedin")[](https://www.pinterest.com/tellmegen/ "pinterest")
 
-Summer Sale **Only until July 25** on our DNA tests. Use our code **SUMMER15**
+The DNA test you were looking for
 
 [Buy](https://shop.tellmegen.com/en/)
 
