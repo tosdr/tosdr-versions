@@ -118,7 +118,7 @@ Search
 
 **Adafruit Privacy Policy**
 
-_Last Updated: May 17, 2024_
+_Last Updated: July 24, 2024_
 
 This privacy policy governs how Adafruit Industries, LLC collects, stores, uses, and discloses information about users of adafruit.com. This policy applies to the site, along with related products and services offered by Adafruit Industries, LLC that link to this policy. This policy does not apply to websites, applications, or services that display or link to different privacy statements. For security related matters please email: [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection)
 
@@ -374,8 +374,8 @@ We update this policy in our discretion at any time by posting the amended versi
 **Contacting Us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Adafruit Industries, LLC  
-150 Varick Street  
-New York, New York 10013  
+168 39th Street Ste 1905CC  
+Brooklyn, NY 11232  
 [\[email protected\]](https://www.adafruit.com/cdn-cgi/l/email-protection)
 
 Our data protection representative for the European Economic Area and Switzerland is VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you have some power, then your job is to empower somebody else”
+“ If you get, give. If you learn, teach”
 
-[Toni Morrison](https://en.wikipedia.org/wiki/Toni_Morrison)
+[Maya Angelou](http://en.wikipedia.org/wiki/Maya_Angelou)
 
 [](https://www.adafruit.com/about)
 
