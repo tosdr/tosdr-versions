@@ -1,8 +1,8 @@
 ![Magic wand](https://cdn.thinglink.me/gfx/pages16/images/frontpage/magic_stick.svg)
 
-**New on ThingLink**: AI-Powered Image Generation Tools
+**New on ThingLink**: AI Assisted Creation
 
-[Read more](https://www.thinglink.com/blog/new-on-thinglink-ai-powered-image-generation-tools/)
+[Read more](https://www.thinglink.com/blog/how-to-use-thinglinks-five-new-artificial-intelligence-solutions/)
 
 * [Solutions ![Arrow](https://www.thinglink.com/gfx/pages16/icons/arrow-menu-10x10.svg)](#mobileNavbarSolutions) 
     
@@ -263,7 +263,7 @@ Sign up
 
  OR
 
-[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=VFohpxj7C2XHJ9PfrsSMnc&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/architecture "Login with Microsoft.")   [](# "Login with Google.")iIci4ksGgG8RZS1SbPpV4y-Znzo5GB7HW\_P2I71j9y7SRIGlZk\_hTd-cAOizCSdg
+[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=49mcfoeSaesN3pFxwMC7DM&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/architecture "Login with Microsoft.")   [](# "Login with Google.")Xl7Z4woFMTkhQ7eXGyT9wub-Imyu\_5xpKy3YBE\_8dGCEpUUlIhcX0t-cAOizCSdg
 
   [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/architecture "Login with Facebook.") [Login with MPASSid](https://www.thinglink.com/auth/mpassid/login "Login with MPASSid")
 
