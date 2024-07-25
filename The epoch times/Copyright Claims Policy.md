@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Secret Service Director Admits ‘Significant Operational Failure’ in Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-director-admits-significant-operational-failure-in-trump-assassination-attempt-5691473)
+* [Ultra-Processed Foods Are Harming Children: What’s Being Done About It?](https://www.theepochtimes.com/health/ultra-processed-foods-are-harming-children-whats-being-done-about-it-5655182)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Jennifer Sweenie](https://www.theepochtimes.com/author/jennifer-sweenie)
     
-    [![Secret Service Director Admits ‘Significant Operational Failure’ in Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ultra-Processed Foods Are Harming Children: What’s Being Done About It?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Secret Service Director Admits ‘Significant Operational Failure’ in Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/16/id5687551-1p2p3p12p312p3p213ppKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-director-admits-significant-operational-failure-in-trump-assassination-attempt-5691473)
-* [Harris Racks Up Endorsements After Biden Drops Out](https://www.theepochtimes.com/us/harris-racks-up-endorsements-after-biden-drops-out-5691513)
+    ![Ultra-Processed Foods Are Harming Children: What’s Being Done About It?](https://img.theepochtimes.com/assets/uploads/2024/05/22/id5655185-IMG_3204-205x123.jpeg.webp)](https://www.theepochtimes.com/health/ultra-processed-foods-are-harming-children-whats-being-done-about-it-5655182)
+* [Marine Veteran Shot at Trump Rally Released From Hospital](https://www.theepochtimes.com/us/marine-veteran-shot-at-trump-rally-released-from-hospital-5693266)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Harris Racks Up Endorsements After Biden Drops Out](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Marine Veteran Shot at Trump Rally Released From Hospital](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Racks Up Endorsements After Biden Drops Out](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691175-GettyImages-2159966599-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-racks-up-endorsements-after-biden-drops-out-5691513)
-* [Secret Service Director Testifies to Congress on Trump Assassination Attempt](https://www.theepochtimes.com/us/secret-service-director-testifies-to-congress-on-trump-assassination-attempt-5691489)
+    ![Marine Veteran Shot at Trump Rally Released From Hospital](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693357-GettyImages-2161353774-205x123.jpg.webp)](https://www.theepochtimes.com/us/marine-veteran-shot-at-trump-rally-released-from-hospital-5693266)
+* [House Votes Unanimously to Form Task Force to Investigate Trump Assassination Attempt](https://www.theepochtimes.com/us/house-votes-unanimously-to-form-task-force-to-investigate-trump-assassination-attempt-5692889)
     
-    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    9hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![Secret Service Director Testifies to Congress on Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Votes Unanimously to Form Task Force to Investigate Trump Assassination Attempt](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Secret Service Director Testifies to Congress on Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691547-Election_2024_Trump_Shooting_Congress_24204529902971-205x123.jpg)](https://www.theepochtimes.com/us/secret-service-director-testifies-to-congress-on-trump-assassination-attempt-5691489)
-* [White House Confirms Biden Won’t Resign Before Term Ends](https://www.theepochtimes.com/us/white-house-confirms-biden-wont-resign-before-term-ends-5691386)
+    ![House Votes Unanimously to Form Task Force to Investigate Trump Assassination Attempt](https://img.theepochtimes.com/assets/uploads/2024/07/14/id5686132-trump-GettyImages-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-votes-unanimously-to-form-task-force-to-investigate-trump-assassination-attempt-5692889)
+* [Florida Telecom Worker Charged With Decade-Long Spying on Falun Gong, Other Dissidents for Beijing](https://www.theepochtimes.com/us/florida-telecom-worker-charged-with-decade-long-spying-on-falun-gong-other-dissidents-for-beijing-5693169)
     
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    9hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![White House Confirms Biden Won’t Resign Before Term Ends](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida Telecom Worker Charged With Decade-Long Spying on Falun Gong, Other Dissidents for Beijing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![White House Confirms Biden Won’t Resign Before Term Ends](https://img.theepochtimes.com/assets/uploads/2024/07/19/id5690065-GettyImages-2161163478-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-confirms-biden-wont-resign-before-term-ends-5691386)
-* [5:2 Intermittent Fasting Promising for Brain Health in Older Adults–Study](https://www.theepochtimes.com/health/52-intermittent-fasting-promising-for-brain-health-in-older-adults-study-5684351)
+    ![Florida Telecom Worker Charged With Decade-Long Spying on Falun Gong, Other Dissidents for Beijing](https://img.theepochtimes.com/assets/uploads/2023/10/02/id5502040-DOJ-e1696240213898-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-telecom-worker-charged-with-decade-long-spying-on-falun-gong-other-dissidents-for-beijing-5693169)
+* [Biden Addresses Nation From Oval Office to Explain Why He Quit 2024 Race](https://www.theepochtimes.com/us/biden-addresses-nation-from-oval-office-to-explain-why-he-quit-2024-race-5693209)
     
-    5hr By [Jennifer Sweenie](https://www.theepochtimes.com/author/jennifer-sweenie)
+    10hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![5:2 Intermittent Fasting Promising for Brain Health in Older Adults–Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Addresses Nation From Oval Office to Explain Why He Quit 2024 Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5:2 Intermittent Fasting Promising for Brain Health in Older Adults–Study](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684362-IMG_3810-205x123.jpeg.webp)](https://www.theepochtimes.com/health/52-intermittent-fasting-promising-for-brain-health-in-older-adults-study-5684351)
-* [Biden Admin Announces $4.3 Billion in Community Grants to Cut Climate Pollution](https://www.theepochtimes.com/us/biden-admin-announces-4-3-billion-in-community-grants-to-cut-climate-pollution-5690852)
+    ![Biden Addresses Nation From Oval Office to Explain Why He Quit 2024 Race](https://img.theepochtimes.com/assets/uploads/2024/07/25/id5693251-joe-biden-oval-office-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-addresses-nation-from-oval-office-to-explain-why-he-quit-2024-race-5693209)
+* [Chronic Fatigue Syndrome ‘No More Likely’ After COVID Than Other Infections, CDC Study Finds](https://www.theepochtimes.com/health/chronic-fatigue-syndrome-no-more-likely-after-covid-than-other-infections-cdc-study-finds-5693076)
     
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    11hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
-    [![Biden Admin Announces $4.3 Billion in Community Grants to Cut Climate Pollution](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Chronic Fatigue Syndrome ‘No More Likely’ After COVID Than Other Infections, CDC Study Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Admin Announces $4.3 Billion in Community Grants to Cut Climate Pollution](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691137-GettyImages-2162319822-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-admin-announces-4-3-billion-in-community-grants-to-cut-climate-pollution-5690852)
-* [After Biden Exits 2024 Race, Harris Scores Commanding Endorsements](https://www.theepochtimes.com/us/after-biden-exits-2024-race-harris-scores-commanding-endorsements-5691284)
+    ![Chronic Fatigue Syndrome ‘No More Likely’ After COVID Than Other Infections, CDC Study Finds](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693193-covid-virus-24-205x123.jpg.webp)](https://www.theepochtimes.com/health/chronic-fatigue-syndrome-no-more-likely-after-covid-than-other-infections-cdc-study-finds-5693076)
+* [Pennsylvania Federal Judge Upholds FTC Ban on Noncompete Agreements](https://www.theepochtimes.com/us/pennsylvania-federal-judge-upholds-ftc-ban-on-noncompete-agreements-5693000)
     
-    11hr By [Ivan Pentchoukov](https://www.theepochtimes.com/author/ivan-pentchoukov), [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![After Biden Exits 2024 Race, Harris Scores Commanding Endorsements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pennsylvania Federal Judge Upholds FTC Ban on Noncompete Agreements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![After Biden Exits 2024 Race, Harris Scores Commanding Endorsements](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691449-GettyImages-2161943649-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-biden-exits-2024-race-harris-scores-commanding-endorsements-5691284)
-* [Secret Service Director: ‘Eager to Cooperate’ With Independent Review](https://www.theepochtimes.com/us/secret-service-director-eager-to-cooperate-with-independent-review-5691256)
+    ![Pennsylvania Federal Judge Upholds FTC Ban on Noncompete Agreements](https://img.theepochtimes.com/assets/uploads/2024/07/10/id5683660-GettyImages-71968930KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-federal-judge-upholds-ftc-ban-on-noncompete-agreements-5693000)
+* [Taiwan Needs to Do More to Become Resilient Against Communist China’s Aggression: Report](https://www.theepochtimes.com/china/taiwan-needs-to-do-more-to-become-resilient-against-communist-chinas-aggression-report-5692887)
     
-    12hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    13hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Secret Service Director: ‘Eager to Cooperate’ With Independent Review](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Taiwan Needs to Do More to Become Resilient Against Communist China’s Aggression: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Secret Service Director: ‘Eager to Cooperate’ With Independent Review](https://img.theepochtimes.com/assets/uploads/2024/07/22/id5691452-Cheatle-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/secret-service-director-eager-to-cooperate-with-independent-review-5691256)
-* [Strategists Share Predictions on What’s Next for Democratic Party](https://www.theepochtimes.com/us/strategists-share-predictions-on-whats-next-for-democratic-party-5691211)
+    ![Taiwan Needs to Do More to Become Resilient Against Communist China’s Aggression: Report](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693174-A07-O-CONCERNS-OVER-TAIWAN-RISE-AS-RUSSIA-DECLARES-WAR-1200x881-e1658634104414KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-needs-to-do-more-to-become-resilient-against-communist-chinas-aggression-report-5692887)
+* [Faith, Family, and Business Inseparable for Mississippi Duck Call Craftsman](https://www.theepochtimes.com/us/faith-family-and-business-inseparable-for-mississippi-duck-call-craftsman-5692518)
     
-    16hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    13hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Strategists Share Predictions on What’s Next for Democratic Party](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Faith, Family, and Business Inseparable for Mississippi Duck Call Craftsman](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Strategists Share Predictions on What’s Next for Democratic Party](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691175-GettyImages-2159966599-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/strategists-share-predictions-on-whats-next-for-democratic-party-5691211)
-* [Harris Announces Run for Democratic Nominee, Earns Endorsements](https://www.theepochtimes.com/us/harris-accepts-bidens-endorsement-for-democratic-presidential-ticket-5691196)
+    ![Faith, Family, and Business Inseparable for Mississippi Duck Call Craftsman](https://img.theepochtimes.com/assets/uploads/2024/07/24/id5693177-450259155_459396036887641_2648808367304752339_nKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/faith-family-and-business-inseparable-for-mississippi-duck-call-craftsman-5692518)
+* [NYC Schools to Run New Illustrative Math Program Aimed at Bolstering Test Scores](https://www.theepochtimes.com/us/nyc-schools-to-run-new-illustrative-math-program-aimed-at-bolstering-test-scores-5692955)
     
-    16hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    13hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
-    [![Harris Announces Run for Democratic Nominee, Earns Endorsements](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![NYC Schools to Run New Illustrative Math Program Aimed at Bolstering Test Scores](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Announces Run for Democratic Nominee, Earns Endorsements](https://img.theepochtimes.com/assets/uploads/2024/07/21/id5691133-GettyImages-2161943692-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-accepts-bidens-endorsement-for-democratic-presidential-ticket-5691196)
+    ![NYC Schools to Run New Illustrative Math Program Aimed at Bolstering Test Scores](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5685337-GettyImages-85738834-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-schools-to-run-new-illustrative-math-program-aimed-at-bolstering-test-scores-5692955)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
