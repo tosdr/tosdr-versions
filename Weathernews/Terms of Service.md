@@ -4,7 +4,9 @@ Language
 
 [日本語](https://jp.weathernews.com/)[English](https://global.weathernews.com/)[Chinese](https://zh.weathernews.com/)[Korean](https://ko.weathernews.com/)
 
-[お問い合わせ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
+![](https://global.weathernews.com/assets/img/common/icon_search.svg) 
+
+[お問い合せ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
 
 ニュース
 
@@ -20,9 +22,9 @@ Language
 
 サステナビリティ
 
-[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability#contribution)
+[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability/sus-contribution/)
 
-[![](/wp-content/themes/wni-theme/assets/img/menu/esg_databook_2023_jp.png)
+[![](/assets/img/menu/esg_databook_2023_jp.png)
 
 ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)
 
@@ -30,17 +32,17 @@ IR情報
 
 [IR情報トップ](https://jp.weathernews.com/irinfo/)[経営方針](https://jp.weathernews.com/irinfo/management/)[業績ハイライト](https://jp.weathernews.com/irinfo/highlight/)[IRライブラリー](https://jp.weathernews.com/irinfo/library/)[IRイベント](https://jp.weathernews.com/irinfo/event/)
 
-[![](/wp-content/themes/wni-theme/assets/img/menu/menu_img_midterm.png)
+[![](/assets/img/menu/menu_img_midterm.png)
 
-中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/wp-content/themes/wni-theme/assets/img/menu/esg_databook_2023_jp.png)
+中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/esg_databook_2023_jp.png)
 
-ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/wp-content/themes/wni-theme/assets/img/menu/menu_img_fr.png)
+ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/assets/img/menu/menu_img_fr.png)
 
-第３四半期決算](https://ssl4.eir-parts.net/doc/4825/yuho_pdf/S100T9J8/00.pdf)
+2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
 
 採用情報
 
-[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
+[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://jp.weathernews.com/terms-of-use/mid-career-info/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
 [](https://jp.weathernews.com/contact)
 
@@ -60,31 +62,33 @@ Language
 
 [日本語](https://jp.weathernews.com/)[English](https://global.weathernews.com/)[Chinese](https://zh.weathernews.com/)[Korean](https://ko.weathernews.com/)
 
-[お問い合わせ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
+[お問い合せ](https://jp.weathernews.com/contact)[予報精度No.1ウェザーニュース](https://weathernews.jp/)
 
-←戻る[プレスリリース](https://jp.weathernews.com/news/)[サステナビリティニュース](https://jp.weathernews.com/sustainability/topics/)[IR関連ニュース](https://jp.weathernews.com/irinfo/news/)
+![](https://global.weathernews.com/assets/img/common/icon_search.svg) 
 
-←戻る[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)
+<< 戻る[プレスリリース](https://jp.weathernews.com/news/)[サステナビリティニュース](https://jp.weathernews.com/sustainability/topics/)[IR関連ニュース](https://jp.weathernews.com/irinfo/news/)
 
-←戻る[サービス一覧](https://jp.weathernews.com/your-industry/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
+<< 戻る[会社概要](https://jp.weathernews.com/corporate-outline/)[社長メッセージ](https://jp.weathernews.com/corporate-outline/ceo-message/)[経営理念](https://jp.weathernews.com/corporate-outline/our-business-strategy/)[役員一覧](https://jp.weathernews.com/corporate-outline/board-members/)[歴史](https://jp.weathernews.com/corporate-outline/our-history/)
 
-←戻る[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability#contribution)
+<< 戻る[サービス一覧](https://jp.weathernews.com/your-industry/)[グローバルネットワーク](https://jp.weathernews.com/global-network/)[サービスの流れ](https://jp.weathernews.com/the-backbone/)[イノベーション](https://jp.weathernews.com/innovation/)
 
-[![](/wp-content/themes/wni-theme/assets/img/menu/esg_databook_2023_jp.png)
+<< 戻る[サステナビリティトップ](https://jp.weathernews.com/sustainability/)[ニュース一覧](https://jp.weathernews.com/sustainability/topics)[トップメッセージ](https://jp.weathernews.com/sustainability/sus-message)[重点取り組みテーマ](https://jp.weathernews.com/sustainability/theme01/)[サステナビリティへの貢献](https://jp.weathernews.com/sustainability/sus-contribution/)
+
+[![](/assets/img/menu/esg_databook_2023_jp.png)
 
 ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)
 
-←戻る[IR情報トップ](https://jp.weathernews.com/irinfo/)[経営方針](https://jp.weathernews.com/irinfo/management/)[業績ハイライト](https://jp.weathernews.com/irinfo/highlight/)[IRライブラリー](https://jp.weathernews.com/irinfo/library/)[IRイベント](https://jp.weathernews.com/irinfo/event/)
+<< 戻る[IR情報トップ](https://jp.weathernews.com/irinfo/)[経営方針](https://jp.weathernews.com/irinfo/management/)[業績ハイライト](https://jp.weathernews.com/irinfo/highlight/)[IRライブラリー](https://jp.weathernews.com/irinfo/library/)[IRイベント](https://jp.weathernews.com/irinfo/event/)
 
-[![](/wp-content/themes/wni-theme/assets/img/menu/menu_img_midterm.png)
+[![](/assets/img/menu/menu_img_midterm.png)
 
-中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/wp-content/themes/wni-theme/assets/img/menu/esg_databook_2023_jp.png)
+中期経営計画](https://ssl4.eir-parts.net/doc/4825/ir_material2/210728/00.pdf)[![](/assets/img/menu/esg_databook_2023_jp.png)
 
-ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/wp-content/themes/wni-theme/assets/img/menu/menu_img_fr.png)
+ESG活動報告書2023](https://jp.weathernews.com/wp-content/uploads/2024/02/esg_databook_2023_jp.pdf)[![](/assets/img/menu/menu_img_fr.png)
 
-第３四半期決算](https://ssl4.eir-parts.net/doc/4825/yuho_pdf/S100T9J8/00.pdf)
+2024年5月期　通期決算](https://jp.weathernews.com/irinfo/announcement/results-briefing-end-of-2024/)
 
-←戻る[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://recruit.jp.weathernews.com/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
+<< 戻る[採用情報トップ](https://jp.weathernews.com/career-info/)[新卒採用(Possible Winner)](https://jp.weathernews.com/recruit/)[経験者採用(Winner)](https://jp.weathernews.com/mid-career-info/)[ITエンジニア経験者採用](https://jp.weathernews.com/terms-of-use/mid-career-info/)[キャスター(気象予報士)](https://jp.weathernews.com/your-industry/broadcasting/)[インターンシップ](https://jp.weathernews.com/internship/)[プライバシーポリシー](https://jp.weathernews.com/privacy-policy-for-recruit/)
 
 ご利用に際して
 -------
