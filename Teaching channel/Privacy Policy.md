@@ -526,7 +526,7 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 
  
 
-Pay as You Learn with our Course Bundles. Select Bundles on SALE through June 30! [Explore Your Options >>](https://courses.teachingchannel.com/courses/dl/all?content=course-bundles&grade=&credits=&format=&partner=&bundle=10%20Course%20Bundle%7C5%20Course%20Lane%20Change%20Bundle%7CACE%203%20Course%20Bundle%7CBookless%20Bundle%7CCertificate%20Bundle%7CPredetermined%20Bundle&srch=&nat=false)
+**Fast Track Courses are still available for summer session. Get your transcript before September 1**! [Register Now](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=&format=FT&partner=&bundle=&srch=&nat=false) [>>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
@@ -534,7 +534,7 @@ Pay as You Learn with our Course Bundles. Select Bundles on SALE through June 
 
  
 
-**Last Day of Summer Session Registration. Use DOGDAYS24 and get a** 3-Credit Course for $399! [Learn More >](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)
+**Use BACK2SCHOOL24 and get a** 3-Credit Course for $399! Now through August 18. [Register Today](https://courses.teachingchannel.com/courses/dl/all?content=&grade=&credits=1%7C2%7C3&format=&partner=&bundle=&srch=&nat=false) [>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)[\>](https://www.teachingchannel.com/dog-days-of-summer-sale-2024/)
 
 ![close-image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2015%2015'%3E%3C/svg%3E)
 
