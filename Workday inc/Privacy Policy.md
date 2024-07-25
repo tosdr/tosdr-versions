@@ -329,6 +329,8 @@ Skip to main content
     
 * U
     
+    You have automatically signed in to workday.com with your Workday Community account.
+    
     Got it
     
     **Need help signing in?** 
@@ -337,25 +339,29 @@ Skip to main content
     
     [More Information](https://www.workday.com/content/www/en-us/signin)
     
-    Products
+    PRODUCT & COMMUNITY LOGINS
     
     * [Workday Adaptive Planning](https://login.adaptiveinsights.com/app)
     * [Workday Peakon](https://app.peakon.com/login/)
     * [Workday Extend](https://developer.workday.com/login)
-    
-    Customer Community
-    
     * [Workday Community](https://community.workday.com/)
     
     P
     
     User
     
-    View Profile
+    [View Profile](https://resourcecenter.workday.com/en-us/wrc/profile.html)
     
     WORKDAY.COM
     
-    Sign Out
+    [Sign Out](https://resourcecenter.workday.com/en-us/logout.html)
+    
+    PRODUCT & COMMUNITY LOGINS
+    
+    * [Workday Adaptive Planning](https://login.adaptiveinsights.com/app)
+    * [Workday Peakon](https://app.peakon.com/login/)
+    * [Workday Extend](https://developer.workday.com/login)
+    * [Workday Community](https://community.workday.com/)
     
 
 * Quick Links
