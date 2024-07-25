@@ -192,11 +192,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (14)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (12)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (12)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (14)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Summer Essentials (34)](https://www.smithbrothersfarms.com/summer-essentials)
+    * [Summer Essentials (35)](https://www.smithbrothersfarms.com/summer-essentials)
         
     * [Milk & Cream (44)](https://www.smithbrothersfarms.com/milk-cream)
         
@@ -238,7 +238,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (51)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (50)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (4)](https://www.smithbrothersfarms.com/blocks)
@@ -247,7 +247,7 @@ Hi
             
         * [Shreds & Crumbles (11)](https://www.smithbrothersfarms.com/shreds-crumbles)
             
-        * [Cream Cheese (9)](https://www.smithbrothersfarms.com/cream-cheese)
+        * [Cream Cheese (8)](https://www.smithbrothersfarms.com/cream-cheese)
             
         * [Artisan Cheese (10)](https://www.smithbrothersfarms.com/other-cheese)
             
@@ -256,7 +256,7 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (85)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (86)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
@@ -267,17 +267,17 @@ Hi
             
         * [Salad Kits (24)](https://www.smithbrothersfarms.com/salads)
             
-        * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
+        * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (59)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (58)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (22)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
-        * [Bagels (10)](https://www.smithbrothersfarms.com/bagels)
+        * [Bagels (9)](https://www.smithbrothersfarms.com/bagels)
             
         * [Breakfast Treats (14)](https://www.smithbrothersfarms.com/breakfast-treats)
             
