@@ -7,7 +7,7 @@
 * [Investors](http://investors.whirlpoolcorp.com/)
 * [Trade](https://www.whirlpoolpro.com/)
 * [Licensing](https://www.whirlpoolcorp.com/licensing/)
-* [Product Recall](http://repair.whirlpoolcorp.com/)
+* [Product Recall](https://www.whirlpoolcorp.com/recall)
 * [Product Donations & Corp. Funding](https://www.whirlpoolcorp.com/corporate-giving-guidelines/)
 * [Contact Whirlpool Corporation](https://www.whirlpoolcorp.com/contact/)
 
