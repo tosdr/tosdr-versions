@@ -246,16 +246,23 @@ Footer
 ### Company
 
 * [Investors](https://investors.23andme.com/)
-* [About Us](https://www.23andme.com/en-gb/about/)
-* [Stories](https://www.23andme.com/en-gb/stories/)
-* [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
-* [Reporter Inquiries](mailto:press@23andMe.com)
 * [Blog](https://blog.23andme.com/)
-* [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
 * [Careers](https://www.23andme.com/en-gb/careers/)
+* [Reporter Inquiries](mailto:press@23andMe.com)
 * [Return & Refund Policy](https://eu.customercare.23andme.com/hc/en-us/articles/204704750)
 * [Customer Care](https://eu.customercare.23andme.com/hc/en-us/)
 * [Site Map](https://www.23andme.com/en-gb/sitemap/)
+
+### Learn
+
+* [About Us](https://www.23andme.com/en-gb/about/)
+* [How it Works](https://www.23andme.com/en-gb/howitworks/)
+* [Science](https://www.23andme.com/en-gb/genetic-science/)
+* [Privacy](https://www.23andme.com/en-gb/privacy/)
+* [Research](https://www.23andme.com/en-gb/research/)
+* [Stories](https://www.23andme.com/en-gb/stories/)
+* [Diversity, Equity & Inclusion](https://www.23andme.com/en-gb/diversity-equity-inclusion/)
+* [Genetics Learning Hub](https://www.23andme.com/en-gb/topics/)
 * [Business Development](https://therapeutics.23andme.com/contact/)
 
 ### Legal
