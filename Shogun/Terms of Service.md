@@ -254,7 +254,7 @@ Capabilities
 
 Resources
 
-[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[Guides](https://getshogun.com/guides)[Personalization Use Cases](https://getshogun.com/use-case-library/personalization)[A/B Testing Use Cases](https://getshogun.com/use-case-library/ab-testing)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
+[Case Studies](https://getshogun.com/case-studies/)[Blog](https://getshogun.com/learn/)[A/B Testing Guide](https://getshogun.com/guides/ecommerce-ab-testing)[CRO Guide](https://getshogun.com/guides/ecommerce-conversion-rate-optimization)[Personalization Guide](https://getshogun.com/guides/ecommerce-personalization)[Personalization Use Cases](https://getshogun.com/use-case-library/personalization)[A/B Testing Use Cases](https://getshogun.com/use-case-library/ab-testing)[Partner Portal](https://getshogun.com/partners/)[Help Center](https://getshogun.com/help/en)
 
 Company
 
