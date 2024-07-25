@@ -193,6 +193,13 @@ YesNo
 
 Submit
 
+Need more help?
+---------------
+
+### Try these next steps:
+
+[Post to the help community Get answers from community members](https://support.google.com/youtube/community?hl=en&help_center_link=[2801939,%22Hate%20speech%20policy%22])
+
 true
 
 [YouTube policies](https://support.google.com/youtube/topic/2803176?hl=en&ref_topic=6151248)
@@ -245,7 +252,7 @@ Google apps
 
 Main menu
 
-17265782212380920161
+8827829342137782894
 
 true
 
