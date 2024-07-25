@@ -1,7 +1,5 @@
 [](https://www.tunemymusic.com/)
 
-Quick actions[Plans](https://www.tunemymusic.com/plans)[Help](https://www.tunemymusic.com/help)
-
 English
 
 عربي
@@ -115,21 +113,15 @@ This service is in no way associated with YouTube, YouTube Music, Spotify, Googl
   
 **Spotify** - By using TuneMyMusic, You are agreeing to be bound by the [Spotify Terms and Conditions of Use](https://www.spotify.com/legal/end-user-agreement/). TuneMyMusic uses the [Spotify API Services](https://developer.spotify.com/terms/). TuneMyMusic uses Spotify user information to access, provide and display Spotify datas on TuneMyMusic. TuneMyMusic will be able to retrieve user Spotify username, user private playlists, liked tracks, liked albums and liked artists. User datas are only used to provide TuneMyMusic services and are not shared with any external service. You can always revoke TuneMyMusic access to your data via the [Spotify](https://www.spotify.com/account/apps/) Apps with access to your Spotify information page and can also contact TuneMyMusic with any questions or complaints [here](https://www.tunemymusic.com/contact-us).
 
-### Always happy to help you
-
-Feel free to ask any questions
-
-[FAQ](https://www.tunemymusic.com/help)[Contact us](https://www.tunemymusic.com/contact-us)
-
 Tune My Music
 
 [Home](https://www.tunemymusic.com/)
 
 [My settings](https://www.tunemymusic.com/settings)
 
-[My Playlist Syncs](https://www.tunemymusic.com/settings?tab=sync)
-
 [Blog](https://blog.tunemymusic.com/)
+
+[Plans](https://www.tunemymusic.com/plans)
 
 Help
 
