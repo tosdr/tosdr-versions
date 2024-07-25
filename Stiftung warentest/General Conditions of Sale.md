@@ -358,8 +358,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/thema/unternehmen/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Über uns](https://www.test.de/unternehmen/)
+* [Presse](https://www.test.de/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v111250837.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v112367108.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -447,7 +447,7 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -586,29 +586,29 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Amazon Prime Video: Nervige Werbung ohne Rechts­grund – so wehren Sie sich](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Nervige Werbung ohne Rechtsgrund – so wehren Sie sich")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Kopf­schmerz­mittel im Test: Was gegen verschiedene Arten von Kopfweh wirkt](https://www.test.de/Kopfschmerzmittel-im-Test-Was-gegen-verschiedene-Arten-von-Kopfweh-wirkt-5909247-0/ "Kopfschmerzmittel im Test - Was gegen verschiedene Arten von Kopfweh wirkt")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm-Spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehm-Spritzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
 
 Fußbereich
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -1050,8 +1050,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/thema/unternehmen/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Über uns](https://www.test.de/unternehmen/)
+* [Presse](https://www.test.de/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -1403,8 +1403,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/thema/unternehmen/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Über uns](https://www.test.de/unternehmen/)
+* [Presse](https://www.test.de/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Tests & Themen](https://www.test.de/thema/)
@@ -2151,7 +2151,7 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -2322,7 +2322,7 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -2481,11 +2481,11 @@ Mehr Infos zum Ausdrucken oder Speichern von digitalen Inhalten finden Sie [hier
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Bezahl­möglich­keiten
 ---------------------
@@ -2724,21 +2724,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Amazon Prime Video: Nervige Werbung ohne Rechts­grund – so wehren Sie sich](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Nervige Werbung ohne Rechtsgrund – so wehren Sie sich")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Kopf­schmerz­mittel im Test: Was gegen verschiedene Arten von Kopfweh wirkt](https://www.test.de/Kopfschmerzmittel-im-Test-Was-gegen-verschiedene-Arten-von-Kopfweh-wirkt-5909247-0/ "Kopfschmerzmittel im Test - Was gegen verschiedene Arten von Kopfweh wirkt")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm-Spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehm-Spritzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
 
      ![](https://cdn.test.de/file/image/63/a1/606b5035-a41f-4b3b-8727-c0ee0552058c-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2780,45 +2780,45 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Amazon Prime Video: Nervige Werbung ohne Rechts­grund – so wehren Sie sich](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Nervige Werbung ohne Rechtsgrund – so wehren Sie sich")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Kopf­schmerz­mittel im Test: Was gegen verschiedene Arten von Kopfweh wirkt](https://www.test.de/Kopfschmerzmittel-im-Test-Was-gegen-verschiedene-Arten-von-Kopfweh-wirkt-5909247-0/ "Kopfschmerzmittel im Test - Was gegen verschiedene Arten von Kopfweh wirkt")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm-Spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehm-Spritzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Erdnüsse gesalzen von Ültje](https://www.test.de/Verpackungsaerger-Erdnuesse-gesalzen-von-Ueltje-5919191-0/ "Verpackungsärger - Erdnüsse gesalzen von Ültje")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Verpackungs­ärger: Caffè Crema von Tchibo](https://www.test.de/verpackungsaerger-caffe-crema-von-tchibo-6066168-0/ "Verpackungsärger - Caffè Crema von Tchibo")
-* [Amazon Prime Video: Nervige Werbung ohne Rechts­grund – so wehren Sie sich](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Nervige Werbung ohne Rechtsgrund – so wehren Sie sich")
+* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
+* [Kopf­schmerz­mittel im Test: Was gegen verschiedene Arten von Kopfweh wirkt](https://www.test.de/Kopfschmerzmittel-im-Test-Was-gegen-verschiedene-Arten-von-Kopfweh-wirkt-5909247-0/ "Kopfschmerzmittel im Test - Was gegen verschiedene Arten von Kopfweh wirkt")
+* [Kreuz­linienlaser im Test: Moderne Alternative zur Wasser­waage](https://www.test.de/Kreuzlinienlaser-im-Test-Moderne-Alternative-zur-Wasserwaage-5936879-0/ "Kreuzlinienlaser im Test - Moderne Alternative zur Wasserwaage")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm-Spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehm-Spritzen")
+* [Trock­nerbälle von Wenko und Xavax im Schnell­test: Weder Zeit noch Strom gespart](https://www.test.de/Schnelltest-Trocknerbaelle-von-Wenko-und-Xavax-Weder-Zeit-noch-Strom-gespart-5953351-0/ "Trocknerbälle von Wenko und Xavax im Schnelltest - Weder Zeit noch Strom gespart")
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -2848,9 +2848,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -2872,9 +2872,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
