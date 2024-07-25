@@ -54,7 +54,6 @@
     * ### [Education](https://www.cairnspost.com.au/cairns-education)
         
         * [Schools Hub](https://www.cairnspost.com.au/cairns-education/schools-hub)
-        * [Best in Class](https://www.cairnspost.com.au/topics/best-in-class)
         * [Tertiary](https://www.cairnspost.com.au/cairns-education/tertiary)
         * [Early Education](https://www.cairnspost.com.au/cairns-education/early-education)
         * [Advice](https://www.cairnspost.com.au/cairns-education/advice)
@@ -66,10 +65,6 @@
     
 * [National](https://www.cairnspost.com.au/news/national)
     
-    * ### [The Voice](https://www.cairnspost.com.au/news/national/the-voice)
-        
-    * ### [Coronavirus](https://www.cairnspost.com.au/coronavirus)
-        
     * ### [New South Wales](https://www.cairnspost.com.au/news/nsw)
         
     * ### [Northern Territory](https://www.cairnspost.com.au/news/northern-territory)
@@ -157,7 +152,6 @@
     * ### [TV & Radio](https://www.cairnspost.com.au/entertainment/television)
         
         * [Reality](https://www.cairnspost.com.au/entertainment/television/reality)
-        * [Shark Quiz](https://www.cairnspost.com.au/entertainment/shark-quiz)
     * ### [Competitions](https://www.cairnspost.com.au/entertainment/competitions)
         
     
@@ -183,9 +177,10 @@
         
     * ### [Games](https://www.cairnspost.com.au/lifestyle/games)
         
+        * [Shark Quiz](https://www.cairnspost.com.au/entertainment/shark-quiz)
+        * [Sudoku](https://www.cairnspost.com.au/lifestyle/games/sudoku)
         * [Crossword](https://www.cairnspost.com.au/lifestyle/games/crossword)
         * [Cryptic Crossword](https://www.cairnspost.com.au/lifestyle/games/cryptic-crossword)
-        * [Sudoku](https://www.cairnspost.com.au/lifestyle/games/sudoku)
     * ### [Horoscopes](https://www.cairnspost.com.au/lifestyle/horoscopes)
         
     * ### [Technology](https://www.cairnspost.com.au/technology)
