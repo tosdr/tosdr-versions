@@ -112,6 +112,30 @@
     * [Transhumanism](https://thefreedomarticles.com/category/conspiracy/transhumanism/)
     * [9/11 Inside Job](https://thefreedomarticles.com/category/conspiracy/911-inside-job/)
     
+    [![chisinau forum 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![chisinau forum 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/chisinau-forum-183x96.png)](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
+    [![DEW Laser Camera](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![DEW Laser Camera](https://thefreedomarticles.com/wp-content/uploads/2024/07/DEW-Lasers-ULEZ-Camera-183x96.jpg)](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
+    
+    [DEW Lasers Disguised as ULEZ Cameras in the UK – Video #123](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
+    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![magic bullet 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![magic bullet 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/magic-bullet-183x96.jpg)](https://thefreedomarticles.com/magic-bullet-theory-returns-2024-staged-trump-assassination/)
@@ -120,29 +144,13 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 18, 2024
     
-    [![Trump Assassination Hoax](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![DEW Laser Camera](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![Trump Assassination Hoax](https://thefreedomarticles.com/wp-content/uploads/2024/07/Trump-Assassination-Hoax-183x96.png)](https://thefreedomarticles.com/20-key-questions-exposing-the-trump-assassination-hoax/)
+    ![DEW Laser Camera](https://thefreedomarticles.com/wp-content/uploads/2024/07/DEW-Lasers-ULEZ-Camera-183x96.jpg)](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
     
-    [20 Key Questions Exposing the Trump Assassination Hoax – Video #120](https://thefreedomarticles.com/20-key-questions-exposing-the-trump-assassination-hoax/)
+    [DEW Lasers Disguised as ULEZ Cameras in the UK – Video #123](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 17, 2024
-    
-    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
-    
-    [“The Predators vs. the People” Book Review & Analysis – Part 3 – Video #119](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 12, 2024
-    
-    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-2/)
-    
-    [“The Predators vs. the People” Book Review & Analysis – Part 2 – Video #118](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-2/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 11, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
     
     [![methane mitigation scam](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -167,14 +175,6 @@
     [Managed Retreat to Smart Cities: Forced Relocation Land Grab – Video #112](https://thefreedomarticles.com/managed-retreat-to-smart-cities-forced-relocation/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 27, 2024
-    
-    [![climate change law](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![climate change law](https://thefreedomarticles.com/wp-content/uploads/2024/04/climate-change-law-precedent-183x96.jpg)](https://thefreedomarticles.com/manmade-climate-change-hoax-becomes-embedded-in-law/)
-    
-    [Manmade Climate Change Hoax Becomes Embedded in Law – Video #96](https://thefreedomarticles.com/manmade-climate-change-hoax-becomes-embedded-in-law/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 12, 2024
     
     [![Musk vs Icke](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -272,6 +272,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 5, 2017
     
+    [![DEW Laser Camera](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![DEW Laser Camera](https://thefreedomarticles.com/wp-content/uploads/2024/07/DEW-Lasers-ULEZ-Camera-183x96.jpg)](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
+    
+    [DEW Lasers Disguised as ULEZ Cameras in the UK – Video #123](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![Maui DEW People Deliberately Blocked](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Maui DEW People Deliberately Blocked](https://thefreedomarticles.com/wp-content/uploads/2023/08/24-Maui-DEW-People-Deliberately-Blocked-183x96.jpg)](https://thefreedomarticles.com/maui-dew-attack-people-deliberately-blocked-in/)
@@ -295,14 +303,6 @@
     [Maui DEW Attack – Deeper Aspects – Video #21](https://thefreedomarticles.com/maui-dew-attack-deeper-aspects-video-21/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 15, 2023
-    
-    [![DEW](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![DEW](https://thefreedomarticles.com/wp-content/uploads/2023/08/dew-183x96.jpg)](https://thefreedomarticles.com/aloha-dew-lahaina-maui-hit-by-directed-energy-weapons/)
-    
-    [Aloha DEW: Lahaina, Maui Hit by Directed Energy Weapons – Video #20](https://thefreedomarticles.com/aloha-dew-lahaina-maui-hit-by-directed-energy-weapons/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 13, 2023
     
     [![magic bullet 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -424,6 +424,22 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 24, 2024
     
+    [![chisinau forum 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![chisinau forum 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/chisinau-forum-183x96.png)](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
+    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
@@ -439,22 +455,6 @@
     [“The Predators vs. the People” Book Review & Analysis – Part 2 – Video #118](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-2/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 11, 2024
-    
-    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-1/)
-    
-    [“The Predators vs. the People” Book Review & Analysis – Part 1 – Video #117](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-1/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 11, 2024
-    
-    [![One Health](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![One Health](https://thefreedomarticles.com/wp-content/uploads/2024/05/One-Health-183x96.png)](https://thefreedomarticles.com/un-who-one-health-precursor-to-one-world-government/)
-    
-    [UN/WHO One Health: Precursor to One World Government – Video #108](https://thefreedomarticles.com/un-who-one-health-precursor-to-one-world-government/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) May 26, 2024
     
     [![teal swan satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -520,6 +520,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 13, 2024
     
+    [![DEW Laser Camera](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![DEW Laser Camera](https://thefreedomarticles.com/wp-content/uploads/2024/07/DEW-Lasers-ULEZ-Camera-183x96.jpg)](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
+    
+    [DEW Lasers Disguised as ULEZ Cameras in the UK – Video #123](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![COVID trends feb 2022](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![COVID trends feb 2022](https://thefreedomarticles.com/wp-content/uploads/2022/02/COVID-trends-feb-2022-183x96.jpg)](https://thefreedomarticles.com/covid-trends-7-current-operation-coronavirus-february-2022/)
@@ -543,14 +551,6 @@
     [More Evidence the COVID Fake-Vaccine is Embedding MAC Addresses](https://thefreedomarticles.com/vaccine-mac-address-bluetooth-more-evidence/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 30, 2021
-    
-    [![radiation-COVID connection](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![radiation-COVID connection](https://thefreedomarticles.com/wp-content/uploads/2021/03/radiation-COVID-connection-183x96.jpg)](https://thefreedomarticles.com/study-analyzes-wireless-radiation-covid-connection/)
-    
-    [Study Analyzes Wireless Radiation-COVID Connection](https://thefreedomarticles.com/study-analyzes-wireless-radiation-covid-connection/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 16, 2021
     
     [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -586,6 +586,14 @@
     
     [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
+    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
     ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
     
     [“The Predators vs. the People” Book Review & Analysis – Part 3 – Video #119](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
@@ -608,13 +616,13 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 11, 2024
     
-    [![god of freemasonry demiurge satan lucifer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2090%2096'%3E%3C/svg%3E)
+    [![DEW Laser Camera](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![god of freemasonry demiurge satan lucifer](https://thefreedomarticles.com/wp-content/uploads/2018/02/god-of-freemasonry-demiurge-satan-lucifer.jpg)](https://thefreedomarticles.com/god-of-freemasonry-exposed/)
+    ![DEW Laser Camera](https://thefreedomarticles.com/wp-content/uploads/2024/07/DEW-Lasers-ULEZ-Camera-183x96.jpg)](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
     
-    [The God of Freemasonry Exposed](https://thefreedomarticles.com/god-of-freemasonry-exposed/)
+    [DEW Lasers Disguised as ULEZ Cameras in the UK – Video #123](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 8, 2018
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
     
     [![methane mitigation scam](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -639,14 +647,6 @@
     [Managed Retreat to Smart Cities: Forced Relocation Land Grab – Video #112](https://thefreedomarticles.com/managed-retreat-to-smart-cities-forced-relocation/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 27, 2024
-    
-    [![obesity agenda](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![obesity agenda](https://thefreedomarticles.com/wp-content/uploads/2024/01/obesity-agenda-183x96.jpg)](https://thefreedomarticles.com/what-3-things-is-tackling-obesity-is-a-cover-for/)
-    
-    [What 3 Things is Tackling Obesity is a Cover For? – Video #64](https://thefreedomarticles.com/what-3-things-is-tackling-obesity-is-a-cover-for/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 27, 2024
     
     [![transgenderism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1279,6 +1279,22 @@
     * [Venezuela](https://thefreedomarticles.com/category/geopolitics/venezuela/)
     * [WW3](https://thefreedomarticles.com/category/geopolitics/world-war-3/)
     
+    [![chisinau forum 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![chisinau forum 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/chisinau-forum-183x96.png)](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
+    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
@@ -1297,19 +1313,11 @@
     
     [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-1/)
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
     
-    [“The Predators vs. the People” Book Review & Analysis – Part 1 – Video #117](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-1/)
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 11, 2024
-    
-    [![Zionist-Nazi collaboration](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Zionist-Nazi collaboration](https://thefreedomarticles.com/wp-content/uploads/2024/07/zionist-nazi-haavara-183x96.jpg)](https://thefreedomarticles.com/haavara-agreement-zionist-nazi-collaboration/)
-    
-    [The Haavara Agreement and Zionist-Nazi Collaboration – Video #113](https://thefreedomarticles.com/haavara-agreement-zionist-nazi-collaboration/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 2, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
     
     [![east west false dichotomy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1334,14 +1342,6 @@
     [2 Main Reasons for the Lab Leak Limited Hangout – Video #10](https://thefreedomarticles.com/2-main-reasons-for-the-lab-leak-limited-hangout-video-10/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 15, 2023
-    
-    [![nuclear postures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![nuclear postures](https://thefreedomarticles.com/wp-content/uploads/2022/11/nuclear-postures-183x96.jpg)](https://thefreedomarticles.com/nuclear-postures-and-posturing-video-3/)
-    
-    [Nuclear Postures and Posturing – Video #3](https://thefreedomarticles.com/nuclear-postures-and-posturing-video-3/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2022
     
     [![east west false dichotomy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1377,6 +1377,14 @@
     
     [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
+    [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
     ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-183x96.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
     
     [“The Predators vs. the People” Book Review & Analysis – Part 3 – Video #119](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
@@ -1398,14 +1406,6 @@
     [“The Predators vs. the People” Book Review & Analysis – Part 1 – Video #117](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-1/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 11, 2024
-    
-    [![Zionist-Nazi collaboration](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Zionist-Nazi collaboration](https://thefreedomarticles.com/wp-content/uploads/2024/07/zionist-nazi-haavara-183x96.jpg)](https://thefreedomarticles.com/haavara-agreement-zionist-nazi-collaboration/)
-    
-    [The Haavara Agreement and Zionist-Nazi Collaboration – Video #113](https://thefreedomarticles.com/haavara-agreement-zionist-nazi-collaboration/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 2, 2024
     
     [![nuclear postures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1559,6 +1559,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 10, 2017
     
+    [![chisinau forum 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![chisinau forum 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/chisinau-forum-183x96.png)](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![same side](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![same side](https://thefreedomarticles.com/wp-content/uploads/2024/04/All-on-Same-Side-183x96.jpg)](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
@@ -1582,14 +1590,6 @@
     [Iran Attacks Israel: Zionist Regime Gets the Retaliation it Provoked – Video #98](https://thefreedomarticles.com/iran-attacks-israel-zionist-regime-gets-the-retaliation-it-provoked/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 13, 2024
-    
-    [![Sabbatean world wars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Sabbatean world wars](https://thefreedomarticles.com/wp-content/uploads/2024/02/Dark-Force-World-Wars-183x96.jpg)](https://thefreedomarticles.com/dark-force-that-caused-ww1-ww2-aiming-for-ww3-part-2/)
-    
-    [The Dark Force that Caused WW1 and WW2 … and is Aiming for WW3 – Part 2 – Video #76](https://thefreedomarticles.com/dark-force-that-caused-ww1-ww2-aiming-for-ww3-part-2/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 25, 2024
     
 * [Health](https://thefreedomarticles.com/category/natural-health/)
     
@@ -1767,6 +1767,14 @@
     * [Whistleblowers & Activists](https://thefreedomarticles.com/category/solutions/whistleblowers-truth-activists/)
     * [Sovereignty](https://thefreedomarticles.com/category/solutions/sovereignty/)
     
+    [![iurie rosca](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![iurie rosca](https://thefreedomarticles.com/wp-content/uploads/2024/07/iurie-rosca-183x96.jpg)](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
+    
+    [They’re Going After Former Moldovan PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![usury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![usury](https://thefreedomarticles.com/wp-content/uploads/2024/07/usury-183x96.jpg)](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
@@ -1790,14 +1798,6 @@
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 12, 2024
-    
-    [![enlightened activism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![enlightened activism](https://thefreedomarticles.com/wp-content/uploads/2024/05/Enlightened-Activism-183x96.jpg)](https://thefreedomarticles.com/spiritual-warriors-enlightened-activism/)
-    
-    [Spiritual Warriors, Enlightened Activism – Video #107](https://thefreedomarticles.com/spiritual-warriors-enlightened-activism/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) May 10, 2024
     
     [![real revolution](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1863,6 +1863,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 25, 2013
     
+    [![iurie rosca](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![iurie rosca](https://thefreedomarticles.com/wp-content/uploads/2024/07/iurie-rosca-183x96.jpg)](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
+    
+    [They’re Going After Former Moldovan PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
+    
     [![Assange goes free](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Assange goes free](https://thefreedomarticles.com/wp-content/uploads/2024/06/110-assange-183x96.png)](https://thefreedomarticles.com/assange-goes-free/)
@@ -1886,14 +1894,6 @@
     [Underwater UFOs, Tucker Carlson & Bill Cooper – Video #102](https://thefreedomarticles.com/underwater-ufos-tucker-carlson-bill-cooper/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 23, 2024
-    
-    [![International Satanic Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![International Satanic Network](https://thefreedomarticles.com/wp-content/uploads/2024/04/International-Satanic-Network-183x96.jpg)](https://thefreedomarticles.com/thoughts-on-my-book-international-satanic-network-exposed/)
-    
-    [Thoughts on My Book “The International Satanic Network Exposed” – Video #97](https://thefreedomarticles.com/thoughts-on-my-book-international-satanic-network-exposed/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 12, 2024
     
     [![mentally sovereign](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -2110,13 +2110,13 @@
 
 Breaking News
 
-[The Magic Bullet Theory Returns: Staged Trump Assassination – Video #121](https://thefreedomarticles.com/magic-bullet-theory-returns-2024-staged-trump-assassination/)
+[Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
 
-[20 Key Questions Exposing the Trump Assassination Hoax – Video #120](https://thefreedomarticles.com/20-key-questions-exposing-the-trump-assassination-hoax/)
+[They’re Going After Former Moldovan PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
 
-[“The Predators vs. the People” Book Review & Analysis – Part 3 – Video #119](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-3/)
+[DEW Lasers Disguised as ULEZ Cameras in the UK – Video #123](https://thefreedomarticles.com/dew-lasers-disguised-as-ulez-cameras-in-uk-video-123/)
 
-[“The Predators vs. the People” Book Review & Analysis – Part 2 – Video #118](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-2/)
+[“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
 
@@ -2246,13 +2246,29 @@ Last updated on July 10, 2019
 
 ##### Recent Posts
 
+* [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
+    
+    ![Predators vs People](https://thefreedomarticles.com/wp-content/uploads/2024/07/The-Predators-vs-The-People-80x80.jpg)](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [“The Predators vs. the People” Book Review & Analysis – Part 4 – Video #122](https://thefreedomarticles.com/the-predators-vs-the-people-book-review-analysis-part-4-video-122/)
+    
+    [Book Reviews](https://thefreedomarticles.com/category/general-miscellaneous/book-reviews/), [China](https://thefreedomarticles.com/category/geopolitics/china/), [Geopolitics](https://thefreedomarticles.com/category/geopolitics/), [Israel & Zionism](https://thefreedomarticles.com/category/geopolitics/israel-zionism/), [NWO](https://thefreedomarticles.com/category/conspiracy/nwo-new-world-order/), [Secret Societies](https://thefreedomarticles.com/category/conspiracy/secret-societies/), [Videos](https://thefreedomarticles.com/category/videos/)
+    
+* [![magic bullet 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
+    
+    ![magic bullet 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/magic-bullet-80x80.jpg)](https://thefreedomarticles.com/magic-bullet-theory-returns-2024-staged-trump-assassination/)
+    
+    [The Magic Bullet Theory Returns: Staged Trump Assassination – Video #121](https://thefreedomarticles.com/magic-bullet-theory-returns-2024-staged-trump-assassination/)
+    
+    [False Flag Ops](https://thefreedomarticles.com/category/conspiracy/false-flag-ops-staged-terror-events/), [Propaganda](https://thefreedomarticles.com/category/propaganda-fake-news/), [Videos](https://thefreedomarticles.com/category/videos/)
+    
 * [![Trump Assassination Hoax](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
     
     ![Trump Assassination Hoax](https://thefreedomarticles.com/wp-content/uploads/2024/07/Trump-Assassination-Hoax-80x80.png)](https://thefreedomarticles.com/20-key-questions-exposing-the-trump-assassination-hoax/)
     
     [20 Key Questions Exposing the Trump Assassination Hoax – Video #120](https://thefreedomarticles.com/20-key-questions-exposing-the-trump-assassination-hoax/)
     
-    [Propaganda](https://thefreedomarticles.com/category/propaganda-fake-news/), [Videos](https://thefreedomarticles.com/category/videos/)
+    [False Flag Ops](https://thefreedomarticles.com/category/conspiracy/false-flag-ops-staged-terror-events/), [Propaganda](https://thefreedomarticles.com/category/propaganda-fake-news/), [Videos](https://thefreedomarticles.com/category/videos/)
     
 * [![Predators vs People](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
     
@@ -2302,22 +2318,6 @@ Last updated on July 10, 2019
     
     [Agenda 2030](https://thefreedomarticles.com/category/conspiracy/agenda-2030-agenda-21/), [Smart Agenda](https://thefreedomarticles.com/category/conspiracy/smart-agenda/), [Videos](https://thefreedomarticles.com/category/videos/)
     
-* [![Zionist-Nazi collaboration](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Zionist-Nazi collaboration](https://thefreedomarticles.com/wp-content/uploads/2024/07/zionist-nazi-haavara-80x80.jpg)](https://thefreedomarticles.com/haavara-agreement-zionist-nazi-collaboration/)
-    
-    [The Haavara Agreement and Zionist-Nazi Collaboration – Video #113](https://thefreedomarticles.com/haavara-agreement-zionist-nazi-collaboration/)
-    
-    [Israel & Zionism](https://thefreedomarticles.com/category/geopolitics/israel-zionism/), [Revisionist History](https://thefreedomarticles.com/category/general-miscellaneous/revisionist-history/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![managed-retreat](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![managed-retreat](https://thefreedomarticles.com/wp-content/uploads/2024/06/112-managed-retreat-80x80.png)](https://thefreedomarticles.com/managed-retreat-to-smart-cities-forced-relocation/)
-    
-    [Managed Retreat to Smart Cities: Forced Relocation Land Grab – Video #112](https://thefreedomarticles.com/managed-retreat-to-smart-cities-forced-relocation/)
-    
-    [Agenda 2030](https://thefreedomarticles.com/category/conspiracy/agenda-2030-agenda-21/), [Manmade Climate Change Hoax](https://thefreedomarticles.com/category/propaganda-fake-news/manmade-climate-change-hoax/), [Smart Agenda](https://thefreedomarticles.com/category/conspiracy/smart-agenda/), [UN](https://thefreedomarticles.com/category/conspiracy/un-united-nations/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
 
 ##### Our Contributors
 
@@ -2327,7 +2327,7 @@ Last updated on July 10, 2019
 
 ##### Tag Cloud
 
-[California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [JFK](https://thefreedomarticles.com/tag/jfk/) [jihad](https://thefreedomarticles.com/tag/jihad/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [Russia](https://thefreedomarticles.com/tag/russia/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [NWO](https://thefreedomarticles.com/tag/nwo/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [islam](https://thefreedomarticles.com/tag/islam/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [NSA](https://thefreedomarticles.com/tag/nsa/) [Google](https://thefreedomarticles.com/tag/google/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [R2P](https://thefreedomarticles.com/tag/r2p/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [psyops](https://thefreedomarticles.com/tag/psyops/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [WW3](https://thefreedomarticles.com/tag/ww3/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [Syria](https://thefreedomarticles.com/tag/syria/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [Archon](https://thefreedomarticles.com/tag/archon/) [IoT](https://thefreedomarticles.com/tag/iot/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [EMF](https://thefreedomarticles.com/tag/emf/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [9/11](https://thefreedomarticles.com/tag/911/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [CIA](https://thefreedomarticles.com/tag/cia/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [Iran](https://thefreedomarticles.com/tag/iran/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [iodine](https://thefreedomarticles.com/tag/iodine/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [SSP](https://thefreedomarticles.com/tag/ssp/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [Putin](https://thefreedomarticles.com/tag/putin/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [ISIS](https://thefreedomarticles.com/tag/isis/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [5G](https://thefreedomarticles.com/tag/5g/) [IRS](https://thefreedomarticles.com/tag/irs/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [V2K](https://thefreedomarticles.com/tag/v2k/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [israel](https://thefreedomarticles.com/tag/israel/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/)
+[cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [SSP](https://thefreedomarticles.com/tag/ssp/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [Google](https://thefreedomarticles.com/tag/google/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [ISIS](https://thefreedomarticles.com/tag/isis/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [NSA](https://thefreedomarticles.com/tag/nsa/) [9/11](https://thefreedomarticles.com/tag/911/) [iodine](https://thefreedomarticles.com/tag/iodine/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [islam](https://thefreedomarticles.com/tag/islam/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [V2K](https://thefreedomarticles.com/tag/v2k/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [IoT](https://thefreedomarticles.com/tag/iot/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [israel](https://thefreedomarticles.com/tag/israel/) [EMF](https://thefreedomarticles.com/tag/emf/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [Putin](https://thefreedomarticles.com/tag/putin/) [Iran](https://thefreedomarticles.com/tag/iran/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [Russia](https://thefreedomarticles.com/tag/russia/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [CIA](https://thefreedomarticles.com/tag/cia/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [Syria](https://thefreedomarticles.com/tag/syria/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [NWO](https://thefreedomarticles.com/tag/nwo/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [jihad](https://thefreedomarticles.com/tag/jihad/) [IRS](https://thefreedomarticles.com/tag/irs/) [WW3](https://thefreedomarticles.com/tag/ww3/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [JFK](https://thefreedomarticles.com/tag/jfk/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [R2P](https://thefreedomarticles.com/tag/r2p/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [5G](https://thefreedomarticles.com/tag/5g/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [psyops](https://thefreedomarticles.com/tag/psyops/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [Archon](https://thefreedomarticles.com/tag/archon/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/)
 
 ##### Follow Us
 
@@ -2364,7 +2364,7 @@ Our research takes lots of time and energy. Just $1 a month funds investigative 
 
 [![web analytics](https://c.statcounter.com/12238001/0/7e594709/1/)](https://statcounter.com/ "web analytics")
 
-Monday, July 22, 2024
+Thursday, July 25, 2024
 
       Please leave this field empty.
 
