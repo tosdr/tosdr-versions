@@ -21,16 +21,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Share this page!
 
-17:25:50
+12:41:22
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Monday, 22 July, 2024, week 30
+Thursday, 25 July, 2024, week 30
 
-[Pi Approximation Day](https://en.wikipedia.org/wiki/Pi_Day)
+Culinarians Day
 
-Sun: ↑ 05:03 ↓ 21:32 (16h 29m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 05:08 ↓ 21:27 (16h 19m) - [More info](https://time.is/United_Kingdom#time_zone) - [Make United Kingdom time default](https://time.is/h/28359f) - [Add to favorite locations](https://time.is/)
 
 ×
 
