@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [How to stay healthy during the COVID-19 summertime surge](https://www.sciencenews.org/article/summer-covid-19-surge)
+            ### [Sepsis tests take days, putting patients at risk. A new method may cut wait time](https://www.sciencenews.org/article/new-sepsis-test-cut-result-wait-time)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 19, 2024
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")11 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [The odds of developing long COVID dropped as the coronavirus evolved](https://www.sciencenews.org/article/odds-long-covid-dropped-coronavirus-evolved)
+            ### [Some melanoma cancer cells may punch their way through the body](https://www.sciencenews.org/article/cancer-cells-tunnel-through-body)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")July 17, 2024
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 23, 2024
             
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Psilocybin temporarily dissolves brain networks](https://www.sciencenews.org/article/psilocybin-brain-networks)
+            ### [How to stay healthy during the COVID-19 summertime surge](https://www.sciencenews.org/article/summer-covid-19-surge)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")July 17, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")July 19, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Some melanoma cancer cells may punch their way through the body](https://www.sciencenews.org/article/cancer-cells-tunnel-through-body)
+            
+            By [Claire Yuan](https://www.sciencenews.org/author/claire-yuan "Posts by Claire Yuan")July 23, 2024
+            
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen)
+            
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")July 22, 2024
+            
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [Can bioluminescent ‘milky seas’ be predicted?](https://www.sciencenews.org/article/bioluminescent-milky-seas-predicted)
             
             By [Bas den Hond](https://www.sciencenews.org/author/bas-den-hond "Posts by Bas den Hond")July 18, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Psilocybin temporarily dissolves brain networks](https://www.sciencenews.org/article/psilocybin-brain-networks)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")July 17, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Bird flu has been invading the brains of mammals. Here’s why](https://www.sciencenews.org/article/bird-mammal-brain-outbreak-influenza)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")July 11, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen)
+            
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")July 22, 2024
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [_Twisters_ asks if you can 'tame' a tornado. We have the answer](https://www.sciencenews.org/article/twisters-movie-tame-tornado-fire)
             
@@ -150,18 +156,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Bas den Hond](https://www.sciencenews.org/author/bas-den-hond "Posts by Bas den Hond")July 18, 2024
             
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
-            
-            ### [This AI can predict ship-sinking ‘freak’ waves minutes in advance](https://www.sciencenews.org/article/ai-predict-ship-sinking-freak-waves)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")July 18, 2024
-            
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Chemistry](https://www.sciencenews.org/topic/chemistry)
+            
+            ### [A new element on the periodic table might be within reach](https://www.sciencenews.org/article/new-element-120-periodic-table) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 23, 2024
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Can light spark superconductivity? A new study reignites debate](https://www.sciencenews.org/article/light-superconductivity-cuprates)
             
@@ -173,18 +179,18 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Payal Dhar](https://www.sciencenews.org/author/payal-dhar "Posts by Payal Dhar")July 15, 2024
             
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [Advanced nuclear reactors need a different type of uranium. Here’s 4 things to know](https://www.sciencenews.org/article/nuclear-fuel-reactors-uranium) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")July 3, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+    * * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [A planet needs to start with a lot of water to become like Earth](https://www.sciencenews.org/article/earthlike-planets-need-lot-water)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")July 22, 2024
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [Jupiter’s Great Red Spot may be less than 200 years old](https://www.sciencenews.org/article/jupiter-great-red-spot-shrinking)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Sulfur was key to the first water on Earth](https://www.sciencenews.org/article/sulfur-key-first-water-earth)
             
             By [Ken Croswell](https://www.sciencenews.org/author/ken-croswell "Posts by Ken Croswell")July 15, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [A _Dune_\-inspired spacesuit turns astronaut pee into drinking water](https://www.sciencenews.org/article/dune-spacesuit-astronaut-pee-water)
-            
-            By [Adam Mann](https://www.sciencenews.org/author/adam-mann "Posts by Adam Mann")July 12, 2024
             
 
 Terms of Service
