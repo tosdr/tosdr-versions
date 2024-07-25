@@ -72,16 +72,16 @@ Follow Us
 Trending Posts
 --------------
 
+* [Black woman dies in California prison from heat over 110 degrees](https://therealnews.com/black-woman-dies-in-california-prison-from-heat-over-110-degrees)
+* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
 * [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
 * [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
-* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [Republicans plan for 40 years of MAGA](https://therealnews.com/republicans-plan-for-40-years-of-maga)
+* [RNC delegates explain their views—and stumble through fact checks](https://therealnews.com/rnc-delegates-explain-their-views-and-stumble-through-fact-checks)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Anti-Trump and Pro-Trump demonstrators hit the streets outside RNC in Milwaukee](https://therealnews.com/anti-trump-and-pro-trump-demonstrators-hit-the-streets-outside-rnc-in-milwaukee)
-* [Julian Assange is free—defying imprisonment, and even assassination plots](https://therealnews.com/julian-assange-is-free-defying-imprisonment-and-even-assassination-plots)
-* [After Trump assassination attempt, RNC 'like a religious gathering’](https://therealnews.com/after-trump-assassination-attempt-rnc-like-a-religious-gathering)
-* [At CPAC Brazil, Latin America's far right plots its comeback](https://therealnews.com/at-cpac-brazil-latin-americas-far-right-plots-its-comeback)
-* [Korea’s Samsung workers are striking for the very first time](https://therealnews.com/koreas-samsung-workers-are-striking-for-the-very-first-time)
+* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [‘Biden’s legacy is—and always will be—genocide’: Palestine advocates react to Biden dropping out of presidential race](https://therealnews.com/bidens-legacy-is-and-always-will-be-genocide-palestine-advocates-react-to-biden-dropping-out-of-presidential-race)
 
 Close
 
@@ -136,16 +136,16 @@ Follow Us
 Trending Posts
 --------------
 
+* [Black woman dies in California prison from heat over 110 degrees](https://therealnews.com/black-woman-dies-in-california-prison-from-heat-over-110-degrees)
+* [We asked 8 different Teamsters what they thought of Sean O'Brien's speech—their responses may surprise you](https://therealnews.com/we-asked-8-different-teamsters-what-they-thought-of-sean-obriens-speech-their-responses-may-surprise-you)
 * [Everybody hates Sean](https://therealnews.com/everybody-hates-sean)
 * [Are Black men really flocking to Trump? We asked these Black conservatives.](https://therealnews.com/are-black-men-really-flocking-to-trump-we-asked-these-black-conservatives)
-* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [Republicans plan for 40 years of MAGA](https://therealnews.com/republicans-plan-for-40-years-of-maga)
+* [RNC delegates explain their views—and stumble through fact checks](https://therealnews.com/rnc-delegates-explain-their-views-and-stumble-through-fact-checks)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Anti-Trump and Pro-Trump demonstrators hit the streets outside RNC in Milwaukee](https://therealnews.com/anti-trump-and-pro-trump-demonstrators-hit-the-streets-outside-rnc-in-milwaukee)
-* [Julian Assange is free—defying imprisonment, and even assassination plots](https://therealnews.com/julian-assange-is-free-defying-imprisonment-and-even-assassination-plots)
-* [After Trump assassination attempt, RNC 'like a religious gathering’](https://therealnews.com/after-trump-assassination-attempt-rnc-like-a-religious-gathering)
-* [At CPAC Brazil, Latin America's far right plots its comeback](https://therealnews.com/at-cpac-brazil-latin-americas-far-right-plots-its-comeback)
-* [Korea’s Samsung workers are striking for the very first time](https://therealnews.com/koreas-samsung-workers-are-striking-for-the-very-first-time)
+* [The Trump assassination attempt changes everything](https://therealnews.com/the-trump-assassination-attempt-changes-everything)
+* [‘Biden’s legacy is—and always will be—genocide’: Palestine advocates react to Biden dropping out of presidential race](https://therealnews.com/bidens-legacy-is-and-always-will-be-genocide-palestine-advocates-react-to-biden-dropping-out-of-presidential-race)
 
 [Skip to content](#main)
 
