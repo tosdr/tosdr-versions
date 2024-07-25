@@ -1,4 +1,4 @@
-Register For Open Source Summit Europe | 16-18 Sept - Vienna, Austria  [REGISTER NOW](https://events.linuxfoundation.org/open-source-summit-europe/)
+🏁 A Salute to SysAdmins - Save up to $400 on Training & Certifications [ENROLL NOW](https://hubs.la/Q02Br6XX0)
 
 English Japan China Europe
 
