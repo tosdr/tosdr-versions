@@ -358,8 +358,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/thema/unternehmen/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Über uns](https://www.test.de/unternehmen/)
+* [Presse](https://www.test.de/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -383,7 +383,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v111250837.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v112367108.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -420,7 +420,7 @@ Personenbezogene Daten bezeichnen alle Informationen, die sich auf eine identifi
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Daten, die für die Bezahlung kosten­pflichtiger Inhalte nötig sind, die über die Internetseite der Stiftung Warentest abge­rufen werden können, erhebt, speichert und verwaltet der Anbieter des jeweiligen Bezahl­systems. Bitte beachten Sie dessen jeweilige Hinweise zum Daten­schutz.
 
@@ -791,29 +791,29 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
-* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
 
 Fußbereich
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -1255,8 +1255,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/thema/unternehmen/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Über uns](https://www.test.de/unternehmen/)
+* [Presse](https://www.test.de/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Login](https://www.test.de/meintest/login/)
@@ -1608,8 +1608,8 @@ Suchen
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
 
 * [Kontakt](https://www.test.de/kontakt/)
-* [Über uns](https://www.test.de/thema/unternehmen/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Über uns](https://www.test.de/unternehmen/)
+* [Presse](https://www.test.de/presse/)
 * [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 
 * [Tests & Themen](https://www.test.de/thema/)
@@ -2327,7 +2327,7 @@ Personenbezogene Daten bezeichnen alle Informationen, die sich auf eine identifi
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Daten, die für die Bezahlung kosten­pflichtiger Inhalte nötig sind, die über die Internetseite der Stiftung Warentest abge­rufen werden können, erhebt, speichert und verwaltet der Anbieter des jeweiligen Bezahl­systems. Bitte beachten Sie dessen jeweilige Hinweise zum Daten­schutz.
 
@@ -2721,7 +2721,7 @@ Personenbezogene Daten bezeichnen alle Informationen, die sich auf eine identifi
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Daten, die für die Bezahlung kosten­pflichtiger Inhalte nötig sind, die über die Internetseite der Stiftung Warentest abge­rufen werden können, erhebt, speichert und verwaltet der Anbieter des jeweiligen Bezahl­systems. Bitte beachten Sie dessen jeweilige Hinweise zum Daten­schutz.
 
@@ -3090,11 +3090,11 @@ Friedrich­straße 219
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 
-[Mehr erfahren seitwärts](https://www.test.de/thema/unternehmen/)
+[Mehr erfahren seitwärts](https://www.test.de/unternehmen/)
 
 Verantwort­licher
 -----------------
@@ -3774,65 +3774,65 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
-* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
 
 Weitere spannende Themen
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
-* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
 
 Neueste Tests
 
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
-* [NAS im Test: Was Netz­werk­speicher alles können](https://www.test.de/nas-systeme-im-test-5463733-0/ "NAS im Test - Was Netzwerkspeicher alles können")
-* [Geschirr­spüler im Test: Die Besten spülen spar­sam und sauber](https://www.test.de/Geschirrspueler-im-Test-4685888-0/ "Geschirrspüler im Test - Die Besten spülen sparsam und sauber")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Zahn­zusatz­versicherung im Vergleich: Die besten Tarife für schöne Zähne](https://www.test.de/Zahnzusatzversicherung-im-Test-4730314-0/ "Zahnzusatzversicherung im Vergleich - Die besten Tarife für schöne Zähne")
-* [Bank­schließ­fach im Kosten-Vergleich: Schmuck, Geld, Dokumente – hier lagert alles sicher](https://www.test.de/Schliessfaecher-im-Test-4264499-0/ "Bankschließfach im Kosten-Vergleich - Schmuck, Geld, Dokumente – hier lagert alles sicher")
+* [Mineral­wasser im Test: Still bis spritzig – die besten Durst­löscher](https://www.test.de/Natuerliches-Mineralwasser-im-Test-4258945-0/ "Mineralwasser im Test - Still bis spritzig – die besten Durstlöscher")
+* [Backup-Software im Test: Daten sichern? Welche Programme für PC und Handy hilf­reich sind](https://www.test.de/Backup-Software-im-Test-4622858-0/ "Backup-Software im Test - Daten sichern? Welche Programme für PC und Handy hilfreich sind")
+* [Fahr­rad­anhänger im Test: Gefahren für Kinder und Umwelt](https://www.test.de/Fahrradanhaenger-im-Test-1859173-0/ "Fahrradanhänger im Test - Gefahren für Kinder und Umwelt")
+* [Wärmepumpen im Test: Heiße Kisten für die Klimawende](https://www.test.de/Waermepumpen-im-Test-Waerme-aus-dem-Garten-6046080-0/ "Wärmepumpen im Test - Heiße Kisten für die Klimawende")
+* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
+* [Gartenhäcksler im Test: Häcks! Häcks!](https://www.test.de/Gartenhaecksler-im-Test-4217865-0/ "Gartenhäcksler im Test - Häcks! Häcks!")
 
 test.de entdecken
 
-* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Proteinriegel im Test: Kalorienreicher als erwartet](https://www.test.de/Proteinriegel-im-Test-Kalorienreicher-als-erwartet-5930959-0/ "Proteinriegel im Test - Kalorienreicher als erwartet")
-* [Gemeinnützig vererben: So bedenken Sie Organisationen mit Ihrem Erbe](https://www.test.de/Gemeinnuetzig-vererben-So-bedenken-Sie-Organisationen-mit-Ihrem-Erbe-5904008-0/ "Gemeinnützig vererben - So bedenken Sie Organisationen mit Ihrem Erbe")
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Elektronische Patienten­akte im Test: Noch läuft es nicht rund](https://www.test.de/elektronische-Patientenakte-ePA-5918457-0/ "Elektronische Patientenakte im Test - Noch läuft es nicht rund")
+* [Privat­insolvenz: Schufa verkürzt Speicher­frist](https://www.test.de/Privatinsolvenz-Schufa-verkuerzt-Speicherfrist-5987125-0/ "Privatinsolvenz - Schufa verkürzt Speicherfrist")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Private Kranken­versicherung Kosten: Das können PKV-Versicherte gegen steigende Kosten tun](https://www.test.de/private-krankenversicherung-kosten-6062763-0/ "Private Krankenversicherung Kosten - Das können PKV-Versicherte gegen steigende Kosten tun")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -3862,9 +3862,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
@@ -3886,9 +3886,9 @@ Social Media
 
 Service Stiftung Warentest
 
-* [Über uns](https://www.test.de/thema/unternehmen/)
+* [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
-* [Presse](https://www.test.de/thema/presse/)
+* [Presse](https://www.test.de/presse/)
 * [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
