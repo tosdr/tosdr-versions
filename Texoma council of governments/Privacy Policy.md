@@ -173,14 +173,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Jul 18
-
-5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
-
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-9/ "Governing Board Meeting")
-
-Sherman
-
 Jul 25
 
 11:30 am - 2:00 pm
@@ -210,6 +202,14 @@ Aug 8
 12:00 pm - 1:00 pm
 
 ### [TCOG City Series – Tapping the Funding Source for Water Infrastructure Needs](https://tcog.com/event/tcog-city-series-tapping-the-funding-source-for-water-infrastructure-needs/ "TCOG City Series – Tapping the Funding Source for Water Infrastructure Needs")
+
+Sherman
+
+Aug 8
+
+3:00 pm - 4:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
+
+### [Audit and Finance Committee](https://tcog.com/event/audit-and-finance-committee/2024-08-08/ "Audit and Finance Committee")
 
 Sherman
 
