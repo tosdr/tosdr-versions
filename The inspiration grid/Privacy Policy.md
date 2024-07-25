@@ -193,6 +193,22 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/07/editorial-esr-geo-wallet-feature.jpg)
+
+[Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
+
+[](https://theinspirationgrid.com/editorial/esr-launches-the-worlds-first-smart-wallet-with-built-in-find-my-functionality/)
+
+### ESR Launches the World’s First Smart Wallet with Built-in Find My Functionality
+
+![](https://inspgr.id/app/uploads/2024/07/interview-jeremy-booth-cover.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)
+
+[](https://theinspirationgrid.com/editorial/the-new-frontier-an-interview-with-jeremy-booth/)
+
+### The New Frontier: An Interview with Jeremy Booth
+
 ![](https://inspgr.id/app/uploads/2024/07/analogue-pocket-aluminum-feature.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
@@ -208,22 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/ayaneo-reveals-the-worlds-first-android-handheld-with-a-7-inch-120hz-oled-display/)
 
 ### AYANEO Reveals the World’s First Android Handheld with a 7-inch 120Hz OLED Display
-
-![](https://inspgr.id/app/uploads/2024/07/editorial-esr-qi2-charging-sets-feature.jpg)
-
-[Product Design](https://theinspirationgrid.com/category/product-design/)[Technology](https://theinspirationgrid.com/category/technology-2/)
-
-[](https://theinspirationgrid.com/editorial/esr-qi2-3-in-1-wireless-charging-sets-review/)
-
-### ESR Qi2 3-in-1 MagSafe Wireless Chargers Review
-
-![](https://inspgr.id/app/uploads/2024/06/fonts-for-logos-feature-new.jpg)
-
-[Branding](https://theinspirationgrid.com/category/identity/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/20-best-fonts-for-logos-a-collection-of-downloadable-assets-for-designers/)
-
-### 20+ Best Fonts for Logos: A Collection of Downloadable Assets for Designers
 
 #want
 -----
@@ -291,6 +291,42 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/07/design-lfd-feature.jpg)
+
+[](https://theinspirationgrid.com/pair-node-a-modular-ai-device-by-lfd/)
+
+### PAIR Node: A Modular AI Device by LFD
+
+![](https://inspgr.id/app/uploads/2024/07/motion-brutal-beasts-feature.jpg)
+
+[](https://theinspirationgrid.com/the-last-of-its-kind-a-lancia-rally-037-tribute-by-ink/)
+
+### The Last of Its Kind: A Lancia Rally 037 Tribute by INK
+
+![](https://inspgr.id/app/uploads/2024/07/3d-alexandra-zutto-feature.jpg)
+
+[](https://theinspirationgrid.com/quirky-colorful-digital-art-creations-by-alexandra-zutto/)
+
+### Quirky & Colorful Digital Art Creations by Alexandra Zutto
+
+![](https://inspgr.id/app/uploads/2024/07/illustration-dale-lendl-feature.jpg)
+
+[](https://theinspirationgrid.com/neon-pop-bold-illustrations-by-dale-lendl/)
+
+### Neon Pop: Bold Illustrations by Dale Lendl
+
+![](https://inspgr.id/app/uploads/2024/07/art-divin-creador-feature.jpg)
+
+[](https://theinspirationgrid.com/mind-bending-optical-art-by-divin-creador/)
+
+### Mind-Bending Optical Art by Divin Creador
+
+![](https://inspgr.id/app/uploads/2024/07/illustration-nabil-nezzar-24-feature.jpg)
+
+[](https://theinspirationgrid.com/multifaceted-illustrations-by-nabil-nezzar/)
+
+### Multifaceted Illustrations by Nabil Nezzar
+
 ![](https://inspgr.id/app/uploads/2024/07/illustration-giang-gio-feature.jpg)
 
 [](https://theinspirationgrid.com/vietnamese-pop-bold-illustrations-by-giang-gio/)
@@ -302,42 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/posterlad-an-art-project-by-vratislav-pecka/)
 
 ### PosterLad: An Art Project by Vratislav Pecka
-
-![](https://inspgr.id/app/uploads/2024/07/illustration-masha-foya-feature.jpg)
-
-[](https://theinspirationgrid.com/captivating-illustrations-by-masha-foya/)
-
-### Captivating Illustrations by Masha Foya
-
-![](https://inspgr.id/app/uploads/2024/07/photography-maxime-daviron-feature.jpg)
-
-[](https://theinspirationgrid.com/the-empty-quarter-photos-by-maxime-daviron/)
-
-### The Empty Quarter: Photos by Maxime Daviron
-
-![](https://inspgr.id/app/uploads/2024/07/art-marco-grassi-feature.jpg)
-
-[](https://theinspirationgrid.com/transcendent-hyper-realistic-paintings-by-marco-grassi/)
-
-### Transcendent Hyper-Realistic Paintings by Marco Grassi
-
-![](https://inspgr.id/app/uploads/2024/07/photography-jennifer-esseiva-feature.jpg)
-
-[](https://theinspirationgrid.com/mountains-of-switzerland-photos-by-jennifer-esseiva/)
-
-### Mountains of Switzerland: Photos by Jennifer Esseiva
-
-![](https://inspgr.id/app/uploads/2024/07/branding-72-revival-feature.jpg)
-
-[](https://theinspirationgrid.com/72-revival-branding-by-numinous/)
-
-### 72.Revival Branding by Numinous
-
-![](https://inspgr.id/app/uploads/2024/07/art-joseph-klibansky-feature.jpg)
-
-[](https://theinspirationgrid.com/contemplative-sculptures-by-joseph-klibansky/)
-
-### Contemplative Sculptures by Joseph Klibansky
 
 Awesome products for creatives
 ------------------------------
