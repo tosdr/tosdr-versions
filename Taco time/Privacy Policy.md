@@ -21,7 +21,7 @@ For Franchising Info, Call [480.688.8914](tel:480.688.8914)
 * [Request Franchise Info](https://tacotimefranchise.com/request-franchise-information/ "Request Franchise Information")
 * [News & Blog](https://tacotimefranchise.com/blog/)
 
-MenuNavigateResearch TacoTime – What Is TacoTime®? – The TacoTime Brand Story – Why Fast-Casual Mexican Food is Hot? – What Are My Startup Costs? – How Much Can I Make? – What’s Special About Our Menu? – What Are The Available Markets? – TacoTime Franchisee Reviews – Why Do Our Customers Love Us? – TacoTime FAQ – Top 10 Reasons to Own a TacoTime Franchise – Next Steps Startup Costs Request Franchise Info News & Blog
+MenuNavigateResearch TacoTime Startup Costs Request Franchise Info News & Blog
 
 Privacy Policy
 ==============
