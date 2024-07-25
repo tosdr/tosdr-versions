@@ -78,11 +78,6 @@ Follow Us
 * [Visit The Wrap on instagram](https://www.instagram.com/thewrap)
 * [Visit The Wrap on youtube](https://www.youtube.com/thewrap)
 
-Trending Topics:
-----------------
-
-* [Biden Steps Aside](https://thewrap.com/tag/joe_biden/)
-
 Privacy Policy
 ==============
 
