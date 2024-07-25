@@ -346,6 +346,12 @@ This Privacy Policy is effective as of the date on which it is made available on
 * Trending Scams
     --------------
     
+    * [![ticket scams](https://www.scam-detector.com/wp-content/uploads/2024/07/ticket-scams-150x150.jpg)](https://www.scam-detector.com/ticket-scams/)
+        
+        ### [Ticket Scams: How to Spot the Red Flags](https://www.scam-detector.com/ticket-scams/)
+        
+        [Read More](https://www.scam-detector.com/ticket-scams/)
+        
     * [![Remote Job Task Scam](https://www.scam-detector.com/wp-content/uploads/2024/07/Remote-Job-Task-Scam-150x150.png)](https://www.scam-detector.com/task-scams/)
         
         ### [Don't Fall for Task-Based Job Scams: Keep Your Money Safe](https://www.scam-detector.com/task-scams/)
@@ -357,12 +363,6 @@ This Privacy Policy is effective as of the date on which it is made available on
         ### [Recovery Scams: How Not to Get Scammed Twice](https://www.scam-detector.com/recovery-scams/)
         
         [Read More](https://www.scam-detector.com/recovery-scams/)
-        
-    * [![Loyalty-Points-Scam-explained](https://www.scam-detector.com/wp-content/uploads/2024/07/Loyalty-Points-Scam-explained-150x150.jpg)](https://www.scam-detector.com/loyalty-points-phishing-scams/)
-        
-        ### [Loyalty Points Phishing Scams: How They Work and The Red Flags](https://www.scam-detector.com/loyalty-points-phishing-scams/)
-        
-        [Read More](https://www.scam-detector.com/loyalty-points-phishing-scams/)
         
     
 * [![“fraud](https://www.scam-detector.com/wp-content/uploads/2023/10/One_Fraud-Prevention.png)](https://get.surfshark.net/aff_c?offer_id=1124&aff_id=16683&url_id=1369)
