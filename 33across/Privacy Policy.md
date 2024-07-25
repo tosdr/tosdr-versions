@@ -169,10 +169,10 @@ Next
 solutions
 ---------
 
-* [Supply-Side Platforms](#Content-c19cbbb669eed3356b4e)
-* [Publishers](#Content-e0ab41b669eed3356b4e)
-* [Demand-Side Platforms](#Content-e93a18f669eed3356b4e)
-* [Data Companies](#Content-7f95e57669eed3356b4e)
+* [Supply-Side Platforms](#Content-c19cbbb66a2cee6d6136)
+* [Publishers](#Content-e0ab41b66a2cee6d6136)
+* [Demand-Side Platforms](#Content-e93a18f66a2cee6d6136)
+* [Data Companies](#Content-7f95e5766a2cee6d6136)
 
 LEXICON FOR
 -----------
@@ -221,35 +221,15 @@ Enable the creation and portability of cookie alternative data while maintaining
 Recent news
 -----------
 
-[![](https://www.33across.co.uk/wp-content/uploads/2024/07/33A24_NewsMedia_Featured-Banner_Marketing-Brew.png)](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
+[![](https://www.33across.co.uk/wp-content/uploads/2021/06/33A21_NewsMedia_Featured-Banner_33AcrossPR.png)](https://www.33across.co.uk/news/2024/07/24/33across-launches-new-marketplace-on-index-exchange-to-enhance-sell-side-audience-targeting)
 
-### [Early Reports Find Google’s Privacy Sandbox Isn’t Ready for Prime Time](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
+### [33Across Launches New Marketplace on Index Exchange to Enhance Sell-Side Audience Targeting](https://www.33across.co.uk/news/2024/07/24/33across-launches-new-marketplace-on-index-exchange-to-enhance-sell-side-audience-targeting)
 
-AdMonsters July 18, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
+33Across July 24, 2024 [Company News](https://www.33across.co.uk/tag/company-news/ "Company News")
 
-Google’s Privacy Sandbox faces challenges as ad-tech companies report mixed results. Recent data from Criteo, Index Exchange, and NextRoll highlight concerns about revenue loss and latency issues. According to 33Across data cited in the article, over 75% of US programmatic buys still relied on…
+33Across today announced a new partnership with Index Exchange (Index), one of the world’s largest independent supply-side platforms (SSPs). By integrating 33Across’ unique data capabilities with Index Exchange’s curated, premium inventory via Index Marketplaces, media buyers can…
 
-[Read More »](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
-
-[![](https://www.33across.co.uk/wp-content/uploads/2021/08/33A21_NewsMedia_Featured-Banner_Advertising-Week.png)](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
-
-### [Retail Media’s Overdue Push Toward the Cookieless Future](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
-
-Advertising Week July 17, 2024 [Industry Bylines](https://www.33across.co.uk/tag/industry-bylines/ "Industry Bylines")
-
-Retail media networks are rising, offering retailers high margins and valuable first-party data in cookieless environments. Learn why retailers must embrace cookieless advertising…
-
-[Read More »](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
-
-[![](https://www.33across.co.uk/wp-content/uploads/2019/11/33A21_NewsMedia_Featured-Banner_AdMonsters.png)](https://www.33across.co.uk/news/2024/7/10/cookie-cravings-industries-still-nibbling-on-third-party-data-as-privacy-sandbox-looms)
-
-### [Cookie Cravings: Industries Still Nibbling on Third-Party Data As Privacy Sandbox Looms](https://www.33across.co.uk/news/2024/7/10/cookie-cravings-industries-still-nibbling-on-third-party-data-as-privacy-sandbox-looms)
-
-AdMonsters July 10, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
-
-AdMonsters’ references 33Across’s Q1 2024 cookieless trends report, showing that the food and drink, and travel industry are the most reliant on cookies for US programmatic ad buys. 
-
-[Read More »](https://www.33across.co.uk/news/2024/7/10/cookie-cravings-industries-still-nibbling-on-third-party-data-as-privacy-sandbox-looms)
+[Read More »](https://www.33across.co.uk/news/2024/07/24/33across-launches-new-marketplace-on-index-exchange-to-enhance-sell-side-audience-targeting)
 
 [![](https://www.33across.co.uk/wp-content/uploads/2024/07/33A24_NewsMedia_Featured-Banner_Marketing-Brew.png)](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
 
@@ -271,15 +251,35 @@ Retail media networks are rising, offering retailers high margins and valuable f
 
 [Read More »](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
 
-[![](https://www.33across.co.uk/wp-content/uploads/2019/11/33A21_NewsMedia_Featured-Banner_AdMonsters.png)](https://www.33across.co.uk/news/2024/7/10/cookie-cravings-industries-still-nibbling-on-third-party-data-as-privacy-sandbox-looms)
+[![](https://www.33across.co.uk/wp-content/uploads/2021/06/33A21_NewsMedia_Featured-Banner_33AcrossPR.png)](https://www.33across.co.uk/news/2024/07/24/33across-launches-new-marketplace-on-index-exchange-to-enhance-sell-side-audience-targeting)
 
-### [Cookie Cravings: Industries Still Nibbling on Third-Party Data As Privacy Sandbox Looms](https://www.33across.co.uk/news/2024/7/10/cookie-cravings-industries-still-nibbling-on-third-party-data-as-privacy-sandbox-looms)
+### [33Across Launches New Marketplace on Index Exchange to Enhance Sell-Side Audience Targeting](https://www.33across.co.uk/news/2024/07/24/33across-launches-new-marketplace-on-index-exchange-to-enhance-sell-side-audience-targeting)
 
-AdMonsters July 10, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
+33Across July 24, 2024 [Company News](https://www.33across.co.uk/tag/company-news/ "Company News")
 
-AdMonsters’ references 33Across’s Q1 2024 cookieless trends report, showing that the food and drink, and travel industry are the most reliant on cookies for US programmatic ad buys. 
+33Across today announced a new partnership with Index Exchange (Index), one of the world’s largest independent supply-side platforms (SSPs). By integrating 33Across’ unique data capabilities with Index Exchange’s curated, premium inventory via Index Marketplaces, media buyers can…
 
-[Read More »](https://www.33across.co.uk/news/2024/7/10/cookie-cravings-industries-still-nibbling-on-third-party-data-as-privacy-sandbox-looms)
+[Read More »](https://www.33across.co.uk/news/2024/07/24/33across-launches-new-marketplace-on-index-exchange-to-enhance-sell-side-audience-targeting)
+
+[![](https://www.33across.co.uk/wp-content/uploads/2024/07/33A24_NewsMedia_Featured-Banner_Marketing-Brew.png)](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
+
+### [Early Reports Find Google’s Privacy Sandbox Isn’t Ready for Prime Time](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
+
+AdMonsters July 18, 2024 [Media Coverage](https://www.33across.co.uk/tag/media-coverage/ "Media Coverage")
+
+Google’s Privacy Sandbox faces challenges as ad-tech companies report mixed results. Recent data from Criteo, Index Exchange, and NextRoll highlight concerns about revenue loss and latency issues. According to 33Across data cited in the article, over 75% of US programmatic buys still relied on…
+
+[Read More »](https://www.33across.co.uk/news/2024/7/18/early-reports-find-googles-privacy-sandbox-isnt-ready-for-prime-time)
+
+[![](https://www.33across.co.uk/wp-content/uploads/2021/08/33A21_NewsMedia_Featured-Banner_Advertising-Week.png)](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
+
+### [Retail Media’s Overdue Push Toward the Cookieless Future](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
+
+Advertising Week July 17, 2024 [Industry Bylines](https://www.33across.co.uk/tag/industry-bylines/ "Industry Bylines")
+
+Retail media networks are rising, offering retailers high margins and valuable first-party data in cookieless environments. Learn why retailers must embrace cookieless advertising…
+
+[Read More »](https://www.33across.co.uk/news/2024/07/17/retail-medias-overdue-push-toward-the-cookieless-future-advertising-week)
 
 Solutions
 ---------
