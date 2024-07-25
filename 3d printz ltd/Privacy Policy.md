@@ -31,7 +31,6 @@ Quick Links
     * [Magigoo](https://3dprintz.co.uk/collections/vendors?q=Magigoo)
     * [Sunlu](https://3dprintz.co.uk/collections/sunlu-resins)
     * [Mech-3D: Printer Lubricant](https://3dprintz.co.uk/products/mech-3d)
-    * [Slice](https://3dprintz.co.uk/collections/slice-engineering-accessories)
     * [Skirr PTFE Tubing](https://3dprintz.co.uk/products/skirr-ptfe-bowden-tubing)
 * [Shop Filament](#)
     
@@ -52,7 +51,7 @@ Quick Links
     
 * [Shop Resins](https://3dprintz.co.uk/collections/sunlu-resins)
 * [Shop Upgrades & Spares](#)
-    * [Slice Engineering](#)
+    * [Slice Engineering](https://3dprintz.co.uk/collections/slice-engineering)
         * [The Mosquito™ Hotends](https://3dprintz.co.uk/collections/the-mosquito-hotends)
         * [The Copperhead™ Hotends](https://3dprintz.co.uk/collections/the-copperhead-hotends)
         * [Slice Engineering Replacement Parts](https://3dprintz.co.uk/collections/slice-engineering-replacement-parts)
@@ -66,7 +65,6 @@ Quick Links
     * [Bondtech](#)
         * [Upgrade Kits](https://3dprintz.co.uk/collections/bondtech-upgrade-kits)
         * [Spares & Adapters](https://3dprintz.co.uk/collections/spares-adapters)
-        * [Motors](https://3dprintz.co.uk/collections/bondtech-motors)
         * [Cables](https://3dprintz.co.uk/collections/bondtech-cables)
         * [CHT Nozzles](https://3dprintz.co.uk/collections/bondtech-nozzles)
     * [Wham Bam Systems](#)
@@ -102,7 +100,6 @@ Quick Links
     * [Magigoo](https://3dprintz.co.uk/collections/vendors?q=Magigoo)
     * [Sunlu](https://3dprintz.co.uk/collections/sunlu-resins)
     * [Mech-3D: Printer Lubricant](https://3dprintz.co.uk/products/mech-3d)
-    * [Slice](https://3dprintz.co.uk/collections/slice-engineering-accessories)
     * [Skirr PTFE Tubing](https://3dprintz.co.uk/products/skirr-ptfe-bowden-tubing)
 * [Shop Filament](#)
     
@@ -123,7 +120,7 @@ Quick Links
     
 * [Shop Resins](https://3dprintz.co.uk/collections/sunlu-resins)
 * [Shop Upgrades & Spares](#)
-    * [Slice Engineering](#)
+    * [Slice Engineering](https://3dprintz.co.uk/collections/slice-engineering)
         * [The Mosquito™ Hotends](https://3dprintz.co.uk/collections/the-mosquito-hotends)
         * [The Copperhead™ Hotends](https://3dprintz.co.uk/collections/the-copperhead-hotends)
         * [Slice Engineering Replacement Parts](https://3dprintz.co.uk/collections/slice-engineering-replacement-parts)
@@ -137,7 +134,6 @@ Quick Links
     * [Bondtech](#)
         * [Upgrade Kits](https://3dprintz.co.uk/collections/bondtech-upgrade-kits)
         * [Spares & Adapters](https://3dprintz.co.uk/collections/spares-adapters)
-        * [Motors](https://3dprintz.co.uk/collections/bondtech-motors)
         * [Cables](https://3dprintz.co.uk/collections/bondtech-cables)
         * [CHT Nozzles](https://3dprintz.co.uk/collections/bondtech-nozzles)
     * [Wham Bam Systems](#)
