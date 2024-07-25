@@ -7,7 +7,7 @@
 Privacy Policy - Wikiwand
 =========================
 
-Wikiwand provides an Internet site and mobile application with a modern interface that optimizes the content available on Wikipedia ([www.wikipedia.org](https://www.wikipedia.org/)) for a quicker and significantly improved reading experience (the “**Site**”). Wikiwand respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy policy details how we collect, use and store information and data that we receive. If you have any comments or questions about our privacy policies, please contact us at privacy@wikiwand.com.
+Wikiwand (WikiPele LTD) provides an Internet site and mobile application with a modern interface that optimizes the content available on Wikipedia ([www.wikipedia.org](https://www.wikipedia.org/)) for a quicker and significantly improved reading experience (the “**Site**”). Wikiwand respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy policy details how we collect, use and store information and data that we receive. If you have any comments or questions about our privacy policies, please contact us at privacy@wikiwand.com.
 
 As used in this privacy policy, “**Personal Information**” means information that can be directly associated with a specific person or entity such as a name, address, telephone number, or e-mail address. Other terms capitalized but not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service, a current version of which is available at [https://www.wikiwand.com/terms](https://www.wikiwand.com/terms) (the “**Terms**”).
 
