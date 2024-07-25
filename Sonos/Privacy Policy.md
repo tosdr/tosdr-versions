@@ -731,6 +731,7 @@ United States
 * [Site map](https://www.sonos.com/en-us/sitemap)
 * [Security acknowledgements](https://www.sonos.com/en-us/security-acknowledgements)
 * [Cookie settings](javascript:;)
+* [Product Security Advisories](https://www.sonos.com/en-us/security-advisory)
 
 * [Argentina](https://www.sonos.com/es-ar)
 * [Australia](https://www.sonos.com/en-au)
