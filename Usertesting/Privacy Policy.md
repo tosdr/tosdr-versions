@@ -345,6 +345,8 @@ Main navigation
                 
             * [Podcast](https://www.usertesting.com/resources/podcast)
                 
+            * [Resource collections](https://www.usertesting.com/resources/collections)
+                
             * [Test templates](https://www.usertesting.com/resources/templates)
                 
             * [Webinars](https://www.usertesting.com/resources/library/webinars)
