@@ -106,11 +106,16 @@ We may make changes to these terms with no less than 2 weeks notice. Notice of c
 
 ### About this wiki
 
-commit [48012c22fb5241abb7736a2f9627b50234fa6510](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/48012c22fb5241abb7736a2f9627b50234fa6510)
-Author: Taavi Väänänen <hi@taavi.wtf>
-Date:   2024-05-31T15:35:19+02:00
+commit [9cf67114fe89e9eda5ed82f3080a487598c27bad](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/9cf67114fe89e9eda5ed82f3080a487598c27bad)
+Author: Haowen Liu <lhw@lunacd.com>
+Date:   2024-05-31T01:31:16+00:00
 
-builds.sr.ht/compatibility: Update my email address
+ubuntu/24.04 is the new LTS
+
+This commit makes the following changes:
+1. Makes 24.04 the new LTS
+2. Adds 24.10 as ubuntu/next
+3. Removes 23.04 as it is now EOL
 
 **Clone this wiki**
 
