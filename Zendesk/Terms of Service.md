@@ -38,9 +38,12 @@
 
 Products
 
-* [Zendesk for service
+* [Zendesk for customer service
     
     The complete service solution](https://www.zendesk.com/service/)
+* [Zendesk for employee service
+    
+    Treat employees like customers](https://www.zendesk.com/employee-service/)
 * [Zendesk for sales
     
     The modern sales solution](https://www.zendesk.com/sell/)
@@ -71,9 +74,6 @@ Solutions
 * [Startups
     
     Start off on the right foot](https://www.zendesk.com/startups/)
-* [Employee experience
-    
-    Treat employees like customers](https://www.zendesk.com/employee-experience/)
 * [Industries
     
     Meet your market’s needs](https://www.zendesk.com/industries/)
@@ -264,7 +264,8 @@ These Terms were last updated on November 1, 2018.
 Our Products
 ------------
 
-* [Zendesk for service](https://www.zendesk.com/service/)
+* [Zendesk for customer service](https://www.zendesk.com/service/)
+* [Zendesk for employee service](https://www.zendesk.com/employee-service/)
 * [Zendesk for sales](https://www.zendesk.com/sell/)
 * [Sunshine Platform](https://www.zendesk.com/platform/)
 * [Marketplace](https://www.zendesk.com/marketplace/)
@@ -299,7 +300,7 @@ Resources
 * [Training](https://training.zendesk.com/)
 * [Partners](https://www.zendesk.com/partner/)
 * [Webinars](https://www.zendesk.com/company/events/#webinars)
-* [Customer Stories](https://www.zendesk.com/why-zendesk/customers/)
+* [Customer stories](https://www.zendesk.com/why-zendesk/customers/)
 * [Services](https://www.zendesk.com/customer-experience/)
 
 Company
@@ -312,7 +313,7 @@ Company
 * [Diversity & Inclusion](https://www.zendesk.com/diversity-inclusion/)
 * [Sustainability](https://www.zendesk.com/sustainability/)
 * [Contact us](https://www.zendesk.com/contact/)
-* [Site map](https://www.zendesk.com/sitemap/)
+* [Sitemap](https://www.zendesk.com/sitemap/)
 * [Systems status](https://status.zendesk.com/)
 * [Zendesk Foundation](https://www.zendesk.org/)
 * [Zendesk Ventures](https://www.zendesk.com/ventures/)
@@ -341,4 +342,4 @@ Subscribe
 * [](https://www.youtube.com/zendesk)
 * [](https://www.instagram.com/zendesk)
 
-[Terms of Use](https://www.zendesk.com/company/agreements-and-terms/terms-of-use/)[Privacy notice](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/)[Cookie notice](https://www.zendesk.com/company/agreements-and-terms/cookie-notice/)[Cookie settings](#onetrust-show-cookie-settings)[Modern slavery act statement](https://d1eipm3vz40hy0.cloudfront.net/pdf/zendesk-modern-slavery-statement.pdf)[Trust Centre](https://www.zendesk.com/trust-center/)[©Zendesk 2024](https://www.zendesk.com/company/legal/)
+[Terms of use](https://www.zendesk.com/company/agreements-and-terms/terms-of-use/)[Privacy notice](https://www.zendesk.com/company/agreements-and-terms/privacy-notice/)[Cookie notice](https://www.zendesk.com/company/agreements-and-terms/cookie-notice/)[Cookie settings](#onetrust-show-cookie-settings)[Modern Slavery Act Statement](https://d1eipm3vz40hy0.cloudfront.net/pdf/zendesk-modern-slavery-statement.pdf)[Trust Centre](https://www.zendesk.com/trust-center/)[©Zendesk 2024](https://www.zendesk.com/company/legal/)
