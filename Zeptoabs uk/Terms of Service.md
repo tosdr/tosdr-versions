@@ -22,7 +22,7 @@
 Terms and Conditions
 ====================
 
-Last Modified: November 11, 2020
+Last Modified: July 18, 2024
 
 IMPORTANT - READ CAREFULLY: These Terms of Use ("**Terms**") is a legal agreement between you ("**you**" or "**your**") and ZeptoLab UK Limited ("**ZeptoLab**") and governs the use by **you** while you play ZeptoLab's games ("**Games**") and/or use ZeptoLab's websites that link to these Terms of Use ("**Websites"**), or downloadable games and/or applications ("**App**") (collectively, the "**Services**"). By using the Services you agree to these Terms. If you do not agree to these Terms, do not purchase or use the Services.
 
