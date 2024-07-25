@@ -2,8 +2,6 @@
 
 [Alert Icon Icon of an exclamation point in a triangle.
 
-**Other cause:** TCTD Routes 60X/70X service suspended
-
 **Other cause:** Routes 1X, 4, 6, 8, 18, 30X on detour July 22-28 for Hoopla 2024
 
 View Service Alerts](https://www.cherriots.org/alerts/)
