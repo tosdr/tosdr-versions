@@ -26,9 +26,49 @@ Quick Jump
 
 [Gaming Forum](https://www.resetera.com/forums/gaming-forum.7/) [Gaming Hangouts](https://www.resetera.com/forums/gaming-hangouts.8/) [EtcetEra Forum](https://www.resetera.com/forums/etcetera-forum.9/) [EtcetEra Hangouts](https://www.resetera.com/forums/etcetera-hangouts.10/) [Trending Threads](https://www.resetera.com/trending/threads.1/) [Latest threads](https://www.resetera.com/forums/-/latest-threads)
 
+ [](https://www.resetera.com/search/ "Search")
+
+### Search
+
+Search first posts only
+
+Search titles only
+
+By: 
+
+Search [Advanced search…](https://www.resetera.com/search/)
+
+Search first posts only
+
+Search titles only
+
+By: 
+
+Search [Advanced…](https://www.resetera.com/search/)
+
 [Log in](https://www.resetera.com/login/)
 
 [Register](https://www.resetera.com/login/register)
+
+ [](https://www.resetera.com/search/ "Search")
+
+### Search
+
+Search first posts only
+
+Search titles only
+
+By: 
+
+Search [Advanced search…](https://www.resetera.com/search/)
+
+Search first posts only
+
+Search titles only
+
+By: 
+
+Search [Advanced…](https://www.resetera.com/search/)
 
 [Top](#top) [Bottom](#footer)
 
