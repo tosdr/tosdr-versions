@@ -1,10 +1,10 @@
-     SafeWise Terms of Service                                 
+     SafeWise Terms of Service                                  
 
    
 
 [skip to main content](#main-content)
 
-SafeWise is an independent review site. We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy through our links.
+We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy through our links.
 
 ![Icon Close  Dark](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-close--dark.svg)
 
@@ -316,10 +316,6 @@ SafeWise is an independent review site. We [may earn money](https://www.safewise
 [Deals ![Icon Caret Right  Dark](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-caret-right--dark.svg)](https://www.safewise.com/deals/) 
 
 Search for: ![Search](https://www.safewise.com/app/themes/coolwhip/assets/icons/icon-search--dark.svg) 
-
-[![](https://www.safewise.com/app/uploads/2021/10/SW_Prime_Day_Banner_Mobile_350x50.png)](https://www.amazon.com/deals?discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522&linkCode=ll2&tag=safewicom-20&linkId=7c67b96af99bb6c24c4b05474c4fe005&language=en_US&ref_=as_li_ss_tl)
-
-[![](https://www.safewise.com/app/uploads/2024/07/SW_Prime_Day_Banner_Desktop_728x90.png)](https://www.amazon.com/amazonprime?_encoding=UTF8&pd_rd_w=SUWT3&content-id=amzn1.sym.8b032f0e-4bd7-4ed1-913c-0a618a2e47d3&pf_rd_p=8b032f0e-4bd7-4ed1-913c-0a618a2e47d3&pf_rd_r=ZKKRPGQWPWJCQ9N2NZ30&pd_rd_wg=VgF6z&pd_rd_r=8aa31281-efa1-4879-9d3c-2dec3253cc3a&cl_system=mapi&cl_system_id=1b855e5e-4fe8-426f-9121-fc9e46440057&clreqid=1b855e5e-4fe8-426f-9121-fc9e46440057&kbid=87445&linkCode=ll2&tag=safewicom-20&linkId=1527b28268471ed814052b701c49064c&language=en_US&ref_=as_li_ss_tl)
 
 [Home](https://www.safewise.com/) | Terms of Service
 
