@@ -69,8 +69,6 @@ I'm looking for
 
 [Rice](https://www.spencers.in/catalogsearch/result/?q=Rice)
 
-[oil](https://www.spencers.in/catalogsearch/result/?q=oil)
-
 [chocolates](https://www.spencers.in/catalogsearch/result/?q=chocolates)
 
 [sugar](https://www.spencers.in/catalogsearch/result/?q=sugar)
@@ -82,6 +80,8 @@ I'm looking for
 [other fresh fruits](https://www.spencers.in/catalogsearch/result/?q=other%20fresh%20fruits)
 
 [fruit vinegar gel hair color natural black dye care 500ml x 2](https://www.spencers.in/catalogsearch/result/?q=fruit%20vinegar%20gel%20hair%20color%20natural%20black%20dye%20care%20500ml%20x%202)
+
+[100%](https://www.spencers.in/catalogsearch/result/?q=100%)
 
 x
 
