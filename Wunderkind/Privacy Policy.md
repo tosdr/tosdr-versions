@@ -304,12 +304,12 @@ London W1F 7SP, UK
 INDY
 ----
 
-36 South Pennsylvania St  
-FL 3  
+1060 North Capitol Ave  
+Suite 70  
 Indianapolis  
 IN 46204
 
-[View Map](https://www.google.com/maps/place/36+S+Pennsylvania+St+Floor+3,+Indianapolis,+IN+46204/@39.7659801,-86.1587852,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bd08fb7ce1:0xcab989bdce291ad9!8m2!3d39.7659801!4d-86.1565965?shorturl=1)
+[View Map](https://maps.app.goo.gl/7quxPMNdEU1mQHAG6)
 
 AUS
 ---
@@ -341,12 +341,12 @@ London W1F 7SP, UK
 
 INDY
 
-36 South Pennsylvania St  
-FL 3  
+1060 North Capitol Ave  
+Suite 70  
 Indianapolis  
 IN 46204
 
-[View Map](https://www.google.com/maps/place/36+S+Pennsylvania+St+Floor+3,+Indianapolis,+IN+46204/@39.7659801,-86.1587852,17z/data=!3m1!4b1!4m5!3m4!1s0x886b50bd08fb7ce1:0xcab989bdce291ad9!8m2!3d39.7659801!4d-86.1565965?shorturl=1)
+[View Map](https://maps.app.goo.gl/7quxPMNdEU1mQHAG6)
 
 AUS
 
