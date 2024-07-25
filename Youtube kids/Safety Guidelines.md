@@ -83,6 +83,13 @@ Browse help topics
 
 [Get started with Family Link](https://support.google.com/youtubekids/answer/7101025?hl=en&ref_topic=12970521)
 
+Need more help?
+---------------
+
+### Try these next steps:
+
+[Post to the help community Get answers from community members](https://support.google.com/youtubekids/community?hl=en)
+
 * ©2024 Google
 * [Privacy Policy](https://www.google.com/intl/en/privacy.html)
 * [Terms of Service](https://www.google.com/accounts/TOS)
@@ -101,7 +108,7 @@ Google apps
 
 Main menu
 
-14696100745976218585
+18222581234085887619
 
 true
 
