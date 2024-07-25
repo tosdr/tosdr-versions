@@ -86,7 +86,7 @@
 * [I am a…](#)
     * [Teacher](https://web.seesaw.me/contact-us/#teacher)
     * [Administrator](https://web.seesaw.me/contact-us/#admins)
-    * [Parent/Guardian](https://web.seesaw.me/contact-us/#parents)
+    * [Families](https://web.seesaw.me/contact-us/#parents)
 
 [![Seesaw | Elementary Learning Experience Platform](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201208%20303'%3E%3C/svg%3E "Seesaw | Elementary Learning Experience Platform")
 
@@ -147,7 +147,7 @@
 * [I am a…](#)
     * [Teacher](https://web.seesaw.me/contact-us/#teacher)
     * [Administrator](https://web.seesaw.me/contact-us/#admnins)
-    * [Parent/Guardian](https://web.seesaw.me/contact-us/#parents)
+    * [Families](https://web.seesaw.me/contact-us/#parents)
 * [International](#)
     * [UK](https://seesaw.com/uk/)
     * [Canada](https://seesaw.com/canada/)
