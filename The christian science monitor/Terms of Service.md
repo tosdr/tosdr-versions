@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Dignity
+[Integrity
 
-### For Ukrainians, war of survival is also a battle to defend their identity](https://www.csmonitor.com/World/Europe/2024/0719/ukraine-russia-war-culture-identity "For Ukrainians, war of survival is also a battle to defend their identity")
+### A simple, selfless dissent for integrity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0724/A-simple-selfless-dissent-for-integrity "A simple, selfless dissent for integrity")
 
-[Joy
+[Transformation
 
-### Joy breaks into the Olympics](https://www.csmonitor.com/Commentary/the-monitors-view/2024/0719/Joy-breaks-into-the-Olympics "Joy breaks into the Olympics")
+### World leaders recalibrate as they consider a Harris presidency](https://www.csmonitor.com/World/2024/0724/Harris-new-mideast-outlook "World leaders recalibrate as they consider a Harris presidency")
 
-[Courage
+[Responsibility
 
-### For Martin Luther King Jr., the conversation on political violence was very different](https://www.csmonitor.com/Commentary/2024/0719/donald-trump-political-violence-martin-luther-king-jr "For Martin Luther King Jr., the conversation on political violence was very different")
+### Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.](https://www.csmonitor.com/World/Europe/2024/0724/ukraine-donbas-women-workplace-mining-duty "Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-July 19, 2024
+July 24, 2024
 
-Beyond the reach of Russian rockets
+You had me at ‘quilty’
 
-Today’s Monitor offers glimpses of reclaimed identity. Venezuelans seeking to take back their country from years of repressive rule. One man’s renewal in the footsteps of Henry David Thoreau. Former President Trump making gestures to strike an inclusive tone.But I linger on the story of the Odesa National Fine Arts Museum by Howard LaFranchi. Defaced by Russian attacks, the museum is “working to show through art a different kind of power,” the director says. “These public exhibits and activities become another part of our national defense,” adds a curator.That unity and resolve speaks to a power rockets cannot touch.
+The Monitor is very good at being serious, and in times like these, that is an incredibly valuable thing. But we can also be surprisingly good at being lovely and witty and just plain delightful. Ladies and gentlemen, Murr Brewster. I am sure many of you have read her before, many times. Today, she shares with us the joys of quilting. But the subject rarely matters, really. She’s always worth a read. And yes, in times like these, perhaps especially so. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### For Ukrainians, war of survival is also a battle to defend their identity](https://www.csmonitor.com/World/Europe/2024/0719/ukraine-russia-war-culture-identity "For Ukrainians, war of survival is also a battle to defend their identity")
+[### World leaders recalibrate as they consider a Harris presidency](https://www.csmonitor.com/World/2024/0724/Harris-new-mideast-outlook "World leaders recalibrate as they consider a Harris presidency")
 
-[### Blocked from voting, Venezuela’s diaspora finds new ways to oppose Maduro](https://www.csmonitor.com/World/Americas/2024/0719/Blocked-from-voting-Venezuela-s-diaspora-finds-new-ways-to-oppose-Maduro "Blocked from voting, Venezuela’s diaspora finds new ways to oppose Maduro")
+[### Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.](https://www.csmonitor.com/World/Europe/2024/0724/ukraine-donbas-women-workplace-mining-duty "Kateryna the Coal Miner? War gives Ukraine its own ‘Rosie the Riveter’ phenom.")
 
-[### A closed-door trial in Russia sentences journalist Evan Gershkovich to 16 years for espionage](https://www.csmonitor.com/World/2024/0719/gershkovich-espionage-sentenced "A closed-door trial in Russia sentences journalist Evan Gershkovich to 16 years for espionage")
+[### In Javier Milei’s cash-strapped Argentina, enterprising residents use ingenuity to make ends meet](https://www.csmonitor.com/World/Americas/2024/0724/argentina-milei-financial-crisis "In Javier Milei’s cash-strapped Argentina, enterprising residents use ingenuity to make ends meet")
 
 * * *
 
