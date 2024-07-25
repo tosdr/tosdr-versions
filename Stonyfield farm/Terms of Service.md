@@ -201,7 +201,7 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
     * [ ]  Yes! I wish to receive via email Stonyfield's newsletter and/or information related to our products, programs, and/or promotional activities.
     
 * 
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
@@ -214,7 +214,7 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
 * [Careers](https://www.stonyfield.com/about/careers/)
 * [Blog](https://www.stonyfield.com/blog/)
 * [FAQs](https://www.stonyfield.com/faqs/)
-* [General Store](https://stonyfield.mybrightsites.com/)
+* [General Store](https://stonyfield.mybrightsites.com/products?s%5Bf%5D%5Bc%5D%5B%5D=%2FGeneral+Store)
 * [Privacy Policy](https://www.stonyfield.com/privacy-policy/)
 * [Terms of Use](https://www.stonyfield.com/terms-use/)
 * [Accessibility Statement](https://www.stonyfield.com/accessibility-statement/)
@@ -253,7 +253,7 @@ Only pasture raised milk
 * [Careers](https://www.stonyfield.com/about/careers/)
 * [Blog](https://www.stonyfield.com/blog/)
 * [FAQs](https://www.stonyfield.com/faqs/)
-* [General Store](https://stonyfield.mybrightsites.com/)
+* [General Store](https://stonyfield.mybrightsites.com/products?s%5Bf%5D%5Bc%5D%5B%5D=%2FGeneral+Store)
 * [Privacy Policy](https://www.stonyfield.com/privacy-policy/)
 * [Terms of Use](https://www.stonyfield.com/terms-use/)
 * [Accessibility Statement](https://www.stonyfield.com/accessibility-statement/)
