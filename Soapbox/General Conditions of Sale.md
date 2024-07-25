@@ -6,9 +6,9 @@ FREE Shipping on all orders $35+
 
 Menu icon Menu
 
- [![Soapbox](//www.soapboxsoaps.com/cdn/shop/files/SBS_LUXE_LOGO-2_1e072d7b-4fc5-430f-84a1-0e0cca04b4f8_94x80.jpg?v=1614296717)
+ [![Soapbox](//www.soapboxsoaps.com/cdn/shop/files/SB_Logo_2024_169x55.png?v=1721329977)
 
-![Soapbox](//www.soapboxsoaps.com/cdn/shop/files/SBS_LUXE_LOGO-2_1e072d7b-4fc5-430f-84a1-0e0cca04b4f8_94x80.jpg?v=1614296717) ![Soapbox](//www.soapboxsoaps.com/cdn/shop/files/SBS_LUXE_LOGO-2_1e072d7b-4fc5-430f-84a1-0e0cca04b4f8_70x60.jpg?v=1614296717)](https://www.soapboxsoaps.com/)
+![Soapbox](//www.soapboxsoaps.com/cdn/shop/files/SB_Logo_2024_169x55.png?v=1721329977) ![Soapbox](//www.soapboxsoaps.com/cdn/shop/files/SB_Logo_2024_184x60.png?v=1721329977)](https://www.soapboxsoaps.com/)
 
 * [Shop Chevron down icon](https://www.soapboxsoaps.com/collections/all?sort_by=best-selling)
     
