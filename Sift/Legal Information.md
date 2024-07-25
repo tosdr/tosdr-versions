@@ -61,13 +61,14 @@
         * [New Releases](https://sift.com/new-releases)
 * Resources
     
+    * [FIBR | Fraud Industry Benchmarking Resource](https://sift.com/fibr-fraud-industry-benchmarking-resource)
     * [All Resources](https://sift.com/resources)
     * [BY USE CASE](https://sift.com/legal-and-compliance/service-privacy-notice#)
     * [Payment Fraud](https://sift.com/resources?use_case=payment-fraud-type)
     * [Chargeback Fraud](https://sift.com/resources?use_case=chargeback-disputes-type)
     * [Account Fraud](https://sift.com/resources?use_case=ato-type)
     * [Content Abuse](https://sift.com/resources?use_case=spam-type)
-    * [FIBR Fraud Center](https://sift.com/fibr-fraud-industry-benchmarking-resource)
+    * [Fraud Intelligence Center](https://sift.com/fraud-center)
     * [Blog](https://sift.com/blog)
     * [Trust & Safety University](https://sift.com/trust-safety-university)
     * [Get a Demo](https://sift.com/demo)
@@ -85,13 +86,9 @@
     * [Careers](https://sift.com/careers)
         
 
-[.](https://sift.com/fibr-fraud-industry-benchmarking-resource)
-
 [See Sift in Action](https://sift.com/demo)
 
 [](https://console.sift.com/login?_gl=1*4om7dj*_ga*MjEwNTQyODU2LjE2OTg2OTA0MjA.*_ga_R8SV2EK5NZ*MTcwNjYzODY3OC4zNC4xLjE3MDY2Mzg2OTAuMC4wLjA)
-
-[.](https://sift.com/fibr-fraud-industry-benchmarking-resource)
 
 * [Home](https://sift.com/)
 * [Legal and Compliance](https://sift.com/legal-and-compliance)
