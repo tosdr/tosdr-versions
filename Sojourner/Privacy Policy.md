@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-77687df6fc1fd3c54022d4b5fd9b49fe
+07f97d9e1a6e4116ff419eeda7124128
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Blue Dagger pendant](https://www.sojourner.biz/images/cache/C0005.200.jpg)](https://www.sojourner.biz/components/blue-dagger-pendant.html "Blue Dagger pendant")
+[![8 mm round black lava beads](https://www.sojourner.biz/images/cache/stone/LAV0001.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/lava/8-mm-round-black-lava-beads.html "8 mm round black lava beads")
 
-#### [Blue Dagger pendant](https://www.sojourner.biz/components/blue-dagger-pendant.html "Blue Dagger pendant")
+#### [8 mm round black lava beads](https://www.sojourner.biz/beads/stone-a-l/lava/8-mm-round-black-lava-beads.html "8 mm round black lava beads")
 
-$14.00
+$7.00
 
 ### Best Sellers
 
@@ -187,10 +187,10 @@ $14.00
     $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
-    $16.00
-6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
+6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+    $16.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
