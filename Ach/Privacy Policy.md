@@ -599,29 +599,25 @@ Related Content
 
 [ACH Statistics](https://www.nacha.org/taxonomy/term/336)
 
-[Same Day ACH](https://www.nacha.org/taxonomy/term/337)
-
 [Press Release](https://www.nacha.org/taxonomy/term/7)
 
 ![ACH Network Logo with background](/sites/default/files/styles/new_card_large/public/2023-02/Nacha.org%20photo%20dimensions-06.jpg?itok=fNQTpd38)
 
-[ACH Network Records Strong Growth in 2023 as Same Day ACH Surpasses 3 Billion Payments Since Inception](https://www.nacha.org/news/ach-network-records-strong-growth-2023-same-day-ach-surpasses-3-billion-payments-inception)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Same Day ACH Reaches New Heights as ACH Network Volume Increases](https://www.nacha.org/news/same-day-ach-reaches-new-heights-ach-network-volume-increases)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-February 14, 2024
+July 18, 2024
 
-[Education](https://www.nacha.org/taxonomy/term/345)
-
-[Membership](https://www.nacha.org/taxonomy/term/347)
+[Risk Management](https://www.nacha.org/taxonomy/term/343)
 
 [Blog](https://www.nacha.org/taxonomy/term/41)
 
-![Payments attendee male](/sites/default/files/styles/new_card_large/public/2024-02/attendee-male.jpg?itok=vzWbKuZe)
+![RRC-podcast-image](/sites/default/files/styles/new_card_large/public/2024-06/RRC-podcast-image.jpg?itok=f1YZfxOO)
 
-[Smarter Faster Payments 2024: ‘You Can’t Beat It’](https://www.nacha.org/news/smarter-faster-payments-2024-you-cant-beat-it)
------------------------------------------------------------------------------------------------------------------------------
+[Podcast: Nacha’s Risk Management Resource Center is a ‘Go-To Spot’](https://www.nacha.org/news/podcast-nachas-risk-management-resource-center-go-spot)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-March 1, 2024
+June 13, 2024
 
 [Nacha Operating Rules](https://www.nacha.org/taxonomy/term/338)
 
