@@ -19,41 +19,41 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Victim Jesse Lloyd Smith](https://southwarknews.co.uk/wp-content/uploads/2024/07/Victim-Jesse-Lloyd-Smith-263x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
+    [![The Ship of Blueprints was made by children from the Adams Gardens and Swan Road estates in Rotherhithe in 2004](https://southwarknews.co.uk/wp-content/uploads/2024/07/20200907-BrunelMuseum-LoRes126-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
     
-    ### [Peckham shooting victim named as Jesse Lloyd-Smith](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
+    ### [Rotherhithe museum tracing youngsters who made artwork twenty years ago](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
     
-    [![East side of Neckinger.](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
+    [![Oliver Lam Watson won silver and gold medals at Tokyo 2021](https://southwarknews.co.uk/wp-content/uploads/2024/07/Oliver_Lam_Watson_celebrates_Team_GB_Selection-e1721835593488-360x180.webp)](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
     
-    ### [New cycle lane in Bermondsey could get rid of ‘half of the parking’ for nearby estate](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
+    ### [Dulwich Paralympic fencer going for gold in memory of late mum](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
     
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
     
-    ### [Social housing watchdog begins Southwark Council probe amid suspected serious failings](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
+    ### [Where does the Mayor of London stand on the two child benefit cap?](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
     
-    [![Sadiq Khan and Susan Hall clash at Mayor's Question Time. Image from London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-and-Susan-Hall-clash-at-Mayors-Question-Time.-Image-from-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
+    [![L: John Salako, former Crystal Palace player. R: Futsal players at the tournament (Futsallers Foundation)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-24-07-2024-at-09.30-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
     
-    ### [Sadiq Khan accused of continuing to fight a “war on the motorist”, as he said he will remove the congestion charge exemption for electric vehicles](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
+    ### [John Salako among the hundreds at London’s first futsal tournament in Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
     
-    [![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-360x180.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
+    [![Lambeth Country Show (wikicommons; EventLambeth)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-03-06-2024-at-14.13-360x180.jpeg)](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
     
-    ### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
+    ### [Lambeth Country Show ride ‘malfunction’ that left four injured is now being investigated by HSE](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
     
-    [![Councillor Donatus Anyanwu defended the use of Brockwell Park for events at Lambeth Council meeting on July 17, 2024. Screenshot of Lambeth Council meeting](https://southwarknews.co.uk/wp-content/uploads/2024/07/Councillor-Donatus-Anyanwu-defended-the-use-of-Brockwell-Park-for-events-at-Lambeth-Council-meeting-on-July-17-2024.-Screenshot-of-Lambeth-Council-meeting-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+    [![The famous dinosaur statues, as seen in Crystal Palace Park. Credit: Joe Coughlan](https://southwarknews.co.uk/wp-content/uploads/2024/07/Dinosaur-statues-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
     
-    ### [Campaigners pour cold water on councillor’s claim that events boost biodiversity in Brockwell Park](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+    ### [Crystal Palace Park renovations including famous dinosaur statues move forward](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
     
-    [![Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/07/Southwark_Park_Sporting_Green-scaled-1-360x180.jpg)](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
+    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
     
-    ### [‘Vital’ Southwark parks retain thirty prestigious Green Flag Awards](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
+    ### [Labour council refuses to condemn two-child benefit cap ahead of crunch Commons vote](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
     
-    [![SWAP Scheme tutorial in action.](https://southwarknews.co.uk/wp-content/uploads/2024/07/SWAP-scheme-tutorial-at-the-Tessa-Jowell-Health-Centre-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
+    [![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
     
-    ### [Over half of the people on new employment scheme get jobs in local GP surgery](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
+    ### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
     
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
+    [![Met Police stock image](https://southwarknews.co.uk/wp-content/uploads/2024/05/met-police-stock-1-696x387-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
     
-    ### [Comment: Southwark Council’s apology for failing residents on electrical safety is meaningless without proper soul-searching](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
+    ### [Surrey Quays man charged with murder](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -95,41 +95,41 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Victim Jesse Lloyd Smith](https://southwarknews.co.uk/wp-content/uploads/2024/07/Victim-Jesse-Lloyd-Smith-263x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
+    [![The Ship of Blueprints was made by children from the Adams Gardens and Swan Road estates in Rotherhithe in 2004](https://southwarknews.co.uk/wp-content/uploads/2024/07/20200907-BrunelMuseum-LoRes126-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
     
-    ### [Peckham shooting victim named as Jesse Lloyd-Smith](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
+    ### [Rotherhithe museum tracing youngsters who made artwork twenty years ago](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-museum-tracing-youngsters-who-made-artwork-twenty-years-ago/)
     
-    [![East side of Neckinger.](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
+    [![Oliver Lam Watson won silver and gold medals at Tokyo 2021](https://southwarknews.co.uk/wp-content/uploads/2024/07/Oliver_Lam_Watson_celebrates_Team_GB_Selection-e1721835593488-360x180.webp)](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
     
-    ### [New cycle lane in Bermondsey could get rid of ‘half of the parking’ for nearby estate](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
+    ### [Dulwich Paralympic fencer going for gold in memory of late mum](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
     
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
     
-    ### [Social housing watchdog begins Southwark Council probe amid suspected serious failings](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
+    ### [Where does the Mayor of London stand on the two child benefit cap?](https://southwarknews.co.uk/area/london/where-does-the-mayor-of-london-stand-on-the-two-child-benefit-cap/)
     
-    [![Sadiq Khan and Susan Hall clash at Mayor's Question Time. Image from London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-and-Susan-Hall-clash-at-Mayors-Question-Time.-Image-from-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
+    [![L: John Salako, former Crystal Palace player. R: Futsal players at the tournament (Futsallers Foundation)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-24-07-2024-at-09.30-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
     
-    ### [Sadiq Khan accused of continuing to fight a “war on the motorist”, as he said he will remove the congestion charge exemption for electric vehicles](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
+    ### [John Salako among the hundreds at London’s first futsal tournament in Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/john-salako-among-the-hundreds-at-londons-first-futsal-tournament-in-crystal-palace/)
     
-    [![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-360x180.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
+    [![Lambeth Country Show (wikicommons; EventLambeth)](https://southwarknews.co.uk/wp-content/uploads/2024/06/Image-03-06-2024-at-14.13-360x180.jpeg)](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
     
-    ### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
+    ### [Lambeth Country Show ride ‘malfunction’ that left four injured is now being investigated by HSE](https://southwarknews.co.uk/news/lambeth-country-show-ride-malfunction-that-left-four-injured-is-now-being-investigated-by-hse/)
     
-    [![Councillor Donatus Anyanwu defended the use of Brockwell Park for events at Lambeth Council meeting on July 17, 2024. Screenshot of Lambeth Council meeting](https://southwarknews.co.uk/wp-content/uploads/2024/07/Councillor-Donatus-Anyanwu-defended-the-use-of-Brockwell-Park-for-events-at-Lambeth-Council-meeting-on-July-17-2024.-Screenshot-of-Lambeth-Council-meeting-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+    [![The famous dinosaur statues, as seen in Crystal Palace Park. Credit: Joe Coughlan](https://southwarknews.co.uk/wp-content/uploads/2024/07/Dinosaur-statues-360x180.jpg)](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
     
-    ### [Campaigners pour cold water on councillor’s claim that events boost biodiversity in Brockwell Park](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+    ### [Crystal Palace Park renovations including famous dinosaur statues move forward](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
     
-    [![Southwark Park](https://southwarknews.co.uk/wp-content/uploads/2024/07/Southwark_Park_Sporting_Green-scaled-1-360x180.jpg)](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
+    [![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-360x180.png)](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
     
-    ### [‘Vital’ Southwark parks retain thirty prestigious Green Flag Awards](https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/)
+    ### [Labour council refuses to condemn two-child benefit cap ahead of crunch Commons vote](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
     
-    [![SWAP Scheme tutorial in action.](https://southwarknews.co.uk/wp-content/uploads/2024/07/SWAP-scheme-tutorial-at-the-Tessa-Jowell-Health-Centre-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
+    [![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
     
-    ### [Over half of the people on new employment scheme get jobs in local GP surgery](https://southwarknews.co.uk/area/southwark/over-half-of-the-people-on-new-employment-scheme-get-jobs-in-local-gp-surgery/)
+    ### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
     
-    [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-360x180.jpg)](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
+    [![Met Police stock image](https://southwarknews.co.uk/wp-content/uploads/2024/05/met-police-stock-1-696x387-1-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
     
-    ### [Comment: Southwark Council’s apology for failing residents on electrical safety is meaningless without proper soul-searching](https://southwarknews.co.uk/news/opinion/comment-southwark-councils-apology-for-failing-residents-on-electrical-safety-is-meaningless-without-proper-soul-searching/)
+    ### [Surrey Quays man charged with murder](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -187,55 +187,29 @@ Terms of Use
 
 ### Popular Articles
 
-[![The new flats will be built on the site of the former Beormund Community Centre. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-new-flats-will-be-built-on-the-site-of-the-former-Beormund-Community-Centre.-Image-Google--120x86.png)](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
+[![CGI of the apartments on Maltby Street (Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-18.19-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
 
-### [Nurses and teachers to be offered flats in purpose-built Bermondsey development](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
+### [Forty new Bermondsey council homes left unfinished after construction firm collapses](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
 
-[15th July 2024](https://southwarknews.co.uk/area/bermondsey/nurses-and-teachers-to-be-offered-flats-in-purpose-built-bermondsey-development/)
+[23rd July 2024](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
 
-[![Neil Harris has so far made three signings. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-2721829-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
+[![Aidomo Emakhu finishes. Photo: Brian Tonks](https://southwarknews.co.uk/wp-content/uploads/2024/07/Emakhu-goal-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/report-nottingham-2-1-forest-millwall/)
 
-### [The ‘priority position’ Millwall boss is still looking to recruit in following last week’s three signings](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
+### [REPORT: Nottingham Forest 2-1 Millwall](https://southwarknews.co.uk/sport/football/millwall/report-nottingham-2-1-forest-millwall/)
 
-[17th July 2024](https://southwarknews.co.uk/sport/football/millwall/priority-position-harris-transfers/)
+[23rd July 2024](https://southwarknews.co.uk/sport/football/millwall/report-nottingham-2-1-forest-millwall/)
 
-[![Billy Mitchell is set to be on the sidelines for weeks. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/B-Mitchell-82823736-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/billy-mitchell-injury-pre-season/)
+[![Neil Harris takes Millwall to Reading today. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/N-Harris-829292-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-assesses-millwall-display-in-feisty-defeat-to-nottingham-forest-we-want-to-be-competitive-weve-got-700-millwall-fans-here/)
 
-### [Millwall midfielder set to miss the beginning of the season but trio of senior players ready to be involved in behind closed doors games](https://southwarknews.co.uk/sport/football/millwall/billy-mitchell-injury-pre-season/)
+### [Neil Harris assesses Lions display in feisty defeat to Nottingham Forest: ‘We want to be competitive – we’ve got 700 Millwall fans here’](https://southwarknews.co.uk/sport/football/millwall/neil-harris-assesses-millwall-display-in-feisty-defeat-to-nottingham-forest-we-want-to-be-competitive-weve-got-700-millwall-fans-here/)
 
-[16th July 2024](https://southwarknews.co.uk/sport/football/millwall/billy-mitchell-injury-pre-season/)
+[23rd July 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-assesses-millwall-display-in-feisty-defeat-to-nottingham-forest-we-want-to-be-competitive-weve-got-700-millwall-fans-here/)
 
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Plans-have-been-submitted-to-turn-the-Walworth-Road-Post-Office-into-a-chicken-shop-2-e1720515625767-120x86.png)](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
+[![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
 
-### [Why are Walworth’s essential services becoming chicken shops and kebab houses?](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
+### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
 
-[15th July 2024](https://southwarknews.co.uk/area/walworth/why-are-walworths-essential-services-becoming-chicken-shops-and-kebab-houses/)
-
-[![Romain Esse fired home for Millwall against Reading. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/R-Esse-44994-2024-04-02T16_57_45.293-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/esse-flemming-goals-reading-friendly/)
-
-### [Romain Esse on target as Millwall beat Reading in behind closed doors friendly](https://southwarknews.co.uk/sport/football/millwall/esse-flemming-goals-reading-friendly/)
-
-[19th July 2024](https://southwarknews.co.uk/sport/football/millwall/esse-flemming-goals-reading-friendly/)
-
-[![Shaun Hutchinson is back at Millwall. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/07/S-Hutchinson-982871-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/shaun-hutchinson-return-one-year-deal/)
-
-### [Millwall re-sign Shaun Hutchinson on one-year deal](https://southwarknews.co.uk/sport/football/millwall/shaun-hutchinson-return-one-year-deal/)
-
-[18th July 2024](https://southwarknews.co.uk/sport/football/millwall/shaun-hutchinson-return-one-year-deal/)
-
-### Featured Articles
-
-[![Victim Jesse Lloyd Smith](https://southwarknews.co.uk/wp-content/uploads/2024/07/Victim-Jesse-Lloyd-Smith-e1721639155872-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
-
-### [Peckham shooting victim named as Jesse Lloyd-Smith](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
-
-[22nd July 2024](https://southwarknews.co.uk/area/peckham/peckham-shooting-victim-named-as-jesse-lloyd-smith/)
-
-[![East side of Neckinger.](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
-
-### [New cycle lane in Bermondsey could get rid of ‘half of the parking’ for nearby estate](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
-
-[22nd July 2024](https://southwarknews.co.uk/area/bermondsey/new-cycle-lane-in-bermondsey-could-get-rid-of-half-of-the-parking-for-nearby-estate/)
+[23rd July 2024](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
 
 [![Southwark Council HQ on Tooley Street. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/06/Southwark-Council-HQ-on-Tooley-Street.-Photo-from-Google-Street-View-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
@@ -243,23 +217,49 @@ Terms of Use
 
 [22nd July 2024](https://southwarknews.co.uk/area/southwark/social-housing-watchdog-begins-southwark-council-probe-amid-suspected-serious-failings/)
 
-[![Sadiq Khan and Susan Hall clash at Mayor's Question Time. Image from London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-and-Susan-Hall-clash-at-Mayors-Question-Time.-Image-from-London-Assembly-webcast-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
-
-### [Sadiq Khan accused of continuing to fight a “war on the motorist”, as he said he will remove the congestion charge exemption for electric vehicles](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
-
-[21st July 2024](https://southwarknews.co.uk/area/london/sadiq-khan-accused-of-continuing-to-fight-a-war-on-the-motorist-as-he-said-he-will-remove-the-congestion-charge-exemption-for-electric-vehicles/)
-
 [![Cllr Sarah King, Cabinet Member for Housing, said council officers were 'committed' to investigating the issue](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Sarah-King-Cabinet-Member-for-Housing-said-council-officers-were-committed-to-investigating-the-issue-120x86.png)](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
 
 ### [‘Very high’ Southwark Council gas consumption on estates could be costing taxpayer ‘millions of pounds’](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
 
 [21st July 2024](https://southwarknews.co.uk/area/peckham/very-high-southwark-council-gas-consumption-on-estates-could-be-costing-taxpayer-millions-of-pounds/)
 
-[![Councillor Donatus Anyanwu defended the use of Brockwell Park for events at Lambeth Council meeting on July 17, 2024. Screenshot of Lambeth Council meeting](https://southwarknews.co.uk/wp-content/uploads/2024/07/Councillor-Donatus-Anyanwu-defended-the-use-of-Brockwell-Park-for-events-at-Lambeth-Council-meeting-on-July-17-2024.-Screenshot-of-Lambeth-Council-meeting-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+### Featured Articles
 
-### [Campaigners pour cold water on councillor’s claim that events boost biodiversity in Brockwell Park](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+[![Oliver Lam Watson won silver and gold medals at Tokyo 2021](https://southwarknews.co.uk/wp-content/uploads/2024/07/Oliver_Lam_Watson_celebrates_Team_GB_Selection-e1721835593488-120x86.webp)](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
 
-[21st July 2024](https://southwarknews.co.uk/area/herne-hill/campaigners-pour-cold-water-on-councillors-claim-that-events-boost-biodiversity-in-brockwell-park/)
+### [Dulwich Paralympic fencer going for gold in memory of late mum](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
+
+[24th July 2024](https://southwarknews.co.uk/area/dulwich/dulwich-paralympic-fencer-going-for-gold-in-memory-of-late-mum/)
+
+[![The famous dinosaur statues, as seen in Crystal Palace Park. Credit: Joe Coughlan](https://southwarknews.co.uk/wp-content/uploads/2024/07/Dinosaur-statues-120x86.jpg)](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+
+### [Crystal Palace Park renovations including famous dinosaur statues move forward](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+
+[24th July 2024](https://southwarknews.co.uk/area/crystal-palace/crystal-palace-park-renovations-including-famous-dinosaur-statues-move-forward/)
+
+[![Cllr Victor Chamberlain, leader of Southwark Lib Dems](https://southwarknews.co.uk/wp-content/uploads/2024/07/Cllr-Victor-Chamberlain-leader-of-Southwark-Lib-Dems-120x86.png)](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+
+### [Labour council refuses to condemn two-child benefit cap ahead of crunch Commons vote](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+
+[23rd July 2024](https://southwarknews.co.uk/area/southwark/labour-council-refuses-to-condemn-two-child-benefit-cap-ahead-of-crunch-commons-vote/)
+
+[![The China Hall pub on Lower Road, Rotherhithe](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-China-Hall-1-e1721731965590-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+
+### [Millwall mainstay pub China Hall to be restored after flat conversion halted](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+
+[23rd July 2024](https://southwarknews.co.uk/area/rotherhithe/millwall-mainstay-pub-china-hall-to-be-restored-after-flat-conversion-halted/)
+
+[![Met Police stock image](https://southwarknews.co.uk/wp-content/uploads/2024/05/met-police-stock-1-696x387-1-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+
+### [Surrey Quays man charged with murder](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+
+[23rd July 2024](https://southwarknews.co.uk/area/rotherhithe/surrey-quays-man-charged-with-murder/)
+
+[![CGI of the apartments on Maltby Street (Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/07/Image-22-07-2024-at-18.19-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
+
+### [Forty new Bermondsey council homes left unfinished after construction firm collapses](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
+
+[23rd July 2024](https://southwarknews.co.uk/area/bermondsey/forty-new-bermondsey-council-homes-left-unfinished-after-construction-firm-collapses/)
 
 ### USEFUL PAGES
 
