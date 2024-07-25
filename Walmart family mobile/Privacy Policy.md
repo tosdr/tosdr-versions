@@ -30,11 +30,11 @@ Toggle navigation
 TracFone Wireless, Inc. Privacy Policy
 ======================================
 
-Effective Date: June 2024
+Effective Date: July 2024
 
 Recent Changes: We review and update our Privacy Policy to reflect the changes that come with the development of new products, services, technologies and uses of information. In addition, we occasionally make organizational, stylistic and grammatical changes to make our policy easier to read. Below you’ll find an overview of the changes that have been made recently.
 
-* June 2024: We made changes to clarify and provide more detail about the information we may collect through your interactions with us. We also made changes to better explain how we leverage cookies, pixels, web beacons, tags, scripts and other website technology, and how system apps on certain devices operate. Finally, we consolidated descriptions of similar state laws to make the state law section easier to navigate and use, and we added information about new privacy laws in Oregon and Texas.
+* July 2024: We made changes to clarify and provide more detail about the information we may collect through your interactions with us. We also made changes to better explain how we leverage cookies, pixels, web beacons, tags, scripts and other website technology, and how system apps on certain devices operate. Finally, we consolidated descriptions of similar state laws to make the state law section easier to navigate and use, and we added information about new privacy laws in Oregon and Texas.
 * January 2024: We updated two links for Safelink customers.
 * December 2023: We made changes to the state privacy law section of our privacy policy to clarify and provide additional details about our collection, use and sharing practices and to add information about the Utah privacy law. We also updated the policy to provide additional detail about the cookies, pixels, tags, and other technologies that are on our websites and apps, about the collection of pictures in certain locations to prevent fraud, and about the collection of location information for network management purposes. We also added information about our use of automation and the collection of information from third parties.
 
