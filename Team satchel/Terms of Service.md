@@ -2,6 +2,8 @@
 
 Talk to us
 
+Introducing new CPD Courses: Equip your Senior Leadership Team with skills in Behaviour Management and Leadership & Management. Learn more.
+
  [![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png) ![Satchel Logo - Providing a learning platform for teachers, students and parents](../assets/images/sticky-logo.png)](https://www.teamsatchel.com/index.html)
 
 Close
