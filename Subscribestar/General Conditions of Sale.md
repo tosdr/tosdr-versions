@@ -17,7 +17,7 @@ Sign up
 SubscribeStar Refund Policy
 ===========================
 
-Updated: July 02, 2023 12:08 pm
+Updated: July 22, 2024 06:29 pm
 
 * * *
 
@@ -79,7 +79,7 @@ Stars and their respective Subscribers may get involved in interpersonal and som
 
 ### Threshold
 
-If the amounts earned by a Star on SubscribeStar exceed a certain threshold, and/or a Star has a high number of refunds or chargebacks (each as determined by SubscribeStar in its sole discretion), we may withhold a percentage of the subscription fees and tips accumulated to the date, for period of time as determined by SubscribeStar. Meanwhile, corresponding account may or may not be locked or subject to other limitations.
+If the amounts earned by a Star on SubscribeStar exceed a certain threshold, and/or a Star has a high number of refunds or chargebacks (each as determined by SubscribeStar in its sole discretion), we may withhold a percentage of the subscription fees and commissions accumulated to the date, for period of time as determined by SubscribeStar. Meanwhile, corresponding account may or may not be locked or subject to other limitations.
 
 * * *
 
