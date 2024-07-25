@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-92d970040523b19d2f48082dc299e606
+dbfc6d01bfdf46f7b68787bd6fec2865
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm vintage Czech glass heart beads](https://sojourner.biz/images/cache/glass/GL0082.200.jpg)](https://sojourner.biz/beads/glass/8-mm-vintage-czech-glass-heart-beads.html "8 mm vintage Czech glass heart beads")
+[![Silver Moon necklace](https://sojourner.biz/images/cache/N0028.200.jpg)](https://sojourner.biz/jewelry/necklaces/silver-moon-necklace.html "Silver Moon necklace")
 
-#### [8 mm vintage Czech glass heart beads](https://sojourner.biz/beads/glass/8-mm-vintage-czech-glass-heart-beads.html "8 mm vintage Czech glass heart beads")
+#### [Silver Moon necklace](https://sojourner.biz/jewelry/necklaces/silver-moon-necklace.html "Silver Moon necklace")
 
-$9.00
+$160.00
 
 ### Best Sellers
 
@@ -158,10 +158,10 @@ $9.00
     $16.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
-    $16.00
-6. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
+6. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+    $16.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
