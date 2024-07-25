@@ -110,11 +110,6 @@ Ezoic Privacy Policy
 
 SchemeColor.com may also use [Ezoic](https://www.ezoic.com/) technology platform to serve advertisements. The Ezoic privacy policy can be found at [https://g.ezoic.net/privacy/schemecolor.com](https://g.ezoic.net/privacy/schemecolor.com) and also given below.
 
-Ezoic Services
-==============
-
-This website has an exclusive advertising contract with Ezoic Inc. (“Ezoic”), a renowned leader in website optimization, enhancing user experiences, optimizing ad performance, and generating revenue through advanced AI-powered technology. Ezoic may employ a variety of technologies on this website, including to display advertisements and enable advertising to visitors of this website. For additional information about Ezoic’s advertising partners, please see Ezoic’s Advertising Partner Page [here](https://www.ezoic.com/privacy-policy/ad-partners/).
-
 ×
 
 Sign in
