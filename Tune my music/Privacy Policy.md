@@ -1,7 +1,5 @@
 [](https://www.tunemymusic.com/)
 
-Quick actions[Plans](https://www.tunemymusic.com/plans)[Help](https://www.tunemymusic.com/help)
-
 English
 
 عربي
@@ -83,21 +81,15 @@ You are free to refuse our request for your personal information, with the under
   
 Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-### Always happy to help you
-
-Feel free to ask any questions
-
-[FAQ](https://www.tunemymusic.com/help)[Contact us](https://www.tunemymusic.com/contact-us)
-
 Tune My Music
 
 [Home](https://www.tunemymusic.com/)
 
 [My settings](https://www.tunemymusic.com/settings)
 
-[My Playlist Syncs](https://www.tunemymusic.com/settings?tab=sync)
-
 [Blog](https://blog.tunemymusic.com/)
+
+[Plans](https://www.tunemymusic.com/plans)
 
 Help
 
