@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Mulher e adolescente são resgatadas após caírem em fossa de quase 6 metros de profundidade](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/7/csm_Bombeiros_assessori_6057c7461a.jpg)
+   [![Carreta quebra e deixa trânsito lento no Centro de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/4/csm_carreta-quebrada-Reproducao-Pajucara_e85d2bb74d.jpg)
 
-No Santos Dumont
+Rua Dois de Dezembro
 
-Mulher e adolescente são resgatadas após caírem em fossa de quase 6 metros de profundidade](https://www.tnh1.com.br/noticia/nid/mulher-e-adolescente-sao-resgatadas-apos-cairem-em-fossa-de-quase-6-metros-de-profundidade/ "Mulher e adolescente são resgatadas após caírem em fossa de quase 6 metros de profundidade")   [![Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_UPA-Benedito-Bentes_-_Foto_Ascom_Isac_29c959ea00.jpg)
+Carreta quebra e deixa trânsito lento no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/carreta-quebra-e-deixa-transito-lento-no-centro-de-maceio/ "Carreta quebra e deixa trânsito lento no Centro de Maceió")   [![Infestação de baratas e comida fora da validade: sandubaria é interditada na Serraria](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/7/csm_sandubaria_e_interditada_na_Serraria_-_foto_Secom_Maceio_13d016142d.jpeg)
 
-No Benedito Bentes
+paredes mofadas
 
-Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://www.tnh1.com.br/noticia/nid/crianca-e-baleada-na-cabeca-apos-tiroteio-provocado-por-grupo-encapuzado-mulher-tambem-ficou-ferida/ "Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida")   [![Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
+Infestação de baratas e comida fora da validade: sandubaria é interditada na Serraria](https://www.tnh1.com.br/noticia/nid/infestacao-de-baratas-e-comida-fora-da-validade-sandubaria-e-interditada-na-serraria/ "Infestação de baratas e comida fora da validade: sandubaria é interditada na Serraria")   [![Trabalhador sofre choque elétrico e fica pendurado em andaime no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/0/csm_choque_trabalhador_centro_maceio_2_2a5520e283.jpeg)
 
-No Benedito Bentes
+Foi socorrido
 
-Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-estuprar-cunhada-apos-deixar-esposa-dormindo-em-quarto/ "Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto")   [![Vídeo: carro bate em poste e pega fogo nesta madrugada no Petrópolis](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/7/csm_incendio_carro_maceio_2651dd889a.jpg)
+Trabalhador sofre choque elétrico e fica pendurado em andaime no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/trabalhador-sofre-choque-eletrico-e-fica-pendurado-em-andaime-no-centro-de-maceio/ "Trabalhador sofre choque elétrico e fica pendurado em andaime no Centro de Maceió")   [![Imagens mostram retirada de baleia-jubarte encalhada no Porto de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/e/csm_retirada-baleia-biota-3_7825faf010.jpg)
 
-assustou população
+Veja o vídeo
 
-Vídeo: carro bate em poste e pega fogo nesta madrugada no Petrópolis](https://www.tnh1.com.br/noticia/nid/video-carro-bate-em-poste-e-pega-fogo-nesta-madrugada-no-petropolis/ "Vídeo: carro bate em poste e pega fogo nesta madrugada no Petrópolis")   [![Ônibus pega fogo e chamas assustam motoristas em Maceió; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/6/csm_onibus-pega-fogo-reproducao-cortesia_663e81adf7.png)
+Imagens mostram retirada de baleia-jubarte encalhada no Porto de Maceió](https://www.tnh1.com.br/noticia/nid/imagens-mostram-retirada-de-baleia-jubarte-encalhada-no-porto-de-maceio/ "Imagens mostram retirada de baleia-jubarte encalhada no Porto de Maceió")   [![Homens são presos em flagrante furtando peito de frango em escola de Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_furto_escola_e5e30a8c68.png)
 
-trânsito
+na madrugada
 
-Ônibus pega fogo e chamas assustam motoristas em Maceió; veja vídeo](https://www.tnh1.com.br/noticia/nid/onibus-pega-fogo-e-chamas-assustam-motoristas-em-maceio-veja-video/ "Ônibus pega fogo e chamas assustam motoristas em Maceió; veja vídeo")   [![Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/2/csm_Acidente_em_Maceio_-_foto_cortesia_4b39bccd2b.jpg)
+Homens são presos em flagrante furtando peito de frango em escola de Maceió](https://www.tnh1.com.br/noticia/nid/homens-sao-presos-em-flagrante-furtando-peito-de-frango-em-escola-de-maceio/ "Homens são presos em flagrante furtando peito de frango em escola de Maceió ")   [![Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/8/csm_baleia-jubarte-reproducao-cortesia_b526f46b42.jpeg)
 
-na marília mendonça
+Meio Ambiente
 
-Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió](https://www.tnh1.com.br/noticia/nid/idoso-e-vitima-de-acidente-com-capotamento-de-carro-na-parte-alta-de-maceio/ "Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió")
+Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Maceió](https://www.tnh1.com.br/noticia/nid/video-filhote-de-baleia-jubarte-e-encontrado-morto-encalhado-no-porto-de-maceio/ "Vídeo: filhote de baleia-jubarte é encontrado morto encalhado no Porto de Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Idoso é vítima de acidente com capotamento de carro na parte alta de Maceió](
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_TRE-arquivo_TNH1_041b51aab4_e47c25aa8b_1ada2f54a1.jpg)
+   [![Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_momento-prisao-estuprador-coruripe_f8f7257e9a.jpg)
+
+Em Coruripe
+
+Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://www.tnh1.com.br/noticia/nid/agente-de-seguranca-e-preso-suspeito-de-estuprar-crianca-de-12-anos-a-caminho-da-escola/ "Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola")   [![Três últimas mortes por dengue em Alagoas foram de vítimas de Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_dengue_Pexels_fe4d60ef8d_5066202dd5.jpeg)
+
+doença
+
+Três últimas mortes por dengue em Alagoas foram de vítimas de Maceió](https://www.tnh1.com.br/noticia/nid/tres-ultimas-mortes-por-dengue-em-alagoas-foram-de-vitimas-de-maceio/ "Três últimas mortes por dengue em Alagoas foram de vítimas de Maceió")   [![Três dias de boas notícias: Testemunhas de Jeová fazem Congresso no Rei Pelé](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/a/csm_congresso_jeova_c5d77c3d3d.png)
 
 Alagoas
 
-TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://www.tnh1.com.br/noticia/nid/tre-lanca-manual-para-os-registros-de-candidaturas-e-cartilha-de-propaganda-eleitoral/ "TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral")   [![Van que voltava de festival se envolve em acidente e dois morrem em Água Branca ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/2/csm_acidente_aguabranca__3__852772f019.jpeg)
+Três dias de boas notícias: Testemunhas de Jeová fazem Congresso no Rei Pelé](https://www.tnh1.com.br/noticia/nid/tres-dias-de-boas-noticias-testemunhas-de-jeova-fazem-congresso-no-rei-pele/ "Três dias de boas notícias: Testemunhas de Jeová fazem Congresso no Rei Pelé")   [![Painel com gastos de eventos públicos deve ser implementado em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_MPAL-AMA-eventos-publicos_13a9c6c60e.jpg)
 
-tragédia no trânsito
+Transparência
 
-Van que voltava de festival se envolve em acidente e dois morrem em Água Branca](https://www.tnh1.com.br/noticia/nid/van-que-voltava-de-festival-se-envolve-em-acidente-e-dois-morrem-em-agua-branca/ "Van que voltava de festival se envolve em acidente e dois morrem em Água Branca ")    [![Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/2/csm_csm_Praia_de_Jatiuca_-_Foto_Paulo_Victor_Malta_-_TNH1_c4dfd843cf_a1cae05989.jpeg)
+Painel com gastos de eventos públicos deve ser implementado em Alagoas](https://www.tnh1.com.br/noticia/nid/painel-com-gastos-de-eventos-publicos-deve-ser-implementado-em-alagoas/ "Painel com gastos de eventos públicos deve ser implementado em Alagoas")   [![Grande operação prende 32 foragidos da justiça em Maceió e no interior ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/3/csm_operacao_PC_6eb92e44da.jpeg)
 
-balneabilidade
+Polícia
 
-Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/veja-quais-sao-os-10-trechos-improprios-para-banho-no-litoral-de-alagoas/ "Veja quais são os 10 trechos impróprios para banho no litoral de Alagoas")   [![Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/7/csm_Chuva_e_sol_em_Maceio_-_foto_TNH1_b1c9b7c5ca.jpeg)
+Grande operação prende 32 foragidos da justiça em Maceió e no interior](https://www.tnh1.com.br/noticia/nid/grande-operacao-prende-32-foragidos-da-justica-em-maceio-e-no-interior/ "Grande operação prende 32 foragidos da justiça em Maceió e no interior ")    [![Estudante é arrastada por assaltantes na saída de escola, no interior de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/1/csm_viatura_pm_-_foto_arquivo_004c932c1b.jpg)
 
-confira a lista
+Em Arapiraca
 
-Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado](https://www.tnh1.com.br/noticia/nid/inmet-dispara-alerta-de-chuvas-para-58-cidades-de-alagoas-ate-a-noite-de-sabado/ "Inmet dispara alerta de chuvas para 58 cidades de Alagoas até a noite de sábado")   [![Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/c/csm_feira_discos_arapiraca_7e0dff3399.jpeg)
-
-Alagoas
-
-Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado](https://www.tnh1.com.br/noticia/nid/feira-de-discos-de-arapiraca-traz-venda-de-raridades-e-shows-gratuitos-neste-sabado/ "Feira de Discos de Arapiraca traz venda de raridades e shows gratuitos neste sábado")   [![Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_chuva_-_maceio_-_foto_caio_lui_tv_pajucara_6c746bf479.jpeg)
-
-programe-se
-
-Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões](https://www.tnh1.com.br/noticia/nid/final-de-semana-tem-minima-de-18o-c-em-alagoas-confira-a-previsao-para-todas-as-regioes/ "Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas as regiões ") 
+Estudante é arrastada por assaltantes na saída de escola, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/estudante-e-arrastada-por-assaltantes-na-saida-de-escola-no-interior-de-alagoas/ "Estudante é arrastada por assaltantes na saída de escola, no interior de Alagoas")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Final de semana tem mínima de 18º C em Alagoas; confira a previsão para todas
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/7/csm_operacao-na-base-do-sossego-apreende-15-aparelhos-de-som-em-bairros-de-maceio_d272865c25.jpg)
+   [![Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/6/csm_momento-prisao-estuprador-coruripe_f8f7257e9a.jpg)
 
-'base do sossego'
+Em Coruripe
 
-Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://www.tnh1.com.br/noticia/nid/quinze-aparelhos-de-som-sao-apreendidos-em-maceio-nesse-fim-de-semana/ "Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana")   [![Polícia investiga tiroteio que deixou menina de 11 anos ferida na cabeça ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/f/csm_fachada_DHPP_8fbbe2ab9b.jpeg)
+Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://www.tnh1.com.br/noticia/nid/agente-de-seguranca-e-preso-suspeito-de-estuprar-crianca-de-12-anos-a-caminho-da-escola/ "Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola")   [![Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_3775cea6e4.jpg)
+
+limoeiro de anadia
+
+Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://www.tnh1.com.br/noticia/nid/mulher-apanha-de-companheiro-durante-toda-a-tarde-e-e-socorrida-com-ajuda-da-vizinhanca/ "Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança")   [![Dupla que "pescava dinheiro" de caixa eletrônico é presa após crime em agência bancária no Farol](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/4/csm_viatura_rotam_ascom_ssp_4a540e1b45.jpg)
+
+Em Maceió
+
+Dupla que "pescava dinheiro" de caixa eletrônico é presa após crime em agência bancária no Farol](https://www.tnh1.com.br/noticia/nid/dupla-que-pescava-dinheiro-de-caixa-eletronico-e-presa-apos-crime-em-agencia-bancaria-no-farol/ "Dupla que "pescava dinheiro" de caixa eletrônico é presa após crime em agência bancária no Farol")   [![Polícia Militar encontra quase 15 quilos de maconha enterrados em mata no Clima Bom](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/f/csm_policia-militar-encontra-quase-15-quilos-de-drogas-enterrados-em-mata-no-clima-bom_1aa70c55f4.jpg)
 
 Polícia
 
-Polícia investiga tiroteio que deixou menina de 11 anos ferida na cabeça](https://www.tnh1.com.br/noticia/nid/policia-investiga-tiroteio-que-deixou-menina-de-11-anos-ferida-na-cabeca/ "Polícia investiga tiroteio que deixou menina de 11 anos ferida na cabeça ")    [![Vigilante rende homem com faca após invasão de escola de cegos no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/4/csm_escola_estadual_de_cegos_ciro_accyoli_foto_google_street_view_a9c3c0581d.jpg)
+Polícia Militar encontra quase 15 quilos de maconha enterrados em mata no Clima Bom](https://www.tnh1.com.br/noticia/nid/policia-militar-encontra-quase-15-quilos-de-maconha-enterrados-em-mata-no-clima-bom/ "Polícia Militar encontra quase 15 quilos de maconha enterrados em mata no Clima Bom")   [![Suspeito de arrombar ônibus de turismo estacionados em Pajuçara é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_Suspeito_de_arrombar_onibus_de_turismo_estacionados_em_Pajucara_e_preso_-_foto_Divulgacao_PM_68d862f3b4.jpeg)
 
-suspeito de furto
+Polícia
 
-Vigilante rende homem com faca após invasão de escola de cegos no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/vigilante-rende-homem-com-faca-apos-invasao-de-escola-de-cegos-no-centro-de-maceio/ "Vigilante rende homem com faca após invasão de escola de cegos no Centro de Maceió")   [![Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/5/csm_UPA-Benedito-Bentes_-_Foto_Ascom_Isac_29c959ea00.jpg)
+Suspeito de arrombar ônibus de turismo estacionados em Pajuçara é preso](https://www.tnh1.com.br/noticia/nid/suspeito-de-arrombar-onibus-de-turismo-estacionados-em-pajucara-e-preso/ "Suspeito de arrombar ônibus de turismo estacionados em Pajuçara é preso")   [![Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_policial-desaparecido-corpo-encontrado-soterrado-reproducao-cortesia_cd0758b90a_60e587e52f.jpg)
 
-No Benedito Bentes
+investigações
 
-Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://www.tnh1.com.br/noticia/nid/crianca-e-baleada-na-cabeca-apos-tiroteio-provocado-por-grupo-encapuzado-mulher-tambem-ficou-ferida/ "Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida")   [![Mulher é agredida e companheiro é preso após ser flagrado com faca suja de sangue ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/8/csm_prisao_agressor_delmiro_gouveia_-_foto_pm_751bb40aa6.jpg)
-
-em Delmiro Gouveia
-
-Mulher é agredida e companheiro é preso após ser flagrado com faca suja de sangue](https://www.tnh1.com.br/noticia/nid/mulher-e-agredida-e-companheiro-e-preso-apos-ser-flagrado-com-faca-suja-de-sangue/ "Mulher é agredida e companheiro é preso após ser flagrado com faca suja de sangue ")   [![Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_a09a66da25.jpg)
-
-No Benedito Bentes
-
-Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-estuprar-cunhada-apos-deixar-esposa-dormindo-em-quarto/ "Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto")
+Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM](https://www.tnh1.com.br/noticia/nid/policia-conclui-inquerito-e-revela-o-que-motivou-homem-a-matar-e-concretar-corpo-de-pm/ "Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -116,11 +116,11 @@ Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quar
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_Herman_e_Ramatis_Philipe_Medeiros_ef124abfe7.jpg)
+   [![Diretor comercial do Grupo Guido faz idade nova](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_Aniversario_Geninho_d50aa17731.jpeg)
 
 Pessoas & Negócios
 
-Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária](https://www.tnh1.com.br/noticia/nid/alagoas-ganha-dois-representantes-no-conselho-nacional-de-autorregulamentacao-publicitaria/ "Alagoas ganha dois representantes no Conselho Nacional de Autorregulamentação Publicitária")
+Diretor comercial do Grupo Guido faz idade nova](https://www.tnh1.com.br/noticia/nid/diretor-comercial-do-grupo-guido-faz-idade-nova/ "Diretor comercial do Grupo Guido faz idade nova")
 
 [Literatura](https://www.tnh1.com.br/index.php?id=789 "Literatura")
 
@@ -198,73 +198,73 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_csm_motel_maribondo_0775499f0b_984df6bd73.jpeg)
+[![Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/e/csm_csm_policial-desaparecido-corpo-encontrado-soterrado-reproducao-cortesia_cd0758b90a_c95a2d0b80.jpg)
 
-Em Maribondo
+investigações
 
-Em Maribondo
+investigações
 
-Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime
+Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM
 
-Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime](https://www.tnh1.com.br/noticia/nid/vitimas-de-chacina-em-motel-sao-identificadas-veja-o-que-se-sabe-sobre-o-crime/ "Vítimas de chacina em motel são identificadas; veja o que se sabe sobre o crime ")[![Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/b/csm_Central_de_Flagrantes__Maceio_-_foto_SSPAL_c80a1ff4de.jpg)
+Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM](https://www.tnh1.com.br/noticia/nid/policia-conclui-inquerito-e-revela-o-que-motivou-homem-a-matar-e-concretar-corpo-de-pm/ "Polícia conclui inquérito e revela o que motivou homem a matar e concretar corpo de PM ")[![Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/7/csm_Thommy_Schiavo_-_foto_Reproducao_MT_Play_-_SBT_Cuiaba_ad2f71b70f.jpg)
 
-No Benedito Bentes
+Thommy Schiavo
 
-No Benedito Bentes
+Thommy Schiavo
 
-Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto
+Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada
 
-Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto](https://www.tnh1.com.br/noticia/nid/homem-e-preso-suspeito-de-estuprar-cunhada-apos-deixar-esposa-dormindo-em-quarto/ "Homem é preso suspeito de estuprar cunhada após deixar esposa dormindo em quarto")[!["Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/b/csm_confusao-metro-homem-aranha-reproducao_fd48f650de.jpg)
+Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada](https://www.tnh1.com.br/noticia/nid/video-mostra-momento-em-que-ator-de-pantanal-se-desequilibra-antes-de-cair-de-sacada/ "Vídeo mostra momento em que ator de 'Pantanal' se desequilibra antes de cair de sacada")[![Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/5/csm_csm_Homem_dirigia_um_carro_do_Conselho_Tutelar_quando_foi_assassinado_a_tiros_Foto_Cortesia_ao_TNH1_c64b18736c_3bbc9a9727.jpeg)
 
-EM MG
+61 ANOS
 
-EM MG
+61 ANOS
 
-"Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo
+Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar
 
-"Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo](https://www.tnh1.com.br/noticia/nid/homem-aranha-e-atacado-em-metro-e-joga-passageiro-nos-trilhos-veja-video/ ""Homem-Aranha" é atacado em metrô e joga passageiro nos trilhos; veja vídeo ")[![Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/5/csm_UPA-Benedito-Bentes_-_Foto_Ascom_Isac_d2e3a6c406.jpg)
+Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar](https://www.tnh1.com.br/noticia/nid/investigacao-revela-passado-criminoso-de-motorista-morto-em-carro-do-conselho-tutelar/ "Investigação revela passado criminoso de motorista morto em carro do Conselho Tutelar")[![Saiba quem é médica neurologista que raptou bebê de hospital em MG](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/f/csm_a_medica_suspeita_de_raptar_bebe_-_foto_montagem_d1bff33cdd.jpg)
 
-No Benedito Bentes
+foi presa
 
-No Benedito Bentes
+foi presa
 
-Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida
+Saiba quem é médica neurologista que raptou bebê de hospital em MG
 
-Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida](https://www.tnh1.com.br/noticia/nid/crianca-e-baleada-na-cabeca-apos-tiroteio-provocado-por-grupo-encapuzado-mulher-tambem-ficou-ferida/ "Criança é baleada na cabeça após tiroteio provocado por grupo encapuzado; mulher também ficou ferida")
+Saiba quem é médica neurologista que raptou bebê de hospital em MG](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-medica-neurologista-que-raptou-bebe-de-hospital-em-mg/ "Saiba quem é médica neurologista que raptou bebê de hospital em MG")
 
-[![Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_defensoria_foto_divulgacao_324c818202.png)
+[![Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_momento-prisao-estuprador-coruripe_edadeaf662.jpg)
 
-Mercado de Trabalho
+Em Coruripe
 
-Mercado de Trabalho
+Em Coruripe
 
-Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova
+Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola
 
-Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova](https://www.tnh1.com.br/noticia/nid/defensoria-publica-abre-vagas-para-estagio-em-direito-em-igaci-e-igreja-nova/ "Defensoria Pública abre vagas para estágio em Direito em Igaci e Igreja Nova")[![TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/c/csm_csm_csm_TRE-arquivo_TNH1_041b51aab4_e47c25aa8b_65475825b0.jpg)
+Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola](https://www.tnh1.com.br/noticia/nid/agente-de-seguranca-e-preso-suspeito-de-estuprar-crianca-de-12-anos-a-caminho-da-escola/ "Agente de segurança é preso suspeito de estuprar criança de 12 anos a caminho da escola")[![Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/a/csm_montagem_casa_jogadores_penedo_foto_cortesia_e8d9e82cab.jpg)
 
-Alagoas
+Em time tradicional
 
-Alagoas
+Em time tradicional
 
-TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral
+Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas
 
-TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral](https://www.tnh1.com.br/noticia/nid/tre-lanca-manual-para-os-registros-de-candidaturas-e-cartilha-de-propaganda-eleitoral/ "TRE lança manual para os registros de candidaturas e cartilha de propaganda eleitoral")[![Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/4/csm_prouni_4ebef7b49c.png)
+Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas](https://www.tnh1.com.br/noticia/nid/jovens-sao-deixados-em-casa-com-condicoes-insalubres-apos-falsa-promessa-de-jogar-futebol-em-alagoas/ "Jovens são deixados em casa com condições insalubres após falsa promessa de jogar futebol em Alagoas")[![Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_Mulheres_vitimas_de_violencia_domestica_-_foto_Marcos_Santos_-_USP_Imagens_f5d1f2be3a.jpg)
 
-Educação
+limoeiro de anadia
 
-Educação
+limoeiro de anadia
 
-Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo
+Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança
 
-Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo](https://www.tnh1.com.br/noticia/nid/inscricoes-para-o-prouni-abrem-nesta-terca-feira-veja-o-passo-a-passo/ "Inscrições para o Prouni abrem nesta terça-feira; veja o passo a passo ")[![Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/7/csm_operacao-na-base-do-sossego-apreende-15-aparelhos-de-som-em-bairros-de-maceio_0da716e5c7.jpg)
+Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança](https://www.tnh1.com.br/noticia/nid/mulher-apanha-de-companheiro-durante-toda-a-tarde-e-e-socorrida-com-ajuda-da-vizinhanca/ "Mulher apanha de companheiro durante toda a tarde e é socorrida com ajuda da vizinhança")[![Carreta quebra e deixa trânsito lento no Centro de Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_carreta-quebrada-Reproducao-Pajucara_099f1cbbb4.jpg)
 
-'base do sossego'
+Rua Dois de Dezembro
 
-'base do sossego'
+Rua Dois de Dezembro
 
-Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana
+Carreta quebra e deixa trânsito lento no Centro de Maceió
 
-Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana](https://www.tnh1.com.br/noticia/nid/quinze-aparelhos-de-som-sao-apreendidos-em-maceio-nesse-fim-de-semana/ "Quinze aparelhos de som são apreendidos em Maceió nesse fim de semana")
+Carreta quebra e deixa trânsito lento no Centro de Maceió](https://www.tnh1.com.br/noticia/nid/carreta-quebra-e-deixa-transito-lento-no-centro-de-maceio/ "Carreta quebra e deixa trânsito lento no Centro de Maceió")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
