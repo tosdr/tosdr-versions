@@ -15,7 +15,7 @@
 * [Gift cards](https://www.yardhouse.com/gift-cards)
 * [Group Dining](https://www.yardhouse.com/private-dining/home)
 * [Careers](https://careers.yardhouse.com/)
-* [Login](https://www.yardhouse.com/customer-service/account-login)
+* [Log In](https://www.yardhouse.com/customer-service/account-login)
 
 * [Menu](https://www.yardhouse.com/menu-listing/eat)
 * [Order Online](https://www.yardhouse.com/menu-listing/eat)
@@ -32,7 +32,7 @@
     
     [CHOOSE NEW LOCATION](https://www.yardhouse.com/locations/location-search)
     
-* [Login](https://www.yardhouse.com/customer-service/account-login)
+* [Log In](https://www.yardhouse.com/customer-service/account-login)
 *  [![cart](https://media.yardhouse.com/images/site/responsive/wl_carticon.png) Cart 0](javascript:void(0))
     
     Your cart is empty
@@ -112,7 +112,7 @@ Coupon Code
 
  Apply
 
-[Login](# "Login") to redeem.
+[Log In](# "Login") to redeem.
 
 Sub Total:
 
