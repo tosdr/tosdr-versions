@@ -5,7 +5,7 @@ Click below to view deal
 
 [View Deal](https://stacksocial.com/sales/oystervpn-lifetime-subscription)
 
-[Lowest Price Ever! Babbel for $129.97!](https://stacksocial.com/sales/babbel-language-learning-lifetime-subscription-all-languages)
+[Limited-Time Offer! Babbel for $139.97!](https://stacksocial.com/sales/babbel-language-learning-lifetime-subscription-all-languages)
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
@@ -15,7 +15,6 @@ Click below to view deal
 
 [![StackSocial Logo mobile](https://cdnp1.stackassets.com/6e671abaa5d0fe1ecaa134783b0dc291dd778601/store/5028ebcfae8c4e22b8a83fe28feaa0422b45d2aa2bad934961999e4c43f2/StackSocial_2023_Logomark_Black_Knockout.svg)![StackSocial Logo](https://cdnp0.stackassets.com/a3c277997d108b87ef125bea3ae70e8b48766ff1/store/e85890a11ca444bed8792c60bd9ddef9aa34dc9b26f9fabb4714c6a41a0b/StackSocial_2023_Logomark_Black_Knockout.svg)](https://stacksocial.com/)
 
-* [Deal Days](https://stacksocial.com/collections/deal-days)
 * Apps & Software
 * Online Courses
 * [Lifetime Subscriptions](https://stacksocial.com/collections/lifetime-subscriptions)
@@ -74,8 +73,6 @@ Click below to view deal
 * [Outdoors](https://stacksocial.com/collections/lifestyle/outdoors)
 * [Other](https://stacksocial.com/collections/lifestyle/other)
 
-* * [Deal Days](https://stacksocial.com/collections/deal-days)
-    
 * * [Apps & Software](https://stacksocial.com/collections/apps-software)
     * * [Backup & Storage](https://stacksocial.com/collections/apps-software/backup-storage)
         * [Business](https://stacksocial.com/collections/apps-software/business)
