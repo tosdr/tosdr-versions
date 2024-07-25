@@ -41,6 +41,12 @@ Header - Shapes Theme
     
 * Merch
     
+    * [![3D ICON BACKPACK](//www.unspeakable.com/cdn/shop/files/unnamed_1.jpg?v=1721653107&width=700)
+        
+        3D ICON BACKPACK](https://www.unspeakable.com/products/backpack)
+    * [![STREET ART T-SHIRT](//www.unspeakable.com/cdn/shop/files/IMG_2976.jpg?v=1719407713&width=700)
+        
+        STREET ART T-SHIRT](https://www.unspeakable.com/products/noodle-guy-shirt)
     * [![YELLOW TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/yellowtornado.jpg?v=1715611755&width=700)
         
         YELLOW TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/yellow-tornado-hunter-t-shirt)
@@ -53,12 +59,6 @@ Header - Shapes Theme
     * [![BLACK TORNADO HUNTER T-SHIRT](//www.unspeakable.com/cdn/shop/files/James_WhiteBG.jpg?v=1716212153&width=700)
         
         BLACK TORNADO HUNTER T-SHIRT](https://www.unspeakable.com/products/black-tornado-hunter-t-shirt)
-    * [![STREET ART T-SHIRT](//www.unspeakable.com/cdn/shop/files/IMG_2976.jpg?v=1719407713&width=700)
-        
-        STREET ART T-SHIRT](https://www.unspeakable.com/products/noodle-guy-shirt)
-    * [![3 SILICONE WRISTBANDS](//www.unspeakable.com/cdn/shop/files/DSC_0999.jpg?v=1718112203&width=700)
-        
-        3 SILICONE WRISTBANDS](https://www.unspeakable.com/products/3-silicon-wristbands)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
