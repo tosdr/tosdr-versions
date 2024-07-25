@@ -91,13 +91,13 @@ Delivery cost from
     * [GoodWe Lynx](https://sps24.eu/en/menu/battery-modules/goodwe-lynx-4041.html "GoodWe Lynx")
     * [Huawei Luna](https://sps24.eu/en/menu/battery-modules/huawei-luna-4043.html "Huawei Luna")
     * [SolarEdge Home](https://sps24.eu/en/menu/battery-modules/solaredge-home-4044.html "SolarEdge Home")
-    * [FoxEss Mira](https://sps24.eu/en/menu/battery-modules/foxess-mira-4046.html "FoxEss Mira")
     * [Pylontech Force](https://sps24.eu/en/menu/battery-modules/pylontech-force-4052.html "Pylontech Force")
     * [BMZ Hyperion](https://sps24.eu/en/menu/battery-modules/bmz-hyperion-4065.html "BMZ Hyperion")
-    * [FoxESS AIO](https://sps24.eu/en/menu/battery-modules/foxess-aio-4066.html "FoxESS AIO")
     * [Growatt](https://sps24.eu/en/menu/battery-modules/growatt-4067.html "Growatt")
     * [LG Chem RESU](https://sps24.eu/en/menu/battery-modules/lg-chem-resu-4770.html "LG Chem RESU")
     * [Solplanet](https://sps24.eu/en/menu/battery-modules/solplanet-4802.html "Solplanet")
+    * [Deye](https://sps24.eu/en/menu/battery-modules/deye-4862.html "Deye")
+    * [FoxESS](https://sps24.eu/en/menu/battery-modules/foxess-4863.html "FoxESS")
 * [Photovoltaic Accessories](https://sps24.eu/en/menu/photovoltaic-accessories-3098.html "Photovoltaic Accessories")
     * [Optimizers](https://sps24.eu/en/menu/photovoltaic-accessories/optimizers-3681.html "Optimizers")
     * [Solar Connection Boxes](https://sps24.eu/en/menu/photovoltaic-accessories/solar-connection-boxes-3683.html "Solar Connection Boxes")
@@ -116,7 +116,6 @@ Delivery cost from
     * [Batteries](https://sps24.eu/en/menu/emergency-power-solutions/batteries-4555.html "Batteries")
     * [Off-Grid Inverters](https://sps24.eu/en/menu/emergency-power-solutions/off-grid-inverters-4652.html "Off-Grid Inverters")
 * [Complete PV Systems](https://sps24.eu/en/menu/complete-pv-systems-3868.html "Complete PV Systems")
-* [Electric Vehicle Chargers](https://sps24.eu/en/menu/electric-vehicle-chargers-4808.html "Electric Vehicle Chargers")
 * [Gate automation](https://sps24.eu/en/menu/gate-automation-4810.html "Gate automation")
     * [Genius](https://sps24.eu/en/menu/gate-automation/genius-4828.html "Genius")
     * [Beninca](https://sps24.eu/en/menu/gate-automation/beninca-4829.html "Beninca")
@@ -217,7 +216,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=f0fee817ad12554713d0de2363c081db)
+![pixel](https://client4733.idosell.com/checkup.php?c=79843e0afba57ab3cac4e0d9babb3c18)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
