@@ -24,7 +24,7 @@ Company
 * [FAQ](https://support.google.com/tenor)
 * [Terms and Privacy](https://tenor.com/legal-terms)
 * [Website Licenses](https://tenor.com/assets/dist/licenses.txt)
-* [Contact Us](https://tenor.com/contact)
+* [Contact Us](https://support.google.com/tenor/gethelp?hl=en)
 
 API
 
