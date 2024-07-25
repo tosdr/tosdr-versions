@@ -228,7 +228,7 @@ Adaptavist](https://www.adaptavist.com/)
         
         [bug Icon
         
-        Support](https://productsupport.adaptavist.com/servicedesk/customer/user/login?destination=portals)
+        Support](https://the-adaptavist-group-support.atlassian.net/servicedesk/customer/user/login?destination=portals)
         
         Integrate our apps
         
@@ -444,7 +444,7 @@ Adaptavist](https://www.adaptavist.com/)
         
         Ask one of our experts](https://www.adaptavist.com/contact)[![Product support Get support with our products](https://static.adaptavistassets.com/images/products/support.png)Product support   
         
-        Get support with our products](https://productsupport.adaptavist.com/servicedesk/customer/user/login?destination=portals)
+        Get support with our products](https://the-adaptavist-group-support.atlassian.net/servicedesk/customer/user/login?destination=portals)
 
 1. [home Icon](https://www.adaptavist.com/)chevron Icon
 2. Privacy policy
@@ -866,7 +866,7 @@ Adaptavist](https://www.adaptavist.com/)
 
 [Products](https://www.adaptavist.com/products)
 
-[ScriptRunner](https://www.scriptrunnerhq.com/atlassian-apps/jira/scriptrunner-for-jira)[Documentation](https://docs.adaptavist.com/)[Product Support](https://productsupport.adaptavist.com/servicedesk/customer/user/login?destination=portals)[Code Library](https://library.adaptavist.com/)
+[ScriptRunner](https://www.scriptrunnerhq.com/atlassian-apps/jira/scriptrunner-for-jira)[Documentation](https://docs.adaptavist.com/)[Product Support](https://the-adaptavist-group-support.atlassian.net/servicedesk/customer/user/login?destination=portals)[Code Library](https://library.adaptavist.com/)
 
 [Solutions](https://www.adaptavist.com/solutions)
 
