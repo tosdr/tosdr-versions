@@ -9,6 +9,7 @@
             * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
             * [TeamChat](https://www.thryv.com/features/teamchat/)
             * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls/)
+            * [WebChat](https://www.thryv.com/features/webchat/)
         * * [BUSINESS CENTER](https://www.thryv.com/business-center/)
                 
                 Everything you need to streamline your day-to-day business.
@@ -26,6 +27,7 @@
             * [Landing Pages](https://www.thryv.com/features/landing-pages/)
             * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
             * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
+            * [Growth Package](https://www.thryv.com/features/growth-package/)
         * * [MARKETPLACE](https://www.thryv.com/app-market/)
                 
                 Need a little something extra? Find it here.
@@ -101,6 +103,8 @@
 
 [![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
+menu
+
 * Sales: [1 (888) 733-9482](tel:18887339482)
     
 * * [Products](#)
@@ -111,6 +115,7 @@
         * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
         * [TeamChat](https://www.thryv.com/features/teamchat/)
         * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls)
+        * [WebChat](https://www.thryv.com/features/webchat/)
         * [BUSINESS CENTER](https://www.thryv.com/business-center/)
             
             Everything you need to streamline your day-to-day business.
@@ -127,6 +132,7 @@
         * [Landing Pages](https://www.thryv.com/features/landing-pages/)
         * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
         * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
+        * [Growth Package](https://www.thryv.com/features/growth-package/)
         * [MARKET PLACE](https://www.thryv.com/app-market/)
             
             Need a little something extra? Find it here.
@@ -660,6 +666,7 @@ Please print a copy of this privacy policy for your records and PLEASE check thi
 * [Centralized Inbox](https://www.thryv.com/features/centralized-inbox/)
 * [TeamChat](https://www.thryv.com/features/teamchat/)
 * [Phone & Video Calls](https://www.thryv.com/features/phone-video-calls/)
+* [WebChat](https://www.thryv.com/features/webchat/)
 * [Scheduling & Appointments](https://www.thryv.com/features/appointment-booking/)
 * [Customer Relationships Management (CRM)](https://www.thryv.com/features/customer-relationship-management/)
 * [Estimates & Invoices](https://www.thryv.com/features/invoice-software/)
@@ -670,6 +677,7 @@ Please print a copy of this privacy policy for your records and PLEASE check thi
 * [Landing Pages](https://www.thryv.com/features/landing-pages/)
 * [AI Recommendations](https://www.thryv.com/features/ai-recommendations/)
 * [AI For Small Businesses](https://www.thryv.com/features/ai-for-small-businesses/)
+* [Growth Package](https://www.thryv.com/features/growth-package/)
 
 ### Resources
 
