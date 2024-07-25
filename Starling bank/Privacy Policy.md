@@ -245,7 +245,7 @@ Each section has two parts:
 
 * 2.1. for our operation as a bank and to provide banking and financial products and services including:
     
-* 2.1.1. to operate bank accounts, make payments (including through digital services like GooglePay, ApplePay, SamsungPay, GarminPay, FitBitPay), to comply with obligations to our debit card partner, run our Marketplace and let you use all these services and to allow you to participate in interactive features of our service and the Marketplace, when you choose to do so;
+* 2.1.1. to operate bank accounts, make payments (including through digital services like GooglePay, ApplePay, SamsungPay, GarminPay), to comply with obligations to our debit card partner, run our Marketplace and let you use all these services and to allow you to participate in interactive features of our service and the Marketplace, when you choose to do so;
     
 * 2.1.2. to ensure the App, our websites, content and services are as effective and relevant as possible and give you the best experience they can;
     
