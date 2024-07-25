@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_669ebe34814c5)
+* [fun from day one!](#tab_66a2792b063f2)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_669ebe34814c5)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_66a2792b063f2)
     
-* [fomo no more!](#tab_669ebe34814d4)
+* [fomo no more!](#tab_66a2792b06401)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_669ebe34814d4)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_66a2792b06401)
     
-* [we’ve got you covered, dude](#tab_669ebe34814e0)
+* [we’ve got you covered, dude](#tab_66a2792b0640d)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_669ebe34814e0)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_66a2792b0640d)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,8 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[THE meeting place of all travellers and explorers ![THE meeting place of all travellers and explorers ✨ #viaamsterdam #hostellife](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9z35aIpSym/) 
+
 [We've got you, 24/7🫶 ![We've got you, 24/7🫶](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C9sMXZmJXEj/) 
 
 [Who would you pick to make your drink? 😏 make s ![Who would you pick to make your drink? 😏 make sure to watch till the end! #freepourchallenge #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/C9m7ZXZtAYD/) 
@@ -139,8 +141,6 @@ follow us on social
 [Say it's football season without saying it's footb ![Say it's football season without saying it's football season🤪 #EuroCup2024 #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8pI0-Cibjj/) 
 
 [These 10PM sunsets in Amsterdam💛 ![These 10PM sunsets in Amsterdam💛](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8e2RZxC8Tc/) 
-
-[#beerpong questions: are you the one getting your ![#beerpong questions: are you the one getting your mouth or your balls wet? Let us know in the comments 🍻 #viaamsterdam](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C8SEjAUN4yx/) 
 
 current & upcoming events
 -------------------------
