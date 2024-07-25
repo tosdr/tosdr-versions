@@ -18,7 +18,7 @@ SOFASCORE PRIVACY POLICY
 INTRODUCTION
 ------------
 
-Welcome to Sofascore's privacy policy. This privacy policy was last updated on Jan 11th, 2024.
+Welcome to Sofascore's privacy policy. This privacy policy was last updated on Jul 17th, 2024.
 
 Capitalised terms used in this privacy policy are defined in section 13 of this privacy policy below.
 
@@ -75,14 +75,14 @@ We also do not collect any information about criminal convictions or offences.
 We collect, store and transfer broadly three types of information:
 
 1. Certain information when you use our Services which does not identify you as an individual but rather identifies the device you use to access our Services such as:
-    1. **Email communications**: we collect and store all copies of emails you send to us and our replies to your emails.
-    2. **Technical Data**, including internet protocol (IP) address, browser type and version, browsing actions and patterns, time zone setting and location, browser plug-in types and versions, information about operating system, platform and other technologies on the devices you use to access our Services.
-    3. **Usage Data**, including information about how you use our Platforms, products and services.
-    4. **Device Data**: we collect information from the device you use to access our Platforms. This includes IP address, language setting, device model, device operating system version, Sofascore-installed application version.
-    5. **Aggregated Data**, such as statistical or demographic data for any purpose which data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature.
-    6. **Profile Data**, such as your interests and preferences based on our profiling activity, and your responses to surveys and request for feedback. This information may include Personal Data we hold about you.
-    7. **Social Media Profile**: we collect your social media profile details including your social media username, your name, profile photo and any other information you choose to make available to us when you connect with or contact us through your social media account or use our products and services through your social media account.
-    8. **Marketing Data**: We collect information in relation to your response to the marketing activities carried out by us such as information about when you open our email communications. We also collect information about your marketing interests and preferences where these are made available to us as further set out below.
+    1. Email communications: we collect and store all copies of emails you send to us and our replies to your emails.
+    2. Technical Data, including internet protocol (IP) address, browser type and version, browsing actions and patterns, time zone setting and location, browser plug-in types and versions, information about operating system, platform and other technologies on the devices you use to access our Services.
+    3. Usage Data, including information about how you use our Platforms, products and services (e.g. behavioral metrics, heatmaps, and session replay).
+    4. Device Data: we collect information from the device you use to access our Platforms. This includes IP address, language setting, device model, device operating system version, Sofascore-installed application version.
+    5. Aggregated Data, such as statistical or demographic data for any purpose which data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature.
+    6. Profile Data, such as your interests and preferences based on our profiling activity, and your responses to surveys and request for feedback. This information may include Personal Data we hold about you.
+    7. Social Media Profile: we collect your social media profile details including your social media username, your name, profile photo and any other information you choose to make available to us when you connect with or contact us through your social media account or use our products and services through your social media account.
+    8. Marketing Data: We collect information in relation to your response to the marketing activities carried out by us such as information about when you open our email communications. We also collect information about your marketing interests and preferences where these are made available to us as further set out below.
 
 If you use our native mobile applications, we will ask if you want to receive push notifications from us. Push notifications may include alerts, sounds, icon badges and other information in relation to the use of the mobile application itself. You can choose to allow or reject push notifications being sent to your device. If you do not allow us to send you push notifications, you will be able to use the mobile application, but you may not get the full benefit of its features. You can control your preferences to receive push notifications via your device settings.
 
@@ -91,10 +91,10 @@ If you use our native mobile applications, we will ask if you want to receive pu
 
 We use different methods to collect information from and about you and / or your device including through:
 
-* **Automated technologies or interactions.** As you interact with our Services, we may automatically collect Technical Data about your device, browsing actions and patterns. We collect this information by using cookies and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies or those of our advertising partners (see below). Please see our[cookie policy](https://www.sofascore.com/cookies-policy) for further details.
-* **Third parties or publicly available sources.** Third parties who provide advertising and related services may give us your Personal Data (including Technical Data). These third parties include analytics providers based within and outside the EU (such as Google) and ad networks.
-* **Third parties where you have provided your consent or for co-branded services.** Third parties may give us your Identity Data, Contact Data and/or Profile Data where you have provided your consent to that third party to share your information with us (such as for marketing purposes). In addition, where we offer co-branded services such as competitions, promotions or events with or in association with a third party, that third party may share the information you have provided to them with us for the purpose of providing the co-branded services in accordance with your consent preferences.
-* **Information collected from you.** You may give us your Identity Data, Contact Data and/or Profile Data by contacting us via our Platforms.
+* Automated technologies or interactions. As you interact with our Services, we may automatically collect Technical Data about your device, browsing actions and patterns. We collect this information by using cookies and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies or those of our advertising partners (see below). Please see our [cookie policy](https://www.sofascore.com/cookies-policy) for further details.
+* Third parties or publicly available sources. Third parties who provide advertising and related services may give us your Personal Data (including Technical Data). These third parties include analytics providers based within and outside the EU (such as Google) and ad networks.
+* Third parties where you have provided your consent or for co-branded services. Third parties may give us your Identity Data, Contact Data and/or Profile Data where you have provided your consent to that third party to share your information with us (such as for marketing purposes). In addition, where we offer co-branded services such as competitions, promotions or events with or in association with a third party, that third party may share the information you have provided to them with us for the purpose of providing the co-branded services in accordance with your consent preferences.
+* Information collected from you. You may give us your Identity Data, Contact Data and/or Profile Data by contacting us via our Platforms.
 
 4\. HOW DO WE USE YOUR INFORMATION
 ----------------------------------
@@ -153,18 +153,21 @@ For certain marketing communications, such as online banner, interstitial and ot
 
 For certain marketing communications, you can choose to opt-in to receive our marketing communications via the following channels:
 
-* **email marketing**: when you opt-in to receive marketing communications by email, such as promotional email communications or match reports via the desktop websites, mobile websites and native mobile applications of our Platforms;
-* **app push notifications**: when you have installed our Platforms’ native mobile applications on your device and enabled push notifications in your device settings;
-* **web push notifications**: when you have enabled web push notifications in the ‘Settings’ page of the desktop websites and mobile websites of our Platforms, and your browser settings;
+* email marketing: when you opt-in to receive marketing communications by email, such as promotional email communications or match reports via the desktop websites, mobile websites and native mobile applications of our Platforms;
+* app push notifications: when you have installed our Platforms’ native mobile applications on your device and enabled push notifications in your device settings;
+* web push notifications: when you have enabled web push notifications in the ‘Settings’ page of the desktop websites and mobile websites of our Platforms, and your browser settings;
 
 For certain marketing communications, you can opt-out from receiving marketing communications or update your preferences as to which marketing communications you receive at any time by contacting us using the details set out in Section 11 or by following these instructions:
 
-* **app push notifications**: to opt-out from receiving push notifications from our Platforms’ native mobile applications, you can disable push notifications in your device settings or via the ‘Notifications’ page in the ‘Settings’ page of our Platforms’ native mobile applications where you can also update your preferences;
-* **web push notifications**: to opt-out from receiving push notifications via your browser, you can disable push notifications using your browser settings or via the ‘Settings’ page of our Platforms’ desktop websites and mobile websites where you can also update your preferences;
+* email marketing: to opt-out from emails, use the ‘Unsubscribe’ link provided within any email you receive. You can also update your preferences by using the ‘Manage Preferences’ link provided with any email you receive;
+* app push notifications: to opt-out from receiving push notifications from our Platforms’ native mobile applications, you can disable push notifications in your device settings or via the ‘Notifications’ page in the ‘Settings’ page of our Platforms’ native mobile applications where you can also update your preferences;
+* web push notifications: to opt-out from receiving push notifications via your browser, you can disable push notifications using your browser settings or via the ‘Settings’ page of our Platforms’ desktop websites and mobile websites where you can also update your preferences;
 
-**Social Media Marketing.** We may also use information you provide to us to show you relevant advertising and personalised content on certain third party social media platforms made available to us through those services (e.g. Facebook, Twitter, Instagram). We do not control the way these social media platforms operate and collect your information and you should read their respective privacy policies online to understand how they use your personal information. If you no longer want to receive personalised and targeted advertisements from the social media platforms, you can manage your advertising preferences and decide what you want or do not want to see using the settings in your relevant social media platform account.
+Social Media Marketing. We may also use information you provide to us to show you relevant advertising and personalised content on certain third party social media platforms made available to us through those services (e.g. Facebook, Twitter, Instagram). We do not control the way these social media platforms operate and collect your information and you should read their respective privacy policies online to understand how they use your personal information. If you no longer want to receive personalised and targeted advertisements from the social media platforms, you can manage your advertising preferences and decide what you want or do not want to see using the settings in your relevant social media platform account.
 
-**Profiling.** We may also carry out certain profiling of you and your activity on our Platforms in order to send you more relevant marketing communications. This may include profiling the way in which you engage with advertisements that may be served on our Platforms or included in our marketing communications of the brands of our Platforms, our group companies and our carefully selected third parties. This profiling will be undertaken based on your use of our Platforms and your selected preferences for marketing communications. You can opt-out of such profiling by contacting us using the details set out at Section 11.
+Profiling. We may also carry out certain profiling of you and your activity on our Platforms in order to send you more relevant marketing communications. This may include profiling the way in which you engage with advertisements that may be served on our Platforms or included in our marketing communications of the brands of our Platforms, our group companies and our carefully selected third parties. This profiling will be undertaken based on your use of our Platforms and your selected preferences for marketing communications. You can opt-out of such profiling by contacting us using the details set out at Section 11.
+
+Use of Microsoft Clarity. We partner with Microsoft Clarity to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-US/privacystatement)
 
 5\. DISCLOSURES OF YOUR INFORMATION
 -----------------------------------
@@ -191,27 +194,9 @@ Some of the advertisements you receive while using the Services are chosen and d
 
 When you use our website and enter your email address on our website (either to log in or similar), we may share with solution providers and its group companies information that we collect from you, such as your email (in hashed, pseudonymous form), IP address, or information about your browser or operating system, with any of the following, acting as “joint controllers” (as applicable and defined in the GDPR). This Site is affiliated with Adapex INC for the purposes of placing advertising on the Site, and Adapex INC will collect and use certain data for advertising purposes. [Learn more about Adapex’s data usage here.](https://adapex.io/privacy-policy/)
 
-The advertising partners we currently work (or will shortly be working) with (together, the “**Ad Partners**”) are listed here:
+The advertising partners we currently work (or will shortly be working) with (together, the “Ad Partners”) are listed here:
 
 Sofascore’s Privacy Policy Ad Partners
-
-* AppNexus, Xandr company - [https://www.appnexus.com/platform-privacy-policy-072016](https://www.appnexus.com/platform-privacy-policy-072016)
-* The Rubicon project - [https://rubiconproject.com/privacy-policy/](https://rubiconproject.com/privacy-policy/)
-* Adform - [https://site.adform.com/privacy-center/website-privacy/website-cookie-policy/](https://site.adform.com/privacy-center/website-privacy/website-cookie-policy/)
-* SpotX inc.- [https://www.spotx.tv/privacy-policy/](https://www.spotx.tv/privacy-policy/)
-* Sovrn Holdings inc. - [https://www.sovrn.com/legal/website-privacy/](https://www.sovrn.com/legal/website-privacy/)
-* OpenX Software ltd. - [https://openx.com/legal/privacypolicy](https://openx.com/legal/privacypolicy)
-* Pubmatic inc. and its affiliates - [https://pubmatic.com/legal/privacy-policy/](https://pubmatic.com/legal/privacy-policy/)
-* Gumgum inc. - [https://gumgum.com/terms-and-policies/cookies-policy](https://gumgum.com/terms-and-policies/cookies-policy)
-* RhythmOne llc. - [https://www.rhythmone.com/privacy-policy/](https://www.rhythmone.com/privacy-policy/)
-* Smaato inc. - [https://www.smaato.com/cookie-policy/](https://www.smaato.com/cookie-policy/)
-* IndexExchange inc. - [https://www.indexexchange.com/privacy/](https://www.indexexchange.com/privacy/)
-* Criteo - [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/)
-* Mobfox - [https://www.mobfox.com/privacy-policy/](https://www.mobfox.com/privacy-policy/)
-* InMobi Pte ltd - [https://www.inmobi.com/cookie-policy/](https://www.inmobi.com/cookie-policy/)
-* Conversant Europe ltd - [https://www.conversantmedia.eu/legal/cookie-policy](https://www.conversantmedia.eu/legal/cookie-policy)
-* One Trust Technology limited - [https://www.onetrust.com/privacy/](https://www.onetrust.com/privacy/)
-* 33Across inc. - [https://www.33across.co.uk/privacy-policy/](https://www.33across.co.uk/privacy-policy/)
 
 The advertising partners we currently work (or will shortly be working) are managed using Google Ad Exchange.
 
@@ -267,7 +252,7 @@ Under certain circumstances, you have rights under Data Protection Laws in relat
 * object (where our lawful basis for processing your Personal Data is based on our Legitimate Interests); and
 * complain to the regulator (if you are unhappy with our response to your query) by visiting [https://azop.hr/](https://azop.hr/)
 
-Our Ad Partners do collect and use the usage data described in Section 7 above. **If you wish to exercise any of the rights set out above in respect of such data, please contact the Ad Partners using the details in their privacy policy.**
+Our Ad Partners do collect and use the usage data described in Section 7 above. If you wish to exercise any of the rights set out above in respect of such data, please contact the Ad Partners using the details in their privacy policy.
 
 11\. QUESTIONS
 --------------
