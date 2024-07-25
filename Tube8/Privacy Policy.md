@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.t8cdn.com/6b52e7c6845d7970daf0736e99f402d22aef005a/tube8/cdn_assets/images/shared/logo.png?v=6b52e7c6845d7970daf0736e99f402d22aef005a)
+![Youporn Free Porn](https://ea.t8cdn.com/e77609723da5cbc3619f27845e73a20e1741b8ac/tube8/cdn_assets/images/shared/logo.png?v=e77609723da5cbc3619f27845e73a20e1741b8ac)
 
 Age Verification
 
@@ -8,7 +8,7 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Tube8 2024 [![rta](https://ea.t8cdn.com/6b52e7c6845d7970daf0736e99f402d22aef005a/base/cdn_assets/images/shared/rta.gif?v=6b52e7c6845d7970daf0736e99f402d22aef005a)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Tube8 2024 [![rta](https://ea.t8cdn.com/e77609723da5cbc3619f27845e73a20e1741b8ac/base/cdn_assets/images/shared/rta.gif?v=e77609723da5cbc3619f27845e73a20e1741b8ac)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
@@ -47,74 +47,66 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/6b52e7c6845d7970daf0736e99f402d22aef005a/tube8/cdn_assets/images/shared/logo.png?v=6b52e7c6845d7970daf0736e99f402d22aef005a "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/e77609723da5cbc3619f27845e73a20e1741b8ac/tube8/cdn_assets/images/shared/logo.png?v=e77609723da5cbc3619f27845e73a20e1741b8ac "Tube8 Free Porn")](https://www.tube8.com/)
 
 #### Recent Searches
 
 #### Trending Searches
 
-* [Hot milf](https://www.tube8.com/porntags/hot+milf/)
-* [Hairy anal](https://www.tube8.com/porntags/hairy+anal/)
+* [Breastfeeding](https://www.tube8.com/porntags/breastfeeding/)
 * [Friends](https://www.tube8.com/porntags/friends/)
-* [Virtual sex](https://www.tube8.com/porntags/virtual+sex/)
 * [Friends wife](https://www.tube8.com/porntags/friends+wife/)
-* [Bbc dp](https://www.tube8.com/porntags/bbc+dp/)
 * [Sunny leone](https://www.tube8.com/porntags/sunny+leone/)
 * [Missionary creampie](https://www.tube8.com/porntags/missionary+creampie/)
+* [Thick asian](https://www.tube8.com/porntags/thick+asian/)
+* [China](https://www.tube8.com/porntags/china/)
 * [Girl next door](https://www.tube8.com/porntags/girl+next+door/)
-* [Turkish](https://www.tube8.com/porntags/turkish/)
+* [Lesbian double dildo](https://www.tube8.com/porntags/lesbian+double+dildo/)
+* [Cum swap](https://www.tube8.com/porntags/cum+swap/)
 
 #### Recommended Pornstars For You
 
 [More](https://www.tube8.com/pornstars/)
 
-[Frank Taylor
-
-Pornstar](https://www.tube8.com/pornstar/frank-taylor/)
-
 [Dora Venter
 
 Pornstar](https://www.tube8.com/pornstar/dora-venter/)
-
-[Brittany Blaze
-
-Pornstar](https://www.tube8.com/pornstar/brittany-blaze/)
 
 [Chocolate
 
 Pornstar](https://www.tube8.com/pornstar/chocolate/)
 
-[Johnny Rey
+[Courtney Cummins
 
-Pornstar](https://www.tube8.com/gay/pornstar/johnny-rey/)
+Pornstar](https://www.tube8.com/pornstar/courtney-cummins/)
 
 #### Recommended Channels For You
 
 [More](https://www.tube8.com/top-channels/)
 
-[StepSiblingsCaught Channel](https://www.tube8.com/channel/step-siblings-caught/)
-
-[SisLovesMe Channel](https://www.tube8.com/channel/sis-loves-me/)
-
-[FamilyStrokes Channel](https://www.tube8.com/channel/family-strokes/)
-
-[MassageRooms Channel](https://www.tube8.com/channel/massagerooms/)
+[Girlsway Channel](https://www.tube8.com/channel/girlsway/)
 
 [BlackedRaw Channel](https://www.tube8.com/channel/blacked-raw/)
 
-[BangBrosNetwork Channel](https://www.tube8.com/channel/bangbrosnetwork/)
+[FakeTaxi Channel](https://www.tube8.com/channel/faketaxi/)
 
-[BrattySis Channel](https://www.tube8.com/channel/bratty-sis/)
-
-[HotGuysFuck Channel](https://www.tube8.com/channel/hot-guys-fuck/)
-
-[PropertySex Channel](https://www.tube8.com/channel/property-sex/)
+[Blacked Channel](https://www.tube8.com/channel/blacked/)
 
 [PublicAgent Channel](https://www.tube8.com/channel/public-agent/)
 
-[Girlsway Channel](https://www.tube8.com/channel/girlsway/)
+[MassageRooms Channel](https://www.tube8.com/channel/massagerooms/)
 
-[RealityKings Channel](https://www.tube8.com/channel/realitykings/)
+[MyFamilyPies Channel](https://www.tube8.com/channel/my-family-pies/)
+
+[Brazzers Channel](https://www.tube8.com/channel/brazzers/)
+
+[HotGuysFuck Channel](https://www.tube8.com/channel/hot-guys-fuck/)
+
+[NewSensations Channel](https://www.tube8.com/channel/newsensations/)
+
+[Vixen Channel](https://www.tube8.com/channel/vixen/)
+
+[BrattySis Channel](https://www.tube8.com/channel/bratty-sis/)
 
 #### All videos
 
@@ -673,19 +665,18 @@ Back to Top
 5. [Our Legal Bases Under Canadian and European Union (EU) Privacy Law](#pn_legal)
 6. [Disclosure of Your Personal Information](#pn_disclosure)
 7. [Cookies and Automatic Data Collection Technologies](#pn_cookies)
-8. [Third-party Use of Cookies and Other Tracking Technologies](#pn_third-party)
-9. [Your Choices About How We Collect, Use and Disclose Your Personal Information](#pn_your-choices)
-10. [California Rights and Choices](#pn_california-rights)
-11. [Resident’s Rights – Jurisdictions in the United States, Where Applicable](#pn_notice)
-12. [Biometric Information](#pn_law)
-13. [Notice to Law Enforcement](#pn_notice-law)
-14. [Transfers of Your Personal Information to Other Countries](#pn_transfers)
-15. [Retention of Personal Information](#pn_retention)
-16. [Third-Party Links and Sites](#pn_links)
-17. [Changes to Our Privacy Notice](#pn_changes)
-18. [Contact Information](#pn_contact)
-19. [Your Rights Related to Your Personal Information](#pn_your-rights)
-20. [Manage My Data](#pn_requests)
+8. [Your Choices About How We Collect, Use and Disclose Your Personal Information](#pn_your-choices)
+9. [California Rights and Choices](#pn_california-rights)
+10. [Resident’s Rights – Jurisdictions in the United States, Where Applicable](#pn_notice)
+11. [Biometric Information](#pn_law)
+12. [Notice to Law Enforcement](#pn_notice-law)
+13. [Transfers of Your Personal Information to Other Countries](#pn_transfers)
+14. [Retention of Personal Information](#pn_retention)
+15. [Third-Party Links and Sites](#pn_links)
+16. [Changes to Our Privacy Notice](#pn_changes)
+17. [Contact Information](#pn_contact)
+18. [Your Rights Related to Your Personal Information](#pn_your-rights)
+19. [Manage My Data](#pn_requests)
 
 Privacy Notice
 ==============
@@ -1080,7 +1071,7 @@ Video Fingerprinting
 
 We use MediaWise®, an automated audiovisual identification system, to assist us in identifying and blocking potentially infringing content from being uploaded by users. Videos uploaded to Tube8 are compared against a database of digital fingerprints. When a video is matched to a digital fingerprint, access to it is disabled.
 
-If you are interested in having your content digitally fingerprinted by the provider of the automated audiovisual identification system we use, please contact Vobile in one of the manners described at [https://vobile.com/about/contact/](https://vobile.com/about/contact/).
+If you are interested in having your content digitally fingerprinted by the provider of the automated audiovisual identification system we use, please contact Vobile in one of the manners described at [https://us.vobile.com/contact](https://us.vobile.com/contact).
 
 Back to Top
 
@@ -1153,7 +1144,7 @@ I want to make sure a video of me or my content never gets uploaded to Tube8 / t
 
 You can find more information on how to remove content by visiting [content removal form](https://www.tube8.com/content-removal)
 
-We use MediaWise®, a third-party automated audiovisual identification system, to assist us in identifying and blocking potentially infringing content from being uploaded by users. Videos uploaded to Pornhub are compared against MediaWise®’s database of digital fingerprints. When a video is matched to a digital fingerprint, access to it is disabled. If you are interested in having your content digitally fingerprinted by the provider of the automated audiovisual identification system we use, please contact Vobile in one of the manners described at [https://vobile.com/about/contact/](https://vobile.com/about/contact/)
+We use MediaWise®, a third-party automated audiovisual identification system, to assist us in identifying and blocking potentially infringing content from being uploaded by users. Videos uploaded to Pornhub are compared against MediaWise®’s database of digital fingerprints. When a video is matched to a digital fingerprint, access to it is disabled. If you are interested in having your content digitally fingerprinted by the provider of the automated audiovisual identification system we use, please contact Vobile in one of the manners described at [https://us.vobile.com/contact](https://us.vobile.com/contact)
 
 Where do I sign up?
 
@@ -1661,9 +1652,9 @@ INCREASE YOUR EXPOSURE TODAY!
 
 Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
-[![Sign Up Now](https://ea.t8cdn.com/6b52e7c6845d7970daf0736e99f402d22aef005a/base/cdn_assets/images/shared/sign-up-button.png?v=6b52e7c6845d7970daf0736e99f402d22aef005a)](https://www.pornhub.com/partners/cpp)
+[![Sign Up Now](https://ea.t8cdn.com/e77609723da5cbc3619f27845e73a20e1741b8ac/base/cdn_assets/images/shared/sign-up-button.png?v=e77609723da5cbc3619f27845e73a20e1741b8ac)](https://www.pornhub.com/partners/cpp)
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/6b52e7c6845d7970daf0736e99f402d22aef005a/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=6b52e7c6845d7970daf0736e99f402d22aef005a "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/e77609723da5cbc3619f27845e73a20e1741b8ac/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=e77609723da5cbc3619f27845e73a20e1741b8ac "Tube8 Free Porn")](https://www.tube8.com/)
 
 ### HELP & SUPPORT
 
@@ -1690,7 +1681,7 @@ Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
 [Looking for gay porn?](https://www.tube8.com/gay "Tube8 Gay")
 
-[![rta](https://ea.t8cdn.com/6b52e7c6845d7970daf0736e99f402d22aef005a/base/cdn_assets/images/shared/rta.gif?v=6b52e7c6845d7970daf0736e99f402d22aef005a)](https://www.tube8.com/info.html#rating)
+[![rta](https://ea.t8cdn.com/e77609723da5cbc3619f27845e73a20e1741b8ac/base/cdn_assets/images/shared/rta.gif?v=e77609723da5cbc3619f27845e73a20e1741b8ac)](https://www.tube8.com/info.html#rating)
 
 © Tube8 2006 - 2024
 
