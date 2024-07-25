@@ -1,5 +1,17 @@
 [](https://www.taskade.com/ "Taskade")
 
+Product![taskade menu arrow](/static_images/landing/dropdown-caret.svg)
+
+Solutions![taskade menu arrow](/static_images/landing/dropdown-caret.svg)
+
+Learn![taskade menu arrow](/static_images/landing/dropdown-caret.svg)
+
+Tools![taskade menu arrow](/static_images/landing/dropdown-caret.svg)
+
+[Pricing](https://www.taskade.com/pricing)
+
+[Help](https://help.taskade.com/)[Log in](https://www.taskade.com/login)[Sign upSign up for free](https://www.taskade.com/signup)
+
 [](https://www.taskade.com/ "Taskade")
 
 * [Product](https://www.taskade.com/features)
@@ -200,7 +212,7 @@ Should you have any question or concern, please write to [\[email protected\]](
 
 [Microsoft Store](https://www.microsoft.com/p/taskade/9p1jh1d9bg26)
 
-[Chrome](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf?hl=en-US)[Firefox](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)[Edge](https://microsoftedge.microsoft.com/addons/detail/oocnohmkpeeideflaepaogbgkgdggdic)[Community](https://www.taskade.com/community)[Feedback Portal](https://www.taskade.com/feedback)[Facebook Group](https://www.facebook.com/groups/taskade)[Telegram](https://t.me/Taskade)[Discord](https://discord.gg/8XudSC4zcq)[Reddit](https://www.reddit.com/r/taskade)[Forum](https://forum.taskade.com/)
+[Chrome](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf?hl=en-US)[Firefox](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)[Edge](https://microsoftedge.microsoft.com/addons/detail/oocnohmkpeeideflaepaogbgkgdggdic)[Community](https://www.taskade.com/community)[Feedback Portal](https://www.taskade.com/feedback)[Facebook Group](https://www.facebook.com/groups/taskade)[Telegram](https://t.me/Taskade)[Discord](https://discord.gg/8XudSC4zcq)[Reddit](https://www.reddit.com/r/taskade)[Forum](https://forum.taskade.com/)[Updates](https://www.taskade.com/d/H1IeMeLzM?share=view&view=B1Q8lMxIfG)[Blog](https://www.taskade.com/blog/)[Youtube](https://www.youtube.com/taskade)[Instagram](https://www.instagram.com/taskade/)[TikTok](https://www.tiktok.com/@taskade)[Twitter](https://x.com/taskade)
 
 [Products](https://www.taskade.com/ai)[Taskade AI](https://www.taskade.com/ai/app)[AI Chat](https://www.taskade.com/ai/chat)[AI Tasks](https://www.taskade.com/ai/tasks)[AI Notes](https://www.taskade.com/ai/notes)[AI Writer](https://www.taskade.com/ai/writer)[AI Outline](https://www.taskade.com/ai/outline)[AI Agency](https://www.taskade.com/ai/agency)
 
@@ -226,11 +238,11 @@ See all ▼
 
 [AI Workflows](https://www.taskade.com/generate/workflows)[AI Education](https://www.taskade.com/generate/education)[AI Mind Maps](https://www.taskade.com/generate/mind-maps)[AI Flowchart](https://www.taskade.com/generate/flowchart)[AI Scrum Project Management](https://www.taskade.com/generate/ai-scrum-project-management)[AI Agile Project Management](https://www.taskade.com/generate/ai-agile-project-management)[AI Marketing](https://www.taskade.com/generate/marketing)[AI Project Management](https://www.taskade.com/generate/project-management)[AI Social Media Management](https://www.taskade.com/generate/social-media-management)[AI Blogging](https://www.taskade.com/generate/blogging)[AI Agency Workflows](https://www.taskade.com/generate/agency-workflows)[AI Content](https://www.taskade.com/generate/content)[AI Personas](https://www.taskade.com/generate/personas)[AI Outline](https://www.taskade.com/generate/outline)[AI Sales](https://www.taskade.com/generate/sales)[AI Programming](https://www.taskade.com/generate/programming)[AI Design](https://www.taskade.com/generate/design)[AI Freelancing](https://www.taskade.com/generate/freelancing)[AI Resume](https://www.taskade.com/generate/resume)[AI Human Resource](https://www.taskade.com/generate/human-resource)[AI SOPs](https://www.taskade.com/generate/sop)[AI E-Commerce](https://www.taskade.com/generate/e-commerce)[AI Email](https://www.taskade.com/generate/email)[AI Public Relations](https://www.taskade.com/generate/public-relations)[AI Influencers](https://www.taskade.com/generate/influencers)[AI Content Creators](https://www.taskade.com/generate/content-creators)[AI Customer Service](https://www.taskade.com/generate/customer-service)[AI Business](https://www.taskade.com/generate/ai-business)[AI Prompts](https://www.taskade.com/generate/ai-prompts)[AI Tools](https://www.taskade.com/generate/tools)[AI SEO](https://www.taskade.com/generate/seo)[AI Gantt Chart](https://www.taskade.com/generate/ai-gantt-chart)[AI Calendars](https://www.taskade.com/generate/calendars)[AI Board](https://www.taskade.com/generate/board)[AI Table](https://www.taskade.com/generate/table)[AI Research](https://www.taskade.com/generate/research)[AI Legal](https://www.taskade.com/generate/legal)[AI Proposal](https://www.taskade.com/generate/proposal)[AI Video Production](https://www.taskade.com/generate/video-production)[AI Health and Wellness](https://www.taskade.com/generate/health-and-wellness)[AI Writing](https://www.taskade.com/generate/writing)[AI Publishing](https://www.taskade.com/generate/publishing)[AI Nonprofit](https://www.taskade.com/generate/nonprofit)[AI Data](https://www.taskade.com/generate/ai-data)[AI Event Planning](https://www.taskade.com/generate/event-planning)[AI Game Development](https://www.taskade.com/generate/game-development)[AI Project Management Agent](https://www.taskade.com/generate/project-management-agent)[AI Productivity Agent](https://www.taskade.com/generate/ai-productivity-agent)[AI Marketing Agent](https://www.taskade.com/generate/ai-marketing-agent)[AI Personal Agent](https://www.taskade.com/generate/ai-personal-agent)[AI Business and Work Agent](https://www.taskade.com/generate/ai-business-and-work-agent)[AI Education and Learning Agent](https://www.taskade.com/generate/ai-education-and-learning-agent)[AI Task Management Agent](https://www.taskade.com/generate/ai-task-management-agent)[AI Customer Relations Agent](https://www.taskade.com/generate/ai-customer-relations-agent)[AI Programming Agent](https://www.taskade.com/generate/ai-programming-agent)
 
-[Converters](https://www.taskade.com/convert)[AI Coding](https://www.taskade.com/convert/coding)[AI Text](https://www.taskade.com/convert/text)
+[Converters](https://www.taskade.com/convert)[AI Task](https://www.taskade.com/convert/ai-task)[AI Coding](https://www.taskade.com/convert/coding)
 
 See all ▼
 
-[AI PDF](https://www.taskade.com/convert/pdf)[AI Flowcharts](https://www.taskade.com/convert/flowcharts)[AI Youtube](https://www.taskade.com/convert/youtube)[AI Video](https://www.taskade.com/convert/video)[AI Web Page](https://www.taskade.com/convert/web-page)[AI CSV](https://www.taskade.com/convert/csv)[AI Mind Map](https://www.taskade.com/convert/mind-map)[AI Spreadsheet](https://www.taskade.com/convert/spreadsheet)[AI Markdown](https://www.taskade.com/convert/markdown)[AI Email](https://www.taskade.com/convert/email)[AI Knowledge](https://www.taskade.com/convert/knowledge)[AI Kanban Board](https://www.taskade.com/convert/kanban-board)
+[AI Text](https://www.taskade.com/convert/text)[AI PDF](https://www.taskade.com/convert/pdf)[AI Flowcharts](https://www.taskade.com/convert/flowcharts)[AI Youtube](https://www.taskade.com/convert/youtube)[AI Video](https://www.taskade.com/convert/video)[AI Web Page](https://www.taskade.com/convert/web-page)[AI CSV](https://www.taskade.com/convert/csv)[AI Mind Map](https://www.taskade.com/convert/mind-map)[AI Spreadsheet](https://www.taskade.com/convert/spreadsheet)[AI Markdown](https://www.taskade.com/convert/markdown)[AI Email](https://www.taskade.com/convert/email)[AI Knowledge](https://www.taskade.com/convert/knowledge)[AI Kanban Board](https://www.taskade.com/convert/kanban-board)
 
 [Prompts](https://www.taskade.com/prompts)[Research](https://www.taskade.com/prompts/research)[Email Marketing](https://www.taskade.com/prompts/email_marketing)
 
