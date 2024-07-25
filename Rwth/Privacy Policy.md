@@ -214,6 +214,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eew/Wirtschaft/lidx/1/ "T
 * [Education Fund](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~elu/Bildungsfonds/lidx/1/ "Corporate Relations > Fundraising > Education Fund")
 * [Endowments](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~rgr/Stiftungen/lidx/1/ "Corporate Relations > Fundraising > Endowments")
 * [Partnerships & Sponsors](https://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften-Foerdernde/lidx/1/ "Corporate Relations > Fundraising > Partnerships & Sponsors")
+* [More ...](https://www.rwth-aachen.de/cms/root/Wirtschaft/~ekv/Fundraising/lidx/1/ "Corporate Relations > Fundraising > More ...")
 
 #### [Sponsoring](https://www.rwth-aachen.de/cms/root/Wirtschaft/~nmvd/Sponsoring/lidx/1/ "Corporate Relations > Sponsoring")
 
