@@ -74,15 +74,15 @@ Finquarium
 
 A secure, transparent platform for financial prediction data](https://finquarium.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c058c6c7580c8ed6db6_gptdatadao.png)
 
-GPT data DAO
+GPT Data DAO
 
-Own your chatGPT data”](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
+Own your ChatGPT data](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
 
-Reddit data DAO
+Reddit Data DAO
 
-The first data DAO, focused on Reddit data](https://www.rdatadao.org/) [![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
 
- Valora
+Volara
 
 Run a miner to contribute twitter data](https://volara.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66884ca84a4376b52ff0adf1_flirtual%20(1).png)
 
@@ -92,7 +92,137 @@ Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[![](https
 
 Resume Data DAO
 
+Earn from your LinkedIn data](https://www.ldatadao.org/home)
+
+Data Portability Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05a6cac68e8e289776_chirper.jpg)
+
+Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05cd1388594cf6fb8d_uslap.png)
+
+uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)
+
+[Ecosystem](#)[Developers](#)[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)
+
+Ecosystem
+
+Get Started
+
+[Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)
+
+Data Liquidity Layer
+
+[Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[GPT data DAO
+
+Own your chatGPT data](https://www.gptdatadao.org/)[Reddit data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[Valora
+
+Run a miner to contribute twitter data](https://volara.xyz/)[Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[Resume Data DAO
+
 Earn from your LinkedIn data - COMING SOON](#)
+
+Data Portability Layer
+
+[Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+Developers
+
+[Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)
+
+[About](https://www.vana.com/why)
+
+[Blog](https://www.vana.com/post)
+
+[Press](https://www.vana.com/vana-press)
+
+[](https://www.vana.com/)
+
+Get Started
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)
+
+Data Liquidity Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05ee56e11766739e16_finquarium.png)
+
+Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c058c6c7580c8ed6db6_gptdatadao.png)
+
+GPT Data DAO
+
+Own your ChatGPT data](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
+
+Reddit Data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
+
+Volara
+
+Run a miner to contribute twitter data](https://volara.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66884ca84a4376b52ff0adf1_flirtual%20(1).png)
+
+Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66885221d398a7f3370fff1e_Screenshot%202024-07-05%20at%2012.57.57%E2%80%AFPM.png)
+
+Resume Data DAO
+
+Earn from your LinkedIn data](https://www.ldatadao.org/home)
 
 Data Portability Layer
 
@@ -304,3 +434,133 @@ Documentation
 Company
 
 [Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[Contact](mailto:admin@vana.com)
+
+Ecosystem
+
+Get Started
+
+[Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)
+
+Data Liquidity Layer
+
+[Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[GPT data DAO
+
+Own your chatGPT data](https://www.gptdatadao.org/)[Reddit data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[Valora
+
+Run a miner to contribute twitter data](https://volara.xyz/)[Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[Resume Data DAO
+
+Earn from your LinkedIn data - COMING SOON](#)
+
+Data Portability Layer
+
+[Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+Developers
+
+[Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)
+
+[About](https://www.vana.com/why)
+
+[Blog](https://www.vana.com/post)
+
+[Press](https://www.vana.com/vana-press)
+
+[](https://www.vana.com/)
+
+Get Started
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)
+
+Data Liquidity Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05ee56e11766739e16_finquarium.png)
+
+Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c058c6c7580c8ed6db6_gptdatadao.png)
+
+GPT Data DAO
+
+Own your ChatGPT data](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
+
+Reddit Data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
+
+Volara
+
+Run a miner to contribute twitter data](https://volara.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66884ca84a4376b52ff0adf1_flirtual%20(1).png)
+
+Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66885221d398a7f3370fff1e_Screenshot%202024-07-05%20at%2012.57.57%E2%80%AFPM.png)
+
+Resume Data DAO
+
+Earn from your LinkedIn data](https://www.ldatadao.org/home)
+
+Data Portability Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05a6cac68e8e289776_chirper.jpg)
+
+Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05cd1388594cf6fb8d_uslap.png)
+
+uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp/become-a-dlp-validator)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/vana/get-started/data-liquidity-layer/create-a-data-liquidity-pool-dlp)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)
+
+[Ecosystem](#)[Developers](#)[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)
