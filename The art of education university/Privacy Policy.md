@@ -318,11 +318,11 @@ Search
     
     ##### AI in Art Education
     
-    [](https://theartofeducation.edu/course/advanced-2d-explorations/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    [](https://theartofeducation.edu/course/studio-drawing-living-forms/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://theartofeducation.edu/wp-content/uploads/2024/07/advanced_2D_Explorations_rgb-300x300.png)
+    ![](https://theartofeducation.edu/wp-content/uploads/2024/06/drawinglivingforms_rgb_circleNEW-300x300.png)
     
-    ##### Studio: Advanced 2D Explorations
+    ##### Studio: Drawing Living Forms
     
     [](https://theartofeducation.edu/course/design-thinking-for-art-education/)![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
