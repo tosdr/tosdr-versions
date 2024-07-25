@@ -7,7 +7,8 @@
 Product![](/images/icons/icon-chevron-down-white.svg)
 
 * [Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/)
-* [Help Desk & Live Chat](https://www.tidio.com/help-desk/)
+* [Live Chat](https://www.tidio.com/live-chat/)
+* [Help Desk](https://www.tidio.com/help-desk/)
 * [Flows](https://www.tidio.com/flows/)
 * [Integrations](https://www.tidio.com/integrations/)
 * [See all Tidio features](https://www.tidio.com/features/)
@@ -31,23 +32,43 @@ Resources
 
 [Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
 
-Help Desk & Live Chat
+Live Chat
+
+[Learn more about Live Chat](https://www.tidio.com/live-chat/)
+
+Features
+
+[Shared inbox](https://www.tidio.com/shared-inbox/)
+
+[Visitors list](https://www.tidio.com/visitors-list/)
+
+[Analytics](https://www.tidio.com/analytics/)
+
+Resources
+
+[Tidio vs LiveChat](https://www.tidio.com/vs/live-chat/)
+
+[Customer Service Course](https://academy.tidio.com/course/customer-experiences)
+
+Help Desk
 
 [Learn more about Help Desk](https://www.tidio.com/help-desk/)
 
 Features
 
-[Live Chat](https://www.tidio.com/live-chat/)
-
 [Ticketing](https://www.tidio.com/ticketing/)
 
 [Multichannel](https://www.tidio.com/multichannel/)
+
+[Live Chat](https://www.tidio.com/live-chat/)
 
 Resources
 
 [Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
 
 [Best Practices](https://www.tidio.com/blog/help-desk-best-practices/)
+
+[Tidio vs Gorgias](https://www.tidio.com/vs/gorgias/)
 
 Flows
 
@@ -87,7 +108,7 @@ Channels
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
-[Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+[See all Tidio features](https://www.tidio.com/features/)
 
 Lyro AI Chatbot
 
@@ -109,25 +130,47 @@ Resources
 
 [Tidio Academy course](https://academy.tidio.com/course/ai-customer-service)
 
+Live Chat
+
+Support your website visitors in real-time. Provide a clear path for customer questions to improve the shopping experience you offer. Drive conversions with Tidio Live Chat.
+
+[Learn more about Live Chat](https://www.tidio.com/live-chat/)
+
+Features
+
+[Shared inbox](https://www.tidio.com/shared-inbox/)
+
+[Visitors list](https://www.tidio.com/visitors-list/)
+
+[Analytics](https://www.tidio.com/analytics/)
+
+Resources
+
+[Tidio vs LiveChat](https://www.tidio.com/vs/live-chat/)
+
+[Customer Service Course](https://academy.tidio.com/course/customer-experiences)
+
 Help Desk
 
-Drive customer satisfaction with live chat, ticketing, video calls, and multichannel communication - everything you need for customer service.
+Access all your customer service tools in a single dashboard. Handle conversations, manage tickets, and resolve issues quickly to improve your CSAT.
 
 [Learn more about Help Desk](https://www.tidio.com/help-desk/)
 
 Features
 
-[Live Chat](https://www.tidio.com/live-chat/)
-
 [Ticketing](https://www.tidio.com/ticketing/)
 
 [Multichannel](https://www.tidio.com/multichannel/)
+
+[Live Chat](https://www.tidio.com/live-chat/)
 
 Resources
 
 [Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
 
 [Best Practices](https://www.tidio.com/blog/help-desk-best-practices/)
+
+[Tidio vs Gorgias](https://www.tidio.com/vs/gorgias/)
 
 Flows
 
@@ -169,7 +212,7 @@ Channels
 
 [Messenger](https://www.tidio.com/messenger/)
 
-![85% Support automation](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Faside-suitor.png&w=488&q=75)
+![85% Support automation](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fsupport-automation.png&w=488&q=75)
 
 [See customer story](https://www.tidio.com/blog/suitor-case-study/)
 
@@ -181,7 +224,19 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
-![705 Leads collected](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fcustomer-satisfaction.png&w=488&q=75)
+![25% Increase in lead generation](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Flead-generation-increase.png&w=488&q=75)
+
+[See customer story](https://www.tidio.com/blog/integratec-case-study/)
+
+[Tidio+ Premium Plan
+
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+
+[Watch Demo](https://www.tidio.com/watch-demo/)
+
+[Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
+
+![705 Leads collected](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fcustomer-satisfaction-no-radius.png&w=488&q=75)
 
 [See customer story](https://www.tidio.com/blog/wulff-beltton-case-study/)
 
@@ -193,7 +248,7 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
-![138% Lead generation boost](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Faside-lead-generation.png&w=488&q=75)
+![138% Lead generation boost](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Flead-generation-boost.png&w=488&q=75)
 
 [See customer story](https://www.tidio.com/blog/endeksa-case-study/)
 
@@ -205,7 +260,7 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
-![86% Decrease in waiting times](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Faside-case-study.png&w=488&q=75)
+![86% Decrease in waiting times](/_next/image/?url=%2Fimages%2Fnav%2Faside%2Fdecrease-waiting-times.png&w=488&q=75)
 
 [See customer story](https://www.tidio.com/blog/eye-oo-case-study/)
 
@@ -233,7 +288,7 @@ Resources![](/images/icons/icon-chevron-down-white.svg)
 
 Customer Stories
 
-Newest case study
+Featured case study
 
 [![Eye-oo image with logotype](/_next/image/?url=%2Fimages%2Fnav%2FresourcesTab%2Feyeoo.png&w=3840&q=75)
 
@@ -397,7 +452,7 @@ Chatbots for Ecommerce](https://www.tidio.com/blog/ecommerce-chatbots/)
 
 [Live Chat for Customer Service](https://www.tidio.com/blog/live-chat-apps/)
 
-Newest case study
+Featured case study
 
 [![Eye-oo image with logotype](/_next/image/?url=%2Fimages%2Fnav%2FresourcesTab%2Feyeoo.png&w=3840&q=75)
 
@@ -449,7 +504,7 @@ Resources
 
 [See all Resources](https://www.tidio.com/resources/)
 
-![Compare](/_next/image/?url=%2Fimages%2Fnav%2Fcompare-tab-top-image.png&w=3840&q=75)
+![Compare](/_next/image/?url=%2Fimages%2Fnav%2Fcompare-tab-top-image-dark.png&w=3840&q=75)
 
 Compare Tidio
 
