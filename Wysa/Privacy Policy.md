@@ -56,7 +56,7 @@ Privacy Policy [Terms of Service](https://legal.wysa.io/terms)
 
 [How does the Artificial Intelligence chatbot work and is it safe to use?](#aiChatbot)
 
-[How do we use Generative AI technology?](#generativeAI)
+[Your use of Wysa+ Generative AI Services](#generativeAI)
 
 [How long do we retain your data including personal data?](#retainData)
 
@@ -106,6 +106,7 @@ You may use our Apps to access one or more of our services and offerings (collec
 8. Multi-lingual offerings (available in select geographies only).
 9. Online controlled and real-world research studies
 10. Validated preventative guided programs for Institutional users.
+11. Wysa+ Generative AI (Wysa+)
 
 We may also provide these and additional services on behalf of your Institution (“Institutional Services”). An Institution could be an enterprise, university, hospital, research institution and other public or private organisations. Institutional Services may involve processing information on behalf of the Institution. Where applicable, you must agree to the Terms of Services and Privacy Policies of both Wysa and your Institution in order to proceed with using the Institutional Service.
 
@@ -120,8 +121,8 @@ Where not specifically called out, use of uppercase / lowercase and bold / not b
 We may amend this privacy notice from time to time to keep it up to date. We will notify you via in-app notifications and on our policy webpage when we make any changes to the Privacy Policy. Please regularly check these pages for the latest version of this notice.
 
 Initial Effective Date: June 30, 2017 (GMT)  
-Latest Revised Date: Dec 18, 2023 (GMT)  
-Version: 5.5.0
+Latest Revised Date: July 23, 2024 (GMT)  
+Version: 5.6.0
 
 * * *
 
@@ -309,29 +310,17 @@ Do Note :
 
 * * *
 
-Changes in v5.5.0 | Dec 18, 2023
+Changes in v5.6.0 | July 23, 2024
 
   
 
 **Additions**
 
-* Included “Validated preventative guided programs” in Wysa’s list of Services for Institutional users.
-* Wysa emotional well-being professional service is included in Hindi and Spanish language Apps.
-* Use of 3rd party tools to detect and replace any inadvertent personal identifiers within your text messages for better privacy protection.
-* Details about user level data sharing with Institutional users and about processing health data as a business associate within **What personal data do we process and handle as a Processor or Sub-processor?**
-* New service provider Turn.io (as a Business Solution Provider for our whatsapp service)
-* New service provider private AI (to redact inadvertent personal identifiers in text messages)
-* New section that provides details on **“How do we use Generative AI technology?”**
-* Additional privacy and security messages from USA FTC and the Department of Health and Human Services (HHS) about how to protect your information when using digital technologies.
+* Added Wysa+ Generative AI in the list of Services governed by this privacy policy and the additional Wysa+ Generative AI Privacy Policy.
 
 **Updates**
 
-* Updated data protection law definition to include India’s DPDP Act 2023
-* Capture pronouns as other information processed on behalf of Institutions
-* The list of Service Providers section to provide clarity on data type, purpose and storage involved in the data processing.
-* Moved the Cloud Service Provider details in the “How do we share your data with third parties?” to the list of Service Providers section.
-* Promotional event data and Business (B2B) data details within the “What data do we process after taking your Consent?” section.
-* Data protection rights to inform our obligation where we require to process rights on behalf of your Institution.
+* Changed the section **“How do we use Generative AI technology?” to “Your use of Wysa+ Generative AI Services.”** This section has also been changed to reflect about the service and to provide links to the additional Wysa+ Generative AI terms of use and privacy policy.
 
 You can read the full list of changes in the [Changes Log](#changeLog)
 
@@ -739,13 +728,13 @@ Wysa complies with UK NHS Digital’s DCB 0129 clinical risk management standard
 
 * * *
 
-How do we use Generative AI technology?
+Your use of Wysa+ Generative AI Services
 
-We use third-party Generative AI technology services for generating static, quality and clinically verified content scripts that provide a high performing, safe and improved user experience with our AI based Services. No personal data gets shared with these third-party services.
+We use third-party Generative AI technology services for our Wysa+ GAI Services. **Wysa+** represents the next generation of Wysa, designed to generate static, quality and clinically validated content that provide a high performing, safe and improved user experience with our AI based Services. No personal data gets shared with these third-party services. Wysa+ GAI Service is provided as a deterministic framework which follows the same safety-based structure as the regular Wysa services. This means that every Wysa+ GAI Services use case is tested for repeatability and clinical safety, and is used within an overall clinically approved flow.
 
-Generated content needs to pass our safety and quality guardrails before being accepted for use. All generated content scripts are rigorously quality checked for copyright and plagiarism, clinically validated using a therapist-in-the-loop for safety, privacy, quality and performance. Only validated content gets released within our App and Services. We will transparently inform you when we use Generative AI based features within the App.
+Generated content needs to pass our safety and quality guardrails before being accepted for use. All generated content scripts are rigorously quality checked for clinically validated and safe responses using a therapist-in-the-loop for safety, privacy, quality and performance. Only validated features get released within our App and Services. Where applicable, We will transparently inform you and seek your consent before enabling the Generative AI technology on the Wysa App.
 
-Where applicable, We will provide additional Terms of Use and Privacy notices to transparently keep you informed about any generative AI based data processing.
+Refer the additional [Wysa+ Generative AI Terms of Use](https://legal.wysa.io/generative-ai/terms) and [Wysa+ Generative AI Privacy Policy](https://legal.wysa.io/generative-ai/privacy-policy) to be informed about our Wysa+ GAI Service and how we handle and process your provided data during the use of this Service.
 
 * * *
 
@@ -1006,6 +995,16 @@ We have taken every effort to ensure that this Privacy Policy adheres with the a
 * * *
 
 Changes Log
+
+**v5.6.0 | July 23, 2024**
+
+**Additions**
+
+* Added Wysa+ Generative AI in the list of Services governed by this privacy policy and the additional Wysa+ Generative AI Privacy Policy.
+
+**Updates**
+
+* Changed the section **“How do we use Generative AI technology?” to “Your use of Wysa+ Generative AI Services.”** This section has also been changed to reflect about the service and to provide links to the additional Wysa+ Generative AI terms of use and privacy policy.
 
 **v5.5.0 | Dec 18, 2023**
 
