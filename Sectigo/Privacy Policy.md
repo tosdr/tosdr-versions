@@ -128,7 +128,7 @@ Resource Library
 * [In the News](https://www.sectigo.com/resource-library/news)
 * [Knowledge Base](https://www.sectigo.com/knowledge-base)
 * [Notifications](https://www.sectigo.com/resource-library/notifications)
-* [Podcasts](https://www.sectigo.com/root-causes-podcast)
+* [Podcasts](https://www.sectigo.com/resource-library/podcasts)
 * [Press Releases](https://www.sectigo.com/resource-library/press-releases)
 * [Product Videos](https://www.sectigo.com/resource-library/videos)
 * [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
 * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
 * [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
 * [Root Causes 402: New Social Engineering Powershell Attack](https://www.sectigo.com/resource-library/root-causes-402-new-social-engineering-powershell-attack)
 * [Root Causes 401: New SSH Remote Code Execution Vulnerability Revealed](https://www.sectigo.com/resource-library/root-causes-401-new-ssh-remote-code-execution-vulnerability-revealed)
-* [Root Causes 400: French Court Orders DNS Poisoning](https://www.sectigo.com/resource-library/root-causes-400-french-court-orders-dns-poisoning)
 
 Moving beyond Microsoft AD Certificate Services
 
@@ -225,7 +225,7 @@ Login
     * [In the News](https://www.sectigo.com/resource-library/news)
     * [Knowledge Base](https://www.sectigo.com/knowledge-base)
     * [Notifications](https://www.sectigo.com/resource-library/notifications)
-    * [Podcasts](https://www.sectigo.com/root-causes-podcast)
+    * [Podcasts](https://www.sectigo.com/resource-library/podcasts)
     * [Press Releases](https://www.sectigo.com/resource-library/press-releases)
     * [Product Videos](https://www.sectigo.com/resource-library/videos)
     * [Technical Documents](https://www.sectigo.com/resource-library/technical-documents)
@@ -235,11 +235,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Webinar: Entrust distrusted](https://www.sectigo.com/resource-library/entrust-distrusted-webinar)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 405: What Is an Adversarial Self-replicating Prompt?](https://www.sectigo.com/resource-library/root-causes-405-what-is-an-adversarial-self-replicating-prompt)
     * [Root Causes 404: SCOTUS Ruling Will Change IT Security Regulation](https://www.sectigo.com/resource-library/root-causes-404-scotus-ruling-will-change-it-security-regulation)
     * [Root Causes 403: NIST PQC Contest Round 4 and Onramp with Dustin Moody](https://www.sectigo.com/resource-library/root-causes-403-nist-pqc-contest-round-4-and-onramp-with-dustin-moody)
     * [Root Causes 402: New Social Engineering Powershell Attack](https://www.sectigo.com/resource-library/root-causes-402-new-social-engineering-powershell-attack)
     * [Root Causes 401: New SSH Remote Code Execution Vulnerability Revealed](https://www.sectigo.com/resource-library/root-causes-401-new-ssh-remote-code-execution-vulnerability-revealed)
-    * [Root Causes 400: French Court Orders DNS Poisoning](https://www.sectigo.com/resource-library/root-causes-400-french-court-orders-dns-poisoning)
     
 
 *  #}
