@@ -304,37 +304,39 @@ Copyright (c) 2018, The Daily Caller, Inc.
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/ "Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid")
+[![](/files/images/1x1.trans.gif)
+
+ANALYSIS](https://dailycaller.com/2024/07/24/kjp-response-white-house-biden-coverup/ "'Faceplant': KJP Drops The Biggest Piece Of Shark Bait Ever For Conspiracy Theorists")
 
 1
 
-[Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/)
+['Faceplant': KJP Drops The Biggest Piece Of Shark Bait Ever For Conspiracy Theorists](https://dailycaller.com/2024/07/24/kjp-response-white-house-biden-coverup/)
 
-Politics
+Analysis
 
 2
 
-[Biden Drops Out Of Presidential Race, Endorses Kamala Harris As Replacement](https://dailycaller.com/2024/07/21/joe-biden-drops-out-presidential-race-2024/)
+[John King Reveals One Of The Key Things That Voters Noticed About Biden](https://dailycaller.com/2024/07/24/john-king-voters-questioned-biden-less-visible-2024-presidential-race/)
 
-Politics
+Media
 
 3
 
-['Kamala Was In On It': Trump-Aligned PAC Drops Anti-Kamala Harris Ad Less Than Two Hours After Biden Quit](https://dailycaller.com/2024/07/21/kamala-was-in-on-it-trump-aligned-pac-drops-harris-attack-ad-an-hour-after-biden-quit/)
+['Not On A Strong Footing': David Axelrod Spars With Scott Jennings Over Reasons Behind Biden's Withdrawal](https://dailycaller.com/2024/07/24/david-axelrod-spars-scott-jennings-joe-biden-withdrawal/)
 
 Media
 
 4
 
-[Ancient Fortifications Discovered In Holy Land Reveals Hidden History](https://dailycaller.com/2024/07/22/jerusalem-city-of-david-moat-discovered/)
+[Polar Bear Dies At Zoo In Freak Accident With Fellow Bear](https://dailycaller.com/2024/07/24/polar-bear-drowns-dies-calgary-zoo-canada/)
 
 World
 
 5
 
-[Hunter Biden Drops Fox News Lawsuit](https://dailycaller.com/2024/07/22/hunter-biden-drops-fox-news-lawsuit-joe-biden/)
+[Forget Hillbilly Elegy. This Column Is The Best Thing JD Vance Has Ever Written](https://dailycaller.com/2024/07/24/jd-vance-cincinatti-bengals-column-iraq-war/)
 
-Politics
+Editorial
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
