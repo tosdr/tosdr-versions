@@ -3,12 +3,12 @@
 Manga & Anime Favorites
 -----------------------
 
-* [My Hero Academia](https://www.viz.com/my-hero-academia)
-* [Pokémon](https://www.viz.com/pokemon)
-* [Bleach](https://www.viz.com/bleach)
 * [Naruto](https://www.viz.com/naruto)
-* [Boruto](https://www.viz.com/boruto)
+* [Pokémon](https://www.viz.com/pokemon)
 * [Ito-verse](https://www.viz.com/junji-ito)
+* [My Hero Academia](https://www.viz.com/my-hero-academia)
+* [Bleach](https://www.viz.com/bleach)
+* [Boruto](https://www.viz.com/boruto)
 * [VIZ Welcomes RWBY](https://www.viz.com/rwby)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
 
