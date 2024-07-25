@@ -270,15 +270,15 @@ Most Viewed
 -----------
 
 1. [Bruschetta with Beef Tartare](https://casihelper.com/index.php/2019/04/10/bruschetta-with-beef-tartare/ "Permanent Link to Bruschetta with Beef Tartare")  
-    36 views
+    46 views
 2. [Buttermilk Pancakes with Maple Syrup Apples](https://casihelper.com/index.php/2019/03/21/buttermilk-pancakes-with-maple-syrup-apples/ "Permanent Link to Buttermilk Pancakes with Maple Syrup Apples")  
-    29 views
-3. [Veggie Burgers with Avocado Green Harissa](https://casihelper.com/index.php/2019/04/09/veggie-burgers-with-avocado-green-harissa/ "Permanent Link to Veggie Burgers with Avocado Green Harissa")  
-    19 views
-4. [Gutenberg Sample Post](https://casihelper.com/index.php/2019/02/17/gutenberg-sample-post/ "Permanent Link to Gutenberg Sample Post")  
-    19 views
-5. [Easy Avocado Toast Recipe](https://casihelper.com/index.php/2019/03/10/easy-avocado-toast-recipe/ "Permanent Link to Easy Avocado Toast Recipe")  
-    18 views
+    38 views
+3. [Easy Avocado Toast Recipe](https://casihelper.com/index.php/2019/03/10/easy-avocado-toast-recipe/ "Permanent Link to Easy Avocado Toast Recipe")  
+    28 views
+4. [Veggie Burgers with Avocado Green Harissa](https://casihelper.com/index.php/2019/04/09/veggie-burgers-with-avocado-green-harissa/ "Permanent Link to Veggie Burgers with Avocado Green Harissa")  
+    28 views
+5. [Carrot Soup with Coco Milk](https://casihelper.com/index.php/2019/03/18/carrot-soup-with-coco-milk/ "Permanent Link to Carrot Soup with Coco Milk")  
+    25 views
 
 Most Commented
 --------------
