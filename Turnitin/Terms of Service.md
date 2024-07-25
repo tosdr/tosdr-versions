@@ -283,7 +283,7 @@ cancel
     * [中国（简体中文)](https://chn.turnitin.com/ "中国（简体中文)")
     * [台灣（繁體中文）](https://www.turnitin.tw/ "台灣（繁體中文）")
     
-* [Support](https://supportcenter.turnitin.com/s/)
+* [Support](https://helpcenter.turnitin.com/)
 * [Contact Sales](https://www.turnitin.com/contact-us/)
 * [Log In](https://www.turnitin.com/login_page.asp?lang=en_us)
 
@@ -408,7 +408,7 @@ If you have any questions regarding these TOU, please contact us at legal@turnit
 * [Instructional Resources](https://www.turnitin.com/instructional-resources/ "Instructional Resources")
 * [Events](https://www.turnitin.com/events/ "Events")
 * [Turnitin Educator Network](https://turnitin.forumbee.com/ "Turnitin Educator Network")
-* [Support Center](https://supportcenter.turnitin.com/s/ "Support Center")
+* [Support Center](https://helpcenter.turnitin.com/ "Support Center")
 
 #### Company
 
@@ -602,7 +602,7 @@ close
     
     Turnitin events and conferences](https://www.turnitin.com/media-center/conferences)
     
-* [Support](https://supportcenter.turnitin.com/s/)
+* [Support](https://helpcenter.turnitin.com/)
 * [Contact Sales](https://www.turnitin.com/contact-us/)
 * [Log In](https://www.turnitin.com/login_page.asp?lang=en_us)
 
