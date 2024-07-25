@@ -1,6 +1,6 @@
 [Skip to main content](#skip-main)
 
-[Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/collections/fathers-day-bundle-collection "https://www.voromotors.com/collections/fathers-day-bundle-collection")
+[The All New EMOVE Cruiser V2 is now Available! Shop Now.](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter") | [Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter")
 
 Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1613759451)](https://www.voromotors.com/en-gb "VORO MOTORS")
 
@@ -152,7 +152,7 @@ Menu [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/logo_white_410x.png?v=1
     * EUR
     * JPY
 
-[Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/collections/fathers-day-bundle-collection "https://www.voromotors.com/collections/fathers-day-bundle-collection")
+[The All New EMOVE Cruiser V2 is now Available! Shop Now.](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter") | [Phone service is open 7 days a week, live chat 24/7](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "EMOVE Cruiser V2 52V Quad Suspension 62 miles - Long Distance Electric Scooter")
 
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
 * [](https://www.youtube.com/c/VOROMOTORS?sub_confirmation=1 "VORO MOTORS on YouTube")
@@ -615,8 +615,7 @@ Saturday - Sunday - CLOSED
 
 **VORO (NYC)  
 **624 East 9th Street, New York, NY 10009  
-Open Monday - Friday (9am - 6pm)  
-Saturday - Sunday - CLOSED
+Open Everyday (10am - 6pm)
 
   
 [+1 323-922-3329](tel: +1 323-922-3329 "tel: +1 323-922-3329")  
