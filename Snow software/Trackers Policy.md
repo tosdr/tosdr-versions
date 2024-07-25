@@ -1,6 +1,6 @@
 [Skip to content](#main)
 
-Snow Software has been acquired by Flexera. **[Learn More.](http://www.snowsoftware.com/press-center/flexera-completes-acquisition-of-snow-software-broadening-its-portfolio-for-technology-value-optimization/)** x
+Flexera named a leader in The Forrester Wave_™_: Cloud Cost Management and Optimization Solutions, Q3 2024. [**Download Now.**](https://info.flexera.com/CM-REPORT-Forrester-Wave-Cloud-Cost-Management-Optimization?_gl=1*4phfnv*_gcl_au*MTI2MjYyOTI2LjE3MTY5MTM1NTQ.) x
 
  [![](https://www.snowsoftware.com/wp-content/themes/snow-software/dist/svg/snow-brand/flexera-snow-logo-inline.svg) Flexera Snow](https://www.snowsoftware.com/)
 
