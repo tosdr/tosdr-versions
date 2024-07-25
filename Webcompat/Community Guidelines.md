@@ -69,8 +69,6 @@ Toggle navigation
     
     * [AI](https://github.com/resources/articles/ai)
     * [DevOps](https://github.com/resources/articles/devops)
-    * [Innersource](https://github.com/resources/articles/innersource)
-    * [Open Source](https://github.com/resources/articles/open-source)
     * [Security](https://github.com/resources/articles/security)
     * [Software Development](https://github.com/resources/articles/software-development)
     
