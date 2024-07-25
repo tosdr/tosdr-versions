@@ -261,15 +261,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[“What Is Alzheimer’s?”: 3 Ways of Understanding Alzheimer’s Disease](https://www.visitingangels.com/knowledge-center/family-caregiver-support/what-is-alzheimers-3-ways-of-understanding-alzheimers-disease/347)
+[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
 
-[If You Suspect Dementia: The Full Diagnostic Process](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/if-you-suspect-dementia-the-full-diagnostic-process/341)
+[Understanding Mental Illness in Our Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/understanding-mental-illness-in-our-elderly/7)
 
-[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
-
-[Is it Too Early to Start In-Home Senior Care?](https://www.visitingangels.com/knowledge-center/why-in-home-care/is-it-too-early-to-start-in-home-senior-care/289)
+[A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
 
 [Help a Senior this Halloween with a Visiting Angels Greeter](https://www.visitingangels.com/knowledge-center/care-options/help-a-senior-this-halloween-with-a-visiting-angels-greeter/21)
+
+[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
@@ -304,7 +304,7 @@ Contact a franchised Visiting Angels office in your area for information on elde
 
 * [![Visiting Angels Facebook Link](https://cdn.visitingangels.com/images/social_icon_facebook.png)](https://www.facebook.com/VisitingAngelsCorporate)
 * [![Visiting Angels YouTube Link](https://cdn.visitingangels.com/images/social_icon_youtube.png)](https://www.youtube.com/user/VisitingAngels1)
-* [![Visiting Angels X Link](https://cdn.visitingangels.com/images/icon-x_blue.svg)](https://twitter.com/_VisitingAngels)
+* [![Visiting Angels X Link](https://cdn.visitingangels.com/images/icon-x_blue.svg)](https://x.com/_VisitingAngels)
 * [![Visiting Angels LinkedIn Link](https://cdn.visitingangels.com/images/social_icon_linkedin.png)](https://www.linkedin.com/company/visitingangels/)
 * [![Visiting Angels Instagram Link](https://cdn.visitingangels.com/images/social_icon_instagram.png)](https://www.instagram.com/visitingangelshomecare/)
 
@@ -360,12 +360,12 @@ Contact
 
 Not all services are available at all locations. Please check with your [local agency](https://www.visitingangels.com/office-locator).
 
-[Living Assistance Services, Inc. Copyright® 2024](https://www.visitingangels.com/home-care-franchise-opportunities "senior home care franchise opportunities") 937 Haverford Road Suite 200 Bryn Mawr PA 19010 [1-800-365-4189](tel: 1-800-365-4189 "1 800 number")
+[Living Assistance Services, Inc. Copyright® 2024](https://www.livingassistance.com/ "senior home care franchise opportunities") 937 Haverford Road Suite 200 Bryn Mawr PA 19010 [1-800-365-4189](tel: 1-800-365-4189 "1 800 number")
 
 Each Visiting Angels agency is a franchise that is independently owned and operated. Release v.Release.ReleaseId  
 The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
 
-[PORTAL](https://arc.franconnect.net/fc)
+[PORTAL](https://arc.franconnect.net/fc/)
 
 [![Start a Franchise](https://cdn.visitingangels.com/images/startafranchise.svg)](https://www.livingassistance.com/request-information)
 
@@ -376,7 +376,7 @@ Top 2024 Franchise Leader on
 
 * [![Visiting Angels Facebook Link](https://cdn.visitingangels.com/images/social_icon_facebook.png)](https://www.facebook.com/VisitingAngelsCorporate)
 * [![Visiting Angels YouTube Link](https://cdn.visitingangels.com/images/social_icon_youtube.png)](https://www.youtube.com/user/VisitingAngels1)
-* [![Visiting Angels Twitter Link](https://cdn.visitingangels.com/images/icon-x_blue.svg)](https://twitter.com/_VisitingAngels)
+* [![Visiting Angels Twitter Link](https://cdn.visitingangels.com/images/icon-x_blue.svg)](https://x.com/_VisitingAngels)
 * [![Visiting Angels LinkedIn Link](https://cdn.visitingangels.com/images/social_icon_linkedin.png)](https://www.linkedin.com/company/visitingangels/)
 * [![Visiting Angels Instagram Link](https://cdn.visitingangels.com/images/social_icon_instagram.png)](https://www.instagram.com/visitingangelshomecare/)
 
