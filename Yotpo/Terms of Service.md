@@ -63,7 +63,7 @@
             
             Watch video tutorials from eCommerce retention experts.](https://www.yotpo.com/resources/type/videos-webinars/)
     * * [Connect](#)
-        * [Contact us](https://www.yotpo.com/contact-us-old/)
+        * [Contact us](https://www.yotpo.com/contact-us/)
         * [Help Center](https://support.yotpo.com/?utm_source=YotpoWeb&utm_medium=web-menu)
         * [Yotpo Community](https://community.yotpo.com/?utm_source=yotpo.com&utm_medium=menu)
         * [Become a Partner](https://www.yotpo.com/partners/)
