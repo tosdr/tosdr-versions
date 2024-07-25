@@ -8,7 +8,7 @@
 Subscriber Terms and Conditions
 ===============================
 
-**_Revision Date: June 12, 2024_**
+Revision Date: June 12, 2024
 
 **IMPORTANT: SECTION 4 OF THESE SUBSCRIPTION TERMS AND CONDITIONS CONTAINS A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER WHICH MAY REQUIRE YOU AND US TO RESOLVE DISPUTES IN BINDING, INDIVIDUAL ARBITRATION, AND NOT IN COURT. FOR COMPLETE TERMS AND CONDITIONS THAT BIND YOU AND US, PLEASE REFER TO THE “MANDATORY ARBITRATION” SECTION OF THIS DOCUMENT.**
 
@@ -24,17 +24,20 @@ From time to time, we may modify, add to, supplement or delete portions of these
 
 Capitalized terms used but not otherwise defined in these Subscription Terms have the same meanings as are set forth in the [Central Terms of Service](https://www.tribpub.com/central-terms-of-service/).
 
-**1\. Continuous Subscription Terms and Right To Cancel**
+1\. Continuous Subscription Terms and Right To Cancel
+-----------------------------------------------------
 
 All subscriptions are CONTINUOUS, which means your subscription will continue and you will be billed until you cancel the subscription. By providing your payment method information and clicking “Subscribe”, “Accept”, “Continue”, “Register”, or any similar button or icon on any of our websites for placing or submitting an order for a subscription, you accept a CONTINUOUS SUBSCRIPTION. A CONTINUOUS SUBSCRIPTION means that **your initial subscription will automatically renew until canceled**. You have the right to cancel service at any time by calling the appropriate number or sending an email to the appropriate email address listed in [Section 11 (Contact Us) below](#section11). Depending on your jurisdiction, if you started your subscription online, you may also be able to cancel by selecting “Cancel Subscription” in your account settings online. We do not accept written correspondence sent by U.S. mail or otherwise. You will be charged for any service prior to cancellation.
 
 Your introductory rate is valid for the period specified on the order page. That amount will be the initial charge made to your payment method. After the introductory offer, your payment method will automatically be charged the going rate specified on the Order Page until you notify us to cancel.
 
-**2\. Automatic Payment/ Easy Pay**
+2\. Automatic Payment/ Easy Pay
+-------------------------------
 
 By subscribing, you are signing up for Easy Pay. By agreeing to Easy Pay, you authorize the Company publication to automatically charge your credit/debit card or bank account for your continuous subscription (and renewals of your subscription) at the listed payment amount and interval. You may cancel Easy Pay at any time by calling us at the appropriate number in [Section 11 (Contact Us)](#section11) below or online via your subscriber account. This authority remains in effect until canceled. You will be notified no less than 10 days in advance of any price increase or any variation from the amount associated with your subscription term. Revocation of this automatic payment authorization does not cancel your subscription and you must pay for it by other means
 
-**3\. Electronic Communications Disclosure Statement and Consent**
+3\. Electronic Communications Disclosure Statement and Consent
+--------------------------------------------------------------
 
 By agreeing to a subscription, you confirm that you have read the disclosures below and you agree to receive billing statements and other notices, disclosures, documents and all other communications (collectively, “communications”) from us in electronic form.
 
@@ -47,7 +50,8 @@ By agreeing to a subscription, you confirm that you have read the disclosures be
 * You may request a paper copy of a communication that was sent electronically at no charge by contacting us as provided in [Section 11 (Contact Us)](#section11) below.
 * You agree to notify us immediately of any change in the e-mail address you have provided by contacting us as provided in [Section 11 (Contact Us)](#section11) below.
 
-**4\. Disputes; Mandatory Arbitration; Class Action Waiver**
+4\. Disputes; Mandatory Arbitration; Class Action Waiver
+--------------------------------------------------------
 
 PLEASE READ THIS ARBITRATION PROVISION CAREFULLY TO UNDERSTAND YOUR RIGHTS. EXCEPT AS OTHERWISE STATED BELOW, YOU AND WE AGREE THAT ANY CLAIM THAT YOU OR WE MAY HAVE AGAINST THE OTHER MUST BE RESOLVED THROUGH BINDING INDIVIDUAL ARBITRATION, AND NOT IN COURT OR AS PART OF ANY CLASS ACTION. DISCOVERY AND APPEAL RIGHTS ARE MORE LIMITED IN ARBITRATION
 
@@ -86,23 +90,28 @@ If any provision in this Section 4 is deemed to be unlawful, void, or for any re
     9. Fees and Costs. Payment of arbitration fees shall be determined by the neutral arbitration provider’s rules, as modified by this agreement. We will reimburse you for any portion of the arbitration filing fees that are more than what you would otherwise have to pay to file suit in a court of law. You will not be required to pay any amounts incurred by us if you do not prevail in arbitration, unless the arbitrator determines that your claim was frivolous, in bad faith, or brought for harassment or an improper purpose, in which case the arbitrator may award us our attorney’s fees, expert witness fees, arbitration fees and/or costs.
     10. Survival. The Binding Arbitration and Class Action Waiver provisions in Section 4(A) shall survive termination of these Subscription Terms and your use of our services.
 
-**5\. Terms of Service, Privacy Policy, and Cookie Policy**
+5\. Terms of Service, Privacy Policy, and Cookie Policy
+-------------------------------------------------------
 
 By providing your payment method information and clicking the place or submit order button as your electronic signature, you confirm that you have read and agree to the Company’s [Central Terms of Service](https://www.tribpub.com/central-terms-of-service/), [Privacy Policy](https://www.tribpub.com/privacy-policy/), [Cookie Policy](https://www.tribpub.com/cookie-policy/), and these Subscription Terms.
 
-**6\. Subscription Refund Policy**
+6\. Subscription Refund Policy
+------------------------------
 
 Your subscription grants you a FULLY PREPAID, NON-REFUNDABLE license to receive and access the subscription materials for the duration of the subscription term. You will be billed at the term you have selected, which shall be your subscription term. This subscription is non-refundable and not redeemable for any other form of compensation, credit, or cash. No unused portion of a subscription term will be refunded. No credit is offered for vacation interruptions. Notwithstanding the foregoing, the Company reserves the right to issue refunds or credits under certain limited circumstances, e.g., when technical issues prevent the Company from providing access to subscription content. In all circumstances, the availability and amount of a refund or credit is subject to the Company’s sole and absolute discretion, and the Company’s determination shall be binding on the parties. You may call customer service using the contact information in [Section 11 (Contact Us)](https://www.tribpub.com/subscriber-terms-and-conditions/section11) if you have any questions about your subscription.
 
-**7\. Promotional Offers**
+7\. Promotional Offers
+----------------------
 
 From time to time, we may offer subscriptions at a promotional or discounted rate. You will be charged the promotional rate for the length of the promotional period. **Once the promotional period expires, your subscription will automatically renew at the full rate unless you cancel your subscription as described in [Section 1 (Continuous Subscription Terms and Right To Cancel)](#section1) prior to the end of the promotional period.**
 
-**8\. Special Editions**
+8\. Special Editions
+--------------------
 
 All home delivery subscriptions will automatically include Special Editions, including the Thanksgiving Edition, annually. If the Special Editions require an additional fee, you will be notified of the number and cost of Special Editions included in your home delivery subscription at the time of purchase and/or renewal of your subscription. The cost of these Special Editions will reduce the price you paid for your subscription and will shorten the length of your subscription UNLESS YOU OPT OUT of receiving them. If you prefer not to receive these Special Editions, you must call Subscriber Services for the particular newspaper at the phone number in [Section 11 (Contact Us)](#section11) to opt out. If you do not opt out, your account will be billed automatically and your term will be shortened. Future prices may be higher, and there may be additional Special Editions in future home delivery subscriptions. We reserve the right to increase rates and editions at any time. In addition to Special Editions, pay through dates will be affected by different factors, including but not limited to, changes in delivery, service adjustments, supply chain surcharges, and interruptions in service.
 
-**9\. Other Terms**
+9\. Other Terms
+---------------
 
 Your subscription fees and term were described in the offer that you accepted online. Please refer to the authorization terms you were directed to print or save to your computer when you accepted the offer for more details.
 
@@ -116,11 +125,13 @@ Subscribers that choose to receive a printed invoice will be charged a processin
 
 We reserve the right to change these Subscription Terms at any time in our discretion. We will notify you of any such changes by sending an email to the email address we have on file for you and updating the Revision Date of these Subscription Terms. It is your responsibility to make sure we have your current email address. You can update your email address at any time by accessing your account or contacting the newspaper to which you subscribe at the contact information in [Section 11 (Contact Us)](#section11). The most current version of these Subscription Terms will supersede all previous versions. Your continued subscription after the posting of any amended Subscription Terms shall constitute your agreement to be bound by any such changes.
 
-**10\. Service Issues**
+10\. Service Issues
+-------------------
 
 To report any service issues, please call the appropriate number provided in the Contact Us section below.
 
-**11\. Contact Us**
+11\. Contact Us
+---------------
 
 To contact us, please use the contact information in the table below. You may also find additional contact information on your newspaper’s “Contact Us” webpage. You may also log in and manage your account online.
 
