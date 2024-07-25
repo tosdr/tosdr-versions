@@ -18,7 +18,7 @@
 
 [Wysa “Gift Card” Program](#giftCard)
 
-[Wysa use of Generative AI technology](#generativeAI)
+[Your use of Wysa+ Generative AI Services technology](#generativeAI)
 
 [What are the Service Rules?](#serviceRules)
 
@@ -62,6 +62,7 @@ You may use our Apps to access one or more of our services and offerings (collec
 8. Multi-lingual offerings (available in select geographies only).
 9. Online controlled and real-world research studies
 10. Validated preventative guided programs for Institutional users.
+11. Wysa+ Generative AI (Wysa+).
 
 We may also provide these and additional services on behalf of Your Institution (“Institutional Services”). An Institution could be an enterprise, university, hospital, research institution and other public or private organisations. Institutional Services may involve processing information on behalf of the Institution. Where applicable, you must agree to the Terms of Services and Privacy Policies of both Wysa and your Institution in order to proceed with using the Institutional Service.
 
@@ -70,8 +71,8 @@ By accessing or using the Wysa App and Service, You signify that You have read, 
 Where not specifically called out, use of uppercase / lowercase and bold / not bold would carry the same meaning in this document.
 
 Initial Effective Date: June 30, 2017 (GMT)  
-Latest Revised Date: Dec 18, 2023 (GMT)  
-Version: 4.3.2
+Latest Revised Date: July 23, 2024 (GMT)  
+Version: 4.4.0
 
 * * *
 
@@ -225,18 +226,17 @@ The App and its Services cannot and should not be used by a third-party for Inde
 
 * * *
 
-Changes in v4.3.2 | Dec 18, 2023
+Changes in v4.4.0 | July 23, 2024
 
   
 
 **Additions**
 
-* Included “Validated preventative guided programs” in Wysa’s list of Services for Institutional users.
-* Wysa emotional well-being professional service is included in Hindi and Spanish language Apps.
+* Added Wysa+ Generative AI in the list of Services governed by this privacy policy and the additional Wysa+ Generative AI Privacy Policy.
 
 **Updates**
 
-* Updates made to “Wysa use of Generative AI technology”.
+* Changed the section “How do we use Generative AI technology?” to “Your use of Wysa+ Generative AI Services.” This section has also been changed to reflect about the service and to provide links to the additional Wysa+ Generative AI terms of use and privacy policy.
 
 You can read the full list of changes in the [Changes Log](#changesLog)
 
@@ -364,15 +364,13 @@ Wysa “Gift Card” program is a pre-paid membership to specific Services. A pe
 
 * * *
 
-Wysa use of Generative AI technology
+Your use of Wysa+ Generative AI Services technology
 
-We use third-party Generative AI technology services for generating static, quality and clinically verified content scripts that provide a high performing, safe and improved user experience with our AI based Services. No personal data gets shared with these third-party services.
+We use third-party Generative AI technology services for our Wysa+ GAI Services. **Wysa+** represents the next generation of Wysa, designed to generate static, quality and clinically validated content that provide a high performing, safe and improved user experience with our AI based Services. No personal data gets shared with these third-party services. Wysa+ GAI Service is provided as a deterministic framework which follows the same safety-based structure as the regular Wysa services. This means that every Wysa+ GAI Services use case is tested for repeatability and clinical safety, and is used within an overall clinically approved flow.
 
-Wysa owns the Intellectual Property and rights to these generated content scripts. Generated content needs to pass our safety and quality guardrails before being accepted for use. All generated content scripts are rigorously quality checked for copyright and plagiarism, clinically validated using a therapist-in-the-loop for safety, privacy, quality and performance. Only validated content gets released within Our App and Services. We will transparently inform you when we use Generative AI based features within the App.
+Generated content needs to pass our safety and quality guardrails before being accepted for use. All generated content scripts are rigorously quality checked for clinically validated and safe responses using a therapist-in-the-loop for safety, privacy, quality and performance. Only validated features get released within our App and Services. Where applicable, We will transparently inform you and seek your consent before enabling the Generative AI technology on the Wysa App.
 
-Where applicable, We will provide additional Terms of Use and Privacy notices to transparently keep you informed about any generative AI based data processing.
-
-Learn more about how we built Our Artificial Intelligence in our [Privacy Policy.](https://legal.wysa.io/privacy-policy#aiChatbot)
+Refer the additional [Wysa+ Generative AI Terms of Use](https://legal.wysa.io/generative-ai/terms) and [Wysa+ Generative AI Privacy Policy](https://legal.wysa.io/generative-ai/privacy-policy) to be informed about our Wysa+ GAI Service and how we handle and process your provided data during the use of this Service.
 
 * * *
 
@@ -581,6 +579,16 @@ Boston 21116
 * * *
 
 Changes Log
+
+**v4.4.0 | July 23, 2024**
+
+**Additions**
+
+* Added Wysa+ Generative AI in the list of Services governed by this privacy policy and the additional Wysa+ Generative AI Privacy Policy.
+
+**Updates**
+
+* Changed the section **“How do we use Generative AI technology?” to “Your use of Wysa+ Generative AI Services.”** This section has also been changed to reflect about the service and to provide links to the additional Wysa+ Generative AI terms of use and privacy policy.
 
 **v4.3.2 | Dec 18, 2023**
 
