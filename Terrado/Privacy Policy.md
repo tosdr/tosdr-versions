@@ -13,7 +13,7 @@ Main Menu
     Climate Change: Learning for Action
     -----------------------------------
     
-    Our climate fellowship is 12-week intensive program covering climate science, impacts, and solutions, designed to get to working on climate.
+    Our climate fellowship is a 12-week intensive program covering climate science, impacts, and solutions, designed to get you working on climate.
     
     * **Applications close on August 23, 2024**
         
@@ -46,7 +46,7 @@ Main Menu
     ##### SOLUTIONS-BASED COURSES
     
     * [Collaborative Negotiation for Climate Action ENROLLMENTS CLOSING SOON](https://www.terra.do/climate-change-courses/collaborative-negotiation-climate-action/)
-    * [Sustainable Personal Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
+    * [Sustainable Finance for Climate Impact](https://www.terra.do/climate-change-courses/sustainable-personal-finance/)
     * [Digital Product Decarbonization](https://www.terra.do/climate-change-courses/climate-efficient-digital-product-management/)
     * [Supply Chain Decarbonization](https://www.terra.do/climate-change-courses/supply-chain-decarbonization/)
     * [Software for Climate](https://www.terra.do/climate-change-courses/software-for-climate/)
