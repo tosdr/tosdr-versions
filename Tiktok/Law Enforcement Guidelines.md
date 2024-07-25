@@ -262,11 +262,7 @@ If law enforcement has received a Cybertip report made by TikTok to NCMEC, and i
 
 [Children's Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy?lang=en)
 
-[TikTok Web Cookies Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en)
-
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
-
-[Impressum](https://www.tiktok.com/legal/impressum?lang=en)
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
