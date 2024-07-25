@@ -128,7 +128,7 @@ Search
 
 Locations Regions
 
-* [Home](http://www.thebluebook.com/)
+* [Home](https://www.thebluebook.com/)
 \>* [Our Company](https://www.thebluebook.com/company/)
 \>* [Privacy Policy](https://www.thebluebook.com/company/privacy-policy.html)
 
