@@ -260,6 +260,7 @@ Quick links
 * [Find a partner](https://www.winzip.com/en/partners/locator/)
 * [Affiliates](https://www.winzip.com/en/company/affiliate/)
 * [Contact us](https://www.winzip.com/en/company/contact/)
+* [Sitemap](https://www.winzip.com/en/sitemap/)
 
 Legal
 
