@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| OutskirtsSam Hunt<br><br>6:08pm |
-| Pretty Little PoisonWarren Zeiders<br><br>6:05pm |
-| Rock And A Hard PlaceBailey Zimmerman<br><br>5:55pm |
-| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>5:51pm |
-| Angel EyesLove And Theft<br><br>5:48pm |
+| Watching YouRodney Atkins<br><br>3:47pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>3:43pm |
+| The PainterCody Johnson<br><br>3:40pm |
+| Need A FavorJelly Roll<br><br>3:36pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>3:33pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
