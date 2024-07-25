@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**July 21, 2024**
+**July 24, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
-* [Converting Plastic Waste Into Electronic Devices](https://www.sciencedaily.com/releases/2024/07/240719180317.htm)
-* [New Snake Discovery Rewrites History](https://www.sciencedaily.com/releases/2024/07/240719180253.htm)
-* [New Antidote for Cobra Bites](https://www.sciencedaily.com/releases/2024/07/240717162410.htm)
-* [How Our Brains Track Time](https://www.sciencedaily.com/releases/2024/07/240718205236.htm)
-* [Ancient Microbes: How Complex Life Evolved](https://www.sciencedaily.com/releases/2024/07/240716122726.htm)
-* [Switching Off Protein: Longer Lifespan in Mice](https://www.sciencedaily.com/releases/2024/07/240717120907.htm)
-* [Intermediate-Mass Black Hole in Milky Way](https://www.sciencedaily.com/releases/2024/07/240718124854.htm)
-* [New Gene Therapy for Muscular Dystrophy](https://www.sciencedaily.com/releases/2024/07/240717120903.htm)
-* [Soft, Stretchy 'Jelly Batteries'](https://www.sciencedaily.com/releases/2024/07/240717162405.htm)
-* [Forests Endure as Carbon Sink Despite Pressures](https://www.sciencedaily.com/releases/2024/07/240717120933.htm)
+* [How Saharan Dust Regulates Hurricane Rainfall](https://www.sciencedaily.com/releases/2024/07/240724171436.htm)
+* [Yellowstone Microbes Produce Methane](https://www.sciencedaily.com/releases/2024/07/240724171548.htm)
+* [Mega Galaxy Cluster Collision: Dark Matter ...](https://www.sciencedaily.com/releases/2024/07/240724171512.htm)
+* [Placebo Effect for Pain Relief: Brain Circuitry](https://www.sciencedaily.com/releases/2024/07/240724123119.htm)
+* [Shark Experiencing a Boat Strike](https://www.sciencedaily.com/releases/2024/07/240724123103.htm)
+* [How Komodo Dragons Rip Apart Their Prey](https://www.sciencedaily.com/releases/2024/07/240724123055.htm)
+* [Future Wireless Communication Channels](https://www.sciencedaily.com/releases/2024/07/240724123052.htm)
+* [Rembrandt's Combined Pigments in The Night Watch](https://www.sciencedaily.com/releases/2024/07/240724123031.htm)
+* [T Rex Could Have Been 70% Larger](https://www.sciencedaily.com/releases/2024/07/240724123027.htm)
+* [Whale Shark Tracked for Four Years](https://www.sciencedaily.com/releases/2024/07/240724123025.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+[Sleep Disorder Research](https://www.sciencedaily.com/news/health_medicine/sleep_disorders/)
 
-[Depression](https://www.sciencedaily.com/news/mind_brain/depression/)
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
-
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Energy and the Environment](https://www.sciencedaily.com/news/earth_climate/energy/)
 
-[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Bird Flu Research](https://www.sciencedaily.com/news/plants_animals/bird_flu/)
+[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
   
 
