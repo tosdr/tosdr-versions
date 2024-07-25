@@ -1,6 +1,6 @@
-[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407031758)](https://www.wishlist.com/)
+[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407241449)](https://www.wishlist.com/)
 
-[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407031758)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202407031758)](https://www.wishlist.com/)
+[![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202407241449)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202407241449)](https://www.wishlist.com/)
 
 * [Sign up](https://www.wishlist.com/joinwishlist?clear=1)
 * [Shop](https://www.wishlist.com/shop)
