@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/sean-penn-cheney-en-bush-achter-isis/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/de-nieuw-zeelandse-klokkenluider-en-het-kaartenhuis/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -151,6 +151,38 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Adriaan W](https://secure.gravatar.com/avatar/f607d7c1535fae5fdb42d6065fb8e1f5?s=50&d=identicon&r=g)
+
+##### **Adriaan W** reacts on:
+
+##### Wat is tijd..??
+
+[Werkelijk een prachtig artikel, zoals alle voorgaande artike…](https://www.wanttoknow.nl/inspiratie/wat-is-tijd/comment-page-1/#comment-626307)
+
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### OM meet met 2 maten: rechtsstaat bezoedeld..!!
+
+[Hoi Arend :) Ja, een mooi en krachtig gedicht, een gedicht v…](https://www.wanttoknow.nl/effetjes/om-meet-met-2-maten-rechtsstaat-bezoedeld/comment-page-1/#comment-626306)
+
+![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
+
+##### **Arend Zeevat** reacts on:
+
+##### OM meet met 2 maten: rechtsstaat bezoedeld..!!
+
+[Voor Argusoog Radio heb ik ooit een interview gehouden met d…](https://www.wanttoknow.nl/effetjes/om-meet-met-2-maten-rechtsstaat-bezoedeld/comment-page-1/#comment-626305)
+
+![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
+
+##### **Senjutsu** reacts on:
+
+##### De geregisseerde schietpartij op Trump..!!
+
+[Jens Baba heeft er een duidelijk zegje over, weinig spelden…](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-geregisseerde-schietpartij-op-trump/comment-page-1/#comment-626304)
 
 ![Marie-José](https://secure.gravatar.com/avatar/c913238cd212a2c5422b677c807b1129?s=50&d=identicon&r=g)
 
@@ -375,38 +407,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Orbs, zie jij ze ook vliegen..? (+ updates!)
 
 [IRIS, oké…](https://www.wanttoknow.nl/wetenschap/energie/orbs-zie-jij-ze-ook-vliegen/comment-page-2/#comment-626272)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### We zijn nog gewoon in de lucht hoor..!
-
-[Omdat het over censuur gaat vind ik het doodzwijgen van de M…](https://www.wanttoknow.nl/overige/we-zijn-nog-gewoon-in-de-lucht-hoor/comment-page-1/#comment-626271)
-
-![IRIS](https://secure.gravatar.com/avatar/a1b3586e811237773a0c24d1ddb0d67e?s=50&d=identicon&r=g)
-
-##### **IRIS** reacts on:
-
-##### Orbs, zie jij ze ook vliegen..? (+ updates!)
-
-[Hallo, IKZIE Ik ben mij zeer bewust over de goede en de tege…](https://www.wanttoknow.nl/wetenschap/energie/orbs-zie-jij-ze-ook-vliegen/comment-page-2/#comment-626270)
-
-![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
-
-##### **GuidoJ.** reacts on:
-
-##### Wat is nou precies een ‘complotdenker’..?
-
-[Luister naar Wilfried de Jong, op 9 april jl. in 'Met het oo…](https://www.wanttoknow.nl/overige/wat-is-nou-precies-een-complotdenker/comment-page-1/#comment-626269)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Wat is nou precies een ‘complotdenker’..?
-
-[Deze morgen zag en hoorde ik op verschillende "nieuws uitzen…](https://www.wanttoknow.nl/overige/wat-is-nou-precies-een-complotdenker/comment-page-1/#comment-626268)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
