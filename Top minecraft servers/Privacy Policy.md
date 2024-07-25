@@ -18,6 +18,8 @@
 * [Sponsored](https://topminecraftservers.org/sponsor.php)
 * [Contact](https://topminecraftservers.org/contact.php)
 
+[Bidding is now open for featured server slots.](https://topminecraftservers.org/sponsor.php)
+
 Privacy Policy
 ==============
 
@@ -47,17 +49,17 @@ We also use third party advertisements to support our site. Some of these advert
 
 Random Server Videos
 
-[![MineCO Trailer](//i.ytimg.com/vi/pEx3HKnUWsU/0.jpg)  
-MineCO](https://topminecraftservers.org/server/25112)
+[![Atlas Balkan Trailer](//i.ytimg.com/vi/Knkobp46GPA/0.jpg)  
+Atlas Balkan](https://topminecraftservers.org/server/30505)
 
-[![Vanilla Demon Trailer](//i.ytimg.com/vi/yi-KQ3CKOQU/0.jpg)  
-Vanilla Demon](https://topminecraftservers.org/server/19736)
+[![RiftMC Trailer](//i.ytimg.com/vi/B3P4tLuWOxY/0.jpg)  
+RiftMC](https://topminecraftservers.org/server/32684)
 
-[![Minehop Trailer](//i.ytimg.com/vi/SbtLo7VbOvk/0.jpg)  
-Minehop](https://topminecraftservers.org/server/37524)
+[![Koridai Trailer](//i.ytimg.com/vi/z2bPBkNMO1Y/0.jpg)  
+Koridai](https://topminecraftservers.org/server/22554)
 
-[![World of Eldin Trailer](//i.ytimg.com/vi/hQHdI650jhM/0.jpg)  
-World of Eldin](https://topminecraftservers.org/server/4690)
+[![JRCraft - Survival - Dedicated Trailer](//i.ytimg.com/vi/eWfJTI7Ze28/0.jpg)  
+JRCraft - Survival - Dedicated](https://topminecraftservers.org/server/11566)
 
 [Terms](https://topminecraftservers.org/terms.php) | [Privacy](https://topminecraftservers.org/privacy.php) | [Search](https://topminecraftservers.org/search.php) | [FAQ](https://topminecraftservers.org/faq.php) | [Contact](https://topminecraftservers.org/contact.php)
 
@@ -65,4 +67,4 @@ World of Eldin](https://topminecraftservers.org/server/4690)
 
 Minecraft is copyright Mojang/Microsoft and is not affiliated with this site.
 
-Page took 0.442010 seconds to load
+Page took 0.361700 seconds to load
