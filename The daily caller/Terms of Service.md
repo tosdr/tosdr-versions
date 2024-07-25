@@ -308,37 +308,39 @@ Washington, DC 20006
 
 TRENDING
 
-[![](/files/images/1x1.trans.gif)](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/ "Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid")
+[![](/files/images/1x1.trans.gif)
+
+ANALYSIS](https://dailycaller.com/2024/07/24/kjp-response-white-house-biden-coverup/ "'Faceplant': KJP Drops The Biggest Piece Of Shark Bait Ever For Conspiracy Theorists")
 
 1
 
-[Donald Trump Responds After Joe Biden Drops 2024 Reelection Bid](https://dailycaller.com/2024/07/21/donald-trump-responds-joe-biden-drop-out-2024-presidential-race/)
+['Faceplant': KJP Drops The Biggest Piece Of Shark Bait Ever For Conspiracy Theorists](https://dailycaller.com/2024/07/24/kjp-response-white-house-biden-coverup/)
 
-Politics
+Analysis
 
 2
 
-[Biden Drops Out Of Presidential Race, Endorses Kamala Harris As Replacement](https://dailycaller.com/2024/07/21/joe-biden-drops-out-presidential-race-2024/)
-
-Politics
-
-3
-
-['Kamala Was In On It': Trump-Aligned PAC Drops Anti-Kamala Harris Ad Less Than Two Hours After Biden Quit](https://dailycaller.com/2024/07/21/kamala-was-in-on-it-trump-aligned-pac-drops-harris-attack-ad-an-hour-after-biden-quit/)
+[CNN Reporter Asks KJP Why She Appeared On 'The View' Before Addressing The Press After Biden Exited Race](https://dailycaller.com/2024/07/24/cnn-reporter-kayla-tausche-kjp-the-view-biden-drop-out/)
 
 Media
 
+3
+
+[‘She's An Idiot’: Kamala Harris Criticized By MSNBC’s Wisconsin Women Voters Focus Group](https://dailycaller.com/2024/07/24/shes-an-idiot-kamala-harris-savaged-by-msnbcs-wisconsin-women-voter-focus-group/)
+
+Elections
+
 4
 
-[Ancient Fortifications Discovered In Holy Land Reveals Hidden History](https://dailycaller.com/2024/07/22/jerusalem-city-of-david-moat-discovered/)
+['Absolutely Not': Kamala Harris Isn't Ready For Prime Time On The Global Stage, Experts Say](https://dailycaller.com/2024/07/23/kamala-harris-isnt-ready-for-prime-time-on-the-global-stage-experts-say/)
 
-World
+National Security
 
 5
 
-[Hunter Biden Drops Fox News Lawsuit](https://dailycaller.com/2024/07/22/hunter-biden-drops-fox-news-lawsuit-joe-biden/)
+[Brittany Aldean Accuses Failed Country Music Singer Of 'Bullsh\*t' Treatment](https://dailycaller.com/2024/07/23/brittany-jason-aldean-maren-morris-bullying-try-that-in-a-small-town-podcast/)
 
-Politics
+Editorial
 
 [![The Daily Caller logo](/files/images/logo-white.png)](https://dailycaller.com/ "To home page")
 
