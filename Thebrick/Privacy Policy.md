@@ -2,7 +2,7 @@
 
 [](#)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)](https://www.thebrick.com/)
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Outdoor](https://www.thebrick.com/collections/outdoor-living)
 
@@ -64,13 +64,17 @@ Get Directions
 
 [Back to Menu](#)
 
-[Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/pages/mattresses) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
+[Mattresses](https://www.thebrick.com/collections/mattresses) [Mattresses](https://www.thebrick.com/pages/mattresses) [Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box) [Boxsprings & Bases](https://www.thebrick.com/collections/mattresses-boxsprings-bases) [Accessories](https://www.thebrick.com/collections/mattresses-accessories) [Brands](#)
 
-* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)](https://www.thebrick.com/pages/brick-mattress-store)
+* [![The Brick mattress store](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)](https://www.thebrick.com/pages/brick-mattress-store)
 
 [Back to Mattresses](#)
 
 [Mattresses](https://www.thebrick.com/pages/mattresses) [All Mattresses](https://www.thebrick.com/collections/mattresses) [King](https://www.thebrick.com/collections/mattresses-king) [Queen](https://www.thebrick.com/collections/mattresses-queen) [Full](https://www.thebrick.com/collections/mattresses-full) [Twin](https://www.thebrick.com/collections/mattresses-twin) [Twin XL](https://www.thebrick.com/collections/mattresses-twin-xl) [Crib](https://www.thebrick.com/collections/furniture-bedroom-kids-and-teens-infants-and-toddlers-crib-mattresses)
+
+[Back to Mattresses](#)
+
+[Mattress in a Box](https://www.thebrick.com/collections/mattresses-mattress-in-a-box)
 
 [Back to Mattresses](#)
 
@@ -99,19 +103,19 @@ Get Directions
 
 [Back to Menu](#)
 
-[Appliances](https://www.thebrick.com/collections/appliances) [Kitchen](https://www.thebrick.com/pages/kitchen-appliances) [Laundry](https://www.thebrick.com/pages/laundry) [Small Appliances](https://www.thebrick.com/pages/small-appliances) [Brands](#) [Overstock](https://www.thebrick.com/collections/overstock-appliances)
+[Appliances](https://www.thebrick.com/collections/appliances) [Kitchen](https://www.thebrick.com/collections/kitchen-appliances) [Laundry](https://www.thebrick.com/collections/laundry) [Small Appliances](https://www.thebrick.com/collections/small-appliances) [Brands](#) [Overstock](https://www.thebrick.com/collections/overstock-appliances)
 
 [Back to Appliances](#)
 
-[Kitchen](https://www.thebrick.com/pages/kitchen-appliances) [Appliance Packages](https://www.thebrick.com/collections/appliance-kitchen-appliance-packages) [Refrigerators](https://www.thebrick.com/collections/appliances-kitchen-refrigerators) [Ranges](https://www.thebrick.com/collections/appliances-kitchen-ranges) [Dishwashers](https://www.thebrick.com/collections/appliances-kitchen-dishwashers) [Microwaves](https://www.thebrick.com/collections/appliances-kitchen-microwaves) [Cooktops](https://www.thebrick.com/collections/appliances-kitchen-cooktops) [Wall Ovens](https://www.thebrick.com/collections/appliances-kitchen-wall-ovens) [Range Hoods](https://www.thebrick.com/collections/appliances-kitchen-range-hoods) [Freezers](https://www.thebrick.com/collections/appliances-freezers) [Kitchen Parts & Accessories](https://www.thebrick.com/collections/appliances-kitchen-parts-and-accessories) [Sinks](https://www.thebrick.com/collections/sinks-eviers-de-cuisine-online-only)
+[Kitchen](https://www.thebrick.com/collections/kitchen-appliances) [Appliance Packages](https://www.thebrick.com/collections/appliance-kitchen-appliance-packages) [Refrigerators](https://www.thebrick.com/collections/appliances-kitchen-refrigerators) [Ranges](https://www.thebrick.com/collections/appliances-kitchen-ranges) [Dishwashers](https://www.thebrick.com/collections/appliances-kitchen-dishwashers) [Microwaves](https://www.thebrick.com/collections/appliances-kitchen-microwaves) [Cooktops](https://www.thebrick.com/collections/appliances-kitchen-cooktops) [Wall Ovens](https://www.thebrick.com/collections/appliances-kitchen-wall-ovens) [Range Hoods](https://www.thebrick.com/collections/appliances-kitchen-range-hoods) [Freezers](https://www.thebrick.com/collections/appliances-freezers) [Kitchen Parts & Accessories](https://www.thebrick.com/collections/appliances-kitchen-parts-and-accessories) [Sinks](https://www.thebrick.com/collections/sinks-eviers-de-cuisine-online-only)
 
 [Back to Appliances](#)
 
-[Laundry](https://www.thebrick.com/pages/laundry) [Washers](https://www.thebrick.com/collections/appliances-laundry-washers) [Dryers](https://www.thebrick.com/collections/appliances-laundry-dryers) [Washer & Dryer Pairs](https://www.thebrick.com/collections/appliances-laundry-laundry-pairs) [Washer Dryer Combo All-in-One](https://www.thebrick.com/collections/appliances-laundry-laundry-all-in-one) [Stacked Laundry Pairs](https://www.thebrick.com/collections/appliances-laundry-laundry-centre) [Pedestals & Storage Drawers](https://www.thebrick.com/collections/appliances-laundry-pedestals-and-storage-drawers) [Laundry Parts & Accessories](https://www.thebrick.com/collections/appliances-laundry-parts-and-accessories)
+[Laundry](https://www.thebrick.com/collections/laundry) [Washers](https://www.thebrick.com/collections/appliances-laundry-washers) [Dryers](https://www.thebrick.com/collections/appliances-laundry-dryers) [Washer & Dryer Pairs](https://www.thebrick.com/collections/appliances-laundry-laundry-pairs) [Washer Dryer Combo All-in-One](https://www.thebrick.com/collections/appliances-laundry-laundry-all-in-one) [Stacked Laundry Pairs](https://www.thebrick.com/collections/appliances-laundry-laundry-centre) [Pedestals & Storage Drawers](https://www.thebrick.com/collections/appliances-laundry-pedestals-and-storage-drawers) [Laundry Parts & Accessories](https://www.thebrick.com/collections/appliances-laundry-parts-and-accessories)
 
 [Back to Appliances](#)
 
-[Small Appliances](https://www.thebrick.com/pages/small-appliances) [Food Mixers & Blenders](https://www.thebrick.com/collections/appliances-small-appliances-mixing-blending) [Coffee Makers & Kettles](https://www.thebrick.com/collections/appliances-small-appliances-brewing) [Air Fryers](https://www.thebrick.com/collections/air-fryers-friteuses-a-air) [Toasters](https://www.thebrick.com/collections/toasters-grille-pain) [Grills](https://www.thebrick.com/collections/grills) [Countertop Ovens](https://www.thebrick.com/collections/countertop-ovens-fours-de-comptoir) [Vacuums](https://www.thebrick.com/collections/appliances-other-vacuums) [Fans](https://www.thebrick.com/collections/appliances-air-conditioners-fans) [Air Conditioners](https://www.thebrick.com/collections/appliances-air-conditioners-ac-units) [Air Purifiers & Humidifiers](https://www.thebrick.com/collections/appliances-air-conditioners-purifier) [Specialty Appliances](https://www.thebrick.com/collections/appliances-specialty-appliances)
+[Small Appliances](https://www.thebrick.com/collections/small-appliances) [Food Mixers & Blenders](https://www.thebrick.com/collections/appliances-small-appliances-mixing-blending) [Coffee Makers & Kettles](https://www.thebrick.com/collections/appliances-small-appliances-brewing) [Air Fryers](https://www.thebrick.com/collections/air-fryers-friteuses-a-air) [Toasters](https://www.thebrick.com/collections/toasters-grille-pain) [Grills](https://www.thebrick.com/collections/grills) [Countertop Ovens](https://www.thebrick.com/collections/countertop-ovens-fours-de-comptoir) [Vacuums](https://www.thebrick.com/collections/appliances-other-vacuums) [Fans](https://www.thebrick.com/collections/appliances-air-conditioners-fans) [Air Conditioners](https://www.thebrick.com/collections/appliances-air-conditioners-ac-units) [Air Purifiers & Humidifiers](https://www.thebrick.com/collections/appliances-air-conditioners-purifier) [Specialty Appliances](https://www.thebrick.com/collections/appliances-specialty-appliances)
 
 [Back to Appliances](#)
 
@@ -210,7 +214,7 @@ Seller Name
 * [Contact Us](https://www.thebrick.com/pages/contact-us)
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
-[![THE BRICK](//www.thebrick.com/cdn/shop/t/782/assets/Brick-logo-en.svg?v=144201696812184966561721146707)](https://www.thebrick.com/)
+[![THE BRICK](//www.thebrick.com/cdn/shop/t/786/assets/Brick-logo-en.svg?v=144201696812184966561721680504)](https://www.thebrick.com/)
 
  
 
@@ -440,11 +444,11 @@ Company Information
 
 We accept:
 
-* ![flexiti card.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
-* ![visa card.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
-* ![visa debit card.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
-* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
-* ![Mastercard.](//www.thebrick.com/cdn/shop/t/782/assets/lazyPixel.png?v=40482922527014850811721146740)
+* ![flexiti card.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
+* ![visa card.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
+* ![visa debit card.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
+* ![AmericanExpress.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
+* ![Mastercard.](//www.thebrick.com/cdn/shop/t/786/assets/lazyPixel.png?v=40482922527014850811721680538)
 
 Prices on this website are for online purchases only. Prices in-store may differ.
 
