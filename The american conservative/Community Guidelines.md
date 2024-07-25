@@ -10,6 +10,8 @@ Menu [![The American Conservative Logo](https://www.theamericanconservative.com/
     --------](https://www.theamericanconservative.com/)
     * [Current Issue _trending\_flat_](https://www.theamericanconservative.com/issue/?current)
     * [Archives _trending\_flat_](https://www.theamericanconservative.com/issue/)
+    * [Subscribe _trending\_flat_](https://www.theamericanconservative.com/register/membership/)
+    * [Manage Your Account _trending\_flat_](https://www.theamericanconservative.com/account/)
 * [Blogs
     -----](https://www.theamericanconservative.com/)
     * [State of the Union _trending\_flat_](https://www.theamericanconservative.com/blogs/state_of_the_union/)
