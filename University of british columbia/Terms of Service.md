@@ -89,7 +89,7 @@ Copyright © 1994-2024 The University of British Columbia. All rights reserved.
     
     Web analytics and remarketing tools work by using cookies (small files stored on your computer’s web browser). You may refuse the use of cookies by selecting the appropriate settings on your browser (please note that if you do this you may not be able to use the full functionality of this website). Some service providers also allow you to opt out of their use of cookies for advertising purposes, e.g. [Google Ad's Settings Page](https://www.google.com/settings/ads?hl=en-GB&sig=ACi0TCgyrbt_Wx5HV3NihXO3IZnXU1NeoAy-nl9OpP4GVplynWWIprhClDNF_uQWZmM66b9DQ96fJWNUfF5z7ssje3Y9kWjF_UHxG3ZegBqUQijwLTUjEi3h5clDfRfW7cWe2YmPpnb8RHRkYergXsyb-mhgnSs5P4zL8vgDmPRzIpgf3qcI34PVHwddOzIE5BZ1d_BeQCrE).
     
-    If you have any questions about web analytics or remarketing, please contact [UBC’s Legal Counsel, Information and Privacy](https://directory.ubc.ca/index.cfm?d=%403I%3E%3CR%5F%2A%23J%5CB%5FFYUS%3ENW2%219%5C5QMR%5E0%3D3%29%21TSBSTSJ1PT%20%0A).
+    If you have any questions about web analytics or remarketing, please contact [UBC’s Legal Counsel, Information and Privacy](https://universitycounsel.ubc.ca/about-us/contact/).
     
 
 Responsible Use of Information Technology
