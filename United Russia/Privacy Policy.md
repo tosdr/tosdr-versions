@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» проводит неделю водных видов спорта марафона «Сила России»](https://cdn.er.ru/media/news/July2024/gmb733VzqCDYTeHFU5vy-small.png)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-vodnyh-vidov-sporta-marafona-sila-rossii)
+[![При поддержке «Единой России» состоялась очередная сессия «Женской политшколы»](https://cdn.er.ru/media/news/July2024/E4SfGKqrqFg2IqEdz3sj-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-sostoyalas-ocherednaya-sessiya-zhenskoj-politshkoly)
 
-[«Единая Россия» проводит неделю водных видов спорта марафона «Сила России»](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-vodnyh-vidov-sporta-marafona-sila-rossii)
+[При поддержке «Единой России» состоялась очередная сессия «Женской политшколы»](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-sostoyalas-ocherednaya-sessiya-zhenskoj-politshkoly)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#марафон](https://er.ru/activity/news?tags%5B0%5D=2873) [#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [#лето](https://er.ru/activity/news?tags%5B0%5D=53) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньВМФ](https://er.ru/activity/news?tags%5B0%5D=110070) [водныевидыспорта](https://er.ru/activity/news?tags%5B0%5D=153325)
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#женскаяполитшкола](https://er.ru/activity/news?tags%5B0%5D=1095004) [#избирательнаякампания](https://er.ru/activity/news?tags%5B0%5D=109648) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#кандидатыЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=108739)
 
-Сегодня 14:58
+Сегодня 16:46
 
-[![Владимир Васильев: «Единая Россия» и Минобрнауки продолжат совместную работу по увеличению финансирования науки](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/vladimir-vasilev-edinaya-rossiya-i-minobrnauki-prodolzhat-sovmestnuyu-rabotu-po-uvelicheniyu-finansirovaniya-nauki)
+[![Госдума приняла в первом чтении законопроект «Единой России» об обязательном строительстве соцобъектов при комплексном развитии территорий](https://cdn.er.ru/media/news/July2024/G1VsrB4CtZVyRnEdA9Pa-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-obyazatelnom-stroitelstve-socobektov-pri-kompleksnom-razvitii-territorij)
 
-[Владимир Васильев: «Единая Россия» и Минобрнауки продолжат совместную работу по увеличению финансирования науки](https://er.ru/activity/news/vladimir-vasilev-edinaya-rossiya-i-minobrnauki-prodolzhat-sovmestnuyu-rabotu-po-uvelicheniyu-finansirovaniya-nauki)
+[Госдума приняла в первом чтении законопроект «Единой России» об обязательном строительстве соцобъектов при комплексном развитии территорий](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-ob-obyazatelnom-stroitelstve-socobektov-pri-kompleksnom-razvitii-territorij)
 
-[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Фальков](https://er.ru/activity/news?tags%5B0%5D=42929) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#президиумфракции](https://er.ru/activity/news?tags%5B0%5D=142781) [#наука](https://er.ru/activity/news?tags%5B0%5D=354)
+[#Пахомов](https://er.ru/activity/news?tags%5B0%5D=4075) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#соцобъекты](https://er.ru/activity/news?tags%5B0%5D=6180) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-Сегодня 14:15
+Сегодня 15:19
 
-[![«Единая Россия» передала оборудование и воду в медучреждения Херсонской области](https://cdn.er.ru/media/news/July2024/19vtonK7BYf1JPisphI2-small.png)](https://er.ru/activity/news/edinaya-rossiya-peredala-oborudovanie-i-vodu-v-meduchrezhdeniya-hersonskoj-oblasti)
+[![Бюро Высшего совета «Единой России» подготовит предложения для нацпроекта «Кадры»](https://cdn.er.ru/media/news/July2024/e0V66IoJFZrkakyMaD7s-small.JPG)](https://er.ru/activity/news/byuro-vysshego-soveta-edinoj-rossii-podgotovit-predlozheniya-dlya-nacproekta-kadry)
 
-[«Единая Россия» передала оборудование и воду в медучреждения Херсонской области](https://er.ru/activity/news/edinaya-rossiya-peredala-oborudovanie-i-vodu-v-meduchrezhdeniya-hersonskoj-oblasti)
+[Бюро Высшего совета «Единой России» подготовит предложения для нацпроекта «Кадры»](https://er.ru/activity/news/byuro-vysshego-soveta-edinoj-rossii-podgotovit-predlozheniya-dlya-nacproekta-kadry)
 
-[#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=134793) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравченко](https://er.ru/activity/news?tags%5B0%5D=5003) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=29486) [#БюроВысшегосовета](https://er.ru/activity/news?tags%5B0%5D=129758) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#экономика](https://er.ru/activity/news?tags%5B0%5D=116231)
 
-Сегодня 10:58
+Сегодня 15:02
 
-[![Передвижная выставка трофейной техники НАТО «Сила V правде – гордость и победа» открылась в Кургане](https://cdn.er.ru/media/news/July2024/dgVsCw9AFKcUgpkSEAQb-small.png)](https://er.ru/activity/news/peredvizhnaya-vystavka-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda-otkrylas-v-kurgane)
+[![Госдума приняла в первом чтении законопроект «Единой России» о защите прав детей и родителей при покупке жилья с использованием маткапитала](https://cdn.er.ru/media/news/July2024/kebwGYZguBXP7qNIiSxq-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
 
-[Передвижная выставка трофейной техники НАТО «Сила V правде – гордость и победа» открылась в Кургане](https://er.ru/activity/news/peredvizhnaya-vystavka-trofejnoj-tehniki-nato-sila-v-pravde-gordost-i-pobeda-otkrylas-v-kurgane)
+[Госдума приняла в первом чтении законопроект «Единой России» о защите прав детей и родителей при покупке жилья с использованием маткапитала](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-zashite-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#передвижнаявыставка](https://er.ru/activity/news?tags%5B0%5D=135712) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Курганская область](https://er.ru/activity/news?tags%5B0%5D=957) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#защитадетей](https://er.ru/activity/news?tags%5B0%5D=126731) [#материнскийкапитал](https://er.ru/activity/news?tags%5B0%5D=113800) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:09
+Сегодня 14:44
 
-[![«Единая Россия» завершила выдвижение кандидатов на основных уровнях выборов](https://cdn.er.ru/media/news/July2024/EC71VlOoqLEHsydx0AwW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zavershila-vydvizhenie-kandidatov-na-osnovnyh-urovnyah-vyborov)
+[![Сергей Пахомов: «Единая Россия» усовершенствует механизм комплексного развития территорий для обеспечения регионов соцобъектами при строительстве жилья](https://cdn.er.ru/media/news/July2024/rXiXT80IPotWeHTMcIOp-small.jpg)](https://er.ru/activity/news/sergej-pahomov-edinaya-rossiya-usovershenstvuet-mehanizm-kompleksnogo-razvitiya-territorij-dlya-obespecheniya-regionov-socobektami-pri-stroitelstve-zhilya)
 
-[«Единая Россия» завершила выдвижение кандидатов на основных уровнях выборов](https://er.ru/activity/news/edinaya-rossiya-zavershila-vydvizhenie-kandidatov-na-osnovnyh-urovnyah-vyborov)
+[Сергей Пахомов: «Единая Россия» усовершенствует механизм комплексного развития территорий для обеспечения регионов соцобъектами при строительстве жилья](https://er.ru/activity/news/sergej-pahomov-edinaya-rossiya-usovershenstvuet-mehanizm-kompleksnogo-razvitiya-territorij-dlya-obespecheniya-regionov-socobektami-pri-stroitelstve-zhilya)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#выборы2024](https://er.ru/activity/news?tags%5B0%5D=1095001) [#выдвижение кандидатов](https://er.ru/activity/news?tags%5B0%5D=26605) [#ЕДГ2024](https://er.ru/activity/news?tags%5B0%5D=1095607)
+[#Пахомов](https://er.ru/activity/news?tags%5B0%5D=4075) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=77108) [#строительствосоцобъектов](https://er.ru/activity/news?tags%5B0%5D=138955)
 
-Сегодня 09:54
+Сегодня 11:17
 
-[![«Единая Россия»: более 160 тысяч человек посетили выставку «Сила V правде – гордость и победа» в Челябинске](https://cdn.er.ru/media/news/July2024/Ed0Hw1ROru90SxP5hCNy-small.jpeg)](https://er.ru/activity/news/edinaya-rossiya-bolee-160-tysyach-chelovek-posetili-vystavku-sila-v-pravde-gordost-i-pobeda-v-chelyabinske)
+[![Ольга Занко: В шахматной неделе Всероссийского спортивного марафона «Сила России» приняли участие более 31 тысячи человек](https://cdn.er.ru/media/news/July2024/i8kfZcpO1cAHQCJtHsgC-small.jpg)](https://er.ru/activity/news/olga-zanko-v-shahmatnoj-nedele-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-bolee-31-tysyachi-chelovek)
 
-[«Единая Россия»: более 160 тысяч человек посетили выставку «Сила V правде – гордость и победа» в Челябинске](https://er.ru/activity/news/edinaya-rossiya-bolee-160-tysyach-chelovek-posetili-vystavku-sila-v-pravde-gordost-i-pobeda-v-chelyabinske)
+[Ольга Занко: В шахматной неделе Всероссийского спортивного марафона «Сила России» приняли участие более 31 тысячи человек](https://er.ru/activity/news/olga-zanko-v-shahmatnoj-nedele-vserossijskogo-sportivnogo-marafona-sila-rossii-prinyali-uchastie-bolee-31-tysyachi-chelovek)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Челябинская область](https://er.ru/activity/news?tags%5B0%5D=191) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#военнаятехника](https://er.ru/activity/news?tags%5B0%5D=136750) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#СилаРоссии](https://er.ru/activity/news?tags%5B0%5D=1094187) [#шахматы](https://er.ru/activity/news?tags%5B0%5D=3005) [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#Всероссийский спортивный марафон](https://er.ru/activity/news?tags%5B0%5D=1094396) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-20.07.24
+24.07.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
