@@ -12,7 +12,7 @@ Get Paid
 
 [High-Risk Processing](https://www.seamlesschex.com/high-risk-processing)[Bank Verification](https://www.seamlesschex.com/lp-echeck-verify)[Compare Products](https://www.seamlesschex.com/compare-products)
 
-Paynote
+[Paynote](#)
 
 [Send ACH Payments](https://www.seamlesschex.com/send-ach-payments)[Accept Verified ACH Payments](https://www.seamlesschex.com/accept-verified-ach-payments)[Online Checkout](https://www.seamlesschex.com/paynote-checkout)[Marketplace Payments](https://www.seamlesschex.com/payment-marketplace)[Paynote](https://www.seamlesschex.com/paynote)
 
