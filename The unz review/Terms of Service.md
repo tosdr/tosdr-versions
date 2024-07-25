@@ -256,7 +256,7 @@ Translate?
 
 [Current Events](https://www.unz.com/news/)
 
-[Newslinks](https://www.unz.com/news/) • [7 Today](https://www.unz.com/news/)
+[Newslinks](https://www.unz.com/news/) • [1 Today](https://www.unz.com/news/)
 
 + 
 
@@ -277,25 +277,23 @@ Featured Articles
 
 ![](/IMAGES/ostar.gif)
 
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/) • [49m ▶](https://www.unz.com/CONTENTS/AUDIO/runz/Unz-AmPravda-NixonJews.mp3)
+[The World Court Has Cleared the Fog Hiding Western Support for Israel’s Crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/)
 
-[Ron Unz](https://www.unz.com/author/ron-unz/ "Articles, Columns, and Major Blog Posts by Ron Unz") • July 22, 2024
+[Jonathan Cook](https://www.unz.com/author/jonathan-cook/ "Articles, Columns, and Major Blog Posts by Jonathan Cook") • July 24, 2024
 
-• 6,600 Words • [46 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments) • [Reply](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#respond)
+• 2,800 Words • [29 Comments](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#comments) • [Reply](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#respond)
 
-[![President Richard Nixon and Secretary of State Henry Kissinger](//www.unz.com/wp-content/uploads/2024/07/NixonKissinger-100x68.jpg)](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
+[![poster-copy](//www.unz.com/wp-content/uploads/2024/07/poster-copy-100x68.jpg)](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/)
 
 ![](/IMAGES/ostar.gif)
 
-[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/)
+[The Move to Seek Fellowship and Common Values on the Right](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/)
 
-He’s an international war criminal and also helped steal American nuclear technology
+[Kevin MacDonald](https://www.unz.com/author/kevin-macdonald/ "Articles, Columns, and Major Blog Posts by Kevin MacDonald") • July 18, 2024
 
-[Philip Giraldi](https://www.unz.com/author/philip-giraldi/ "Articles, Columns, and Major Blog Posts by Philip Giraldi") • July 18, 2024
+• 3,200 Words • [18 Comments](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/#comments) • [Reply](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/#respond)
 
-• 1,900 Words • [111 Comments](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/#comments) • [Reply](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/#respond)
-
-[![israeli-pm-netanyahu-addresses-joint-meeting-of-congress-2](//www.unz.com/wp-content/uploads/2024/07/netanyahu-congress-100x68.jpg)](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/)
+[![](//www.theoccidentalobserver.net/wp-content/uploads/2024/07/pic1-12.jpg)](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/)
 
 [What is _The Unz Review?_](https://www.unz.com/masthead/)
 
@@ -337,7 +335,7 @@ Reader Feedback & Open Threads
 
 Bugs & Suggestions #2
 
-• [713 Comments](https://www.unz.com/announcement/bugs-suggestions-2/?showcomments#comments)
+• [714 Comments](https://www.unz.com/announcement/bugs-suggestions-2/?showcomments#comments)
 
 Open Thread #9
 
@@ -358,69 +356,77 @@ Columnists
 
 P[B](https://www.unz.com/aanglin/ "Blog View")[Andrew Anglin / The World's Most Censored Writer](https://www.unz.com/author/andrew-anglin/ "Teaser Archive")
 
-[Drones, Dead Jews, and the Inevitability of Sino-Futurism](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/) • [19 Comments](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/#comments)
+[US Congress: Bibi Blathers About Burned Babies, Doubles Down on Endless War, Gets 55 Standing Ovations](https://www.unz.com/aanglin/us-congress-bibi-blathers-about-burned-babies-doubles-down-on-endless-war-gets-55-standing-ovations/) • [Leave a Comment](https://www.unz.com/aanglin/us-congress-bibi-blathers-about-burned-babies-doubles-down-on-endless-war-gets-55-standing-ovations/#comments)
 
-[Biden Dropped Out So Fewer People Would Conclude “American Democracy” Is a Ridiculous Scam](https://www.unz.com/aanglin/biden-dropped-out-so-fewer-people-would-conclude-american-democracy-is-a-ridiculous-scam/) • [8 Comments](https://www.unz.com/aanglin/biden-dropped-out-so-fewer-people-would-conclude-american-democracy-is-a-ridiculous-scam/#comments)
+[Clarification: Yes, Technically China Has Increased Military Spending in the Past Decade](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/) • [Leave a Comment](https://www.unz.com/aanglin/clarification-yes-technically-china-has-increased-military-spending-in-the-past-decade/#comments)
 
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/) • [125 Comments](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/#comments)
+[DC: Protesters Burn Netanyahu Effigy, Attacked by Bloodthirsty Badge Niggers](https://www.unz.com/aanglin/dc-protesters-burn-netanyahu-effigy-attacked-by-bloodthirsty-badge-niggers/) • [Leave a Comment](https://www.unz.com/aanglin/dc-protesters-burn-netanyahu-effigy-attacked-by-bloodthirsty-badge-niggers/#comments)
 
-[Houthis Hit Tel Aviv! New Long-Distance Drone! One Dead Jew, At Least Ten Injured Jews!](https://www.unz.com/aanglin/houthis-hit-tel-aviv-new-long-distance-drone-one-dead-jew-at-least-ten-injured-jews/) • [76 Comments](https://www.unz.com/aanglin/houthis-hit-tel-aviv-new-long-distance-drone-one-dead-jew-at-least-ten-injured-jews/#comments)
+[Elon Musk Attended Bibi’s US Congress Speech as a “Special Guest” of the Israeli Child-Killer](https://www.unz.com/aanglin/elon-musk-attended-bibis-us-congress-speech-as-a-special-guest-of-the-israeli-child-killer/) • [Leave a Comment](https://www.unz.com/aanglin/elon-musk-attended-bibis-us-congress-speech-as-a-special-guest-of-the-israeli-child-killer/#comments)
 
-[American Software Intended to Protect Against Crashes Crashes Global Tech Infrastructure](https://www.unz.com/aanglin/american-software-intended-to-protect-against-crashes-crashes-global-tech-infrastructure/) • [37 Comments](https://www.unz.com/aanglin/american-software-intended-to-protect-against-crashes-crashes-global-tech-infrastructure/#comments)
+[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/) • [44 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
 
-[Philadelphia: Black Woman Shouts “Fuck Your Baby, Bitch!” and Shoots 7-Month-Old](https://www.unz.com/aanglin/philadelphia-black-woman-shouts-fuck-your-baby-bitch-and-shoots-7-month-old/) • [29 Comments](https://www.unz.com/aanglin/philadelphia-black-woman-shouts-fuck-your-baby-bitch-and-shoots-7-month-old/#comments)
+[Free Falling: Tesla Reports Lowest Profits in More Than Five Years, Elon Blames the Chinese](https://www.unz.com/aanglin/free-falling-tesla-reports-lowest-profits-in-more-than-five-years-elon-blames-the-chinese/) • [35 Comments](https://www.unz.com/aanglin/free-falling-tesla-reports-lowest-profits-in-more-than-five-years-elon-blames-the-chinese/#comments)
 
-[What Is the Difference Between These Two Political Parties? (Vote Hilux 2024)](https://www.unz.com/aanglin/what-is-the-difference-between-these-two-political-parties-vote-hilux-2024/) • [85 Comments](https://www.unz.com/aanglin/what-is-the-difference-between-these-two-political-parties-vote-hilux-2024/#comments)
+[It’s Over: George Clooney Endorses Kamala](https://www.unz.com/aanglin/its-over-george-clooney-endorses-kamala/) • [41 Comments](https://www.unz.com/aanglin/its-over-george-clooney-endorses-kamala/#comments)
 
-[OH SHIT NIGGA: It’s on Now: Report Says Obama Telling Biden to Drop Out](https://www.unz.com/aanglin/oh-shit-nigga-its-on-now-report-says-obama-telling-biden-to-drop-out/) • [12 Comments](https://www.unz.com/aanglin/oh-shit-nigga-its-on-now-report-says-obama-telling-biden-to-drop-out/#comments)
+[CNN Anchor Says Josh Shapiro Would be a Risky VP Pick "Because He’s Jewish"](https://www.unz.com/aanglin/cnn-anchor-says-josh-shapiro-would-be-a-risky-vp-pick-because-hes-jewish/) • [51 Comments](https://www.unz.com/aanglin/cnn-anchor-says-josh-shapiro-would-be-a-risky-vp-pick-because-hes-jewish/#comments)
 
-[Finally: MSNBC Host Joy Reid Says Trump Faked Ear Bleed for Photo-Op](https://www.unz.com/aanglin/finally-msnbc-host-joy-reid-says-trump-faked-ear-bleed-for-photo-op/) • [42 Comments](https://www.unz.com/aanglin/finally-msnbc-host-joy-reid-says-trump-faked-ear-bleed-for-photo-op/#comments)
+[The Ukraine: Jew Mayor of Capital Tells Jew President to Hold Referendum on War with Russia](https://www.unz.com/aanglin/the-ukraine-jew-mayor-of-capital-tells-jew-president-to-hold-referendum-on-war-with-russia/) • [41 Comments](https://www.unz.com/aanglin/the-ukraine-jew-mayor-of-capital-tells-jew-president-to-hold-referendum-on-war-with-russia/#comments)
 
-[Jewish Extremist Politician Breaks Into al-Aqsa Mosque with Soldiers](https://www.unz.com/aanglin/jewish-extremist-politician-breaks-into-al-aqsa-mosque-with-soldiers/) • [14 Comments](https://www.unz.com/aanglin/jewish-extremist-politician-breaks-into-al-aqsa-mosque-with-soldiers/#comments)
+[Drones, Dead Jews, and the Inevitability of Sino-Futurism](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/) • [128 Comments](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/kbarrett/ "Blog View")[Kevin Barrett / Truth Jihadist](https://www.unz.com/author/kevin-barrett/ "Teaser Archive")
 
-[American Cognitive Decline: It's Bipartisan](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/) • [32 Comments](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/#comments)
+[American Cognitive Decline: It's Bipartisan](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/) • [208 Comments](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/#comments)
 
-[The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/) • [373 Comments](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/#comments)
+[Laurent Guyénot on "Satanic Panic"](https://www.unz.com/audio/kbarrett_laurent-guyenot-on-satanic-panic/) • [4 Comments](https://www.unz.com/audio/kbarrett_laurent-guyenot-on-satanic-panic/#comments)
 
-[Trump Shooting: Cock-Up or Conspiracy?](https://www.unz.com/kbarrett/trump-shooting-cock-up-or-conspiracy/) • [38 Comments](https://www.unz.com/kbarrett/trump-shooting-cock-up-or-conspiracy/#comments)
+[The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/) • [430 Comments](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/#comments)
 
 P[B](https://www.unz.com/jcook/ "Blog View")[Jonathan Cook / Our Man from Nazareth](https://www.unz.com/author/jonathan-cook/ "Teaser Archive")
 
-[Israeli Soldiers Tell Story of Savage Cruelty in Gaza – One Hidden from Western Publics](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/) • [168 Comments](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/#comments)
+[The World Court Has Cleared the Fog Hiding Western Support for Israel’s Crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/) • [29 Comments](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#comments)
+
+[Israeli Soldiers Tell Story of Savage Cruelty in Gaza – One Hidden from Western Publics](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/) • [182 Comments](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/#comments)
 
 P[B](https://www.unz.com/jderbyshire/ "Blog View")[John Derbyshire / Immigrant Doomsayer](https://www.unz.com/author/john-derbyshire/ "Teaser Archive")
 
-[Thinking About Political Assassinations (Remember Percival V. Bellingham?)](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/) • [10 Comments](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/#comments)
+[Thinking About Political Assassinations (Remember Percival V. Bellingham?)](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/) • [14 Comments](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/#comments)
 
-[Blowhard Gives Boring Speech, But Hard Not to Catch RNC Enthusiasm](https://www.unz.com/jderbyshire/blowhard-gives-boring-speech-but-hard-not-to-catch-rnc-enthusiasm/) • [39 Comments](https://www.unz.com/jderbyshire/blowhard-gives-boring-speech-but-hard-not-to-catch-rnc-enthusiasm/#comments)
+[Blowhard Gives Boring Speech, But Hard Not to Catch RNC Enthusiasm](https://www.unz.com/jderbyshire/blowhard-gives-boring-speech-but-hard-not-to-catch-rnc-enthusiasm/) • [41 Comments](https://www.unz.com/jderbyshire/blowhard-gives-boring-speech-but-hard-not-to-catch-rnc-enthusiasm/#comments)
 
 P[B](https://www.unz.com/pescobar/ "Blog View")[Pepe Escobar / A Roving Eye on Globalistan](https://www.unz.com/author/pepe-escobar/ "Teaser Archive")
 
-[Iwo Jima 2.0: What Story Is This Picture Telling?](https://www.unz.com/pescobar/iwo-jima-2-0-what-story-is-this-picture-telling/) • [46 Comments](https://www.unz.com/pescobar/iwo-jima-2-0-what-story-is-this-picture-telling/#comments)
+[China Has Achieved Escape Velocity: It Is Now Unstoppable](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/) • [7 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
+
+[China Designs an Economic Road Map All the Way to 2029](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/) • [27 Comments](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/#comments)
+
+[Iwo Jima 2.0: What Story Is This Picture Telling?](https://www.unz.com/pescobar/iwo-jima-2-0-what-story-is-this-picture-telling/) • [47 Comments](https://www.unz.com/pescobar/iwo-jima-2-0-what-story-is-this-picture-telling/#comments)
 
 P[B](https://www.unz.com/pgiraldi/ "Blog View")[Philip Giraldi / National Intelligence](https://www.unz.com/author/philip-giraldi/ "Teaser Archive")
 
-[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/) • [111 Comments](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/#comments)
+[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/) • [232 Comments](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/ghood/ "Blog View")[Gregory Hood / For an American Renaissance](https://www.unz.com/author/gregory-hood/ "Teaser Archive")
 
-[Who Cancels Whom?](https://www.unz.com/ghood/who-cancels-whom/) • [4 Comments](https://www.unz.com/ghood/who-cancels-whom/#comments)
+[But What if Biden Wasn’t Running for President?](https://www.unz.com/audio/ghood_but-what-if-biden-wasnt-running-for-president/) • [4 Comments](https://www.unz.com/audio/ghood_but-what-if-biden-wasnt-running-for-president/#comments)
 
-[The Assassination Attempt Changes Nothing](https://www.unz.com/ghood/the-assassination-attempt-changes-nothing/) • [12 Comments](https://www.unz.com/ghood/the-assassination-attempt-changes-nothing/#comments)
+[Who Cancels Whom?](https://www.unz.com/ghood/who-cancels-whom/) • [22 Comments](https://www.unz.com/ghood/who-cancels-whom/#comments)
 
-[Trump Under Fire](https://www.unz.com/audio/ghood_trump-under-fire/) • [13 Comments](https://www.unz.com/audio/ghood_trump-under-fire/#comments)
-
-[The X Files: Trump Assassination Attempt](https://www.unz.com/ghood/the-x-files-trump-assassination-attempt/) • [15 Comments](https://www.unz.com/ghood/the-x-files-trump-assassination-attempt/#comments)
+[The Assassination Attempt Changes Nothing](https://www.unz.com/ghood/the-assassination-attempt-changes-nothing/) • [14 Comments](https://www.unz.com/ghood/the-assassination-attempt-changes-nothing/#comments)
 
 P[B](https://www.unz.com/mhudson/ "Blog View")[Michael Hudson / Long-Term Economic Trender](https://www.unz.com/author/michael-hudson/ "Teaser Archive")
 
-[World Shaking Up! Epic Political & Economic Earthquakes](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/) • [4 Comments](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/#comments)
+[World Shaking Up! Epic Political & Economic Earthquakes](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/) • [76 Comments](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/#comments)
+
+P[B](https://www.unz.com/jfreud/ "Blog View")[Jung-Freud / Culturalism](https://www.unz.com/author/jung-freud/ "Teaser Archive")
+
+[The Remarkable Significance of the Pro-Palestinian Movement in the 21st Century](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/) • [18 Comments](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/#comments)
 
 P[B](https://www.unz.com/emargolis/ "Blog View")[Eric Margolis / War Reporter at the Top of the World](https://www.unz.com/author/eric-margolis/ "Teaser Archive")
 
-['Nothing in the World Can Compare to a British Grenadier'](https://www.unz.com/emargolis/nothing-in-the-world-can-compare-to-a-british-grenadier/) • [22 Comments](https://www.unz.com/emargolis/nothing-in-the-world-can-compare-to-a-british-grenadier/#comments)
+['Nothing in the World Can Compare to a British Grenadier'](https://www.unz.com/emargolis/nothing-in-the-world-can-compare-to-a-british-grenadier/) • [23 Comments](https://www.unz.com/emargolis/nothing-in-the-world-can-compare-to-a-british-grenadier/#comments)
 
 P[B](https://www.unz.com/imercer/ "Blog View")[Ilana Mercer / The Paleolibertarian Perspective](https://www.unz.com/author/ilana-mercer/ "Teaser Archive")
 
@@ -428,9 +434,7 @@ P[B](https://www.unz.com/imercer/ "Blog View")[Ilana Mercer / The Paleolibertari
 
 P[B](https://www.unz.com/rpaul/ "Blog View")[Ron Paul / Republican Revolutionary](https://www.unz.com/author/ron-paul/ "Teaser Archive")
 
-[Republican Platform Ignores Real Causes of Inflation](https://www.unz.com/rpaul/republican-platform-ignores-real-causes-of-inflation/) • [1 Comment](https://www.unz.com/rpaul/republican-platform-ignores-real-causes-of-inflation/#comments)
-
-[Why We’ll Never Know What Really Happened in Butler, PA](https://www.unz.com/rpaul/why-well-never-know-what-really-happened-in-butler-pa/) • [33 Comments](https://www.unz.com/rpaul/why-well-never-know-what-really-happened-in-butler-pa/#comments)
+[Republican Platform Ignores Real Causes of Inflation](https://www.unz.com/rpaul/republican-platform-ignores-real-causes-of-inflation/) • [15 Comments](https://www.unz.com/rpaul/republican-platform-ignores-real-causes-of-inflation/#comments)
 
 P[B](https://www.unz.com/trall/ "Blog View")[Ted Rall / A Cartoonist Sketches America](https://www.unz.com/author/ted-rall/ "Teaser Archive")
 
@@ -438,13 +442,13 @@ P[B](https://www.unz.com/trall/ "Blog View")[Ted Rall / A Cartoonist Sketches Am
 
 P[B](https://www.unz.com/proberts/ "Blog View")[Paul Craig Roberts / American Regime Defector](https://www.unz.com/author/paul-craig-roberts/ "Teaser Archive")
 
+[UPDATE to the Interpretation by Mike Adams of the Acoustic Evidence](https://www.unz.com/proberts/update-to-the-interpretation-by-mike-adams-of-the-acoustic-evidence/)
+
+[The Secret Service’s Failure-to-Protect Is Being Blamed on "An Operational Failure"](https://www.unz.com/proberts/the-secret-services-failure-to-protect-is-being-blamed-on-an-operational-failure/)
+
+[There Will be No Real Investigation of the Assassination Attempt on Trump](https://www.unz.com/proberts/there-will-be-no-real-investigation-of-the-assassination-attempt-on-trump/)
+
 [My Take on the Assassination Attempt](https://www.unz.com/proberts/my-take-on-the-assassination-attempt/)
-
-[Will Trump’s Near Assassination by the Deep State be Covered Up?](https://www.unz.com/proberts/will-trumps-near-assassination-by-the-deep-state-be-covered-up/)
-
-[Does America Have a Future?](https://www.unz.com/proberts/does-america-have-a-future-4/)
-
-[Acoustic Evidence Proves Beyond All Doubt More Than One Shooter](https://www.unz.com/proberts/acoustic-evidence-proves-beyond-all-doubt-more-than-one-shooter/)
 
 P[B](https://www.unz.com/ishamir/ "Blog View")[Israel Shamir / The Russian-Israeli-Russian Perspective](https://www.unz.com/author/israel-shamir/ "Teaser Archive")
 
@@ -452,31 +456,31 @@ P[B](https://www.unz.com/ishamir/ "Blog View")[Israel Shamir / The Russian-Israe
 
 P[B](https://www.unz.com/estriker/ "Blog View")[Eric Striker / Striking for National Justice](https://www.unz.com/author/eric-striker/ "Teaser Archive")
 
-[The Jewish Golden Age Continues Part I: American Law](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/) • [81 Comments](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/#comments)
+[The Jewish Golden Age Continues Part I: American Law](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/) • [82 Comments](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/#comments)
 
 P[Podcasts](https://www.unz.com/audio/channel/jtaylor/ "Blog View")[Jared Taylor / Mr. White Advocacy](https://www.unz.com/author/jared-taylor/ "Teaser Archive")
 
+['30 by 30:' the Push for Women in the Secret Service](https://www.unz.com/audio/jtaylor_30-by-30-the-push-for-women-in-the-secret-service/) • [2 Comments](https://www.unz.com/audio/jtaylor_30-by-30-the-push-for-women-in-the-secret-service/#comments)
+
+[Unspeakable Incompetence: What Went Wrong at the Butler Trump Rally](https://www.unz.com/audio/jtaylor_unspeakable-incompetence-what-went-wrong-at-the-butler-trump-rally/) • [10 Comments](https://www.unz.com/audio/jtaylor_unspeakable-incompetence-what-went-wrong-at-the-butler-trump-rally/#comments)
+
 [Black-Run America: Rethinking the Alamo](https://www.unz.com/jtaylor/black-run-america-rethinking-the-alamo/) • [22 Comments](https://www.unz.com/jtaylor/black-run-america-rethinking-the-alamo/#comments)
 
-[J.D. Vance: 'America Is Not an Idea'](https://www.unz.com/audio/jtaylor_j-d-vance-america-is-not-an-idea/) • [11 Comments](https://www.unz.com/audio/jtaylor_j-d-vance-america-is-not-an-idea/#comments)
-
-[The Assassination Attempt](https://www.unz.com/jtaylor/the-assassination-attempt/) • [283 Comments](https://www.unz.com/jtaylor/the-assassination-attempt/#comments)
+[J.D. Vance: 'America Is Not an Idea'](https://www.unz.com/audio/jtaylor_j-d-vance-america-is-not-an-idea/) • [13 Comments](https://www.unz.com/audio/jtaylor_j-d-vance-america-is-not-an-idea/#comments)
 
 P[B](https://www.unz.com/runz/ "Blog View")[Ron Unz / Editor-in-Chief](https://www.unz.com/author/ron-unz/ "Teaser Archive")
 
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/) • [46 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/) • [206 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
 
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/) • [644 Comments](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/#comments)
+[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/) • [784 Comments](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/#comments)
 
-[Body Counts and Blood Libels in the Israel/Gaza Conflict](https://www.unz.com/runz/body-counts-and-blood-libels-in-the-israel-gaza-conflict/) • [207 Comments](https://www.unz.com/runz/body-counts-and-blood-libels-in-the-israel-gaza-conflict/#comments)
+[Body Counts and Blood Libels in the Israel/Gaza Conflict](https://www.unz.com/runz/body-counts-and-blood-libels-in-the-israel-gaza-conflict/) • [213 Comments](https://www.unz.com/runz/body-counts-and-blood-libels-in-the-israel-gaza-conflict/#comments)
 
-[American Pravda: JFK, Richard Nixon, the CIA, and Watergate](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/) • [366 Comments](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/#comments)
-
-[American Pravda: JFK, LBJ, and Our Great National Shame](https://www.unz.com/runz/american-pravda-jfk-lbj-and-our-great-national-shame/) • [460 Comments](https://www.unz.com/runz/american-pravda-jfk-lbj-and-our-great-national-shame/#comments)
+[American Pravda: JFK, Richard Nixon, the CIA, and Watergate](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/) • [367 Comments](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/#comments)
 
 P[B](https://www.unz.com/mwhitney/ "Blog View")[Mike Whitney / Economic CounterPuncher](https://www.unz.com/author/mike-whitney/ "Teaser Archive")
 
-[Why Russia Will Defeat NATO in Ukraine](https://www.unz.com/mwhitney/why-russia-will-defeat-nato-in-ukraine/) • [200 Comments](https://www.unz.com/mwhitney/why-russia-will-defeat-nato-in-ukraine/#comments)
+[China Brings Peace to the Middle East While Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/) • [153 Comments](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/#comments)
 
 Archived Blogs and Columns
 
@@ -543,10 +547,6 @@ P[B](https://www.unz.com/nfinkelstein/ "Blog View")[Norman Finkelstein / Holocau
 P[B](https://www.unz.com/sfrancis/ "Blog View")[Sam Francis / Purged Paleoconservative (1947-2005)](https://www.unz.com/author/sam-francis/ "Teaser Archive")
 
 [Bush Inaugural Embraces Liberalism](https://www.unz.com/sfrancis/bush-inaugural-embraces-liberalism/) • [10 Comments](https://www.unz.com/sfrancis/bush-inaugural-embraces-liberalism/#comments)
-
-P[B](https://www.unz.com/jfreud/ "Blog View")[Jung-Freud / Culturalism](https://www.unz.com/author/jung-freud/ "Teaser Archive")
-
-[Jewish World Power Game, Marx-Brothers-Ism Uber Marxism, Jerry Springer as Cartoon Soros, and White Privilege Amidst 'Woke...](https://www.unz.com/jfreud/jewish-world-power-game-marx-brothers-ism-uber-marxism-jerry-springer-as-cartoon-soros-and-white-privilege-amidst-wokeness/) • [54 Comments](https://www.unz.com/jfreud/jewish-world-power-game-marx-brothers-ism-uber-marxism-jerry-springer-as-cartoon-soros-and-white-privilege-amidst-wokeness/#comments)
 
 P[B](https://www.unz.com/pfrost/ "Blog View")[Peter Frost / Anthropological Heretic](https://www.unz.com/author/peter-frost/ "Teaser Archive")
 
@@ -636,51 +636,51 @@ Bloggers
 
 [T](https://www.unz.com/author/steve-sailer/ "Teaser Archives")[Steve Sailer / Human Biodiversity](https://www.unz.com/isteve/ "Blog View")
 
+[What's the Matter with Economists?](https://www.unz.com/isteve/what-the-matter-with-economists/)
+
+July 24, 2024 • [120 Comments](https://www.unz.com/isteve/what-the-matter-with-economists/#comments)
+
+[Vp?](https://www.unz.com/isteve/vp/)
+
+July 23, 2024 • [371 Comments](https://www.unz.com/isteve/vp/#comments)
+
 [Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
 
-July 21, 2024 • [251 Comments](https://www.unz.com/isteve/biden-drops-out/#comments)
+July 21, 2024 • [568 Comments](https://www.unz.com/isteve/biden-drops-out/#comments)
 
 [Dog Cologne](https://www.unz.com/isteve/dog-cologne/)
 
-July 20, 2024 • [163 Comments](https://www.unz.com/isteve/dog-cologne/#comments)
+July 20, 2024 • [182 Comments](https://www.unz.com/isteve/dog-cologne/#comments)
 
 [RNC Speeches](https://www.unz.com/isteve/rnc-speeches/)
 
-July 18, 2024 • [362 Comments](https://www.unz.com/isteve/rnc-speeches/#comments)
+July 18, 2024 • [417 Comments](https://www.unz.com/isteve/rnc-speeches/#comments)
 
 [What if I'm Right?](https://www.unz.com/isteve/what-if-im-right/)
 
-July 18, 2024 • [188 Comments](https://www.unz.com/isteve/what-if-im-right/#comments)
+July 18, 2024 • [192 Comments](https://www.unz.com/isteve/what-if-im-right/#comments)
 
 [Attention, Cheapskates! Amazon Is Selling "Noticing" for Kindle for $9.95](https://www.unz.com/isteve/attention-cheapskates-amazon-is-selling-noticing-for-kindle-for-9-95/)
 
-July 16, 2024 • [90 Comments](https://www.unz.com/isteve/attention-cheapskates-amazon-is-selling-noticing-for-kindle-for-9-95/#comments)
+July 16, 2024 • [93 Comments](https://www.unz.com/isteve/attention-cheapskates-amazon-is-selling-noticing-for-kindle-for-9-95/#comments)
 
 [Trump Picks JD Vance for Veep](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/)
 
-July 15, 2024 • [682 Comments](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/#comments)
+July 15, 2024 • [726 Comments](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/#comments)
 
 [Joe Biden Proposes Only Sensible Solution: The Battle Box](https://www.unz.com/isteve/joe-biden-proposes-only-sensible-solution/)
 
 July 14, 2024 • [184 Comments](https://www.unz.com/isteve/joe-biden-proposes-only-sensible-solution/#comments)
 
-[Trump Shot in the Head](https://www.unz.com/isteve/trump-shot-in-the-head/)
-
-July 13, 2024 • [842 Comments](https://www.unz.com/isteve/trump-shot-in-the-head/#comments)
-
-[Gov. Gavin Newsom Has Never Read a Novel](https://www.unz.com/isteve/gov-gavin-newsom-has-never-read-a-novel/)
-
-July 13, 2024 • [223 Comments](https://www.unz.com/isteve/gov-gavin-newsom-has-never-read-a-novel/#comments)
-
 [T](https://www.unz.com/author/anatoly-karlin/ "Teaser Archives")[Russian Reaction Community](https://www.unz.com/akarlin/ "Blog View")
 
 [Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
 
-July 22, 2024 • [4 Comments](https://www.unz.com/akarlin/open-thread-255/#comments)
+July 22, 2024 • [193 Comments](https://www.unz.com/akarlin/open-thread-255/#comments)
 
 [Open Thread 254](https://www.unz.com/akarlin/open-thread-254/)
 
-July 12, 2024 • [979 Comments](https://www.unz.com/akarlin/open-thread-254/#comments)
+July 12, 2024 • [1,032 Comments](https://www.unz.com/akarlin/open-thread-254/#comments)
 
 [Open Thread 253](https://www.unz.com/akarlin/open-thread-253/)
 
@@ -688,97 +688,97 @@ July 2, 2024 • [858 Comments](https://www.unz.com/akarlin/open-thread-253/#co
 
 [T](https://www.unz.com/author/paul-kersey/ "Teaser Archives")[Paul Kersey / SBPDL](https://www.unz.com/sbpdl/ "Blog View")
 
+[The GOP Push Against DEI Gets Hot: Rep. Burchett Correctly Kamala Harris a "DEI Vice President"](https://www.unz.com/sbpdl/the-gop-push-against-dei-gets-hot-rep-burchett-correctly-kamala-harris-a-dei-vice-president/)
+
+July 24, 2024 • [4 Comments](https://www.unz.com/sbpdl/the-gop-push-against-dei-gets-hot-rep-burchett-correctly-kamala-harris-a-dei-vice-president/#comments)
+
 [JD Vance Accused of Laying "Easter Egg of White Nationalism" in RNC Speech by MSNBC Host for Wanting to be Buried in Famil...](https://www.unz.com/sbpdl/jd-vance-accused-of-laying-easter-egg-of-white-nationalism-in-rnc-speech-by-msnbc-speech-for-wanting-to-be-buried-in-family-plot-in-kentucky/)
 
-July 19, 2024 • [15 Comments](https://www.unz.com/sbpdl/jd-vance-accused-of-laying-easter-egg-of-white-nationalism-in-rnc-speech-by-msnbc-speech-for-wanting-to-be-buried-in-family-plot-in-kentucky/#comments)
+July 19, 2024 • [46 Comments](https://www.unz.com/sbpdl/jd-vance-accused-of-laying-easter-egg-of-white-nationalism-in-rnc-speech-by-msnbc-speech-for-wanting-to-be-buried-in-family-plot-in-kentucky/#comments)
 
 [Black St. Louis Alderman Introduces Bill to Rename Street Near City Hall After Michael Brown, the Black "Gentle Giant" Who...](https://www.unz.com/sbpdl/black-st-louis-alderman-introduces-bill-to-rename-street-near-city-hall-after-michael-brown-the-black-gentle-giant-who-tried-to-kill-a-white-cop-in-2014/)
 
 July 15, 2024 • [36 Comments](https://www.unz.com/sbpdl/black-st-louis-alderman-introduces-bill-to-rename-street-near-city-hall-after-michael-brown-the-black-gentle-giant-who-tried-to-kill-a-white-cop-in-2014/#comments)
 
-[Her Name Is Alexa Stakely: 29-Year-Old White Mother Dies Trying to Protect Her Son from Carjackers in Columbus, Ohio (Poli...](https://www.unz.com/sbpdl/her-name-is-alexa-stakely-29-year-old-white-mother-dies-trying-to-protect-her-son-from-carjackers-in-columbus-ohio-police-refuse-to-release-description-of-carjackers-b-c-theyre-black-juveniles/)
-
-July 12, 2024 • [58 Comments](https://www.unz.com/sbpdl/her-name-is-alexa-stakely-29-year-old-white-mother-dies-trying-to-protect-her-son-from-carjackers-in-columbus-ohio-police-refuse-to-release-description-of-carjackers-b-c-theyre-black-juveniles/#comments)
-
 Categories
 
 [T](https://www.unz.com/category/foreign-policy/ "Teaser Archive")[Foreign Policy Articles](https://www.unz.com/tcategory/foreign-policy/ "Summary Page")
 
-[Drones, Dead Jews, and the Inevitability of Sino-Futurism](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/)
+[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
 
-Andrew Anglin • [19 Comments](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/#comments)
+Andrew Anglin • [44 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
 
-[The Polish Purge – Russian Assessment of Ex-defense Minister Blaszczak’s Treason](https://www.unz.com/article/the-polish-purge-russian-assessment-of-ex-defense-minister-blaszczaks-treason/)
+[The World Court Has Cleared the Fog Hiding Western Support for Israel’s Crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/)
 
-John Helmer • [1 Comment](https://www.unz.com/article/the-polish-purge-russian-assessment-of-ex-defense-minister-blaszczaks-treason/#comments)
+Jonathan Cook • [29 Comments](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#comments)
 
-[Israeli Soldiers Tell Story of Savage Cruelty in Gaza – One Hidden from Western Publics](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/)
+[China Has Achieved Escape Velocity: It Is Now Unstoppable](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/)
 
-Jonathan Cook • [168 Comments](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/#comments)
+Pepe Escobar • [7 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
 
-[Washington Must Step Up Its Trade in Central Asia... or Lose Out](https://www.unz.com/article/washington-must-step-up-its-trade-in-central-asia-or-lose-out/)
+[10 Principles for Perpetual Peace in the 21st Century](https://www.unz.com/article/10-principles-for-perpetual-peace-in-the-21st-century/)
 
-James Durso • [Leave a Comment](https://www.unz.com/article/washington-must-step-up-its-trade-in-central-asia-or-lose-out/#comments)
+Jeffrey D. Sachs • [2 Comments](https://www.unz.com/article/10-principles-for-perpetual-peace-in-the-21st-century/#comments)
 
-[Russia’s Cargo-Carrying Revolution Is Swifter Than Any Logistics Revolution in History](https://www.unz.com/article/russias-cargo-carrying-revolution-is-swifter-than-any-logistics-revolution-in-history/)
+[China Brings Peace to the Middle East While Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/)
 
-John Helmer • [7 Comments](https://www.unz.com/article/russias-cargo-carrying-revolution-is-swifter-than-any-logistics-revolution-in-history/#comments)
+Mike Whitney • [153 Comments](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/#comments)
 
-[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/)
+[China Designs an Economic Road Map All the Way to 2029](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/)
 
-Philip Giraldi • [111 Comments](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/#comments)
-
-[T](https://www.unz.com/category/history/ "Teaser Archive")[History Articles](https://www.unz.com/tcategory/history/ "Summary Page")
-
-[Drones, Dead Jews, and the Inevitability of Sino-Futurism](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/)
-
-Andrew Anglin • [19 Comments](https://www.unz.com/aanglin/drones-dead-jews-and-the-inevitability-of-sino-futurism/#comments)
-
-[The Polish Purge – Russian Assessment of Ex-defense Minister Blaszczak’s Treason](https://www.unz.com/article/the-polish-purge-russian-assessment-of-ex-defense-minister-blaszczaks-treason/)
-
-John Helmer • [1 Comment](https://www.unz.com/article/the-polish-purge-russian-assessment-of-ex-defense-minister-blaszczaks-treason/#comments)
-
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
-
-Ron Unz • [46 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
-
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
-
-Andrew Anglin • [125 Comments](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/#comments)
-
-[Thinking About Political Assassinations (Remember Percival V. Bellingham?)](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/)
-
-John Derbyshire • [10 Comments](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/#comments)
-
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
-
-Marshall Yeats • [166 Comments](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/#comments)
+Pepe Escobar • [27 Comments](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/#comments)
 
 [T](https://www.unz.com/category/economics/ "Teaser Archive")[Economics Articles](https://www.unz.com/tcategory/economics/ "Summary Page")
 
+[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
+
+Andrew Anglin • [44 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
+
+[China Has Achieved Escape Velocity: It Is Now Unstoppable](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/)
+
+Pepe Escobar • [7 Comments](https://www.unz.com/pescobar/china-has-achieved-escape-velocity-it-is-now-unstoppable/#comments)
+
+[China Designs an Economic Road Map All the Way to 2029](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/)
+
+Pepe Escobar • [27 Comments](https://www.unz.com/pescobar/china-designs-an-economic-road-map-all-the-way-to-2029/#comments)
+
 [Russia’s Cargo-Carrying Revolution Is Swifter Than Any Logistics Revolution in History](https://www.unz.com/article/russias-cargo-carrying-revolution-is-swifter-than-any-logistics-revolution-in-history/)
 
-John Helmer • [7 Comments](https://www.unz.com/article/russias-cargo-carrying-revolution-is-swifter-than-any-logistics-revolution-in-history/#comments)
+John Helmer • [10 Comments](https://www.unz.com/article/russias-cargo-carrying-revolution-is-swifter-than-any-logistics-revolution-in-history/#comments)
 
 [World Shaking Up! Epic Political & Economic Earthquakes](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/)
 
-Michael Hudson • [4 Comments](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/#comments)
+Michael Hudson • [76 Comments](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/#comments)
 
 [NATO vs Voters](https://www.unz.com/mhudson/nato-vs-voters-how-the-wests-warmongering-threatens-democracy-and-the-global-majority/)
 
-Michael Hudson • [7 Comments](https://www.unz.com/mhudson/nato-vs-voters-how-the-wests-warmongering-threatens-democracy-and-the-global-majority/#comments)
+Michael Hudson • [8 Comments](https://www.unz.com/mhudson/nato-vs-voters-how-the-wests-warmongering-threatens-democracy-and-the-global-majority/#comments)
 
-[We Need a New Political Vocabulary](https://www.unz.com/mhudson/we-need-a-new-political-vocabulary/)
+[T](https://www.unz.com/category/history/ "Teaser Archive")[History Articles](https://www.unz.com/tcategory/history/ "Summary Page")
 
-Michael Hudson • [21 Comments](https://www.unz.com/mhudson/we-need-a-new-political-vocabulary/#comments)
+[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
 
-[Why the SCO Summit in Kazakhstan Was a Game-Changer](https://www.unz.com/pescobar/why-the-sco-summit-in-kazakhstan-was-a-game-changer/)
+Andrew Anglin • [44 Comments](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/#comments)
 
-Pepe Escobar • [202 Comments](https://www.unz.com/pescobar/why-the-sco-summit-in-kazakhstan-was-a-game-changer/#comments)
+[The World Court Has Cleared the Fog Hiding Western Support for Israel’s Crimes](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/)
 
-[The Great British Betrayal](https://www.unz.com/article/the-great-british-betrayal/)
+Jonathan Cook • [29 Comments](https://www.unz.com/jcook/the-world-court-has-cleared-the-fog-hiding-western-support-for-israels-crimes/#comments)
 
-Keith Woods • [240 Comments](https://www.unz.com/article/the-great-british-betrayal/#comments)
+[10 Principles for Perpetual Peace in the 21st Century](https://www.unz.com/article/10-principles-for-perpetual-peace-in-the-21st-century/)
+
+Jeffrey D. Sachs • [2 Comments](https://www.unz.com/article/10-principles-for-perpetual-peace-in-the-21st-century/#comments)
+
+[China Brings Peace to the Middle East While Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/)
+
+Mike Whitney • [153 Comments](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/#comments)
+
+[Predicting the Uniparty: Peter Oborne’s "The Triumph of the Political Class"](https://www.unz.com/article/predicting-the-uniparty-peter-obornes-the-triumph-of-the-political-class/)
+
+Mark Gullick • [1 Comment](https://www.unz.com/article/predicting-the-uniparty-peter-obornes-the-triumph-of-the-political-class/#comments)
+
+[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
+
+Ron Unz • [206 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
 
 [T](https://www.unz.com/category/raceethnicity/ "Teaser Archive")[Race/Ethnicity Articles](https://www.unz.com/tcategory/raceethnicity/ "Summary Page")
 
@@ -796,11 +796,11 @@ Jared Taylor • [18 Comments](https://www.unz.com/jtaylor/preface-to-guillaume
 
 [The Ways of the Jewish Slave Traders](https://www.unz.com/article/the-ways-of-the-jewish-slave-traders/)
 
-NOI Research Group • [279 Comments](https://www.unz.com/article/the-ways-of-the-jewish-slave-traders/#comments)
+NOI Research Group • [299 Comments](https://www.unz.com/article/the-ways-of-the-jewish-slave-traders/#comments)
 
 [The Crazy Things They Think](https://www.unz.com/jtaylor/the-crazy-things-they-think/)
 
-Jared Taylor • [87 Comments](https://www.unz.com/jtaylor/the-crazy-things-they-think/#comments)
+Jared Taylor • [88 Comments](https://www.unz.com/jtaylor/the-crazy-things-they-think/#comments)
 
 [The Many Murders of Billy Chemirmir](https://www.unz.com/article/the-many-murders-of-billy-chemirmir/)
 
@@ -808,65 +808,39 @@ Anastasia Katz • [121 Comments](https://www.unz.com/article/the-many-murders-
 
 [T](https://www.unz.com/category/ideology/ "Teaser Archive")[Ideology Articles](https://www.unz.com/tcategory/ideology/ "Summary Page")
 
+[The Murder of VDare](https://www.unz.com/article/the-murder-of-vdare/)
+
+Kevin MacDonald • [2 Comments](https://www.unz.com/article/the-murder-of-vdare/#comments)
+
+[Predicting the Uniparty: Peter Oborne’s "The Triumph of the Political Class"](https://www.unz.com/article/predicting-the-uniparty-peter-obornes-the-triumph-of-the-political-class/)
+
+Mark Gullick • [1 Comment](https://www.unz.com/article/predicting-the-uniparty-peter-obornes-the-triumph-of-the-political-class/#comments)
+
 [American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
 
-Ron Unz • [46 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+Ron Unz • [206 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+
+[Red on Red in Succession Politics — Russian Exceptionalists Try to Interpret American Presidential Politics](https://www.unz.com/article/red-on-red-in-succession-politics-russian-exceptionalists-try-to-interpret-american-presidential-politics/)
+
+John Helmer • [4 Comments](https://www.unz.com/article/red-on-red-in-succession-politics-russian-exceptionalists-try-to-interpret-american-presidential-politics/#comments)
+
+[Hyde and Shriek: Trump’s Narrow Escape and the Power-Hungry Malevolence of the Left](https://www.unz.com/article/hyde-and-shriek-trumps-narrow-escape-and-the-power-hungry-malevolence-of-the-left/)
+
+Tobias Langdon • [5 Comments](https://www.unz.com/article/hyde-and-shriek-trumps-narrow-escape-and-the-power-hungry-malevolence-of-the-left/#comments)
 
 [Biden Dropped Out So Fewer People Would Conclude “American Democracy” Is a Ridiculous Scam](https://www.unz.com/aanglin/biden-dropped-out-so-fewer-people-would-conclude-american-democracy-is-a-ridiculous-scam/)
 
-Andrew Anglin • [8 Comments](https://www.unz.com/aanglin/biden-dropped-out-so-fewer-people-would-conclude-american-democracy-is-a-ridiculous-scam/#comments)
-
-[Why Didn’t the Counter-Snipers Shoot?](https://www.unz.com/article/why-didnt-the-counter-snipers-shoot/)
-
-Philip Kraske • [10 Comments](https://www.unz.com/article/why-didnt-the-counter-snipers-shoot/#comments)
-
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
-
-Andrew Anglin • [125 Comments](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/#comments)
-
-[American Cognitive Decline: It's Bipartisan](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/)
-
-Kevin Barrett • [32 Comments](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/#comments)
-
-[Thinking About Political Assassinations (Remember Percival V. Bellingham?)](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/)
-
-John Derbyshire • [10 Comments](https://www.unz.com/jderbyshire/thinking-about-political-assassinations-remember-percival-v-bellingham/#comments)
-
-[T](https://www.unz.com/category/culture-society/ "Teaser Archive")[Culture/Society Articles](https://www.unz.com/tcategory/culture-society/ "Summary Page")
-
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
-
-Andrew Anglin • [125 Comments](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/#comments)
-
-[MEGALOPOLIS: The Future of Independent and Right Wing Cinema](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/)
-
-John Macdonald • [11 Comments](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/#comments)
-
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
-
-Marshall Yeats • [166 Comments](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/#comments)
-
-[The Move to Seek Fellowship and Common Values on the Right](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/)
-
-Kevin MacDonald • [10 Comments](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/#comments)
-
-[Democracy and Identity](https://www.unz.com/article/democracy-and-identity/)
-
-Mark Weber • [9 Comments](https://www.unz.com/article/democracy-and-identity/#comments)
-
-[The Jewish Golden Age Continues Part I: American Law](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/)
-
-Eric Striker • [81 Comments](https://www.unz.com/estriker/the-jewish-golden-age-continues-part-i-american-law/#comments)
+Andrew Anglin • [46 Comments](https://www.unz.com/aanglin/biden-dropped-out-so-fewer-people-would-conclude-american-democracy-is-a-ridiculous-scam/#comments)
 
 [T](https://www.unz.com/category/arts-letters/ "Teaser Archive")[Arts/Letters Articles](https://www.unz.com/tcategory/arts-letters/ "Summary Page")
 
 [MEGALOPOLIS: The Future of Independent and Right Wing Cinema](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/)
 
-John Macdonald • [11 Comments](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/#comments)
+John Macdonald • [13 Comments](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/#comments)
 
 [The Racial Thought of Wyndham Lewis](https://www.unz.com/article/the-racial-thought-of-wyndham-lewis/)
 
-F. Roger Devlin • [6 Comments](https://www.unz.com/article/the-racial-thought-of-wyndham-lewis/#comments)
+F. Roger Devlin • [7 Comments](https://www.unz.com/article/the-racial-thought-of-wyndham-lewis/#comments)
 
 [Fatal Antigone: Between Modern Lawfare and Cursed Heredity](https://www.unz.com/article/fatal-antigone-between-modern-lawfare-and-cursed-heredity/)
 
@@ -874,7 +848,7 @@ Tom Sunic • [7 Comments](https://www.unz.com/article/fatal-antigone-between-m
 
 [What Blacks Think Whites Think About Blacks](https://www.unz.com/article/what-blacks-think-whites-think-about-blacks/)
 
-Anastasia Katz • [148 Comments](https://www.unz.com/article/what-blacks-think-whites-think-about-blacks/#comments)
+Anastasia Katz • [149 Comments](https://www.unz.com/article/what-blacks-think-whites-think-about-blacks/#comments)
 
 [The American Right Grows Up](https://www.unz.com/ghood/the-american-right-grows-up/)
 
@@ -883,6 +857,32 @@ Gregory Hood • [157 Comments](https://www.unz.com/ghood/the-american-right-gr
 [Trigger Warnings Make Gen Z Even More Anxious](https://www.unz.com/article/trigger-warnings-make-gen-z-even-more-anxious/)
 
 Edward Dutton • [11 Comments](https://www.unz.com/article/trigger-warnings-make-gen-z-even-more-anxious/#comments)
+
+[T](https://www.unz.com/category/culture-society/ "Teaser Archive")[Culture/Society Articles](https://www.unz.com/tcategory/culture-society/ "Summary Page")
+
+[MEGALOPOLIS: The Future of Independent and Right Wing Cinema](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/)
+
+John Macdonald • [13 Comments](https://www.unz.com/article/megalopolis-the-future-of-independent-and-right-wing-cinema/#comments)
+
+[The Remarkable Significance of the Pro-Palestinian Movement in the 21st Century](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/)
+
+Jung-Freud • [18 Comments](https://www.unz.com/jfreud/the-remarkable-significance-of-the-pro-palestinian-movement-in-the-21st-century/#comments)
+
+[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
+
+Andrew Anglin • [329 Comments](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/#comments)
+
+[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
+
+Marshall Yeats • [211 Comments](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/#comments)
+
+[The Move to Seek Fellowship and Common Values on the Right](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/)
+
+Kevin MacDonald • [18 Comments](https://www.unz.com/article/the-move-to-seek-fellowship-and-common-values-on-the-right/#comments)
+
+[Democracy and Identity](https://www.unz.com/article/democracy-and-identity/)
+
+Mark Weber • [9 Comments](https://www.unz.com/article/democracy-and-identity/#comments)
 
 [T](https://www.unz.com/category/science/ "Teaser Archive")[Science Articles](https://www.unz.com/tcategory/science/ "Summary Page")
 
@@ -916,7 +916,7 @@ Series & Chronic Topics
 
 [American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
 
-Ron Unz • [46 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
+Ron Unz • [206 Comments](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/#comments)
 
 [9/11 Articles](https://www.unz.com/topic/9-11/feature/)
 
@@ -952,7 +952,7 @@ Ron Unz and Mike Whitney • [1,700 Comments](https://www.unz.com/runz/why-ever
 
 [JFK Jr. and the Jewish Curse on the Kennedys](https://www.unz.com/article/jfk-jr-and-the-jewish-curse-on-the-kennedys/)
 
-Laurent Guyénot • [222 Comments](https://www.unz.com/article/jfk-jr-and-the-jewish-curse-on-the-kennedys/#comments)
+Laurent Guyénot • [223 Comments](https://www.unz.com/article/jfk-jr-and-the-jewish-curse-on-the-kennedys/#comments)
 
 [Moon Landing Hoax Articles](https://www.unz.com/topic/moon-landing-hoax/feature/)
 
@@ -986,59 +986,56 @@ Ron Unz • [430 Comments](https://www.unz.com/runz/american-pravda-why-the-med
 
 Most PopularComments One DayOne WeekOne MonthSix Months
 
-Keith Woods  
-[The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
+Michael Hudson  
+[World Shaking Up! Epic Political & Economic Earthquakes](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/)
 
-Marshall Yeats  
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
+Mike Whitney  
+[China Brings Peace to the Middle East while Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/)
+
+Steve Sailer  
+[What's the Matter With Economists?](https://www.unz.com/isteve/what-the-matter-with-economists/)
+
+Andrew Anglin  
+[It’s Over: George Clooney Endorses Kamala](https://www.unz.com/aanglin/its-over-george-clooney-endorses-kamala/)
 
 Andrew Anglin  
 [Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
 
+  
+
+Andrew Anglin  
+[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
+
+Andrew Anglin  
+[Free Falling: Tesla Reports Lowest Profits in More Than Five Years, Elon Blames the Chinese](https://www.unz.com/aanglin/free-falling-tesla-reports-lowest-profits-in-more-than-five-years-elon-blames-the-chinese/)
+
+Ron Unz  
+[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
+
 Steve Sailer  
-[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
-
-Ron Unz  
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
-
-  
-
-Pepe Escobar  
-[Iwo Jima 2.0: What story is this picture telling?](https://www.unz.com/pescobar/iwo-jima-2-0-what-story-is-this-picture-telling/)
-
-Kevin Barrett  
-[The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/)
-
-Paul Craig Roberts  
-[Acoustic Evidence Proves Beyond All Doubt More Than One Shooter](https://www.unz.com/proberts/acoustic-evidence-proves-beyond-all-doubt-more-than-one-shooter/)
-
-Jonathan Cook  
-[Israeli soldiers tell story of savage cruelty in Gaza – one hidden from western publics](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/)
-
-Kevin Barrett  
-[American Cognitive Decline: It's Bipartisan](https://www.unz.com/kbarrett/american-cognitive-decline-its-bipartisan/)
-
-  
-
-Ron Unz  
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
-
-Jared Taylor  
-[The Assassination Attempt](https://www.unz.com/jtaylor/the-assassination-attempt/)
-
-Kevin Barrett  
-[The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/)
-
-Laurent Guyénot  
-[JFK Jr. and the Jewish Curse on the Kennedys](https://www.unz.com/article/jfk-jr-and-the-jewish-curse-on-the-kennedys/)
-
-Mike Whitney  
-[Why Russia Will Defeat NATO in Ukraine](https://www.unz.com/mwhitney/why-russia-will-defeat-nato-in-ukraine/)
-
-  
+[Vp?](https://www.unz.com/isteve/vp/)
 
 Keith Woods  
 [The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
+
+  
+
+Kevin Barrett  
+[The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/)
+
+Keith Woods  
+[The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
+
+Andrew Anglin  
+[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
+
+Marshall Yeats  
+[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
+
+Ron Unz  
+[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
+
+  
 
 A.J. Smuskiewicz  
 [A New Assassination Event for Conspiracy Theorists](https://www.unz.com/article/a-new-assassination-event-for-conspiracy-theorists/)
@@ -1046,45 +1043,48 @@ A.J. Smuskiewicz
 David Martin  
 [Hillbilly Agent?](https://www.unz.com/article/hillbilly-agent/)
 
-F. Roger Devlin  
-[J.D. Vance’s 'Hillbilly Elegy'](https://www.unz.com/article/j-d-vances-hillbilly-elegy/)
-
-Marshall Yeats  
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
-
-  
+Jonathan Cook  
+[Israeli soldiers tell story of savage cruelty in Gaza – one hidden from western publics](https://www.unz.com/jcook/israeli-soldiers-tell-story-of-savage-cruelty-in-gaza-one-hidden-from-western-publics/)
 
 Ron Unz  
-[American Pravda: JFK, LBJ, and Our Great National Shame](https://www.unz.com/runz/american-pravda-jfk-lbj-and-our-great-national-shame/)
+[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
 
-Andrew Anglin  
-[What Exactly is Going on with This Election?](https://www.unz.com/aanglin/what-exactly-is-going-on-with-this-election/)
+Philip Giraldi  
+[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/)
+
+  
 
 Ron Unz  
 [The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
 
+Andrew Anglin  
+[What Exactly is Going on with This Election?](https://www.unz.com/aanglin/what-exactly-is-going-on-with-this-election/)
+
 Laurent Guyénot  
 [JFK Jr. and the Jewish Curse on the Kennedys](https://www.unz.com/article/jfk-jr-and-the-jewish-curse-on-the-kennedys/)
 
-Philip Giraldi  
-[Biden Is In Full Denial As He Escalates His Wars](https://www.unz.com/pgiraldi/biden-is-in-full-denial-as-he-escalates-his-wars/)
-
-  
-
-Laurent Guyénot  
-[God, the Jews, and Us](https://www.unz.com/article/god-the-jews-and-us-a-deceitful-civilizational-contract/)
+Keith Woods  
+[The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
 
 NOI Research Group  
 [The Ways of the Jewish Slave Traders](https://www.unz.com/article/the-ways-of-the-jewish-slave-traders/)
 
-Keith Woods  
-[The Great British Betrayal](https://www.unz.com/article/the-great-british-betrayal/)
+  
+
+Kevin Barrett  
+[The False Flag Trump Shooting](https://www.unz.com/kbarrett/the-false-flag-trump-shooting/)
+
+Jared Taylor  
+[The Assassination Attempt](https://www.unz.com/jtaylor/the-assassination-attempt/)
 
 Ron Unz  
 [American Pravda: JFK, Richard Nixon, the CIA, and Watergate](https://www.unz.com/runz/american-pravda-jfk-richard-nixon-the-cia-and-watergate/)
 
-Marshall Yeats  
-[Carl Jung and the Jews](https://www.unz.com/article/carl-jung-and-the-jews/)
+Laurent Guyénot  
+[God, the Jews, and Us](https://www.unz.com/article/god-the-jews-and-us-a-deceitful-civilizational-contract/)
+
+Keith Woods  
+[The Great British Betrayal](https://www.unz.com/article/the-great-british-betrayal/)
 
   
 
@@ -1123,44 +1123,44 @@ Ron Unz
   
 
 Steve Sailer  
-[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
+[Vp?](https://www.unz.com/isteve/vp/)
 
-Marshall Yeats  
-[Ongoing Jewish Influence in the Transformation of Ireland](https://www.unz.com/article/ongoing-jewish-influence-in-the-transformation-of-ireland/)
+Mike Whitney  
+[China Brings Peace to the Middle East while Washington Bombs and Terrorizes](https://www.unz.com/mwhitney/china-brings-peace-to-the-middle-east-while-washington-bombs-and-terrorizes/)
 
-Andrew Anglin  
-[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
+Steve Sailer  
+[What's the Matter With Economists?](https://www.unz.com/isteve/what-the-matter-with-economists/)
 
 Karlin Community  
-[Open Thread 254](https://www.unz.com/akarlin/open-thread-254/)
+[Open Thread 255](https://www.unz.com/akarlin/open-thread-255/)
 
-Steve Sailer  
-[RNC Speeches](https://www.unz.com/isteve/rnc-speeches/)
+Michael Hudson  
+[World Shaking Up! Epic Political & Economic Earthquakes](https://www.unz.com/mhudson/world-shaking-up-epic-political-economic-earthquakes/)
 
   
-
-Keith Woods  
-[The Shadow Money System That Rules The World](https://www.unz.com/article/the-shadow-money-system-that-rules-the-world/)
-
-Steve Sailer  
-[Dog cologne](https://www.unz.com/isteve/dog-cologne/)
-
-Philip Giraldi  
-[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/)
 
 Ron Unz  
 [The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
 
-Ron Unz  
-[American Pravda: Richard Nixon and the Jews](https://www.unz.com/runz/american-pravda-richard-nixon-and-the-jews/)
+Andrew Anglin  
+[Pax Sino: Hamas and Fatah Among 14 Palestinian Factions to Sign Unity Agreement in China!](https://www.unz.com/aanglin/pax-sino-hamas-and-fatah-among-14-palestinian-factions-to-sign-unity-agreement-in-china/)
+
+Andrew Anglin  
+[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
+
+Andrew Anglin  
+[It’s Over: George Clooney Endorses Kamala](https://www.unz.com/aanglin/its-over-george-clooney-endorses-kamala/)
+
+Steve Sailer  
+[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
 
   
 
+Steve Sailer  
+[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
+
 Karlin Community  
 [Open Thread 254](https://www.unz.com/akarlin/open-thread-254/)
-
-Steve Sailer  
-[Trump picks JD Vance for Veep](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/)
 
 Ron Unz  
 [The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
@@ -1174,19 +1174,19 @@ Steve Sailer
   
 
 Steve Sailer  
-[Trump shot in the head](https://www.unz.com/isteve/trump-shot-in-the-head/)
+[Vp?](https://www.unz.com/isteve/vp/)
 
-Jared Taylor  
-[The Assassination Attempt](https://www.unz.com/jtaylor/the-assassination-attempt/)
+Andrew Anglin  
+[Trump’s RNC, Doomed Gay Satanic Bullshit – America Deserves This](https://www.unz.com/aanglin/trumps-rnc-doomed-gay-satanic-bullshit-america-deserves-this/)
 
 A.J. Smuskiewicz  
 [A New Assassination Event for Conspiracy Theorists](https://www.unz.com/article/a-new-assassination-event-for-conspiracy-theorists/)
 
-Steve Sailer  
-[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
+Philip Giraldi  
+[Let’s Arrest Benjamin Netanyahu When He Arrives in Washington!](https://www.unz.com/pgiraldi/lets-arrest-benjamin-netanyahu-when-he-arrives-in-washington/)
 
-Mike Whitney  
-[Why Russia Will Defeat NATO in Ukraine](https://www.unz.com/mwhitney/why-russia-will-defeat-nato-in-ukraine/)
+Steve Sailer  
+[Trump picks JD Vance for Veep](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/)
 
   
 
@@ -1197,27 +1197,27 @@ Steve Sailer
 [Sailer in Taki's: Trust, But Verify](https://www.unz.com/isteve/sailer-in-takis-trust-but-verify/)
 
 Karlin Community  
-[Open Thread 252](https://www.unz.com/akarlin/open-thread-252/)
-
-Karlin Community  
 [Open Thread 253](https://www.unz.com/akarlin/open-thread-253/)
 
 Steve Sailer  
 [Trump shot in the head](https://www.unz.com/isteve/trump-shot-in-the-head/)
+
+Ron Unz  
+[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
 
   
 
 Steve Sailer  
 [Trump picks JD Vance for Veep](https://www.unz.com/isteve/trump-picks-jd-vance-for-veep/)
 
-Ron Unz  
-[The Attempted Assassination of Donald Trump](https://www.unz.com/runz/the-attempted-assassination-of-donald-trump/)
+Karlin Community  
+[Open Thread 252](https://www.unz.com/akarlin/open-thread-252/)
 
 Steve Sailer  
 [What should the Democrats do?](https://www.unz.com/isteve/what-should-the-democrats-do/)
 
-Jared Taylor  
-[The Future of Christianity](https://www.unz.com/jtaylor/the-future-of-christianity/)
+Steve Sailer  
+[Biden Drops Out](https://www.unz.com/isteve/biden-drops-out/)
 
 Steve Sailer  
 [Debate](https://www.unz.com/isteve/debate-2/)
