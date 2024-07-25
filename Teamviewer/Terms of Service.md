@@ -1239,6 +1239,7 @@ Change Region
 * Additional Links
     * [Contact Sales](https://www.teamviewer.com/en/global/company/contact-sales/)
     * [TeamViewer User Focus Program](https://www.teamviewer.com/en/resources/teamviewer-user-focus-program/)
+    * [Find Your Better](https://www.teamviewer.com/en/special/find-your-better/)
     * [Research Projects](https://www.teamviewer.com/en/global/company/research-projects/)
     * [Newsletter](https://www.teamviewer.com/en/newsletter/)
 
