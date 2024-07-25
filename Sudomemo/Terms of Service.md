@@ -17,7 +17,7 @@
     * [Twitter 🇯🇵](https://www.twitter.com/SudomemoJP)
     * [Instagram](https://www.instagram.com/Sudomemo)
     * [Facebook](https://www.facebook.com/Sudomemo)
-    * [Email](mailto:support@sudomemo.net)
+    * [\[email protected\]](https://support.sudomemo.net/cdn-cgi/l/email-protection)
     * Other
     * [Credits](https://support.sudomemo.net/credits)
 * [Search](https://www.sudomemo.net/search/)
