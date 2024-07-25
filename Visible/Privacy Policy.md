@@ -620,7 +620,7 @@ Shop
 
 Company
 
-* [About Us](https://www.visible.com/about-us/)
+* [About Us](https://www.visible.com/about-us)
 * [Blog](https://www.visible.com/blog)
 * [Newsroom](https://www.visible.com/newsroom)
 * [Community](https://community.visible.com/)
@@ -717,7 +717,7 @@ Shop
 
 Company
 
-* [About Us](https://www.visible.com/about-us/)
+* [About Us](https://www.visible.com/about-us)
 * [Blog](https://www.visible.com/blog)
 * [Newsroom](https://www.visible.com/newsroom)
 * [Community](https://community.visible.com/)
