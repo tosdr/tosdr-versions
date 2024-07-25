@@ -37,6 +37,10 @@ Loading…
 3. [Log in](https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fprivacy-policy)
 4. [Sign up](https://stackoverflow.com/users/signup?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2flegal%2fprivacy-policy)
 
+The 2024 Developer Survey results are live! [See the results](https://survey.stackoverflow.co/2024/?utm_medium=referral&utm_source=stackexchange-community&utm_campaign=dev-survey-2024&utm_content=announcement-banner)
+
+[](# "dismiss")
+
 1. 1. [Home](https://stackexchange.com/)
     2. [Questions](https://stackexchange.com/questions)
     3. [Tags](https://stackexchange.com/tags)
@@ -51,8 +55,6 @@ Loading…
     11. Communities for your favorite technologies. [Explore all Collectives](https://stackexchange.com/collectives-all)
         
 2. Teams
-    
-    ![](https://cdn.sstatic.net/Img/teams/overflowai.svg?v=d706fa76cdae)
     
     Now available on Stack Overflow for Teams! AI features where you work: search, IDE, and chat.
     
@@ -593,4 +595,4 @@ EU Representative
 * [LinkedIn](https://linkedin.com/company/stack-overflow)
 * [Instagram](https://www.instagram.com/thestackoverflow)
 
-Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.7.18.12879
+Site design / logo © 2024 Stack Exchange Inc; user contributions licensed under [CC BY-SA](https://stackoverflow.com/help/licensing). rev 2024.7.24.13113
