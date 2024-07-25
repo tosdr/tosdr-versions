@@ -1,6 +1,6 @@
 [Skip to Main Content](#maincontent)
 
-Some VMFH facilities have been affected by a global technology outage. Appointments may be impacted. [Learn more](https://www.vmfh.org/content/vmfhorg/en/global-it-outage "Learn more").
+Schedule certain appointments online. [Get started](https://www.vmfh.org/content/vmfhorg/en/access "Access").
 
 * [Ways to give](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
 * [Refer a patient](https://www.vmfh.org/content/vmfhorg/en/resources/refer-a-patient)
