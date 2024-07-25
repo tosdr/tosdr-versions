@@ -91,7 +91,7 @@
     
     [![](https://www.makerbot.com/wp-content/uploads/2023/10/Menu-resources-All-resources.png)](https://www.makerbot.com/resources/)
     
-    ##### [All resources](https://www.makerbot.com/resources/)
+    ##### [Webinars, lessons, blogs, and more](https://www.makerbot.com/resources/)
     
     Get tips and tricks on how to use 3D printing to bring your curriculum to life.
     
@@ -124,7 +124,7 @@
 
 [](https://store.makerbot.com/checkout/cart)
 
-[Request a quote](https://www.makerbot.com/quote-request)
+[Request a quote](https://www.makerbot.com/quote-request) [Store](https://store.makerbot.com/)
 
 MAKERBOT TERMS OF USE
 =====================
