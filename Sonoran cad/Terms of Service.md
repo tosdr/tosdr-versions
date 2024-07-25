@@ -420,7 +420,7 @@ SearchCtrl + K
                     * [Remove Record](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/custom-records/remove-record)
                         
                     
-                * [Lookup By Integer](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/lookup-by-integer)
+                * [Lookup By Value](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/lookup-by-integer)
                     
                 * [Lookup Name or Plate](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/lookup-name-or-plate)
                     
