@@ -2,7 +2,7 @@
 
 [![United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"](https://cdn.unitedsiteservices.com/wp-content/smush-webp/2023/10/USS-Logo.png.webp "United Site Services logo featuring blue text and a green triangle over the letter "i" in "united"")](https://www.unitedsiteservices.com/)
 
-* [Industry Expertise](https://www.unitedsiteservices.com/your-needs/)
+* [Industries](https://www.unitedsiteservices.com/industries/)
     
     * [Events](https://www.unitedsiteservices.com/events/)
         
@@ -19,7 +19,7 @@
         * [State Fairs](https://www.unitedsiteservices.com/events/state-fairs/)
         * [Weddings](https://www.unitedsiteservices.com/events/weddings/)
     * [Construction](https://www.unitedsiteservices.com/construction/)
-    * [Residential Construction Site Services](https://www.unitedsiteservices.com/residential-construction-site-services/)
+    * [Residential Construction](https://www.unitedsiteservices.com/residential-construction-site-services/)
     * [Industrial](https://www.unitedsiteservices.com/industrial/)
     * [Government](https://www.unitedsiteservices.com/government/)
     * [Agriculture](https://www.unitedsiteservices.com/agriculture/)
@@ -42,7 +42,7 @@
 * [About US](https://www.unitedsiteservices.com/about/)
     
     * [Why Choose Us?](https://www.unitedsiteservices.com/why-uss/)
-    * [Doing Business with Us](https://www.unitedsiteservices.com/doing-business-with-uss/)
+    * [Account Management](https://www.unitedsiteservices.com/doing-business-with-uss/)
     * [Uniform Servicing System](https://www.unitedsiteservices.com/about/10-point-service-plan/)
     * [Our Team](https://www.unitedsiteservices.com/about/our-team/)
     * [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
@@ -87,7 +87,7 @@
 
 * [1-800-864-5387](tel:1-800-864-5387)
 * [GET A QUOTE](https://www.unitedsiteservices.com/request-quote)
-* [Industry Experience](https://www.unitedsiteservices.com/your-needs/)
+* [Industries](https://www.unitedsiteservices.com/industries/)
     
     * [Events](https://www.unitedsiteservices.com/events/)
         
@@ -104,7 +104,7 @@
         * [State Fairs](https://www.unitedsiteservices.com/events/state-fairs/)
         * [Weddings](https://www.unitedsiteservices.com/events/weddings/)
     * [Construction](https://www.unitedsiteservices.com/construction/)
-    * [Residential Construction Site Services](https://www.unitedsiteservices.com/residential-construction-site-services/)
+    * [Residential Construction](https://www.unitedsiteservices.com/residential-construction-site-services/)
     * [Industrial](https://www.unitedsiteservices.com/industrial/)
     * [Government](https://www.unitedsiteservices.com/government/)
     * [Agriculture](https://www.unitedsiteservices.com/agriculture/)
@@ -132,7 +132,7 @@
     * [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
     * [Demo Days](https://www.unitedsiteservices.com/about/demo-day/)
     * [Blog](https://www.unitedsiteservices.com/blog/)
-    * [Sustainability at United Site Services](https://www.unitedsiteservices.com/sustainability-at-uss/)
+    * [Sustainability](https://www.unitedsiteservices.com/sustainability-at-uss/)
 * [Careers](https://careers.unitedsiteservices.com/careers-home)
     
     * [Open Positions](https://careers.unitedsiteservices.com/jobs)
@@ -155,7 +155,7 @@
 
 * [1-800-864-5387](tel:1-800-864-5387)
 * [GET A QUOTE](https://www.unitedsiteservices.com/request-quote)
-* [Industry Experience](https://www.unitedsiteservices.com/your-needs/)
+* [Industries](https://www.unitedsiteservices.com/industries/)
     
     * [Events](https://www.unitedsiteservices.com/events/)
         
@@ -172,7 +172,7 @@
         * [State Fairs](https://www.unitedsiteservices.com/events/state-fairs/)
         * [Weddings](https://www.unitedsiteservices.com/events/weddings/)
     * [Construction](https://www.unitedsiteservices.com/construction/)
-    * [Residential Construction Site Services](https://www.unitedsiteservices.com/residential-construction-site-services/)
+    * [Residential Construction](https://www.unitedsiteservices.com/residential-construction-site-services/)
     * [Industrial](https://www.unitedsiteservices.com/industrial/)
     * [Government](https://www.unitedsiteservices.com/government/)
     * [Agriculture](https://www.unitedsiteservices.com/agriculture/)
@@ -200,7 +200,7 @@
     * [Acquisitions](https://www.unitedsiteservices.com/about/acquisitions/)
     * [Demo Days](https://www.unitedsiteservices.com/about/demo-day/)
     * [Blog](https://www.unitedsiteservices.com/blog/)
-    * [Sustainability at United Site Services](https://www.unitedsiteservices.com/sustainability-at-uss/)
+    * [Sustainability](https://www.unitedsiteservices.com/sustainability-at-uss/)
 * [Careers](https://careers.unitedsiteservices.com/careers-home)
     
     * [Open Positions](https://careers.unitedsiteservices.com/jobs)
