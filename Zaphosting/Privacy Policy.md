@@ -202,7 +202,7 @@ Please send any question regarding our privacy policy: ZAP-Hosting GmbH, Datensc
 Create ticket via mail
 
 average response time:  
-**1 Minute(s)**
+**9 Minute(s)**
 
 Your name (optional) 
 
