@@ -40,7 +40,6 @@ privacy
 * GET THE APPS
 * [iOS](https://itunes.apple.com/app/tubi-tv-watch-free-movies/id886445756?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.tubitv)
-* [Roku](https://channelstore.roku.com/details/41468/tubi-tv)
 * [Amazon Fire](https://www.amazon.com/Tubi-Inc-Free-Movies-TV/dp/B075NTHVJW)
 
 * PRESS
@@ -53,13 +52,13 @@ privacy
 * [Cookies](https://tubitv.com/static/cookies)
 * [Privacy Centre](https://tubitv.com/privacy-center)
 
-[](https://itunes.apple.com/app/tubi-tv-watch-free-movies/id886445756?mt=8)[](https://play.google.com/store/apps/details?id=com.tubitv)[](https://www.microsoft.com/store/apps/9N1SV6841F0B?cid=web-footer-badge)
+[](https://itunes.apple.com/app/tubi-tv-watch-free-movies/id886445756?mt=8)[](https://play.google.com/store/apps/details?id=com.tubitv)
 
 Copyright © 2024 Tubi, Inc.
 
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: 16cc7671-e871-45e8-ad4e-eb6b9565a888
+Device ID: eebd22af-ec45-4052-a2b3-936408140b46
 
 Made with Heart in San Francisco
