@@ -47,7 +47,9 @@
 
 ×
 
-#### Connect with Customers. Disconnect from Risks.
+#### Connect with Customers.
+
+#### Disconnect from Risks.
 
 Terms of Service
 ================
