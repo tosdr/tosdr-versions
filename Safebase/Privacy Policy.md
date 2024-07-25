@@ -419,11 +419,13 @@ Company
 
 [Careers](https://safebase.io/careers)
 
-[Contact us](mailto:hello@safebase.io?subject=Contact%20SafeBase)
+[Contact sales](mailto:hello@safebase.io?subject=Contact%20SafeBase)
+
+[Contact support](mailto:support@safebase.io?subject=Contact%20SafeBase)
 
 Follow us
 
-[![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/65495ddddecf4697b847b1b1_Vectors-Wrapper.svg)](https://www.linkedin.com/company/safebase/)[![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/65495ddd398a4b5ede589757_Vectors-Wrapper.svg)](https://twitter.com/getsafebase)[](https://twitter.com/getsafebase)
+[![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/65495ddddecf4697b847b1b1_Vectors-Wrapper.svg)](https://www.linkedin.com/company/safebase/)[![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/65495ddd398a4b5ede589757_Vectors-Wrapper.svg)](https://twitter.com/getsafebase)
 
 ![](https://cdn.prod.website-files.com/653aafdfb322ad22b5d0ceea/65490d2f050966407ec26db1_Vectors-Wrapper.svg)
 
