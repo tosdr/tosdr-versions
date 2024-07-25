@@ -38,8 +38,6 @@ Search for
 * [Contact Us](https://privacy.thewaltdisneycompany.com/en/support/ "Contact Us")
     * [Contact Us](https://privacy.thewaltdisneycompany.com/en/support/ "Contact Us")
 
-![Disney Brands](https://privacy.thewaltdisneycompany.com/app/themes/privacycenter/assets/dist/images/logos/drop-down-logos.png)
-
 Search
 
 Privacy Policy
