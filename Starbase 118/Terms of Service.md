@@ -354,6 +354,30 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/07/image-768x775-1.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
+
+### [New community recruits people from all over the universe](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
+
+Federation News Service July 23, 2024
+
+UNKNOWN LOCATION — Are you feeling isolated and seeking new connections? We have a solution for you.
+
+[Read More »](https://www.starbase118.net/2024/new-community-recruits-people-from-all-over-the-universe/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/lower-decks-animated-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-lhandon-nilsen-uss-octavia-e-butler/)
+
+### [Lower Decks interview: Lieutenant JG Lhandon Nilsen, USS Octavia E. Butler](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-lhandon-nilsen-uss-octavia-e-butler/)
+
+gogi8972 July 22, 2024
+
+We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
+
+[Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-lhandon-nilsen-uss-octavia-e-butler/)
+
 [![StarBase 118 Station](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![StarBase 118 Station](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/spacedock_0001_Background-1-768x408.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/situation-escalates-for-ops-crew-as-plant-and-population-go-on-offensive/)
@@ -365,30 +389,6 @@ Federation News Service July 21, 2024
 MIRI IV-A — The aggressive plant disrupting the colony of Miri IVa continues to spread, while local unrest escalates into aggression.
 
 [Read More »](https://www.starbase118.net/2024/situation-escalates-for-ops-crew-as-plant-and-population-go-on-offensive/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-i-borg-the-xbs-of-star-trek/)
-
-### [Poll of the Month:  I, Borg (the xBs of Star Trek)](https://www.starbase118.net/2024/poll-of-the-month-i-borg-the-xbs-of-star-trek/)
-
-Genkos Adea July 20, 2024
-
-Well hello there! The Poll of the Month is Back, this time with Gogigobo Fairhug writing up about everyone’s favourite villain, the Borg! Ever since
-
-[Read More »](https://www.starbase118.net/2024/poll-of-the-month-i-borg-the-xbs-of-star-trek/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/06/Departing_DS33-768x409.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/uss-khitomer-returns-after-raid-uss-arrow-feared-lost/)
-
-### [USS Khitomer returns after raid, USS Arrow feared lost](https://www.starbase118.net/2024/uss-khitomer-returns-after-raid-uss-arrow-feared-lost/)
-
-Federation News Service July 19, 2024
-
-ALPHA ISLES — The USS Khitomer has returned following an unsanctioned raid against the Lattice Alliance, with the USS Arrow now feared lost.
-
-[Read More »](https://www.starbase118.net/2024/uss-khitomer-returns-after-raid-uss-arrow-feared-lost/)
 
 Ready to get started?
 ---------------------
