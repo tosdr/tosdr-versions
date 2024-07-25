@@ -169,11 +169,7 @@ As a TikTok user, you are responsible for the content you post. If you have ques
 
 [Children's Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy?lang=en)
 
-[TikTok Web Cookies Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy?lang=en)
-
 [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
-
-[Impressum](https://www.tiktok.com/legal/impressum?lang=en)
 
 [TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
 
